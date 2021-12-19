@@ -2,6 +2,4 @@
 
 # Inclusion Rules
 
-- 
-- 
-- 
+- Not involve politics, religion, pornography and violence；

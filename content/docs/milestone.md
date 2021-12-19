@@ -2,6 +2,5 @@
 
 # Milestone
 
-- 
-- 
-- 
+- 2021-12-19
+  - Initial release
