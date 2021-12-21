@@ -2,7 +2,7 @@
 
 # Definition of English Projects
 
-Refers to projectss that contain English documents/instructions:
+Refers to projects that contain English documents/instructions:
 - The main language of the readme is English;
 - The main language of the readme is other, but there is an English version;
 - The main language of the readme is other, but the wiki has English documents;
