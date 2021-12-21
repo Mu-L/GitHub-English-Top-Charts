@@ -5,7 +5,7 @@
 <h1 align="center">GitHub English Top Charts</h1>
 
 <div align="center">
-    「Help you discover excellent English projects and get rid of the interference of other spoken language.」
+    「Help you discover excellent English projects and get rid of disturbing by other spoken language.」
 </div>
 
 <br />
