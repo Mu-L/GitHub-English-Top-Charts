@@ -1,16 +1,16 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Jupyter Notebook
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28046|2021-12-18|2021-03-03|
-|2|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|7759|2021-12-19|2021-03-03|
-|3|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|6803|2021-12-09|2021-05-29|
+|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28050|2021-12-18|2021-03-03|
+|2|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|7761|2021-12-19|2021-03-03|
+|3|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|6805|2021-12-09|2021-05-29|
 |4|[Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)|A comprehensive repository containing 30+ notebooks on learning machine learning!|2012|2021-12-20|2021-09-25|
 |5|[alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)|This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |530|2021-07-06|2021-01-31|
-|6|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|483|2021-12-20|2021-03-11|
+|6|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|484|2021-12-21|2021-03-11|
 |7|[rentruewang/learning-machine](https://github.com/rentruewang/learning-machine)|A handbook for ML built on answers.|424|2021-12-12|2021-04-04|
 |8|[Mohitkr95/Best-Data-Science-Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources)|This repository contains the best Data Science free hand-picked resources to equip you with all the industry-driven skills and interview preparation kit.|369|2021-06-13|2021-06-13|
 |9|[sscardapane/reprodl2021](https://github.com/sscardapane/reprodl2021)|Host repository for the "Reproducible Deep Learning" PhD course|339|2021-10-21|2021-04-21|
@@ -35,11 +35,11 @@
 |28|[ron2111/Awesome-Projects-Collection](https://github.com/ron2111/Awesome-Projects-Collection)|This is a beginner-friendly repo to make a collection of some unique and awesome projects. Everyone in the community can benefit & get inspired by the amazing projects present over here.|148|2021-12-02|2021-09-28|
 |29|[hila-chefer/TargetCLIP](https://github.com/hila-chefer/TargetCLIP)|Official PyTorch implementation of the paper Image-Based CLIP-Guided Essence Transfer.|146|2021-12-10|2021-10-14|
 |30|[yandex-research/shifts](https://github.com/yandex-research/shifts)|This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.|143|2021-12-07|2021-04-21|
-|31|[wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)|Hello, Welcome to this repo. don't forget to read guidelines in readme.md|134|2021-11-08|2021-10-01|
-|32|[richmanbtc/mlbot_tutorial](https://github.com/richmanbtc/mlbot_tutorial)|A tutorial for algorithmic trading bot using machine learning.|132|2021-11-28|2021-07-19|
-|33|[justinjohn0306/VQGAN-CLIP](https://github.com/justinjohn0306/VQGAN-CLIP)|VQGAN+CLIP Colab Notebook with user-friendly interface.|132|2021-11-15|2021-07-12|
-|34|[v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN)|Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)|131|2021-12-08|2021-10-17|
-|35|[PacktPublishing/Mastering-Transformers](https://github.com/PacktPublishing/Mastering-Transformers)|Mastering Transformers, published by Packt|131|2021-09-07|2021-02-08|
+|31|[richmanbtc/mlbot_tutorial](https://github.com/richmanbtc/mlbot_tutorial)|A tutorial for algorithmic trading bot using machine learning.|135|2021-11-28|2021-07-19|
+|32|[justinjohn0306/VQGAN-CLIP](https://github.com/justinjohn0306/VQGAN-CLIP)|VQGAN+CLIP Colab Notebook with user-friendly interface.|135|2021-11-15|2021-07-12|
+|33|[wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)|Hello, Welcome to this repo. don't forget to read guidelines in readme.md|133|2021-11-08|2021-10-01|
+|34|[PacktPublishing/Mastering-Transformers](https://github.com/PacktPublishing/Mastering-Transformers)|Mastering Transformers, published by Packt|132|2021-09-07|2021-02-08|
+|35|[v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN)|Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)|131|2021-12-08|2021-10-17|
 |36|[GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)|Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud|130|2021-12-20|2021-05-27|
 |37|[vanshika230/Machine-Learning](https://github.com/vanshika230/Machine-Learning)|This repository contains implementations of all Machine Learning Algorithms from scratch in Python. Mathematics required for ML and many projects have also been included.|127|2021-11-27|2021-07-28|
 |38|[milaan9/90_Python_Examples](https://github.com/milaan9/90_Python_Examples)|The best way to learn Python is by practicing examples. The repository contains examples of basic concepts of Python. You are advised to take the references from these examples and try them on your ow ...|126|2021-10-17|2021-07-02|
@@ -55,18 +55,18 @@
 |48|[AngelRuizMoreno/Jupyter_Dock](https://github.com/AngelRuizMoreno/Jupyter_Dock)|Jupyter Dock is a set of Jupyter Notebooks for performing molecular docking protocols interactively, as well as visualizing, converting file formats and analyzing the results.|106|2021-11-24|2021-09-10|
 |49|[graph4ai/graph4nlp_demo](https://github.com/graph4ai/graph4nlp_demo)|This repo is to present various code demos on how to use our Graph4NLP library. |106|2021-11-19|2021-06-04|
 |50|[rasgointelligence/feature-engineering-tutorials](https://github.com/rasgointelligence/feature-engineering-tutorials)|Data Science Feature Engineering and Selection Tutorials|106|2021-11-02|2021-05-07|
-|51|[milaan9/Clustering_Algorithms_from_Scratch](https://github.com/milaan9/Clustering_Algorithms_from_Scratch)|Implementing Clustering Algorithms from scratch in MATLAB and Python|103|2021-12-02|2021-07-12|
-|52|[pyoverflow/CS-Tutorial](https://github.com/pyoverflow/CS-Tutorial)|Source Code for CS Courses Offered by Ali Hejazizo|103|2021-12-18|2021-01-17|
+|51|[milaan9/Clustering_Algorithms_from_Scratch](https://github.com/milaan9/Clustering_Algorithms_from_Scratch)|Implementing Clustering Algorithms from scratch in MATLAB and Python|104|2021-12-02|2021-07-12|
+|52|[pytopia/CS-Tutorial](https://github.com/pytopia/CS-Tutorial)|Source Code for CS Courses Offered by Ali Hejazizo|103|2021-12-18|2021-01-17|
 |53|[lmy931/aws-forecast-sample-with-weather-index](https://github.com/lmy931/aws-forecast-sample-with-weather-index)|This repo provides a sample how to use AWS Forecast with weather and holiday index using Python SDK and API calls|102|2021-11-22|2021-11-22|
-|54|[milaan9/Python_Natural_Language_Processing](https://github.com/milaan9/Python_Natural_Language_Processing)|This repository consists of a complete guide on natural language processing (NLP) in Python where we'll learn various techniques for implementing NLP including parsing & text processing and understand ...|101|2021-11-09|2021-11-08|
+|54|[milaan9/Python_Natural_Language_Processing](https://github.com/milaan9/Python_Natural_Language_Processing)|This repository consists of a complete guide on natural language processing (NLP) in Python where we'll learn various techniques for implementing NLP including parsing & text processing and understand ...|102|2021-11-09|2021-11-08|
 |55|[milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions)|My Solutions to 120 commonly asked data science interview questions.|101|2021-11-16|2021-09-21|
 |56|[bkamins/JuliaCon2021-DataFrames-Tutorial](https://github.com/bkamins/JuliaCon2021-DataFrames-Tutorial)|A tutorial on DataFrames.jl prepared for JuliaCon2021|98|2021-12-08|2021-06-06|
 |57|[Fraud-Detection-Handbook/fraud-detection-handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)|Machine Learning for Credit Card Fraud Detection - Practical Handbook|97|2021-12-03|2021-05-03|
 |58|[gagan3012/project-code-py](https://github.com/gagan3012/project-code-py)|Leetcode using AI|94|2021-10-15|2021-03-03|
-|59|[microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)|Examples of using the Planetary Computer|93|2021-12-16|2021-04-13|
-|60|[Minhluu2911/BASIC_Machine_Learning_2_months](https://github.com/Minhluu2911/BASIC_Machine_Learning_2_months)|I'm challenging to myself to learn Machine Learning Algorithms, as much as I can within 2 months|92|2021-06-22|2021-04-17|
-|61|[chrisdonahue/music-cocreation-tutorial](https://github.com/chrisdonahue/music-cocreation-tutorial)|Start-to-finish tutorial for interactive music co-creation in PyTorch and Tensorflow.js|90|2021-11-06|2021-10-22|
-|62|[Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)|Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled "PWPAE: An Ensemble Framework for Concept Drift Adaptation in IoT Data S ...|90|2021-09-24|2021-08-16|
+|59|[Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)|Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled "PWPAE: An Ensemble Framework for Concept Drift Adaptation in IoT Data S ...|93|2021-09-24|2021-08-16|
+|60|[microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)|Examples of using the Planetary Computer|93|2021-12-16|2021-04-13|
+|61|[Minhluu2911/BASIC_Machine_Learning_2_months](https://github.com/Minhluu2911/BASIC_Machine_Learning_2_months)|I'm challenging to myself to learn Machine Learning Algorithms, as much as I can within 2 months|92|2021-06-22|2021-04-17|
+|62|[chrisdonahue/music-cocreation-tutorial](https://github.com/chrisdonahue/music-cocreation-tutorial)|Start-to-finish tutorial for interactive music co-creation in PyTorch and Tensorflow.js|90|2021-11-06|2021-10-22|
 |63|[ARBML/Calliar](https://github.com/ARBML/Calliar)|A dataset for online Arabic calligraphy. A collection of 2500 annotated calligraphic styles. |89|2021-07-08|2021-05-08|
 |64|[timholy/AdvancedScientificComputing](https://github.com/timholy/AdvancedScientificComputing)|A short course on Julia and open-source software development|87|2021-11-05|2021-10-05|
 |65|[probml/probml-notebooks](https://github.com/probml/probml-notebooks)|Notebooks for "Probabilistic Machine Learning" book|83|2021-11-22|2021-07-16|
@@ -89,10 +89,10 @@
 |82|[derekbanas/Python4Finance](https://github.com/derekbanas/Python4Finance)|I get many questions about how to analyze the Stock Market with Python. I am creating a new playlist of videos that will completely cover Python for Finance. |61|2021-12-15|2021-08-19|
 |83|[MediaTek-NeuroPilot/mai21-learned-smartphone-isp](https://github.com/MediaTek-NeuroPilot/mai21-learned-smartphone-isp)|The official codebase for the Learned Smartphone ISP Challenge in MAI @ CVPR 2021|61|2021-06-12|2021-01-15|
 |84|[sjchoi86/rl_tutorial](https://github.com/sjchoi86/rl_tutorial)|Yet Another Reinforcement Learning Tutorial|60|2021-09-11|2021-08-10|
-|85|[tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons)|TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX- ...|57|2021-12-11|2021-03-16|
-|86|[Shreyz-max/Video-Captioning](https://github.com/Shreyz-max/Video-Captioning)|Video Captioning is an encoder decoder mode based on sequence to sequence learning|57|2021-12-09|2021-03-02|
-|87|[ouhenio/StyleGAN3-CLIP-notebooks](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)|A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.|56|2021-12-17|2021-10-13|
-|88|[kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground)|An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities. |56|2021-07-28|2021-07-25|
+|85|[kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground)|An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities. |57|2021-07-28|2021-07-25|
+|86|[tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons)|TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX- ...|57|2021-12-11|2021-03-16|
+|87|[Shreyz-max/Video-Captioning](https://github.com/Shreyz-max/Video-Captioning)|Video Captioning is an encoder decoder mode based on sequence to sequence learning|57|2021-12-09|2021-03-02|
+|88|[ouhenio/StyleGAN3-CLIP-notebooks](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)|A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.|56|2021-12-17|2021-10-13|
 |89|[kochbj/Deep-Learning-for-Causal-Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference)|Extensive tutorials for learning how to build deep learning models for causal inference using selection on observables in Tensorflow 2.|56|2021-11-10|2021-01-05|
 |90|[DIG-Kaust/Seismology](https://github.com/DIG-Kaust/Seismology)|Teaching material for ErSE 210 Seismology course|54|2021-11-29|2021-04-30|
 |91|[yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course)|YSDA course in Speech Processing. |54|2021-11-02|2021-02-15|

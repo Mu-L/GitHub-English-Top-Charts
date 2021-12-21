@@ -1,20 +1,20 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Perl
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|14807|7|2021-11-11|
-|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13085|6|2021-12-19|
+|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|14808|7|2021-11-11|
+|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13090|6|2021-12-19|
 |3|[samyk/slipstream](https://github.com/samyk/slipstream)|NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website|1643|4|2021-09-13|
-|4|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12296|3|2021-10-21|
-|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5348|2|2021-12-09|
+|4|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12297|3|2021-10-21|
+|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5352|2|2021-12-09|
 |6|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8023|2|2021-09-24|
-|7|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7282|2|2021-11-24|
-|8|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1014|2|2021-12-20|
+|7|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7283|2|2021-11-24|
+|8|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1014|2|2021-12-21|
 |9|[newsnowlabs/dockside](https://github.com/newsnowlabs/dockside)|Dockside is a tool for provisioning lightweight access-controlled IDEs, staging environments and sandboxes - aka 'devtainers' - on local machine, on-premises raw metal or VM, or in the cloud|94|1|2021-12-21|
-|10|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2521|1|2021-12-14|
+|10|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2522|1|2021-12-14|
 |11|[jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)|Next-Generation Linux Kernel Exploit Suggester|1214|1|2021-10-12|
 |12|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2320|1|2021-12-05|
 |13|[anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)|Simple Dilbert themed system info-fetching tool|142|1|2021-11-18|
@@ -22,9 +22,9 @@
 |15|[gvwilson/12-design](https://github.com/gvwilson/12-design)|Ten Quick Software Design Tips for Data Scientists|131|1|2021-12-06|
 |16|[thunderpoot/cliptoe](https://github.com/thunderpoot/cliptoe)|Command Line Interactive Periodic Table of Elements|6|1|2021-12-19|
 |17|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2698|1|2021-09-24|
-|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|1844|1|2021-12-10|
-|19|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2337|1|2021-12-18|
-|20|[chinarulezzz/pixload](https://github.com/chinarulezzz/pixload)|Image Payload Creating/Injecting tools|726|1|2021-12-09|
+|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|1843|1|2021-12-10|
+|19|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2339|1|2021-12-18|
+|20|[chinarulezzz/pixload](https://github.com/chinarulezzz/pixload)|Image Payload Creating/Injecting tools|727|1|2021-12-09|
 |21|[sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf)|SICP PDF with Texinfo and LaTeX source|3964|1|2021-07-01|
 |22|[liuhuigmail/GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository)|A bug repository that keeps growing|200|1|2021-12-17|
 |23|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|2202|1|2021-11-03|
@@ -41,7 +41,7 @@
 |34|[fdaciuk/dotfiles](https://github.com/fdaciuk/dotfiles)|My configuration files for zsh, neovim and tmux.|33|0|2021-12-19|
 |35|[philiprbrenan/NasmX86](https://github.com/philiprbrenan/NasmX86)|Write and run X86-64 code in Perl|2|0|2021-12-05|
 |36|[PerlServices/OPM-Validate](https://github.com/PerlServices/OPM-Validate)|Validate OPM packages for ticketsystems|2|0|2021-10-01|
-|37|[Ensembl/ensembl-compara](https://github.com/Ensembl/ensembl-compara)|The Ensembl Compara Perl API and SQL schema|43|0|2021-12-20|
+|37|[Ensembl/ensembl-compara](https://github.com/Ensembl/ensembl-compara)|The Ensembl Compara Perl API and SQL schema|43|0|2021-12-21|
 |38|[ufal/perl-pmltq-server](https://github.com/ufal/perl-pmltq-server)|Refactored and simplified PMLTQ::CGI|3|0|2021-11-04|
 |39|[asdcid/Chloroplast-genome-assembly](https://github.com/asdcid/Chloroplast-genome-assembly)|A pipeline for assemble chroloplast genome using short/long reads|5|0|2021-06-11|
 |40|[danaj/Math-Prime-Util](https://github.com/danaj/Math-Prime-Util)|Perl (XS) module implementing prime number utilities, including sieves|43|0|2021-10-06|
@@ -96,7 +96,7 @@
 |89|[jschauma/gip](https://github.com/jschauma/gip)|get an IP in a geographical location or country|5|0|2021-07-09|
 |90|[kettenbach-it/FHEM-SMA-Speedwire](https://github.com/kettenbach-it/FHEM-SMA-Speedwire)|FHEM-Modules for the SMA Energy Meter and SMA Inverters|6|0|2021-10-28|
 |91|[haoess/dingler-index](https://github.com/haoess/dingler-index)|Experimental presentation website for the DFG project »Digitalisierung des Polytechnischen Journals«|4|0|2021-09-08|
-|92|[JJ/IV](https://github.com/JJ/IV)|Asignatura de infraestructuras virtuales para el Grado de Informática|49|0|2021-12-17|
+|92|[JJ/IV](https://github.com/JJ/IV)|Asignatura de infraestructuras virtuales para el Grado de Informática|49|0|2021-12-21|
 |93|[Juniper/topoviz](https://github.com/Juniper/topoviz)|A network topology visualisation tool. Creates a force directed graph from the output of a JUNOS cli cmd|4|0|2021-07-08|
 |94|[mvduin/bbb-pin-utils](https://github.com/mvduin/bbb-pin-utils)|Pin utilities for BeagleBone Black|26|0|2021-10-05|
 |95|[cape-it/kix17-start](https://github.com/cape-it/kix17-start)|"KIX17 Start" is a complete service management solution including ticketing, CMDB/asset management, knowledge base, process management and reporting. Application fields are technical service managemen ...|12|0|2021-12-14|

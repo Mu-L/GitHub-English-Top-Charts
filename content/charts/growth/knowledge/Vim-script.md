@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vim script
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -11,12 +11,12 @@
 |4|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|156|1|2021-12-18|
 |5|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1692|1|2021-09-23|
 |6|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|402|1|2021-10-16|
-|7|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|1956|1|2021-12-20|
+|7|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|1957|1|2021-12-20|
 |8|[gabriel8fm/dotfiles](https://github.com/gabriel8fm/dotfiles)|Ansible playbook and role to install software that will be used to do my job|4|0|2021-09-17|
 |9|[WolfgangMehner/lua-support](https://github.com/WolfgangMehner/lua-support)|Edit Lua scripts in Vim/gVim/Neovim. Insert code snippets, run, compile, and check the code and look up help.|22|0|2021-09-22|
 |10|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|18|0|2021-12-13|
 |11|[killroy1971/dotfiles](https://github.com/killroy1971/dotfiles)|A collection of my personal shell configuration files, or "dotfiles"|2|0|2021-06-30|
-|12|[Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin|1066|0|2021-09-20|
+|12|[Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin|1067|0|2021-09-20|
 |13|[acarapetis/vim-sh-heredoc-highlighting](https://github.com/acarapetis/vim-sh-heredoc-highlighting)|Syntax highlighting for code snippets in shell heredocs|4|0|2021-07-14|
 |14|[bourgeoisor/dotfiles](https://github.com/bourgeoisor/dotfiles)|:floppy_disk: A collection of configuration files I use on my Unix systems.|2|0|2021-06-08|
 |15|[Ziggoto/dotfiles](https://github.com/Ziggoto/dotfiles)|A collection of scripts that I use on my daily activities|5|0|2021-09-29|
@@ -51,7 +51,7 @@
 |44|[danhp/dotfiles](https://github.com/danhp/dotfiles)|:wrench: My collection of .files|2|0|2021-11-09|
 |45|[JhersonMedina/Competitive-Programming-Journal](https://github.com/JhersonMedina/Competitive-Programming-Journal)|Everything that I've learned about Competitive Programming so far.|2|0|2021-11-30|
 |46|[sepehr/dotfiles](https://github.com/sepehr/dotfiles)|Collection of dotfiles and machine setup scripts.|5|0|2021-09-23|
-|47|[ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim)|Vim syntax file & snippets for Docker's Dockerfile|667|0|2021-09-06|
+|47|[ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim)|Vim syntax file & snippets for Docker's Dockerfile|668|0|2021-09-06|
 |48|[MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks)|Vim bookmark plugin|702|0|2021-11-14|
 |49|[Konfekt/vim-compilers](https://github.com/Konfekt/vim-compilers)|a collection of compilers for ready use by Vim's built-in compiler feature (see :help :compiler)|31|0|2021-11-17|
 |50|[907th/dot-files](https://github.com/907th/dot-files)|This is my collection of dot-files.|2|0|2021-12-01|
@@ -85,14 +85,14 @@
 |78|[thammi/dotfoo](https://github.com/thammi/dotfoo)|Collection of my config files (awesome, vim, ...)|3|0|2021-11-12|
 |79|[WolfgangMehner/c-support](https://github.com/WolfgangMehner/c-support)|Edit C/C++ programs in Vim/gVim. Insert code snippets, compile the code, run Make/CMake/... and look up help.|73|0|2021-09-22|
 |80|[maxprehl/dotfiles](https://github.com/maxprehl/dotfiles)|Git bare repo collection of my dotfiles.|2|0|2021-08-30|
-|81|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|23|0|2021-12-20|
+|81|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|23|0|2021-12-21|
 |82|[mg979/vim-mini-plugins](https://github.com/mg979/vim-mini-plugins)|Collection of low-config small plugins|12|0|2021-09-15|
 |83|[tandrewnichols/vim-contemplate](https://github.com/tandrewnichols/vim-contemplate)|A combination scaffolder and snippet expander for vim|5|0|2021-09-12|
 |84|[adammansfield/my-dotfiles](https://github.com/adammansfield/my-dotfiles)|My personal collection of configuration files for Linux, Windows For Linux Subsystem (WSL), and Powershell.|2|0|2021-12-09|
 |85|[ashish10alex/system-setup](https://github.com/ashish10alex/system-setup)|My development environment and system setup guides|2|0|2021-11-23|
 |86|[AndrewRadev/rustbucket.vim](https://github.com/AndrewRadev/rustbucket.vim)|[WIP] A collection of Rust tools for Vim|2|0|2021-07-11|
 |87|[lawrencejones/dotfiles](https://github.com/lawrencejones/dotfiles)|Collection of my dotfiles|8|0|2021-09-18|
-|88|[quintik/Snip](https://github.com/quintik/Snip)|A pseudo-snippet-engine based on vim abbreviations!|13|0|2021-08-30|
+|88|[quintik/Snip](https://github.com/quintik/Snip)|-|13|0|2021-12-21|
 |89|[domaindrivendev/my-mac](https://github.com/domaindrivendev/my-mac)|Repeatable Ansible roles and playbook for provisioning my MacBook|5|0|2021-12-07|
 |90|[arkku/vim-plugin-collection](https://github.com/arkku/vim-plugin-collection)|A collection of Vim plugins as submodules|3|0|2021-07-22|
 |91|[anddddrew/dot](https://github.com/anddddrew/dot)|☾ Dotfiles on my Macbook M1 Pro.|2|0|2021-12-03|
@@ -103,7 +103,7 @@
 |96|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only master branch is safe!|30|0|2021-12-09|
 |97|[tomswartz07/linux-configs](https://github.com/tomswartz07/linux-configs)|Collection of Linux config files|3|0|2021-11-02|
 |98|[wozgeass/Vim-IDE](https://github.com/wozgeass/Vim-IDE)|Un compendio de varios plugins bien integrados, mejoras en el resaltado de sintaxis y snippets para diferentes lenguajes.|2|0|2021-10-27|
-|99|[YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)|A personal light theme for (Neo)Vim, based on the colour of paper as found in various notebooks. This project is a read-only mirror of https://gitlab.com/yorickpeterse/vim-paper.|41|0|2021-07-15|
+|99|[YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)|A personal light theme for (Neo)Vim, based on the colour of paper as found in various notebooks. This project is a read-only mirror of https://gitlab.com/yorickpeterse/vim-paper.|44|0|2021-07-15|
 |100|[WolfgangMehner/perl-support](https://github.com/WolfgangMehner/perl-support)|Edit Perl scripts in Vim/gVim. Insert code snippets, run, check, and profile the code and look up help.|22|0|2021-09-22|
 
 <div align="center">

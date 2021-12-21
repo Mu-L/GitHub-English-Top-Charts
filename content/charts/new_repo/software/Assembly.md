@@ -1,20 +1,20 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|1764|2021-12-20|2021-05-25|
-|2|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1597|2021-10-06|2021-03-22|
-|3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1278|2021-10-24|2021-06-18|
-|4|[jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)|AV/EDR evasion via direct system calls.|760|2021-11-25|2021-01-02|
+|1|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|1768|2021-12-21|2021-05-25|
+|2|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1596|2021-10-06|2021-03-22|
+|3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1279|2021-10-24|2021-06-18|
+|4|[jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)|AV/EDR evasion via direct system calls.|762|2021-11-25|2021-01-02|
 |5|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|678|2021-12-05|2021-08-02|
-|6|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|314|2021-11-25|2021-10-25|
+|6|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|315|2021-11-25|2021-10-25|
 |7|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|302|2021-11-03|2021-10-25|
 |8|[NattyNarwhal/vmwmouse](https://github.com/NattyNarwhal/vmwmouse)|VMware mouse driver for Windows 3.1|284|2021-12-01|2021-11-26|
 |9|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|217|2021-11-29|2021-11-12|
-|10|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|142|2021-11-14|2021-11-13|
+|10|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|143|2021-11-14|2021-11-13|
 |11|[ajpc500/NimlineWhispers](https://github.com/ajpc500/NimlineWhispers)|A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.|128|2021-09-10|2021-01-13|
 |12|[android/renderscript-intrinsics-replacement-toolkit](https://github.com/android/renderscript-intrinsics-replacement-toolkit)|-|116|2021-11-02|2021-04-16|
 |13|[boku7/winx64-InjectAllProcessesMeterpreter-Shellcode](https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode)|64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.|107|2021-08-16|2021-05-01|
@@ -45,7 +45,7 @@
 |38|[0dayNinja/Windows-x64-Processes-Injector](https://github.com/0dayNinja/Windows-x64-Processes-Injector)|0day Windows/x64 Inject All Processes With Meterpreter Reverse Shell Shellcode (655 bytes)|34|2021-07-30|2021-07-30|
 |39|[bobbimanners/Applecorn](https://github.com/bobbimanners/Applecorn)|Allows Acorn BBC Microcomputer language ROMs to run on Apple //e enhanced, //c and IIGS.|34|2021-12-08|2021-07-16|
 |40|[lunasorcery/aoc-21](https://github.com/lunasorcery/aoc-21)|Advent of Code 2021, in pure ARM assembly on GBA.|33|2021-12-11|2021-12-02|
-|41|[visrealm/hbc-56](https://github.com/visrealm/hbc-56)|Homebrew 8-bit Backplane Computer|33|2021-12-19|2021-06-05|
+|41|[visrealm/hbc-56](https://github.com/visrealm/hbc-56)|Homebrew 8-bit Backplane Computer|33|2021-12-21|2021-06-05|
 |42|[rvalles/optromloader](https://github.com/rvalles/optromloader)|IBM PC/Clone 8086+ floppy-loading of option roms.|31|2021-10-13|2021-09-14|
 |43|[skiselev/isa8_eth](https://github.com/skiselev/isa8_eth)|ISA 8-Bit Ethernet Controller|29|2021-12-14|2021-04-23|
 |44|[ORCA666/artifact32](https://github.com/ORCA666/artifact32)|THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD|28|2021-09-25|2021-09-25|
@@ -66,10 +66,10 @@
 |59|[arnaud-carre/ldos](https://github.com/arnaud-carre/ldos)|Leonard Demo Operating System (Amiga version)|21|2021-12-05|2021-09-10|
 |60|[cvghivebrain/s1disasm](https://github.com/cvghivebrain/s1disasm)|Sonic the Hedgehog (Mega Drive) Hivebrain 2021+ disassembly|21|2021-12-21|2021-07-27|
 |61|[srg320/Saturn_hw](https://github.com/srg320/Saturn_hw)|-|21|2021-09-09|2021-05-23|
-|62|[kb-elmo/twelvekey](https://github.com/kb-elmo/twelvekey)|simple mechanical macropad case|21|2021-10-03|2021-01-04|
-|63|[marciot/mac-tip](https://github.com/marciot/mac-tip)|A port of GRC's "TIP: Zip & Jaz Drive and Cartridge Testing System" for 68k and PowerPC Macintosh systems|20|2021-12-09|2021-11-20|
-|64|[timwhitez/Doge-Direct-Syscall](https://github.com/timwhitez/Doge-Direct-Syscall)|Golang Direct Syscall|20|2021-09-02|2021-09-02|
-|65|[arthurtilly/rhythmtengoku](https://github.com/arthurtilly/rhythmtengoku)|-|20|2021-12-05|2021-05-11|
+|62|[arthurtilly/rhythmtengoku](https://github.com/arthurtilly/rhythmtengoku)|-|21|2021-12-05|2021-05-11|
+|63|[kb-elmo/twelvekey](https://github.com/kb-elmo/twelvekey)|simple mechanical macropad case|21|2021-10-03|2021-01-04|
+|64|[marciot/mac-tip](https://github.com/marciot/mac-tip)|A port of GRC's "TIP: Zip & Jaz Drive and Cartridge Testing System" for 68k and PowerPC Macintosh systems|20|2021-12-09|2021-11-20|
+|65|[timwhitez/Doge-Direct-Syscall](https://github.com/timwhitez/Doge-Direct-Syscall)|Golang Direct Syscall|20|2021-09-02|2021-09-02|
 |66|[iCopy-X-Community/icopyx-teardown](https://github.com/iCopy-X-Community/icopyx-teardown)|-|19|2021-10-15|2021-06-14|
 |67|[anitatabaczka/Assembler-x86-32-ATT](https://github.com/anitatabaczka/Assembler-x86-32-ATT)|Small programs written in Assembler x86 IA-32 AT&T syntax|19|2021-07-25|2021-04-12|
 |68|[msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub)|Open-source "hyp" firmware stub for Qualcomm MSM8916/APQ8016/MSM8939 that allows using EL2/KVM|19|2021-10-25|2021-03-26|
@@ -92,19 +92,19 @@
 |85|[Baron-von-Riedesel/DOS32pae](https://github.com/Baron-von-Riedesel/DOS32pae)|DOS32pae is a "micro" (or perhaps "nano") DOS extender using PAE paging|16|2021-10-10|2021-02-21|
 |86|[Bread80/CPC6128-Firmware-Source](https://github.com/Bread80/CPC6128-Firmware-Source)|Unassembled Amstrad CPC6128 Firmware|15|2021-11-01|2021-10-17|
 |87|[projectPiki/pikmin](https://github.com/projectPiki/pikmin)|A decompilation of Pikmin brought to you by a bunch of clever folks.|15|2021-12-21|2021-09-28|
-|88|[markmoxon/aviator-beebasm](https://github.com/markmoxon/aviator-beebasm)|Source code for Aviator on the BBC Micro|15|2021-12-20|2021-09-07|
+|88|[markmoxon/aviator-beebasm](https://github.com/markmoxon/aviator-beebasm)|Source code for Aviator on the BBC Micro|15|2021-12-21|2021-09-07|
 |89|[lvtx/OLEDLG-for-Visual-Assist-X](https://github.com/lvtx/OLEDLG-for-Visual-Assist-X)|OLEDLG for Visual Assist X General crack patch|15|2021-07-30|2021-07-30|
 |90|[nauful/gb-ts](https://github.com/nauful/gb-ts)|Browser-based Gameboy emulator in Typescript and WebGL|15|2021-07-21|2021-07-21|
 |91|[cocotyty/dpig](https://github.com/cocotyty/dpig)|Dynamic Proxy Implementation In Go|15|2021-07-22|2021-07-15|
-|92|[mwenge/tempest2k](https://github.com/mwenge/tempest2k)|Tempest 2000 (1994) by Jeff Minter|15|2021-06-20|2021-06-08|
-|93|[AzureKeys/BW3G](https://github.com/AzureKeys/BW3G)|Black and White 3: Genesis|15|2021-12-19|2021-01-17|
-|94|[KevEdwards/Galaforce2BBC](https://github.com/KevEdwards/Galaforce2BBC)|Galaforce 2 for the BBC Micro home computer from 1987 ( full, buildable 6502 source code )|14|2021-11-29|2021-11-29|
-|95|[homebrew8088/8088-PC-Compatible](https://github.com/homebrew8088/8088-PC-Compatible)|8088 PC XT Compatible|14|2021-11-28|2021-11-04|
-|96|[FUComplete/Patch](https://github.com/FUComplete/Patch)|P2G patch with english localization/translation and built-in event quests.|14|2021-12-07|2021-10-15|
-|97|[mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)|-|14|2021-11-11|2021-08-27|
-|98|[vinheim3/sakuraWars1-disasm](https://github.com/vinheim3/sakuraWars1-disasm)|-|14|2021-11-08|2021-08-08|
-|99|[ibara/bf256](https://github.com/ibara/bf256)|Brainfuck compiler under 256 bytes in size.|14|2021-09-13|2021-07-10|
-|100|[Kurausukun/mother3](https://github.com/Kurausukun/mother3)|-|14|2021-11-16|2021-07-09|
+|92|[monsonite/MINT](https://github.com/monsonite/MINT)|A minimal interpreter in Z80 assembly for the RC2014 Micro|15|2021-12-21|2021-07-05|
+|93|[mwenge/tempest2k](https://github.com/mwenge/tempest2k)|Tempest 2000 (1994) by Jeff Minter|15|2021-06-20|2021-06-08|
+|94|[AzureKeys/BW3G](https://github.com/AzureKeys/BW3G)|Black and White 3: Genesis|15|2021-12-19|2021-01-17|
+|95|[KevEdwards/Galaforce2BBC](https://github.com/KevEdwards/Galaforce2BBC)|Galaforce 2 for the BBC Micro home computer from 1987 ( full, buildable 6502 source code )|14|2021-11-29|2021-11-29|
+|96|[homebrew8088/8088-PC-Compatible](https://github.com/homebrew8088/8088-PC-Compatible)|8088 PC XT Compatible|14|2021-11-28|2021-11-04|
+|97|[FUComplete/Patch](https://github.com/FUComplete/Patch)|P2G patch with english localization/translation and built-in event quests.|14|2021-12-07|2021-10-15|
+|98|[mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)|-|14|2021-11-11|2021-08-27|
+|99|[vinheim3/sakuraWars1-disasm](https://github.com/vinheim3/sakuraWars1-disasm)|-|14|2021-11-08|2021-08-08|
+|100|[ibara/bf256](https://github.com/ibara/bf256)|Brainfuck compiler under 256 bytes in size.|14|2021-09-13|2021-07-10|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

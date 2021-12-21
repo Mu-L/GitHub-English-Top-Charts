@@ -1,16 +1,16 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > R
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|319|2021-12-20|2021-05-12|
-|2|[AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath)|Create curved text paths in ggplot2|260|2021-12-20|2021-11-10|
+|1|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|319|2021-12-21|2021-05-12|
+|2|[AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath)|Create curved text paths in ggplot2|260|2021-12-21|2021-11-10|
 |3|[lindeloev/job](https://github.com/lindeloev/job)|job: free Your RStudio Console|213|2021-06-10|2021-04-25|
 |4|[NCIC-PARALLEL/Graphine-SDK](https://github.com/NCIC-PARALLEL/Graphine-SDK)|-|192|2021-07-22|2021-07-22|
 |5|[cjbarrie/academictwitteR](https://github.com/cjbarrie/academictwitteR)|Repo for academictwitteR package to query the Twitter Academic Research Product Track v2 API endpoint.|185|2021-12-21|2021-02-18|
-|6|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|181|2021-12-16|2021-12-11|
+|6|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|182|2021-12-16|2021-12-11|
 |7|[Azure/Microsoft365R](https://github.com/Azure/Microsoft365R)|R SDK for interacting with Microsoft 365 APIs|168|2021-11-24|2021-01-11|
 |8|[eusporg/alphaicon](https://github.com/eusporg/alphaicon)|α-Indirect Control in Onion-like Networks|146|2021-10-01|2021-09-16|
 |9|[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)|A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob|113|2021-12-15|2021-01-01|
@@ -20,8 +20,8 @@
 |13|[rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot)|A user-friendly, highly customizable R package for building horizon plots in ggplot2|99|2021-09-20|2021-03-16|
 |14|[ianmoran11/mmtable2](https://github.com/ianmoran11/mmtable2)|Create and combine tables with a ggplot2/patchwork syntax.|97|2021-10-20|2021-04-11|
 |15|[piersyork/owidR](https://github.com/piersyork/owidR)|An R Package for Importing Data from Our World in Data|92|2021-11-09|2021-06-28|
-|16|[svalvaro/drawCell](https://github.com/svalvaro/drawCell)|R package to create cell pictures.|86|2021-10-27|2021-07-21|
-|17|[HudsonJamie/tidy_tuesday](https://github.com/HudsonJamie/tidy_tuesday)|Scripts from Tidy Tuesday fun|86|2021-12-15|2021-03-15|
+|16|[HudsonJamie/tidy_tuesday](https://github.com/HudsonJamie/tidy_tuesday)|Scripts from Tidy Tuesday fun|87|2021-12-21|2021-03-15|
+|17|[svalvaro/drawCell](https://github.com/svalvaro/drawCell)|R package to create cell pictures.|86|2021-10-27|2021-07-21|
 |18|[SebKrantz/fastverse](https://github.com/SebKrantz/fastverse)|An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R|86|2021-09-01|2021-03-11|
 |19|[vincentarelbundock/marginaleffects](https://github.com/vincentarelbundock/marginaleffects)|An R package to compute marginal effects, adjusted predictions, contrasts, and marginal means for a wide variety of models|82|2021-12-19|2021-09-06|
 |20|[h-a-graham/rayvista](https://github.com/h-a-graham/rayvista)|An R plugin for {rayshader} to view a 3D vista anywhere on earth.|70|2021-11-12|2021-05-07|
@@ -32,15 +32,15 @@
 |25|[R-CoderDotCom/ggcats](https://github.com/R-CoderDotCom/ggcats)|The geom you always wished for adding cats to ggplot2|64|2021-07-15|2021-01-26|
 |26|[arthurwelle/codehover](https://github.com/arthurwelle/codehover)|Hoverable HTML Table for Displaying Intermediary Code Results (e.g. Pipes)|63|2021-08-17|2021-05-31|
 |27|[YuLab-SMU/ggbreak](https://github.com/YuLab-SMU/ggbreak)|:broken_heart: An implementation of scale functions for setting axis breaks of a 'gg' plot.|63|2021-12-20|2021-05-10|
-|28|[BlasBenito/spatialRF](https://github.com/BlasBenito/spatialRF)|R package to fit spatial models with Random Forest|62|2021-11-08|2021-01-19|
+|28|[BlasBenito/spatialRF](https://github.com/BlasBenito/spatialRF)|R package to fit spatial models with Random Forest|61|2021-11-08|2021-01-19|
 |29|[JosiahParry/sfweight](https://github.com/JosiahParry/sfweight)|Calculate spatial weights and lags with {sf} objects and the tidyverse. |60|2021-11-16|2021-05-24|
-|30|[mdneuzerling/lambdr](https://github.com/mdneuzerling/lambdr)|Run R containers on AWS Lambda|58|2021-11-21|2021-10-01|
+|30|[mdneuzerling/lambdr](https://github.com/mdneuzerling/lambdr)|Run R containers on AWS Lambda|59|2021-11-21|2021-10-01|
 |31|[rossdrucker/sportyR](https://github.com/rossdrucker/sportyR)|R package for drawing regulation playing surfaces for several sports|58|2021-11-03|2021-03-21|
 |32|[bkelly-lab/ReplicationCrisis](https://github.com/bkelly-lab/ReplicationCrisis)|Code for "Is There a Replication Crisis in Finance" by Jensen, Kelly and Pedersen (2021)|58|2021-12-14|2021-01-15|
 |33|[MilesMcBain/tflow](https://github.com/MilesMcBain/tflow)|An opinionated lightweight template for smooth targets flows.|53|2021-12-21|2021-01-21|
 |34|[jnolis/ggirl](https://github.com/jnolis/ggirl)|Make GGplots In Real Life|51|2021-08-10|2021-03-16|
 |35|[easystats/datawizard](https://github.com/easystats/datawizard)|Magic potions to clean and transform your data 🧙 |50|2021-12-10|2021-05-26|
-|36|[Roche-GSK/admiral](https://github.com/Roche-GSK/admiral)|ADaM in R Asset Library|50|2021-12-20|2021-03-18|
+|36|[Roche-GSK/admiral](https://github.com/Roche-GSK/admiral)|ADaM in R Asset Library|50|2021-12-21|2021-03-18|
 |37|[pre-processing-r/rpp](https://github.com/pre-processing-r/rpp)|An approach to preprocessing R code|45|2021-12-19|2021-07-06|
 |38|[nealhaddaway/citationchaser](https://github.com/nealhaddaway/citationchaser)|-|45|2021-11-29|2021-01-30|
 |39|[juba/obsplot](https://github.com/juba/obsplot)|Observable Plot bindings for R|44|2021-12-05|2021-07-08|
@@ -68,7 +68,7 @@
 |61|[XiaoLuo-boy/ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap)|ggplot2 version of heatmap|32|2021-07-25|2021-05-20|
 |62|[dreamRs/toastui](https://github.com/dreamRs/toastui)|R htmlwidgets for ToastUI libraries: grid, calendar and chart|32|2021-12-18|2021-04-21|
 |63|[wlandau/targets-shiny](https://github.com/wlandau/targets-shiny)|Example Shiny app containing a targets pipeline.|32|2021-06-02|2021-02-14|
-|64|[covid19-forecast-hub-europe/covid19-forecast-hub-europe](https://github.com/covid19-forecast-hub-europe/covid19-forecast-hub-europe)|European Covid-19 Forecast Hub.|32|2021-12-20|2021-01-13|
+|64|[covid19-forecast-hub-europe/covid19-forecast-hub-europe](https://github.com/covid19-forecast-hub-europe/covid19-forecast-hub-europe)|European Covid-19 Forecast Hub.|32|2021-12-21|2021-01-13|
 |65|[ropensci/katex](https://github.com/ropensci/katex)|Server side math to html rendering in R|31|2021-09-14|2021-06-30|
 |66|[McGranahanLab/TcellExTRECT](https://github.com/McGranahanLab/TcellExTRECT)|-|30|2021-11-17|2021-07-30|
 |67|[tidymodels/shinymodels](https://github.com/tidymodels/shinymodels)|-|30|2021-11-30|2021-06-03|
@@ -82,11 +82,11 @@
 |75|[pmur002/gggrid](https://github.com/pmur002/gggrid)|Easily integrate 'grid' drawing with 'ggplot2'|28|2021-06-30|2021-05-25|
 |76|[paolocrosetto/MDPI_special_issues](https://github.com/paolocrosetto/MDPI_special_issues)|Scraping MDPI website to get the number of special issues for each of 74 journals with an IF|28|2021-12-11|2021-03-12|
 |77|[pedrocoutinhosilva/imola](https://github.com/pedrocoutinhosilva/imola)|Easy CSS layouts (grid and Flexbox) for R/shiny dashboards|27|2021-11-18|2021-11-09|
-|78|[alexei-kouprianov/COVID-19.SPb.monitoring](https://github.com/alexei-kouprianov/COVID-19.SPb.monitoring)|This repository contains constantly updated datasets on the COVID-19 epidemic in St. Petersburg (Russia), scripts for data gathering and transformation (Perl, R, and shell), infographics, and narrativ ...|27|2021-12-20|2021-09-04|
-|79|[chasewnelson/Taiwan-COVID-19-2021](https://github.com/chasewnelson/Taiwan-COVID-19-2021)|Data, methods, and results of analyses tracking the May 2021 COVID-19 outbreak in Taiwan.|27|2021-06-30|2021-05-30|
-|80|[lewinfox/levitate](https://github.com/lewinfox/levitate)|Fuzzy string matching in R. Inspired by Python's fuzzywuzzy (but without the Python).|27|2021-11-21|2021-02-02|
-|81|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|26|2021-11-11|2021-08-10|
-|82|[Hegghammer/daiR](https://github.com/Hegghammer/daiR)|R package for Google Document AI |26|2021-12-19|2021-03-04|
+|78|[alexei-kouprianov/COVID-19.SPb.monitoring](https://github.com/alexei-kouprianov/COVID-19.SPb.monitoring)|This repository contains constantly updated datasets on the COVID-19 epidemic in St. Petersburg (Russia), scripts for data gathering and transformation (Perl, R, and shell), infographics, and narrativ ...|27|2021-12-21|2021-09-04|
+|79|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|27|2021-11-11|2021-08-10|
+|80|[chasewnelson/Taiwan-COVID-19-2021](https://github.com/chasewnelson/Taiwan-COVID-19-2021)|Data, methods, and results of analyses tracking the May 2021 COVID-19 outbreak in Taiwan.|27|2021-06-30|2021-05-30|
+|81|[lewinfox/levitate](https://github.com/lewinfox/levitate)|Fuzzy string matching in R. Inspired by Python's fuzzywuzzy (but without the Python).|27|2021-11-21|2021-02-02|
+|82|[Hegghammer/daiR](https://github.com/Hegghammer/daiR)|R package for Google Document AI |26|2021-12-21|2021-03-04|
 |83|[TatevKaren/mathematics-statistics-for-data-science](https://github.com/TatevKaren/mathematics-statistics-for-data-science)|Mathematical & Statistical topics to perform statistical analysis and tests; Linear Regression, Probability Theory, Monte Carlo Simulation, Statistical Sampling, Bootstrapping, Dimensionality reductio ...|26|2021-10-02|2021-01-02|
 |84|[coolbutuseless/svgparser](https://github.com/coolbutuseless/svgparser)|Render SVG images in R. Load SVG data as data.frames|25|2021-12-04|2021-12-01|
 |85|[izabelflores/Censo_1872](https://github.com/izabelflores/Censo_1872)|Censo de 1872 por município, disponibilizado pela Cedeplar, organizado em formato tidy|25|2021-11-13|2021-11-09|

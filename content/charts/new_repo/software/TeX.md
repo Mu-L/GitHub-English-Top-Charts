@@ -1,33 +1,33 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|950|2021-10-03|2021-09-02|
-|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|526|2021-10-15|2021-06-11|
-|3|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|388|2021-12-21|2021-12-09|
+|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|527|2021-10-15|2021-06-11|
+|3|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|389|2021-12-21|2021-12-09|
 |4|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|388|2021-12-10|2021-11-18|
 |5|[NCIC-PARALLEL/GSWITCH-tool](https://github.com/NCIC-PARALLEL/GSWITCH-tool)|-|316|2021-07-22|2021-07-22|
 |6|[jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)|Cheat sheet for x86-64 Unix systems programming|294|2021-07-02|2021-06-30|
-|7|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|267|2021-11-20|2021-11-19|
+|7|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|268|2021-11-20|2021-11-19|
 |8|[NCIC-PARALLEL/GSWITCH-SDK](https://github.com/NCIC-PARALLEL/GSWITCH-SDK)|-|212|2021-07-22|2021-07-22|
 |9|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|191|2021-12-20|2021-07-06|
 |10|[aterenin/phdthesis](https://github.com/aterenin/phdthesis)|Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces|167|2021-10-12|2021-06-28|
 |11|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|110|2021-11-04|2021-04-22|
 |12|[dl4nlp-tuda2021/deep-learning-for-nlp-lectures](https://github.com/dl4nlp-tuda2021/deep-learning-for-nlp-lectures)|Deep Learning for Natural Language Processing - Lectures 2021|95|2021-07-27|2021-04-12|
 |13|[HoTT/EPIT-2020](https://github.com/HoTT/EPIT-2020)|EPIT 2020 - Spring School on Homotopy Type Theory|91|2021-07-29|2021-03-19|
-|14|[harshibar/resume](https://github.com/harshibar/resume)|📝 A one-page, one-column column resume template by Harshibar|78|2021-09-14|2021-09-13|
-|15|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|75|2021-12-17|2021-07-15|
-|16|[EmilHvitfeldt/ISLR-tidymodels-labs](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs)|-|73|2021-11-06|2021-04-09|
-|17|[AndrasKovacs/staged](https://github.com/AndrasKovacs/staged)|Experimental staged language with dependent types|64|2021-11-14|2021-04-22|
-|18|[tengyuma/cs229m_notes](https://github.com/tengyuma/cs229m_notes)|-|55|2021-12-14|2021-01-08|
-|19|[angary/simulated-annealing-tsp](https://github.com/angary/simulated-annealing-tsp)|Parameterising Simulated Annealing for the Travelling Salesman Problem|53|2021-11-22|2021-10-29|
-|20|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|51|2021-10-31|2021-10-19|
-|21|[lvjr/tabularray](https://github.com/lvjr/tabularray)|Typeset tabulars and arrays with LaTeX3|51|2021-12-01|2021-02-28|
-|22|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|49|2021-11-13|2021-11-05|
-|23|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|46|2021-12-20|2021-12-18|
+|14|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|78|2021-12-21|2021-12-18|
+|15|[harshibar/resume](https://github.com/harshibar/resume)|📝 A one-page, one-column column resume template by Harshibar|78|2021-09-14|2021-09-13|
+|16|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|76|2021-12-17|2021-07-15|
+|17|[EmilHvitfeldt/ISLR-tidymodels-labs](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs)|-|73|2021-11-06|2021-04-09|
+|18|[AndrasKovacs/staged](https://github.com/AndrasKovacs/staged)|Experimental staged language with dependent types|64|2021-11-14|2021-04-22|
+|19|[tengyuma/cs229m_notes](https://github.com/tengyuma/cs229m_notes)|-|55|2021-12-14|2021-01-08|
+|20|[angary/simulated-annealing-tsp](https://github.com/angary/simulated-annealing-tsp)|Parameterising Simulated Annealing for the Travelling Salesman Problem|53|2021-11-22|2021-10-29|
+|21|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|51|2021-10-31|2021-10-19|
+|22|[lvjr/tabularray](https://github.com/lvjr/tabularray)|Typeset tabulars and arrays with LaTeX3|51|2021-12-01|2021-02-28|
+|23|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|49|2021-11-13|2021-11-05|
 |24|[yuanqidu/awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation)|-|44|2021-11-19|2021-08-07|
 |25|[j-jorge/counting-in-cpp](https://github.com/j-jorge/counting-in-cpp)|-|40|2021-12-16|2021-05-18|
 |26|[KeyvinSV/Plantilla-Tesis-UNI-LaTeX](https://github.com/KeyvinSV/Plantilla-Tesis-UNI-LaTeX)|LaTeX Template para tesis de grado de la Universidad Nacional de Ingeniería |40|2021-08-29|2021-05-11|
@@ -39,9 +39,9 @@
 |32|[LiShanwenGit/MelonPI-MINI](https://github.com/LiShanwenGit/MelonPI-MINI)|-|32|2021-09-05|2021-02-05|
 |33|[jamesfang8499/physics3](https://github.com/jamesfang8499/physics3)|-|30|2021-12-17|2021-07-15|
 |34|[n3rada/ScribUTT](https://github.com/n3rada/ScribUTT)|Template LaTeX de rapports de projets / TDs et stages (ST05,ST09,ST10,ST30) pour l'Université de Technologie de Troyes aka UTT (école d'ingénieur).|30|2021-10-26|2021-03-28|
-|35|[weymouth/DataDrivenGMG.jl](https://github.com/weymouth/DataDrivenGMG.jl)|Data-driven Geometric Multi-Grid solver for the discrete Poisson equation|29|2021-10-24|2021-09-24|
-|36|[paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)|A review of APIs.|29|2021-12-20|2021-06-17|
-|37|[abaksy/pesu-cse-notes](https://github.com/abaksy/pesu-cse-notes)|My personal notes for CSE at PESU Bengaluru|28|2021-12-14|2021-12-14|
+|35|[abaksy/pesu-cse-notes](https://github.com/abaksy/pesu-cse-notes)|My personal notes for CSE at PESU Bengaluru|29|2021-12-14|2021-12-14|
+|36|[weymouth/DataDrivenGMG.jl](https://github.com/weymouth/DataDrivenGMG.jl)|Data-driven Geometric Multi-Grid solver for the discrete Poisson equation|29|2021-10-24|2021-09-24|
+|37|[paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)|A review of APIs.|29|2021-12-21|2021-06-17|
 |38|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|28|2021-12-17|2021-07-15|
 |39|[wutong8023/Awesome_Information_Extraction](https://github.com/wutong8023/Awesome_Information_Extraction)|Literature Survey of Information Extraction, especially Relation Extraction, Event Extraction, and Slot Filling.|27|2021-10-06|2021-06-21|
 |40|[Aarif123456/modern-deedy](https://github.com/Aarif123456/modern-deedy)|A resume template based on Deedy|25|2021-08-06|2021-06-01|
@@ -74,7 +74,7 @@
 |67|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: Overleaf-compatible template (and even Mac-compatible)! Save your time and FU TONGJ!|14|2021-06-07|2021-05-12|
 |68|[leonardoalt/hevm_paper](https://github.com/leonardoalt/hevm_paper)|-|13|2021-12-03|2021-12-03|
 |69|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|13|2021-12-05|2021-11-17|
-|70|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|13|2021-12-20|2021-09-02|
+|70|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|13|2021-12-21|2021-09-02|
 |71|[samcarter/TikZbricks](https://github.com/samcarter/TikZbricks)|-|13|2021-09-12|2021-08-08|
 |72|[random-matrix-learning/slides](https://github.com/random-matrix-learning/slides)|LaTeX source code for the slides|13|2021-07-15|2021-07-14|
 |73|[iagoac/dce540](https://github.com/iagoac/dce540)|Disciplina DCE540 - Computação Paralela e Distribuída|13|2021-12-15|2021-07-12|

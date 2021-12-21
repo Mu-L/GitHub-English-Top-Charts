@@ -1,28 +1,28 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|645|2021-11-02|2021-10-19|
-|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2021-12-19|2021-04-09|
-|3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|557|2021-12-20|2021-07-19|
+|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2021-12-21|2021-04-09|
+|3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|558|2021-12-20|2021-07-19|
 |4|[pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump)|A collection of tools for debugging, diffing, and testing your application's data structures.|389|2021-12-08|2021-02-05|
 |5|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|370|2021-09-10|2021-01-20|
-|6|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |234|2021-12-20|2021-11-30|
-|7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|234|2021-12-15|2021-10-24|
-|8|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|197|2021-11-16|2021-03-19|
+|6|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |237|2021-12-20|2021-11-30|
+|7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|235|2021-12-15|2021-10-24|
+|8|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|196|2021-11-16|2021-03-19|
 |9|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|109|2021-11-07|2021-11-07|
 |10|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|83|2021-10-04|2021-10-04|
 |11|[recherst/kavsoft-swiftui-animations](https://github.com/recherst/kavsoft-swiftui-animations)|SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft. 🔗 https://kavsoft.dev|79|2021-10-14|2021-06-24|
-|12|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|53|2021-12-01|2021-07-13|
+|12|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|54|2021-12-01|2021-07-13|
 |13|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|52|2021-09-17|2021-06-06|
 |14|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|50|2021-10-17|2021-05-03|
 |15|[Apress/Test-Driven-Development-in-Swift](https://github.com/Apress/Test-Driven-Development-in-Swift)|Source code for the tutorials in the Test-Driven Development in Swift book|34|2021-07-08|2021-06-29|
 |16|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|33|2021-11-07|2021-09-22|
-|17|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|30|2021-08-02|2021-02-09|
-|18|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|29|2021-12-20|2021-09-29|
+|17|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|30|2021-12-20|2021-09-29|
+|18|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|30|2021-08-02|2021-02-09|
 |19|[jrasmusson/datastructures-algorithms](https://github.com/jrasmusson/datastructures-algorithms)|A data structure and algorithm course for Swift developers|27|2021-06-04|2021-02-18|
 |20|[GroupeMINASTE/OCaml](https://github.com/GroupeMINASTE/OCaml)|An OCaml editor, top level, and learning place for iOS, iPadOS and macOS|27|2021-12-10|2021-01-05|
 |21|[zafarivaev/swiftui-mvvm-clean](https://github.com/zafarivaev/swiftui-mvvm-clean)|Sample app showcasing usage of Clean MVVM architecture in SwiftUI and Combine. Written for a Medium tutorial.|26|2021-10-23|2021-06-29|
@@ -36,7 +36,7 @@
 |29|[artemnovichkov/RaySo](https://github.com/artemnovichkov/RaySo)|Share your awesome code to https://ray.so with Xcode Extension.|20|2021-10-02|2021-02-19|
 |30|[apatronl/YouTube](https://github.com/apatronl/YouTube)|Repo containing final code for my video tutorials available on YouTube. Check out my channel at youtube.com/alepatron|19|2021-11-30|2021-01-22|
 |31|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|16|2021-12-15|2021-10-07|
-|32|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|16|2021-12-14|2021-09-01|
+|32|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|16|2021-12-21|2021-09-01|
 |33|[obrienser/memorize](https://github.com/obrienser/memorize)|Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)|16|2021-07-05|2021-06-28|
 |34|[surfstudio/SurfPlaybook](https://github.com/surfstudio/SurfPlaybook)|iOS framework for Playbook |16|2021-07-29|2021-04-13|
 |35|[vandadnp/swift-tips-and-tricks](https://github.com/vandadnp/swift-tips-and-tricks)|A Collection of Swift and SwiftUI Tips and Tricks|16|2021-09-02|2021-04-12|

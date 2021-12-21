@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,15 +16,15 @@
 |9|[odedstein/gp-matlab-tutorial](https://github.com/odedstein/gp-matlab-tutorial)|A basic tutorial for geometry processing in MATLAB using gptoolbox|16|2021-08-13|2021-06-25|
 |10|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|15|2021-10-24|2021-07-07|
 |11|[dianixn/Residual_CNN](https://github.com/dianixn/Residual_CNN)|Repeat the result of Deep Residual Learning Meets OFDM Channel Estimation using MATLAB, I think they did not release the code so I am not sure whats I did is hundred percent correct, so just have fun|12|2021-08-20|2021-05-03|
-|12|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|12|2021-12-07|2021-03-05|
-|13|[mikexcohen/GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|Code accompanying publication on GED tutorial|11|2021-11-23|2021-04-25|
+|12|[mikexcohen/GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|Code accompanying publication on GED tutorial|12|2021-11-23|2021-04-25|
+|13|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|12|2021-12-07|2021-03-05|
 |14|[xch-liu/learning-warp-st](https://github.com/xch-liu/learning-warp-st)|Learning to Warp for Style Transfer|10|2021-07-08|2021-03-24|
 |15|[zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm](https://github.com/zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm)|A fast Kriging-assisted evolutionary algorithm based on incremental learning|10|2021-12-06|2021-03-22|
 |16|[ivam-he/BernNet](https://github.com/ivam-he/BernNet)|PyTorch implementation of "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation"|9|2021-11-01|2021-10-26|
 |17|[Fei0906/InSAR-Time-Series-Analysis-Fitting](https://github.com/Fei0906/InSAR-Time-Series-Analysis-Fitting)|Code and test data for the paper: Liu, F., Elliott, J. R., Craig, T. J., Hooper, A., & Wright, T. J. (2021). Improving the resolving power of InSAR for earthquakes using time series: A case study in I ...|9|2021-09-28|2021-09-28|
-|18|[matlab-deep-learning/pretrained-efficientdet-d0](https://github.com/matlab-deep-learning/pretrained-efficientdet-d0)|Object detection and transfer learning using pretrained EfficientDet-D0 model in MATLAB. |9|2021-06-28|2021-05-20|
-|19|[mogulargmbh/powerquerysnippets](https://github.com/mogulargmbh/powerquerysnippets)|Collection of Power Query snippets as shown on powerqueryformatter.com|9|2021-09-10|2021-01-21|
-|20|[fengpanhe/MT-ORL](https://github.com/fengpanhe/MT-ORL)|PyTorch implementation of paper "MT-ORL: Multi-Task Occlusion Relationship Learning" (ICCV 2021)|8|2021-10-17|2021-08-11|
+|18|[fengpanhe/MT-ORL](https://github.com/fengpanhe/MT-ORL)|PyTorch implementation of paper "MT-ORL: Multi-Task Occlusion Relationship Learning" (ICCV 2021)|9|2021-10-17|2021-08-11|
+|19|[matlab-deep-learning/pretrained-efficientdet-d0](https://github.com/matlab-deep-learning/pretrained-efficientdet-d0)|Object detection and transfer learning using pretrained EfficientDet-D0 model in MATLAB. |9|2021-06-28|2021-05-20|
+|20|[mogulargmbh/powerquerysnippets](https://github.com/mogulargmbh/powerquerysnippets)|Collection of Power Query snippets as shown on powerqueryformatter.com|9|2021-09-10|2021-01-21|
 |21|[bakerjw/seismic-hazard-and-risk](https://github.com/bakerjw/seismic-hazard-and-risk)|Supporting calculations for the textbook Seismic Hazard and Risk Analysis|8|2021-11-15|2021-08-05|
 |22|[SGI-2021/directional-fields-tutorial](https://github.com/SGI-2021/directional-fields-tutorial)|The official repository for the directional-fields tutorial on Friday 23/Jul/2021|8|2021-07-26|2021-07-19|
 |23|[matlab-deep-learning/pretrained-salsanext](https://github.com/matlab-deep-learning/pretrained-salsanext)|Semantic segmentation and transfer learning using pretrained SalsaNext model in MATLAB|8|2021-07-13|2021-07-13|
@@ -82,7 +82,7 @@
 |75|[simone-brugiapaglia/sparse-hd-book](https://github.com/simone-brugiapaglia/sparse-hd-book)|This is a repository associated with the book "Sparse Polynomial Approximation of High-Dimensional Functions" by Ben Adcock, Simone Brugiapaglia, and Clayton G. Webster to be published by SIAM in late ...|3|2021-11-29|2021-04-22|
 |76|[shriram-joshi/NMCE_codes](https://github.com/shriram-joshi/NMCE_codes)|This is a repository for some of the MatLab codes for the Numerical Methods in Chemical Engineering course.|3|2021-07-09|2021-04-11|
 |77|[guilhermedemouraa/EBS289K-Autonomous-Robot-for-Tree-Nursery-Management](https://github.com/guilhermedemouraa/EBS289K-Autonomous-Robot-for-Tree-Nursery-Management)|Projects for the course EBS 289k: Sensors and Actuators in Agricultural Automation|3|2021-06-30|2021-04-08|
-|78|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-06|2021-02-21|
+|78|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-21|2021-02-21|
 |79|[MatheusAraujoSouza/MS211--Projetos-do-curso--Course-projects](https://github.com/MatheusAraujoSouza/MS211--Projetos-do-curso--Course-projects)|Course projects of ms211 (numerical calculus).|3|2021-07-15|2021-01-22|
 |80|[MatheusAraujoSouza/MS428-Pontos-Interiores--Interior-Points-](https://github.com/MatheusAraujoSouza/MS428-Pontos-Interiores--Interior-Points-)|Course Project MS428 (Linear Programming) Implementation of Interior Point Algorithm (Predictor-Corrector Method)|3|2021-11-26|2021-01-21|
 |81|[alextzik/reinforcement_learning-2021](https://github.com/alextzik/reinforcement_learning-2021)|Implementation of various reinforcement learning algorithms in examples obtained from the book "Reinforcement Learning: An Introduction, by Sutton and Barto".|3|2021-11-09|2021-01-17|

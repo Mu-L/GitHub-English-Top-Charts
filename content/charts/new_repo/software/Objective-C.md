@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,13 +11,13 @@
 |4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|261|2021-09-25|2021-08-03|
 |5|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
 |6|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|165|2021-12-19|2021-03-06|
-|7|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|113|2021-07-08|2021-02-20|
-|8|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|109|2021-09-12|2021-02-02|
-|9|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|104|2021-10-13|2021-02-08|
-|10|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
-|11|[s4y/undot](https://github.com/s4y/undot)|-|101|2021-12-20|2021-12-20|
+|7|[s4y/undot](https://github.com/s4y/undot)|-|138|2021-12-20|2021-12-20|
+|8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|113|2021-07-08|2021-02-20|
+|9|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|109|2021-09-12|2021-02-02|
+|10|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|104|2021-10-13|2021-02-08|
+|11|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
 |12|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|99|2021-12-17|2021-03-24|
-|13|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|95|2021-06-23|2021-01-21|
+|13|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|93|2021-06-23|2021-01-21|
 |14|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|79|2021-12-14|2021-12-06|
 |15|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |16|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2021-11-20|2021-11-20|
@@ -39,10 +39,10 @@
 |32|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|28|2021-06-29|2021-02-06|
 |33|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|28|2021-10-20|2021-01-13|
 |34|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
-|35|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
-|36|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|25|2021-08-16|2021-08-08|
-|37|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|25|2021-08-01|2021-05-24|
-|38|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|25|2021-12-19|2021-01-10|
+|35|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-19|2021-01-10|
+|36|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
+|37|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|25|2021-08-16|2021-08-08|
+|38|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|25|2021-08-01|2021-05-24|
 |39|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|24|2021-06-28|2021-02-28|
 |40|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Log every incoming notification to view them again later|22|2021-12-01|2021-09-18|
 |41|[shepeliev/webrtc-kmp](https://github.com/shepeliev/webrtc-kmp)|WebRTC Kotlin Multiplatform SDK|21|2021-11-29|2021-01-14|

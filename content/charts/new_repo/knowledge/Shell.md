@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,11 +11,11 @@
 |4|[caiodelgadonew/docker-dca](https://github.com/caiodelgadonew/docker-dca)|Repository for Docker DCA FREE Course|122|2021-08-05|2021-06-02|
 |5|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|117|2021-12-20|2021-09-15|
 |6|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|97|2021-12-13|2021-12-06|
-|7|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|94|2021-12-19|2021-05-30|
+|7|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|95|2021-12-19|2021-05-30|
 |8|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|94|2021-12-03|2021-05-07|
 |9|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|78|2021-10-28|2021-02-23|
 |10|[joao99sb/OwnLinuxDistro](https://github.com/joao99sb/OwnLinuxDistro)|My Logbook through this sea of technology|77|2021-11-05|2021-09-24|
-|11|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|70|2021-12-08|2021-05-14|
+|11|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|71|2021-12-08|2021-05-14|
 |12|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|68|2021-12-03|2021-03-30|
 |13|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|65|2021-12-08|2021-02-28|
 |14|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|64|2021-11-06|2021-07-25|
@@ -28,7 +28,7 @@
 |21|[dn0m1n8tor/project-morya](https://github.com/dn0m1n8tor/project-morya)|Project Morya is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized way|46|2021-11-12|2021-07-13|
 |22|[mattmattox/Kubernetes-Master-Class](https://github.com/mattmattox/Kubernetes-Master-Class)|Kubernetes Master Class|46|2021-07-08|2021-05-03|
 |23|[RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses)|A list of publicly available room impulse response datasets and scripts to download them. |46|2021-08-31|2021-03-19|
-|24|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|44|2021-12-20|2021-09-06|
+|24|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|45|2021-12-20|2021-09-06|
 |25|[FabulousCupcake/umamusume-db-translate](https://github.com/FabulousCupcake/umamusume-db-translate)|Translate Umamusume by patching master.mdb|43|2021-12-14|2021-03-10|
 |26|[YouGina/reconmaster](https://github.com/YouGina/reconmaster)|ReconMaster contest - scripts used and a write-up|41|2021-09-20|2021-09-08|
 |27|[wabulu/Single-GPU-passthrough-amd-nvidia](https://github.com/wabulu/Single-GPU-passthrough-amd-nvidia)|My way of doing single gpu passthrough the simplest way, I've gathered many sources together to make the perfect Single GPU passthrough guide the simplest and easiest way.|40|2021-11-26|2021-08-07|

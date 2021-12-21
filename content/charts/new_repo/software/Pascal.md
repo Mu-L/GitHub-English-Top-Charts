@@ -1,20 +1,20 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|182|2021-12-20|2021-11-25|
+|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|187|2021-12-20|2021-11-25|
 |2|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|143|2021-10-19|2021-08-10|
 |3|[TextEditorPro/TTextEditor](https://github.com/TextEditorPro/TTextEditor)|Text editor control of Text Editor Pro and Firebird Editor Pro.|74|2021-12-09|2021-04-22|
 |4|[landgraf-dev/aws-sdk-delphi](https://github.com/landgraf-dev/aws-sdk-delphi)|AWS (Amazon Web Services) SDK for Delphi.|64|2021-10-19|2021-07-28|
 |5|[maximmasiutin/TinyWeb](https://github.com/maximmasiutin/TinyWeb)|TinyWeb is a small yet fully functional web server (HTTP, HTTPS) written in Delphi for Win32 by Maxim Masiutin. First version released in 1997.|61|2021-10-08|2021-08-08|
 |6|[EtheaDev/SVGShellExtensions](https://github.com/EtheaDev/SVGShellExtensions)|Shell extensions for SVG files (Preview Panel, Thumbnail Icon, SVG Editor)|61|2021-11-06|2021-01-30|
-|7|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|56|2021-12-15|2021-12-15|
+|7|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|57|2021-12-15|2021-12-15|
 |8|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|56|2021-12-19|2021-12-03|
 |9|[jackdp/Quick-Change-Resolution](https://github.com/jackdp/Quick-Change-Resolution)|QuickChangeResolution is a small utility that allows you to quickly change the display resolution.|54|2021-10-13|2021-03-19|
-|10|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|52|2021-12-20|2021-07-16|
+|10|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|53|2021-12-20|2021-07-16|
 |11|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|43|2021-12-19|2021-12-08|
 |12|[maximmasiutin/argus](https://github.com/maximmasiutin/argus)|A FidoNet mail transfer agent for Win32 over dial-up and TCP/IP connections written using Delphi in 1996-2001.|39|2021-08-08|2021-08-08|
 |13|[lawrenceamer/TChopper](https://github.com/lawrenceamer/TChopper)|conduct lateral movement attack by leveraging unfiltered services display name to smuggle binaries as chunks into the target machine  |34|2021-06-14|2021-06-08|
@@ -31,18 +31,18 @@
 |24|[iLya2IK/wchttpserver](https://github.com/iLya2IK/wchttpserver)|HTTP/2+HTTP/1.1+WebSocket server written with Lazarus (Free Pascal)|24|2021-11-03|2021-01-09|
 |25|[marat1961/wasm](https://github.com/marat1961/wasm)|A fast Pascal (Delphi) WebAssembly interpreter|23|2021-07-26|2021-03-27|
 |26|[Matek0611/PospoliteView](https://github.com/Matek0611/PospoliteView)|Pospolite View aims to be a simple HTML viewer engine fully made in Free Pascal.|23|2021-12-15|2021-01-31|
-|27|[Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)|Delphi and C++Builder Demos for Embarcadero RAD Studio version 11|22|2021-09-30|2021-07-08|
-|28|[dliocode/datavalidator](https://github.com/dliocode/datavalidator)|DataValidator foi projetado para ser uma biblioteca simples de validação de dados.|22|2021-10-10|2021-05-03|
-|29|[heliosroots/fp-vscode](https://github.com/heliosroots/fp-vscode)|Freepascal support for Visual Studio Code|21|2021-11-20|2021-09-27|
-|30|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|21|2021-12-20|2021-08-09|
+|27|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|22|2021-12-21|2021-08-09|
+|28|[Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)|Delphi and C++Builder Demos for Embarcadero RAD Studio version 11|22|2021-09-30|2021-07-08|
+|29|[dliocode/datavalidator](https://github.com/dliocode/datavalidator)|DataValidator foi projetado para ser uma biblioteca simples de validação de dados.|22|2021-10-10|2021-05-03|
+|30|[heliosroots/fp-vscode](https://github.com/heliosroots/fp-vscode)|Freepascal support for Visual Studio Code|21|2021-11-20|2021-09-27|
 |31|[mateusvicente100/amazon-storage-service](https://github.com/mateusvicente100/amazon-storage-service)|A wrapper class that uses native delphi integration to amazon storage service.|21|2021-08-10|2021-07-22|
 |32|[SamerAssil/FrameListBoxItem](https://github.com/SamerAssil/FrameListBoxItem)|ListBoxItem allow to add Frame in it.|20|2021-09-03|2021-09-01|
 |33|[rickard67/LSP-Pascal-Library](https://github.com/rickard67/LSP-Pascal-Library)|A language server protocal client written in Pascal (Delphi).|20|2021-08-21|2021-05-14|
 |34|[vhanla/W1nDro1d](https://github.com/vhanla/W1nDro1d)|A simple tool to manage Windows 11's Subsystem for Android "manually", install APK and XAPK, toggle fullscreen, list installed Android Apps, among other things|19|2021-12-21|2021-10-22|
 |35|[JensBorrisholt/Captcha-Verification](https://github.com/JensBorrisholt/Captcha-Verification)|Delphi version of Captcha Verification|19|2021-09-17|2021-09-17|
-|36|[halilhanbadem/delphi-hb-components](https://github.com/halilhanbadem/delphi-hb-components)|Component set that I designed as a hobby.|19|2021-09-16|2021-07-15|
-|37|[JensBorrisholt/Delphi-REST-Orm](https://github.com/JensBorrisholt/Delphi-REST-Orm)|Delphi Rest Orm - At simple  yet powerful ORM to query a WebService|19|2021-10-09|2021-01-05|
-|38|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|18|2021-12-20|2021-07-28|
+|36|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|19|2021-12-20|2021-07-28|
+|37|[halilhanbadem/delphi-hb-components](https://github.com/halilhanbadem/delphi-hb-components)|Component set that I designed as a hobby.|19|2021-09-16|2021-07-15|
+|38|[JensBorrisholt/Delphi-REST-Orm](https://github.com/JensBorrisholt/Delphi-REST-Orm)|Delphi Rest Orm - At simple  yet powerful ORM to query a WebService|19|2021-10-09|2021-01-05|
 |39|[lab313ru/megapack-megadrive](https://github.com/lab313ru/megapack-megadrive)|Megadrive MEGAPACK source code. Original 68k compression algo by Jon Menzies|18|2021-08-29|2021-07-26|
 |40|[neslib/Neslib.MultiPrecision](https://github.com/neslib/Neslib.MultiPrecision)|High-Precision Floating-Point Types for Delphi|18|2021-06-14|2021-05-04|
 |41|[OmgCopito95/CADP](https://github.com/OmgCopito95/CADP)|Contenido de las consultas prácticas de la cátedra de CADP de la facultad de Informática UNLP|18|2021-12-17|2021-04-25|
@@ -100,11 +100,11 @@
 |93|[projekter/TextShaping4Delphi](https://github.com/projekter/TextShaping4Delphi)|This contains Delphi headers for FreeType and harfbuzz|9|2021-09-19|2021-04-05|
 |94|[HashLoad/horse-logger-provider-logfile](https://github.com/HashLoad/horse-logger-provider-logfile)|Horse Logger - Provider Logile|9|2021-12-02|2021-02-02|
 |95|[MFernstrom/gitHuntr](https://github.com/MFernstrom/gitHuntr)|-|8|2021-12-18|2021-12-15|
-|96|[EtheaDev/kitto3](https://github.com/EtheaDev/kitto3)|A Delphi framework for creating data-driven WEB SPA applications with ExtJS 7.x|8|2021-10-29|2021-10-28|
-|97|[zsoltszakaly/getoptionsforpascal](https://github.com/zsoltszakaly/getoptionsforpascal)|Process and get the Command Line options, following the "standard" C getopt input standard, but return the result in one step|8|2021-10-22|2021-10-15|
-|98|[gcarreno/lazCAPTCHA](https://github.com/gcarreno/lazCAPTCHA)|Lazarus version of Captcha Verification|8|2021-09-19|2021-09-17|
-|99|[Al-Muhandis/CurrencyRates](https://github.com/Al-Muhandis/CurrencyRates)|Currency rates wrappers|8|2021-09-16|2021-09-15|
-|100|[mr-highball/yt-indexer](https://github.com/mr-highball/yt-indexer)|a simple & configurable tool to index youtube videos|8|2021-10-17|2021-08-12|
+|96|[DosWorld/ppro](https://github.com/DosWorld/ppro)|Pascal Pro - free 32-bit pascal compiler|8|2021-11-29|2021-11-29|
+|97|[EtheaDev/kitto3](https://github.com/EtheaDev/kitto3)|A Delphi framework for creating data-driven WEB SPA applications with ExtJS 7.x|8|2021-10-29|2021-10-28|
+|98|[jval1972/Mars3D](https://github.com/jval1972/Mars3D)|Source port of the game "Mars - The Ultimate Fighter" |8|2021-12-21|2021-10-17|
+|99|[zsoltszakaly/getoptionsforpascal](https://github.com/zsoltszakaly/getoptionsforpascal)|Process and get the Command Line options, following the "standard" C getopt input standard, but return the result in one step|8|2021-10-22|2021-10-15|
+|100|[gcarreno/lazCAPTCHA](https://github.com/gcarreno/lazCAPTCHA)|Lazarus version of Captcha Verification|8|2021-09-19|2021-09-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

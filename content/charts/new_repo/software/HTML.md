@@ -1,44 +1,44 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > HTML
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)|⚠️ Browser fingerprinting via favicon!|3631|2021-08-27|2021-01-25|
+|1|[jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)|⚠️ Browser fingerprinting via favicon!|3632|2021-08-27|2021-01-25|
 |2|[badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)|Descomplicando o Docker, o livro.|2669|2021-10-20|2021-08-05|
 |3|[steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand)|Draw perfect pressure-sensitive freehand lines.|2235|2021-11-10|2021-02-19|
 |4|[rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)|Dopefolio 🔥 - Portfolio Template for Developers 🚀|1731|2021-09-15|2021-08-24|
 |5|[lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444)|CVE-2021-40444 PoC|1329|2021-09-11|2021-09-10|
-|6|[argyleink/open-props](https://github.com/argyleink/open-props)|CSS custom properties to help accelerate adaptive and consistent design.|1151|2021-12-19|2021-09-03|
+|6|[argyleink/open-props](https://github.com/argyleink/open-props)|CSS custom properties to help accelerate adaptive and consistent design.|1157|2021-12-21|2021-09-03|
 |7|[isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement)|Code & Data for Enhancing Photorealism Enhancement|984|2021-11-26|2021-05-10|
 |8|[ChoiceCoin/ChoiceCoin.github.io](https://github.com/ChoiceCoin/ChoiceCoin.github.io)|Choice Coin Public Website|901|2021-12-17|2021-08-09|
 |9|[zuramai/mazer](https://github.com/zuramai/mazer)|Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page |814|2021-12-15|2021-01-19|
 |10|[vivirenremoto/doomcaptcha](https://github.com/vivirenremoto/doomcaptcha)|Captchas don't have to be boring|606|2021-09-09|2021-05-22|
 |11|[dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant)|A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond|578|2021-12-20|2021-01-22|
-|12|[themesberg/flowbite](https://github.com/themesberg/flowbite)|Tailwind CSS components and interactive elements|569|2021-12-20|2021-07-28|
-|13|[chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS)|A simple hand drawn HTML/CSS theme|545|2021-12-16|2021-12-14|
-|14|[ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker)|The best way to make and manage custom Discord Rich Presences with buttons!|538|2021-12-19|2021-01-16|
+|12|[themesberg/flowbite](https://github.com/themesberg/flowbite)|Tailwind CSS components and interactive elements|572|2021-12-20|2021-07-28|
+|13|[chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS)|A simple hand drawn HTML/CSS theme|553|2021-12-16|2021-12-14|
+|14|[ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker)|The best way to make and manage custom Discord Rich Presences with buttons!|541|2021-12-19|2021-01-16|
 |15|[klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|525|2021-10-12|2021-09-15|
-|16|[doka-guide/content](https://github.com/doka-guide/content)|Контент Доки: статьи, картинки, демки и документация для авторов|524|2021-12-20|2021-02-09|
+|16|[doka-guide/content](https://github.com/doka-guide/content)|Контент Доки: статьи, картинки, демки и документация для авторов|525|2021-12-21|2021-02-09|
 |17|[bedimcode/responsive-halloween-website](https://github.com/bedimcode/responsive-halloween-website)|Responsive Halloween Website Design Using HTML CSS & JavaScript |482|2021-10-25|2021-10-05|
 |18|[GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)|A polyfill for CSS Container Queries|468|2021-12-09|2021-11-12|
-|19|[RCStep/CSSG](https://github.com/RCStep/CSSG)|Cobalt Strike Shellcode Generator|401|2021-09-30|2021-01-12|
-|20|[googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)|Repository for information about 0-days exploited in-the-wild.|378|2021-12-06|2021-02-23|
-|21|[NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)|-|377|2021-12-20|2021-11-13|
+|19|[RCStep/CSSG](https://github.com/RCStep/CSSG)|Cobalt Strike Shellcode Generator|402|2021-09-30|2021-01-12|
+|20|[NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)|-|382|2021-12-20|2021-11-13|
+|21|[googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)|Repository for information about 0-days exploited in-the-wild.|378|2021-12-06|2021-02-23|
 |22|[avboy1337/1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day)|-|369|2021-09-02|2021-04-14|
 |23|[hyperlog/hyperlog](https://github.com/hyperlog/hyperlog)|AI-Generated Developer Portfolios|359|2021-12-12|2021-02-02|
-|24|[themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster)|Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite|331|2021-12-02|2021-11-15|
+|24|[themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster)|Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite|333|2021-12-02|2021-11-15|
 |25|[Kamona-WD/kwd-dashboard](https://github.com/Kamona-WD/kwd-dashboard)|Fully responsive dashboard template built with tailwindcss & alpinejs|321|2021-08-31|2021-02-02|
 |26|[1milligram/frontend-tips](https://github.com/1milligram/frontend-tips)|Super tiny, quick tips, tricks and best practices of front-end development|310|2021-11-03|2021-02-21|
-|27|[manjaro-cutefish/download](https://github.com/manjaro-cutefish/download)|Download Manjaro Cutefish Edition|306|2021-12-20|2021-05-26|
-|28|[radiantly/you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image)|Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD|300|2021-11-28|2021-05-04|
+|27|[manjaro-cutefish/download](https://github.com/manjaro-cutefish/download)|Download Manjaro Cutefish Edition|306|2021-12-21|2021-05-26|
+|28|[radiantly/you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image)|Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD|304|2021-11-28|2021-05-04|
 |29|[w3c/webextensions](https://github.com/w3c/webextensions)|Charter and administrivia for the WebExtensions Community Group (WECG)|291|2021-12-16|2021-06-01|
 |30|[sirilius/watermarkktp](https://github.com/sirilius/watermarkktp)|Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.|289|2021-12-09|2021-10-02|
 |31|[creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard)|Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard|288|2021-11-23|2021-03-30|
 |32|[joelnet/html-lang](https://github.com/joelnet/html-lang)|HTML is a Programming Language!|275|2021-12-17|2021-10-01|
-|33|[WICG/app-history](https://github.com/WICG/app-history)|The app history API provides a web application-focused way of managing same-origin same-frame history entries and navigations.|265|2021-11-18|2021-02-03|
-|34|[cncf/glossary](https://github.com/cncf/glossary)|Cloud Native Glossary|262|2021-12-19|2021-01-15|
+|33|[WICG/app-history](https://github.com/WICG/app-history)|The app history API provides a web application-focused way of managing same-origin same-frame history entries and navigations.|266|2021-11-18|2021-02-03|
+|34|[cncf/glossary](https://github.com/cncf/glossary)|Cloud Native Glossary|263|2021-12-19|2021-01-15|
 |35|[kiddin9/openwrt-bypass](https://github.com/kiddin9/openwrt-bypass)|-|249|2021-12-20|2021-01-05|
 |36|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|248|2021-08-28|2021-08-25|
 |37|[GoulartNogueira/BadUI](https://github.com/GoulartNogueira/BadUI)|-|246|2021-09-28|2021-09-16|
@@ -50,7 +50,7 @@
 |43|[bedimcode/responsive-travel-website](https://github.com/bedimcode/responsive-travel-website)|Responsive Travel Website Design Using HTML CSS and JavaScript|230|2021-08-06|2021-06-19|
 |44|[bradtraversy/bootstrap-bootcamp-website](https://github.com/bradtraversy/bootstrap-bootcamp-website)|-|230|2021-10-01|2021-06-08|
 |45|[qbit/widdler](https://github.com/qbit/widdler)|A WebDAV server for TiddlyWikis|230|2021-12-12|2021-05-17|
-|46|[KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP)|CIPP is a M365 multitenant management solution|223|2021-12-20|2021-10-13|
+|46|[KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP)|CIPP is a M365 multitenant management solution|223|2021-12-21|2021-10-13|
 |47|[raxod502/python-in-a-box](https://github.com/raxod502/python-in-a-box)|Interactive online Python REPL in 30 lines of JavaScript.|220|2021-07-17|2021-05-02|
 |48|[bigspotteddog/landing-page-service](https://github.com/bigspotteddog/landing-page-service)|-|218|2021-08-12|2021-02-02|
 |49|[tc39/proposal-change-array-by-copy](https://github.com/tc39/proposal-change-array-by-copy)|Provides additional methods on Array.prototype and TypedArray.prototype to enable changes on the array by returning a new copy of it with the change.|217|2021-12-17|2021-03-24|
@@ -68,12 +68,12 @@
 |61|[asjadnaqvi/DiD](https://github.com/asjadnaqvi/DiD)|Keeping track of what is going on with the latest DiD innovations.|185|2021-12-20|2021-04-02|
 |62|[sampoder/berowra](https://github.com/sampoder/berowra)|🔵 An open source CMS built for hackers and hobbyists, runs on Deta Space|184|2021-12-14|2021-06-25|
 |63|[RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io)|RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.|180|2021-12-11|2021-03-18|
-|64|[tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping)|A proposal to make grouping of array items easier|175|2021-12-20|2021-07-15|
+|64|[tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping)|A proposal to make grouping of array items easier|176|2021-12-20|2021-07-15|
 |65|[sudograph/sudograph](https://github.com/sudograph/sudograph)|GraphQL database for the Internet Computer|175|2021-12-07|2021-02-23|
-|66|[1modm/petereport](https://github.com/1modm/petereport)|PeTeReport is an open-source application vulnerability reporting tool.|171|2021-12-06|2021-08-18|
-|67|[tezosweb/tezos.com-legacy](https://github.com/tezosweb/tezos.com-legacy)|Archive of legacy Tezos.com website.|171|2021-06-29|2021-03-17|
-|68|[fransallen/awesome.id](https://github.com/fransallen/awesome.id)|😎 🇮🇩 Awesome Indonesia: Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer dan founder dari Indonesia.|170|2021-11-23|2021-07-28|
-|69|[mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)|-|170|2021-12-20|2021-05-07|
+|66|[1modm/petereport](https://github.com/1modm/petereport)|PeTeReport is an open-source application vulnerability reporting tool.|172|2021-12-06|2021-08-18|
+|67|[mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)|-|171|2021-12-21|2021-05-07|
+|68|[tezosweb/tezos.com-legacy](https://github.com/tezosweb/tezos.com-legacy)|Archive of legacy Tezos.com website.|171|2021-06-29|2021-03-17|
+|69|[fransallen/awesome.id](https://github.com/fransallen/awesome.id)|😎 🇮🇩 Awesome Indonesia: Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer dan founder dari Indonesia.|170|2021-11-23|2021-07-28|
 |70|[anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr)|Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.|167|2021-10-08|2021-06-22|
 |71|[amazonlinux/amazon-linux-2022](https://github.com/amazonlinux/amazon-linux-2022)|Amazon Linux 2022|166|2021-12-16|2021-11-12|
 |72|[devkodeio/the-dom-challenge](https://github.com/devkodeio/the-dom-challenge)|DOM Challenge is a 60-90 minutes online weekly challenge related to frontend development consisting of industrial level machine round questions.|166|2021-09-21|2021-08-15|
@@ -84,7 +84,7 @@
 |77|[Johnson070/MiBand-5-watchface-editor](https://github.com/Johnson070/MiBand-5-watchface-editor)|A program to help create watch faces for mi band 5 & 6!|157|2021-10-27|2021-03-07|
 |78|[TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises)|-|141|2021-12-20|2021-08-17|
 |79|[iamshaunjp/material-ui-tut](https://github.com/iamshaunjp/material-ui-tut)|-|139|2021-06-14|2021-02-13|
-|80|[substrait-io/substrait](https://github.com/substrait-io/substrait)|A cross platform way to express data transformation, relational algebra, standardized record expression and plans.|137|2021-12-20|2021-08-31|
+|80|[substrait-io/substrait](https://github.com/substrait-io/substrait)|A cross platform way to express data transformation, relational algebra, standardized record expression and plans.|138|2021-12-20|2021-08-31|
 |81|[rishikeshreddyakkireddy/designtodevelopment](https://github.com/rishikeshreddyakkireddy/designtodevelopment)|This repository is all about converting design inspirations into code.|135|2021-11-19|2021-10-02|
 |82|[TTV-LOL/extensions](https://github.com/TTV-LOL/extensions)|-|132|2021-06-05|2021-04-08|
 |83|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|130|2021-12-11|2021-10-29|

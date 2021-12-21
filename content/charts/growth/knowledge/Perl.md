@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Perl
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|2|0|2021-10-18|
 |9|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|69|0|2021-12-20|
 |10|[andre-st/goodreads-toolbox](https://github.com/andre-st/goodreads-toolbox)|9 tools for Goodreads.com, for finding people based on the books they’ve read, finding books popular among the people you follow, following new book reviews, etc|57|0|2021-07-12|
-|11|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |261|0|2021-12-17|
+|11|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |261|0|2021-12-21|
 |12|[thibaultduponchelle/messy-ci-workflows](https://github.com/thibaultduponchelle/messy-ci-workflows)|Messy collection of Perl github ci workflows|2|0|2021-08-02|
 |13|[geertu/linux-scripts](https://github.com/geertu/linux-scripts)|Collection of scripts for Linux kernel development|6|0|2021-07-15|
 |14|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|0|2021-11-18|
@@ -48,12 +48,12 @@
 |41|[UB-Mannheim/vMaBookShelf](https://github.com/UB-Mannheim/vMaBookShelf)|Create a virtual Book Shelf, Proxy script for connect to other webpages (ebooks) and a Firefox Add-on vMaBookShelfHelper|7|0|2021-10-20|
 |42|[PDLPorters/PDL-Stats](https://github.com/PDLPorters/PDL-Stats)|Statistics modules in Perl Data Language, with a quick-start guide for non-PDL people. They make the PDL shell work like R, but with PDL threading (fast automatic iteration) of procedures including t- ...|11|0|2021-11-20|
 |43|[dqwang122/CALMS](https://github.com/dqwang122/CALMS)|Code and dataset for 'Contrastive Aligned Joint Learning for Multilingual Summarization'|6|0|2021-11-09|
-|44|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|315|0|2021-12-20|
-|45|[DK-Hostmaster/epp-xsd-files](https://github.com/DK-Hostmaster/epp-xsd-files)|XSD files for the DK Hostmaster EPP service|4|0|2021-12-20|
+|44|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|316|0|2021-12-20|
+|45|[DK-Hostmaster/epp-xsd-files](https://github.com/DK-Hostmaster/epp-xsd-files)|XSD files for the DK Hostmaster EPP service|4|0|2021-12-21|
 |46|[eekboek/eekboek](https://github.com/eekboek/eekboek)|Dutch bookkeeping application|4|0|2021-08-04|
 |47|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|25|0|2021-12-08|
 |48|[opencloset/OpenCloset-Share-Web](https://github.com/opencloset/OpenCloset-Share-Web)| OpenCloset::Share::Web|2|0|2021-12-09|
-|49|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|44|0|2021-10-22|
+|49|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|45|0|2021-10-22|
 |50|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|5|0|2021-10-21|
 |51|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|10|0|2021-12-02|
 |52|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|11|0|2021-12-20|
@@ -61,14 +61,14 @@
 |54|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|12|0|2021-11-03|
 |55|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1596|0|2021-12-03|
 |56|[ExapunksBacardi/ExapunksRecords](https://github.com/ExapunksBacardi/ExapunksRecords)|A collection of record solutions for exapunks|7|0|2021-09-29|
-|57|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|19|0|2021-12-20|
+|57|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|19|0|2021-12-21|
 |58|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|0|2021-12-19|
 |59|[xen-tools/xen-tools](https://github.com/xen-tools/xen-tools)|xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.|50|0|2021-10-24|
 |60|[ThomasDOtto/varDB](https://github.com/ThomasDOtto/varDB)|Script how to assemble var genes in Plasmodium falciparum|4|0|2021-08-17|
 |61|[EntropyOrg/p5-Data-Frame](https://github.com/EntropyOrg/p5-Data-Frame)|:notebook: data frame implementation|4|0|2021-11-27|
 |62|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|0|2021-10-29|
 |63|[xukaili/CandiHap](https://github.com/xukaili/CandiHap)|A haplotype analysis toolkit for natural variation study.|9|0|2021-11-06|
-|64|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|292|0|2021-12-20|
+|64|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|293|0|2021-12-20|
 |65|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|0|2021-10-23|
 |66|[multicom-toolbox/DNSS2](https://github.com/multicom-toolbox/DNSS2)|Deep learning architectures for protein secondary structure prediction (version 2)|5|0|2021-08-25|
 |67|[THU-KEG/TWAG](https://github.com/THU-KEG/TWAG)|Code and dataset for the ACL 2021 paper "TWAG: A Topic-guided Wikipedia Abstract Generator"|14|0|2021-08-09|

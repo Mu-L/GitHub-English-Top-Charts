@@ -1,19 +1,19 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)|https://huyenchip.com/ml-interviews-book/|1489|2021-09-16|2021-01-02|
+|1|[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)|https://huyenchip.com/ml-interviews-book/|1490|2021-09-16|2021-01-02|
 |2|[bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io)|Companion webpage for the book "Bayesian Optimization" by Roman Garnett|613|2021-12-08|2021-08-25|
 |3|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|434|2021-10-09|2021-06-24|
 |4|[AhmadRafiee/Docker_training_with_DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)|The tools and sample needed to learn the Docker|401|2021-08-28|2021-08-25|
 |5|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|355|2021-12-18|2021-06-16|
 |6|[fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects)|Project codes used in "The NGINX Handbook" |338|2021-11-16|2021-04-20|
 |7|[bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)|Free Introduction to Git and GitHub eBook|312|2021-10-30|2021-02-25|
-|8|[full-stack-deep-learning/website](https://github.com/full-stack-deep-learning/website)|Source for https://fullstackdeeplearning.com|285|2021-10-09|2021-01-29|
-|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|262|2021-12-19|2021-06-08|
+|8|[full-stack-deep-learning/website](https://github.com/full-stack-deep-learning/website)|Source for https://fullstackdeeplearning.com|286|2021-10-09|2021-01-29|
+|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|263|2021-12-19|2021-06-08|
 |10|[yetanother-blog/indiepen](https://github.com/yetanother-blog/indiepen)|An independent and privacy-friendly solution to embed HTML, CSS and JS code examples|251|2021-12-19|2021-03-16|
 |11|[LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad)|Landchad.net Website Tutorial Page|234|2021-12-19|2021-06-28|
 |12|[haltakov/suboptimal](https://github.com/haltakov/suboptimal)|Seriously Unnecessary Baffling Obscure Perplexing Terms In MAchine Learning|188|2021-08-24|2021-05-07|
@@ -23,12 +23,12 @@
 |16|[russmaxdesign/accessible-forms](https://github.com/russmaxdesign/accessible-forms)|A series of HTML test cases to determine how specific elements are announced in different screen reader / browser combinations.|147|2021-12-15|2021-03-01|
 |17|[github/maintainerweek](https://github.com/github/maintainerweek)|A week for maintainers to gather & share|140|2021-06-10|2021-03-30|
 |18|[m8/refined.blog](https://github.com/m8/refined.blog)|curated list of personal blogs|131|2021-12-03|2021-07-25|
-|19|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|127|2021-12-20|2021-01-10|
+|19|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|127|2021-12-21|2021-01-10|
 |20|[bobbyiliev/laravel-tips-and-tricks-ebook](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)|Free Laravel Tips eBook|123|2021-10-28|2021-07-15|
 |21|[ainzzorl/goodcode](https://github.com/ainzzorl/goodcode)|A curated collection of annotated code examples from prominent open-source projects|119|2021-11-30|2021-06-30|
 |22|[SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)|This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is ...|108|2021-12-17|2021-08-31|
 |23|[clawfire/covid19-passbook-generator](https://github.com/clawfire/covid19-passbook-generator)|A simple PWA to scan your EU digital COVID Certificate and generate a passbook from it|106|2021-12-13|2021-06-12|
-|24|[ContinualAI/continual-learning-papers](https://github.com/ContinualAI/continual-learning-papers)|Continual Learning papers list, curated by ContinualAI|101|2021-11-15|2021-06-04|
+|24|[ContinualAI/continual-learning-papers](https://github.com/ContinualAI/continual-learning-papers)|Continual Learning papers list, curated by ContinualAI|102|2021-11-15|2021-06-04|
 |25|[LinaC404/GCP](https://github.com/LinaC404/GCP)|I will mark what I learned in Google cloud platform|99|2021-10-10|2021-06-04|
 |26|[bobbyiliev/introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)|Free Introduction to Docker eBook|91|2021-12-06|2021-10-25|
 |27|[Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)|The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!|87|2021-11-05|2021-07-02|
@@ -58,7 +58,7 @@
 |51|[gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light)|Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.|39|2021-11-13|2021-02-07|
 |52|[erankitcs/BookStoreAppOnEKS](https://github.com/erankitcs/BookStoreAppOnEKS)|A book store app powered by AWS EKS.|36|2021-09-28|2021-06-06|
 |53|[42js/js-piscine-beta-2021-08](https://github.com/42js/js-piscine-beta-2021-08)|🔥 JavaScript crunch course from scratch|35|2021-09-08|2021-08-09|
-|54|[ayush-lab/Coursera-Clone](https://github.com/ayush-lab/Coursera-Clone)|Coursera clone|35|2021-12-16|2021-04-11|
+|54|[ayush-lab/Coursera-Clone](https://github.com/ayush-lab/Coursera-Clone)|Coursera clone|35|2021-12-21|2021-04-11|
 |55|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|34|2021-12-09|2021-10-24|
 |56|[midnitefox/Nord-Theme-Ports-and-Assets](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets)|A collection of various assets I've created using Nord Theme color palettes|34|2021-07-31|2021-07-19|
 |57|[Yunhui1998/Gymjsp](https://github.com/Yunhui1998/Gymjsp)|Share a benchmark that can easily apply reinforcement  learning in Job-shop-scheduling|33|2021-09-25|2021-08-29|

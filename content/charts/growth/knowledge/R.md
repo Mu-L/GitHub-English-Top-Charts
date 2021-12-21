@@ -1,19 +1,19 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > R
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|171|2|2021-09-10|
-|2|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4857|2|2021-10-07|
+|2|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4858|2|2021-10-07|
 |3|[swirldev/swirl_courses](https://github.com/swirldev/swirl_courses)|:mortar_board: A collection of interactive courses for the swirl R package.|3792|1|2021-10-08|
 |4|[z3tt/30DayChartChallenge_Collection2021](https://github.com/z3tt/30DayChartChallenge_Collection2021)|Collection of contributions to and resources for the first #30DayChartChallenge in April 2021|133|1|2021-06-01|
 |5|[Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr)|Open source book: Geocomputation with R|1041|1|2021-12-20|
 |6|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2526|1|2021-11-17|
 |7|[andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists)|Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts"|871|1|2021-09-30|
-|8|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3233|1|2021-12-20|
-|9|[facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn)|Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali ...|311|1|2021-12-20|
+|8|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3235|1|2021-12-20|
+|9|[facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn)|Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali ...|312|1|2021-12-20|
 |10|[EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)|Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜|897|1|2021-11-22|
 |11|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|72|1|2021-12-20|
 |12|[looqbox/guide](https://github.com/looqbox/guide)|Looqbox's user guide|8|0|2021-10-05|
@@ -51,7 +51,7 @@
 |44|[alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science)|🛠️ 🌐  Thematic list of high-quality data science resources|179|0|2021-10-24|
 |45|[OHDSI/TheBookOfOhdsi](https://github.com/OHDSI/TheBookOfOhdsi)|The Book of OHDSI repository|71|0|2021-11-16|
 |46|[dayoonkwon/BioAge](https://github.com/dayoonkwon/BioAge)|Biological Age Calculations Using Several Biomarker Algorithms|4|0|2021-10-03|
-|47|[wviechtb/course_oor](https://github.com/wviechtb/course_oor)|Repo for the 'Open Online Introduction to R Course'|48|0|2021-06-11|
+|47|[wviechtb/course_oor](https://github.com/wviechtb/course_oor)|Repo for the 'Open Online Introduction to R Course'|49|0|2021-06-11|
 |48|[ncss-tech/aqp](https://github.com/ncss-tech/aqp)|Algorithms for Quantitative Pedology|34|0|2021-12-15|
 |49|[mpio-be/rangeMapper](https://github.com/mpio-be/rangeMapper)|A platform for the study of macroecology of life history traits|8|0|2021-10-10|
 |50|[CL-CHEN-Lab/OK-Seq](https://github.com/CL-CHEN-Lab/OK-Seq)|R package for the analysis of OK-Seq data to study DNA replication fork directionality: from count matrices, RFD calculation to inititation/termination zone calling.|4|0|2021-12-02|
@@ -65,16 +65,16 @@
 |58|[tdhock/animint-book](https://github.com/tdhock/animint-book)|Learn how to create animated interactive ggplots using the animint2 R package|7|0|2021-08-31|
 |59|[marneypratt/r4bio](https://github.com/marneypratt/r4bio)|Intro to R for Biology learnr Tutorials|8|0|2021-06-23|
 |60|[hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)|Mastering Shiny: a book|954|0|2021-12-18|
-|61|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|30|0|2021-12-18|
+|61|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|31|0|2021-12-18|
 |62|[Shoklan/datacamp](https://github.com/Shoklan/datacamp)|A repository for examples and extensions of what I  learn from the classes.|14|0|2021-10-07|
 |63|[luca-scr/GA](https://github.com/luca-scr/GA)|An R package for optimization using genetic algorithms|71|0|2021-10-14|
 |64|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|6|0|2021-11-30|
-|65|[ModelOriented/DrWhy](https://github.com/ModelOriented/DrWhy)|DrWhy is the collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.|507|0|2021-06-30|
+|65|[ModelOriented/DrWhy](https://github.com/ModelOriented/DrWhy)|DrWhy is the collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.|508|0|2021-06-30|
 |66|[dppalomar/spectralGraphTopology](https://github.com/dppalomar/spectralGraphTopology)|Learning Graphs from Data via Spectral Constraints for k-component, bipartite, and k-component bipartite graphs|48|0|2021-09-06|
 |67|[lgnbhl/polyglot](https://github.com/lgnbhl/polyglot)|🎓Use the R Console as an interactive learning environment|26|0|2021-10-10|
 |68|[OHDSI/Hades](https://github.com/OHDSI/Hades)|Health Analytics Data-to-Evidence Suite (HADES): A collection of R packages for performing analytics against the Common Data Model.|8|0|2021-12-17|
 |69|[rstudio-education/dsbox](https://github.com/rstudio-education/dsbox)|Companion R package to Data Science Course in a Box|34|0|2021-11-10|
-|70|[saezlab/decoupleR](https://github.com/saezlab/decoupleR)|R package to infer biological activities from omics data using a collection of methods.|25|0|2021-12-20|
+|70|[saezlab/decoupleR](https://github.com/saezlab/decoupleR)|R package to infer biological activities from omics data using a collection of methods.|26|0|2021-12-20|
 |71|[pengminshi/cFIT](https://github.com/pengminshi/cFIT)|Common Factor Integration & Transfer learning (cFIT) for single cell RNA-seq data|7|0|2021-07-06|
 |72|[ropensci/bowerbird](https://github.com/ropensci/bowerbird)|Keep a collection of sparkly data resources|43|0|2021-11-30|
 |73|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|0|2021-12-09|
@@ -84,7 +84,7 @@
 |77|[Seneketh/StanDDM](https://github.com/Seneketh/StanDDM)|A collection of different Drift Diffusion Models implemented in the probabilistic programming language Stan.|22|0|2021-06-28|
 |78|[utah-dwq/wqTools](https://github.com/utah-dwq/wqTools)|A collection of custom R tools for Utah DWQ use.|4|0|2021-11-09|
 |79|[eddelbuettel/tiledb-user2021](https://github.com/eddelbuettel/tiledb-user2021)|Repository for useR! 2021 TileDB Tutorial Helper Package|13|0|2021-08-04|
-|80|[rstudio/pins](https://github.com/rstudio/pins)|Pin, Discover and Share Resources|215|0|2021-12-15|
+|80|[rstudio/pins](https://github.com/rstudio/pins)|Pin, Discover and Share Resources|216|0|2021-12-15|
 |81|[mdsr-book/mdsr](https://github.com/mdsr-book/mdsr)|Complement to CRC Press book *Modern Data Science with R*|28|0|2021-12-15|
 |82|[matt-dray/tidyswirl](https://github.com/matt-dray/tidyswirl)|:mortar_board::cyclone: A {swirl} course for learning about tidyverse packages from within R|4|0|2021-11-01|
 |83|[k3jph/phonics-in-r](https://github.com/k3jph/phonics-in-r)|Phonetic Spelling Algorithms in R|23|0|2021-09-25|
@@ -95,7 +95,7 @@
 |88|[HerveAbdi/data4PCCAR](https://github.com/HerveAbdi/data4PCCAR)|data4PCCAR: A R-collection of data sets and tools to illustrate Abdi & Beaton (2021) Principal Component and Correspondence Analyses with R.|8|0|2021-10-10|
 |89|[jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars)|A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/|19|0|2021-12-21|
 |90|[eco4cast/neon4cast-phenology](https://github.com/eco4cast/neon4cast-phenology)|Shared code, example workflow, and null models for EFI-RCN NEON phenology forecasting challenge|5|0|2021-12-04|
-|91|[NEONScience/NEON-IS-data-processing](https://github.com/NEONScience/NEON-IS-data-processing)|Next generation data processing algorithms and pipeline components for (most) NEON TIS and AIS data products.|7|0|2021-12-20|
+|91|[NEONScience/NEON-IS-data-processing](https://github.com/NEONScience/NEON-IS-data-processing)|Next generation data processing algorithms and pipeline components for (most) NEON TIS and AIS data products.|7|0|2021-12-21|
 |92|[epiforecasts/covidregionaldata](https://github.com/epiforecasts/covidregionaldata)|An interface to subnational and national level COVID-19 data. For all countries supported, this includes a daily time-series of cases. Wherever available we also provide data on deaths, hospitalisatio ...|32|0|2021-12-20|
 |93|[fernandoPalluzzi/SEMgraph](https://github.com/fernandoPalluzzi/SEMgraph)|Causal Structure Learning and Network Analysis with Structural Equation Modeling.|8|0|2021-11-17|
 |94|[openvolley/ovml](https://github.com/openvolley/ovml)|Machine learning for volleyball analytics|8|0|2021-07-09|

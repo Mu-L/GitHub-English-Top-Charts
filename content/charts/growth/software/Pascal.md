@@ -1,42 +1,42 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Pascal
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|56|9|2021-12-15|
-|2|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|182|7|2021-12-20|
-|3|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9886|4|2021-12-16|
-|4|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6948|3|2021-12-18|
+|1|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|57|10|2021-12-15|
+|2|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|187|7|2021-12-20|
+|3|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9887|4|2021-12-16|
+|4|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6952|3|2021-12-18|
 |5|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|43|3|2021-12-19|
-|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1419|3|2021-12-11|
+|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1420|3|2021-12-11|
 |7|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|56|3|2021-12-19|
-|8|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2866|2|2021-12-16|
-|9|[crazzzypeter/BitmapPixels](https://github.com/crazzzypeter/BitmapPixels)|BitmapPixels.pas  - Lazarus module for direct access to pixels at TBitmap|10|1|2021-12-13|
-|10|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|1|2021-12-21|
-|11|[JackTrapper/htmlp](https://github.com/JackTrapper/htmlp)|Delphi Dom HTML Parser and Converter|5|1|2021-12-15|
-|12|[fluisgirardi/pascalscada_v0](https://github.com/fluisgirardi/pascalscada_v0)|-|15|1|2021-11-29|
-|13|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1298|1|2021-11-25|
-|14|[DarkCoderSc/win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon)|Crack any Microsoft Windows users password without any privilege (Guest account included)|712|1|2021-12-01|
-|15|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|484|1|2021-09-02|
-|16|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|143|1|2021-10-19|
-|17|[DosWorld/pasqoi](https://github.com/DosWorld/pasqoi)|A Pascal implementation of Quite OK Image Format|4|1|2021-12-21|
+|8|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2867|2|2021-12-16|
+|9|[DosWorld/pasqoi](https://github.com/DosWorld/pasqoi)|A Pascal implementation of Quite OK Image Format|5|2|2021-12-21|
+|10|[crazzzypeter/BitmapPixels](https://github.com/crazzzypeter/BitmapPixels)|BitmapPixels.pas  - Lazarus module for direct access to pixels at TBitmap|10|1|2021-12-13|
+|11|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|1|2021-12-21|
+|12|[JackTrapper/htmlp](https://github.com/JackTrapper/htmlp)|Delphi Dom HTML Parser and Converter|5|1|2021-12-15|
+|13|[fluisgirardi/pascalscada_v0](https://github.com/fluisgirardi/pascalscada_v0)|-|15|1|2021-11-29|
+|14|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1298|1|2021-11-25|
+|15|[DarkCoderSc/win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon)|Crack any Microsoft Windows users password without any privilege (Guest account included)|712|1|2021-12-01|
+|16|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|484|1|2021-09-02|
+|17|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|143|1|2021-10-19|
 |18|[MFernstrom/gitHuntr](https://github.com/MFernstrom/gitHuntr)|-|8|1|2021-12-18|
 |19|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|618|1|2021-12-16|
-|20|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2490|1|2021-09-15|
+|20|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2491|1|2021-09-15|
 |21|[tinyBigGAMES/Spark](https://github.com/tinyBigGAMES/Spark)|Simple & Elegant Game Library for Delphi|6|1|2021-12-12|
 |22|[EvgeniyKorepov/Watchdog4DanilaMiner](https://github.com/EvgeniyKorepov/Watchdog4DanilaMiner)|Watchdog for Danila miner|16|1|2021-12-06|
 |23|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2606|1|2021-11-28|
 |24|[appercept/field-report-delphi](https://github.com/appercept/field-report-delphi)|Sample application demonstrating AWS SDK including S3, SNS, and SQS|3|0|2021-12-15|
 |25|[onyxadm/OtsFirebase](https://github.com/onyxadm/OtsFirebase)|Componente Delphi de Consumo do Google Firebase|12|0|2021-11-05|
 |26|[HemulGM/VLC](https://github.com/HemulGM/VLC)|VLC Actual Fork (Video LAN)|17|0|2021-12-14|
-|27|[nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash)|Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, UsbAsp, AVRISP(LUFA), Arduino, FT232H.|375|0|2021-12-16|
+|27|[nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash)|Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, UsbAsp, AVRISP(LUFA), Arduino, FT232H.|377|0|2021-12-16|
 |28|[sigmdel/poutils](https://github.com/sigmdel/poutils)|Command line utilities to modify Free Pascal and Lazarus .po translation files |5|0|2021-10-04|
 |29|[DenisAnisimov/ThreadedJpeg](https://github.com/DenisAnisimov/ThreadedJpeg)|-|3|0|2021-12-04|
 |30|[raccoon-dev/DNetLog](https://github.com/raccoon-dev/DNetLog)|TCP/UDP logs for Delphi|6|0|2021-09-17|
 |31|[ultibohub/Lazarus](https://github.com/ultibohub/Lazarus)|Lazarus Ultibo Edition|10|0|2021-10-30|
-|32|[genericptr/GLCanvas](https://github.com/genericptr/GLCanvas)|OpenGL drawing library for Free Pascal|4|0|2021-11-01|
+|32|[genericptr/GLCanvas](https://github.com/genericptr/GLCanvas)|OpenGL drawing library for Free Pascal|5|0|2021-11-01|
 |33|[GuvaCode/Ray4Laz-Extras](https://github.com/GuvaCode/Ray4Laz-Extras)|Is a set of classes for helping in the creation of 2D and 3D games for Ray4Laz|2|0|2021-12-06|
 |34|[DaveBlakeman/DelphiUsesGraph](https://github.com/DaveBlakeman/DelphiUsesGraph)|A small, VERY fast micro parser to analyse very large Delphi projects (it can cope with million line projects and thousands of modules with ease). Provides an export to Gephi for graph analysis of uni ...|26|0|2021-06-18|
 |35|[capslock66/Tracetool](https://github.com/capslock66/Tracetool)|Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi|22|0|2021-09-03|
@@ -78,7 +78,7 @@
 |71|[alanphys/BeamScheme](https://github.com/alanphys/BeamScheme)|Extract and analyse 1D profiles from 2D arrays and images|4|0|2021-10-26|
 |72|[TheLazyTomcat/SII_Decrypt](https://github.com/TheLazyTomcat/SII_Decrypt)|[OLD CODE, USE WITH CAUTION] Small library/tool designed to decrypt SII files used as saves in truck games by SCS Software. Can be used as DLL, console program, GUI program or directly in a code.|7|0|2021-10-06|
 |73|[sechshelme/Lazarus-OpenGL-3.3-Tutorial](https://github.com/sechshelme/Lazarus-OpenGL-3.3-Tutorial)|-|16|0|2021-12-04|
-|74|[Alexey-T/ATSynEdit](https://github.com/Alexey-T/ATSynEdit)|Multi-line editor control, with syntax highlighting, for Lazarus|103|0|2021-12-20|
+|74|[Alexey-T/ATSynEdit](https://github.com/Alexey-T/ATSynEdit)|Multi-line editor control, with syntax highlighting, for Lazarus|104|0|2021-12-20|
 |75|[MahdiSafsafi/DebugEngine](https://github.com/MahdiSafsafi/DebugEngine)|Delphi debug framework|148|0|2021-06-18|
 |76|[lab313ru/megapack-megadrive](https://github.com/lab313ru/megapack-megadrive)|Megadrive MEGAPACK source code. Original 68k compression algo by Jon Menzies|18|0|2021-08-29|
 |77|[DelphiABall/Azure-Cognitive-Services](https://github.com/DelphiABall/Azure-Cognitive-Services)|Delphi Classes and Samples for connecting to, and using, Azure Cognitive Services|8|0|2021-12-16|

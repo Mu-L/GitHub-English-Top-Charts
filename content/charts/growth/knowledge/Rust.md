@@ -1,32 +1,32 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Rust
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260216|260|2021-12-15|
-|2|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10058|12|2021-12-20|
-|3|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2120|10|2021-12-14|
-|4|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|23260|9|2021-12-18|
-|5|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systemes|6977|7|2021-11-08|
-|6|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4246|5|2021-10-17|
-|7|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7315|5|2021-12-19|
-|8|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|22|4|2021-12-16|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260220|260|2021-12-15|
+|2|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10059|12|2021-12-20|
+|3|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2121|10|2021-12-14|
+|4|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|23268|9|2021-12-21|
+|5|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systemes|6976|7|2021-12-21|
+|6|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|26|5|2021-12-16|
+|7|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4246|5|2021-10-17|
+|8|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7320|5|2021-12-19|
 |9|[ekzhang/percival](https://github.com/ekzhang/percival)|📝 Web-based, reactive Datalog notebooks for data analysis and visualization|221|4|2021-12-15|
-|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |4584|4|2021-12-20|
-|11|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9313|4|2021-12-20|
+|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |4585|4|2021-12-20|
+|11|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9314|4|2021-12-20|
 |12|[timvisee/ffsend](https://github.com/timvisee/ffsend)|:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.|5449|4|2021-10-16|
-|13|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|8215|3|2021-12-20|
-|14|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|367|3|2021-08-18|
+|13|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|8216|3|2021-12-20|
+|14|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|368|3|2021-08-18|
 |15|[erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)|Distributed SQL database in Rust, written as a learning project|3177|3|2021-12-03|
-|16|[dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)|Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]|1591|2|2021-12-21|
-|17|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|495|2|2021-11-27|
-|18|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|2711|2|2021-08-24|
+|16|[dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)|Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]|1593|2|2021-12-21|
+|17|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|496|2|2021-11-27|
+|18|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|2714|2|2021-08-24|
 |19|[actix/examples](https://github.com/actix/examples)|Community showcase and examples of Actix ecosystem usage.|2090|2|2021-12-10|
-|20|[tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)|Incomplete Redis client and server implementation using Tokio - for learning purposes only|1260|2|2021-11-29|
-|21|[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)|A collection of Solana-maintained on-chain programs|1105|2|2021-12-20|
-|22|[EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust|2921|2|2021-08-14|
+|20|[tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)|Incomplete Redis client and server implementation using Tokio - for learning purposes only|1261|2|2021-11-29|
+|21|[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)|A collection of Solana-maintained on-chain programs|1106|2|2021-12-21|
+|22|[EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust|2922|2|2021-08-14|
 |23|[CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts)|Examples and helpers to build NFT contracts on CosmWasm|49|1|2021-12-21|
 |24|[utilForever/algorithm-rs](https://github.com/utilForever/algorithm-rs)|Common data structures and algorithms for competitive programming in Rust|14|1|2021-11-30|
 |25|[cbisaillon/Scrypto-Advent-Calendar](https://github.com/cbisaillon/Scrypto-Advent-Calendar)|Scrypto Advent Calendar. Learn the new programming langage to build secure DeFi applications quickly.|14|1|2021-12-20|
@@ -47,7 +47,7 @@
 |40|[Synerise/cleora](https://github.com/Synerise/cleora)|Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.|354|1|2021-09-13|
 |41|[LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)|Code to follow along the "Zero To Production" book on API development in Rust.|687|1|2021-12-20|
 |42|[vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks)|A Collection of Rust Tips and Tricks|105|1|2021-11-10|
-|43|[rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)|v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html|357|1|2021-12-13|
+|43|[rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)|v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html|359|1|2021-12-13|
 |44|[8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff)|Hex diff viewer using alignment algorithms from biology|181|1|2021-06-27|
 |45|[jez/as-tree](https://github.com/jez/as-tree)|Print a list of paths as a tree of paths 🌳|305|1|2021-10-07|
 |46|[anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)|Roadmap to becoming a Rust Web Developer in 2021|1015|1|2021-08-16|
@@ -57,9 +57,9 @@
 |50|[thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust)|The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson|124|1|2021-11-06|
 |51|[rust-in-action/code](https://github.com/rust-in-action/code)|Source code for the book Rust in Action|665|1|2021-12-20|
 |52|[jaywonchung/reason](https://github.com/jaywonchung/reason)|A shell for research papers|108|1|2021-10-02|
-|53|[TianyiShi2001/Algorithms](https://github.com/TianyiShi2001/Algorithms)|Algorithms implemented in Rust, explained.|245|1|2021-07-15|
+|53|[TianyiShi2001/Algorithms](https://github.com/TianyiShi2001/Algorithms)|Algorithms implemented in Rust, explained.|246|1|2021-07-15|
 |54|[stevedonovan/runner](https://github.com/stevedonovan/runner)|Tool for running Rust snippets|110|0|2021-12-16|
-|55|[togatoga/screwsat](https://github.com/togatoga/screwsat)|A simple CDCL(Conflict-Driven-Clause-Learning) SAT solver in Rust.|28|0|2021-09-11|
+|55|[togatoga/screwsat](https://github.com/togatoga/screwsat)|A simple CDCL(Conflict-Driven-Clause-Learning) SAT solver in Rust.|29|0|2021-09-11|
 |56|[iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban)|Rust Sokoban book and code samples|99|0|2021-11-21|
 |57|[hoodie/icalendar-rs](https://github.com/hoodie/icalendar-rs)|📆 icalendar library, in Rust of course - for fun|38|0|2021-12-18|
 |58|[analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis)|⚙️ A curated list of dynamic analysis tools for all programming languages, binaries, and more.|498|0|2021-12-20|
@@ -79,7 +79,7 @@
 |72|[wahn/rs_pbrt](https://github.com/wahn/rs_pbrt)|Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code. See also https://www.rs-pbrt.org/about ...|709|0|2021-11-30|
 |73|[divinerapier/weaver](https://github.com/divinerapier/weaver)|A distributed object file system inspired by the paper Beaver which was published by Facebook Inc. at 2010.|16|0|2021-07-14|
 |74|[Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck)|A backend for `mdbook` which will check your links for you.|78|0|2021-11-12|
-|75|[0b01/tectonicdb](https://github.com/0b01/tectonicdb)|Database for L2 orderbook|384|0|2021-12-20|
+|75|[0b01/tectonicdb](https://github.com/0b01/tectonicdb)|Database for L2 orderbook|384|0|2021-12-21|
 |76|[lpc-rs/lpc8xx-hal](https://github.com/lpc-rs/lpc8xx-hal)|Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in the Rust programming language|24|0|2021-12-10|
 |77|[lise-henry/crowbook](https://github.com/lise-henry/crowbook)|Converts books written in Markdown to HTML, LaTeX/PDF and EPUB|472|0|2021-12-04|
 |78|[Byron/learning-rust-with-gitoxide](https://github.com/Byron/learning-rust-with-gitoxide)|Our sessions when learning Rust with gitoxide|21|0|2021-11-29|
@@ -92,13 +92,13 @@
 |85|[PistonDevelopers/Piston-Tutorials](https://github.com/PistonDevelopers/Piston-Tutorials)|Tutorials for Piston|469|0|2021-11-28|
 |86|[lmammino/rust-advent](https://github.com/lmammino/rust-advent)|Learning Rust by solving advent of code challenges (Streaming live on Twitch every Monday)|12|0|2021-12-09|
 |87|[quark-zju/gcmodule](https://github.com/quark-zju/gcmodule)|Garbage collection for Rust inspired by CPython's gcmodule|14|0|2021-11-27|
-|88|[TianyiShi2001/bioinformatics-algorithms-rs](https://github.com/TianyiShi2001/bioinformatics-algorithms-rs)|Bioinformatics Algorithms implemented in Rust for Learners|21|0|2021-08-01|
+|88|[TianyiShi2001/bioinformatics-algorithms-rs](https://github.com/TianyiShi2001/bioinformatics-algorithms-rs)|Bioinformatics Algorithms implemented in Rust for Learners|22|0|2021-08-01|
 |89|[paritytech/substrate-debug-kit](https://github.com/paritytech/substrate-debug-kit)|A collection of debug tools, scripts and libraries on top of substrate. |90|0|2021-11-18|
 |90|[vorot/roots](https://github.com/vorot/roots)|Library of well known algorithms for numerical root finding.|29|0|2021-10-29|
 |91|[peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps)|Code for Manning book - Rust Servers, Services and Apps.|14|0|2021-11-01|
 |92|[Procrat/eva](https://github.com/Procrat/eva)|Let algorithms decide your life.|25|0|2021-09-05|
 |93|[felipeZ/eigenvalues](https://github.com/felipeZ/eigenvalues)|symmetric matrices algorithms to compute eigenvalue/eigenvector pairs|16|0|2021-07-19|
-|94|[izderadicka/audioserve](https://github.com/izderadicka/audioserve)|Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.|305|0|2021-12-20|
+|94|[izderadicka/audioserve](https://github.com/izderadicka/audioserve)|Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.|306|0|2021-12-21|
 |95|[hcdenbakker/sepia](https://github.com/hcdenbakker/sepia)|taxonomic classifier based on the kraken2 algorithms and more|31|0|2021-12-16|
 |96|[siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust)|P523 Course in Rust|28|0|2021-11-30|
 |97|[museun/cargo-whatfeatures](https://github.com/museun/cargo-whatfeatures)|a simple cargo plugin to get a list of features for a specific crate|51|0|2021-10-17|

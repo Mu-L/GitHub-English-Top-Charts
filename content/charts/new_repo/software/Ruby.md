@@ -1,22 +1,22 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Ruby
-<sub>Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1857|2021-11-20|2021-04-11|
+|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1860|2021-11-20|2021-04-11|
 |2|[motor-admin/motor-admin](https://github.com/motor-admin/motor-admin)|Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.|974|2021-12-19|2021-08-06|
-|3|[rails/kredis](https://github.com/rails/kredis)|Higher-level data structures built on Redis|897|2021-12-20|2021-01-30|
+|3|[rails/kredis](https://github.com/rails/kredis)|Higher-level data structures built on Redis|898|2021-12-20|2021-01-30|
 |4|[chrisseaton/rhizome](https://github.com/chrisseaton/rhizome)|A JIT for Ruby, implemented in pure Ruby|766|2021-06-27|2021-06-20|
 |5|[tenderlove/asmrepl](https://github.com/tenderlove/asmrepl)|A REPL for x86-64 assembly language|706|2021-12-07|2021-11-23|
-|6|[charkost/prosopite](https://github.com/charkost/prosopite)|:mag: Rails N+1 queries auto-detection with zero false positives / false negatives|685|2021-12-19|2021-02-17|
-|7|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|627|2021-12-15|2021-06-22|
+|6|[charkost/prosopite](https://github.com/charkost/prosopite)|:mag: Rails N+1 queries auto-detection with zero false positives / false negatives|686|2021-12-19|2021-02-17|
+|7|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|628|2021-12-15|2021-06-22|
 |8|[Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi)|A tool to automatically resolve Git conflicts that occur in Xcode project files|621|2021-12-16|2021-04-19|
-|9|[rails/importmap-rails](https://github.com/rails/importmap-rails)|Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.|512|2021-12-15|2021-07-29|
+|9|[rails/importmap-rails](https://github.com/rails/importmap-rails)|Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.|514|2021-12-15|2021-07-29|
 |10|[havenweb/haven](https://github.com/havenweb/haven)|Self-hostable private blogging|409|2021-12-20|2021-01-19|
 |11|[ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby)|⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience|391|2021-12-17|2021-01-19|
-|12|[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)|Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.|342|2021-12-16|2021-09-06|
+|12|[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)|Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.|344|2021-12-16|2021-09-06|
 |13|[hschne/rails-mini-profiler](https://github.com/hschne/rails-mini-profiler)|Performance profiling for Rails, made simple 🦔|340|2021-12-20|2021-04-23|
 |14|[motor-admin/motor-admin-rails](https://github.com/motor-admin/motor-admin-rails)|Low-code Admin panel and Business intelligence Rails engine. No DSL - configurable from the UI.|310|2021-12-20|2021-03-04|
 |15|[BaseSecrete/active_analytics](https://github.com/BaseSecrete/active_analytics)|First-party, privacy-focused traffic analytics for Ruby on Rails applications.|278|2021-09-25|2021-03-04|
@@ -24,12 +24,12 @@
 |17|[hostolab/covidliste](https://github.com/hostolab/covidliste)|Speed-up Covid-19 vaccination campaigns 💉|265|2021-12-10|2021-04-01|
 |18|[rails/propshaft](https://github.com/rails/propshaft)|Deliver assets for Rails|246|2021-12-19|2021-09-18|
 |19|[tenderlove/fisk](https://github.com/tenderlove/fisk)|A pure Ruby assembler|240|2021-12-02|2021-02-24|
-|20|[knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl)|A homebrew tap for qemu with support for 3d accelerated guests|213|2021-12-12|2021-03-15|
+|20|[knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl)|A homebrew tap for qemu with support for 3d accelerated guests|214|2021-12-12|2021-03-15|
 |21|[renuo/turbo-showcase](https://github.com/renuo/turbo-showcase)|A showcase of turbo features|183|2021-11-24|2021-03-07|
 |22|[davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss)|The best RSS Search experience you can find|177|2021-12-15|2021-01-27|
 |23|[basecamp/audits1984](https://github.com/basecamp/audits1984)|Auditing tool for Rails console sessions|165|2021-11-21|2021-08-10|
-|24|[allmarkedup/lookbook](https://github.com/allmarkedup/lookbook)|A native development UI for ViewComponent |150|2021-12-18|2021-06-25|
-|25|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem to install and manage Kubernetes/k3s clusters in Hetzner Cloud.|149|2021-11-17|2021-08-07|
+|24|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem to install and manage Kubernetes/k3s clusters in Hetzner Cloud.|150|2021-11-17|2021-08-07|
+|25|[allmarkedup/lookbook](https://github.com/allmarkedup/lookbook)|A native development UI for ViewComponent |150|2021-12-18|2021-06-25|
 |26|[rails/esbuild-rails](https://github.com/rails/esbuild-rails)|Bundle and transpile JavaScript in Rails with esbuild|143|2021-09-06|2021-09-02|
 |27|[jamesmoriarty/forward-proxy](https://github.com/jamesmoriarty/forward-proxy)|Minimal forward proxy using 150LOC and only standard libraries.|140|2021-08-31|2021-01-13|
 |28|[ankane/neighbor](https://github.com/ankane/neighbor)|Nearest neighbor search for Rails and Postgres|137|2021-12-16|2021-02-16|
@@ -52,15 +52,15 @@
 |45|[scala-open-letter/scala-open-letter.github.io](https://github.com/scala-open-letter/scala-open-letter.github.io)|-|81|2021-07-11|2021-04-27|
 |46|[billaul/active_period](https://github.com/billaul/active_period)|Smart-Period aims to simplify Time-range manipulation |75|2021-07-28|2021-04-14|
 |47|[ruby/error_highlight](https://github.com/ruby/error_highlight)|-|72|2021-12-18|2021-06-29|
-|48|[microsoft/cocoapods-pod-linkage](https://github.com/microsoft/cocoapods-pod-linkage)|CocoaPods plugin for configuring the linkage type of individual pods|69|2021-11-18|2021-02-18|
-|49|[square/cocoapods-pack](https://github.com/square/cocoapods-pack)|A CocoaPods plugin for producing xcframeworks from podspecs.|68|2021-12-07|2021-11-09|
-|50|[digital-fabric/extralite](https://github.com/digital-fabric/extralite)|An fast Ruby gem for working with SQLite3 databases|68|2021-12-17|2021-05-21|
+|48|[digital-fabric/extralite](https://github.com/digital-fabric/extralite)|An fast Ruby gem for working with SQLite3 databases|69|2021-12-21|2021-05-21|
+|49|[microsoft/cocoapods-pod-linkage](https://github.com/microsoft/cocoapods-pod-linkage)|CocoaPods plugin for configuring the linkage type of individual pods|69|2021-11-18|2021-02-18|
+|50|[square/cocoapods-pack](https://github.com/square/cocoapods-pack)|A CocoaPods plugin for producing xcframeworks from podspecs.|68|2021-12-07|2021-11-09|
 |51|[postmodern/command_kit.rb](https://github.com/postmodern/command_kit.rb)|A Ruby toolkit for building complete and robust CLI commands.|68|2021-12-15|2021-01-27|
 |52|[WeTransfer/wt_activerecord_index_spy](https://github.com/WeTransfer/wt_activerecord_index_spy)|A gem to spy queries running with Active Record and report missing indexes|67|2021-09-19|2021-02-26|
 |53|[0x727/MetasploitModules_0x727](https://github.com/0x727/MetasploitModules_0x727)|Metasploit Modules Development|66|2021-08-06|2021-08-05|
 |54|[danielpetri1/bbb-recording-exporter](https://github.com/danielpetri1/bbb-recording-exporter)|A client- and server side script to generate BigBlueButton recordings.|65|2021-12-16|2021-04-15|
 |55|[websebdev/fake_rails](https://github.com/websebdev/fake_rails)|-|64|2021-06-03|2021-05-30|
-|56|[testdouble/mocktail](https://github.com/testdouble/mocktail)|-|62|2021-12-20|2021-09-21|
+|56|[testdouble/mocktail](https://github.com/testdouble/mocktail)|-|63|2021-12-20|2021-09-21|
 |57|[stevepolitodesign/unsubscribe](https://github.com/stevepolitodesign/unsubscribe)|Automatically unsubscribe from emails in Rails.|62|2021-09-26|2021-09-17|
 |58|[TyrantDante/cocoapods-xcframework](https://github.com/TyrantDante/cocoapods-xcframework)|-|62|2021-07-04|2021-03-24|
 |59|[Loomly/s3_asset_deploy](https://github.com/Loomly/s3_asset_deploy)|Deploy & manage static assets on S3 with rolling deploys & rollbacks in mind.|62|2021-11-16|2021-02-03|
@@ -95,16 +95,16 @@
 |88|[HellRok/Taylor](https://github.com/HellRok/Taylor)|A simple game engine built using raylib and mruby|38|2021-11-23|2021-05-13|
 |89|[sirupsen/initcwnd](https://github.com/sirupsen/initcwnd)|Script to analyze the initial congestion window of any https server|36|2021-07-30|2021-07-23|
 |90|[hetznercloud/apps](https://github.com/hetznercloud/apps)|Hetzner Cloud Apps|36|2021-12-16|2021-07-07|
-|91|[opensourcerails-org/site](https://github.com/opensourcerails-org/site)|Cataloged, analyzed, manually-curated open-source Rails projects directory.|35|2021-10-03|2021-08-26|
-|92|[kenaniah/sidekiq-status](https://github.com/kenaniah/sidekiq-status)|-|35|2021-09-24|2021-06-26|
-|93|[moneybird/active-date-range](https://github.com/moneybird/active-date-range)|Powerful DateRanges for Ruby and ActiveSupport|35|2021-09-28|2021-02-26|
-|94|[KINGSABRI/goCabrito](https://github.com/KINGSABRI/goCabrito)|Super organized and flexible script for sending phishing campaigns |34|2021-11-28|2021-11-27|
-|95|[Betterment/delayed](https://github.com/Betterment/delayed)|a multi-threaded, SQL-driven ActiveJob backend used at Betterment to process millions of background jobs per day|34|2021-12-16|2021-08-18|
-|96|[leastbad/all_futures](https://github.com/leastbad/all_futures)|A Redis-backed virtual ActiveModel that makes building faceted search UIs a snap.|34|2021-12-20|2021-04-19|
-|97|[domchristie/tailwindcss-jit-rails](https://github.com/domchristie/tailwindcss-jit-rails)|An experiment with tailwindcss-jit and the asset pipeline|34|2021-10-15|2021-03-25|
-|98|[testdouble/minitest-suite](https://github.com/testdouble/minitest-suite)|Re-order your Minitest suite into logical sub-suites/groups|33|2021-11-18|2021-07-31|
-|99|[leandronsp/yata](https://github.com/leandronsp/yata)|Yet Another ToDo Application|33|2021-11-02|2021-02-24|
-|100|[palkan/faqueue](https://github.com/palkan/faqueue)|Researching background jobs fairness|33|2021-07-12|2021-02-15|
+|91|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|This is a work in progress.|35|2021-12-20|2021-11-09|
+|92|[opensourcerails-org/site](https://github.com/opensourcerails-org/site)|Cataloged, analyzed, manually-curated open-source Rails projects directory.|35|2021-10-03|2021-08-26|
+|93|[kenaniah/sidekiq-status](https://github.com/kenaniah/sidekiq-status)|-|35|2021-09-24|2021-06-26|
+|94|[moneybird/active-date-range](https://github.com/moneybird/active-date-range)|Powerful DateRanges for Ruby and ActiveSupport|35|2021-09-28|2021-02-26|
+|95|[KINGSABRI/goCabrito](https://github.com/KINGSABRI/goCabrito)|Super organized and flexible script for sending phishing campaigns |34|2021-11-28|2021-11-27|
+|96|[Betterment/delayed](https://github.com/Betterment/delayed)|a multi-threaded, SQL-driven ActiveJob backend used at Betterment to process millions of background jobs per day|34|2021-12-16|2021-08-18|
+|97|[leastbad/all_futures](https://github.com/leastbad/all_futures)|A Redis-backed virtual ActiveModel that makes building faceted search UIs a snap.|34|2021-12-20|2021-04-19|
+|98|[domchristie/tailwindcss-jit-rails](https://github.com/domchristie/tailwindcss-jit-rails)|An experiment with tailwindcss-jit and the asset pipeline|34|2021-10-15|2021-03-25|
+|99|[testdouble/minitest-suite](https://github.com/testdouble/minitest-suite)|Re-order your Minitest suite into logical sub-suites/groups|33|2021-11-18|2021-07-31|
+|100|[leandronsp/yata](https://github.com/leandronsp/yata)|Yet Another ToDo Application|33|2021-11-02|2021-02-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
