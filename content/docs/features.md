@@ -15,5 +15,5 @@ English New Projects Ranking
 - The selection logic is to remain active & created in the past year with high stars;
 
 Separation of software and knowledge projects
-- We can find good projects without disturbing by other spoken language anymore;
+- Now you can find good software projects accurately and efficiently. You can also browse only the knowledge projects.
 - Existence is reasonable. The project has no distinction between high and low. The most important thing is that everyone can efficiently get what they need;
