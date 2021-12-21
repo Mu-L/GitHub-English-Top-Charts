@@ -2,15 +2,15 @@
 
 # Features
 
-English projects ranking
+English Overall Ranking
 - Filter out projects with English documents for ranking, helping everyone discover excellent English projects and get rid of the interference of other spoken language;
 - The selection logic is to remain active & total number of stars;
 
-Growth ranking
+English Growth Ranking
 - Help everyone find projects with a faster growth rate;
 - The selection logic is to remain active & average daily rising stars;
 
-New projects ranking
+English New Projects Ranking
 - To help everyone discover the potential new projects in the past year;
 - The selection logic is to remain active & created in the past year with high stars;
 
