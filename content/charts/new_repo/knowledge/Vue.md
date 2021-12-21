@@ -6,48 +6,48 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|344|2021-08-23|2021-02-24|
-|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|332|2021-12-01|2021-06-25|
+|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|333|2021-12-01|2021-06-25|
 |3|[jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page)|A bookmarkable, searchable cheatsheet for all of Laravel's default Artisan commands.|177|2021-12-01|2021-01-18|
-|4|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|143|2021-12-18|2021-08-17|
+|4|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|147|2021-12-21|2021-08-17|
 |5|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|123|2021-12-15|2021-10-09|
 |6|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|102|2021-12-13|2021-10-21|
 |7|[aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys)|🎲 A curated list of MLOps projects, tools and resources|94|2021-11-29|2021-06-10|
 |8|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|93|2021-12-04|2021-09-13|
 |9|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|79|2021-12-03|2021-06-20|
-|10|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|66|2021-12-07|2021-02-25|
-|11|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-17|2021-10-03|
-|12|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|48|2021-12-02|2021-05-22|
-|13|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for AudioBookshelf|36|2021-12-19|2021-09-02|
-|14|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|35|2021-12-16|2021-04-07|
+|10|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|66|2021-12-21|2021-02-25|
+|11|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-20|2021-10-03|
+|12|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|49|2021-12-19|2021-05-22|
+|13|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for AudioBookshelf|37|2021-12-20|2021-09-02|
+|14|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|36|2021-12-21|2021-04-07|
 |15|[lin-xi/fe-course](https://github.com/lin-xi/fe-course)|fe-course|34|2021-07-20|2021-07-09|
-|16|[Idered/iridium](https://github.com/Idered/iridium)|💎 Growing collection of VS Code extensions with a fancy name|32|2021-11-24|2021-01-28|
+|16|[Idered/iridium](https://github.com/Idered/iridium)|💎 Growing collection of VS Code extensions with a fancy name|33|2021-11-24|2021-01-28|
 |17|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|29|2021-12-17|2021-11-28|
-|18|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|27|2021-10-15|2021-03-28|
-|19|[nandium/RouteMaker](https://github.com/nandium/RouteMaker)|Browser and Android application where users can quickly create climbing routes and share with community|26|2021-09-08|2021-04-15|
-|20|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|25|2021-10-23|2021-06-12|
-|21|[Amr2812/software-environment-concepts](https://github.com/Amr2812/software-environment-concepts)|Static Site Generated Progressive Web App Glossary eBook for software concepts.|24|2021-12-16|2021-04-18|
-|22|[chengpeiquan/chengpeiquan.com](https://github.com/chengpeiquan/chengpeiquan.com)|My personal website. Base on Vite 2.0 and Vue 3.0. If you want to know how to use Vite to develop a project, you can refer to this repository.|24|2021-12-18|2021-02-04|
-|23|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|23|2021-11-25|2021-01-27|
+|18|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|29|2021-11-25|2021-01-27|
+|19|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|27|2021-10-15|2021-03-28|
+|20|[nandium/RouteMaker](https://github.com/nandium/RouteMaker)|Browser and Android application where users can quickly create climbing routes and share with community|26|2021-09-08|2021-04-15|
+|21|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|25|2021-10-23|2021-06-12|
+|22|[Amr2812/software-environment-concepts](https://github.com/Amr2812/software-environment-concepts)|Static Site Generated Progressive Web App Glossary eBook for software concepts.|24|2021-12-16|2021-04-18|
+|23|[chengpeiquan/chengpeiquan.com](https://github.com/chengpeiquan/chengpeiquan.com)|My personal website. Base on Vite 2.0 and Vue 3.0. If you want to know how to use Vite to develop a project, you can refer to this repository.|24|2021-12-20|2021-02-04|
 |24|[Benbinbin/TagDown](https://github.com/Benbinbin/TagDown)|A bookmarks manager Chrome extension.|23|2021-10-24|2021-01-12|
-|25|[cihat/dictionary](https://github.com/cihat/dictionary)|Project that tries to help you learn English.📕|19|2021-10-06|2021-03-20|
+|25|[cihat/dictionary](https://github.com/cihat/dictionary)|Project that tries to help you learn English.📕|18|2021-10-06|2021-03-20|
 |26|[Hunlongyu/bookmarks-manager](https://github.com/Hunlongyu/bookmarks-manager)|edit bookmarks, check url.|16|2021-11-12|2021-09-16|
-|27|[uom-assistant/uom-assistant](https://github.com/uom-assistant/uom-assistant)|A web app that can improve your study experience in University of Manchester|15|2021-12-07|2021-02-18|
-|28|[DrakeAxelrod/webdevelopment-project](https://github.com/DrakeAxelrod/webdevelopment-project)|Web development course school project|14|2021-12-14|2021-11-02|
-|29|[me-shaon/laravel-resources](https://github.com/me-shaon/laravel-resources)|A list of useful Laravel resources|14|2021-08-24|2021-08-22|
-|30|[asyncfinkd/learning-vue](https://github.com/asyncfinkd/learning-vue)|Learning Vue v3|14|2021-07-16|2021-07-16|
-|31|[Bible-Projects/believers-sword-app](https://github.com/Bible-Projects/believers-sword-app)|Believers Sword App is a piece of software that is made for believers of the bible to help them study the bible.|14|2021-11-01|2021-07-03|
-|32|[nainemom/sausage](https://github.com/nainemom/sausage)|Learn Foreign Languages via Movies Subtitle|12|2021-07-18|2021-05-21|
-|33|[Code-Pop/validating-vue3-forms](https://github.com/Code-Pop/validating-vue3-forms)|Repo for VueMastery.com's Validating Vue 3 Forms course.|12|2021-11-02|2021-04-04|
+|27|[Code-Pop/validating-vue3-forms](https://github.com/Code-Pop/validating-vue3-forms)|Repo for VueMastery.com's Validating Vue 3 Forms course.|16|2021-11-02|2021-04-04|
+|28|[uom-assistant/uom-assistant](https://github.com/uom-assistant/uom-assistant)|A web app that can improve your study experience in University of Manchester|15|2021-12-07|2021-02-18|
+|29|[DrakeAxelrod/webdevelopment-project](https://github.com/DrakeAxelrod/webdevelopment-project)|Web development course school project|14|2021-12-14|2021-11-02|
+|30|[me-shaon/laravel-resources](https://github.com/me-shaon/laravel-resources)|A list of useful Laravel resources|14|2021-08-24|2021-08-22|
+|31|[asyncfinkd/learning-vue](https://github.com/asyncfinkd/learning-vue)|Learning Vue v3|14|2021-07-16|2021-07-16|
+|32|[Bible-Projects/believers-sword-app](https://github.com/Bible-Projects/believers-sword-app)|Believers Sword App is a piece of software that is made for believers of the bible to help them study the bible.|14|2021-11-01|2021-07-03|
+|33|[nainemom/sausage](https://github.com/nainemom/sausage)|Learn Foreign Languages via Movies Subtitle|12|2021-07-18|2021-05-21|
 |34|[apoorvdwi/HacktoberFest-OpenSource-2021](https://github.com/apoorvdwi/HacktoberFest-OpenSource-2021)|A starter Project for HacktoberFest 2021. Read the Description to know how to contribute|11|2021-10-29|2021-10-01|
 |35|[cg0101/z-roadmap](https://github.com/cg0101/z-roadmap)|Tools for creating roadmaps, roadmapping tool|11|2021-10-28|2021-03-16|
 |36|[johnkomarnicki/movies-app-nuxtjs](https://github.com/johnkomarnicki/movies-app-nuxtjs)|Repo for NuxtJS Crash Course|10|2021-08-26|2021-08-26|
-|37|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|9|2021-11-09|2021-09-24|
-|38|[the-alone-maple/AJ-Report-](https://github.com/the-alone-maple/AJ-Report-)|this project was pull from anji-plus opensource project(gitee), only for self learning|9|2021-07-29|2021-07-29|
+|37|[the-alone-maple/AJ-Report-](https://github.com/the-alone-maple/AJ-Report-)|this project was pull from anji-plus opensource project(gitee), only for self learning|10|2021-07-29|2021-07-29|
+|38|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|9|2021-11-09|2021-09-24|
 |39|[mazdakdev/Bookito](https://github.com/mazdakdev/Bookito)|A personal book library   All the books you want in one place|8|2021-12-09|2021-12-08|
 |40|[nyancodeid/mockify](https://github.com/nyancodeid/mockify)|Mockup your Design for Instantly Shareable Images|8|2021-09-18|2021-09-16|
 |41|[sawanm9000/Tailwind-CSS-Cheatsheet](https://github.com/sawanm9000/Tailwind-CSS-Cheatsheet)|Tailwind CSS Cheatsheet (WIP)|8|2021-12-16|2021-09-15|
 |42|[nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list)|OSL is a simple shared list web-application based on Node. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.|8|2021-11-30|2021-05-03|
-|43|[Talentrator/Prograchallenges.com](https://github.com/Talentrator/Prograchallenges.com)|Learn Programming! Start from zero, become a hero, and finally get a job!|7|2021-12-17|2021-09-12|
+|43|[Talentrator/Prograchallenges.com](https://github.com/Talentrator/Prograchallenges.com)|Learn Programming! Start from zero, become a hero, and finally get a job!|7|2021-12-20|2021-09-12|
 |44|[italia/come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)|Guided wizard to direct contributors to Developers and Designers Italia|7|2021-09-28|2021-05-07|
 |45|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|2021-08-01|2021-05-06|
 |46|[lucasmenendez/mykeys](https://github.com/lucasmenendez/mykeys)|MyKeys is a simple web app to manage collections of passwords as bookmarks. It transforms your encrypted passwords into a long URL that you can add to bookmarks to open it later or share with your fri ...|7|2021-07-01|2021-03-23|

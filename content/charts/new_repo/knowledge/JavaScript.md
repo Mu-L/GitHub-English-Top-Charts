@@ -5,31 +5,31 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|6962|2021-11-08|2021-02-14|
-|2|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|2620|2021-12-04|2021-01-23|
+|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|6963|2021-11-08|2021-02-14|
+|2|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|2625|2021-12-04|2021-01-23|
 |3|[coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)|An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages|1968|2021-11-29|2021-01-30|
-|4|[mechaniac/Map-of-Javascript](https://github.com/mechaniac/Map-of-Javascript)|Javascript on one sheet. (and one for algorithms)|1626|2021-06-11|2021-02-08|
-|5|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1596|2021-12-18|2021-06-16|
+|4|[mechaniac/Map-of-Javascript](https://github.com/mechaniac/Map-of-Javascript)|Javascript on one sheet. (and one for algorithms)|1625|2021-06-11|2021-02-08|
+|5|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1596|2021-12-20|2021-06-16|
 |6|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1408|2021-12-04|2021-04-22|
-|7|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1226|2021-11-04|2021-05-25|
-|8|[btholt/complete-intro-to-react-v6](https://github.com/btholt/complete-intro-to-react-v6)|learn React.js with Brian Holt|1205|2021-11-21|2021-01-10|
-|9|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1060|2021-12-19|2021-08-28|
-|10|[bradtraversy/react-crash-2021](https://github.com/bradtraversy/react-crash-2021)|Task tracking application from the React crash course|931|2021-12-10|2021-01-18|
+|7|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1229|2021-11-04|2021-05-25|
+|8|[btholt/complete-intro-to-react-v6](https://github.com/btholt/complete-intro-to-react-v6)|learn React.js with Brian Holt|1208|2021-11-21|2021-01-10|
+|9|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1136|2021-12-20|2021-08-28|
+|10|[bradtraversy/react-crash-2021](https://github.com/bradtraversy/react-crash-2021)|Task tracking application from the React crash course|932|2021-12-10|2021-01-18|
 |11|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|811|2021-10-03|2021-09-21|
-|12|[dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)|Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.|809|2021-09-11|2021-02-03|
-|13|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |793|2021-08-05|2021-06-03|
-|14|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|756|2021-12-09|2021-04-13|
-|15|[laxyapahuja/bunken](https://github.com/laxyapahuja/bunken)|A chrome extension to download ebooks directly from Goodreads.|647|2021-06-28|2021-05-26|
-|16|[adrianhajdin/chat_application](https://github.com/adrianhajdin/chat_application)|This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a real-time chat application. Covered topics: React.js, Socket.io.|644|2021-06-16|2021-01-17|
+|12|[dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)|Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.|808|2021-09-11|2021-02-03|
+|13|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |796|2021-08-05|2021-06-03|
+|14|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|758|2021-12-09|2021-04-13|
+|15|[laxyapahuja/bunken](https://github.com/laxyapahuja/bunken)|A chrome extension to download ebooks directly from Goodreads.|648|2021-06-28|2021-05-26|
+|16|[adrianhajdin/chat_application](https://github.com/adrianhajdin/chat_application)|This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a real-time chat application. Covered topics: React.js, Socket.io.|645|2021-06-16|2021-01-17|
 |17|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|557|2021-12-08|2021-05-31|
 |18|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|478|2021-10-28|2021-02-17|
-|19|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|452|2021-08-16|2021-07-31|
-|20|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|433|2021-12-09|2021-03-11|
-|21|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|423|2021-12-14|2021-01-25|
-|22|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|400|2021-09-15|2021-03-28|
-|23|[btholt/citr-v6-project](https://github.com/btholt/citr-v6-project)|Project files for the Complete Intro to React v6, as taught for Frontend Masters|393|2021-10-19|2021-01-11|
-|24|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|360|2021-08-27|2021-02-26|
-|25|[adrianhajdin/project_video_chat](https://github.com/adrianhajdin/project_video_chat)|This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.|347|2021-07-09|2021-03-20|
+|19|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|455|2021-08-16|2021-07-31|
+|20|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|435|2021-12-09|2021-03-11|
+|21|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|423|2021-12-20|2021-01-25|
+|22|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|401|2021-09-15|2021-03-28|
+|23|[btholt/citr-v6-project](https://github.com/btholt/citr-v6-project)|Project files for the Complete Intro to React v6, as taught for Frontend Masters|394|2021-10-19|2021-01-11|
+|24|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|361|2021-08-27|2021-02-26|
+|25|[adrianhajdin/project_video_chat](https://github.com/adrianhajdin/project_video_chat)|This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.|348|2021-07-09|2021-03-20|
 |26|[sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer)|Sorting Algorithms Visualizer|310|2021-06-08|2021-06-05|
 |27|[eirslett/storybook-builder-vite](https://github.com/eirslett/storybook-builder-vite)|An experimental plugin to run and build Storybooks with Vite|292|2021-12-11|2021-04-13|
 |28|[comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)|List of Fabric server side mods|279|2021-12-09|2021-03-13|

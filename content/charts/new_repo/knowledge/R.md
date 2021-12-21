@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|170|2021-09-10|2021-08-31|
+|1|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|171|2021-09-10|2021-08-31|
 |2|[z3tt/30DayChartChallenge_Collection2021](https://github.com/z3tt/30DayChartChallenge_Collection2021)|Collection of contributions to and resources for the first #30DayChartChallenge in April 2021|133|2021-06-01|2021-03-30|
-|3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|72|2021-11-24|2021-08-31|
-|4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|34|2021-12-08|2021-07-09|
+|3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|72|2021-12-20|2021-08-31|
+|4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|35|2021-12-08|2021-07-09|
 |5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|30|2021-12-18|2021-09-29|
 |6|[topepo/tidy-apm](https://github.com/topepo/tidy-apm)|tidymodels code for the book  Applied Predictive Modeling|30|2021-07-26|2021-07-06|
 |7|[ColinFay/golemexamples](https://github.com/ColinFay/golemexamples)|Gathering in one place some {golem} examples|29|2021-10-04|2021-02-09|
@@ -20,10 +20,10 @@
 |13|[rstudio-education/advanced-shiny-az](https://github.com/rstudio-education/advanced-shiny-az)|Materials for the "Advanced Shiny" course for Astra Zeneca|20|2021-09-09|2021-09-06|
 |14|[juliasilge/deploytidymodels](https://github.com/juliasilge/deploytidymodels)|Version, share, and deploy tidymodels workflows|20|2021-11-16|2021-06-12|
 |15|[svmiller/steveproj](https://github.com/svmiller/steveproj)|An R package for getting academic projects/papers started.|20|2021-11-18|2021-03-09|
-|16|[Swarbricklab-code/BrCa_cell_atlas](https://github.com/Swarbricklab-code/BrCa_cell_atlas)|Data processing and analysis related code associated with the study "A single-cell and spatially resolved atlas of human breast cancers".|19|2021-10-28|2021-05-06|
-|17|[PlaypowerLabs/EdOptimize](https://github.com/PlaypowerLabs/EdOptimize)|EdOptimize is an open-source learning analytics platform for K-12 digital learning systems.|18|2021-06-05|2021-04-16|
-|18|[dxsbiocc/learn](https://github.com/dxsbiocc/learn)|my learning journey|18|2021-12-06|2021-01-07|
-|19|[cderv/meetup-2021-rmd-business-report](https://github.com/cderv/meetup-2021-rmd-business-report)|Talk at R Entrprise Meetup about styling Rmd for following organization guidelines|17|2021-10-05|2021-10-04|
+|16|[Swarbricklab-code/BrCa_cell_atlas](https://github.com/Swarbricklab-code/BrCa_cell_atlas)|Data processing and analysis related code associated with the study "A single-cell and spatially resolved atlas of human breast cancers".|19|2021-12-20|2021-05-06|
+|17|[PlaypowerLabs/EdOptimize](https://github.com/PlaypowerLabs/EdOptimize)|EdOptimize is an open-source learning analytics platform for K-12 digital learning systems.|19|2021-06-05|2021-04-16|
+|18|[cderv/meetup-2021-rmd-business-report](https://github.com/cderv/meetup-2021-rmd-business-report)|Talk at R Entrprise Meetup about styling Rmd for following organization guidelines|18|2021-10-05|2021-10-04|
+|19|[dxsbiocc/learn](https://github.com/dxsbiocc/learn)|my learning journey|18|2021-12-06|2021-01-07|
 |20|[EllaKaye/distilltools](https://github.com/EllaKaye/distilltools)|A collection of tools to support the creation and styling of content on {distill} websites|17|2021-12-16|2021-04-20|
 |21|[taylorjwright/did_reading_group](https://github.com/taylorjwright/did_reading_group)|Code snippets from DiD Reading Group meetings|17|2021-07-19|2021-04-16|
 |22|[CDCgov/Rnssp](https://github.com/CDCgov/Rnssp)|A Signature R package for the National Syndromic and Surveillance Program (NSSP) at the Centers for Disease Control and Prevention (CDC). A collection of tools, functions, and R Markdown templates tha ...|15|2021-11-24|2021-05-20|
@@ -43,36 +43,37 @@
 |36|[RohanAlexander/DoSStoolkit](https://github.com/RohanAlexander/DoSStoolkit)|R Package that contains self-paced lessons for learning R.|9|2021-06-05|2021-02-18|
 |37|[statnmap/user2021.rmdd](https://github.com/statnmap/user2021.rmdd)|Tutorial: How to build a package following Rmd Driven Development|9|2021-07-28|2021-01-28|
 |38|[AammarTufail/R_with_Aammar](https://github.com/AammarTufail/R_with_Aammar)|We upload the contents of our Data Science Course in this repository|8|2021-12-15|2021-11-20|
-|39|[marneypratt/r4bio](https://github.com/marneypratt/r4bio)|Intro to R for Biology learnr Tutorials|8|2021-06-23|2021-02-07|
-|40|[bayesball/ShinyBaseball](https://github.com/bayesball/ShinyBaseball)|Collection of Shiny apps for exploring baseball data.|8|2021-12-13|2021-02-06|
-|41|[data-cleaning/useR2021_tutorial](https://github.com/data-cleaning/useR2021_tutorial)|Materials for the useR!2021 tutorial on data validation|8|2021-08-26|2021-02-03|
-|42|[FredHutch/R_Package_Validation_Tutorial](https://github.com/FredHutch/R_Package_Validation_Tutorial)|Bookdown Tutorial for R Package Validation Framework|8|2021-11-05|2021-01-19|
-|43|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|7|2021-11-02|2021-10-07|
-|44|[ccrismancox/POLS602_Fall2021](https://github.com/ccrismancox/POLS602_Fall2021)|Course site for POLS 602 Fall 2021|7|2021-12-09|2021-08-22|
-|45|[anhoej/r4spc](https://github.com/anhoej/r4spc)|Course materials: Statistical process control charts with R|6|2021-10-30|2021-10-28|
-|46|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|6|2021-09-29|2021-09-06|
-|47|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|6|2021-11-30|2021-08-24|
-|48|[ursacomputing/arrow-cookbook-old](https://github.com/ursacomputing/arrow-cookbook-old)|Repository for the Apache Arrow Cookbook initiative|6|2021-07-13|2021-06-17|
-|49|[StatsGary/PlumberWithCaretML_API](https://github.com/StatsGary/PlumberWithCaretML_API)|This shows you how to create a CARET model that is consumable on the Swagger API|6|2021-07-19|2021-04-15|
-|50|[tud-ise/wellbeing](https://github.com/tud-ise/wellbeing)|Companion repository for the course "Wohlbefinden verbessern mit Data Analytics" ("Increasing Well-Being With Data Analytics") taught at Technical University of Darmstadt (TUD)|6|2021-06-25|2021-04-06|
-|51|[njtierney/greta-course-notes](https://github.com/njtierney/greta-course-notes)|Course notes for greta|5|2021-11-17|2021-11-02|
-|52|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
-|53|[nch-igm/EnFusion](https://github.com/nch-igm/EnFusion)|The ENsemble Fusion (EnFusion) repo contains a Dockerfile to build a Docker Image that can overlap outputs from 7 fusion detection algorithms, to identify high confidence fusion events. |5|2021-09-15|2021-08-04|
-|54|[AntonioDeFalco/SCEVAN](https://github.com/AntonioDeFalco/SCEVAN)|R package that automatically classifies the cells in the scRNA data by segregating non-malignant cells of tumor microenviroment from the malignant cells. It also infers the copy number profile of mali ...|5|2021-12-15|2021-07-05|
-|55|[mlverse/torch-learnr](https://github.com/mlverse/torch-learnr)|Learnr tutorials for Torch|5|2021-08-16|2021-04-12|
-|56|[SwissTPH/OpenCOVID](https://github.com/SwissTPH/OpenCOVID)|This git-repository contains current reports and source-code for OpenCOVID, an individual based model of SARS-CoV-2 dynamics for studying transmission dynamics and epidemiology, and the impacts of int ...|5|2021-12-10|2021-03-23|
-|57|[bradlindblad/cheatsheet](https://github.com/bradlindblad/cheatsheet)|A simple package to grab cheat sheets and save them to your local computer|5|2021-07-14|2021-03-15|
-|58|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|2021-12-09|2021-02-22|
-|59|[Fgazzelloni/TidyTuesday](https://github.com/Fgazzelloni/TidyTuesday)|several TidyTuesday interesting examples|5|2021-12-15|2021-01-31|
-|60|[andreaspacher/academic-publishers](https://github.com/andreaspacher/academic-publishers)|A list of academic publishers and their scholarly journals.|5|2021-12-09|2021-01-30|
-|61|[wincowgerDEV/OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy)|Analyze, Process, Identify, and Share, Raman and (FT)IR Spectra|5|2021-12-04|2021-01-29|
-|62|[robjhyndman/fpp3scripts](https://github.com/robjhyndman/fpp3scripts)|R scripts used in fpp3 book|4|2021-11-20|2021-11-20|
-|63|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|4|2021-12-09|2021-08-20|
-|64|[aosmith16/simpow](https://github.com/aosmith16/simpow)|Simulation-based power analyses for a blocked study design|4|2021-07-06|2021-06-25|
-|65|[runapp-aus/book](https://github.com/runapp-aus/book)|The runapp book|4|2021-08-27|2021-06-20|
-|66|[dppalomar/pob](https://github.com/dppalomar/pob)|Supporting package for the Portfolio Optimization Book|4|2021-09-02|2021-06-17|
-|67|[heyitsdsp/Hunkydory_Stats](https://github.com/heyitsdsp/Hunkydory_Stats)|Contains a list of compiled questions and answers for basic statistics in the R programming language. |4|2021-06-18|2021-04-07|
-|68|[huynguyen250896/oCEM](https://github.com/huynguyen250896/oCEM)|When it comes to the co-expressed gene module detection, its typical challenges consist of overlap between identified modules and local co-expression in a subset of biological samples. A recent study  ...|4|2021-09-26|2021-03-17|
+|39|[alexanderbrenning/wiml](https://github.com/alexanderbrenning/wiml)|Interpreting machine-learning models in transformed space|8|2021-12-20|2021-03-09|
+|40|[marneypratt/r4bio](https://github.com/marneypratt/r4bio)|Intro to R for Biology learnr Tutorials|8|2021-06-23|2021-02-07|
+|41|[bayesball/ShinyBaseball](https://github.com/bayesball/ShinyBaseball)|Collection of Shiny apps for exploring baseball data.|8|2021-12-13|2021-02-06|
+|42|[data-cleaning/useR2021_tutorial](https://github.com/data-cleaning/useR2021_tutorial)|Materials for the useR!2021 tutorial on data validation|8|2021-08-26|2021-02-03|
+|43|[FredHutch/R_Package_Validation_Tutorial](https://github.com/FredHutch/R_Package_Validation_Tutorial)|Bookdown Tutorial for R Package Validation Framework|8|2021-11-05|2021-01-19|
+|44|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|7|2021-11-02|2021-10-07|
+|45|[ccrismancox/POLS602_Fall2021](https://github.com/ccrismancox/POLS602_Fall2021)|Course site for POLS 602 Fall 2021|7|2021-12-09|2021-08-22|
+|46|[anhoej/r4spc](https://github.com/anhoej/r4spc)|Course materials: Statistical process control charts with R|6|2021-10-30|2021-10-28|
+|47|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|6|2021-09-29|2021-09-06|
+|48|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|6|2021-11-30|2021-08-24|
+|49|[ursacomputing/arrow-cookbook-old](https://github.com/ursacomputing/arrow-cookbook-old)|Repository for the Apache Arrow Cookbook initiative|6|2021-07-13|2021-06-17|
+|50|[StatsGary/PlumberWithCaretML_API](https://github.com/StatsGary/PlumberWithCaretML_API)|This shows you how to create a CARET model that is consumable on the Swagger API|6|2021-07-19|2021-04-15|
+|51|[tud-ise/wellbeing](https://github.com/tud-ise/wellbeing)|Companion repository for the course "Wohlbefinden verbessern mit Data Analytics" ("Increasing Well-Being With Data Analytics") taught at Technical University of Darmstadt (TUD)|6|2021-06-25|2021-04-06|
+|52|[andreaspacher/academic-publishers](https://github.com/andreaspacher/academic-publishers)|A list of academic publishers and their scholarly journals.|6|2021-12-09|2021-01-30|
+|53|[robjhyndman/fpp3scripts](https://github.com/robjhyndman/fpp3scripts)|R scripts used in fpp3 book|5|2021-11-20|2021-11-20|
+|54|[njtierney/greta-course-notes](https://github.com/njtierney/greta-course-notes)|Course notes for greta|5|2021-11-17|2021-11-02|
+|55|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
+|56|[nch-igm/EnFusion](https://github.com/nch-igm/EnFusion)|The ENsemble Fusion (EnFusion) repo contains a Dockerfile to build a Docker Image that can overlap outputs from 7 fusion detection algorithms, to identify high confidence fusion events. |5|2021-09-15|2021-08-04|
+|57|[AntonioDeFalco/SCEVAN](https://github.com/AntonioDeFalco/SCEVAN)|R package that automatically classifies the cells in the scRNA data by segregating non-malignant cells of tumor microenviroment from the malignant cells. It also infers the copy number profile of mali ...|5|2021-12-15|2021-07-05|
+|58|[mlverse/torch-learnr](https://github.com/mlverse/torch-learnr)|Learnr tutorials for Torch|5|2021-08-16|2021-04-12|
+|59|[SwissTPH/OpenCOVID](https://github.com/SwissTPH/OpenCOVID)|This git-repository contains current reports and source-code for OpenCOVID, an individual based model of SARS-CoV-2 dynamics for studying transmission dynamics and epidemiology, and the impacts of int ...|5|2021-12-10|2021-03-23|
+|60|[bradlindblad/cheatsheet](https://github.com/bradlindblad/cheatsheet)|A simple package to grab cheat sheets and save them to your local computer|5|2021-07-14|2021-03-15|
+|61|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|2021-12-09|2021-02-22|
+|62|[Fgazzelloni/TidyTuesday](https://github.com/Fgazzelloni/TidyTuesday)|several TidyTuesday interesting examples|5|2021-12-20|2021-01-31|
+|63|[wincowgerDEV/OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy)|Analyze, Process, Identify, and Share, Raman and (FT)IR Spectra|5|2021-12-04|2021-01-29|
+|64|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|4|2021-12-09|2021-08-20|
+|65|[aosmith16/simpow](https://github.com/aosmith16/simpow)|Simulation-based power analyses for a blocked study design|4|2021-07-06|2021-06-25|
+|66|[runapp-aus/book](https://github.com/runapp-aus/book)|The runapp book|4|2021-08-27|2021-06-20|
+|67|[dppalomar/pob](https://github.com/dppalomar/pob)|Supporting package for the Portfolio Optimization Book|4|2021-09-02|2021-06-17|
+|68|[heyitsdsp/Hunkydory_Stats](https://github.com/heyitsdsp/Hunkydory_Stats)|Contains a list of compiled questions and answers for basic statistics in the R programming language. |4|2021-06-18|2021-04-07|
+|69|[huynguyen250896/oCEM](https://github.com/huynguyen250896/oCEM)|When it comes to the co-expressed gene module detection, its typical challenges consist of overlap between identified modules and local co-expression in a subset of biological samples. A recent study  ...|4|2021-09-26|2021-03-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
