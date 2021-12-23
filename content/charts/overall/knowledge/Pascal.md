@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1191|2021-12-09|
-|2|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|753|2021-11-02|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1190|2021-12-09|
+|2|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|754|2021-11-02|
 |3|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|170|2021-11-07|
 |4|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|124|2021-10-26|
 |5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|2021-12-02|
@@ -45,7 +45,7 @@
 |38|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|2021-11-09|
 |39|[xluffy/nginx_config_collection](https://github.com/xluffy/nginx_config_collection)|The collection of nginx configuration|5|2021-06-01|
 |40|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|2021-12-11|
-|41|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-19|
+|41|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-21|
 |42|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|2021-12-07|
 |43|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|4|2021-08-10|
 |44|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|2021-12-19|

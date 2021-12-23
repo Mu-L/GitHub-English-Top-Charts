@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > PHP
-<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|704|2021-12-21|2021-08-29|
-|2|[nnjeim/world](https://github.com/nnjeim/world)|A Laravel package providing a list of the countries, states, cities, currencies and timezones|316|2021-11-19|2021-10-25|
+|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|920|2021-12-22|2021-08-29|
+|2|[nnjeim/world](https://github.com/nnjeim/world)|A Laravel package providing a list of the countries, states, cities, currencies and timezones|318|2021-11-19|2021-10-25|
 |3|[nahamsec/nahamsec.training](https://github.com/nahamsec/nahamsec.training)|The labs for my Udemy course (https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec)|179|2021-07-01|2021-02-24|
 |4|[christophrumpel/larastreamers](https://github.com/christophrumpel/larastreamers)|There is no better way to learn than by watching other developers code live. Find out who is streaming next in the Laravel world.|142|2021-12-20|2021-05-13|
 |5|[stripe-samples/accept-a-payment](https://github.com/stripe-samples/accept-a-payment)|Learn how to accept a payment from customers around the world with a variety of payment methods.|133|2021-12-21|2021-01-26|
@@ -14,10 +14,10 @@
 |7|[area17/blast](https://github.com/area17/blast)|Storybook for Laravel Blade 🚀|115|2021-12-15|2021-09-14|
 |8|[DanielHe4rt/basement-lms](https://github.com/DanielHe4rt/basement-lms)|Laravel Learning Management System (LMS) |86|2021-10-06|2021-05-30|
 |9|[pl1998/laravel-casbin-admin](https://github.com/pl1998/laravel-casbin-admin)|Front and back end separation RBAC permission management system based on Vue-Element-Admin + Laravel。qq254046307 拉你进学习交流群|79|2021-12-16|2021-01-20|
-|10|[guanguans/notify](https://github.com/guanguans/notify)|多平台推送通知 SDK(Bark、Chanify、钉钉群机器人、邮件、飞书群机器人、Gitter、Google Chat、Logger、Mattermost、Rocket Chat、Server 酱、企业微信群机器人、息知、Zulip)。|74|2021-12-13|2021-05-01|
+|10|[guanguans/notify](https://github.com/guanguans/notify)|多平台推送通知 SDK(Bark、Chanify、钉钉群机器人、邮件、飞书群机器人、Gitter、Google Chat、Logger、Mattermost、Rocket Chat、Server 酱、企业微信群机器人、息知、Zulip)。|75|2021-12-13|2021-05-01|
 |11|[Genaker/laragento](https://github.com/Genaker/laragento)|Collection of the Laravel/Eloquent Model classes that allows you to get data directly from a Magento 2 database.|71|2021-11-19|2021-06-29|
 |12|[michael-rubel/laravel-formatters](https://github.com/michael-rubel/laravel-formatters)|«‎Formatter» pattern for Laravel. Represents the extendable classes you can use to standardize data formats in your application.|69|2021-12-20|2021-10-30|
-|13|[clovon/Multipurpose-Laravel-and-Livewire-Application](https://github.com/clovon/Multipurpose-Laravel-and-Livewire-Application)|Multipurpose Laravel and Livewire Application. This is a part of tutorial series on Youtube.|43|2021-12-07|2021-02-05|
+|13|[clovon/Multipurpose-Laravel-and-Livewire-Application](https://github.com/clovon/Multipurpose-Laravel-and-Livewire-Application)|Multipurpose Laravel and Livewire Application. This is a part of tutorial series on Youtube.|44|2021-12-07|2021-02-05|
 |14|[theanik/laravel-more-command](https://github.com/theanik/laravel-more-command)|Laravel More Command is a collection of a few php artisan commands. You can use it to create a Repository, Repository with Interface, Service, Trait, View(blade file), and Clear Log from the command l ...|43|2021-12-14|2021-01-28|
 |15|[the-fast-track/book-5.2-1](https://github.com/the-fast-track/book-5.2-1)|The Symfony 5 book source: The Fast Track|39|2021-08-21|2021-02-01|
 |16|[Raldir/FEVEROUS](https://github.com/Raldir/FEVEROUS)|Repository for Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS), accepted to NeurIPS 2021 Dataset and Benchmarks and used for the FEVER Workshop Shared Task at  ...|37|2021-10-13|2021-05-20|

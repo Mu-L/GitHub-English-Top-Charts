@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|2021-12-12|2021-12-11|
 |8|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|5|2021-11-23|2021-11-12|
 |9|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|2021-11-09|2021-09-06|
-|10|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-19|2021-12-17|
+|10|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-21|2021-12-17|
 |11|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|2021-12-07|2021-11-30|
 |12|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|4|2021-08-10|2021-08-04|
 |13|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|2021-12-19|2021-06-23|
