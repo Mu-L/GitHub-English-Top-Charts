@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vim script
-<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8624|5|2021-08-21|
+|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8626|5|2021-08-21|
 |2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10090|4|2021-12-20|
 |3|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|516|1|2021-12-16|
 |4|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|157|1|2021-12-18|
@@ -27,7 +27,7 @@
 |20|[poliquin/stata-vim](https://github.com/poliquin/stata-vim)|Syntax highlighting and snippets for editing Stata code with Vim|7|0|2021-11-18|
 |21|[henricattoire/aergia](https://github.com/henricattoire/aergia)|Vim snippet manager.|31|0|2021-10-11|
 |22|[protsaq/how_to_understand_vim_and_be_a_little_better_at_it](https://github.com/protsaq/how_to_understand_vim_and_be_a_little_better_at_it)|people get annoyed at my ranting about vim so I put it here ➕ some very useful tips on how to get better at vim 🌶|12|0|2021-08-05|
-|23|[iamjamestl/dotfiles](https://github.com/iamjamestl/dotfiles)|Dotfiles and other shared home directory things|12|0|2021-12-21|
+|23|[iamjamestl/dotfiles](https://github.com/iamjamestl/dotfiles)|Dotfiles and other shared home directory things|12|0|2021-12-23|
 |24|[phlip9/dotfiles](https://github.com/phlip9/dotfiles)|A collection of my dotfiles.|2|0|2021-11-20|
 |25|[ciryon/.dotfiles](https://github.com/ciryon/.dotfiles)|My collection of dotfiles for bash, git, vim|2|0|2021-11-01|
 |26|[daviesjamie/dotfiles](https://github.com/daviesjamie/dotfiles)|A collection of .files to set up a system just the way I like it.|4|0|2021-08-24|
@@ -46,7 +46,7 @@
 |39|[Yesid-Rodelo/nvim](https://github.com/Yesid-Rodelo/nvim)|Configuracion personal de NeoVim como IDE de desarrollo, configurado principalmente para desarrollo web con javascript, typescript, react y svelte, y configurado para desarrollo movil con Flutter. Cue ...|5|0|2021-11-17|
 |40|[laserswald/dotfiles](https://github.com/laserswald/dotfiles)|My collection of dotfiles.|7|0|2021-12-21|
 |41|[stapelberg/configfiles](https://github.com/stapelberg/configfiles)|My own personal collection of configfiles. ⚠ Copy bits and pieces at your own risk. ⚠ Might be broken or break your computer. You have been warned :)|30|0|2021-11-28|
-|42|[lowkeyway/Embedded](https://github.com/lowkeyway/Embedded)|Some embedded knowledge, especially for interview.|3|0|2021-12-22|
+|42|[lowkeyway/Embedded](https://github.com/lowkeyway/Embedded)|Some embedded knowledge, especially for interview.|3|0|2021-12-23|
 |43|[myme/dotfiles](https://github.com/myme/dotfiles)|My collection of dotfiles|2|0|2021-12-10|
 |44|[danhp/dotfiles](https://github.com/danhp/dotfiles)|:wrench: My collection of .files|2|0|2021-11-09|
 |45|[JhersonMedina/Competitive-Programming-Journal](https://github.com/JhersonMedina/Competitive-Programming-Journal)|Everything that I've learned about Competitive Programming so far.|2|0|2021-11-30|
@@ -67,7 +67,7 @@
 |60|[andreaseger/dot-files](https://github.com/andreaseger/dot-files)|my collection of dot-files, vim, fish|4|0|2021-12-14|
 |61|[0xfe/evil](https://github.com/0xfe/evil)|Profiles, scripts, and other shared code.|10|0|2021-09-06|
 |62|[cold-soda-jay/Markdown-vim](https://github.com/cold-soda-jay/Markdown-vim)|Vimrc and snippet code|32|0|2021-12-19|
-|63|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|397|0|2021-12-07|
+|63|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|396|0|2021-12-07|
 |64|[lifepillar/vim-cheat40](https://github.com/lifepillar/vim-cheat40)|A Vim cheat sheet that makes sense, inside Vim!|211|0|2021-07-01|
 |65|[yorokobi/.dotfiles](https://github.com/yorokobi/.dotfiles)|My collection of dotfiles|6|0|2021-09-30|
 |66|[masukomi/masuconfigs](https://github.com/masukomi/masuconfigs)|masukomi's  collection of configuration files, and common scripts.|2|0|2021-12-10|
@@ -104,7 +104,7 @@
 |97|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only master branch is safe!|30|0|2021-12-09|
 |98|[tomswartz07/linux-configs](https://github.com/tomswartz07/linux-configs)|Collection of Linux config files|3|0|2021-11-02|
 |99|[wozgeass/Vim-IDE](https://github.com/wozgeass/Vim-IDE)|Un compendio de varios plugins bien integrados, mejoras en el resaltado de sintaxis y snippets para diferentes lenguajes.|2|0|2021-10-27|
-|100|[YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)|A personal light theme for (Neo)Vim, based on the colour of paper as found in various notebooks. This project is a read-only mirror of https://gitlab.com/yorickpeterse/vim-paper.|46|0|2021-07-15|
+|100|[YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)|A personal light theme for (Neo)Vim, based on the colour of paper as found in various notebooks. This project is a read-only mirror of https://gitlab.com/yorickpeterse/vim-paper.|48|0|2021-07-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

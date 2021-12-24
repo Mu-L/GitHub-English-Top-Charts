@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|32|2021-12-15|2021-11-01|
+|1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|33|2021-12-15|2021-11-01|
 |2|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|2021-12-18|2021-12-17|
 |3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2021-12-20|2021-05-19|
 |4|[APT777/enki](https://github.com/APT777/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
@@ -30,33 +30,33 @@
 |23|[amosyuen/hubitat](https://github.com/amosyuen/hubitat)|Hubitat Apps and Drivers|4|2021-12-11|2021-01-05|
 |24|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |25|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
-|26|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
-|27|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
-|28|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
-|29|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
-|30|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|3|2021-12-10|2021-01-23|
-|31|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-21|2021-12-02|
-|32|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
-|33|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
-|34|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2021-11-26|2021-11-13|
-|35|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2021-11-03|2021-11-01|
-|36|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
-|37|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
-|38|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
-|39|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
-|40|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
-|41|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
-|42|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
-|43|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
-|44|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2021-12-07|2021-08-11|
-|45|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
-|46|[pedegie/stats](https://github.com/pedegie/stats)|-|2|2021-12-22|2021-07-27|
+|26|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2021-12-22|2021-07-27|
+|27|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
+|28|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
+|29|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
+|30|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
+|31|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|3|2021-12-10|2021-01-23|
+|32|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-23|2021-12-02|
+|33|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
+|34|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
+|35|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2021-11-26|2021-11-13|
+|36|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2021-11-03|2021-11-01|
+|37|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
+|38|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
+|39|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
+|40|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
+|41|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
+|42|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
+|43|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
+|44|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
+|45|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2021-12-07|2021-08-11|
+|46|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
 |47|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
 |48|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|2|2021-12-02|2021-06-30|
 |49|[sangukKang/ami-toolchain](https://github.com/sangukKang/ami-toolchain)|ami-toolchain|2|2021-06-29|2021-06-29|
 |50|[TudbuT/voter](https://github.com/TudbuT/voter)|N-Dimensional system to determine a party that fits you best|2|2021-06-11|2021-06-10|
 |51|[coolwho/JsDroid4Helper](https://github.com/coolwho/JsDroid4Helper)|-|2|2021-06-11|2021-06-09|
-|52|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-20|2021-05-26|
+|52|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-23|2021-05-26|
 |53|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
 |54|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
 |55|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|

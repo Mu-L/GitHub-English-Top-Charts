@@ -1,18 +1,18 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4629|6|2021-12-07|
-|2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5661|2|2021-08-30|
-|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6912|2|2021-12-20|
-|4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2088|1|2021-11-22|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4631|6|2021-12-07|
+|2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5660|2|2021-08-30|
+|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6911|2|2021-12-20|
+|4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2089|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
-|6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2844|1|2021-09-21|
+|6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2843|1|2021-09-21|
 |7|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1662|1|2021-11-02|
-|8|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3294|1|2021-12-04|
+|8|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3295|1|2021-12-04|
 |9|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2421|1|2021-07-05|
 |10|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|1|2021-11-30|
 |11|[John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !|4573|1|2021-11-26|
@@ -28,7 +28,7 @@
 |21|[DJI-Mobile-SDK-Tutorials/iOS-GEODemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GEODemo)|In this tutorial, you will learn how to use the "DJIFlyZoneManager" and "DJIFlyZoneInformation" of DJI Mobile SDK to get the fly zone information, and unlock authorization fly zones.|4|0|2021-10-11|
 |22|[core-code/CoreLib](https://github.com/core-code/CoreLib)|CoreLib is a collection of reusable Objective-C source code to make various aspects of developing Mac and iOS applications easier.|13|0|2021-12-17|
 |23|[SinghDigamber/modalreactnative](https://github.com/SinghDigamber/modalreactnative)|A comprehensive step by step tutorial on how to work with React Native Modal component. In this tutorial, we will learn how to show essential content such as title, text and image with Modal popup in  ...|2|0|2021-09-21|
-|24|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|848|0|2021-10-01|
+|24|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|0|2021-10-01|
 |25|[ajith-ab/react-native-file-share-intent](https://github.com/ajith-ab/react-native-file-share-intent)|A react native Module  For Receive Share Intent from other Apps|46|0|2021-09-21|
 |26|[vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)|Acknowledgements screen displaying a list of licenses, for example from CocoaPods dependencies.|869|0|2021-06-23|
 |27|[daydreamboy/HelloProjects](https://github.com/daydreamboy/HelloProjects)|A `Hello` series of learning iOS projects|5|0|2021-12-11|
@@ -79,10 +79,10 @@
 |72|[OneNoteDev/OneNotePicker-iOS](https://github.com/OneNoteDev/OneNotePicker-iOS)|iOS Library to allow a user to select a OneNote section in any notebook by Microsoft Open Technologies, Inc.|7|0|2021-07-15|
 |73|[Wacom-Developer/wacom-device-kit-macos-scribble-demo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)|ScribbleDemo is a very simple drawing application. This sample code is meant to demonstrate how to retrieve all of the Tablet information using the Appkit framework (Cocoa API).|3|0|2021-10-15|
 |74|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|83|0|2021-11-27|
-|75|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|431|0|2021-10-28|
+|75|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|432|0|2021-12-23|
 |76|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
 |77|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
-|78|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1182|0|2021-12-22|
+|78|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1183|0|2021-12-23|
 |79|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|8|0|2021-09-21|
 |80|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|0|2021-10-23|
 |81|[AI-HELP/sdk-ios-example](https://github.com/AI-HELP/sdk-ios-example)|Examples for integrating the AIHelp iOS SDK in your app.|10|0|2021-12-20|
@@ -96,7 +96,7 @@
 |89|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|0|2021-11-01|
 |90|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
 |91|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-10|
-|92|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2021-12-22|
+|92|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2021-12-23|
 |93|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|321|0|2021-09-21|
 |94|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
 |95|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|

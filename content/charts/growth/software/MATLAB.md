@@ -1,20 +1,20 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9843|6|2021-08-02|
+|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9841|6|2021-08-02|
 |2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5404|3|2021-12-19|
-|3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4391|3|2021-09-07|
+|3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4392|3|2021-09-07|
 |4|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|61|1|2021-12-01|
 |5|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|601|1|2021-11-18|
 |6|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1589|1|2021-06-30|
 |7|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
 |8|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|1|2021-12-02|
 |9|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|246|1|2021-11-02|
-|10|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|626|1|2021-10-24|
+|10|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|629|1|2021-10-24|
 |11|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
 |12|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|11|0|2021-11-02|
 |13|[CommanderPho/NSCI-613-Lab-6](https://github.com/CommanderPho/NSCI-613-Lab-6)|The code for the UMich NSCI 613 Lab 6 during the Fall 2020 Semester|2|0|2021-10-02|
@@ -60,7 +60,7 @@
 |53|[anahisaltocruz/Matlab](https://github.com/anahisaltocruz/Matlab)|Manejo básico de Matlab|3|0|2021-07-05|
 |54|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|3|0|2021-09-14|
 |55|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|59|0|2021-07-20|
-|56|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1166|0|2021-12-04|
+|56|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1167|0|2021-12-04|
 |57|[GCVGroup/ACSCNN](https://github.com/GCVGroup/ACSCNN)|pytorch implementation for  ACSCNN|5|0|2021-10-12|
 |58|[nsprljan/ImageCodingResearchTools](https://github.com/nsprljan/ImageCodingResearchTools)|-|42|0|2021-11-10|
 |59|[chaimi2013/3R](https://github.com/chaimi2013/3R)|Nighttime Dehazing with a Synthetic Benchmark (ACM MM 2020)|32|0|2021-10-20|

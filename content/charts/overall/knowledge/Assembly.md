@@ -1,23 +1,23 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8684|2021-12-16|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5772|2021-12-17|
-|3|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1881|2021-12-22|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5776|2021-12-23|
+|3|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1882|2021-12-23|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|2021-12-20|
 |5|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|416|2021-11-26|
 |6|[daniel5151/ANESE](https://github.com/daniel5151/ANESE)|Another NES Emulator - written for fun & learning - first implementation of wideNES|342|2021-12-03|
 |7|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|332|2021-08-29|
-|8|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|303|2021-12-16|
+|8|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|305|2021-12-16|
 |9|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|261|2021-11-29|
-|10|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|125|2021-12-22|
+|10|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|125|2021-12-23|
 |11|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|120|2021-09-16|
 |12|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|116|2021-11-02|
-|13|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|113|2021-12-13|
+|13|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|114|2021-12-13|
 |14|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|90|2021-10-22|
 |15|[am0nsec/vx](https://github.com/am0nsec/vx)|Virus Exchange (VX) - Collection of malware or assembly code used for "offensive" purposed.|81|2021-12-10|
 |16|[tgrysztar/fasmg](https://github.com/tgrysztar/fasmg)|flat assembler g - examples library|81|2021-12-20|
@@ -28,10 +28,10 @@
 |21|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|41|2021-10-09|
 |22|[nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)|Collection of Hello World programs written in multiple languages =D|40|2021-12-19|
 |23|[jishanshaikh4/8086-cheatsheet](https://github.com/jishanshaikh4/8086-cheatsheet)|PDF Cheatsheet - 8086 Microprocessor|39|2021-08-01|
-|24|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|35|2021-12-17|
+|24|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|35|2021-12-23|
 |25|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|2021-11-11|
 |26|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|29|2021-10-24|
-|27|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|2021-12-21|
+|27|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|2021-12-23|
 |28|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|25|2021-12-09|
 |29|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|25|2021-12-22|
 |30|[ped7g/SpecBong](https://github.com/ped7g/SpecBong)|ZX Next Z80N assembly tutorial - final target "moving sprite over Layer 2 background"|23|2021-06-21|
@@ -63,48 +63,48 @@
 |56|[zivdar001matin/sbu-microprocessor](https://github.com/zivdar001matin/sbu-microprocessor)|Projects of Microprocessors and Assembly Language Course|7|2021-07-01|
 |57|[civboot/triforth](https://github.com/civboot/triforth)|A typeforth implementation in tutorial-style assembly and forth (WIP)|7|2021-07-30|
 |58|[xenoscr/shellcode-learning](https://github.com/xenoscr/shellcode-learning)|Working repository to store shellcode I am using to learn.|7|2021-07-25|
-|59|[portasynthinca3/bootsect](https://github.com/portasynthinca3/bootsect)|A collection of simple boot sector applications written in NASM for IBM PC-compatibles|6|2021-08-24|
-|60|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|6|2021-11-28|
-|61|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|6|2021-12-07|
-|62|[Kongduino/PC-G850V](https://github.com/Kongduino/PC-G850V)|A collection of small sketches for the Sharp PC-G850V|6|2021-09-30|
-|63|[jvisser/UltraDrive](https://github.com/jvisser/UltraDrive)|Project to learn how to implement a game engine for the Sega Genesis/Mega Drive.|6|2021-12-18|
-|64|[paulobruno/LearningGbAsm](https://github.com/paulobruno/LearningGbAsm)|Learning Game Boy Z80 Assembly|6|2021-07-23|
-|65|[willpyshan13/DailyInterview](https://github.com/willpyshan13/DailyInterview)|android java c++ ios flutter reactnative native leetcode|6|2021-08-28|
-|66|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|5|2021-12-21|
-|67|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|
-|68|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2021-06-18|
-|69|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|2021-12-12|
-|70|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|5|2021-10-07|
-|71|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|5|2021-12-08|
-|72|[ispoleet/ctf-writeups](https://github.com/ispoleet/ctf-writeups)|A collection of my CTF writeups|5|2021-06-01|
-|73|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|2021-12-20|
-|74|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|4|2021-12-20|
-|75|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|
-|76|[codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language](https://github.com/codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language)|I Am Joy Mondal </br> I Am Computer Science Engineering  My Youtube Channel : https://www.youtube.com/c/CodeWithJoy </br> My Facebook Page : https://www.facebook.com/joymondal.me|4|2021-07-11|
-|77|[Abhinav271828/summer21-CSO](https://github.com/Abhinav271828/summer21-CSO)|Notes and resources for the Computer Systems Organisation course at IIIT Hyderabad.|4|2021-08-10|
-|78|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|4|2021-06-19|
-|79|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|4|2021-12-07|
-|80|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|3|2021-12-19|
-|81|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|3|2021-11-05|
-|82|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|2021-12-13|
-|83|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|2021-10-31|
-|84|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|2021-09-27|
-|85|[mitchell-merry/tictactoe_mips](https://github.com/mitchell-merry/tictactoe_mips)|TicTacToe written entirely in MIPS assembly. Written 6 days after starting to learn assembly|3|2021-09-08|
-|86|[RivkiZolti/Nand2Tetris](https://github.com/RivkiZolti/Nand2Tetris)|answers to n2t course home work|3|2021-08-16|
-|87|[ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs](https://github.com/ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs)|This repository comprises of my coursework software programs under the course 8051 Microcontroller Assembly Level Language Programming.|3|2021-07-27|
-|88|[OSToastBach/BBC-Micro-Assembly](https://github.com/OSToastBach/BBC-Micro-Assembly)|My currently learning progress on 6502 assembly for the BBC Micro/Master|3|2021-07-08|
-|89|[itsikshteinberger/Mastermind](https://github.com/itsikshteinberger/Mastermind)|The classic mastermind game in assembly language|3|2021-07-08|
-|90|[xxxyk/asmgame](https://github.com/xxxyk/asmgame)|A Simple assembly language game for coursework.|3|2021-07-03|
-|91|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|2021-11-26|
-|92|[mkannwischer/m4-crypto-eng-assignments](https://github.com/mkannwischer/m4-crypto-eng-assignments)|Collection of Standalone Cryptograhpic Engineering Assignments for the ARM Cortex-M4 (STM32F407)|3|2021-08-09|
-|93|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2021-11-28|
-|94|[SoulXHades/Shellcode](https://github.com/SoulXHades/Shellcode)|A repos of shellcodes I created for fun during my free time to learn.|3|2021-11-01|
-|95|[Ziagl/C64-Assembler](https://github.com/Ziagl/C64-Assembler)|Listings of my C64 Assembler tutorial series|3|2021-10-08|
-|96|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|3|2021-11-14|
-|97|[rbwhipple/BYOC-24](https://github.com/rbwhipple/BYOC-24)|Contains files referenced in Amazon Book - "Build Your Own BASIC - From Scratch" by Richard Whipple.|3|2021-08-08|
-|98|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|3|2021-06-25|
-|99|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|3|2021-12-21|
-|100|[pararaum/amigaexamples](https://github.com/pararaum/amigaexamples)|Amiga examples in 68K assembler and C. |3|2021-08-18|
+|59|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2021-12-21|
+|60|[portasynthinca3/bootsect](https://github.com/portasynthinca3/bootsect)|A collection of simple boot sector applications written in NASM for IBM PC-compatibles|6|2021-08-24|
+|61|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|6|2021-11-28|
+|62|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|6|2021-12-07|
+|63|[Kongduino/PC-G850V](https://github.com/Kongduino/PC-G850V)|A collection of small sketches for the Sharp PC-G850V|6|2021-09-30|
+|64|[jvisser/UltraDrive](https://github.com/jvisser/UltraDrive)|Project to learn how to implement a game engine for the Sega Genesis/Mega Drive.|6|2021-12-18|
+|65|[paulobruno/LearningGbAsm](https://github.com/paulobruno/LearningGbAsm)|Learning Game Boy Z80 Assembly|6|2021-07-23|
+|66|[willpyshan13/DailyInterview](https://github.com/willpyshan13/DailyInterview)|android java c++ ios flutter reactnative native leetcode|6|2021-08-28|
+|67|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|
+|68|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|
+|69|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2021-06-18|
+|70|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|2021-12-12|
+|71|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|5|2021-10-07|
+|72|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|5|2021-12-08|
+|73|[ispoleet/ctf-writeups](https://github.com/ispoleet/ctf-writeups)|A collection of my CTF writeups|5|2021-06-01|
+|74|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|2021-12-20|
+|75|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|4|2021-12-20|
+|76|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|
+|77|[codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language](https://github.com/codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language)|I Am Joy Mondal </br> I Am Computer Science Engineering  My Youtube Channel : https://www.youtube.com/c/CodeWithJoy </br> My Facebook Page : https://www.facebook.com/joymondal.me|4|2021-07-11|
+|78|[Abhinav271828/summer21-CSO](https://github.com/Abhinav271828/summer21-CSO)|Notes and resources for the Computer Systems Organisation course at IIIT Hyderabad.|4|2021-08-10|
+|79|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|4|2021-06-19|
+|80|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|4|2021-12-07|
+|81|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|3|2021-12-19|
+|82|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|3|2021-11-05|
+|83|[JackHCC/Embedded-Microprocessor-System-Homework](https://github.com/JackHCC/Embedded-Microprocessor-System-Homework)|Peking University Embedded Microprocessor System Lesson’s all Homework|3|2021-12-19|
+|84|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|2021-12-13|
+|85|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|2021-10-31|
+|86|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|2021-09-27|
+|87|[mitchell-merry/tictactoe_mips](https://github.com/mitchell-merry/tictactoe_mips)|TicTacToe written entirely in MIPS assembly. Written 6 days after starting to learn assembly|3|2021-09-08|
+|88|[RivkiZolti/Nand2Tetris](https://github.com/RivkiZolti/Nand2Tetris)|answers to n2t course home work|3|2021-08-16|
+|89|[ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs](https://github.com/ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs)|This repository comprises of my coursework software programs under the course 8051 Microcontroller Assembly Level Language Programming.|3|2021-07-27|
+|90|[OSToastBach/BBC-Micro-Assembly](https://github.com/OSToastBach/BBC-Micro-Assembly)|My currently learning progress on 6502 assembly for the BBC Micro/Master|3|2021-07-08|
+|91|[itsikshteinberger/Mastermind](https://github.com/itsikshteinberger/Mastermind)|The classic mastermind game in assembly language|3|2021-07-08|
+|92|[xxxyk/asmgame](https://github.com/xxxyk/asmgame)|A Simple assembly language game for coursework.|3|2021-07-03|
+|93|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|2021-11-26|
+|94|[mkannwischer/m4-crypto-eng-assignments](https://github.com/mkannwischer/m4-crypto-eng-assignments)|Collection of Standalone Cryptograhpic Engineering Assignments for the ARM Cortex-M4 (STM32F407)|3|2021-08-09|
+|95|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2021-11-28|
+|96|[SoulXHades/Shellcode](https://github.com/SoulXHades/Shellcode)|A repos of shellcodes I created for fun during my free time to learn.|3|2021-11-01|
+|97|[Ziagl/C64-Assembler](https://github.com/Ziagl/C64-Assembler)|Listings of my C64 Assembler tutorial series|3|2021-10-08|
+|98|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|3|2021-11-14|
+|99|[rbwhipple/BYOC-24](https://github.com/rbwhipple/BYOC-24)|Contains files referenced in Amazon Book - "Build Your Own BASIC - From Scratch" by Richard Whipple.|3|2021-08-08|
+|100|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|3|2021-06-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
