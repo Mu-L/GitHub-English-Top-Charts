@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Perl
-<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3928|2|2021-12-19|
-|2|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1058|0|2021-10-15|
+|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3930|2|2021-12-19|
+|2|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1059|0|2021-10-15|
 |3|[veins/veins_scripts](https://github.com/veins/veins_scripts)|Collection of scripts to make using Veins easier.|3|0|2021-07-09|
 |4|[stevemussmann/file_converters](https://github.com/stevemussmann/file_converters)|A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.|2|0|2021-09-14|
 |5|[folio-org/folio-install](https://github.com/folio-org/folio-install)|Runbooks for FOLIO installation|17|0|2021-12-22|
@@ -24,8 +24,8 @@
 |17|[dlandon/zoneminder.master-docker](https://github.com/dlandon/zoneminder.master-docker)|Zoneminder Master Docker|12|0|2021-12-23|
 |18|[scottwb/dotfiles](https://github.com/scottwb/dotfiles)|My collection of unix dotfiles and other customization goodies.|4|0|2021-12-15|
 |19|[CleverCloud/varnish-examples](https://github.com/CleverCloud/varnish-examples)|Examples of Varnish configuration files for Clever Cloud|18|0|2021-06-17|
-|20|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|12|0|2021-11-19|
-|21|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1058|0|2021-12-23|
+|20|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|13|0|2021-11-19|
+|21|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1057|0|2021-12-23|
 |22|[Ensembl/ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)|A collection of tools which Ensembl uses to work with Git|8|0|2021-09-08|
 |23|[shlomif/docmake](https://github.com/shlomif/docmake)|Docmake is an automated builder from DocBook/XML to its output formats (e.g XHTML5 or PDF). It aims to be a saner replacement for xmlto.|2|0|2021-08-12|
 |24|[davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi)|LaTeX server via perl cgi script, developed for learnlatex.org|15|0|2021-09-29|
@@ -57,7 +57,7 @@
 |50|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|45|0|2021-10-22|
 |51|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|5|0|2021-10-21|
 |52|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|10|0|2021-12-02|
-|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|11|0|2021-12-23|
+|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|11|0|2021-12-24|
 |54|[joyrex2001/grpc-perl](https://github.com/joyrex2001/grpc-perl)|Perl 5 implementation of gRPC using the official gRPC shared library.|28|0|2021-08-31|
 |55|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|15|0|2021-11-03|
 |56|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1596|0|2021-12-03|
@@ -80,18 +80,18 @@
 |73|[gryphonshafer/Quizzing-Rule-Book](https://github.com/gryphonshafer/Quizzing-Rule-Book)|Bible Quizzing Rule Book|4|0|2021-10-25|
 |74|[Tekki/sql-ledger](https://github.com/Tekki/sql-ledger)|:books: The official SQL-Ledger version, plus some additions.|28|0|2021-12-18|
 |75|[raspberrypi/utils](https://github.com/raspberrypi/utils)|A collection of scripts and simple applications|41|0|2021-10-21|
-|76|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|0|2021-12-23|
+|76|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|0|2021-12-24|
 |77|[chromatic/Pod-PseudoPod-Book](https://github.com/chromatic/Pod-PseudoPod-Book)|Tools for building books with PseudoPod|23|0|2021-06-20|
-|78|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|75|0|2021-11-30|
+|78|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|75|0|2021-12-24|
 |79|[eprintsug/EPrintsOpenAIRE](https://github.com/eprintsug/EPrintsOpenAIRE)|Export to OpenAIRE (Guidelines for Literature Repositories v4) from EPrints digital repository software|3|0|2021-12-10|
 |80|[NCIP/ctat-genome-lib-builder](https://github.com/NCIP/ctat-genome-lib-builder)|Software used by Trinity CTAT for building CTAT Genome Libs, resource databases shared by Trinity CTAT components|4|0|2021-08-06|
 |81|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|65|0|2021-12-09|
 |82|[diegok/resque-perl](https://github.com/diegok/resque-perl)|Perl port of the original Ruby library. It's intended to work using the same backend to share tasks and be able to manage the system using ruby's resque-server webapp. Resque is a Redis-backed library ...|41|0|2021-06-18|
 |83|[kcsinclair/mibs](https://github.com/kcsinclair/mibs)|A collection of MIBS used for SNMP I have accumulated over the last 20+ years, works with NET-SNMP tools.|31|0|2021-06-21|
 |84|[ltb-project/ldap-scripts](https://github.com/ltb-project/ldap-scripts)|This is a collection of scripts for LDAP directories|19|0|2021-10-05|
-|85|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|0|2021-12-23|
+|85|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|0|2021-12-24|
 |86|[EquinoxOpenLibraryInitiative/migration-tools](https://github.com/EquinoxOpenLibraryInitiative/migration-tools)|A collection of tools used for migrations and data projects in Evergreen and Koha.|8|0|2021-12-09|
-|87|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|114|0|2021-12-22|
+|87|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|114|0|2021-12-24|
 |88|[KSP-RO/RealPlume](https://github.com/KSP-RO/RealPlume)|A collection of effects and polished plume configs that can be attached to any engine as appropriate.|29|0|2021-06-25|
 |89|[maxmind/MaxMind-DB-Common-perl](https://github.com/maxmind/MaxMind-DB-Common-perl)|Code shared by the MaxMind DB reader and writer modules|2|0|2021-09-27|
 |90|[ufal/conll2018](https://github.com/ufal/conll2018)| CoNLL 2018 UD Shared Task|2|0|2021-10-10|
@@ -104,7 +104,7 @@
 |97|[a-j-wood/rt-extension-sharesearchlink](https://github.com/a-j-wood/rt-extension-sharesearchlink)|Request Tracker extension to share ticket searches as shorter links|2|0|2021-09-06|
 |98|[Intertangle/p5-Alien-MuPDF](https://github.com/Intertangle/p5-Alien-MuPDF)|:rocket::book::computer::camera: Alien package for the MuPDF PDF rendering library|2|0|2021-11-28|
 |99|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|15|0|2021-12-17|
-|100|[tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte)|Magic housekeeping package for TUXEDO books|8|0|2021-12-22|
+|100|[tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte)|Magic housekeeping package for TUXEDO books|9|0|2021-12-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

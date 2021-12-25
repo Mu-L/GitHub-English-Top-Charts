@@ -1,17 +1,17 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|644|2021-11-02|2021-10-19|
-|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2021-12-22|2021-04-09|
-|3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|562|2021-12-22|2021-07-19|
+|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2021-12-23|2021-04-09|
+|3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|563|2021-12-24|2021-07-19|
 |4|[pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump)|A collection of tools for debugging, diffing, and testing your application's data structures.|391|2021-12-08|2021-02-05|
-|5|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|372|2021-09-10|2021-01-20|
-|6|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |341|2021-12-21|2021-11-30|
-|7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|245|2021-12-15|2021-10-24|
+|5|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|371|2021-09-10|2021-01-20|
+|6|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |368|2021-12-23|2021-11-30|
+|7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|246|2021-12-15|2021-10-24|
 |8|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|196|2021-11-16|2021-03-19|
 |9|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|112|2021-11-07|2021-11-07|
 |10|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|83|2021-10-04|2021-10-04|
@@ -19,8 +19,8 @@
 |12|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|55|2021-12-01|2021-07-13|
 |13|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|53|2021-09-17|2021-06-06|
 |14|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|50|2021-10-17|2021-05-03|
-|15|[Apress/Test-Driven-Development-in-Swift](https://github.com/Apress/Test-Driven-Development-in-Swift)|Source code for the tutorials in the Test-Driven Development in Swift book|34|2021-07-08|2021-06-29|
-|16|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|33|2021-12-20|2021-09-29|
+|15|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|34|2021-12-20|2021-09-29|
+|16|[Apress/Test-Driven-Development-in-Swift](https://github.com/Apress/Test-Driven-Development-in-Swift)|Source code for the tutorials in the Test-Driven Development in Swift book|34|2021-07-08|2021-06-29|
 |17|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|33|2021-11-07|2021-09-22|
 |18|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|30|2021-08-02|2021-02-09|
 |19|[jrasmusson/datastructures-algorithms](https://github.com/jrasmusson/datastructures-algorithms)|A data structure and algorithm course for Swift developers|27|2021-06-04|2021-02-18|
@@ -29,7 +29,7 @@
 |22|[john-rocky/RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler)|a sample collection of basic functions of  Apple's AR framework for iOS.|26|2021-11-10|2021-06-21|
 |23|[maxxfrazer/RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)|A collection of additional geometries ready for use in RealityKit 2|25|2021-12-03|2021-06-11|
 |24|[steventroughtonsmith/CatalystAppleScript](https://github.com/steventroughtonsmith/CatalystAppleScript)|Demonstration of how to integrate AppleScript/Cocoa scripting into a Catalyst app|25|2021-06-05|2021-06-05|
-|25|[SwiftfulThinking/SwiftUI-Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp)|Full source code for the SwiftUI Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials and not a working ap ...|23|2021-12-11|2021-03-24|
+|25|[SwiftfulThinking/SwiftUI-Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp)|Full source code for the SwiftUI Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials and not a working ap ...|24|2021-12-11|2021-03-24|
 |26|[asahiocean/swift-algorithms](https://github.com/asahiocean/swift-algorithms)|Algorithms and data structures|23|2021-12-03|2021-03-16|
 |27|[muhammedtanriverdi/SwiftUI-Recipe-Book](https://github.com/muhammedtanriverdi/SwiftUI-Recipe-Book)|SwiftUI Recipe Book is a template app designed with SwiftUI.|23|2021-06-24|2021-02-11|
 |28|[SmithZachary/SwiftInterviewProblems](https://github.com/SmithZachary/SwiftInterviewProblems)|Swift Interview Problems in Playground|22|2021-12-03|2021-11-18|
@@ -39,7 +39,7 @@
 |32|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|16|2021-12-15|2021-10-07|
 |33|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|16|2021-12-21|2021-09-01|
 |34|[obrienser/memorize](https://github.com/obrienser/memorize)|Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)|16|2021-07-05|2021-06-28|
-|35|[surfstudio/SurfPlaybook](https://github.com/surfstudio/SurfPlaybook)|iOS framework for Playbook |16|2021-12-22|2021-04-13|
+|35|[surfstudio/SurfPlaybook](https://github.com/surfstudio/SurfPlaybook)|iOS framework for Playbook |16|2021-12-23|2021-04-13|
 |36|[vandadnp/swift-tips-and-tricks](https://github.com/vandadnp/swift-tips-and-tricks)|A Collection of Swift and SwiftUI Tips and Tricks|16|2021-09-02|2021-04-12|
 |37|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|15|2021-12-03|2021-06-28|
 |38|[Mindinventory/MI-CustomNotification](https://github.com/Mindinventory/MI-CustomNotification)|Push notifications allow developers to reach users, even when users aren't actively using an app! With the latest update of iOS Apple provide very useful extensions which are user-friendly. In this tu ...|15|2021-06-02|2021-05-31|

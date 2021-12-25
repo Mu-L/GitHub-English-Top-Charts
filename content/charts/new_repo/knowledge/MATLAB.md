@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -30,10 +30,10 @@
 |23|[matlab-deep-learning/pretrained-salsanext](https://github.com/matlab-deep-learning/pretrained-salsanext)|Semantic segmentation and transfer learning using pretrained SalsaNext model in MATLAB|8|2021-07-13|2021-07-13|
 |24|[vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection](https://github.com/vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection)|A collection of underwater image restoration and enhancements + saving result to get an overview on quality. These are gathered from a couple of researchers contributions.|8|2021-08-02|2021-04-12|
 |25|[jasondsc/MATDRAB2MATFAB](https://github.com/jasondsc/MATDRAB2MATFAB)|MATLAB and data science course, taking you from MATDRAB to MATFAB in 8 weeks! General course covering the basics of MATLAB, Signal processing, Statistics, and Machine Learning|8|2021-11-24|2021-03-02|
-|26|[robokamran/ControlSystems](https://github.com/robokamran/ControlSystems)|A pack of control system algorithms implemented in C to be used in embedded systems.|7|2021-12-18|2021-12-18|
-|27|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|2021-07-15|
-|28|[bsxfun/fdtd_tutorial_asa](https://github.com/bsxfun/fdtd_tutorial_asa)|Code for FDTD Tutorial, 180th ASA Meeting (Acoustics in Focus)|7|2021-07-22|2021-06-09|
-|29|[xyc19970716/Deep-Learning-PanSharpening](https://github.com/xyc19970716/Deep-Learning-PanSharpening)|This is a deep-learning based pan-sharpening code package, we reimplemented include PNN, MSDCNN, PanNet, TFNet, SRPPNN, and our purposed network DIPNet.|7|2021-07-21|2021-01-18|
+|26|[xyc19970716/Deep-Learning-PanSharpening](https://github.com/xyc19970716/Deep-Learning-PanSharpening)|This is a deep-learning based pan-sharpening code package, we reimplemented include PNN, MSDCNN, PanNet, TFNet, SRPPNN, and our purposed network DIPNet.|8|2021-07-21|2021-01-18|
+|27|[robokamran/ControlSystems](https://github.com/robokamran/ControlSystems)|A pack of control system algorithms implemented in C to be used in embedded systems.|7|2021-12-18|2021-12-18|
+|28|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|2021-07-15|
+|29|[bsxfun/fdtd_tutorial_asa](https://github.com/bsxfun/fdtd_tutorial_asa)|Code for FDTD Tutorial, 180th ASA Meeting (Acoustics in Focus)|7|2021-07-22|2021-06-09|
 |30|[matlab-deep-learning/Classification-of-SARS-COVID-19-and-Other-Lung-Infections-from-Chest-X-Ray-Scan-Images-with-DenseNet](https://github.com/matlab-deep-learning/Classification-of-SARS-COVID-19-and-Other-Lung-Infections-from-Chest-X-Ray-Scan-Images-with-DenseNet)|This example shows how to train a deep neural network to classify SARS COVID-19 and other lung infections using chest X-ray (CXR) images.|6|2021-10-01|2021-10-01|
 |31|[gozelalmazovna/Adaptive-Beamforming-Using-Machine-Learning-in-Matlab](https://github.com/gozelalmazovna/Adaptive-Beamforming-Using-Machine-Learning-in-Matlab)|Adaptive Beamforming techniques can be enhanced using Machine Learning Algorithms. |6|2021-06-18|2021-06-18|
 |32|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|6|2021-06-12|2021-06-12|
@@ -55,7 +55,7 @@
 |48|[mathworks/getting-started-with-perception-for-students](https://github.com/mathworks/getting-started-with-perception-for-students)|This repository is to help students get started with the practical approaches while working with perception algorithms using MATLAB and Simulink.|4|2021-12-06|2021-06-24|
 |49|[girnyk/OptimalPrecodingMimo](https://github.com/girnyk/OptimalPrecodingMimo)|Matlab codes for the paper "Deep-Learning Based Linear Precoding for MIMO Channels with Finite-Alphabet Signaling" by Max Girnyk, Physical Communication, vol. 48, 101402, Oct. 2021.|4|2021-11-14|2021-06-17|
 |50|[ImranNust/ImageDehazingUsingDualTransmissionMaps](https://github.com/ImranNust/ImageDehazingUsingDualTransmissionMaps)|This repository contains the MATLAB implementation of our paper entitled "A Single Image Dehazing Technique Using the Dual Transmission Maps Strategy and Gradient-Domain Guided Image Filtering."|4|2021-06-25|2021-06-15|
-|51|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2021-11-23|2021-05-30|
+|51|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2021-12-24|2021-05-30|
 |52|[shakiliitju/Numerical-Analysis-Lab](https://github.com/shakiliitju/Numerical-Analysis-Lab)|This Repository is all about the popular Numerical Analysis Lab concepts and their variations Which can be helpful to Competitive Programming as well as Coding Interviews. I have try Numerical Analysi ...|4|2021-09-14|2021-05-25|
 |53|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|2021-05-10|
 |54|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|4|2021-11-11|2021-04-04|
@@ -65,7 +65,7 @@
 |58|[qnity/insurance_matlab](https://github.com/qnity/insurance_matlab)|Open-source algorithms for insurers written in Matlab|3|2021-12-18|2021-12-12|
 |59|[ivanalberico/Robot-Dynamics-ETH](https://github.com/ivanalberico/Robot-Dynamics-ETH)|Weekly MATLAB exercises of the course "Robot Dynamics", ETH Zürich (Fall 2020).|3|2021-11-04|2021-11-04|
 |60|[a280558071/SOCPR-and-Linear-Disrflow-based-DNP](https://github.com/a280558071/SOCPR-and-Linear-Disrflow-based-DNP)|Two examples for distribution network planning (DNP) method based on Second-Order cone programming (SOCP) relaxation and Linear Distflow are included here. The Objective is to minimize the investment  ...|3|2021-10-31|2021-10-21|
-|61|[BallisticLA/marla](https://github.com/BallisticLA/marla)|Matlab Algorithms for Randomized Linear Algebra|3|2021-12-23|2021-10-19|
+|61|[BallisticLA/marla](https://github.com/BallisticLA/marla)|Matlab Algorithms for Randomized Linear Algebra|3|2021-12-24|2021-10-19|
 |62|[FatemehGholamzadeh/gender-recognition-with-voice](https://github.com/FatemehGholamzadeh/gender-recognition-with-voice)|Recognizing the gender by extracting the power spectrum peak frequency - Signals and systems Course (Spring 2019)|3|2021-09-27|2021-09-27|
 |63|[juanpablordz/computational-cognitive-science](https://github.com/juanpablordz/computational-cognitive-science)|The home of MIT's 9.66 course (Fall 2021).|3|2021-10-22|2021-09-19|
 |64|[Srbiau99/ComputerScience](https://github.com/Srbiau99/ComputerScience)|Computer Science Document for learning|3|2021-09-16|2021-09-15|

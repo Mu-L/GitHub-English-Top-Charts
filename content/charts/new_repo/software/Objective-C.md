@@ -1,27 +1,27 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1231|2021-12-21|2021-01-31|
 |2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|470|2021-09-09|2021-09-03|
-|3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|426|2021-10-12|2021-09-23|
+|3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
 |4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|262|2021-09-25|2021-08-03|
 |5|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
-|6|[s4y/undot](https://github.com/s4y/undot)|-|203|2021-12-23|2021-12-20|
-|7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|165|2021-12-19|2021-03-06|
+|6|[s4y/undot](https://github.com/s4y/undot)|-|209|2021-12-23|2021-12-20|
+|7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|166|2021-12-19|2021-03-06|
 |8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|114|2021-07-08|2021-02-20|
-|9|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|110|2021-09-12|2021-02-02|
+|9|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|113|2021-09-12|2021-02-02|
 |10|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|104|2021-10-13|2021-02-08|
 |11|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
-|12|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|100|2021-12-22|2021-03-24|
+|12|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|101|2021-12-24|2021-03-24|
 |13|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|93|2021-06-23|2021-01-21|
 |14|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|80|2021-12-14|2021-12-06|
 |15|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |16|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2021-11-20|2021-11-20|
-|17|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|62|2021-12-20|2021-03-30|
+|17|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|63|2021-12-20|2021-03-30|
 |18|[minsOne/iOSApplicationTemplate](https://github.com/minsOne/iOSApplicationTemplate)|Tuist based iOS Application Project Template|57|2021-11-29|2021-05-10|
 |19|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
 |20|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|45|2021-12-01|2021-11-16|
@@ -56,55 +56,55 @@
 |49|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|18|2021-12-05|2021-03-12|
 |50|[warrenm/GLTFKit2](https://github.com/warrenm/GLTFKit2)|A glTF 2.0 asset loader and exporter for Objective-C and Swift.|18|2021-12-14|2021-01-29|
 |51|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|17|2021-12-17|2021-08-26|
-|52|[steventroughtonsmith/finder-patreon](https://github.com/steventroughtonsmith/finder-patreon)|WindowKit-based 'Files' app for iOS|16|2021-10-05|2021-10-05|
-|53|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|16|2021-10-04|2021-06-08|
-|54|[bitbank2/Print2BLE](https://github.com/bitbank2/Print2BLE)|MacOS app which allows drag and drop of images to BLE thermal printers|15|2021-10-17|2021-09-02|
-|55|[bryce-co/XcodeVimMap](https://github.com/bryce-co/XcodeVimMap)|-|15|2021-08-03|2021-08-03|
-|56|[WilsontheWolf/WebShade](https://github.com/WilsontheWolf/WebShade)|A tweak to make your websites dark!|15|2021-07-10|2021-03-17|
-|57|[Randy-420/aptFix](https://github.com/Randy-420/aptFix)|## aptFix  Fix those annoying apt / DPKG errors like 'dpkg locked' using one simple terminal command 'aptFix'|14|2021-12-12|2021-11-08|
-|58|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|14|2021-12-17|2021-08-31|
-|59|[udevsharold/nanofi](https://github.com/udevsharold/nanofi)|Make Apple Watch data transfer rate from iPhone go brrrrrrrr|14|2021-08-16|2021-08-06|
-|60|[DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient)|Unofficial iOS/macOS SDK for the Notion API.|14|2021-07-05|2021-05-15|
-|61|[objective-see/Mach-O](https://github.com/objective-see/Mach-O)|A (basic) Mach-O Library|14|2021-09-13|2021-02-01|
-|62|[traue/2021-2_sexta_manha](https://github.com/traue/2021-2_sexta_manha)|-|13|2021-12-10|2021-08-04|
-|63|[kylestew/UxniOS](https://github.com/kylestew/UxniOS)|A Uxnemu for iOS|13|2021-07-20|2021-07-14|
-|64|[Moawia94/CoffeeApp](https://github.com/Moawia94/CoffeeApp)|Flutter UI  Coffee App With Dark Mode |13|2021-07-07|2021-07-03|
-|65|[mrousavy/vision-camera-resize-plugin](https://github.com/mrousavy/vision-camera-resize-plugin)|A VisionCamera Frame Processor plugin for fast buffer resizing|13|2021-10-18|2021-06-07|
-|66|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|13|2021-12-13|2021-04-25|
-|67|[tillhainbach/SwiftUISparkleTestApp](https://github.com/tillhainbach/SwiftUISparkleTestApp)|Sample Project for using Sparkle and SwiftUI|13|2021-06-03|2021-03-03|
-|68|[Koze/GoogleMobileAds-SPM](https://github.com/Koze/GoogleMobileAds-SPM)|Unofficial Swift Package for Google Mobile Ads SDK|13|2021-11-19|2021-02-20|
-|69|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|13|2021-12-13|2021-01-17|
-|70|[c1d3rdev/PullOver-Pro](https://github.com/c1d3rdev/PullOver-Pro)|Multitasking Drawer tweak for jailbroken iOS devices|12|2021-11-18|2021-11-18|
-|71|[mbender74/ti.bottomsheetcontroller-ios](https://github.com/mbender74/ti.bottomsheetcontroller-ios)|-|12|2021-11-14|2021-09-27|
-|72|[TimOliver/TOBorderView](https://github.com/TimOliver/TOBorderView)|A flexible container view featuring a solid background with rounded corners.|12|2021-08-28|2021-08-24|
-|73|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|12|2021-08-01|2021-07-18|
-|74|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
-|75|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
-|76|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
-|77|[u0x01/bluedhook](https://github.com/u0x01/bluedhook)|blued enhanced tweak for iOS|11|2021-10-28|2021-10-20|
-|78|[steventroughtonsmith/RootFSProvider](https://github.com/steventroughtonsmith/RootFSProvider)|'Root' filesystem File Provider extension for iOS.|11|2021-10-05|2021-10-05|
-|79|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|11|2021-11-26|2021-05-22|
-|80|[dortania/Apple-Binaries-OCLP](https://github.com/dortania/Apple-Binaries-OCLP)|Repository for Apple Binaries used in OpenCore Legacy Patcher|11|2021-06-12|2021-03-28|
-|81|[MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation)|This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.|11|2021-07-29|2021-01-08|
-|82|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
-|83|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|10|2021-10-13|2021-10-13|
-|84|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-10-27|2021-10-04|
-|85|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|10|2021-11-15|2021-09-27|
-|86|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
-|87|[rsms/ortho-remote](https://github.com/rsms/ortho-remote)|Some code for playing with the Teenage Engineering Ortho Remote|10|2021-06-28|2021-06-27|
-|88|[fluttermapp/flutter-ui-design-amazon](https://github.com/fluttermapp/flutter-ui-design-amazon)|-|10|2021-06-24|2021-06-24|
-|89|[djs66256/NECollectionViewLayout](https://github.com/djs66256/NECollectionViewLayout)|-|10|2021-07-23|2021-06-15|
-|90|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|10|2021-09-30|2021-06-01|
-|91|[ren7995/Atria](https://github.com/ren7995/Atria)|A proper homescreen layout editor for iOS 14.|10|2021-11-27|2021-05-16|
-|92|[schneelittchen/Astolfo](https://github.com/schneelittchen/Astolfo)|Astolfo siri|10|2021-08-26|2021-04-25|
-|93|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|10|2021-12-02|2021-04-05|
-|94|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2021-10-09|2021-04-05|
-|95|[imVason/cordova-plugin-openwebview](https://github.com/imVason/cordova-plugin-openwebview)|Provide capability of open multiple webview|10|2021-07-08|2021-01-04|
-|96|[kritanta-ios-tweaks/lockdown](https://github.com/kritanta-ios-tweaks/lockdown)|iOS 14 checkra1n-jailbreak-targeted passcode interposition|9|2021-11-18|2021-11-18|
-|97|[rA9stuff/a9-checkm8-nonce-setter](https://github.com/rA9stuff/a9-checkm8-nonce-setter)|boots patched iBoot then sets apnonce on s8000/s8003|9|2021-10-08|2021-10-08|
-|98|[jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)|send your valuable codes here.|9|2021-11-12|2021-10-01|
-|99|[Cat1237/yaml-vfs](https://github.com/Cat1237/yaml-vfs)|A gem which can gen VFS YAML file.|9|2021-11-06|2021-09-01|
-|100|[jschiefner/advanced-brightness-slider-tweak](https://github.com/jschiefner/advanced-brightness-slider-tweak)|iOS Tweak that manipulates the brightness slider in the control center so the display brightness and the white point intensity can be modified|9|2021-12-22|2021-08-04|
+|52|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|16|2021-12-24|2021-11-28|
+|53|[steventroughtonsmith/finder-patreon](https://github.com/steventroughtonsmith/finder-patreon)|WindowKit-based 'Files' app for iOS|16|2021-10-05|2021-10-05|
+|54|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|16|2021-10-04|2021-06-08|
+|55|[bitbank2/Print2BLE](https://github.com/bitbank2/Print2BLE)|MacOS app which allows drag and drop of images to BLE thermal printers|15|2021-10-17|2021-09-02|
+|56|[bryce-co/XcodeVimMap](https://github.com/bryce-co/XcodeVimMap)|-|15|2021-08-03|2021-08-03|
+|57|[WilsontheWolf/WebShade](https://github.com/WilsontheWolf/WebShade)|A tweak to make your websites dark!|15|2021-07-10|2021-03-17|
+|58|[Randy-420/aptFix](https://github.com/Randy-420/aptFix)|## aptFix  Fix those annoying apt / DPKG errors like 'dpkg locked' using one simple terminal command 'aptFix'|14|2021-12-12|2021-11-08|
+|59|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|14|2021-12-17|2021-08-31|
+|60|[udevsharold/nanofi](https://github.com/udevsharold/nanofi)|Make Apple Watch data transfer rate from iPhone go brrrrrrrr|14|2021-08-16|2021-08-06|
+|61|[DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient)|Unofficial iOS/macOS SDK for the Notion API.|14|2021-07-05|2021-05-15|
+|62|[objective-see/Mach-O](https://github.com/objective-see/Mach-O)|A (basic) Mach-O Library|14|2021-09-13|2021-02-01|
+|63|[c1d3rdev/PullOver-Pro](https://github.com/c1d3rdev/PullOver-Pro)|Multitasking Drawer tweak for jailbroken iOS devices|13|2021-11-18|2021-11-18|
+|64|[traue/2021-2_sexta_manha](https://github.com/traue/2021-2_sexta_manha)|-|13|2021-12-10|2021-08-04|
+|65|[kylestew/UxniOS](https://github.com/kylestew/UxniOS)|A Uxnemu for iOS|13|2021-07-20|2021-07-14|
+|66|[Moawia94/CoffeeApp](https://github.com/Moawia94/CoffeeApp)|Flutter UI  Coffee App With Dark Mode |13|2021-07-07|2021-07-03|
+|67|[mrousavy/vision-camera-resize-plugin](https://github.com/mrousavy/vision-camera-resize-plugin)|A VisionCamera Frame Processor plugin for fast buffer resizing|13|2021-10-18|2021-06-07|
+|68|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|13|2021-12-13|2021-04-25|
+|69|[tillhainbach/SwiftUISparkleTestApp](https://github.com/tillhainbach/SwiftUISparkleTestApp)|Sample Project for using Sparkle and SwiftUI|13|2021-06-03|2021-03-03|
+|70|[Koze/GoogleMobileAds-SPM](https://github.com/Koze/GoogleMobileAds-SPM)|Unofficial Swift Package for Google Mobile Ads SDK|13|2021-11-19|2021-02-20|
+|71|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|13|2021-12-13|2021-01-17|
+|72|[mbender74/ti.bottomsheetcontroller-ios](https://github.com/mbender74/ti.bottomsheetcontroller-ios)|-|12|2021-11-14|2021-09-27|
+|73|[TimOliver/TOBorderView](https://github.com/TimOliver/TOBorderView)|A flexible container view featuring a solid background with rounded corners.|12|2021-08-28|2021-08-24|
+|74|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|12|2021-08-01|2021-07-18|
+|75|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
+|76|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
+|77|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
+|78|[u0x01/bluedhook](https://github.com/u0x01/bluedhook)|blued enhanced tweak for iOS|11|2021-10-28|2021-10-20|
+|79|[steventroughtonsmith/RootFSProvider](https://github.com/steventroughtonsmith/RootFSProvider)|'Root' filesystem File Provider extension for iOS.|11|2021-10-05|2021-10-05|
+|80|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|11|2021-11-26|2021-05-22|
+|81|[dortania/Apple-Binaries-OCLP](https://github.com/dortania/Apple-Binaries-OCLP)|Repository for Apple Binaries used in OpenCore Legacy Patcher|11|2021-06-12|2021-03-28|
+|82|[MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation)|This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.|11|2021-07-29|2021-01-08|
+|83|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
+|84|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|10|2021-10-13|2021-10-13|
+|85|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-10-27|2021-10-04|
+|86|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|10|2021-11-15|2021-09-27|
+|87|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
+|88|[rsms/ortho-remote](https://github.com/rsms/ortho-remote)|Some code for playing with the Teenage Engineering Ortho Remote|10|2021-06-28|2021-06-27|
+|89|[fluttermapp/flutter-ui-design-amazon](https://github.com/fluttermapp/flutter-ui-design-amazon)|-|10|2021-06-24|2021-06-24|
+|90|[djs66256/NECollectionViewLayout](https://github.com/djs66256/NECollectionViewLayout)|-|10|2021-07-23|2021-06-15|
+|91|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|10|2021-09-30|2021-06-01|
+|92|[ren7995/Atria](https://github.com/ren7995/Atria)|A proper homescreen layout editor for iOS 14.|10|2021-11-27|2021-05-16|
+|93|[schneelittchen/Astolfo](https://github.com/schneelittchen/Astolfo)|Astolfo siri|10|2021-08-26|2021-04-25|
+|94|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|10|2021-12-02|2021-04-05|
+|95|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2021-10-09|2021-04-05|
+|96|[imVason/cordova-plugin-openwebview](https://github.com/imVason/cordova-plugin-openwebview)|Provide capability of open multiple webview|10|2021-07-08|2021-01-04|
+|97|[kritanta-ios-tweaks/lockdown](https://github.com/kritanta-ios-tweaks/lockdown)|iOS 14 checkra1n-jailbreak-targeted passcode interposition|9|2021-11-18|2021-11-18|
+|98|[rA9stuff/a9-checkm8-nonce-setter](https://github.com/rA9stuff/a9-checkm8-nonce-setter)|boots patched iBoot then sets apnonce on s8000/s8003|9|2021-10-08|2021-10-08|
+|99|[jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)|send your valuable codes here.|9|2021-11-12|2021-10-01|
+|100|[Cat1237/yaml-vfs](https://github.com/Cat1237/yaml-vfs)|A gem which can gen VFS YAML file.|9|2021-11-06|2021-09-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
