@@ -1,16 +1,16 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1231|2021-12-21|2021-01-31|
+|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|2021-12-21|2021-01-31|
 |2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|470|2021-09-09|2021-09-03|
 |3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
 |4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|262|2021-09-25|2021-08-03|
 |5|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
-|6|[s4y/undot](https://github.com/s4y/undot)|-|209|2021-12-23|2021-12-20|
+|6|[s4y/undot](https://github.com/s4y/undot)|-|218|2021-12-23|2021-12-20|
 |7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|166|2021-12-19|2021-03-06|
 |8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|114|2021-07-08|2021-02-20|
 |9|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|113|2021-09-12|2021-02-02|
@@ -21,12 +21,12 @@
 |14|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|80|2021-12-14|2021-12-06|
 |15|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |16|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2021-11-20|2021-11-20|
-|17|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|63|2021-12-20|2021-03-30|
+|17|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|63|2021-12-24|2021-03-30|
 |18|[minsOne/iOSApplicationTemplate](https://github.com/minsOne/iOSApplicationTemplate)|Tuist based iOS Application Project Template|57|2021-11-29|2021-05-10|
-|19|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
-|20|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|45|2021-12-01|2021-11-16|
+|19|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|46|2021-12-01|2021-11-16|
+|20|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
 |21|[asaurusrex/Forblaze](https://github.com/asaurusrex/Forblaze)|Forblaze - A Python Mac Steganography Payload Generator|45|2021-10-11|2021-06-17|
-|22|[opa334/AltList](https://github.com/opa334/AltList)|A modern AppList alternative|44|2021-11-04|2021-05-18|
+|22|[opa334/AltList](https://github.com/opa334/AltList)|A modern AppList alternative|45|2021-11-04|2021-05-18|
 |23|[reddit/AlienBlue](https://github.com/reddit/AlienBlue)|Alien Blue iOS app - r/AlienBlue|43|2021-10-14|2021-10-04|
 |24|[FaceOnLive/Face-Liveness-Detection-SDK-iOS](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS)|Robust, Realtime, On-Device Face Liveness Detection (Face Anti Spoofing) For iOS|42|2021-11-25|2021-10-13|
 |25|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|41|2021-11-29|2021-03-08|
@@ -39,24 +39,24 @@
 |32|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|28|2021-06-29|2021-02-06|
 |33|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|27|2021-10-20|2021-01-13|
 |34|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
-|35|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-23|2021-01-10|
+|35|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-25|2021-01-10|
 |36|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
 |37|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|25|2021-08-16|2021-08-08|
 |38|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|25|2021-08-01|2021-05-24|
 |39|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|24|2021-06-28|2021-02-28|
-|40|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Log every incoming notification to view them again later|22|2021-12-01|2021-09-18|
-|41|[shepeliev/webrtc-kmp](https://github.com/shepeliev/webrtc-kmp)|WebRTC Kotlin Multiplatform SDK|21|2021-11-29|2021-01-14|
-|42|[durgiya/WormholyForObjectiveC](https://github.com/durgiya/WormholyForObjectiveC)|Network debugging made easy，This network debugging tool is developed based on the swift version of Wormholy.|20|2021-08-19|2021-08-18|
-|43|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|20|2021-10-29|2021-06-26|
-|44|[Naituw/MetalEDR-iOS](https://github.com/Naituw/MetalEDR-iOS)|Demo of using Metal to render EDR / HDR content on iOS platform|20|2021-06-13|2021-06-13|
-|45|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|19|2021-12-20|2021-12-15|
-|46|[s-u/macosvm](https://github.com/s-u/macosvm)|Tool for running macOS guest virtual machines in macOS 12 host or higher on M1 arm64 Macs|19|2021-11-21|2021-11-18|
-|47|[simonheys/wordclock](https://github.com/simonheys/wordclock)|An original digital art work for macOS, iOS and web|19|2021-09-17|2021-07-06|
-|48|[zhuowei/macOS-Virtualization-framework-tools](https://github.com/zhuowei/macOS-Virtualization-framework-tools)|Useless tools for exploring Virtualization.framework|18|2021-06-14|2021-06-13|
-|49|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|18|2021-12-05|2021-03-12|
-|50|[warrenm/GLTFKit2](https://github.com/warrenm/GLTFKit2)|A glTF 2.0 asset loader and exporter for Objective-C and Swift.|18|2021-12-14|2021-01-29|
-|51|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|17|2021-12-17|2021-08-26|
-|52|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|16|2021-12-24|2021-11-28|
+|40|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|22|2021-12-24|2021-11-28|
+|41|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Log every incoming notification to view them again later|22|2021-12-01|2021-09-18|
+|42|[shepeliev/webrtc-kmp](https://github.com/shepeliev/webrtc-kmp)|WebRTC Kotlin Multiplatform SDK|22|2021-11-29|2021-01-14|
+|43|[durgiya/WormholyForObjectiveC](https://github.com/durgiya/WormholyForObjectiveC)|Network debugging made easy，This network debugging tool is developed based on the swift version of Wormholy.|20|2021-08-19|2021-08-18|
+|44|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|20|2021-10-29|2021-06-26|
+|45|[Naituw/MetalEDR-iOS](https://github.com/Naituw/MetalEDR-iOS)|Demo of using Metal to render EDR / HDR content on iOS platform|20|2021-06-13|2021-06-13|
+|46|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|19|2021-12-20|2021-12-15|
+|47|[s-u/macosvm](https://github.com/s-u/macosvm)|Tool for running macOS guest virtual machines in macOS 12 host or higher on M1 arm64 Macs|19|2021-11-21|2021-11-18|
+|48|[simonheys/wordclock](https://github.com/simonheys/wordclock)|An original digital art work for macOS, iOS and web|19|2021-09-17|2021-07-06|
+|49|[zhuowei/macOS-Virtualization-framework-tools](https://github.com/zhuowei/macOS-Virtualization-framework-tools)|Useless tools for exploring Virtualization.framework|18|2021-06-14|2021-06-13|
+|50|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|18|2021-12-05|2021-03-12|
+|51|[warrenm/GLTFKit2](https://github.com/warrenm/GLTFKit2)|A glTF 2.0 asset loader and exporter for Objective-C and Swift.|18|2021-12-14|2021-01-29|
+|52|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|17|2021-12-17|2021-08-26|
 |53|[steventroughtonsmith/finder-patreon](https://github.com/steventroughtonsmith/finder-patreon)|WindowKit-based 'Files' app for iOS|16|2021-10-05|2021-10-05|
 |54|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|16|2021-10-04|2021-06-08|
 |55|[bitbank2/Print2BLE](https://github.com/bitbank2/Print2BLE)|MacOS app which allows drag and drop of images to BLE thermal printers|15|2021-10-17|2021-09-02|
@@ -75,13 +75,13 @@
 |68|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|13|2021-12-13|2021-04-25|
 |69|[tillhainbach/SwiftUISparkleTestApp](https://github.com/tillhainbach/SwiftUISparkleTestApp)|Sample Project for using Sparkle and SwiftUI|13|2021-06-03|2021-03-03|
 |70|[Koze/GoogleMobileAds-SPM](https://github.com/Koze/GoogleMobileAds-SPM)|Unofficial Swift Package for Google Mobile Ads SDK|13|2021-11-19|2021-02-20|
-|71|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|13|2021-12-13|2021-01-17|
-|72|[mbender74/ti.bottomsheetcontroller-ios](https://github.com/mbender74/ti.bottomsheetcontroller-ios)|-|12|2021-11-14|2021-09-27|
-|73|[TimOliver/TOBorderView](https://github.com/TimOliver/TOBorderView)|A flexible container view featuring a solid background with rounded corners.|12|2021-08-28|2021-08-24|
-|74|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|12|2021-08-01|2021-07-18|
-|75|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
-|76|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
-|77|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
+|71|[mbender74/ti.bottomsheetcontroller-ios](https://github.com/mbender74/ti.bottomsheetcontroller-ios)|-|12|2021-11-14|2021-09-27|
+|72|[TimOliver/TOBorderView](https://github.com/TimOliver/TOBorderView)|A flexible container view featuring a solid background with rounded corners.|12|2021-08-28|2021-08-24|
+|73|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|12|2021-08-01|2021-07-18|
+|74|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
+|75|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
+|76|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
+|77|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|12|2021-12-13|2021-01-17|
 |78|[u0x01/bluedhook](https://github.com/u0x01/bluedhook)|blued enhanced tweak for iOS|11|2021-10-28|2021-10-20|
 |79|[steventroughtonsmith/RootFSProvider](https://github.com/steventroughtonsmith/RootFSProvider)|'Root' filesystem File Provider extension for iOS.|11|2021-10-05|2021-10-05|
 |80|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|11|2021-11-26|2021-05-22|

@@ -1,26 +1,26 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Ruby
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28330|2021-12-08|
-|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20622|2021-12-10|
-|3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11598|2021-12-24|
-|4|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8962|2021-12-20|
-|5|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5970|2021-12-22|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28332|2021-12-08|
+|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20624|2021-12-10|
+|3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11600|2021-12-25|
+|4|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8963|2021-12-20|
+|5|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5971|2021-12-22|
 |6|[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)|A curated list of SVG. |4230|2021-12-13|
-|7|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|3909|2021-12-24|
+|7|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|3910|2021-12-25|
 |8|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3366|2021-09-21|
 |9|[hashie/hashie](https://github.com/hashie/hashie)|Hashie is a collection of classes and mixins that make Ruby hashes more powerful.|2790|2021-12-11|
 |10|[hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)|A collection of awesome Ruby Gems for Rails development.|2754|2021-10-03|
 |11|[kanwei/algorithms](https://github.com/kanwei/algorithms)|Ruby algorithms and data structures. C extensions|2553|2021-12-09|
 |12|[sharetribe/sharetribe](https://github.com/sharetribe/sharetribe)|Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. For a headless, API-first marketplace solution, check out Sharetribe Flex: https://www.share ...|2186|2021-12-22|
-|13|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2072|2021-11-12|
+|13|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2073|2021-11-12|
 |14|[ryanb/nifty-generators](https://github.com/ryanb/nifty-generators)|A collection of useful Rails generator scripts.|2000|2021-12-11|
-|15|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1807|2021-12-20|
-|16|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1603|2021-07-15|
+|15|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1808|2021-12-20|
+|16|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|2021-07-15|
 |17|[reenhanced/gitreflow](https://github.com/reenhanced/gitreflow)|Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.|1489|2021-11-05|
 |18|[elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)|Ansible playbook for Elasticsearch|1475|2021-12-20|
 |19|[snibox/snibox](https://github.com/snibox/snibox)|Self-hosted snippet manager|1345|2021-12-19|
@@ -30,7 +30,7 @@
 |23|[simi/omniauth-facebook](https://github.com/simi/omniauth-facebook)|Facebook OAuth2 Strategy for OmniAuth|1252|2021-11-10|
 |24|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1242|2021-12-16|
 |25|[ErwinM/acts_as_tenant](https://github.com/ErwinM/acts_as_tenant)|Easy multi-tenancy for Rails in a shared database setup.|1152|2021-12-20|
-|26|[erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004)|Floating Point Math Examples|1123|2021-12-09|
+|26|[erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004)|Floating Point Math Examples|1124|2021-12-09|
 |27|[berkshelf/berkshelf](https://github.com/berkshelf/berkshelf)|A Chef Cookbook manager|1089|2021-12-02|
 |28|[eliotsykes/real-world-rails](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from|1084|2021-10-07|
 |29|[librariesio/libraries.io](https://github.com/librariesio/libraries.io)|:books: The Open Source Discovery Service|952|2021-12-22|
@@ -73,13 +73,13 @@
 |66|[cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls)|A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:|428|2021-09-27|
 |67|[sous-chefs/jenkins](https://github.com/sous-chefs/jenkins)|Development repository for the jenkins cookbook|419|2021-09-13|
 |68|[dev-sec/chef-os-hardening](https://github.com/dev-sec/chef-os-hardening)|This chef cookbook provides numerous security-related configurations, providing all-round base protection.|404|2021-06-21|
-|69|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|399|2021-12-16|
+|69|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|400|2021-12-16|
 |70|[softcover/softcover](https://github.com/softcover/softcover)|CLI for book generation, building, and publishing to softcover.io|396|2021-09-28|
 |71|[davydovanton/awesome-hanami](https://github.com/davydovanton/awesome-hanami)|A collection of awesome Hanami Gems and projects|391|2021-09-18|
 |72|[railstutorial/sample_app_2nd_ed](https://github.com/railstutorial/sample_app_2nd_ed)|The Rails Tutorial Sample App, 2nd Edition|390|2021-09-27|
 |73|[ankane/torch.rb](https://github.com/ankane/torch.rb)|Deep learning for Ruby, powered by LibTorch|386|2021-12-17|
 |74|[RailsApps/learn-rails](https://github.com/RailsApps/learn-rails)|An example Rails 5.1 app to accompany the "Learn Ruby on Rails" book.|382|2021-12-07|
-|75|[cryptopunksnotdead/programming-cryptopunks](https://github.com/cryptopunksnotdead/programming-cryptopunks)|Crypto Collectibles Book(let) Series. Programming CryptoPunks & Copypastas Step-by-Step Book / Guide. Inside Unique Pixel Art on the Blockchain...|373|2021-12-05|
+|75|[cryptopunksnotdead/programming-cryptopunks](https://github.com/cryptopunksnotdead/programming-cryptopunks)|Crypto Collectibles Book(let) Series. Programming CryptoPunks & Copypastas Step-by-Step Book / Guide. Inside Unique Pixel Art on the Blockchain...|374|2021-12-05|
 |76|[sous-chefs/java](https://github.com/sous-chefs/java)|Development repository for the java cookbook|373|2021-12-06|
 |77|[flink-china/flink-china-doc](https://github.com/flink-china/flink-china-doc)|Flink 官方文档中文翻译项目 :cn:|370|2021-07-12|
 |78|[binaryberry/seal](https://github.com/binaryberry/seal)|This is a Slack bot that publishes a team's pull requests to their Slack Channel, once provided the organisation name, the team members' github names, and a list of repos to follow. It is my first 20% ...|365|2021-07-12|
@@ -92,7 +92,7 @@
 |85|[fastlane-community/fastlane-plugin-appicon](https://github.com/fastlane-community/fastlane-plugin-appicon)|Generate required icon sizes and iconset from a master application icon.|318|2021-09-17|
 |86|[mischa78/boxroom](https://github.com/mischa78/boxroom)|Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage  ...|318|2021-11-04|
 |87|[codelitt/launchpage-rails](https://github.com/codelitt/launchpage-rails)|Prelaunch MVP landing page (open source alternative to LaunchRock) to get you going quickly so you can focus on your product. Written in Ruby and Rails 4.2 with email collection for two or more user t ...|317|2021-09-27|
-|88|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|313|2021-12-21|
+|88|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|313|2021-12-24|
 |89|[ankane/tensorflow-ruby](https://github.com/ankane/tensorflow-ruby)|Deep learning for Ruby|312|2021-10-30|
 |90|[madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails)|Learn best practices to build an API using Ruby on Rails 5/6|310|2021-12-02|
 |91|[gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training)|Materials for learning how to use infrastructure-as-code|308|2021-11-18|

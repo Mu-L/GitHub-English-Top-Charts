@@ -1,21 +1,21 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|558|2021-11-11|2021-10-23|
-|2|[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)|A growing collection of text/image cards you can use/copy-paste in your tailwind css projects|332|2021-06-19|2021-03-11|
-|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|302|2021-08-30|2021-02-07|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|563|2021-11-11|2021-10-23|
+|2|[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)|A growing collection of text/image cards you can use/copy-paste in your tailwind css projects|333|2021-06-19|2021-03-11|
+|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|303|2021-08-30|2021-02-07|
 |4|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|210|2021-10-13|2021-01-27|
 |5|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
-|6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|141|2021-11-22|2021-04-19|
+|6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|142|2021-11-22|2021-04-19|
 |7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|85|2021-12-04|2021-09-17|
 |8|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|81|2021-07-26|2021-01-09|
 |9|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|69|2021-12-22|2021-06-15|
 |10|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
-|11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|54|2021-08-19|2021-08-16|
+|11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
 |12|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|44|2021-07-14|2021-07-13|
 |13|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
 |14|[tinywinddev/tinywind](https://github.com/tinywinddev/tinywind)|A small collection of free Tailwind components.|36|2021-07-09|2021-06-21|
@@ -23,32 +23,32 @@
 |16|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|35|2021-11-24|2021-01-26|
 |17|[liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)|The rendered book can be found at https://liulab-dfci.github.io/bioinfo-combio/|35|2021-07-01|2021-01-14|
 |18|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|34|2021-12-24|2021-09-19|
-|19|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|31|2021-12-22|2021-08-20|
-|20|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|31|2021-11-28|2021-06-24|
+|19|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|32|2021-12-22|2021-08-20|
+|20|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|32|2021-11-28|2021-06-24|
 |21|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
 |22|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
 |23|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
-|24|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2021-12-18|2021-01-22|
-|25|[ParthKalkar/RusLearn](https://github.com/ParthKalkar/RusLearn)|Russian language Learning app|27|2021-10-10|2021-08-25|
-|26|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|27|2021-12-11|2021-06-23|
-|27|[chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets)|A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄|27|2021-07-06|2021-04-16|
+|24|[chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets)|A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄|28|2021-07-06|2021-04-16|
+|25|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2021-12-18|2021-01-22|
+|26|[ParthKalkar/RusLearn](https://github.com/ParthKalkar/RusLearn)|Russian language Learning app|27|2021-10-10|2021-08-25|
+|27|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|27|2021-12-11|2021-06-23|
 |28|[ashutoshkrris/EazyLoader](https://github.com/ashutoshkrris/EazyLoader)|EazyLoader is Flask based web-application built to make downloading easy for you. Download videos and pictures from YouTube and Instagram in the best available quality. You can also download slides fr ...|26|2021-12-18|2021-10-04|
 |29|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|30|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|23|2021-10-28|2021-10-21|
-|31|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|23|2021-09-16|2021-02-27|
+|30|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|2021-02-27|
+|31|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|23|2021-10-28|2021-10-21|
 |32|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|22|2021-11-03|2021-08-18|
 |33|[oracle/microservices-datadriven](https://github.com/oracle/microservices-datadriven)|Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services|22|2021-12-23|2021-03-12|
 |34|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|22|2021-12-09|2021-01-16|
 |35|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
 |36|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2021-12-20|2021-09-03|
-|37|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
-|38|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
-|39|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|19|2021-08-10|2021-04-15|
+|37|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|20|2021-08-10|2021-04-15|
+|38|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
+|39|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
 |40|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|18|2021-12-15|2021-10-08|
 |41|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|17|2021-12-16|2021-12-16|
 |42|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|16|2021-10-02|2021-10-01|
 |43|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|44|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2021-12-24|2021-06-16|
+|44|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2021-12-25|2021-06-16|
 |45|[vueschool/vuejs-3-fundamentals](https://github.com/vueschool/vuejs-3-fundamentals)|🗂  Source code for the Vue.js 3 Fundamentals course|16|2021-06-19|2021-03-23|
 |46|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
 |47|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
@@ -70,14 +70,14 @@
 |63|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|9|2021-10-13|2021-01-20|
 |64|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|9|2021-12-19|2021-01-20|
 |65|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
-|66|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
-|67|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|8|2021-08-10|2021-07-18|
-|68|[KhasanMeliev/freshbooks](https://github.com/KhasanMeliev/freshbooks)|Freshbooks|8|2021-06-17|2021-05-27|
-|69|[Restless-DevTools/Restless-Frontend](https://github.com/Restless-DevTools/Restless-Frontend)|Frontend app for Restless. A platform that aims to help developers in their daily lives. It is possible to manage, store, execute and share HTTP and HTTPs requests. It is also possible to create teams ...|8|2021-07-03|2021-03-11|
-|70|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|8|2021-06-19|2021-02-04|
-|71|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|72|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
-|73|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|7|2021-10-22|2021-08-31|
+|66|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|8|2021-10-22|2021-08-31|
+|67|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
+|68|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|8|2021-08-10|2021-07-18|
+|69|[KhasanMeliev/freshbooks](https://github.com/KhasanMeliev/freshbooks)|Freshbooks|8|2021-06-17|2021-05-27|
+|70|[Restless-DevTools/Restless-Frontend](https://github.com/Restless-DevTools/Restless-Frontend)|Frontend app for Restless. A platform that aims to help developers in their daily lives. It is possible to manage, store, execute and share HTTP and HTTPs requests. It is also possible to create teams ...|8|2021-07-03|2021-03-11|
+|71|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|8|2021-06-19|2021-02-04|
+|72|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
+|73|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
 |74|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|7|2021-12-04|2021-08-21|
 |75|[owl4ce/spicetify-themes](https://github.com/owl4ce/spicetify-themes)|:art: A community-driven collection of themes for customizing Spotify through Spicetify. Legacy -> https://github.com/owl4ce/spicetify-themes-legacy|7|2021-07-25|2021-07-25|
 |76|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|7|2021-12-09|2021-07-22|

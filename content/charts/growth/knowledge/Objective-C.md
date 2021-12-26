@@ -1,13 +1,13 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4636|6|2021-12-07|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4637|6|2021-12-07|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5659|2|2021-08-30|
-|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6911|2|2021-12-20|
+|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6911|2|2021-12-25|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2089|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
 |6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2843|1|2021-09-21|
@@ -15,7 +15,7 @@
 |8|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3295|1|2021-12-04|
 |9|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2421|1|2021-07-05|
 |10|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|1|2021-11-30|
-|11|[John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !|4573|1|2021-11-26|
+|11|[John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !|4572|1|2021-11-26|
 |12|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|437|1|2021-10-27|
 |13|[dataJAR/Jamf-Switcher](https://github.com/dataJAR/Jamf-Switcher)|Jamf Switcher is an app which points either Jamf Pro applications or your browser to a particular Jamf deployment and is configured by Self Service Bookmarks|9|0|2021-10-23|
 |14|[azamlerc/interviews](https://github.com/azamlerc/interviews)|Fun interview questions in various languages|2|0|2021-08-12|
@@ -79,7 +79,7 @@
 |72|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2021-09-21|
 |73|[OneNoteDev/OneNotePicker-iOS](https://github.com/OneNoteDev/OneNotePicker-iOS)|iOS Library to allow a user to select a OneNote section in any notebook by Microsoft Open Technologies, Inc.|7|0|2021-07-15|
 |74|[Wacom-Developer/wacom-device-kit-macos-scribble-demo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)|ScribbleDemo is a very simple drawing application. This sample code is meant to demonstrate how to retrieve all of the Tablet information using the Appkit framework (Cocoa API).|3|0|2021-10-15|
-|75|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|83|0|2021-11-27|
+|75|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|0|2021-11-27|
 |76|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|433|0|2021-12-24|
 |77|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
 |78|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
@@ -91,13 +91,13 @@
 |84|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|0|2021-10-29|
 |85|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2021-12-20|
 |86|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
-|87|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|56|0|2021-09-01|
+|87|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|57|0|2021-09-01|
 |88|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
 |89|[Miirek/Objective-Topology-Suite](https://github.com/Miirek/Objective-Topology-Suite)|Objective Topology Suite (OTS) is an Objective-C adaptation of Java Topology Suite (JTS) and GEOS library that primarily targeted for iPhone platform, but should work as well for Mac OSX. This library ...|4|0|2021-12-04|
 |90|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|0|2021-11-01|
 |91|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
 |92|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-10|
-|93|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2021-12-24|
+|93|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2021-12-25|
 |94|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|321|0|2021-09-21|
 |95|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
 |96|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|

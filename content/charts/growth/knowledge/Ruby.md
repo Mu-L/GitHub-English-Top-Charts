@@ -1,18 +1,18 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Ruby
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28330|10|2021-12-08|
-|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20622|9|2021-12-10|
-|3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11598|3|2021-12-24|
-|4|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5970|3|2021-12-22|
-|5|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8962|3|2021-12-20|
-|6|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2072|2|2021-11-12|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28332|10|2021-12-08|
+|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20624|9|2021-12-10|
+|3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11600|3|2021-12-25|
+|4|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5971|3|2021-12-22|
+|5|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8963|3|2021-12-20|
+|6|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2073|2|2021-11-12|
 |7|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|46|2|2021-12-03|
-|8|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1807|2|2021-12-20|
+|8|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1808|2|2021-12-20|
 |9|[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)|A curated list of SVG. |4230|2|2021-12-13|
 |10|[fastlane/examples](https://github.com/fastlane/examples)|📝 A collection of example fastlane setups|1337|1|2021-11-16|
 |11|[sharetribe/sharetribe](https://github.com/sharetribe/sharetribe)|Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. For a headless, API-first marketplace solution, check out Sharetribe Flex: https://www.share ...|2186|1|2021-12-22|
@@ -21,7 +21,7 @@
 |14|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|145|1|2021-11-03|
 |15|[hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)|A collection of awesome Ruby Gems for Rails development.|2754|1|2021-10-03|
 |16|[evilmartians/terraforming-rails](https://github.com/evilmartians/terraforming-rails)|Terraforming legacy Rails applications guides and tools|596|1|2021-12-17|
-|17|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1603|1|2021-07-15|
+|17|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|1|2021-07-15|
 |18|[tradingview/charting-library-examples](https://github.com/tradingview/charting-library-examples)|Examples of Charting Library integrations with other libraries, frameworks and data transports|794|1|2021-11-20|
 |19|[phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub)|A list of all the companies WFH or events changed because of covid-19|480|1|2021-09-28|
 |20|[pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst)|A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio ...|553|1|2021-12-24|
@@ -31,7 +31,7 @@
 |24|[snibox/snibox](https://github.com/snibox/snibox)|Self-hosted snippet manager|1345|1|2021-12-19|
 |25|[elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)|Ansible playbook for Elasticsearch|1475|1|2021-12-20|
 |26|[pry0cc/cloud-ranges](https://github.com/pry0cc/cloud-ranges)|A list of cloud ranges from different providers.|438|1|2021-09-28|
-|27|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|3909|1|2021-12-24|
+|27|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|3910|1|2021-12-25|
 |28|[orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space)|🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index|1344|1|2021-12-12|
 |29|[damphyr/gaudi](https://github.com/damphyr/gaudi)|Sane build system conventions, a collection of helpers and an opinionated implementation of a C/C++ build system on top of rake|10|0|2021-11-08|
 |30|[renuo/applications-setup-guide](https://github.com/renuo/applications-setup-guide)|Renuo Applications Setup Guide|10|0|2021-12-09|
@@ -41,7 +41,7 @@
 |34|[CHTJonas/roombooking](https://github.com/CHTJonas/roombooking)|The ADC Theatre's room booking system|8|0|2021-12-09|
 |35|[discourse/discourse-prometheus](https://github.com/discourse/discourse-prometheus)|Official Discourse Plugin for Prometheus Monitoring|13|0|2021-12-23|
 |36|[sous-chefs/tftp](https://github.com/sous-chefs/tftp)|Development repository for the tftp cookbook|12|0|2021-08-31|
-|37|[minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|70|0|2021-12-24|
+|37|[minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|70|0|2021-12-25|
 |38|[softcover/softcover](https://github.com/softcover/softcover)|CLI for book generation, building, and publishing to softcover.io|396|0|2021-09-28|
 |39|[eucalyptus/eucalyptus-cookbook](https://github.com/eucalyptus/eucalyptus-cookbook)|Chef cookbook for deploying Eucalyptus|23|0|2021-06-07|
 |40|[eliotsykes/real-world-rails](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from|1084|0|2021-10-07|
@@ -49,7 +49,7 @@
 |42|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|0|2021-07-27|
 |43|[sous-chefs/selinux_policy](https://github.com/sous-chefs/selinux_policy)|Development repository for the selinux_policy cookbook|17|0|2021-10-24|
 |44|[schoefmann/multi_db](https://github.com/schoefmann/multi_db)|Connection proxy for ActiveRecord for single master / multiple slave database deployments|143|0|2021-06-07|
-|45|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|399|0|2021-12-16|
+|45|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|400|0|2021-12-16|
 |46|[awinabi/sinatra-graphql](https://github.com/awinabi/sinatra-graphql)|Step by step tutorial to write a graphql server in sinatra (ruby)|31|0|2021-10-12|
 |47|[expertiza/expertiza](https://github.com/expertiza/expertiza)|Expertiza is a web application through which students can submit and peer-review learning objects (articles, code, web sites, etc).  The Expertiza project is supported by the National Science Foundati ...|161|0|2021-12-24|
 |48|[paviliondev/discourse-custom-wizard](https://github.com/paviliondev/discourse-custom-wizard)|A Discourse Plugin that allows you to create custom user wizards.|35|0|2021-12-22|

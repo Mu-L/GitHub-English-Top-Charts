@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|499|2021-10-09|
 |4|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|477|2021-10-04|
 |5|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|357|2021-10-09|
-|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|337|2021-11-11|
+|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|338|2021-11-11|
 |7|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|336|2021-06-16|
 |8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|257|2021-10-21|
 |9|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|252|2021-12-16|
@@ -26,8 +26,8 @@
 |19|[AaltoML/SDE](https://github.com/AaltoML/SDE)|Example codes for the book Applied Stochastic Differential Equations|94|2021-07-14|
 |20|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|2021-11-14|
 |21|[kunhe/FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)|Code for CVPR 2019 paper "Deep Metric Learning to Rank"|88|2021-09-21|
-|22|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|2021-12-14|
-|23|[nickabattista/IB2d](https://github.com/nickabattista/IB2d)|An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advecti ...|84|2021-11-02|
+|22|[nickabattista/IB2d](https://github.com/nickabattista/IB2d)|An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advecti ...|87|2021-11-02|
+|23|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|2021-12-14|
 |24|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|81|2021-09-23|
 |25|[pillowlab/GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)|Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data|77|2021-10-21|
 |26|[ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)|The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).|77|2021-11-02|
@@ -55,12 +55,12 @@
 |48|[AdrienTaylor/Performance-Estimation-Toolbox](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)|Code of the Performance Estimation Toolbox (PESTO) whose aim is to ease the access to the PEP methodology for performing worst-case analyses of first-order methods in convex and nonconvex optimization ...|32|2021-12-02|
 |49|[danfenghong/ISPRS_S2FL](https://github.com/danfenghong/ISPRS_S2FL)|Danfeng Hong, JIngliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model,   ...|31|2021-12-08|
 |50|[acuoci/Matlab4CRE](https://github.com/acuoci/Matlab4CRE)|Collection of Matlab codes to solve typical CRE (Chemical Reaction Engineering) problems|29|2021-12-17|
-|51|[fxgiraldo/Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)|This directory contains the Lecture files and Project codes in both Julia and Matlab for a course based on the Springer textbook "An Introduction to Element-based Galerkin Methods on Tensor-Product Ba ...|28|2021-10-01|
-|52|[vvrs/MPPIController](https://github.com/vvrs/MPPIController)|Robot Controls Course Project|28|2021-11-01|
-|53|[PeterRochford/SkillMetricsToolbox](https://github.com/PeterRochford/SkillMetricsToolbox)|This toolbox contains a collection of Matlab functions for calculating the skill of model predictions against observations. |28|2021-06-05|
-|54|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|27|2021-08-26|
-|55|[rssmith33/Active-Inference-Tutorial-Scripts](https://github.com/rssmith33/Active-Inference-Tutorial-Scripts)|Supplementary scripts for Step-by-step active inference modelling tutorial|27|2021-12-11|
-|56|[QiuJueqin/ISP-based-on-responses-prediction-model](https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model)|Study on Methodology and Technology of Digital Camera Image signal Processing Based on Raw Responses Prediction Model|27|2021-10-09|
+|51|[vvrs/MPPIController](https://github.com/vvrs/MPPIController)|Robot Controls Course Project|28|2021-11-01|
+|52|[PeterRochford/SkillMetricsToolbox](https://github.com/PeterRochford/SkillMetricsToolbox)|This toolbox contains a collection of Matlab functions for calculating the skill of model predictions against observations. |28|2021-06-05|
+|53|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|27|2021-08-26|
+|54|[rssmith33/Active-Inference-Tutorial-Scripts](https://github.com/rssmith33/Active-Inference-Tutorial-Scripts)|Supplementary scripts for Step-by-step active inference modelling tutorial|27|2021-12-11|
+|55|[QiuJueqin/ISP-based-on-responses-prediction-model](https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model)|Study on Methodology and Technology of Digital Camera Image signal Processing Based on Raw Responses Prediction Model|27|2021-10-09|
+|56|[fxgiraldo/Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)|This directory contains the Lecture files and Project codes in both Julia and Matlab for a course based on the Springer textbook "An Introduction to Element-based Galerkin Methods on Tensor-Product Ba ...|27|2021-10-01|
 |57|[lanl-ansi/tutorial-grid-science](https://github.com/lanl-ansi/tutorial-grid-science)|Julia Tutorial Materials for the Grid Science Tools|27|2021-06-06|
 |58|[suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics)|Dynamic movement primitives (DMPs) are a method of trajectory control/planning from Stefan Schaal’s lab.  Complex movements have long been thought to be composed of sets of primitive action ‘building  ...|27|2021-10-11|
 |59|[acuoci/CFDofReactiveFlows](https://github.com/acuoci/CFDofReactiveFlows)|Collection of codes in Matlab(R) and C++ for solving basic problems presented and discussed in the "Computational Fluid Dynamics of Reactive Flows" course (Politecnico di Milano)|27|2021-12-13|
@@ -102,9 +102,9 @@
 |95|[bakerjw/GMMs](https://github.com/bakerjw/GMMs)|A collection of ground motion model functions|15|2021-12-17|
 |96|[AngeloUNIMI/PalmSeg](https://github.com/AngeloUNIMI/PalmSeg)|Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers|15|2021-09-06|
 |97|[geekysuavo/variational-bayes-cs](https://github.com/geekysuavo/variational-bayes-cs)|Scalable sparse Bayesian learning for large CS recovery problems|15|2021-07-04|
-|98|[shahind/Nature-Inspired-Algorithms](https://github.com/shahind/Nature-Inspired-Algorithms)|Sample Code Collection of Nature-Inspired Computational Methods|14|2021-10-04|
-|99|[chenhui07c8/DOA-AOA-algorithms](https://github.com/chenhui07c8/DOA-AOA-algorithms)|Direction-of-Arrival Algorithms|14|2021-06-06|
-|100|[dianixn/Residual_CNN](https://github.com/dianixn/Residual_CNN)|Repeat the result of Deep Residual Learning Meets OFDM Channel Estimation using MATLAB, I think they did not release the code so I am not sure whats I did is hundred percent correct, so just have fun|12|2021-08-20|
+|98|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|14|2021-12-07|
+|99|[shahind/Nature-Inspired-Algorithms](https://github.com/shahind/Nature-Inspired-Algorithms)|Sample Code Collection of Nature-Inspired Computational Methods|14|2021-10-04|
+|100|[chenhui07c8/DOA-AOA-algorithms](https://github.com/chenhui07c8/DOA-AOA-algorithms)|Direction-of-Arrival Algorithms|14|2021-06-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

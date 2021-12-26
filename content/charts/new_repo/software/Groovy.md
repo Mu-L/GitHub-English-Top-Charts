@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,9 +12,9 @@
 |5|[adoptium/ci-jenkins-pipelines](https://github.com/adoptium/ci-jenkins-pipelines)|jenkins pipeline build scripts|9|2021-12-21|2021-02-04|
 |6|[aepfli/gradle-gitlab-repositories](https://github.com/aepfli/gradle-gitlab-repositories)|Handling Maven GitLab dependencies made easy. Define multiple tokens and selectively apply them to repositories, remove the need for repeating Credential handling blocks for different environments.|8|2021-10-21|2021-02-07|
 |7|[ithinkdancan/hubitat-meross](https://github.com/ithinkdancan/hubitat-meross)|Hubitat Drivers for Meross Smart Plugs|8|2021-12-11|2021-02-04|
-|8|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|6|2021-12-24|2021-09-30|
-|9|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-24|2021-03-12|
-|10|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|5|2021-12-17|2021-12-14|
+|8|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
+|9|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|6|2021-12-24|2021-09-30|
+|10|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-25|2021-03-12|
 |11|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|5|2021-11-09|2021-08-03|
 |12|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-20|2021-05-05|
 |13|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2021-12-20|2021-03-20|
@@ -36,7 +36,7 @@
 |29|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
 |30|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
 |31|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|3|2021-12-10|2021-01-23|
-|32|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-23|2021-12-02|
+|32|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
 |33|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
 |34|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
 |35|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2021-11-26|2021-11-13|

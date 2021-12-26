@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,15 +16,15 @@
 |9|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|79|2021-10-28|2021-02-23|
 |10|[joao99sb/OwnLinuxDistro](https://github.com/joao99sb/OwnLinuxDistro)|My Logbook through this sea of technology|78|2021-11-05|2021-09-24|
 |11|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|71|2021-12-08|2021-05-14|
-|12|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|68|2021-12-03|2021-03-30|
-|13|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|67|2021-12-08|2021-02-28|
+|12|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|68|2021-12-25|2021-03-30|
+|13|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|68|2021-12-08|2021-02-28|
 |14|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|65|2021-11-06|2021-07-25|
 |15|[p-lambda/jukemir](https://github.com/p-lambda/jukemir)|Perform transfer learning for MIR using Jukebox!|65|2021-07-14|2021-06-09|
 |16|[liusy58/WhyThis](https://github.com/liusy58/WhyThis)|we'll try to answer some questions during our study about computer systems.|62|2021-06-12|2021-03-27|
 |17|[antony-jr/lenovo-legion5-15arh05-scripts](https://github.com/antony-jr/lenovo-legion5-15arh05-scripts)|Simple scripts and guides to work around with issues on running linux in Lenovo Legion 5 15ARH05 version.|60|2021-11-13|2021-01-14|
 |18|[philippecrowdsec/iptables-nftables-multiroute-firewall](https://github.com/philippecrowdsec/iptables-nftables-multiroute-firewall)|A collection of nftables, multi routing scripts, port knocked, and iptables files. To get inspiration to make your own firewalls.|53|2021-10-02|2021-08-30|
 |19|[Aju100/VulWebaju](https://github.com/Aju100/VulWebaju)|VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes. |52|2021-12-02|2021-04-12|
-|20|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|50|2021-12-24|2021-09-06|
+|20|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|51|2021-12-25|2021-09-06|
 |21|[cosminmocan/vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough)|This repo is a tutorial for single amd gpu passthrough to various qemu VMs|47|2021-10-06|2021-01-17|
 |22|[mattmattox/Kubernetes-Master-Class](https://github.com/mattmattox/Kubernetes-Master-Class)|Kubernetes Master Class|46|2021-07-08|2021-05-03|
 |23|[RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses)|A list of publicly available room impulse response datasets and scripts to download them. |46|2021-08-31|2021-03-19|
@@ -38,8 +38,8 @@
 |31|[korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars)|Displays an interactive and searchable list of your GitHub starred repositories|33|2021-11-15|2021-08-25|
 |32|[ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS)|...Just a place for me to share my various YT-DLP & related bash scripts.|33|2021-11-19|2021-07-03|
 |33|[rust-lang/std-dev-guide](https://github.com/rust-lang/std-dev-guide)|Guide for standard library developers|33|2021-12-11|2021-01-23|
-|34|[paolosalvatori/aks-agic](https://github.com/paolosalvatori/aks-agic)|This sample shows how to deploy an AKS cluster with Application Gateway, Application Gateway Ingress Controller, Azure Container Registry, Log Analytics and Key Vault.|30|2021-12-13|2021-02-19|
-|35|[hack-different/apple-formats](https://github.com/hack-different/apple-formats)|A collection of reverse engineered Apple formats|29|2021-12-24|2021-12-06|
+|34|[hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge)|A collection of reverse engineered Apple formats|30|2021-12-25|2021-12-06|
+|35|[paolosalvatori/aks-agic](https://github.com/paolosalvatori/aks-agic)|This sample shows how to deploy an AKS cluster with Application Gateway, Application Gateway Ingress Controller, Azure Container Registry, Log Analytics and Key Vault.|30|2021-12-13|2021-02-19|
 |36|[recursion-ninja/CSCI-499-2021-Fall](https://github.com/recursion-ninja/CSCI-499-2021-Fall)|CSCI 499 — Advanced Applications: A Hunter Fall 2021 Course |29|2021-12-10|2021-07-23|
 |37|[slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets)|A collection of useful and nifty use cases and configurations for lf.|29|2021-12-18|2021-01-03|
 |38|[Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy)|CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBu ...|28|2021-12-20|2021-07-29|
@@ -49,7 +49,7 @@
 |42|[frankligy/Linux_HandBook_Bioinformatics](https://github.com/frankligy/Linux_HandBook_Bioinformatics)|A Linux Shell Handbook for Bioinformatician|26|2021-12-22|2021-02-07|
 |43|[lk-geimfari/macbook](https://github.com/lk-geimfari/macbook)|A script for quickly setting up a development environment on the new Macbook.|25|2021-12-24|2021-12-18|
 |44|[GuillaumeOz/Born2beroot](https://github.com/GuillaumeOz/Born2beroot)|This project aims to introduce you to the world of virtualization. You will learn how to use basic virtual machine tools to create a healthy and secure workspace.|25|2021-09-23|2021-07-22|
-|45|[bensuperpc/scripts](https://github.com/bensuperpc/scripts)|Collection of useful scripts for Linux (git, docker, LUKS, manjaro...)|25|2021-12-23|2021-05-27|
+|45|[bensuperpc/scripts](https://github.com/bensuperpc/scripts)|Collection of useful scripts for Linux (git, docker, LUKS, manjaro...)|25|2021-12-24|2021-05-27|
 |46|[dmuth/evernote-to-obsidian](https://github.com/dmuth/evernote-to-obsidian)|Wrapper for the Yarle app to make converting Evernote notebooks to Markdown easier|25|2021-10-29|2021-03-28|
 |47|[paolosalvatori/aks-multi-tenant-agic](https://github.com/paolosalvatori/aks-multi-tenant-agic)|This sample shows how to use the Application Gateway Ingress Controller in a multi-tenant AKS cluster to expose multiple instances of the same application, one for each tenant.|25|2021-11-02|2021-02-24|
 |48|[dehys/lib.sh](https://github.com/dehys/lib.sh)|My collection of script's to enhance workflow for software development.|25|2021-10-21|2021-02-14|
