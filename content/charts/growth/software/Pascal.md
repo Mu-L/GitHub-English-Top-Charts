@@ -1,22 +1,22 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Pascal
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|279|9|2021-12-23|
+|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|282|9|2021-12-23|
 |2|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|59|5|2021-12-15|
-|3|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9909|4|2021-12-16|
-|4|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6969|3|2021-12-18|
-|5|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1427|3|2021-12-22|
-|6|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|61|3|2021-12-24|
-|7|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2871|2|2021-12-25|
-|8|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|44|2|2021-12-21|
-|9|[crazzzypeter/BitmapPixels](https://github.com/crazzzypeter/BitmapPixels)|BitmapPixels.pas  - Lazarus module for direct access to pixels at TBitmap|10|1|2021-12-13|
-|10|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|1|2021-12-21|
-|11|[tinyBigGAMES/AllegroWin64](https://github.com/tinyBigGAMES/AllegroWin64)|Game Programming Library + Addons for Delphi|3|1|2021-12-22|
-|12|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1301|1|2021-11-25|
+|3|[Hendi48/Magicmida](https://github.com/Hendi48/Magicmida)|Themida unpacker|7|4|2021-12-25|
+|4|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9912|4|2021-12-16|
+|5|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6975|3|2021-12-18|
+|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1428|3|2021-12-22|
+|7|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|62|3|2021-12-26|
+|8|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2872|2|2021-12-26|
+|9|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|44|2|2021-12-21|
+|10|[crazzzypeter/BitmapPixels](https://github.com/crazzzypeter/BitmapPixels)|BitmapPixels.pas  - Lazarus module for direct access to pixels at TBitmap|10|1|2021-12-13|
+|11|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|1|2021-12-21|
+|12|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1302|1|2021-11-25|
 |13|[DarkCoderSc/win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon)|Crack any Microsoft Windows users password without any privilege (Guest account included)|711|1|2021-12-01|
 |14|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|487|1|2021-09-02|
 |15|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|144|1|2021-10-19|
@@ -24,11 +24,11 @@
 |17|[DosWorld/pasqoi](https://github.com/DosWorld/pasqoi)|A Pascal implementation of Quite OK Image Format|6|1|2021-12-23|
 |18|[MFernstrom/gitHuntr](https://github.com/MFernstrom/gitHuntr)|-|8|1|2021-12-18|
 |19|[william-pristia/wEnigma](https://github.com/william-pristia/wEnigma)|Enigma machine simulator written in Delphi|3|1|2021-12-24|
-|20|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|621|1|2021-12-16|
+|20|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|623|1|2021-12-16|
 |21|[seryal/wevido](https://github.com/seryal/wevido)|Example for Youtube video download.|3|1|2021-12-23|
 |22|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2496|1|2021-09-15|
 |23|[EvgeniyKorepov/Watchdog4DanilaMiner](https://github.com/EvgeniyKorepov/Watchdog4DanilaMiner)|Watchdog for Danila miner|17|1|2021-12-24|
-|24|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2614|1|2021-11-28|
+|24|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2616|1|2021-11-28|
 |25|[appercept/field-report-delphi](https://github.com/appercept/field-report-delphi)|Sample application demonstrating AWS SDK including S3, SNS, and SQS|3|0|2021-12-15|
 |26|[onyxadm/OtsFirebase](https://github.com/onyxadm/OtsFirebase)|Componente Delphi de Consumo do Google Firebase|12|0|2021-11-05|
 |27|[HemulGM/VLC](https://github.com/HemulGM/VLC)|VLC Actual Fork (Video LAN)|18|0|2021-12-14|
@@ -59,7 +59,7 @@
 |52|[geoffsmith82/DelphiIntuitAccess](https://github.com/geoffsmith82/DelphiIntuitAccess)|Demonstrate OAuth2 Authentication to Intuit online API|3|0|2021-08-05|
 |53|[cgarciagl/Delphi-FPS](https://github.com/cgarciagl/Delphi-FPS)|a First Person Shooter Demo-Game writen in Delphi|3|0|2021-08-06|
 |54|[OmgCopito95/Algoritmos-Basicos](https://github.com/OmgCopito95/Algoritmos-Basicos)|Códigos básicos de algunas materias de la Facultad de Informática UNLP (Programacion 2, CADP, Taller de Programacion)|6|0|2021-11-04|
-|55|[benibela/xidel](https://github.com/benibela/xidel)|Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu ...|426|0|2021-12-24|
+|55|[benibela/xidel](https://github.com/benibela/xidel)|Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu ...|426|0|2021-12-26|
 |56|[marat1961/wasm](https://github.com/marat1961/wasm)|A fast Pascal (Delphi) WebAssembly interpreter|23|0|2021-07-26|
 |57|[ew8bak/ewlog](https://github.com/ew8bak/ewlog)|Logging program for amateur radio operators|5|0|2021-12-13|
 |58|[UweRaabe/PngComponents](https://github.com/UweRaabe/PngComponents)|PngComponents for Delphi 2009 and higher|16|0|2021-10-10|
@@ -73,7 +73,7 @@
 |66|[genericptr/fpTOML](https://github.com/genericptr/fpTOML)|TOML parser for Free Pascal Compiler.|8|0|2021-09-16|
 |67|[TheLazyTomcat/lib.DynLibUtils](https://github.com/TheLazyTomcat/lib.DynLibUtils)|Small utility for dynamically loaded libraries (DLL, SO).|3|0|2021-12-08|
 |68|[parmaja/minictrls](https://github.com/parmaja/minictrls)|FPC/Lazarus Components and Controls|8|0|2021-12-19|
-|69|[Noso-Project/NosoWallet](https://github.com/Noso-Project/NosoWallet)|Wallet application for the Noso Coin project|12|0|2021-12-24|
+|69|[Noso-Project/NosoWallet](https://github.com/Noso-Project/NosoWallet)|Wallet application for the Noso Coin project|13|0|2021-12-24|
 |70|[t-edson/CreaTuCompilador](https://github.com/t-edson/CreaTuCompilador)|Código fuente del artículo "Crea tu propio compilador"|3|0|2021-11-03|
 |71|[jmsvaz/almagesto](https://github.com/jmsvaz/almagesto)|a free pascal astronomical library|6|0|2021-08-10|
 |72|[alanphys/BeamScheme](https://github.com/alanphys/BeamScheme)|Extract and analyse 1D profiles from 2D arrays and images|4|0|2021-10-26|
@@ -99,7 +99,7 @@
 |92|[RooiGevaar19/fpClock](https://github.com/RooiGevaar19/fpClock)|:uk: A stopwatch program designed for measuring a precise execution time of Unix/Windows processes. Built with FreePascal.|3|0|2021-12-15|
 |93|[accuratealx/SimpleGameEngine2](https://github.com/accuratealx/SimpleGameEngine2)|Simple 2D Game Engine|2|0|2021-11-28|
 |94|[GodModeUser/ImageQuality](https://github.com/GodModeUser/ImageQuality)|A library for objectively measuring image/video quality. |5|0|2021-10-25|
-|95|[joaopauloschuler/neural-api](https://github.com/joaopauloschuler/neural-api)|CAI NEURAL API - Pascal based neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.|123|0|2021-12-25|
+|95|[joaopauloschuler/neural-api](https://github.com/joaopauloschuler/neural-api)|CAI NEURAL API - Pascal based neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.|123|0|2021-12-26|
 |96|[LilyStilson/AErender-Launcher](https://github.com/LilyStilson/AErender-Launcher)|GUI for Adobe After Effects aerender console interface with various features|36|0|2021-11-03|
 |97|[henriquewerlang/REST4Delphi](https://github.com/henriquewerlang/REST4Delphi)|-|2|0|2021-11-24|
 |98|[Domush/Marlin-G-code-Postprocessor-for-Aspire-9-](https://github.com/Domush/Marlin-G-code-Postprocessor-for-Aspire-9-)|Turns your Aspire and v-carve sketches into gcode for Marlin 2.x CNC control boards. Both metric (mm) and impirial (inches) unit versions|3|0|2021-12-15|

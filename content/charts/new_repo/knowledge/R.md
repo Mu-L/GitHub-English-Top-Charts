@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|173|2021-09-10|2021-08-31|
+|1|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|174|2021-09-10|2021-08-31|
 |2|[z3tt/30DayChartChallenge_Collection2021](https://github.com/z3tt/30DayChartChallenge_Collection2021)|Collection of contributions to and resources for the first #30DayChartChallenge in April 2021|132|2021-06-01|2021-03-30|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|72|2021-12-20|2021-08-31|
 |4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|36|2021-12-22|2021-07-09|
@@ -19,8 +19,8 @@
 |12|[hadley/cocktails](https://github.com/hadley/cocktails)|Hadley's cocktail book|22|2021-09-22|2021-08-09|
 |13|[rstudio-education/advanced-shiny-az](https://github.com/rstudio-education/advanced-shiny-az)|Materials for the "Advanced Shiny" course for Astra Zeneca|20|2021-09-09|2021-09-06|
 |14|[juliasilge/deploytidymodels](https://github.com/juliasilge/deploytidymodels)|Version, share, and deploy tidymodels workflows|20|2021-11-16|2021-06-12|
-|15|[svmiller/steveproj](https://github.com/svmiller/steveproj)|An R package for getting academic projects/papers started.|20|2021-11-18|2021-03-09|
-|16|[Swarbricklab-code/BrCa_cell_atlas](https://github.com/Swarbricklab-code/BrCa_cell_atlas)|Data processing and analysis related code associated with the study "A single-cell and spatially resolved atlas of human breast cancers".|19|2021-12-20|2021-05-06|
+|15|[Swarbricklab-code/BrCa_cell_atlas](https://github.com/Swarbricklab-code/BrCa_cell_atlas)|Data processing and analysis related code associated with the study "A single-cell and spatially resolved atlas of human breast cancers".|20|2021-12-20|2021-05-06|
+|16|[svmiller/steveproj](https://github.com/svmiller/steveproj)|An R package for getting academic projects/papers started.|20|2021-11-18|2021-03-09|
 |17|[PlaypowerLabs/EdOptimize](https://github.com/PlaypowerLabs/EdOptimize)|EdOptimize is an open-source learning analytics platform for K-12 digital learning systems.|19|2021-06-05|2021-04-16|
 |18|[cderv/meetup-2021-rmd-business-report](https://github.com/cderv/meetup-2021-rmd-business-report)|Talk at R Entrprise Meetup about styling Rmd for following organization guidelines|18|2021-10-05|2021-10-04|
 |19|[dxsbiocc/learn](https://github.com/dxsbiocc/learn)|my learning journey|18|2021-12-06|2021-01-07|

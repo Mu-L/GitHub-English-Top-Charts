@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -19,7 +19,7 @@
 |12|[neurolabusc/Metal-Demos](https://github.com/neurolabusc/Metal-Demos)|Examples of Apple's Metal API using Lazarus and Ryan Joseph's lazmetalcontrol|26|0|2021-09-23|
 |13|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|0|2021-11-23|
 |14|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|29|0|2021-06-22|
-|15|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|0|2021-12-19|
+|15|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|0|2021-12-26|
 |16|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|170|0|2021-11-07|
 |17|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|0|2021-12-15|
 |18|[laciba96/Delphi-DLL-As-Cpl](https://github.com/laciba96/Delphi-DLL-As-Cpl)|Some examples about how to create CPL files to old systems with Delphi.|3|0|2021-10-24|
@@ -30,7 +30,7 @@
 |23|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|0|2021-07-04|
 |24|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|0|2021-12-12|
 |25|[beNative/Concepts](https://github.com/beNative/Concepts)|A collection of modules which demonstrate some programming concepts and Delphi libraries.|53|0|2021-06-24|
-|26|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|0|2021-10-12|
+|26|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|0|2021-12-26|
 |27|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|0|2021-11-14|
 |28|[xluffy/nginx_config_collection](https://github.com/xluffy/nginx_config_collection)|The collection of nginx configuration|5|0|2021-06-01|
 |29|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2021-11-21|
@@ -48,7 +48,7 @@
 |41|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|0|2021-09-16|
 |42|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|0|2021-12-07|
 |43|[rezgui/fpos](https://github.com/rezgui/fpos)|Free Pascal Operating System (FPOS) is a operating system consists of a minimal kernel built on FreePascal. It contains a Scheme implementation of a hard drive (ATA) driver, keyboard (PS2), serial (82 ...|34|0|2021-10-16|
-|44|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2021-12-19|
+|44|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2021-12-26|
 |45|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|
 |46|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2021-12-07|
 |47|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|0|2021-09-03|

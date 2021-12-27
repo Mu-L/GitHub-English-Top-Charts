@@ -1,26 +1,26 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6911|2021-12-25|
+|1|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6910|2021-12-25|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5659|2021-08-30|
-|3|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4637|2021-12-07|
+|3|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4642|2021-12-07|
 |4|[John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !|4572|2021-11-26|
-|5|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3295|2021-12-04|
+|5|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3294|2021-12-04|
 |6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2843|2021-09-21|
 |7|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|2021-12-16|
-|8|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2421|2021-07-05|
+|8|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2423|2021-07-05|
 |9|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2089|2021-11-22|
 |10|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|2021-11-30|
 |11|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1662|2021-11-02|
 |12|[codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus)|gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on dem ...|1577|2021-07-10|
-|13|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1183|2021-12-23|
+|13|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1184|2021-12-23|
 |14|[vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)|Acknowledgements screen displaying a list of licenses, for example from CocoaPods dependencies.|869|2021-06-23|
 |15|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|2021-10-01|
-|16|[wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils)|A collection of command-line utils for Apple simulators.|487|2021-07-20|
+|16|[wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils)|A collection of command-line utils for Apple simulators.|488|2021-07-20|
 |17|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|2021-12-03|
 |18|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|437|2021-10-27|
 |19|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|433|2021-12-24|
@@ -32,10 +32,10 @@
 |25|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|2021-10-23|
 |26|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|160|2021-11-29|
 |27|[sammyd/RW-iOSFramework](https://github.com/sammyd/RW-iOSFramework)|A project which demonstrates how to build an iOS framework|139|2021-07-12|
-|28|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|120|2021-10-19|
+|28|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|121|2021-10-19|
 |29|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|2021-10-29|
-|30|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|108|2021-08-06|
-|31|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|2021-12-25|
+|30|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|109|2021-08-06|
+|31|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|2021-12-26|
 |32|[tumblr/XExtensionItem](https://github.com/tumblr/XExtensionItem)|Easier sharing of structured data between iOS applications and share extensions|86|2021-06-11|
 |33|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|2021-11-27|
 |34|[baragona/Brightness](https://github.com/baragona/Brightness)|Sync macbook screen brightness to non-Apple external display.|83|2021-06-13|
@@ -45,8 +45,8 @@
 |38|[McDo/tipop](https://github.com/McDo/tipop)|titanium client for facebook pop|72|2021-09-13|
 |39|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|2021-12-20|
 |40|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|62|2021-07-12|
-|41|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|57|2021-09-01|
-|42|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|56|2021-12-16|
+|41|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|57|2021-12-16|
+|42|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|56|2021-09-01|
 |43|[bimsina/SortingAlgorithmsVisualizer](https://github.com/bimsina/SortingAlgorithmsVisualizer)|Sorting algorithms visualizer in Flutter.|54|2021-09-07|
 |44|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|52|2021-09-21|
 |45|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|51|2021-12-07|

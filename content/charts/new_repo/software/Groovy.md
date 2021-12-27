@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -66,7 +66,7 @@
 |59|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
 |60|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
 |61|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-15|2021-02-05|
+|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-26|2021-02-05|
 |63|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 |64|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 

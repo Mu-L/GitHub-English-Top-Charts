@@ -1,22 +1,22 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3931|2021-12-19|
+|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3930|2021-12-19|
 |2|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1596|2021-12-03|
-|3|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1059|2021-10-15|
-|4|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1058|2021-12-23|
+|3|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1061|2021-10-15|
+|4|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1059|2021-12-23|
 |5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|316|2021-12-20|
 |6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|295|2021-12-20|
 |7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |261|2021-12-23|
 |8|[OpenMP/Examples](https://github.com/OpenMP/Examples)|LaTeX Examples Document Source|163|2021-08-17|
-|9|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|114|2021-12-25|
+|9|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|114|2021-12-26|
 |10|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|109|2021-12-11|
 |11|[justintime/nagios-plugins](https://github.com/justintime/nagios-plugins)|Collection of some handy Nagios plugins|102|2021-06-23|
-|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|2021-12-25|
+|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|2021-12-26|
 |13|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|90|2021-11-04|
 |14|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|89|2021-12-08|
 |15|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|75|2021-12-25|
@@ -24,11 +24,11 @@
 |17|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|65|2021-12-09|
 |18|[andre-st/goodreads-toolbox](https://github.com/andre-st/goodreads-toolbox)|9 tools for Goodreads.com, for finding people based on the books they’ve read, finding books popular among the people you follow, following new book reviews, etc|57|2021-07-12|
 |19|[xen-tools/xen-tools](https://github.com/xen-tools/xen-tools)|xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.|50|2021-10-24|
-|20|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|46|2021-10-22|
+|20|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|47|2021-10-22|
 |21|[khorton/nas_fan_control](https://github.com/khorton/nas_fan_control)|collection of scripts to control fan speed on NAS boxes|42|2021-09-06|
 |22|[raspberrypi/utils](https://github.com/raspberrypi/utils)|A collection of scripts and simple applications|41|2021-10-21|
 |23|[diegok/resque-perl](https://github.com/diegok/resque-perl)|Perl port of the original Ruby library. It's intended to work using the same backend to share tasks and be able to manage the system using ruby's resque-server webapp. Resque is a Redis-backed library ...|41|2021-06-18|
-|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2021-12-24|
+|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2021-12-26|
 |25|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|36|2021-11-23|
 |26|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|35|2021-10-18|
 |27|[ebi-wp/webservice-clients](https://github.com/ebi-wp/webservice-clients)|A collection of Web Service Clients to consume EBI's tools via REST and SOAP APIs.|33|2021-10-22|
@@ -60,7 +60,7 @@
 |53|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|13|2021-11-19|
 |54|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2021-12-20|
 |55|[dlandon/zoneminder.master-docker](https://github.com/dlandon/zoneminder.master-docker)|Zoneminder Master Docker|12|2021-12-23|
-|56|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|11|2021-12-25|
+|56|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|11|2021-12-26|
 |57|[nselem/corason](https://github.com/nselem/corason)|Bioinformatic Tools for study Evolution of metabolic diversity|11|2021-09-01|
 |58|[project-renard/curie](https://github.com/project-renard/curie)|:mag_right::book: Document reader (currently in pre-alpha)|11|2021-11-28|
 |59|[PDLPorters/PDL-Stats](https://github.com/PDLPorters/PDL-Stats)|Statistics modules in Perl Data Language, with a quick-start guide for non-PDL people. They make the PDL shell work like R, but with PDL threading (fast automatic iteration) of procedures including t- ...|11|2021-11-20|

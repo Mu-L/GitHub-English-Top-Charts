@@ -1,21 +1,21 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9842|6|2021-08-02|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5406|3|2021-12-19|
-|3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4392|3|2021-09-07|
-|4|[SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future](https://github.com/SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future)|BILSTM, GMDH and Genetic COVID Forecasting Into Desired Steps of Future|3|3|2021-12-25|
-|5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|64|1|2021-12-01|
+|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9843|6|2021-08-02|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5409|3|2021-12-19|
+|3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4393|3|2021-09-07|
+|4|[SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future](https://github.com/SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future)|BILSTM, GMDH and Genetic COVID Forecasting Into Desired Steps of Future|3|2|2021-12-25|
+|5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|65|1|2021-12-01|
 |6|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|601|1|2021-11-18|
 |7|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1590|1|2021-06-30|
 |8|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
-|9|[chouj/SimpleEddyDetection](https://github.com/chouj/SimpleEddyDetection)|Simple Oceanic Mesoscale Eddy Detection based on sea level anomaly (sla)|3|1|2021-12-20|
-|10|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|291|1|2021-12-02|
-|11|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|247|1|2021-11-02|
+|9|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|291|1|2021-12-02|
+|10|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|247|1|2021-11-02|
+|11|[ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|-|3|1|2021-12-22|
 |12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|631|1|2021-10-24|
 |13|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
 |14|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|11|0|2021-11-02|
@@ -61,7 +61,7 @@
 |54|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2|11|0|2021-12-14|
 |55|[anahisaltocruz/Matlab](https://github.com/anahisaltocruz/Matlab)|Manejo básico de Matlab|3|0|2021-07-05|
 |56|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|3|0|2021-09-14|
-|57|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|59|0|2021-07-20|
+|57|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|60|0|2021-07-20|
 |58|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1167|0|2021-12-04|
 |59|[GCVGroup/ACSCNN](https://github.com/GCVGroup/ACSCNN)|pytorch implementation for  ACSCNN|5|0|2021-10-12|
 |60|[nsprljan/ImageCodingResearchTools](https://github.com/nsprljan/ImageCodingResearchTools)|-|42|0|2021-11-10|
@@ -94,7 +94,7 @@
 |87|[yetianmed/subcortex](https://github.com/yetianmed/subcortex)|-|55|0|2021-06-09|
 |88|[aa840/ModSeminario](https://github.com/aa840/ModSeminario)|Contains the modified Seminario method program along with set of example files.|2|0|2021-06-14|
 |89|[hankyang94/DAMP](https://github.com/hankyang94/DAMP)|DAMP: Dynamical Pose Estimation|5|0|2021-08-11|
-|90|[auralius/LuGre](https://github.com/auralius/LuGre)|A full reconstruction of the paper: A new model for control systems with friction (Canudas de Wit et al., 1995, IEEE Transactions on Automatic Control)|10|0|2021-07-25|
+|90|[auralius/LuGre](https://github.com/auralius/LuGre)|A full reconstruction of the paper: A new model for control systems with friction (Canudas de Wit et al., 1995, IEEE Transactions on Automatic Control)|11|0|2021-07-25|
 |91|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|2|0|2021-10-06|
 |92|[IntelligenceDatum/BEDN](https://github.com/IntelligenceDatum/BEDN)|-|3|0|2021-12-02|
 |93|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|2|0|2021-11-25|
