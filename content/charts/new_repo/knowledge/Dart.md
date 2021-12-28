@@ -1,17 +1,17 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2628|2021-12-26|2021-03-29|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|2021-12-20|2021-01-31|
-|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|188|2021-11-08|2021-02-05|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2636|2021-12-28|2021-03-29|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|2021-12-28|2021-01-31|
+|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|189|2021-11-08|2021-02-05|
 |4|[GetStream/flutter-samples](https://github.com/GetStream/flutter-samples)|A collection of sample apps that use Stream|175|2021-12-15|2021-02-01|
 |5|[dancamdev/UIs](https://github.com/dancamdev/UIs)|A collection of UIs built by Dancamdev in Flutter|165|2021-09-24|2021-01-13|
-|6|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|135|2021-10-24|2021-05-28|
-|7|[thlorenz/rid-examples](https://github.com/thlorenz/rid-examples)|Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.|135|2021-10-02|2021-05-12|
+|6|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|136|2021-10-24|2021-05-28|
+|7|[thlorenz/rid-examples](https://github.com/thlorenz/rid-examples)|Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.|136|2021-10-02|2021-05-12|
 |8|[antz22/ultimate-guide-to-flutter](https://github.com/antz22/ultimate-guide-to-flutter)|A comprehensive guide on learning how to code cross platform mobile applications with the Flutter framework, from the ground up.|128|2021-11-04|2021-08-03|
 |9|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|126|2021-10-21|2021-04-08|
 |10|[sbis04/flutterfire-samples](https://github.com/sbis04/flutterfire-samples)|Firebase + Flutter sample apps with code snippets, supported by comprehensive articles for each implementation.|99|2021-08-13|2021-03-04|
@@ -41,8 +41,8 @@
 |34|[EsraKantarci/mirasapp](https://github.com/EsraKantarci/mirasapp)|Flutter based UI for legal inheritance share calculator|24|2021-06-24|2021-05-02|
 |35|[faisalramdan17/car_rental_lite](https://github.com/faisalramdan17/car_rental_lite)|A platform for car sharing where users can book any car that suits their needs and wants for their intended journey, from the closest hosts in the community.|23|2021-10-05|2021-03-07|
 |36|[Wizpna/flutter_deepar](https://github.com/Wizpna/flutter_deepar)|A simple project demonstrating how to build a face filter app using Flutter and Deep AR|23|2021-07-11|2021-01-02|
-|37|[talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter)|Flutter guide + SDK. Check Community repository for common information.|22|2021-12-21|2021-08-12|
-|38|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|21|2021-09-20|2021-09-08|
+|37|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|22|2021-09-20|2021-09-08|
+|38|[talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter)|Flutter guide + SDK. Check Community repository for common information.|22|2021-12-21|2021-08-12|
 |39|[geekadpt/flutter_locyin](https://github.com/geekadpt/flutter_locyin)|A map tour guide mobile app based on Flutter, an AI travel notes product integrating map tour guide and UGC.|21|2021-10-29|2021-07-18|
 |40|[GhostWalker562/flutterbook](https://github.com/GhostWalker562/flutterbook)|📓 Storyboard your components with Flutterbook. Develop, document, & test any kind of Flutter component.|21|2021-12-21|2021-07-09|
 |41|[VB10/flutter_learn](https://github.com/VB10/flutter_learn)|Flutter Learn Series zero to end |21|2021-10-28|2021-03-20|
@@ -81,7 +81,7 @@
 |74|[shametha/Docoline](https://github.com/shametha/Docoline)|Docoline is a virtual Doctor appointment booking application, that has been developed to override the problems of booking an appointment with a doctor specially prevailing in the pandemic situation. T ...|9|2021-12-19|2021-08-17|
 |75|[SamarpanCoder2002/Generation-Chat-App-Tutorial](https://github.com/SamarpanCoder2002/Generation-Chat-App-Tutorial)|💘 This is my Youtube tutorial of my Social Media App Generation Made in Flutter 💘|9|2021-11-09|2021-07-27|
 |76|[mkobuolys/flutter-code-generation](https://github.com/mkobuolys/flutter-code-generation)|Examples of Flutter Code Generation.|9|2021-10-12|2021-07-17|
-|77|[qwertypool/flutter-code-snippets](https://github.com/qwertypool/flutter-code-snippets)|Flutter quick code snippets - Feel free to contribute.|9|2021-12-27|2021-05-03|
+|77|[qwertypool/flutter-code-snippets](https://github.com/qwertypool/flutter-code-snippets)|Flutter quick code snippets - Feel free to contribute.|9|2021-12-28|2021-05-03|
 |78|[Mhassanbughio/Dart-Email-Validator](https://github.com/Mhassanbughio/Dart-Email-Validator)|A simple (but correct) Dart class for validating email addresses without using RegEx. Can also be used to validate emails within Flutter apps (see Flutter email validation).  Installation  Dart requir ...|9|2021-07-24|2021-04-14|
 |79|[ArunBalajiR/Udemy-Free-Course-App](https://github.com/ArunBalajiR/Udemy-Free-Course-App)|Mobile app for enroll paid udemy courses using coupen codes|9|2021-09-27|2021-03-30|
 |80|[crizant/flutter_multiplication_table](https://github.com/crizant/flutter_multiplication_table)|This flutter project is created to demonstrate how to build a two direction scrolling data table.|9|2021-08-16|2021-02-09|
@@ -100,11 +100,11 @@
 |93|[PeterHdd/Flutter-tutorials](https://github.com/PeterHdd/Flutter-tutorials)|Repository containing source code for the tutorials made using with flutter|7|2021-10-22|2021-03-19|
 |94|[AlexMercedCoder/DartShelfPostgresTemplate](https://github.com/AlexMercedCoder/DartShelfPostgresTemplate)|Dart Web API Template Using Google Shelf Framework and Postgres Drivers, read readme to learn how to use|7|2021-10-10|2021-03-15|
 |95|[techwithsam/custom-icon-with-bottom-navigation-in-flutter](https://github.com/techwithsam/custom-icon-with-bottom-navigation-in-flutter)|New trick on how to create your own custom icons in flutter with bottom bar navigation|7|2021-09-26|2021-03-12|
-|96|[pr-Mais/flutterfire_gallery](https://github.com/pr-Mais/flutterfire_gallery)|A sample application that allows a user to upload and share images, made with Flutter, and Firebase.|6|2021-12-18|2021-12-15|
-|97|[flutter-devs/flutter_app_for_desktop](https://github.com/flutter-devs/flutter_app_for_desktop)|how to set up for run the application on desktop|6|2021-10-07|2021-10-07|
-|98|[Febin-T-Rajeev/Flutter_Facebook_UI_Clone](https://github.com/Febin-T-Rajeev/Flutter_Facebook_UI_Clone)|Facebook UI Clone using Flutter|6|2021-10-02|2021-10-02|
-|99|[md-weber/flashcard_project](https://github.com/md-weber/flashcard_project)|Flashcard App where you can learn different topics and create your own flashcards in Google Drive.|6|2021-12-13|2021-09-27|
-|100|[dastagir-ahmed/flutter-web-app](https://github.com/dastagir-ahmed/flutter-web-app)|flutter web app with given code and example. Step by step teaching how to build a flutter web app with backend|6|2021-07-14|2021-07-14|
+|96|[FlutterQueen/readable](https://github.com/FlutterQueen/readable)|collection of helpers and extensions for dart and flutter |6|2021-12-27|2021-12-20|
+|97|[pr-Mais/flutterfire_gallery](https://github.com/pr-Mais/flutterfire_gallery)|A sample application that allows a user to upload and share images, made with Flutter, and Firebase.|6|2021-12-18|2021-12-15|
+|98|[flutter-devs/flutter_app_for_desktop](https://github.com/flutter-devs/flutter_app_for_desktop)|how to set up for run the application on desktop|6|2021-10-07|2021-10-07|
+|99|[Febin-T-Rajeev/Flutter_Facebook_UI_Clone](https://github.com/Febin-T-Rajeev/Flutter_Facebook_UI_Clone)|Facebook UI Clone using Flutter|6|2021-10-02|2021-10-02|
+|100|[md-weber/flashcard_project](https://github.com/md-weber/flashcard_project)|Flashcard App where you can learn different topics and create your own flashcards in Google Drive.|6|2021-12-13|2021-09-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

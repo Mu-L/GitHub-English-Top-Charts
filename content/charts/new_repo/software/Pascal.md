@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|287|2021-12-23|2021-11-25|
+|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|291|2021-12-23|2021-11-25|
 |2|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|144|2021-10-19|2021-08-10|
 |3|[TextEditorPro/TTextEditor](https://github.com/TextEditorPro/TTextEditor)|Text editor control of Text Editor Pro and Firebird Editor Pro.|74|2021-12-27|2021-04-22|
 |4|[landgraf-dev/aws-sdk-delphi](https://github.com/landgraf-dev/aws-sdk-delphi)|AWS (Amazon Web Services) SDK for Delphi.|65|2021-10-19|2021-07-28|
@@ -15,7 +15,7 @@
 |8|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|59|2021-12-15|2021-12-15|
 |9|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|56|2021-12-25|2021-07-16|
 |10|[jackdp/Quick-Change-Resolution](https://github.com/jackdp/Quick-Change-Resolution)|QuickChangeResolution is a small utility that allows you to quickly change the display resolution.|55|2021-10-13|2021-03-19|
-|11|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|44|2021-12-21|2021-12-08|
+|11|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|44|2021-12-28|2021-12-08|
 |12|[maximmasiutin/argus](https://github.com/maximmasiutin/argus)|A FidoNet mail transfer agent for Win32 over dial-up and TCP/IP connections written using Delphi in 1996-2001.|39|2021-08-08|2021-08-08|
 |13|[lawrenceamer/TChopper](https://github.com/lawrenceamer/TChopper)|conduct lateral movement attack by leveraging unfiltered services display name to smuggle binaries as chunks into the target machine  |35|2021-06-14|2021-06-08|
 |14|[diversenok/Suspending-Techniques](https://github.com/diversenok/Suspending-Techniques)|Comparing, discussing, and bypassing various techniques for suspending and freezing processes on Windows.|33|2021-11-10|2021-04-25|
@@ -27,9 +27,9 @@
 |20|[radprogrammer/rad-authenticator](https://github.com/radprogrammer/rad-authenticator)|Time-Based One-Time Password (TOTP) projects in Delphi with Google Authenticator compatible PIN number generation|26|2021-11-01|2021-10-24|
 |21|[DelphiTeacher/OrangeUI](https://github.com/DelphiTeacher/OrangeUI)|-|25|2021-09-18|2021-05-03|
 |22|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|2021-12-21|2021-11-29|
-|23|[mirko-bianco/FidoLib](https://github.com/mirko-bianco/FidoLib)|A Delphi (2010+) library|24|2021-12-27|2021-09-26|
+|23|[mirko-bianco/FidoLib](https://github.com/mirko-bianco/FidoLib)|A Delphi (2010+) library|24|2021-12-28|2021-09-26|
 |24|[iLya2IK/wchttpserver](https://github.com/iLya2IK/wchttpserver)|HTTP/2+HTTP/1.1+WebSocket server written with Lazarus (Free Pascal)|24|2021-11-03|2021-01-09|
-|25|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|23|2021-12-27|2021-08-09|
+|25|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|23|2021-12-28|2021-08-09|
 |26|[marat1961/wasm](https://github.com/marat1961/wasm)|A fast Pascal (Delphi) WebAssembly interpreter|23|2021-07-26|2021-03-27|
 |27|[Matek0611/PospoliteView](https://github.com/Matek0611/PospoliteView)|Pospolite View aims to be a simple HTML viewer engine fully made in Free Pascal.|23|2021-12-28|2021-01-31|
 |28|[Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)|Delphi and C++Builder Demos for Embarcadero RAD Studio version 11|22|2021-09-30|2021-07-08|
