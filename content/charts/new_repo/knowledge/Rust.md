@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2134|2021-12-14|2021-05-25|
 |2|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|497|2021-11-27|2021-04-16|
-|3|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|369|2021-08-18|2021-08-02|
+|3|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|370|2021-08-18|2021-08-02|
 |4|[bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)|Concise Reference Book for the Bevy Game Engine|284|2021-12-24|2021-01-22|
 |5|[ekzhang/percival](https://github.com/ekzhang/percival)|📝 Web-based, reactive Datalog notebooks for data analysis and visualization|236|2021-12-15|2021-10-26|
 |6|[quarkslab/rewind](https://github.com/quarkslab/rewind)|Snapshot-based coverage-guided windows kernel fuzzer|190|2021-12-16|2021-07-08|
@@ -17,8 +17,8 @@
 |10|[thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust)|The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson|127|2021-11-06|2021-07-02|
 |11|[jaywonchung/reason](https://github.com/jaywonchung/reason)|A shell for research papers|108|2021-10-02|2021-07-12|
 |12|[vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks)|A Collection of Rust Tips and Tricks|105|2021-11-10|2021-08-21|
-|13|[mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk)|Plain text Zettelkasten based on mdBook |103|2021-12-01|2021-07-13|
-|14|[aik2mlj/raytracer-tutorial](https://github.com/aik2mlj/raytracer-tutorial)|Raytracer tutorial for PPCA 2021, written in Rust.|103|2021-08-10|2021-07-02|
+|13|[aik2mlj/raytracer-tutorial](https://github.com/aik2mlj/raytracer-tutorial)|Raytracer tutorial for PPCA 2021, written in Rust.|104|2021-08-10|2021-07-02|
+|14|[mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk)|Plain text Zettelkasten based on mdBook |103|2021-12-01|2021-07-13|
 |15|[Bauxitedev/vehicle_evolver_deluxe](https://github.com/Bauxitedev/vehicle_evolver_deluxe)|A browser app that evolves vehicles using genetic algorithms, written in Rust and Bevy|95|2021-08-07|2021-07-29|
 |16|[insou22/typing-the-technical-interview-rust](https://github.com/insou22/typing-the-technical-interview-rust)|https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust|88|2021-07-27|2021-07-25|
 |17|[second-state/dapr-wasm](https://github.com/second-state/dapr-wasm)|A template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr|84|2021-12-19|2021-08-11|
@@ -34,9 +34,9 @@
 |27|[Anexen/pyxirr](https://github.com/Anexen/pyxirr)|Rust-powered collection of financial functions for Python.|36|2021-12-05|2021-05-04|
 |28|[arkworks-rs/r1cs-tutorial](https://github.com/arkworks-rs/r1cs-tutorial)|Tutorial for writing constraints in the `arkworks` framework|36|2021-08-28|2021-04-21|
 |29|[rg3dengine/rg3d-tutorials](https://github.com/rg3dengine/rg3d-tutorials)|Source code of tutorials for rg3d game engine|36|2021-11-03|2021-03-05|
-|30|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|34|2021-12-16|2021-12-16|
-|31|[king-11/genx](https://github.com/king-11/genx)|Genx provides modular building blocks to run simulations of optimization and search problems using Genetic Algorithms |34|2021-12-06|2021-08-31|
-|32|[s1ck/graph](https://github.com/s1ck/graph)|A building block for high-performant graph algorithms.|34|2021-12-12|2021-06-11|
+|30|[s1ck/graph](https://github.com/s1ck/graph)|A building block for high-performant graph algorithms.|35|2021-12-12|2021-06-11|
+|31|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|34|2021-12-16|2021-12-16|
+|32|[king-11/genx](https://github.com/king-11/genx)|Genx provides modular building blocks to run simulations of optimization and search problems using Genetic Algorithms |34|2021-12-06|2021-08-31|
 |33|[rkudryashov/exploring-rust-ecosystem](https://github.com/rkudryashov/exploring-rust-ecosystem)|A set of examples that demonstrate how to create a backend application using Rust ecosystem|34|2021-12-18|2021-02-22|
 |34|[memgraph/example-streaming-app](https://github.com/memgraph/example-streaming-app)|An example repository on how to start building graph applications on streaming data. Just clone and start building 💻 💪|33|2021-10-26|2021-06-24|
 |35|[LighghtEeloo/flow.er](https://github.com/LighghtEeloo/flow.er)|A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.|32|2021-06-19|2021-02-09|
@@ -49,7 +49,7 @@
 |42|[Learn-Together-Pro/LearnRustTogether](https://github.com/Learn-Together-Pro/LearnRustTogether)|Let's learn Rust together|24|2021-12-16|2021-07-06|
 |43|[gruberb/practical-rust-book](https://github.com/gruberb/practical-rust-book)|Source code for the "Practical Web Development with Rust" book|23|2021-06-11|2021-02-04|
 |44|[Byron/learning-rust-with-gitoxide](https://github.com/Byron/learning-rust-with-gitoxide)|Our sessions when learning Rust with gitoxide|21|2021-11-29|2021-10-08|
-|45|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|19|2021-12-27|2021-11-17|
+|45|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|20|2021-12-28|2021-11-17|
 |46|[webrtc-rs/examples](https://github.com/webrtc-rs/examples)|Examples of WebRTC.rs|19|2021-12-13|2021-10-09|
 |47|[digorithm/LC-3-Rust](https://github.com/digorithm/LC-3-Rust)|An LC-3 virtual machine written in Rust for learning purposes.|19|2021-09-01|2021-09-01|
 |48|[anishathalye/synox](https://github.com/anishathalye/synox)|Rust library for program synthesis of string transformations from input-output examples 🔮|19|2021-09-11|2021-06-29|
@@ -57,7 +57,7 @@
 |50|[artempyanykh/shellmark](https://github.com/artempyanykh/shellmark)|Cross-platform bookmarks manager for your shell|18|2021-12-26|2021-01-30|
 |51|[vv9k/mdbook-man](https://github.com/vv9k/mdbook-man)|Generate manual pages from mdBooks!|17|2021-08-26|2021-08-22|
 |52|[programatik29/axum-tutorial](https://github.com/programatik29/axum-tutorial)|Axum web framework tutorial for beginners.|17|2021-12-03|2021-08-06|
-|53|[KDahir247/Fabled-Engine](https://github.com/KDahir247/Fabled-Engine)|Self Study on developing a game engine using wgpu as the rendering API. Learning as I go.|17|2021-12-21|2021-06-01|
+|53|[KDahir247/Fabled-Engine](https://github.com/KDahir247/Fabled-Engine)|Self Study on developing a game engine using wgpu as the rendering API. Learning as I go.|17|2021-12-27|2021-06-01|
 |54|[max-block/spl-examples](https://github.com/max-block/spl-examples)|Examples of Solana on-chain programs|17|2021-06-22|2021-05-29|
 |55|[rodrigocfd/winsafe-examples](https://github.com/rodrigocfd/winsafe-examples)|Examples of native Windows applications written in Rust with WinSafe.|16|2021-12-03|2021-03-30|
 |56|[cbisaillon/Scrypto-Advent-Calendar](https://github.com/cbisaillon/Scrypto-Advent-Calendar)|Scrypto Advent Calendar. Learn the new programming langage to build secure DeFi applications quickly.|15|2021-12-24|2021-11-28|

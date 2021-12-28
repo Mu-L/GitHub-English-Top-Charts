@@ -5,25 +5,25 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|575|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|576|2021-11-11|2021-10-23|
 |2|[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)|A growing collection of text/image cards you can use/copy-paste in your tailwind css projects|334|2021-06-19|2021-03-11|
-|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|303|2021-08-30|2021-02-07|
+|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|304|2021-08-30|2021-02-07|
 |4|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|210|2021-10-13|2021-01-27|
 |5|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
 |6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|142|2021-11-22|2021-04-19|
-|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|85|2021-12-04|2021-09-17|
+|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|86|2021-12-04|2021-09-17|
 |8|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|81|2021-07-26|2021-01-09|
 |9|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|70|2021-12-22|2021-06-15|
 |10|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
 |11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
 |12|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|45|2021-07-14|2021-07-13|
 |13|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
-|14|[tinywinddev/tinywind](https://github.com/tinywinddev/tinywind)|A small collection of free Tailwind components.|36|2021-07-09|2021-06-21|
-|15|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|35|2021-09-07|2021-05-18|
-|16|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|35|2021-11-24|2021-01-26|
-|17|[liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)|The rendered book can be found at https://liulab-dfci.github.io/bioinfo-combio/|35|2021-07-01|2021-01-14|
-|18|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|34|2021-12-24|2021-09-19|
-|19|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|34|2021-12-22|2021-08-20|
+|14|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|36|2021-12-22|2021-08-20|
+|15|[tinywinddev/tinywind](https://github.com/tinywinddev/tinywind)|A small collection of free Tailwind components.|36|2021-07-09|2021-06-21|
+|16|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|35|2021-09-07|2021-05-18|
+|17|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|35|2021-11-24|2021-01-26|
+|18|[liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)|The rendered book can be found at https://liulab-dfci.github.io/bioinfo-combio/|35|2021-07-01|2021-01-14|
+|19|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|34|2021-12-24|2021-09-19|
 |20|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|32|2021-11-28|2021-06-24|
 |21|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
 |22|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
@@ -63,22 +63,22 @@
 |56|[aws-samples/disaster-recovery-workshop](https://github.com/aws-samples/disaster-recovery-workshop)|In this workshop, you will learn techniques to implement your Disaster Recovery strategies based on AWS multi-region approach. Questions? Contact @lpiedade|10|2021-11-22|2021-05-26|
 |57|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
 |58|[Mhdez221993/css-ninja](https://github.com/Mhdez221993/css-ninja)|This project is based on an online website to learn CSS. It contains the main page, about and tickets page each of these pages have 2 different screen sizes: mobile and desktop.|10|2021-07-23|2021-04-10|
-|59|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
-|60|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|9|2021-07-08|2021-06-15|
-|61|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
-|62|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|9|2021-12-14|2021-01-21|
-|63|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|9|2021-10-13|2021-01-20|
-|64|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|9|2021-12-19|2021-01-20|
+|59|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|10|2021-12-19|2021-01-20|
+|60|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
+|61|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|9|2021-07-08|2021-06-15|
+|62|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
+|63|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|9|2021-12-14|2021-01-21|
+|64|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|9|2021-10-13|2021-01-20|
 |65|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
 |66|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|8|2021-10-22|2021-08-31|
-|67|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
-|68|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|8|2021-08-10|2021-07-18|
-|69|[KhasanMeliev/freshbooks](https://github.com/KhasanMeliev/freshbooks)|Freshbooks|8|2021-06-17|2021-05-27|
-|70|[Restless-DevTools/Restless-Frontend](https://github.com/Restless-DevTools/Restless-Frontend)|Frontend app for Restless. A platform that aims to help developers in their daily lives. It is possible to manage, store, execute and share HTTP and HTTPs requests. It is also possible to create teams ...|8|2021-07-03|2021-03-11|
-|71|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|8|2021-06-19|2021-02-04|
-|72|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|73|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
-|74|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|7|2021-12-04|2021-08-21|
+|67|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|8|2021-12-04|2021-08-21|
+|68|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
+|69|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|8|2021-08-10|2021-07-18|
+|70|[KhasanMeliev/freshbooks](https://github.com/KhasanMeliev/freshbooks)|Freshbooks|8|2021-06-17|2021-05-27|
+|71|[Restless-DevTools/Restless-Frontend](https://github.com/Restless-DevTools/Restless-Frontend)|Frontend app for Restless. A platform that aims to help developers in their daily lives. It is possible to manage, store, execute and share HTTP and HTTPs requests. It is also possible to create teams ...|8|2021-07-03|2021-03-11|
+|72|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|8|2021-06-19|2021-02-04|
+|73|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
+|74|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
 |75|[owl4ce/spicetify-themes](https://github.com/owl4ce/spicetify-themes)|:art: A community-driven collection of themes for customizing Spotify through Spicetify. Legacy -> https://github.com/owl4ce/spicetify-themes-legacy|7|2021-07-25|2021-07-25|
 |76|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|7|2021-12-09|2021-07-22|
 |77|[nimadorostkar/production-management](https://github.com/nimadorostkar/production-management)|Manufacturing process management or Manage inventory statistics, production and orders is a collection of technologies and methods used to define how products are to be manufactured|7|2021-08-06|2021-07-04|

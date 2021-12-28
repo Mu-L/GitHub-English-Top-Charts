@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6910|2021-12-25|
+|1|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6910|2021-12-28|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5659|2021-08-30|
 |3|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4644|2021-12-07|
 |4|[John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !|4572|2021-11-26|
@@ -17,7 +17,7 @@
 |10|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|2021-11-30|
 |11|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1662|2021-11-02|
 |12|[codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus)|gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on dem ...|1577|2021-07-10|
-|13|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1185|2021-12-23|
+|13|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1186|2021-12-23|
 |14|[vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)|Acknowledgements screen displaying a list of licenses, for example from CocoaPods dependencies.|869|2021-06-23|
 |15|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|2021-10-01|
 |16|[wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils)|A collection of command-line utils for Apple simulators.|487|2021-07-20|
@@ -32,7 +32,7 @@
 |25|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|2021-10-23|
 |26|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|160|2021-11-29|
 |27|[sammyd/RW-iOSFramework](https://github.com/sammyd/RW-iOSFramework)|A project which demonstrates how to build an iOS framework|139|2021-07-12|
-|28|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|124|2021-10-19|
+|28|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|125|2021-10-19|
 |29|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|2021-10-29|
 |30|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|109|2021-08-06|
 |31|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|2021-12-27|

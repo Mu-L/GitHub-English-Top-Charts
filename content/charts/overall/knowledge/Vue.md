@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|9963|2021-12-27|
+|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|9969|2021-12-27|
 |2|[varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io)|:blue_book: Personal blog site based on github issues.|3351|2021-08-17|
 |3|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3051|2021-11-19|
 |4|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|1837|2021-11-25|
 |5|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1805|2021-12-27|
 |6|[aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)|Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the ...|1617|2021-12-13|
-|7|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1477|2021-11-30|
+|7|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1478|2021-11-30|
 |8|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1423|2021-11-29|
 |9|[sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop)|See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions|1192|2021-08-10|
 |10|[microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding t ...|1135|2021-12-15|
@@ -28,7 +28,7 @@
 |21|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|539|2021-12-09|
 |22|[savvyapps/SAVuegram](https://github.com/savvyapps/SAVuegram)|A simple social media web app built with Vue.js and Firebase's Cloud Firestore as a way to teach people how to build a real-world app using the two technologies. Follow along with our tutorial.|460|2021-10-05|
 |23|[sdras/vue-sample-svg-icons](https://github.com/sdras/vue-sample-svg-icons)|An opinionated example of how to use SVG icons in a Vue.js application|460|2021-08-10|
-|24|[koddr/vue-goodshare](https://github.com/koddr/vue-goodshare)|🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.|408|2021-12-08|
+|24|[koddr/vue-goodshare](https://github.com/koddr/vue-goodshare)|🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.|408|2021-12-28|
 |25|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|397|2021-09-07|
 |26|[checkly/theheadless.dev](https://github.com/checkly/theheadless.dev)|🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.|379|2021-11-02|
 |27|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|350|2021-08-23|

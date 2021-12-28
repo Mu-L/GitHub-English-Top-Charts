@@ -9,7 +9,7 @@
 |2|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4512|2021-12-14|
 |3|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|3927|2021-12-25|
 |4|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|2926|2021-12-27|
-|5|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2325|2021-12-24|
+|5|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2326|2021-12-24|
 |6|[r-lib/devtools](https://github.com/r-lib/devtools)|Tools to make an R developer's life easier|2143|2021-12-22|
 |7|[yihui/knitr](https://github.com/yihui/knitr)|A general-purpose tool for dynamic report generation in R|2134|2021-12-23|
 |8|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2095|2021-12-12|
@@ -19,7 +19,7 @@
 |12|[mlr-org/mlr](https://github.com/mlr-org/mlr)|Machine Learning in R |1547|2021-12-27|
 |13|[karthik/wesanderson](https://github.com/karthik/wesanderson)|A Wes Anderson color palette for R|1514|2021-07-23|
 |14|[rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R.|1500|2021-12-21|
-|15|[tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)|R Package for 2D and 3D mapping and data visualization|1490|2021-12-25|
+|15|[tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)|R Package for 2D and 3D mapping and data visualization|1489|2021-12-25|
 |16|[rstudio/blogdown](https://github.com/rstudio/blogdown)|Create Blogs and Websites with R Markdown|1452|2021-12-21|
 |17|[rstudio/gt](https://github.com/rstudio/gt)|Easily generate information-rich, publication-quality tables from R|1422|2021-12-21|
 |18|[topepo/caret](https://github.com/topepo/caret)|caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models|1385|2021-12-25|
@@ -35,7 +35,7 @@
 |28|[tidymodels/broom](https://github.com/tidymodels/broom)|Convert statistical analysis objects from R into tidy format|1221|2021-12-21|
 |29|[bbc/bbplot](https://github.com/bbc/bbplot)|R package that helps create and export ggplot2 charts in the style used by the BBC News data team|1218|2021-07-02|
 |30|[jrnold/ggthemes](https://github.com/jrnold/ggthemes)|Additional themes, scales, and geoms for ggplot2|1163|2021-09-21|
-|31|[tidyverse/tidyverse](https://github.com/tidyverse/tidyverse)|Easily install and load packages from the tidyverse|1141|2021-12-08|
+|31|[tidyverse/tidyverse](https://github.com/tidyverse/tidyverse)|Easily install and load packages from the tidyverse|1142|2021-12-08|
 |32|[tidyverse/tidyr](https://github.com/tidyverse/tidyr)|Tidy Messy Data|1095|2021-12-21|
 |33|[sfirke/janitor](https://github.com/sfirke/janitor)|simple tools for data cleaning in R|1083|2021-12-13|
 |34|[daattali/advanced-shiny](https://github.com/daattali/advanced-shiny)|🤹 Shiny tips & tricks for improving your apps and solving common problems|1031|2021-09-27|
@@ -45,11 +45,11 @@
 |38|[r-spatial/sf](https://github.com/r-spatial/sf)|Simple Features for R|954|2021-12-27|
 |39|[robjhyndman/forecast](https://github.com/robjhyndman/forecast)|forecast package for R|950|2021-12-06|
 |40|[slowkow/ggrepel](https://github.com/slowkow/ggrepel)|:round_pushpin: Repel overlapping text labels away from each other.|949|2021-12-05|
-|41|[paul-buerkner/brms](https://github.com/paul-buerkner/brms)|brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan|943|2021-12-26|
+|41|[paul-buerkner/brms](https://github.com/paul-buerkner/brms)|brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan|944|2021-12-26|
 |42|[r-lib/httr](https://github.com/r-lib/httr)|httr: a friendly http package for R|929|2021-10-28|
 |43|[r-lib/lintr](https://github.com/r-lib/lintr)|Static Code Analysis for R|911|2021-12-20|
-|44|[wch/r-source](https://github.com/wch/r-source)|Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.|903|2021-12-24|
-|45|[tidyverse/readr](https://github.com/tidyverse/readr)|Read flat files (csv, tsv, fwf) into R|882|2021-12-06|
+|44|[wch/r-source](https://github.com/wch/r-source)|Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.|903|2021-12-28|
+|45|[tidyverse/readr](https://github.com/tidyverse/readr)|Read flat files (csv, tsv, fwf) into R|881|2021-12-06|
 |46|[tidyverse/magrittr](https://github.com/tidyverse/magrittr)|Improve the readability of R code with the pipe|867|2021-10-28|
 |47|[sparklyr/sparklyr](https://github.com/sparklyr/sparklyr)|R interface for Apache Spark|818|2021-12-22|
 |48|[HenrikBengtsson/future](https://github.com/HenrikBengtsson/future)|:rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone|808|2021-12-06|
@@ -92,8 +92,8 @@
 |85|[gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)|🤹‍♀ Animations of tidyverse verbs using R, the tidyverse, and gganimate|613|2021-12-19|
 |86|[r-tmap/tmap](https://github.com/r-tmap/tmap)|R package for thematic maps|610|2021-12-01|
 |87|[daattali/shinyjs](https://github.com/daattali/shinyjs)|💡 Easily improve the user experience of your Shiny apps in seconds|608|2021-12-21|
-|88|[mlr-org/mlr3](https://github.com/mlr-org/mlr3)|mlr3: Machine Learning in R - next generation|598|2021-12-27|
-|89|[hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR)|An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..  |598|2021-11-09|
+|88|[hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR)|An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..  |599|2021-11-09|
+|89|[mlr-org/mlr3](https://github.com/mlr-org/mlr3)|mlr3: Machine Learning in R - next generation|598|2021-12-27|
 |90|[hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt)|:earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2'|595|2021-07-25|
 |91|[r-lib/pkgdown](https://github.com/r-lib/pkgdown)|Generate static html documentation for an R package|595|2021-12-22|
 |92|[tidyverse/glue](https://github.com/tidyverse/glue)|Glue strings to data in R. Small, fast, dependency free interpreted string literals.|590|2021-12-21|

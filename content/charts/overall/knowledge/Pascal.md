@@ -31,7 +31,7 @@
 |24|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|19|2021-11-17|
 |25|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|18|2021-10-02|
 |26|[checkdigits/rounded_corners](https://github.com/checkdigits/rounded_corners)|Example of how to control Windows 11 Rounded Corners in your apps - to accompany the blog post https://blogs.embarcadero.com/how-to-control-windows-11-rounded-corners-in-your-app/|15|2021-09-10|
-|27|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|14|2021-12-19|
+|27|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|14|2021-12-28|
 |28|[isemenkov/libpasc-algorithms](https://github.com/isemenkov/libpasc-algorithms)|libPasC-Algorithms is delphi and object pascal library of common data structures and algorithms. The library is a set of containers adapted for the Pascal language and the template system available on ...|12|2021-10-30|
 |29|[ange007/TInstructor](https://github.com/ange007/TInstructor)|Delphi FMX component for a better way for new feature introduction and step-by-step users guide in your program.|10|2021-06-15|
 |30|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|2021-10-14|
@@ -57,13 +57,14 @@
 |50|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|2021-06-02|
 |51|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|2021-09-03|
 |52|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2021-12-02|
-|53|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|2021-07-07|
-|54|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|2021-11-14|
-|55|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
-|56|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|
-|57|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|2021-07-04|
-|58|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2021-12-15|
-|59|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
+|53|[fghsgh/fghbeep2](https://github.com/fghsgh/fghbeep2)|advanced 1-bit sound engine for 83+/84+ series of calculators|3|2021-12-28|
+|54|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|2021-07-07|
+|55|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|2021-11-14|
+|56|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
+|57|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|
+|58|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|2021-07-04|
+|59|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2021-12-15|
+|60|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

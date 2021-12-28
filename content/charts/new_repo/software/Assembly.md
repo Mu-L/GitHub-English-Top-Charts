@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|1779|2021-12-27|2021-05-25|
+|1|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|1781|2021-12-27|2021-05-25|
 |2|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1594|2021-10-06|2021-03-22|
 |3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1280|2021-10-24|2021-06-18|
 |4|[jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)|AV/EDR evasion via direct system calls.|767|2021-12-27|2021-01-02|
-|5|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|677|2021-12-05|2021-08-02|
+|5|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|678|2021-12-05|2021-08-02|
 |6|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|315|2021-12-22|2021-10-25|
 |7|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|302|2021-12-22|2021-10-25|
 |8|[NattyNarwhal/vmwmouse](https://github.com/NattyNarwhal/vmwmouse)|VMware mouse driver for Windows 3.1|288|2021-12-01|2021-11-26|
 |9|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|217|2021-11-29|2021-11-12|
-|10|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|156|2021-11-14|2021-11-13|
+|10|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|157|2021-11-14|2021-11-13|
 |11|[ajpc500/NimlineWhispers](https://github.com/ajpc500/NimlineWhispers)|A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.|127|2021-09-10|2021-01-13|
 |12|[android/renderscript-intrinsics-replacement-toolkit](https://github.com/android/renderscript-intrinsics-replacement-toolkit)|-|117|2021-11-02|2021-04-16|
 |13|[boku7/winx64-InjectAllProcessesMeterpreter-Shellcode](https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode)|64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.|107|2021-08-16|2021-05-01|
@@ -30,8 +30,8 @@
 |23|[llopis/amstrad-diagnostics](https://github.com/llopis/amstrad-diagnostics)|Diagnostics program for the Amstrad CPC.|57|2021-12-20|2021-02-20|
 |24|[2point21/lba2-classic-community](https://github.com/2point21/lba2-classic-community)|-|56|2021-12-22|2021-10-25|
 |25|[netspooky/BGGP](https://github.com/netspooky/BGGP)|Binary Golf Grand Prix|56|2021-10-22|2021-06-17|
-|26|[doldecomp/sms](https://github.com/doldecomp/sms)|A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.|53|2021-11-26|2021-05-16|
-|27|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|51|2021-12-27|2021-06-18|
+|26|[doldecomp/sms](https://github.com/doldecomp/sms)|A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.|53|2021-12-28|2021-05-16|
+|27|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|51|2021-12-28|2021-06-18|
 |28|[arnaud-carre/LSPlayer](https://github.com/arnaud-carre/LSPlayer)|Fastest Amiga Module player ever|47|2021-11-13|2021-03-09|
 |29|[zajo/appler](https://github.com/zajo/appler)|Apple ][ emulator for MS-DOS, written in 8086 assembly|45|2021-09-29|2021-09-05|
 |30|[projectPiki/pikmin2](https://github.com/projectPiki/pikmin2)|A decompilation of Pikmin 2 (USA) brought to you by a bunch of clever folks.|44|2021-12-25|2021-09-27|
@@ -78,21 +78,21 @@
 |71|[CXWorld/MicroBenchX](https://github.com/CXWorld/MicroBenchX)|Micro benchmarks CPU/GPU|18|2021-10-26|2021-09-07|
 |72|[forrest-orr/ExploitDev](https://github.com/forrest-orr/ExploitDev)|Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/|18|2021-07-22|2021-06-22|
 |73|[Hydr8gon/sodium64](https://github.com/Hydr8gon/sodium64)|A SNES emulator for the N64, written in assembly|17|2021-11-18|2021-10-06|
-|74|[monsonite/MINT](https://github.com/monsonite/MINT)|A minimal interpreter in Z80 assembly for the RC2014 Micro|17|2021-12-26|2021-07-05|
-|75|[zakarialaoui10/HIGH-TO-LOW](https://github.com/zakarialaoui10/HIGH-TO-LOW)|in this repository you will find codes in C and their equivalence in MIPS Assembly|17|2021-12-24|2021-06-21|
-|76|[xsscx/srd](https://github.com/xsscx/srd)|Welcome to Hoyt's SRD Repo for the Apple Security Research Device. Contribute Code or Open an Issue or Discussion.|17|2021-12-22|2021-06-18|
-|77|[AliChraghi/LanguagesBenchmark](https://github.com/AliChraghi/LanguagesBenchmark)|Programming Languages Benchmarks|17|2021-12-07|2021-04-20|
-|78|[kriskwiatkowski/pqc](https://github.com/kriskwiatkowski/pqc)|Reference implementations of post-quantum cryptographic primitives|17|2021-12-17|2021-03-24|
-|79|[maximilien-noal/OpenRakis](https://github.com/maximilien-noal/OpenRakis)|open-source reimplementation of Cryo's DUNE game|17|2021-12-13|2021-02-22|
-|80|[Baron-von-Riedesel/DOS32pae](https://github.com/Baron-von-Riedesel/DOS32pae)|DOS32pae is a "micro" (or perhaps "nano") DOS extender using PAE paging|17|2021-10-10|2021-02-21|
-|81|[cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)|Source code of some NES games|17|2021-11-22|2021-01-25|
-|82|[felixjones/agbabi](https://github.com/felixjones/agbabi)|Provides GBA optimized functions for some common, handy operations.|17|2021-09-05|2021-01-14|
-|83|[nanochess/pi](https://github.com/nanochess/pi)|Pi number calculator using 8088 assembly language|16|2021-11-15|2021-11-11|
-|84|[homebrew8088/8088-PC-Compatible](https://github.com/homebrew8088/8088-PC-Compatible)|8088 PC XT Compatible|16|2021-12-25|2021-11-04|
-|85|[ladystarbreeze/replacemenDS](https://github.com/ladystarbreeze/replacemenDS)|Open source Nintendo DS ARM7 and ARM9 boot ROMs and firmware replacement.|16|2021-10-10|2021-10-03|
-|86|[projectPiki/pikmin](https://github.com/projectPiki/pikmin)|A decompilation of Pikmin brought to you by a bunch of clever folks.|16|2021-12-27|2021-09-28|
-|87|[markmoxon/aviator-beebasm](https://github.com/markmoxon/aviator-beebasm)|Fully documented and annotated source code for Aviator on the BBC Micro|16|2021-12-27|2021-09-07|
-|88|[xyproto/zsnes](https://github.com/xyproto/zsnes)|A maintained fork of ZSNES, a Super Nintendo emulator. The original project needs patches to build and is not maintained anymore: https://sourceforge.net/projects/zsnes/|16|2021-11-22|2021-08-18|
+|74|[markmoxon/aviator-beebasm](https://github.com/markmoxon/aviator-beebasm)|Fully documented and annotated source code for Aviator on the BBC Micro|17|2021-12-27|2021-09-07|
+|75|[xyproto/zsnes](https://github.com/xyproto/zsnes)|A maintained fork of ZSNES, a Super Nintendo emulator. The original project needs patches to build and is not maintained anymore: https://sourceforge.net/projects/zsnes/|17|2021-11-22|2021-08-18|
+|76|[monsonite/MINT](https://github.com/monsonite/MINT)|A minimal interpreter in Z80 assembly for the RC2014 Micro|17|2021-12-26|2021-07-05|
+|77|[zakarialaoui10/HIGH-TO-LOW](https://github.com/zakarialaoui10/HIGH-TO-LOW)|in this repository you will find codes in C and their equivalence in MIPS Assembly|17|2021-12-24|2021-06-21|
+|78|[xsscx/srd](https://github.com/xsscx/srd)|Welcome to Hoyt's SRD Repo for the Apple Security Research Device. Contribute Code or Open an Issue or Discussion.|17|2021-12-22|2021-06-18|
+|79|[AliChraghi/LanguagesBenchmark](https://github.com/AliChraghi/LanguagesBenchmark)|Programming Languages Benchmarks|17|2021-12-07|2021-04-20|
+|80|[kriskwiatkowski/pqc](https://github.com/kriskwiatkowski/pqc)|Reference implementations of post-quantum cryptographic primitives|17|2021-12-17|2021-03-24|
+|81|[maximilien-noal/OpenRakis](https://github.com/maximilien-noal/OpenRakis)|open-source reimplementation of Cryo's DUNE game|17|2021-12-13|2021-02-22|
+|82|[Baron-von-Riedesel/DOS32pae](https://github.com/Baron-von-Riedesel/DOS32pae)|DOS32pae is a "micro" (or perhaps "nano") DOS extender using PAE paging|17|2021-10-10|2021-02-21|
+|83|[cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)|Source code of some NES games|17|2021-11-22|2021-01-25|
+|84|[felixjones/agbabi](https://github.com/felixjones/agbabi)|Provides GBA optimized functions for some common, handy operations.|17|2021-09-05|2021-01-14|
+|85|[nanochess/pi](https://github.com/nanochess/pi)|Pi number calculator using 8088 assembly language|16|2021-11-15|2021-11-11|
+|86|[homebrew8088/8088-PC-Compatible](https://github.com/homebrew8088/8088-PC-Compatible)|8088 PC XT Compatible|16|2021-12-25|2021-11-04|
+|87|[ladystarbreeze/replacemenDS](https://github.com/ladystarbreeze/replacemenDS)|Open source Nintendo DS ARM7 and ARM9 boot ROMs and firmware replacement.|16|2021-10-10|2021-10-03|
+|88|[projectPiki/pikmin](https://github.com/projectPiki/pikmin)|A decompilation of Pikmin brought to you by a bunch of clever folks.|16|2021-12-28|2021-09-28|
 |89|[peterhirschberg/GS.Asteroids](https://github.com/peterhirschberg/GS.Asteroids)|Asteroids clone for the Apple IIgs computer|16|2021-07-06|2021-05-31|
 |90|[markmoxon/elite-a-beebasm](https://github.com/markmoxon/elite-a-beebasm)|Fully documented and annotated source code for Angus Duggan's Elite-A on the BBC Micro|16|2021-12-07|2021-05-11|
 |91|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|15|2021-12-15|2021-12-15|

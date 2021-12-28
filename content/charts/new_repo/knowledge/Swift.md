@@ -6,9 +6,9 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|645|2021-11-02|2021-10-19|
-|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2021-12-26|2021-04-09|
+|2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|581|2021-12-27|2021-04-09|
 |3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|563|2021-12-24|2021-07-19|
-|4|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |502|2021-12-26|2021-11-30|
+|4|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |517|2021-12-26|2021-11-30|
 |5|[pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump)|A collection of tools for debugging, diffing, and testing your application's data structures.|392|2021-12-08|2021-02-05|
 |6|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|371|2021-09-10|2021-01-20|
 |7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|248|2021-12-26|2021-10-24|
@@ -22,14 +22,14 @@
 |15|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|34|2021-12-20|2021-09-29|
 |16|[Apress/Test-Driven-Development-in-Swift](https://github.com/Apress/Test-Driven-Development-in-Swift)|Source code for the tutorials in the Test-Driven Development in Swift book|34|2021-07-08|2021-06-29|
 |17|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|33|2021-11-07|2021-09-22|
-|18|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|30|2021-08-02|2021-02-09|
-|19|[john-rocky/RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler)|a sample collection of basic functions of  Apple's AR framework for iOS.|29|2021-11-10|2021-06-21|
-|20|[steventroughtonsmith/CatalystAppleScript](https://github.com/steventroughtonsmith/CatalystAppleScript)|Demonstration of how to integrate AppleScript/Cocoa scripting into a Catalyst app|28|2021-12-27|2021-06-05|
+|18|[steventroughtonsmith/CatalystAppleScript](https://github.com/steventroughtonsmith/CatalystAppleScript)|Demonstration of how to integrate AppleScript/Cocoa scripting into a Catalyst app|31|2021-12-27|2021-06-05|
+|19|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|30|2021-08-02|2021-02-09|
+|20|[john-rocky/RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler)|a sample collection of basic functions of  Apple's AR framework for iOS.|29|2021-11-10|2021-06-21|
 |21|[jrasmusson/datastructures-algorithms](https://github.com/jrasmusson/datastructures-algorithms)|A data structure and algorithm course for Swift developers|28|2021-06-04|2021-02-18|
 |22|[GroupeMINASTE/OCaml](https://github.com/GroupeMINASTE/OCaml)|An OCaml editor, top level, and learning place for iOS, iPadOS and macOS|28|2021-12-10|2021-01-05|
 |23|[zafarivaev/swiftui-mvvm-clean](https://github.com/zafarivaev/swiftui-mvvm-clean)|Sample app showcasing usage of Clean MVVM architecture in SwiftUI and Combine. Written for a Medium tutorial.|27|2021-10-23|2021-06-29|
 |24|[maxxfrazer/RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)|A collection of additional geometries ready for use in RealityKit 2|25|2021-12-03|2021-06-11|
-|25|[SwiftfulThinking/SwiftUI-Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp)|Full source code for the SwiftUI Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials and not a working ap ...|24|2021-12-11|2021-03-24|
+|25|[SwiftfulThinking/SwiftUI-Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp)|Full source code for the SwiftUI Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials and not a working ap ...|25|2021-12-11|2021-03-24|
 |26|[asahiocean/swift-algorithms](https://github.com/asahiocean/swift-algorithms)|Algorithms and data structures|23|2021-12-03|2021-03-16|
 |27|[muhammedtanriverdi/SwiftUI-Recipe-Book](https://github.com/muhammedtanriverdi/SwiftUI-Recipe-Book)|SwiftUI Recipe Book is a template app designed with SwiftUI.|23|2021-06-24|2021-02-11|
 |28|[SmithZachary/SwiftInterviewProblems](https://github.com/SmithZachary/SwiftInterviewProblems)|Swift Interview Problems in Playground|22|2021-12-03|2021-11-18|
@@ -39,9 +39,9 @@
 |32|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|16|2021-12-15|2021-10-07|
 |33|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|16|2021-12-21|2021-09-01|
 |34|[obrienser/memorize](https://github.com/obrienser/memorize)|Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)|16|2021-07-05|2021-06-28|
-|35|[surfstudio/SurfPlaybook](https://github.com/surfstudio/SurfPlaybook)|iOS framework for Playbook |16|2021-12-23|2021-04-13|
-|36|[vandadnp/swift-tips-and-tricks](https://github.com/vandadnp/swift-tips-and-tricks)|A Collection of Swift and SwiftUI Tips and Tricks|16|2021-09-02|2021-04-12|
-|37|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|15|2021-12-03|2021-06-28|
+|35|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|16|2021-12-03|2021-06-28|
+|36|[surfstudio/SurfPlaybook](https://github.com/surfstudio/SurfPlaybook)|iOS framework for Playbook |16|2021-12-23|2021-04-13|
+|37|[vandadnp/swift-tips-and-tricks](https://github.com/vandadnp/swift-tips-and-tricks)|A Collection of Swift and SwiftUI Tips and Tricks|16|2021-09-02|2021-04-12|
 |38|[Mindinventory/MI-CustomNotification](https://github.com/Mindinventory/MI-CustomNotification)|Push notifications allow developers to reach users, even when users aren't actively using an app! With the latest update of iOS Apple provide very useful extensions which are user-friendly. In this tu ...|15|2021-06-02|2021-05-31|
 |39|[hummingbird-project/hummingbird-examples](https://github.com/hummingbird-project/hummingbird-examples)|Examples demonstrating various aspects of the Hummingbird swift server framework|15|2021-12-27|2021-01-24|
 |40|[Jovins/iBook](https://github.com/Jovins/iBook)|About PDFKit learning project on iOS 11, Like iBook.app.|14|2021-10-12|2021-10-12|
@@ -53,11 +53,11 @@
 |46|[appwrite/playground-for-apple-swiftui](https://github.com/appwrite/playground-for-apple-swiftui)|Simple examples that help you get started with Appwrite + Apple with SwiftUI (=❤️)|11|2021-12-16|2021-10-07|
 |47|[appwrite/playground-for-swift](https://github.com/appwrite/playground-for-swift)|Simple examples that help you get started with Appwrite + Swift for Server (=❤️)|11|2021-12-16|2021-10-07|
 |48|[ronanociosoig/Tuist-Pokedex](https://github.com/ronanociosoig/Tuist-Pokedex)|A simple repo to show how to refactor an iOS project to use  tuist to generate the Xcode project and workspace, and refactor it into a modular architecture. This is the accompanying articles written o ...|11|2021-09-12|2021-04-11|
-|49|[appwrite/playground-for-apple-uikit](https://github.com/appwrite/playground-for-apple-uikit)|Simple examples that help you get started with Appwrite + iOS with UIKit (=❤️)|10|2021-10-19|2021-10-07|
-|50|[reddavis/Panel](https://github.com/reddavis/Panel)|A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.|10|2021-09-10|2021-09-09|
-|51|[hiteshchoudhary/SwiftUI-Crash-course-21](https://github.com/hiteshchoudhary/SwiftUI-Crash-course-21)|Swift UI Crash course - building Mock test view of LCO|10|2021-06-27|2021-06-27|
-|52|[YoonAh-dev/Software-Design-Pattern](https://github.com/YoonAh-dev/Software-Design-Pattern)|Study design patterns & architectural patterns|10|2021-12-01|2021-04-29|
-|53|[SwiftfulThinking/SwiftUI-Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)|Full source code for the SwiftUI Advanced Learning Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials an ...|9|2021-11-09|2021-11-09|
+|49|[SwiftfulThinking/SwiftUI-Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)|Full source code for the SwiftUI Advanced Learning Bootcamp. The complete tutorial is available for free on my YouTube channel @SwiftfulThinking. The project is a collection of individual tutorials an ...|10|2021-11-09|2021-11-09|
+|50|[appwrite/playground-for-apple-uikit](https://github.com/appwrite/playground-for-apple-uikit)|Simple examples that help you get started with Appwrite + iOS with UIKit (=❤️)|10|2021-10-19|2021-10-07|
+|51|[reddavis/Panel](https://github.com/reddavis/Panel)|A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.|10|2021-09-10|2021-09-09|
+|52|[hiteshchoudhary/SwiftUI-Crash-course-21](https://github.com/hiteshchoudhary/SwiftUI-Crash-course-21)|Swift UI Crash course - building Mock test view of LCO|10|2021-06-27|2021-06-27|
+|53|[YoonAh-dev/Software-Design-Pattern](https://github.com/YoonAh-dev/Software-Design-Pattern)|Study design patterns & architectural patterns|10|2021-12-01|2021-04-29|
 |54|[SwiftFMI/iOS_2021_2022](https://github.com/SwiftFMI/iOS_2021_2022)|iOS Course at FMI - Sofia University|9|2021-12-22|2021-10-07|
 |55|[jrasmusson/ios-professional-course](https://github.com/jrasmusson/ios-professional-course)|Course for iOS Professionals|9|2021-12-14|2021-09-19|
 |56|[mavideniz/100DaysOfSwiftUI](https://github.com/mavideniz/100DaysOfSwiftUI)|I created this repo to follow my own 100 day SwiftUI challenge and share it with other people. 🚀|9|2021-09-27|2021-06-22|

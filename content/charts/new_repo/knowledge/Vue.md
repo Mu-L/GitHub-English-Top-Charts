@@ -18,7 +18,7 @@
 |11|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-20|2021-10-03|
 |12|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|49|2021-12-19|2021-05-22|
 |13|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|39|2021-12-22|2021-04-07|
-|14|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|37|2021-12-24|2021-09-02|
+|14|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|38|2021-12-27|2021-09-02|
 |15|[lin-xi/fe-course](https://github.com/lin-xi/fe-course)|fe-course|34|2021-07-20|2021-07-09|
 |16|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|34|2021-11-25|2021-01-27|
 |17|[Idered/iridium](https://github.com/Idered/iridium)|💎 Growing collection of VS Code extensions with a fancy name|33|2021-11-24|2021-01-28|
@@ -41,8 +41,8 @@
 |34|[apoorvdwi/HacktoberFest-OpenSource-2021](https://github.com/apoorvdwi/HacktoberFest-OpenSource-2021)|A starter Project for HacktoberFest 2021. Read the Description to know how to contribute|11|2021-10-29|2021-10-01|
 |35|[johnkomarnicki/movies-app-nuxtjs](https://github.com/johnkomarnicki/movies-app-nuxtjs)|Repo for NuxtJS Crash Course|11|2021-08-26|2021-08-26|
 |36|[cg0101/z-roadmap](https://github.com/cg0101/z-roadmap)|Tools for creating roadmaps, roadmapping tool|11|2021-10-28|2021-03-16|
-|37|[the-alone-maple/AJ-Report-](https://github.com/the-alone-maple/AJ-Report-)|this project was pull from anji-plus opensource project(gitee), only for self learning|10|2021-07-29|2021-07-29|
-|38|[Stun3R/isstrapiready](https://github.com/Stun3R/isstrapiready)|🚀 Discover the advancement of Strapi for the latest Strapi version and the list of compatible plugins. (Current: v4)|9|2021-12-22|2021-10-27|
+|37|[Stun3R/isstrapiready](https://github.com/Stun3R/isstrapiready)|🚀 Discover the advancement of Strapi for the latest Strapi version and the list of compatible plugins. (Current: v4)|10|2021-12-22|2021-10-27|
+|38|[the-alone-maple/AJ-Report-](https://github.com/the-alone-maple/AJ-Report-)|this project was pull from anji-plus opensource project(gitee), only for self learning|10|2021-07-29|2021-07-29|
 |39|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|9|2021-11-09|2021-09-24|
 |40|[mazdakdev/Bookito](https://github.com/mazdakdev/Bookito)|A personal book library   All the books you want in one place|8|2021-12-09|2021-12-08|
 |41|[nyancodeid/mockify](https://github.com/nyancodeid/mockify)|Mockup your Design for Instantly Shareable Images|8|2021-09-18|2021-09-16|

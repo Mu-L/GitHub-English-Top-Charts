@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28160|2021-12-27|2021-03-03|
+|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28169|2021-12-27|2021-03-03|
 |2|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|7806|2021-12-27|2021-03-03|
 |3|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|6823|2021-12-09|2021-05-29|
 |4|[Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)|A comprehensive repository containing 30+ notebooks on learning machine learning!|2020|2021-12-20|2021-09-25|
-|5|[alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)|This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |536|2021-07-06|2021-01-31|
+|5|[alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)|This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |538|2021-07-06|2021-01-31|
 |6|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|489|2021-12-26|2021-03-11|
 |7|[rentruewang/learning-machine](https://github.com/rentruewang/learning-machine)|A handbook for ML built on answers.|426|2021-12-23|2021-04-04|
 |8|[Mohitkr95/Best-Data-Science-Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources)|This repository contains the best Data Science free hand-picked resources to equip you with all the industry-driven skills and interview preparation kit.|369|2021-06-13|2021-06-13|
@@ -24,7 +24,7 @@
 |17|[srush/streambook](https://github.com/srush/streambook)|Live Python Notebooks with any Editor|235|2021-12-15|2021-02-16|
 |18|[vopani/datatableton](https://github.com/vopani/datatableton)|100 exercises to learn Python Datatable|230|2021-12-16|2021-07-04|
 |19|[codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial)|Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tuto ...|222|2021-11-03|2021-01-05|
-|20|[lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel)|Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.|186|2021-12-18|2021-04-01|
+|20|[lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel)|Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.|187|2021-12-18|2021-04-01|
 |21|[milaan9/01_Python_Introduction](https://github.com/milaan9/01_Python_Introduction)|Learn the basics of Python. These tutorials are for Python beginners. so even if you have no prior knowledge of Python, you won’t face any difficulty understanding these tutorials.|174|2021-11-26|2021-06-09|
 |22|[gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX)|The purpose of this repo is to make it easy to get started with JAX. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as the content I foun ...|169|2021-11-19|2021-10-28|
 |23|[milaan9/07_Python_Advanced_Topics](https://github.com/milaan9/07_Python_Advanced_Topics)|You'll learn about Iterators, Generators, Closure, Decorators, Property, and RegEx in detail with examples.|168|2021-11-14|2021-06-22|
@@ -38,9 +38,9 @@
 |31|[justinjohn0306/VQGAN-CLIP](https://github.com/justinjohn0306/VQGAN-CLIP)|VQGAN+CLIP Colab Notebook with user-friendly interface.|145|2021-11-15|2021-07-12|
 |32|[yandex-research/shifts](https://github.com/yandex-research/shifts)|This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.|143|2021-12-07|2021-04-21|
 |33|[milaan9/90_Python_Examples](https://github.com/milaan9/90_Python_Examples)|The best way to learn Python is by practicing examples. The repository contains examples of basic concepts of Python. You are advised to take the references from these examples and try them on your ow ...|136|2021-10-17|2021-07-02|
-|34|[PacktPublishing/Mastering-Transformers](https://github.com/PacktPublishing/Mastering-Transformers)|Mastering Transformers, published by Packt|133|2021-09-07|2021-02-08|
-|35|[wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)|Hello, Welcome to this repo. don't forget to read guidelines in readme.md|132|2021-11-08|2021-10-01|
-|36|[GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)|Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud|132|2021-12-24|2021-05-27|
+|34|[GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)|Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud|133|2021-12-24|2021-05-27|
+|35|[PacktPublishing/Mastering-Transformers](https://github.com/PacktPublishing/Mastering-Transformers)|Mastering Transformers, published by Packt|133|2021-09-07|2021-02-08|
+|36|[wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)|Hello, Welcome to this repo. don't forget to read guidelines in readme.md|132|2021-11-08|2021-10-01|
 |37|[v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN)|Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)|131|2021-12-08|2021-10-17|
 |38|[aws/studio-lab-examples](https://github.com/aws/studio-lab-examples)|Example notebooks for working with SageMaker Studio Lab. Sign up for an account at the link below!|130|2021-12-22|2021-11-23|
 |39|[ayush714/ML001-Project-Sources-Code-and-Learning-Materials](https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials)|ML001 Sources Code and Learning Materials|128|2021-10-21|2021-08-15|
@@ -70,7 +70,7 @@
 |63|[chrisdonahue/music-cocreation-tutorial](https://github.com/chrisdonahue/music-cocreation-tutorial)|Start-to-finish tutorial for interactive music co-creation in PyTorch and Tensorflow.js|90|2021-11-06|2021-10-22|
 |64|[ARBML/Calliar](https://github.com/ARBML/Calliar)|A dataset for online Arabic calligraphy. A collection of 2500 annotated calligraphic styles. |89|2021-07-08|2021-05-08|
 |65|[timholy/AdvancedScientificComputing](https://github.com/timholy/AdvancedScientificComputing)|A short course on Julia and open-source software development|88|2021-12-21|2021-10-05|
-|66|[probml/probml-notebooks](https://github.com/probml/probml-notebooks)|Notebooks for "Probabilistic Machine Learning" book|85|2021-12-27|2021-07-16|
+|66|[probml/probml-notebooks](https://github.com/probml/probml-notebooks)|Notebooks for "Probabilistic Machine Learning" book|85|2021-12-28|2021-07-16|
 |67|[dbclinton/jupyter_data](https://github.com/dbclinton/jupyter_data)|Jupyter notebooks|85|2021-09-07|2021-01-11|
 |68|[stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop)|A 3-hour workshop on data visualization in Python with notebooks and exercises for following along.|83|2021-12-26|2021-11-03|
 |69|[CodexploreRepo/data_science](https://github.com/CodexploreRepo/data_science)|Data Science Handbook|82|2021-12-23|2021-01-10|
@@ -97,14 +97,14 @@
 |90|[kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground)|An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities. |57|2021-07-28|2021-07-25|
 |91|[tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons)|TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX- ...|57|2021-12-11|2021-03-16|
 |92|[yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course)|YSDA course in Speech Processing. |57|2021-11-02|2021-02-15|
-|93|[IsFilimonov/LearningPath](https://github.com/IsFilimonov/LearningPath)|Learning repository|56|2021-12-11|2021-02-13|
+|93|[IsFilimonov/LearningPath](https://github.com/IsFilimonov/LearningPath)|Learning repository|57|2021-12-11|2021-02-13|
 |94|[kochbj/Deep-Learning-for-Causal-Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference)|Extensive tutorials for learning how to build deep learning models for causal inference using selection on observables in Tensorflow 2.|56|2021-11-10|2021-01-05|
-|95|[Vaibhavs10/ml-with-audio](https://github.com/Vaibhavs10/ml-with-audio)|HF's ML for Audio study group|55|2021-12-23|2021-12-10|
-|96|[germain-hug/NRE](https://github.com/germain-hug/NRE)|Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation (CVPR 2021)|55|2021-07-04|2021-03-17|
-|97|[b-tomi/100DaysOfCode](https://github.com/b-tomi/100DaysOfCode)|100 Days of Code - The Complete Python Pro Bootcamp for 2021: Project solutions|55|2021-10-22|2021-01-02|
+|95|[b-tomi/100DaysOfCode](https://github.com/b-tomi/100DaysOfCode)|100 Days of Code - The Complete Python Pro Bootcamp for 2021: Project solutions|56|2021-10-22|2021-01-02|
+|96|[Vaibhavs10/ml-with-audio](https://github.com/Vaibhavs10/ml-with-audio)|HF's ML for Audio study group|55|2021-12-23|2021-12-10|
+|97|[germain-hug/NRE](https://github.com/germain-hug/NRE)|Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation (CVPR 2021)|55|2021-07-04|2021-03-17|
 |98|[DIG-Kaust/Seismology](https://github.com/DIG-Kaust/Seismology)|Teaching material for ErSE 210 Seismology course|54|2021-11-29|2021-04-30|
-|99|[The-Eigensolvers/TEQS](https://github.com/The-Eigensolvers/TEQS)|Welcome to The Eigensolver Quantum School, a quantum computing crash course designed by students for students.|53|2021-07-11|2021-06-21|
-|100|[DerwenAI/ray_tutorial](https://github.com/DerwenAI/ray_tutorial)|An introductory tutorial about leveraging Ray core features for distributed patterns.|53|2021-12-10|2021-02-23|
+|99|[DerwenAI/ray_tutorial](https://github.com/DerwenAI/ray_tutorial)|An introductory tutorial about leveraging Ray core features for distributed patterns.|54|2021-12-10|2021-02-23|
+|100|[The-Eigensolvers/TEQS](https://github.com/The-Eigensolvers/TEQS)|Welcome to The Eigensolver Quantum School, a quantum computing crash course designed by students for students.|53|2021-07-11|2021-06-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -13,7 +13,7 @@
 |6|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1590|1|2021-06-30|
 |7|[SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future](https://github.com/SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future)|BILSTM, GMDH and Genetic COVID Forecasting Into Desired Steps of Future|3|1|2021-12-25|
 |8|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
-|9|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|291|1|2021-12-02|
+|9|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|1|2021-12-02|
 |10|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|248|1|2021-11-02|
 |11|[ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|-|3|1|2021-12-22|
 |12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|632|1|2021-10-24|

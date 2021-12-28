@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|9963|19|2021-12-27|
+|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|9969|19|2021-12-27|
 |2|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3051|3|2021-11-19|
 |3|[varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io)|:blue_book: Personal blog site based on github issues.|3351|2|2021-08-17|
 |4|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|103|2|2021-12-13|
@@ -25,7 +25,7 @@
 |18|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|397|1|2021-09-07|
 |19|[nuxt/modules](https://github.com/nuxt/modules)|Discover our list of modules to supercharge your Nuxt project|334|1|2021-12-27|
 |20|[ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify)|A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify|1046|1|2021-10-04|
-|21|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1477|1|2021-11-30|
+|21|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1478|1|2021-11-30|
 |22|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1805|1|2021-12-27|
 |23|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|99|1|2021-12-04|
 |24|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|151|1|2021-12-27|
@@ -43,7 +43,7 @@
 |36|[jscharting/jscharting-vue](https://github.com/jscharting/jscharting-vue)|Official JSCharting Vue.js Plugin & Examples|26|0|2021-11-24|
 |37|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|0|2021-08-01|
 |38|[Jinjiang/vue-a11y-examples](https://github.com/Jinjiang/vue-a11y-examples)|Examples for vue-a11y-utils|12|0|2021-09-01|
-|39|[apache/echarts-handbook](https://github.com/apache/echarts-handbook)|Apache ECharts Handbook|26|0|2021-12-21|
+|39|[apache/echarts-handbook](https://github.com/apache/echarts-handbook)|Apache ECharts Handbook|27|0|2021-12-21|
 |40|[atymic/laravel-collection-playground](https://github.com/atymic/laravel-collection-playground)|Test, Run & Share Laravel Collection Examples!|44|0|2021-10-06|
 |41|[linrock/ssh-tunnels](https://github.com/linrock/ssh-tunnels)|Visual examples and use cases for SSH tunnels|150|0|2021-10-06|
 |42|[uom-assistant/uom-assistant](https://github.com/uom-assistant/uom-assistant)|A web app that can improve your study experience in University of Manchester|16|0|2021-12-07|
@@ -102,7 +102,7 @@
 |95|[universal-vue/examples](https://github.com/universal-vue/examples)|UVue examples|9|0|2021-10-05|
 |96|[vueschool/reusable-vuejs-components-with-slots](https://github.com/vueschool/reusable-vuejs-components-with-slots)|Source code for Reusable Vue.js Components with Slots course|8|0|2021-10-06|
 |97|[ActivePeter/MarkdownEverywhere](https://github.com/ActivePeter/MarkdownEverywhere)|A web project to auto sync notes in git repositories, then present them by vue. 一个自动同步git仓库笔记并且通过vue呈现出来的web项目（作为我的博客|15|0|2021-12-09|
-|98|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|37|0|2021-12-24|
+|98|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|38|0|2021-12-27|
 |99|[AmericanWhitewater/wh2o-vue](https://github.com/AmericanWhitewater/wh2o-vue)|Interactive map and guide for whitewater rivers in North America|6|0|2021-11-25|
 |100|[drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples)|A collection of web pages built in Tailwind CSS v1.x|90|0|2021-08-11|
 

@@ -8,7 +8,7 @@
 |1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|952|2021-10-03|2021-09-02|
 |2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|532|2021-10-15|2021-06-11|
 |3|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|398|2021-12-21|2021-11-18|
-|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|393|2021-12-21|2021-12-09|
+|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|394|2021-12-21|2021-12-09|
 |5|[NCIC-PARALLEL/GSWITCH-tool](https://github.com/NCIC-PARALLEL/GSWITCH-tool)|-|316|2021-07-22|2021-07-22|
 |6|[jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)|Cheat sheet for x86-64 Unix systems programming|293|2021-07-02|2021-06-30|
 |7|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|273|2021-11-20|2021-11-19|
@@ -41,23 +41,23 @@
 |34|[LiShanwenGit/MelonPI-MINI](https://github.com/LiShanwenGit/MelonPI-MINI)|-|33|2021-09-05|2021-02-05|
 |35|[paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)|A review of APIs.|31|2021-12-23|2021-06-17|
 |36|[jamesfang8499/physics3](https://github.com/jamesfang8499/physics3)|-|30|2021-12-17|2021-07-15|
-|37|[n3rada/ScribUTT](https://github.com/n3rada/ScribUTT)|Template LaTeX de rapports de projets / TDs et stages (ST05,ST09,ST10,ST30) pour l'Université de Technologie de Troyes aka UTT (école d'ingénieur).|30|2021-10-26|2021-03-28|
-|38|[weymouth/DataDrivenGMG.jl](https://github.com/weymouth/DataDrivenGMG.jl)|Data-driven Geometric Multi-Grid solver for the discrete Poisson equation|29|2021-10-24|2021-09-24|
-|39|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|28|2021-12-17|2021-07-15|
-|40|[wutong8023/Awesome_Information_Extraction](https://github.com/wutong8023/Awesome_Information_Extraction)|Literature Survey of Information Extraction, especially Relation Extraction, Event Extraction, and Slot Filling.|27|2021-10-06|2021-06-21|
-|41|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |26|2021-12-27|2021-07-09|
+|37|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |30|2021-12-27|2021-07-09|
+|38|[n3rada/ScribUTT](https://github.com/n3rada/ScribUTT)|Template LaTeX de rapports de projets / TDs et stages (ST05,ST09,ST10,ST30) pour l'Université de Technologie de Troyes aka UTT (école d'ingénieur).|30|2021-10-26|2021-03-28|
+|39|[weymouth/DataDrivenGMG.jl](https://github.com/weymouth/DataDrivenGMG.jl)|Data-driven Geometric Multi-Grid solver for the discrete Poisson equation|29|2021-10-24|2021-09-24|
+|40|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|28|2021-12-17|2021-07-15|
+|41|[wutong8023/Awesome_Information_Extraction](https://github.com/wutong8023/Awesome_Information_Extraction)|Literature Survey of Information Extraction, especially Relation Extraction, Event Extraction, and Slot Filling.|27|2021-10-06|2021-06-21|
 |42|[Aarif123456/modern-deedy](https://github.com/Aarif123456/modern-deedy)|A resume template based on Deedy|25|2021-08-06|2021-06-01|
 |43|[polystat/polystat](https://github.com/polystat/polystat)|Polyglot Static Analyzer for Object-Oriented Programs Based on EOLANG and 𝜑-Calculus|25|2021-12-23|2021-02-08|
 |44|[wellington36/Resumos_EMAP-FGV](https://github.com/wellington36/Resumos_EMAP-FGV)|Repositório de resumos do curso de Matemática Aplicada da FGV-EMAP|23|2021-12-21|2021-08-28|
 |45|[Astremy/ProblemesAlgorithmiques](https://github.com/Astremy/ProblemesAlgorithmiques)|-|23|2021-08-12|2021-01-11|
 |46|[microsoft/ifc-spec](https://github.com/microsoft/ifc-spec)|IFC format specification|21|2021-12-06|2021-07-19|
 |47|[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports)|南方科技大学硕士开题报告、年度考核报告 （中/英）|21|2021-12-16|2021-05-18|
-|48|[Caioflp/monitoria-algebra-linear](https://github.com/Caioflp/monitoria-algebra-linear)|Repositório para disponibilizar o material feito pelos monitores da disciplida de Álgebra Linear da EMAp.|20|2021-11-17|2021-08-04|
-|49|[eventoseroficial/Data_and_Code](https://github.com/eventoseroficial/Data_and_Code)|-|20|2021-06-10|2021-05-04|
-|50|[doem97/NTU-EEE-MSc-Dissertation-Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template)|EEE Latex Dissertation Template, Nanyang Technological University (NTU), re-defined in 2021|20|2021-07-06|2021-03-13|
-|51|[IIC2213/Syllabus-2021-1-](https://github.com/IIC2213/Syllabus-2021-1-)|-|20|2021-08-19|2021-03-12|
-|52|[haltode/raytracer](https://github.com/haltode/raytracer)|An experimental raytracer in LaTeX|20|2021-11-29|2021-03-04|
-|53|[BartoszMilewski/PolyLens](https://github.com/BartoszMilewski/PolyLens)|Polynomial Lens|19|2021-12-27|2021-11-26|
+|48|[doem97/NTU-EEE-MSc-Dissertation-Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template)|EEE Latex Dissertation Template, Nanyang Technological University (NTU), re-defined in 2021|21|2021-07-06|2021-03-13|
+|49|[BartoszMilewski/PolyLens](https://github.com/BartoszMilewski/PolyLens)|Polynomial Lens|20|2021-12-27|2021-11-26|
+|50|[Caioflp/monitoria-algebra-linear](https://github.com/Caioflp/monitoria-algebra-linear)|Repositório para disponibilizar o material feito pelos monitores da disciplida de Álgebra Linear da EMAp.|20|2021-11-17|2021-08-04|
+|51|[eventoseroficial/Data_and_Code](https://github.com/eventoseroficial/Data_and_Code)|-|20|2021-06-10|2021-05-04|
+|52|[IIC2213/Syllabus-2021-1-](https://github.com/IIC2213/Syllabus-2021-1-)|-|20|2021-08-19|2021-03-12|
+|53|[haltode/raytracer](https://github.com/haltode/raytracer)|An experimental raytracer in LaTeX|20|2021-11-29|2021-03-04|
 |54|[YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|19|2021-11-16|2021-07-07|
 |55|[UkoeHB/Seraphis](https://github.com/UkoeHB/Seraphis)|Privacy-focused tx protocol|18|2021-11-20|2021-08-20|
 |56|[songxiaolin2009/tjuthesis_xelatex_template](https://github.com/songxiaolin2009/tjuthesis_xelatex_template)|Thesis Template in Tianjin University compiled with XeLaTeX|18|2021-12-10|2021-07-01|

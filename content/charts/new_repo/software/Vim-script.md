@@ -5,24 +5,24 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2234|2021-12-22|2021-10-20|
-|2|[sharovatov/teamlead](https://github.com/sharovatov/teamlead)|Pragmatic humanist's thoughts on sociotechnical systems.|615|2021-12-22|2021-02-23|
-|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|225|2021-12-26|2021-08-07|
+|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2236|2021-12-22|2021-10-20|
+|2|[sharovatov/teamlead](https://github.com/sharovatov/teamlead)|Pragmatic humanist's thoughts on sociotechnical systems.|616|2021-12-22|2021-02-23|
+|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|226|2021-12-26|2021-08-07|
 |4|[Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim)|🎨 A beautiful and dark vim colorscheme. |135|2021-12-10|2021-08-31|
-|5|[wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado)|How themes should be.|132|2021-12-27|2021-09-18|
+|5|[wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado)|How themes should be.|133|2021-12-27|2021-09-18|
 |6|[vimpostor/vim-tpipeline](https://github.com/vimpostor/vim-tpipeline)|Embed your vim statusline in tmux.|108|2021-12-27|2021-01-11|
 |7|[erietz/vim-terminator](https://github.com/erietz/vim-terminator)|:dagger: Run your code in an output buffer or a vim terminal conveniently|90|2021-10-22|2021-02-04|
 |8|[vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark)|A dark GitHub theme for Vim and NeoVim|88|2021-10-15|2021-05-08|
-|9|[FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim)|🌊 Aquarium, a simple vibrant dark theme for vim 🗒|84|2021-12-26|2021-10-04|
-|10|[skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format)|:sunglasses: Prettify Current Line on Enter !!|84|2021-12-20|2021-02-16|
+|9|[FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim)|🌊 Aquarium, a simple vibrant dark theme for vim 🗒|87|2021-12-26|2021-10-04|
+|10|[skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format)|:sunglasses: Prettify Current Line on Enter !!|85|2021-12-20|2021-02-16|
 |11|[vv9k/bogster](https://github.com/vv9k/bogster)|A theme for Vim and NeoVim|73|2021-11-08|2021-05-16|
 |12|[srdz-af/vimrc](https://github.com/srdz-af/vimrc)|My personal vim config file.|69|2021-12-11|2021-12-10|
-|13|[ernstwi/vim-secret](https://github.com/ernstwi/vim-secret)|Private writing mode for Vim|64|2021-11-20|2021-01-28|
-|14|[b4skyx/serenade](https://github.com/b4skyx/serenade)|A dark colorscheme for my colorblind eyes . . .|63|2021-08-14|2021-02-02|
+|13|[b4skyx/serenade](https://github.com/b4skyx/serenade)|A dark colorscheme for my colorblind eyes . . .|64|2021-08-14|2021-02-02|
+|14|[ernstwi/vim-secret](https://github.com/ernstwi/vim-secret)|Private writing mode for Vim|64|2021-11-20|2021-01-28|
 |15|[pulkomandy/c.vim](https://github.com/pulkomandy/c.vim)|Improved C syntax highlighting for vim|57|2021-08-20|2021-08-14|
 |16|[milisims/nvim-luaref](https://github.com/milisims/nvim-luaref)|Add a vim :help reference for lua |56|2021-06-03|2021-05-31|
 |17|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams|55|2021-12-10|2021-12-10|
-|18|[azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter)|Highlight words and expressions|54|2021-12-26|2021-05-07|
+|18|[azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter)|Highlight words and expressions|55|2021-12-26|2021-05-07|
 |19|[sora6kq/sway-dots](https://github.com/sora6kq/sway-dots)|dotfiles for my sway config|52|2021-11-29|2021-10-11|
 |20|[David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script)|Post-install script for Fedora and RHEL 8 clones to create your ultimate development environment|52|2021-12-22|2021-07-08|
 |21|[axlebedev/footprints](https://github.com/axlebedev/footprints)|Vim plugin: footprints. Highlight last edited lines.|51|2021-09-13|2021-06-20|
@@ -49,8 +49,8 @@
 |42|[karolbelina/uxntal.vim](https://github.com/karolbelina/uxntal.vim)|Uxntal support for Vim|25|2021-11-17|2021-06-22|
 |43|[yqlbu/neovim-server](https://github.com/yqlbu/neovim-server)| 📡 The Ultimate Containerized NeoVim Remote Server|25|2021-08-19|2021-01-29|
 |44|[skywind3000/asyncrun.extra](https://github.com/skywind3000/asyncrun.extra)|Extra runners for asyncrun to run your command in Tmux/Gnome-terminal panel, xterm, Floaterm and more.|25|2021-12-18|2021-01-01|
-|45|[ourigen/skyline.vim](https://github.com/ourigen/skyline.vim)|skyline.vim is a simple statusline plugin for Vim.|24|2021-09-11|2021-03-17|
-|46|[skanehira/christmas.vim](https://github.com/skanehira/christmas.vim)|-|23|2021-12-24|2021-12-23|
+|45|[skanehira/christmas.vim](https://github.com/skanehira/christmas.vim)|-|24|2021-12-24|2021-12-23|
+|46|[ourigen/skyline.vim](https://github.com/ourigen/skyline.vim)|skyline.vim is a simple statusline plugin for Vim.|24|2021-09-11|2021-03-17|
 |47|[MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite)|A Vim Config for Writing and Writers|23|2021-11-21|2021-11-12|
 |48|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|23|2021-12-27|2021-08-25|
 |49|[jenterkin/vim-autosource](https://github.com/jenterkin/vim-autosource)|Manage Vim configuration for projects.|23|2021-12-22|2021-05-22|
@@ -72,11 +72,11 @@
 |65|[Rasukarusan/nvim-select-multi-line](https://github.com/Rasukarusan/nvim-select-multi-line)|Neovim plugin. select multiple lines that are not adjacent.|18|2021-08-22|2021-04-17|
 |66|[ItzIlhxm/bspwm-dotfiles](https://github.com/ItzIlhxm/bspwm-dotfiles)|-|17|2021-12-26|2021-10-26|
 |67|[shivamashtikar/tmuxjump.vim](https://github.com/shivamashtikar/tmuxjump.vim)|A plugin to open file from file paths printed in sibling tmux pane|17|2021-06-21|2021-06-19|
-|68|[TuanNguyen2504/coding-tool-config](https://github.com/TuanNguyen2504/coding-tool-config)|My Terminal, Vim, VS Code configuration, VSCode Extensions|16|2021-12-05|2021-09-01|
-|69|[yazgoo/yank-history](https://github.com/yazgoo/yank-history)|yank history for vim via fzf|16|2021-08-28|2021-08-25|
-|70|[mtwb47/dwmricer](https://github.com/mtwb47/dwmricer)|DWM Auto Install and Ricing Script|16|2021-07-20|2021-03-29|
-|71|[RobinMalfait/dotfiles](https://github.com/RobinMalfait/dotfiles)|-|16|2021-12-06|2021-02-20|
-|72|[rayes0/blossom.vim](https://github.com/rayes0/blossom.vim)|a simple pinkish vim colorscheme designed for cursive italics|16|2021-09-12|2021-02-13|
+|68|[rayes0/blossom.vim](https://github.com/rayes0/blossom.vim)|a simple pinkish vim colorscheme designed for cursive italics|17|2021-09-12|2021-02-13|
+|69|[TuanNguyen2504/coding-tool-config](https://github.com/TuanNguyen2504/coding-tool-config)|My Terminal, Vim, VS Code configuration, VSCode Extensions|16|2021-12-05|2021-09-01|
+|70|[yazgoo/yank-history](https://github.com/yazgoo/yank-history)|yank history for vim via fzf|16|2021-08-28|2021-08-25|
+|71|[mtwb47/dwmricer](https://github.com/mtwb47/dwmricer)|DWM Auto Install and Ricing Script|16|2021-07-20|2021-03-29|
+|72|[RobinMalfait/dotfiles](https://github.com/RobinMalfait/dotfiles)|-|16|2021-12-06|2021-02-20|
 |73|[monaqa/modesearch.vim](https://github.com/monaqa/modesearch.vim)|Search with less backslash.|15|2021-09-29|2021-09-29|
 |74|[habamax/vim-bronzage](https://github.com/habamax/vim-bronzage)|Your next vim colorscheme|15|2021-11-23|2021-09-09|
 |75|[roosta/fzf-folds.vim](https://github.com/roosta/fzf-folds.vim)|Vim plugin that lets you fuzzy search for folds in a file|15|2021-08-26|2021-07-28|

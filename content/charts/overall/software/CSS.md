@@ -7,17 +7,17 @@
 |:-|:-|:-|:-|:-|
 |1|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|73152|2021-12-24|
 |2|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|46247|2021-11-30|
-|3|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44823|2021-12-23|
-|4|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|31981|2021-12-27|
+|3|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44824|2021-12-23|
+|4|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|31982|2021-12-27|
 |5|[dhg/Skeleton](https://github.com/dhg/Skeleton)|Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development|18466|2021-12-23|
-|6|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16577|2021-10-18|
+|6|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16578|2021-10-18|
 |7|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15744|2021-11-06|
 |8|[CodeByZach/pace](https://github.com/CodeByZach/pace)|Automatically add a progress bar to your site.|15366|2021-07-28|
 |9|[philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)|A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.|12904|2021-11-12|
 |10|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)|11089|2021-12-20|
 |11|[tachyons-css/tachyons](https://github.com/tachyons-css/tachyons)|Functional css for humans|11069|2021-06-17|
 |12|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|10941|2021-10-11|
-|13|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10559|2021-12-25|
+|13|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10561|2021-12-25|
 |14|[Automattic/_s](https://github.com/Automattic/_s)|Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out ...|10469|2021-10-26|
 |15|[creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)|Material Dashboard - Open Source Bootstrap 5 Material Design Admin|10000|2021-12-07|
 |16|[StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)|:octocat: Dark GitHub style|9477|2021-12-25|
@@ -25,10 +25,10 @@
 |18|[mrmrs/colors](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|9031|2021-08-30|
 |19|[chinchang/hint.css](https://github.com/chinchang/hint.css)|A CSS only tooltip library for your lovely websites.|8164|2021-10-30|
 |20|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API|8071|2021-09-27|
-|21|[appbaseio/dejavu](https://github.com/appbaseio/dejavu)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7585|2021-09-10|
+|21|[appbaseio/dejavu](https://github.com/appbaseio/dejavu)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7587|2021-09-10|
 |22|[barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)|Build a Jekyll blog in minutes, without touching the command line.|7564|2021-12-27|
-|23|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7294|2021-12-07|
-|24|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|7187|2021-12-27|
+|23|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7295|2021-12-07|
+|24|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|7188|2021-12-27|
 |25|[DataTables/DataTables](https://github.com/DataTables/DataTables)|Tables plug-in for jQuery|6965|2021-08-30|
 |26|[olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS)|Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e ...|6845|2021-12-17|
 |27|[json-api/json-api](https://github.com/json-api/json-api)|A specification for building JSON APIs|6784|2021-12-22|
@@ -58,11 +58,11 @@
 |51|[picturepan2/instagram.css](https://github.com/picturepan2/instagram.css)|Instagram.css - Complete set of Instagram filters in pure CSS|3858|2021-09-14|
 |52|[sahat/megaboilerplate](https://github.com/sahat/megaboilerplate)|Handcrafted starter projects, optimized for simplicity and ease of use.|3839|2021-09-27|
 |53|[l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)|💄CSS tricks for web developers~|3790|2021-06-04|
-|54|[elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)|Replacement icons for popular apps in the style of macOS Big Sur|3612|2021-12-25|
+|54|[elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)|Replacement icons for popular apps in the style of macOS Big Sur|3613|2021-12-27|
 |55|[pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups)|HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.|3600|2021-11-27|
-|56|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3500|2021-12-23|
+|56|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3501|2021-12-23|
 |57|[franciscop/picnic](https://github.com/franciscop/picnic)|:handbag: A beautiful CSS library to kickstart your projects|3437|2021-12-27|
-|58|[connorferster/handcalcs](https://github.com/connorferster/handcalcs)|Python library for converting Python calculations into rendered latex.|3423|2021-12-07|
+|58|[connorferster/handcalcs](https://github.com/connorferster/handcalcs)|Python library for converting Python calculations into rendered latex.|3423|2021-12-28|
 |59|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3270|2021-08-23|
 |60|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3251|2021-12-26|
 |61|[poole/hyde](https://github.com/poole/hyde)|A brazen two-column theme for Jekyll.|3249|2021-12-07|
@@ -79,7 +79,7 @@
 |72|[gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is)|An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.|2867|2021-12-09|
 |73|[understrap/understrap](https://github.com/understrap/understrap)|Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.|2823|2021-12-27|
 |74|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|2820|2021-12-12|
-|75|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2810|2021-12-25|
+|75|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2813|2021-12-25|
 |76|[BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)|🍭　Cnblogs theme _ Basic theme :  SimpleMemory|2721|2021-12-27|
 |77|[elenapan/dotfiles](https://github.com/elenapan/dotfiles)|There is no place like ~/|2714|2021-10-19|
 |78|[poole/poole](https://github.com/poole/poole)|The Jekyll Butler. A no frills responsive Jekyll blog theme.|2668|2021-12-05|

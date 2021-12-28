@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Language|Updated|Created|
 |:-|:-|:-|:-|:-|:-|:-|
-|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28160|Jupyter Notebook|2021-12-27|2021-03-03|
+|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28169|Jupyter Notebook|2021-12-27|2021-03-03|
 |2|[ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)|A collection of modern/faster/saner alternatives to common unix commands.|18529|-|2021-11-24|2021-01-12|
 |3|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|14518|Python|2021-12-28|2021-03-19|
 |4|[microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)|12 Weeks, 24 Lessons, IoT for All!|8791|C++|2021-12-18|2021-03-03|
@@ -19,7 +19,7 @@
 |12|[smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)|Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course   Python Edition|4333|-|2021-12-27|2021-07-27|
 |13|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4231|TeX|2021-12-25|2021-07-21|
 |14|[NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)|RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccin ...|3401|-|2021-12-14|2021-03-24|
-|15|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3321|TeX|2021-12-01|2021-02-05|
+|15|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3322|TeX|2021-12-01|2021-02-05|
 |16|[dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)|A repository to index and organize the latest machine learning courses found on YouTube.|3319|-|2021-12-09|2021-06-25|
 |17|[facebookresearch/dino](https://github.com/facebookresearch/dino)|PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO|3133|Python|2021-12-09|2021-04-21|
 |18|[OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)|DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks. |2981|-|2021-12-08|2021-06-20|
@@ -49,7 +49,7 @@
 |42|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1428|Go|2021-08-25|2021-07-15|
 |43|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1404|JavaScript|2021-12-04|2021-04-22|
 |44|[ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python)|🏆  A ranked list of awesome python libraries for web development. Updated weekly.|1390|Python|2021-12-23|2021-01-05|
-|45|[pawelmalak/flame](https://github.com/pawelmalak/flame)|Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.|1350|TypeScript|2021-12-19|2021-05-08|
+|45|[pawelmalak/flame](https://github.com/pawelmalak/flame)|Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.|1353|TypeScript|2021-12-19|2021-05-08|
 |46|[thunlp/PromptPapers](https://github.com/thunlp/PromptPapers)|Must-read papers on prompt-based tuning for pre-trained language models.|1348|-|2021-11-04|2021-06-05|
 |47|[ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)|Pointers and tools for learning and day-to-day practice of engineering management & leadership.|1314|-|2021-10-22|2021-06-11|
 |48|[Lifka/hacking-resources](https://github.com/Lifka/hacking-resources)|Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.|1294|-|2021-11-28|2021-02-27|
@@ -87,15 +87,15 @@
 |80|[MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources)|A curated list of design resources from design templates, stock photos, icons, colors, and much more.|884|-|2021-10-25|2021-04-13|
 |81|[cfalta/MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList)|A list of vulnerabilities or design flaws that Microsoft does not intend to fix. Since the number is growing, I decided to make a list. This list covers only vulnerabilities that came up in July 2021  ...|844|-|2021-08-11|2021-07-28|
 |82|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|813|JavaScript|2021-10-03|2021-09-21|
-|83|[salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap)|Roadmap for learning the C++ programming language for beginners and experienced devs.|810|-|2021-12-10|2021-05-12|
-|84|[dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)|Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.|810|JavaScript|2021-12-25|2021-02-03|
-|85|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|808|TeX|2021-12-20|2021-12-06|
+|83|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|810|TeX|2021-12-20|2021-12-06|
+|84|[salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap)|Roadmap for learning the C++ programming language for beginners and experienced devs.|810|-|2021-12-10|2021-05-12|
+|85|[dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)|Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.|810|JavaScript|2021-12-25|2021-02-03|
 |86|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |801|JavaScript|2021-08-05|2021-06-03|
 |87|[rand-net/khan-dl](https://github.com/rand-net/khan-dl)|Download courses from  khanacademy.org |791|Python|2021-08-27|2021-01-25|
 |88|[0vercl0k/wtf](https://github.com/0vercl0k/wtf)|wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.|776|C++|2021-12-21|2021-07-10|
 |89|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|764|JavaScript|2021-12-23|2021-04-13|
 |90|[austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook)|GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]|694|-|2021-12-06|2021-05-16|
-|91|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|692|Go|2021-12-27|2021-08-08|
+|91|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|692|Go|2021-12-28|2021-08-08|
 |92|[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)|A Collection of Awesome Tools and Scripts for Cloud Engineers|689|Python|2021-12-09|2021-03-13|
 |93|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|672|Python|2021-10-01|2021-05-25|
 |94|[memo/eco-nft](https://github.com/memo/eco-nft)|A basic guide to ecofriendly CryptoArt (NFTs)|671|-|2021-11-28|2021-02-25|
@@ -105,14 +105,14 @@
 |98|[meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)|Curated list of awesome tips and tricks and resources in .net world. |648|-|2021-12-12|2021-10-07|
 |99|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|645|Swift|2021-11-02|2021-10-19|
 |100|[codacy/tools-for-code-review-engineers](https://github.com/codacy/tools-for-code-review-engineers)|A list of tools to improve the git workflow for code review engineers.|640|-|2021-11-15|2021-04-28|
-|101|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|623|Kotlin|2021-12-20|2021-05-16|
+|101|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|624|Kotlin|2021-12-20|2021-05-16|
 |102|[bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io)|Companion webpage for the book "Bayesian Optimization" by Roman Garnett|616|HTML|2021-12-08|2021-08-25|
-|103|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|605|Lua|2021-12-27|2021-07-20|
+|103|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|605|Lua|2021-12-28|2021-07-20|
 |104|[cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)|List of Github repositories and articles with list of dorks for different search engines|604|-|2021-11-29|2021-09-19|
 |105|[stong/infosec-resources](https://github.com/stong/infosec-resources)|A list of helpful cybersecurity / infosec resources|588|-|2021-11-10|2021-11-09|
 |106|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|582|Go|2021-12-24|2021-04-13|
-|107|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|Swift|2021-12-26|2021-04-09|
-|108|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|575|CSS|2021-11-11|2021-10-23|
+|107|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|581|Swift|2021-12-27|2021-04-09|
+|108|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|576|CSS|2021-11-11|2021-10-23|
 |109|[rystsov/awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions)|Awesome list of distributed transactions|575|-|2021-11-08|2021-01-10|
 |110|[vturrisi/solo-learn](https://github.com/vturrisi/solo-learn)|solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning|570|Python|2021-12-26|2021-03-06|
 |111|[microsoft/SoftTeacher](https://github.com/microsoft/SoftTeacher)|Semi-Supervised Learning, Object Detection, ICCV2021|564|Python|2021-11-29|2021-08-06|
@@ -120,19 +120,19 @@
 |113|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|557|JavaScript|2021-12-08|2021-05-31|
 |114|[rbignon/doctoshotgun](https://github.com/rbignon/doctoshotgun)|Script to automatically book a vaccine slot on Doctolib in the next seven days.|552|Python|2021-12-19|2021-05-16|
 |115|[olist213/Information_Security_Books](https://github.com/olist213/Information_Security_Books)|150本信息安全方面的书籍书籍（持续更新）|543|-|2021-12-03|2021-05-03|
-|116|[davidbrochart/nbterm](https://github.com/davidbrochart/nbterm)|Jupyter Notebooks in the terminal.|537|Python|2021-12-12|2021-04-05|
-|117|[alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)|This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |536|Jupyter Notebook|2021-07-06|2021-01-31|
+|116|[alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)|This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |538|Jupyter Notebook|2021-07-06|2021-01-31|
+|117|[davidbrochart/nbterm](https://github.com/davidbrochart/nbterm)|Jupyter Notebooks in the terminal.|537|Python|2021-12-12|2021-04-05|
 |118|[Thinklab-SJTU/awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)|Awesome machine learning for combinatorial optimization papers.|530|Python|2021-12-12|2021-03-21|
 |119|[TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL)|A PyTorch-based library for semi-supervised learning (NeurIPS'21)|523|Python|2021-12-22|2021-10-12|
 |120|[vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)|A curated list of various bug bounty tools|520|-|2021-11-07|2021-01-11|
-|121|[lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)|Implementation of TimeSformer from Facebook AI, a pure attention-based solution for video classification|517|Python|2021-08-25|2021-02-11|
-|122|[leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop)|A curated list of awesome things related to Flutter desktop.|516|-|2021-12-10|2021-09-02|
-|123|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|511|Go|2021-12-24|2021-12-04|
-|124|[storybookjs/testing-react](https://github.com/storybookjs/testing-react)|Testing utilities that allow you to reuse your Storybook stories in your React unit tests!|510|TypeScript|2021-12-08|2021-03-14|
-|125|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |502|Swift|2021-12-26|2021-11-30|
+|121|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|517|Go|2021-12-24|2021-12-04|
+|122|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |517|Swift|2021-12-26|2021-11-30|
+|123|[lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)|Implementation of TimeSformer from Facebook AI, a pure attention-based solution for video classification|517|Python|2021-08-25|2021-02-11|
+|124|[leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop)|A curated list of awesome things related to Flutter desktop.|516|-|2021-12-10|2021-09-02|
+|125|[storybookjs/testing-react](https://github.com/storybookjs/testing-react)|Testing utilities that allow you to reuse your Storybook stories in your React unit tests!|510|TypeScript|2021-12-08|2021-03-14|
 |126|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|497|Rust|2021-11-27|2021-04-16|
-|127|[linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)|A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme|491|-|2021-12-07|2021-07-23|
-|128|[spatial-go/geoos](https://github.com/spatial-go/geoos)|A library provides spatial data and geometric algorithms|490|Go|2021-11-18|2021-03-23|
+|127|[spatial-go/geoos](https://github.com/spatial-go/geoos)|A library provides spatial data and geometric algorithms|493|Go|2021-11-18|2021-03-23|
+|128|[linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)|A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme|491|-|2021-12-07|2021-07-23|
 |129|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|489|Jupyter Notebook|2021-12-26|2021-03-11|
 |130|[ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths)|A collection of special paths linked to major web CVEs, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and ...|488|-|2021-08-22|2021-01-15|
 |131|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|480|JavaScript|2021-10-28|2021-02-17|
@@ -151,15 +151,15 @@
 |144|[weihaox/awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion)|A collection of resources on GAN inversion.|439|-|2021-12-02|2021-03-07|
 |145|[booknlp/booknlp](https://github.com/booknlp/booknlp)|BookNLP, a natural language processing pipeline for books|436|Python|2021-12-03|2021-11-22|
 |146|[CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer)|Coverage-guided, in-process fuzzing for the JVM|436|Java|2021-12-27|2021-01-28|
-|147|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|433|C#|2021-12-26|2021-05-25|
+|147|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|434|C#|2021-12-26|2021-05-25|
 |148|[chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)|A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.|429|C#|2021-12-11|2021-03-10|
 |149|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|428|JavaScript|2021-12-20|2021-01-25|
 |150|[joouha/euporie](https://github.com/joouha/euporie)|Euporie is a text-based user interface for running and editing Jupyter notebooks|426|Python|2021-12-20|2021-05-08|
 |151|[rentruewang/learning-machine](https://github.com/rentruewang/learning-machine)|A handbook for ML built on answers.|426|Jupyter Notebook|2021-12-23|2021-04-04|
 |152|[vercel/examples](https://github.com/vercel/examples)|Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.|425|TypeScript|2021-12-21|2021-10-25|
 |153|[YeWR/EfficientZero](https://github.com/YeWR/EfficientZero)|Open-source codebase for EfficientZero, from "Mastering Atari Games with Limited Data" at NeurIPS 2021.|425|Python|2021-12-14|2021-10-21|
-|154|[RUCAIBox/Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)|Recommender System Papers|422|-|2021-11-16|2021-04-01|
-|155|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|420|C#|2021-12-26|2021-01-26|
+|154|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|424|C#|2021-12-28|2021-01-26|
+|155|[RUCAIBox/Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)|Recommender System Papers|422|-|2021-11-16|2021-04-01|
 |156|[dotansimha/envelop](https://github.com/dotansimha/envelop)|Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system. |419|TypeScript|2021-12-27|2021-02-17|
 |157|[weeeBox/mobile-system-design](https://github.com/weeeBox/mobile-system-design)|A simple framework for mobile system design interviews|418|-|2021-12-13|2021-05-27|
 |158|[nextjournal/clerk](https://github.com/nextjournal/clerk)|Local-First Notebooks for Clojure|418|Clojure|2021-12-13|2021-03-08|
@@ -186,9 +186,9 @@
 |179|[pytorch/data](https://github.com/pytorch/data)|A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.|375|Python|2021-12-23|2021-05-12|
 |180|[Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh)|Android security guides, roadmap, docs, courses, write-ups, and teryaagh. |372|-|2021-12-08|2021-07-06|
 |181|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|371|Swift|2021-09-10|2021-01-20|
-|182|[dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja)|This is an online course where you can learn and master the skill of low-level performance analysis and tuning.|370|C++|2021-12-27|2021-07-20|
-|183|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|370|Kotlin|2021-07-29|2021-04-18|
-|184|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|369|Rust|2021-08-18|2021-08-02|
+|182|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|370|Rust|2021-08-18|2021-08-02|
+|183|[dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja)|This is an online course where you can learn and master the skill of low-level performance analysis and tuning.|370|C++|2021-12-27|2021-07-20|
+|184|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|370|Kotlin|2021-07-29|2021-04-18|
 |185|[Mohitkr95/Best-Data-Science-Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources)|This repository contains the best Data Science free hand-picked resources to equip you with all the industry-driven skills and interview preparation kit.|369|Jupyter Notebook|2021-06-13|2021-06-13|
 |186|[relogX/system-design-questions](https://github.com/relogX/system-design-questions)|Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass|367|Python|2021-12-12|2021-10-19|
 |187|[chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui)|A collection of Chakra UI-related awesomeness|366|-|2021-12-11|2021-03-29|

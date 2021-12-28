@@ -10,7 +10,7 @@
 |3|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|243|2021-12-23|2021-12-11|
 |4|[lindeloev/job](https://github.com/lindeloev/job)|job: free Your RStudio Console|213|2021-06-10|2021-04-25|
 |5|[NCIC-PARALLEL/Graphine-SDK](https://github.com/NCIC-PARALLEL/Graphine-SDK)|-|192|2021-07-22|2021-07-22|
-|6|[cjbarrie/academictwitteR](https://github.com/cjbarrie/academictwitteR)|Repo for academictwitteR package to query the Twitter Academic Research Product Track v2 API endpoint.|187|2021-12-22|2021-02-18|
+|6|[cjbarrie/academictwitteR](https://github.com/cjbarrie/academictwitteR)|Repo for academictwitteR package to query the Twitter Academic Research Product Track v2 API endpoint.|188|2021-12-22|2021-02-18|
 |7|[Azure/Microsoft365R](https://github.com/Azure/Microsoft365R)|R SDK for interacting with Microsoft 365 APIs|169|2021-11-24|2021-01-11|
 |8|[eusporg/alphaicon](https://github.com/eusporg/alphaicon)|α-Indirect Control in Onion-like Networks|146|2021-10-01|2021-09-16|
 |9|[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)|A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob|117|2021-12-22|2021-01-01|
@@ -23,10 +23,10 @@
 |16|[HudsonJamie/tidy_tuesday](https://github.com/HudsonJamie/tidy_tuesday)|Scripts from Tidy Tuesday fun|90|2021-12-21|2021-03-15|
 |17|[svalvaro/drawCell](https://github.com/svalvaro/drawCell)|R package to create cell pictures.|86|2021-10-27|2021-07-21|
 |18|[SebKrantz/fastverse](https://github.com/SebKrantz/fastverse)|An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R|86|2021-09-01|2021-03-11|
-|19|[vincentarelbundock/marginaleffects](https://github.com/vincentarelbundock/marginaleffects)|An R package to compute marginal effects, adjusted predictions, contrasts, and marginal means for a wide variety of models|83|2021-12-27|2021-09-06|
-|20|[MilesMcBain/paint](https://github.com/MilesMcBain/paint)|paint the data|71|2021-11-10|2021-07-28|
-|21|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|An R package for making generative art using 'ggplot2'.|71|2021-12-27|2021-04-08|
-|22|[RamiKrispin/USelectricity](https://github.com/RamiKrispin/USelectricity)|Forecast the US demand for electricity |71|2021-12-27|2021-01-14|
+|19|[vincentarelbundock/marginaleffects](https://github.com/vincentarelbundock/marginaleffects)|An R package to compute marginal effects, adjusted predictions, contrasts, and marginal means for a wide variety of models|83|2021-12-28|2021-09-06|
+|20|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|An R package for making generative art using 'ggplot2'.|72|2021-12-28|2021-04-08|
+|21|[MilesMcBain/paint](https://github.com/MilesMcBain/paint)|paint the data|71|2021-11-10|2021-07-28|
+|22|[RamiKrispin/USelectricity](https://github.com/RamiKrispin/USelectricity)|Forecast the US demand for electricity |71|2021-12-28|2021-01-14|
 |23|[h-a-graham/rayvista](https://github.com/h-a-graham/rayvista)|An R plugin for {rayshader} to view a 3D vista anywhere on earth.|70|2021-11-12|2021-05-07|
 |24|[BIMSBbioinfo/compgen2021](https://github.com/BIMSBbioinfo/compgen2021)|-|64|2021-09-13|2021-07-16|
 |25|[R-CoderDotCom/ggcats](https://github.com/R-CoderDotCom/ggcats)|The geom you always wished for adding cats to ggplot2|64|2021-07-15|2021-01-26|
@@ -38,7 +38,7 @@
 |31|[rossdrucker/sportyR](https://github.com/rossdrucker/sportyR)|R package for drawing regulation playing surfaces for several sports|59|2021-11-03|2021-03-21|
 |32|[bkelly-lab/ReplicationCrisis](https://github.com/bkelly-lab/ReplicationCrisis)|Code for "Is There a Replication Crisis in Finance" by Jensen, Kelly and Pedersen (2021)|58|2021-12-23|2021-01-15|
 |33|[easystats/datawizard](https://github.com/easystats/datawizard)|Magic potions to clean and transform your data 🧙 |56|2021-12-10|2021-05-26|
-|34|[coolbutuseless/ggsvg](https://github.com/coolbutuseless/ggsvg)|Use SVG images as ggplot points|54|2021-12-24|2021-12-23|
+|34|[coolbutuseless/ggsvg](https://github.com/coolbutuseless/ggsvg)|Use SVG images as ggplot points|55|2021-12-24|2021-12-23|
 |35|[MilesMcBain/tflow](https://github.com/MilesMcBain/tflow)|An opinionated lightweight template for smooth targets flows.|54|2021-12-22|2021-01-21|
 |36|[jnolis/ggirl](https://github.com/jnolis/ggirl)|Make GGplots In Real Life|51|2021-08-10|2021-03-16|
 |37|[Roche-GSK/admiral](https://github.com/Roche-GSK/admiral)|ADaM in R Asset Library|50|2021-12-22|2021-03-18|
@@ -55,9 +55,9 @@
 |48|[mrjoh3/ggtrack](https://github.com/mrjoh3/ggtrack)|-|39|2021-07-20|2021-06-01|
 |49|[feddelegrand7/ddplot](https://github.com/feddelegrand7/ddplot)|Create D3 based SVG graphics easily from R|39|2021-07-12|2021-04-24|
 |50|[ModelOriented/forester](https://github.com/ModelOriented/forester)|Trees are all you need|38|2021-12-12|2021-07-16|
-|51|[BradyAJohnston/figpatch](https://github.com/BradyAJohnston/figpatch)|Easily Arrange Images with Patchwork Alongside ggplot2 Figures.|37|2021-10-28|2021-06-05|
-|52|[mlverse/luz](https://github.com/mlverse/luz)|Higher Level API for torch|37|2021-12-21|2021-04-23|
-|53|[schochastics/roughsf](https://github.com/schochastics/roughsf)|R package to draw sketchy, hand-drawn-like maps with roughjs|36|2021-12-08|2021-11-04|
+|51|[schochastics/roughsf](https://github.com/schochastics/roughsf)|R package to draw sketchy, hand-drawn-like maps with roughjs|37|2021-12-08|2021-11-04|
+|52|[BradyAJohnston/figpatch](https://github.com/BradyAJohnston/figpatch)|Easily Arrange Images with Patchwork Alongside ggplot2 Figures.|37|2021-10-28|2021-06-05|
+|53|[mlverse/luz](https://github.com/mlverse/luz)|Higher Level API for torch|37|2021-12-21|2021-04-23|
 |54|[lili-lei/SummerSchool2021_MLAS](https://github.com/lili-lei/SummerSchool2021_MLAS)|-|36|2021-09-01|2021-08-07|
 |55|[kylebutts/did2s](https://github.com/kylebutts/did2s)|Two-stage Difference-in-Differences package following Gardner (2021)|36|2021-12-02|2021-05-24|
 |56|[AlbertoAlmuinha/boostime](https://github.com/AlbertoAlmuinha/boostime)|The Tidymodels Extension for Time Series Boosting Models|36|2021-08-10|2021-05-19|
@@ -72,7 +72,7 @@
 |65|[dreamRs/toastui](https://github.com/dreamRs/toastui)|R htmlwidgets for ToastUI libraries: grid, calendar and chart|32|2021-12-18|2021-04-21|
 |66|[hrbrmstr/hrbragg](https://github.com/hrbrmstr/hrbragg)|Typography-centric Themes, Theme Components, and Utilities for 'ggplot2' and 'ragg'.|32|2021-12-22|2021-02-16|
 |67|[wlandau/targets-shiny](https://github.com/wlandau/targets-shiny)|Example Shiny app containing a targets pipeline.|32|2021-06-02|2021-02-14|
-|68|[covid19-forecast-hub-europe/covid19-forecast-hub-europe](https://github.com/covid19-forecast-hub-europe/covid19-forecast-hub-europe)|European Covid-19 Forecast Hub.|32|2021-12-27|2021-01-13|
+|68|[covid19-forecast-hub-europe/covid19-forecast-hub-europe](https://github.com/covid19-forecast-hub-europe/covid19-forecast-hub-europe)|European Covid-19 Forecast Hub.|32|2021-12-28|2021-01-13|
 |69|[ropensci/katex](https://github.com/ropensci/katex)|Server side math to html rendering in R|31|2021-09-14|2021-06-30|
 |70|[McGranahanLab/TcellExTRECT](https://github.com/McGranahanLab/TcellExTRECT)|-|30|2021-11-17|2021-07-30|
 |71|[Nowosad/supercells](https://github.com/Nowosad/supercells)|The goal of supercells is to utilize the concept of superpixels to a variety of spatial data. |30|2021-12-05|2021-04-27|
@@ -98,13 +98,13 @@
 |91|[olihawkins/tabbycat](https://github.com/olihawkins/tabbycat)|An R package for tabulating and summarising categorical variables.|25|2021-11-24|2021-09-19|
 |92|[moodymudskipper/myverse](https://github.com/moodymudskipper/myverse)|Easily Load a Set of Packages|25|2021-08-18|2021-08-18|
 |93|[coolbutuseless/facetious](https://github.com/coolbutuseless/facetious)|Home to some alternate facetting for ggplot2|25|2021-07-21|2021-07-20|
-|94|[saezlab/liana](https://github.com/saezlab/liana)|LIANA: a LIgand-receptor ANalysis frAmework|25|2021-12-17|2021-01-27|
-|95|[abhiamishra/ggshakeR](https://github.com/abhiamishra/ggshakeR)|An analysis and visualization R package that works with publicly available soccer data|24|2021-12-23|2021-09-08|
-|96|[JohnCoene/awn](https://github.com/JohnCoene/awn)|Awesome notifications for shiny|24|2021-08-20|2021-08-12|
-|97|[R-CoderDotCom/ggdogs](https://github.com/R-CoderDotCom/ggdogs)|The geom you always wished for adding dogs to ggplot2|24|2021-11-24|2021-07-12|
-|98|[pierreroudier/hillshader](https://github.com/pierreroudier/hillshader)|Create Shaded Relief Maps using Ray-Tracing|24|2021-06-10|2021-06-02|
-|99|[jonathandroth/pretrends](https://github.com/jonathandroth/pretrends)|R package for power calculations and visualization for pre-trends tests|24|2021-10-13|2021-04-16|
-|100|[neurorestore/Libra](https://github.com/neurorestore/Libra)|-|24|2021-09-11|2021-03-09|
+|94|[neurorestore/Libra](https://github.com/neurorestore/Libra)|-|25|2021-09-11|2021-03-09|
+|95|[saezlab/liana](https://github.com/saezlab/liana)|LIANA: a LIgand-receptor ANalysis frAmework|25|2021-12-17|2021-01-27|
+|96|[abhiamishra/ggshakeR](https://github.com/abhiamishra/ggshakeR)|An analysis and visualization R package that works with publicly available soccer data|24|2021-12-23|2021-09-08|
+|97|[JohnCoene/awn](https://github.com/JohnCoene/awn)|Awesome notifications for shiny|24|2021-08-20|2021-08-12|
+|98|[R-CoderDotCom/ggdogs](https://github.com/R-CoderDotCom/ggdogs)|The geom you always wished for adding dogs to ggplot2|24|2021-11-24|2021-07-12|
+|99|[pierreroudier/hillshader](https://github.com/pierreroudier/hillshader)|Create Shaded Relief Maps using Ray-Tracing|24|2021-06-10|2021-06-02|
+|100|[jonathandroth/pretrends](https://github.com/jonathandroth/pretrends)|R package for power calculations and visualization for pre-trends tests|24|2021-10-13|2021-04-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

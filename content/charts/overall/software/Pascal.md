@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9915|2021-12-16|
+|1|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9917|2021-12-16|
 |2|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6977|2021-12-27|
 |3|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2874|2021-12-27|
-|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2617|2021-11-28|
+|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2618|2021-11-28|
 |5|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2496|2021-09-15|
 |6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1430|2021-12-22|
-|7|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|1313|2021-12-20|
+|7|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|1314|2021-12-20|
 |8|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1302|2021-11-25|
 |9|[salvadordf/CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|893|2021-12-23|
 |10|[danieleteti/delphimvcframework](https://github.com/danieleteti/delphimvcframework)|DMVCFramework (for short) is a popular and powerful framework for web solution in Delphi. Supports RESTful and JSON-RPC APIs development.|875|2021-12-27|
 |11|[DarkCoderSc/win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon)|Crack any Microsoft Windows users password without any privilege (Guest account included)|711|2021-12-01|
-|12|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|698|2021-12-27|
+|12|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|699|2021-12-27|
 |13|[pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)|Pyscripter is a feature-rich but lightweight Python IDE|673|2021-12-18|
 |14|[synopse/mORMot](https://github.com/synopse/mORMot)|Synopse mORMot ORM/SOA/MVC framework|671|2021-12-22|
 |15|[MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo)|Convenient unified display of the most relevant technical and tag data for video and audio files.|666|2021-11-29|
@@ -26,8 +26,8 @@
 |19|[RRUZ/delphi-ide-theme-editor](https://github.com/RRUZ/delphi-ide-theme-editor)|Custom color highlighting for Object Pascal IDE's|548|2021-10-23|
 |20|[project-jedi/jcl](https://github.com/project-jedi/jcl)|JEDI Code Library|523|2021-11-10|
 |21|[UltraStar-Deluxe/USDX](https://github.com/UltraStar-Deluxe/USDX)|The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™|499|2021-12-16|
-|22|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|487|2021-09-02|
-|23|[project-jedi/jvcl](https://github.com/project-jedi/jvcl)|JEDI Visual Component Library|487|2021-11-09|
+|22|[project-jedi/jvcl](https://github.com/project-jedi/jvcl)|JEDI Visual Component Library|488|2021-11-09|
+|23|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|487|2021-09-02|
 |24|[JAM-Software/Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|Virtual Treeview is a Delphi treeview control|485|2021-12-27|
 |25|[HashLoad/horse](https://github.com/HashLoad/horse)|Fast, opinionated, minimalist web framework for Delphi|482|2021-12-22|
 |26|[TES5Edit/TES5Edit](https://github.com/TES5Edit/TES5Edit)|xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp|475|2021-12-01|
@@ -40,11 +40,11 @@
 |33|[gabr42/OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary)|A simple and powerful multithreading library for Delphi|368|2021-10-26|
 |34|[pleriche/FastMM4](https://github.com/pleriche/FastMM4)|A memory manager for Delphi and C++ Builder with powerful debugging facilities|357|2021-11-18|
 |35|[Spelt/ZXing.Delphi](https://github.com/Spelt/ZXing.Delphi)|ZXing Barcode Scanning object Pascal Library for Delphi VCL and Delphi Firemonkey|357|2021-12-05|
-|36|[SynEdit/SynEdit](https://github.com/SynEdit/SynEdit)|SynEdit main project|349|2021-12-10|
+|36|[SynEdit/SynEdit](https://github.com/SynEdit/SynEdit)|SynEdit main project|350|2021-12-10|
 |37|[rejetto/hfs2](https://github.com/rejetto/hfs2)|web based file server|345|2021-12-22|
-|38|[remobjects/pascalscript](https://github.com/remobjects/pascalscript)|pascalscript|344|2021-11-12|
+|38|[remobjects/pascalscript](https://github.com/remobjects/pascalscript)|pascalscript|345|2021-11-12|
 |39|[exilon/QuickLib](https://github.com/exilon/QuickLib)|Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Json and Yml Config and Options pattern, Serializers, etc) with crossplatform support for Delphi/Fi ...|336|2021-12-11|
-|40|[devlooped/GitInfo](https://github.com/devlooped/GitInfo)|Git and SemVer Info from MSBuild, C# and VB|334|2021-12-27|
+|40|[devlooped/GitInfo](https://github.com/devlooped/GitInfo)|Git and SemVer Info from MSBuild, C# and VB|334|2021-12-28|
 |41|[ahausladen/JsonDataObjects](https://github.com/ahausladen/JsonDataObjects)|JSON parser for Delphi 2009 and newer|333|2021-09-10|
 |42|[viniciussanchez/dataset-serialize](https://github.com/viniciussanchez/dataset-serialize)|JSON to DataSet and DataSet to JSON converter for Delphi and Lazarus (FPC)|322|2021-11-24|
 |43|[VSoftTechnologies/DUnitX](https://github.com/VSoftTechnologies/DUnitX)|Delphi Unit Test Framework|322|2021-12-20|
@@ -53,10 +53,10 @@
 |46|[paolo-rossi/delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)|307|2021-11-04|
 |47|[Altium-Designer-addons/scripts-libraries](https://github.com/Altium-Designer-addons/scripts-libraries)|Set of community add-ons for Altium Designer|304|2021-12-10|
 |48|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|296|2021-10-03|
-|49|[andrea-magni/MARS](https://github.com/andrea-magni/MARS)|MARS-Curiosity Delphi REST Library|286|2021-12-10|
-|50|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|285|2021-12-23|
+|49|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|287|2021-12-23|
+|50|[andrea-magni/MARS](https://github.com/andrea-magni/MARS)|MARS-Curiosity Delphi REST Library|286|2021-12-10|
 |51|[asiekierka/reconstruction-of-zzt](https://github.com/asiekierka/reconstruction-of-zzt)|The Reconstruction of ZZT|284|2021-12-26|
-|52|[tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)|Next generation of Tomboy|271|2021-12-18|
+|52|[tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)|Next generation of Tomboy|271|2021-12-28|
 |53|[IndySockets/Indy](https://github.com/IndySockets/Indy)|Indy - Internet Direct|270|2021-11-30|
 |54|[MartinDrab/IRPMon](https://github.com/MartinDrab/IRPMon)|The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of  ...|267|2021-09-29|
 |55|[bgrabitmap/lazpaint](https://github.com/bgrabitmap/lazpaint)|🎨 Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)|267|2021-12-23|

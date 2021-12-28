@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2628|2021-12-26|2021-03-29|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|224|2021-12-20|2021-01-31|
-|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|187|2021-11-08|2021-02-05|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|2021-12-20|2021-01-31|
+|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|188|2021-11-08|2021-02-05|
 |4|[GetStream/flutter-samples](https://github.com/GetStream/flutter-samples)|A collection of sample apps that use Stream|175|2021-12-15|2021-02-01|
 |5|[dancamdev/UIs](https://github.com/dancamdev/UIs)|A collection of UIs built by Dancamdev in Flutter|165|2021-09-24|2021-01-13|
 |6|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|135|2021-10-24|2021-05-28|
-|7|[thlorenz/rid-examples](https://github.com/thlorenz/rid-examples)|Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.|134|2021-10-02|2021-05-12|
+|7|[thlorenz/rid-examples](https://github.com/thlorenz/rid-examples)|Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.|135|2021-10-02|2021-05-12|
 |8|[antz22/ultimate-guide-to-flutter](https://github.com/antz22/ultimate-guide-to-flutter)|A comprehensive guide on learning how to code cross platform mobile applications with the Flutter framework, from the ground up.|128|2021-11-04|2021-08-03|
 |9|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|126|2021-10-21|2021-04-08|
 |10|[sbis04/flutterfire-samples](https://github.com/sbis04/flutterfire-samples)|Firebase + Flutter sample apps with code snippets, supported by comprehensive articles for each implementation.|99|2021-08-13|2021-03-04|
@@ -40,8 +40,8 @@
 |33|[VGVentures/robot_testing](https://github.com/VGVentures/robot_testing)|How to use the Robot Testing pattern in Flutter|25|2021-12-23|2021-03-17|
 |34|[EsraKantarci/mirasapp](https://github.com/EsraKantarci/mirasapp)|Flutter based UI for legal inheritance share calculator|24|2021-06-24|2021-05-02|
 |35|[faisalramdan17/car_rental_lite](https://github.com/faisalramdan17/car_rental_lite)|A platform for car sharing where users can book any car that suits their needs and wants for their intended journey, from the closest hosts in the community.|23|2021-10-05|2021-03-07|
-|36|[talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter)|Flutter guide + SDK. Check Community repository for common information.|22|2021-12-21|2021-08-12|
-|37|[Wizpna/flutter_deepar](https://github.com/Wizpna/flutter_deepar)|A simple project demonstrating how to build a face filter app using Flutter and Deep AR|22|2021-07-11|2021-01-02|
+|36|[Wizpna/flutter_deepar](https://github.com/Wizpna/flutter_deepar)|A simple project demonstrating how to build a face filter app using Flutter and Deep AR|23|2021-07-11|2021-01-02|
+|37|[talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter)|Flutter guide + SDK. Check Community repository for common information.|22|2021-12-21|2021-08-12|
 |38|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|21|2021-09-20|2021-09-08|
 |39|[geekadpt/flutter_locyin](https://github.com/geekadpt/flutter_locyin)|A map tour guide mobile app based on Flutter, an AI travel notes product integrating map tour guide and UGC.|21|2021-10-29|2021-07-18|
 |40|[GhostWalker562/flutterbook](https://github.com/GhostWalker562/flutterbook)|📓 Storyboard your components with Flutterbook. Develop, document, & test any kind of Flutter component.|21|2021-12-21|2021-07-09|
@@ -69,9 +69,9 @@
 |62|[Scaape/Scaape-flutter-FE](https://github.com/Scaape/Scaape-flutter-FE)|Scaape, a first-of-its-kind social hangout app that makes organizing group hangouts with people who share similar interests as simple as shooting fish in a barrel.|11|2021-12-22|2021-09-21|
 |63|[abi-raj/LibHive-Mobile-App](https://github.com/abi-raj/LibHive-Mobile-App)|A Mobile Application to Download Books|11|2021-07-28|2021-07-28|
 |64|[ahmedihabb2/CMP-CREW](https://github.com/ahmedihabb2/CMP-CREW)|Tired of collecting your friends’ orders at restaurants? Lost track of how many of you want tea? Don’t worry we got you covered! Use CMP Crew, Create a room, invite your friends to join, and let them  ...|11|2021-10-09|2021-07-15|
-|65|[CCExtractor/beacon](https://github.com/CCExtractor/beacon)|Flutter application to share location with a group. (under development)|11|2021-12-27|2021-04-04|
+|65|[CCExtractor/beacon](https://github.com/CCExtractor/beacon)|Flutter application to share location with a group. (under development)|11|2021-12-28|2021-04-04|
 |66|[SnippetCoders/flutter_admob](https://github.com/SnippetCoders/flutter_admob)|In this video, we learn how to do integrate Google Admob with Flutter with latest Flutter 2.0 Google Admob Package.|11|2021-09-09|2021-03-04|
-|67|[canonical/ubuntu-flutter-plugins](https://github.com/canonical/ubuntu-flutter-plugins)|A collection of Flutter plugins and packages for Ubuntu applications.|10|2021-12-17|2021-11-15|
+|67|[canonical/ubuntu-flutter-plugins](https://github.com/canonical/ubuntu-flutter-plugins)|A collection of Flutter plugins and packages for Ubuntu applications.|10|2021-12-27|2021-11-15|
 |68|[lau1944/just_audio_cache](https://github.com/lau1944/just_audio_cache)|Collection of extension function of just_audio package for auto-handle caching|10|2021-09-22|2021-08-04|
 |69|[Sounmay/Prayas-Booking-App](https://github.com/Sounmay/Prayas-Booking-App)|Flutter application for booking services as part of a freelance project, with backend in Firebase. |10|2021-12-08|2021-05-21|
 |70|[mhadaily/pluralsight-firebase-flutter](https://github.com/mhadaily/pluralsight-firebase-flutter)|A public repository for Pluralsight Futter Firebase course |10|2021-10-22|2021-03-13|

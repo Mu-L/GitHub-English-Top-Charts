@@ -5,19 +5,19 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28343|2021-12-08|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28344|2021-12-08|
 |2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20631|2021-12-10|
 |3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11599|2021-12-27|
 |4|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8963|2021-12-20|
-|5|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5975|2021-12-22|
+|5|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5976|2021-12-22|
 |6|[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)|A curated list of SVG. |4234|2021-12-13|
 |7|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|3912|2021-12-27|
 |8|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3367|2021-09-21|
 |9|[hashie/hashie](https://github.com/hashie/hashie)|Hashie is a collection of classes and mixins that make Ruby hashes more powerful.|2788|2021-12-11|
 |10|[hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)|A collection of awesome Ruby Gems for Rails development.|2754|2021-10-03|
-|11|[kanwei/algorithms](https://github.com/kanwei/algorithms)|Ruby algorithms and data structures. C extensions|2553|2021-12-09|
+|11|[kanwei/algorithms](https://github.com/kanwei/algorithms)|Ruby algorithms and data structures. C extensions|2554|2021-12-09|
 |12|[sharetribe/sharetribe](https://github.com/sharetribe/sharetribe)|Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. For a headless, API-first marketplace solution, check out Sharetribe Flex: https://www.share ...|2187|2021-12-22|
-|13|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2075|2021-11-12|
+|13|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2076|2021-11-12|
 |14|[ryanb/nifty-generators](https://github.com/ryanb/nifty-generators)|A collection of useful Rails generator scripts.|2000|2021-12-11|
 |15|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1811|2021-12-27|
 |16|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|2021-07-15|
@@ -65,7 +65,7 @@
 |58|[sous-chefs/aws](https://github.com/sous-chefs/aws)|Development repository for the aws cookbook|493|2021-11-06|
 |59|[cmer/gigabyte-z390-aorus-master-hackintosh](https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh)|A guide to build your own Hackintosh based on Gigabyte Z390 Aorus Master|486|2021-10-19|
 |60|[phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub)|A list of all the companies WFH or events changed because of covid-19|480|2021-09-28|
-|61|[Selleo/pattern](https://github.com/Selleo/pattern)|A collection of lightweight, standardized, rails-oriented patterns.|470|2021-12-10|
+|61|[Selleo/pattern](https://github.com/Selleo/pattern)|A collection of lightweight, standardized, rails-oriented patterns.|471|2021-12-10|
 |62|[railstutorial/sample_app](https://github.com/railstutorial/sample_app)|Ruby on Rails Tutorial sample application|460|2021-09-27|
 |63|[trainline-eu/stations](https://github.com/trainline-eu/stations)|List of stations and associated metadata|453|2021-12-22|
 |64|[xcatliu/jekyllcn](https://github.com/xcatliu/jekyllcn)|Jekyll 的中文翻译网站|447|2021-09-02|
@@ -93,7 +93,7 @@
 |86|[mischa78/boxroom](https://github.com/mischa78/boxroom)|Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage  ...|318|2021-11-04|
 |87|[codelitt/launchpage-rails](https://github.com/codelitt/launchpage-rails)|Prelaunch MVP landing page (open source alternative to LaunchRock) to get you going quickly so you can focus on your product. Written in Ruby and Rails 4.2 with email collection for two or more user t ...|317|2021-09-27|
 |88|[ankane/tensorflow-ruby](https://github.com/ankane/tensorflow-ruby)|Deep learning for Ruby|313|2021-10-30|
-|89|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|313|2021-12-24|
+|89|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|313|2021-12-27|
 |90|[madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails)|Learn best practices to build an API using Ruby on Rails 5/6|311|2021-12-02|
 |91|[gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training)|Materials for learning how to use infrastructure-as-code|308|2021-11-18|
 |92|[hendotcat/ppl](https://github.com/hendotcat/ppl)|The command line address book|299|2021-11-01|
@@ -101,7 +101,7 @@
 |94|[WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard)|Wiki Education Foundation's Wikipedia course dashboard system|283|2021-12-27|
 |95|[RailsApps/rails3-subdomains](https://github.com/RailsApps/rails3-subdomains)|An example Rails 3.2 app with subdomains and authentication using Devise. With a tutorial.|274|2021-09-27|
 |96|[arsduo/batch_api](https://github.com/arsduo/batch_api)|A Facebook-style, RESTful Batch API|270|2021-09-27|
-|97|[sous-chefs/apache2](https://github.com/sous-chefs/apache2)|Development repository for the apache2 cookbook|269|2021-11-03|
+|97|[sous-chefs/apache2](https://github.com/sous-chefs/apache2)|Development repository for the apache2 cookbook|270|2021-11-03|
 |98|[activeadmin/demo.activeadmin.info](https://github.com/activeadmin/demo.activeadmin.info)|A store application to use in tutorials for Active Admin|260|2021-09-27|
 |99|[oscardelben/sheet](https://github.com/oscardelben/sheet)|Text snippets for the command line|247|2021-09-02|
 |100|[Esri/arcgis-cookbook](https://github.com/Esri/arcgis-cookbook)|Chef cookbooks for ArcGIS |239|2021-12-03|

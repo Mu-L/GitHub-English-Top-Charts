@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28343|10|2021-12-08|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28344|10|2021-12-08|
 |2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|20631|9|2021-12-10|
 |3|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|11599|3|2021-12-27|
-|4|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5975|3|2021-12-22|
+|4|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5976|3|2021-12-22|
 |5|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|8963|3|2021-12-20|
-|6|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2075|2|2021-11-12|
+|6|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|2076|2|2021-11-12|
 |7|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|46|2|2021-12-03|
 |8|[testdouble/standard](https://github.com/testdouble/standard)|🌟 Ruby Style Guide, with linter & automatic code fixer|1811|2|2021-12-27|
-|9|[hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge)|A collection of reverse engineered Apple formats|34|2|2021-12-27|
+|9|[hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge)|A collection of reverse engineered Apple formats|38|2|2021-12-27|
 |10|[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)|A curated list of SVG. |4234|2|2021-12-13|
 |11|[fastlane/examples](https://github.com/fastlane/examples)|📝 A collection of example fastlane setups|1338|1|2021-11-16|
 |12|[sharetribe/sharetribe](https://github.com/sharetribe/sharetribe)|Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. For a headless, API-first marketplace solution, check out Sharetribe Flex: https://www.share ...|2187|1|2021-12-22|
@@ -27,7 +27,7 @@
 |20|[phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub)|A list of all the companies WFH or events changed because of covid-19|480|1|2021-09-28|
 |21|[pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst)|A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio ...|554|1|2021-12-26|
 |22|[ankane/torch.rb](https://github.com/ankane/torch.rb)|Deep learning for Ruby, powered by LibTorch|388|1|2021-12-17|
-|23|[kanwei/algorithms](https://github.com/kanwei/algorithms)|Ruby algorithms and data structures. C extensions|2553|1|2021-12-09|
+|23|[kanwei/algorithms](https://github.com/kanwei/algorithms)|Ruby algorithms and data structures. C extensions|2554|1|2021-12-09|
 |24|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3367|1|2021-09-21|
 |25|[snibox/snibox](https://github.com/snibox/snibox)|Self-hosted snippet manager|1346|1|2021-12-19|
 |26|[elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)|Ansible playbook for Elasticsearch|1475|1|2021-12-20|
@@ -102,7 +102,7 @@
 |95|[sous-chefs/vim](https://github.com/sous-chefs/vim)|Development repository for the vim cookbook|41|0|2021-08-30|
 |96|[openstack/cookbook-openstack-ops-database](https://github.com/openstack/cookbook-openstack-ops-database)|Chef Cookbook - Support Cookbook for Database. Mirror of code maintained at opendev.org.|36|0|2021-10-24|
 |97|[janlelis/relaxed.ruby.style](https://github.com/janlelis/relaxed.ruby.style)|A Relaxed Style Guide for Ruby & Configuration for RuboCop|69|0|2021-08-09|
-|98|[sous-chefs/yum-epel](https://github.com/sous-chefs/yum-epel)|Development repository for the yum-epel cookbook|22|0|2021-12-17|
+|98|[sous-chefs/yum-epel](https://github.com/sous-chefs/yum-epel)|Development repository for the yum-epel cookbook|22|0|2021-12-27|
 |99|[LearnITGirl/WebPlatform](https://github.com/LearnITGirl/WebPlatform)| Web platform for the "Learn IT, Girl" program|45|0|2021-12-12|
 |100|[asciidoctor/docbookrx](https://github.com/asciidoctor/docbookrx)|(An early version of) a DocBook to AsciiDoc converter written in Ruby.|19|0|2021-07-03|
 

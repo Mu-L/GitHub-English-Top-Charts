@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8684|20|2021-12-16|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8686|20|2021-12-16|
 |2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5785|8|2021-12-23|
 |3|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|1|2021-12-20|
-|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1885|1|2021-12-27|
+|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1885|1|2021-12-28|
 |5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|304|1|2021-12-16|
 |6|[paulobruno/LearningGbAsm](https://github.com/paulobruno/LearningGbAsm)|Learning Game Boy Z80 Assembly|7|0|2021-07-23|
 |7|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|44|0|2021-08-18|
@@ -52,7 +52,7 @@
 |45|[takenobu-hs/cpu-assembly-examples](https://github.com/takenobu-hs/cpu-assembly-examples)|CPU assembly examples|8|0|2021-08-14|
 |46|[OSToastBach/BBC-Micro-Assembly](https://github.com/OSToastBach/BBC-Micro-Assembly)|My currently learning progress on 6502 assembly for the BBC Micro/Master|3|0|2021-07-08|
 |47|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|4|0|2021-12-27|
-|48|[am0nsec/vx](https://github.com/am0nsec/vx)|Virus Exchange (VX) - Collection of malware or assembly code used for "offensive" purposed.|81|0|2021-12-10|
+|48|[am0nsec/vx](https://github.com/am0nsec/vx)|Virus Exchange (VX) - Collection of malware or assembly code used for "offensive" purposed.|82|0|2021-12-10|
 |49|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|0|2021-12-27|
 |50|[edoardottt/Asm_mars_examples](https://github.com/edoardottt/Asm_mars_examples)|Some of my assembly code ( examples, iterative and recursive algorithms ) from Computer's Architecture course in Sapienza University, CS Bachelor Degree :floppy_disk:|13|0|2021-09-08|
 |51|[civboot/triforth](https://github.com/civboot/triforth)|A typeforth implementation in tutorial-style assembly and forth (WIP)|7|0|2021-07-30|
@@ -65,7 +65,7 @@
 |58|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|10|0|2021-09-06|
 |59|[jishanshaikh4/8086-cheatsheet](https://github.com/jishanshaikh4/8086-cheatsheet)|PDF Cheatsheet - 8086 Microprocessor|39|0|2021-08-01|
 |60|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|25|0|2021-12-09|
-|61|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|0|2021-12-27|
+|61|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|0|2021-12-28|
 |62|[warpmatrix/embedded-assembly](https://github.com/warpmatrix/embedded-assembly)|some assembly code for embedded OS in SYSU（中山大学嵌入式操作系统的一些汇编代码）|3|0|2021-08-09|
 |63|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|0|2021-06-18|
 |64|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|5|0|2021-12-08|

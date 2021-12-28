@@ -27,15 +27,15 @@
 |20|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
 |21|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|4|2021-10-14|2021-07-26|
 |22|[jeffellin/petclinic-cicd](https://github.com/jeffellin/petclinic-cicd)|-|4|2021-07-21|2021-07-11|
-|23|[amosyuen/hubitat](https://github.com/amosyuen/hubitat)|Hubitat Apps and Drivers|4|2021-12-11|2021-01-05|
-|24|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
-|25|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
-|26|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2021-12-24|2021-07-27|
-|27|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
-|28|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
-|29|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
-|30|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
-|31|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|3|2021-12-10|2021-01-23|
+|23|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|4|2021-12-10|2021-01-23|
+|24|[amosyuen/hubitat](https://github.com/amosyuen/hubitat)|Hubitat Apps and Drivers|4|2021-12-11|2021-01-05|
+|25|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
+|26|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
+|27|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2021-12-24|2021-07-27|
+|28|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
+|29|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
+|30|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
+|31|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
 |32|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
 |33|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
 |34|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
@@ -66,7 +66,7 @@
 |59|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
 |60|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
 |61|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-27|2021-02-05|
+|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-28|2021-02-05|
 |63|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 |64|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 

@@ -45,7 +45,7 @@
 |38|[AammarTufail/R_with_Aammar](https://github.com/AammarTufail/R_with_Aammar)|We upload the contents of our Data Science Course in this repository|8|2021-12-15|2021-11-20|
 |39|[alexanderbrenning/wiml](https://github.com/alexanderbrenning/wiml)|Interpreting machine-learning models in transformed space|8|2021-12-21|2021-03-09|
 |40|[marneypratt/r4bio](https://github.com/marneypratt/r4bio)|Intro to R for Biology learnr Tutorials|8|2021-06-23|2021-02-07|
-|41|[bayesball/ShinyBaseball](https://github.com/bayesball/ShinyBaseball)|Collection of Shiny apps for exploring baseball data.|8|2021-12-13|2021-02-06|
+|41|[bayesball/ShinyBaseball](https://github.com/bayesball/ShinyBaseball)|Collection of Shiny apps for exploring baseball data.|8|2021-12-27|2021-02-06|
 |42|[data-cleaning/useR2021_tutorial](https://github.com/data-cleaning/useR2021_tutorial)|Materials for the useR!2021 tutorial on data validation|8|2021-08-26|2021-02-03|
 |43|[FredHutch/R_Package_Validation_Tutorial](https://github.com/FredHutch/R_Package_Validation_Tutorial)|Bookdown Tutorial for R Package Validation Framework|8|2021-11-05|2021-01-19|
 |44|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|7|2021-11-02|2021-10-07|

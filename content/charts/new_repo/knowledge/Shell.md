@@ -15,7 +15,7 @@
 |8|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|94|2021-12-27|2021-05-07|
 |9|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|79|2021-10-28|2021-02-23|
 |10|[joao99sb/OwnLinuxDistro](https://github.com/joao99sb/OwnLinuxDistro)|My Logbook through this sea of technology|78|2021-11-05|2021-09-24|
-|11|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|73|2021-12-08|2021-05-14|
+|11|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|73|2021-12-28|2021-05-14|
 |12|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|68|2021-12-25|2021-03-30|
 |13|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|68|2021-12-08|2021-02-28|
 |14|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|66|2021-11-06|2021-07-25|
@@ -23,7 +23,7 @@
 |16|[liusy58/WhyThis](https://github.com/liusy58/WhyThis)|we'll try to answer some questions during our study about computer systems.|62|2021-06-12|2021-03-27|
 |17|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|61|2021-12-27|2021-04-04|
 |18|[antony-jr/lenovo-legion5-15arh05-scripts](https://github.com/antony-jr/lenovo-legion5-15arh05-scripts)|Simple scripts and guides to work around with issues on running linux in Lenovo Legion 5 15ARH05 version.|60|2021-11-13|2021-01-14|
-|19|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|55|2021-12-26|2021-09-06|
+|19|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|59|2021-12-28|2021-09-06|
 |20|[philippecrowdsec/iptables-nftables-multiroute-firewall](https://github.com/philippecrowdsec/iptables-nftables-multiroute-firewall)|A collection of nftables, multi routing scripts, port knocked, and iptables files. To get inspiration to make your own firewalls.|53|2021-10-02|2021-08-30|
 |21|[Aju100/VulWebaju](https://github.com/Aju100/VulWebaju)|VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes. |52|2021-12-02|2021-04-12|
 |22|[cosminmocan/vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough)|This repo is a tutorial for single amd gpu passthrough to various qemu VMs|47|2021-10-06|2021-01-17|

@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4864|2021-10-07|
+|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4866|2021-10-07|
 |2|[swirldev/swirl_courses](https://github.com/swirldev/swirl_courses)|:mortar_board: A collection of interactive courses for the swirl R package.|3793|2021-10-08|
-|3|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3240|2021-12-23|
+|3|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3241|2021-12-23|
 |4|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2535|2021-11-17|
-|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|1518|2021-12-27|
+|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|1519|2021-12-27|
 |6|[Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr)|Open source book: Geocomputation with R|1045|2021-12-27|
 |7|[hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)|Mastering Shiny: a book|958|2021-12-22|
 |8|[EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)|Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜|900|2021-11-22|
@@ -42,7 +42,7 @@
 |35|[daroczig/fbRads](https://github.com/daroczig/fbRads)|Analyze and manage Facebook ads from R using this client library to access their Marketing APIs|139|2021-07-19|
 |36|[z3tt/30DayChartChallenge_Collection2021](https://github.com/z3tt/30DayChartChallenge_Collection2021)|Collection of contributions to and resources for the first #30DayChartChallenge in April 2021|132|2021-06-01|
 |37|[igordot/genomics](https://github.com/igordot/genomics)|A collection of scripts and notes related to genomics and bioinformatics|126|2021-10-07|
-|38|[paleolimbot/qgisprocess](https://github.com/paleolimbot/qgisprocess)|Use 'QGIS' Processing Algorithms|124|2021-12-27|
+|38|[paleolimbot/qgisprocess](https://github.com/paleolimbot/qgisprocess)|Use 'QGIS' Processing Algorithms|124|2021-12-28|
 |39|[rstudio/gradethis](https://github.com/rstudio/gradethis)|Tools for teachers to use with learnr|122|2021-12-07|
 |40|[JoniColeman/gwas_scripts](https://github.com/JoniColeman/gwas_scripts)|Codebook from my GWAS cookbook|120|2021-08-19|
 |41|[jennybc/repurrrsive](https://github.com/jennybc/repurrrsive)|Recursive lists to use in teaching and examples, because there is no iris data for lists.|113|2021-10-17|
@@ -51,7 +51,7 @@
 |44|[dlab-berkeley/Deep-Learning-in-R](https://github.com/dlab-berkeley/Deep-Learning-in-R)|Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization|103|2021-11-17|
 |45|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.|102|2021-12-24|
 |46|[HopkinsIDD/COVIDScenarioPipeline](https://github.com/HopkinsIDD/COVIDScenarioPipeline)|Public shared code for doing scenario forecasting and creating reports for various governmental entities. |100|2021-12-25|
-|47|[lassefolkersen/impute-me](https://github.com/lassefolkersen/impute-me)|This is the code behind the www.impute.me site. It contains algorithms for personal genome analysis, including imputation and polygenic risk score calculation|91|2021-11-02|
+|47|[lassefolkersen/impute-me](https://github.com/lassefolkersen/impute-me)|This is the code behind the www.impute.me site. It contains algorithms for personal genome analysis, including imputation and polygenic risk score calculation|92|2021-11-02|
 |48|[rstudio/rsconnect](https://github.com/rstudio/rsconnect)|Publish Shiny Applications, RMarkdown Documents, Jupyter Notebooks, Plumber APIs, and more|91|2021-12-01|
 |49|[schochastics/edgebundle](https://github.com/schochastics/edgebundle)|R package implementing edge bundling algorithms|88|2021-12-08|
 |50|[jumpingrivers/meetingsR](https://github.com/jumpingrivers/meetingsR)|A list of R conferences and user groups|86|2021-12-15|
@@ -70,8 +70,8 @@
 |63|[wlandau/targets-tutorial](https://github.com/wlandau/targets-tutorial)|Short course on the targets R package|68|2021-11-04|
 |64|[nickpoison/astsa](https://github.com/nickpoison/astsa)|R package to accompany Time Series Analysis and Its Applications: With R Examples -and- Time Series: A Data Analysis Approach Using R |65|2021-12-22|
 |65|[ranikay/shiny-reticulate-app](https://github.com/ranikay/shiny-reticulate-app)|An end-to-end tutorial creating an R Shiny app that uses the reticulate package with Python 3|62|2021-10-07|
-|66|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Supervised Learning for mlr3|61|2021-12-27|
-|67|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|61|2021-12-27|
+|66|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Supervised Learning for mlr3|61|2021-12-28|
+|67|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|61|2021-12-28|
 |68|[rstudio/shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies)|Collection of bash scripts that install R package system dependencies|61|2021-12-13|
 |69|[asheshrambachan/HonestDiD](https://github.com/asheshrambachan/HonestDiD)|Robust inference in difference-in-differences and event study designs|59|2021-07-20|
 |70|[mattansb/Analysis-of-Factorial-Designs-foR-Psychologists](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists)|Lesson files used in the Analysis of Factorial Designs for Psychologists.|58|2021-10-16|

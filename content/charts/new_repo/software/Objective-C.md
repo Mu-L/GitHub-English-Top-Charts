@@ -8,8 +8,8 @@
 |1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|2021-12-27|2021-01-31|
 |2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|472|2021-09-09|2021-09-03|
 |3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
-|4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|263|2021-09-25|2021-08-03|
-|5|[s4y/undot](https://github.com/s4y/undot)|-|229|2021-12-26|2021-12-20|
+|4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|262|2021-09-25|2021-08-03|
+|5|[s4y/undot](https://github.com/s4y/undot)|-|231|2021-12-26|2021-12-20|
 |6|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
 |7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|166|2021-12-19|2021-03-06|
 |8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|115|2021-07-08|2021-02-20|
@@ -27,8 +27,8 @@
 |20|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
 |21|[asaurusrex/Forblaze](https://github.com/asaurusrex/Forblaze)|Forblaze - A Python Mac Steganography Payload Generator|45|2021-10-11|2021-06-17|
 |22|[opa334/AltList](https://github.com/opa334/AltList)|A modern AppList alternative|44|2021-11-04|2021-05-18|
-|23|[reddit/AlienBlue](https://github.com/reddit/AlienBlue)|Alien Blue iOS app - r/AlienBlue|43|2021-10-14|2021-10-04|
-|24|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|43|2021-12-27|2021-03-08|
+|23|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|44|2021-12-27|2021-03-08|
+|24|[reddit/AlienBlue](https://github.com/reddit/AlienBlue)|Alien Blue iOS app - r/AlienBlue|43|2021-10-14|2021-10-04|
 |25|[FaceOnLive/Face-Liveness-Detection-SDK-iOS](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS)|Robust, Realtime, On-Device Face Liveness Detection (Face Anti Spoofing) For iOS|42|2021-11-25|2021-10-13|
 |26|[quanghits/GoogleMobileAds](https://github.com/quanghits/GoogleMobileAds)|Swift Package Manager for Google Mobile Ads SDK. |38|2021-11-22|2021-04-28|
 |27|[rolling-scopes-school/rs.ios.lecture.material](https://github.com/rolling-scopes-school/rs.ios.lecture.material)|Materials for lectures|38|2021-09-14|2021-04-23|
@@ -40,7 +40,7 @@
 |33|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|27|2021-10-20|2021-01-13|
 |34|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|26|2021-12-24|2021-11-28|
 |35|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
-|36|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-25|2021-01-10|
+|36|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-27|2021-01-10|
 |37|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
 |38|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|25|2021-08-16|2021-08-08|
 |39|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|24|2021-08-01|2021-05-24|

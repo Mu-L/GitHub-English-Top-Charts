@@ -10,9 +10,9 @@
 |3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4392|2021-09-07|
 |4|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1590|2021-06-30|
 |5|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1167|2021-12-04|
-|6|[altmany/export_fig](https://github.com/altmany/export_fig)|A MATLAB toolbox for exporting publication quality figures|1010|2021-12-20|
+|6|[altmany/export_fig](https://github.com/altmany/export_fig)|A MATLAB toolbox for exporting publication quality figures|1011|2021-12-20|
 |7|[scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)|Apply and save color schemes in MATLAB with ease.|827|2021-08-27|
-|8|[jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD)|Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.|676|2021-06-09|
+|8|[jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD)|Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.|677|2021-06-09|
 |9|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|632|2021-10-24|
 |10|[piermorel/gramm](https://github.com/piermorel/gramm)|Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizatio ...|604|2021-11-03|
 |11|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|600|2021-11-18|
@@ -34,9 +34,9 @@
 |27|[sccn/eeglab](https://github.com/sccn/eeglab)|EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD|302|2021-12-17|
 |28|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|302|2021-10-08|
 |29|[yalmip/YALMIP](https://github.com/yalmip/YALMIP)|MATLAB toolbox for optimization modeling|298|2021-12-15|
-|30|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|291|2021-12-02|
+|30|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|2021-12-02|
 |31|[DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak)|DeepSqueak v3: Using Machine Vision to Accelerate Bioacoustics Research|290|2021-12-17|
-|32|[plotly/plotly_matlab](https://github.com/plotly/plotly_matlab)|Plotly Graphing Library for MATLAB®|286|2021-12-23|
+|32|[plotly/plotly_matlab](https://github.com/plotly/plotly_matlab)|Plotly Graphing Library for MATLAB®|287|2021-12-23|
 |33|[CERN/TIGRE](https://github.com/CERN/TIGRE)|TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox|281|2021-12-23|
 |34|[banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)|HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave|272|2021-12-13|
 |35|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|248|2021-11-02|
@@ -61,7 +61,7 @@
 |54|[qizhuli/Weakly-Supervised-Panoptic-Segmentation](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)|Weakly- and Semi-Supervised Panoptic Segmentation (ECCV18)|156|2021-06-08|
 |55|[aurooj/Hand-Segmentation-in-the-Wild](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)|-|155|2021-07-14|
 |56|[precise-simulation/featool-multiphysics](https://github.com/precise-simulation/featool-multiphysics)|FEATool Multiphysics - "Physics Simulation Made Easy"   (Fully Integrated FEA, FEniCS, OpenFOAM, SU2 Solver GUI & Simulation Platform)|155|2021-12-16|
-|57|[jorgengrythe/beamforming](https://github.com/jorgengrythe/beamforming)|Matlab files for various types of beamforming|154|2021-10-25|
+|57|[jorgengrythe/beamforming](https://github.com/jorgengrythe/beamforming)|Matlab files for various types of beamforming|155|2021-10-25|
 |58|[lacerbi/vbmc](https://github.com/lacerbi/vbmc)|Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB|150|2021-12-22|
 |59|[ImperialCollegeLondon/sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)|Speech Processing Toolbox for MATLAB|149|2021-11-21|
 |60|[power-grid-lib/pglib-opf](https://github.com/power-grid-lib/pglib-opf)|Benchmarks for the Optimal Power Flow Problem|149|2021-07-30|

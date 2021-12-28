@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4644|6|2021-12-07|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5659|2|2021-08-30|
-|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6910|2|2021-12-25|
+|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6910|2|2021-12-28|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2089|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
 |6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2843|1|2021-09-21|
@@ -83,7 +83,7 @@
 |76|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|435|0|2021-12-24|
 |77|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
 |78|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
-|79|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1185|0|2021-12-23|
+|79|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1186|0|2021-12-23|
 |80|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|8|0|2021-09-21|
 |81|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|0|2021-10-23|
 |82|[AI-HELP/sdk-ios-example](https://github.com/AI-HELP/sdk-ios-example)|Examples for integrating the AIHelp iOS SDK in your app.|10|0|2021-12-24|
