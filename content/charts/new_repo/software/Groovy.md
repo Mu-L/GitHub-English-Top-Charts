@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,9 +14,9 @@
 |7|[ithinkdancan/hubitat-meross](https://github.com/ithinkdancan/hubitat-meross)|Hubitat Drivers for Meross Smart Plugs|8|2021-12-11|2021-02-04|
 |8|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |9|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|6|2021-12-24|2021-09-30|
-|10|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-25|2021-03-12|
-|11|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|5|2021-11-09|2021-08-03|
-|12|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-20|2021-05-05|
+|10|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
+|11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-25|2021-03-12|
+|12|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
 |13|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2021-12-20|2021-03-20|
 |14|[kairos-fhir/kairos-fhir-dsl-mapping-example](https://github.com/kairos-fhir/kairos-fhir-dsl-mapping-example)|This project contains kairos-fhir-dsl example mappings for the CentraXX FHIR custom export interface.|5|2021-12-14|2021-01-18|
 |15|[Mariano-Github/Smartthings-smartapp](https://github.com/Mariano-Github/Smartthings-smartapp)|Smartthings Smartapps |5|2021-11-26|2021-01-14|
@@ -66,7 +66,7 @@
 |59|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
 |60|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
 |61|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-26|2021-02-05|
+|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-27|2021-02-05|
 |63|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 |64|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 

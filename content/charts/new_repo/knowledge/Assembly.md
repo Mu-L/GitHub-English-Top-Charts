@@ -1,14 +1,14 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|304|2021-12-16|2021-05-10|
 |2|[nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)|Collection of Hello World programs written in multiple languages =D|40|2021-12-19|2021-01-16|
 |3|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|36|2021-12-23|2021-09-26|
-|4|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|2021-11-11|2021-09-22|
+|4|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|2021-12-27|2021-09-22|
 |5|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|25|2021-12-09|2021-05-24|
 |6|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|2021-09-27|2021-08-27|
 |7|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|11|2021-11-19|2021-11-19|
@@ -23,23 +23,23 @@
 |16|[ISSOtm/gb-open-world](https://github.com/ISSOtm/gb-open-world)|A silly revival of a pipe dream. (Note: project is on hold while I work on gb-asm-tutorial. Sorry, please wait a bit!)|8|2021-09-04|2021-03-14|
 |17|[VitorMob/AsmHelp](https://github.com/VitorMob/AsmHelp)|AsmHelp a simple basic help for those who are starting in assembly, I am a simple student of assembly and I want to share my knowledge for those who have doubts or want to start ... |7|2021-07-30|2021-04-11|
 |18|[zivdar001matin/sbu-microprocessor](https://github.com/zivdar001matin/sbu-microprocessor)|Projects of Microprocessors and Assembly Language Course|7|2021-07-01|2021-03-24|
-|19|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2021-12-21|2021-11-28|
-|20|[portasynthinca3/bootsect](https://github.com/portasynthinca3/bootsect)|A collection of simple boot sector applications written in NASM for IBM PC-compatibles|6|2021-08-24|2021-08-23|
-|21|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|6|2021-11-28|2021-07-18|
-|22|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|6|2021-12-25|2021-07-15|
-|23|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|5|2021-12-20|2021-12-14|
+|19|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|6|2021-12-20|2021-12-14|
+|20|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2021-12-21|2021-11-28|
+|21|[portasynthinca3/bootsect](https://github.com/portasynthinca3/bootsect)|A collection of simple boot sector applications written in NASM for IBM PC-compatibles|6|2021-08-24|2021-08-23|
+|22|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|6|2021-11-28|2021-07-18|
+|23|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|6|2021-12-25|2021-07-15|
 |24|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|2021-09-14|
 |25|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|2021-08-21|
 |26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2021-06-18|2021-04-17|
-|27|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|2021-12-20|2021-12-19|
-|28|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|2021-09-03|
-|29|[codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language](https://github.com/codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language)|I Am Joy Mondal </br> I Am Computer Science Engineering  My Youtube Channel : https://www.youtube.com/c/CodeWithJoy </br> My Facebook Page : https://www.facebook.com/joymondal.me|4|2021-07-11|2021-07-08|
-|30|[Abhinav271828/summer21-CSO](https://github.com/Abhinav271828/summer21-CSO)|Notes and resources for the Computer Systems Organisation course at IIIT Hyderabad.|4|2021-08-10|2021-05-24|
-|31|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|4|2021-06-19|2021-04-14|
-|32|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|4|2021-12-07|2021-02-12|
+|27|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|5|2021-06-19|2021-04-14|
+|28|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|2021-12-20|2021-12-19|
+|29|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|2021-09-03|
+|30|[codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language](https://github.com/codewithjoymondal/Identify-odd-or-even-number-using-Assembly-Language)|I Am Joy Mondal </br> I Am Computer Science Engineering  My Youtube Channel : https://www.youtube.com/c/CodeWithJoy </br> My Facebook Page : https://www.facebook.com/joymondal.me|4|2021-07-11|2021-07-08|
+|31|[Abhinav271828/summer21-CSO](https://github.com/Abhinav271828/summer21-CSO)|Notes and resources for the Computer Systems Organisation course at IIIT Hyderabad.|4|2021-08-10|2021-05-24|
+|32|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|4|2021-12-27|2021-02-12|
 |33|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|3|2021-12-19|2021-12-09|
 |34|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|3|2021-11-05|2021-11-05|
-|35|[JackHCC/Embedded-Microprocessor-System-Homework](https://github.com/JackHCC/Embedded-Microprocessor-System-Homework)|Peking University Embedded Microprocessor System Lesson’s all Homework|3|2021-12-26|2021-10-18|
+|35|[JackHCC/Embedded-Microprocessor-System-Homework](https://github.com/JackHCC/Embedded-Microprocessor-System-Homework)|Peking University Embedded Microprocessor System Lesson’s all Homework|3|2021-12-27|2021-10-18|
 |36|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|2021-12-13|2021-10-11|
 |37|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|2021-10-31|2021-10-09|
 |38|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|2021-09-27|2021-09-27|

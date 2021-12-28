@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|4|0|2021-12-20|
 |3|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|0|2021-12-09|
 |4|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|0|2021-11-22|
-|5|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|3|0|2021-12-26|
+|5|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|3|0|2021-12-27|
 |6|[bilderlings/jenkins-shared-libraries](https://github.com/bilderlings/jenkins-shared-libraries)|Useful shared libraries for Jenkins pipelines|9|0|2021-10-14|
 |7|[Confluex/Zuul](https://github.com/Confluex/Zuul)|Keymaster and Gatekeeper - Application Configuration Management|43|0|2021-08-13|
 |8|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|0|2021-12-20|
@@ -25,15 +25,15 @@
 |18|[hamlet-io/docker-jenkins-master](https://github.com/hamlet-io/docker-jenkins-master)|CodeOnTap Jenkins Master Server|2|0|2021-08-17|
 |19|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|2|0|2021-08-26|
 |20|[jenkinsci/deployhub-plugin](https://github.com/jenkinsci/deployhub-plugin)|DeployHub's Shared Declarative Groovy Library has replaced the DeployHub OSS Plugin for Jenkins.  |7|0|2021-08-13|
-|21|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |10|0|2021-08-12|
+|21|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |11|0|2021-08-12|
 |22|[earthly/ci-examples](https://github.com/earthly/ci-examples)|Examples using different CI systems to build with Earthly.|5|0|2021-10-01|
-|23|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|52|0|2021-10-19|
+|23|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|53|0|2021-10-19|
 |24|[agorapulse/grails-facebook-sdk](https://github.com/agorapulse/grails-facebook-sdk)|Facebook SDK Grails Plugin|30|0|2021-12-02|
 |25|[ppazos/cabolabs-ehrserver](https://github.com/ppazos/cabolabs-ehrserver)|Open platform to manage and share standardized clinical data, designed by @ppazos at CaboLabs Health Informatics.|130|0|2021-08-24|
 |26|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|165|0|2021-12-16|
 |27|[cescoffier/vertx-examples-it](https://github.com/cescoffier/vertx-examples-it)|Automatic execution of vertx-examples|5|0|2021-12-09|
 |28|[codetojoy/easter_eggs_for_gradle](https://github.com/codetojoy/easter_eggs_for_gradle)|Basic examples for Gradle. Usage of 'egg' here is SSCCE: http://sscce.org Edit Add topics|5|0|2021-11-28|
-|29|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|0|2021-12-24|
+|29|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|0|2021-12-27|
 |30|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|0|2021-12-15|
 |31|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|115|0|2021-12-09|
 |32|[primetheus/jenkins-github-app-library](https://github.com/primetheus/jenkins-github-app-library)|Jenkins Shared Library to authenticate as a GitHub App via JWT|6|0|2021-06-08|
@@ -68,7 +68,7 @@
 |61|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|33|0|2021-09-08|
 |62|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|21|0|2021-11-26|
 |63|[brampat/security-examples](https://github.com/brampat/security-examples)|Some examples apps to illustrate security and privacy related concepts|2|0|2021-10-12|
-|64|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|161|0|2021-12-23|
+|64|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|161|0|2021-12-27|
 |65|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|0|2021-09-16|
 |66|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2021-12-19|
 |67|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|0|2021-12-21|
@@ -86,11 +86,11 @@
 |79|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2021-12-09|
 |80|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|0|2021-11-04|
 |81|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|0|2021-12-22|
-|82|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|87|0|2021-12-22|
+|82|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|87|0|2021-12-27|
 |83|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|14|0|2021-12-11|
 |84|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|0|2021-10-20|
 |85|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|3|0|2021-06-30|
-|86|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2021-12-22|
+|86|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2021-12-27|
 |87|[apache/logging-pipelines](https://github.com/apache/logging-pipelines)|Apache Logging Services Jenkins pipelines and shared libraries.|2|0|2021-06-06|
 |88|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2021-12-23|
 |89|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|26|0|2021-12-17|

@@ -1,15 +1,15 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1191|2021-12-09|
-|2|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|757|2021-11-02|
+|2|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|760|2021-11-02|
 |3|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|170|2021-11-07|
 |4|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|124|2021-10-26|
-|5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|2021-12-02|
+|5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|2021-12-27|
 |6|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|2021-12-07|
 |7|[Steema/BI](https://github.com/Steema/BI)|Datamining, Visualization, Machine-Learning, Big data|84|2021-12-09|
 |8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|73|2021-07-07|

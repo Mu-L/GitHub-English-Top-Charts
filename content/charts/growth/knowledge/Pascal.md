@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|757|1|2021-11-02|
+|1|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|760|1|2021-11-02|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|14|0|2021-12-19|
 |3|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|6|0|2021-11-03|
 |4|[Steema/BI](https://github.com/Steema/BI)|Datamining, Visualization, Machine-Learning, Big data|84|0|2021-12-09|
@@ -13,7 +13,7 @@
 |6|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2021-07-07|
 |7|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|0|2021-12-16|
 |8|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|0|2021-11-09|
-|9|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|0|2021-12-02|
+|9|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|0|2021-12-27|
 |10|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|0|2021-12-11|
 |11|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|0|2021-06-02|
 |12|[neurolabusc/Metal-Demos](https://github.com/neurolabusc/Metal-Demos)|Examples of Apple's Metal API using Lazarus and Ryan Joseph's lazmetalcontrol|26|0|2021-09-23|

@@ -1,14 +1,14 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2625|2021-12-26|2021-03-29|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|223|2021-12-20|2021-01-31|
-|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|186|2021-11-08|2021-02-05|
-|4|[GetStream/flutter-samples](https://github.com/GetStream/flutter-samples)|A collection of sample apps that use Stream|174|2021-12-15|2021-02-01|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2628|2021-12-26|2021-03-29|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|224|2021-12-20|2021-01-31|
+|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|187|2021-11-08|2021-02-05|
+|4|[GetStream/flutter-samples](https://github.com/GetStream/flutter-samples)|A collection of sample apps that use Stream|175|2021-12-15|2021-02-01|
 |5|[dancamdev/UIs](https://github.com/dancamdev/UIs)|A collection of UIs built by Dancamdev in Flutter|165|2021-09-24|2021-01-13|
 |6|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|135|2021-10-24|2021-05-28|
 |7|[thlorenz/rid-examples](https://github.com/thlorenz/rid-examples)|Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.|134|2021-10-02|2021-05-12|
@@ -23,12 +23,12 @@
 |16|[pr-Mais/noor](https://github.com/pr-Mais/noor)|Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references.|53|2021-12-09|2021-05-09|
 |17|[DonnC/log_book](https://github.com/DonnC/log_book)|an internship log book desktop app|50|2021-06-13|2021-05-22|
 |18|[saiankit/Flutter-Summer-Group-2021](https://github.com/saiankit/Flutter-Summer-Group-2021)|This is the repository to store the course content and assignments pertaining to Flutter Summer Group hosted by CRUx in 2021 Summer|48|2021-08-02|2021-07-07|
-|19|[infiniteoverflow/Libro](https://github.com/infiniteoverflow/Libro)|An App Built using flutter using which we can share books with people around us !!|46|2021-10-13|2021-02-02|
+|19|[infiniteoverflow/Libro](https://github.com/infiniteoverflow/Libro)|An App Built using flutter using which we can share books with people around us !!|47|2021-10-13|2021-02-02|
 |20|[princ3od/Ajent](https://github.com/princ3od/Ajent)|An app bridges the Gap between Tutors and Learners ./|38|2021-09-24|2021-05-03|
 |21|[heshamerfan97/flutter_google_maps_example](https://github.com/heshamerfan97/flutter_google_maps_example)|A Flutter application to demonstrate how to implement Google maps and its advanced options in a flutter app. |37|2021-12-11|2021-04-24|
 |22|[openkraken/samples](https://github.com/openkraken/samples)|A collection of Krakens examples and demos.|36|2021-11-03|2021-03-05|
 |23|[VGVentures/bloc_concurrency_demos](https://github.com/VGVentures/bloc_concurrency_demos)|3 different demos showing how to use bloc concurrency, before and after the Bloc 7.2.0 update.|34|2021-11-01|2021-10-21|
-|24|[hello-paulvin/city-cab](https://github.com/hello-paulvin/city-cab)|An open source flutter taxi - app for learning purpose(Provider & Bloc) using firebase as backend/server|33|2021-12-17|2021-06-03|
+|24|[hello-paulvin/city-cab](https://github.com/hello-paulvin/city-cab)|An open source flutter taxi - app for learning purpose(Provider & Bloc) using firebase as backend/server|34|2021-12-17|2021-06-03|
 |25|[salkuadrat/fstates](https://github.com/salkuadrat/fstates)|Infinite List Examples with Various State Managements in Flutter|32|2021-11-23|2021-08-07|
 |26|[RounakTadvi/internet_connection_checker](https://github.com/RounakTadvi/internet_connection_checker)|A pure Dart library that checks for internet by opening a socket to   a list of specified addresses, each with individual port and timeout. Defaults   are provided for convenience.|30|2021-11-28|2021-03-09|
 |27|[fredgrott/not_in_flutter_docs](https://github.com/fredgrott/not_in_flutter_docs)|flutter code tutorials|29|2021-11-19|2021-10-15|
@@ -62,18 +62,18 @@
 |55|[salkuadrat/ToGo](https://github.com/salkuadrat/ToGo)|Store and Cart Examples using various state management in Flutter.|13|2021-08-14|2021-08-11|
 |56|[cyblogerz/Nallagram](https://github.com/cyblogerz/Nallagram)|Nallagram is an open source social networking platform where users can share their views on various topics and interact among people in which they create, share, and/or exchange information and ideas  ...|13|2021-12-20|2021-05-20|
 |57|[naveeramesh/flutter_ui](https://github.com/naveeramesh/flutter_ui)|In this repo you can expertise how to build various User Interface in Flutter ⭐🚩|12|2021-12-24|2021-11-27|
-|58|[gabrielglbh/Kan-Practice](https://github.com/gabrielglbh/Kan-Practice)|A simple app for studying the japanese vocabulary you will learn in your japanese learning journey based on cards with meaning, pronunciation and kanji.|12|2021-12-25|2021-11-14|
+|58|[gabrielglbh/Kan-Practice](https://github.com/gabrielglbh/Kan-Practice)|A simple app for studying the japanese vocabulary you will learn in your japanese learning journey based on cards with meaning, pronunciation and kanji.|12|2021-12-27|2021-11-14|
 |59|[OverPoweredDev/Junior](https://github.com/OverPoweredDev/Junior)|A bookmarking app specialised towards online webnovels. Built in Flutter and Dart.|12|2021-12-07|2021-08-29|
 |60|[ubuntu/user_manager](https://github.com/ubuntu/user_manager)|A tutorial for creating an Ubuntu Linux Flutter app, using the yaru theme|12|2021-09-23|2021-05-21|
 |61|[adrifcastr/ImageLink](https://github.com/adrifcastr/ImageLink)|ImageLink is the (non-affiliated) mobile ShareX-like uploader client!|12|2021-09-23|2021-05-16|
 |62|[Scaape/Scaape-flutter-FE](https://github.com/Scaape/Scaape-flutter-FE)|Scaape, a first-of-its-kind social hangout app that makes organizing group hangouts with people who share similar interests as simple as shooting fish in a barrel.|11|2021-12-22|2021-09-21|
 |63|[abi-raj/LibHive-Mobile-App](https://github.com/abi-raj/LibHive-Mobile-App)|A Mobile Application to Download Books|11|2021-07-28|2021-07-28|
 |64|[ahmedihabb2/CMP-CREW](https://github.com/ahmedihabb2/CMP-CREW)|Tired of collecting your friends’ orders at restaurants? Lost track of how many of you want tea? Don’t worry we got you covered! Use CMP Crew, Create a room, invite your friends to join, and let them  ...|11|2021-10-09|2021-07-15|
-|65|[SnippetCoders/flutter_admob](https://github.com/SnippetCoders/flutter_admob)|In this video, we learn how to do integrate Google Admob with Flutter with latest Flutter 2.0 Google Admob Package.|11|2021-09-09|2021-03-04|
-|66|[canonical/ubuntu-flutter-plugins](https://github.com/canonical/ubuntu-flutter-plugins)|A collection of Flutter plugins and packages for Ubuntu applications.|10|2021-12-17|2021-11-15|
-|67|[lau1944/just_audio_cache](https://github.com/lau1944/just_audio_cache)|Collection of extension function of just_audio package for auto-handle caching|10|2021-09-22|2021-08-04|
-|68|[Sounmay/Prayas-Booking-App](https://github.com/Sounmay/Prayas-Booking-App)|Flutter application for booking services as part of a freelance project, with backend in Firebase. |10|2021-12-08|2021-05-21|
-|69|[CCExtractor/beacon](https://github.com/CCExtractor/beacon)|Flutter application to share location with a group. (under development)|10|2021-12-26|2021-04-04|
+|65|[CCExtractor/beacon](https://github.com/CCExtractor/beacon)|Flutter application to share location with a group. (under development)|11|2021-12-27|2021-04-04|
+|66|[SnippetCoders/flutter_admob](https://github.com/SnippetCoders/flutter_admob)|In this video, we learn how to do integrate Google Admob with Flutter with latest Flutter 2.0 Google Admob Package.|11|2021-09-09|2021-03-04|
+|67|[canonical/ubuntu-flutter-plugins](https://github.com/canonical/ubuntu-flutter-plugins)|A collection of Flutter plugins and packages for Ubuntu applications.|10|2021-12-17|2021-11-15|
+|68|[lau1944/just_audio_cache](https://github.com/lau1944/just_audio_cache)|Collection of extension function of just_audio package for auto-handle caching|10|2021-09-22|2021-08-04|
+|69|[Sounmay/Prayas-Booking-App](https://github.com/Sounmay/Prayas-Booking-App)|Flutter application for booking services as part of a freelance project, with backend in Firebase. |10|2021-12-08|2021-05-21|
 |70|[mhadaily/pluralsight-firebase-flutter](https://github.com/mhadaily/pluralsight-firebase-flutter)|A public repository for Pluralsight Futter Firebase course |10|2021-10-22|2021-03-13|
 |71|[abhigupta2000/KisanRakshak](https://github.com/abhigupta2000/KisanRakshak)|3rd Position Overall, with a Cash Prize of ₹2500. A smart farming application that makes agriculture more efficient and effective with the help of high-precision algorithms.|9|2021-10-23|2021-10-19|
 |72|[juancastillo0/leto](https://github.com/juancastillo0/leto)|Dart GraphQL server implementation. Utilities, code generator, examples and reference implementation.|9|2021-12-23|2021-08-30|
@@ -81,7 +81,7 @@
 |74|[shametha/Docoline](https://github.com/shametha/Docoline)|Docoline is a virtual Doctor appointment booking application, that has been developed to override the problems of booking an appointment with a doctor specially prevailing in the pandemic situation. T ...|9|2021-12-19|2021-08-17|
 |75|[SamarpanCoder2002/Generation-Chat-App-Tutorial](https://github.com/SamarpanCoder2002/Generation-Chat-App-Tutorial)|💘 This is my Youtube tutorial of my Social Media App Generation Made in Flutter 💘|9|2021-11-09|2021-07-27|
 |76|[mkobuolys/flutter-code-generation](https://github.com/mkobuolys/flutter-code-generation)|Examples of Flutter Code Generation.|9|2021-10-12|2021-07-17|
-|77|[qwertypool/flutter-code-snippets](https://github.com/qwertypool/flutter-code-snippets)|Flutter quick code snippets - Feel free to contribute.|9|2021-12-26|2021-05-03|
+|77|[qwertypool/flutter-code-snippets](https://github.com/qwertypool/flutter-code-snippets)|Flutter quick code snippets - Feel free to contribute.|9|2021-12-27|2021-05-03|
 |78|[Mhassanbughio/Dart-Email-Validator](https://github.com/Mhassanbughio/Dart-Email-Validator)|A simple (but correct) Dart class for validating email addresses without using RegEx. Can also be used to validate emails within Flutter apps (see Flutter email validation).  Installation  Dart requir ...|9|2021-07-24|2021-04-14|
 |79|[ArunBalajiR/Udemy-Free-Course-App](https://github.com/ArunBalajiR/Udemy-Free-Course-App)|Mobile app for enroll paid udemy courses using coupen codes|9|2021-09-27|2021-03-30|
 |80|[crizant/flutter_multiplication_table](https://github.com/crizant/flutter_multiplication_table)|This flutter project is created to demonstrate how to build a two direction scrolling data table.|9|2021-08-16|2021-02-09|
@@ -94,13 +94,13 @@
 |87|[saadfarhan124/flutter_facebook_sdk](https://github.com/saadfarhan124/flutter_facebook_sdk)|A flutter plugin to get facebook deep links and log app events using the latest Facebook SDK to include support for iOS 14|8|2021-11-06|2021-04-30|
 |88|[mvolpato/the-player](https://github.com/mvolpato/the-player)|Audio player app in Flutter. Created as a tutorial for learning Flutter.|8|2021-11-15|2021-02-03|
 |89|[YouXianMing/flutter_canvas](https://github.com/YouXianMing/flutter_canvas)|Examples of use flutter canvas.|7|2021-10-21|2021-10-21|
-|90|[eslamesmail-hub/shop-In](https://github.com/eslamesmail-hub/shop-In)|Flutter e-Commerce application using APIs, Bloc, Dio, and Shared Preferences.|7|2021-07-25|2021-07-12|
-|91|[Yayo-Arellano/flutter_simple_firebase_auth_bloc](https://github.com/Yayo-Arellano/flutter_simple_firebase_auth_bloc)|Learn how to use firebase authentication in flutter|7|2021-11-25|2021-04-10|
-|92|[PeterHdd/Flutter-tutorials](https://github.com/PeterHdd/Flutter-tutorials)|Repository containing source code for the tutorials made using with flutter|7|2021-10-22|2021-03-19|
-|93|[AlexMercedCoder/DartShelfPostgresTemplate](https://github.com/AlexMercedCoder/DartShelfPostgresTemplate)|Dart Web API Template Using Google Shelf Framework and Postgres Drivers, read readme to learn how to use|7|2021-10-10|2021-03-15|
-|94|[techwithsam/custom-icon-with-bottom-navigation-in-flutter](https://github.com/techwithsam/custom-icon-with-bottom-navigation-in-flutter)|New trick on how to create your own custom icons in flutter with bottom bar navigation|7|2021-09-26|2021-03-12|
-|95|[pr-Mais/flutterfire_gallery](https://github.com/pr-Mais/flutterfire_gallery)|A sample application that allows a user to upload and share images, made with Flutter, and Firebase.|6|2021-12-18|2021-12-15|
-|96|[fireship-io/dart-course](https://github.com/fireship-io/dart-course)|Master the Basics of the Dart Language|6|2021-12-24|2021-10-10|
+|90|[fireship-io/dart-course](https://github.com/fireship-io/dart-course)|Master the Basics of the Dart Language|7|2021-12-24|2021-10-10|
+|91|[eslamesmail-hub/shop-In](https://github.com/eslamesmail-hub/shop-In)|Flutter e-Commerce application using APIs, Bloc, Dio, and Shared Preferences.|7|2021-07-25|2021-07-12|
+|92|[Yayo-Arellano/flutter_simple_firebase_auth_bloc](https://github.com/Yayo-Arellano/flutter_simple_firebase_auth_bloc)|Learn how to use firebase authentication in flutter|7|2021-11-25|2021-04-10|
+|93|[PeterHdd/Flutter-tutorials](https://github.com/PeterHdd/Flutter-tutorials)|Repository containing source code for the tutorials made using with flutter|7|2021-10-22|2021-03-19|
+|94|[AlexMercedCoder/DartShelfPostgresTemplate](https://github.com/AlexMercedCoder/DartShelfPostgresTemplate)|Dart Web API Template Using Google Shelf Framework and Postgres Drivers, read readme to learn how to use|7|2021-10-10|2021-03-15|
+|95|[techwithsam/custom-icon-with-bottom-navigation-in-flutter](https://github.com/techwithsam/custom-icon-with-bottom-navigation-in-flutter)|New trick on how to create your own custom icons in flutter with bottom bar navigation|7|2021-09-26|2021-03-12|
+|96|[pr-Mais/flutterfire_gallery](https://github.com/pr-Mais/flutterfire_gallery)|A sample application that allows a user to upload and share images, made with Flutter, and Firebase.|6|2021-12-18|2021-12-15|
 |97|[flutter-devs/flutter_app_for_desktop](https://github.com/flutter-devs/flutter_app_for_desktop)|how to set up for run the application on desktop|6|2021-10-07|2021-10-07|
 |98|[Febin-T-Rajeev/Flutter_Facebook_UI_Clone](https://github.com/Febin-T-Rajeev/Flutter_Facebook_UI_Clone)|Facebook UI Clone using Flutter|6|2021-10-02|2021-10-02|
 |99|[md-weber/flashcard_project](https://github.com/md-weber/flashcard_project)|Flashcard App where you can learn different topics and create your own flashcards in Google Drive.|6|2021-12-13|2021-09-27|
