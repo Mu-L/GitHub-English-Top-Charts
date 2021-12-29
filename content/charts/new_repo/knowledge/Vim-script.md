@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vim script
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|31|2021-11-10|2021-08-22|
 |3|[quintik/Snip](https://github.com/quintik/Snip)|-|13|2021-12-21|2021-05-13|
 |4|[protsaq/how_to_understand_vim_and_be_a_little_better_at_it](https://github.com/protsaq/how_to_understand_vim_and_be_a_little_better_at_it)|people get annoyed at my ranting about vim so I put it here ➕ some very useful tips on how to get better at vim 🌶|12|2021-08-05|2021-03-30|
-|5|[4513ECHO/vim-readme-viewer](https://github.com/4513ECHO/vim-readme-viewer)|:book: Viewing plugin's README easily like vim help|10|2021-12-25|2021-11-29|
+|5|[4513ECHO/vim-readme-viewer](https://github.com/4513ECHO/vim-readme-viewer)|:book: Viewing plugin's README easily like vim help|10|2021-12-29|2021-11-29|
 |6|[marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq)|Master key for exiting/deleting vim buffers with respect to window splits and tabs.|9|2021-11-13|2021-06-12|
 |7|[Yesid-Rodelo/nvim](https://github.com/Yesid-Rodelo/nvim)|Configuracion personal de NeoVim como IDE de desarrollo, configurado principalmente para desarrollo web con javascript, typescript, react y svelte, y configurado para desarrollo movil con Flutter. Cue ...|5|2021-11-17|2021-02-24|
 |8|[UltiRequiem/vim-compilers](https://github.com/UltiRequiem/vim-compilers)|:vhs: A collection of compilers for ready use by Vim's built-in compiler feature.|4|2021-06-05|2021-05-28|

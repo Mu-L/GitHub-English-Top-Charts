@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[topepo/tidy-apm](https://github.com/topepo/tidy-apm)|tidymodels code for the book  Applied Predictive Modeling|30|2021-07-26|2021-07-06|
 |7|[ColinFay/golemexamples](https://github.com/ColinFay/golemexamples)|Gathering in one place some {golem} examples|29|2021-10-04|2021-02-09|
 |8|[matt-dray/dehex](https://github.com/matt-dray/dehex)|:art::eyes: R package: learn to assess a colour hex code by eye|28|2021-11-27|2021-08-01|
-|9|[behrman/ros](https://github.com/behrman/ros)|Regression and Other Stories - Tidyverse Examples|27|2021-09-06|2021-04-22|
+|9|[behrman/ros](https://github.com/behrman/ros)|Regression and Other Stories - Tidyverse Examples|28|2021-09-06|2021-04-22|
 |10|[gbarrile/PopEcoModeling](https://github.com/gbarrile/PopEcoModeling)|Online course on statistical modeling in population ecology. Includes instructional videos with associated code and data.|24|2021-10-07|2021-06-15|
 |11|[jackobailey/britpol](https://github.com/jackobailey/britpol)|britpol: Data and Functions for Studying British Politics|24|2021-12-10|2021-03-12|
 |12|[hadley/cocktails](https://github.com/hadley/cocktails)|Hadley's cocktail book|22|2021-09-22|2021-08-09|

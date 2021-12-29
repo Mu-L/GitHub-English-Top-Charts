@@ -1,26 +1,26 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > R
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4865|2021-10-07|
+|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4866|2021-10-07|
 |2|[swirldev/swirl_courses](https://github.com/swirldev/swirl_courses)|:mortar_board: A collection of interactive courses for the swirl R package.|3793|2021-10-08|
-|3|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3242|2021-12-23|
+|3|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|3243|2021-12-23|
 |4|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2536|2021-11-17|
-|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|1520|2021-12-27|
-|6|[Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr)|Open source book: Geocomputation with R|1045|2021-12-28|
-|7|[hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)|Mastering Shiny: a book|958|2021-12-22|
+|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|1521|2021-12-29|
+|6|[Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr)|Open source book: Geocomputation with R|1046|2021-12-29|
+|7|[hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)|Mastering Shiny: a book|959|2021-12-22|
 |8|[EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)|Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜|900|2021-11-22|
 |9|[andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists)|Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts"|873|2021-09-30|
 |10|[rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)|Repository for Programming Assignment 2 for R Programming on Coursera|716|2021-12-25|
 |11|[EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer)|🎨🎨🎨 Collection of most color palettes in a single R package|625|2021-11-22|
 |12|[ModelOriented/DrWhy](https://github.com/ModelOriented/DrWhy)|DrWhy is the collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.|509|2021-12-21|
-|13|[TheAlgorithms/R](https://github.com/TheAlgorithms/R)|Collection of various algorithms implemented in R.|455|2021-08-09|
+|13|[TheAlgorithms/R](https://github.com/TheAlgorithms/R)|Collection of various algorithms implemented in R.|456|2021-08-09|
 |14|[joey711/phyloseq](https://github.com/joey711/phyloseq)|phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See ...|403|2021-11-29|
 |15|[selva86/datasets](https://github.com/selva86/datasets)|A collection of datasets of ML problem solving|363|2021-11-05|
-|16|[facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn)|Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali ...|322|2021-12-28|
+|16|[facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn)|Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali ...|323|2021-12-29|
 |17|[matloff/fasteR](https://github.com/matloff/fasteR)|Fast Lane to Learning R!|299|2021-08-26|
 |18|[yusuzech/r-web-scraping-cheat-sheet](https://github.com/yusuzech/r-web-scraping-cheat-sheet)|Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium.|264|2021-10-25|
 |19|[Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)|Set of solutions for the Advanced R programming book|256|2021-08-19|
@@ -30,7 +30,7 @@
 |23|[ecpolley/SuperLearner](https://github.com/ecpolley/SuperLearner)|Current version of the SuperLearner R package|221|2021-11-29|
 |24|[rstudio/pins](https://github.com/rstudio/pins)|Pin, Discover and Share Resources|218|2021-12-15|
 |25|[mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)|A list of scRNA-seq analysis tools|214|2021-12-24|
-|26|[schochastics/graphlayouts](https://github.com/schochastics/graphlayouts)|new layout algorithms for network visualizations in R|211|2021-11-21|
+|26|[schochastics/graphlayouts](https://github.com/schochastics/graphlayouts)|new layout algorithms for network visualizations in R|211|2021-12-28|
 |27|[jackwasey/icd](https://github.com/jackwasey/icd)|Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R. NB use main instead of master for default branch.|195|2021-11-20|
 |28|[mhahsler/recommenderlab](https://github.com/mhahsler/recommenderlab)|recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package|187|2021-09-04|
 |29|[SNStatComp/awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)|An awesome list of statistical software for creating and accessing official statistics|186|2021-12-10|
@@ -48,7 +48,7 @@
 |41|[jennybc/repurrrsive](https://github.com/jennybc/repurrrsive)|Recursive lists to use in teaching and examples, because there is no iris data for lists.|113|2021-10-17|
 |42|[flujoo/gm](https://github.com/flujoo/gm)|R package to create music, and show musical scores and audio files in R Markdown documents, R Jupyter Notebooks and RStudio|107|2021-06-15|
 |43|[mattansb/Structural-Equation-Modeling-foR-Psychologists](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists)|Lesson files used in the Structural Equation Modeling for Psychologists.|105|2021-10-19|
-|44|[dlab-berkeley/Deep-Learning-in-R](https://github.com/dlab-berkeley/Deep-Learning-in-R)|Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization|103|2021-11-17|
+|44|[dlab-berkeley/Deep-Learning-in-R](https://github.com/dlab-berkeley/Deep-Learning-in-R)|Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization|103|2021-12-28|
 |45|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.|102|2021-12-24|
 |46|[HopkinsIDD/COVIDScenarioPipeline](https://github.com/HopkinsIDD/COVIDScenarioPipeline)|Public shared code for doing scenario forecasting and creating reports for various governmental entities. |100|2021-12-25|
 |47|[lassefolkersen/impute-me](https://github.com/lassefolkersen/impute-me)|This is the code behind the www.impute.me site. It contains algorithms for personal genome analysis, including imputation and polygenic risk score calculation|92|2021-11-02|
@@ -68,10 +68,10 @@
 |61|[luca-scr/GA](https://github.com/luca-scr/GA)|An R package for optimization using genetic algorithms|71|2021-10-14|
 |62|[tidymodels/workflowsets](https://github.com/tidymodels/workflowsets)|Create a collection of modeling workflows|70|2021-12-17|
 |63|[wlandau/targets-tutorial](https://github.com/wlandau/targets-tutorial)|Short course on the targets R package|68|2021-11-04|
-|64|[nickpoison/astsa](https://github.com/nickpoison/astsa)|R package to accompany Time Series Analysis and Its Applications: With R Examples -and- Time Series: A Data Analysis Approach Using R |65|2021-12-28|
+|64|[nickpoison/astsa](https://github.com/nickpoison/astsa)|R package to accompany Time Series Analysis and Its Applications: With R Examples -and- Time Series: A Data Analysis Approach Using R |65|2021-12-29|
 |65|[ranikay/shiny-reticulate-app](https://github.com/ranikay/shiny-reticulate-app)|An end-to-end tutorial creating an R Shiny app that uses the reticulate package with Python 3|62|2021-10-07|
-|66|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Supervised Learning for mlr3|61|2021-12-28|
-|67|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|61|2021-12-28|
+|66|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Supervised Learning for mlr3|61|2021-12-29|
+|67|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|61|2021-12-29|
 |68|[rstudio/shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies)|Collection of bash scripts that install R package system dependencies|61|2021-12-13|
 |69|[asheshrambachan/HonestDiD](https://github.com/asheshrambachan/HonestDiD)|Robust inference in difference-in-differences and event study designs|59|2021-07-20|
 |70|[JimDuggan/SDMR](https://github.com/JimDuggan/SDMR)|Resources for text book "System Dynamics Modeling with R"|59|2021-08-09|

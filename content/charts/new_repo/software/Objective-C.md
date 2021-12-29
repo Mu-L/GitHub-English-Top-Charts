@@ -1,24 +1,24 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|2021-12-28|2021-01-31|
-|2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|472|2021-09-09|2021-09-03|
+|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|2021-12-29|2021-01-31|
+|2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|473|2021-09-09|2021-09-03|
 |3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
-|4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|264|2021-09-25|2021-08-03|
-|5|[s4y/undot](https://github.com/s4y/undot)|-|234|2021-12-26|2021-12-20|
+|4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|265|2021-09-25|2021-08-03|
+|5|[s4y/undot](https://github.com/s4y/undot)|-|237|2021-12-26|2021-12-20|
 |6|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
 |7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|166|2021-12-19|2021-03-06|
-|8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|115|2021-07-08|2021-02-20|
+|8|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|116|2021-07-08|2021-02-20|
 |9|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|114|2021-09-12|2021-02-02|
 |10|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|104|2021-10-13|2021-02-08|
 |11|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|103|2021-12-24|2021-03-24|
 |12|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
 |13|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|93|2021-06-23|2021-01-21|
-|14|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|80|2021-12-14|2021-12-06|
+|14|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|81|2021-12-14|2021-12-06|
 |15|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |16|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2021-11-20|2021-11-20|
 |17|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|64|2021-12-24|2021-03-30|
@@ -34,14 +34,14 @@
 |27|[rolling-scopes-school/rs.ios.lecture.material](https://github.com/rolling-scopes-school/rs.ios.lecture.material)|Materials for lectures|38|2021-09-14|2021-04-23|
 |28|[ragdroid/Clayground](https://github.com/ragdroid/Clayground)|This project is a demo project to explore various frameworks with MVI pattern and to achieve maximum code sharing between different platforms.|38|2021-07-12|2021-03-09|
 |29|[tr3v3r/react-native-esc-pos-printer](https://github.com/tr3v3r/react-native-esc-pos-printer)|An unofficial React Native library for printing on an EPSON TM printer with the Epson ePOS SDK for iOS and Epson ePOS SDK for Android|34|2021-11-22|2021-02-05|
-|30|[ryannair05/Cylinder-Reborn](https://github.com/ryannair05/Cylinder-Reborn)|A reborn version of Cylinder for iOS 11 and up|31|2021-11-05|2021-02-14|
-|31|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|30|2021-06-26|2021-06-20|
+|30|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|31|2021-12-29|2021-06-20|
+|31|[ryannair05/Cylinder-Reborn](https://github.com/ryannair05/Cylinder-Reborn)|A reborn version of Cylinder for iOS 11 and up|31|2021-11-05|2021-02-14|
 |32|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|28|2021-06-29|2021-02-06|
-|33|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|27|2021-10-20|2021-01-13|
-|34|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|26|2021-12-24|2021-11-28|
-|35|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
-|36|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|26|2021-12-28|2021-02-28|
-|37|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|26|2021-12-28|2021-01-10|
+|33|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|27|2021-12-28|2021-02-28|
+|34|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|27|2021-12-29|2021-01-13|
+|35|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpeg Kit.|27|2021-12-28|2021-01-10|
+|36|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|26|2021-12-28|2021-11-28|
+|37|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
 |38|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
 |39|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|25|2021-08-16|2021-08-08|
 |40|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|24|2021-08-01|2021-05-24|
@@ -88,7 +88,7 @@
 |81|[MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation)|This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.|11|2021-07-29|2021-01-08|
 |82|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
 |83|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|10|2021-10-13|2021-10-13|
-|84|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-10-27|2021-10-04|
+|84|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-12-29|2021-10-04|
 |85|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|10|2021-11-15|2021-09-27|
 |86|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
 |87|[rsms/ortho-remote](https://github.com/rsms/ortho-remote)|Some code for playing with the Teenage Engineering Ortho Remote|10|2021-06-28|2021-06-27|

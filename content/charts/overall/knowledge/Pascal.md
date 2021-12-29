@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|2021-12-27|
 |6|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|2021-12-07|
 |7|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|2021-12-09|
-|8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|73|2021-07-07|
+|8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|74|2021-07-07|
 |9|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|71|2021-09-19|
 |10|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|67|2021-11-13|
 |11|[beNative/Concepts](https://github.com/beNative/Concepts)|A collection of modules which demonstrate some programming concepts and Delphi libraries.|53|2021-06-24|
@@ -37,7 +37,7 @@
 |30|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|2021-10-14|
 |31|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|2021-12-03|
 |32|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|2021-12-26|
-|33|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|2021-12-26|
+|33|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|2021-12-29|
 |34|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|2021-07-09|
 |35|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|6|2021-11-03|
 |36|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|2021-12-12|

@@ -1,18 +1,18 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3805|2|2021-12-21|
+|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3804|2|2021-12-21|
 |2|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|4|0|2021-12-20|
 |3|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|0|2021-12-09|
 |4|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|0|2021-11-22|
 |5|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|3|0|2021-12-28|
 |6|[bilderlings/jenkins-shared-libraries](https://github.com/bilderlings/jenkins-shared-libraries)|Useful shared libraries for Jenkins pipelines|9|0|2021-10-14|
 |7|[Confluex/Zuul](https://github.com/Confluex/Zuul)|Keymaster and Gatekeeper - Application Configuration Management|43|0|2021-08-13|
-|8|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|0|2021-12-28|
+|8|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|0|2021-12-29|
 |9|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|7|0|2021-12-18|
 |10|[ElektraInitiative/jenkins-library](https://github.com/ElektraInitiative/jenkins-library)|Jenkins Shared Library|3|0|2021-08-28|
 |11|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|8|0|2021-08-18|
@@ -69,19 +69,19 @@
 |62|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|33|0|2021-09-08|
 |63|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|21|0|2021-11-26|
 |64|[brampat/security-examples](https://github.com/brampat/security-examples)|Some examples apps to illustrate security and privacy related concepts|2|0|2021-10-12|
-|65|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|0|2021-12-28|
+|65|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|0|2021-12-29|
 |66|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|0|2021-09-16|
 |67|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2021-12-19|
 |68|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|0|2021-12-21|
 |69|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2021-06-28|
 |70|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|11|0|2021-12-13|
 |71|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|12|0|2021-12-11|
-|72|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|123|0|2021-12-22|
+|72|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|124|0|2021-12-22|
 |73|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|0|2021-11-18|
 |74|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|6|0|2021-11-29|
 |75|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|0|2021-12-24|
 |76|[nuxeo/nuxeo-pipeline-library](https://github.com/nuxeo/nuxeo-pipeline-library)|Nuxeo Jenkins Pipeline Shared Library|2|0|2021-06-05|
-|77|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|100|0|2021-12-10|
+|77|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|100|0|2021-12-28|
 |78|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|132|0|2021-06-12|
 |79|[cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)|Examples of DevOps pipelines for mainframe applications|9|0|2021-06-21|
 |80|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2021-12-09|

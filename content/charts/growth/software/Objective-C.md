@@ -1,71 +1,71 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Objective-C
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[s4y/undot](https://github.com/s4y/undot)|-|234|26|2021-12-26|
-|2|[MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|18889|19|2021-11-26|
-|3|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10217|10|2021-12-28|
-|4|[AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)|A delightful networking framework for iOS, macOS, watchOS, and tvOS.|33263|9|2021-12-06|
-|5|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15600|8|2021-12-28|
-|6|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4028|7|2021-12-28|
-|7|[SnapKit/Masonry](https://github.com/SnapKit/Masonry)|Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout|18005|6|2021-07-20|
-|8|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12398|6|2021-12-28|
-|9|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|2745|6|2021-12-21|
-|10|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12204|6|2021-12-20|
-|11|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|12822|6|2021-12-24|
-|12|[FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)|An in-app debugging and exploration tool for iOS|12757|5|2021-12-25|
+|1|[s4y/undot](https://github.com/s4y/undot)|-|237|24|2021-12-26|
+|2|[MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|18884|19|2021-11-26|
+|3|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10228|10|2021-12-28|
+|4|[AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)|A delightful networking framework for iOS, macOS, watchOS, and tvOS.|33262|9|2021-12-06|
+|5|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15615|8|2021-12-29|
+|6|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4035|7|2021-12-29|
+|7|[SnapKit/Masonry](https://github.com/SnapKit/Masonry)|Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout|18004|6|2021-07-20|
+|8|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12398|6|2021-12-29|
+|9|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|2747|6|2021-12-21|
+|10|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12205|6|2021-12-20|
+|11|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|12825|6|2021-12-29|
+|12|[FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)|An in-app debugging and exploration tool for iOS|12759|5|2021-12-25|
 |13|[SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)|Asynchronous image downloader with cache support as a UIImageView category|23933|5|2021-12-21|
-|14|[CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)|An easy way to use pull-to-refresh.|13560|5|2021-11-30|
+|14|[CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)|An easy way to use pull-to-refresh.|13564|5|2021-11-30|
 |15|[hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)|Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.|15417|5|2021-12-16|
-|16|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|4|2021-12-28|
-|17|[objective-see/LuLu](https://github.com/objective-see/LuLu)|LuLu is the free macOS firewall|5936|4|2021-11-01|
+|16|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1232|4|2021-12-29|
+|17|[objective-see/LuLu](https://github.com/objective-see/LuLu)|LuLu is the free macOS firewall|5942|4|2021-12-29|
 |18|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|13877|4|2021-08-13|
-|19|[draveness/analyze](https://github.com/draveness/analyze)|Draven's Blog|7913|4|2021-11-14|
-|20|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|14805|4|2021-12-28|
-|21|[ibireme/YYText](https://github.com/ibireme/YYText)|Powerful text framework for iOS to display and edit rich text.|8692|4|2021-12-02|
-|22|[git-up/GitUp](https://github.com/git-up/GitUp)|The Git interface you've been missing all your life has finally arrived.|10034|4|2021-12-22|
+|19|[draveness/analyze](https://github.com/draveness/analyze)|Draven's Blog|7914|4|2021-11-14|
+|20|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|14807|4|2021-12-29|
+|21|[ibireme/YYText](https://github.com/ibireme/YYText)|Powerful text framework for iOS to display and edit rich text.|8691|4|2021-12-02|
+|22|[git-up/GitUp](https://github.com/git-up/GitUp)|The Git interface you've been missing all your life has finally arrived.|10037|4|2021-12-29|
 |23|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|4|2021-10-12|
-|24|[WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)|A fully customizable iOS calendar library, compatible with Objective-C and Swift|9837|4|2021-12-14|
-|25|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|472|4|2021-09-09|
+|24|[WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)|A fully customizable iOS calendar library, compatible with Objective-C and Swift|9838|4|2021-12-14|
+|25|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|473|4|2021-09-09|
 |26|[alibaba/coobjc](https://github.com/alibaba/coobjc)|coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun ...|3923|4|2021-09-26|
-|27|[gnachman/iTerm2](https://github.com/gnachman/iTerm2)|iTerm2 is a terminal emulator for Mac OS X that does amazing things.|11773|3|2021-12-28|
-|28|[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)|MBProgressHUD + Customizations|15935|3|2021-12-23|
-|29|[CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension)|A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.|8458|3|2021-12-27|
-|30|[AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)|CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.|5507|3|2021-08-20|
-|31|[sequelpro/sequelpro](https://github.com/sequelpro/sequelpro)|MySQL/MariaDB database management for macOS|8555|3|2021-06-07|
-|32|[CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|A fast & simple, yet powerful & flexible logging framework for Mac and iOS|12589|3|2021-12-27|
-|33|[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)|Staggeringly powerful macOS desktop automation with Lua|8565|3|2021-12-28|
+|27|[gnachman/iTerm2](https://github.com/gnachman/iTerm2)|iTerm2 is a terminal emulator for Mac OS X that does amazing things.|11776|3|2021-12-28|
+|28|[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)|MBProgressHUD + Customizations|15934|3|2021-12-23|
+|29|[CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension)|A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.|8457|3|2021-12-27|
+|30|[AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)|CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.|5509|3|2021-08-20|
+|31|[sequelpro/sequelpro](https://github.com/sequelpro/sequelpro)|MySQL/MariaDB database management for macOS|8556|3|2021-06-07|
+|32|[CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|A fast & simple, yet powerful & flexible logging framework for Mac and iOS|12591|3|2021-12-27|
+|33|[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)|Staggeringly powerful macOS desktop automation with Lua|8568|3|2021-12-28|
 |34|[ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping|5267|3|2021-12-23|
 |35|[ccgus/fmdb](https://github.com/ccgus/fmdb)|A Cocoa / Objective-C wrapper around SQLite|13629|3|2021-12-24|
-|36|[SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|A clean and lightweight progress HUD for your iOS and tvOS app.|12334|3|2021-11-15|
+|36|[SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|A clean and lightweight progress HUD for your iOS and tvOS app.|12335|3|2021-11-15|
 |37|[Mantle/Mantle](https://github.com/Mantle/Mantle)|Model framework for Cocoa and Cocoa Touch|11320|3|2021-11-05|
-|38|[robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|Asynchronous socket networking library for Mac and iOS|12105|3|2021-12-21|
+|38|[robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|Asynchronous socket networking library for Mac and iOS|12106|3|2021-12-21|
 |39|[Flipboard/FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)|Performant animated GIF engine for iOS|7719|3|2021-12-09|
 |40|[facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)|A conforming Objective-C WebSocket client library.|9277|3|2021-09-26|
 |41|[PureLayout/PureLayout](https://github.com/PureLayout/PureLayout)|The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.|7547|3|2021-09-08|
-|42|[Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX)|GUI for v2ray-core on macOS|6578|3|2021-08-12|
-|43|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|80|3|2021-12-14|
-|44|[ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自 ...|6607|3|2021-12-01|
-|45|[OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)|🕹 Retro video game emulation for macOS|13402|3|2021-12-26|
+|42|[Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX)|GUI for v2ray-core on macOS|6577|3|2021-08-12|
+|43|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|81|3|2021-12-14|
+|44|[ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自 ...|6606|3|2021-12-01|
+|45|[OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)|🕹 Retro video game emulation for macOS|13405|3|2021-12-29|
 |46|[Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|3840|2|2021-08-19|
-|47|[MacPass/MacPass](https://github.com/MacPass/MacPass)|A native OS X KeePass client |6036|2|2021-12-06|
-|48|[TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController)|A view controller for iOS that allows users to crop portions of UIImage objects|4213|2|2021-12-16|
-|49|[mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|A simple iOS photo and video browser with grid view, captions and selections.|8772|2|2021-10-19|
-|50|[julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)|Send User Notifications on macOS from the command-line.|5772|2|2021-11-26|
+|47|[MacPass/MacPass](https://github.com/MacPass/MacPass)|A native OS X KeePass client |6037|2|2021-12-06|
+|48|[TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController)|A view controller for iOS that allows users to crop portions of UIImage objects|4215|2|2021-12-16|
+|49|[mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|A simple iOS photo and video browser with grid view, captions and selections.|8771|2|2021-10-19|
+|50|[julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)|Send User Notifications on macOS from the command-line.|5773|2|2021-11-26|
 |51|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5458|2|2021-12-16|
-|52|[LaiFengiOS/LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)|LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate|4259|2|2021-09-14|
-|53|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|2917|2|2021-11-16|
-|54|[keycastr/keycastr](https://github.com/keycastr/keycastr)|KeyCastr, an open-source keystroke visualizer|7486|2|2021-11-07|
-|55|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4735|2|2021-12-24|
-|56|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|2696|2|2021-12-23|
+|52|[LaiFengiOS/LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)|LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate|4260|2|2021-09-14|
+|53|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|2918|2|2021-11-16|
+|54|[keycastr/keycastr](https://github.com/keycastr/keycastr)|KeyCastr, an open-source keystroke visualizer|7490|2|2021-11-07|
+|55|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4737|2|2021-12-24|
+|56|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|2699|2|2021-12-23|
 |57|[xmartlabs/XLForm](https://github.com/xmartlabs/XLForm)|XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. |5750|2|2021-12-09|
 |58|[youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4152|2|2021-07-26|
-|59|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|Prevents your Mac from going to sleep.|4352|2|2021-12-11|
-|60|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3335|2|2021-12-28|
-|61|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|264|2|2021-09-25|
+|59|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|Prevents your Mac from going to sleep.|4353|2|2021-12-11|
+|60|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3336|2|2021-12-29|
+|61|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|265|2|2021-09-25|
 |62|[jverdi/JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)|UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users|7136|2|2021-07-12|
 |63|[mutualmobile/MMDrawerController](https://github.com/mutualmobile/MMDrawerController)| A lightweight, easy to use, Side Drawer Navigation Controller|6810|2|2021-06-18|
 |64|[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)|UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.|5081|2|2021-07-17|
@@ -73,38 +73,38 @@
 |66|[tonsky/AnyBar](https://github.com/tonsky/AnyBar)|OS X menubar status indicator|5642|2|2021-11-16|
 |67|[tonymillion/Reachability](https://github.com/tonymillion/Reachability)|ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability|6951|2|2021-11-03|
 |68|[MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill)|Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine|3078|2|2021-12-16|
-|69|[robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)|An XMPP Framework in Objective-C for Mac and iOS|5905|2|2021-08-02|
-|70|[LillieWeeb001/Return-YouTube-Dislikes](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)|-|4|2|2021-12-27|
+|69|[robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)|An XMPP Framework in Objective-C for Mac and iOS|5905|2|2021-12-29|
+|70|[LillieWeeb001/Return-YouTube-Dislikes](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)|-|5|2|2021-12-29|
 |71|[QMUI/LookinServer](https://github.com/QMUI/LookinServer)|Free macOS app for iOS view debugging.|1865|2|2021-09-11|
-|72|[jverkoey/nimbus](https://github.com/jverkoey/nimbus)|The iOS framework that grows only as fast as its documentation|6495|2|2021-12-01|
+|72|[jverkoey/nimbus](https://github.com/jverkoey/nimbus)|The iOS framework that grows only as fast as its documentation|6496|2|2021-12-01|
 |73|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|3641|2|2021-12-14|
-|74|[forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.|5860|2|2021-07-08|
-|75|[Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText)|Methods to allow using HTML code with CoreText|6172|2|2021-11-04|
-|76|[material-components/material-components-ios](https://github.com/material-components/material-components-ios)|[In maintenance mode] Modular and customizable Material Design UI components for iOS|4485|2|2021-12-28|
+|74|[forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.|5859|2|2021-07-08|
+|75|[Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText)|Methods to allow using HTML code with CoreText|6171|2|2021-11-04|
+|76|[material-components/material-components-ios](https://github.com/material-components/material-components-ios)|[In maintenance mode] Modular and customizable Material Design UI components for iOS|4487|2|2021-12-29|
 |77|[kif-framework/KIF](https://github.com/kif-framework/KIF)|Keep It Functional - An iOS Functional Testing Framework|6075|2|2021-12-14|
-|78|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5353|2|2021-12-22|
+|78|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5354|2|2021-12-22|
 |79|[apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker)|Email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail|995|2|2021-12-27|
-|80|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4367|2|2021-12-02|
-|81|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5185|2|2021-11-09|
+|80|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4368|2|2021-12-02|
+|81|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5184|2|2021-11-09|
 |82|[jsonmodel/jsonmodel](https://github.com/jsonmodel/jsonmodel)|Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.|6844|2|2021-11-06|
 |83|[joeldev/JLRoutes](https://github.com/joeldev/JLRoutes)|URL routing library for iOS with a simple block-based API|5526|2|2021-08-10|
-|84|[didi/Hummer](https://github.com/didi/Hummer)|一套移动端高性能高可用的动态化跨端开发框架|724|2|2021-12-27|
+|84|[didi/Hummer](https://github.com/didi/Hummer)|一套移动端高性能高可用的动态化跨端开发框架|724|2|2021-12-29|
 |85|[headkaze/Hackintool](https://github.com/headkaze/Hackintool)|The Swiss army knife of vanilla Hackintoshing|1833|2|2021-12-23|
 |86|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2|2021-11-20|
 |87|[SilverFruity/OCRunner](https://github.com/SilverFruity/OCRunner)|Execute Objective-C code as script.  iOS hotfix SDK. |443|1|2021-12-21|
 |88|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|166|1|2021-12-19|
 |89|[listenzz/HBDNavigationBar](https://github.com/listenzz/HBDNavigationBar)|A custom UINavigationBar for smooth switching between various states, including bar style, bar tint color,  background image, background alpha,   bar hidden, title text attributes, tint color, shadow  ...|1478|1|2021-11-22|
 |90|[chiahsien/CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|The waterfall (i.e., Pinterest-like) layout for UICollectionView.|4290|1|2021-12-26|
-|91|[dustturtle/RealReachability](https://github.com/dustturtle/RealReachability)|We need to observe the REAL reachability of network. That's what RealReachability do.|3042|1|2021-10-14|
+|91|[dustturtle/RealReachability](https://github.com/dustturtle/RealReachability)|We need to observe the REAL reachability of network. That's what RealReachability do.|3041|1|2021-10-14|
 |92|[mattt/CargoBay](https://github.com/mattt/CargoBay)|The Essential StoreKit Companion|1784|1|2021-06-22|
 |93|[novastone-media/MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework)|iOS, macOS, tvOS native ObjectiveC MQTT Client Framework|1722|1|2021-09-21|
-|94|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2512|1|2021-12-12|
-|95|[QMUI/QMUIDemo_iOS](https://github.com/QMUI/QMUIDemo_iOS)|Sample Code for QMUI iOS|971|1|2021-12-23|
+|94|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2514|1|2021-12-12|
+|95|[QMUI/QMUIDemo_iOS](https://github.com/QMUI/QMUIDemo_iOS)|Sample Code for QMUI iOS|972|1|2021-12-23|
 |96|[phoboslab/Ejecta](https://github.com/phoboslab/Ejecta)|A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS|2769|1|2021-06-22|
-|97|[HighwayLaw/HWBlocksUI](https://github.com/HighwayLaw/HWBlocksUI)|optimize UIKit with Blocks to make it Easier to write|6|1|2021-12-28|
+|97|[HighwayLaw/HWBlocksUI](https://github.com/HighwayLaw/HWBlocksUI)|optimize UIKit such as UITableview, UIButton, UITextField, UISwitch with Blocks to make it easier to write|7|1|2021-12-29|
 |98|[kostub/iosMath](https://github.com/kostub/iosMath)|Beautiful math equation rendering on iOS and MacOS|1217|1|2021-10-11|
 |99|[nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view|3684|1|2021-09-07|
-|100|[syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)|Frugal and native macOS Syncthing application bundle|1428|1|2021-12-20|
+|100|[syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)|Frugal and native macOS Syncthing application bundle|1430|1|2021-12-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

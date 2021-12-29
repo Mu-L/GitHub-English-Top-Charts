@@ -1,28 +1,28 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1024|2021-10-09|
 |2|[schneems/Octave](https://github.com/schneems/Octave)|my octave exercises for 2011 stanford machine learning class, posted after the due date of course|797|2021-07-02|
-|3|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|499|2021-10-09|
+|3|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|500|2021-10-09|
 |4|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|479|2021-10-04|
 |5|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|357|2021-10-09|
-|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|341|2021-11-11|
+|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|342|2021-11-11|
 |7|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|336|2021-06-16|
 |8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|257|2021-10-21|
-|9|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|252|2021-12-16|
-|10|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |248|2021-08-14|
+|9|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|254|2021-12-16|
+|10|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |249|2021-08-14|
 |11|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|191|2021-12-14|
-|12|[emilbjornson/massivemimobook](https://github.com/emilbjornson/massivemimobook)|Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Tren ...|187|2021-07-29|
+|12|[emilbjornson/massivemimobook](https://github.com/emilbjornson/massivemimobook)|Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Tren ...|188|2021-07-29|
 |13|[lucklab/erplab](https://github.com/lucklab/erplab)|ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools ...|187|2021-11-05|
 |14|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|151|2021-12-22|
 |15|[PatternRecognition/OpenBMI](https://github.com/PatternRecognition/OpenBMI)|An open software package dedicated for the development of Brain-Computer Interfaces with various advanced pattern recognition algorithms|150|2021-12-27|
 |16|[hiroyuki-kasai/SGDLibrary](https://github.com/hiroyuki-kasai/SGDLibrary)|MATLAB/Octave library for stochastic optimization algorithms: Version 1.0.20|147|2021-10-07|
 |17|[peterhcharlton/RRest](https://github.com/peterhcharlton/RRest)|Algorithms to estimate respiratory rate from physiological signals|107|2021-11-15|
-|18|[yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)|Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communica ...|99|2021-12-22|
+|18|[yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)|Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communica ...|101|2021-12-22|
 |19|[AaltoML/SDE](https://github.com/AaltoML/SDE)|Example codes for the book Applied Stochastic Differential Equations|94|2021-07-14|
 |20|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|2021-11-14|
 |21|[kunhe/FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)|Code for CVPR 2019 paper "Deep Metric Learning to Rank"|88|2021-09-21|
@@ -49,7 +49,7 @@
 |42|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|39|2021-12-05|
 |43|[MOBATSim/MOBATSim](https://github.com/MOBATSim/MOBATSim)|MOBATSim (Model-based Autonomous Traffic Simulation Framework) is a framework based on MATLAB® and Simulink® that allows users to develop automated driving algorithms and assess their safety and perfo ...|37|2021-12-07|
 |44|[dgleich/gaimc](https://github.com/dgleich/gaimc)|Graph Algorithms in Matlab Code|37|2021-09-30|
-|45|[mparkan/Digital-Forestry-Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox)|A collection of digital forestry tools for Matlab/Octave|34|2021-09-30|
+|45|[mparkan/Digital-Forestry-Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox)|A collection of digital forestry tools for Matlab/Octave|33|2021-09-30|
 |46|[modenaxe/msk-STAPLE](https://github.com/modenaxe/msk-STAPLE)|STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented  ...|32|2021-12-14|
 |47|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|32|2021-10-18|
 |48|[AdrienTaylor/Performance-Estimation-Toolbox](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)|Code of the Performance Estimation Toolbox (PESTO) whose aim is to ease the access to the PEP methodology for performing worst-case analyses of first-order methods in convex and nonconvex optimization ...|32|2021-12-02|
@@ -68,7 +68,7 @@
 |61|[zhiwu-huang/SPDNet](https://github.com/zhiwu-huang/SPDNet)|GitHub repository for "A Riemannian Network for SPD Matrix Learning", AAAI 2017.|26|2021-06-05|
 |62|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs) (https://arxiv.org/abs/2109.12313, https: ...|25|2021-10-07|
 |63|[IvLabs/robust_quadcopter_control](https://github.com/IvLabs/robust_quadcopter_control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|25|2021-12-06|
-|64|[lz118/RGBT-Salient-Object-Detection](https://github.com/lz118/RGBT-Salient-Object-Detection)|A resource collection of RGBT Salient Object Detection|24|2021-11-09|
+|64|[lz118/RGBT-Salient-Object-Detection](https://github.com/lz118/RGBT-Salient-Object-Detection)|A resource collection of RGBT Salient Object Detection|25|2021-11-09|
 |65|[lionel-rigoux/tutorial-bayesian-inference](https://github.com/lionel-rigoux/tutorial-bayesian-inference)|A collection of simple implementation of various inference methods|24|2021-09-13|
 |66|[GailGithub/GAIL_Dev](https://github.com/GailGithub/GAIL_Dev)|GAIL is a suite of algorithms for integration problems in one, many, and infinite dimensions, and whose answers are guaranteed to be correct.  GAIL is created, developed, and maintained by Fred Hicker ...|24|2021-11-19|
 |67|[abhishekapk/SMART-PARKING-SYSTEM](https://github.com/abhishekapk/SMART-PARKING-SYSTEM)|Computerized systems being an integral part of the current era, an automated parking system is one of its most commonly used applications.  The aim of this model is to build up and implement an automa ...|23|2021-10-14|
@@ -101,10 +101,10 @@
 |94|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|15|2021-10-24|
 |95|[bakerjw/GMMs](https://github.com/bakerjw/GMMs)|A collection of ground motion model functions|15|2021-12-17|
 |96|[AngeloUNIMI/PalmSeg](https://github.com/AngeloUNIMI/PalmSeg)|Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers|15|2021-09-06|
-|97|[geekysuavo/variational-bayes-cs](https://github.com/geekysuavo/variational-bayes-cs)|Scalable sparse Bayesian learning for large CS recovery problems|15|2021-07-04|
-|98|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|14|2021-12-07|
-|99|[shahind/Nature-Inspired-Algorithms](https://github.com/shahind/Nature-Inspired-Algorithms)|Sample Code Collection of Nature-Inspired Computational Methods|14|2021-10-04|
-|100|[chenhui07c8/DOA-AOA-algorithms](https://github.com/chenhui07c8/DOA-AOA-algorithms)|Direction-of-Arrival Algorithms|14|2021-06-06|
+|97|[chenhui07c8/DOA-AOA-algorithms](https://github.com/chenhui07c8/DOA-AOA-algorithms)|Direction-of-Arrival Algorithms|15|2021-12-29|
+|98|[geekysuavo/variational-bayes-cs](https://github.com/geekysuavo/variational-bayes-cs)|Scalable sparse Bayesian learning for large CS recovery problems|15|2021-07-04|
+|99|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|14|2021-12-07|
+|100|[shahind/Nature-Inspired-Algorithms](https://github.com/shahind/Nature-Inspired-Algorithms)|Sample Code Collection of Nature-Inspired Computational Methods|14|2021-10-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

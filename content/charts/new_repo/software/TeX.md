@@ -1,21 +1,21 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|952|2021-10-03|2021-09-02|
+|1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|953|2021-10-03|2021-09-02|
 |2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|534|2021-10-15|2021-06-11|
-|3|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|398|2021-12-21|2021-11-18|
-|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|394|2021-12-21|2021-12-09|
+|3|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|399|2021-12-21|2021-11-18|
+|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|395|2021-12-21|2021-12-09|
 |5|[NCIC-PARALLEL/GSWITCH-tool](https://github.com/NCIC-PARALLEL/GSWITCH-tool)|-|316|2021-07-22|2021-07-22|
 |6|[jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)|Cheat sheet for x86-64 Unix systems programming|293|2021-07-02|2021-06-30|
 |7|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|273|2021-11-20|2021-11-19|
 |8|[NCIC-PARALLEL/GSWITCH-SDK](https://github.com/NCIC-PARALLEL/GSWITCH-SDK)|-|212|2021-07-22|2021-07-22|
 |9|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|194|2021-12-23|2021-07-06|
 |10|[aterenin/phdthesis](https://github.com/aterenin/phdthesis)|Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces|167|2021-10-12|2021-06-28|
-|11|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|136|2021-12-28|2021-12-18|
+|11|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|138|2021-12-28|2021-12-18|
 |12|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|111|2021-11-04|2021-04-22|
 |13|[dl4nlp-tuda2021/deep-learning-for-nlp-lectures](https://github.com/dl4nlp-tuda2021/deep-learning-for-nlp-lectures)|Deep Learning for Natural Language Processing - Lectures 2021|95|2021-07-27|2021-04-12|
 |14|[HoTT/EPIT-2020](https://github.com/HoTT/EPIT-2020)|EPIT 2020 - Spring School on Homotopy Type Theory|91|2021-07-29|2021-03-19|
@@ -28,15 +28,15 @@
 |21|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|51|2021-10-31|2021-10-19|
 |22|[lvjr/tabularray](https://github.com/lvjr/tabularray)|Typeset tabulars and arrays with LaTeX3|51|2021-12-01|2021-02-28|
 |23|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|49|2021-11-13|2021-11-05|
-|24|[yuanqidu/awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation)|-|44|2021-11-19|2021-08-07|
-|25|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|42|2021-12-27|2021-12-16|
+|24|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|45|2021-12-27|2021-12-16|
+|25|[yuanqidu/awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation)|-|44|2021-11-19|2021-08-07|
 |26|[KeyvinSV/Plantilla-Tesis-UNI-LaTeX](https://github.com/KeyvinSV/Plantilla-Tesis-UNI-LaTeX)|LaTeX Template para tesis de grado de la Universidad Nacional de Ingeniería |40|2021-08-29|2021-05-11|
 |27|[j-jorge/counting-in-cpp](https://github.com/j-jorge/counting-in-cpp)|-|39|2021-12-16|2021-05-18|
 |28|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|39|2021-08-31|2021-05-17|
 |29|[yegor256/ssd16](https://github.com/yegor256/ssd16)|16 lectures about "Software Systems Design" presented in Innopolis University in 2021 for 3rd year BSc students|38|2021-11-28|2021-08-14|
-|30|[minvws/nl-covid19-coronacheck-app-coordination](https://github.com/minvws/nl-covid19-coronacheck-app-coordination)|CoronaCheck Documentation and Repo Overview |38|2021-12-24|2021-01-22|
-|31|[abaksy/pesu-cse-notes](https://github.com/abaksy/pesu-cse-notes)|My personal notes for CSE at PESU Bengaluru|36|2021-12-14|2021-12-14|
-|32|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |36|2021-12-28|2021-07-09|
+|30|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |38|2021-12-28|2021-07-09|
+|31|[minvws/nl-covid19-coronacheck-app-coordination](https://github.com/minvws/nl-covid19-coronacheck-app-coordination)|CoronaCheck Documentation and Repo Overview |38|2021-12-24|2021-01-22|
+|32|[abaksy/pesu-cse-notes](https://github.com/abaksy/pesu-cse-notes)|My personal notes for CSE at PESU Bengaluru|36|2021-12-14|2021-12-14|
 |33|[contextgarden/not-so-short-introduction-to-context](https://github.com/contextgarden/not-so-short-introduction-to-context)|A not so short introduction to ConTeXt. Help to get started with the wonderful and fascinating typesetting and document composition system ConTeXt|35|2021-12-27|2021-01-04|
 |34|[conal/paper-2021-language-derivatives](https://github.com/conal/paper-2021-language-derivatives)|Paper and talk|33|2021-10-23|2021-02-12|
 |35|[LiShanwenGit/MelonPI-MINI](https://github.com/LiShanwenGit/MelonPI-MINI)|-|33|2021-09-05|2021-02-05|
@@ -47,13 +47,13 @@
 |40|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|28|2021-12-17|2021-07-15|
 |41|[wutong8023/Awesome_Information_Extraction](https://github.com/wutong8023/Awesome_Information_Extraction)|Literature Survey of Information Extraction, especially Relation Extraction, Event Extraction, and Slot Filling.|27|2021-10-06|2021-06-21|
 |42|[Aarif123456/modern-deedy](https://github.com/Aarif123456/modern-deedy)|A resume template based on Deedy|25|2021-08-06|2021-06-01|
-|43|[polystat/polystat](https://github.com/polystat/polystat)|Polyglot Static Analyzer for Object-Oriented Programs Based on EOLANG and 𝜑-Calculus|25|2021-12-28|2021-02-08|
+|43|[polystat/polystat](https://github.com/polystat/polystat)|Polyglot Static Analyzer for Object-Oriented Programs Based on EOLANG and 𝜑-Calculus|25|2021-12-29|2021-02-08|
 |44|[wellington36/Resumos_EMAP-FGV](https://github.com/wellington36/Resumos_EMAP-FGV)|Repositório de resumos do curso de Matemática Aplicada da FGV-EMAP|23|2021-12-21|2021-08-28|
 |45|[Astremy/ProblemesAlgorithmiques](https://github.com/Astremy/ProblemesAlgorithmiques)|-|23|2021-08-12|2021-01-11|
-|46|[microsoft/ifc-spec](https://github.com/microsoft/ifc-spec)|IFC format specification|21|2021-12-06|2021-07-19|
-|47|[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports)|南方科技大学硕士开题报告、年度考核报告 （中/英）|21|2021-12-16|2021-05-18|
-|48|[doem97/NTU-EEE-MSc-Dissertation-Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template)|EEE Latex Dissertation Template, Nanyang Technological University (NTU), re-defined in 2021|21|2021-07-06|2021-03-13|
-|49|[BartoszMilewski/PolyLens](https://github.com/BartoszMilewski/PolyLens)|Polynomial Lens|20|2021-12-27|2021-11-26|
+|46|[BartoszMilewski/PolyLens](https://github.com/BartoszMilewski/PolyLens)|Polynomial Lens|21|2021-12-29|2021-11-26|
+|47|[microsoft/ifc-spec](https://github.com/microsoft/ifc-spec)|IFC format specification|21|2021-12-06|2021-07-19|
+|48|[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports)|南方科技大学硕士开题报告、年度考核报告 （中/英）|21|2021-12-16|2021-05-18|
+|49|[doem97/NTU-EEE-MSc-Dissertation-Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template)|EEE Latex Dissertation Template, Nanyang Technological University (NTU), re-defined in 2021|21|2021-07-06|2021-03-13|
 |50|[Caioflp/monitoria-algebra-linear](https://github.com/Caioflp/monitoria-algebra-linear)|Repositório para disponibilizar o material feito pelos monitores da disciplida de Álgebra Linear da EMAp.|20|2021-11-17|2021-08-04|
 |51|[eventoseroficial/Data_and_Code](https://github.com/eventoseroficial/Data_and_Code)|-|20|2021-06-10|2021-05-04|
 |52|[IIC2213/Syllabus-2021-1-](https://github.com/IIC2213/Syllabus-2021-1-)|-|20|2021-08-19|2021-03-12|
@@ -65,8 +65,8 @@
 |58|[llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook)|Low-Level Software Security for Compiler Developers|18|2021-12-23|2021-04-30|
 |59|[s-expressionists/wscl](https://github.com/s-expressionists/wscl)|Sources of the "Well Specified Common Lisp" specification which is based on the final draft of the Common Lisp standard but is not a new Common Lisp standard.|17|2021-12-16|2021-06-21|
 |60|[TMD44/elte-ik-pti-bsc-zarovizsga](https://github.com/TMD44/elte-ik-pti-bsc-zarovizsga)|ELTE IK - Programtervező Informatikus BSc Záróvizsga tételek kidolgozása|17|2021-11-30|2021-06-07|
-|61|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
-|62|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: Overleaf-compatible template (and even Mac-compatible)! Save your time and FU TONGJ!|16|2021-06-07|2021-05-12|
+|61|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: Overleaf-compatible template (and even Mac-compatible)! Save your time and FU TONGJ!|17|2021-06-07|2021-05-12|
+|62|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
 |63|[lilygeorgescu/AED-SSMTL](https://github.com/lilygeorgescu/AED-SSMTL)|-|15|2021-07-29|2021-06-18|
 |64|[riscv/docs-templates](https://github.com/riscv/docs-templates)|Documentation templates and build tools|15|2021-12-02|2021-03-04|
 |65|[calebstewart/calebstew.art](https://github.com/calebstewart/calebstew.art)|Landing page for calebstew.art|15|2021-12-01|2021-01-21|
@@ -74,7 +74,7 @@
 |67|[leonardoalt/hevm_paper](https://github.com/leonardoalt/hevm_paper)|-|14|2021-12-03|2021-12-03|
 |68|[eddieschoute/dissertation-template-umd](https://github.com/eddieschoute/dissertation-template-umd)|A template for University of Maryland dissertations|14|2021-11-20|2021-11-20|
 |69|[RylanSchaeffer/Stanford-LaTeX-Poster-Template](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template)|-|14|2021-10-27|2021-10-27|
-|70|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|14|2021-12-28|2021-09-02|
+|70|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|14|2021-12-29|2021-09-02|
 |71|[mdx-workshop/mdx-submissions21](https://github.com/mdx-workshop/mdx-submissions21)|Music Demixing Challenge Submission Repo|14|2021-12-07|2021-07-06|
 |72|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|13|2021-12-05|2021-11-17|
 |73|[mRokita/wut-thesis-pandoc](https://github.com/mRokita/wut-thesis-pandoc)|-|13|2021-11-14|2021-11-12|
@@ -98,7 +98,7 @@
 |91|[iamkashz/reporting-template](https://github.com/iamkashz/reporting-template)|Reporting template for OSCP, VHL and more.|11|2021-10-30|2021-10-29|
 |92|[darkGrimoire/ta1-latex-itb](https://github.com/darkGrimoire/ta1-latex-itb)|LaTeX template for TA1 report at Informatics Engineering ITB|11|2021-10-20|2021-10-16|
 |93|[Peltorator/peltorator-cp-book](https://github.com/Peltorator/peltorator-cp-book)|Сборник статей по спортивному программированию 2.0|11|2021-11-29|2021-08-14|
-|94|[Simulation-Software-Engineering/Lecture-Material](https://github.com/Simulation-Software-Engineering/Lecture-Material)|Material for the Simulation Software Engineering Lecture|11|2021-12-21|2021-08-02|
+|94|[Simulation-Software-Engineering/Lecture-Material](https://github.com/Simulation-Software-Engineering/Lecture-Material)|Material for the Simulation Software Engineering Lecture|11|2021-12-29|2021-08-02|
 |95|[tlaplus/PlusCalCheatSheet](https://github.com/tlaplus/PlusCalCheatSheet)|PlusCal Cheat Sheet by Stephan Merz|11|2021-06-29|2021-06-29|
 |96|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|2021-06-16|
 |97|[janne808/Kocmoc-Eurorack](https://github.com/janne808/Kocmoc-Eurorack)|Kocmoc Free Open Source Hardware for Eurorack|11|2021-08-27|2021-06-04|

@@ -1,29 +1,29 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1707|2021-12-15|2021-12-01|
-|2|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|624|2021-12-20|2021-05-16|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1715|2021-12-15|2021-12-01|
+|2|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|627|2021-12-20|2021-05-16|
 |3|[dbaroncelli/D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample)|D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.|474|2021-07-02|2021-03-16|
-|4|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|370|2021-07-29|2021-04-18|
+|4|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|371|2021-07-29|2021-04-18|
 |5|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|278|2021-10-23|2021-06-22|
 |6|[baronha/react-native-multiple-image-picker](https://github.com/baronha/react-native-multiple-image-picker)|🏞 react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS, similar to the current Facebook app.|135|2021-10-29|2021-02-21|
-|7|[imandolatkia/FullScreenCardViewPager_Android](https://github.com/imandolatkia/FullScreenCardViewPager_Android)|Endless full-screen card ViewPager inspired by apple iBook for Android|117|2021-10-27|2021-07-05|
+|7|[imandolatkia/FullScreenCardViewPager_Android](https://github.com/imandolatkia/FullScreenCardViewPager_Android)|Endless full-screen card ViewPager inspired by apple iBook for Android|118|2021-10-27|2021-07-05|
 |8|[SimformSolutionsPvtLtd/SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook)|A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌|106|2021-12-24|2021-06-22|
 |9|[slackhq/slack-lints](https://github.com/slackhq/slack-lints)|A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.|98|2021-12-15|2021-10-20|
-|10|[c5inco/Compose-Modifiers-Playground](https://github.com/c5inco/Compose-Modifiers-Playground)|Interactive playground for learning how to use Jetpack Compose modifiers|97|2021-12-27|2021-03-19|
-|11|[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects ...|90|2021-12-28|2021-01-03|
+|10|[c5inco/Compose-Modifiers-Playground](https://github.com/c5inco/Compose-Modifiers-Playground)|Interactive playground for learning how to use Jetpack Compose modifiers|97|2021-12-29|2021-03-19|
+|11|[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects ...|91|2021-12-28|2021-01-03|
 |12|[Vaibhav2002/Taskify](https://github.com/Vaibhav2002/Taskify)|Taskify - An app to manage your daily tasks and boost your productivity. Taskify is built using kotlin and follows all modern android Development practices and hence is a good learning resource for be ...|81|2021-11-06|2021-06-10|
 |13|[zsmb13/requireKTX](https://github.com/zsmb13/requireKTX)|A collection of small utility functions to make it easier to deal with some otherwise nullable APIs on Android.|73|2021-06-10|2021-05-27|
-|14|[wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app)|An app full of Constantly updating Google Pixel wallpapers |71|2021-12-22|2021-09-20|
+|14|[wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app)|An app full of Constantly updating Google Pixel wallpapers |72|2021-12-22|2021-09-20|
 |15|[SimformSolutionsPvtLtd/Kotlin-multiplatform-sample](https://github.com/SimformSolutionsPvtLtd/Kotlin-multiplatform-sample)|A sample Kotlin Multiplatform project having native UI and shared bussiness logic on Android and iOS platforms.|70|2021-10-01|2021-01-18|
 |16|[ellisonchan/JetpackDemo](https://github.com/ellisonchan/JetpackDemo)|Jetpack demo that used to show how to use Jetpack libraries.|66|2021-06-27|2021-01-31|
 |17|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|65|2021-10-13|2021-04-12|
-|18|[adrianwitaszak/PexWallpapers](https://github.com/adrianwitaszak/PexWallpapers)|Android application following best practices: Jetpack, Jetpack Compose, Modularity, Clean Architecture, Kotlin Coroutines, Tests, MVVM, DI, Static Analysis|61|2021-12-19|2021-11-06|
-|19|[ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose)|A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!|60|2021-12-15|2021-08-07|
+|18|[adrianwitaszak/PexWallpapers](https://github.com/adrianwitaszak/PexWallpapers)|Android application following best practices: Jetpack, Jetpack Compose, Modularity, Clean Architecture, Kotlin Coroutines, Tests, MVVM, DI, Static Analysis|62|2021-12-19|2021-11-06|
+|19|[ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose)|A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!|60|2021-12-28|2021-08-07|
 |20|[Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow](https://github.com/Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow)|[IN PROGRESS...] Play MVI with Kotlin Coroutines Flow and Jetpack Compose   MVI pattern on Android using Kotlin Coroutines Flow   Dagger Hilt DI   Koin DI   SharedFlow   StateFlow   Jetpack Compose MV ...|57|2021-12-15|2021-03-02|
 |21|[nihk/videopager](https://github.com/nihk/videopager)|An app showing how to make an Instagram/YouTube Shorts/TikTok style video pager|50|2021-12-26|2021-06-20|
 |22|[romainguy/experiment-apex](https://github.com/romainguy/experiment-apex)|A basic, incomplete, buggy, far from efficient UI toolkit for Kotlin/Android. An experiment for fun and to learn.|47|2021-11-25|2021-11-25|
@@ -31,16 +31,16 @@
 |24|[andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work)|This is the companion repository for the book How Query Engines Work.|38|2021-09-19|2021-01-27|
 |25|[romychab/android-tutorials](https://github.com/romychab/android-tutorials)|Source code from YouTube video tutorials|36|2021-12-27|2021-04-28|
 |26|[pranjal-codes/Pathfinding-Visualizer](https://github.com/pranjal-codes/Pathfinding-Visualizer)|An Android application which visualizes some of the famous Algorithms for finding path from Source to Destination in a 2D grid. |34|2021-06-17|2021-06-14|
-|27|[alexmamo/FireApp](https://github.com/alexmamo/FireApp)|FirebaseApp is built for learning purposes, especially to see how Firebase Products work together.|32|2021-11-30|2021-06-03|
-|28|[Ahmed-Sellami/List-Animations-In-Compose](https://github.com/Ahmed-Sellami/List-Animations-In-Compose)|Implementing multiple list animations in a walk-through series of articles.|31|2021-10-13|2021-08-19|
-|29|[ronnieotieno/JetPaclk-Compose-Spotify-UI](https://github.com/ronnieotieno/JetPaclk-Compose-Spotify-UI)|Just learning compose while building the Spotify ui.|31|2021-09-07|2021-08-09|
-|30|[k0siara/AndroidMVIExample](https://github.com/k0siara/AndroidMVIExample)|Example Jetpack Compose Android App, that uses the newest mechanisms, like StateFlow, SharedFlow, etc. to manage states and handle events. ViewModel, UI and Screenshot tests included :)|31|2021-07-29|2021-06-05|
+|27|[k0siara/AndroidMVIExample](https://github.com/k0siara/AndroidMVIExample)|Example Jetpack Compose Android App, that uses the newest mechanisms, like StateFlow, SharedFlow, etc. to manage states and handle events. ViewModel, UI and Screenshot tests included :)|32|2021-07-29|2021-06-05|
+|28|[alexmamo/FireApp](https://github.com/alexmamo/FireApp)|FirebaseApp is built for learning purposes, especially to see how Firebase Products work together.|32|2021-11-30|2021-06-03|
+|29|[Ahmed-Sellami/List-Animations-In-Compose](https://github.com/Ahmed-Sellami/List-Animations-In-Compose)|Implementing multiple list animations in a walk-through series of articles.|31|2021-10-13|2021-08-19|
+|30|[ronnieotieno/JetPaclk-Compose-Spotify-UI](https://github.com/ronnieotieno/JetPaclk-Compose-Spotify-UI)|Just learning compose while building the Spotify ui.|31|2021-09-07|2021-08-09|
 |31|[appmattus/crypto](https://github.com/appmattus/crypto)|A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.|31|2021-09-23|2021-03-13|
 |32|[jpa-buddy/kotlin-entities](https://github.com/jpa-buddy/kotlin-entities)|This repository shows how to declare Hibernate entities using Kotlin|30|2021-06-02|2021-05-20|
 |33|[JohannBlake/navigation-with-animated-transitions-using-jetpack-compose](https://github.com/JohannBlake/navigation-with-animated-transitions-using-jetpack-compose)|DEPRECATED - Demonstates how to create animated transitions to and from screens using Jetpack Compose.|30|2021-09-30|2021-02-22|
 |34|[wyskoj/midis2jam2](https://github.com/wyskoj/midis2jam2)|🎶 A remaster of MIDIJam, a 3D MIDI file visualizer.|29|2021-12-24|2021-02-25|
 |35|[DrBreen/AppSalvager](https://github.com/DrBreen/AppSalvager)|Small library that allows the application to display a small troubleshooting guide in case of repeated app startup crashes.|28|2021-11-22|2021-11-20|
-|36|[X1nto/AliucordPlugins](https://github.com/X1nto/AliucordPlugins)|A collection of plugins for Aliucord.|27|2021-12-27|2021-05-21|
+|36|[X1nto/AliucordPlugins](https://github.com/X1nto/AliucordPlugins)|A collection of plugins for Aliucord.|28|2021-12-27|2021-05-21|
 |37|[abdurakhmonoff/data-structures-and-algorithms-kotlin](https://github.com/abdurakhmonoff/data-structures-and-algorithms-kotlin)|Implementation of Data Structures and Algorithms in Kotlin Programming Language|24|2021-11-21|2021-04-01|
 |38|[theishandubey/18CSMP68](https://github.com/theishandubey/18CSMP68)|18CSMP68 Mobile Application Development Lab for VTU Students. This repository contains all lab programs, lab manual and learning resources and will be updated on regular basis to fix any error and bug ...|24|2021-08-12|2021-01-12|
 |39|[MohamedGElsharkawy/Android-CICD](https://github.com/MohamedGElsharkawy/Android-CICD)|This repo demonstrates how to work on CI/CD for Mobile Apps :iphone: using Github Actions :pill: + Firebase Distribution :tada:|23|2021-11-21|2021-10-17|
@@ -57,7 +57,7 @@
 |50|[google-developer-training/android-basics-kotlin-bus-schedule-app](https://github.com/google-developer-training/android-basics-kotlin-bus-schedule-app)|Learn to work with databases on Android using the Room persistence library.|18|2021-10-25|2021-06-10|
 |51|[EhmaUgbogo/EasyPref](https://github.com/EhmaUgbogo/EasyPref)|SharedPreference Library to save all types including your custom types and observe them if need be.|18|2021-11-10|2021-05-29|
 |52|[svenjacobs/leon](https://github.com/svenjacobs/leon)|Android app for removing tracking parameters from shared URLs|18|2021-10-29|2021-01-28|
-|53|[ytam/Jet-CoinList](https://github.com/ytam/Jet-CoinList)|Jet-CoinList is a simple app based on Jetpack Compose, modern tech-stack and Clean Architecture. The project is quite simple which shows the list of crypto currencies and their general info details ge ...|17|2021-12-15|2021-11-15|
+|53|[ytam/Jet-CoinList](https://github.com/ytam/Jet-CoinList)|Jet-CoinList is a simple app based on Jetpack Compose, modern tech-stack and Clean Architecture. The project is quite simple which shows the list of crypto currencies and their general info details ge ...|17|2021-12-29|2021-11-15|
 |54|[Ch3D/material-you-colors](https://github.com/Ch3D/material-you-colors)|How to use Material You colors in your app|17|2021-08-20|2021-08-16|
 |55|[RajashekarRaju/jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples)|This repository contains samples on jetpack compose for building different components like layouts, animations, transitions, saving states and more. Most of examples are demonstrated in blog posts.|17|2021-12-05|2021-03-11|
 |56|[hofiisek/Chezz](https://github.com/hofiisek/Chezz)|Implementation of chess in Kotlin, as a temporary fix of the lockdown boredom.. and, of course, to practice some Kotlin :)|17|2021-08-05|2021-01-03|
@@ -68,7 +68,7 @@
 |61|[jakobkmar/BlauBot](https://github.com/jakobkmar/BlauBot)|A discord bot providing a collection of useful and unrelated commands|15|2021-09-24|2021-01-28|
 |62|[lmj0011/save-on-device](https://github.com/lmj0011/save-on-device)|Android app that allows you to save a file shared from another app to your device.|14|2021-12-08|2021-10-17|
 |63|[VictorKabata/Gamex-Compose](https://github.com/VictorKabata/Gamex-Compose)|Simple android application that consumes RAWG API to display a list of games|14|2021-11-06|2021-10-03|
-|64|[opensrp/fhircore](https://github.com/opensrp/fhircore)|FHIR Core is a Kotlin application for delivering offline-capable, mobile-first healthcare project implementations from local community to national and international scale using FHIR and WHO Smart Guid ...|14|2021-12-28|2021-02-16|
+|64|[opensrp/fhircore](https://github.com/opensrp/fhircore)|FHIR Core is a Kotlin application for delivering offline-capable, mobile-first healthcare project implementations from local community to national and international scale using FHIR and WHO Smart Guid ...|14|2021-12-29|2021-02-16|
 |65|[bluegroundltd/bg-gradle-plugins](https://github.com/bluegroundltd/bg-gradle-plugins)|Collection of Blueground's Gradle plugins|13|2021-12-21|2021-12-14|
 |66|[Kashif-E/CleanViewModelAndMVVMWithSealedClasses](https://github.com/Kashif-E/CleanViewModelAndMVVMWithSealedClasses)|Clean MVVM with eliminating the usage of context from view models by introducing hilt for DI and sealed classes for displaying Errors in views using shared flows (one time event), and Stateflow for da ...|13|2021-12-11|2021-12-03|
 |67|[talsec/Free-RASP-Android](https://github.com/talsec/Free-RASP-Android)|Android guide + SDK. Check Community repository for common information.|13|2021-12-20|2021-06-16|
@@ -104,7 +104,7 @@
 |97|[raywenderlich/video-jca-materials](https://github.com/raywenderlich/video-jca-materials)|The projects and materials that accompany the Jetpack Compose Animations course|8|2021-09-01|2021-03-18|
 |98|[tuya/tuya-home-android-sdk-sample-kotlin](https://github.com/tuya/tuya-home-android-sdk-sample-kotlin)|This sample is designed to help developers learn how to use Tuya Smart Home Android SDK features.|8|2021-11-30|2021-01-27|
 |99|[ktorio/ktor-for-xyz](https://github.com/ktorio/ktor-for-xyz)|Ktor for XYZ tutorial|8|2021-07-09|2021-01-14|
-|100|[DanielWaiguru91/Remoter-Multi-Module-App](https://github.com/DanielWaiguru91/Remoter-Multi-Module-App)|A Multi-Module Mobile App that shows a list of available remote jobs and their details from Remotive Jobs API to demonstrate the concept of Modularization in android, Android Library modules and Dynam ...|7|2021-12-28|2021-12-11|
+|100|[DanielWaiguru91/Remoter-Multi-Module-App](https://github.com/DanielWaiguru91/Remoter-Multi-Module-App)|A Multi-Module Mobile App that shows a list of available remote jobs and their details from Remotive Jobs API to demonstrate the concept of Modularization in android, Android Library modules and Dynam ...|7|2021-12-29|2021-12-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

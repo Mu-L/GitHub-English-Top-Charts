@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -30,23 +30,23 @@
 |23|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|4|2021-12-10|2021-01-23|
 |24|[amosyuen/hubitat](https://github.com/amosyuen/hubitat)|Hubitat Apps and Drivers|4|2021-12-11|2021-01-05|
 |25|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
-|26|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
-|27|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2021-12-24|2021-07-27|
-|28|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
-|29|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
-|30|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
-|31|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
-|32|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
-|33|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
-|34|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
-|35|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2021-11-26|2021-11-13|
-|36|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2021-11-03|2021-11-01|
-|37|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
-|38|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
-|39|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
-|40|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|2|2021-12-24|2021-10-04|
-|41|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
-|42|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|2|2021-12-28|2021-09-07|
+|26|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|3|2021-12-29|2021-09-07|
+|27|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
+|28|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2021-12-24|2021-07-27|
+|29|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
+|30|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
+|31|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
+|32|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
+|33|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
+|34|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
+|35|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
+|36|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2021-11-26|2021-11-13|
+|37|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2021-11-03|2021-11-01|
+|38|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
+|39|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
+|40|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
+|41|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|2|2021-12-24|2021-10-04|
+|42|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
 |43|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
 |44|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
 |45|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
@@ -62,14 +62,15 @@
 |55|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
 |56|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
 |57|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|
-|58|[jongpie/advanced-SFDX-Jenkins-deployment](https://github.com/jongpie/advanced-SFDX-Jenkins-deployment)|-|2|2021-06-16|2021-04-16|
-|59|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
-|60|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
-|61|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
-|62|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|63|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-28|2021-02-05|
-|64|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
-|65|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
+|58|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|59|[jongpie/advanced-SFDX-Jenkins-deployment](https://github.com/jongpie/advanced-SFDX-Jenkins-deployment)|-|2|2021-06-16|2021-04-16|
+|60|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|61|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
+|62|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
+|63|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
+|64|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-29|2021-02-05|
+|65|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
+|66|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@
 |24|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|0|2021-07-04|
 |25|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|0|2021-12-12|
 |26|[beNative/Concepts](https://github.com/beNative/Concepts)|A collection of modules which demonstrate some programming concepts and Delphi libraries.|53|0|2021-06-24|
-|27|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|0|2021-12-26|
+|27|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|8|0|2021-12-29|
 |28|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|0|2021-11-14|
 |29|[xluffy/nginx_config_collection](https://github.com/xluffy/nginx_config_collection)|The collection of nginx configuration|5|0|2021-06-01|
 |30|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2021-11-21|
@@ -53,7 +53,7 @@
 |46|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|
 |47|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2021-12-07|
 |48|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|0|2021-09-03|
-|49|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|73|0|2021-07-07|
+|49|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|74|0|2021-07-07|
 |50|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|5|0|2021-08-10|
 |51|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|0|2021-12-02|
 |52|[ange007/TInstructor](https://github.com/ange007/TInstructor)|Delphi FMX component for a better way for new feature introduction and step-by-step users guide in your program.|10|0|2021-06-15|
