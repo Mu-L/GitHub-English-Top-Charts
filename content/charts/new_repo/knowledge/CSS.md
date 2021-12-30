@@ -1,23 +1,23 @@
-<a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
+<a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|589|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|593|2021-11-11|2021-10-23|
 |2|[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)|A growing collection of text/image cards you can use/copy-paste in your tailwind css projects|335|2021-06-19|2021-03-11|
-|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|304|2021-08-30|2021-02-07|
+|3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|307|2021-08-30|2021-02-07|
 |4|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|210|2021-10-13|2021-01-27|
 |5|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
-|6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|142|2021-11-22|2021-04-19|
-|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|86|2021-12-04|2021-09-17|
+|6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|143|2021-11-22|2021-04-19|
+|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|87|2021-12-04|2021-09-17|
 |8|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|81|2021-07-26|2021-01-09|
 |9|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|70|2021-12-22|2021-06-15|
 |10|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
 |11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
-|12|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|45|2021-07-14|2021-07-13|
-|13|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|43|2021-12-22|2021-08-20|
+|12|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|47|2021-12-22|2021-08-20|
+|13|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|45|2021-07-14|2021-07-13|
 |14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
 |15|[tinywinddev/tinywind](https://github.com/tinywinddev/tinywind)|A small collection of free Tailwind components.|36|2021-07-09|2021-06-21|
 |16|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|35|2021-09-07|2021-05-18|
@@ -26,8 +26,8 @@
 |19|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|34|2021-12-24|2021-09-19|
 |20|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|32|2021-11-28|2021-06-24|
 |21|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
-|22|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
-|23|[chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets)|A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄|29|2021-07-06|2021-04-16|
+|22|[chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets)|A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄|30|2021-07-06|2021-04-16|
+|23|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
 |24|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
 |25|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|28|2021-12-11|2021-06-23|
 |26|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2021-12-29|2021-01-22|
@@ -49,14 +49,14 @@
 |42|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|17|2021-12-16|2021-12-16|
 |43|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|16|2021-10-02|2021-10-01|
 |44|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|45|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2021-12-29|2021-06-16|
+|45|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2021-12-30|2021-06-16|
 |46|[vueschool/vuejs-3-fundamentals](https://github.com/vueschool/vuejs-3-fundamentals)|🗂  Source code for the Vue.js 3 Fundamentals course|16|2021-06-19|2021-03-23|
 |47|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
-|48|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
-|49|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|15|2021-10-22|2021-02-15|
-|50|[kabartay/AISummerSchools](https://github.com/kabartay/AISummerSchools)|List of summer schools and workshops in AI/ML/DL/DS areas.|15|2021-07-14|2021-01-24|
-|51|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
-|52|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|14|2021-08-03|2021-08-03|
+|48|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|15|2021-08-03|2021-08-03|
+|49|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
+|50|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|15|2021-10-22|2021-02-15|
+|51|[kabartay/AISummerSchools](https://github.com/kabartay/AISummerSchools)|List of summer schools and workshops in AI/ML/DL/DS areas.|15|2021-07-14|2021-01-24|
+|52|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
 |53|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|12|2021-10-29|2021-08-02|
 |54|[akashyap2013/TailwindCss_Course](https://github.com/akashyap2013/TailwindCss_Course)|In this Course we gonna learn tailwind CSS. |12|2021-07-23|2021-07-07|
 |55|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|11|2021-12-19|2021-01-20|
@@ -65,12 +65,12 @@
 |58|[aws-samples/disaster-recovery-workshop](https://github.com/aws-samples/disaster-recovery-workshop)|In this workshop, you will learn techniques to implement your Disaster Recovery strategies based on AWS multi-region approach. Questions? Contact @lpiedade|10|2021-11-22|2021-05-26|
 |59|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
 |60|[Mhdez221993/css-ninja](https://github.com/Mhdez221993/css-ninja)|This project is based on an online website to learn CSS. It contains the main page, about and tickets page each of these pages have 2 different screen sizes: mobile and desktop.|10|2021-07-23|2021-04-10|
-|61|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
-|62|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|9|2021-07-08|2021-06-15|
-|63|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
-|64|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|9|2021-06-19|2021-02-04|
-|65|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|9|2021-12-14|2021-01-21|
-|66|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|9|2021-10-13|2021-01-20|
+|61|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|10|2021-10-13|2021-01-20|
+|62|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
+|63|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|9|2021-07-08|2021-06-15|
+|64|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
+|65|[tsawler/vigilate](https://github.com/tsawler/vigilate)|The source code for the second project in the course "Working with websockets in Go"|9|2021-06-19|2021-02-04|
+|66|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|9|2021-12-14|2021-01-21|
 |67|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
 |68|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|8|2021-10-22|2021-08-31|
 |69|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|8|2021-12-04|2021-08-21|
@@ -111,4 +111,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a></div>
+<div align="center"><a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a></div>
