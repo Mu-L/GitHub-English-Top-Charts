@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,12 +16,12 @@
 |9|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|6|2021-12-24|2021-09-30|
 |10|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
 |11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-25|2021-03-12|
-|12|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
-|13|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2021-12-20|2021-03-20|
-|14|[kairos-fhir/kairos-fhir-dsl-mapping-example](https://github.com/kairos-fhir/kairos-fhir-dsl-mapping-example)|This project contains kairos-fhir-dsl example mappings for the CentraXX FHIR custom export interface.|5|2021-12-14|2021-01-18|
-|15|[Mariano-Github/Smartthings-smartapp](https://github.com/Mariano-Github/Smartthings-smartapp)|Smartthings Smartapps |5|2021-11-26|2021-01-14|
-|16|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
-|17|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|4|2021-12-03|2021-09-25|
+|12|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
+|13|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
+|14|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2021-12-20|2021-03-20|
+|15|[kairos-fhir/kairos-fhir-dsl-mapping-example](https://github.com/kairos-fhir/kairos-fhir-dsl-mapping-example)|This project contains kairos-fhir-dsl example mappings for the CentraXX FHIR custom export interface.|5|2021-12-14|2021-01-18|
+|16|[Mariano-Github/Smartthings-smartapp](https://github.com/Mariano-Github/Smartthings-smartapp)|Smartthings Smartapps |5|2021-11-26|2021-01-14|
+|17|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
 |18|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|4|2021-09-04|2021-09-04|
 |19|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|4|2021-09-05|2021-08-28|
 |20|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
@@ -49,28 +49,29 @@
 |42|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
 |43|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
 |44|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
-|45|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
-|46|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
-|47|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2021-12-07|2021-08-11|
-|48|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
-|49|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|50|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|2|2021-12-02|2021-06-30|
-|51|[sangukKang/ami-toolchain](https://github.com/sangukKang/ami-toolchain)|ami-toolchain|2|2021-06-29|2021-06-29|
-|52|[TudbuT/voter](https://github.com/TudbuT/voter)|N-Dimensional system to determine a party that fits you best|2|2021-06-11|2021-06-10|
-|53|[coolwho/JsDroid4Helper](https://github.com/coolwho/JsDroid4Helper)|-|2|2021-06-11|2021-06-09|
-|54|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-23|2021-05-26|
-|55|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
-|56|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|57|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|
-|58|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|59|[jongpie/advanced-SFDX-Jenkins-deployment](https://github.com/jongpie/advanced-SFDX-Jenkins-deployment)|-|2|2021-06-16|2021-04-16|
-|60|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
-|61|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
-|62|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
-|63|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|64|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-30|2021-02-05|
-|65|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
-|66|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
+|45|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
+|46|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
+|47|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
+|48|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2021-12-07|2021-08-11|
+|49|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
+|50|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
+|51|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|2|2021-12-02|2021-06-30|
+|52|[sangukKang/ami-toolchain](https://github.com/sangukKang/ami-toolchain)|ami-toolchain|2|2021-06-29|2021-06-29|
+|53|[TudbuT/voter](https://github.com/TudbuT/voter)|N-Dimensional system to determine a party that fits you best|2|2021-06-11|2021-06-10|
+|54|[coolwho/JsDroid4Helper](https://github.com/coolwho/JsDroid4Helper)|-|2|2021-06-11|2021-06-09|
+|55|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-23|2021-05-26|
+|56|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
+|57|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
+|58|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|
+|59|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|60|[jongpie/advanced-SFDX-Jenkins-deployment](https://github.com/jongpie/advanced-SFDX-Jenkins-deployment)|-|2|2021-06-16|2021-04-16|
+|61|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|62|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
+|63|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
+|64|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
+|65|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-31|2021-02-05|
+|66|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
+|67|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

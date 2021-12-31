@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Pascal
-<sub>Updated: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|299|8|2021-12-23|
+|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|307|8|2021-12-23|
 |2|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|60|4|2021-12-15|
-|3|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9929|4|2021-12-16|
-|4|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6991|3|2021-12-29|
-|5|[AngusJohnson/TQoiImage](https://github.com/AngusJohnson/TQoiImage)|Delphi TGraphic support for QOI images|11|3|2021-12-30|
-|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1429|3|2021-12-22|
-|7|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2879|2|2021-12-30|
+|3|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9933|4|2021-12-16|
+|4|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6998|3|2021-12-31|
+|5|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1430|3|2021-12-22|
+|6|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2880|2|2021-12-31|
+|7|[AngusJohnson/TQoiImage](https://github.com/AngusJohnson/TQoiImage)|Delphi TGraphic support for QOI images|11|2|2021-12-31|
 |8|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|45|2|2021-12-28|
 |9|[Hendi48/Magicmida](https://github.com/Hendi48/Magicmida)|Themida unpacker|14|2|2021-12-29|
-|10|[Alexey-T/light-containers](https://github.com/Alexey-T/light-containers)|Pascal storage, like an array, but with hashing|3|2|2021-12-29|
-|11|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|66|2|2021-12-29|
+|10|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|66|2|2021-12-31|
+|11|[cotx254/BigGame](https://github.com/cotx254/BigGame)|Mining programs are downloaded onto PCs in order to do the work that results in bitcoins or other cryptocurrency. All users of computers or systems of several PCs are combined into pools for convenien ...|3|2|2021-12-31|
 |12|[crazzzypeter/BitmapPixels](https://github.com/crazzzypeter/BitmapPixels)|BitmapPixels.pas  - Lazarus module for direct access to pixels at TBitmap|10|1|2021-12-13|
 |13|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|24|1|2021-12-21|
 |14|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1303|1|2021-12-30|
@@ -23,12 +23,12 @@
 |16|[fredvs/cairo_dyn](https://github.com/fredvs/cairo_dyn)|Dynamic loading of Cairo library Pascal header|5|1|2021-12-27|
 |17|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|488|1|2021-09-02|
 |18|[viniciusfbb/skia4delphi](https://github.com/viniciusfbb/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|144|1|2021-10-19|
-|19|[rejetto/hfs2](https://github.com/rejetto/hfs2)|web based file server|346|1|2021-12-22|
+|19|[rejetto/hfs2](https://github.com/rejetto/hfs2)|web based file server|347|1|2021-12-22|
 |20|[DosWorld/pasqoi](https://github.com/DosWorld/pasqoi)|A Pascal implementation of Quite OK Image Format|7|1|2021-12-23|
-|21|[MFernstrom/gitHuntr](https://github.com/MFernstrom/gitHuntr)|-|8|1|2021-12-18|
+|21|[Alexey-T/light-containers](https://github.com/Alexey-T/light-containers)|Pascal storage, like an array, but with hashing|3|1|2021-12-29|
 |22|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|623|1|2021-12-16|
 |23|[HashanDimuthu/Pascal-Projects](https://github.com/HashanDimuthu/Pascal-Projects)|𝓣𝓱𝓲𝓼 𝓲𝓼 𝓜𝔂 𝓢𝓬𝓱𝓸𝓸𝓵 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓢𝓸 𝓓𝓸𝓷'𝓽 𝓦𝓪𝓽𝓬𝓱 𝓣𝓱𝓲𝓼🙂🖕|2|1|2021-12-30|
-|24|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2498|1|2021-09-15|
+|24|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2501|1|2021-09-15|
 |25|[EvgeniyKorepov/Watchdog4DanilaMiner](https://github.com/EvgeniyKorepov/Watchdog4DanilaMiner)|Watchdog for Danila miner|17|1|2021-12-24|
 |26|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2624|1|2021-11-28|
 |27|[appercept/field-report-delphi](https://github.com/appercept/field-report-delphi)|Sample application demonstrating AWS SDK including S3, SNS, and SQS|3|0|2021-12-15|

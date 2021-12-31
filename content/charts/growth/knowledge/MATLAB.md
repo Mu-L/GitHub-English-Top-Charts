@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -41,7 +41,7 @@
 |34|[burn-research/reduced-order-modelling](https://github.com/burn-research/reduced-order-modelling)|Collection of Matlab functions for Reduced-Order Modelling (ROM) of combustion data sets.|3|0|2021-09-14|
 |35|[YosafatM/M-Neural-Nets](https://github.com/YosafatM/M-Neural-Nets)|Repositorio con código creado durante la optativa Neural Networks en ESCOM, incluye el código creado para el curso de Mastering Programming with MATLAB de la Universidad Vanderbilt en Coursera|2|0|2021-09-14|
 |36|[macs-lab/Robotics-Vision-Control-Splash-Learn-in-MATLAB](https://github.com/macs-lab/Robotics-Vision-Control-Splash-Learn-in-MATLAB)|Algorithms and applications of robotics, visual sensing, and controls.|2|0|2021-06-05|
-|37|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|17|0|2021-11-04|
+|37|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|18|0|2021-11-04|
 |38|[zhandawei/Multiobjective_EGO_algorithms](https://github.com/zhandawei/Multiobjective_EGO_algorithms)|The standard and parallel multiobjective EGO algorithms|21|0|2021-12-24|
 |39|[dnrobin/awg-matlab](https://github.com/dnrobin/awg-matlab)|Arrayed Waveguide Grating (AWG) model and simulation in Matlab|6|0|2021-06-29|
 |40|[jbusemey/ChoiceModeling](https://github.com/jbusemey/ChoiceModeling)|Programs in Cognitive Choice Modeling Book|4|0|2021-09-05|
@@ -51,7 +51,7 @@
 |44|[xch-liu/learning-warp-st](https://github.com/xch-liu/learning-warp-st)|Learning to Warp for Style Transfer|11|0|2021-07-08|
 |45|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|0|2021-11-16|
 |46|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|3|0|2021-12-14|
-|47|[ivam-he/BernNet](https://github.com/ivam-he/BernNet)|PyTorch implementation of "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation"|9|0|2021-11-01|
+|47|[ivam-he/BernNet](https://github.com/ivam-he/BernNet)|PyTorch implementation of "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation"|10|0|2021-11-01|
 |48|[KentaItakura/Image-classification-using-oversampling-imagedatastore](https://github.com/KentaItakura/Image-classification-using-oversampling-imagedatastore)|This example shows how to classify images for imbalanced training dataset using oversampling|4|0|2021-07-28|
 |49|[MatheusAraujoSouza/MS211--Projetos-do-curso--Course-projects](https://github.com/MatheusAraujoSouza/MS211--Projetos-do-curso--Course-projects)|Course projects of ms211 (numerical calculus).|3|0|2021-07-15|
 |50|[shakiliitju/Numerical-Analysis-Lab](https://github.com/shakiliitju/Numerical-Analysis-Lab)|This Repository is all about the popular Numerical Analysis Lab concepts and their variations Which can be helpful to Competitive Programming as well as Coding Interviews. I have try Numerical Analysi ...|4|0|2021-09-14|

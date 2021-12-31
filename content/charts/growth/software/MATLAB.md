@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9843|6|2021-08-02|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5417|3|2021-12-19|
+|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9845|6|2021-08-02|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5416|3|2021-12-19|
 |3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4392|3|2021-09-07|
-|4|[Dustin-dusTir/plot-oscilloscope-data](https://github.com/Dustin-dusTir/plot-oscilloscope-data)|Matlab script to plot oscilloscope wave data from csv file exported from a Keysight Oscilloscope. The generated plots can be modified and used in a paper, documentation or your Thesis.|3|2|2021-12-29|
+|4|[Dustin-dusTir/plot-oscilloscope-data](https://github.com/Dustin-dusTir/plot-oscilloscope-data)|Matlab script to plot oscilloscope wave data from csv file exported from a Keysight Oscilloscope. The generated plots can be modified and used in a paper, documentation or your Thesis.|3|1|2021-12-29|
 |5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|66|1|2021-12-01|
 |6|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|600|1|2021-11-18|
 |7|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1591|1|2021-06-30|
-|8|[SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future](https://github.com/SeyedMuhammadHosseinMousavi/BILSTM-GMDH-and-Genetic-COVID-Forecasting-Into-Desired-Steps-of-Future)|BILSTM, GMDH and Genetic COVID Forecasting Into Desired Steps of Future|3|1|2021-12-25|
-|9|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
-|10|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|1|2021-12-02|
-|11|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|249|1|2021-11-02|
+|8|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
+|9|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|1|2021-12-02|
+|10|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|250|1|2021-11-02|
+|11|[adilababayeva13/ODE.SystemOfDE-Matlab](https://github.com/adilababayeva13/ODE.SystemOfDE-Matlab)|-|3|1|2021-12-29|
 |12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|632|1|2021-10-24|
 |13|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
 |14|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|11|0|2021-11-02|
@@ -39,7 +39,7 @@
 |32|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|4|0|2021-11-12|
 |33|[michellehirsch/MATLAB-Dataspace-to-Figure-Units](https://github.com/michellehirsch/MATLAB-Dataspace-to-Figure-Units)|Convert from dataspace to figure units to make it easier to add annotations pointing to data in a MATLAB figure window.|6|0|2021-10-25|
 |34|[BMSQSP/QSPToolbox](https://github.com/BMSQSP/QSPToolbox)|This is the fully public version of QSP Toolbox.  Please check the README file for the current version of MATLAB that is supported.|13|0|2021-08-19|
-|35|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |43|0|2021-08-30|
+|35|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |43|0|2021-12-30|
 |36|[falbarelli/multipar-purification-bounds](https://github.com/falbarelli/multipar-purification-bounds)|-|4|0|2021-07-31|
 |37|[niklauskun/MarkovESValuation](https://github.com/niklauskun/MarkovESValuation)|-|2|0|2021-08-13|
 |38|[adanjoga/cvik-toolbox](https://github.com/adanjoga/cvik-toolbox)|CVIK is a Toolbox for the automatic determination of the number of clusters on data clustering problems|3|0|2021-10-27|
@@ -49,14 +49,14 @@
 |42|[sccn/fMRIb](https://github.com/sccn/fMRIb)|fMRI artifact correction|2|0|2021-10-01|
 |43|[Iranaphor/World_of_MATLAB](https://github.com/Iranaphor/World_of_MATLAB)|-|2|0|2021-06-21|
 |44|[SILI1994/Generalized-Shuffled-Linear-Regression](https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression)|Source code of generalized shuffled linear regression|5|0|2021-10-29|
-|45|[computed-axial-lithography/CAL-software-Matlab](https://github.com/computed-axial-lithography/CAL-software-Matlab)|Software to support volumetric additive manufacturing by tomographic reconstruction (education, research and not-for-profit use)|8|0|2021-12-03|
+|45|[computed-axial-lithography/CAL-software-Matlab](https://github.com/computed-axial-lithography/CAL-software-Matlab)|Software to support volumetric additive manufacturing by tomographic reconstruction (education, research and not-for-profit use)|9|0|2021-12-03|
 |46|[peruvianox/BatchOpenSim](https://github.com/peruvianox/BatchOpenSim)|Batch Process biomechanical data (markers and ground reaction forces) through OpenSim|3|0|2021-11-04|
 |47|[djimenezsanchez/Synplex](https://github.com/djimenezsanchez/Synplex)|Computer simulator of multiplex tissue images from a set of user-defined parameters|4|0|2021-12-07|
 |48|[daavid00/ad-micp](https://github.com/daavid00/ad-micp)|Simulator programs and utilities for microbially induced calcite precipitation.|4|0|2021-09-16|
 |49|[cdguarnizo/IBPLFM](https://github.com/cdguarnizo/IBPLFM)|A Variational Inference approach to automatically select the number of latent functions and its interconecction to output data by using Indian Buffet Process (IBP) in Latent Force Models (LFMs).|2|0|2021-08-27|
 |50|[syau-miao/Label3DMaize](https://github.com/syau-miao/Label3DMaize)|An interactive corn plant point cloud segmentation and annotation software (version 2.0)|2|0|2021-07-04|
 |51|[Poojitha-Nellipudi/Satellite-Thermal-Control](https://github.com/Poojitha-Nellipudi/Satellite-Thermal-Control)|Satellites are exposed to the harsh environment in space that varies its temperature widely as the satellite orbits around a planet. A thermal control system for a satellite at lower altitudes must be ...|2|0|2021-11-25|
-|52|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|302|0|2021-10-08|
+|52|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|303|0|2021-10-08|
 |53|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2021-10-11|
 |54|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2|11|0|2021-12-14|
 |55|[anahisaltocruz/Matlab](https://github.com/anahisaltocruz/Matlab)|Manejo básico de Matlab|3|0|2021-07-05|
@@ -84,7 +84,7 @@
 |77|[mc12027/OpenLAP-Lap-Time-Simulator](https://github.com/mc12027/OpenLAP-Lap-Time-Simulator)|Open source lap time simulator coded in MATLAB.|39|0|2021-10-09|
 |78|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|-|2|0|2021-09-27|
 |79|[wenli-vision/SHFA_release](https://github.com/wenli-vision/SHFA_release)|The implementation for heterogeneous feature augmentation (HFA)|11|0|2021-11-03|
-|80|[yokoxue/HRP](https://github.com/yokoxue/HRP)|Code for paper "Efficient Sparse Coding using Hierarchical Riemannian Pursuit," in IEEE Transactions on Signal Processing, Y. Xue, V. K. N. Lau and S. Cai, doi: 10.1109/TSP.2021.3093769.|11|0|2021-07-20|
+|80|[yokoxue/HRP](https://github.com/yokoxue/HRP)|Code for paper "Efficient Sparse Coding using Hierarchical Riemannian Pursuit," in IEEE Transactions on Signal Processing, Y. Xue, V. K. N. Lau and S. Cai, doi: 10.1109/TSP.2021.3093769.|12|0|2021-07-20|
 |81|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|10|0|2021-11-19|
 |82|[realmsong504/pDOC](https://github.com/realmsong504/pDOC)|Prognostication of chronic disorders of consciousness using resting state fMRI and clinical characteristics|2|0|2021-08-13|
 |83|[strow/rtp_prod2](https://github.com/strow/rtp_prod2)|Completely new version of rtp_prod|2|0|2021-08-30|
