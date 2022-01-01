@@ -1,110 +1,110 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > C
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4040|106|2021-12-31|
-|2|[ventoy/Ventoy](https://github.com/ventoy/Ventoy)|A new bootable USB solution.|29776|45|2021-12-24|
-|3|[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)|Display and control your Android device|59323|39|2021-12-31|
-|4|[Cracked5pider/KaynLdr](https://github.com/Cracked5pider/KaynLdr)|KaynLdr is a Reflective Loader written in C/ASM|199|33|2021-12-28|
-|5|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3074|24|2021-12-16|
-|6|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source big data platform designed and optimized for the Internet of Things (IoT).|17500|19|2021-12-31|
-|7|[netdata/netdata](https://github.com/netdata/netdata)|Real-time performance monitoring, done right! https://www.netdata.cloud|57175|18|2021-12-31|
-|8|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2419|17|2021-12-31|
-|9|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|1980|16|2021-12-29|
-|10|[minosproject/minos2](https://github.com/minosproject/minos2)|Minos2 is a micro-kernel OS for ARMv8-a|98|14|2021-12-28|
-|11|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a network load tester for cloud.|141|13|2021-12-31|
-|12|[obsproject/obs-studio](https://github.com/obsproject/obs-studio)|OBS Studio - Free and open source software for live streaming and screen recording|34720|12|2021-12-31|
-|13|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1020|12|2021-10-15|
-|14|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|19220|12|2021-12-31|
-|15|[woltapp/blurhash](https://github.com/woltapp/blurhash)|A very compact representation of a placeholder for an image.|9939|11|2021-12-08|
-|16|[redis/redis](https://github.com/redis/redis)|Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi ...|52558|11|2021-12-31|
-|17|[jart/cosmopolitan](https://github.com/jart/cosmopolitan)|build-once run-anywhere c library|6394|11|2021-12-29|
-|18|[github/trilogy](https://github.com/github/trilogy)|Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.|179|11|2021-12-30|
-|19|[bilibili/ijkplayer](https://github.com/bilibili/ijkplayer)|Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.|29814|10|2021-12-14|
-|20|[chjj/mako](https://github.com/chjj/mako)|Bitcoin node written in C|490|10|2021-12-22|
-|21|[lawl/NoiseTorch](https://github.com/lawl/NoiseTorch)|Real-time microphone noise suppression on Linux.|5265|10|2021-12-20|
-|22|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |2911|10|2021-12-31|
-|23|[koekeishiya/yabai](https://github.com/koekeishiya/yabai)|A tiling window manager for macOS based on binary space partitioning|9909|10|2021-12-30|
-|24|[tmux/tmux](https://github.com/tmux/tmux)|tmux source code|23452|10|2021-12-31|
-|25|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2309|10|2021-11-29|
-|26|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|6032|10|2021-12-31|
-|27|[GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)|FidelityFX Super Resolution|1531|9|2021-12-31|
+|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4052|104|2022-01-01|
+|2|[ventoy/Ventoy](https://github.com/ventoy/Ventoy)|A new bootable USB solution.|29786|45|2021-12-24|
+|3|[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)|Display and control your Android device|59351|39|2022-01-01|
+|4|[Cracked5pider/KaynLdr](https://github.com/Cracked5pider/KaynLdr)|KaynLdr is a Reflective Loader written in C/ASM|201|29|2021-12-28|
+|5|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3076|24|2021-12-16|
+|6|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source big data platform designed and optimized for the Internet of Things (IoT).|17501|19|2022-01-01|
+|7|[netdata/netdata](https://github.com/netdata/netdata)|Real-time performance monitoring, done right! https://www.netdata.cloud|57179|18|2021-12-31|
+|8|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2440|17|2021-12-31|
+|9|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|1982|16|2021-12-29|
+|10|[obsproject/obs-studio](https://github.com/obsproject/obs-studio)|OBS Studio - Free and open source software for live streaming and screen recording|34743|12|2022-01-01|
+|11|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a network load tester for cloud.|141|12|2021-12-31|
+|12|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1020|12|2021-10-15|
+|13|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|19243|12|2022-01-01|
+|14|[minosproject/minos2](https://github.com/minosproject/minos2)|Minos2 is a micro-kernel OS for ARMv8-a|97|12|2021-12-28|
+|15|[woltapp/blurhash](https://github.com/woltapp/blurhash)|A very compact representation of a placeholder for an image.|9941|11|2021-12-08|
+|16|[redis/redis](https://github.com/redis/redis)|Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi ...|52569|11|2022-01-01|
+|17|[jart/cosmopolitan](https://github.com/jart/cosmopolitan)|build-once run-anywhere c library|6395|11|2022-01-01|
+|18|[bilibili/ijkplayer](https://github.com/bilibili/ijkplayer)|Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.|29816|10|2021-12-14|
+|19|[chjj/mako](https://github.com/chjj/mako)|Bitcoin node written in C|489|10|2021-12-22|
+|20|[lawl/NoiseTorch](https://github.com/lawl/NoiseTorch)|Real-time microphone noise suppression on Linux.|5271|10|2021-12-20|
+|21|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |2916|10|2022-01-01|
+|22|[koekeishiya/yabai](https://github.com/koekeishiya/yabai)|A tiling window manager for macOS based on binary space partitioning|9920|10|2021-12-30|
+|23|[tmux/tmux](https://github.com/tmux/tmux)|tmux source code|23457|10|2021-12-31|
+|24|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2309|10|2021-11-29|
+|25|[github/trilogy](https://github.com/github/trilogy)|Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.|179|10|2021-12-30|
+|26|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|6041|10|2022-01-01|
+|27|[GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)|FidelityFX Super Resolution|1532|9|2021-12-31|
 |28|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2767|9|2021-10-01|
-|29|[ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)|BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.|7217|9|2021-12-07|
-|30|[arendst/Tasmota](https://github.com/arendst/Tasmota)|Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum ...|16728|9|2021-12-31|
+|29|[ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)|BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.|7223|9|2021-12-07|
+|30|[arendst/Tasmota](https://github.com/arendst/Tasmota)|Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum ...|16732|9|2022-01-01|
 |31|[nuvious/pam-duress](https://github.com/nuvious/pam-duress)|A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive ...|1156|9|2021-09-03|
-|32|[wg/wrk](https://github.com/wg/wrk)|Modern HTTP benchmarking tool|30937|9|2021-12-13|
-|33|[php/php-src](https://github.com/php/php-src)|The PHP Interpreter|33026|9|2021-12-31|
-|34|[acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)|OpenCore bootloader|8770|9|2021-12-31|
+|32|[wg/wrk](https://github.com/wg/wrk)|Modern HTTP benchmarking tool|30942|9|2021-12-13|
+|33|[php/php-src](https://github.com/php/php-src)|The PHP Interpreter|33030|9|2022-01-01|
+|34|[acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)|OpenCore bootloader|8773|9|2022-01-01|
 |35|[helpsystems/nanodump](https://github.com/helpsystems/nanodump)|Dump LSASS like you mean it|483|9|2021-12-25|
-|36|[pjreddie/darknet](https://github.com/pjreddie/darknet)|Convolutional Neural Networks|21981|8|2021-12-22|
+|36|[pjreddie/darknet](https://github.com/pjreddie/darknet)|Convolutional Neural Networks|21983|8|2021-12-22|
 |37|[mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like)|Engine for making things with a MS-DOS feel, but for modern platforms|691|8|2021-11-30|
-|38|[git/git](https://github.com/git/git)|Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat ...|40593|8|2021-12-31|
-|39|[tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c)|A cross-platform, top-down 2D space shooter written in C using only system libraries.|1176|8|2021-12-31|
-|40|[OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm)|Intel Wi-Fi Drivers for macOS|5166|8|2021-12-31|
-|41|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|943|7|2021-12-27|
-|42|[Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)|A single-header ANSI C immediate mode cross-platform GUI library|5084|7|2021-12-28|
-|43|[aalex954/Log4PowerShell](https://github.com/aalex954/Log4PowerShell)|A Log4j PoC written in PowerShell|72|7|2021-12-28|
-|44|[DoctorWkt/acwj](https://github.com/DoctorWkt/acwj)|A Compiler Writing Journey|5935|7|2021-12-11|
-|45|[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)|Mirror of https://git.ffmpeg.org/ffmpeg.git|27556|7|2021-12-31|
-|46|[cilium/pwru](https://github.com/cilium/pwru)|Packet, where are you? -- Linux kernel networking debugger|548|7|2021-12-22|
-|47|[ish-app/ish](https://github.com/ish-app/ish)|Linux shell for iOS|11079|7|2021-12-30|
-|48|[Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)|Log4j Vulnerability Scanner for Windows|112|7|2021-12-31|
-|49|[xfs-network/xfsgo](https://github.com/xfs-network/xfsgo)|Official Go implementation of the Fixcoin protocol|1210|7|2021-12-31|
-|50|[KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)|Hiding the window from screenshots using the function win32kfull::ChangeWindowTreeProtection|115|7|2021-12-17|
-|51|[reactos/reactos](https://github.com/reactos/reactos)|A free Windows-compatible Operating System|10374|7|2021-12-31|
-|52|[timescale/timescaledb](https://github.com/timescale/timescaledb)|An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.|12267|7|2021-12-23|
-|53|[microsoft/mimalloc](https://github.com/microsoft/mimalloc)|mimalloc is a compact general purpose allocator with excellent performance.|6205|7|2021-12-28|
-|54|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2340|7|2021-12-31|
-|55|[bellard/quickjs](https://github.com/bellard/quickjs)|Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.|3479|7|2021-11-15|
-|56|[jarun/nnn](https://github.com/jarun/nnn)|n³ The unorthodox terminal file manager|13225|7|2021-12-26|
-|57|[chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio)|A quick and easy to use drag and drop retro game creator for your favourite handheld video game system|5845|6|2021-12-26|
-|58|[libuv/libuv](https://github.com/libuv/libuv)|Cross-platform asynchronous I/O|18664|6|2021-12-19|
-|59|[nginx/nginx](https://github.com/nginx/nginx)|An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi ...|15247|6|2021-12-30|
-|60|[n64decomp/sm64](https://github.com/n64decomp/sm64)|A Super Mario 64 decompilation, brought to you by a bunch of clever folks.|5836|6|2021-10-14|
-|61|[stedolan/jq](https://github.com/stedolan/jq)|Command-line JSON processor|21001|6|2021-12-28|
-|62|[ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher)|A code-searching tool similar to ack, but faster.|23075|6|2021-12-15|
-|63|[Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)|:love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.|12000|6|2021-12-18|
-|64|[nothings/stb](https://github.com/nothings/stb)|stb single-file public domain libraries for C/C++|17613|6|2021-12-29|
-|65|[microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)|The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)|5386|6|2021-11-10|
-|66|[positive-security/send-my](https://github.com/positive-security/send-my)|Upload arbitrary data via Apple's Find My network.|1411|6|2021-07-15|
-|67|[topotam/PetitPotam](https://github.com/topotam/PetitPotam)|PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.|1056|6|2021-10-23|
-|68|[robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)|TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.|18274|6|2021-10-13|
-|69|[wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)|-|332|6|2021-12-31|
-|70|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5301|6|2021-12-30|
-|71|[cmuratori/refterm](https://github.com/cmuratori/refterm)|Reference monospace terminal renderer|1134|6|2021-10-30|
-|72|[apple/darwin-xnu](https://github.com/apple/darwin-xnu)|The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report ...|9527|6|2021-07-06|
-|73|[htop-dev/htop](https://github.com/htop-dev/htop)|htop - an interactive process viewer|3110|6|2021-12-21|
-|74|[facebook/zstd](https://github.com/facebook/zstd)|Zstandard - Fast real-time compression algorithm|16117|6|2021-12-30|
-|75|[0x00Jeff/BetterGetProcAddress](https://github.com/0x00Jeff/BetterGetProcAddress)|POC of a better implementation of GetProcAddress for ntdll using binary search|75|6|2021-12-27|
-|76|[webview/webview](https://github.com/webview/webview)|Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)|9268|6|2021-12-28|
-|77|[mpv-player/mpv](https://github.com/mpv-player/mpv)|🎥 Command line video player|17225|5|2021-12-30|
-|78|[hashcat/hashcat](https://github.com/hashcat/hashcat)|World's fastest and most advanced password recovery utility|11485|5|2021-12-31|
-|79|[allinurl/goaccess](https://github.com/allinurl/goaccess)|GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.|14130|5|2021-12-25|
-|80|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5789|5|2021-11-16|
-|81|[wasm3/wasm3](https://github.com/wasm3/wasm3)|🚀 The fastest WebAssembly interpreter, and the most universal runtime|4433|5|2021-12-23|
-|82|[openwrt/openwrt](https://github.com/openwrt/openwrt)|This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests h ...|10274|5|2021-12-31|
-|83|[microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows)|eBPF implementation that runs on top of Windows|1207|5|2021-12-19|
-|84|[luin/wechat-export](https://github.com/luin/wechat-export)|📃 Export WeChat chat histories to HTML files.|494|5|2021-10-02|
-|85|[Sneeds-Feed-and-Seed/sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity)|Audio Editor                                     |846|5|2021-11-02|
-|86|[skeeto/endlessh](https://github.com/skeeto/endlessh)|SSH tarpit that slowly sends an endless banner|4904|5|2021-12-10|
-|87|[zeldaret/oot](https://github.com/zeldaret/oot)|Decompilation of The Legend of Zelda: Ocarina of Time|3172|5|2021-12-31|
-|88|[iovisor/bcc](https://github.com/iovisor/bcc)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|13326|5|2021-12-31|
-|89|[gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|14661|5|2021-12-10|
-|90|[pbatard/rufus](https://github.com/pbatard/rufus)|The Reliable USB Formatting Utility|17003|5|2021-12-25|
-|91|[micropython/micropython](https://github.com/micropython/micropython)|MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems|13499|5|2021-12-31|
-|92|[fholger/openvr_foveated](https://github.com/fholger/openvr_foveated)|Fixed Foveated Rendering for SteamVR games|48|5|2021-12-27|
-|93|[extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS)|New gen. Linux|279|5|2021-12-12|
-|94|[curl/curl](https://github.com/curl/curl)|A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S ...|23026|5|2021-12-30|
-|95|[blender/blender](https://github.com/blender/blender)|Official mirror of Blender|4304|5|2021-11-01|
-|96|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9271|5|2021-12-17|
-|97|[emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)|Emscripten: An LLVM-to-WebAssembly Compiler|21631|5|2021-12-30|
-|98|[pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus)|unc0ver jailbreak for iOS 11.0 - 12.4|6647|5|2021-08-01|
-|99|[openssl/openssl](https://github.com/openssl/openssl)|TLS/SSL and crypto library|17266|5|2021-12-31|
-|100|[upx/upx](https://github.com/upx/upx)|UPX - the Ultimate Packer for eXecutables|8535|4|2021-12-30|
+|38|[git/git](https://github.com/git/git)|Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat ...|40599|8|2022-01-01|
+|39|[OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm)|Intel Wi-Fi Drivers for macOS|5169|8|2022-01-01|
+|40|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|945|7|2021-12-27|
+|41|[Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)|A single-header ANSI C immediate mode cross-platform GUI library|5085|7|2021-12-28|
+|42|[aalex954/Log4PowerShell](https://github.com/aalex954/Log4PowerShell)|A Log4j PoC written in PowerShell|73|7|2021-12-28|
+|43|[DoctorWkt/acwj](https://github.com/DoctorWkt/acwj)|A Compiler Writing Journey|5937|7|2021-12-11|
+|44|[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)|Mirror of https://git.ffmpeg.org/ffmpeg.git|27563|7|2022-01-01|
+|45|[cilium/pwru](https://github.com/cilium/pwru)|Packet, where are you? -- Linux kernel networking debugger|548|7|2021-12-22|
+|46|[ish-app/ish](https://github.com/ish-app/ish)|Linux shell for iOS|11082|7|2022-01-01|
+|47|[KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)|Hiding the window from screenshots using the function win32kfull::ChangeWindowTreeProtection|115|7|2021-12-17|
+|48|[reactos/reactos](https://github.com/reactos/reactos)|A free Windows-compatible Operating System|10377|7|2022-01-01|
+|49|[timescale/timescaledb](https://github.com/timescale/timescaledb)|An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.|12271|7|2021-12-23|
+|50|[microsoft/mimalloc](https://github.com/microsoft/mimalloc)|mimalloc is a compact general purpose allocator with excellent performance.|6206|7|2021-12-28|
+|51|[tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c)|A cross-platform, top-down 2D space shooter written in C using only system libraries.|1175|7|2021-12-31|
+|52|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2347|7|2022-01-01|
+|53|[bellard/quickjs](https://github.com/bellard/quickjs)|Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.|3510|7|2021-11-15|
+|54|[jarun/nnn](https://github.com/jarun/nnn)|n³ The unorthodox terminal file manager|13231|7|2021-12-26|
+|55|[chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio)|A quick and easy to use drag and drop retro game creator for your favourite handheld video game system|5844|6|2021-12-26|
+|56|[libuv/libuv](https://github.com/libuv/libuv)|Cross-platform asynchronous I/O|18669|6|2022-01-01|
+|57|[nginx/nginx](https://github.com/nginx/nginx)|An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi ...|15252|6|2021-12-30|
+|58|[n64decomp/sm64](https://github.com/n64decomp/sm64)|A Super Mario 64 decompilation, brought to you by a bunch of clever folks.|5839|6|2021-10-14|
+|59|[stedolan/jq](https://github.com/stedolan/jq)|Command-line JSON processor|21005|6|2021-12-28|
+|60|[ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher)|A code-searching tool similar to ack, but faster.|23076|6|2021-12-15|
+|61|[Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)|:love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.|12000|6|2021-12-18|
+|62|[nothings/stb](https://github.com/nothings/stb)|stb single-file public domain libraries for C/C++|17621|6|2022-01-01|
+|63|[Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)|Log4j Vulnerability Scanner for Windows|112|6|2021-12-31|
+|64|[microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)|The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)|5388|6|2021-11-10|
+|65|[positive-security/send-my](https://github.com/positive-security/send-my)|Upload arbitrary data via Apple's Find My network.|1412|6|2021-07-15|
+|66|[topotam/PetitPotam](https://github.com/topotam/PetitPotam)|PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.|1056|6|2021-10-23|
+|67|[xfs-network/xfsgo](https://github.com/xfs-network/xfsgo)|Official Go implementation of the Fixcoin protocol|1210|6|2021-12-31|
+|68|[robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)|TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.|18280|6|2021-10-13|
+|69|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5301|6|2021-12-30|
+|70|[cmuratori/refterm](https://github.com/cmuratori/refterm)|Reference monospace terminal renderer|1134|6|2021-10-30|
+|71|[apple/darwin-xnu](https://github.com/apple/darwin-xnu)|The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report ...|9527|6|2021-07-06|
+|72|[htop-dev/htop](https://github.com/htop-dev/htop)|htop - an interactive process viewer|3111|6|2021-12-21|
+|73|[facebook/zstd](https://github.com/facebook/zstd)|Zstandard - Fast real-time compression algorithm|16123|6|2022-01-01|
+|74|[webview/webview](https://github.com/webview/webview)|Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)|9272|6|2021-12-28|
+|75|[mpv-player/mpv](https://github.com/mpv-player/mpv)|🎥 Command line video player|17233|5|2021-12-30|
+|76|[hashcat/hashcat](https://github.com/hashcat/hashcat)|World's fastest and most advanced password recovery utility|11490|5|2021-12-31|
+|77|[allinurl/goaccess](https://github.com/allinurl/goaccess)|GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.|14132|5|2021-12-25|
+|78|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5789|5|2021-11-16|
+|79|[wasm3/wasm3](https://github.com/wasm3/wasm3)|🚀 The fastest WebAssembly interpreter, and the most universal runtime|4432|5|2021-12-23|
+|80|[openwrt/openwrt](https://github.com/openwrt/openwrt)|This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests h ...|10280|5|2022-01-01|
+|81|[luin/wechat-export](https://github.com/luin/wechat-export)|📃 Export WeChat chat histories to HTML files.|495|5|2021-10-02|
+|82|[Sneeds-Feed-and-Seed/sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity)|Audio Editor                                     |846|5|2021-11-02|
+|83|[skeeto/endlessh](https://github.com/skeeto/endlessh)|SSH tarpit that slowly sends an endless banner|4915|5|2022-01-01|
+|84|[zeldaret/oot](https://github.com/zeldaret/oot)|Decompilation of The Legend of Zelda: Ocarina of Time|3180|5|2022-01-01|
+|85|[iovisor/bcc](https://github.com/iovisor/bcc)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|13327|5|2021-12-31|
+|86|[gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|14662|5|2021-12-10|
+|87|[wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)|-|334|5|2021-12-31|
+|88|[pbatard/rufus](https://github.com/pbatard/rufus)|The Reliable USB Formatting Utility|17009|5|2021-12-25|
+|89|[micropython/micropython](https://github.com/micropython/micropython)|MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems|13503|5|2021-12-31|
+|90|[curl/curl](https://github.com/curl/curl)|A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S ...|23037|5|2022-01-01|
+|91|[blender/blender](https://github.com/blender/blender)|Official mirror of Blender|4311|5|2021-11-01|
+|92|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9271|5|2021-12-17|
+|93|[0x00Jeff/BetterGetProcAddress](https://github.com/0x00Jeff/BetterGetProcAddress)|POC of a better implementation of GetProcAddress for ntdll using binary search|75|5|2021-12-27|
+|94|[emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)|Emscripten: An LLVM-to-WebAssembly Compiler|21632|5|2021-12-30|
+|95|[pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus)|unc0ver jailbreak for iOS 11.0 - 12.4|6647|5|2021-08-01|
+|96|[openssl/openssl](https://github.com/openssl/openssl)|TLS/SSL and crypto library|17271|5|2022-01-01|
+|97|[upx/upx](https://github.com/upx/upx)|UPX - the Ultimate Packer for eXecutables|8539|4|2021-12-31|
+|98|[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)|"Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.|805|4|2021-11-20|
+|99|[NVIDIAGameWorks/NVIDIAImageScaling](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)|NVIDIA Image Scaling SDK|240|4|2021-12-15|
+|100|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|2234|4|2021-12-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

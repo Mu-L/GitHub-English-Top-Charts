@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -44,13 +44,13 @@
 |37|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|5|2021-11-23|
 |38|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|2021-11-09|
 |39|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|5|2021-08-10|
-|40|[xluffy/nginx_config_collection](https://github.com/xluffy/nginx_config_collection)|The collection of nginx configuration|5|2021-06-01|
-|41|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|2021-12-11|
-|42|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-21|
-|43|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|2021-12-07|
-|44|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|2021-12-26|
-|45|[fredvs/win_mixer](https://github.com/fredvs/win_mixer)|To get and set mixer master volume of sound-card and assign callback procedure.|4|2021-07-09|
-|46|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|4|2021-12-08|
+|40|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|2021-12-08|
+|41|[xluffy/nginx_config_collection](https://github.com/xluffy/nginx_config_collection)|The collection of nginx configuration|5|2021-06-01|
+|42|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|2021-12-11|
+|43|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|2021-12-21|
+|44|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|2021-12-07|
+|45|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|2021-12-26|
+|46|[fredvs/win_mixer](https://github.com/fredvs/win_mixer)|To get and set mixer master volume of sound-card and assign callback procedure.|4|2021-07-09|
 |47|[laciba96/Delphi-DLL-As-Cpl](https://github.com/laciba96/Delphi-DLL-As-Cpl)|Some examples about how to create CPL files to old systems with Delphi.|3|2021-10-24|
 |48|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|2021-09-16|
 |49|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|2021-11-23|

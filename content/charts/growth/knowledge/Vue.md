@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|10022|19|2021-12-30|
-|2|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3063|3|2021-11-19|
+|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|10028|19|2021-12-30|
+|2|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3065|3|2021-11-19|
 |3|[varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io)|:blue_book: Personal blog site based on github issues.|3352|2|2021-08-17|
 |4|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|335|2|2021-12-01|
 |5|[aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)|Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the ...|1620|2|2021-12-13|
@@ -15,21 +15,21 @@
 |8|[microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding t ...|1137|1|2021-12-15|
 |9|[checkly/theheadless.dev](https://github.com/checkly/theheadless.dev)|🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.|379|1|2021-11-02|
 |10|[Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue)|The application that we build in Vue Mastery's courses starting with Real World Vue|967|1|2021-10-05|
-|11|[sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop)|See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions|1192|1|2021-08-10|
+|11|[sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop)|See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions|1193|1|2021-08-10|
 |12|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|756|1|2021-12-21|
-|13|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|33|1|2021-12-23|
+|13|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|34|1|2021-12-23|
 |14|[jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page)|A bookmarkable, searchable cheatsheet for all of Laravel's default Artisan commands.|177|1|2021-12-25|
 |15|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|1839|1|2021-12-31|
-|16|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|400|1|2021-09-07|
+|16|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|401|1|2021-09-07|
 |17|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|103|1|2021-12-13|
 |18|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|124|1|2021-12-31|
-|19|[nuxt/modules](https://github.com/nuxt/modules)|Discover our list of modules to supercharge your Nuxt project|336|1|2021-12-31|
+|19|[nuxt/modules](https://github.com/nuxt/modules)|Discover our list of modules to supercharge your Nuxt project|336|1|2022-01-01|
 |20|[ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify)|A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify|1046|1|2021-10-04|
 |21|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1480|1|2021-11-30|
-|22|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1807|1|2021-12-29|
+|22|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1809|1|2021-12-29|
 |23|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|101|1|2021-12-04|
 |24|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|163|1|2021-12-30|
-|25|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|541|1|2021-12-30|
+|25|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|540|1|2021-12-30|
 |26|[lauthieb/code-notes](https://github.com/lauthieb/code-notes)|A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀|989|1|2021-12-19|
 |27|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|1|2021-12-20|
 |28|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1424|1|2021-11-29|
@@ -44,7 +44,7 @@
 |37|[jscharting/jscharting-vue](https://github.com/jscharting/jscharting-vue)|Official JSCharting Vue.js Plugin & Examples|26|0|2021-11-24|
 |38|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|0|2021-08-01|
 |39|[Jinjiang/vue-a11y-examples](https://github.com/Jinjiang/vue-a11y-examples)|Examples for vue-a11y-utils|12|0|2021-09-01|
-|40|[apache/echarts-handbook](https://github.com/apache/echarts-handbook)|Apache ECharts Handbook|27|0|2021-12-21|
+|40|[apache/echarts-handbook](https://github.com/apache/echarts-handbook)|Apache ECharts Handbook|27|0|2022-01-01|
 |41|[atymic/laravel-collection-playground](https://github.com/atymic/laravel-collection-playground)|Test, Run & Share Laravel Collection Examples!|44|0|2021-10-06|
 |42|[linrock/ssh-tunnels](https://github.com/linrock/ssh-tunnels)|Visual examples and use cases for SSH tunnels|151|0|2021-10-06|
 |43|[uom-assistant/uom-assistant](https://github.com/uom-assistant/uom-assistant)|A web app that can improve your study experience in University of Manchester|16|0|2021-12-07|
@@ -63,7 +63,7 @@
 |56|[nguyenvanduocit/vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)|Just another collection of loading spinners with Vue.js, alot of spinners|596|0|2021-10-22|
 |57|[T0shik/raw-coding-vue-guide](https://github.com/T0shik/raw-coding-vue-guide)|Vue 2.* guide by Raw Coding|12|0|2021-10-06|
 |58|[anydown/anydown](https://github.com/anydown/anydown)|Two-way editing Markdown notebook for small project scheduling|109|0|2021-10-29|
-|59|[do-community/hub-for-good-list](https://github.com/do-community/hub-for-good-list)|A collection of projects making an impact with Hollie's Hub for Good.|10|0|2021-12-31|
+|59|[do-community/hub-for-good-list](https://github.com/do-community/hub-for-good-list)|A collection of projects making an impact with Hollie's Hub for Good.|10|0|2022-01-01|
 |60|[xdesro/sex-work-exclusive-tech-companies](https://github.com/xdesro/sex-work-exclusive-tech-companies)|A growing list of tech companies with Terms of Service that discriminate against sex workers.|7|0|2021-08-11|
 |61|[sustained/cello](https://github.com/sustained/cello)|A Trello clone for the purposes of learning + portfolio filler.|6|0|2021-08-10|
 |62|[nwtgck/piping-draw-web](https://github.com/nwtgck/piping-draw-web)|🎨 End-to-End Encryption Share Drawing via Piping Server|19|0|2021-08-03|

@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|605|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|609|2021-11-11|2021-10-23|
 |2|[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)|A growing collection of text/image cards you can use/copy-paste in your tailwind css projects|335|2021-06-19|2021-03-11|
 |3|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|308|2021-08-30|2021-02-07|
 |4|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|210|2021-10-13|2021-01-27|
-|5|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
+|5|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|2021-04-05|
 |6|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|143|2021-11-22|2021-04-19|
-|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|87|2021-12-04|2021-09-17|
+|7|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|89|2021-12-04|2021-09-17|
 |8|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|81|2021-07-26|2021-01-09|
 |9|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|70|2021-12-22|2021-06-15|
 |10|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
 |11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
-|12|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|47|2021-12-22|2021-08-20|
-|13|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|45|2021-07-14|2021-07-13|
+|12|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|48|2021-12-22|2021-08-20|
+|13|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|47|2021-07-14|2021-07-13|
 |14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
 |15|[tinywinddev/tinywind](https://github.com/tinywinddev/tinywind)|A small collection of free Tailwind components.|36|2021-07-09|2021-06-21|
 |16|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|35|2021-09-07|2021-05-18|
@@ -48,7 +48,7 @@
 |41|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|17|2021-12-16|2021-12-16|
 |42|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|16|2021-10-02|2021-10-01|
 |43|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|44|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2021-12-31|2021-06-16|
+|44|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|16|2022-01-01|2021-06-16|
 |45|[vueschool/vuejs-3-fundamentals](https://github.com/vueschool/vuejs-3-fundamentals)|🗂  Source code for the Vue.js 3 Fundamentals course|16|2021-06-19|2021-03-23|
 |46|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
 |47|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|15|2021-08-03|2021-08-03|

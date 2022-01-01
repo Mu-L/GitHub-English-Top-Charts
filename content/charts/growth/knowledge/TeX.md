@@ -1,36 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > TeX
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|821|32|2021-12-20|
-|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4238|26|2021-12-30|
-|3|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3324|10|2021-12-01|
-|4|[corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation)|Project overview, general documentation, and white papers.|3368|6|2021-12-30|
-|5|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|9708|5|2021-10-12|
-|6|[yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)|A curated list of awesome neural radiance fields papers|1749|4|2021-12-28|
-|7|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2685|2|2021-11-13|
-|8|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2311|1|2021-12-04|
-|9|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|567|1|2021-12-23|
+|1|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|822|30|2021-12-20|
+|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4239|26|2021-12-30|
+|3|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3323|10|2021-12-01|
+|4|[corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation)|Project overview, general documentation, and white papers.|3369|6|2021-12-31|
+|5|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|9710|5|2021-10-12|
+|6|[yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)|A curated list of awesome neural radiance fields papers|1752|4|2021-12-28|
+|7|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2684|2|2021-11-13|
+|8|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2312|1|2021-12-04|
+|9|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|568|1|2022-01-01|
 |10|[jemmybutton/byrne-euclid](https://github.com/jemmybutton/byrne-euclid)|MetaPost + ConTeXt rendition of Oliver Byrne's "The first six books of the Elements of Euclid"|1015|1|2021-06-08|
 |11|[quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse)|Quantum Machine Learning Community Course|157|1|2021-12-28|
-|12|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2005|1|2021-12-15|
+|12|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2006|1|2021-12-15|
 |13|[ContextLab/human-memory](https://github.com/ContextLab/human-memory)|Course materials for Dartmouth course: Human Memory (PSYC 51.09)|227|1|2021-08-12|
-|14|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|905|1|2021-12-09|
+|14|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|906|1|2021-12-09|
 |15|[dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining)|Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson|1063|1|2021-12-23|
-|16|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5010|1|2021-12-30|
+|16|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5011|1|2021-12-30|
 |17|[dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list)|List of bugs found in distributed protocols|104|1|2021-11-10|
-|18|[HoTT/book](https://github.com/HoTT/book)|A textbook on informal homotopy type theory|1684|1|2021-11-23|
+|18|[HoTT/book](https://github.com/HoTT/book)|A textbook on informal homotopy type theory|1685|1|2021-11-23|
 |19|[milaan9/LaTeX4Everyone](https://github.com/milaan9/LaTeX4Everyone)|Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.|124|1|2021-11-27|
 |20|[Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|677|1|2021-11-10|
-|21|[alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1153|1|2021-12-25|
-|22|[Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)|This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding|587|1|2021-10-01|
+|21|[alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1154|1|2021-12-25|
+|22|[Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)|This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding|588|1|2021-10-01|
 |23|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|1761|1|2021-12-02|
 |24|[Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis)|A minimal & modern LaTeX template for your (bachelor's   master's   doctoral) thesis|919|1|2021-11-03|
 |25|[thunlp/KRLPapers](https://github.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1434|1|2021-08-29|
-|26|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1448|1|2021-11-22|
+|26|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1449|1|2021-11-22|
 |27|[optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|470|1|2021-12-09|
 |28|[mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)|:orange_book: The probability and statistics cookbook|1993|1|2021-07-27|
 |29|[leios/GPU_mini_course](https://github.com/leios/GPU_mini_course)|A public repo for slides and stuff for the GPU mini-course at OIST|5|0|2021-08-26|
@@ -71,7 +71,7 @@
 |64|[materialsvirtuallab/materialsvirtuallab.github.io](https://github.com/materialsvirtuallab/materialsvirtuallab.github.io)|A guide to the Materials Virtual Lab|4|0|2021-09-27|
 |65|[tingfengx/uoftnotes](https://github.com/tingfengx/uoftnotes)|Notes for some of my courses at University of Toronto|39|0|2021-10-02|
 |66|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|29|0|2021-12-20|
-|67|[hillegass/sequence](https://github.com/hillegass/sequence)|These are the materials for a four year course on math, physics, and computer programming|6|0|2021-12-29|
+|67|[hillegass/sequence](https://github.com/hillegass/sequence)|These are the materials for a four year course on math, physics, and computer programming|6|0|2022-01-01|
 |68|[sobhanAhmadian/BioinformaticsHandout](https://github.com/sobhanAhmadian/BioinformaticsHandout)|A Bioinformatics handout from Dr. Zare's course in Amirkabir University of Tehran|6|0|2021-11-22|
 |69|[SoftVarE-Group/BibTags](https://github.com/SoftVarE-Group/BibTags)|A collection of cleaned BibTeX entries and tags to be used with MibTeX|3|0|2021-12-23|
 |70|[svmiller/stevetemplates](https://github.com/svmiller/stevetemplates)|My collection of R Markdown templates, as an R package.|38|0|2021-12-05|

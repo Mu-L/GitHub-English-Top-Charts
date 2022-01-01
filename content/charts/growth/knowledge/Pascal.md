@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -38,7 +38,7 @@
 |31|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
 |32|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2021-07-09|
 |33|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1192|0|2021-12-09|
-|34|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|4|0|2021-12-08|
+|34|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|0|2021-12-08|
 |35|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|50|0|2021-10-30|
 |36|[blikblum/luipack](https://github.com/blikblum/luipack)|Collection of Freepascal / Lazarus components and applications|40|0|2021-09-08|
 |37|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|38|0|2021-09-09|

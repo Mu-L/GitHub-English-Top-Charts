@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -9,9 +9,9 @@
 |2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5416|3|2021-12-19|
 |3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4392|3|2021-09-07|
 |4|[Dustin-dusTir/plot-oscilloscope-data](https://github.com/Dustin-dusTir/plot-oscilloscope-data)|Matlab script to plot oscilloscope wave data from csv file exported from a Keysight Oscilloscope. The generated plots can be modified and used in a paper, documentation or your Thesis.|3|1|2021-12-29|
-|5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|66|1|2021-12-01|
+|5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|67|1|2021-12-01|
 |6|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|600|1|2021-11-18|
-|7|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1591|1|2021-06-30|
+|7|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1592|1|2021-06-30|
 |8|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
 |9|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|292|1|2021-12-02|
 |10|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|250|1|2021-11-02|
@@ -24,7 +24,7 @@
 |17|[cuixing158/yoloX-yoloV5-onnx-matlab](https://github.com/cuixing158/yoloX-yoloV5-onnx-matlab)|Simple reasoning code, just run demo.mlx|14|0|2021-07-30|
 |18|[viharoszsolt/AHFS](https://github.com/viharoszsolt/AHFS)|Adaptive Hybrid Feature Selection (AHFS)|2|0|2021-07-14|
 |19|[brainlook/Fundamental-functions-dataset](https://github.com/brainlook/Fundamental-functions-dataset)|The basic function codes for brain image process|3|0|2021-11-09|
-|20|[hiroyuki-kasai/SSPW-kmeans](https://github.com/hiroyuki-kasai/SSPW-kmeans)|Sparse simplex projection-based Wasserstein k-means|4|0|2021-06-10|
+|20|[hiroyuki-kasai/SSPW-kmeans](https://github.com/hiroyuki-kasai/SSPW-kmeans)|Sparse simplex projection-based Wasserstein k-means|5|0|2021-06-10|
 |21|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|4|0|2021-11-18|
 |22|[septianto3/Regresi-Linier-dengan-Multiple-Variabel](https://github.com/septianto3/Regresi-Linier-dengan-Multiple-Variabel)|Regresi Linier dengan Multiple Variabel|29|0|2021-11-08|
 |23|[FanZhenhui/SINS_GPS_Loose](https://github.com/FanZhenhui/SINS_GPS_Loose)|Integrated navigation|2|0|2021-08-02|
@@ -60,9 +60,9 @@
 |53|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2021-10-11|
 |54|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2|11|0|2021-12-14|
 |55|[anahisaltocruz/Matlab](https://github.com/anahisaltocruz/Matlab)|Manejo básico de Matlab|3|0|2021-07-05|
-|56|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|3|0|2021-09-14|
+|56|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|4|0|2021-09-14|
 |57|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|61|0|2021-07-20|
-|58|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1168|0|2021-12-04|
+|58|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1169|0|2021-12-04|
 |59|[GCVGroup/ACSCNN](https://github.com/GCVGroup/ACSCNN)|pytorch implementation for  ACSCNN|5|0|2021-10-12|
 |60|[nsprljan/ImageCodingResearchTools](https://github.com/nsprljan/ImageCodingResearchTools)|-|42|0|2021-11-10|
 |61|[chaimi2013/3R](https://github.com/chaimi2013/3R)|Nighttime Dehazing with a Synthetic Benchmark (ACM MM 2020)|32|0|2021-10-20|
@@ -102,7 +102,7 @@
 |95|[tendence/refl_L1](https://github.com/tendence/refl_L1)|The code and data in the paper <Spectral reflectance reconstruction using L1-norm penalization for colour reproduction>|4|0|2021-10-16|
 |96|[OH-Seoyoung/Numerical_methods_for_Fractional_derivative](https://github.com/OH-Seoyoung/Numerical_methods_for_Fractional_derivative)|Numerical implementation of fractional derivative and integral|2|0|2021-07-07|
 |97|[lrkrol/SEREEGA](https://github.com/lrkrol/SEREEGA)|SEREEGA: Simulating Event-Related EEG Activity|41|0|2021-10-01|
-|98|[alexdada555/Planning-SLAM-and-Control](https://github.com/alexdada555/Planning-SLAM-and-Control)|Path and Trajectory Planning: (A* RRT), Simultaneous Localisation and Mapping: (EKF,FAST),[Source: Python Robotics] and Control Systems: (LQG,MPC),[Source: UWaterloo]|3|0|2021-08-10|
+|98|[alexdada555/Planning-SLAM-and-Control](https://github.com/alexdada555/Planning-SLAM-and-Control)|Path and Trajectory Planning: (A* RRT), Simultaneous Localisation and Mapping: (EKF,FAST),[Source: Python Robotics] and Control Systems: (LQG,MPC),[Source: UWaterloo]|3|0|2021-12-31|
 |99|[Ys-Jia/Q-Six_axis-Robotic_Arm](https://github.com/Ys-Jia/Q-Six_axis-Robotic_Arm)|Path Planning with Autonomous Obstacle Avoidance Using Reinforcement Learning for Six-axis Arms|2|0|2021-09-06|
 |100|[aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)|A set of graph/networks analysis functions in Octave|82|0|2021-10-25|
 

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4238|2021-12-30|2021-07-21|
-|2|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3324|2021-12-01|2021-02-05|
-|3|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|821|2021-12-20|2021-12-06|
+|1|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4239|2021-12-30|2021-07-21|
+|2|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3323|2021-12-01|2021-02-05|
+|3|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|822|2021-12-20|2021-12-06|
 |4|[ContextLab/human-memory](https://github.com/ContextLab/human-memory)|Course materials for Dartmouth course: Human Memory (PSYC 51.09)|227|2021-08-12|2021-03-23|
 |5|[quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse)|Quantum Machine Learning Community Course|157|2021-12-28|2021-03-06|
 |6|[milaan9/LaTeX4Everyone](https://github.com/milaan9/LaTeX4Everyone)|Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.|124|2021-11-27|2021-08-09|

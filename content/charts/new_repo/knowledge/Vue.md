@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,11 +17,11 @@
 |10|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|69|2021-12-24|2021-02-25|
 |11|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-20|2021-10-03|
 |12|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|49|2021-12-19|2021-05-22|
-|13|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|41|2021-12-29|2021-09-02|
+|13|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|41|2022-01-01|2021-09-02|
 |14|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|39|2021-12-29|2021-04-07|
 |15|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|35|2021-11-25|2021-01-27|
-|16|[lin-xi/fe-course](https://github.com/lin-xi/fe-course)|fe-course|34|2021-07-20|2021-07-09|
-|17|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|33|2021-12-23|2021-11-28|
+|16|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|34|2021-12-23|2021-11-28|
+|17|[lin-xi/fe-course](https://github.com/lin-xi/fe-course)|fe-course|34|2021-07-20|2021-07-09|
 |18|[Idered/iridium](https://github.com/Idered/iridium)|💎 Growing collection of VS Code extensions with a fancy name|33|2021-11-24|2021-01-28|
 |19|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|28|2021-10-15|2021-03-28|
 |20|[nandium/RouteMaker](https://github.com/nandium/RouteMaker)|Browser and Android application where users can quickly create climbing routes and share with community|26|2021-09-08|2021-04-15|

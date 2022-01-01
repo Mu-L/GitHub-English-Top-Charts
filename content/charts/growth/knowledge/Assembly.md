@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8689|19|2021-12-16|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5889|9|2021-12-30|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8692|19|2021-12-16|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5894|9|2021-12-30|
 |3|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|1|2021-12-20|
-|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1886|1|2021-12-29|
+|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1886|1|2022-01-01|
 |5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|306|1|2021-12-16|
 |6|[paulobruno/LearningGbAsm](https://github.com/paulobruno/LearningGbAsm)|Learning Game Boy Z80 Assembly|8|0|2021-07-23|
 |7|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|44|0|2021-08-18|
@@ -48,7 +48,7 @@
 |41|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|0|2021-11-14|
 |42|[rlnilsen/simpledastrainer](https://github.com/rlnilsen/simpledastrainer)|A NES Tetris mod to assist learning the DAS method of playing|2|0|2021-07-06|
 |43|[ProbablyNotArtyom/C64-Assembly-Examples](https://github.com/ProbablyNotArtyom/C64-Assembly-Examples)|A collection of some of the miscellaneous bits of software I have written for the Commodore 64|2|0|2021-06-08|
-|44|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|129|0|2021-12-31|
+|44|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|129|0|2022-01-01|
 |45|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|5|0|2021-10-07|
 |46|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|0|2021-11-26|
 |47|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|8|0|2021-09-30|

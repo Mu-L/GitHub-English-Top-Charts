@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Groovy
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|3854|4|2021-12-29|
-|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|12886|3|2021-12-31|
+|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|3857|4|2021-12-29|
+|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|12886|3|2022-01-01|
 |3|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2100|2|2021-11-16|
-|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3587|2|2021-09-15|
+|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3588|2|2021-09-15|
 |5|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1359|1|2021-11-17|
 |6|[ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)|Gradle plugin to discover dependency updates|3091|1|2021-12-30|
-|7|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2208|1|2021-12-31|
+|7|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2209|1|2022-01-01|
 |8|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|1|2021-12-18|
 |9|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|2783|1|2021-12-29|
 |10|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|33|1|2021-12-15|
@@ -45,7 +45,7 @@
 |38|[totallytot/ScriptRunner](https://github.com/totallytot/ScriptRunner)|Scripts for JIRA/Confluence|20|0|2021-09-26|
 |39|[TudbuT/voter](https://github.com/TudbuT/voter)|N-Dimensional system to determine a party that fits you best|2|0|2021-06-11|
 |40|[etiennestuder/gradle-plugindev-plugin](https://github.com/etiennestuder/gradle-plugindev-plugin)|Gradle plugin that facilitates the bundling and publishing of Gradle plugins as expected by the Gradle Plugin Portal, JCenter, and MavenCentral.|62|0|2021-11-23|
-|41|[JavaPosseRoundup/job-dsl-plugin](https://github.com/JavaPosseRoundup/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|27|0|2021-10-29|
+|41|[JavaPosseRoundup/job-dsl-plugin](https://github.com/JavaPosseRoundup/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|27|0|2022-01-01|
 |42|[motycka/groovy-rest-test](https://github.com/motycka/groovy-rest-test)|Groovy based tooling for REST API testing.|3|0|2021-08-24|
 |43|[AdobeDocs/experience-manager-64.en](https://github.com/AdobeDocs/experience-manager-64.en)|This is the repository for Adobe Experience Manager 6.4 documentation. Your contributions to the documentation are welcome.|15|0|2021-12-29|
 |44|[ascendtech/gwt-gradle](https://github.com/ascendtech/gwt-gradle)|Gradle GWT Plugin For Modern Web applications using NPM/Webpack|22|0|2021-11-04|
@@ -71,7 +71,7 @@
 |64|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|3|0|2021-12-28|
 |65|[qbicsoftware/variantstore-service](https://github.com/qbicsoftware/variantstore-service)|The Variantstore is a Java/Groovy-based service application implemented using the Micronaut framework and enables storage and access to information on genomic variants and metadata from a connected da ...|2|0|2021-07-26|
 |66|[org-arl/fjage-sentuator](https://github.com/org-arl/fjage-sentuator)|Sensor/actuator framework for fjåge|2|0|2021-12-01|
-|67|[TabooLib/taboolib-gradle-plugin](https://github.com/TabooLib/taboolib-gradle-plugin)|-|3|0|2021-12-28|
+|67|[TabooLib/taboolib-gradle-plugin](https://github.com/TabooLib/taboolib-gradle-plugin)|-|3|0|2022-01-01|
 |68|[wpilibsuite/build-tools](https://github.com/wpilibsuite/build-tools)|Tools used by the Jenkins instance|2|0|2021-09-20|
 |69|[gradle/test-retry-gradle-plugin](https://github.com/gradle/test-retry-gradle-plugin)|Gradle plugin to retry tests that have failed to mitigate test flakiness.|102|0|2021-11-25|
 |70|[yangbo/swagger-grails4](https://github.com/yangbo/swagger-grails4)|A Grails-v4 Plugin to automatically generate REST API document using OpenAPI-v3 (swagger)|5|0|2021-10-06|
@@ -92,7 +92,7 @@
 |85|[agorapulse/dru](https://github.com/agorapulse/dru)|Data Reconstruction Utility|17|0|2021-12-02|
 |86|[vishesh04/Filesutra](https://github.com/vishesh04/Filesutra)|Filesutra is an easy way to implement imports and uploads from all popular cloud storage. Supports google drive, onedrive, box, dropbox.|51|0|2021-07-29|
 |87|[folio-org/folio-perf-test](https://github.com/folio-org/folio-perf-test)|Jenkins pipelines to test FOLIO performance and integration|3|0|2021-12-24|
-|88|[mbudnek/google-home-hubitat-community](https://github.com/mbudnek/google-home-hubitat-community)|A community-maintained, full-featured, and highly configurable integration between Hubitat Elevation and Google Home.|36|0|2021-12-16|
+|88|[mbudnek/google-home-hubitat-community](https://github.com/mbudnek/google-home-hubitat-community)|A community-maintained, full-featured, and highly configurable integration between Hubitat Elevation and Google Home.|37|0|2021-12-16|
 |89|[halkeye/jenkins-jobs](https://github.com/halkeye/jenkins-jobs)|-|3|0|2021-10-03|
 |90|[CodeBrig/Arthur](https://github.com/CodeBrig/Arthur)|Semantic language-agnostic source code schema|13|0|2021-10-21|
 |91|[cuba-platform/cuba-gradle-plugin](https://github.com/cuba-platform/cuba-gradle-plugin)|Gradle plugin for building CUBA platform and applications|13|0|2021-12-01|

@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1024|2021-10-09|
+|1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1025|2021-10-09|
 |2|[schneems/Octave](https://github.com/schneems/Octave)|my octave exercises for 2011 stanford machine learning class, posted after the due date of course|797|2021-07-02|
 |3|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|501|2021-10-09|
 |4|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|480|2021-10-04|
 |5|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|357|2021-10-09|
-|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|344|2021-11-11|
+|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|345|2021-11-11|
 |7|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|338|2021-06-16|
 |8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|257|2021-10-21|
 |9|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|254|2021-12-16|
@@ -29,11 +29,11 @@
 |22|[nickabattista/IB2d](https://github.com/nickabattista/IB2d)|An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advecti ...|87|2021-11-02|
 |23|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|2021-12-14|
 |24|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|81|2021-09-23|
-|25|[qingsenyangit/AHDRNet](https://github.com/qingsenyangit/AHDRNet)|Attention-guided Network for Ghost-free High Dynamic Range Imaging|77|2021-12-18|
+|25|[qingsenyangit/AHDRNet](https://github.com/qingsenyangit/AHDRNet)|Attention-guided Network for Ghost-free High Dynamic Range Imaging|78|2021-12-18|
 |26|[pillowlab/GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)|Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data|77|2021-10-21|
 |27|[ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)|The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).|77|2021-11-02|
 |28|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|76|2021-12-03|
-|29|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2021-12-30|
+|29|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2021-12-31|
 |30|[FuzhenZhuang/Transfer-Learning-Toolkit](https://github.com/FuzhenZhuang/Transfer-Learning-Toolkit)|Transfer Learning Toolkit for Primary Researchers|66|2021-06-11|
 |31|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|2021-06-23|
 |32|[daxjuanxiong/infrared-small-target-detection](https://github.com/daxjuanxiong/infrared-small-target-detection)|images, codes and papers about infrared small taret detecion algorithm|57|2021-11-21|

@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Pascal
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9933|2021-12-16|
-|2|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|6998|2021-12-31|
-|3|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2880|2021-12-31|
-|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2624|2021-11-28|
-|5|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2501|2021-09-15|
-|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1430|2021-12-22|
-|7|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|1319|2021-12-30|
+|1|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9936|2022-01-01|
+|2|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|7004|2022-01-01|
+|3|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2881|2022-01-01|
+|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|2626|2021-11-28|
+|5|[transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui)|🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.|2503|2021-09-15|
+|6|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1433|2021-12-22|
+|7|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|1321|2021-12-30|
 |8|[Soldat/soldat](https://github.com/Soldat/soldat)|Soldat is a unique 2D (side-view) multiplayer action game|1303|2021-12-30|
-|9|[salvadordf/CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|895|2021-12-23|
-|10|[danieleteti/delphimvcframework](https://github.com/danieleteti/delphimvcframework)|DMVCFramework (for short) is a popular and powerful framework for web solution in Delphi. Supports RESTful and JSON-RPC APIs development.|876|2021-12-30|
+|9|[salvadordf/CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|895|2022-01-01|
+|10|[danieleteti/delphimvcframework](https://github.com/danieleteti/delphimvcframework)|DMVCFramework (for short) is a popular and powerful framework for web solution in Delphi. Supports RESTful and JSON-RPC APIs development.|877|2021-12-30|
 |11|[DarkCoderSc/win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon)|Crack any Microsoft Windows users password without any privilege (Guest account included)|711|2021-12-01|
-|12|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|704|2021-12-31|
-|13|[pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)|Pyscripter is a feature-rich but lightweight Python IDE|674|2021-12-29|
+|12|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|707|2022-01-01|
+|13|[pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)|Pyscripter is a feature-rich but lightweight Python IDE|676|2022-01-01|
 |14|[MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo)|Convenient unified display of the most relevant technical and tag data for video and audio files.|672|2021-11-29|
 |15|[synopse/mORMot](https://github.com/synopse/mORMot)|Synopse mORMot ORM/SOA/MVC framework|671|2021-12-31|
 |16|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|623|2021-12-16|
-|17|[pyscripter/python4delphi](https://github.com/pyscripter/python4delphi)|Free components that wrap up Python into Delphi and Lazarus (FPC)|597|2021-11-24|
-|18|[castle-engine/castle-engine](https://github.com/castle-engine/castle-engine)|Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal|571|2021-12-30|
+|17|[pyscripter/python4delphi](https://github.com/pyscripter/python4delphi)|Free components that wrap up Python into Delphi and Lazarus (FPC)|598|2021-11-24|
+|18|[castle-engine/castle-engine](https://github.com/castle-engine/castle-engine)|Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal|571|2022-01-01|
 |19|[RRUZ/delphi-ide-theme-editor](https://github.com/RRUZ/delphi-ide-theme-editor)|Custom color highlighting for Object Pascal IDE's|548|2021-10-23|
 |20|[project-jedi/jcl](https://github.com/project-jedi/jcl)|JEDI Code Library|524|2021-11-10|
-|21|[UltraStar-Deluxe/USDX](https://github.com/UltraStar-Deluxe/USDX)|The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™|499|2021-12-16|
+|21|[UltraStar-Deluxe/USDX](https://github.com/UltraStar-Deluxe/USDX)|The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™|501|2021-12-16|
 |22|[project-jedi/jvcl](https://github.com/project-jedi/jvcl)|JEDI Visual Component Library|489|2021-11-09|
 |23|[lawrenceamer/0xsp-Mongoose](https://github.com/lawrenceamer/0xsp-Mongoose)|a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and t ...|488|2021-09-02|
 |24|[JAM-Software/Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|Virtual Treeview is a Delphi treeview control|485|2021-12-29|
@@ -34,7 +34,7 @@
 |27|[syhunt/sandcat](https://github.com/syhunt/sandcat)|An open-source, pentest and developer-oriented web browser, using the power of Lua|464|2021-09-24|
 |28|[benibela/xidel](https://github.com/benibela/xidel)|Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu ...|426|2021-12-26|
 |29|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|423|2021-12-13|
-|30|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|392|2021-12-03|
+|30|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|2021-12-03|
 |31|[PeterLemon/RaspberryPi](https://github.com/PeterLemon/RaspberryPi)|Raspberry Pi Bare Metal Assembly Programming|390|2021-12-24|
 |32|[nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash)|Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, UsbAsp, AVRISP(LUFA), Arduino, FT232H.|381|2021-12-24|
 |33|[gabr42/OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary)|A simple and powerful multithreading library for Delphi|368|2021-10-26|
@@ -49,8 +49,8 @@
 |42|[viniciussanchez/dataset-serialize](https://github.com/viniciussanchez/dataset-serialize)|JSON to DataSet and DataSet to JSON converter for Delphi and Lazarus (FPC)|324|2021-11-24|
 |43|[VSoftTechnologies/DUnitX](https://github.com/VSoftTechnologies/DUnitX)|Delphi Unit Test Framework|322|2021-12-20|
 |44|[PascalCoinDev/PascalCoin](https://github.com/PascalCoinDev/PascalCoin)|P2P cryptocurrency without need of historical operations|317|2021-12-23|
-|45|[BerndGabriel/HtmlViewer](https://github.com/BerndGabriel/HtmlViewer)|The well-known Delphi/Lazarus HtmlViewer/FrameViewer|308|2021-11-20|
-|46|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|307|2021-12-23|
+|45|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|309|2021-12-23|
+|46|[BerndGabriel/HtmlViewer](https://github.com/BerndGabriel/HtmlViewer)|The well-known Delphi/Lazarus HtmlViewer/FrameViewer|308|2021-11-20|
 |47|[paolo-rossi/delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)|307|2021-11-04|
 |48|[Altium-Designer-addons/scripts-libraries](https://github.com/Altium-Designer-addons/scripts-libraries)|Set of community add-ons for Altium Designer|305|2021-12-10|
 |49|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|298|2021-10-03|
@@ -58,9 +58,9 @@
 |51|[asiekierka/reconstruction-of-zzt](https://github.com/asiekierka/reconstruction-of-zzt)|The Reconstruction of ZZT|284|2021-12-26|
 |52|[tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)|Next generation of Tomboy|271|2021-12-28|
 |53|[IndySockets/Indy](https://github.com/IndySockets/Indy)|Indy - Internet Direct|270|2021-11-30|
-|54|[MartinDrab/IRPMon](https://github.com/MartinDrab/IRPMon)|The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of  ...|267|2021-09-29|
+|54|[MartinDrab/IRPMon](https://github.com/MartinDrab/IRPMon)|The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of  ...|268|2021-09-29|
 |55|[bgrabitmap/lazpaint](https://github.com/bgrabitmap/lazpaint)|🎨 Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)|267|2021-12-23|
-|56|[pascalabcnet/pascalabcnet](https://github.com/pascalabcnet/pascalabcnet)|The new generation Pascal programming language for .NET|263|2021-12-29|
+|56|[pascalabcnet/pascalabcnet](https://github.com/pascalabcnet/pascalabcnet)|The new generation Pascal programming language for .NET|263|2022-01-01|
 |57|[hgourvest/superobject](https://github.com/hgourvest/superobject)|-|262|2021-10-09|
 |58|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|259|2021-12-30|
 |59|[graphics32/graphics32](https://github.com/graphics32/graphics32)|Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outpe ...|259|2021-12-15|
@@ -89,7 +89,7 @@
 |82|[EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList)|Four advanced components to simplify use of SVG images and SVG icons into ImageList: TSVGIconImage, TSVGIconImageCollection, TSVGIconVirtualImageList, TSVGIconImageList (for VCL and FMX). Choose the p ...|189|2021-12-14|
 |83|[bgbennyboy/USB-Disk-Ejector](https://github.com/bgbennyboy/USB-Disk-Ejector)|A program that allows you to quickly remove drives in Windows. It can eject USB disks, Firewire disks and memory cards. It is a quick, flexible, portable alternative to using Windows' "Safely Remove H ...|188|2021-07-15|
 |84|[PKGeorgiev/Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass)|Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool)|185|2021-12-28|
-|85|[synopse/mORMot2](https://github.com/synopse/mORMot2)|OpenSource RESTful ORM/SOA/MVC Framework for Delphi and FreePascal|184|2021-12-31|
+|85|[synopse/mORMot2](https://github.com/synopse/mORMot2)|OpenSource RESTful ORM/SOA/MVC Framework for Delphi and FreePascal|184|2022-01-01|
 |86|[norgepaul/TChromeTabs](https://github.com/norgepaul/TChromeTabs)|Comprehensive Delphi implementation of Chrome's tab system|184|2021-06-08|
 |87|[woodenshark/Lightpack](https://github.com/woodenshark/Lightpack)|Lightpack and Prismatik open repository (For support use support@lightpack.tv)|179|2021-11-17|
 |88|[exilon/QuickLogger](https://github.com/exilon/QuickLogger)|Library for logging on files, console, memory, email, rest, eventlog, syslog, slack, telegram, redis, logstash, elasticsearch, influxdb, graylog, Sentry, Twilio, ide debug messages and throw events fo ...|177|2021-10-26|

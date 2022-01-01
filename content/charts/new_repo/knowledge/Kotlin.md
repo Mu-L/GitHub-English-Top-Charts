@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1726|2021-12-15|2021-12-01|
-|2|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|631|2021-12-20|2021-05-16|
-|3|[dbaroncelli/D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample)|D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.|476|2021-07-02|2021-03-16|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1732|2022-01-01|2021-12-01|
+|2|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|632|2021-12-20|2021-05-16|
+|3|[dbaroncelli/D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample)|D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.|477|2021-07-02|2021-03-16|
 |4|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|376|2021-07-29|2021-04-18|
 |5|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|278|2021-10-23|2021-06-22|
-|6|[baronha/react-native-multiple-image-picker](https://github.com/baronha/react-native-multiple-image-picker)|🏞 react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS, similar to the current Facebook app.|136|2021-12-31|2021-02-21|
+|6|[baronha/react-native-multiple-image-picker](https://github.com/baronha/react-native-multiple-image-picker)|🏞 react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS, similar to the current Facebook app.|136|2022-01-01|2021-02-21|
 |7|[imandolatkia/FullScreenCardViewPager_Android](https://github.com/imandolatkia/FullScreenCardViewPager_Android)|Endless full-screen card ViewPager inspired by apple iBook for Android|121|2021-10-27|2021-07-05|
 |8|[SimformSolutionsPvtLtd/SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook)|A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌|106|2021-12-24|2021-06-22|
 |9|[slackhq/slack-lints](https://github.com/slackhq/slack-lints)|A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.|98|2021-12-15|2021-10-20|
@@ -20,8 +20,8 @@
 |13|[wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app)|An app full of Constantly updating Google Pixel wallpapers |73|2021-12-22|2021-09-20|
 |14|[zsmb13/requireKTX](https://github.com/zsmb13/requireKTX)|A collection of small utility functions to make it easier to deal with some otherwise nullable APIs on Android.|73|2021-06-10|2021-05-27|
 |15|[SimformSolutionsPvtLtd/Kotlin-multiplatform-sample](https://github.com/SimformSolutionsPvtLtd/Kotlin-multiplatform-sample)|A sample Kotlin Multiplatform project having native UI and shared bussiness logic on Android and iOS platforms.|70|2021-10-01|2021-01-18|
-|16|[ellisonchan/JetpackDemo](https://github.com/ellisonchan/JetpackDemo)|Jetpack demo that used to show how to use Jetpack libraries.|66|2021-06-27|2021-01-31|
-|17|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|65|2021-10-13|2021-04-12|
+|16|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|66|2021-10-13|2021-04-12|
+|17|[ellisonchan/JetpackDemo](https://github.com/ellisonchan/JetpackDemo)|Jetpack demo that used to show how to use Jetpack libraries.|66|2021-06-27|2021-01-31|
 |18|[adrianwitaszak/PexWallpapers](https://github.com/adrianwitaszak/PexWallpapers)|Android application following best practices: Jetpack, Jetpack Compose, Modularity, Clean Architecture, Kotlin Coroutines, Tests, MVVM, DI, Static Analysis|63|2021-12-19|2021-11-06|
 |19|[ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose)|A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!|60|2021-12-29|2021-08-07|
 |20|[Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow](https://github.com/Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow)|[IN PROGRESS...] Play MVI with Kotlin Coroutines Flow and Jetpack Compose   MVI pattern on Android using Kotlin Coroutines Flow   Dagger Hilt DI   Koin DI   SharedFlow   StateFlow   Jetpack Compose MV ...|57|2021-12-15|2021-03-02|
@@ -38,7 +38,7 @@
 |31|[ronnieotieno/JetPaclk-Compose-Spotify-UI](https://github.com/ronnieotieno/JetPaclk-Compose-Spotify-UI)|Just learning compose while building the Spotify ui.|31|2021-09-07|2021-08-09|
 |32|[jpa-buddy/kotlin-entities](https://github.com/jpa-buddy/kotlin-entities)|This repository shows how to declare Hibernate entities using Kotlin|30|2021-06-02|2021-05-20|
 |33|[JohannBlake/navigation-with-animated-transitions-using-jetpack-compose](https://github.com/JohannBlake/navigation-with-animated-transitions-using-jetpack-compose)|DEPRECATED - Demonstates how to create animated transitions to and from screens using Jetpack Compose.|30|2021-09-30|2021-02-22|
-|34|[wyskoj/midis2jam2](https://github.com/wyskoj/midis2jam2)|🎶 A remaster of MIDIJam, a 3D MIDI file visualizer.|29|2021-12-31|2021-02-25|
+|34|[wyskoj/midis2jam2](https://github.com/wyskoj/midis2jam2)|🎶 A remaster of MIDIJam, a 3D MIDI file visualizer.|29|2022-01-01|2021-02-25|
 |35|[DrBreen/AppSalvager](https://github.com/DrBreen/AppSalvager)|Small library that allows the application to display a small troubleshooting guide in case of repeated app startup crashes.|28|2021-11-22|2021-11-20|
 |36|[X1nto/AliucordPlugins](https://github.com/X1nto/AliucordPlugins)|A collection of plugins for Aliucord.|28|2021-12-31|2021-05-21|
 |37|[abdurakhmonoff/data-structures-and-algorithms-kotlin](https://github.com/abdurakhmonoff/data-structures-and-algorithms-kotlin)|Implementation of Data Structures and Algorithms in Kotlin Programming Language|24|2021-11-21|2021-04-01|
@@ -89,22 +89,22 @@
 |82|[tgloureiro/animated_splashscreen_android](https://github.com/tgloureiro/animated_splashscreen_android)|Code samples for article: "Definitive guide for animated splash screen on Android"|10|2021-07-11|2021-07-04|
 |83|[lolgeny/picoblaze](https://github.com/lolgeny/picoblaze)|A collection of experimental features often discussed, to test if they would truly benefit commands and mapmaking.|10|2021-10-24|2021-04-26|
 |84|[c5inco/Shrine-Compose](https://github.com/c5inco/Shrine-Compose)|Compose prototype of Shrine, the e-commerce Material Design case study: https://material.io/design/material-studies/shrine.html|10|2021-07-28|2021-04-25|
-|85|[Hiten24/Compose-Ui-Templates](https://github.com/Hiten24/Compose-Ui-Templates)|Collection of Compose UI Templates|9|2021-11-20|2021-10-01|
-|86|[arunkumar9t2/compass](https://github.com/arunkumar9t2/compass)|Collection of Kotlin APIs/tools to make using Realm Mobile database easier|9|2021-11-19|2021-09-11|
-|87|[MoatazBadawy/Sunset-hadith](https://github.com/MoatazBadawy/Sunset-hadith)|Best App to learn How to write Kotlin code with Java and learn Advanced Android topics like RestFULAPI, RxJava, MVVM, Room, and much more.|9|2021-12-26|2021-08-29|
-|88|[yagmurerdogan/Jetpack-Masterclass](https://github.com/yagmurerdogan/Jetpack-Masterclass)|Android 11 Jetpack Masterclass Udemy Course by Denis Panjuta 🧑🏻‍💻|9|2021-08-27|2021-08-20|
-|89|[arrow-kt/Arrow-MPP-Template](https://github.com/arrow-kt/Arrow-MPP-Template)|A template project for Arrow on MPP. It defines an application and a couple small examples|9|2021-12-09|2021-08-01|
-|90|[kshitijskumar/Custom-Views](https://github.com/kshitijskumar/Custom-Views)|This repo is to document my learning about Custom views in android|9|2021-06-26|2021-06-20|
-|91|[Mobile-Telematics/TelematicsApp-Android](https://github.com/Mobile-Telematics/TelematicsApp-Android)|Open-source telematics app for Android. The application is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe driving, tracking, family trackers, drive-coach, and other dr ...|9|2021-11-08|2021-06-09|
-|92|[Mimo2k/Android-Development](https://github.com/Mimo2k/Android-Development)|An Open-Source repository that contains all the Android Dev and Kotlin concepts and several projects on android ranging in difficulty making this repo completely beginner-friendly. The main aim of thi ...|8|2021-12-13|2021-11-01|
-|93|[DamonBaker/StrikedImageView](https://github.com/DamonBaker/StrikedImageView)|Animate a strike over any image to indicate on/off states. As seen in the Material Guidelines.|8|2021-09-09|2021-09-03|
-|94|[marty-suzuki/MyFirstAndroidPractice](https://github.com/marty-suzuki/MyFirstAndroidPractice)|I had began learning Android App development since Aug 2021. This is my first Android app project for practice development.|8|2021-09-12|2021-08-20|
-|95|[simgesengun/JetpackCompose-Lull](https://github.com/simgesengun/JetpackCompose-Lull)|Lull is a Android mobile application where you can download wallpapers made with Jetpack Compose.|8|2021-07-13|2021-07-13|
-|96|[Kashif-E/ARCore-Projects](https://github.com/Kashif-E/ARCore-Projects)|This repo contains examples of all the functionalities of sceneform, Face filter , Object Placement etc|8|2021-07-08|2021-07-08|
-|97|[amirhusseinSSoori/News_App_Clean_Architecture_MVVM](https://github.com/amirhusseinSSoori/News_App_Clean_Architecture_MVVM)|this is amazing my sample for learning clean Architecture |8|2021-12-13|2021-03-19|
-|98|[raywenderlich/video-jca-materials](https://github.com/raywenderlich/video-jca-materials)|The projects and materials that accompany the Jetpack Compose Animations course|8|2021-09-01|2021-03-18|
-|99|[tuya/tuya-home-android-sdk-sample-kotlin](https://github.com/tuya/tuya-home-android-sdk-sample-kotlin)|This sample is designed to help developers learn how to use Tuya Smart Home Android SDK features.|8|2021-11-30|2021-01-27|
-|100|[ktorio/ktor-for-xyz](https://github.com/ktorio/ktor-for-xyz)|Ktor for XYZ tutorial|8|2021-07-09|2021-01-14|
+|85|[Mimo2k/Android-Development](https://github.com/Mimo2k/Android-Development)|An Open-Source repository that contains all the Android Dev and Kotlin concepts and several projects on android ranging in difficulty making this repo completely beginner-friendly. The main aim of thi ...|9|2021-12-13|2021-11-01|
+|86|[Hiten24/Compose-Ui-Templates](https://github.com/Hiten24/Compose-Ui-Templates)|Collection of Compose UI Templates|9|2021-11-20|2021-10-01|
+|87|[arunkumar9t2/compass](https://github.com/arunkumar9t2/compass)|Collection of Kotlin APIs/tools to make using Realm Mobile database easier|9|2021-11-19|2021-09-11|
+|88|[MoatazBadawy/Sunset-hadith](https://github.com/MoatazBadawy/Sunset-hadith)|Best App to learn How to write Kotlin code with Java and learn Advanced Android topics like RestFULAPI, RxJava, MVVM, Room, and much more.|9|2021-12-26|2021-08-29|
+|89|[yagmurerdogan/Jetpack-Masterclass](https://github.com/yagmurerdogan/Jetpack-Masterclass)|Android 11 Jetpack Masterclass Udemy Course by Denis Panjuta 🧑🏻‍💻|9|2021-08-27|2021-08-20|
+|90|[arrow-kt/Arrow-MPP-Template](https://github.com/arrow-kt/Arrow-MPP-Template)|A template project for Arrow on MPP. It defines an application and a couple small examples|9|2021-12-09|2021-08-01|
+|91|[kshitijskumar/Custom-Views](https://github.com/kshitijskumar/Custom-Views)|This repo is to document my learning about Custom views in android|9|2021-06-26|2021-06-20|
+|92|[Mobile-Telematics/TelematicsApp-Android](https://github.com/Mobile-Telematics/TelematicsApp-Android)|Open-source telematics app for Android. The application is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe driving, tracking, family trackers, drive-coach, and other dr ...|9|2021-11-08|2021-06-09|
+|93|[wickedev/graphql-jetpack](https://github.com/wickedev/graphql-jetpack)|A collection of packages for easily writing Java GraphQL server implementations|8|2022-01-01|2021-12-18|
+|94|[DamonBaker/StrikedImageView](https://github.com/DamonBaker/StrikedImageView)|Animate a strike over any image to indicate on/off states. As seen in the Material Guidelines.|8|2021-09-09|2021-09-03|
+|95|[marty-suzuki/MyFirstAndroidPractice](https://github.com/marty-suzuki/MyFirstAndroidPractice)|I had began learning Android App development since Aug 2021. This is my first Android app project for practice development.|8|2021-09-12|2021-08-20|
+|96|[simgesengun/JetpackCompose-Lull](https://github.com/simgesengun/JetpackCompose-Lull)|Lull is a Android mobile application where you can download wallpapers made with Jetpack Compose.|8|2021-07-13|2021-07-13|
+|97|[Kashif-E/ARCore-Projects](https://github.com/Kashif-E/ARCore-Projects)|This repo contains examples of all the functionalities of sceneform, Face filter , Object Placement etc|8|2021-07-08|2021-07-08|
+|98|[amirhusseinSSoori/News_App_Clean_Architecture_MVVM](https://github.com/amirhusseinSSoori/News_App_Clean_Architecture_MVVM)|this is amazing my sample for learning clean Architecture |8|2021-12-13|2021-03-19|
+|99|[raywenderlich/video-jca-materials](https://github.com/raywenderlich/video-jca-materials)|The projects and materials that accompany the Jetpack Compose Animations course|8|2021-09-01|2021-03-18|
+|100|[tuya/tuya-home-android-sdk-sample-kotlin](https://github.com/tuya/tuya-home-android-sdk-sample-kotlin)|This sample is designed to help developers learn how to use Tuya Smart Home Android SDK features.|8|2021-11-30|2021-01-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

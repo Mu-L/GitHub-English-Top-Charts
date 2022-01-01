@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2249|2021-12-22|2021-10-20|
+|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2250|2021-12-22|2021-10-20|
 |2|[sharovatov/teamlead](https://github.com/sharovatov/teamlead)|Pragmatic humanist's thoughts on sociotechnical systems.|617|2021-12-30|2021-02-23|
 |3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|230|2021-12-26|2021-08-07|
 |4|[Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim)|🎨 A beautiful and dark vim colorscheme. |139|2021-12-10|2021-08-31|
@@ -23,7 +23,7 @@
 |16|[pulkomandy/c.vim](https://github.com/pulkomandy/c.vim)|Improved C syntax highlighting for vim|57|2021-08-20|2021-08-14|
 |17|[azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter)|Highlight words and expressions|57|2021-12-31|2021-05-07|
 |18|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams|55|2021-12-10|2021-12-10|
-|19|[sora6kq/sway-dots](https://github.com/sora6kq/sway-dots)|dotfiles for my sway config|53|2021-11-29|2021-10-11|
+|19|[sora6kq/sway-dots](https://github.com/sora6kq/sway-dots)|dotfiles for my sway config|52|2021-11-29|2021-10-11|
 |20|[axlebedev/footprints](https://github.com/axlebedev/footprints)|Vim plugin: footprints. Highlight last edited lines.|51|2021-09-13|2021-06-20|
 |21|[fladson/vim-kitty](https://github.com/fladson/vim-kitty)|Syntax highlighting for Kitty terminal config files.|51|2021-12-27|2021-02-25|
 |22|[vimhack/dotfiles](https://github.com/vimhack/dotfiles)|Vim/Neovim + Tmux + Zsh + Alacritty = Build your fantastic development environment 🍀|49|2021-12-17|2021-05-01|
@@ -38,10 +38,10 @@
 |31|[hgup/nvim](https://github.com/hgup/nvim)|Fast, with sane-defaults, Neovide compatible, riced, easy to install neovim dotfiles.|34|2021-12-29|2021-09-18|
 |32|[skywind3000/LeaderF-snippet](https://github.com/skywind3000/LeaderF-snippet)|Intuitive Way to Use Snippet|33|2021-12-19|2021-02-01|
 |33|[hrsh7th/vim-seak](https://github.com/hrsh7th/vim-seak)|search + seek = seak. The plugin that enhances the `/` and `?`.|32|2021-12-27|2021-12-26|
-|34|[nothingButSyntaxError/dotfiles](https://github.com/nothingButSyntaxError/dotfiles)|Configuration files for linux, polybar, i3etc|32|2021-12-29|2021-10-04|
-|35|[jakewies/.dotfiles](https://github.com/jakewies/.dotfiles)|My portable development environment|32|2021-12-23|2021-09-14|
-|36|[alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim)|Highlight dotfiles you manage with chezmoi.|30|2021-12-28|2021-04-06|
-|37|[sarveshspatil111/i3wm-nord](https://github.com/sarveshspatil111/i3wm-nord)|These are my i3wm config files, inspired by nord-theme|30|2021-09-20|2021-03-30|
+|34|[jakewies/.dotfiles](https://github.com/jakewies/.dotfiles)|My portable development environment|32|2021-12-23|2021-09-14|
+|35|[nothingButSyntaxError/dotfiles](https://github.com/nothingButSyntaxError/dotfiles)|Configuration files for linux, polybar, i3etc|31|2022-01-01|2021-10-04|
+|36|[sarveshspatil111/i3wm-nord](https://github.com/sarveshspatil111/i3wm-nord)|These are my i3wm config files, inspired by nord-theme|31|2021-09-20|2021-03-30|
+|37|[alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim)|Highlight dotfiles you manage with chezmoi.|30|2021-12-28|2021-04-06|
 |38|[rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim)|samwise is a line-wise note-taking plugin for neovim.|29|2021-08-31|2021-08-28|
 |39|[yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim)|Add a file preview window to fern.vim.|29|2021-08-12|2021-05-30|
 |40|[lourenci/github-colors](https://github.com/lourenci/github-colors)|Yet another GitHub colorscheme|29|2021-10-04|2021-05-21|
@@ -54,7 +54,7 @@
 |47|[MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite)|A Vim Config for Writing and Writers|24|2021-11-21|2021-11-12|
 |48|[ourigen/skyline.vim](https://github.com/ourigen/skyline.vim)|skyline.vim is a simple statusline plugin for Vim.|24|2021-09-11|2021-03-17|
 |49|[jenterkin/vim-autosource](https://github.com/jenterkin/vim-autosource)|Manage Vim configuration for projects.|23|2021-12-22|2021-05-22|
-|50|[matsui54/denops-popup-preview.vim](https://github.com/matsui54/denops-popup-preview.vim)|Show completion documentation|22|2021-12-20|2021-09-17|
+|50|[matsui54/denops-popup-preview.vim](https://github.com/matsui54/denops-popup-preview.vim)|Show completion documentation|22|2022-01-01|2021-09-17|
 |51|[blackbirdtheme/vim](https://github.com/blackbirdtheme/vim)|🏴 blackbird theme for vim|22|2021-07-07|2021-05-11|
 |52|[addy-dclxvi/debian-bspwm-dotfiles](https://github.com/addy-dclxvi/debian-bspwm-dotfiles)|My personal backup of my current Debian configurations|21|2021-12-11|2021-08-27|
 |53|[xvim64/vim-text-viewer](https://github.com/xvim64/vim-text-viewer)|-|21|2021-12-04|2021-08-12|
@@ -71,10 +71,10 @@
 |64|[ItzIlhxm/bspwm-dotfiles](https://github.com/ItzIlhxm/bspwm-dotfiles)|-|18|2021-12-31|2021-10-26|
 |65|[kaihendry/goide](https://github.com/kaihendry/goide)|Docker run to a sane vim-go setup|18|2021-12-06|2021-04-29|
 |66|[Rasukarusan/nvim-select-multi-line](https://github.com/Rasukarusan/nvim-select-multi-line)|Neovim plugin. select multiple lines that are not adjacent.|18|2021-08-22|2021-04-17|
-|67|[shivamashtikar/tmuxjump.vim](https://github.com/shivamashtikar/tmuxjump.vim)|A plugin to open file from file paths printed in sibling tmux pane|17|2021-06-21|2021-06-19|
-|68|[mtwb47/dwmricer](https://github.com/mtwb47/dwmricer)|DWM Auto Install and Ricing Script|17|2021-07-20|2021-03-29|
-|69|[rayes0/blossom.vim](https://github.com/rayes0/blossom.vim)|a simple pinkish vim colorscheme designed for cursive italics|17|2021-09-12|2021-02-13|
-|70|[hrsh7th/vim-searchx](https://github.com/hrsh7th/vim-searchx)|The extended search motion.|16|2021-12-31|2021-12-28|
+|67|[mtwb47/dwmricer](https://github.com/mtwb47/dwmricer)|DWM Auto Install and Ricing Script|18|2021-07-20|2021-03-29|
+|68|[hrsh7th/vim-searchx](https://github.com/hrsh7th/vim-searchx)|The extended search motion.|17|2022-01-01|2021-12-28|
+|69|[shivamashtikar/tmuxjump.vim](https://github.com/shivamashtikar/tmuxjump.vim)|A plugin to open file from file paths printed in sibling tmux pane|17|2021-06-21|2021-06-19|
+|70|[rayes0/blossom.vim](https://github.com/rayes0/blossom.vim)|a simple pinkish vim colorscheme designed for cursive italics|17|2021-09-12|2021-02-13|
 |71|[TuanNguyen2504/coding-tool-config](https://github.com/TuanNguyen2504/coding-tool-config)|My Terminal, Vim, VS Code configuration, VSCode Extensions|16|2021-12-28|2021-09-01|
 |72|[yazgoo/yank-history](https://github.com/yazgoo/yank-history)|yank history for vim via fzf|16|2021-08-28|2021-08-25|
 |73|[RobinMalfait/dotfiles](https://github.com/RobinMalfait/dotfiles)|-|16|2021-12-06|2021-02-20|

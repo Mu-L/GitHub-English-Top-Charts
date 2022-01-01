@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Groovy
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|12886|2021-12-31|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|12886|2022-01-01|
 |2|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|4436|2021-12-27|
-|3|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|3854|2021-12-29|
-|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3587|2021-09-15|
+|3|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|3857|2021-12-29|
+|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3588|2021-09-15|
 |5|[ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)|Gradle plugin to discover dependency updates|3091|2021-12-30|
 |6|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|2783|2021-12-29|
-|7|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2208|2021-12-31|
+|7|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2209|2022-01-01|
 |8|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2100|2021-11-16|
 |9|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|1584|2021-12-24|
 |10|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1359|2021-11-17|
 |11|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1238|2021-12-29|
 |12|[geb/geb](https://github.com/geb/geb)|Very Groovy Browser Automation|1088|2021-12-26|
 |13|[bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin)|Gradle plugin for managing Docker images and containers.|1066|2021-09-29|
-|14|[sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3)|Dockerized version of Nexus Repo Manager 3|1008|2021-12-30|
+|14|[sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3)|Dockerized version of Nexus Repo Manager 3|1009|2021-12-30|
 |15|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|739|2021-10-11|
-|16|[geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins)|Ansible Role - Jenkins CI|729|2021-12-29|
+|16|[geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins)|Ansible Role - Jenkins CI|730|2021-12-29|
 |17|[airbnb/okreplay](https://github.com/airbnb/okreplay)|📼 Record and replay OkHttp network interaction in your tests.|728|2021-09-02|
 |18|[spockframework/spock-example](https://github.com/spockframework/spock-example)|Spock example specifications along with ready-to-go Gradle and Maven builds|663|2021-12-22|
 |19|[ultraq/thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect)|A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse|647|2021-12-11|
@@ -49,7 +49,7 @@
 |42|[vanniktech/gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)|Gradle plugin that generates JaCoCo reports from an Android Gradle Project|358|2021-10-20|
 |43|[hierynomus/license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin)|Manage your license(s)|352|2021-11-22|
 |44|[takipi/java-bullshifier](https://github.com/takipi/java-bullshifier)|An open source project by OverOps. Generate massive random Java applications with a command line tool|348|2021-12-03|
-|45|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|341|2021-12-20|
+|45|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|342|2021-12-20|
 |46|[nebula-plugins/gradle-ospackage-plugin](https://github.com/nebula-plugins/gradle-ospackage-plugin)|Gradle plugin for constructing linux packages, specifically RPM and DEBs.|340|2021-12-23|
 |47|[spinnaker/clouddriver](https://github.com/spinnaker/clouddriver)|read and write operations across cloud providers|339|2021-12-30|
 |48|[avast/gradle-docker-compose-plugin](https://github.com/avast/gradle-docker-compose-plugin)|Simplifies usage of Docker Compose for integration testing in Gradle environment.|328|2021-12-30|

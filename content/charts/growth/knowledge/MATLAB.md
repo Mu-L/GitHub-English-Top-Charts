@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)|Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communica ...|101|1|2021-12-22|
-|2|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1024|1|2021-10-09|
+|2|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1025|1|2021-10-09|
 |3|[robokamran/ControlSystems](https://github.com/robokamran/ControlSystems)|A pack of control system algorithms implemented in C to be used in embedded systems.|8|1|2021-12-18|
-|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|344|1|2021-11-11|
+|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|345|1|2021-11-11|
 |5|[vegarant/cilib](https://github.com/vegarant/cilib)|Code for the book "Compressive imaging: Structure, Sampling, Learning".|8|0|2021-08-26|
 |6|[parthnagarkar875/Sclera_Recognition](https://github.com/parthnagarkar875/Sclera_Recognition)|A new method for bio metric authentication system was developed in which the users were authenticated on the basis of their Sclera. A photo of the user's eye was captured and it was processed with the ...|7|0|2021-10-27|
 |7|[dianixn/Residual_CNN](https://github.com/dianixn/Residual_CNN)|Repeat the result of Deep Residual Learning Meets OFDM Channel Estimation using MATLAB, I think they did not release the code so I am not sure whats I did is hundred percent correct, so just have fun|12|0|2021-08-20|
@@ -75,36 +75,36 @@
 |68|[mrfil/LowRankISMRM](https://github.com/mrfil/LowRankISMRM)|Low rank image reconstruction tutorial from ISMRM 2018|12|0|2021-11-01|
 |69|[KIT-IBT/ECGdeli](https://github.com/KIT-IBT/ECGdeli)|This is ECGdeli - A selection of delicious algorithms for ECG delineation|4|0|2021-11-08|
 |70|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|76|0|2021-12-03|
-|71|[mrikasper/paper-advances-in-spiral-fmri](https://github.com/mrikasper/paper-advances-in-spiral-fmri)|Analysis and Representation Code for scientific paper "Advances in Spiral fMRI: A High-resolution Study with Single-shot Acquisition"|4|0|2021-12-18|
-|72|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|27|0|2021-08-26|
-|73|[AbhinavM2000/percolation_](https://github.com/AbhinavM2000/percolation_)|Creating a computer model to simulate and study percolation phenomenon through a medium. Image analysis using percolation theory as an extension to the original project.|2|0|2021-11-24|
-|74|[akshaybahadur21/MachineLearning-CourseEra](https://github.com/akshaybahadur21/MachineLearning-CourseEra)|Machine Learning Course for humans 📜|3|0|2021-06-04|
-|75|[mindThomas/MATLAB-tools](https://github.com/mindThomas/MATLAB-tools)|A collection of different MATLAB scripts and tools|5|0|2021-06-06|
-|76|[FuzhenZhuang/Transfer-Learning-Toolkit](https://github.com/FuzhenZhuang/Transfer-Learning-Toolkit)|Transfer Learning Toolkit for Primary Researchers|66|0|2021-06-11|
-|77|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|0|2021-12-21|
-|78|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|0|2021-10-22|
-|79|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|0|2021-10-23|
-|80|[otoolej/memeff_TFDs](https://github.com/otoolej/memeff_TFDs)|fast and memory-efficient algorithms for computing time-frequency distributions|12|0|2021-08-24|
-|81|[nabusch/Elektro-Pipe](https://github.com/nabusch/Elektro-Pipe)|A collection of code for a processing pipeline for elektrenkephalography data.|2|0|2021-06-04|
-|82|[sg-s/srinivas.gs_mtools](https://github.com/sg-s/srinivas.gs_mtools)|A collection of small functions and MATLAB tools, some that I have written.|4|0|2021-11-29|
-|83|[wgreycoon/brain-rhythms](https://github.com/wgreycoon/brain-rhythms)|This is a collection of MATLAB functions I've written over the years, to analyze electrophysiological time series data (ECoG/iEEG, stereo-EEG, EEG, LFP, MEG).  Some of them have toolbox dependencies i ...|2|0|2021-08-11|
-|84|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|0|2021-11-14|
-|85|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|0|2021-12-14|
-|86|[juanpablordz/computational-cognitive-science](https://github.com/juanpablordz/computational-cognitive-science)|The home of MIT's 9.66 course (Fall 2021).|3|0|2021-10-22|
-|87|[anton-dudarev/power-query](https://github.com/anton-dudarev/power-query)|Collection of useful Power Query M templates, functions and snippets|5|0|2021-10-26|
-|88|[prophesee-ai/prophesee-matlab-scripts](https://github.com/prophesee-ai/prophesee-matlab-scripts)|Basic scripts showing how to work with data from Prophesee sensors in MATLAB|4|0|2021-09-30|
-|89|[aeroimperial-optimization/sos-chordal-decomposition-pmi](https://github.com/aeroimperial-optimization/sos-chordal-decomposition-pmi)|MATLAB code with examples of SOS chordal decomposition for polynomial matrix inequalities with sparsity|5|0|2021-06-25|
-|90|[danfenghong/ECCV2018_J-Play](https://github.com/danfenghong/ECCV2018_J-Play)|Danfeng Hong, Naoto Yokoya, Jian Xu, Xiaoxiang Zhu. Joint & Progressive Learning from High-Dimensional Data for Multi-Label Classification, ECCV, 2018.|4|0|2021-11-14|
-|91|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|8|0|2021-11-08|
-|92|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|0|2021-06-23|
-|93|[mo7amd/MATLAB-MOOC](https://github.com/mo7amd/MATLAB-MOOC)|This homeworks solution of Matlab MOOC on Coursera introduce by Vanderbilt University|16|0|2021-10-14|
-|94|[Srbiau99/ComputerScience](https://github.com/Srbiau99/ComputerScience)|Computer Science Document for learning|3|0|2021-09-16|
-|95|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|2|0|2021-12-02|
-|96|[shirley-ai/TSP](https://github.com/shirley-ai/TSP)|Develop and optimise various heuristics algorithms in MATLAB to solve Travelling Salesperson Problem (TSP), including Meta-heuristics (both pure and hybrid) and Hyper-heuristics.|2|0|2021-06-02|
-|97|[MartinBraquet/task-allocation-auctions](https://github.com/MartinBraquet/task-allocation-auctions)|Dynamic decentralized task allocation algorithms for multi-agent systems using auctions and machine learning|7|0|2021-06-19|
-|98|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|3|0|2021-12-22|
-|99|[hiroyuki-kasai/RSOpt](https://github.com/hiroyuki-kasai/RSOpt)|Riemannian stochastic optimization algorithms: Version 1.0.3|41|0|2021-06-10|
-|100|[facebookresearch/BinauralSDM](https://github.com/facebookresearch/BinauralSDM)|This repository contains a set of tools to render Binaural Room Impulse Responses (BRIR) using the Spatial Decomposition Method (SDM).The implementation features a series of improvements presented in  ...|20|0|2021-12-04|
+|71|[KentaItakura/Classify-crack-image-and-explain-why-using-MATLAB](https://github.com/KentaItakura/Classify-crack-image-and-explain-why-using-MATLAB)|This repo shows how to classify crack images and discuss the result with grad-cam|3|0|2021-10-04|
+|72|[mrikasper/paper-advances-in-spiral-fmri](https://github.com/mrikasper/paper-advances-in-spiral-fmri)|Analysis and Representation Code for scientific paper "Advances in Spiral fMRI: A High-resolution Study with Single-shot Acquisition"|4|0|2021-12-18|
+|73|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|27|0|2021-08-26|
+|74|[AbhinavM2000/percolation_](https://github.com/AbhinavM2000/percolation_)|Creating a computer model to simulate and study percolation phenomenon through a medium. Image analysis using percolation theory as an extension to the original project.|2|0|2021-11-24|
+|75|[akshaybahadur21/MachineLearning-CourseEra](https://github.com/akshaybahadur21/MachineLearning-CourseEra)|Machine Learning Course for humans 📜|3|0|2021-06-04|
+|76|[mindThomas/MATLAB-tools](https://github.com/mindThomas/MATLAB-tools)|A collection of different MATLAB scripts and tools|5|0|2021-06-06|
+|77|[FuzhenZhuang/Transfer-Learning-Toolkit](https://github.com/FuzhenZhuang/Transfer-Learning-Toolkit)|Transfer Learning Toolkit for Primary Researchers|66|0|2021-06-11|
+|78|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|0|2021-12-21|
+|79|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|0|2021-10-22|
+|80|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|0|2021-10-23|
+|81|[otoolej/memeff_TFDs](https://github.com/otoolej/memeff_TFDs)|fast and memory-efficient algorithms for computing time-frequency distributions|12|0|2021-08-24|
+|82|[nabusch/Elektro-Pipe](https://github.com/nabusch/Elektro-Pipe)|A collection of code for a processing pipeline for elektrenkephalography data.|2|0|2021-06-04|
+|83|[sg-s/srinivas.gs_mtools](https://github.com/sg-s/srinivas.gs_mtools)|A collection of small functions and MATLAB tools, some that I have written.|4|0|2021-11-29|
+|84|[wgreycoon/brain-rhythms](https://github.com/wgreycoon/brain-rhythms)|This is a collection of MATLAB functions I've written over the years, to analyze electrophysiological time series data (ECoG/iEEG, stereo-EEG, EEG, LFP, MEG).  Some of them have toolbox dependencies i ...|2|0|2021-08-11|
+|85|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|0|2021-11-14|
+|86|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|0|2021-12-14|
+|87|[juanpablordz/computational-cognitive-science](https://github.com/juanpablordz/computational-cognitive-science)|The home of MIT's 9.66 course (Fall 2021).|3|0|2021-10-22|
+|88|[anton-dudarev/power-query](https://github.com/anton-dudarev/power-query)|Collection of useful Power Query M templates, functions and snippets|5|0|2021-10-26|
+|89|[prophesee-ai/prophesee-matlab-scripts](https://github.com/prophesee-ai/prophesee-matlab-scripts)|Basic scripts showing how to work with data from Prophesee sensors in MATLAB|4|0|2021-09-30|
+|90|[aeroimperial-optimization/sos-chordal-decomposition-pmi](https://github.com/aeroimperial-optimization/sos-chordal-decomposition-pmi)|MATLAB code with examples of SOS chordal decomposition for polynomial matrix inequalities with sparsity|5|0|2021-06-25|
+|91|[danfenghong/ECCV2018_J-Play](https://github.com/danfenghong/ECCV2018_J-Play)|Danfeng Hong, Naoto Yokoya, Jian Xu, Xiaoxiang Zhu. Joint & Progressive Learning from High-Dimensional Data for Multi-Label Classification, ECCV, 2018.|4|0|2021-11-14|
+|92|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|8|0|2021-11-08|
+|93|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|0|2021-06-23|
+|94|[mo7amd/MATLAB-MOOC](https://github.com/mo7amd/MATLAB-MOOC)|This homeworks solution of Matlab MOOC on Coursera introduce by Vanderbilt University|16|0|2021-10-14|
+|95|[Srbiau99/ComputerScience](https://github.com/Srbiau99/ComputerScience)|Computer Science Document for learning|3|0|2021-09-16|
+|96|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|2|0|2021-12-02|
+|97|[shirley-ai/TSP](https://github.com/shirley-ai/TSP)|Develop and optimise various heuristics algorithms in MATLAB to solve Travelling Salesperson Problem (TSP), including Meta-heuristics (both pure and hybrid) and Hyper-heuristics.|2|0|2021-06-02|
+|98|[MartinBraquet/task-allocation-auctions](https://github.com/MartinBraquet/task-allocation-auctions)|Dynamic decentralized task allocation algorithms for multi-agent systems using auctions and machine learning|7|0|2021-06-19|
+|99|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|3|0|2021-12-22|
+|100|[hiroyuki-kasai/RSOpt](https://github.com/hiroyuki-kasai/RSOpt)|Riemannian stochastic optimization algorithms: Version 1.0.3|41|0|2021-06-10|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

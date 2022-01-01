@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Go
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,11 +9,11 @@
 |2|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1432|2021-08-25|2021-07-15|
 |3|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|695|2021-12-29|2021-08-08|
 |4|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|583|2021-12-31|2021-04-13|
-|5|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|557|2021-12-24|2021-12-04|
+|5|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|562|2022-01-01|2021-12-04|
 |6|[spatial-go/geoos](https://github.com/spatial-go/geoos)|A library provides spatial data and geometric algorithms|502|2021-12-31|2021-03-23|
 |7|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...|347|2021-12-24|2021-04-27|
-|8|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|326|2021-12-22|2021-12-15|
-|9|[MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example)|Go microservice tutorial project using Domain Driven Design and Onion Architecture!|313|2021-12-31|2021-02-14|
+|8|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|327|2021-12-22|2021-12-15|
+|9|[MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example)|Go microservice tutorial project using Domain Driven Design and Onion Architecture!|314|2021-12-31|2021-02-14|
 |10|[hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons)|Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting|298|2021-12-21|2021-01-12|
 |11|[fxfactorial/liquidation-bot-fall-2020](https://github.com/fxfactorial/liquidation-bot-fall-2020)|My old liquidation bot - doesn't compile, just learn from it |233|2021-06-27|2021-06-27|
 |12|[zeromicro/zero-examples](https://github.com/zeromicro/zero-examples)|go-zero examples|195|2021-12-25|2021-02-08|

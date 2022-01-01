@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4658|6|2021-12-07|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4660|6|2021-12-07|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5660|2|2021-08-30|
-|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6916|2|2021-12-30|
+|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6916|2|2021-12-31|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2091|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
 |6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2845|1|2021-09-21|
@@ -61,7 +61,7 @@
 |54|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2021-12-24|
 |55|[hb1love/Woom](https://github.com/hb1love/Woom)|🌷 An iOS app for sharing talents with people. Use it for upgrade your skills and learn to a new things|3|0|2021-07-13|
 |56|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|50|0|2021-07-28|
-|57|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|109|0|2021-08-06|
+|57|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|110|0|2021-08-06|
 |58|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|0|2021-09-21|
 |59|[AlanU/cross-platform-code-examples](https://github.com/AlanU/cross-platform-code-examples)|Examples Of Code in Different Programming Languages |3|0|2021-07-31|
 |60|[DJI-Mobile-SDK-Tutorials/iOS-GSDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GSDemo)|A demo teaches you how to construct a DJIWaypoint Mission app, which allows you to plot a flight route for your drone by placing waypoints on a map.|26|0|2021-10-11|
@@ -98,7 +98,7 @@
 |91|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
 |92|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|0|2021-12-28|
 |93|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-30|
-|94|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2021-12-31|
+|94|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2022-01-01|
 |95|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|320|0|2021-09-21|
 |96|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
 |97|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|
