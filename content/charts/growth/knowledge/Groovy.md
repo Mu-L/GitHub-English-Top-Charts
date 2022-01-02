@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3805|2|2021-12-21|
+|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3806|2|2021-12-21|
 |2|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|4|0|2021-12-31|
 |3|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|0|2021-12-09|
 |4|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|0|2021-12-31|

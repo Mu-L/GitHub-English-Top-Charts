@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|645|2021-11-02|2021-10-19|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |594|2021-12-29|2021-11-30|
-|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|581|2022-01-01|2021-04-09|
-|4|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|569|2021-12-24|2021-07-19|
+|1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|646|2021-11-02|2021-10-19|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|597|2022-01-02|2021-11-30|
+|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|581|2022-01-02|2021-04-09|
+|4|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|570|2021-12-24|2021-07-19|
 |5|[pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump)|A collection of tools for debugging, diffing, and testing your application's data structures.|392|2021-12-08|2021-02-05|
 |6|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|374|2021-09-10|2021-01-20|
 |7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|249|2021-12-26|2021-10-24|
 |8|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|196|2021-11-16|2021-03-19|
-|9|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|115|2021-11-07|2021-11-07|
+|9|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|116|2021-11-07|2021-11-07|
 |10|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|84|2021-10-04|2021-10-04|
 |11|[recherst/kavsoft-swiftui-animations](https://github.com/recherst/kavsoft-swiftui-animations)|SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft. 🔗 https://kavsoft.dev|82|2021-10-14|2021-06-24|
 |12|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|63|2021-12-26|2021-07-13|
@@ -35,7 +35,7 @@
 |28|[rodydavis/lit-native](https://github.com/rodydavis/lit-native)|Example of how to embed a Lit web component into native platforms.|22|2021-09-21|2021-06-17|
 |29|[artemnovichkov/RaySo](https://github.com/artemnovichkov/RaySo)|Share your awesome code to https://ray.so with Xcode Extension.|20|2021-10-02|2021-02-19|
 |30|[apatronl/YouTube](https://github.com/apatronl/YouTube)|Repo containing final code for my video tutorials available on YouTube. Check out my channel at youtube.com/alepatron|20|2021-11-30|2021-01-22|
-|31|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|18|2021-12-03|2021-06-28|
+|31|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|19|2021-12-03|2021-06-28|
 |32|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|17|2021-12-15|2021-10-07|
 |33|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|16|2021-12-21|2021-09-01|
 |34|[obrienser/memorize](https://github.com/obrienser/memorize)|Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)|16|2021-07-05|2021-06-28|
@@ -85,7 +85,7 @@
 |78|[fatbobman/ShareData_Demo_For_CoreDataWithCloudKit](https://github.com/fatbobman/ShareData_Demo_For_CoreDataWithCloudKit)|Demo for wwdc21-10015,how to share data by Core Data with CloudKit|5|2021-11-06|2021-09-10|
 |79|[gadirom/Metal-Compute-Offscreen-Render-and-Postprocess](https://github.com/gadirom/Metal-Compute-Offscreen-Render-and-Postprocess)|A Swift Playground Book that explores the Apple's Metal technology on iOS.|5|2021-09-02|2021-08-03|
 |80|[anastasiabespalova/cs193p](https://github.com/anastasiabespalova/cs193p)|⭐ Spring 2021 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)|5|2021-08-21|2021-07-27|
-|81|[ttub-nii/TIL](https://github.com/ttub-nii/TIL)|Today I Learned|5|2022-01-01|2021-07-05|
+|81|[ttub-nii/TIL](https://github.com/ttub-nii/TIL)|Today I Learned|5|2022-01-02|2021-07-05|
 |82|[ralfebert/SwiftAlgorithmsExamples](https://github.com/ralfebert/SwiftAlgorithmsExamples)|Examples for Swift Algorithms visualized in SwiftUI.|5|2021-06-30|2021-06-30|
 |83|[VanHoutte/DrawTogether](https://github.com/VanHoutte/DrawTogether)|I tried to recreate the DrawTogether app with the GroupActivities API that was shared in one their sessions|5|2021-06-16|2021-06-16|
 |84|[hyesuuou/iOS-Dev](https://github.com/hyesuuou/iOS-Dev)|iOS/Swift Study Repository|5|2021-12-09|2021-04-30|

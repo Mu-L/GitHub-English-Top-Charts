@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Lua
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|243|6|2022-01-01|
-|2|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|615|4|2021-12-31|
-|3|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|9602|3|2022-01-01|
+|1|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|252|6|2022-01-02|
+|2|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|616|4|2022-01-02|
+|3|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|9611|3|2022-01-02|
 |4|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit|3763|2|2021-09-17|
-|5|[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)|Indent guides  for Neovim|1043|2|2021-12-30|
-|6|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2174|2|2021-11-13|
+|5|[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)|Indent guides  for Neovim|1046|2|2021-12-30|
+|6|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2173|2|2021-11-13|
 |7|[sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim)|A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !|212|1|2021-12-23|
-|8|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|189|1|2021-12-28|
+|8|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|192|1|2021-12-28|
 |9|[Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell)|This is a collection of awesome wm configuration files|212|1|2021-06-18|
-|10|[cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection)|Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)|893|1|2021-10-12|
+|10|[cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection)|Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)|894|1|2021-10-12|
 |11|[ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)|A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse|145|1|2021-12-23|
 |12|[arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim)|A simple plugin to quickly run a snippet of code without ever leaving neovim|26|1|2021-12-25|
 |13|[adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools)|A series of handy scripts for Aseprite|16|1|2021-12-05|
@@ -33,7 +33,7 @@
 |26|[HylianBasement/rbx-hook-bag](https://github.com/HylianBasement/rbx-hook-bag)|Personal collection of roact hooks|6|0|2021-11-20|
 |27|[wheelyjoe/DCS-Scripts](https://github.com/wheelyjoe/DCS-Scripts)|A small collection of scripts for DCS|10|0|2021-09-20|
 |28|[jrwieland/TaraniTunes-v4.x](https://github.com/jrwieland/TaraniTunes-v4.x)|Enhanced music player for Open TX radios 9XD, Xlite, Q7 and color screen versions (Horus, Jumper, and Radiomaster) radios.   Multiple Playlists allow you to listen to your music while flying Your RC|4|0|2021-07-19|
-|29|[Quaggles/dcs-lua-datamine](https://github.com/Quaggles/dcs-lua-datamine)|A reference guide to the lua table values in DCS for weapons and aircraft|30|0|2021-12-31|
+|29|[Quaggles/dcs-lua-datamine](https://github.com/Quaggles/dcs-lua-datamine)|A reference guide to the lua table values in DCS for weapons and aircraft|31|0|2021-12-31|
 |30|[XeduR/Solar2D-Projects](https://github.com/XeduR/Solar2D-Projects)|A collection of my public projects ranging from individual tables and functions to modules, libraries and entire games.|5|0|2021-12-15|
 |31|[pc-2198x/gnome-palenight-dotfiles](https://github.com/pc-2198x/gnome-palenight-dotfiles)|A collection of various palenight dotfiles.|3|0|2021-11-09|
 |32|[archaict/fzf-lua-extensions](https://github.com/archaict/fzf-lua-extensions)|A small collection of functions that can be used for fzf-lua!|3|0|2021-08-05|
@@ -42,9 +42,9 @@
 |35|[astrochili/defold-vscode-guide](https://github.com/astrochili/defold-vscode-guide)|How to turn VSCode into Defold IDE?|41|0|2021-11-23|
 |36|[TheNexusAvenger/Roblox-The-Witching-Hour-Remastered](https://github.com/TheNexusAvenger/Roblox-The-Witching-Hour-Remastered)|Remaster of Halloween 2013: The Witching Hour by Roblox (https://www.roblox.com/games/130815926/Halloween-2013-The-Witching-Hour).|5|0|2021-09-08|
 |37|[mulark/factorio_benchmarking_mods](https://github.com/mulark/factorio_benchmarking_mods)|A collection of mods that can be useful for benchmarking.|5|0|2021-08-14|
-|38|[Simstrumentation/Air-Manager](https://github.com/Simstrumentation/Air-Manager)|A collection of quality Air Manager instruments built by flight sim enthusiasts for our own personal home cockpits, but shared with the community at large.|11|0|2021-12-31|
-|39|[Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim)|Minimalist Collection of Colorschemes Written in Lua|114|0|2021-12-28|
-|40|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|24|0|2021-12-29|
+|38|[Simstrumentation/Air-Manager](https://github.com/Simstrumentation/Air-Manager)|A collection of quality Air Manager instruments built by flight sim enthusiasts for our own personal home cockpits, but shared with the community at large.|11|0|2022-01-02|
+|39|[Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim)|Minimalist Collection of Colorschemes Written in Lua|115|0|2021-12-28|
+|40|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|25|0|2021-12-29|
 |41|[Hello23-Ygopro/ygopro-dm](https://github.com/Hello23-Ygopro/ygopro-dm)|Mod to play Duel Masters on YGOPro (DM-01 to DM-13)|3|0|2021-10-29|
 |42|[avinetworks/datascript-library](https://github.com/avinetworks/datascript-library)|DataScript Examples Library|22|0|2021-12-15|
 |43|[GitSparTV/GmodLibraries](https://github.com/GitSparTV/GmodLibraries)|Collection of libraries for RuSBoxServer: SparLibrary, RuSBoxServerLibrary|4|0|2021-11-06|
@@ -54,10 +54,10 @@
 |47|[ps-wow/Broker_Classic_Training](https://github.com/ps-wow/Broker_Classic_Training)|An LDB wow addon to show what spells are currently learnable for your class.|3|0|2021-06-01|
 |48|[TheAlgorithms/Lua](https://github.com/TheAlgorithms/Lua)|Algorithms and Data Structures implemented in the Lua programming language|19|0|2021-12-29|
 |49|[fseeeye/EyeEngine-Cpp](https://github.com/fseeeye/EyeEngine-Cpp)|My first Real-Time 3D Game Engine learning project written in C++.|4|0|2021-12-27|
-|50|[qhuyduong/dotfiles](https://github.com/qhuyduong/dotfiles)|Collection of useful configuration files for Linux (zsh, nvim, i3, tmux, etc.)|8|0|2021-12-29|
+|50|[qhuyduong/dotfiles](https://github.com/qhuyduong/dotfiles)|Collection of useful configuration files for Linux (zsh, nvim, i3, tmux, etc.)|8|0|2022-01-02|
 |51|[Sleitnick/RbxCookbook](https://github.com/Sleitnick/RbxCookbook)|Useful snippets of Lua code for the Roblox platform.|36|0|2021-12-13|
 |52|[betaflight/betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)|Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx)|385|0|2021-12-29|
-|53|[antrix1/arenamaster-addon](https://github.com/antrix1/arenamaster-addon)|ArenaMaster.IO PvP Inspect AddOn|6|0|2022-01-01|
+|53|[antrix1/arenamaster-addon](https://github.com/antrix1/arenamaster-addon)|ArenaMaster.IO PvP Inspect AddOn|6|0|2022-01-02|
 |54|[davidhealey/ardour-scripts](https://github.com/davidhealey/ardour-scripts)|A collection of Ardour Lua scripts I've written|7|0|2021-12-16|
 |55|[momofor/dotfiles](https://github.com/momofor/dotfiles)|A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.|4|0|2021-12-31|
 |56|[Miqueas/Lua-GTK3-Examples](https://github.com/Miqueas/Lua-GTK3-Examples)|Some GTK examples in Lua|15|0|2021-10-10|
@@ -87,15 +87,15 @@
 |80|[aseprite/Aseprite-Script-Examples](https://github.com/aseprite/Aseprite-Script-Examples)|Examples of scripts for Aseprite v1.2.10 that you can modify and use for your own custom actions|80|0|2021-06-07|
 |81|[BigWigsMods/BigWigs_MistsOfPandaria](https://github.com/BigWigsMods/BigWigs_MistsOfPandaria)|A collection of BigWigs modules from the Mists of Pandaria era.|4|0|2021-06-29|
 |82|[SpyricGames/Solar2D-Plugins-Public](https://github.com/SpyricGames/Solar2D-Plugins-Public)|A small collection of publicly available Solar2D plugins created by Spyric Games Ltd.|6|0|2021-12-28|
-|83|[zarillion/handynotes-plugins](https://github.com/zarillion/handynotes-plugins)|A collection of HandyNotes plugins for World of Warcraft.|8|0|2021-12-29|
-|84|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|66|0|2021-12-29|
+|83|[zarillion/handynotes-plugins](https://github.com/zarillion/handynotes-plugins)|A collection of HandyNotes plugins for World of Warcraft.|9|0|2021-12-29|
+|84|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|68|0|2021-12-29|
 |85|[northern-information/athenaeum](https://github.com/northern-information/athenaeum)|a repository of study, spike, and sample scripts for norns|20|0|2021-06-05|
 |86|[yujinyuz/dotfiles](https://github.com/yujinyuz/dotfiles)|A collection of dotfiles. I hope you can find some treasure in here just like how I did with other dotfiles|10|0|2021-12-30|
 |87|[wardz/DRList-1.0](https://github.com/wardz/DRList-1.0)|World of Warcraft library for providing diminishing returns categorization. (For player crowd controls)|7|0|2021-12-03|
 |88|[SuperiorServers/dash](https://github.com/SuperiorServers/dash)|Collection of libraries, utilities, and core Garry's Mod changes intended to improve development of addons and gamemodes|36|0|2021-08-23|
 |89|[monome/crow-studies](https://github.com/monome/crow-studies)|crow examples|13|0|2021-12-24|
 |90|[sile-typesetter/casile](https://github.com/sile-typesetter/casile)|The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.|30|0|2021-10-11|
-|91|[Drauthius/awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags)|Share and move tags on multiple screens when using the awesome window manager.|59|0|2021-12-17|
+|91|[Drauthius/awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags)|Share and move tags on multiple screens when using the awesome window manager.|59|0|2022-01-02|
 |92|[bkader/KPack](https://github.com/bkader/KPack)|WoTLK collection of addons turned into modules inside a single addon.|7|0|2022-01-01|
 |93|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|132|0|2021-11-30|
 |94|[FlightControl-Master/MOOSE_MISSIONS](https://github.com/FlightControl-Master/MOOSE_MISSIONS)|A collection of demonstration and test missions for the MOOSE Framework, packed and contains the static loader moose.lua. So these missions can be run independently.|35|0|2022-01-01|
@@ -104,7 +104,7 @@
 |97|[ProjectIgnis/Puzzles](https://github.com/ProjectIgnis/Puzzles)|Project Ignis canonical puzzle collection for EDOPro|6|0|2021-12-14|
 |98|[ke9dgu8t9jq/basic-lua-concepts](https://github.com/ke9dgu8t9jq/basic-lua-concepts)|Everything i've learned in LUA will be placed in this repo!|4|0|2021-12-18|
 |99|[PhoenixAceVFX/Roblox-Scripts](https://github.com/PhoenixAceVFX/Roblox-Scripts)|A collection of every roblox script ive aquired|38|0|2021-12-10|
-|100|[webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles)|A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.|47|0|2021-12-23|
+|100|[webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles)|A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.|47|0|2022-01-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

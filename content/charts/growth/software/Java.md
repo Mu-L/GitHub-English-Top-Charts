@@ -1,110 +1,110 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Java
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner)|log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. |966|81|2021-12-28|
-|2|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|2574|76|2021-12-29|
-|3|[Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell)|Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell|1686|73|2021-12-22|
-|4|[whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)|Log4j2 RCE Passive Scanner plugin for BurpSuite|973|42|2021-12-15|
-|5|[christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)|Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.|859|37|2021-12-27|
-|6|[logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|685|31|2021-12-30|
-|7|[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)|Ghidra is a software reverse engineering (SRE) framework|30587|29|2022-01-01|
-|8|[mergebase/log4j-detector](https://github.com/mergebase/log4j-detector)|Scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several layers  ...|545|26|2021-12-31|
-|9|[Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)|🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches|564|25|2021-12-31|
-|10|[corretto/hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2)|An  agent to hotpatch the log4j RCE from CVE-2021-44228.|455|22|2021-12-23|
-|11|[woodpecker-appstore/log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)|Log4j jndi injects the Payload generator|408|20|2021-12-13|
-|12|[seata/seata](https://github.com/seata/seata)|:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.|21427|19|2022-01-01|
-|13|[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)|Spring Boot|58912|18|2022-01-01|
-|14|[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|Render After Effects animations natively on Android and iOS, Web, and React Native|32236|17|2021-12-28|
-|15|[xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)|该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的OR ...|24396|16|2021-11-07|
-|16|[alibaba/nacos](https://github.com/alibaba/nacos)|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.|20864|16|2022-01-01|
-|17|[google/guava](https://github.com/google/guava)|Google core libraries for Java|43285|16|2021-12-29|
-|18|[huntresslabs/log4shell-tester](https://github.com/huntresslabs/log4shell-tester)|-|320|15|2021-12-17|
-|19|[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|:fire: Android developers should collect the following utils(updating).|30286|15|2021-12-11|
-|20|[didi/DoraemonKit](https://github.com/didi/DoraemonKit)|一款面向泛前端产品研发全生命周期的效率平台。|18374|15|2021-12-31|
-|21|[alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)|Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.|21020|14|2021-12-27|
-|22|[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|45632|14|2021-12-22|
-|23|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。|23215|14|2021-12-03|
-|24|[google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)|Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.|7306|13|2021-12-18|
-|25|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Free and Open, Distributed, RESTful Search Engine|57989|13|2022-01-01|
+|1|[cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner)|log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. |976|75|2021-12-28|
+|2|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|2614|75|2021-12-29|
+|3|[Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell)|Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell|1691|70|2021-12-22|
+|4|[whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)|Log4j2 RCE Passive Scanner plugin for BurpSuite|973|41|2021-12-15|
+|5|[christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)|Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.|862|36|2021-12-27|
+|6|[logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|686|30|2022-01-02|
+|7|[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)|Ghidra is a software reverse engineering (SRE) framework|30598|29|2022-01-02|
+|8|[mergebase/log4j-detector](https://github.com/mergebase/log4j-detector)|Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l ...|544|25|2022-01-01|
+|9|[Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)|🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches|571|24|2021-12-31|
+|10|[corretto/hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2)|An  agent to hotpatch the log4j RCE from CVE-2021-44228.|457|21|2021-12-23|
+|11|[woodpecker-appstore/log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)|Log4j jndi injects the Payload generator|408|19|2021-12-13|
+|12|[seata/seata](https://github.com/seata/seata)|:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.|21428|19|2022-01-02|
+|13|[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)|Spring Boot|58924|18|2022-01-02|
+|14|[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|Render After Effects animations natively on Android and iOS, Web, and React Native|32238|17|2021-12-28|
+|15|[xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)|该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的OR ...|24399|16|2021-11-07|
+|16|[alibaba/nacos](https://github.com/alibaba/nacos)|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.|20871|16|2022-01-01|
+|17|[google/guava](https://github.com/google/guava)|Google core libraries for Java|43291|16|2021-12-29|
+|18|[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|:fire: Android developers should collect the following utils(updating).|30286|15|2021-12-11|
+|19|[didi/DoraemonKit](https://github.com/didi/DoraemonKit)|一款面向泛前端产品研发全生命周期的效率平台。|18375|15|2021-12-31|
+|20|[alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)|Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.|21022|14|2021-12-27|
+|21|[huntresslabs/log4shell-tester](https://github.com/huntresslabs/log4shell-tester)|-|320|14|2021-12-17|
+|22|[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|45638|14|2021-12-22|
+|23|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。|23214|14|2021-12-03|
+|24|[google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)|Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.|7308|13|2021-12-18|
+|25|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Free and Open, Distributed, RESTful Search Engine|57999|13|2022-01-02|
 |26|[back2root/log4shell-rex](https://github.com/back2root/log4shell-rex)|PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs|263|13|2021-12-21|
-|27|[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)|🔎 Open source distributed and RESTful search engine.|4290|13|2022-01-01|
-|28|[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.|34436|12|2021-11-20|
+|27|[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)|🔎 Open source distributed and RESTful search engine.|4293|13|2022-01-01|
+|28|[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.|34440|12|2021-11-20|
 |29|[ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql)|PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.|923|12|2021-12-28|
-|30|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|26116|12|2022-01-01|
-|31|[apache/dubbo](https://github.com/apache/dubbo)|Apache Dubbo is a high-performance, java based, open source RPC framework.|36662|11|2021-12-31|
-|32|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|45558|11|2021-12-29|
-|33|[dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)|Free universal database tool and SQL client|23933|11|2022-01-01|
-|34|[API-Security/APIKit](https://github.com/API-Security/APIKit)|APIKit：Discovery, Scan and Audit APIs Toolkit All In One.|426|11|2021-11-24|
+|30|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|26119|12|2022-01-01|
+|31|[apache/dubbo](https://github.com/apache/dubbo)|Apache Dubbo is a high-performance, java based, open source RPC framework.|36664|11|2022-01-02|
+|32|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|45562|11|2022-01-02|
+|33|[dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)|Free universal database tool and SQL client|23942|11|2022-01-01|
+|34|[API-Security/APIKit](https://github.com/API-Security/APIKit)|APIKit：Discovery, Scan and Audit APIs Toolkit All In One.|427|11|2021-11-24|
 |35|[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|BRVAH:Powerful and flexible RecyclerAdapter|22563|11|2021-12-13|
-|36|[airbytehq/airbyte](https://github.com/airbytehq/airbyte)|Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.|5099|10|2022-01-01|
-|37|[openjdk/jdk](https://github.com/openjdk/jdk)|JDK main-line development|11871|10|2021-12-31|
-|38|[bumptech/glide](https://github.com/bumptech/glide)|An image loading and caching library for Android focused on smooth scrolling|32079|10|2021-12-07|
-|39|[CodingGay/BlackObfuscator](https://github.com/CodingGay/BlackObfuscator)|Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.|175|9|2022-01-01|
-|40|[skylot/jadx](https://github.com/skylot/jadx)|Dex to Java decompiler|28295|9|2021-12-26|
-|41|[square/retrofit](https://github.com/square/retrofit)|A type-safe HTTP client for Android and the JVM|39244|9|2021-12-23|
-|42|[android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed)|A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.|12706|9|2021-11-28|
-|43|[apache/rocketmq](https://github.com/apache/rocketmq)|Mirror of Apache RocketMQ|16223|9|2022-01-01|
-|44|[xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）|20302|9|2022-01-01|
-|45|[HyCraftHD/Log4J-RCE-Proof-Of-Concept](https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept)|Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information|179|8|2021-12-16|
-|46|[oracle/graal](https://github.com/oracle/graal)|GraalVM: Run Programs Faster Anywhere :rocket:|16353|8|2022-01-01|
-|47|[LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)|LSPosed Framework|3048|8|2022-01-01|
-|48|[GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)|🏗 Build container images for your Java applications.|11394|8|2021-12-30|
-|49|[Anuken/Mindustry](https://github.com/Anuken/Mindustry)|The automation tower defense game|13641|8|2022-01-01|
-|50|[lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)|Lottie wrapper for React Native.|14733|8|2021-12-27|
-|51|[Tencent/tinker](https://github.com/Tencent/tinker)|Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.|16158|8|2021-12-09|
-|52|[apache/skywalking](https://github.com/apache/skywalking)|APM, Application Performance Monitoring System|18438|8|2022-01-01|
-|53|[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10744|8|2022-01-01|
-|54|[zxing/zxing](https://github.com/zxing/zxing)|ZXing ("Zebra Crossing") barcode scanning library for Java, Android|28838|8|2021-12-27|
-|55|[google/gson](https://github.com/google/gson)|A Java serialization/deserialization library to convert Java Objects into JSON and back|20430|8|2021-12-31|
-|56|[dromara/hutool](https://github.com/dromara/hutool)|🍬A set of tools that keep Java sweet.|21530|8|2022-01-01|
-|57|[TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)|A libre lightweight streaming front-end for Android.|16064|7|2022-01-01|
+|36|[airbytehq/airbyte](https://github.com/airbytehq/airbyte)|Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.|5104|10|2022-01-02|
+|37|[openjdk/jdk](https://github.com/openjdk/jdk)|JDK main-line development|11878|10|2022-01-02|
+|38|[bumptech/glide](https://github.com/bumptech/glide)|An image loading and caching library for Android focused on smooth scrolling|32082|10|2021-12-07|
+|39|[skylot/jadx](https://github.com/skylot/jadx)|Dex to Java decompiler|28306|9|2022-01-02|
+|40|[square/retrofit](https://github.com/square/retrofit)|A type-safe HTTP client for Android and the JVM|39243|9|2021-12-23|
+|41|[android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed)|A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.|12709|9|2021-11-28|
+|42|[apache/rocketmq](https://github.com/apache/rocketmq)|Mirror of Apache RocketMQ|16232|9|2022-01-01|
+|43|[xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）|20303|9|2022-01-01|
+|44|[LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)|LSPosed Framework|3062|8|2022-01-02|
+|45|[CodingGay/BlackObfuscator](https://github.com/CodingGay/BlackObfuscator)|Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.|175|8|2022-01-01|
+|46|[GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)|🏗 Build container images for your Java applications.|11396|8|2021-12-30|
+|47|[Anuken/Mindustry](https://github.com/Anuken/Mindustry)|The automation tower defense game|13656|8|2022-01-02|
+|48|[lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)|Lottie wrapper for React Native.|14736|8|2021-12-27|
+|49|[Tencent/tinker](https://github.com/Tencent/tinker)|Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.|16158|8|2021-12-09|
+|50|[apache/skywalking](https://github.com/apache/skywalking)|APM, Application Performance Monitoring System|18445|8|2022-01-02|
+|51|[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10756|8|2022-01-02|
+|52|[zxing/zxing](https://github.com/zxing/zxing)|ZXing ("Zebra Crossing") barcode scanning library for Java, Android|28840|8|2021-12-27|
+|53|[google/gson](https://github.com/google/gson)|A Java serialization/deserialization library to convert Java Objects into JSON and back|20435|8|2022-01-01|
+|54|[dromara/hutool](https://github.com/dromara/hutool)|🍬A set of tools that keep Java sweet.|21536|8|2022-01-01|
+|55|[HyCraftHD/Log4J-RCE-Proof-Of-Concept](https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept)|Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information|179|7|2021-12-16|
+|56|[TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)|A libre lightweight streaming front-end for Android.|16074|7|2022-01-02|
+|57|[oracle/graal](https://github.com/oracle/graal)|GraalVM: Run Programs Faster Anywhere :rocket:|16354|7|2022-01-01|
 |58|[f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)|CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks|154|7|2021-12-30|
 |59|[microsoft/gctoolkit](https://github.com/microsoft/gctoolkit)|Tool for parsing GC logs|1094|7|2021-12-30|
-|60|[greenrobot/EventBus](https://github.com/greenrobot/EventBus)|Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.|23769|7|2021-12-22|
-|61|[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)|A browser automation framework and ecosystem.|22443|7|2022-01-01|
+|60|[greenrobot/EventBus](https://github.com/greenrobot/EventBus)|Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.|23772|7|2021-12-22|
+|61|[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)|A browser automation framework and ecosystem.|22450|7|2022-01-01|
 |62|[SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server)|🎉Back end of Sonic cloud real machine testing platform. Sonic云真机测试平台后端服务（集群版）。|936|7|2021-12-26|
-|63|[netty/netty](https://github.com/netty/netty)|Netty project - an event-driven asynchronous network application framework|28269|7|2021-12-29|
+|63|[netty/netty](https://github.com/netty/netty)|Netty project - an event-driven asynchronous network application framework|28274|7|2022-01-02|
 |64|[zhihu/Matisse](https://github.com/zhihu/Matisse)|:fireworks: A well-designed local image and video selector for Android|12170|7|2021-12-13|
-|65|[yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)|Ad free app for watching tube videos on Android TV boxes|3818|7|2022-01-01|
-|66|[alibaba/druid](https://github.com/alibaba/druid)|阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池|24978|7|2021-12-30|
-|67|[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)|RxJava bindings for Android|19576|7|2021-08-26|
-|68|[Tencent/APIJSON](https://github.com/Tencent/APIJSON)|🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.|12642|7|2021-12-31|
-|69|[apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin ...|7031|7|2022-01-01|
+|65|[yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)|Ad free app for watching tube videos on Android TV boxes|3838|7|2022-01-02|
+|66|[alibaba/druid](https://github.com/alibaba/druid)|阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池|24980|7|2022-01-02|
+|67|[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)|RxJava bindings for Android|19575|7|2021-08-26|
+|68|[Tencent/APIJSON](https://github.com/Tencent/APIJSON)|🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.|12644|7|2022-01-02|
+|69|[apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin ...|7034|7|2022-01-02|
 |70|[facebook/fresco](https://github.com/facebook/fresco)|An Android library for managing images and the memory they use.|16726|7|2021-12-29|
-|71|[quarkusio/quarkus](https://github.com/quarkusio/quarkus)|Quarkus: Supersonic Subatomic Java. |9081|7|2022-01-01|
-|72|[google/ExoPlayer](https://github.com/google/ExoPlayer)|An extensible media player for Android|18685|7|2021-12-29|
-|73|[material-components/material-components-android](https://github.com/material-components/material-components-android)|Modular and customizable Material Design UI components for Android|13172|7|2021-12-29|
+|71|[quarkusio/quarkus](https://github.com/quarkusio/quarkus)|Quarkus: Supersonic Subatomic Java. |9084|7|2022-01-02|
+|72|[google/ExoPlayer](https://github.com/google/ExoPlayer)|An extensible media player for Android|18686|7|2021-12-29|
+|73|[material-components/material-components-android](https://github.com/material-components/material-components-android)|Modular and customizable Material Design UI components for Android|13178|7|2021-12-29|
 |74|[Netflix/Hystrix](https://github.com/Netflix/Hystrix)|Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr ...|22260|7|2021-12-21|
-|75|[apache/shardingsphere](https://github.com/apache/shardingsphere)|Building a Standard Layer & Ecosystem Above Heterogeneous Databases|15047|7|2022-01-01|
-|76|[onthegomap/planetiler](https://github.com/onthegomap/planetiler)|Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours|451|6|2021-12-31|
-|77|[zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)|A plugin for the ja-netfilter, it can replace strings dynamically.|95|6|2021-12-31|
-|78|[apache/flink](https://github.com/apache/flink)|Apache Flink|17881|6|2022-01-01|
-|79|[redisson/redisson](https://github.com/redisson/redisson)|Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Re ...|18049|6|2021-12-29|
-|80|[libgdx/libgdx](https://github.com/libgdx/libgdx)|Desktop/Android/HTML5/iOS Java game development framework|19479|6|2021-12-31|
-|81|[signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)|A private messenger for Android.|21751|6|2021-12-31|
-|82|[bazelbuild/bazel](https://github.com/bazelbuild/bazel)|a fast, scalable, multi-language and extensible build system|17860|6|2021-12-30|
+|75|[apache/shardingsphere](https://github.com/apache/shardingsphere)|Building a Standard Layer & Ecosystem Above Heterogeneous Databases|15049|7|2022-01-02|
+|76|[onthegomap/planetiler](https://github.com/onthegomap/planetiler)|Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours|452|6|2021-12-31|
+|77|[zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)|A plugin for the ja-netfilter, it can replace strings dynamically.|100|6|2021-12-31|
+|78|[apache/flink](https://github.com/apache/flink)|Apache Flink|17881|6|2022-01-02|
+|79|[redisson/redisson](https://github.com/redisson/redisson)|Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Re ...|18054|6|2022-01-02|
+|80|[libgdx/libgdx](https://github.com/libgdx/libgdx)|Desktop/Android/HTML5/iOS Java game development framework|19479|6|2022-01-02|
+|81|[signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)|A private messenger for Android.|21757|6|2022-01-02|
+|82|[bazelbuild/bazel](https://github.com/bazelbuild/bazel)|a fast, scalable, multi-language and extensible build system|17864|6|2021-12-30|
 |83|[alibaba/fastjson](https://github.com/alibaba/fastjson)|A fast JSON parser/generator for Java.  |24033|6|2021-12-30|
 |84|[shatyuka/Killergram](https://github.com/shatyuka/Killergram)|Remove sponsored messages of Telegram|318|6|2021-12-14|
 |85|[codesssss/FlashSale](https://github.com/codesssss/FlashSale)|Flash Sale System AKA. seckill system|536|6|2021-11-01|
-|86|[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)|Open-source IoT Platform - Device management, data collection, processing and visualization.|10579|6|2021-12-31|
+|86|[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)|Open-source IoT Platform - Device management, data collection, processing and visualization.|10585|6|2021-12-31|
 |87|[Curzibn/Luban](https://github.com/Curzibn/Luban)|Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法|12799|6|2021-11-06|
-|88|[square/picasso](https://github.com/square/picasso)|A powerful image downloading and caching library for Android|18178|6|2021-08-24|
-|89|[baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus)|An powerful enhanced toolkit of MyBatis for simplify development|12198|6|2021-12-31|
-|90|[DrKLO/Telegram](https://github.com/DrKLO/Telegram)|Telegram for Android source|18951|6|2021-12-31|
-|91|[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)|FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.|16259|5|2021-12-16|
-|92|[PowerJob/PowerJob](https://github.com/PowerJob/PowerJob)|Enterprise job scheduling middleware with distributed computing ability.|3259|5|2021-12-24|
-|93|[orhanobut/logger](https://github.com/orhanobut/logger)|✔️ Simple, pretty and powerful logger for android|13105|5|2021-06-17|
-|94|[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)|MyBatis SQL mapper framework for Java|16665|5|2021-12-31|
-|95|[hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)|A circular ImageView for Android|14105|5|2021-12-13|
+|88|[square/picasso](https://github.com/square/picasso)|A powerful image downloading and caching library for Android|18177|6|2021-08-24|
+|89|[baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus)|An powerful enhanced toolkit of MyBatis for simplify development|12202|6|2021-12-31|
+|90|[DrKLO/Telegram](https://github.com/DrKLO/Telegram)|Telegram for Android source|18954|6|2021-12-31|
+|91|[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)|FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.|16267|5|2021-12-16|
+|92|[PowerJob/PowerJob](https://github.com/PowerJob/PowerJob)|Enterprise job scheduling middleware with distributed computing ability.|3260|5|2021-12-24|
+|93|[orhanobut/logger](https://github.com/orhanobut/logger)|✔️ Simple, pretty and powerful logger for android|13104|5|2021-06-17|
+|94|[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)|MyBatis SQL mapper framework for Java|16666|5|2021-12-31|
+|95|[hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)|A circular ImageView for Android|14104|5|2021-12-13|
 |96|[simonis/Log4jPatch](https://github.com/simonis/Log4jPatch)|Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process|108|5|2021-12-12|
 |97|[Justson/AgentWeb](https://github.com/Justson/AgentWeb)| AgentWeb is a powerful library based on Android WebView.|8381|5|2021-11-28|
 |98|[permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)|A declarative API to handle Android runtime permissions.|10859|5|2021-11-26|
-|99|[Baseflow/PhotoView](https://github.com/Baseflow/PhotoView)|Implementation of ImageView for Android that supports zooming, by various touch gestures.|18073|5|2021-12-22|
-|100|[daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)|The Most Powerful Swipe Layout!|12166|5|2021-08-05|
+|99|[Baseflow/PhotoView](https://github.com/Baseflow/PhotoView)|Implementation of ImageView for Android that supports zooming, by various touch gestures.|18072|5|2021-12-22|
+|100|[daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)|The Most Powerful Swipe Layout!|12164|5|2021-08-05|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

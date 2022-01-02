@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1025|2021-10-09|
+|1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1026|2021-10-09|
 |2|[schneems/Octave](https://github.com/schneems/Octave)|my octave exercises for 2011 stanford machine learning class, posted after the due date of course|797|2021-07-02|
 |3|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|501|2021-10-09|
 |4|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|480|2021-10-04|
 |5|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|357|2021-10-09|
 |6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|345|2021-11-11|
-|7|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|338|2021-06-16|
+|7|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|339|2021-06-16|
 |8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|257|2021-10-21|
 |9|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|254|2021-12-16|
 |10|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |250|2021-08-14|
@@ -33,7 +33,7 @@
 |26|[pillowlab/GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)|Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data|77|2021-10-21|
 |27|[ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)|The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).|77|2021-11-02|
 |28|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|76|2021-12-03|
-|29|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2021-12-31|
+|29|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2022-01-02|
 |30|[FuzhenZhuang/Transfer-Learning-Toolkit](https://github.com/FuzhenZhuang/Transfer-Learning-Toolkit)|Transfer Learning Toolkit for Primary Researchers|66|2021-06-11|
 |31|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|2021-06-23|
 |32|[daxjuanxiong/infrared-small-target-detection](https://github.com/daxjuanxiong/infrared-small-target-detection)|images, codes and papers about infrared small taret detecion algorithm|57|2021-11-21|
@@ -74,22 +74,22 @@
 |67|[abhishekapk/SMART-PARKING-SYSTEM](https://github.com/abhishekapk/SMART-PARKING-SYSTEM)|Computerized systems being an integral part of the current era, an automated parking system is one of its most commonly used applications.  The aim of this model is to build up and implement an automa ...|23|2021-10-14|
 |68|[mathworks/HDL-Coder-Self-Guided-Tutorial](https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial)|Learn how to deploy an algorithm to an FPGA using MATLAB and Simulink.|23|2021-10-23|
 |69|[Karl-Zhuo/Dataset-of-HRP-38-test-system](https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system)|This repository includes the dataset of HRP-38 system in both .xlsx and .mat file. The index of the selected typical day used in Case Study is also included.|22|2021-09-01|
-|70|[jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)|Random code snippets|21|2021-12-12|
-|71|[zhandawei/Multiobjective_EGO_algorithms](https://github.com/zhandawei/Multiobjective_EGO_algorithms)|The standard and parallel multiobjective EGO algorithms|21|2021-12-24|
+|70|[zhandawei/Multiobjective_EGO_algorithms](https://github.com/zhandawei/Multiobjective_EGO_algorithms)|The standard and parallel multiobjective EGO algorithms|22|2021-12-24|
+|71|[jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)|Random code snippets|21|2021-12-12|
 |72|[JonathanAMichaels/hebbRNN](https://github.com/JonathanAMichaels/hebbRNN)|A Reward-Modulated Hebbian Learning Rule for Recurrent Neural Networks|21|2021-07-26|
-|73|[facebookresearch/BinauralSDM](https://github.com/facebookresearch/BinauralSDM)|This repository contains a set of tools to render Binaural Room Impulse Responses (BRIR) using the Spatial Decomposition Method (SDM).The implementation features a series of improvements presented in  ...|20|2021-12-04|
-|74|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|20|2021-12-03|
-|75|[zhandawei/Single_objective_EGO_algorithms](https://github.com/zhandawei/Single_objective_EGO_algorithms)|The standard and parallel single-objective EGO algorithms|20|2021-12-24|
-|76|[vfitoolkit/vfitoolkit-matlab-replication](https://github.com/vfitoolkit/vfitoolkit-matlab-replication)|Codes that use the VFI Toolkit to replicate existing papers|20|2021-12-12|
+|73|[vfitoolkit/vfitoolkit-matlab-replication](https://github.com/vfitoolkit/vfitoolkit-matlab-replication)|Codes that use the VFI Toolkit to replicate existing papers|21|2021-12-12|
+|74|[facebookresearch/BinauralSDM](https://github.com/facebookresearch/BinauralSDM)|This repository contains a set of tools to render Binaural Room Impulse Responses (BRIR) using the Spatial Decomposition Method (SDM).The implementation features a series of improvements presented in  ...|20|2021-12-04|
+|75|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|20|2021-12-03|
+|76|[zhandawei/Single_objective_EGO_algorithms](https://github.com/zhandawei/Single_objective_EGO_algorithms)|The standard and parallel single-objective EGO algorithms|20|2021-12-24|
 |77|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|19|2021-10-27|
-|78|[SHITIANYU-hue/Efficient-motion-planning](https://github.com/SHITIANYU-hue/Efficient-motion-planning)|To guarantee safe and efficient driving for automated vehicles in complicated traffic conditions, the motion planning module of automated vehicles are expected to generate collision-free driving polic ...|19|2021-10-30|
-|79|[ywang-structures/Structural-Model-Updating](https://github.com/ywang-structures/Structural-Model-Updating)|This GitHub package provides example MATLAB code for finite element model updating. The code offers selection of different updating formulations and optimization algorithms. |19|2021-11-23|
-|80|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2021-07-26|
-|81|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|19|2021-12-01|
-|82|[sebdi/lane-detection](https://github.com/sebdi/lane-detection)|Lane detection MATLAB code for Kalman Filter book chapter: Lane Detection|19|2021-06-03|
-|83|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|2021-12-21|
-|84|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|18|2021-07-07|
-|85|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|18|2021-11-04|
+|78|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|19|2021-11-04|
+|79|[SHITIANYU-hue/Efficient-motion-planning](https://github.com/SHITIANYU-hue/Efficient-motion-planning)|To guarantee safe and efficient driving for automated vehicles in complicated traffic conditions, the motion planning module of automated vehicles are expected to generate collision-free driving polic ...|19|2021-10-30|
+|80|[ywang-structures/Structural-Model-Updating](https://github.com/ywang-structures/Structural-Model-Updating)|This GitHub package provides example MATLAB code for finite element model updating. The code offers selection of different updating formulations and optimization algorithms. |19|2021-11-23|
+|81|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2021-07-26|
+|82|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|19|2021-12-01|
+|83|[sebdi/lane-detection](https://github.com/sebdi/lane-detection)|Lane detection MATLAB code for Kalman Filter book chapter: Lane Detection|19|2021-06-03|
+|84|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|2021-12-21|
+|85|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|18|2021-07-07|
 |86|[summitgao/SAR_Change_Detection_NR_ELM](https://github.com/summitgao/SAR_Change_Detection_NR_ELM)|The matlab code for the JARS16 paper "Change Detection from Synthetic Aperture Radar Images Based on Neighborhood-Based Ratio and Extreme Learning Machine"|18|2021-11-24|
 |87|[wangxiao5791509/TNL2K_evaluation_toolkit](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)|Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark (CVPR 2021)|17|2021-12-17|
 |88|[kipa200/Phase_field_code](https://github.com/kipa200/Phase_field_code)|simulate by solving the phase-field equations using a centered finite difference method（or FEM), and the video of matlab lesson|17|2021-08-18|

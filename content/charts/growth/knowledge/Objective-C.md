@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4660|6|2021-12-07|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4661|6|2022-01-02|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5660|2|2021-08-30|
 |3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6916|2|2021-12-31|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2091|1|2021-11-22|
@@ -69,42 +69,42 @@
 |62|[gnustep/tests-examples](https://github.com/gnustep/tests-examples)|GNUstep Examples directory|5|0|2021-07-03|
 |63|[Osedea/react-native-navigation-examples](https://github.com/Osedea/react-native-navigation-examples)|A set of examples created for a Montreal React Native meetup talk : https://www.meetup.com/fr-FR/React-Native-MTL/events/248410421/|13|0|2021-09-21|
 |64|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|0|2021-10-11|
-|65|[KentaKodashima/RNHorizontalSnapScrollViewTutorial](https://github.com/KentaKodashima/RNHorizontalSnapScrollViewTutorial)|This is the sample project repository for my tutorial on Medium titled "(React Native) Create a Horizontal Snap ScrollView".|3|0|2021-09-21|
-|66|[McDo/tipop](https://github.com/McDo/tipop)|titanium client for facebook pop|72|0|2021-09-13|
-|67|[defold/extension-facebook](https://github.com/defold/extension-facebook)|Facebook extension using the official SDKs|8|0|2021-12-31|
-|68|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|0|2021-11-29|
-|69|[jakallergis/react-native-google-maps-tutorial](https://github.com/jakallergis/react-native-google-maps-tutorial)|A tutorial on how to use react-native-maps with Google Maps in React Native|6|0|2021-09-21|
-|70|[LaloCo/CICDReactNative](https://github.com/LaloCo/CICDReactNative)|The React Native project for the LPA's CI/CD React Native course|3|0|2021-07-11|
-|71|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|0|2021-11-02|
-|72|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2021-09-21|
-|73|[OneNoteDev/OneNotePicker-iOS](https://github.com/OneNoteDev/OneNotePicker-iOS)|iOS Library to allow a user to select a OneNote section in any notebook by Microsoft Open Technologies, Inc.|7|0|2021-07-15|
-|74|[Wacom-Developer/wacom-device-kit-macos-scribble-demo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)|ScribbleDemo is a very simple drawing application. This sample code is meant to demonstrate how to retrieve all of the Tablet information using the Appkit framework (Cocoa API).|3|0|2021-10-15|
-|75|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|0|2021-11-27|
-|76|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|437|0|2021-12-24|
-|77|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
-|78|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
-|79|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1191|0|2021-12-28|
-|80|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|8|0|2021-09-21|
-|81|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|0|2021-10-23|
-|82|[AI-HELP/sdk-ios-example](https://github.com/AI-HELP/sdk-ios-example)|Examples for integrating the AIHelp iOS SDK in your app.|10|0|2021-12-24|
-|83|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
-|84|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|0|2021-10-29|
-|85|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2021-12-27|
-|86|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
-|87|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|56|0|2021-09-01|
-|88|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
-|89|[Miirek/Objective-Topology-Suite](https://github.com/Miirek/Objective-Topology-Suite)|Objective Topology Suite (OTS) is an Objective-C adaptation of Java Topology Suite (JTS) and GEOS library that primarily targeted for iPhone platform, but should work as well for Mac OSX. This library ...|4|0|2021-12-04|
-|90|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|0|2021-11-01|
-|91|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
-|92|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|0|2021-12-28|
-|93|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-30|
-|94|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2022-01-01|
-|95|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|320|0|2021-09-21|
-|96|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
-|97|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|
-|98|[sammyd/RW-iOSFramework](https://github.com/sammyd/RW-iOSFramework)|A project which demonstrates how to build an iOS framework|139|0|2021-07-12|
-|99|[charpeni/react-native-lib-example-app](https://github.com/charpeni/react-native-lib-example-app)|🚇 Demonstrate how to create an example app for your RN library using Metro bundler|6|0|2021-09-21|
-|100|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|0|2021-12-03|
+|65|[JitouchProject/Jitouch](https://github.com/JitouchProject/Jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|3|0|2021-12-31|
+|66|[KentaKodashima/RNHorizontalSnapScrollViewTutorial](https://github.com/KentaKodashima/RNHorizontalSnapScrollViewTutorial)|This is the sample project repository for my tutorial on Medium titled "(React Native) Create a Horizontal Snap ScrollView".|3|0|2021-09-21|
+|67|[McDo/tipop](https://github.com/McDo/tipop)|titanium client for facebook pop|72|0|2021-09-13|
+|68|[defold/extension-facebook](https://github.com/defold/extension-facebook)|Facebook extension using the official SDKs|8|0|2021-12-31|
+|69|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|0|2021-11-29|
+|70|[jakallergis/react-native-google-maps-tutorial](https://github.com/jakallergis/react-native-google-maps-tutorial)|A tutorial on how to use react-native-maps with Google Maps in React Native|6|0|2021-09-21|
+|71|[LaloCo/CICDReactNative](https://github.com/LaloCo/CICDReactNative)|The React Native project for the LPA's CI/CD React Native course|3|0|2021-07-11|
+|72|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|0|2021-11-02|
+|73|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2021-09-21|
+|74|[OneNoteDev/OneNotePicker-iOS](https://github.com/OneNoteDev/OneNotePicker-iOS)|iOS Library to allow a user to select a OneNote section in any notebook by Microsoft Open Technologies, Inc.|7|0|2021-07-15|
+|75|[Wacom-Developer/wacom-device-kit-macos-scribble-demo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)|ScribbleDemo is a very simple drawing application. This sample code is meant to demonstrate how to retrieve all of the Tablet information using the Appkit framework (Cocoa API).|3|0|2021-10-15|
+|76|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|0|2021-11-27|
+|77|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|437|0|2021-12-24|
+|78|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
+|79|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
+|80|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1194|0|2021-12-28|
+|81|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|8|0|2021-09-21|
+|82|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|0|2021-10-23|
+|83|[AI-HELP/sdk-ios-example](https://github.com/AI-HELP/sdk-ios-example)|Examples for integrating the AIHelp iOS SDK in your app.|10|0|2021-12-24|
+|84|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
+|85|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|0|2021-10-29|
+|86|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2021-12-27|
+|87|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
+|88|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|56|0|2021-09-01|
+|89|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
+|90|[Miirek/Objective-Topology-Suite](https://github.com/Miirek/Objective-Topology-Suite)|Objective Topology Suite (OTS) is an Objective-C adaptation of Java Topology Suite (JTS) and GEOS library that primarily targeted for iPhone platform, but should work as well for Mac OSX. This library ...|4|0|2021-12-04|
+|91|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|0|2021-11-01|
+|92|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
+|93|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|0|2021-12-28|
+|94|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-30|
+|95|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2022-01-02|
+|96|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|320|0|2021-09-21|
+|97|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
+|98|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|
+|99|[sammyd/RW-iOSFramework](https://github.com/sammyd/RW-iOSFramework)|A project which demonstrates how to build an iOS framework|139|0|2021-07-12|
+|100|[charpeni/react-native-lib-example-app](https://github.com/charpeni/react-native-lib-example-app)|🚇 Demonstrate how to create an example app for your RN library using Metro bundler|6|0|2021-09-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

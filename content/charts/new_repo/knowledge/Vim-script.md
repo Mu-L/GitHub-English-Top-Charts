@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vim script
-<sub>Updated: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|161|2022-01-01|2021-08-20|
+|1|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|163|2022-01-02|2021-08-20|
 |2|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|31|2021-11-10|2021-08-22|
 |3|[quintik/Snip](https://github.com/quintik/Snip)|-|13|2021-12-21|2021-05-13|
 |4|[protsaq/how_to_understand_vim_and_be_a_little_better_at_it](https://github.com/protsaq/how_to_understand_vim_and_be_a_little_better_at_it)|people get annoyed at my ranting about vim so I put it here ➕ some very useful tips on how to get better at vim 🌶|12|2021-08-05|2021-03-30|
