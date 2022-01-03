@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3806|2021-12-21|
 |2|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|285|2021-10-24|
-|3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|2021-12-31|
+|3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|2022-01-03|
 |4|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|2021-10-20|
 |5|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|165|2021-12-16|
-|6|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|2021-12-29|
+|6|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|2022-01-03|
 |7|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|132|2021-06-12|
 |8|[ppazos/cabolabs-ehrserver](https://github.com/ppazos/cabolabs-ehrserver)|Open platform to manage and share standardized clinical data, designed by @ppazos at CaboLabs Health Informatics.|130|2021-08-24|
 |9|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|124|2021-12-22|
 |10|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|115|2022-01-01|
 |11|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|100|2021-12-28|
 |12|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|87|2021-12-27|
-|13|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|2021-12-22|
+|13|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|2022-01-03|
 |14|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|58|2021-11-10|
 |15|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|53|2021-10-19|
 |16|[sidjohn1/smartthings](https://github.com/sidjohn1/smartthings)|A collection of smart apps for smartthings|47|2021-06-27|
 |17|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|45|2021-12-23|
 |18|[Confluex/Zuul](https://github.com/Confluex/Zuul)|Keymaster and Gatekeeper - Application Configuration Management|43|2021-08-13|
-|19|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|2021-12-28|
+|19|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|2022-01-03|
 |20|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|33|2021-09-08|
 |21|[g0t4/course-jenkins-getting-started](https://github.com/g0t4/course-jenkins-getting-started)|Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course|31|2021-12-28|
 |22|[boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins)|Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images|31|2021-10-27|
@@ -88,7 +88,7 @@
 |81|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|3|2021-07-31|
 |82|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
 |83|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
-|84|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-01-01|
+|84|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-01-03|
 |85|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|2021-12-27|
 |86|[apache/logging-pipelines](https://github.com/apache/logging-pipelines)|Apache Logging Services Jenkins pipelines and shared libraries.|2|2021-06-06|
 |87|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|2|2021-08-26|

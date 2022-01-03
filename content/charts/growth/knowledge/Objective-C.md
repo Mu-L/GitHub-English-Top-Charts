@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4661|6|2022-01-02|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4667|6|2022-01-02|
 |2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5660|2|2021-08-30|
-|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6916|2|2021-12-31|
+|3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6917|2|2021-12-31|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2091|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
 |6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2845|1|2021-09-21|
@@ -43,7 +43,7 @@
 |36|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|3|0|2021-10-02|
 |37|[Mobile-Telematics/TelematicsApp-iOS](https://github.com/Mobile-Telematics/TelematicsApp-iOS)|Open-source telematics app for iOS. The application is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe driving, tracking, family trackers, drive-coach, and other drivin ...|10|0|2021-12-02|
 |38|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|78|0|2021-12-21|
-|39|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2021-12-27|
+|39|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2022-01-03|
 |40|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|0|2021-10-12|
 |41|[FirebaseExtended/mlkit-material-ios](https://github.com/FirebaseExtended/mlkit-material-ios)|These apps demonstrate how to build an end-to-end user experience with Google ML Kit APIs and following the new Material for ML design guidelines.|77|0|2021-06-15|
 |42|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|3|0|2021-11-11|
@@ -53,7 +53,7 @@
 |46|[KPS250/ShareWithApp-ReactNative](https://github.com/KPS250/ShareWithApp-ReactNative)|Demo App to Share Image/Doc with React Native Application from Gallery/FileManager etc|3|0|2021-09-21|
 |47|[superjohan/deko](https://github.com/superjohan/deko)|Beautiful, unique wallpapers for iOS.|38|0|2021-09-29|
 |48|[AceDong0803/LearnOpenGLESDemo](https://github.com/AceDong0803/LearnOpenGLESDemo)|Learning OpenGLES in iOS Platform|16|0|2021-06-07|
-|49|[salesforce-marketingcloud/MarketingCloudSDK-iOS](https://github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS)|The official Marketing Cloud MobilePush SDK Framework & LearningApp Example Application|34|0|2021-12-28|
+|49|[salesforce-marketingcloud/MarketingCloudSDK-iOS](https://github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS)|The official Marketing Cloud MobilePush SDK Framework & LearningApp Example Application|34|0|2022-01-03|
 |50|[lechium/lsdtrip](https://github.com/lechium/lsdtrip)|slightly modified version of jonathan levins lsdtrip bin available at http://newosxbook.com/tools/lsdtrip.html|10|0|2021-09-06|
 |51|[freedomtan/test-ioreport](https://github.com/freedomtan/test-ioreport)|A little program to show how to dump all the IOKit IOReport information|5|0|2021-07-18|
 |52|[tumblr/XExtensionItem](https://github.com/tumblr/XExtensionItem)|Easier sharing of structured data between iOS applications and share extensions|86|0|2021-06-11|
@@ -81,7 +81,7 @@
 |74|[OneNoteDev/OneNotePicker-iOS](https://github.com/OneNoteDev/OneNotePicker-iOS)|iOS Library to allow a user to select a OneNote section in any notebook by Microsoft Open Technologies, Inc.|7|0|2021-07-15|
 |75|[Wacom-Developer/wacom-device-kit-macos-scribble-demo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)|ScribbleDemo is a very simple drawing application. This sample code is meant to demonstrate how to retrieve all of the Tablet information using the Appkit framework (Cocoa API).|3|0|2021-10-15|
 |76|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|0|2021-11-27|
-|77|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|437|0|2021-12-24|
+|77|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|438|0|2021-12-24|
 |78|[wordpress-mobile/WordPress-iOS-Shared](https://github.com/wordpress-mobile/WordPress-iOS-Shared)|Shared components used in building the WordPress iOS apps and other library components|17|0|2021-12-03|
 |79|[admkopec/LSFileWrapper](https://github.com/admkopec/LSFileWrapper)|📁 A Swift and Objective-C replacement for NSFileWrapper that loads / saves content on-demand with minimal memory footprint. Understands how to save / serialize objects like NSData, UIImage, NSImage, N ...|7|0|2021-06-15|
 |80|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1194|0|2021-12-28|
@@ -90,16 +90,16 @@
 |83|[AI-HELP/sdk-ios-example](https://github.com/AI-HELP/sdk-ios-example)|Examples for integrating the AIHelp iOS SDK in your app.|10|0|2021-12-24|
 |84|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
 |85|[londonappbrewery/bmi-calculator-flutter](https://github.com/londonappbrewery/bmi-calculator-flutter)|Learn to Code While Building Apps - The Complete Flutter Development Bootcamp |116|0|2021-10-29|
-|86|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2021-12-27|
+|86|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-01-03|
 |87|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
-|88|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|56|0|2021-09-01|
+|88|[haoict/messenger-no-ads](https://github.com/haoict/messenger-no-ads)|✨ The best free & open source tweak for Facebook Messenger & Messenger Lite app for iOS!|57|0|2021-09-01|
 |89|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
 |90|[Miirek/Objective-Topology-Suite](https://github.com/Miirek/Objective-Topology-Suite)|Objective Topology Suite (OTS) is an Objective-C adaptation of Java Topology Suite (JTS) and GEOS library that primarily targeted for iPhone platform, but should work as well for Mac OSX. This library ...|4|0|2021-12-04|
 |91|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|0|2021-11-01|
 |92|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|4|0|2021-12-22|
 |93|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|0|2021-12-28|
 |94|[ericberman/MyFlightbookiOS](https://github.com/ericberman/MyFlightbookiOS)|Repository for the iOS app for MyFlightbook|4|0|2021-12-30|
-|95|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2022-01-02|
+|95|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|89|0|2022-01-03|
 |96|[underscopeio/react-native-facebook-account-kit](https://github.com/underscopeio/react-native-facebook-account-kit)|Facebook Account Kit SDK wrapper for React Native|320|0|2021-09-21|
 |97|[cxjwin/TouchDemo](https://github.com/cxjwin/TouchDemo)|Touch demo for study again~~~|4|0|2021-07-19|
 |98|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|

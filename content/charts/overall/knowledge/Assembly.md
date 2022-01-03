@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8694|2022-01-02|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5900|2021-12-30|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8696|2022-01-02|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|5916|2022-01-03|
 |3|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1887|2022-01-01|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|2021-12-20|
 |5|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|418|2021-11-26|
@@ -14,7 +14,7 @@
 |7|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|333|2021-08-29|
 |8|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|308|2021-12-16|
 |9|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|263|2021-11-29|
-|10|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|129|2022-01-01|
+|10|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|129|2022-01-03|
 |11|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|121|2021-09-16|
 |12|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|120|2021-12-13|
 |13|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|117|2021-12-24|
@@ -31,10 +31,10 @@
 |24|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|36|2021-12-30|
 |25|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|2021-12-27|
 |26|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|29|2021-10-24|
-|27|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|2021-12-31|
+|27|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|29|2022-01-03|
 |28|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|28|2021-12-24|
-|29|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|26|2021-12-22|
-|30|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|25|2021-12-09|
+|29|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|26|2021-12-09|
+|30|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|26|2021-12-22|
 |31|[0x00Jeff/ElfFileInfecters](https://github.com/0x00Jeff/ElfFileInfecters)|a collection of elf file infectors |23|2021-10-10|
 |32|[ped7g/SpecBong](https://github.com/ped7g/SpecBong)|ZX Next Z80N assembly tutorial - final target "moving sprite over Layer 2 background"|23|2021-06-21|
 |33|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|22|2021-08-12|
@@ -75,7 +75,7 @@
 |68|[willpyshan13/DailyInterview](https://github.com/willpyshan13/DailyInterview)|android java c++ ios flutter reactnative native leetcode|6|2021-08-28|
 |69|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|
 |70|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|
-|71|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2021-06-18|
+|71|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2022-01-03|
 |72|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|5|2021-06-19|
 |73|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|2021-12-12|
 |74|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|5|2021-10-07|
@@ -101,10 +101,10 @@
 |94|[ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs](https://github.com/ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs)|This repository comprises of my coursework software programs under the course 8051 Microcontroller Assembly Level Language Programming.|3|2021-07-27|
 |95|[OSToastBach/BBC-Micro-Assembly](https://github.com/OSToastBach/BBC-Micro-Assembly)|My currently learning progress on 6502 assembly for the BBC Micro/Master|3|2021-07-08|
 |96|[xxxyk/asmgame](https://github.com/xxxyk/asmgame)|A Simple assembly language game for coursework.|3|2021-07-03|
-|97|[fghsgh/fghbeep2](https://github.com/fghsgh/fghbeep2)|advanced 1-bit sound engine for 83+/84+ series of calculators|3|2021-12-30|
-|98|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|2021-11-26|
-|99|[mkannwischer/m4-crypto-eng-assignments](https://github.com/mkannwischer/m4-crypto-eng-assignments)|Collection of Standalone Cryptograhpic Engineering Assignments for the ARM Cortex-M4 (STM32F407)|3|2021-08-09|
-|100|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2021-11-28|
+|97|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|2022-01-03|
+|98|[fghsgh/fghbeep2](https://github.com/fghsgh/fghbeep2)|advanced 1-bit sound engine for 83+/84+ series of calculators|3|2021-12-30|
+|99|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|2021-11-26|
+|100|[mkannwischer/m4-crypto-eng-assignments](https://github.com/mkannwischer/m4-crypto-eng-assignments)|Collection of Standalone Cryptograhpic Engineering Assignments for the ARM Cortex-M4 (STM32F407)|3|2021-08-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

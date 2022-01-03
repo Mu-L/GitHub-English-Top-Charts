@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10098|2021-12-27|
-|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8662|2021-08-21|
-|3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|1974|2021-12-20|
-|4|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1700|2021-09-23|
+|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10108|2022-01-03|
+|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8664|2021-08-21|
+|3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|1976|2021-12-20|
+|4|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1699|2021-09-23|
 |5|[Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin|1069|2021-09-20|
 |6|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|984|2021-12-27|
 |7|[MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks)|Vim bookmark plugin|707|2021-11-14|
 |8|[ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim)|Vim syntax file & snippets for Docker's Dockerfile|671|2021-09-06|
-|9|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|521|2021-12-16|
+|9|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|520|2021-12-16|
 |10|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|410|2021-10-16|
 |11|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|398|2021-12-07|
 |12|[szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter)|Edit your Jupyter notebooks in Vim/Neovim|338|2021-12-02|
 |13|[voldikss/vim-translator](https://github.com/voldikss/vim-translator)|:closed_book: Translating plugin for Vim/Neovim|322|2021-08-03|
-|14|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|270|2021-10-05|
+|14|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|271|2021-10-05|
 |15|[lifepillar/vim-cheat40](https://github.com/lifepillar/vim-cheat40)|A Vim cheat sheet that makes sense, inside Vim!|212|2021-07-01|
-|16|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|163|2022-01-02|
+|16|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|164|2022-01-03|
 |17|[hukl/dotfiles](https://github.com/hukl/dotfiles)|Collection of various config files|160|2021-10-27|
-|18|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|132|2022-01-02|
+|18|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|132|2022-01-03|
 |19|[thaerkh/vim-indentguides](https://github.com/thaerkh/vim-indentguides)|📐  Simple indentation guides for your buffers|125|2021-06-06|
 |20|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|95|2022-01-01|
-|21|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)|84|2022-01-02|
+|21|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)|84|2022-01-03|
 |22|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|82|2021-10-22|
 |23|[BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles)|My configuration files and personal collection of scripts.|76|2021-10-24|
 |24|[WolfgangMehner/c-support](https://github.com/WolfgangMehner/c-support)|Edit C/C++ programs in Vim/gVim. Insert code snippets, compile the code, run Make/CMake/... and look up help.|73|2021-09-22|
@@ -40,8 +40,8 @@
 |33|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only master branch is safe!|30|2021-12-09|
 |34|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|25|2021-11-10|
 |35|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|23|2021-12-27|
-|36|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|23|2021-09-21|
-|37|[WolfgangMehner/perl-support](https://github.com/WolfgangMehner/perl-support)|Edit Perl scripts in Vim/gVim. Insert code snippets, run, check, and profile the code and look up help.|22|2021-09-22|
+|36|[WolfgangMehner/perl-support](https://github.com/WolfgangMehner/perl-support)|Edit Perl scripts in Vim/gVim. Insert code snippets, run, check, and profile the code and look up help.|23|2021-09-22|
+|37|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|23|2021-09-21|
 |38|[WolfgangMehner/lua-support](https://github.com/WolfgangMehner/lua-support)|Edit Lua scripts in Vim/gVim/Neovim. Insert code snippets, run, compile, and check the code and look up help.|22|2021-09-22|
 |39|[AndrewRayCode/configs](https://github.com/AndrewRayCode/configs)|Config files I want to share between computers, like vim config|22|2021-11-05|
 |40|[rosshadden/dotfiles](https://github.com/rosshadden/dotfiles)|A collection of dotfiles and scripts that I use between computers.|19|2021-12-31|
@@ -60,7 +60,7 @@
 |53|[NewProggie/Dev-Utils](https://github.com/NewProggie/Dev-Utils)|Common development utils such as format styles, coding guidelines etc.|11|2021-10-24|
 |54|[IndexXuan/wow-my-dotfiles](https://github.com/IndexXuan/wow-my-dotfiles)|my .vimrc and .zshrc backup and share ~ |11|2021-09-01|
 |55|[ivy/vim-ginkgo](https://github.com/ivy/vim-ginkgo)|Go syntax highlighting and snippets for Ginkgo specs and matchers.|11|2021-07-06|
-|56|[4513ECHO/vim-readme-viewer](https://github.com/4513ECHO/vim-readme-viewer)|:book: Viewing plugin's README easily like vim help|10|2021-12-29|
+|56|[4513ECHO/vim-readme-viewer](https://github.com/4513ECHO/vim-readme-viewer)|:book: Viewing plugin's README easily like vim help|10|2022-01-03|
 |57|[0xfe/evil](https://github.com/0xfe/evil)|Profiles, scripts, and other shared code.|10|2022-01-02|
 |58|[marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq)|Master key for exiting/deleting vim buffers with respect to window splits and tabs.|9|2021-11-13|
 |59|[prabirshrestha/asyncomplete-neosnippet.vim](https://github.com/prabirshrestha/asyncomplete-neosnippet.vim)|provides neosnippet autocomplete for asyncomplete.vim|9|2021-10-17|

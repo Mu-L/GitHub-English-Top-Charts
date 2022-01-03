@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1192|2021-12-09|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1193|2021-12-09|
 |2|[Zeus64/alcinoe](https://github.com/Zeus64/alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|760|2021-11-02|
-|3|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|170|2021-11-07|
+|3|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|171|2021-11-07|
 |4|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|124|2021-10-26|
-|5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|2021-12-27|
+|5|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|106|2021-12-27|
 |6|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|2021-12-29|
 |7|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|2021-12-09|
 |8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|74|2021-07-07|
@@ -54,17 +54,18 @@
 |47|[laciba96/Delphi-DLL-As-Cpl](https://github.com/laciba96/Delphi-DLL-As-Cpl)|Some examples about how to create CPL files to old systems with Delphi.|3|2021-10-24|
 |48|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|2021-12-19|
 |49|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|2021-09-16|
-|50|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|2021-11-23|
-|51|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|2021-06-02|
-|52|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|2021-09-03|
-|53|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2021-12-02|
-|54|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|2021-07-07|
-|55|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|2022-01-02|
-|56|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
-|57|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|
-|58|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|2021-07-04|
-|59|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2021-12-15|
-|60|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
+|50|[Pasquina/ResponsiveFiremonkeyStringGrid](https://github.com/Pasquina/ResponsiveFiremonkeyStringGrid)|How to make a string grid in a Firemonkey desktop application "responsive" when using Livebindings.|3|2021-07-19|
+|51|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|2021-11-23|
+|52|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|2021-06-02|
+|53|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|2021-09-03|
+|54|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2021-12-02|
+|55|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|2021-07-07|
+|56|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|2022-01-02|
+|57|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
+|58|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|
+|59|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|2021-07-04|
+|60|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2021-12-15|
+|61|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

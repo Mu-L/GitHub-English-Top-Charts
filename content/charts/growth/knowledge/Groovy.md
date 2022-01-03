@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|3|0|2022-01-01|
 |6|[bilderlings/jenkins-shared-libraries](https://github.com/bilderlings/jenkins-shared-libraries)|Useful shared libraries for Jenkins pipelines|9|0|2021-10-14|
 |7|[Confluex/Zuul](https://github.com/Confluex/Zuul)|Keymaster and Gatekeeper - Application Configuration Management|43|0|2021-08-13|
-|8|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|0|2022-01-01|
+|8|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|0|2022-01-03|
 |9|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|7|0|2021-12-18|
 |10|[ElektraInitiative/jenkins-library](https://github.com/ElektraInitiative/jenkins-library)|Jenkins Shared Library|3|0|2021-08-28|
 |11|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|8|0|2021-08-18|
@@ -35,7 +35,7 @@
 |28|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|165|0|2021-12-16|
 |29|[cescoffier/vertx-examples-it](https://github.com/cescoffier/vertx-examples-it)|Automatic execution of vertx-examples|5|0|2021-12-09|
 |30|[codetojoy/easter_eggs_for_gradle](https://github.com/codetojoy/easter_eggs_for_gradle)|Basic examples for Gradle. Usage of 'egg' here is SSCCE: http://sscce.org Edit Add topics|5|0|2021-11-28|
-|31|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|0|2021-12-28|
+|31|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|36|0|2022-01-03|
 |32|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|0|2021-12-15|
 |33|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|115|0|2022-01-01|
 |34|[primetheus/jenkins-github-app-library](https://github.com/primetheus/jenkins-github-app-library)|Jenkins Shared Library to authenticate as a GitHub App via JWT|6|0|2021-06-08|
@@ -70,10 +70,10 @@
 |63|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|33|0|2021-09-08|
 |64|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|21|0|2021-11-26|
 |65|[brampat/security-examples](https://github.com/brampat/security-examples)|Some examples apps to illustrate security and privacy related concepts|2|0|2021-10-12|
-|66|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|0|2021-12-29|
+|66|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|163|0|2022-01-03|
 |67|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|0|2021-09-16|
 |68|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2021-12-19|
-|69|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|0|2021-12-31|
+|69|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|204|0|2022-01-03|
 |70|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2021-06-28|
 |71|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|11|0|2021-12-13|
 |72|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|12|0|2021-12-11|
@@ -87,7 +87,7 @@
 |80|[cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)|Examples of DevOps pipelines for mainframe applications|9|0|2021-06-21|
 |81|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2021-12-09|
 |82|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|0|2021-11-04|
-|83|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|0|2021-12-22|
+|83|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|0|2022-01-03|
 |84|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|87|0|2021-12-27|
 |85|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|16|0|2021-12-11|
 |86|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|0|2021-10-20|

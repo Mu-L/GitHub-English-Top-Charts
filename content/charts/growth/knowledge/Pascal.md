@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,14 +13,14 @@
 |6|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2021-07-07|
 |7|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|0|2021-12-16|
 |8|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|0|2021-11-09|
-|9|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|105|0|2021-12-27|
+|9|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|106|0|2021-12-27|
 |10|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|0|2021-12-11|
 |11|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|0|2021-06-02|
 |12|[neurolabusc/Metal-Demos](https://github.com/neurolabusc/Metal-Demos)|Examples of Apple's Metal API using Lazarus and Ryan Joseph's lazmetalcontrol|26|0|2021-09-23|
 |13|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|0|2021-11-23|
 |14|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|30|0|2021-06-22|
 |15|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|0|2021-12-26|
-|16|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|170|0|2021-11-07|
+|16|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|171|0|2021-11-07|
 |17|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|0|2021-12-15|
 |18|[laciba96/Delphi-DLL-As-Cpl](https://github.com/laciba96/Delphi-DLL-As-Cpl)|Some examples about how to create CPL files to old systems with Delphi.|3|0|2021-10-24|
 |19|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|124|0|2021-10-26|
@@ -38,33 +38,34 @@
 |31|[MuminjonGuru/Object-Pascal-Mastering](https://github.com/MuminjonGuru/Object-Pascal-Mastering)|These are not just simple 🧩Algorithms🧩. I also add interesting Academic concepts into it. Check this out.|21|0|2021-07-18|
 |32|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
 |33|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2021-07-09|
-|34|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1192|0|2021-12-09|
+|34|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1193|0|2021-12-09|
 |35|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|0|2021-12-08|
 |36|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|50|0|2021-10-30|
 |37|[blikblum/luipack](https://github.com/blikblum/luipack)|Collection of Freepascal / Lazarus components and applications|40|0|2021-09-08|
 |38|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|38|0|2021-09-09|
 |39|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|0|2021-11-22|
-|40|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|71|0|2021-09-19|
-|41|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|67|0|2021-11-13|
-|42|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|0|2021-09-16|
-|43|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|0|2021-12-29|
-|44|[rezgui/fpos](https://github.com/rezgui/fpos)|Free Pascal Operating System (FPOS) is a operating system consists of a minimal kernel built on FreePascal. It contains a Scheme implementation of a hard drive (ATA) driver, keyboard (PS2), serial (82 ...|34|0|2021-10-16|
-|45|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2021-12-26|
-|46|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|
-|47|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2021-12-07|
-|48|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|0|2021-09-03|
-|49|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|74|0|2021-07-07|
-|50|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|5|0|2021-08-10|
-|51|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|0|2021-12-02|
-|52|[ange007/TInstructor](https://github.com/ange007/TInstructor)|Delphi FMX component for a better way for new feature introduction and step-by-step users guide in your program.|10|0|2021-06-15|
-|53|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|22|0|2021-12-15|
-|54|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|18|0|2021-10-02|
-|55|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2021-07-31|
-|56|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|5|0|2021-11-23|
-|57|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|19|0|2021-11-17|
-|58|[checkdigits/rounded_corners](https://github.com/checkdigits/rounded_corners)|Example of how to control Windows 11 Rounded Corners in your apps - to accompany the blog post https://blogs.embarcadero.com/how-to-control-windows-11-rounded-corners-in-your-app/|15|0|2021-09-10|
-|59|[himselfv/wakan](https://github.com/himselfv/wakan)|Japanese and Chinese learning tool with dictionary|24|0|2021-08-10|
-|60|[isemenkov/libpasc-algorithms](https://github.com/isemenkov/libpasc-algorithms)|libPasC-Algorithms is delphi and object pascal library of common data structures and algorithms. The library is a set of containers adapted for the Pascal language and the template system available on ...|12|0|2021-10-30|
+|40|[Pasquina/ResponsiveFiremonkeyStringGrid](https://github.com/Pasquina/ResponsiveFiremonkeyStringGrid)|How to make a string grid in a Firemonkey desktop application "responsive" when using Livebindings.|3|0|2021-07-19|
+|41|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|71|0|2021-09-19|
+|42|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|67|0|2021-11-13|
+|43|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|0|2021-09-16|
+|44|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|100|0|2021-12-29|
+|45|[rezgui/fpos](https://github.com/rezgui/fpos)|Free Pascal Operating System (FPOS) is a operating system consists of a minimal kernel built on FreePascal. It contains a Scheme implementation of a hard drive (ATA) driver, keyboard (PS2), serial (82 ...|34|0|2021-10-16|
+|46|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2021-12-26|
+|47|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|
+|48|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2021-12-07|
+|49|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|0|2021-09-03|
+|50|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|74|0|2021-07-07|
+|51|[code-kungfu/Delphi-AzureFunctionApps](https://github.com/code-kungfu/Delphi-AzureFunctionApps)|Demo examples of how to take advantage of Azure Function Apps with #Delphi|5|0|2021-08-10|
+|52|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|0|2021-12-02|
+|53|[ange007/TInstructor](https://github.com/ange007/TInstructor)|Delphi FMX component for a better way for new feature introduction and step-by-step users guide in your program.|10|0|2021-06-15|
+|54|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|22|0|2021-12-15|
+|55|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|18|0|2021-10-02|
+|56|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2021-07-31|
+|57|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|5|0|2021-11-23|
+|58|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|19|0|2021-11-17|
+|59|[checkdigits/rounded_corners](https://github.com/checkdigits/rounded_corners)|Example of how to control Windows 11 Rounded Corners in your apps - to accompany the blog post https://blogs.embarcadero.com/how-to-control-windows-11-rounded-corners-in-your-app/|15|0|2021-09-10|
+|60|[himselfv/wakan](https://github.com/himselfv/wakan)|Japanese and Chinese learning tool with dictionary|24|0|2021-08-10|
+|61|[isemenkov/libpasc-algorithms](https://github.com/isemenkov/libpasc-algorithms)|libPasC-Algorithms is delphi and object pascal library of common data structures and algorithms. The library is a set of containers adapted for the Pascal language and the template system available on ...|12|0|2021-10-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

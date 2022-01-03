@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)|Collection of Hello World programs written in multiple languages =D|40|2021-12-29|2021-01-16|
 |3|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|36|2021-12-30|2021-09-26|
 |4|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|33|2021-12-27|2021-09-22|
-|5|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|25|2021-12-09|2021-05-24|
+|5|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|26|2021-12-09|2021-05-24|
 |6|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|2021-09-27|2021-08-27|
 |7|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|11|2021-11-19|2021-11-19|
 |8|[JamesSheppardd/Nerdy-Nights-ca65-Translation](https://github.com/JamesSheppardd/Nerdy-Nights-ca65-Translation)|A translation of the popular Nerdy Nights tutorial for creating NES games, originally written in NESASM, translated to ca65|11|2021-07-25|2021-07-25|
@@ -30,7 +30,7 @@
 |23|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|6|2021-12-31|2021-07-18|
 |24|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|2021-09-14|
 |25|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|2021-08-21|
-|26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2021-06-18|2021-04-17|
+|26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|5|2022-01-03|2021-04-17|
 |27|[Hacktix/TixTest-GB](https://github.com/Hacktix/TixTest-GB)|A collection of various Gameboy and Gameboy Color Hardware Test ROMs.|5|2021-06-19|2021-04-14|
 |28|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|2021-12-20|2021-12-19|
 |29|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|2021-09-03|
@@ -51,24 +51,26 @@
 |44|[ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs](https://github.com/ss-shrishi2000/Keil_MicroVision_8051_Microcontroller_Software_Programs)|This repository comprises of my coursework software programs under the course 8051 Microcontroller Assembly Level Language Programming.|3|2021-07-27|2021-07-27|
 |45|[OSToastBach/BBC-Micro-Assembly](https://github.com/OSToastBach/BBC-Micro-Assembly)|My currently learning progress on 6502 assembly for the BBC Micro/Master|3|2021-07-08|2021-07-08|
 |46|[xxxyk/asmgame](https://github.com/xxxyk/asmgame)|A Simple assembly language game for coursework.|3|2021-07-03|2021-07-03|
-|47|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|2022-01-02|2021-12-31|
-|48|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|2|2021-12-19|2021-12-10|
-|49|[ruinengLi/GnssNavigationAndVisualization](https://github.com/ruinengLi/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|2021-11-26|2021-11-26|
-|50|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|2021-11-14|2021-11-14|
-|51|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|2021-11-13|2021-11-13|
-|52|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|2021-10-28|2021-10-28|
-|53|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|2021-10-25|2021-10-18|
-|54|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|2021-10-25|2021-10-15|
-|55|[SaraHindySalfer/Nand2Tetris](https://github.com/SaraHindySalfer/Nand2Tetris)|answers to n2t course home work|2|2021-08-14|2021-08-13|
-|56|[itsikshteinberger/Mastermind](https://github.com/itsikshteinberger/Mastermind)|The classic mastermind game in assembly language|2|2021-07-08|2021-07-08|
-|57|[Quatrecentquatre-404/nasm_std_lib](https://github.com/Quatrecentquatre-404/nasm_std_lib)|This is a learning repository, do not use it for real projects because it might not be secure.|2|2021-07-07|2021-07-05|
-|58|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|2|2021-10-06|2021-06-16|
-|59|[DorreenRostami/SBU_Microprocessor](https://github.com/DorreenRostami/SBU_Microprocessor)|Repository for Microprocessor course at SBU|2|2021-07-24|2021-06-11|
-|60|[OldSkoolCoder/GridRunner-Original](https://github.com/OldSkoolCoder/GridRunner-Original)|Tutorial 040 : Reverse Engineer Grid Runner By Jeff Minter for the C64|2|2021-06-02|2021-06-02|
-|61|[rsouth/asm-reading-list](https://github.com/rsouth/asm-reading-list)|Semi-organised collection of useful resources from my experience learning (...trying to learn?) assembly.|2|2021-06-20|2021-05-15|
-|62|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2021-12-03|2021-04-25|
-|63|[monteirocamis/XamarinFormsGalleryAPP](https://github.com/monteirocamis/XamarinFormsGalleryAPP)|APP made during udemy course for practice  and dictionary code for Xamarin, C#, xaml|2|2021-06-09|2021-04-10|
-|64|[CristinaNilvan/assembly-i386-algorithmic-problems](https://github.com/CristinaNilvan/assembly-i386-algorithmic-problems)|Implementation of some basic algorithms.|2|2021-06-09|2021-04-02|
+|47|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|2022-01-03|2021-02-27|
+|48|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|2022-01-03|2021-12-31|
+|49|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|2|2021-12-19|2021-12-10|
+|50|[ruinengLi/GnssNavigationAndVisualization](https://github.com/ruinengLi/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|2021-11-26|2021-11-26|
+|51|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|2021-11-14|2021-11-14|
+|52|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|2021-11-13|2021-11-13|
+|53|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|2021-10-28|2021-10-28|
+|54|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|2021-10-25|2021-10-18|
+|55|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|2021-10-25|2021-10-15|
+|56|[SaraHindySalfer/Nand2Tetris](https://github.com/SaraHindySalfer/Nand2Tetris)|answers to n2t course home work|2|2021-08-14|2021-08-13|
+|57|[itsikshteinberger/Mastermind](https://github.com/itsikshteinberger/Mastermind)|The classic mastermind game in assembly language|2|2021-07-08|2021-07-08|
+|58|[Quatrecentquatre-404/nasm_std_lib](https://github.com/Quatrecentquatre-404/nasm_std_lib)|This is a learning repository, do not use it for real projects because it might not be secure.|2|2021-07-07|2021-07-05|
+|59|[attapanhyar/AssemblyProgramming](https://github.com/attapanhyar/AssemblyProgramming)|This course is designed for beginners to learn basics of Assembly Programming using MASM32.  |2|2021-07-04|2021-07-04|
+|60|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|2|2021-10-06|2021-06-16|
+|61|[DorreenRostami/SBU_Microprocessor](https://github.com/DorreenRostami/SBU_Microprocessor)|Repository for Microprocessor course at SBU|2|2021-07-24|2021-06-11|
+|62|[OldSkoolCoder/GridRunner-Original](https://github.com/OldSkoolCoder/GridRunner-Original)|Tutorial 040 : Reverse Engineer Grid Runner By Jeff Minter for the C64|2|2021-06-02|2021-06-02|
+|63|[rsouth/asm-reading-list](https://github.com/rsouth/asm-reading-list)|Semi-organised collection of useful resources from my experience learning (...trying to learn?) assembly.|2|2021-06-20|2021-05-15|
+|64|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2021-12-03|2021-04-25|
+|65|[monteirocamis/XamarinFormsGalleryAPP](https://github.com/monteirocamis/XamarinFormsGalleryAPP)|APP made during udemy course for practice  and dictionary code for Xamarin, C#, xaml|2|2021-06-09|2021-04-10|
+|66|[CristinaNilvan/assembly-i386-algorithmic-problems](https://github.com/CristinaNilvan/assembly-i386-algorithmic-problems)|Implementation of some basic algorithms.|2|2021-06-09|2021-04-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

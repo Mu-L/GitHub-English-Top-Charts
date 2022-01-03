@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -27,19 +27,19 @@
 |20|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|2021-11-14|
 |21|[kunhe/FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)|Code for CVPR 2019 paper "Deep Metric Learning to Rank"|88|2021-09-21|
 |22|[nickabattista/IB2d](https://github.com/nickabattista/IB2d)|An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advecti ...|87|2021-11-02|
-|23|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|85|2021-12-14|
+|23|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|86|2021-12-14|
 |24|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|81|2021-09-23|
 |25|[qingsenyangit/AHDRNet](https://github.com/qingsenyangit/AHDRNet)|Attention-guided Network for Ghost-free High Dynamic Range Imaging|78|2021-12-18|
-|26|[pillowlab/GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)|Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data|77|2021-10-21|
-|27|[ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)|The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).|77|2021-11-02|
-|28|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|76|2021-12-03|
+|26|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|77|2021-12-03|
+|27|[pillowlab/GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)|Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data|77|2021-10-21|
+|28|[ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)|The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).|77|2021-11-02|
 |29|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2022-01-02|
 |30|[FuzhenZhuang/Transfer-Learning-Toolkit](https://github.com/FuzhenZhuang/Transfer-Learning-Toolkit)|Transfer Learning Toolkit for Primary Researchers|66|2021-06-11|
 |31|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|2021-06-23|
 |32|[daxjuanxiong/infrared-small-target-detection](https://github.com/daxjuanxiong/infrared-small-target-detection)|images, codes and papers about infrared small taret detecion algorithm|57|2021-11-21|
 |33|[anishLearnsToCode/introduction-to-programming-with-matlab](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)|Coursera Course: Introduction to Programming 👩‍💻 with MATLAB ~by Vanderbilt University 🎓 |50|2021-07-19|
 |34|[jnagy1/IRtools](https://github.com/jnagy1/IRtools)|MATLAB package of iterative regularization methods and large-scale test problems. This software is described in the paper "IR Tools: A MATLAB Package of Iterative Regularization Methods and Large-Scal ...|50|2021-09-17|
-|35|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |49|2021-12-03|
+|35|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |49|2022-01-03|
 |36|[kunhe/TALR](https://github.com/kunhe/TALR)|Code for CVPR 2018 paper "Hashing as Tie-Aware Learning to Rank"|44|2021-09-21|
 |37|[brianborchers/PEIP](https://github.com/brianborchers/PEIP)|MATLAB code for examples and exercises for the 3rd edition of Parameter Estimation and Inverse Problems|43|2021-12-12|
 |38|[Xiaoyang-Rebecca/PatternRecognition_Matlab](https://github.com/Xiaoyang-Rebecca/PatternRecognition_Matlab)|Feature reduction projections and classifier models are learned by training dataset and applied to classify testing dataset. A few approaches of feature reduction have been compared in this paper: pri ...|43|2021-06-23|
@@ -57,7 +57,7 @@
 |50|[acuoci/Matlab4CRE](https://github.com/acuoci/Matlab4CRE)|Collection of Matlab codes to solve typical CRE (Chemical Reaction Engineering) problems|29|2021-12-17|
 |51|[lanl-ansi/tutorial-grid-science](https://github.com/lanl-ansi/tutorial-grid-science)|Julia Tutorial Materials for the Grid Science Tools|28|2021-06-06|
 |52|[vvrs/MPPIController](https://github.com/vvrs/MPPIController)|Robot Controls Course Project|28|2021-11-01|
-|53|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |28|2021-12-23|
+|53|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |28|2022-01-03|
 |54|[PeterRochford/SkillMetricsToolbox](https://github.com/PeterRochford/SkillMetricsToolbox)|This toolbox contains a collection of Matlab functions for calculating the skill of model predictions against observations. |28|2021-06-05|
 |55|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|27|2021-08-26|
 |56|[rssmith33/Active-Inference-Tutorial-Scripts](https://github.com/rssmith33/Active-Inference-Tutorial-Scripts)|Supplementary scripts for Step-by-step active inference modelling tutorial|27|2021-12-11|
@@ -81,13 +81,13 @@
 |74|[facebookresearch/BinauralSDM](https://github.com/facebookresearch/BinauralSDM)|This repository contains a set of tools to render Binaural Room Impulse Responses (BRIR) using the Spatial Decomposition Method (SDM).The implementation features a series of improvements presented in  ...|20|2021-12-04|
 |75|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|20|2021-12-03|
 |76|[zhandawei/Single_objective_EGO_algorithms](https://github.com/zhandawei/Single_objective_EGO_algorithms)|The standard and parallel single-objective EGO algorithms|20|2021-12-24|
-|77|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|19|2021-10-27|
-|78|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|19|2021-11-04|
-|79|[SHITIANYU-hue/Efficient-motion-planning](https://github.com/SHITIANYU-hue/Efficient-motion-planning)|To guarantee safe and efficient driving for automated vehicles in complicated traffic conditions, the motion planning module of automated vehicles are expected to generate collision-free driving polic ...|19|2021-10-30|
-|80|[ywang-structures/Structural-Model-Updating](https://github.com/ywang-structures/Structural-Model-Updating)|This GitHub package provides example MATLAB code for finite element model updating. The code offers selection of different updating formulations and optimization algorithms. |19|2021-11-23|
-|81|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2021-07-26|
-|82|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|19|2021-12-01|
-|83|[sebdi/lane-detection](https://github.com/sebdi/lane-detection)|Lane detection MATLAB code for Kalman Filter book chapter: Lane Detection|19|2021-06-03|
+|77|[sebdi/lane-detection](https://github.com/sebdi/lane-detection)|Lane detection MATLAB code for Kalman Filter book chapter: Lane Detection|20|2021-06-03|
+|78|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|19|2021-10-27|
+|79|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|19|2021-11-04|
+|80|[SHITIANYU-hue/Efficient-motion-planning](https://github.com/SHITIANYU-hue/Efficient-motion-planning)|To guarantee safe and efficient driving for automated vehicles in complicated traffic conditions, the motion planning module of automated vehicles are expected to generate collision-free driving polic ...|19|2021-10-30|
+|81|[ywang-structures/Structural-Model-Updating](https://github.com/ywang-structures/Structural-Model-Updating)|This GitHub package provides example MATLAB code for finite element model updating. The code offers selection of different updating formulations and optimization algorithms. |19|2021-11-23|
+|82|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2021-07-26|
+|83|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|19|2021-12-01|
 |84|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|2021-12-21|
 |85|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|18|2021-07-07|
 |86|[summitgao/SAR_Change_Detection_NR_ELM](https://github.com/summitgao/SAR_Change_Detection_NR_ELM)|The matlab code for the JARS16 paper "Change Detection from Synthetic Aperture Radar Images Based on Neighborhood-Based Ratio and Extreme Learning Machine"|18|2021-11-24|
