@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|2021-12-18|2021-12-17|
-|3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2021-12-20|2021-05-19|
+|3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2022-01-04|2021-05-19|
 |4|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
-|5|[adoptium/ci-jenkins-pipelines](https://github.com/adoptium/ci-jenkins-pipelines)|jenkins pipeline build scripts|9|2021-12-21|2021-02-04|
+|5|[adoptium/ci-jenkins-pipelines](https://github.com/adoptium/ci-jenkins-pipelines)|jenkins pipeline build scripts|9|2022-01-04|2021-02-04|
 |6|[aepfli/gradle-gitlab-repositories](https://github.com/aepfli/gradle-gitlab-repositories)|Handling Maven GitLab dependencies made easy. Define multiple tokens and selectively apply them to repositories, remove the need for repeating Credential handling blocks for different environments.|8|2021-10-21|2021-02-07|
 |7|[ithinkdancan/hubitat-meross](https://github.com/ithinkdancan/hubitat-meross)|Hubitat Drivers for Meross Smart Plugs|8|2021-12-11|2021-02-04|
 |8|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |9|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|6|2021-12-24|2021-09-30|
-|10|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-01-03|2021-09-07|
+|10|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-01-04|2021-09-07|
 |11|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
 |12|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2021-12-25|2021-03-12|
 |13|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
@@ -37,7 +37,7 @@
 |30|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2021-08-06|2021-06-07|
 |31|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
 |32|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|3|2021-10-23|2021-02-10|
-|33|[Nyariki/Terraform-Multipass](https://github.com/Nyariki/Terraform-Multipass)|-|2|2021-12-17|2021-12-17|
+|33|[Nyariki/Terraform-Multipass](https://github.com/Nyariki/Terraform-Multipass)|-|2|2022-01-04|2021-12-17|
 |34|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
 |35|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2021-12-02|2021-12-02|
 |36|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
@@ -70,7 +70,7 @@
 |63|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
 |64|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
 |65|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|66|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2021-12-31|2021-02-05|
+|66|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2022-01-03|2021-02-05|
 |67|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 |68|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
 

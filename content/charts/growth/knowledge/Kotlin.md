@@ -1,49 +1,49 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Kotlin
-<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1750|51|2022-01-01|
-|2|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|39956|18|2021-12-09|
-|3|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26683|16|2022-01-03|
-|4|[google/accompanist](https://github.com/google/accompanist)|A collection of extension libraries for Jetpack Compose|3915|6|2021-12-22|
-|5|[KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)|A curated list of awesome Kotlin related stuff Inspired by awesome-java. |9707|4|2022-01-03|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1761|50|2022-01-04|
+|2|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|39959|18|2021-12-09|
+|3|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26690|16|2022-01-03|
+|4|[google/accompanist](https://github.com/google/accompanist)|A collection of extension libraries for Jetpack Compose|3919|6|2021-12-22|
+|5|[KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)|A curated list of awesome Kotlin related stuff Inspired by awesome-java. |9706|4|2022-01-04|
 |6|[LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)|🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!|1735|3|2021-12-13|
-|7|[vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)|🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way|2047|3|2021-08-08|
+|7|[vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)|🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way|2050|3|2021-08-08|
 |8|[Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen)|🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen ...|633|3|2022-01-03|
-|9|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|1461|3|2022-01-03|
-|10|[dbaroncelli/D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample)|D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.|479|2|2021-07-02|
-|11|[touchlab/KaMPKit](https://github.com/touchlab/KaMPKit)|KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.|1357|2|2021-12-31|
-|12|[androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)|👓 A curated list of awesome android learning resources for android app developers. |998|2|2021-11-02|
-|13|[TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight)|Android Library that lights items for tutorials or walk-throughs etc...|3157|2|2021-09-10|
+|9|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|1462|3|2022-01-04|
+|10|[dbaroncelli/D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample)|D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.|478|2|2021-07-02|
+|11|[touchlab/KaMPKit](https://github.com/touchlab/KaMPKit)|KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.|1359|2|2022-01-04|
+|12|[androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)|👓 A curated list of awesome android learning resources for android app developers. |1001|2|2021-11-02|
+|13|[TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight)|Android Library that lights items for tutorials or walk-throughs etc...|3160|2|2021-09-10|
 |14|[stfalcon-studio/StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer)|A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures|1739|2|2021-12-13|
-|15|[Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)|Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose|1801|2|2022-01-03|
+|15|[Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)|Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose|1802|2|2022-01-03|
 |16|[romainguy/experiment-apex](https://github.com/romainguy/experiment-apex)|A basic, incomplete, buggy, far from efficient UI toolkit for Kotlin/Android. An experiment for fun and to learn.|48|1|2021-11-25|
 |17|[slackhq/slack-lints](https://github.com/slackhq/slack-lints)|A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.|100|1|2021-12-15|
-|18|[mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)|A collection of Android libraries to build browsers or browser-like applications.|1859|1|2022-01-03|
-|19|[RajashekarRaju/compose-actors](https://github.com/RajashekarRaju/compose-actors)|:robot: Android app built with jetpack :rocket: compose follows new revamped guide to app architecture. Implemented with State, Coroutines :curly_loop:, ViewModels, Repository pattern, Light/Dark them ...|12|1|2022-01-01|
+|18|[mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)|A collection of Android libraries to build browsers or browser-like applications.|1860|1|2022-01-04|
+|19|[RajashekarRaju/compose-actors](https://github.com/RajashekarRaju/compose-actors)|:robot: Android app built with jetpack :rocket: compose follows new revamped guide to app architecture. Implemented with State, Coroutines :curly_loop:, ViewModels, Repository pattern, Light/Dark them ...|15|1|2022-01-01|
 |20|[imandolatkia/FullScreenCardViewPager_Android](https://github.com/imandolatkia/FullScreenCardViewPager_Android)|Endless full-screen card ViewPager inspired by apple iBook for Android|122|1|2021-10-27|
 |21|[SimformSolutionsPvtLtd/SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook)|A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌|107|1|2021-12-24|
 |22|[androiddevnotes/awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)|👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.|529|1|2021-11-05|
-|23|[MindorksOpenSource/Kotlin-Coroutines-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples)|Learn Kotlin Coroutines for Android by Examples. Learn how to use Kotlin Coroutines for Android App Development.|869|1|2021-11-19|
-|24|[MindorksOpenSource/Kotlin-Flow-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples)|Kotlin Flow Android Examples - How to use it in Android Project|626|1|2021-11-12|
-|25|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|378|1|2021-07-29|
+|23|[MindorksOpenSource/Kotlin-Coroutines-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples)|Learn Kotlin Coroutines for Android by Examples. Learn how to use Kotlin Coroutines for Android App Development.|870|1|2021-11-19|
+|24|[MindorksOpenSource/Kotlin-Flow-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples)|Kotlin Flow Android Examples - How to use it in Android Project|627|1|2021-11-12|
+|25|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|380|1|2021-07-29|
 |26|[DrBreen/AppSalvager](https://github.com/DrBreen/AppSalvager)|Small library that allows the application to display a small troubleshooting guide in case of repeated app startup crashes.|28|1|2021-11-22|
-|27|[LouisCAD/Splitties](https://github.com/LouisCAD/Splitties)|A collection of hand-crafted extensions for your Kotlin projects.|1954|1|2021-09-30|
+|27|[LouisCAD/Splitties](https://github.com/LouisCAD/Splitties)|A collection of hand-crafted extensions for your Kotlin projects.|1957|1|2021-09-30|
 |28|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1135|1|2021-10-13|
-|29|[facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)|Used to integrate Android apps with Facebook Platform.|5527|1|2021-12-30|
+|29|[facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)|Used to integrate Android apps with Facebook Platform.|5527|1|2022-01-04|
 |30|[V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer)|Visualizes various sorting algorithms|10|1|2021-12-23|
 |31|[bluegroundltd/bg-gradle-plugins](https://github.com/bluegroundltd/bg-gradle-plugins)|Collection of Blueground's Gradle plugins|13|1|2021-12-21|
 |32|[PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice)|Minimalistic audiobook player|1566|1|2022-01-02|
 |33|[ZieIony/GuideToCustomViews](https://github.com/ZieIony/GuideToCustomViews)|The ultimate guide to Android custom views|686|1|2021-09-15|
-|34|[TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin)|All Algorithms implemented in Kotlin|632|1|2021-11-30|
+|34|[TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin)|All Algorithms implemented in Kotlin|633|1|2021-11-30|
 |35|[adrianwitaszak/PexWallpapers](https://github.com/adrianwitaszak/PexWallpapers)|Android application following best practices: Jetpack, Jetpack Compose, Modularity, Clean Architecture, Kotlin Coroutines, Tests, MVVM, DI, Static Analysis|63|1|2021-12-19|
 |36|[skydoves/Orchestra](https://github.com/skydoves/Orchestra)|🎺 Orchestra is a collection of Android custom view compatible libraries for Jetpack Compose.|271|1|2021-12-07|
 |37|[androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources)|👓 A continuously updated list of learning Jetpack Compose for Android apps.|575|1|2021-10-24|
 |38|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|279|1|2021-10-23|
-|39|[jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)|📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources|656|1|2022-01-03|
+|39|[jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)|📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources|657|1|2022-01-04|
 |40|[MindorksOpenSource/Dagger-Hilt-Tutorial](https://github.com/MindorksOpenSource/Dagger-Hilt-Tutorial)|An example project to demonstrate how to use the Dagger-Hilt in Android.|291|1|2021-06-23|
 |41|[ImangazalievM/android-developer-reference](https://github.com/ImangazalievM/android-developer-reference)|🔥 A curated list of awesome Android articles sorted by topic.|293|1|2021-11-16|
 |42|[wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app)|An app full of Constantly updating Google Pixel wallpapers |73|1|2021-12-22|
@@ -51,7 +51,7 @@
 |44|[halilozercan/compose-richtext](https://github.com/halilozercan/compose-richtext)|A collection of Compose libraries for advanced text formatting and alternative display types.|376|1|2021-12-28|
 |45|[amanjeetsingh150/kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples)|:muscle: [Examples] Isolated applications purely on Kotlin, for all android devs out there |970|1|2021-07-10|
 |46|[egeniq/android-tv-program-guide](https://github.com/egeniq/android-tv-program-guide)|Android TV Program Guide|94|0|2021-06-08|
-|47|[AvailLang/Avail](https://github.com/AvailLang/Avail)|The Avail programming language. Includes the virtual machine, standard library, and standard examples.|46|0|2021-12-31|
+|47|[AvailLang/Avail](https://github.com/AvailLang/Avail)|The Avail programming language. Includes the virtual machine, standard library, and standard examples.|46|0|2022-01-04|
 |48|[c5inco/Shrine-Compose](https://github.com/c5inco/Shrine-Compose)|Compose prototype of Shrine, the e-commerce Material Design case study: https://material.io/design/material-studies/shrine.html|10|0|2021-07-28|
 |49|[uhooi/UhooiPicBook-Android](https://github.com/uhooi/UhooiPicBook-Android)|Uhooi's character book.|18|0|2021-12-30|
 |50|[Nikola-Milovic/KotlinMultiplaftorm-WeatherApp](https://github.com/Nikola-Milovic/KotlinMultiplaftorm-WeatherApp)|A weather app demo made to play around with Kotlin Multiplatform. Running on Desktop, Ios and Android with all of the business logic being shared across all three platforms!|22|0|2021-06-20|
@@ -64,47 +64,47 @@
 |57|[zsmb13/VillageDSL](https://github.com/zsmb13/VillageDSL)|Examples of Kotlin DSL design|207|0|2021-12-01|
 |58|[AdamMc331/AndroidStudyGuide](https://github.com/AdamMc331/AndroidStudyGuide)|This is an Android application that will show top Android developer content for engineers to stay up to date within the community. |120|0|2021-08-12|
 |59|[Ahmed-Sellami/List-Animations-In-Compose](https://github.com/Ahmed-Sellami/List-Animations-In-Compose)|Implementing multiple list animations in a walk-through series of articles.|31|0|2021-10-13|
-|60|[coding-blocks/CBOnlineApp](https://github.com/coding-blocks/CBOnlineApp)|😎⚡️Android App for Coding Blocks Online Courses|141|0|2021-10-04|
-|61|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|67|0|2021-10-13|
-|62|[openrndr/orx](https://github.com/openrndr/orx)|A growing library of assorted data structures, algorithms and utilities for OPENRNDR|74|0|2022-01-01|
-|63|[jahirfiquitiva/Frames](https://github.com/jahirfiquitiva/Frames)|Free, feature-rich, easily customizable Android dashboard for wallpapers apps|432|0|2021-12-05|
-|64|[inorichi/android-playground](https://github.com/inorichi/android-playground)|Android application architecture showcasing a list of Marvel characters|5|0|2021-10-28|
-|65|[npes87184/ScreenShareTile](https://github.com/npes87184/ScreenShareTile)|Take a screenshot and share it quickly from Android quick setting tile|9|0|2021-12-25|
-|66|[AutSoft/Krate](https://github.com/AutSoft/Krate)|A SharedPreferences wrapper powered by Kotlin delegates|262|0|2021-11-24|
-|67|[dudgns0507/ArchitectureSample](https://github.com/dudgns0507/ArchitectureSample)|Architecture Study with MVVM and MVI|5|0|2021-10-25|
-|68|[wuzeyou/flomoEx](https://github.com/wuzeyou/flomoEx)|A little extension tool for flomo app on Android platform. Send selected text through system-level share sheet in One-Click.|5|0|2021-06-23|
-|69|[Mimo2k/Android-Development](https://github.com/Mimo2k/Android-Development)|An Open-Source repository that contains all the Android Dev and Kotlin concepts and several projects on android ranging in difficulty making this repo completely beginner-friendly. The main aim of thi ...|9|0|2021-12-13|
-|70|[geckour/NowPlaying4Droid](https://github.com/geckour/NowPlaying4Droid)|Android app for share nowplaying using MediaController|16|0|2021-09-29|
-|71|[aadityamp01/Androapps](https://github.com/aadityamp01/Androapps)|Important Android projects to learn fundamentals of android development|45|0|2021-12-26|
-|72|[vanniktech/RxRiddles](https://github.com/vanniktech/RxRiddles)|Riddling your way to master RxJava|448|0|2021-10-12|
-|73|[claytonjwong/Algorithms-Illuminated](https://github.com/claytonjwong/Algorithms-Illuminated)|💡algorithmsilluminated.org by Tim Roughgarden|18|0|2021-12-21|
-|74|[hofiisek/Chezz](https://github.com/hofiisek/Chezz)|Implementation of chess in Kotlin, as a temporary fix of the lockdown boredom.. and, of course, to practice some Kotlin :)|17|0|2021-08-05|
-|75|[alexmamo/FireApp](https://github.com/alexmamo/FireApp)|FirebaseApp is built for learning purposes, especially to see how Firebase Products work together.|32|0|2021-11-30|
-|76|[spring-guides/tut-spring-boot-kotlin](https://github.com/spring-guides/tut-spring-boot-kotlin)|Building web applications with Spring Boot and Kotlin :: Learn how to easily build and test web applications with Spring, Kotlin, Junit 5 and JPA|554|0|2021-07-28|
-|77|[cnrture/BooksApp](https://github.com/cnrture/BooksApp)|BooksApp|23|0|2021-12-05|
-|78|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|276|0|2022-01-03|
-|79|[BenBoonya/android-pokemon-info](https://github.com/BenBoonya/android-pokemon-info)|Demonstrate how to use Jetpack's pagination and navigation component.|13|0|2021-08-09|
-|80|[AdrianMeizoso/Payment-App](https://github.com/AdrianMeizoso/Payment-App)|Android app written in Kotlin which displays a list of characters from Marvel API and device contacts|12|0|2021-09-28|
-|81|[thetric/ilias-downloader-cli](https://github.com/thetric/ilias-downloader-cli)|An unofficial downloader for the Ilias E-Learning platform|12|0|2021-08-12|
-|82|[ellisonchan/JetpackDemo](https://github.com/ellisonchan/JetpackDemo)|Jetpack demo that used to show how to use Jetpack libraries.|67|0|2021-06-27|
-|83|[raywenderlich/sda-materials](https://github.com/raywenderlich/sda-materials)|The projects and the materials that accompany the Saving Data on Android book|17|0|2021-08-11|
-|84|[jumaallan/apollo-agriculture](https://github.com/jumaallan/apollo-agriculture)|Show weather data for the current location [Apollo Agriculture Interview Solution], for the Senior Android Engineer Role|18|0|2021-09-09|
-|85|[Ch3D/material-you-colors](https://github.com/Ch3D/material-you-colors)|How to use Material You colors in your app|17|0|2021-08-20|
-|86|[ilkeraslan/repeatcard](https://github.com/ilkeraslan/repeatcard)|Android application to learn vocabulary using flashcards|11|0|2021-12-19|
-|87|[Kagiri11/Kyosk-Android-Interview-Test](https://github.com/Kagiri11/Kyosk-Android-Interview-Test)|Interview test for Kyosk interview|6|0|2021-11-15|
-|88|[pablobaxter/Harmony](https://github.com/pablobaxter/Harmony)|Multi-process SharedPreference implementation without ContentProvider|42|0|2021-10-10|
-|89|[hsmnzaydn/terminal-commands-kotlin-mvp](https://github.com/hsmnzaydn/terminal-commands-kotlin-mvp)|A Linux&Unix Handbook|6|0|2021-08-10|
-|90|[JohannBlake/navigation-with-animated-transitions-using-jetpack-compose](https://github.com/JohannBlake/navigation-with-animated-transitions-using-jetpack-compose)|DEPRECATED - Demonstates how to create animated transitions to and from screens using Jetpack Compose.|30|0|2021-09-30|
-|91|[Anuj-Kumar-Sharma/Meme-Share](https://github.com/Anuj-Kumar-Sharma/Meme-Share)|An android app which lets you share memes among your friends.|31|0|2021-11-27|
-|92|[smartherd/KotlinTutorial](https://github.com/smartherd/KotlinTutorial)|Learn Kotlin programming from scratch|131|0|2021-10-01|
-|93|[jeffgbutler/mybatis-kotlin-examples](https://github.com/jeffgbutler/mybatis-kotlin-examples)|Examples for Using MyBatis with Kotlin|31|0|2022-01-03|
-|94|[YTVanced/VancedGuide](https://github.com/YTVanced/VancedGuide)|The Source Code of the Official Vanced Guide app on Google Play|7|0|2021-08-17|
-|95|[vinhowe/Hound](https://github.com/vinhowe/Hound)|Floating guides for Minecraft. A Spigot-compatible plugin.|15|0|2021-07-04|
-|96|[d-r-q/developing-ergonomic-code](https://github.com/d-r-q/developing-ergonomic-code)|Book about practices and techniques to develop code that is simple to comprehend and maintain|30|0|2021-12-12|
-|97|[Kotlin-Android-Open-Source/Pagination-MVI-Flow](https://github.com/Kotlin-Android-Open-Source/Pagination-MVI-Flow)|Pagination MVI Coroutines Flow. Play MVI with Kotlin Coroutines Flow   MVI pattern on Android using Kotlin Coroutines Flow   Dagger Hilt DI   SharedFlow   StateFlow|26|0|2022-01-03|
-|98|[MarcDonald/Hibi](https://github.com/MarcDonald/Hibi)|An Android app for learning Japanese by keeping a journal.|31|0|2021-10-02|
-|99|[AzharRivaldi/AlQuran-Android](https://github.com/AzharRivaldi/AlQuran-Android)|Source Code Tutorial Aplikasi Al-Quran Android|11|0|2021-11-13|
-|100|[AndBible/and-bible](https://github.com/AndBible/and-bible)|Bible Study App, by And Bible Open Source Project|335|0|2022-01-03|
+|60|[AseemWangoo/hands_on_kotlin](https://github.com/AseemWangoo/hands_on_kotlin)|Experiments with Compose and latest architecture patterns in Kotlin|19|0|2021-11-22|
+|61|[coding-blocks/CBOnlineApp](https://github.com/coding-blocks/CBOnlineApp)|😎⚡️Android App for Coding Blocks Online Courses|141|0|2021-10-04|
+|62|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|68|0|2021-10-13|
+|63|[openrndr/orx](https://github.com/openrndr/orx)|A growing library of assorted data structures, algorithms and utilities for OPENRNDR|74|0|2022-01-01|
+|64|[jahirfiquitiva/Frames](https://github.com/jahirfiquitiva/Frames)|Free, feature-rich, easily customizable Android dashboard for wallpapers apps|432|0|2021-12-05|
+|65|[inorichi/android-playground](https://github.com/inorichi/android-playground)|Android application architecture showcasing a list of Marvel characters|5|0|2021-10-28|
+|66|[npes87184/ScreenShareTile](https://github.com/npes87184/ScreenShareTile)|Take a screenshot and share it quickly from Android quick setting tile|9|0|2021-12-25|
+|67|[AutSoft/Krate](https://github.com/AutSoft/Krate)|A SharedPreferences wrapper powered by Kotlin delegates|263|0|2021-11-24|
+|68|[dudgns0507/ArchitectureSample](https://github.com/dudgns0507/ArchitectureSample)|Architecture Study with MVVM and MVI|5|0|2021-10-25|
+|69|[wuzeyou/flomoEx](https://github.com/wuzeyou/flomoEx)|A little extension tool for flomo app on Android platform. Send selected text through system-level share sheet in One-Click.|5|0|2021-06-23|
+|70|[Mimo2k/Android-Development](https://github.com/Mimo2k/Android-Development)|An Open-Source repository that contains all the Android Dev and Kotlin concepts and several projects on android ranging in difficulty making this repo completely beginner-friendly. The main aim of thi ...|9|0|2021-12-13|
+|71|[geckour/NowPlaying4Droid](https://github.com/geckour/NowPlaying4Droid)|Android app for share nowplaying using MediaController|16|0|2021-09-29|
+|72|[aadityamp01/Androapps](https://github.com/aadityamp01/Androapps)|Important Android projects to learn fundamentals of android development|45|0|2021-12-26|
+|73|[vanniktech/RxRiddles](https://github.com/vanniktech/RxRiddles)|Riddling your way to master RxJava|448|0|2021-10-12|
+|74|[claytonjwong/Algorithms-Illuminated](https://github.com/claytonjwong/Algorithms-Illuminated)|💡algorithmsilluminated.org by Tim Roughgarden|19|0|2021-12-21|
+|75|[hofiisek/Chezz](https://github.com/hofiisek/Chezz)|Implementation of chess in Kotlin, as a temporary fix of the lockdown boredom.. and, of course, to practice some Kotlin :)|17|0|2021-08-05|
+|76|[alexmamo/FireApp](https://github.com/alexmamo/FireApp)|FirebaseApp is built for learning purposes, especially to see how Firebase Products work together.|32|0|2021-11-30|
+|77|[spring-guides/tut-spring-boot-kotlin](https://github.com/spring-guides/tut-spring-boot-kotlin)|Building web applications with Spring Boot and Kotlin :: Learn how to easily build and test web applications with Spring, Kotlin, Junit 5 and JPA|554|0|2021-07-28|
+|78|[cnrture/BooksApp](https://github.com/cnrture/BooksApp)|BooksApp|23|0|2021-12-05|
+|79|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|276|0|2022-01-04|
+|80|[BenBoonya/android-pokemon-info](https://github.com/BenBoonya/android-pokemon-info)|Demonstrate how to use Jetpack's pagination and navigation component.|13|0|2021-08-09|
+|81|[AdrianMeizoso/Payment-App](https://github.com/AdrianMeizoso/Payment-App)|Android app written in Kotlin which displays a list of characters from Marvel API and device contacts|12|0|2021-09-28|
+|82|[thetric/ilias-downloader-cli](https://github.com/thetric/ilias-downloader-cli)|An unofficial downloader for the Ilias E-Learning platform|12|0|2021-08-12|
+|83|[ellisonchan/JetpackDemo](https://github.com/ellisonchan/JetpackDemo)|Jetpack demo that used to show how to use Jetpack libraries.|67|0|2021-06-27|
+|84|[raywenderlich/sda-materials](https://github.com/raywenderlich/sda-materials)|The projects and the materials that accompany the Saving Data on Android book|17|0|2021-08-11|
+|85|[jumaallan/apollo-agriculture](https://github.com/jumaallan/apollo-agriculture)|Show weather data for the current location [Apollo Agriculture Interview Solution], for the Senior Android Engineer Role|18|0|2021-09-09|
+|86|[Ch3D/material-you-colors](https://github.com/Ch3D/material-you-colors)|How to use Material You colors in your app|17|0|2021-08-20|
+|87|[ilkeraslan/repeatcard](https://github.com/ilkeraslan/repeatcard)|Android application to learn vocabulary using flashcards|11|0|2021-12-19|
+|88|[Kagiri11/Kyosk-Android-Interview-Test](https://github.com/Kagiri11/Kyosk-Android-Interview-Test)|Interview test for Kyosk interview|6|0|2021-11-15|
+|89|[pablobaxter/Harmony](https://github.com/pablobaxter/Harmony)|Multi-process SharedPreference implementation without ContentProvider|42|0|2021-10-10|
+|90|[hsmnzaydn/terminal-commands-kotlin-mvp](https://github.com/hsmnzaydn/terminal-commands-kotlin-mvp)|A Linux&Unix Handbook|6|0|2021-08-10|
+|91|[JohannBlake/navigation-with-animated-transitions-using-jetpack-compose](https://github.com/JohannBlake/navigation-with-animated-transitions-using-jetpack-compose)|DEPRECATED - Demonstates how to create animated transitions to and from screens using Jetpack Compose.|30|0|2021-09-30|
+|92|[Anuj-Kumar-Sharma/Meme-Share](https://github.com/Anuj-Kumar-Sharma/Meme-Share)|An android app which lets you share memes among your friends.|31|0|2021-11-27|
+|93|[smartherd/KotlinTutorial](https://github.com/smartherd/KotlinTutorial)|Learn Kotlin programming from scratch|132|0|2021-10-01|
+|94|[nuhkoca/kotlin-modular-tdd-coroutines-mvvm](https://github.com/nuhkoca/kotlin-modular-tdd-coroutines-mvvm)|A sample Kotlin app which was built with modular structure, Kotlin DSL, Kotlin Coroutines, TDD and MVVM patterns.|389|0|2021-12-22|
+|95|[jeffgbutler/mybatis-kotlin-examples](https://github.com/jeffgbutler/mybatis-kotlin-examples)|Examples for Using MyBatis with Kotlin|31|0|2022-01-03|
+|96|[YTVanced/VancedGuide](https://github.com/YTVanced/VancedGuide)|The Source Code of the Official Vanced Guide app on Google Play|7|0|2021-08-17|
+|97|[vinhowe/Hound](https://github.com/vinhowe/Hound)|Floating guides for Minecraft. A Spigot-compatible plugin.|15|0|2021-07-04|
+|98|[d-r-q/developing-ergonomic-code](https://github.com/d-r-q/developing-ergonomic-code)|Book about practices and techniques to develop code that is simple to comprehend and maintain|30|0|2021-12-12|
+|99|[Kotlin-Android-Open-Source/Pagination-MVI-Flow](https://github.com/Kotlin-Android-Open-Source/Pagination-MVI-Flow)|Pagination MVI Coroutines Flow. Play MVI with Kotlin Coroutines Flow   MVI pattern on Android using Kotlin Coroutines Flow   Dagger Hilt DI   SharedFlow   StateFlow|26|0|2022-01-03|
+|100|[MarcDonald/Hibi](https://github.com/MarcDonald/Hibi)|An Android app for learning Japanese by keeping a journal.|31|0|2021-10-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

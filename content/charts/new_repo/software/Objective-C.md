@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1238|2022-01-03|2021-01-31|
-|2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|490|2021-09-09|2021-09-03|
+|2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|493|2021-09-09|2021-09-03|
 |3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
 |4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|265|2021-09-25|2021-08-03|
-|5|[s4y/undot](https://github.com/s4y/undot)|-|244|2021-12-26|2021-12-20|
+|5|[s4y/undot](https://github.com/s4y/undot)|-|249|2021-12-26|2021-12-20|
 |6|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|225|2021-07-23|2021-01-04|
 |7|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|167|2022-01-02|2021-03-06|
 |8|[objective-see/OverSight](https://github.com/objective-see/OverSight)|OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |129|2021-12-29|2021-02-01|
 |9|[MatthewPierson/Ramiel](https://github.com/MatthewPierson/Ramiel)|An open-source, multipurpose macOS GUI utility for checkm8-vulnerable iOS/iPadOS devices|116|2021-07-08|2021-02-20|
 |10|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|115|2021-09-12|2021-02-02|
 |11|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|105|2021-10-13|2021-02-08|
-|12|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|103|2021-12-24|2021-03-24|
+|12|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|103|2022-01-04|2021-03-24|
 |13|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
 |14|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|99|2021-12-31|2021-07-24|
-|15|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|94|2021-06-23|2021-01-21|
+|15|[bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster)|Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.|95|2021-06-23|2021-01-21|
 |16|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|82|2021-12-14|2021-12-06|
 |17|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |18|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|66|2021-12-24|2021-03-30|
@@ -36,14 +36,14 @@
 |29|[quanghits/GoogleMobileAds](https://github.com/quanghits/GoogleMobileAds)|Swift Package Manager for Google Mobile Ads SDK. |38|2021-11-22|2021-04-28|
 |30|[rolling-scopes-school/rs.ios.lecture.material](https://github.com/rolling-scopes-school/rs.ios.lecture.material)|Materials for lectures|38|2021-09-14|2021-04-23|
 |31|[tr3v3r/react-native-esc-pos-printer](https://github.com/tr3v3r/react-native-esc-pos-printer)|An unofficial React Native library for printing on an EPSON TM printer with the Epson ePOS SDK for iOS and Epson ePOS SDK for Android|35|2021-11-22|2021-02-05|
-|32|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|33|2021-12-31|2021-06-20|
+|32|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|34|2021-12-31|2021-06-20|
 |33|[ryannair05/Cylinder-Reborn](https://github.com/ryannair05/Cylinder-Reborn)|A reborn version of Cylinder for iOS 11 and up|31|2021-11-05|2021-02-14|
-|34|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|29|2022-01-03|2021-01-13|
-|35|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpegKit.|29|2022-01-02|2021-01-10|
-|36|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|28|2022-01-02|2021-02-06|
+|34|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|29|2022-01-04|2021-02-06|
+|35|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|29|2022-01-03|2021-01-13|
+|36|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpegKit.|29|2022-01-02|2021-01-10|
 |37|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|27|2022-01-01|2021-11-28|
-|38|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|27|2021-12-28|2021-02-28|
-|39|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|26|2021-08-16|2021-08-08|
+|38|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|27|2021-08-16|2021-08-08|
+|39|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|27|2021-12-28|2021-02-28|
 |40|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2021-12-08|2021-04-30|
 |41|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
 |42|[s-u/macosvm](https://github.com/s-u/macosvm)|Tool for running macOS guest virtual machines in macOS 12 host or higher on M1 arm64 Macs|24|2021-11-21|2021-11-18|
@@ -100,7 +100,7 @@
 |93|[djs66256/NECollectionViewLayout](https://github.com/djs66256/NECollectionViewLayout)|-|10|2021-07-23|2021-06-15|
 |94|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|10|2021-09-30|2021-06-01|
 |95|[schneelittchen/Astolfo](https://github.com/schneelittchen/Astolfo)|Astolfo siri|10|2021-08-26|2021-04-25|
-|96|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|10|2021-12-02|2021-04-05|
+|96|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|10|2022-01-04|2021-04-05|
 |97|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2021-10-09|2021-04-05|
 |98|[imVason/cordova-plugin-openwebview](https://github.com/imVason/cordova-plugin-openwebview)|Provide capability of open multiple webview|10|2021-07-08|2021-01-04|
 |99|[HighwayLaw/HWBlocksUI](https://github.com/HighwayLaw/HWBlocksUI)|optimize UIKit such as UITableview, UIButton, UITextField, UISwitch with Blocks to make it easier to write|9|2021-12-30|2021-12-20|

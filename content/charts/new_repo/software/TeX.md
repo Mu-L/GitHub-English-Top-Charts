@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|955|2021-10-03|2021-09-02|
-|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|535|2021-10-15|2021-06-11|
-|3|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|404|2021-12-21|2021-11-18|
-|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|396|2021-12-21|2021-12-09|
+|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|539|2021-10-15|2021-06-11|
+|3|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|406|2021-12-21|2021-11-18|
+|4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|397|2021-12-21|2021-12-09|
 |5|[NCIC-PARALLEL/GSWITCH-tool](https://github.com/NCIC-PARALLEL/GSWITCH-tool)|-|314|2021-07-22|2021-07-22|
-|6|[jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)|Cheat sheet for x86-64 Unix systems programming|292|2021-07-02|2021-06-30|
+|6|[jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)|Cheat sheet for x86-64 Unix systems programming|293|2021-07-02|2021-06-30|
 |7|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|276|2021-11-20|2021-11-19|
 |8|[NCIC-PARALLEL/GSWITCH-SDK](https://github.com/NCIC-PARALLEL/GSWITCH-SDK)|-|212|2021-07-22|2021-07-22|
 |9|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|195|2021-12-23|2021-07-06|
 |10|[aterenin/phdthesis](https://github.com/aterenin/phdthesis)|Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces|166|2021-10-12|2021-06-28|
-|11|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|140|2021-12-28|2021-12-18|
+|11|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|141|2021-12-28|2021-12-18|
 |12|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|111|2021-11-04|2021-04-22|
 |13|[dl4nlp-tuda2021/deep-learning-for-nlp-lectures](https://github.com/dl4nlp-tuda2021/deep-learning-for-nlp-lectures)|Deep Learning for Natural Language Processing - Lectures 2021|96|2021-07-27|2021-04-12|
 |14|[HoTT/EPIT-2020](https://github.com/HoTT/EPIT-2020)|EPIT 2020 - Spring School on Homotopy Type Theory|91|2021-07-29|2021-03-19|
-|15|[harshibar/resume](https://github.com/harshibar/resume)|📝 A one-page, one-column column resume template by Harshibar|79|2021-09-14|2021-09-13|
-|16|[EmilHvitfeldt/ISLR-tidymodels-labs](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs)|-|79|2021-11-06|2021-04-09|
+|15|[EmilHvitfeldt/ISLR-tidymodels-labs](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs)|-|88|2021-11-06|2021-04-09|
+|16|[harshibar/resume](https://github.com/harshibar/resume)|📝 A one-page, one-column column resume template by Harshibar|79|2021-09-14|2021-09-13|
 |17|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|76|2021-12-17|2021-07-15|
 |18|[AndrasKovacs/staged](https://github.com/AndrasKovacs/staged)|Experimental staged language with dependent types|64|2021-12-27|2021-04-22|
 |19|[tengyuma/cs229m_notes](https://github.com/tengyuma/cs229m_notes)|-|56|2021-12-14|2021-01-08|
 |20|[lvjr/tabularray](https://github.com/lvjr/tabularray)|Typeset tabulars and arrays with LaTeX3|54|2022-01-02|2021-02-28|
 |21|[angary/simulated-annealing-tsp](https://github.com/angary/simulated-annealing-tsp)|Parameterising Simulated Annealing for the Travelling Salesman Problem|53|2021-11-22|2021-10-29|
-|22|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|51|2021-10-31|2021-10-19|
-|23|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|50|2021-11-13|2021-11-05|
+|22|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|51|2021-11-13|2021-11-05|
+|23|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|51|2021-10-31|2021-10-19|
 |24|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|47|2021-12-27|2021-12-16|
 |25|[yuanqidu/awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation)|-|44|2021-11-19|2021-08-07|
 |26|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |42|2021-12-28|2021-07-09|
@@ -66,8 +66,8 @@
 |59|[llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook)|Low-Level Software Security for Compiler Developers|18|2021-12-31|2021-04-30|
 |60|[s-expressionists/wscl](https://github.com/s-expressionists/wscl)|Sources of the "Well Specified Common Lisp" specification which is based on the final draft of the Common Lisp standard but is not a new Common Lisp standard.|17|2021-12-16|2021-06-21|
 |61|[TMD44/elte-ik-pti-bsc-zarovizsga](https://github.com/TMD44/elte-ik-pti-bsc-zarovizsga)|ELTE IK - Programtervező Informatikus BSc Záróvizsga tételek kidolgozása|17|2021-11-30|2021-06-07|
-|62|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
-|63|[GouMinghao/new_SJTU_thesis_template](https://github.com/GouMinghao/new_SJTU_thesis_template)|SJTU thesis template version 2021, modified from the official version|15|2021-12-29|2021-12-28|
+|62|[GouMinghao/new_SJTU_thesis_template](https://github.com/GouMinghao/new_SJTU_thesis_template)|SJTU thesis template version 2021, modified from the official version|16|2022-01-04|2021-12-28|
+|63|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
 |64|[lilygeorgescu/AED-SSMTL](https://github.com/lilygeorgescu/AED-SSMTL)|-|15|2021-07-29|2021-06-18|
 |65|[riscv/docs-templates](https://github.com/riscv/docs-templates)|Documentation templates and build tools|15|2021-12-02|2021-03-04|
 |66|[calebstewart/calebstew.art](https://github.com/calebstewart/calebstew.art)|Landing page for calebstew.art|15|2021-12-01|2021-01-21|
@@ -77,27 +77,27 @@
 |70|[RylanSchaeffer/Stanford-LaTeX-Poster-Template](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template)|-|14|2021-10-27|2021-10-27|
 |71|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|14|2021-12-29|2021-09-02|
 |72|[mdx-workshop/mdx-submissions21](https://github.com/mdx-workshop/mdx-submissions21)|Music Demixing Challenge Submission Repo|14|2021-12-07|2021-07-06|
-|73|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|13|2021-12-05|2021-11-17|
-|74|[mRokita/wut-thesis-pandoc](https://github.com/mRokita/wut-thesis-pandoc)|-|13|2021-11-14|2021-11-12|
-|75|[samcarter/TikZbricks](https://github.com/samcarter/TikZbricks)|-|13|2021-09-12|2021-08-08|
-|76|[FUlyankin/matstat_lec](https://github.com/FUlyankin/matstat_lec)|Лекции по матстату на русском|13|2021-11-18|2021-07-17|
-|77|[random-matrix-learning/slides](https://github.com/random-matrix-learning/slides)|LaTeX source code for the slides|13|2021-07-15|2021-07-14|
-|78|[iagoac/dce540](https://github.com/iagoac/dce540)|Disciplina DCE540 - Computação Paralela e Distribuída|13|2021-12-21|2021-07-12|
-|79|[scaomath/copilot-funny-demos](https://github.com/scaomath/copilot-funny-demos)|Writing a fake paper? Chat about math? GitHub copilot can do lots of things...|13|2021-08-02|2021-07-08|
-|80|[Rishabh-malhotraa/resume](https://github.com/Rishabh-malhotraa/resume)|LaTeX template for my personal resume|13|2021-12-31|2021-06-27|
-|81|[spcl/sparsity-in-deep-learning](https://github.com/spcl/sparsity-in-deep-learning)|Bibtex for Sparsity in Deep Learning paper (https://arxiv.org/abs/2102.00554) - open for pull requests|13|2021-06-30|2021-06-11|
-|82|[giovaz94/metodi_numerici](https://github.com/giovaz94/metodi_numerici)|Appunti in LaTex di metodi numerici: aa 2020/2021|13|2021-06-07|2021-05-04|
-|83|[tlringer/thesis](https://github.com/tlringer/thesis)|haha I'm graduating|13|2021-07-22|2021-02-17|
-|84|[shd/logic2021](https://github.com/shd/logic2021)|-|13|2021-06-10|2021-02-11|
-|85|[cifunibas/Bitcoin-Blockchain-Cryptoassets](https://github.com/cifunibas/Bitcoin-Blockchain-Cryptoassets)|University of Basel Lecture: Bitcoin Blockchain and Cryptoassets|13|2021-07-13|2021-02-01|
-|86|[MattWillFlood/EntropyHub](https://github.com/MattWillFlood/EntropyHub)|An open-source toolkit for entropic time-series analysis.|13|2021-12-16|2021-01-05|
-|87|[lucasmoschen/modelo-tcc-emap](https://github.com/lucasmoschen/modelo-tcc-emap)|Este repositório  contém os arquivos necessários para começar o Trabalho de Conclusão de Curso da Escola de Matemática Aplicada (EMAp/FGV)|12|2021-11-11|2021-09-26|
-|88|[AshutoshPandey123456/FYP-Latex](https://github.com/AshutoshPandey123456/FYP-Latex)|Final Year Project Template in LaTeX for CSE, DSCE.|12|2021-06-03|2021-06-03|
-|89|[sano-jin/express-beamer](https://github.com/sano-jin/express-beamer)|A modern LaTeX Beamer theme|12|2021-11-29|2021-06-03|
-|90|[uw-pluverse/pluverse-latex-style-guide](https://github.com/uw-pluverse/pluverse-latex-style-guide)|-|12|2021-11-28|2021-02-11|
-|91|[PM25/SimpleDarkBlue-BeamerTheme](https://github.com/PM25/SimpleDarkBlue-BeamerTheme)|A Simple & Clear Latex Beamer Theme.|12|2021-10-24|2021-01-12|
-|92|[jdily/all_conf_template](https://github.com/jdily/all_conf_template)|a latex paper template to support various conferences across fields including computer graphics,  computer vision, and hci.|11|2021-12-27|2021-12-25|
-|93|[sansquoi/PlushCV](https://github.com/sansquoi/PlushCV)|A One Page Two Column Resume Latex Template|11|2021-11-30|2021-11-29|
+|73|[MattWillFlood/EntropyHub](https://github.com/MattWillFlood/EntropyHub)|An open-source toolkit for entropic time-series analysis.|14|2021-12-16|2021-01-05|
+|74|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|13|2021-12-05|2021-11-17|
+|75|[mRokita/wut-thesis-pandoc](https://github.com/mRokita/wut-thesis-pandoc)|-|13|2021-11-14|2021-11-12|
+|76|[samcarter/TikZbricks](https://github.com/samcarter/TikZbricks)|-|13|2021-09-12|2021-08-08|
+|77|[FUlyankin/matstat_lec](https://github.com/FUlyankin/matstat_lec)|Лекции по матстату на русском|13|2021-11-18|2021-07-17|
+|78|[random-matrix-learning/slides](https://github.com/random-matrix-learning/slides)|LaTeX source code for the slides|13|2021-07-15|2021-07-14|
+|79|[iagoac/dce540](https://github.com/iagoac/dce540)|Disciplina DCE540 - Computação Paralela e Distribuída|13|2021-12-21|2021-07-12|
+|80|[scaomath/copilot-funny-demos](https://github.com/scaomath/copilot-funny-demos)|Writing a fake paper? Chat about math? GitHub copilot can do lots of things...|13|2021-08-02|2021-07-08|
+|81|[Rishabh-malhotraa/resume](https://github.com/Rishabh-malhotraa/resume)|LaTeX template for my personal resume|13|2021-12-31|2021-06-27|
+|82|[spcl/sparsity-in-deep-learning](https://github.com/spcl/sparsity-in-deep-learning)|Bibtex for Sparsity in Deep Learning paper (https://arxiv.org/abs/2102.00554) - open for pull requests|13|2021-06-30|2021-06-11|
+|83|[giovaz94/metodi_numerici](https://github.com/giovaz94/metodi_numerici)|Appunti in LaTex di metodi numerici: aa 2020/2021|13|2021-06-07|2021-05-04|
+|84|[tlringer/thesis](https://github.com/tlringer/thesis)|haha I'm graduating|13|2021-07-22|2021-02-17|
+|85|[shd/logic2021](https://github.com/shd/logic2021)|-|13|2021-06-10|2021-02-11|
+|86|[cifunibas/Bitcoin-Blockchain-Cryptoassets](https://github.com/cifunibas/Bitcoin-Blockchain-Cryptoassets)|University of Basel Lecture: Bitcoin Blockchain and Cryptoassets|13|2021-07-13|2021-02-01|
+|87|[sansquoi/PlushCV](https://github.com/sansquoi/PlushCV)|A One Page Two Column Resume Latex Template|12|2021-11-30|2021-11-29|
+|88|[lucasmoschen/modelo-tcc-emap](https://github.com/lucasmoschen/modelo-tcc-emap)|Este repositório  contém os arquivos necessários para começar o Trabalho de Conclusão de Curso da Escola de Matemática Aplicada (EMAp/FGV)|12|2021-11-11|2021-09-26|
+|89|[AshutoshPandey123456/FYP-Latex](https://github.com/AshutoshPandey123456/FYP-Latex)|Final Year Project Template in LaTeX for CSE, DSCE.|12|2021-06-03|2021-06-03|
+|90|[sano-jin/express-beamer](https://github.com/sano-jin/express-beamer)|A modern LaTeX Beamer theme|12|2021-11-29|2021-06-03|
+|91|[uw-pluverse/pluverse-latex-style-guide](https://github.com/uw-pluverse/pluverse-latex-style-guide)|-|12|2021-11-28|2021-02-11|
+|92|[PM25/SimpleDarkBlue-BeamerTheme](https://github.com/PM25/SimpleDarkBlue-BeamerTheme)|A Simple & Clear Latex Beamer Theme.|12|2021-10-24|2021-01-12|
+|93|[jdily/all_conf_template](https://github.com/jdily/all_conf_template)|a latex paper template to support various conferences across fields including computer graphics,  computer vision, and hci.|11|2021-12-27|2021-12-25|
 |94|[iamkashz/reporting-template](https://github.com/iamkashz/reporting-template)|Reporting template for OSCP, VHL and more.|11|2021-10-30|2021-10-29|
 |95|[aksy1999/graduate_cv_template](https://github.com/aksy1999/graduate_cv_template)|Latex template for Amit Yadav's CV |11|2021-10-23|2021-10-23|
 |96|[darkGrimoire/ta1-latex-itb](https://github.com/darkGrimoire/ta1-latex-itb)|LaTeX template for TA1 report at Informatics Engineering ITB|11|2021-10-20|2021-10-16|

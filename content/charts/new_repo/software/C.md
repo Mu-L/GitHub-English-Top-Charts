@@ -1,83 +1,83 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > C
-<sub>Updated: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4072|2022-01-03|2021-11-24|
-|2|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3080|2021-12-16|2021-08-27|
-|3|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |2921|2022-01-03|2021-03-19|
-|4|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2766|2021-10-01|2021-02-28|
-|5|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2475|2022-01-03|2021-08-09|
-|6|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2359|2022-01-03|2021-01-15|
+|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4078|2022-01-04|2021-11-24|
+|2|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3088|2021-12-16|2021-08-27|
+|3|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |2926|2022-01-03|2021-03-19|
+|4|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2765|2021-10-01|2021-02-28|
+|5|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2493|2022-01-04|2021-08-09|
+|6|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2363|2022-01-04|2021-01-15|
 |7|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2310|2022-01-03|2021-05-22|
-|8|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|1991|2021-12-29|2021-08-30|
-|9|[GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)|FidelityFX Super Resolution|1531|2021-12-31|2021-07-13|
+|8|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|1994|2021-12-29|2021-08-30|
+|9|[GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)|FidelityFX Super Resolution|1534|2021-12-31|2021-07-13|
 |10|[positive-security/send-my](https://github.com/positive-security/send-my)|Upload arbitrary data via Apple's Find My network.|1412|2021-07-15|2021-05-12|
-|11|[ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang)|A small and fast programming language.|1280|2021-08-21|2021-02-07|
-|12|[microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows)|eBPF implementation that runs on top of Windows|1211|2022-01-03|2021-04-08|
-|13|[xfs-network/xfsgo](https://github.com/xfs-network/xfsgo)|Official Go implementation of the Fixcoin protocol|1210|2022-01-02|2021-06-29|
-|14|[tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c)|A cross-platform, top-down 2D space shooter written in C using only system libraries.|1176|2021-12-31|2021-07-29|
+|11|[ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang)|A small and fast programming language.|1281|2021-08-21|2021-02-07|
+|12|[microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows)|eBPF implementation that runs on top of Windows|1212|2022-01-04|2021-04-08|
+|13|[xfs-network/xfsgo](https://github.com/xfs-network/xfsgo)|Official Go implementation of the Fixcoin protocol|1210|2022-01-03|2021-06-29|
+|14|[tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c)|A cross-platform, top-down 2D space shooter written in C using only system libraries.|1182|2021-12-31|2021-07-29|
 |15|[nuvious/pam-duress](https://github.com/nuvious/pam-duress)|A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive ...|1157|2021-09-03|2021-08-21|
-|16|[AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1)|A bootloader and experimentation playground for Apple Silicon|1140|2022-01-03|2021-01-14|
+|16|[AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1)|A bootloader and experimentation playground for Apple Silicon|1142|2022-01-03|2021-01-14|
 |17|[cmuratori/refterm](https://github.com/cmuratori/refterm)|Reference monospace terminal renderer|1136|2021-10-30|2021-06-17|
-|18|[Mr-Un1k0d3r/EDRs](https://github.com/Mr-Un1k0d3r/EDRs)|-|1092|2021-12-03|2021-03-02|
-|19|[raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)|-|1077|2022-01-03|2021-01-20|
-|20|[topotam/PetitPotam](https://github.com/topotam/PetitPotam)|PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.|1056|2021-10-23|2021-07-18|
-|21|[nalgeon/sqlean](https://github.com/nalgeon/sqlean)|All the missing SQLite functions|1032|2022-01-03|2021-02-28|
+|18|[Mr-Un1k0d3r/EDRs](https://github.com/Mr-Un1k0d3r/EDRs)|-|1095|2021-12-03|2021-03-02|
+|19|[raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)|-|1078|2022-01-04|2021-01-20|
+|20|[topotam/PetitPotam](https://github.com/topotam/PetitPotam)|PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.|1058|2021-10-23|2021-07-18|
+|21|[nalgeon/sqlean](https://github.com/nalgeon/sqlean)|The ultimate set of SQLite extensions|1046|2022-01-04|2021-02-28|
 |22|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1024|2021-10-15|2021-10-10|
-|23|[raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples)|-|1010|2021-12-15|2021-01-20|
+|23|[raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples)|-|1011|2021-12-15|2021-01-20|
 |24|[antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)|Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.|976|2021-08-06|2021-02-08|
-|25|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|947|2021-12-27|2021-08-11|
+|25|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|948|2021-12-27|2021-08-11|
 |26|[dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)|Renew and Refill Bob Cassettes for 98% Cost Saving!|890|2021-12-18|2021-04-03|
 |27|[Sneeds-Feed-and-Seed/sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity)|Audio Editor                                     |846|2021-11-02|2021-07-05|
-|28|[AsahiLinux/gpu](https://github.com/AsahiLinux/gpu)|Dissecting the M1's GPU for 3D acceleration|822|2021-07-03|2021-01-07|
-|29|[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)|"Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.|806|2021-11-20|2021-05-25|
-|30|[jdah/jdh-8](https://github.com/jdah/jdh-8)|An 8-bit minicomputer with a fully custom architecture|805|2021-12-30|2021-04-28|
+|28|[AsahiLinux/gpu](https://github.com/AsahiLinux/gpu)|Dissecting the M1's GPU for 3D acceleration|823|2021-07-03|2021-01-07|
+|29|[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)|"Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.|808|2021-11-20|2021-05-25|
+|30|[jdah/jdh-8](https://github.com/jdah/jdh-8)|An 8-bit minicomputer with a fully custom architecture|808|2021-12-30|2021-04-28|
 |31|[skullchap/chadstr](https://github.com/skullchap/chadstr)|Chad Strings - The Chad way to handle strings in C.|764|2021-08-21|2021-05-13|
 |32|[cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite)|CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR|753|2022-01-03|2021-06-13|
-|33|[emikulic/darkhttpd](https://github.com/emikulic/darkhttpd)|When you need a web server in a hurry.|734|2021-08-22|2021-01-17|
-|34|[peng-zhihui/ESP32-PicoDK](https://github.com/peng-zhihui/ESP32-PicoDK)|-|700|2021-11-29|2021-05-19|
-|35|[mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like)|Engine for making things with a MS-DOS feel, but for modern platforms|691|2021-11-30|2021-10-08|
+|33|[emikulic/darkhttpd](https://github.com/emikulic/darkhttpd)|When you need a web server in a hurry.|736|2021-08-22|2021-01-17|
+|34|[peng-zhihui/ESP32-PicoDK](https://github.com/peng-zhihui/ESP32-PicoDK)|-|701|2021-11-29|2021-05-19|
+|35|[mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like)|Engine for making things with a MS-DOS feel, but for modern platforms|692|2021-11-30|2021-10-08|
 |36|[Satsuoni/widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser)|-|646|2021-08-06|2021-07-29|
 |37|[nihui/opencv-mobile](https://github.com/nihui/opencv-mobile)|The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly|630|2021-12-20|2021-01-08|
-|38|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|622|2021-12-27|2021-04-14|
-|39|[bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary)|LoadLibrary for offensive operations|610|2021-10-22|2021-06-17|
-|40|[Yaxser/Backstab](https://github.com/Yaxser/Backstab)|A tool to kill antimalware protected processes|607|2021-06-19|2021-06-15|
+|38|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|623|2022-01-04|2021-04-14|
+|39|[bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary)|LoadLibrary for offensive operations|611|2021-10-22|2021-06-17|
+|40|[Yaxser/Backstab](https://github.com/Yaxser/Backstab)|A tool to kill antimalware protected processes|608|2021-06-19|2021-06-15|
 |41|[google/iconvg](https://github.com/google/iconvg)|IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji.|584|2022-01-01|2021-03-30|
-|42|[cilium/pwru](https://github.com/cilium/pwru)|Packet, where are you? -- Linux kernel networking debugger|549|2021-12-22|2021-10-12|
+|42|[cilium/pwru](https://github.com/cilium/pwru)|Packet, where are you? -- Linux kernel networking debugger|550|2021-12-22|2021-10-12|
 |43|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|526|2021-12-16|2021-09-05|
 |44|[sepfy/pear](https://github.com/sepfy/pear)|WebRTC Library for IoT/Embedded Device using C|525|2022-01-02|2021-04-07|
 |45|[SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium)|Audacity fork without Telemetry and with new features|521|2021-12-17|2021-07-04|
-|46|[luin/wechat-export](https://github.com/luin/wechat-export)|📃 Export WeChat chat histories to HTML files.|495|2021-10-02|2021-09-19|
-|47|[Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI)|-|495|2021-12-25|2021-01-21|
-|48|[chjj/mako](https://github.com/chjj/mako)|Bitcoin node written in C|490|2021-12-22|2021-11-15|
+|46|[luin/wechat-export](https://github.com/luin/wechat-export)|📃 Export WeChat chat histories to HTML files.|496|2021-10-02|2021-09-19|
+|47|[Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI)|-|496|2021-12-25|2021-01-21|
+|48|[chjj/mako](https://github.com/chjj/mako)|Bitcoin node written in C|491|2022-01-03|2021-11-15|
 |49|[helpsystems/nanodump](https://github.com/helpsystems/nanodump)|Dump LSASS like you mean it|485|2021-12-25|2021-11-10|
-|50|[TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger)|Off The Grid Messenger|475|2021-07-12|2021-06-20|
-|51|[brutal-org/brutal](https://github.com/brutal-org/brutal)|🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering |463|2022-01-02|2021-06-03|
+|50|[TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger)|Off The Grid Messenger|476|2021-07-12|2021-06-20|
+|51|[brutal-org/brutal](https://github.com/brutal-org/brutal)|🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering |466|2022-01-04|2021-06-03|
 |52|[hydromisc/hydromisc](https://github.com/hydromisc/hydromisc)|Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.|458|2022-01-03|2021-06-28|
-|53|[boku7/BokuLoader](https://github.com/boku7/BokuLoader)|Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.|448|2022-01-03|2021-08-15|
+|53|[boku7/BokuLoader](https://github.com/boku7/BokuLoader)|Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.|456|2022-01-04|2021-08-15|
 |54|[ankane/pgvector](https://github.com/ankane/pgvector)|Open-source vector similarity search for Postgres|443|2022-01-03|2021-04-20|
 |55|[frkngksl/Huan](https://github.com/frkngksl/Huan)|Encrypted PE Loader Generator|440|2021-08-13|2021-05-21|
-|56|[itm4n/PPLdump](https://github.com/itm4n/PPLdump)|Dump the memory of a PPL with a userland exploit|429|2021-10-10|2021-04-07|
-|57|[siduck/chadwm](https://github.com/siduck/chadwm)|Making dwm as beautiful as possible! |397|2021-12-01|2021-07-19|
+|56|[itm4n/PPLdump](https://github.com/itm4n/PPLdump)|Dump the memory of a PPL with a userland exploit|430|2021-10-10|2021-04-07|
+|57|[siduck/chadwm](https://github.com/siduck/chadwm)|Making dwm as beautiful as possible! |399|2021-12-01|2021-07-19|
 |58|[hasherezade/process_ghosting](https://github.com/hasherezade/process_ghosting)|Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file|390|2021-09-03|2021-06-16|
-|59|[RiotVanguard/Vanguard](https://github.com/RiotVanguard/Vanguard)|Official Vanguard Anti-Cheat source code.|388|2021-10-30|2021-04-01|
+|59|[RiotVanguard/Vanguard](https://github.com/RiotVanguard/Vanguard)|Official Vanguard Anti-Cheat source code.|389|2021-10-30|2021-04-01|
 |60|[T-head-Semi/riscv-aosp](https://github.com/T-head-Semi/riscv-aosp)|Patches & Script for AOSP to run on Xuantie RISC-V CPU|384|2021-11-08|2021-01-12|
-|61|[Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)|Memory instrumentation tool for android app&game developers.|380|2021-06-22|2021-03-04|
-|62|[WyvernTKC/cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2)|Optimised Version of GR miner for RTM|366|2021-11-27|2021-04-09|
+|61|[Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)|Memory instrumentation tool for android app&game developers.|381|2021-06-22|2021-03-04|
+|62|[WyvernTKC/cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2)|Optimised Version of GR miner for RTM|367|2021-11-27|2021-04-09|
 |63|[Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft)|-|348|2021-11-03|2021-07-31|
 |64|[hepingood/ssd1306](https://github.com/hepingood/ssd1306)|ssd1306 full function driver|348|2021-12-25|2021-05-16|
-|65|[mmozeiko/wcap](https://github.com/mmozeiko/wcap)|simple and efficient screen recording utility for Windows|337|2021-12-23|2021-09-17|
-|66|[wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)|-|336|2021-12-31|2021-11-02|
-|67|[rbaron/b-parasite](https://github.com/rbaron/b-parasite)|🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.|334|2021-12-13|2021-02-10|
+|65|[wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)|-|337|2021-12-31|2021-11-02|
+|66|[mmozeiko/wcap](https://github.com/mmozeiko/wcap)|simple and efficient screen recording utility for Windows|337|2021-12-23|2021-09-17|
+|67|[rbaron/b-parasite](https://github.com/rbaron/b-parasite)|🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.|335|2021-12-13|2021-02-10|
 |68|[scandum/blitsort](https://github.com/scandum/blitsort)|Blitsort is an in-place stable adaptive rotate merge sort|331|2021-10-10|2021-07-05|
 |69|[socram8888/tonyhax](https://github.com/socram8888/tonyhax)|PS1 savegame exploit|323|2021-07-07|2021-03-02|
-|70|[akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder)|⏺️ A simple recording program with the ability to record screens and audio on your computer.|321|2021-09-27|2021-08-10|
-|71|[hlldz/CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|320|2021-07-05|2021-07-01|
-|72|[woodrush/lisp-in-life](https://github.com/woodrush/lisp-in-life)|A Lisp interpreter implemented in Conway's Game of Life|320|2021-12-27|2021-04-18|
-|73|[filecoin-project/community-china](https://github.com/filecoin-project/community-china)|Resources and forum for the Chinese community, maintained and moderated by CoinSummer & PL.|320|2021-12-20|2021-01-29|
+|70|[woodrush/lisp-in-life](https://github.com/woodrush/lisp-in-life)|A Lisp interpreter implemented in Conway's Game of Life|322|2021-12-27|2021-04-18|
+|71|[akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder)|⏺️ A simple recording program with the ability to record screens and audio on your computer.|321|2021-09-27|2021-08-10|
+|72|[filecoin-project/community-china](https://github.com/filecoin-project/community-china)|Resources and forum for the Chinese community, maintained and moderated by CoinSummer & PL.|321|2021-12-20|2021-01-29|
+|73|[hlldz/CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|320|2021-07-05|2021-07-01|
 |74|[lucydsl/liblucy](https://github.com/lucydsl/liblucy)|Core Lucy compiler|318|2021-10-20|2021-02-13|
 |75|[rodri042/gba-remote-play](https://github.com/rodri042/gba-remote-play)|Stream Raspberry Pi games to a GBA via Link Cable|316|2021-12-10|2021-05-21|
 |76|[google/hiba](https://github.com/google/hiba)|HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customize ...|313|2021-12-03|2021-08-30|
@@ -87,18 +87,18 @@
 |80|[Ildaron/ironbci](https://github.com/Ildaron/ironbci)|Open-Source Brain-Computer Interface, ADS1299 and STM32|308|2021-10-01|2021-07-25|
 |81|[hasherezade/transacted_hollowing](https://github.com/hasherezade/transacted_hollowing)|Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging|308|2021-08-18|2021-06-05|
 |82|[alibaba/Patrons](https://github.com/alibaba/Patrons)|🎉 A framework for improving android 32bit app stability. (Alleviate crashes caused by insufficient virtual memory)|307|2021-12-22|2021-06-15|
-|83|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|w25qxx full function driver|302|2021-12-25|2021-08-22|
-|84|[aaaddress1/Skrull](https://github.com/aaaddress1/Skrull)|Skrull is a malware DRM, that prevents Automatic Sample Submission by AV/EDR and Signature Scanning from Kernel. It generates launchers that can run malware on the victim using the Process Ghosting te ...|298|2021-10-25|2021-09-10|
+|83|[aaaddress1/Skrull](https://github.com/aaaddress1/Skrull)|Skrull is a malware DRM, that prevents Automatic Sample Submission by AV/EDR and Signature Scanning from Kernel. It generates launchers that can run malware on the victim using the Process Ghosting te ...|306|2021-10-25|2021-09-10|
+|84|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|w25qxx full function driver|302|2021-12-25|2021-08-22|
 |85|[boku7/spawn](https://github.com/boku7/spawn)|Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), ...|298|2021-08-28|2021-07-17|
-|86|[nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)|FZF sorter for telescope written in c|295|2021-12-16|2021-04-09|
-|87|[codewhitesec/HandleKatz](https://github.com/codewhitesec/HandleKatz)|PIC lsass dumper using cloned handles|291|2021-10-22|2021-10-06|
-|88|[risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool)|Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.|288|2021-11-01|2021-04-05|
-|89|[brad-lin/FreePSXBoot](https://github.com/brad-lin/FreePSXBoot)|Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed)|286|2021-10-04|2021-04-09|
+|86|[nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)|FZF sorter for telescope written in c|298|2021-12-16|2021-04-09|
+|87|[codewhitesec/HandleKatz](https://github.com/codewhitesec/HandleKatz)|PIC lsass dumper using cloned handles|292|2021-10-22|2021-10-06|
+|88|[risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool)|Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.|289|2021-11-01|2021-04-05|
+|89|[brad-lin/FreePSXBoot](https://github.com/brad-lin/FreePSXBoot)|Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed)|287|2021-10-04|2021-04-09|
 |90|[boku7/Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner)|Module Stomping, No New Thread, HellsGate syscaller, UUID Shellcode Runner for x64 Windows 10!|283|2021-11-04|2021-10-05|
 |91|[davidmalcolm/antipatterns.ko](https://github.com/davidmalcolm/antipatterns.ko)|The world's worst kernel module|283|2021-08-12|2021-05-27|
-|92|[extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS)|New gen. Linux|280|2021-12-12|2021-10-31|
-|93|[praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender)|TCP Port Redirection Utility|280|2021-06-03|2021-05-27|
-|94|[FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)|A highly customizable macOS status bar replacement|276|2022-01-02|2021-08-13|
+|92|[extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS)|New gen. Linux|281|2021-12-12|2021-10-31|
+|93|[praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender)|TCP Port Redirection Utility|281|2021-06-03|2021-05-27|
+|94|[FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)|A highly customizable macOS status bar replacement|278|2022-01-02|2021-08-13|
 |95|[rvaiya/keyd](https://github.com/rvaiya/keyd)|A key remapping daemon for linux.|273|2022-01-03|2021-07-25|
 |96|[ckosmic/sm64ex-ios](https://github.com/ckosmic/sm64ex-ios)|iOS/tvOS port of https://github.com/sm64pc/sm64ex/|269|2021-11-20|2021-09-18|
 |97|[briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)|Ubuntu OverlayFS Local Privesc|267|2021-09-28|2021-04-19|
