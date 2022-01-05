@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9847|6|2021-08-02|
+|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9846|6|2021-08-02|
 |2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5422|3|2021-12-19|
 |3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4393|3|2021-09-07|
 |4|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|70|1|2021-12-01|
-|5|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|601|1|2021-11-18|
+|5|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|602|1|2021-11-18|
 |6|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|1|2021-08-30|
-|7|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|299|1|2021-12-02|
+|7|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|301|1|2021-12-02|
 |8|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|251|1|2021-11-02|
 |9|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|634|1|2021-10-24|
 |10|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
@@ -29,7 +29,7 @@
 |22|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|24|0|2021-12-17|
 |23|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|3|0|2021-12-16|
 |24|[iqcToolbox/iqcToolbox](https://github.com/iqcToolbox/iqcToolbox)|Model, manipulate, and analyze uncertain and nonlinear systems via integral quadratic constraints |2|0|2021-12-03|
-|25|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|4|0|2021-11-12|
+|25|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|4|0|2022-01-05|
 |26|[michellehirsch/MATLAB-Dataspace-to-Figure-Units](https://github.com/michellehirsch/MATLAB-Dataspace-to-Figure-Units)|Convert from dataspace to figure units to make it easier to add annotations pointing to data in a MATLAB figure window.|6|0|2021-10-25|
 |27|[BMSQSP/QSPToolbox](https://github.com/BMSQSP/QSPToolbox)|This is the fully public version of QSP Toolbox.  Please check the README file for the current version of MATLAB that is supported.|13|0|2021-08-19|
 |28|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |43|0|2021-12-30|
@@ -47,7 +47,7 @@
 |40|[daavid00/ad-micp](https://github.com/daavid00/ad-micp)|Simulator programs and utilities for microbially induced calcite precipitation.|4|0|2021-09-16|
 |41|[cdguarnizo/IBPLFM](https://github.com/cdguarnizo/IBPLFM)|A Variational Inference approach to automatically select the number of latent functions and its interconecction to output data by using Indian Buffet Process (IBP) in Latent Force Models (LFMs).|2|0|2021-08-27|
 |42|[Poojitha-Nellipudi/Satellite-Thermal-Control](https://github.com/Poojitha-Nellipudi/Satellite-Thermal-Control)|Satellites are exposed to the harsh environment in space that varies its temperature widely as the satellite orbits around a planet. A thermal control system for a satellite at lower altitudes must be ...|2|0|2021-11-25|
-|43|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|303|0|2021-10-08|
+|43|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|303|0|2022-01-05|
 |44|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2021-10-11|
 |45|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2|11|0|2021-12-14|
 |46|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|4|0|2021-09-14|
@@ -104,7 +104,7 @@
 |97|[gkaguirrelab/gkaModelEye](https://github.com/gkaguirrelab/gkaModelEye)|An anatomically accurate, ray-traced model eye in MATLAB.|20|0|2022-01-02|
 |98|[universitymarr/Robotics1](https://github.com/universitymarr/Robotics1)|-|5|0|2021-12-12|
 |99|[AET-MetallicGlass/Supplementary-Data-Codes](https://github.com/AET-MetallicGlass/Supplementary-Data-Codes)|This folder contains the source codes and data for the metallic glass paper|11|0|2021-11-11|
-|100|[donghuix/Setup-E3SM-Mac](https://github.com/donghuix/Setup-E3SM-Mac)|-|3|0|2021-12-21|
+|100|[donghuix/Setup-E3SM-Mac](https://github.com/donghuix/Setup-E3SM-Mac)|-|3|0|2022-01-04|
 |101|[zhanglijun95/FIIQA](https://github.com/zhanglijun95/FIIQA)|Reference: Illumination Quality Assessment for Face Images: A Benchmark and A Convolutional Neural Networks Based Model|48|0|2021-10-22|
 |102|[damonallison/notes](https://github.com/damonallison/notes)|Engineering notes I've taken over the years.|3|0|2022-01-03|
 |103|[icub-tech-iit/matlab-tools](https://github.com/icub-tech-iit/matlab-tools)|Container for general-purpose MATLAB tools.|2|0|2021-10-25|
@@ -143,7 +143,7 @@
 |136|[ErikHansenGit/Contact_elastic_half-space](https://github.com/ErikHansenGit/Contact_elastic_half-space)|MATLAB solver for the deformation of an elastic half-space based on the Boundary Element Method (BEM)|2|0|2021-12-01|
 |137|[mitigation-controller/mitc](https://github.com/mitigation-controller/mitc)|Mitigation Controller (MitC): an automated risk-mitigation tool for construction projects.|2|0|2021-09-14|
 |138|[rowg/hfrprogs](https://github.com/rowg/hfrprogs)|Programs for analysis and visualization of oceanographic HF radar data|10|0|2021-10-07|
-|139|[wichmann-lab/psignifit](https://github.com/wichmann-lab/psignifit)|Toolbox for Bayesian inference for psychometric functions|47|0|2021-11-12|
+|139|[wichmann-lab/psignifit](https://github.com/wichmann-lab/psignifit)|Toolbox for Bayesian inference for psychometric functions|48|0|2021-11-12|
 |140|[hehesjtu/TF-Trajactory-Filter-based-Low-Light-Denoising](https://github.com/hehesjtu/TF-Trajactory-Filter-based-Low-Light-Denoising)|This is the Matlab source code of method related to "Trajectory Filter-based Denoising."|2|0|2021-08-12|
 |141|[marrlab/BaSiC](https://github.com/marrlab/BaSiC)|A BaSiC Tool for Background and Shading Correction of Optical Microscopy Images|21|0|2021-12-16|
 |142|[alexandrosdhimas/kuka_path_planning_rmrc](https://github.com/alexandrosdhimas/kuka_path_planning_rmrc)|Analytical solution to forward/inverse kinematics of robot manipulator, path planning using RMRC Algorithm|2|0|2021-09-14|
@@ -186,7 +186,7 @@
 |179|[boranzhao/robust_ccm_tube](https://github.com/boranzhao/robust_ccm_tube)|-|2|0|2021-09-12|
 |180|[RuwangJiao/CEI](https://github.com/RuwangJiao/CEI)| A complete expected improvement criterion for Gaussian process assisted highly constrained expensive optimization|2|0|2021-09-29|
 |181|[ImranNust/Spring2021_DSP_BS_EE](https://github.com/ImranNust/Spring2021_DSP_BS_EE)|Lecture Notes and MATLAB codes for Digital Signal Processing.|3|0|2021-08-04|
-|182|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|20|0|2021-12-16|
+|182|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|22|0|2021-12-16|
 |183|[EIN-lab/CHIPS](https://github.com/EIN-lab/CHIPS)|CHIPS, or Cellular and Hemodynamic Image Processing Suite, is an open-source MATLAB toolbox designed to analyse functional images of cells and blood vessels, primarily from two-photon microscopy.  Ple ...|14|0|2021-10-13|
 |184|[rajibd2k/GW_beamformer](https://github.com/rajibd2k/GW_beamformer)|-|2|0|2021-07-27|
 |185|[LinaZhuang/Hy-demosaicing](https://github.com/LinaZhuang/Hy-demosaicing)|A blind hyperspectral reconstruction technique termed hyperspectral demosaicing (Hy-demosaicing) exploiting spectral low-rankness and spatial correlation of hyperspectral images.|2|0|2021-09-13|

@@ -1,56 +1,56 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > TeX
-<sub>Updated: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15046|2022-01-03|
-|2|[HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)|Latex code for making neural networks diagrams|14389|2021-10-04|
-|3|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9071|2021-11-05|
-|4|[soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|Classical equations and diagrams in machine learning|5257|2021-11-11|
-|5|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4965|2021-12-15|
-|6|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4631|2022-01-03|
-|7|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|3778|2021-12-19|
-|8|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3625|2022-01-04|
-|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3572|2021-12-30|
-|10|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3296|2021-12-04|
-|11|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2684|2021-11-24|
-|12|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2474|2021-10-29|
-|13|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2172|2021-11-20|
-|14|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|1753|2021-12-29|
-|15|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|1624|2022-01-04|
-|16|[xdanaux/moderncv](https://github.com/xdanaux/moderncv)|A modern curriculum vitae class for LaTeX|1441|2021-12-14|
-|17|[gpoore/minted](https://github.com/gpoore/minted)|minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.|1430|2021-12-24|
+|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15053|2022-01-03|
+|2|[HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)|Latex code for making neural networks diagrams|14395|2022-01-05|
+|3|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9075|2021-11-05|
+|4|[soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|Classical equations and diagrams in machine learning|5258|2021-11-11|
+|5|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4968|2021-12-15|
+|6|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4635|2022-01-03|
+|7|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|3779|2021-12-19|
+|8|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3626|2022-01-04|
+|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3574|2021-12-30|
+|10|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3297|2021-12-04|
+|11|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2685|2021-11-24|
+|12|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2480|2021-10-29|
+|13|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2173|2021-11-20|
+|14|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|1755|2021-12-29|
+|15|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|1626|2022-01-05|
+|16|[xdanaux/moderncv](https://github.com/xdanaux/moderncv)|A modern curriculum vitae class for LaTeX|1442|2021-12-14|
+|17|[gpoore/minted](https://github.com/gpoore/minted)|minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.|1431|2021-12-24|
 |18|[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)|Introduction to Autonomous Robots|1360|2021-12-02|
-|19|[latex3/latex3](https://github.com/latex3/latex3)|The LaTeX3 Development Repository|1358|2021-12-30|
+|19|[latex3/latex3](https://github.com/latex3/latex3)|The LaTeX3 Development Repository|1359|2021-12-30|
 |20|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1282|2022-01-02|
-|21|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1219|2021-12-27|
-|22|[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume)|The Markdown Resume|1203|2021-11-29|
+|21|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1220|2021-12-27|
+|22|[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume)|The Markdown Resume|1205|2021-11-29|
 |23|[latex3/latex2e](https://github.com/latex3/latex2e)|The LaTeX2e kernel|1095|2022-01-03|
-|24|[rstudio/rticles](https://github.com/rstudio/rticles)|LaTeX Journal Article Templates for R Markdown|1087|2022-01-03|
-|25|[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv)|A Nice-looking CV template made into LaTeX|1082|2021-12-15|
-|26|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1078|2021-12-31|
-|27|[cosmos/cosmos](https://github.com/cosmos/cosmos)|Internet of Blockchains ⚛  |1037|2021-12-05|
-|28|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1013|2021-12-08|
+|24|[rstudio/rticles](https://github.com/rstudio/rticles)|LaTeX Journal Article Templates for R Markdown|1087|2022-01-05|
+|25|[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv)|A Nice-looking CV template made into LaTeX|1083|2021-12-15|
+|26|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1082|2021-12-31|
+|27|[cosmos/cosmos](https://github.com/cosmos/cosmos)|Internet of Blockchains ⚛  |1038|2021-12-05|
+|28|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1016|2021-12-08|
 |29|[rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template)|LaTeX package to typeset material for the fifth edition of the "world's greatest roleplaying game".|1011|2021-09-10|
 |30|[AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)|LaTeX-template for russian Phd thesis|1000|2021-12-09|
-|31|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|955|2021-10-03|
+|31|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|956|2021-10-03|
 |32|[strib/scigen](https://github.com/strib/scigen)|An automatic paper generator|918|2021-11-30|
 |33|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|907|2021-12-19|
 |34|[jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)|A selection of state-of-the-art research materials on trajectory prediction|830|2021-12-10|
-|35|[josephwright/beamer](https://github.com/josephwright/beamer)|A LaTeX class for producing presentations and slides|822|2022-01-01|
+|35|[josephwright/beamer](https://github.com/josephwright/beamer)|A LaTeX class for producing presentations and slides|823|2022-01-01|
 |36|[liantze/AltaCV](https://github.com/liantze/AltaCV)|Yet another alternative curriculum vitae/résumé class with LaTeX|804|2022-01-04|
 |37|[CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|783|2021-12-14|
-|38|[BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications)|Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com|747|2021-12-24|
+|38|[BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications)|Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com|748|2021-12-24|
 |39|[Qiskit/openqasm](https://github.com/Qiskit/openqasm)|Quantum assembly language for extended quantum circuits|741|2022-01-04|
 |40|[xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)|Drawing Bayesian networks, graphical models, tensors, and technical frameworks and illustrations in LaTeX.|726|2021-12-22|
-|41|[IsaacChanghau/DL-NLP-Readings](https://github.com/IsaacChanghau/DL-NLP-Readings)|My Reading Lists of Deep Learning and Natural Language Processing|715|2021-12-10|
-|42|[BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)|Best Current Practices regarding secure online communication and configuration of services using cryptography.|701|2021-09-27|
-|43|[dspinellis/latex-advice](https://github.com/dspinellis/latex-advice)|Advice for writing LaTeX documents|699|2021-10-20|
-|44|[dalcde/cam-notes](https://github.com/dalcde/cam-notes)|My Cambridge Lecture Notes|687|2021-10-24|
-|45|[pgf-tikz/pgf](https://github.com/pgf-tikz/pgf)|A Portable Graphic Format for TeX|668|2021-12-31|
-|46|[midas-network/COVID-19](https://github.com/midas-network/COVID-19)|2019 novel coronavirus repository|642|2022-01-03|
+|41|[IsaacChanghau/DL-NLP-Readings](https://github.com/IsaacChanghau/DL-NLP-Readings)|My Reading Lists of Deep Learning and Natural Language Processing|716|2021-12-10|
+|42|[BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)|Best Current Practices regarding secure online communication and configuration of services using cryptography.|702|2021-09-27|
+|43|[dspinellis/latex-advice](https://github.com/dspinellis/latex-advice)|Advice for writing LaTeX documents|700|2021-10-20|
+|44|[dalcde/cam-notes](https://github.com/dalcde/cam-notes)|My Cambridge Lecture Notes|688|2021-10-24|
+|45|[pgf-tikz/pgf](https://github.com/pgf-tikz/pgf)|A Portable Graphic Format for TeX|668|2022-01-05|
+|46|[midas-network/COVID-19](https://github.com/midas-network/COVID-19)|2019 novel coronavirus repository|642|2022-01-04|
 |47|[anishathalye/gemini](https://github.com/anishathalye/gemini)|Gemini is a modern LaTex beamerposter theme 🖼|640|2021-12-25|
 |48|[kourgeorge/arxiv-style](https://github.com/kourgeorge/arxiv-style)|A Latex style and template for paper preprints (based on NIPS style)|637|2021-11-03|
 |49|[darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)|YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.|624|2021-10-05|
@@ -58,44 +58,44 @@
 |51|[corkami/docs](https://github.com/corkami/docs)|documentations, slides decks...|619|2021-12-19|
 |52|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|614|2021-12-12|
 |53|[ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)|Elegant LaTeX Template for Notes|611|2021-12-08|
-|54|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|609|2021-11-16|
+|54|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|610|2021-11-16|
 |55|[google/cluster-data](https://github.com/google/cluster-data)|Borg cluster traces from Google|584|2021-10-22|
-|56|[stacks/stacks-project](https://github.com/stacks/stacks-project)|Repository for the Stacks Project|571|2022-01-04|
+|56|[stacks/stacks-project](https://github.com/stacks/stacks-project)|Repository for the Stacks Project|571|2022-01-05|
 |57|[vEnhance/napkin](https://github.com/vEnhance/napkin)|An Infinitely Large Napkin|560|2021-12-21|
-|58|[suchow/Dissertate](https://github.com/suchow/Dissertate)|Beautiful LaTeX dissertation templates.|555|2021-12-31|
+|58|[suchow/Dissertate](https://github.com/suchow/Dissertate)|Beautiful LaTeX dissertation templates.|556|2021-12-31|
 |59|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|549|2021-12-30|
-|60|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|539|2021-10-15|
-|61|[cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl)|Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. ...|508|2022-01-03|
+|60|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|541|2021-10-15|
+|61|[cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl)|Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. ...|507|2022-01-03|
 |62|[jez/pandoc-starter](https://github.com/jez/pandoc-starter)|📄 My pandoc markdown templates and makefiles|473|2021-07-11|
-|63|[samtools/hts-specs](https://github.com/samtools/hts-specs)|Specifications of SAM/BAM and related high-throughput sequencing file formats|468|2021-12-16|
+|63|[samtools/hts-specs](https://github.com/samtools/hts-specs)|Specifications of SAM/BAM and related high-throughput sequencing file formats|469|2022-01-05|
 |64|[jennybc/happy-git-with-r](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|460|2022-01-04|
-|65|[alobbs/macchanger](https://github.com/alobbs/macchanger)|GNU MAC Changer|446|2021-08-23|
+|65|[alobbs/macchanger](https://github.com/alobbs/macchanger)|GNU MAC Changer|447|2021-08-23|
 |66|[BNFC/bnfc](https://github.com/BNFC/bnfc)|BNF Converter|437|2022-01-04|
-|67|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|429|2021-12-27|
-|68|[cosmos/ibc](https://github.com/cosmos/ibc)|Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.|422|2022-01-03|
-|69|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|421|2021-12-12|
+|67|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|431|2021-12-27|
+|68|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|422|2021-12-12|
+|69|[cosmos/ibc](https://github.com/cosmos/ibc)|Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.|421|2022-01-03|
 |70|[vlsergey/infosec](https://github.com/vlsergey/infosec)|Учебное пособие по защите информации кафедры радиотехники и систем управления МФТИ|415|2021-12-25|
-|71|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|406|2021-12-21|
+|71|[TBD54566975/white-paper](https://github.com/TBD54566975/white-paper)|-|407|2021-12-21|
 |72|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|397|2021-12-21|
-|73|[mrzool/letter-boilerplate](https://github.com/mrzool/letter-boilerplate)|Finest letter typesetting from the command line|391|2021-10-31|
+|73|[mrzool/letter-boilerplate](https://github.com/mrzool/letter-boilerplate)|Finest letter typesetting from the command line|392|2021-10-31|
 |74|[opieters/limecv](https://github.com/opieters/limecv)|A LaTeX CV Document Class|383|2021-11-30|
 |75|[borisveytsman/acmart](https://github.com/borisveytsman/acmart)|ACM consolidated LaTeX styles|382|2021-12-06|
 |76|[CasperVector/pkuthss](https://github.com/CasperVector/pkuthss)|LaTeX template for dissertations in Peking University|368|2021-12-27|
-|77|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|362|2022-01-04|
+|77|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|364|2022-01-04|
 |78|[beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh)|Chinese translation for "Free Software, Free Society"(3rd)|352|2021-12-25|
 |79|[ftilmann/latexdiff](https://github.com/ftilmann/latexdiff)|Compares two latex files and marks up significant differences between them. Releases on www.ctan.org and mirrors|350|2022-01-02|
 |80|[plk/biblatex](https://github.com/plk/biblatex)|biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8|349|2021-12-31|
-|81|[huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|340|2021-07-20|
-|82|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|340|2021-10-29|
+|81|[huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|341|2021-07-20|
+|82|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|341|2021-10-29|
 |83|[bamos/cv](https://github.com/bamos/cv)|My YAML cv and resume.|338|2021-12-22|
 |84|[joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis)|A LaTeX template for academic monographs (e.g., PhD thesis and MSc dissertations). This template serves both beginners and proficient LaTeX users.|325|2022-01-04|
 |85|[rntz/datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|318|2021-12-10|
 |86|[elauksap/focus-beamertheme](https://github.com/elauksap/focus-beamertheme)| Focus: a minimalist presentation theme for LaTeX Beamer.|316|2021-12-28|
 |87|[deselaers/latex-beamerposter](https://github.com/deselaers/latex-beamerposter)|The LaTeX beamerposter package|316|2021-12-13|
 |88|[NCIC-PARALLEL/GSWITCH-tool](https://github.com/NCIC-PARALLEL/GSWITCH-tool)|-|314|2021-07-22|
-|89|[FlamingTempura/bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy)|Cleaner and Formatter for BibTeX files|303|2022-01-04|
+|89|[FlamingTempura/bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy)|Cleaner and Formatter for BibTeX files|304|2022-01-05|
 |90|[bootlin/training-materials](https://github.com/bootlin/training-materials)|Bootlin embedded Linux and kernel training materials|302|2021-12-20|
-|91|[IBM/AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)|A package that makes it trivial to create and evaluate machine learning pipeline architectures.|288|2021-12-13|
+|91|[IBM/AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)|A package that makes it trivial to create and evaluate machine learning pipeline architectures.|289|2021-12-13|
 |92|[firamath/firamath](https://github.com/firamath/firamath)|Sans-serif font with Unicode math support|287|2021-12-21|
 |93|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|276|2021-11-20|
 |94|[esl/erlang-handbook](https://github.com/esl/erlang-handbook)|A concise reference for Erlang|273|2021-12-17|
@@ -103,13 +103,13 @@
 |96|[jethrokuan/braindump](https://github.com/jethrokuan/braindump)|knowledge repository managed with org-mode and org-roam.|269|2021-11-25|
 |97|[plk/biber](https://github.com/plk/biber)|Backend processor for BibLaTeX|267|2021-12-31|
 |98|[BIT-thesis/LaTeX-template](https://github.com/BIT-thesis/LaTeX-template)|LaTeX template for BIT thesis|265|2021-11-01|
-|99|[riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec)|Working Draft of the RISC-V Debug Specification Standard|264|2021-12-29|
+|99|[riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec)|Working Draft of the RISC-V Debug Specification Standard|265|2021-12-29|
 |100|[fsharp/fsfoundation](https://github.com/fsharp/fsfoundation)|The F# Software Foundation website|259|2021-12-18|
-|101|[udacity/rl-cheatsheet](https://github.com/udacity/rl-cheatsheet)|RL Notation and Pseudocode for Udacity's MLND program|257|2021-10-25|
-|102|[jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source)|The open-sourced version of the award-winning Qiqqa research management tool for Windows|256|2021-12-07|
+|101|[jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source)|The open-sourced version of the award-winning Qiqqa research management tool for Windows|257|2021-12-07|
+|102|[udacity/rl-cheatsheet](https://github.com/udacity/rl-cheatsheet)|RL Notation and Pseudocode for Udacity's MLND program|257|2021-10-25|
 |103|[circuitikz/circuitikz](https://github.com/circuitikz/circuitikz)|CircuiTikZ TeX/LaTeX package for drawing circuits |254|2021-12-06|
 |104|[kspalaiologos/malbolge-lisp](https://github.com/kspalaiologos/malbolge-lisp)|A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.|252|2021-12-23|
-|105|[josephwright/siunitx](https://github.com/josephwright/siunitx)|A comprehensive (SI) units package for LaTeX|245|2022-01-04|
+|105|[josephwright/siunitx](https://github.com/josephwright/siunitx)|A comprehensive (SI) units package for LaTeX|245|2022-01-05|
 |106|[mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book)|Text describing xv6 on RISC-V|243|2021-10-05|
 |107|[MISP/misp-training](https://github.com/MISP/misp-training)|MISP trainings, threat intel and information sharing training materials with source code|234|2021-12-27|
 |108|[edsomjr/TEP](https://github.com/edsomjr/TEP)|Material da disciplina Tópicos Especiais em Programação|231|2021-11-25|
@@ -122,12 +122,12 @@
 |115|[jameslzhu/riscv-card](https://github.com/jameslzhu/riscv-card)|An unofficial assembly reference for RISC-V.|213|2021-10-28|
 |116|[NCIC-PARALLEL/GSWITCH-SDK](https://github.com/NCIC-PARALLEL/GSWITCH-SDK)|-|212|2021-07-22|
 |117|[huangxg/lnotes](https://github.com/huangxg/lnotes)|LaTeX Notes|209|2021-10-25|
-|118|[scunning1975/mixtape](https://github.com/scunning1975/mixtape)|Data and Program files for Causal Inference: The Mixtape|207|2022-01-02|
-|119|[Paperist/texlive-ja](https://github.com/Paperist/texlive-ja)|The minimal TeXLive Docker image for Japanese|203|2021-12-21|
-|120|[jzarnett/ece459](https://github.com/jzarnett/ece459)|ECE 459: Programming for Performance|203|2021-12-16|
+|118|[scunning1975/mixtape](https://github.com/scunning1975/mixtape)|Data and Program files for Causal Inference: The Mixtape|208|2022-01-02|
+|119|[jzarnett/ece459](https://github.com/jzarnett/ece459)|ECE 459: Programming for Performance|206|2021-12-16|
+|120|[Paperist/texlive-ja](https://github.com/Paperist/texlive-ja)|The minimal TeXLive Docker image for Japanese|203|2021-12-21|
 |121|[ryankeleti/ega](https://github.com/ryankeleti/ega)|amateur translation project of Grothendieck's EGA.|196|2021-12-31|
 |122|[paulmckrcu/perfbook](https://github.com/paulmckrcu/perfbook)|Is Parallel Programming Hard, And If So, What Can You Do About It?|196|2022-01-01|
-|123|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|195|2021-12-23|
+|123|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|195|2022-01-05|
 |124|[Gekkio/gb-ctr](https://github.com/Gekkio/gb-ctr)|Game Boy: Complete Technical Reference|195|2021-08-21|
 |125|[snowleopard/selective](https://github.com/snowleopard/selective)|Selective Applicative Functors: Declare Your Effects Statically, Select Which to Execute Dynamically|193|2021-12-04|
 |126|[wspr/unicode-math](https://github.com/wspr/unicode-math)|XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts|191|2021-12-27|
@@ -143,9 +143,9 @@
 |136|[kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh)|Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.|173|2021-08-14|
 |137|[sebischair/bbse](https://github.com/sebischair/bbse)|Lecture slides "Blockchain-based Systems Engineering"|172|2021-10-20|
 |138|[gvwilson/teachtogether.tech](https://github.com/gvwilson/teachtogether.tech)|Teaching Tech Together|172|2021-12-11|
-|139|[snowleopard/alga-paper](https://github.com/snowleopard/alga-paper)|A minimalistic, elegant and powerful approach to working with graphs in a functional programming language|172|2021-09-20|
-|140|[scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)|Tools used to generate the SciPy conference proceedings|172|2021-08-01|
-|141|[teuder/rcpp4everyone_en](https://github.com/teuder/rcpp4everyone_en)|Rcpp for everyone|171|2021-07-08|
+|139|[teuder/rcpp4everyone_en](https://github.com/teuder/rcpp4everyone_en)|Rcpp for everyone|172|2021-07-08|
+|140|[snowleopard/alga-paper](https://github.com/snowleopard/alga-paper)|A minimalistic, elegant and powerful approach to working with graphs in a functional programming language|172|2021-09-20|
+|141|[scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)|Tools used to generate the SciPy conference proceedings|172|2021-08-01|
 |142|[nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs)|An easy and convenient package to create technical LaTeX documents.|171|2021-11-17|
 |143|[Foundations-of-Applied-Mathematics/Labs](https://github.com/Foundations-of-Applied-Mathematics/Labs)|Labs for the Foundations of Applied Mathematics curriculum.|170|2021-08-23|
 |144|[anishathalye/auriga](https://github.com/anishathalye/auriga)|Auriga is a minimalist LaTeX beamer presentation theme 📽|169|2021-09-02|
@@ -159,11 +159,11 @@
 |152|[jzarnett/ece252](https://github.com/jzarnett/ece252)|ECE 252: Systems Programming and Concurrency |153|2021-10-06|
 |153|[nrnrnr/noweb](https://github.com/nrnrnr/noweb)|The noweb tool for literate programming|152|2021-11-05|
 |154|[software-tools-books/js4ds](https://github.com/software-tools-books/js4ds)|JavaScript for Data Science|150|2021-11-30|
-|155|[openbmc/docs](https://github.com/openbmc/docs)|OpenBMC Documentation|148|2022-01-04|
-|156|[iml-wg/HEPML-LivingReview](https://github.com/iml-wg/HEPML-LivingReview)|Living Review of Machine Learning for Particle Physics|147|2022-01-03|
-|157|[lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template)|Markdown templates for Pandoc|147|2021-12-07|
-|158|[libretro/docs](https://github.com/libretro/docs)|This is a repo of the RetroArch official document page.|143|2022-01-03|
-|159|[reutenauer/polyglossia](https://github.com/reutenauer/polyglossia)|An alternative to Babel for XeLaTeX and LuaLaTeX|142|2021-12-29|
+|155|[iml-wg/HEPML-LivingReview](https://github.com/iml-wg/HEPML-LivingReview)|Living Review of Machine Learning for Particle Physics|149|2022-01-05|
+|156|[openbmc/docs](https://github.com/openbmc/docs)|OpenBMC Documentation|148|2022-01-05|
+|157|[lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template)|Markdown templates for Pandoc|148|2021-12-07|
+|158|[libretro/docs](https://github.com/libretro/docs)|This is a repo of the RetroArch official document page.|143|2022-01-05|
+|159|[reutenauer/polyglossia](https://github.com/reutenauer/polyglossia)|An alternative to Babel for XeLaTeX and LuaLaTeX|142|2022-01-05|
 |160|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|141|2021-12-28|
 |161|[Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis)|Hagenberg LaTeX Thesis Template|141|2021-08-22|
 |162|[eddelbuettel/pinp](https://github.com/eddelbuettel/pinp)|Pinp Is Not PNAS -- Two-Column PDF Template|140|2021-11-21|
@@ -171,8 +171,8 @@
 |164|[swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)|Minimalist alternatives to "best practices" paper|138|2021-11-10|
 |165|[Open-Astrophysics-Bookshelf/numerical_exercises](https://github.com/Open-Astrophysics-Bookshelf/numerical_exercises)|An introduction to numerical methods for astrophysical hydrodynamics|138|2021-12-20|
 |166|[partiql/partiql-spec](https://github.com/partiql/partiql-spec)|The language specification of PartiQL.|136|2021-08-18|
-|167|[PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)|A highly customizable and improved version of Carmine Spagnuolo's Twenty Seconds Curriculum Vitae.|134|2021-12-25|
-|168|[gboeing/cv](https://github.com/gboeing/cv)|Geoff Boeing's academic CV in LaTeX|133|2022-01-03|
+|167|[PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)|A highly customizable and improved version of Carmine Spagnuolo's Twenty Seconds Curriculum Vitae.|136|2021-12-25|
+|168|[gboeing/cv](https://github.com/gboeing/cv)|Geoff Boeing's academic CV in LaTeX|134|2022-01-03|
 |169|[aras62/vision-based-prediction](https://github.com/aras62/vision-based-prediction)|Deep Learning for Vision-based Prediction|132|2021-10-12|
 |170|[tudace/tuda_latex_templates](https://github.com/tudace/tuda_latex_templates)|LaTeX Templates for TU Darmstadt|132|2021-12-08|
 |171|[wg030/jlcode](https://github.com/wg030/jlcode)|A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.|132|2021-09-14|
@@ -190,17 +190,17 @@
 |183|[oasis-tcs/virtio-spec](https://github.com/oasis-tcs/virtio-spec)|OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee|122|2021-12-21|
 |184|[UCL/ucl-latex-thesis-templates](https://github.com/UCL/ucl-latex-thesis-templates)|UCL LaTeX thesis templates.|122|2021-12-17|
 |185|[jschauma/cs631apue](https://github.com/jschauma/cs631apue)|Stevens Institute of Technology - CS631 Advanced Programming in the UNIX Environment|120|2021-12-26|
-|186|[twjudson/aata](https://github.com/twjudson/aata)|Public repository for Abstact Algebra Theory and Applications|118|2021-12-31|
+|186|[twjudson/aata](https://github.com/twjudson/aata)|Public repository for Abstact Algebra Theory and Applications|118|2022-01-05|
 |187|[pypest/pyemu](https://github.com/pypest/pyemu)|python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++)|116|2021-12-22|
 |188|[T-F-S/tcolorbox](https://github.com/T-F-S/tcolorbox)|A LaTeX package to create highly customizable colored boxes.|114|2022-01-02|
-|189|[greenelab/covid19-review](https://github.com/greenelab/covid19-review)|A collaborative review of the emerging COVID-19 literature. Join the chat here: |113|2022-01-04|
-|190|[mitdbg/fastdeepnets](https://github.com/mitdbg/fastdeepnets)|-|112|2021-10-21|
-|191|[samcarter/tikzducks](https://github.com/samcarter/tikzducks)|A latex package for ducks|112|2021-12-31|
-|192|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|111|2021-11-04|
-|193|[ElementsProject/scriptless-scripts](https://github.com/ElementsProject/scriptless-scripts)|Documentation about scriptless scripts|110|2021-12-09|
-|194|[d-koppenhagen/latex-rechnung](https://github.com/d-koppenhagen/latex-rechnung)|Eine LaTeX-Rechnungsvorlage.|110|2021-09-05|
-|195|[leouieda/cv](https://github.com/leouieda/cv)|A LaTeX template for academic CVs|110|2021-12-18|
-|196|[epiforecasts/covid](https://github.com/epiforecasts/covid)|Temporal variation in transmission during the COVID-19 outbreak|109|2022-01-04|
+|189|[greenelab/covid19-review](https://github.com/greenelab/covid19-review)|A collaborative review of the emerging COVID-19 literature. Join the chat here: |113|2022-01-05|
+|190|[leouieda/cv](https://github.com/leouieda/cv)|A LaTeX template for academic CVs|113|2022-01-05|
+|191|[mitdbg/fastdeepnets](https://github.com/mitdbg/fastdeepnets)|-|112|2021-10-21|
+|192|[samcarter/tikzducks](https://github.com/samcarter/tikzducks)|A latex package for ducks|112|2021-12-31|
+|193|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|111|2021-11-04|
+|194|[ElementsProject/scriptless-scripts](https://github.com/ElementsProject/scriptless-scripts)|Documentation about scriptless scripts|110|2021-12-09|
+|195|[d-koppenhagen/latex-rechnung](https://github.com/d-koppenhagen/latex-rechnung)|Eine LaTeX-Rechnungsvorlage.|110|2021-09-05|
+|196|[epiforecasts/covid](https://github.com/epiforecasts/covid)|Temporal variation in transmission during the COVID-19 outbreak|109|2022-01-05|
 |197|[alexeygumirov/pandoc-beamer-how-to](https://github.com/alexeygumirov/pandoc-beamer-how-to)|-|108|2021-12-20|
 |198|[schnorr/infufrgs](https://github.com/schnorr/infufrgs)|Latex templates for documents of INF/UFRGS|108|2021-08-02|
 |199|[SLAM-future/slam-future](https://github.com/SLAM-future/slam-future)|-|107|2021-09-04|
