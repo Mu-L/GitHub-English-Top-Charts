@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7535|2022-01-04|2021-03-07|
+|1|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7538|2022-01-04|2021-03-07|
 |2|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|1901|2022-01-02|2021-06-29|
 |3|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|1839|2022-01-04|2021-04-11|
 |4|[folke/trouble.nvim](https://github.com/folke/trouble.nvim)|🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.|1174|2021-12-31|2021-04-21|
@@ -62,49 +62,149 @@
 |55|[Diverto/nse-log4shell](https://github.com/Diverto/nse-log4shell)|Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)|298|2021-12-20|2021-12-12|
 |56|[CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim)|CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!|296|2022-01-04|2021-10-19|
 |57|[jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim)|Draw ASCII diagrams in Neovim|276|2021-10-19|2021-06-01|
-|58|[oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)|Make neovim the best note taking application|274|2021-12-11|2021-01-01|
-|59|[ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)|The superior project management solution for neovim.|270|2021-11-06|2021-08-02|
-|60|[yosamrath/kyoto.nvim](https://github.com/yosamrath/kyoto.nvim)|kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration|264|2021-12-09|2021-05-26|
-|61|[VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim)|A NeoVim config for THE ULTIMATE vim IDE-like experience.|263|2022-01-02|2021-03-16|
-|62|[rose-pine/neovim](https://github.com/rose-pine/neovim)|Soho vibes for Neovim|261|2022-01-04|2021-05-18|
-|63|[folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim)|💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.|259|2022-01-03|2021-05-19|
-|64|[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)|Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support|256|2022-01-04|2021-05-14|
-|65|[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)|Neovim plugin to improve the default vim.ui interfaces|252|2021-12-23|2021-12-03|
-|66|[ray-x/go.nvim](https://github.com/ray-x/go.nvim)|Modern Go development plugin for Neovim, based on nvim-lsp, treesitter and Dap.|252|2021-12-29|2021-03-10|
-|67|[NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim)|A fast Neovim http client written in Lua|250|2021-12-31|2021-05-05|
-|68|[tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)|Visual Git Plugin for Neovim|245|2022-01-03|2021-04-22|
-|69|[nacro90/numb.nvim](https://github.com/nacro90/numb.nvim)|Peek lines just when you intend|243|2021-07-12|2021-04-05|
-|70|[mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)|An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.|243|2022-01-02|2021-02-14|
-|71|[folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim)|🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.|242|2021-10-22|2021-04-23|
-|72|[goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)|a lua powered greeter like vim-startify / dashboard-nvim|240|2022-01-03|2021-09-01|
-|73|[windwp/windline.nvim](https://github.com/windwp/windline.nvim)|Animation statusline, floating window statusline. Use lua + luv make some wind|238|2021-12-28|2021-05-14|
-|74|[weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu)|Pop-up menu for code actions to show meta-information and diff preview|236|2021-12-19|2021-09-26|
-|75|[nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim)|A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.|232|2021-12-27|2021-01-17|
-|76|[sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim)|A generic and modular lua sidebar for Neovim|231|2021-12-20|2021-08-07|
-|77|[lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim)|Treesitter powered spellchecker|224|2021-12-28|2021-02-21|
-|78|[rmagatti/goto-preview](https://github.com/rmagatti/goto-preview)|A small Neovim plugin for previewing definitions using floating windows.|213|2021-12-25|2021-06-07|
-|79|[beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim)|Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!|213|2021-12-18|2021-02-12|
-|80|[vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)|A Lua API for using fzf in neovim.|213|2021-10-25|2021-01-02|
-|81|[abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)|tabout plugin for neovim|210|2021-12-15|2021-07-23|
-|82|[Elttob/Fusion](https://github.com/Elttob/Fusion)|A modern reactive UI library, built specifically for Roblox and Luau.|210|2022-01-04|2021-06-20|
-|83|[swxy/NoPixelServer](https://github.com/swxy/NoPixelServer)|NoPixel Full Server Files working |207|2021-10-30|2021-01-17|
-|84|[terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment)|A comment toggler for Neovim, written in Lua|206|2022-01-04|2021-02-09|
-|85|[ecosse3/nvim](https://github.com/ecosse3/nvim)|A non-minimal Neovim config built to work most efficiently with React, JavaScript & TypeScript frameworks.|201|2022-01-02|2021-03-12|
-|86|[edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)|👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.|198|2021-11-14|2021-04-01|
-|87|[luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim)|Neovim plugin to stabilize window open/close events.|196|2021-12-22|2021-10-18|
-|88|[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)|One Dark Theme for Neovim >= 0.5.0 written in lua based on Atom's One Dark UI Theme. Additionally, it comes with 5 color variant styles|195|2022-01-01|2021-05-09|
-|89|[edluffy/specs.nvim](https://github.com/edluffy/specs.nvim)|👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.|194|2021-11-12|2021-03-14|
-|90|[Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim)|🦆 A NeoVim plugin for managing several debuggers for Nvim-dap|191|2022-01-04|2021-06-01|
-|91|[yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons)|Icon set using nonicons for neovim plugins and settings|189|2021-12-06|2021-03-11|
-|92|[andweeb/presence.nvim](https://github.com/andweeb/presence.nvim)|Discord Rich Presence for Neovim|188|2021-11-14|2021-01-03|
-|93|[VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim)|Enter ex-commands in a nice floating input.|183|2022-01-01|2021-11-19|
-|94|[mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim)|Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.|183|2021-12-28|2021-05-30|
-|95|[steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim)|Auto pair plugin for neovim|183|2021-06-01|2021-04-05|
-|96|[Stephan-S/FS22_AutoDrive](https://github.com/Stephan-S/FS22_AutoDrive)|FS22 version of the AutoDrive mod|182|2022-01-04|2021-11-19|
-|97|[alt3kx/CVE-2021-21985_PoC](https://github.com/alt3kx/CVE-2021-21985_PoC)|-|181|2021-06-03|2021-05-29|
-|98|[savq/melange](https://github.com/savq/melange)|🗡️ Warm color scheme for Neovim and beyond|179|2021-12-08|2021-02-07|
-|99|[ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome)|Custom AwesomeWM Theme|179|2021-11-19|2021-02-07|
-|100|[chentau/marks.nvim](https://github.com/chentau/marks.nvim)|A better user experience for viewing and interacting with Vim marks.|175|2021-12-28|2021-10-08|
+|58|[ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)|The superior project management solution for neovim.|270|2021-11-06|2021-08-02|
+|59|[yosamrath/kyoto.nvim](https://github.com/yosamrath/kyoto.nvim)|kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration|264|2021-12-09|2021-05-26|
+|60|[VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim)|A NeoVim config for THE ULTIMATE vim IDE-like experience.|263|2022-01-02|2021-03-16|
+|61|[rose-pine/neovim](https://github.com/rose-pine/neovim)|Soho vibes for Neovim|261|2022-01-04|2021-05-18|
+|62|[folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim)|💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.|259|2022-01-03|2021-05-19|
+|63|[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)|Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support|256|2022-01-04|2021-05-14|
+|64|[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)|Neovim plugin to improve the default vim.ui interfaces|252|2021-12-23|2021-12-03|
+|65|[ray-x/go.nvim](https://github.com/ray-x/go.nvim)|Modern Go development plugin for Neovim, based on nvim-lsp, treesitter and Dap.|252|2021-12-29|2021-03-10|
+|66|[NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim)|A fast Neovim http client written in Lua|250|2021-12-31|2021-05-05|
+|67|[tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)|Visual Git Plugin for Neovim|245|2022-01-03|2021-04-22|
+|68|[nacro90/numb.nvim](https://github.com/nacro90/numb.nvim)|Peek lines just when you intend|243|2021-07-12|2021-04-05|
+|69|[mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)|An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.|243|2022-01-02|2021-02-14|
+|70|[folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim)|🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.|242|2021-10-22|2021-04-23|
+|71|[goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)|a lua powered greeter like vim-startify / dashboard-nvim|240|2022-01-03|2021-09-01|
+|72|[windwp/windline.nvim](https://github.com/windwp/windline.nvim)|Animation statusline, floating window statusline. Use lua + luv make some wind|238|2021-12-28|2021-05-14|
+|73|[weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu)|Pop-up menu for code actions to show meta-information and diff preview|236|2021-12-19|2021-09-26|
+|74|[nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim)|A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.|232|2021-12-27|2021-01-17|
+|75|[sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim)|A generic and modular lua sidebar for Neovim|231|2021-12-20|2021-08-07|
+|76|[lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim)|Treesitter powered spellchecker|224|2021-12-28|2021-02-21|
+|77|[rmagatti/goto-preview](https://github.com/rmagatti/goto-preview)|A small Neovim plugin for previewing definitions using floating windows.|213|2021-12-25|2021-06-07|
+|78|[beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim)|Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!|213|2021-12-18|2021-02-12|
+|79|[abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)|tabout plugin for neovim|210|2021-12-15|2021-07-23|
+|80|[Elttob/Fusion](https://github.com/Elttob/Fusion)|A modern reactive UI library, built specifically for Roblox and Luau.|210|2022-01-04|2021-06-20|
+|81|[swxy/NoPixelServer](https://github.com/swxy/NoPixelServer)|NoPixel Full Server Files working |207|2021-10-30|2021-01-17|
+|82|[terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment)|A comment toggler for Neovim, written in Lua|206|2022-01-04|2021-02-09|
+|83|[ecosse3/nvim](https://github.com/ecosse3/nvim)|A non-minimal Neovim config built to work most efficiently with React, JavaScript & TypeScript frameworks.|201|2022-01-02|2021-03-12|
+|84|[edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)|👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.|198|2021-11-14|2021-04-01|
+|85|[luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim)|Neovim plugin to stabilize window open/close events.|196|2021-12-22|2021-10-18|
+|86|[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)|One Dark Theme for Neovim >= 0.5.0 written in lua based on Atom's One Dark UI Theme. Additionally, it comes with 5 color variant styles|195|2022-01-01|2021-05-09|
+|87|[edluffy/specs.nvim](https://github.com/edluffy/specs.nvim)|👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.|194|2021-11-12|2021-03-14|
+|88|[Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim)|🦆 A NeoVim plugin for managing several debuggers for Nvim-dap|191|2022-01-04|2021-06-01|
+|89|[yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons)|Icon set using nonicons for neovim plugins and settings|189|2021-12-06|2021-03-11|
+|90|[VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim)|Enter ex-commands in a nice floating input.|183|2022-01-01|2021-11-19|
+|91|[mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim)|Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.|183|2021-12-28|2021-05-30|
+|92|[Stephan-S/FS22_AutoDrive](https://github.com/Stephan-S/FS22_AutoDrive)|FS22 version of the AutoDrive mod|182|2022-01-04|2021-11-19|
+|93|[savq/melange](https://github.com/savq/melange)|🗡️ Warm color scheme for Neovim and beyond|179|2021-12-08|2021-02-07|
+|94|[ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome)|Custom AwesomeWM Theme|179|2021-11-19|2021-02-07|
+|95|[chentau/marks.nvim](https://github.com/chentau/marks.nvim)|A better user experience for viewing and interacting with Vim marks.|175|2021-12-28|2021-10-08|
+|96|[qbcore-framework/qb-core](https://github.com/qbcore-framework/qb-core)|FiveM RP Framework Core :muscle:|169|2022-01-04|2021-04-03|
+|97|[shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles)|Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming|169|2021-12-17|2021-02-13|
+|98|[ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim)|Neovim's missing IDE features|168|2022-01-04|2021-11-17|
+|99|[ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)|-|166|2022-01-04|2021-04-01|
+|100|[LionC/nest.nvim](https://github.com/LionC/nest.nvim)|-|163|2021-12-25|2021-08-14|
+|101|[brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua)|My Neovim configuration with Lua|156|2022-01-02|2021-05-29|
+|102|[vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim)|✍️ All the npm/yarn commands I don't want to type|150|2022-01-04|2021-08-01|
+|103|[eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim)|Another attempt of a flat Gruvbox theme for Neovim |149|2021-09-18|2021-05-24|
+|104|[tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim)|A clean dark theme written in lua for neovim 0.5.|148|2021-12-31|2021-04-20|
+|105|[danymat/neogen](https://github.com/danymat/neogen)|A better annotation generator. Supports multiple languages and annotation conventions.|146|2021-12-08|2021-08-15|
+|106|[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)|nvim-cmp source for neovim builtin LSP client|145|2022-01-04|2021-07-26|
+|107|[GossiTheDog/scanning](https://github.com/GossiTheDog/scanning)|-|145|2021-08-09|2021-03-02|
+|108|[hythloday/VenturePlanSoDMissions](https://github.com/hythloday/VenturePlanSoDMissions)|Addon to bring VenturePlan up to date with the 9.1 missions|137|2021-12-01|2021-07-15|
+|109|[RRethy/nvim-base16](https://github.com/RRethy/nvim-base16)|Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.|137|2021-12-02|2021-03-12|
+|110|[Saecki/crates.nvim](https://github.com/Saecki/crates.nvim)|A neovim plugin that helps managing crates.io dependencies|136|2022-01-04|2021-08-24|
+|111|[Manas140/dotfiles](https://github.com/Manas140/dotfiles)|Dotfiles|136|2021-12-12|2021-05-31|
+|112|[haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt)|Virtual text context for neovim treesitter|134|2022-01-03|2021-04-24|
+|113|[filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim)|VS Code-like renaming UI for Neovim, writen in Lua.|131|2022-01-03|2021-09-17|
+|114|[Pocco81/HighStr.nvim](https://github.com/Pocco81/HighStr.nvim)|🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!|131|2021-08-17|2021-05-22|
+|115|[NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)|Neovim configuration switcher written in Lua. Inspired by chemacs.|131|2021-09-01|2021-05-21|
+|116|[rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim)|🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.|130|2022-01-02|2021-10-17|
+|117|[ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile)|My Awesomewm dotfile|129|2021-10-29|2021-09-22|
+|118|[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)|Delete Neovim buffers without losing window layout|128|2021-12-18|2021-05-25|
+|119|[ful1e5/onedark.nvim](https://github.com/ful1e5/onedark.nvim)|Atom's iconic One Dark theme for Neovim, written in Lua|127|2022-01-02|2021-06-13|
+|120|[mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper)|Region selection with hints on the AST nodes of a document powered by treesitter|126|2021-12-20|2021-06-13|
+|121|[tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim)|A plugin for setting Neovim LSP with JSON files|126|2021-12-30|2021-03-21|
+|122|[tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim)|A modern lightweight statusline and bufferline for neovim in lua. Mainly uses unicode symbols for showing info.|122|2021-12-27|2021-04-12|
+|123|[aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim)|tmux integration for nvim features pane movement and resizing from within nvim.|121|2021-12-21|2021-06-19|
+|124|[renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim)|A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim|120|2022-01-02|2021-11-21|
+|125|[sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim)|Rearrange your windows with ease.|120|2021-11-15|2021-09-13|
+|126|[jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic)|:genie: Pluggable framework for using AI code assistance in Neovim|117|2021-11-21|2021-09-11|
+|127|[Pocco81/AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim)|🦴 A NeoVim plugin for saving your work before the world collapses or you type :qa!|117|2021-12-14|2021-07-01|
+|128|[lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim)|Neovim plugin for lspcontainers.|117|2022-01-03|2021-05-05|
+|129|[olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim)|🎨 One Dark Pro for Neovim with dark and light themes. Completely customisable colors, styles and highlights. Written in Lua|117|2021-12-29|2021-04-07|
+|130|[b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)|🗺 A better way to create key mappings in Neovim.|116|2021-11-22|2021-08-27|
+|131|[VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim)|Start your search from a more comfortable place, say the upper right corner?|115|2022-01-02|2021-11-23|
+|132|[lvim-tech/lvim](https://github.com/lvim-tech/lvim)|LVIM IDE is a modular Neovim configuration written in LUA with full customization.|114|2022-01-01|2021-04-17|
+|133|[overextended/ox_inventory](https://github.com/overextended/ox_inventory)|Overextended Inventory for ESX Legacy|114|2022-01-04|2021-04-08|
+|134|[tjdevries/astronauta.nvim](https://github.com/tjdevries/astronauta.nvim)|You now feel at home traveling to the moon|114|2021-11-09|2021-01-25|
+|135|[folke/persistence.nvim](https://github.com/folke/persistence.nvim)|💾  Simple session management for Neovim|113|2021-12-24|2021-07-02|
+|136|[Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim)|Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code|113|2022-01-03|2021-05-19|
+|137|[luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim)|File manager for Neovim powered by nnn.|112|2021-12-23|2021-09-30|
+|138|[numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)|:sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:|112|2021-11-18|2021-04-03|
+|139|[ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua)|-|110|2022-01-04|2021-07-02|
+|140|[luizrenault/a-29b-community](https://github.com/luizrenault/a-29b-community)|DCS World A-29B Module|110|2021-11-23|2021-01-28|
+|141|[narate/form-register-api](https://github.com/narate/form-register-api)|High performance form register API |109|2021-07-18|2021-07-18|
+|142|[noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline)|:nose: A Neovim bufferline for people with addictive personalities|109|2022-01-01|2021-04-29|
+|143|[petertriho/cmp-git](https://github.com/petertriho/cmp-git)|Git source for nvim-cmp|108|2021-11-29|2021-10-24|
+|144|[nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)|File Browser extension for telescope.nvim|107|2022-01-04|2021-11-13|
+|145|[jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind)|Debug adapter for Neovim plugins|107|2021-10-26|2021-03-23|
+|146|[b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim)|A Neovim Lua plugin providing access to the SchemaStore catalog.|106|2022-01-03|2021-10-07|
+|147|[max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim)|Escape from insert mode without delay when typing|106|2021-12-21|2021-09-14|
+|148|[lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim)|This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`|106|2021-11-29|2021-09-09|
+|149|[lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg)|ripgrep source for nvim-cmp|105|2021-12-09|2021-10-26|
+|150|[lazytanuki/nvim-mapper](https://github.com/lazytanuki/nvim-mapper)|A neovim plugin that helps you keep track of your keymaps.|104|2021-08-16|2021-07-26|
+|151|[AaronJackson/vrn-docker](https://github.com/AaronJackson/vrn-docker)|:whale: Docker files for Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression |104|2021-10-17|2021-04-08|
+|152|[David-Kunz/vim](https://github.com/David-Kunz/vim)|-|102|2021-12-02|2021-01-09|
+|153|[hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path)|nvim-cmp source for path|101|2021-12-30|2021-08-03|
+|154|[alpha2phi/dotfiles](https://github.com/alpha2phi/dotfiles)|Repository of dot files.|101|2022-01-03|2021-01-22|
+|155|[code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits)|A neovim port of Assorted Biscuits. Ends up with more supported languages too.|99|2021-11-12|2021-03-28|
+|156|[saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip)|luasnip completion source for nvim-cmp|98|2022-01-02|2021-08-09|
+|157|[matbme/JABS.nvim](https://github.com/matbme/JABS.nvim)|Just Another Buffer Switcher for Neovim|97|2021-10-06|2021-05-30|
+|158|[David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit)|A Neovim plugin to deal with treesitter units|95|2021-09-12|2021-08-21|
+|159|[alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim)|Tabline lua plugin for neovim|95|2021-12-05|2021-07-05|
+|160|[gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)|Populate the quickfix with json entries|95|2021-12-03|2021-03-04|
+|161|[beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua)|A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!|95|2021-09-28|2021-01-31|
+|162|[gilzoide/godot-lua-pluginscript](https://github.com/gilzoide/godot-lua-pluginscript)|Godot PluginScript for the Lua language, currently based on LuaJIT's FFI|94|2021-12-23|2021-07-26|
+|163|[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)|nvim-cmp source for buffer words|93|2022-01-04|2021-08-03|
+|164|[winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim)|An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.|93|2021-08-03|2021-05-15|
+|165|[kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim)|A "buffer and tab" tabline for neovim|92|2021-12-15|2021-07-30|
+|166|[winston0410/commented.nvim](https://github.com/winston0410/commented.nvim)|Neovim commenting plugin in Lua. Support operator, motions and more than 60 languages! :fire:|92|2021-11-14|2021-05-29|
+|167|[tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim)|Monokai theme for Neovim written in Lua.|92|2021-10-06|2021-03-09|
+|168|[nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim)|A minimal, configurable, neovim style tabline. Use your nvim tabs as workspace multiplexer.|91|2021-11-17|2021-09-24|
+|169|[rmagatti/session-lens](https://github.com/rmagatti/session-lens)|A session-switcher extension for rmagatti/auto-session using Telescope.nvim|91|2021-10-12|2021-04-17|
+|170|[letoram/pipeworld](https://github.com/letoram/pipeworld)|Dataflow 'spreadsheet' desktop environment|91|2021-12-04|2021-04-12|
+|171|[yashguptaz/calvera-dark.nvim](https://github.com/yashguptaz/calvera-dark.nvim)|Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins|90|2021-12-23|2021-07-06|
+|172|[righel/gitlab-version-nse](https://github.com/righel/gitlab-version-nse)|Nmap script to guess* a GitLab version. |89|2021-12-29|2021-11-07|
+|173|[pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim)|Yet Another Build System/Code Runner for Neovim, written in lua|88|2021-12-11|2021-05-02|
+|174|[ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim)|Neovim Lua plugin to paste image from clipboard.|88|2021-12-29|2021-01-12|
+|175|[ZhooL/FS22_EnhancedVehicle](https://github.com/ZhooL/FS22_EnhancedVehicle)|FS22. Farming Simulator 22. LS22. Landwirtschafts Simulator 22. Track assistant, parking brake, differential locks, wheel drive modes and better hydraulics controls for your vehicle. Shows more vehicl ...|87|2022-01-04|2021-11-17|
+|176|[CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim)|The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow|85|2021-11-02|2021-04-26|
+|177|[brymer-meneses/grammar-guard.nvim](https://github.com/brymer-meneses/grammar-guard.nvim)|Grammar Guard is a Neovim plugin that checks your grammar as you write your LaTeX, Markdown or plain text document.|84|2022-01-03|2021-08-28|
+|178|[monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim)|OneDark NeoVim theme written in Lua|84|2021-11-28|2021-05-23|
+|179|[fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)|coc.nvim integration for telescope.nvim|84|2022-01-04|2021-04-15|
+|180|[anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall)|-|84|2021-07-23|2021-01-06|
+|181|[Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim)|Dracula colorscheme for neovim written in Lua|83|2022-01-04|2021-06-03|
+|182|[tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim)|Some ideas that I'm playing around with for sourcegraph|83|2022-01-03|2021-02-19|
+|183|[tzachar/cmp-tabnine](https://github.com/tzachar/cmp-tabnine)|TabNine plugin for hrsh7th/nvim-cmp|82|2021-12-28|2021-08-11|
+|184|[ray-x/nvim](https://github.com/ray-x/nvim)|Blazing fast neovim setup with 120 plugins.|80|2021-12-29|2021-05-09|
+|185|[ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace)|A Lua rewrite of vim-lastplace|80|2021-10-27|2021-05-02|
+|186|[famiu/nvim-reload](https://github.com/famiu/nvim-reload)|Plugin to easily reload your Neovim config|80|2021-07-08|2021-04-19|
+|187|[albingroen/quick.nvim](https://github.com/albingroen/quick.nvim)|A very fast Lua based Neovim configuration that uses coc.nvim for intellisense|78|2021-12-31|2021-10-29|
+|188|[MrJakeSir/dots](https://github.com/MrJakeSir/dots)|My personal dotfiles for my linux system|78|2021-11-13|2021-07-15|
+|189|[nikvdp/nvim-lsp-config](https://github.com/nikvdp/nvim-lsp-config)|-|77|2021-12-31|2021-05-21|
+|190|[NobleRobot/NobleEngine](https://github.com/NobleRobot/NobleEngine)|A li'l game engine for Playdate.|77|2021-09-03|2021-03-17|
+|191|[jose-elias-alvarez/buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim)|A low-config, minimalistic buffer tabline Neovim plugin written in Lua.|77|2021-11-26|2021-03-06|
+|192|[ahmedkhalf/lsp-rooter.nvim](https://github.com/ahmedkhalf/lsp-rooter.nvim)|lsp-rooter.nvim is a neovim plugin written in lua to change the current working directory to the project's root directory automagically using nvim native lsp.|76|2021-08-13|2021-05-20|
+|193|[Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager)|A simple wrapper around :mksession|76|2021-12-10|2021-04-17|
+|194|[hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline)|nvim-cmp source for vim's cmdline|75|2021-12-28|2021-10-21|
+|195|[AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua)|Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.|74|2021-09-12|2021-03-23|
+|196|[startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim)|A highly configurable neovim startup screen|72|2021-12-29|2021-10-04|
+|197|[archibaldmilton/Girellu](https://github.com/archibaldmilton/Girellu)|Make Assetto Corsa suck less.|72|2022-01-04|2021-09-11|
+|198|[nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim)|🎨 Neovim colorscheme based on your xresources color|72|2021-11-23|2021-03-10|
+|199|[LandSandBoat/server](https://github.com/LandSandBoat/server)|:sailboat: LandSandBoat - a server emulator for Final Fantasy XI. Just an X-34 landspeeder out for a drive.|70|2022-01-04|2021-04-01|
+|200|[sunjon/extmark-toy.nvim](https://github.com/sunjon/extmark-toy.nvim)|Graphical experiments in Neovim|69|2021-09-07|2021-09-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

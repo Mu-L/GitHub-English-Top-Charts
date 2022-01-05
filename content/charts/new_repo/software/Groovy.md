@@ -57,22 +57,17 @@
 |50|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
 |51|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
 |52|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|2|2021-12-02|2021-06-30|
-|53|[sangukKang/ami-toolchain](https://github.com/sangukKang/ami-toolchain)|ami-toolchain|2|2021-06-29|2021-06-29|
-|54|[TudbuT/voter](https://github.com/TudbuT/voter)|N-Dimensional system to determine a party that fits you best|2|2021-06-11|2021-06-10|
-|55|[coolwho/JsDroid4Helper](https://github.com/coolwho/JsDroid4Helper)|-|2|2021-06-11|2021-06-09|
-|56|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-23|2021-05-26|
-|57|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
-|58|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|59|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|
-|60|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|61|[jongpie/advanced-SFDX-Jenkins-deployment](https://github.com/jongpie/advanced-SFDX-Jenkins-deployment)|-|2|2021-06-16|2021-04-16|
-|62|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
-|63|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
-|64|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
-|65|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
-|66|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2022-01-03|2021-02-05|
-|67|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
-|68|[taijipp/suroup](https://github.com/taijipp/suroup)|-|2|2021-06-10|2021-01-30|
+|53|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2021-12-23|2021-05-26|
+|54|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |2|2021-12-10|2021-05-08|
+|55|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
+|56|[m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator](https://github.com/m8475510/Jira-Cloud-Advanced-Roadmap-Group-By-Team-or-Assignee-Helper-Label-Generator)|-|2|2021-07-27|2021-04-22|
+|57|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|58|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|59|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
+|60|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2021-12-17|2021-02-16|
+|61|[malipio/copy-right](https://github.com/malipio/copy-right)|-|2|2021-12-09|2021-02-07|
+|62|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2022-01-03|2021-02-05|
+|63|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

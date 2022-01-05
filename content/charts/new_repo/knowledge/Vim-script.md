@@ -13,14 +13,13 @@
 |6|[marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq)|Master key for exiting/deleting vim buffers with respect to window splits and tabs.|9|2021-11-13|2021-06-12|
 |7|[wolverinn/Build-your-programming-skills](https://github.com/wolverinn/Build-your-programming-skills)|A learning road map for junior programmers focusing from basic to advanced technical skills|6|2022-01-04|2021-01-18|
 |8|[Yesid-Rodelo/nvim](https://github.com/Yesid-Rodelo/nvim)|Configuracion personal de NeoVim como IDE de desarrollo, configurado principalmente para desarrollo web con javascript, typescript, react y svelte, y configurado para desarrollo movil con Flutter. Cue ...|5|2021-11-17|2021-02-24|
-|9|[UltiRequiem/vim-compilers](https://github.com/UltiRequiem/vim-compilers)|:vhs: A collection of compilers for ready use by Vim's built-in compiler feature.|4|2021-06-05|2021-05-28|
-|10|[gabriel8fm/dotfiles](https://github.com/gabriel8fm/dotfiles)|Ansible playbook and role to install software that will be used to do my job|4|2021-09-17|2021-04-14|
-|11|[ruthrootz/learn-vim](https://github.com/ruthrootz/learn-vim)|steps for how I learned Vim|4|2021-11-09|2021-02-13|
-|12|[ashish10alex/system-setup](https://github.com/ashish10alex/system-setup)|My development environment and system setup guides|3|2021-11-23|2021-05-30|
-|13|[anddddrew/dot](https://github.com/anddddrew/dot)|☾ Dotfiles on my Macbook M1 Pro.|2|2021-12-03|2021-11-06|
-|14|[luizomf/nvim](https://github.com/luizomf/nvim)|Config files for neovim (just trying to learn a new thing)|2|2021-07-22|2021-06-29|
-|15|[fasterius/dotfiles](https://github.com/fasterius/dotfiles)|My personal collection of dotfiles.|2|2021-12-07|2021-04-23|
-|16|[AndrewRadev/rustbucket.vim](https://github.com/AndrewRadev/rustbucket.vim)|[WIP] A collection of Rust tools for Vim|2|2021-07-11|2021-02-12|
+|9|[gabriel8fm/dotfiles](https://github.com/gabriel8fm/dotfiles)|Ansible playbook and role to install software that will be used to do my job|4|2021-09-17|2021-04-14|
+|10|[ruthrootz/learn-vim](https://github.com/ruthrootz/learn-vim)|steps for how I learned Vim|4|2021-11-09|2021-02-13|
+|11|[ashish10alex/system-setup](https://github.com/ashish10alex/system-setup)|My development environment and system setup guides|3|2021-11-23|2021-05-30|
+|12|[anddddrew/dot](https://github.com/anddddrew/dot)|☾ Dotfiles on my Macbook M1 Pro.|2|2021-12-03|2021-11-06|
+|13|[luizomf/nvim](https://github.com/luizomf/nvim)|Config files for neovim (just trying to learn a new thing)|2|2021-07-22|2021-06-29|
+|14|[fasterius/dotfiles](https://github.com/fasterius/dotfiles)|My personal collection of dotfiles.|2|2021-12-07|2021-04-23|
+|15|[AndrewRadev/rustbucket.vim](https://github.com/AndrewRadev/rustbucket.vim)|[WIP] A collection of Rust tools for Vim|2|2021-07-11|2021-02-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

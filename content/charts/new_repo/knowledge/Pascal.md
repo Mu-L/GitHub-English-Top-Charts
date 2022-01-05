@@ -25,11 +25,9 @@
 |18|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|2021-09-16|2021-08-28|
 |19|[Pasquina/ResponsiveFiremonkeyStringGrid](https://github.com/Pasquina/ResponsiveFiremonkeyStringGrid)|How to make a string grid in a Firemonkey desktop application "responsive" when using Livebindings.|3|2021-07-19|2021-07-16|
 |20|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|3|2021-11-23|2021-06-16|
-|21|[tarithj/me_learning_pascal](https://github.com/tarithj/me_learning_pascal)|Me learning pascal|3|2021-06-02|2021-06-02|
-|22|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|2021-09-03|2021-05-08|
-|23|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2021-12-02|2021-03-08|
-|24|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|2021-07-25|
-|25|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|2|2021-07-04|2021-06-26|
+|21|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|2021-09-03|2021-05-08|
+|22|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2021-12-02|2021-03-08|
+|23|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2021-07-31|2021-07-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
