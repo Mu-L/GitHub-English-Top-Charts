@@ -2,5 +2,7 @@
 
 # Milestone
 
+- 2022-1-5
+  - Increased the number of rankings in each language to 200
 - 2021-12-19
   - Initial release
