@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Rust
-<sub>Updated: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2153|2021-12-14|2021-05-25|
-|2|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|500|2021-11-27|2021-04-16|
+|1|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2155|2021-12-14|2021-05-25|
+|2|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|502|2021-11-27|2021-04-16|
 |3|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|374|2021-08-18|2021-08-02|
-|4|[bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)|Concise Reference Book for the Bevy Game Engine|293|2021-12-24|2021-01-22|
+|4|[bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)|Concise Reference Book for the Bevy Game Engine|295|2022-01-06|2021-01-22|
 |5|[ekzhang/percival](https://github.com/ekzhang/percival)|📝 Web-based, reactive Datalog notebooks for data analysis and visualization|254|2022-01-04|2021-10-26|
 |6|[quarkslab/rewind](https://github.com/quarkslab/rewind)|Snapshot-based coverage-guided windows kernel fuzzer|190|2021-12-16|2021-07-08|
-|7|[espressif/rust-esp32-example](https://github.com/espressif/rust-esp32-example)|Example of Rust integration into an ESP-IDF project, for ESP32 series of chips|149|2021-10-12|2021-06-08|
+|7|[espressif/rust-esp32-example](https://github.com/espressif/rust-esp32-example)|Example of Rust integration into an ESP-IDF project, for ESP32 series of chips|150|2021-10-12|2021-06-08|
 |8|[emmanueltouzery/hotwire](https://github.com/emmanueltouzery/hotwire)|Hotwire allows you to study network traffic of a few popular protocols in a simple way|148|2022-01-02|2021-03-08|
 |9|[thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust)|The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson|135|2021-11-06|2021-07-02|
 |10|[jaywonchung/reason](https://github.com/jaywonchung/reason)|A shell for research papers|108|2021-12-31|2021-07-12|
@@ -22,24 +22,24 @@
 |15|[insou22/typing-the-technical-interview-rust](https://github.com/insou22/typing-the-technical-interview-rust)|https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust|88|2021-07-27|2021-07-25|
 |16|[second-state/dapr-wasm](https://github.com/second-state/dapr-wasm)|A template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr|86|2021-12-29|2021-08-11|
 |17|[Lutetium-Vanadium/requestty](https://github.com/Lutetium-Vanadium/requestty)|An easy-to-use collection of interactive cli prompts inspired by Inquirer.js.|81|2021-12-30|2021-05-01|
-|18|[opendp/opendp](https://github.com/opendp/opendp)|The core library of differential privacy algorithms powering the OpenDP Project.|75|2022-01-04|2021-02-06|
+|18|[opendp/opendp](https://github.com/opendp/opendp)|The core library of differential privacy algorithms powering the OpenDP Project.|75|2022-01-06|2021-02-06|
 |19|[kpcyrd/libredefender](https://github.com/kpcyrd/libredefender)|Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux|62|2021-12-19|2021-05-12|
 |20|[Timmmm/autorebase](https://github.com/Timmmm/autorebase)|Automatically rebase all your branches onto master|61|2021-12-17|2021-04-25|
-|21|[CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts)|Examples and helpers to build NFT contracts on CosmWasm|57|2022-01-05|2021-09-27|
+|21|[CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts)|Examples and helpers to build NFT contracts on CosmWasm|56|2022-01-06|2021-09-27|
 |22|[sidwellr/schotter](https://github.com/sidwellr/schotter)|Nannou/Rust tutorial based on Schotter by Georg Nees|46|2021-12-20|2021-05-22|
 |23|[Anexen/pyxirr](https://github.com/Anexen/pyxirr)|Rust-powered collection of financial functions for Python.|46|2021-12-05|2021-05-04|
-|24|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|42|2021-12-29|2021-12-16|
+|24|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a target process without using ptrace.|43|2021-12-29|2021-12-16|
 |25|[scrabsha/dep-doc](https://github.com/scrabsha/dep-doc)|Add a cute dependency declaration snippet in your crate documentation.|40|2021-11-22|2021-11-10|
 |26|[Psychedelic/dank](https://github.com/Psychedelic/dank)|Dank - The Internet Computer Decentralized Bank - A collection of Open Internet Services - Including the Cycles Token (XTC)|39|2022-01-04|2021-07-13|
 |27|[arkworks-rs/r1cs-tutorial](https://github.com/arkworks-rs/r1cs-tutorial)|Tutorial for writing constraints in the `arkworks` framework|36|2021-08-28|2021-04-21|
 |28|[rg3dengine/rg3d-tutorials](https://github.com/rg3dengine/rg3d-tutorials)|Source code of tutorials for rg3d game engine|36|2022-01-05|2021-03-05|
 |29|[rkudryashov/exploring-rust-ecosystem](https://github.com/rkudryashov/exploring-rust-ecosystem)|A set of examples that demonstrate how to create a backend application using Rust ecosystem|36|2021-12-18|2021-02-22|
 |30|[epilys/bitmappers-companion](https://github.com/epilys/bitmappers-companion)|zine/book about bitmap drawing algorithms and math with code examples in Rust|35|2022-01-04|2021-11-18|
-|31|[s1ck/graph](https://github.com/s1ck/graph)|A building block for high-performant graph algorithms.|35|2022-01-04|2021-06-11|
+|31|[s1ck/graph](https://github.com/s1ck/graph)|A building block for high-performant graph algorithms.|35|2022-01-06|2021-06-11|
 |32|[king-11/genx](https://github.com/king-11/genx)|Genx provides modular building blocks to run simulations of optimization and search problems using Genetic Algorithms |33|2021-12-06|2021-08-31|
 |33|[memgraph/example-streaming-app](https://github.com/memgraph/example-streaming-app)|An example repository on how to start building graph applications on streaming data. Just clone and start building 💻 💪|33|2021-10-26|2021-06-24|
-|34|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|30|2022-01-05|2021-11-17|
-|35|[CleanCut/ultimate_rust2](https://github.com/CleanCut/ultimate_rust2)|The best Intermediate Rust course out there!|29|2021-12-19|2021-06-13|
+|34|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|30|2022-01-06|2021-11-17|
+|35|[CleanCut/ultimate_rust2](https://github.com/CleanCut/ultimate_rust2)|The best Intermediate Rust course out there!|30|2021-12-19|2021-06-13|
 |36|[J-F-Liu/geom3d](https://github.com/J-F-Liu/geom3d)|Data structures and algorithms for 3D geometric modeling.|29|2021-07-23|2021-05-22|
 |37|[substrate-developer-hub/substrate-how-to-guides](https://github.com/substrate-developer-hub/substrate-how-to-guides)|Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides". |29|2021-10-10|2021-03-15|
 |38|[siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust)|P523 Course in Rust|28|2021-11-30|2021-10-09|
@@ -47,27 +47,28 @@
 |40|[Learn-Together-Pro/LearnRustTogether](https://github.com/Learn-Together-Pro/LearnRustTogether)|Let's learn Rust together|25|2021-12-16|2021-07-06|
 |41|[Byron/learning-rust-with-gitoxide](https://github.com/Byron/learning-rust-with-gitoxide)|Our sessions when learning Rust with gitoxide|22|2021-11-29|2021-10-08|
 |42|[webrtc-rs/examples](https://github.com/webrtc-rs/examples)|Examples of WebRTC.rs|21|2021-12-13|2021-10-09|
-|43|[EatTheFuture/image_tools](https://github.com/EatTheFuture/image_tools)|Eat the Future's collection of image/color tools.|20|2021-12-24|2021-09-14|
-|44|[digorithm/LC-3-Rust](https://github.com/digorithm/LC-3-Rust)|An LC-3 virtual machine written in Rust for learning purposes.|19|2021-09-01|2021-09-01|
-|45|[anishathalye/synox](https://github.com/anishathalye/synox)|Rust library for program synthesis of string transformations from input-output examples 🔮|19|2021-09-11|2021-06-29|
-|46|[arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs)|Rust courses for TypeScript developers|18|2021-10-27|2021-09-29|
-|47|[rodrigocfd/winsafe-examples](https://github.com/rodrigocfd/winsafe-examples)|Examples of native Windows applications written in Rust with WinSafe.|18|2022-01-01|2021-03-30|
-|48|[artempyanykh/shellmark](https://github.com/artempyanykh/shellmark)|Cross-platform bookmarks manager for your shell|18|2021-12-26|2021-01-30|
-|49|[vv9k/mdbook-man](https://github.com/vv9k/mdbook-man)|Generate manual pages from mdBooks!|17|2021-08-26|2021-08-22|
-|50|[programatik29/axum-tutorial](https://github.com/programatik29/axum-tutorial)|Axum web framework tutorial for beginners.|17|2021-12-03|2021-08-06|
-|51|[KDahir247/Fabled-Engine](https://github.com/KDahir247/Fabled-Engine)|Self Study on developing a game engine using wgpu as the rendering API. Learning as I go.|17|2022-01-02|2021-06-01|
-|52|[BlondeBurrito/hexagonal_pathfinding_astar](https://github.com/BlondeBurrito/hexagonal_pathfinding_astar)|An implementation of the A-Star pathfinding algorithm tailored for traversing a bespoke collection of weighted hexagons. It's intended to calculate the most optimal path to a target hexagon where you  ...|16|2022-01-03|2021-09-25|
-|53|[jakobwesthoff/the_ray_tracer_challenge_in_rust](https://github.com/jakobwesthoff/the_ray_tracer_challenge_in_rust)|Repository to follow my development of "The Raytracer Challenge" book by Jamis Buck in the language Rust|16|2021-12-10|2021-07-01|
-|54|[Blobfolio/refract](https://github.com/Blobfolio/refract)|A guided AVIF/JPEG XL/WebP conversion utility for JPEG and PNG sources.|16|2021-12-05|2021-04-04|
-|55|[cbisaillon/Scrypto-Advent-Calendar](https://github.com/cbisaillon/Scrypto-Advent-Calendar)|Scrypto Advent Calendar. Learn the new programming langage to build secure DeFi applications quickly.|15|2021-12-24|2021-11-28|
-|56|[utilForever/algorithm-rs](https://github.com/utilForever/algorithm-rs)|Common data structures and algorithms for competitive programming in Rust|15|2021-12-21|2021-11-24|
-|57|[ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security)|Curated list of awesome projects and resources related to Rust and computer security|15|2021-09-06|2021-05-24|
-|58|[lmammino/rust-advent](https://github.com/lmammino/rust-advent)|Learning Rust by solving advent of code challenges (Streaming live on Twitch every Monday)|15|2021-12-21|2021-02-01|
-|59|[thebracket/bevy-test](https://github.com/thebracket/bevy-test)|A quick and dirty Space Invaders type game in Bevy, with attached tutorial.|14|2021-08-11|2021-08-10|
-|60|[alexfertel/rust-algorithms](https://github.com/alexfertel/rust-algorithms)|Algorithms and Data Structures of all kinds written in Rust.|14|2021-11-14|2021-07-05|
-|61|[Rust-Web-Development/code](https://github.com/Rust-Web-Development/code)|Code for the book "Rust Web Development"|14|2021-11-23|2021-06-11|
-|62|[dpc/sniper](https://github.com/dpc/sniper)|Educational Rust implemenation of Auction Sniper from Growing Object-Oriented Software, Guided By Tests |12|2021-09-18|2021-08-19|
-|63|[kondanta/holdmybackup](https://github.com/kondanta/holdmybackup)|Learning Rust with writing interesting apps. This project can create and store your backups.|10|2021-12-04|2021-09-07|
+|43|[EatTheFuture/image_tools](https://github.com/EatTheFuture/image_tools)|Eat the Future's collection of image/color tools.|20|2022-01-05|2021-09-14|
+|44|[DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects)|Featured Dioxus projects on how to build clean user interfaces in Rust|19|2022-01-04|2021-12-29|
+|45|[digorithm/LC-3-Rust](https://github.com/digorithm/LC-3-Rust)|An LC-3 virtual machine written in Rust for learning purposes.|19|2021-09-01|2021-09-01|
+|46|[anishathalye/synox](https://github.com/anishathalye/synox)|Rust library for program synthesis of string transformations from input-output examples 🔮|19|2021-09-11|2021-06-29|
+|47|[arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs)|Rust courses for TypeScript developers|18|2021-10-27|2021-09-29|
+|48|[rodrigocfd/winsafe-examples](https://github.com/rodrigocfd/winsafe-examples)|Examples of native Windows applications written in Rust with WinSafe.|18|2022-01-01|2021-03-30|
+|49|[artempyanykh/shellmark](https://github.com/artempyanykh/shellmark)|Cross-platform bookmarks manager for your shell|18|2021-12-26|2021-01-30|
+|50|[vv9k/mdbook-man](https://github.com/vv9k/mdbook-man)|Generate manual pages from mdBooks!|17|2021-08-26|2021-08-22|
+|51|[programatik29/axum-tutorial](https://github.com/programatik29/axum-tutorial)|Axum web framework tutorial for beginners.|17|2021-12-03|2021-08-06|
+|52|[jakobwesthoff/the_ray_tracer_challenge_in_rust](https://github.com/jakobwesthoff/the_ray_tracer_challenge_in_rust)|Repository to follow my development of "The Raytracer Challenge" book by Jamis Buck in the language Rust|17|2021-12-10|2021-07-01|
+|53|[KDahir247/Fabled-Engine](https://github.com/KDahir247/Fabled-Engine)|Self Study on developing a game engine using wgpu as the rendering API. Learning as I go.|17|2022-01-02|2021-06-01|
+|54|[Blobfolio/refract](https://github.com/Blobfolio/refract)|A guided AVIF/JPEG XL/WebP conversion utility for JPEG and PNG sources.|17|2021-12-05|2021-04-04|
+|55|[BlondeBurrito/hexagonal_pathfinding_astar](https://github.com/BlondeBurrito/hexagonal_pathfinding_astar)|An implementation of the A-Star pathfinding algorithm tailored for traversing a bespoke collection of weighted hexagons. It's intended to calculate the most optimal path to a target hexagon where you  ...|16|2022-01-03|2021-09-25|
+|56|[cbisaillon/Scrypto-Advent-Calendar](https://github.com/cbisaillon/Scrypto-Advent-Calendar)|Scrypto Advent Calendar. Learn the new programming langage to build secure DeFi applications quickly.|15|2021-12-24|2021-11-28|
+|57|[utilForever/algorithm-rs](https://github.com/utilForever/algorithm-rs)|Common data structures and algorithms for competitive programming in Rust|15|2021-12-21|2021-11-24|
+|58|[ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security)|Curated list of awesome projects and resources related to Rust and computer security|15|2021-09-06|2021-05-24|
+|59|[lmammino/rust-advent](https://github.com/lmammino/rust-advent)|Learning Rust by solving advent of code challenges (Streaming live on Twitch every Monday)|15|2021-12-21|2021-02-01|
+|60|[thebracket/bevy-test](https://github.com/thebracket/bevy-test)|A quick and dirty Space Invaders type game in Bevy, with attached tutorial.|14|2021-08-11|2021-08-10|
+|61|[alexfertel/rust-algorithms](https://github.com/alexfertel/rust-algorithms)|Algorithms and Data Structures of all kinds written in Rust.|14|2021-11-14|2021-07-05|
+|62|[Rust-Web-Development/code](https://github.com/Rust-Web-Development/code)|Code for the book "Rust Web Development"|14|2021-11-23|2021-06-11|
+|63|[dpc/sniper](https://github.com/dpc/sniper)|Educational Rust implemenation of Auction Sniper from Growing Object-Oriented Software, Guided By Tests |12|2021-09-18|2021-08-19|
+|64|[kondanta/holdmybackup](https://github.com/kondanta/holdmybackup)|Learning Rust with writing interesting apps. This project can create and store your backups.|10|2021-12-04|2021-09-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
