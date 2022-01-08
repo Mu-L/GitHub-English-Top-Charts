@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Ruby
-<sub>Updated: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1897|2021-12-27|2021-04-11|
+|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1902|2021-12-27|2021-04-11|
 |2|[motor-admin/motor-admin](https://github.com/motor-admin/motor-admin)|Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.|992|2022-01-06|2021-08-06|
-|3|[rails/kredis](https://github.com/rails/kredis)|Higher-level data structures built on Redis|916|2021-12-20|2021-01-30|
-|4|[tenderlove/asmrepl](https://github.com/tenderlove/asmrepl)|A REPL for x86-64 assembly language|711|2021-12-07|2021-11-23|
+|3|[rails/kredis](https://github.com/rails/kredis)|Higher-level data structures built on Redis|917|2021-12-20|2021-01-30|
+|4|[tenderlove/asmrepl](https://github.com/tenderlove/asmrepl)|A REPL for x86-64 assembly language|712|2021-12-07|2021-11-23|
 |5|[charkost/prosopite](https://github.com/charkost/prosopite)|:mag: Rails N+1 queries auto-detection with zero false positives / false negatives|701|2021-12-19|2021-02-17|
-|6|[Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi)|A tool to automatically resolve Git conflicts that occur in Xcode project files|644|2022-01-03|2021-04-19|
+|6|[Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi)|A tool to automatically resolve Git conflicts that occur in Xcode project files|657|2022-01-03|2021-04-19|
 |7|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|642|2022-01-05|2021-06-22|
-|8|[rails/importmap-rails](https://github.com/rails/importmap-rails)|Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.|552|2022-01-07|2021-07-29|
+|8|[rails/importmap-rails](https://github.com/rails/importmap-rails)|Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.|553|2022-01-07|2021-07-29|
 |9|[havenweb/haven](https://github.com/havenweb/haven)|Self-hostable private blogging|413|2021-12-26|2021-01-19|
-|10|[ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby)|⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience|402|2022-01-06|2021-01-19|
+|10|[ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby)|⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience|404|2022-01-06|2021-01-19|
 |11|[hschne/rails-mini-profiler](https://github.com/hschne/rails-mini-profiler)|Performance profiling for Rails, made simple 🦔|359|2022-01-03|2021-04-23|
 |12|[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)|Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.|355|2021-12-21|2021-09-06|
 |13|[motor-admin/motor-admin-rails](https://github.com/motor-admin/motor-admin-rails)|Low-code Admin panel and Business intelligence Rails engine. No DSL - configurable from the UI.|310|2022-01-07|2021-03-04|
@@ -22,21 +22,21 @@
 |15|[BaseSecrete/active_analytics](https://github.com/BaseSecrete/active_analytics)|First-party, privacy-focused traffic analytics for Ruby on Rails applications.|279|2021-09-25|2021-03-04|
 |16|[hostolab/covidliste](https://github.com/hostolab/covidliste)|Speed-up Covid-19 vaccination campaigns 💉|266|2021-12-10|2021-04-01|
 |17|[tenderlove/fisk](https://github.com/tenderlove/fisk)|A pure Ruby assembler|255|2021-12-02|2021-02-24|
-|18|[rails/propshaft](https://github.com/rails/propshaft)|Deliver assets for Rails|253|2021-12-28|2021-09-18|
-|19|[knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl)|A homebrew tap for qemu with support for 3d accelerated guests|234|2021-12-27|2021-03-15|
+|18|[rails/propshaft](https://github.com/rails/propshaft)|Deliver assets for Rails|254|2021-12-28|2021-09-18|
+|19|[knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl)|A homebrew tap for qemu with support for 3d accelerated guests|237|2021-12-27|2021-03-15|
 |20|[basecamp/audits1984](https://github.com/basecamp/audits1984)|Auditing tool for Rails console sessions|182|2021-11-21|2021-08-10|
 |21|[renuo/turbo-showcase](https://github.com/renuo/turbo-showcase)|A showcase of turbo features|182|2022-01-07|2021-03-07|
 |22|[davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss)|The best RSS Search experience you can find|182|2021-12-15|2021-01-27|
-|23|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem to install and manage Kubernetes/k3s clusters in Hetzner Cloud.|158|2021-11-17|2021-08-07|
+|23|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem to install and manage Kubernetes/k3s clusters in Hetzner Cloud.|159|2022-01-08|2021-08-07|
 |24|[allmarkedup/lookbook](https://github.com/allmarkedup/lookbook)|A native development UI for ViewComponent |158|2022-01-06|2021-06-25|
 |25|[rails/esbuild-rails](https://github.com/rails/esbuild-rails)|Bundle and transpile JavaScript in Rails with esbuild|144|2021-09-06|2021-09-02|
 |26|[avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer)|RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.|141|2021-11-01|2021-08-06|
 |27|[jamesmoriarty/forward-proxy](https://github.com/jamesmoriarty/forward-proxy)|Minimal forward proxy using 150LOC and only standard libraries.|141|2021-08-31|2021-01-13|
-|28|[ankane/neighbor](https://github.com/ankane/neighbor)|Nearest neighbor search for Rails and Postgres|138|2021-12-16|2021-02-16|
-|29|[joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)|The reverse job board for Rails developers.|136|2022-01-07|2021-10-21|
-|30|[gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse)|gromgit's FUSE tap|128|2022-01-01|2021-01-10|
-|31|[amancevice/yake](https://github.com/amancevice/yake)|A Rake-like DSL for writing AWS Lambda handlers|125|2021-11-29|2021-04-26|
-|32|[messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains)|macOS cross compiler toolchains|125|2021-12-24|2021-02-28|
+|28|[joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)|The reverse job board for Rails developers.|138|2022-01-08|2021-10-21|
+|29|[ankane/neighbor](https://github.com/ankane/neighbor)|Nearest neighbor search for Rails and Postgres|138|2022-01-08|2021-02-16|
+|30|[gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse)|gromgit's FUSE tap|128|2022-01-08|2021-01-10|
+|31|[messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains)|macOS cross compiler toolchains|126|2021-12-24|2021-02-28|
+|32|[amancevice/yake](https://github.com/amancevice/yake)|A Rake-like DSL for writing AWS Lambda handlers|125|2021-11-29|2021-04-26|
 |33|[testdouble/time_up](https://github.com/testdouble/time_up)|⏱ Create and manage multiple timers to tell where your Ruby code's time is going|119|2021-07-24|2021-07-15|
 |34|[excid3/prefixed_ids](https://github.com/excid3/prefixed_ids)|Friendly Prefixed IDs for your Ruby on Rails models|111|2021-10-18|2021-02-17|
 |35|[mdominiak/hotwire-chat](https://github.com/mdominiak/hotwire-chat)|Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.|111|2021-10-12|2021-01-14|
@@ -45,9 +45,9 @@
 |38|[mame/sonny-boy-nankai](https://github.com/mame/sonny-boy-nankai)|A "nankai" program used in a Japanese anime television series "Sonny Boy"|104|2021-08-13|2021-08-13|
 |39|[apexatoll/cliptic](https://github.com/apexatoll/cliptic)|A terminal interface for fetching and playing daily cryptic crosswords|100|2021-10-01|2021-07-06|
 |40|[mike-bourgeous/mb-geometry](https://github.com/mike-bourgeous/mb-geometry)|Recreational Ruby tools for graphics and geometry.|93|2021-10-04|2021-04-11|
-|41|[Dandush03/pg_rls](https://github.com/Dandush03/pg_rls)|PostgreSQL Row Level Security, The Rails right way to do multitenancy|87|2021-10-30|2021-10-04|
+|41|[Dandush03/pg_rls](https://github.com/Dandush03/pg_rls)|PostgreSQL Row Level Security, The Rails right way to do multitenancy|91|2022-01-08|2021-10-04|
 |42|[AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui)|Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - No need to pre-install any prerequisites. Just install the gem and have platform-independent GUI that just works)|87|2022-01-06|2021-09-14|
-|43|[ruby/error_highlight](https://github.com/ruby/error_highlight)|The gem enhances Exception#message by adding a short explanation where the exception is raised|82|2022-01-04|2021-06-29|
+|43|[ruby/error_highlight](https://github.com/ruby/error_highlight)|The gem enhances Exception#message by adding a short explanation where the exception is raised|83|2022-01-04|2021-06-29|
 |44|[digital-fabric/extralite](https://github.com/digital-fabric/extralite)|An fast Ruby gem for working with SQLite3 databases|81|2021-12-30|2021-05-21|
 |45|[scala-open-letter/scala-open-letter.github.io](https://github.com/scala-open-letter/scala-open-letter.github.io)|-|81|2021-07-11|2021-04-27|
 |46|[testdouble/mocktail](https://github.com/testdouble/mocktail)|-|75|2021-12-23|2021-09-21|
@@ -80,11 +80,11 @@
 |73|[AndrewRadev/diffurcate.vim](https://github.com/AndrewRadev/diffurcate.vim)|Split a git diff into separate files|49|2021-10-17|2021-10-17|
 |74|[fractaledmind/acidic_job](https://github.com/fractaledmind/acidic_job)|Idempotent operations for Rails apps, built for ActiveJob or Sidekiq.|46|2021-12-05|2021-06-20|
 |75|[jasonfb/hot-glue](https://github.com/jasonfb/hot-glue)|Rapid scaffold builder for Turbo-Rails and Hotwire|46|2022-01-07|2021-02-23|
-|76|[leastbad/all_futures](https://github.com/leastbad/all_futures)|A Redis-backed virtual ActiveModel that makes building faceted search UIs a snap.|44|2022-01-07|2021-04-19|
+|76|[leastbad/all_futures](https://github.com/leastbad/all_futures)|A Redis-backed virtual ActiveModel that makes building faceted search UIs a snap.|44|2022-01-08|2021-04-19|
 |77|[IBM/data-science-best-practices](https://github.com/IBM/data-science-best-practices)|The goal of this repository is to enable data scientists and ML engineers to develop data science use cases and making it ready for production use. This means focusing on the versioning, scalability,  ...|43|2021-11-08|2021-05-03|
 |78|[Betterment/delayed](https://github.com/Betterment/delayed)|a multi-threaded, SQL-driven ActiveJob backend used at Betterment to process millions of background jobs per day|42|2021-12-16|2021-08-18|
 |79|[tombeynon/akash-deploy](https://github.com/tombeynon/akash-deploy)|Akash deploy UI and wallet management|42|2021-11-10|2021-03-25|
-|80|[meilisearch/meilisearch-rails](https://github.com/meilisearch/meilisearch-rails)|MeiliSearch integration for Ruby on Rails|42|2021-12-21|2021-02-12|
+|80|[meilisearch/meilisearch-rails](https://github.com/meilisearch/meilisearch-rails)|MeiliSearch integration for Ruby on Rails|42|2022-01-07|2021-02-12|
 |81|[tenderlove/defrost](https://github.com/tenderlove/defrost)|Never let pesky "frozen" objects get in your way again! Use Defrost to remove the frozen state from your objects!|39|2021-11-06|2021-11-06|
 |82|[wildmaples/minimal-ruby-project](https://github.com/wildmaples/minimal-ruby-project)|A minimal Ruby project template|39|2021-07-12|2021-07-07|
 |83|[kenaniah/sidekiq-status](https://github.com/kenaniah/sidekiq-status)|-|39|2021-09-24|2021-06-26|
@@ -105,13 +105,13 @@
 |98|[opensourcerails-org/site](https://github.com/opensourcerails-org/site)|Cataloged, analyzed, manually-curated open-source Rails projects directory.|33|2021-10-03|2021-08-26|
 |99|[testdouble/minitest-suite](https://github.com/testdouble/minitest-suite)|Re-order your Minitest suite into logical sub-suites/groups|33|2021-11-18|2021-07-31|
 |100|[opensearch-project/opensearch-ruby](https://github.com/opensearch-project/opensearch-ruby)|Ruby Client for OpenSearch|33|2022-01-03|2021-07-23|
-|101|[shafy/fugu](https://github.com/shafy/fugu)|Fugu is simple, privacy-friendly, open source and self-hostable product analytics. 🐡|33|2022-01-07|2021-06-18|
+|101|[shafy/fugu](https://github.com/shafy/fugu)|Fugu is simple, privacy-friendly, open source and self-hostable product analytics. 🐡|33|2022-01-08|2021-06-18|
 |102|[CasbinRuby/casbin-ruby](https://github.com/CasbinRuby/casbin-ruby)|An authorization library that supports access control models like ACL, RBAC, ABAC in Ruby|33|2021-09-09|2021-05-15|
 |103|[domchristie/tailwindcss-jit-rails](https://github.com/domchristie/tailwindcss-jit-rails)|An experiment with tailwindcss-jit and the asset pipeline|33|2021-10-15|2021-03-25|
 |104|[orbit-love/notion-ruby-client](https://github.com/orbit-love/notion-ruby-client)|A Ruby client for the Notion API|32|2021-08-29|2021-01-29|
 |105|[kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)|A sample app for Shopify's JWT integration with Hotwire Turbo|32|2022-01-06|2021-01-23|
 |106|[GlobalAppTesting/wipe_out](https://github.com/GlobalAppTesting/wipe_out)|Library for removing and clearing data in Rails ActiveRecord models.|31|2021-12-14|2021-07-08|
-|107|[joshdholtz/wassup](https://github.com/joshdholtz/wassup)|Easily scriptable terminal dashboard |30|2022-01-05|2021-12-01|
+|107|[joshdholtz/wassup](https://github.com/joshdholtz/wassup)|Easily scriptable terminal dashboard |30|2022-01-08|2021-12-01|
 |108|[alisnic/solargraph-arc](https://github.com/alisnic/solargraph-arc)|-|30|2021-12-21|2021-11-24|
 |109|[FIRHQ/sslguala-ce](https://github.com/FIRHQ/sslguala-ce)|-|30|2021-07-23|2021-07-19|
 |110|[ankane/breakout-ruby](https://github.com/ankane/breakout-ruby)|Breakout detection for Ruby|29|2021-10-22|2021-09-03|
@@ -125,7 +125,7 @@
 |118|[fastruby/dotenv_validator](https://github.com/fastruby/dotenv_validator)|This gem check if required env variables are present and its format using the .env and .env.sample files from Dotenv.|28|2021-12-03|2021-03-01|
 |119|[planetscale/planetscale-ruby](https://github.com/planetscale/planetscale-ruby)|Ruby client for PlanetScale databases|28|2021-12-09|2021-02-03|
 |120|[nimacpp/vector](https://github.com/nimacpp/vector)|Virus Ruby|27|2021-12-27|2021-07-13|
-|121|[restarone/violet_rails](https://github.com/restarone/violet_rails)|a Wordpress alternative for Ruby developers. Includes a CMS, blog, forum and email functionality for your next SaaS/XaaS project. Built with Devise, Sidekiq & PostgreSQL|27|2022-01-04|2021-04-03|
+|121|[restarone/violet_rails](https://github.com/restarone/violet_rails)|a Wordpress alternative for Ruby developers. Includes a CMS, blog, forum and email functionality for your next SaaS/XaaS project. Built with Devise, Sidekiq & PostgreSQL|27|2022-01-08|2021-04-03|
 |122|[ankane/immudb-ruby](https://github.com/ankane/immudb-ruby)|Ruby client for immudb, the immutable database|26|2022-01-02|2021-12-31|
 |123|[kddnewton/syntax_tree](https://github.com/kddnewton/syntax_tree)|A fast Ruby parser and formatter|26|2022-01-03|2021-11-16|
 |124|[q9f/ethereum-on-rails](https://github.com/q9f/ethereum-on-rails)|ethereum on rails (mvp): logging in a rails user using an ethereum account (metamask).|26|2021-11-10|2021-08-31|
@@ -133,12 +133,12 @@
 |126|[okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks)|Hook control for developers, by a developer|26|2021-12-26|2021-04-09|
 |127|[ParamagicDev/evil_systems](https://github.com/ParamagicDev/evil_systems)|An easy way to enhance your system tests with Rails and Capybara using EvilMartians System of a Test.|26|2021-11-27|2021-04-05|
 |128|[sec-it/pass-station](https://github.com/sec-it/pass-station)|CLI & library to search for default credentials among thousands of Products / Vendors|26|2021-07-22|2021-02-24|
-|129|[opensearch-project/logstash-output-opensearch](https://github.com/opensearch-project/logstash-output-opensearch)|A Logstash plugin that sends event data to a OpenSearch clusters and stores as an index.|25|2022-01-05|2021-06-14|
-|130|[CMDBrew/adminterface](https://github.com/CMDBrew/adminterface)|A gem that brings Bootstrap 5, advanced customizability, and other goodies into ActiveAdmin|25|2022-01-03|2021-06-10|
-|131|[makevoid/opensea-images-downloader](https://github.com/makevoid/opensea-images-downloader)|Script to download all the images from an opensea collection using the OpenSea API|24|2022-01-05|2021-10-09|
+|129|[makevoid/opensea-images-downloader](https://github.com/makevoid/opensea-images-downloader)|Script to download all the images from an opensea collection using the OpenSea API|25|2022-01-05|2021-10-09|
+|130|[opensearch-project/logstash-output-opensearch](https://github.com/opensearch-project/logstash-output-opensearch)|A Logstash plugin that sends event data to a OpenSearch clusters and stores as an index.|25|2022-01-05|2021-06-14|
+|131|[CMDBrew/adminterface](https://github.com/CMDBrew/adminterface)|A gem that brings Bootstrap 5, advanced customizability, and other goodies into ActiveAdmin|25|2022-01-03|2021-06-10|
 |132|[roshreview/derail_specs](https://github.com/roshreview/derail_specs)|A simple gem that makes it easy to write integration specs outside of the rails environment with transactional rollbacks. Useful for mobile apps, react, react-native, and the likes.|24|2021-10-20|2021-09-14|
 |133|[neko314/factory_strategist](https://github.com/neko314/factory_strategist)|-|23|2021-11-09|2021-08-22|
-|134|[ledermann/templatus](https://github.com/ledermann/templatus)|Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3|23|2022-01-07|2021-02-24|
+|134|[ledermann/templatus](https://github.com/ledermann/templatus)|Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3|23|2022-01-08|2021-02-24|
 |135|[ayushn21/maintenance_job](https://github.com/ayushn21/maintenance_job)|Mechanism to run testable one-off jobs in Rails at deploy time to manipulate data|22|2021-12-16|2021-10-25|
 |136|[hoppergee/multi-tenant-support](https://github.com/hoppergee/multi-tenant-support)|Build a highly secure, no data leak, multi-tenant rails app|22|2021-10-13|2021-09-24|
 |137|[joshmn/turbo_flash](https://github.com/joshmn/turbo_flash)|Automagically include your flash messages in your Ruby on Rails Hotwire TurboStream responses.|22|2021-07-23|2021-07-23|
@@ -168,16 +168,16 @@
 |161|[ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets)|-|20|2021-07-23|2021-06-29|
 |162|[coezbek/rodo](https://github.com/coezbek/rodo)|Rodo is a terminal-based todo manager written in Ruby|20|2021-10-31|2021-05-24|
 |163|[ko1/debug](https://github.com/ko1/debug)|-|20|2021-12-17|2021-04-07|
-|164|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|-|20|2022-01-07|2021-04-05|
+|164|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|-|20|2022-01-08|2021-04-05|
 |165|[fernandorpm/git-unfollower](https://github.com/fernandorpm/git-unfollower)|Git Unfollower is a simple app to find out who's not following you back on Github!|20|2021-11-17|2021-03-28|
 |166|[ericcj/amz_sp_api](https://github.com/ericcj/amz_sp_api)|AmzSpApi - Unofficial Ruby gem for the Selling Partner APIs (SP-API)|20|2021-09-24|2021-02-12|
 |167|[Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)|A cactus themed Flappy Bird implementation with Ruby's Gosu gem.|19|2022-01-06|2021-10-02|
 |168|[piotrmurach/minehunter](https://github.com/piotrmurach/minehunter)|Terminal mine hunting game.|19|2021-10-10|2021-08-01|
-|169|[ooa113y/umineko-catbox-english](https://github.com/ooa113y/umineko-catbox-english)|English translation patch for the Switch release of Umineko: When They Cry|19|2022-01-06|2021-05-30|
+|169|[ooa113y/umineko-catbox-english](https://github.com/ooa113y/umineko-catbox-english)|English translation patch for the Switch release of Umineko: When They Cry|19|2022-01-08|2021-05-30|
 |170|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|19|2021-10-20|2021-03-03|
 |171|[makerdao/dss-vest](https://github.com/makerdao/dss-vest)|-|19|2021-12-11|2021-01-26|
 |172|[ankane/active_kms](https://github.com/ankane/active_kms)|Simple, secure key management for Active Record encryption|18|2021-12-17|2021-12-15|
-|173|[Eric-Guo/tailwindcss-jit-stimulus](https://github.com/Eric-Guo/tailwindcss-jit-stimulus)|A template with Rails 7.0, Webpacker 6.0, TailwindCSS 3 and Stimulus 3.0|18|2022-01-05|2021-08-23|
+|173|[Eric-Guo/tailwindcss-jit-stimulus](https://github.com/Eric-Guo/tailwindcss-jit-stimulus)|A template with Rails 7.0, Webpacker 6.0, TailwindCSS 3 and Stimulus 3.0|18|2022-01-08|2021-08-23|
 |174|[bahadiraraz/ruby-tutorial](https://github.com/bahadiraraz/ruby-tutorial)|ruby dilinin türkçe dokümantasyonu|18|2021-09-30|2021-08-03|
 |175|[ChaelCodes/ConfBuddies](https://github.com/ChaelCodes/ConfBuddies)|An app to help you find and meet up with your buddies at conferences.|18|2022-01-02|2021-05-30|
 |176|[tomdalling/byebug-skipper](https://github.com/tomdalling/byebug-skipper)|Extra Byebug commands that skip garbage|18|2021-07-30|2021-05-27|
@@ -190,20 +190,20 @@
 |183|[jhang-jhe-wei/NTUST-Senior](https://github.com/jhang-jhe-wei/NTUST-Senior)|Using LINE Messaging and LINE Login to help freshman understand NTUST|17|2021-09-23|2021-05-21|
 |184|[kachick/ruby-ulid](https://github.com/kachick/ruby-ulid)|generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`|17|2021-12-26|2021-04-24|
 |185|[helphubteam/helphub](https://github.com/helphubteam/helphub)|Helphub system allows organizing charity fund infrastructure|17|2021-12-07|2021-04-09|
-|186|[bhserna/styler](https://github.com/bhserna/styler)|-|16|2021-12-13|2021-11-22|
-|187|[resoluteapp/resolute](https://github.com/resoluteapp/resolute)|📋 The ultimate reply-later tool.|16|2022-01-06|2021-11-11|
-|188|[core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow)|Alfred Workflow to update apps via MacUpdater|16|2021-10-29|2021-09-30|
-|189|[kvokka/dtn](https://github.com/kvokka/dtn)|Unofficial DTN (IQFeed) client.|16|2021-07-21|2021-05-21|
-|190|[elct9620/boxing](https://github.com/elct9620/boxing)|The zero-configuration Dockerfile generator for Ruby.|15|2022-01-05|2021-12-18|
-|191|[Qurasoft/teams_connector](https://github.com/Qurasoft/teams_connector)|Publish Cards to your Microsoft Teams channels directly from Ruby.|15|2021-12-08|2021-11-11|
-|192|[heyvito/docrb](https://github.com/heyvito/docrb)|📖 An opinionated documentation generator for Ruby |15|2021-10-24|2021-10-23|
-|193|[aktsk/simple_json](https://github.com/aktsk/simple_json)|A simple & fast view solution for Rails JSON rendering.|15|2021-11-09|2021-08-19|
-|194|[Simulation-Software-Engineering/homepage](https://github.com/Simulation-Software-Engineering/homepage)|Homepage of SSE lecture at University of Stuttgart|15|2021-12-16|2021-07-11|
-|195|[julianfssen/tweetkit](https://github.com/julianfssen/tweetkit)|Twitter v2 API client for Ruby|15|2021-12-31|2021-06-22|
-|196|[manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks)|Add [[wikilinks]] support for jekyll.|15|2021-12-13|2021-05-07|
-|197|[supabase-community/supabase-rb](https://github.com/supabase-community/supabase-rb)|An isomorphic Ruby client for Supabase.|15|2021-10-02|2021-05-01|
-|198|[luizkowalski/concurrent_rails](https://github.com/luizkowalski/concurrent_rails)|🕹 Small library to make concurrent-ruby and Rails play nice together|15|2022-01-04|2021-04-17|
-|199|[makandra/capybara-lockstep](https://github.com/makandra/capybara-lockstep)|Synchronize Capybara commands with application JavaScript and AJAX requests|15|2021-10-22|2021-03-02|
+|186|[makandra/capybara-lockstep](https://github.com/makandra/capybara-lockstep)|Synchronize Capybara commands with application JavaScript and AJAX requests|17|2021-10-22|2021-03-02|
+|187|[elct9620/boxing](https://github.com/elct9620/boxing)|The zero-configuration Dockerfile generator for Ruby.|16|2022-01-05|2021-12-18|
+|188|[bhserna/styler](https://github.com/bhserna/styler)|-|16|2021-12-13|2021-11-22|
+|189|[resoluteapp/resolute](https://github.com/resoluteapp/resolute)|📋 The ultimate reply-later tool.|16|2022-01-06|2021-11-11|
+|190|[core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow)|Alfred Workflow to update apps via MacUpdater|16|2021-10-29|2021-09-30|
+|191|[kvokka/dtn](https://github.com/kvokka/dtn)|Unofficial DTN (IQFeed) client.|16|2021-07-21|2021-05-21|
+|192|[Qurasoft/teams_connector](https://github.com/Qurasoft/teams_connector)|Publish Cards to your Microsoft Teams channels directly from Ruby.|15|2021-12-08|2021-11-11|
+|193|[heyvito/docrb](https://github.com/heyvito/docrb)|📖 An opinionated documentation generator for Ruby |15|2021-10-24|2021-10-23|
+|194|[aktsk/simple_json](https://github.com/aktsk/simple_json)|A simple & fast view solution for Rails JSON rendering.|15|2021-11-09|2021-08-19|
+|195|[Simulation-Software-Engineering/homepage](https://github.com/Simulation-Software-Engineering/homepage)|Homepage of SSE lecture at University of Stuttgart|15|2021-12-16|2021-07-11|
+|196|[julianfssen/tweetkit](https://github.com/julianfssen/tweetkit)|Twitter v2 API client for Ruby|15|2021-12-31|2021-06-22|
+|197|[manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks)|Add [[wikilinks]] support for jekyll.|15|2021-12-13|2021-05-07|
+|198|[supabase-community/supabase-rb](https://github.com/supabase-community/supabase-rb)|An isomorphic Ruby client for Supabase.|15|2021-10-02|2021-05-01|
+|199|[luizkowalski/concurrent_rails](https://github.com/luizkowalski/concurrent_rails)|🕹 Small library to make concurrent-ruby and Rails play nice together|15|2022-01-04|2021-04-17|
 |200|[omniploy/active_entry](https://github.com/omniploy/active_entry)|A flexible access control system for your Rails app|15|2021-09-12|2021-03-02|
 
 <div align="center">

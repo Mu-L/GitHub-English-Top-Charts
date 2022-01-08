@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Perl
-<sub>Updated: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,6 @@
 |7|[teamapps-org/ansible-collection-teamapps-general](https://github.com/teamapps-org/ansible-collection-teamapps-general)|Ansible Collection for different tools of an organization or company|3|2021-12-20|2021-05-07|
 |8|[eprintsug/EPrintsOpenAIRE](https://github.com/eprintsug/EPrintsOpenAIRE)|Export to OpenAIRE (Guidelines for Literature Repositories v4) from EPrints digital repository software|3|2021-12-10|2021-02-17|
 |9|[a-j-wood/rt-extension-sharesearchlink](https://github.com/a-j-wood/rt-extension-sharesearchlink)|Request Tracker extension to share ticket searches as shorter links|2|2021-09-06|2021-08-26|
-|10|[githubuser0xFFFF/URSim_Install_Guides](https://github.com/githubuser0xFFFF/URSim_Install_Guides)|Collection of installation guides for Universal Robots URSim simulation environment|2|2021-07-09|2021-03-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1240|2022-01-07|2021-01-31|
+|1|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1240|2022-01-08|2021-01-31|
 |2|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|496|2021-09-09|2021-09-03|
 |3|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
 |4|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|266|2021-09-25|2021-08-03|
 |5|[s4y/undot](https://github.com/s4y/undot)|-|253|2021-12-26|2021-12-20|
-|6|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|167|2022-01-06|2021-03-06|
-|7|[objective-see/OverSight](https://github.com/objective-see/OverSight)|OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |131|2021-12-29|2021-02-01|
-|8|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|116|2021-09-12|2021-02-02|
+|6|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|167|2022-01-08|2021-03-06|
+|7|[objective-see/OverSight](https://github.com/objective-see/OverSight)|OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |132|2021-12-29|2021-02-01|
+|8|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|117|2021-09-12|2021-02-02|
 |9|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|105|2021-10-13|2021-02-08|
 |10|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|103|2022-01-06|2021-03-24|
 |11|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
-|12|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|99|2021-12-31|2021-07-24|
+|12|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|99|2022-01-08|2021-07-24|
 |13|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|83|2021-12-14|2021-12-06|
 |14|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2021-11-25|2021-10-05|
 |15|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|66|2021-12-24|2021-03-30|
 |16|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|65|2021-11-20|2021-11-20|
 |17|[minsOne/iOSApplicationTemplate](https://github.com/minsOne/iOSApplicationTemplate)|Tuist based iOS Application Project Template|58|2021-11-29|2021-05-10|
-|18|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|47|2021-12-01|2021-11-16|
+|18|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|49|2021-12-01|2021-11-16|
 |19|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|47|2022-01-06|2021-03-08|
 |20|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|45|2021-09-04|2021-07-04|
 |21|[asaurusrex/Forblaze](https://github.com/asaurusrex/Forblaze)|Forblaze - A Python Mac Steganography Payload Generator|45|2021-10-11|2021-06-17|
-|22|[opa334/AltList](https://github.com/opa334/AltList)|A modern AppList alternative|44|2021-11-04|2021-05-18|
+|22|[opa334/AltList](https://github.com/opa334/AltList)|A modern AppList alternative|45|2021-11-04|2021-05-18|
 |23|[reddit/AlienBlue](https://github.com/reddit/AlienBlue)|Alien Blue iOS app - r/AlienBlue|43|2021-10-14|2021-10-04|
 |24|[FaceOnLive/Face-Liveness-Detection-SDK-iOS](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS)|Robust, Realtime, On-Device Face Liveness Detection (Face Anti Spoofing) For iOS|42|2021-11-25|2021-10-13|
 |25|[ragdroid/Clayground](https://github.com/ragdroid/Clayground)|This project is a demo project to explore various frameworks with MVI pattern and to achieve maximum code sharing between different platforms.|39|2021-07-12|2021-03-09|
-|26|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|38|2022-01-04|2021-06-20|
+|26|[alberti42/Volume-Control](https://github.com/alberti42/Volume-Control)|Successor of iTunes Volume Control|38|2022-01-08|2021-06-20|
 |27|[quanghits/GoogleMobileAds](https://github.com/quanghits/GoogleMobileAds)|Swift Package Manager for Google Mobile Ads SDK. |38|2021-11-22|2021-04-28|
 |28|[rolling-scopes-school/rs.ios.lecture.material](https://github.com/rolling-scopes-school/rs.ios.lecture.material)|Materials for lectures|38|2021-09-14|2021-04-23|
 |29|[tr3v3r/react-native-esc-pos-printer](https://github.com/tr3v3r/react-native-esc-pos-printer)|An unofficial React Native library for printing on an EPSON TM printer with the Epson ePOS SDK for iOS and Epson ePOS SDK for Android|35|2021-11-22|2021-02-05|
 |30|[ryannair05/Cylinder-Reborn](https://github.com/ryannair05/Cylinder-Reborn)|A reborn version of Cylinder for iOS 11 and up|31|2021-11-05|2021-02-14|
 |31|[udevsharold/perseus](https://github.com/udevsharold/perseus)|Unlock iPhone with your Apple Watch|30|2022-01-06|2021-02-06|
-|32|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|29|2022-01-06|2021-01-13|
+|32|[google/GoogleUtilities](https://github.com/google/GoogleUtilities)|-|30|2022-01-06|2021-01-13|
 |33|[tanersener/ffmpeg-kit-test](https://github.com/tanersener/ffmpeg-kit-test)|Test applications for FFmpegKit.|29|2022-01-02|2021-01-10|
 |34|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|28|2022-01-01|2021-11-28|
 |35|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|27|2021-08-16|2021-08-08|
@@ -57,11 +57,11 @@
 |50|[steventroughtonsmith/finder-patreon](https://github.com/steventroughtonsmith/finder-patreon)|WindowKit-based 'Files' app for iOS|16|2021-10-05|2021-10-05|
 |51|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|16|2021-10-04|2021-06-08|
 |52|[bitbank2/Print2BLE](https://github.com/bitbank2/Print2BLE)|MacOS app which allows drag and drop of images to BLE thermal printers|15|2021-10-17|2021-09-02|
-|53|[bryce-co/XcodeVimMap](https://github.com/bryce-co/XcodeVimMap)|-|15|2021-08-03|2021-08-03|
-|54|[WilsontheWolf/WebShade](https://github.com/WilsontheWolf/WebShade)|A tweak to make your websites dark!|15|2021-07-10|2021-03-17|
-|55|[kylekingcdn/music-library-exporter](https://github.com/kylekingcdn/music-library-exporter)|A lightweight macOS application that brings back automated iTunes Library XML generation|15|2022-01-02|2021-01-19|
-|56|[Randy-420/aptFix](https://github.com/Randy-420/aptFix)|## aptFix  Fix those annoying apt / DPKG errors like 'dpkg locked' using one simple terminal command 'aptFix'|14|2022-01-05|2021-11-08|
-|57|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|14|2022-01-07|2021-08-31|
+|53|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|15|2022-01-07|2021-08-31|
+|54|[bryce-co/XcodeVimMap](https://github.com/bryce-co/XcodeVimMap)|-|15|2021-08-03|2021-08-03|
+|55|[WilsontheWolf/WebShade](https://github.com/WilsontheWolf/WebShade)|A tweak to make your websites dark!|15|2021-07-10|2021-03-17|
+|56|[kylekingcdn/music-library-exporter](https://github.com/kylekingcdn/music-library-exporter)|A lightweight macOS application that brings back automated iTunes Library XML generation|15|2022-01-02|2021-01-19|
+|57|[Randy-420/aptFix](https://github.com/Randy-420/aptFix)|## aptFix  Fix those annoying apt / DPKG errors like 'dpkg locked' using one simple terminal command 'aptFix'|14|2022-01-07|2021-11-08|
 |58|[udevsharold/nanofi](https://github.com/udevsharold/nanofi)|Make Apple Watch data transfer rate from iPhone go brrrrrrrr|14|2021-08-16|2021-08-06|
 |59|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|14|2021-11-26|2021-05-22|
 |60|[Koze/GoogleMobileAds-SPM](https://github.com/Koze/GoogleMobileAds-SPM)|Unofficial Swift Package for Google Mobile Ads SDK|14|2021-11-19|2021-02-20|
@@ -76,16 +76,16 @@
 |69|[TimOliver/TOBorderView](https://github.com/TimOliver/TOBorderView)|A flexible container view featuring a solid background with rounded corners.|12|2021-08-28|2021-08-24|
 |70|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
 |71|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
-|72|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
-|73|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|12|2021-12-13|2021-01-17|
-|74|[steventroughtonsmith/RootFSProvider](https://github.com/steventroughtonsmith/RootFSProvider)|'Root' filesystem File Provider extension for iOS.|11|2021-10-05|2021-10-05|
-|75|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
-|76|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|11|2022-01-06|2021-07-18|
-|77|[ren7995/Atria](https://github.com/ren7995/Atria)|A proper homescreen layout editor for iOS 14.|11|2021-11-27|2021-05-16|
-|78|[MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation)|This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.|11|2021-07-29|2021-01-08|
-|79|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
-|80|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-12-29|2021-10-04|
-|81|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
+|72|[ren7995/Atria](https://github.com/ren7995/Atria)|A proper homescreen layout editor for iOS 14.|12|2021-11-27|2021-05-16|
+|73|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|12|2021-12-20|2021-04-06|
+|74|[google/GoogleDataTransport](https://github.com/google/GoogleDataTransport)|-|12|2021-12-13|2021-01-17|
+|75|[steventroughtonsmith/RootFSProvider](https://github.com/steventroughtonsmith/RootFSProvider)|'Root' filesystem File Provider extension for iOS.|11|2021-10-05|2021-10-05|
+|76|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
+|77|[UsrLightmann/IAmSpeed](https://github.com/UsrLightmann/IAmSpeed)|Quickly backup and restore your tweaks from an 'online' backup|11|2022-01-06|2021-07-18|
+|78|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
+|79|[udevsharold/airkeeper](https://github.com/udevsharold/airkeeper)|Control wireless connectivity policy for apps and daemons|10|2021-12-29|2021-10-04|
+|80|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
+|81|[yangKJ/KJNetworkPlugin](https://github.com/yangKJ/KJNetworkPlugin)|🎡 A Network Plugin With AFNetworking.                             Batch network request and Chain network request. And nine plugin.|10|2022-01-05|2021-07-24|
 |82|[mbender74/NappDrawer](https://github.com/mbender74/NappDrawer)|Titanium NappDrawer|10|2021-08-25|2021-07-20|
 |83|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|10|2021-09-30|2021-06-01|
 |84|[schneelittchen/Astolfo](https://github.com/schneelittchen/Astolfo)|Astolfo siri|10|2021-08-26|2021-04-25|
@@ -109,58 +109,58 @@
 |102|[EmergeTools/SmallStrings](https://github.com/EmergeTools/SmallStrings)|Minification of localized strings|8|2021-10-25|2021-10-21|
 |103|[SketchMaster2001/Fix-Twitter](https://github.com/SketchMaster2001/Fix-Twitter)|Fixes Twitter|8|2021-10-13|2021-10-13|
 |104|[DaanDH12/poc15.0.1](https://github.com/DaanDH12/poc15.0.1)|This is the POC from Saar Amar putted in a Xcode project so people can test! |8|2021-10-11|2021-10-11|
-|105|[yangKJ/KJNetworkPlugin](https://github.com/yangKJ/KJNetworkPlugin)|🎡 A Network Plugin With AFNetworking.                             Batch network request and Chain network request. And nine plugin.|8|2022-01-05|2021-07-24|
-|106|[aliyun/alibabacloud-AliIMPInteractiveLive-Demo](https://github.com/aliyun/alibabacloud-AliIMPInteractiveLive-Demo)|-|8|2021-12-31|2021-06-29|
-|107|[udevsharold/loupe](https://github.com/udevsharold/loupe)|Magnifying glass for text fields|8|2021-09-05|2021-05-30|
-|108|[BandarHL/YTShortsDownloader](https://github.com/BandarHL/YTShortsDownloader)|Awesome tweak to download youtube shorts|8|2021-09-21|2021-05-07|
-|109|[Paisseon/PeepReborn](https://github.com/Paisseon/PeepReborn)|iOS 13-14 status bar tweak|8|2021-12-12|2021-04-22|
-|110|[LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer)|Touch visualizing framework for iOS|8|2021-09-03|2021-03-24|
-|111|[LillieWeeb001/Return-YouTube-Dislikes](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)|-|7|2021-12-31|2021-12-27|
-|112|[nolano/YYViewVisible](https://github.com/nolano/YYViewVisible)|A tool to monitor the visibility of the view|7|2021-12-18|2021-12-17|
-|113|[p-x9/HeadLineNews-ObjC](https://github.com/p-x9/HeadLineNews-ObjC)|Headline News View Example App for iOS. You can display the articles fetched by rss.|7|2022-01-07|2021-11-16|
-|114|[jjldxz/CloudLVB-SDK-IOS](https://github.com/jjldxz/CloudLVB-SDK-IOS)|Da Xue Zhang Platform Lvb iOS SDK |7|2021-11-15|2021-11-11|
-|115|[mbender74/ti.colorwheel](https://github.com/mbender74/ti.colorwheel)|-|7|2021-09-27|2021-09-07|
-|116|[mbender74/ti.popover](https://github.com/mbender74/ti.popover)|-|7|2021-12-08|2021-09-05|
-|117|[ALBINPRAVEEN/Wifi-jammer](https://github.com/ALBINPRAVEEN/Wifi-jammer)|-|7|2021-09-05|2021-09-05|
-|118|[AeonLucid/ClownHook](https://github.com/AeonLucid/ClownHook)|Experimental iOS Arm64 hooking|7|2021-09-01|2021-09-01|
-|119|[zxinsunshine/NinePatchKit](https://github.com/zxinsunshine/NinePatchKit)|A ninepatch image render framework for iOS and MacOS|7|2021-12-27|2021-08-26|
-|120|[nyartech/hyperpay](https://github.com/nyartech/hyperpay)|A Flutter plugin to wrap HyperPay SDK for iOS and Android.|7|2021-11-10|2021-08-11|
-|121|[Paisseon/Vivy](https://github.com/Paisseon/Vivy)|iOS 13-14 battery themer|7|2021-12-05|2021-05-30|
-|122|[p-x9/SwiftLintXcodePlugin](https://github.com/p-x9/SwiftLintXcodePlugin)|SwiftLint Plugin for Xcode.|7|2021-10-08|2021-05-19|
-|123|[Paisseon/Reverie](https://github.com/Paisseon/Reverie)|iOS 13-14 hibernation|7|2021-12-05|2021-05-05|
-|124|[yandevelop/HiddenLock14](https://github.com/yandevelop/HiddenLock14)|-|7|2021-11-22|2021-04-14|
-|125|[Luki120/April](https://github.com/Luki120/April)|Choose a custom image or gradients for your settings background on the fly|7|2021-12-06|2021-04-10|
-|126|[akemin-dayo/IOKitHIDKeyboardTester](https://github.com/akemin-dayo/IOKitHIDKeyboardTester)|An extremely simple CLI tool that was created to diagnose and further understand an issue in DriverKit causing kIOHIDOptionsTypeSeizeDevice to behave incorrectly when used in DriverKit system extensio ...|6|2021-11-29|2021-11-29|
+|105|[aliyun/alibabacloud-AliIMPInteractiveLive-Demo](https://github.com/aliyun/alibabacloud-AliIMPInteractiveLive-Demo)|-|8|2021-12-31|2021-06-29|
+|106|[udevsharold/loupe](https://github.com/udevsharold/loupe)|Magnifying glass for text fields|8|2021-09-05|2021-05-30|
+|107|[BandarHL/YTShortsDownloader](https://github.com/BandarHL/YTShortsDownloader)|Awesome tweak to download youtube shorts|8|2021-09-21|2021-05-07|
+|108|[Paisseon/PeepReborn](https://github.com/Paisseon/PeepReborn)|iOS 13-14 status bar tweak|8|2021-12-12|2021-04-22|
+|109|[LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer)|Touch visualizing framework for iOS|8|2021-09-03|2021-03-24|
+|110|[LillieWeeb001/Return-YouTube-Dislikes](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)|-|7|2021-12-31|2021-12-27|
+|111|[nolano/YYViewVisible](https://github.com/nolano/YYViewVisible)|A tool to monitor the visibility of the view|7|2021-12-18|2021-12-17|
+|112|[p-x9/HeadLineNews-ObjC](https://github.com/p-x9/HeadLineNews-ObjC)|Headline News View Example App for iOS. You can display the articles fetched by rss.|7|2022-01-07|2021-11-16|
+|113|[jjldxz/CloudLVB-SDK-IOS](https://github.com/jjldxz/CloudLVB-SDK-IOS)|Da Xue Zhang Platform Lvb iOS SDK |7|2021-11-15|2021-11-11|
+|114|[mbender74/ti.colorwheel](https://github.com/mbender74/ti.colorwheel)|-|7|2021-09-27|2021-09-07|
+|115|[mbender74/ti.popover](https://github.com/mbender74/ti.popover)|-|7|2021-12-08|2021-09-05|
+|116|[ALBINPRAVEEN/Wifi-jammer](https://github.com/ALBINPRAVEEN/Wifi-jammer)|-|7|2021-09-05|2021-09-05|
+|117|[AeonLucid/ClownHook](https://github.com/AeonLucid/ClownHook)|Experimental iOS Arm64 hooking|7|2021-09-01|2021-09-01|
+|118|[zxinsunshine/NinePatchKit](https://github.com/zxinsunshine/NinePatchKit)|A ninepatch image render framework for iOS and MacOS|7|2021-12-27|2021-08-26|
+|119|[nyartech/hyperpay](https://github.com/nyartech/hyperpay)|A Flutter plugin to wrap HyperPay SDK for iOS and Android.|7|2021-11-10|2021-08-11|
+|120|[Paisseon/Vivy](https://github.com/Paisseon/Vivy)|iOS 13-14 battery themer|7|2021-12-05|2021-05-30|
+|121|[p-x9/SwiftLintXcodePlugin](https://github.com/p-x9/SwiftLintXcodePlugin)|SwiftLint Plugin for Xcode.|7|2021-10-08|2021-05-19|
+|122|[Paisseon/Reverie](https://github.com/Paisseon/Reverie)|iOS 13-14 hibernation|7|2021-12-05|2021-05-05|
+|123|[yandevelop/HiddenLock14](https://github.com/yandevelop/HiddenLock14)|-|7|2021-11-22|2021-04-14|
+|124|[Luki120/April](https://github.com/Luki120/April)|Choose a custom image or gradients for your settings background on the fly|7|2021-12-06|2021-04-10|
+|125|[akemin-dayo/IOKitHIDKeyboardTester](https://github.com/akemin-dayo/IOKitHIDKeyboardTester)|An extremely simple CLI tool that was created to diagnose and further understand an issue in DriverKit causing kIOHIDOptionsTypeSeizeDevice to behave incorrectly when used in DriverKit system extensio ...|6|2021-11-29|2021-11-29|
+|126|[BitesPotatoBacks/osx-cpufreq](https://github.com/BitesPotatoBacks/osx-cpufreq)|Get your CPUs current frequency (all cores or efficiency cores) on macOS. Supports Apple Silicon and Intel.|6|2022-01-05|2021-11-21|
 |127|[OpenIMSDK/Open-IM-SDK-ReactNative](https://github.com/OpenIMSDK/Open-IM-SDK-ReactNative)|-|6|2022-01-07|2021-11-10|
 |128|[reels-research/iOS-Private-Frameworks](https://github.com/reels-research/iOS-Private-Frameworks)|Apple's iOS Private Frameworks|6|2021-10-06|2021-10-06|
 |129|[DebugAlvin/IMBeeHive](https://github.com/DebugAlvin/IMBeeHive)|IMBeeHive is a kind of modular programming method|6|2021-11-17|2021-10-04|
 |130|[am-523/QuizKuy-Flutter](https://github.com/am-523/QuizKuy-Flutter)|-|6|2021-08-05|2021-08-05|
 |131|[biD3V/Electrode](https://github.com/biD3V/Electrode)|iOS tweak to display toasts for Low Power alerts and charging|6|2021-09-19|2021-08-03|
 |132|[EthanRDoesMC/Brooklyn](https://github.com/EthanRDoesMC/Brooklyn)|Helper/wrapper for mautrix-imessage for jailbroken devices|6|2021-12-04|2021-07-31|
-|133|[R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI)|R GUI for macOS|6|2021-11-01|2021-05-06|
-|134|[Squaresweets/BubbleTransport](https://github.com/Squaresweets/BubbleTransport)|Game Center matchmaking for Mirror Networking|6|2021-08-22|2021-05-02|
-|135|[schneelittchen/Rose](https://github.com/schneelittchen/Rose)|The most advanced and feature rich system wide haptic feedback tweak|6|2021-08-26|2021-04-25|
-|136|[schneelittchen/Puck](https://github.com/schneelittchen/Puck)|Prevent the need of rejailbreaking|6|2021-08-26|2021-04-25|
-|137|[schneelittchen/Deja-Vu](https://github.com/schneelittchen/Deja-Vu)|Fully featured always on display|6|2021-11-25|2021-04-25|
-|138|[Paisseon/DarkKeysReborn](https://github.com/Paisseon/DarkKeysReborn)|iOS 13-14 true dark keyboard|6|2021-10-02|2021-04-10|
-|139|[hoanglm4/flutter_hl_vnpay](https://github.com/hoanglm4/flutter_hl_vnpay)|-|6|2021-10-01|2021-03-16|
-|140|[shibafu528/Cocotodon](https://github.com/shibafu528/Cocotodon)|mikutter-plugin (partially) compatible Mastodon client for macOS|6|2021-08-10|2021-02-21|
-|141|[yahibo/redEnvelope](https://github.com/yahibo/redEnvelope)|-|6|2021-12-30|2021-02-03|
-|142|[MousamS26/DiceApp](https://github.com/MousamS26/DiceApp)|-|5|2021-12-07|2021-12-07|
-|143|[udevsharold/speakerfirst](https://github.com/udevsharold/speakerfirst)|Activates speaker on tap in Phone.app|5|2021-11-29|2021-11-28|
-|144|[0xkuj/CCDNDTimer](https://github.com/0xkuj/CCDNDTimer)|Timer for your DND mode|5|2021-12-08|2021-11-26|
-|145|[software-mansion-labs/expo-maps](https://github.com/software-mansion-labs/expo-maps)|-|5|2022-01-06|2021-11-07|
-|146|[mbender74/titanium-resizableview](https://github.com/mbender74/titanium-resizableview)|-|5|2021-10-29|2021-10-28|
-|147|[JamsheedMistri/LaptopVR](https://github.com/JamsheedMistri/LaptopVR)|LaptopVR - Cal Hacks 8.0 submission|5|2021-10-24|2021-10-24|
-|148|[bestmycode/m_rn_flightdrop](https://github.com/bestmycode/m_rn_flightdrop)|-|5|2021-09-16|2021-09-15|
-|149|[MTACS/rolodex](https://github.com/MTACS/rolodex)|-|5|2021-09-05|2021-09-04|
-|150|[wangwanjie/KGNavigationBar](https://github.com/wangwanjie/KGNavigationBar)|An iOS view-controller navigation management. No inherit, using one line code to integrate.|5|2021-09-06|2021-08-15|
-|151|[ren7995/CallerIDToggle](https://github.com/ren7995/CallerIDToggle)|A tweak that adds a control center module for toggling Show Caller ID on and off|5|2021-08-01|2021-08-01|
-|152|[PoomSmart/LiveTextEnabler](https://github.com/PoomSmart/LiveTextEnabler)|Enable Live Text recognition feature on macOS Monterey (Intel) computers.|5|2021-07-28|2021-07-16|
-|153|[jcgamestoy/retrovm1](https://github.com/jcgamestoy/retrovm1)|ZX Spectrum emulator for macOs. Retro Virtual Machine|5|2021-08-31|2021-07-07|
-|154|[BugSplat-Git/BugSplat-iOS](https://github.com/BugSplat-Git/BugSplat-iOS)|Crash reporting for iOS|5|2021-09-30|2021-06-15|
-|155|[LacertosusRepo/libDeusPrefs](https://github.com/LacertosusRepo/libDeusPrefs)|Library for my preferences, use it if you want.|5|2021-09-30|2021-06-14|
-|156|[driftboat/flutter_zoom](https://github.com/driftboat/flutter_zoom)|-|5|2022-01-07|2021-05-08|
+|133|[driftboat/flutter_zoom](https://github.com/driftboat/flutter_zoom)|-|6|2022-01-07|2021-05-08|
+|134|[R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI)|R GUI for macOS|6|2021-11-01|2021-05-06|
+|135|[Squaresweets/BubbleTransport](https://github.com/Squaresweets/BubbleTransport)|Game Center matchmaking for Mirror Networking|6|2021-08-22|2021-05-02|
+|136|[schneelittchen/Rose](https://github.com/schneelittchen/Rose)|The most advanced and feature rich system wide haptic feedback tweak|6|2021-08-26|2021-04-25|
+|137|[schneelittchen/Puck](https://github.com/schneelittchen/Puck)|Prevent the need of rejailbreaking|6|2021-08-26|2021-04-25|
+|138|[schneelittchen/Deja-Vu](https://github.com/schneelittchen/Deja-Vu)|Fully featured always on display|6|2021-11-25|2021-04-25|
+|139|[Paisseon/DarkKeysReborn](https://github.com/Paisseon/DarkKeysReborn)|iOS 13-14 true dark keyboard|6|2021-10-02|2021-04-10|
+|140|[hoanglm4/flutter_hl_vnpay](https://github.com/hoanglm4/flutter_hl_vnpay)|-|6|2021-10-01|2021-03-16|
+|141|[shibafu528/Cocotodon](https://github.com/shibafu528/Cocotodon)|mikutter-plugin (partially) compatible Mastodon client for macOS|6|2021-08-10|2021-02-21|
+|142|[yahibo/redEnvelope](https://github.com/yahibo/redEnvelope)|-|6|2021-12-30|2021-02-03|
+|143|[MousamS26/DiceApp](https://github.com/MousamS26/DiceApp)|-|5|2021-12-07|2021-12-07|
+|144|[udevsharold/speakerfirst](https://github.com/udevsharold/speakerfirst)|Activates speaker on tap in Phone.app|5|2021-11-29|2021-11-28|
+|145|[0xkuj/CCDNDTimer](https://github.com/0xkuj/CCDNDTimer)|Timer for your DND mode|5|2021-12-08|2021-11-26|
+|146|[software-mansion-labs/expo-maps](https://github.com/software-mansion-labs/expo-maps)|-|5|2022-01-08|2021-11-07|
+|147|[mbender74/titanium-resizableview](https://github.com/mbender74/titanium-resizableview)|-|5|2021-10-29|2021-10-28|
+|148|[JamsheedMistri/LaptopVR](https://github.com/JamsheedMistri/LaptopVR)|LaptopVR - Cal Hacks 8.0 submission|5|2021-10-24|2021-10-24|
+|149|[bestmycode/m_rn_flightdrop](https://github.com/bestmycode/m_rn_flightdrop)|-|5|2021-09-16|2021-09-15|
+|150|[MTACS/rolodex](https://github.com/MTACS/rolodex)|-|5|2021-09-05|2021-09-04|
+|151|[wangwanjie/KGNavigationBar](https://github.com/wangwanjie/KGNavigationBar)|An iOS view-controller navigation management. No inherit, using one line code to integrate.|5|2021-09-06|2021-08-15|
+|152|[ren7995/CallerIDToggle](https://github.com/ren7995/CallerIDToggle)|A tweak that adds a control center module for toggling Show Caller ID on and off|5|2021-08-01|2021-08-01|
+|153|[PoomSmart/LiveTextEnabler](https://github.com/PoomSmart/LiveTextEnabler)|Enable Live Text recognition feature on macOS Monterey (Intel) computers.|5|2021-07-28|2021-07-16|
+|154|[jcgamestoy/retrovm1](https://github.com/jcgamestoy/retrovm1)|ZX Spectrum emulator for macOs. Retro Virtual Machine|5|2021-08-31|2021-07-07|
+|155|[BugSplat-Git/BugSplat-iOS](https://github.com/BugSplat-Git/BugSplat-iOS)|Crash reporting for iOS|5|2021-09-30|2021-06-15|
+|156|[LacertosusRepo/libDeusPrefs](https://github.com/LacertosusRepo/libDeusPrefs)|Library for my preferences, use it if you want.|5|2021-09-30|2021-06-14|
 |157|[schneelittchen/Dress](https://github.com/schneelittchen/Dress)|Customize your lock screen with one tweak|5|2021-08-26|2021-04-25|
 |158|[Luki120/Arizona](https://github.com/Luki120/Arizona)|Change the alignment of the stock clock, date and lock glyph on the fly|5|2021-12-28|2021-04-05|
 |159|[adarshpatil/dve](https://github.com/adarshpatil/dve)|Improving DRAM Reliability and Performance On-Demand via Coherent Replication [ISCA 2021]|5|2021-10-25|2021-03-12|
@@ -168,7 +168,7 @@
 |161|[datatrans/ios-sdk](https://github.com/datatrans/ios-sdk)|Accept payments on your iOS apps: Our mobile SDKs support your entire payment and registration process and simplify the integration of any payment method in your mobile apps.|5|2021-12-23|2021-02-03|
 |162|[RedenticDev/ShortLook-Telegram](https://github.com/RedenticDev/ShortLook-Telegram)|Show Telegram Contact Photos in ShortLook when you receive a Telegram notification!|5|2021-08-13|2021-01-31|
 |163|[florianpircher/GutenTag](https://github.com/florianpircher/GutenTag)|🔖 Guten Tag – a Glyphs plugin for tagging your glyphs|5|2021-09-24|2021-01-30|
-|164|[Randy-420/420Tools](https://github.com/Randy-420/420Tools)|-|5|2022-01-05|2021-01-18|
+|164|[Randy-420/420Tools](https://github.com/Randy-420/420Tools)|-|5|2022-01-07|2021-01-18|
 |165|[ProcursusTeam/defaults](https://github.com/ProcursusTeam/defaults)|Opensource re-implementation of `defaults(1)`|4|2022-01-03|2021-12-10|
 |166|[mbender74/de.marcbender.sortablegrid](https://github.com/mbender74/de.marcbender.sortablegrid)|-|4|2021-12-30|2021-12-03|
 |167|[LonfeyLi/DBLanguageManager](https://github.com/LonfeyLi/DBLanguageManager)|a management tool of iOS project language configuration|4|2021-12-10|2021-12-03|
@@ -195,10 +195,10 @@
 |188|[AlessandroSangiuliano/Puck](https://github.com/AlessandroSangiuliano/Puck)|Puck is a simple dockbar|4|2022-01-02|2021-05-28|
 |189|[BILDIT-Platform/react-native-bildit-flybuy](https://github.com/BILDIT-Platform/react-native-bildit-flybuy)|React Native FlyBuy module.  Supports Core, Pickup, Notify,  and Presence Native SDK APIs.|4|2021-12-22|2021-05-23|
 |190|[schneelittchen/libKitten](https://github.com/schneelittchen/libKitten)|Library to get three different colors from an image and detect if one is light or dark|4|2021-08-02|2021-04-25|
-|191|[flutter-fast-kit/fk_user_agent](https://github.com/flutter-fast-kit/fk_user_agent)|Retrieve Android/iOS device user agents in Flutter.|4|2021-10-05|2021-03-29|
-|192|[CodeSlaveZhang/ZHSelectableLabel](https://github.com/CodeSlaveZhang/ZHSelectableLabel)|  Updated 2 minutes ago An IOS label based on YYLabel，which support gesture to select part of the text.|4|2021-12-17|2021-01-30|
-|193|[tulparyazilim/tp-react-native-bluetooth-printer](https://github.com/tulparyazilim/tp-react-native-bluetooth-printer)|React-Native plugin for the bluetooth ESC/POS printers. This plugin is fork of react-native-bluetooth-escpos-printer|4|2021-09-18|2021-01-09|
-|194|[sapkotamadhusudan/rn-esewa](https://github.com/sapkotamadhusudan/rn-esewa)|A library provideing esewa payment integration to react native applications|4|2022-01-06|2021-01-08|
+|191|[mariogt/PikoPixelM1](https://github.com/mariogt/PikoPixelM1)|PikoPixelM1 is a modernization effort to make the original PikoPixel Apple Silicon/M1/Intel Universal Binary compliant.|4|2021-08-31|2021-04-18|
+|192|[flutter-fast-kit/fk_user_agent](https://github.com/flutter-fast-kit/fk_user_agent)|Retrieve Android/iOS device user agents in Flutter.|4|2021-10-05|2021-03-29|
+|193|[CodeSlaveZhang/ZHSelectableLabel](https://github.com/CodeSlaveZhang/ZHSelectableLabel)|  Updated 2 minutes ago An IOS label based on YYLabel，which support gesture to select part of the text.|4|2021-12-17|2021-01-30|
+|194|[tulparyazilim/tp-react-native-bluetooth-printer](https://github.com/tulparyazilim/tp-react-native-bluetooth-printer)|React-Native plugin for the bluetooth ESC/POS printers. This plugin is fork of react-native-bluetooth-escpos-printer|4|2021-09-18|2021-01-09|
 |195|[InvoxiPlayGames/MGSDecryptorCLI](https://github.com/InvoxiPlayGames/MGSDecryptorCLI)|decryptor for MacGameStore games protected by their 2007-era DRMWrapper.|3|2021-12-23|2021-12-23|
 |196|[upmanager/react-native-voip-push-notification](https://github.com/upmanager/react-native-voip-push-notification)|-|3|2021-12-22|2021-12-21|
 |197|[upmanager/react-native-voip-call](https://github.com/upmanager/react-native-voip-call)|-|3|2021-12-21|2021-12-21|
