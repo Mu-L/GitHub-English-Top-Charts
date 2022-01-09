@@ -1,70 +1,70 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|683|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|689|2021-11-11|2021-10-23|
 |2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|318|2021-08-30|2021-02-07|
 |3|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|210|2021-10-13|2021-01-27|
 |4|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|2021-04-05|
 |5|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|144|2022-01-05|2021-04-19|
-|6|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|93|2021-12-04|2021-09-17|
-|7|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|82|2021-07-26|2021-01-09|
-|8|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|72|2022-01-07|2021-06-15|
-|9|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
-|10|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|61|2022-01-07|2021-08-20|
-|11|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|57|2021-08-19|2021-08-16|
-|12|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|50|2021-07-14|2021-07-13|
-|13|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
-|14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
-|15|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|36|2021-09-07|2021-05-18|
-|16|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|36|2021-11-24|2021-01-26|
-|17|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|35|2021-12-24|2021-09-19|
-|18|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|33|2021-11-28|2021-06-24|
-|19|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
+|6|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|94|2021-12-04|2021-09-17|
+|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|72|2022-01-07|2021-06-15|
+|8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
+|9|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|Source for The Good Research Code Handbook|61|2022-01-07|2021-08-20|
+|10|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|57|2021-08-19|2021-08-16|
+|11|[BugzTheBunny/streamlit_navbar](https://github.com/BugzTheBunny/streamlit_navbar)|An example of how to make an streamlit app with a navbar.|50|2021-07-14|2021-07-13|
+|12|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
+|13|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
+|14|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|36|2021-09-07|2021-05-18|
+|15|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|36|2021-11-24|2021-01-26|
+|16|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|a small collection of my config files|35|2022-01-09|2021-09-19|
+|17|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|33|2021-11-28|2021-06-24|
+|18|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
+|19|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|29|2022-01-07|2021-08-18|
 |20|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
-|21|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|28|2022-01-07|2021-08-18|
-|22|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
-|23|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2021-12-29|2021-01-22|
-|24|[ashutoshkrris/EazyLoader](https://github.com/ashutoshkrris/EazyLoader)|EazyLoader is Flask based web-application built to make downloading easy for you. Download videos and pictures from YouTube and Instagram in the best available quality. You can also download slides fr ...|27|2021-12-18|2021-10-04|
-|25|[ParthKalkar/RusLearn](https://github.com/ParthKalkar/RusLearn)|Russian language Learning app|27|2021-10-10|2021-08-25|
-|26|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|27|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|2021-02-27|
-|28|[oracle/microservices-datadriven](https://github.com/oracle/microservices-datadriven)|Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services|23|2022-01-05|2021-03-12|
-|29|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2022-01-07|2021-01-16|
-|30|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|21|2021-12-28|2021-11-30|
-|31|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
-|32|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|21|2021-08-10|2021-04-15|
-|33|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2021-12-20|2021-09-03|
-|34|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
-|35|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|19|2021-12-15|2021-10-08|
-|36|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
-|37|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
-|38|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|17|2022-01-08|2021-06-16|
-|39|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|16|2021-10-02|2021-10-01|
-|40|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|41|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
-|42|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|15|2021-08-03|2021-08-03|
-|43|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
-|44|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|15|2021-10-22|2021-02-15|
-|45|[kabartay/AISummerSchools](https://github.com/kabartay/AISummerSchools)|List of summer schools and workshops in AI/ML/DL/DS areas.|15|2021-07-14|2021-01-24|
-|46|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
-|47|[DisnakeDev/guide](https://github.com/DisnakeDev/guide)|A guide/example list of use-cases of disnake.|12|2022-01-08|2021-10-25|
-|48|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|12|2021-10-29|2021-08-02|
-|49|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|12|2021-10-13|2021-01-20|
-|50|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|12|2022-01-04|2021-01-20|
-|51|[akashyap2013/TailwindCss_Course](https://github.com/akashyap2013/TailwindCss_Course)|In this Course we gonna learn tailwind CSS. |11|2021-07-23|2021-07-07|
-|52|[wafarifki/JungleDevs-LandingPage](https://github.com/wafarifki/JungleDevs-LandingPage)|Hi there 👋 i want to share my exploration for  Jungle Devs Company. Jungle Devs is a Brazilian company focused on developing people who develop software. Use this for learn. Give me your stars, Don't  ...|10|2021-10-27|2021-08-20|
-|53|[MainakRepositor/MWS-Templates](https://github.com/MainakRepositor/MWS-Templates)|A collection of sample responsive web design templates.|10|2021-08-23|2021-08-17|
-|54|[aws-samples/disaster-recovery-workshop](https://github.com/aws-samples/disaster-recovery-workshop)|In this workshop, you will learn techniques to implement your Disaster Recovery strategies based on AWS multi-region approach. Questions? Contact @lpiedade|10|2022-01-04|2021-05-26|
-|55|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
-|56|[Mhdez221993/css-ninja](https://github.com/Mhdez221993/css-ninja)|This project is based on an online website to learn CSS. It contains the main page, about and tickets page each of these pages have 2 different screen sizes: mobile and desktop.|10|2021-07-23|2021-04-10|
-|57|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|10|2021-12-14|2021-01-21|
-|58|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
-|59|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|9|2021-10-22|2021-08-31|
-|60|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
+|21|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
+|22|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2022-01-09|2021-01-22|
+|23|[ashutoshkrris/EazyLoader](https://github.com/ashutoshkrris/EazyLoader)|EazyLoader is Flask based web-application built to make downloading easy for you. Download videos and pictures from YouTube and Instagram in the best available quality. You can also download slides fr ...|27|2021-12-18|2021-10-04|
+|24|[ParthKalkar/RusLearn](https://github.com/ParthKalkar/RusLearn)|Russian language Learning app|27|2021-10-10|2021-08-25|
+|25|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
+|26|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|25|2021-09-16|2021-02-27|
+|27|[oracle/microservices-datadriven](https://github.com/oracle/microservices-datadriven)|Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services|23|2022-01-05|2021-03-12|
+|28|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2022-01-07|2021-01-16|
+|29|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|22|2021-12-28|2021-11-30|
+|30|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
+|31|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|21|2021-08-10|2021-04-15|
+|32|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2021-12-20|2021-09-03|
+|33|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
+|34|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|19|2021-12-15|2021-10-08|
+|35|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
+|36|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
+|37|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|17|2022-01-09|2021-06-16|
+|38|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|16|2021-10-02|2021-10-01|
+|39|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
+|40|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
+|41|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|15|2021-08-03|2021-08-03|
+|42|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
+|43|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|15|2021-10-22|2021-02-15|
+|44|[kabartay/AISummerSchools](https://github.com/kabartay/AISummerSchools)|List of summer schools and workshops in AI/ML/DL/DS areas.|15|2021-07-14|2021-01-24|
+|45|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
+|46|[DisnakeDev/guide](https://github.com/DisnakeDev/guide)|A guide/example list of use-cases of disnake.|12|2022-01-09|2021-10-25|
+|47|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|12|2021-10-29|2021-08-02|
+|48|[JackCSheehan/obsidian-tweaks](https://github.com/JackCSheehan/obsidian-tweaks)|A collection of small CSS snippets for Obsidian|12|2021-10-13|2021-01-20|
+|49|[lammpstutorials/lammpstutorials.github.io](https://github.com/lammpstutorials/lammpstutorials.github.io)|This is the script of the webpage LAMMPS tutorials.|12|2022-01-04|2021-01-20|
+|50|[akashyap2013/TailwindCss_Course](https://github.com/akashyap2013/TailwindCss_Course)|In this Course we gonna learn tailwind CSS. |11|2021-07-23|2021-07-07|
+|51|[wafarifki/JungleDevs-LandingPage](https://github.com/wafarifki/JungleDevs-LandingPage)|Hi there 👋 i want to share my exploration for  Jungle Devs Company. Jungle Devs is a Brazilian company focused on developing people who develop software. Use this for learn. Give me your stars, Don't  ...|10|2021-10-27|2021-08-20|
+|52|[MainakRepositor/MWS-Templates](https://github.com/MainakRepositor/MWS-Templates)|A collection of sample responsive web design templates.|10|2021-08-23|2021-08-17|
+|53|[aws-samples/disaster-recovery-workshop](https://github.com/aws-samples/disaster-recovery-workshop)|In this workshop, you will learn techniques to implement your Disaster Recovery strategies based on AWS multi-region approach. Questions? Contact @lpiedade|10|2022-01-04|2021-05-26|
+|54|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
+|55|[Mhdez221993/css-ninja](https://github.com/Mhdez221993/css-ninja)|This project is based on an online website to learn CSS. It contains the main page, about and tickets page each of these pages have 2 different screen sizes: mobile and desktop.|10|2021-07-23|2021-04-10|
+|56|[vvHacker007/Mind-Space](https://github.com/vvHacker007/Mind-Space)|✨Mindspace is a blogging website✍ where one can share their thoughts💭 freely.|10|2021-12-14|2021-01-21|
+|57|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
+|58|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|9|2021-10-22|2021-08-31|
+|59|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
+|60|[CodeWithHarry/Master-Tailwind](https://github.com/CodeWithHarry/Master-Tailwind)|Source code for the videos in the Master Tailwind course at CodeWithHarry - https://www.codewithharry.com/videos/tailwind-course-in-hindi-1/|8|2022-01-09|2022-01-09|
 |61|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
 |62|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
 |63|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|8|2021-12-04|2021-08-21|

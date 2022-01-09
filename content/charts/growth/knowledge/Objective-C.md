@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4685|6|2022-01-02|
-|2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5661|2|2021-08-30|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4687|6|2022-01-02|
+|2|[BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts is a collection of low-level libraries designed to make developing mobile apps easier.|5662|2|2021-08-30|
 |3|[facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)|Used to integrate the Facebook Platform with your iOS & tvOS apps.|6921|2|2022-01-07|
 |4|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2091|1|2021-11-22|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
-|6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2846|1|2021-09-21|
+|6|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2847|1|2021-09-21|
 |7|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1662|1|2021-11-02|
 |8|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3298|1|2021-12-04|
 |9|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1759|1|2022-01-07|
@@ -45,7 +45,7 @@
 |38|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|0|2021-10-12|
 |39|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|4|0|2021-11-11|
 |40|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|161|0|2021-11-29|
-|41|[CartBlanche/MacDockTileSample](https://github.com/CartBlanche/MacDockTileSample)|Shows how to write a NSDockTilePlugin, so your DockTile can update while the app isn't running|17|0|2021-08-06|
+|41|[CartBlanche/MacDockTileSample](https://github.com/CartBlanche/MacDockTileSample)|Shows how to write a NSDockTilePlugin, so your DockTile can update while the app isn't running|18|0|2021-08-06|
 |42|[kylehowells/ikyle.me-code-examples](https://github.com/kylehowells/ikyle.me-code-examples)|Smaller code examples from my blog posts on ikyle.me|27|0|2021-11-13|
 |43|[KPS250/ShareWithApp-ReactNative](https://github.com/KPS250/ShareWithApp-ReactNative)|Demo App to Share Image/Doc with React Native Application from Gallery/FileManager etc|3|0|2021-09-21|
 |44|[superjohan/deko](https://github.com/superjohan/deko)|Beautiful, unique wallpapers for iOS.|38|0|2021-09-29|
@@ -130,28 +130,27 @@
 |123|[DJI-Mobile-SDK-Tutorials/iOS-ActivationAndBindingDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ActivationAndBindingDemo)|This demo shows you how to use DJI iOS Mobile SDK to activate the SDK mobile application and use DJI Go app to bind the aircraft to your DJI Account in China.|4|0|2021-10-11|
 |124|[Kosoku/KSOFontAwesomeExtensions](https://github.com/Kosoku/KSOFontAwesomeExtensions)|A collection of categories on NSString, UIFont and UIImage to make creation of images using the Font Awesome font easier.|2|0|2021-07-13|
 |125|[Syphon/Syphon-Framework](https://github.com/Syphon/Syphon-Framework)|Syphon is a Mac OS X technology to allow applications to share video and still images with one another in realtime, instantly.|371|0|2021-07-20|
-|126|[codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus)|gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on dem ...|1581|0|2021-07-10|
-|127|[isacjunior/i18n](https://github.com/isacjunior/i18n)|Simple example the how to internacionalize your react-native application|10|0|2021-09-21|
-|128|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2021-10-05|
-|129|[Leon0206/ReactiveDataBoard](https://github.com/Leon0206/ReactiveDataBoard)|This is a reactive solution for the data communication and data share between any objects. |23|0|2021-08-18|
-|130|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|0|2021-09-03|
-|131|[topher515/BoggleSolve](https://github.com/topher515/BoggleSolve)|I like to write a boggle solver in every new language I learn. Here they are!|4|0|2021-08-22|
-|132|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|6|0|2022-01-02|
-|133|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|60|0|2021-12-16|
-|134|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|222|0|2021-12-22|
-|135|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|10|0|2022-01-07|
-|136|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2021-11-18|
-|137|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|26|0|2021-09-07|
-|138|[shanecelis/contacts](https://github.com/shanecelis/contacts)|displays contacts from the AddressBook database|6|0|2021-11-08|
-|139|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|48|0|2021-09-02|
-|140|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|80|0|2021-07-12|
-|141|[itsoulltd/StartUp-IOS](https://github.com/itsoulltd/StartUp-IOS)|A comprehensive code base to bootstrap quickly a well-architected iOS application. By implementing industry standard architectural design-patterns.|4|0|2021-12-09|
-|142|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|7|0|2021-08-15|
-|143|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|87|0|2021-12-27|
-|144|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
-|145|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|51|0|2022-01-08|
-|146|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
-|147|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2021-12-20|
+|126|[isacjunior/i18n](https://github.com/isacjunior/i18n)|Simple example the how to internacionalize your react-native application|10|0|2021-09-21|
+|127|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2021-10-05|
+|128|[Leon0206/ReactiveDataBoard](https://github.com/Leon0206/ReactiveDataBoard)|This is a reactive solution for the data communication and data share between any objects. |23|0|2021-08-18|
+|129|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|0|2021-09-03|
+|130|[topher515/BoggleSolve](https://github.com/topher515/BoggleSolve)|I like to write a boggle solver in every new language I learn. Here they are!|4|0|2021-08-22|
+|131|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|6|0|2022-01-02|
+|132|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|60|0|2021-12-16|
+|133|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|222|0|2021-12-22|
+|134|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|10|0|2022-01-07|
+|135|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2021-11-18|
+|136|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|26|0|2021-09-07|
+|137|[shanecelis/contacts](https://github.com/shanecelis/contacts)|displays contacts from the AddressBook database|6|0|2021-11-08|
+|138|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|48|0|2021-09-02|
+|139|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|80|0|2021-07-12|
+|140|[itsoulltd/StartUp-IOS](https://github.com/itsoulltd/StartUp-IOS)|A comprehensive code base to bootstrap quickly a well-architected iOS application. By implementing industry standard architectural design-patterns.|4|0|2021-12-09|
+|141|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|7|0|2021-08-15|
+|142|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|87|0|2021-12-27|
+|143|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
+|144|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|51|0|2022-01-08|
+|145|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
+|146|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2021-12-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

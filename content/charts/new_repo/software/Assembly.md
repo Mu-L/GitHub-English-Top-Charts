@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1603|2021-10-06|2021-03-22|
+|1|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1604|2021-10-06|2021-03-22|
 |2|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1284|2021-10-24|2021-06-18|
 |3|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|692|2021-12-05|2021-08-02|
-|4|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|323|2021-12-22|2021-10-25|
-|5|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|308|2021-12-22|2021-10-25|
+|4|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|325|2021-12-22|2021-10-25|
+|5|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|310|2021-12-22|2021-10-25|
 |6|[NattyNarwhal/vmwmouse](https://github.com/NattyNarwhal/vmwmouse)|VMware mouse driver for Windows 3.1|296|2021-12-01|2021-11-26|
 |7|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|221|2021-11-29|2021-11-12|
-|8|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|162|2021-11-14|2021-11-13|
+|8|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|164|2021-11-14|2021-11-13|
 |9|[ajpc500/NimlineWhispers](https://github.com/ajpc500/NimlineWhispers)|A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.|127|2021-09-10|2021-01-13|
 |10|[android/renderscript-intrinsics-replacement-toolkit](https://github.com/android/renderscript-intrinsics-replacement-toolkit)|-|123|2022-01-05|2021-04-16|
-|11|[boku7/winx64-InjectAllProcessesMeterpreter-Shellcode](https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode)|64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.|107|2021-08-16|2021-05-01|
+|11|[boku7/winx64-InjectAllProcessesMeterpreter-Shellcode](https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode)|64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.|108|2021-08-16|2021-05-01|
 |12|[d0t0n10n/HelloWorlds](https://github.com/d0t0n10n/HelloWorlds)|Hello-World program in most programming languages|101|2021-10-17|2021-05-06|
-|13|[barrettotte/qr-asm](https://github.com/barrettotte/qr-asm)|Generate a QR code from scratch with only ARM assembly.|91|2021-09-06|2021-06-01|
+|13|[barrettotte/qr-asm](https://github.com/barrettotte/qr-asm)|Generate a QR code from scratch with only ARM assembly.|90|2021-09-06|2021-06-01|
 |14|[0xADE1A1DE/AssemblyLine](https://github.com/0xADE1A1DE/AssemblyLine)|A C library and binary for generating machine code of x86_64 assembly language and executing on the fly without invoking another compiler, assembler or linker.|85|2022-01-04|2021-08-24|
 |15|[w1u0u1/minidump](https://github.com/w1u0u1/minidump)|Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.|83|2021-08-04|2021-02-12|
 |16|[stevennguyen/framework](https://github.com/stevennguyen/framework)|Ortholinear with a knob|72|2021-12-08|2021-01-17|
@@ -28,9 +28,9 @@
 |21|[2point21/lba2-classic-community](https://github.com/2point21/lba2-classic-community)|-|56|2021-12-22|2021-10-25|
 |22|[netspooky/BGGP](https://github.com/netspooky/BGGP)|Binary Golf Grand Prix|55|2021-10-22|2021-06-17|
 |23|[doldecomp/sms](https://github.com/doldecomp/sms)|A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.|53|2021-12-28|2021-05-16|
-|24|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|52|2022-01-08|2021-06-18|
-|25|[arnaud-carre/LSPlayer](https://github.com/arnaud-carre/LSPlayer)|Fastest Amiga Module player ever|47|2021-11-13|2021-03-09|
-|26|[projectPiki/pikmin2](https://github.com/projectPiki/pikmin2)|A decompilation of Pikmin 2 (USA) brought to you by a bunch of clever folks.|46|2022-01-08|2021-09-27|
+|24|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|52|2022-01-09|2021-06-18|
+|25|[projectPiki/pikmin2](https://github.com/projectPiki/pikmin2)|A decompilation of Pikmin 2 (USA) brought to you by a bunch of clever folks.|48|2022-01-09|2021-09-27|
+|26|[arnaud-carre/LSPlayer](https://github.com/arnaud-carre/LSPlayer)|Fastest Amiga Module player ever|47|2021-11-13|2021-03-09|
 |27|[zajo/appler](https://github.com/zajo/appler)|Apple ][ emulator for MS-DOS, written in 8086 assembly|45|2021-09-29|2021-09-05|
 |28|[santiontanon/westen](https://github.com/santiontanon/westen)|Westen House (MSX game)|41|2021-09-29|2021-09-18|
 |29|[m0rv4i/SyscallsExample](https://github.com/m0rv4i/SyscallsExample)|Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode.|40|2021-11-12|2021-11-05|
@@ -46,19 +46,19 @@
 |39|[ORCA666/artifact32](https://github.com/ORCA666/artifact32)|THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD|28|2021-09-25|2021-09-25|
 |40|[Deltara3/amogus](https://github.com/Deltara3/amogus)|ඞ amogus|27|2022-01-08|2021-10-10|
 |41|[kyleavery/ThirdEye](https://github.com/kyleavery/ThirdEye)|Weaponizing CLRvoyance for Post-Ex .NET Execution|27|2021-07-15|2021-07-15|
-|42|[orent/htfizzbuzz](https://github.com/orent/htfizzbuzz)|High throughput Fizz Buzz|26|2021-12-02|2021-10-31|
-|43|[DQNEO/goas](https://github.com/DQNEO/goas)|port of GNU Assembler written in go|26|2021-09-26|2021-09-07|
-|44|[maximmasiutin/exegrab](https://github.com/maximmasiutin/exegrab)|The Graphic Screen Grabber for MS-DOS released on April 7, 1995.|26|2021-08-08|2021-08-08|
-|45|[espressif/esp32c3-direct-boot-example](https://github.com/espressif/esp32c3-direct-boot-example)|Example of ESP32-C3 (rev. 3 and later) "direct boot" feature.|26|2021-12-14|2021-05-07|
+|42|[espressif/esp32c3-direct-boot-example](https://github.com/espressif/esp32c3-direct-boot-example)|Example of ESP32-C3 (rev. 3 and later) "direct boot" feature.|27|2021-12-14|2021-05-07|
+|43|[orent/htfizzbuzz](https://github.com/orent/htfizzbuzz)|High throughput Fizz Buzz|26|2021-12-02|2021-10-31|
+|44|[DQNEO/goas](https://github.com/DQNEO/goas)|port of GNU Assembler written in go|26|2021-09-26|2021-09-07|
+|45|[maximmasiutin/exegrab](https://github.com/maximmasiutin/exegrab)|The Graphic Screen Grabber for MS-DOS released on April 7, 1995.|26|2021-08-08|2021-08-08|
 |46|[oVirt/512-byte-vm](https://github.com/oVirt/512-byte-vm)|A VM image in 512 bytes. Yes, you read it right.|26|2021-11-18|2021-04-21|
 |47|[IchMagBier/raylib-asm](https://github.com/IchMagBier/raylib-asm)|Simple example to show how x64 Assembler and Raylib work together|25|2021-10-07|2021-10-07|
-|48|[lishaojiang/talkcoroutine](https://github.com/lishaojiang/talkcoroutine)|coroutine;fiber;boost fiber|25|2021-08-03|2021-04-18|
-|49|[lvtx/OLEDLG-for-Visual-Assist-X](https://github.com/lvtx/OLEDLG-for-Visual-Assist-X)|OLEDLG for Visual Assist X General crack patch|24|2021-07-30|2021-07-30|
-|50|[marciot/mac-tip](https://github.com/marciot/mac-tip)|A port of GRC's "TIP: Zip & Jaz Drive and Cartridge Testing System" for 68k and PowerPC Macintosh systems|23|2021-12-09|2021-11-20|
-|51|[arnaud-carre/ldos](https://github.com/arnaud-carre/ldos)|Leonard Demo Operating System (Amiga version)|23|2021-12-05|2021-09-10|
-|52|[1888games/GalagaC64](https://github.com/1888games/GalagaC64)|-|23|2021-10-11|2021-07-05|
-|53|[arthurtilly/rhythmtengoku](https://github.com/arthurtilly/rhythmtengoku)|-|23|2021-12-26|2021-05-11|
-|54|[Dfinitski/ATU-10-10W-QRP-antenna-tuner](https://github.com/Dfinitski/ATU-10-10W-QRP-antenna-tuner)|-|23|2021-12-09|2021-05-06|
+|48|[Dfinitski/ATU-10-10W-QRP-antenna-tuner](https://github.com/Dfinitski/ATU-10-10W-QRP-antenna-tuner)|-|25|2021-12-09|2021-05-06|
+|49|[lishaojiang/talkcoroutine](https://github.com/lishaojiang/talkcoroutine)|coroutine;fiber;boost fiber|25|2021-08-03|2021-04-18|
+|50|[lvtx/OLEDLG-for-Visual-Assist-X](https://github.com/lvtx/OLEDLG-for-Visual-Assist-X)|OLEDLG for Visual Assist X General crack patch|24|2021-07-30|2021-07-30|
+|51|[marciot/mac-tip](https://github.com/marciot/mac-tip)|A port of GRC's "TIP: Zip & Jaz Drive and Cartridge Testing System" for 68k and PowerPC Macintosh systems|23|2021-12-09|2021-11-20|
+|52|[arnaud-carre/ldos](https://github.com/arnaud-carre/ldos)|Leonard Demo Operating System (Amiga version)|23|2021-12-05|2021-09-10|
+|53|[1888games/GalagaC64](https://github.com/1888games/GalagaC64)|-|23|2021-10-11|2021-07-05|
+|54|[arthurtilly/rhythmtengoku](https://github.com/arthurtilly/rhythmtengoku)|-|23|2021-12-26|2021-05-11|
 |55|[cvghivebrain/s1disasm](https://github.com/cvghivebrain/s1disasm)|Sonic the Hedgehog (Mega Drive) Hivebrain 2021+ disassembly|21|2022-01-03|2021-07-27|
 |56|[srg320/Saturn_hw](https://github.com/srg320/Saturn_hw)|-|21|2021-12-28|2021-05-23|
 |57|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|20|2021-12-15|2021-12-15|
@@ -70,32 +70,32 @@
 |63|[msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub)|Open-source "hyp" firmware stub for Qualcomm MSM8916/APQ8016/MSM8939 that allows using EL2/KVM|19|2021-10-25|2021-03-26|
 |64|[theandrew168/derzforth](https://github.com/theandrew168/derzforth)|Bare-metal Forth implementation for RISC-V|19|2021-11-03|2021-03-01|
 |65|[homebrew8088/8088-PC-Compatible](https://github.com/homebrew8088/8088-PC-Compatible)|8088 PC XT Compatible|18|2022-01-08|2021-11-04|
-|66|[CXWorld/MicroBenchX](https://github.com/CXWorld/MicroBenchX)|Micro benchmarks CPU/GPU|18|2021-10-26|2021-09-07|
-|67|[vinheim3/sakuraWars1-disasm](https://github.com/vinheim3/sakuraWars1-disasm)|-|18|2021-11-08|2021-08-08|
-|68|[forrest-orr/ExploitDev](https://github.com/forrest-orr/ExploitDev)|Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/|18|2021-07-22|2021-06-22|
-|69|[markmoxon/elite-a-beebasm](https://github.com/markmoxon/elite-a-beebasm)|Fully documented and annotated source code for Angus Duggan's Elite-A on the BBC Micro|18|2021-12-07|2021-05-11|
-|70|[cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)|Source code of some NES games|18|2021-11-22|2021-01-25|
-|71|[Hydr8gon/sodium64](https://github.com/Hydr8gon/sodium64)|A SNES emulator for the N64, written in assembly|17|2021-11-18|2021-10-06|
-|72|[monsonite/MINT](https://github.com/monsonite/MINT)|A minimal interpreter in Z80 assembly for the RC2014 Micro|17|2021-12-31|2021-07-05|
-|73|[zakarialaoui10/HIGH-TO-LOW](https://github.com/zakarialaoui10/HIGH-TO-LOW)|in this repository you will find codes in C and their equivalence in MIPS Assembly|17|2022-01-02|2021-06-21|
-|74|[xsscx/srd](https://github.com/xsscx/srd)|Welcome to Hoyt's SRD Repo for the Apple Security Research Device. Contribute Code or Open an Issue or Discussion.|17|2022-01-04|2021-06-18|
-|75|[AliChraghi/LanguagesBenchmark](https://github.com/AliChraghi/LanguagesBenchmark)|Programming Languages Benchmarks|17|2021-12-07|2021-04-20|
-|76|[kriskwiatkowski/pqc](https://github.com/kriskwiatkowski/pqc)|Reference implementations of post-quantum cryptographic primitives|17|2021-12-17|2021-03-24|
-|77|[maximilien-noal/OpenRakis](https://github.com/maximilien-noal/OpenRakis)|open-source reimplementation of Cryo's DUNE game|17|2021-12-29|2021-02-22|
-|78|[Baron-von-Riedesel/DOS32pae](https://github.com/Baron-von-Riedesel/DOS32pae)|DOS32pae is a "micro" (or perhaps "nano") DOS extender using PAE paging|17|2021-10-10|2021-02-21|
-|79|[felixjones/agbabi](https://github.com/felixjones/agbabi)|Provides GBA optimized functions for some common, handy operations.|17|2022-01-07|2021-01-14|
-|80|[nanochess/pi](https://github.com/nanochess/pi)|Pi number calculator using 8088 assembly language|16|2021-11-15|2021-11-11|
-|81|[ladystarbreeze/replacemenDS](https://github.com/ladystarbreeze/replacemenDS)|Open source Nintendo DS ARM7 and ARM9 boot ROMs and firmware replacement.|16|2021-10-10|2021-10-03|
-|82|[projectPiki/pikmin](https://github.com/projectPiki/pikmin)|A decompilation of Pikmin brought to you by a bunch of clever folks.|16|2022-01-08|2021-09-28|
+|66|[projectPiki/pikmin](https://github.com/projectPiki/pikmin)|A decompilation of Pikmin brought to you by a bunch of clever folks.|18|2022-01-09|2021-09-28|
+|67|[CXWorld/MicroBenchX](https://github.com/CXWorld/MicroBenchX)|Micro benchmarks CPU/GPU|18|2021-10-26|2021-09-07|
+|68|[vinheim3/sakuraWars1-disasm](https://github.com/vinheim3/sakuraWars1-disasm)|-|18|2021-11-08|2021-08-08|
+|69|[forrest-orr/ExploitDev](https://github.com/forrest-orr/ExploitDev)|Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/|18|2021-07-22|2021-06-22|
+|70|[markmoxon/elite-a-beebasm](https://github.com/markmoxon/elite-a-beebasm)|Fully documented and annotated source code for Angus Duggan's Elite-A on the BBC Micro|18|2021-12-07|2021-05-11|
+|71|[cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)|Source code of some NES games|18|2021-11-22|2021-01-25|
+|72|[Hydr8gon/sodium64](https://github.com/Hydr8gon/sodium64)|A SNES emulator for the N64, written in assembly|17|2021-11-18|2021-10-06|
+|73|[monsonite/MINT](https://github.com/monsonite/MINT)|A minimal interpreter in Z80 assembly for the RC2014 Micro|17|2021-12-31|2021-07-05|
+|74|[zakarialaoui10/HIGH-TO-LOW](https://github.com/zakarialaoui10/HIGH-TO-LOW)|in this repository you will find codes in C and their equivalence in MIPS Assembly|17|2022-01-02|2021-06-21|
+|75|[xsscx/srd](https://github.com/xsscx/srd)|Welcome to Hoyt's SRD Repo for the Apple Security Research Device. Contribute Code or Open an Issue or Discussion.|17|2022-01-09|2021-06-18|
+|76|[AliChraghi/LanguagesBenchmark](https://github.com/AliChraghi/LanguagesBenchmark)|Programming Languages Benchmarks|17|2021-12-07|2021-04-20|
+|77|[kriskwiatkowski/pqc](https://github.com/kriskwiatkowski/pqc)|Reference implementations of post-quantum cryptographic primitives|17|2021-12-17|2021-03-24|
+|78|[maximilien-noal/OpenRakis](https://github.com/maximilien-noal/OpenRakis)|open-source reimplementation of Cryo's DUNE game|17|2021-12-29|2021-02-22|
+|79|[Baron-von-Riedesel/DOS32pae](https://github.com/Baron-von-Riedesel/DOS32pae)|DOS32pae is a "micro" (or perhaps "nano") DOS extender using PAE paging|17|2021-10-10|2021-02-21|
+|80|[felixjones/agbabi](https://github.com/felixjones/agbabi)|Provides GBA optimized functions for some common, handy operations.|17|2022-01-09|2021-01-14|
+|81|[nanochess/pi](https://github.com/nanochess/pi)|Pi number calculator using 8088 assembly language|16|2021-11-15|2021-11-11|
+|82|[ladystarbreeze/replacemenDS](https://github.com/ladystarbreeze/replacemenDS)|Open source Nintendo DS ARM7 and ARM9 boot ROMs and firmware replacement.|16|2021-10-10|2021-10-03|
 |83|[mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)|-|16|2021-12-29|2021-08-27|
 |84|[nauful/gb-ts](https://github.com/nauful/gb-ts)|Browser-based Gameboy emulator in Typescript and WebGL|16|2021-07-21|2021-07-21|
-|85|[jratcliff63367/digpak](https://github.com/jratcliff63367/digpak)|Someone requested access to the ancient DIGIPAK sound drivers source code. I'm not sure why anyone would think this is useful but if so, have at it.|16|2021-11-23|2021-02-11|
-|86|[KevEdwards/Galaforce2BBC](https://github.com/KevEdwards/Galaforce2BBC)|Galaforce 2 for the BBC Micro home computer from 1987 ( full, buildable 6502 source code )|15|2021-11-29|2021-11-29|
-|87|[Bread80/CPC6128-Firmware-Source](https://github.com/Bread80/CPC6128-Firmware-Source)|Unassembled Amstrad CPC6128 Firmware|15|2021-11-01|2021-10-17|
-|88|[FUComplete/Patch](https://github.com/FUComplete/Patch)|P2G patch with english localization/translation and built-in event quests.|15|2022-01-02|2021-10-15|
-|89|[cocotyty/dpig](https://github.com/cocotyty/dpig)|Dynamic Proxy Implementation In Go|15|2021-07-22|2021-07-15|
-|90|[Kurausukun/mother3](https://github.com/Kurausukun/mother3)|-|15|2021-11-16|2021-07-09|
-|91|[pixjuan/clockboy](https://github.com/pixjuan/clockboy)|turn a Gameboy into a chiptune alarm clock|15|2021-12-14|2021-06-23|
+|85|[pixjuan/clockboy](https://github.com/pixjuan/clockboy)|turn a Gameboy into a chiptune alarm clock|16|2021-12-14|2021-06-23|
+|86|[jratcliff63367/digpak](https://github.com/jratcliff63367/digpak)|Someone requested access to the ancient DIGIPAK sound drivers source code. I'm not sure why anyone would think this is useful but if so, have at it.|16|2021-11-23|2021-02-11|
+|87|[KevEdwards/Galaforce2BBC](https://github.com/KevEdwards/Galaforce2BBC)|Galaforce 2 for the BBC Micro home computer from 1987 ( full, buildable 6502 source code )|15|2021-11-29|2021-11-29|
+|88|[Bread80/CPC6128-Firmware-Source](https://github.com/Bread80/CPC6128-Firmware-Source)|Unassembled Amstrad CPC6128 Firmware|15|2021-11-01|2021-10-17|
+|89|[FUComplete/Patch](https://github.com/FUComplete/Patch)|P2G patch with english localization/translation and built-in event quests.|15|2022-01-02|2021-10-15|
+|90|[cocotyty/dpig](https://github.com/cocotyty/dpig)|Dynamic Proxy Implementation In Go|15|2021-07-22|2021-07-15|
+|91|[Kurausukun/mother3](https://github.com/Kurausukun/mother3)|-|15|2021-11-16|2021-07-09|
 |92|[vproc/vicuna](https://github.com/vproc/vicuna)|RISC-V Zve32x Vector Coprocessor|15|2022-01-08|2021-04-30|
 |93|[markmoxon/disc-elite-beebasm](https://github.com/markmoxon/disc-elite-beebasm)|Fully documented and annotated source code for the disc version of Elite on the BBC Micro|15|2021-12-27|2021-01-27|
 |94|[AzureKeys/BW3G](https://github.com/AzureKeys/BW3G)|Black and White 3: Genesis|15|2022-01-06|2021-01-17|
@@ -137,7 +137,7 @@
 |130|[NightShade256/Cobalt](https://github.com/NightShade256/Cobalt)|A Chip-8 interpreter written in assembly for the Game Boy.|10|2021-09-24|2021-08-26|
 |131|[8street/Bedlam2](https://github.com/8street/Bedlam2)|Source code for Bedlam 2 (1997) game executable file.|10|2021-12-03|2021-07-18|
 |132|[iTimed-Toolkit/core_image](https://github.com/iTimed-Toolkit/core_image)|-|10|2021-09-27|2021-07-05|
-|133|[seilweiss/incredibles](https://github.com/seilweiss/incredibles)|Decompilation project for The Incredibles (GameCube)|10|2022-01-02|2021-06-18|
+|133|[seilweiss/incredibles](https://github.com/seilweiss/incredibles)|Decompilation project for The Incredibles (GameCube)|10|2022-01-09|2021-06-18|
 |134|[yangfengwu45/learn-esp8266-sdk](https://github.com/yangfengwu45/learn-esp8266-sdk)|-|10|2021-09-25|2021-06-01|
 |135|[Haruster/Nephael-Assem-OS](https://github.com/Haruster/Nephael-Assem-OS)|Nephael ISO OS Project|10|2021-08-23|2021-02-08|
 |136|[Ralakimus/sonic-cd-r11a-disassembly](https://github.com/Ralakimus/sonic-cd-r11a-disassembly)|-|10|2021-11-06|2021-01-23|
@@ -145,58 +145,58 @@
 |138|[DosWorld/zrdx](https://github.com/DosWorld/zrdx)|ZRDX - Zurenava DOS extender (DPMI)|9|2021-11-04|2021-11-04|
 |139|[billyeatcookies/bill](https://github.com/billyeatcookies/bill)|x64 Operating System|9|2021-09-22|2021-09-07|
 |140|[Haruster/Haruster-Reversing](https://github.com/Haruster/Haruster-Reversing)|Reversing|9|2022-01-07|2021-05-17|
-|141|[nesdoug/SNES_13](https://github.com/nesdoug/SNES_13)|SNES music code with echo|9|2021-11-06|2021-04-02|
-|142|[prochazkaml/MichalOS](https://github.com/prochazkaml/MichalOS)|A simple 16-bit OS based on MikeOS 4.5 with many enhancements.|9|2021-12-06|2021-03-29|
-|143|[tebl/ZX-Interface-2.021](https://github.com/tebl/ZX-Interface-2.021)|An old-school remake of the ZX Interface 2 with some modern tweaks - mainly by integrating bank switching into the interface itself. Everything done with basic logic chips and components, no magic bla ...|9|2021-09-12|2021-03-05|
-|144|[libjet/shi-kong-xing-shou](https://github.com/libjet/shi-kong-xing-shou)|"This Pokemon-esque, unlicensed Taiwanese Gameboy RPG rocks."|9|2021-08-12|2021-02-28|
-|145|[eatonphil/bootloaders](https://github.com/eatonphil/bootloaders)|Bootloader exploration|8|2021-12-31|2021-12-31|
-|146|[th-otto/tos1x](https://github.com/th-otto/tos1x)|-|8|2022-01-08|2021-12-01|
+|141|[prochazkaml/MichalOS](https://github.com/prochazkaml/MichalOS)|A simple 16-bit OS based on MikeOS 4.5 with many enhancements.|9|2021-12-06|2021-03-29|
+|142|[tebl/ZX-Interface-2.021](https://github.com/tebl/ZX-Interface-2.021)|An old-school remake of the ZX Interface 2 with some modern tweaks - mainly by integrating bank switching into the interface itself. Everything done with basic logic chips and components, no magic bla ...|9|2021-09-12|2021-03-05|
+|143|[libjet/shi-kong-xing-shou](https://github.com/libjet/shi-kong-xing-shou)|"This Pokemon-esque, unlicensed Taiwanese Gameboy RPG rocks."|9|2021-08-12|2021-02-28|
+|144|[eatonphil/bootloaders](https://github.com/eatonphil/bootloaders)|Bootloader exploration|8|2021-12-31|2021-12-31|
+|145|[xryshirfxn/level-zero](https://github.com/xryshirfxn/level-zero)|🚀 An introduction to programming|8|2022-01-09|2021-12-12|
+|146|[th-otto/tos1x](https://github.com/th-otto/tos1x)|-|8|2022-01-09|2021-12-01|
 |147|[Brawlback-Team/brawlback-asm](https://github.com/Brawlback-Team/brawlback-asm)|ASM Codes Needed for SSBB Rollback|8|2021-12-07|2021-11-19|
-|148|[EvilJagaGenius/jagoombacolor](https://github.com/EvilJagaGenius/jagoombacolor)|Jaga's Goomba Color fork|8|2022-01-08|2021-11-04|
+|148|[EvilJagaGenius/jagoombacolor](https://github.com/EvilJagaGenius/jagoombacolor)|Jaga's Goomba Color fork|8|2022-01-09|2021-11-04|
 |149|[B1rby/Baby-Calculator-Assembly](https://github.com/B1rby/Baby-Calculator-Assembly)|A simple calculator in nasm64. |8|2021-11-15|2021-11-01|
 |150|[Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly](https://github.com/Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly)|-|8|2021-10-31|2021-10-31|
 |151|[huyinit/Assembly-va-KTMT-KTVXL](https://github.com/huyinit/Assembly-va-KTMT-KTVXL)|-|8|2021-10-29|2021-10-27|
-|152|[FluBBaOfWard/NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)|WonderSwan emulator for Nintendo DS.|8|2021-12-22|2021-10-17|
+|152|[FluBBaOfWard/NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)|WonderSwan emulator for Nintendo DS.|8|2022-01-09|2021-10-17|
 |153|[BluRosie/hg-mega-evolution](https://github.com/BluRosie/hg-mega-evolution)|mega evolution in english pokemon heart gold|8|2022-01-07|2021-10-09|
 |154|[herrhu97/csapp-labs](https://github.com/herrhu97/csapp-labs)|csapp-labs|8|2021-12-18|2021-10-09|
-|155|[DeadlyKom/TSLib](https://github.com/DeadlyKom/TSLib)|TS-Conf library|8|2021-12-10|2021-09-07|
-|156|[Prof9/Mega-Man-Star-Force-DX](https://github.com/Prof9/Mega-Man-Star-Force-DX)|A comprehensive mod for Mega man Star Force that modernizes and improves all aspects of the game.|8|2021-12-18|2021-09-05|
-|157|[wide-dot/thomson-to8-game-engine](https://github.com/wide-dot/thomson-to8-game-engine)|Thomson TO8 game engine (sprites, music, etc.) and its generator written in ASM 6809 and Java|8|2022-01-04|2021-08-30|
-|158|[marcrobledo/mobile-golf-translation](https://github.com/marcrobledo/mobile-golf-translation)|Sourcecode for Mobile Golf (GBC) english translation|8|2021-09-18|2021-08-20|
-|159|[SiliconSloth/tri3d](https://github.com/SiliconSloth/tri3d)|Open-source hardware-accelerated 3D graphics pipeline for the N64|8|2021-12-29|2021-08-11|
-|160|[0dayNinja/Linux-x86-Bind-Shellcode](https://github.com/0dayNinja/Linux-x86-Bind-Shellcode)|Linux/x86 - Bind (User Specified Port) Shell (/bin/sh) Shellcode (102 bytes)|8|2021-07-31|2021-07-30|
-|161|[ajgbarnes/bbc-micro-repton](https://github.com/ajgbarnes/bbc-micro-repton)|-|8|2021-09-30|2021-07-26|
-|162|[Iizerd/VirtualMachine](https://github.com/Iizerd/VirtualMachine)|a virtual machine|8|2021-07-28|2021-07-26|
-|163|[CS2023ASSEMBLYLANGUAGE/ASMCODES](https://github.com/CS2023ASSEMBLYLANGUAGE/ASMCODES)|-|8|2021-09-13|2021-07-21|
-|164|[MaoKo/Unix-Like](https://github.com/MaoKo/Unix-Like)|An educational Unix-Like Os. Try to mimic the first Unix implementation, back in the old day.|8|2021-08-21|2021-07-14|
-|165|[gbajam21/gbajam21.github.io](https://github.com/gbajam21/gbajam21.github.io)|GBA Jam 2021 games|8|2021-09-30|2021-07-11|
-|166|[J-AugustoManzano/livro_Assembly-Intro-8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086)|Arquivos fontes que acompanham os exemplos do livro texto.|8|2021-07-12|2021-06-07|
-|167|[Haruster/Haruster-Phantester-K](https://github.com/Haruster/Haruster-Phantester-K)|Team. Phantester TCP/Server |8|2021-12-11|2021-04-21|
-|168|[uraninite/win32-stuxnet](https://github.com/uraninite/win32-stuxnet)|Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs bu ...|8|2021-09-01|2021-03-16|
-|169|[ironsource-mobile/Mediation-Demo-Apps](https://github.com/ironsource-mobile/Mediation-Demo-Apps)|IronSource Mediation Demo Apps|8|2022-01-06|2021-02-22|
-|170|[alt-romes/chip8-emulator-for-gameboy](https://github.com/alt-romes/chip8-emulator-for-gameboy)|A chip8 emulator made in gameboy assembly for the gameboy|8|2021-08-12|2021-02-20|
-|171|[Patman86/x265-Mod-by-Patman](https://github.com/Patman86/x265-Mod-by-Patman)|Patman's mod of x265|8|2021-12-14|2021-02-13|
-|172|[mwenge/uridium](https://github.com/mwenge/uridium)|Uridium (1986) by Andrew Braybrook|8|2021-12-07|2021-02-10|
-|173|[spannerisms/smt1dasm](https://github.com/spannerisms/smt1dasm)|Disassembly of Shin Megami Tensei J1.0 for the SNES|8|2022-01-01|2021-02-02|
-|174|[Yoshifanatic1/SNES-ROM-Framework](https://github.com/Yoshifanatic1/SNES-ROM-Framework)|-|8|2021-10-31|2021-01-11|
-|175|[amicheh/asm_reverse_shell](https://github.com/amicheh/asm_reverse_shell)|the assembly shell and backdoor Trojan |7|2021-12-19|2021-12-19|
-|176|[LivingM100SIG/Living_M100SIG](https://github.com/LivingM100SIG/Living_M100SIG)|A "living" copy of the M100SIG.|7|2021-12-19|2021-12-18|
-|177|[Bread80/Amstrad-CPC-BASIC-Source](https://github.com/Bread80/Amstrad-CPC-BASIC-Source)|Amstrad CPC BASIC Source|7|2021-11-20|2021-10-31|
-|178|[lll-phill-lll/hse_caos_207_seminars](https://github.com/lll-phill-lll/hse_caos_207_seminars)|207 group seminar pages for HSE CAOS (Computer Architecture and Operating Systems) 2021/2022|7|2022-01-08|2021-10-31|
-|179|[boviex/GBA-FlightSim](https://github.com/boviex/GBA-FlightSim)|A flight simulator for GBA using voxel space rendering.|7|2021-12-26|2021-10-17|
-|180|[VinsCool/RMT-Patch16](https://github.com/VinsCool/RMT-Patch16)|Experimental Raster Music Tracker driver patch|7|2021-12-04|2021-10-05|
-|181|[robiot/cbot](https://github.com/robiot/cbot)|Shutdown or reboot your linux system with x86_64 assembly |7|2021-10-01|2021-09-30|
-|182|[ThatOneMeganium/Mother3RUS](https://github.com/ThatOneMeganium/Mother3RUS)|Полный (но ещё не "отполированный") перевод Mother 3.|7|2022-01-04|2021-09-30|
-|183|[tbsp/shock-lobster](https://github.com/tbsp/shock-lobster)|-|7|2021-10-02|2021-09-30|
-|184|[mav8557/virus](https://github.com/mav8557/virus)|Polymorphic ELF Virus|7|2021-09-17|2021-09-17|
+|155|[mav8557/virus](https://github.com/mav8557/virus)|Polymorphic ELF Virus|8|2021-09-17|2021-09-17|
+|156|[DeadlyKom/TSLib](https://github.com/DeadlyKom/TSLib)|TS-Conf library|8|2021-12-10|2021-09-07|
+|157|[Prof9/Mega-Man-Star-Force-DX](https://github.com/Prof9/Mega-Man-Star-Force-DX)|A comprehensive mod for Mega man Star Force that modernizes and improves all aspects of the game.|8|2021-12-18|2021-09-05|
+|158|[wide-dot/thomson-to8-game-engine](https://github.com/wide-dot/thomson-to8-game-engine)|Thomson TO8 game engine (sprites, music, etc.) and its generator written in ASM 6809 and Java|8|2022-01-04|2021-08-30|
+|159|[marcrobledo/mobile-golf-translation](https://github.com/marcrobledo/mobile-golf-translation)|Sourcecode for Mobile Golf (GBC) english translation|8|2021-09-18|2021-08-20|
+|160|[SiliconSloth/tri3d](https://github.com/SiliconSloth/tri3d)|Open-source hardware-accelerated 3D graphics pipeline for the N64|8|2021-12-29|2021-08-11|
+|161|[0dayNinja/Linux-x86-Bind-Shellcode](https://github.com/0dayNinja/Linux-x86-Bind-Shellcode)|Linux/x86 - Bind (User Specified Port) Shell (/bin/sh) Shellcode (102 bytes)|8|2021-07-31|2021-07-30|
+|162|[ajgbarnes/bbc-micro-repton](https://github.com/ajgbarnes/bbc-micro-repton)|-|8|2021-09-30|2021-07-26|
+|163|[Iizerd/VirtualMachine](https://github.com/Iizerd/VirtualMachine)|a virtual machine|8|2021-07-28|2021-07-26|
+|164|[CS2023ASSEMBLYLANGUAGE/ASMCODES](https://github.com/CS2023ASSEMBLYLANGUAGE/ASMCODES)|-|8|2021-09-13|2021-07-21|
+|165|[MaoKo/Unix-Like](https://github.com/MaoKo/Unix-Like)|An educational Unix-Like Os. Try to mimic the first Unix implementation, back in the old day.|8|2021-08-21|2021-07-14|
+|166|[gbajam21/gbajam21.github.io](https://github.com/gbajam21/gbajam21.github.io)|GBA Jam 2021 games|8|2021-09-30|2021-07-11|
+|167|[J-AugustoManzano/livro_Assembly-Intro-8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086)|Arquivos fontes que acompanham os exemplos do livro texto.|8|2021-07-12|2021-06-07|
+|168|[Haruster/Haruster-Phantester-K](https://github.com/Haruster/Haruster-Phantester-K)|Team. Phantester TCP/Server |8|2021-12-11|2021-04-21|
+|169|[nesdoug/SNES_13](https://github.com/nesdoug/SNES_13)|SNES music code with echo|8|2021-11-06|2021-04-02|
+|170|[uraninite/win32-stuxnet](https://github.com/uraninite/win32-stuxnet)|Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs bu ...|8|2021-09-01|2021-03-16|
+|171|[ironsource-mobile/Mediation-Demo-Apps](https://github.com/ironsource-mobile/Mediation-Demo-Apps)|IronSource Mediation Demo Apps|8|2022-01-06|2021-02-22|
+|172|[alt-romes/chip8-emulator-for-gameboy](https://github.com/alt-romes/chip8-emulator-for-gameboy)|A chip8 emulator made in gameboy assembly for the gameboy|8|2021-08-12|2021-02-20|
+|173|[Patman86/x265-Mod-by-Patman](https://github.com/Patman86/x265-Mod-by-Patman)|Patman's mod of x265|8|2021-12-14|2021-02-13|
+|174|[mwenge/uridium](https://github.com/mwenge/uridium)|Uridium (1986) by Andrew Braybrook|8|2021-12-07|2021-02-10|
+|175|[spannerisms/smt1dasm](https://github.com/spannerisms/smt1dasm)|Disassembly of Shin Megami Tensei J1.0 for the SNES|8|2022-01-01|2021-02-02|
+|176|[amicheh/asm_reverse_shell](https://github.com/amicheh/asm_reverse_shell)|the assembly shell and backdoor Trojan |7|2021-12-19|2021-12-19|
+|177|[LivingM100SIG/Living_M100SIG](https://github.com/LivingM100SIG/Living_M100SIG)|A "living" copy of the M100SIG.|7|2021-12-19|2021-12-18|
+|178|[Bread80/Amstrad-CPC-BASIC-Source](https://github.com/Bread80/Amstrad-CPC-BASIC-Source)|Amstrad CPC BASIC Source|7|2021-11-20|2021-10-31|
+|179|[lll-phill-lll/hse_caos_207_seminars](https://github.com/lll-phill-lll/hse_caos_207_seminars)|207 group seminar pages for HSE CAOS (Computer Architecture and Operating Systems) 2021/2022|7|2022-01-08|2021-10-31|
+|180|[boviex/GBA-FlightSim](https://github.com/boviex/GBA-FlightSim)|A flight simulator for GBA using voxel space rendering.|7|2021-12-26|2021-10-17|
+|181|[VinsCool/RMT-Patch16](https://github.com/VinsCool/RMT-Patch16)|Experimental Raster Music Tracker driver patch|7|2021-12-04|2021-10-05|
+|182|[robiot/cbot](https://github.com/robiot/cbot)|Shutdown or reboot your linux system with x86_64 assembly |7|2021-10-01|2021-09-30|
+|183|[ThatOneMeganium/Mother3RUS](https://github.com/ThatOneMeganium/Mother3RUS)|Полный (но ещё не "отполированный") перевод Mother 3.|7|2022-01-04|2021-09-30|
+|184|[tbsp/shock-lobster](https://github.com/tbsp/shock-lobster)|-|7|2021-10-02|2021-09-30|
 |185|[pema99/shaderception-standalone](https://github.com/pema99/shaderception-standalone)|Run shaderception compiler outside of unity|7|2021-09-10|2021-09-10|
 |186|[moshix/S370_SOS](https://github.com/moshix/S370_SOS)|Stu Madnick's SOS operating system for the S/370|7|2021-09-10|2021-09-07|
 |187|[rondnelson99/lsdpack-kit](https://github.com/rondnelson99/lsdpack-kit)|-|7|2021-11-10|2021-09-06|
 |188|[ksen-lin/arsh](https://github.com/ksen-lin/arsh)|arshёll|7|2021-08-23|2021-08-23|
-|189|[loda-lang/loda-programs](https://github.com/loda-lang/loda-programs)|Mined LODA programs for OEIS sequences|7|2022-01-08|2021-08-22|
+|189|[loda-lang/loda-programs](https://github.com/loda-lang/loda-programs)|Mined LODA programs for OEIS sequences|7|2022-01-09|2021-08-22|
 |190|[Yoshifanatic1/Donkey-Kong-Country-2-Disassembly](https://github.com/Yoshifanatic1/Donkey-Kong-Country-2-Disassembly)|-|7|2021-08-31|2021-08-14|
-|191|[gotaproblem/Z80Playground](https://github.com/gotaproblem/Z80Playground)|CP/M CBIOS and ROM Monitor plus CP/M tools for the Z80 Playground|7|2021-09-19|2021-06-28|
-|192|[vinheim3/tetris-gb-disasm](https://github.com/vinheim3/tetris-gb-disasm)|-|7|2021-07-25|2021-06-01|
+|191|[SlithyMatt/multi-mandlebrot](https://github.com/SlithyMatt/multi-mandlebrot)|Multi-platform Mandelbrot set plots|7|2022-01-09|2021-08-06|
+|192|[gotaproblem/Z80Playground](https://github.com/gotaproblem/Z80Playground)|CP/M CBIOS and ROM Monitor plus CP/M tools for the Z80 Playground|7|2021-09-19|2021-06-28|
 |193|[chenzhuoyu/base64x](https://github.com/chenzhuoyu/base64x)|High performance drop-in replacement of the `encoding/base64` library|7|2021-12-29|2021-05-28|
 |194|[febnug/fnos](https://github.com/febnug/fnos)|A minimal simple operating system |7|2021-12-08|2021-05-25|
 |195|[plusvic/simplebus2-intercom](https://github.com/plusvic/simplebus2-intercom)|General description of the Simplebus2 protocol used by some Comelit's intercoms. Hardware for retransmitting Simplebus2 messages over UART. |7|2021-11-27|2021-05-23|

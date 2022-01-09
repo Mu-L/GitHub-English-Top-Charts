@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|355|2021-08-23|2021-02-24|
 |2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|339|2022-01-06|2021-06-25|
-|3|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|178|2022-01-08|2021-08-17|
+|3|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|180|2022-01-09|2021-08-17|
 |4|[jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page)|A bookmarkable, searchable cheatsheet for all of Laravel's default Artisan commands.|178|2022-01-05|2021-01-18|
 |5|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|124|2022-01-06|2021-10-09|
 |6|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|104|2021-12-13|2021-10-21|
@@ -15,11 +15,11 @@
 |8|[aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys)|🎲 A curated list of MLOps projects, tools and resources|95|2021-11-29|2021-06-10|
 |9|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|79|2021-12-03|2021-06-20|
 |10|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|69|2022-01-04|2021-02-25|
-|11|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — for learning|55|2021-12-22|2021-11-15|
+|11|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — for learning|56|2021-12-22|2021-11-15|
 |12|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-20|2021-10-03|
 |13|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|50|2021-12-29|2021-10-25|
 |14|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|50|2021-12-19|2021-05-22|
-|15|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|44|2022-01-07|2021-09-02|
+|15|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|45|2022-01-08|2021-09-02|
 |16|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|40|2021-12-29|2021-04-07|
 |17|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|39|2021-12-23|2021-11-28|
 |18|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|36|2021-11-25|2021-01-27|
@@ -54,10 +54,10 @@
 |47|[nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list)|OSL is a simple shared list web-application based on Node. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.|8|2021-11-30|2021-05-03|
 |48|[chyj4747/vue3-golden-layout-virtualcomponent](https://github.com/chyj4747/vue3-golden-layout-virtualcomponent)|A demo shows how to use golden-layout's virtual component in vue3|7|2021-09-21|2021-09-20|
 |49|[Talentrator/Prograchallenges.com](https://github.com/Talentrator/Prograchallenges.com)|Learn Programming! Start from zero, become a hero, and finally get a job!|7|2022-01-08|2021-09-12|
-|50|[italia/come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)|Guided wizard to direct contributors to Developers and Designers Italia|7|2022-01-07|2021-05-07|
-|51|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|2021-08-01|2021-05-06|
-|52|[Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries)|🌎 Just a quick app, for learning the countries and their flags|7|2021-11-14|2021-01-20|
-|53|[frikinside/vue3-simple-typeahead](https://github.com/frikinside/vue3-simple-typeahead)|A simple and lightweight Vue3 typeahead component that show a suggested list of elements while the user types in.|6|2021-12-21|2021-09-08|
+|50|[frikinside/vue3-simple-typeahead](https://github.com/frikinside/vue3-simple-typeahead)|A simple and lightweight Vue3 typeahead component that show a suggested list of elements while the user types in.|7|2021-12-21|2021-09-08|
+|51|[italia/come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)|Guided wizard to direct contributors to Developers and Designers Italia|7|2022-01-07|2021-05-07|
+|52|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|2021-08-01|2021-05-06|
+|53|[Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries)|🌎 Just a quick app, for learning the countries and their flags|7|2021-11-14|2021-01-20|
 |54|[spbooks/jsvuejs2](https://github.com/spbooks/jsvuejs2)|Code archive for the book Jump Start Vue.js, 2nd edition|6|2021-07-23|2021-07-02|
 |55|[YashGovekar/CoWIN-Slot-Booking](https://github.com/YashGovekar/CoWIN-Slot-Booking)|Fastest automatic slot booking for CoWIN Vaccination.|6|2021-09-15|2021-06-23|
 |56|[abantes/fylo](https://github.com/abantes/fylo)|📁 Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers.|6|2021-11-25|2021-06-08|

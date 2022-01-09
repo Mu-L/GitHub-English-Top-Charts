@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|10133|2022-01-07|
-|2|[varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io)|:blue_book: Personal blog site based on github issues.|3354|2021-08-17|
-|3|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3088|2021-11-19|
+|1|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile READMEs 📝|10143|2022-01-09|
+|2|[varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io)|:blue_book: Personal blog site based on github issues.|3355|2021-08-17|
+|3|[lostdesign/webgems](https://github.com/lostdesign/webgems)|A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)|3092|2021-11-19|
 |4|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|1842|2021-12-31|
-|5|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1828|2022-01-05|
-|6|[aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)|Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the ...|1627|2021-12-13|
+|5|[BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)|⌨️ A curated list of Open Source Mechanical Keyboard resources.|1830|2022-01-05|
+|6|[aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)|Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the ...|1628|2021-12-13|
 |7|[youzan/vant-demo](https://github.com/youzan/vant-demo)|Collection of vant demos.|1482|2021-11-30|
 |8|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1423|2022-01-04|
 |9|[sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop)|See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions|1193|2021-08-10|
-|10|[microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding t ...|1147|2022-01-05|
-|11|[ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify)|A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify|1049|2021-10-04|
-|12|[lauthieb/code-notes](https://github.com/lauthieb/code-notes)|A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀|989|2021-12-19|
+|10|[microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding t ...|1148|2022-01-05|
+|11|[ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify)|A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify|1050|2021-10-04|
+|12|[lauthieb/code-notes](https://github.com/lauthieb/code-notes)|A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀|990|2021-12-19|
 |13|[Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue)|The application that we build in Vue Mastery's courses starting with Real World Vue|967|2021-10-05|
 |14|[TIGERB/easy-vue](https://github.com/TIGERB/easy-vue)|Learn vueJS Easily :ghost:|906|2021-10-05|
-|15|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|757|2022-01-08|
+|15|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|758|2022-01-08|
 |16|[LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading)|Vue component to easily build (or use presets) SVG loading cards Facebook like.|752|2021-10-05|
 |17|[nuxt/example-auth0](https://github.com/nuxt/example-auth0)|A simple example that shows how to use Nuxt.js with Auth0.|687|2021-10-18|
 |18|[nguyenvanduocit/vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)|Just another collection of loading spinners with Vue.js, alot of spinners|598|2021-10-22|
-|19|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|546|2022-01-06|
-|20|[daoshengfu/Vue-NeteaseCloud-WebMusicApp](https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp)|Vue高仿网易云音乐，基本实现网易云所有音乐、MV相关功能，现已更新到第二版，仅用于学习，下面有详细教程。 |543|2021-10-06|
+|19|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|547|2022-01-06|
+|20|[daoshengfu/Vue-NeteaseCloud-WebMusicApp](https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp)|Vue高仿网易云音乐，基本实现网易云所有音乐、MV相关功能，现已更新到第二版，仅用于学习，下面有详细教程。 |544|2021-10-06|
 |21|[sdras/vue-sample-svg-icons](https://github.com/sdras/vue-sample-svg-icons)|An opinionated example of how to use SVG icons in a Vue.js application|463|2021-08-10|
 |22|[savvyapps/SAVuegram](https://github.com/savvyapps/SAVuegram)|A simple social media web app built with Vue.js and Firebase's Cloud Firestore as a way to teach people how to build a real-world app using the two technologies. Follow along with our tutorial.|460|2021-10-05|
 |23|[koddr/vue-goodshare](https://github.com/koddr/vue-goodshare)|🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.|411|2021-12-28|
@@ -36,17 +36,17 @@
 |29|[bradtraversy/vue_crash_todolist](https://github.com/bradtraversy/vue_crash_todolist)|Vue crash course application|326|2021-10-05|
 |30|[bradtraversy/vuex_todo_manager](https://github.com/bradtraversy/vuex_todo_manager)|Vuex crah course app|284|2021-10-05|
 |31|[allan2coder/vue3-tutorial](https://github.com/allan2coder/vue3-tutorial)|A Tutorial for Vue3 with Vite|279|2022-01-03|
-|32|[dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS)|A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.|270|2021-10-06|
+|32|[dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS)|A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.|271|2021-10-06|
 |33|[64robots/nova-fields](https://github.com/64robots/nova-fields)|A collection of customizable Nova Fields.|257|2021-11-03|
 |34|[CaptainYouz/vue-firebase-tutorial](https://github.com/CaptainYouz/vue-firebase-tutorial)|Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes|242|2021-10-05|
-|35|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|228|2021-12-27|
+|35|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|229|2021-12-27|
 |36|[zircleUI/smarthome-tutorial](https://github.com/zircleUI/smarthome-tutorial)|🎓 Tutorial: smart-home dashboard UI concept.|198|2021-10-05|
 |37|[ShetlandJ/Vue3Todo](https://github.com/ShetlandJ/Vue3Todo)|Vue 3 Composition API examples!|196|2021-10-06|
 |38|[Code-Pop/Real-World_Vue-3](https://github.com/Code-Pop/Real-World_Vue-3)|Example app for Vue Mastery's Real World Vue 3 course |193|2021-09-29|
 |39|[wolfeidau/cognito-vue-bootstrap](https://github.com/wolfeidau/cognito-vue-bootstrap)|This application illustrates how to use the Amazon Amplify with vue.js.|183|2021-10-05|
-|40|[SAP/fundamental-vue](https://github.com/SAP/fundamental-vue)|Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.|180|2022-01-01|
-|41|[freearhey/web-learn](https://github.com/freearhey/web-learn)|A free service which provides simple access to thousands of video lessons on web developing and programming|179|2021-11-04|
-|42|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|178|2022-01-08|
+|40|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|180|2022-01-09|
+|41|[SAP/fundamental-vue](https://github.com/SAP/fundamental-vue)|Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.|180|2022-01-01|
+|42|[freearhey/web-learn](https://github.com/freearhey/web-learn)|A free service which provides simple access to thousands of video lessons on web developing and programming|179|2021-11-04|
 |43|[jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page)|A bookmarkable, searchable cheatsheet for all of Laravel's default Artisan commands.|178|2022-01-05|
 |44|[johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started)|This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.|178|2021-10-06|
 |45|[jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey)|Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the ...|171|2021-10-12|
@@ -57,10 +57,10 @@
 |50|[subins2000/WebDrop](https://github.com/subins2000/WebDrop)|Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)|152|2021-10-06|
 |51|[Hujjat/vue-shop](https://github.com/Hujjat/vue-shop)|Learn to Build E-Commerce Web App with Vuejs and Firebase. |151|2021-10-05|
 |52|[linrock/ssh-tunnels](https://github.com/linrock/ssh-tunnels)|Visual examples and use cases for SSH tunnels|151|2022-01-06|
-|53|[Bambosh/unofficial-homestuck-collection](https://github.com/Bambosh/unofficial-homestuck-collection)|An offline collection of Homestuck and its related works.|135|2022-01-03|
+|53|[Bambosh/unofficial-homestuck-collection](https://github.com/Bambosh/unofficial-homestuck-collection)|An offline collection of Homestuck and its related works.|135|2022-01-09|
 |54|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|124|2022-01-06|
 |55|[Code-Pop/beautify-with-vuetify](https://github.com/Code-Pop/beautify-with-vuetify)|Learn how to create beautiful web applications with Vuetify!|123|2021-10-06|
-|56|[bitcoin-only/bitcoin-only](https://github.com/bitcoin-only/bitcoin-only)|Bitcoin resources (meetups, books, wallets, podcasts, conferences and much more)|110|2022-01-02|
+|56|[bitcoin-only/bitcoin-only](https://github.com/bitcoin-only/bitcoin-only)|Bitcoin resources (meetups, books, wallets, podcasts, conferences and much more)|110|2022-01-09|
 |57|[jadlimcaco/design-systems-repo](https://github.com/jadlimcaco/design-systems-repo)|A collection of Design System examples, resources, tools, articles and videos.|110|2022-01-05|
 |58|[anydown/anydown](https://github.com/anydown/anydown)|Two-way editing Markdown notebook for small project scheduling|109|2021-10-29|
 |59|[kedro-org/kedro-community](https://github.com/kedro-org/kedro-community)|Examples of data science projects created with Kedro.|107|2021-11-17|
@@ -76,11 +76,11 @@
 |69|[faraday-academy/curriculum-app](https://github.com/faraday-academy/curriculum-app)|Create, share, and keep track of your learning curricula. https://studytracker.tech|85|2022-01-06|
 |70|[Code-Pop/animating-vue](https://github.com/Code-Pop/animating-vue)|Repo for Vue Mastery's Animating Vue course|85|2021-10-06|
 |71|[joelewis/readmelater](https://github.com/joelewis/readmelater)|Bookmark with a snooze button. Bookmark, buffer and complete your reading list.|85|2021-09-17|
-|72|[chiehmin/leetcode-ranking-search](https://github.com/chiehmin/leetcode-ranking-search)|Leetcode Contest Ranking Searcher|83|2022-01-06|
-|73|[ShermanTsang/ShareManBox-Nuxt](https://github.com/ShermanTsang/ShareManBox-Nuxt)|ShareMan's personal website of version3.|81|2021-12-26|
+|72|[chiehmin/leetcode-ranking-search](https://github.com/chiehmin/leetcode-ranking-search)|Leetcode Contest Ranking Searcher|83|2022-01-09|
+|73|[ShermanTsang/ShareManBox-Nuxt](https://github.com/ShermanTsang/ShareManBox-Nuxt)|ShareMan's personal website of version3.|81|2022-01-09|
 |74|[PierrickP/multicycles](https://github.com/PierrickP/multicycles)|Multicycles.org aggregates on one map, more than 200 share vehicles like bikes, scooters, mopeds and cars. Demo APP for the Data Flow API, see https://flow.fluctuo.com|81|2021-11-24|
-|75|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|79|2021-12-03|
-|76|[vishnuraghavb/EnRecipes](https://github.com/vishnuraghavb/EnRecipes)|EnRecipes is an open source, privacy-friendly digital cookbook that lets you create, manage and share your recipes.|79|2021-11-26|
+|75|[vishnuraghavb/EnRecipes](https://github.com/vishnuraghavb/EnRecipes)|EnRecipes is an open source, privacy-friendly digital cookbook that lets you create, manage and share your recipes.|80|2021-11-26|
+|76|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|79|2021-12-03|
 |77|[vueschool/vuejs-router](https://github.com/vueschool/vuejs-router)|🗺 Source code for the Vue.js Router for Everyone course|76|2021-10-06|
 |78|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|69|2022-01-04|
 |79|[tldrrun/tools.tldr.run](https://github.com/tldrrun/tools.tldr.run)|A curated list of security tools for Hackers & Builders!|67|2021-10-07|
@@ -88,12 +88,12 @@
 |81|[RediSearch/redisearch-getting-started](https://github.com/RediSearch/redisearch-getting-started)|A RediSearch tutorial to learn the basis of RediSearch module, with sample application in Java, Python and Node.js|65|2021-12-17|
 |82|[WFCD/warframe-hub](https://github.com/WFCD/warframe-hub)|:blue_book: Warframe hub strives to be the community center of the Warframe game|62|2022-01-08|
 |83|[tvjsx/tvjs-overlays](https://github.com/tvjsx/tvjs-overlays)|💴  Collection of overlays made by the TradingVueJs community|61|2021-10-06|
-|84|[gtalarico/aec-startups](https://github.com/gtalarico/aec-startups)|List of AEC Startups|58|2021-10-05|
-|85|[Xonlystar/hexo-blog-client](https://github.com/Xonlystar/hexo-blog-client)|This is a cross-platform hexo blog management client , build on electron-vue（这是一个跨平台的基于electron-vue搭建的hexo博客管理客户端）|58|2021-10-12|
+|84|[Xonlystar/hexo-blog-client](https://github.com/Xonlystar/hexo-blog-client)|This is a cross-platform hexo blog management client , build on electron-vue（这是一个跨平台的基于electron-vue搭建的hexo博客管理客户端）|59|2021-10-12|
+|85|[gtalarico/aec-startups](https://github.com/gtalarico/aec-startups)|List of AEC Startups|58|2021-10-05|
 |86|[garethredfern/vue-auth-demo](https://github.com/garethredfern/vue-auth-demo)|A demo site for a series of articles - Authentication With Vue.js, Firebase & Vuex|57|2021-10-05|
-|87|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — for learning|55|2021-12-22|
+|87|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — for learning|56|2021-12-22|
 |88|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|55|2021-12-20|
-|89|[Apexal/late](https://github.com/Apexal/late)|A web app for RPI students to manage their course load.|54|2021-07-13|
+|89|[Apexal/late](https://github.com/Apexal/late)|A web app for RPI students to manage their course load.|55|2021-07-13|
 |90|[cathyhax/image-uploader](https://github.com/cathyhax/image-uploader)|A companion repository for the image uploader tutorial|53|2021-10-05|
 |91|[kihashi/stardew_community_checklist](https://github.com/kihashi/stardew_community_checklist)|A checklist for the Community Center Bundles in Stardew Valley|52|2021-10-05|
 |92|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|50|2021-12-29|
@@ -105,7 +105,7 @@
 |98|[tomochain/tomomaster](https://github.com/tomochain/tomomaster)|TomoMaster provides a master professional level UI that brings governance power back to the users. Tomomaster allows users to vote for masternodes and apply to become a candidate|48|2021-10-29|
 |99|[mxswat/mx-division-builds](https://github.com/mxswat/mx-division-builds)|A tool to create and share build easily currently in public beta|46|2022-01-06|
 |100|[jake-101/nuxtguide](https://github.com/jake-101/nuxtguide)|A hand-selected collection of modules, plugins, boilerplates, tutorials, inspiration and more for Nuxt.js.|46|2021-08-11|
-|101|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|44|2022-01-07|
+|101|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|45|2022-01-08|
 |102|[atymic/laravel-collection-playground](https://github.com/atymic/laravel-collection-playground)|Test, Run & Share Laravel Collection Examples!|44|2021-10-06|
 |103|[ttop5/issue-blog](https://github.com/ttop5/issue-blog)|基于 GitHub API 的博客工具，尽情享受 GitHub Issue 带来的便利吧。|43|2021-10-06|
 |104|[planetoftheweb/vue-spas](https://github.com/planetoftheweb/vue-spas)|This is the repository for my course on building Single Page Applications with Vue.js and Firebase.|41|2021-10-06|
@@ -118,7 +118,7 @@
 |111|[planetoftheweb/vue-interface](https://github.com/planetoftheweb/vue-interface)|Repository for the new version of my Building An Interface with Vue.js course.|37|2021-10-05|
 |112|[vueschool/nuxt-fundamentals](https://github.com/vueschool/nuxt-fundamentals)|Source code for the Nuxt.js Fundamentals course|37|2021-09-01|
 |113|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|36|2021-11-25|
-|114|[z3by/vuepress-tools](https://github.com/z3by/vuepress-tools)|A curated collection of Awesome vuepress themes and plugins|36|2022-01-08|
+|114|[z3by/vuepress-tools](https://github.com/z3by/vuepress-tools)|A curated collection of Awesome vuepress themes and plugins|36|2022-01-09|
 |115|[duola8789/vue-cli-learning](https://github.com/duola8789/vue-cli-learning)|vue-cli-learning|36|2021-10-05|
 |116|[VictorioBerra/trianglify-desktop-wallpaper](https://github.com/VictorioBerra/trianglify-desktop-wallpaper)|Generate pleasing triangular wallpapers, and set them to change on a schedule.|35|2021-10-30|
 |117|[lin-xi/fe-course](https://github.com/lin-xi/fe-course)|fe-course|34|2021-07-20|
@@ -201,7 +201,7 @@
 |194|[Renovamen/what-if](https://github.com/Renovamen/what-if)|My messy notebook, built with VuePress.|15|2021-09-21|
 |195|[BerniWittmann/pick-a-book](https://github.com/BerniWittmann/pick-a-book)|Pick your next book from your Goodreads reading list|15|2021-10-06|
 |196|[graup/storybook-vue-typescript](https://github.com/graup/storybook-vue-typescript)|Base setup of Storybook+Vue+Typescript|15|2021-10-05|
-|197|[sebastian-raubach/frickl-web](https://github.com/sebastian-raubach/frickl-web)|Frickl is a self-hosted image library. Take ownership of all your photos taken over many years and display them proudly through a sleek web interface. Share them with friends and family.|15|2022-01-07|
+|197|[sebastian-raubach/frickl-web](https://github.com/sebastian-raubach/frickl-web)|Frickl is a self-hosted image library. Take ownership of all your photos taken over many years and display them proudly through a sleek web interface. Share them with friends and family.|15|2022-01-09|
 |198|[sne11ius/egghead.space](https://github.com/sne11ius/egghead.space)|egghead.space is a place to share ideas for side projects|15|2021-08-10|
 |199|[megos/webrtc](https://github.com/megos/webrtc)|A video chat and screen share built with Vue.js and SkyWay (WebRTC platform)|15|2021-10-20|
 |200|[vitogit/vue-chessboard-examples](https://github.com/vitogit/vue-chessboard-examples)|Examples for the vue-chessboard component for Vue.js|15|2021-10-01|
