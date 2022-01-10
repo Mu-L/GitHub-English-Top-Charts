@@ -1,92 +1,92 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Updated: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|2326|2022-01-07|2021-06-15|
+|1|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|2330|2022-01-07|2021-06-15|
 |2|[bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io)|Companion webpage for the book "Bayesian Optimization" by Roman Garnett|621|2021-12-08|2021-08-25|
-|3|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|465|2021-10-09|2021-06-24|
+|3|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|467|2021-10-09|2021-06-24|
 |4|[AhmadRafiee/Docker_training_with_DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)|The tools and sample needed to learn the Docker|405|2021-08-28|2021-08-25|
-|5|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|376|2022-01-03|2021-06-16|
+|5|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|378|2022-01-03|2021-06-16|
 |6|[fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects)|Project codes used in "The NGINX Handbook" |341|2021-11-16|2021-04-20|
-|7|[1milligram/frontend-tips](https://github.com/1milligram/frontend-tips)|Super tiny, quick tips, tricks and best practices of front-end development|323|2022-01-07|2021-02-21|
+|7|[1milligram/frontend-tips](https://github.com/1milligram/frontend-tips)|Super tiny, quick tips, tricks and best practices of front-end development|325|2022-01-07|2021-02-21|
 |8|[bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)|Free Introduction to Git and GitHub eBook|318|2021-10-30|2021-02-25|
-|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|299|2022-01-05|2021-06-08|
-|10|[full-stack-deep-learning/website](https://github.com/full-stack-deep-learning/website)|Source for https://fullstackdeeplearning.com|296|2021-10-09|2021-01-29|
+|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|307|2022-01-10|2021-06-08|
+|10|[full-stack-deep-learning/website](https://github.com/full-stack-deep-learning/website)|Source for https://fullstackdeeplearning.com|299|2021-10-09|2021-01-29|
 |11|[yetanother-blog/indiepen](https://github.com/yetanother-blog/indiepen)|An independent and privacy-friendly solution to embed HTML, CSS and JS code examples|252|2022-01-07|2021-03-16|
 |12|[LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad)|Landchad.net Website Tutorial Page|239|2021-12-19|2021-06-28|
 |13|[nachtfunke/basic-pattern-repository](https://github.com/nachtfunke/basic-pattern-repository)|Simple patterns for <use>. Just SVG - for your delight!|195|2021-10-05|2021-08-21|
-|14|[themeselection/bootstrap-cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet)|The ultimate cheatsheet for Bootstrap5 🚀|191|2021-08-26|2021-01-22|
+|14|[themeselection/bootstrap-cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet)|The ultimate cheatsheet for Bootstrap5 🚀|193|2021-08-26|2021-01-22|
 |15|[haltakov/suboptimal](https://github.com/haltakov/suboptimal)|Seriously Unnecessary Baffling Obscure Perplexing Terms In MAchine Learning|187|2021-08-24|2021-05-07|
 |16|[hieptl/netflix-clone](https://github.com/hieptl/netflix-clone)|The repository helps you learn React by building Netflix :star:|158|2021-12-09|2021-06-01|
-|17|[bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql)|Free Introduction to SQL eBook|150|2021-12-02|2021-05-13|
+|17|[bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql)|Free Introduction to SQL eBook|151|2021-12-02|2021-05-13|
 |18|[russmaxdesign/accessible-forms](https://github.com/russmaxdesign/accessible-forms)|A series of HTML test cases to determine how specific elements are announced in different screen reader / browser combinations.|147|2021-12-15|2021-03-01|
-|19|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|138|2022-01-07|2021-01-10|
-|20|[m8/refined.blog](https://github.com/m8/refined.blog)|curated list of personal blogs|136|2022-01-01|2021-07-25|
-|21|[bobbyiliev/laravel-tips-and-tricks-ebook](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)|Free Laravel Tips eBook|125|2021-10-28|2021-07-15|
-|22|[NVIDIA/NVFlare](https://github.com/NVIDIA/NVFlare)|NVIDIA Federated Learning Application Runtime Environment|122|2022-01-06|2021-07-23|
-|23|[ainzzorl/goodcode](https://github.com/ainzzorl/goodcode)|A curated collection of annotated code examples from prominent open-source projects|121|2021-11-30|2021-06-30|
-|24|[clawfire/covid19-passbook-generator](https://github.com/clawfire/covid19-passbook-generator)|A simple PWA to scan your EU digital COVID Certificate and generate a passbook from it|117|2022-01-09|2021-06-12|
-|25|[ContinualAI/continual-learning-papers](https://github.com/ContinualAI/continual-learning-papers)|Continual Learning papers list, curated by ContinualAI|110|2021-11-15|2021-06-04|
-|26|[SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)|This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is ...|109|2022-01-06|2021-08-31|
-|27|[LinaC404/GCP](https://github.com/LinaC404/GCP)|I will mark what I learned in Google cloud platform|99|2021-10-10|2021-06-04|
-|28|[bobbyiliev/introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)|Free Introduction to Docker eBook|95|2021-12-06|2021-10-25|
-|29|[Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)|The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!|93|2021-11-05|2021-07-02|
-|30|[stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop)|A 3-hour introductory workshop on pandas with notebooks and exercises for following along.|91|2022-01-08|2021-05-15|
-|31|[gabrieldim/Markdown-Crash-Course](https://github.com/gabrieldim/Markdown-Crash-Course)|Markdown Crash Course. Learn Markdown language on a simple way. |80|2021-07-23|2021-06-26|
+|19|[m8/refined.blog](https://github.com/m8/refined.blog)|curated list of personal blogs|136|2022-01-01|2021-07-25|
+|20|[bobbyiliev/laravel-tips-and-tricks-ebook](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)|Free Laravel Tips eBook|125|2021-10-28|2021-07-15|
+|21|[NVIDIA/NVFlare](https://github.com/NVIDIA/NVFlare)|NVIDIA Federated Learning Application Runtime Environment|122|2022-01-06|2021-07-23|
+|22|[ainzzorl/goodcode](https://github.com/ainzzorl/goodcode)|A curated collection of annotated code examples from prominent open-source projects|121|2021-11-30|2021-06-30|
+|23|[clawfire/covid19-passbook-generator](https://github.com/clawfire/covid19-passbook-generator)|A simple PWA to scan your EU digital COVID Certificate and generate a passbook from it|117|2022-01-09|2021-06-12|
+|24|[ContinualAI/continual-learning-papers](https://github.com/ContinualAI/continual-learning-papers)|Continual Learning papers list, curated by ContinualAI|111|2021-11-15|2021-06-04|
+|25|[SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)|This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is ...|109|2022-01-06|2021-08-31|
+|26|[LinaC404/GCP](https://github.com/LinaC404/GCP)|I will mark what I learned in Google cloud platform|99|2021-10-10|2021-06-04|
+|27|[bobbyiliev/introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)|Free Introduction to Docker eBook|95|2021-12-06|2021-10-25|
+|28|[Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)|The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!|94|2021-11-05|2021-07-02|
+|29|[stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop)|A 3-hour introductory workshop on pandas with notebooks and exercises for following along.|91|2022-01-08|2021-05-15|
+|30|[gabrieldim/Markdown-Crash-Course](https://github.com/gabrieldim/Markdown-Crash-Course)|Markdown Crash Course. Learn Markdown language on a simple way. |80|2021-07-23|2021-06-26|
+|31|[OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)|So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools.|74|2022-01-07|2021-10-25|
 |32|[LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives)|A list of recommended OptiFine alternatives.|72|2022-01-03|2021-12-06|
-|33|[OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)|So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools.|72|2022-01-07|2021-10-25|
-|34|[roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php)|Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.|72|2021-12-22|2021-09-21|
-|35|[ConsenSys-Academy/basic-training](https://github.com/ConsenSys-Academy/basic-training)|Open-source repo for ConsenSys Academy's Basic Training: a software fundamentals course covering Unix-like OSes, CLI, Git, Javascript and more|67|2021-12-21|2021-05-04|
+|33|[roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php)|Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.|72|2021-12-22|2021-09-21|
+|34|[ConsenSys-Academy/basic-training](https://github.com/ConsenSys-Academy/basic-training)|Open-source repo for ConsenSys Academy's Basic Training: a software fundamentals course covering Unix-like OSes, CLI, Git, Javascript and more|67|2021-12-21|2021-05-04|
+|35|[buildspace/buildspace-nft-course-starter](https://github.com/buildspace/buildspace-nft-course-starter)|This is the NFT Minting Course Start Project!|66|2021-12-09|2021-09-23|
 |36|[devrel-kr/HackaLearn](https://github.com/devrel-kr/HackaLearn)|HackaLearnx Korea 2021|66|2021-08-19|2021-06-16|
-|37|[buildspace/buildspace-nft-course-starter](https://github.com/buildspace/buildspace-nft-course-starter)|This is the NFT Minting Course Start Project!|65|2021-12-09|2021-09-23|
-|38|[Ksound22/developer-portfolio](https://github.com/Ksound22/developer-portfolio)|Portfolio website tutorial for freeCodeCamp readers|62|2021-12-13|2021-09-30|
-|39|[CesiumLabs/code-examples](https://github.com/CesiumLabs/code-examples)|Short code snippets written by our open source community!|60|2022-01-02|2021-10-01|
-|40|[IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools)|A curated list of awesome resources for R package development|54|2021-12-23|2021-10-27|
-|41|[microsoft/alguidelines](https://github.com/microsoft/alguidelines)|Best Practices and Design Patterns for the AL Language|51|2021-12-18|2021-11-04|
-|42|[learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)|React Quiz Application for Learn with Sumit React Tutorial Series|51|2021-09-07|2021-08-30|
-|43|[Tencent/tdesign-common](https://github.com/Tencent/tdesign-common)|TDesign style/utils shared by multiple frameworks repo.|50|2022-01-09|2021-11-08|
-|44|[learnwithsumit/css-grid-tutorial](https://github.com/learnwithsumit/css-grid-tutorial)|A complete guide to CSS Grid Tutorial|49|2021-11-20|2021-03-25|
-|45|[rohan-kulkarni-25/Learn-GITHUB](https://github.com/rohan-kulkarni-25/Learn-GITHUB)|Easy Guide to for Github and Vs code Workflow ! This will help you to kick start your journey soon !! |48|2021-12-14|2021-03-09|
-|46|[gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light)|Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.|44|2021-11-13|2021-02-07|
-|47|[eco4cast/Statistical-Methods-Seminar-Series](https://github.com/eco4cast/Statistical-Methods-Seminar-Series)|Repository for code shared be presenters in the EFI hosted Statistical Methods Seminar Series|43|2022-01-03|2021-10-06|
-|48|[anton-trunov/csclub-coq-course-spring-2021](https://github.com/anton-trunov/csclub-coq-course-spring-2021)|A course on formal verification at https://compsciclub.ru/en, Spring term 2021|43|2021-08-18|2021-03-12|
+|37|[Ksound22/developer-portfolio](https://github.com/Ksound22/developer-portfolio)|Portfolio website tutorial for freeCodeCamp readers|63|2022-01-10|2021-09-30|
+|38|[CesiumLabs/code-examples](https://github.com/CesiumLabs/code-examples)|Short code snippets written by our open source community!|60|2022-01-02|2021-10-01|
+|39|[IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools)|A curated list of awesome resources for R package development|54|2022-01-10|2021-10-27|
+|40|[microsoft/alguidelines](https://github.com/microsoft/alguidelines)|Best Practices and Design Patterns for the AL Language|52|2021-12-18|2021-11-04|
+|41|[learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)|React Quiz Application for Learn with Sumit React Tutorial Series|51|2021-09-07|2021-08-30|
+|42|[Tencent/tdesign-common](https://github.com/Tencent/tdesign-common)|TDesign style/utils shared by multiple frameworks repo.|50|2022-01-10|2021-11-08|
+|43|[learnwithsumit/css-grid-tutorial](https://github.com/learnwithsumit/css-grid-tutorial)|A complete guide to CSS Grid Tutorial|49|2021-11-20|2021-03-25|
+|44|[rohan-kulkarni-25/Learn-GITHUB](https://github.com/rohan-kulkarni-25/Learn-GITHUB)|Easy Guide to for Github and Vs code Workflow ! This will help you to kick start your journey soon !! |48|2021-12-14|2021-03-09|
+|45|[gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light)|Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.|44|2021-11-13|2021-02-07|
+|46|[eco4cast/Statistical-Methods-Seminar-Series](https://github.com/eco4cast/Statistical-Methods-Seminar-Series)|Repository for code shared be presenters in the EFI hosted Statistical Methods Seminar Series|43|2022-01-10|2021-10-06|
+|47|[anton-trunov/csclub-coq-course-spring-2021](https://github.com/anton-trunov/csclub-coq-course-spring-2021)|A course on formal verification at https://compsciclub.ru/en, Spring term 2021|43|2021-08-18|2021-03-12|
+|48|[merlinmann/wisdom](https://github.com/merlinmann/wisdom)|Merlin Mann attempts to capture the best advice he's heard and learned from. |42|2022-01-07|2021-12-29|
 |49|[darshanagandhi90/macbook-keyboard](https://github.com/darshanagandhi90/macbook-keyboard)|Mackbook keyboard using CSS|42|2021-07-24|2021-04-11|
 |50|[awahids/belajar-ngaji](https://github.com/awahids/belajar-ngaji)|simple website for learning basic Quran from Hijaiyah with audio and animations|40|2021-10-25|2021-04-28|
 |51|[suman-shah/various-html-elements](https://github.com/suman-shah/various-html-elements)|Html stands for hyper test mark up language . Add any html file you know HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will ...|39|2021-10-31|2021-10-01|
 |52|[DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)|A collection of resources categorised by tech domains, languages, expertise and much more. QuickLearn gives you a quick access to all the resources that you could need at a single place, within a clic ...|39|2021-10-31|2021-09-30|
-|53|[ayush-lab/Coursera-Clone](https://github.com/ayush-lab/Coursera-Clone)|Coursera clone|37|2021-12-21|2021-04-11|
-|54|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|36|2022-01-05|2021-10-24|
+|53|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|37|2022-01-05|2021-10-24|
+|54|[ayush-lab/Coursera-Clone](https://github.com/ayush-lab/Coursera-Clone)|Coursera clone|37|2021-12-21|2021-04-11|
 |55|[erankitcs/BookStoreAppOnEKS](https://github.com/erankitcs/BookStoreAppOnEKS)|A book store app powered by AWS EKS.|36|2021-09-28|2021-06-06|
-|56|[merlinmann/wisdom](https://github.com/merlinmann/wisdom)|Merlin Mann attempts to capture the best advice he's heard and learned from. |35|2022-01-07|2021-12-29|
+|56|[Yunhui1998/Gymjsp](https://github.com/Yunhui1998/Gymjsp)|Share a benchmark that can easily apply reinforcement  learning in Job-shop-scheduling|35|2021-09-25|2021-08-29|
 |57|[42js/js-piscine-beta-2021-08](https://github.com/42js/js-piscine-beta-2021-08)|🔥 JavaScript crunch course from scratch|35|2021-09-08|2021-08-09|
 |58|[midnitefox/Nord-Theme-Ports-and-Assets](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets)|A collection of various assets I've created using Nord Theme color palettes|35|2021-12-26|2021-07-19|
-|59|[shen-yu/iptv-list](https://github.com/shen-yu/iptv-list)|List of IPTV channels with the option to play them directly in the browser. 📺|35|2022-01-04|2021-03-22|
-|60|[Yunhui1998/Gymjsp](https://github.com/Yunhui1998/Gymjsp)|Share a benchmark that can easily apply reinforcement  learning in Job-shop-scheduling|34|2021-09-25|2021-08-29|
-|61|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |32|2022-01-09|2021-07-15|
-|62|[trailheadapps/az-insurance](https://github.com/trailheadapps/az-insurance)|Sample app that demonstrates how to build customer/partner/marketing experiences for Salesforce Experience Cloud and Lightning Web Runtime.|31|2022-01-01|2021-06-29|
-|63|[anastasiospanagiotelis/DimensionReduction](https://github.com/anastasiospanagiotelis/DimensionReduction)|Short course on dimension reduction for AMSI|31|2021-07-15|2021-05-24|
-|64|[MoonHighway/federation-nation](https://github.com/MoonHighway/federation-nation)|Student files for Moon Highway's Federation Nation Course|30|2021-11-10|2021-04-01|
-|65|[swsnu/swppfall2021](https://github.com/swsnu/swppfall2021)|Learning Software Engineering By Building Web Services|29|2021-11-25|2021-08-11|
-|66|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|29|2022-01-02|2021-06-23|
-|67|[openSUSE/openSUSE-docs-revamped-temp](https://github.com/openSUSE/openSUSE-docs-revamped-temp)|We're creating new, refreshed community user guides and documentation for the openSUSE distributions, centered on Tumbleweed, catering for inexperienced users and veterans alike. Target release: 2021|29|2021-12-28|2021-05-21|
-|68|[acantril/aws-advancednetworking-specialty](https://github.com/acantril/aws-advancednetworking-specialty)|Repo for https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty|29|2021-11-07|2021-03-08|
-|69|[lovy003/First-PR](https://github.com/lovy003/First-PR)|Make Your first PR as part of hactoberfest 2k21. You can add here your first project you made while learning any new language. Make this repo a resource material for those who have just started with a ...|28|2021-12-08|2021-10-02|
-|70|[DiegoVictor/code-streamer](https://github.com/DiegoVictor/code-streamer)|Nodejs Video Streaming Study Case |28|2021-10-26|2021-06-09|
-|71|[livebook-dev/livebook_website](https://github.com/livebook-dev/livebook_website)|Landing page for Livebook|27|2021-12-23|2021-10-15|
-|72|[justinmeiners/efficient-programming-with-components](https://github.com/justinmeiners/efficient-programming-with-components)|Course notes for Alexander Stepanov's teachings on design and usage of C++ STL.|27|2022-01-02|2021-07-28|
-|73|[VahidN/DNTPersianComponents.Blazor](https://github.com/VahidN/DNTPersianComponents.Blazor)|A collection of Persian components for Blazor|26|2021-11-28|2021-08-06|
-|74|[Oscuro-Phoenix/phd-resources](https://github.com/Oscuro-Phoenix/phd-resources)|We found that there is a lack of a properly maintained list of websites and other links for people who are applying or planning to apply to Ph.D. programs. Feel free to make changes to the README file ...|26|2021-08-09|2021-07-28|
+|59|[shen-yu/iptv-list](https://github.com/shen-yu/iptv-list)|List of IPTV channels with the option to play them directly in the browser. 📺|35|2022-01-10|2021-03-22|
+|60|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |32|2022-01-09|2021-07-15|
+|61|[trailheadapps/az-insurance](https://github.com/trailheadapps/az-insurance)|Sample app that demonstrates how to build customer/partner/marketing experiences for Salesforce Experience Cloud and Lightning Web Runtime.|31|2022-01-01|2021-06-29|
+|62|[anastasiospanagiotelis/DimensionReduction](https://github.com/anastasiospanagiotelis/DimensionReduction)|Short course on dimension reduction for AMSI|31|2021-07-15|2021-05-24|
+|63|[MoonHighway/federation-nation](https://github.com/MoonHighway/federation-nation)|Student files for Moon Highway's Federation Nation Course|30|2021-11-10|2021-04-01|
+|64|[swsnu/swppfall2021](https://github.com/swsnu/swppfall2021)|Learning Software Engineering By Building Web Services|29|2021-11-25|2021-08-11|
+|65|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|29|2022-01-02|2021-06-23|
+|66|[openSUSE/openSUSE-docs-revamped-temp](https://github.com/openSUSE/openSUSE-docs-revamped-temp)|We're creating new, refreshed community user guides and documentation for the openSUSE distributions, centered on Tumbleweed, catering for inexperienced users and veterans alike. Target release: 2021|29|2021-12-28|2021-05-21|
+|67|[acantril/aws-advancednetworking-specialty](https://github.com/acantril/aws-advancednetworking-specialty)|Repo for https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty|29|2021-11-07|2021-03-08|
+|68|[lovy003/First-PR](https://github.com/lovy003/First-PR)|Make Your first PR as part of hactoberfest 2k21. You can add here your first project you made while learning any new language. Make this repo a resource material for those who have just started with a ...|28|2021-12-08|2021-10-02|
+|69|[DiegoVictor/code-streamer](https://github.com/DiegoVictor/code-streamer)|Nodejs Video Streaming Study Case |28|2021-10-26|2021-06-09|
+|70|[livebook-dev/livebook_website](https://github.com/livebook-dev/livebook_website)|Landing page for Livebook|27|2021-12-23|2021-10-15|
+|71|[justinmeiners/efficient-programming-with-components](https://github.com/justinmeiners/efficient-programming-with-components)|Course notes for Alexander Stepanov's teachings on design and usage of C++ STL.|27|2022-01-02|2021-07-28|
+|72|[VahidN/DNTPersianComponents.Blazor](https://github.com/VahidN/DNTPersianComponents.Blazor)|A collection of Persian components for Blazor|26|2021-11-28|2021-08-06|
+|73|[Oscuro-Phoenix/phd-resources](https://github.com/Oscuro-Phoenix/phd-resources)|We found that there is a lack of a properly maintained list of websites and other links for people who are applying or planning to apply to Ph.D. programs. Feel free to make changes to the README file ...|26|2021-08-09|2021-07-28|
+|74|[stephenleo/stripnet](https://github.com/stephenleo/stripnet)|STriP Net: Semantic Similarity of Scientific Papers (S3P) Network|25|2022-01-09|2022-01-05|
 |75|[clojure-doc/clojure-doc.github.io](https://github.com/clojure-doc/clojure-doc.github.io)|Clojure Guides   Getting Started With Clojure   Clojure Tutorials|24|2021-12-24|2021-11-14|
 |76|[mini-pw/2022Z-DataVisualizationTechniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques)|📊 Data Visualization Techniques course for DS studies in Winter 2021/22|24|2022-01-06|2021-09-18|
 |77|[0xCyberY/ehtk](https://github.com/0xCyberY/ehtk)|Ethical Hacking Toolkit is a collection of tools, cheat sheets, and resources for Ethical hackers, Penetration Tester, and Security Researchers etc. It contains almost all tools mentioned in CEH, OSCP ...|23|2022-01-05|2021-11-01|
 |78|[sniklaus/arxiv-doom](https://github.com/sniklaus/arxiv-doom)|a parody of the ever-increasing amount of papers that appear on arXiv|23|2021-10-31|2021-10-20|
-|79|[rajatt95/MasterSeleniumFramework](https://github.com/rajatt95/MasterSeleniumFramework)|Automation Testing   Web   Java   OOPS   Selenium WebDriver   TestNG   Maven   ExtentReport   Allure Reports   Java mail API   Design Patterns (Page Object Model, Singleton)   Jenkins   Data-Driven Te ...|22|2021-10-27|2021-10-04|
-|80|[ShadowsDash/ShadowsDash](https://github.com/ShadowsDash/ShadowsDash)|A fully customizable shared-resources based dashboard for pterodactyl hosting services|22|2021-10-04|2021-08-02|
-|81|[octavio-santiago/Super-Mario-Land-AI](https://github.com/octavio-santiago/Super-Mario-Land-AI)|Machine Learning and AI Algorithms developed to play Super Mario Land on Game Boy and Python|22|2021-07-12|2021-07-12|
-|82|[Siddhesh-Agarwal/Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms)|A collection of different algorithms implemented in Python.|21|2021-11-12|2021-10-20|
+|79|[Siddhesh-Agarwal/Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms)|A collection of different algorithms implemented in Python.|22|2021-11-12|2021-10-20|
+|80|[rajatt95/MasterSeleniumFramework](https://github.com/rajatt95/MasterSeleniumFramework)|Automation Testing   Web   Java   OOPS   Selenium WebDriver   TestNG   Maven   ExtentReport   Allure Reports   Java mail API   Design Patterns (Page Object Model, Singleton)   Jenkins   Data-Driven Te ...|22|2021-10-27|2021-10-04|
+|81|[ShadowsDash/ShadowsDash](https://github.com/ShadowsDash/ShadowsDash)|A fully customizable shared-resources based dashboard for pterodactyl hosting services|22|2022-01-09|2021-08-02|
+|82|[octavio-santiago/Super-Mario-Land-AI](https://github.com/octavio-santiago/Super-Mario-Land-AI)|Machine Learning and AI Algorithms developed to play Super Mario Land on Game Boy and Python|22|2021-07-12|2021-07-12|
 |83|[abhi1nandy2/EMNLP-2021-Findings](https://github.com/abhi1nandy2/EMNLP-2021-Findings)|This repo has the code for the paper "Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework" accepted at EMNLP 2021 Findings.|20|2021-10-13|2021-06-27|
 |84|[HaujetZhao/ShortcutMapper_Chinese](https://github.com/HaujetZhao/ShortcutMapper_Chinese)|可视化、交互式的快捷键映射图，中文版本，可以直观地查找快捷键。不懂编程也可以方便地修改、添加快捷键。|19|2021-11-13|2021-02-20|
 |85|[elong0527/r4csr](https://github.com/elong0527/r4csr)|R for Clinical Study Report and Submission|18|2021-12-02|2021-09-15|
