@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|14584|2022-01-10|2021-06-16|
-|2|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |3629|2021-12-31|2021-05-30|
-|3|[tkellogg/dura](https://github.com/tkellogg/dura)|You shouldn't ever lose your work if you're using Git|3149|2022-01-10|2021-12-31|
+|1|[AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|14585|2022-01-10|2021-06-16|
+|2|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |3632|2021-12-31|2021-05-30|
+|3|[tkellogg/dura](https://github.com/tkellogg/dura)|You shouldn't ever lose your work if you're using Git|3156|2022-01-10|2021-12-31|
 |4|[containers/youki](https://github.com/containers/youki)|A container runtime written in Rust|3062|2022-01-10|2021-03-27|
 |5|[tokio-rs/axum](https://github.com/tokio-rs/axum)|Ergonomic and modular web framework built with Tokio, Tower, and Hyper|3024|2022-01-06|2021-05-30|
 |6|[nuta/kerla](https://github.com/nuta/kerla)|A new operating system kernel with Linux binary compatibility written in Rust.|2916|2022-01-07|2021-05-18|
 |7|[tonarino/innernet](https://github.com/tonarino/innernet)|A private network system that uses WireGuard under the hood.|2786|2022-01-10|2021-03-29|
-|8|[flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)|a dialect of The Monkey Programming Language|2764|2021-12-05|2021-04-18|
+|8|[flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)|a dialect of The Monkey Programming Language|2765|2021-12-05|2021-04-18|
 |9|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2132|2021-10-23|2021-05-15|
 |10|[elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)|elfshaker stores binary objects efficiently|1965|2021-11-26|2021-10-14|
 |11|[EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)|💡 Experimental real-time global illumination renderer 🦀|1935|2022-01-08|2021-03-26|

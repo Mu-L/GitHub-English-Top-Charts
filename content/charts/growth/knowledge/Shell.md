@@ -5,24 +5,24 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|51856|18|2022-01-06|
-|2|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|30664|15|2022-01-05|
-|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22209|15|2022-01-08|
+|1|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|51862|18|2022-01-06|
+|2|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|30665|15|2022-01-05|
+|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22226|15|2022-01-08|
 |4|[trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)|How to improve NGINX performance, security, and other important things.|12486|12|2021-10-20|
 |5|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|10270|6|2021-12-15|
-|6|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6639|6|2022-01-10|
+|6|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6639|6|2022-01-11|
 |7|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|12357|5|2021-12-28|
 |8|[toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|6579|5|2022-01-03|
 |9|[k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers)|🎬 A curated list of movies every hacker & cyberpunk must watch.|8898|5|2021-11-07|
 |10|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|Certified Kubernetes Administrator - CKA Course|3095|5|2022-01-03|
-|11|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|9428|5|2021-12-23|
+|11|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|9430|5|2021-12-23|
 |12|[OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg)|The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th ...|8404|4|2022-01-07|
 |13|[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials.|10229|4|2022-01-10|
 |14|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1237|4|2021-12-19|
 |15|[agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)|🖥 📊 🕹 🛠 A curated list of command line apps|8710|4|2021-12-31|
 |16|[dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)|📖 A collection of pure POSIX sh alternatives to external processes.|3279|4|2021-07-22|
-|17|[aws/containers-roadmap](https://github.com/aws/containers-roadmap)|This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). |4153|4|2022-01-07|
-|18|[adi1090x/rofi](https://github.com/adi1090x/rofi)|A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.|2981|4|2021-10-24|
+|17|[aws/containers-roadmap](https://github.com/aws/containers-roadmap)|This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). |4152|4|2022-01-07|
+|18|[adi1090x/rofi](https://github.com/adi1090x/rofi)|A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.|2982|4|2021-10-24|
 |19|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|106|3|2021-12-13|
 |20|[hendricius/the-bread-code](https://github.com/hendricius/the-bread-code)|Learn how to master the art of baking the programmer way.|3755|3|2021-11-10|
 |21|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1649|3|2022-01-10|
@@ -30,19 +30,19 @@
 |23|[kubernetes/examples](https://github.com/kubernetes/examples)|Kubernetes application example tutorials|4682|3|2022-01-05|
 |24|[boostchicken-dev/udm-utilities](https://github.com/boostchicken-dev/udm-utilities)|A collection of things I have made to make the Unifi Dream Machine more useful|1962|3|2021-12-28|
 |25|[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)|Guide to using YubiKey for GPG and SSH|6840|3|2022-01-02|
-|26|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|3553|3|2022-01-10|
-|27|[ansible/ansible-examples](https://github.com/ansible/ansible-examples)|A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica ...|9818|3|2021-11-30|
+|26|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|3554|3|2022-01-10|
+|27|[ansible/ansible-examples](https://github.com/ansible/ansible-examples)|A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica ...|9819|3|2021-11-30|
 |28|[chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)|A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)|3662|2|2022-01-02|
-|29|[OWASP/wstg](https://github.com/OWASP/wstg)|The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.|3923|2|2022-01-10|
+|29|[OWASP/wstg](https://github.com/OWASP/wstg)|The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.|3924|2|2022-01-10|
 |30|[awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash)|A curated list of delightful Bash scripts and resources.|4309|2|2022-01-09|
 |31|[xwmx/nb](https://github.com/xwmx/nb)|CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.|3901|2|2022-01-05|
-|32|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects|5165|2|2022-01-10|
+|32|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects|5166|2|2022-01-10|
 |33|[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)|A catalogue of Rust design patterns, anti-patterns and idioms|5544|2|2022-01-08|
 |34|[TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)|The ultimate collection of scripts for YouTube-DL.|1371|2|2021-07-17|
 |35|[ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples)|Minimal self-contained examples of standard Kubernetes features and patterns in YAML|1029|2|2022-01-06|
 |36|[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|5777|2|2021-11-24|
 |37|[acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)|Standard and Advanced Demos for learn.cantrill.io courses|1278|2|2022-01-09|
-|38|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2768|2|2021-12-02|
+|38|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2769|2|2021-12-02|
 |39|[arismelachroinos/lscript](https://github.com/arismelachroinos/lscript)|The LAZY script will make your life easier, and of course faster.|3099|2|2021-08-28|
 |40|[adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper)|A simple bash script to set wallpapers according to current time, using cron job scheduler.|1123|2|2021-12-23|
 |41|[buraksecer/linux-101](https://github.com/buraksecer/linux-101)|Anyone who wants to learn Linux can read and add new information they learn.|68|2|2022-01-09|
@@ -51,7 +51,7 @@
 |44|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|171|1|2022-01-08|
 |45|[calee0219/awesome-5g](https://github.com/calee0219/awesome-5g)|Awesome lists about 5G projects.|305|1|2021-08-09|
 |46|[Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux)|State of Linux on the MacBook Pro 2016 & 2017|1821|1|2021-09-17|
-|47|[jpetazzo/container.training](https://github.com/jpetazzo/container.training)|Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.|2399|1|2022-01-09|
+|47|[jpetazzo/container.training](https://github.com/jpetazzo/container.training)|Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.|2400|1|2022-01-09|
 |48|[Winetricks/winetricks](https://github.com/Winetricks/winetricks)|Winetricks is an easy way to work around problems in Wine|1798|1|2022-01-10|
 |49|[shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks)|Useful snippets / tools for using WSL2 as a development environment|921|1|2021-11-29|
 |50|[zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)|Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of ...|1547|1|2022-01-09|

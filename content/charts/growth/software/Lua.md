@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)|A Neovim config designed from scratch to be understandable|1045|39|2022-01-09|
 |2|[petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar)|Extensible Neovim Scrollbar|124|31|2022-01-10|
-|3|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7606|25|2022-01-10|
+|3|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7607|25|2022-01-11|
 |4|[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)|NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.|556|25|2022-01-10|
 |5|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway |30974|12|2022-01-10|
 |6|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|1951|10|2022-01-10|
@@ -16,7 +16,7 @@
 |9|[shift-d/mappy.nvim](https://github.com/shift-d/mappy.nvim)|Simple wrapper around vim.keymap.set|18|9|2022-01-10|
 |10|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8107|8|2022-01-10|
 |11|[rxi/lite](https://github.com/rxi/lite)|A lightweight text editor written in Lua|6180|8|2021-10-28|
-|12|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|4539|8|2022-01-09|
+|12|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|4543|8|2022-01-09|
 |13|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|1862|7|2022-01-08|
 |14|[yetone/nvim](https://github.com/yetone/nvim)|A must-have configuration for Spacemacs users after defecting to Vim|27|7|2022-01-10|
 |15|[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)|Neovim plugin to improve the default vim.ui interfaces|255|7|2021-12-23|
@@ -91,7 +91,7 @@
 |84|[7USTIN/dotfiles](https://github.com/7USTIN/dotfiles)|Configuration files for my Arch Linux setup |24|2|2021-12-27|
 |85|[lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)|Git integration for buffers|1078|2|2022-01-10|
 |86|[NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim)|A Neovim configuration for the advanced martian hacker|477|2|2021-12-31|
-|87|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4364|2|2022-01-10|
+|87|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4365|2|2022-01-10|
 |88|[draios/sysdig](https://github.com/draios/sysdig)|Linux system exploration and troubleshooting tool with first class support for containers|6731|2|2022-01-03|
 |89|[ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)|Improved fzf.vim written in lua|316|2|2022-01-10|
 |90|[camspiers/snap](https://github.com/camspiers/snap)|A fast finder system for neovim.|352|2|2021-11-01|

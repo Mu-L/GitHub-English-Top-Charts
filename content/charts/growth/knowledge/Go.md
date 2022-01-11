@@ -6,24 +6,24 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|827|52|2022-01-10|
-|2|[avelino/awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|73593|27|2022-01-10|
+|2|[avelino/awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|73598|27|2022-01-10|
 |3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|688|18|2022-01-01|
 |4|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解|22819|14|2022-01-08|
 |5|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|338|13|2021-12-22|
-|6|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16335|12|2021-12-28|
-|7|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|39424|11|2022-01-01|
-|8|[inancgumus/learngo](https://github.com/inancgumus/learngo)|1000+ Hand-Crafted Go Examples, Exercises, and Quizzes|12504|11|2022-01-04|
+|6|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16336|12|2021-12-28|
+|7|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|39426|11|2022-01-01|
+|8|[inancgumus/learngo](https://github.com/inancgumus/learngo)|1000+ Hand-Crafted Go Examples, Exercises, and Quizzes|12507|11|2022-01-04|
 |9|[hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)|The Ultimate Go Study Guide|14683|11|2021-09-17|
 |10|[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)|Collection of mini-programs demonstrating Kubernetes client-go usage.|139|8|2022-01-07|
 |11|[tmrts/go-patterns](https://github.com/tmrts/go-patterns)|Curated list of Go design patterns, recipes and idioms|18113|8|2021-08-12|
 |12|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1434|8|2022-01-04|
-|13|[yudai/gotty](https://github.com/yudai/gotty)|Share your terminal as a web application|16147|7|2021-09-14|
-|14|[fanux/sealos](https://github.com/fanux/sealos)|一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳|7610|6|2022-01-10|
+|13|[yudai/gotty](https://github.com/yudai/gotty)|Share your terminal as a web application|16148|7|2021-09-14|
+|14|[fanux/sealos](https://github.com/fanux/sealos)|一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳|7611|6|2022-01-10|
 |15|[moabukar/Everything-Tech](https://github.com/moabukar/Everything-Tech)|A collection of online resources to help you on your Tech journey.|353|5|2022-01-08|
 |16|[sorenisanerd/gotty](https://github.com/sorenisanerd/gotty)|Share your terminal as a web application|1469|5|2021-11-09|
-|17|[TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)|Algorithms Implemented in GoLang|7545|4|2022-01-10|
+|17|[TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)|Algorithms Implemented in GoLang|7544|4|2022-01-10|
 |18|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|697|4|2022-01-10|
-|19|[cheat/cheat](https://github.com/cheat/cheat)|cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre ...|8605|3|2022-01-08|
+|19|[cheat/cheat](https://github.com/cheat/cheat)|cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre ...|8607|3|2022-01-08|
 |20|[ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)|Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.|2045|3|2021-12-17|
 |21|[ardanlabs/gotraining-studyguide](https://github.com/ardanlabs/gotraining-studyguide)|This repo contains the Ultimate Go Study Guide for students taking the Ultimate Go class.|1379|3|2021-09-14|
 |22|[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)|Concurrency patterns in Go|1277|3|2022-01-01|
@@ -35,19 +35,19 @@
 |28|[anthonynsimon/bild](https://github.com/anthonynsimon/bild)|Image processing algorithms in pure Go|3460|2|2021-12-15|
 |29|[spatial-go/geoos](https://github.com/spatial-go/geoos)|A library provides spatial data and geometric algorithms|504|2|2021-12-31|
 |30|[jdkato/prose](https://github.com/jdkato/prose)|:book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.|2852|2|2021-09-21|
-|31|[concourse/concourse](https://github.com/concourse/concourse)|Concourse is a container-based continuous thing-doer written in Go.|6097|2|2022-01-10|
-|32|[maxmcd/webtty](https://github.com/maxmcd/webtty)|Share a terminal session over WebRTC|2388|2|2021-07-27|
+|31|[concourse/concourse](https://github.com/concourse/concourse)|Concourse is a container-based continuous thing-doer written in Go.|6098|2|2022-01-11|
+|32|[maxmcd/webtty](https://github.com/maxmcd/webtty)|Share a terminal session over WebRTC|2389|2|2021-07-27|
 |33|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|594|2|2022-01-09|
 |34|[gin-gonic/examples](https://github.com/gin-gonic/examples)|A repository to host examples and tutorials for Gin.|1886|2|2021-12-12|
 |35|[hyper0x/Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers)|An example project, for my column named "Core Golang - 36 lessons"|2135|2|2021-10-22|
 |36|[miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers)|Examples of Golang compared to Node.js for learning|2735|2|2021-12-29|
 |37|[tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv)|A course to build distributed key-value service based on TiKV model|1325|2|2022-01-09|
 |38|[eyebluecn/tank](https://github.com/eyebluecn/tank)|《蓝眼云盘》(Eyeblue Cloud Storage)|2407|2|2021-11-26|
-|39|[ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good)|A curated list of articles complaining that go (golang) isn't good enough|3433|2|2021-07-24|
+|39|[ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good)|A curated list of articles complaining that go (golang) isn't good enough|3434|2|2021-07-24|
 |40|[marcelja/facebook-delete](https://github.com/marcelja/facebook-delete)|Fast facebook activity deletion|1126|2|2022-01-06|
 |41|[google/syzkaller](https://github.com/google/syzkaller)|syzkaller is an unsupervised coverage-guided kernel fuzzer|3872|2|2022-01-10|
 |42|[OWASP/Go-SCP](https://github.com/OWASP/Go-SCP)|Go programming language secure coding practices guide|4043|2|2021-12-09|
-|43|[knqyf263/pet](https://github.com/knqyf263/pet)|Simple command-line snippet manager, written in Go.|3367|2|2021-11-21|
+|43|[knqyf263/pet](https://github.com/knqyf263/pet)|Simple command-line snippet manager, written in Go.|3368|2|2022-01-10|
 |44|[gofiber/recipes](https://github.com/gofiber/recipes)|📁 Examples for 🚀 Fiber|1189|2|2022-01-10|
 |45|[trustwallet/assets](https://github.com/trustwallet/assets)|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|1965|2|2022-01-10|
 |46|[jiujuan/go-collection](https://github.com/jiujuan/go-collection)|:tulip: awesome awesome go, study golang from basic to proficient|1395|2|2021-11-22|

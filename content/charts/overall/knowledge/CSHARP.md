@@ -5,20 +5,20 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|18355|2022-01-10|
+|1|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|18357|2022-01-10|
 |2|[thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)|:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software|15606|2021-12-27|
-|3|[dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)|Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.|7051|2022-01-02|
+|3|[dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)|Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.|7053|2022-01-02|
 |4|[microsoft/ailab](https://github.com/microsoft/ailab)|Experience, Learn and Code the latest breakthrough innovations with Microsoft AI|6903|2021-10-25|
-|5|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers.|5908|2022-01-10|
+|5|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers.|5909|2022-01-10|
 |6|[davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)|This repository has examples of broken patterns in ASP.NET Core applications|4722|2021-10-22|
 |7|[CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)|The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit  ...|4684|2022-01-10|
 |8|[hbons/SparkleShare](https://github.com/hbons/SparkleShare)|Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.|4679|2021-11-02|
-|9|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3575|2021-12-14|
+|9|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3576|2021-12-14|
 |10|[ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK)|*Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.|3444|2022-01-03|
-|11|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|3370|2022-01-09|
-|12|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|2509|2021-12-14|
+|11|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|3372|2022-01-09|
+|12|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|2509|2022-01-11|
 |13|[Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)|A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to s ...|2414|2022-01-05|
-|14|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2284|2021-11-20|
+|14|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2285|2021-11-20|
 |15|[JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator)|A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn. |2243|2022-01-09|
 |16|[dotnet/extensions](https://github.com/dotnet/extensions)|.NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration. |2194|2021-12-21|
 |17|[xamarin/monodroid-samples](https://github.com/xamarin/monodroid-samples)|A collection of Xamarin.Android sample projects.|2138|2021-10-13|

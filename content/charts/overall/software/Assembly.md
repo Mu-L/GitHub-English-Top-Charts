@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52300|2021-12-10|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52303|2021-12-10|
 |2|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|8340|2022-01-10|
 |3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7701|2022-01-10|
 |4|[jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II)|A running-jumping-swordfighting game I made on the Apple II from 1985-89|5808|2021-11-24|
-|5|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3086|2022-01-08|
+|5|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3087|2022-01-08|
 |6|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|2951|2021-12-09|
 |7|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|2687|2022-01-10|
 |8|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|2568|2022-01-06|

@@ -5,22 +5,22 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28539|91|2022-01-01|
+|1|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|28544|91|2022-01-01|
 |2|[irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles)|a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.|255|51|2022-01-07|
 |3|[bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array)|3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns|2148|35|2022-01-03|
-|4|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|6893|30|2021-12-09|
+|4|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|6894|30|2021-12-09|
 |5|[GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML)|Learn how to responsibly deliver value with ML.|29347|25|2022-01-09|
-|6|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|7922|25|2021-12-27|
+|6|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|7926|25|2021-12-27|
 |7|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|14112|21|2022-01-07|
 |8|[Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)|A comprehensive repository containing 30+ notebooks on learning machine learning!|2055|19|2022-01-09|
 |9|[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)|TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)|41563|18|2022-01-04|
 |10|[ageron/handson-ml2](https://github.com/ageron/handson-ml2)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.|18887|17|2022-01-10|
-|11|[jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|32180|16|2021-11-12|
-|12|[rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)|A collection of various deep learning architectures, models, and tips|14683|15|2021-11-28|
+|11|[jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|32182|16|2021-11-12|
+|12|[rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)|A collection of various deep learning architectures, models, and tips|14684|15|2021-11-28|
 |13|[virgili0/Virgilio](https://github.com/virgili0/Virgilio)|Your new Mentor for Data Science E-Learning.|13220|13|2021-10-19|
-|14|[Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Course Files for Complete Python 3 Bootcamp Course on Udemy|18716|13|2021-12-27|
-|15|[instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)|:satellite: Simple and ready-to-use tutorials for TensorFlow |15959|13|2021-08-13|
-|16|[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)|🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan ...|5873|12|2021-12-28|
+|14|[Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Course Files for Complete Python 3 Bootcamp Course on Udemy|18721|13|2021-12-27|
+|15|[instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)|:satellite: Simple and ready-to-use tutorials for TensorFlow |15960|13|2021-08-13|
+|16|[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)|🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan ...|5874|12|2021-12-28|
 |17|[ageron/handson-ml](https://github.com/ageron/handson-ml)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.|23876|11|2021-11-08|
 |18|[dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)|Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.|17509|9|2021-10-29|
 |19|[microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started)|Sample code for Channel 9 Python for Beginners course|7316|9|2021-10-05|
@@ -28,15 +28,15 @@
 |21|[fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)|Jupyter notebooks for the code samples of the book "Deep Learning with Python"|14358|9|2021-11-25|
 |22|[google/dopamine](https://github.com/google/dopamine)|Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. |9711|8|2021-12-14|
 |23|[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)|aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  |23983|7|2022-01-06|
-|24|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12250|7|2021-11-24|
+|24|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12252|7|2021-11-24|
 |25|[mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|Companion webpage to the book "Mathematics For Machine Learning"|9552|6|2021-07-29|
 |26|[ctgk/PRML](https://github.com/ctgk/PRML)|PRML algorithms implemented in Python|10254|6|2021-10-03|
 |27|[spmallick/learnopencv](https://github.com/spmallick/learnopencv)|Learn OpenCV  : C++ and Python Examples|15497|6|2022-01-06|
-|28|[NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|Deep Learning Examples|7473|6|2022-01-10|
-|29|[yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course)|YSDA course in Natural Language Processing|7594|6|2021-12-24|
+|28|[NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|Deep Learning Examples|7471|6|2022-01-10|
+|29|[yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course)|YSDA course in Natural Language Processing|7595|6|2021-12-24|
 |30|[firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning)|A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)|6093|6|2021-12-18|
 |31|[mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning)|All course materials for the Zero to Mastery Deep Learning with TensorFlow course.|1993|5|2021-12-20|
-|32|[DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)|Image restoration with neural networks but without learning.|6981|5|2022-01-05|
+|32|[DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)|Image restoration with neural networks but without learning.|6982|5|2022-01-05|
 |33|[rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)|The "Python Machine Learning (1st edition)"  book code repository and info resource|11453|5|2021-07-30|
 |34|[wesm/pydata-book](https://github.com/wesm/pydata-book)|Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media|16188|5|2021-12-16|
 |35|[lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse)|Notebooks for learning deep learning|5384|5|2021-09-19|
@@ -44,22 +44,22 @@
 |37|[aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)|Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. |6397|4|2022-01-07|
 |38|[fastai/nbdev](https://github.com/fastai/nbdev)|Create delightful python projects using Jupyter Notebooks|3089|4|2022-01-09|
 |39|[dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)|This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.|3824|4|2021-09-27|
-|40|[facebookresearch/vissl](https://github.com/facebookresearch/vissl)|VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.|2287|4|2022-01-07|
+|40|[facebookresearch/vissl](https://github.com/facebookresearch/vissl)|VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.|2287|4|2022-01-10|
 |41|[google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron)|Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera  ...|1612|4|2021-08-09|
 |42|[mozilla/TTS](https://github.com/mozilla/TTS)|:robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)|5508|4|2022-01-06|
 |43|[rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)|Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters ...|11331|4|2022-01-06|
 |44|[tensorflow/examples](https://github.com/tensorflow/examples)|TensorFlow examples|5715|4|2022-01-05|
 |45|[fastai/fastpages](https://github.com/fastai/fastpages)|An easy to use blogging platform, with enhanced support for Jupyter Notebooks.|2934|4|2022-01-06|
 |46|[polynote/polynote](https://github.com/polynote/polynote)|A better notebook for Scala (and more)|4246|4|2022-01-04|
-|47|[google-research/simclr](https://github.com/google-research/simclr)|SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners|2763|4|2021-12-19|
+|47|[google-research/simclr](https://github.com/google-research/simclr)|SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners|2764|4|2021-12-19|
 |48|[udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch)|Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101|4478|4|2021-12-20|
-|49|[cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods)|Collection of notebooks about quantitative finance, with interactive python code.|3554|4|2021-09-26|
+|49|[cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods)|Collection of notebooks about quantitative finance, with interactive python code.|3555|4|2021-09-26|
 |50|[tensorflow/adanet](https://github.com/tensorflow/adanet)|Fast and flexible AutoML with learning guarantees.|3350|3|2021-08-30|
 |51|[aws/studio-lab-examples](https://github.com/aws/studio-lab-examples)|Example notebooks for working with SageMaker Studio Lab. Sign up for an account at the link below!|147|3|2022-01-07|
 |52|[khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)|Collection of useful data science topics along with code and articles|1425|3|2022-01-08|
 |53|[NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content)|NMA Computational Neuroscience course|2094|3|2021-11-13|
 |54|[jalammar/ecco](https://github.com/jalammar/ecco)|Visualize, analyze, and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT ...|1235|3|2022-01-09|
-|55|[microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas)|Tutorials and programming exercises for learning Q# and quantum computing|3738|3|2022-01-10|
+|55|[microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas)|Tutorials and programming exercises for learning Q# and quantum computing|3738|3|2022-01-11|
 |56|[skorch-dev/skorch](https://github.com/skorch-dev/skorch)|A scikit-learn compatible neural network library that wraps PyTorch|4288|3|2021-12-30|
 |57|[aimacode/aima-python](https://github.com/aimacode/aima-python)|Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"|6158|3|2022-01-07|
 |58|[dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)|Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.|4791|3|2022-01-04|
@@ -86,7 +86,7 @@
 |79|[milaan9/Python_Natural_Language_Processing](https://github.com/milaan9/Python_Natural_Language_Processing)|This repository consists of a complete guide on natural language processing (NLP) in Python where we'll learn various techniques for implementing NLP including parsing & text processing and understand ...|122|2|2021-11-09|
 |80|[matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)|Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis. |970|2|2021-12-22|
 |81|[jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)|+100 awesome Jupyter Notebooks templates, organized by tools, published by the Naas community, to kickstart your data projects in minutes. 😎|930|2|2022-01-09|
-|82|[onnx/tutorials](https://github.com/onnx/tutorials)|Tutorials for creating and using ONNX models|2530|2|2021-12-19|
+|82|[onnx/tutorials](https://github.com/onnx/tutorials)|Tutorials for creating and using ONNX models|2531|2|2021-12-19|
 |83|[hila-chefer/TargetCLIP](https://github.com/hila-chefer/TargetCLIP)|Official PyTorch implementation of the paper Image-Based CLIP-Guided Essence Transfer.|146|2|2021-12-10|
 |84|[hunkim/DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)|TensorFlow Basic Tutorial Labs|4247|2|2021-10-14|
 |85|[https-deeplearning-ai/machine-learning-engineering-for-production-public](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public)|Public repo for DeepLearning.AI MLEP Specialization|655|2|2022-01-07|
@@ -99,7 +99,7 @@
 |92|[jakevdp/WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)|The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"|3024|2|2021-12-05|
 |93|[susanli2016/Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|Python code for common Machine Learning Algorithms|3355|2|2021-12-31|
 |94|[rentruewang/learning-machine](https://github.com/rentruewang/learning-machine)|A handbook for ML built on answers.|432|2|2021-12-30|
-|95|[realpython/materials](https://github.com/realpython/materials)|Bonus materials, exercises, and example projects for our Python tutorials|3260|2|2022-01-06|
+|95|[realpython/materials](https://github.com/realpython/materials)|Bonus materials, exercises, and example projects for our Python tutorials|3261|2|2022-01-06|
 |96|[raghurama123/NumQM_Basic](https://github.com/raghurama123/NumQM_Basic)|A mini-course offered to Undergrad physics students|34|2|2022-01-02|
 |97|[Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series)|List of papers, code and experiments using deep learning for time series forecasting|1427|2|2021-12-27|
 |98|[gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX)|The purpose of this repo is to make it easy to get started with JAX. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as the content I foun ...|174|2|2021-11-19|
@@ -164,7 +164,7 @@
 |157|[xinychen/transdim](https://github.com/xinychen/transdim)|Machine learning for transportation data imputation and prediction.|721|1|2021-10-30|
 |158|[justin-bennington/S2ML-Generators](https://github.com/justin-bennington/S2ML-Generators)|Multiple notebooks which allow the use of various machine learning methods to generate or modify multimedia content|128|1|2021-12-30|
 |159|[logankilpatrick/DeepLearningWithJulia](https://github.com/logankilpatrick/DeepLearningWithJulia)|The Deep Learning with Julia book, using Flux.jl.|47|1|2021-11-30|
-|160|[justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)|Jupyter notebooks from the scikit-learn video series|3274|1|2021-11-07|
+|160|[justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)|Jupyter notebooks from the scikit-learn video series|3275|1|2021-11-07|
 |161|[jakevdp/sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial)|Materials for my scikit-learn tutorial|1527|1|2021-08-31|
 |162|[omlins/julia-gpu-course](https://github.com/omlins/julia-gpu-course)|GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich|47|1|2021-11-04|
 |163|[microsoft/EconML](https://github.com/microsoft/EconML)|ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goal ...|1866|1|2022-01-06|

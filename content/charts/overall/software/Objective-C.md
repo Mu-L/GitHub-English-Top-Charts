@@ -9,23 +9,23 @@
 |2|[SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)|Asynchronous image downloader with cache support as a UIImageView category|23946|2021-12-31|
 |3|[SnapKit/Masonry](https://github.com/SnapKit/Masonry)|Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout|18009|2021-07-20|
 |4|[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)|MBProgressHUD + Customizations|15935|2021-12-23|
-|5|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15693|2022-01-10|
+|5|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15693|2022-01-11|
 |6|[hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)|Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.|15425|2021-12-16|
 |7|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|14840|2022-01-10|
-|8|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|13882|2021-08-13|
+|8|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|13883|2021-08-13|
 |9|[ccgus/fmdb](https://github.com/ccgus/fmdb)|A Cocoa / Objective-C wrapper around SQLite|13635|2021-12-24|
 |10|[CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)|An easy way to use pull-to-refresh.|13570|2021-11-30|
 |11|[OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)|🕹 Retro video game emulation for macOS|13438|2021-12-29|
 |12|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|12860|2022-01-08|
 |13|[FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)|An in-app debugging and exploration tool for iOS|12790|2021-12-25|
 |14|[CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|A fast & simple, yet powerful & flexible logging framework for Mac and iOS|12607|2022-01-06|
-|15|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12405|2022-01-06|
+|15|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12406|2022-01-06|
 |16|[SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|A clean and lightweight progress HUD for your iOS and tvOS app.|12333|2022-01-06|
 |17|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12219|2021-12-20|
 |18|[robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|Asynchronous socket networking library for Mac and iOS|12114|2021-12-21|
 |19|[gnachman/iTerm2](https://github.com/gnachman/iTerm2)|iTerm2 is a terminal emulator for Mac OS X that does amazing things.|11838|2022-01-10|
 |20|[Mantle/Mantle](https://github.com/Mantle/Mantle)|Model framework for Cocoa and Cocoa Touch|11319|2021-11-05|
-|21|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10446|2022-01-10|
+|21|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10452|2022-01-10|
 |22|[git-up/GitUp](https://github.com/git-up/GitUp)|The Git interface you've been missing all your life has finally arrived.|10047|2022-01-06|
 |23|[WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)|A fully customizable iOS calendar library, compatible with Objective-C and Swift|9845|2021-12-14|
 |24|[facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)|A conforming Objective-C WebSocket client library.|9279|2021-09-26|
@@ -56,14 +56,14 @@
 |49|[tonsky/AnyBar](https://github.com/tonsky/AnyBar)|OS X menubar status indicator|5650|2021-11-16|
 |50|[joeldev/JLRoutes](https://github.com/joeldev/JLRoutes)|URL routing library for iOS with a simple block-based API|5532|2021-08-10|
 |51|[AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)|CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.|5520|2021-08-20|
-|52|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5460|2021-12-16|
-|53|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5360|2022-01-07|
+|52|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5461|2021-12-16|
+|53|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5360|2022-01-10|
 |54|[ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping|5280|2021-12-31|
 |55|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5188|2021-11-09|
 |56|[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)|UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.|5081|2021-07-17|
 |57|[AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)|Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!|4836|2021-08-06|
-|58|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4758|2022-01-10|
-|59|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|4565|2021-12-17|
+|58|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4760|2022-01-10|
+|59|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|4566|2021-12-17|
 |60|[material-components/material-components-ios](https://github.com/material-components/material-components-ios)|[In maintenance mode] Modular and customizable Material Design UI components for iOS|4489|2021-12-30|
 |61|[fitztrev/shuttle](https://github.com/fitztrev/shuttle)|A simple shortcut menu for macOS|4410|2021-12-22|
 |62|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4372|2021-12-02|
@@ -74,23 +74,23 @@
 |67|[HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)|A fast and clever hex editor for macOS|4213|2022-01-08|
 |68|[tomaz/appledoc](https://github.com/tomaz/appledoc)|Objective-c code Apple style documentation set generator.|4172|2021-10-29|
 |69|[youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4154|2021-07-26|
-|70|[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)|Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)|4130|2022-01-07|
+|70|[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)|Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)|4132|2022-01-07|
 |71|[cocos2d/cocos2d-objc](https://github.com/cocos2d/cocos2d-objc)|Cocos2d for iOS and OS X, built using Objective-C|4094|2021-09-06|
-|72|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4071|2022-01-10|
+|72|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4070|2022-01-10|
 |73|[Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|A suite containing many tools to display progress information on iOS.|3931|2021-10-14|
 |74|[alibaba/coobjc](https://github.com/alibaba/coobjc)|coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun ...|3924|2021-09-26|
 |75|[HeshamMegid/HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)|A highly customizable drop-in replacement for UISegmentedControl.|3899|2021-07-29|
 |76|[Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|3851|2021-08-19|
 |77|[kstenerud/KSCrash](https://github.com/kstenerud/KSCrash)|The Ultimate iOS Crash Reporter|3706|2021-12-23|
-|78|[nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view|3683|2021-09-07|
-|79|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|3648|2022-01-10|
+|78|[nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view|3684|2021-09-07|
+|79|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|3649|2022-01-10|
 |80|[kasper/phoenix](https://github.com/kasper/phoenix)|A lightweight macOS/OS X window and app manager scriptable with JavaScript|3622|2021-12-14|
 |81|[google/santa](https://github.com/google/santa)|A binary authorization system for macOS|3609|2022-01-06|
 |82|[felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)|ˈyːbɐˌzɪçt|3513|2022-01-02|
 |83|[dogo/SCLAlertView](https://github.com/dogo/SCLAlertView)|Beautiful animated Alert View. Written in Objective-C|3431|2021-09-14|
-|84|[SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)|:skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.|3400|2021-10-27|
+|84|[SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)|:skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.|3401|2021-10-27|
 |85|[button/DeepLinkKit](https://github.com/button/DeepLinkKit)|A splendid route-matching, block-based way to handle your deep links.|3373|2021-09-27|
-|86|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3356|2022-01-10|
+|86|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3356|2022-01-11|
 |87|[nst/RuntimeBrowser](https://github.com/nst/RuntimeBrowser)|Objective-C Runtime Browser, for Mac OS X and iOS|3331|2021-09-07|
 |88|[MoZhouqi/KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for  ...|3278|2021-10-20|
 |89|[KJCracks/Clutch](https://github.com/KJCracks/Clutch)|Fast iOS executable dumper|3273|2021-09-16|
@@ -120,7 +120,7 @@
 |113|[intuit/LocationManager](https://github.com/intuit/LocationManager)|Easily get the device's current location on iOS.|2555|2021-09-12|
 |114|[appcelerator/titanium_mobile](https://github.com/appcelerator/titanium_mobile)|🚀 Native iOS- and Android- Apps with JavaScript|2555|2022-01-10|
 |115|[kevin-lyn/STPopup](https://github.com/kevin-lyn/STPopup)|STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.|2521|2021-12-11|
-|116|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2521|2022-01-06|
+|116|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2521|2022-01-10|
 |117|[quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver)|Quicksilver Project Source|2506|2021-12-23|
 |118|[whomwah/qlstephen](https://github.com/whomwah/qlstephen)|A QuickLook plugin that lets you view plain text files without a file extension|2474|2022-01-07|
 |119|[ReactiveCocoa/ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC)|The 2.x ReactiveCocoa Objective-C API: Streams of values over time|2448|2021-08-04|

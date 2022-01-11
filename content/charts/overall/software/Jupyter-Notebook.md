@@ -6,21 +6,21 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[fastai/fastai](https://github.com/fastai/fastai)|The fastai deep learning library|21799|2022-01-07|
-|2|[google-research/google-research](https://github.com/google-research/google-research)|Google Research|21389|2022-01-10|
-|3|[norvig/pytudes](https://github.com/norvig/pytudes)|Python programs, usually short, of considerable difficulty, to perfect particular skills.|18055|2022-01-09|
+|2|[google-research/google-research](https://github.com/google-research/google-research)|Google Research|21390|2022-01-11|
+|3|[norvig/pytudes](https://github.com/norvig/pytudes)|Python programs, usually short, of considerable difficulty, to perfect particular skills.|18056|2022-01-09|
 |4|[fivethirtyeight/data](https://github.com/fivethirtyeight/data)|Data and code behind the articles and graphics at FiveThirtyEight|15271|2021-12-13|
-|5|[slundberg/shap](https://github.com/slundberg/shap)|A game theoretic approach to explain the output of any machine learning model.|15076|2022-01-07|
-|6|[jantic/DeOldify](https://github.com/jantic/DeOldify)|A Deep Learning based project for colorizing and restoring old images (and video!)|14556|2022-01-10|
-|7|[bloc97/Anime4K](https://github.com/bloc97/Anime4K)|A High-Quality Real Time Upscaler for Anime Video|14187|2021-11-26|
+|5|[slundberg/shap](https://github.com/slundberg/shap)|A game theoretic approach to explain the output of any machine learning model.|15076|2022-01-10|
+|6|[jantic/DeOldify](https://github.com/jantic/DeOldify)|A Deep Learning based project for colorizing and restoring old images (and video!)|14557|2022-01-10|
+|7|[bloc97/Anime4K](https://github.com/bloc97/Anime4K)|A High-Quality Real Time Upscaler for Anime Video|14190|2021-11-26|
 |8|[mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|💿 Free software that works great, and also happens to be open-source Python. |13329|2021-10-11|
-|9|[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)|This repository contains the source code for the paper First Order Motion Model for Image Animation |12053|2021-12-13|
-|10|[The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil ...|10573|2022-01-10|
-|11|[deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)|This repository contains implementations and illustrative code to accompany DeepMind publications|9364|2021-12-10|
+|9|[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)|This repository contains the source code for the paper First Order Motion Model for Image Animation |12054|2021-12-13|
+|10|[The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil ...|10574|2022-01-10|
+|11|[deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)|This repository contains implementations and illustrative code to accompany DeepMind publications|9366|2021-12-10|
 |12|[gleitz/howdoi](https://github.com/gleitz/howdoi)|instant coding answers via the command line|9242|2021-12-13|
-|13|[kubernetes/community](https://github.com/kubernetes/community)|Kubernetes community content|9200|2022-01-10|
+|13|[kubernetes/community](https://github.com/kubernetes/community)|Kubernetes community content|9201|2022-01-11|
 |14|[cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io)|Public facing notes page|8628|2021-09-03|
 |15|[pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)|Create HTML profiling reports from pandas DataFrame objects|8386|2022-01-09|
-|16|[CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)|-|8265|2021-10-01|
+|16|[CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)|-|8267|2021-10-01|
 |17|[microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)|Best Practices, code samples, and documentation for Computer Vision.|8253|2021-10-25|
 |18|[OpenMined/PySyft](https://github.com/OpenMined/PySyft)|A library for answering questions using data you cannot see|7855|2022-01-10|
 |19|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7552|2022-01-07|
@@ -29,7 +29,7 @@
 |22|[PAIR-code/facets](https://github.com/PAIR-code/facets)|Visualizations for machine learning datasets|6752|2021-11-29|
 |23|[jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq)|Automatic headphone equalization from frequency responses|6200|2022-01-05|
 |24|[facebookresearch/DensePose](https://github.com/facebookresearch/DensePose)|A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body|6183|2021-08-31|
-|25|[blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)|Automatic extraction of relevant features from time series:|6117|2021-12-21|
+|25|[blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)|Automatic extraction of relevant features from time series:|6119|2021-12-21|
 |26|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6063|2021-10-01|
 |27|[tensorflow/swift](https://github.com/tensorflow/swift)|Swift for TensorFlow|6040|2021-12-31|
 |28|[openai/CLIP](https://github.com/openai/CLIP)|Contrastive Language-Image Pretraining|5845|2021-12-15|
@@ -40,36 +40,36 @@
 |33|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5509|2022-01-10|
 |34|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5379|2021-12-26|
 |35|[stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)|Code for Machine Learning for Algorithmic Trading, 2nd edition.|5099|2022-01-10|
-|36|[tensorflow/docs](https://github.com/tensorflow/docs)|TensorFlow documentation|5034|2022-01-10|
+|36|[tensorflow/docs](https://github.com/tensorflow/docs)|TensorFlow documentation|5035|2022-01-10|
 |37|[aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning)|Lab Materials for MIT 6.S191: Introduction to Deep Learning|4979|2021-12-21|
-|38|[zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)|The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.|4960|2021-10-24|
+|38|[zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)|The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.|4962|2021-10-24|
 |39|[google/automl](https://github.com/google/automl)|Google Brain AutoML|4837|2021-12-15|
 |40|[cocodataset/cocoapi](https://github.com/cocodataset/cocoapi)|COCO API - Dataset @ http://cocodataset.org/ |4811|2021-12-28|
-|41|[pycaret/pycaret](https://github.com/pycaret/pycaret)|An open-source, low-code machine learning library in Python|4750|2022-01-10|
-|42|[huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)|Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations|4730|2021-07-13|
+|41|[pycaret/pycaret](https://github.com/pycaret/pycaret)|An open-source, low-code machine learning library in Python|4753|2022-01-10|
+|42|[huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)|Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations|4732|2021-07-13|
 |43|[tensorflow/tpu](https://github.com/tensorflow/tpu)|Reference models and tools for Cloud TPUs.|4601|2021-11-18|
-|44|[google-research/vision_transformer](https://github.com/google-research/vision_transformer)|-|4355|2021-12-31|
+|44|[google-research/vision_transformer](https://github.com/google-research/vision_transformer)|-|4358|2021-12-31|
 |45|[quantopian/pyfolio](https://github.com/quantopian/pyfolio)|Portfolio and risk analytics in Python|4205|2021-12-26|
-|46|[bmild/nerf](https://github.com/bmild/nerf)|Code release for NeRF (Neural Radiance Fields)|4158|2021-11-30|
+|46|[bmild/nerf](https://github.com/bmild/nerf)|Code release for NeRF (Neural Radiance Fields)|4159|2021-11-30|
 |47|[WillKoehrsen/Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis)|Data Science Using Python|4100|2021-11-25|
 |48|[balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)|Single Shot MultiBox Detector in TensorFlow|4068|2021-08-12|
 |49|[udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|Repo for the Deep Reinforcement Learning Nanodegree program|4029|2021-12-06|
 |50|[dempfi/ayu](https://github.com/dempfi/ayu)|🎨🖌 Modern Sublime Text theme|3939|2021-12-07|
-|51|[intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)|Building Large-Scale AI Applications for Distributed Big Data|3821|2022-01-10|
+|51|[intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)|Building Large-Scale AI Applications for Distributed Big Data|3821|2022-01-11|
 |52|[udacity/deep-learning](https://github.com/udacity/deep-learning)|Repo for the Deep Learning Nanodegree Foundations program.|3793|2021-10-21|
 |53|[zhixuhao/unet](https://github.com/zhixuhao/unet)|unet for image segmentation|3774|2021-11-26|
-|54|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3747|2022-01-10|
+|54|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3748|2022-01-11|
 |55|[udacity/machine-learning](https://github.com/udacity/machine-learning)|Content for Udacity's Machine Learning curriculum|3623|2021-10-25|
-|56|[tensorflow/probability](https://github.com/tensorflow/probability)|Probabilistic reasoning and statistical analysis in TensorFlow|3566|2022-01-07|
+|56|[tensorflow/probability](https://github.com/tensorflow/probability)|Probabilistic reasoning and statistical analysis in TensorFlow|3566|2022-01-10|
 |57|[AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2)|Text and supporting code for Think Stats, 2nd Edition|3489|2021-12-02|
 |58|[microsoft/Quantum](https://github.com/microsoft/Quantum)|Microsoft Quantum Development Kit Samples|3466|2022-01-10|
 |59|[naganandy/graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)|links to conference publications in graph-based deep learning|3458|2021-12-26|
 |60|[NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)|Tacotron 2 - PyTorch implementation with faster-than-realtime inference|3339|2021-11-07|
-|61|[AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)|FinRL: Financial Reinforcement Learning Framework. Please star. 🔥|3160|2022-01-10|
+|61|[AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)|FinRL: Financial Reinforcement Learning Framework. Please star. 🔥|3161|2022-01-10|
 |62|[shaoanlu/faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)|A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.|3104|2021-08-04|
 |63|[vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine)|A Deep Learning based project for creating line art portraits.|3077|2022-01-04|
 |64|[priya-dwivedi/Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning)|-|3065|2022-01-07|
-|65|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|2977|2021-12-21|
+|65|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|2979|2021-12-21|
 |66|[leriomaggio/deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)|Introduction to Deep Neural Networks with Keras and Tensorflow|2871|2021-10-30|
 |67|[makcedward/nlpaug](https://github.com/makcedward/nlpaug)|Data augmentation for NLP |2834|2022-01-04|
 |68|[jmschrei/pomegranate](https://github.com/jmschrei/pomegranate)|Fast, flexible and easy to use probabilistic modelling in Python.|2802|2022-01-04|
@@ -80,11 +80,11 @@
 |73|[hooram/ownphotos](https://github.com/hooram/ownphotos)|Self hosted alternative to Google Photos |2592|2021-10-12|
 |74|[robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)|Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity|2541|2022-01-09|
 |75|[higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)|Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL|2532|2021-11-04|
-|76|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2530|2021-11-16|
+|76|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2531|2021-11-16|
 |77|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2478|2022-01-02|
 |78|[intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo)|Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray|2456|2022-01-07|
-|79|[santosjorge/cufflinks](https://github.com/santosjorge/cufflinks)|Productivity Tools for Plotly + Pandas|2442|2021-11-25|
-|80|[data-science-on-aws/oreilly_book](https://github.com/data-science-on-aws/oreilly_book)|AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker|2441|2022-01-03|
+|79|[data-science-on-aws/oreilly_book](https://github.com/data-science-on-aws/oreilly_book)|AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker|2442|2022-01-03|
+|80|[santosjorge/cufflinks](https://github.com/santosjorge/cufflinks)|Productivity Tools for Plotly + Pandas|2442|2021-11-25|
 |81|[harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer)|http://nlp.seas.harvard.edu/2018/04/03/attention.html|2431|2022-01-06|
 |82|[NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)|An educational AI robot based on NVIDIA Jetson Nano.|2418|2021-10-27|
 |83|[exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)|Simplified implementations of deep learning related works|2390|2021-10-06|
@@ -92,7 +92,7 @@
 |85|[ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)|🛠 All-in-one web-based IDE specialized for machine learning and data science.|2371|2021-11-22|
 |86|[zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)|YoloV3 Implemented in Tensorflow 2.0|2334|2021-11-10|
 |87|[gibiansky/IHaskell](https://github.com/gibiansky/IHaskell)|A Haskell kernel for IPython.|2321|2022-01-07|
-|88|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2309|2021-09-25|
+|88|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2312|2021-09-25|
 |89|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|Taming Transformers for High-Resolution Image Synthesis|2287|2022-01-10|
 |90|[eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)|Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework|2227|2022-01-09|
 |91|[facebookresearch/InferSent](https://github.com/facebookresearch/InferSent)|InferSent sentence embeddings|2186|2021-08-30|

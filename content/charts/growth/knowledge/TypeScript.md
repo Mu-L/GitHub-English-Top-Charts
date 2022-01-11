@@ -5,32 +5,32 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a developer in 2022|183061|104|2022-01-10|
+|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a developer in 2022|183078|104|2022-01-10|
 |2|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|11398|21|2022-01-07|
-|3|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples|4520|11|2022-01-07|
-|4|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|7539|10|2022-01-07|
+|3|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples|4525|11|2022-01-07|
+|4|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|7540|10|2022-01-07|
 |5|[reacttips-dev/codebases](https://github.com/reacttips-dev/codebases)|This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.|1032|9|2021-10-03|
 |6|[learn-anything/learn-anything](https://github.com/learn-anything/learn-anything)|Organize world's knowledge, explore connections and curate learning paths|13575|7|2021-09-03|
-|7|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16377|7|2021-10-12|
+|7|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16379|7|2021-10-12|
 |8|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5264|7|2022-01-03|
 |9|[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)|A collection of essential TypeScript types|6772|7|2022-01-10|
 |10|[adobe/react-spectrum](https://github.com/adobe/react-spectrum)|A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.|5954|7|2022-01-10|
 |11|[pawelmalak/flame](https://github.com/pawelmalak/flame)|Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.|1433|6|2022-01-09|
 |12|[rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements)|Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.|8875|6|2021-11-02|
-|13|[microsoft/fluentui](https://github.com/microsoft/fluentui)|Fluent UI web represents a collection of utilities, React components, and web components for building web applications.|12678|6|2022-01-10|
-|14|[1milligram/csslayout](https://github.com/1milligram/csslayout)|A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!|4979|6|2022-01-08|
+|13|[microsoft/fluentui](https://github.com/microsoft/fluentui)|Fluent UI web represents a collection of utilities, React components, and web components for building web applications.|12679|6|2022-01-11|
+|14|[1milligram/csslayout](https://github.com/1milligram/csslayout)|A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!|4983|6|2022-01-08|
 |15|[microsoft/codetour](https://github.com/microsoft/codetour)|VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.|3799|6|2021-11-25|
 |16|[vercel/examples](https://github.com/vercel/examples)|Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.|460|6|2022-01-05|
 |17|[LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)|Solve LeetCode problems in VS Code|7014|5|2022-01-02|
 |18|[howtographql/howtographql](https://github.com/howtographql/howtographql)|The Fullstack Tutorial for GraphQL|8017|5|2022-01-03|
-|19|[cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)|A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.|2952|4|2022-01-10|
+|19|[cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)|A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.|2954|4|2022-01-10|
 |20|[shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)|A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾|5978|4|2022-01-07|
 |21|[pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box)|Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.|411|4|2021-11-19|
 |22|[styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)|Isolated React component development environment with a living style guide|10206|4|2022-01-10|
 |23|[sindresorhus/caprine](https://github.com/sindresorhus/caprine)|Elegant Facebook Messenger desktop app|6206|3|2022-01-02|
 |24|[vercel/og-image](https://github.com/vercel/og-image)|Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc|2768|3|2022-01-07|
 |25|[enesozturk/awesome-course](https://github.com/enesozturk/awesome-course)|Create awesome courses that let your audience learn by coding ⌨️|200|3|2021-12-25|
-|26|[mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)|TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.|3951|3|2022-01-10|
+|26|[mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)|TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.|3951|3|2022-01-11|
 |27|[honkit/honkit](https://github.com/honkit/honkit)|:book: HonKit is building beautiful books using Markdown - Fork of GitBook|1925|3|2021-12-31|
 |28|[afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript)|Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to ...|1661|3|2021-09-21|
 |29|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2199|3|2022-01-10|
@@ -55,14 +55,14 @@
 |48|[skynexui/components](https://github.com/skynexui/components)|⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro ...|256|2|2022-01-06|
 |49|[soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1462|2|2022-01-09|
 |50|[GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium)|📓 A curated collection of free Computer Science classes from top colleges across America|442|2|2022-01-07|
-|51|[hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)|HedgeDoc - The best platform to write and share markdown.|2534|2|2022-01-10|
+|51|[hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)|HedgeDoc - The best platform to write and share markdown.|2536|2|2022-01-10|
 |52|[figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp)|This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!|313|2|2022-01-10|
 |53|[google/gts](https://github.com/google/gts)|☂️ TypeScript style guide, formatter, and linter.  |3737|2|2021-10-19|
 |54|[streamich/libreact](https://github.com/streamich/libreact)|Collection of useful React components|2519|2|2021-12-30|
 |55|[microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio)|Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices|1948|2|2022-01-01|
 |56|[vitebook/vitebook](https://github.com/vitebook/vitebook)|🔥 Blazing fast alternative to Storybook. Powered by Vite.|344|2|2022-01-10|
 |57|[vuedx/languagetools](https://github.com/vuedx/languagetools)|A collection of tools for vue ecosystem.|1214|2|2021-11-07|
-|58|[piotrwitek/utility-types](https://github.com/piotrwitek/utility-types)|Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).|3836|2|2021-10-09|
+|58|[piotrwitek/utility-types](https://github.com/piotrwitek/utility-types)|Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).|3835|2|2021-10-09|
 |59|[IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element)|Native shared element transition "primitives" for react-native 💫|1642|2|2022-01-08|
 |60|[WorldBrain/Memex](https://github.com/WorldBrain/Memex)|Browser Extension to full-text search your browsing history & bookmarks.|3360|2|2022-01-10|
 |61|[cdk-patterns/serverless](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported Clo ...|1496|2|2021-12-24|
@@ -81,7 +81,7 @@
 |74|[arielweinberger/nestjs-course-task-management](https://github.com/arielweinberger/nestjs-course-task-management)|Task Management back-end application developed throughout the "NestJS Zero to Hero - Modern TypeScript Back-end Development" Udemy course|503|1|2021-11-03|
 |75|[mobxjs/mobx-utils](https://github.com/mobxjs/mobx-utils)|Utility functions and common patterns for MobX|1040|1|2021-08-16|
 |76|[davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners)|A collection of loading spinner components for react|2069|1|2021-11-06|
-|77|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|2309|1|2022-01-10|
+|77|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|2310|1|2022-01-10|
 |78|[ecomfe/react-hooks](https://github.com/ecomfe/react-hooks)|Collection of react hooks|697|1|2021-12-28|
 |79|[gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook)|In-browser literal notebooks|799|1|2021-12-21|
 |80|[sdelements/flan](https://github.com/sdelements/flan)|A tasty tool that lets you save, load and share postgres snapshots with ease|171|1|2021-09-29|
@@ -133,7 +133,7 @@
 |126|[googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)|Example code snippets and machine learning code for Teachable Machine|982|1|2021-11-09|
 |127|[chnirt/nestjs-graphql-best-practice](https://github.com/chnirt/nestjs-graphql-best-practice)|NestJS (Express + TypeORM + GraphQL + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns, etc).|719|1|2021-09-25|
 |128|[poulainv/tottem](https://github.com/poulainv/tottem)|Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺|772|1|2021-12-09|
-|129|[mlaursen/react-md](https://github.com/mlaursen/react-md)|React material design - An accessible React component library built from the Material Design guidelines in Sass|2286|1|2022-01-03|
+|129|[mlaursen/react-md](https://github.com/mlaursen/react-md)|React material design - An accessible React component library built from the Material Design guidelines in Sass|2286|1|2022-01-10|
 |130|[rmanguinho/advanced-node](https://github.com/rmanguinho/advanced-node)|API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles|193|1|2021-10-04|
 |131|[dotansimha/envelop](https://github.com/dotansimha/envelop)|Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system. |427|1|2022-01-10|
 |132|[microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)|The Website and web infrastructure for learning TypeScript|1326|1|2022-01-10|
@@ -142,7 +142,7 @@
 |135|[gorhom/react-native-sticky-item](https://github.com/gorhom/react-native-sticky-item)|An interactive sticky item inspired by Facebook Stories.|605|1|2021-11-03|
 |136|[vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)|Created from react styleguidist for Vue Components with a living style guide|2141|1|2022-01-10|
 |137|[Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts)|List of fonts for coding|825|1|2021-10-06|
-|138|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3250|1|2021-10-01|
+|138|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3251|1|2021-10-01|
 |139|[enochndika/kimia-UI](https://github.com/enochndika/kimia-UI)|A collection of UI Components  for React built with Tailwind CSS 3|239|1|2021-12-10|
 |140|[Urigo/WhatsApp-Clone-Client-React](https://github.com/Urigo/WhatsApp-Clone-Client-React)|https://www.tortilla.academy/Urigo/WhatsApp-Clone-Tutorial|597|1|2021-10-19|
 |141|[wistingcn/WiLearning](https://github.com/wistingcn/WiLearning)|Multiparty meeting&e-learning  using mediasoup, webrtc ,angular and ionic with powerful whiteboard support|408|1|2021-10-28|
@@ -155,7 +155,7 @@
 |148|[ronami/meta-typing](https://github.com/ronami/meta-typing)|📚 Functions and algorithms implemented purely with TypeScript's type system|755|1|2021-08-12|
 |149|[stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum)|Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.|1095|1|2021-11-03|
 |150|[cocoss-org/co-share](https://github.com/cocoss-org/co-share)|A Javascript library for easily building shared applications such as chats and games.|118|1|2022-01-04|
-|151|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|2392|1|2022-01-10|
+|151|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|2393|1|2022-01-10|
 |152|[codecraft-tv/angular-course](https://github.com/codecraft-tv/angular-course)|Official repository for the Angular: From Theory To Practice Book|241|0|2021-10-06|
 |153|[codelab-fun/codelab](https://github.com/codelab-fun/codelab)|Interactive Angular Codelab 🦋 Learn Angular basics online without setup|217|0|2021-09-02|
 |154|[emeraldsanto/react-native-encrypted-storage](https://github.com/emeraldsanto/react-native-encrypted-storage)|React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.|283|0|2021-12-22|

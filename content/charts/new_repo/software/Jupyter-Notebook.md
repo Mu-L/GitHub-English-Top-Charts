@@ -6,10 +6,10 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7552|2022-01-07|2021-03-05|
-|2|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|2977|2021-12-21|2021-02-16|
-|3|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2530|2021-11-16|2021-02-14|
+|2|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|2979|2021-12-21|2021-02-16|
+|3|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2531|2021-11-16|2021-02-14|
 |4|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2478|2022-01-02|2021-08-30|
-|5|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2309|2021-09-25|2021-05-02|
+|5|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2312|2021-09-25|2021-05-02|
 |6|[benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator)|-|1242|2022-01-09|2021-07-26|
 |7|[google/brax](https://github.com/google/brax)|Massively parallel rigidbody physics simulation on accelerator hardware.|1103|2022-01-07|2021-06-02|
 |8|[Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21)|NYU Deep Learning Spring 2021|996|2021-12-03|2021-04-15|

@@ -5,30 +5,30 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers (Beta)|17312|2021-12-15|2021-04-24|
+|1|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers (Beta)|17321|2021-12-15|2021-04-24|
 |2|[calendso/calendso](https://github.com/calendso/calendso)|Scheduling infrastructure for absolutely everyone.|9349|2022-01-10|2021-03-22|
-|3|[withastro/astro](https://github.com/withastro/astro)|Build faster websites, faster. 🚀🧑‍🚀✨|8909|2022-01-10|2021-03-15|
-|4|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |8278|2021-12-22|2021-05-30|
-|5|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.|7408|2022-01-10|2021-06-04|
+|3|[withastro/astro](https://github.com/withastro/astro)|Build faster websites, faster. 🚀🧑‍🚀✨|8921|2022-01-10|2021-03-15|
+|4|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |8280|2021-12-22|2021-05-30|
+|5|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.|7410|2022-01-10|2021-06-04|
 |6|[vuejs/petite-vue](https://github.com/vuejs/petite-vue)|6kb subset of Vue optimized for progressive enhancement|5540|2021-12-26|2021-07-01|
 |7|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|5498|2022-01-10|2021-03-09|
 |8|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5085|2022-01-10|2021-10-25|
 |9|[tldraw/tldraw](https://github.com/tldraw/tldraw)|A tiny little drawing app.|4980|2022-01-10|2021-05-09|
-|10|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|4756|2022-01-10|2021-03-13|
-|11|[seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract)|Zero-runtime Stylesheets-in-TypeScript|4590|2021-12-22|2021-03-26|
-|12|[nuxt/framework](https://github.com/nuxt/framework)|The Hybrid Vue(3) Framework.|4122|2022-01-10|2021-03-17|
-|13|[yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)|Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.|3090|2022-01-10|2021-10-08|
-|14|[notifirehq/notifire](https://github.com/notifirehq/notifire)|🚀 Open-source notification infrastructure for products|2983|2022-01-09|2021-08-26|
-|15|[BuilderIO/partytown](https://github.com/BuilderIO/partytown)|Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉|2947|2022-01-10|2021-08-20|
+|10|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|4757|2022-01-10|2021-03-13|
+|11|[seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract)|Zero-runtime Stylesheets-in-TypeScript|4592|2021-12-22|2021-03-26|
+|12|[nuxt/framework](https://github.com/nuxt/framework)|The Hybrid Vue(3) Framework.|4130|2022-01-10|2021-03-17|
+|13|[yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)|Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.|3091|2022-01-10|2021-10-08|
+|14|[notifirehq/notifire](https://github.com/notifirehq/notifire)|🚀 Open-source notification infrastructure for products|2987|2022-01-09|2021-08-26|
+|15|[BuilderIO/partytown](https://github.com/BuilderIO/partytown)|Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉|2948|2022-01-10|2021-08-20|
 |16|[antfu/unocss](https://github.com/antfu/unocss)|The instant on-demand atomic CSS engine.|2832|2022-01-10|2021-09-30|
 |17|[nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui)|Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀|2611|2021-12-23|2021-01-29|
-|18|[arco-design/arco-design](https://github.com/arco-design/arco-design)|A comprehensive React UI components library|2521|2022-01-10|2021-10-25|
+|18|[arco-design/arco-design](https://github.com/arco-design/arco-design)|A comprehensive React UI components library|2522|2022-01-10|2021-10-25|
 |19|[Renovamen/playground-macos](https://github.com/Renovamen/playground-macos)|My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.|2474|2021-12-15|2021-04-29|
 |20|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2419|2022-01-10|2021-07-02|
-|21|[metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex)|Protocol and application framework for decentralized NFT minting, storefronts, and sales.|2405|2022-01-10|2021-06-02|
+|21|[metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex)|Protocol and application framework for decentralized NFT minting, storefronts, and sales.|2409|2022-01-11|2021-06-02|
 |22|[phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)|-|2401|2022-01-04|2021-05-02|
 |23|[Shopify/hydrogen](https://github.com/Shopify/hydrogen)|React-based framework for building dynamic, Shopify-powered custom storefronts.|2367|2022-01-10|2021-11-04|
-|24|[tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun)|Easily generate flowcharts and diagrams from text ⿻|2327|2021-12-23|2021-03-01|
+|24|[tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun)|Easily generate flowcharts and diagrams from text ⿻|2328|2021-12-23|2021-03-01|
 |25|[cloudflare/miniflare](https://github.com/cloudflare/miniflare)|🔥 Fully-local simulator for Cloudflare Workers|2306|2022-01-10|2021-05-20|
 |26|[banga/git-split-diffs](https://github.com/banga/git-split-diffs)|GitHub style split diffs in your terminal|2272|2021-11-05|2021-04-10|
 |27|[makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)|Official Notion JavaScript Client|2224|2022-01-09|2021-04-18|

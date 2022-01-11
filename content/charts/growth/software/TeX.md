@@ -12,12 +12,12 @@
 |5|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|959|7|2022-01-08|
 |6|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|146|6|2021-12-28|
 |7|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9088|6|2021-11-05|
-|8|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15100|6|2022-01-09|
+|8|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15101|6|2022-01-09|
 |9|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|277|5|2021-11-20|
 |10|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|549|3|2021-10-15|
 |11|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4977|2|2021-12-15|
 |12|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2175|2|2021-11-20|
-|13|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3587|2|2021-12-30|
+|13|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3588|2|2021-12-30|
 |14|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|47|2|2021-12-27|
 |15|[soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|Classical equations and diagrams in machine learning|5262|2|2021-11-11|
 |16|[Robinlovelace/gisruk-rmd](https://github.com/Robinlovelace/gisruk-rmd)|Template for reproducible research paper in Rmd format|4|2|2022-01-10|
@@ -48,7 +48,7 @@
 |41|[abaksy/pesu-cse-notes](https://github.com/abaksy/pesu-cse-notes)|My personal notes for CSE at PESU Bengaluru|40|1|2021-12-14|
 |42|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2496|1|2021-10-29|
 |43|[RemiVan-Boxem/2122_ISEN_CIR1_LLC_P1](https://github.com/RemiVan-Boxem/2122_ISEN_CIR1_LLC_P1)|Révision partiel "Le Langage C" CIR1|3|1|2022-01-05|
-|44|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2692|1|2022-01-09|
+|44|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2693|1|2022-01-09|
 |45|[harshibar/resume](https://github.com/harshibar/resume)|📝 A one-page, one-column column resume template by Harshibar|79|1|2021-09-14|
 |46|[cosmos/cosmos](https://github.com/cosmos/cosmos)|Internet of Blockchains ⚛  |1042|1|2022-01-06|
 |47|[latex3/latex2e](https://github.com/latex3/latex2e)|The LaTeX2e kernel|1102|1|2022-01-09|

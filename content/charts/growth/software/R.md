@@ -31,7 +31,7 @@
 |24|[rstudio/plumber](https://github.com/rstudio/plumber)|Turn your R code into a web API.|1238|1|2022-01-09|
 |25|[mjskay/ggdist](https://github.com/mjskay/ggdist)|Visualizations of distributions and uncertainty|413|1|2022-01-06|
 |26|[r-lib/devtools](https://github.com/r-lib/devtools)|Tools to make an R developer's life easier|2147|1|2022-01-07|
-|27|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4521|1|2022-01-07|
+|27|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4521|1|2022-01-10|
 |28|[datalorax/equatiomatic](https://github.com/datalorax/equatiomatic)|Convert models to LaTeX equations|515|1|2021-10-21|
 |29|[rstudio/r-manuals](https://github.com/rstudio/r-manuals)|A re-styled version of the R manuals|7|1|2022-01-09|
 |30|[pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)|Interesting resources related to XAI (Explainable Artificial Intelligence)|635|1|2022-01-07|

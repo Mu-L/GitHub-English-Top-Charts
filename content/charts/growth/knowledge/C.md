@@ -10,18 +10,18 @@
 |3|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “POLARDB_11_STABLE” is the stable branch which is based on PostgreSQL 11.9. Th ...|2151|9|2022-01-07|
 |4|[cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)|How to create an OS from scratch|22274|8|2022-01-06|
 |5|[SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)|How to Make a Computer Operating System in C++|19694|7|2021-12-16|
-|6|[s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)|Learning operating system development using Linux kernel and Raspberry Pi|11070|7|2021-12-17|
-|7|[TheAlgorithms/C](https://github.com/TheAlgorithms/C)|Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.|12094|6|2022-01-10|
+|6|[s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)|Learning operating system development using Linux kernel and Raspberry Pi|11071|7|2021-12-17|
+|7|[TheAlgorithms/C](https://github.com/TheAlgorithms/C)|Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.|12097|6|2022-01-10|
 |8|[ahrm/sioyek](https://github.com/ahrm/sioyek)|Sioyek is a PDF viewer designed for reading research papers and technical books.|1156|6|2022-01-09|
-|9|[leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)|FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more|7193|5|2022-01-07|
-|10|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9426|5|2022-01-10|
+|9|[leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)|FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more|7194|5|2022-01-07|
+|10|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9430|5|2022-01-10|
 |11|[Mr-Un1k0d3r/WindowsDllsExport](https://github.com/Mr-Un1k0d3r/WindowsDllsExport)|A list of all the DLLs export in C:\windows\system32\|123|5|2021-12-22|
 |12|[isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev)|Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4|2081|4|2021-11-08|
 |13|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various WINAPI tricks / features used or abused by Malware|1070|3|2021-11-13|
 |14|[imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad)|Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad|5202|3|2021-10-02|
 |15|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1653|3|2022-01-04|
 |16|[andrewchambers/minias](https://github.com/andrewchambers/minias)|A mini x86-64 assembler for fun and learning.|181|2|2021-10-26|
-|17|[tsl0922/ttyd](https://github.com/tsl0922/ttyd)|Share your terminal over the web|4145|2|2022-01-09|
+|17|[tsl0922/ttyd](https://github.com/tsl0922/ttyd)|Share your terminal over the web|4148|2|2022-01-09|
 |18|[shellphish/how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.|5069|2|2022-01-08|
 |19|[qemu/qemu](https://github.com/qemu/qemu)|Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.|5625|2|2022-01-10|
 |20|[cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)|Collection of remote authentication triggers in C# |224|2|2021-10-24|
@@ -40,10 +40,10 @@
 |33|[sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)|The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital ...|1957|1|2022-01-10|
 |34|[yrutschle/sslh](https://github.com/yrutschle/sslh)|Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)|3334|1|2022-01-04|
 |35|[mattogodoy/open-rally-computer](https://github.com/mattogodoy/open-rally-computer)|An Open Source tripmaster for navigation rallies|35|1|2021-11-19|
-|36|[neomutt/neomutt](https://github.com/neomutt/neomutt)|:envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat|2360|1|2022-01-10|
+|36|[neomutt/neomutt](https://github.com/neomutt/neomutt)|:envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat|2360|1|2022-01-11|
 |37|[nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets)|Sample ESP32 snippets and code fragments|1832|1|2021-12-20|
 |38|[DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)|CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.|1046|1|2022-01-09|
-|39|[begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)|LeetCode in pure C|2596|1|2021-10-26|
+|39|[begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)|LeetCode in pure C|2597|1|2021-10-26|
 |40|[RiccardoAncarani/BOFs](https://github.com/RiccardoAncarani/BOFs)|Collection of Beacon Object Files (BOFs) for shells and lols|89|1|2021-09-14|
 |41|[lizrice/ebpf-networking](https://github.com/lizrice/ebpf-networking)|The Beginner's Guide to eBPF Programming for Networking|59|1|2021-10-12|
 |42|[DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse)|The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University|520|1|2022-01-04|

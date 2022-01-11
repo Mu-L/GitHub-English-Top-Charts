@@ -9,15 +9,15 @@
 |2|[nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art|22873|2021-10-30|
 |3|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|14270|2021-10-31|
 |4|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8107|2022-01-10|
-|5|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7606|2022-01-10|
+|5|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7607|2022-01-11|
 |6|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|An IDE layer for Neovim with sane defaults. Completely free and community driven.|6915|2022-01-10|
 |7|[draios/sysdig](https://github.com/draios/sysdig)|Linux system exploration and troubleshooting tool with first class support for containers|6731|2022-01-03|
 |8|[rxi/lite](https://github.com/rxi/lite)|A lightweight text editor written in Lua|6180|2021-10-28|
 |9|[nmap/nmap](https://github.com/nmap/nmap)|Nmap - the Network Mapper. Github mirror of official SVN repository.|5855|2022-01-04|
 |10|[lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)|Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets|4663|2021-12-22|
-|11|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|4539|2022-01-09|
+|11|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|4543|2022-01-09|
 |12|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|4395|2022-01-08|
-|13|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4364|2022-01-10|
+|13|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4365|2022-01-10|
 |14|[jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)|Feedforward style transfer|3959|2021-09-07|
 |15|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configurations for the Nvim LSP client|3601|2022-01-10|
 |16|[luvit/luvit](https://github.com/luvit/luvit)|Lua + libUV + jIT = pure awesomesauce|3446|2021-11-19|

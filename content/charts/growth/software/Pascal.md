@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|391|8|2022-01-08|
 |2|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|9987|4|2022-01-10|
-|3|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|7084|3|2022-01-03|
+|3|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|7085|3|2022-01-03|
 |4|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|1448|3|2021-12-22|
 |5|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi|2900|2|2022-01-06|
 |6|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|61|2|2021-12-15|

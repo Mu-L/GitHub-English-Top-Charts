@@ -5,12 +5,12 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52300|18|2021-12-10|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52303|18|2021-12-10|
 |2|[NattyNarwhal/vmwmouse](https://github.com/NattyNarwhal/vmwmouse)|VMware mouse driver for Windows 3.1|296|6|2021-12-01|
 |3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1285|6|2021-10-24|
 |4|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1605|5|2021-10-06|
 |5|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|222|4|2021-11-29|
-|6|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3086|4|2022-01-08|
+|6|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3087|4|2022-01-08|
 |7|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|325|4|2021-12-22|
 |8|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|310|4|2021-12-22|
 |9|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|692|4|2021-12-05|

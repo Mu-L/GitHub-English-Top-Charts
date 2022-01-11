@@ -5,17 +5,17 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|38928|23|2021-12-30|
-|2|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2969|10|2022-01-10|
-|3|[flutter/samples](https://github.com/flutter/samples)|A collection of Flutter examples and demos|11050|8|2022-01-08|
+|1|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|38929|23|2021-12-30|
+|2|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|2970|10|2022-01-10|
+|3|[flutter/samples](https://github.com/flutter/samples)|A collection of Flutter examples and demos|11052|8|2022-01-10|
 |4|[FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)|🔥 A collection of Firebase plugins for Flutter apps.|6048|7|2022-01-10|
 |5|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.|3465|6|2022-01-08|
 |6|[nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples)|[Examples] Simple basic isolated apps, for budding flutter devs.|5880|4|2021-12-12|
 |7|[FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials)|The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.|4131|4|2021-09-21|
 |8|[raywenderlich/flta-materials](https://github.com/raywenderlich/flta-materials)|The projects and the materials that accompany the Flutter Apprentice book|2075|4|2022-01-06|
 |9|[nileshtrivedi/devtoolbox](https://github.com/nileshtrivedi/devtoolbox)|Collection of offline utilities for developers|31|3|2022-01-10|
-|10|[samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens)|A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.|4407|3|2021-10-01|
-|11|[jogboms/flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.|2420|2|2021-12-17|
+|10|[samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens)|A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.|4406|3|2021-10-01|
+|11|[jogboms/flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.|2421|2|2021-12-17|
 |12|[JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp)|A simple Flutter app to Read and Download eBooks.|1215|2|2022-01-09|
 |13|[durannumit/valorant-guide](https://github.com/durannumit/valorant-guide)|Flutter Valorant Guide|20|2|2022-01-09|
 |14|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|195|1|2021-11-08|

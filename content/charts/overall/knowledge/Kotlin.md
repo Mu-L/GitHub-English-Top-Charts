@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|39991|2021-12-09|
-|2|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26723|2022-01-03|
+|1|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|39992|2021-12-09|
+|2|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26724|2022-01-03|
 |3|[KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)|A curated list of awesome Kotlin related stuff Inspired by awesome-java. |9717|2022-01-10|
 |4|[facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)|Used to integrate Android apps with Facebook Platform.|5529|2022-01-10|
 |5|[google/accompanist](https://github.com/google/accompanist)|A collection of extension libraries for Jetpack Compose|3965|2022-01-10|

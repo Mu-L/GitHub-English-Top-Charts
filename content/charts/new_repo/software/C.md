@@ -5,12 +5,12 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4124|2022-01-06|2021-11-24|
-|2|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3109|2021-12-16|2021-08-27|
+|1|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4128|2022-01-06|2021-11-24|
+|2|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3111|2021-12-16|2021-08-27|
 |3|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |2951|2022-01-08|2021-03-19|
 |4|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2765|2021-10-01|2021-02-28|
-|5|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2569|2022-01-07|2021-08-09|
-|6|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2398|2022-01-10|2021-01-15|
+|5|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|2575|2022-01-07|2021-08-09|
+|6|[libsdl-org/SDL](https://github.com/libsdl-org/SDL)|Simple Directmedia Layer|2399|2022-01-11|2021-01-15|
 |7|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2308|2022-01-08|2021-05-22|
 |8|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|2012|2021-12-29|2021-08-30|
 |9|[GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)|FidelityFX Super Resolution|1542|2021-12-31|2021-07-13|

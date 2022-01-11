@@ -5,21 +5,21 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|134121|2022-01-10|
+|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|134123|2022-01-11|
 |2|[iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)|[Example APPS] Basic Flutter apps, for flutter devs.|16056|2021-10-14|
 |3|[flutter/plugins](https://github.com/flutter/plugins)|Plugins for Flutter maintained by the Flutter team|15035|2022-01-10|
 |4|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|12960|2021-12-23|
 |5|[flutterchina/dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.|10331|2022-01-10|
 |6|[felangel/bloc](https://github.com/felangel/bloc)|A predictable state management library that helps implement the BLoC design pattern|8330|2022-01-10|
-|7|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7601|2022-01-10|
+|7|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7602|2022-01-11|
 |8|[alibaba/fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|7224|2021-12-29|
-|9|[2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)|Flutter Launch Timeline Demo|5922|2021-09-22|
+|9|[2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)|Flutter Launch Timeline Demo|5923|2021-09-22|
 |10|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|5760|2022-01-06|
 |11|[jonataslaw/getx](https://github.com/jonataslaw/getx)|Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.|5752|2022-01-09|
 |12|[flame-engine/flame](https://github.com/flame-engine/flame)|A minimalist Flutter game engine|5735|2022-01-10|
 |13|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4122|2021-12-06|
 |14|[imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart)|A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.|4041|2022-01-09|
-|15|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4026|2022-01-10|
+|15|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4027|2022-01-10|
 |16|[flutterchina/flukit](https://github.com/flutterchina/flukit)| A Flutter UI Kit（一个 Flutter UI组件库），2.0 beta is available now !|3879|2021-10-07|
 |17|[lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)|100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web|3515|2021-10-04|
 |18|[lukepighetti/fluro](https://github.com/lukepighetti/fluro)|Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.|3383|2021-09-01|
@@ -31,14 +31,14 @@
 |24|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|2878|2022-01-05|
 |25|[zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)|A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.|2835|2022-01-08|
 |26|[gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio)|A platform adaptive Flutter app for desktop, mobile and web.|2823|2022-01-08|
-|27|[sass/dart-sass](https://github.com/sass/dart-sass)|The reference implementation of Sass, written in Dart.|2806|2022-01-08|
+|27|[sass/dart-sass](https://github.com/sass/dart-sass)|The reference implementation of Sass, written in Dart.|2807|2022-01-10|
 |28|[hivedb/hive](https://github.com/hivedb/hive)|Lightweight and blazing fast key-value database written in pure Dart.|2729|2022-01-09|
 |29|[ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget)|Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. |2584|2021-12-25|
 |30|[2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter)|Load and get full control of your Rive files in a Flutter project using this library.|2532|2021-10-30|
 |31|[google/charts](https://github.com/google/charts)|-|2532|2021-11-11|
 |32|[diegoveloper/flutter-samples](https://github.com/diegoveloper/flutter-samples)|Flutter Samples|2496|2021-10-03|
-|33|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2425|2021-10-28|
-|34|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2343|2022-01-08|
+|33|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2426|2021-10-28|
+|34|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2344|2022-01-10|
 |35|[letsar/flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)|A Flutter staggered grid view|2342|2022-01-09|
 |36|[tekartik/sqflite](https://github.com/tekartik/sqflite)|SQLite flutter plugin|2318|2022-01-08|
 |37|[leoafarias/fvm](https://github.com/leoafarias/fvm)|Flutter Version Management: A simple CLI to manage Flutter SDK versions.|2314|2022-01-06|

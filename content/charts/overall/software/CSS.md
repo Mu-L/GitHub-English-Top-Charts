@@ -5,52 +5,52 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|73277|2022-01-10|
-|2|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|46349|2021-11-30|
-|3|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44895|2022-01-04|
-|4|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|32322|2022-01-10|
-|5|[dhg/Skeleton](https://github.com/dhg/Skeleton)|Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development|18480|2021-12-23|
-|6|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16628|2021-10-18|
+|1|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|73279|2022-01-10|
+|2|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|46348|2021-11-30|
+|3|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44896|2022-01-04|
+|4|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|32331|2022-01-10|
+|5|[dhg/Skeleton](https://github.com/dhg/Skeleton)|Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development|18481|2021-12-23|
+|6|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16629|2021-10-18|
 |7|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15738|2021-11-06|
 |8|[CodeByZach/pace](https://github.com/CodeByZach/pace)|Automatically add a progress bar to your site.|15367|2021-07-28|
-|9|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)|11104|2022-01-08|
-|10|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|10948|2021-10-11|
-|11|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10815|2022-01-06|
-|12|[Automattic/_s](https://github.com/Automattic/_s)|Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out ...|10473|2022-01-01|
+|9|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)|11103|2022-01-08|
+|10|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|10947|2021-10-11|
+|11|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10816|2022-01-06|
+|12|[Automattic/_s](https://github.com/Automattic/_s)|Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out ...|10472|2022-01-01|
 |13|[creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)|Material Dashboard - Open Source Bootstrap 5 Material Design Admin|10030|2021-12-07|
 |14|[StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)|:octocat: Dark GitHub style|9476|2022-01-10|
 |15|[fgnass/spin.js](https://github.com/fgnass/spin.js)|A spinning activity indicator|9354|2021-09-01|
-|16|[mrmrs/colors](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|9043|2021-08-30|
+|16|[mrmrs/colors](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|9042|2021-08-30|
 |17|[HubSpot/offline](https://github.com/HubSpot/offline)|Automatically display online/offline indication to your users|8664|2021-12-28|
 |18|[chinchang/hint.css](https://github.com/chinchang/hint.css)|A CSS only tooltip library for your lovely websites.|8172|2021-10-30|
-|19|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API|8094|2021-09-27|
+|19|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API|8096|2021-09-27|
 |20|[appbaseio/dejavu](https://github.com/appbaseio/dejavu)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7606|2022-01-05|
 |21|[barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)|Build a Jekyll blog in minutes, without touching the command line.|7577|2022-01-04|
-|22|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7328|2021-12-07|
+|22|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7329|2021-12-07|
 |23|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|7215|2022-01-10|
-|24|[DataTables/DataTables](https://github.com/DataTables/DataTables)|Tables plug-in for jQuery|6966|2021-08-30|
+|24|[DataTables/DataTables](https://github.com/DataTables/DataTables)|Tables plug-in for jQuery|6967|2021-08-30|
 |25|[olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS)|Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e ...|6848|2021-12-17|
 |26|[json-api/json-api](https://github.com/json-api/json-api)|A specification for building JSON APIs|6793|2021-12-28|
-|27|[jonsuh/hamburgers](https://github.com/jonsuh/hamburgers)|Tasty CSS-animated Hamburgers|6531|2021-12-04|
-|28|[erikflowers/weather-icons](https://github.com/erikflowers/weather-icons)|215 Weather Themed Icons and CSS|6310|2021-12-13|
+|27|[jonsuh/hamburgers](https://github.com/jonsuh/hamburgers)|Tasty CSS-animated Hamburgers|6532|2021-12-04|
+|28|[erikflowers/weather-icons](https://github.com/erikflowers/weather-icons)|215 Weather Themed Icons and CSS|6311|2021-12-13|
 |29|[jdan/98.css](https://github.com/jdan/98.css)|A design system for building faithful recreations of old UIs|6308|2021-08-10|
 |30|[ai/easings.net](https://github.com/ai/easings.net)|Easing Functions Cheat Sheet|6143|2021-08-18|
 |31|[basscss/basscss](https://github.com/basscss/basscss)|Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library|5671|2021-08-10|
 |32|[spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)|A sample Spring-based application|5280|2022-01-10|
 |33|[scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|🏗 forkable Ethereum dev stack focused on fast product iterations |5094|2022-01-09|
-|34|[arcticicestudio/nord](https://github.com/arcticicestudio/nord)|An arctic, north-bluish color palette.|4856|2021-10-19|
-|35|[kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css)|Simple tooltips made of pure CSS|4856|2021-08-11|
+|34|[arcticicestudio/nord](https://github.com/arcticicestudio/nord)|An arctic, north-bluish color palette.|4858|2021-10-19|
+|35|[kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css)|Simple tooltips made of pure CSS|4857|2021-08-11|
 |36|[froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor)|The next generation Javascript WYSIWYG HTML Editor.|4764|2021-12-20|
 |37|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4739|2022-01-02|
 |38|[robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)|Synthwave inspired colour theme for VS Code 🌅🕶 |4689|2021-11-25|
 |39|[csstools/sanitize.css](https://github.com/csstools/sanitize.css)|A best-practices CSS foundation|4686|2021-10-24|
 |40|[steshaw/plt](https://github.com/steshaw/plt)|λΠ Programming Language Theory|4622|2021-07-26|
-|41|[elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)|CSS classes to move your DOM!|4560|2021-08-10|
+|41|[elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)|CSS classes to move your DOM!|4561|2021-08-10|
 |42|[progit/progit2](https://github.com/progit/progit2)|Pro Git 2nd Edition|4550|2022-01-10|
 |43|[creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit)|Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source|4479|2021-10-23|
 |44|[miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js)|Unobtrusive page transitions with jQuery.|4462|2021-11-23|
 |45|[microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)|Public documentation for Visual Studio Code|4183|2022-01-10|
-|46|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|4177|2021-12-26|
+|46|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|4178|2021-12-26|
 |47|[cssnano/cssnano](https://github.com/cssnano/cssnano)|A modular minifier, built on top of the PostCSS ecosystem.|4053|2022-01-09|
 |48|[bollnh/hexo-theme-material](https://github.com/bollnh/hexo-theme-material)|Material Design theme for hexo.|4024|2021-10-15|
 |49|[vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki)|Repository which contains links and resources on different topics of Computer Science.|3895|2021-12-30|
@@ -63,7 +63,7 @@
 |56|[connorferster/handcalcs](https://github.com/connorferster/handcalcs)|Python library for converting Python calculations into rendered latex.|3428|2021-12-28|
 |57|[oxalorg/sakura](https://github.com/oxalorg/sakura)|:cherry_blossom: a minimal css framework/theme.|3285|2022-01-05|
 |58|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3281|2022-01-10|
-|59|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3270|2021-08-23|
+|59|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2021-08-23|
 |60|[poole/hyde](https://github.com/poole/hyde)|A brazen two-column theme for Jekyll.|3263|2021-12-07|
 |61|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3214|2021-11-10|
 |62|[Daemonite/material](https://github.com/Daemonite/material)|Material Design for Bootstrap 4|3163|2022-01-07|
@@ -75,8 +75,8 @@
 |68|[rime/home](https://github.com/rime/home)|Rime::Home is home to Rime users and developers|2971|2021-11-09|
 |69|[poole/lanyon](https://github.com/poole/lanyon)|A content-first, sliding sidebar theme for Jekyll.|2951|2021-12-15|
 |70|[gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is)|An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.|2871|2021-12-09|
-|71|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2861|2021-12-30|
-|72|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|2841|2022-01-06|
+|71|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2862|2021-12-30|
+|72|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|2842|2022-01-06|
 |73|[understrap/understrap](https://github.com/understrap/understrap)|Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.|2825|2022-01-10|
 |74|[BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)|🍭　Cnblogs theme _ Basic theme :  SimpleMemory|2749|2021-12-27|
 |75|[elenapan/dotfiles](https://github.com/elenapan/dotfiles)|There is no place like ~/|2743|2021-10-19|
@@ -91,7 +91,7 @@
 |84|[guillaumepotier/Garlic.js](https://github.com/guillaumepotier/Garlic.js)|Automatically persist your forms' text and select field values locally, until the form is submitted.|2369|2021-11-03|
 |85|[viewflow/django-material](https://github.com/viewflow/django-material)|Material Design for Django|2367|2021-12-21|
 |86|[murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset)|A simple set of best practices to get HTML5 projects off on the right foot.|2323|2021-09-30|
-|87|[TryGhost/Casper](https://github.com/TryGhost/Casper)|The default theme for Ghost|2289|2022-01-07|
+|87|[TryGhost/Casper](https://github.com/TryGhost/Casper)|The default theme for Ghost|2290|2022-01-07|
 |88|[amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards)|Beautiful credit cards for your payment forms|2245|2021-12-20|
 |89|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2238|2022-01-09|
 |90|[csstools/postcss-preset-env](https://github.com/csstools/postcss-preset-env)|Convert modern CSS into something browsers understand|2181|2022-01-10|

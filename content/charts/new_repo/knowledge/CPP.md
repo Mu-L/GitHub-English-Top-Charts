@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)|12 Weeks, 24 Lessons, IoT for All!|8863|2021-12-18|2021-03-03|
-|2|[IntelLabs/control-flag](https://github.com/IntelLabs/control-flag)|A system to flag anomalous source code expressions by learning typical expressions from training data|997|2021-12-02|2021-08-04|
+|1|[microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)|12 Weeks, 24 Lessons, IoT for All!|8865|2022-01-10|2021-03-03|
+|2|[IntelLabs/control-flag](https://github.com/IntelLabs/control-flag)|A system to flag anomalous source code expressions by learning typical expressions from training data|998|2021-12-02|2021-08-04|
 |3|[0vercl0k/wtf](https://github.com/0vercl0k/wtf)|wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.|788|2021-12-21|2021-07-10|
 |4|[dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja)|This is an online course where you can learn and master the skill of low-level performance analysis and tuning.|381|2022-01-10|2021-07-20|
 |5|[ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)|Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.|345|2022-01-03|2021-08-24|
@@ -14,7 +14,7 @@
 |7|[giacomo-b/CppRobotics](https://github.com/giacomo-b/CppRobotics)|Header-only C++ library for robotics, control, and path planning algorithms. Work in progress, contributions are welcome!|306|2021-10-08|2021-09-23|
 |8|[AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE)|An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus & more!|291|2021-12-04|2021-08-22|
 |9|[VictorGordan/opengl-tutorials](https://github.com/VictorGordan/opengl-tutorials)|Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-|280|2022-01-07|2021-03-11|
-|10|[uzh-rpg/agile_autonomy](https://github.com/uzh-rpg/agile_autonomy)|Repository Containing the Code associated with the Paper: "Learning High-Speed Flight in the Wild"|275|2021-10-15|2021-09-22|
+|10|[uzh-rpg/agile_autonomy](https://github.com/uzh-rpg/agile_autonomy)|Repository Containing the Code associated with the Paper: "Learning High-Speed Flight in the Wild"|276|2021-10-15|2021-09-22|
 |11|[Algo-Phantoms/Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)|Algo-Tree is a collection of Algorithms and data structures which are fundamentals to efficient code and good software design. Creating and designing excellent algorithms is required for being an exem ...|272|2021-10-13|2021-01-19|
 |12|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|214|2021-11-02|2021-01-27|
 |13|[orangeduck/Motion-Matching](https://github.com/orangeduck/Motion-Matching)|Learned Motion Matching example implementation and source code for the article "Code vs Data Driven Displacement"|212|2021-12-31|2021-10-19|

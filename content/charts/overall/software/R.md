@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|5226|2022-01-04|
-|2|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4521|2022-01-07|
+|2|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4521|2022-01-10|
 |3|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|3942|2022-01-10|
 |4|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|2938|2022-01-08|
 |5|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2341|2022-01-10|

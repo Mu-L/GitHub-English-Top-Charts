@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|4681|2022-01-10|2021-12-02|
-|2|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3181|2022-01-10|2021-10-02|
+|2|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3182|2022-01-10|2021-10-02|
 |3|[ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)|⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~|1041|2022-01-10|2021-02-01|
 |4|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|989|2021-12-20|2021-10-16|
 |5|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!|947|2022-01-10|2021-02-28|

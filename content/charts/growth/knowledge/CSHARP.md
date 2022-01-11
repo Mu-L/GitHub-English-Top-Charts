@@ -5,20 +5,20 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers.|5908|7|2022-01-10|
+|1|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers.|5909|7|2022-01-10|
 |2|[thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)|:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software|15606|7|2021-12-27|
-|3|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|18355|6|2022-01-10|
+|3|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|18357|6|2022-01-10|
 |4|[plackyhacker/CmdLineSpoofer](https://github.com/plackyhacker/CmdLineSpoofer)|How to spoof the command line when spawning a new process from C#.|77|5|2021-12-28|
 |5|[microsoft/ailab](https://github.com/microsoft/ailab)|Experience, Learn and Code the latest breakthrough innovations with Microsoft AI|6903|5|2021-10-25|
-|6|[dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)|Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.|7051|4|2022-01-02|
+|6|[dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)|Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.|7053|4|2022-01-02|
 |7|[CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet)|.NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is part of the .NET Foundation.|328|4|2022-01-04|
 |8|[davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)|This repository has examples of broken patterns in ASP.NET Core applications|4722|4|2021-10-22|
 |9|[plackyhacker/Shellcode-Injection-Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)|A collection of C# shellcode injection techniques. All techniques use an AES encrypted meterpreter payload. I will be building this project up as I learn, discover or develop more techniques. Some tec ...|300|3|2021-10-22|
 |10|[snovvcrash/DInjector](https://github.com/snovvcrash/DInjector)|Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL|293|3|2022-01-10|
-|11|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2284|3|2021-11-20|
-|12|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3575|3|2021-12-14|
+|11|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2285|3|2021-11-20|
+|12|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3576|3|2021-12-14|
 |13|[CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)|The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit  ...|4684|2|2022-01-10|
-|14|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|3370|2|2022-01-09|
+|14|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|3372|2|2022-01-09|
 |15|[dotnet/interactive](https://github.com/dotnet/interactive)|.NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.|1569|2|2022-01-10|
 |16|[ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK)|*Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.|3444|2|2022-01-03|
 |17|[ethereum-boilerplate/ethereum-unity-boilerplate](https://github.com/ethereum-boilerplate/ethereum-unity-boilerplate)|Moralis / Unity3D Boilerplate project used to demonstrate how to integrate Moralis and Moralis Web3Api with Unity 3D.|90|2|2022-01-06|
@@ -69,7 +69,7 @@
 |62|[Unity-Technologies/XR-Interaction-Toolkit-Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)|This repository contains various examples to use with the XR Interaction Toolkit|399|1|2021-12-07|
 |63|[gradientspace/geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)|C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.|1175|1|2021-11-30|
 |64|[pnp/PnP](https://github.com/pnp/PnP)|SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance|1856|1|2021-08-24|
-|65|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|2509|1|2021-12-14|
+|65|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|2509|1|2022-01-11|
 |66|[alvivar/TeaTime](https://github.com/alvivar/TeaTime)|TeaTime is a fast & simple queue for timed callbacks, focused on solving common coroutines patterns in Unity games.|40|0|2021-10-04|
 |67|[AlexChesser/tech-interview-prep-course](https://github.com/AlexChesser/tech-interview-prep-course)|A repository with associated live twitch stream and youtube shows where we work our way through a preparation guide for code interviews.|63|0|2021-11-11|
 |68|[phuocle/Dynamics-Crm-DevKit](https://github.com/phuocle/Dynamics-Crm-DevKit)|A collection of projects and items template for develop Dynamics 365 Crm|51|0|2022-01-10|

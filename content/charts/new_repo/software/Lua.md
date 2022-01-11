@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7606|2022-01-10|2021-03-07|
+|1|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.|7607|2022-01-11|2021-03-07|
 |2|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|1951|2022-01-10|2021-06-29|
 |3|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|1862|2022-01-08|2021-04-11|
 |4|[folke/trouble.nvim](https://github.com/folke/trouble.nvim)|🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.|1205|2021-12-31|2021-04-21|

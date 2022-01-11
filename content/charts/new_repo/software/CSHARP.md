@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4037|2022-01-10|2021-05-12|
-|2|[microsoft/Power-Fx](https://github.com/microsoft/Power-Fx)|Power Fx low-code programming language|2593|2022-01-08|2021-02-23|
+|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4041|2022-01-10|2021-05-12|
+|2|[microsoft/Power-Fx](https://github.com/microsoft/Power-Fx)|Power Fx low-code programming language|2593|2022-01-11|2021-02-23|
 |3|[blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)|Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.|2238|2021-12-14|2021-02-26|
 |4|[PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes)|Prime Number Projects in C#/C++/Python|1695|2022-01-09|2021-03-23|
 |5|[builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)|The real PowerToys for Windows 11|1592|2022-01-09|2021-07-19|

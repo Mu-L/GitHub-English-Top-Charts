@@ -5,35 +5,35 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10815|26|2022-01-06|
-|2|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44895|21|2022-01-04|
-|3|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|73277|20|2022-01-10|
+|1|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|10816|26|2022-01-06|
+|2|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|44896|21|2022-01-04|
+|3|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|73279|20|2022-01-10|
 |4|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3281|13|2022-01-10|
-|5|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|46349|12|2021-11-30|
-|6|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|32322|12|2022-01-10|
-|7|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API|8094|10|2021-09-27|
+|5|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|46348|12|2021-11-30|
+|6|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|32331|12|2022-01-10|
+|7|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API|8096|10|2021-09-27|
 |8|[jdan/98.css](https://github.com/jdan/98.css)|A design system for building faithful recreations of old UIs|6308|10|2021-08-10|
 |9|[scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|🏗 forkable Ethereum dev stack focused on fast product iterations |5094|8|2022-01-09|
-|10|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16628|8|2021-10-18|
+|10|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16629|8|2021-10-18|
 |11|[jessikamiranda/healthio](https://github.com/jessikamiranda/healthio)|Landing page Health.io App|23|8|2022-01-09|
 |12|[elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)|Replacement icons for popular apps in the style of macOS Big Sur|3625|7|2022-01-09|
 |13|[creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit)|Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source|4479|6|2021-10-23|
 |14|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15738|6|2021-11-06|
 |15|[EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme)|:snowflake: A dark theme for firefox theme created using the awesome Nord color palette.|99|6|2022-01-10|
-|16|[dhg/Skeleton](https://github.com/dhg/Skeleton)|Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development|18480|5|2021-12-23|
+|16|[dhg/Skeleton](https://github.com/dhg/Skeleton)|Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development|18481|5|2021-12-23|
 |17|[lunasorcery/twitter-alt-text-viewer](https://github.com/lunasorcery/twitter-alt-text-viewer)|Make alt-text visible on Twitter web|36|5|2022-01-04|
 |18|[gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is)|An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.|2871|5|2021-12-09|
 |19|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4739|5|2022-01-02|
-|20|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|10948|5|2021-10-11|
+|20|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|10947|5|2021-10-11|
 |21|[halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)|Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.|2605|5|2021-11-10|
 |22|[CodeByZach/pace](https://github.com/CodeByZach/pace)|Automatically add a progress bar to your site.|15367|5|2021-07-28|
 |23|[connorferster/handcalcs](https://github.com/connorferster/handcalcs)|Python library for converting Python calculations into rendered latex.|3428|5|2021-12-28|
 |24|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3214|5|2021-11-10|
 |25|[robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)|Synthwave inspired colour theme for VS Code 🌅🕶 |4689|5|2021-11-25|
-|26|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7328|5|2021-12-07|
+|26|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7329|5|2021-12-07|
 |27|[creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)|Material Dashboard - Open Source Bootstrap 5 Material Design Admin|10030|5|2021-12-07|
 |28|[safak/youtube](https://github.com/safak/youtube)|-|1701|5|2022-01-04|
-|29|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)|11104|4|2022-01-08|
+|29|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)|11103|4|2022-01-08|
 |30|[elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset)|The New Simple and Lighter CSS Reset|964|4|2022-01-10|
 |31|[john-smilga/react-projects](https://github.com/john-smilga/react-projects)|-|1713|4|2021-12-19|
 |32|[jonhoo/rust-for-rustaceans.com](https://github.com/jonhoo/rust-for-rustaceans.com)|Source for https://rust-for-rustaceans.com/|73|4|2022-01-10|
@@ -48,10 +48,10 @@
 |41|[resetercss/reseter.css](https://github.com/resetercss/reseter.css)|Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets|938|3|2022-01-10|
 |42|[fontsource/fontsource](https://github.com/fontsource/fontsource)|Self-host Open Source fonts in neatly bundled NPM packages.|1935|3|2022-01-09|
 |43|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|7215|3|2022-01-10|
-|44|[jonsuh/hamburgers](https://github.com/jonsuh/hamburgers)|Tasty CSS-animated Hamburgers|6531|3|2021-12-04|
-|45|[mrmrs/colors](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|9043|3|2021-08-30|
+|44|[jonsuh/hamburgers](https://github.com/jonsuh/hamburgers)|Tasty CSS-animated Hamburgers|6532|3|2021-12-04|
+|45|[mrmrs/colors](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|9042|3|2021-08-30|
 |46|[missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)|The Missing Semester of Your CS Education 📚|2428|3|2022-01-08|
-|47|[Automattic/_s](https://github.com/Automattic/_s)|Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out ...|10473|3|2022-01-01|
+|47|[Automattic/_s](https://github.com/Automattic/_s)|Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out ...|10472|3|2022-01-01|
 |48|[bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa)|Responsive Portfolio Website Using HTML, CSS & JavaScript|659|3|2021-10-29|
 |49|[picturepan2/instagram.css](https://github.com/picturepan2/instagram.css)|Instagram.css - Complete set of Instagram filters in pure CSS|3862|3|2021-09-14|
 |50|[HubSpot/offline](https://github.com/HubSpot/offline)|Automatically display online/offline indication to your users|8664|3|2021-12-28|
@@ -62,7 +62,7 @@
 |55|[DhiWise/dhiwise-nodejs](https://github.com/DhiWise/dhiwise-nodejs)|DhiWise Node.js API generator allows you to instantly generate secure REST APIs. Just supply your database schema to DhiWise, and a fully documented API will be ready for consumption in a few simple c ...|133|2|2021-12-14|
 |56|[vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)|Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.|1198|2|2021-12-28|
 |57|[progit/progit2](https://github.com/progit/progit2)|Pro Git 2nd Edition|4550|2|2022-01-10|
-|58|[arcticicestudio/nord](https://github.com/arcticicestudio/nord)|An arctic, north-bluish color palette.|4856|2|2021-10-19|
+|58|[arcticicestudio/nord](https://github.com/arcticicestudio/nord)|An arctic, north-bluish color palette.|4858|2|2021-10-19|
 |59|[sahat/megaboilerplate](https://github.com/sahat/megaboilerplate)|Handcrafted starter projects, optimized for simplicity and ease of use.|3836|2|2021-09-27|
 |60|[B-Software/Ward](https://github.com/B-Software/Ward)|Server dashboard|1481|2|2021-10-03|
 |61|[fgnass/spin.js](https://github.com/fgnass/spin.js)|A spinning activity indicator|9354|2|2021-09-01|
@@ -76,8 +76,8 @@
 |69|[walkxcode/homer-theme](https://github.com/walkxcode/homer-theme)|A custom Homer theme!|195|2|2021-12-02|
 |70|[json-api/json-api](https://github.com/json-api/json-api)|A specification for building JSON APIs|6793|2|2021-12-28|
 |71|[Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system)|Your web application for managing personal data. <personal.management.system.pms@gmail.com>|2076|2|2021-11-10|
-|72|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|4177|2|2021-12-26|
-|73|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|2841|2|2022-01-06|
+|72|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|4178|2|2021-12-26|
+|73|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|2842|2|2022-01-06|
 |74|[susam/spcss](https://github.com/susam/spcss)|A simple, minimal, classless CSS for simple HTML pages|704|2|2021-09-11|
 |75|[nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)|Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu ...|2418|2|2022-01-03|
 |76|[devsuperior/sds2](https://github.com/devsuperior/sds2)|-|610|2|2021-07-26|
@@ -93,23 +93,23 @@
 |86|[rafaballerini/LandingPage](https://github.com/rafaballerini/LandingPage)|-|88|2|2021-12-30|
 |87|[StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)|:octocat: Dark GitHub style|9476|2|2022-01-10|
 |88|[5t3ph/stylestage](https://github.com/5t3ph/stylestage)|A modern CSS showcase styled by community contributions. Add your stylesheet!|1356|2|2022-01-04|
-|89|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2861|2|2021-12-30|
+|89|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |2862|2|2021-12-30|
 |90|[argyleink/transition.css](https://github.com/argyleink/transition.css)|:octocat: Drop-in CSS transitions|925|2|2021-10-04|
-|91|[erikflowers/weather-icons](https://github.com/erikflowers/weather-icons)|215 Weather Themed Icons and CSS|6310|2|2021-12-13|
-|92|[kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css)|Simple tooltips made of pure CSS|4856|2|2021-08-11|
+|91|[erikflowers/weather-icons](https://github.com/erikflowers/weather-icons)|215 Weather Themed Icons and CSS|6311|2|2021-12-13|
+|92|[kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css)|Simple tooltips made of pure CSS|4857|2|2021-08-11|
 |93|[akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)|An opinionated set of configurations for firefox.|1199|2|2021-10-17|
 |94|[WebDevSimplified/css-split-text-animation](https://github.com/WebDevSimplified/css-split-text-animation)|-|7|2|2022-01-07|
 |95|[UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish)|Phishing Tool & Information Collector |2569|2|2021-11-06|
-|96|[elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)|CSS classes to move your DOM!|4560|2|2021-08-10|
+|96|[elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)|CSS classes to move your DOM!|4561|2|2021-08-10|
 |97|[basscss/basscss](https://github.com/basscss/basscss)|Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library|5671|2|2021-08-10|
 |98|[miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js)|Unobtrusive page transitions with jQuery.|4462|2|2021-11-23|
-|99|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3270|2|2021-08-23|
+|99|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2|2021-08-23|
 |100|[microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)|Public documentation for Visual Studio Code|4183|2|2022-01-10|
 |101|[spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)|A sample Spring-based application|5280|2|2022-01-10|
 |102|[bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone)|Hulu webpage clone|288|2|2021-11-01|
 |103|[Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)|-|33|2|2021-12-27|
 |104|[kevquirk/simple.css](https://github.com/kevquirk/simple.css)|Simple.css is a classless CSS template that allows you to make a good looking website really quickly.|882|2|2021-12-11|
-|105|[DataTables/DataTables](https://github.com/DataTables/DataTables)|Tables plug-in for jQuery|6966|2|2021-08-30|
+|105|[DataTables/DataTables](https://github.com/DataTables/DataTables)|Tables plug-in for jQuery|6967|2|2021-08-30|
 |106|[owl4ce/dotfiles](https://github.com/owl4ce/dotfiles)|:cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4|1380|2|2022-01-09|
 |107|[chinchang/hint.css](https://github.com/chinchang/hint.css)|A CSS only tooltip library for your lovely websites.|8172|2|2021-10-30|
 |108|[viewflow/django-material](https://github.com/viewflow/django-material)|Material Design for Django|2367|1|2021-12-21|

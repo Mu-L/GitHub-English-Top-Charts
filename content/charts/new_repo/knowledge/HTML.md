@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|2330|2022-01-07|2021-06-15|
+|1|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|2331|2022-01-10|2021-06-15|
 |2|[bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io)|Companion webpage for the book "Bayesian Optimization" by Roman Garnett|621|2021-12-08|2021-08-25|
 |3|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|467|2021-10-09|2021-06-24|
 |4|[AhmadRafiee/Docker_training_with_DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)|The tools and sample needed to learn the Docker|405|2021-08-28|2021-08-25|
 |5|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|378|2022-01-03|2021-06-16|
 |6|[fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects)|Project codes used in "The NGINX Handbook" |341|2021-11-16|2021-04-20|
-|7|[1milligram/frontend-tips](https://github.com/1milligram/frontend-tips)|Super tiny, quick tips, tricks and best practices of front-end development|325|2022-01-07|2021-02-21|
+|7|[1milligram/frontend-tips](https://github.com/1milligram/frontend-tips)|Super tiny, quick tips, tricks and best practices of front-end development|327|2022-01-07|2021-02-21|
 |8|[bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)|Free Introduction to Git and GitHub eBook|318|2021-10-30|2021-02-25|
-|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|307|2022-01-10|2021-06-08|
+|9|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|308|2022-01-10|2021-06-08|
 |10|[full-stack-deep-learning/website](https://github.com/full-stack-deep-learning/website)|Source for https://fullstackdeeplearning.com|299|2021-10-09|2021-01-29|
 |11|[yetanother-blog/indiepen](https://github.com/yetanother-blog/indiepen)|An independent and privacy-friendly solution to embed HTML, CSS and JS code examples|252|2022-01-07|2021-03-16|
 |12|[LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad)|Landchad.net Website Tutorial Page|239|2021-12-19|2021-06-28|
@@ -39,11 +39,11 @@
 |32|[LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives)|A list of recommended OptiFine alternatives.|72|2022-01-03|2021-12-06|
 |33|[roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php)|Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.|72|2021-12-22|2021-09-21|
 |34|[ConsenSys-Academy/basic-training](https://github.com/ConsenSys-Academy/basic-training)|Open-source repo for ConsenSys Academy's Basic Training: a software fundamentals course covering Unix-like OSes, CLI, Git, Javascript and more|67|2021-12-21|2021-05-04|
-|35|[buildspace/buildspace-nft-course-starter](https://github.com/buildspace/buildspace-nft-course-starter)|This is the NFT Minting Course Start Project!|66|2021-12-09|2021-09-23|
+|35|[buildspace/buildspace-nft-course-starter](https://github.com/buildspace/buildspace-nft-course-starter)|This is the NFT Minting Course Start Project!|66|2022-01-11|2021-09-23|
 |36|[devrel-kr/HackaLearn](https://github.com/devrel-kr/HackaLearn)|HackaLearnx Korea 2021|66|2021-08-19|2021-06-16|
 |37|[Ksound22/developer-portfolio](https://github.com/Ksound22/developer-portfolio)|Portfolio website tutorial for freeCodeCamp readers|63|2022-01-10|2021-09-30|
 |38|[CesiumLabs/code-examples](https://github.com/CesiumLabs/code-examples)|Short code snippets written by our open source community!|60|2022-01-02|2021-10-01|
-|39|[IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools)|A curated list of awesome resources for R package development|54|2022-01-10|2021-10-27|
+|39|[IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools)|A curated list of awesome resources for R package development|53|2022-01-10|2021-10-27|
 |40|[microsoft/alguidelines](https://github.com/microsoft/alguidelines)|Best Practices and Design Patterns for the AL Language|52|2021-12-18|2021-11-04|
 |41|[learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)|React Quiz Application for Learn with Sumit React Tutorial Series|51|2021-09-07|2021-08-30|
 |42|[Tencent/tdesign-common](https://github.com/Tencent/tdesign-common)|TDesign style/utils shared by multiple frameworks repo.|50|2022-01-10|2021-11-08|
@@ -52,7 +52,7 @@
 |45|[gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light)|Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.|44|2021-11-13|2021-02-07|
 |46|[eco4cast/Statistical-Methods-Seminar-Series](https://github.com/eco4cast/Statistical-Methods-Seminar-Series)|Repository for code shared be presenters in the EFI hosted Statistical Methods Seminar Series|43|2022-01-10|2021-10-06|
 |47|[anton-trunov/csclub-coq-course-spring-2021](https://github.com/anton-trunov/csclub-coq-course-spring-2021)|A course on formal verification at https://compsciclub.ru/en, Spring term 2021|43|2021-08-18|2021-03-12|
-|48|[merlinmann/wisdom](https://github.com/merlinmann/wisdom)|Merlin Mann attempts to capture the best advice he's heard and learned from. |42|2022-01-07|2021-12-29|
+|48|[merlinmann/wisdom](https://github.com/merlinmann/wisdom)|Merlin Mann attempts to capture the best advice he's heard and learned from. |42|2022-01-11|2021-12-29|
 |49|[darshanagandhi90/macbook-keyboard](https://github.com/darshanagandhi90/macbook-keyboard)|Mackbook keyboard using CSS|42|2021-07-24|2021-04-11|
 |50|[awahids/belajar-ngaji](https://github.com/awahids/belajar-ngaji)|simple website for learning basic Quran from Hijaiyah with audio and animations|40|2021-10-25|2021-04-28|
 |51|[suman-shah/various-html-elements](https://github.com/suman-shah/various-html-elements)|Html stands for hyper test mark up language . Add any html file you know HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will ...|39|2021-10-31|2021-10-01|
@@ -60,10 +60,10 @@
 |53|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|37|2022-01-05|2021-10-24|
 |54|[ayush-lab/Coursera-Clone](https://github.com/ayush-lab/Coursera-Clone)|Coursera clone|37|2021-12-21|2021-04-11|
 |55|[erankitcs/BookStoreAppOnEKS](https://github.com/erankitcs/BookStoreAppOnEKS)|A book store app powered by AWS EKS.|36|2021-09-28|2021-06-06|
-|56|[Yunhui1998/Gymjsp](https://github.com/Yunhui1998/Gymjsp)|Share a benchmark that can easily apply reinforcement  learning in Job-shop-scheduling|35|2021-09-25|2021-08-29|
-|57|[42js/js-piscine-beta-2021-08](https://github.com/42js/js-piscine-beta-2021-08)|🔥 JavaScript crunch course from scratch|35|2021-09-08|2021-08-09|
-|58|[midnitefox/Nord-Theme-Ports-and-Assets](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets)|A collection of various assets I've created using Nord Theme color palettes|35|2021-12-26|2021-07-19|
-|59|[shen-yu/iptv-list](https://github.com/shen-yu/iptv-list)|List of IPTV channels with the option to play them directly in the browser. 📺|35|2022-01-10|2021-03-22|
+|56|[shen-yu/iptv-list](https://github.com/shen-yu/iptv-list)|List of IPTV channels with the option to play them directly in the browser. 📺|36|2022-01-10|2021-03-22|
+|57|[Yunhui1998/Gymjsp](https://github.com/Yunhui1998/Gymjsp)|Share a benchmark that can easily apply reinforcement  learning in Job-shop-scheduling|35|2021-09-25|2021-08-29|
+|58|[42js/js-piscine-beta-2021-08](https://github.com/42js/js-piscine-beta-2021-08)|🔥 JavaScript crunch course from scratch|35|2021-09-08|2021-08-09|
+|59|[midnitefox/Nord-Theme-Ports-and-Assets](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets)|A collection of various assets I've created using Nord Theme color palettes|35|2021-12-26|2021-07-19|
 |60|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |32|2022-01-09|2021-07-15|
 |61|[trailheadapps/az-insurance](https://github.com/trailheadapps/az-insurance)|Sample app that demonstrates how to build customer/partner/marketing experiences for Salesforce Experience Cloud and Lightning Web Runtime.|31|2022-01-01|2021-06-29|
 |62|[anastasiospanagiotelis/DimensionReduction](https://github.com/anastasiospanagiotelis/DimensionReduction)|Short course on dimension reduction for AMSI|31|2021-07-15|2021-05-24|
@@ -72,9 +72,9 @@
 |65|[amyjko/critically-conscious-computing](https://github.com/amyjko/critically-conscious-computing)|The online book Critically Conscious Computing: Methods for Secondary Education|29|2022-01-02|2021-06-23|
 |66|[openSUSE/openSUSE-docs-revamped-temp](https://github.com/openSUSE/openSUSE-docs-revamped-temp)|We're creating new, refreshed community user guides and documentation for the openSUSE distributions, centered on Tumbleweed, catering for inexperienced users and veterans alike. Target release: 2021|29|2021-12-28|2021-05-21|
 |67|[acantril/aws-advancednetworking-specialty](https://github.com/acantril/aws-advancednetworking-specialty)|Repo for https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty|29|2021-11-07|2021-03-08|
-|68|[lovy003/First-PR](https://github.com/lovy003/First-PR)|Make Your first PR as part of hactoberfest 2k21. You can add here your first project you made while learning any new language. Make this repo a resource material for those who have just started with a ...|28|2021-12-08|2021-10-02|
-|69|[DiegoVictor/code-streamer](https://github.com/DiegoVictor/code-streamer)|Nodejs Video Streaming Study Case |28|2021-10-26|2021-06-09|
-|70|[livebook-dev/livebook_website](https://github.com/livebook-dev/livebook_website)|Landing page for Livebook|27|2021-12-23|2021-10-15|
+|68|[livebook-dev/livebook_website](https://github.com/livebook-dev/livebook_website)|Landing page for Livebook|28|2021-12-23|2021-10-15|
+|69|[lovy003/First-PR](https://github.com/lovy003/First-PR)|Make Your first PR as part of hactoberfest 2k21. You can add here your first project you made while learning any new language. Make this repo a resource material for those who have just started with a ...|28|2021-12-08|2021-10-02|
+|70|[DiegoVictor/code-streamer](https://github.com/DiegoVictor/code-streamer)|Nodejs Video Streaming Study Case |28|2021-10-26|2021-06-09|
 |71|[justinmeiners/efficient-programming-with-components](https://github.com/justinmeiners/efficient-programming-with-components)|Course notes for Alexander Stepanov's teachings on design and usage of C++ STL.|27|2022-01-02|2021-07-28|
 |72|[VahidN/DNTPersianComponents.Blazor](https://github.com/VahidN/DNTPersianComponents.Blazor)|A collection of Persian components for Blazor|26|2021-11-28|2021-08-06|
 |73|[Oscuro-Phoenix/phd-resources](https://github.com/Oscuro-Phoenix/phd-resources)|We found that there is a lack of a properly maintained list of websites and other links for people who are applying or planning to apply to Ph.D. programs. Feel free to make changes to the README file ...|26|2021-08-09|2021-07-28|
@@ -87,22 +87,23 @@
 |80|[rajatt95/MasterSeleniumFramework](https://github.com/rajatt95/MasterSeleniumFramework)|Automation Testing   Web   Java   OOPS   Selenium WebDriver   TestNG   Maven   ExtentReport   Allure Reports   Java mail API   Design Patterns (Page Object Model, Singleton)   Jenkins   Data-Driven Te ...|22|2021-10-27|2021-10-04|
 |81|[ShadowsDash/ShadowsDash](https://github.com/ShadowsDash/ShadowsDash)|A fully customizable shared-resources based dashboard for pterodactyl hosting services|22|2022-01-09|2021-08-02|
 |82|[octavio-santiago/Super-Mario-Land-AI](https://github.com/octavio-santiago/Super-Mario-Land-AI)|Machine Learning and AI Algorithms developed to play Super Mario Land on Game Boy and Python|22|2021-07-12|2021-07-12|
-|83|[abhi1nandy2/EMNLP-2021-Findings](https://github.com/abhi1nandy2/EMNLP-2021-Findings)|This repo has the code for the paper "Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework" accepted at EMNLP 2021 Findings.|20|2021-10-13|2021-06-27|
-|84|[HaujetZhao/ShortcutMapper_Chinese](https://github.com/HaujetZhao/ShortcutMapper_Chinese)|可视化、交互式的快捷键映射图，中文版本，可以直观地查找快捷键。不懂编程也可以方便地修改、添加快捷键。|19|2021-11-13|2021-02-20|
-|85|[elong0527/r4csr](https://github.com/elong0527/r4csr)|R for Clinical Study Report and Submission|18|2021-12-02|2021-09-15|
-|86|[microsoft/Mastering-the-Marketplace](https://github.com/microsoft/Mastering-the-Marketplace)|Home of the commercial marketplace learning series.|18|2021-12-09|2021-08-11|
-|87|[JOSHUAJEBARAJ/GCP-GOAT](https://github.com/JOSHUAJEBARAJ/GCP-GOAT)|GCP GOAT is the vulnerable application for learn the GCP Security|18|2021-08-10|2021-08-08|
-|88|[appliedepi/epiRhandbook_eng](https://github.com/appliedepi/epiRhandbook_eng)|The repository for the English version of the Epidemiologist R Handbook|18|2021-11-24|2021-07-11|
-|89|[OurMachinery/themachinery-books](https://github.com/OurMachinery/themachinery-books)|This repository contains the source of "The Machinery book " and some other books.|18|2021-12-09|2021-07-06|
-|90|[iamyajat/HypeLinks-API](https://github.com/iamyajat/HypeLinks-API)|A Smart Bookmark API that can classify websites into 10 different categories built using FastAPI and Tensorflow 2.0|17|2021-11-21|2021-04-13|
-|91|[faisalsayed10/carbon-slack](https://github.com/faisalsayed10/carbon-slack)|Create and share beautiful images of your source code directly in slack|17|2021-10-30|2021-04-10|
-|92|[obscurerev/FNF-Mods-Web-Install](https://github.com/obscurerev/FNF-Mods-Web-Install)|A list of links to FNF mods in full screen.|16|2021-12-09|2021-06-15|
-|93|[BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods)|This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision|16|2021-08-12|2021-04-23|
-|94|[ashutoshkrris/iRead](https://github.com/ashutoshkrris/iRead)|iRead is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.|16|2021-12-07|2021-03-07|
-|95|[brianjenkins94/private-repo-file-explorer](https://github.com/brianjenkins94/private-repo-file-explorer)|Share a private repo as if it were a public repo.|15|2021-08-24|2021-08-15|
-|96|[abdouAoufi/web-starting](https://github.com/abdouAoufi/web-starting)|this is a repository created by me to work with people and learn web together ...|15|2021-08-08|2021-07-29|
-|97|[Duocodies/DuoFlix](https://github.com/Duocodies/DuoFlix)|Share your Netflix Account Without Password|15|2021-09-11|2021-07-03|
-|98|[sambitraj/COLLEGE-NEEDER](https://github.com/sambitraj/COLLEGE-NEEDER)|"It gives you the notes and info. in your semester. And also to save your time we've put together a list of our most useful study material "|15|2021-10-28|2021-05-31|
+|83|[GoogleCloudPlatform/workflows-demos](https://github.com/GoogleCloudPlatform/workflows-demos)|A collection of Workflows samples for various use cases|22|2022-01-10|2021-04-20|
+|84|[abhi1nandy2/EMNLP-2021-Findings](https://github.com/abhi1nandy2/EMNLP-2021-Findings)|This repo has the code for the paper "Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework" accepted at EMNLP 2021 Findings.|20|2021-10-13|2021-06-27|
+|85|[HaujetZhao/ShortcutMapper_Chinese](https://github.com/HaujetZhao/ShortcutMapper_Chinese)|可视化、交互式的快捷键映射图，中文版本，可以直观地查找快捷键。不懂编程也可以方便地修改、添加快捷键。|19|2021-11-13|2021-02-20|
+|86|[elong0527/r4csr](https://github.com/elong0527/r4csr)|R for Clinical Study Report and Submission|18|2021-12-02|2021-09-15|
+|87|[microsoft/Mastering-the-Marketplace](https://github.com/microsoft/Mastering-the-Marketplace)|Home of the commercial marketplace learning series.|18|2021-12-09|2021-08-11|
+|88|[JOSHUAJEBARAJ/GCP-GOAT](https://github.com/JOSHUAJEBARAJ/GCP-GOAT)|GCP GOAT is the vulnerable application for learn the GCP Security|18|2021-08-10|2021-08-08|
+|89|[appliedepi/epiRhandbook_eng](https://github.com/appliedepi/epiRhandbook_eng)|The repository for the English version of the Epidemiologist R Handbook|18|2021-11-24|2021-07-11|
+|90|[OurMachinery/themachinery-books](https://github.com/OurMachinery/themachinery-books)|This repository contains the source of "The Machinery book " and some other books.|18|2021-12-09|2021-07-06|
+|91|[iamyajat/HypeLinks-API](https://github.com/iamyajat/HypeLinks-API)|A Smart Bookmark API that can classify websites into 10 different categories built using FastAPI and Tensorflow 2.0|17|2021-11-21|2021-04-13|
+|92|[faisalsayed10/carbon-slack](https://github.com/faisalsayed10/carbon-slack)|Create and share beautiful images of your source code directly in slack|17|2021-10-30|2021-04-10|
+|93|[obscurerev/FNF-Mods-Web-Install](https://github.com/obscurerev/FNF-Mods-Web-Install)|A list of links to FNF mods in full screen.|16|2021-12-09|2021-06-15|
+|94|[BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods)|This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision|16|2021-08-12|2021-04-23|
+|95|[ashutoshkrris/iRead](https://github.com/ashutoshkrris/iRead)|iRead is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.|16|2021-12-07|2021-03-07|
+|96|[brianjenkins94/private-repo-file-explorer](https://github.com/brianjenkins94/private-repo-file-explorer)|Share a private repo as if it were a public repo.|15|2021-08-24|2021-08-15|
+|97|[abdouAoufi/web-starting](https://github.com/abdouAoufi/web-starting)|this is a repository created by me to work with people and learn web together ...|15|2021-08-08|2021-07-29|
+|98|[Duocodies/DuoFlix](https://github.com/Duocodies/DuoFlix)|Share your Netflix Account Without Password|15|2021-09-11|2021-07-03|
+|99|[sambitraj/COLLEGE-NEEDER](https://github.com/sambitraj/COLLEGE-NEEDER)|"It gives you the notes and info. in your semester. And also to save your time we've put together a list of our most useful study material "|15|2021-10-28|2021-05-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

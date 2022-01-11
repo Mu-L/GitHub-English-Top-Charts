@@ -24,7 +24,7 @@
 |17|[Toxblh/MTMR](https://github.com/Toxblh/MTMR)|🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro|3549|2021-11-10|
 |18|[shu223/iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler)|Code examples for new APIs of iOS 10.|3341|2021-08-11|
 |19|[artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)|👨🏻‍💻 Examples of new iOS 11 APIs|3325|2021-12-31|
-|20|[nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)|SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.|2987|2021-11-02|
+|20|[nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)|SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.|2988|2021-11-02|
 |21|[avatsaev/touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat)|Stupid nyancat animation on your +$2k MacBook Pro's Touchbar|2925|2021-07-16|
 |22|[marlimox/AloeStackView](https://github.com/marlimox/AloeStackView)|A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.|2841|2021-08-11|
 |23|[PhamBaTho/BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)|The elegant yet functional dropdown menu, written in Swift, appears underneath the navigation bar to display a list of defined items when a user clicks on the navigation title.|2630|2021-08-18|

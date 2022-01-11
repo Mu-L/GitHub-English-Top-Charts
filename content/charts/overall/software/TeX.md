@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15100|2022-01-09|
+|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15101|2022-01-09|
 |2|[HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)|Latex code for making neural networks diagrams|14415|2022-01-05|
 |3|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9088|2021-11-05|
 |4|[matze/mtheme](https://github.com/matze/mtheme)|A modern LaTeX Beamer theme|5269|2022-01-09|
@@ -14,9 +14,9 @@
 |7|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4639|2022-01-10|
 |8|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|3791|2021-12-19|
 |9|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3639|2022-01-08|
-|10|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3587|2021-12-30|
+|10|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3588|2021-12-30|
 |11|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3303|2021-12-04|
-|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2692|2022-01-09|
+|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2693|2022-01-09|
 |13|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2496|2021-10-29|
 |14|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2175|2021-11-20|
 |15|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|1763|2022-01-10|

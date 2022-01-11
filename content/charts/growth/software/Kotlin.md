@@ -7,31 +7,31 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[bytedance/btrace](https://github.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|734|29|2021-12-31|
 |2|[PatilShreyas/Capturable](https://github.com/PatilShreyas/Capturable)|🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️|238|26|2022-01-07|
-|3|[JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)|Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.|7869|16|2022-01-10|
+|3|[JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)|Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.|7873|16|2022-01-10|
 |4|[Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)|A rule-based tunnel for Android.|11025|14|2021-11-21|
 |5|[dsc-gitam/Android_Study_Jam2021](https://github.com/dsc-gitam/Android_Study_Jam2021)|This application was built as a part of the Android 📱 Study Jam 2021|13|13|2022-01-10|
-|6|[2dust/v2rayNG](https://github.com/2dust/v2rayNG)|-|12866|13|2022-01-09|
+|6|[2dust/v2rayNG](https://github.com/2dust/v2rayNG)|-|12870|13|2022-01-09|
 |7|[android/architecture-components-samples](https://github.com/android/architecture-components-samples)|Samples for Android Architecture Components. |21353|13|2021-12-04|
 |8|[silentsignal/burp-log4shell](https://github.com/silentsignal/burp-log4shell)|Log4Shell scanner for Burp Suite|378|13|2021-12-17|
-|9|[android/compose-samples](https://github.com/android/compose-samples)|Official Jetpack Compose samples.|10262|12|2022-01-07|
-|10|[square/okhttp](https://github.com/square/okhttp)|Square’s meticulous HTTP client for the JVM, Android, and GraalVM.|41407|12|2022-01-10|
+|9|[android/compose-samples](https://github.com/android/compose-samples)|Official Jetpack Compose samples.|10263|12|2022-01-07|
+|10|[square/okhttp](https://github.com/square/okhttp)|Square’s meticulous HTTP client for the JVM, Android, and GraalVM.|41406|12|2022-01-10|
 |11|[square/leakcanary](https://github.com/square/leakcanary)|A memory leak detection library for Android.|27107|11|2022-01-10|
 |12|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|2810|11|2022-01-10|
-|13|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |39846|11|2022-01-10|
-|14|[android/sunflower](https://github.com/android/sunflower)|A gardening app illustrating Android development best practices with Android Jetpack.|15135|11|2021-12-28|
+|13|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |39849|11|2022-01-10|
+|14|[android/sunflower](https://github.com/android/sunflower)|A gardening app illustrating Android development best practices with Android Jetpack.|15134|11|2021-12-28|
 |15|[joreilly/WordMasterKMP](https://github.com/joreilly/WordMasterKMP)|Kotlin Multiplatform sample with SwiftUI and Compose (Desktop and Android) clients. Heavily inspired by Wordle game.|31|10|2022-01-10|
 |16|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7593|9|2022-01-05|
 |17|[GetStream/avatarview-android](https://github.com/GetStream/avatarview-android)|✨ Supports loading profile images with fractional styles, shapes, borders, indicators, and initials for Android.|218|9|2022-01-09|
 |18|[YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)|Vanced Installer|5734|9|2022-01-09|
-|19|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8281|9|2022-01-07|
-|20|[skydoves/Pokedex](https://github.com/skydoves/Pokedex)|🗡️ Android Pokedex using Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.|4931|8|2021-12-25|
+|19|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8281|9|2022-01-11|
+|20|[skydoves/Pokedex](https://github.com/skydoves/Pokedex)|🗡️ Android Pokedex using Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.|4932|8|2021-12-25|
 |21|[google/flexbox-layout](https://github.com/google/flexbox-layout)|Flexbox for Android |17208|8|2021-12-23|
 |22|[nickbutcher/plaid](https://github.com/nickbutcher/plaid)|An Android app which provides design news & inspiration as well as being an example of implementing material design.|16184|7|2021-08-01|
 |23|[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)|A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential|3643|7|2021-12-28|
 |24|[afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)|😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.|19129|7|2022-01-01|
-|25|[google/iosched](https://github.com/google/iosched)|The Google I/O Android App|21042|7|2022-01-06|
-|26|[tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)|Free and open source manga reader for Android.|14128|6|2022-01-10|
-|27|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|6024|6|2022-01-10|
+|25|[google/iosched](https://github.com/google/iosched)|The Google I/O Android App|21043|7|2022-01-06|
+|26|[tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)|Free and open source manga reader for Android.|14129|6|2022-01-10|
+|27|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|6024|6|2022-01-11|
 |28|[square/logcat](https://github.com/square/logcat)|I CAN HAZ LOGZ?|738|6|2021-09-30|
 |29|[line/kotlin-jdsl](https://github.com/line/kotlin-jdsl)|Kotlin DSL for JPA Criteria API without generated metamodel and reflection.|67|5|2022-01-06|
 |30|[android/uamp](https://github.com/android/uamp)|A sample audio app for Android|12398|5|2021-11-08|
@@ -44,15 +44,15 @@
 |37|[airbnb/mavericks](https://github.com/airbnb/mavericks)|Mavericks: Android on Autopilot|4535|4|2022-01-07|
 |38|[JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)|RxJava binding APIs for Android's UI widgets.|9700|4|2021-11-18|
 |39|[ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend)|Enjoy programming while playing a game.|1363|4|2022-01-10|
-|40|[mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)|Firefox for Android|5467|4|2022-01-10|
+|40|[mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)|Firefox for Android|5467|4|2022-01-11|
 |41|[AppIntro/AppIntro](https://github.com/AppIntro/AppIntro)|Make a cool intro for your Android app.|10004|4|2022-01-08|
-|42|[ktorio/ktor](https://github.com/ktorio/ktor)|Framework for quickly creating connected applications in Kotlin with minimal effort|9282|4|2022-01-10|
+|42|[ktorio/ktor](https://github.com/ktorio/ktor)|Framework for quickly creating connected applications in Kotlin with minimal effort|9283|4|2022-01-10|
 |43|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3803|4|2021-12-21|
-|44|[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)|Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT ...|2432|4|2022-01-09|
-|45|[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)|Koin - a pragmatic lightweight dependency injection framework for Kotlin|7192|4|2022-01-10|
+|44|[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)|Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT ...|2434|4|2022-01-09|
+|45|[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)|Koin - a pragmatic lightweight dependency injection framework for Kotlin|7193|4|2022-01-10|
 |46|[KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)|Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device|2246|4|2021-07-15|
 |47|[opatry/wordle-kt](https://github.com/opatry/wordle-kt)|Wordle game clone made with Kotlin & Compose|11|4|2022-01-10|
-|48|[YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)|Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.|8188|4|2022-01-10|
+|48|[YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)|Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.|8189|4|2022-01-10|
 |49|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2245|3|2021-12-24|
 |50|[tipsy/javalin](https://github.com/tipsy/javalin)|A simple and modern Java and Kotlin web framework|5214|3|2022-01-07|
 |51|[Shivamdhuria/puck](https://github.com/Shivamdhuria/puck)|Make composables draggable|29|3|2022-01-09|
@@ -80,7 +80,7 @@
 |73|[BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos)|Pixelify Google Photos|133|3|2021-12-16|
 |74|[zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)|An android image compression library.|6273|3|2021-10-14|
 |75|[google/modernstorage](https://github.com/google/modernstorage)|ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions|759|3|2022-01-10|
-|76|[chrisbanes/tivi](https://github.com/chrisbanes/tivi)|Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy deve ...|4795|3|2022-01-06|
+|76|[chrisbanes/tivi](https://github.com/chrisbanes/tivi)|Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy deve ...|4796|3|2022-01-06|
 |77|[dropbox/Store](https://github.com/dropbox/Store)|Kotlin Library for Async Data Loading and Caching|2358|3|2022-01-07|
 |78|[skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)|🌠 Transform into a different view or activity using morphing animations.|1714|3|2021-12-30|
 |79|[android/camera-samples](https://github.com/android/camera-samples)|Multiple samples showing the best practices in camera APIs on Android.|3352|3|2021-12-24|
@@ -93,16 +93,16 @@
 |86|[florisboard/florisboard](https://github.com/florisboard/florisboard)|An open-source keyboard for Android which respects your privacy. Currently in early-beta.|2231|3|2022-01-08|
 |87|[skydoves/Balloon](https://github.com/skydoves/Balloon)|:balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.|2298|3|2022-01-09|
 |88|[kickstarter/android-oss](https://github.com/kickstarter/android-oss)|Kickstarter for Android. Bring new ideas to life, anywhere.|5627|3|2022-01-10|
-|89|[detekt/detekt](https://github.com/detekt/detekt)|Static code analysis for Kotlin|4217|2|2022-01-10|
+|89|[detekt/detekt](https://github.com/detekt/detekt)|Static code analysis for Kotlin|4219|2|2022-01-11|
 |90|[skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)|🦁  A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, Flow, Room, Repository, Koin) architecture.|1292|2|2022-01-08|
 |91|[Shubhanshu156/WhatsaApp_Clone](https://github.com/Shubhanshu156/WhatsaApp_Clone)|A WhatsApp Clone using Firebase.That allow user to Chat with Friends.|21|2|2022-01-03|
 |92|[muzei/muzei](https://github.com/muzei/muzei)|Muzei Live Wallpaper for Android|4350|2|2022-01-06|
 |93|[pufferfish-gg/Pufferfish](https://github.com/pufferfish-gg/Pufferfish)|A high-performance fork of Paper designed for large servers.|155|2|2022-01-09|
-|94|[yairm210/Unciv](https://github.com/yairm210/Unciv)|Open-source Android/Desktop remake of Civ V|2796|2|2022-01-10|
+|94|[yairm210/Unciv](https://github.com/yairm210/Unciv)|Open-source Android/Desktop remake of Civ V|2797|2|2022-01-10|
 |95|[ACRA/acra](https://github.com/ACRA/acra)|Application Crash Reports for Android|5799|2|2021-12-24|
 |96|[JetBrains/Exposed](https://github.com/JetBrains/Exposed)|Kotlin SQL Framework|5820|2|2022-01-02|
 |97|[jacobras/ComposeActionMenu](https://github.com/jacobras/ComposeActionMenu)|An easy to use action/overflow menu for Jetpack Compose.|27|2|2022-01-04|
-|98|[JetBrains/ideavim](https://github.com/JetBrains/ideavim)|Vim emulation plugin for IDEs based on the IntelliJ Platform|6230|2|2022-01-10|
+|98|[JetBrains/ideavim](https://github.com/JetBrains/ideavim)|Vim emulation plugin for IDEs based on the IntelliJ Platform|6231|2|2022-01-10|
 |99|[mocklets/pluto](https://github.com/mocklets/pluto)|Pluto is a on-device debugger for Android applications, which helps in inspection of HTTP requests/responses, capture Crashes and ANRs and manipulating application data on-the-go.|387|2|2022-01-10|
 |100|[cashapp/turbine](https://github.com/cashapp/turbine)|A small testing library for kotlinx.coroutines Flow|1260|2|2021-12-22|
 |101|[Foso/HtmlToComposeWebConverter](https://github.com/Foso/HtmlToComposeWebConverter)|IntelliJ Idea Plugin that can convert HTML to Compose for Web code. https://plugins.jetbrains.com/plugin/18261-html-to-compose-web-converter|46|2|2022-01-09|
@@ -112,18 +112,18 @@
 |105|[ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker)|🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)|2205|2|2022-01-10|
 |106|[hlnstepanova/kmpizza-repo](https://github.com/hlnstepanova/kmpizza-repo)|Kotlin Multiplatform + Pizza = <3|13|2|2022-01-05|
 |107|[skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes)|❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, Room, Repository, Koin)  architecture.|1058|2|2021-11-14|
-|108|[square/kotlinpoet](https://github.com/square/kotlinpoet)|A Kotlin API for generating .kt source files.|3031|2|2022-01-08|
+|108|[square/kotlinpoet](https://github.com/square/kotlinpoet)|A Kotlin API for generating .kt source files.|3032|2|2022-01-08|
 |109|[Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)|Salt Player Update.|286|2|2022-01-06|
 |110|[idisfkj/android-startup](https://github.com/idisfkj/android-startup)|🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to strea ...|944|2|2021-12-29|
 |111|[skydoves/MovieCompose](https://github.com/skydoves/MovieCompose)|🎞 A demo movie app using Jetpack Compose and Hilt based on modern Android tech stacks.|314|2|2021-12-08|
 |112|[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)|Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.|1663|2|2022-01-01|
 |113|[guolindev/Glance](https://github.com/guolindev/Glance)|A simple and handy Android database debugging library.|832|2|2021-09-02|
-|114|[corda/corda](https://github.com/corda/corda)|Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra ...|3787|2|2022-01-10|
+|114|[corda/corda](https://github.com/corda/corda)|Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra ...|3788|2|2022-01-10|
 |115|[Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)|An Xposed module to intercept applist detections|578|2|2022-01-09|
 |116|[cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template)|Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️|1265|2|2021-12-30|
 |117|[pinterest/ktlint](https://github.com/pinterest/ktlint)|An anti-bikeshedding Kotlin linter with built-in formatter|4667|2|2021-12-30|
 |118|[ejiaogl/FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk)|Best present for 316 and 423.|756|2|2021-12-24|
-|119|[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)|Rust plugin for the IntelliJ Platform|3811|2|2022-01-10|
+|119|[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)|Rust plugin for the IntelliJ Platform|3811|2|2022-01-11|
 |120|[Bradleycorn/compose-buttons](https://github.com/Bradleycorn/compose-buttons)|A set of Loading animations used in Buttons to convey a "loading" state after the button is clicked.|13|2|2022-01-03|
 |121|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4035|2|2021-10-28|
 |122|[TeamSparker/Spark-Android](https://github.com/TeamSparker/Spark-Android)|안드는🗿🔪퍄퍅..퍄퍅,,,퍅...파...스파크🎇|10|2|2022-01-10|
@@ -172,7 +172,7 @@
 |165|[Spikeysanju/MotionToast](https://github.com/Spikeysanju/MotionToast)|🌈 A Beautiful Motion Toast Library for Kotlin Android|1084|2|2022-01-07|
 |166|[mannonov/android-list-under-the-hood](https://github.com/mannonov/android-list-under-the-hood)|-|11|2|2022-01-06|
 |167|[badoo/Decompose](https://github.com/badoo/Decompose)|Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.), inspired by Badoos RIBs fork of the U ...|797|2|2021-12-17|
-|168|[iSoron/uhabits](https://github.com/iSoron/uhabits)|Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits|4637|2|2022-01-10|
+|168|[iSoron/uhabits](https://github.com/iSoron/uhabits)|Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits|4638|2|2022-01-10|
 |169|[vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture)|📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.|2067|2|2021-08-23|
 |170|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3664|2|2021-12-21|
 |171|[Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX)|Make Android transparent statusbar and navigationbar easy.|1291|2|2021-11-17|

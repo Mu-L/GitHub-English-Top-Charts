@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[s4y/undot](https://github.com/s4y/undot)|-|254|12|2021-12-26|
-|2|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10446|10|2022-01-10|
+|2|[utmapp/UTM](https://github.com/utmapp/UTM)|Virtual machines for iOS and macOS|10452|10|2022-01-10|
 |3|[AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)|A delightful networking framework for iOS, macOS, watchOS, and tvOS.|33267|9|2022-01-04|
-|4|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15693|8|2022-01-10|
-|5|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4071|7|2022-01-10|
+|4|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|15693|8|2022-01-11|
+|5|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|4070|7|2022-01-10|
 |6|[SnapKit/Masonry](https://github.com/SnapKit/Masonry)|Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout|18009|6|2021-07-20|
-|7|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12405|6|2022-01-06|
+|7|[wix/react-native-navigation](https://github.com/wix/react-native-navigation)|A complete native navigation solution for React Native|12406|6|2022-01-06|
 |8|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|2770|6|2021-12-21|
 |9|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12219|6|2021-12-20|
 |10|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|12860|6|2022-01-08|
@@ -21,7 +21,7 @@
 |14|[hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)|Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.|15425|5|2021-12-16|
 |15|[mszoek/airyx](https://github.com/mszoek/airyx)|A BSD-based OS project that aims to provide an experience like and some compatibility with macOS|1240|4|2022-01-10|
 |16|[objective-see/LuLu](https://github.com/objective-see/LuLu)|LuLu is the free macOS firewall|5996|4|2021-12-29|
-|17|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|13882|4|2021-08-13|
+|17|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|13883|4|2021-08-13|
 |18|[draveness/analyze](https://github.com/draveness/analyze)|Draven's Blog|7919|4|2021-11-14|
 |19|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|14840|4|2022-01-10|
 |20|[ibireme/YYText](https://github.com/ibireme/YYText)|Powerful text framework for iOS to display and edit rich text.|8692|4|2021-12-02|
@@ -52,17 +52,17 @@
 |45|[TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController)|A view controller for iOS that allows users to crop portions of UIImage objects|4225|2|2022-01-01|
 |46|[mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|A simple iOS photo and video browser with grid view, captions and selections.|8769|2|2021-10-19|
 |47|[julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)|Send User Notifications on macOS from the command-line.|5783|2|2021-11-26|
-|48|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5460|2|2021-12-16|
+|48|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5461|2|2021-12-16|
 |49|[hansemannn/titanium-amplitude](https://github.com/hansemannn/titanium-amplitude)|Titanium Amplitude - Use the native Amplitude iOS/Android SDK in Titanium|4|2|2022-01-09|
 |50|[LaiFengiOS/LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)|LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate|4260|2|2021-09-14|
 |51|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|2931|2|2022-01-09|
 |52|[keycastr/keycastr](https://github.com/keycastr/keycastr)|KeyCastr, an open-source keystroke visualizer|7529|2|2021-11-07|
-|53|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4758|2|2022-01-10|
+|53|[blinksh/blink](https://github.com/blinksh/blink)|Blink Mobile Shell for iOS (Mosh based)|4760|2|2022-01-10|
 |54|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|2714|2|2022-01-10|
 |55|[xmartlabs/XLForm](https://github.com/xmartlabs/XLForm)|XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. |5753|2|2021-12-09|
 |56|[youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4154|2|2021-07-26|
 |57|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|Prevents your Mac from going to sleep.|4372|2|2022-01-01|
-|58|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3356|2|2022-01-10|
+|58|[firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)|Firebase iOS SDK|3356|2|2022-01-11|
 |59|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|266|2|2021-09-25|
 |60|[jverdi/JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)|UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users|7136|2|2021-07-12|
 |61|[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)|UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.|5081|2|2021-07-17|
@@ -72,11 +72,11 @@
 |65|[MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill)|Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine|3082|2|2022-01-07|
 |66|[QMUI/LookinServer](https://github.com/QMUI/LookinServer)|Free macOS app for iOS view debugging.|1877|2|2021-09-11|
 |67|[jverkoey/nimbus](https://github.com/jverkoey/nimbus)|The iOS framework that grows only as fast as its documentation|6495|2|2021-12-01|
-|68|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|3648|2|2022-01-10|
+|68|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|3649|2|2022-01-10|
 |69|[Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText)|Methods to allow using HTML code with CoreText|6170|2|2021-11-04|
 |70|[material-components/material-components-ios](https://github.com/material-components/material-components-ios)|[In maintenance mode] Modular and customizable Material Design UI components for iOS|4489|2|2021-12-30|
 |71|[kif-framework/KIF](https://github.com/kif-framework/KIF)|Keep It Functional - An iOS Functional Testing Framework|6080|2|2021-12-14|
-|72|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5360|2|2022-01-07|
+|72|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5360|2|2022-01-10|
 |73|[apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker)|Email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail|995|2|2022-01-05|
 |74|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4372|2|2021-12-02|
 |75|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5188|2|2021-11-09|
@@ -91,11 +91,11 @@
 |84|[chiahsien/CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|The waterfall (i.e., Pinterest-like) layout for UICollectionView.|4293|1|2021-12-26|
 |85|[dustturtle/RealReachability](https://github.com/dustturtle/RealReachability)|We need to observe the REAL reachability of network. That's what RealReachability do.|3042|1|2021-10-14|
 |86|[novastone-media/MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework)|iOS, macOS, tvOS native ObjectiveC MQTT Client Framework|1723|1|2021-09-21|
-|87|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2521|1|2022-01-06|
+|87|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2521|1|2022-01-10|
 |88|[QMUI/QMUIDemo_iOS](https://github.com/QMUI/QMUIDemo_iOS)|Sample Code for QMUI iOS|979|1|2021-12-31|
 |89|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|99|1|2022-01-10|
 |90|[kostub/iosMath](https://github.com/kostub/iosMath)|Beautiful math equation rendering on iOS and MacOS|1219|1|2021-10-11|
-|91|[nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view|3683|1|2021-09-07|
+|91|[nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view|3684|1|2021-09-07|
 |92|[syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)|Frugal and native macOS Syncthing application bundle|1484|1|2022-01-08|
 |93|[yamill/react-native-orientation](https://github.com/yamill/react-native-orientation)|Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.|1653|1|2021-10-03|
 |94|[aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios)|AWS SDK for iOS. For more information, see our web site:|1527|1|2022-01-10|
@@ -111,10 +111,10 @@
 |104|[dogo/SCLAlertView](https://github.com/dogo/SCLAlertView)|Beautiful animated Alert View. Written in Objective-C|3431|1|2021-09-14|
 |105|[tomknig/TOMSMorphingLabel](https://github.com/tomknig/TOMSMorphingLabel)|Configurable morphing transitions between text values of a label.|1877|1|2021-08-16|
 |106|[dbukowski/DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)|Set of easy to use debugging tools for iOS developers & QA engineers.|1143|1|2021-11-24|
-|107|[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)|Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)|4130|1|2022-01-07|
+|107|[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)|Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)|4132|1|2022-01-07|
 |108|[maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)|Simple parallax header for UIScrollView|1633|1|2021-09-14|
 |109|[AlexanderZaytsev/react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n)|React Native + i18n.js|2133|1|2021-09-21|
-|110|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|4565|1|2021-12-17|
+|110|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|4566|1|2021-12-17|
 |111|[Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)|React Native Blur component|3189|1|2021-12-23|
 |112|[gskbyte/GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView)|A generic stretchy header for UITableView and UICollectionView|1639|1|2021-09-27|
 |113|[cocos2d/cocos2d-objc](https://github.com/cocos2d/cocos2d-objc)|Cocos2d for iOS and OS X, built using Objective-C|4094|1|2021-09-06|
@@ -162,7 +162,7 @@
 |155|[ruslanskorb/RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)|An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.|2369|1|2021-10-02|
 |156|[fabiocaccamo/FCUUID](https://github.com/fabiocaccamo/FCUUID)|iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor. :iphone:|1467|1|2021-12-06|
 |157|[sfsam/Itsycal](https://github.com/sfsam/Itsycal)|Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal|2310|1|2021-12-27|
-|158|[SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)|:skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.|3400|1|2021-10-27|
+|158|[SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)|:skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.|3401|1|2021-10-27|
 |159|[parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX)|The Objective-C iOS   macOS   watchOS   tvOS SDK for the Parse Platform|2788|1|2021-12-29|
 |160|[button/DeepLinkKit](https://github.com/button/DeepLinkKit)|A splendid route-matching, block-based way to handle your deep links.|3373|1|2021-09-27|
 |161|[maciekish/iReSign](https://github.com/maciekish/iReSign)|iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, whe ...|3242|1|2021-07-25|

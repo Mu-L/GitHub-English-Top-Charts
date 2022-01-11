@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|134121|54|2022-01-10|
+|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|134123|54|2022-01-11|
 |2|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|1019|29|2022-01-10|
 |3|[VGVentures/slide_puzzle](https://github.com/VGVentures/slide_puzzle)|-|143|18|2022-01-10|
 |4|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4122|16|2021-12-06|
@@ -24,13 +24,13 @@
 |17|[EverythingSuckz/webshot-api](https://github.com/EverythingSuckz/webshot-api)|A simple web API to generate image from a url, made using shelf package.|11|6|2022-01-09|
 |18|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|5760|6|2022-01-06|
 |19|[olmps/memo](https://github.com/olmps/memo)|Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter.|1641|5|2022-01-05|
-|20|[2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)|Flutter Launch Timeline Demo|5922|5|2021-09-22|
+|20|[2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)|Flutter Launch Timeline Demo|5923|5|2021-09-22|
 |21|[muhammadtalhasultan/humidity_slider](https://github.com/muhammadtalhasultan/humidity_slider)|-|16|5|2022-01-08|
-|22|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2425|5|2021-10-28|
+|22|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2426|5|2021-10-28|
 |23|[flutter/gallery](https://github.com/flutter/gallery)|Flutter Gallery is a resource to help developers evaluate and use Flutter|3316|5|2022-01-07|
 |24|[Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)|A Music Player App made with Flutter|1712|5|2022-01-08|
 |25|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|2901|4|2022-01-09|
-|26|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2343|4|2022-01-08|
+|26|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2344|4|2022-01-10|
 |27|[imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart)|A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.|4041|4|2022-01-09|
 |28|[abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)|We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.|1500|4|2021-08-04|
 |29|[flame-engine/flame](https://github.com/flame-engine/flame)|A minimalist Flutter game engine|5735|4|2022-01-10|
@@ -41,7 +41,7 @@
 |34|[FlutterOpen/flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice)|More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.|3108|3|2021-09-08|
 |35|[quickemu-project/quickgui](https://github.com/quickemu-project/quickgui)|-|217|3|2021-12-19|
 |36|[WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app)|COVID-19 App|2085|3|2022-01-10|
-|37|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4026|3|2022-01-10|
+|37|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4027|3|2022-01-10|
 |38|[lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)|100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web|3515|3|2021-10-04|
 |39|[VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)|A Very Good Command Line Interface for Dart created by Very Good Ventures 🦄|1175|3|2022-01-05|
 |40|[xuelongqy/flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A flutter widget that provides pull-down refresh and pull-up load.|3004|3|2022-01-09|
@@ -49,7 +49,7 @@
 |42|[Emir-Orkcu/Exchange_App](https://github.com/Emir-Orkcu/Exchange_App)|-|16|3|2022-01-06|
 |43|[maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner)|Braindump better.|375|3|2022-01-08|
 |44|[TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app)|E-Commerce App built in flutter|2068|3|2021-11-22|
-|45|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7601|3|2022-01-10|
+|45|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7602|3|2022-01-11|
 |46|[sangvaleap/flutter-app-food-ordering](https://github.com/sangvaleap/flutter-app-food-ordering)|-|40|3|2022-01-01|
 |47|[flutterchina/flukit](https://github.com/flutterchina/flukit)| A Flutter UI Kit（一个 Flutter UI组件库），2.0 beta is available now !|3879|3|2021-10-07|
 |48|[MarcusNg/flutter_facebook_responsive_ui](https://github.com/MarcusNg/flutter_facebook_responsive_ui)|https://youtu.be/HvLb5gdUfDE|915|2|2021-08-19|
