@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|7036|2021-12-24|2021-02-14|
-|2|[coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)|An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages|3732|2022-01-12|2021-01-30|
-|3|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|2679|2021-12-04|2021-01-23|
-|4|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1649|2022-01-12|2021-06-16|
-|5|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1405|2021-12-29|2021-04-22|
-|6|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1369|2022-01-04|2021-05-25|
-|7|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1367|2022-01-11|2021-08-28|
-|8|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|811|2021-10-03|2021-09-21|
-|9|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |806|2021-08-05|2021-06-03|
+|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|7037|2021-12-24|2021-02-14|
+|2|[coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)|An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages|3770|2022-01-13|2021-01-30|
+|3|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|2682|2021-12-04|2021-01-23|
+|4|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1649|2022-01-13|2021-06-16|
+|5|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1409|2021-12-29|2021-04-22|
+|6|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1375|2022-01-04|2021-05-25|
+|7|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1373|2022-01-13|2021-08-28|
+|8|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|812|2021-10-03|2021-09-21|
+|9|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |807|2022-01-12|2021-06-03|
 |10|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|787|2022-01-10|2021-04-13|
-|11|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|555|2022-01-06|2021-05-31|
-|12|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|484|2021-10-28|2021-02-17|
-|13|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|481|2021-08-16|2021-07-31|
-|14|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|454|2021-12-09|2021-03-11|
-|15|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|443|2022-01-12|2021-01-25|
-|16|[bvaughn/planner](https://github.com/bvaughn/planner)|Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas|430|2022-01-11|2021-12-21|
+|11|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|554|2022-01-06|2021-05-31|
+|12|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|484|2021-08-16|2021-07-31|
+|13|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|484|2021-10-28|2021-02-17|
+|14|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|455|2021-12-09|2021-03-11|
+|15|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|445|2022-01-13|2021-01-25|
+|16|[bvaughn/planner](https://github.com/bvaughn/planner)|Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas|441|2022-01-13|2021-12-21|
 |17|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|422|2021-09-15|2021-03-28|
-|18|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|377|2021-12-23|2021-02-26|
-|19|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|329|2022-01-12|2021-03-13|
-|20|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|315|2022-01-10|2021-09-19|
+|18|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|379|2022-01-13|2021-02-26|
+|19|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|331|2022-01-13|2021-03-13|
+|20|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|316|2022-01-10|2021-09-19|
 |21|[comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)|List of Fabric server side mods|313|2022-01-08|2021-03-13|
-|22|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|293|2021-12-26|2021-09-13|
-|23|[vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)|This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀|291|2022-01-01|2021-02-23|
+|22|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|294|2021-12-26|2021-09-13|
+|23|[vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)|This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀|293|2022-01-01|2021-02-23|
 |24|[AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers)|This repository contains a list of popular CNAME trackers|282|2022-01-10|2021-02-28|
-|25|[asg017/dataflow](https://github.com/asg017/dataflow)|An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!|278|2021-10-22|2021-03-02|
-|26|[ashok-khanna/pdf](https://github.com/ashok-khanna/pdf)|Tutorial on paged.js|271|2021-08-12|2021-03-27|
-|27|[MuriungiPatrick/Bootstrap-5-portfolio-template](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template)|Learning Bootstrap 5 with SASS|218|2021-09-29|2021-05-03|
-|28|[ethereum-optimism/optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial)|[Optimism] Learn to build an Optimistic app!|214|2021-12-03|2021-01-13|
+|25|[jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension)|Chrome extension for auto-grouping tabs by URL patterns|280|2021-08-12|2021-05-03|
+|26|[asg017/dataflow](https://github.com/asg017/dataflow)|An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!|279|2021-10-22|2021-03-02|
+|27|[ashok-khanna/pdf](https://github.com/ashok-khanna/pdf)|Tutorial on paged.js|271|2021-08-12|2021-03-27|
+|28|[MuriungiPatrick/Bootstrap-5-portfolio-template](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template)|Learning Bootstrap 5 with SASS|218|2021-09-29|2021-05-03|
 |29|[himanchau/react-native-book-app](https://github.com/himanchau/react-native-book-app)|React Native Book List App|192|2021-09-15|2021-02-20|
 |30|[looeee/discoverthreejs-site](https://github.com/looeee/discoverthreejs-site)|Repo for the book Discover three.js!|182|2021-12-11|2021-04-14|
 |31|[Halmesn/Hotflix](https://github.com/Halmesn/Hotflix)|🍿 This project landed me an interview with Netflix!|178|2021-08-10|2021-04-30|

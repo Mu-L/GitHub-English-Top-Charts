@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -34,18 +34,18 @@
 |27|[lhl-cdut/PolarGUI](https://github.com/lhl-cdut/PolarGUI)|PolarGUI-A MATLAB-based tool for polarization analysis of the three-component seismic data using different algorithms|6|2021-11-18|2021-06-02|
 |28|[KentaItakura/Crack-detection-using-one-class-SVM](https://github.com/KentaItakura/Crack-detection-using-one-class-SVM)|This demo shows how to detect the crack images using one-class SVM using MATLAB.|5|2021-10-09|2021-08-16|
 |29|[huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB)|🎓 A collection of Course Files, Programming Assignments and Final Project for "Mastering Programming with MATLAB", Coursera, August-September, 2021.|5|2022-01-06|2021-08-10|
-|30|[guanyuezhen/CGL](https://github.com/guanyuezhen/CGL)|Consensus Graph Learning for Multi-view Clustering|5|2021-08-12|2021-05-12|
-|31|[Marofe/GNSSlibMatlab](https://github.com/Marofe/GNSSlibMatlab)|Library of algorithms for GNSS post-processing using Matlab.|5|2021-09-17|2021-03-29|
-|32|[LinaTeichmann1/BFF_repo](https://github.com/LinaTeichmann1/BFF_repo)|Repo for "An empirically-driven guide on using Bayes Factors for M/EEG decoding" |5|2021-10-18|2021-03-22|
-|33|[szkafander/lattice_fringe](https://github.com/szkafander/lattice_fringe)|hrtem lattice fringe image analysis algorithms - developed for carbon nanostructure analysis|5|2021-07-18|2021-03-10|
-|34|[fergaletto/SSIF](https://github.com/fergaletto/SSIF)|A guided edge-aware smoothing-sharpening filter based on patch interpolation model and generalized Gamma distribution. |5|2021-07-30|2021-02-15|
-|35|[ivanalberico/Robot-Dynamics-ETH](https://github.com/ivanalberico/Robot-Dynamics-ETH)|Weekly MATLAB exercises of the course "Robot Dynamics", ETH Zürich (Fall 2020).|4|2021-11-04|2021-11-04|
-|36|[FatemehGholamzadeh/train-RBF-NN](https://github.com/FatemehGholamzadeh/train-RBF-NN)|training a RBF network Using ES algorithm - Computational Intelligence Course (Spring 2019)|4|2021-09-27|2021-09-27|
-|37|[xiayifan1024/SyntheticApertureRadarImaging](https://github.com/xiayifan1024/SyntheticApertureRadarImaging)|3 algorithms with matlab codes —— RangeDoppler,ChirpScaling,Omega-k|4|2021-10-08|2021-09-06|
-|38|[chenzhe207/A-DLC](https://github.com/chenzhe207/A-DLC)|Learning Alternating Deep-Layer Cascaded Representation (2021 IEEE SPL Accepted)|4|2021-08-08|2021-08-08|
-|39|[KentaItakura/Image-classification-using-oversampling-imagedatastore](https://github.com/KentaItakura/Image-classification-using-oversampling-imagedatastore)|This example shows how to classify images for imbalanced training dataset using oversampling|4|2021-07-28|2021-07-28|
-|40|[Adolphus8/Transitional_Ensemble_MCMC](https://github.com/Adolphus8/Transitional_Ensemble_MCMC)|Repository to tutorials on the implementation of the Transitional Ensemble Markov Chain Monte Carlo (TEMCMC) sampler for Bayesian Model Updating.|4|2022-01-08|2021-07-14|
-|41|[girnyk/OptimalPrecodingMimo](https://github.com/girnyk/OptimalPrecodingMimo)|Matlab codes for the paper "Deep-Learning Based Linear Precoding for MIMO Channels with Finite-Alphabet Signaling" by Max Girnyk, Physical Communication, vol. 48, 101402, Oct. 2021.|4|2021-11-14|2021-06-17|
+|30|[girnyk/OptimalPrecodingMimo](https://github.com/girnyk/OptimalPrecodingMimo)|Matlab codes for the paper "Deep-Learning Based Linear Precoding for MIMO Channels with Finite-Alphabet Signaling" by Max Girnyk, Physical Communication, vol. 48, 101402, Oct. 2021.|5|2021-11-14|2021-06-17|
+|31|[guanyuezhen/CGL](https://github.com/guanyuezhen/CGL)|Consensus Graph Learning for Multi-view Clustering|5|2021-08-12|2021-05-12|
+|32|[Marofe/GNSSlibMatlab](https://github.com/Marofe/GNSSlibMatlab)|Library of algorithms for GNSS post-processing using Matlab.|5|2021-09-17|2021-03-29|
+|33|[LinaTeichmann1/BFF_repo](https://github.com/LinaTeichmann1/BFF_repo)|Repo for "An empirically-driven guide on using Bayes Factors for M/EEG decoding" |5|2022-01-12|2021-03-22|
+|34|[szkafander/lattice_fringe](https://github.com/szkafander/lattice_fringe)|hrtem lattice fringe image analysis algorithms - developed for carbon nanostructure analysis|5|2021-07-18|2021-03-10|
+|35|[fergaletto/SSIF](https://github.com/fergaletto/SSIF)|A guided edge-aware smoothing-sharpening filter based on patch interpolation model and generalized Gamma distribution. |5|2021-07-30|2021-02-15|
+|36|[ivanalberico/Robot-Dynamics-ETH](https://github.com/ivanalberico/Robot-Dynamics-ETH)|Weekly MATLAB exercises of the course "Robot Dynamics", ETH Zürich (Fall 2020).|4|2021-11-04|2021-11-04|
+|37|[FatemehGholamzadeh/train-RBF-NN](https://github.com/FatemehGholamzadeh/train-RBF-NN)|training a RBF network Using ES algorithm - Computational Intelligence Course (Spring 2019)|4|2021-09-27|2021-09-27|
+|38|[xiayifan1024/SyntheticApertureRadarImaging](https://github.com/xiayifan1024/SyntheticApertureRadarImaging)|3 algorithms with matlab codes —— RangeDoppler,ChirpScaling,Omega-k|4|2021-10-08|2021-09-06|
+|39|[chenzhe207/A-DLC](https://github.com/chenzhe207/A-DLC)|Learning Alternating Deep-Layer Cascaded Representation (2021 IEEE SPL Accepted)|4|2021-08-08|2021-08-08|
+|40|[KentaItakura/Image-classification-using-oversampling-imagedatastore](https://github.com/KentaItakura/Image-classification-using-oversampling-imagedatastore)|This example shows how to classify images for imbalanced training dataset using oversampling|4|2021-07-28|2021-07-28|
+|41|[Adolphus8/Transitional_Ensemble_MCMC](https://github.com/Adolphus8/Transitional_Ensemble_MCMC)|Repository to tutorials on the implementation of the Transitional Ensemble Markov Chain Monte Carlo (TEMCMC) sampler for Bayesian Model Updating.|4|2022-01-08|2021-07-14|
 |42|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2021-12-24|2021-05-30|
 |43|[shakiliitju/Numerical-Analysis-Lab](https://github.com/shakiliitju/Numerical-Analysis-Lab)|This Repository is all about the popular Numerical Analysis Lab concepts and their variations Which can be helpful to Competitive Programming as well as Coding Interviews. I have try Numerical Analysi ...|4|2021-09-14|2021-05-25|
 |44|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|2021-05-10|

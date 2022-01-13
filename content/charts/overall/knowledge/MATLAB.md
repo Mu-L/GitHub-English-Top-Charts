@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,11 +9,11 @@
 |2|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|502|2021-10-09|
 |3|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|481|2021-10-04|
 |4|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|358|2021-10-09|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|351|2022-01-10|
-|6|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|259|2021-10-21|
-|7|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |258|2021-08-14|
-|8|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|258|2021-12-16|
-|9|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|222|2022-01-03|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|352|2022-01-10|
+|6|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|260|2021-12-16|
+|7|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |259|2021-08-14|
+|8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|259|2021-10-21|
+|9|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|223|2022-01-03|
 |10|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|192|2022-01-12|
 |11|[emilbjornson/massivemimobook](https://github.com/emilbjornson/massivemimobook)|Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Tren ...|190|2021-07-29|
 |12|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|151|2021-12-22|
@@ -23,8 +23,8 @@
 |16|[yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)|Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communica ...|103|2021-12-22|
 |17|[chaoma99/sr-metric](https://github.com/chaoma99/sr-metric)|Learning a No-Reference Quality Metric for Single-Image Super-Rolution|93|2021-11-14|
 |18|[polarch/Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform)|A collection of MATLAB routines for the Spherical Harmonic Transform and related manipulations in the spherical harmonic spectrum.|92|2022-01-10|
-|19|[kunhe/FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)|Code for CVPR 2019 paper "Deep Metric Learning to Rank"|88|2021-09-21|
-|20|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|87|2021-12-14|
+|19|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|88|2021-12-14|
+|20|[kunhe/FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)|Code for CVPR 2019 paper "Deep Metric Learning to Rank"|88|2021-09-21|
 |21|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|82|2021-09-23|
 |22|[qingsenyangit/AHDRNet](https://github.com/qingsenyangit/AHDRNet)|Attention-guided Network for Ghost-free High Dynamic Range Imaging|80|2021-12-18|
 |23|[xuhuairuogu/V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)|Learning Robotics by Playing with V-REP|79|2021-12-03|
@@ -33,7 +33,7 @@
 |26|[alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code)|Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)|72|2022-01-11|
 |27|[daxjuanxiong/infrared-small-target-detection](https://github.com/daxjuanxiong/infrared-small-target-detection)|images, codes and papers about infrared small taret detecion algorithm|58|2021-11-21|
 |28|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|2022-01-12|
-|29|[anishLearnsToCode/introduction-to-programming-with-matlab](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)|Coursera Course: Introduction to Programming 👩‍💻 with MATLAB ~by Vanderbilt University 🎓 |51|2021-07-19|
+|29|[anishLearnsToCode/introduction-to-programming-with-matlab](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)|Coursera Course: Introduction to Programming 👩‍💻 with MATLAB ~by Vanderbilt University 🎓 |52|2021-07-19|
 |30|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |49|2022-01-07|
 |31|[kunhe/TALR](https://github.com/kunhe/TALR)|Code for CVPR 2018 paper "Hashing as Tie-Aware Learning to Rank"|44|2021-09-21|
 |32|[brianborchers/PEIP](https://github.com/brianborchers/PEIP)|MATLAB code for examples and exercises for the 3rd edition of Parameter Estimation and Inverse Problems|44|2021-12-12|
@@ -47,7 +47,7 @@
 |40|[drwuHUST/TLBCI](https://github.com/drwuHUST/TLBCI)|Matlab source code of the paper "D. Wu, X. Jiang, R. Peng, W. Kong, J. Huang and Z. Zeng, Transfer Learning for Motor Imagery Based Brain-Computer Interfaces: A Complete Pipeline, Information Sciences ...|32|2022-01-04|
 |41|[modenaxe/msk-STAPLE](https://github.com/modenaxe/msk-STAPLE)|STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented  ...|32|2021-12-14|
 |42|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|32|2021-10-18|
-|43|[DaveHealy-github/FracPaQ](https://github.com/DaveHealy-github/FracPaQ)|Quantification of Fracture Patterns|29|2021-11-01|
+|43|[DaveHealy-github/FracPaQ](https://github.com/DaveHealy-github/FracPaQ)|Quantification of Fracture Patterns|30|2021-11-01|
 |44|[acuoci/Matlab4CRE](https://github.com/acuoci/Matlab4CRE)|Collection of Matlab codes to solve typical CRE (Chemical Reaction Engineering) problems|29|2021-12-17|
 |45|[rssmith33/Active-Inference-Tutorial-Scripts](https://github.com/rssmith33/Active-Inference-Tutorial-Scripts)|Supplementary scripts for Step-by-step active inference modelling tutorial|28|2021-12-11|
 |46|[lengyuner/njumath](https://github.com/lengyuner/njumath)|Course slides & Examination review|28|2022-01-10|
@@ -75,7 +75,7 @@
 |68|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|19|2021-11-04|
 |69|[ywang-structures/Structural-Model-Updating](https://github.com/ywang-structures/Structural-Model-Updating)|This GitHub package provides example MATLAB code for finite element model updating. The code offers selection of different updating formulations and optimization algorithms. |19|2021-11-23|
 |70|[summitgao/SAR_Change_Detection_NR_ELM](https://github.com/summitgao/SAR_Change_Detection_NR_ELM)|The matlab code for the JARS16 paper "Change Detection from Synthetic Aperture Radar Images Based on Neighborhood-Based Ratio and Extreme Learning Machine"|19|2021-11-24|
-|71|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2021-07-26|
+|71|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|19|2022-01-13|
 |72|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|19|2021-12-01|
 |73|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|19|2021-12-21|
 |74|[kipa200/Phase_field_code](https://github.com/kipa200/Phase_field_code)|simulate by solving the phase-field equations using a centered finite difference method（or FEM), and the video of matlab lesson|18|2021-08-18|
@@ -113,14 +113,14 @@
 |106|[xyc19970716/Deep-Learning-PanSharpening](https://github.com/xyc19970716/Deep-Learning-PanSharpening)|This is a deep-learning based pan-sharpening code package, we reimplemented include PNN, MSDCNN, PanNet, TFNet, SRPPNN, and our purposed network DIPNet.|9|2021-07-21|
 |107|[SamarShabanCS/DSP](https://github.com/SamarShabanCS/DSP)|This a practical lab tutorial repository for digital signal processing |9|2022-01-01|
 |108|[wwangwitsel/PARM](https://github.com/wwangwitsel/PARM)|[NeurIPS' 20] Semi-Supervised Partial Label Learning via Confidence-Rated Margin Maximization|9|2021-11-21|
-|109|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|9|2022-01-10|
-|110|[SGI-2021/directional-fields-tutorial](https://github.com/SGI-2021/directional-fields-tutorial)|The official repository for the directional-fields tutorial on Friday 23/Jul/2021|8|2021-07-26|
-|111|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|2021-09-28|
-|112|[jasondsc/MATDRAB2MATFAB](https://github.com/jasondsc/MATDRAB2MATFAB)|MATLAB and data science course, taking you from MATDRAB to MATFAB in 8 weeks! General course covering the basics of MATLAB, Signal processing, Statistics, and Machine Learning|8|2022-01-04|
-|113|[vegarant/cilib](https://github.com/vegarant/cilib)|Code for the book "Compressive imaging: Structure, Sampling, Learning".|8|2021-08-26|
-|114|[unstable-zeros/dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|Code needed to reproduce the examples found in the various works published on Distributed and Localized Model Predictive Control via System Level Synthesis, by C. Amo Alonso, S. J. Li, F. Yang, J. And ...|8|2022-01-06|
-|115|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|8|2022-01-05|
-|116|[tallamjr/barberbook](https://github.com/tallamjr/barberbook)|Solutions for David Barber's "Bayesian Reasoning and Machine Learning" Book|8|2021-10-06|
+|109|[tallamjr/barberbook](https://github.com/tallamjr/barberbook)|Solutions for David Barber's "Bayesian Reasoning and Machine Learning" Book|9|2021-10-06|
+|110|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|9|2022-01-10|
+|111|[SGI-2021/directional-fields-tutorial](https://github.com/SGI-2021/directional-fields-tutorial)|The official repository for the directional-fields tutorial on Friday 23/Jul/2021|8|2021-07-26|
+|112|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|2021-09-28|
+|113|[jasondsc/MATDRAB2MATFAB](https://github.com/jasondsc/MATDRAB2MATFAB)|MATLAB and data science course, taking you from MATDRAB to MATFAB in 8 weeks! General course covering the basics of MATLAB, Signal processing, Statistics, and Machine Learning|8|2022-01-04|
+|114|[vegarant/cilib](https://github.com/vegarant/cilib)|Code for the book "Compressive imaging: Structure, Sampling, Learning".|8|2021-08-26|
+|115|[unstable-zeros/dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|Code needed to reproduce the examples found in the various works published on Distributed and Localized Model Predictive Control via System Level Synthesis, by C. Amo Alonso, S. J. Li, F. Yang, J. And ...|8|2022-01-06|
+|116|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|8|2022-01-05|
 |117|[rusucosmin/til](https://github.com/rusucosmin/til)|Today I learned|8|2021-11-17|
 |118|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|
 |119|[bsxfun/fdtd_tutorial_asa](https://github.com/bsxfun/fdtd_tutorial_asa)|Code for FDTD Tutorial, 180th ASA Meeting (Acoustics in Focus)|7|2021-07-22|
@@ -143,36 +143,36 @@
 |136|[rejectedbanana/Sea-Bird-Toolbox](https://github.com/rejectedbanana/Sea-Bird-Toolbox)|A collection of tools to manipulate data from Sea-Bird instruments|6|2021-09-01|
 |137|[KentaItakura/Crack-detection-using-one-class-SVM](https://github.com/KentaItakura/Crack-detection-using-one-class-SVM)|This demo shows how to detect the crack images using one-class SVM using MATLAB.|5|2021-10-09|
 |138|[huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB)|🎓 A collection of Course Files, Programming Assignments and Final Project for "Mastering Programming with MATLAB", Coursera, August-September, 2021.|5|2022-01-06|
-|139|[guanyuezhen/CGL](https://github.com/guanyuezhen/CGL)|Consensus Graph Learning for Multi-view Clustering|5|2021-08-12|
-|140|[Marofe/GNSSlibMatlab](https://github.com/Marofe/GNSSlibMatlab)|Library of algorithms for GNSS post-processing using Matlab.|5|2021-09-17|
-|141|[LinaTeichmann1/BFF_repo](https://github.com/LinaTeichmann1/BFF_repo)|Repo for "An empirically-driven guide on using Bayes Factors for M/EEG decoding" |5|2021-10-18|
-|142|[szkafander/lattice_fringe](https://github.com/szkafander/lattice_fringe)|hrtem lattice fringe image analysis algorithms - developed for carbon nanostructure analysis|5|2021-07-18|
-|143|[fergaletto/SSIF](https://github.com/fergaletto/SSIF)|A guided edge-aware smoothing-sharpening filter based on patch interpolation model and generalized Gamma distribution. |5|2021-07-30|
-|144|[BZandi/DL-PupilModel](https://github.com/BZandi/DL-PupilModel)|Official implementation of a temporal pupil light response model proposed in the Scientific Reports article: "Deep learning-based pupil model predicts time and wavelength-dependent light responses"|5|2021-12-03|
-|145|[HuyanHuang/Robust-Low-rank-Tensor-Ring-Completion](https://github.com/HuyanHuang/Robust-Low-rank-Tensor-Ring-Completion)|This project aims to realize the robust tensor completion algorithms via tensor ring decomposition.|5|2021-08-05|
-|146|[anton-dudarev/power-query](https://github.com/anton-dudarev/power-query)|Collection of useful Power Query M templates, functions and snippets|5|2021-10-26|
-|147|[ifgovh/Anomalous-diffusion-dynamics-of-SGD](https://github.com/ifgovh/Anomalous-diffusion-dynamics-of-SGD)|code for paper "Anomalous diffusion dynamics of learning in deep neural networks"|5|2021-11-30|
-|148|[hehesjtu/IP-IPRH-Single-image-detail-enhancement-by-Learning-In-Place-Residual-Homogeneity](https://github.com/hehesjtu/IP-IPRH-Single-image-detail-enhancement-by-Learning-In-Place-Residual-Homogeneity)|This is the matlab source code of paper "Learning In-Place Residual Homogeneity for Single Image Detail Enhancement"|5|2021-08-13|
-|149|[andrewjahn/SPM_Scripts](https://github.com/andrewjahn/SPM_Scripts)|Scripts used for the SPM tutorials of Andy's Brain Book|5|2021-08-11|
-|150|[Siahkamari/Learning-to-Approximate-a-Bregman-Divergence](https://github.com/Siahkamari/Learning-to-Approximate-a-Bregman-Divergence)|Code for Learning Bregman Divergences|5|2021-10-23|
-|151|[mshojafar/sourcecodes](https://github.com/mshojafar/sourcecodes)|Programming source codes of M. Shojafar (papers, reports, patents)|5|2021-12-11|
-|152|[ivanalberico/Robot-Dynamics-ETH](https://github.com/ivanalberico/Robot-Dynamics-ETH)|Weekly MATLAB exercises of the course "Robot Dynamics", ETH Zürich (Fall 2020).|4|2021-11-04|
-|153|[FatemehGholamzadeh/train-RBF-NN](https://github.com/FatemehGholamzadeh/train-RBF-NN)|training a RBF network Using ES algorithm - Computational Intelligence Course (Spring 2019)|4|2021-09-27|
-|154|[xiayifan1024/SyntheticApertureRadarImaging](https://github.com/xiayifan1024/SyntheticApertureRadarImaging)|3 algorithms with matlab codes —— RangeDoppler,ChirpScaling,Omega-k|4|2021-10-08|
-|155|[chenzhe207/A-DLC](https://github.com/chenzhe207/A-DLC)|Learning Alternating Deep-Layer Cascaded Representation (2021 IEEE SPL Accepted)|4|2021-08-08|
-|156|[KentaItakura/Image-classification-using-oversampling-imagedatastore](https://github.com/KentaItakura/Image-classification-using-oversampling-imagedatastore)|This example shows how to classify images for imbalanced training dataset using oversampling|4|2021-07-28|
-|157|[Adolphus8/Transitional_Ensemble_MCMC](https://github.com/Adolphus8/Transitional_Ensemble_MCMC)|Repository to tutorials on the implementation of the Transitional Ensemble Markov Chain Monte Carlo (TEMCMC) sampler for Bayesian Model Updating.|4|2022-01-08|
-|158|[girnyk/OptimalPrecodingMimo](https://github.com/girnyk/OptimalPrecodingMimo)|Matlab codes for the paper "Deep-Learning Based Linear Precoding for MIMO Channels with Finite-Alphabet Signaling" by Max Girnyk, Physical Communication, vol. 48, 101402, Oct. 2021.|4|2021-11-14|
-|159|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2021-12-24|
-|160|[shakiliitju/Numerical-Analysis-Lab](https://github.com/shakiliitju/Numerical-Analysis-Lab)|This Repository is all about the popular Numerical Analysis Lab concepts and their variations Which can be helpful to Competitive Programming as well as Coding Interviews. I have try Numerical Analysi ...|4|2021-09-14|
-|161|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|
-|162|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|4|2021-11-11|
-|163|[mathworks-robotics/templates-robocup-robot-manipulation-challenge](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)|This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to cont ...|4|2021-12-08|
-|164|[sevagh/Music-Separation-TF](https://github.com/sevagh/Music-Separation-TF)|Music source separation testbench with various offline and realtime DSP and machine learning algorithms using the STFT, CQT, NSGT, sliCQT, WMDCT, and TFJigsaw|4|2021-09-09|
-|165|[sampolk/MultiscaleDiffusionClustering](https://github.com/sampolk/MultiscaleDiffusionClustering)|This toolbox allows the implementation of diffusion-based multiscale clustering algorithms. See "README.md" for more information. Copyright: Sam Polk, 2021. https://sites.tufts.edu/sampolk/home-page/|4|2021-08-17|
-|166|[prophesee-ai/prophesee-matlab-scripts](https://github.com/prophesee-ai/prophesee-matlab-scripts)|Basic scripts showing how to work with data from Prophesee sensors in MATLAB|4|2021-09-30|
-|167|[happy2h/HOMFAILC](https://github.com/happy2h/HOMFAILC)|High Order Model Free Adaptive Iterative Learning Control matlab code|4|2021-11-17|
-|168|[jbusemey/ChoiceModeling](https://github.com/jbusemey/ChoiceModeling)|Programs in Cognitive Choice Modeling Book|4|2021-09-05|
+|139|[girnyk/OptimalPrecodingMimo](https://github.com/girnyk/OptimalPrecodingMimo)|Matlab codes for the paper "Deep-Learning Based Linear Precoding for MIMO Channels with Finite-Alphabet Signaling" by Max Girnyk, Physical Communication, vol. 48, 101402, Oct. 2021.|5|2021-11-14|
+|140|[guanyuezhen/CGL](https://github.com/guanyuezhen/CGL)|Consensus Graph Learning for Multi-view Clustering|5|2021-08-12|
+|141|[Marofe/GNSSlibMatlab](https://github.com/Marofe/GNSSlibMatlab)|Library of algorithms for GNSS post-processing using Matlab.|5|2021-09-17|
+|142|[LinaTeichmann1/BFF_repo](https://github.com/LinaTeichmann1/BFF_repo)|Repo for "An empirically-driven guide on using Bayes Factors for M/EEG decoding" |5|2022-01-12|
+|143|[szkafander/lattice_fringe](https://github.com/szkafander/lattice_fringe)|hrtem lattice fringe image analysis algorithms - developed for carbon nanostructure analysis|5|2021-07-18|
+|144|[fergaletto/SSIF](https://github.com/fergaletto/SSIF)|A guided edge-aware smoothing-sharpening filter based on patch interpolation model and generalized Gamma distribution. |5|2021-07-30|
+|145|[BZandi/DL-PupilModel](https://github.com/BZandi/DL-PupilModel)|Official implementation of a temporal pupil light response model proposed in the Scientific Reports article: "Deep learning-based pupil model predicts time and wavelength-dependent light responses"|5|2021-12-03|
+|146|[jbusemey/ChoiceModeling](https://github.com/jbusemey/ChoiceModeling)|Programs in Cognitive Choice Modeling Book|5|2021-09-05|
+|147|[HuyanHuang/Robust-Low-rank-Tensor-Ring-Completion](https://github.com/HuyanHuang/Robust-Low-rank-Tensor-Ring-Completion)|This project aims to realize the robust tensor completion algorithms via tensor ring decomposition.|5|2021-08-05|
+|148|[anton-dudarev/power-query](https://github.com/anton-dudarev/power-query)|Collection of useful Power Query M templates, functions and snippets|5|2021-10-26|
+|149|[ifgovh/Anomalous-diffusion-dynamics-of-SGD](https://github.com/ifgovh/Anomalous-diffusion-dynamics-of-SGD)|code for paper "Anomalous diffusion dynamics of learning in deep neural networks"|5|2021-11-30|
+|150|[hehesjtu/IP-IPRH-Single-image-detail-enhancement-by-Learning-In-Place-Residual-Homogeneity](https://github.com/hehesjtu/IP-IPRH-Single-image-detail-enhancement-by-Learning-In-Place-Residual-Homogeneity)|This is the matlab source code of paper "Learning In-Place Residual Homogeneity for Single Image Detail Enhancement"|5|2021-08-13|
+|151|[andrewjahn/SPM_Scripts](https://github.com/andrewjahn/SPM_Scripts)|Scripts used for the SPM tutorials of Andy's Brain Book|5|2021-08-11|
+|152|[Siahkamari/Learning-to-Approximate-a-Bregman-Divergence](https://github.com/Siahkamari/Learning-to-Approximate-a-Bregman-Divergence)|Code for Learning Bregman Divergences|5|2021-10-23|
+|153|[mshojafar/sourcecodes](https://github.com/mshojafar/sourcecodes)|Programming source codes of M. Shojafar (papers, reports, patents)|5|2021-12-11|
+|154|[ivanalberico/Robot-Dynamics-ETH](https://github.com/ivanalberico/Robot-Dynamics-ETH)|Weekly MATLAB exercises of the course "Robot Dynamics", ETH Zürich (Fall 2020).|4|2021-11-04|
+|155|[FatemehGholamzadeh/train-RBF-NN](https://github.com/FatemehGholamzadeh/train-RBF-NN)|training a RBF network Using ES algorithm - Computational Intelligence Course (Spring 2019)|4|2021-09-27|
+|156|[xiayifan1024/SyntheticApertureRadarImaging](https://github.com/xiayifan1024/SyntheticApertureRadarImaging)|3 algorithms with matlab codes —— RangeDoppler,ChirpScaling,Omega-k|4|2021-10-08|
+|157|[chenzhe207/A-DLC](https://github.com/chenzhe207/A-DLC)|Learning Alternating Deep-Layer Cascaded Representation (2021 IEEE SPL Accepted)|4|2021-08-08|
+|158|[KentaItakura/Image-classification-using-oversampling-imagedatastore](https://github.com/KentaItakura/Image-classification-using-oversampling-imagedatastore)|This example shows how to classify images for imbalanced training dataset using oversampling|4|2021-07-28|
+|159|[Adolphus8/Transitional_Ensemble_MCMC](https://github.com/Adolphus8/Transitional_Ensemble_MCMC)|Repository to tutorials on the implementation of the Transitional Ensemble Markov Chain Monte Carlo (TEMCMC) sampler for Bayesian Model Updating.|4|2022-01-08|
+|160|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2021-12-24|
+|161|[shakiliitju/Numerical-Analysis-Lab](https://github.com/shakiliitju/Numerical-Analysis-Lab)|This Repository is all about the popular Numerical Analysis Lab concepts and their variations Which can be helpful to Competitive Programming as well as Coding Interviews. I have try Numerical Analysi ...|4|2021-09-14|
+|162|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|
+|163|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|4|2021-11-11|
+|164|[mathworks-robotics/templates-robocup-robot-manipulation-challenge](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)|This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to cont ...|4|2021-12-08|
+|165|[sevagh/Music-Separation-TF](https://github.com/sevagh/Music-Separation-TF)|Music source separation testbench with various offline and realtime DSP and machine learning algorithms using the STFT, CQT, NSGT, sliCQT, WMDCT, and TFJigsaw|4|2021-09-09|
+|166|[sampolk/MultiscaleDiffusionClustering](https://github.com/sampolk/MultiscaleDiffusionClustering)|This toolbox allows the implementation of diffusion-based multiscale clustering algorithms. See "README.md" for more information. Copyright: Sam Polk, 2021. https://sites.tufts.edu/sampolk/home-page/|4|2021-08-17|
+|167|[prophesee-ai/prophesee-matlab-scripts](https://github.com/prophesee-ai/prophesee-matlab-scripts)|Basic scripts showing how to work with data from Prophesee sensors in MATLAB|4|2021-09-30|
+|168|[happy2h/HOMFAILC](https://github.com/happy2h/HOMFAILC)|High Order Model Free Adaptive Iterative Learning Control matlab code|4|2021-11-17|
 |169|[danfenghong/ECCV2018_J-Play](https://github.com/danfenghong/ECCV2018_J-Play)|Danfeng Hong, Naoto Yokoya, Jian Xu, Xiaoxiang Zhu. Joint & Progressive Learning from High-Dimensional Data for Multi-Label Classification, ECCV, 2018.|4|2021-11-14|
 |170|[bala-221/Airplane-fault-prediction](https://github.com/bala-221/Airplane-fault-prediction)|This repository is a collection of codes generated for optimizing the echo state network for RUL prediction of airplane engines|4|2021-10-11|
 |171|[KIT-IBT/ECGdeli](https://github.com/KIT-IBT/ECGdeli)|This is ECGdeli - A selection of delicious algorithms for ECG delineation|4|2021-11-08|
