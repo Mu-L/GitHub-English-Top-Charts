@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|719|2021-11-11|2021-10-23|
-|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|327|2021-08-30|2021-02-07|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|724|2021-11-11|2021-10-23|
+|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|330|2021-08-30|2021-02-07|
 |3|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|211|2021-10-13|2021-01-27|
 |4|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|2021-10-26|2021-04-05|
 |5|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|145|2022-01-05|2021-04-19|
-|6|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|73|2022-01-07|2021-06-15|
-|7|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|68|2022-01-07|2021-08-20|
+|6|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|73|2022-01-13|2021-06-15|
+|7|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|70|2022-01-07|2021-08-20|
 |8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|66|2021-11-22|2021-09-26|
 |9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|56|2021-08-19|2021-08-16|
 |10|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
@@ -23,18 +23,18 @@
 |16|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
 |17|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |29|2021-12-22|2021-06-18|
 |18|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
-|19|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2022-01-09|2021-01-22|
-|20|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|27|2021-08-10|2021-04-15|
+|19|[gustavklopp/LingL](https://github.com/gustavklopp/LingL)|clone of lingq to learn new language|28|2021-08-10|2021-04-15|
+|20|[arnicas/text-gen-arxiv-papers](https://github.com/arnicas/text-gen-arxiv-papers)|Code for text generation papers searches on ArXiv, with very manual jekyll site creation.|28|2022-01-09|2021-01-22|
 |21|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|27|2021-09-16|2021-02-27|
 |22|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|23|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2022-01-12|2021-01-16|
-|24|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|22|2021-12-28|2021-11-30|
+|23|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|23|2021-12-28|2021-11-30|
+|24|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2022-01-14|2021-01-16|
 |25|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
-|26|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2021-12-20|2021-09-03|
-|27|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
-|28|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|19|2021-12-15|2021-10-08|
-|29|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
-|30|[CodeWithHarry/Master-Tailwind](https://github.com/CodeWithHarry/Master-Tailwind)|Source code for the videos in the Master Tailwind course at CodeWithHarry - https://www.codewithharry.com/videos/tailwind-course-in-hindi-1/|18|2022-01-09|2022-01-09|
+|26|[CodeWithHarry/Master-Tailwind](https://github.com/CodeWithHarry/Master-Tailwind)|Source code for the videos in the Master Tailwind course at CodeWithHarry - https://www.codewithharry.com/videos/tailwind-course-in-hindi-1/|20|2022-01-09|2022-01-09|
+|27|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2021-12-20|2021-09-03|
+|28|[excid3/betterminitest.com](https://github.com/excid3/betterminitest.com)|Learn how to write better Minitest tests|20|2021-08-13|2021-01-22|
+|29|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|19|2021-12-15|2021-10-08|
+|30|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
 |31|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
 |32|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|18|2021-10-02|2021-10-01|
 |33|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|17|2022-01-12|2021-06-16|
@@ -64,12 +64,12 @@
 |57|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
 |58|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|8|2022-01-12|2021-07-22|
 |59|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|8|2021-12-28|2021-07-18|
-|60|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|61|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |7|2021-11-30|2021-11-01|
-|62|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
-|63|[nimadorostkar/production-management](https://github.com/nimadorostkar/production-management)|Manufacturing process management or Manage inventory statistics, production and orders is a collection of technologies and methods used to define how products are to be manufactured|7|2021-08-06|2021-07-04|
-|64|[jianmin-chen/eloquent](https://github.com/jianmin-chen/eloquent)|Eloquent is a Typora theme designed for writing technical books. It's minimal and easy to use!|7|2021-09-25|2021-04-30|
-|65|[chromaui/intro-storybook-react-template](https://github.com/chromaui/intro-storybook-react-template)|Boilerplate template for the Intro to Storybook tutorial for React|7|2021-12-13|2021-01-28|
+|60|[chromaui/intro-storybook-react-template](https://github.com/chromaui/intro-storybook-react-template)|Boilerplate template for the Intro to Storybook tutorial for React|8|2021-12-13|2021-01-28|
+|61|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
+|62|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |7|2021-11-30|2021-11-01|
+|63|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
+|64|[nimadorostkar/production-management](https://github.com/nimadorostkar/production-management)|Manufacturing process management or Manage inventory statistics, production and orders is a collection of technologies and methods used to define how products are to be manufactured|7|2021-08-06|2021-07-04|
+|65|[jianmin-chen/eloquent](https://github.com/jianmin-chen/eloquent)|Eloquent is a Typora theme designed for writing technical books. It's minimal and easy to use!|7|2021-09-25|2021-04-30|
 |66|[KaProDes/storymarker](https://github.com/KaProDes/storymarker)|Made for small teams to internally share designs, mockups and code.|6|2021-12-21|2021-12-21|
 |67|[LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere)|Learn one vim, Use everywhere.|6|2022-01-13|2021-12-05|
 |68|[qwibbler/my-portfolio](https://github.com/qwibbler/my-portfolio)|This is a practice portfolio that I am building to learn the required coding skills for building a basic website, and also to begin setting up my very own portfolio. Built with html, css, and js.|6|2021-12-16|2021-10-20|

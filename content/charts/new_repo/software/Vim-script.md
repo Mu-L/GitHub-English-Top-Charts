@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2304|2021-12-22|2021-10-20|
-|2|[sharovatov/teamlead](https://github.com/sharovatov/teamlead)|Pragmatic humanist's thoughts on sociotechnical systems.|628|2022-01-13|2021-02-23|
-|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|246|2022-01-10|2021-08-07|
-|4|[Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim)|🎨 A beautiful and dark vim colorscheme. |148|2021-12-10|2021-08-31|
+|1|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2311|2021-12-22|2021-10-20|
+|2|[sharovatov/teamlead](https://github.com/sharovatov/teamlead)|Pragmatic humanist's thoughts on sociotechnical systems.|629|2022-01-14|2021-02-23|
+|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|247|2022-01-10|2021-08-07|
+|4|[Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim)|🎨 A beautiful and dark vim colorscheme. |149|2021-12-10|2021-08-31|
 |5|[wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado)|How themes should be.|140|2021-12-29|2021-09-18|
 |6|[FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim)|🌊 Aquarium, a simple vibrant dark theme for vim 🗒|93|2021-12-26|2021-10-04|
 |7|[vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark)|A dark GitHub theme for Vim and NeoVim|90|2021-10-15|2021-05-08|
@@ -18,20 +18,20 @@
 |11|[vv9k/bogster](https://github.com/vv9k/bogster)|A theme for Vim and NeoVim|74|2022-01-03|2021-05-16|
 |12|[b4skyx/serenade](https://github.com/b4skyx/serenade)|A dark colorscheme for my colorblind eyes . . .|64|2021-08-14|2021-02-02|
 |13|[ernstwi/vim-secret](https://github.com/ernstwi/vim-secret)|Private writing mode for Vim|64|2021-11-20|2021-01-28|
-|14|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams|57|2021-12-10|2021-12-10|
+|14|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams|58|2021-12-10|2021-12-10|
 |15|[pulkomandy/c.vim](https://github.com/pulkomandy/c.vim)|Improved C syntax highlighting for vim|57|2021-08-20|2021-08-14|
-|16|[azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter)|Highlight words and expressions|57|2022-01-09|2021-05-07|
+|16|[azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter)|Highlight words and expressions|57|2022-01-14|2021-05-07|
 |17|[fladson/vim-kitty](https://github.com/fladson/vim-kitty)|Syntax highlighting for Kitty terminal config files.|53|2022-01-12|2021-02-25|
 |18|[sora6kq/sway-dots](https://github.com/sora6kq/sway-dots)|dotfiles for my sway config|52|2021-11-29|2021-10-11|
 |19|[axlebedev/footprints](https://github.com/axlebedev/footprints)|Vim plugin: footprints. Highlight last edited lines.|52|2021-09-13|2021-06-20|
-|20|[vimhack/dotfiles](https://github.com/vimhack/dotfiles)|Vim/Neovim + Tmux + Zsh + Alacritty = Build your own fantastic development environment 🍀|50|2022-01-04|2021-05-01|
+|20|[vimhack/dotfiles](https://github.com/vimhack/dotfiles)|Vim/Neovim + Tmux + Zsh + Alacritty = Build your own fantastic development environment 🍀|51|2022-01-04|2021-05-01|
 |21|[Shougo/pum.vim](https://github.com/Shougo/pum.vim)|Original popup completion menu framework library|48|2022-01-05|2021-10-03|
-|22|[Shadorain/shadotheme](https://github.com/Shadorain/shadotheme)|The ultimate purple and pink dark cherry blossom theme!|47|2021-09-07|2021-03-15|
+|22|[Shadorain/shadotheme](https://github.com/Shadorain/shadotheme)|The ultimate purple and pink dark cherry blossom theme!|48|2021-09-07|2021-03-15|
 |23|[rhysd/vim-lsp-ale](https://github.com/rhysd/vim-lsp-ale)|Bridge between vim-lsp and ALE|46|2022-01-11|2021-04-08|
 |24|[nothingButSyntaxError/dotfiles](https://github.com/nothingButSyntaxError/dotfiles)|Configuration files for linux, polybar, i3etc|45|2022-01-01|2021-10-04|
 |25|[fnune/base16-vim](https://github.com/fnune/base16-vim)|This is a fork of chriskempson's base16-vim which refreshes and commits new themes weekly automatically and has a documented build process.|44|2022-01-09|2021-01-16|
 |26|[monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate)|modern alternative to easymotion written in vim9|40|2021-11-06|2021-07-08|
-|27|[svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim)|Don't let the cursor move while Yanking in Vim/Neovim|38|2022-01-02|2022-01-01|
+|27|[svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim)|Don't let the cursor move while Yanking in Vim/Neovim|39|2022-01-02|2022-01-01|
 |28|[marsupial-king/my-arch-dots](https://github.com/marsupial-king/my-arch-dots)|These are my messy dots.|38|2021-11-24|2021-11-24|
 |29|[hgup/nvim](https://github.com/hgup/nvim)|Fast, with sane-defaults, Neovide compatible, riced, easy to install neovim dotfiles.|38|2021-12-29|2021-09-18|
 |30|[hrsh7th/vim-searchx](https://github.com/hrsh7th/vim-searchx)|The extended search motion.|37|2022-01-13|2021-12-28|
@@ -39,9 +39,9 @@
 |32|[skywind3000/LeaderF-snippet](https://github.com/skywind3000/LeaderF-snippet)|Intuitive Way to Use Snippet|34|2021-12-19|2021-02-01|
 |33|[hrsh7th/vim-seak](https://github.com/hrsh7th/vim-seak)|search + seek = seak. The plugin that enhances the `/` and `?`.|33|2021-12-27|2021-12-26|
 |34|[alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim)|Highlight dotfiles you manage with chezmoi.|32|2021-12-28|2021-04-06|
-|35|[yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim)|Add a file preview window to fern.vim.|30|2021-08-12|2021-05-30|
-|36|[lourenci/github-colors](https://github.com/lourenci/github-colors)|Yet another GitHub colorscheme|30|2021-10-04|2021-05-21|
-|37|[rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim)|samwise is a line-wise note-taking plugin for neovim.|29|2021-08-31|2021-08-28|
+|35|[rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim)|samwise is a line-wise note-taking plugin for neovim.|29|2021-08-31|2021-08-28|
+|36|[yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim)|Add a file preview window to fern.vim.|29|2021-08-12|2021-05-30|
+|37|[lourenci/github-colors](https://github.com/lourenci/github-colors)|Yet another GitHub colorscheme|29|2021-10-04|2021-05-21|
 |38|[MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite)|A Vim Config for Writing and Writers|27|2021-11-21|2021-11-12|
 |39|[yqlbu/neovim-server](https://github.com/yqlbu/neovim-server)| 📡 The Ultimate Containerized NeoVim Remote Server|27|2021-08-19|2021-01-29|
 |40|[lervag/lists.vim](https://github.com/lervag/lists.vim)|A Vim plugin to handle lists|26|2021-11-12|2021-06-06|
@@ -78,12 +78,12 @@
 |71|[roosta/fzf-folds.vim](https://github.com/roosta/fzf-folds.vim)|Vim plugin that lets you fuzzy search for folds in a file|15|2021-08-26|2021-07-28|
 |72|[mapkts/enwise](https://github.com/mapkts/enwise)|Press enter to close unbalanced brackets in cursorline|15|2021-11-19|2021-05-08|
 |73|[katawful/kat.vim](https://github.com/katawful/kat.vim)|Blue based Vim theme with warm hues|15|2021-11-07|2021-04-24|
-|74|[thinca/vim-qfhl](https://github.com/thinca/vim-qfhl)|Highlights quickfix and location list positions.|14|2021-08-03|2021-07-31|
-|75|[elkowar/yuck.vim](https://github.com/elkowar/yuck.vim)|-|14|2021-08-09|2021-07-28|
-|76|[i3d/vim-jimbothemes](https://github.com/i3d/vim-jimbothemes)|Self developed morden vim themes (mainly for neovim)|14|2021-12-28|2021-04-03|
-|77|[sansyrox/macsimus](https://github.com/sansyrox/macsimus)|A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.|14|2021-08-28|2021-03-03|
-|78|[gleich/monovibrant](https://github.com/gleich/monovibrant)|🌈 A vibrant, fresh, and clean color scheme for vim|14|2021-09-22|2021-01-27|
-|79|[Matt-A-Bennett/surround-funk.vim](https://github.com/Matt-A-Bennett/surround-funk.vim)|-|13|2022-01-13|2022-01-06|
+|74|[Matt-A-Bennett/surround-funk.vim](https://github.com/Matt-A-Bennett/surround-funk.vim)|-|14|2022-01-14|2022-01-06|
+|75|[thinca/vim-qfhl](https://github.com/thinca/vim-qfhl)|Highlights quickfix and location list positions.|14|2021-08-03|2021-07-31|
+|76|[elkowar/yuck.vim](https://github.com/elkowar/yuck.vim)|-|14|2021-08-09|2021-07-28|
+|77|[i3d/vim-jimbothemes](https://github.com/i3d/vim-jimbothemes)|Self developed morden vim themes (mainly for neovim)|14|2021-12-28|2021-04-03|
+|78|[sansyrox/macsimus](https://github.com/sansyrox/macsimus)|A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.|14|2021-08-28|2021-03-03|
+|79|[gleich/monovibrant](https://github.com/gleich/monovibrant)|🌈 A vibrant, fresh, and clean color scheme for vim|14|2021-09-22|2021-01-27|
 |80|[quintik/Snip](https://github.com/quintik/Snip)|-|13|2021-12-21|2021-05-13|
 |81|[indicozy/sway-dotfiles](https://github.com/indicozy/sway-dotfiles)|dotfiles for my sway build|13|2021-09-16|2021-04-17|
 |82|[DingDean/wgsl.vim](https://github.com/DingDean/wgsl.vim)|WGSL syntax highlight for vim|13|2022-01-10|2021-03-05|
@@ -94,7 +94,7 @@
 |87|[theduckchannel/bspwm-install](https://github.com/theduckchannel/bspwm-install)|Script for setup a lightweight bspwm environment on Arch Linux|11|2021-12-22|2021-08-19|
 |88|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|2021-10-21|2021-06-25|
 |89|[ozkanonur/nimda.vim](https://github.com/ozkanonur/nimda.vim)|Eye friendly and smooth dark color scheme for Vim|11|2021-11-29|2021-03-25|
-|90|[phmarek/vim-tosvg](https://github.com/phmarek/vim-tosvg)|ToSVG - Vimscript to export buffer as SVG|10|2022-01-09|2021-12-21|
+|90|[phmarek/vim-tosvg](https://github.com/phmarek/vim-tosvg)|ToSVG - Vimscript to export buffer as SVG|10|2022-01-14|2021-12-21|
 |91|[antonk52/vim-plugin-templater](https://github.com/antonk52/vim-plugin-templater)|Templates for your next vim plugins|10|2021-10-29|2021-10-28|
 |92|[Cian911/vim-cadence](https://github.com/Cian911/vim-cadence)|Syntax highlight for the Cadence programming language. A high level programming lanaguage intended for smart contract development. :neckbeard:|10|2021-08-22|2021-05-05|
 |93|[yuki-uthman/config](https://github.com/yuki-uthman/config)|-|10|2022-01-01|2021-04-13|
@@ -105,106 +105,106 @@
 |98|[boson-joe/markdowneyJR](https://github.com/boson-joe/markdowneyJR)|Format Markdown files with simple keystrokes in Vim.|9|2021-09-26|2021-08-09|
 |99|[nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)|-|9|2021-11-23|2021-08-04|
 |100|[kuuote/gina-preview.vim](https://github.com/kuuote/gina-preview.vim)|show gina-status with patch window|9|2021-09-01|2021-05-16|
-|101|[timakro/vim-yadi](https://github.com/timakro/vim-yadi)|Yet Another Detect Indent|9|2021-08-29|2021-02-13|
-|102|[shoumodip/fm.vim](https://github.com/shoumodip/fm.vim)|Hyper-extensible minimal file manager for vim|9|2021-11-05|2021-01-28|
-|103|[skanehira/qfopen.vim](https://github.com/skanehira/qfopen.vim)|Provides way that open file on quickfix and location list.|8|2021-10-28|2021-10-27|
-|104|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams.|8|2021-10-30|2021-10-08|
-|105|[vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile)|🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment|8|2021-10-05|2021-09-28|
-|106|[VuNguyenCoder/VimConfig](https://github.com/VuNguyenCoder/VimConfig)|-|8|2021-09-27|2021-08-19|
-|107|[lacygoill/vim9-syntax](https://github.com/lacygoill/vim9-syntax)|-|8|2021-12-21|2021-06-14|
-|108|[mrLuisFer/neovim-dotfiles](https://github.com/mrLuisFer/neovim-dotfiles)|This is my personal configuration that I use every day in neovim :D|8|2021-12-17|2021-06-11|
-|109|[whatsthatsmell/codesmell_dark.vim](https://github.com/whatsthatsmell/codesmell_dark.vim)|CodeSmell's Neovim Theme        💩|8|2022-01-12|2021-06-02|
-|110|[wuelnerdotexe/dotfiles](https://github.com/wuelnerdotexe/dotfiles)|Config files for my Windows programs.|8|2021-12-30|2021-06-01|
-|111|[NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just)|Vim Just Syntax|8|2021-10-09|2021-05-19|
-|112|[wixnic/kali-config](https://github.com/wixnic/kali-config)|Kali Linux dotfiles.|8|2021-12-01|2021-05-16|
-|113|[EgZvor/vimproviser](https://github.com/EgZvor/vimproviser)|Map `h` and `l` on the fly!|8|2021-10-01|2021-04-07|
-|114|[ThatOneCalculator/bspwm-dotfiles](https://github.com/ThatOneCalculator/bspwm-dotfiles)|There's no place like ~/|8|2021-07-18|2021-02-18|
-|115|[kosayoda/nvim-dotfiles](https://github.com/kosayoda/nvim-dotfiles)|My neovim dotfiles.|8|2021-07-31|2021-02-01|
-|116|[Fymyte/rasi.vim](https://github.com/Fymyte/rasi.vim)|Rofi config syntax highlighting for vim|7|2022-01-08|2021-12-27|
-|117|[derekhe/msfs2020-map-enhancement](https://github.com/derekhe/msfs2020-map-enhancement)|MSFS2020 Map Enhancement|7|2022-01-12|2021-12-05|
-|118|[abdul2926/openbox-dotfiles](https://github.com/abdul2926/openbox-dotfiles)|-|7|2021-12-02|2021-10-30|
-|119|[habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily)|White vim colorscheme|7|2021-12-20|2021-10-15|
-|120|[NiYanhhhhh/lighttree-java](https://github.com/NiYanhhhhh/lighttree-java)|A java dependency exloperor using neovim build-in lsp|7|2021-09-24|2021-09-11|
-|121|[aquasecurity/vim-tfsec](https://github.com/aquasecurity/vim-tfsec)|List your tfsec issues in the QuickFix window with this plugin.|7|2021-09-01|2021-09-01|
-|122|[christoomey/display-table-summary](https://github.com/christoomey/display-table-summary)|-|7|2021-08-04|2021-08-04|
-|123|[xxdavid/perljump.vim](https://github.com/xxdavid/perljump.vim)|Vim plugin for jumping to Perl subroutine definitions|7|2021-07-29|2021-07-20|
-|124|[stefanos82/nelua.vim](https://github.com/stefanos82/nelua.vim)|Syntax highlighting for Nelua programming language|7|2021-09-18|2021-06-13|
-|125|[joechrisellis/vim-git-arglist](https://github.com/joechrisellis/vim-git-arglist)|Vim commands for manipulating the arglist based on the current Git repository|7|2021-08-11|2021-05-12|
-|126|[manuelduarte077/ninja.nvim](https://github.com/manuelduarte077/ninja.nvim)|🤖 Configuración de nvim para Windows :sparkles: :rocket:|7|2021-12-28|2021-05-08|
-|127|[Jorengarenar/COBOL.vim](https://github.com/Jorengarenar/COBOL.vim)|Vim runtime files for COBOL|7|2021-09-19|2021-04-29|
-|128|[sharadmv/dex-vim](https://github.com/sharadmv/dex-vim)|Vim syntax highlighting for Dex|7|2021-09-01|2021-03-19|
-|129|[bratpeki/truedark-vim](https://github.com/bratpeki/truedark-vim)|A true dark theme. For Vim. Duh.|7|2021-11-21|2021-03-16|
-|130|[returntocorp/semgrep.vim](https://github.com/returntocorp/semgrep.vim)|Semgrep external checker for Syntastic|7|2021-09-15|2021-03-02|
-|131|[enzom-uy/axyl-dotfiles](https://github.com/enzom-uy/axyl-dotfiles)|My config files for when I'm using axyl distro.|6|2022-01-12|2022-01-10|
-|132|[eliasreis54/vim-bloc-plugin](https://github.com/eliasreis54/vim-bloc-plugin)|Vim plugin to generate Flutter Bloc or Cubit files|6|2022-01-13|2022-01-03|
-|133|[skanehira/inqfix.vim](https://github.com/skanehira/inqfix.vim)|-|6|2021-12-27|2021-12-27|
-|134|[scateu/tsv_edl.vim](https://github.com/scateu/tsv_edl.vim)|-|6|2022-01-13|2021-11-30|
-|135|[skurob/robpur-vim](https://github.com/skurob/robpur-vim)|-|6|2021-11-25|2021-09-02|
-|136|[prcxzm/DotFiles1](https://github.com/prcxzm/DotFiles1)|-|6|2022-01-10|2021-08-13|
-|137|[TI-helL/TI-helL](https://github.com/TI-helL/TI-helL)|오늘 배운 것을 기록합니다.|6|2022-01-03|2021-08-06|
-|138|[jimcornmell/lvim](https://github.com/jimcornmell/lvim)|-|6|2022-01-05|2021-08-03|
-|139|[mizlan/vim-tierlist](https://github.com/mizlan/vim-tierlist)|Build clean and simple tierlists ergonomically in pure VimScript|6|2021-07-30|2021-07-29|
-|140|[NiharKod/dots](https://github.com/NiharKod/dots)|My NixOS bspwm dotfiles|6|2021-07-30|2021-07-23|
+|101|[sagi-z/vimspectorpy](https://github.com/sagi-z/vimspectorpy)|python default configurations for vimspector|9|2022-01-14|2021-03-17|
+|102|[timakro/vim-yadi](https://github.com/timakro/vim-yadi)|Yet Another Detect Indent|9|2021-08-29|2021-02-13|
+|103|[shoumodip/fm.vim](https://github.com/shoumodip/fm.vim)|Hyper-extensible minimal file manager for vim|9|2021-11-05|2021-01-28|
+|104|[derekhe/msfs2020-map-enhancement](https://github.com/derekhe/msfs2020-map-enhancement)|MSFS2020 Map Enhancement|8|2022-01-12|2021-12-05|
+|105|[skanehira/qfopen.vim](https://github.com/skanehira/qfopen.vim)|Provides way that open file on quickfix and location list.|8|2021-10-28|2021-10-27|
+|106|[willchao612/vim-diagon](https://github.com/willchao612/vim-diagon)|Vim wrapper of Diagon API to generate simple Unicode or ASCII diagrams.|8|2021-10-30|2021-10-08|
+|107|[vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile)|🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment|8|2021-10-05|2021-09-28|
+|108|[VuNguyenCoder/VimConfig](https://github.com/VuNguyenCoder/VimConfig)|-|8|2021-09-27|2021-08-19|
+|109|[lacygoill/vim9-syntax](https://github.com/lacygoill/vim9-syntax)|-|8|2021-12-21|2021-06-14|
+|110|[mrLuisFer/neovim-dotfiles](https://github.com/mrLuisFer/neovim-dotfiles)|This is my personal configuration that I use every day in neovim :D|8|2021-12-17|2021-06-11|
+|111|[whatsthatsmell/codesmell_dark.vim](https://github.com/whatsthatsmell/codesmell_dark.vim)|CodeSmell's Neovim Theme        💩|8|2022-01-14|2021-06-02|
+|112|[wuelnerdotexe/dotfiles](https://github.com/wuelnerdotexe/dotfiles)|Config files for my Windows programs.|8|2021-12-30|2021-06-01|
+|113|[NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just)|Vim Just Syntax|8|2021-10-09|2021-05-19|
+|114|[wixnic/kali-config](https://github.com/wixnic/kali-config)|Kali Linux dotfiles.|8|2021-12-01|2021-05-16|
+|115|[EgZvor/vimproviser](https://github.com/EgZvor/vimproviser)|Map `h` and `l` on the fly!|8|2021-10-01|2021-04-07|
+|116|[ThatOneCalculator/bspwm-dotfiles](https://github.com/ThatOneCalculator/bspwm-dotfiles)|There's no place like ~/|8|2021-07-18|2021-02-18|
+|117|[kosayoda/nvim-dotfiles](https://github.com/kosayoda/nvim-dotfiles)|My neovim dotfiles.|8|2021-07-31|2021-02-01|
+|118|[Fymyte/rasi.vim](https://github.com/Fymyte/rasi.vim)|Rofi config syntax highlighting for vim|7|2022-01-08|2021-12-27|
+|119|[scateu/tsv_edl.vim](https://github.com/scateu/tsv_edl.vim)|-|7|2022-01-14|2021-11-30|
+|120|[abdul2926/openbox-dotfiles](https://github.com/abdul2926/openbox-dotfiles)|-|7|2021-12-02|2021-10-30|
+|121|[habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily)|White vim colorscheme|7|2021-12-20|2021-10-15|
+|122|[NiYanhhhhh/lighttree-java](https://github.com/NiYanhhhhh/lighttree-java)|A java dependency exloperor using neovim build-in lsp|7|2021-09-24|2021-09-11|
+|123|[aquasecurity/vim-tfsec](https://github.com/aquasecurity/vim-tfsec)|List your tfsec issues in the QuickFix window with this plugin.|7|2021-09-01|2021-09-01|
+|124|[christoomey/display-table-summary](https://github.com/christoomey/display-table-summary)|-|7|2021-08-04|2021-08-04|
+|125|[xxdavid/perljump.vim](https://github.com/xxdavid/perljump.vim)|Vim plugin for jumping to Perl subroutine definitions|7|2021-07-29|2021-07-20|
+|126|[stefanos82/nelua.vim](https://github.com/stefanos82/nelua.vim)|Syntax highlighting for Nelua programming language|7|2021-09-18|2021-06-13|
+|127|[joechrisellis/vim-git-arglist](https://github.com/joechrisellis/vim-git-arglist)|Vim commands for manipulating the arglist based on the current Git repository|7|2021-08-11|2021-05-12|
+|128|[manuelduarte077/ninja.nvim](https://github.com/manuelduarte077/ninja.nvim)|🤖 Configuración de nvim para Windows :sparkles: :rocket:|7|2021-12-28|2021-05-08|
+|129|[Jorengarenar/COBOL.vim](https://github.com/Jorengarenar/COBOL.vim)|Vim runtime files for COBOL|7|2021-09-19|2021-04-29|
+|130|[sharadmv/dex-vim](https://github.com/sharadmv/dex-vim)|Vim syntax highlighting for Dex|7|2021-09-01|2021-03-19|
+|131|[bratpeki/truedark-vim](https://github.com/bratpeki/truedark-vim)|A true dark theme. For Vim. Duh.|7|2021-11-21|2021-03-16|
+|132|[returntocorp/semgrep.vim](https://github.com/returntocorp/semgrep.vim)|Semgrep external checker for Syntastic|7|2021-09-15|2021-03-02|
+|133|[enzom-uy/axyl-dotfiles](https://github.com/enzom-uy/axyl-dotfiles)|My config files for when I'm using axyl distro.|6|2022-01-12|2022-01-10|
+|134|[eliasreis54/vim-bloc-plugin](https://github.com/eliasreis54/vim-bloc-plugin)|Vim plugin to generate Flutter Bloc or Cubit files|6|2022-01-13|2022-01-03|
+|135|[skanehira/inqfix.vim](https://github.com/skanehira/inqfix.vim)|-|6|2021-12-27|2021-12-27|
+|136|[skurob/robpur-vim](https://github.com/skurob/robpur-vim)|-|6|2021-11-25|2021-09-02|
+|137|[prcxzm/DotFiles1](https://github.com/prcxzm/DotFiles1)|-|6|2022-01-10|2021-08-13|
+|138|[TI-helL/TI-helL](https://github.com/TI-helL/TI-helL)|오늘 배운 것을 기록합니다.|6|2022-01-03|2021-08-06|
+|139|[jimcornmell/lvim](https://github.com/jimcornmell/lvim)|-|6|2022-01-05|2021-08-03|
+|140|[mizlan/vim-tierlist](https://github.com/mizlan/vim-tierlist)|Build clean and simple tierlists ergonomically in pure VimScript|6|2021-07-30|2021-07-29|
 |141|[gweithio/hotline-vim](https://github.com/gweithio/hotline-vim)|Dark Vim theme with bright colours|6|2021-10-13|2021-07-04|
-|142|[togglebyte/togglerust](https://github.com/togglebyte/togglerust)|Vim plugin with some minor Rust love|6|2022-01-02|2021-04-30|
-|143|[lacygoill/vim9asm](https://github.com/lacygoill/vim9asm)|-|6|2021-12-21|2021-04-14|
-|144|[audibleblink/hackthebox.vim](https://github.com/audibleblink/hackthebox.vim)|HackTheBox Vim Colorscheme|6|2021-10-28|2021-04-11|
-|145|[eluum/vim-autopair](https://github.com/eluum/vim-autopair)|A very simple vim plugin for autocompleting paired characters like parenthesis, quotes, and brackets.|6|2021-10-17|2021-03-27|
-|146|[MiragianCycle/dotfiles](https://github.com/MiragianCycle/dotfiles)|these are my dot files, mostly .vimrc and .vim folders |6|2021-11-03|2021-03-27|
-|147|[dharrigan/vimconfig](https://github.com/dharrigan/vimconfig)|My VIM Configuration|6|2021-12-21|2021-02-08|
-|148|[lacygoill/vim-virtual-text](https://github.com/lacygoill/vim-virtual-text)|-|6|2021-12-21|2021-02-05|
-|149|[grimme-lab/orca.vim](https://github.com/grimme-lab/orca.vim)|Syntax highlighting for Orca input files in vim|5|2022-01-11|2022-01-11|
-|150|[agusnt/dotfiles](https://github.com/agusnt/dotfiles)|My dotfiles|5|2021-12-02|2021-12-01|
-|151|[rbtnn/vim-qfprediction](https://github.com/rbtnn/vim-qfprediction)|This plugin provides to tell you to which window for jumping when :cnext, :cprevious and selecting an error in the quickfix window.|5|2021-11-13|2021-11-11|
-|152|[luizribeiro/vim-cooklang](https://github.com/luizribeiro/vim-cooklang)|A cooklang syntax highlighting plugin for vim.|5|2021-10-31|2021-10-30|
-|153|[habamax/vim-rst](https://github.com/habamax/vim-rst)|vim reStructuredText syntax and some more|5|2021-11-28|2021-10-27|
-|154|[rbtnn/vim-layout](https://github.com/rbtnn/vim-layout)|-|5|2021-10-12|2021-10-10|
-|155|[jessarcher/vim-heritage](https://github.com/jessarcher/vim-heritage)|Automatically create missing parent directories when saving a new file|5|2021-10-09|2021-10-09|
-|156|[obcat/vim-highlightedput](https://github.com/obcat/vim-highlightedput)|🌟 Highlight the put text!|5|2021-10-14|2021-09-25|
-|157|[RishabhRD/nvim-qf](https://github.com/RishabhRD/nvim-qf)|vim-qf fork for neovim|5|2021-09-12|2021-09-12|
-|158|[noscript/taberian.vim](https://github.com/noscript/taberian.vim)|Clickable tabs per VIM window|5|2021-11-25|2021-09-03|
-|159|[Wafelack/vim-ghci](https://github.com/Wafelack/vim-ghci)|A Haskell REPL inside Vim.|5|2021-08-21|2021-08-20|
-|160|[yuryalencar/vim-configuration](https://github.com/yuryalencar/vim-configuration)|This is an customized vim configuration to install using PlugInstall|5|2021-08-18|2021-08-14|
-|161|[project-HOSSAM/dotfiles](https://github.com/project-HOSSAM/dotfiles)|-|5|2021-12-19|2021-08-13|
-|162|[NewComer00/my-vimrc](https://github.com/NewComer00/my-vimrc)|my .vimrc config|5|2021-12-27|2021-08-05|
-|163|[archaict/neo-minivimist](https://github.com/archaict/neo-minivimist)|Minimal and beautiful Neovim config!|5|2021-07-27|2021-07-23|
-|164|[ashzero2/VimPilot](https://github.com/ashzero2/VimPilot)|Copilot with extra steps ^-^|5|2021-07-16|2021-07-16|
-|165|[Mattio-cmd/nvim](https://github.com/Mattio-cmd/nvim)|My Neovim config. I aim to keep it "suckless", but if you want a 'bloated' config just uncoment all the plugins and run a PlugInstall|5|2021-11-20|2021-07-05|
-|166|[ander-lab/config](https://github.com/ander-lab/config)|My zsh and neovim config|5|2021-11-14|2021-07-03|
-|167|[ThomasTraineau/Dotfiles](https://github.com/ThomasTraineau/Dotfiles)|Dotfiles of my current linux config|5|2021-11-20|2021-06-26|
-|168|[dokwork/vim-hp](https://github.com/dokwork/vim-hp)|This plugin should help you write documentation for your plugins.|5|2021-10-13|2021-05-17|
-|169|[PaloAltoNetworks/pan-os-php-windows-package](https://github.com/PaloAltoNetworks/pan-os-php-windows-package)|Windows package for framework PAN-OS-PHP|5|2022-01-11|2021-05-12|
-|170|[JimmyHuang454/EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)|A code-completion engine with easy for Vim and Neovim.|5|2022-01-01|2021-03-12|
-|171|[kat0h/artify.vim9](https://github.com/kat0h/artify.vim9)|-|5|2021-09-10|2021-03-05|
-|172|[kyoh86/curtain.nvim](https://github.com/kyoh86/curtain.nvim)|-|5|2021-08-12|2021-03-02|
-|173|[kg8m/vim-simple-align](https://github.com/kg8m/vim-simple-align)|A Vim/Neovim plugin to align texts by simple way, inspired by h1mesuke/vim-alignta|5|2022-01-10|2021-03-02|
-|174|[brettcannon/dotfiles](https://github.com/brettcannon/dotfiles)|-|5|2021-11-20|2021-02-24|
-|175|[pbnj/dotfiles](https://github.com/pbnj/dotfiles)|My dotfiles|5|2021-11-29|2021-02-20|
-|176|[atticusmatticus/nvim](https://github.com/atticusmatticus/nvim)|Neovim Dotfiles|5|2021-08-23|2021-02-18|
-|177|[mark2185/vim-alternator](https://github.com/mark2185/vim-alternator)|Alternating between C/C++ source and header files|5|2021-11-16|2021-02-13|
-|178|[cjdenio/config](https://github.com/cjdenio/config)|My dotfiles on macOS|5|2022-01-13|2021-02-06|
-|179|[spawmc/Neovim-SFW](https://github.com/spawmc/Neovim-SFW)|My Neovim configuration for working|5|2021-10-18|2021-02-06|
-|180|[ta-tikoma/php.easy.vim](https://github.com/ta-tikoma/php.easy.vim)|Functions for simplify work with PHP - projects|5|2022-01-12|2021-01-27|
-|181|[steven-liou/console-puts](https://github.com/steven-liou/console-puts)|-|5|2022-01-06|2021-01-25|
-|182|[Stoozy/dotfiles](https://github.com/Stoozy/dotfiles)|Current dotfiles|5|2021-09-11|2021-01-18|
-|183|[Shougo/ddu-commands.vim](https://github.com/Shougo/ddu-commands.vim)|Commands for ddu.vim|4|2022-01-10|2022-01-10|
-|184|[rbtnn/vim-qfpopup](https://github.com/rbtnn/vim-qfpopup)|This plugin provides to show the quickfix result using a popup window or a floating window. This supports Vim and Neovim.|4|2022-01-12|2022-01-08|
-|185|[normen/vim-pio](https://github.com/normen/vim-pio)|Vim Plugin for PlatformIO|4|2022-01-09|2022-01-04|
-|186|[mattn/vim-gotmpl](https://github.com/mattn/vim-gotmpl)|-|4|2021-12-17|2021-12-17|
-|187|[yasunori-kirin0418/mcdl.vim](https://github.com/yasunori-kirin0418/mcdl.vim)|Minimum configuration dein.vim setting locally.|4|2021-12-29|2021-12-06|
-|188|[roufsyed/nvim](https://github.com/roufsyed/nvim)|Neovim configurations|4|2022-01-01|2021-12-05|
-|189|[seandewar/advent-of-vimscript](https://github.com/seandewar/advent-of-vimscript)|advent of code 2021 but in vimscript lol|4|2021-12-21|2021-12-03|
-|190|[nicolascb/camarada.vim](https://github.com/nicolascb/camarada.vim)|A light/dark colorscheme for Vim.|4|2021-11-25|2021-11-25|
-|191|[icedwater/vimdendron](https://github.com/icedwater/vimdendron)|Yay, another project I'll abandon in 2 weeks or less. I mean, dendron in vim, with benhsm's help.|4|2021-11-20|2021-11-20|
-|192|[ulwlu/simple-light.vim](https://github.com/ulwlu/simple-light.vim)|simple light vim theme|4|2021-11-11|2021-11-11|
-|193|[hotoo/eggjs-gf.vim](https://github.com/hotoo/eggjs-gf.vim)|goto file for eggjs( support router, controllers, services, proxy, enums)|4|2022-01-06|2021-11-09|
-|194|[mi544/vim-ripgrep](https://github.com/mi544/vim-ripgrep)|Use ripgrep (rg) in Vim and display results in the quickfix list |4|2021-11-15|2021-10-31|
-|195|[joechrisellis/vim-searchlist](https://github.com/joechrisellis/vim-searchlist)|Adds a searchlist to Vim/Neovim|4|2021-11-12|2021-10-30|
-|196|[SOF3/nvim-config](https://github.com/SOF3/nvim-config)|Personal nvim config.|4|2022-01-13|2021-10-30|
-|197|[iamthewalrus67/dotfiles](https://github.com/iamthewalrus67/dotfiles)|Some of my config files in case I delete my system out of frustration|4|2021-12-29|2021-10-27|
-|198|[Gusalimi/dotfiles](https://github.com/Gusalimi/dotfiles)|My dotfiles|4|2021-11-14|2021-10-26|
-|199|[2nthony/dotfiles](https://github.com/2nthony/dotfiles)|My personal dotfiles|4|2022-01-06|2021-10-22|
-|200|[Thaegox/dotfiles](https://github.com/Thaegox/dotfiles)|-|4|2021-12-11|2021-10-18|
+|142|[kmonad/kmonad-vim](https://github.com/kmonad/kmonad-vim)|Vim editing support for kmonad config files|6|2022-01-14|2021-05-13|
+|143|[togglebyte/togglerust](https://github.com/togglebyte/togglerust)|Vim plugin with some minor Rust love|6|2022-01-02|2021-04-30|
+|144|[lacygoill/vim9asm](https://github.com/lacygoill/vim9asm)|-|6|2021-12-21|2021-04-14|
+|145|[audibleblink/hackthebox.vim](https://github.com/audibleblink/hackthebox.vim)|HackTheBox Vim Colorscheme|6|2021-10-28|2021-04-11|
+|146|[eluum/vim-autopair](https://github.com/eluum/vim-autopair)|A very simple vim plugin for autocompleting paired characters like parenthesis, quotes, and brackets.|6|2021-10-17|2021-03-27|
+|147|[MiragianCycle/dotfiles](https://github.com/MiragianCycle/dotfiles)|these are my dot files, mostly .vimrc and .vim folders |6|2021-11-03|2021-03-27|
+|148|[dharrigan/vimconfig](https://github.com/dharrigan/vimconfig)|My VIM Configuration|6|2021-12-21|2021-02-08|
+|149|[lacygoill/vim-virtual-text](https://github.com/lacygoill/vim-virtual-text)|-|6|2021-12-21|2021-02-05|
+|150|[grimme-lab/orca.vim](https://github.com/grimme-lab/orca.vim)|Syntax highlighting for Orca input files in vim|5|2022-01-14|2022-01-11|
+|151|[agusnt/dotfiles](https://github.com/agusnt/dotfiles)|My dotfiles|5|2021-12-02|2021-12-01|
+|152|[rbtnn/vim-qfprediction](https://github.com/rbtnn/vim-qfprediction)|This plugin provides to tell you to which window for jumping when :cnext, :cprevious and selecting an error in the quickfix window.|5|2021-11-13|2021-11-11|
+|153|[luizribeiro/vim-cooklang](https://github.com/luizribeiro/vim-cooklang)|A cooklang syntax highlighting plugin for vim.|5|2021-10-31|2021-10-30|
+|154|[habamax/vim-rst](https://github.com/habamax/vim-rst)|vim reStructuredText syntax and some more|5|2021-11-28|2021-10-27|
+|155|[rbtnn/vim-layout](https://github.com/rbtnn/vim-layout)|-|5|2021-10-12|2021-10-10|
+|156|[jessarcher/vim-heritage](https://github.com/jessarcher/vim-heritage)|Automatically create missing parent directories when saving a new file|5|2021-10-09|2021-10-09|
+|157|[obcat/vim-highlightedput](https://github.com/obcat/vim-highlightedput)|🌟 Highlight the put text!|5|2021-10-14|2021-09-25|
+|158|[RishabhRD/nvim-qf](https://github.com/RishabhRD/nvim-qf)|vim-qf fork for neovim|5|2021-09-12|2021-09-12|
+|159|[noscript/taberian.vim](https://github.com/noscript/taberian.vim)|Clickable tabs per VIM window|5|2021-11-25|2021-09-03|
+|160|[Wafelack/vim-ghci](https://github.com/Wafelack/vim-ghci)|A Haskell REPL inside Vim.|5|2021-08-21|2021-08-20|
+|161|[yuryalencar/vim-configuration](https://github.com/yuryalencar/vim-configuration)|This is an customized vim configuration to install using PlugInstall|5|2021-08-18|2021-08-14|
+|162|[project-HOSSAM/dotfiles](https://github.com/project-HOSSAM/dotfiles)|-|5|2021-12-19|2021-08-13|
+|163|[NewComer00/my-vimrc](https://github.com/NewComer00/my-vimrc)|my .vimrc config|5|2021-12-27|2021-08-05|
+|164|[NiharKod/dots](https://github.com/NiharKod/dots)|My NixOS bspwm dotfiles|5|2021-07-30|2021-07-23|
+|165|[archaict/neo-minivimist](https://github.com/archaict/neo-minivimist)|Minimal and beautiful Neovim config!|5|2021-07-27|2021-07-23|
+|166|[ashzero2/VimPilot](https://github.com/ashzero2/VimPilot)|Copilot with extra steps ^-^|5|2021-07-16|2021-07-16|
+|167|[Mattio-cmd/nvim](https://github.com/Mattio-cmd/nvim)|My Neovim config. I aim to keep it "suckless", but if you want a 'bloated' config just uncoment all the plugins and run a PlugInstall|5|2021-11-20|2021-07-05|
+|168|[ander-lab/config](https://github.com/ander-lab/config)|My zsh and neovim config|5|2021-11-14|2021-07-03|
+|169|[ThomasTraineau/Dotfiles](https://github.com/ThomasTraineau/Dotfiles)|Dotfiles of my current linux config|5|2021-11-20|2021-06-26|
+|170|[dokwork/vim-hp](https://github.com/dokwork/vim-hp)|This plugin should help you write documentation for your plugins.|5|2021-10-13|2021-05-17|
+|171|[PaloAltoNetworks/pan-os-php-windows-package](https://github.com/PaloAltoNetworks/pan-os-php-windows-package)|Windows package for framework PAN-OS-PHP|5|2022-01-11|2021-05-12|
+|172|[JimmyHuang454/EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)|A code-completion engine with easy for Vim and Neovim.|5|2022-01-01|2021-03-12|
+|173|[kat0h/artify.vim9](https://github.com/kat0h/artify.vim9)|-|5|2021-09-10|2021-03-05|
+|174|[kyoh86/curtain.nvim](https://github.com/kyoh86/curtain.nvim)|-|5|2021-08-12|2021-03-02|
+|175|[kg8m/vim-simple-align](https://github.com/kg8m/vim-simple-align)|A Vim/Neovim plugin to align texts by simple way, inspired by h1mesuke/vim-alignta|5|2022-01-10|2021-03-02|
+|176|[brettcannon/dotfiles](https://github.com/brettcannon/dotfiles)|-|5|2021-11-20|2021-02-24|
+|177|[pbnj/dotfiles](https://github.com/pbnj/dotfiles)|My dotfiles|5|2021-11-29|2021-02-20|
+|178|[atticusmatticus/nvim](https://github.com/atticusmatticus/nvim)|Neovim Dotfiles|5|2021-08-23|2021-02-18|
+|179|[mark2185/vim-alternator](https://github.com/mark2185/vim-alternator)|Alternating between C/C++ source and header files|5|2021-11-16|2021-02-13|
+|180|[cjdenio/config](https://github.com/cjdenio/config)|My dotfiles on macOS|5|2022-01-13|2021-02-06|
+|181|[spawmc/Neovim-SFW](https://github.com/spawmc/Neovim-SFW)|My Neovim configuration for working|5|2021-10-18|2021-02-06|
+|182|[ta-tikoma/php.easy.vim](https://github.com/ta-tikoma/php.easy.vim)|Functions for simplify work with PHP - projects|5|2022-01-12|2021-01-27|
+|183|[steven-liou/console-puts](https://github.com/steven-liou/console-puts)|-|5|2022-01-06|2021-01-25|
+|184|[Stoozy/dotfiles](https://github.com/Stoozy/dotfiles)|Current dotfiles|5|2021-09-11|2021-01-18|
+|185|[Shougo/ddu-commands.vim](https://github.com/Shougo/ddu-commands.vim)|Commands for ddu.vim|4|2022-01-10|2022-01-10|
+|186|[rbtnn/vim-qfpopup](https://github.com/rbtnn/vim-qfpopup)|This plugin provides to show the quickfix result using a popup window or a floating window. This supports Vim and Neovim.|4|2022-01-12|2022-01-08|
+|187|[normen/vim-pio](https://github.com/normen/vim-pio)|Vim Plugin for PlatformIO|4|2022-01-09|2022-01-04|
+|188|[mattn/vim-gotmpl](https://github.com/mattn/vim-gotmpl)|-|4|2021-12-17|2021-12-17|
+|189|[yasunori-kirin0418/mcdl.vim](https://github.com/yasunori-kirin0418/mcdl.vim)|Minimum configuration dein.vim setting locally.|4|2021-12-29|2021-12-06|
+|190|[roufsyed/nvim](https://github.com/roufsyed/nvim)|Neovim configurations|4|2022-01-01|2021-12-05|
+|191|[seandewar/advent-of-vimscript](https://github.com/seandewar/advent-of-vimscript)|advent of code 2021 but in vimscript lol|4|2021-12-21|2021-12-03|
+|192|[nicolascb/camarada.vim](https://github.com/nicolascb/camarada.vim)|A light/dark colorscheme for Vim.|4|2021-11-25|2021-11-25|
+|193|[icedwater/vimdendron](https://github.com/icedwater/vimdendron)|Yay, another project I'll abandon in 2 weeks or less. I mean, dendron in vim, with benhsm's help.|4|2021-11-20|2021-11-20|
+|194|[ulwlu/simple-light.vim](https://github.com/ulwlu/simple-light.vim)|simple light vim theme|4|2021-11-11|2021-11-11|
+|195|[hotoo/eggjs-gf.vim](https://github.com/hotoo/eggjs-gf.vim)|goto file for eggjs( support router, controllers, services, proxy, enums)|4|2022-01-06|2021-11-09|
+|196|[mi544/vim-ripgrep](https://github.com/mi544/vim-ripgrep)|Use ripgrep (rg) in Vim and display results in the quickfix list |4|2021-11-15|2021-10-31|
+|197|[joechrisellis/vim-searchlist](https://github.com/joechrisellis/vim-searchlist)|Adds a searchlist to Vim/Neovim|4|2021-11-12|2021-10-30|
+|198|[SOF3/nvim-config](https://github.com/SOF3/nvim-config)|Personal nvim config.|4|2022-01-13|2021-10-30|
+|199|[iamthewalrus67/dotfiles](https://github.com/iamthewalrus67/dotfiles)|Some of my config files in case I delete my system out of frustration|4|2021-12-29|2021-10-27|
+|200|[Gusalimi/dotfiles](https://github.com/Gusalimi/dotfiles)|My dotfiles|4|2021-11-14|2021-10-26|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

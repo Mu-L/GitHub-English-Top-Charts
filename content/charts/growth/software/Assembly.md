@@ -1,51 +1,51 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Assembly
-<sub>Updated: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52325|18|2022-01-13|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52329|18|2022-01-14|
 |2|[NattyNarwhal/vmwmouse](https://github.com/NattyNarwhal/vmwmouse)|VMware mouse driver for Windows 3.1|296|6|2021-12-01|
-|3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1287|6|2021-10-24|
-|4|[djh0ffman/KnightmareAmiga](https://github.com/djh0ffman/KnightmareAmiga)|Knightmare - Amiga Port|12|6|2022-01-12|
-|5|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1605|5|2021-10-06|
-|6|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|223|4|2022-01-10|
-|7|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3095|4|2022-01-11|
-|8|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|329|4|2021-12-22|
-|9|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|313|4|2021-12-22|
-|10|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|697|4|2021-12-05|
-|11|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|8347|3|2022-01-12|
+|3|[VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes)|Super Mario World (SNES) Widescreen Project|1286|6|2021-10-24|
+|4|[djh0ffman/KnightmareAmiga](https://github.com/djh0ffman/KnightmareAmiga)|Knightmare - Amiga Port|17|6|2022-01-12|
+|5|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1604|5|2021-10-06|
+|6|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3095|4|2022-01-14|
+|7|[2point21/lba2-classic](https://github.com/2point21/lba2-classic)|-|331|4|2021-12-22|
+|8|[2point21/lba1-classic](https://github.com/2point21/lba1-classic)|-|314|4|2021-12-22|
+|9|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|697|4|2021-12-05|
+|10|[nadavrot/memset_benchmark](https://github.com/nadavrot/memset_benchmark)|-|223|3|2022-01-10|
+|11|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|8348|3|2022-01-12|
 |12|[sammyuri/chungus-2-assembler](https://github.com/sammyuri/chungus-2-assembler)|Assembler and example programs for the CHUNGUS 2 Minecraft CPU.|165|3|2021-11-14|
-|13|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|2689|2|2022-01-13|
-|14|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7712|2|2022-01-13|
-|15|[jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers)|AV/EDR evasion via direct system calls.|1158|2|2021-10-12|
-|16|[jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)|AV/EDR evasion via direct system calls.|788|2|2021-12-27|
-|17|[jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II)|A running-jumping-swordfighting game I made on the Apple II from 1985-89|5820|2|2021-11-24|
+|13|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|2689|2|2022-01-14|
+|14|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7714|2|2022-01-14|
+|15|[jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers)|AV/EDR evasion via direct system calls.|1159|2|2021-10-12|
+|16|[jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)|AV/EDR evasion via direct system calls.|789|2|2021-12-27|
+|17|[jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II)|A running-jumping-swordfighting game I made on the Apple II from 1985-89|5821|2|2021-11-24|
 |18|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|21|1|2021-12-15|
-|19|[Myself086/Project-Nested](https://github.com/Myself086/Project-Nested)|-|333|1|2022-01-12|
-|20|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2115|1|2022-01-08|
-|21|[cesarblum/sectorforth](https://github.com/cesarblum/sectorforth)|sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector.|258|1|2021-12-09|
-|22|[jeanthom/boot2duino](https://github.com/jeanthom/boot2duino)|The World's Most Useless Arduino Platform.|34|1|2021-12-29|
-|23|[nemasu/asmttpd](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.|2805|1|2022-01-11|
-|24|[eatonphil/bootloaders](https://github.com/eatonphil/bootloaders)|Bootloader exploration|8|1|2021-12-31|
-|25|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|2955|1|2021-12-09|
-|26|[prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)|SHA256 library highly optimized for Merkle tree computations|8|1|2022-01-03|
-|27|[hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)|Converts PE into a shellcode|1124|1|2021-10-15|
-|28|[klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)|Reed-Solomon Erasure Coding in Go|1376|1|2021-12-14|
-|29|[m0rv4i/SyscallsExample](https://github.com/m0rv4i/SyscallsExample)|Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode.|40|1|2021-11-12|
-|30|[pooler/cpuminer](https://github.com/pooler/cpuminer)|CPU miner for Litecoin and Bitcoin|2471|1|2021-10-09|
-|31|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|885|1|2022-01-09|
-|32|[2point21/lba2-classic-community](https://github.com/2point21/lba2-classic-community)|-|56|1|2021-12-22|
-|33|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|2570|1|2022-01-06|
-|34|[markmoxon/revs-beebasm](https://github.com/markmoxon/revs-beebasm)|Ongoing project to produce fully documented and annotated source code for Revs on the BBC Micro |4|1|2022-01-12|
-|35|[espressif/esp-nn](https://github.com/espressif/esp-nn)|Optimised Neural Network functions for Espressif chipsets|3|1|2022-01-10|
+|19|[Mohameosama/smart-home](https://github.com/Mohameosama/smart-home)|smart home using 8051 microcontrollers|3|1|2022-01-13|
+|20|[Myself086/Project-Nested](https://github.com/Myself086/Project-Nested)|-|333|1|2022-01-14|
+|21|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2115|1|2022-01-08|
+|22|[cesarblum/sectorforth](https://github.com/cesarblum/sectorforth)|sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector.|258|1|2021-12-09|
+|23|[jeanthom/boot2duino](https://github.com/jeanthom/boot2duino)|The World's Most Useless Arduino Platform.|47|1|2022-01-14|
+|24|[nemasu/asmttpd](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.|2806|1|2022-01-11|
+|25|[eatonphil/bootloaders](https://github.com/eatonphil/bootloaders)|Bootloader exploration|8|1|2021-12-31|
+|26|[oziphantom/QwakSNES](https://github.com/oziphantom/QwakSNES)|SNES port of the C64 port of QWAK 16K|2|1|2022-01-13|
+|27|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|2958|1|2021-12-09|
+|28|[hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)|Converts PE into a shellcode|1124|1|2021-10-15|
+|29|[klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)|Reed-Solomon Erasure Coding in Go|1376|1|2021-12-14|
+|30|[m0rv4i/SyscallsExample](https://github.com/m0rv4i/SyscallsExample)|Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode.|40|1|2021-11-12|
+|31|[pooler/cpuminer](https://github.com/pooler/cpuminer)|CPU miner for Litecoin and Bitcoin|2470|1|2021-10-09|
+|32|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|887|1|2022-01-09|
+|33|[2point21/lba2-classic-community](https://github.com/2point21/lba2-classic-community)|-|56|1|2021-12-22|
+|34|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|2571|1|2022-01-13|
+|35|[espressif/esp-nn](https://github.com/espressif/esp-nn)|Optimised Neural Network functions for Espressif chipsets|5|1|2022-01-10|
 |36|[GuillianSeed/Kings-Valley](https://github.com/GuillianSeed/Kings-Valley)|Desensamblado comentado del King's Valley (Konami, 1985)|14|1|2021-12-31|
-|37|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|1398|1|2022-01-10|
-|38|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|646|1|2021-10-02|
-|39|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|559|1|2021-10-11|
-|40|[ActualMandM/cemu_graphic_packs](https://github.com/ActualMandM/cemu_graphic_packs)|Community Graphic Packs for Cemu|1007|1|2022-01-12|
-|41|[0xADE1A1DE/AssemblyLine](https://github.com/0xADE1A1DE/AssemblyLine)|A C library and binary for generating machine code of x86_64 assembly language and executing on the fly without invoking another compiler, assembler or linker.|86|1|2022-01-04|
+|37|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|1399|1|2022-01-14|
+|38|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|647|1|2021-10-02|
+|39|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|561|1|2022-01-14|
+|40|[ActualMandM/cemu_graphic_packs](https://github.com/ActualMandM/cemu_graphic_packs)|Community Graphic Packs for Cemu|1009|1|2022-01-12|
+|41|[0xADE1A1DE/AssemblyLine](https://github.com/0xADE1A1DE/AssemblyLine)|A C library and binary for generating machine code of x86_64 assembly language and executing on the fly without invoking another compiler, assembler or linker.|87|1|2022-01-04|
 |42|[kkent030315/AurumRE](https://github.com/kkent030315/AurumRE)|Reverse engineering of Aurum Ricochet anti-cheat driver|64|1|2021-10-18|
 |43|[outflanknl/InlineWhispers](https://github.com/outflanknl/InlineWhispers)|Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF)|202|1|2021-11-09|
 |44|[lunasorcery/aoc-21](https://github.com/lunasorcery/aoc-21)|Advent of Code 2021, in pure ARM assembly on GBA.|33|1|2021-12-11|
@@ -86,7 +86,7 @@
 |79|[hcs64/neon64v2](https://github.com/hcs64/neon64v2)|NES Emulation On the N64, 2.0 WIP|33|0|2021-12-14|
 |80|[dougmasten/zx0-6x09](https://github.com/dougmasten/zx0-6x09)|A Motorola 6809 and Hitachi 6309 CPU decompressor for the ZX0 data compression format by Einar Saukas.|6|0|2021-11-20|
 |81|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|15|0|2021-12-14|
-|82|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|53|0|2022-01-13|
+|82|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Disassembly of Pokemon HeartGold|53|0|2022-01-14|
 |83|[jotd666/mspacman500](https://github.com/jotd666/mspacman500)|Remake of MsPacman in 68k assembly|2|0|2021-11-07|
 |84|[feilipu/NASCOM_BASIC_4.7](https://github.com/feilipu/NASCOM_BASIC_4.7)|NASCOM ROM BASIC Version 4.7 - (C) 1978 Microsoft|38|0|2021-08-14|
 |85|[jellees/bkgr](https://github.com/jellees/bkgr)|A decompilation of Banjo Kazooie Grunty's Revenge for GBA|19|0|2021-12-25|
@@ -111,7 +111,7 @@
 |104|[Punkline/punkpc](https://github.com/Punkline/punkpc)|Modules for working with GNU Assembler and the PowerPC instruction set|2|0|2021-12-04|
 |105|[fuzzybad/trse](https://github.com/fuzzybad/trse)|-|3|0|2022-01-02|
 |106|[therealdreg/dregshells](https://github.com/therealdreg/dregshells)|dregshells|4|0|2021-10-30|
-|107|[markmoxon/disc-elite-beebasm](https://github.com/markmoxon/disc-elite-beebasm)|Fully documented and annotated source code for the disc version of Elite on the BBC Micro|15|0|2022-01-10|
+|107|[markmoxon/disc-elite-beebasm](https://github.com/markmoxon/disc-elite-beebasm)|Fully documented and annotated source code for the disc version of Elite on the BBC Micro|15|0|2022-01-14|
 |108|[diagprov/learn](https://github.com/diagprov/learn)|Various different kinds of experiments involving programming languages. Since this is my own personal experimentation repository, pull requests will not be accepted.|4|0|2022-01-13|
 |109|[FireEmblemUniverse/SelfRandomizingRom-fe8](https://github.com/FireEmblemUniverse/SelfRandomizingRom-fe8)|-|6|0|2021-08-15|
 |110|[lampmerchant/tashtalk](https://github.com/lampmerchant/tashtalk)|An interface for Apple's LocalTalk networking protocol.|3|0|2021-10-21|
@@ -171,7 +171,7 @@
 |164|[pinobatch/pently](https://github.com/pinobatch/pently)|Scalable music engine for NES games|54|0|2021-10-31|
 |165|[MrKWatkins/ZXSpectrumNextTests](https://github.com/MrKWatkins/ZXSpectrumNextTests)|Test programs for the ZX Spectrum Next.|21|0|2022-01-11|
 |166|[picosonic/bbm](https://github.com/picosonic/bbm)|Beeb Bomber Man|4|0|2022-01-11|
-|167|[iden3/circom_runtime](https://github.com/iden3/circom_runtime)|circom runtime|9|0|2022-01-13|
+|167|[iden3/circom_runtime](https://github.com/iden3/circom_runtime)|circom runtime|9|0|2022-01-14|
 |168|[rot256/Wargames](https://github.com/rot256/Wargames)|Solutions to CTF challenges / wargames / hacking challenges|3|0|2021-07-25|
 |169|[albertonl/babyshark](https://github.com/albertonl/babyshark)|Baby Shark in different languages|3|0|2021-08-09|
 |170|[Apress/RP2040-Assembly-Language-Programming](https://github.com/Apress/RP2040-Assembly-Language-Programming)|source code|6|0|2021-11-05|
@@ -194,7 +194,7 @@
 |187|[aleezeh611/Chrome-Dinosaur-Game-Assembly-Language](https://github.com/aleezeh611/Chrome-Dinosaur-Game-Assembly-Language)|Chrome's dinosaur game but with special character and updated features to make it more interesting and fun.|2|0|2021-09-05|
 |188|[ibara/bf256](https://github.com/ibara/bf256)|Brainfuck compiler under 256 bytes in size.|14|0|2021-09-13|
 |189|[Talha-1010/Super-Mario-Game](https://github.com/Talha-1010/Super-Mario-Game)|A Super Mario Clone Game made with masm615 Assembly language|6|0|2021-08-13|
-|190|[ObjAsm/ObjAsm-C.1](https://github.com/ObjAsm/ObjAsm-C.1)|ObjAsm is a macro based single inheritance OOP implementation for x86 and x64 assembler code. It makes it very easy to carry out complex tasks and large projects. It comes with an extensive, optimized ...|15|0|2021-12-30|
+|190|[ObjAsm/ObjAsm-C.1](https://github.com/ObjAsm/ObjAsm-C.1)|ObjAsm is a macro based single inheritance OOP implementation for x86 and x64 assembler code. It makes it very easy to carry out complex tasks and large projects. It comes with an extensive, optimized ...|15|0|2022-01-13|
 |191|[GreenAndEievui/vuibui-engine](https://github.com/GreenAndEievui/vuibui-engine)|-|8|0|2021-11-29|
 |192|[guitmz/memrun](https://github.com/guitmz/memrun)|Small tool to run ELF binaries from memory with a given process name|112|0|2021-10-06|
 |193|[c64lib/chipset](https://github.com/c64lib/chipset)|Libraries that cover functionality of Commodore 64 chipset: VIC-II and CIA.|9|0|2021-11-15|
