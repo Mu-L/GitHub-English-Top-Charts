@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|309|2022-01-12|2021-02-05|
-|2|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|254|2022-01-14|2021-03-01|
+|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|310|2022-01-12|2021-02-05|
+|2|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|255|2022-01-14|2021-03-01|
 |3|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|120|2021-08-30|2021-08-21|
 |4|[ufukefe/DFM](https://github.com/ufukefe/DFM)|Python (Pytorch) and Matlab (MatConvNet) implementations of CVPR 2021 Image Matching Workshop paper DFM: A Performance Baseline for Deep Feature Matching|80|2021-11-21|2021-04-10|
 |5|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|72|2021-12-01|2021-10-17|
@@ -19,10 +19,10 @@
 |12|[vztu/RAPIQUE](https://github.com/vztu/RAPIQUE)|[IEEE OJSP'2021] "RAPIQUE: Rapid and Accurate Video Quality Prediction of User Generated Content", Zhengzhong Tu, Xiangxu Yu, Yilin Wang, Neil Birkbeck, Balu Adsumilli, Alan C. Bovik|23|2021-11-20|2021-01-22|
 |13|[baddoo/piDMD](https://github.com/baddoo/piDMD)|MATLAB codes for physics-informed dynamic mode decomposition (piDMD)|22|2021-12-16|2021-11-08|
 |14|[mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples)|This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.|22|2022-01-10|2021-05-04|
-|15|[MassimilianoPozzi/python_julia_structural_behavioral_economics](https://github.com/MassimilianoPozzi/python_julia_structural_behavioral_economics)|Python and Julia Code for Structural Behavioral Economics|20|2022-01-14|2021-11-14|
-|16|[dianixn/Signal_detection_OFDMPowerofDNN](https://github.com/dianixn/Signal_detection_OFDMPowerofDNN)|MATLAB demonstration for the paper 'Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems'|20|2021-10-02|2021-03-15|
-|17|[hassiweb/otfs-chan-est-and-eq](https://github.com/hassiweb/otfs-chan-est-and-eq)|Simulation codes for "Channel Estimation and Equalization for CP-OFDM-based OTFS in Fractional Doppler Channels"|20|2021-08-11|2021-02-26|
-|18|[fraunhoferhhi/QuaDRiGa](https://github.com/fraunhoferhhi/QuaDRiGa)|QuaDRiGa, short for QUAsi Deterministic RadIo channel GenerAtor, is used for generating realistic radio channel impulse responses for system-level simulations of mobile radio networks. |20|2021-08-03|2021-02-10|
+|15|[fraunhoferhhi/QuaDRiGa](https://github.com/fraunhoferhhi/QuaDRiGa)|QuaDRiGa, short for QUAsi Deterministic RadIo channel GenerAtor, is used for generating realistic radio channel impulse responses for system-level simulations of mobile radio networks. |21|2021-08-03|2021-02-10|
+|16|[MassimilianoPozzi/python_julia_structural_behavioral_economics](https://github.com/MassimilianoPozzi/python_julia_structural_behavioral_economics)|Python and Julia Code for Structural Behavioral Economics|20|2022-01-14|2021-11-14|
+|17|[dianixn/Signal_detection_OFDMPowerofDNN](https://github.com/dianixn/Signal_detection_OFDMPowerofDNN)|MATLAB demonstration for the paper 'Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems'|20|2021-10-02|2021-03-15|
+|18|[hassiweb/otfs-chan-est-and-eq](https://github.com/hassiweb/otfs-chan-est-and-eq)|Simulation codes for "Channel Estimation and Equalization for CP-OFDM-based OTFS in Fractional Doppler Channels"|20|2021-08-11|2021-02-26|
 |19|[iqiukp/ZoomPlot-MATLAB](https://github.com/iqiukp/ZoomPlot-MATLAB)|MATLAB Code for Interactive Magnification of the customized regions.|18|2021-10-18|2021-06-10|
 |20|[gfxdisp/FovVideoVDP](https://github.com/gfxdisp/FovVideoVDP)|FovVideoVDP: A visible difference predictor for wide field-of-view video|18|2022-01-05|2021-04-16|
 |21|[mathworks/Quadcopter-Drone-Model-Simscape](https://github.com/mathworks/Quadcopter-Drone-Model-Simscape)|Quadcopter with multibody, electrical and thermal models follows a path to deliver a package.|16|2021-12-01|2021-10-14|
@@ -48,7 +48,7 @@
 |41|[FFI-no/n-vector](https://github.com/FFI-no/n-vector)|Geographical position calculations – simple and exact solutions by means of n-vector 🌍|11|2021-08-23|2021-06-25|
 |42|[meinardmueller/libtsm](https://github.com/meinardmueller/libtsm)|-|11|2021-08-03|2021-06-24|
 |43|[borealis31/MW208_AUTON_RACECARS](https://github.com/borealis31/MW208_AUTON_RACECARS)|An attempt at MathWorks' Excellence in Innovation Project 208|11|2021-10-26|2021-06-03|
-|44|[baddoo/LANDO](https://github.com/baddoo/LANDO)|Codes for Linear and Nonlinear Disambiguation Optimization (LANDO)|11|2021-11-21|2021-05-28|
+|44|[baddoo/LANDO](https://github.com/baddoo/LANDO)|Codes for Linear and Nonlinear Disambiguation Optimization (LANDO)|11|2022-01-15|2021-05-28|
 |45|[weizhou-geek/SFSN](https://github.com/weizhou-geek/SFSN)| Implementation of QoMEX 2021 "Image Super-Resolution Quality Assessment: Structural Fidelity Versus Statistical Naturalness"|11|2021-08-18|2021-05-12|
 |46|[98210184/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning](https://github.com/98210184/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning)|System Identification and Self-Tuning PID Control using NN|11|2021-08-16|2021-04-23|
 |47|[mmikaitis/anymatrix](https://github.com/mmikaitis/anymatrix)|A MATLAB matrix collection with an interface to organize matrices|11|2022-01-10|2021-03-30|
@@ -91,18 +91,18 @@
 |84|[polarch/COMPASS-ref](https://github.com/polarch/COMPASS-ref)|COding and Multidirectional Parameterization of Ambisonic Sound Scenes (COMPASS) reference implementation.|8|2021-11-17|2021-08-30|
 |85|[ryhattori/PatchWarp](https://github.com/ryhattori/PatchWarp)|Image processing pipeline to correct motion artifacts and complex image distortions in neuronal calcium imaging data.|8|2022-01-10|2021-08-22|
 |86|[snehalbhayani/SemiGeneralizedHomography](https://github.com/snehalbhayani/SemiGeneralizedHomography)|-|8|2021-10-11|2021-08-14|
-|87|[aoffahad/Bisection-Method-](https://github.com/aoffahad/Bisection-Method-)|MATLAB CODE TO FIND ROOT OF EQUATION USING BISECTION METHOD|8|2021-07-16|2021-07-16|
-|88|[antoinefalisse/ISB21-workshop](https://github.com/antoinefalisse/ISB21-workshop)|Hands-on example for the workshop on optimal control in biomechanics at ISB 2021.|8|2021-07-26|2021-07-16|
-|89|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|2021-09-28|2021-07-04|
-|90|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
-|91|[DevComPsy/2021FluxCompModellingWorkshop](https://github.com/DevComPsy/2021FluxCompModellingWorkshop)|scripts for the computational modelling workshop at FLUX 2021|8|2021-10-26|2021-06-02|
-|92|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-01-02|2021-05-28|
-|93|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-01-14|2021-04-17|
-|94|[QMagen/QMagen](https://github.com/QMagen/QMagen)|-|8|2021-10-05|2021-03-11|
-|95|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-01-14|2021-02-22|
-|96|[mid2SUPAERO/EMTO](https://github.com/mid2SUPAERO/EMTO)|Efficient Multiscale Topology Optimization|8|2021-09-28|2021-02-17|
-|97|[trinhudo/Multi-RIS](https://github.com/trinhudo/Multi-RIS)|Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis|8|2021-10-05|2021-02-09|
-|98|[CUTeamGolf/ConsignmentTetris](https://github.com/CUTeamGolf/ConsignmentTetris)|A robotic arm that efficiently plans and packs 3D objects into a box. Part IB group project at the University of Cambridge|8|2021-09-28|2021-01-29|
+|87|[antoinefalisse/ISB21-workshop](https://github.com/antoinefalisse/ISB21-workshop)|Hands-on example for the workshop on optimal control in biomechanics at ISB 2021.|8|2021-07-26|2021-07-16|
+|88|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|2021-09-28|2021-07-04|
+|89|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
+|90|[DevComPsy/2021FluxCompModellingWorkshop](https://github.com/DevComPsy/2021FluxCompModellingWorkshop)|scripts for the computational modelling workshop at FLUX 2021|8|2021-10-26|2021-06-02|
+|91|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-01-02|2021-05-28|
+|92|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-01-14|2021-04-17|
+|93|[QMagen/QMagen](https://github.com/QMagen/QMagen)|-|8|2021-10-05|2021-03-11|
+|94|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-01-14|2021-02-22|
+|95|[mid2SUPAERO/EMTO](https://github.com/mid2SUPAERO/EMTO)|Efficient Multiscale Topology Optimization|8|2021-09-28|2021-02-17|
+|96|[trinhudo/Multi-RIS](https://github.com/trinhudo/Multi-RIS)|Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis|8|2021-10-05|2021-02-09|
+|97|[CUTeamGolf/ConsignmentTetris](https://github.com/CUTeamGolf/ConsignmentTetris)|A robotic arm that efficiently plans and packs 3D objects into a box. Part IB group project at the University of Cambridge|8|2021-09-28|2021-01-29|
+|98|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|-|7|2022-01-14|2021-12-17|
 |99|[maolingao/IsoMuSh](https://github.com/maolingao/IsoMuSh)|the official implementation of the paper "Isometric Multi-Shape Matching" (CVPR 2021)|7|2021-12-03|2021-10-26|
 |100|[atharvaaalok/MATLAB_Defaults](https://github.com/atharvaaalok/MATLAB_Defaults)|A MATLAB repository for setting defaults especially for improving plots|7|2021-10-17|2021-10-17|
 |101|[soc-ucsd/DeeP-LCC](https://github.com/soc-ucsd/DeeP-LCC)|DeeP-LCC for mixed traffic|7|2021-10-19|2021-10-11|
@@ -124,7 +124,7 @@
 |117|[roslovets/Live-Script-to-Markdown-Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)|Easily convert MATLAB live scripts to markdown files|7|2021-12-22|2021-03-28|
 |118|[kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)|A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.|7|2021-09-19|2021-03-18|
 |119|[MariusKlug/zapline-plus](https://github.com/MariusKlug/zapline-plus)|Improvements of the ZapLine function to remove line noise from EEG/MEG data. Adds automatic detection of the number of components to remove, and chunks the data into segments to account for nonstation ...|7|2021-12-14|2021-03-17|
-|120|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|7|2022-01-13|2021-03-12|
+|120|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|7|2022-01-15|2021-03-12|
 |121|[WuLabMDA/HierarchicalGraphModeling](https://github.com/WuLabMDA/HierarchicalGraphModeling)|Cellular Spatial Pattern Mining via Unsupervised Clustering and Graph Modeling|7|2021-09-28|2021-02-21|
 |122|[Covid19OutputJapan/Covid19OutputJapan.github.io](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io)|Covid-19 and Output in Japan|7|2021-11-02|2021-01-18|
 |123|[Tingliangstu/PPR-Phonon-Participation-Ratio](https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio)|Calculation of phonon participation rates - used to characterize atomic vibrational information including the degree of localization and delocalization.|6|2022-01-05|2022-01-05|
@@ -190,7 +190,7 @@
 |183|[chrsengel/cv2-matlab-stuff](https://github.com/chrsengel/cv2-matlab-stuff)|CV2 Matlab stuff|5|2021-07-27|2021-07-25|
 |184|[gonzafernan/self-balancing-lqg](https://github.com/gonzafernan/self-balancing-lqg)|Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody|5|2021-11-25|2021-07-22|
 |185|[fcm47/Partial-Ambguity-Resolution-PAR-](https://github.com/fcm47/Partial-Ambguity-Resolution-PAR-)|Partial ambiguity fixing technique is developed to improve the reliability of AR, involving partial ambiguity decorrelation (PAD) and partial ambiguity resolution (PAR). Including C and Matlab version|5|2021-07-20|2021-07-20|
-|186|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2021-11-28|2021-07-19|
+|186|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2022-01-15|2021-07-19|
 |187|[ricbl/eyetracking](https://github.com/ricbl/eyetracking)|This code was used to collect, process, and validate the REFLACX (Reports and Eye-Tracking Data for Localization of Abnormalities in Chest X-rays) dataset|5|2021-10-04|2021-07-14|
 |188|[TolisChal/portfolio_scoring](https://github.com/TolisChal/portfolio_scoring)|-|5|2021-09-10|2021-07-10|
 |189|[ANDREWNGT/FORMFLYT](https://github.com/ANDREWNGT/FORMFLYT)|:earth_asia: :satellite: :earth_asia: :satellite: FORMFLYT - High fidelity orbit propagation for formation flying control in MATLAB!|5|2022-01-07|2021-07-09|

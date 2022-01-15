@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@
 |24|[q60/audna](https://github.com/q60/audna)|Random quote fetching console utility.|11|2021-08-24|2021-08-24|
 |25|[vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker)|vnStat in a container with image output via http|11|2022-01-03|2021-05-17|
 |26|[fanagislab/EndHiC](https://github.com/fanagislab/EndHiC)|EndHic is a fast and easy-to-use Hi-C scaffolding tool, using the Hi-C links from contig end regions instead of whole contig regions to assemble large contigs into chromosomal-level scaffolds. EndHiC  ...|10|2021-12-02|2021-09-18|
-|27|[gugod/taiwan-covid19-vaccination-progress-bot](https://github.com/gugod/taiwan-covid19-vaccination-progress-bot)|A twitter bot that posts the progress of covid19 vaccination in Taiwan|10|2022-01-01|2021-06-07|
+|27|[gugod/taiwan-covid19-vaccination-progress-bot](https://github.com/gugod/taiwan-covid19-vaccination-progress-bot)|A twitter bot that posts the progress of covid19 vaccination in Taiwan|10|2022-01-15|2021-06-07|
 |28|[lifebottle/Narikiri-Dungeon-X](https://github.com/lifebottle/Narikiri-Dungeon-X)|An attempt to create a patch for Narikiri Dungeon X (PSP).|10|2022-01-08|2021-04-20|
 |29|[OpensourceICTSolutions/zabbix-mysql-partitioning-perl](https://github.com/OpensourceICTSolutions/zabbix-mysql-partitioning-perl)|This script is a script written in Perl to partition the Zabbix database tables in time based chunks. We can use this script to replace the Zabbix housekeeper process which tends to get too slow once  ...|10|2022-01-03|2021-02-19|
 |30|[JJ/IV-21-22](https://github.com/JJ/IV-21-22)|Repo de interacción con estudiantes, infraestructura virtual 2021-22, ETSIIT, UGR|9|2022-01-14|2021-08-27|
@@ -52,7 +52,7 @@
 |45|[thunderpoot/cliptoe](https://github.com/thunderpoot/cliptoe)|Command Line Interactive Periodic Table of Elements|6|2021-12-19|2021-12-16|
 |46|[mizlan/guitar-scale-chart](https://github.com/mizlan/guitar-scale-chart)|Pretty guitar scales in your terminal|6|2022-01-09|2021-10-23|
 |47|[dqwang122/MLROUGE](https://github.com/dqwang122/MLROUGE)|ROUGE for multilingual Summarization|6|2021-10-11|2021-10-11|
-|48|[AF-1/lms-dynamicplaylists](https://github.com/AF-1/lms-dynamicplaylists)|Dynamic Playlists - a plugin for Logitech Media Server that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.|6|2022-01-07|2021-08-29|
+|48|[AF-1/lms-dynamicplaylists](https://github.com/AF-1/lms-dynamicplaylists)|Dynamic Playlists - a plugin for Logitech Media Server that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.|6|2022-01-15|2021-08-29|
 |49|[Wafelack/rms-travelling-wallpapers](https://github.com/Wafelack/rms-travelling-wallpapers)|A script changing your wallpaper with RMS travelling pictures.|6|2021-08-27|2021-08-26|
 |50|[BlackCage/PersonalKit](https://github.com/BlackCage/PersonalKit)|Basic tool for collecting information.|6|2021-08-03|2021-08-03|
 |51|[bbrtj/btcpaywall](https://github.com/bbrtj/btcpaywall)|Self-hosted bitcoin payment system|6|2021-11-12|2021-06-15|
@@ -66,23 +66,23 @@
 |59|[zhangzx-uiuc/Knowledge-AMR](https://github.com/zhangzx-uiuc/Knowledge-AMR)|-|5|2021-12-07|2021-05-23|
 |60|[deependhulla/addon-for-proxmox-mail-gateway](https://github.com/deependhulla/addon-for-proxmox-mail-gateway)|Addon For Proxmox Mail Gateway for More filter|5|2021-07-31|2021-03-18|
 |61|[djconnel/processGPX](https://github.com/djconnel/processGPX)|-|5|2022-01-09|2021-03-02|
-|62|[eandresleon/miARma-seq](https://github.com/eandresleon/miARma-seq)|miARma-seq: a comprehensive tool for miRNA, mRNA and circRNA analysis|4|2021-10-27|2021-10-27|
-|63|[jpedro1992/pushing-netperf-metrics-to-prometheus](https://github.com/jpedro1992/pushing-netperf-metrics-to-prometheus)|Repository for the netperf component used by the Network-Aware framework for the Kubernetes platform based the Scheduler Framework|4|2021-12-09|2021-10-21|
-|64|[hac4allofficial/Admin-Finder](https://github.com/hac4allofficial/Admin-Finder)|-|4|2021-10-13|2021-10-13|
-|65|[Fourmilab/unum](https://github.com/Fourmilab/unum)|Utility for looking up Unicode characters and HTML entities by code, name, block, or description.  Written in Perl, compatible with almost any system that runs Perl.|4|2021-09-20|2021-09-20|
-|66|[tulabcode/G4-miner](https://github.com/tulabcode/G4-miner)|Direct genome-wide identification of G-quadruplex structures by whole-genome resequencing|4|2022-01-08|2021-09-17|
-|67|[Wafelack/xbps-freedom](https://github.com/Wafelack/xbps-freedom)|XBPS tool to list and count packages that respect your freedom|4|2021-09-08|2021-09-08|
-|68|[capezotte/artix-elogind-smdev](https://github.com/capezotte/artix-elogind-smdev)|Outputs a massive shell script that gets smdev+processdev to cooperate with elogind's seat management|4|2021-11-21|2021-09-03|
-|69|[bestpractical/rtir-extension-misp](https://github.com/bestpractical/rtir-extension-misp)|-|4|2021-11-03|2021-08-13|
-|70|[rancher-sandbox/lima-and-qemu](https://github.com/rancher-sandbox/lima-and-qemu)|Packaging lima and qemu (and dependencies) for embedding into an application|4|2022-01-13|2021-08-07|
-|71|[aloistr/perl-sweph](https://github.com/aloistr/perl-sweph)|perl module encapsulating the Swiss Ephemeris library|4|2021-08-07|2021-07-22|
-|72|[caixu0518/ITIPs](https://github.com/caixu0518/ITIPs)|Identification of transposable element insertion polymorphisms (TIPs) based on a pan-genome and large-scale resequencing data|4|2022-01-03|2021-07-22|
-|73|[skbkontur/perl-jsonschema-validator](https://github.com/skbkontur/perl-jsonschema-validator)|JSON Schema and OpenAPI data validator for Perl|4|2021-12-01|2021-07-02|
-|74|[bmeneg/botzao](https://github.com/bmeneg/botzao)|The most amazing Chat Bot ever.. that's the BotZão!|4|2021-11-20|2021-06-04|
-|75|[rfht/Porcelain](https://github.com/rfht/Porcelain)|Gemini browser written Perl, using OpenBSD's pledge(2) and unveil(2)|4|2021-09-03|2021-02-10|
-|76|[NorESMhub/NorESM_LandSites_Platform](https://github.com/NorESMhub/NorESM_LandSites_Platform)|-|4|2022-01-14|2021-02-09|
-|77|[eekboek/eekboek](https://github.com/eekboek/eekboek)|Dutch bookkeeping application|4|2021-08-04|2021-01-15|
-|78|[Corion/Speech-Recognition-Vosk](https://github.com/Corion/Speech-Recognition-Vosk)|Interface to Vosk Offline Speech Recognition API|3|2022-01-12|2022-01-10|
+|62|[NorESMhub/NorESM_LandSites_Platform](https://github.com/NorESMhub/NorESM_LandSites_Platform)|-|5|2022-01-14|2021-02-09|
+|63|[eandresleon/miARma-seq](https://github.com/eandresleon/miARma-seq)|miARma-seq: a comprehensive tool for miRNA, mRNA and circRNA analysis|4|2021-10-27|2021-10-27|
+|64|[jpedro1992/pushing-netperf-metrics-to-prometheus](https://github.com/jpedro1992/pushing-netperf-metrics-to-prometheus)|Repository for the netperf component used by the Network-Aware framework for the Kubernetes platform based the Scheduler Framework|4|2021-12-09|2021-10-21|
+|65|[hac4allofficial/Admin-Finder](https://github.com/hac4allofficial/Admin-Finder)|-|4|2021-10-13|2021-10-13|
+|66|[Fourmilab/unum](https://github.com/Fourmilab/unum)|Utility for looking up Unicode characters and HTML entities by code, name, block, or description.  Written in Perl, compatible with almost any system that runs Perl.|4|2021-09-20|2021-09-20|
+|67|[tulabcode/G4-miner](https://github.com/tulabcode/G4-miner)|Direct genome-wide identification of G-quadruplex structures by whole-genome resequencing|4|2022-01-08|2021-09-17|
+|68|[Wafelack/xbps-freedom](https://github.com/Wafelack/xbps-freedom)|XBPS tool to list and count packages that respect your freedom|4|2021-09-08|2021-09-08|
+|69|[capezotte/artix-elogind-smdev](https://github.com/capezotte/artix-elogind-smdev)|Outputs a massive shell script that gets smdev+processdev to cooperate with elogind's seat management|4|2021-11-21|2021-09-03|
+|70|[bestpractical/rtir-extension-misp](https://github.com/bestpractical/rtir-extension-misp)|-|4|2021-11-03|2021-08-13|
+|71|[rancher-sandbox/lima-and-qemu](https://github.com/rancher-sandbox/lima-and-qemu)|Packaging lima and qemu (and dependencies) for embedding into an application|4|2022-01-13|2021-08-07|
+|72|[aloistr/perl-sweph](https://github.com/aloistr/perl-sweph)|perl module encapsulating the Swiss Ephemeris library|4|2021-08-07|2021-07-22|
+|73|[caixu0518/ITIPs](https://github.com/caixu0518/ITIPs)|Identification of transposable element insertion polymorphisms (TIPs) based on a pan-genome and large-scale resequencing data|4|2022-01-03|2021-07-22|
+|74|[skbkontur/perl-jsonschema-validator](https://github.com/skbkontur/perl-jsonschema-validator)|JSON Schema and OpenAPI data validator for Perl|4|2021-12-01|2021-07-02|
+|75|[bmeneg/botzao](https://github.com/bmeneg/botzao)|The most amazing Chat Bot ever.. that's the BotZão!|4|2021-11-20|2021-06-04|
+|76|[rfht/Porcelain](https://github.com/rfht/Porcelain)|Gemini browser written Perl, using OpenBSD's pledge(2) and unveil(2)|4|2021-09-03|2021-02-10|
+|77|[Corion/Speech-Recognition-Vosk](https://github.com/Corion/Speech-Recognition-Vosk)|Interface to Vosk Offline Speech Recognition API|3|2022-01-12|2022-01-10|
+|78|[bmwiedemann/bench-http](https://github.com/bmwiedemann/bench-http)|-|3|2022-01-15|2022-01-03|
 |79|[nekoponpl/nazareth.nekopon.pl](https://github.com/nekoponpl/nazareth.nekopon.pl)|Configs used on nazareth.nekopon.pl; OS: OpenBSD 7.0|3|2022-01-13|2022-01-01|
 |80|[seanpm2001/Browsniffica](https://github.com/seanpm2001/Browsniffica)|Browsniffica is a browser sniffing workaround, allowing you to test any webpage in any browser in the way it was designed to be. It is a testing tool for WHATWG websites.|3|2021-12-07|2021-12-07|
 |81|[akshatmittal2002/Spell-Checker](https://github.com/akshatmittal2002/Spell-Checker)|Check spellings of word present in dictionary; you can add more words into it; add to dictionary feature|3|2021-12-01|2021-12-01|
@@ -99,7 +99,7 @@
 |92|[lixinyu2001/eesen-pytorch-thchs30](https://github.com/lixinyu2001/eesen-pytorch-thchs30)|-|3|2021-07-30|2021-07-30|
 |93|[DisheartenedEthereal/dotfiles](https://github.com/DisheartenedEthereal/dotfiles)|My dotfiles for my linux workstation, i use this for programming and red team activites.|3|2021-12-07|2021-07-14|
 |94|[mag-wolf/BUSCO-to-Phylogeny](https://github.com/mag-wolf/BUSCO-to-Phylogeny)|Building a fully automized pipeline for phylogenomic analyses based on the BUSCO toolkit|3|2021-10-21|2021-07-05|
-|95|[polettix/App-Easer](https://github.com/polettix/App-Easer)|Simplify writing (hierarchical) CLI applications in Perl|3|2021-12-17|2021-07-02|
+|95|[polettix/App-Easer](https://github.com/polettix/App-Easer)|Simplify writing (hierarchical) CLI applications in Perl|3|2022-01-15|2021-07-02|
 |96|[liusy-jz/MRBIGR](https://github.com/liusy-jz/MRBIGR)|Mendelian Randomization-Based Inference of Genetic Regulation|3|2021-10-28|2021-07-01|
 |97|[leon-wolf/znuny-playbook](https://github.com/leon-wolf/znuny-playbook)|Vagrant and Ansible Setup for Znuny / ((OTRS)) CE for Development on M1 Mac|3|2022-01-12|2021-06-16|
 |98|[broadinstitute/polyphonia](https://github.com/broadinstitute/polyphonia)|Detects cross-contamination in sequence data.|3|2021-11-02|2021-06-10|
@@ -111,10 +111,10 @@
 |104|[bernisys/cacti-templates](https://github.com/bernisys/cacti-templates)|-|3|2021-08-09|2021-03-02|
 |105|[lanmarc77/smtp_scan](https://github.com/lanmarc77/smtp_scan)|-|3|2021-08-30|2021-02-28|
 |106|[greg-kennedy/nfo2png](https://github.com/greg-kennedy/nfo2png)|Render ASCII text files to PNG images|3|2021-11-06|2021-02-28|
-|107|[gugod/today-in-taiwan-history-bot](https://github.com/gugod/today-in-taiwan-history-bot)|-|3|2021-07-16|2021-02-13|
-|108|[Kreablo/koha-plugin-vendor-acquisition](https://github.com/Kreablo/koha-plugin-vendor-acquisition)|-|3|2021-11-15|2021-02-09|
-|109|[SamLMG/MitoComp](https://github.com/SamLMG/MitoComp)|-|3|2021-11-09|2021-02-05|
-|110|[bbrtj/perl-radio](https://github.com/bbrtj/perl-radio)|Radio streamer|3|2021-11-23|2021-02-02|
+|107|[Kreablo/koha-plugin-vendor-acquisition](https://github.com/Kreablo/koha-plugin-vendor-acquisition)|-|3|2021-11-15|2021-02-09|
+|108|[SamLMG/MitoComp](https://github.com/SamLMG/MitoComp)|-|3|2021-11-09|2021-02-05|
+|109|[bbrtj/perl-radio](https://github.com/bbrtj/perl-radio)|Radio streamer|3|2021-11-23|2021-02-02|
+|110|[Wahyu213/scripts](https://github.com/Wahyu213/scripts)|Lean's scripts source|2|2022-01-08|2022-01-08|
 |111|[vladimirz29/MSSQL2PgSQL](https://github.com/vladimirz29/MSSQL2PgSQL)|Convert your DB from MS SQL to PostgreSQL scheme|2|2021-12-07|2021-12-07|
 |112|[gerph/stronghelp-internet](https://github.com/gerph/stronghelp-internet)|RISC OS StrongHelp manual generation for the Internet manuals.|2|2021-12-09|2021-12-07|
 |113|[Joshua-Devine/Detect-and-Report-Azure-IP-Address-Changes](https://github.com/Joshua-Devine/Detect-and-Report-Azure-IP-Address-Changes)|Perl script that will query an external website to download and filter on available data centers, regions, and services available from the Microsoft Azure cloud services in order to report on publishe ...|2|2021-12-03|2021-12-03|
@@ -173,7 +173,6 @@
 |166|[TF-Chan-Lab/miRDeep-P2_pipeline](https://github.com/TF-Chan-Lab/miRDeep-P2_pipeline)|-|2|2021-09-27|2021-02-06|
 |167|[briandfoy/antsy](https://github.com/briandfoy/antsy)|(Perl) Streaming ANSI escape sequences|2|2021-12-24|2021-02-05|
 |168|[spencertipping/bipolar](https://github.com/spencertipping/bipolar)|-|2|2021-08-07|2021-01-20|
-|169|[PerlServices/OPM-Validate](https://github.com/PerlServices/OPM-Validate)|Validate OPM packages for ticketsystems|2|2021-10-01|2021-01-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

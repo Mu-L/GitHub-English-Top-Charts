@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1239|2021-12-19|2021-03-05|
-|2|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|172|2022-01-13|2021-05-07|
-|3|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|139|2022-01-13|2022-01-06|
-|4|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|127|2021-12-21|2021-09-15|
+|2|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|199|2022-01-15|2022-01-06|
+|3|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|172|2022-01-15|2021-05-07|
+|4|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|128|2021-12-21|2021-09-15|
 |5|[caiodelgadonew/docker-dca](https://github.com/caiodelgadonew/docker-dca)|Repository for Docker DCA FREE Course|121|2021-08-05|2021-06-02|
 |6|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|107|2022-01-14|2021-12-06|
 |7|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|106|2021-12-30|2021-05-30|
 |8|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|105|2022-01-06|2021-05-07|
 |9|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|83|2022-01-10|2021-09-06|
-|10|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|82|2022-01-06|2021-02-23|
+|10|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|83|2022-01-06|2021-02-23|
 |11|[joao99sb/OwnLinuxDistro](https://github.com/joao99sb/OwnLinuxDistro)|My Logbook through this sea of technology|78|2021-11-05|2021-09-24|
 |12|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|75|2021-12-28|2021-05-14|
-|13|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|74|2021-12-29|2021-02-28|
-|14|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|73|2022-01-13|2021-03-30|
+|13|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|75|2022-01-13|2021-03-30|
+|14|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|74|2021-12-29|2021-02-28|
 |15|[buraksecer/linux-101](https://github.com/buraksecer/linux-101)|Anyone who wants to learn Linux can read and add new information they learn.|71|2022-01-12|2021-12-07|
 |16|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|67|2021-11-06|2021-07-25|
 |17|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|63|2021-12-27|2021-04-04|
 |18|[philippecrowdsec/iptables-nftables-multiroute-firewall](https://github.com/philippecrowdsec/iptables-nftables-multiroute-firewall)|A collection of nftables, multi routing scripts, port knocked, and iptables files. To get inspiration to make your own firewalls.|54|2021-10-02|2021-08-30|
 |19|[Aju100/VulWebaju](https://github.com/Aju100/VulWebaju)|VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes. |53|2022-01-11|2021-04-12|
 |20|[RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses)|A list of publicly available room impulse response datasets and scripts to download them. |50|2021-08-31|2021-03-19|
-|21|[dn0m1n8tor/project-morya](https://github.com/dn0m1n8tor/project-morya)|Project Morya is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized way|48|2021-11-12|2021-07-13|
+|21|[dn0m1n8tor/project-morya](https://github.com/dn0m1n8tor/project-morya)|Project Morya is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized way|49|2021-11-12|2021-07-13|
 |22|[cosminmocan/vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough)|This repo is a tutorial for single amd gpu passthrough to various qemu VMs|48|2021-10-06|2021-01-17|
 |23|[FabulousCupcake/umamusume-db-translate](https://github.com/FabulousCupcake/umamusume-db-translate)|Translate Umamusume by patching master.mdb|47|2021-12-14|2021-03-10|
 |24|[YouGina/reconmaster](https://github.com/YouGina/reconmaster)|ReconMaster contest - scripts used and a write-up|45|2021-09-20|2021-09-08|
@@ -48,11 +48,12 @@
 |41|[bensuperpc/scripts](https://github.com/bensuperpc/scripts)|Collection of useful scripts for Linux (git, docker, LUKS, manjaro...)|25|2022-01-06|2021-05-27|
 |42|[dehys/lib.sh](https://github.com/dehys/lib.sh)|My collection of script's to enhance workflow for software development.|25|2021-10-21|2021-02-14|
 |43|[suve/rust-on-android](https://github.com/suve/rust-on-android)|An example showing how to run Rust code on Android|24|2021-09-28|2021-04-03|
-|44|[fluidex/fluidex-backend](https://github.com/fluidex/fluidex-backend)|Building the first permissionless layer2 orderbook DEX on Ethereum, powered by PLONK zk-rollup|20|2021-12-08|2021-06-24|
-|45|[grahamhelton/spoofpoint](https://github.com/grahamhelton/spoofpoint)|Spoofpoint is a domain monitoring tool that allows you to generate a list of domains that are 1 character off of your domain (grahamhelton.com turns into -> grahamheIton.com ((The L is a capital I )), ...|19|2021-08-10|2021-07-27|
-|46|[plattysoft/Modern-MSX-BASIC-Game-Dev](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)|Examples, demos and scripts from the book "Modern MSX-BASIC Game Development"|19|2021-08-29|2021-06-06|
-|47|[codingforentrepreneurs/Pi-Awesome](https://github.com/codingforentrepreneurs/Pi-Awesome)|References and guides to using & setting up a raspberry pi for your projects.|19|2021-09-12|2021-04-28|
-|48|[RHsyseng/openshift-checks](https://github.com/RHsyseng/openshift-checks)|A collection of scripts to check the health of an OpenShift cluster|18|2021-12-07|2021-02-03|
+|44|[TRaSH-/Guides-Synology-Templates](https://github.com/TRaSH-/Guides-Synology-Templates)|Here you will find a collection of docker-compose's for Synology related to TRaSH Guides|24|2022-01-13|2021-01-26|
+|45|[fluidex/fluidex-backend](https://github.com/fluidex/fluidex-backend)|Building the first permissionless layer2 orderbook DEX on Ethereum, powered by PLONK zk-rollup|20|2021-12-08|2021-06-24|
+|46|[grahamhelton/spoofpoint](https://github.com/grahamhelton/spoofpoint)|Spoofpoint is a domain monitoring tool that allows you to generate a list of domains that are 1 character off of your domain (grahamhelton.com turns into -> grahamheIton.com ((The L is a capital I )), ...|19|2021-08-10|2021-07-27|
+|47|[plattysoft/Modern-MSX-BASIC-Game-Dev](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)|Examples, demos and scripts from the book "Modern MSX-BASIC Game Development"|19|2021-08-29|2021-06-06|
+|48|[codingforentrepreneurs/Pi-Awesome](https://github.com/codingforentrepreneurs/Pi-Awesome)|References and guides to using & setting up a raspberry pi for your projects.|19|2021-09-12|2021-04-28|
+|49|[RHsyseng/openshift-checks](https://github.com/RHsyseng/openshift-checks)|A collection of scripts to check the health of an OpenShift cluster|18|2021-12-07|2021-02-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
