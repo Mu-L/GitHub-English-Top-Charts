@@ -1,55 +1,55 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Python
-<sub>Updated: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|16677|2022-01-12|2021-03-19|
-|2|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3520|2021-12-19|2021-05-08|
-|3|[facebookresearch/dino](https://github.com/facebookresearch/dino)|PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO|3192|2022-01-05|2021-04-21|
+|1|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|16697|2022-01-12|2021-03-19|
+|2|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3546|2021-12-19|2021-05-08|
+|3|[facebookresearch/dino](https://github.com/facebookresearch/dino)|PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO|3196|2022-01-05|2021-04-21|
 |4|[pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)|Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners|1879|2021-11-30|2021-11-13|
-|5|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1639|2021-11-26|2021-04-16|
-|6|[WongKinYiu/yolor](https://github.com/WongKinYiu/yolor)|implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)|1286|2022-01-13|2021-04-12|
-|7|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1132|2022-01-05|2021-09-01|
-|8|[stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)|How to exploit a double free vulnerability in 2021. 'Use After Free for Dummies'|1125|2021-10-31|2021-10-26|
-|9|[thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)|An Open-Source Framework for Prompt-Learning.|1072|2022-01-12|2021-09-30|
-|10|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|972|2021-12-21|2021-05-21|
+|5|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1641|2021-11-26|2021-04-16|
+|6|[WongKinYiu/yolor](https://github.com/WongKinYiu/yolor)|implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)|1288|2022-01-13|2021-04-12|
+|7|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1136|2022-01-05|2021-09-01|
+|8|[stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)|How to exploit a double free vulnerability in 2021. 'Use After Free for Dummies'|1126|2021-10-31|2021-10-26|
+|9|[thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)|An Open-Source Framework for Prompt-Learning.|1073|2022-01-12|2021-09-30|
+|10|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|971|2021-12-21|2021-05-21|
 |11|[rand-net/khan-dl](https://github.com/rand-net/khan-dl)|Download courses from  khanacademy.org |792|2021-08-27|2021-01-25|
 |12|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|691|2021-10-01|2021-05-25|
 |13|[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)|A Collection of Awesome Tools and Scripts for Cloud Engineers|689|2021-12-09|2021-03-13|
-|14|[vturrisi/solo-learn](https://github.com/vturrisi/solo-learn)|solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning|599|2022-01-14|2021-03-06|
+|14|[vturrisi/solo-learn](https://github.com/vturrisi/solo-learn)|solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning|601|2022-01-14|2021-03-06|
 |15|[microsoft/SoftTeacher](https://github.com/microsoft/SoftTeacher)|Semi-Supervised Learning, Object Detection, ICCV2021|580|2021-11-29|2021-08-06|
 |16|[rbignon/doctoshotgun](https://github.com/rbignon/doctoshotgun)|Script to automatically book a vaccine slot on Doctolib in the next seven days.|557|2021-12-19|2021-05-16|
-|17|[TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL)|A PyTorch-based library for semi-supervised learning (NeurIPS'21)|554|2022-01-13|2021-10-12|
+|17|[TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL)|A PyTorch-based library for semi-supervised learning (NeurIPS'21)|555|2022-01-15|2021-10-12|
 |18|[Thinklab-SJTU/awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)|Awesome machine learning for combinatorial optimization papers.|546|2021-12-28|2021-03-21|
 |19|[davidbrochart/nbterm](https://github.com/davidbrochart/nbterm)|Jupyter Notebooks in the terminal.|541|2021-12-12|2021-04-05|
 |20|[lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)|Implementation of TimeSformer from Facebook AI, a pure attention-based solution for video classification|523|2021-08-25|2021-02-11|
-|21|[ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython)|Code examples for my Write Better Python Code series on YouTube.|478|2021-11-30|2021-01-17|
-|22|[jayleicn/ClipBERT](https://github.com/jayleicn/ClipBERT)|[CVPR 2021 Best Student Paper Honorable Mention, Oral] Official PyTorch code for ClipBERT, an efficient framework for end-to-end learning on image-text and video-text tasks. |472|2021-07-27|2021-02-10|
-|23|[RL-VIG/LibFewShot](https://github.com/RL-VIG/LibFewShot)|LibFewShot: A Comprehensive Library for Few-shot Learning.|470|2022-01-12|2021-08-04|
+|21|[ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython)|Code examples for my Write Better Python Code series on YouTube.|479|2021-11-30|2021-01-17|
+|22|[jayleicn/ClipBERT](https://github.com/jayleicn/ClipBERT)|[CVPR 2021 Best Student Paper Honorable Mention, Oral] Official PyTorch code for ClipBERT, an efficient framework for end-to-end learning on image-text and video-text tasks. |473|2021-07-27|2021-02-10|
+|23|[RL-VIG/LibFewShot](https://github.com/RL-VIG/LibFewShot)|LibFewShot: A Comprehensive Library for Few-shot Learning.|471|2022-01-12|2021-08-04|
 |24|[booknlp/booknlp](https://github.com/booknlp/booknlp)|BookNLP, a natural language processing pipeline for books|460|2021-12-03|2021-11-22|
 |25|[YeWR/EfficientZero](https://github.com/YeWR/EfficientZero)|Open-source codebase for EfficientZero, from "Mastering Atari Games with Limited Data" at NeurIPS 2021.|446|2021-12-14|2021-10-21|
-|26|[karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite)|arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.|433|2021-12-19|2021-11-13|
+|26|[karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite)|arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.|434|2021-12-19|2021-11-13|
 |27|[joouha/euporie](https://github.com/joouha/euporie)|Euporie is a text-based user interface for running and editing Jupyter notebooks|431|2022-01-14|2021-05-08|
 |28|[dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)|List of content farm sites like g.penzai.com.|416|2021-12-28|2021-10-09|
 |29|[relogX/system-design-questions](https://github.com/relogX/system-design-questions)|Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass|392|2021-12-12|2021-10-19|
-|30|[Jingjing-NLP/VOLT](https://github.com/Jingjing-NLP/VOLT)|Code for paper "Vocabulary Learning via Optimal Transport for Neural Machine Translation"|384|2021-10-13|2021-07-03|
-|31|[tensorflow/decision-forests](https://github.com/tensorflow/decision-forests)|A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.|384|2022-01-14|2021-04-22|
-|32|[pytorch/data](https://github.com/pytorch/data)|A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.|382|2022-01-14|2021-05-12|
-|33|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|M3U Playlist for free TV channels|374|2022-01-15|2021-04-13|
-|34|[hijkzzz/pymarl2](https://github.com/hijkzzz/pymarl2)|Fine-tuned  MARL algorithms on SMAC (100% win rates on most scenarios)|372|2021-12-04|2021-02-06|
-|35|[sicxu/Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)|Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set (CVPRW 2019). A PyTorch implementation.|365|2021-11-15|2021-07-19|
-|36|[cybersecsi/RAUDI](https://github.com/cybersecsi/RAUDI)|A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.|357|2022-01-15|2021-12-28|
+|30|[cybersecsi/RAUDI](https://github.com/cybersecsi/RAUDI)|A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.|389|2022-01-16|2021-12-28|
+|31|[Jingjing-NLP/VOLT](https://github.com/Jingjing-NLP/VOLT)|Code for paper "Vocabulary Learning via Optimal Transport for Neural Machine Translation"|386|2021-10-13|2021-07-03|
+|32|[tensorflow/decision-forests](https://github.com/tensorflow/decision-forests)|A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.|386|2022-01-14|2021-04-22|
+|33|[pytorch/data](https://github.com/pytorch/data)|A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.|382|2022-01-16|2021-05-12|
+|34|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|M3U Playlist for free TV channels|379|2022-01-15|2021-04-13|
+|35|[hijkzzz/pymarl2](https://github.com/hijkzzz/pymarl2)|Fine-tuned  MARL algorithms on SMAC (100% win rates on most scenarios)|373|2021-12-04|2021-02-06|
+|36|[sicxu/Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)|Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set (CVPRW 2019). A PyTorch implementation.|367|2021-11-15|2021-07-19|
 |37|[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)|Examples to accompany the "Raspberry Pi Pico Python SDK" book.|351|2021-12-14|2021-01-20|
 |38|[Ewpratten/youtube_ad_blocklist](https://github.com/Ewpratten/youtube_ad_blocklist)|This is an open project to maintain a list of domain names that serve YouTube ads|344|2021-12-19|2021-01-20|
-|39|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|334|2022-01-06|2021-03-25|
-|40|[GraphCL/PyGCL](https://github.com/GraphCL/PyGCL)|PyGCL: Graph Contrastive Learning Library for PyTorch|326|2021-12-18|2021-06-07|
+|39|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|335|2022-01-06|2021-03-25|
+|40|[GraphCL/PyGCL](https://github.com/GraphCL/PyGCL)|PyGCL: Graph Contrastive Learning Library for PyTorch|327|2022-01-16|2021-06-07|
 |41|[xingyizhou/UniDet](https://github.com/xingyizhou/UniDet)|Object detection on multiple datasets with an automatically learned unified label space.|322|2021-12-02|2021-02-25|
 |42|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|309|2022-01-12|2021-11-22|
 |43|[nalgeon/dataviz](https://github.com/nalgeon/dataviz)|Data visualization guide for presentations, reports, and dashboards|294|2021-12-30|2021-04-10|
 |44|[LynnHo/EigenGAN-Tensorflow](https://github.com/LynnHo/EigenGAN-Tensorflow)|EigenGAN: Layer-Wise Eigen-Learning for GANs (ICCV 2021)|291|2021-07-29|2021-04-26|
-|45|[captn3m0/pystitcher](https://github.com/captn3m0/pystitcher)|pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input|275|2021-12-31|2021-05-26|
+|45|[captn3m0/pystitcher](https://github.com/captn3m0/pystitcher)|pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input|277|2021-12-31|2021-05-26|
 |46|[guilatrova/tryceratops](https://github.com/guilatrova/tryceratops)|A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).|262|2022-01-13|2021-06-19|
 |47|[twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)|A course on getting started with the Twitter API v2 for academic research|253|2021-08-18|2021-06-21|
 |48|[ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip)|An official implementation for "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"|251|2021-12-02|2021-04-13|
