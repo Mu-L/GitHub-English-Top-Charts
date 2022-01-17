@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4711|6|2022-01-15|
-|2|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2091|1|2021-11-22|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4718|6|2022-01-15|
+|2|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2092|1|2021-11-22|
 |3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
-|4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2850|1|2021-09-21|
+|4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2851|1|2021-09-21|
 |5|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1662|1|2021-11-02|
 |6|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3299|1|2021-12-04|
 |7|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1759|1|2022-01-10|
-|8|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|441|1|2021-10-27|
+|8|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|440|1|2021-10-27|
 |9|[azamlerc/interviews](https://github.com/azamlerc/interviews)|Fun interview questions in various languages|2|0|2021-08-12|
 |10|[bimsina/SortingAlgorithmsVisualizer](https://github.com/bimsina/SortingAlgorithmsVisualizer)|Sorting algorithms visualizer in Flutter.|54|0|2021-09-07|
 |11|[gemu2015/cocotron-sierra](https://github.com/gemu2015/cocotron-sierra)|clone of cocotron master adapted for OSX Sierra|7|0|2021-10-20|
@@ -29,23 +29,23 @@
 |22|[yatharthrajput/BMI](https://github.com/yatharthrajput/BMI)|BMI Calculator 💪 Our Goal The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no mat ...|8|0|2021-12-09|
 |23|[ck3g/RNAnimationExamples](https://github.com/ck3g/RNAnimationExamples)|Contains various examples of React Native animation|12|0|2021-09-21|
 |24|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|6|0|2021-12-06|
-|25|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|3|0|2022-01-16|
+|25|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|3|0|2022-01-17|
 |26|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|78|0|2022-01-11|
 |27|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2022-01-10|
 |28|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|0|2021-10-12|
 |29|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|4|0|2021-11-11|
 |30|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|161|0|2021-11-29|
-|31|[kylehowells/ikyle.me-code-examples](https://github.com/kylehowells/ikyle.me-code-examples)|Smaller code examples from my blog posts on ikyle.me|27|0|2021-11-13|
+|31|[kylehowells/ikyle.me-code-examples](https://github.com/kylehowells/ikyle.me-code-examples)|Smaller code examples from my blog posts on ikyle.me|28|0|2021-11-13|
 |32|[superjohan/deko](https://github.com/superjohan/deko)|Beautiful, unique wallpapers for iOS.|38|0|2021-09-29|
 |33|[lechium/lsdtrip](https://github.com/lechium/lsdtrip)|slightly modified version of jonathan levins lsdtrip bin available at http://newosxbook.com/tools/lsdtrip.html|10|0|2021-09-06|
-|34|[freedomtan/test-ioreport](https://github.com/freedomtan/test-ioreport)|A little program to show how to dump all the IOKit IOReport information|5|0|2021-07-18|
-|35|[lakshmantgld/react-native-fbsdk-example](https://github.com/lakshmantgld/react-native-fbsdk-example)|Using Facebook SDK in React Native|27|0|2021-09-21|
-|36|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2021-12-24|
-|37|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|50|0|2022-01-12|
-|38|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|112|0|2021-08-06|
-|39|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|0|2021-09-21|
-|40|[AlanU/cross-platform-code-examples](https://github.com/AlanU/cross-platform-code-examples)|Examples Of Code in Different Programming Languages |3|0|2021-07-31|
-|41|[Osedea/react-native-navigation-examples](https://github.com/Osedea/react-native-navigation-examples)|A set of examples created for a Montreal React Native meetup talk : https://www.meetup.com/fr-FR/React-Native-MTL/events/248410421/|13|0|2021-09-21|
+|34|[lakshmantgld/react-native-fbsdk-example](https://github.com/lakshmantgld/react-native-fbsdk-example)|Using Facebook SDK in React Native|27|0|2021-09-21|
+|35|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2021-12-24|
+|36|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|50|0|2022-01-12|
+|37|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|112|0|2021-08-06|
+|38|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|0|2021-09-21|
+|39|[AlanU/cross-platform-code-examples](https://github.com/AlanU/cross-platform-code-examples)|Examples Of Code in Different Programming Languages |3|0|2021-07-31|
+|40|[Osedea/react-native-navigation-examples](https://github.com/Osedea/react-native-navigation-examples)|A set of examples created for a Montreal React Native meetup talk : https://www.meetup.com/fr-FR/React-Native-MTL/events/248410421/|13|0|2021-09-21|
+|41|[victormanuelfrancodev/share_social_media_plugin](https://github.com/victormanuelfrancodev/share_social_media_plugin)|Share Social Media Plugin|3|0|2022-01-17|
 |42|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|0|2021-10-11|
 |43|[JitouchProject/Jitouch](https://github.com/JitouchProject/Jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|3|0|2022-01-04|
 |44|[KentaKodashima/RNHorizontalSnapScrollViewTutorial](https://github.com/KentaKodashima/RNHorizontalSnapScrollViewTutorial)|This is the sample project repository for my tutorial on Medium titled "(React Native) Create a Horizontal Snap ScrollView".|3|0|2021-09-21|
@@ -57,7 +57,7 @@
 |50|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2021-09-21|
 |51|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|84|0|2021-11-27|
 |52|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|444|0|2021-12-24|
-|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-14|
+|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-17|
 |54|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2021-09-21|
 |55|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|164|0|2022-01-15|
 |56|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
@@ -80,7 +80,7 @@
 |73|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|0|2021-12-04|
 |74|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|52|0|2021-09-21|
 |75|[spilliams/iOS-Toolkit](https://github.com/spilliams/iOS-Toolkit)|A collection of tidbits useful to iOS projects|2|0|2021-08-25|
-|76|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|130|0|2021-10-19|
+|76|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|130|0|2022-01-17|
 |77|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|
 |78|[thanhtunguet/TelinkSigMeshLib](https://github.com/thanhtunguet/TelinkSigMeshLib)|This library is a part of Telink Sig Mesh SDK. Published to GitHub for personal usage only. Visit the Telink Wiki to acquire the full SDK zip file and development handbooks.|3|0|2021-10-01|
 |79|[DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo)|This demo is designed for you to learn how to use the DJIMediaManager to interact with the file system on the SD card of the aircraft's camera. You can use it to preview photos, play videos, download  ...|4|0|2021-10-11|
@@ -95,7 +95,7 @@
 |88|[Leon0206/ReactiveDataBoard](https://github.com/Leon0206/ReactiveDataBoard)|This is a reactive solution for the data communication and data share between any objects. |23|0|2021-08-18|
 |89|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|0|2021-09-03|
 |90|[topher515/BoggleSolve](https://github.com/topher515/BoggleSolve)|I like to write a boggle solver in every new language I learn. Here they are!|4|0|2021-08-22|
-|91|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|7|0|2022-01-02|
+|91|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|8|0|2022-01-02|
 |92|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|60|0|2022-01-13|
 |93|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|222|0|2021-12-22|
 |94|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|148|2022-01-11|2021-03-22|
-|2|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|A step-by-step guide on how to build your own authentication system in Rails from scratch.|132|2022-01-10|2021-11-09|
+|2|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|A step-by-step guide on how to build your own authentication system in Rails from scratch.|133|2022-01-10|2021-11-09|
 |3|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|2021-07-27|2021-01-27|
 |4|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|49|2021-12-03|2021-12-01|
 |5|[sbuffose/codecademy-guia](https://github.com/sbuffose/codecademy-guia)|Esta es una guía para realizar los challenges de Codecademy - Learn Ruby|26|2021-07-24|2021-05-28|
@@ -15,7 +15,7 @@
 |8|[kfischer-okarin/roguelike-tutorial-2021](https://github.com/kfischer-okarin/roguelike-tutorial-2021)|Game made during the "RoguelikeDev Does The Complete Roguelike Tutorial 2021" event|19|2021-11-11|2021-07-22|
 |9|[gabriel-dehan/dyson-sphere-blueprints](https://github.com/gabriel-dehan/dyson-sphere-blueprints)|A community website to share dyson sphere program blueprints|19|2021-12-22|2021-03-16|
 |10|[MR-X-junior/Facebook](https://github.com/MR-X-junior/Facebook)|Facebook Hacking Tool And Facebook Bot|17|2021-09-26|2021-05-23|
-|11|[specht/schul-dashboard](https://github.com/specht/schul-dashboard)|Schul-Dashboard zur Integration von Stundenplan, Vertretungsplan sowie E-Learning via NextCloud und Jitsi.|16|2022-01-13|2021-02-02|
+|11|[specht/schul-dashboard](https://github.com/specht/schul-dashboard)|Schul-Dashboard zur Integration von Stundenplan, Vertretungsplan sowie E-Learning via NextCloud und Jitsi.|16|2022-01-17|2021-02-02|
 |12|[Laylo309/OOP-school-library](https://github.com/Laylo309/OOP-school-library)|Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.|12|2021-11-26|2021-11-15|
 |13|[microsoft/azureml-ops-accelerator](https://github.com/microsoft/azureml-ops-accelerator)|Guided accelerator consolidating best practice patterns, IaaC and AML code artefacts to provide a reference approach to implementing MLOps on Azure leveraging Azure ML. |11|2021-11-25|2021-07-08|
 |14|[ForBioPhylogenomics/tutorials](https://github.com/ForBioPhylogenomics/tutorials)|Tutorials on phylogenomic analyses for the ForBio Phylogenomics course|11|2021-09-08|2021-05-14|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ahrm/sioyek](https://github.com/ahrm/sioyek)|Sioyek is a PDF viewer designed for reading research papers and technical books.|1162|2022-01-09|2021-07-11|
-|2|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various WINAPI tricks / features used or abused by Malware|1077|2021-11-13|2021-02-21|
+|1|[ahrm/sioyek](https://github.com/ahrm/sioyek)|Sioyek is a PDF viewer designed for reading research papers and technical books.|1163|2022-01-09|2021-07-11|
+|2|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various WINAPI tricks / features used or abused by Malware|1078|2021-11-13|2021-02-21|
 |3|[TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch)|A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.|311|2022-01-02|2021-01-18|
 |4|[cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)|Collection of remote authentication triggers in C# |226|2021-10-24|2021-09-12|
 |5|[sysprog21/concurrent-programs](https://github.com/sysprog21/concurrent-programs)|Complementary Concurrency Programs for course "Linux Kernel Internals"|185|2021-09-03|2021-04-06|
@@ -16,8 +16,8 @@
 |9|[jedypod/open-display-transform](https://github.com/jedypod/open-display-transform)|Open Display Transform is a collection of tools and experiments for rendering wide-gamut scene-linear data into an image for an SDR or HDR display device.|92|2021-12-31|2021-03-20|
 |10|[RiccardoAncarani/BOFs](https://github.com/RiccardoAncarani/BOFs)|Collection of Beacon Object Files (BOFs) for shells and lols|90|2021-09-14|2021-08-27|
 |11|[Rabios/ice_libs](https://github.com/Rabios/ice_libs)|Collection of cross-platform single-header C libraries for doing a lot of stuff! (Still WIP)|90|2022-01-15|2021-04-08|
-|12|[grblHAL/core](https://github.com/grblHAL/core)|grblHAL core code and master Wiki|88|2022-01-14|2021-02-18|
-|13|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|87|2021-12-10|2021-07-31|
+|12|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|89|2021-12-10|2021-07-31|
+|13|[grblHAL/core](https://github.com/grblHAL/core)|grblHAL core code and master Wiki|88|2022-01-14|2021-02-18|
 |14|[SafeBreach-Labs/Back2TheFuture](https://github.com/SafeBreach-Labs/Back2TheFuture)|Find patterns of vulnerabilities on Windows in order to find 0-day and write exploits of 1-days. We use Microsoft security updates in order to find the patterns.|84|2021-08-09|2021-08-05|
 |15|[aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders)|👾 Jupyter Notebook + Space Invaders!?|82|2021-11-03|2021-09-19|
 |16|[MaJerle/stm32-cube-cmake-vscode](https://github.com/MaJerle/stm32-cube-cmake-vscode)|Detailed tutorial with instructions how to convert your STM32 project to CMake and VSCode|76|2022-01-15|2022-01-07|
@@ -26,7 +26,7 @@
 |19|[pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf)|A collection of eBPF programs demonstrating bad behavior |65|2021-07-26|2021-05-23|
 |20|[JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module)|Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator notebook series|63|2021-12-03|2021-05-13|
 |21|[lizrice/ebpf-networking](https://github.com/lizrice/ebpf-networking)|The Beginner's Guide to eBPF Programming for Networking|60|2021-10-12|2021-10-11|
-|22|[nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)|NoteBook FanControl ported to Linux|58|2022-01-14|2021-08-04|
+|22|[nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)|NoteBook FanControl ported to Linux|59|2022-01-14|2021-08-04|
 |23|[maksimdrachov/zephyr-rtos-tutorial](https://github.com/maksimdrachov/zephyr-rtos-tutorial)|Zephyr tutorial for beginners|52|2021-11-23|2021-07-07|
 |24|[epi052/fuzzing-101-solutions](https://github.com/epi052/fuzzing-101-solutions)|Companion repository to the Fuzzing101 with LibAFL series of blog posts.|46|2022-01-14|2021-11-06|
 |25|[boku7/halosgate-ps](https://github.com/boku7/halosgate-ps)|Cobalt Strike BOF that uses a custom ASM HalosGate & HellsGate syscaller to return a list of processes|45|2021-08-07|2021-08-06|

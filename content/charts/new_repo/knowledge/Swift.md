@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|646|2021-11-02|2021-10-19|
+|1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|645|2021-11-02|2021-10-19|
 |2|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|580|2022-01-16|2021-04-09|
 |3|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|576|2022-01-13|2021-07-19|
 |4|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|380|2021-09-10|2021-01-20|
@@ -18,8 +18,8 @@
 |11|[Hi-Rez/Flocking](https://github.com/Hi-Rez/Flocking)|An example showing how to use SwiftUI, Satin, Forge and Youi to simulate birds flocking via a compute particle system (n-body).|60|2022-01-13|2021-01-29|
 |12|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|56|2021-09-17|2021-06-06|
 |13|[hmlongco/Builder](https://github.com/hmlongco/Builder)|Demonstrates builder patterns for UI and networking.|56|2022-01-11|2021-02-20|
-|14|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|50|2021-10-17|2021-05-03|
-|15|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|37|2022-01-16|2021-09-22|
+|14|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|51|2021-10-17|2021-05-03|
+|15|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|38|2022-01-16|2021-09-22|
 |16|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|34|2021-12-20|2021-09-29|
 |17|[SimformSolutionsPvtLtd/SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)|SSSwiftUISpinnerButton is a collection of various spinning animations for buttons in SwiftUI.|31|2021-08-02|2021-02-09|
 |18|[jrasmusson/datastructures-algorithms](https://github.com/jrasmusson/datastructures-algorithms)|A data structure and algorithm course for Swift developers|29|2022-01-14|2021-02-18|
@@ -46,19 +46,19 @@
 |39|[reddavis/Panel](https://github.com/reddavis/Panel)|A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.|10|2021-09-10|2021-09-09|
 |40|[Hi-Rez/Instancing](https://github.com/Hi-Rez/Instancing)|An example that shows how to use SwiftUI, Satin, Forge to create a view with instanced geometry fueled by data|10|2022-01-14|2021-01-21|
 |41|[mavideniz/100DaysOfSwiftUI](https://github.com/mavideniz/100DaysOfSwiftUI)|I created this repo to follow my own 100 day SwiftUI challenge and share it with other people. 🚀|9|2021-09-27|2021-06-22|
-|42|[asahiocean/algoexpert](https://github.com/asahiocean/algoexpert)|AlgoExpert is an online platform that helps software engineers to prepare for coding and technical interviews.|8|2021-12-03|2021-04-16|
-|43|[Softvelum/larix-sdk-examples](https://github.com/Softvelum/larix-sdk-examples)|Code examples for Larix SDKs|8|2021-08-30|2021-02-02|
-|44|[Rogue24/JPDesignCode](https://github.com/Rogue24/JPDesignCode)|The SwiftUI learning project.|7|2021-11-06|2021-11-03|
-|45|[cookpad/swift-user-defaults](https://github.com/cookpad/swift-user-defaults)|A series of Swift friendly utilities for Foundation's UserDefaults class.|7|2022-01-14|2021-10-27|
+|42|[Rogue24/JPDesignCode](https://github.com/Rogue24/JPDesignCode)|The SwiftUI learning project.|8|2021-11-06|2021-11-03|
+|43|[asahiocean/algoexpert](https://github.com/asahiocean/algoexpert)|AlgoExpert is an online platform that helps software engineers to prepare for coding and technical interviews.|8|2021-12-03|2021-04-16|
+|44|[Softvelum/larix-sdk-examples](https://github.com/Softvelum/larix-sdk-examples)|Code examples for Larix SDKs|8|2021-08-30|2021-02-02|
+|45|[cookpad/swift-user-defaults](https://github.com/cookpad/swift-user-defaults)|A series of Swift friendly utilities for Foundation's UserDefaults class.|7|2022-01-17|2021-10-27|
 |46|[ilies-space/Facebook-ui-clone](https://github.com/ilies-space/Facebook-ui-clone)|SwiftUi Facebook clone|7|2021-09-21|2021-09-21|
-|47|[psalzAppDev/PSActivityImageViewController](https://github.com/psalzAppDev/PSActivityImageViewController)|A UIActivityViewController to share images while displaying them as a nice preview.|7|2021-09-08|2021-09-07|
-|48|[apprafael/viewcode-sample](https://github.com/apprafael/viewcode-sample)|A very simple project to demonstrate View Code for beginners who would like to learn it|6|2021-12-09|2021-11-03|
-|49|[Teaching-Develop-in-Swift/Labs](https://github.com/Teaching-Develop-in-Swift/Labs)|The Xcode playground labs from the Develop in Swift Fundamentals and Data Collections books.|6|2021-11-13|2021-10-28|
-|50|[Kyome22/iNotch](https://github.com/Kyome22/iNotch)|Add the Notch on the menubar like the new MacBook Pro.|6|2021-10-21|2021-10-20|
-|51|[ACM-VIT/sticky-links](https://github.com/ACM-VIT/sticky-links)|Bookmark important links with categories to read them later on the go!|6|2021-11-03|2021-09-28|
-|52|[meltonlogan615/iOS-Developer-Checklist](https://github.com/meltonlogan615/iOS-Developer-Checklist)|Roadmap for Learning iOS Development|6|2021-11-22|2021-09-19|
+|47|[meltonlogan615/iOS-Developer-Checklist](https://github.com/meltonlogan615/iOS-Developer-Checklist)|Roadmap for Learning iOS Development|7|2021-11-22|2021-09-19|
+|48|[psalzAppDev/PSActivityImageViewController](https://github.com/psalzAppDev/PSActivityImageViewController)|A UIActivityViewController to share images while displaying them as a nice preview.|7|2021-09-08|2021-09-07|
+|49|[apprafael/viewcode-sample](https://github.com/apprafael/viewcode-sample)|A very simple project to demonstrate View Code for beginners who would like to learn it|6|2021-12-09|2021-11-03|
+|50|[Teaching-Develop-in-Swift/Labs](https://github.com/Teaching-Develop-in-Swift/Labs)|The Xcode playground labs from the Develop in Swift Fundamentals and Data Collections books.|6|2021-11-13|2021-10-28|
+|51|[Kyome22/iNotch](https://github.com/Kyome22/iNotch)|Add the Notch on the menubar like the new MacBook Pro.|6|2021-10-21|2021-10-20|
+|52|[ACM-VIT/sticky-links](https://github.com/ACM-VIT/sticky-links)|Bookmark important links with categories to read them later on the go!|6|2021-11-03|2021-09-28|
 |53|[hyun99999/KakaoLoginTutorial-iOS](https://github.com/hyun99999/KakaoLoginTutorial-iOS)|👷‍♀️ login tutorial using Kakao iOS SDK|6|2021-08-16|2021-08-15|
-|54|[ttub-nii/TIL](https://github.com/ttub-nii/TIL)|Today I Learned|6|2022-01-16|2021-07-05|
+|54|[ttub-nii/TIL](https://github.com/ttub-nii/TIL)|Today I Learned|6|2022-01-17|2021-07-05|
 |55|[mipar52/google-examples-swift](https://github.com/mipar52/google-examples-swift)|Google Sign in, Google Drive, Google Sheets and Google Calendar REST API examples with Swift 5.|6|2022-01-07|2021-02-07|
 |56|[ElonPark/BookStoreTexture](https://github.com/ElonPark/BookStoreTexture)|BookStore + Texture + Pure DI + CleanSwift|5|2022-01-11|2021-12-10|
 |57|[fatbobman/ShareData_Demo_For_CoreDataWithCloudKit](https://github.com/fatbobman/ShareData_Demo_For_CoreDataWithCloudKit)|Demo for wwdc21-10015,how to share data by Core Data with CloudKit|5|2021-11-06|2021-09-10|
@@ -84,12 +84,11 @@
 |77|[RohiniRG/Swift-tutorials](https://github.com/RohiniRG/Swift-tutorials)|I'll be sharing the basics I learn about the Swift Programming Language here for my or any beginner's reference.|3|2021-09-05|2021-08-23|
 |78|[blacksmoke26/pr-sandbox](https://github.com/blacksmoke26/pr-sandbox)|A playground to learn and make fun with PULL REQUESTS!|3|2021-08-06|2021-08-06|
 |79|[konomae/PlanningPoker-SharePlay](https://github.com/konomae/PlanningPoker-SharePlay)|SharePlay (Group Activities API) with SwiftUI|3|2021-08-04|2021-07-25|
-|80|[thelordzeus/MusicMan](https://github.com/thelordzeus/MusicMan)|This is a simple music player app which is created to learn on how to use UICollectionView and UITabView|3|2021-07-18|2021-07-18|
-|81|[boudhayan/Algorithm-Solutions-In-Swift](https://github.com/boudhayan/Algorithm-Solutions-In-Swift)|This repository contains 100+  data structures and algorithms solutions from AlgoExpert, LeetCode & HackerRank in Swift 🧑🏻‍💻|3|2021-09-30|2021-07-17|
-|82|[Legonaftik/LeetCode-Swift](https://github.com/Legonaftik/LeetCode-Swift)|My LeetCode solutions in Swift|3|2021-12-05|2021-07-07|
-|83|[muukii/Lab.swift](https://github.com/muukii/Lab.swift)|Just my playground space for learning Swift|3|2021-10-29|2021-02-06|
-|84|[weitieda/swift-algorithms](https://github.com/weitieda/swift-algorithms)|👨‍💻 Solve LeetCode and HackerRank problems in Swift, covered by Unit Test.|3|2021-10-24|2021-01-27|
-|85|[AckeeScreenshoter/iOS.Client](https://github.com/AckeeScreenshoter/iOS.Client)|Screenshot, annotate and share all the bugs with Ackee Screenshotter🐛|3|2021-10-12|2021-01-18|
+|80|[boudhayan/Algorithm-Solutions-In-Swift](https://github.com/boudhayan/Algorithm-Solutions-In-Swift)|This repository contains 100+  data structures and algorithms solutions from AlgoExpert, LeetCode & HackerRank in Swift 🧑🏻‍💻|3|2021-09-30|2021-07-17|
+|81|[Legonaftik/LeetCode-Swift](https://github.com/Legonaftik/LeetCode-Swift)|My LeetCode solutions in Swift|3|2021-12-05|2021-07-07|
+|82|[muukii/Lab.swift](https://github.com/muukii/Lab.swift)|Just my playground space for learning Swift|3|2021-10-29|2021-02-06|
+|83|[weitieda/swift-algorithms](https://github.com/weitieda/swift-algorithms)|👨‍💻 Solve LeetCode and HackerRank problems in Swift, covered by Unit Test.|3|2021-10-24|2021-01-27|
+|84|[AckeeScreenshoter/iOS.Client](https://github.com/AckeeScreenshoter/iOS.Client)|Screenshot, annotate and share all the bugs with Ackee Screenshotter🐛|3|2021-10-12|2021-01-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

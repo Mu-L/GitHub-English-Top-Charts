@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
 |5|[adoptium/ci-jenkins-pipelines](https://github.com/adoptium/ci-jenkins-pipelines)|jenkins pipeline build scripts|9|2022-01-14|2021-02-04|
 |6|[ithinkdancan/hubitat-meross](https://github.com/ithinkdancan/hubitat-meross)|Hubitat Drivers for Meross Smart Plugs|8|2021-12-11|2021-02-04|
-|7|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|7|2022-01-14|2021-09-30|
+|7|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|7|2022-01-17|2021-09-30|
 |8|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |9|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-01-04|2021-09-07|
 |10|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
@@ -20,17 +20,17 @@
 |13|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
 |14|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
 |15|[kairos-fhir/kairos-fhir-dsl-mapping-example](https://github.com/kairos-fhir/kairos-fhir-dsl-mapping-example)|This project contains kairos-fhir-dsl example mappings for the CentraXX FHIR custom export interface.|5|2022-01-11|2021-01-18|
-|16|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|4|2022-01-15|2021-12-03|
-|17|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
-|18|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|4|2021-09-04|2021-09-04|
-|19|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|4|2021-09-05|2021-08-28|
-|20|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
-|21|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|4|2022-01-10|2021-07-26|
-|22|[jeffellin/petclinic-cicd](https://github.com/jeffellin/petclinic-cicd)|-|4|2021-07-21|2021-07-11|
-|23|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
-|24|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|4|2021-10-23|2021-02-10|
-|25|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|4|2021-12-10|2021-01-23|
-|26|[cnoke/startup](https://github.com/cnoke/startup)|-|3|2022-01-10|2021-12-31|
+|16|[cnoke/startup](https://github.com/cnoke/startup)|-|4|2022-01-10|2021-12-31|
+|17|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|4|2022-01-15|2021-12-03|
+|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
+|19|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|4|2021-09-04|2021-09-04|
+|20|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|4|2021-09-05|2021-08-28|
+|21|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
+|22|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|4|2022-01-10|2021-07-26|
+|23|[jeffellin/petclinic-cicd](https://github.com/jeffellin/petclinic-cicd)|-|4|2021-07-21|2021-07-11|
+|24|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
+|25|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|4|2021-10-23|2021-02-10|
+|26|[uncdubdiver/hubitat-govee-led-lights](https://github.com/uncdubdiver/hubitat-govee-led-lights)|Hubitat integration for Govee LED Light Strips|4|2021-12-10|2021-01-23|
 |27|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |28|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
 |29|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-01-16|2021-07-27|
@@ -58,7 +58,7 @@
 |51|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
 |52|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
 |53|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
-|54|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-01-14|2021-08-11|
+|54|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-01-17|2021-08-11|
 |55|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2021-11-25|2021-08-05|
 |56|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2021-12-14|2021-08-02|
 |57|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
