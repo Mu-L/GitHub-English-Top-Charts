@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|358|2021-08-23|2021-02-24|
-|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|343|2022-01-11|2021-06-25|
-|3|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|190|2022-01-16|2021-08-17|
+|1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|360|2021-08-23|2021-02-24|
+|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|344|2022-01-11|2021-06-25|
+|3|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|191|2022-01-16|2021-08-17|
 |4|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|125|2022-01-17|2021-10-09|
-|5|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|105|2021-12-13|2021-10-21|
-|6|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|105|2021-12-04|2021-09-13|
+|5|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|106|2021-12-04|2021-09-13|
+|6|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|105|2021-12-13|2021-10-21|
 |7|[aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys)|🎲 A curated list of MLOps projects, tools and resources|96|2022-01-19|2021-06-10|
 |8|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|71|2022-01-04|2021-02-25|
 |9|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|58|2022-01-10|2021-10-03|
-|10|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|50|2021-12-29|2021-10-25|
+|10|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|51|2021-12-29|2021-10-25|
 |11|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|42|2021-12-29|2021-04-07|
 |12|[Code-Pop/Vuex_Fundamentals](https://github.com/Code-Pop/Vuex_Fundamentals)|The repo for Vue Mastery's Intro to State Management course|37|2021-11-25|2021-01-27|
 |13|[Idered/iridium](https://github.com/Idered/iridium)|💎 Growing collection of VS Code extensions with a fancy name|33|2021-11-24|2021-01-28|
-|14|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|30|2021-10-15|2021-03-28|
+|14|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|31|2021-10-15|2021-03-28|
 |15|[DrakeAxelrod/webdevelopment-project](https://github.com/DrakeAxelrod/webdevelopment-project)|Web development course school project|27|2021-12-14|2021-11-02|
 |16|[chengpeiquan/chengpeiquan.com](https://github.com/chengpeiquan/chengpeiquan.com)|My personal website. Base on Vite 2.0 and Vue 3.0. If you want to know how to use Vite to develop a project, you can refer to this repository.|26|2022-01-19|2021-02-04|
-|17|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|24|2021-10-23|2021-06-12|
-|18|[cihat/dictionary](https://github.com/cihat/dictionary)|Project that tries to help you learn English.📕|23|2022-01-15|2021-03-20|
-|19|[MaleWeb/vvtp](https://github.com/MaleWeb/vvtp)|study-vue3|22|2022-01-19|2021-12-21|
-|20|[MaxRobinsonTheGreat/NeuralPatterns](https://github.com/MaxRobinsonTheGreat/NeuralPatterns)|Source code for Neural Patterns|20|2021-12-12|2021-08-02|
+|17|[MaleWeb/vvtp](https://github.com/MaleWeb/vvtp)|study-vue3|25|2022-01-19|2021-12-21|
+|18|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|24|2021-10-23|2021-06-12|
+|19|[cihat/dictionary](https://github.com/cihat/dictionary)|Project that tries to help you learn English.📕|23|2022-01-15|2021-03-20|
+|20|[MaxRobinsonTheGreat/NeuralPatterns](https://github.com/MaxRobinsonTheGreat/NeuralPatterns)|Source code for Neural Patterns|21|2021-12-12|2021-08-02|
 |21|[Code-Pop/validating-vue3-forms](https://github.com/Code-Pop/validating-vue3-forms)|Repo for VueMastery.com's Validating Vue 3 Forms course.|17|2021-11-02|2021-04-04|
 |22|[Hunlongyu/bookmarks-manager](https://github.com/Hunlongyu/bookmarks-manager)|edit bookmarks, check url.|16|2022-01-15|2021-09-16|
 |23|[johnkomarnicki/movies-app-nuxtjs](https://github.com/johnkomarnicki/movies-app-nuxtjs)|Repo for NuxtJS Crash Course|15|2021-08-26|2021-08-26|
@@ -45,7 +45,7 @@
 |38|[italia/come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)|Guided wizard to direct contributors to Developers and Designers Italia|7|2022-01-15|2021-05-07|
 |39|[FotieMConstant/gitsocial](https://github.com/FotieMConstant/gitsocial)|Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers|7|2021-08-01|2021-05-06|
 |40|[ashwinkshenoy/vue-simple](https://github.com/ashwinkshenoy/vue-simple)|🌈 A Simple collection of tiny vue packages. Perfect for all your daily coding scenarios.|7|2022-01-12|2021-02-26|
-|41|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|6|2022-01-19|2021-11-12|
+|41|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|6|2022-01-20|2021-11-12|
 |42|[YashGovekar/CoWIN-Slot-Booking](https://github.com/YashGovekar/CoWIN-Slot-Booking)|Fastest automatic slot booking for CoWIN Vaccination.|6|2021-09-15|2021-06-23|
 |43|[abantes/fylo](https://github.com/abantes/fylo)|📁 Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers.|6|2021-11-25|2021-06-08|
 |44|[desiboli/storybook-vue-vuetify](https://github.com/desiboli/storybook-vue-vuetify)|A Storybook 6.x Application with Vue 2 (TypeScript support), SCSS and Vuetify.|5|2021-10-19|2021-03-23|
