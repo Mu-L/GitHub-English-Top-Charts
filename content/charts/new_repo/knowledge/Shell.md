@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1243|2022-01-18|2021-03-05|
-|2|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|232|2022-01-15|2022-01-06|
-|3|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|174|2022-01-20|2021-05-07|
-|4|[minerproxyeth/minerproxy](https://github.com/minerproxyeth/minerproxy)|最稳定的ETH代理中转程序；已修改作者抽水至千分之三，纯中转无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的垃圾：qq1694202骗子一个|163|2022-01-21|2022-01-16|
+|2|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|233|2022-01-15|2022-01-06|
+|3|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|176|2022-01-20|2021-05-07|
+|4|[minerproxyeth/minerproxy](https://github.com/minerproxyeth/minerproxy)|最稳定的ETH代理中转程序；纯中转无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的垃圾：qq1694202骗子一个|165|2022-01-22|2022-01-16|
 |5|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|132|2021-12-21|2021-09-15|
 |6|[caiodelgadonew/docker-dca](https://github.com/caiodelgadonew/docker-dca)|Repository for Docker DCA FREE Course|121|2021-08-05|2021-06-02|
 |7|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|108|2022-01-14|2021-12-06|
 |8|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|107|2021-12-30|2021-05-30|
 |9|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|105|2022-01-06|2021-05-07|
-|10|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|92|2022-01-10|2021-09-06|
+|10|[MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux)|Linux for Chromebooks|94|2022-01-10|2021-09-06|
 |11|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|83|2022-01-16|2021-02-23|
 |12|[joao99sb/OwnLinuxDistro](https://github.com/joao99sb/OwnLinuxDistro)|My Logbook through this sea of technology|78|2021-11-05|2021-09-24|
-|13|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|77|2021-12-28|2021-05-14|
+|13|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|78|2021-12-28|2021-05-14|
 |14|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|77|2022-01-16|2021-03-30|
-|15|[buraksecer/linux-101](https://github.com/buraksecer/linux-101)|Anyone who wants to learn Linux can read and add new information they learn.|76|2022-01-17|2021-12-07|
-|16|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|76|2021-12-29|2021-02-28|
+|15|[ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt)|A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w ...|77|2021-12-29|2021-02-28|
+|16|[buraksecer/linux-101](https://github.com/buraksecer/linux-101)|Anyone who wants to learn Linux can read and add new information they learn.|76|2022-01-22|2021-12-07|
 |17|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|68|2021-11-06|2021-07-25|
-|18|[ghostsec420/SCPA](https://github.com/ghostsec420/SCPA)|sophisticated cyber penetratiom attacks is a series of advanced techniques, notes and guidance to prepare u in ur career as a hacker moving forward|65|2022-01-17|2021-09-01|
+|18|[ghostsec420/SCPA](https://github.com/ghostsec420/SCPA)|sophisticated cyber penetratiom attacks is a series of advanced techniques, notes and guidance to prepare u in ur career as a hacker moving forward|66|2022-01-17|2021-09-01|
 |19|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|64|2021-12-27|2021-04-04|
 |20|[philippecrowdsec/iptables-nftables-multiroute-firewall](https://github.com/philippecrowdsec/iptables-nftables-multiroute-firewall)|A collection of nftables, multi routing scripts, port knocked, and iptables files. To get inspiration to make your own firewalls.|55|2021-10-02|2021-08-30|
 |21|[Aju100/VulWebaju](https://github.com/Aju100/VulWebaju)|VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes. |53|2022-01-11|2021-04-12|

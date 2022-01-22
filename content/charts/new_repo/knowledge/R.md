@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2185|2022-01-21|2021-10-08|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2204|2022-01-21|2021-10-08|
 |2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|180|2021-09-10|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|73|2021-12-20|2021-08-31|
 |4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|58|2022-01-14|2021-07-09|
-|5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|39|2022-01-18|2021-09-29|
+|5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|39|2022-01-21|2021-09-29|
 |6|[ColinFay/golemexamples](https://github.com/ColinFay/golemexamples)|Gathering in one place some {golem} examples|31|2021-10-04|2021-02-09|
 |7|[StatsGary/MLDataR](https://github.com/StatsGary/MLDataR)|A collection of Machine Learning datasets for health care and beyond|30|2022-01-18|2021-12-29|
 |8|[behrman/ros](https://github.com/behrman/ros)|Regression and Other Stories - Tidyverse Examples|29|2021-09-06|2021-04-22|
@@ -23,7 +23,7 @@
 |16|[EllaKaye/distilltools](https://github.com/EllaKaye/distilltools)|A collection of tools to support the creation and styling of content on {distill} websites|19|2021-12-16|2021-04-20|
 |17|[svmiller/steveproj](https://github.com/svmiller/steveproj)|An R package for getting academic projects/papers started.|19|2021-11-18|2021-03-09|
 |18|[cderv/meetup-2021-rmd-business-report](https://github.com/cderv/meetup-2021-rmd-business-report)|Talk at R Entrprise Meetup about styling Rmd for following organization guidelines|18|2021-10-05|2021-10-04|
-|19|[CDCgov/Rnssp](https://github.com/CDCgov/Rnssp)|A Signature R package for the National Syndromic and Surveillance Program (NSSP) at the Centers for Disease Control and Prevention (CDC). A collection of tools, functions, and R Markdown templates tha ...|16|2022-01-20|2021-05-20|
+|19|[CDCgov/Rnssp](https://github.com/CDCgov/Rnssp)|A Signature R package for the National Syndromic and Surveillance Program (NSSP) at the Centers for Disease Control and Prevention (CDC). A collection of tools, functions, and R Markdown templates tha ...|16|2022-01-21|2021-05-20|
 |20|[praneet1988/ELeFHAnt](https://github.com/praneet1988/ELeFHAnt)|Ensemble Learning for Harmonization and Annotation of Single Cells (ELeFHAnt) provides an easy to use R package for users to annotate clusters of single cells, harmonize labels across single cell data ...|15|2021-09-28|2021-06-27|
 |21|[hoehleatsu/STA427_SM4IDE](https://github.com/hoehleatsu/STA427_SM4IDE)|Repo for the course Statistical Methods in Infectious Disease Epidemiology at UZH|15|2021-12-22|2021-02-21|
 |22|[jennschilling/books-2021](https://github.com/jennschilling/books-2021)|data visualization of books I read in 2021|14|2022-01-06|2021-11-13|
@@ -55,7 +55,7 @@
 |48|[njtierney/greta-course-notes](https://github.com/njtierney/greta-course-notes)|Course notes for greta|5|2021-11-17|2021-11-02|
 |49|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
 |50|[nch-igm/EnFusion](https://github.com/nch-igm/EnFusion)|The ENsemble Fusion (EnFusion) repo contains a Dockerfile to build a Docker Image that can overlap outputs from 7 fusion detection algorithms, to identify high confidence fusion events. |5|2021-09-15|2021-08-04|
-|51|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-01-21|2021-05-03|
+|51|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-01-22|2021-05-03|
 |52|[mlverse/torch-learnr](https://github.com/mlverse/torch-learnr)|Learnr tutorials for Torch|5|2021-08-16|2021-04-12|
 |53|[cosmoduende/r-google-location-history](https://github.com/cosmoduende/r-google-location-history)|Explore your activity on Google with R: How to analyze and visualize your Location History. Find out how and how much you have allowed Google to track you, using a copy of your personal data.|5|2021-08-01|2021-03-26|
 |54|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|2021-12-09|2021-02-22|

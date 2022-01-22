@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,9 +10,9 @@
 |3|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|2021-07-27|2021-01-27|
 |4|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|48|2021-12-03|2021-12-01|
 |5|[sbuffose/codecademy-guia](https://github.com/sbuffose/codecademy-guia)|Esta es una guía para realizar los challenges de Codecademy - Learn Ruby|26|2021-07-24|2021-05-28|
-|6|[mubix/local-hibp](https://github.com/mubix/local-hibp)|How to set up a local copy of Have-I-Been-Pwned's password checking service|19|2021-08-19|2021-08-19|
-|7|[kfischer-okarin/roguelike-tutorial-2021](https://github.com/kfischer-okarin/roguelike-tutorial-2021)|Game made during the "RoguelikeDev Does The Complete Roguelike Tutorial 2021" event|19|2021-11-11|2021-07-22|
-|8|[gabriel-dehan/dyson-sphere-blueprints](https://github.com/gabriel-dehan/dyson-sphere-blueprints)|A community website to share dyson sphere program blueprints|19|2022-01-21|2021-03-16|
+|6|[gabriel-dehan/dyson-sphere-blueprints](https://github.com/gabriel-dehan/dyson-sphere-blueprints)|A community website to share dyson sphere program blueprints|20|2022-01-21|2021-03-16|
+|7|[mubix/local-hibp](https://github.com/mubix/local-hibp)|How to set up a local copy of Have-I-Been-Pwned's password checking service|19|2021-08-19|2021-08-19|
+|8|[kfischer-okarin/roguelike-tutorial-2021](https://github.com/kfischer-okarin/roguelike-tutorial-2021)|Game made during the "RoguelikeDev Does The Complete Roguelike Tutorial 2021" event|19|2021-11-11|2021-07-22|
 |9|[MR-X-junior/Facebook](https://github.com/MR-X-junior/Facebook)|Facebook Hacking Tool And Facebook Bot|18|2021-09-26|2021-05-23|
 |10|[specht/schul-dashboard](https://github.com/specht/schul-dashboard)|Schul-Dashboard zur Integration von Stundenplan, Vertretungsplan sowie E-Learning via NextCloud und Jitsi.|16|2022-01-20|2021-02-02|
 |11|[Laylo309/OOP-school-library](https://github.com/Laylo309/OOP-school-library)|Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.|12|2021-11-26|2021-11-15|
