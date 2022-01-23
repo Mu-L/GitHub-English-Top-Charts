@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|512|2021-09-09|2021-09-03|
-|2|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|425|2021-10-12|2021-09-23|
+|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|513|2021-09-09|2021-09-03|
+|2|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|426|2021-10-12|2021-09-23|
 |3|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|288|2022-01-13|2021-08-03|
-|4|[s4y/undot](https://github.com/s4y/undot)|-|268|2021-12-26|2021-12-20|
+|4|[s4y/undot](https://github.com/s4y/undot)|-|270|2021-12-26|2021-12-20|
 |5|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|170|2022-01-21|2021-03-06|
 |6|[objective-see/OverSight](https://github.com/objective-see/OverSight)|OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |141|2022-01-11|2021-02-01|
-|7|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|123|2022-01-16|2021-02-02|
+|7|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|124|2022-01-16|2021-02-02|
 |8|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|107|2022-01-22|2021-03-24|
 |9|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|106|2021-10-13|2021-02-08|
 |10|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|103|2022-01-18|2021-07-24|
 |11|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
-|12|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|85|2021-12-14|2021-12-06|
+|12|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|88|2021-12-14|2021-12-06|
 |13|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|71|2021-12-24|2021-03-30|
 |14|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|68|2022-01-20|2021-10-05|
 |15|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|66|2021-11-20|2021-11-20|
@@ -38,9 +38,9 @@
 |31|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|29|2022-01-01|2021-11-28|
 |32|[Airr/nim-cocoa](https://github.com/Airr/nim-cocoa)|macOS GUI Library for the Nim Programming Language|28|2021-08-16|2021-08-08|
 |33|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|27|2021-12-28|2021-02-28|
-|34|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Log every incoming notification to view them again later|26|2022-01-18|2021-09-18|
-|35|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2022-01-06|2021-04-30|
-|36|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|25|2021-11-10|2021-11-08|
+|34|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|26|2021-11-10|2021-11-08|
+|35|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Log every incoming notification to view them again later|26|2022-01-23|2021-09-18|
+|36|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2022-01-06|2021-04-30|
 |37|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|24|2022-01-21|2021-05-24|
 |38|[insidegui/VisualEffectDebugger](https://github.com/insidegui/VisualEffectDebugger)|Simple debugger for NSVisualEffectView|23|2022-01-14|2022-01-14|
 |39|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|22|2021-10-29|2021-06-26|
@@ -77,10 +77,10 @@
 |70|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|12|2021-09-20|2021-05-21|
 |71|[ren7995/Atria](https://github.com/ren7995/Atria)|A proper homescreen layout editor for iOS 14.|12|2021-11-27|2021-05-16|
 |72|[schneelittchen/Astolfo](https://github.com/schneelittchen/Astolfo)|Astolfo siri|12|2022-01-14|2021-04-25|
-|73|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
-|74|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|11|2021-09-30|2021-06-01|
-|75|[Mobile-Telematics/TelematicsApp-iOS](https://github.com/Mobile-Telematics/TelematicsApp-iOS)|Open-source telematics app for iOS. The application is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe driving, tracking, family trackers, drive-coach, and other drivin ...|11|2022-01-17|2021-05-26|
-|76|[yahibo/redEnvelope](https://github.com/yahibo/redEnvelope)|-|11|2021-12-30|2021-02-03|
+|73|[yahibo/redEnvelope](https://github.com/yahibo/redEnvelope)|-|12|2021-12-30|2021-02-03|
+|74|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
+|75|[SpartacusDev/Tweakio](https://github.com/SpartacusDev/Tweakio)|Search jailbreak packages using the Tweakio API, Parcility API or Canister API straight from Cydia, Installer, Sileo and Zebra!|11|2021-09-30|2021-06-01|
+|76|[Mobile-Telematics/TelematicsApp-iOS](https://github.com/Mobile-Telematics/TelematicsApp-iOS)|Open-source telematics app for iOS. The application is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe driving, tracking, family trackers, drive-coach, and other drivin ...|11|2022-01-17|2021-05-26|
 |77|[AandersonL/whoexec](https://github.com/AandersonL/whoexec)|Discover which process execute a hunted binary inside macOS|10|2021-12-15|2021-12-15|
 |78|[packagesdev/ips2crash](https://github.com/packagesdev/ips2crash)|.ips to .crash converter|10|2021-11-18|2021-10-19|
 |79|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
@@ -150,7 +150,7 @@
 |143|[mbender74/de.marcbender.sortablegrid](https://github.com/mbender74/de.marcbender.sortablegrid)|-|5|2022-01-17|2021-12-03|
 |144|[udevsharold/speakerfirst](https://github.com/udevsharold/speakerfirst)|Activates speaker on tap in Phone.app|5|2021-11-29|2021-11-28|
 |145|[0xkuj/CCDNDTimer](https://github.com/0xkuj/CCDNDTimer)|Timer for your DND mode|5|2022-01-21|2021-11-26|
-|146|[software-mansion-labs/expo-maps](https://github.com/software-mansion-labs/expo-maps)|-|5|2022-01-22|2021-11-07|
+|146|[software-mansion-labs/expo-maps](https://github.com/software-mansion-labs/expo-maps)|-|5|2022-01-23|2021-11-07|
 |147|[mbender74/titanium-resizableview](https://github.com/mbender74/titanium-resizableview)|-|5|2021-10-29|2021-10-28|
 |148|[JamsheedMistri/LaptopVR](https://github.com/JamsheedMistri/LaptopVR)|LaptopVR - Cal Hacks 8.0 submission|5|2022-01-17|2021-10-24|
 |149|[rongcloud/sealtalk-ios](https://github.com/rongcloud/sealtalk-ios)|-|5|2021-11-05|2021-10-08|

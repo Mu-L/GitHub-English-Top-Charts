@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3820|2021-12-21|
-|2|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |552|2022-01-18|
+|2|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |553|2022-01-18|
 |3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|287|2021-10-24|
 |4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|210|2022-01-21|
 |5|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|2022-01-22|
@@ -44,7 +44,7 @@
 |37|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|2022-01-14|
 |38|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|12|2021-12-11|
 |39|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|2022-01-06|
-|40|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |11|2022-01-21|
+|40|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |11|2022-01-22|
 |41|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|2021-11-04|
 |42|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|11|2021-12-13|
 |43|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|10|2022-01-12|
@@ -72,18 +72,18 @@
 |65|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|4|2022-01-21|
 |66|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|4|2022-01-19|
 |67|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|4|2022-01-18|
-|68|[ElektraInitiative/jenkins-library](https://github.com/ElektraInitiative/jenkins-library)|Jenkins Shared Library|3|2021-08-28|
-|69|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|3|2022-01-20|
-|70|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|3|2021-09-17|
-|71|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|3|2022-01-21|
-|72|[axieinfinity/jenkins-library](https://github.com/axieinfinity/jenkins-library)|Shared Jenkins library for Sky Mavis.|3|2021-12-21|
-|73|[icheko/jenkins-shared-lib](https://github.com/icheko/jenkins-shared-lib)|A shared library for Jenkins|3|2021-07-30|
-|74|[JonKerridge/UCaPE](https://github.com/JonKerridge/UCaPE)|Using Concurrency and Parallelism Effectively, parts i & ii" by Jon Kerridge available from bookboon.com free of charge, which shows many examples of the use of the jcsp and groovyJCSP libraries|3|2021-07-25|
-|75|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|2021-09-20|
-|76|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|2021-11-18|
-|77|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|3|2021-07-31|
-|78|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
-|79|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Advanced Jenkinsfile & Jenkins Shared Library (Groovy)|2|2022-01-21|
+|68|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Advanced Jenkinsfile & Jenkins Shared Library (Groovy)|3|2022-01-21|
+|69|[ElektraInitiative/jenkins-library](https://github.com/ElektraInitiative/jenkins-library)|Jenkins Shared Library|3|2021-08-28|
+|70|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|3|2022-01-20|
+|71|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|3|2021-09-17|
+|72|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|3|2022-01-21|
+|73|[axieinfinity/jenkins-library](https://github.com/axieinfinity/jenkins-library)|Shared Jenkins library for Sky Mavis.|3|2021-12-21|
+|74|[icheko/jenkins-shared-lib](https://github.com/icheko/jenkins-shared-lib)|A shared library for Jenkins|3|2021-07-30|
+|75|[JonKerridge/UCaPE](https://github.com/JonKerridge/UCaPE)|Using Concurrency and Parallelism Effectively, parts i & ii" by Jon Kerridge available from bookboon.com free of charge, which shows many examples of the use of the jcsp and groovyJCSP libraries|3|2021-07-25|
+|76|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|2021-09-20|
+|77|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|2021-11-18|
+|78|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|3|2021-07-31|
+|79|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
 |80|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|2021-12-29|
 |81|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
 |82|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-01-04|

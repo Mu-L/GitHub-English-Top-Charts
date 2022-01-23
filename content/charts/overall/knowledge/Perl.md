@@ -1,41 +1,41 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1611|2022-01-13|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1199|2022-01-20|
+|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1612|2022-01-13|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1200|2022-01-20|
 |3|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1060|2021-10-15|
 |4|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|597|2022-01-04|
 |5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|319|2022-01-17|
-|6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|305|2022-01-18|
+|6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|305|2022-01-23|
 |7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |264|2022-01-21|
 |8|[OpenMP/Examples](https://github.com/OpenMP/Examples)|LaTeX Examples Document Source|164|2021-08-17|
 |9|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|113|2022-01-22|
 |10|[oxnz/design-patterns](https://github.com/oxnz/design-patterns)|design patterns impelemented in serveral programming languages|112|2021-08-18|
-|11|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|112|2022-01-22|
-|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|2022-01-22|
+|11|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|112|2022-01-23|
+|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|94|2022-01-23|
 |13|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|91|2021-12-28|
 |14|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|89|2021-12-08|
 |15|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|75|2021-12-25|
 |16|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|72|2022-01-18|
 |17|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|65|2021-12-09|
 |18|[andre-st/goodreads-toolbox](https://github.com/andre-st/goodreads-toolbox)|9 tools for Goodreads.com, for finding people based on the books they’ve read, finding books popular among the people you follow, following new book reviews, etc|56|2022-01-21|
-|19|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|51|2022-01-14|
+|19|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|53|2022-01-14|
 |20|[jaswindersingh2/SPOT-RNA](https://github.com/jaswindersingh2/SPOT-RNA)|RNA Secondary Structure Prediction using an Ensemble of Two-dimensional Deep Neural Networks and Transfer Learning.|51|2021-12-28|
 |21|[xen-tools/xen-tools](https://github.com/xen-tools/xen-tools)|xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.|50|2021-10-24|
 |22|[khorton/nas_fan_control](https://github.com/khorton/nas_fan_control)|collection of scripts to control fan speed on NAS boxes|45|2021-09-06|
 |23|[lausser/check_logfiles](https://github.com/lausser/check_logfiles)| A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which scans logfiles for patterns.|45|2021-10-06|
-|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2022-01-21|
+|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2022-01-23|
 |25|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|36|2022-01-13|
 |26|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|35|2021-10-18|
-|27|[ebi-wp/webservice-clients](https://github.com/ebi-wp/webservice-clients)|A collection of Web Service Clients to consume EBI's tools via REST and SOAP APIs.|33|2021-10-22|
+|27|[ebi-wp/webservice-clients](https://github.com/ebi-wp/webservice-clients)|A collection of Web Service Clients to consume EBI's tools via REST and SOAP APIs.|34|2021-10-22|
 |28|[zonemaster/zonemaster-engine](https://github.com/zonemaster/zonemaster-engine)|The Zonemaster Engine - part of the Zonemaster project|31|2022-01-14|
 |29|[Tekki/sql-ledger](https://github.com/Tekki/sql-ledger)|:books: The official SQL-Ledger version, plus some additions.|29|2022-01-16|
 |30|[joyrex2001/grpc-perl](https://github.com/joyrex2001/grpc-perl)|Perl 5 implementation of gRPC using the official gRPC shared library.|28|2021-08-31|
-|31|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|25|2021-12-08|
+|31|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|25|2022-01-23|
 |32|[nguttman/Nagios-Checks](https://github.com/nguttman/Nagios-Checks)|A place for me to share simple Nagios checks scripts|22|2021-09-27|
 |33|[ltb-project/ldap-scripts](https://github.com/ltb-project/ldap-scripts)|This is a collection of scripts for LDAP directories|19|2021-10-05|
 |34|[thibaultduponchelle/tryperl](https://github.com/thibaultduponchelle/tryperl)|:chocolate_bar: Try Perl: learn the basics of the Perl language in your browser|19|2021-09-18|
@@ -49,10 +49,10 @@
 |42|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|15|2022-01-13|
 |43|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2022-01-01|
 |44|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|15|2021-11-03|
-|45|[Downes/gRSShopper](https://github.com/Downes/gRSShopper)|gRSShopper is a tool that aggregates, organizes and distributes resources to support online learning|15|2022-01-22|
+|45|[Downes/gRSShopper](https://github.com/Downes/gRSShopper)|gRSShopper is a tool that aggregates, organizes and distributes resources to support online learning|15|2022-01-23|
 |46|[THU-KEG/TWAG](https://github.com/THU-KEG/TWAG)|Code and dataset for the ACL 2021 paper "TWAG: A Topic-guided Wikipedia Abstract Generator"|14|2021-08-09|
 |47|[PacktPublishing/Zabbix-5-Network-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-5-Network-Monitoring-Cookbook)|Zabbix 5 Network Monitoring Cookbook, Published by Packt|14|2021-11-01|
-|48|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-01-22|
+|48|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-01-23|
 |49|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2022-01-21|
 |50|[dlandon/zoneminder.master-docker](https://github.com/dlandon/zoneminder.master-docker)|Zoneminder Master Docker|12|2021-12-23|
 |51|[nselem/corason](https://github.com/nselem/corason)|Bioinformatic Tools for study Evolution of metabolic diversity|12|2021-09-01|
@@ -92,7 +92,7 @@
 |85|[DK-Hostmaster/epp-xsd-files](https://github.com/DK-Hostmaster/epp-xsd-files)|XSD files for the DK Hostmaster EPP service|4|2021-12-27|
 |86|[EntropyOrg/p5-Data-Frame](https://github.com/EntropyOrg/p5-Data-Frame)|:notebook: data frame implementation|4|2022-01-03|
 |87|[houseabsolute/DateTime-Format-Strptime](https://github.com/houseabsolute/DateTime-Format-Strptime)|Parse and format strp and strf time patterns|4|2021-09-10|
-|88|[scottwb/dotfiles](https://github.com/scottwb/dotfiles)|My collection of unix dotfiles and other customization goodies.|4|2021-12-31|
+|88|[scottwb/dotfiles](https://github.com/scottwb/dotfiles)|My collection of unix dotfiles and other customization goodies.|4|2022-01-23|
 |89|[briandfoy/tie-cycle](https://github.com/briandfoy/tie-cycle)|Cycle through a list of values via a scalar|4|2022-01-20|
 |90|[teamapps-org/ansible-collection-teamapps-general](https://github.com/teamapps-org/ansible-collection-teamapps-general)|Ansible Collection for different tools of an organization or company|3|2022-01-19|
 |91|[eprintsug/EPrintsOpenAIRE](https://github.com/eprintsug/EPrintsOpenAIRE)|Export to OpenAIRE (Guidelines for Literature Repositories v4) from EPrints digital repository software|3|2021-12-10|
@@ -106,7 +106,7 @@
 |99|[a-j-wood/rt-extension-sharesearchlink](https://github.com/a-j-wood/rt-extension-sharesearchlink)|Request Tracker extension to share ticket searches as shorter links|2|2021-09-06|
 |100|[thibaultduponchelle/messy-ci-workflows](https://github.com/thibaultduponchelle/messy-ci-workflows)|Messy collection of Perl github ci workflows|2|2021-08-02|
 |101|[pkos/magicscan](https://github.com/pkos/magicscan)|Generate disc code serials from a directory scan (magicscan).  Supports ISO, BIN/CUE, and 3DS. Detection algorithms to identify the system from the discs. Options: curate serials with redump.org or ra ...|2|2021-12-28|
-|102|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|2|2021-10-18|
+|102|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|2|2022-01-17|
 |103|[nabenabe0928/initial_setup](https://github.com/nabenabe0928/initial_setup)|This repository presents how to setup your new Ubuntu machine quickly.|2|2021-12-31|
 |104|[shlomif/docmake](https://github.com/shlomif/docmake)|Docmake is an automated builder from DocBook/XML to its output formats (e.g XHTML5 or PDF). It aims to be a saner replacement for xmlto.|2|2021-08-12|
 |105|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|2|2021-12-01|

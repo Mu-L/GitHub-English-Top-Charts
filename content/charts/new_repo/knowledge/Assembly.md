@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,10 +20,10 @@
 |13|[g0pher98/WIL](https://github.com/g0pher98/WIL)|What I Learned✍|9|2021-12-20|2021-03-15|
 |14|[takenobu-hs/cpu-assembly-examples](https://github.com/takenobu-hs/cpu-assembly-examples)|CPU assembly examples|8|2021-08-14|2021-04-29|
 |15|[VitorMob/AsmHelp](https://github.com/VitorMob/AsmHelp)|AsmHelp a simple basic help for those who are starting in assembly, I am a simple student of assembly and I want to share my knowledge for those who have doubts or want to start ... |8|2021-07-30|2021-04-11|
-|16|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|7|2021-12-20|2021-12-14|
-|17|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|7|2021-12-25|2021-07-15|
-|18|[ISSOtm/gb-open-world](https://github.com/ISSOtm/gb-open-world)|A silly revival of a pipe dream. (Note: project is on hold while I work on gb-asm-tutorial. Sorry, please wait a bit!)|7|2021-09-04|2021-03-14|
-|19|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|6|2022-01-15|2022-01-15|
+|16|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|7|2022-01-15|2022-01-15|
+|17|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|7|2021-12-20|2021-12-14|
+|18|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|7|2021-12-25|2021-07-15|
+|19|[ISSOtm/gb-open-world](https://github.com/ISSOtm/gb-open-world)|A silly revival of a pipe dream. (Note: project is on hold while I work on gb-asm-tutorial. Sorry, please wait a bit!)|7|2021-09-04|2021-03-14|
 |20|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2022-01-07|2021-11-28|
 |21|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|6|2022-01-13|2021-04-17|
 |22|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|2021-09-14|
@@ -48,7 +48,7 @@
 |41|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|2022-01-04|2021-02-27|
 |42|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|2022-01-03|2021-12-31|
 |43|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|2|2021-12-19|2021-12-10|
-|44|[PacktPublishing/Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition)|Mastering Reverse Engineering (Second Edition), published by Packt Publishing|2|2022-01-21|2021-12-03|
+|44|[PacktPublishing/Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition)|Mastering Reverse Engineering (Second Edition), published by Packt Publishing|2|2022-01-23|2021-12-03|
 |45|[ruinengLi/GnssNavigationAndVisualization](https://github.com/ruinengLi/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|2021-11-26|2021-11-26|
 |46|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|2021-11-14|2021-11-14|
 |47|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|2021-11-13|2021-11-13|
@@ -60,8 +60,7 @@
 |53|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|2|2022-01-21|2021-09-14|
 |54|[SaraHindySalfer/Nand2Tetris](https://github.com/SaraHindySalfer/Nand2Tetris)|answers to n2t course home work|2|2021-08-14|2021-08-13|
 |55|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|2|2021-10-06|2021-06-16|
-|56|[DorreenRostami/SBU_Microprocessor](https://github.com/DorreenRostami/SBU_Microprocessor)|Repository for Microprocessor course at SBU|2|2021-07-24|2021-06-11|
-|57|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2021-12-03|2021-04-25|
+|56|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2021-12-03|2021-04-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[cszn/DnCNN](https://github.com/cszn/DnCNN)|Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)|1029|2021-10-09|
 |2|[cszn/IRCNN](https://github.com/cszn/IRCNN)|Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)|502|2021-10-09|
 |3|[Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)|Betting Strategy to Beat the Bookies at Football Games|480|2021-10-04|
-|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|362|2022-01-17|
+|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|363|2022-01-17|
 |5|[cszn/SRMD](https://github.com/cszn/SRMD)|Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)|359|2021-10-09|
-|6|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|261|2021-12-16|
-|7|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |260|2021-08-14|
+|6|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |261|2021-08-14|
+|7|[TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)|This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.|261|2021-12-16|
 |8|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|259|2021-10-21|
 |9|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|223|2022-01-03|
-|10|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|193|2022-01-19|
-|11|[emilbjornson/massivemimobook](https://github.com/emilbjornson/massivemimobook)|Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Tren ...|191|2021-07-29|
+|10|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|193|2022-01-23|
+|11|[emilbjornson/massivemimobook](https://github.com/emilbjornson/massivemimobook)|Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Tren ...|192|2021-07-29|
 |12|[PatternRecognition/OpenBMI](https://github.com/PatternRecognition/OpenBMI)|An open software package dedicated for the development of Brain-Computer Interfaces with various advanced pattern recognition algorithms|151|2022-01-05|
 |13|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|150|2022-01-18|
 |14|[hiroyuki-kasai/SGDLibrary](https://github.com/hiroyuki-kasai/SGDLibrary)|MATLAB/Octave library for stochastic optimization algorithms: Version 1.0.20|149|2021-10-07|
@@ -104,14 +104,14 @@
 |97|[yqx7150/MDAEP-SR](https://github.com/yqx7150/MDAEP-SR)|Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution|11|2021-08-04|
 |98|[BrainDynamicsUSYD/SpikeNet](https://github.com/BrainDynamicsUSYD/SpikeNet)|A computational platform for studying spiking neural circuits developed by Dr. Pulin Gong's group at University of Sydney.|11|2022-01-17|
 |99|[robokamran/ControlSystems](https://github.com/robokamran/ControlSystems)|A pack of control system algorithms implemented in C to be used in embedded systems.|10|2021-12-18|
-|100|[zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm](https://github.com/zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm)|A fast Kriging-assisted evolutionary algorithm based on incremental learning|10|2021-12-06|
-|101|[mogulargmbh/powerquerysnippets](https://github.com/mogulargmbh/powerquerysnippets)|Collection of Power Query snippets as shown on powerqueryformatter.com|10|2021-09-10|
-|102|[HonglinChu/EFSCF](https://github.com/HonglinChu/EFSCF)|(2020) Enhanced robust spatial feature selection and correlation filter learning for UAV tracking|10|2021-10-16|
-|103|[Ha0Tang/ASGAN](https://github.com/Ha0Tang/ASGAN)|[FG 2019 Oral] Attribute-Guided Sketch Generation|10|2021-07-25|
-|104|[dappelha/MultiGridMatlab](https://github.com/dappelha/MultiGridMatlab)|Easy to understand Matlab code for geometric multigrid. Great for learning multigrid, with plots at every step.|10|2021-11-19|
-|105|[Fei0906/InSAR-Time-Series-Analysis-Fitting](https://github.com/Fei0906/InSAR-Time-Series-Analysis-Fitting)|Code and test data for the paper: Liu, F., Elliott, J. R., Craig, T. J., Hooper, A., & Wright, T. J. (2021). Improving the resolving power of InSAR for earthquakes using time series: A case study in I ...|9|2021-09-28|
-|106|[fengpanhe/MT-ORL](https://github.com/fengpanhe/MT-ORL)|PyTorch implementation of paper "MT-ORL: Multi-Task Occlusion Relationship Learning" (ICCV 2021)|9|2021-10-17|
-|107|[bakerjw/seismic-hazard-and-risk](https://github.com/bakerjw/seismic-hazard-and-risk)|Supporting calculations for the textbook Seismic Hazard and Risk Analysis|9|2022-01-10|
+|100|[bakerjw/seismic-hazard-and-risk](https://github.com/bakerjw/seismic-hazard-and-risk)|Supporting calculations for the textbook Seismic Hazard and Risk Analysis|10|2022-01-10|
+|101|[zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm](https://github.com/zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm)|A fast Kriging-assisted evolutionary algorithm based on incremental learning|10|2021-12-06|
+|102|[mogulargmbh/powerquerysnippets](https://github.com/mogulargmbh/powerquerysnippets)|Collection of Power Query snippets as shown on powerqueryformatter.com|10|2021-09-10|
+|103|[HonglinChu/EFSCF](https://github.com/HonglinChu/EFSCF)|(2020) Enhanced robust spatial feature selection and correlation filter learning for UAV tracking|10|2021-10-16|
+|104|[Ha0Tang/ASGAN](https://github.com/Ha0Tang/ASGAN)|[FG 2019 Oral] Attribute-Guided Sketch Generation|10|2021-07-25|
+|105|[dappelha/MultiGridMatlab](https://github.com/dappelha/MultiGridMatlab)|Easy to understand Matlab code for geometric multigrid. Great for learning multigrid, with plots at every step.|10|2021-11-19|
+|106|[Fei0906/InSAR-Time-Series-Analysis-Fitting](https://github.com/Fei0906/InSAR-Time-Series-Analysis-Fitting)|Code and test data for the paper: Liu, F., Elliott, J. R., Craig, T. J., Hooper, A., & Wright, T. J. (2021). Improving the resolving power of InSAR for earthquakes using time series: A case study in I ...|9|2021-09-28|
+|107|[fengpanhe/MT-ORL](https://github.com/fengpanhe/MT-ORL)|PyTorch implementation of paper "MT-ORL: Multi-Task Occlusion Relationship Learning" (ICCV 2021)|9|2021-10-17|
 |108|[SamarShabanCS/DSP](https://github.com/SamarShabanCS/DSP)|This a practical lab tutorial repository for digital signal processing |9|2022-01-01|
 |109|[wwangwitsel/PARM](https://github.com/wwangwitsel/PARM)|[NeurIPS' 20] Semi-Supervised Partial Label Learning via Confidence-Rated Margin Maximization|9|2021-11-21|
 |110|[tallamjr/barberbook](https://github.com/tallamjr/barberbook)|Solutions for David Barber's "Bayesian Reasoning and Machine Learning" Book|9|2021-10-06|
@@ -122,17 +122,17 @@
 |115|[vegarant/cilib](https://github.com/vegarant/cilib)|Code for the book "Compressive imaging: Structure, Sampling, Learning".|8|2021-08-26|
 |116|[unstable-zeros/dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|Code needed to reproduce the examples found in the various works published on Distributed and Localized Model Predictive Control via System Level Synthesis, by C. Amo Alonso, S. J. Li, F. Yang, J. And ...|8|2022-01-06|
 |117|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|8|2022-01-21|
-|118|[rusucosmin/til](https://github.com/rusucosmin/til)|Today I learned|8|2021-11-17|
-|119|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|
-|120|[vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection](https://github.com/vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection)|A collection of underwater image restoration and enhancements + saving result to get an overview on quality. These are gathered from a couple of researchers contributions.|7|2022-01-07|
-|121|[YidFeng/Easy2Hard](https://github.com/YidFeng/Easy2Hard)|the implementation of paper "Easy2Hard: Learning to Handle the Intractables from a Synthetic Dataset for Structure-preserving Image Smoothing"|7|2021-09-18|
-|122|[NoemieJaquier/Manipulability](https://github.com/NoemieJaquier/Manipulability)|This repository contains the codes for manipulability learning, tracking and transfer.|7|2021-10-14|
-|123|[su2code/Tutorials](https://github.com/su2code/Tutorials)|Collection of tutorials for SU2|7|2022-01-22|
-|124|[AChavignon/PALA](https://github.com/AChavignon/PALA)|Repository to share scripts and functions for OPUS-PALA article, and LOTUS Software. All functions are usable with agreement from their owner.|7|2021-10-13|
-|125|[dmascali/fmri_denoising](https://github.com/dmascali/fmri_denoising)|Collection of Matlab functions for denoising fMRI data|7|2021-10-06|
+|118|[dmascali/fmri_denoising](https://github.com/dmascali/fmri_denoising)|Collection of Matlab functions for denoising fMRI data|8|2021-10-06|
+|119|[rusucosmin/til](https://github.com/rusucosmin/til)|Today I learned|8|2021-11-17|
+|120|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|
+|121|[vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection](https://github.com/vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection)|A collection of underwater image restoration and enhancements + saving result to get an overview on quality. These are gathered from a couple of researchers contributions.|7|2022-01-07|
+|122|[YidFeng/Easy2Hard](https://github.com/YidFeng/Easy2Hard)|the implementation of paper "Easy2Hard: Learning to Handle the Intractables from a Synthetic Dataset for Structure-preserving Image Smoothing"|7|2021-09-18|
+|123|[NoemieJaquier/Manipulability](https://github.com/NoemieJaquier/Manipulability)|This repository contains the codes for manipulability learning, tracking and transfer.|7|2021-10-14|
+|124|[su2code/Tutorials](https://github.com/su2code/Tutorials)|Collection of tutorials for SU2|7|2022-01-22|
+|125|[AChavignon/PALA](https://github.com/AChavignon/PALA)|Repository to share scripts and functions for OPUS-PALA article, and LOTUS Software. All functions are usable with agreement from their owner.|7|2021-10-13|
 |126|[gnotomista/swarm_sim](https://github.com/gnotomista/swarm_sim)|Simulator for swarm robotics and networked control algorithms|7|2021-10-12|
 |127|[parthnagarkar875/Sclera_Recognition](https://github.com/parthnagarkar875/Sclera_Recognition)|A new method for bio metric authentication system was developed in which the users were authenticated on the basis of their Sclera. A photo of the user's eye was captured and it was processed with the ...|7|2021-10-27|
-|128|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|7|2022-01-20|
+|128|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|7|2022-01-23|
 |129|[OrenForkosh/IdentityDomains](https://github.com/OrenForkosh/IdentityDomains)|Mathematical Framework for the Study of Personality|7|2021-12-27|
 |130|[LaurentNevou/Light_WaveGuide1D](https://github.com/LaurentNevou/Light_WaveGuide1D)|Computes effective mode in a 1D wave guide|7|2021-08-09|
 |131|[PrincetonUniversity/3D3A-MATLAB-Toolbox](https://github.com/PrincetonUniversity/3D3A-MATLAB-Toolbox)|Collection of various MATLAB functions for spatial audio processing released by the 3D3A Lab at Princeton University|7|2021-09-25|

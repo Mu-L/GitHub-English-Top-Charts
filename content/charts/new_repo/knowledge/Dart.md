@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3129|2022-01-22|2021-03-29|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|233|2021-12-29|2021-01-31|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3135|2022-01-22|2021-03-29|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|234|2021-12-29|2021-01-31|
 |3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|204|2021-11-08|2021-02-05|
-|4|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|141|2021-10-24|2021-05-28|
+|4|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|142|2022-01-23|2021-05-28|
 |5|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|130|2022-01-14|2021-04-08|
 |6|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|75|2022-01-07|2021-02-12|
 |7|[JohannesMilke/generate_pdf_invoice_example](https://github.com/JohannesMilke/generate_pdf_invoice_example)|Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.|73|2021-11-08|2021-03-27|
-|8|[nileshtrivedi/devtoolbox](https://github.com/nileshtrivedi/devtoolbox)|Collection of offline utilities for developers|51|2022-01-22|2022-01-01|
+|8|[nileshtrivedi/devtoolbox](https://github.com/nileshtrivedi/devtoolbox)|Collection of offline utilities for developers|54|2022-01-22|2022-01-01|
 |9|[saiankit/Flutter-Summer-Group-2021](https://github.com/saiankit/Flutter-Summer-Group-2021)|This is the repository to store the course content and assignments pertaining to Flutter Summer Group hosted by CRUx in 2021 Summer|48|2021-08-02|2021-07-07|
 |10|[VGVentures/bloc_concurrency_demos](https://github.com/VGVentures/bloc_concurrency_demos)|3 different demos showing how to use bloc concurrency, before and after the Bloc 7.2.0 update.|38|2021-11-01|2021-10-21|
 |11|[openkraken/samples](https://github.com/openkraken/samples)|A collection of Krakens examples and demos.|36|2022-01-12|2021-03-05|
-|12|[durannumit/valorant-guide](https://github.com/durannumit/valorant-guide)|Flutter Valorant Guide|34|2022-01-09|2022-01-02|
+|12|[durannumit/valorant-guide](https://github.com/durannumit/valorant-guide)|Flutter Valorant Guide|35|2022-01-09|2022-01-02|
 |13|[fredgrott/not_in_flutter_docs](https://github.com/fredgrott/not_in_flutter_docs)|flutter code tutorials|32|2021-11-19|2021-10-15|
 |14|[salkuadrat/fstates](https://github.com/salkuadrat/fstates)|Infinite List Examples with Various State Managements in Flutter|32|2021-11-23|2021-08-07|
 |15|[RounakTadvi/internet_connection_checker](https://github.com/RounakTadvi/internet_connection_checker)|A pure Dart library that checks for internet by opening a socket to   a list of specified addresses, each with individual port and timeout. Defaults   are provided for convenience.|32|2021-11-28|2021-03-09|
@@ -25,7 +25,7 @@
 |18|[cupertino-plus/cupertino_plus](https://github.com/cupertino-plus/cupertino_plus)|A collection of pixel-perfect iOS-styled components and properties for Flutter, following the official guidelines.|28|2021-10-23|2021-09-26|
 |19|[VGVentures/robot_testing](https://github.com/VGVentures/robot_testing)|How to use the Robot Testing pattern in Flutter|27|2021-12-23|2021-03-17|
 |20|[yazdidev/learn_flutter_theme](https://github.com/yazdidev/learn_flutter_theme)|Learn flutter theme in this project|26|2022-01-17|2022-01-11|
-|21|[ACM-VIT/fludget](https://github.com/ACM-VIT/fludget)|Learn Flutter on Flutter! A widget directory with implementation samples!|25|2021-10-31|2021-09-29|
+|21|[ACM-VIT/fludget](https://github.com/ACM-VIT/fludget)|Learn Flutter on Flutter! A widget directory with implementation samples!|26|2021-10-31|2021-09-29|
 |22|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|25|2021-09-20|2021-09-08|
 |23|[faisalramdan17/car_rental_lite](https://github.com/faisalramdan17/car_rental_lite)|A platform for car sharing where users can book any car that suits their needs and wants for their intended journey, from the closest hosts in the community.|25|2021-10-05|2021-03-07|
 |24|[VB10/Dart-Language-Full-Course](https://github.com/VB10/Dart-Language-Full-Course)|This repository created to learn deeply dart language  with examples|24|2022-01-14|2022-01-05|
@@ -33,9 +33,9 @@
 |26|[talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter)|Flutter guide + SDK. Check Community repository for common information.|23|2021-12-21|2021-08-12|
 |27|[GhostWalker562/flutterbook](https://github.com/GhostWalker562/flutterbook)|📓 Storyboard your components with Flutterbook. Develop, document, & test any kind of Flutter component.|21|2022-01-22|2021-07-09|
 |28|[proninyaroslav/blink-comparison](https://github.com/proninyaroslav/blink-comparison)|Simplifies comparing photos of tamper-evident seals and patterns using your eyes|20|2022-01-07|2021-08-17|
-|29|[zenonine/navi](https://github.com/zenonine/navi)|A simple and easy to learn declarative navigation framework for Flutter, based on Navigator 2.0.|19|2021-09-12|2021-03-07|
-|30|[Flutter-Master/Flutter-Master](https://github.com/Flutter-Master/Flutter-Master)|Source code for @flutter.master|18|2021-08-25|2021-07-25|
-|31|[suragch/flutter_audio_service_demo](https://github.com/suragch/flutter_audio_service_demo)|Companion project for Flutter audio_service tutorial|18|2021-08-02|2021-07-09|
+|29|[suragch/flutter_audio_service_demo](https://github.com/suragch/flutter_audio_service_demo)|Companion project for Flutter audio_service tutorial|20|2021-08-02|2021-07-09|
+|30|[zenonine/navi](https://github.com/zenonine/navi)|A simple and easy to learn declarative navigation framework for Flutter, based on Navigator 2.0.|19|2021-09-12|2021-03-07|
+|31|[Flutter-Master/Flutter-Master](https://github.com/Flutter-Master/Flutter-Master)|Source code for @flutter.master|18|2021-08-25|2021-07-25|
 |32|[rosera/flutter_workshop](https://github.com/rosera/flutter_workshop)|Introductory course to learn Dart/Flutter|16|2022-01-17|2021-06-26|
 |33|[Davies-K/fendi](https://github.com/Davies-K/fendi)|Fendi Women's Lookbook created with Flutter|16|2021-08-04|2021-06-01|
 |34|[praharshbhatt/flutter-tips-and-tricks](https://github.com/praharshbhatt/flutter-tips-and-tricks)|Flutter tips and tricks to make the development smoother and easier|15|2021-10-18|2021-10-04|
@@ -98,21 +98,20 @@
 |91|[mhadaily/serverless-authentication-authorization-flutter](https://github.com/mhadaily/serverless-authentication-authorization-flutter)|OAuth/OpenID Connect    Serverless Authentication and Authorization for Flutter   Auth0 and GetStream.io Chat integration course|5|2022-01-06|2021-07-12|
 |92|[tejasvb/Breaking-News](https://github.com/tejasvb/Breaking-News)|Flutter application for latest news by top newspapers . And allow for share articles with friends. Now available in night mode. Also landscape mode is available |5|2021-10-31|2021-06-20|
 |93|[saiive/defimnsigner](https://github.com/saiive/defimnsigner)|DefiChain Masternode Signer|5|2021-11-23|2021-06-01|
-|94|[mezoni/rocket](https://github.com/mezoni/rocket)|Rocket is a parsing framework for parsing any kind (text, binary etc) of data structures using efficient parsing algorithms.|5|2021-07-24|2021-05-29|
-|95|[Tanay-Gupta/LazyShare](https://github.com/Tanay-Gupta/LazyShare)|Introducing LazyShare. Now send WhatsApp messages without saving number.|5|2021-08-12|2021-05-06|
-|96|[foxanna/flutteristas_conf_2021](https://github.com/foxanna/flutteristas_conf_2021)|Mobile application that displays a list of the upcoming space mission launches, implemented with Flutter and showcasing code-generation application in API models, API services, dependency injection, a ...|5|2021-12-27|2021-04-14|
-|97|[Mobile-Telematics/telematicsSDK-demoapp-flutter-](https://github.com/Mobile-Telematics/telematicsSDK-demoapp-flutter-)|Demo telematics app for Flutter. The application walks you through the telematics SDK integration. The technology is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe dri ...|5|2021-08-07|2021-04-05|
-|98|[Koushikphy/Shared-Expense-Manager](https://github.com/Koushikphy/Shared-Expense-Manager)|An Android and iOS app for managing group shared expenses.|5|2022-01-06|2021-04-04|
-|99|[kartik-pant-23/IIITB-Hogwarts_Hacktoberfest](https://github.com/kartik-pant-23/IIITB-Hogwarts_Hacktoberfest)|IIITB Hogwarts is a project which aims at increasing students' interest in creating projects and giving them a platform to share them with others.|4|2021-10-14|2021-10-03|
-|100|[nooralibutt/easy-ads](https://github.com/nooralibutt/easy-ads)|This repo has the integration of AdMob, AppLovin-Max, UnityAds, and Facebook ads.|4|2021-10-25|2021-09-10|
-|101|[Klerith/dart_polyline_do](https://github.com/Klerith/dart_polyline_do)|Polyline encoding algorithm for encoding and decoding a list of coordinates|4|2021-08-31|2021-08-31|
-|102|[AnJW-HGU/2021CRASummer](https://github.com/AnJW-HGU/2021CRASummer)|Study Together|4|2021-11-21|2021-07-06|
-|103|[Sounmay/Prayas-Booking-App-Service](https://github.com/Sounmay/Prayas-Booking-App-Service)|Service Side of Freelance Booking Application|4|2021-11-21|2021-07-05|
-|104|[cody0203/flutter-examples](https://github.com/cody0203/flutter-examples)|Learn Flutter by easy-to-difficult examples|4|2021-09-15|2021-06-29|
-|105|[Shubh0O00/ReadCafe](https://github.com/Shubh0O00/ReadCafe)|A web application developed using flutter for books review and recommendation.|4|2021-08-18|2021-06-10|
-|106|[Young-TW/Dart](https://github.com/Young-TW/Dart)|Dart & Flutter learning|4|2021-07-29|2021-04-24|
-|107|[tscholze/flutter-surfaceduo-rssbook](https://github.com/tscholze/flutter-surfaceduo-rssbook)|Read your RSS feed like it would be an  ebook - A sample Android app that demonstrates the unique features of a Surface Duo.|4|2021-10-07|2021-04-18|
-|108|[AlMamun-CSE/Dart_Basic_Programs](https://github.com/AlMamun-CSE/Dart_Basic_Programs)|Learn Dart Programming, its basics and Fundamentals from scratch.|4|2021-09-15|2021-02-04|
+|94|[Tanay-Gupta/LazyShare](https://github.com/Tanay-Gupta/LazyShare)|Introducing LazyShare. Now send WhatsApp messages without saving number.|5|2021-08-12|2021-05-06|
+|95|[foxanna/flutteristas_conf_2021](https://github.com/foxanna/flutteristas_conf_2021)|Mobile application that displays a list of the upcoming space mission launches, implemented with Flutter and showcasing code-generation application in API models, API services, dependency injection, a ...|5|2021-12-27|2021-04-14|
+|96|[Mobile-Telematics/telematicsSDK-demoapp-flutter-](https://github.com/Mobile-Telematics/telematicsSDK-demoapp-flutter-)|Demo telematics app for Flutter. The application walks you through the telematics SDK integration. The technology is suitable for UBI (Usage-based insurance), shared mobility, transportation, safe dri ...|5|2021-08-07|2021-04-05|
+|97|[Koushikphy/Shared-Expense-Manager](https://github.com/Koushikphy/Shared-Expense-Manager)|An Android and iOS app for managing group shared expenses.|5|2022-01-06|2021-04-04|
+|98|[kartik-pant-23/IIITB-Hogwarts_Hacktoberfest](https://github.com/kartik-pant-23/IIITB-Hogwarts_Hacktoberfest)|IIITB Hogwarts is a project which aims at increasing students' interest in creating projects and giving them a platform to share them with others.|4|2021-10-14|2021-10-03|
+|99|[nooralibutt/easy-ads](https://github.com/nooralibutt/easy-ads)|This repo has the integration of AdMob, AppLovin-Max, UnityAds, and Facebook ads.|4|2021-10-25|2021-09-10|
+|100|[Klerith/dart_polyline_do](https://github.com/Klerith/dart_polyline_do)|Polyline encoding algorithm for encoding and decoding a list of coordinates|4|2021-08-31|2021-08-31|
+|101|[AnJW-HGU/2021CRASummer](https://github.com/AnJW-HGU/2021CRASummer)|Study Together|4|2021-11-21|2021-07-06|
+|102|[Sounmay/Prayas-Booking-App-Service](https://github.com/Sounmay/Prayas-Booking-App-Service)|Service Side of Freelance Booking Application|4|2021-11-21|2021-07-05|
+|103|[cody0203/flutter-examples](https://github.com/cody0203/flutter-examples)|Learn Flutter by easy-to-difficult examples|4|2021-09-15|2021-06-29|
+|104|[Shubh0O00/ReadCafe](https://github.com/Shubh0O00/ReadCafe)|A web application developed using flutter for books review and recommendation.|4|2021-08-18|2021-06-10|
+|105|[Young-TW/Dart](https://github.com/Young-TW/Dart)|Dart & Flutter learning|4|2021-07-29|2021-04-24|
+|106|[tscholze/flutter-surfaceduo-rssbook](https://github.com/tscholze/flutter-surfaceduo-rssbook)|Read your RSS feed like it would be an  ebook - A sample Android app that demonstrates the unique features of a Surface Duo.|4|2021-10-07|2021-04-18|
+|107|[AlMamun-CSE/Dart_Basic_Programs](https://github.com/AlMamun-CSE/Dart_Basic_Programs)|Learn Dart Programming, its basics and Fundamentals from scratch.|4|2021-09-15|2021-02-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

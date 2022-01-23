@@ -1,59 +1,58 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|7063|2022-01-22|2021-02-14|
-|2|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|2700|2021-12-04|2021-01-23|
-|3|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1649|2022-01-21|2021-06-16|
-|4|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1434|2022-01-04|2021-05-25|
-|5|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1428|2022-01-22|2021-08-28|
-|6|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1414|2021-12-29|2021-04-22|
-|7|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |823|2022-01-12|2021-06-03|
-|8|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|812|2021-10-03|2021-09-21|
-|9|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|791|2022-01-20|2021-04-13|
-|10|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|631|2021-08-16|2021-07-31|
-|11|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|554|2022-01-06|2021-05-31|
-|12|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|488|2021-10-28|2021-02-17|
-|13|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|465|2021-12-09|2021-03-11|
-|14|[bvaughn/planner](https://github.com/bvaughn/planner)|Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas|453|2022-01-16|2021-12-21|
-|15|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|453|2022-01-22|2021-01-25|
-|16|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|429|2021-09-15|2021-03-28|
-|17|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|386|2022-01-19|2021-02-26|
-|18|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|356|2022-01-22|2021-03-13|
-|19|[comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)|List of Fabric server side mods|328|2022-01-19|2021-03-13|
-|20|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|322|2022-01-14|2021-09-19|
-|21|[vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)|This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀|305|2022-01-01|2021-02-23|
-|22|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|300|2021-12-26|2021-09-13|
-|23|[asg017/dataflow](https://github.com/asg017/dataflow)|An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!|284|2021-10-22|2021-03-02|
-|24|[jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension)|Chrome extension for auto-grouping tabs by URL patterns|283|2021-08-12|2021-05-03|
-|25|[AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers)|This repository contains a list of popular CNAME trackers|282|2022-01-17|2021-02-28|
-|26|[ashok-khanna/pdf](https://github.com/ashok-khanna/pdf)|Tutorial on paged.js|272|2021-08-12|2021-03-27|
-|27|[MuriungiPatrick/Bootstrap-5-portfolio-template](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template)|Learning Bootstrap 5 with SASS|218|2021-09-29|2021-05-03|
-|28|[himanchau/react-native-book-app](https://github.com/himanchau/react-native-book-app)|React Native Book List App|192|2021-09-15|2021-02-20|
-|29|[looeee/discoverthreejs-site](https://github.com/looeee/discoverthreejs-site)|Repo for the book Discover three.js!|182|2021-12-11|2021-04-14|
-|30|[Halmesn/Hotflix](https://github.com/Halmesn/Hotflix)|🍿 This project landed me an interview with Netflix!|178|2021-08-10|2021-04-30|
-|31|[yashwanthm/cowin-vaccine-booking](https://github.com/yashwanthm/cowin-vaccine-booking)|The app enables tracking coivid vaccine availability and automatically book a vaccination slot. This is based on Cowin API and supports the recently added Captcha code of Cowin.|149|2021-09-05|2021-05-03|
-|32|[scrimba/learn-javascript](https://github.com/scrimba/learn-javascript)|Starter files for the challenges in the Learn JavaScript course|146|2021-12-08|2021-05-20|
-|33|[thesephist/revery](https://github.com/thesephist/revery)|A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal  ...|145|2021-08-08|2021-08-01|
-|34|[alok722/namaste-javascript-notes](https://github.com/alok722/namaste-javascript-notes)|It maintains my version of js notes which I learned from the famous Namaste Javascript Youtube Series by Akshay Saini.|139|2021-07-27|2021-07-14|
-|35|[ethereum/execution-apis](https://github.com/ethereum/execution-apis)|Collection of JSON-RPC APIs provided by Ethereum execution engines |131|2021-12-10|2021-06-16|
-|36|[HashLips/nft_game](https://github.com/HashLips/nft_game)|Learn how to create a NFT game and connect to a smart contract.|129|2021-10-20|2021-08-09|
-|37|[georgedoescode/generative-utils](https://github.com/georgedoescode/generative-utils)|A collection of handy generative art utilities|125|2021-09-01|2021-03-09|
-|38|[johanmodin/clifs](https://github.com/johanmodin/clifs)|Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine-learning model CLIP |123|2021-10-13|2021-03-15|
-|39|[ryanburgess/manager-interview-questions](https://github.com/ryanburgess/manager-interview-questions)|Example questions for a manager interview|120|2021-09-21|2021-09-20|
-|40|[baobabKoodaa/cloudbite](https://github.com/baobabKoodaa/cloudbite)|Cloudbite - Bite-sized cloud learning with spaced repetition|114|2021-10-11|2021-04-17|
-|41|[guyandtheworld/reallyconfused](https://github.com/guyandtheworld/reallyconfused)|Explore, Create and Share Learning Roadmaps in Tech 📍 🚀  🧗 🎒|113|2021-12-07|2021-12-04|
-|42|[manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website)|✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.|108|2021-08-21|2021-08-01|
-|43|[enjeck/libre-logos](https://github.com/enjeck/libre-logos)|A collection of free logos for open source projects|107|2021-10-17|2021-07-22|
-|44|[sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives)| CTF Archives: Collection of CTF Challenges.|102|2021-12-13|2021-06-10|
-|45|[cortictechnology/cep](https://github.com/cortictechnology/cep)|CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components. |100|2021-12-09|2021-08-04|
-|46|[MartinsOnuoha/company-engineering-blogs](https://github.com/MartinsOnuoha/company-engineering-blogs)|A collection of companies' engineering blogs, to help you improve your software engineering skill and learn how their software work. 📖🛠|99|2021-10-22|2021-05-20|
-|47|[iskurbanov/shopify-next.js-tailwind](https://github.com/iskurbanov/shopify-next.js-tailwind)|Learn the Shopify + Next.js + Tailwind CSS Stack!|96|2021-11-15|2021-08-25|
-|48|[miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)|A simple Facebook Messenger Bot like Discord Was Made By Me(CatalizCS) And My Brother SpermLord|96|2021-11-08|2021-06-09|
-|49|[jvolker/miq-nz-booking-tools](https://github.com/jvolker/miq-nz-booking-tools)|Tools to help booking a spot in New Zealand Managed Isolation and Quarantine. Automatically refreshes, checks and fills forms in the website to find and book the rare spots.|93|2021-08-23|2021-03-16|
+|1|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|7065|2022-01-22|2021-02-14|
+|2|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1650|2022-01-23|2021-06-16|
+|3|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1439|2022-01-04|2021-05-25|
+|4|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1432|2022-01-22|2021-08-28|
+|5|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1414|2021-12-29|2021-04-22|
+|6|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |822|2022-01-23|2021-06-03|
+|7|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|812|2021-10-03|2021-09-21|
+|8|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|791|2022-01-20|2021-04-13|
+|9|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|644|2021-08-16|2021-07-31|
+|10|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|554|2022-01-06|2021-05-31|
+|11|[upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|489|2021-10-28|2021-02-17|
+|12|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|465|2021-12-09|2021-03-11|
+|13|[bvaughn/planner](https://github.com/bvaughn/planner)|Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas|460|2022-01-23|2021-12-21|
+|14|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|457|2022-01-22|2021-01-25|
+|15|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|429|2021-09-15|2021-03-28|
+|16|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|389|2022-01-19|2021-02-26|
+|17|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|359|2022-01-23|2021-03-13|
+|18|[comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)|List of Fabric server side mods|329|2022-01-19|2021-03-13|
+|19|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|323|2022-01-14|2021-09-19|
+|20|[vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)|This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀|307|2022-01-01|2021-02-23|
+|21|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|300|2021-12-26|2021-09-13|
+|22|[asg017/dataflow](https://github.com/asg017/dataflow)|An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!|284|2021-10-22|2021-03-02|
+|23|[jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension)|Chrome extension for auto-grouping tabs by URL patterns|283|2021-08-12|2021-05-03|
+|24|[AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers)|This repository contains a list of popular CNAME trackers|282|2022-01-17|2021-02-28|
+|25|[ashok-khanna/pdf](https://github.com/ashok-khanna/pdf)|Tutorial on paged.js|272|2021-08-12|2021-03-27|
+|26|[MuriungiPatrick/Bootstrap-5-portfolio-template](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template)|Learning Bootstrap 5 with SASS|218|2021-09-29|2021-05-03|
+|27|[himanchau/react-native-book-app](https://github.com/himanchau/react-native-book-app)|React Native Book List App|192|2021-09-15|2021-02-20|
+|28|[looeee/discoverthreejs-site](https://github.com/looeee/discoverthreejs-site)|Repo for the book Discover three.js!|182|2021-12-11|2021-04-14|
+|29|[Halmesn/Hotflix](https://github.com/Halmesn/Hotflix)|🍿 This project landed me an interview with Netflix!|178|2021-08-10|2021-04-30|
+|30|[yashwanthm/cowin-vaccine-booking](https://github.com/yashwanthm/cowin-vaccine-booking)|The app enables tracking coivid vaccine availability and automatically book a vaccination slot. This is based on Cowin API and supports the recently added Captcha code of Cowin.|149|2021-09-05|2021-05-03|
+|31|[scrimba/learn-javascript](https://github.com/scrimba/learn-javascript)|Starter files for the challenges in the Learn JavaScript course|146|2021-12-08|2021-05-20|
+|32|[thesephist/revery](https://github.com/thesephist/revery)|A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal  ...|145|2021-08-08|2021-08-01|
+|33|[alok722/namaste-javascript-notes](https://github.com/alok722/namaste-javascript-notes)|It maintains my version of js notes which I learned from the famous Namaste Javascript Youtube Series by Akshay Saini.|139|2021-07-27|2021-07-14|
+|34|[ethereum/execution-apis](https://github.com/ethereum/execution-apis)|Collection of JSON-RPC APIs provided by Ethereum execution engines |131|2021-12-10|2021-06-16|
+|35|[HashLips/nft_game](https://github.com/HashLips/nft_game)|Learn how to create a NFT game and connect to a smart contract.|129|2021-10-20|2021-08-09|
+|36|[georgedoescode/generative-utils](https://github.com/georgedoescode/generative-utils)|A collection of handy generative art utilities|125|2021-09-01|2021-03-09|
+|37|[johanmodin/clifs](https://github.com/johanmodin/clifs)|Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine-learning model CLIP |123|2021-10-13|2021-03-15|
+|38|[ryanburgess/manager-interview-questions](https://github.com/ryanburgess/manager-interview-questions)|Example questions for a manager interview|120|2021-09-21|2021-09-20|
+|39|[baobabKoodaa/cloudbite](https://github.com/baobabKoodaa/cloudbite)|Cloudbite - Bite-sized cloud learning with spaced repetition|114|2021-10-11|2021-04-17|
+|40|[guyandtheworld/reallyconfused](https://github.com/guyandtheworld/reallyconfused)|Explore, Create and Share Learning Roadmaps in Tech 📍 🚀  🧗 🎒|113|2021-12-07|2021-12-04|
+|41|[manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website)|✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.|108|2021-08-21|2021-08-01|
+|42|[enjeck/libre-logos](https://github.com/enjeck/libre-logos)|A collection of free logos for open source projects|107|2021-10-17|2021-07-22|
+|43|[sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives)| CTF Archives: Collection of CTF Challenges.|102|2021-12-13|2021-06-10|
+|44|[cortictechnology/cep](https://github.com/cortictechnology/cep)|CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components. |100|2021-12-09|2021-08-04|
+|45|[MartinsOnuoha/company-engineering-blogs](https://github.com/MartinsOnuoha/company-engineering-blogs)|A collection of companies' engineering blogs, to help you improve your software engineering skill and learn how their software work. 📖🛠|99|2021-10-22|2021-05-20|
+|46|[iskurbanov/shopify-next.js-tailwind](https://github.com/iskurbanov/shopify-next.js-tailwind)|Learn the Shopify + Next.js + Tailwind CSS Stack!|96|2021-11-15|2021-08-25|
+|47|[miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)|A simple Facebook Messenger Bot like Discord Was Made By Me(CatalizCS) And My Brother SpermLord|96|2021-11-08|2021-06-09|
+|48|[jvolker/miq-nz-booking-tools](https://github.com/jvolker/miq-nz-booking-tools)|Tools to help booking a spot in New Zealand Managed Isolation and Quarantine. Automatically refreshes, checks and fills forms in the website to find and book the rare spots.|93|2021-08-23|2021-03-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

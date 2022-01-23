@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|1993|2022-01-21|2021-12-01|
-|2|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|415|2022-01-20|2021-04-18|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.|2009|2022-01-21|2021-12-01|
+|2|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|419|2022-01-20|2021-04-18|
 |3|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|290|2021-10-23|2021-06-22|
 |4|[SimformSolutionsPvtLtd/SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook)|A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌|132|2022-01-11|2021-06-22|
 |5|[slackhq/slack-lints](https://github.com/slackhq/slack-lints)|A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.|100|2022-01-19|2021-10-20|
 |6|[c5inco/Compose-Modifiers-Playground](https://github.com/c5inco/Compose-Modifiers-Playground)|Interactive playground for learning how to use Jetpack Compose modifiers|98|2021-12-29|2021-03-19|
-|7|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|72|2022-01-10|2021-04-12|
+|7|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|73|2022-01-10|2021-04-12|
 |8|[ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose)|A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!|60|2022-01-19|2021-08-07|
 |9|[Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow](https://github.com/Kotlin-Android-Open-Source/Jetpack-Compose-MVI-Coroutines-Flow)|[IN PROGRESS...] Play MVI with Kotlin Coroutines Flow and Jetpack Compose   MVI pattern on Android using Kotlin Coroutines Flow   Dagger Hilt DI   Koin DI   SharedFlow   StateFlow   Jetpack Compose MV ...|60|2021-12-15|2021-03-02|
 |10|[romainguy/experiment-apex](https://github.com/romainguy/experiment-apex)|A basic, incomplete, buggy, far from efficient UI toolkit for Kotlin/Android. An experiment for fun and to learn.|52|2021-11-25|2021-11-25|
@@ -34,7 +34,7 @@
 |27|[AseemWangoo/hands_on_kotlin](https://github.com/AseemWangoo/hands_on_kotlin)|Experiments with Compose and latest architecture patterns in Kotlin|21|2021-11-22|2021-04-20|
 |28|[readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit)|A toolkit for ebooks, audiobooks and comics written in Kotlin|19|2022-01-21|2021-09-23|
 |29|[jumaallan/apollo-agriculture](https://github.com/jumaallan/apollo-agriculture)|Show weather data for the current location [Apollo Agriculture Interview Solution], for the Senior Android Engineer Role|19|2021-09-09|2021-08-30|
-|30|[aqua30/Otp-Demo---Kotlin](https://github.com/aqua30/Otp-Demo---Kotlin)|A learning project which focuses on designing an OTP flow and use of various components of Android efficiently|18|2021-08-17|2021-08-08|
+|30|[aqua30/Otp-Demo---Kotlin](https://github.com/aqua30/Otp-Demo---Kotlin)|A learning project which focuses on designing an OTP flow and use of various components of Android efficiently|19|2021-08-17|2021-08-08|
 |31|[EhmaUgbogo/EasyPref](https://github.com/EhmaUgbogo/EasyPref)|SharedPreference Library to save all types including your custom types and observe them if need be.|18|2021-11-10|2021-05-29|
 |32|[RajashekarRaju/jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples)|This repository contains samples on jetpack compose for building different components like layouts, animations, transitions, saving states and more. Most of examples are demonstrated in blog posts.|18|2021-12-05|2021-03-11|
 |33|[Kashif-E/The-MVVM-Template-2022](https://github.com/Kashif-E/The-MVVM-Template-2022)|Clean MVVM with eliminating the usage of context from view models by introducing hilt for DI and sealed classes for displaying Errors in views using shared flows (one time event), and Stateflow for da ...|16|2021-12-11|2021-12-03|

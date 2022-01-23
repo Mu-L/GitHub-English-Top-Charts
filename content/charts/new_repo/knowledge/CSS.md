@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|775|2021-11-11|2021-10-23|
-|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|334|2021-08-30|2021-02-07|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|779|2021-11-11|2021-10-23|
+|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|335|2021-08-30|2021-02-07|
 |3|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|212|2021-10-13|2021-01-27|
 |4|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|2021-10-26|2021-04-05|
-|5|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|146|2022-01-19|2021-04-19|
-|6|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|79|2022-01-14|2021-08-20|
+|5|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|146|2022-01-22|2021-04-19|
+|6|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|80|2022-01-14|2021-08-20|
 |7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|73|2022-01-13|2021-06-15|
 |8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|68|2021-11-22|2021-09-26|
 |9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
@@ -26,20 +26,20 @@
 |19|[xfce-ricer/custom-xfce-panels](https://github.com/xfce-ricer/custom-xfce-panels)|a simple guide to use when creating your gtk.css file for |28|2021-08-08|2021-06-28|
 |20|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|28|2021-09-16|2021-02-27|
 |21|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|22|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|24|2022-01-19|2021-10-08|
-|23|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|23|2021-12-28|2021-11-30|
+|22|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|24|2021-12-28|2021-11-30|
+|23|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|24|2022-01-19|2021-10-08|
 |24|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
 |25|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript will include in here. |20|2022-01-21|2021-09-03|
 |26|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
 |27|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
 |28|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|18|2021-10-02|2021-10-01|
-|29|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|18|2022-01-22|2021-06-16|
+|29|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|18|2022-01-23|2021-06-16|
 |30|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|16|2021-08-03|2021-08-03|
 |31|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|32|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|16|2021-10-22|2021-02-15|
+|32|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|16|2022-01-23|2021-02-15|
 |33|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
 |34|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
-|35|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|14|2022-01-21|2022-01-21|
+|35|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|14|2022-01-23|2022-01-21|
 |36|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
 |37|[Ksound22/JabTV-Landing-Page](https://github.com/Ksound22/JabTV-Landing-Page)|A Landing page tutorial for freecodecamp publication readers|13|2022-01-13|2021-11-27|
 |38|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|13|2021-10-29|2021-08-02|
