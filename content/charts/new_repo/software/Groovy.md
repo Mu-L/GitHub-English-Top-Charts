@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -48,7 +48,7 @@
 |41|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
 |42|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
 |43|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
-|44|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|2|2022-01-18|2021-10-04|
+|44|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|2|2022-01-24|2021-10-04|
 |45|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
 |46|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
 |47|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
@@ -67,7 +67,7 @@
 |60|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
 |61|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
 |62|[Notorious-Guild/scraper](https://github.com/Notorious-Guild/scraper)|scrapes and filters users from wowprogress then posts them to a discord webhook|2|2021-08-05|2021-03-15|
-|63|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2022-01-14|2021-02-16|
+|63|[onap/cps-cps-temporal](https://github.com/onap/cps-cps-temporal)|Mirror of the cps/cps-temporal repo|2|2022-01-24|2021-02-16|
 |64|[ymerj/HE-HA-control](https://github.com/ymerj/HE-HA-control)|-|2|2022-01-19|2021-02-05|
 |65|[devatherock/kafka-lag-monitor](https://github.com/devatherock/kafka-lag-monitor)|Monitors kafka lag and publishes the metrics to different metrics backends|2|2021-12-13|2021-01-31|
 
