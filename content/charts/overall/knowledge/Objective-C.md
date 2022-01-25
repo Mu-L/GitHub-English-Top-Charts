@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13874|2022-01-23|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4746|2022-01-15|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13875|2022-01-23|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4747|2022-01-15|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3298|2021-12-04|
 |4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2852|2021-09-21|
-|5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|2021-12-16|
+|5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2720|2021-12-16|
 |6|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2092|2021-11-22|
 |7|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1758|2022-01-10|
 |8|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1661|2021-11-02|
-|9|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1201|2022-01-24|
+|9|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1202|2022-01-25|
 |10|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|2021-10-01|
 |11|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|449|2021-12-24|
 |12|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|444|2022-01-06|
 |13|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|441|2021-10-27|
 |14|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|295|2021-09-30|
 |15|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|2021-12-22|
-|16|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|163|2022-01-15|
+|16|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|2022-01-15|
 |17|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|161|2021-11-29|
-|18|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|131|2022-01-20|
+|18|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|133|2022-01-20|
 |19|[TofPlay/SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)|Tutorial to create cross platform framework for Swift compatible with Carthage and SwiftPM|112|2021-08-06|
-|20|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|90|2022-01-19|
+|20|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|91|2022-01-19|
 |21|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|87|2021-11-27|
 |22|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|87|2021-12-27|
 |23|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|78|2022-01-11|
@@ -59,12 +59,12 @@
 |52|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|9|2022-01-02|
 |53|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|2021-11-18|
 |54|[Wolfgang89/NoTiToBroadNSE](https://github.com/Wolfgang89/NoTiToBroadNSE)|A boilerplate project  how to broadcast a mp3 audiofile using NSE.|8|2021-11-18|
-|55|[yatharthrajput/BMI](https://github.com/yatharthrajput/BMI)|BMI Calculator 💪 Our Goal The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no mat ...|8|2021-12-09|
-|56|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|8|2021-08-15|
-|57|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |8|2021-12-15|
-|58|[defold/extension-facebook](https://github.com/defold/extension-facebook)|Facebook extension using the official SDKs|8|2021-12-31|
-|59|[Mhusain/FacebookAccountKit](https://github.com/Mhusain/FacebookAccountKit)|Apache Cordova Facebook Account Kit Login Plugin - Allows email and mobile logins using Facebook Account Kit for iOS & Android|8|2021-08-24|
-|60|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|7|2021-11-01|
+|55|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|8|2021-11-01|
+|56|[yatharthrajput/BMI](https://github.com/yatharthrajput/BMI)|BMI Calculator 💪 Our Goal The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no mat ...|8|2021-12-09|
+|57|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|8|2021-08-15|
+|58|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |8|2021-12-15|
+|59|[defold/extension-facebook](https://github.com/defold/extension-facebook)|Facebook extension using the official SDKs|8|2021-12-31|
+|60|[Mhusain/FacebookAccountKit](https://github.com/Mhusain/FacebookAccountKit)|Apache Cordova Facebook Account Kit Login Plugin - Allows email and mobile logins using Facebook Account Kit for iOS & Android|8|2021-08-24|
 |61|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|2021-09-21|
 |62|[gemu2015/cocotron-sierra](https://github.com/gemu2015/cocotron-sierra)|clone of cocotron master adapted for OSX Sierra|7|2021-10-20|
 |63|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|2021-10-12|
@@ -100,15 +100,16 @@
 |93|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|2021-11-29|
 |94|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|2021-10-02|
 |95|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|2021-09-03|
-|96|[phpisfuture/webrtc-web-android-ios-video-chat-demo](https://github.com/phpisfuture/webrtc-web-android-ios-video-chat-demo)|WebRTC implements p2p video chat or share desktop(web can share desktop), It can do P2P video chat with Web, Android, iOS, as long as the room is the same.|2|2021-11-05|
-|97|[SinghDigamber/modalreactnative](https://github.com/SinghDigamber/modalreactnative)|A comprehensive step by step tutorial on how to work with React Native Modal component. In this tutorial, we will learn how to show essential content such as title, text and image with Modal popup in  ...|2|2021-09-21|
-|98|[mauriciosoares01/formik-tutorial](https://github.com/mauriciosoares01/formik-tutorial)|A tutorial project showing how to use Formik and Yup in React Native with Hooks|2|2021-09-21|
-|99|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|2021-09-21|
-|100|[didinj/react-native-facebook-login-example](https://github.com/didinj/react-native-facebook-login-example)|React Native Tutorial: Facebook Login Example|2|2021-09-21|
-|101|[intactProject/ShareDemo](https://github.com/intactProject/ShareDemo)|Share demo|2|2021-11-19|
-|102|[azamlerc/interviews](https://github.com/azamlerc/interviews)|Fun interview questions in various languages|2|2021-08-12|
-|103|[Walkerant/Study](https://github.com/Walkerant/Study)|My records of study about computer-related knowledge.|2|2021-12-02|
-|104|[spilliams/iOS-Toolkit](https://github.com/spilliams/iOS-Toolkit)|A collection of tidbits useful to iOS projects|2|2021-08-25|
+|96|[future94/webrtc-web-android-ios-video-chat-demo](https://github.com/future94/webrtc-web-android-ios-video-chat-demo)|WebRTC implements p2p video chat or share desktop(web can share desktop), It can do P2P video chat with Web, Android, iOS, as long as the room is the same.|2|2022-01-21|
+|97|[mauriciosoares01/formik-tutorial](https://github.com/mauriciosoares01/formik-tutorial)|A tutorial project showing how to use Formik and Yup in React Native with Hooks|2|2021-09-21|
+|98|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|2021-09-21|
+|99|[didinj/react-native-facebook-login-example](https://github.com/didinj/react-native-facebook-login-example)|React Native Tutorial: Facebook Login Example|2|2021-09-21|
+|100|[Yang3100/ShareDemo](https://github.com/Yang3100/ShareDemo)|Share demo|2|2021-11-19|
+|101|[azamlerc/interviews](https://github.com/azamlerc/interviews)|Fun interview questions in various languages|2|2021-08-12|
+|102|[runryan/ReactNavigationGradientStatusbar](https://github.com/runryan/ReactNavigationGradientStatusbar)|A project demonstrates how to make a gradient StatusBar for React Native.|2|2021-09-21|
+|103|[diogenesgg/react-native-swiper-ad-infinitum](https://github.com/diogenesgg/react-native-swiper-ad-infinitum)|An example of how to use a carrousel component based on React Native ScrollView to perform ad infinitum scrolling|2|2021-09-21|
+|104|[Walkerant/Study](https://github.com/Walkerant/Study)|My records of study about computer-related knowledge.|2|2021-12-02|
+|105|[spilliams/iOS-Toolkit](https://github.com/spilliams/iOS-Toolkit)|A collection of tidbits useful to iOS projects|2|2021-08-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

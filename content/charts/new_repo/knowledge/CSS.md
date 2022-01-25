@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|783|2021-11-11|2021-10-23|
-|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|336|2021-08-30|2021-02-07|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|795|2021-11-11|2021-10-23|
+|2|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|339|2021-08-30|2021-02-07|
 |3|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|212|2021-10-13|2021-01-27|
 |4|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|2021-10-26|2021-04-05|
 |5|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|146|2022-01-22|2021-04-19|
-|6|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|82|2022-01-14|2021-08-20|
+|6|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|84|2022-01-14|2021-08-20|
 |7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|73|2022-01-13|2021-06-15|
 |8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|68|2021-11-22|2021-09-26|
-|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|55|2021-08-19|2021-08-16|
+|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox/Grid course at Frontend Masters.|56|2021-08-19|2021-08-16|
 |10|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
 |11|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|37|2021-09-07|2021-05-18|
 |12|[eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate)|snippets of a theme for obsidian|37|2021-11-24|2021-01-26|
@@ -33,7 +33,7 @@
 |26|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
 |27|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
 |28|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|18|2021-10-02|2021-10-01|
-|29|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|18|2022-01-24|2021-06-16|
+|29|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|18|2022-01-25|2021-06-16|
 |30|[kematzy/storybook-svelte-kit-vite-app](https://github.com/kematzy/storybook-svelte-kit-vite-app)|A working example of Storybook, with Vite, Svelte Kit and Tailwind CSS|16|2021-08-03|2021-08-03|
 |31|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
 |32|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|16|2022-01-23|2021-02-15|
@@ -55,12 +55,12 @@
 |48|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|9|2021-12-28|2021-07-18|
 |49|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
 |50|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
-|51|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
-|52|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
-|53|[chromaui/intro-storybook-react-template](https://github.com/chromaui/intro-storybook-react-template)|Boilerplate template for the Intro to Storybook tutorial for React|8|2021-12-13|2021-01-28|
-|54|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|7|2021-12-22|2021-12-22|
-|55|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|56|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |7|2021-11-30|2021-11-01|
+|51|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |8|2021-11-30|2021-11-01|
+|52|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
+|53|[medaminedev66/Conference-page](https://github.com/medaminedev66/Conference-page)|This project is based on an online website for a Facebook instant games conference.|8|2021-08-05|2021-08-02|
+|54|[chromaui/intro-storybook-react-template](https://github.com/chromaui/intro-storybook-react-template)|Boilerplate template for the Intro to Storybook tutorial for React|8|2021-12-13|2021-01-28|
+|55|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|7|2021-12-22|2021-12-22|
+|56|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
 |57|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2021-12-14|2021-09-20|
 |58|[luckept/vert](https://github.com/luckept/vert)|思源笔记护眼主题|7|2022-01-24|2021-08-14|
 |59|[nimadorostkar/production-management](https://github.com/nimadorostkar/production-management)|Manufacturing process management or Manage inventory statistics, production and orders is a collection of technologies and methods used to define how products are to be manufactured|7|2021-08-06|2021-07-04|

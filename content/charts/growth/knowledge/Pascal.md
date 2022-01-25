@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|15|0|2022-01-20|
+|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|14|0|2022-01-20|
 |2|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|6|0|2021-11-03|
 |3|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|0|2021-12-09|
 |4|[mlcdev/tinypascal](https://github.com/mlcdev/tinypascal)|advanced interpreter study|3|0|2022-01-20|
 |5|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|0|2021-12-21|
 |6|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|0|2021-12-16|
 |7|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|0|2021-11-09|
-|8|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|106|0|2022-01-23|
+|8|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|106|0|2022-01-25|
 |9|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|0|2021-12-11|
 |10|[svanas/PubSub](https://github.com/svanas/PubSub)|PubSub is a simple "Hello World" example project, demonstrating how to subscribe to an Ethereum gateway and get notified every time a new block got mined.|4|0|2021-11-23|
 |11|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|0|2022-01-20|
@@ -24,7 +24,7 @@
 |17|[SNEG-DEV/siege-of-avalon](https://github.com/SNEG-DEV/siege-of-avalon)|"Siege of Avalon: Anthology” Remastered : Open Source|35|0|2022-01-23|
 |18|[dalijap/code-delphi-async](https://github.com/dalijap/code-delphi-async)|Code examples from Delphi Event-based and Asynchronous Programming Book|23|0|2022-01-22|
 |19|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|0|2021-12-12|
-|20|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|0|2022-01-22|
+|20|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|0|2022-01-25|
 |21|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|10|0|2021-12-29|
 |22|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|3|0|2022-01-02|
 |23|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2021-11-21|
@@ -44,7 +44,7 @@
 |37|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2021-12-07|
 |38|[holgerflick/delphiexamples](https://github.com/holgerflick/delphiexamples)|Assorted Delphi examples from videos and tutorials |3|0|2021-09-03|
 |39|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|0|2021-12-02|
-|40|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|22|0|2022-01-24|
+|40|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|22|0|2022-01-25|
 |41|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|18|0|2022-01-16|
 |42|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2021-07-31|
 |43|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|7|0|2021-11-23|
