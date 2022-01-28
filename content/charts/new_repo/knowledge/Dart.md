@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2022-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3158|2022-01-27|2021-03-29|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|235|2021-12-29|2021-01-31|
-|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|204|2021-11-08|2021-02-05|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3160|2022-01-27|2021-03-29|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|236|2021-12-29|2021-01-31|
+|3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|205|2021-11-08|2021-02-05|
 |4|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|144|2022-01-26|2021-05-28|
 |5|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|130|2022-01-14|2021-04-08|
-|6|[JohannesMilke/generate_pdf_invoice_example](https://github.com/JohannesMilke/generate_pdf_invoice_example)|Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.|75|2021-11-08|2021-03-27|
+|6|[JohannesMilke/generate_pdf_invoice_example](https://github.com/JohannesMilke/generate_pdf_invoice_example)|Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.|76|2021-11-08|2021-03-27|
 |7|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|75|2022-01-07|2021-02-12|
 |8|[nileshtrivedi/devtoolbox](https://github.com/nileshtrivedi/devtoolbox)|Collection of offline utilities for developers|60|2022-01-24|2022-01-01|
 |9|[saiankit/Flutter-Summer-Group-2021](https://github.com/saiankit/Flutter-Summer-Group-2021)|This is the repository to store the course content and assignments pertaining to Flutter Summer Group hosted by CRUx in 2021 Summer|48|2021-08-02|2021-07-07|
@@ -40,9 +40,9 @@
 |33|[praharshbhatt/flutter-tips-and-tricks](https://github.com/praharshbhatt/flutter-tips-and-tricks)|Flutter tips and tricks to make the development smoother and easier|16|2021-10-18|2021-10-04|
 |34|[rosera/flutter_workshop](https://github.com/rosera/flutter_workshop)|Introductory course to learn Dart/Flutter|16|2022-01-17|2021-06-26|
 |35|[Davies-K/fendi](https://github.com/Davies-K/fendi)|Fendi Women's Lookbook created with Flutter|16|2021-08-04|2021-06-01|
-|36|[salkuadrat/ToGo](https://github.com/salkuadrat/ToGo)|Store and Cart Examples using various state management in Flutter.|15|2021-08-14|2021-08-11|
-|37|[altafc22/csc_picker](https://github.com/altafc22/csc_picker)|A flutter package to display a country, states, and cities. In addition it gives the possibility to select a list of countries, States and Cities depends on Selected, also you can search country, stat ...|15|2021-11-23|2021-02-28|
-|38|[Tkko/Flutter_dismissible_page](https://github.com/Tkko/Flutter_dismissible_page)|Flutter page widget that is dismissed by swipe gestures, with Hero style animations, Inspired by Facebook and Instagram stories.|15|2021-10-29|2021-02-14|
+|36|[Tkko/Flutter_dismissible_page](https://github.com/Tkko/Flutter_dismissible_page)|Flutter page widget that is dismissed by swipe gestures, with Hero style animations, Inspired by Facebook and Instagram stories.|16|2021-10-29|2021-02-14|
+|37|[salkuadrat/ToGo](https://github.com/salkuadrat/ToGo)|Store and Cart Examples using various state management in Flutter.|15|2021-08-14|2021-08-11|
+|38|[altafc22/csc_picker](https://github.com/altafc22/csc_picker)|A flutter package to display a country, states, and cities. In addition it gives the possibility to select a list of countries, States and Cities depends on Selected, also you can search country, stat ...|15|2021-11-23|2021-02-28|
 |39|[luanbatistadev/flutter_facebook_responsive_ui](https://github.com/luanbatistadev/flutter_facebook_responsive_ui)|Flutter Facebook Responsive UI - Web & Mobile: Android   IOS|14|2022-01-12|2022-01-11|
 |40|[naveeramesh/flutter_ui](https://github.com/naveeramesh/flutter_ui)|In this repo you can expertise how to build various User Interface in Flutter ⭐🚩|14|2021-12-24|2021-11-27|
 |41|[rafsanahmad/Flutter-Motion-Transitions](https://github.com/rafsanahmad/Flutter-Motion-Transitions)|A set of transition patterns within the animations package using flutter.|14|2021-11-08|2021-10-30|
@@ -72,19 +72,19 @@
 |65|[lakscastro/shared-storage](https://github.com/lakscastro/shared-storage)|📁 Flutter plugin to get Android shared folders like DCIM, Downloads, Video, Audio. Works with Android 4.1+ (API Level 16+)|7|2022-01-08|2021-10-31|
 |66|[fireship-io/dart-course](https://github.com/fireship-io/dart-course)|Master the Basics of the Dart Language|7|2022-01-01|2021-10-10|
 |67|[anthonyaquino83/getxsqlitecrud](https://github.com/anthonyaquino83/getxsqlitecrud)|GetX SQLite Tutorial.|7|2021-08-30|2021-08-30|
-|68|[Flutter-Explained/flavor_tutorial](https://github.com/Flutter-Explained/flavor_tutorial)|Flutter Flavor Tutorial - |7|2021-11-23|2021-04-14|
-|69|[Yayo-Arellano/flutter_simple_firebase_auth_bloc](https://github.com/Yayo-Arellano/flutter_simple_firebase_auth_bloc)|Learn how to use firebase authentication in flutter|7|2021-11-25|2021-04-10|
-|70|[AlexMercedCoder/DartShelfPostgresTemplate](https://github.com/AlexMercedCoder/DartShelfPostgresTemplate)|Dart Web API Template Using Google Shelf Framework and Postgres Drivers, read readme to learn how to use|7|2021-10-10|2021-03-15|
-|71|[techwithsam/custom-icon-with-bottom-navigation-in-flutter](https://github.com/techwithsam/custom-icon-with-bottom-navigation-in-flutter)|New trick on how to create your own custom icons in flutter with bottom bar navigation|7|2021-09-26|2021-03-12|
-|72|[radikris/booking_calendar](https://github.com/radikris/booking_calendar)|Flutter package to manage online bookings|6|2022-01-22|2022-01-05|
-|73|[md-weber/animation_tutorials](https://github.com/md-weber/animation_tutorials)|Flutter Explained Animation Tutorials|6|2021-12-28|2021-12-28|
-|74|[muhammadtalhasultan/flutter-examples](https://github.com/muhammadtalhasultan/flutter-examples)|Flutter Examples|6|2022-01-11|2021-12-26|
-|75|[Febin-T-Rajeev/Flutter_Facebook_UI_Clone](https://github.com/Febin-T-Rajeev/Flutter_Facebook_UI_Clone)|Facebook UI Clone using Flutter|6|2021-10-02|2021-10-02|
-|76|[raywenderlich/dsad-materials](https://github.com/raywenderlich/dsad-materials)|The projects and the materials that accompany the Data Structures & Algorithms in Dart book|6|2022-01-27|2021-09-02|
-|77|[mhadaily/serverless-authentication-authorization-flutter](https://github.com/mhadaily/serverless-authentication-authorization-flutter)|OAuth/OpenID Connect    Serverless Authentication and Authorization for Flutter   Auth0 and GetStream.io Chat integration course|6|2022-01-06|2021-07-12|
-|78|[Yayo-Arellano/flutter_chrome_extension](https://github.com/Yayo-Arellano/flutter_chrome_extension)|Learn how to create a google chrome extension with Flutter|6|2021-11-25|2021-07-08|
-|79|[materoy/Audiobooks](https://github.com/materoy/Audiobooks)|Open source audiobooks player|6|2021-08-12|2021-06-22|
-|80|[Sameera-Perera/flutter-carousel-slider-example](https://github.com/Sameera-Perera/flutter-carousel-slider-example)|In this project, I will show everything you need to know about designing a carousel slider and how to get data from a server(REST API) and show.|6|2021-09-09|2021-06-16|
+|68|[Sameera-Perera/flutter-carousel-slider-example](https://github.com/Sameera-Perera/flutter-carousel-slider-example)|In this project, I will show everything you need to know about designing a carousel slider and how to get data from a server(REST API) and show.|7|2021-09-09|2021-06-16|
+|69|[Flutter-Explained/flavor_tutorial](https://github.com/Flutter-Explained/flavor_tutorial)|Flutter Flavor Tutorial - |7|2021-11-23|2021-04-14|
+|70|[Yayo-Arellano/flutter_simple_firebase_auth_bloc](https://github.com/Yayo-Arellano/flutter_simple_firebase_auth_bloc)|Learn how to use firebase authentication in flutter|7|2021-11-25|2021-04-10|
+|71|[AlexMercedCoder/DartShelfPostgresTemplate](https://github.com/AlexMercedCoder/DartShelfPostgresTemplate)|Dart Web API Template Using Google Shelf Framework and Postgres Drivers, read readme to learn how to use|7|2021-10-10|2021-03-15|
+|72|[techwithsam/custom-icon-with-bottom-navigation-in-flutter](https://github.com/techwithsam/custom-icon-with-bottom-navigation-in-flutter)|New trick on how to create your own custom icons in flutter with bottom bar navigation|7|2021-09-26|2021-03-12|
+|73|[radikris/booking_calendar](https://github.com/radikris/booking_calendar)|Flutter package to manage online bookings|6|2022-01-22|2022-01-05|
+|74|[md-weber/animation_tutorials](https://github.com/md-weber/animation_tutorials)|Flutter Explained Animation Tutorials|6|2021-12-28|2021-12-28|
+|75|[muhammadtalhasultan/flutter-examples](https://github.com/muhammadtalhasultan/flutter-examples)|Flutter Examples|6|2022-01-11|2021-12-26|
+|76|[Febin-T-Rajeev/Flutter_Facebook_UI_Clone](https://github.com/Febin-T-Rajeev/Flutter_Facebook_UI_Clone)|Facebook UI Clone using Flutter|6|2021-10-02|2021-10-02|
+|77|[raywenderlich/dsad-materials](https://github.com/raywenderlich/dsad-materials)|The projects and the materials that accompany the Data Structures & Algorithms in Dart book|6|2022-01-27|2021-09-02|
+|78|[mhadaily/serverless-authentication-authorization-flutter](https://github.com/mhadaily/serverless-authentication-authorization-flutter)|OAuth/OpenID Connect    Serverless Authentication and Authorization for Flutter   Auth0 and GetStream.io Chat integration course|6|2022-01-06|2021-07-12|
+|79|[Yayo-Arellano/flutter_chrome_extension](https://github.com/Yayo-Arellano/flutter_chrome_extension)|Learn how to create a google chrome extension with Flutter|6|2021-11-25|2021-07-08|
+|80|[materoy/Audiobooks](https://github.com/materoy/Audiobooks)|Open source audiobooks player|6|2021-08-12|2021-06-22|
 |81|[Hmida71/Flutter-animated-Slider](https://github.com/Hmida71/Flutter-animated-Slider)|Slider Master Animation Flutter Dart 🐱‍👤🐱‍👤|5|2021-12-11|2021-12-11|
 |82|[dipu-bd/algorithmic](https://github.com/dipu-bd/algorithmic)|A collection of useful algorithms keeping performance and flexibility on mind.|5|2022-01-14|2021-12-05|
 |83|[ashu98s/Scrollable-Widgets](https://github.com/ashu98s/Scrollable-Widgets)|A recipe app, in which you will learn about different Scrollable widgets.|5|2021-12-10|2021-11-27|
@@ -109,9 +109,8 @@
 |102|[Sounmay/Prayas-Booking-App-Service](https://github.com/Sounmay/Prayas-Booking-App-Service)|Service Side of Freelance Booking Application|4|2021-11-21|2021-07-05|
 |103|[cody0203/flutter-examples](https://github.com/cody0203/flutter-examples)|Learn Flutter by easy-to-difficult examples|4|2021-09-15|2021-06-29|
 |104|[Shubh0O00/ReadCafe](https://github.com/Shubh0O00/ReadCafe)|A web application developed using flutter for books review and recommendation.|4|2021-08-18|2021-06-10|
-|105|[Young-TW/Dart](https://github.com/Young-TW/Dart)|Dart & Flutter learning|4|2021-07-29|2021-04-24|
-|106|[tscholze/flutter-surfaceduo-rssbook](https://github.com/tscholze/flutter-surfaceduo-rssbook)|Read your RSS feed like it would be an  ebook - A sample Android app that demonstrates the unique features of a Surface Duo.|4|2021-10-07|2021-04-18|
-|107|[AlMamun-CSE/Dart_Basic_Programs](https://github.com/AlMamun-CSE/Dart_Basic_Programs)|Learn Dart Programming, its basics and Fundamentals from scratch.|4|2021-09-15|2021-02-04|
+|105|[tscholze/flutter-surfaceduo-rssbook](https://github.com/tscholze/flutter-surfaceduo-rssbook)|Read your RSS feed like it would be an  ebook - A sample Android app that demonstrates the unique features of a Surface Duo.|4|2021-10-07|2021-04-18|
+|106|[AlMamun-CSE/Dart_Basic_Programs](https://github.com/AlMamun-CSE/Dart_Basic_Programs)|Learn Dart Programming, its basics and Fundamentals from scratch.|4|2021-09-15|2021-02-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

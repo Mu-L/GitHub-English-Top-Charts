@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)|Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communica ...|108|2022-01-14|2021-07-18|
 |2|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|41|2022-01-12|2021-04-04|
-|3|[steliostsiaras/Financial-Frictions-Course](https://github.com/steliostsiaras/Financial-Frictions-Course)|This is a PhD course on financial frictions in macroeconomic models. This repository includes all the materials taught and is constantly updated |38|2022-01-26|2021-03-14|
-|4|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|37|2021-08-26|2021-03-24|
+|3|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|39|2021-08-26|2021-03-24|
+|4|[steliostsiaras/Financial-Frictions-Course](https://github.com/steliostsiaras/Financial-Frictions-Course)|This is a PhD course on financial frictions in macroeconomic models. This repository includes all the materials taught and is constantly updated |38|2022-01-26|2021-03-14|
 |5|[danfenghong/ISPRS_S2FL](https://github.com/danfenghong/ISPRS_S2FL)|Danfeng Hong, JIngliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model,   ...|32|2021-12-08|2021-05-18|
-|6|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs) (https://arxiv.org/abs/2109.12313, https: ...|28|2022-01-21|2021-06-09|
-|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|21|2021-10-27|2021-09-30|
+|6|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs) (https://arxiv.org/abs/2109.12313, https: ...|29|2022-01-21|2021-06-09|
+|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|22|2021-10-27|2021-09-30|
 |8|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|20|2022-01-19|2021-06-15|
 |9|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|19|2021-11-04|2021-02-01|
 |10|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|18|2022-01-24|2021-03-05|
 |11|[odedstein/gp-matlab-tutorial](https://github.com/odedstein/gp-matlab-tutorial)|A basic tutorial for geometry processing in MATLAB using gptoolbox|17|2021-08-13|2021-06-25|
 |12|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|16|2021-10-24|2021-07-07|
-|13|[mikexcohen/GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|Code accompanying publication on GED tutorial|14|2021-11-23|2021-04-25|
+|13|[mikexcohen/GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|Code accompanying publication on GED tutorial|14|2022-01-28|2021-04-25|
 |14|[dianixn/Residual_CNN](https://github.com/dianixn/Residual_CNN)|Repeat the result of Deep Residual Learning Meets OFDM Channel Estimation using MATLAB, I think they did not release the code so I am not sure whats I did is hundred percent correct, so just have fun|13|2022-01-27|2021-05-03|
 |15|[robokamran/ControlSystems](https://github.com/robokamran/ControlSystems)|A pack of control system algorithms implemented in C to be used in embedded systems.|10|2021-12-18|2021-12-18|
 |16|[bakerjw/seismic-hazard-and-risk](https://github.com/bakerjw/seismic-hazard-and-risk)|Supporting calculations for the textbook Seismic Hazard and Risk Analysis|10|2022-01-10|2021-08-05|
@@ -79,13 +79,12 @@
 |72|[hantyou/Distributed-Learning-and-Cooperative-Control](https://github.com/hantyou/Distributed-Learning-and-Cooperative-Control)|Codes reproducing paper Jongeun Choi, Songhwai Oh, Roberto Horowitz, Distributed learning and cooperative control for multi-agent systems, Automatica, Volume 45, Issue 12, 2009|2|2021-09-14|2021-08-24|
 |73|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
 |74|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
-|75|[konstantd/RF_Array_Signal_Processing](https://github.com/konstantd/RF_Array_Signal_Processing)|The project is related to BeamForming and Direction of Arrival (DoA) algorithms and its scope is the analysis and understanding of such techniques.|2|2021-07-29|2021-07-29|
-|76|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|2|2021-11-19|2021-07-27|
-|77|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
-|78|[zceydas/ProbabilisticRewardLearning](https://github.com/zceydas/ProbabilisticRewardLearning)|Probabilistic Reward Learning task for Matlab - Psychtoolbox|2|2021-08-10|2021-06-28|
-|79|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
-|80|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
-|81|[YosafatM/M-Neural-Nets](https://github.com/YosafatM/M-Neural-Nets)|Repositorio con código creado durante la optativa Neural Networks en ESCOM, incluye el código creado para el curso de Mastering Programming with MATLAB de la Universidad Vanderbilt en Coursera|2|2021-09-14|2021-01-31|
+|75|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|2|2021-11-19|2021-07-27|
+|76|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
+|77|[zceydas/ProbabilisticRewardLearning](https://github.com/zceydas/ProbabilisticRewardLearning)|Probabilistic Reward Learning task for Matlab - Psychtoolbox|2|2021-08-10|2021-06-28|
+|78|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
+|79|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
+|80|[YosafatM/M-Neural-Nets](https://github.com/YosafatM/M-Neural-Nets)|Repositorio con código creado durante la optativa Neural Networks en ESCOM, incluye el código creado para el curso de Mastering Programming with MATLAB de la Universidad Vanderbilt en Coursera|2|2021-09-14|2021-01-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
