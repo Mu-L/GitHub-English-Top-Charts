@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|362|2021-08-23|2021-02-24|
-|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|351|2022-01-11|2021-06-25|
+|1|[bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)|Task Tracker project from youtube crash course|363|2021-08-23|2021-02-24|
+|2|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|352|2022-01-11|2021-06-25|
 |3|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|204|2022-01-29|2021-08-17|
-|4|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|130|2022-01-28|2021-10-09|
+|4|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|131|2022-01-30|2021-10-09|
 |5|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|111|2021-12-04|2021-09-13|
 |6|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|105|2021-12-13|2021-10-21|
-|7|[aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys)|🎲 A curated list of MLOps projects, tools and resources|101|2022-01-19|2021-06-10|
-|8|[kawamataryo/chikamichi](https://github.com/kawamataryo/chikamichi)|Chikamichi is an extension that makes it easy to navigate pages in Chrome. You can search and navigate across browser history, bookmarks, and tabs.|92|2022-01-29|2022-01-03|
+|7|[kawamataryo/chikamichi](https://github.com/kawamataryo/chikamichi)|Chikamichi is an extension that makes it easy to navigate pages in Chrome. You can search and navigate across browser history, bookmarks, and tabs.|101|2022-01-29|2022-01-03|
+|8|[aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys)|🎲 A curated list of MLOps projects, tools and resources|101|2022-01-19|2021-06-10|
 |9|[troisjs/troisjs.github.io](https://github.com/troisjs/troisjs.github.io)|📖 Examples and documentation for TroisJS ✨|74|2022-01-04|2021-02-25|
 |10|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|58|2022-01-10|2021-10-03|
 |11|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|51|2021-12-29|2021-10-25|
@@ -28,7 +28,7 @@
 |21|[johnkomarnicki/movies-app-nuxtjs](https://github.com/johnkomarnicki/movies-app-nuxtjs)|Repo for NuxtJS Crash Course|15|2021-08-26|2021-08-26|
 |22|[me-shaon/laravel-resources](https://github.com/me-shaon/laravel-resources)|A list of useful Laravel resources|14|2021-08-24|2021-08-22|
 |23|[Stun3R/isstrapiready](https://github.com/Stun3R/isstrapiready)|🚀 Discover the advancement of Strapi for the latest Strapi version and the list of compatible plugins. (Current: v4)|13|2022-01-05|2021-10-27|
-|24|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|12|2021-11-09|2021-09-24|
+|24|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|13|2021-11-09|2021-09-24|
 |25|[apoorvdwi/HacktoberFest-OpenSource-2021](https://github.com/apoorvdwi/HacktoberFest-OpenSource-2021)|A starter Project for HacktoberFest 2021. Read the Description to know how to contribute|10|2021-10-29|2021-10-01|
 |26|[mazdakdev/Bookito](https://github.com/mazdakdev/Bookito)|A personal book library   All the books you want in one place|8|2021-12-09|2021-12-08|
 |27|[chyj4747/vue3-golden-layout-virtualcomponent](https://github.com/chyj4747/vue3-golden-layout-virtualcomponent)|A demo shows how to use golden-layout's virtual component in vue3|8|2021-09-21|2021-09-20|

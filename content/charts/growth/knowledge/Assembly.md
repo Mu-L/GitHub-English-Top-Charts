@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8800|18|2022-01-26|
-|2|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1911|1|2022-01-29|
-|3|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|8|1|2022-01-15|
-|4|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|327|1|2021-12-16|
-|5|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|13|1|2022-01-29|
-|6|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|47|0|2021-08-18|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8804|18|2022-01-26|
+|2|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|17|2|2022-01-30|
+|3|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1911|1|2022-01-30|
+|4|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|8|1|2022-01-15|
+|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|327|1|2021-12-16|
+|6|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|48|0|2021-08-18|
 |7|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|30|0|2021-10-24|
 |8|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|29|0|2021-12-24|
 |9|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|0|2022-01-03|
@@ -24,9 +24,9 @@
 |17|[RivkiZolti/Nand2Tetris](https://github.com/RivkiZolti/Nand2Tetris)|answers to n2t course home work|3|0|2021-08-16|
 |18|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|135|0|2021-12-13|
 |19|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|29|0|2022-01-21|
-|20|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|338|0|2021-08-29|
+|20|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|339|0|2021-08-29|
 |21|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|0|2022-01-16|
-|22|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|122|0|2021-09-16|
+|22|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|127|0|2021-09-16|
 |23|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|4|0|2022-01-28|
 |24|[Drunella/u5remastered](https://github.com/Drunella/u5remastered)|Ultima V remastered for EasyFlash and 1581|13|0|2021-11-21|
 |25|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|0|2021-12-23|
@@ -40,7 +40,7 @@
 |33|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|0|2021-10-26|
 |34|[makerbase-mks/MKS-Robin-Nano-Firmware](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware)|MKS Robin Nano firmware source code, you can use IAR IDE build it and update it on your nano board.Of course, you can change source code and add new function with you requirement and so on|25|0|2022-01-15|
 |35|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|0|2021-11-14|
-|36|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|131|0|2022-01-29|
+|36|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|132|0|2022-01-29|
 |37|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|8|0|2021-10-07|
 |38|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|0|2021-11-26|
 |39|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|8|0|2021-09-30|
@@ -61,7 +61,7 @@
 |54|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|30|0|2022-01-28|
 |55|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-01-24|
 |56|[kspalaiologos/LearnC](https://github.com/kspalaiologos/LearnC)|LearnC is (mainly) C book I wrote|6|0|2022-01-17|
-|57|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|6|0|2022-01-13|
+|57|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|7|0|2022-01-30|
 |58|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|6|0|2021-12-08|
 |59|[maxim-zhao/zexall-sms](https://github.com/maxim-zhao/zexall-sms)|Sega Master System port of ZEXALL Z80 instruction set exerciser|11|0|2021-10-19|
 |60|[mwfj/CMU_15213_CSAPP3E_Lab](https://github.com/mwfj/CMU_15213_CSAPP3E_Lab)|Self-Study: The Class lab of CMU-15213(2015 version) http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html|2|0|2022-01-29|
@@ -76,7 +76,7 @@
 |69|[Arnau478/os-tutorial](https://github.com/Arnau478/os-tutorial)|A tutorial to learn how to create an operating system from scratch|4|0|2022-01-08|
 |70|[crtc-demos/the-master-of-your-old-school](https://github.com/crtc-demos/the-master-of-your-old-school)|CRTC's demo for the BBC Master, released at Sundown 2010|2|0|2021-10-12|
 |71|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|4|0|2021-11-14|
-|72|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|2|0|2022-01-21|
+|72|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|2|0|2022-01-30|
 |73|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|42|0|2021-12-29|
 |74|[DavidJRichards/VideoWriter](https://github.com/DavidJRichards/VideoWriter)|Collection of information about Philips VideoWriter 4460|2|0|2022-01-10|
 |75|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|0|2021-12-20|
@@ -104,7 +104,7 @@
 |97|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|11|0|2022-01-19|
 |98|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|0|2022-01-10|
 |99|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|0|2021-10-22|
-|100|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|17|0|2022-01-20|
+|100|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|18|0|2022-01-20|
 |101|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|0|2021-12-12|
 |102|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|12|0|2021-11-19|
 |103|[mitchell-merry/tictactoe_mips](https://github.com/mitchell-merry/tictactoe_mips)|TicTacToe written entirely in MIPS assembly. Written 6 days after starting to learn assembly|3|0|2021-09-08|

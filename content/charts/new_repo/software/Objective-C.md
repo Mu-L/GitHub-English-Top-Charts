@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|518|2021-09-09|2021-09-03|
+|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|519|2021-09-09|2021-09-03|
 |2|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|426|2021-10-12|2021-09-23|
 |3|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|288|2022-01-13|2021-08-03|
-|4|[s4y/undot](https://github.com/s4y/undot)|-|273|2021-12-26|2021-12-20|
+|4|[s4y/undot](https://github.com/s4y/undot)|-|274|2021-12-26|2021-12-20|
 |5|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|170|2022-01-28|2021-03-06|
 |6|[objective-see/OverSight](https://github.com/objective-see/OverSight)|OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |144|2022-01-11|2021-02-01|
 |7|[Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter)|-|126|2022-01-16|2021-02-02|
 |8|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|110|2022-01-25|2021-03-24|
-|9|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|108|2021-10-13|2021-02-08|
-|10|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|107|2022-01-18|2021-07-24|
+|9|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|108|2022-01-18|2021-07-24|
+|10|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|108|2021-10-13|2021-02-08|
 |11|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|102|2021-11-27|2021-03-13|
 |12|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|88|2021-12-14|2021-12-06|
 |13|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|73|2022-01-26|2021-11-16|
@@ -46,10 +46,10 @@
 |39|[UsrLightmann/IAmLazy](https://github.com/UsrLightmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|25|2022-01-21|2021-05-24|
 |40|[insidegui/VisualEffectDebugger](https://github.com/insidegui/VisualEffectDebugger)|Simple debugger for NSVisualEffectView|24|2022-01-14|2022-01-14|
 |41|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|23|2021-10-29|2021-06-26|
-|42|[simonheys/wordclock](https://github.com/simonheys/wordclock)|An original digital art work for macOS, iOS and web|21|2021-09-17|2021-07-06|
+|42|[simonheys/wordclock](https://github.com/simonheys/wordclock)|An original digital art work for macOS, iOS and web|22|2021-09-17|2021-07-06|
 |43|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|20|2021-12-20|2021-12-15|
-|44|[durgiya/WormholyForObjectiveC](https://github.com/durgiya/WormholyForObjectiveC)|Network debugging made easy，This network debugging tool is developed based on the swift version of Wormholy.|20|2021-08-19|2021-08-18|
-|45|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|19|2022-01-27|2021-08-31|
+|44|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|20|2022-01-27|2021-08-31|
+|45|[durgiya/WormholyForObjectiveC](https://github.com/durgiya/WormholyForObjectiveC)|Network debugging made easy，This network debugging tool is developed based on the swift version of Wormholy.|20|2021-08-19|2021-08-18|
 |46|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2021-12-17|2021-08-26|
 |47|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|19|2022-01-14|2021-04-25|
 |48|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|19|2022-01-01|2021-03-12|
@@ -91,18 +91,18 @@
 |84|[mbender74/NappDrawer](https://github.com/mbender74/NappDrawer)|Titanium NappDrawer|10|2021-08-25|2021-07-20|
 |85|[aliyun/alibabacloud-AliIMPInteractiveLive-Demo](https://github.com/aliyun/alibabacloud-AliIMPInteractiveLive-Demo)|-|10|2022-01-26|2021-06-29|
 |86|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2021-10-09|2021-04-05|
-|87|[kritanta-ios-tweaks/lockdown](https://github.com/kritanta-ios-tweaks/lockdown)|iOS 14 checkra1n-jailbreak-targeted passcode interposition|9|2021-11-18|2021-11-18|
-|88|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|9|2021-10-13|2021-10-13|
-|89|[rA9stuff/a9-checkm8-nonce-setter](https://github.com/rA9stuff/a9-checkm8-nonce-setter)|boots patched iBoot then sets apnonce on s8000/s8003|9|2021-10-08|2021-10-08|
-|90|[jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)|send your valuable codes here.|9|2021-11-12|2021-10-01|
-|91|[schneelittchen/Rose](https://github.com/schneelittchen/Rose)|The most advanced and feature rich system wide haptic feedback tweak|9|2022-01-21|2021-04-25|
-|92|[schneelittchen/Puck](https://github.com/schneelittchen/Puck)|Prevent the need of rejailbreaking|9|2022-01-15|2021-04-25|
-|93|[schneelittchen/Deja-Vu](https://github.com/schneelittchen/Deja-Vu)|Fully featured always on display|9|2022-01-15|2021-04-25|
-|94|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|9|2022-01-19|2021-04-05|
-|95|[LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer)|Touch visualizing framework for iOS|9|2021-09-03|2021-03-24|
-|96|[max-prokopenko/react-native-gif](https://github.com/max-prokopenko/react-native-gif)|Performant component for GIFs|9|2021-10-01|2021-02-08|
-|97|[jakecrowley/FosscordTweak](https://github.com/jakecrowley/FosscordTweak)|iOS Tweak to redirect Discord API calls to a Fosscord server.|8|2022-01-13|2022-01-13|
-|98|[ProcursusTeam/defaults](https://github.com/ProcursusTeam/defaults)|Opensource re-implementation of `defaults(1)`|8|2022-01-19|2021-12-10|
+|87|[ProcursusTeam/defaults](https://github.com/ProcursusTeam/defaults)|Opensource re-implementation of `defaults(1)`|9|2022-01-19|2021-12-10|
+|88|[kritanta-ios-tweaks/lockdown](https://github.com/kritanta-ios-tweaks/lockdown)|iOS 14 checkra1n-jailbreak-targeted passcode interposition|9|2021-11-18|2021-11-18|
+|89|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|9|2021-10-13|2021-10-13|
+|90|[rA9stuff/a9-checkm8-nonce-setter](https://github.com/rA9stuff/a9-checkm8-nonce-setter)|boots patched iBoot then sets apnonce on s8000/s8003|9|2021-10-08|2021-10-08|
+|91|[jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)|send your valuable codes here.|9|2021-11-12|2021-10-01|
+|92|[schneelittchen/Rose](https://github.com/schneelittchen/Rose)|The most advanced and feature rich system wide haptic feedback tweak|9|2022-01-21|2021-04-25|
+|93|[schneelittchen/Puck](https://github.com/schneelittchen/Puck)|Prevent the need of rejailbreaking|9|2022-01-15|2021-04-25|
+|94|[schneelittchen/Deja-Vu](https://github.com/schneelittchen/Deja-Vu)|Fully featured always on display|9|2022-01-15|2021-04-25|
+|95|[roam-ai/roam-ios](https://github.com/roam-ai/roam-ios)|iOS Location SDK. High accuracy and battery efficient location SDK for iOS by Roam.ai|9|2022-01-19|2021-04-05|
+|96|[LeoNatan/LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer)|Touch visualizing framework for iOS|9|2021-09-03|2021-03-24|
+|97|[max-prokopenko/react-native-gif](https://github.com/max-prokopenko/react-native-gif)|Performant component for GIFs|9|2021-10-01|2021-02-08|
+|98|[jakecrowley/FosscordTweak](https://github.com/jakecrowley/FosscordTweak)|iOS Tweak to redirect Discord API calls to a Fosscord server.|8|2022-01-13|2022-01-13|
 |99|[Qeepsake/react-native-file-utils](https://github.com/Qeepsake/react-native-file-utils)|React Native utility library around image and video files for getting metadata like MIME type, timestamp, duration, and dimensions. Works on iOS and Android using Java and Obj-C, instead of Node 🚀.|8|2021-12-30|2021-11-23|
 |100|[dyte-in/obj-c-sample-app](https://github.com/dyte-in/obj-c-sample-app)|Sample app to demonstrate the integration code and working of Dyte SDK for iOS, using Objective-C.|8|2021-11-23|2021-11-17|
 |101|[jjldxz/CloudLVB-SDK-IOS](https://github.com/jjldxz/CloudLVB-SDK-IOS)|Da Xue Zhang Platform Lvb iOS SDK |8|2022-01-27|2021-11-11|
@@ -181,29 +181,29 @@
 |174|[adarshpatil/dve](https://github.com/adarshpatil/dve)|Improving DRAM Reliability and Performance On-Demand via Coherent Replication [ISCA 2021]|5|2022-01-10|2021-03-12|
 |175|[citrix/citrix-mam-sdk-sample-browser-app-ios-objc](https://github.com/citrix/citrix-mam-sdk-sample-browser-app-ios-objc)|This repository contains the iOS Objective-C source code for a sample browser app that uses the MAM SDKs for endpoint management.|5|2021-10-28|2021-02-12|
 |176|[RedenticDev/ShortLook-Telegram](https://github.com/RedenticDev/ShortLook-Telegram)|Show Telegram Contact Photos in ShortLook when you receive a Telegram notification!|5|2021-08-13|2021-01-31|
-|177|[florianpircher/GutenTag](https://github.com/florianpircher/GutenTag)|🔖 Guten Tag – a Glyphs plugin for tagging your glyphs|5|2021-09-24|2021-01-30|
+|177|[willemt/defold-cognito](https://github.com/willemt/defold-cognito)|-|4|2022-01-29|2022-01-28|
 |178|[schneelittchen/AmongLock](https://github.com/schneelittchen/AmongLock)|Among Us inspired lock screen|4|2022-01-14|2022-01-10|
 |179|[anandbagmar/sampleAppsForNativeMobileAutomation](https://github.com/anandbagmar/sampleAppsForNativeMobileAutomation)|Repo containing sample native apps for mobile automation|4|2021-12-15|2021-12-10|
 |180|[LonfeyLi/DBLanguageManager](https://github.com/LonfeyLi/DBLanguageManager)|a management tool of iOS project language configuration|4|2021-12-10|2021-12-03|
 |181|[edpapyan902/react-native-voip-call](https://github.com/edpapyan902/react-native-voip-call)|-|4|2021-11-02|2021-11-02|
 |182|[edpapyan902/SWIFT-Fitness](https://github.com/edpapyan902/SWIFT-Fitness)|-|4|2021-11-02|2021-11-02|
 |183|[leonid712/Social-Media-App](https://github.com/leonid712/Social-Media-App)|-|4|2021-10-31|2021-10-23|
-|184|[JarlenJohn/VideoEditorLib](https://github.com/JarlenJohn/VideoEditorLib)|Video editing framework based on AVFoundation.|4|2021-10-09|2021-10-09|
-|185|[apple-oss-distributions/HTTPServer](https://github.com/apple-oss-distributions/HTTPServer)|-|4|2021-10-06|2021-10-04|
-|186|[S209/chajianhua](https://github.com/S209/chajianhua)|-|4|2021-10-01|2021-10-01|
-|187|[summertriangle-dev/Eyeplugs](https://github.com/summertriangle-dev/Eyeplugs)|-|4|2021-09-24|2021-09-23|
-|188|[countercept/ESFang](https://github.com/countercept/ESFang)|ESF modular ingestion tool for development and research. |4|2021-12-21|2021-09-17|
-|189|[gsioteam/gl_canvas](https://github.com/gsioteam/gl_canvas)|A OpenGLES context canvas in flutter.|4|2022-01-17|2021-08-27|
-|190|[haodanku/bianxian_sdk_ios](https://github.com/haodanku/bianxian_sdk_ios)|-|4|2021-12-07|2021-08-10|
-|191|[volcengine/VEVodDemo-iOS](https://github.com/volcengine/VEVodDemo-iOS)|火山引擎点播SDK使用和抖音、西瓜同样的播放内核，稳定性和性能经过内部验证；Demo展示抖音小视频场景下使用预加载、预渲染策略，实现一个比较好的首帧效果；|4|2022-01-14|2021-08-03|
-|192|[zhoon/ZHIntersectionObserver](https://github.com/zhoon/ZHIntersectionObserver)|Intersection Observer for iOS|4|2021-08-15|2021-08-01|
-|193|[caplogCode/mavaelBlog](https://github.com/caplogCode/mavaelBlog)|-|4|2021-08-12|2021-07-30|
-|194|[Lofelt/lofelt-studio-sdk](https://github.com/Lofelt/lofelt-studio-sdk)|HD haptic playback for iOS, Android and Unity|4|2021-09-22|2021-06-22|
-|195|[Luki120/Elixir](https://github.com/Luki120/Elixir)|Tweak count right on your settings app|4|2021-11-24|2021-06-16|
-|196|[AlessandroSangiuliano/Puck](https://github.com/AlessandroSangiuliano/Puck)|Puck is a simple dockbar|4|2022-01-02|2021-05-28|
-|197|[BILDIT-Platform/react-native-bildit-flybuy](https://github.com/BILDIT-Platform/react-native-bildit-flybuy)|React Native FlyBuy module.  Supports Core, Pickup, Notify,  and Presence Native SDK APIs.|4|2022-01-29|2021-05-23|
-|198|[mariogt/PikoPixelM1](https://github.com/mariogt/PikoPixelM1)|PikoPixelM1 is a modernization effort to make the original PikoPixel Apple Silicon/M1/Intel Universal Binary compliant.|4|2021-08-31|2021-04-18|
-|199|[CodeSlaveZhang/ZHSelectableLabel](https://github.com/CodeSlaveZhang/ZHSelectableLabel)|  Updated 2 minutes ago An IOS label based on YYLabel，which support gesture to select part of the text.|4|2021-12-17|2021-01-30|
+|184|[GeoSn0w/BlizzardX-Jailbreak](https://github.com/GeoSn0w/BlizzardX-Jailbreak)|A jailbreak for 32-Bit iOS 10|4|2021-10-20|2021-10-20|
+|185|[JarlenJohn/VideoEditorLib](https://github.com/JarlenJohn/VideoEditorLib)|Video editing framework based on AVFoundation.|4|2021-10-09|2021-10-09|
+|186|[apple-oss-distributions/HTTPServer](https://github.com/apple-oss-distributions/HTTPServer)|-|4|2021-10-06|2021-10-04|
+|187|[S209/chajianhua](https://github.com/S209/chajianhua)|-|4|2021-10-01|2021-10-01|
+|188|[summertriangle-dev/Eyeplugs](https://github.com/summertriangle-dev/Eyeplugs)|-|4|2021-09-24|2021-09-23|
+|189|[countercept/ESFang](https://github.com/countercept/ESFang)|ESF modular ingestion tool for development and research. |4|2021-12-21|2021-09-17|
+|190|[gsioteam/gl_canvas](https://github.com/gsioteam/gl_canvas)|A OpenGLES context canvas in flutter.|4|2022-01-17|2021-08-27|
+|191|[haodanku/bianxian_sdk_ios](https://github.com/haodanku/bianxian_sdk_ios)|-|4|2021-12-07|2021-08-10|
+|192|[volcengine/VEVodDemo-iOS](https://github.com/volcengine/VEVodDemo-iOS)|火山引擎点播SDK使用和抖音、西瓜同样的播放内核，稳定性和性能经过内部验证；Demo展示抖音小视频场景下使用预加载、预渲染策略，实现一个比较好的首帧效果；|4|2022-01-14|2021-08-03|
+|193|[zhoon/ZHIntersectionObserver](https://github.com/zhoon/ZHIntersectionObserver)|Intersection Observer for iOS|4|2021-08-15|2021-08-01|
+|194|[caplogCode/mavaelBlog](https://github.com/caplogCode/mavaelBlog)|-|4|2021-08-12|2021-07-30|
+|195|[Lofelt/lofelt-studio-sdk](https://github.com/Lofelt/lofelt-studio-sdk)|HD haptic playback for iOS, Android and Unity|4|2021-09-22|2021-06-22|
+|196|[Luki120/Elixir](https://github.com/Luki120/Elixir)|Tweak count right on your settings app|4|2021-11-24|2021-06-16|
+|197|[AlessandroSangiuliano/Puck](https://github.com/AlessandroSangiuliano/Puck)|Puck is a simple dockbar|4|2022-01-02|2021-05-28|
+|198|[BILDIT-Platform/react-native-bildit-flybuy](https://github.com/BILDIT-Platform/react-native-bildit-flybuy)|React Native FlyBuy module.  Supports Core, Pickup, Notify,  and Presence Native SDK APIs.|4|2022-01-29|2021-05-23|
+|199|[mariogt/PikoPixelM1](https://github.com/mariogt/PikoPixelM1)|PikoPixelM1 is a modernization effort to make the original PikoPixel Apple Silicon/M1/Intel Universal Binary compliant.|4|2021-08-31|2021-04-18|
 |200|[tapthaker/SetArchPrefForURL](https://github.com/tapthaker/SetArchPrefForURL)|A CLI utility to "check" or "uncheck" "Open Using Rosetta" preference for Apple Silicon macs. |3|2022-01-24|2022-01-24|
 
 <div align="center">

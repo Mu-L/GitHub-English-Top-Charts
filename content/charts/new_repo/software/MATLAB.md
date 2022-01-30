@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|319|2022-01-27|2021-02-05|
+|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|321|2022-01-27|2021-02-05|
 |2|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|257|2022-01-14|2021-03-01|
 |3|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|119|2022-01-27|2021-08-21|
 |4|[ufukefe/DFM](https://github.com/ufukefe/DFM)|Python (Pytorch) and Matlab (MatConvNet) implementations of CVPR 2021 Image Matching Workshop paper DFM: A Performance Baseline for Deep Feature Matching|82|2021-11-21|2021-04-10|
@@ -126,7 +126,7 @@
 |119|[OpenPBEE/PBEE-Recovery](https://github.com/OpenPBEE/PBEE-Recovery)|Matlab codebase for quantifying building-specific functional recovery and reoccupancy based on a probabilistic performance-based earthquake engineering framework|7|2021-11-15|2021-05-19|
 |120|[urban-fasel/SEIR_SINDY_MPC](https://github.com/urban-fasel/SEIR_SINDY_MPC)|-|7|2021-08-31|2021-05-13|
 |121|[kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)|A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.|7|2021-09-19|2021-03-18|
-|122|[MariusKlug/zapline-plus](https://github.com/MariusKlug/zapline-plus)|Improvements of the ZapLine function to remove line noise from EEG/MEG data. Adds automatic detection of the number of components to remove, and chunks the data into segments to account for nonstation ...|7|2022-01-29|2021-03-17|
+|122|[MariusKlug/zapline-plus](https://github.com/MariusKlug/zapline-plus)|Improvements of the ZapLine function to remove line noise from EEG/MEG data. Adds automatic detection of the number of components to remove, and chunks the data into segments to account for nonstation ...|7|2022-01-30|2021-03-17|
 |123|[ChirikjianLab/LSG-CPD](https://github.com/ChirikjianLab/LSG-CPD)|[ICCV 2021] CPD with Local Surface Geometry (LSG-CPD)|7|2021-08-16|2021-03-17|
 |124|[WuLabMDA/HierarchicalGraphModeling](https://github.com/WuLabMDA/HierarchicalGraphModeling)|Cellular Spatial Pattern Mining via Unsupervised Clustering and Graph Modeling|7|2021-09-28|2021-02-21|
 |125|[ZHENGXi-git/Phase-SLAM](https://github.com/ZHENGXi-git/Phase-SLAM)|A Pose Estimator for Dense Reconstruction with the Structured Light Illumination Sensor|6|2022-01-27|2021-11-27|
@@ -172,7 +172,7 @@
 |165|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|5|2022-01-02|2021-10-14|
 |166|[Technician13/MinimumSnap](https://github.com/Technician13/MinimumSnap)|Trajectory Generation with MinimumSnap|5|2021-11-10|2021-10-03|
 |167|[StrathAIS-Rocketry/Spaceport-Cup](https://github.com/StrathAIS-Rocketry/Spaceport-Cup)|-|5|2022-01-27|2021-09-30|
-|168|[shivangraikar/Applied-Machine-learning](https://github.com/shivangraikar/Applied-Machine-learning)|Applied machine learning assignments CS background.|5|2022-01-27|2021-09-27|
+|168|[shivangraikar/Applied-Machine-learning](https://github.com/shivangraikar/Applied-Machine-learning)|Applied machine learning assignments CS background.|5|2022-01-29|2021-09-27|
 |169|[zhiguo-ding/NOMA-MEC](https://github.com/zhiguo-ding/NOMA-MEC)|A general framework for NOMA-MEC offloading|5|2021-09-17|2021-09-17|
 |170|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|5|2021-09-14|2021-09-14|
 |171|[YangSONG-SLAM/RIEKF_objectSLAM](https://github.com/YangSONG-SLAM/RIEKF_objectSLAM)|-|5|2021-09-14|2021-09-09|
@@ -191,20 +191,20 @@
 |184|[sjgershm/Hierarchical-groups](https://github.com/sjgershm/Hierarchical-groups)|Hierarchical groups model|5|2021-08-10|2021-08-10|
 |185|[ZYunfeii/KITTI-velodyne-viewer-matlab](https://github.com/ZYunfeii/KITTI-velodyne-viewer-matlab)|KITTI point cloud viewer with 3D Box realized by Matlab. At the same time, I realize the point-cloud car detection by DL. You just need to click the mouse once then the results got.|5|2021-08-14|2021-08-08|
 |186|[optsuite/SSNLP](https://github.com/optsuite/SSNLP)|a semi-smooth Newton method for LP|5|2021-08-05|2021-08-05|
-|187|[ghanasusanto/Two-Stage-Wasserstein-DRO-Copositive](https://github.com/ghanasusanto/Two-Stage-Wasserstein-DRO-Copositive)|Source codes of our paper on "Conic Programming Reformulations of Two-Stage Distributionally Robust Linear Programs over Wasserstein Balls."|5|2021-07-31|2021-07-31|
-|188|[Kuborgc6/Inzynierka](https://github.com/Kuborgc6/Inzynierka)|-|5|2022-01-02|2021-07-29|
-|189|[LuisMontejo/CUMBIA](https://github.com/LuisMontejo/CUMBIA)|CUMBIA - a set matlab/octave codes for the analysis of reinforced concrete members|5|2021-10-13|2021-07-26|
-|190|[SILI1994/Generalized-Shuffled-Linear-Regression](https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression)|Source code of generalized shuffled linear regression|5|2021-10-29|2021-07-26|
-|191|[gonzafernan/self-balancing-lqg](https://github.com/gonzafernan/self-balancing-lqg)|Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody|5|2021-11-25|2021-07-22|
-|192|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2022-01-25|2021-07-19|
-|193|[ricbl/eyetracking](https://github.com/ricbl/eyetracking)|This code was used to collect, process, and validate the REFLACX (Reports and Eye-Tracking Data for Localization of Abnormalities in Chest X-rays) dataset|5|2021-10-04|2021-07-14|
-|194|[TolisChal/portfolio_scoring](https://github.com/TolisChal/portfolio_scoring)|-|5|2021-09-10|2021-07-10|
-|195|[ANDREWNGT/FORMFLYT](https://github.com/ANDREWNGT/FORMFLYT)|:earth_asia: :satellite: :earth_asia: :satellite: FORMFLYT - High fidelity orbit propagation for formation flying control in MATLAB!|5|2022-01-25|2021-07-09|
-|196|[Mspmarvi/T-spline-Lab](https://github.com/Mspmarvi/T-spline-Lab)|T-Spline surface constructor|5|2021-08-27|2021-07-03|
-|197|[xuangu-fang/Bayesian-streaming-sparse-tucker](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)|code of Bayesian streaming sparse tucker decomposition for UAI 2021|5|2021-08-17|2021-06-24|
-|198|[eac-ufsm/i3da-2021](https://github.com/eac-ufsm/i3da-2021)|Repository with support files for the I3DA paper|5|2021-11-26|2021-06-23|
-|199|[JustusvLiebig/Inferential_Sensor_Experiment](https://github.com/JustusvLiebig/Inferential_Sensor_Experiment)|Soft Sensor with Variational Inference Technique|5|2021-09-28|2021-06-20|
-|200|[trevorkeenan/gpp-co2](https://github.com/trevorkeenan/gpp-co2)|Code to reproduce the analysis and figures in 'A constraint on historic growth in global photosynthesis due to increasing CO2' Keenan et al. 2021. Nature https://www.nature.com/articles/s41586-021-040 ...|5|2021-12-16|2021-06-15|
+|187|[Kuborgc6/Inzynierka](https://github.com/Kuborgc6/Inzynierka)|-|5|2022-01-02|2021-07-29|
+|188|[LuisMontejo/CUMBIA](https://github.com/LuisMontejo/CUMBIA)|CUMBIA - a set matlab/octave codes for the analysis of reinforced concrete members|5|2021-10-13|2021-07-26|
+|189|[SILI1994/Generalized-Shuffled-Linear-Regression](https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression)|Source code of generalized shuffled linear regression|5|2021-10-29|2021-07-26|
+|190|[gonzafernan/self-balancing-lqg](https://github.com/gonzafernan/self-balancing-lqg)|Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody|5|2021-11-25|2021-07-22|
+|191|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2022-01-25|2021-07-19|
+|192|[ricbl/eyetracking](https://github.com/ricbl/eyetracking)|This code was used to collect, process, and validate the REFLACX (Reports and Eye-Tracking Data for Localization of Abnormalities in Chest X-rays) dataset|5|2021-10-04|2021-07-14|
+|193|[TolisChal/portfolio_scoring](https://github.com/TolisChal/portfolio_scoring)|-|5|2021-09-10|2021-07-10|
+|194|[ANDREWNGT/FORMFLYT](https://github.com/ANDREWNGT/FORMFLYT)|:earth_asia: :satellite: :earth_asia: :satellite: FORMFLYT - High fidelity orbit propagation for formation flying control in MATLAB!|5|2022-01-25|2021-07-09|
+|195|[Mspmarvi/T-spline-Lab](https://github.com/Mspmarvi/T-spline-Lab)|T-Spline surface constructor|5|2021-08-27|2021-07-03|
+|196|[xuangu-fang/Bayesian-streaming-sparse-tucker](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)|code of Bayesian streaming sparse tucker decomposition for UAI 2021|5|2021-08-17|2021-06-24|
+|197|[eac-ufsm/i3da-2021](https://github.com/eac-ufsm/i3da-2021)|Repository with support files for the I3DA paper|5|2021-11-26|2021-06-23|
+|198|[JustusvLiebig/Inferential_Sensor_Experiment](https://github.com/JustusvLiebig/Inferential_Sensor_Experiment)|Soft Sensor with Variational Inference Technique|5|2021-09-28|2021-06-20|
+|199|[trevorkeenan/gpp-co2](https://github.com/trevorkeenan/gpp-co2)|Code to reproduce the analysis and figures in 'A constraint on historic growth in global photosynthesis due to increasing CO2' Keenan et al. 2021. Nature https://www.nature.com/articles/s41586-021-040 ...|5|2021-12-16|2021-06-15|
+|200|[brx18/Fast-OSCAR-and-OWL-Regression-via-Safe-Screening-Rules](https://github.com/brx18/Fast-OSCAR-and-OWL-Regression-via-Safe-Screening-Rules)|ICML 2020|5|2021-08-19|2021-06-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

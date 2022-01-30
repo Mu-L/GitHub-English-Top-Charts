@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|327|2021-12-16|2021-05-10|
 |2|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|43|2022-01-06|2021-09-26|
 |3|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|30|2022-01-28|2021-05-24|
-|4|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|2021-09-27|2021-08-27|
-|5|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|13|2022-01-29|2022-01-21|
+|4|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|17|2022-01-30|2022-01-21|
+|5|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|2021-09-27|2021-08-27|
 |6|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|13|2021-09-06|2021-06-23|
 |7|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|12|2021-11-19|2021-11-19|
 |8|[sally20921/SNUCSE-undergraduate](https://github.com/sally20921/SNUCSE-undergraduate)|snu undergraduate courses, projects, etc.|10|2021-08-07|2021-08-07|
@@ -22,9 +22,9 @@
 |15|[takenobu-hs/cpu-assembly-examples](https://github.com/takenobu-hs/cpu-assembly-examples)|CPU assembly examples|8|2021-08-14|2021-04-29|
 |16|[BrianStadnicki/self-modifying-assembly-examples](https://github.com/BrianStadnicki/self-modifying-assembly-examples)|Examples of self-modifying x86 linux assembly|7|2021-12-20|2021-12-14|
 |17|[olie304/BO3-Shader-Research](https://github.com/olie304/BO3-Shader-Research)|Information about and examples of HLSL shaders, techsets and materials for Call of Duty Black Ops 3|7|2021-12-25|2021-07-15|
-|18|[ISSOtm/gb-open-world](https://github.com/ISSOtm/gb-open-world)|A silly revival of a pipe dream. (Note: project is on hold while I work on gb-asm-tutorial. Sorry, please wait a bit!)|7|2021-09-04|2021-03-14|
-|19|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2022-01-07|2021-11-28|
-|20|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|6|2022-01-13|2021-04-17|
+|18|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step|7|2022-01-30|2021-04-17|
+|19|[ISSOtm/gb-open-world](https://github.com/ISSOtm/gb-open-world)|A silly revival of a pipe dream. (Note: project is on hold while I work on gb-asm-tutorial. Sorry, please wait a bit!)|7|2021-09-04|2021-03-14|
+|20|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|2022-01-07|2021-11-28|
 |21|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|2021-12-23|2021-09-14|
 |22|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2021-12-03|2021-08-21|
 |23|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|5|2022-01-25|2021-02-12|
@@ -57,7 +57,7 @@
 |50|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|2021-10-25|2021-10-18|
 |51|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|2021-10-26|2021-10-18|
 |52|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|2022-01-16|2021-10-15|
-|53|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|2|2022-01-21|2021-09-14|
+|53|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|2|2022-01-30|2021-09-14|
 |54|[SaraHindySalfer/Nand2Tetris](https://github.com/SaraHindySalfer/Nand2Tetris)|answers to n2t course home work|2|2021-08-14|2021-08-13|
 |55|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|2|2021-10-06|2021-06-16|
 |56|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2021-12-03|2021-04-25|

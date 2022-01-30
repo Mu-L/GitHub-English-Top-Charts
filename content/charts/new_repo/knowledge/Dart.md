@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3163|2022-01-27|2021-03-29|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3166|2022-01-30|2021-03-29|
 |2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|237|2021-12-29|2021-01-31|
 |3|[iampawan/30DaysOfFlutter](https://github.com/iampawan/30DaysOfFlutter)|Learn Flutter in 30 Days|205|2021-11-08|2021-02-05|
 |4|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|145|2022-01-26|2021-05-28|
@@ -23,10 +23,10 @@
 |16|[techwithsam/flutter_webview](https://github.com/techwithsam/flutter_webview)|A complete tutorial series on Flutter webview.|31|2021-09-14|2021-01-31|
 |17|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|29|2021-08-04|2021-03-16|
 |18|[cupertino-plus/cupertino_plus](https://github.com/cupertino-plus/cupertino_plus)|A collection of pixel-perfect iOS-styled components and properties for Flutter, following the official guidelines.|28|2021-10-23|2021-09-26|
-|19|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|27|2021-09-20|2021-09-08|
-|20|[VGVentures/robot_testing](https://github.com/VGVentures/robot_testing)|How to use the Robot Testing pattern in Flutter|27|2021-12-23|2021-03-17|
-|21|[yazdidev/learn_flutter_theme](https://github.com/yazdidev/learn_flutter_theme)|Learn flutter theme in this project|26|2022-01-17|2022-01-11|
-|22|[VB10/Dart-Language-Full-Course](https://github.com/VB10/Dart-Language-Full-Course)|This repository created to learn deeply dart language  with examples|26|2022-01-14|2022-01-05|
+|19|[VB10/Dart-Language-Full-Course](https://github.com/VB10/Dart-Language-Full-Course)|This repository created to learn deeply dart language  with examples|27|2022-01-14|2022-01-05|
+|20|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|27|2021-09-20|2021-09-08|
+|21|[VGVentures/robot_testing](https://github.com/VGVentures/robot_testing)|How to use the Robot Testing pattern in Flutter|27|2021-12-23|2021-03-17|
+|22|[yazdidev/learn_flutter_theme](https://github.com/yazdidev/learn_flutter_theme)|Learn flutter theme in this project|26|2022-01-17|2022-01-11|
 |23|[ACM-VIT/fludget](https://github.com/ACM-VIT/fludget)|Learn Flutter on Flutter! A widget directory with implementation samples!|26|2021-10-31|2021-09-29|
 |24|[faisalramdan17/car_rental_lite](https://github.com/faisalramdan17/car_rental_lite)|A platform for car sharing where users can book any car that suits their needs and wants for their intended journey, from the closest hosts in the community.|26|2021-10-05|2021-03-07|
 |25|[EsraKantarci/mirasapp](https://github.com/EsraKantarci/mirasapp)|Flutter based UI for legal inheritance share calculator|24|2022-01-27|2021-05-02|
@@ -60,16 +60,16 @@
 |53|[PeterHdd/Flutter-tutorials](https://github.com/PeterHdd/Flutter-tutorials)|Repository containing source code for the tutorials made using with flutter|10|2021-10-22|2021-03-19|
 |54|[crizant/flutter_multiplication_table](https://github.com/crizant/flutter_multiplication_table)|This flutter project is created to demonstrate how to build a two direction scrolling data table.|10|2021-08-16|2021-02-09|
 |55|[batuhankrbb/flutterbook](https://github.com/batuhankrbb/flutterbook)|My Flutter book. I gathered all services and helpers I made with Flutter in here. You can easily copy these helpers and use them in your project.|9|2022-01-09|2021-11-15|
-|56|[juancastillo0/leto](https://github.com/juancastillo0/leto)|Dart GraphQL server implementation. Utilities, code generator, examples and reference implementation.|9|2022-01-24|2021-08-30|
-|57|[viralvaghela/flutter_examples](https://github.com/viralvaghela/flutter_examples)|Collection of cool flutter code examples and packages|8|2021-10-22|2021-10-21|
-|58|[YouXianMing/flutter_canvas](https://github.com/YouXianMing/flutter_canvas)|Examples of use flutter canvas.|8|2021-10-21|2021-10-21|
-|59|[ankitmishradev/advanced-icon](https://github.com/ankitmishradev/advanced-icon)|A flutter package that contains a collection of icon decoration tools (i.e. gradient, opacity) and icon transition features with cool animation effects.|8|2021-09-25|2021-09-16|
-|60|[Rea2er/flutter-clothes-app-starter](https://github.com/Rea2er/flutter-clothes-app-starter)|This project include all the assets I used in this tutorial|8|2021-08-29|2021-08-29|
-|61|[leonardopresoto/starwars_clean_architecture](https://github.com/leonardopresoto/starwars_clean_architecture)|A project to learn about Clean Architecture|8|2022-01-04|2021-05-27|
-|62|[Zujaj/image_color_switcher](https://github.com/Zujaj/image_color_switcher)|A custom widget that demonstrates how to switch specific colors of an image using Flutter.|8|2022-01-11|2021-03-27|
-|63|[TesteurManiak/flutter_web_twitch_auth](https://github.com/TesteurManiak/flutter_web_twitch_auth)|Example to illustrate how to implement an OAuth2 authentication flow in Flutter Web.|8|2021-09-12|2021-02-20|
-|64|[FlutterQueen/readable](https://github.com/FlutterQueen/readable)|collection of helpers and extensions for dart and flutter |7|2022-01-08|2021-12-20|
-|65|[lakscastro/shared-storage](https://github.com/lakscastro/shared-storage)|📁 Flutter plugin to get Android shared folders like DCIM, Downloads, Video, Audio. Works with Android 4.1+ (API Level 16+)|7|2022-01-08|2021-10-31|
+|56|[lakscastro/shared-storage](https://github.com/lakscastro/shared-storage)|📁 Flutter plugin to get Android shared folders like DCIM, Downloads, Video, Audio. Works with Android 4.1+ (API Level 16+)|9|2022-01-08|2021-10-31|
+|57|[juancastillo0/leto](https://github.com/juancastillo0/leto)|Dart GraphQL server implementation. Utilities, code generator, examples and reference implementation.|9|2022-01-24|2021-08-30|
+|58|[viralvaghela/flutter_examples](https://github.com/viralvaghela/flutter_examples)|Collection of cool flutter code examples and packages|8|2021-10-22|2021-10-21|
+|59|[YouXianMing/flutter_canvas](https://github.com/YouXianMing/flutter_canvas)|Examples of use flutter canvas.|8|2021-10-21|2021-10-21|
+|60|[ankitmishradev/advanced-icon](https://github.com/ankitmishradev/advanced-icon)|A flutter package that contains a collection of icon decoration tools (i.e. gradient, opacity) and icon transition features with cool animation effects.|8|2021-09-25|2021-09-16|
+|61|[Rea2er/flutter-clothes-app-starter](https://github.com/Rea2er/flutter-clothes-app-starter)|This project include all the assets I used in this tutorial|8|2021-08-29|2021-08-29|
+|62|[leonardopresoto/starwars_clean_architecture](https://github.com/leonardopresoto/starwars_clean_architecture)|A project to learn about Clean Architecture|8|2022-01-04|2021-05-27|
+|63|[Zujaj/image_color_switcher](https://github.com/Zujaj/image_color_switcher)|A custom widget that demonstrates how to switch specific colors of an image using Flutter.|8|2022-01-11|2021-03-27|
+|64|[TesteurManiak/flutter_web_twitch_auth](https://github.com/TesteurManiak/flutter_web_twitch_auth)|Example to illustrate how to implement an OAuth2 authentication flow in Flutter Web.|8|2021-09-12|2021-02-20|
+|65|[FlutterQueen/readable](https://github.com/FlutterQueen/readable)|collection of helpers and extensions for dart and flutter |7|2022-01-08|2021-12-20|
 |66|[fireship-io/dart-course](https://github.com/fireship-io/dart-course)|Master the Basics of the Dart Language|7|2022-01-01|2021-10-10|
 |67|[raywenderlich/dsad-materials](https://github.com/raywenderlich/dsad-materials)|The projects and the materials that accompany the Data Structures & Algorithms in Dart book|7|2022-01-27|2021-09-02|
 |68|[anthonyaquino83/getxsqlitecrud](https://github.com/anthonyaquino83/getxsqlitecrud)|GetX SQLite Tutorial.|7|2021-08-30|2021-08-30|

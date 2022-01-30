@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9852|6|2021-08-02|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5452|3|2021-12-19|
+|1|[luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)|Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |9853|6|2021-08-02|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5453|3|2021-12-19|
 |3|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4395|3|2021-09-07|
 |4|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|-|29|1|2022-01-14|
 |5|[lucwilson/SPRiNT](https://github.com/lucwilson/SPRiNT)|Code for simulating neural time series, spectrogram parameterization (using SPRiNT), and generating figures from the SPRiNT preprint|7|1|2022-01-24|
 |6|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|76|1|2021-12-01|
 |7|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|608|1|2022-01-07|
 |8|[tud-amr/mrca_vc](https://github.com/tud-amr/mrca_vc)|Multi-robot collision avoidance using buffered uncertainty-aware Voronoi cells|5|1|2022-01-21|
-|9|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|119|1|2022-01-27|
-|10|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|319|1|2022-01-27|
-|11|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|257|1|2022-01-14|
-|12|[yundumbledore/whole-brain-imaging](https://github.com/yundumbledore/whole-brain-imaging)|-|7|1|2022-01-22|
-|13|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|649|1|2022-01-20|
-|14|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
-|15|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|11|0|2021-11-02|
-|16|[CommanderPho/NSCI-613-Lab-6](https://github.com/CommanderPho/NSCI-613-Lab-6)|The code for the UMich NSCI 613 Lab 6 during the Fall 2020 Semester|2|0|2021-10-02|
-|17|[mak-ux/Final_Audio_toolbox_Matlab_2020](https://github.com/mak-ux/Final_Audio_toolbox_Matlab_2020)|Audio System Toolbox 2021.|2|0|2021-10-23|
-|18|[brainlook/Fundamental-functions-dataset](https://github.com/brainlook/Fundamental-functions-dataset)|The basic function codes for brain image process|3|0|2021-11-09|
-|19|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|5|0|2022-01-02|
-|20|[septianto3/Regresi-Linier-dengan-Multiple-Variabel](https://github.com/septianto3/Regresi-Linier-dengan-Multiple-Variabel)|Regresi Linier dengan Multiple Variabel|29|0|2021-11-08|
-|21|[FanZhenhui/SINS_GPS_Loose](https://github.com/FanZhenhui/SINS_GPS_Loose)|Integrated navigation|2|0|2021-08-02|
-|22|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|49|0|2021-12-21|
-|23|[optocardiography/Rhythm-1.2](https://github.com/optocardiography/Rhythm-1.2)|multiparametric imaging |4|0|2021-11-18|
-|24|[qnity/smith_wilson_matlab](https://github.com/qnity/smith_wilson_matlab)|Implementation of the Smith & Wilson algorithm for interpolation and/or extrapolation of missing interest rates in JavaScript|3|0|2022-01-16|
-|25|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|25|0|2022-01-17|
-|26|[Lcrypto/trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)|Enumerating  Search of Trapping sets in LDPC codes|5|0|2022-01-20|
-|27|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|3|0|2022-01-27|
-|28|[iqcToolbox/iqcToolbox](https://github.com/iqcToolbox/iqcToolbox)|Model, manipulate, and analyze uncertain and nonlinear systems via integral quadratic constraints |3|0|2022-01-05|
-|29|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|4|0|2022-01-11|
-|30|[michellehirsch/MATLAB-Dataspace-to-Figure-Units](https://github.com/michellehirsch/MATLAB-Dataspace-to-Figure-Units)|Convert from dataspace to figure units to make it easier to add annotations pointing to data in a MATLAB figure window.|6|0|2021-10-25|
-|31|[BMSQSP/QSPToolbox](https://github.com/BMSQSP/QSPToolbox)|This is the fully public version of QSP Toolbox.  Please check the README file for the current version of MATLAB that is supported.|13|0|2021-08-19|
-|32|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |43|0|2021-12-30|
-|33|[falbarelli/multipar-purification-bounds](https://github.com/falbarelli/multipar-purification-bounds)|-|4|0|2021-07-31|
+|9|[xiuheng-wang/Deep_gradient_HSI_superresolution](https://github.com/xiuheng-wang/Deep_gradient_HSI_superresolution)|Implementation of paper "Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion" (ICASSP 2022)|4|1|2022-01-23|
+|10|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|119|1|2022-01-27|
+|11|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|321|1|2022-01-27|
+|12|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|257|1|2022-01-14|
+|13|[yundumbledore/whole-brain-imaging](https://github.com/yundumbledore/whole-brain-imaging)|-|7|1|2022-01-22|
+|14|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|649|1|2022-01-20|
+|15|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
+|16|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|11|0|2021-11-02|
+|17|[CommanderPho/NSCI-613-Lab-6](https://github.com/CommanderPho/NSCI-613-Lab-6)|The code for the UMich NSCI 613 Lab 6 during the Fall 2020 Semester|2|0|2021-10-02|
+|18|[mak-ux/Final_Audio_toolbox_Matlab_2020](https://github.com/mak-ux/Final_Audio_toolbox_Matlab_2020)|Audio System Toolbox 2021.|2|0|2021-10-23|
+|19|[brainlook/Fundamental-functions-dataset](https://github.com/brainlook/Fundamental-functions-dataset)|The basic function codes for brain image process|3|0|2021-11-09|
+|20|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|5|0|2022-01-02|
+|21|[septianto3/Regresi-Linier-dengan-Multiple-Variabel](https://github.com/septianto3/Regresi-Linier-dengan-Multiple-Variabel)|Regresi Linier dengan Multiple Variabel|29|0|2021-11-08|
+|22|[FanZhenhui/SINS_GPS_Loose](https://github.com/FanZhenhui/SINS_GPS_Loose)|Integrated navigation|2|0|2021-08-02|
+|23|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|49|0|2021-12-21|
+|24|[optocardiography/Rhythm-1.2](https://github.com/optocardiography/Rhythm-1.2)|multiparametric imaging |4|0|2021-11-18|
+|25|[qnity/smith_wilson_matlab](https://github.com/qnity/smith_wilson_matlab)|Implementation of the Smith & Wilson algorithm for interpolation and/or extrapolation of missing interest rates in JavaScript|3|0|2022-01-16|
+|26|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|25|0|2022-01-17|
+|27|[Lcrypto/trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)|Enumerating  Search of Trapping sets in LDPC codes|5|0|2022-01-20|
+|28|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|3|0|2022-01-27|
+|29|[iqcToolbox/iqcToolbox](https://github.com/iqcToolbox/iqcToolbox)|Model, manipulate, and analyze uncertain and nonlinear systems via integral quadratic constraints |4|0|2022-01-05|
+|30|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|4|0|2022-01-11|
+|31|[michellehirsch/MATLAB-Dataspace-to-Figure-Units](https://github.com/michellehirsch/MATLAB-Dataspace-to-Figure-Units)|Convert from dataspace to figure units to make it easier to add annotations pointing to data in a MATLAB figure window.|6|0|2021-10-25|
+|32|[BMSQSP/QSPToolbox](https://github.com/BMSQSP/QSPToolbox)|This is the fully public version of QSP Toolbox.  Please check the README file for the current version of MATLAB that is supported.|13|0|2021-08-19|
+|33|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |43|0|2021-12-30|
 |34|[niklauskun/MarkovESValuation](https://github.com/niklauskun/MarkovESValuation)|-|2|0|2021-08-13|
 |35|[adanjoga/cvik-toolbox](https://github.com/adanjoga/cvik-toolbox)|CVIK is a Toolbox for the automatic determination of the number of clusters on data clustering problems|3|0|2021-10-27|
 |36|[sg-s/umap-matlab-wrapper](https://github.com/sg-s/umap-matlab-wrapper)|A simple MATLAB wrapper for umap. Supports un/semi/supervised embedding. |6|0|2021-09-30|

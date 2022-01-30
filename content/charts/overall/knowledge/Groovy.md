@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|2022-01-22|
 |6|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|2022-01-11|
 |7|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|165|2022-01-24|
-|8|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|135|2022-01-28|
+|8|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|135|2022-01-30|
 |9|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|133|2022-01-21|
 |10|[ppazos/cabolabs-ehrserver](https://github.com/ppazos/cabolabs-ehrserver)|Open platform to manage and share standardized clinical data, designed by @ppazos at CaboLabs Health Informatics.|130|2021-08-24|
 |11|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|116|2022-01-01|
@@ -30,8 +30,8 @@
 |23|[boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins)|Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images|31|2021-10-27|
 |24|[agorapulse/grails-facebook-sdk](https://github.com/agorapulse/grails-facebook-sdk)|Facebook SDK Grails Plugin|30|2022-01-19|
 |25|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|27|2021-12-17|
-|26|[IBA-mainframe-dev/Global-Repository-for-Mainframe-Developers](https://github.com/IBA-mainframe-dev/Global-Repository-for-Mainframe-Developers)|This hierarchy of repositories serves to help mainframe developers in their daily work and contains various source codes, examples of commands and utilities with accompanying readme files.|23|2021-11-10|
-|27|[pizug/cpi-groovy-examples](https://github.com/pizug/cpi-groovy-examples)|Groovy Script Examples for SAP Cloud Integration (CPI)|23|2022-01-20|
+|26|[pizug/cpi-groovy-examples](https://github.com/pizug/cpi-groovy-examples)|Groovy Script Examples for SAP Cloud Integration (CPI)|24|2022-01-20|
+|27|[IBA-mainframe-dev/Global-Repository-for-Mainframe-Developers](https://github.com/IBA-mainframe-dev/Global-Repository-for-Mainframe-Developers)|This hierarchy of repositories serves to help mainframe developers in their daily work and contains various source codes, examples of commands and utilities with accompanying readme files.|23|2021-11-10|
 |28|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|22|2021-12-13|
 |29|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|22|2021-11-26|
 |30|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|22|2021-09-08|
@@ -80,18 +80,17 @@
 |73|[axieinfinity/jenkins-library](https://github.com/axieinfinity/jenkins-library)|Shared Jenkins library for Sky Mavis.|3|2021-12-21|
 |74|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|2021-09-20|
 |75|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|2022-01-24|
-|76|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|3|2021-07-31|
-|77|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
-|78|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|2021-12-29|
-|79|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
-|80|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-01-04|
-|81|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|2|2021-10-06|
-|82|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|2022-01-26|
-|83|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|2022-01-13|
-|84|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|2022-01-26|
-|85|[hamlet-io/docker-jenkins-master](https://github.com/hamlet-io/docker-jenkins-master)|CodeOnTap Jenkins Master Server|2|2021-08-17|
-|86|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|2022-01-22|
-|87|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|2021-12-24|
+|76|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
+|77|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|2021-12-29|
+|78|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
+|79|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-01-04|
+|80|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|2|2021-10-06|
+|81|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|2022-01-26|
+|82|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|2022-01-13|
+|83|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|2022-01-26|
+|84|[hamlet-io/docker-jenkins-master](https://github.com/hamlet-io/docker-jenkins-master)|CodeOnTap Jenkins Master Server|2|2021-08-17|
+|85|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|2022-01-30|
+|86|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|2021-12-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
