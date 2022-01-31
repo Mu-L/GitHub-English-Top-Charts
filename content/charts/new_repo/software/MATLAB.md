@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|321|2022-01-27|2021-02-05|
+|1|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|322|2022-01-31|2021-02-05|
 |2|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|257|2022-01-14|2021-03-01|
 |3|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|119|2022-01-27|2021-08-21|
 |4|[ufukefe/DFM](https://github.com/ufukefe/DFM)|Python (Pytorch) and Matlab (MatConvNet) implementations of CVPR 2021 Image Matching Workshop paper DFM: A Performance Baseline for Deep Feature Matching|82|2021-11-21|2021-04-10|
@@ -78,7 +78,7 @@
 |71|[IMDEANetworksWNG/UbiLocate](https://github.com/IMDEANetworksWNG/UbiLocate)|-|9|2021-12-29|2021-05-14|
 |72|[duongpm/SPSO](https://github.com/duongpm/SPSO)|Spherical Vector-based Particle Swarm Optimization|9|2021-11-14|2021-03-29|
 |73|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
-|74|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|9|2022-01-28|2021-03-12|
+|74|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|9|2022-01-31|2021-03-12|
 |75|[QMagen/QMagen](https://github.com/QMagen/QMagen)|-|9|2021-10-05|2021-03-11|
 |76|[jmfriedt/passive_radar](https://github.com/jmfriedt/passive_radar)|Passive radar measurements using synchronized RTL-SDR DVB-T receivers|9|2021-11-06|2021-02-17|
 |77|[petersaj/neuropixels_trajectory_explorer](https://github.com/petersaj/neuropixels_trajectory_explorer)|Neuropixels trajectory explorer with the Allen CCF mouse atlas|8|2022-01-26|2021-11-18|
@@ -97,9 +97,9 @@
 |90|[yangfanyfyf/GA-VRPTW](https://github.com/yangfanyfyf/GA-VRPTW)|A Genetic Algorithm for Vehicle Routing Problem with Time Windows|8|2021-08-15|2021-06-30|
 |91|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
 |92|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-01-25|2021-05-28|
-|93|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-01-27|2021-04-17|
+|93|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-01-31|2021-04-17|
 |94|[roslovets/Live-Script-to-Markdown-Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)|Easily convert MATLAB live scripts to markdown files|8|2021-12-22|2021-03-28|
-|95|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-01-26|2021-02-22|
+|95|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-01-30|2021-02-22|
 |96|[mid2SUPAERO/EMTO](https://github.com/mid2SUPAERO/EMTO)|Efficient Multiscale Topology Optimization|8|2021-09-28|2021-02-17|
 |97|[trinhudo/Multi-RIS](https://github.com/trinhudo/Multi-RIS)|Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis|8|2022-01-17|2021-02-09|
 |98|[yundumbledore/whole-brain-imaging](https://github.com/yundumbledore/whole-brain-imaging)|-|7|2022-01-22|2022-01-20|
@@ -126,7 +126,7 @@
 |119|[OpenPBEE/PBEE-Recovery](https://github.com/OpenPBEE/PBEE-Recovery)|Matlab codebase for quantifying building-specific functional recovery and reoccupancy based on a probabilistic performance-based earthquake engineering framework|7|2021-11-15|2021-05-19|
 |120|[urban-fasel/SEIR_SINDY_MPC](https://github.com/urban-fasel/SEIR_SINDY_MPC)|-|7|2021-08-31|2021-05-13|
 |121|[kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)|A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.|7|2021-09-19|2021-03-18|
-|122|[MariusKlug/zapline-plus](https://github.com/MariusKlug/zapline-plus)|Improvements of the ZapLine function to remove line noise from EEG/MEG data. Adds automatic detection of the number of components to remove, and chunks the data into segments to account for nonstation ...|7|2022-01-30|2021-03-17|
+|122|[MariusKlug/zapline-plus](https://github.com/MariusKlug/zapline-plus)|Improvements of the ZapLine function to remove line noise from EEG/MEG data. Adds automatic detection of the number of components to remove, and chunks the data into segments to account for nonstation ...|7|2022-01-31|2021-03-17|
 |123|[ChirikjianLab/LSG-CPD](https://github.com/ChirikjianLab/LSG-CPD)|[ICCV 2021] CPD with Local Surface Geometry (LSG-CPD)|7|2021-08-16|2021-03-17|
 |124|[WuLabMDA/HierarchicalGraphModeling](https://github.com/WuLabMDA/HierarchicalGraphModeling)|Cellular Spatial Pattern Mining via Unsupervised Clustering and Graph Modeling|7|2021-09-28|2021-02-21|
 |125|[ZHENGXi-git/Phase-SLAM](https://github.com/ZHENGXi-git/Phase-SLAM)|A Pose Estimator for Dense Reconstruction with the Structured Light Illumination Sensor|6|2022-01-27|2021-11-27|
@@ -171,7 +171,7 @@
 |164|[jonathandroth/LinearMomentInequalities](https://github.com/jonathandroth/LinearMomentInequalities)|-|5|2021-11-05|2021-11-04|
 |165|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|5|2022-01-02|2021-10-14|
 |166|[Technician13/MinimumSnap](https://github.com/Technician13/MinimumSnap)|Trajectory Generation with MinimumSnap|5|2021-11-10|2021-10-03|
-|167|[StrathAIS-Rocketry/Spaceport-Cup](https://github.com/StrathAIS-Rocketry/Spaceport-Cup)|-|5|2022-01-27|2021-09-30|
+|167|[StrathAIS-Rocketry/Spaceport-Cup](https://github.com/StrathAIS-Rocketry/Spaceport-Cup)|-|5|2022-01-31|2021-09-30|
 |168|[shivangraikar/Applied-Machine-learning](https://github.com/shivangraikar/Applied-Machine-learning)|Applied machine learning assignments CS background.|5|2022-01-29|2021-09-27|
 |169|[zhiguo-ding/NOMA-MEC](https://github.com/zhiguo-ding/NOMA-MEC)|A general framework for NOMA-MEC offloading|5|2021-09-17|2021-09-17|
 |170|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|5|2021-09-14|2021-09-14|
