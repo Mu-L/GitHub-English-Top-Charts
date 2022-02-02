@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > All Language
-<sub>Updated: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Language|Updated|Created|
 |:-|:-|:-|:-|:-|:-|:-|
-|1|[google/zx](https://github.com/google/zx)|A tool for writing better scripts|27324|JavaScript|2022-01-27|2021-05-05|
-|2|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|19350|JavaScript|2022-01-15|2021-08-07|
-|3|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers (Beta)|18188|TypeScript|2022-01-31|2021-04-24|
-|4|[AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|16604|Rust|2022-02-01|2021-06-16|
-|5|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|12539|JavaScript|2022-02-01|2021-07-03|
-|6|[withastro/astro](https://github.com/withastro/astro)|Build fast websites, faster. 🚀🧑‍🚀✨|10197|TypeScript|2022-02-01|2021-03-15|
-|7|[calcom/cal.com](https://github.com/calcom/cal.com)|Scheduling infrastructure for absolutely everyone.|9715|TypeScript|2022-02-01|2021-03-22|
-|8|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|9197|Python|2022-01-25|2021-07-19|
-|9|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |8494|TypeScript|2022-01-22|2021-05-30|
-|10|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|8418|Python|2022-01-05|2021-10-23|
-|11|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8014|JavaScript|2022-01-29|2021-11-15|
-|12|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs|7852|Lua|2022-02-01|2021-03-07|
-|13|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|7752|Python|2022-01-28|2021-06-17|
-|14|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7694|Jupyter Notebook|2022-01-07|2021-03-05|
-|15|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.|7669|TypeScript|2022-02-01|2021-06-04|
-|16|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|7520|Python|2022-02-01|2021-04-08|
-|17|[microsoft/wslg](https://github.com/microsoft/wslg)|Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios|7120|C++|2022-01-07|2021-03-11|
-|18|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7021|Python|2021-12-22|2021-03-25|
-|19|[tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)|Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!|6768|C++|2022-01-30|2021-07-04|
-|20|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|6733|Python|2022-01-31|2021-08-24|
-|21|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6659|Python|2022-02-01|2021-07-16|
-|22|[lima-vm/lima](https://github.com/lima-vm/lima)|Linux virtual machines, typically on macOS, for running containerd|6578|Go|2022-02-01|2021-05-14|
-|23|[veler/DevToys](https://github.com/veler/DevToys)|A Swiss Army knife for developers.|6249|C#|2022-02-01|2021-09-29|
-|24|[aristocratos/btop](https://github.com/aristocratos/btop)|A monitor of resources|6090|C++|2022-01-31|2021-05-06|
-|25|[tldraw/tldraw](https://github.com/tldraw/tldraw)|A tiny little drawing app.|5852|TypeScript|2022-02-01|2021-05-09|
+|1|[google/zx](https://github.com/google/zx)|A tool for writing better scripts|27343|JavaScript|2022-01-27|2021-05-05|
+|2|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|19365|JavaScript|2022-01-15|2021-08-07|
+|3|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers (Beta)|18198|TypeScript|2022-01-31|2021-04-24|
+|4|[AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|16718|Rust|2022-02-02|2021-06-16|
+|5|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|12570|JavaScript|2022-02-02|2021-07-03|
+|6|[withastro/astro](https://github.com/withastro/astro)|Build fast websites, faster. 🚀🧑‍🚀✨|10223|TypeScript|2022-02-02|2021-03-15|
+|7|[calcom/cal.com](https://github.com/calcom/cal.com)|Scheduling infrastructure for absolutely everyone.|9732|TypeScript|2022-02-02|2021-03-22|
+|8|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|9225|Python|2022-01-25|2021-07-19|
+|9|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |8504|TypeScript|2022-01-22|2021-05-30|
+|10|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|8463|Python|2022-01-05|2021-10-23|
+|11|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8050|JavaScript|2022-01-29|2021-11-15|
+|12|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs|7876|Lua|2022-02-02|2021-03-07|
+|13|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|7756|Python|2022-01-28|2021-06-17|
+|14|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7697|Jupyter Notebook|2022-01-07|2021-03-05|
+|15|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.|7678|TypeScript|2022-02-02|2021-06-04|
+|16|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|7663|Python|2022-02-02|2021-04-08|
+|17|[microsoft/wslg](https://github.com/microsoft/wslg)|Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios|7126|C++|2022-01-07|2021-03-11|
+|18|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7024|Python|2021-12-22|2021-03-25|
+|19|[tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)|Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!|6771|C++|2022-01-30|2021-07-04|
+|20|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|6739|Python|2022-01-31|2021-08-24|
+|21|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6665|Python|2022-02-02|2021-07-16|
+|22|[lima-vm/lima](https://github.com/lima-vm/lima)|Linux virtual machines, typically on macOS, for running containerd|6632|Go|2022-02-01|2021-05-14|
+|23|[veler/DevToys](https://github.com/veler/DevToys)|A Swiss Army knife for developers.|6355|C#|2022-02-02|2021-09-29|
+|24|[aristocratos/btop](https://github.com/aristocratos/btop)|A monitor of resources|6093|C++|2022-01-31|2021-05-06|
+|25|[tldraw/tldraw](https://github.com/tldraw/tldraw)|A tiny little drawing app.|5881|TypeScript|2022-02-01|2021-05-09|
 |26|[rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)|Detection Script to help identify why your PC is not Windows 11 Release Ready|5765|AutoIt|2022-01-24|2021-06-24|
-|27|[vuejs/petite-vue](https://github.com/vuejs/petite-vue)|6kb subset of Vue optimized for progressive enhancement|5662|TypeScript|2022-01-27|2021-07-01|
-|28|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|5648|TypeScript|2022-02-01|2021-03-09|
-|29|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5579|Python|2022-01-27|2021-07-17|
-|30|[vercel/turborepo](https://github.com/vercel/turborepo)|The High-performance Build System for JavaScript & TypeScript Codebases|5565|Go|2022-02-01|2021-10-05|
-|31|[blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)|Windows 11 in React 💻🌈⚡|5475|JavaScript|2022-02-01|2021-07-12|
-|32|[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|5405|Go|2022-01-28|2021-12-02|
-|33|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5304|TypeScript|2022-01-29|2021-10-25|
-|34|[datreeio/datree](https://github.com/datreeio/datree)|Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. Se ...|5285|Go|2022-01-31|2021-04-14|
+|27|[vuejs/petite-vue](https://github.com/vuejs/petite-vue)|6kb subset of Vue optimized for progressive enhancement|5666|TypeScript|2022-01-27|2021-07-01|
+|28|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|5651|TypeScript|2022-02-01|2021-03-09|
+|29|[vercel/turborepo](https://github.com/vercel/turborepo)|The High-performance Build System for JavaScript & TypeScript Codebases|5591|Go|2022-02-02|2021-10-05|
+|30|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5582|Python|2022-01-27|2021-07-17|
+|31|[blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)|Windows 11 in React 💻🌈⚡|5481|JavaScript|2022-02-02|2021-07-12|
+|32|[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|5412|Go|2022-02-02|2021-12-02|
+|33|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5311|TypeScript|2022-01-29|2021-10-25|
+|34|[datreeio/datree](https://github.com/datreeio/datree)|Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. Se ...|5289|Go|2022-01-31|2021-04-14|
 |35|[nextapps-de/winbox](https://github.com/nextapps-de/winbox)|WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!|5247|JavaScript|2022-01-31|2021-04-12|
-|36|[maaslalani/slides](https://github.com/maaslalani/slides)|Terminal based presentation tool|5210|Go|2022-02-01|2021-05-05|
-|37|[LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)|Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)|5176|-|2022-02-01|2021-10-26|
-|38|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5158|Python|2022-01-14|2021-08-30|
-|39|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|5096|TypeScript|2022-02-01|2021-03-13|
-|40|[armosec/kubescape](https://github.com/armosec/kubescape)|Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. |5058|Go|2022-01-31|2021-08-12|
-|41|[bee-san/pyWhat](https://github.com/bee-san/pyWhat)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|5011|Python|2021-12-11|2021-03-19|
-|42|[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)|Open-source low-code framework for building React-based web applications and internal tools 🚀|4921|JavaScript|2022-02-01|2021-03-30|
-|43|[seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract)|Zero-runtime Stylesheets-in-TypeScript|4889|TypeScript|2022-01-31|2021-03-26|
-|44|[dtm-labs/dtm](https://github.com/dtm-labs/dtm)|🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器|4614|Go|2022-01-28|2021-05-16|
-|45|[nuxt/framework](https://github.com/nuxt/framework)|The Hybrid Vue(3) Framework.|4401|TypeScript|2022-02-01|2021-03-17|
-|46|[o3de/o3de](https://github.com/o3de/o3de)|Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou ...|4321|C++|2022-02-01|2021-04-05|
-|47|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4277|Python|2022-02-01|2021-06-09|
-|48|[Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix)|Not the usual clone that you can find on the web.|4273|JavaScript|2022-01-31|2021-02-23|
-|49|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4259|C|2022-01-31|2021-11-24|
-|50|[megaease/easegress](https://github.com/megaease/easegress)|A Cloud Native traffic orchestration system|4200|Go|2022-02-01|2021-05-28|
-|51|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4196|C#|2022-02-01|2021-05-12|
-|52|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4175|Dart|2022-01-18|2021-05-03|
-|53|[nextui-org/nextui](https://github.com/nextui-org/nextui)|🚀   Beautiful, fast and modern React UI library.|4162|TypeScript|2022-02-01|2021-04-22|
-|54|[Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)|🎓 Um caminho para a educação autodidata em Ciência da Computação!|4124|-|2022-01-27|2021-06-27|
-|55|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|4102|Go|2022-01-31|2021-10-30|
-|56|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4094|C++|2022-01-31|2021-05-31|
-|57|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|3988|Java|2022-01-27|2021-11-29|
-|58|[openai/DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|3941|Python|2021-12-24|2021-02-23|
-|59|[kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)|Model parallel transformers in JAX and Haiku|3791|Python|2022-01-28|2021-03-13|
-|60|[charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)|Style definitions for nice terminal layouts 👄|3759|Go|2022-01-31|2021-03-01|
-|61|[seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)|Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.|3751|Swift|2022-01-14|2021-02-22|
-|62|[HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)|HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.|3706|JavaScript|2022-02-01|2021-09-13|
-|63|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |3683|Rust|2022-01-31|2021-05-30|
-|64|[rh12503/triangula](https://github.com/rh12503/triangula)|Generate high-quality triangulated and polygonal art from images.|3676|Go|2021-09-02|2021-04-02|
-|65|[cloudwego/kitex](https://github.com/cloudwego/kitex)|A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.|3667|Go|2022-01-30|2021-07-09|
-|66|[tkellogg/dura](https://github.com/tkellogg/dura)|You shouldn't ever lose your work if you're using Git|3631|Rust|2022-01-31|2021-12-31|
-|67|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3557|Python|2021-12-04|2021-10-07|
-|68|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3484|Python|2022-01-18|2021-05-18|
-|69|[facebookresearch/Kats](https://github.com/facebookresearch/Kats)|Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, ...|3451|Python|2022-01-31|2021-02-25|
-|70|[thedevdojo/wave](https://github.com/thedevdojo/wave)|Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |3446|PHP|2022-01-05|2021-03-25|
-|71|[arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)|GUIA EXTENSO DE PROGRAMAÇÃO:|3442|-|2022-01-28|2021-10-15|
-|72|[NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)|RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccin ...|3408|-|2021-12-14|2021-03-24|
-|73|[OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)|DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks. |3407|-|2022-01-26|2021-06-20|
-|74|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3383|CSS|2022-01-31|2021-04-26|
-|75|[tokio-rs/axum](https://github.com/tokio-rs/axum)|Ergonomic and modular web framework built with Tokio, Tower, and Hyper|3375|Rust|2022-02-01|2021-05-30|
-|76|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3344|Vue|2022-01-31|2021-10-02|
-|77|[openreplay/openreplay](https://github.com/openreplay/openreplay)|:tv: OpenReplay is developer-friendly, open-source session replay.|3343|JavaScript|2022-02-01|2021-04-29|
-|78|[wader/fq](https://github.com/wader/fq)|jq for binary formats|3304|Go|2022-01-30|2021-02-07|
+|36|[LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)|Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)|5236|-|2022-02-01|2021-10-26|
+|37|[maaslalani/slides](https://github.com/maaslalani/slides)|Terminal based presentation tool|5214|Go|2022-02-01|2021-05-05|
+|38|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5159|Python|2022-01-14|2021-08-30|
+|39|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|5101|TypeScript|2022-02-01|2021-03-13|
+|40|[armosec/kubescape](https://github.com/armosec/kubescape)|Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. |5064|Go|2022-01-31|2021-08-12|
+|41|[bee-san/pyWhat](https://github.com/bee-san/pyWhat)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|5012|Python|2021-12-11|2021-03-19|
+|42|[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)|Open-source low-code framework for building React-based web applications and internal tools 🚀|4927|JavaScript|2022-02-02|2021-03-30|
+|43|[seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract)|Zero-runtime Stylesheets-in-TypeScript|4894|TypeScript|2022-01-31|2021-03-26|
+|44|[dtm-labs/dtm](https://github.com/dtm-labs/dtm)|🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器|4571|Go|2022-02-02|2021-05-16|
+|45|[nuxt/framework](https://github.com/nuxt/framework)|The Hybrid Vue(3) Framework.|4413|TypeScript|2022-02-02|2021-03-17|
+|46|[o3de/o3de](https://github.com/o3de/o3de)|Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou ...|4325|C++|2022-02-02|2021-04-05|
+|47|[Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix)|Not the usual clone that you can find on the web.|4281|JavaScript|2022-01-31|2021-02-23|
+|48|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4278|Python|2022-02-02|2021-06-09|
+|49|[phoboslab/qoi](https://github.com/phoboslab/qoi)|The “Quite OK Image Format” for fast, lossless image compression|4260|C|2022-01-31|2021-11-24|
+|50|[nextui-org/nextui](https://github.com/nextui-org/nextui)|🚀   Beautiful, fast and modern React UI library.|4257|TypeScript|2022-02-02|2021-04-22|
+|51|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4202|C#|2022-02-02|2021-05-12|
+|52|[megaease/easegress](https://github.com/megaease/easegress)|A Cloud Native traffic orchestration system|4200|Go|2022-02-01|2021-05-28|
+|53|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4178|Dart|2022-01-18|2021-05-03|
+|54|[Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)|🎓 Um caminho para a educação autodidata em Ciência da Computação!|4127|-|2022-01-27|2021-06-27|
+|55|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|4105|Go|2022-02-02|2021-10-30|
+|56|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4093|C++|2022-01-31|2021-05-31|
+|57|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|4001|Java|2022-01-27|2021-11-29|
+|58|[openai/DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|3947|Python|2021-12-24|2021-02-23|
+|59|[kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)|Model parallel transformers in JAX and Haiku|3793|Python|2022-01-28|2021-03-13|
+|60|[charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)|Style definitions for nice terminal layouts 👄|3758|Go|2022-01-31|2021-03-01|
+|61|[seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)|Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.|3755|Swift|2022-01-14|2021-02-22|
+|62|[HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)|HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.|3735|JavaScript|2022-02-02|2021-09-13|
+|63|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |3687|Rust|2022-01-31|2021-05-30|
+|64|[rh12503/triangula](https://github.com/rh12503/triangula)|Generate high-quality triangulated and polygonal art from images.|3678|Go|2021-09-02|2021-04-02|
+|65|[cloudwego/kitex](https://github.com/cloudwego/kitex)|A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.|3673|Go|2022-01-30|2021-07-09|
+|66|[tkellogg/dura](https://github.com/tkellogg/dura)|You shouldn't ever lose your work if you're using Git|3638|Rust|2022-01-31|2021-12-31|
+|67|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3559|Python|2022-02-02|2021-10-07|
+|68|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3486|Python|2022-01-18|2021-05-18|
+|69|[facebookresearch/Kats](https://github.com/facebookresearch/Kats)|Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, ...|3451|Python|2022-02-02|2021-02-25|
+|70|[arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)|GUIA EXTENSO DE PROGRAMAÇÃO:|3450|-|2022-01-28|2021-10-15|
+|71|[thedevdojo/wave](https://github.com/thedevdojo/wave)|Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |3448|PHP|2022-01-05|2021-03-25|
+|72|[OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)|DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks. |3418|-|2022-01-26|2021-06-20|
+|73|[NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)|RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccin ...|3409|-|2021-12-14|2021-03-24|
+|74|[tokio-rs/axum](https://github.com/tokio-rs/axum)|Ergonomic and modular web framework built with Tokio, Tower, and Hyper|3385|Rust|2022-02-01|2021-05-30|
+|75|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3384|CSS|2022-01-31|2021-04-26|
+|76|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3352|Vue|2022-02-01|2021-10-02|
+|77|[openreplay/openreplay](https://github.com/openreplay/openreplay)|:tv: OpenReplay is developer-friendly, open-source session replay.|3349|JavaScript|2022-02-02|2021-04-29|
+|78|[wader/fq](https://github.com/wader/fq)|jq for binary formats|3308|Go|2022-02-02|2021-02-07|
 |79|[lihaoyun6/PD-Runner](https://github.com/lihaoyun6/PD-Runner)|A VM launcher for Parallels Desktop|3280|-|2022-01-18|2021-09-23|
-|80|[ddosify/ddosify](https://github.com/ddosify/ddosify)|High-performance load testing tool, written in Golang.|3274|Go|2022-01-31|2021-08-04|
-|81|[yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)|Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.|3256|TypeScript|2022-02-01|2021-10-08|
-|82|[BuilderIO/partytown](https://github.com/BuilderIO/partytown)|Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉|3226|TypeScript|2022-02-01|2021-08-20|
-|83|[containers/youki](https://github.com/containers/youki)|A container runtime written in Rust|3213|Rust|2022-02-01|2021-03-27|
-|84|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3196|Python|2022-01-27|2021-04-16|
+|80|[ddosify/ddosify](https://github.com/ddosify/ddosify)|High-performance load testing tool, written in Golang.|3276|Go|2022-01-31|2021-08-04|
+|81|[yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)|Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.|3263|TypeScript|2022-02-01|2021-10-08|
+|82|[BuilderIO/partytown](https://github.com/BuilderIO/partytown)|Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉|3236|TypeScript|2022-02-02|2021-08-20|
+|83|[containers/youki](https://github.com/containers/youki)|A container runtime written in Rust|3216|Rust|2022-02-01|2021-03-27|
+|84|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3198|Python|2022-01-27|2021-04-16|
 |85|[deepmind/mujoco](https://github.com/deepmind/mujoco)|Multi-Joint dynamics with Contact. A general purpose physics simulator.|3186|C|2022-01-31|2021-08-27|
-|86|[waydabber/BetterDummy](https://github.com/waydabber/BetterDummy)|Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.|3164|-|2022-01-31|2021-10-24|
-|87|[spotify/pedalboard](https://github.com/spotify/pedalboard)|🎛 🔊 A Python library for adding effects to audio.|3120|C++|2022-01-31|2021-07-06|
-|88|[jlongster/absurd-sql](https://github.com/jlongster/absurd-sql)|sqlite3 in ur indexeddb (hopefully a better backend soon)|3109|JavaScript|2021-10-24|2021-07-09|
-|89|[faker-js/faker](https://github.com/faker-js/faker)|Generate massive amounts of fake data in the browser and node.js|3105|TypeScript|2022-02-01|2022-01-07|
-|90|[notifirehq/notifire](https://github.com/notifirehq/notifire)|🚀 Open-source notification infrastructure for products|3085|TypeScript|2022-02-01|2021-08-26|
-|91|[flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)|a dialect of The Monkey Programming Language|3079|Rust|2021-12-05|2021-04-18|
-|92|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|3070|C|2022-01-31|2021-08-09|
-|93|[CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)|This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though ...|3067|Python|2021-08-31|2021-05-08|
-|94|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|3059|Jupyter Notebook|2021-12-21|2021-02-16|
-|95|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.|3027|Go|2022-01-30|2021-09-26|
-|96|[laravel/octane](https://github.com/laravel/octane)|Supercharge your Laravel application's performance.|3014|PHP|2022-01-25|2021-03-21|
-|97|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3013|C++|2022-01-09|2021-05-21|
-|98|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |3012|C|2022-01-30|2021-03-19|
-|99|[LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)|-|2998|-|2021-12-23|2021-07-17|
-|100|[antfu/unocss](https://github.com/antfu/unocss)|The instant on-demand atomic CSS engine.|2975|TypeScript|2022-01-31|2021-09-30|
+|86|[waydabber/BetterDummy](https://github.com/waydabber/BetterDummy)|Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.|3174|-|2022-02-02|2021-10-24|
+|87|[faker-js/faker](https://github.com/faker-js/faker)|Generate massive amounts of fake data in the browser and node.js|3151|TypeScript|2022-02-02|2022-01-07|
+|88|[spotify/pedalboard](https://github.com/spotify/pedalboard)|🎛 🔊 A Python library for adding effects to audio.|3122|C++|2022-01-31|2021-07-06|
+|89|[jlongster/absurd-sql](https://github.com/jlongster/absurd-sql)|sqlite3 in ur indexeddb (hopefully a better backend soon)|3109|JavaScript|2021-10-24|2021-07-09|
+|90|[notifirehq/notifire](https://github.com/notifirehq/notifire)|🚀 Open-source notification infrastructure for products|3087|TypeScript|2022-02-02|2021-08-26|
+|91|[valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)|This project aims to bring back a productive working environment on Windows 11|3085|C|2022-01-31|2021-08-09|
+|92|[flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)|a dialect of The Monkey Programming Language|3081|Rust|2021-12-05|2021-04-18|
+|93|[CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)|This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though ...|3073|Python|2021-08-31|2021-05-08|
+|94|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|3062|Jupyter Notebook|2021-12-21|2021-02-16|
+|95|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.|3047|Go|2022-01-30|2021-09-26|
+|96|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3014|C++|2022-01-09|2021-05-21|
+|97|[laravel/octane](https://github.com/laravel/octane)|Supercharge your Laravel application's performance.|3013|PHP|2022-01-25|2021-03-21|
+|98|[FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)|A GPS bicycle speedometer that supports offline maps and track recording |3013|C|2022-01-30|2021-03-19|
+|99|[LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)|-|3003|-|2021-12-23|2021-07-17|
+|100|[antfu/unocss](https://github.com/antfu/unocss)|The instant on-demand atomic CSS engine.|2980|TypeScript|2022-02-02|2021-09-30|
 |101|[google/lyra](https://github.com/google/lyra)|A Very Low-Bitrate Codec for Speech Compression|2960|C++|2021-12-10|2021-03-19|
-|102|[nuta/kerla](https://github.com/nuta/kerla)|A new operating system kernel with Linux binary compatibility written in Rust.|2931|Rust|2022-01-31|2021-05-18|
-|103|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|2904|Kotlin|2022-02-01|2021-04-19|
-|104|[Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash)|Cash system for AIR.|2901|Solidity|2022-01-25|2021-05-22|
-|105|[gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio)|A platform adaptive Flutter app for desktop, mobile and web.|2884|Dart|2022-02-01|2021-03-02|
-|106|[AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff)|A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.|2881|JavaScript|2022-01-16|2021-10-31|
-|107|[tonarino/innernet](https://github.com/tonarino/innernet)|A private network system that uses WireGuard under the hood.|2860|Rust|2022-02-01|2021-03-29|
-|108|[mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit)|Reverse Engineer's Toolkit|2848|Inno Setup|2022-01-26|2021-03-13|
-|109|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|2845|Python|2022-01-31|2022-01-06|
-|110|[six-ddc/plow](https://github.com/six-ddc/plow)|A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying|2833|Go|2022-01-31|2021-06-13|
-|111|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|2777|Python|2022-01-31|2021-02-05|
-|112|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|2768|Python|2022-02-01|2021-06-02|
-|113|[thx/gogocode](https://github.com/thx/gogocode)|GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.|2766|JavaScript|2022-01-13|2021-03-03|
-|114|[nolanlawson/fuite](https://github.com/nolanlawson/fuite)|A tool for finding memory leaks in web apps|2765|JavaScript|2022-01-16|2021-12-04|
-|115|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2761|C|2021-10-01|2021-02-28|
-|116|[badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)|Descomplicando o Docker, o livro.|2758|HTML|2022-01-09|2021-08-05|
-|117|[iVoider/PlayCover](https://github.com/iVoider/PlayCover)|PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)|2752|-|2022-01-11|2021-08-04|
+|102|[nuta/kerla](https://github.com/nuta/kerla)|A new operating system kernel with Linux binary compatibility written in Rust.|2931|Rust|2022-02-02|2021-05-18|
+|103|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|2910|Kotlin|2022-02-02|2021-04-19|
+|104|[Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash)|Cash system for AIR.|2902|Solidity|2022-01-25|2021-05-22|
+|105|[gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio)|A platform adaptive Flutter app for desktop, mobile and web.|2888|Dart|2022-02-01|2021-03-02|
+|106|[AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff)|A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.|2882|JavaScript|2022-01-16|2021-10-31|
+|107|[tonarino/innernet](https://github.com/tonarino/innernet)|A private network system that uses WireGuard under the hood.|2862|Rust|2022-02-02|2021-03-29|
+|108|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|2852|Python|2022-02-02|2022-01-06|
+|109|[mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit)|Reverse Engineer's Toolkit|2850|Inno Setup|2022-01-26|2021-03-13|
+|110|[six-ddc/plow](https://github.com/six-ddc/plow)|A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying|2839|Go|2022-01-31|2021-06-13|
+|111|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|2789|Python|2022-02-02|2021-06-02|
+|112|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|2778|Python|2022-01-31|2021-02-05|
+|113|[nolanlawson/fuite](https://github.com/nolanlawson/fuite)|A tool for finding memory leaks in web apps|2773|JavaScript|2022-01-16|2021-12-04|
+|114|[thx/gogocode](https://github.com/thx/gogocode)|GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.|2767|JavaScript|2022-01-13|2021-03-03|
+|115|[badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)|Descomplicando o Docker, o livro.|2760|HTML|2022-01-09|2021-08-05|
+|116|[iVoider/PlayCover](https://github.com/iVoider/PlayCover)|PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)|2760|-|2022-01-11|2021-08-04|
+|117|[tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC)|-|2760|C|2021-10-01|2021-02-28|
 |118|[zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project)|Recreating a fully functional version of iOS 4 in SwiftUI. |2732|Swift|2021-11-23|2021-06-09|
 |119|[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)|Raspberry Pi config for all things Internet.|2731|Jinja|2022-01-16|2021-04-04|
-|120|[vitest-dev/vitest](https://github.com/vitest-dev/vitest)|A Vite-native test framework. It's fast!|2707|TypeScript|2022-02-01|2021-12-03|
-|121|[alyssaxuu/omni](https://github.com/alyssaxuu/omni)|The all-in-one tool to supercharge your productivity ⌨️|2701|JavaScript|2022-01-29|2022-01-10|
-|122|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2681|Python|2022-01-02|2021-12-13|
-|123|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2649|Jupyter Notebook|2022-01-24|2021-08-30|
-|124|[arco-design/arco-design](https://github.com/arco-design/arco-design)|A comprehensive React UI components library based on Arco Design|2635|TypeScript|2022-01-28|2021-10-25|
-|125|[gravitl/netmaker](https://github.com/gravitl/netmaker)|Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.|2622|Go|2022-02-01|2021-03-25|
-|126|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2619|Jupyter Notebook|2021-09-25|2021-05-02|
-|127|[metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex)|Protocol and application framework for decentralized NFT minting, storefronts, and sales.|2614|TypeScript|2022-02-01|2021-06-02|
-|128|[microsoft/Power-Fx](https://github.com/microsoft/Power-Fx)|Power Fx low-code programming language|2614|C#|2022-02-01|2021-02-23|
-|129|[AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat)|Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!|2602|Batchfile|2022-01-22|2021-10-09|
-|130|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2578|HTML|2022-01-24|2021-06-11|
-|131|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2576|Jupyter Notebook|2021-11-16|2021-02-14|
+|120|[vitest-dev/vitest](https://github.com/vitest-dev/vitest)|A Vite-native test framework. It's fast!|2724|TypeScript|2022-02-02|2021-12-03|
+|121|[alyssaxuu/omni](https://github.com/alyssaxuu/omni)|The all-in-one tool to supercharge your productivity ⌨️|2717|JavaScript|2022-01-29|2022-01-10|
+|122|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2685|Python|2022-01-02|2021-12-13|
+|123|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2665|Jupyter Notebook|2021-09-25|2021-05-02|
+|124|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2652|Jupyter Notebook|2022-01-24|2021-08-30|
+|125|[arco-design/arco-design](https://github.com/arco-design/arco-design)|A comprehensive React UI components library based on Arco Design|2637|TypeScript|2022-01-28|2021-10-25|
+|126|[gravitl/netmaker](https://github.com/gravitl/netmaker)|Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.|2627|Go|2022-02-02|2021-03-25|
+|127|[metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex)|Protocol and application framework for decentralized NFT minting, storefronts, and sales.|2616|TypeScript|2022-02-02|2021-06-02|
+|128|[microsoft/Power-Fx](https://github.com/microsoft/Power-Fx)|Power Fx low-code programming language|2615|C#|2022-02-02|2021-02-23|
+|129|[AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat)|Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!|2609|Batchfile|2022-01-22|2021-10-09|
+|130|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2581|Jupyter Notebook|2021-11-16|2021-02-14|
+|131|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2579|HTML|2022-01-24|2021-06-11|
 |132|[ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)|🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.|2571|Python|2022-01-21|2021-04-06|
-|133|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|2539|Shell|2022-02-01|2021-06-09|
-|134|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|2532|Python|2022-01-11|2021-12-06|
-|135|[pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)|短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正|2532|Java|2022-02-01|2021-02-10|
-|136|[encoredev/encore](https://github.com/encoredev/encore)|The Backend Development Engine built for Go|2529|Go|2022-01-31|2021-02-17|
+|133|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|2548|Shell|2022-02-02|2021-06-09|
+|134|[pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)|短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正|2540|Java|2022-02-02|2021-02-10|
+|135|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|2538|Python|2022-01-11|2021-12-06|
+|136|[encoredev/encore](https://github.com/encoredev/encore)|The Backend Development Engine built for Go|2530|Go|2022-02-02|2021-02-17|
 |137|[dgiot/dgiot](https://github.com/dgiot/dgiot)|Open source platform for IoT,30 min Quick Deployment,10M-level device connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Zero code for Object model-Rule Engine-Data Channel-Configuratio ...|2523|Erlang|2022-01-26|2021-02-23|
-|138|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2515|Python|2022-01-10|2021-09-24|
-|139|[alyssaxuu/mapus](https://github.com/alyssaxuu/mapus)|A map tool with real-time collaboration 🗺️|2505|JavaScript|2021-12-04|2021-08-02|
-|140|[google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption)|Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.|2505|C++|2022-01-21|2021-05-05|
-|141|[phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)|-|2505|TypeScript|2022-01-04|2021-05-02|
+|138|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2517|Python|2022-01-10|2021-09-24|
+|139|[alyssaxuu/mapus](https://github.com/alyssaxuu/mapus)|A map tool with real-time collaboration 🗺️|2508|JavaScript|2021-12-04|2021-08-02|
+|140|[google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption)|Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.|2507|C++|2022-01-21|2021-05-05|
+|141|[phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)|-|2506|TypeScript|2022-01-04|2021-05-02|
 |142|[Renovamen/playground-macos](https://github.com/Renovamen/playground-macos)|My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.|2487|TypeScript|2022-01-30|2021-04-29|
-|143|[Shopify/hydrogen](https://github.com/Shopify/hydrogen)|React-based framework for building dynamic, Shopify-powered custom storefronts.|2480|TypeScript|2022-02-01|2021-11-04|
-|144|[octokatherine/readme.so](https://github.com/octokatherine/readme.so)|An online drag-and-drop editor to easily build READMEs|2478|JavaScript|2021-12-29|2021-04-08|
-|145|[mithi/react-philosophies](https://github.com/mithi/react-philosophies)|🧘  Things I think about when I write React code 🧘 |2474|-|2022-01-21|2021-09-25|
-|146|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2447|TypeScript|2022-02-01|2021-07-02|
+|143|[Shopify/hydrogen](https://github.com/Shopify/hydrogen)|React-based framework for building dynamic, Shopify-powered custom storefronts.|2484|TypeScript|2022-02-02|2021-11-04|
+|144|[octokatherine/readme.so](https://github.com/octokatherine/readme.so)|An online drag-and-drop editor to easily build READMEs|2484|JavaScript|2021-12-29|2021-04-08|
+|145|[mithi/react-philosophies](https://github.com/mithi/react-philosophies)|🧘  Things I think about when I write React code 🧘 |2476|-|2022-01-21|2021-09-25|
+|146|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2448|TypeScript|2022-02-01|2021-07-02|
 |147|[rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)|An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation|2440|Python|2021-11-24|2021-03-23|
 |148|[Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)|A Spotify downloader needing only a python interpreter and ffmpeg.|2437|Python|2021-12-19|2021-10-13|
-|149|[52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)|-|2414|-|2022-01-14|2021-03-03|
-|150|[cloudflare/miniflare](https://github.com/cloudflare/miniflare)|🔥 Fully-local simulator for Cloudflare Workers|2385|TypeScript|2022-01-27|2021-05-20|
-|151|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2375|Vim script|2022-01-15|2021-10-20|
-|152|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2370|Rust|2022-02-01|2021-12-14|
-|153|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2365|Python|2022-02-01|2021-07-28|
-|154|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|2365|Assembly|2022-01-27|2021-05-25|
-|155|[tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun)|Easily generate flowcharts and diagrams from text ⿻|2354|TypeScript|2022-02-01|2021-03-01|
-|156|[steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand)|Draw perfect pressure-sensitive freehand lines.|2351|HTML|2021-11-10|2021-02-19|
-|157|[pystardust/ytfzf](https://github.com/pystardust/ytfzf)|A posix script to find and watch youtube videos from the terminal. (Without API)|2344|Shell|2022-02-01|2021-02-19|
+|149|[52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)|-|2415|-|2022-01-14|2021-03-03|
+|150|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2397|Rust|2022-02-02|2021-12-14|
+|151|[cloudflare/miniflare](https://github.com/cloudflare/miniflare)|🔥 Fully-local simulator for Cloudflare Workers|2387|TypeScript|2022-01-27|2021-05-20|
+|152|[github/copilot.vim](https://github.com/github/copilot.vim)|Neovim plugin for GitHub Copilot|2376|Vim script|2022-01-15|2021-10-20|
+|153|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|2375|Assembly|2022-02-02|2021-05-25|
+|154|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2366|Python|2022-02-01|2021-07-28|
+|155|[tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun)|Easily generate flowcharts and diagrams from text ⿻|2355|TypeScript|2022-02-01|2021-03-01|
+|156|[steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand)|Draw perfect pressure-sensitive freehand lines.|2354|HTML|2021-11-10|2021-02-19|
+|157|[pystardust/ytfzf](https://github.com/pystardust/ytfzf)|A posix script to find and watch youtube videos from the terminal. (Without API)|2349|Shell|2022-02-02|2021-02-19|
 |158|[makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)|Official Notion JavaScript Client|2320|TypeScript|2022-01-25|2021-04-18|
-|159|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2314|C|2022-01-24|2021-05-22|
-|160|[Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)|This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups.|2310|-|2022-01-21|2021-09-18|
+|159|[madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter)|-|2315|C|2022-01-24|2021-05-22|
+|160|[Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)|This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups.|2311|-|2022-01-21|2021-09-18|
 |161|[blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)|Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.|2301|C#|2022-01-30|2021-02-26|
-|162|[cloudwego/netpoll](https://github.com/cloudwego/netpoll)|A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.|2299|Go|2022-01-29|2021-02-25|
+|162|[cloudwego/netpoll](https://github.com/cloudwego/netpoll)|A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.|2301|Go|2022-01-29|2021-02-25|
 |163|[banga/git-split-diffs](https://github.com/banga/git-split-diffs)|GitHub style split diffs in your terminal|2284|TypeScript|2021-11-05|2021-04-10|
-|164|[facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)|A deep learning library for video understanding research.|2246|Python|2022-01-31|2021-03-09|
-|165|[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)|Instant neural graphics primitives: lightning fast NeRF and more|2230|Cuda|2022-01-31|2022-01-05|
-|166|[cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine)|The <1 kb state machine hook for React|2193|TypeScript|2022-02-01|2021-03-12|
+|164|[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)|Instant neural graphics primitives: lightning fast NeRF and more|2264|Cuda|2022-02-02|2022-01-05|
+|165|[facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)|A deep learning library for video understanding research.|2247|Python|2022-01-31|2021-03-09|
+|166|[cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine)|The <1 kb state machine hook for React|2195|TypeScript|2022-02-01|2021-03-12|
 |167|[DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png)|Pack up to 3MB of data into a tweetable PNG polyglot file.|2192|Python|2021-08-11|2021-03-16|
-|168|[erda-project/erda](https://github.com/erda-project/erda)|An enterprise-grade Cloud-Native application platform for Kubernetes.|2178|Go|2022-01-30|2021-03-05|
-|169|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2158|C|2022-01-27|2021-05-25|
-|170|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2134|Rust|2021-10-23|2021-05-15|
-|171|[teslamotors/light-show](https://github.com/teslamotors/light-show)|Tesla Light Show|2132|Python|2022-01-07|2021-12-16|
-|172|[ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)|The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any ...|2128|JavaScript|2022-02-01|2021-10-14|
-|173|[KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS)|The Tiny JavaScript Game Engine That Can! 🚂|2127|JavaScript|2022-01-24|2021-09-23|
-|174|[StarRocks/starrocks](https://github.com/StarRocks/starrocks)|StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.|2116|C++|2022-02-01|2021-09-04|
-|175|[windowjs/windowjs](https://github.com/windowjs/windowjs)|Window.js is an open-source Javascript runtime for desktop graphics programming.|2103|JavaScript|2022-01-26|2021-11-30|
-|176|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|2101|Lua|2022-02-01|2021-06-29|
-|177|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|2094|Go|2022-02-01|2021-09-04|
-|178|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|2086|C|2022-01-31|2021-08-30|
-|179|[EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)|💡 Experimental real-time global illumination renderer 🦀|2086|Rust|2022-01-29|2021-03-26|
-|180|[mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)|📸 The Camera library that sees the vision.|2082|Swift|2022-01-31|2021-02-19|
-|181|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2078|Python|2022-01-27|2021-04-07|
-|182|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2072|JavaScript|2022-01-30|2021-06-24|
-|183|[YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface)|-|2071|-|2021-12-13|2021-12-10|
-|184|[kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)|Xplorer, a customizable, modern file manager|2054|TypeScript|2022-02-01|2021-04-23|
-|185|[apple/swift-collections](https://github.com/apple/swift-collections)|Commonly used data structures for Swift|2050|Swift|2022-01-18|2021-02-15|
-|186|[timc1/kbar](https://github.com/timc1/kbar)|fast, portable, and extensible cmd+k interface for your site|2040|TypeScript|2022-01-23|2021-09-01|
-|187|[elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)|elfshaker stores binary objects efficiently|2030|Rust|2022-01-28|2021-10-14|
-|188|[microsoft/NUWA](https://github.com/microsoft/NUWA)|A unified 3D Transformer Pipeline for visual synthesis|2024|-|2021-11-26|2021-11-03|
-|189|[Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)|High-performance React Native Graphics using Skia|2014|TypeScript|2022-02-01|2021-11-08|
-|190|[m3o/m3o](https://github.com/m3o/m3o)|Next Generation Cloud Platform|2005|Go|2022-02-01|2021-10-08|
-|191|[max-sixty/prql](https://github.com/max-sixty/prql)|PRQL is a modern language for transforming data — a simpler and more powerful SQL|2003|Rust|2022-02-01|2022-01-18|
-|192|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|2003|JavaScript|2022-01-28|2021-02-15|
-|193|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|1993|Shell|2021-12-15|2021-10-22|
-|194|[LingDong-/fishdraw](https://github.com/LingDong-/fishdraw)|procedurally generated fish drawings|1949|JavaScript|2021-09-08|2021-08-11|
-|195|[Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)|A Music Player App made with Flutter|1945|Dart|2022-01-30|2021-02-11|
-|196|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1940|Ruby|2022-01-26|2021-04-11|
-|197|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|1932|Lua|2022-02-01|2021-04-11|
-|198|[praetorian-inc/gokart](https://github.com/praetorian-inc/gokart)|A static analysis tool for securing Go code|1926|Go|2022-01-26|2021-08-16|
-|199|[vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)|Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS|1919|JavaScript|2021-12-31|2021-04-12|
-|200|[pyston/pyston](https://github.com/pyston/pyston)|A faster and highly-compatible implementation of the Python programming language.|1914|Python|2022-01-27|2021-03-01|
+|168|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|2179|Go|2022-02-01|2021-09-04|
+|169|[erda-project/erda](https://github.com/erda-project/erda)|An enterprise-grade Cloud-Native application platform for Kubernetes.|2178|Go|2022-01-30|2021-03-05|
+|170|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2159|C|2022-01-27|2021-05-25|
+|171|[ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)|The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any ...|2142|JavaScript|2022-02-02|2021-10-14|
+|172|[teslamotors/light-show](https://github.com/teslamotors/light-show)|Tesla Light Show|2139|Python|2022-01-07|2021-12-16|
+|173|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2136|Rust|2021-10-23|2021-05-15|
+|174|[KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS)|The Tiny JavaScript Game Engine That Can! 🚂|2129|JavaScript|2022-01-24|2021-09-23|
+|175|[StarRocks/starrocks](https://github.com/StarRocks/starrocks)|StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.|2117|C++|2022-02-02|2021-09-04|
+|176|[windowjs/windowjs](https://github.com/windowjs/windowjs)|Window.js is an open-source Javascript runtime for desktop graphics programming.|2108|JavaScript|2022-02-02|2021-11-30|
+|177|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|2104|Lua|2022-02-02|2021-06-29|
+|178|[mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)|📸 The Camera library that sees the vision.|2092|Swift|2022-02-02|2021-02-19|
+|179|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience.|2088|C|2022-01-31|2021-08-30|
+|180|[EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)|💡 Experimental real-time global illumination renderer 🦀|2088|Rust|2022-02-02|2021-03-26|
+|181|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2082|Python|2022-01-27|2021-04-07|
+|182|[ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)|Allows you easily scan for and delete scam comments using several methods.|2078|Python|2022-02-02|2021-10-27|
+|183|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2074|JavaScript|2022-01-30|2021-06-24|
+|184|[YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface)|-|2071|-|2021-12-13|2021-12-10|
+|185|[kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)|Xplorer, a customizable, modern file manager|2055|TypeScript|2022-02-02|2021-04-23|
+|186|[apple/swift-collections](https://github.com/apple/swift-collections)|Commonly used data structures for Swift|2050|Swift|2022-01-18|2021-02-15|
+|187|[microsoft/NUWA](https://github.com/microsoft/NUWA)|A unified 3D Transformer Pipeline for visual synthesis|2042|-|2021-11-26|2021-11-03|
+|188|[timc1/kbar](https://github.com/timc1/kbar)|fast, portable, and extensible cmd+k interface for your site|2041|TypeScript|2022-01-23|2021-09-01|
+|189|[elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)|elfshaker stores binary objects efficiently|2031|Rust|2022-01-28|2021-10-14|
+|190|[max-sixty/prql](https://github.com/max-sixty/prql)|PRQL is a modern language for transforming data — a simpler and more powerful SQL|2019|Rust|2022-02-01|2022-01-18|
+|191|[Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)|High-performance React Native Graphics using Skia|2014|TypeScript|2022-02-02|2021-11-08|
+|192|[m3o/m3o](https://github.com/m3o/m3o)|Next Generation Cloud Platform|2009|Go|2022-02-01|2021-10-08|
+|193|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|2007|JavaScript|2022-01-28|2021-02-15|
+|194|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|1998|Shell|2021-12-15|2021-10-22|
+|195|[Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)|A Music Player App made with Flutter|1952|Dart|2022-02-02|2021-02-11|
+|196|[LingDong-/fishdraw](https://github.com/LingDong-/fishdraw)|procedurally generated fish drawings|1948|JavaScript|2021-09-08|2021-08-11|
+|197|[flxzt/rnote](https://github.com/flxzt/rnote)|A simple drawing application to create handwritten notes.|1948|Rust|2022-02-02|2021-08-05|
+|198|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|1942|Ruby|2022-01-26|2021-04-11|
+|199|[cshum/imagor](https://github.com/cshum/imagor)|Fast, Docker-ready image processing server written in Go|1940|Go|2022-02-02|2021-05-15|
+|200|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|1935|Lua|2022-02-02|2021-04-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
