@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|119|2022-01-27|2021-08-21|
 |4|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|113|2022-02-01|2021-12-09|
 |5|[ufukefe/DFM](https://github.com/ufukefe/DFM)|Python (Pytorch) and Matlab (MatConvNet) implementations of CVPR 2021 Image Matching Workshop paper DFM: A Performance Baseline for Deep Feature Matching|84|2021-11-21|2021-04-10|
-|6|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|77|2021-12-01|2021-10-17|
+|6|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|78|2021-12-01|2021-10-17|
 |7|[ylochman/babelcalib](https://github.com/ylochman/babelcalib)|BabelCalib: A Universal Approach to Calibrating Central Cameras. In ICCV (2021)|41|2021-10-31|2021-09-21|
 |8|[dutchconnectomelab/Simple-Brain-Plot](https://github.com/dutchconnectomelab/Simple-Brain-Plot)|brainPlot is a MATLAB function to create simple line-art brain plots.|41|2021-09-09|2021-06-16|
 |9|[MIT-SPARK/STRIDE](https://github.com/MIT-SPARK/STRIDE)|Solver for Large-Scale Rank-One Semidefinite Relaxations|36|2021-11-10|2021-09-08|
@@ -25,16 +25,16 @@
 |18|[hassiweb/otfs-chan-est-and-eq](https://github.com/hassiweb/otfs-chan-est-and-eq)|Simulation codes for "Channel Estimation and Equalization for CP-OFDM-based OTFS in Fractional Doppler Channels"|20|2021-08-11|2021-02-26|
 |19|[gfxdisp/FovVideoVDP](https://github.com/gfxdisp/FovVideoVDP)|FovVideoVDP: A visible difference predictor for wide field-of-view video|18|2022-01-24|2021-04-16|
 |20|[mathworks/Quadcopter-Drone-Model-Simscape](https://github.com/mathworks/Quadcopter-Drone-Model-Simscape)|Quadcopter with multibody, electrical and thermal models follows a path to deliver a package.|17|2021-12-01|2021-10-14|
-|21|[WhitesPhD/ECOM025_2020](https://github.com/WhitesPhD/ECOM025_2020)|Financial Econometrics module (MSc level)|16|2021-09-23|2021-09-23|
-|22|[matlab-deep-learning/Industrial-Machinery-Anomaly-Detection](https://github.com/matlab-deep-learning/Industrial-Machinery-Anomaly-Detection)|Extract features and detect anomalies in industrial machinery vibration data using a biLSTM autoencoder|16|2021-09-30|2021-04-20|
-|23|[weijun88/SANet](https://github.com/weijun88/SANet)|Codes for MICCAI2021 paper "Shallow Attention Network for Polyp Segmentation"|15|2021-12-29|2021-06-18|
-|24|[Firmament-Autopilot/FMT-Model](https://github.com/Firmament-Autopilot/FMT-Model)|FMT Autopilot Model Framework|14|2022-01-02|2021-09-02|
-|25|[EMANG-KAUST/C-SCSA](https://github.com/EMANG-KAUST/C-SCSA)|-|14|2021-08-19|2021-05-05|
-|26|[chadagreene/BedMachine](https://github.com/chadagreene/BedMachine)|Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.|14|2021-08-09|2021-04-10|
-|27|[llorz/SGA21_roofOptimization](https://github.com/llorz/SGA21_roofOptimization)|code for the paper "Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis"|13|2021-12-21|2021-07-16|
-|28|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|-|13|2021-11-12|2021-07-07|
-|29|[matlab-deep-learning/pretrained-spatial-CNN](https://github.com/matlab-deep-learning/pretrained-spatial-CNN)|Spatial-CNN for lane detection in MATLAB.|13|2021-09-23|2021-05-06|
-|30|[cvnlab/GLMsingle](https://github.com/cvnlab/GLMsingle)|A toolbox for accurate single-trial estimates in fMRI time-series data|13|2022-01-26|2021-05-05|
+|21|[cvnlab/GLMsingle](https://github.com/cvnlab/GLMsingle)|A toolbox for accurate single-trial estimates in fMRI time-series data|17|2022-01-26|2021-05-05|
+|22|[WhitesPhD/ECOM025_2020](https://github.com/WhitesPhD/ECOM025_2020)|Financial Econometrics module (MSc level)|16|2021-09-23|2021-09-23|
+|23|[matlab-deep-learning/Industrial-Machinery-Anomaly-Detection](https://github.com/matlab-deep-learning/Industrial-Machinery-Anomaly-Detection)|Extract features and detect anomalies in industrial machinery vibration data using a biLSTM autoencoder|16|2021-09-30|2021-04-20|
+|24|[weijun88/SANet](https://github.com/weijun88/SANet)|Codes for MICCAI2021 paper "Shallow Attention Network for Polyp Segmentation"|15|2021-12-29|2021-06-18|
+|25|[Firmament-Autopilot/FMT-Model](https://github.com/Firmament-Autopilot/FMT-Model)|FMT Autopilot Model Framework|14|2022-01-02|2021-09-02|
+|26|[EMANG-KAUST/C-SCSA](https://github.com/EMANG-KAUST/C-SCSA)|-|14|2021-08-19|2021-05-05|
+|27|[chadagreene/BedMachine](https://github.com/chadagreene/BedMachine)|Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.|14|2021-08-09|2021-04-10|
+|28|[llorz/SGA21_roofOptimization](https://github.com/llorz/SGA21_roofOptimization)|code for the paper "Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis"|13|2021-12-21|2021-07-16|
+|29|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|-|13|2021-11-12|2021-07-07|
+|30|[matlab-deep-learning/pretrained-spatial-CNN](https://github.com/matlab-deep-learning/pretrained-spatial-CNN)|Spatial-CNN for lane detection in MATLAB.|13|2021-09-23|2021-05-06|
 |31|[mmikaitis/anymatrix](https://github.com/mmikaitis/anymatrix)|A MATLAB matrix collection with an interface to organize matrices|13|2022-01-10|2021-03-30|
 |32|[FuSiry/Spectral-preprocessing-algorithm](https://github.com/FuSiry/Spectral-preprocessing-algorithm)|Common preprocessing such as sg, msc, SNV, first-order derivative, second-order derivative, etc.|12|2021-12-28|2021-11-08|
 |33|[ivam-he/BernNet](https://github.com/ivam-he/BernNet)|PyTorch implementation of "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation"|12|2021-11-01|2021-10-26|
@@ -99,12 +99,12 @@
 |92|[yangfanyfyf/GA-VRPTW](https://github.com/yangfanyfyf/GA-VRPTW)|A Genetic Algorithm for Vehicle Routing Problem with Time Windows|8|2021-08-15|2021-06-30|
 |93|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
 |94|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-01-25|2021-05-28|
-|95|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-02-01|2021-04-17|
+|95|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-02-03|2021-04-17|
 |96|[roslovets/Live-Script-to-Markdown-Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)|Easily convert MATLAB live scripts to markdown files|8|2021-12-22|2021-03-28|
-|97|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-01-30|2021-02-22|
+|97|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-02-03|2021-02-22|
 |98|[mid2SUPAERO/EMTO](https://github.com/mid2SUPAERO/EMTO)|Efficient Multiscale Topology Optimization|8|2021-09-28|2021-02-17|
 |99|[trinhudo/Multi-RIS](https://github.com/trinhudo/Multi-RIS)|Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis|8|2022-01-17|2021-02-09|
-|100|[yundumbledore/whole-brain-imaging](https://github.com/yundumbledore/whole-brain-imaging)|-|7|2022-01-22|2022-01-20|
+|100|[yundumbledore/whole-brain-imaging](https://github.com/yundumbledore/whole-brain-imaging)|-|7|2022-02-03|2022-01-20|
 |101|[OrstedRD/TurbOPark](https://github.com/OrstedRD/TurbOPark)|A Turbulence Optimized Park model|7|2022-01-12|2022-01-05|
 |102|[Tingliangstu/PPR-Phonon-Participation-Ratio](https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio)|Calculation of phonon participation rates - used to characterize atomic vibrational information including the degree of localization and delocalization.|7|2022-01-05|2022-01-05|
 |103|[Patr1ckL1/AAE4006](https://github.com/Patr1ckL1/AAE4006)|This is the GitHub repository for the subject AAE4006|7|2022-01-19|2021-12-16|
@@ -174,37 +174,37 @@
 |167|[jonathandroth/LinearMomentInequalities](https://github.com/jonathandroth/LinearMomentInequalities)|-|5|2021-11-05|2021-11-04|
 |168|[jacopocarra/IAMS](https://github.com/jacopocarra/IAMS)|Introduction to space mission project|5|2022-01-02|2021-10-14|
 |169|[Technician13/MinimumSnap](https://github.com/Technician13/MinimumSnap)|Trajectory Generation with MinimumSnap|5|2021-11-10|2021-10-03|
-|170|[StrathAIS-Rocketry/Spaceport-Cup](https://github.com/StrathAIS-Rocketry/Spaceport-Cup)|-|5|2022-01-31|2021-09-30|
+|170|[StrathAIS-Rocketry/Spaceport-Cup](https://github.com/StrathAIS-Rocketry/Spaceport-Cup)|-|5|2022-02-03|2021-09-30|
 |171|[shivangraikar/Applied-Machine-learning](https://github.com/shivangraikar/Applied-Machine-learning)|Applied machine learning assignments CS background.|5|2022-02-01|2021-09-27|
 |172|[zhiguo-ding/NOMA-MEC](https://github.com/zhiguo-ding/NOMA-MEC)|A general framework for NOMA-MEC offloading|5|2021-09-17|2021-09-17|
 |173|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|5|2021-09-14|2021-09-14|
 |174|[YangSONG-SLAM/RIEKF_objectSLAM](https://github.com/YangSONG-SLAM/RIEKF_objectSLAM)|-|5|2021-09-14|2021-09-09|
-|175|[xiaohuiben/CEEF-TMM-2021](https://github.com/xiaohuiben/CEEF-TMM-2021)|This is the Matlab code of paper "Joint Contrast Enhancement and Exposure Fusionfor Real-World Image Dehazing, IEEE TMM,2021"|5|2021-09-08|2021-09-07|
-|176|[dong-hao/occam1dmt](https://github.com/dong-hao/occam1dmt)|Toy Occam inversion code for 1D MT (Magnetotellurics) method in Matlab|5|2021-09-06|2021-09-06|
-|177|[Ys-Jia/Q-Six_axis-Robotic_Arm](https://github.com/Ys-Jia/Q-Six_axis-Robotic_Arm)|Path Planning with Autonomous Obstacle Avoidance Using Reinforcement Learning for Six-axis Arms|5|2021-09-06|2021-09-04|
-|178|[theComputeKid/ehl-point-stationary](https://github.com/theComputeKid/ehl-point-stationary)|Elastohydrodynamic Lubrication Point Contact Solver for MATLAB|5|2022-01-06|2021-09-03|
-|179|[wpao1729/Trajectory_Optimization](https://github.com/wpao1729/Trajectory_Optimization)|-|5|2021-11-14|2021-09-03|
-|180|[HauLiang/FFT-DFISTA-and-FFT-DADMM](https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM)|High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map|5|2021-12-30|2021-09-02|
-|181|[nlutkenhaus/openQKDsecurity](https://github.com/nlutkenhaus/openQKDsecurity)|Numerical evaluation of secret key rates for QKD protocols|5|2021-09-03|2021-09-02|
-|182|[acse-srm3018/NFRpredictionSVM](https://github.com/acse-srm3018/NFRpredictionSVM)|-|5|2021-09-27|2021-09-01|
-|183|[dadaoqiuzhi/RMD_Digging](https://github.com/dadaoqiuzhi/RMD_Digging)|RMD_digging is aimed to provide pre-processing and post-processing tools for the reactive molecular dynamics (ReaxFF) simulations based on MATLAB language, including formatting the reactive force fiel ...|5|2021-10-18|2021-08-21|
-|184|[weiweisong415/Demo_DHCNN_for_TGRS2021](https://github.com/weiweisong415/Demo_DHCNN_for_TGRS2021)|A novel deep hashing method (DHCNN) for remote sensing image retrieval and classification, which was pulished in IEEE Trans. Geosci. Remote Sens., 2021.|5|2021-08-23|2021-08-21|
-|185|[KudryashevLab/TomoBEAR](https://github.com/KudryashevLab/TomoBEAR)|TomoBEAR is an automated, configurable and customizable full processing pipeline for tomographic cryo electron microscopy data and subtomogram averaging|5|2022-02-01|2021-08-13|
-|186|[hankyang94/DAMP](https://github.com/hankyang94/DAMP)|DAMP: Dynamical Pose Estimation|5|2021-08-11|2021-08-11|
-|187|[zephyrhours/Box-Plot-or-Statistical-Separability-Analysis-figure](https://github.com/zephyrhours/Box-Plot-or-Statistical-Separability-Analysis-figure)|This is a demo program for Box-plot figure or statistical separability analysis figure, which can be used for hyperspectral target detection,  anomaly detetion or change detection and so on.|5|2021-08-13|2021-08-11|
-|188|[sjgershm/Hierarchical-groups](https://github.com/sjgershm/Hierarchical-groups)|Hierarchical groups model|5|2021-08-10|2021-08-10|
-|189|[ZYunfeii/KITTI-velodyne-viewer-matlab](https://github.com/ZYunfeii/KITTI-velodyne-viewer-matlab)|KITTI point cloud viewer with 3D Box realized by Matlab. At the same time, I realize the point-cloud car detection by DL. You just need to click the mouse once then the results got.|5|2021-08-14|2021-08-08|
-|190|[optsuite/SSNLP](https://github.com/optsuite/SSNLP)|a semi-smooth Newton method for LP|5|2021-08-05|2021-08-05|
-|191|[Kuborgc6/Inzynierka](https://github.com/Kuborgc6/Inzynierka)|-|5|2022-01-02|2021-07-29|
-|192|[LuisMontejo/CUMBIA](https://github.com/LuisMontejo/CUMBIA)|CUMBIA - a set matlab/octave codes for the analysis of reinforced concrete members|5|2021-10-13|2021-07-26|
-|193|[SILI1994/Generalized-Shuffled-Linear-Regression](https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression)|Source code of generalized shuffled linear regression|5|2021-10-29|2021-07-26|
-|194|[gonzafernan/self-balancing-lqg](https://github.com/gonzafernan/self-balancing-lqg)|Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody|5|2021-11-25|2021-07-22|
-|195|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2022-01-25|2021-07-19|
-|196|[ricbl/eyetracking](https://github.com/ricbl/eyetracking)|This code was used to collect, process, and validate the REFLACX (Reports and Eye-Tracking Data for Localization of Abnormalities in Chest X-rays) dataset|5|2021-10-04|2021-07-14|
-|197|[TolisChal/portfolio_scoring](https://github.com/TolisChal/portfolio_scoring)|-|5|2021-09-10|2021-07-10|
-|198|[ANDREWNGT/FORMFLYT](https://github.com/ANDREWNGT/FORMFLYT)|:earth_asia: :satellite: :earth_asia: :satellite: FORMFLYT - High fidelity orbit propagation for formation flying control in MATLAB!|5|2022-01-25|2021-07-09|
-|199|[Mspmarvi/T-spline-Lab](https://github.com/Mspmarvi/T-spline-Lab)|T-Spline surface constructor|5|2021-08-27|2021-07-03|
-|200|[xuangu-fang/Bayesian-streaming-sparse-tucker](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)|code of Bayesian streaming sparse tucker decomposition for UAI 2021|5|2021-08-17|2021-06-24|
+|175|[dong-hao/occam1dmt](https://github.com/dong-hao/occam1dmt)|Toy Occam inversion code for 1D MT (Magnetotellurics) method in Matlab|5|2021-09-06|2021-09-06|
+|176|[Ys-Jia/Q-Six_axis-Robotic_Arm](https://github.com/Ys-Jia/Q-Six_axis-Robotic_Arm)|Path Planning with Autonomous Obstacle Avoidance Using Reinforcement Learning for Six-axis Arms|5|2021-09-06|2021-09-04|
+|177|[theComputeKid/ehl-point-stationary](https://github.com/theComputeKid/ehl-point-stationary)|Elastohydrodynamic Lubrication Point Contact Solver for MATLAB|5|2022-01-06|2021-09-03|
+|178|[wpao1729/Trajectory_Optimization](https://github.com/wpao1729/Trajectory_Optimization)|-|5|2021-11-14|2021-09-03|
+|179|[HauLiang/FFT-DFISTA-and-FFT-DADMM](https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM)|High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map|5|2021-12-30|2021-09-02|
+|180|[nlutkenhaus/openQKDsecurity](https://github.com/nlutkenhaus/openQKDsecurity)|Numerical evaluation of secret key rates for QKD protocols|5|2021-09-03|2021-09-02|
+|181|[acse-srm3018/NFRpredictionSVM](https://github.com/acse-srm3018/NFRpredictionSVM)|-|5|2021-09-27|2021-09-01|
+|182|[dadaoqiuzhi/RMD_Digging](https://github.com/dadaoqiuzhi/RMD_Digging)|RMD_digging is aimed to provide pre-processing and post-processing tools for the reactive molecular dynamics (ReaxFF) simulations based on MATLAB language, including formatting the reactive force fiel ...|5|2021-10-18|2021-08-21|
+|183|[weiweisong415/Demo_DHCNN_for_TGRS2021](https://github.com/weiweisong415/Demo_DHCNN_for_TGRS2021)|A novel deep hashing method (DHCNN) for remote sensing image retrieval and classification, which was pulished in IEEE Trans. Geosci. Remote Sens., 2021.|5|2021-08-23|2021-08-21|
+|184|[KudryashevLab/TomoBEAR](https://github.com/KudryashevLab/TomoBEAR)|TomoBEAR is an automated, configurable and customizable full processing pipeline for tomographic cryo electron microscopy data and subtomogram averaging|5|2022-02-03|2021-08-13|
+|185|[hankyang94/DAMP](https://github.com/hankyang94/DAMP)|DAMP: Dynamical Pose Estimation|5|2021-08-11|2021-08-11|
+|186|[zephyrhours/Box-Plot-or-Statistical-Separability-Analysis-figure](https://github.com/zephyrhours/Box-Plot-or-Statistical-Separability-Analysis-figure)|This is a demo program for Box-plot figure or statistical separability analysis figure, which can be used for hyperspectral target detection,  anomaly detetion or change detection and so on.|5|2021-08-13|2021-08-11|
+|187|[sjgershm/Hierarchical-groups](https://github.com/sjgershm/Hierarchical-groups)|Hierarchical groups model|5|2021-08-10|2021-08-10|
+|188|[ZYunfeii/KITTI-velodyne-viewer-matlab](https://github.com/ZYunfeii/KITTI-velodyne-viewer-matlab)|KITTI point cloud viewer with 3D Box realized by Matlab. At the same time, I realize the point-cloud car detection by DL. You just need to click the mouse once then the results got.|5|2021-08-14|2021-08-08|
+|189|[optsuite/SSNLP](https://github.com/optsuite/SSNLP)|a semi-smooth Newton method for LP|5|2021-08-05|2021-08-05|
+|190|[Kuborgc6/Inzynierka](https://github.com/Kuborgc6/Inzynierka)|-|5|2022-01-02|2021-07-29|
+|191|[LuisMontejo/CUMBIA](https://github.com/LuisMontejo/CUMBIA)|CUMBIA - a set matlab/octave codes for the analysis of reinforced concrete members|5|2021-10-13|2021-07-26|
+|192|[SILI1994/Generalized-Shuffled-Linear-Regression](https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression)|Source code of generalized shuffled linear regression|5|2021-10-29|2021-07-26|
+|193|[gonzafernan/self-balancing-lqg](https://github.com/gonzafernan/self-balancing-lqg)|Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody|5|2021-11-25|2021-07-22|
+|194|[Marksman007577/Autonomous-Drive](https://github.com/Marksman007577/Autonomous-Drive)|Autonomous Vehicle modelling using MATLAB and Simulink|5|2022-01-25|2021-07-19|
+|195|[ricbl/eyetracking](https://github.com/ricbl/eyetracking)|This code was used to collect, process, and validate the REFLACX (Reports and Eye-Tracking Data for Localization of Abnormalities in Chest X-rays) dataset|5|2021-10-04|2021-07-14|
+|196|[TolisChal/portfolio_scoring](https://github.com/TolisChal/portfolio_scoring)|-|5|2021-09-10|2021-07-10|
+|197|[ANDREWNGT/FORMFLYT](https://github.com/ANDREWNGT/FORMFLYT)|:earth_asia: :satellite: :earth_asia: :satellite: FORMFLYT - High fidelity orbit propagation for formation flying control in MATLAB!|5|2022-01-25|2021-07-09|
+|198|[Mspmarvi/T-spline-Lab](https://github.com/Mspmarvi/T-spline-Lab)|T-Spline surface constructor|5|2021-08-27|2021-07-03|
+|199|[xuangu-fang/Bayesian-streaming-sparse-tucker](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)|code of Bayesian streaming sparse tucker decomposition for UAI 2021|5|2021-08-17|2021-06-24|
+|200|[eac-ufsm/i3da-2021](https://github.com/eac-ufsm/i3da-2021)|Repository with support files for the I3DA paper|5|2021-11-26|2021-06-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
