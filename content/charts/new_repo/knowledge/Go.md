@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Go
-<sub>Updated: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|2606|2022-02-04|2021-12-26|
+|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|2611|2022-02-05|2021-12-26|
 |2|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1458|2022-01-04|2021-07-15|
-|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|711|2022-01-31|2021-12-04|
-|4|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|673|2022-02-01|2021-04-13|
+|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|710|2022-01-31|2021-12-04|
+|4|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|672|2022-02-01|2021-04-13|
 |5|[spatial-go/geoos](https://github.com/spatial-go/geoos)|A library provides spatial data and geometric algorithms|507|2022-01-28|2021-03-23|
-|6|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...|365|2021-12-24|2021-04-27|
+|6|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...|366|2021-12-24|2021-04-27|
 |7|[moabukar/Everything-Tech](https://github.com/moabukar/Everything-Tech)|A collection of online resources to help you on your Tech journey.|361|2022-01-27|2021-10-26|
-|8|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|349|2021-12-22|2021-12-15|
+|8|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|350|2021-12-22|2021-12-15|
 |9|[MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example)|Go microservice tutorial project using Domain Driven Design and Onion Architecture!|344|2022-02-04|2021-02-14|
 |10|[zeromicro/zero-examples](https://github.com/zeromicro/zero-examples)|go-zero examples|212|2022-02-04|2021-02-08|
-|11|[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)|Collection of mini-programs demonstrating Kubernetes client-go usage.|193|2022-02-01|2021-12-25|
+|11|[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)|Collection of mini-programs demonstrating Kubernetes client-go usage.|194|2022-02-01|2021-12-25|
 |12|[sci-hub-p2p/sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p)|fetch and serve papers in p2p network|175|2021-08-18|2021-07-11|
 |13|[youngzhu/algs4-go](https://github.com/youngzhu/algs4-go)|Algorithms, 4th Edition, Go version|163|2022-01-26|2021-09-07|
-|14|[sigstore/sigstore](https://github.com/sigstore/sigstore)|Common go library shared across sigstore services and clients|155|2022-02-04|2021-02-13|
-|15|[Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go)|Minimal working examples of Go's unique features. |153|2022-01-23|2021-12-18|
+|14|[Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go)|Minimal working examples of Go's unique features. |156|2022-01-23|2021-12-18|
+|15|[sigstore/sigstore](https://github.com/sigstore/sigstore)|Common go library shared across sigstore services and clients|155|2022-02-05|2021-02-13|
 |16|[signedsecurity/sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r)|A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.|143|2021-09-03|2021-05-13|
 |17|[hakluke/haklistgen](https://github.com/hakluke/haklistgen)|Turns any junk text into a usable wordlist for brute-forcing.|132|2021-09-29|2021-08-07|
 |18|[x-team/community-coding-challenges](https://github.com/x-team/community-coding-challenges)|A repository for the X-Team community to collaborate and learn solutions to most coding challenges to help prepare for their interviews.|115|2021-11-14|2021-08-06|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -71,18 +71,17 @@
 |64|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|2021-11-16|2021-06-15|
 |65|[MouraWM/HIL-platform-fixed-wing-autopilot](https://github.com/MouraWM/HIL-platform-fixed-wing-autopilot)|HIL platform for fixed wing autopilot – A tutorial|3|2021-11-04|2021-06-09|
 |66|[robotology/online-detection-demo](https://github.com/robotology/online-detection-demo)|Fast object detection learning with CNN and kernel based architecture|3|2021-12-09|2021-06-03|
-|67|[liuhen11/matlabProj](https://github.com/liuhen11/matlabProj)|a matlab projects about my work and learning.|3|2021-08-06|2021-05-15|
-|68|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-21|2021-02-21|
-|69|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|2021-10-22|2021-10-21|
-|70|[xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion](https://github.com/xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion)|Graph learning, fusion of similarity matrices, clustering|2|2021-08-26|2021-08-26|
-|71|[hantyou/Distributed-Learning-and-Cooperative-Control](https://github.com/hantyou/Distributed-Learning-and-Cooperative-Control)|Codes reproducing paper Jongeun Choi, Songhwai Oh, Roberto Horowitz, Distributed learning and cooperative control for multi-agent systems, Automatica, Volume 45, Issue 12, 2009|2|2021-09-14|2021-08-24|
-|72|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
-|73|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
-|74|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|2|2021-11-19|2021-07-27|
-|75|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
-|76|[zceydas/ProbabilisticRewardLearning](https://github.com/zceydas/ProbabilisticRewardLearning)|Probabilistic Reward Learning task for Matlab - Psychtoolbox|2|2021-08-10|2021-06-28|
-|77|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
-|78|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
+|67|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-21|2021-02-21|
+|68|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|2021-10-22|2021-10-21|
+|69|[xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion](https://github.com/xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion)|Graph learning, fusion of similarity matrices, clustering|2|2021-08-26|2021-08-26|
+|70|[hantyou/Distributed-Learning-and-Cooperative-Control](https://github.com/hantyou/Distributed-Learning-and-Cooperative-Control)|Codes reproducing paper Jongeun Choi, Songhwai Oh, Roberto Horowitz, Distributed learning and cooperative control for multi-agent systems, Automatica, Volume 45, Issue 12, 2009|2|2021-09-14|2021-08-24|
+|71|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
+|72|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
+|73|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|2|2021-11-19|2021-07-27|
+|74|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
+|75|[zceydas/ProbabilisticRewardLearning](https://github.com/zceydas/ProbabilisticRewardLearning)|Probabilistic Reward Learning task for Matlab - Psychtoolbox|2|2021-08-10|2021-06-28|
+|76|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
+|77|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

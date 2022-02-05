@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5457|3|2021-12-19|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5458|3|2021-12-19|
 |2|[AaronJackson/vrn](https://github.com/AaronJackson/vrn)|:man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"|4398|3|2021-09-07|
-|3|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|113|2|2022-02-01|
+|3|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|114|2|2022-02-01|
 |4|[mathworks/Mars-Rover-Terrain-Simscape](https://github.com/mathworks/Mars-Rover-Terrain-Simscape)|Six-wheeled electrically-driven rover that navigates uneven terrain to retrieve a sample.|8|1|2022-01-25|
 |5|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|-|30|1|2022-01-14|
 |6|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|78|1|2021-12-01|
@@ -51,7 +51,7 @@
 |44|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2022-01-31|
 |45|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2|11|0|2022-02-04|
 |46|[BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces](https://github.com/BrokenBunny/Energy-Efficient-Wireless-Communications-with-Distributed-Reconfigurable-Intelligent-Surfaces)|-|5|0|2021-09-14|
-|47|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1180|0|2021-12-04|
+|47|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1181|0|2021-12-04|
 |48|[GCVGroup/ACSCNN](https://github.com/GCVGroup/ACSCNN)|pytorch implementation for  ACSCNN|5|0|2021-10-12|
 |49|[nsprljan/ImageCodingResearchTools](https://github.com/nsprljan/ImageCodingResearchTools)|-|42|0|2021-11-10|
 |50|[chaimi2013/3R](https://github.com/chaimi2013/3R)|Nighttime Dehazing with a Synthetic Benchmark (ACM MM 2020)|33|0|2021-10-20|
@@ -63,7 +63,7 @@
 |56|[strawpants/GRACE-filter](https://github.com/strawpants/GRACE-filter)|Contains software for filtering (destriping) GRACE Stokes coefficients|10|0|2021-11-05|
 |57|[Ainray/matlablib](https://github.com/Ainray/matlablib)|-|4|0|2021-10-05|
 |58|[JustusvLiebig/Inferential_Sensor_Experiment](https://github.com/JustusvLiebig/Inferential_Sensor_Experiment)|Soft Sensor with Variational Inference Technique|5|0|2021-09-28|
-|59|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|3|0|2021-10-26|
+|59|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|4|0|2021-10-26|
 |60|[ZhangTianhao1993/Spatial-Normalization-of-Brain-PET-Images](https://github.com/ZhangTianhao1993/Spatial-Normalization-of-Brain-PET-Images)|A Toolbox of Spatial Normalization of Brain PET Images|2|0|2021-12-01|
 |61|[corwin365/MatlabFunctions](https://github.com/corwin365/MatlabFunctions)|My main Matlab function path|2|0|2021-12-05|
 |62|[YangSONG-SLAM/RIEKF_objectSLAM](https://github.com/YangSONG-SLAM/RIEKF_objectSLAM)|-|5|0|2021-09-14|
@@ -158,7 +158,7 @@
 |151|[fdcl-gwu/Matrix-Fisher-Gaussian](https://github.com/fdcl-gwu/Matrix-Fisher-Gaussian)|Distribution and filtering on SO(3) x Euclidean space|7|0|2021-11-02|
 |152|[nejci/Pepelka](https://github.com/nejci/Pepelka)|Pepelka is a MATLAB toolbox for data clustering and visualization.|3|0|2021-09-14|
 |153|[cvnlab/nsddatapaper](https://github.com/cvnlab/nsddatapaper)|Code related to the Natural Scenes Dataset data paper|10|0|2021-10-20|
-|154|[emilbjornson/SPM_RIS](https://github.com/emilbjornson/SPM_RIS)|Simulation code for “Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications” by Emil Björnson, Henk Wymeersch, Bho Matthiesen, Petar Popovski, Luca Sanguinetti ...|6|0|2022-01-10|
+|154|[emilbjornson/SPM_RIS](https://github.com/emilbjornson/SPM_RIS)|Simulation code for “Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications” by Emil Björnson, Henk Wymeersch, Bho Matthiesen, Petar Popovski, Luca Sanguinetti ...|7|0|2022-01-10|
 |155|[AoxiangFan/RANSAC_ToolKit_MATLAB](https://github.com/AoxiangFan/RANSAC_ToolKit_MATLAB)|A MATLAB toolkit of classic RANSAC methods for fundamental matrix and homography estimation, including optional local optimization and degeneracy upadting component.|3|0|2021-10-15|
 |156|[xjysb/GTML_E](https://github.com/xjysb/GTML_E)|Gas Turbine Modeling Library for Education|10|0|2021-09-07|
 |157|[konkall/k-means_denoising](https://github.com/konkall/k-means_denoising)|This slightly modified k-means algorithm was written in Matlab as part of my thesis: "Denoising Hyperspectral Images by using Clustering Techniques with Point Representatives".|3|0|2021-09-09|
