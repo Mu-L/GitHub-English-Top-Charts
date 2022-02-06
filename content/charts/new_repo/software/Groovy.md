@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2022-01-19|2021-05-19|
-|3|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|11|2021-11-09|2021-10-03|
+|3|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|12|2021-11-09|2021-10-03|
 |4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|10|2022-01-27|2021-09-30|
 |5|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
 |6|[aepfli/gradle-gitlab-repositories](https://github.com/aepfli/gradle-gitlab-repositories)|Handling Maven GitLab dependencies made easy. Define multiple tokens and selectively apply them to repositories, remove the need for repeating Credential handling blocks for different environments.|9|2022-02-03|2021-02-07|
@@ -18,18 +18,18 @@
 |11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2022-01-04|2021-03-12|
 |12|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
 |13|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|5|2021-09-04|2021-09-04|
-|14|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
-|15|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
-|16|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
-|17|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|4|2022-01-15|2021-12-03|
-|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
-|19|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|4|2021-09-05|2021-08-28|
+|14|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
+|15|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
+|16|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
+|17|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
+|18|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|4|2022-01-15|2021-12-03|
+|19|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2021-11-19|2021-10-05|
 |20|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
 |21|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
 |22|[mvevitsis/sonoff](https://github.com/mvevitsis/sonoff)|-|4|2021-10-23|2021-02-10|
 |23|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |24|[Theo-Nejm/grails-bandevents-crud](https://github.com/Theo-Nejm/grails-bandevents-crud)|-|3|2021-08-29|2021-08-25|
-|25|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-01-16|2021-07-27|
+|25|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
 |26|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
 |27|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
 |28|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
