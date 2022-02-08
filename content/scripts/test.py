@@ -1,2 +1,4 @@
 # To be continued...
-print('Hello, World!')
+
+def test():
+	pass
