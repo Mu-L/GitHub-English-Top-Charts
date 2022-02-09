@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,8 +12,8 @@
 |5|[gabriel-dehan/dyson-sphere-blueprints](https://github.com/gabriel-dehan/dyson-sphere-blueprints)|A community website to share dyson sphere program blueprints|21|2022-02-03|2021-03-16|
 |6|[kfischer-okarin/roguelike-tutorial-2021](https://github.com/kfischer-okarin/roguelike-tutorial-2021)|Game made during the "RoguelikeDev Does The Complete Roguelike Tutorial 2021" event|20|2021-11-11|2021-07-22|
 |7|[mubix/local-hibp](https://github.com/mubix/local-hibp)|How to set up a local copy of Have-I-Been-Pwned's password checking service|19|2021-08-19|2021-08-19|
-|8|[espoo-dev/espoo-dev](https://github.com/espoo-dev/espoo-dev)|A learning platform similar to duolingo and customizable by teacher|15|2022-02-08|2021-02-12|
-|9|[codereport/7L7W-2022](https://github.com/codereport/7L7W-2022)|Repository for material related to the Programming Languages Virtual Meetup coverage of the Seven Languages in Seven Weeks book.|12|2022-02-08|2022-01-04|
+|8|[espoo-dev/espoo-dev](https://github.com/espoo-dev/espoo-dev)|A learning platform similar to duolingo and customizable by teacher|16|2022-02-08|2021-02-12|
+|9|[codereport/7L7W-2022](https://github.com/codereport/7L7W-2022)|Repository for material related to the Programming Languages Virtual Meetup coverage of the Seven Languages in Seven Weeks book.|12|2022-02-09|2022-01-04|
 |10|[Laylo309/OOP-school-library](https://github.com/Laylo309/OOP-school-library)|Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.|12|2021-11-26|2021-11-15|
 |11|[dorahacksglobal/Hackathon-Playbook](https://github.com/dorahacksglobal/Hackathon-Playbook)|An open source hackathon playbook for hackathon organizers.|12|2022-02-03|2021-10-29|
 |12|[pmatsinopoulos/my_books](https://github.com/pmatsinopoulos/my_books)|List of my books. Free and not-Free|12|2022-01-14|2021-08-29|
