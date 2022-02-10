@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|650|2021-11-02|2021-10-19|
-|2|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|590|2022-02-09|2021-07-19|
+|2|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|592|2022-02-10|2021-07-19|
 |3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|585|2022-02-09|2021-04-09|
-|4|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|282|2022-01-24|2021-10-24|
+|4|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|282|2022-02-09|2021-10-24|
 |5|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|207|2022-02-02|2021-03-19|
 |6|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|130|2021-11-07|2021-11-07|
 |7|[recherst/kavsoft-swiftui-animations](https://github.com/recherst/kavsoft-swiftui-animations)|SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft. 🔗 https://kavsoft.dev|93|2021-10-14|2021-06-24|
-|8|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|86|2021-10-04|2021-10-04|
-|9|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|73|2022-02-08|2021-07-13|
+|8|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|87|2021-10-04|2021-10-04|
+|9|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|74|2022-02-08|2021-07-13|
 |10|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|57|2021-09-17|2021-06-06|
 |11|[hmlongco/Builder](https://github.com/hmlongco/Builder)|Demonstrates builder patterns for UI and networking.|57|2022-01-24|2021-02-20|
 |12|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|55|2021-10-17|2021-05-03|
@@ -26,7 +26,7 @@
 |19|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|25|2021-12-15|2021-10-07|
 |20|[SmithZachary/SwiftInterviewProblems](https://github.com/SmithZachary/SwiftInterviewProblems)|Swift Interview Problems in Playground|23|2021-12-03|2021-11-18|
 |21|[rodydavis/lit-native](https://github.com/rodydavis/lit-native)|Example of how to embed a Lit web component into native platforms.|23|2021-09-21|2021-06-17|
-|22|[jrasmusson/ios-professional-course](https://github.com/jrasmusson/ios-professional-course)|Course for iOS Professionals|22|2022-02-08|2021-09-19|
+|22|[jrasmusson/ios-professional-course](https://github.com/jrasmusson/ios-professional-course)|Course for iOS Professionals|22|2022-02-10|2021-09-19|
 |23|[readium/swift-toolkit](https://github.com/readium/swift-toolkit)|A toolkit for ebooks, audiobooks and comics written in Swift|20|2022-02-09|2021-11-02|
 |24|[john-rocky/SemanticImage](https://github.com/john-rocky/SemanticImage)|A collection of easy-to-use image/video filter.|18|2022-01-06|2021-12-21|
 |25|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|18|2021-12-21|2021-09-01|
@@ -35,16 +35,16 @@
 |28|[heinzl/swift-composable-navigation](https://github.com/heinzl/swift-composable-navigation)|Models UI navigation patterns using TCA|16|2021-12-22|2021-06-05|
 |29|[peterfriese/Swift-Firestore-Guide](https://github.com/peterfriese/Swift-Firestore-Guide)|The Comprehensive Guide to using Cloud Firestore in Swift|15|2022-02-04|2021-03-16|
 |30|[asahiocean/swift-algorithms](https://github.com/asahiocean/swift-algorithms)|Algorithms and data structures|15|2021-12-03|2021-03-16|
-|31|[vgmoose/The-Notch](https://github.com/vgmoose/The-Notch)|Add a software notch to your outdated Macbook! Deceive strangers!|13|2021-10-25|2021-10-24|
-|32|[SwiftPackageIndex/ReleaseNotes](https://github.com/SwiftPackageIndex/ReleaseNotes)|A Swift script to create a list of links to release notes for package updates.|12|2022-02-08|2022-01-17|
-|33|[cliss/installed-simulators](https://github.com/cliss/installed-simulators)|Command line utility to create a list of installed iOS simulators, for use with SwiftUI previews.|12|2022-01-19|2022-01-05|
-|34|[reddavis/Panel](https://github.com/reddavis/Panel)|A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.|12|2022-02-05|2021-09-09|
-|35|[SwiftFMI/iOS_2021_2022](https://github.com/SwiftFMI/iOS_2021_2022)|iOS Course at FMI - Sofia University|11|2022-02-08|2021-10-07|
-|36|[YoonAh-dev/Software-Design-Pattern](https://github.com/YoonAh-dev/Software-Design-Pattern)|Study design patterns & architectural patterns|11|2021-12-30|2021-04-29|
-|37|[mavideniz/100DaysOfSwiftUI](https://github.com/mavideniz/100DaysOfSwiftUI)|I created this repo to follow my own 100 day SwiftUI challenge and share it with other people. 🚀|9|2021-09-27|2021-06-22|
-|38|[Rogue24/JPDesignCode](https://github.com/Rogue24/JPDesignCode)|The SwiftUI learning project.|8|2021-11-06|2021-11-03|
-|39|[meltonlogan615/iOS-Developer-Checklist](https://github.com/meltonlogan615/iOS-Developer-Checklist)|Roadmap for Learning iOS Development|8|2021-11-22|2021-09-19|
-|40|[ryanlintott/FrameUp](https://github.com/ryanlintott/FrameUp)|Reframing SwiftUI Views. A collection of tools to help with layout.|8|2022-01-31|2021-09-14|
+|31|[ryanlintott/FrameUp](https://github.com/ryanlintott/FrameUp)|Reframing SwiftUI Views. A collection of tools to help with layout.|14|2022-02-10|2021-09-14|
+|32|[vgmoose/The-Notch](https://github.com/vgmoose/The-Notch)|Add a software notch to your outdated Macbook! Deceive strangers!|13|2021-10-25|2021-10-24|
+|33|[SwiftPackageIndex/ReleaseNotes](https://github.com/SwiftPackageIndex/ReleaseNotes)|A Swift script to create a list of links to release notes for package updates.|12|2022-02-08|2022-01-17|
+|34|[cliss/installed-simulators](https://github.com/cliss/installed-simulators)|Command line utility to create a list of installed iOS simulators, for use with SwiftUI previews.|12|2022-01-19|2022-01-05|
+|35|[reddavis/Panel](https://github.com/reddavis/Panel)|A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.|12|2022-02-05|2021-09-09|
+|36|[SwiftFMI/iOS_2021_2022](https://github.com/SwiftFMI/iOS_2021_2022)|iOS Course at FMI - Sofia University|11|2022-02-08|2021-10-07|
+|37|[YoonAh-dev/Software-Design-Pattern](https://github.com/YoonAh-dev/Software-Design-Pattern)|Study design patterns & architectural patterns|11|2021-12-30|2021-04-29|
+|38|[mavideniz/100DaysOfSwiftUI](https://github.com/mavideniz/100DaysOfSwiftUI)|I created this repo to follow my own 100 day SwiftUI challenge and share it with other people. 🚀|9|2021-09-27|2021-06-22|
+|39|[Rogue24/JPDesignCode](https://github.com/Rogue24/JPDesignCode)|The SwiftUI learning project.|8|2021-11-06|2021-11-03|
+|40|[meltonlogan615/iOS-Developer-Checklist](https://github.com/meltonlogan615/iOS-Developer-Checklist)|Roadmap for Learning iOS Development|8|2021-11-22|2021-09-19|
 |41|[asahiocean/algoexpert](https://github.com/asahiocean/algoexpert)|AlgoExpert is an online platform that helps software engineers to prepare for coding and technical interviews.|8|2021-12-03|2021-04-16|
 |42|[Teaching-Develop-in-Swift/Labs](https://github.com/Teaching-Develop-in-Swift/Labs)|The Xcode playground labs from the Develop in Swift Fundamentals and Data Collections books.|7|2021-11-13|2021-10-28|
 |43|[cookpad/swift-user-defaults](https://github.com/cookpad/swift-user-defaults)|A series of Swift friendly utilities for Foundation's UserDefaults class.|7|2022-01-17|2021-10-27|

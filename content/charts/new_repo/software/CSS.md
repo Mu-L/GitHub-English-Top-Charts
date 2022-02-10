@@ -1,108 +1,108 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > CSS
-<sub>Updated: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3398|2022-02-08|2021-04-26|
-|2|[elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset)|The New Simple and Lighter CSS Reset|1080|2022-02-04|2021-04-28|
-|3|[lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)|LunaSec - Open Source Security Software built by Security Engineers. Scan your dependencies for Log4Shell, or add Data Tokenization to prevent data leaks. Try our live Tokenizer demo: https://app.luna ...|825|2022-02-08|2021-03-16|
-|4|[bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa)|Responsive Portfolio Website Using HTML, CSS & JavaScript|734|2021-10-29|2021-05-11|
+|1|[black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)|🦊 I respect proton UI and aim to improve it.|3399|2022-02-10|2021-04-26|
+|2|[elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset)|The New Simple and Lighter CSS Reset|1081|2022-02-04|2021-04-28|
+|3|[lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)|LunaSec - Open Source Security Software built by Security Engineers. Scan your dependencies for Log4Shell, or add Data Tokenization to prevent data leaks. Try our live Tokenizer demo: https://app.luna ...|825|2022-02-10|2021-03-16|
+|4|[bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa)|Responsive Portfolio Website Using HTML, CSS & JavaScript|737|2021-10-29|2021-05-11|
 |5|[ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting)|A repository for voting systems using Choice Coin. |685|2022-02-06|2021-07-21|
-|6|[mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive)|The Google Drive/OneDrive/etc alternative using Telegram API|614|2022-02-09|2021-08-27|
-|7|[chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)|An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.|299|2022-01-04|2021-04-27|
+|6|[mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive)|The Google Drive/OneDrive/etc alternative using Telegram API|617|2022-02-09|2021-08-27|
+|7|[chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)|An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.|300|2022-01-04|2021-04-27|
 |8|[PwnFunction/Blank-Rick-Roll](https://github.com/PwnFunction/Blank-Rick-Roll)|Rick Roll website that has hidden code.|293|2022-01-22|2021-06-04|
-|9|[jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)|Custom CSS theme for doxygen html-documentation with lots of customization parameters.|287|2022-02-06|2021-03-16|
-|10|[bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone)|Hulu webpage clone|286|2021-11-01|2021-07-14|
+|9|[bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone)|Hulu webpage clone|287|2021-11-01|2021-07-14|
+|10|[jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)|Custom CSS theme for doxygen html-documentation with lots of customization parameters.|287|2022-02-06|2021-03-16|
 |11|[andreasgrafen/cascade](https://github.com/andreasgrafen/cascade)|Firefox custom CSS based on Simplefox|281|2022-02-03|2021-06-10|
-|12|[calcom/font](https://github.com/calcom/font)|The home for our Cal Sans font.|246|2021-12-23|2021-11-01|
+|12|[calcom/font](https://github.com/calcom/font)|The home for our Cal Sans font.|247|2021-12-23|2021-11-01|
 |13|[teteusAraujo/portfolio](https://github.com/teteusAraujo/portfolio)|👨‍💻 Meu portfólio criado com o objetivo de mostrar os meus projetos criados e também o meu currículo .|237|2021-10-20|2021-06-24|
-|14|[Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io)|The website of Libera Chat, providing documentation and news|227|2022-02-09|2021-04-24|
+|14|[Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io)|The website of Libera Chat, providing documentation and news|227|2022-02-10|2021-04-24|
 |15|[walkxhub/homer-theme](https://github.com/walkxhub/homer-theme)|A custom Homer theme!|217|2022-02-03|2021-10-16|
 |16|[vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme)|Graphite gtk theme|217|2022-02-04|2021-09-17|
 |17|[wrrwrr111/pretty-derby](https://github.com/wrrwrr111/pretty-derby)|-|204|2022-02-08|2021-03-05|
-|18|[chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian)|Alfred Workflow for various enhancements of Obsidian.|200|2022-02-08|2021-08-22|
-|19|[codeAdrian/modern-fluid-typography-editor](https://github.com/codeAdrian/modern-fluid-typography-editor)|Modern fluid typography editor|199|2021-12-09|2021-12-06|
+|18|[chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian)|Alfred Workflow for various enhancements of Obsidian.|201|2022-02-08|2021-08-22|
+|19|[codeAdrian/modern-fluid-typography-editor](https://github.com/codeAdrian/modern-fluid-typography-editor)|Modern fluid typography editor|200|2021-12-09|2021-12-06|
 |20|[ConsenSys-Academy/Blockchain-Developer-Bootcamp](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)|Open-source version of ConsenSys Academy's Blockchain Developer Bootcamp|194|2022-02-02|2021-03-09|
 |21|[pengx17/logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme)|</> Logseq dev theme|192|2022-01-18|2021-06-14|
 |22|[PAIR-code/knowyourdata](https://github.com/PAIR-code/knowyourdata)|A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues.|185|2021-09-16|2021-05-11|
-|23|[nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell)|Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor|176|2022-02-09|2021-05-09|
+|23|[nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell)|Installer for the nwg-shell project: a GTK3-based shell for sway Wayland compositor|178|2022-02-10|2021-05-09|
 |24|[paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client)|A skilled virtual assistant for Obsidian.|171|2022-01-16|2021-03-07|
 |25|[werew/inverno](https://github.com/werew/inverno)|An easy-to-use investment portfolio tracker|164|2021-09-06|2021-04-03|
 |26|[BlobBackup/Blobbackup](https://github.com/BlobBackup/Blobbackup)|Private, Secure Computer Backups|164|2022-02-02|2021-02-12|
 |27|[fusion-hq/fusion](https://github.com/fusion-hq/fusion)|🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨|155|2022-01-09|2021-09-08|
 |28|[colineckert/obsidian-things](https://github.com/colineckert/obsidian-things)|An Obsidian theme inspired by the beautifully-designed app, Things. |151|2022-01-16|2021-10-26|
 |29|[yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions)|Вопросы для подготовки к интервью на позицию Python Developer|147|2022-02-02|2021-03-26|
-|30|[Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)|-|145|2021-12-27|2021-12-26|
-|31|[EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme)|:snowflake: A dark theme for firefox theme created using the awesome Nord color palette.|142|2022-01-10|2021-12-24|
+|30|[Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)|-|144|2022-02-10|2021-12-26|
+|31|[EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme)|:snowflake: A dark theme for firefox theme created using the awesome Nord color palette.|144|2022-01-10|2021-12-24|
 |32|[ilham25/dotfiles-openbox](https://github.com/ilham25/dotfiles-openbox)|Here is my aether dotfiles openbox version|142|2022-01-02|2021-10-17|
-|33|[Guezone/SECMON](https://github.com/Guezone/SECMON)|SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.|141|2022-02-07|2021-04-21|
-|34|[vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)|Colloid gtk theme for linux|139|2022-02-08|2021-12-09|
+|33|[vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)|Colloid gtk theme for linux|141|2022-02-08|2021-12-09|
+|34|[Guezone/SECMON](https://github.com/Guezone/SECMON)|SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.|141|2022-02-07|2021-04-21|
 |35|[lusaxweb/iconsax](https://github.com/lusaxweb/iconsax)|vuesax - icons|138|2021-10-14|2021-07-01|
 |36|[bedimcode/responsive-portfolio-website-Ansel](https://github.com/bedimcode/responsive-portfolio-website-Ansel)|Create a Responsive Personal Portfolio Website Using HTML CSS &  JavaScript|137|2022-02-09|2022-01-22|
 |37|[SnakeOilXY/SnakeOil-XY](https://github.com/SnakeOilXY/SnakeOil-XY)|Stable hi-speed, small size fully-featured affordable CoreXY 3D printer. Inspired by HevORT, Voron, Annex Engineering and EVA2 design.|136|2022-02-06|2021-06-07|
-|38|[lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3)|The theme from libadwaita ported to GTK-3|133|2022-02-09|2021-12-27|
+|38|[lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3)|The theme from libadwaita ported to GTK-3|135|2022-02-09|2021-12-27|
 |39|[DhiWise/dhiwise-nodejs](https://github.com/DhiWise/dhiwise-nodejs)|DhiWise Node.js API generator allows you to instantly generate secure REST APIs. Just supply your database schema to DhiWise, and a fully documented API will be ready for consumption in a few simple c ...|133|2021-12-14|2021-11-15|
 |40|[abhijithb200/investigator](https://github.com/abhijithb200/investigator)|An online handy-recon tool|129|2021-09-23|2021-07-30|
-|41|[P0cL4bs/Nanobrok](https://github.com/P0cL4bs/Nanobrok)|Web Service write in Python for control and protect your android device remotely. |124|2022-01-06|2021-07-15|
-|42|[christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension)|Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo|123|2021-10-20|2021-09-19|
-|43|[rafaballerini/LandingPage](https://github.com/rafaballerini/LandingPage)|-|122|2021-12-30|2021-11-29|
+|41|[rafaballerini/LandingPage](https://github.com/rafaballerini/LandingPage)|-|126|2021-12-30|2021-11-29|
+|42|[P0cL4bs/Nanobrok](https://github.com/P0cL4bs/Nanobrok)|Web Service write in Python for control and protect your android device remotely. |124|2022-01-06|2021-07-15|
+|43|[christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension)|Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo|123|2021-10-20|2021-09-19|
 |44|[andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme)|Native looking macOS theme for note taking app Joplin|121|2022-01-08|2021-04-13|
-|45|[CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic)|The final form, the true evolution of the chromic theme saga!|117|2022-02-04|2021-05-15|
-|46|[BootstrapDash/star-admin2-free-admin-template](https://github.com/BootstrapDash/star-admin2-free-admin-template)|Star-Admin-2- Free-Bootstrap-Admin-Template|115|2021-12-10|2021-07-15|
-|47|[yumata/lampa](https://github.com/yumata/lampa)|-|111|2022-02-07|2021-09-27|
+|45|[CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic)|The final form, the true evolution of the chromic theme saga!|119|2022-02-04|2021-05-15|
+|46|[BootstrapDash/star-admin2-free-admin-template](https://github.com/BootstrapDash/star-admin2-free-admin-template)|Star-Admin-2- Free-Bootstrap-Admin-Template|116|2021-12-10|2021-07-15|
+|47|[yumata/lampa](https://github.com/yumata/lampa)|-|111|2022-02-10|2021-09-27|
 |48|[Rodrigo-Souza-DEV/Card-Yugioh-3D](https://github.com/Rodrigo-Souza-DEV/Card-Yugioh-3D)|-|109|2021-09-01|2021-08-27|
 |49|[williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent)|Spicetify theme inspired by Microsoft's Fluent Design|109|2021-12-27|2021-08-13|
 |50|[talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course)|Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.|103|2022-01-25|2021-09-17|
 |51|[lucasmoy-dev/Curso-de-React](https://github.com/lucasmoy-dev/Curso-de-React)|-|103|2021-09-13|2021-09-03|
 |52|[GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)|原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer   A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!|102|2022-02-01|2021-03-05|
 |53|[Viglino/font-gis](https://github.com/Viglino/font-gis)|Icon font and SVG for use with GIS and spatial analysis tools|100|2021-11-24|2021-04-22|
-|54|[Divyanshi29/Central-Library](https://github.com/Divyanshi29/Central-Library)|-|99|2021-08-29|2021-05-03|
-|55|[NYRI4/Comfy-spicetify](https://github.com/NYRI4/Comfy-spicetify)|Stay comfy while listening to music|98|2022-01-23|2021-11-02|
-|56|[Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)|GT theme to revert Discord's 2021 rebrand.|97|2022-01-26|2021-05-10|
-|57|[ElzeroWebSchool/HTML_And_CSS_Template_Three](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Three)|-|95|2022-01-21|2021-10-13|
-|58|[koiosdev/Tokyo-Night-Linux](https://github.com/koiosdev/Tokyo-Night-Linux)|Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme|95|2021-09-26|2021-07-13|
+|54|[NYRI4/Comfy-spicetify](https://github.com/NYRI4/Comfy-spicetify)|Stay comfy while listening to music|99|2022-01-23|2021-11-02|
+|55|[Divyanshi29/Central-Library](https://github.com/Divyanshi29/Central-Library)|-|99|2021-08-29|2021-05-03|
+|56|[koiosdev/Tokyo-Night-Linux](https://github.com/koiosdev/Tokyo-Night-Linux)|Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme|97|2021-09-26|2021-07-13|
+|57|[Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)|GT theme to revert Discord's 2021 rebrand.|97|2022-01-26|2021-05-10|
+|58|[ElzeroWebSchool/HTML_And_CSS_Template_Three](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Three)|-|95|2022-01-21|2021-10-13|
 |59|[dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode)|A Compact Mode for Firefox Proton|95|2021-12-11|2021-05-22|
 |60|[mike-paper/pulse](https://github.com/mike-paper/pulse)|Open source SaaS metrics (built by Paper)|91|2021-08-24|2021-08-07|
 |61|[app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard)|Soft UI Dashboard - Open-source Django Dashboard   AppSeed|90|2022-01-29|2021-05-12|
-|62|[Apurva-tech/unite](https://github.com/Apurva-tech/unite)|Video Conferencing Application|89|2022-01-21|2021-07-12|
-|63|[logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples)|Logseq plugin samples for beginner 🌱|89|2022-01-13|2021-04-19|
+|62|[logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples)|Logseq plugin samples for beginner 🌱|89|2022-01-13|2021-04-19|
+|63|[Apurva-tech/unite](https://github.com/Apurva-tech/unite)|Video Conferencing Application|88|2022-01-21|2021-07-12|
 |64|[pr701/dp701](https://github.com/pr701/dp701)|Dark theme for IDA Pro|88|2021-09-23|2021-07-08|
 |65|[luizcarlosfaria/RabbitMQ-Walkthrough-v1](https://github.com/luizcarlosfaria/RabbitMQ-Walkthrough-v1)|RabbitMQ - Demonstração de Comportamento|87|2021-12-05|2021-06-27|
 |66|[bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox)|A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.|87|2022-01-25|2021-03-13|
 |67|[vendorsec/mvsp](https://github.com/vendorsec/mvsp)|Minimum Viable Secure Product mvsp.dev|85|2021-12-10|2021-10-20|
 |68|[tayfunerbilen/react-tailwind-spotify-clone](https://github.com/tayfunerbilen/react-tailwind-spotify-clone)|Youtube'da birlikte hazırladığımız spotify clone'u kaynak kodları|83|2021-10-31|2021-09-24|
-|69|[mingw-w64/mingw-w64.github.io](https://github.com/mingw-w64/mingw-w64.github.io)|mingw-w64.net web page contents (The new web page)|81|2021-12-18|2021-07-09|
-|70|[jonhoo/rust-for-rustaceans.com](https://github.com/jonhoo/rust-for-rustaceans.com)|Source for https://rust-for-rustaceans.com/|80|2022-02-05|2021-12-22|
-|71|[Sirneij/carrotsuite-admin-ui](https://github.com/Sirneij/carrotsuite-admin-ui)|Implementation of Carrotsuite's UI in pure HTML5, CSS3 and JavaScript|80|2021-12-06|2021-09-29|
-|72|[njelich/LinkOff](https://github.com/njelich/LinkOff)|Cleans the LinkedIn feed based on keywords and filters.|79|2021-12-17|2021-04-07|
-|73|[schnensch0/zelk](https://github.com/schnensch0/zelk)|discord theme inspired by zorin|78|2022-01-22|2021-04-27|
-|74|[catppuccin/gtk](https://github.com/catppuccin/gtk)|GTK theme for catppuccin. Warm dark theme for the masses!|77|2022-02-02|2021-12-19|
-|75|[tayfunerbilen/getir.com-react-tailwind](https://github.com/tayfunerbilen/getir.com-react-tailwind)|Getir.com anasayfa react + tailwind front-end|77|2021-09-01|2021-08-27|
-|76|[mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties)|My shitty dotfiles. It ain't much, but it's honest work|77|2022-02-01|2021-06-17|
-|77|[phrz/lg-washer-dryer-card](https://github.com/phrz/lg-washer-dryer-card)|Lovelace cards for use with the Home Assistant LG ThinQ Integration|77|2021-11-24|2021-03-26|
-|78|[indicozy/wmtm](https://github.com/indicozy/wmtm)|WM-agnostic Theme Manager written in Bash, preconfigured for SwayWM|76|2022-01-29|2021-04-24|
+|69|[schnensch0/zelk](https://github.com/schnensch0/zelk)|discord theme inspired by zorin|82|2022-01-22|2021-04-27|
+|70|[mingw-w64/mingw-w64.github.io](https://github.com/mingw-w64/mingw-w64.github.io)|mingw-w64.net web page contents (The new web page)|81|2021-12-18|2021-07-09|
+|71|[jonhoo/rust-for-rustaceans.com](https://github.com/jonhoo/rust-for-rustaceans.com)|Source for https://rust-for-rustaceans.com/|80|2022-02-05|2021-12-22|
+|72|[Sirneij/carrotsuite-admin-ui](https://github.com/Sirneij/carrotsuite-admin-ui)|Implementation of Carrotsuite's UI in pure HTML5, CSS3 and JavaScript|80|2021-12-06|2021-09-29|
+|73|[njelich/LinkOff](https://github.com/njelich/LinkOff)|Cleans the LinkedIn feed based on keywords and filters.|79|2021-12-17|2021-04-07|
+|74|[mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties)|My shitty dotfiles. It ain't much, but it's honest work|78|2022-02-01|2021-06-17|
+|75|[catppuccin/gtk](https://github.com/catppuccin/gtk)|GTK theme for catppuccin. Warm dark theme for the masses!|77|2022-02-02|2021-12-19|
+|76|[tayfunerbilen/getir.com-react-tailwind](https://github.com/tayfunerbilen/getir.com-react-tailwind)|Getir.com anasayfa react + tailwind front-end|77|2021-09-01|2021-08-27|
+|77|[indicozy/wmtm](https://github.com/indicozy/wmtm)|WM-agnostic Theme Manager written in Bash, preconfigured for SwayWM|77|2022-01-29|2021-04-24|
+|78|[phrz/lg-washer-dryer-card](https://github.com/phrz/lg-washer-dryer-card)|Lovelace cards for use with the Home Assistant LG ThinQ Integration|77|2021-11-24|2021-03-26|
 |79|[ElzeroWebSchool/HTML_And_CSS_Template_One](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One)|HTML And CSS Template One|76|2021-12-12|2021-03-31|
-|80|[dunovank/jupyterlab_darkside_ui](https://github.com/dunovank/jupyterlab_darkside_ui)|Darkside ui and syntax theme for jupyterlab|75|2022-01-06|2021-04-22|
-|81|[George-debug/obsidian-timeline](https://github.com/George-debug/obsidian-timeline)|Obisdian.md plugin for creating timelines |74|2022-02-09|2021-07-08|
+|80|[George-debug/obsidian-timeline](https://github.com/George-debug/obsidian-timeline)|Obisdian.md plugin for creating timelines |75|2022-02-09|2021-07-08|
+|81|[dunovank/jupyterlab_darkside_ui](https://github.com/dunovank/jupyterlab_darkside_ui)|Darkside ui and syntax theme for jupyterlab|75|2022-01-06|2021-04-22|
 |82|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|73|2022-01-31|2021-09-16|
 |83|[Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io)|A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!|73|2021-12-13|2021-07-30|
 |84|[JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme)|A theme for Spicetify with support for light/dark modes and album art based colors.|73|2022-01-23|2021-05-13|
 |85|[ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs)|Vertical tabs for Firefox, inspired by Edge.|72|2022-01-15|2021-07-01|
-|86|[AaNingNing/Sth-Matters](https://github.com/AaNingNing/Sth-Matters)|Notes|70|2022-02-04|2021-08-16|
-|87|[secure-77/Perlite](https://github.com/secure-77/Perlite)|A webbased markdown viewer optimized for Obsidian|69|2022-01-12|2021-05-29|
-|88|[kevin-powell/learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way)|-|67|2021-12-15|2021-11-25|
+|86|[secure-77/Perlite](https://github.com/secure-77/Perlite)|A webbased markdown viewer optimized for Obsidian|71|2022-01-12|2021-05-29|
+|87|[AaNingNing/Sth-Matters](https://github.com/AaNingNing/Sth-Matters)|Notes|70|2022-02-04|2021-08-16|
+|88|[kevin-powell/learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way)|-|68|2021-12-15|2021-11-25|
 |89|[Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox)|Firefox Stylesheet To Add Brave-Like Elements|66|2021-10-18|2021-09-20|
 |90|[zeroojs/landing-ux](https://github.com/zeroojs/landing-ux)|-|65|2021-11-03|2021-10-16|
 |91|[miracthis/Hrms](https://github.com/miracthis/Hrms)|Human Resources Management System|65|2021-08-21|2021-05-22|
-|92|[nv-tlabs/DriveGAN_code](https://github.com/nv-tlabs/DriveGAN_code)|Code release for DriveGAN (CVPR 2021)|64|2021-11-11|2021-10-20|
-|93|[D10S0VSkY-OSS/Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment)|OpenSource self-service infrastructure solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud! It is a terraform UI with rest api for terraform automat ...|64|2022-01-10|2021-03-07|
-|94|[Automattic/isolated-block-editor](https://github.com/Automattic/isolated-block-editor)|Repackages Gutenberg's editor playground as a full-featured multi-instance editor that does not require WordPress.|64|2022-02-09|2021-02-23|
+|92|[D10S0VSkY-OSS/Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment)|OpenSource self-service infrastructure solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud! It is a terraform UI with rest api for terraform automat ...|65|2022-01-10|2021-03-07|
+|93|[nv-tlabs/DriveGAN_code](https://github.com/nv-tlabs/DriveGAN_code)|Code release for DriveGAN (CVPR 2021)|64|2021-11-11|2021-10-20|
+|94|[Automattic/isolated-block-editor](https://github.com/Automattic/isolated-block-editor)|Repackages Gutenberg's editor playground as a full-featured multi-instance editor that does not require WordPress.|64|2022-02-10|2021-02-23|
 |95|[jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme)|CSS files and a template for using Pandoc to generate standalone HTML files|63|2021-11-08|2021-06-21|
 |96|[QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)|CSS Style|63|2022-02-09|2021-06-03|
 |97|[prettierlichess/prettierlichess](https://github.com/prettierlichess/prettierlichess)|-|63|2022-01-20|2021-02-25|
-|98|[illusion0001/illusion0001.github.io](https://github.com/illusion0001/illusion0001.github.io)|Website Repository|62|2022-02-07|2021-03-19|
+|98|[illusion0001/illusion0001.github.io](https://github.com/illusion0001/illusion0001.github.io)|Website Repository|62|2022-02-10|2021-03-19|
 |99|[Tsai002/nodep](https://github.com/Tsai002/nodep)|A zola theme without unnecessary javascript and css dependency|61|2022-01-18|2022-01-16|
 |100|[namndwebdev/html-css-js-thuc-chien](https://github.com/namndwebdev/html-css-js-thuc-chien)|Tổng hợp 30 dự án thực chiến cùng HTML, CSS và Javacsript|61|2021-12-24|2021-11-12|
 |101|[dynamicweb/swiffy-slider](https://github.com/dynamicweb/swiffy-slider)|Super fast carousel and slider with touch for optimized websites running in modern browsers.|61|2022-01-06|2021-11-05|
@@ -110,10 +110,10 @@
 |103|[ElzeroWebSchool/HTML_And_CSS_Template_Two](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Two)|-|61|2021-12-02|2021-05-02|
 |104|[Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage)|A dashboard for your obsidian vault.|60|2022-02-08|2021-12-23|
 |105|[ungstein/OG-Steam-Library](https://github.com/ungstein/OG-Steam-Library)|Library theme for use with OG-Steam|60|2022-02-03|2021-06-26|
-|106|[milicodes/portfolio-project](https://github.com/milicodes/portfolio-project)|A responsive website portfolio |59|2022-01-11|2021-10-07|
-|107|[pixeldevsio/tailpress](https://github.com/pixeldevsio/tailpress)|A Tailwind CSS enabled Underscores theme|58|2021-12-11|2021-04-24|
-|108|[AdvithGopinath/LetMeWatch](https://github.com/AdvithGopinath/LetMeWatch)|LetMeWatch - A seamless watching experience contained in a browser extension.|57|2021-12-24|2021-08-17|
-|109|[atek-cloud/atek](https://github.com/atek-cloud/atek)|A personal cloud for the Web 3.0|57|2021-09-30|2021-08-15|
+|106|[milicodes/portfolio-project](https://github.com/milicodes/portfolio-project)|A responsive website portfolio |58|2022-01-11|2021-10-07|
+|107|[atek-cloud/atek](https://github.com/atek-cloud/atek)|A personal cloud for the Web 3.0|58|2021-09-30|2021-08-15|
+|108|[pixeldevsio/tailpress](https://github.com/pixeldevsio/tailpress)|A Tailwind CSS enabled Underscores theme|58|2021-12-11|2021-04-24|
+|109|[AdvithGopinath/LetMeWatch](https://github.com/AdvithGopinath/LetMeWatch)|LetMeWatch - A seamless watching experience contained in a browser extension.|57|2021-12-24|2021-08-17|
 |110|[TBSniller/piccap](https://github.com/TBSniller/piccap)|PicCap|57|2022-01-21|2021-05-15|
 |111|[zzzteph/kraker](https://github.com/zzzteph/kraker)|Kraker is a distributed password brute-force system that focused on easy use. |57|2021-10-01|2021-03-05|
 |112|[semaphoreci/book-monorepo-cicd](https://github.com/semaphoreci/book-monorepo-cicd)|Effectively build, test, and deploy code with monorepos.|56|2021-11-02|2021-06-17|
@@ -121,90 +121,90 @@
 |114|[CyB1K/PS4-Fake-PKG-Tools-3.87](https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87)|Patched 3.87 Tools|54|2022-01-23|2021-11-08|
 |115|[notebook-sharing-space/nbss](https://github.com/notebook-sharing-space/nbss)|-|54|2021-12-22|2021-02-12|
 |116|[FernandaMakiHirose/dashboard-react](https://github.com/FernandaMakiHirose/dashboard-react)|Dashboard Admin com Múltiplos Temas.|53|2021-10-20|2021-10-20|
-|117|[Manas140/paradise](https://github.com/Manas140/paradise)|The Paradise Theme|52|2022-01-25|2021-12-12|
-|118|[NYRI4/LilyPichu](https://github.com/NYRI4/LilyPichu)|A theme based on @Melonturtle_ stream design|52|2022-02-07|2021-04-25|
-|119|[kevin-powell/3d-grid-clone](https://github.com/kevin-powell/3d-grid-clone)|code from my YT video where I coded this up|51|2021-11-04|2021-11-03|
-|120|[pat-s/gitea-github-theme](https://github.com/pat-s/gitea-github-theme)|Opinionated GitHub-based light and dark themes for Gitea|51|2021-12-01|2021-08-29|
+|117|[NYRI4/LilyPichu](https://github.com/NYRI4/LilyPichu)|A theme based on @Melonturtle_ stream design|53|2022-02-07|2021-04-25|
+|118|[Manas140/paradise](https://github.com/Manas140/paradise)|The Paradise Theme|52|2022-01-25|2021-12-12|
+|119|[pat-s/gitea-github-theme](https://github.com/pat-s/gitea-github-theme)|Opinionated GitHub-based light and dark themes for Gitea|52|2021-12-01|2021-08-29|
+|120|[kevin-powell/3d-grid-clone](https://github.com/kevin-powell/3d-grid-clone)|code from my YT video where I coded this up|51|2021-11-04|2021-11-03|
 |121|[pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome)|userChrome.css to restore the classic Photon look on Firefox 91+|48|2021-08-17|2021-08-14|
-|122|[blackcoffee-study/moonbucks-menu](https://github.com/blackcoffee-study/moonbucks-menu)|-|48|2022-02-09|2021-08-02|
+|122|[blackcoffee-study/moonbucks-menu](https://github.com/blackcoffee-study/moonbucks-menu)|-|48|2022-02-10|2021-08-02|
 |123|[DubininDmitry/Harmony-theme-for-Logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq)|-|48|2021-11-30|2021-04-02|
 |124|[Fueler-io/Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources)|One and only place on the internet for all Web Development Resources.|47|2021-10-31|2021-09-27|
-|125|[Aziz403/LoginForm](https://github.com/Aziz403/LoginForm)|Animated Login Form|47|2021-09-20|2021-09-17|
-|126|[lr-tech/OnelineProton](https://github.com/lr-tech/OnelineProton)|An oneline userChrome.css theme for Firefox, which aims to keep the Proton experience|47|2021-12-07|2021-07-25|
-|127|[Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)|Hey it's a community website so if you want to contrinute in this project then go through the README.md section and also click the link. Raise Genuine PRs only. Your PRs will be accepted, keep patienc ...|46|2022-01-19|2021-09-16|
-|128|[526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)|A minimal opinionated theme for Hugo|46|2022-02-06|2021-05-22|
-|129|[Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue)|Theme to blue lovers|46|2022-01-13|2021-05-04|
-|130|[intrnl/firefox-revert-proton](https://github.com/intrnl/firefox-revert-proton)|Revert Firefox Proton to Photon Compact|46|2021-10-31|2021-04-16|
-|131|[lunasorcery/twitter-alt-text-viewer](https://github.com/lunasorcery/twitter-alt-text-viewer)|Make alt-text visible on Twitter web|45|2022-01-04|2022-01-03|
-|132|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|collection (and a backup) of my config files|45|2022-01-18|2021-09-19|
-|133|[UnamSanctam/UnamWebPanel](https://github.com/UnamSanctam/UnamWebPanel)|-|44|2022-01-14|2021-11-08|
-|134|[alamorre/nextjs-chat-tutorial](https://github.com/alamorre/nextjs-chat-tutorial)|-|43|2021-11-17|2021-10-17|
-|135|[gdscjgec/Image-Editor](https://github.com/gdscjgec/Image-Editor)|Open Source Web based Image Editor|43|2022-02-06|2021-09-29|
-|136|[BugAlertDotOrg/bugalert](https://github.com/BugAlertDotOrg/bugalert)|-|42|2022-01-08|2021-12-17|
-|137|[jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css)|Custom stylesheet for filebrowser that adds colors and changes icons|42|2021-12-15|2021-12-15|
-|138|[sagars007/starry-fox](https://github.com/sagars007/starry-fox)|Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.|42|2021-12-26|2021-12-06|
-|139|[2024-SANDHYA/Blood-Buddy](https://github.com/2024-SANDHYA/Blood-Buddy)|Blood donation made easy through Blood Buddy.|42|2022-02-06|2021-09-06|
-|140|[app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard)|Soft UI Dashboard - Open-source Flask Dashboard   AppSeed|42|2022-01-19|2021-05-12|
-|141|[drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar)|Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available! |42|2022-01-12|2021-02-15|
-|142|[Yakumwamba/google_webrtc_svelte](https://github.com/Yakumwamba/google_webrtc_svelte)|-|41|2022-01-22|2021-12-24|
-|143|[Fentaniao/Liquid](https://github.com/Fentaniao/Liquid)|A nice theme designed for Typora in Windows 11.|41|2022-01-30|2021-11-28|
+|125|[rototrash/dotfiles](https://github.com/rototrash/dotfiles)|collection (and a backup) of my config files|47|2022-01-18|2021-09-19|
+|126|[Aziz403/LoginForm](https://github.com/Aziz403/LoginForm)|Animated Login Form|47|2021-09-20|2021-09-17|
+|127|[lr-tech/OnelineProton](https://github.com/lr-tech/OnelineProton)|An oneline userChrome.css theme for Firefox, which aims to keep the Proton experience|47|2021-12-07|2021-07-25|
+|128|[Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)|Hey it's a community website so if you want to contrinute in this project then go through the README.md section and also click the link. Raise Genuine PRs only. Your PRs will be accepted, keep patienc ...|46|2022-01-19|2021-09-16|
+|129|[526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)|A minimal opinionated theme for Hugo|46|2022-02-06|2021-05-22|
+|130|[Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue)|Theme to blue lovers|46|2022-01-13|2021-05-04|
+|131|[intrnl/firefox-revert-proton](https://github.com/intrnl/firefox-revert-proton)|Revert Firefox Proton to Photon Compact|46|2021-10-31|2021-04-16|
+|132|[lunasorcery/twitter-alt-text-viewer](https://github.com/lunasorcery/twitter-alt-text-viewer)|Make alt-text visible on Twitter web|45|2022-01-04|2022-01-03|
+|133|[Fentaniao/Liquid](https://github.com/Fentaniao/Liquid)|A nice theme designed for Typora in Windows 11.|44|2022-01-30|2021-11-28|
+|134|[UnamSanctam/UnamWebPanel](https://github.com/UnamSanctam/UnamWebPanel)|-|44|2022-01-14|2021-11-08|
+|135|[alamorre/nextjs-chat-tutorial](https://github.com/alamorre/nextjs-chat-tutorial)|-|43|2021-11-17|2021-10-17|
+|136|[gdscjgec/Image-Editor](https://github.com/gdscjgec/Image-Editor)|Open Source Web based Image Editor|43|2022-02-06|2021-09-29|
+|137|[drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar)|Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available! |43|2022-01-12|2021-02-15|
+|138|[BugAlertDotOrg/bugalert](https://github.com/BugAlertDotOrg/bugalert)|-|42|2022-01-08|2021-12-17|
+|139|[jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css)|Custom stylesheet for filebrowser that adds colors and changes icons|42|2021-12-15|2021-12-15|
+|140|[sagars007/starry-fox](https://github.com/sagars007/starry-fox)|Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.|42|2021-12-26|2021-12-06|
+|141|[2024-SANDHYA/Blood-Buddy](https://github.com/2024-SANDHYA/Blood-Buddy)|Blood donation made easy through Blood Buddy.|42|2022-02-06|2021-09-06|
+|142|[app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard)|Soft UI Dashboard - Open-source Flask Dashboard   AppSeed|42|2022-01-19|2021-05-12|
+|143|[Yakumwamba/google_webrtc_svelte](https://github.com/Yakumwamba/google_webrtc_svelte)|-|41|2022-01-22|2021-12-24|
 |144|[arpit456jain/Wield-The-Web](https://github.com/arpit456jain/Wield-The-Web)|Wield-The-Web|41|2021-12-21|2021-07-04|
 |145|[jessikamiranda/healthio](https://github.com/jessikamiranda/healthio)|Landing page Health.io App|40|2022-01-11|2022-01-08|
-|146|[hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian)|An Obsidian theme for typographic appreciators, with support for Style Settings by mgmeyers|40|2021-12-28|2021-09-06|
-|147|[nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode)|LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking.|39|2022-02-06|2022-01-07|
-|148|[WebDevSimplified/team-seas-ocean](https://github.com/WebDevSimplified/team-seas-ocean)|-|39|2021-12-16|2021-11-02|
-|149|[EliverLara/Otis](https://github.com/EliverLara/Otis)|An elegant dark theme for gnome|39|2022-02-06|2021-10-17|
-|150|[nmartin84/logseq-tokyo-theme](https://github.com/nmartin84/logseq-tokyo-theme)|-|39|2022-02-09|2021-07-16|
-|151|[Godiesc/opera-gx](https://github.com/Godiesc/opera-gx)|Firefox Theme CSS to Opera GX Lovers|38|2022-02-07|2021-12-16|
-|152|[Heliactyl/Heliactyl-11](https://github.com/Heliactyl/Heliactyl-11)|The best Pterodactyl client area|38|2022-02-07|2021-12-10|
-|153|[trananhtuat/react-movie](https://github.com/trananhtuat/react-movie)|Responsive React Movies App With API|38|2021-10-16|2021-10-11|
-|154|[nikbrunner/obsidian-deep-work-theme](https://github.com/nikbrunner/obsidian-deep-work-theme)|A light & dark theme for Obsidian inspired by modern GitHub colors.|38|2022-02-01|2021-06-06|
-|155|[Mohammedcha/Twitch-flp](https://github.com/Mohammedcha/Twitch-flp)|Twitch FLP is a Perfect landing page coded in HTML, PHP, JS, and CSS, provided free of charge by Re-skinning Group|38|2022-01-01|2021-05-30|
-|156|[SebDanielsson/compose-transmission-wireguard](https://github.com/SebDanielsson/compose-transmission-wireguard)|Run Transmission through a WireGuard tunnel using this docker-compose.yml|38|2021-08-17|2021-02-22|
-|157|[evolution-gaming/typescript-bootcamp](https://github.com/evolution-gaming/typescript-bootcamp)|TypeScript bootcamp|38|2022-02-04|2021-02-15|
-|158|[K4zoku/dotfiles](https://github.com/K4zoku/dotfiles)|My personal linux configuration files (dotfiles)|37|2022-02-03|2021-12-03|
-|159|[Emrie-Candera/Bubble-Space-Theme](https://github.com/Emrie-Candera/Bubble-Space-Theme)|A theme for https://obsidian.md/ inspired by Bubbles for Light Mode and Outer Space for Dark Mode!|37|2022-02-08|2021-10-30|
-|160|[JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki)|The official wiki for the Data Engineering community.|37|2021-10-04|2021-05-04|
-|161|[cassidoo/cardstock](https://github.com/cassidoo/cardstock)|A light-mode Obsidian theme|36|2021-12-03|2021-10-22|
-|162|[MazeoGH/discord-mica](https://github.com/MazeoGH/discord-mica)|Discord Theme that mimics Windows 11's Mica + Fluent-ish(??), sloppily thrown together.|36|2021-10-10|2021-10-04|
-|163|[pengx17/logseq-laurel-theme](https://github.com/pengx17/logseq-laurel-theme)|-|36|2021-12-11|2021-04-25|
-|164|[sarveshspatil111/i3wm-nord](https://github.com/sarveshspatil111/i3wm-nord)|These are my i3wm config files, inspired by nord-theme|36|2022-01-08|2021-03-30|
-|165|[AsheOne18/Web-ContractButton](https://github.com/AsheOne18/Web-ContractButton)|Using HTML / CSS / JavaScript (ContractButton Example) |35|2021-11-27|2021-10-06|
-|166|[Vins2106/Free-Discord-Bot-Website](https://github.com/Vins2106/Free-Discord-Bot-Website)|Free discord bot website template|35|2021-09-27|2021-09-25|
-|167|[Datamart/react-hamburger-drawer](https://github.com/Datamart/react-hamburger-drawer)|🍔 Simple lightweight react hamburger navigation drawer.|35|2022-02-09|2021-09-20|
-|168|[pdf-ist/paper](https://github.com/pdf-ist/paper)|🌐📄/📏 – World Paper / Sizes|35|2021-12-04|2021-09-13|
-|169|[Mohammedcha/TikTok-FLP](https://github.com/Mohammedcha/TikTok-FLP)|Tik Tok FLP is a Perfect CPA landing page coded in HTML, PHP, JS, and CSS, provided free of charge by Re-skinning Group|35|2021-12-11|2021-08-17|
-|170|[trananhtuat/yolo-reactjs-ecommerce](https://github.com/trananhtuat/yolo-reactjs-ecommerce)|React Ecommerce Web Shop|35|2021-09-18|2021-07-19|
-|171|[lyssacavalcanti/100DiasEvolucaoDev](https://github.com/lyssacavalcanti/100DiasEvolucaoDev)|-|35|2021-10-06|2021-07-01|
-|172|[ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)|This Repository Contains Some web development Projects. |35|2022-01-10|2021-06-19|
+|146|[material-foundation/material-tokens](https://github.com/material-foundation/material-tokens)|Material Design DSP|40|2022-02-10|2021-09-28|
+|147|[hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian)|An Obsidian theme for typographic appreciators, with support for Style Settings by mgmeyers|40|2021-12-28|2021-09-06|
+|148|[nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode)|LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking.|39|2022-02-06|2022-01-07|
+|149|[Heliactyl/Heliactyl-11](https://github.com/Heliactyl/Heliactyl-11)|The best Pterodactyl client area|39|2022-02-07|2021-12-10|
+|150|[WebDevSimplified/team-seas-ocean](https://github.com/WebDevSimplified/team-seas-ocean)|-|39|2021-12-16|2021-11-02|
+|151|[EliverLara/Otis](https://github.com/EliverLara/Otis)|An elegant dark theme for gnome|39|2022-02-06|2021-10-17|
+|152|[nmartin84/logseq-tokyo-theme](https://github.com/nmartin84/logseq-tokyo-theme)|-|39|2022-02-09|2021-07-16|
+|153|[nikbrunner/obsidian-deep-work-theme](https://github.com/nikbrunner/obsidian-deep-work-theme)|A light & dark theme for Obsidian inspired by modern GitHub colors.|39|2022-02-01|2021-06-06|
+|154|[Godiesc/opera-gx](https://github.com/Godiesc/opera-gx)|Firefox Theme CSS to Opera GX Lovers|38|2022-02-07|2021-12-16|
+|155|[trananhtuat/react-movie](https://github.com/trananhtuat/react-movie)|Responsive React Movies App With API|38|2021-10-16|2021-10-11|
+|156|[Mohammedcha/Twitch-flp](https://github.com/Mohammedcha/Twitch-flp)|Twitch FLP is a Perfect landing page coded in HTML, PHP, JS, and CSS, provided free of charge by Re-skinning Group|38|2022-01-01|2021-05-30|
+|157|[SebDanielsson/compose-transmission-wireguard](https://github.com/SebDanielsson/compose-transmission-wireguard)|Run Transmission through a WireGuard tunnel using this docker-compose.yml|38|2021-08-17|2021-02-22|
+|158|[evolution-gaming/typescript-bootcamp](https://github.com/evolution-gaming/typescript-bootcamp)|TypeScript bootcamp|38|2022-02-04|2021-02-15|
+|159|[K4zoku/dotfiles](https://github.com/K4zoku/dotfiles)|My personal linux configuration files (dotfiles)|37|2022-02-03|2021-12-03|
+|160|[Emrie-Candera/Bubble-Space-Theme](https://github.com/Emrie-Candera/Bubble-Space-Theme)|A theme for https://obsidian.md/ inspired by Bubbles for Light Mode and Outer Space for Dark Mode!|37|2022-02-08|2021-10-30|
+|161|[JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki)|The official wiki for the Data Engineering community.|37|2021-10-04|2021-05-04|
+|162|[cassidoo/cardstock](https://github.com/cassidoo/cardstock)|A light-mode Obsidian theme|36|2021-12-03|2021-10-22|
+|163|[MazeoGH/discord-mica](https://github.com/MazeoGH/discord-mica)|Discord Theme that mimics Windows 11's Mica + Fluent-ish(??), sloppily thrown together.|36|2021-10-10|2021-10-04|
+|164|[pengx17/logseq-laurel-theme](https://github.com/pengx17/logseq-laurel-theme)|-|36|2021-12-11|2021-04-25|
+|165|[sarveshspatil111/i3wm-nord](https://github.com/sarveshspatil111/i3wm-nord)|These are my i3wm config files, inspired by nord-theme|36|2022-01-08|2021-03-30|
+|166|[AsheOne18/Web-ContractButton](https://github.com/AsheOne18/Web-ContractButton)|Using HTML / CSS / JavaScript (ContractButton Example) |35|2021-11-27|2021-10-06|
+|167|[Vins2106/Free-Discord-Bot-Website](https://github.com/Vins2106/Free-Discord-Bot-Website)|Free discord bot website template|35|2021-09-27|2021-09-25|
+|168|[Datamart/react-hamburger-drawer](https://github.com/Datamart/react-hamburger-drawer)|🍔 Simple lightweight react hamburger navigation drawer.|35|2022-02-09|2021-09-20|
+|169|[pdf-ist/paper](https://github.com/pdf-ist/paper)|🌐📄/📏 – World Paper / Sizes|35|2021-12-04|2021-09-13|
+|170|[Mohammedcha/TikTok-FLP](https://github.com/Mohammedcha/TikTok-FLP)|Tik Tok FLP is a Perfect CPA landing page coded in HTML, PHP, JS, and CSS, provided free of charge by Re-skinning Group|35|2021-12-11|2021-08-17|
+|171|[trananhtuat/yolo-reactjs-ecommerce](https://github.com/trananhtuat/yolo-reactjs-ecommerce)|React Ecommerce Web Shop|35|2021-09-18|2021-07-19|
+|172|[lyssacavalcanti/100DiasEvolucaoDev](https://github.com/lyssacavalcanti/100DiasEvolucaoDev)|-|35|2021-10-06|2021-07-01|
 |173|[arcanemachine/django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine)|A sandbox for using Django with HTMX and Alpine.JS|35|2022-02-04|2021-05-11|
 |174|[leeprky/Lode](https://github.com/leeprky/Lode)|Easy to customize bubbly discord theme with lots of customization/flexibility to adjust to your liking.|35|2022-01-30|2021-04-10|
-|175|[microsoft/beginners-django](https://github.com/microsoft/beginners-django)|Demo code and resources for Beginner's Series: Django|35|2021-08-30|2021-03-18|
-|176|[pcwalton/vscode-powerline](https://github.com/pcwalton/vscode-powerline)|Powerline theme for the Visual Studio Code status bar|35|2021-08-19|2021-03-16|
-|177|[joeroe/risotto](https://github.com/joeroe/risotto)|A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.|35|2022-01-10|2021-03-05|
-|178|[santiyounger/Cobra](https://github.com/santiyounger/Cobra)|Theme for Logseq|35|2021-10-13|2021-02-13|
-|179|[codrops/Theodore](https://github.com/codrops/Theodore)|A little menu effect with an SVG overlay and an infinite background CSS animation.|34|2021-11-02|2021-11-02|
-|180|[JezerM/nody-greeter](https://github.com/JezerM/nody-greeter)|LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js|34|2022-02-02|2021-08-08|
-|181|[TheOld/vscode-fluent-ui](https://github.com/TheOld/vscode-fluent-ui)|-|34|2022-01-08|2021-08-02|
-|182|[J4FSec/In0ri](https://github.com/J4FSec/In0ri)| Defacement detection with deep learning |34|2021-11-13|2021-07-12|
-|183|[PDIS/1922.gov.tw](https://github.com/PDIS/1922.gov.tw)|Landing page for 1922.gov.tw before registration begins|34|2022-01-13|2021-06-05|
-|184|[Zuntek/WeekToDoWeb](https://github.com/Zuntek/WeekToDoWeb)|WeekToDo is a free minimalist weekly planner app focused on privacy. Schedule your tasks and projects with to do lists and a calendar. Available for Windows, Mac, Linux or online.|34|2022-02-07|2021-04-02|
-|185|[Achuan-2/siyuan-themes-tsundoku-dark](https://github.com/Achuan-2/siyuan-themes-tsundoku-dark)|a editor theme for siyuan note|34|2022-02-07|2021-02-22|
-|186|[hankchizljaw/CUBE-with-tailwind](https://github.com/hankchizljaw/CUBE-with-tailwind)|-|33|2022-02-01|2022-01-26|
-|187|[MicrosoftStudentChapter/Makeathon-4.0](https://github.com/MicrosoftStudentChapter/Makeathon-4.0)|Official repository for Makeathon 2022|33|2022-01-26|2022-01-13|
-|188|[EvanDbg/sillyGirlWeb](https://github.com/EvanDbg/sillyGirlWeb)|-|33|2021-12-22|2021-12-22|
-|189|[primefaces/sakai-ng](https://github.com/primefaces/sakai-ng)|Free Angular Admin Template by PrimeNG|33|2022-01-31|2021-12-10|
-|190|[Visualway/Cleanshot](https://github.com/Visualway/Cleanshot)|Generate clean screenshots for any website from its URL|33|2022-01-16|2021-10-18|
-|191|[BaptisteBdn/dotfiles](https://github.com/BaptisteBdn/dotfiles)|Dotfiles : i3-gaps, rounded corners and pywal themes !|33|2022-01-07|2021-10-12|
-|192|[python-engineer/chatbot-deployment](https://github.com/python-engineer/chatbot-deployment)|Deployment of PyTorch chatbot with Flask|33|2022-01-27|2021-08-28|
-|193|[ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme)|A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.|33|2021-12-04|2021-07-27|
-|194|[webis-de/summary-explorer](https://github.com/webis-de/summary-explorer)|Summary Explorer is a tool to visually explore the state-of-the-art in text summarization.|33|2022-01-15|2021-07-02|
-|195|[Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty)|Adapted "Beautiful" Themes|33|2022-01-16|2021-06-15|
-|196|[atharmohammad/Code-N-Collab](https://github.com/atharmohammad/Code-N-Collab)|CodeNCollab is a Collaborative Website for developers and competitive coders who likes to code and discuss about topics , problems or issues , etc  |33|2021-11-16|2021-03-20|
-|197|[ma2web/magic_navigation](https://github.com/ma2web/magic_navigation)|-|32|2021-12-12|2021-12-11|
-|198|[AmreshSinha/glassFolio](https://github.com/AmreshSinha/glassFolio)|Developer Portfolio Template in Glassmorphism UI|32|2021-10-12|2021-09-17|
-|199|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|32|2021-12-31|2021-09-14|
-|200|[Y1chenYao/typora-mint-theme](https://github.com/Y1chenYao/typora-mint-theme)|A fresh theme for typora. Light/Dark mode supported.|32|2021-12-15|2021-07-25|
+|175|[Zuntek/WeekToDoWeb](https://github.com/Zuntek/WeekToDoWeb)|WeekToDo is a free minimalist weekly planner app focused on privacy. Schedule your tasks and projects with to do lists and a calendar. Available for Windows, Mac, Linux or online.|35|2022-02-07|2021-04-02|
+|176|[microsoft/beginners-django](https://github.com/microsoft/beginners-django)|Demo code and resources for Beginner's Series: Django|35|2021-08-30|2021-03-18|
+|177|[pcwalton/vscode-powerline](https://github.com/pcwalton/vscode-powerline)|Powerline theme for the Visual Studio Code status bar|35|2021-08-19|2021-03-16|
+|178|[joeroe/risotto](https://github.com/joeroe/risotto)|A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.|35|2022-01-10|2021-03-05|
+|179|[santiyounger/Cobra](https://github.com/santiyounger/Cobra)|Theme for Logseq|35|2021-10-13|2021-02-13|
+|180|[hankchizljaw/CUBE-with-tailwind](https://github.com/hankchizljaw/CUBE-with-tailwind)|-|34|2022-02-01|2022-01-26|
+|181|[EvanDbg/sillyGirlWeb](https://github.com/EvanDbg/sillyGirlWeb)|-|34|2021-12-22|2021-12-22|
+|182|[codrops/Theodore](https://github.com/codrops/Theodore)|A little menu effect with an SVG overlay and an infinite background CSS animation.|34|2021-11-02|2021-11-02|
+|183|[BaptisteBdn/dotfiles](https://github.com/BaptisteBdn/dotfiles)|Dotfiles : i3-gaps, rounded corners and pywal themes !|34|2022-01-07|2021-10-12|
+|184|[python-engineer/chatbot-deployment](https://github.com/python-engineer/chatbot-deployment)|Deployment of PyTorch chatbot with Flask|34|2022-01-27|2021-08-28|
+|185|[JezerM/nody-greeter](https://github.com/JezerM/nody-greeter)|LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js|34|2022-02-02|2021-08-08|
+|186|[TheOld/vscode-fluent-ui](https://github.com/TheOld/vscode-fluent-ui)|-|34|2022-01-08|2021-08-02|
+|187|[J4FSec/In0ri](https://github.com/J4FSec/In0ri)| Defacement detection with deep learning |34|2021-11-13|2021-07-12|
+|188|[ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)|This Repository Contains Some web development Projects. |34|2022-01-10|2021-06-19|
+|189|[PDIS/1922.gov.tw](https://github.com/PDIS/1922.gov.tw)|Landing page for 1922.gov.tw before registration begins|34|2022-01-13|2021-06-05|
+|190|[Achuan-2/siyuan-themes-tsundoku-dark](https://github.com/Achuan-2/siyuan-themes-tsundoku-dark)|a editor theme for siyuan note|34|2022-02-10|2021-02-22|
+|191|[MicrosoftStudentChapter/Makeathon-4.0](https://github.com/MicrosoftStudentChapter/Makeathon-4.0)|Official repository for Makeathon 2022|33|2022-01-26|2022-01-13|
+|192|[primefaces/sakai-ng](https://github.com/primefaces/sakai-ng)|Free Angular Admin Template by PrimeNG|33|2022-01-31|2021-12-10|
+|193|[Visualway/Cleanshot](https://github.com/Visualway/Cleanshot)|Generate clean screenshots for any website from its URL|33|2022-01-16|2021-10-18|
+|194|[ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme)|A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.|33|2021-12-04|2021-07-27|
+|195|[Y1chenYao/typora-mint-theme](https://github.com/Y1chenYao/typora-mint-theme)|A fresh theme for typora. Light/Dark mode supported.|33|2021-12-15|2021-07-25|
+|196|[webis-de/summary-explorer](https://github.com/webis-de/summary-explorer)|Summary Explorer is a tool to visually explore the state-of-the-art in text summarization.|33|2022-01-15|2021-07-02|
+|197|[Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty)|Adapted "Beautiful" Themes|33|2022-01-16|2021-06-15|
+|198|[atharmohammad/Code-N-Collab](https://github.com/atharmohammad/Code-N-Collab)|CodeNCollab is a Collaborative Website for developers and competitive coders who likes to code and discuss about topics , problems or issues , etc  |33|2021-11-16|2021-03-20|
+|199|[ma2web/magic_navigation](https://github.com/ma2web/magic_navigation)|-|32|2021-12-12|2021-12-11|
+|200|[AmreshSinha/glassFolio](https://github.com/AmreshSinha/glassFolio)|Developer Portfolio Template in Glassmorphism UI|32|2021-10-12|2021-09-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
