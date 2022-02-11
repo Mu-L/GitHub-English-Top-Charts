@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8851|18|2022-01-26|
-|2|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1924|1|2022-02-06|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8855|18|2022-01-26|
+|2|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1926|1|2022-02-11|
 |3|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|332|1|2021-12-16|
 |4|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|17|1|2022-01-30|
 |5|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|49|0|2021-08-18|
@@ -38,7 +38,7 @@
 |31|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|0|2021-10-26|
 |32|[makerbase-mks/MKS-Robin-Nano-Firmware](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware)|MKS Robin Nano firmware source code, you can use IAR IDE build it and update it on your nano board.Of course, you can change source code and add new function with you requirement and so on|25|0|2022-01-15|
 |33|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|0|2021-11-14|
-|34|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|134|0|2022-02-10|
+|34|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|134|0|2022-02-11|
 |35|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|8|0|2021-10-07|
 |36|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|0|2021-11-26|
 |37|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|8|0|2021-09-30|
@@ -87,53 +87,52 @@
 |80|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|65|0|2021-10-20|
 |81|[SaraHindySalfer/Nand2Tetris](https://github.com/SaraHindySalfer/Nand2Tetris)|answers to n2t course home work|2|0|2021-08-14|
 |82|[cityxen/Commodore64_Programming](https://github.com/cityxen/Commodore64_Programming)|Commodore 64 Programming KickAssembler Library and Examples|20|0|2021-08-20|
-|83|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|24|0|2021-08-12|
-|84|[yugecin/scmcleoscripts](https://github.com/yugecin/scmcleoscripts)|Collection of cleo/scm scripts/plugins that I've made (gtasa)|9|0|2021-11-28|
-|85|[saumya-prakash/Mastermind](https://github.com/saumya-prakash/Mastermind)|Implementation of the classic board-game Mastermind in x86 assembly|2|0|2021-10-31|
-|86|[mytechnotalent/AArch64-Bytes](https://github.com/mytechnotalent/AArch64-Bytes)|A series of small ARM 64 bite-size articles to help one better reverse AArch64 ARM 64 Linux binaries.|3|0|2022-02-02|
-|87|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|120|0|2021-12-24|
-|88|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|0|2021-11-18|
-|89|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|0|2021-09-27|
-|90|[pararaum/amigaexamples](https://github.com/pararaum/amigaexamples)|Amiga examples in 68K assembler and C. |3|0|2021-08-18|
-|91|[Lolwis111/PotatOS](https://github.com/Lolwis111/PotatOS)|Small 16-Bit assembler OS for learning how things work in detail|2|0|2021-08-26|
-|92|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|0|2021-10-28|
-|93|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|0|2021-10-25|
-|94|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|3|0|2021-12-19|
-|95|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|0|2022-02-07|
-|96|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|267|0|2021-11-29|
-|97|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-02|
-|98|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|0|2022-01-10|
-|99|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|0|2021-10-22|
-|100|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|18|0|2022-01-20|
-|101|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|0|2021-12-12|
-|102|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|12|0|2021-11-19|
-|103|[mitchell-merry/tictactoe_mips](https://github.com/mitchell-merry/tictactoe_mips)|TicTacToe written entirely in MIPS assembly. Written 6 days after starting to learn assembly|4|0|2021-09-08|
-|104|[Sakura-IT/Amiga-programming-examples](https://github.com/Sakura-IT/Amiga-programming-examples)|Various programming examples for (mostly classic) Amiga.|47|0|2022-01-22|
-|105|[willpyshan13/DailyInterview](https://github.com/willpyshan13/DailyInterview)|android java c++ ios flutter reactnative native leetcode|6|0|2022-02-03|
-|106|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|428|0|2021-11-26|
-|107|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|0|2022-01-18|
-|108|[mbhangui/tinydnssec](https://github.com/mbhangui/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|2|0|2021-09-09|
-|109|[maxim-zhao/sms-hq-samples](https://github.com/maxim-zhao/sms-hq-samples)|Patching Sega Master System games with high-quality samples|8|0|2022-02-07|
-|110|[g0pher98/WIL](https://github.com/g0pher98/WIL)|What I Learned✍|9|0|2021-12-20|
-|111|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide|4|0|2022-01-23|
-|112|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|0|2021-11-28|
-|113|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|0|2021-11-24|
-|114|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|0|2022-01-18|
-|115|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|0|2021-10-31|
-|116|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|59|0|2022-01-25|
-|117|[secana/Assembler-Examples](https://github.com/secana/Assembler-Examples)|Different code examples in assembler|3|0|2021-12-07|
-|118|[JackHCC/Embedded-Microprocessor-System-Homework](https://github.com/JackHCC/Embedded-Microprocessor-System-Homework)|Peking University Embedded Microprocessor System Lesson’s all Homework|3|0|2021-12-28|
-|119|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|0|2021-12-03|
-|120|[Isotarge/lotsdisasm](https://github.com/Isotarge/lotsdisasm)|Lord of the Sword Disassembly for Sega Master System|3|0|2021-09-03|
-|121|[3SUM/monalisa](https://github.com/3SUM/monalisa)|Collection of homework assignments I did for myself and for others while as an undergrad @ UNLV.|3|0|2022-01-20|
-|122|[tgrysztar/fasmg](https://github.com/tgrysztar/fasmg)|flat assembler g - examples library|83|0|2022-01-08|
-|123|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|0|2022-02-07|
-|124|[billforsternz/retro-sargon](https://github.com/billforsternz/retro-sargon)|This is a project to bring the code from the book "Sargon a computer chess program" back to life in the modern era|24|0|2021-09-05|
-|125|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|42|0|2021-10-09|
-|126|[0x00Jeff/ElfFileInfecters](https://github.com/0x00Jeff/ElfFileInfecters)|a collection of elf file infectors |23|0|2021-10-10|
-|127|[SoulXHades/Shellcode](https://github.com/SoulXHades/Shellcode)|A repos of shellcodes I created for fun during my free time to learn.|3|0|2021-11-01|
-|128|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|4|0|2021-12-21|
-|129|[mikeroyal/Assembly-Guide](https://github.com/mikeroyal/Assembly-Guide)|Assembly Guide |3|0|2022-01-02|
+|83|[yugecin/scmcleoscripts](https://github.com/yugecin/scmcleoscripts)|Collection of cleo/scm scripts/plugins that I've made (gtasa)|9|0|2021-11-28|
+|84|[saumya-prakash/Mastermind](https://github.com/saumya-prakash/Mastermind)|Implementation of the classic board-game Mastermind in x86 assembly|2|0|2021-10-31|
+|85|[mytechnotalent/AArch64-Bytes](https://github.com/mytechnotalent/AArch64-Bytes)|A series of small ARM 64 bite-size articles to help one better reverse AArch64 ARM 64 Linux binaries.|3|0|2022-02-02|
+|86|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|120|0|2021-12-24|
+|87|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|0|2021-11-18|
+|88|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|0|2021-09-27|
+|89|[pararaum/amigaexamples](https://github.com/pararaum/amigaexamples)|Amiga examples in 68K assembler and C. |3|0|2021-08-18|
+|90|[Lolwis111/PotatOS](https://github.com/Lolwis111/PotatOS)|Small 16-Bit assembler OS for learning how things work in detail|2|0|2021-08-26|
+|91|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|0|2021-10-28|
+|92|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|0|2021-10-25|
+|93|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|3|0|2021-12-19|
+|94|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|0|2022-02-07|
+|95|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|267|0|2021-11-29|
+|96|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-02|
+|97|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|0|2022-01-10|
+|98|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|0|2021-10-22|
+|99|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|18|0|2022-01-20|
+|100|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|5|0|2021-12-12|
+|101|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|12|0|2021-11-19|
+|102|[mitchell-merry/tictactoe_mips](https://github.com/mitchell-merry/tictactoe_mips)|TicTacToe written entirely in MIPS assembly. Written 6 days after starting to learn assembly|4|0|2021-09-08|
+|103|[Sakura-IT/Amiga-programming-examples](https://github.com/Sakura-IT/Amiga-programming-examples)|Various programming examples for (mostly classic) Amiga.|47|0|2022-01-22|
+|104|[willpyshan13/DailyInterview](https://github.com/willpyshan13/DailyInterview)|android java c++ ios flutter reactnative native leetcode|6|0|2022-02-03|
+|105|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|428|0|2021-11-26|
+|106|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|0|2022-01-18|
+|107|[mbhangui/tinydnssec](https://github.com/mbhangui/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|2|0|2021-09-09|
+|108|[maxim-zhao/sms-hq-samples](https://github.com/maxim-zhao/sms-hq-samples)|Patching Sega Master System games with high-quality samples|8|0|2022-02-07|
+|109|[g0pher98/WIL](https://github.com/g0pher98/WIL)|What I Learned✍|9|0|2021-12-20|
+|110|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide|4|0|2022-01-23|
+|111|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|0|2021-11-28|
+|112|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|0|2021-11-24|
+|113|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|0|2022-01-18|
+|114|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|0|2021-10-31|
+|115|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|59|0|2022-01-25|
+|116|[secana/Assembler-Examples](https://github.com/secana/Assembler-Examples)|Different code examples in assembler|3|0|2021-12-07|
+|117|[JackHCC/Embedded-Microprocessor-System-Homework](https://github.com/JackHCC/Embedded-Microprocessor-System-Homework)|Peking University Embedded Microprocessor System Lesson’s all Homework|3|0|2021-12-28|
+|118|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|0|2021-12-03|
+|119|[Isotarge/lotsdisasm](https://github.com/Isotarge/lotsdisasm)|Lord of the Sword Disassembly for Sega Master System|3|0|2021-09-03|
+|120|[3SUM/monalisa](https://github.com/3SUM/monalisa)|Collection of homework assignments I did for myself and for others while as an undergrad @ UNLV.|3|0|2022-01-20|
+|121|[tgrysztar/fasmg](https://github.com/tgrysztar/fasmg)|flat assembler g - examples library|84|0|2022-01-08|
+|122|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|0|2022-02-07|
+|123|[billforsternz/retro-sargon](https://github.com/billforsternz/retro-sargon)|This is a project to bring the code from the book "Sargon a computer chess program" back to life in the modern era|24|0|2021-09-05|
+|124|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|42|0|2021-10-09|
+|125|[0x00Jeff/ElfFileInfecters](https://github.com/0x00Jeff/ElfFileInfecters)|a collection of elf file infectors |23|0|2021-10-10|
+|126|[SoulXHades/Shellcode](https://github.com/SoulXHades/Shellcode)|A repos of shellcodes I created for fun during my free time to learn.|3|0|2021-11-01|
+|127|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|4|0|2021-12-21|
+|128|[mikeroyal/Assembly-Guide](https://github.com/mikeroyal/Assembly-Guide)|Assembly Guide |3|0|2022-01-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

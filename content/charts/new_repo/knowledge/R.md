@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2498|2022-02-09|2021-10-08|
-|2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|183|2022-01-27|2021-08-31|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2500|2022-02-11|2021-10-08|
+|2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|185|2022-01-27|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|73|2022-02-04|2021-08-31|
-|4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|65|2022-02-10|2021-07-09|
+|4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|67|2022-02-10|2021-07-09|
 |5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|Collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|44|2022-02-09|2021-09-29|
 |6|[StatsGary/MLDataR](https://github.com/StatsGary/MLDataR)|A collection of Machine Learning datasets for health care and beyond|32|2022-02-07|2021-12-29|
-|7|[behrman/ros](https://github.com/behrman/ros)|Regression and Other Stories - Tidyverse Examples|30|2021-09-06|2021-04-22|
+|7|[behrman/ros](https://github.com/behrman/ros)|Regression and Other Stories - Tidyverse Examples|31|2021-09-06|2021-04-22|
 |8|[matt-dray/dehex](https://github.com/matt-dray/dehex)|:art::eyes: R package: learn to assess a colour hex code by eye|28|2021-11-27|2021-08-01|
-|9|[hadley/cocktails](https://github.com/hadley/cocktails)|Hadley's cocktail book|24|2021-09-22|2021-08-09|
-|10|[gbarrile/PopEcoModeling](https://github.com/gbarrile/PopEcoModeling)|Online course on statistical modeling in population ecology. Includes instructional videos with associated code and data.|24|2021-10-07|2021-06-15|
-|11|[jackobailey/britpol](https://github.com/jackobailey/britpol)|britpol: Data and Functions for Studying British Politics|24|2021-12-10|2021-03-12|
-|12|[ch-bu/ggplot2-fundamentals](https://github.com/ch-bu/ggplot2-fundamentals)|A ggplot2 course from Christian Burkhart. Become a ggplot2 expert from scratch and learn to create any visualization in ggplot2.|23|2022-02-06|2021-09-02|
+|9|[ch-bu/ggplot2-fundamentals](https://github.com/ch-bu/ggplot2-fundamentals)|A ggplot2 course from Christian Burkhart. Become a ggplot2 expert from scratch and learn to create any visualization in ggplot2.|24|2022-02-06|2021-09-02|
+|10|[hadley/cocktails](https://github.com/hadley/cocktails)|Hadley's cocktail book|24|2021-09-22|2021-08-09|
+|11|[gbarrile/PopEcoModeling](https://github.com/gbarrile/PopEcoModeling)|Online course on statistical modeling in population ecology. Includes instructional videos with associated code and data.|24|2021-10-07|2021-06-15|
+|12|[jackobailey/britpol](https://github.com/jackobailey/britpol)|britpol: Data and Functions for Studying British Politics|24|2021-12-10|2021-03-12|
 |13|[Swarbricklab-code/BrCa_cell_atlas](https://github.com/Swarbricklab-code/BrCa_cell_atlas)|Data processing and analysis related code associated with the study "A single-cell and spatially resolved atlas of human breast cancers".|23|2022-02-03|2021-05-06|
 |14|[juliasilge/deploytidymodels](https://github.com/juliasilge/deploytidymodels)|Version, share, and deploy tidymodels workflows|21|2021-11-16|2021-06-12|
 |15|[rstudio-education/advanced-shiny-az](https://github.com/rstudio-education/advanced-shiny-az)|Materials for the "Advanced Shiny" course for Astra Zeneca|20|2021-09-09|2021-09-06|
@@ -50,8 +50,8 @@
 |43|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
 |44|[vizdata-f21/website](https://github.com/vizdata-f21/website)|🏠 Source files for the course website|5|2021-12-01|2021-08-22|
 |45|[nch-igm/EnFusion](https://github.com/nch-igm/EnFusion)|The ENsemble Fusion (EnFusion) repo contains a Dockerfile to build a Docker Image that can overlap outputs from 7 fusion detection algorithms, to identify high confidence fusion events. |5|2021-09-15|2021-08-04|
-|46|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-02-10|2021-05-03|
-|47|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|2021-12-09|2021-02-22|
+|46|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-02-11|2021-05-03|
+|47|[ohdsi-studies/PioneerWatchfulWaiting](https://github.com/ohdsi-studies/PioneerWatchfulWaiting)|This study is part of the joint PIONEER - EHDEN - OHDSI studyathon in March 2021, and aims to advance understanding of clinical management and outcomes of watchful waiting in prostate cancer.|5|2022-02-11|2021-02-22|
 |48|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-01-12|2021-12-21|
 |49|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|4|2021-12-09|2021-08-20|
 |50|[dppalomar/pob](https://github.com/dppalomar/pob)|Supporting package for the Portfolio Optimization Book|4|2021-09-02|2021-06-17|

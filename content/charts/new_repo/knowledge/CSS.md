@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|869|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|871|2021-11-11|2021-10-23|
 |2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|202|2021-10-26|2021-04-05|
 |3|[Stefanye/CSSHell](https://github.com/Stefanye/CSSHell)|Collection of common CSS mistakes, and how to fix them|172|2022-02-07|2021-04-09|
-|4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|148|2022-02-09|2021-04-19|
+|4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|149|2022-02-09|2021-04-19|
 |5|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|103|2022-02-10|2021-08-20|
-|6|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|77|2022-02-09|2021-06-15|
+|6|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|77|2022-02-11|2021-06-15|
 |7|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|68|2021-11-22|2021-09-26|
-|8|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|59|2022-02-02|2021-08-16|
-|9|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|51|2022-02-09|2022-02-09|
+|8|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|64|2022-02-09|2022-02-09|
+|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|60|2022-02-02|2021-08-16|
 |10|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
 |11|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|37|2021-09-07|2021-05-18|
 |12|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
@@ -26,15 +26,15 @@
 |19|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
 |20|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|26|2022-02-10|2021-10-08|
 |21|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|22|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|22|2022-02-10|2021-06-16|
+|22|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|23|2022-02-10|2021-06-16|
 |23|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
 |24|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript are available in here. |20|2022-01-24|2021-09-03|
 |25|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
 |26|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|18|2021-12-16|2021-12-16|
 |27|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|18|2021-10-02|2021-10-01|
-|28|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|29|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|16|2022-01-23|2021-02-15|
-|30|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|15|2022-01-24|2022-01-21|
+|28|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|16|2022-01-24|2022-01-21|
+|29|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
+|30|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|16|2022-01-23|2021-02-15|
 |31|[Ksound22/JabTV-Landing-Page](https://github.com/Ksound22/JabTV-Landing-Page)|A Landing page tutorial for freecodecamp publication readers|15|2022-01-13|2021-11-27|
 |32|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
 |33|[dinomoon/50projects50days](https://github.com/dinomoon/50projects50days)|Udemy Course - 50 projects in 50 days|15|2021-10-17|2021-02-22|
@@ -52,12 +52,12 @@
 |45|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|9|2021-10-22|2021-08-31|
 |46|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|9|2021-11-30|2021-05-25|
 |47|[rg3915/django-auth-tutorial](https://github.com/rg3915/django-auth-tutorial)|Meu tutorial de Autenticação com Django em pt-br|9|2022-02-10|2021-04-04|
-|48|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
-|49|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |8|2021-11-30|2021-11-01|
-|50|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
-|51|[F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS](https://github.com/F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you  how to make a login page, I made the tutorial from the Online Tutorials channel.|7|2022-01-28|2022-01-27|
-|52|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|7|2022-01-14|2022-01-03|
-|53|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|7|2021-12-22|2021-12-22|
+|48|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|8|2021-12-22|2021-12-22|
+|49|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
+|50|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |8|2021-11-30|2021-11-01|
+|51|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|8|2021-11-06|2021-09-30|
+|52|[F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS](https://github.com/F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you  how to make a login page, I made the tutorial from the Online Tutorials channel.|7|2022-01-28|2022-01-27|
+|53|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|7|2022-01-14|2022-01-03|
 |54|[LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere)|Learn one vim, Use everywhere.|7|2022-02-06|2021-12-05|
 |55|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
 |56|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2022-01-30|2021-09-20|

@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|686|2022-02-09|2021-07-20|
-|2|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|409|2022-02-10|2021-11-20|
-|3|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|259|2022-02-10|2021-06-18|
+|2|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|414|2022-02-11|2021-11-20|
+|3|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|295|2022-02-10|2021-06-18|
 |4|[sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim)|A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !|257|2022-01-12|2021-06-01|
 |5|[ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)|A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse|174|2022-01-29|2021-04-12|
 |6|[Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim)|Minimalist Collection of Colorschemes Written in Lua|131|2022-01-18|2021-03-24|
-|7|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|85|2022-02-10|2021-08-03|
+|7|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|86|2022-02-11|2021-08-03|
 |8|[dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim)|A Neovim Telescope extension to open your browser bookmarks right from the editor!|77|2022-02-03|2021-04-22|
 |9|[astrochili/defold-vscode-guide](https://github.com/astrochili/defold-vscode-guide)|How to turn VSCode into Defold IDE?|49|2022-02-07|2021-03-30|
 |10|[kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)|:bookmark_tabs: Delete multiple vim buffers based on different conditions|46|2021-11-14|2021-07-27|
-|11|[creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim)|An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp|45|2022-01-13|2021-03-08|
+|11|[creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim)|An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp|44|2022-01-13|2021-03-08|
 |12|[TheAlgorithms/Lua](https://github.com/TheAlgorithms/Lua)|Algorithms and Data Structures implemented in the Lua programming language|42|2022-02-10|2021-09-27|
-|13|[LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes)|Collection of colorschemes made to be compatible with LunarVim|38|2022-02-01|2021-07-11|
-|14|[tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim)|Integrates vim-bookmarks into telescope.nvim|38|2021-12-30|2021-05-08|
-|15|[Quaggles/dcs-lua-datamine](https://github.com/Quaggles/dcs-lua-datamine)|A reference guide to the lua table values in DCS for weapons and aircraft|38|2022-02-04|2021-04-21|
+|13|[Quaggles/dcs-lua-datamine](https://github.com/Quaggles/dcs-lua-datamine)|A reference guide to the lua table values in DCS for weapons and aircraft|39|2022-02-04|2021-04-21|
+|14|[LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes)|Collection of colorschemes made to be compatible with LunarVim|38|2022-02-01|2021-07-11|
+|15|[tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim)|Integrates vim-bookmarks into telescope.nvim|38|2021-12-30|2021-05-08|
 |16|[stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim)|A collection of improvements for the quickfix buffer|37|2022-01-28|2021-06-15|
-|17|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|34|2022-02-07|2021-10-07|
+|17|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|35|2022-02-07|2021-10-07|
 |18|[Munkwolf/dcs-community-keybinds](https://github.com/Munkwolf/dcs-community-keybinds)|A collection of keybinds for DCS.|32|2022-02-06|2021-05-06|
 |19|[jose-elias-alvarez/minsnip.nvim](https://github.com/jose-elias-alvarez/minsnip.nvim)|My personal snippet plugin.|30|2022-01-04|2021-07-01|
 |20|[arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim)|A simple plugin to quickly run a snippet of code without ever leaving neovim|27|2021-12-25|2021-11-16|
@@ -34,9 +34,9 @@
 |27|[horizontti/ESXtoQbus](https://github.com/horizontti/ESXtoQbus)|How to convert ESX to Qbus|14|2021-10-17|2021-05-15|
 |28|[creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim)|An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp|13|2022-01-13|2021-10-23|
 |29|[jaipack17/write-ups](https://github.com/jaipack17/write-ups)|Depot for my articles, papers, insight, research, discoveries and just fun!|12|2022-01-23|2021-09-24|
-|30|[overextended/pe-lualib](https://github.com/overextended/pe-lualib)|A collection of Lua functions for importing into other resources.|11|2022-02-10|2021-10-30|
-|31|[lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim)|A bookmark plugin.|11|2021-12-07|2021-10-23|
-|32|[itsHyper/qb-rentals](https://github.com/itsHyper/qb-rentals)|Vehicle Rental Script w/ Rental Papers for QBCore using qb-target / qb-menu|10|2021-12-20|2021-12-06|
+|30|[itsHyper/qb-rentals](https://github.com/itsHyper/qb-rentals)|Vehicle Rental Script w/ Rental Papers for QBCore using qb-target / qb-menu|11|2021-12-20|2021-12-06|
+|31|[overextended/pe-lualib](https://github.com/overextended/pe-lualib)|A collection of Lua functions for importing into other resources.|11|2022-02-10|2021-10-30|
+|32|[lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim)|A bookmark plugin.|11|2021-12-07|2021-10-23|
 |33|[rudism/telescope-dict.nvim](https://github.com/rudism/telescope-dict.nvim)|A Telescope extension to open a list of synonyms with definitions for a word.|10|2021-09-11|2021-09-04|
 |34|[defold/sample-lights-and-shadows](https://github.com/defold/sample-lights-and-shadows)|Example of how to achieve pixel perfect shadows in a 2D view|10|2022-02-06|2021-07-22|
 |35|[lifelike/pangamebook](https://github.com/lifelike/pangamebook)|Lua-filter for Pandoc to generate gamebook by shuffling headers and changing to numbers|10|2021-10-05|2021-04-14|
@@ -53,7 +53,7 @@
 |46|[SpyricGames/Solar2D-Plugins-Public](https://github.com/SpyricGames/Solar2D-Plugins-Public)|A small collection of publicly available Solar2D plugins created by Spyric Games Ltd.|6|2021-12-28|2021-04-17|
 |47|[NarutoXY/graphene.lua](https://github.com/NarutoXY/graphene.lua)|Beautiful code snippet images right in the most epic editor :chef_kiss:|5|2022-01-31|2021-12-24|
 |48|[notomo/cmp-neosnippet](https://github.com/notomo/cmp-neosnippet)|nvim-cmp source for neosnippet|5|2022-01-06|2021-09-19|
-|49|[MetaIdea/nms-amumss-lua-mod-script-collection](https://github.com/MetaIdea/nms-amumss-lua-mod-script-collection)|A collection of public amumss lua mod scripts for nms.|5|2022-02-10|2021-06-23|
+|49|[MetaIdea/nms-amumss-lua-mod-script-collection](https://github.com/MetaIdea/nms-amumss-lua-mod-script-collection)|A collection of public amumss lua mod scripts for nms.|5|2022-02-11|2021-06-23|
 |50|[wslu42/QArcade](https://github.com/wslu42/QArcade)|A table-top arcade machine for quantum game developers, including open-sourcing the entire tutorials from coding to arcade schematics.|5|2021-10-15|2021-04-14|
 |51|[Xeavin/The-Insurgents-Graveyard](https://github.com/Xeavin/The-Insurgents-Graveyard)|A collection of FFXII LUA scripts that didn't fit into any of my mods or that were requested and created for others.|5|2022-01-03|2021-04-11|
 |52|[fseeeye/EyeEngine-Cpp](https://github.com/fseeeye/EyeEngine-Cpp)|My first Real-Time 3D Game Engine learning project written in C++.|4|2021-12-27|2021-12-23|
