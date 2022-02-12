@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -60,7 +60,7 @@
 |53|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
 |54|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-01-20|2021-08-02|
 |55|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|56|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-09|2021-05-26|
+|56|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-12|2021-05-26|
 |57|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
 |58|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
 |59|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|

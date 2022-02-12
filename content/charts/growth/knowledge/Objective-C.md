@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4835|6|2022-01-15|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4841|6|2022-01-15|
 |2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13882|4|2022-01-23|
 |3|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2093|1|2021-11-22|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
-|5|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2853|1|2021-09-21|
+|5|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2854|1|2022-02-12|
 |6|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1660|1|2021-11-02|
 |7|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3301|1|2021-12-04|
 |8|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1759|1|2022-01-10|
-|9|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|444|1|2022-02-11|
+|9|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|444|1|2022-02-12|
 |10|[bimsina/SortingAlgorithmsVisualizer](https://github.com/bimsina/SortingAlgorithmsVisualizer)|Sorting algorithms visualizer in Flutter.|54|0|2021-09-07|
 |11|[gemu2015/cocotron-sierra](https://github.com/gemu2015/cocotron-sierra)|clone of cocotron master adapted for OSX Sierra|7|0|2021-10-20|
 |12|[kurtsev0103/godot-facebook-auth](https://github.com/kurtsev0103/godot-facebook-auth)|Plugin for authorization with Facebook for Godot Game Engine (iOS)|5|0|2021-12-07|
@@ -28,7 +28,7 @@
 |21|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|44|0|2022-02-01|
 |22|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |8|0|2021-12-15|
 |23|[yatharthrajput/BMI](https://github.com/yatharthrajput/BMI)|BMI Calculator 💪 Our Goal The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no mat ...|8|0|2021-12-09|
-|24|[ck3g/RNAnimationExamples](https://github.com/ck3g/RNAnimationExamples)|Contains various examples of React Native animation|12|0|2021-09-21|
+|24|[ck3g/RNAnimationExamples](https://github.com/ck3g/RNAnimationExamples)|Contains various examples of React Native animation|12|0|2022-02-11|
 |25|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|7|0|2021-12-06|
 |26|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|4|0|2022-01-17|
 |27|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|82|0|2022-02-07|
@@ -52,34 +52,34 @@
 |45|[McDo/tipop](https://github.com/McDo/tipop)|titanium client for facebook pop|72|0|2021-09-13|
 |46|[defold/extension-facebook](https://github.com/defold/extension-facebook)|Facebook extension using the official SDKs|9|0|2021-12-31|
 |47|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|0|2021-11-29|
-|48|[jakallergis/react-native-google-maps-tutorial](https://github.com/jakallergis/react-native-google-maps-tutorial)|A tutorial on how to use react-native-maps with Google Maps in React Native|6|0|2021-09-21|
+|48|[jakallergis/react-native-google-maps-tutorial](https://github.com/jakallergis/react-native-google-maps-tutorial)|A tutorial on how to use react-native-maps with Google Maps in React Native|6|0|2022-02-12|
 |49|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|0|2021-11-02|
 |50|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2022-02-11|
 |51|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|90|0|2021-11-27|
 |52|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|455|0|2021-12-24|
-|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1210|0|2022-02-11|
-|54|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2021-09-21|
+|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1211|0|2022-02-12|
+|54|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2022-02-12|
 |55|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|0|2022-01-15|
 |56|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
 |57|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|2|0|2022-02-04|
-|58|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-02-07|
+|58|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-02-12|
 |59|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
 |60|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
 |61|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|8|0|2021-11-01|
 |62|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|5|0|2022-02-09|
 |63|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|0|2021-12-28|
 |64|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|92|0|2022-02-11|
-|65|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|6|0|2021-09-27|
+|65|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|7|0|2021-09-27|
 |66|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|444|0|2022-01-06|
 |67|[priore/SocialEngine](https://github.com/priore/SocialEngine)|With SocialEngine you can simplify retrieving information for a iOS Facebook or Twitter account and simplify the sharing.|2|0|2022-01-27|
 |68|[Yang3100/ShareDemo](https://github.com/Yang3100/ShareDemo)|Share demo|2|0|2021-11-19|
-|69|[khanhphamqn/loginFacebook](https://github.com/khanhphamqn/loginFacebook)|react native login facebook without using cocoapods|3|0|2021-09-21|
+|69|[khanhphamqn/loginFacebook](https://github.com/khanhphamqn/loginFacebook)|react native login facebook without using cocoapods|3|0|2022-02-12|
 |70|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|295|0|2021-09-30|
 |71|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|0|2021-10-02|
 |72|[c1d3rdev/ChatHeads](https://github.com/c1d3rdev/ChatHeads)|Floating ChatHeads, inspired by Facebook, for jailbroken devices|3|0|2021-11-18|
 |73|[Wolfgang89/NoTiToBroadNSE](https://github.com/Wolfgang89/NoTiToBroadNSE)|A boilerplate project  how to broadcast a mp3 audiofile using NSE.|8|0|2021-11-18|
 |74|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|0|2021-12-04|
-|75|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|53|0|2021-09-21|
+|75|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|53|0|2022-02-12|
 |76|[spilliams/iOS-Toolkit](https://github.com/spilliams/iOS-Toolkit)|A collection of tidbits useful to iOS projects|2|0|2021-08-25|
 |77|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|141|0|2022-01-20|
 |78|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|

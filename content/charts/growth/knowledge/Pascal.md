@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -23,7 +23,7 @@
 |16|[CleverComponents/OpenSSL-With-Memory-Bios](https://github.com/CleverComponents/OpenSSL-With-Memory-Bios)|A simple Delphi project to learn the TLS handshake implementation using OpenSSL 3.0 Memory BIOs.|4|0|2022-01-31|
 |17|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|126|0|2021-10-26|
 |18|[r57zone/Home-Library](https://github.com/r57zone/Home-Library)|Catalog for movies, tv shows, games and books / Каталог для фильмов, сериалов, игр и книг|9|0|2022-01-16|
-|19|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|0|2022-02-09|
+|19|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|0|2022-02-12|
 |20|[SNEG-DEV/siege-of-avalon](https://github.com/SNEG-DEV/siege-of-avalon)|"Siege of Avalon: Anthology” Remastered : Open Source|35|0|2022-01-23|
 |21|[dalijap/code-delphi-async](https://github.com/dalijap/code-delphi-async)|Code examples from Delphi Event-based and Asynchronous Programming Book|23|0|2022-01-22|
 |22|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|0|2021-12-12|
@@ -52,7 +52,7 @@
 |45|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2022-02-09|
 |46|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|7|0|2022-01-31|
 |47|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|0|2022-02-09|
-|48|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|19|0|2022-01-23|
+|48|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|19|0|2022-02-12|
 |49|[isemenkov/libpasc-algorithms](https://github.com/isemenkov/libpasc-algorithms)|libPasC-Algorithms is delphi and object pascal library of common data structures and algorithms. The library is a set of containers adapted for the Pascal language and the template system available on ...|12|0|2021-10-30|
 
 <div align="center">
