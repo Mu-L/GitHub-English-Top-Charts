@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,13 +14,13 @@
 |7|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |8|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-02-11|2021-09-07|
 |9|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
-|10|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2022-01-04|2021-03-12|
-|11|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|5|2022-01-15|2021-12-03|
-|12|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
-|13|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|5|2021-09-04|2021-09-04|
-|14|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
-|15|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
-|16|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|5|2021-12-27|2021-05-05|
+|10|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2021-12-27|2021-05-05|
+|11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2022-01-04|2021-03-12|
+|12|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|5|2022-01-15|2021-12-03|
+|13|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
+|14|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|5|2021-09-04|2021-09-04|
+|15|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
+|16|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
 |17|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
 |18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-10|2021-10-05|
 |19|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
@@ -31,7 +31,7 @@
 |24|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
 |25|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
 |26|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
-|27|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-01-19|2021-05-02|
+|27|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-02-13|2021-05-02|
 |28|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|2|2022-02-10|2022-02-04|
 |29|[aws-samples/serverless-groovy-demo](https://github.com/aws-samples/serverless-groovy-demo)|-|2|2022-01-31|2022-01-11|
 |30|[Nyariki/Terraform-Multipass-With-Cloud-Init](https://github.com/Nyariki/Terraform-Multipass-With-Cloud-Init)|-|2|2022-01-07|2022-01-04|
@@ -51,7 +51,7 @@
 |44|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
 |45|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
 |46|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
-|47|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2021-12-20|2021-08-28|
+|47|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-02-13|2021-08-28|
 |48|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |49|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
 |50|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|

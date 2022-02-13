@@ -1,72 +1,72 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > PHP
-<sub>Updated: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|36906|2022-02-10|
-|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20304|2022-01-09|
-|3|[docker/labs](https://github.com/docker/labs)|This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.|10557|2022-02-11|
+|1|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|36926|2022-02-10|
+|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20306|2022-01-09|
+|3|[docker/labs](https://github.com/docker/labs)|This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.|10559|2022-02-11|
 |4|[sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator)|FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.|6916|2022-02-11|
-|5|[DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)|[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.|6884|2021-10-20|
-|6|[Laravel-Lang/lang](https://github.com/Laravel-Lang/lang)|List of 78 languages for Laravel Framework 4-9, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.|6411|2022-02-12|
-|7|[electerious/Lychee](https://github.com/electerious/Lychee)|A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|5989|2022-01-08|
-|8|[php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver)|PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver|4510|2022-02-10|
+|5|[DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)|[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.|6886|2021-10-20|
+|6|[Laravel-Lang/lang](https://github.com/Laravel-Lang/lang)|List of 78 languages for Laravel Framework 4-9, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.|6412|2022-02-13|
+|7|[electerious/Lychee](https://github.com/electerious/Lychee)|A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|5990|2022-01-08|
+|8|[php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver)|PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver|4511|2022-02-10|
 |9|[moodle/moodle](https://github.com/moodle/moodle)|Moodle - the world's open source learning platform|4022|2022-02-11|
 |10|[booksbyus/zguide](https://github.com/booksbyus/zguide)|Learning and Using ØMQ|3198|2021-12-31|
 |11|[facebookarchive/php-graph-sdk](https://github.com/facebookarchive/php-graph-sdk)|The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.com/docs/php|3079|2022-01-11|
-|12|[laravel-filament/filament](https://github.com/laravel-filament/filament)|A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.|2723|2022-02-12|
-|13|[symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu)|This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.|2305|2022-01-05|
-|14|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2286|2021-12-05|
-|15|[Behat/Transliterator](https://github.com/Behat/Transliterator)|Behat Transliterator library inherited from Doctrine1 and used in Behat for snippet generation|1882|2022-01-10|
+|12|[laravel-filament/filament](https://github.com/laravel-filament/filament)|A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.|2731|2022-02-13|
+|13|[symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu)|This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.|2304|2022-01-05|
+|14|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2288|2021-12-05|
+|15|[Behat/Transliterator](https://github.com/Behat/Transliterator)|Behat Transliterator library inherited from Doctrine1 and used in Behat for snippet generation|1881|2022-01-10|
 |16|[matthiasmullie/minify](https://github.com/matthiasmullie/minify)|CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern ...|1717|2022-01-14|
-|17|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1536|2022-02-12|
+|17|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1537|2022-02-13|
 |18|[themsaid/ibis](https://github.com/themsaid/ibis)|A PHP tool that helps you write eBooks in markdown and convert to PDF.|1465|2021-12-16|
-|19|[LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)| A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|1391|2022-02-11|
-|20|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|1372|2022-02-07|
+|19|[LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)| A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|1391|2022-02-12|
+|20|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|1373|2022-02-07|
 |21|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1275|2022-02-03|
 |22|[sparrowcode/awesome-ios](https://github.com/sparrowcode/awesome-ios)|A collaborative list of awesome for iOS developers. Include quick preview.|1255|2022-02-01|
 |23|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|2021-12-12|
-|24|[Kovah/LinkAce](https://github.com/Kovah/LinkAce)|Your self-hosted bookmark archive. Free and open source.|1065|2022-02-12|
-|25|[doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms)|A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell|898|2022-02-07|
+|24|[Kovah/LinkAce](https://github.com/Kovah/LinkAce)|Your self-hosted bookmark archive. Free and open source.|1070|2022-02-12|
+|25|[doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms)|A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell|899|2022-02-07|
 |26|[3masterplus/book](https://github.com/3masterplus/book)|Book PDF|861|2021-09-22|
 |27|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|842|2022-02-12|
-|28|[projectsend/projectsend](https://github.com/projectsend/projectsend)|ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua ...|808|2022-02-08|
+|28|[projectsend/projectsend](https://github.com/projectsend/projectsend)|ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua ...|810|2022-02-08|
 |29|[GoogleCloudPlatform/php-docs-samples](https://github.com/GoogleCloudPlatform/php-docs-samples)|A collection of samples that demonstrate how to call Google Cloud services from PHP.|802|2022-02-11|
 |30|[sebastianbergmann/type](https://github.com/sebastianbergmann/type)|Collection of value objects that represent the types of the PHP type system|801|2022-02-08|
 |31|[aleron75/mageres](https://github.com/aleron75/mageres)|A list of useful Magento technical resources|793|2022-02-06|
-|32|[RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php)|Design Pattern Examples in PHP|773|2022-01-12|
+|32|[RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php)|Design Pattern Examples in PHP|774|2022-01-12|
 |33|[JBZoo/Utils](https://github.com/JBZoo/Utils)|Collection of useful PHP functions, mini-classes, and snippets for every day.|771|2021-12-26|
 |34|[goodnesskay/Laravel-Open-Source-Projects](https://github.com/goodnesskay/Laravel-Open-Source-Projects)|A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework.|761|2021-09-14|
 |35|[Setasign/FPDI](https://github.com/Setasign/FPDI)|FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.|724|2021-10-21|
-|36|[coduo/php-matcher](https://github.com/coduo/php-matcher)|The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:|721|2022-02-08|
-|37|[devaneando/Wikitten](https://github.com/devaneando/Wikitten)|Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.|704|2021-10-11|
+|36|[coduo/php-matcher](https://github.com/coduo/php-matcher)|The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:|720|2022-02-08|
+|37|[devaneando/Wikitten](https://github.com/devaneando/Wikitten)|Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.|704|2022-02-13|
 |38|[globocom/secDevLabs](https://github.com/globocom/secDevLabs)|A laboratory for learning secure web and mobile development in a practical manner.|641|2021-11-12|
-|39|[HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare)|:camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:|637|2022-01-31|
+|39|[HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare)|:camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:|638|2022-01-31|
 |40|[Automattic/facebook-instant-articles-wp](https://github.com/Automattic/facebook-instant-articles-wp)|Enable Facebook Instant Articles on your WordPress site.|629|2021-09-27|
 |41|[chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms)|Chamilo is a learning management system focused on ease of use and accessibility|611|2022-02-11|
-|42|[TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP)|All Algorithms implemented in Php|609|2022-01-29|
-|43|[sandreas/m4b-tool](https://github.com/sandreas/m4b-tool)|m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b|599|2022-02-08|
-|44|[elabftw/elabftw](https://github.com/elabftw/elabftw)|:notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.|590|2022-02-12|
-|45|[carlosflorencio/laracasts-downloader](https://github.com/carlosflorencio/laracasts-downloader)|Downloads new lessons and series from laracasts if there are updates. Or the whole catalogue.|580|2021-12-10|
-|46|[SergiX44/XBackBone](https://github.com/SergiX44/XBackBone)|A lightweight file manager with full ShareX, Screencloud support and more|556|2022-02-08|
+|42|[TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP)|All Algorithms implemented in Php|610|2022-01-29|
+|43|[sandreas/m4b-tool](https://github.com/sandreas/m4b-tool)|m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b|600|2022-02-08|
+|44|[elabftw/elabftw](https://github.com/elabftw/elabftw)|:notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.|590|2022-02-13|
+|45|[carlosflorencio/laracasts-downloader](https://github.com/carlosflorencio/laracasts-downloader)|Downloads new lessons and series from laracasts if there are updates. Or the whole catalogue.|579|2021-12-10|
+|46|[SergiX44/XBackBone](https://github.com/SergiX44/XBackBone)|A lightweight file manager with full ShareX, Screencloud support and more|556|2022-02-12|
 |47|[pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs)|:notebook: Display better summary after Composer update|553|2021-10-12|
 |48|[opengovfoundation/madison](https://github.com/opengovfoundation/madison)|Madison is a platform for lawmakers to share legislation with their citizens, allowing the community to add comments and suggest improvements.|537|2022-01-15|
-|49|[WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered)|Wordpress Plugin Boilerplate but Powered with examples and a generator!|513|2022-02-03|
+|49|[WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered)|Wordpress Plugin Boilerplate but Powered with examples and a generator!|514|2022-02-03|
 |50|[sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit)|Collection of value objects that represent the PHP code units|499|2022-02-08|
 |51|[discourse/wp-discourse](https://github.com/discourse/wp-discourse)|WordPress plugin that lets you use Discourse as the community engine for a WordPress blog|490|2022-02-10|
 |52|[webkul/hotelcommerce](https://github.com/webkul/hotelcommerce)|Hotel & Booking Reservation Ecommerce system on Prestashop|485|2022-02-11|
 |53|[davemo/end-to-end-with-angularjs](https://github.com/davemo/end-to-end-with-angularjs)|An intermediate/advanced look at how to use Angular JS in conjunction with a server-side.|448|2021-11-20|
 |54|[rinvex/laravel-bookings](https://github.com/rinvex/laravel-bookings)|Rinvex Bookable is a generic resource booking system for Laravel, with the required tools to run your SAAS like services efficiently. It's simple architecture, accompanied by powerful underlying to af ...|428|2022-01-28|
 |55|[consolibyte/quickbooks-php](https://github.com/consolibyte/quickbooks-php)|QuickBooks Integration for PHP|427|2022-01-25|
-|56|[alexpechkarev/google-maps](https://github.com/alexpechkarev/google-maps)|Collection of Google Maps API Web Services for Laravel|420|2022-02-11|
-|57|[antoinevulcain/Financial-Modeling-Prep-API](https://github.com/antoinevulcain/Financial-Modeling-Prep-API)|A brief description on how to use Financial Modeling Prep Api |406|2021-11-27|
-|58|[warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit)|a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.|405|2022-02-05|
+|56|[alexpechkarev/google-maps](https://github.com/alexpechkarev/google-maps)|Collection of Google Maps API Web Services for Laravel|421|2022-02-13|
+|57|[warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit)|a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.|406|2022-02-05|
+|58|[antoinevulcain/Financial-Modeling-Prep-API](https://github.com/antoinevulcain/Financial-Modeling-Prep-API)|A brief description on how to use Financial Modeling Prep Api |406|2021-11-27|
 |59|[mexitek/phpColors](https://github.com/mexitek/phpColors)|A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly.|401|2021-11-26|
 |60|[nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful)|Collection of scripts, thoughts about CSP (Content Security Policy)|400|2021-12-23|
-|61|[10up/distributor](https://github.com/10up/distributor)|Share content between your websites.|398|2022-02-11|
-|62|[jorenvh/laravel-share](https://github.com/jorenvh/laravel-share)|Optional package for Laravel to generate social share links.|394|2022-02-11|
+|61|[jorenvh/laravel-share](https://github.com/jorenvh/laravel-share)|Optional package for Laravel to generate social share links.|398|2022-02-11|
+|62|[10up/distributor](https://github.com/10up/distributor)|Share content between your websites.|398|2022-02-11|
 |63|[vincentorback/clean-wordpress-admin](https://github.com/vincentorback/clean-wordpress-admin)|A collection of functions to clean up WordPress|392|2021-10-07|
 |64|[php-opencv/php-opencv-examples](https://github.com/php-opencv/php-opencv-examples)|Tutorial for computer vision and machine learning in PHP 7/8 by opencv (installation + examples + documentation)|380|2021-08-16|
 |65|[symfony/lock](https://github.com/symfony/lock)|  Creates and manages locks, a mechanism to provide exclusive access to a shared resource.|375|2022-02-11|
@@ -81,7 +81,7 @@
 |74|[coderello/laravel-shared-data](https://github.com/coderello/laravel-shared-data)|📦 An easy way to share the data from your backend to the JavaScript.|324|2021-10-22|
 |75|[imanghafoori1/laravel-MasterPass](https://github.com/imanghafoori1/laravel-MasterPass)|Helps you securely setup a master password and login into user accounts with it.|320|2022-01-18|
 |76|[overtrue/laravel-socialite](https://github.com/overtrue/laravel-socialite)|:octocat: Social OAuth Authentication for Laravel 5. drivers: facebook, github, google, linkedin, weibo, qq, wechat and douban|317|2021-11-30|
-|77|[DanWin/hosting](https://github.com/DanWin/hosting)|This is a setup for a Tor based shared web hosting server|286|2022-02-06|
+|77|[DanWin/hosting](https://github.com/DanWin/hosting)|This is a setup for a Tor based shared web hosting server|286|2022-02-13|
 |78|[coderstape/freeCodeGram](https://github.com/coderstape/freeCodeGram)|Companion code for the Laravel from Scratch Complete Course on freecodecamp.org|283|2022-02-12|
 |79|[Colllect/Colllect](https://github.com/Colllect/Colllect)|Your visual bookmark manager|276|2022-02-11|
 |80|[phpearth/docs](https://github.com/phpearth/docs)|🎓 Collection of useful PHP frequently asked questions, articles and best practices|276|2022-02-11|
@@ -104,7 +104,7 @@
 |97|[LearnPress/learnpress](https://github.com/LearnPress/learnpress)|LearnPress WordPress LMS Plugin by ThimPress|188|2022-02-12|
 |98|[nextcloud/groupfolders](https://github.com/nextcloud/groupfolders)|📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.|187|2022-02-12|
 |99|[WordPress/meta-environment](https://github.com/WordPress/meta-environment)|A collection of scripts that provision the official WordPress.org websites into a Varying Vagrant Vagrants installation.|185|2022-02-09|
-|100|[m1k1o/blog](https://github.com/m1k1o/blog)|Lightweight self-hosted facebook-styled PHP blog.|179|2022-01-15|
+|100|[m1k1o/blog](https://github.com/m1k1o/blog)|Lightweight self-hosted facebook-styled PHP blog.|180|2022-01-15|
 |101|[ARCANEDEV/Support](https://github.com/ARCANEDEV/Support)|:muscle: Support package is a collection of helpers and tools for ARCANEDEV + Laravel projects.|175|2022-02-10|
 |102|[bueltge/multisite-global-media](https://github.com/bueltge/multisite-global-media)|Share a media library across the WordPress Multisite network|174|2022-01-11|
 |103|[effgarces/BookedScheduler](https://github.com/effgarces/BookedScheduler)|Repository for the last open source version of Booked Scheduler. The "develop" branch contains the most current working code of the project and should be considered beta. The "master" branch is the mo ...|170|2022-02-12|
@@ -112,16 +112,16 @@
 |105|[sansecio/magevulndb](https://github.com/sansecio/magevulndb)|List of Magento extensions with known security issues. |161|2022-02-03|
 |106|[ElzeroWebSchool/eCommerceCourse](https://github.com/ElzeroWebSchool/eCommerceCourse)|This Files For eCommerce Course Found Here: https://goo.gl/hTL1q0|161|2022-02-09|
 |107|[caxy/php-htmldiff](https://github.com/caxy/php-htmldiff)|A library for comparing two HTML files/snippets and highlighting the differences using simple HTML. Includes support for comparing complex lists and tables|161|2022-01-20|
-|108|[volkszaehler/volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org)|Open Source Smart Meter with focus on privacy - you remain the master of your data.|160|2022-02-07|
+|108|[volkszaehler/volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org)|Open Source Smart Meter with focus on privacy - you remain the master of your data.|161|2022-02-07|
 |109|[infinite-networks/InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle)|A collection of useful form types and extensions for Symfony.|157|2022-01-29|
 |110|[csev/wa4e](https://github.com/csev/wa4e)|Course materials for www.wa4e.com|156|2022-01-23|
-|111|[christophrumpel/larastreamers](https://github.com/christophrumpel/larastreamers)|There is no better way to learn than by watching other developers code live. Find out who is streaming next in the Laravel world.|154|2022-02-11|
-|112|[stripe-samples/accept-a-payment](https://github.com/stripe-samples/accept-a-payment)|Learn how to accept a payment from customers around the world with a variety of payment methods.|154|2022-02-09|
+|111|[stripe-samples/accept-a-payment](https://github.com/stripe-samples/accept-a-payment)|Learn how to accept a payment from customers around the world with a variety of payment methods.|155|2022-02-09|
+|112|[christophrumpel/larastreamers](https://github.com/christophrumpel/larastreamers)|There is no better way to learn than by watching other developers code live. Find out who is streaming next in the Laravel world.|154|2022-02-11|
 |113|[Hube2/acf-dynamic-ajax-select-example](https://github.com/Hube2/acf-dynamic-ajax-select-example)|Examples of dynamically loading values with AJAX based on other fields|153|2021-10-22|
 |114|[Label84/laravel-hours-helper](https://github.com/Label84/laravel-hours-helper)|Create a Collection of dates/times with a specific interval for a specific period.|147|2022-01-15|
 |115|[Roomify/bat](https://github.com/Roomify/bat)|A Booking and Availability Management Library for PHP|143|2021-11-12|
 |116|[olegkrivtsov/using-zf3-book-samples](https://github.com/olegkrivtsov/using-zf3-book-samples)|Samples for the Using Zend Framework 3 book|142|2021-10-20|
-|117|[TheDragonCode/laravel-migration-actions](https://github.com/TheDragonCode/laravel-migration-actions)|Performing actions with saving the list of called files|139|2022-02-11|
+|117|[TheDragonCode/laravel-migration-actions](https://github.com/TheDragonCode/laravel-migration-actions)|Performing actions with saving the list of called files|139|2022-02-12|
 |118|[debuggable/php_arrays](https://github.com/debuggable/php_arrays)|A collection of useful PHP arrays. Please fork & contribute!|139|2021-11-06|
 |119|[juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples)|📦 Examples and sample projects using Vercel platform|137|2022-02-11|
 |120|[spbooks/phpmysql6](https://github.com/spbooks/phpmysql6)|Code archive for the book PHP: Novice to Ninja, 6th Edition|137|2021-09-25|
@@ -139,35 +139,35 @@
 |132|[shuchkin/simplexls](https://github.com/shuchkin/simplexls)|Parse and retrieve data from old format Excel XLS files. MS Excel 97 workbooks PHP reader.|124|2021-11-30|
 |133|[illuminatech/balance](https://github.com/illuminatech/balance)|Balance accounting (bookkeeping) system based on debit and credit principle|121|2022-02-09|
 |134|[w3develops/w3develops](https://github.com/w3develops/w3develops)|The w3develops.org open source codebase - Learn, build, and meetup with other developers on  DISCORD https://discord.gg/WphGvTT and YOUTUBE http://bit.ly/codingyt|121|2022-02-11|
-|135|[codecourse/posty-traversy-media](https://github.com/codecourse/posty-traversy-media)|Posty project code from the Traversy Media Laravel crash course|115|2021-11-09|
-|136|[nextcloud/circles](https://github.com/nextcloud/circles)|👪 Create groups with other users on a Nextcloud instance and share with them|115|2022-02-11|
+|135|[nextcloud/circles](https://github.com/nextcloud/circles)|👪 Create groups with other users on a Nextcloud instance and share with them|116|2022-02-11|
+|136|[codecourse/posty-traversy-media](https://github.com/codecourse/posty-traversy-media)|Posty project code from the Traversy Media Laravel crash course|115|2021-11-09|
 |137|[impress-org/givewp-snippet-library](https://github.com/impress-org/givewp-snippet-library)|A collection of code snippets to enhance or expand on the free Give WordPress Donation Plugin. |114|2021-10-26|
 |138|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |113|2021-10-21|
 |139|[PressForward/pressforward](https://github.com/PressForward/pressforward)|PressForward is a free plugin that provides an editorial workflow for content aggregation and curation within the WordPress dashboard. It is designed for bloggers and editorial teams who wish to colle ...|113|2022-02-10|
 |140|[codeigniter4projects/playground](https://github.com/codeigniter4projects/playground)|A space to learn and experience CodeIgniter 4|111|2022-02-09|
-|141|[ashsmith/magento2-blog-module-tutorial](https://github.com/ashsmith/magento2-blog-module-tutorial)|A tutorial on how create a magento 2 module from scratch, with tests.|109|2021-09-13|
-|142|[craigrodway/classroombookings](https://github.com/craigrodway/classroombookings)|The open source hassle-free room booking system for schools|109|2022-01-29|
+|141|[craigrodway/classroombookings](https://github.com/craigrodway/classroombookings)|The open source hassle-free room booking system for schools|110|2022-01-29|
+|142|[ashsmith/magento2-blog-module-tutorial](https://github.com/ashsmith/magento2-blog-module-tutorial)|A tutorial on how create a magento 2 module from scratch, with tests.|109|2021-09-13|
 |143|[Katamaze/WHMCS-Action-Hook-Factory](https://github.com/Katamaze/WHMCS-Action-Hook-Factory)|Free collection of Action Hooks, Reports and Modules to perfect your WHMCS|107|2022-01-10|
 |144|[andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup)|Example on how to run Vite on traditional PHP sites|106|2022-02-10|
 |145|[mll-lab/graphql-php-scalars](https://github.com/mll-lab/graphql-php-scalars)|A collection of custom scalar types for usage with https://github.com/webonyx/graphql-php|106|2022-01-28|
 |146|[flusio/flusio](https://github.com/flusio/flusio)|Aggregate, save and share links from all over the Web.|104|2022-02-11|
-|147|[nairuzabulhul/R3d-Buck3T](https://github.com/nairuzabulhul/R3d-Buck3T)|Penetration Testing, Vulnerability Assessment and Red Team Learning|104|2022-02-12|
+|147|[nairuzabulhul/R3d-Buck3T](https://github.com/nairuzabulhul/R3d-Buck3T)|Penetration Testing, Vulnerability Assessment and Red Team Learning|104|2022-02-13|
 |148|[brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets)|WordPress Plugin that Boost CTR. Improve SEO & Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo & Facebook.|104|2022-02-10|
 |149|[php-cache/tag-interop](https://github.com/php-cache/tag-interop)|[READ-ONLY] Shared interfaces for tags. These are soon-to-be-PSR. |103|2021-12-31|
 |150|[especializati/curso-laravel-8](https://github.com/especializati/curso-laravel-8)|Files Course Laravel 8.x|102|2022-01-27|
-|151|[blogdaren/PHPForker](https://github.com/blogdaren/PHPForker)|A simple Multi-Process programming skeleton written in PHP and learned much from Workerman, which mainly help us to find out how Workerman core works.|102|2021-09-24|
-|152|[edbizarro/laravel-facebook-ads](https://github.com/edbizarro/laravel-facebook-ads)|Facebook & Instagram Ads API for Laravel|102|2021-09-16|
-|153|[tnylea/laravel-cashier-examples](https://github.com/tnylea/laravel-cashier-examples)|Examples of using Laravel Cashier v.10|101|2022-02-12|
+|151|[edbizarro/laravel-facebook-ads](https://github.com/edbizarro/laravel-facebook-ads)|Facebook & Instagram Ads API for Laravel|102|2021-09-16|
+|152|[tnylea/laravel-cashier-examples](https://github.com/tnylea/laravel-cashier-examples)|Examples of using Laravel Cashier v.10|101|2022-02-12|
+|153|[blogdaren/PHPForker](https://github.com/blogdaren/PHPForker)|A simple Multi-Process programming skeleton written in PHP and learned much from Workerman, which mainly help us to find out how Workerman core works.|101|2021-09-24|
 |154|[petanikode/tutorial-codeigniter](https://github.com/petanikode/tutorial-codeigniter)|Tutorial Codeigniter untuk pemula|99|2021-10-05|
 |155|[pmlic/PHP-ML-study](https://github.com/pmlic/PHP-ML-study)|This is a PHP-ML Chinese learning example|99|2021-08-20|
 |156|[zoonman/linkedin-api-php-client](https://github.com/zoonman/linkedin-api-php-client)|LinkedIn API PHP SDK with OAuth 2 support. Can be used for social sign in or sharing on LinkedIn. Has a good usage examples|97|2022-01-04|
 |157|[CasperLaiTW/laravel-fb-messenger](https://github.com/CasperLaiTW/laravel-fb-messenger)|Laravel Facebook Messenger Provider|96|2021-10-27|
 |158|[utopia-php/framework](https://github.com/utopia-php/framework)|Lite & fast micro PHP framework that is **easy to learn**.|93|2022-02-11|
 |159|[deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)|Learn Swoole by Examples|92|2021-10-06|
-|160|[piotr-jura-udemy/laravel-vue-spa-course](https://github.com/piotr-jura-udemy/laravel-vue-spa-course)|Laravel & Vue.js SPA course on Udemy|91|2021-10-06|
-|161|[symbiote/silverstripe-gridfieldextensions](https://github.com/symbiote/silverstripe-gridfieldextensions)|A collection of useful grid field components.|91|2022-02-12|
-|162|[DanielHe4rt/basement-lms](https://github.com/DanielHe4rt/basement-lms)|Laravel Learning Management System (LMS) |90|2021-10-06|
-|163|[boxbilling/extensions](https://github.com/boxbilling/extensions)|This repository is dedicated to BoxBilling Extensions. Create Extensions for BoxBilling and share them with a world.|90|2021-10-27|
+|160|[DanielHe4rt/basement-lms](https://github.com/DanielHe4rt/basement-lms)|Laravel Learning Management System (LMS) |91|2021-10-06|
+|161|[piotr-jura-udemy/laravel-vue-spa-course](https://github.com/piotr-jura-udemy/laravel-vue-spa-course)|Laravel & Vue.js SPA course on Udemy|91|2022-02-12|
+|162|[symbiote/silverstripe-gridfieldextensions](https://github.com/symbiote/silverstripe-gridfieldextensions)|A collection of useful grid field components.|91|2022-02-12|
+|163|[boxbilling/extensions](https://github.com/boxbilling/extensions)|This repository is dedicated to BoxBilling Extensions. Create Extensions for BoxBilling and share them with a world.|91|2021-10-27|
 |164|[piotr-jura-udemy/laravel-course](https://github.com/piotr-jura-udemy/laravel-course)|Laravel Essentials Udemy course Full Source Code|89|2022-02-12|
 |165|[jakezatecky/array_group_by](https://github.com/jakezatecky/array_group_by)|A PHP function that groups an array by a key or set of keys shared between all array members.|89|2021-08-17|
 |166|[modx-pro/pdoTools](https://github.com/modx-pro/pdoTools)|Library for creating fast snippets for MODX Revolution.|89|2022-01-25|
@@ -191,13 +191,13 @@
 |184|[datenbrei/blogless](https://github.com/datenbrei/blogless)|The Blogless publishing system is for web writers. Just publish, share your texts with friends and don't think about the rest.|78|2021-09-25|
 |185|[QuizandSurveyMaster/quiz_master_next](https://github.com/QuizandSurveyMaster/quiz_master_next)|Quiz And Survey Master - A WordPress Plugin For Creating Quizzes, tests, exams and surveys|78|2022-02-11|
 |186|[odan/slim4-tutorial](https://github.com/odan/slim4-tutorial)|Slim 4 Tutorial - Source Code|77|2021-09-14|
-|187|[hkmsadek/fullstack-laravel-vue](https://github.com/hkmsadek/fullstack-laravel-vue)|This repo is the source code of the video series of fullstack laravel vue.js tutorial https://www.youtube.com/watch?v=iHHBb-9455s&list=PLKpfEl4N7tRqIx4VZmuZBnUQ6vG4uDgq7|76|2021-10-06|
-|188|[adv4000/k8s-lessons](https://github.com/adv4000/k8s-lessons)|Kubernetes Course Lessons|76|2022-01-22|
-|189|[WordPress/performance](https://github.com/WordPress/performance)|Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.|75|2022-02-12|
+|187|[WordPress/performance](https://github.com/WordPress/performance)|Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.|76|2022-02-12|
+|188|[hkmsadek/fullstack-laravel-vue](https://github.com/hkmsadek/fullstack-laravel-vue)|This repo is the source code of the video series of fullstack laravel vue.js tutorial https://www.youtube.com/watch?v=iHHBb-9455s&list=PLKpfEl4N7tRqIx4VZmuZBnUQ6vG4uDgq7|76|2022-02-13|
+|189|[adv4000/k8s-lessons](https://github.com/adv4000/k8s-lessons)|Kubernetes Course Lessons|76|2022-01-22|
 |190|[tmarois/laravel-ads-sdk](https://github.com/tmarois/laravel-ads-sdk)|PHP SDK for Google Ads, Bing Ads, and Facebook Ads API  for Laravel|71|2021-12-27|
 |191|[inpsyde/php-coding-standards](https://github.com/inpsyde/php-coding-standards)|Style guide for writing consistent PHP for WordPress projects.|71|2022-01-29|
-|192|[mmikkel/Retcon-Craft](https://github.com/mmikkel/Retcon-Craft)|A collection of powerful Twig filters for modifying HTML|70|2021-10-22|
-|193|[creativecommons/wp-plugin-creativecommons](https://github.com/creativecommons/wp-plugin-creativecommons)|Official Creative Commons plugin for licensing your content. With Creative Commons licenses, keep your copyright AND share your creativity.|70|2021-10-25|
+|192|[creativecommons/wp-plugin-creativecommons](https://github.com/creativecommons/wp-plugin-creativecommons)|Official Creative Commons plugin for licensing your content. With Creative Commons licenses, keep your copyright AND share your creativity.|71|2021-10-25|
+|193|[mmikkel/Retcon-Craft](https://github.com/mmikkel/Retcon-Craft)|A collection of powerful Twig filters for modifying HTML|70|2021-10-22|
 |194|[intraxia/wp-gistpen](https://github.com/intraxia/wp-gistpen)|A self-hosted alternative to putting your code snippets on Gist.|70|2022-02-11|
 |195|[botman/driver-facebook](https://github.com/botman/driver-facebook)|BotMan Facebook Messenger Driver|69|2021-08-23|
 |196|[snoopysecurity/Vulnerable-Code-Snippets](https://github.com/snoopysecurity/Vulnerable-Code-Snippets)|A small collection of vulnerable code snippets |68|2022-02-06|
