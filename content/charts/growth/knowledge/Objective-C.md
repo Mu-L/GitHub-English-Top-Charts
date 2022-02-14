@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4847|6|2022-01-15|
-|2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13882|4|2022-01-23|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4863|6|2022-01-15|
+|2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13884|4|2022-01-23|
 |3|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2093|1|2021-11-22|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
 |5|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2855|1|2022-02-12|
 |6|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1660|1|2021-11-02|
-|7|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3301|1|2021-12-04|
+|7|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3302|1|2021-12-04|
 |8|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1759|1|2022-01-10|
-|9|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|444|1|2022-02-12|
+|9|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|445|1|2022-02-12|
 |10|[bimsina/SortingAlgorithmsVisualizer](https://github.com/bimsina/SortingAlgorithmsVisualizer)|Sorting algorithms visualizer in Flutter.|54|0|2021-09-07|
 |11|[gemu2015/cocotron-sierra](https://github.com/gemu2015/cocotron-sierra)|clone of cocotron master adapted for OSX Sierra|7|0|2021-10-20|
 |12|[kurtsev0103/godot-facebook-auth](https://github.com/kurtsev0103/godot-facebook-auth)|Plugin for authorization with Facebook for Godot Game Engine (iOS)|5|0|2021-12-07|
@@ -32,7 +32,7 @@
 |25|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|7|0|2021-12-06|
 |26|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|4|0|2022-01-17|
 |27|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|83|0|2022-02-07|
-|28|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2022-02-12|
+|28|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2022-02-14|
 |29|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|0|2021-10-12|
 |30|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|4|0|2021-11-11|
 |31|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|161|0|2021-11-29|
@@ -57,12 +57,12 @@
 |50|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2022-02-11|
 |51|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|91|0|2021-11-27|
 |52|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|455|0|2021-12-24|
-|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1211|0|2022-02-12|
+|53|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1210|0|2022-02-14|
 |54|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2022-02-12|
 |55|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|0|2022-01-15|
 |56|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|10|0|2021-10-29|
 |57|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|2|0|2022-02-04|
-|58|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-02-12|
+|58|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-02-14|
 |59|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
 |60|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|
 |61|[EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse)|Custom MacBook keyboard backlight animations|8|0|2021-11-01|
@@ -74,7 +74,7 @@
 |67|[priore/SocialEngine](https://github.com/priore/SocialEngine)|With SocialEngine you can simplify retrieving information for a iOS Facebook or Twitter account and simplify the sharing.|2|0|2022-01-27|
 |68|[Yang3100/ShareDemo](https://github.com/Yang3100/ShareDemo)|Share demo|2|0|2021-11-19|
 |69|[khanhphamqn/loginFacebook](https://github.com/khanhphamqn/loginFacebook)|react native login facebook without using cocoapods|3|0|2022-02-12|
-|70|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|295|0|2021-09-30|
+|70|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|294|0|2021-09-30|
 |71|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|0|2021-10-02|
 |72|[c1d3rdev/ChatHeads](https://github.com/c1d3rdev/ChatHeads)|Floating ChatHeads, inspired by Facebook, for jailbroken devices|3|0|2021-11-18|
 |73|[Wolfgang89/NoTiToBroadNSE](https://github.com/Wolfgang89/NoTiToBroadNSE)|A boilerplate project  how to broadcast a mp3 audiofile using NSE.|8|0|2021-11-18|
@@ -100,19 +100,18 @@
 |93|[topher515/BoggleSolve](https://github.com/topher515/BoggleSolve)|I like to write a boggle solver in every new language I learn. Here they are!|4|0|2021-08-22|
 |94|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|12|0|2022-02-13|
 |95|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|61|0|2022-01-13|
-|96|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2021-12-22|
+|96|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|220|0|2021-12-22|
 |97|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|
 |98|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2021-11-18|
 |99|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|28|0|2021-09-07|
 |100|[shanecelis/contacts](https://github.com/shanecelis/contacts)|displays contacts from the AddressBook database|6|0|2021-11-08|
 |101|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|51|0|2021-09-02|
 |102|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|82|0|2022-02-11|
-|103|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|9|0|2021-08-15|
-|104|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|88|0|2021-12-27|
-|105|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
-|106|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|0|2022-01-20|
-|107|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
-|108|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-02-03|
+|103|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|88|0|2021-12-27|
+|104|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
+|105|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|0|2022-01-20|
+|106|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
+|107|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-02-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
