@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|15|2021-11-09|2021-10-03|
 |3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2022-01-19|2021-05-19|
-|4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|11|2022-01-27|2021-09-30|
+|4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|12|2022-01-27|2021-09-30|
 |5|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
 |6|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-01-10|2021-12-31|
 |7|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
@@ -22,7 +22,7 @@
 |15|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
 |16|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
 |17|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
-|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-14|2021-10-05|
+|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
 |19|[DarthKatrin/Games-automation-scripts](https://github.com/DarthKatrin/Games-automation-scripts)|-|4|2021-08-27|2021-08-27|
 |20|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
 |21|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
@@ -52,7 +52,7 @@
 |45|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
 |46|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
 |47|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2021-12-14|2021-08-30|
-|48|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-02-13|2021-08-28|
+|48|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-02-15|2021-08-28|
 |49|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |50|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
 |51|[jazzschmidt/gradle-docker-plugin](https://github.com/jazzschmidt/gradle-docker-plugin)|Simple docker plugin for Gradle 6+ and 7+|2|2021-08-19|2021-08-17|
