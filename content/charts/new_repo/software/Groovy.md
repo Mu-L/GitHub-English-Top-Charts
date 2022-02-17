@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -51,7 +51,7 @@
 |44|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|2|2021-12-06|2021-09-27|
 |45|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
 |46|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|-|2|2021-10-04|2021-09-04|
-|47|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-16|2021-08-30|
+|47|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-17|2021-08-30|
 |48|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-02-15|2021-08-28|
 |49|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |50|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
@@ -59,12 +59,13 @@
 |52|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
 |53|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-01-17|2021-08-11|
 |54|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
-|55|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-01-20|2021-08-02|
+|55|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
 |56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
 |57|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-12|2021-05-26|
 |58|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|59|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|60|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|59|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
+|60|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|61|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
