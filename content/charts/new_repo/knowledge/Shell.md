@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1253|2022-01-18|2021-03-05|
+|1|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1255|2022-01-18|2021-03-05|
 |2|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|253|2022-01-15|2022-01-06|
-|3|[minerproxyeth/minerproxy](https://github.com/minerproxyeth/minerproxy)|最稳定的ETH代理中转程序，已修改降低作者抽水；纯中转模式无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的骗子qq2177188143|215|2022-02-17|2022-01-16|
-|4|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|191|2022-02-15|2021-05-07|
+|3|[minerproxyeth/minerproxy](https://github.com/minerproxyeth/minerproxy)|最稳定的ETH代理中转程序，已修改降低作者抽水；纯中转模式无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的骗子qq2177188143|214|2022-02-17|2022-01-16|
+|4|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|192|2022-02-15|2021-05-07|
 |5|[mattmattox/Kubernetes-Master-Class](https://github.com/mattmattox/Kubernetes-Master-Class)|Kubernetes Master Class|152|2022-02-04|2021-05-03|
-|6|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|150|2022-02-09|2021-09-15|
-|7|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|120|2022-02-17|2021-05-07|
-|8|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|114|2022-02-09|2021-12-06|
+|6|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|149|2022-02-09|2021-09-15|
+|7|[qmlbook/qt6book](https://github.com/qmlbook/qt6book)|The Qt 6 Book - A book about QML|120|2022-02-18|2021-05-07|
+|8|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|115|2022-02-09|2021-12-06|
 |9|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|114|2021-12-30|2021-05-30|
-|10|[cb-linux/breath](https://github.com/cb-linux/breath)|Linux for Chromebooks|104|2022-02-17|2021-09-06|
+|10|[cb-linux/breath](https://github.com/cb-linux/breath)|Linux for Chromebooks|105|2022-02-17|2021-09-06|
 |11|[FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)|My personal Pick of wallpapers|94|2022-02-15|2021-02-23|
 |12|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|84|2022-02-16|2021-03-30|
 |13|[kubeguide/K8sDefinitiveGuide-V5-Sourcecode](https://github.com/kubeguide/K8sDefinitiveGuide-V5-Sourcecode)|《Kubernetes - The Definitive Guide》 5th Edition Source Code|82|2021-12-28|2021-05-14|
@@ -24,7 +24,7 @@
 |17|[RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses)|A list of publicly available room impulse response datasets and scripts to download them. |74|2022-02-01|2021-03-19|
 |18|[ghostsec420/SCPA](https://github.com/ghostsec420/SCPA)|sophisticated cyber penetratiom attacks is a series of advanced techniques, notes and guidance to prepare u in ur career as a hacker moving forward|72|2022-02-01|2021-09-01|
 |19|[manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers)|A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them|71|2021-11-06|2021-07-25|
-|20|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|66|2021-12-27|2021-04-04|
+|20|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|67|2021-12-27|2021-04-04|
 |21|[Dheerajmadhukar/back-me-up](https://github.com/Dheerajmadhukar/back-me-up)|This tool will check for Sensitive Data Leakage with some useful patterns/RegEx. The patterns are mostly targeted on waybackdata and filter everything accordingly.|61|2022-02-08|2021-04-08|
 |22|[philippecrowdsec/iptables-nftables-multiroute-firewall](https://github.com/philippecrowdsec/iptables-nftables-multiroute-firewall)|A collection of nftables, multi routing scripts, port knocked, and iptables files. To get inspiration to make your own firewalls.|55|2021-10-02|2021-08-30|
 |23|[dn0m1n8tor/project-morya](https://github.com/dn0m1n8tor/project-morya)|Project Morya is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized way|55|2022-02-09|2021-07-13|
@@ -39,7 +39,7 @@
 |32|[codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)|Examples for the GitOps certification|36|2022-02-17|2021-11-04|
 |33|[lk-geimfari/macbook](https://github.com/lk-geimfari/macbook)|A script for quickly setting up a development environment on the new Macbook.|34|2022-01-25|2021-12-18|
 |34|[nemonik/hands-on-DevOps-gen2](https://github.com/nemonik/hands-on-DevOps-gen2)|The new home of the second edition of my hands-on DevOps course building upon https://github.com/nemonik/hands-on-DevOps|34|2021-12-30|2021-06-09|
-|35|[vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)|WhiteSur wallpapers|28|2022-02-13|2022-01-17|
+|35|[vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)|WhiteSur wallpapers|30|2022-02-13|2022-01-17|
 |36|[lux4rd0/weatherflow-collector](https://github.com/lux4rd0/weatherflow-collector)|A WeatherFlow data collector for local-UDP, remote-socket, and remote-rest APIs. Feeds InfluxDB and Grafana Loki back-ends. Includes current conditions, forecasts, and historical details. Includes a c ...|28|2021-09-23|2021-03-10|
 |37|[IARSystems/bx-docker](https://github.com/IARSystems/bx-docker)|Tutorial on how to build Docker Images for the IAR Build Tools on Linux hosts. The IAR Build Tools on Linux are available for Arm, RISC-V and Renesas (RH850, RL78 and RX).|28|2021-10-11|2021-03-01|
 |38|[hippocritical/FreqtradeHelpers](https://github.com/hippocritical/FreqtradeHelpers)|General collection of anything that I deemed cool or helpful|27|2021-12-14|2021-10-07|
