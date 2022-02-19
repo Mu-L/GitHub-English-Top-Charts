@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -18,8 +18,8 @@
 |11|[cvnlab/GLMsingle](https://github.com/cvnlab/GLMsingle)|A toolbox for accurate single-trial estimates in fMRI time-series data|29|2022-02-16|2021-05-05|
 |12|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|28|2021-12-16|2021-06-10|
 |13|[baddoo/piDMD](https://github.com/baddoo/piDMD)|MATLAB codes for physics-informed dynamic mode decomposition (piDMD)|26|2022-02-09|2021-11-08|
-|14|[mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples)|This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.|23|2022-01-10|2021-05-04|
-|15|[iqiukp/ZoomPlot-MATLAB](https://github.com/iqiukp/ZoomPlot-MATLAB)|MATLAB Code for Interactive Magnification of Customized Regions.|22|2022-01-23|2021-06-10|
+|14|[iqiukp/ZoomPlot-MATLAB](https://github.com/iqiukp/ZoomPlot-MATLAB)|MATLAB Code for Interactive Magnification of Customized Regions.|23|2022-01-23|2021-06-10|
+|15|[mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples)|This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.|23|2022-01-10|2021-05-04|
 |16|[dianixn/Signal_detection_OFDMPowerofDNN](https://github.com/dianixn/Signal_detection_OFDMPowerofDNN)|MATLAB demonstration for the paper 'Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems'|21|2021-10-02|2021-03-15|
 |17|[MassimilianoPozzi/python_julia_structural_behavioral_economics](https://github.com/MassimilianoPozzi/python_julia_structural_behavioral_economics)|Python and Julia Code for Structural Behavioral Economics|20|2022-01-14|2021-11-14|
 |18|[mathworks/Quadcopter-Drone-Model-Simscape](https://github.com/mathworks/Quadcopter-Drone-Model-Simscape)|Quadcopter with multibody, electrical and thermal models follows a path to deliver a package.|18|2021-12-01|2021-10-14|
@@ -45,7 +45,7 @@
 |38|[borealis31/MW208_AUTON_RACECARS](https://github.com/borealis31/MW208_AUTON_RACECARS)|An attempt at MathWorks' Excellence in Innovation Project 208|11|2022-02-11|2021-06-03|
 |39|[ami-iit/paper_ramadoss_2021_icra_proprioceptive-base-estimator](https://github.com/ami-iit/paper_ramadoss_2021_icra_proprioceptive-base-estimator)|[ICRA 2021] DILIGENT-KIO IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/9561248 arXiv: https://arxiv.org/abs/2105.14914|11|2021-11-10|2021-06-01|
 |40|[baddoo/LANDO](https://github.com/baddoo/LANDO)|Codes for Linear and Nonlinear Disambiguation Optimization (LANDO)|11|2022-01-15|2021-05-28|
-|41|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|11|2022-02-18|2021-03-12|
+|41|[NOAA-PMEL/BGC_Argo_Mat_Toolbox](https://github.com/NOAA-PMEL/BGC_Argo_Mat_Toolbox)|This toolbox contains a variety of functions for accessing, processing, and visualizing Biogeochemical Argo data. Functions are designed to be maximally efficient, to provide access to the most up-to- ...|11|2022-02-19|2021-03-12|
 |42|[guoxiaowhu/GWSC22_NAOC](https://github.com/guoxiaowhu/GWSC22_NAOC)|the Collaboration for GWSC in 2022|10|2022-02-11|2022-02-06|
 |43|[Patr1ckL1/AAE4006](https://github.com/Patr1ckL1/AAE4006)|This is the GitHub repository for the subject AAE4006|10|2022-02-14|2021-12-16|
 |44|[septagonic/WaveSimulation](https://github.com/septagonic/WaveSimulation)|MATLAB wave simulation|10|2021-12-01|2021-12-01|
@@ -63,47 +63,47 @@
 |56|[duongpm/SPSO](https://github.com/duongpm/SPSO)|Spherical Vector-based Particle Swarm Optimization|10|2021-11-14|2021-03-29|
 |57|[lucwilson/SPRiNT](https://github.com/lucwilson/SPRiNT)|Code for simulating neural time series, spectrogram parameterization (using SPRiNT), and generating figures from the SPRiNT preprint|9|2022-02-15|2022-01-19|
 |58|[HidekiKawahara/SafeguardingTestSounds](https://github.com/HidekiKawahara/SafeguardingTestSounds)|Acoustic measurement using music pieces|9|2022-01-17|2021-12-22|
-|59|[petersaj/neuropixels_trajectory_explorer](https://github.com/petersaj/neuropixels_trajectory_explorer)|Neuropixels trajectory explorer with the Allen CCF mouse atlas|9|2022-01-26|2021-11-18|
-|60|[mathworks/deep-traffic-lab](https://github.com/mathworks/deep-traffic-lab)|-|9|2021-09-17|2021-09-17|
-|61|[SafeRoboticsLab/SHARP](https://github.com/SafeRoboticsLab/SHARP)|Implementation of SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction|9|2022-02-04|2021-09-07|
-|62|[ryhattori/PatchWarp](https://github.com/ryhattori/PatchWarp)|Image processing pipeline to correct motion artifacts and complex image distortions in neuronal calcium imaging data.|9|2022-02-16|2021-08-22|
-|63|[snehalbhayani/SemiGeneralizedHomography](https://github.com/snehalbhayani/SemiGeneralizedHomography)|-|9|2022-01-21|2021-08-14|
-|64|[plotly/dash_matlab](https://github.com/plotly/dash_matlab)|MATLAB DSL for the Dash Python library|9|2021-11-01|2021-07-26|
-|65|[BrodiePearson/IPCC_AR6_Chapter9_Figures](https://github.com/BrodiePearson/IPCC_AR6_Chapter9_Figures)|Repository with the code and data for all figures from Chapter 9 of the IPCC AR6|9|2022-02-17|2021-06-15|
-|66|[probml/probml-data](https://github.com/probml/probml-data)|Datasets associated with pyprobml|9|2022-01-27|2021-06-09|
-|67|[DevComPsy/2021FluxCompModellingWorkshop](https://github.com/DevComPsy/2021FluxCompModellingWorkshop)|scripts for the computational modelling workshop at FLUX 2021|9|2021-10-26|2021-06-02|
-|68|[IMDEANetworksWNG/UbiLocate](https://github.com/IMDEANetworksWNG/UbiLocate)|-|9|2021-12-29|2021-05-14|
-|69|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
-|70|[QMagen/QMagen](https://github.com/QMagen/QMagen)|-|9|2021-10-05|2021-03-11|
-|71|[msacchi/SeismicLab](https://github.com/msacchi/SeismicLab)|Matlab research tools to read, write and process seismic data|8|2022-02-15|2022-01-26|
-|72|[mathworks/Mars-Rover-Terrain-Simscape](https://github.com/mathworks/Mars-Rover-Terrain-Simscape)|Six-wheeled electrically-driven rover that navigates uneven terrain to retrieve a sample.|8|2022-01-25|2022-01-25|
-|73|[nlsfi/FGI-GSRx](https://github.com/nlsfi/FGI-GSRx)|FGI-GSRx Open Source multi-GNSS software receiver|8|2022-02-16|2021-12-17|
-|74|[aus-covid-modelling/NationalCabinetModelling-OctNov21](https://github.com/aus-covid-modelling/NationalCabinetModelling-OctNov21)|-|8|2021-11-10|2021-11-05|
-|75|[lucasanguinetti/EMI-RIS-Communications](https://github.com/lucasanguinetti/EMI-RIS-Communications)|-|8|2021-10-29|2021-10-29|
-|76|[maolingao/IsoMuSh](https://github.com/maolingao/IsoMuSh)|the official implementation of the paper "Isometric Multi-Shape Matching" (CVPR 2021)|8|2021-12-03|2021-10-26|
-|77|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|2021-11-24|2021-10-15|
-|78|[hanqingguo/NELoRa-Sensys](https://github.com/hanqingguo/NELoRa-Sensys)|NELoRa Code for Sensys Conference|8|2021-11-24|2021-10-14|
-|79|[soc-ucsd/DeeP-LCC](https://github.com/soc-ucsd/DeeP-LCC)|DeeP-LCC for mixed traffic|8|2021-10-19|2021-10-11|
-|80|[prs98/Electric_Vehicle_Charging_Simulation](https://github.com/prs98/Electric_Vehicle_Charging_Simulation)|The goal of this project is to build a simulation model to determine the largest expected revenue from an electric vehicle charging station in a one month time period given the storage capacity, charg ...|8|2021-10-04|2021-10-04|
-|81|[mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2](https://github.com/mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2)|This is a demo model for Reinforcement Learning Control Design. After designing agent, it is deployed to Raspberry Pi and run real-time hardware. |8|2021-12-23|2021-09-16|
-|82|[gfxdisp/ALSaRR](https://github.com/gfxdisp/ALSaRR)|This repository contains the source code for CaMoJAB metric and ALSaRR method described in our SIGGRAPH paper|8|2021-11-30|2021-09-07|
-|83|[gisbi-kim/kitti-global-map-making](https://github.com/gisbi-kim/kitti-global-map-making)|global map construction for kitti360 dataset (can be used for the original kitti)|8|2021-09-07|2021-09-07|
-|84|[polarch/COMPASS-ref](https://github.com/polarch/COMPASS-ref)|COding and Multidirectional Parameterization of Ambisonic Sound Scenes (COMPASS) reference implementation.|8|2021-11-17|2021-08-30|
-|85|[jacobf18/iclabel-python](https://github.com/jacobf18/iclabel-python)|-|8|2022-02-16|2021-08-27|
-|86|[AoxiangFan/EifficientDeterministicSearch](https://github.com/AoxiangFan/EifficientDeterministicSearch)|Implementation of ECCV 2020 paper "Geometric Estimation via Robust Subspace Recovery" and IEEE TPAMI 2021 paper "Efficient Deterministic Search with Robust Loss Functions for Geometric Model Fitting"|8|2021-10-15|2021-08-06|
-|87|[hughestu/MATLAB-Binance-API](https://github.com/hughestu/MATLAB-Binance-API)|binance-api-wrapper|8|2021-12-12|2021-07-06|
-|88|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|2021-09-28|2021-07-04|
-|89|[PINE-Lab/HAPPE](https://github.com/PINE-Lab/HAPPE)|EEG Pre-Processing Pipeline|8|2022-02-16|2021-07-02|
-|90|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
-|91|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-02-06|2021-05-28|
-|92|[mathworks/Simscape-Hybrid-Electric-Vehicle-Model](https://github.com/mathworks/Simscape-Hybrid-Electric-Vehicle-Model)|A Hybrid Electric Vehicle (HEV) model in Simscape|8|2022-02-17|2021-05-25|
-|93|[urban-fasel/SEIR_SINDY_MPC](https://github.com/urban-fasel/SEIR_SINDY_MPC)|-|8|2021-08-31|2021-05-13|
-|94|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-02-14|2021-04-17|
-|95|[roslovets/Live-Script-to-Markdown-Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)|Easily convert MATLAB live scripts to markdown files|8|2021-12-22|2021-03-28|
-|96|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-02-11|2021-02-22|
-|97|[yundumbledore/NeuroMechImager](https://github.com/yundumbledore/NeuroMechImager)|-|7|2022-02-18|2022-01-20|
-|98|[OrstedRD/TurbOPark](https://github.com/OrstedRD/TurbOPark)|A Turbulence Optimized Park model|7|2022-01-12|2022-01-05|
-|99|[Tingliangstu/PPR-Phonon-Participation-Ratio](https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio)|Calculation of phonon participation rates - used to characterize atomic vibrational information including the degree of localization and delocalization.|7|2022-01-05|2022-01-05|
+|59|[nlsfi/FGI-GSRx](https://github.com/nlsfi/FGI-GSRx)|FGI-GSRx Open Source multi-GNSS software receiver|9|2022-02-16|2021-12-17|
+|60|[petersaj/neuropixels_trajectory_explorer](https://github.com/petersaj/neuropixels_trajectory_explorer)|Neuropixels trajectory explorer with the Allen CCF mouse atlas|9|2022-01-26|2021-11-18|
+|61|[mathworks/deep-traffic-lab](https://github.com/mathworks/deep-traffic-lab)|-|9|2021-09-17|2021-09-17|
+|62|[SafeRoboticsLab/SHARP](https://github.com/SafeRoboticsLab/SHARP)|Implementation of SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction|9|2022-02-04|2021-09-07|
+|63|[ryhattori/PatchWarp](https://github.com/ryhattori/PatchWarp)|Image processing pipeline to correct motion artifacts and complex image distortions in neuronal calcium imaging data.|9|2022-02-16|2021-08-22|
+|64|[snehalbhayani/SemiGeneralizedHomography](https://github.com/snehalbhayani/SemiGeneralizedHomography)|-|9|2022-01-21|2021-08-14|
+|65|[plotly/dash_matlab](https://github.com/plotly/dash_matlab)|MATLAB DSL for the Dash Python library|9|2021-11-01|2021-07-26|
+|66|[BrodiePearson/IPCC_AR6_Chapter9_Figures](https://github.com/BrodiePearson/IPCC_AR6_Chapter9_Figures)|Repository with the code and data for all figures from Chapter 9 of the IPCC AR6|9|2022-02-17|2021-06-15|
+|67|[probml/probml-data](https://github.com/probml/probml-data)|Datasets associated with pyprobml|9|2022-01-27|2021-06-09|
+|68|[DevComPsy/2021FluxCompModellingWorkshop](https://github.com/DevComPsy/2021FluxCompModellingWorkshop)|scripts for the computational modelling workshop at FLUX 2021|9|2021-10-26|2021-06-02|
+|69|[IMDEANetworksWNG/UbiLocate](https://github.com/IMDEANetworksWNG/UbiLocate)|-|9|2021-12-29|2021-05-14|
+|70|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
+|71|[QMagen/QMagen](https://github.com/QMagen/QMagen)|-|9|2021-10-05|2021-03-11|
+|72|[msacchi/SeismicLab](https://github.com/msacchi/SeismicLab)|Matlab research tools to read, write and process seismic data|8|2022-02-15|2022-01-26|
+|73|[mathworks/Mars-Rover-Terrain-Simscape](https://github.com/mathworks/Mars-Rover-Terrain-Simscape)|Six-wheeled electrically-driven rover that navigates uneven terrain to retrieve a sample.|8|2022-01-25|2022-01-25|
+|74|[Tingliangstu/PPR-Phonon-Participation-Ratio](https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio)|Calculation of phonon participation rates - used to characterize atomic vibrational information including the degree of localization and delocalization.|8|2022-01-05|2022-01-05|
+|75|[aus-covid-modelling/NationalCabinetModelling-OctNov21](https://github.com/aus-covid-modelling/NationalCabinetModelling-OctNov21)|-|8|2021-11-10|2021-11-05|
+|76|[lucasanguinetti/EMI-RIS-Communications](https://github.com/lucasanguinetti/EMI-RIS-Communications)|-|8|2021-10-29|2021-10-29|
+|77|[maolingao/IsoMuSh](https://github.com/maolingao/IsoMuSh)|the official implementation of the paper "Isometric Multi-Shape Matching" (CVPR 2021)|8|2021-12-03|2021-10-26|
+|78|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|2021-11-24|2021-10-15|
+|79|[hanqingguo/NELoRa-Sensys](https://github.com/hanqingguo/NELoRa-Sensys)|NELoRa Code for Sensys Conference|8|2021-11-24|2021-10-14|
+|80|[soc-ucsd/DeeP-LCC](https://github.com/soc-ucsd/DeeP-LCC)|DeeP-LCC for mixed traffic|8|2021-10-19|2021-10-11|
+|81|[prs98/Electric_Vehicle_Charging_Simulation](https://github.com/prs98/Electric_Vehicle_Charging_Simulation)|The goal of this project is to build a simulation model to determine the largest expected revenue from an electric vehicle charging station in a one month time period given the storage capacity, charg ...|8|2021-10-04|2021-10-04|
+|82|[mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2](https://github.com/mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2)|This is a demo model for Reinforcement Learning Control Design. After designing agent, it is deployed to Raspberry Pi and run real-time hardware. |8|2021-12-23|2021-09-16|
+|83|[gfxdisp/ALSaRR](https://github.com/gfxdisp/ALSaRR)|This repository contains the source code for CaMoJAB metric and ALSaRR method described in our SIGGRAPH paper|8|2021-11-30|2021-09-07|
+|84|[gisbi-kim/kitti-global-map-making](https://github.com/gisbi-kim/kitti-global-map-making)|global map construction for kitti360 dataset (can be used for the original kitti)|8|2021-09-07|2021-09-07|
+|85|[polarch/COMPASS-ref](https://github.com/polarch/COMPASS-ref)|COding and Multidirectional Parameterization of Ambisonic Sound Scenes (COMPASS) reference implementation.|8|2021-11-17|2021-08-30|
+|86|[jacobf18/iclabel-python](https://github.com/jacobf18/iclabel-python)|-|8|2022-02-19|2021-08-27|
+|87|[AoxiangFan/EifficientDeterministicSearch](https://github.com/AoxiangFan/EifficientDeterministicSearch)|Implementation of ECCV 2020 paper "Geometric Estimation via Robust Subspace Recovery" and IEEE TPAMI 2021 paper "Efficient Deterministic Search with Robust Loss Functions for Geometric Model Fitting"|8|2021-10-15|2021-08-06|
+|88|[hughestu/MATLAB-Binance-API](https://github.com/hughestu/MATLAB-Binance-API)|binance-api-wrapper|8|2021-12-12|2021-07-06|
+|89|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|2021-09-28|2021-07-04|
+|90|[PINE-Lab/HAPPE](https://github.com/PINE-Lab/HAPPE)|EEG Pre-Processing Pipeline|8|2022-02-16|2021-07-02|
+|91|[thomasdeppisch/eMagLS](https://github.com/thomasdeppisch/eMagLS)|The End-to-End Magnitude Least Squares Binaural Renderer for Spherical Microphone Array Signals|8|2021-10-10|2021-06-13|
+|92|[Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves)|This set of programs is intended to inject custom pictures and modify mini game scores and other stuff in your Game Boy Camera saves. Some deep research on the Game Boy Camera save format are presente ...|8|2022-02-06|2021-05-28|
+|93|[mathworks/Simscape-Hybrid-Electric-Vehicle-Model](https://github.com/mathworks/Simscape-Hybrid-Electric-Vehicle-Model)|A Hybrid Electric Vehicle (HEV) model in Simscape|8|2022-02-17|2021-05-25|
+|94|[urban-fasel/SEIR_SINDY_MPC](https://github.com/urban-fasel/SEIR_SINDY_MPC)|-|8|2021-08-31|2021-05-13|
+|95|[openneuropet/PET2BIDS](https://github.com/openneuropet/PET2BIDS)|helps you convert your PET data! raw PET scanner files (e.g. ecat, dicom) and additional side file like .e.g excel sheets|8|2022-02-14|2021-04-17|
+|96|[roslovets/Live-Script-to-Markdown-Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)|Easily convert MATLAB live scripts to markdown files|8|2021-12-22|2021-03-28|
+|97|[ORTools4MTEX/ORTools](https://github.com/ORTools4MTEX/ORTools)|A function library for OR discovery, OR analysis and the plotting of publication-ready figures of martensitic transformations or OR-related phase transitions in MTEX|8|2022-02-11|2021-02-22|
+|98|[yundumbledore/NeuroMechImager](https://github.com/yundumbledore/NeuroMechImager)|-|7|2022-02-18|2022-01-20|
+|99|[OrstedRD/TurbOPark](https://github.com/OrstedRD/TurbOPark)|A Turbulence Optimized Park model|7|2022-01-12|2022-01-05|
 |100|[schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon)|-|7|2022-01-14|2021-12-13|
 |101|[ChristianMayr/slam_integrated_mobile_platform](https://github.com/ChristianMayr/slam_integrated_mobile_platform)|University project in to integrate a laserscanner and a GNSS antenna in order to perform SLAM|7|2022-02-11|2021-10-21|
 |102|[computational-psychiatry-course/cpc2021](https://github.com/computational-psychiatry-course/cpc2021)|-|7|2021-11-18|2021-10-16|

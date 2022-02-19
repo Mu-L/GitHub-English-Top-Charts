@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[steliostsiaras/Financial-Frictions-Course](https://github.com/steliostsiaras/Financial-Frictions-Course)|This is a PhD course on financial frictions in macroeconomic models. This repository includes all the materials taught and is constantly updated |40|2022-01-26|2021-03-14|
 |5|[danfenghong/ISPRS_S2FL](https://github.com/danfenghong/ISPRS_S2FL)|Danfeng Hong, JIngliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model,   ...|32|2021-12-08|2021-05-18|
 |6|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs) (https://arxiv.org/abs/2109.12313, https: ...|31|2022-01-21|2021-06-09|
-|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|26|2021-10-27|2021-09-30|
+|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|27|2021-10-27|2021-09-30|
 |8|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|20|2022-01-19|2021-06-15|
 |9|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|20|2022-01-24|2021-03-05|
 |10|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|16|2021-10-24|2021-07-07|
@@ -73,18 +73,19 @@
 |66|[placebovitamin/MPC-Tutorial](https://github.com/placebovitamin/MPC-Tutorial)|This is the MATLAB code for a brief tutorial for Model Predictive Control (MPC) for a linear discrete-time system with constrained states and inputs. |3|2021-09-27|2021-08-20|
 |67|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|3|2021-12-22|2021-08-15|
 |68|[Elkinmt19/smart-systems-dojo](https://github.com/Elkinmt19/smart-systems-dojo)|This is a repository for learning more about AI, neural networks, and intelligent systems and integrating all these topics into the world of robotics.|3|2021-11-15|2021-07-20|
-|69|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|2021-11-16|2021-06-15|
-|70|[MouraWM/HIL-platform-fixed-wing-autopilot](https://github.com/MouraWM/HIL-platform-fixed-wing-autopilot)|HIL platform for fixed wing autopilot – A tutorial|3|2021-11-04|2021-06-09|
-|71|[robotology/online-detection-demo](https://github.com/robotology/online-detection-demo)|Fast object detection learning with CNN and kernel based architecture|3|2021-12-09|2021-06-03|
-|72|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-21|2021-02-21|
-|73|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|2021-10-22|2021-10-21|
-|74|[xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion](https://github.com/xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion)|Graph learning, fusion of similarity matrices, clustering|2|2021-08-26|2021-08-26|
-|75|[hantyou/Distributed-Learning-and-Cooperative-Control](https://github.com/hantyou/Distributed-Learning-and-Cooperative-Control)|Codes reproducing paper Jongeun Choi, Songhwai Oh, Roberto Horowitz, Distributed learning and cooperative control for multi-agent systems, Automatica, Volume 45, Issue 12, 2009|2|2021-09-14|2021-08-24|
-|76|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
-|77|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
-|78|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
-|79|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
-|80|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
+|69|[YairYarden/SparseTimeFreqRepresentation](https://github.com/YairYarden/SparseTimeFreqRepresentation)|Time-Frequency representation of non-uniform sampled data using sparsity promoting algorithms|3|2021-09-27|2021-07-02|
+|70|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|2021-11-16|2021-06-15|
+|71|[MouraWM/HIL-platform-fixed-wing-autopilot](https://github.com/MouraWM/HIL-platform-fixed-wing-autopilot)|HIL platform for fixed wing autopilot – A tutorial|3|2021-11-04|2021-06-09|
+|72|[robotology/online-detection-demo](https://github.com/robotology/online-detection-demo)|Fast object detection learning with CNN and kernel based architecture|3|2021-12-09|2021-06-03|
+|73|[Ayush1285/Quadcopter_Control](https://github.com/Ayush1285/Quadcopter_Control)|Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.|3|2021-12-21|2021-02-21|
+|74|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|2|2021-10-22|2021-10-21|
+|75|[xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion](https://github.com/xhweei/Intrinsic-graph-learning-with-discrete-constrained-diffusion-fusion)|Graph learning, fusion of similarity matrices, clustering|2|2021-08-26|2021-08-26|
+|76|[hantyou/Distributed-Learning-and-Cooperative-Control](https://github.com/hantyou/Distributed-Learning-and-Cooperative-Control)|Codes reproducing paper Jongeun Choi, Songhwai Oh, Roberto Horowitz, Distributed learning and cooperative control for multi-agent systems, Automatica, Volume 45, Issue 12, 2009|2|2021-09-14|2021-08-24|
+|77|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
+|78|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
+|79|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
+|80|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
+|81|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
