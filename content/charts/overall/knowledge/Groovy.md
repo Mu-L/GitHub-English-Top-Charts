@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3833|2022-02-02|
-|2|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |558|2022-02-18|
-|3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|289|2022-02-19|
-|4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|212|2022-02-18|
+|2|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |559|2022-02-18|
+|3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|289|2022-02-20|
+|4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|212|2022-02-20|
 |5|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|2022-01-22|
 |6|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|2022-01-11|
-|7|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|170|2022-02-19|
+|7|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|171|2022-02-19|
 |8|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|165|2022-02-18|
 |9|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|134|2022-02-18|
 |10|[ppazos/cabolabs-ehrserver](https://github.com/ppazos/cabolabs-ehrserver)|Open platform to manage and share standardized clinical data, designed by @ppazos at CaboLabs Health Informatics.|130|2021-08-24|
 |11|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|116|2022-01-01|
-|12|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|101|2022-02-11|
+|12|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|102|2022-02-11|
 |13|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|91|2021-12-27|
 |14|[tomasbjerre/jenkins-configuration-as-code-sandbox](https://github.com/tomasbjerre/jenkins-configuration-as-code-sandbox)|Jenkins Configuration as Code, JCasC, Job DSL, Pipeline, Shared library|79|2022-01-07|
 |15|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|2022-01-26|
@@ -46,7 +46,7 @@
 |39|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |11|2022-02-12|
 |40|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|2021-11-04|
 |41|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|11|2021-12-13|
-|42|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|10|2022-02-17|
+|42|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|10|2022-02-20|
 |43|[bilderlings/jenkins-shared-libraries](https://github.com/bilderlings/jenkins-shared-libraries)|Useful shared libraries for Jenkins pipelines|10|2022-01-31|
 |44|[PacktPublishing/Jenkins-Administrators-Guide](https://github.com/PacktPublishing/Jenkins-Administrators-Guide)|Jenkins Administrator's Guide, published by Packt|8|2021-11-12|
 |45|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|8|2022-02-18|

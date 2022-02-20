@@ -1,46 +1,46 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > TeX
-<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)|Examples of how to create colorful, annotated equations in Latex using Tikz.|2551|62|2022-02-16|
-|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4309|20|2022-02-17|
-|3|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|885|12|2021-12-20|
-|4|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3453|9|2022-02-15|
+|1|[synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)|Examples of how to create colorful, annotated equations in Latex using Tikz.|2558|61|2022-02-16|
+|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.x kernels)|4311|20|2022-02-20|
+|3|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|885|11|2021-12-20|
+|4|[aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.|3459|9|2022-02-15|
 |5|[corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation)|Project overview, general documentation, and white papers.|3382|5|2022-02-07|
-|6|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|9795|5|2021-10-12|
-|7|[yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)|A curated list of awesome neural radiance fields papers|1954|4|2022-02-18|
-|8|[facebookresearch/amortized-optimization-tutorial](https://github.com/facebookresearch/amortized-optimization-tutorial)|Tutorial on amortized optimization for learning to optimize over continuous domains|66|3|2022-02-18|
+|6|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|9797|5|2021-10-12|
+|7|[yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)|A curated list of awesome neural radiance fields papers|1960|4|2022-02-18|
+|8|[facebookresearch/amortized-optimization-tutorial](https://github.com/facebookresearch/amortized-optimization-tutorial)|Tutorial on amortized optimization for learning to optimize over continuous domains|66|3|2022-02-20|
 |9|[pascalmichaillat/math-for-macro](https://github.com/pascalmichaillat/math-for-macro)|This repository contains material for a one-week graduate course on mathematical methods for macroeconomics.|53|2|2022-01-25|
 |10|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2701|2|2021-11-13|
-|11|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2344|1|2022-02-19|
+|11|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2343|1|2022-02-20|
 |12|[perryuu/paperlighter](https://github.com/perryuu/paperlighter)|A simple Latex style-file for writing papers.|6|1|2022-02-16|
-|13|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|610|1|2022-02-19|
-|14|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1309|1|2022-01-18|
+|13|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|611|1|2022-02-19|
+|14|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1309|1|2022-02-20|
 |15|[jemmybutton/byrne-euclid](https://github.com/jemmybutton/byrne-euclid)|MetaPost + ConTeXt rendition of Oliver Byrne's "The first six books of the Elements of Euclid"|1024|1|2022-02-11|
 |16|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2026|1|2022-01-05|
-|17|[liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview)|A middle-to-high level open source algorithm book designed with coding interview at heart!|1544|1|2022-02-09|
+|17|[liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview)|A middle-to-high level open source algorithm book designed with coding interview at heart!|1546|1|2022-02-09|
 |18|[transmissions11/publications](https://github.com/transmissions11/publications)|Collection of reports/articles/publications/etc of mine.|7|1|2022-02-14|
 |19|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|922|1|2021-12-09|
-|20|[ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)|Elegant LaTeX Template for Working Papers|746|1|2022-01-27|
-|21|[dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining)|Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson|1082|1|2022-02-07|
+|20|[ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)|Elegant LaTeX Template for Working Papers|747|1|2022-01-27|
+|21|[dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining)|Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson|1083|1|2022-02-07|
 |22|[ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)|Elegant LaTeX Template for Books|1115|1|2022-02-14|
-|23|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5080|1|2022-01-30|
-|24|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|36|1|2021-12-20|
+|23|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5081|1|2022-01-30|
+|24|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|38|1|2021-12-20|
 |25|[dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list)|List of bugs found in distributed protocols|107|1|2021-11-10|
 |26|[HoTT/book](https://github.com/HoTT/book)|A textbook on informal homotopy type theory|1708|1|2022-01-26|
 |27|[milaan9/LaTeX4Everyone](https://github.com/milaan9/LaTeX4Everyone)|Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.|125|1|2021-11-27|
 |28|[Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|698|1|2021-11-10|
-|29|[alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1217|1|2022-02-18|
-|30|[Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)|This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding|605|1|2021-10-01|
+|29|[alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1218|1|2022-02-20|
+|30|[Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)|This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding|604|1|2021-10-01|
 |31|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|1842|1|2022-02-19|
 |32|[Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis)|A minimal & modern LaTeX template for your (bachelor's   master's   doctoral) thesis|938|1|2021-11-03|
 |33|[thunlp/KRLPapers](https://github.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1438|1|2021-08-29|
 |34|[Techneatium/F14_CheatSheet](https://github.com/Techneatium/F14_CheatSheet)|Cheatsheet for DCS F-14 aircraft including LaTeX source files|6|1|2022-02-14|
-|35|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1520|1|2021-11-22|
-|36|[optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|481|1|2022-02-10|
+|35|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1521|1|2021-11-22|
+|36|[optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|480|1|2022-02-10|
 |37|[st--/annotated_latex_equations](https://github.com/st--/annotated_latex_equations)|Annotated example of how to make annotated equations in LaTeX using TikZ|7|1|2022-02-11|
 |38|[leios/GPU_mini_course](https://github.com/leios/GPU_mini_course)|A public repo for slides and stuff for the GPU mini-course at OIST|5|0|2021-08-26|
 |39|[ContextLab/CDL-bibliography](https://github.com/ContextLab/CDL-bibliography)|Bibtex file shared by the Contextual Dynamics Lab at Dartmouth College|6|0|2022-02-02|
@@ -126,7 +126,7 @@
 |119|[bockstaller/Liederbuch](https://github.com/bockstaller/Liederbuch)|Latex template for a song book|10|0|2021-11-02|
 |120|[Lipen/discrete-math-course](https://github.com/Lipen/discrete-math-course)|:milky_way: Supplementary materials for Discrete Math course at ITMO University, 2021–2022|6|0|2021-12-24|
 |121|[UBC-DSCI/introduction-to-datascience](https://github.com/UBC-DSCI/introduction-to-datascience)|open source textbook for DSCI 100|24|0|2022-02-13|
-|122|[jeffreykegler/Marpa-book](https://github.com/jeffreykegler/Marpa-book)|The Marpa book|8|0|2022-02-19|
+|122|[jeffreykegler/Marpa-book](https://github.com/jeffreykegler/Marpa-book)|The Marpa book|8|0|2022-02-20|
 |123|[boazbk/crypto](https://github.com/boazbk/crypto)|Lecture notes for a course on cryptography|419|0|2021-12-01|
 |124|[magemma/Notes-on-Computational-Mathematics](https://github.com/magemma/Notes-on-Computational-Mathematics)|Notes from the Computational Mathematics course held by professor Antonio Frangioni and professor Federico Poloni at University of Pisa|14|0|2021-08-28|
 |125|[ctu-mrs/mrs_cheatsheet](https://github.com/ctu-mrs/mrs_cheatsheet)|Cheatsheet for the "mrs_uav_system", ROS, Linux, Tmux, Vim and more.|6|0|2021-08-29|
@@ -183,7 +183,7 @@
 |176|[lucadp19/UniPi-Informatica](https://github.com/lucadp19/UniPi-Informatica)|My notes for CS courses at UniPi|3|0|2021-12-04|
 |177|[eeditiones/workshop](https://github.com/eeditiones/workshop)|«Stay Home Learn TEI Publisher From Scratch» Online  Workshop|16|0|2021-10-26|
 |178|[alhassy/CheatSheet](https://github.com/alhassy/CheatSheet)|Pretty cheat sheets, or ``reference cards'', obtainable from Org files.|140|0|2022-02-18|
-|179|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|34|0|2022-02-17|
+|179|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|34|0|2022-02-20|
 |180|[jessicayung/machine-learning-flashcards](https://github.com/jessicayung/machine-learning-flashcards)|Machine learning flashcards|183|0|2021-09-30|
 |181|[mmshihov/informatics](https://github.com/mmshihov/informatics)|Informatics: the student book and presentations |4|0|2021-11-19|
 |182|[amchagas/open-hardware-supply](https://github.com/amchagas/open-hardware-supply)|having a closer look on how OSH papers are evolving over time|2|0|2021-12-10|
@@ -201,7 +201,7 @@
 |194|[maxbiostat/Computational_Statistics](https://github.com/maxbiostat/Computational_Statistics)|Course materials for Computational Statistics, PhD course at EMAp.|9|0|2021-12-10|
 |195|[v-research/edu](https://github.com/v-research/edu)|This repository to share what, @v-research, we teach in the field of cybersecurity. You will mainly find courses material, thesis and internship proposals, and lectures. |3|0|2022-01-27|
 |196|[markuswagnergithub/SBSEcourse](https://github.com/markuswagnergithub/SBSEcourse)|Search-Based Software Engineering Course|6|0|2022-02-15|
-|197|[illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook)|Open Source Introductory Systems Programming Textbook for the University of Illinois|507|0|2021-11-05|
+|197|[illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook)|Open Source Introductory Systems Programming Textbook for the University of Illinois|508|0|2021-11-05|
 |198|[danStich/worst-r](https://github.com/danStich/worst-r)|Textbook for my BIOL217 (Quantitative Biology) course|3|0|2022-01-24|
 |199|[TheKeveloper/ECON-1011A-Textbook](https://github.com/TheKeveloper/ECON-1011A-Textbook)|A textbook for Professor Edward Glaeser's ECON 1011A: Microeconomic Theory - Advanced, course at Harvard. |5|0|2021-10-10|
 |200|[sebastianotronto/fmctutorial](https://github.com/sebastianotronto/fmctutorial)|A tutorial for solving the Rubik's Cube with as few moves as possible.|16|0|2022-02-02|

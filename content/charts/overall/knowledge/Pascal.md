@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1214|2021-12-09|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1215|2021-12-09|
 |2|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|126|2022-02-17|
 |3|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|106|2022-02-15|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|103|2022-02-02|
@@ -29,10 +29,10 @@
 |22|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|2021-12-03|
 |23|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|2022-02-14|
 |24|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|7|2022-01-31|
-|25|[GuvaCode/Code-Librarian](https://github.com/GuvaCode/Code-Librarian)|The Code Librarian enables you to organize and access often-used code snippets.  It is an easy way to store the various code items that you use often, but do not fit into a general-purpose library uni ...|7|2022-02-19|
+|25|[GuvaCode/Code-Librarian](https://github.com/GuvaCode/Code-Librarian)|The Code Librarian enables you to organize and access often-used code snippets.  It is an easy way to store the various code items that you use often, but do not fit into a general-purpose library uni ...|7|2022-02-20|
 |26|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|6|2021-11-03|
 |27|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|2021-12-12|
-|28|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|2022-02-19|
+|28|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|2022-02-20|
 |29|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|2021-11-09|
 |30|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|2022-01-27|
 |31|[AntonAngeloff/DX11_Examples](https://github.com/AntonAngeloff/DX11_Examples)|Examples of Direct3D 11 in Delphi/FreePascal|5|2021-12-11|
@@ -56,7 +56,7 @@
 |49|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2022-02-09|
 |50|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2022-01-15|
 |51|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
-|52|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|2022-02-18|
+|52|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|2022-02-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

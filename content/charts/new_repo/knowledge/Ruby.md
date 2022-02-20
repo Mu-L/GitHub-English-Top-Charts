@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|214|2022-02-18|2021-04-05|
+|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|218|2022-02-20|2021-04-05|
 |2|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|156|2022-01-11|2021-03-22|
 |3|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|A step-by-step guide on how to build your own authentication system in Rails from scratch.|151|2022-02-09|2021-11-09|
 |4|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|49|2021-12-03|2021-12-01|
