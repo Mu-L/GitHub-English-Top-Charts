@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8898|18|2022-02-15|
-|2|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|2|2022-02-20|
-|3|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|7|1|2022-02-17|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8902|18|2022-02-15|
+|2|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|7|1|2022-02-17|
+|3|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|1|2022-02-20|
 |4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1929|1|2022-02-15|
 |5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|339|1|2021-12-16|
 |6|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|17|1|2022-01-30|
@@ -16,7 +16,7 @@
 |9|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|29|0|2021-12-24|
 |10|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|0|2022-01-03|
 |11|[nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)|Collection of Hello World programs written in multiple languages =D|38|0|2022-02-19|
-|12|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|9|0|2022-02-20|
+|12|[tomverbeure/vexriscv_ocd_blog](https://github.com/tomverbeure/vexriscv_ocd_blog)|Repo that shows how to use the VexRiscv with OpenOCD and semihosting.|9|0|2022-02-21|
 |13|[e-a-security/macOS-Exploit-Dev-OSMR](https://github.com/e-a-security/macOS-Exploit-Dev-OSMR)|Resources, scripts, and overviews of the knowledge I collect going through Offensive Security's macOS Exploit Development course.|5|0|2021-10-06|
 |14|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|0|2021-11-13|
 |15|[infosecirvin/assembly](https://github.com/infosecirvin/assembly)|Assembly Course|2|0|2021-11-02|
@@ -39,7 +39,7 @@
 |32|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|0|2021-10-26|
 |33|[makerbase-mks/MKS-Robin-Nano-Firmware](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware)|MKS Robin Nano firmware source code, you can use IAR IDE build it and update it on your nano board.Of course, you can change source code and add new function with you requirement and so on|25|0|2022-01-15|
 |34|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|0|2021-11-14|
-|35|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|138|0|2022-02-17|
+|35|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|138|0|2022-02-21|
 |36|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|8|0|2022-02-15|
 |37|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|0|2021-11-26|
 |38|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|8|0|2021-09-30|
@@ -60,7 +60,7 @@
 |53|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|13|0|2021-09-06|
 |54|[menotti/convert_grayscale](https://github.com/menotti/convert_grayscale)|A simple example in Verilog of how to convert an image to grayscale|2|0|2022-02-18|
 |55|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|31|0|2022-02-19|
-|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-20|
+|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-21|
 |57|[kspalaiologos/LearnC](https://github.com/kspalaiologos/LearnC)|LearnC is (mainly) C book I wrote|6|0|2022-01-17|
 |58|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|8|0|2022-02-05|
 |59|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|6|0|2021-12-08|
@@ -89,7 +89,7 @@
 |82|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|64|0|2021-10-20|
 |83|[yugecin/scmcleoscripts](https://github.com/yugecin/scmcleoscripts)|Collection of cleo/scm scripts/plugins that I've made (gtasa)|10|0|2021-11-28|
 |84|[saumya-prakash/Mastermind](https://github.com/saumya-prakash/Mastermind)|Implementation of the classic board-game Mastermind in x86 assembly|2|0|2021-10-31|
-|85|[mytechnotalent/AArch64-Bytes](https://github.com/mytechnotalent/AArch64-Bytes)|A series of small ARM 64 bite-size articles to help one better reverse AArch64 ARM 64 Linux binaries.|3|0|2022-02-02|
+|85|[mytechnotalent/AArch64-Bytes](https://github.com/mytechnotalent/AArch64-Bytes)|A series of small ARM 64 bite-size articles to help one better reverse AArch64 ARM 64 Linux binaries.|4|0|2022-02-02|
 |86|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|120|0|2021-12-24|
 |87|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|0|2021-11-18|
 |88|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|0|2021-09-27|
@@ -99,7 +99,7 @@
 |92|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|4|0|2021-12-19|
 |93|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|0|2022-02-07|
 |94|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|267|0|2021-11-29|
-|95|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-02|
+|95|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-21|
 |96|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|0|2022-01-10|
 |97|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|0|2021-10-22|
 |98|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|18|0|2022-01-20|
@@ -117,7 +117,7 @@
 |110|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|0|2021-11-28|
 |111|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|0|2021-11-24|
 |112|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|0|2022-01-18|
-|113|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|6|0|2022-02-19|
+|113|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|10|0|2022-02-19|
 |114|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|0|2021-10-31|
 |115|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|60|0|2022-01-25|
 |116|[secana/Assembler-Examples](https://github.com/secana/Assembler-Examples)|Different code examples in assembler|3|0|2021-12-07|

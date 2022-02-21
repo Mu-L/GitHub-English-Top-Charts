@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vue
-<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8405|2022-02-20|2021-11-15|
-|2|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3439|2022-02-20|2021-10-02|
-|3|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!|1197|2022-02-20|2021-02-28|
-|4|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|1162|2022-02-08|2021-10-16|
-|5|[bawangxx/XZVoice](https://github.com/bawangxx/XZVoice)|Free and open source text-to-speech software|772|2021-12-06|2021-02-22|
-|6|[vuejs/create-vue](https://github.com/vuejs/create-vue)|🛠️ Quickly scaffold a Vue project with `npm init vue@3`|669|2022-02-18|2021-07-14|
+|1|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8418|2022-02-20|2021-11-15|
+|2|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|3452|2022-02-20|2021-10-02|
+|3|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!|1205|2022-02-20|2021-02-28|
+|4|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|1163|2022-02-08|2021-10-16|
+|5|[bawangxx/XZVoice](https://github.com/bawangxx/XZVoice)|Free and open source text-to-speech software|773|2021-12-06|2021-02-22|
+|6|[vuejs/create-vue](https://github.com/vuejs/create-vue)|🛠️ Quickly scaffold a Vue project with `npm init vue@3`|672|2022-02-21|2021-07-14|
 |7|[sdras/career-ladders](https://github.com/sdras/career-ladders)|A sample of career ladders I use for my organization, open sourced for anyone.|634|2021-08-27|2021-04-07|
-|8|[uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso)|The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !|629|2022-02-18|2021-03-15|
-|9|[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)|A library of free open source icons for science illustrations in biology and chemistry|578|2022-02-20|2021-04-08|
-|10|[CryptoBlades/cryptoblades](https://github.com/CryptoBlades/cryptoblades)|-|553|2022-02-20|2021-03-02|
-|11|[uptrace/uptrace](https://github.com/uptrace/uptrace)|Distributed tracing using OpenTelemetry and ClickHouse|549|2022-02-07|2021-12-22|
-|12|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|513|2022-02-10|2021-05-24|
-|13|[betterRunner/context-note](https://github.com/betterRunner/context-note)|A note-taking chrome extension: taking notes on the web with their context.|438|2022-01-23|2021-09-06|
+|8|[uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso)|The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !|631|2022-02-21|2021-03-15|
+|9|[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)|A library of free open source icons for science illustrations in biology and chemistry|581|2022-02-21|2021-04-08|
+|10|[CryptoBlades/cryptoblades](https://github.com/CryptoBlades/cryptoblades)|-|555|2022-02-21|2021-03-02|
+|11|[uptrace/uptrace](https://github.com/uptrace/uptrace)|Distributed tracing using OpenTelemetry and ClickHouse|552|2022-02-21|2021-12-22|
+|12|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|517|2022-02-10|2021-05-24|
+|13|[betterRunner/context-note](https://github.com/betterRunner/context-note)|A note-taking chrome extension: taking notes on the web with their context.|441|2022-01-23|2021-09-06|
 |14|[auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora)|🏳️‍🌈 Futuristic auroral Hexo theme.|391|2022-01-29|2021-03-12|
-|15|[antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3)|Vitesse for Nuxt 3 🏔💚⚡️|388|2021-12-30|2021-11-03|
-|16|[justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)|Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite & Vue CLI supported|373|2022-02-20|2021-06-14|
-|17|[vform666/variant-form](https://github.com/vform666/variant-form)|A powerful form designer for Vue.|352|2022-02-16|2021-09-23|
+|15|[antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3)|Vitesse for Nuxt 3 🏔💚⚡️|389|2021-12-30|2021-11-03|
+|16|[justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)|Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite & Vue CLI supported|375|2022-02-20|2021-06-14|
+|17|[vform666/variant-form](https://github.com/vform666/variant-form)|A powerful form designer for Vue.|354|2022-02-21|2021-09-23|
 |18|[antfu/vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect)|Inspect the intermediate state of Vite plugins|343|2022-02-19|2021-08-16|
-|19|[XPoet/vite-vue3-starter](https://github.com/XPoet/vite-vue3-starter)|:star: A Vite 2.x + Vue 3.x + TypeScript template starter|331|2021-08-31|2021-04-13|
-|20|[Tucsky/aggr](https://github.com/Tucsky/aggr)|Cryptocurrency trades aggregator|326|2022-02-16|2021-04-24|
+|19|[XPoet/vite-vue3-starter](https://github.com/XPoet/vite-vue3-starter)|:star: A Vite 2.x + Vue 3.x + TypeScript template starter|332|2021-08-31|2021-04-13|
+|20|[Tucsky/aggr](https://github.com/Tucsky/aggr)|Cryptocurrency trades aggregator|328|2022-02-16|2021-04-24|
 |21|[HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone)|🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis|320|2022-02-14|2021-03-18|
 |22|[evrimagaci/periodum](https://github.com/evrimagaci/periodum)|Periodum: An Interactive, Open-Source Periodic Table!|313|2022-02-13|2022-01-05|
-|23|[cdmoro/bootstrap-vue-3](https://github.com/cdmoro/bootstrap-vue-3)|Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript|285|2022-02-19|2021-06-30|
+|23|[cdmoro/bootstrap-vue-3](https://github.com/cdmoro/bootstrap-vue-3)|Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript|286|2022-02-21|2021-06-30|
 |24|[windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)|🍃 Windi CSS for Nuxt.js ⚡|277|2022-02-16|2021-03-03|
 |25|[leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard)|Custom your personal browser start page from some configurable components.|266|2022-02-19|2021-04-02|
 |26|[MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers)|Web map Vue 3.x components with the power of OpenLayers|240|2022-02-18|2021-06-12|
 |27|[serversideup/financial-freedom](https://github.com/serversideup/financial-freedom)|Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS|229|2022-02-01|2021-03-12|
-|28|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|229|2022-02-19|2021-03-10|
-|29|[zernonia/supabase-schema](https://github.com/zernonia/supabase-schema)|Secured & Simple Supabase Schema Visualizer|223|2021-09-18|2021-05-09|
+|28|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|229|2022-02-21|2021-03-10|
+|29|[zernonia/supabase-schema](https://github.com/zernonia/supabase-schema)|Secured & Simple Supabase Schema Visualizer|224|2021-09-18|2021-05-09|
 |30|[microsoft/ImagineCup](https://github.com/microsoft/ImagineCup)|Resources to help you enter, and perhaps win, the Imagine Cup, a worldwide event by Microsoft|222|2022-02-19|2021-08-03|
-|31|[karngyan/karngyan.com](https://github.com/karngyan/karngyan.com)|Dark themed, SEO friendly: Nuxt Content + TailwindCSS + Firebase + i18n + RSS2 based SPA for procrastinating developers to quickly spin up their own kickass blog and showcase their projects.|220|2022-02-13|2021-04-23|
-|32|[kenhyuwa/litepie-datepicker](https://github.com/kenhyuwa/litepie-datepicker)|Litepie Datepicker is a date range picker component for Vue.js and Tailwind CSS, dependent to day.js.|220|2022-01-27|2021-03-05|
-|33|[themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free)|Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩|219|2022-02-14|2021-08-13|
-|34|[protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder)|Inertia.js Tables for Laravel Query Builder|208|2022-02-04|2021-04-02|
+|31|[karngyan/karngyan.com](https://github.com/karngyan/karngyan.com)|Dark themed, SEO friendly: Nuxt Content + TailwindCSS + Firebase + i18n + RSS2 based SPA for procrastinating developers to quickly spin up their own kickass blog and showcase their projects.|221|2022-02-13|2021-04-23|
+|32|[kenhyuwa/litepie-datepicker](https://github.com/kenhyuwa/litepie-datepicker)|Litepie Datepicker is a date range picker component for Vue.js and Tailwind CSS, dependent to day.js.|221|2022-01-27|2021-03-05|
+|33|[themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free)|Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩|220|2022-02-21|2021-08-13|
+|34|[protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder)|Inertia.js Tables for Laravel Query Builder|209|2022-02-04|2021-04-02|
 |35|[thu-vis/JittorVis](https://github.com/thu-vis/JittorVis)|JittorVis - Visual understanding of deep learning models|205|2021-12-18|2021-06-24|
 |36|[aporia-ai/mlnotify](https://github.com/aporia-ai/mlnotify)|🔔 No need to keep checking your training - just one import line and you'll know the second it's done.|205|2021-12-13|2021-04-19|
 |37|[mumuchenchen/pikpak](https://github.com/mumuchenchen/pikpak)|pikpak web|200|2022-01-07|2021-10-24|
-|38|[jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus)|👏A magical vue3 admin using  vue3(script-setup) + vite2 + element-plus |195|2022-02-20|2021-09-07|
+|38|[jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus)|👏A magical vue3 admin using  vue3(script-setup) + vite2 + element-plus |196|2022-02-20|2021-09-07|
 |39|[JhumanJ/laravel-model-stats](https://github.com/JhumanJ/laravel-model-stats)|Model statistics dashboard for your Laravel Application|186|2021-10-12|2021-06-15|
 |40|[surely-vue/table](https://github.com/surely-vue/table)|Performant advanced table component|183|2022-02-20|2021-11-08|
 |41|[kochrt/cascade.page](https://github.com/kochrt/cascade.page)|Make a timeline|183|2022-02-17|2021-05-20|
@@ -51,160 +51,160 @@
 |44|[stevebauman/showcode](https://github.com/stevebauman/showcode)|Create beautiful images of code.|162|2022-02-15|2021-10-16|
 |45|[mojtabaahn/laravel-web-logs](https://github.com/mojtabaahn/laravel-web-logs)|View Laravel File-Based Logs In Web|157|2022-02-12|2021-05-14|
 |46|[un-pany/v3-admin](https://github.com/un-pany/v3-admin)|☀️ vue3 admin template, 基于 vue3 的起手模板|157|2022-02-16|2021-04-14|
-|47|[Yanzengyong/threejs-login-view](https://github.com/Yanzengyong/threejs-login-view)|login view of threejs + vue3 |150|2021-10-21|2021-10-18|
+|47|[Yanzengyong/threejs-login-view](https://github.com/Yanzengyong/threejs-login-view)|login view of threejs + vue3 |152|2021-10-21|2021-10-18|
 |48|[antfu/vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge)|🏕 Vitesse experience for Nuxt 2 and Vue 2|143|2021-11-19|2021-02-26|
-|49|[philipptrenz/covidpass](https://github.com/philipptrenz/covidpass)|Scan your vaccination, test and recovery certificates in QR code representation and save them to your Apple Wallet|138|2021-12-23|2021-06-17|
-|50|[socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui)|Admin UI for Socket.IO|138|2021-11-07|2021-04-15|
-|51|[eip-work/kuboard-spray](https://github.com/eip-work/kuboard-spray)|使用图形化的界面离线安装、维护高可用的 K8S 集群|131|2022-02-20|2022-01-03|
-|52|[arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue)|An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.|130|2022-02-18|2021-11-04|
-|53|[sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel)|It's a dashboard theme/UI-Starter Kit with Laravel, Inertia and Vue (JetStream).|128|2022-02-19|2021-05-23|
-|54|[Qvant-lab/qui-max](https://github.com/Qvant-lab/qui-max)|A Vue 3.x Neumorphic design system for Web. Written on TypeScript with Composition API 🔥|128|2022-02-17|2021-03-12|
-|55|[lstoeferle/vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter)|Vite - Vue 2 starter template using composition-api and windiCSS|128|2022-01-27|2021-02-23|
-|56|[Tencent/tdesign-vue-starter](https://github.com/Tencent/tdesign-vue-starter)|A starter-kit for TDesign Vue UI components.|127|2022-02-18|2021-12-14|
-|57|[Vuepic/vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker)|Datepicker component for Vue 3|127|2022-02-20|2021-05-29|
+|49|[socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui)|Admin UI for Socket.IO|139|2021-11-07|2021-04-15|
+|50|[philipptrenz/covidpass](https://github.com/philipptrenz/covidpass)|Scan your vaccination, test and recovery certificates in QR code representation and save them to your Apple Wallet|138|2021-12-23|2021-06-17|
+|51|[eip-work/kuboard-spray](https://github.com/eip-work/kuboard-spray)|使用图形化的界面离线安装、维护高可用的 K8S 集群|134|2022-02-21|2022-01-03|
+|52|[arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue)|An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.|132|2022-02-21|2021-11-04|
+|53|[Tencent/tdesign-vue-starter](https://github.com/Tencent/tdesign-vue-starter)|A starter-kit for TDesign Vue UI components.|128|2022-02-18|2021-12-14|
+|54|[Vuepic/vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker)|Datepicker component for Vue 3|128|2022-02-21|2021-05-29|
+|55|[sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel)|It's a dashboard theme/UI-Starter Kit with Laravel, Inertia and Vue (JetStream).|128|2022-02-19|2021-05-23|
+|56|[Qvant-lab/qui-max](https://github.com/Qvant-lab/qui-max)|A Vue 3.x Neumorphic design system for Web. Written on TypeScript with Composition API 🔥|128|2022-02-21|2021-03-12|
+|57|[lstoeferle/vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter)|Vite - Vue 2 starter template using composition-api and windiCSS|128|2022-01-27|2021-02-23|
 |58|[Kamona-WD/kui-laravel-breeze](https://github.com/Kamona-WD/kui-laravel-breeze)|Different UI for laravel/breeze.|115|2022-02-05|2021-10-09|
-|59|[royalknight56/win10-vue3](https://github.com/royalknight56/win10-vue3)|基于Vue3的win10风格的UI框架,Win10 Simulator framework built with Vue3.模仿windows10的vue3框架.  windows10 in vue3|113|2022-02-18|2021-08-06|
+|59|[royalknight56/win10-vue3](https://github.com/royalknight56/win10-vue3)|基于Vue3的win10风格的UI框架,Win10 Simulator framework built with Vue3.模仿windows10的vue3框架.  windows10 in vue3|114|2022-02-18|2021-08-06|
 |60|[bilalbentoumi/win11-vue](https://github.com/bilalbentoumi/win11-vue)|Windows 11 Simulator built with Vue.js|112|2021-09-04|2021-08-28|
 |61|[longjiang/zerotohero-nuxt](https://github.com/longjiang/zerotohero-nuxt)|-|111|2022-02-07|2021-05-21|
-|62|[creativetimofficial/muse-vue-ant-design-dashboard](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard)|Muse Vue Ant Design Dashboard - Free and OpenSource Ant Design Vue Dashboard|107|2021-09-08|2021-07-21|
-|63|[Tencent/tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter)|A starter-kit for TDesign Vue Next UI components|104|2022-02-19|2021-12-14|
+|62|[Tencent/tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter)|A starter-kit for TDesign Vue Next UI components|107|2022-02-19|2021-12-14|
+|63|[creativetimofficial/muse-vue-ant-design-dashboard](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard)|Muse Vue Ant Design Dashboard - Free and OpenSource Ant Design Vue Dashboard|107|2021-09-08|2021-07-21|
 |64|[ilmoi/nft-armory](https://github.com/ilmoi/nft-armory)|Simple tool to display, mint, and modify your Metaplex NFTs|103|2022-02-08|2021-11-06|
 |65|[Kholid060/projectile](https://github.com/Kholid060/projectile)|An app for managing your JavaScript projects|101|2021-09-18|2021-06-09|
 |66|[areindl/nuxt-structure-with-modules](https://github.com/areindl/nuxt-structure-with-modules)|Lightning Talk at Nuxt Nation 2021|98|2021-11-18|2021-09-13|
-|67|[s1modev/media-upload](https://github.com/s1modev/media-upload)|🖼️ Vue 3 component for multiple images upload with preview. Media-Upload support the create and the update form, and it will handle the upload for you.|95|2022-02-04|2022-01-02|
-|68|[shamscorner/vue-3-stackter](https://github.com/shamscorner/vue-3-stackter)|A Vue3 starter project setup with Vite, Vue-meta, Router, Vuex, Eslint, Prettier, Tailwind CSS, and some custom preferences. Also, there is a TypeScript branch of this same setup.|93|2021-12-03|2021-07-12|
-|69|[celetor/web-yuedu3](https://github.com/celetor/web-yuedu3)|阅读legado的web端，forked from zsakvo/web-yuedu|92|2021-08-25|2021-07-01|
-|70|[KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)|-|91|2021-10-09|2021-09-05|
-|71|[valgeirb/vue3-popper](https://github.com/valgeirb/vue3-popper)|A Vue.js popover component based on PopperJS|89|2021-12-07|2021-06-04|
-|72|[alvarosabu/vitesome](https://github.com/alvarosabu/vitesome)|A simple opinionated Vue3 Starter Template with Vite.js|89|2022-02-20|2021-05-24|
-|73|[aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev)|⚡ A portfolio for developers with a blog powered by Notion|86|2022-02-14|2021-11-23|
-|74|[cruip/vuejs-admin-dashboard-template](https://github.com/cruip/vuejs-admin-dashboard-template)|Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in Vue. Made by|86|2022-02-09|2021-11-17|
-|75|[jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template)|🎉 A new generation vue3 admin template, It's easy and fast!|85|2022-01-29|2021-08-20|
+|67|[jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template)|🎉 A new generation vue3 admin template, It's easy and fast!|97|2022-02-21|2021-08-20|
+|68|[s1modev/media-upload](https://github.com/s1modev/media-upload)|🖼️ Vue 3 component for multiple images upload with preview. Media-Upload support the create and the update form, and it will handle the upload for you.|95|2022-02-04|2022-01-02|
+|69|[shamscorner/vue-3-stackter](https://github.com/shamscorner/vue-3-stackter)|A Vue3 starter project setup with Vite, Vue-meta, Router, Vuex, Eslint, Prettier, Tailwind CSS, and some custom preferences. Also, there is a TypeScript branch of this same setup.|93|2021-12-03|2021-07-12|
+|70|[celetor/web-yuedu3](https://github.com/celetor/web-yuedu3)|阅读legado的web端，forked from zsakvo/web-yuedu|93|2021-08-25|2021-07-01|
+|71|[KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)|-|91|2021-10-09|2021-09-05|
+|72|[alvarosabu/vitesome](https://github.com/alvarosabu/vitesome)|A simple opinionated Vue3 Starter Template with Vite.js|90|2022-02-20|2021-05-24|
+|73|[valgeirb/vue3-popper](https://github.com/valgeirb/vue3-popper)|A Vue.js popover component based on PopperJS|89|2021-12-07|2021-06-04|
+|74|[aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev)|⚡ A portfolio for developers with a blog powered by Notion|87|2022-02-14|2021-11-23|
+|75|[cruip/vuejs-admin-dashboard-template](https://github.com/cruip/vuejs-admin-dashboard-template)|Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in Vue. Made by|86|2022-02-09|2021-11-17|
 |76|[TinsideDesign/bk-vue-cec](https://github.com/TinsideDesign/bk-vue-cec)|A vue component library incubated from Tencent BlueKing which helps OPS in the field of front-end engineering to quickly build stable, accurate, and technologically-sense operation and maintenance too ...|85|2021-12-18|2021-08-18|
 |77|[ulamlabs/OpenNFT](https://github.com/ulamlabs/OpenNFT)|Cloud-native platform for building an NFT Marketplace on top of Algorand blockchain. |85|2021-12-01|2021-05-18|
 |78|[peng-xiao-shuai/vite-vue-admin](https://github.com/peng-xiao-shuai/vite-vue-admin)|🎉🎉使用Vite + Vue3 + TypeScript + Element-plus + Mock开发的后台管理系统🎉🎉|84|2021-10-22|2021-04-02|
 |79|[SteinOveHelset/djackets_vue](https://github.com/SteinOveHelset/djackets_vue)|-|84|2021-11-29|2021-03-06|
 |80|[nuxtlabs/nuxtlabs.com](https://github.com/nuxtlabs/nuxtlabs.com)|The repository for nuxtlabs.com website.|82|2022-01-19|2021-08-16|
-|81|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|81|2021-12-03|2021-06-20|
-|82|[familytree365/nuxt](https://github.com/familytree365/nuxt)|Nuxt client for genealogy project.  Family tree and genealogy data processing website software client.|80|2022-02-15|2021-08-23|
-|83|[B1gM8c/PrivacysClub](https://github.com/B1gM8c/PrivacysClub)|-|79|2021-11-15|2021-08-16|
-|84|[themeselection/materio-vuetify-vuejs-laravel-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free)|Production Ready, Carefully Crafted, Extensive Vuejs Laravel Free Admin Template 🤩|76|2022-01-31|2021-09-22|
-|85|[wobsoriano/codeplayground](https://github.com/wobsoriano/codeplayground)|Codepen.io clone using Vue 3 and Monaco Editor|76|2022-02-04|2021-06-26|
-|86|[Kholid060/notething](https://github.com/Kholid060/notething)|Note-taking app with full keyboard compatibility.|75|2021-10-24|2021-08-24|
-|87|[0perationPrivacy/VoIP](https://github.com/0perationPrivacy/VoIP)|Web Base Telnyx/Twilio VoIP Interface enabling SMS, MMS and Voice calls using the providers API Keys and self-hosting the application.|75|2022-01-16|2021-08-22|
-|88|[slidevjs/themes](https://github.com/slidevjs/themes)|Official themes for Slidev|75|2021-11-23|2021-05-10|
-|89|[NunezManriqueCuauhtemocEmmanuel/node-uno-js](https://github.com/NunezManriqueCuauhtemocEmmanuel/node-uno-js)|-|74|2021-11-25|2021-11-25|
-|90|[Atinux/discuss](https://github.com/Atinux/discuss)|Discuss with me 💬|74|2021-11-30|2021-11-22|
-|91|[retnullyu/myscanner-front](https://github.com/retnullyu/myscanner-front)|a vuln scanner powered by springboot&spring security and vueadmin|73|2022-02-08|2022-02-08|
-|92|[bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer)|A simple grid-based web viewer for Formula 1|73|2022-02-20|2021-04-26|
-|93|[lorisleiva/solana-twitter](https://github.com/lorisleiva/solana-twitter)|Simple tweets as Solana accounts|71|2022-02-13|2021-11-11|
-|94|[kamona-ui/kui-dashboard-vue](https://github.com/kamona-ui/kui-dashboard-vue)|Admin dashboard template built with tailwindcss & vuejs 3.|70|2022-02-08|2022-02-02|
-|95|[jzfai/vue3-admin-ts](https://github.com/jzfai/vue3-admin-ts)|🎉 the ts version of vue3-admin-template|70|2022-02-18|2021-09-04|
-|96|[one-aalam/nuxt-starter-kit](https://github.com/one-aalam/nuxt-starter-kit)|Nuxt3 with brilliant bells and useful whistles|69|2022-01-30|2021-10-12|
-|97|[ademilter/vue-nice-avatar](https://github.com/ademilter/vue-nice-avatar)|-|69|2021-12-21|2021-06-10|
-|98|[justinmetros/NuxtShop](https://github.com/justinmetros/NuxtShop)|A Shopify starter with Nuxt 3 + Pinia + Apollo + Tailwind 3 + Layer0|68|2022-02-14|2022-01-06|
+|81|[retnullyu/myscanner-front](https://github.com/retnullyu/myscanner-front)|a vuln scanner powered by springboot&spring security and vueadmin|81|2022-02-08|2022-02-08|
+|82|[averkij/a-studio](https://github.com/averkij/a-studio)|Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.|81|2021-12-03|2021-06-20|
+|83|[familytree365/nuxt](https://github.com/familytree365/nuxt)|Nuxt client for genealogy project.  Family tree and genealogy data processing website software client.|80|2022-02-15|2021-08-23|
+|84|[B1gM8c/PrivacysClub](https://github.com/B1gM8c/PrivacysClub)|-|79|2021-11-15|2021-08-16|
+|85|[themeselection/materio-vuetify-vuejs-laravel-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free)|Production Ready, Carefully Crafted, Extensive Vuejs Laravel Free Admin Template 🤩|76|2022-01-31|2021-09-22|
+|86|[wobsoriano/codeplayground](https://github.com/wobsoriano/codeplayground)|Codepen.io clone using Vue 3 and Monaco Editor|76|2022-02-04|2021-06-26|
+|87|[Kholid060/notething](https://github.com/Kholid060/notething)|Note-taking app with full keyboard compatibility.|75|2021-10-24|2021-08-24|
+|88|[0perationPrivacy/VoIP](https://github.com/0perationPrivacy/VoIP)|Web Base Telnyx/Twilio VoIP Interface enabling SMS, MMS and Voice calls using the providers API Keys and self-hosting the application.|75|2022-01-16|2021-08-22|
+|89|[slidevjs/themes](https://github.com/slidevjs/themes)|Official themes for Slidev|75|2021-11-23|2021-05-10|
+|90|[NunezManriqueCuauhtemocEmmanuel/node-uno-js](https://github.com/NunezManriqueCuauhtemocEmmanuel/node-uno-js)|-|74|2021-11-25|2021-11-25|
+|91|[Atinux/discuss](https://github.com/Atinux/discuss)|Discuss with me 💬|74|2021-11-30|2021-11-22|
+|92|[lorisleiva/solana-twitter](https://github.com/lorisleiva/solana-twitter)|Simple tweets as Solana accounts|73|2022-02-13|2021-11-11|
+|93|[bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer)|A simple grid-based web viewer for Formula 1|73|2022-02-21|2021-04-26|
+|94|[kamona-ui/kui-dashboard-vue](https://github.com/kamona-ui/kui-dashboard-vue)|Admin dashboard template built with tailwindcss & vuejs 3.|71|2022-02-08|2022-02-02|
+|95|[jzfai/vue3-admin-ts](https://github.com/jzfai/vue3-admin-ts)|🎉 the ts version of vue3-admin-template|71|2022-02-18|2021-09-04|
+|96|[justinmetros/NuxtShop](https://github.com/justinmetros/NuxtShop)|A Shopify starter with Nuxt 3 + Pinia + Apollo + Tailwind 3 + Layer0|70|2022-02-14|2022-01-06|
+|97|[one-aalam/nuxt-starter-kit](https://github.com/one-aalam/nuxt-starter-kit)|Nuxt3 with brilliant bells and useful whistles|70|2022-01-30|2021-10-12|
+|98|[ademilter/vue-nice-avatar](https://github.com/ademilter/vue-nice-avatar)|-|69|2021-12-21|2021-06-10|
 |99|[oslabs-beta/birdzeye](https://github.com/oslabs-beta/birdzeye)|Dedicated Vue IDE|67|2021-12-15|2021-08-27|
 |100|[slidevjs/docs](https://github.com/slidevjs/docs)|Documentation for Slidev|67|2022-02-16|2021-05-20|
-|101|[uilibrary/AatroX-vue](https://github.com/uilibrary/AatroX-vue)|💚 A Minimal  Admin Dashboard Develop with Vuejs 3, Vite, and TailwindCss. It's Free and Open Source 💥|66|2021-11-29|2021-10-13|
-|102|[mayashavin/vurian-wizard](https://github.com/mayashavin/vurian-wizard)|A Wizard Vue component on Vue 3 and state machine|65|2022-02-04|2022-02-02|
-|103|[LouanBen/wordle-fr](https://github.com/LouanBen/wordle-fr)|"Le Mot" un Wordle en français.|64|2022-02-16|2022-01-09|
+|101|[LouanBen/wordle-fr](https://github.com/LouanBen/wordle-fr)|"Le Mot" un Wordle en français.|66|2022-02-16|2022-01-09|
+|102|[uilibrary/AatroX-vue](https://github.com/uilibrary/AatroX-vue)|💚 A Minimal  Admin Dashboard Develop with Vuejs 3, Vite, and TailwindCss. It's Free and Open Source 💥|66|2021-11-29|2021-10-13|
+|103|[mayashavin/vurian-wizard](https://github.com/mayashavin/vurian-wizard)|A Wizard Vue component on Vue 3 and state machine|65|2022-02-04|2022-02-02|
 |104|[Baiang/IconSpirit](https://github.com/Baiang/IconSpirit)|IconSpirit is a vector icon library of corporate intranet Icons developed based on node + vue|64|2021-11-05|2021-10-25|
 |105|[ktansai/COVID-19-ExposeChecker](https://github.com/ktansai/COVID-19-ExposeChecker)|-|63|2022-02-06|2021-08-09|
-|106|[bourgeoisor/xivtodo](https://github.com/bourgeoisor/xivtodo)|✔ Useful dashboards, tailored checklists and tools for Final Fantasy XIV.|63|2022-02-19|2021-05-29|
+|106|[bourgeoisor/xivtodo](https://github.com/bourgeoisor/xivtodo)|✔ Useful dashboards, tailored checklists and tools for Final Fantasy XIV.|63|2022-02-21|2021-05-29|
 |107|[Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud)|Turn any computer at home into a cloud for easy sharing of files across your devices.|63|2021-12-19|2021-05-02|
 |108|[XboxYan/coupon](https://github.com/XboxYan/coupon)|🎫 Generate Coupon-UI CSS code|63|2021-11-02|2021-04-24|
 |109|[johnkomarnicki/vue-invoice-app](https://github.com/johnkomarnicki/vue-invoice-app)|-|62|2022-01-30|2021-05-27|
-|110|[Patrick-web/FLB-Music-Player-Official](https://github.com/Patrick-web/FLB-Music-Player-Official)|A Beautiful and Feature rich Cross platform Music player |62|2021-10-26|2021-03-02|
+|110|[realstoman/vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio)|A simple multipage and responsive Vue.js & TailwindCSS portfolio theme with dark mode.|62|2022-02-02|2021-05-20|
 |111|[qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x)|🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉|61|2022-02-10|2021-10-30|
-|112|[realstoman/vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio)|A simple multipage and responsive Vue.js & TailwindCSS portfolio theme with dark mode.|61|2022-02-02|2021-05-20|
-|113|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — As a Toy|60|2022-01-11|2021-11-15|
-|114|[misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue)|A Wails template based on Vue and Vue-Router|60|2022-02-20|2021-08-11|
+|112|[misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue)|A Wails template based on Vue and Vue-Router|61|2022-02-21|2021-08-11|
+|113|[Patrick-web/FLB-Music-Player-Official](https://github.com/Patrick-web/FLB-Music-Player-Official)|A Beautiful and Feature rich Cross platform Music player |61|2021-10-26|2021-03-02|
+|114|[yesmore/Different-UI](https://github.com/yesmore/Different-UI)|✨ A Vue.js 3 UI Library — As a Toy|60|2022-01-11|2021-11-15|
 |115|[mehmetsagir/windows10](https://github.com/mehmetsagir/windows10)|In this project I cloned the user interface of Windows using Vue.js. Each folder in it represents a GitHub repository.|60|2022-02-17|2021-05-16|
 |116|[elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui)|Magento 2 Upgrade GUI|59|2022-01-11|2021-12-14|
 |117|[dhs17y2adonchia/win95](https://github.com/dhs17y2adonchia/win95)|Windows 95 Portfolio built with Vue.js|58|2022-01-31|2021-11-16|
-|118|[zmops/zeus-iot-ui](https://github.com/zmops/zeus-iot-ui)|Zeus IoT platform web ui.|57|2022-02-18|2021-07-28|
-|119|[alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin)|A Penguin 🐧   theme for Slidev|57|2021-12-09|2021-05-30|
-|120|[SevenC-base/P2note](https://github.com/SevenC-base/P2note)|Penetration testing payload note|57|2021-12-22|2021-05-19|
-|121|[samzhangjy/VueBlogger](https://github.com/samzhangjy/VueBlogger)|:tada: A light-weight blogging site for Vue.js|56|2022-02-18|2021-10-06|
-|122|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|56|2022-02-16|2021-09-02|
-|123|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|55|2022-02-20|2021-11-28|
-|124|[vivekascoder/vite-vue-tailwind-jit](https://github.com/vivekascoder/vite-vue-tailwind-jit)|This template allows you to quickly scaffold a Vue project with Vue Router, VueX, TailwindCss with JIT Compiler and vite as a bundler. |55|2021-09-16|2021-09-10|
-|125|[Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend)|Cv Keep front end official repository|55|2022-02-18|2021-04-22|
-|126|[fayazara/feedful](https://github.com/fayazara/feedful)|A fast, jamstack, opinionated rss reader for tech news.|54|2022-02-20|2022-01-23|
-|127|[viandwi24/nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter)|a Nuxt 3 starter template or boilerplate with a lot of useful features. Nuxt3 + Tailwindcss 3|54|2022-02-12|2022-01-14|
-|128|[chrisbeluga/kirby-navigation](https://github.com/chrisbeluga/kirby-navigation)|Navigation field for getkirby.com|54|2021-10-14|2021-09-09|
-|129|[obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter)|:male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3|54|2022-02-13|2021-02-26|
+|118|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|57|2022-02-21|2021-11-28|
+|119|[zmops/zeus-iot-ui](https://github.com/zmops/zeus-iot-ui)|Zeus IoT platform web ui.|57|2022-02-21|2021-07-28|
+|120|[alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin)|A Penguin 🐧   theme for Slidev|57|2021-12-09|2021-05-30|
+|121|[SevenC-base/P2note](https://github.com/SevenC-base/P2note)|Penetration testing payload note|57|2021-12-22|2021-05-19|
+|122|[samzhangjy/VueBlogger](https://github.com/samzhangjy/VueBlogger)|:tada: A light-weight blogging site for Vue.js|56|2022-02-21|2021-10-06|
+|123|[advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app)|Mobile application for Audiobookshelf|56|2022-02-16|2021-09-02|
+|124|[obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter)|:male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3|56|2022-02-13|2021-02-26|
+|125|[viandwi24/nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter)|a Nuxt 3 starter template or boilerplate with a lot of useful features. Nuxt3 + Tailwindcss 3|55|2022-02-12|2022-01-14|
+|126|[vivekascoder/vite-vue-tailwind-jit](https://github.com/vivekascoder/vite-vue-tailwind-jit)|This template allows you to quickly scaffold a Vue project with Vue Router, VueX, TailwindCss with JIT Compiler and vite as a bundler. |55|2021-09-16|2021-09-10|
+|127|[Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend)|Cv Keep front end official repository|55|2022-02-18|2021-04-22|
+|128|[fayazara/feedful](https://github.com/fayazara/feedful)|A fast, jamstack, opinionated rss reader for tech news.|54|2022-02-21|2022-01-23|
+|129|[chrisbeluga/kirby-navigation](https://github.com/chrisbeluga/kirby-navigation)|Navigation field for getkirby.com|54|2021-10-14|2021-09-09|
 |130|[sinan-aydogan/anemon-laravel](https://github.com/sinan-aydogan/anemon-laravel)|Laravel 9, Vue3 and Tailwind3 based Admin Development KIT|53|2022-02-19|2021-12-01|
 |131|[yooneskh/vite-tauri-template](https://github.com/yooneskh/vite-tauri-template)|Tauri + Vite + Vue 3 + Vuetify 3 desktop app template|53|2021-10-29|2021-06-25|
 |132|[ngekoding/admin-panel](https://github.com/ngekoding/admin-panel)|Admin Panel created with VueJS + Vite + Tailwind|52|2021-09-17|2021-08-20|
-|133|[kawamataryo/animated-emoji-gen](https://github.com/kawamataryo/animated-emoji-gen)|The tool makes it easy to create animated GIFs of Slack custom emoji.|52|2022-02-19|2021-08-08|
+|133|[kawamataryo/animated-emoji-gen](https://github.com/kawamataryo/animated-emoji-gen)|The tool makes it easy to create animated GIFs of Slack custom emoji.|52|2022-02-21|2021-08-08|
 |134|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|52|2021-12-19|2021-05-22|
 |135|[JoBinsJP/vue3-datatable](https://github.com/JoBinsJP/vue3-datatable)|Data table component for Vue3|52|2022-02-12|2021-04-08|
 |136|[nuxt/starter](https://github.com/nuxt/starter)|Nuxt minimal starter|51|2022-01-17|2021-05-21|
 |137|[hd996/nuxt3-demo](https://github.com/hd996/nuxt3-demo)|nuxt3 demo|49|2021-11-17|2021-11-17|
 |138|[ShipLift-LLC/defrag](https://github.com/ShipLift-LLC/defrag)|-|49|2021-12-10|2021-11-07|
-|139|[antfu/slidev-new](https://github.com/antfu/slidev-new)|Slidev Online, powered by StackBlitz ⚡️|49|2021-10-02|2021-09-17|
-|140|[gilnd/vue3-smooth-dnd](https://github.com/gilnd/vue3-smooth-dnd)|Vue3 wrapper components for smooth-dnd |49|2021-09-01|2021-05-28|
-|141|[someGenki/vue-lite-admin](https://github.com/someGenki/vue-lite-admin)|a lite vue3.0 admin template,there is no typescript and vuex (但注释挺全)|49|2022-02-16|2021-05-28|
-|142|[appwrite/demo-todo-with-vue](https://github.com/appwrite/demo-todo-with-vue)|A basic demo example for integrating between Appwrite & Vue JS 💚 |48|2021-12-19|2021-03-28|
-|143|[xiaoxian521/pure-admin-thin](https://github.com/xiaoxian521/pure-admin-thin)|vue-pure-admin官方精简版|47|2022-02-18|2021-10-16|
-|144|[lepikhinb/sugar](https://github.com/lepikhinb/sugar)|-|47|2021-10-19|2021-09-15|
-|145|[ckpack/vue-color](https://github.com/ckpack/vue-color)|(vue3.0) 🎨 Vue Color Pickers UI Library for Sketch, Photoshop, Chrome & more|47|2022-02-16|2021-04-16|
+|139|[xiaoxian521/pure-admin-thin](https://github.com/xiaoxian521/pure-admin-thin)|vue-pure-admin官方精简版|49|2022-02-18|2021-10-16|
+|140|[antfu/slidev-new](https://github.com/antfu/slidev-new)|Slidev Online, powered by StackBlitz ⚡️|49|2021-10-02|2021-09-17|
+|141|[gilnd/vue3-smooth-dnd](https://github.com/gilnd/vue3-smooth-dnd)|Vue3 wrapper components for smooth-dnd |49|2021-09-01|2021-05-28|
+|142|[someGenki/vue-lite-admin](https://github.com/someGenki/vue-lite-admin)|a lite vue3.0 admin template,there is no typescript and vuex (但注释挺全)|49|2022-02-21|2021-05-28|
+|143|[ckpack/vue-color](https://github.com/ckpack/vue-color)|(vue3.0) 🎨 Vue Color Pickers UI Library for Sketch, Photoshop, Chrome & more|48|2022-02-16|2021-04-16|
+|144|[appwrite/demo-todo-with-vue](https://github.com/appwrite/demo-todo-with-vue)|A basic demo example for integrating between Appwrite & Vue JS 💚 |48|2021-12-19|2021-03-28|
+|145|[lepikhinb/sugar](https://github.com/lepikhinb/sugar)|-|47|2021-10-19|2021-09-15|
 |146|[chafan-dev/chafan-pwa](https://github.com/chafan-dev/chafan-pwa)|PWA for Chafan|47|2022-02-19|2021-03-04|
 |147|[xinxin93/logicflow_vue_demo](https://github.com/xinxin93/logicflow_vue_demo)|-|47|2022-02-08|2021-02-24|
 |148|[zakaria-29-dev/Vuejs-Vuetify-UI-Design-Sprint-Report-System](https://github.com/zakaria-29-dev/Vuejs-Vuetify-UI-Design-Sprint-Report-System)|Vuejs - Vuetify UI Design, Sprint Report System - Dashboard - Javascript   HTML - CSS   Vue-ECharts|46|2022-01-02|2022-01-02|
-|149|[FLB-Music/FLB-Music-Player](https://github.com/FLB-Music/FLB-Music-Player)|A beautiful cross platform music player|46|2022-02-09|2021-08-27|
-|150|[CharlieDigital/vue3-pinia-quasar-ts](https://github.com/CharlieDigital/vue3-pinia-quasar-ts)|A minimal template that hooks up Vue 3, Pinia (Vuex 5), Quasar, Vue Router 4, and TypeScript|45|2022-01-16|2022-01-15|
-|151|[ctwhome/top-nuxt3](https://github.com/ctwhome/top-nuxt3)|Full stack Nuxt 3 Template starter with Supabase and Tailwindcss|45|2022-02-18|2021-12-24|
-|152|[NaturalSelectionLabs/Cheers](https://github.com/NaturalSelectionLabs/Cheers)|Your Web3 in one shot 🍻|45|2022-02-17|2021-08-17|
-|153|[leaderboardsgg/leaderboard-site](https://github.com/leaderboardsgg/leaderboard-site)|Frontend of Leaderboards.gg|45|2022-02-19|2021-06-22|
-|154|[mx-space/mx-admin](https://github.com/mx-space/mx-admin)|😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.|45|2022-02-19|2021-03-22|
+|149|[ctwhome/top-nuxt3](https://github.com/ctwhome/top-nuxt3)|Full stack Nuxt 3 Template starter with Supabase and Tailwindcss|46|2022-02-18|2021-12-24|
+|150|[FLB-Music/FLB-Music-Player](https://github.com/FLB-Music/FLB-Music-Player)|A beautiful cross platform music player|46|2022-02-09|2021-08-27|
+|151|[mx-space/mx-admin](https://github.com/mx-space/mx-admin)|😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.|46|2022-02-21|2021-03-22|
+|152|[CharlieDigital/vue3-pinia-quasar-ts](https://github.com/CharlieDigital/vue3-pinia-quasar-ts)|A minimal template that hooks up Vue 3, Pinia (Vuex 5), Quasar, Vue Router 4, and TypeScript|45|2022-01-16|2022-01-15|
+|153|[NaturalSelectionLabs/Cheers](https://github.com/NaturalSelectionLabs/Cheers)|Your Web3 in one shot 🍻|45|2022-02-21|2021-08-17|
+|154|[leaderboardsgg/leaderboard-site](https://github.com/leaderboardsgg/leaderboard-site)|Frontend of Leaderboards.gg|45|2022-02-19|2021-06-22|
 |155|[thuongtruong1009/bee-music](https://github.com/thuongtruong1009/bee-music)|Enjoy relaxing tunes after stressful working hours🎵. Updating version...|44|2022-02-15|2022-02-05|
-|156|[TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker)|TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.|44|2022-02-19|2021-06-20|
-|157|[0xsha/CrazyWall](https://github.com/0xsha/CrazyWall)|digital evidence board aka detective suite,  aka CrazyWall|43|2021-12-24|2021-12-24|
-|158|[cihat/full-stack-twitter-clone](https://github.com/cihat/full-stack-twitter-clone)|loading full-stack developer 🚀|43|2022-02-14|2021-08-03|
-|159|[bfritscher/typesense-dashboard](https://github.com/bfritscher/typesense-dashboard)|A Typesense Dashboard to manage and browse collections.|43|2021-12-03|2021-07-27|
-|160|[mujahidfa/vue-boring-avatars](https://github.com/mujahidfa/vue-boring-avatars)|A Vue.js port of Boring Avatars, a JS library that generates custom, SVG-based avatars from any username and color palette.|43|2022-02-03|2021-05-28|
-|161|[coderlyu/vite-frontend-template](https://github.com/coderlyu/vite-frontend-template)|a front end template development by vue3.x typescript vite2.x vuex4.x vue-router 4.x mock element-plus|43|2021-08-30|2021-02-24|
-|162|[xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar)|A journals calendar for Logseq.|42|2022-01-12|2021-09-06|
-|163|[claudiabdm/portfolio-2021](https://github.com/claudiabdm/portfolio-2021)|My personal website/portfolio built with Nuxt and Storyblok CMS. |42|2022-02-01|2021-06-23|
-|164|[RabotaRu/DocHub](https://github.com/RabotaRu/DocHub)|Портал управления контрактами|42|2022-02-06|2021-05-28|
-|165|[tehcneko/nekogram-files](https://github.com/tehcneko/nekogram-files)|Websites for Nekogram.|41|2022-02-17|2021-11-25|
+|156|[TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker)|TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.|44|2022-02-21|2021-06-20|
+|157|[coderlyu/vite-frontend-template](https://github.com/coderlyu/vite-frontend-template)|a front end template development by vue3.x typescript vite2.x vuex4.x vue-router 4.x mock element-plus|44|2021-08-30|2021-02-24|
+|158|[0xsha/CrazyWall](https://github.com/0xsha/CrazyWall)|digital evidence board aka detective suite,  aka CrazyWall|43|2021-12-24|2021-12-24|
+|159|[cihat/full-stack-twitter-clone](https://github.com/cihat/full-stack-twitter-clone)|loading full-stack developer 🚀|43|2022-02-14|2021-08-03|
+|160|[bfritscher/typesense-dashboard](https://github.com/bfritscher/typesense-dashboard)|A Typesense Dashboard to manage and browse collections.|43|2021-12-03|2021-07-27|
+|161|[claudiabdm/portfolio-2021](https://github.com/claudiabdm/portfolio-2021)|My personal website/portfolio built with Nuxt and Storyblok CMS. |43|2022-02-01|2021-06-23|
+|162|[mujahidfa/vue-boring-avatars](https://github.com/mujahidfa/vue-boring-avatars)|A Vue.js port of Boring Avatars, a JS library that generates custom, SVG-based avatars from any username and color palette.|43|2022-02-03|2021-05-28|
+|163|[tehcneko/nekogram-files](https://github.com/tehcneko/nekogram-files)|Websites for Nekogram.|42|2022-02-17|2021-11-25|
+|164|[xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar)|A journals calendar for Logseq.|42|2022-01-12|2021-09-06|
+|165|[RabotaRu/DocHub](https://github.com/RabotaRu/DocHub)|Портал управления контрактами|42|2022-02-06|2021-05-28|
 |166|[JDIZM/nuxt3-tailwind](https://github.com/JDIZM/nuxt3-tailwind)|nuxt3 boilerplate with tailwind and dynamic routes.|41|2021-10-27|2021-10-12|
 |167|[hints0816/artblog](https://github.com/hints0816/artblog)|vue3+quasar+gin搭建的blog平台|41|2022-01-19|2021-09-27|
 |168|[toshusai/vega](https://github.com/toshusai/vega)|Browser-based video editing software.|41|2022-01-19|2021-08-22|
 |169|[wuufeii/vue3-admin-vite](https://github.com/wuufeii/vue3-admin-vite)|使用vue3.x+vite2.x+element Plus开发的具有主题切换，自定义主题颜色，布局风格切换|41|2022-02-18|2021-08-19|
-|170|[IM-Tools/web-im-app](https://github.com/IM-Tools/web-im-app)|This is a vue3 + Element-plus written web IM web side 💻  📲. 🖥|41|2021-11-21|2021-06-24|
-|171|[emmanuelsw/notiwind](https://github.com/emmanuelsw/notiwind)|A headless Vue 3 notification library to use with Tailwind CSS.|41|2022-01-25|2021-05-21|
-|172|[fuyoo/bs-redis-desktop-client](https://github.com/fuyoo/bs-redis-desktop-client)|The BS redis desktop client is powered by Rust and Tauri, with very small weight, beautiful interface and faster running speed!|40|2022-02-09|2021-11-30|
-|173|[viandwi24/blockchain-simulation](https://github.com/viandwi24/blockchain-simulation)|A Simple Blockchain Simulation with Javascript Nodejs and VueJs as Front End|40|2022-02-17|2021-09-17|
+|170|[AykutSarac/chatify](https://github.com/AykutSarac/chatify)|💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.|41|2021-10-29|2021-07-08|
+|171|[IM-Tools/web-im-app](https://github.com/IM-Tools/web-im-app)|This is a vue3 + Element-plus written web IM web side 💻  📲. 🖥|41|2021-11-21|2021-06-24|
+|172|[emmanuelsw/notiwind](https://github.com/emmanuelsw/notiwind)|A headless Vue 3 notification library to use with Tailwind CSS.|41|2022-01-25|2021-05-21|
+|173|[fuyoo/bs-redis-desktop-client](https://github.com/fuyoo/bs-redis-desktop-client)|The BS redis desktop client is powered by Rust and Tauri, with very small weight, beautiful interface and faster running speed!|40|2022-02-09|2021-11-30|
 |174|[c6p/logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)|Logseq plugin for hypothes.is|40|2022-01-06|2021-08-22|
 |175|[nyancodeid/insta-share](https://github.com/nyancodeid/insta-share)|Instant File Sharing powered by IPFS Networks. Build with Vue 3 and ViteJS|40|2022-01-10|2021-07-18|
-|176|[AykutSarac/chatify](https://github.com/AykutSarac/chatify)|💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.|40|2021-10-29|2021-07-08|
-|177|[subins2000/mwordle](https://github.com/subins2000/mwordle)|Malayalam Wordle game using Varnam's Manglish API. Malayalam + English Script = Manglish|39|2022-02-20|2022-01-26|
-|178|[Karytonn/atomic-design-exemple](https://github.com/Karytonn/atomic-design-exemple)|VueJS with Atomic Design exemple|39|2021-12-19|2021-12-04|
-|179|[napthedev/mac-big-sur](https://github.com/napthedev/mac-big-sur)|-|39|2021-11-18|2021-11-16|
+|176|[subins2000/mwordle](https://github.com/subins2000/mwordle)|Malayalam Wordle game using Varnam's Manglish API. Malayalam + English Script = Manglish|39|2022-02-20|2022-01-26|
+|177|[Karytonn/atomic-design-exemple](https://github.com/Karytonn/atomic-design-exemple)|VueJS with Atomic Design exemple|39|2021-12-19|2021-12-04|
+|178|[napthedev/mac-big-sur](https://github.com/napthedev/mac-big-sur)|-|39|2021-11-18|2021-11-16|
+|179|[viandwi24/blockchain-simulation](https://github.com/viandwi24/blockchain-simulation)|A Simple Blockchain Simulation with Javascript Nodejs and VueJs as Front End|39|2022-02-17|2021-09-17|
 |180|[Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store)|A Cross-Platform App Store for Electron.js Apps|39|2021-12-22|2021-08-11|
-|181|[ZHISHIN/vue-project](https://github.com/ZHISHIN/vue-project)|-|38|2021-09-16|2021-09-16|
-|182|[Pi-Bouf/Hot-Swap-Bot](https://github.com/Pi-Bouf/Hot-Swap-Bot)|💰 Swaping bot for the BSC ! Swap WBNB to any BEP20 token automatically :)|38|2022-02-20|2021-07-28|
-|183|[wobsoriano/vue-cart](https://github.com/wobsoriano/vue-cart)|Shopping cart example using Vue 3 and Pinia|38|2022-02-01|2021-06-12|
+|181|[Pi-Bouf/Hot-Swap-Bot](https://github.com/Pi-Bouf/Hot-Swap-Bot)|💰 Swaping bot for the BSC ! Swap WBNB to any BEP20 token automatically :)|39|2022-02-20|2021-07-28|
+|182|[wobsoriano/vue-cart](https://github.com/wobsoriano/vue-cart)|Shopping cart example using Vue 3 and Pinia|39|2022-02-01|2021-06-12|
+|183|[ZHISHIN/vue-project](https://github.com/ZHISHIN/vue-project)|-|38|2021-09-16|2021-09-16|
 |184|[tandpfun/DiscordTools](https://github.com/tandpfun/DiscordTools)|Source code of the DiscordTools website at https://discordtools.io|38|2021-12-13|2021-06-07|
-|185|[emanates/emanates-web](https://github.com/emanates/emanates-web)|Build a blog on top of GitHub Issues and GitHub Actions in a few mins|38|2021-08-22|2021-04-03|
-|186|[vuong-cuong-phoenix/vite-vcp](https://github.com/vuong-cuong-phoenix/vite-vcp)|⚡ Opinionated Vite Starter Template. Inspired by Vitesse|38|2022-02-16|2021-02-22|
-|187|[vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja)|Japanese translation for Vue docs|37|2022-02-20|2022-01-05|
-|188|[z-yong/vue3--ruoyi-system](https://github.com/z-yong/vue3--ruoyi-system)|-|37|2021-11-26|2021-11-10|
-|189|[seydx/camera.ui](https://github.com/seydx/camera.ui)|NVR like user Interface for RTSP capable cameras|37|2022-02-19|2021-10-27|
-|190|[supaflare/supaflare](https://github.com/supaflare/supaflare)|URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.|37|2021-12-18|2021-10-11|
-|191|[comandogabrielboric/Boric_Presidente](https://github.com/comandogabrielboric/Boric_Presidente)|-|37|2021-12-20|2021-09-29|
-|192|[c6p/logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker)|Habit tracker for Logseq|37|2021-11-28|2021-08-15|
-|193|[SmallRuralDog/web3modal-vue](https://github.com/SmallRuralDog/web3modal-vue)|A single Web3 / Ethereum provider solution for all Wallets|37|2021-08-22|2021-06-29|
-|194|[NaturalSelectionLabs/Re-ID](https://github.com/NaturalSelectionLabs/Re-ID)|Browser extension for synchronizing social media with your own RSS3 file|37|2022-02-14|2021-05-24|
-|195|[slidevjs/docs-cn](https://github.com/slidevjs/docs-cn)|Chinese documentation for sli.dev|37|2022-02-16|2021-05-13|
-|196|[JSTOR-Labs/juncture](https://github.com/JSTOR-Labs/juncture)|A framework for creating and displaying visual essays|37|2022-02-14|2021-04-19|
-|197|[MouadZIANI/mouadziani.com](https://github.com/MouadZIANI/mouadziani.com)|My personal website, built with Nuxt.js & Tailwind, and deployed @netlify|37|2022-01-03|2021-03-03|
-|198|[fumeapp/tailvue](https://github.com/fumeapp/tailvue)|Vue components built for Nuxt3 Vue3 powered by Windi CSS tailwindcss|36|2022-02-15|2021-11-12|
-|199|[2501babe/revoken](https://github.com/2501babe/revoken)|web ui to revoke solana token approvals|36|2021-11-03|2021-10-23|
-|200|[Solar-Tweaks/Solar-Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks)|Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.|36|2022-01-01|2021-09-22|
+|185|[vuong-cuong-phoenix/vite-vcp](https://github.com/vuong-cuong-phoenix/vite-vcp)|⚡ Opinionated Vite Starter Template. Inspired by Vitesse|38|2022-02-16|2021-02-22|
+|186|[vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja)|Japanese translation for Vue docs|37|2022-02-21|2022-01-05|
+|187|[z-yong/vue3--ruoyi-system](https://github.com/z-yong/vue3--ruoyi-system)|-|37|2021-11-26|2021-11-10|
+|188|[seydx/camera.ui](https://github.com/seydx/camera.ui)|NVR like user Interface for RTSP capable cameras|37|2022-02-21|2021-10-27|
+|189|[supaflare/supaflare](https://github.com/supaflare/supaflare)|URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.|37|2021-12-18|2021-10-11|
+|190|[comandogabrielboric/Boric_Presidente](https://github.com/comandogabrielboric/Boric_Presidente)|-|37|2021-12-20|2021-09-29|
+|191|[c6p/logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker)|Habit tracker for Logseq|37|2021-11-28|2021-08-15|
+|192|[mvximenko/soundy](https://github.com/mvximenko/soundy)|Simplified version of SoundCloud built with Vue. |37|2021-11-23|2021-08-08|
+|193|[NaturalSelectionLabs/Re-ID](https://github.com/NaturalSelectionLabs/Re-ID)|Browser extension for synchronizing social media with your own RSS3 file|37|2022-02-21|2021-05-24|
+|194|[slidevjs/docs-cn](https://github.com/slidevjs/docs-cn)|Chinese documentation for sli.dev|37|2022-02-16|2021-05-13|
+|195|[JSTOR-Labs/juncture](https://github.com/JSTOR-Labs/juncture)|A framework for creating and displaying visual essays|37|2022-02-14|2021-04-19|
+|196|[MouadZIANI/mouadziani.com](https://github.com/MouadZIANI/mouadziani.com)|My personal website, built with Nuxt.js & Tailwind, and deployed @netlify|37|2022-01-03|2021-03-03|
+|197|[fumeapp/tailvue](https://github.com/fumeapp/tailvue)|Vue components built for Nuxt3 Vue3 powered by Windi CSS tailwindcss|36|2022-02-15|2021-11-12|
+|198|[2501babe/revoken](https://github.com/2501babe/revoken)|web ui to revoke solana token approvals|36|2021-11-03|2021-10-23|
+|199|[Solar-Tweaks/Solar-Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks)|Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.|36|2022-01-01|2021-09-22|
+|200|[VisheshBansal/Portfolio-Website](https://github.com/VisheshBansal/Portfolio-Website)|Vishesh's Portfolio Website|36|2021-09-01|2021-07-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

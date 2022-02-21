@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,9 +12,9 @@
 |5|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
 |6|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-01-10|2021-12-31|
 |7|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
-|8|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-02-17|2021-09-07|
+|8|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-02-21|2021-09-07|
 |9|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2021-11-09|2021-08-03|
-|10|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2021-12-27|2021-05-05|
+|10|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-02-21|2021-05-05|
 |11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2022-01-04|2021-03-12|
 |12|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|5|2022-01-15|2021-12-03|
 |13|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|5|2021-12-03|2021-09-25|
@@ -42,7 +42,7 @@
 |35|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2022-02-10|2021-12-02|
 |36|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
 |37|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2022-01-11|2021-11-13|
-|38|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2021-11-03|2021-11-01|
+|38|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2022-02-21|2021-11-01|
 |39|[vAndrija/kts-devops](https://github.com/vAndrija/kts-devops)|-|2|2022-01-29|2021-10-27|
 |40|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
 |41|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
