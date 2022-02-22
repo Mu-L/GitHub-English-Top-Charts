@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4945|6|2022-01-15|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4955|6|2022-01-15|
 |2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13889|4|2022-01-23|
 |3|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2094|1|2021-11-22|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2719|1|2021-12-16|
@@ -18,7 +18,7 @@
 |11|[bimsina/SortingAlgorithmsVisualizer](https://github.com/bimsina/SortingAlgorithmsVisualizer)|Sorting algorithms visualizer in Flutter.|54|0|2021-09-07|
 |12|[gemu2015/cocotron-sierra](https://github.com/gemu2015/cocotron-sierra)|clone of cocotron master adapted for OSX Sierra|7|0|2021-10-20|
 |13|[kurtsev0103/godot-facebook-auth](https://github.com/kurtsev0103/godot-facebook-auth)|Plugin for authorization with Facebook for Godot Game Engine (iOS)|5|0|2021-12-07|
-|14|[RemoteMonster/ios-sdk](https://github.com/RemoteMonster/ios-sdk)|RemoteMonster iOS SDK & examples|10|0|2022-02-09|
+|14|[RemoteMonster/ios-sdk](https://github.com/RemoteMonster/ios-sdk)|RemoteMonster iOS SDK & examples|11|0|2022-02-09|
 |15|[Mhusain/FacebookAccountKit](https://github.com/Mhusain/FacebookAccountKit)|Apache Cordova Facebook Account Kit Login Plugin - Allows email and mobile logins using Facebook Account Kit for iOS & Android|8|0|2021-08-24|
 |16|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode)|This demo teaches you how to import and activate DJI SDK in your Xcode project.|4|0|2021-10-11|
 |17|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|0|2021-10-11|
@@ -58,7 +58,7 @@
 |51|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2022-02-11|
 |52|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|91|0|2021-11-27|
 |53|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|457|0|2021-12-24|
-|54|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1210|0|2022-02-21|
+|54|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1211|0|2022-02-21|
 |55|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2022-02-12|
 |56|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|0|2022-01-15|
 |57|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|11|0|2021-10-29|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[flutomax/ChladniPlate2](https://github.com/flutomax/ChladniPlate2)|Simulating cymatics with Chladni patterns|4|1|2022-02-16|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master is a Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, Free ...|15|0|2022-02-13|
-|3|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|6|0|2021-11-03|
+|3|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|7|0|2021-11-03|
 |4|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|0|2021-12-09|
 |5|[mlcdev/tinypascal](https://github.com/mlcdev/tinypascal)|advanced interpreter study|3|0|2022-01-20|
 |6|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|0|2021-12-21|
@@ -25,7 +25,7 @@
 |18|[CleverComponents/OpenSSL-With-Memory-Bios](https://github.com/CleverComponents/OpenSSL-With-Memory-Bios)|A simple Delphi project to learn the TLS handshake implementation using OpenSSL 3.0 Memory BIOs.|4|0|2022-01-31|
 |19|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|126|0|2022-02-17|
 |20|[r57zone/Home-Library](https://github.com/r57zone/Home-Library)|Catalog for movies, tv shows, games and books / Каталог для фильмов, сериалов, игр и книг|9|0|2022-01-16|
-|21|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|0|2022-02-20|
+|21|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|5|0|2022-02-22|
 |22|[SNEG-DEV/siege-of-avalon](https://github.com/SNEG-DEV/siege-of-avalon)|"Siege of Avalon: Anthology” Remastered : Open Source|37|0|2022-01-23|
 |23|[dalijap/code-delphi-async](https://github.com/dalijap/code-delphi-async)|Code examples from Delphi Event-based and Asynchronous Programming Book|23|0|2022-01-22|
 |24|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|0|2021-12-12|
@@ -34,7 +34,7 @@
 |27|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2022-02-06|
 |28|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2022-01-26|
 |29|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
-|30|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1217|0|2021-12-09|
+|30|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1218|0|2021-12-09|
 |31|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|0|2022-01-27|
 |32|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|58|0|2021-10-30|
 |33|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|38|0|2021-09-09|
@@ -53,7 +53,7 @@
 |46|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|20|0|2022-01-16|
 |47|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2022-02-09|
 |48|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|7|0|2022-01-31|
-|49|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|0|2022-02-21|
+|49|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|0|2022-02-22|
 |50|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|20|0|2022-02-12|
 |51|[GuvaCode/Code-Librarian](https://github.com/GuvaCode/Code-Librarian)|The Code Librarian enables you to organize and access often-used code snippets.  It is an easy way to store the various code items that you use often, but do not fit into a general-purpose library uni ...|7|0|2022-02-20|
 |52|[isemenkov/libpasc-algorithms](https://github.com/isemenkov/libpasc-algorithms)|libPasC-Algorithms is delphi and object pascal library of common data structures and algorithms. The library is a set of containers adapted for the Pascal language and the template system available on ...|12|0|2021-10-30|
