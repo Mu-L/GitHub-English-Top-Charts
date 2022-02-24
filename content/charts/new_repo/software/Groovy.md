@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|15|2021-11-09|2021-10-03|
 |3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|13|2022-02-23|2021-05-19|
-|4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|12|2022-01-27|2021-09-30|
+|4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|12|2022-02-24|2021-09-30|
 |5|[timosarkar/enki](https://github.com/timosarkar/enki)|An innovative programming-language with a functional touch, built on Groovy|9|2021-11-01|2021-03-05|
 |6|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-01-10|2021-12-31|
 |7|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
@@ -60,12 +60,13 @@
 |53|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-01-17|2021-08-11|
 |54|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
 |55|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
-|56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|57|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-12|2021-05-26|
-|58|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|59|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
-|60|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|61|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|56|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
+|57|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
+|58|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-12|2021-05-26|
+|59|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
+|60|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
+|61|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|62|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

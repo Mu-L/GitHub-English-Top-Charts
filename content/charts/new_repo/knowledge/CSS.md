@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|933|2021-11-11|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|939|2021-11-11|2021-10-23|
 |2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|206|2022-02-12|2021-04-05|
 |3|[Stefanye/CSSHell](https://github.com/Stefanye/CSSHell)|Collection of common CSS mistakes, and how to fix them|172|2022-02-07|2021-04-09|
 |4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|150|2022-02-12|2021-04-19|
 |5|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|120|2022-02-10|2021-08-20|
 |6|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|82|2022-02-09|2022-02-09|
 |7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|79|2022-02-18|2021-06-15|
-|8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|69|2021-11-22|2021-09-26|
+|8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|70|2021-11-22|2021-09-26|
 |9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|62|2022-02-02|2021-08-16|
 |10|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|38|2021-09-07|2021-05-18|
 |11|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
 |12|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
-|13|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|35|2022-02-21|2021-11-10|
+|13|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|35|2022-02-24|2021-11-10|
 |14|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|34|2021-11-28|2021-06-24|
 |15|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|31|2022-01-07|2021-08-18|
-|16|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |30|2022-02-23|2021-06-18|
+|16|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |30|2022-02-24|2021-06-18|
 |17|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
 |18|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|29|2021-09-16|2021-02-27|
-|19|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-02-10|2021-10-08|
+|19|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-02-24|2021-10-08|
 |20|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
 |21|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
-|22|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|24|2022-02-23|2021-06-16|
+|22|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|24|2022-02-24|2021-06-16|
 |23|[monodyle/codeleak](https://github.com/monodyle/codeleak)|Share link like an anon!|21|2021-09-02|2021-07-23|
 |24|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript are available in here. |20|2022-01-24|2021-09-03|
 |25|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
@@ -55,12 +55,12 @@
 |48|[KaProDes/storymarker](https://github.com/KaProDes/storymarker)|Made for small teams to internally share designs, mockups and code.|8|2022-02-13|2021-12-21|
 |49|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
 |50|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |8|2021-11-30|2021-11-01|
-|51|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|7|2022-01-14|2022-01-03|
-|52|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|53|[farouqdaif1/capstone1](https://github.com/farouqdaif1/capstone1)|My first Microverse capstone project is an event for people who love JavaScript in Egypt, It contains a list of speakers, the main program section, and about page|7|2021-10-15|2021-10-13|
-|54|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|7|2021-11-06|2021-09-30|
-|55|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2022-01-30|2021-09-20|
-|56|[snipcart/django-ecommerce-wagtail-v3](https://github.com/snipcart/django-ecommerce-wagtail-v3)|You can read the full tutorial at https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms   This is an updated version of this repo https://github.com/snipcart/django-ecommerce-wagtail. We now ...|7|2021-08-25|2021-08-23|
+|51|[kookma/TW-Gatha](https://github.com/kookma/TW-Gatha)|Gatha Studio Workspace allows you to create in browser plugins, and editions for distributing tools like scripts, themes, languages, ... and contents like course notes, presentations, pamphlets, ebook ...|7|2022-02-18|2022-01-26|
+|52|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|7|2022-01-14|2022-01-03|
+|53|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
+|54|[farouqdaif1/capstone1](https://github.com/farouqdaif1/capstone1)|My first Microverse capstone project is an event for people who love JavaScript in Egypt, It contains a list of speakers, the main program section, and about page|7|2021-10-15|2021-10-13|
+|55|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|7|2021-11-06|2021-09-30|
+|56|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2022-01-30|2021-09-20|
 |57|[luckept/vert](https://github.com/luckept/vert)|思源笔记护眼主题|7|2022-01-24|2021-08-14|
 |58|[jianmin-chen/eloquent](https://github.com/jianmin-chen/eloquent)|Eloquent is a Typora theme designed for writing technical books. It's minimal and easy to use!|7|2021-09-25|2021-04-30|
 |59|[hchiam/learning-open-props](https://github.com/hchiam/learning-open-props)|Learning Open Props|6|2021-12-30|2021-12-04|

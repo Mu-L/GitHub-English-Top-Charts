@@ -1,65 +1,65 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Rust
-<sub>Updated: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261065|245|2022-02-09|
-|2|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|702|20|2022-02-12|
-|3|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10293|12|2022-02-21|
-|4|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|24378|9|2022-02-19|
-|5|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2257|8|2021-12-14|
-|6|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systemes|7156|6|2022-01-10|
-|7|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7713|5|2022-02-15|
-|8|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4371|4|2022-01-19|
-|9|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|8699|4|2022-02-22|
-|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |5633|4|2022-02-23|
-|11|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9576|4|2022-02-22|
-|12|[timvisee/ffsend](https://github.com/timvisee/ffsend)|:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.|5485|4|2021-10-16|
-|13|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|3088|3|2022-01-23|
-|14|[erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)|Distributed SQL database in Rust, written as a learning project|3276|3|2021-12-03|
-|15|[dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)|Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]|1761|2|2022-01-04|
-|16|[kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)|Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification|143|2|2022-02-22|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261119|245|2022-02-09|
+|2|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|703|20|2022-02-12|
+|3|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10296|12|2022-02-21|
+|4|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|24397|9|2022-02-19|
+|5|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2259|8|2021-12-14|
+|6|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systemes|7159|6|2022-01-10|
+|7|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7715|5|2022-02-15|
+|8|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4373|4|2022-01-19|
+|9|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|8704|4|2022-02-23|
+|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |5673|4|2022-02-23|
+|11|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9579|4|2022-02-22|
+|12|[timvisee/ffsend](https://github.com/timvisee/ffsend)|:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.|5486|4|2021-10-16|
+|13|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|3089|3|2022-01-23|
+|14|[erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)|Distributed SQL database in Rust, written as a learning project|3277|3|2021-12-03|
+|15|[dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)|Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]|1764|2|2022-01-04|
+|16|[kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)|Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification|144|2|2022-02-22|
 |17|[douchuan/algorithm](https://github.com/douchuan/algorithm)|Algorithms written in Rust|515|2|2021-11-27|
 |18|[ekzhang/percival](https://github.com/ekzhang/percival)|📝 Web-based, reactive Datalog notebooks for data analysis and visualization|273|2|2022-02-01|
-|19|[os2edu/rust-basics-course](https://github.com/os2edu/rust-basics-course)|rust-basics course of https://rust.os2edu.cn|24|2|2022-02-23|
-|20|[actix/examples](https://github.com/actix/examples)|Community showcase and examples of Actix ecosystem usage.|2183|2|2022-02-22|
-|21|[tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)|Incomplete Redis client and server implementation using Tokio - for learning purposes only|1399|2|2022-02-09|
-|22|[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)|A collection of Solana-maintained on-chain programs|1408|2|2022-02-23|
-|23|[CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts)|Examples and helpers to build NFT contracts on CosmWasm|81|1|2022-02-20|
+|19|[os2edu/rust-basics-course](https://github.com/os2edu/rust-basics-course)|rust-basics course of https://rust.os2edu.cn|25|2|2022-02-24|
+|20|[actix/examples](https://github.com/actix/examples)|Community showcase and examples of Actix ecosystem usage.|2185|2|2022-02-24|
+|21|[tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)|Incomplete Redis client and server implementation using Tokio - for learning purposes only|1404|2|2022-02-09|
+|22|[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)|A collection of Solana-maintained on-chain programs|1412|2|2022-02-24|
+|23|[CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts)|Examples and helpers to build NFT contracts on CosmWasm|81|1|2022-02-24|
 |24|[amethyst/rustrogueliketutorial](https://github.com/amethyst/rustrogueliketutorial)|Roguelike Tutorial in Rust - using RLTK|574|1|2022-01-22|
-|25|[DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects)|Featured Dioxus projects on how to build clean user interfaces in Rust|68|1|2022-02-11|
+|25|[DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects)|Featured Dioxus projects on how to build clean user interfaces in Rust|69|1|2022-02-11|
 |26|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|693|1|2022-02-20|
-|27|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a Linux process without using ptrace.|52|1|2022-02-12|
-|28|[bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)|Concise Reference Book for the Bevy Game Engine|425|1|2022-02-18|
+|27|[vfsfitvnm/intruducer](https://github.com/vfsfitvnm/intruducer)|A Rust crate to load a shared library into a Linux process without using ptrace.|53|1|2022-02-12|
+|28|[bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)|Concise Reference Book for the Bevy Game Engine|426|1|2022-02-23|
 |29|[Sequal32/yourcontrols](https://github.com/Sequal32/yourcontrols)|Shared cockpit for Microsoft Flight Simulator.|391|1|2022-02-14|
-|30|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|341|1|2022-02-22|
-|31|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|59|1|2022-02-23|
+|30|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|344|1|2022-02-22|
+|31|[pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)|A list of publicly available STUN servers, refreshed every hour.|61|1|2022-02-24|
 |32|[CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)|Rust Programming Fundamentals - one course to rule them all, one course to find them...|476|1|2022-02-20|
 |33|[quarkslab/rewind](https://github.com/quarkslab/rewind)|Snapshot-based coverage-guided windows kernel fuzzer|189|1|2021-12-16|
 |34|[Synerise/cleora](https://github.com/Synerise/cleora)|Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.|364|1|2021-09-13|
-|35|[LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)|Code to follow along the "Zero To Production" book on API development in Rust.|809|1|2022-02-22|
+|35|[LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)|Code to follow along the "Zero To Production" book on API development in Rust.|808|1|2022-02-24|
 |36|[vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks)|A Collection of Rust Tips and Tricks|108|1|2022-02-22|
 |37|[LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)|A test-driven workshop to learn Rust building your own JIRA clone!|595|1|2021-12-30|
 |38|[8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff)|Hex diff viewer using alignment algorithms from biology|228|1|2022-02-21|
-|39|[espressif/rust-esp32-example](https://github.com/espressif/rust-esp32-example)|Example of Rust integration into an ESP-IDF project, for ESP32 series of chips|161|1|2022-02-03|
+|39|[espressif/rust-esp32-example](https://github.com/espressif/rust-esp32-example)|Example of Rust integration into an ESP-IDF project, for ESP32 series of chips|161|1|2022-02-24|
 |40|[inancgumus/learnrust](https://github.com/inancgumus/learnrust)|❤️ I started learning Rust, if you wanna join me, welcome!|447|1|2022-01-05|
-|41|[rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists)|Learn Rust by writing Entirely Too Many linked lists|1929|1|2022-02-10|
+|41|[rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists)|Learn Rust by writing Entirely Too Many linked lists|1930|1|2022-02-10|
 |42|[thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust)|The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson|156|1|2021-11-06|
-|43|[rust-in-action/code](https://github.com/rust-in-action/code)|Source code for the book Rust in Action|805|1|2022-02-12|
-|44|[stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo)|Demo project for the Tauri + Yew tutorial|27|1|2022-01-16|
+|43|[rust-in-action/code](https://github.com/rust-in-action/code)|Source code for the book Rust in Action|807|1|2022-02-12|
+|44|[stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo)|Demo project for the Tauri + Yew tutorial|28|1|2022-01-16|
 |45|[stevedonovan/runner](https://github.com/stevedonovan/runner)|Tool for running Rust snippets|115|0|2021-12-16|
 |46|[togatoga/screwsat](https://github.com/togatoga/screwsat)|A simple CDCL(Conflict-Driven-Clause-Learning) SAT solver in Rust.|31|0|2021-09-11|
 |47|[Pitasi/dyn-wallpaper](https://github.com/Pitasi/dyn-wallpaper)|macOS-like dynamic wallpapers for Linux and Windows.|55|0|2022-01-31|
 |48|[iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban)|Rust Sokoban book and code samples|107|0|2022-02-21|
-|49|[mackwic/colored](https://github.com/mackwic/colored)|(Rust) Coloring terminal so simple you already know how to do it !|945|0|2022-01-13|
+|49|[mackwic/colored](https://github.com/mackwic/colored)|(Rust) Coloring terminal so simple you already know how to do it !|946|0|2022-01-13|
 |50|[utilForever/algorithm-rs](https://github.com/utilForever/algorithm-rs)|Common data structures and algorithms for competitive programming in Rust|15|0|2021-12-21|
 |51|[hoodie/icalendar-rs](https://github.com/hoodie/icalendar-rs)|📆 icalendar library, in Rust of course - for fun|38|0|2022-01-24|
-|52|[analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis)|⚙️ A curated list of dynamic analysis tools for all programming languages, binaries, and more.|522|0|2022-02-22|
+|52|[analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis)|⚙️ A curated list of dynamic analysis tools for all programming languages, binaries, and more.|523|0|2022-02-22|
 |53|[tokio-rs/tls](https://github.com/tokio-rs/tls)|A collection of Tokio based TLS libraries.|115|0|2022-01-06|
 |54|[citahub/libsm](https://github.com/citahub/libsm)|A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4)|111|0|2022-01-14|
-|55|[programatik29/axum-tutorial](https://github.com/programatik29/axum-tutorial)|Axum web framework tutorial for beginners.|23|0|2021-12-03|
+|55|[programatik29/axum-tutorial](https://github.com/programatik29/axum-tutorial)|Axum web framework tutorial for beginners.|24|0|2021-12-03|
 |56|[ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer)|Learning webgpu in rust by making a simple platformer|47|0|2021-09-07|
 |57|[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)|This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.|1048|0|2022-02-23|
 |58|[FKLC/PyVM](https://github.com/FKLC/PyVM)|A Python Virtual Machine implemented in Rust. For learning purposes.|34|0|2021-11-07|
@@ -70,16 +70,16 @@
 |63|[divinerapier/weaver](https://github.com/divinerapier/weaver)|A distributed object file system inspired by the paper Beaver which was published by Facebook Inc. at 2010.|16|0|2022-01-27|
 |64|[Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck)|A backend for `mdbook` which will check your links for you.|84|0|2021-11-12|
 |65|[jonhoo/orst](https://github.com/jonhoo/orst)|Sorting algorithms in Rust|61|0|2022-01-04|
-|66|[0b01/tectonicdb](https://github.com/0b01/tectonicdb)|Database for L2 orderbook|403|0|2022-02-22|
+|66|[0b01/tectonicdb](https://github.com/0b01/tectonicdb)|Database for L2 orderbook|403|0|2022-02-24|
 |67|[lpc-rs/lpc8xx-hal](https://github.com/lpc-rs/lpc8xx-hal)|Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in the Rust programming language|24|0|2021-12-10|
-|68|[lise-henry/crowbook](https://github.com/lise-henry/crowbook)|Converts books written in Markdown to HTML, LaTeX/PDF and EPUB|500|0|2022-02-23|
+|68|[lise-henry/crowbook](https://github.com/lise-henry/crowbook)|Converts books written in Markdown to HTML, LaTeX/PDF and EPUB|500|0|2022-02-24|
 |69|[Byron/learning-rust-with-gitoxide](https://github.com/Byron/learning-rust-with-gitoxide)|Our sessions when learning Rust with gitoxide|25|0|2021-11-29|
-|70|[EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about)|📜 Cargo plugin to generate list of all licenses for a crate 🦀|229|0|2022-02-22|
-|71|[emoon/dynamic_reload](https://github.com/emoon/dynamic_reload)|Dynamic reloading of shared libraries|300|0|2022-01-24|
+|70|[EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about)|📜 Cargo plugin to generate list of all licenses for a crate 🦀|230|0|2022-02-22|
+|71|[emoon/dynamic_reload](https://github.com/emoon/dynamic_reload)|Dynamic reloading of shared libraries|301|0|2022-01-24|
 |72|[mockersf/concourse-slack-notifier](https://github.com/mockersf/concourse-slack-notifier)|A structured Slack notification resource for Concourse|17|0|2022-02-14|
-|73|[rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt)|a collection of well-tested, serializable CRDTs for Rust|878|0|2022-02-18|
+|73|[rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt)|a collection of well-tested, serializable CRDTs for Rust|879|0|2022-02-18|
 |74|[lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex)|A preprocessor for mdBook, rendering LaTex equations to HTML at build time.|67|0|2022-01-28|
-|75|[PistonDevelopers/Piston-Tutorials](https://github.com/PistonDevelopers/Piston-Tutorials)|Tutorials for Piston|475|0|2022-02-23|
+|75|[PistonDevelopers/Piston-Tutorials](https://github.com/PistonDevelopers/Piston-Tutorials)|Tutorials for Piston|476|0|2022-02-23|
 |76|[lmammino/rust-advent](https://github.com/lmammino/rust-advent)|Learning Rust by solving advent of code challenges (Streaming live on Twitch every Monday)|16|0|2022-02-22|
 |77|[quark-zju/gcmodule](https://github.com/quark-zju/gcmodule)|Garbage collection for Rust inspired by CPython's gcmodule|15|0|2021-11-27|
 |78|[paritytech/substrate-debug-kit](https://github.com/paritytech/substrate-debug-kit)|A collection of debug tools, scripts and libraries on top of substrate. |92|0|2021-11-18|
@@ -103,25 +103,25 @@
 |96|[sunshowers-code/lifetime-variance](https://github.com/sunshowers-code/lifetime-variance)|Rust tutorial to demonstrate how variance works|177|0|2022-02-13|
 |97|[RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers)|Collection of block cipher algorithms written in pure Rust|449|0|2022-02-22|
 |98|[badboy/mdbook-toc](https://github.com/badboy/mdbook-toc)|A preprocessor for mdbook to add inline Table of Contents support.|67|0|2022-01-26|
-|99|[joshchoo/aosp-missing-blobs](https://github.com/joshchoo/aosp-missing-blobs)|A command-line tool to generate a list of required missing Android OS Project blobs.|148|0|2021-08-30|
+|99|[joshchoo/aosp-missing-blobs](https://github.com/joshchoo/aosp-missing-blobs)|A command-line tool to generate a list of required missing Android OS Project blobs.|149|0|2021-08-30|
 |100|[caemor/epd-waveshare](https://github.com/caemor/epd-waveshare)|Drivers for various EPDs from Waveshare|99|0|2022-01-19|
 |101|[PacktPublishing/Rust-Programming-Cookbook](https://github.com/PacktPublishing/Rust-Programming-Cookbook)|Rust Programming Cookbook, published by Packt|47|0|2021-10-20|
 |102|[KWARC/llamapun](https://github.com/KWARC/llamapun)|common language and mathematics processing algorithms, in Rust|17|0|2022-01-05|
 |103|[scrabsha/dep-doc](https://github.com/scrabsha/dep-doc)|Add a cute dependency declaration snippet in your crate documentation.|42|0|2021-11-22|
 |104|[aylei/leetcode-rust](https://github.com/aylei/leetcode-rust)|my leetcode solutions in rust|461|0|2021-09-23|
 |105|[anishathalye/synox](https://github.com/anishathalye/synox)|Rust library for program synthesis of string transformations from input-output examples 🔮|20|0|2021-09-11|
-|106|[Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub)|An experimental mdbook backend for creating EPUB documents.|171|0|2022-02-19|
+|106|[Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub)|An experimental mdbook backend for creating EPUB documents.|172|0|2022-02-19|
 |107|[mattatz/DifferentialGeometryStudy](https://github.com/mattatz/DifferentialGeometryStudy)|Study of differential geometry with Rust + WebGL|16|0|2021-11-24|
 |108|[fbsamples/rusty-bunny](https://github.com/fbsamples/rusty-bunny)|a tool that lets you write smart bookmarks |14|0|2021-08-31|
 |109|[bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook)|A mini book on writing NES emulator using rust lang|124|0|2021-10-25|
 |110|[iqlusioninc/crates](https://github.com/iqlusioninc/crates)|A collection of open source Rust crates from iqlusion|257|0|2022-02-22|
 |111|[second-state/dapr-wasm](https://github.com/second-state/dapr-wasm)|A template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr|95|0|2022-02-22|
 |112|[RustCrypto/MACs](https://github.com/RustCrypto/MACs)|Message authentication code algorithms written in pure Rust|108|0|2022-02-22|
-|113|[joepio/atomic-data-rust](https://github.com/joepio/atomic-data-rust)|Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.|62|0|2022-02-22|
+|113|[joepio/atomic-data-rust](https://github.com/joepio/atomic-data-rust)|Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.|64|0|2022-02-22|
 |114|[soulmachine/crypto-crawler-rs](https://github.com/soulmachine/crypto-crawler-rs)|Crawl orderbook and trade messages from crypto exchanges|63|0|2022-02-10|
 |115|[openanalytics/s3-algo](https://github.com/openanalytics/s3-algo)|High-performance algorithms for batch operations in Amazon S3.|18|0|2021-10-01|
 |116|[facebookincubator/gazebo](https://github.com/facebookincubator/gazebo)|A Rust library containing a collection of small well-tested primitives.|142|0|2022-02-23|
-|117|[Lutetium-Vanadium/requestty](https://github.com/Lutetium-Vanadium/requestty)|An easy-to-use collection of interactive cli prompts inspired by Inquirer.js.|96|0|2022-01-18|
+|117|[Lutetium-Vanadium/requestty](https://github.com/Lutetium-Vanadium/requestty)|An easy-to-use collection of interactive cli prompts inspired by Inquirer.js.|97|0|2022-01-18|
 |118|[ethindp/kernel](https://github.com/ethindp/kernel)|A custom OS kernel that followed (then diverged from) Philipp Oppermann's tutorial on writing an OS in Rust|17|0|2022-02-08|
 |119|[rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs)|Library for snippet annotations|101|0|2022-01-03|
 |120|[instrumentisto/rust-incubator](https://github.com/instrumentisto/rust-incubator)|Learning Rust step-by-step.|39|0|2022-01-13|
@@ -132,18 +132,18 @@
 |125|[puripuri2100/mdbook-satysfi](https://github.com/puripuri2100/mdbook-satysfi)|A mdbook backend for generating SATySFi documents.|17|0|2021-09-25|
 |126|[chinedufn/landon](https://github.com/chinedufn/landon)|A collection of tools, data structures and methods for exporting Blender data (such as meshes and armatures) and preparing it for your rendering pipeline.|112|0|2021-09-26|
 |127|[dalance/mdbook-transcheck](https://github.com/dalance/mdbook-transcheck)|Checker for translated mdbook|15|0|2021-11-04|
-|128|[openanolis/dragonball-sandbox](https://github.com/openanolis/dragonball-sandbox)|Dragonball-sandbox is a collection of Rust crates to help build custom Virtual Machine Monitors and hypervisors.|18|0|2022-02-22|
-|129|[helgoboss/realearn](https://github.com/helgoboss/realearn)|Sophisticated MIDI/MCU/OSC learn for REAPER|65|0|2022-02-21|
+|128|[openanolis/dragonball-sandbox](https://github.com/openanolis/dragonball-sandbox)|Dragonball-sandbox is a collection of Rust crates to help build custom Virtual Machine Monitors and hypervisors.|18|0|2022-02-24|
+|129|[helgoboss/realearn](https://github.com/helgoboss/realearn)|Sophisticated MIDI/MCU/OSC learn for REAPER|65|0|2022-02-24|
 |130|[mdlayher/monkey-rs](https://github.com/mdlayher/monkey-rs)|A Rust implementation of the Monkey programming language from https://interpreterbook.com/. MIT Licensed.|14|0|2021-11-18|
 |131|[SubstrateCourse/slides](https://github.com/SubstrateCourse/slides)|The slides for the Substrate online course|63|0|2022-01-04|
 |132|[cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust)|The home of all shared Rust resources for the Cosmos ecosystem.|86|0|2022-02-17|
 |133|[badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)|A preprocessor for mdbook to add mermaid support|97|0|2022-02-07|
 |134|[sbeckeriv/personal_search](https://github.com/sbeckeriv/personal_search)|My own search over my own list of urls|19|0|2021-10-11|
-|135|[zhangyuang/leetcode](https://github.com/zhangyuang/leetcode)|solve questions in leetcode by Rust|244|0|2022-01-15|
+|135|[zhangyuang/leetcode](https://github.com/zhangyuang/leetcode)|solve questions in leetcode by Rust|245|0|2022-01-15|
 |136|[epilys/bitmappers-companion](https://github.com/epilys/bitmappers-companion)|zine/book about bitmap drawing algorithms and math with code examples in Rust|36|0|2022-01-09|
-|137|[bwasty/learn-opengl-rs](https://github.com/bwasty/learn-opengl-rs)|Rust port of JoeyDeVries/LearnOpenGL|739|0|2021-12-22|
+|137|[bwasty/learn-opengl-rs](https://github.com/bwasty/learn-opengl-rs)|Rust port of JoeyDeVries/LearnOpenGL|741|0|2021-12-22|
 |138|[FyroxEngine/Fyrox-tutorials](https://github.com/FyroxEngine/Fyrox-tutorials)|Source code of tutorials for Fyrox Game Engine (formerly known as rg3d)|38|0|2022-01-13|
-|139|[warycat/rustgym](https://github.com/warycat/rustgym)|Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more|306|0|2022-02-22|
+|139|[warycat/rustgym](https://github.com/warycat/rustgym)|Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more|310|0|2022-02-22|
 |140|[Vanille-N/wallrnd](https://github.com/Vanille-N/wallrnd)|A configurable generator of random abstract time-aware wallpapers|51|0|2022-01-29|
 |141|[thoth-pub/thoth](https://github.com/thoth-pub/thoth)|Metadata management and dissemination system for Open Access books|19|0|2022-02-21|
 |142|[smart-leds-rs/smart-leds-samples](https://github.com/smart-leds-rs/smart-leds-samples)|A collection of samples for smart-leds|17|0|2022-02-20|
@@ -154,12 +154,12 @@
 |147|[extraymond/rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo)|Toy project to learn rust and async that can be deoplyed to the web.|29|0|2022-02-12|
 |148|[rust-playground/alfred-workflows-rs](https://github.com/rust-playground/alfred-workflows-rs)|A collection of Alfred workflows to help save your day-to-day|10|0|2021-11-06|
 |149|[alexfertel/rust-algorithms](https://github.com/alexfertel/rust-algorithms)|Algorithms and Data Structures of all kinds written in Rust.|21|0|2022-01-30|
-|150|[dfinity/agent-rs](https://github.com/dfinity/agent-rs)|A collection of libraries and tools for building software around the Internet Computer, in Rust.|77|0|2022-02-23|
+|150|[dfinity/agent-rs](https://github.com/dfinity/agent-rs)|A collection of libraries and tools for building software around the Internet Computer, in Rust.|77|0|2022-02-24|
 |151|[bradyjoslin/sharewifi](https://github.com/bradyjoslin/sharewifi)|Quickly share Wi-Fi connection info on macOS and Windows|68|0|2022-01-19|
 |152|[niba1122/rust-wasm-webgl-mdn-tutorial](https://github.com/niba1122/rust-wasm-webgl-mdn-tutorial)|Performed MDN WebGL tutorial with Rust and WebAssembly.|14|0|2022-02-18|
 |153|[nicohman/rust-wildbow-scraper](https://github.com/nicohman/rust-wildbow-scraper)|Automatically scrapes wildbow's web serials and compiles them into ebooks|62|0|2022-01-08|
 |154|[ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security)|Curated list of awesome projects and resources related to Rust and computer security|17|0|2022-01-28|
-|155|[mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk)|Plain text Zettelkasten based on mdBook |112|0|2022-02-23|
+|155|[mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk)|Plain text Zettelkasten based on mdBook |113|0|2022-02-24|
 |156|[Psychedelic/dank](https://github.com/Psychedelic/dank)|Dank - The Internet Computer Decentralized Bank - A collection of Open Internet Services - Including the Cycles Token (XTC)|42|0|2022-01-27|
 |157|[olson-sean-k/nym](https://github.com/olson-sean-k/nym)|Manipulate files en masse using patterns.|21|0|2022-01-14|
 |158|[Learn-Together-Pro/LearnRustTogether](https://github.com/Learn-Together-Pro/LearnRustTogether)|Let's learn Rust together|42|0|2022-01-29|
@@ -184,13 +184,13 @@
 |177|[sidwellr/schotter](https://github.com/sidwellr/schotter)|Nannou/Rust tutorial based on Schotter by Georg Nees|54|0|2022-01-18|
 |178|[ZenGo-X/zk-paillier](https://github.com/ZenGo-X/zk-paillier)|A collection of Paillier cryptosystem zero knowledge proofs |54|0|2021-11-13|
 |179|[quartiq/stabilizer](https://github.com/quartiq/stabilizer)|Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between|49|0|2022-02-17|
-|180|[arkworks-rs/r1cs-tutorial](https://github.com/arkworks-rs/r1cs-tutorial)|Tutorial for writing constraints in the `arkworks` framework|47|0|2021-08-28|
+|180|[arkworks-rs/r1cs-tutorial](https://github.com/arkworks-rs/r1cs-tutorial)|Tutorial for writing constraints in the `arkworks` framework|50|0|2021-08-28|
 |181|[hyperledger/ursa](https://github.com/hyperledger/ursa)|Hyperledger Ursa is a shared cryptography library|273|0|2022-01-12|
 |182|[DuckLogic/zerogc](https://github.com/DuckLogic/zerogc)|Zero overhead tracing garbage collection for rust (WIP)|27|0|2022-02-14|
 |183|[freeCodeCamp/Rust-In-Replit](https://github.com/freeCodeCamp/Rust-In-Replit)|The freeCodeCamp Rust In Replit course|16|0|2022-02-10|
-|184|[wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers)|A collection of building blocks for concurrent programming|67|0|2022-02-23|
+|184|[wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers)|A collection of building blocks for concurrent programming|67|0|2022-02-24|
 |185|[vv9k/mdbook-man](https://github.com/vv9k/mdbook-man)|Generate manual pages from mdBooks!|18|0|2021-08-26|
-|186|[fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)|cwe_checker finds vulnerable patterns in binary executables|605|0|2022-02-22|
+|186|[fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)|cwe_checker finds vulnerable patterns in binary executables|606|0|2022-02-22|
 |187|[rubik/lobster](https://github.com/rubik/lobster)|A fast in-memory limit order book (LOB).|22|0|2022-01-30|
 |188|[Nelarius/weekend-raytracer-rust](https://github.com/Nelarius/weekend-raytracer-rust)|A Rust implementation of the "Ray Tracing in One Weekend" book|73|0|2021-12-04|
 |189|[dragfire/leetup](https://github.com/dragfire/leetup)|Command line tool to solve Leetcode problems. Leet it up!!|45|0|2022-01-20|

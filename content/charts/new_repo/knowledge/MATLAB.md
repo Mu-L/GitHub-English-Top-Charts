@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[steliostsiaras/Financial-Frictions-Course](https://github.com/steliostsiaras/Financial-Frictions-Course)|This is a PhD course on financial frictions in macroeconomic models. This repository includes all the materials taught and is constantly updated |40|2022-01-26|2021-03-14|
 |5|[danfenghong/ISPRS_S2FL](https://github.com/danfenghong/ISPRS_S2FL)|Danfeng Hong, JIngliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model,   ...|32|2021-12-08|2021-05-18|
 |6|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs) (https://arxiv.org/abs/2109.12313, https: ...|31|2022-01-21|2021-06-09|
-|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|28|2021-10-27|2021-09-30|
+|7|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|30|2021-10-27|2021-09-30|
 |8|[MustafaSaraoglu/AutonomousVehicleModeling](https://github.com/MustafaSaraoglu/AutonomousVehicleModeling)|Autonomous Vehicle Modeling with MATLAB and Simulink. Check out the YouTube Channel of MOBATSim for the tutorial playlist: https://www.youtube.com/watch?v=MS66nlDOmRY&list=PLNNL3443z4lHTmBFrrur6aYhJnw ...|22|2022-02-21|2021-03-05|
 |9|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|20|2022-01-19|2021-06-15|
 |10|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|16|2021-10-24|2021-07-07|
@@ -25,10 +25,10 @@
 |18|[zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm](https://github.com/zhandawei/Incremental_Kriging_Assisted_Evolutionary_Algorithm)|A fast Kriging-assisted evolutionary algorithm based on incremental learning|10|2021-12-06|2021-03-22|
 |19|[icub-tech-iit/training-simscape-4bars](https://github.com/icub-tech-iit/training-simscape-4bars)|Contains material for a lean Simscape course in which you can learn to control a four-bar linkage with a DC motor.|9|2022-01-26|2022-01-11|
 |20|[fengpanhe/MT-ORL](https://github.com/fengpanhe/MT-ORL)|PyTorch implementation of paper "MT-ORL: Multi-Task Occlusion Relationship Learning" (ICCV 2021)|9|2021-10-17|2021-08-11|
-|21|[KentaItakura/Crack-detection-using-one-class-SVM](https://github.com/KentaItakura/Crack-detection-using-one-class-SVM)|This demo shows how to detect the crack images using one-class SVM using MATLAB.|8|2021-10-09|2021-08-16|
-|22|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|2021-09-28|2021-05-14|
-|23|[jasondsc/MATDRAB2MATFAB](https://github.com/jasondsc/MATDRAB2MATFAB)|MATLAB and data science course, taking you from MATDRAB to MATFAB in 8 weeks! General course covering the basics of MATLAB, Signal processing, Statistics, and Machine Learning|8|2022-01-04|2021-03-02|
-|24|[mikeroyal/Neuromorphic-Computing-Guide](https://github.com/mikeroyal/Neuromorphic-Computing-Guide)|Neuromorphic Computing Guide|7|2022-01-24|2021-10-03|
+|21|[mikeroyal/Neuromorphic-Computing-Guide](https://github.com/mikeroyal/Neuromorphic-Computing-Guide)|Neuromorphic Computing Guide|8|2022-01-24|2021-10-03|
+|22|[KentaItakura/Crack-detection-using-one-class-SVM](https://github.com/KentaItakura/Crack-detection-using-one-class-SVM)|This demo shows how to detect the crack images using one-class SVM using MATLAB.|8|2021-10-09|2021-08-16|
+|23|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|2021-09-28|2021-05-14|
+|24|[jasondsc/MATDRAB2MATFAB](https://github.com/jasondsc/MATDRAB2MATFAB)|MATLAB and data science course, taking you from MATDRAB to MATFAB in 8 weeks! General course covering the basics of MATLAB, Signal processing, Statistics, and Machine Learning|8|2022-01-04|2021-03-02|
 |25|[mathworks-robotics/autonomous-navigation-ugv](https://github.com/mathworks-robotics/autonomous-navigation-ugv)|Examples for creating autonomous navigation software stacks for mobile robots and UGV using MATLAB and Simulink|7|2021-09-21|2021-07-15|
 |26|[vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection](https://github.com/vahidr213/Underwater-Image-Restoration-And-Enhancement-Collection)|A collection of underwater image restoration and enhancements + code for paper Underwater Image Restoration with a Complementary Haar Wavelet Transform Restoration and an Ensemble of Triple Elite Corr ...|7|2022-02-11|2021-04-12|
 |27|[matlab-deep-learning/Classification-of-SARS-COVID-19-and-Other-Lung-Infections-from-Chest-X-Ray-Scan-Images-with-DenseNet](https://github.com/matlab-deep-learning/Classification-of-SARS-COVID-19-and-Other-Lung-Infections-from-Chest-X-Ray-Scan-Images-with-DenseNet)|This example shows how to train a deep neural network to classify SARS COVID-19 and other lung infections using chest X-ray (CXR) images.|6|2021-10-01|2021-10-01|
@@ -61,7 +61,7 @@
 |54|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|4|2021-11-11|2021-04-04|
 |55|[sevagh/Music-Separation-TF](https://github.com/sevagh/Music-Separation-TF)|Music source separation testbench with various offline and realtime DSP and machine learning algorithms using the STFT, CQT, NSGT, sliCQT, WMDCT, and TFJigsaw|4|2021-09-09|2021-03-02|
 |56|[derekbanas/OctaveTutorial](https://github.com/derekbanas/OctaveTutorial)|This is the code used in my Learn Octave in One Video Tutorial|3|2022-02-02|2022-02-02|
-|57|[happymondaynkanta/Machine-Learning-Course-Coursera](https://github.com/happymondaynkanta/Machine-Learning-Course-Coursera)|This repository contains the course material and assignment solutions for the machine learning course of Stanford University on Coursera. |3|2022-01-31|2022-01-31|
+|57|[happymondaynkanta/Machine-Learning-Course-Coursera](https://github.com/happymondaynkanta/Machine-Learning-Course-Coursera)|This repository contains the course material and assignment solutions for the machine learning course of Stanford University on Coursera. |3|2022-02-24|2022-01-31|
 |58|[cliansang/positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|The Matlab scripts for five positioning algorithms regarding UWB localization. The five algorithms are Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Taylor Series-based location estimat ...|3|2022-02-01|2022-01-12|
 |59|[YinPing-Cho/NTHU-ASP2021-Final](https://github.com/YinPing-Cho/NTHU-ASP2021-Final)|Final project repo for grad-level Adaptive Signal Processing course at National Tsinghua University, Taiwan.|3|2022-01-14|2021-12-29|
 |60|[HadiElnemr/Mechanism-Analysis](https://github.com/HadiElnemr/Mechanism-Analysis)|A mechanics of machinery course project where each student was assigned a certain compound mechanism to study, simulate, analyse and later animate its motion.|3|2022-01-08|2021-12-10|
@@ -88,7 +88,6 @@
 |81|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
 |82|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
 |83|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
-|84|[Amin-Golzari-Oskouei/CGFFCM](https://github.com/Amin-Golzari-Oskouei/CGFFCM)|CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation|2|2021-10-29|2021-02-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
