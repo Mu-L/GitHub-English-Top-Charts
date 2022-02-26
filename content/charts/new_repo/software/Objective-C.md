@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,13 +10,13 @@
 |3|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|313|2022-02-14|2021-08-03|
 |4|[s4y/undot](https://github.com/s4y/undot)|-|290|2021-12-26|2021-12-20|
 |5|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|170|2022-02-24|2021-03-06|
-|6|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|127|2022-02-25|2021-03-24|
-|7|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|121|2022-01-18|2021-07-24|
+|6|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|127|2022-02-26|2021-03-24|
+|7|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|123|2022-01-18|2021-07-24|
 |8|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|104|2021-11-27|2021-03-13|
 |9|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|94|2021-12-14|2021-12-06|
 |10|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|85|2022-01-26|2021-11-16|
 |11|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|76|2021-12-24|2021-03-30|
-|12|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|69|2022-01-20|2021-10-05|
+|12|[FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS)|Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection|70|2022-01-20|2021-10-05|
 |13|[TitanD3v/Open-Source-Tweaks](https://github.com/TitanD3v/Open-Source-Tweaks)|All open source tweaks from TitanD3v repo|67|2021-11-20|2021-11-20|
 |14|[minsOne/iOSApplicationTemplate](https://github.com/minsOne/iOSApplicationTemplate)|Tuist based iOS Application Project Template|59|2021-11-29|2021-05-10|
 |15|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|58|2022-01-06|2021-03-08|
@@ -35,7 +35,7 @@
 |28|[yangKJ/KJNetworkPlugin](https://github.com/yangKJ/KJNetworkPlugin)|🎡A Network Plugin With AFNetworking. Network Plugin, Support batch and chain operation.|33|2022-01-21|2021-07-24|
 |29|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|30|2022-02-23|2021-11-28|
 |30|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Natively integrated notification logger|29|2022-02-06|2021-09-18|
-|31|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|28|2021-12-28|2021-02-28|
+|31|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|29|2021-12-28|2021-02-28|
 |32|[Metnew/write-ups](https://github.com/Metnew/write-ups)|-|27|2022-02-18|2022-02-11|
 |33|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|26|2021-12-20|2021-12-15|
 |34|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2022-01-06|2021-04-30|
@@ -54,10 +54,10 @@
 |47|[steventroughtonsmith/finder-patreon](https://github.com/steventroughtonsmith/finder-patreon)|WindowKit-based 'Files' app for iOS|17|2021-10-05|2021-10-05|
 |48|[EmergeTools/SmallStrings](https://github.com/EmergeTools/SmallStrings)|Minification of localized strings|16|2021-10-25|2021-10-21|
 |49|[bitbank2/Print2BLE](https://github.com/bitbank2/Print2BLE)|MacOS app which allows drag and drop of images to BLE thermal printers|16|2021-10-17|2021-09-02|
-|50|[HighwayLaw/HWBlocksUI](https://github.com/HighwayLaw/HWBlocksUI)|optimize UIKit such as UITableview, UIButton, UITextField, UISwitch with Blocks to make it easier to write|15|2021-12-30|2021-12-20|
-|51|[u0x01/bluedhook](https://github.com/u0x01/bluedhook)|blued enhanced tweak for iOS|15|2021-10-28|2021-10-20|
-|52|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|15|2021-10-04|2021-06-08|
-|53|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|15|2021-11-26|2021-05-22|
+|50|[CreatureSurvive/TweakSettings](https://github.com/CreatureSurvive/TweakSettings)|Dedicated settings app for accessing tweaks preference bundles.|16|2021-11-26|2021-05-22|
+|51|[HighwayLaw/HWBlocksUI](https://github.com/HighwayLaw/HWBlocksUI)|optimize UIKit such as UITableview, UIButton, UITextField, UISwitch with Blocks to make it easier to write|15|2021-12-30|2021-12-20|
+|52|[u0x01/bluedhook](https://github.com/u0x01/bluedhook)|blued enhanced tweak for iOS|15|2021-10-28|2021-10-20|
+|53|[dortania/OCLP-GUI](https://github.com/dortania/OCLP-GUI)|-|15|2021-10-04|2021-06-08|
 |54|[Chr1sDev/Atlas](https://github.com/Chr1sDev/Atlas)|Redesigned video player controls for iOS|15|2022-02-19|2021-05-21|
 |55|[Randy-420/aptFix](https://github.com/Randy-420/aptFix)|## aptFix  Fix those annoying apt / DPKG errors like 'dpkg locked' using one simple terminal command 'aptFix'|14|2022-01-07|2021-11-08|
 |56|[getsentry/unity](https://github.com/getsentry/unity)|Unity SDK UPM package|14|2022-02-24|2021-04-06|
@@ -87,11 +87,11 @@
 |80|[xyaman/tako](https://github.com/xyaman/tako)|Notification priority hub tweak|10|2021-10-01|2021-08-12|
 |81|[jschiefner/advanced-brightness-slider-tweak](https://github.com/jschiefner/advanced-brightness-slider-tweak)|iOS Tweak that manipulates the brightness slider in the control center so the display brightness and the white point intensity can be modified|10|2022-02-07|2021-08-04|
 |82|[schneelittchen/Dress](https://github.com/schneelittchen/Dress)|Customize your lock screen with one tweak|10|2022-02-06|2021-04-25|
-|83|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2022-02-16|2021-04-05|
+|83|[CodeMinion/another_brother](https://github.com/CodeMinion/another_brother)|Another Brother Flutter SDK|10|2022-02-26|2021-04-05|
 |84|[itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock)|BetterBlock is the better AdBlocker.|9|2022-02-24|2022-02-23|
 |85|[demining/bitcoinspv-Google-Colab](https://github.com/demining/bitcoinspv-Google-Colab)|A native Bitcoin SPV client library for iOS Google Colab|9|2022-02-18|2022-02-18|
 |86|[ProcursusTeam/defaults](https://github.com/ProcursusTeam/defaults)|Opensource re-implementation of `defaults(1)`|9|2022-02-13|2021-12-10|
-|87|[ProcursusTeam/netctl](https://github.com/ProcursusTeam/netctl)|-|9|2022-02-22|2021-10-22|
+|87|[ProcursusTeam/netctl](https://github.com/ProcursusTeam/netctl)|-|9|2022-02-25|2021-10-22|
 |88|[spotlightishere/twitterinject](https://github.com/spotlightishere/twitterinject)|sorry, Twitter employees|9|2021-10-13|2021-10-13|
 |89|[jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)|send your valuable codes here.|9|2021-11-12|2021-10-01|
 |90|[schneelittchen/Rose](https://github.com/schneelittchen/Rose)|The most advanced and feature rich system wide haptic feedback tweak|9|2022-02-06|2021-04-25|
@@ -196,8 +196,8 @@
 |189|[coingrig/coingrig-wallet-generator](https://github.com/coingrig/coingrig-wallet-generator)|Blazing⚡️Fast BTC and ETH Wallet Generator library for React Native, Android and iOS|3|2022-02-15|2022-02-05|
 |190|[plusminusone-tr/PMOUISetter](https://github.com/plusminusone-tr/PMOUISetter)|Helper for UI Elements|3|2022-02-21|2022-02-03|
 |191|[tapthaker/SetArchPrefForURL](https://github.com/tapthaker/SetArchPrefForURL)|A CLI utility to "check" or "uncheck" "Open Using Rosetta" preference for Apple Silicon macs. |3|2022-01-24|2022-01-24|
-|192|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-02-24|2022-01-14|
-|193|[Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu)|An open source WaniKani style SRS Japanese Studying App for macOS|3|2022-02-23|2022-01-12|
+|192|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-02-26|2022-01-14|
+|193|[Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu)|An open source WaniKani style SRS Japanese Studying App for macOS|3|2022-02-25|2022-01-12|
 |194|[libpag/ffavc](https://github.com/libpag/ffavc)|A video decoder built on ffmpeg which allows libpag to use ffmpeg as its software decoder for h264 decoding.|3|2022-02-09|2022-01-10|
 |195|[getAlby/alby-installer-macos](https://github.com/getAlby/alby-installer-macos)|-|3|2022-01-28|2022-01-06|
 |196|[PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview)|-|3|2022-02-19|2021-12-25|

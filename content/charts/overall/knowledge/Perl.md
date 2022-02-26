@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1625|2022-02-19|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1378|2022-02-25|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1380|2022-02-25|
 |3|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1063|2021-10-15|
 |4|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|603|2022-01-04|
 |5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|323|2022-01-28|
-|6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|313|2022-02-06|
-|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |264|2022-02-24|
+|6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|314|2022-02-26|
+|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |264|2022-02-25|
 |8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|115|2022-02-24|
 |9|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|114|2022-02-16|
 |10|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|92|2021-12-28|
-|11|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|92|2022-02-25|
+|11|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|92|2022-02-26|
 |12|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|88|2022-02-21|
 |13|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|76|2021-12-25|
 |14|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|76|2022-02-10|
@@ -49,15 +49,15 @@
 |42|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|18|2022-02-23|
 |43|[folio-org/folio-install](https://github.com/folio-org/folio-install)|Runbooks for FOLIO installation|18|2022-01-27|
 |44|[robmueller/cache-fastmmap](https://github.com/robmueller/cache-fastmmap)|Uses an mmap'ed file to act as a shared memory interprocess cache|18|2021-09-30|
-|45|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|16|2021-11-03|
-|46|[LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT)|M3U playlist of 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese optimized for Kodi. Public and official streams only.|15|2022-02-25|
+|45|[LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT)|M3U playlist of 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese optimized for Kodi. Public and official streams only.|16|2022-02-26|
+|46|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|16|2021-11-03|
 |47|[PacktPublishing/Zabbix-5-Network-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-5-Network-Monitoring-Cookbook)|Zabbix 5 Network Monitoring Cookbook, Published by Packt|15|2021-11-01|
 |48|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|15|2022-02-18|
 |49|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2022-01-01|
 |50|[Downes/gRSShopper](https://github.com/Downes/gRSShopper)|gRSShopper is a tool that aggregates, organizes and distributes resources to support online learning|15|2022-02-24|
 |51|[project-renard/curie](https://github.com/project-renard/curie)|:mag_right::book: Document reader (currently in pre-alpha)|14|2021-11-28|
 |52|[tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte)|Magic housekeeping package for TUXEDO books|13|2022-02-25|
-|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-02-25|
+|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-02-26|
 |54|[marioroy/mce-examples](https://github.com/marioroy/mce-examples)|Examples for Many-Core Engine|13|2022-02-19|
 |55|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2022-02-24|
 |56|[dlandon/zoneminder.master-docker](https://github.com/dlandon/zoneminder.master-docker)|Zoneminder Master Docker|12|2021-12-23|
@@ -81,7 +81,7 @@
 |74|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|2022-02-12|
 |75|[Ensembl/ensembl-xs](https://github.com/Ensembl/ensembl-xs)|A collection of XS modules to be used with the Ensembl APIs|6|2022-02-21|
 |76|[redeltaglio/rasberry-hackrf](https://github.com/redeltaglio/rasberry-hackrf)|Guide to configure rasberry pi, hackrf one and soapy sdr to control the device remotely.|5|2022-02-21|
-|77|[snmptt/snmptt](https://github.com/snmptt/snmptt)|SNMP Trap Translator (SNMPTT) primary repository.  A mirror is available at https://sourceforge.net/p/snmptt/git/ci/master/tree/ and file releases are available at https://sourceforge.net/projects/snm ...|5|2022-02-23|
+|77|[snmptt/snmptt](https://github.com/snmptt/snmptt)|SNMP Trap Translator (SNMPTT) primary repository.  A mirror is available at https://sourceforge.net/p/snmptt/git/ci/master/tree/ and file releases are available at https://sourceforge.net/projects/snm ...|5|2022-02-26|
 |78|[gryphonshafer/Quizzing-Rule-Book](https://github.com/gryphonshafer/Quizzing-Rule-Book)|Bible Quizzing Rule Book|5|2022-02-11|
 |79|[saadatm/ghalib](https://github.com/saadatm/ghalib)|Source of Kulliyāt-e-Ghalib (web book), a collection of Ghalib's Urdu poetry.|5|2022-02-13|
 |80|[multicom-toolbox/DNSS2](https://github.com/multicom-toolbox/DNSS2)|Deep learning architectures for protein secondary structure prediction (version 2)|5|2022-02-10|

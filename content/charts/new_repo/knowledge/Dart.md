@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3291|2022-02-24|2021-03-29|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3295|2022-02-26|2021-03-29|
 |2|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|156|2022-02-23|2021-05-28|
-|3|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|142|2022-02-15|2021-04-08|
+|3|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|143|2022-02-15|2021-04-08|
 |4|[widgetbook/widgetbook](https://github.com/widgetbook/widgetbook)|Widgetbook is an open source Flutter package accelerating the widget development and review process.|120|2022-02-23|2021-08-24|
 |5|[JohannesMilke/generate_pdf_invoice_example](https://github.com/JohannesMilke/generate_pdf_invoice_example)|Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.|81|2021-11-08|2021-03-27|
 |6|[PolyglotNetwork/devtoolbox](https://github.com/PolyglotNetwork/devtoolbox)|Collection of offline utilities for developers|66|2022-01-24|2022-01-01|
 |7|[perymerdeka/mastering-dart](https://github.com/perymerdeka/mastering-dart)|Repo for Teach Yourself mastering dart programming language|46|2022-02-01|2021-06-20|
-|8|[fredgrott/not_in_flutter_docs](https://github.com/fredgrott/not_in_flutter_docs)|flutter code tutorials|41|2021-11-19|2021-10-15|
-|9|[VGVentures/bloc_concurrency_demos](https://github.com/VGVentures/bloc_concurrency_demos)|3 different demos showing how to use bloc concurrency, before and after the Bloc 7.2.0 update.|40|2021-11-01|2021-10-21|
+|8|[VGVentures/bloc_concurrency_demos](https://github.com/VGVentures/bloc_concurrency_demos)|3 different demos showing how to use bloc concurrency, before and after the Bloc 7.2.0 update.|41|2021-11-01|2021-10-21|
+|9|[fredgrott/not_in_flutter_docs](https://github.com/fredgrott/not_in_flutter_docs)|flutter code tutorials|41|2021-11-19|2021-10-15|
 |10|[durannumit/valorant-guide](https://github.com/durannumit/valorant-guide)|Flutter Valorant Guide|37|2022-01-09|2022-01-02|
 |11|[openkraken/samples](https://github.com/openkraken/samples)|A collection of Krakens examples and demos.|37|2022-01-12|2021-03-05|
 |12|[TheWCKD/Dart-from-Novice-To-Expert](https://github.com/TheWCKD/Dart-from-Novice-To-Expert)|Source code for the topics covered inside the Dart - from Novice to Expert Course|33|2021-09-20|2021-09-08|
@@ -52,7 +52,7 @@
 |45|[lau1944/just_audio_cache](https://github.com/lau1944/just_audio_cache)|Collection of extension function of just_audio package for auto-handle caching|10|2021-09-22|2021-08-04|
 |46|[qwertypool/flutter-code-snippets](https://github.com/qwertypool/flutter-code-snippets)|Flutter quick code snippets - Feel free to contribute.|10|2022-01-07|2021-05-03|
 |47|[iamnijat/code-quizzy](https://github.com/iamnijat/code-quizzy)|Coding quizzes will make your learning very enjoyable. You won't just learn here, you'll play games and learn. Our quizzes are fun. They're mind-blowing your knowledge instantly.|9|2022-02-01|2022-02-01|
-|48|[Flutter-ui-dev/Flutter-ui-dev](https://github.com/Flutter-ui-dev/Flutter-ui-dev)|This repo contains all the code and snippets for the tutorials and shorts|9|2022-02-22|2022-01-21|
+|48|[Flutter-ui-dev/Flutter-ui-dev](https://github.com/Flutter-ui-dev/Flutter-ui-dev)|This repo contains all the code and snippets for the tutorials and shorts|9|2022-02-26|2022-01-21|
 |49|[md-weber/feeling_wheel_custom_painter](https://github.com/md-weber/feeling_wheel_custom_painter)|Custom Painter Tutorial of Flutter Explained|9|2021-12-27|2021-12-27|
 |50|[batuhankrbb/flutterbook](https://github.com/batuhankrbb/flutterbook)|My Flutter book. I gathered all services and helpers I made with Flutter in here. You can easily copy these helpers and use them in your project.|9|2022-01-09|2021-11-15|
 |51|[Rea2er/flutter-clothes-app-starter](https://github.com/Rea2er/flutter-clothes-app-starter)|This project include all the assets I used in this tutorial|9|2021-08-29|2021-08-29|

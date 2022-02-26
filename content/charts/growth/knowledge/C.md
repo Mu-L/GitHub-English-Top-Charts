@@ -1,62 +1,62 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > C
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[torvalds/linux](https://github.com/torvalds/linux)|Linux kernel source tree|127543|33|2022-02-25|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|6095|8|2022-02-17|
-|3|[cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)|How to create an OS from scratch|22478|8|2022-01-06|
-|4|[ahrm/sioyek](https://github.com/ahrm/sioyek)|Sioyek is a PDF viewer designed for reading research papers and technical books.|1768|8|2022-02-25|
-|5|[SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)|How to Make a Computer Operating System in C++|19736|7|2021-12-16|
-|6|[s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)|Learning operating system development using Linux kernel and Raspberry Pi|11206|7|2022-02-16|
-|7|[TheAlgorithms/C](https://github.com/TheAlgorithms/C)|Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.|12458|6|2022-02-25|
-|8|[leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)|FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more|7590|5|2022-01-07|
-|9|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9660|5|2022-01-10|
-|10|[isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev)|Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4|2179|4|2022-02-20|
+|1|[torvalds/linux](https://github.com/torvalds/linux)|Linux kernel source tree|127584|33|2022-02-25|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|6099|8|2022-02-17|
+|3|[cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)|How to create an OS from scratch|22483|8|2022-01-06|
+|4|[ahrm/sioyek](https://github.com/ahrm/sioyek)|Sioyek is a PDF viewer designed for reading research papers and technical books.|1782|8|2022-02-26|
+|5|[SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)|How to Make a Computer Operating System in C++|19738|7|2021-12-16|
+|6|[s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)|Learning operating system development using Linux kernel and Raspberry Pi|11207|7|2022-02-16|
+|7|[TheAlgorithms/C](https://github.com/TheAlgorithms/C)|Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.|12464|6|2022-02-25|
+|8|[leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)|FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more|7592|5|2022-01-07|
+|9|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9664|5|2022-01-10|
+|10|[isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev)|Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4|2183|4|2022-02-20|
 |11|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various WINAPI tricks / features used or abused by Malware|1114|3|2021-11-13|
 |12|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集) |1722|3|2022-01-20|
-|13|[tsl0922/ttyd](https://github.com/tsl0922/ttyd)|Share your terminal over the web|4285|2|2022-02-18|
-|14|[shellphish/how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.|5219|2|2022-02-18|
-|15|[qemu/qemu](https://github.com/qemu/qemu)|Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.|5853|2|2022-02-25|
+|13|[tsl0922/ttyd](https://github.com/tsl0922/ttyd)|Share your terminal over the web|4288|2|2022-02-26|
+|14|[shellphish/how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.|5221|2|2022-02-18|
+|15|[qemu/qemu](https://github.com/qemu/qemu)|Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.|5858|2|2022-02-25|
 |16|[RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers)|Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games|3340|2|2022-02-23|
-|17|[hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)|Various tips & tricks|1707|2|2021-11-15|
+|17|[hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)|Various tips & tricks|1708|2|2021-11-15|
 |18|[RPISEC/MBE](https://github.com/RPISEC/MBE)|Course materials for Modern Binary Exploitation by RPISEC|4736|2|2021-12-09|
-|19|[MaJerle/stm32-cube-cmake-vscode](https://github.com/MaJerle/stm32-cube-cmake-vscode)|Detailed tutorial with instructions how to convert your STM32 project to CMake and VSCode|89|2|2022-01-28|
-|20|[Mr-Un1k0d3r/WindowsDllsExport](https://github.com/Mr-Un1k0d3r/WindowsDllsExport)|A list of all the DLLs export in C:\windows\system32\|157|2|2021-12-22|
+|19|[MaJerle/stm32-cube-cmake-vscode](https://github.com/MaJerle/stm32-cube-cmake-vscode)|Detailed tutorial with instructions how to convert your STM32 project to CMake and VSCode|90|2|2022-01-28|
+|20|[Mr-Un1k0d3r/WindowsDllsExport](https://github.com/Mr-Un1k0d3r/WindowsDllsExport)|A list of all the DLLs export in C:\windows\system32\|158|2|2021-12-22|
 |21|[bpftools/linux-observability-with-bpf](https://github.com/bpftools/linux-observability-with-bpf)|Code snippets from the O'Reilly book|623|1|2022-01-30|
 |22|[MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection)|A Nonsense Collection of Disgusting Codes|2225|1|2022-02-21|
-|23|[MaxwellGengYF/DirectX-12-Tutorial](https://github.com/MaxwellGengYF/DirectX-12-Tutorial)|A simple DirectX-12 tutorial|52|1|2022-02-20|
-|24|[vxunderground/VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)|Research code & papers from members of vx-underground.|586|1|2021-12-07|
+|23|[MaxwellGengYF/DirectX-12-Tutorial](https://github.com/MaxwellGengYF/DirectX-12-Tutorial)|A simple DirectX-12 tutorial|52|1|2022-02-26|
+|24|[vxunderground/VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)|Research code & papers from members of vx-underground.|585|1|2021-12-07|
 |25|[facebookresearch/nle](https://github.com/facebookresearch/nle)|The NetHack Learning Environment|574|1|2022-02-16|
 |26|[andrewchambers/minias](https://github.com/andrewchambers/minias)|A mini x86-64 assembler for fun and learning.|184|1|2021-10-26|
 |27|[sysprog21/concurrent-programs](https://github.com/sysprog21/concurrent-programs)|Complementary Concurrency Programs for course "Linux Kernel Internals"|187|1|2021-09-03|
-|28|[bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)|Bare metal Raspberry Pi 3 tutorials|2095|1|2022-02-18|
+|28|[bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)|Bare metal Raspberry Pi 3 tutorials|2096|1|2022-02-18|
 |29|[aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders)|👾 Jupyter Notebook + Space Invaders!?|86|1|2021-11-03|
-|30|[agavrel/42_CheatSheet](https://github.com/agavrel/42_CheatSheet)|A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language|815|1|2021-11-28|
-|31|[sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)|The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital ...|1982|1|2022-02-17|
-|32|[cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)|Collection of remote authentication triggers in C# |241|1|2021-10-24|
-|33|[neomutt/neomutt](https://github.com/neomutt/neomutt)|:envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat|2409|1|2022-02-25|
-|34|[nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets)|Sample ESP32 snippets and code fragments|1861|1|2021-12-20|
-|35|[begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)|LeetCode in pure C|2638|1|2021-10-26|
-|36|[DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse)|The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University|538|1|2022-01-04|
-|37|[ajpc500/BOFs](https://github.com/ajpc500/BOFs)|Collection of Beacon Object Files|353|1|2021-12-17|
-|38|[xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial)|XDP tutorial|1165|1|2022-02-15|
-|39|[TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch)|A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.|340|1|2022-02-05|
-|40|[kbeckmann/game-and-watch-retro-go](https://github.com/kbeckmann/game-and-watch-retro-go)|Emulator collection for Nintendo® Game & Watch™|262|1|2022-02-25|
-|41|[pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)|Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.|363|1|2022-02-25|
-|42|[remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects)|Projects for an undergraduate OS course|2136|1|2022-02-17|
-|43|[mkirchner/gc](https://github.com/mkirchner/gc)|Simple, zero-dependency garbage collection for C|932|1|2021-12-15|
-|44|[epi052/fuzzing-101-solutions](https://github.com/epi052/fuzzing-101-solutions)|Companion repository to the Fuzzing101 with LibAFL series of blog posts.|57|1|2022-01-23|
-|45|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|121|1|2021-12-10|
-|46|[dbanay/Smalltalk](https://github.com/dbanay/Smalltalk)|By the Bluebook implementation of Smalltalk-80|648|1|2021-12-01|
-|47|[viega/hatrack](https://github.com/viega/hatrack)|A collection of hash tables for parallel programming, including lock-free, wait-free tables.|47|1|2022-02-25|
+|30|[agavrel/42_CheatSheet](https://github.com/agavrel/42_CheatSheet)|A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language|816|1|2021-11-28|
+|31|[Xilinx/HLS](https://github.com/Xilinx/HLS)|Vitis HLS LLVM source code and examples|293|1|2022-02-26|
+|32|[sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)|The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital ...|1982|1|2022-02-17|
+|33|[cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)|Collection of remote authentication triggers in C# |242|1|2021-10-24|
+|34|[neomutt/neomutt](https://github.com/neomutt/neomutt)|:envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat|2411|1|2022-02-25|
+|35|[nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets)|Sample ESP32 snippets and code fragments|1862|1|2021-12-20|
+|36|[begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)|LeetCode in pure C|2639|1|2021-10-26|
+|37|[DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse)|The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University|538|1|2022-01-04|
+|38|[ajpc500/BOFs](https://github.com/ajpc500/BOFs)|Collection of Beacon Object Files|353|1|2021-12-17|
+|39|[xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial)|XDP tutorial|1165|1|2022-02-15|
+|40|[TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch)|A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.|340|1|2022-02-05|
+|41|[kbeckmann/game-and-watch-retro-go](https://github.com/kbeckmann/game-and-watch-retro-go)|Emulator collection for Nintendo® Game & Watch™|263|1|2022-02-25|
+|42|[pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)|Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.|367|1|2022-02-25|
+|43|[remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects)|Projects for an undergraduate OS course|2138|1|2022-02-17|
+|44|[mkirchner/gc](https://github.com/mkirchner/gc)|Simple, zero-dependency garbage collection for C|933|1|2021-12-15|
+|45|[epi052/fuzzing-101-solutions](https://github.com/epi052/fuzzing-101-solutions)|Companion repository to the Fuzzing101 with LibAFL series of blog posts.|57|1|2022-01-23|
+|46|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|123|1|2021-12-10|
+|47|[dbanay/Smalltalk](https://github.com/dbanay/Smalltalk)|By the Bluebook implementation of Smalltalk-80|649|1|2021-12-01|
 |48|[DhavalKapil/heap-exploitation](https://github.com/DhavalKapil/heap-exploitation)|This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. |1141|1|2021-11-24|
 |49|[evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42)|  SCHOOL_42_UPDATE 2020   This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program   Course   Programing   Coding   School 42   Ecole 42   Scho ...|237|0|2022-01-20|
-|50|[martinezjavier/ldd3](https://github.com/martinezjavier/ldd3)|Linux Device Drivers 3 examples updated to work in recent kernels|1764|0|2021-11-09|
+|50|[martinezjavier/ldd3](https://github.com/martinezjavier/ldd3)|Linux Device Drivers 3 examples updated to work in recent kernels|1765|0|2021-11-09|
 |51|[laanwj/etna_viv](https://github.com/laanwj/etna_viv)|Etnaviv is a project to build a FOSS driver for the Vivante GCxxx series of embedded GPUs - laanwj's personal fork - upstream is https://github.com/etnaviv/etna_viv|200|0|2021-12-26|
-|52|[grblHAL/core](https://github.com/grblHAL/core)|grblHAL core code and master Wiki|100|0|2022-02-17|
+|52|[grblHAL/core](https://github.com/grblHAL/core)|grblHAL core code and master Wiki|101|0|2022-02-17|
 |53|[ArtemioUrbina/240pTestSuite](https://github.com/ArtemioUrbina/240pTestSuite)|A homebrew software suite for video game consoles developed to help in the evaluation of upscalers, upscan converters, line doublers and of course TV processing of 240p video. The Wii and Dreamcast ve ...|66|0|2022-02-19|
 |54|[QuantumLeaps/modern-embedded-programming-course](https://github.com/QuantumLeaps/modern-embedded-programming-course)|Companion repository to the "Modern Embedded Systems Programming" video course.|107|0|2022-02-09|
 |55|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|245|0|2022-02-11|
@@ -76,7 +76,7 @@
 |69|[chvmp/robots](https://github.com/chvmp/robots)|Collection of quadrupedal robots configured to work in CHAMP development framework|118|0|2022-02-06|
 |70|[HesselM/rpicross_notes](https://github.com/HesselM/rpicross_notes)|Guide to Cross Compiling on a Raspberry Pi|53|0|2021-12-11|
 |71|[MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx)|STM32 examples for USART using DMA for efficient RX and TX transmission|548|0|2022-02-18|
-|72|[adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides)|Programs and scripts to display "inline" in Adafruit Learning System guides|624|0|2022-02-25|
+|72|[adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides)|Programs and scripts to display "inline" in Adafruit Learning System guides|624|0|2022-02-26|
 |73|[lbraglia/chtp](https://github.com/lbraglia/chtp)|[Book exercises]: Deitel & Deitel - "C How To Program"|67|0|2021-09-23|
 |74|[STMicroelectronics/STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)|Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).|107|0|2022-01-10|
 |75|[Vishruth-S/S3_DS_LAB](https://github.com/Vishruth-S/S3_DS_LAB)|Data Structures & Algorithms, CS-201 KTU|34|0|2021-11-27|
@@ -85,23 +85,23 @@
 |78|[Koromix/tytools](https://github.com/Koromix/tytools)|Collection of tools to manage Teensy boards|151|0|2022-01-23|
 |79|[PawanKolhe/C-Algorithms](https://github.com/PawanKolhe/C-Algorithms)|All algorithms implemented in C|57|0|2022-01-03|
 |80|[recp/ds](https://github.com/recp/ds)|🔗 Common Data Structures and Algorithms|39|0|2021-10-30|
-|81|[GorgonMeducer/perf_counter](https://github.com/GorgonMeducer/perf_counter)|A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfere it. This library will bring new functionalities, such as performance ...|124|0|2022-02-19|
+|81|[GorgonMeducer/perf_counter](https://github.com/GorgonMeducer/perf_counter)|A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfere it. This library will bring new functionalities, such as performance ...|125|0|2022-02-19|
 |82|[heterodb/pg-strom](https://github.com/heterodb/pg-strom)|PG-Strom - Master development repository|1063|0|2022-02-15|
 |83|[h2o/picotls](https://github.com/h2o/picotls)|TLS 1.3 implementation in C (master supports RFC8446 as well as draft-26, -27, -28)|371|0|2022-02-16|
 |84|[superflexible/TGPuttyLib](https://github.com/superflexible/TGPuttyLib)|An SFTP client shared library (dll/so/dylib) with bindings and classes for C++, Delphi and Free Pascal based on PuTTY|62|0|2021-11-09|
 |85|[ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions)|Tutorials & examples for Arm software development tools.|161|0|2022-02-24|
 |86|[dparrish/libcli](https://github.com/dparrish/libcli)|Libcli provides a shared library for including a Cisco-like command-line interface into other software.  It's a telnet interface which supports command-line editing, history, authentication and callba ...|238|0|2021-10-09|
 |87|[outscale/packetgraph](https://github.com/outscale/packetgraph)|Packetgraph library is a collection of network bricks you can connect to form a network graph.|70|0|2021-12-02|
-|88|[JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module)|Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator notebook series|74|0|2022-02-11|
+|88|[JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module)|Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator notebook series|76|0|2022-02-11|
 |89|[compuphase/Black-Magic-Probe-Book](https://github.com/compuphase/Black-Magic-Probe-Book)|A guide plus associated utilities for the Black Magic Probe.|69|0|2022-02-24|
 |90|[mhagander/bgw_replstatus](https://github.com/mhagander/bgw_replstatus)|Small PostgreSQL background worker to report whether a node is a replication master or standby|33|0|2021-10-11|
 |91|[yihui-he/Modern-Compiler-Implementation-in-C](https://github.com/yihui-he/Modern-Compiler-Implementation-in-C)|book and codes for Modern Compiler Implementation in C|214|0|2022-02-09|
 |92|[jpaulohe4rt/c4noobs](https://github.com/jpaulohe4rt/c4noobs)|Tutorial de C para iniciantes|202|0|2021-10-24|
 |93|[mwarning/UDP-hole-punching-examples](https://github.com/mwarning/UDP-hole-punching-examples)|A small collection of examples for UDP hole punching.|81|0|2022-01-27|
-|94|[tyler569/nightingale](https://github.com/tyler569/nightingale)|A small operating system where I experiment and learn osdev.|66|0|2022-02-25|
+|94|[tyler569/nightingale](https://github.com/tyler569/nightingale)|A small operating system where I experiment and learn osdev.|66|0|2022-02-26|
 |95|[ib/xarchiver](https://github.com/ib/xarchiver)|(continuation of the Xfce master branch)|110|0|2022-02-22|
 |96|[codefinite-vri/Data-Structures-And-Algorithms](https://github.com/codefinite-vri/Data-Structures-And-Algorithms)|These repository contains all the important codes in Data Structures and Algorithms spanning across different areas like Recursion, Stacks, Queues, Linked Lists, Arrays, Pointers, Graphs, Trees, Sorts ...|49|0|2022-01-14|
-|97|[ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial)|A gtk4 tutorial for beginners|199|0|2022-01-08|
+|97|[ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial)|A gtk4 tutorial for beginners|200|0|2022-01-08|
 |98|[ZerBea/hcxkeys](https://github.com/ZerBea/hcxkeys)|Small set of tools to generate plainmasterkeys (rainbowtables) and hashes for the use with latest hashcat and John the Ripper.|80|0|2021-11-04|
 |99|[mnhrdt/imscript](https://github.com/mnhrdt/imscript)|a collection of small and standalone utilities for image processing, written in C|90|0|2022-02-25|
 |100|[forhappy/rbtree](https://github.com/forhappy/rbtree)|rbtree implementation adapted from linux kernel thus can be used in your own c program(of course in userspace).|125|0|2022-01-11|
@@ -116,14 +116,14 @@
 |109|[dmage/co2mon](https://github.com/dmage/co2mon)|CLI for MasterKit CO2 Monitor|140|0|2022-02-11|
 |110|[STMicroelectronics/x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7)|X-CUBE-AZRTOS-H7 (Azure RTOS Software Expansion for STM32Cube) provides a full integration of Microsoft Azure RTOS in the STM32Cube environment for the STM32H7 series of microcontrollers.|87|0|2022-02-17|
 |111|[3araht/giabalanai](https://github.com/3araht/giabalanai)|Build guides for giabalanai chromatic accordion MIDI keyboard with no bellows.|34|0|2021-11-26|
-|112|[wrongbaud/hackaday-u](https://github.com/wrongbaud/hackaday-u)|Course materials for hackaday.io Ghidra training|222|0|2021-12-09|
+|112|[wrongbaud/hackaday-u](https://github.com/wrongbaud/hackaday-u)|Course materials for hackaday.io Ghidra training|223|0|2021-12-09|
 |113|[leon-anavi/rpi-examples](https://github.com/leon-anavi/rpi-examples)|Raspberry Pi examples|124|0|2021-10-03|
 |114|[mpitutorial/mpitutorial](https://github.com/mpitutorial/mpitutorial)|MPI programming lessons in C and executable code examples|1570|0|2022-01-14|
 |115|[Serosis/UQM-MegaMod](https://github.com/Serosis/UQM-MegaMod)|A fork of The Ur-Quan Masters that remasters the HD mod with a veritable smorgasbord of extra features and options|31|0|2021-12-09|
 |116|[cs3157/recitations](https://github.com/cs3157/recitations)|Recitation notes for cs3157, the C systems programming course with a narrative|265|0|2022-02-16|
-|117|[Neverball/neverball](https://github.com/Neverball/neverball)|Tilt the floor to roll a ball through an obstacle course before time runs out.|234|0|2022-02-23|
+|117|[Neverball/neverball](https://github.com/Neverball/neverball)|Tilt the floor to roll a ball through an obstacle course before time runs out.|235|0|2022-02-23|
 |118|[terry-yes/mlx_example](https://github.com/terry-yes/mlx_example)|Some examples for those who try to use MLX library for 42 subject CUB3D or miniRT. And some helpful links.|110|0|2021-09-28|
-|119|[capnramses/apg](https://github.com/capnramses/apg)|mini libraries / experimental tools and reusable snippets|64|0|2022-02-14|
+|119|[capnramses/apg](https://github.com/capnramses/apg)|mini libraries / experimental tools and reusable snippets|65|0|2022-02-14|
 |120|[define-private-public/PSRayTracing](https://github.com/define-private-public/PSRayTracing)|A (modern) C++ implementation of the first two books of the Peter Shirley Ray Tracing mini-books (https://raytracing.github.io). Features a clean project structure, perf. improvements (compared to the ...|160|0|2022-02-24|
 |121|[OpenEtherCATsociety/SOEM](https://github.com/OpenEtherCATsociety/SOEM)|Simple Open Source EtherCAT Master|744|0|2022-02-25|
 |122|[iliasam/STM32F4_UVC_Camera](https://github.com/iliasam/STM32F4_UVC_Camera)|STM32F4-Discovery USB Device UVC Camera examples|186|0|2022-02-19|
@@ -132,7 +132,7 @@
 |125|[xieyu/blog](https://github.com/xieyu/blog)|notes on papers/books/codes|170|0|2022-01-27|
 |126|[leoking99-BIT/MPC-for-Self-driving-Vehicles](https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles)|This repo holds the Simulink/CarSim codes for examples of Self-driving Vehicles and Model Predictive Contorl (2ed edition).|44|0|2021-11-22|
 |127|[DanielGibson/Snippets](https://github.com/DanielGibson/Snippets)|(Hopefully) useful code snippets and header-only libs|136|0|2022-01-04|
-|128|[nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)|NoteBook FanControl ported to Linux|64|0|2022-02-01|
+|128|[nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)|NoteBook FanControl ported to Linux|65|0|2022-02-01|
 |129|[codeplaysoftware/computecpp-sdk](https://github.com/codeplaysoftware/computecpp-sdk)|Collection of samples and utilities for using ComputeCpp, Codeplay's SYCL implementation|270|0|2022-02-25|
 |130|[pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf)|A collection of eBPF programs demonstrating bad behavior |82|0|2022-01-25|
 |131|[maksimdrachov/zephyr-rtos-tutorial](https://github.com/maksimdrachov/zephyr-rtos-tutorial)|Zephyr tutorial for beginners|63|0|2022-02-23|
@@ -146,30 +146,30 @@
 |139|[schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486)|A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare|62|0|2022-02-12|
 |140|[rricharz/pidp11-2.11bsd](https://github.com/rricharz/pidp11-2.11bsd)|Using the historical unix 2.11 BSD operating system on the PiDP-11. With examples such as cool-retro-weatherstation.|49|0|2022-01-28|
 |141|[open-dynamic-robot-initiative/master-board](https://github.com/open-dynamic-robot-initiative/master-board)|Hardware and Firmware of the Solo Quadruped Master Board|80|0|2022-01-21|
-|142|[azure-rtos/getting-started](https://github.com/azure-rtos/getting-started)|This Getting Started guide is a series of tutorials that shows device developers how to connect to Azure IoT using Azure RTOS.|211|0|2022-02-24|
+|142|[azure-rtos/getting-started](https://github.com/azure-rtos/getting-started)|This Getting Started guide is a series of tutorials that shows device developers how to connect to Azure IoT using Azure RTOS.|211|0|2022-02-25|
 |143|[NMan1/Modern-Warfare-Warzone-Cheat](https://github.com/NMan1/Modern-Warfare-Warzone-Cheat)|A bad cheat for modern warfare (the warzone) game mode. Very outdated but maybe you can learn something (warning messy code)|93|0|2021-12-31|
-|144|[DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS)|SuiteSparse:GraphBLAS:  graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. For a short video intro, see https ...|155|0|2022-02-24|
+|144|[DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS)|SuiteSparse:GraphBLAS:  graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. For a short video intro, see https ...|155|0|2022-02-25|
 |145|[CroweCybersecurity/shareenum](https://github.com/CroweCybersecurity/shareenum)|Tool to enumerate shares from Windows hosts. |54|0|2021-12-09|
 |146|[lesgourg/class_public](https://github.com/lesgourg/class_public)|Public repository of the Cosmic Linear Anisotropy Solving System (master for the most recent version of the standard code; ExoCLASS branch for exotic energy injection; class_matter branch for FFTlog)|144|0|2022-02-22|
 |147|[FOSS-UCSC/FOSSALGO](https://github.com/FOSS-UCSC/FOSSALGO)|Collection of Algorithms and Data Structures|56|0|2021-11-02|
 |148|[Cartucho/android-touch-record-replay](https://github.com/Cartucho/android-touch-record-replay)|How to record and replay touchscreen events on an Android device.|142|0|2022-01-27|
-|149|[eyelash/tutorials](https://github.com/eyelash/tutorials)|a collection of minimal example programs|156|0|2021-10-23|
+|149|[eyelash/tutorials](https://github.com/eyelash/tutorials)|a collection of minimal example programs|157|0|2021-10-23|
 |150|[wcventure/MemLock-Fuzz](https://github.com/wcventure/MemLock-Fuzz)|[ICSE2020] MemLock: Memory Usage Guided Fuzzing|47|0|2021-12-06|
 |151|[nemequ/portable-snippets](https://github.com/nemequ/portable-snippets)|Collection of miscellaneous portable C snippets.|484|0|2021-09-21|
-|152|[Johannes4Linux/Linux_Driver_Tutorial](https://github.com/Johannes4Linux/Linux_Driver_Tutorial)|A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.|63|0|2021-11-07|
-|153|[linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)|A collection of command line tools for ARM devices with Allwinner SoCs.|409|0|2022-02-23|
+|152|[Johannes4Linux/Linux_Driver_Tutorial](https://github.com/Johannes4Linux/Linux_Driver_Tutorial)|A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.|64|0|2021-11-07|
+|153|[linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)|A collection of command line tools for ARM devices with Allwinner SoCs.|410|0|2022-02-23|
 |154|[Billy-Ellis/Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)|A collection of vulnerable ARM binaries for practicing exploit development|806|0|2021-11-15|
 |155|[pandax381/microps](https://github.com/pandax381/microps)|An implementation of a small TCP/IP protocol stack for learning.|411|0|2022-02-09|
-|156|[cnoviello/mastering-stm32](https://github.com/cnoviello/mastering-stm32)|Repository of all examples presented in the "Mastering STM32" book|304|0|2022-02-14|
+|156|[cnoviello/mastering-stm32](https://github.com/cnoviello/mastering-stm32)|Repository of all examples presented in the "Mastering STM32" book|305|0|2022-02-14|
 |157|[DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample](https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample)|This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.|146|0|2021-12-17|
-|158|[Tarsnap/libcperciva](https://github.com/Tarsnap/libcperciva)|BSD-licensed C99/POSIX library code shared between tarsnap, scrypt, kivaloo, spiped, and bsdiff.|104|0|2022-02-16|
+|158|[Tarsnap/libcperciva](https://github.com/Tarsnap/libcperciva)|BSD-licensed C99/POSIX library code shared between tarsnap, scrypt, kivaloo, spiped, and bsdiff.|104|0|2022-02-26|
 |159|[spdx/spdx-examples](https://github.com/spdx/spdx-examples)|Examples of SPDX files for software combinations|44|0|2021-12-02|
 |160|[hzcx998/BookOS](https://github.com/hzcx998/BookOS)|BookOS is a tiny OS based on xbook2 kernel, you can use it to study!|38|0|2021-10-31|
 |161|[james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager)|Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.|181|0|2021-10-11|
 |162|[d0u9/Linux-Device-Driver](https://github.com/d0u9/Linux-Device-Driver)|Advanced examples of Linux Device Drivers (LDD3) and detailed manual for running examples in QEMU which is patched with virtual PCI, USB, serial devices. I am actively composing a new book about Drive ...|98|0|2021-12-22|
 |163|[mocleiri/tensorflow-micropython-examples](https://github.com/mocleiri/tensorflow-micropython-examples)|A custom micropython firmware integrating tensorflow lite for microcontrollers and ulab to implement the tensorflow micro examples.|58|0|2022-02-25|
 |164|[cppchriscpp/nes-starter-kit](https://github.com/cppchriscpp/nes-starter-kit)| A Beginner's Guide and toolkit for NES game creation.|96|0|2022-02-25|
-|165|[radareorg/radare2-book](https://github.com/radareorg/radare2-book)|Radare2 official book|593|0|2022-02-17|
+|165|[radareorg/radare2-book](https://github.com/radareorg/radare2-book)|Radare2 official book|594|0|2022-02-17|
 |166|[apsrcreatix/Socket-Programming-With-C](https://github.com/apsrcreatix/Socket-Programming-With-C)|:envelope: Learn Network Protocol and Network Programming|105|0|2021-12-19|
 |167|[ilmenit/CC65-Advanced-Optimizations](https://github.com/ilmenit/CC65-Advanced-Optimizations)|How to optimize C code for CC65 compiler|61|0|2021-12-06|
 |168|[borzunov/remoteink](https://github.com/borzunov/remoteink)|📖  🖥️  Turns PocketBook E-Ink reader into a computer monitor|95|0|2021-11-19|
@@ -190,10 +190,10 @@
 |183|[zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures)|All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos.|924|0|2022-02-13|
 |184|[wc-duck/dbgtools](https://github.com/wc-duck/dbgtools)|Small collection of debug-related drop-in c/c++-utils|195|0|2022-01-02|
 |185|[FoRTE-Research/UnTracer-AFL](https://github.com/FoRTE-Research/UnTracer-AFL)|An AFL implementation with UnTracer (our coverage-guided tracer)|105|0|2021-12-27|
-|186|[bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi)|C library for handling Kindle (MOBI) formats of ebook documents|304|0|2022-02-25|
-|187|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1264|0|2022-01-31|
+|186|[bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi)|C library for handling Kindle (MOBI) formats of ebook documents|304|0|2022-02-26|
+|187|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1265|0|2022-01-31|
 |188|[leomccormack/Spatial_Audio_Framework](https://github.com/leomccormack/Spatial_Audio_Framework)|A cross-platform framework for developing spatial audio algorithms and software in C/C++|288|0|2022-02-22|
-|189|[flashrom/flashrom](https://github.com/flashrom/flashrom)|Send patches to review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub|515|0|2022-02-25|
+|189|[flashrom/flashrom](https://github.com/flashrom/flashrom)|Send patches to review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub|516|0|2022-02-25|
 |190|[mlafeldt/ps2rd](https://github.com/mlafeldt/ps2rd)|Collection of tools to remotely debug PS2 games|54|0|2021-12-21|
 |191|[varnish/varnish-modules](https://github.com/varnish/varnish-modules)|Collection of Varnish Cache modules (vmods) by Varnish Software|160|0|2021-12-23|
 |192|[riboseinc/retrace](https://github.com/riboseinc/retrace)|retrace is a versatile security vulnerability / bug discovery tool through monitoring and modifying the behavior of compiled binaries on Linux, OpenBSD/FreeBSD/NetBSD (shared object) and macOS (dynami ...|57|0|2022-02-14|

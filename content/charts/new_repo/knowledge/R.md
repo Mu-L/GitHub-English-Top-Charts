@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2667|2022-02-25|2021-10-08|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2677|2022-02-25|2021-10-08|
 |2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|185|2022-01-27|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|74|2022-02-04|2021-08-31|
 |4|[tidymodels/vetiver](https://github.com/tidymodels/vetiver)|Version, share, deploy, and monitor models|68|2022-02-16|2021-07-09|
@@ -35,13 +35,13 @@
 |28|[akgold/do4ds](https://github.com/akgold/do4ds)|A book on DevOps for Data Scientists with CRC Press.|10|2022-02-12|2021-05-10|
 |29|[wrathematics/DSE512](https://github.com/wrathematics/DSE512)|Course materials for: The Computer Science of Data Science.|9|2022-02-23|2022-01-23|
 |30|[cjabradshaw/AustralianSharkIncidentDatabase](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase)|The Australian Shark-Incident Database (ASID) for quantifying temporal and spatial patterns of shark-human conflict in Australia|9|2021-12-01|2021-09-20|
-|31|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|9|2022-02-23|2021-09-06|
-|32|[alexanderbrenning/wiml](https://github.com/alexanderbrenning/wiml)|Interpreting machine-learning models in transformed space|9|2022-01-29|2021-03-09|
+|31|[alexanderbrenning/wiml](https://github.com/alexanderbrenning/wiml)|Interpreting machine-learning models in transformed space|9|2022-01-29|2021-03-09|
+|32|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|8|2022-02-26|2021-09-06|
 |33|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|8|2021-11-30|2021-08-24|
 |34|[ccrismancox/POLS602_Fall2021](https://github.com/ccrismancox/POLS602_Fall2021)|Course site for POLS 602 Fall 2021|8|2021-12-09|2021-08-22|
 |35|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|7|2021-11-02|2021-10-07|
 |36|[tanho63/tantorials](https://github.com/tanho63/tantorials)|code for tutorials, office hours, and other help i've given|7|2022-02-23|2021-07-20|
-|37|[RinteRface/connectViz](https://github.com/RinteRface/connectViz)|{connectViz} offers a collection of helper functions and 'htmlwidgets' to help admins or user better understand how 'RStudio Connect' is used in their organisation. The package provides plug and play  ...|6|2022-02-20|2022-02-17|
+|37|[RinteRface/connectViz](https://github.com/RinteRface/connectViz)|{connectViz} offers a collection of helper functions and 'htmlwidgets' to help admins or user better understand how 'RStudio Connect' is used in their organisation. The package provides plug and play  ...|6|2022-02-26|2022-02-17|
 |38|[robjhyndman/fpp3scripts](https://github.com/robjhyndman/fpp3scripts)|R scripts used in fpp3 book|6|2021-11-20|2021-11-20|
 |39|[anhoej/r4spc](https://github.com/anhoej/r4spc)|Course materials: Statistical process control charts with R|6|2021-10-30|2021-10-28|
 |40|[SwissTPH/OpenCOVID](https://github.com/SwissTPH/OpenCOVID)|This git-repository contains current reports and source-code for OpenCOVID, an individual based model of SARS-CoV-2 dynamics for studying transmission dynamics and epidemiology, and the impacts of int ...|6|2022-01-31|2021-03-23|
@@ -54,7 +54,7 @@
 |47|[vizdata-f21/website](https://github.com/vizdata-f21/website)|🏠 Source files for the course website|5|2021-12-01|2021-08-22|
 |48|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|5|2022-02-25|2021-08-20|
 |49|[nch-igm/EnFusion](https://github.com/nch-igm/EnFusion)|The ENsemble Fusion (EnFusion) repo contains a Dockerfile to build a Docker Image that can overlap outputs from 7 fusion detection algorithms, to identify high confidence fusion events. |5|2021-09-15|2021-08-04|
-|50|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-02-25|2021-05-03|
+|50|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-02-26|2021-05-03|
 |51|[mikemeredith/IPM_code](https://github.com/mikemeredith/IPM_code)|R and JAGS code for the book 'Integrated Population Models'|5|2022-01-01|2021-03-30|
 |52|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-01-12|2021-12-21|
 |53|[dppalomar/pob](https://github.com/dppalomar/pob)|Supporting package for the Portfolio Optimization Book|4|2021-09-02|2021-06-17|

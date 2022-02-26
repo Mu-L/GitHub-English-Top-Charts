@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8916|18|2022-02-15|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8919|18|2022-02-15|
 |2|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|The ultimate guide for bare metal programming using stm32|5|1|2022-02-22|
-|3|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|9|1|2022-02-17|
-|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1933|1|2022-02-15|
-|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|341|1|2022-02-22|
-|6|[mahmou7789d/AVR_Driver](https://github.com/mahmou7789d/AVR_Driver)|For AVR Embedded Course, I had code this driver to produce more electronics and robotics projects using AVR Microcontroller|2|0|2022-02-16|
+|3|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|10|1|2022-02-17|
+|4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1935|1|2022-02-15|
+|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|343|1|2022-02-22|
+|6|[mahmou7789d/AVR_Driver](https://github.com/mahmou7789d/AVR_Driver)|For AVR Embedded Course, I had code this driver to produce more electronics and robotics projects using AVR Microcontroller|2|0|2022-02-26|
 |7|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|31|0|2021-10-24|
 |8|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|29|0|2021-12-24|
 |9|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|0|2022-01-03|
@@ -22,14 +22,14 @@
 |15|[fghsgh/fghbeep2](https://github.com/fghsgh/fghbeep2)|advanced 1-bit sound engine for 83+/84+ series of calculators|4|0|2022-01-26|
 |16|[PacktPublishing/Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition)|Mastering Reverse Engineering (Second Edition), published by Packt Publishing|2|0|2022-01-31|
 |17|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|142|0|2021-12-13|
-|18|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|30|0|2022-02-21|
+|18|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|31|0|2022-02-21|
 |19|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|341|0|2021-08-29|
 |20|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|0|2022-01-16|
 |21|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|128|0|2021-09-16|
 |22|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|6|0|2022-02-25|
 |23|[Drunella/u5remastered](https://github.com/Drunella/u5remastered)|Ultima V remastered for EasyFlash and 1581|13|0|2021-11-21|
 |24|[KuangjuX/SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)|A Simple 5-stage pipeline MIPS CPU for TJU Computer Architecture Course|5|0|2022-02-15|
-|25|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|45|0|2022-01-06|
+|25|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|46|0|2022-01-06|
 |26|[skeetor/c64-src](https://github.com/skeetor/c64-src)|A collection of Commodore C64 and C128 sources.|2|0|2021-12-26|
 |27|[smallnest/go-generics-examples](https://github.com/smallnest/go-generics-examples)|go generics examples|6|0|2022-01-07|
 |28|[Ziagl/C64-Assembler](https://github.com/Ziagl/C64-Assembler)|Listings of my C64 Assembler tutorial series|3|0|2021-10-08|
@@ -51,7 +51,7 @@
 |44|[edoardottt/Asm_mars_examples](https://github.com/edoardottt/Asm_mars_examples)|Some of my assembly code ( examples, iterative and recursive algorithms ) from Computer's Architecture course in Sapienza University, CS Bachelor Degree :floppy_disk:|12|0|2021-09-08|
 |45|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|5|0|2022-01-08|
 |46|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|2|0|2022-02-05|
-|47|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|0|2021-12-03|
+|47|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|0|2022-02-26|
 |48|[AlexandrosKyriakakis/microprocessor-lab-ntua](https://github.com/AlexandrosKyriakakis/microprocessor-lab-ntua)|University assignments for lesson Microprocessor Lab 2020-2021|2|0|2021-11-05|
 |49|[tedkotz/be6502](https://github.com/tedkotz/be6502)|Collection of notes, software and upgrades for Ben Eater's 6502 Computer|2|0|2022-01-10|
 |50|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|0|2022-02-20|
@@ -60,7 +60,7 @@
 |53|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|13|0|2021-09-06|
 |54|[menotti/convert_grayscale](https://github.com/menotti/convert_grayscale)|A simple example in Verilog of how to convert an image to grayscale|3|0|2022-02-18|
 |55|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|31|0|2022-02-19|
-|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-23|
+|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-26|
 |57|[kspalaiologos/LearnC](https://github.com/kspalaiologos/LearnC)|LearnC is (mainly) C book I wrote|6|0|2022-01-17|
 |58|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|8|0|2022-02-05|
 |59|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|6|0|2021-12-08|
@@ -76,7 +76,7 @@
 |69|[Arnau478/os-tutorial](https://github.com/Arnau478/os-tutorial)|A tutorial to learn how to create an operating system from scratch|4|0|2022-01-08|
 |70|[crtc-demos/the-master-of-your-old-school](https://github.com/crtc-demos/the-master-of-your-old-school)|CRTC's demo for the BBC Master, released at Sundown 2010|2|0|2021-10-12|
 |71|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|4|0|2021-11-14|
-|72|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|4|0|2022-02-25|
+|72|[AmusementClub/x265](https://github.com/AmusementClub/x265)|statically linked x265 Yuuki mod with mimalloc, PGO (Profile-Guided Optimization) & LTO (Link-time Optimization)|5|0|2022-02-25|
 |73|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|43|0|2021-12-29|
 |74|[DavidJRichards/VideoWriter](https://github.com/DavidJRichards/VideoWriter)|Collection of information about Philips VideoWriter 4460|2|0|2022-01-10|
 |75|[MobyGamer/x86-simple-boot-sector](https://github.com/MobyGamer/x86-simple-boot-sector)|Examples of building a simple boot sector for 16-bit x86 -era systems|4|0|2021-12-20|
@@ -84,7 +84,7 @@
 |77|[msarbouch/HackerU](https://github.com/msarbouch/HackerU)|Most of my works during the study period.|2|0|2022-02-10|
 |78|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|3|0|2021-12-19|
 |79|[ricardoquesada/c64-misc](https://github.com/ricardoquesada/c64-misc)|Commodore 64 tips'n tricks|32|0|2021-09-06|
-|80|[ruinengLi/GnssNavigationAndVisualization](https://github.com/ruinengLi/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|0|2021-11-26|
+|80|[ruinenlee/GnssNavigationAndVisualization](https://github.com/ruinenlee/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|0|2021-11-26|
 |81|[HerrSchatten/MBMPlay-SMS](https://github.com/HerrSchatten/MBMPlay-SMS)|A port of the MoonBlaster replayer from the MSX to the Master System|3|0|2022-01-31|
 |82|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|64|0|2021-10-20|
 |83|[yugecin/scmcleoscripts](https://github.com/yugecin/scmcleoscripts)|Collection of cleo/scm scripts/plugins that I've made (gtasa)|10|0|2021-11-28|
@@ -99,7 +99,7 @@
 |92|[dhwl1234/Code-for-Microcomputer-principle](https://github.com/dhwl1234/Code-for-Microcomputer-principle)|Microcomputer principle course code of Beijing University of Chemical Technology|4|0|2021-12-19|
 |93|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|0|2022-02-07|
 |94|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|269|0|2021-11-29|
-|95|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-21|
+|95|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|12|0|2022-02-26|
 |96|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|0|2022-01-10|
 |97|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|0|2021-10-22|
 |98|[jmatzen/leventhal-6809](https://github.com/jmatzen/leventhal-6809)|Source code from Leventhal's "6809 Assembly Language Programming" book|18|0|2022-01-20|
@@ -113,11 +113,11 @@
 |106|[mbhangui/tinydnssec](https://github.com/mbhangui/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|2|0|2021-09-09|
 |107|[maxim-zhao/sms-hq-samples](https://github.com/maxim-zhao/sms-hq-samples)|Patching Sega Master System games with high-quality samples|8|0|2022-02-07|
 |108|[g0pher98/WIL](https://github.com/g0pher98/WIL)|What I Learned✍|9|0|2022-02-15|
-|109|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide|5|0|2022-01-23|
+|109|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide|6|0|2022-01-23|
 |110|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|0|2021-11-28|
 |111|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|0|2021-11-24|
 |112|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|0|2022-01-18|
-|113|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|52|0|2022-02-19|
+|113|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|53|0|2022-02-19|
 |114|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|0|2021-10-31|
 |115|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|60|0|2022-02-25|
 |116|[secana/Assembler-Examples](https://github.com/secana/Assembler-Examples)|Different code examples in assembler|3|0|2021-12-07|
@@ -125,7 +125,7 @@
 |118|[InfinityFloof/fnc](https://github.com/InfinityFloof/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|0|2021-12-03|
 |119|[Isotarge/lotsdisasm](https://github.com/Isotarge/lotsdisasm)|Lord of the Sword Disassembly for Sega Master System|3|0|2021-09-03|
 |120|[3SUM/monalisa](https://github.com/3SUM/monalisa)|Collection of homework assignments I did for myself and for others while as an undergrad @ UNLV.|3|0|2022-01-20|
-|121|[tgrysztar/fasmg](https://github.com/tgrysztar/fasmg)|flat assembler g - examples library|86|0|2022-01-08|
+|121|[tgrysztar/fasmg](https://github.com/tgrysztar/fasmg)|flat assembler g - examples library|86|0|2022-02-26|
 |122|[ArcadeDan/DanOS](https://github.com/ArcadeDan/DanOS)|personal project for learning x86-64 asm|3|0|2022-02-07|
 |123|[billforsternz/retro-sargon](https://github.com/billforsternz/retro-sargon)|This is a project to bring the code from the book "Sargon a computer chess program" back to life in the modern era|25|0|2021-09-05|
 |124|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|42|0|2021-10-09|

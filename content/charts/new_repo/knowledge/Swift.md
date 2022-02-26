@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|654|2021-11-02|2021-10-19|
 |2|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|602|2022-02-25|2021-07-19|
-|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|586|2022-02-25|2021-04-09|
+|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|586|2022-02-26|2021-04-09|
 |4|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|291|2022-02-16|2021-10-24|
 |5|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|209|2022-02-02|2021-03-19|
 |6|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|132|2021-11-07|2021-11-07|
 |7|[recherst/kavsoft-swiftui-animations](https://github.com/recherst/kavsoft-swiftui-animations)|SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft. 🔗 https://kavsoft.dev|98|2021-10-14|2021-06-24|
 |8|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|87|2021-10-04|2021-10-04|
 |9|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|77|2022-02-08|2021-07-13|
-|10|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|59|2021-09-17|2021-06-06|
+|10|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|60|2021-09-17|2021-06-06|
 |11|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|55|2021-10-17|2021-05-03|
 |12|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|37|2021-12-20|2021-09-29|
 |13|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|36|2022-01-16|2021-09-22|
 |14|[chFlorian/DesignRemakes](https://github.com/chFlorian/DesignRemakes)|A collection of Dribbble designs that I speed-coded in SwiftUI|31|2022-02-22|2021-12-22|
 |15|[maxxfrazer/RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)|A collection of additional geometries ready for use in RealityKit 2|29|2022-02-20|2021-06-11|
 |16|[network-quality/server](https://github.com/network-quality/server)|A place to share code and server configurations in support of the networkQuality tool|28|2021-12-15|2021-10-07|
-|17|[jrasmusson/ios-professional-course](https://github.com/jrasmusson/ios-professional-course)|Course for iOS Professionals|27|2022-02-23|2021-09-19|
+|17|[jrasmusson/ios-professional-course](https://github.com/jrasmusson/ios-professional-course)|Course for iOS Professionals|27|2022-02-26|2021-09-19|
 |18|[PacktPublishing/SwiftUI-Cookbook-2nd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-2nd-Edition)|SwiftUI Cookbook (2nd Edition), published by Packt|27|2022-01-19|2021-06-28|
 |19|[readium/swift-toolkit](https://github.com/readium/swift-toolkit)|A toolkit for ebooks, audiobooks and comics written in Swift|26|2022-02-23|2021-11-02|
 |20|[SmithZachary/SwiftInterviewProblems](https://github.com/SmithZachary/SwiftInterviewProblems)|Swift Interview Problems in Playground|24|2021-12-03|2021-11-18|
