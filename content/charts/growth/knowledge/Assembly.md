@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8919|18|2022-02-15|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|8920|18|2022-02-15|
 |2|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|The ultimate guide for bare metal programming using stm32|5|1|2022-02-22|
 |3|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|10|1|2022-02-17|
 |4|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1935|1|2022-02-15|
@@ -38,7 +38,7 @@
 |31|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|0|2021-10-26|
 |32|[makerbase-mks/MKS-Robin-Nano-Firmware](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware)|MKS Robin Nano firmware source code, you can use IAR IDE build it and update it on your nano board.Of course, you can change source code and add new function with you requirement and so on|25|0|2022-01-15|
 |33|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|0|2021-11-14|
-|34|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|140|0|2022-02-25|
+|34|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|141|0|2022-02-25|
 |35|[mattuna15/merlin](https://github.com/mattuna15/merlin)|Learn how to create your own 32-bit system from scratch.|8|0|2022-02-15|
 |36|[kernelbin/CloudOS](https://github.com/kernelbin/CloudOS)|An operate system written by me for study purpose|3|0|2021-11-26|
 |37|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|8|0|2021-09-30|
@@ -60,12 +60,12 @@
 |53|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|13|0|2021-09-06|
 |54|[menotti/convert_grayscale](https://github.com/menotti/convert_grayscale)|A simple example in Verilog of how to convert an image to grayscale|3|0|2022-02-18|
 |55|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|31|0|2022-02-19|
-|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-26|
+|56|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|0|2022-02-27|
 |57|[kspalaiologos/LearnC](https://github.com/kspalaiologos/LearnC)|LearnC is (mainly) C book I wrote|6|0|2022-01-17|
 |58|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|8|0|2022-02-05|
 |59|[aromalanil/Microprocessor-Lab-Ktu](https://github.com/aromalanil/Microprocessor-Lab-Ktu)|This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU|6|0|2021-12-08|
 |60|[maxim-zhao/zexall-sms](https://github.com/maxim-zhao/zexall-sms)|Sega Master System port of ZEXALL Z80 instruction set exerciser|11|0|2021-10-19|
-|61|[mwfj/CMU_15213_CSAPP3E_Lab](https://github.com/mwfj/CMU_15213_CSAPP3E_Lab)|Self-Study: The Class lab of CMU-15213(2015 version) http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html|2|0|2022-02-24|
+|61|[mwfj/CMU_15213_CSAPP3E_Lab](https://github.com/mwfj/CMU_15213_CSAPP3E_Lab)|Self-Study: The Class lab of CMU-15213(2015 version) http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html|2|0|2022-02-27|
 |62|[rogerbratseth/Amiga-Assembler-on-Two-Disks](https://github.com/rogerbratseth/Amiga-Assembler-on-Two-Disks)|Project for translating Fabio Ciuccis assembler-course for the Amiga from 1994|16|0|2022-01-04|
 |63|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|0|2021-09-27|
 |64|[jvisser/UltraDrive](https://github.com/jvisser/UltraDrive)|Project to learn how to implement a game engine for the Sega Genesis/Mega Drive.|9|0|2022-02-25|

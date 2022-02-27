@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|170|2022-02-24|2021-03-06|
 |6|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|127|2022-02-26|2021-03-24|
 |7|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|123|2022-01-18|2021-07-24|
-|8|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|104|2021-11-27|2021-03-13|
+|8|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|105|2021-11-27|2021-03-13|
 |9|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|94|2021-12-14|2021-12-06|
 |10|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|85|2022-01-26|2021-11-16|
 |11|[Paisseon/Satella](https://github.com/Paisseon/Satella)|iOS 13-14 IAP hacker|76|2021-12-24|2021-03-30|
@@ -33,7 +33,7 @@
 |26|[yangKJ/ChainThen](https://github.com/yangKJ/ChainThen)|♻️ Chain then create UI.|35|2022-01-25|2021-11-07|
 |27|[owl-compositor/owl](https://github.com/owl-compositor/owl)|The portable Wayland compositor in Objective-C|33|2021-11-10|2021-11-08|
 |28|[yangKJ/KJNetworkPlugin](https://github.com/yangKJ/KJNetworkPlugin)|🎡A Network Plugin With AFNetworking. Network Plugin, Support batch and chain operation.|33|2022-01-21|2021-07-24|
-|29|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|30|2022-02-23|2021-11-28|
+|29|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|31|2022-02-23|2021-11-28|
 |30|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Natively integrated notification logger|29|2022-02-06|2021-09-18|
 |31|[kritanta-ios-tweaks/HomePlusPro](https://github.com/kritanta-ios-tweaks/HomePlusPro)|Intuitive, live, iOS Homescreen layout configuration|29|2021-12-28|2021-02-28|
 |32|[Metnew/write-ups](https://github.com/Metnew/write-ups)|-|27|2022-02-18|2022-02-11|
@@ -46,7 +46,7 @@
 |39|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|23|2021-10-29|2021-06-26|
 |40|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|23|2022-02-06|2021-04-25|
 |41|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|21|2022-02-24|2021-08-31|
-|42|[evilrat/flutter_zoom_sdk](https://github.com/evilrat/flutter_zoom_sdk)|Zoom SDK from ZOOM ported to flutter as plugin with all necessary features and with Null Safety which is implementation by EvilRATT|20|2022-02-12|2021-04-26|
+|42|[evilrat/flutter_zoom_sdk](https://github.com/evilrat/flutter_zoom_sdk)|Zoom SDK from ZOOM ported to flutter as plugin with all necessary features and with Null Safety which is implementation by EvilRATT|21|2022-02-12|2021-04-26|
 |43|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2022-02-25|2021-08-26|
 |44|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|19|2022-01-01|2021-03-12|
 |45|[AandersonL/whoexec](https://github.com/AandersonL/whoexec)|Discover which process execute a hunted binary inside macOS|17|2021-12-15|2021-12-15|
@@ -172,39 +172,39 @@
 |165|[Luki120/Arizona](https://github.com/Luki120/Arizona)|Change the alignment of the stock clock, date and lock glyph on the fly|5|2021-12-28|2021-04-05|
 |166|[flutter-fast-kit/fk_user_agent](https://github.com/flutter-fast-kit/fk_user_agent)|Retrieve Android/iOS device user agents in Flutter.|5|2022-01-19|2021-03-29|
 |167|[adarshpatil/dve](https://github.com/adarshpatil/dve)|Improving DRAM Reliability and Performance On-Demand via Coherent Replication [ISCA 2021]|5|2022-01-10|2021-03-12|
-|168|[willemt/defold-cognito](https://github.com/willemt/defold-cognito)|-|4|2022-01-29|2022-01-28|
-|169|[anandbagmar/sampleAppsForNativeMobileAutomation](https://github.com/anandbagmar/sampleAppsForNativeMobileAutomation)|Repo containing sample native apps for mobile automation|4|2021-12-15|2021-12-10|
-|170|[LonfeyLi/DBLanguageManager](https://github.com/LonfeyLi/DBLanguageManager)|a management tool of iOS project language configuration|4|2021-12-10|2021-12-03|
-|171|[edpapyan902/react-native-voip-call](https://github.com/edpapyan902/react-native-voip-call)|-|4|2021-11-02|2021-11-02|
-|172|[edpapyan902/SWIFT-Fitness](https://github.com/edpapyan902/SWIFT-Fitness)|-|4|2021-11-02|2021-11-02|
-|173|[leonid712/Social-Media-App](https://github.com/leonid712/Social-Media-App)|-|4|2021-10-31|2021-10-23|
-|174|[GeoSn0w/BlizzardX-Jailbreak](https://github.com/GeoSn0w/BlizzardX-Jailbreak)|A jailbreak for 32-Bit iOS 10|4|2021-10-20|2021-10-20|
-|175|[JarlenJohn/VideoEditorLib](https://github.com/JarlenJohn/VideoEditorLib)|Video editing framework based on AVFoundation.|4|2021-10-09|2021-10-09|
-|176|[axiftaj/Flutter-Shopping-Cart-With-Provider](https://github.com/axiftaj/Flutter-Shopping-Cart-With-Provider)|-|4|2021-10-08|2021-10-08|
-|177|[apple-oss-distributions/HTTPServer](https://github.com/apple-oss-distributions/HTTPServer)|-|4|2021-10-06|2021-10-04|
-|178|[summertriangle-dev/Eyeplugs](https://github.com/summertriangle-dev/Eyeplugs)|-|4|2021-09-24|2021-09-23|
-|179|[countercept/ESFang](https://github.com/countercept/ESFang)|ESF modular ingestion tool for development and research. |4|2021-12-21|2021-09-17|
-|180|[natolira/Linguagem-M](https://github.com/natolira/Linguagem-M)|Repositório de funções M criadas|4|2022-01-22|2021-09-10|
-|181|[gsioteam/gl_canvas](https://github.com/gsioteam/gl_canvas)|A OpenGLES context canvas in flutter.|4|2022-02-14|2021-08-27|
-|182|[haodanku/bianxian_sdk_ios](https://github.com/haodanku/bianxian_sdk_ios)|-|4|2021-12-07|2021-08-10|
-|183|[Luki120/Aria](https://github.com/Luki120/Aria)|Enhance the stock CC or Prysm on the fly|4|2022-02-07|2021-06-28|
-|184|[Lofelt/lofelt-studio-sdk](https://github.com/Lofelt/lofelt-studio-sdk)|HD haptic playback for iOS, Android and Unity|4|2021-09-22|2021-06-22|
-|185|[AlessandroSangiuliano/Puck](https://github.com/AlessandroSangiuliano/Puck)|Puck is a simple dockbar|4|2022-02-07|2021-05-28|
-|186|[schneelittchen/Lisa](https://github.com/schneelittchen/Lisa)|Full incoming OLED notifications|4|2022-02-06|2021-04-25|
-|187|[mariogt/PikoPixelM1](https://github.com/mariogt/PikoPixelM1)|PikoPixelM1 is a modernization effort to make the original PikoPixel Apple Silicon/M1/Intel Universal Binary compliant.|4|2021-08-31|2021-04-18|
-|188|[haze/sys_appearance](https://github.com/haze/sys_appearance)|get real time notifications of mac OS system appearance changes through a TCP socket|3|2022-02-11|2022-02-11|
-|189|[coingrig/coingrig-wallet-generator](https://github.com/coingrig/coingrig-wallet-generator)|Blazing⚡️Fast BTC and ETH Wallet Generator library for React Native, Android and iOS|3|2022-02-15|2022-02-05|
-|190|[plusminusone-tr/PMOUISetter](https://github.com/plusminusone-tr/PMOUISetter)|Helper for UI Elements|3|2022-02-21|2022-02-03|
-|191|[tapthaker/SetArchPrefForURL](https://github.com/tapthaker/SetArchPrefForURL)|A CLI utility to "check" or "uncheck" "Open Using Rosetta" preference for Apple Silicon macs. |3|2022-01-24|2022-01-24|
-|192|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-02-26|2022-01-14|
-|193|[Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu)|An open source WaniKani style SRS Japanese Studying App for macOS|3|2022-02-25|2022-01-12|
-|194|[libpag/ffavc](https://github.com/libpag/ffavc)|A video decoder built on ffmpeg which allows libpag to use ffmpeg as its software decoder for h264 decoding.|3|2022-02-09|2022-01-10|
-|195|[getAlby/alby-installer-macos](https://github.com/getAlby/alby-installer-macos)|-|3|2022-01-28|2022-01-06|
-|196|[PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview)|-|3|2022-02-19|2021-12-25|
-|197|[InvoxiPlayGames/MGSDecryptorCLI](https://github.com/InvoxiPlayGames/MGSDecryptorCLI)|decryptor for MacGameStore games protected by their 2007-era DRMWrapper.|3|2021-12-23|2021-12-23|
-|198|[upmanager/react-native-voip-push-notification](https://github.com/upmanager/react-native-voip-push-notification)|-|3|2021-12-22|2021-12-21|
-|199|[upmanager/react-native-voip-call](https://github.com/upmanager/react-native-voip-call)|-|3|2021-12-21|2021-12-21|
-|200|[hansemannn/titanium-document-viewer](https://github.com/hansemannn/titanium-document-viewer)|-|3|2021-12-19|2021-12-19|
+|168|[NoveTeam/JuzioFont](https://github.com/NoveTeam/JuzioFont)|Type like a boss. Be like @JuzioMiecio520. First font that everyone will love!|4|2022-02-27|2022-02-27|
+|169|[willemt/defold-cognito](https://github.com/willemt/defold-cognito)|-|4|2022-01-29|2022-01-28|
+|170|[anandbagmar/sampleAppsForNativeMobileAutomation](https://github.com/anandbagmar/sampleAppsForNativeMobileAutomation)|Repo containing sample native apps for mobile automation|4|2021-12-15|2021-12-10|
+|171|[LonfeyLi/DBLanguageManager](https://github.com/LonfeyLi/DBLanguageManager)|a management tool of iOS project language configuration|4|2021-12-10|2021-12-03|
+|172|[edpapyan902/react-native-voip-call](https://github.com/edpapyan902/react-native-voip-call)|-|4|2021-11-02|2021-11-02|
+|173|[edpapyan902/SWIFT-Fitness](https://github.com/edpapyan902/SWIFT-Fitness)|-|4|2021-11-02|2021-11-02|
+|174|[leonid712/Social-Media-App](https://github.com/leonid712/Social-Media-App)|-|4|2021-10-31|2021-10-23|
+|175|[GeoSn0w/BlizzardX-Jailbreak](https://github.com/GeoSn0w/BlizzardX-Jailbreak)|A jailbreak for 32-Bit iOS 10|4|2021-10-20|2021-10-20|
+|176|[JarlenJohn/VideoEditorLib](https://github.com/JarlenJohn/VideoEditorLib)|Video editing framework based on AVFoundation.|4|2021-10-09|2021-10-09|
+|177|[axiftaj/Flutter-Shopping-Cart-With-Provider](https://github.com/axiftaj/Flutter-Shopping-Cart-With-Provider)|-|4|2021-10-08|2021-10-08|
+|178|[apple-oss-distributions/HTTPServer](https://github.com/apple-oss-distributions/HTTPServer)|-|4|2021-10-06|2021-10-04|
+|179|[summertriangle-dev/Eyeplugs](https://github.com/summertriangle-dev/Eyeplugs)|-|4|2021-09-24|2021-09-23|
+|180|[countercept/ESFang](https://github.com/countercept/ESFang)|ESF modular ingestion tool for development and research. |4|2021-12-21|2021-09-17|
+|181|[natolira/Linguagem-M](https://github.com/natolira/Linguagem-M)|Repositório de funções M criadas|4|2022-01-22|2021-09-10|
+|182|[gsioteam/gl_canvas](https://github.com/gsioteam/gl_canvas)|A OpenGLES context canvas in flutter.|4|2022-02-14|2021-08-27|
+|183|[haodanku/bianxian_sdk_ios](https://github.com/haodanku/bianxian_sdk_ios)|-|4|2021-12-07|2021-08-10|
+|184|[Luki120/Aria](https://github.com/Luki120/Aria)|Enhance the stock CC or Prysm on the fly|4|2022-02-07|2021-06-28|
+|185|[Lofelt/lofelt-studio-sdk](https://github.com/Lofelt/lofelt-studio-sdk)|HD haptic playback for iOS, Android and Unity|4|2021-09-22|2021-06-22|
+|186|[AlessandroSangiuliano/Puck](https://github.com/AlessandroSangiuliano/Puck)|Puck is a simple dockbar|4|2022-02-07|2021-05-28|
+|187|[schneelittchen/Lisa](https://github.com/schneelittchen/Lisa)|Full incoming OLED notifications|4|2022-02-06|2021-04-25|
+|188|[mariogt/PikoPixelM1](https://github.com/mariogt/PikoPixelM1)|PikoPixelM1 is a modernization effort to make the original PikoPixel Apple Silicon/M1/Intel Universal Binary compliant.|4|2021-08-31|2021-04-18|
+|189|[haze/sys_appearance](https://github.com/haze/sys_appearance)|get real time notifications of mac OS system appearance changes through a TCP socket|3|2022-02-11|2022-02-11|
+|190|[coingrig/coingrig-wallet-generator](https://github.com/coingrig/coingrig-wallet-generator)|Blazing⚡️Fast BTC and ETH Wallet Generator library for React Native, Android and iOS|3|2022-02-15|2022-02-05|
+|191|[plusminusone-tr/PMOUISetter](https://github.com/plusminusone-tr/PMOUISetter)|Helper for UI Elements|3|2022-02-21|2022-02-03|
+|192|[tapthaker/SetArchPrefForURL](https://github.com/tapthaker/SetArchPrefForURL)|A CLI utility to "check" or "uncheck" "Open Using Rosetta" preference for Apple Silicon macs. |3|2022-01-24|2022-01-24|
+|193|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-02-27|2022-01-14|
+|194|[Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu)|An open source WaniKani style SRS Japanese Studying App for macOS|3|2022-02-25|2022-01-12|
+|195|[libpag/ffavc](https://github.com/libpag/ffavc)|A video decoder built on ffmpeg which allows libpag to use ffmpeg as its software decoder for h264 decoding.|3|2022-02-09|2022-01-10|
+|196|[getAlby/alby-installer-macos](https://github.com/getAlby/alby-installer-macos)|-|3|2022-01-28|2022-01-06|
+|197|[PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview)|-|3|2022-02-19|2021-12-25|
+|198|[InvoxiPlayGames/MGSDecryptorCLI](https://github.com/InvoxiPlayGames/MGSDecryptorCLI)|decryptor for MacGameStore games protected by their 2007-era DRMWrapper.|3|2021-12-23|2021-12-23|
+|199|[upmanager/react-native-voip-push-notification](https://github.com/upmanager/react-native-voip-push-notification)|-|3|2021-12-22|2021-12-21|
+|200|[upmanager/react-native-voip-call](https://github.com/upmanager/react-native-voip-call)|-|3|2021-12-21|2021-12-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

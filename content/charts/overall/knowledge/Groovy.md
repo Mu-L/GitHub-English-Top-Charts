@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3840|2022-02-02|
 |2|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |560|2022-02-18|
-|3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|290|2022-02-20|
-|4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|2022-02-24|
-|5|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|176|2022-02-26|
+|3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|291|2022-02-20|
+|4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|2022-02-27|
+|5|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|176|2022-02-27|
 |6|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|2022-01-22|
 |7|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|2022-01-11|
-|8|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|167|2022-02-25|
+|8|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|168|2022-02-25|
 |9|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|133|2022-02-24|
 |10|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|116|2022-01-01|
 |11|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|103|2022-02-23|
@@ -36,8 +36,8 @@
 |29|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|22|2021-09-08|
 |30|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|21|2022-02-24|
 |31|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|19|2021-12-11|
-|32|[rakutentech/android-buildconfig](https://github.com/rakutentech/android-buildconfig)|Shared (gradle) build configurations for Android and Java libraries|18|2022-02-17|
-|33|[anilpacaci/streaming-graph-partitioning](https://github.com/anilpacaci/streaming-graph-partitioning)|Experimental Setup for Performance Analysis of Streaming Algorithms|18|2021-12-10|
+|32|[anilpacaci/streaming-graph-partitioning](https://github.com/anilpacaci/streaming-graph-partitioning)|Experimental Setup for Performance Analysis of Streaming Algorithms|19|2021-12-10|
+|33|[rakutentech/android-buildconfig](https://github.com/rakutentech/android-buildconfig)|Shared (gradle) build configurations for Android and Java libraries|18|2022-02-17|
 |34|[slemarchand/liferay-admin-scripts](https://github.com/slemarchand/liferay-admin-scripts)|A collection of scripts to run in the Liferay admin script console|15|2021-09-20|
 |35|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|2022-02-24|
 |36|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|13|2022-02-22|
@@ -54,14 +54,14 @@
 |47|[instil/jenkins-pipeline-steps](https://github.com/instil/jenkins-pipeline-steps)|A collection of build steps for use with Jenkins pipelines|8|2021-12-30|
 |48|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|7|2022-02-03|
 |49|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|7|2022-01-04|
-|50|[tracetronic/jenkins-library](https://github.com/tracetronic/jenkins-library)|Jenkins shared library for your CX automation workflows.|6|2022-01-19|
-|51|[devonfw/production-line-shared-lib](https://github.com/devonfw/production-line-shared-lib)|Jenkins "Shared libs" for Production Line templating|6|2022-01-21|
-|52|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|6|2021-10-19|
-|53|[MinecraftForge/forgesharedlibrary](https://github.com/MinecraftForge/forgesharedlibrary)|Forge Groovy Shared Libraries for Jenkins|6|2021-10-31|
-|54|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|2022-02-22|
-|55|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|2022-02-26|
-|56|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|2021-09-16|
-|57|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Advanced Jenkinsfile & Jenkins Shared Library (Groovy)|5|2022-02-24|
+|50|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Advanced Jenkinsfile & Jenkins Shared Library (Groovy)|6|2022-02-24|
+|51|[tracetronic/jenkins-library](https://github.com/tracetronic/jenkins-library)|Jenkins shared library for your CX automation workflows.|6|2022-01-19|
+|52|[devonfw/production-line-shared-lib](https://github.com/devonfw/production-line-shared-lib)|Jenkins "Shared libs" for Production Line templating|6|2022-01-21|
+|53|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|6|2021-10-19|
+|54|[MinecraftForge/forgesharedlibrary](https://github.com/MinecraftForge/forgesharedlibrary)|Forge Groovy Shared Libraries for Jenkins|6|2021-10-31|
+|55|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|2022-02-22|
+|56|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|2022-02-26|
+|57|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|2021-09-16|
 |58|[earthly/ci-examples](https://github.com/earthly/ci-examples)|Examples using different CI systems to build with Earthly.|5|2021-10-01|
 |59|[bogovicj/registrationWorkflows_i2k_2020](https://github.com/bogovicj/registrationWorkflows_i2k_2020)|Automatic and manual workflows course I2K 2020|5|2021-10-28|
 |60|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|5|2022-02-15|
@@ -71,25 +71,24 @@
 |64|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|4|2022-02-03|
 |65|[starnowski/posmulten](https://github.com/starnowski/posmulten)|Posmulten library is an open-source project for the generation of SQL DDL statements that make it easy for implementation of Shared Schema Multi-tenancy strategy via the Row Security Policies in the P ...|4|2022-02-16|
 |66|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|4|2022-02-23|
-|67|[ElektraInitiative/jenkins-library](https://github.com/ElektraInitiative/jenkins-library)|Jenkins Shared Library|3|2021-08-28|
-|68|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|3|2022-01-24|
-|69|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|3|2022-02-21|
-|70|[axieinfinity/jenkins-library](https://github.com/axieinfinity/jenkins-library)|Shared Jenkins library for Sky Mavis.|3|2021-12-21|
-|71|[atselvan/jenkins-pipeline-go](https://github.com/atselvan/jenkins-pipeline-go)|Jenkins shared/global library for building golang code (go pipeline)|3|2022-02-23|
-|72|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|2021-09-20|
-|73|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|2022-01-24|
-|74|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
-|75|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|2021-12-29|
-|76|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
-|77|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-02-01|
-|78|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|2022-02-22|
-|79|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|2|2021-10-06|
-|80|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|2022-02-25|
-|81|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|2|2022-02-24|
-|82|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|2022-01-13|
-|83|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|2022-02-22|
-|84|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|2022-01-30|
-|85|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|2021-12-24|
+|67|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|3|2022-01-24|
+|68|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|3|2022-02-21|
+|69|[axieinfinity/jenkins-library](https://github.com/axieinfinity/jenkins-library)|Shared Jenkins library for Sky Mavis.|3|2021-12-21|
+|70|[atselvan/jenkins-pipeline-go](https://github.com/atselvan/jenkins-pipeline-go)|Jenkins shared/global library for building golang code (go pipeline)|3|2022-02-23|
+|71|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|2021-09-20|
+|72|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|2022-01-24|
+|73|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|2021-10-19|
+|74|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|2021-12-29|
+|75|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|2|2021-12-20|
+|76|[Jochen-Kall/Safety_concept_tool](https://github.com/Jochen-Kall/Safety_concept_tool)|Collection of freeplane scripts/addon to build safety concepts within a freeplane mindmap.|2|2022-02-01|
+|77|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|2022-02-22|
+|78|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|2|2021-10-06|
+|79|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|2022-02-25|
+|80|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|2|2022-02-24|
+|81|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|2022-01-13|
+|82|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|2022-02-22|
+|83|[jericks/geoscript-groovy-cookbook](https://github.com/jericks/geoscript-groovy-cookbook)|A GeoScript Groovy Cookbook|2|2022-01-30|
+|84|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|2021-12-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

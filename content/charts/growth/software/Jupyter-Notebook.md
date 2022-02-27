@@ -1,187 +1,187 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Jupyter Notebook
-<sub>Updated: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7760|22|2022-01-07|
-|2|[google-research/google-research](https://github.com/google-research/google-research)|Google Research|22038|18|2022-02-24|
-|3|[jokteur/python_communism](https://github.com/jokteur/python_communism)|A module for initiating the communist revolution in each of our python modules|751|17|2022-01-30|
-|4|[priiyaanjaalii0611/ASL_to_English](https://github.com/priiyaanjaalii0611/ASL_to_English)|Reads your hand signs and translates them to English words using Tensorflow object detection API|489|17|2022-02-02|
-|5|[bloc97/Anime4K](https://github.com/bloc97/Anime4K)|A High-Quality Real Time Upscaler for Anime Video|14432|16|2021-11-26|
-|6|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2797|15|2022-01-24|
-|7|[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)|This repository contains the source code for the paper First Order Motion Model for Image Animation |12170|15|2021-12-13|
-|8|[openai/CLIP](https://github.com/openai/CLIP)|Contrastive Language-Image Pretraining|6413|15|2022-02-18|
-|9|[fastai/fastai](https://github.com/fastai/fastai)|The fastai deep learning library|21973|13|2022-02-24|
-|10|[karpathy/minGPT](https://github.com/karpathy/minGPT)|A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training|7008|13|2022-01-02|
-|11|[mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN)|Official PyTorch repo for JoJoGAN: One Shot Face Stylization|961|13|2022-02-05|
-|12|[jantic/DeOldify](https://github.com/jantic/DeOldify)|A Deep Learning based project for colorizing and restoring old images (and video!)|14747|12|2022-02-24|
-|13|[mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|💿 Free software that works great, and also happens to be open-source Python. |13443|11|2021-10-11|
-|14|[salesforce/BLIP](https://github.com/salesforce/BLIP)|PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  |377|11|2022-02-22|
-|15|[norvig/pytudes](https://github.com/norvig/pytudes)|Python programs, usually short, of considerable difficulty, to perfect particular skills.|18254|10|2022-02-08|
-|16|[sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle)|Generate images from texts. In Russian|1040|9|2022-02-23|
-|17|[deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)|This repository contains implementations and illustrative code to accompany DeepMind publications|9718|9|2022-02-16|
-|18|[google-research/vision_transformer](https://github.com/google-research/vision_transformer)|-|4582|9|2022-02-03|
-|19|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2742|9|2021-09-25|
-|20|[yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso)|-|237|9|2022-02-21|
-|21|[FernandaOchoa/CursoIntroPython](https://github.com/FernandaOchoa/CursoIntroPython)|Curso de introducción a la programación con python para Launch X de Innovacción Virtual|195|9|2022-02-14|
-|22|[emirhanai/Cryptocurrency-ETH-USDT-prediction-with-RNN-Neural-Network-Artificial-Intelligence](https://github.com/emirhanai/Cryptocurrency-ETH-USDT-prediction-with-RNN-Neural-Network-Artificial-Intelligence)|Cryptocurrency [ETH/USDT] prediction with RNN Neural Network Artificial Intelligence|23|8|2022-02-24|
-|23|[slundberg/shap](https://github.com/slundberg/shap)|A game theoretic approach to explain the output of any machine learning model.|15585|8|2022-02-25|
-|24|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|3139|8|2021-12-21|
-|25|[zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)|The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.|4984|7|2021-10-24|
-|26|[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)|aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  |24136|7|2022-01-06|
-|27|[benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator)|-|1413|7|2022-01-09|
-|28|[vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine)|A Deep Learning based project for creating line art portraits.|3112|7|2022-01-04|
-|29|[huggingface/education-toolkit](https://github.com/huggingface/education-toolkit)|Educational materials for universities|37|7|2022-02-25|
-|30|[facebookresearch/omnivore](https://github.com/facebookresearch/omnivore)|Omnivore: A Single Model for Many Visual Modalities|258|7|2022-02-01|
-|31|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2659|7|2021-11-16|
-|32|[microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)|Best Practices, code samples, and documentation for Computer Vision.|8314|7|2021-10-25|
-|33|[google/automl](https://github.com/google/automl)|Google Brain AutoML|4899|7|2022-02-21|
-|34|[bmild/nerf](https://github.com/bmild/nerf)|Code release for NeRF (Neural Radiance Fields)|4442|6|2021-11-30|
-|35|[DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes)|felixge's notes on the various go profiling methods that are available.|2336|6|2022-02-24|
-|36|[sail-sg/poolformer](https://github.com/sail-sg/poolformer)|PoolFormer: MetaFormer is Actually What You Need for Vision|606|6|2021-12-11|
-|37|[rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)|Code Repository for Machine Learning with PyTorch and Scikit-Learn|388|6|2022-02-26|
-|38|[pycaret/pycaret](https://github.com/pycaret/pycaret)|An open-source, low-code machine learning library in Python|5179|6|2022-02-26|
-|39|[AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)|FinRL: Financial Reinforcement Learning Framework. Please star. 🔥|3403|6|2022-02-26|
-|40|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|Taming Transformers for High-Resolution Image Synthesis|2421|6|2022-02-19|
-|41|[The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil ...|10821|6|2022-02-26|
-|42|[firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning)|A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)|6141|6|2021-12-18|
-|43|[eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)|Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework|2333|5|2022-02-23|
-|44|[girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)|GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to e ...|928|5|2022-01-05|
-|45|[fivethirtyeight/data](https://github.com/fivethirtyeight/data)|Data and code behind the articles and graphics at FiveThirtyEight|15398|5|2022-02-25|
-|46|[ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)|One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️|2183|5|2021-12-28|
-|47|[facebookresearch/DensePose](https://github.com/facebookresearch/DensePose)|A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body|6214|5|2021-08-31|
-|48|[OpenMined/PySyft](https://github.com/OpenMined/PySyft)|A library for answering questions using data you cannot see|7942|5|2022-02-26|
-|49|[jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq)|Automatic headphone equalization from frequency responses|6656|5|2022-01-31|
-|50|[MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public)|Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.|910|4|2022-02-26|
-|51|[google/brax](https://github.com/google/brax)|Massively parallel rigidbody physics simulation on accelerator hardware.|1178|4|2022-02-25|
-|52|[cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022)|-|198|4|2022-02-09|
-|53|[tensorflow/docs](https://github.com/tensorflow/docs)|TensorFlow documentation|5111|4|2022-02-25|
-|54|[Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)|Deep Learning (with PyTorch)|5702|4|2022-02-25|
-|55|[bytedance/ibot](https://github.com/bytedance/ibot)|iBOT: Image BERT Pre-Training with Online Tokenizer (ICLR 2022)|282|4|2022-02-17|
-|56|[CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)|-|8431|4|2022-02-24|
-|57|[Muennighoff/sgpt](https://github.com/Muennighoff/sgpt)|SGPT: GPT Sentence Embeddings for Semantic Search|61|4|2022-02-25|
-|58|[deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)|A proof-of-concept jupyter extension which converts english queries into relevant python code|2058|4|2021-12-21|
-|59|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5653|4|2022-02-13|
-|60|[google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron)|Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera  ...|1874|4|2022-02-02|
+|1|[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)|A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.|7761|22|2022-01-07|
+|2|[google-research/google-research](https://github.com/google-research/google-research)|Google Research|22042|18|2022-02-27|
+|3|[jokteur/python_communism](https://github.com/jokteur/python_communism)|A module for initiating the communist revolution in each of our python modules|752|17|2022-01-30|
+|4|[priiyaanjaalii0611/ASL_to_English](https://github.com/priiyaanjaalii0611/ASL_to_English)|Reads your hand signs and translates them to English words using Tensorflow object detection API|505|17|2022-02-02|
+|5|[bloc97/Anime4K](https://github.com/bloc97/Anime4K)|A High-Quality Real Time Upscaler for Anime Video|14434|16|2021-11-26|
+|6|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|2801|15|2022-01-24|
+|7|[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)|This repository contains the source code for the paper First Order Motion Model for Image Animation |12173|15|2021-12-13|
+|8|[openai/CLIP](https://github.com/openai/CLIP)|Contrastive Language-Image Pretraining|6421|15|2022-02-18|
+|9|[fastai/fastai](https://github.com/fastai/fastai)|The fastai deep learning library|21972|13|2022-02-26|
+|10|[karpathy/minGPT](https://github.com/karpathy/minGPT)|A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training|7009|13|2022-01-02|
+|11|[mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN)|Official PyTorch repo for JoJoGAN: One Shot Face Stylization|966|13|2022-02-05|
+|12|[jantic/DeOldify](https://github.com/jantic/DeOldify)|A Deep Learning based project for colorizing and restoring old images (and video!)|14748|12|2022-02-24|
+|13|[mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|💿 Free software that works great, and also happens to be open-source Python. |13445|11|2021-10-11|
+|14|[salesforce/BLIP](https://github.com/salesforce/BLIP)|PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  |381|11|2022-02-27|
+|15|[norvig/pytudes](https://github.com/norvig/pytudes)|Python programs, usually short, of considerable difficulty, to perfect particular skills.|18256|10|2022-02-08|
+|16|[sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle)|Generate images from texts. In Russian|1041|9|2022-02-23|
+|17|[deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)|This repository contains implementations and illustrative code to accompany DeepMind publications|9722|9|2022-02-16|
+|18|[google-research/vision_transformer](https://github.com/google-research/vision_transformer)|-|4585|9|2022-02-03|
+|19|[graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|-|2743|9|2021-09-25|
+|20|[yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso)|-|238|9|2022-02-21|
+|21|[slundberg/shap](https://github.com/slundberg/shap)|A game theoretic approach to explain the output of any machine learning model.|15591|8|2022-02-27|
+|22|[bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)|PyTorch implementation of AnimeGANv2|3142|8|2021-12-21|
+|23|[FernandaOchoa/CursoIntroPython](https://github.com/FernandaOchoa/CursoIntroPython)|Curso de introducción a la programación con python para Launch X de Innovacción Virtual|195|8|2022-02-14|
+|24|[zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)|The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.|4984|7|2021-10-24|
+|25|[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)|aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  |24139|7|2022-01-06|
+|26|[benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator)|-|1417|7|2022-01-09|
+|27|[vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine)|A Deep Learning based project for creating line art portraits.|3112|7|2022-01-04|
+|28|[facebookresearch/omnivore](https://github.com/facebookresearch/omnivore)|Omnivore: A Single Model for Many Visual Modalities|258|7|2022-02-01|
+|29|[orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP)|Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)|2661|7|2021-11-16|
+|30|[microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)|Best Practices, code samples, and documentation for Computer Vision.|8316|7|2021-10-25|
+|31|[google/automl](https://github.com/google/automl)|Google Brain AutoML|4900|7|2022-02-21|
+|32|[emirhanai/Cryptocurrency-ETH-USDT-prediction-with-RNN-Neural-Network-Artificial-Intelligence](https://github.com/emirhanai/Cryptocurrency-ETH-USDT-prediction-with-RNN-Neural-Network-Artificial-Intelligence)|Cryptocurrency [ETH/USDT] prediction with RNN Neural Network Artificial Intelligence|23|6|2022-02-24|
+|33|[bmild/nerf](https://github.com/bmild/nerf)|Code release for NeRF (Neural Radiance Fields)|4445|6|2021-11-30|
+|34|[DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes)|felixge's notes on the various go profiling methods that are available.|2336|6|2022-02-24|
+|35|[sail-sg/poolformer](https://github.com/sail-sg/poolformer)|PoolFormer: MetaFormer is Actually What You Need for Vision|611|6|2021-12-11|
+|36|[rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)|Code Repository for Machine Learning with PyTorch and Scikit-Learn|400|6|2022-02-26|
+|37|[huggingface/education-toolkit](https://github.com/huggingface/education-toolkit)|Educational materials for universities|37|6|2022-02-25|
+|38|[pycaret/pycaret](https://github.com/pycaret/pycaret)|An open-source, low-code machine learning library in Python|5180|6|2022-02-27|
+|39|[AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)|FinRL: Financial Reinforcement Learning Framework. Please star. 🔥|3411|6|2022-02-26|
+|40|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|Taming Transformers for High-Resolution Image Synthesis|2422|6|2022-02-19|
+|41|[The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil ...|10826|6|2022-02-27|
+|42|[YangtaoWANG95/TokenCut](https://github.com/YangtaoWANG95/TokenCut)|pytorch implementation of "Self-supervised transformers for unsupervised object discovery using normalized cut"|34|6|2022-02-27|
+|43|[firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning)|A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)|6140|6|2021-12-18|
+|44|[eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)|Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework|2336|5|2022-02-23|
+|45|[girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)|GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to e ...|927|5|2022-01-05|
+|46|[fivethirtyeight/data](https://github.com/fivethirtyeight/data)|Data and code behind the articles and graphics at FiveThirtyEight|15401|5|2022-02-25|
+|47|[ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)|One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️|2185|5|2021-12-28|
+|48|[facebookresearch/DensePose](https://github.com/facebookresearch/DensePose)|A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body|6215|5|2021-08-31|
+|49|[OpenMined/PySyft](https://github.com/OpenMined/PySyft)|A library for answering questions using data you cannot see|7943|5|2022-02-27|
+|50|[jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq)|Automatic headphone equalization from frequency responses|6664|5|2022-01-31|
+|51|[MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public)|Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.|911|4|2022-02-27|
+|52|[google/brax](https://github.com/google/brax)|Massively parallel rigidbody physics simulation on accelerator hardware.|1179|4|2022-02-25|
+|53|[cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022)|-|199|4|2022-02-09|
+|54|[tensorflow/docs](https://github.com/tensorflow/docs)|TensorFlow documentation|5112|4|2022-02-25|
+|55|[Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)|Deep Learning (with PyTorch)|5703|4|2022-02-25|
+|56|[CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)|-|8437|4|2022-02-24|
+|57|[Muennighoff/sgpt](https://github.com/Muennighoff/sgpt)|SGPT: GPT Sentence Embeddings for Semantic Search|62|4|2022-02-25|
+|58|[deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)|A proof-of-concept jupyter extension which converts english queries into relevant python code|2059|4|2021-12-21|
+|59|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5654|4|2022-02-13|
+|60|[google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron)|Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera  ...|1875|4|2022-02-02|
 |61|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2782|4|2021-10-14|
 |62|[chengwei-wang-ucsc/GPlearn_finiance_stock_futures_extension](https://github.com/chengwei-wang-ucsc/GPlearn_finiance_stock_futures_extension)|This implementation contains the application of GPlearn's symbolic transformer on a commodity futures sector of the financial market. |160|4|2022-02-01|
 |63|[tensorflow/swift](https://github.com/tensorflow/swift)|Swift for TensorFlow|6046|4|2022-01-12|
 |64|[kubernetes/community](https://github.com/kubernetes/community)|Kubernetes community content|9390|4|2022-02-25|
 |65|[PAIR-code/facets](https://github.com/PAIR-code/facets)|Visualizations for machine learning datasets|6785|4|2021-11-29|
-|66|[guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises)|Practice your pandas skills!|7397|4|2022-02-13|
-|67|[stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)|Code for Machine Learning for Algorithmic Trading, 2nd edition.|5348|4|2022-02-11|
-|68|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3911|4|2022-02-26|
-|69|[ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling)|Create HTML profiling reports from pandas DataFrame objects|8552|4|2022-02-25|
-|70|[makcedward/nlpaug](https://github.com/makcedward/nlpaug)|Data augmentation for NLP |2967|3|2022-02-23|
-|71|[Weixin-Liang/MetaShift](https://github.com/Weixin-Liang/MetaShift)|MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts (ICLR 2022)|33|3|2022-02-26|
+|66|[guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises)|Practice your pandas skills!|7399|4|2022-02-13|
+|67|[stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)|Code for Machine Learning for Algorithmic Trading, 2nd edition.|5351|4|2022-02-11|
+|68|[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)|Lightning ⚡️ fast forecasting with statistical and econometric models.|336|4|2022-02-25|
+|69|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3916|4|2022-02-27|
+|70|[ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling)|Create HTML profiling reports from pandas DataFrame objects|8555|4|2022-02-25|
+|71|[makcedward/nlpaug](https://github.com/makcedward/nlpaug)|Data augmentation for NLP |2968|3|2022-02-23|
 |72|[apple/GCGC](https://github.com/apple/GCGC)|-|382|3|2022-02-15|
-|73|[tensorflow/tpu](https://github.com/tensorflow/tpu)|Reference models and tools for Cloud TPUs.|4658|3|2022-02-25|
+|73|[tensorflow/tpu](https://github.com/tensorflow/tpu)|Reference models and tools for Cloud TPUs.|4661|3|2022-02-25|
 |74|[InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm)|Open a terminal in colab, including the free tier.|81|3|2022-02-02|
-|75|[clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)|Text recognition (optical character recognition) with deep learning methods.|2740|3|2021-12-17|
-|76|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6209|3|2021-10-01|
-|77|[gleitz/howdoi](https://github.com/gleitz/howdoi)|instant coding answers via the command line|9324|3|2022-02-19|
+|75|[clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)|Text recognition (optical character recognition) with deep learning methods.|2741|3|2021-12-17|
+|76|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6212|3|2021-10-01|
+|77|[gleitz/howdoi](https://github.com/gleitz/howdoi)|instant coding answers via the command line|9325|3|2022-02-19|
 |78|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|895|3|2022-02-25|
-|79|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5411|3|2022-01-23|
-|80|[nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2)|[ICCV 2019] Monocular depth estimation from a single image|2845|3|2022-01-30|
-|81|[EvgSkv/logica](https://github.com/EvgSkv/logica)|Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.|1391|3|2022-02-20|
+|79|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5412|3|2022-01-23|
+|80|[nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2)|[ICCV 2019] Monocular depth estimation from a single image|2848|3|2022-01-30|
+|81|[EvgSkv/logica](https://github.com/EvgSkv/logica)|Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.|1391|3|2022-02-27|
 |82|[Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21)|NYU Deep Learning Spring 2021|1066|3|2021-12-03|
 |83|[unsplash/datasets](https://github.com/unsplash/datasets)|🎁  3,000,000+ Unsplash images made available for research and machine learning|1833|3|2021-09-27|
-|84|[aimacode/aima-python](https://github.com/aimacode/aima-python)|Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"|6284|3|2022-02-01|
+|84|[aimacode/aima-python](https://github.com/aimacode/aima-python)|Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"|6286|3|2022-02-01|
 |85|[pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)|From the basics to slightly more interesting applications of Tensorflow|5561|3|2021-12-11|
-|86|[Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)|Easily train or fine-tune SOTA computer vision models with one open source training library|295|3|2022-02-24|
-|87|[sberbank-ai/ru-dolph](https://github.com/sberbank-ai/ru-dolph)|RuDOLPH: One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP|204|3|2022-02-04|
-|88|[vijishmadhavan/Crop-CLIP](https://github.com/vijishmadhavan/Crop-CLIP)|Crop using CLIP|229|3|2022-01-10|
-|89|[sahyagiri/DistinctKeywords](https://github.com/sahyagiri/DistinctKeywords)|semantically distinct key phrase extraction using hilbert hashes. |23|3|2022-02-24|
-|90|[FrankieIsLost/CRISP](https://github.com/FrankieIsLost/CRISP)|-|98|3|2022-01-26|
-|91|[udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|Repo for the Deep Reinforcement Learning Nanodegree program|4077|3|2022-02-15|
-|92|[udacity/self-driving-car](https://github.com/udacity/self-driving-car)|The Udacity open source self-driving car project|5824|3|2021-11-25|
-|93|[data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws)|AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker|2495|3|2022-02-21|
-|94|[aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning)|Lab Materials for MIT 6.S191: Introduction to Deep Learning|5078|3|2022-01-28|
-|95|[microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim)|An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.|1390|3|2021-12-17|
-|96|[sail-sg/volo](https://github.com/sail-sg/volo)|VOLO: Vision Outlooker for Visual Recognition|795|3|2021-09-25|
-|97|[blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)|Automatic extraction of relevant features from time series:|6199|3|2021-12-21|
-|98|[sokrypton/ColabFold](https://github.com/sokrypton/ColabFold)|Making Protein folding accessible to all via Google Colab!|602|3|2022-02-22|
-|99|[deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures)|-|274|3|2021-12-01|
-|100|[aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)|Machine Learning University: Accelerated Natural Language Processing Class|1750|3|2021-12-10|
-|101|[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)|Lightning ⚡️ fast forecasting with statistical and econometric models.|319|3|2022-02-25|
+|86|[Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)|Easily train or fine-tune SOTA computer vision models with one open source training library|296|3|2022-02-27|
+|87|[bytedance/ibot](https://github.com/bytedance/ibot)|iBOT: Image BERT Pre-Training with Online Tokenizer (ICLR 2022)|282|3|2022-02-17|
+|88|[sberbank-ai/ru-dolph](https://github.com/sberbank-ai/ru-dolph)|RuDOLPH: One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP|204|3|2022-02-04|
+|89|[vijishmadhavan/Crop-CLIP](https://github.com/vijishmadhavan/Crop-CLIP)|Crop using CLIP|229|3|2022-01-10|
+|90|[sahyagiri/DistinctKeywords](https://github.com/sahyagiri/DistinctKeywords)|semantically distinct key phrase extraction using hilbert hashes. |23|3|2022-02-24|
+|91|[FrankieIsLost/CRISP](https://github.com/FrankieIsLost/CRISP)|-|98|3|2022-01-26|
+|92|[udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|Repo for the Deep Reinforcement Learning Nanodegree program|4078|3|2022-02-15|
+|93|[udacity/self-driving-car](https://github.com/udacity/self-driving-car)|The Udacity open source self-driving car project|5825|3|2021-11-25|
+|94|[data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws)|AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker|2496|3|2022-02-21|
+|95|[aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning)|Lab Materials for MIT 6.S191: Introduction to Deep Learning|5080|3|2022-01-28|
+|96|[microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim)|An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.|1390|3|2021-12-17|
+|97|[sail-sg/volo](https://github.com/sail-sg/volo)|VOLO: Vision Outlooker for Visual Recognition|796|3|2021-09-25|
+|98|[blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)|Automatic extraction of relevant features from time series:|6201|3|2021-12-21|
+|99|[sokrypton/ColabFold](https://github.com/sokrypton/ColabFold)|Making Protein folding accessible to all via Google Colab!|604|3|2022-02-27|
+|100|[deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures)|-|274|3|2021-12-01|
+|101|[aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)|Machine Learning University: Accelerated Natural Language Processing Class|1750|3|2021-12-10|
 |102|[cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io)|Public facing notes page|8716|3|2021-09-03|
 |103|[facebookresearch/SWAG](https://github.com/facebookresearch/SWAG)|Official repository for "Revisiting Weakly Supervised Pre-Training of Visual Perception Models". https://arxiv.org/abs/2201.08371.|87|2|2022-02-01|
 |104|[yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)|image processing codes to understand algorithm|2002|2|2022-01-20|
-|105|[udacity/machine-learning](https://github.com/udacity/machine-learning)|Content for Udacity's Machine Learning curriculum|3648|2|2022-02-24|
-|106|[hooram/ownphotos](https://github.com/hooram/ownphotos)|Self hosted alternative to Google Photos |2598|2|2022-01-21|
-|107|[naganandy/graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)|links to conference publications in graph-based deep learning|3517|2|2022-02-22|
-|108|[rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)|Simple image captioning model|313|2|2022-02-15|
-|109|[TouringPlans/shapeland](https://github.com/TouringPlans/shapeland)|Theme park simulation code from Defunctland's video "Disney's FASTPASS: A Complicated Legacy"|27|2|2022-02-21|
-|110|[plotly/dash-sample-apps](https://github.com/plotly/dash-sample-apps)|Open-source demos hosted on Dash Gallery|2216|2|2022-02-11|
-|111|[h2oai/h2o-3](https://github.com/h2oai/h2o-3)|H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me ...|5740|2|2022-02-26|
-|112|[Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)|Beginner friendly repo to push PRs for Hacktoberfest|243|2|2021-11-21|
-|113|[graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns)|Repository for benchmarking graph neural networks|1715|2|2021-12-02|
-|114|[mfrashad/text2art](https://github.com/mfrashad/text2art)|AI-powered Text-to-Art Generator - Text2Art.com|320|2|2021-12-15|
-|115|[intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)|Building Large-Scale AI Applications for Distributed Big Data|3846|2|2022-02-26|
-|116|[dempfi/ayu](https://github.com/dempfi/ayu)|🎨🖌 Modern Sublime Text theme|3953|2|2022-02-25|
-|117|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)|Cloud-native SIEM for intelligent security analytics for your entire enterprise.|2026|2|2022-02-25|
-|118|[zju3dv/LoFTR](https://github.com/zju3dv/LoFTR)|Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021|868|2|2022-02-14|
-|119|[quan-dang/kubeflow-tutorials](https://github.com/quan-dang/kubeflow-tutorials)|-|22|2|2022-02-18|
+|105|[Weixin-Liang/MetaShift](https://github.com/Weixin-Liang/MetaShift)|MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts (ICLR 2022)|34|2|2022-02-27|
+|106|[udacity/machine-learning](https://github.com/udacity/machine-learning)|Content for Udacity's Machine Learning curriculum|3649|2|2022-02-24|
+|107|[hooram/ownphotos](https://github.com/hooram/ownphotos)|Self hosted alternative to Google Photos |2598|2|2022-01-21|
+|108|[naganandy/graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)|links to conference publications in graph-based deep learning|3519|2|2022-02-22|
+|109|[rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)|Simple image captioning model|313|2|2022-02-15|
+|110|[TouringPlans/shapeland](https://github.com/TouringPlans/shapeland)|Theme park simulation code from Defunctland's video "Disney's FASTPASS: A Complicated Legacy"|28|2|2022-02-21|
+|111|[plotly/dash-sample-apps](https://github.com/plotly/dash-sample-apps)|Open-source demos hosted on Dash Gallery|2218|2|2022-02-11|
+|112|[h2oai/h2o-3](https://github.com/h2oai/h2o-3)|H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me ...|5742|2|2022-02-27|
+|113|[Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)|Beginner friendly repo to push PRs for Hacktoberfest|243|2|2021-11-21|
+|114|[graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns)|Repository for benchmarking graph neural networks|1716|2|2021-12-02|
+|115|[mfrashad/text2art](https://github.com/mfrashad/text2art)|AI-powered Text-to-Art Generator - Text2Art.com|320|2|2021-12-15|
+|116|[intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)|Building Large-Scale AI Applications for Distributed Big Data|3846|2|2022-02-27|
+|117|[dempfi/ayu](https://github.com/dempfi/ayu)|🎨🖌 Modern Sublime Text theme|3953|2|2022-02-25|
+|118|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)|Cloud-native SIEM for intelligent security analytics for your entire enterprise.|2028|2|2022-02-27|
+|119|[zju3dv/LoFTR](https://github.com/zju3dv/LoFTR)|Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021|868|2|2022-02-14|
 |120|[facebookresearch/theseus](https://github.com/facebookresearch/theseus)|A library for differentiable nonlinear optimization.|187|2|2021-12-21|
 |121|[parrt/dtreeviz](https://github.com/parrt/dtreeviz)|A python library for decision tree visualization and model interpretation.|2036|2|2022-02-21|
 |122|[facebook/Ax](https://github.com/facebook/Ax)|Adaptive Experimentation Platform|1713|2|2022-02-25|
 |123|[ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace)|🛠 All-in-one web-based IDE specialized for machine learning and data science.|2434|2|2022-02-03|
 |124|[zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)|YoloV3 Implemented in Tensorflow 2.0|2354|2|2022-02-10|
 |125|[higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)|Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL|2554|2|2021-11-04|
-|126|[matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)|Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis. |1091|2|2022-01-31|
+|126|[matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)|Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis. |1094|2|2022-01-31|
 |127|[krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering)|-|23|2|2022-02-19|
 |128|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1601|2|2022-02-13|
-|129|[hanshulll/CodeCollection](https://github.com/hanshulll/CodeCollection)|Do push code on which you are working or if you have solved any problem in any language add the solution to this repository and help to contribute and star this repository!!Refer CONTRIBUTING.md for c ...|231|2|2022-02-26|
+|129|[hanshulll/CodeCollection](https://github.com/hanshulll/CodeCollection)|Do push code on which you are working or if you have solved any problem in any language add the solution to this repository and help to contribute and star this repository!!Refer CONTRIBUTING.md for c ...|231|2|2022-02-27|
 |130|[google-research/rliable](https://github.com/google-research/rliable)|[NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.|341|2|2022-02-06|
 |131|[Lux-AI-Challenge/Lux-Design-2021](https://github.com/Lux-AI-Challenge/Lux-Design-2021)|Home to the design and engine of the @Lux-AI-Challenge Season 1, hosted on @kaggle|902|2|2022-02-18|
-|132|[commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021)|-|415|2|2021-12-28|
-|133|[keras-team/keras-io](https://github.com/keras-team/keras-io)|Keras documentation, hosted live at keras.io|1402|2|2022-02-26|
-|134|[sedthh/pyxelate](https://github.com/sedthh/pyxelate)|Python class that generates pixel art from images|1267|2|2022-01-15|
-|135|[https-deeplearning-ai/tensorflow-1-public](https://github.com/https-deeplearning-ai/tensorflow-1-public)|-|377|2|2022-02-25|
-|136|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1734|2|2022-01-05|
+|132|[commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021)|-|416|2|2021-12-28|
+|133|[keras-team/keras-io](https://github.com/keras-team/keras-io)|Keras documentation, hosted live at keras.io|1405|2|2022-02-27|
+|134|[sedthh/pyxelate](https://github.com/sedthh/pyxelate)|Python class that generates pixel art from images|1268|2|2022-01-15|
+|135|[https-deeplearning-ai/tensorflow-1-public](https://github.com/https-deeplearning-ai/tensorflow-1-public)|-|380|2|2022-02-25|
+|136|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1737|2|2022-01-05|
 |137|[haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)|Search inside YouTube videos using natural language |808|2|2021-10-15|
 |138|[google/neural-tangents](https://github.com/google/neural-tangents)|Fast and Easy Infinite Neural Networks in Python|1701|2|2022-02-24|
-|139|[WillKoehrsen/Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis)|Data Science Using Python|4166|2|2021-11-25|
-|140|[jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)|Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks|4339|2|2022-02-22|
+|139|[WillKoehrsen/Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis)|Data Science Using Python|4167|2|2021-11-25|
+|140|[jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)|Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks|4339|2|2022-02-27|
 |141|[milaan9/Python_Computer_Vision_from_Scratch](https://github.com/milaan9/Python_Computer_Vision_from_Scratch)|This repository explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both fo ...|113|2|2021-12-20|
 |142|[GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps)|A project-based course on the foundations of MLOps with a focus on intuition and application.|987|2|2022-01-26|
 |143|[hila-chefer/Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability)|[CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.|836|2|2021-11-08|
 |144|[isl-org/lang-seg](https://github.com/isl-org/lang-seg)|Language-Driven Semantic Segmentation|174|2|2022-01-29|
 |145|[snakers4/silero-models](https://github.com/snakers4/silero-models)|Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple|1251|2|2022-02-25|
-|146|[vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep)|Get Deinked!!|753|2|2021-11-12|
+|146|[vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep)|Get Deinked!!|752|2|2021-11-12|
 |147|[tensorflow/probability](https://github.com/tensorflow/probability)|Probabilistic reasoning and statistical analysis in TensorFlow|3601|2|2022-02-25|
-|148|[jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)|Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)|1030|2|2022-01-10|
+|148|[jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)|Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)|1032|2|2022-01-10|
 |149|[j-min/DallEval](https://github.com/j-min/DallEval)|DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers|47|2|2022-02-25|
-|150|[NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)|Tacotron 2 - PyTorch implementation with faster-than-realtime inference|3425|2|2022-02-09|
+|150|[NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)|Tacotron 2 - PyTorch implementation with faster-than-realtime inference|3427|2|2022-02-09|
 |151|[priya-dwivedi/Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning)|-|3090|2|2022-02-11|
 |152|[hustvl/YOLOS](https://github.com/hustvl/YOLOS)|You Only Look at One Sequence (NeurIPS 2021)|488|2|2021-11-09|
 |153|[zhixuhao/unet](https://github.com/zhixuhao/unet)|unet for image segmentation|3829|2|2022-02-12|
-|154|[bukosabino/ta](https://github.com/bukosabino/ta)|Technical Analysis Library using Pandas and Numpy|2818|2|2022-02-23|
-|155|[robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)|Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity|2629|2|2022-02-14|
-|156|[yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)|ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet|889|2|2022-01-17|
-|157|[udacity/deep-learning](https://github.com/udacity/deep-learning)|Repo for the Deep Learning Nanodegree Foundations program.|3813|2|2021-10-21|
-|158|[AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)|Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.|1032|2|2022-02-10|
-|159|[timeseriesAI/tsai](https://github.com/timeseriesAI/tsai)|Time series Timeseries Deep Learning Machine Learning Pytorch  fastai   State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai|1716|2|2022-02-26|
-|160|[MAIF/shapash](https://github.com/MAIF/shapash)|🔅 Shapash makes Machine Learning models transparent and understandable by everyone|1615|2|2022-02-25|
+|154|[bukosabino/ta](https://github.com/bukosabino/ta)|Technical Analysis Library using Pandas and Numpy|2820|2|2022-02-23|
+|155|[robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)|Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity|2632|2|2022-02-14|
+|156|[yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)|ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet|890|2|2022-01-17|
+|157|[udacity/deep-learning](https://github.com/udacity/deep-learning)|Repo for the Deep Learning Nanodegree Foundations program.|3817|2|2021-10-21|
+|158|[AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)|Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.|1033|2|2022-02-10|
+|159|[timeseriesAI/tsai](https://github.com/timeseriesAI/tsai)|Time series Timeseries Deep Learning Machine Learning Pytorch  fastai   State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai|1717|2|2022-02-26|
+|160|[MAIF/shapash](https://github.com/MAIF/shapash)|🔅 Shapash makes Machine Learning models transparent and understandable by everyone|1616|2|2022-02-25|
 |161|[mchong6/SOAT](https://github.com/mchong6/SOAT)|Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.|284|2|2021-11-20|
-|162|[github/covid19-dashboard](https://github.com/github/covid19-dashboard)|A site that displays up to date COVID-19 stats, powered by fastpages.|1509|2|2022-02-26|
-|163|[NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)|An educational AI robot based on NVIDIA Jetson Nano.|2454|2|2022-02-03|
+|162|[github/covid19-dashboard](https://github.com/github/covid19-dashboard)|A site that displays up to date COVID-19 stats, powered by fastpages.|1510|2|2022-02-27|
+|163|[NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)|An educational AI robot based on NVIDIA Jetson Nano.|2455|2|2022-02-03|
 |164|[lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)|COVID-Net Open Source Initiative|1078|2|2022-02-17|
-|165|[aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)|Machine Learning University: Accelerated Computer Vision Class|1182|2|2021-12-10|
+|165|[aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)|Machine Learning University: Accelerated Computer Vision Class|1184|2|2021-12-10|
 |166|[cocodataset/cocoapi](https://github.com/cocodataset/cocoapi)|COCO API - Dataset @ http://cocodataset.org/ |4873|2|2022-02-20|
-|167|[ukairia777/tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial)|tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT와 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.|136|2|2022-02-24|
-|168|[chandrikadeb7/Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)|Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras|1181|2|2022-01-01|
-|169|[NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)|This repository contains demos I made with the Transformers library by HuggingFace.|1124|2|2022-02-21|
-|170|[microsoft/Quantum](https://github.com/microsoft/Quantum)|Microsoft Quantum Development Kit Samples|3494|2|2022-02-26|
+|167|[ukairia777/tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial)|tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT와 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.|138|2|2022-02-24|
+|168|[chandrikadeb7/Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)|Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras|1184|2|2022-02-27|
+|169|[NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)|This repository contains demos I made with the Transformers library by HuggingFace.|1126|2|2022-02-21|
+|170|[microsoft/Quantum](https://github.com/microsoft/Quantum)|Microsoft Quantum Development Kit Samples|3496|2|2022-02-27|
 |171|[harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer)|http://nlp.seas.harvard.edu/2018/04/03/attention.html|2465|2|2022-02-16|
 |172|[romeokienzler/TensorFlow](https://github.com/romeokienzler/TensorFlow)|Project containig related material for my TensorFlow articles|2406|2|2022-02-26|
-|173|[quantopian/pyfolio](https://github.com/quantopian/pyfolio)|Portfolio and risk analytics in Python|4270|2|2021-12-26|
+|173|[quantopian/pyfolio](https://github.com/quantopian/pyfolio)|Portfolio and risk analytics in Python|4271|2|2021-12-26|
 |174|[DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn)|A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods.|763|1|2022-02-15|
 |175|[MrGiovanni/ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis)|Official Keras & PyTorch Implementation and Pre-trained Models for Models Genesis - MICCAI 2019|527|1|2022-02-18|
-|176|[reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)|Projections of COVID-19, in standardized format|392|1|2022-02-24|
-|177|[emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)|First Version.. Cryptocurrency Prediction with Artificial Intelligence (Deep Learning via LSTM Neural Networks)- Emirhan BULUT|57|1|2022-02-07|
+|176|[reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)|Projections of COVID-19, in standardized format|392|1|2022-02-27|
+|177|[emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)|First Version.. Cryptocurrency Prediction with Artificial Intelligence (Deep Learning via LSTM Neural Networks)- Emirhan BULUT|58|1|2022-02-07|
 |178|[qiskit-community/open-science-prize-2021](https://github.com/qiskit-community/open-science-prize-2021)|-|59|1|2022-01-19|
 |179|[FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP)|OpenAI CLIP text encoders for multiple languages!|235|1|2021-10-13|
 |180|[google-research/pathdreamer](https://github.com/google-research/pathdreamer)|-|110|1|2021-09-08|
@@ -201,10 +201,10 @@
 |194|[GoogleCloudPlatform/mlops-with-vertex-ai](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)|An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX, and Vertex AI|154|1|2022-01-26|
 |195|[dataquestio/project-walkthroughs](https://github.com/dataquestio/project-walkthroughs)|-|46|1|2022-02-22|
 |196|[cvg/SOLD2](https://github.com/cvg/SOLD2)|Joint deep network for feature line detection and description|284|1|2022-02-26|
-|197|[onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)|Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX|1379|1|2022-02-26|
-|198|[dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)|Implementing a Neural Network from Scratch|1404|1|2022-01-21|
-|199|[SkalskiP/ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)|This repository contains small projects related to Neural Networks and Deep Learning in general. Subjects are closely linekd with articles I publish on Medium. I encourage you both to read as well as  ...|1056|1|2022-02-11|
-|200|[dsacademybr/PythonFundamentos](https://github.com/dsacademybr/PythonFundamentos)|Repositório do Curso Online Python Fundamentos Para Análise de Dados.|1561|1|2022-02-12|
+|197|[onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)|Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX|1380|1|2022-02-27|
+|198|[dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)|Implementing a Neural Network from Scratch|1405|1|2022-01-21|
+|199|[SkalskiP/ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)|This repository contains small projects related to Neural Networks and Deep Learning in general. Subjects are closely linekd with articles I publish on Medium. I encourage you both to read as well as  ...|1057|1|2022-02-11|
+|200|[dsacademybr/PythonFundamentos](https://github.com/dsacademybr/PythonFundamentos)|Repositório do Curso Online Python Fundamentos Para Análise de Dados.|1563|1|2022-02-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
