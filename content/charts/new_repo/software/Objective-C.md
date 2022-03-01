@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2022-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|540|2021-09-09|2021-09-03|
-|2|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|429|2021-10-12|2021-09-23|
+|1|[heyvito/podman-macos](https://github.com/heyvito/podman-macos)|📦  Podman frontend for macOS|541|2021-09-09|2021-09-03|
+|2|[illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day)|iOS gamed exploit (fixed in 15.0.2)|430|2021-10-12|2021-09-23|
 |3|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|314|2022-02-14|2021-08-03|
 |4|[s4y/undot](https://github.com/s4y/undot)|-|292|2021-12-26|2021-12-20|
 |5|[packagesdev/unexpectedly](https://github.com/packagesdev/unexpectedly)|macOS utility to browse crash logs|170|2022-02-24|2021-03-06|
 |6|[google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)|Enables iOS apps to sign in with Google.|129|2022-02-26|2021-03-24|
-|7|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|123|2022-01-18|2021-07-24|
+|7|[wsvn53/scrcpy-ios](https://github.com/wsvn53/scrcpy-ios)|Scrcpy-iOS.app is a remote control tool for Android Phones based on [https://github.com/Genymobile/scrcpy].|124|2022-01-18|2021-07-24|
 |8|[GeoSn0w/iSecureOS](https://github.com/GeoSn0w/iSecureOS)|An iOS Security assessment app for jailbroken iOS Devices.|105|2021-11-27|2021-03-13|
 |9|[NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)|Another Virtualization.framework demo project, with focus to iBoot (WIP)|94|2021-12-14|2021-12-06|
 |10|[dosdude1/discord-lite](https://github.com/dosdude1/discord-lite)|An ultra-lightweight native Discord client for vintage and modern Mac OS|85|2022-01-26|2021-11-16|
@@ -36,17 +36,17 @@
 |29|[LillieWeeb001/iOS-Tweaks](https://github.com/LillieWeeb001/iOS-Tweaks)|-|31|2022-02-23|2021-11-28|
 |30|[schneelittchen/Ve](https://github.com/schneelittchen/Ve)|Natively integrated notification logger|29|2022-02-06|2021-09-18|
 |31|[Metnew/write-ups](https://github.com/Metnew/write-ups)|-|27|2022-02-18|2022-02-11|
-|32|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|26|2021-12-20|2021-12-15|
-|33|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|26|2022-01-06|2021-04-30|
+|32|[figma/dynamic-universal-app](https://github.com/figma/dynamic-universal-app)|Size efficient alternative to macOS universal binaries|27|2022-01-06|2021-04-30|
+|33|[udevsharold/locsim](https://github.com/udevsharold/locsim)|Simulate GPS location system-wide|26|2021-12-20|2021-12-15|
 |34|[insidegui/VisualEffectDebugger](https://github.com/insidegui/VisualEffectDebugger)|Simple debugger for NSVisualEffectView|25|2022-01-14|2022-01-14|
 |35|[simonheys/wordclock](https://github.com/simonheys/wordclock)|An original digital art work for macOS, iOS and web|25|2021-09-17|2021-07-06|
 |36|[L1ghtmann/IAmLazy](https://github.com/L1ghtmann/IAmLazy)|Easily backup and restore your tweaks from an 'offline' backup|25|2022-02-19|2021-05-24|
 |37|[schneelittchen/BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy)|Battery indicator, but cute|24|2022-02-06|2021-04-25|
 |38|[abhimuktheeswarar/Flywheel](https://github.com/abhimuktheeswarar/Flywheel)|A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.|23|2021-10-29|2021-06-26|
 |39|[schneelittchen/Eneko](https://github.com/schneelittchen/Eneko)|Set a video as your wallpaper|23|2022-02-06|2021-04-25|
-|40|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|21|2022-02-24|2021-08-31|
+|40|[ASentientBot/monterey](https://github.com/ASentientBot/monterey)|under construction|22|2022-02-24|2021-08-31|
 |41|[evilrat/flutter_zoom_sdk](https://github.com/evilrat/flutter_zoom_sdk)|Zoom SDK from ZOOM ported to flutter as plugin with all necessary features and with Null Safety which is implementation by EvilRATT|21|2022-02-12|2021-04-26|
-|42|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2022-02-25|2021-08-26|
+|42|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2022-03-01|2021-08-26|
 |43|[LacertosusRepo/Preference-Cell-Examples](https://github.com/LacertosusRepo/Preference-Cell-Examples)|Custom preference cells among other things to improve your preferences.|19|2022-01-01|2021-03-12|
 |44|[AandersonL/whoexec](https://github.com/AandersonL/whoexec)|Discover which process execute a hunted binary inside macOS|17|2021-12-15|2021-12-15|
 |45|[c1d3rdev/PullOver-Pro](https://github.com/c1d3rdev/PullOver-Pro)|Multitasking Drawer tweak for jailbroken iOS devices|17|2021-11-18|2021-11-18|
@@ -114,8 +114,8 @@
 |107|[schneelittchen/Heartlines](https://github.com/schneelittchen/Heartlines)|Bring a new lovely design to your lock screen clock|8|2022-02-06|2021-04-25|
 |108|[Paisseon/PeepReborn](https://github.com/Paisseon/PeepReborn)|iOS 13-14 status bar tweak|8|2021-12-12|2021-04-22|
 |109|[Luki120/April](https://github.com/Luki120/April)|Choose a custom image or gradients for your settings background on the fly|8|2021-12-06|2021-04-10|
-|110|[NoveTeam/JuzioFont](https://github.com/NoveTeam/JuzioFont)|Type like a boss. Be like @JuzioMiecio520. First font that everyone will love!|7|2022-02-27|2022-02-27|
-|111|[Lakr233/NSRemoteShell](https://github.com/Lakr233/NSRemoteShell)|Remote shell using libssh2 with Objective-C, thread safe implementation.|7|2022-02-11|2022-02-06|
+|110|[NoveTeam/JuzioFont](https://github.com/NoveTeam/JuzioFont)|Type like a boss. Be like @JuzioMiecio520. First font that everyone will love!|7|2022-03-01|2022-02-27|
+|111|[Lakr233/NSRemoteShell](https://github.com/Lakr233/NSRemoteShell)|Remote shell using libssh2 with Objective-C, thread safe implementation.|7|2022-03-01|2022-02-06|
 |112|[LillieWeeb001/Return-YouTube-Dislikes](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)|-|7|2021-12-31|2021-12-27|
 |113|[nolano/YYViewVisible](https://github.com/nolano/YYViewVisible)|A tool to monitor the visibility of the view|7|2021-12-18|2021-12-17|
 |114|[reels-research/iOS-Private-Frameworks](https://github.com/reels-research/iOS-Private-Frameworks)|Apple's iOS Private Frameworks|7|2021-10-06|2021-10-06|
@@ -196,7 +196,7 @@
 |189|[coingrig/coingrig-wallet-generator](https://github.com/coingrig/coingrig-wallet-generator)|Blazing⚡️Fast BTC and ETH Wallet Generator library for React Native, Android and iOS|3|2022-02-15|2022-02-05|
 |190|[plusminusone-tr/PMOUISetter](https://github.com/plusminusone-tr/PMOUISetter)|Helper for UI Elements|3|2022-02-21|2022-02-03|
 |191|[tapthaker/SetArchPrefForURL](https://github.com/tapthaker/SetArchPrefForURL)|A CLI utility to "check" or "uncheck" "Open Using Rosetta" preference for Apple Silicon macs. |3|2022-01-24|2022-01-24|
-|192|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-02-28|2022-01-14|
+|192|[HONEY-SSR/ZhiHu](https://github.com/HONEY-SSR/ZhiHu)|-|3|2022-03-01|2022-01-14|
 |193|[Atelier-Shiori/KaniManabu](https://github.com/Atelier-Shiori/KaniManabu)|An open source WaniKani style SRS Japanese Studying App for macOS|3|2022-02-27|2022-01-12|
 |194|[libpag/ffavc](https://github.com/libpag/ffavc)|A video decoder built on ffmpeg which allows libpag to use ffmpeg as its software decoder for h264 decoding.|3|2022-02-09|2022-01-10|
 |195|[getAlby/alby-installer-macos](https://github.com/getAlby/alby-installer-macos)|-|3|2022-01-28|2022-01-06|

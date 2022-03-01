@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13888|2022-01-23|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4982|2022-02-28|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4990|2022-02-28|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3302|2021-12-04|
-|4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2856|2022-02-15|
-|5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2718|2021-12-16|
+|4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2857|2022-02-15|
+|5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2717|2021-12-16|
 |6|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2095|2021-11-22|
 |7|[microsoft/TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter)|A starter template for TypeScript and React Native with a detailed README describing how to use the two together.|1914|2022-02-11|
 |8|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|2022-01-10|
 |9|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1660|2021-11-02|
-|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1211|2022-02-21|
+|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1211|2022-03-01|
 |11|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|2021-10-01|
 |12|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|460|2021-12-24|
-|13|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|447|2022-02-12|
+|13|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|448|2022-02-12|
 |14|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|445|2022-01-06|
 |15|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|293|2021-09-30|
 |16|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|220|2021-12-22|
 |17|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|2022-01-15|
 |18|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|161|2021-11-29|
 |19|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|151|2022-02-16|
-|20|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|94|2022-02-11|
+|20|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|94|2022-03-01|
 |21|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|92|2021-11-27|
 |22|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|88|2021-12-27|
 |23|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|85|2022-02-16|
@@ -45,7 +45,7 @@
 |38|[superjohan/deko](https://github.com/superjohan/deko)|Beautiful, unique wallpapers for iOS.|38|2021-09-29|
 |39|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|2021-10-11|
 |40|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|2021-11-18|
-|41|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|29|2021-09-07|
+|41|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|30|2021-09-07|
 |42|[kylehowells/ikyle.me-code-examples](https://github.com/kylehowells/ikyle.me-code-examples)|Smaller code examples from my blog posts on ikyle.me|29|2021-11-13|
 |43|[lakshmantgld/react-native-fbsdk-example](https://github.com/lakshmantgld/react-native-fbsdk-example)|Using Facebook SDK in React Native|27|2022-02-10|
 |44|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|2021-12-24|
