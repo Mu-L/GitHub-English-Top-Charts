@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -22,9 +22,9 @@
 |15|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
 |16|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
 |17|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
-|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
-|19|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
-|20|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|3|2022-02-10|2022-02-04|
+|18|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
+|19|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
+|20|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
 |21|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-02-11|2021-10-04|
 |22|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |23|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
@@ -56,16 +56,17 @@
 |49|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |50|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
 |51|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
-|52|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-01-17|2021-08-11|
+|52|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-02|2021-08-11|
 |53|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
 |54|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
 |55|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
 |56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|57|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-02-12|2021-05-26|
-|58|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|59|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
-|60|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|61|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|57|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-02|2021-06-02|
+|58|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
+|59|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
+|60|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
+|61|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|62|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
