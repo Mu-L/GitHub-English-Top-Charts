@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,10 +21,10 @@
 |14|[j-tim/connect-docker-host-from-docker-container-example](https://github.com/j-tim/connect-docker-host-from-docker-container-example)|Simple example project that explains how connect to the Docker host from within a Docker container|5|2021-09-04|2021-09-04|
 |15|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
 |16|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
-|17|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
-|18|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
-|19|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
-|20|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|4|2022-01-11|2021-06-30|
+|17|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|5|2022-03-03|2021-06-30|
+|18|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
+|19|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
+|20|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
 |21|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-02-11|2021-10-04|
 |22|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |23|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|

@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13889|2022-01-23|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4995|2022-02-28|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13887|2022-01-23|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4999|2022-02-28|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3302|2021-12-04|
 |4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2857|2022-03-02|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2717|2021-12-16|
-|6|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2095|2021-11-22|
+|6|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2093|2021-11-22|
 |7|[microsoft/TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter)|A starter template for TypeScript and React Native with a detailed README describing how to use the two together.|1915|2022-02-11|
 |8|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1760|2022-01-10|
 |9|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1660|2021-11-02|
-|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1213|2022-03-02|
+|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1214|2022-03-03|
 |11|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|847|2021-10-01|
 |12|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|460|2021-12-24|
 |13|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|448|2022-03-02|
@@ -39,9 +39,9 @@
 |32|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|50|2021-09-02|
 |33|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|2022-01-20|
 |34|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|50|2022-01-12|
-|35|[appcelerator-modules/ti.facebook](https://github.com/appcelerator-modules/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2022-02-28|
+|35|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2022-02-28|
 |36|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|44|2022-02-01|
-|37|[appcelerator-modules/titanium-identity](https://github.com/appcelerator-modules/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|2022-02-28|
+|37|[tidev/titanium-identity](https://github.com/tidev/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|2022-02-28|
 |38|[superjohan/deko](https://github.com/superjohan/deko)|Beautiful, unique wallpapers for iOS.|38|2021-09-29|
 |39|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|2021-10-11|
 |40|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|2021-11-18|
@@ -82,35 +82,34 @@
 |75|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|5|2022-02-28|
 |76|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|4|2022-01-17|
 |77|[JitouchProject/Jitouch](https://github.com/JitouchProject/Jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|4|2022-01-04|
-|78|[Chr1sDev/chatwall](https://github.com/Chr1sDev/chatwall)|Custom chat wallpapers for iMessage|4|2021-09-01|
-|79|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|4|2021-11-11|
-|80|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|2022-02-11|
-|81|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|2021-12-04|
-|82|[DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo)|This demo is designed for you to learn how to use the DJIMediaManager to interact with the file system on the SD card of the aircraft's camera. You can use it to preview photos, play videos, download  ...|4|2021-10-11|
-|83|[DJI-Mobile-SDK-Tutorials/iOS-GEODemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GEODemo)|In this tutorial, you will learn how to use the "DJIFlyZoneManager" and "DJIFlyZoneInformation" of DJI Mobile SDK to get the fly zone information, and unlock authorization fly zones.|4|2021-10-11|
-|84|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode)|This demo teaches you how to import and activate DJI SDK in your Xcode project.|4|2021-10-11|
-|85|[lemonmojo/RemoteFilesVsPasteboard](https://github.com/lemonmojo/RemoteFilesVsPasteboard)|A macOS demo project to demonstrate how to put remote files on local clipboard and provide data asynchronously when pasting in Finder|3|2022-02-03|
-|86|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|3|2022-02-04|
-|87|[c1d3rdev/ChatHeads](https://github.com/c1d3rdev/ChatHeads)|Floating ChatHeads, inspired by Facebook, for jailbroken devices|3|2021-11-18|
-|88|[youyiio/flutter_umeng_ushare](https://github.com/youyiio/flutter_umeng_ushare)|A flutter plugin for umeng u-share library, support wechat share, QQ/Tim share ...|3|2021-09-04|
-|89|[thanhtunguet/TelinkSigMeshLib](https://github.com/thanhtunguet/TelinkSigMeshLib)|This library is a part of Telink Sig Mesh SDK. Published to GitHub for personal usage only. Visit the Telink Wiki to acquire the full SDK zip file and development handbooks.|3|2021-10-01|
-|90|[victormanuelfrancodev/share_social_media_plugin](https://github.com/victormanuelfrancodev/share_social_media_plugin)|Share Social Media Plugin|3|2022-01-20|
-|91|[KentaKodashima/RNHorizontalSnapScrollViewTutorial](https://github.com/KentaKodashima/RNHorizontalSnapScrollViewTutorial)|This is the sample project repository for my tutorial on Medium titled "(React Native) Create a Horizontal Snap ScrollView".|3|2022-03-02|
-|92|[khanhphamqn/loginFacebook](https://github.com/khanhphamqn/loginFacebook)|react native login facebook without using cocoapods|3|2022-03-02|
-|93|[diogenesgg/react-native-swiper-ad-infinitum](https://github.com/diogenesgg/react-native-swiper-ad-infinitum)|An example of how to use a carrousel component based on React Native ScrollView to perform ad infinitum scrolling|3|2022-03-01|
-|94|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|2021-12-28|
-|95|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|2021-11-02|
-|96|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|2021-11-29|
-|97|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|2021-10-02|
-|98|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|2021-09-03|
-|99|[future94/webrtc-web-android-ios-video-chat-demo](https://github.com/future94/webrtc-web-android-ios-video-chat-demo)|WebRTC implements p2p video chat or share desktop(web can share desktop), It can do P2P video chat with Web, Android, iOS, as long as the room is the same.|2|2022-01-21|
-|100|[mauriciosoares01/formik-tutorial](https://github.com/mauriciosoares01/formik-tutorial)|A tutorial project showing how to use Formik and Yup in React Native with Hooks|2|2022-02-12|
-|101|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|2021-09-21|
-|102|[didinj/react-native-facebook-login-example](https://github.com/didinj/react-native-facebook-login-example)|React Native Tutorial: Facebook Login Example|2|2021-09-21|
-|103|[Yang3100/ShareDemo](https://github.com/Yang3100/ShareDemo)|Share demo|2|2021-11-19|
-|104|[runryan/ReactNavigationGradientStatusbar](https://github.com/runryan/ReactNavigationGradientStatusbar)|A project demonstrates how to make a gradient StatusBar for React Native.|2|2022-02-11|
-|105|[Walkerant/Study](https://github.com/Walkerant/Study)|My records of study about computer-related knowledge.|2|2021-12-02|
-|106|[priore/SocialEngine](https://github.com/priore/SocialEngine)|With SocialEngine you can simplify retrieving information for a iOS Facebook or Twitter account and simplify the sharing.|2|2022-01-27|
+|78|[vico-aguado/flutter_wallet](https://github.com/vico-aguado/flutter_wallet)|Flutter plugin to add pkpass to iOS wallet (Passbook)|4|2021-11-11|
+|79|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|2022-02-11|
+|80|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|2021-12-04|
+|81|[DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-MediaManagerDemo)|This demo is designed for you to learn how to use the DJIMediaManager to interact with the file system on the SD card of the aircraft's camera. You can use it to preview photos, play videos, download  ...|4|2021-10-11|
+|82|[DJI-Mobile-SDK-Tutorials/iOS-GEODemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GEODemo)|In this tutorial, you will learn how to use the "DJIFlyZoneManager" and "DJIFlyZoneInformation" of DJI Mobile SDK to get the fly zone information, and unlock authorization fly zones.|4|2021-10-11|
+|83|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode)|This demo teaches you how to import and activate DJI SDK in your Xcode project.|4|2021-10-11|
+|84|[lemonmojo/RemoteFilesVsPasteboard](https://github.com/lemonmojo/RemoteFilesVsPasteboard)|A macOS demo project to demonstrate how to put remote files on local clipboard and provide data asynchronously when pasting in Finder|3|2022-02-03|
+|85|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|3|2022-02-04|
+|86|[c1d3rdev/ChatHeads](https://github.com/c1d3rdev/ChatHeads)|Floating ChatHeads, inspired by Facebook, for jailbroken devices|3|2021-11-18|
+|87|[youyiio/flutter_umeng_ushare](https://github.com/youyiio/flutter_umeng_ushare)|A flutter plugin for umeng u-share library, support wechat share, QQ/Tim share ...|3|2021-09-04|
+|88|[thanhtunguet/TelinkSigMeshLib](https://github.com/thanhtunguet/TelinkSigMeshLib)|This library is a part of Telink Sig Mesh SDK. Published to GitHub for personal usage only. Visit the Telink Wiki to acquire the full SDK zip file and development handbooks.|3|2021-10-01|
+|89|[victormanuelfrancodev/share_social_media_plugin](https://github.com/victormanuelfrancodev/share_social_media_plugin)|Share Social Media Plugin|3|2022-01-20|
+|90|[KentaKodashima/RNHorizontalSnapScrollViewTutorial](https://github.com/KentaKodashima/RNHorizontalSnapScrollViewTutorial)|This is the sample project repository for my tutorial on Medium titled "(React Native) Create a Horizontal Snap ScrollView".|3|2022-03-02|
+|91|[khanhphamqn/loginFacebook](https://github.com/khanhphamqn/loginFacebook)|react native login facebook without using cocoapods|3|2022-03-02|
+|92|[diogenesgg/react-native-swiper-ad-infinitum](https://github.com/diogenesgg/react-native-swiper-ad-infinitum)|An example of how to use a carrousel component based on React Native ScrollView to perform ad infinitum scrolling|3|2022-03-01|
+|93|[chicio/Sales-Taxes](https://github.com/chicio/Sales-Taxes)|:dollar: :credit_card: An iOS implementation of the Sales Taxes technical interview problem.|3|2021-12-28|
+|94|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|2021-11-02|
+|95|[tommyputranto/iOS-Testing](https://github.com/tommyputranto/iOS-Testing)|iOS Testing fundamental for Learning|2|2021-11-29|
+|96|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|2021-10-02|
+|97|[pShota/Unreal-Firebase-Plugin-Demo](https://github.com/pShota/Unreal-Firebase-Plugin-Demo)|A project demonstrates how to integrate Firebase into Unreal Engine 4, and explanation on some setup.|2|2021-09-03|
+|98|[future94/webrtc-web-android-ios-video-chat-demo](https://github.com/future94/webrtc-web-android-ios-video-chat-demo)|WebRTC implements p2p video chat or share desktop(web can share desktop), It can do P2P video chat with Web, Android, iOS, as long as the room is the same.|2|2022-01-21|
+|99|[mauriciosoares01/formik-tutorial](https://github.com/mauriciosoares01/formik-tutorial)|A tutorial project showing how to use Formik and Yup in React Native with Hooks|2|2022-02-12|
+|100|[wswebcreation/ait-booker-app](https://github.com/wswebcreation/ait-booker-app)|Booker app for AUTOMATION IN TESTING|2|2021-09-21|
+|101|[didinj/react-native-facebook-login-example](https://github.com/didinj/react-native-facebook-login-example)|React Native Tutorial: Facebook Login Example|2|2021-09-21|
+|102|[Yang3100/ShareDemo](https://github.com/Yang3100/ShareDemo)|Share demo|2|2021-11-19|
+|103|[runryan/ReactNavigationGradientStatusbar](https://github.com/runryan/ReactNavigationGradientStatusbar)|A project demonstrates how to make a gradient StatusBar for React Native.|2|2022-02-11|
+|104|[Walkerant/Study](https://github.com/Walkerant/Study)|My records of study about computer-related knowledge.|2|2021-12-02|
+|105|[priore/SocialEngine](https://github.com/priore/SocialEngine)|With SocialEngine you can simplify retrieving information for a iOS Facebook or Twitter account and simplify the sharing.|2|2022-01-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
