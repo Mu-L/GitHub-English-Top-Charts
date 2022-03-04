@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13751|2021-11-17|
-|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10339|2022-02-08|
-|3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2043|2022-01-17|
-|4|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1737|2022-02-23|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13754|2021-11-17|
+|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10341|2022-03-04|
+|3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2045|2022-01-17|
+|4|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1740|2022-02-23|
 |5|[Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin|1080|2022-02-18|
 |6|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1014|2022-02-28|
-|7|[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)|hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)|840|2022-01-31|
+|7|[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)|hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)|841|2022-01-31|
 |8|[MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks)|Vim bookmark plugin|725|2021-11-14|
 |9|[ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim)|Vim syntax file & snippets for Docker's Dockerfile|674|2021-09-06|
 |10|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|564|2022-02-26|
-|11|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|460|2022-01-06|
+|11|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|461|2022-01-06|
 |12|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|410|2022-02-26|
 |13|[hamvocke/dotfiles](https://github.com/hamvocke/dotfiles)|A collection of my personal dotfiles|380|2022-02-10|
 |14|[szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter)|Edit your Jupyter notebooks in Vim/Neovim|336|2021-12-02|
@@ -58,7 +58,7 @@
 |51|[lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim)|🌿 fern.vim plugin which add bookmark scheme|13|2022-02-23|
 |52|[mg979/vim-mini-plugins](https://github.com/mg979/vim-mini-plugins)|Collection of low-config small plugins|12|2021-09-15|
 |53|[IndexXuan/wow-my-dotfiles](https://github.com/IndexXuan/wow-my-dotfiles)|my .vimrc and .zshrc backup and share ~ |12|2022-02-24|
-|54|[iamjamestl/dotfiles](https://github.com/iamjamestl/dotfiles)|Dotfiles and other shared home directory things|12|2022-03-03|
+|54|[iamjamestl/dotfiles](https://github.com/iamjamestl/dotfiles)|Dotfiles and other shared home directory things|12|2022-03-04|
 |55|[NewProggie/Dev-Utils](https://github.com/NewProggie/Dev-Utils)|Common development utils such as format styles, coding guidelines etc.|11|2021-10-24|
 |56|[ivy/vim-ginkgo](https://github.com/ivy/vim-ginkgo)|Go syntax highlighting and snippets for Ginkgo specs and matchers.|10|2022-02-17|
 |57|[0xfe/evil](https://github.com/0xfe/evil)|Profiles, scripts, and other shared code.|10|2022-01-02|

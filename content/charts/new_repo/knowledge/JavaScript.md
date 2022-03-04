@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1842|2022-03-02|2021-06-16|
-|2|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1655|2022-02-03|2021-05-25|
+|1|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.|1888|2022-03-02|2021-06-16|
+|2|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|1664|2022-02-03|2021-05-25|
 |3|[education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)|Join the GitHub Graduation Yearbook and "walk the stage" on June 5.|1405|2022-02-19|2021-04-22|
-|4|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |879|2022-01-23|2021-06-03|
-|5|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|875|2022-03-03|2021-07-31|
+|4|[saviomartin/codehouse](https://github.com/saviomartin/codehouse)|A whole new world of 300+ developer cheatsheets |880|2022-01-23|2021-06-03|
+|5|[adrianhajdin/project_travel_advisor](https://github.com/adrianhajdin/project_travel_advisor)|Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.|878|2022-03-03|2021-07-31|
 |6|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|813|2022-02-24|2021-04-13|
 |7|[bugbearnft/bugbear](https://github.com/bugbearnft/bugbear)|Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than ...|801|2021-10-03|2021-09-21|
-|8|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|554|2022-02-28|2021-05-31|
+|8|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|553|2022-02-28|2021-05-31|
 |9|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|515|2021-09-15|2021-03-28|
 |10|[bvaughn/planner](https://github.com/bvaughn/planner)|Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas|485|2022-02-14|2021-12-21|
-|11|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|483|2021-12-09|2021-03-11|
-|12|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|461|2022-03-03|2021-03-13|
-|13|[jekuer/add-to-calendar-button](https://github.com/jekuer/add-to-calendar-button)|A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.|439|2022-02-24|2021-10-13|
-|14|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|369|2022-03-02|2021-09-19|
+|11|[cvg/pixloc](https://github.com/cvg/pixloc)|Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)|484|2021-12-09|2021-03-11|
+|12|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|462|2022-03-04|2021-03-13|
+|13|[jekuer/add-to-calendar-button](https://github.com/jekuer/add-to-calendar-button)|A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.|448|2022-03-04|2021-10-13|
+|14|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|372|2022-03-02|2021-09-19|
 |15|[comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)|List of Fabric server side mods|360|2022-02-28|2021-03-13|
-|16|[sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer)|Sorting Algorithms Visualizer|353|2022-02-27|2021-06-05|
-|17|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|351|2021-12-26|2021-09-13|
+|16|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|354|2021-12-26|2021-09-13|
+|17|[sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer)|Sorting Algorithms Visualizer|354|2022-02-27|2021-06-05|
 |18|[adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant)|This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website|314|2022-02-18|2022-01-11|
 |19|[jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension)|Chrome extension for auto-grouping tabs by URL patterns|288|2022-02-15|2021-05-03|
 |20|[fireship-io/node-crypto-examples](https://github.com/fireship-io/node-crypto-examples)|7 Useful Examples of Cryptography in Node.js|276|2021-11-03|2021-11-01|
