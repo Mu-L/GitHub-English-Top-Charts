@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|979|2021-11-11|2021-10-23|
-|2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|205|2022-02-12|2021-04-05|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|982|2021-11-11|2021-10-23|
+|2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|206|2022-02-12|2021-04-05|
 |3|[Stefanye/CSSHell](https://github.com/Stefanye/CSSHell)|Collection of common CSS mistakes, and how to fix them|172|2022-02-26|2021-04-09|
 |4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|152|2022-02-12|2021-04-19|
 |5|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|122|2022-03-04|2021-08-20|
 |6|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|82|2022-02-09|2022-02-09|
-|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|81|2022-03-05|2021-06-15|
+|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|82|2022-03-06|2021-06-15|
 |8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|71|2021-11-22|2021-09-26|
 |9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|63|2022-02-02|2021-08-16|
-|10|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|43|2022-03-05|2021-11-03|
+|10|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|43|2022-03-06|2021-11-03|
 |11|[tigercodes-io/navbar](https://github.com/tigercodes-io/navbar)|Responsive Navigation Bar Tutorial episode at my YouTube channel.|41|2021-09-07|2021-05-18|
-|12|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|39|2022-03-05|2021-11-10|
+|12|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|40|2022-03-06|2021-11-10|
 |13|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
 |14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
 |15|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|34|2021-11-28|2021-06-24|
@@ -24,7 +24,7 @@
 |17|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |30|2022-02-24|2021-06-18|
 |18|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|30|2021-11-20|2021-05-15|
 |19|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-02-24|2021-10-08|
-|20|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|27|2022-03-05|2021-06-16|
+|20|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|27|2022-03-06|2021-06-16|
 |21|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
 |22|[s-i-d-d-i-s/LC-Predict](https://github.com/s-i-d-d-i-s/LC-Predict)|"THE FIRST" Rating Predictor for Leetcode Contests|26|2021-09-12|2021-05-01|
 |23|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript are available in here. |20|2022-01-24|2021-09-03|
@@ -42,7 +42,7 @@
 |35|[DisnakeDev/guide](https://github.com/DisnakeDev/guide)|A guide/example list of use-cases of disnake.|12|2022-01-11|2021-10-25|
 |36|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|12|2022-03-03|2021-08-21|
 |37|[wafarifki/JungleDevs-LandingPage](https://github.com/wafarifki/JungleDevs-LandingPage)|Hi there 👋 i want to share my exploration for  Jungle Devs Company. Jungle Devs is a Brazilian company focused on developing people who develop software. Use this for learn. Give me your stars, Don't  ...|11|2021-10-27|2021-08-20|
-|38|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|11|2022-03-02|2021-07-22|
+|38|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|11|2022-03-06|2021-07-22|
 |39|[LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere)|Learn one vim, Use everywhere.|10|2022-02-06|2021-12-05|
 |40|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|10|2021-12-28|2021-07-18|
 |41|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|10|2021-11-30|2021-05-25|

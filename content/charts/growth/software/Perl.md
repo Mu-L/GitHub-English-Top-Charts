@@ -1,39 +1,39 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Perl
-<sub>Updated: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15351|7|2022-02-07|
-|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13618|6|2022-02-23|
+|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15354|7|2022-02-07|
+|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13624|6|2022-02-23|
 |3|[samyk/slipstream](https://github.com/samyk/slipstream)|NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website|1674|3|2021-09-13|
-|4|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12618|3|2022-02-22|
-|5|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3974|2|2022-02-15|
-|6|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5554|2|2022-03-02|
+|4|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12620|3|2022-02-22|
+|5|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3973|2|2022-02-15|
+|6|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5559|2|2022-03-02|
 |7|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8049|2|2021-09-24|
-|8|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7414|2|2022-03-03|
-|9|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1048|2|2022-02-21|
-|10|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|616|2|2022-03-03|
+|8|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7415|2|2022-03-03|
+|9|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1049|2|2022-02-21|
+|10|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|618|2|2022-03-03|
 |11|[newsnowlabs/dockside](https://github.com/newsnowlabs/dockside)|Dockside is a tool for provisioning lightweight access-controlled IDEs, staging environments and sandboxes - aka 'devtainers' - on local machine, on-premises raw metal or VM, or in the cloud|118|1|2022-03-05|
 |12|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2592|1|2022-02-18|
-|13|[jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)|Next-Generation Linux Kernel Exploit Suggester|1285|1|2022-01-12|
-|14|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2361|1|2022-02-20|
+|13|[jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)|Next-Generation Linux Kernel Exploit Suggester|1286|1|2022-01-12|
+|14|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2362|1|2022-02-20|
 |15|[yosshin4004/xdev68k](https://github.com/yosshin4004/xdev68k)|Cross development environment for the SHARP X68K.|19|1|2022-02-26|
 |16|[saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles)|configuration files for my linux system and window managers|12|1|2022-02-21|
 |17|[saiftynet/Wordle](https://github.com/saiftynet/Wordle)|A command Line wordle clone|30|1|2022-02-12|
-|18|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|628|1|2022-03-03|
+|18|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|629|1|2022-03-06|
 |19|[gvwilson/12-design](https://github.com/gvwilson/12-design)|Ten Quick Software Design Tips for Data Scientists|133|1|2022-01-09|
-|20|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2734|1|2022-03-04|
-|21|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|1892|1|2021-12-10|
+|20|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2735|1|2022-03-04|
+|21|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|1891|1|2021-12-10|
 |22|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2429|1|2022-01-04|
-|23|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1262|1|2022-03-01|
-|24|[chinarulezzz/pixload](https://github.com/chinarulezzz/pixload)|Image Payload Creating/Injecting tools|769|1|2022-01-18|
-|25|[DMBuce/i3b](https://github.com/DMBuce/i3b)|Window manager scripts and configs|4|1|2022-03-05|
-|26|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|2359|1|2022-02-27|
-|27|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|1321|1|2022-02-09|
+|23|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1261|1|2022-03-01|
+|24|[chinarulezzz/pixload](https://github.com/chinarulezzz/pixload)|Image Payload Creating/Injecting tools|770|1|2022-01-18|
+|25|[DMBuce/i3b](https://github.com/DMBuce/i3b)|Window manager scripts and configs|4|1|2022-03-06|
+|26|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|2362|1|2022-02-27|
+|27|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|1322|1|2022-02-09|
 |28|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for L ...|2086|1|2022-02-22|
-|29|[Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker)|X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter|1127|1|2022-02-15|
+|29|[Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker)|X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter|1126|1|2022-03-05|
 |30|[zer0liu/bioutils](https://github.com/zer0liu/bioutils)|Routine utilities for seuqnece operation|4|0|2022-01-30|
 |31|[dolthub/pg2mysql](https://github.com/dolthub/pg2mysql)|Script to convert Postgres dump files to MySQL dump files|7|0|2022-01-29|
 |32|[dagolden/Path-Iterator-Rule](https://github.com/dagolden/Path-Iterator-Rule)|File finder|6|0|2021-09-09|
@@ -64,7 +64,7 @@
 |57|[camoragaq/BrumiR](https://github.com/camoragaq/BrumiR)|BrumiR: A toolkit for de novo discovery of microRNAs from sRNA-seq data.|6|0|2021-11-15|
 |58|[rjbs/App-Cronjob](https://github.com/rjbs/App-Cronjob)|a wrapper for cronjobs to cope with lousy crond (and make decent ones better)|7|0|2021-10-31|
 |59|[ykaw/sag](https://github.com/ykaw/sag)|System Activity Grapher|2|0|2021-10-05|
-|60|[vigilo/nagios-plugins](https://github.com/vigilo/nagios-plugins)|Nagios plugins|2|0|2022-03-05|
+|60|[vigilo/nagios-plugins](https://github.com/vigilo/nagios-plugins)|Nagios plugins|2|0|2022-03-06|
 |61|[oetiker/znapzend](https://github.com/oetiker/znapzend)|zfs backup with remote capabilities and mbuffer integration.|486|0|2022-01-21|
 |62|[TF-Chan-Lab/miRDeep-P2_pipeline](https://github.com/TF-Chan-Lab/miRDeep-P2_pipeline)|-|2|0|2021-09-27|
 |63|[nawrockie/Bio-Easel](https://github.com/nawrockie/Bio-Easel)|Perl modules and scripts for interfacing with Sean Eddy's C easel sequence analysis library using Perl's Inline.|4|0|2022-01-06|
@@ -149,7 +149,7 @@
 |142|[Yaribz/SLDB](https://github.com/Yaribz/SLDB)|SpringRTS Lobby DataBase|4|0|2022-02-06|
 |143|[josuah/miniwi](https://github.com/josuah/miniwi)|The Miniwi font is back online!|4|0|2021-11-11|
 |144|[naemon/naemon.github.io](https://github.com/naemon/naemon.github.io)|The https://www.naemon.org website|2|0|2022-01-25|
-|145|[davorg/planetperl](https://github.com/davorg/planetperl)|Perlanet configuration for a Perl Planet|3|0|2022-03-05|
+|145|[davorg/planetperl](https://github.com/davorg/planetperl)|Perlanet configuration for a Perl Planet|3|0|2022-03-06|
 |146|[apache/mod_perl](https://github.com/apache/mod_perl)|Mirror of Apache mod_perl|30|0|2022-01-30|
 |147|[wushyer/RGAAT_v2](https://github.com/wushyer/RGAAT_v2)|Add multiple thread function for genome comparison|12|0|2021-09-29|
 |148|[Piratenpartij/signal-irc-telegram-gateway](https://github.com/Piratenpartij/signal-irc-telegram-gateway)|Bot for copying messages from signal to irc to telegram and vice versa |6|0|2022-01-21|
@@ -171,7 +171,7 @@
 |164|[capezotte/artix-elogind-smdev](https://github.com/capezotte/artix-elogind-smdev)|Outputs a massive shell script that gets smdev+processdev to cooperate with elogind's seat management|4|0|2021-11-21|
 |165|[tmo1/sms-db](https://github.com/tmo1/sms-db)|sms-db is a tool to build an SQLite database out of collections of SMS and MMS messages in various formats. The database can then be queried using standard SQLite queries, and the messages in the data ...|8|0|2021-12-07|
 |166|[erikw/dotfiles](https://github.com/erikw/dotfiles)|My personal dotfiles.|36|0|2022-03-04|
-|167|[gugod/aaa-pl](https://github.com/gugod/aaa-pl)|-|5|0|2022-03-05|
+|167|[gugod/aaa-pl](https://github.com/gugod/aaa-pl)|-|6|0|2022-03-05|
 |168|[TrivialTechnologies/TT](https://github.com/TrivialTechnologies/TT)|The repository for the Trivial Technologies website.|5|0|2021-10-09|
 |169|[bestpractical/rt-extension-quickcalls](https://github.com/bestpractical/rt-extension-quickcalls)|-|4|0|2022-01-14|
 |170|[dbsrgits/dbix-class-schema-loader](https://github.com/dbsrgits/dbix-class-schema-loader)|Official GitHub remote for git.shadowcat.co.uk DBIx-Class-Schema-Loader.git|11|0|2021-12-29|

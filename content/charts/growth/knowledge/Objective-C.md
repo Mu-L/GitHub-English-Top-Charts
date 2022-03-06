@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5032|6|2022-02-28|
-|2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13887|4|2022-01-23|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5049|6|2022-02-28|
+|2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13886|4|2022-01-23|
 |3|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2094|1|2021-11-22|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2717|1|2021-12-16|
 |5|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2857|1|2022-03-02|
@@ -80,9 +80,9 @@
 |73|[krishpranav/learnobjc](https://github.com/krishpranav/learnobjc)|Learn Objective-C |2|0|2021-10-02|
 |74|[c1d3rdev/ChatHeads](https://github.com/c1d3rdev/ChatHeads)|Floating ChatHeads, inspired by Facebook, for jailbroken devices|3|0|2021-11-18|
 |75|[Wolfgang89/NoTiToBroadNSE](https://github.com/Wolfgang89/NoTiToBroadNSE)|A boilerplate project  how to broadcast a mp3 audiofile using NSE.|8|0|2021-11-18|
-|76|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|0|2021-12-04|
+|76|[Humein/MyProjectModule](https://github.com/Humein/MyProjectModule)|Animation/GCD/RunTime/Algorithm/Design Patterns/UI Widget/POP Thought|4|0|2022-03-05|
 |77|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|53|0|2022-03-02|
-|78|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|151|0|2022-02-16|
+|78|[ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view)|✂️ React-Native component to cut a touch-through holes anywhere you want. Perfect solution for tutorial overlay|152|0|2022-02-16|
 |79|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|
 |80|[thanhtunguet/TelinkSigMeshLib](https://github.com/thanhtunguet/TelinkSigMeshLib)|This library is a part of Telink Sig Mesh SDK. Published to GitHub for personal usage only. Visit the Telink Wiki to acquire the full SDK zip file and development handbooks.|3|0|2021-10-01|
 |81|[diogenesgg/react-native-swiper-ad-infinitum](https://github.com/diogenesgg/react-native-swiper-ad-infinitum)|An example of how to use a carrousel component based on React Native ScrollView to perform ad infinitum scrolling|3|0|2022-03-01|
@@ -92,22 +92,21 @@
 |85|[mauriciosoares01/formik-tutorial](https://github.com/mauriciosoares01/formik-tutorial)|A tutorial project showing how to use Formik and Yup in React Native with Hooks|2|0|2022-03-02|
 |86|[leszek-s/LSCategories](https://github.com/leszek-s/LSCategories)|LSCategories is a collection of useful Foundation and UIKit iOS categories.|11|0|2021-12-02|
 |87|[Walkerant/Study](https://github.com/Walkerant/Study)|My records of study about computer-related knowledge.|2|0|2021-12-02|
-|88|[youyiio/flutter_umeng_ushare](https://github.com/youyiio/flutter_umeng_ushare)|A flutter plugin for umeng u-share library, support wechat share, QQ/Tim share ...|4|0|2021-09-04|
-|89|[lemonmojo/RemoteFilesVsPasteboard](https://github.com/lemonmojo/RemoteFilesVsPasteboard)|A macOS demo project to demonstrate how to put remote files on local clipboard and provide data asynchronously when pasting in Finder|3|0|2022-02-03|
-|90|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2022-03-01|
-|91|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|12|0|2022-02-13|
-|92|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|61|0|2022-01-13|
-|93|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|220|0|2021-12-22|
-|94|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|
-|95|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2021-11-18|
-|96|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|31|0|2021-09-07|
-|97|[shanecelis/contacts](https://github.com/shanecelis/contacts)|displays contacts from the AddressBook database|6|0|2021-11-08|
-|98|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|82|0|2022-02-11|
-|99|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|88|0|2021-12-27|
-|100|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
-|101|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|0|2022-01-20|
-|102|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
-|103|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-02-24|
+|88|[lemonmojo/RemoteFilesVsPasteboard](https://github.com/lemonmojo/RemoteFilesVsPasteboard)|A macOS demo project to demonstrate how to put remote files on local clipboard and provide data asynchronously when pasting in Finder|3|0|2022-02-03|
+|89|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2022-03-01|
+|90|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|13|0|2022-02-13|
+|91|[ShekarMudaliyar/social_share](https://github.com/ShekarMudaliyar/social_share)|Flutter package to share images on social media|61|0|2022-01-13|
+|92|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|220|0|2021-12-22|
+|93|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|
+|94|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2021-11-18|
+|95|[gaaclarke/pigeon_plugin_example](https://github.com/gaaclarke/pigeon_plugin_example)|An example of how to use Pigeon to create typesafe plugins with Swift on iOS and Kotlin on Android.|31|0|2021-09-07|
+|96|[shanecelis/contacts](https://github.com/shanecelis/contacts)|displays contacts from the AddressBook database|6|0|2021-11-08|
+|97|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|82|0|2022-02-11|
+|98|[mdbergmann/Eloquent](https://github.com/mdbergmann/Eloquent)|Eloquent is a bible study tool for macOS|88|0|2021-12-27|
+|99|[MobClub/APICloud-For-ShareSDK](https://github.com/MobClub/APICloud-For-ShareSDK)|APICloud-For-ShareSDK|6|0|2021-10-28|
+|100|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|0|2022-01-20|
+|101|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|6|0|2021-12-15|
+|102|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-02-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Lua
-<sub>Updated: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|458|4|2022-03-05|
-|2|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|716|3|2022-03-04|
+|1|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|461|4|2022-03-06|
+|2|[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)|The Refactoring library based off the Refactoring book by Martin Fowler|717|3|2022-03-06|
 |3|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit|3767|2|2021-09-17|
-|4|[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)|Indent guides  for Neovim|1250|2|2022-03-04|
+|4|[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)|Indent guides  for Neovim|1251|2|2022-03-04|
 |5|[ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim)|Create beautiful code snippets directly from your neovim terminal|28|2|2022-03-04|
 |6|[sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim)|A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !|266|1|2022-01-12|
-|7|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|363|1|2022-02-17|
+|7|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience|362|1|2022-02-17|
 |8|[cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection)|Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)|916|1|2021-10-12|
 |9|[ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)|A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse|182|1|2022-02-19|
 |10|[kennyledet/Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations)|Share, discuss and learn about algorithm implementations!|2134|1|2021-12-05|
@@ -37,20 +37,20 @@
 |30|[mulark/factorio_benchmarking_mods](https://github.com/mulark/factorio_benchmarking_mods)|A collection of mods that can be useful for benchmarking.|6|0|2022-02-04|
 |31|[Simstrumentation/Air-Manager](https://github.com/Simstrumentation/Air-Manager)|A collection of quality Air Manager instruments built by flight sim enthusiasts for our own personal home cockpits, but shared with the community at large.|21|0|2022-03-05|
 |32|[Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim)|Minimalist Collection of Colorschemes Written in Lua|132|0|2022-01-18|
-|33|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|39|0|2022-03-05|
+|33|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|40|0|2022-03-05|
 |34|[Hello23-Ygopro/ygopro-dm](https://github.com/Hello23-Ygopro/ygopro-dm)|Mod to play Duel Masters on YGOPro (DM-01 to DM-13)|4|0|2022-01-11|
 |35|[avinetworks/datascript-library](https://github.com/avinetworks/datascript-library)|DataScript Examples Library|23|0|2021-12-15|
 |36|[GitSparTV/GmodLibraries](https://github.com/GitSparTV/GmodLibraries)|Collection of libraries for RuSBoxServer: SparLibrary, RuSBoxServerLibrary|5|0|2021-11-06|
 |37|[lalawue/linked-list.lua](https://github.com/lalawue/linked-list.lua)|double linked list for Lua/LuaJIT|4|0|2021-11-24|
 |38|[creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim)|An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp|16|0|2022-01-13|
 |39|[xriss/gamecakejam](https://github.com/xriss/gamecakejam)|A collection of example games and apps built using GameCake.|3|0|2021-09-29|
-|40|[TheAlgorithms/Lua](https://github.com/TheAlgorithms/Lua)|Algorithms and Data Structures implemented in the Lua programming language|50|0|2022-02-25|
+|40|[TheAlgorithms/Lua](https://github.com/TheAlgorithms/Lua)|Algorithms and Data Structures implemented in the Lua programming language|51|0|2022-02-25|
 |41|[phuein/UserScripts](https://github.com/phuein/UserScripts)|A collection of all my varied userscripts and scripts.|7|0|2022-03-04|
 |42|[fseeeye/EyeEngine-Cpp](https://github.com/fseeeye/EyeEngine-Cpp)|My first Real-Time 3D Game Engine learning project written in C++.|4|0|2021-12-27|
 |43|[qhuyduong/dotfiles](https://github.com/qhuyduong/dotfiles)|Collection of useful configuration files for Linux (zsh, nvim, i3, tmux, etc.)|8|0|2022-01-03|
 |44|[Sleitnick/RbxCookbook](https://github.com/Sleitnick/RbxCookbook)|Useful snippets of Lua code for the Roblox platform.|37|0|2021-12-13|
-|45|[betaflight/betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)|Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx)|404|0|2022-02-04|
-|46|[antrix1/arenamaster-addon](https://github.com/antrix1/arenamaster-addon)|ArenaMaster.IO PvP Inspect AddOn|7|0|2022-03-04|
+|45|[betaflight/betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)|Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx)|405|0|2022-02-04|
+|46|[antrix1/arenamaster-addon](https://github.com/antrix1/arenamaster-addon)|ArenaMaster.IO PvP Inspect AddOn|7|0|2022-03-06|
 |47|[davidhealey/ardour-scripts](https://github.com/davidhealey/ardour-scripts)|A collection of Ardour Lua scripts I've written|9|0|2021-12-16|
 |48|[momofor/dotfiles](https://github.com/momofor/dotfiles)|A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.|4|0|2022-02-28|
 |49|[Miqueas/Lua-GTK3-Examples](https://github.com/Miqueas/Lua-GTK3-Examples)|Some GTK examples in Lua|20|0|2022-01-21|
@@ -77,16 +77,16 @@
 |70|[BigWigsMods/BigWigs_MistsOfPandaria](https://github.com/BigWigsMods/BigWigs_MistsOfPandaria)|A collection of BigWigs modules from the Mists of Pandaria era.|4|0|2022-02-23|
 |71|[z16/packages](https://github.com/z16/packages)|Personal collection of libs and addons for Windower 5|4|0|2022-01-19|
 |72|[SpyricGames/Solar2D-Plugins-Public](https://github.com/SpyricGames/Solar2D-Plugins-Public)|A small collection of publicly available Solar2D plugins created by Spyric Games Ltd.|7|0|2021-12-28|
-|73|[zarillion/handynotes-plugins](https://github.com/zarillion/handynotes-plugins)|A collection of HandyNotes plugins for World of Warcraft.|10|0|2022-03-05|
+|73|[zarillion/handynotes-plugins](https://github.com/zarillion/handynotes-plugins)|A collection of HandyNotes plugins for World of Warcraft.|10|0|2022-03-06|
 |74|[bcomness/FS19_GlobalCompanyx](https://github.com/bcomness/FS19_GlobalCompanyx)|"_versions": https://github.com/Ls-Modcompany/FS19_GlobalCompany/tree/master/_versions Diese können direkt runtergeladen werden und in den Modordner verschoben werden.|13|0|2022-01-12|
-|75|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|96|0|2022-02-14|
-|76|[yujinyuz/dotfiles](https://github.com/yujinyuz/dotfiles)|A collection of dotfiles. I hope you can find some treasure in here just like how I did with other dotfiles|12|0|2022-02-04|
+|75|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|97|0|2022-03-06|
+|76|[yujinyuz/dotfiles](https://github.com/yujinyuz/dotfiles)|A collection of dotfiles. I hope you can find some treasure in here just like how I did with other dotfiles|12|0|2022-03-06|
 |77|[monome/crow-studies](https://github.com/monome/crow-studies)|crow examples|12|0|2021-12-24|
 |78|[ristosip/rjs-sampling-suite](https://github.com/ristosip/rjs-sampling-suite)|A collection of (Lua) scripts for Reaper that automate tasks related to sample instrument creation.|5|0|2022-02-04|
 |79|[sile-typesetter/casile](https://github.com/sile-typesetter/casile)|The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.|30|0|2022-03-03|
 |80|[Drauthius/awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags)|Share and move tags on multiple screens when using the awesome window manager.|64|0|2022-01-02|
 |81|[bkader/KPack](https://github.com/bkader/KPack)|WoTLK collection of addons turned into modules inside a single addon.|8|0|2022-02-18|
-|82|[detuur/mpv-scripts](https://github.com/detuur/mpv-scripts)|This is a collection of my own mpv scripts.|30|0|2022-02-27|
+|82|[detuur/mpv-scripts](https://github.com/detuur/mpv-scripts)|This is a collection of my own mpv scripts.|31|0|2022-02-27|
 |83|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|134|0|2021-11-30|
 |84|[FlightControl-Master/MOOSE_MISSIONS](https://github.com/FlightControl-Master/MOOSE_MISSIONS)|A collection of demonstration and test missions for the MOOSE Framework, packed and contains the static loader moose.lua. So these missions can be run independently.|34|0|2022-03-05|
 |85|[sstojkovic/ssui-conky](https://github.com/sstojkovic/ssui-conky)|Collection of conky modules|5|0|2021-10-11|
@@ -95,116 +95,116 @@
 |88|[PhoenixAceVFX/Roblox-Scripts](https://github.com/PhoenixAceVFX/Roblox-Scripts)|A collection of every roblox script ive aquired. I DO NOT UPDATE OR MAINTAIN THESE.|60|0|2021-12-10|
 |89|[webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles)|A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.|47|0|2022-03-02|
 |90|[hauleth/dotfiles](https://github.com/hauleth/dotfiles)|List of my awesome dotfiles :)|42|0|2021-12-28|
-|91|[love2d-community/splashes](https://github.com/love2d-community/splashes)|A collection of splash screens for LÖVE|66|0|2022-02-24|
+|91|[love2d-community/splashes](https://github.com/love2d-community/splashes)|A collection of splash screens for LÖVE|67|0|2022-02-24|
 |92|[simdsoft/x-studio.github.io](https://github.com/simdsoft/x-studio.github.io)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2022 Simdsoft Limited|90|0|2022-02-28|
 |93|[jaipack17/write-ups](https://github.com/jaipack17/write-ups)|Depot for my articles, papers, insight, research, discoveries and just fun!|12|0|2022-01-23|
 |94|[Kampfkarren/hoarcekat](https://github.com/Kampfkarren/hoarcekat)|A Storybook-like plugin that makes it easy to preview individual UI elements. Especially useful with Roact.|62|0|2021-11-27|
 |95|[Aussiemon/Vermintide-2-JHF-Mods](https://github.com/Aussiemon/Vermintide-2-JHF-Mods)|A collection of interesting Vermintide 2 mods I've created, with no particular theme. |5|0|2022-01-09|
 |96|[manaphoenix/IsaacTemplates](https://github.com/manaphoenix/IsaacTemplates)|A collection of mod templates for The Binding of Isaac: Rebirth (**Rep Only**)|9|0|2021-12-02|
-|97|[defold/sample-lights-and-shadows](https://github.com/defold/sample-lights-and-shadows)|Example of how to achieve pixel perfect shadows in a 2D view|10|0|2022-02-06|
-|98|[molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim)|Neovim plugin that provides snippets for the LuaSnip plugin.|15|0|2022-01-19|
+|97|[defold/sample-lights-and-shadows](https://github.com/defold/sample-lights-and-shadows)|Example of how to achieve pixel perfect shadows in a 2D view|11|0|2022-02-06|
+|98|[molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim)|Neovim plugin that provides snippets for the LuaSnip plugin.|14|0|2022-01-19|
 |99|[stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim)|A collection of improvements for the quickfix buffer|39|0|2022-01-28|
-|100|[ChoGGi/SurvivingMars_CheatMods](https://github.com/ChoGGi/SurvivingMars_CheatMods)|Collection of mods for the game Surviving Mars|52|0|2022-03-05|
+|100|[ChoGGi/SurvivingMars_CheatMods](https://github.com/ChoGGi/SurvivingMars_CheatMods)|Collection of mods for the game Surviving Mars|52|0|2022-03-06|
 |101|[psiberx/cp2077-cet-kit](https://github.com/psiberx/cp2077-cet-kit)|Set of independent modules and examples to help develop mods for Cyber Engine Tweaks|19|0|2022-03-03|
 |102|[realpack/optimaize_gmod](https://github.com/realpack/optimaize_gmod)|A collection of different optimizations for Garry's mod server and client|9|0|2022-01-30|
 |103|[bryceyang/dotConfigs](https://github.com/bryceyang/dotConfigs)|self collection of dot configs for nvim and tmux|6|0|2022-02-17|
-|104|[Hydra9268/ZGESO](https://github.com/Hydra9268/ZGESO)|A public domain ESO Leveling Guide originally produced by Zygor Guides|17|0|2021-09-04|
-|105|[MaximumADHD/Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins)|A collection of Roblox plugins I've developed!|28|0|2022-02-28|
-|106|[TrevorBarns/luxart-vehicle-control-extras](https://github.com/TrevorBarns/luxart-vehicle-control-extras)|Repository of sirens and LVC SIREN files used for examples with Luxart Vehicle Control. See project here: https://github.com/TrevorBarns/luxart-vehicle-control|4|0|2021-12-27|
-|107|[DrNewbie/Mess](https://github.com/DrNewbie/Mess)|A Collection of Payday 2 Mods|9|0|2022-02-28|
-|108|[kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)|:bookmark_tabs: Delete multiple vim buffers based on different conditions|49|0|2021-11-14|
-|109|[kapraran/VU-mods](https://github.com/kapraran/VU-mods)|A collection of simple venice unleashed mods|3|0|2021-11-04|
-|110|[dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim)|A Neovim Telescope extension to open your browser bookmarks right from the editor!|80|0|2022-03-05|
-|111|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|271|0|2021-10-08|
-|112|[InfImpSolutions/IIS-EmergencyLS-ELS-FiveM](https://github.com/InfImpSolutions/IIS-EmergencyLS-ELS-FiveM)|[IIS] EmergencyLS   Server-Side ELS Lighting System   Custom Patterns +|7|0|2022-01-03|
-|113|[clementinise/kc-tricks](https://github.com/clementinise/kc-tricks)|Tricks resource for FiveM servers|4|0|2021-10-26|
-|114|[wslu42/QArcade](https://github.com/wslu42/QArcade)|A table-top arcade machine for quantum game developers, including open-sourcing the entire tutorials from coding to arcade schematics.|5|0|2021-10-15|
-|115|[dream11/kong-config-by-env](https://github.com/dream11/kong-config-by-env)|Kong plugin to maintain config to be shared across plugins|6|0|2021-11-18|
-|116|[notomo/cmp-neosnippet](https://github.com/notomo/cmp-neosnippet)|nvim-cmp source for neosnippet|5|0|2022-01-06|
-|117|[CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts)|A collection of scripts for mpv player|64|0|2022-02-13|
-|118|[dsasmblr/cheat-engine](https://github.com/dsasmblr/cheat-engine)|Cheat Engine scripts, tutorials, tools, and more.|101|0|2021-10-07|
-|119|[facebookresearch/noise-as-targets](https://github.com/facebookresearch/noise-as-targets)|Unsupervised Learning by Predicting Noise|86|0|2021-10-12|
-|120|[torch/demos](https://github.com/torch/demos)|Demos and tutorials around Torch7.|349|0|2021-12-16|
-|121|[Shadorain/shadovim](https://github.com/Shadorain/shadovim)|A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets ...|52|0|2021-12-09|
-|122|[pvaiko/course-generator](https://github.com/pvaiko/course-generator)|Fieldwork Course Generator to use with Courseplay for Farming Simulator 2017|13|0|2021-12-09|
-|123|[lampysprites/shurushki-aseprite-scripts](https://github.com/lampysprites/shurushki-aseprite-scripts)|A collection of badly maintained scripts for Aseprite with no unified purpose.|15|0|2021-12-09|
-|124|[LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes)|Collection of colorschemes made to be compatible with LunarVim|38|0|2022-02-01|
-|125|[KibbeWater/Interium-Luas](https://github.com/KibbeWater/Interium-Luas)|My public releases and list of private ones|6|0|2022-01-09|
-|126|[jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)|A collection of mpv scripts|100|0|2022-01-15|
-|127|[pandoc/lua-filters](https://github.com/pandoc/lua-filters)|A collection of lua filters for pandoc|370|0|2022-01-30|
-|128|[RealTimeLogic/LSP-Examples](https://github.com/RealTimeLogic/LSP-Examples)|Lua and LSP examples, including IoT/Cloud connectivity|15|0|2022-02-16|
-|129|[lifelike/pangamebook](https://github.com/lifelike/pangamebook)|Lua-filter for Pandoc to generate gamebook by shuffling headers and changing to numbers|10|0|2021-10-05|
-|130|[HW-PlayersPatch/File_Share](https://github.com/HW-PlayersPatch/File_Share)|Players Patch file share|7|0|2021-12-24|
-|131|[a2-4am/passport-test-suite](https://github.com/a2-4am/passport-test-suite)|A collection of disk images to provide code coverage for Passport|3|0|2022-02-04|
-|132|[IMXNOOBX/modest-menu-snippets](https://github.com/IMXNOOBX/modest-menu-snippets)|Unnoffical Kiddion's modest menu vscode snippets|6|0|2022-01-09|
-|133|[egerdnc/impulse-hl2rp](https://github.com/egerdnc/impulse-hl2rp)|Client side files of Impulse Half-Life 2 RP since vin said "i dont care" i am sharing it i also got the full server side i might share it after some time dunno yet.|3|0|2021-09-22|
-|134|[michal-h21/tex4ebook](https://github.com/michal-h21/tex4ebook)|Convertor from LaTeX to ebook formats (epub, mobi). Using tex4ht and texlua scripts.|238|0|2022-02-23|
-|135|[nikhil-RGB/Genichiro-The-Last-Stand](https://github.com/nikhil-RGB/Genichiro-The-Last-Stand)|A Genichiro focussed mod, currently barebones-adding new combos to his regular attacks and patterns|3|0|2022-02-10|
-|136|[Asians-FTW/Roblox-Studio-Tutorials](https://github.com/Asians-FTW/Roblox-Studio-Tutorials)|This contains resources (source code, models, etc.) from my Roblox Studio Tutorial Series.|3|0|2021-10-28|
-|137|[cloudbells/FieldGuide](https://github.com/cloudbells/FieldGuide)|A World of Warcraft: Classic addon for displaying visually when you will learn certain spells.|13|0|2021-12-11|
-|138|[ckipp01/dots](https://github.com/ckipp01/dots)|A collection of  dotfiles and scripts.|24|0|2022-02-25|
-|139|[bmos/FG-PFRPG-Upgrade-NPC-Actions](https://github.com/bmos/FG-PFRPG-Upgrade-NPC-Actions)|This extension replaces NPC spell effects and descriptions with those from the 'PFRPG - Spellbook' module.|3|0|2022-02-10|
-|140|[sayhisam1/rbx-roact-components](https://github.com/sayhisam1/rbx-roact-components)|sayhisam1's collection of roact components|4|0|2021-11-10|
-|141|[arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim)|A simple plugin to quickly run a snippet of code without ever leaving neovim|28|0|2021-12-25|
-|142|[Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk)|A collection of Lua scripts and RAM watches for BizHawk.|64|0|2022-01-26|
-|143|[koreader/contrib](https://github.com/koreader/contrib)|Collection of non-official plugins designed for KOReader|6|0|2022-02-21|
-|144|[monome/firstlight](https://github.com/monome/firstlight)|norns study zero|3|0|2021-10-23|
-|145|[Ben-Kerman/immersive](https://github.com/Ben-Kerman/immersive)|Language learning mpv script for looking up words within mpv and generating Anki cards|42|0|2022-02-28|
-|146|[tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim)|https://clojuredocs.org examples and notes, instantly under your finger tips |29|0|2021-12-20|
-|147|[liuchia/dotfiles](https://github.com/liuchia/dotfiles)|... collection of dots ...|3|0|2022-01-02|
-|148|[ryanfortner/conky-rpi](https://github.com/ryanfortner/conky-rpi)|Collection of widgets for the Raspberry Pi desktop|4|0|2022-01-21|
-|149|[nstockton/mushclient-mume](https://github.com/nstockton/mushclient-mume)|A collection of MushClient scripts for playing Mume|3|0|2022-02-07|
-|150|[CERN/CTW](https://github.com/CERN/CTW)|Craft The Web - learn how the web was made|32|0|2021-10-22|
-|151|[TTT-2/ttt2-ulx](https://github.com/TTT-2/ttt2-ulx)|This is an addon to support ulx settings for the new custom roles in TTT2. Original addon by Bender180 and Skillz (https://steamcommunity.com/sharedfiles/filedetails/?id=127865722&searchtext=trouble+i ...|5|0|2021-12-01|
-|152|[multitheftauto/mtasa-resources](https://github.com/multitheftauto/mtasa-resources)|This project maintains a list of up-to-date resources that come with Multi Theft Auto.|111|0|2022-02-11|
-|153|[adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools)|A series of handy scripts for Aseprite|22|0|2021-12-05|
-|154|[keyboredstudios/Playdate](https://github.com/keyboredstudios/Playdate)|Source files for Playdate tutorials|8|0|2022-02-28|
-|155|[DEVBenSon/pterodactyl-eggs](https://github.com/DEVBenSon/pterodactyl-eggs)|List of custom and public pterodactyl panel eggs |16|0|2022-01-08|
-|156|[lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim)|A bookmark plugin.|11|0|2021-12-07|
-|157|[zelbeus/ricx_scenarios](https://github.com/zelbeus/ricx_scenarios)|Scenario List for RedEM:RP|4|0|2021-10-18|
-|158|[teran/deduplicator](https://github.com/teran/deduplicator)|Lightroom plug-in to deduplicate images based on perceptual hash algorithms|43|0|2021-11-17|
-|159|[gaobb/DLDL-v2](https://github.com/gaobb/DLDL-v2)|Age Estimation Using Expectation of Label Distribution Learning|36|0|2021-10-31|
-|160|[PooiaFerdowsi/LuaTutorial](https://github.com/PooiaFerdowsi/LuaTutorial)|Lua tutorial|4|0|2022-02-05|
-|161|[rmagatti/dotfiles](https://github.com/rmagatti/dotfiles)|Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink:|6|0|2022-02-19|
-|162|[Meivyn/AdventureGuideLockouts](https://github.com/Meivyn/AdventureGuideLockouts)|A fork and continuation of Adventure Guide Saved Instances WoW add-on. |6|0|2022-03-03|
-|163|[arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles)|A collection of my dotfiles|7|0|2022-03-04|
-|164|[benjames-171/defold-games](https://github.com/benjames-171/defold-games)|Collection of simple games made with Defold|205|0|2022-02-07|
-|165|[tullamods/Wildpants](https://github.com/tullamods/Wildpants)|Shared services between Bagnon and Combuctor. Pants are a dangerous foe indeed.|19|0|2021-12-03|
-|166|[abdus/dotfiles](https://github.com/abdus/dotfiles)|:books: ArchLinux dotfiles|5|0|2021-10-19|
-|167|[ReaTeam/ReaScripts](https://github.com/ReaTeam/ReaScripts)|Community-maintained collection of scripts for REAPER|168|0|2022-02-27|
-|168|[bvbohnen/x4-projects](https://github.com/bvbohnen/x4-projects)|Parent repo for other X4 projects, with shared code for documentation and release generation.|23|0|2022-02-09|
-|169|[microfocus-idol/idol-rich-media-tutorials](https://github.com/microfocus-idol/idol-rich-media-tutorials)|A set of guides to get you doing great things with IDOL Media Server!|4|0|2022-02-16|
-|170|[segabl/pd2-hoplib](https://github.com/segabl/pd2-hoplib)|Collection of functions and useful tools used in multiple of my mods|6|0|2022-02-21|
-|171|[YeahItsHayden/qb-template](https://github.com/YeahItsHayden/qb-template)|An example of how to create a QBCore Resource|8|0|2021-10-20|
-|172|[ObEngine/Examples](https://github.com/ObEngine/Examples)|A set of game examples made with ÖbEngine !|3|0|2021-11-14|
-|173|[averms/pandoc-filters](https://github.com/averms/pandoc-filters)|A small, useful collection of pandoc filters|8|0|2021-10-20|
-|174|[MetaIdea/nms-amumss-lua-mod-script-collection](https://github.com/MetaIdea/nms-amumss-lua-mod-script-collection)|A collection of public amumss lua mod scripts for nms.|8|0|2022-03-05|
-|175|[Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides)|A World of Warcraft addon bringing guides into the game.|113|0|2022-03-05|
-|176|[cldrn/external-nse-script-library](https://github.com/cldrn/external-nse-script-library)|External NSE script library (Collection of unofficial scripts) - Feel free to submit your NSE scripts!|17|0|2022-01-05|
-|177|[AkadenTK/superwarp](https://github.com/AkadenTK/superwarp)|Addon for Windower 4 for FFXI that allows text commands to utilize homepoint, waypoint and survival guide teleport npcs|27|0|2022-01-24|
-|178|[PKGaspi/AsepriteScripts](https://github.com/PKGaspi/AsepriteScripts)|My collection of Aseprite Scripts|31|0|2022-01-22|
-|179|[iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim)|A port of Gilles Castel's UltiSnip snippets for LuaSnip.|5|0|2022-03-05|
-|180|[CozyPenguin/vscode-nvim-setup](https://github.com/CozyPenguin/vscode-nvim-setup)|A guide for setting up Visual Studio Code as a frontend for neovim|4|0|2022-02-10|
-|181|[ReaTeam/ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates)|Templates, models, boilerplates, examples and snippets for REAPER ReaScript.|32|0|2022-02-18|
-|182|[rudism/telescope-dict.nvim](https://github.com/rudism/telescope-dict.nvim)|A Telescope extension to open a list of synonyms with definitions for a word.|11|0|2022-02-22|
-|183|[facebookincubator/fbc_owrt_feed](https://github.com/facebookincubator/fbc_owrt_feed)|Facebook Connectivity OpenWrt Feed. Package feed for OpenWrt router OS by Facebook Connectivity programme.|3|0|2021-10-13|
-|184|[NarutoXY/graphene.lua](https://github.com/NarutoXY/graphene.lua)|Beautiful code snippet images right in the most epic editor :chef_kiss:|5|0|2022-01-31|
-|185|[mateus-md/leaf](https://github.com/mateus-md/leaf)|leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.|4|0|2021-12-03|
-|186|[a13X-B/lovely-little-experiments](https://github.com/a13X-B/lovely-little-experiments)|a collection of small projects you can run with löve http://love2d.org/|4|0|2022-01-15|
-|187|[tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim)|Integrates vim-bookmarks into telescope.nvim|40|0|2022-02-26|
-|188|[bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)|Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)|225|0|2021-12-20|
-|189|[StonehearthACE-team/stonehearth_ace](https://github.com/StonehearthACE-team/stonehearth_ace)|Main Mod repository. Master is only assembled and updated by organization; unstable-work is used for assembling, coding and debugging.|84|0|2022-03-05|
-|190|[Xeavin/The-Insurgents-Graveyard](https://github.com/Xeavin/The-Insurgents-Graveyard)|A collection of FFXII LUA scripts that didn't fit into any of my mods or that were requested and created for others.|5|0|2022-01-03|
-|191|[hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim)|Quickly share the reference to a point in your file|19|0|2022-02-22|
-|192|[LDDestroier/CC](https://github.com/LDDestroier/CC)|A collection of all my ComputerCraft programs and the APIs they use. This is mostly just to get them the fuck off of pastebin, and also to ensure that API owners don't change things to break my precio ...|8|0|2022-01-08|
-|193|[haqk/micro-bookmark](https://github.com/haqk/micro-bookmark)|A plugin for the micro editor. Bookmark lines to quickly jump between saved positions.|6|0|2021-11-20|
-|194|[dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)|My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of scripts.|61|0|2022-03-05|
-|195|[CarlosLeyvaAyala/DM-SkyrimSE-Library](https://github.com/CarlosLeyvaAyala/DM-SkyrimSE-Library)|Library of functions shared among all my mods|3|0|2021-12-29|
-|196|[ziggr/ESO-LibPrice](https://github.com/ziggr/ESO-LibPrice)|ESO Add-on library for fetching price data from other add-ons such as Master Merchant or Arkadius' Trade Tools|3|0|2021-09-14|
-|197|[overextended/ox_lib](https://github.com/overextended/ox_lib)|A collection of Lua functions to utilise in other resources.|13|0|2022-03-04|
-|198|[Be1zebub/Small-GLua-Things](https://github.com/Be1zebub/Small-GLua-Things)|A lot of helpful glua things. Libs, Snippets, Examples & More! This is just a klondike for gmod developers!|21|0|2022-02-23|
-|199|[Aussiemon/Vermintide-JHF-Mods](https://github.com/Aussiemon/Vermintide-JHF-Mods)|A collection of interesting Vermintide 1 mods I've created, with no particular theme.|4|0|2021-11-10|
-|200|[Lycea/Rogue](https://github.com/Lycea/Rogue)|Small rogue like game based on http://rogueliketutorials.com/ -> base of it|3|0|2021-11-04|
+|104|[MaximumADHD/Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins)|A collection of Roblox plugins I've developed!|28|0|2022-02-28|
+|105|[TrevorBarns/luxart-vehicle-control-extras](https://github.com/TrevorBarns/luxart-vehicle-control-extras)|Repository of sirens and LVC SIREN files used for examples with Luxart Vehicle Control. See project here: https://github.com/TrevorBarns/luxart-vehicle-control|4|0|2021-12-27|
+|106|[DrNewbie/Mess](https://github.com/DrNewbie/Mess)|A Collection of Payday 2 Mods|9|0|2022-02-28|
+|107|[kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)|:bookmark_tabs: Delete multiple vim buffers based on different conditions|49|0|2021-11-14|
+|108|[kapraran/VU-mods](https://github.com/kapraran/VU-mods)|A collection of simple venice unleashed mods|3|0|2021-11-04|
+|109|[dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim)|A Neovim Telescope extension to open your browser bookmarks right from the editor!|81|0|2022-03-05|
+|110|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|271|0|2021-10-08|
+|111|[InfImpSolutions/IIS-EmergencyLS-ELS-FiveM](https://github.com/InfImpSolutions/IIS-EmergencyLS-ELS-FiveM)|[IIS] EmergencyLS   Server-Side ELS Lighting System   Custom Patterns +|7|0|2022-01-03|
+|112|[clementinise/kc-tricks](https://github.com/clementinise/kc-tricks)|Tricks resource for FiveM servers|4|0|2021-10-26|
+|113|[wslu42/QArcade](https://github.com/wslu42/QArcade)|A table-top arcade machine for quantum game developers, including open-sourcing the entire tutorials from coding to arcade schematics.|5|0|2021-10-15|
+|114|[dream11/kong-config-by-env](https://github.com/dream11/kong-config-by-env)|Kong plugin to maintain config to be shared across plugins|6|0|2021-11-18|
+|115|[notomo/cmp-neosnippet](https://github.com/notomo/cmp-neosnippet)|nvim-cmp source for neosnippet|5|0|2022-01-06|
+|116|[CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts)|A collection of scripts for mpv player|65|0|2022-02-13|
+|117|[dsasmblr/cheat-engine](https://github.com/dsasmblr/cheat-engine)|Cheat Engine scripts, tutorials, tools, and more.|101|0|2021-10-07|
+|118|[facebookresearch/noise-as-targets](https://github.com/facebookresearch/noise-as-targets)|Unsupervised Learning by Predicting Noise|86|0|2021-10-12|
+|119|[torch/demos](https://github.com/torch/demos)|Demos and tutorials around Torch7.|349|0|2021-12-16|
+|120|[Shadorain/shadovim](https://github.com/Shadorain/shadovim)|A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets ...|52|0|2021-12-09|
+|121|[pvaiko/course-generator](https://github.com/pvaiko/course-generator)|Fieldwork Course Generator to use with Courseplay for Farming Simulator 2017|13|0|2021-12-09|
+|122|[lampysprites/shurushki-aseprite-scripts](https://github.com/lampysprites/shurushki-aseprite-scripts)|A collection of badly maintained scripts for Aseprite with no unified purpose.|15|0|2021-12-09|
+|123|[LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes)|Collection of colorschemes made to be compatible with LunarVim|38|0|2022-02-01|
+|124|[KibbeWater/Interium-Luas](https://github.com/KibbeWater/Interium-Luas)|My public releases and list of private ones|6|0|2022-01-09|
+|125|[jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)|A collection of mpv scripts|100|0|2022-01-15|
+|126|[pandoc/lua-filters](https://github.com/pandoc/lua-filters)|A collection of lua filters for pandoc|370|0|2022-01-30|
+|127|[RealTimeLogic/LSP-Examples](https://github.com/RealTimeLogic/LSP-Examples)|Lua and LSP examples, including IoT/Cloud connectivity|15|0|2022-02-16|
+|128|[lifelike/pangamebook](https://github.com/lifelike/pangamebook)|Lua-filter for Pandoc to generate gamebook by shuffling headers and changing to numbers|10|0|2021-10-05|
+|129|[HW-PlayersPatch/File_Share](https://github.com/HW-PlayersPatch/File_Share)|Players Patch file share|7|0|2021-12-24|
+|130|[a2-4am/passport-test-suite](https://github.com/a2-4am/passport-test-suite)|A collection of disk images to provide code coverage for Passport|3|0|2022-02-04|
+|131|[IMXNOOBX/modest-menu-snippets](https://github.com/IMXNOOBX/modest-menu-snippets)|Unnoffical Kiddion's modest menu vscode snippets|6|0|2022-01-09|
+|132|[egerdnc/impulse-hl2rp](https://github.com/egerdnc/impulse-hl2rp)|Client side files of Impulse Half-Life 2 RP since vin said "i dont care" i am sharing it i also got the full server side i might share it after some time dunno yet.|3|0|2021-09-22|
+|133|[michal-h21/tex4ebook](https://github.com/michal-h21/tex4ebook)|Convertor from LaTeX to ebook formats (epub, mobi). Using tex4ht and texlua scripts.|238|0|2022-02-23|
+|134|[nikhil-RGB/Genichiro-The-Last-Stand](https://github.com/nikhil-RGB/Genichiro-The-Last-Stand)|A Genichiro focussed mod, currently barebones-adding new combos to his regular attacks and patterns|3|0|2022-02-10|
+|135|[Asians-FTW/Roblox-Studio-Tutorials](https://github.com/Asians-FTW/Roblox-Studio-Tutorials)|This contains resources (source code, models, etc.) from my Roblox Studio Tutorial Series.|3|0|2021-10-28|
+|136|[cloudbells/FieldGuide](https://github.com/cloudbells/FieldGuide)|A World of Warcraft: Classic addon for displaying visually when you will learn certain spells.|13|0|2021-12-11|
+|137|[ckipp01/dots](https://github.com/ckipp01/dots)|A collection of  dotfiles and scripts.|24|0|2022-02-25|
+|138|[bmos/FG-PFRPG-Upgrade-NPC-Actions](https://github.com/bmos/FG-PFRPG-Upgrade-NPC-Actions)|This extension replaces NPC spell effects and descriptions with those from the 'PFRPG - Spellbook' module.|3|0|2022-02-10|
+|139|[sayhisam1/rbx-roact-components](https://github.com/sayhisam1/rbx-roact-components)|sayhisam1's collection of roact components|4|0|2021-11-10|
+|140|[arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim)|A simple plugin to quickly run a snippet of code without ever leaving neovim|28|0|2021-12-25|
+|141|[Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk)|A collection of Lua scripts and RAM watches for BizHawk.|64|0|2022-01-26|
+|142|[koreader/contrib](https://github.com/koreader/contrib)|Collection of non-official plugins designed for KOReader|6|0|2022-02-21|
+|143|[monome/firstlight](https://github.com/monome/firstlight)|norns study zero|3|0|2021-10-23|
+|144|[Ben-Kerman/immersive](https://github.com/Ben-Kerman/immersive)|Language learning mpv script for looking up words within mpv and generating Anki cards|42|0|2022-02-28|
+|145|[tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim)|https://clojuredocs.org examples and notes, instantly under your finger tips |29|0|2021-12-20|
+|146|[liuchia/dotfiles](https://github.com/liuchia/dotfiles)|... collection of dots ...|3|0|2022-01-02|
+|147|[ryanfortner/conky-rpi](https://github.com/ryanfortner/conky-rpi)|Collection of widgets for the Raspberry Pi desktop|4|0|2022-01-21|
+|148|[nstockton/mushclient-mume](https://github.com/nstockton/mushclient-mume)|A collection of MushClient scripts for playing Mume|3|0|2022-02-07|
+|149|[CERN/CTW](https://github.com/CERN/CTW)|Craft The Web - learn how the web was made|32|0|2021-10-22|
+|150|[TTT-2/ttt2-ulx](https://github.com/TTT-2/ttt2-ulx)|This is an addon to support ulx settings for the new custom roles in TTT2. Original addon by Bender180 and Skillz (https://steamcommunity.com/sharedfiles/filedetails/?id=127865722&searchtext=trouble+i ...|5|0|2021-12-01|
+|151|[multitheftauto/mtasa-resources](https://github.com/multitheftauto/mtasa-resources)|This project maintains a list of up-to-date resources that come with Multi Theft Auto.|111|0|2022-02-11|
+|152|[adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools)|A series of handy scripts for Aseprite|22|0|2021-12-05|
+|153|[keyboredstudios/Playdate](https://github.com/keyboredstudios/Playdate)|Source files for Playdate tutorials|8|0|2022-02-28|
+|154|[DEVBenSon/pterodactyl-eggs](https://github.com/DEVBenSon/pterodactyl-eggs)|List of custom and public pterodactyl panel eggs |16|0|2022-01-08|
+|155|[lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim)|A bookmark plugin.|11|0|2021-12-07|
+|156|[zelbeus/ricx_scenarios](https://github.com/zelbeus/ricx_scenarios)|Scenario List for RedEM:RP|4|0|2021-10-18|
+|157|[teran/deduplicator](https://github.com/teran/deduplicator)|Lightroom plug-in to deduplicate images based on perceptual hash algorithms|43|0|2021-11-17|
+|158|[gaobb/DLDL-v2](https://github.com/gaobb/DLDL-v2)|Age Estimation Using Expectation of Label Distribution Learning|36|0|2021-10-31|
+|159|[PooiaFerdowsi/LuaTutorial](https://github.com/PooiaFerdowsi/LuaTutorial)|Lua tutorial|4|0|2022-02-05|
+|160|[rmagatti/dotfiles](https://github.com/rmagatti/dotfiles)|Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink:|6|0|2022-02-19|
+|161|[Meivyn/AdventureGuideLockouts](https://github.com/Meivyn/AdventureGuideLockouts)|A fork and continuation of Adventure Guide Saved Instances WoW add-on. |6|0|2022-03-03|
+|162|[arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles)|A collection of my dotfiles|7|0|2022-03-04|
+|163|[benjames-171/defold-games](https://github.com/benjames-171/defold-games)|Collection of simple games made with Defold|205|0|2022-02-07|
+|164|[tullamods/Wildpants](https://github.com/tullamods/Wildpants)|Shared services between Bagnon and Combuctor. Pants are a dangerous foe indeed.|19|0|2021-12-03|
+|165|[abdus/dotfiles](https://github.com/abdus/dotfiles)|:books: ArchLinux dotfiles|5|0|2021-10-19|
+|166|[ReaTeam/ReaScripts](https://github.com/ReaTeam/ReaScripts)|Community-maintained collection of scripts for REAPER|168|0|2022-02-27|
+|167|[bvbohnen/x4-projects](https://github.com/bvbohnen/x4-projects)|Parent repo for other X4 projects, with shared code for documentation and release generation.|23|0|2022-02-09|
+|168|[microfocus-idol/idol-rich-media-tutorials](https://github.com/microfocus-idol/idol-rich-media-tutorials)|A set of guides to get you doing great things with IDOL Media Server!|4|0|2022-02-16|
+|169|[segabl/pd2-hoplib](https://github.com/segabl/pd2-hoplib)|Collection of functions and useful tools used in multiple of my mods|6|0|2022-02-21|
+|170|[YeahItsHayden/qb-template](https://github.com/YeahItsHayden/qb-template)|An example of how to create a QBCore Resource|8|0|2021-10-20|
+|171|[ObEngine/Examples](https://github.com/ObEngine/Examples)|A set of game examples made with ÖbEngine !|3|0|2021-11-14|
+|172|[averms/pandoc-filters](https://github.com/averms/pandoc-filters)|A small, useful collection of pandoc filters|8|0|2021-10-20|
+|173|[MetaIdea/nms-amumss-lua-mod-script-collection](https://github.com/MetaIdea/nms-amumss-lua-mod-script-collection)|A collection of public amumss lua mod scripts for nms.|8|0|2022-03-06|
+|174|[Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides)|A World of Warcraft addon bringing guides into the game.|113|0|2022-03-06|
+|175|[cldrn/external-nse-script-library](https://github.com/cldrn/external-nse-script-library)|External NSE script library (Collection of unofficial scripts) - Feel free to submit your NSE scripts!|17|0|2022-01-05|
+|176|[AkadenTK/superwarp](https://github.com/AkadenTK/superwarp)|Addon for Windower 4 for FFXI that allows text commands to utilize homepoint, waypoint and survival guide teleport npcs|27|0|2022-01-24|
+|177|[PKGaspi/AsepriteScripts](https://github.com/PKGaspi/AsepriteScripts)|My collection of Aseprite Scripts|32|0|2022-01-22|
+|178|[iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim)|A port of Gilles Castel's UltiSnip snippets for LuaSnip.|5|0|2022-03-05|
+|179|[CozyPenguin/vscode-nvim-setup](https://github.com/CozyPenguin/vscode-nvim-setup)|A guide for setting up Visual Studio Code as a frontend for neovim|4|0|2022-02-10|
+|180|[ReaTeam/ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates)|Templates, models, boilerplates, examples and snippets for REAPER ReaScript.|32|0|2022-02-18|
+|181|[rudism/telescope-dict.nvim](https://github.com/rudism/telescope-dict.nvim)|A Telescope extension to open a list of synonyms with definitions for a word.|11|0|2022-02-22|
+|182|[facebookincubator/fbc_owrt_feed](https://github.com/facebookincubator/fbc_owrt_feed)|Facebook Connectivity OpenWrt Feed. Package feed for OpenWrt router OS by Facebook Connectivity programme.|3|0|2021-10-13|
+|183|[NarutoXY/graphene.lua](https://github.com/NarutoXY/graphene.lua)|Beautiful code snippet images right in the most epic editor :chef_kiss:|5|0|2022-01-31|
+|184|[mateus-md/leaf](https://github.com/mateus-md/leaf)|leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.|4|0|2021-12-03|
+|185|[a13X-B/lovely-little-experiments](https://github.com/a13X-B/lovely-little-experiments)|a collection of small projects you can run with löve http://love2d.org/|4|0|2022-01-15|
+|186|[tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim)|Integrates vim-bookmarks into telescope.nvim|40|0|2022-02-26|
+|187|[bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)|Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)|225|0|2021-12-20|
+|188|[StonehearthACE-team/stonehearth_ace](https://github.com/StonehearthACE-team/stonehearth_ace)|Main Mod repository. Master is only assembled and updated by organization; unstable-work is used for assembling, coding and debugging.|84|0|2022-03-06|
+|189|[Xeavin/The-Insurgents-Graveyard](https://github.com/Xeavin/The-Insurgents-Graveyard)|A collection of FFXII LUA scripts that didn't fit into any of my mods or that were requested and created for others.|5|0|2022-01-03|
+|190|[hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim)|Quickly share the reference to a point in your file|19|0|2022-02-22|
+|191|[LDDestroier/CC](https://github.com/LDDestroier/CC)|A collection of all my ComputerCraft programs and the APIs they use. This is mostly just to get them the fuck off of pastebin, and also to ensure that API owners don't change things to break my precio ...|8|0|2022-01-08|
+|192|[haqk/micro-bookmark](https://github.com/haqk/micro-bookmark)|A plugin for the micro editor. Bookmark lines to quickly jump between saved positions.|6|0|2021-11-20|
+|193|[dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)|My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of scripts.|61|0|2022-03-06|
+|194|[CarlosLeyvaAyala/DM-SkyrimSE-Library](https://github.com/CarlosLeyvaAyala/DM-SkyrimSE-Library)|Library of functions shared among all my mods|3|0|2021-12-29|
+|195|[ziggr/ESO-LibPrice](https://github.com/ziggr/ESO-LibPrice)|ESO Add-on library for fetching price data from other add-ons such as Master Merchant or Arkadius' Trade Tools|3|0|2021-09-14|
+|196|[overextended/ox_lib](https://github.com/overextended/ox_lib)|A collection of Lua functions to utilise in other resources.|13|0|2022-03-04|
+|197|[Be1zebub/Small-GLua-Things](https://github.com/Be1zebub/Small-GLua-Things)|A lot of helpful glua things. Libs, Snippets, Examples & More! This is just a klondike for gmod developers!|21|0|2022-02-23|
+|198|[Aussiemon/Vermintide-JHF-Mods](https://github.com/Aussiemon/Vermintide-JHF-Mods)|A collection of interesting Vermintide 1 mods I've created, with no particular theme.|4|0|2021-11-10|
+|199|[Lycea/Rogue](https://github.com/Lycea/Rogue)|Small rogue like game based on http://rogueliketutorials.com/ -> base of it|3|0|2021-11-04|
+|200|[OverlordAkise/darkrp-exploits](https://github.com/OverlordAkise/darkrp-exploits)|A list of fun things to do with DarkRP addons|8|0|2021-12-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

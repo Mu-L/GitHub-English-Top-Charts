@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)|🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks|703|2022-01-15|2021-12-10|
+|1|[Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)|🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks|704|2022-01-15|2021-12-10|
 |2|[zinggAI/zingg](https://github.com/zinggAI/zingg)|Scalable data mastering, deduplication and entity resolution.|426|2022-03-05|2021-08-25|
 |3|[BNYMellon/spring-kata](https://github.com/BNYMellon/spring-kata)|Code katas for learning Spring® and Spring Boot.|409|2022-01-17|2021-08-02|
-|4|[thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)|An Open-Source repository that contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this re ...|398|2022-03-01|2021-04-03|
+|4|[thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)|An Open-Source repository that contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this re ...|400|2022-03-06|2021-04-03|
 |5|[line/line-fido2-server](https://github.com/line/line-fido2-server)|FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.|327|2021-11-30|2021-07-22|
 |6|[xpc1024/easy-es](https://github.com/xpc1024/easy-es)|Better Elastic Search search engine framework, the bottom layer adopts RestHighLevelClient, API design consistent with Mybatis-plus, zero additional learning cost, shielding language differences, deve ...|202|2022-03-05|2021-12-01|
-|7|[kumaransg/LLD](https://github.com/kumaransg/LLD)|Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.|166|2021-09-15|2021-06-23|
+|7|[kumaransg/LLD](https://github.com/kumaransg/LLD)|Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.|168|2021-09-15|2021-06-23|
 |8|[Akshaya-Amar/LeetCodeSolutions](https://github.com/Akshaya-Amar/LeetCodeSolutions)|C++ / JAVA Optimised Solutions for LeetCode Problems    Daily Update|133|2022-03-05|2021-10-09|
 |9|[adarsh-dayanand/Accenture-learning-modules](https://github.com/adarsh-dayanand/Accenture-learning-modules)|Accenture pre hiring learning modules - tekstac|125|2021-11-20|2021-05-19|
 |10|[apache/flink-ml](https://github.com/apache/flink-ml)|Machine learning library of Apache Flink|118|2022-03-04|2021-03-26|
