@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,22 +14,22 @@
 |7|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|6|2021-12-03|2021-09-25|
 |8|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-03-06|2021-09-07|
 |9|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2022-03-06|2021-08-03|
-|10|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-02-28|2021-05-05|
+|10|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-03-07|2021-05-05|
 |11|[EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper)|Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate t ...|6|2022-01-04|2021-03-12|
 |12|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|5|2022-01-15|2021-12-03|
-|13|[scubaandre/SmartThings-Styrbar](https://github.com/scubaandre/SmartThings-Styrbar)|Styrbar four buttons remote device handler for Smartthings.|5|2021-09-05|2021-08-28|
-|14|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
-|15|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|5|2022-03-03|2021-06-30|
-|16|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
-|17|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
-|18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
-|19|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-02-11|2021-10-04|
-|20|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
-|21|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
-|22|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
-|23|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
-|24|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
-|25|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-02-13|2021-05-02|
+|13|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
+|14|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|5|2022-03-03|2021-06-30|
+|15|[rising3/semver-gradle-plugin](https://github.com/rising3/semver-gradle-plugin)|Gradle plugin for Updates the project version.A plugin that can updating the semantic versions like `yarn version` command.|5|2022-01-16|2021-03-20|
+|16|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
+|17|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
+|18|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-02-11|2021-10-04|
+|19|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
+|20|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
+|21|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
+|22|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
+|23|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
+|24|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-02-13|2021-05-02|
+|25|[epi2me-labs/wf-cas9](https://github.com/epi2me-labs/wf-cas9)|-|2|2022-02-23|2022-02-09|
 |26|[aws-samples/serverless-groovy-demo](https://github.com/aws-samples/serverless-groovy-demo)|-|2|2022-02-28|2022-01-11|
 |27|[Nyariki/Terraform-Multipass-With-Cloud-Init](https://github.com/Nyariki/Terraform-Multipass-With-Cloud-Init)|-|2|2022-01-07|2022-01-04|
 |28|[Nyariki/Terraform-Multipass](https://github.com/Nyariki/Terraform-Multipass)|-|2|2022-01-04|2021-12-17|
@@ -59,7 +59,7 @@
 |52|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
 |53|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
 |54|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|55|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-06|2021-06-02|
+|55|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-07|2021-06-02|
 |56|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
 |57|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
 |58|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-02-14|2021-04-24|
