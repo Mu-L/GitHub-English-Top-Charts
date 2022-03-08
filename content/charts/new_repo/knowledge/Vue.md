@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|381|2022-01-11|2021-06-25|
-|2|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|263|2022-03-07|2021-08-17|
+|1|[WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate)|📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool|383|2022-01-11|2021-06-25|
+|2|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook server for managing and playing your audiobooks|277|2022-03-07|2021-08-17|
 |3|[Starz0r/AreWeAntiCheatYet](https://github.com/Starz0r/AreWeAntiCheatYet)|A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.|153|2022-03-03|2021-10-09|
 |4|[supabase-community/database.dev](https://github.com/supabase-community/database.dev)|Curated list of SQL to help you find useful script easily 🚀|123|2021-12-04|2021-09-13|
 |5|[owlnai/isnuxt3ready](https://github.com/owlnai/isnuxt3ready)|A community-built compatibility guide for Nuxt 3 modules|106|2021-12-13|2021-10-21|
@@ -35,11 +35,11 @@
 |28|[apoorvdwi/HacktoberFest-OpenSource-2021](https://github.com/apoorvdwi/HacktoberFest-OpenSource-2021)|A starter Project for HacktoberFest 2021. Read the Description to know how to contribute|9|2021-10-29|2021-10-01|
 |29|[chyj4747/vue3-golden-layout-virtualcomponent](https://github.com/chyj4747/vue3-golden-layout-virtualcomponent)|A demo shows how to use golden-layout's virtual component in vue3|9|2021-09-21|2021-09-20|
 |30|[nyancodeid/mockify](https://github.com/nyancodeid/mockify)|Mockup your Design for Instantly Shareable Images|8|2021-09-18|2021-09-16|
-|31|[sawanm9000/Tailwind-CSS-Cheatsheet](https://github.com/sawanm9000/Tailwind-CSS-Cheatsheet)|Tailwind CSS Cheatsheet (WIP)|8|2022-02-25|2021-09-15|
+|31|[sawanm9000/Tailwind-CSS-Cheatsheet](https://github.com/sawanm9000/Tailwind-CSS-Cheatsheet)|Tailwind CSS Cheatsheet (WIP)|8|2022-03-08|2021-09-15|
 |32|[Talentrator/Prograchallenges.com](https://github.com/Talentrator/Prograchallenges.com)|Learn Programming! Start from zero, become a hero, and finally get a job!|8|2022-02-12|2021-09-12|
 |33|[LauraWebdev/nft-statements](https://github.com/LauraWebdev/nft-statements)|A list of companies and individuals and their stance on NFTs|7|2022-02-07|2022-01-01|
 |34|[imlautaro/supagram](https://github.com/imlautaro/supagram)|An open social network where anyone can share their ideas and opinions.|7|2021-10-13|2021-10-01|
-|35|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|6|2022-03-07|2021-11-12|
+|35|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|6|2022-03-08|2021-11-12|
 |36|[YashGovekar/CoWIN-Slot-Booking](https://github.com/YashGovekar/CoWIN-Slot-Booking)|Fastest automatic slot booking for CoWIN Vaccination.|6|2021-09-15|2021-06-23|
 |37|[abantes/fylo](https://github.com/abantes/fylo)|📁 Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers.|6|2021-11-25|2021-06-08|
 |38|[desiboli/storybook-vue-vuetify](https://github.com/desiboli/storybook-vue-vuetify)|A Storybook 6.x Application with Vue 2 (TypeScript support), SCSS and Vuetify.|5|2021-10-19|2021-03-23|

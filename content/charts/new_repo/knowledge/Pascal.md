@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Pascal
-<sub>Updated: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -22,9 +22,8 @@
 |15|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|2022-02-17|2021-10-06|
 |16|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|2021-09-16|2021-08-28|
 |17|[mvoltz/pascal_raylib](https://github.com/mvoltz/pascal_raylib)|Learning Pascal and Raylib|3|2022-02-11|2021-03-10|
-|18|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2022-02-23|2021-03-08|
-|19|[seanpm2001/Learn-Pascal](https://github.com/seanpm2001/Learn-Pascal)|A repository for showcasing my knowledge of the Pascal programming language, and continuing to learn the language.|2|2021-11-13|2021-11-13|
-|20|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2022-02-09|2021-07-25|
+|18|[seanpm2001/Learn-Pascal](https://github.com/seanpm2001/Learn-Pascal)|A repository for showcasing my knowledge of the Pascal programming language, and continuing to learn the language.|2|2021-11-13|2021-11-13|
+|19|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2022-02-09|2021-07-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

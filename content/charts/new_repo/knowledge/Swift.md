@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|653|2021-11-02|2021-10-19|
-|2|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|611|2022-03-07|2021-07-19|
-|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|588|2022-03-07|2021-04-09|
+|2|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|611|2022-03-08|2021-07-19|
+|3|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|588|2022-03-08|2021-04-09|
 |4|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|297|2022-02-16|2021-10-24|
 |5|[apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)|A benchmarking tool for Swift Collection algorithms|209|2022-02-02|2021-03-19|
 |6|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|133|2021-11-07|2021-11-07|
@@ -15,8 +15,8 @@
 |8|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|87|2021-10-04|2021-10-04|
 |9|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|80|2022-02-08|2021-07-13|
 |10|[xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC)|Simple Half-screen view controller, draggable and less code (learning purpose)|64|2021-09-17|2021-06-06|
-|11|[GetStream/swiftui-spring-animations](https://github.com/GetStream/swiftui-spring-animations)|This repository serves as your reference and complete guide for SwiftUI Spring Animations. It demonstrates use cases for the various types of spring animations and spring parameters. No more guessing  ...|59|2022-03-05|2022-03-01|
-|12|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|57|2021-10-17|2021-05-03|
+|11|[GetStream/swiftui-spring-animations](https://github.com/GetStream/swiftui-spring-animations)|This repository serves as your reference and complete guide for SwiftUI Spring Animations. It demonstrates use cases for the various types of spring animations and spring parameters. No more guessing  ...|60|2022-03-08|2022-03-01|
+|12|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|58|2021-10-17|2021-05-03|
 |13|[cameronshemilt/MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols)|A collection of additional custom SFSymbols for Swift|37|2021-12-20|2021-09-29|
 |14|[tryboxx/SnippetsLibrary](https://github.com/tryboxx/SnippetsLibrary)|Code snippets library for SwiftUI Devs.|37|2022-01-16|2021-09-22|
 |15|[chFlorian/DesignRemakes](https://github.com/chFlorian/DesignRemakes)|A collection of Dribbble designs that I speed-coded in SwiftUI|33|2022-02-22|2021-12-22|
