@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Rust
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -168,43 +168,43 @@
 |161|[CleanCut/ultimate_rust2](https://github.com/CleanCut/ultimate_rust2)|The best Intermediate Rust course out there!|49|2022-02-20|
 |162|[quartiq/stabilizer](https://github.com/quartiq/stabilizer)|Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between|49|2022-03-07|
 |163|[dtolnay/gflags](https://github.com/dtolnay/gflags)|Command line flags library that does not require a central list of all the flags|49|2022-01-22|
-|164|[ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer)|Learning webgpu in rust by making a simple platformer|47|2021-09-07|
-|165|[heremaps/flexible-polyline](https://github.com/heremaps/flexible-polyline)|Flexible Polyline encoding: a lossy compressed representation of a list of coordinate pairs or triples|47|2021-11-18|
-|166|[PacktPublishing/Rust-Programming-Cookbook](https://github.com/PacktPublishing/Rust-Programming-Cookbook)|Rust Programming Cookbook, published by Packt|47|2021-10-20|
-|167|[DioxusLabs/awesome-dioxus](https://github.com/DioxusLabs/awesome-dioxus)|An awesome list of Dioxus-related content and resources|45|2022-01-13|
-|168|[facebookresearch/dachshund](https://github.com/facebookresearch/dachshund)|Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provi ...|45|2022-03-01|
-|169|[dragfire/leetup](https://github.com/dragfire/leetup)|Command line tool to solve Leetcode problems. Leet it up!!|45|2022-01-20|
-|170|[dmitmel/sorting-visualization](https://github.com/dmitmel/sorting-visualization)|A Rust program for visualizing sorting algorithms which uses Piston for graphics. Inspired by https://github.com/Hopson97/Sort-Algorithm-Visualiser|44|2021-11-27|
-|171|[gnzlbg/bitwise](https://github.com/gnzlbg/bitwise)|Portable high-level bitwise manipulation algorithms|44|2021-10-01|
-|172|[Learn-Together-Pro/LearnRustTogether](https://github.com/Learn-Together-Pro/LearnRustTogether)|Let's learn Rust together|43|2022-01-29|
-|173|[alexxroche/rustlings-idiomatic-solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions)|A curated collection of solutions to the rustlings exercises|43|2022-02-22|
-|174|[layer5io/wasm-filters](https://github.com/layer5io/wasm-filters)|A collection of Rust-based WebAssembly programs that are deployed as Envoy filters.|43|2022-03-01|
-|175|[Chicoryn/dream-go](https://github.com/Chicoryn/dream-go)|Artificial go player based on reinforcement and supervised learning|43|2022-03-04|
-|176|[expenses/line_drawing](https://github.com/expenses/line_drawing)|A collection of line-drawing algorithms for use in graphics and video games.|43|2022-02-21|
-|177|[scrabsha/dep-doc](https://github.com/scrabsha/dep-doc)|Add a cute dependency declaration snippet in your crate documentation.|42|2021-11-22|
-|178|[Psychedelic/dank](https://github.com/Psychedelic/dank)|Dank - The Internet Computer Decentralized Bank - A collection of Open Internet Services - Including the Cycles Token (XTC)|42|2022-01-27|
-|179|[sytsereitsma/mdbook-plantuml](https://github.com/sytsereitsma/mdbook-plantuml)|mdBook preprocessor to render PlantUML diagrams to png images in the book output directory|42|2022-03-05|
-|180|[FyroxEngine/Fyrox-tutorials](https://github.com/FyroxEngine/Fyrox-tutorials)|Source code of tutorials for Fyrox Game Engine (formerly known as rg3d)|39|2022-01-13|
-|181|[instrumentisto/rust-incubator](https://github.com/instrumentisto/rust-incubator)|Learning Rust step-by-step.|39|2022-01-13|
-|182|[s1ck/graph](https://github.com/s1ck/graph)|A library of high-performant graph algorithms.|38|2022-03-08|
-|183|[dtolnay/scratch](https://github.com/dtolnay/scratch)|Compile-time temporary directory shared by multiple crates and erased by `cargo clean`|38|2022-01-01|
-|184|[hoodie/icalendar-rs](https://github.com/hoodie/icalendar-rs)|📆 icalendar library, in Rust of course - for fun|38|2022-01-24|
-|185|[jjfiv/fastrank](https://github.com/jjfiv/fastrank)|My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".|37|2022-01-24|
-|186|[epilys/bitmappers-companion](https://github.com/epilys/bitmappers-companion)|zine/book about bitmap drawing algorithms and math with code examples in Rust|36|2022-01-09|
-|187|[hasenbanck/egui_example](https://github.com/hasenbanck/egui_example)|Simple example on how to use egui with wgpu and winit.|36|2022-01-31|
-|188|[RustCrypto/KDFs](https://github.com/RustCrypto/KDFs)|Collection of Key Derivation Functions written in pure Rust |36|2022-02-21|
-|189|[os2edu/rust-basics-course](https://github.com/os2edu/rust-basics-course)|rust-basics course of https://rust.os2edu.cn|35|2022-03-06|
-|190|[hcdenbakker/sepia](https://github.com/hcdenbakker/sepia)|taxonomic classifier based on the kraken2 algorithms and more|35|2022-02-06|
-|191|[jakobwesthoff/the_ray_tracer_challenge_in_rust](https://github.com/jakobwesthoff/the_ray_tracer_challenge_in_rust)|Repository to follow my development of "The Raytracer Challenge" book by Jamis Buck in the language Rust|34|2022-03-02|
-|192|[scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit)|A collection of Rust packages that contain common tools used in development of Secret Contracts|34|2022-03-07|
-|193|[FKLC/PyVM](https://github.com/FKLC/PyVM)|A Python Virtual Machine implemented in Rust. For learning purposes.|34|2021-11-07|
-|194|[EatTheFuture/image_tools](https://github.com/EatTheFuture/image_tools)|Eat the Future's collection of image/color tools.|33|2022-02-16|
-|195|[franktea/leetcode-rust](https://github.com/franktea/leetcode-rust)|leetcode with rust|33|2022-03-03|
-|196|[siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust)|P523 Course in Rust|31|2021-11-30|
-|197|[togatoga/screwsat](https://github.com/togatoga/screwsat)|A simple CDCL(Conflict-Driven-Clause-Learning) SAT solver in Rust.|31|2021-09-11|
-|198|[king-11/genx](https://github.com/king-11/genx)|Genx provides modular building blocks to run simulations of optimization and search problems using Genetic Algorithms |30|2021-12-06|
-|199|[soaxelbrooke/phrase](https://github.com/soaxelbrooke/phrase)|A tool for learning significant phrase/term models, and efficiently labeling with them.|30|2021-12-25|
-|200|[kampersanda/sucds](https://github.com/kampersanda/sucds)|Collection of succinct data structures in Rust|29|2022-02-25|
+|164|[heremaps/flexible-polyline](https://github.com/heremaps/flexible-polyline)|Flexible Polyline encoding: a lossy compressed representation of a list of coordinate pairs or triples|47|2021-11-18|
+|165|[PacktPublishing/Rust-Programming-Cookbook](https://github.com/PacktPublishing/Rust-Programming-Cookbook)|Rust Programming Cookbook, published by Packt|47|2021-10-20|
+|166|[DioxusLabs/awesome-dioxus](https://github.com/DioxusLabs/awesome-dioxus)|An awesome list of Dioxus-related content and resources|45|2022-01-13|
+|167|[facebookresearch/dachshund](https://github.com/facebookresearch/dachshund)|Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provi ...|45|2022-03-01|
+|168|[dragfire/leetup](https://github.com/dragfire/leetup)|Command line tool to solve Leetcode problems. Leet it up!!|45|2022-01-20|
+|169|[dmitmel/sorting-visualization](https://github.com/dmitmel/sorting-visualization)|A Rust program for visualizing sorting algorithms which uses Piston for graphics. Inspired by https://github.com/Hopson97/Sort-Algorithm-Visualiser|44|2021-11-27|
+|170|[gnzlbg/bitwise](https://github.com/gnzlbg/bitwise)|Portable high-level bitwise manipulation algorithms|44|2021-10-01|
+|171|[Learn-Together-Pro/LearnRustTogether](https://github.com/Learn-Together-Pro/LearnRustTogether)|Let's learn Rust together|43|2022-01-29|
+|172|[alexxroche/rustlings-idiomatic-solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions)|A curated collection of solutions to the rustlings exercises|43|2022-02-22|
+|173|[layer5io/wasm-filters](https://github.com/layer5io/wasm-filters)|A collection of Rust-based WebAssembly programs that are deployed as Envoy filters.|43|2022-03-01|
+|174|[Chicoryn/dream-go](https://github.com/Chicoryn/dream-go)|Artificial go player based on reinforcement and supervised learning|43|2022-03-04|
+|175|[expenses/line_drawing](https://github.com/expenses/line_drawing)|A collection of line-drawing algorithms for use in graphics and video games.|43|2022-02-21|
+|176|[scrabsha/dep-doc](https://github.com/scrabsha/dep-doc)|Add a cute dependency declaration snippet in your crate documentation.|42|2021-11-22|
+|177|[Psychedelic/dank](https://github.com/Psychedelic/dank)|Dank - The Internet Computer Decentralized Bank - A collection of Open Internet Services - Including the Cycles Token (XTC)|42|2022-01-27|
+|178|[sytsereitsma/mdbook-plantuml](https://github.com/sytsereitsma/mdbook-plantuml)|mdBook preprocessor to render PlantUML diagrams to png images in the book output directory|42|2022-03-05|
+|179|[FyroxEngine/Fyrox-tutorials](https://github.com/FyroxEngine/Fyrox-tutorials)|Source code of tutorials for Fyrox Game Engine (formerly known as rg3d)|39|2022-01-13|
+|180|[instrumentisto/rust-incubator](https://github.com/instrumentisto/rust-incubator)|Learning Rust step-by-step.|39|2022-01-13|
+|181|[s1ck/graph](https://github.com/s1ck/graph)|A library of high-performant graph algorithms.|38|2022-03-08|
+|182|[dtolnay/scratch](https://github.com/dtolnay/scratch)|Compile-time temporary directory shared by multiple crates and erased by `cargo clean`|38|2022-01-01|
+|183|[hoodie/icalendar-rs](https://github.com/hoodie/icalendar-rs)|📆 icalendar library, in Rust of course - for fun|38|2022-01-24|
+|184|[jjfiv/fastrank](https://github.com/jjfiv/fastrank)|My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".|37|2022-01-24|
+|185|[epilys/bitmappers-companion](https://github.com/epilys/bitmappers-companion)|zine/book about bitmap drawing algorithms and math with code examples in Rust|36|2022-01-09|
+|186|[hasenbanck/egui_example](https://github.com/hasenbanck/egui_example)|Simple example on how to use egui with wgpu and winit.|36|2022-01-31|
+|187|[RustCrypto/KDFs](https://github.com/RustCrypto/KDFs)|Collection of Key Derivation Functions written in pure Rust |36|2022-02-21|
+|188|[os2edu/rust-basics-course](https://github.com/os2edu/rust-basics-course)|rust-basics course of https://rust.os2edu.cn|35|2022-03-06|
+|189|[hcdenbakker/sepia](https://github.com/hcdenbakker/sepia)|taxonomic classifier based on the kraken2 algorithms and more|35|2022-02-06|
+|190|[jakobwesthoff/the_ray_tracer_challenge_in_rust](https://github.com/jakobwesthoff/the_ray_tracer_challenge_in_rust)|Repository to follow my development of "The Raytracer Challenge" book by Jamis Buck in the language Rust|34|2022-03-02|
+|191|[scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit)|A collection of Rust packages that contain common tools used in development of Secret Contracts|34|2022-03-07|
+|192|[FKLC/PyVM](https://github.com/FKLC/PyVM)|A Python Virtual Machine implemented in Rust. For learning purposes.|34|2021-11-07|
+|193|[EatTheFuture/image_tools](https://github.com/EatTheFuture/image_tools)|Eat the Future's collection of image/color tools.|33|2022-02-16|
+|194|[franktea/leetcode-rust](https://github.com/franktea/leetcode-rust)|leetcode with rust|33|2022-03-03|
+|195|[siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust)|P523 Course in Rust|31|2021-11-30|
+|196|[togatoga/screwsat](https://github.com/togatoga/screwsat)|A simple CDCL(Conflict-Driven-Clause-Learning) SAT solver in Rust.|31|2021-09-11|
+|197|[king-11/genx](https://github.com/king-11/genx)|Genx provides modular building blocks to run simulations of optimization and search problems using Genetic Algorithms |30|2021-12-06|
+|198|[soaxelbrooke/phrase](https://github.com/soaxelbrooke/phrase)|A tool for learning significant phrase/term models, and efficiently labeling with them.|30|2021-12-25|
+|199|[kampersanda/sucds](https://github.com/kampersanda/sucds)|Collection of succinct data structures in Rust|29|2022-02-25|
+|200|[max-block/solana-examples](https://github.com/max-block/solana-examples)|Examples of Solana on-chain programs|29|2022-02-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

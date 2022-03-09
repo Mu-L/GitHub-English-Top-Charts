@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Shell
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|3042|42|2022-03-08|
+|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|3042|41|2022-03-08|
 |2|[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|📖 A collection of pure bash alternatives to external processes.|30592|22|2022-02-17|
 |3|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|53360|18|2022-01-28|
 |4|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23367|16|2022-03-07|
 |5|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|30934|15|2022-02-17|
-|6|[cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db)|A community sourced list of log4j-affected software|1076|13|2022-03-07|
+|6|[cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db)|A community sourced list of log4j-affected software|1076|12|2022-03-07|
 |7|[trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)|How to improve NGINX performance, security, and other important things.|12562|11|2021-10-20|
-|8|[TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished)|Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.|90|10|2022-03-01|
+|8|[TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished)|Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.|90|9|2022-03-01|
 |9|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|10401|6|2021-12-15|
 |10|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6719|6|2022-03-03|
 |11|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|12533|5|2022-03-01|

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Vue
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8563|75|2022-03-03|
+|1|[Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)|Chrome extension to return youtube dislikes|8563|74|2022-03-03|
 |2|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|74530|42|2022-02-24|
 |3|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|38533|41|2022-03-08|
 |4|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51750|26|2022-03-04|
@@ -23,30 +23,30 @@
 |16|[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)|Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.|8841|9|2022-03-08|
 |17|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17582|8|2021-09-17|
 |18|[Requarks/wiki](https://github.com/Requarks/wiki)|Wiki.js   A modern and powerful wiki app built on Node.js|15493|8|2022-03-03|
-|19|[uptrace/uptrace](https://github.com/uptrace/uptrace)|Distributed tracing using OpenTelemetry and ClickHouse|578|8|2022-02-26|
-|20|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15298|8|2022-02-15|
-|21|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14557|8|2022-01-18|
-|22|[kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin)|A set of background integration scheme based on vue3, element plus, typesscript4 and vite2|145|8|2022-03-07|
-|23|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|1203|8|2022-02-26|
-|24|[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)|Mobile UI elements for Vue.js|16483|8|2022-02-28|
+|19|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15298|8|2022-02-15|
+|20|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14557|8|2022-01-18|
+|21|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|1203|8|2022-02-26|
+|22|[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)|Mobile UI elements for Vue.js|16483|8|2022-02-28|
+|23|[uptrace/uptrace](https://github.com/uptrace/uptrace)|Distributed tracing using OpenTelemetry and ClickHouse|578|7|2022-02-26|
+|24|[kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin)|A set of background integration scheme based on vue3, element plus, typesscript4 and vite2|145|7|2022-03-07|
 |25|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9186|7|2022-02-23|
 |26|[bestony/logoly](https://github.com/bestony/logoly)|A Pornhub Flavour Logo Generator|6315|6|2022-03-08|
 |27|[vuematerial/vue-material](https://github.com/vuematerial/vue-material)|Material design for Vue.js|9568|5|2022-02-22|
 |28|[XiangZi7/glassesbeautifulgirl_code](https://github.com/XiangZi7/glassesbeautifulgirl_code)|-|77|5|2022-02-22|
 |29|[evrimagaci/periodum](https://github.com/evrimagaci/periodum)|Periodum: An Interactive, Open-Source Periodic Table!|316|5|2022-03-04|
 |30|[epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin)|Free and Beautiful Vue 3 Admin Template|8524|5|2022-02-26|
-|31|[daidr/truth-table](https://github.com/daidr/truth-table)|根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)|18|5|2022-03-07|
-|32|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|6204|5|2021-11-29|
-|33|[buefy/buefy](https://github.com/buefy/buefy)|Lightweight UI components for Vue.js based on Bulma|9130|5|2022-03-02|
-|34|[tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4554|5|2022-02-27|
-|35|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|5974|4|2022-03-08|
-|36|[retnullyu/myscanner-front](https://github.com/retnullyu/myscanner-front)|a vuln scanner powered by springboot&spring security and vueadmin|105|4|2022-02-08|
-|37|[xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)|🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）|2100|4|2022-03-08|
-|38|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4029|4|2022-03-02|
-|39|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|3443|4|2022-01-18|
-|40|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!|1390|4|2022-03-08|
-|41|[museui/muse-ui](https://github.com/museui/muse-ui)|Material Design UI library for Vuejs 2.0|8296|4|2022-02-11|
-|42|[TeamPiped/Piped](https://github.com/TeamPiped/Piped)|An alternative privacy-friendly YouTube frontend which is efficient by design.|1830|4|2022-03-07|
+|31|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|6204|5|2021-11-29|
+|32|[buefy/buefy](https://github.com/buefy/buefy)|Lightweight UI components for Vue.js based on Bulma|9130|5|2022-03-02|
+|33|[tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4554|5|2022-02-27|
+|34|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|5974|4|2022-03-08|
+|35|[retnullyu/myscanner-front](https://github.com/retnullyu/myscanner-front)|a vuln scanner powered by springboot&spring security and vueadmin|105|4|2022-02-08|
+|36|[xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)|🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）|2100|4|2022-03-08|
+|37|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4029|4|2022-03-02|
+|38|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|3443|4|2022-01-18|
+|39|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!|1390|4|2022-03-08|
+|40|[museui/muse-ui](https://github.com/museui/muse-ui)|Material Design UI library for Vuejs 2.0|8296|4|2022-02-11|
+|41|[TeamPiped/Piped](https://github.com/TeamPiped/Piped)|An alternative privacy-friendly YouTube frontend which is efficient by design.|1830|4|2022-03-07|
+|42|[daidr/truth-table](https://github.com/daidr/truth-table)|根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)|18|4|2022-03-07|
 |43|[varletjs/varlet](https://github.com/varletjs/varlet)|基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3|2131|4|2022-03-07|
 |44|[lusaxweb/vuesax](https://github.com/lusaxweb/vuesax)|New Framework Components for Vue.js 2|5364|4|2021-10-31|
 |45|[antfu/icones](https://github.com/antfu/icones)|⚡️ Icon Explorer with Instant searching, powered by Iconify|1706|3|2022-02-24|
@@ -183,28 +183,28 @@
 |176|[LouanBen/wordle-fr](https://github.com/LouanBen/wordle-fr)|"Le Mot" un Wordle en français.|78|1|2022-03-07|
 |177|[tower1229/Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control)|:gem: Frontend access control framework based Vue|1062|1|2022-02-27|
 |178|[mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices)|Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.|295|1|2022-03-01|
-|179|[or-abdillh/chat-app](https://github.com/or-abdillh/chat-app)|Project slicing design UI to real interface uisng Vue JS and Tailwind #08|12|1|2022-03-04|
-|180|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|782|1|2022-02-16|
-|181|[snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)|Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot|500|1|2022-03-08|
-|182|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|230|1|2022-03-08|
-|183|[Splode/pomotroid](https://github.com/Splode/pomotroid)|:tomato: Simple and visually-pleasing Pomodoro timer|2215|1|2022-03-01|
-|184|[mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu)|🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/|715|1|2022-02-26|
-|185|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|63|1|2022-02-25|
-|186|[HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone)|🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis|324|1|2022-03-03|
-|187|[kochrt/cascade.page](https://github.com/kochrt/cascade.page)|Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.|312|1|2022-03-07|
-|188|[mttaggart/wtfbins](https://github.com/mttaggart/wtfbins)|WTF are these binaries doing?! A list of benign applications that mimic malicious behavior.|8|1|2022-03-07|
-|189|[stevebauman/showcode](https://github.com/stevebauman/showcode)|Create beautiful images of code.|165|1|2022-02-24|
-|190|[nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org)|Nuxt Documentation Website|2037|1|2022-03-08|
-|191|[Akryum/guijs](https://github.com/Akryum/guijs)|🐣️ The app that makes your #devlife easier.|1150|1|2022-02-26|
-|192|[hellowuxin/mindmap](https://github.com/hellowuxin/mindmap)|Mindmap component for Vue2|404|1|2022-01-15|
-|193|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|1930|1|2022-02-26|
-|194|[Find-Shelter/find-shelter](https://github.com/Find-Shelter/find-shelter)|Website aiming to help Ukrainian refugees coming to France find a shelter.|12|1|2022-03-04|
-|195|[amir20/dozzle](https://github.com/amir20/dozzle)|Realtime log viewer for docker containers. |1351|1|2022-03-08|
-|196|[ratiw/vuetable-2](https://github.com/ratiw/vuetable-2)|data table simplify! -- datatable component for Vue 2.x. See documentation at |2137|1|2022-03-01|
-|197|[windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)|🍃 Windi CSS for Nuxt.js ⚡|283|1|2022-03-03|
-|198|[BinarCode/vue2-transitions](https://github.com/BinarCode/vue2-transitions)|✨ Reusable Vue 2 transition components|778|1|2022-02-26|
-|199|[SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer)|:cake: Easy-to-use music player for Vue 2.x|1198|1|2022-03-07|
-|200|[wmui/essay](https://github.com/wmui/essay)|A blog system based on Nuxt.js|929|1|2022-01-12|
+|179|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|782|1|2022-02-16|
+|180|[snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)|Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot|500|1|2022-03-08|
+|181|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|230|1|2022-03-08|
+|182|[Splode/pomotroid](https://github.com/Splode/pomotroid)|:tomato: Simple and visually-pleasing Pomodoro timer|2215|1|2022-03-01|
+|183|[mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu)|🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/|715|1|2022-02-26|
+|184|[zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)|A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!|63|1|2022-02-25|
+|185|[HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone)|🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis|324|1|2022-03-03|
+|186|[kochrt/cascade.page](https://github.com/kochrt/cascade.page)|Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.|312|1|2022-03-07|
+|187|[mttaggart/wtfbins](https://github.com/mttaggart/wtfbins)|WTF are these binaries doing?! A list of benign applications that mimic malicious behavior.|8|1|2022-03-07|
+|188|[stevebauman/showcode](https://github.com/stevebauman/showcode)|Create beautiful images of code.|165|1|2022-02-24|
+|189|[nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org)|Nuxt Documentation Website|2037|1|2022-03-08|
+|190|[Akryum/guijs](https://github.com/Akryum/guijs)|🐣️ The app that makes your #devlife easier.|1150|1|2022-02-26|
+|191|[hellowuxin/mindmap](https://github.com/hellowuxin/mindmap)|Mindmap component for Vue2|404|1|2022-01-15|
+|192|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|1930|1|2022-02-26|
+|193|[Find-Shelter/find-shelter](https://github.com/Find-Shelter/find-shelter)|Website aiming to help Ukrainian refugees coming to France find a shelter.|12|1|2022-03-04|
+|194|[amir20/dozzle](https://github.com/amir20/dozzle)|Realtime log viewer for docker containers. |1351|1|2022-03-08|
+|195|[ratiw/vuetable-2](https://github.com/ratiw/vuetable-2)|data table simplify! -- datatable component for Vue 2.x. See documentation at |2137|1|2022-03-01|
+|196|[windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)|🍃 Windi CSS for Nuxt.js ⚡|283|1|2022-03-03|
+|197|[BinarCode/vue2-transitions](https://github.com/BinarCode/vue2-transitions)|✨ Reusable Vue 2 transition components|778|1|2022-02-26|
+|198|[SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer)|:cake: Easy-to-use music player for Vue 2.x|1198|1|2022-03-07|
+|199|[wmui/essay](https://github.com/wmui/essay)|A blog system based on Nuxt.js|929|1|2022-01-12|
+|200|[BinarCode/vue-form-wizard](https://github.com/BinarCode/vue-form-wizard)|Vue.js 2 wizard|1101|1|2022-03-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

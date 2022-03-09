@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Kotlin
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -189,22 +189,22 @@
 |182|[FaceOnLive/Realtime-Background-Changer-SDK-Android](https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android)|Realtime, Accurate Background Changer, Portrait Segmentation, Portrait Matting, Background Removal for Android|72|2021-12-04|2021-10-04|
 |183|[ultimateHandsomeBoy666/Particle](https://github.com/ultimateHandsomeBoy666/Particle)|A particle view library written in kotlin, easy to use|72|2021-10-11|2021-06-30|
 |184|[vcaen/splashscreen-sample](https://github.com/vcaen/splashscreen-sample)|Sample Repository to demo the AndroidX Splash Screen library|71|2022-01-20|2021-07-01|
-|185|[zsoltk/chesso](https://github.com/zsoltk/chesso)|Jetpack Compose-based chess app with visualisation layers.|71|2021-09-07|2021-05-19|
-|186|[boguszpawlowski/ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar)|A Jetpack Compose library for handling calendar component rendering.|71|2022-03-05|2021-04-06|
-|187|[kojofosu/PasswordValidationView](https://github.com/kojofosu/PasswordValidationView)|Android UI component to validate passwords.|70|2021-11-28|2021-10-19|
-|188|[SonarSource/sonar-kotlin](https://github.com/SonarSource/sonar-kotlin)|SonarSource Static Analyzer for Kotlin Code Quality and Security|70|2022-02-25|2021-06-17|
-|189|[PatinaMC/Patina](https://github.com/PatinaMC/Patina)|A distribution of performance-oriented Minecraft Server patches based on PaperMC.|70|2022-03-07|2021-04-17|
-|190|[StephenVinouze/SegmentedProgressBar](https://github.com/StephenVinouze/SegmentedProgressBar)|Beautiful progress bar with segments. Highly customizable. Fully written with Jetpack Compose|69|2022-01-21|2022-01-04|
-|191|[Shashank02051997/VegetableOrderUI-Android](https://github.com/Shashank02051997/VegetableOrderUI-Android)|Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...😉😀😁😎|69|2022-02-23|2021-08-04|
-|192|[x13a/Silence](https://github.com/x13a/Silence)|Block unknown callers.|69|2022-03-06|2021-06-11|
-|193|[tytydraco/Buoy](https://github.com/tytydraco/Buoy)|An extension to the built in Android Battery Saver|69|2021-12-17|2021-03-31|
-|194|[oooo7777777/VLibrary](https://github.com/oooo7777777/VLibrary)|MVVM+DataBinding+ViewModel+lifecycle+kotlin+liveData+Coroutines|69|2022-03-03|2021-03-12|
-|195|[yumemi-inc/android-engineer-codecheck](https://github.com/yumemi-inc/android-engineer-codecheck)|This is a code check task for Android engineers employment in YUMEMI.|68|2022-01-14|2021-08-31|
-|196|[SimformSolutionsPvtLtd/SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)|SSPullToRefresh makes PullRefresh easy to use, you can provide your own custom animations or set simple gifs on refresh view. The best feature is Lottie animations in refresh view, it uses lottie anim ...|68|2021-12-31|2021-06-22|
-|197|[fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon)|Fix the native notification bar icon function abandoned by the MIUI development team.|67|2022-03-05|2022-01-24|
-|198|[Doist/ffs](https://github.com/Doist/ffs)|Feature flags solution that is fast, lean, and open-source.|67|2022-03-08|2022-01-13|
-|199|[FaceOnLive/ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android)|On-Device ID Card & Passport & Driver License Recognition SDK for Android|67|2021-12-30|2021-11-03|
-|200|[Ahmad-Hamwi/TabSync](https://github.com/Ahmad-Hamwi/TabSync)|A lightweight synchronizer between Android's TabLayout and RecyclerView.|67|2021-12-07|2021-08-21|
+|185|[boguszpawlowski/ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar)|A Jetpack Compose library for handling calendar component rendering.|71|2022-03-05|2021-04-06|
+|186|[kojofosu/PasswordValidationView](https://github.com/kojofosu/PasswordValidationView)|Android UI component to validate passwords.|70|2021-11-28|2021-10-19|
+|187|[SonarSource/sonar-kotlin](https://github.com/SonarSource/sonar-kotlin)|SonarSource Static Analyzer for Kotlin Code Quality and Security|70|2022-02-25|2021-06-17|
+|188|[PatinaMC/Patina](https://github.com/PatinaMC/Patina)|A distribution of performance-oriented Minecraft Server patches based on PaperMC.|70|2022-03-07|2021-04-17|
+|189|[StephenVinouze/SegmentedProgressBar](https://github.com/StephenVinouze/SegmentedProgressBar)|Beautiful progress bar with segments. Highly customizable. Fully written with Jetpack Compose|69|2022-01-21|2022-01-04|
+|190|[Shashank02051997/VegetableOrderUI-Android](https://github.com/Shashank02051997/VegetableOrderUI-Android)|Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...😉😀😁😎|69|2022-02-23|2021-08-04|
+|191|[x13a/Silence](https://github.com/x13a/Silence)|Block unknown callers.|69|2022-03-06|2021-06-11|
+|192|[tytydraco/Buoy](https://github.com/tytydraco/Buoy)|An extension to the built in Android Battery Saver|69|2021-12-17|2021-03-31|
+|193|[oooo7777777/VLibrary](https://github.com/oooo7777777/VLibrary)|MVVM+DataBinding+ViewModel+lifecycle+kotlin+liveData+Coroutines|69|2022-03-03|2021-03-12|
+|194|[yumemi-inc/android-engineer-codecheck](https://github.com/yumemi-inc/android-engineer-codecheck)|This is a code check task for Android engineers employment in YUMEMI.|68|2022-01-14|2021-08-31|
+|195|[SimformSolutionsPvtLtd/SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)|SSPullToRefresh makes PullRefresh easy to use, you can provide your own custom animations or set simple gifs on refresh view. The best feature is Lottie animations in refresh view, it uses lottie anim ...|68|2021-12-31|2021-06-22|
+|196|[fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon)|Fix the native notification bar icon function abandoned by the MIUI development team.|67|2022-03-05|2022-01-24|
+|197|[Doist/ffs](https://github.com/Doist/ffs)|Feature flags solution that is fast, lean, and open-source.|67|2022-03-08|2022-01-13|
+|198|[FaceOnLive/ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android)|On-Device ID Card & Passport & Driver License Recognition SDK for Android|67|2021-12-30|2021-11-03|
+|199|[Ahmad-Hamwi/TabSync](https://github.com/Ahmad-Hamwi/TabSync)|A lightweight synchronizer between Android's TabLayout and RecyclerView.|67|2021-12-07|2021-08-21|
+|200|[KaustubhPatange/navigator](https://github.com/KaustubhPatange/navigator)|A small navigation library for Android to ease the use of fragment transactions & handling backstack (also available for Jetpack Compose).|67|2022-02-25|2021-04-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

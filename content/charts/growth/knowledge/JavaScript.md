@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > JavaScript
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|341845|130|2022-03-08|
 |2|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|136601|94|2022-03-06|
-|3|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|42835|89|2022-03-08|
+|3|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|42835|88|2022-03-08|
 |4|[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)|Short JavaScript code snippets for all your development needs|92833|59|2022-03-02|
 |5|[iptv-org/iptv](https://github.com/iptv-org/iptv)|Collection of publicly available IPTV channels from all over the world|47268|39|2022-03-08|
 |6|[AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)|Roadmap to becoming an Artificial Intelligence Expert in 2022|18583|37|2022-02-10|
@@ -103,56 +103,56 @@
 |96|[davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)|:pencil: A curated list of Web Performance Optimization. Everyone can contribute here!|7379|3|2022-03-03|
 |97|[antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)|💎 A collection of lightweight React components and hooks to build diagrams with ease 💎|2350|3|2022-03-07|
 |98|[su37josephxia/wheel-awesome](https://github.com/su37josephxia/wheel-awesome)|天天造轮子，手写面试常见源码。|971|2|2022-02-26|
-|99|[kentcdodds/advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks)|Learn Advanced React Hooks workshop|1576|2|2022-02-24|
-|100|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|552|2|2022-02-28|
-|101|[IceEnd/Yosoro](https://github.com/IceEnd/Yosoro)|:shaved_ice:Beautiful Markdown NoteBook. 🏖|2638|2|2022-03-01|
-|102|[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)|Drafts your next release notes as pull requests are merged into master. |2252|2|2022-03-07|
-|103|[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)|Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.|2601|2|2021-09-11|
-|104|[kentcdodds/advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)|This is the latest advanced react patterns workshop|2185|2|2022-02-01|
-|105|[riccardoscalco/textures](https://github.com/riccardoscalco/textures)|Textures.js is a JavaScript library for creating SVG patterns|5911|2|2022-03-01|
-|106|[wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)|A list of /uses pages detailing developer setups, gear, software and configs.|3924|2|2022-03-07|
-|107|[fireship-io/node-crypto-examples](https://github.com/fireship-io/node-crypto-examples)|7 Useful Examples of Cryptography in Node.js|277|2|2021-11-03|
-|108|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2305|2|2022-02-17|
-|109|[skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli)|A cli tool to enjoy leetcode!|3207|2|2022-02-06|
-|110|[siriwatknp/mui-treasury](https://github.com/siriwatknp/mui-treasury)|A collection of ready-to-use components based on Material-UI|1927|2|2022-03-02|
-|111|[cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)|📗📒 (PT-Br translation) JS Book Series.|3888|2|2022-02-14|
-|112|[i18next/i18next](https://github.com/i18next/i18next)| i18next: learn once - translate everywhere|6097|2|2022-03-03|
-|113|[documentationjs/documentation](https://github.com/documentationjs/documentation)|:book: documentation for modern JavaScript|5474|2|2022-03-07|
-|114|[strapi/awesome-strapi](https://github.com/strapi/awesome-strapi)|A curated list of awesome things related to Strapi|1169|2|2022-01-20|
-|115|[egoist/vue-content-loader](https://github.com/egoist/vue-content-loader)|SVG component to create placeholder loading, like Facebook cards loading.|2818|2|2022-03-01|
-|116|[kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks)|Learn React Hooks! 🎣 ⚛|2122|2|2022-02-19|
-|117|[HVF/franchise](https://github.com/HVF/franchise)|🍟 a notebook sql client. what you get when have a lot of sequels.|3833|2|2022-02-26|
-|118|[thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)|A game for learning CSS flexbox 🐸|5517|2|2022-01-14|
-|119|[BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)|Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud|4169|2|2022-02-13|
-|120|[pomber/covid19](https://github.com/pomber/covid19)|JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily|1223|2|2022-03-08|
-|121|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|814|2|2022-02-24|
-|122|[feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)|The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀 |2891|2|2022-02-27|
-|123|[JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)|A collection of JetBrains Web UI components|2924|2|2022-03-07|
-|124|[marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)|Share terminal sessions via SVG and CSS|2742|2|2022-03-08|
-|125|[vercel/next-learn](https://github.com/vercel/next-learn)|Learn Next.js Starter Code|1176|2|2022-02-18|
-|126|[semlinker/reactjs-interview-questions](https://github.com/semlinker/reactjs-interview-questions)|List of top 304 ReactJS Interview Questions & Answers|1941|2|2021-12-26|
-|127|[alozano-77/AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course)|Personal notes for SAA-C02 test from: https://learn.cantrill.io|1075|2|2021-12-31|
-|128|[ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)|A collection of various notebook extensions for Jupyter|4781|2|2021-12-03|
-|129|[terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)|A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me|1297|2|2021-10-15|
-|130|[umdjs/umd](https://github.com/umdjs/umd)|UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.|7050|2|2022-02-25|
-|131|[GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples)|A collection of prototyped UI elements|4010|2|2022-02-11|
-|132|[loomnetwork/cryptozombies-lesson-code](https://github.com/loomnetwork/cryptozombies-lesson-code)|cryptozomebie lesson code|1343|2|2022-02-09|
-|133|[mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)|💻 JavaScript implementations of computer science algorithms|7120|2|2022-01-11|
-|134|[emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets)|A collection of UI Snippets.|1886|2|2022-02-27|
-|135|[mediaelement/mediaelement](https://github.com/mediaelement/mediaelement)|HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all ...|7798|2|2022-02-07|
-|136|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|548|2|2021-09-15|
-|137|[StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)|Starter pack for an awesome Udemy course|3569|2|2022-02-18|
-|138|[vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui)|Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.|1877|2|2022-03-07|
-|139|[FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations)|🎊 A collection of animations for inline style libraries|3001|2|2022-03-03|
-|140|[jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable)|Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g ...|5301|2|2022-02-20|
-|141|[negomi/react-burger-menu](https://github.com/negomi/react-burger-menu)|:hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations|4589|2|2022-02-11|
-|142|[fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)|Project codes used in "The Docker Handbook"|1056|2|2022-02-25|
-|143|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|375|2|2022-03-02|
-|144|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|354|2|2021-12-26|
-|145|[denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook)|:book: For those who wanna learn Bash|4786|2|2022-02-24|
-|146|[css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)|🎨  A web component for drawing patterns with CSS.|4166|2|2022-03-08|
-|147|[evilsoft/crocks](https://github.com/evilsoft/crocks)|A collection of well known Algebraic Data Types for your utter enjoyment.|1506|1|2022-02-12|
-|148|[mswjs/examples](https://github.com/mswjs/examples)|Examples of Mock Service Worker usage with various frameworks and libraries.|332|1|2022-03-03|
+|99|[datastaxdevs/workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix)|Workshop to illustrate how to use GraphQL|552|2|2022-02-28|
+|100|[IceEnd/Yosoro](https://github.com/IceEnd/Yosoro)|:shaved_ice:Beautiful Markdown NoteBook. 🏖|2638|2|2022-03-01|
+|101|[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)|Drafts your next release notes as pull requests are merged into master. |2252|2|2022-03-07|
+|102|[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)|Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.|2601|2|2021-09-11|
+|103|[kentcdodds/advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)|This is the latest advanced react patterns workshop|2185|2|2022-02-01|
+|104|[riccardoscalco/textures](https://github.com/riccardoscalco/textures)|Textures.js is a JavaScript library for creating SVG patterns|5911|2|2022-03-01|
+|105|[wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)|A list of /uses pages detailing developer setups, gear, software and configs.|3924|2|2022-03-07|
+|106|[fireship-io/node-crypto-examples](https://github.com/fireship-io/node-crypto-examples)|7 Useful Examples of Cryptography in Node.js|277|2|2021-11-03|
+|107|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2305|2|2022-02-17|
+|108|[skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli)|A cli tool to enjoy leetcode!|3207|2|2022-02-06|
+|109|[siriwatknp/mui-treasury](https://github.com/siriwatknp/mui-treasury)|A collection of ready-to-use components based on Material-UI|1927|2|2022-03-02|
+|110|[cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)|📗📒 (PT-Br translation) JS Book Series.|3888|2|2022-02-14|
+|111|[i18next/i18next](https://github.com/i18next/i18next)| i18next: learn once - translate everywhere|6097|2|2022-03-03|
+|112|[documentationjs/documentation](https://github.com/documentationjs/documentation)|:book: documentation for modern JavaScript|5474|2|2022-03-07|
+|113|[strapi/awesome-strapi](https://github.com/strapi/awesome-strapi)|A curated list of awesome things related to Strapi|1169|2|2022-01-20|
+|114|[egoist/vue-content-loader](https://github.com/egoist/vue-content-loader)|SVG component to create placeholder loading, like Facebook cards loading.|2818|2|2022-03-01|
+|115|[kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks)|Learn React Hooks! 🎣 ⚛|2122|2|2022-02-19|
+|116|[HVF/franchise](https://github.com/HVF/franchise)|🍟 a notebook sql client. what you get when have a lot of sequels.|3833|2|2022-02-26|
+|117|[thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)|A game for learning CSS flexbox 🐸|5517|2|2022-01-14|
+|118|[BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)|Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud|4169|2|2022-02-13|
+|119|[pomber/covid19](https://github.com/pomber/covid19)|JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily|1223|2|2022-03-08|
+|120|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|814|2|2022-02-24|
+|121|[feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)|The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀 |2891|2|2022-02-27|
+|122|[JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)|A collection of JetBrains Web UI components|2924|2|2022-03-07|
+|123|[marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)|Share terminal sessions via SVG and CSS|2742|2|2022-03-08|
+|124|[vercel/next-learn](https://github.com/vercel/next-learn)|Learn Next.js Starter Code|1176|2|2022-02-18|
+|125|[semlinker/reactjs-interview-questions](https://github.com/semlinker/reactjs-interview-questions)|List of top 304 ReactJS Interview Questions & Answers|1941|2|2021-12-26|
+|126|[alozano-77/AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course)|Personal notes for SAA-C02 test from: https://learn.cantrill.io|1075|2|2021-12-31|
+|127|[ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)|A collection of various notebook extensions for Jupyter|4781|2|2021-12-03|
+|128|[terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)|A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me|1297|2|2021-10-15|
+|129|[umdjs/umd](https://github.com/umdjs/umd)|UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.|7050|2|2022-02-25|
+|130|[GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples)|A collection of prototyped UI elements|4010|2|2022-02-11|
+|131|[loomnetwork/cryptozombies-lesson-code](https://github.com/loomnetwork/cryptozombies-lesson-code)|cryptozomebie lesson code|1343|2|2022-02-09|
+|132|[mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)|💻 JavaScript implementations of computer science algorithms|7120|2|2022-01-11|
+|133|[emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets)|A collection of UI Snippets.|1886|2|2022-02-27|
+|134|[mediaelement/mediaelement](https://github.com/mediaelement/mediaelement)|HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all ...|7798|2|2022-02-07|
+|135|[dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)|BookmarkHub , sync bookmarks across different browsers|548|2|2021-09-15|
+|136|[StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)|Starter pack for an awesome Udemy course|3569|2|2022-02-18|
+|137|[vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui)|Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.|1877|2|2022-03-07|
+|138|[FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations)|🎊 A collection of animations for inline style libraries|3001|2|2022-03-03|
+|139|[jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable)|Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g ...|5301|2|2022-02-20|
+|140|[negomi/react-burger-menu](https://github.com/negomi/react-burger-menu)|:hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations|4589|2|2022-02-11|
+|141|[fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)|Project codes used in "The Docker Handbook"|1056|2|2022-02-25|
+|142|[Developer-DAO/resources](https://github.com/Developer-DAO/resources)|A collection of useful resources for Developer DAO members|375|2|2022-03-02|
+|143|[dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)|Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom|354|2|2021-12-26|
+|144|[denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook)|:book: For those who wanna learn Bash|4786|2|2022-02-24|
+|145|[css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)|🎨  A web component for drawing patterns with CSS.|4166|2|2022-03-08|
+|146|[evilsoft/crocks](https://github.com/evilsoft/crocks)|A collection of well known Algebraic Data Types for your utter enjoyment.|1506|1|2022-02-12|
+|147|[mswjs/examples](https://github.com/mswjs/examples)|Examples of Mock Service Worker usage with various frameworks and libraries.|332|1|2022-03-03|
+|148|[kentcdodds/advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks)|Learn Advanced React Hooks workshop|1576|1|2022-02-24|
 |149|[rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)|Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) |1686|1|2022-02-13|
 |150|[sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets)|These snippets were built to supercharge my workflow in the most seamless manner possible.|1181|1|2022-02-20|
 |151|[meodai/color-names](https://github.com/meodai/color-names)|Large list of handpicked color names 🌈|1490|1|2022-03-07|

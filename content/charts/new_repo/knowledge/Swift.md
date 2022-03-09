@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -67,16 +67,15 @@
 |60|[vemarav/screenshare](https://github.com/vemarav/screenshare)|react native webrtc screen share|4|2021-11-24|2021-10-27|
 |61|[yellowRibbonToCode/PrivateLibrary](https://github.com/yellowRibbonToCode/PrivateLibrary)|Neighborhood social book community App.|4|2021-12-06|2021-10-21|
 |62|[Asif332/Reaction](https://github.com/Asif332/Reaction)|This is a reusable Reaction UI like facebook written in SwiftUI Language.|4|2021-09-29|2021-09-29|
-|63|[Artem711/Mobile-Animations](https://github.com/Artem711/Mobile-Animations)|🎈 Curated collection of advanced animations that I have developed using (Swift UI for iOS) and (React Native for iOS/Android). Source code is intended to be reused by myself for future projects.|4|2021-09-07|2021-09-06|
-|64|[LuizZak/Geometria](https://github.com/LuizZak/Geometria)|Swift geometry-related types and algorithms|4|2021-11-02|2021-08-18|
-|65|[techiro/hi-diary](https://github.com/techiro/hi-diary)|Diary application for learning a foreign language.|4|2021-11-15|2021-07-07|
-|66|[StreetEasy/combine-ergonomics](https://github.com/StreetEasy/combine-ergonomics)|A collection of helpful extensions and classes for working with the Combine framework|4|2021-11-09|2021-06-25|
-|67|[leopug/CoordinatorTabbbarStudy](https://github.com/leopug/CoordinatorTabbbarStudy)|Study over coordinator pattern with tabbar, feel free to modify :)|4|2021-10-16|2021-04-20|
-|68|[ahmanson-lab/Booksnake](https://github.com/ahmanson-lab/Booksnake)|Booksnake AR |4|2021-12-01|2021-04-06|
-|69|[mohammed-salah-zidane/SwiftHeadFirstDesignPatterns](https://github.com/mohammed-salah-zidane/SwiftHeadFirstDesignPatterns)|Public repo will contain the examples of "Head First Design Patterns Book"  in Swift programming Language.|3|2021-12-01|2021-11-12|
-|70|[CoderLouie/SwifterKnife](https://github.com/CoderLouie/SwifterKnife)|A handy collection of Swift method and Tools to build project faster and more efficient.|3|2021-12-02|2021-10-26|
-|71|[boudhayan/Algorithm-Solutions-In-Swift](https://github.com/boudhayan/Algorithm-Solutions-In-Swift)|This repository contains 100+  data structures and algorithms solutions from AlgoExpert, LeetCode & HackerRank in Swift 🧑🏻‍💻|3|2021-09-30|2021-07-17|
-|72|[Legonaftik/LeetCode-Swift](https://github.com/Legonaftik/LeetCode-Swift)|My LeetCode solutions in Swift|3|2021-12-05|2021-07-07|
+|63|[LuizZak/Geometria](https://github.com/LuizZak/Geometria)|Swift geometry-related types and algorithms|4|2021-11-02|2021-08-18|
+|64|[techiro/hi-diary](https://github.com/techiro/hi-diary)|Diary application for learning a foreign language.|4|2021-11-15|2021-07-07|
+|65|[StreetEasy/combine-ergonomics](https://github.com/StreetEasy/combine-ergonomics)|A collection of helpful extensions and classes for working with the Combine framework|4|2021-11-09|2021-06-25|
+|66|[leopug/CoordinatorTabbbarStudy](https://github.com/leopug/CoordinatorTabbbarStudy)|Study over coordinator pattern with tabbar, feel free to modify :)|4|2021-10-16|2021-04-20|
+|67|[ahmanson-lab/Booksnake](https://github.com/ahmanson-lab/Booksnake)|Booksnake AR |4|2021-12-01|2021-04-06|
+|68|[mohammed-salah-zidane/SwiftHeadFirstDesignPatterns](https://github.com/mohammed-salah-zidane/SwiftHeadFirstDesignPatterns)|Public repo will contain the examples of "Head First Design Patterns Book"  in Swift programming Language.|3|2021-12-01|2021-11-12|
+|69|[CoderLouie/SwifterKnife](https://github.com/CoderLouie/SwifterKnife)|A handy collection of Swift method and Tools to build project faster and more efficient.|3|2021-12-02|2021-10-26|
+|70|[boudhayan/Algorithm-Solutions-In-Swift](https://github.com/boudhayan/Algorithm-Solutions-In-Swift)|This repository contains 100+  data structures and algorithms solutions from AlgoExpert, LeetCode & HackerRank in Swift 🧑🏻‍💻|3|2021-09-30|2021-07-17|
+|71|[Legonaftik/LeetCode-Swift](https://github.com/Legonaftik/LeetCode-Swift)|My LeetCode solutions in Swift|3|2021-12-05|2021-07-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

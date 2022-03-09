@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > C
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -96,115 +96,115 @@
 |89|[briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)|Ubuntu OverlayFS Local Privesc|283|2021-09-28|2021-04-19|
 |90|[extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS)|New gen. Linux|281|2021-12-12|2021-10-31|
 |91|[kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly)|Inject .NET assemblies into an existing process|275|2022-01-19|2022-01-03|
-|92|[picoruby/prk_firmware](https://github.com/picoruby/prk_firmware)|A keyboard firmware platform in PicoRuby|275|2022-02-20|2021-03-09|
-|93|[ckosmic/sm64ex-ios](https://github.com/ckosmic/sm64ex-ios)|iOS/tvOS port of https://github.com/sm64pc/sm64ex/|274|2021-11-20|2021-09-18|
-|94|[nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations)|Code for simulations on YouTube|273|2022-02-05|2021-05-02|
-|95|[Cracked5pider/KaynLdr](https://github.com/Cracked5pider/KaynLdr)|KaynLdr is a Reflective Loader written in C/ASM|266|2021-12-28|2021-12-26|
-|96|[RedPill-TTG/redpill-lkm](https://github.com/RedPill-TTG/redpill-lkm)|Linux kernel module for RedPill|262|2021-12-16|2021-07-09|
-|97|[fholger/vrperfkit](https://github.com/fholger/vrperfkit)|VR Performance Toolkit|261|2022-02-07|2022-01-02|
-|98|[Cerbersec/Ares](https://github.com/Cerbersec/Ares)|Project Ares is a Proof of Concept (PoC) loader written in C/C++ based on the Transacted Hollowing technique|260|2022-01-16|2022-01-15|
-|99|[NSSpiral/Blackb0x](https://github.com/NSSpiral/Blackb0x)|Apple TV 2/3 Jailbreak|260|2021-12-21|2021-07-07|
-|100|[alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5)|Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo|255|2021-12-16|2021-04-06|
-|101|[DavidColson/Polybox](https://github.com/DavidColson/Polybox)|Late ninties, PS1 inspired fantasy console|253|2022-02-13|2021-08-06|
-|102|[boku7/azureOutlookC2](https://github.com/boku7/azureOutlookC2)|Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Micro ...|250|2021-10-01|2021-09-10|
-|103|[RedSection/OffensivePH](https://github.com/RedSection/OffensivePH)|OffensivePH - use old Process Hacker driver to bypass several user-mode access controls|249|2021-10-09|2021-05-17|
-|104|[github/trilogy](https://github.com/github/trilogy)|Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.|247|2022-02-09|2021-12-15|
-|105|[Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|A root exploit for CVE-2022-0847 (Dirty Pipe)|245|2022-03-08|2022-03-07|
-|106|[openglonmetal/MGL](https://github.com/openglonmetal/MGL)|OpenGL 4.6 on Metal|238|2022-03-05|2022-01-07|
-|107|[flouthoc/wiser](https://github.com/flouthoc/wiser)|:racehorse: Extremely minimal vmm for linux written in C. Hopefully someday will spin linux-vm for you.|238|2021-10-07|2021-07-13|
-|108|[googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)|-|234|2021-10-15|2021-04-22|
-|109|[pikasTech/pikascript](https://github.com/pikasTech/pikascript)|PikaScript is an ultra-lightweight Python engine with zero dependencies and zero-configuration, that can run with 4KB of RAM (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expan ...|231|2022-03-07|2021-08-02|
-|110|[yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded)|A window manager for GNOME, with rounded corners patch|228|2022-01-26|2021-08-28|
-|111|[mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)|A utility for browsing and installing GNOME Shell Extensions.|226|2022-03-04|2022-01-08|
-|112|[liz3/ledit](https://github.com/liz3/ledit)|Simple no bullshit text editor|224|2022-03-07|2021-11-28|
-|113|[bigtreetech/BIGTREETECH-OCTOPUS-V1.0](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)|This is Octopus open source material|223|2022-01-14|2021-05-13|
-|114|[stolk/chiaharvestgraph](https://github.com/stolk/chiaharvestgraph)|Graphs the activity of a chia harvester in a linux terminal.|217|2022-01-18|2021-05-13|
-|115|[playbit/playsys](https://github.com/playbit/playsys)|Playbit System interface defines an OS-like computing platform which can be implemented on a wide range of hosts|216|2021-12-02|2021-10-27|
-|116|[containers/quadlet](https://github.com/containers/quadlet)|-|213|2022-02-08|2021-09-22|
-|117|[medusalix/xone](https://github.com/medusalix/xone)|Linux kernel driver for Xbox One and Xbox Series X S accessories|212|2022-02-21|2021-07-01|
-|118|[Cracked5pider/ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate)|An easily modifiable shellcode template for Windows x64/x86|209|2022-02-22|2022-02-20|
-|119|[boku7/injectEtwBypass](https://github.com/boku7/injectEtwBypass)|CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate HalosGate)|207|2021-09-28|2021-09-21|
-|120|[FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim)|Turns macOS input fields into real vim buffers|203|2022-02-20|2022-02-11|
-|121|[b1n4r1b01/desc_race](https://github.com/b1n4r1b01/desc_race)|iOS 15.1 kernel exploit POC for CVE-2021-30955|201|2022-03-01|2022-03-01|
-|122|[thefLink/RecycledGate](https://github.com/thefLink/RecycledGate)|Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll|201|2022-02-03|2022-02-01|
-|123|[newaetech/chipshouter-picoemp](https://github.com/newaetech/chipshouter-picoemp)|Why not run micropython on your EMFI tool?|200|2022-01-29|2021-12-05|
-|124|[Matheus-Garbelini/esp32_bluetooth_classic_sniffer](https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer)|Active Bluetooth BR/EDR Sniffer/Injector as cheap as any ESP32 board can get. Works with Scapy ;-)|198|2022-02-10|2021-08-26|
-|125|[nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)|real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan|197|2022-02-17|2022-02-13|
-|126|[Chia-Network/bladebit](https://github.com/Chia-Network/bladebit)|BladeBit - Fast Chia (XCH) RAM-only k32-only Plotter|197|2022-03-07|2021-07-10|
-|127|[makermoekoe/Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3)|-|194|2022-02-03|2021-12-31|
-|128|[merbridge/merbridge](https://github.com/merbridge/merbridge)|Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.|192|2022-03-08|2022-01-12|
-|129|[BoyC/GW2TacO](https://github.com/BoyC/GW2TacO)|Guild Wars 2 Tactical Overlay (GW2TacO)|192|2021-09-23|2021-04-26|
-|130|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the android classes.dex file|189|2022-02-13|2021-05-21|
-|131|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|188|2022-01-09|2021-11-02|
-|132|[wojciech-graj/TermGL](https://github.com/wojciech-graj/TermGL)|2D & 3D graphics engine in the terminal [C] [C++]|188|2022-02-10|2021-06-25|
-|133|[SolomonSklash/SleepyCrypt](https://github.com/SolomonSklash/SleepyCrypt)|A shellcode function to encrypt a running process image when sleeping.|183|2021-09-11|2021-09-10|
-|134|[mgeeky/ElusiveMice](https://github.com/mgeeky/ElusiveMice)|Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind|183|2021-10-24|2021-08-27|
-|135|[OpenIPC/firmware](https://github.com/OpenIPC/firmware)|Alternative IP Camera firmware from an open community|183|2022-03-07|2021-04-13|
-|136|[boku7/HOLLOW](https://github.com/boku7/HOLLOW)|EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode|180|2022-01-20|2021-07-21|
-|137|[FYSETC/FYSETC-SPIDER](https://github.com/FYSETC/FYSETC-SPIDER)|FYSETC Board - 3d printer motherboard for VORON and other open source project.|180|2022-03-08|2021-03-26|
-|138|[MomentsInGraphics/vulkan_renderer](https://github.com/MomentsInGraphics/vulkan_renderer)|A toy renderer written in C using Vulkan to perform real-time ray tracing research.|179|2021-11-21|2021-06-24|
-|139|[stacksmashing/gb-wordle](https://github.com/stacksmashing/gb-wordle)|A WORDLE clone for the Nintendo Game Boy|177|2022-02-10|2022-02-06|
-|140|[PhilipHazel/pcre2](https://github.com/PhilipHazel/pcre2)|PCRE2 development is now based here.|175|2022-03-04|2021-08-20|
-|141|[AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi)|Lightweight and fast programming language designed to be written in Chinese.|173|2022-02-21|2021-09-07|
-|142|[LiveOverflow/pwnedit](https://github.com/LiveOverflow/pwnedit)|CVE-2021-3156 - Sudo Baron Samedit|170|2022-02-12|2021-04-29|
-|143|[z64proto/sw97](https://github.com/z64proto/sw97)|A recreation of the Spaceworld 1997 Ocarina of Time demo|169|2021-11-21|2021-11-20|
-|144|[jart/bestline](https://github.com/jart/bestline)|ANSI Standard X3.64 Teletypewriter Command Session Library|169|2022-02-19|2021-09-11|
-|145|[backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil)|Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.|169|2022-02-23|2021-07-18|
-|146|[sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml)|Machine Learning Framework for Operating Systems - Brings ML to Linux kernel|168|2021-12-13|2021-11-10|
-|147|[KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)|Hiding the window from screenshots using the function win32kfull::ChangeWindowTreeProtection|166|2022-01-03|2021-12-16|
-|148|[idealeer/xmap](https://github.com/idealeer/xmap)|XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.|164|2021-12-29|2021-04-02|
-|149|[paranoidninja/EtwTi-Syscall-Hook](https://github.com/paranoidninja/EtwTi-Syscall-Hook)|A simple program to hook the current process to identify the manual syscall executions on windows|163|2022-01-09|2022-01-08|
-|150|[petewarden/spchcat](https://github.com/petewarden/spchcat)|Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.|163|2022-03-03|2021-12-30|
-|151|[pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools)|Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)|163|2022-03-08|2021-04-28|
-|152|[icculus/physfs](https://github.com/icculus/physfs)|A portable, flexible file i/o abstraction.|162|2022-01-30|2021-06-29|
-|153|[trickster0/TartarusGate](https://github.com/trickster0/TartarusGate)|TartarusGate, Bypassing EDRs|161|2022-01-25|2021-11-27|
-|154|[arcbtc/LNURLPoS](https://github.com/arcbtc/LNURLPoS)|Offline lightning PoS|161|2022-03-07|2021-09-13|
-|155|[riicchhaarrd/ocean](https://github.com/riicchhaarrd/ocean)|Programming language that compiles into a x86 ELF executable.|161|2022-03-06|2021-06-29|
-|156|[CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh)|An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)|160|2022-02-27|2021-09-11|
-|157|[GPUOpen-Effects/FidelityFX-CLI](https://github.com/GPUOpen-Effects/FidelityFX-CLI)|FidelityFX CLI|159|2021-09-29|2021-07-14|
-|158|[nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant)|DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant!|157|2022-03-06|2021-08-29|
-|159|[netero1010/ServiceMove-BOF](https://github.com/netero1010/ServiceMove-BOF)|New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.|155|2022-02-23|2021-08-16|
-|160|[TUGOhost/anti_Android](https://github.com/TUGOhost/anti_Android)|Is a protect Android App anti any attacks and environments.|155|2022-02-18|2021-03-17|
-|161|[babelfish-for-postgresql/babelfish_extensions](https://github.com/babelfish-for-postgresql/babelfish_extensions)|-|154|2022-03-07|2021-10-23|
-|162|[robiot/xclicker](https://github.com/robiot/xclicker)|XClicker - Fast gui autoclicker for x11 linux desktops|153|2022-02-14|2021-10-03|
-|163|[captainys/FLYBY2](https://github.com/captainys/FLYBY2)|Old Screensaver Recovered from my Backups|152|2022-02-04|2022-02-01|
-|164|[gramineproject/gramine](https://github.com/gramineproject/gramine)|A library OS for Linux multi-process applications, with Intel SGX support|152|2022-03-08|2021-09-04|
-|165|[Allevon412/TeamsImplant](https://github.com/Allevon412/TeamsImplant)|-|151|2022-02-24|2022-02-24|
-|166|[MDeiml/tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown)|A markdown grammar for tree-sitter|151|2022-02-26|2021-11-18|
-|167|[hepingood/adxl345](https://github.com/hepingood/adxl345)|adxl345 full function driver|150|2022-01-25|2021-05-05|
-|168|[linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw)|APFS module for linux, with experimental write support|150|2022-02-24|2021-03-31|
-|169|[scandum/fluxsort](https://github.com/scandum/fluxsort)|A branchless stable quicksort / mergesort hybrid.|149|2022-03-01|2021-07-22|
-|170|[frabert/ClangQL](https://github.com/frabert/ClangQL)|Query C++ codebases using SQLite|149|2022-02-15|2021-05-22|
-|171|[Kevincoooool/ESP_MASTER](https://github.com/Kevincoooool/ESP_MASTER)|ESP32-CAM with LVGL  Speech/Face Recognition  IR Control|147|2021-12-04|2021-08-26|
-|172|[cuckydev/PSXFunkin](https://github.com/cuckydev/PSXFunkin)|Friday Night Funkin' on the original PlayStation|145|2021-12-17|2021-05-17|
-|173|[DDeGonge/OS-ARM](https://github.com/DDeGonge/OS-ARM)|-|145|2022-03-01|2021-04-11|
-|174|[nickmqb/fpga_craft](https://github.com/nickmqb/fpga_craft)|A voxel game/Minecraft clone for the iCE40 UP5K FPGA|144|2021-09-26|2021-09-25|
-|175|[b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)|-|144|2022-01-28|2021-06-27|
-|176|[parsdefense/CVE-2021-1965](https://github.com/parsdefense/CVE-2021-1965)|CVE-2021-1965 WiFi Zero Click RCE Trigger PoC|143|2022-02-19|2022-02-18|
-|177|[Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)|Log4j Vulnerability Scanner for Windows|142|2022-02-09|2021-12-15|
-|178|[MichaelDim02/Narthex](https://github.com/MichaelDim02/Narthex)|Modular personalized dictionary generator.|142|2022-03-08|2021-07-10|
-|179|[jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus)|-|141|2022-02-18|2021-07-04|
-|180|[lunasorcery/Blossom](https://github.com/lunasorcery/Blossom)|4K Executable Graphics framework|141|2021-11-19|2021-03-21|
-|181|[cube0x0/BofRoast](https://github.com/cube0x0/BofRoast)|Beacon Object Files for roasting Active Directory|140|2022-02-21|2022-02-21|
-|182|[InitWare/InitWare](https://github.com/InitWare/InitWare)|The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.|140|2022-02-01|2021-03-22|
-|183|[nomemory/lc3-vm](https://github.com/nomemory/lc3-vm)|A LC3 virtual machine implementation in a few lines of C code|139|2022-01-06|2021-11-26|
-|184|[Sysinternals/SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF)|The Linux port of the Sysinternals Sysmon tool.|139|2021-12-07|2021-10-04|
-|185|[apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu)|-|138|2022-02-08|2021-10-04|
-|186|[saaramar/IOMFB_integer_overflow_poc](https://github.com/saaramar/IOMFB_integer_overflow_poc)|-|136|2021-10-11|2021-10-11|
-|187|[cloudflare/tubular](https://github.com/cloudflare/tubular)|BSD socket API on steroids|135|2022-02-23|2022-02-15|
-|188|[akkartik/teliva](https://github.com/akkartik/teliva)|Fork of Lua 5.1 to encourage end-user programming|135|2022-03-08|2021-11-06|
-|189|[input-leap/input-leap](https://github.com/input-leap/input-leap)|Open-source KVM software|135|2022-02-20|2021-11-03|
-|190|[nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture)|OBS Linux Vulkan/OpenGL game capture|135|2022-02-21|2021-03-21|
-|191|[Cerbersec/KillDefenderBOF](https://github.com/Cerbersec/KillDefenderBOF)|Beacon Object File PoC implementation of KillDefender|134|2022-02-23|2022-02-06|
-|192|[s-hironobu/pg_plan_inspector](https://github.com/s-hironobu/pg_plan_inspector)|A framework to monitor and improve the performance of PostgreSQL using Machine Learning methods.|134|2022-01-01|2021-07-23|
-|193|[waldo-irc/LockdExeDemo](https://github.com/waldo-irc/LockdExeDemo)|A demo of the relevant blog post: https://www.arashparsa.com/hook-heaps-and-live-free/|133|2021-09-09|2021-09-09|
-|194|[RUB-SysSec/Nyx](https://github.com/RUB-SysSec/Nyx)|USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types|133|2021-11-14|2021-08-25|
-|195|[VKCOM/nginx-quic](https://github.com/VKCOM/nginx-quic)|-|132|2021-12-07|2021-09-17|
-|196|[alipay/Owfuzz](https://github.com/alipay/Owfuzz)|Owfuzz: a WiFi protocol fuzzing tool|132|2021-11-24|2021-06-16|
-|197|[hepingood/dht11](https://github.com/hepingood/dht11)|dht11 full function driver|130|2022-01-09|2021-05-10|
-|198|[CTA-Ripple/Ripple-v.0](https://github.com/CTA-Ripple/Ripple-v.0)|open radar API standard to enable hardware / software interoperability and accelerate the growth of applications of general purpose consumer radar. For more information visit cta.tech/Ripple.|128|2022-01-31|2021-12-07|
-|199|[keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor)|A CLI for extracting libraries from Apple's dyld shared cache file|128|2021-11-15|2021-08-03|
-|200|[kbjunky/Chordie](https://github.com/kbjunky/Chordie)|A chording keyboard you shouldn't be scared of|126|2021-11-20|2021-08-27|
+|92|[ckosmic/sm64ex-ios](https://github.com/ckosmic/sm64ex-ios)|iOS/tvOS port of https://github.com/sm64pc/sm64ex/|274|2021-11-20|2021-09-18|
+|93|[nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations)|Code for simulations on YouTube|273|2022-02-05|2021-05-02|
+|94|[Cracked5pider/KaynLdr](https://github.com/Cracked5pider/KaynLdr)|KaynLdr is a Reflective Loader written in C/ASM|266|2021-12-28|2021-12-26|
+|95|[RedPill-TTG/redpill-lkm](https://github.com/RedPill-TTG/redpill-lkm)|Linux kernel module for RedPill|262|2021-12-16|2021-07-09|
+|96|[fholger/vrperfkit](https://github.com/fholger/vrperfkit)|VR Performance Toolkit|261|2022-02-07|2022-01-02|
+|97|[Cerbersec/Ares](https://github.com/Cerbersec/Ares)|Project Ares is a Proof of Concept (PoC) loader written in C/C++ based on the Transacted Hollowing technique|260|2022-01-16|2022-01-15|
+|98|[NSSpiral/Blackb0x](https://github.com/NSSpiral/Blackb0x)|Apple TV 2/3 Jailbreak|260|2021-12-21|2021-07-07|
+|99|[alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5)|Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo|255|2021-12-16|2021-04-06|
+|100|[DavidColson/Polybox](https://github.com/DavidColson/Polybox)|Late ninties, PS1 inspired fantasy console|253|2022-02-13|2021-08-06|
+|101|[boku7/azureOutlookC2](https://github.com/boku7/azureOutlookC2)|Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Micro ...|250|2021-10-01|2021-09-10|
+|102|[RedSection/OffensivePH](https://github.com/RedSection/OffensivePH)|OffensivePH - use old Process Hacker driver to bypass several user-mode access controls|249|2021-10-09|2021-05-17|
+|103|[github/trilogy](https://github.com/github/trilogy)|Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.|247|2022-02-09|2021-12-15|
+|104|[Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)|A root exploit for CVE-2022-0847 (Dirty Pipe)|245|2022-03-08|2022-03-07|
+|105|[openglonmetal/MGL](https://github.com/openglonmetal/MGL)|OpenGL 4.6 on Metal|238|2022-03-05|2022-01-07|
+|106|[flouthoc/wiser](https://github.com/flouthoc/wiser)|:racehorse: Extremely minimal vmm for linux written in C. Hopefully someday will spin linux-vm for you.|238|2021-10-07|2021-07-13|
+|107|[googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)|-|234|2021-10-15|2021-04-22|
+|108|[pikasTech/pikascript](https://github.com/pikasTech/pikascript)|PikaScript is an ultra-lightweight Python engine with zero dependencies and zero-configuration, that can run with 4KB of RAM (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expan ...|231|2022-03-07|2021-08-02|
+|109|[yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded)|A window manager for GNOME, with rounded corners patch|228|2022-01-26|2021-08-28|
+|110|[mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)|A utility for browsing and installing GNOME Shell Extensions.|226|2022-03-04|2022-01-08|
+|111|[liz3/ledit](https://github.com/liz3/ledit)|Simple no bullshit text editor|224|2022-03-07|2021-11-28|
+|112|[bigtreetech/BIGTREETECH-OCTOPUS-V1.0](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)|This is Octopus open source material|223|2022-01-14|2021-05-13|
+|113|[stolk/chiaharvestgraph](https://github.com/stolk/chiaharvestgraph)|Graphs the activity of a chia harvester in a linux terminal.|217|2022-01-18|2021-05-13|
+|114|[playbit/playsys](https://github.com/playbit/playsys)|Playbit System interface defines an OS-like computing platform which can be implemented on a wide range of hosts|216|2021-12-02|2021-10-27|
+|115|[containers/quadlet](https://github.com/containers/quadlet)|-|213|2022-02-08|2021-09-22|
+|116|[medusalix/xone](https://github.com/medusalix/xone)|Linux kernel driver for Xbox One and Xbox Series X S accessories|212|2022-02-21|2021-07-01|
+|117|[Cracked5pider/ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate)|An easily modifiable shellcode template for Windows x64/x86|209|2022-02-22|2022-02-20|
+|118|[boku7/injectEtwBypass](https://github.com/boku7/injectEtwBypass)|CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate HalosGate)|207|2021-09-28|2021-09-21|
+|119|[FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim)|Turns macOS input fields into real vim buffers|203|2022-02-20|2022-02-11|
+|120|[b1n4r1b01/desc_race](https://github.com/b1n4r1b01/desc_race)|iOS 15.1 kernel exploit POC for CVE-2021-30955|201|2022-03-01|2022-03-01|
+|121|[thefLink/RecycledGate](https://github.com/thefLink/RecycledGate)|Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll|201|2022-02-03|2022-02-01|
+|122|[newaetech/chipshouter-picoemp](https://github.com/newaetech/chipshouter-picoemp)|Why not run micropython on your EMFI tool?|200|2022-01-29|2021-12-05|
+|123|[Matheus-Garbelini/esp32_bluetooth_classic_sniffer](https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer)|Active Bluetooth BR/EDR Sniffer/Injector as cheap as any ESP32 board can get. Works with Scapy ;-)|198|2022-02-10|2021-08-26|
+|124|[nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)|real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan|197|2022-02-17|2022-02-13|
+|125|[Chia-Network/bladebit](https://github.com/Chia-Network/bladebit)|BladeBit - Fast Chia (XCH) RAM-only k32-only Plotter|197|2022-03-07|2021-07-10|
+|126|[makermoekoe/Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3)|-|194|2022-02-03|2021-12-31|
+|127|[merbridge/merbridge](https://github.com/merbridge/merbridge)|Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.|192|2022-03-08|2022-01-12|
+|128|[BoyC/GW2TacO](https://github.com/BoyC/GW2TacO)|Guild Wars 2 Tactical Overlay (GW2TacO)|192|2021-09-23|2021-04-26|
+|129|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the android classes.dex file|189|2022-02-13|2021-05-21|
+|130|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|188|2022-01-09|2021-11-02|
+|131|[wojciech-graj/TermGL](https://github.com/wojciech-graj/TermGL)|2D & 3D graphics engine in the terminal [C] [C++]|188|2022-02-10|2021-06-25|
+|132|[SolomonSklash/SleepyCrypt](https://github.com/SolomonSklash/SleepyCrypt)|A shellcode function to encrypt a running process image when sleeping.|183|2021-09-11|2021-09-10|
+|133|[mgeeky/ElusiveMice](https://github.com/mgeeky/ElusiveMice)|Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind|183|2021-10-24|2021-08-27|
+|134|[OpenIPC/firmware](https://github.com/OpenIPC/firmware)|Alternative IP Camera firmware from an open community|183|2022-03-07|2021-04-13|
+|135|[boku7/HOLLOW](https://github.com/boku7/HOLLOW)|EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode|180|2022-01-20|2021-07-21|
+|136|[FYSETC/FYSETC-SPIDER](https://github.com/FYSETC/FYSETC-SPIDER)|FYSETC Board - 3d printer motherboard for VORON and other open source project.|180|2022-03-08|2021-03-26|
+|137|[MomentsInGraphics/vulkan_renderer](https://github.com/MomentsInGraphics/vulkan_renderer)|A toy renderer written in C using Vulkan to perform real-time ray tracing research.|179|2021-11-21|2021-06-24|
+|138|[stacksmashing/gb-wordle](https://github.com/stacksmashing/gb-wordle)|A WORDLE clone for the Nintendo Game Boy|177|2022-02-10|2022-02-06|
+|139|[PhilipHazel/pcre2](https://github.com/PhilipHazel/pcre2)|PCRE2 development is now based here.|175|2022-03-04|2021-08-20|
+|140|[AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi)|Lightweight and fast programming language designed to be written in Chinese.|173|2022-02-21|2021-09-07|
+|141|[LiveOverflow/pwnedit](https://github.com/LiveOverflow/pwnedit)|CVE-2021-3156 - Sudo Baron Samedit|170|2022-02-12|2021-04-29|
+|142|[z64proto/sw97](https://github.com/z64proto/sw97)|A recreation of the Spaceworld 1997 Ocarina of Time demo|169|2021-11-21|2021-11-20|
+|143|[jart/bestline](https://github.com/jart/bestline)|ANSI Standard X3.64 Teletypewriter Command Session Library|169|2022-02-19|2021-09-11|
+|144|[backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil)|Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.|169|2022-02-23|2021-07-18|
+|145|[sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml)|Machine Learning Framework for Operating Systems - Brings ML to Linux kernel|168|2021-12-13|2021-11-10|
+|146|[KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)|Hiding the window from screenshots using the function win32kfull::ChangeWindowTreeProtection|166|2022-01-03|2021-12-16|
+|147|[idealeer/xmap](https://github.com/idealeer/xmap)|XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.|164|2021-12-29|2021-04-02|
+|148|[paranoidninja/EtwTi-Syscall-Hook](https://github.com/paranoidninja/EtwTi-Syscall-Hook)|A simple program to hook the current process to identify the manual syscall executions on windows|163|2022-01-09|2022-01-08|
+|149|[petewarden/spchcat](https://github.com/petewarden/spchcat)|Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.|163|2022-03-03|2021-12-30|
+|150|[pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools)|Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)|163|2022-03-08|2021-04-28|
+|151|[icculus/physfs](https://github.com/icculus/physfs)|A portable, flexible file i/o abstraction.|162|2022-01-30|2021-06-29|
+|152|[trickster0/TartarusGate](https://github.com/trickster0/TartarusGate)|TartarusGate, Bypassing EDRs|161|2022-01-25|2021-11-27|
+|153|[arcbtc/LNURLPoS](https://github.com/arcbtc/LNURLPoS)|Offline lightning PoS|161|2022-03-07|2021-09-13|
+|154|[riicchhaarrd/ocean](https://github.com/riicchhaarrd/ocean)|Programming language that compiles into a x86 ELF executable.|161|2022-03-06|2021-06-29|
+|155|[CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh)|An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)|160|2022-02-27|2021-09-11|
+|156|[GPUOpen-Effects/FidelityFX-CLI](https://github.com/GPUOpen-Effects/FidelityFX-CLI)|FidelityFX CLI|159|2021-09-29|2021-07-14|
+|157|[nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant)|DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant!|157|2022-03-06|2021-08-29|
+|158|[netero1010/ServiceMove-BOF](https://github.com/netero1010/ServiceMove-BOF)|New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.|155|2022-02-23|2021-08-16|
+|159|[TUGOhost/anti_Android](https://github.com/TUGOhost/anti_Android)|Is a protect Android App anti any attacks and environments.|155|2022-02-18|2021-03-17|
+|160|[babelfish-for-postgresql/babelfish_extensions](https://github.com/babelfish-for-postgresql/babelfish_extensions)|-|154|2022-03-07|2021-10-23|
+|161|[robiot/xclicker](https://github.com/robiot/xclicker)|XClicker - Fast gui autoclicker for x11 linux desktops|153|2022-02-14|2021-10-03|
+|162|[captainys/FLYBY2](https://github.com/captainys/FLYBY2)|Old Screensaver Recovered from my Backups|152|2022-02-04|2022-02-01|
+|163|[gramineproject/gramine](https://github.com/gramineproject/gramine)|A library OS for Linux multi-process applications, with Intel SGX support|152|2022-03-08|2021-09-04|
+|164|[Allevon412/TeamsImplant](https://github.com/Allevon412/TeamsImplant)|-|151|2022-02-24|2022-02-24|
+|165|[MDeiml/tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown)|A markdown grammar for tree-sitter|151|2022-02-26|2021-11-18|
+|166|[hepingood/adxl345](https://github.com/hepingood/adxl345)|adxl345 full function driver|150|2022-01-25|2021-05-05|
+|167|[linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw)|APFS module for linux, with experimental write support|150|2022-02-24|2021-03-31|
+|168|[scandum/fluxsort](https://github.com/scandum/fluxsort)|A branchless stable quicksort / mergesort hybrid.|149|2022-03-01|2021-07-22|
+|169|[frabert/ClangQL](https://github.com/frabert/ClangQL)|Query C++ codebases using SQLite|149|2022-02-15|2021-05-22|
+|170|[Kevincoooool/ESP_MASTER](https://github.com/Kevincoooool/ESP_MASTER)|ESP32-CAM with LVGL  Speech/Face Recognition  IR Control|147|2021-12-04|2021-08-26|
+|171|[cuckydev/PSXFunkin](https://github.com/cuckydev/PSXFunkin)|Friday Night Funkin' on the original PlayStation|145|2021-12-17|2021-05-17|
+|172|[DDeGonge/OS-ARM](https://github.com/DDeGonge/OS-ARM)|-|145|2022-03-01|2021-04-11|
+|173|[nickmqb/fpga_craft](https://github.com/nickmqb/fpga_craft)|A voxel game/Minecraft clone for the iCE40 UP5K FPGA|144|2021-09-26|2021-09-25|
+|174|[b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)|-|144|2022-01-28|2021-06-27|
+|175|[parsdefense/CVE-2021-1965](https://github.com/parsdefense/CVE-2021-1965)|CVE-2021-1965 WiFi Zero Click RCE Trigger PoC|143|2022-02-19|2022-02-18|
+|176|[Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)|Log4j Vulnerability Scanner for Windows|142|2022-02-09|2021-12-15|
+|177|[MichaelDim02/Narthex](https://github.com/MichaelDim02/Narthex)|Modular personalized dictionary generator.|142|2022-03-08|2021-07-10|
+|178|[jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus)|-|141|2022-02-18|2021-07-04|
+|179|[lunasorcery/Blossom](https://github.com/lunasorcery/Blossom)|4K Executable Graphics framework|141|2021-11-19|2021-03-21|
+|180|[cube0x0/BofRoast](https://github.com/cube0x0/BofRoast)|Beacon Object Files for roasting Active Directory|140|2022-02-21|2022-02-21|
+|181|[InitWare/InitWare](https://github.com/InitWare/InitWare)|The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.|140|2022-02-01|2021-03-22|
+|182|[nomemory/lc3-vm](https://github.com/nomemory/lc3-vm)|A LC3 virtual machine implementation in a few lines of C code|139|2022-01-06|2021-11-26|
+|183|[Sysinternals/SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF)|The Linux port of the Sysinternals Sysmon tool.|139|2021-12-07|2021-10-04|
+|184|[apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu)|-|138|2022-02-08|2021-10-04|
+|185|[saaramar/IOMFB_integer_overflow_poc](https://github.com/saaramar/IOMFB_integer_overflow_poc)|-|136|2021-10-11|2021-10-11|
+|186|[cloudflare/tubular](https://github.com/cloudflare/tubular)|BSD socket API on steroids|135|2022-02-23|2022-02-15|
+|187|[akkartik/teliva](https://github.com/akkartik/teliva)|Fork of Lua 5.1 to encourage end-user programming|135|2022-03-08|2021-11-06|
+|188|[input-leap/input-leap](https://github.com/input-leap/input-leap)|Open-source KVM software|135|2022-02-20|2021-11-03|
+|189|[nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture)|OBS Linux Vulkan/OpenGL game capture|135|2022-02-21|2021-03-21|
+|190|[Cerbersec/KillDefenderBOF](https://github.com/Cerbersec/KillDefenderBOF)|Beacon Object File PoC implementation of KillDefender|134|2022-02-23|2022-02-06|
+|191|[s-hironobu/pg_plan_inspector](https://github.com/s-hironobu/pg_plan_inspector)|A framework to monitor and improve the performance of PostgreSQL using Machine Learning methods.|134|2022-01-01|2021-07-23|
+|192|[waldo-irc/LockdExeDemo](https://github.com/waldo-irc/LockdExeDemo)|A demo of the relevant blog post: https://www.arashparsa.com/hook-heaps-and-live-free/|133|2021-09-09|2021-09-09|
+|193|[RUB-SysSec/Nyx](https://github.com/RUB-SysSec/Nyx)|USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types|133|2021-11-14|2021-08-25|
+|194|[VKCOM/nginx-quic](https://github.com/VKCOM/nginx-quic)|-|132|2021-12-07|2021-09-17|
+|195|[alipay/Owfuzz](https://github.com/alipay/Owfuzz)|Owfuzz: a WiFi protocol fuzzing tool|132|2021-11-24|2021-06-16|
+|196|[hepingood/dht11](https://github.com/hepingood/dht11)|dht11 full function driver|130|2022-01-09|2021-05-10|
+|197|[CTA-Ripple/Ripple-v.0](https://github.com/CTA-Ripple/Ripple-v.0)|open radar API standard to enable hardware / software interoperability and accelerate the growth of applications of general purpose consumer radar. For more information visit cta.tech/Ripple.|128|2022-01-31|2021-12-07|
+|198|[keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor)|A CLI for extracting libraries from Apple's dyld shared cache file|128|2021-11-15|2021-08-03|
+|199|[kbjunky/Chordie](https://github.com/kbjunky/Chordie)|A chording keyboard you shouldn't be scared of|126|2021-11-20|2021-08-27|
+|200|[timothyschoen/PlugData](https://github.com/timothyschoen/PlugData)|Pure Data as a plugin, with a new GUI|124|2022-03-05|2021-11-28|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

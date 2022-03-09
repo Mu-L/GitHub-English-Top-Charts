@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Jupyter Notebook
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -179,32 +179,32 @@
 |172|[wncc/TSS-2021](https://github.com/wncc/TSS-2021)|Repository to document courses conducted under TSS 2021|25|2021-09-27|2021-06-25|
 |173|[yongghongg/stock-screener](https://github.com/yongghongg/stock-screener)|A collection of notebooks I used in my Medium articles.|25|2021-12-28|2021-06-24|
 |174|[MacroAnalyst/Basic_Statistics_With_Python](https://github.com/MacroAnalyst/Basic_Statistics_With_Python)|Introduction to statistics featuring Python. This series of lecture notes aim to walk you through all basic concepts of statistics, such as descriptive statistics, parameter estimations, hypothesis te ...|25|2022-03-03|2021-06-14|
-|175|[sayakpaul/Generalized-ODIN-TF](https://github.com/sayakpaul/Generalized-ODIN-TF)|TensorFlow 2 implementation of the paper Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data (https://arxiv.org/abs/2002.11297).|25|2021-09-07|2021-04-08|
-|176|[PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.)|Time Series Analysis with Python Cookbook, published by Packt|25|2022-03-03|2021-04-06|
-|177|[Hamtech-ai/wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)|fine-tune Wav2vec2. an ASR model released by Facebook|24|2021-12-11|2021-12-05|
-|178|[haoduohaoduo/JupyterNotebooks](https://github.com/haoduohaoduo/JupyterNotebooks)|Jupyter Notebooks |24|2021-10-17|2021-10-11|
-|179|[codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL](https://github.com/codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL)|Learn how to scrape websites with Python, Selenium, Requests HTML, Celery, FastAPI, & NoSQL with Cassandra via AstraDB.|24|2021-09-23|2021-09-19|
-|180|[adaamko/POTATO](https://github.com/adaamko/POTATO)|XAI based human-in-the-loop framework for automatic rule-learning.|24|2022-02-14|2021-03-17|
-|181|[Gladiator07/Natural-Language-Processing](https://github.com/Gladiator07/Natural-Language-Processing)|Documenting all the concepts and codes learned in NLP|24|2021-09-19|2021-03-13|
-|182|[sleeping-h/vector-fields](https://github.com/sleeping-h/vector-fields)|Artistic visualization of vector fields created with Matplotlib and Jupyter Notebook|23|2022-01-04|2021-12-12|
-|183|[omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)|ShinRL: A Library for Evaluating RL Algorithms from Theoretical and Practical Perspectives (Deep RL Workshop 2021)|23|2022-02-15|2021-11-30|
-|184|[hctnm1/Learn-To-Use-Github](https://github.com/hctnm1/Learn-To-Use-Github)|Wanna Learn How to use github ? come on in|23|2021-10-31|2021-09-29|
-|185|[beyondguo/Learn_PyTorch](https://github.com/beyondguo/Learn_PyTorch)|learn jiu wan shier l|23|2021-09-26|2021-09-08|
-|186|[mikexcohen/LinAlgCourse](https://github.com/mikexcohen/LinAlgCourse)|Python and MATLAB code for online linear algebra course|23|2022-02-15|2021-08-12|
-|187|[jakob-beetz/ifcopenshell-notebooks](https://github.com/jakob-beetz/ifcopenshell-notebooks)|Interactive Jupyter Notebooks to teach working with IFC files using ifcopenshell|23|2022-02-14|2021-07-06|
-|188|[jmshea/jupyterquiz](https://github.com/jmshea/jupyterquiz)|An interactive Quiz generator for Jupyter notebooks and Jupyter Book |23|2021-11-16|2021-06-15|
-|189|[gabrieldim/A1on-WebScraping-Pandas-Data-Science](https://github.com/gabrieldim/A1on-WebScraping-Pandas-Data-Science)|Learning WebScraping using Pandas in python. - Data Science|22|2021-12-02|2021-12-02|
-|190|[ShivamYadav-Coding/hacktoberfest-2021](https://github.com/ShivamYadav-Coding/hacktoberfest-2021)|This repository is made for people who wanted to learn about open-source and paricipate in Hactoberfest 2021.|22|2021-10-30|2021-10-03|
-|191|[jmshea/jupytercards](https://github.com/jmshea/jupytercards)|Animated flashcards for Jupyter notebooks and JupyterBook|22|2021-11-16|2021-09-14|
-|192|[ornldaac/gedi_tutorials](https://github.com/ornldaac/gedi_tutorials)|GEDI L3 and L4 Tutorials|22|2022-02-04|2021-08-26|
-|193|[Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)|Code for intrusion detection system development using machine learning algorithms (Decision tree, random forest, extra trees, XGBoost, stacking, k-means, Bayesian optimization..)|21|2022-02-04|2021-05-25|
-|194|[JSchoeberl/iFEM](https://github.com/JSchoeberl/iFEM)|Interactive FEM Course|21|2021-10-05|2021-03-26|
-|195|[pylabel-project/samples](https://github.com/pylabel-project/samples)|Notebooks and more to help you get started. Including the PyLabeler Jupyter based labeling tool.|20|2022-02-20|2021-10-20|
-|196|[FlorianMarquardt/advanced_machine_learning](https://github.com/FlorianMarquardt/advanced_machine_learning)|Code to go along the lecture course "Advanced Machine Learning for Physics, Science, and Artificial Scientific Discovery"|20|2022-02-06|2021-10-16|
-|197|[timothywarner/dp203](https://github.com/timothywarner/dp203)|Exam DP-203: Data Engineering on Microsoft Azure Crash Course|20|2021-11-30|2021-07-26|
-|198|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|2022-02-16|2021-07-14|
-|199|[yazdaniamir38/Depth-guided-Image-Relighting](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)|A deep Learning  model for one-to-one and any-to-any relighting|20|2022-01-12|2021-04-12|
-|200|[d2l-ai/d2l-zh-pytorch-colab](https://github.com/d2l-ai/d2l-zh-pytorch-colab)|Automatically Generated d2l-zh PyTorch Notebooks for Colab|20|2022-01-17|2021-03-12|
+|175|[PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.)|Time Series Analysis with Python Cookbook, published by Packt|25|2022-03-03|2021-04-06|
+|176|[Hamtech-ai/wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)|fine-tune Wav2vec2. an ASR model released by Facebook|24|2021-12-11|2021-12-05|
+|177|[haoduohaoduo/JupyterNotebooks](https://github.com/haoduohaoduo/JupyterNotebooks)|Jupyter Notebooks |24|2021-10-17|2021-10-11|
+|178|[codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL](https://github.com/codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL)|Learn how to scrape websites with Python, Selenium, Requests HTML, Celery, FastAPI, & NoSQL with Cassandra via AstraDB.|24|2021-09-23|2021-09-19|
+|179|[adaamko/POTATO](https://github.com/adaamko/POTATO)|XAI based human-in-the-loop framework for automatic rule-learning.|24|2022-02-14|2021-03-17|
+|180|[Gladiator07/Natural-Language-Processing](https://github.com/Gladiator07/Natural-Language-Processing)|Documenting all the concepts and codes learned in NLP|24|2021-09-19|2021-03-13|
+|181|[sleeping-h/vector-fields](https://github.com/sleeping-h/vector-fields)|Artistic visualization of vector fields created with Matplotlib and Jupyter Notebook|23|2022-01-04|2021-12-12|
+|182|[omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)|ShinRL: A Library for Evaluating RL Algorithms from Theoretical and Practical Perspectives (Deep RL Workshop 2021)|23|2022-02-15|2021-11-30|
+|183|[hctnm1/Learn-To-Use-Github](https://github.com/hctnm1/Learn-To-Use-Github)|Wanna Learn How to use github ? come on in|23|2021-10-31|2021-09-29|
+|184|[beyondguo/Learn_PyTorch](https://github.com/beyondguo/Learn_PyTorch)|learn jiu wan shier l|23|2021-09-26|2021-09-08|
+|185|[mikexcohen/LinAlgCourse](https://github.com/mikexcohen/LinAlgCourse)|Python and MATLAB code for online linear algebra course|23|2022-02-15|2021-08-12|
+|186|[jakob-beetz/ifcopenshell-notebooks](https://github.com/jakob-beetz/ifcopenshell-notebooks)|Interactive Jupyter Notebooks to teach working with IFC files using ifcopenshell|23|2022-02-14|2021-07-06|
+|187|[jmshea/jupyterquiz](https://github.com/jmshea/jupyterquiz)|An interactive Quiz generator for Jupyter notebooks and Jupyter Book |23|2021-11-16|2021-06-15|
+|188|[gabrieldim/A1on-WebScraping-Pandas-Data-Science](https://github.com/gabrieldim/A1on-WebScraping-Pandas-Data-Science)|Learning WebScraping using Pandas in python. - Data Science|22|2021-12-02|2021-12-02|
+|189|[ShivamYadav-Coding/hacktoberfest-2021](https://github.com/ShivamYadav-Coding/hacktoberfest-2021)|This repository is made for people who wanted to learn about open-source and paricipate in Hactoberfest 2021.|22|2021-10-30|2021-10-03|
+|190|[jmshea/jupytercards](https://github.com/jmshea/jupytercards)|Animated flashcards for Jupyter notebooks and JupyterBook|22|2021-11-16|2021-09-14|
+|191|[ornldaac/gedi_tutorials](https://github.com/ornldaac/gedi_tutorials)|GEDI L3 and L4 Tutorials|22|2022-02-04|2021-08-26|
+|192|[Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)|Code for intrusion detection system development using machine learning algorithms (Decision tree, random forest, extra trees, XGBoost, stacking, k-means, Bayesian optimization..)|21|2022-02-04|2021-05-25|
+|193|[JSchoeberl/iFEM](https://github.com/JSchoeberl/iFEM)|Interactive FEM Course|21|2021-10-05|2021-03-26|
+|194|[pylabel-project/samples](https://github.com/pylabel-project/samples)|Notebooks and more to help you get started. Including the PyLabeler Jupyter based labeling tool.|20|2022-02-20|2021-10-20|
+|195|[FlorianMarquardt/advanced_machine_learning](https://github.com/FlorianMarquardt/advanced_machine_learning)|Code to go along the lecture course "Advanced Machine Learning for Physics, Science, and Artificial Scientific Discovery"|20|2022-02-06|2021-10-16|
+|196|[timothywarner/dp203](https://github.com/timothywarner/dp203)|Exam DP-203: Data Engineering on Microsoft Azure Crash Course|20|2021-11-30|2021-07-26|
+|197|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|2022-02-16|2021-07-14|
+|198|[yazdaniamir38/Depth-guided-Image-Relighting](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)|A deep Learning  model for one-to-one and any-to-any relighting|20|2022-01-12|2021-04-12|
+|199|[d2l-ai/d2l-zh-pytorch-colab](https://github.com/d2l-ai/d2l-zh-pytorch-colab)|Automatically Generated d2l-zh PyTorch Notebooks for Colab|20|2022-01-17|2021-03-12|
+|200|[Richarizardd/Self-Supervised-ViT-Path](https://github.com/Richarizardd/Self-Supervised-ViT-Path)|[WEIGHTS AVAILABLE] Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology - LMRL Workshop in NeurIPS 2021|19|2022-03-07|2022-03-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

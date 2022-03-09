@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TypeScript
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -33,13 +33,12 @@
 |26|[samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension)|Keep your bookmarks clean & up-to-date 🔄|111|2022-02-26|2022-01-30|
 |27|[Pondorasti/tailwindcss-snippets](https://github.com/Pondorasti/tailwindcss-snippets)|Collection of animation snippets made for TailwindCSS|110|2022-01-24|2022-01-02|
 |28|[bonukai/MediaTracker](https://github.com/bonukai/MediaTracker)|Self hosted media tracker for movies, tv shows, video games, books and audiobooks|109|2022-03-08|2022-01-20|
-|29|[denoland/deploy_examples](https://github.com/denoland/deploy_examples)|Examples for Deno Deploy|105|2021-12-31|2021-03-09|
-|30|[souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)|Convert notion pages, block and list of blocks to markdown (supports nesting)|102|2022-03-05|2021-12-04|
-|31|[jellydn/nft-app](https://github.com/jellydn/nft-app)|How to create your own NFT and mint NFT token|99|2022-03-07|2021-09-08|
-|32|[storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)|Official ESLint plugin for Storybook|95|2022-02-17|2021-09-14|
-|33|[discordjs/builders](https://github.com/discordjs/builders)|A collection of builders that you can use when creating your bot.|93|2022-01-05|2021-06-20|
-|34|[nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools)|Your defacto #guide on #monorepos.|91|2022-03-07|2021-12-16|
-|35|[prisma/awesome-links](https://github.com/prisma/awesome-links)|Users browse through a list of curated links and bookmark their favorite ones. Code for prisma.io course. |87|2022-01-03|2021-08-09|
+|29|[souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)|Convert notion pages, block and list of blocks to markdown (supports nesting)|102|2022-03-05|2021-12-04|
+|30|[jellydn/nft-app](https://github.com/jellydn/nft-app)|How to create your own NFT and mint NFT token|99|2022-03-07|2021-09-08|
+|31|[storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)|Official ESLint plugin for Storybook|95|2022-02-17|2021-09-14|
+|32|[discordjs/builders](https://github.com/discordjs/builders)|A collection of builders that you can use when creating your bot.|93|2022-01-05|2021-06-20|
+|33|[nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools)|Your defacto #guide on #monorepos.|91|2022-03-07|2021-12-16|
+|34|[prisma/awesome-links](https://github.com/prisma/awesome-links)|Users browse through a list of curated links and bookmark their favorite ones. Code for prisma.io course. |87|2022-01-03|2021-08-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

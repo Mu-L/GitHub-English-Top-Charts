@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Java
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|4987|50|2022-02-28|
+|1|[ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)|A javaagent framework|4987|49|2022-02-28|
 |2|[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)|Ghidra is a software reverse engineering (SRE) framework|31619|29|2022-03-08|
 |3|[alibaba/arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas|28592|22|2022-03-03|
-|4|[queer/utt](https://github.com/queer/utt)|utt is the universal text transformer|196|22|2022-03-07|
+|4|[queer/utt](https://github.com/queer/utt)|utt is the universal text transformer|196|20|2022-03-07|
 |5|[seata/seata](https://github.com/seata/seata)|:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.|21750|19|2022-03-08|
 |6|[Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell)|Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell|1731|19|2021-12-22|
 |7|[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)|Spring Boot|59960|17|2022-03-08|
@@ -25,13 +25,13 @@
 |18|[ebarlas/microhttp](https://github.com/ebarlas/microhttp)|Fast, scalable, self-contained, single-threaded Java web server|340|13|2022-02-21|
 |19|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。|23325|13|2022-02-23|
 |20|[alibaba/Sentinel](https://github.com/alibaba/Sentinel)|A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)|18625|13|2022-03-08|
-|21|[google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)|Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.|7408|12|2022-03-01|
-|22|[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.|34744|12|2022-03-04|
-|23|[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)|🔎 Open source distributed and RESTful search engine.|4653|12|2022-03-08|
-|24|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|26409|12|2022-03-08|
-|25|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|46437|11|2022-03-08|
-|26|[dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)|Free universal database tool and SQL client|24956|11|2022-03-08|
-|27|[christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|958|11|2022-02-24|
+|21|[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.|34744|12|2022-03-04|
+|22|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|26409|12|2022-03-08|
+|23|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|46437|11|2022-03-08|
+|24|[google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)|Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.|7408|11|2022-03-01|
+|25|[dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)|Free universal database tool and SQL client|24956|11|2022-03-08|
+|26|[christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|958|11|2022-02-24|
+|27|[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)|🔎 Open source distributed and RESTful search engine.|4653|11|2022-03-08|
 |28|[apache/dubbo](https://github.com/apache/dubbo)|Apache Dubbo is a high-performance, java based, open source RPC framework.|36912|10|2022-03-08|
 |29|[airbytehq/airbyte](https://github.com/airbytehq/airbyte)|Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.|5900|10|2022-03-08|
 |30|[openjdk/jdk](https://github.com/openjdk/jdk)|JDK main-line development|12395|10|2022-03-08|
@@ -132,71 +132,71 @@
 |125|[kekingcn/kkFileView](https://github.com/kekingcn/kkFileView)|spring-boot打造文件文档在线预览项目|6713|4|2022-03-08|
 |126|[onthegomap/planetiler](https://github.com/onthegomap/planetiler)|Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours|508|4|2022-03-08|
 |127|[micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core)|Micronaut Application Framework|5239|4|2022-03-08|
-|128|[zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)|A plugin for the ja-netfilter, it can replace strings dynamically.|284|4|2022-02-09|
-|129|[LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)|High Performance Inter-Thread Messaging Library|14564|4|2022-03-03|
-|130|[trinodb/trino](https://github.com/trinodb/trino)|Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)|5028|4|2022-03-08|
-|131|[keycloak/keycloak](https://github.com/keycloak/keycloak)|Open Source Identity and Access Management For Modern Applications and Services|11556|4|2022-03-08|
-|132|[google/guice](https://github.com/google/guice)|Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.|10790|4|2022-03-04|
-|133|[wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.|9576|4|2021-10-16|
-|134|[Netflix/zuul](https://github.com/Netflix/zuul)|Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.|11758|4|2022-03-07|
-|135|[Angel-ML/angel](https://github.com/Angel-ML/angel)|A Flexible and Powerful Parameter Server for large-scale machine learning|6495|4|2022-02-09|
-|136|[SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server)|🎉Back end of Sonic cloud real machine testing platform. Sonic云真机测试平台后端服务（集群版）。|779|4|2022-02-27|
-|137|[catvod/CatVodTVSpider](https://github.com/catvod/CatVodTVSpider)|-|627|4|2022-03-05|
-|138|[CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric)|A Fabric mod designed to improve frame rates and reduce micro-stutter|3304|4|2022-03-05|
-|139|[HarlonWang/AVLoadingIndicatorView](https://github.com/HarlonWang/AVLoadingIndicatorView)|DEPRECATED|9596|4|2022-02-09|
-|140|[react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera)|A Camera component for React Native. Also supports barcode scanning!|9560|4|2022-03-02|
-|141|[tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)|Android runtime permissions powered by RxJava2|10306|4|2021-10-20|
-|142|[link1107/DonationExecutor](https://github.com/link1107/DonationExecutor)|Плагин для ру-стримеров, генерирующий события на сервере Minecraft (Spigot/Paper) на основании донатов с "Donation Alerts"|174|4|2022-02-14|
-|143|[huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)|Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar W ...|8119|4|2022-01-11|
-|144|[apache/incubator-shenyu](https://github.com/apache/incubator-shenyu)|ShenYu is High-Performance Java API Gateway.|5936|4|2022-03-08|
-|145|[supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)|Open source alternative to Auth0 / Firebase Auth / AWS Cognito |3275|4|2022-03-08|
-|146|[android/views-widgets-samples](https://github.com/android/views-widgets-samples)|Multiple samples showing the best practices in views-widgets on Android.|4059|4|2022-03-05|
-|147|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|10965|4|2022-01-26|
-|148|[alipay/SoloPi](https://github.com/alipay/SoloPi)|SoloPi 自动化测试工具|4584|4|2021-12-27|
-|149|[ionic-team/capacitor](https://github.com/ionic-team/capacitor)|Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️|7020|4|2022-03-07|
-|150|[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)|The OWASP ZAP core project|9287|4|2022-03-07|
-|151|[Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf)|Distributed ID Generate Service|5228|4|2022-01-06|
-|152|[java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)|A standalone Java Decompiler GUI|10909|4|2022-01-18|
-|153|[iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)|A tool for reverse engineering Android apk files|13586|4|2022-03-08|
-|154|[medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)|The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.|13394|4|2022-03-04|
-|155|[prestodb/presto](https://github.com/prestodb/presto)|The official home of the Presto distributed SQL query engine for big data|13249|4|2022-03-08|
-|156|[mockito/mockito](https://github.com/mockito/mockito)|Most popular Mocking framework for unit tests written in Java|12680|4|2022-03-07|
-|157|[airbnb/epoxy](https://github.com/airbnb/epoxy)|Epoxy is an Android library for building complex screens in a RecyclerView|7805|4|2022-02-25|
-|158|[uber/RIBs](https://github.com/uber/RIBs)|Uber's cross-platform mobile architecture framework.|6760|4|2022-02-26|
-|159|[pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint)|APM, (Application Performance Management) tool for large-scale distributed systems. |12031|4|2022-03-07|
-|160|[nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|Powerful and flexible library for loading, caching and displaying images on Android.|16816|4|2022-01-17|
-|161|[alibaba/atlas](https://github.com/alibaba/atlas)|A powerful Android Dynamic Component Framework.|8048|4|2022-01-27|
-|162|[firebase/quickstart-android](https://github.com/firebase/quickstart-android)|Firebase Quickstart Samples for Android|8037|4|2022-03-03|
-|163|[rubyangxg/jd-qinglong](https://github.com/rubyangxg/jd-qinglong)|-|624|4|2022-01-29|
-|164|[ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed)|Elder driver Xposed Framework.|4551|4|2022-02-01|
-|165|[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|A util for setting status bar style on Android App.|8726|4|2022-01-03|
-|166|[ben-manes/caffeine](https://github.com/ben-manes/caffeine)|A high performance caching library for Java|11243|4|2022-03-07|
-|167|[sqshq/piggymetrics](https://github.com/sqshq/piggymetrics)|Microservice Architecture with Spring Boot, Spring Cloud and Docker|11390|4|2022-03-01|
-|168|[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)|Jenkins automation server|18557|4|2022-03-08|
-|169|[asLody/VirtualApp](https://github.com/asLody/VirtualApp)|Virtual Engine for Android(Support 12.0 in business version)|8533|4|2022-01-21|
-|170|[spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native)|Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.|2515|3|2022-03-07|
-|171|[koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)|Views and Drawable for displaying animated GIFs on Android|9029|3|2022-01-17|
-|172|[googlesamples/mlkit](https://github.com/googlesamples/mlkit)|A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS|1792|3|2022-02-22|
-|173|[google/agera](https://github.com/google/agera)|Reactive Programming for Android|7281|3|2022-01-13|
-|174|[markzhai/AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)|A transparent ui-block detection library for Android. (known as BlockCanary)|6284|3|2022-02-17|
-|175|[crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)|A splash screen for react-native, hide when application loaded ,it works on iOS and Android.|5116|3|2022-03-02|
-|176|[bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer)|AlphaPlayer is a video animation engine.|1578|3|2022-02-11|
-|177|[yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)|:strawberry: Permissions manager for Android platform.|6552|3|2022-03-01|
-|178|[jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)|An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank ...|11171|3|2021-09-19|
-|179|[Igalia/wolvic](https://github.com/Igalia/wolvic)|A fast and secure browser for standalone virtual-reality and augmented-reality headsets.|260|3|2022-03-04|
-|180|[ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains)|JetBrains theme of Material Theme|7909|3|2022-01-26|
-|181|[rom1v/sndcpy](https://github.com/rom1v/sndcpy)|Android audio forwarding (scrcpy, but for audio)|1866|3|2022-03-06|
-|182|[code4craft/webmagic](https://github.com/code4craft/webmagic)|A scalable web crawler framework for Java.|10270|3|2022-01-18|
-|183|[testsigmahq/testsigma](https://github.com/testsigmahq/testsigma)|A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.|198|3|2022-03-08|
-|184|[f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)|CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks|248|3|2022-02-18|
-|185|[GrenderG/Toasty](https://github.com/GrenderG/Toasty)|The usual Toast, but with steroids 💪|6296|3|2022-01-08|
-|186|[debezium/debezium](https://github.com/debezium/debezium)|Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.|6353|3|2022-03-08|
-|187|[x-ream/sqli](https://github.com/x-ream/sqli)|orm sql interface, Criteria, CriteriaBuilder, ResultMapBuilder|1907|3|2022-01-26|
-|188|[PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)|A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.|2357|3|2022-03-08|
-|189|[zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)|React Native Local and Remote Notifications|6313|3|2022-02-02|
-|190|[xuexiangjys/XUI](https://github.com/xuexiangjys/XUI)|💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！)|3676|3|2022-02-28|
-|191|[react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)|:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.|7507|3|2022-02-26|
-|192|[NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX)|A third-party Telegram android app.|1844|3|2022-03-07|
+|128|[LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)|High Performance Inter-Thread Messaging Library|14564|4|2022-03-03|
+|129|[trinodb/trino](https://github.com/trinodb/trino)|Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)|5028|4|2022-03-08|
+|130|[keycloak/keycloak](https://github.com/keycloak/keycloak)|Open Source Identity and Access Management For Modern Applications and Services|11556|4|2022-03-08|
+|131|[google/guice](https://github.com/google/guice)|Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.|10790|4|2022-03-04|
+|132|[wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.|9576|4|2021-10-16|
+|133|[Netflix/zuul](https://github.com/Netflix/zuul)|Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.|11758|4|2022-03-07|
+|134|[Angel-ML/angel](https://github.com/Angel-ML/angel)|A Flexible and Powerful Parameter Server for large-scale machine learning|6495|4|2022-02-09|
+|135|[SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server)|🎉Back end of Sonic cloud real machine testing platform. Sonic云真机测试平台后端服务（集群版）。|779|4|2022-02-27|
+|136|[catvod/CatVodTVSpider](https://github.com/catvod/CatVodTVSpider)|-|627|4|2022-03-05|
+|137|[CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric)|A Fabric mod designed to improve frame rates and reduce micro-stutter|3304|4|2022-03-05|
+|138|[HarlonWang/AVLoadingIndicatorView](https://github.com/HarlonWang/AVLoadingIndicatorView)|DEPRECATED|9596|4|2022-02-09|
+|139|[react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera)|A Camera component for React Native. Also supports barcode scanning!|9560|4|2022-03-02|
+|140|[tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)|Android runtime permissions powered by RxJava2|10306|4|2021-10-20|
+|141|[link1107/DonationExecutor](https://github.com/link1107/DonationExecutor)|Плагин для ру-стримеров, генерирующий события на сервере Minecraft (Spigot/Paper) на основании донатов с "Donation Alerts"|174|4|2022-02-14|
+|142|[huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)|Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar W ...|8119|4|2022-01-11|
+|143|[apache/incubator-shenyu](https://github.com/apache/incubator-shenyu)|ShenYu is High-Performance Java API Gateway.|5936|4|2022-03-08|
+|144|[supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)|Open source alternative to Auth0 / Firebase Auth / AWS Cognito |3275|4|2022-03-08|
+|145|[android/views-widgets-samples](https://github.com/android/views-widgets-samples)|Multiple samples showing the best practices in views-widgets on Android.|4059|4|2022-03-05|
+|146|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|10965|4|2022-01-26|
+|147|[alipay/SoloPi](https://github.com/alipay/SoloPi)|SoloPi 自动化测试工具|4584|4|2021-12-27|
+|148|[ionic-team/capacitor](https://github.com/ionic-team/capacitor)|Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️|7020|4|2022-03-07|
+|149|[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)|The OWASP ZAP core project|9287|4|2022-03-07|
+|150|[Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf)|Distributed ID Generate Service|5228|4|2022-01-06|
+|151|[java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)|A standalone Java Decompiler GUI|10909|4|2022-01-18|
+|152|[iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)|A tool for reverse engineering Android apk files|13586|4|2022-03-08|
+|153|[medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)|The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.|13394|4|2022-03-04|
+|154|[prestodb/presto](https://github.com/prestodb/presto)|The official home of the Presto distributed SQL query engine for big data|13249|4|2022-03-08|
+|155|[mockito/mockito](https://github.com/mockito/mockito)|Most popular Mocking framework for unit tests written in Java|12680|4|2022-03-07|
+|156|[airbnb/epoxy](https://github.com/airbnb/epoxy)|Epoxy is an Android library for building complex screens in a RecyclerView|7805|4|2022-02-25|
+|157|[uber/RIBs](https://github.com/uber/RIBs)|Uber's cross-platform mobile architecture framework.|6760|4|2022-02-26|
+|158|[pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint)|APM, (Application Performance Management) tool for large-scale distributed systems. |12031|4|2022-03-07|
+|159|[nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|Powerful and flexible library for loading, caching and displaying images on Android.|16816|4|2022-01-17|
+|160|[alibaba/atlas](https://github.com/alibaba/atlas)|A powerful Android Dynamic Component Framework.|8048|4|2022-01-27|
+|161|[firebase/quickstart-android](https://github.com/firebase/quickstart-android)|Firebase Quickstart Samples for Android|8037|4|2022-03-03|
+|162|[rubyangxg/jd-qinglong](https://github.com/rubyangxg/jd-qinglong)|-|624|4|2022-01-29|
+|163|[ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed)|Elder driver Xposed Framework.|4551|4|2022-02-01|
+|164|[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|A util for setting status bar style on Android App.|8726|4|2022-01-03|
+|165|[ben-manes/caffeine](https://github.com/ben-manes/caffeine)|A high performance caching library for Java|11243|4|2022-03-07|
+|166|[sqshq/piggymetrics](https://github.com/sqshq/piggymetrics)|Microservice Architecture with Spring Boot, Spring Cloud and Docker|11390|4|2022-03-01|
+|167|[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)|Jenkins automation server|18557|4|2022-03-08|
+|168|[asLody/VirtualApp](https://github.com/asLody/VirtualApp)|Virtual Engine for Android(Support 12.0 in business version)|8533|4|2022-01-21|
+|169|[spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native)|Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.|2515|3|2022-03-07|
+|170|[koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)|Views and Drawable for displaying animated GIFs on Android|9029|3|2022-01-17|
+|171|[googlesamples/mlkit](https://github.com/googlesamples/mlkit)|A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS|1792|3|2022-02-22|
+|172|[google/agera](https://github.com/google/agera)|Reactive Programming for Android|7281|3|2022-01-13|
+|173|[markzhai/AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)|A transparent ui-block detection library for Android. (known as BlockCanary)|6284|3|2022-02-17|
+|174|[crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)|A splash screen for react-native, hide when application loaded ,it works on iOS and Android.|5116|3|2022-03-02|
+|175|[bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer)|AlphaPlayer is a video animation engine.|1578|3|2022-02-11|
+|176|[yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)|:strawberry: Permissions manager for Android platform.|6552|3|2022-03-01|
+|177|[jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)|An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank ...|11171|3|2021-09-19|
+|178|[Igalia/wolvic](https://github.com/Igalia/wolvic)|A fast and secure browser for standalone virtual-reality and augmented-reality headsets.|260|3|2022-03-04|
+|179|[ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains)|JetBrains theme of Material Theme|7909|3|2022-01-26|
+|180|[rom1v/sndcpy](https://github.com/rom1v/sndcpy)|Android audio forwarding (scrcpy, but for audio)|1866|3|2022-03-06|
+|181|[code4craft/webmagic](https://github.com/code4craft/webmagic)|A scalable web crawler framework for Java.|10270|3|2022-01-18|
+|182|[testsigmahq/testsigma](https://github.com/testsigmahq/testsigma)|A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.|198|3|2022-03-08|
+|183|[f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)|CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks|248|3|2022-02-18|
+|184|[GrenderG/Toasty](https://github.com/GrenderG/Toasty)|The usual Toast, but with steroids 💪|6296|3|2022-01-08|
+|185|[debezium/debezium](https://github.com/debezium/debezium)|Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.|6353|3|2022-03-08|
+|186|[x-ream/sqli](https://github.com/x-ream/sqli)|orm sql interface, Criteria, CriteriaBuilder, ResultMapBuilder|1907|3|2022-01-26|
+|187|[PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)|A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.|2357|3|2022-03-08|
+|188|[zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)|React Native Local and Remote Notifications|6313|3|2022-02-02|
+|189|[xuexiangjys/XUI](https://github.com/xuexiangjys/XUI)|💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！)|3676|3|2022-02-28|
+|190|[react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)|:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.|7507|3|2022-02-26|
+|191|[NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX)|A third-party Telegram android app.|1844|3|2022-03-07|
+|192|[zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)|A plugin for the ja-netfilter, it can replace strings dynamically.|284|3|2022-02-09|
 |193|[ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend)|Enjoy programming while playing a game.|1401|3|2022-03-08|
 |194|[cabaletta/baritone](https://github.com/cabaletta/baritone)|google maps for block game|4187|3|2022-03-07|
 |195|[stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP)|Stanford CoreNLP: A Java suite of core NLP tools.|8374|3|2022-03-03|

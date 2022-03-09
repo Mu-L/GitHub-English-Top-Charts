@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > TeX
-<sub>Updated: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -117,94 +117,94 @@
 |110|[mortennobel/CMake-Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)|Short introduction to CMake with some examples.|75|2021-10-20|
 |111|[Penaz91/2DGD_F0TH](https://github.com/Penaz91/2DGD_F0TH)|Mirror Repository for GameDev ebook "2D Game Development: From Zero To Hero"|74|2022-03-06|
 |112|[gnosis/dex-research](https://github.com/gnosis/dex-research)|Collection of research papers written within Gnosis|74|2021-12-01|
-|113|[avstjohn/qft](https://github.com/avstjohn/qft)|Lecture notes transcribed from course (Youtube videos) given by by Dr. Tobias Osborne.|73|2021-09-07|
-|114|[samcarter/tikzlings](https://github.com/samcarter/tikzlings)|Collection of animals and other beings drawn in TikZ |73|2021-12-31|
-|115|[ancailliau/sans-indexes](https://github.com/ancailliau/sans-indexes)|Indexes for SANS Courses and GIAC Certifications|69|2022-03-07|
-|116|[thuiar/OKD-Reading-List](https://github.com/thuiar/OKD-Reading-List)|Papers for Open Knowledge Discovery|68|2022-02-05|
-|117|[executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)|Cookiecutter template for a simple jupyter book|68|2022-03-01|
-|118|[YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)|A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations|68|2021-11-20|
-|119|[alan-turing-institute/TCPDBench](https://github.com/alan-turing-institute/TCPDBench)|The Turing Change Point Detection Benchmark: An Extensive Benchmark Evaluation of Change Point Detection Algorithms on real-world data|67|2022-02-21|
-|120|[aginiewicz/createspace](https://github.com/aginiewicz/createspace)|LaTeX package for typesetting books ready for CreateSpace.com|67|2022-02-19|
-|121|[akashp1712/awesome-python-cheatsheets](https://github.com/akashp1712/awesome-python-cheatsheets)|A reference cheat sheet for Java developers who are learning Python programming: https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a|65|2021-10-05|
-|122|[tsouanas/fmcbook](https://github.com/tsouanas/fmcbook)|Matemática Fundacional para Computação: book by Thanos Tsouanas (in portuguese)|65|2022-02-19|
-|123|[alexanderlerch/ACA-Slides](https://github.com/alexanderlerch/ACA-Slides)|Slides and Code for "An Introduction to Audio Content Analysis," also taught at Georgia Tech as MUSI-6201. This introductory course on Music Information Retrieval is based on the text book "An Introdu ...|64|2021-12-03|
-|124|[COPCSE-NTNU/thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU)|An NTNU thesis LaTeX document class for bachelor, master, and PhD theses|63|2022-02-08|
-|125|[aagontuk/cheatsheets](https://github.com/aagontuk/cheatsheets)|My long cheatsheets and reading lists about programming, electronics and more|63|2022-02-16|
-|126|[ucsd-progsys/liquidhaskell-tutorial](https://github.com/ucsd-progsys/liquidhaskell-tutorial)|Tutorial for LiquidHaskell|63|2021-11-08|
-|127|[janosh/tikz](https://github.com/janosh/tikz)|Random collection of standalone TikZ images|60|2022-03-06|
-|128|[rdahis/paper_template](https://github.com/rdahis/paper_template)|Template repository for research papers.|60|2021-11-18|
-|129|[Scinawa/quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org)|This is the repository for https://quantumalgorithms.org|59|2022-03-03|
-|130|[MEGA65/mega65-user-guide](https://github.com/MEGA65/mega65-user-guide)|MEGA65 User Guide|59|2022-03-04|
-|131|[a358003542/xelatex-guide-book](https://github.com/a358003542/xelatex-guide-book)|xelatex book template |59|2021-12-27|
-|132|[davibarreira/NotebookToLaTeX.jl](https://github.com/davibarreira/NotebookToLaTeX.jl)|A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.|58|2022-01-09|
-|133|[LucaCappelletti94/lectures-notes](https://github.com/LucaCappelletti94/lectures-notes)|My latex notes on whatever I'm studying. All are available to the public, but please take them with a grain of salt and notify me in case of errors :)|58|2021-11-23|
-|134|[H-Richard/UTSC-NOTES](https://github.com/H-Richard/UTSC-NOTES)|Notes for core CS courses at the University of Toronto Scarborough (UTSC)|57|2022-02-17|
-|135|[rgeirhos/academic-cv-publications](https://github.com/rgeirhos/academic-cv-publications)|Generate a customised list of publications for your LaTeX CV using BibTeX entries.|57|2022-01-29|
-|136|[tyleransom/EconometricsLabs](https://github.com/tyleransom/EconometricsLabs)|Collection of in-class labs in R for introductory econometrics class|56|2021-12-13|
-|137|[YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|55|2022-03-08|
-|138|[dccuchile/CC6104](https://github.com/dccuchile/CC6104)|Teaching material of the course "Statistical Thinking" of the Department of Computer Science at the University of Chile.|55|2022-01-27|
-|139|[SquareBracketAssociates/LearningOOPWithPharo](https://github.com/SquareBracketAssociates/LearningOOPWithPharo)|Learning Object-Oriented Programming with Pharo|55|2021-11-24|
-|140|[burakbayramli/classnotes](https://github.com/burakbayramli/classnotes)|ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lecture notes, tutorials on Linear Algebra, Computational Science, Computer Science ...|55|2022-03-08|
-|141|[pascalmichaillat/math-for-macro](https://github.com/pascalmichaillat/math-for-macro)|This repository contains material for a one-week graduate course on mathematical methods for macroeconomics.|54|2022-03-03|
-|142|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|53|2021-12-20|
-|143|[vhbelvadi/LaTeX-lecture-notes-class](https://github.com/vhbelvadi/LaTeX-lecture-notes-class)|A LaTeX document class for lecture notes (for a seminar, for an entire course with several lectures, or for brief talks) that looks great and works even with basic pdflatex.|53|2021-11-19|
-|144|[barghouthi/cs704](https://github.com/barghouthi/cs704)|CS 704 course website - Principles of Programming Languages|52|2022-03-03|
-|145|[informatik-mannheim/thesis-template](https://github.com/informatik-mannheim/thesis-template)|Template for a bachelor or master thesis in LaTeX or Word |52|2022-02-28|
-|146|[svmiller/stevetemplates](https://github.com/svmiller/stevetemplates)|My collection of R Markdown templates, as an R package.|51|2022-01-14|
-|147|[wmboyles/Math-Summaries](https://github.com/wmboyles/Math-Summaries)|Medium length summaries of math subjects like multivariable calculus. Longer than a formula sheet, shorter than a textbook.|51|2022-01-07|
-|148|[ZihengZZH/awesome-multimodal-knowledge-graph](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)|A curated list of AWESOME papers, datasets and tutorials within Multimodal Knowledge Graph.|50|2022-01-18|
-|149|[mbredel/thesis-template](https://github.com/mbredel/thesis-template)|A LaTeX template for Bachelor and Master thesis|50|2022-01-28|
-|150|[Spacial/csstuff](https://github.com/Spacial/csstuff)|CS Stuff is an awesome collection of Computer Science Stuff.|49|2022-02-20|
-|151|[nickrusso42518/cisco-etech](https://github.com/nickrusso42518/cisco-etech)|Free Cisco CCIE/CCDE Evolving Technologies book|45|2021-10-30|
-|152|[hyphenation/tex-hyphen](https://github.com/hyphenation/tex-hyphen)|Hyphenation patterns for TeX|45|2021-10-15|
-|153|[winitzki/linear-algebra-book](https://github.com/winitzki/linear-algebra-book)|The full source code and hyperlinked PDF of the book "Linear Algebra via Exterior Products" (2010)|44|2021-12-10|
-|154|[PositiveTechnologies/PT.Doc](https://github.com/PositiveTechnologies/PT.Doc)|:book: Positive Technologies public docs (English & Russian)|44|2021-12-30|
-|155|[kongr45gpen/ece-notes](https://github.com/kongr45gpen/ece-notes)|Notes from courses in Electrical & Computer Engineering in AUTh (not officially affiliated with the university). All notes are written in Greek using LaTeX.|44|2021-12-19|
-|156|[mgrabmueller/TransformersStepByStep](https://github.com/mgrabmueller/TransformersStepByStep)|Tutorial on monad transformers|44|2022-01-25|
-|157|[keithmcnulty/ona_book](https://github.com/keithmcnulty/ona_book)|Handbook of Graphs and Networks in People Analytics|43|2022-03-04|
-|158|[tingfengx/uoftnotes](https://github.com/tingfengx/uoftnotes)|Notes for some of my courses at University of Toronto|43|2022-03-04|
-|159|[DrWaleedAYousef/My-Stuff-To-Share](https://github.com/DrWaleedAYousef/My-Stuff-To-Share)|Miscellanea to share, including: scripts, advices, codes, etc.|43|2021-11-14|
-|160|[CalPolyCSC/thesis-template](https://github.com/CalPolyCSC/thesis-template)|A LaTeX template for CSC Master's theses which conforms to the guidelines given by the graduate education department.|43|2021-11-25|
-|161|[jaeyk/comp_thinking_social_science](https://github.com/jaeyk/comp_thinking_social_science)|Computational Thinking for Social Scientists book project |42|2022-02-13|
-|162|[bollu/notes](https://github.com/bollu/notes)|Latex notes on papers, courses, ideas: Pure math and computer science.|42|2022-01-23|
-|163|[v--/se2018](https://github.com/v--/se2018)|Study notes for my state examination in Sofia University|41|2022-01-31|
-|164|[cgnieder/leadsheets](https://github.com/cgnieder/leadsheets)|A LaTeX package for creating leadsheets and songbooks|41|2022-01-05|
-|165|[iblech/internal-methods](https://github.com/iblech/internal-methods)|Notes on how to use the internal language of toposes in algebraic geometry|41|2022-02-16|
-|166|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|40|2022-03-05|
-|167|[omarcostahamido/awesome-networked-media](https://github.com/omarcostahamido/awesome-networked-media)|Awesome list of tools for using multimedia in the network|40|2022-01-26|
-|168|[williamstein/ant](https://github.com/williamstein/ant)|Algebra Number Theory book|40|2022-03-02|
-|169|[21-lessons/21lessons-book](https://github.com/21-lessons/21lessons-book)|21 Lessons - A book about a bitcoin journey, written by a bitcoiner|39|2022-02-17|
-|170|[pbs-assess/csasdown](https://github.com/pbs-assess/csasdown)|:book: An R package for creating CSAS reports in PDF or Word format with R Markdown and bookdown|39|2022-03-07|
-|171|[gvwilson/10-lesson](https://github.com/gvwilson/10-lesson)|Ten Quick Tips for Creating an Effective Lesson|38|2021-11-07|
-|172|[jirilebl/diffyqs](https://github.com/jirilebl/diffyqs)|Notes on Diffy Qs, a textbook for differential equations|38|2022-02-04|
-|173|[dcernst/IBL-AbstractAlgebra](https://github.com/dcernst/IBL-AbstractAlgebra)|IBL course materials for an undergraduate first-semester abstract algebra course that emphasizes visualization.|38|2022-02-15|
-|174|[lenhoanglnh/SmartPoop](https://github.com/lenhoanglnh/SmartPoop)|This is the repository of the book "SmartPoop".|37|2022-02-02|
-|175|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|36|2022-03-06|
-|176|[JGAntunes/pulsarcast](https://github.com/JGAntunes/pulsarcast)|A pub-sub system for the distributed web - my master thesis @ IST|36|2021-09-24|
-|177|[schoolofdevops/learn-jenkins](https://github.com/schoolofdevops/learn-jenkins)|Learn Jenkins, Step by Step|36|2022-01-29|
-|178|[OpenBookshelf/DiscreteMathematics-Persian](https://github.com/OpenBookshelf/DiscreteMathematics-Persian)|This is an open-source Persian book on discrete mathematics provided by volunteers without any expectation and offered for free.|35|2022-02-25|
-|179|[tlverse/tlverse-handbook](https://github.com/tlverse/tlverse-handbook)| 🎯 :closed_book: Targeted Learning in R: A Causal Data Science Handbook|35|2022-03-03|
-|180|[tudelft3d/terrainbook](https://github.com/tudelft3d/terrainbook)|"Computational modelling of terrains" book: source code + PDF|35|2022-01-25|
-|181|[OpenLogicProject/forallx](https://github.com/OpenLogicProject/forallx)|P.D. Magnus' forallx logic textbook|35|2022-01-15|
-|182|[mohuangrui/latexspine](https://github.com/mohuangrui/latexspine)|LaTeX Template for Producing Book Spine|34|2021-10-29|
-|183|[ropensci/statistical-software-review-book](https://github.com/ropensci/statistical-software-review-book)|Guide for development and peer-review of statistical software|33|2021-12-08|
-|184|[nschloe/matlab-guidelines](https://github.com/nschloe/matlab-guidelines)|Guidelines for writing clean and fast code in MATLAB|33|2021-11-18|
-|185|[sdrforengineers/LabGuides](https://github.com/sdrforengineers/LabGuides)|Labs for SDR for Engineers textbook|32|2021-09-20|
-|186|[JohnWCartmell/Theory](https://github.com/JohnWCartmell/Theory)|Papers on aspects of Generalised Algebraic Theories, Contextual Categories and Mathematical Theory Of Data|32|2022-03-07|
-|187|[ismayc/rbasics-book](https://github.com/ismayc/rbasics-book)|An introduction to R, RStudio, and RMarkdown created with GitHub pages and bookdown package|32|2021-12-31|
-|188|[z3tt/graphic-design-ggplot2](https://github.com/z3tt/graphic-design-ggplot2)|Work–in–progress code and text behind the book "Graphic Design with ggplot2" that is going to be published by CRC Press.|31|2021-09-22|
-|189|[maxbiostat/Statistical_Inference_BSc](https://github.com/maxbiostat/Statistical_Inference_BSc)|Course materials for Statistical Inference ("Inferência Estatística")|31|2021-12-09|
-|190|[jirilebl/ra](https://github.com/jirilebl/ra)|Basic Analysis, undergraduate real analysis textbook|31|2022-03-07|
-|191|[ProgramacionCompetitivaUFPS/notebook](https://github.com/ProgramacionCompetitivaUFPS/notebook)|Notebook para competencias de programación - Universidad Francisco de Paula Santander, Cúcuta, Colombia, 2021.|31|2022-03-01|
-|192|[dcernst/IBL-IntroToProof](https://github.com/dcernst/IBL-IntroToProof)|IBL task sequence for an introduction to proof course.|31|2022-01-21|
-|193|[DickBrus/SpatialSamplingwithR](https://github.com/DickBrus/SpatialSamplingwithR)|Open source book: Spatial sampling with R|30|2022-01-17|
-|194|[PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition)|LaTeX Beginner's Guide - Second Edition, published by Packt|30|2021-09-27|
-|195|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|30|2022-03-01|
-|196|[ocaml-multicore/multicore-talks](https://github.com/ocaml-multicore/multicore-talks)|Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"|29|2022-02-08|
-|197|[pangfengliu/parallelprogramming](https://github.com/pangfengliu/parallelprogramming)|Materials for my parallel programming course|29|2022-03-08|
-|198|[XinzeZhang/Latex](https://github.com/XinzeZhang/Latex)|This is a Latex-WorkSpace being used by xinze.zh includes tutorial, CV and templates.|29|2021-11-16|
-|199|[AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp)|Frama-C and WP tutorial|29|2022-01-27|
-|200|[noise-lab/paper-skeleton](https://github.com/noise-lab/paper-skeleton)|Skeleton for writing conference papers in Latex|29|2021-10-28|
+|113|[samcarter/tikzlings](https://github.com/samcarter/tikzlings)|Collection of animals and other beings drawn in TikZ |73|2021-12-31|
+|114|[ancailliau/sans-indexes](https://github.com/ancailliau/sans-indexes)|Indexes for SANS Courses and GIAC Certifications|69|2022-03-07|
+|115|[thuiar/OKD-Reading-List](https://github.com/thuiar/OKD-Reading-List)|Papers for Open Knowledge Discovery|68|2022-02-05|
+|116|[executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)|Cookiecutter template for a simple jupyter book|68|2022-03-01|
+|117|[YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)|A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations|68|2021-11-20|
+|118|[alan-turing-institute/TCPDBench](https://github.com/alan-turing-institute/TCPDBench)|The Turing Change Point Detection Benchmark: An Extensive Benchmark Evaluation of Change Point Detection Algorithms on real-world data|67|2022-02-21|
+|119|[aginiewicz/createspace](https://github.com/aginiewicz/createspace)|LaTeX package for typesetting books ready for CreateSpace.com|67|2022-02-19|
+|120|[akashp1712/awesome-python-cheatsheets](https://github.com/akashp1712/awesome-python-cheatsheets)|A reference cheat sheet for Java developers who are learning Python programming: https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a|65|2021-10-05|
+|121|[tsouanas/fmcbook](https://github.com/tsouanas/fmcbook)|Matemática Fundacional para Computação: book by Thanos Tsouanas (in portuguese)|65|2022-02-19|
+|122|[alexanderlerch/ACA-Slides](https://github.com/alexanderlerch/ACA-Slides)|Slides and Code for "An Introduction to Audio Content Analysis," also taught at Georgia Tech as MUSI-6201. This introductory course on Music Information Retrieval is based on the text book "An Introdu ...|64|2021-12-03|
+|123|[COPCSE-NTNU/thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU)|An NTNU thesis LaTeX document class for bachelor, master, and PhD theses|63|2022-02-08|
+|124|[aagontuk/cheatsheets](https://github.com/aagontuk/cheatsheets)|My long cheatsheets and reading lists about programming, electronics and more|63|2022-02-16|
+|125|[ucsd-progsys/liquidhaskell-tutorial](https://github.com/ucsd-progsys/liquidhaskell-tutorial)|Tutorial for LiquidHaskell|63|2021-11-08|
+|126|[janosh/tikz](https://github.com/janosh/tikz)|Random collection of standalone TikZ images|60|2022-03-06|
+|127|[rdahis/paper_template](https://github.com/rdahis/paper_template)|Template repository for research papers.|60|2021-11-18|
+|128|[Scinawa/quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org)|This is the repository for https://quantumalgorithms.org|59|2022-03-03|
+|129|[MEGA65/mega65-user-guide](https://github.com/MEGA65/mega65-user-guide)|MEGA65 User Guide|59|2022-03-04|
+|130|[a358003542/xelatex-guide-book](https://github.com/a358003542/xelatex-guide-book)|xelatex book template |59|2021-12-27|
+|131|[davibarreira/NotebookToLaTeX.jl](https://github.com/davibarreira/NotebookToLaTeX.jl)|A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.|58|2022-01-09|
+|132|[LucaCappelletti94/lectures-notes](https://github.com/LucaCappelletti94/lectures-notes)|My latex notes on whatever I'm studying. All are available to the public, but please take them with a grain of salt and notify me in case of errors :)|58|2021-11-23|
+|133|[H-Richard/UTSC-NOTES](https://github.com/H-Richard/UTSC-NOTES)|Notes for core CS courses at the University of Toronto Scarborough (UTSC)|57|2022-02-17|
+|134|[rgeirhos/academic-cv-publications](https://github.com/rgeirhos/academic-cv-publications)|Generate a customised list of publications for your LaTeX CV using BibTeX entries.|57|2022-01-29|
+|135|[tyleransom/EconometricsLabs](https://github.com/tyleransom/EconometricsLabs)|Collection of in-class labs in R for introductory econometrics class|56|2021-12-13|
+|136|[YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|55|2022-03-08|
+|137|[dccuchile/CC6104](https://github.com/dccuchile/CC6104)|Teaching material of the course "Statistical Thinking" of the Department of Computer Science at the University of Chile.|55|2022-01-27|
+|138|[SquareBracketAssociates/LearningOOPWithPharo](https://github.com/SquareBracketAssociates/LearningOOPWithPharo)|Learning Object-Oriented Programming with Pharo|55|2021-11-24|
+|139|[burakbayramli/classnotes](https://github.com/burakbayramli/classnotes)|ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lecture notes, tutorials on Linear Algebra, Computational Science, Computer Science ...|55|2022-03-08|
+|140|[pascalmichaillat/math-for-macro](https://github.com/pascalmichaillat/math-for-macro)|This repository contains material for a one-week graduate course on mathematical methods for macroeconomics.|54|2022-03-03|
+|141|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|53|2021-12-20|
+|142|[vhbelvadi/LaTeX-lecture-notes-class](https://github.com/vhbelvadi/LaTeX-lecture-notes-class)|A LaTeX document class for lecture notes (for a seminar, for an entire course with several lectures, or for brief talks) that looks great and works even with basic pdflatex.|53|2021-11-19|
+|143|[barghouthi/cs704](https://github.com/barghouthi/cs704)|CS 704 course website - Principles of Programming Languages|52|2022-03-03|
+|144|[informatik-mannheim/thesis-template](https://github.com/informatik-mannheim/thesis-template)|Template for a bachelor or master thesis in LaTeX or Word |52|2022-02-28|
+|145|[svmiller/stevetemplates](https://github.com/svmiller/stevetemplates)|My collection of R Markdown templates, as an R package.|51|2022-01-14|
+|146|[wmboyles/Math-Summaries](https://github.com/wmboyles/Math-Summaries)|Medium length summaries of math subjects like multivariable calculus. Longer than a formula sheet, shorter than a textbook.|51|2022-01-07|
+|147|[ZihengZZH/awesome-multimodal-knowledge-graph](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)|A curated list of AWESOME papers, datasets and tutorials within Multimodal Knowledge Graph.|50|2022-01-18|
+|148|[mbredel/thesis-template](https://github.com/mbredel/thesis-template)|A LaTeX template for Bachelor and Master thesis|50|2022-01-28|
+|149|[Spacial/csstuff](https://github.com/Spacial/csstuff)|CS Stuff is an awesome collection of Computer Science Stuff.|49|2022-02-20|
+|150|[nickrusso42518/cisco-etech](https://github.com/nickrusso42518/cisco-etech)|Free Cisco CCIE/CCDE Evolving Technologies book|45|2021-10-30|
+|151|[hyphenation/tex-hyphen](https://github.com/hyphenation/tex-hyphen)|Hyphenation patterns for TeX|45|2021-10-15|
+|152|[winitzki/linear-algebra-book](https://github.com/winitzki/linear-algebra-book)|The full source code and hyperlinked PDF of the book "Linear Algebra via Exterior Products" (2010)|44|2021-12-10|
+|153|[PositiveTechnologies/PT.Doc](https://github.com/PositiveTechnologies/PT.Doc)|:book: Positive Technologies public docs (English & Russian)|44|2021-12-30|
+|154|[kongr45gpen/ece-notes](https://github.com/kongr45gpen/ece-notes)|Notes from courses in Electrical & Computer Engineering in AUTh (not officially affiliated with the university). All notes are written in Greek using LaTeX.|44|2021-12-19|
+|155|[mgrabmueller/TransformersStepByStep](https://github.com/mgrabmueller/TransformersStepByStep)|Tutorial on monad transformers|44|2022-01-25|
+|156|[keithmcnulty/ona_book](https://github.com/keithmcnulty/ona_book)|Handbook of Graphs and Networks in People Analytics|43|2022-03-04|
+|157|[tingfengx/uoftnotes](https://github.com/tingfengx/uoftnotes)|Notes for some of my courses at University of Toronto|43|2022-03-04|
+|158|[DrWaleedAYousef/My-Stuff-To-Share](https://github.com/DrWaleedAYousef/My-Stuff-To-Share)|Miscellanea to share, including: scripts, advices, codes, etc.|43|2021-11-14|
+|159|[CalPolyCSC/thesis-template](https://github.com/CalPolyCSC/thesis-template)|A LaTeX template for CSC Master's theses which conforms to the guidelines given by the graduate education department.|43|2021-11-25|
+|160|[jaeyk/comp_thinking_social_science](https://github.com/jaeyk/comp_thinking_social_science)|Computational Thinking for Social Scientists book project |42|2022-02-13|
+|161|[bollu/notes](https://github.com/bollu/notes)|Latex notes on papers, courses, ideas: Pure math and computer science.|42|2022-01-23|
+|162|[v--/se2018](https://github.com/v--/se2018)|Study notes for my state examination in Sofia University|41|2022-01-31|
+|163|[cgnieder/leadsheets](https://github.com/cgnieder/leadsheets)|A LaTeX package for creating leadsheets and songbooks|41|2022-01-05|
+|164|[iblech/internal-methods](https://github.com/iblech/internal-methods)|Notes on how to use the internal language of toposes in algebraic geometry|41|2022-02-16|
+|165|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|40|2022-03-05|
+|166|[omarcostahamido/awesome-networked-media](https://github.com/omarcostahamido/awesome-networked-media)|Awesome list of tools for using multimedia in the network|40|2022-01-26|
+|167|[williamstein/ant](https://github.com/williamstein/ant)|Algebra Number Theory book|40|2022-03-02|
+|168|[21-lessons/21lessons-book](https://github.com/21-lessons/21lessons-book)|21 Lessons - A book about a bitcoin journey, written by a bitcoiner|39|2022-02-17|
+|169|[pbs-assess/csasdown](https://github.com/pbs-assess/csasdown)|:book: An R package for creating CSAS reports in PDF or Word format with R Markdown and bookdown|39|2022-03-07|
+|170|[gvwilson/10-lesson](https://github.com/gvwilson/10-lesson)|Ten Quick Tips for Creating an Effective Lesson|38|2021-11-07|
+|171|[jirilebl/diffyqs](https://github.com/jirilebl/diffyqs)|Notes on Diffy Qs, a textbook for differential equations|38|2022-02-04|
+|172|[dcernst/IBL-AbstractAlgebra](https://github.com/dcernst/IBL-AbstractAlgebra)|IBL course materials for an undergraduate first-semester abstract algebra course that emphasizes visualization.|38|2022-02-15|
+|173|[lenhoanglnh/SmartPoop](https://github.com/lenhoanglnh/SmartPoop)|This is the repository of the book "SmartPoop".|37|2022-02-02|
+|174|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|36|2022-03-06|
+|175|[JGAntunes/pulsarcast](https://github.com/JGAntunes/pulsarcast)|A pub-sub system for the distributed web - my master thesis @ IST|36|2021-09-24|
+|176|[schoolofdevops/learn-jenkins](https://github.com/schoolofdevops/learn-jenkins)|Learn Jenkins, Step by Step|36|2022-01-29|
+|177|[OpenBookshelf/DiscreteMathematics-Persian](https://github.com/OpenBookshelf/DiscreteMathematics-Persian)|This is an open-source Persian book on discrete mathematics provided by volunteers without any expectation and offered for free.|35|2022-02-25|
+|178|[tlverse/tlverse-handbook](https://github.com/tlverse/tlverse-handbook)| 🎯 :closed_book: Targeted Learning in R: A Causal Data Science Handbook|35|2022-03-03|
+|179|[tudelft3d/terrainbook](https://github.com/tudelft3d/terrainbook)|"Computational modelling of terrains" book: source code + PDF|35|2022-01-25|
+|180|[OpenLogicProject/forallx](https://github.com/OpenLogicProject/forallx)|P.D. Magnus' forallx logic textbook|35|2022-01-15|
+|181|[mohuangrui/latexspine](https://github.com/mohuangrui/latexspine)|LaTeX Template for Producing Book Spine|34|2021-10-29|
+|182|[ropensci/statistical-software-review-book](https://github.com/ropensci/statistical-software-review-book)|Guide for development and peer-review of statistical software|33|2021-12-08|
+|183|[nschloe/matlab-guidelines](https://github.com/nschloe/matlab-guidelines)|Guidelines for writing clean and fast code in MATLAB|33|2021-11-18|
+|184|[sdrforengineers/LabGuides](https://github.com/sdrforengineers/LabGuides)|Labs for SDR for Engineers textbook|32|2021-09-20|
+|185|[JohnWCartmell/Theory](https://github.com/JohnWCartmell/Theory)|Papers on aspects of Generalised Algebraic Theories, Contextual Categories and Mathematical Theory Of Data|32|2022-03-07|
+|186|[ismayc/rbasics-book](https://github.com/ismayc/rbasics-book)|An introduction to R, RStudio, and RMarkdown created with GitHub pages and bookdown package|32|2021-12-31|
+|187|[z3tt/graphic-design-ggplot2](https://github.com/z3tt/graphic-design-ggplot2)|Work–in–progress code and text behind the book "Graphic Design with ggplot2" that is going to be published by CRC Press.|31|2021-09-22|
+|188|[maxbiostat/Statistical_Inference_BSc](https://github.com/maxbiostat/Statistical_Inference_BSc)|Course materials for Statistical Inference ("Inferência Estatística")|31|2021-12-09|
+|189|[jirilebl/ra](https://github.com/jirilebl/ra)|Basic Analysis, undergraduate real analysis textbook|31|2022-03-07|
+|190|[ProgramacionCompetitivaUFPS/notebook](https://github.com/ProgramacionCompetitivaUFPS/notebook)|Notebook para competencias de programación - Universidad Francisco de Paula Santander, Cúcuta, Colombia, 2021.|31|2022-03-01|
+|191|[dcernst/IBL-IntroToProof](https://github.com/dcernst/IBL-IntroToProof)|IBL task sequence for an introduction to proof course.|31|2022-01-21|
+|192|[DickBrus/SpatialSamplingwithR](https://github.com/DickBrus/SpatialSamplingwithR)|Open source book: Spatial sampling with R|30|2022-01-17|
+|193|[PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition)|LaTeX Beginner's Guide - Second Edition, published by Packt|30|2021-09-27|
+|194|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|30|2022-03-01|
+|195|[ocaml-multicore/multicore-talks](https://github.com/ocaml-multicore/multicore-talks)|Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"|29|2022-02-08|
+|196|[pangfengliu/parallelprogramming](https://github.com/pangfengliu/parallelprogramming)|Materials for my parallel programming course|29|2022-03-08|
+|197|[XinzeZhang/Latex](https://github.com/XinzeZhang/Latex)|This is a Latex-WorkSpace being used by xinze.zh includes tutorial, CV and templates.|29|2021-11-16|
+|198|[AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp)|Frama-C and WP tutorial|29|2022-01-27|
+|199|[noise-lab/paper-skeleton](https://github.com/noise-lab/paper-skeleton)|Skeleton for writing conference papers in Latex|29|2021-10-28|
+|200|[ivangiangreco/basilea-latex](https://github.com/ivangiangreco/basilea-latex)|Latex Template for Bachelor and Master thesis (University of Basel, Department of Mathematics and Computer Science)|29|2021-10-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
