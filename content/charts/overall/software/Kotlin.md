@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Kotlin
-<sub>Updated: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -140,71 +140,71 @@
 |133|[mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream)|An Android app to watch anime on your phone without ads.|1861|2022-02-19|
 |134|[zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)|Material Design file manager for Android|1861|2022-03-08|
 |135|[Tencent/bk-ci](https://github.com/Tencent/bk-ci)|蓝鲸CI平台(BlueKing CI) |1829|2022-03-08|
-|136|[anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)|A lightweight Android browser with modern navigation|1812|2021-09-08|
-|137|[MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging)|Lightweight logging framework for Kotlin. A convenient and performant logging library wrapping slf4j with Kotlin extensions|1776|2022-02-22|
-|138|[skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)|🌠 Transform into a different view or activity using morphing animations.|1761|2022-02-12|
-|139|[ajalt/clikt](https://github.com/ajalt/clikt)|Multiplatform command line interface parsing for Kotlin|1755|2022-03-06|
-|140|[airbnb/paris](https://github.com/airbnb/paris)|Define and apply styles to Android views programmatically|1748|2022-01-12|
-|141|[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)|Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.|1742|2022-02-12|
-|142|[fossasia/badge-magic-android](https://github.com/fossasia/badge-magic-android)|Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic|1728|2022-02-23|
-|143|[aritraroy/Flashbar](https://github.com/aritraroy/Flashbar)|⚡️A highly customizable, powerful and easy-to-use alerting library for Android.|1709|2021-11-10|
-|144|[cbeust/klaxon](https://github.com/cbeust/klaxon)|A JSON parser for Kotlin|1709|2021-12-25|
-|145|[holgerbrandl/kscript](https://github.com/holgerbrandl/kscript)|Scripting enhancements for Kotlin|1706|2022-01-12|
-|146|[ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)|An app for catching up on things.|1705|2022-02-20|
-|147|[tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)|Source extensions for the Tachiyomi app.|1704|2022-03-07|
-|148|[faruktoptas/FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)|An easy-to-use customisable show case view with circular reveal animation.|1682|2022-03-06|
-|149|[RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)|Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.|1634|2022-03-05|
-|150|[UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)|Track your favorite TV shows and movies on Android devices.|1629|2022-03-03|
-|151|[jkwiecien/EasyImage](https://github.com/jkwiecien/EasyImage)|Library for picking pictures from gallery or camera|1623|2021-11-09|
-|152|[wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)| 📱The official Wikipedia app for Android!|1619|2022-03-08|
-|153|[yshrsmz/KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent)|Android Library to handle software keyboard visibility change event.|1614|2021-09-29|
-|154|[VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)|Android application to analyze WiFi signals.|1591|2022-03-05|
-|155|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|1579|2022-03-08|
-|156|[ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)|A lightweight Android material bottom navigation bar library|1548|2022-02-04|
-|157|[Tinder/StateMachine](https://github.com/Tinder/StateMachine)|A Kotlin and Swift DSL for finite state machine|1541|2022-03-08|
-|158|[android/databinding-samples](https://github.com/android/databinding-samples)|-|1520|2021-10-21|
-|159|[nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter)|Android app to showcase complex UI/Animations with and without MotionLayout|1519|2022-03-01|
-|160|[KronicDeth/intellij-elixir](https://github.com/KronicDeth/intellij-elixir)|Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)|1519|2022-01-14|
-|161|[JakeWharton/diffuse](https://github.com/JakeWharton/diffuse)|Diffuse is a tool for diffing APKs, AABs, AARs, and JARs|1504|2022-02-19|
-|162|[AdevintaSpain/Barista](https://github.com/AdevintaSpain/Barista)|:coffee: The one who serves a great Espresso|1488|2022-03-05|
-|163|[google/ksp](https://github.com/google/ksp)|Kotlin Symbol Processing API|1473|2022-03-08|
-|164|[EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua)|Lua IDE/Debugger Plugin for IntelliJ IDEA|1466|2022-03-08|
-|165|[wching/Android-Indefinite-Pager-Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator)|A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.|1449|2022-03-07|
-|166|[cashapp/contour](https://github.com/cashapp/contour)|Layouts with lambdas 😎|1437|2021-09-13|
-|167|[videolan/vlc-android](https://github.com/videolan/vlc-android)|  VLC for Android, Android TV and ChromeOS|1430|2022-03-07|
-|168|[quran/quran_android](https://github.com/quran/quran_android)|a quran reading application for android|1421|2022-03-07|
-|169|[VIPyinzhiwei/Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1416|2022-02-12|
-|170|[lopspower/CircularProgressBar](https://github.com/lopspower/CircularProgressBar)|Create circular ProgressBar in Android ⭕|1409|2021-10-19|
-|171|[ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)|Libraries for running GraphQL in Kotlin|1387|2022-03-08|
-|172|[MLReef/mlreef](https://github.com/MLReef/mlreef)|The collaboration workspace for Machine Learning|1380|2022-01-12|
-|173|[zhaobozhen/LibChecker](https://github.com/zhaobozhen/LibChecker)|An app to view libraries used in apps in your device.|1350|2022-03-08|
-|174|[cashapp/turbine](https://github.com/cashapp/turbine)|A small testing library for kotlinx.coroutines Flow|1347|2022-03-02|
-|175|[JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)|Template repository for creating plugins for IntelliJ Platform|1346|2022-03-02|
-|176|[sephiroth74/android-target-tooltip](https://github.com/sephiroth74/android-target-tooltip)|Create Toast like tooltips, but targets can be specified, plus custom properties and features|1332|2021-11-22|
-|177|[Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX)|Make Android transparent statusbar and navigationbar easy.|1330|2021-11-17|
-|178|[skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)|🦁  A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, Flow, Room, Repository, Koin) architecture.|1314|2022-01-08|
-|179|[cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template)|Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️|1302|2022-03-04|
-|180|[rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|1294|2022-01-03|
-|181|[jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql)|Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin|1289|2022-03-06|
-|182|[splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)|Gmail style MultiAutoCompleteTextView for Android|1284|2022-01-27|
-|183|[airbnb/Showkase](https://github.com/airbnb/Showkase)|🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements|1282|2022-02-22|
-|184|[KasperskyLab/Kaspresso](https://github.com/KasperskyLab/Kaspresso)|Great UI test framework|1282|2022-02-27|
-|185|[mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)|:cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation|1278|2022-03-01|
-|186|[robertlevonyan/material-chip-view](https://github.com/robertlevonyan/material-chip-view)|Material Chip view. Can be used as tags for categories, contacts or creating text clouds|1276|2022-02-01|
-|187|[kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)|A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.|1268|2022-02-15|
-|188|[Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)|KotlinX multiplatform date/time library|1258|2022-03-05|
-|189|[google-developer-training/android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)|android-kotlin-fundamentals-apps|1256|2021-12-06|
-|190|[jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions)|Life is too short to google for dependencies and versions|1242|2022-03-06|
-|191|[bitvale/Switcher](https://github.com/bitvale/Switcher)|Android implementation of switch animation from Oleg Frolov|1239|2022-01-03|
-|192|[tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)|An Android client for the microblogging server Mastodon|1235|2022-03-07|
-|193|[gotson/komga](https://github.com/gotson/komga)|Media server for comics/mangas/BDs with API and OPDS support|1211|2022-03-05|
-|194|[home-assistant/android](https://github.com/home-assistant/android)|:iphone: Home Assistant Companion for Android|1198|2022-03-08|
-|195|[JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore)|.ignore support plugin for IntelliJ IDEA|1194|2022-03-02|
-|196|[Kotlin/kmm-production-sample](https://github.com/Kotlin/kmm-production-sample)|cross-platform application built with Kotlin Multiplatform Mobile|1151|2022-02-10|
-|197|[JakeWharton/mosaic](https://github.com/JakeWharton/mosaic)|An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime|1145|2022-03-01|
-|198|[PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT)|📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.|1144|2022-03-08|
-|199|[korlibs/korge](https://github.com/korlibs/korge)|KorGE Game Engine. Multiplatform Kotlin Game Engine|1137|2022-02-12|
-|200|[iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)|Yet another material bottom bar library for Android|1127|2021-11-09|
+|136|[MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging)|Lightweight logging framework for Kotlin. A convenient and performant logging library wrapping slf4j with Kotlin extensions|1776|2022-02-22|
+|137|[skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)|🌠 Transform into a different view or activity using morphing animations.|1761|2022-02-12|
+|138|[ajalt/clikt](https://github.com/ajalt/clikt)|Multiplatform command line interface parsing for Kotlin|1755|2022-03-06|
+|139|[airbnb/paris](https://github.com/airbnb/paris)|Define and apply styles to Android views programmatically|1748|2022-01-12|
+|140|[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)|Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.|1742|2022-02-12|
+|141|[fossasia/badge-magic-android](https://github.com/fossasia/badge-magic-android)|Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic|1728|2022-02-23|
+|142|[aritraroy/Flashbar](https://github.com/aritraroy/Flashbar)|⚡️A highly customizable, powerful and easy-to-use alerting library for Android.|1709|2021-11-10|
+|143|[cbeust/klaxon](https://github.com/cbeust/klaxon)|A JSON parser for Kotlin|1709|2021-12-25|
+|144|[holgerbrandl/kscript](https://github.com/holgerbrandl/kscript)|Scripting enhancements for Kotlin|1706|2022-01-12|
+|145|[ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)|An app for catching up on things.|1705|2022-02-20|
+|146|[tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)|Source extensions for the Tachiyomi app.|1704|2022-03-07|
+|147|[faruktoptas/FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)|An easy-to-use customisable show case view with circular reveal animation.|1682|2022-03-06|
+|148|[RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)|Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.|1634|2022-03-05|
+|149|[UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)|Track your favorite TV shows and movies on Android devices.|1629|2022-03-03|
+|150|[jkwiecien/EasyImage](https://github.com/jkwiecien/EasyImage)|Library for picking pictures from gallery or camera|1623|2021-11-09|
+|151|[wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)| 📱The official Wikipedia app for Android!|1619|2022-03-08|
+|152|[yshrsmz/KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent)|Android Library to handle software keyboard visibility change event.|1614|2021-09-29|
+|153|[VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)|Android application to analyze WiFi signals.|1591|2022-03-05|
+|154|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|1579|2022-03-08|
+|155|[ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)|A lightweight Android material bottom navigation bar library|1548|2022-02-04|
+|156|[Tinder/StateMachine](https://github.com/Tinder/StateMachine)|A Kotlin and Swift DSL for finite state machine|1541|2022-03-08|
+|157|[android/databinding-samples](https://github.com/android/databinding-samples)|-|1520|2021-10-21|
+|158|[nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter)|Android app to showcase complex UI/Animations with and without MotionLayout|1519|2022-03-01|
+|159|[KronicDeth/intellij-elixir](https://github.com/KronicDeth/intellij-elixir)|Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)|1519|2022-01-14|
+|160|[JakeWharton/diffuse](https://github.com/JakeWharton/diffuse)|Diffuse is a tool for diffing APKs, AABs, AARs, and JARs|1504|2022-02-19|
+|161|[AdevintaSpain/Barista](https://github.com/AdevintaSpain/Barista)|:coffee: The one who serves a great Espresso|1488|2022-03-05|
+|162|[google/ksp](https://github.com/google/ksp)|Kotlin Symbol Processing API|1473|2022-03-08|
+|163|[EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua)|Lua IDE/Debugger Plugin for IntelliJ IDEA|1466|2022-03-08|
+|164|[wching/Android-Indefinite-Pager-Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator)|A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.|1449|2022-03-07|
+|165|[cashapp/contour](https://github.com/cashapp/contour)|Layouts with lambdas 😎|1437|2021-09-13|
+|166|[videolan/vlc-android](https://github.com/videolan/vlc-android)|  VLC for Android, Android TV and ChromeOS|1430|2022-03-07|
+|167|[quran/quran_android](https://github.com/quran/quran_android)|a quran reading application for android|1421|2022-03-07|
+|168|[VIPyinzhiwei/Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1416|2022-02-12|
+|169|[lopspower/CircularProgressBar](https://github.com/lopspower/CircularProgressBar)|Create circular ProgressBar in Android ⭕|1409|2021-10-19|
+|170|[ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)|Libraries for running GraphQL in Kotlin|1387|2022-03-08|
+|171|[MLReef/mlreef](https://github.com/MLReef/mlreef)|The collaboration workspace for Machine Learning|1380|2022-01-12|
+|172|[zhaobozhen/LibChecker](https://github.com/zhaobozhen/LibChecker)|An app to view libraries used in apps in your device.|1350|2022-03-08|
+|173|[cashapp/turbine](https://github.com/cashapp/turbine)|A small testing library for kotlinx.coroutines Flow|1347|2022-03-02|
+|174|[JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)|Template repository for creating plugins for IntelliJ Platform|1346|2022-03-02|
+|175|[sephiroth74/android-target-tooltip](https://github.com/sephiroth74/android-target-tooltip)|Create Toast like tooltips, but targets can be specified, plus custom properties and features|1332|2021-11-22|
+|176|[Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX)|Make Android transparent statusbar and navigationbar easy.|1330|2021-11-17|
+|177|[skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)|🦁  A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, Flow, Room, Repository, Koin) architecture.|1314|2022-01-08|
+|178|[cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template)|Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️|1302|2022-03-04|
+|179|[rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|1294|2022-01-03|
+|180|[jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql)|Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin|1289|2022-03-06|
+|181|[splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)|Gmail style MultiAutoCompleteTextView for Android|1284|2022-01-27|
+|182|[airbnb/Showkase](https://github.com/airbnb/Showkase)|🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements|1282|2022-02-22|
+|183|[KasperskyLab/Kaspresso](https://github.com/KasperskyLab/Kaspresso)|Great UI test framework|1282|2022-02-27|
+|184|[mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)|:cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation|1278|2022-03-01|
+|185|[robertlevonyan/material-chip-view](https://github.com/robertlevonyan/material-chip-view)|Material Chip view. Can be used as tags for categories, contacts or creating text clouds|1276|2022-02-01|
+|186|[kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)|A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.|1268|2022-02-15|
+|187|[Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)|KotlinX multiplatform date/time library|1258|2022-03-05|
+|188|[google-developer-training/android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)|android-kotlin-fundamentals-apps|1256|2021-12-06|
+|189|[jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions)|Life is too short to google for dependencies and versions|1242|2022-03-06|
+|190|[bitvale/Switcher](https://github.com/bitvale/Switcher)|Android implementation of switch animation from Oleg Frolov|1239|2022-01-03|
+|191|[tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)|An Android client for the microblogging server Mastodon|1235|2022-03-07|
+|192|[gotson/komga](https://github.com/gotson/komga)|Media server for comics/mangas/BDs with API and OPDS support|1211|2022-03-05|
+|193|[home-assistant/android](https://github.com/home-assistant/android)|:iphone: Home Assistant Companion for Android|1198|2022-03-08|
+|194|[JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore)|.ignore support plugin for IntelliJ IDEA|1194|2022-03-02|
+|195|[Kotlin/kmm-production-sample](https://github.com/Kotlin/kmm-production-sample)|cross-platform application built with Kotlin Multiplatform Mobile|1151|2022-02-10|
+|196|[JakeWharton/mosaic](https://github.com/JakeWharton/mosaic)|An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime|1145|2022-03-01|
+|197|[PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT)|📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.|1144|2022-03-08|
+|198|[korlibs/korge](https://github.com/korlibs/korge)|KorGE Game Engine. Multiplatform Kotlin Game Engine|1137|2022-02-12|
+|199|[iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)|Yet another material bottom bar library for Android|1127|2021-11-09|
+|200|[RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android)|User input masking library repo.|1126|2021-11-26|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
