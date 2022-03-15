@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|15|2021-11-09|2021-10-03|
-|3|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|2022-02-28|2021-05-19|
-|4|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|13|2022-02-24|2021-09-30|
+|3|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|14|2022-02-24|2021-09-30|
+|4|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|2022-03-15|2021-05-19|
 |5|[jamesdh/kompromat](https://github.com/jamesdh/kompromat)|Kompromat Yandex Reviewer|10|2022-03-13|2022-03-02|
 |6|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-01-10|2021-12-31|
 |7|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |8|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|6|2021-12-03|2021-09-25|
 |9|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|6|2022-03-09|2021-09-07|
 |10|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2022-03-06|2021-08-03|
-|11|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-03-10|2021-05-05|
+|11|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-03-15|2021-05-05|
 |12|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|5|2022-01-15|2021-12-03|
 |13|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
 |14|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|5|2022-03-03|2021-06-30|
@@ -23,7 +23,7 @@
 |16|[boundrates/codeartifact-gradle-plugin](https://github.com/boundrates/codeartifact-gradle-plugin)|Gradle plugin that configures AWS CodeArtifact repositories as both the source of plugins and the source of project dependencies|4|2022-03-14|2022-02-04|
 |17|[kibotu/stale-bot](https://github.com/kibotu/stale-bot)|Tags and removes branches older than x days.|4|2022-02-10|2022-02-04|
 |18|[Midnighter/tyche](https://github.com/Midnighter/tyche)|Randomly sub-sample sequencing reads to a specified coverage or number of bases.|4|2022-02-15|2021-10-05|
-|19|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-02-11|2021-10-04|
+|19|[gazprom-neft/Sharedlib-jenkins-dso](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)|-|3|2022-03-15|2021-10-04|
 |20|[pricefx/pricefx-starter](https://github.com/pricefx/pricefx-starter)|This is a very basic Pricefx configuration project that will help you to get started with development on the Pricefx Platform. Use it to initialize a new Pricefx project!|3|2021-12-06|2021-09-27|
 |21|[jorge-source/jenkins-pipeline-examples](https://github.com/jorge-source/jenkins-pipeline-examples)|Repositório com exemplos de escrita para pipelines no Jenkins.|3|2021-09-23|2021-09-22|
 |22|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
@@ -56,19 +56,18 @@
 |49|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-02-15|2021-08-28|
 |50|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |51|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2021-12-31|2021-08-19|
-|52|[msid256/MockInjector4Spock](https://github.com/msid256/MockInjector4Spock)|Easily annotate Mocks and inject them into the method under test|2|2021-09-13|2021-08-14|
-|53|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-08|2021-08-11|
-|54|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
-|55|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
-|56|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
-|57|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|58|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-14|2021-06-02|
-|59|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
-|60|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|61|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-13|2021-04-24|
-|62|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|63|[ClaudioConsolmagno/spring-data-jpa-temporal](https://github.com/ClaudioConsolmagno/spring-data-jpa-temporal)|Temporal auditing extension of the Spring Data JPA module|2|2021-09-17|2021-04-13|
-|64|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
+|52|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-08|2021-08-11|
+|53|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
+|54|[groovyzk/grailszk](https://github.com/groovyzk/grailszk)|Formerly known as ZK Grails, Grailszk is a plugin to integrate ZK infrastructure to modern Grails.|2|2022-02-17|2021-08-02|
+|55|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
+|56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
+|57|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-14|2021-06-02|
+|58|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
+|59|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
+|60|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-13|2021-04-24|
+|61|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|62|[ClaudioConsolmagno/spring-data-jpa-temporal](https://github.com/ClaudioConsolmagno/spring-data-jpa-temporal)|Temporal auditing extension of the Spring Data JPA module|2|2021-09-17|2021-04-13|
+|63|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|2|2021-10-01|2021-04-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

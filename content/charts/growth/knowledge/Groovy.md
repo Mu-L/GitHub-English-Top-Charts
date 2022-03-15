@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2022-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3858|2|2022-02-02|
-|2|[gradle/gradle-enterprise-build-config-samples](https://github.com/gradle/gradle-enterprise-build-config-samples)|Code samples that demonstrate how to customize your Gradle Enterprise build configuration using Gradle or Maven.|36|0|2022-03-13|
+|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3859|2|2022-02-02|
+|2|[gradle/gradle-enterprise-build-config-samples](https://github.com/gradle/gradle-enterprise-build-config-samples)|Code samples that demonstrate how to customize your Gradle Enterprise build configuration using Gradle or Maven.|36|0|2022-03-15|
 |3|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|5|0|2022-03-14|
 |4|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|6|0|2022-03-10|
 |5|[cx-leonelsanches/checkmarx-jenkins-shared-library](https://github.com/cx-leonelsanches/checkmarx-jenkins-shared-library)|Jenkins Shared Library to use with Checkmarx Jenkins Plugin|2|0|2021-12-29|
@@ -21,28 +21,28 @@
 |14|[devonfw/production-line-shared-lib](https://github.com/devonfw/production-line-shared-lib)|Jenkins "Shared libs" for Production Line templating|6|0|2022-01-21|
 |15|[MinecraftForge/forgesharedlibrary](https://github.com/MinecraftForge/forgesharedlibrary)|Forge Groovy Shared Libraries for Jenkins|6|0|2021-10-31|
 |16|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|5|0|2022-03-08|
-|17|[g0t4/course-jenkins-getting-started](https://github.com/g0t4/course-jenkins-getting-started)|Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course|35|0|2021-12-28|
+|17|[g0t4/course-jenkins-getting-started](https://github.com/g0t4/course-jenkins-getting-started)|Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course|36|0|2021-12-28|
 |18|[tracetronic/jenkins-library](https://github.com/tracetronic/jenkins-library)|Jenkins shared library for your CX automation workflows.|6|0|2022-01-19|
 |19|[edmcouncil/auto](https://github.com/edmcouncil/auto)|The AUTOMOTIVE ONTOLOGY (AUTO) defines the shared conceptual structures in the automotive industry. It is an OWL ontology. It is built upon the auto schema.org extension created by the W3C Automotive  ...|3|0|2022-02-21|
 |20|[sgwilbur/jenkins-shared-library](https://github.com/sgwilbur/jenkins-shared-library)|Jenkins Shared Library Examples|3|0|2021-09-20|
 |21|[colinbut/jenkins-shared-library](https://github.com/colinbut/jenkins-shared-library)|My personal Jenkins Shared Library |12|0|2022-02-12|
 |22|[earthly/ci-examples](https://github.com/earthly/ci-examples)|Examples using different CI systems to build with Earthly.|5|0|2021-10-01|
-|23|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|54|0|2022-03-14|
+|23|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|54|0|2022-03-15|
 |24|[agorapulse/grails-facebook-sdk](https://github.com/agorapulse/grails-facebook-sdk)|Facebook SDK Grails Plugin|30|0|2022-01-19|
 |25|[tomasbjerre/jenkins-configuration-as-code-sandbox](https://github.com/tomasbjerre/jenkins-configuration-as-code-sandbox)|Jenkins Configuration as Code, JCasC, Job DSL, Pipeline, Shared library|80|0|2022-01-07|
 |26|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|169|0|2022-03-08|
 |27|[cescoffier/vertx-examples-it](https://github.com/cescoffier/vertx-examples-it)|Automatic execution of vertx-examples|5|0|2021-12-09|
 |28|[codetojoy/easter_eggs_for_gradle](https://github.com/codetojoy/easter_eggs_for_gradle)|Basic examples for Gradle. Usage of 'egg' here is SSCCE: http://sscce.org Edit Add topics|5|0|2021-11-28|
-|29|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|38|0|2022-03-14|
+|29|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|38|0|2022-03-15|
 |30|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|8|0|2022-03-09|
 |31|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|116|0|2022-01-01|
-|32|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|11|0|2022-03-14|
+|32|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|11|0|2022-03-15|
 |33|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|9|0|2022-03-10|
 |34|[voyages-sncf-technologies/hesperides-jenkins-lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib)|Shared lib for Jenkins pipelines to interact with Hesperides|3|0|2021-10-19|
 |35|[NotAHero04/PojavOptimize](https://github.com/NotAHero04/PojavOptimize)|Not just a collection of mods to increase of the performance of PojavLauncher on low-end devices, but also provide some QoL mods that you will definitely need.|2|0|2022-03-01|
 |36|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Advanced Jenkinsfile & Jenkins Shared Library (Groovy)|8|0|2022-03-09|
 |37|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|21|0|2022-03-11|
-|38|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|46|0|2022-03-14|
+|38|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|46|0|2022-03-15|
 |39|[matthew-sbrito/api-grails](https://github.com/matthew-sbrito/api-grails)|API Rest in Grails, learning to use the framework|2|0|2022-03-09|
 |40|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|23|0|2021-12-13|
 |41|[slemarchand/liferay-admin-scripts](https://github.com/slemarchand/liferay-admin-scripts)|A collection of scripts to run in the Liferay admin script console|15|0|2021-09-20|
@@ -57,7 +57,7 @@
 |50|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|2|0|2022-03-04|
 |51|[atselvan/jenkins-pipeline-go](https://github.com/atselvan/jenkins-pipeline-go)|Jenkins shared/global library for building golang code (go pipeline)|3|0|2022-02-23|
 |52|[elbuo8/platzi-scripts](https://github.com/elbuo8/platzi-scripts)|Collection of platzi scripts for classes|40|0|2022-02-16|
-|53|[rakutentech/android-buildconfig](https://github.com/rakutentech/android-buildconfig)|Shared (gradle) build configurations for Android and Java libraries|18|0|2022-03-09|
+|53|[rakutentech/android-buildconfig](https://github.com/rakutentech/android-buildconfig)|Shared (gradle) build configurations for Android and Java libraries|18|0|2022-03-15|
 |54|[eXsio/querydsl-entityql-examples](https://github.com/eXsio/querydsl-entityql-examples)|QueryDSL EntityQL Examples |5|0|2022-02-10|
 |55|[binbashar/jenkins-modules](https://github.com/binbashar/jenkins-modules)|Jenkins groovy modules library for aws, code_snippets, dns, docker-machine, hashicorp-vault, k8s, mysql, passbolt, php, python, scm, slack, test, util, and more to come!|8|0|2021-10-08|
 |56|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|3|0|2022-03-06|
@@ -71,7 +71,7 @@
 |64|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|22|0|2021-11-26|
 |65|[evanwinter/jira-snippets](https://github.com/evanwinter/jira-snippets)|Helpful snippets for a more powerful JIRA Service Desk setup.|6|0|2021-09-16|
 |66|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2022-03-12|
-|67|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|0|2022-03-14|
+|67|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|0|2022-03-15|
 |68|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2022-03-14|
 |69|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|10|0|2021-12-13|
 |70|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|13|0|2022-02-22|
@@ -82,16 +82,16 @@
 |75|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|0|2021-12-24|
 |76|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|103|0|2022-02-23|
 |77|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|134|0|2022-02-24|
-|78|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|0|2022-03-09|
-|79|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2022-02-28|
+|78|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|0|2022-03-15|
+|79|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2022-03-15|
 |80|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|0|2021-11-04|
 |81|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|69|0|2022-02-21|
 |82|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|90|0|2021-12-27|
 |83|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|19|0|2021-12-11|
-|84|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |562|0|2022-02-18|
+|84|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |563|0|2022-02-18|
 |85|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|2|0|2021-10-06|
 |86|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|0|2022-01-11|
-|87|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2022-03-14|
+|87|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2022-03-15|
 |88|[CamilYed/readable-tests-by-example](https://github.com/CamilYed/readable-tests-by-example)|How to improve your tests readability by few simple tips|2|0|2022-03-01|
 |89|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2022-03-05|
 |90|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|27|0|2021-12-17|
