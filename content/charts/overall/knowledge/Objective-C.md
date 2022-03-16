@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13893|2022-01-23|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5114|2022-03-11|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5121|2022-03-11|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3302|2021-12-04|
 |4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2860|2022-03-02|
 |5|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2716|2021-12-16|
@@ -14,9 +14,9 @@
 |7|[microsoft/TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter)|A starter template for TypeScript and React Native with a detailed README describing how to use the two together.|1915|2022-02-11|
 |8|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1761|2022-01-10|
 |9|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1658|2021-11-02|
-|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1222|2022-03-11|
+|10|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1223|2022-03-11|
 |11|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|848|2021-10-01|
-|12|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|460|2021-12-24|
+|12|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|461|2021-12-24|
 |13|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|449|2022-03-02|
 |14|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|445|2022-01-06|
 |15|[brunow/NoteItIOS](https://github.com/brunow/NoteItIOS)|Ios markdown notebook|293|2021-09-30|
@@ -36,7 +36,7 @@
 |29|[wowmaking/react-native-image-tools](https://github.com/wowmaking/react-native-image-tools)|A collection of image processing tools for React Native|53|2022-03-02|
 |30|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|50|2022-01-20|
 |31|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|50|2022-01-12|
-|32|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2022-03-07|
+|32|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2022-03-16|
 |33|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|44|2022-02-01|
 |34|[tidev/titanium-identity](https://github.com/tidev/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|2022-03-15|
 |35|[weitzel926/StatusFlow](https://github.com/weitzel926/StatusFlow)|Control for the animated display of a series of cells used to indicate status|38|2022-03-13|

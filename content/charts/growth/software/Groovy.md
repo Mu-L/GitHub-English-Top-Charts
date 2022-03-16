@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Groovy
-<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|4201|4|2022-03-04|
-|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|13152|3|2022-03-15|
-|3|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2228|2|2022-03-11|
-|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3642|2|2021-09-15|
-|5|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1397|1|2022-02-18|
+|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|4207|4|2022-03-04|
+|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|13153|3|2022-03-16|
+|3|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2231|2|2022-03-11|
+|4|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3643|2|2021-09-15|
+|5|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1399|1|2022-02-18|
 |6|[novoda/bintray-release](https://github.com/novoda/bintray-release)|A helper for releasing from gradle up to bintray|1870|1|2022-02-11|
 |7|[ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)|Gradle plugin to discover dependency updates|3193|1|2022-03-07|
-|8|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2302|1|2022-03-15|
-|9|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|1645|1|2022-03-15|
+|8|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceTypeHandlers and SmartApps code|2302|1|2022-03-16|
+|9|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|1645|1|2022-03-16|
 |10|[jamesdh/kompromat](https://github.com/jamesdh/kompromat)|Kompromat Yandex Reviewer|10|1|2022-03-13|
 |11|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|2857|1|2022-02-16|
 |12|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1275|1|2022-03-15|
-|13|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|4507|1|2022-03-15|
+|13|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|4508|1|2022-03-16|
 |14|[assertj/assertj-generator-gradle-plugin](https://github.com/assertj/assertj-generator-gradle-plugin)|Gradle plugin for the AssertJ Generator|19|0|2022-03-07|
 |15|[TheChrisTech/Hubitat-SharkIQRobot](https://github.com/TheChrisTech/Hubitat-SharkIQRobot)|Hubitat Integration for Shark IQ Robot|11|0|2022-02-01|
 |16|[cbmarcum/mybusiness](https://github.com/cbmarcum/mybusiness)|A Grails 4 plugin for online product e-commerce|4|0|2022-03-05|
@@ -30,7 +30,7 @@
 |23|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|0|2021-11-23|
 |24|[darinpope/github-api-global-lib](https://github.com/darinpope/github-api-global-lib)|-|33|0|2022-01-20|
 |25|[kungfoo/ergon-gradle-goodies-versioning](https://github.com/kungfoo/ergon-gradle-goodies-versioning)|Gradle plugin to autmatically generate version strings from your git history. Has awesome features for android version numbers as well.|6|0|2021-10-27|
-|26|[bradsjm/hubitat-drivers](https://github.com/bradsjm/hubitat-drivers)|My Personal Hubitat Drivers|6|0|2022-03-11|
+|26|[bradsjm/hubitat-drivers](https://github.com/bradsjm/hubitat-drivers)|My Personal Hubitat Drivers|6|0|2022-03-16|
 |27|[nebula-plugins/gradle-extra-configurations-plugin](https://github.com/nebula-plugins/gradle-extra-configurations-plugin)|Gradle plugin introducing a provided dependency configuration and marking a dependency as optional.|135|0|2022-03-09|
 |28|[virtualdogbert/GroovyConfigWriter](https://github.com/virtualdogbert/GroovyConfigWriter)|A writer for the Groovy Config Slurper format.|8|0|2022-01-17|
 |29|[jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin)|Gradle plugin that provides a task to generate a HTML license report of your project.|280|0|2022-02-16|
@@ -46,7 +46,7 @@
 |39|[ultraq/jaxb-utilities](https://github.com/ultraq/jaxb-utilities)|An alternative API for working with XML files using JAXB|5|0|2021-09-28|
 |40|[jprante/gradle-plugin-jflex](https://github.com/jprante/gradle-plugin-jflex)|A JFlex plugin for Gradle|5|0|2022-02-11|
 |41|[totallytot/ScriptRunner](https://github.com/totallytot/ScriptRunner)|Scripts for JIRA/Confluence|20|0|2022-02-08|
-|42|[etiennestuder/gradle-plugindev-plugin](https://github.com/etiennestuder/gradle-plugindev-plugin)|Gradle plugin that facilitates the bundling and publishing of Gradle plugins as expected by the Gradle Plugin Portal, JCenter, and MavenCentral.|62|0|2022-02-17|
+|42|[etiennestuder/gradle-plugindev-plugin](https://github.com/etiennestuder/gradle-plugindev-plugin)|Gradle plugin that facilitates the bundling and publishing of Gradle plugins as expected by the Gradle Plugin Portal, JCenter, and MavenCentral.|62|0|2022-03-16|
 |43|[roblandry/camera-record.app](https://github.com/roblandry/camera-record.app)|This app was designed to work with the Android IP Camera device (http://github.com/roblandry/android-ip-camera.device). You can record video or take a burst of photos when a trigger is activated. Acce ...|2|0|2022-02-20|
 |44|[JavaPosseRoundup/job-dsl-plugin](https://github.com/JavaPosseRoundup/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|27|0|2022-01-01|
 |45|[AdobeDocs/experience-manager-64.en](https://github.com/AdobeDocs/experience-manager-64.en)|This is the repository for Adobe Experience Manager 6.4 documentation. Your contributions to the documentation are welcome.|15|0|2022-03-11|
@@ -65,14 +65,14 @@
 |58|[sherter/google-java-format-gradle-plugin](https://github.com/sherter/google-java-format-gradle-plugin)|-|167|0|2021-11-21|
 |59|[platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter)|Gradle dependencies formatter for IntelliJ IDEA|159|0|2022-03-15|
 |60|[adoptium/github-release-scripts](https://github.com/adoptium/github-release-scripts)|Scripts for release artefacts to GitHub releases|4|0|2022-03-07|
-|61|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|0|2022-03-15|
+|61|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|0|2022-03-16|
 |62|[hoobs-org/smartthings](https://github.com/hoobs-org/smartthings)|Provides the API interface between HOOBS and SmartThings|2|0|2021-10-16|
 |63|[CyberSource/cybersource-plugins-commercetools](https://github.com/CyberSource/cybersource-plugins-commercetools)|This repository contains the source code for the CyberSource CommerceTools plugin|3|0|2022-01-05|
 |64|[ccoupe/hubitat](https://github.com/ccoupe/hubitat)|Hubitat drivers, apps for my arduino devices|2|0|2022-02-25|
 |65|[Tesco/aqueduct-core](https://github.com/Tesco/aqueduct-core)|Hierarchical one way data sync|12|0|2022-03-07|
 |66|[lappsgrid-incubator/Eager](https://github.com/lappsgrid-incubator/Eager)|Biomedical text mining and question answering.|2|0|2022-02-26|
 |67|[tombensve/MarkdownDoc](https://github.com/tombensve/MarkdownDoc)|A Java tool/maven plugin/library to generate HMTL and PDF from markdown text intended for project documentation. Supports JSON based "stylesheet" for PDFs.|21|0|2022-01-21|
-|68|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|4|0|2022-03-15|
+|68|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|4|0|2022-03-16|
 |69|[ClaudioConsolmagno/spring-data-jpa-temporal](https://github.com/ClaudioConsolmagno/spring-data-jpa-temporal)|Temporal auditing extension of the Spring Data JPA module|2|0|2021-09-17|
 |70|[qbicsoftware/variantstore-service](https://github.com/qbicsoftware/variantstore-service)|The Variantstore is a Java/Groovy-based service application implemented using the Micronaut framework and enables storage and access to information on genomic variants and metadata from a connected da ...|2|0|2022-03-14|
 |71|[org-arl/fjage-sentuator](https://github.com/org-arl/fjage-sentuator)|Sensor/actuator framework for fjåge|2|0|2021-12-01|
@@ -114,9 +114,9 @@
 |107|[mfuerstenau/gradle-buildconfig-plugin](https://github.com/mfuerstenau/gradle-buildconfig-plugin)|A BuildConfig plugin for Gradle java projects|166|0|2021-12-20|
 |108|[OneSignal/OneSignal-Gradle-Plugin](https://github.com/OneSignal/OneSignal-Gradle-Plugin)|Use with OneSignal-Android-SDK to help integrate it into your Android Studio or Gradle project. https://onesignal.com|56|0|2021-12-18|
 |109|[nebula-plugins/gradle-git-scm-plugin](https://github.com/nebula-plugins/gradle-git-scm-plugin)|Git implementation of gradle-scm-plugin|12|0|2022-03-09|
-|110|[luxteam/rpr_pipelines](https://github.com/luxteam/rpr_pipelines)|-|2|0|2022-03-14|
+|110|[luxteam/rpr_pipelines](https://github.com/luxteam/rpr_pipelines)|-|2|0|2022-03-16|
 |111|[zebrunner/pipeline-ce](https://github.com/zebrunner/pipeline-ce)|Zebrunner CE pipeline and jobdsl scripts|2|0|2022-02-16|
-|112|[Percona-Lab/jenkins-pipelines](https://github.com/Percona-Lab/jenkins-pipelines)|-|14|0|2022-03-15|
+|112|[Percona-Lab/jenkins-pipelines](https://github.com/Percona-Lab/jenkins-pipelines)|-|14|0|2022-03-16|
 |113|[mwav3/smartthingscode](https://github.com/mwav3/smartthingscode)|-|11|0|2021-11-29|
 |114|[katalon-studio-samples/azure-devops-extension-samples](https://github.com/katalon-studio-samples/azure-devops-extension-samples)|-|3|0|2022-03-01|
 |115|[aonghus-mor/SmartThingsPublic](https://github.com/aonghus-mor/SmartThingsPublic)|Smartthings device types and smart apps|11|0|2022-01-04|
@@ -174,17 +174,17 @@
 |167|[blackducksoftware/integration-pipeline-library](https://github.com/blackducksoftware/integration-pipeline-library)|Integration Jenkins pipeline functions|10|0|2022-03-15|
 |168|[devatherock/git-sync](https://github.com/devatherock/git-sync)|CI plugin to sync the contents of a git repository with another|2|0|2021-10-30|
 |169|[krlaframboise/SmartThings](https://github.com/krlaframboise/SmartThings)|-|537|0|2022-02-09|
-|170|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|5|0|2022-03-15|
+|170|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|5|0|2022-03-16|
 |171|[grails/grails-doc](https://github.com/grails/grails-doc)|Documentation Project For The Grails Web Application Framework|197|0|2022-03-11|
-|172|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|418|0|2022-03-15|
-|173|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|128|0|2022-03-09|
+|172|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|418|0|2022-03-16|
+|173|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|128|0|2022-03-16|
 |174|[nebula-plugins/gradle-netflixoss-project-plugin](https://github.com/nebula-plugins/gradle-netflixoss-project-plugin)|Gradle plugin to setup common needs for Netflix OSS projects|13|0|2022-03-09|
 |175|[CruGlobal/jenkins-jobs](https://github.com/CruGlobal/jenkins-jobs)|a repository for yaml definitions for Cru jenkins jobs (and pipeline libraries)|5|0|2022-02-10|
 |176|[ultraq/thymeleaf-expression-processor](https://github.com/ultraq/thymeleaf-expression-processor)|A simplified API for working with Thymeleaf expressions|2|0|2022-02-23|
 |177|[kaimyn/Hubitat](https://github.com/kaimyn/Hubitat)|Hubitat device drivers for Tailwind support|2|0|2021-10-05|
-|178|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|20|0|2022-03-15|
-|179|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|284|0|2022-03-15|
-|180|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2022-03-15|
+|178|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|20|0|2022-03-16|
+|179|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|284|0|2022-03-16|
+|180|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2022-03-16|
 |181|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|0|2021-09-28|
 |182|[avaj-java/common-man](https://github.com/avaj-java/common-man)|java utils|2|0|2021-12-26|
 |183|[xebialabs/gradle-xl-dependency-plugin](https://github.com/xebialabs/gradle-xl-dependency-plugin)|XebiaLabs Gradle dependency management|2|0|2021-12-27|
@@ -193,7 +193,7 @@
 |186|[dukecon/dukecon_server](https://github.com/dukecon/dukecon_server)|-|11|0|2022-03-07|
 |187|[jrfarrar/hubitat](https://github.com/jrfarrar/hubitat)|For Hubitat|4|0|2022-03-11|
 |188|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|0|2021-12-10|
-|189|[brown-uk/nlp_uk](https://github.com/brown-uk/nlp_uk)|This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.|57|0|2022-02-22|
+|189|[brown-uk/nlp_uk](https://github.com/brown-uk/nlp_uk)|This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.|58|0|2022-02-22|
 |190|[Itiviti/gradle-nuget-plugin](https://github.com/Itiviti/gradle-nuget-plugin)|Executes NuGet from a gradle build|20|0|2021-12-08|
 |191|[vAndrija/kts-devops](https://github.com/vAndrija/kts-devops)|-|2|0|2022-01-29|
 |192|[nebula-plugins/gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)|A plugin to allow people using dynamic dependency versions to lock them to specific versions.|272|0|2022-03-09|

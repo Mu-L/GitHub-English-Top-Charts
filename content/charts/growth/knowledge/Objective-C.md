@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5114|6|2022-03-11|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5121|6|2022-03-11|
 |2|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13893|4|2022-01-23|
 |3|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2095|1|2022-03-09|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2716|1|2021-12-16|
@@ -55,13 +55,13 @@
 |48|[NSSimpleApps/ConnectTheDots](https://github.com/NSSimpleApps/ConnectTheDots)|User must connect all dots to win. He can share own result with FB or Twitter.|3|0|2021-11-02|
 |49|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2022-02-11|
 |50|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|93|0|2021-11-27|
-|51|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|460|0|2021-12-24|
-|52|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1222|0|2022-03-11|
+|51|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|461|0|2021-12-24|
+|52|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1223|0|2022-03-11|
 |53|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2022-03-02|
 |54|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|0|2022-01-15|
 |55|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|11|0|2021-10-29|
 |56|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|3|0|2022-02-04|
-|57|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-03-07|
+|57|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2022-03-16|
 |58|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|0|2021-12-12|
 |59|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|9|0|2022-03-04|
 |60|[hallski/bubble-view](https://github.com/hallski/bubble-view)|Some examples of drawing a popover bubble for iPhone.|37|0|2021-11-18|

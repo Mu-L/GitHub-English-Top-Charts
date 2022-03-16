@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1227|2022-03-09|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1228|2022-03-09|
 |2|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|126|2022-02-17|
 |3|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|109|2022-02-15|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|104|2022-03-11|
 |5|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|2021-12-09|
-|6|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|78|2021-09-19|
-|7|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|70|2022-03-15|
+|6|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|79|2021-09-19|
+|7|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|70|2022-03-16|
 |8|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|59|2021-10-30|
 |9|[beNative/Concepts](https://github.com/beNative/Concepts)|A collection of modules which demonstrate some programming concepts and Delphi libraries.|56|2022-02-27|
 |10|[SNEG-DEV/siege-of-avalon](https://github.com/SNEG-DEV/siege-of-avalon)|"Siege of Avalon: Anthology” Remastered : Open Source|38|2022-01-23|
 |11|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|30|2022-03-10|
 |12|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|2022-01-26|
-|13|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|25|2022-02-08|
+|13|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|25|2022-03-16|
 |14|[dalijap/code-delphi-async](https://github.com/dalijap/code-delphi-async)|Code examples from Delphi Event-based and Asynchronous Programming Book|23|2022-01-22|
 |15|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|22|2022-02-12|
 |16|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|20|2022-02-24|

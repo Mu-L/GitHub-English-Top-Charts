@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -38,20 +38,20 @@
 |31|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2022-01-26|
 |32|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
 |33|[ideasawakened/iaLib](https://github.com/ideasawakened/iaLib)|Shared code library - intended for use as a git submodule in other projects|13|0|2021-12-13|
-|34|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1227|0|2022-03-09|
+|34|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1228|0|2022-03-09|
 |35|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|0|2022-01-27|
 |36|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|59|0|2021-10-30|
 |37|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|0|2021-11-22|
-|38|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|78|0|2021-09-19|
+|38|[jackdp/JPPack](https://github.com/jackdp/JPPack)|A collection of VCL/LCL components for Delphi/Lazarus - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other|79|0|2021-09-19|
 |39|[isemenkov/advpascalutils](https://github.com/isemenkov/advpascalutils)|AdvPascalUtils is a library of some useful patterns and complex data structures implemented for FreePascal and Delphi.|5|0|2021-10-30|
-|40|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|70|0|2022-03-15|
+|40|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|70|0|2022-03-16|
 |41|[ryuuzera/loginscreen](https://github.com/ryuuzera/loginscreen)|screen UI project for study |3|0|2021-09-16|
 |42|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|104|0|2022-03-11|
 |43|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2022-03-10|
 |44|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|
 |45|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|4|0|2022-01-31|
 |46|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|0|2022-02-23|
-|47|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|25|0|2022-02-08|
+|47|[CleverComponents/Clever-Internet-Suite-Tutorials](https://github.com/CleverComponents/Clever-Internet-Suite-Tutorials)|Examples, code snippets and demo projects for the Clever Internet Suite Tutorials.|25|0|2022-03-16|
 |48|[viniciusfbb/fmx_tutorials](https://github.com/viniciusfbb/fmx_tutorials)|Several own delphi firemonkey tutorials|20|0|2022-02-24|
 |49|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|0|2022-02-09|
 |50|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|7|0|2022-01-31|
