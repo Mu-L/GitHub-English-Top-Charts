@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|1014|2022-03-07|2021-10-23|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|1018|2022-03-07|2021-10-23|
 |2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|213|2022-02-12|2021-04-05|
-|3|[cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell)|Collection of common CSS mistakes, and how to fix them|173|2022-03-16|2021-04-09|
+|3|[cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell)|Collection of common CSS mistakes, and how to fix them|178|2022-03-16|2021-04-09|
 |4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|153|2022-02-12|2021-04-19|
 |5|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|128|2022-03-04|2021-08-20|
 |6|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|86|2022-02-09|2022-02-09|
-|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|85|2022-03-07|2021-06-15|
+|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|86|2022-03-17|2021-06-15|
 |8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|73|2021-11-22|2021-09-26|
-|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|65|2022-02-02|2021-08-16|
-|10|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|47|2022-03-16|2021-11-03|
-|11|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|44|2022-03-16|2021-11-10|
+|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|66|2022-02-02|2021-08-16|
+|10|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|47|2022-03-17|2021-11-03|
+|11|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|45|2022-03-16|2021-11-10|
 |12|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|42|2022-03-11|2021-10-24|
 |13|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
 |14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
@@ -23,8 +23,8 @@
 |16|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|31|2022-03-13|2021-08-18|
 |17|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|31|2022-03-13|2021-05-15|
 |18|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |30|2022-02-24|2021-06-18|
-|19|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-02-24|2021-10-08|
-|20|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|27|2022-03-16|2021-06-16|
+|19|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|28|2022-03-17|2021-06-16|
+|20|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-03-17|2021-10-08|
 |21|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
 |22|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript are available in here. |20|2022-01-24|2021-09-03|
 |23|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|19|2021-12-16|2021-12-16|
@@ -52,7 +52,7 @@
 |45|[rg3915/django-auth-tutorial](https://github.com/rg3915/django-auth-tutorial)|Meu tutorial de Autenticação com Django em pt-br|9|2022-02-10|2021-04-04|
 |46|[uxai/startpage](https://github.com/uxai/startpage)|A simple customizable browser startpage for searching and bookmarks|8|2022-03-03|2022-02-28|
 |47|[F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS](https://github.com/F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you  how to make a login page, I made the tutorial from the Online Tutorials channel.|8|2022-01-28|2022-01-27|
-|48|[kookma/TW-Gatha](https://github.com/kookma/TW-Gatha)|Gatha Studio Workspace allows you to create in browser plugins, and editions for distributing tools like scripts, themes, languages, ... and contents like course notes, presentations, pamphlets, ebook ...|8|2022-02-18|2022-01-26|
+|48|[kookma/TW-Gatha](https://github.com/kookma/TW-Gatha)|Gatha Studio Workspace allows you to create in browser TiddlyWiki plugins, and editions for distributing tools like scripts, themes, languages, ... and contents like course notes, presentations, pamph ...|8|2022-02-18|2022-01-26|
 |49|[Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector)|Injects search results from the linkding bookmark service into search pages like google and duckduckgo|8|2022-01-17|2022-01-10|
 |50|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|8|2022-01-14|2022-01-03|
 |51|[KaProDes/storymarker](https://github.com/KaProDes/storymarker)|Made for small teams to internally share designs, mockups and code.|8|2022-02-13|2021-12-21|
