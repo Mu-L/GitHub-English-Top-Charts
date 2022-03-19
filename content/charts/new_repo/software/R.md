@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > R
-<sub>Updated: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath)|Create curved text paths in ggplot2|472|2022-02-19|2021-11-10|
 |2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|438|2022-03-02|2021-12-11|
-|3|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|390|2022-03-18|2021-05-12|
+|3|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|392|2022-03-19|2021-05-12|
 |4|[eusporg/alphaicon](https://github.com/eusporg/alphaicon)|α-Indirect Control in Onion-like Networks|146|2021-10-01|2021-09-16|
 |5|[mtennekes/cols4all](https://github.com/mtennekes/cols4all)|Colors for all (R package)|134|2022-03-17|2022-02-10|
-|6|[vincentarelbundock/marginaleffects](https://github.com/vincentarelbundock/marginaleffects)|An R package to compute marginal effects, adjusted predictions, contrasts, and marginal means for a wide variety of models|116|2022-03-17|2021-09-06|
-|7|[davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey)|Make sankey, alluvial and sankey bump plots in ggplot|116|2022-02-24|2021-03-25|
+|6|[davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey)|Make sankey, alluvial and sankey bump plots in ggplot|117|2022-02-24|2021-03-25|
+|7|[vincentarelbundock/marginaleffects](https://github.com/vincentarelbundock/marginaleffects)|An R package to compute marginal effects, adjusted predictions, contrasts, and marginal means for a wide variety of models|116|2022-03-17|2021-09-06|
 |8|[ianmoran11/mmtable2](https://github.com/ianmoran11/mmtable2)|Create and combine tables with a ggplot2/patchwork syntax.|114|2021-10-20|2021-04-11|
-|9|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|An R package for making generative art using 'ggplot2'.|103|2022-03-18|2021-04-08|
+|9|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|An R package for making generative art using 'ggplot2'.|103|2022-03-19|2021-04-08|
 |10|[marcosci/layer](https://github.com/marcosci/layer)|Create stacked tilted maps|102|2022-03-03|2021-12-14|
 |11|[jamesotto852/ggdensity](https://github.com/jamesotto852/ggdensity)|An R package for interpretable visualizations of bivariate density estimates|101|2022-02-17|2021-09-15|
 |12|[jokergoo/spiralize](https://github.com/jokergoo/spiralize)|Visualize data on spirals|97|2022-02-18|2021-06-14|
@@ -21,14 +21,14 @@
 |14|[MilesMcBain/paint](https://github.com/MilesMcBain/paint)|paint the data|87|2022-03-04|2021-07-28|
 |15|[svalvaro/drawCell](https://github.com/svalvaro/drawCell)|R package to create cell pictures.|85|2022-01-19|2021-07-21|
 |16|[coolbutuseless/ggsvg](https://github.com/coolbutuseless/ggsvg)|Use SVG images as ggplot points|84|2021-12-30|2021-12-23|
-|17|[easystats/datawizard](https://github.com/easystats/datawizard)|Magic potions to clean and transform your data 🧙 |82|2022-03-18|2021-05-26|
+|17|[easystats/datawizard](https://github.com/easystats/datawizard)|Magic potions to clean and transform your data 🧙 |82|2022-03-19|2021-05-26|
 |18|[h-a-graham/rayvista](https://github.com/h-a-graham/rayvista)|An R plugin for {rayshader} to view a 3D vista anywhere on earth.|71|2021-11-12|2021-05-07|
 |19|[YuLab-SMU/ggbreak](https://github.com/YuLab-SMU/ggbreak)|:broken_heart: An implementation of scale functions for setting axis breaks of a 'gg' plot.|70|2022-02-05|2021-05-10|
 |20|[mdneuzerling/lambdr](https://github.com/mdneuzerling/lambdr)|Run R containers on AWS Lambda|66|2021-11-21|2021-10-01|
 |21|[rossdrucker/sportyR](https://github.com/rossdrucker/sportyR)|R package for drawing regulation playing surfaces for several sports|66|2021-11-03|2021-03-21|
 |22|[georgemsavva/genuary2022](https://github.com/georgemsavva/genuary2022)|Code for some selected genuary 2022 experiments|64|2022-01-15|2022-01-14|
-|23|[JosiahParry/sfweight](https://github.com/JosiahParry/sfweight)|Calculate spatial weights and lags with {sf} objects and the tidyverse. |60|2021-11-16|2021-05-24|
-|24|[moodymudskipper/powerjoin](https://github.com/moodymudskipper/powerjoin)|Extensions of 'dplyr' and 'fuzzyjoin' Join Functions|59|2022-03-07|2021-10-20|
+|23|[moodymudskipper/powerjoin](https://github.com/moodymudskipper/powerjoin)|Extensions of 'dplyr' and 'fuzzyjoin' Join Functions|60|2022-03-07|2021-10-20|
+|24|[JosiahParry/sfweight](https://github.com/JosiahParry/sfweight)|Calculate spatial weights and lags with {sf} objects and the tidyverse. |60|2021-11-16|2021-05-24|
 |25|[abhiamishra/ggshakeR](https://github.com/abhiamishra/ggshakeR)|An analysis and visualization R package that works with publicly available soccer data|54|2022-03-18|2021-09-08|
 |26|[coolbutuseless/wordle](https://github.com/coolbutuseless/wordle)|Wordle helper for RStats|51|2022-01-23|2021-12-28|
 |27|[dreamRs/toastui](https://github.com/dreamRs/toastui)|R htmlwidgets for ToastUI libraries: grid, calendar and chart|47|2022-02-24|2021-04-21|
@@ -48,11 +48,11 @@
 |41|[AbdoulMa/TidyTuesday](https://github.com/AbdoulMa/TidyTuesday)|-|39|2022-03-17|2021-05-09|
 |42|[carmonalab/UCell](https://github.com/carmonalab/UCell)|An R package for single-cell gene signature scoring|39|2022-03-18|2021-04-06|
 |43|[wch/shiny-wordle](https://github.com/wch/shiny-wordle)|Wordle in Shiny|38|2022-02-09|2022-01-27|
-|44|[Nowosad/supercells](https://github.com/Nowosad/supercells)|The goal of supercells is to utilize the concept of superpixels to a variety of spatial data. |37|2022-02-18|2021-04-27|
-|45|[ThinkR-open/wedding](https://github.com/ThinkR-open/wedding)|Shiny app with custom css to prepare and manage a wedding|37|2022-03-18|2021-04-20|
-|46|[dcardosos/speechbr](https://github.com/dcardosos/speechbr)|Scrap Speech Text And Speaker Informations of Discusos E Notas Taquigraficas of Câmara Dos Deputados Of Brazil, And Transform In A Tidy Tibble.|36|2022-02-24|2021-12-26|
+|44|[dcardosos/speechbr](https://github.com/dcardosos/speechbr)|Scrap Speech Text And Speaker Informations of Discusos E Notas Taquigraficas of Câmara Dos Deputados Of Brazil, And Transform In A Tidy Tibble.|37|2022-02-24|2021-12-26|
+|45|[Nowosad/supercells](https://github.com/Nowosad/supercells)|The goal of supercells is to utilize the concept of superpixels to a variety of spatial data. |37|2022-02-18|2021-04-27|
+|46|[ThinkR-open/wedding](https://github.com/ThinkR-open/wedding)|Shiny app with custom css to prepare and manage a wedding|37|2022-03-18|2021-04-20|
 |47|[tidymodels/shinymodels](https://github.com/tidymodels/shinymodels)|-|36|2021-11-30|2021-06-03|
-|48|[kharchenkolab/numbat](https://github.com/kharchenkolab/numbat)|Haplotype-aware CNV analysis in scRNA-Seq|36|2022-03-18|2021-05-25|
+|48|[kharchenkolab/numbat](https://github.com/kharchenkolab/numbat)|Haplotype-aware CNV analysis in scRNA-Seq|36|2022-03-19|2021-05-25|
 |49|[steveharoz/painbow](https://github.com/steveharoz/painbow)|Use XKCD's Painbow colormap with ggplot|35|2022-02-09|2021-11-05|
 |50|[asteves/tayloRswift](https://github.com/asteves/tayloRswift)|For when your colors absolutely should not be excluded from the narrative. |35|2021-11-24|2021-05-21|
 |51|[XiaoLuo-boy/ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap)|ggplot2 version of heatmap|35|2022-02-01|2021-05-20|
@@ -60,29 +60,29 @@
 |53|[microsoft/finnts](https://github.com/microsoft/finnts)|Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts  ...|33|2022-03-18|2021-07-02|
 |54|[sdesabbata/r-for-geographic-data-science](https://github.com/sdesabbata/r-for-geographic-data-science)|R for Geographic Data Science|33|2021-11-30|2021-05-12|
 |55|[pedrocoutinhosilva/imola](https://github.com/pedrocoutinhosilva/imola)|Easy CSS layouts (grid and Flexbox) for R/shiny dashboards|32|2022-02-17|2021-11-09|
-|56|[nrennie/aRt](https://github.com/nrennie/aRt)|An R package to create generative art.|32|2022-03-03|2021-09-29|
+|56|[nrennie/aRt](https://github.com/nrennie/aRt)|An R package to create generative art.|32|2022-03-19|2021-09-29|
 |57|[ropensci/katex](https://github.com/ropensci/katex)|Server side math to html rendering in R|32|2022-02-08|2021-06-30|
 |58|[aphalo/ggpp](https://github.com/aphalo/ggpp)|Grammar of graphics extensions to 'ggplot2'|32|2021-12-29|2021-04-29|
 |59|[McGranahanLab/TcellExTRECT](https://github.com/McGranahanLab/TcellExTRECT)|-|31|2021-11-17|2021-07-30|
 |60|[pmur002/gggrid](https://github.com/pmur002/gggrid)|Easily integrate 'grid' drawing with 'ggplot2'|31|2022-03-18|2021-05-25|
 |61|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|31|2022-01-28|2021-05-13|
 |62|[coolbutuseless/svgparser](https://github.com/coolbutuseless/svgparser)|Render SVG images in R. Load SVG data as data.frames|30|2021-12-25|2021-12-01|
-|63|[MilesMcBain/portal](https://github.com/MilesMcBain/portal)|move data between R processes|29|2022-01-10|2021-05-31|
-|64|[olihawkins/tabbycat](https://github.com/olihawkins/tabbycat)|An R package for tabulating and summarising categorical variables.|28|2021-11-24|2021-09-19|
-|65|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|2021-11-11|2021-08-10|
-|66|[sundellviz/dataviz](https://github.com/sundellviz/dataviz)|Codes for data visualizations posted on reddit and twitter|28|2021-12-22|2021-07-07|
-|67|[jdjohn215/milwaukee-weather](https://github.com/jdjohn215/milwaukee-weather)|Use Github Actions to automatically update a weather graph every day|27|2022-03-18|2022-02-19|
+|63|[sundellviz/dataviz](https://github.com/sundellviz/dataviz)|Codes for data visualizations posted on reddit and twitter|29|2021-12-22|2021-07-07|
+|64|[MilesMcBain/portal](https://github.com/MilesMcBain/portal)|move data between R processes|29|2022-01-10|2021-05-31|
+|65|[olihawkins/tabbycat](https://github.com/olihawkins/tabbycat)|An R package for tabulating and summarising categorical variables.|28|2021-11-24|2021-09-19|
+|66|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|2021-11-11|2021-08-10|
+|67|[jdjohn215/milwaukee-weather](https://github.com/jdjohn215/milwaukee-weather)|Use Github Actions to automatically update a weather graph every day|27|2022-03-19|2022-02-19|
 |68|[izabelflores/Censo_1872](https://github.com/izabelflores/Censo_1872)|Censo de 1872 por município, disponibilizado pela Cedeplar, organizado em formato tidy|27|2021-11-13|2021-11-09|
-|69|[alexei-kouprianov/COVID-19.SPb.monitoring](https://github.com/alexei-kouprianov/COVID-19.SPb.monitoring)|This repository contains constantly updated datasets on the COVID-19 epidemic in St. Petersburg (Russia), scripts for data gathering and transformation (Perl, R, and shell), infographics, and narrativ ...|27|2022-03-17|2021-09-04|
+|69|[alexei-kouprianov/COVID-19.SPb.monitoring](https://github.com/alexei-kouprianov/COVID-19.SPb.monitoring)|This repository contains constantly updated datasets on the COVID-19 epidemic in St. Petersburg (Russia), scripts for data gathering and transformation (Perl, R, and shell), infographics, and narrativ ...|27|2022-03-19|2021-09-04|
 |70|[R-CoderDotCom/ggdogs](https://github.com/R-CoderDotCom/ggdogs)|The geom you always wished for adding dogs to ggplot2|26|2021-11-24|2021-07-12|
 |71|[devOpifex/leprechaun](https://github.com/devOpifex/leprechaun)|Code generator for lean and robust shiny applications|25|2022-01-25|2021-08-07|
 |72|[jonathandroth/pretrends](https://github.com/jonathandroth/pretrends)|R package for power calculations and visualization for pre-trends tests|25|2022-03-08|2021-04-16|
-|73|[shrektan/ymd](https://github.com/shrektan/ymd)|An R package that handles common dates operations using Rust|24|2022-01-29|2022-01-02|
+|73|[shrektan/ymd](https://github.com/shrektan/ymd)|An R package that handles common dates operations using Rust|24|2022-03-19|2022-01-02|
 |74|[facebookincubator/GeoLift](https://github.com/facebookincubator/GeoLift)|GeoLift is an end-to-end geo-experimental methodology based on Synthetic Control Methods used to measure the true incremental effect (Lift) of ad campaign.|24|2022-03-15|2021-09-15|
 |75|[hypertidy/gdalio](https://github.com/hypertidy/gdalio)|helpers for gdal warper, and wrappers for various packages|24|2022-03-03|2021-06-28|
 |76|[AstraZeneca/skywalkR](https://github.com/AstraZeneca/skywalkR)|code for Gogleva et al manuscript |24|2022-02-23|2021-05-26|
 |77|[EvaMaeRey/ggstamp](https://github.com/EvaMaeRey/ggstamp)|stamp_* as an API for annotation layers|24|2021-12-30|2021-05-22|
-|78|[saiemgilani/cfbfastR](https://github.com/saiemgilani/cfbfastR)|An R package to quickly obtain clean and tidy college football play by play data|24|2022-02-26|2021-04-02|
+|78|[saiemgilani/cfbfastR](https://github.com/saiemgilani/cfbfastR)|An R package to quickly obtain clean and tidy college football play by play data|24|2022-03-18|2021-04-02|
 |79|[z3tt/30DayChartChallenge](https://github.com/z3tt/30DayChartChallenge)|📊  My contributions to the #30DayChartChallenge 2021|24|2022-02-18|2021-04-01|
 |80|[wlandau/crew](https://github.com/wlandau/crew)|Centralized Reusable Workers|23|2022-03-18|2022-01-27|
 |81|[ipeaGIT/flightsbr](https://github.com/ipeaGIT/flightsbr)|R Package to Download Flight and Airport Data from Brazil|23|2022-03-18|2022-01-19|
@@ -94,7 +94,7 @@
 |87|[business-science/portfoliodown](https://github.com/business-science/portfoliodown)|An R package for creating professional data science portfolios|22|2021-12-30|2021-12-16|
 |88|[brunomioto/reservatoriosBR](https://github.com/brunomioto/reservatoriosBR)|R package for Brazilian reservoirs data|22|2021-11-04|2021-08-19|
 |89|[ddsjoberg/rstudio.prefs](https://github.com/ddsjoberg/rstudio.prefs)|-|22|2021-11-15|2021-06-19|
-|90|[BlishLab/scriabin](https://github.com/BlishLab/scriabin)|Analysis of cell-cell communication at single-cell resolution|21|2022-03-16|2021-12-15|
+|90|[BlishLab/scriabin](https://github.com/BlishLab/scriabin)|Analysis of cell-cell communication at single-cell resolution|21|2022-03-19|2021-12-15|
 |91|[Viri-Rios/NoEsNormal](https://github.com/Viri-Rios/NoEsNormal)|-|21|2021-10-19|2021-10-19|
 |92|[wjsutton/games_night_viz](https://github.com/wjsutton/games_night_viz)|#GamesNightViz is a 6-weekly Tableau community project focusing on using data from your favourite games to improve your skills with data visualisation, data preparation and visual design|21|2022-03-01|2021-10-17|
 |93|[etiennebacher/altdoc](https://github.com/etiennebacher/altdoc)|Alternative to pkgdown to document packages|21|2022-03-13|2021-08-25|
@@ -105,14 +105,14 @@
 |98|[insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR)|Github Action that generates R Package Validation documentation 🏁|20|2022-03-03|2021-08-20|
 |99|[YuLab-SMU/MicrobiomeProfiler](https://github.com/YuLab-SMU/MicrobiomeProfiler)|A shiny package for microbiome functional enrichment analysis|20|2022-03-15|2021-08-06|
 |100|[EmilHvitfeldt/emoji](https://github.com/EmilHvitfeldt/emoji)|Data About Emojis|20|2022-02-12|2021-07-25|
-|101|[rstudio/shinytest2](https://github.com/rstudio/shinytest2)|-|20|2022-03-18|2021-07-06|
+|101|[rstudio/shinytest2](https://github.com/rstudio/shinytest2)|-|20|2022-03-19|2021-07-06|
 |102|[mlverse/cuda.ml](https://github.com/mlverse/cuda.ml)|R interface for cuML|20|2022-01-11|2021-06-23|
 |103|[quadbiolab/Pando](https://github.com/quadbiolab/Pando)|Multiome GRN inference.|20|2021-12-01|2021-06-08|
-|104|[shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku)|ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies|20|2022-03-12|2021-05-16|
-|105|[DHSProgram/DHS-Indicators-R](https://github.com/DHSProgram/DHS-Indicators-R)|R code to produce Demographic and Health Survey Indicators|20|2022-02-04|2021-04-06|
-|106|[carmonalab/scGate](https://github.com/carmonalab/scGate)|marker-based purification of cell types from single-cell RNA-seq datasets|19|2022-02-28|2021-08-11|
-|107|[nflverse/nflreadr](https://github.com/nflverse/nflreadr)|Efficiently download nflverse data|19|2022-03-18|2021-07-10|
-|108|[sidchop/neuRo-vis-BrainHack-2021](https://github.com/sidchop/neuRo-vis-BrainHack-2021)|-|19|2022-01-18|2021-06-06|
+|104|[sidchop/neuRo-vis-BrainHack-2021](https://github.com/sidchop/neuRo-vis-BrainHack-2021)|-|20|2022-01-18|2021-06-06|
+|105|[shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku)|ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies|20|2022-03-12|2021-05-16|
+|106|[DHSProgram/DHS-Indicators-R](https://github.com/DHSProgram/DHS-Indicators-R)|R code to produce Demographic and Health Survey Indicators|20|2022-02-04|2021-04-06|
+|107|[carmonalab/scGate](https://github.com/carmonalab/scGate)|marker-based purification of cell types from single-cell RNA-seq datasets|19|2022-02-28|2021-08-11|
+|108|[nflverse/nflreadr](https://github.com/nflverse/nflreadr)|Efficiently download nflverse data|19|2022-03-19|2021-07-10|
 |109|[andrewchbaker/JFE_DID](https://github.com/andrewchbaker/JFE_DID)|This repo contains the code to replicate the analyses in Baker, Larcker, Wang.|18|2022-01-17|2022-01-17|
 |110|[MorganLevineLab/PC-Clocks](https://github.com/MorganLevineLab/PC-Clocks)|Code for the calculation and implementation of the PC Based epigenetic clocks|18|2022-02-09|2022-01-05|
 |111|[paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow)|Extension types for geospatial data for use with 'Arrow'|18|2021-12-11|2021-11-25|
@@ -122,22 +122,22 @@
 |115|[higgi13425/medicaldata](https://github.com/higgi13425/medicaldata)|Data Package for Medical Datasets|18|2021-12-17|2021-07-12|
 |116|[BenWiseman/sentiment.ai](https://github.com/BenWiseman/sentiment.ai)|Package for using deep learning models (from tf hub) for easy sentiment analysis|18|2022-03-18|2021-04-23|
 |117|[r-earthengine/rgeeExtra](https://github.com/r-earthengine/rgeeExtra)|Extension for rgee|18|2021-12-13|2021-04-02|
-|118|[rdinnager/trampoline](https://github.com/rdinnager/trampoline)|R package implementing generator based trampolines for deep recursive programming without overflowing the stack (a port of Python https://gitlab.com/ferreum/trampoline to R). Package webpage: https:// ...|17|2022-01-25|2021-11-24|
-|119|[mikejohnson51/zonal](https://github.com/mikejohnson51/zonal)|Fast, accurate zonal statistics for "big" categorical and continuous data |17|2022-03-04|2021-06-24|
-|120|[atorus-research/timber](https://github.com/atorus-research/timber)|Tools to facilitate logging in a clinical environment with the goal of making code easily traceable and reproducible.|17|2022-03-18|2021-05-17|
-|121|[decoderleco/deces_europe](https://github.com/decoderleco/deces_europe)|programme R pour créer des analyses des décèes en Europe|17|2022-03-18|2021-05-12|
-|122|[guga31bb/ngscleanR](https://github.com/guga31bb/ngscleanR)|functions to clean up nfl player tracking data|17|2021-10-04|2021-05-04|
-|123|[kinto-b/makepipe](https://github.com/kinto-b/makepipe)|Tools for constructing simple make-like pipelines in R.|17|2021-11-23|2021-04-04|
-|124|[next-game-solutions/geckor](https://github.com/next-game-solutions/geckor)|An R client for the public CoinGecko API|17|2021-11-01|2021-03-28|
-|125|[TheEconomist/2022-france-election-model](https://github.com/TheEconomist/2022-france-election-model)|-|16|2022-02-15|2022-02-14|
-|126|[dzhang32/ggtranscript](https://github.com/dzhang32/ggtranscript)|Visualizing transcript structure and annotation using ggplot2|16|2022-03-18|2021-12-23|
-|127|[urswilke/ggbenjamini](https://github.com/urswilke/ggbenjamini)|Generate benjamini leaves with bezier curves|16|2021-12-20|2021-10-19|
-|128|[tooledesign/Safer-Streets-Priority-Finder](https://github.com/tooledesign/Safer-Streets-Priority-Finder)|The Safer Streets Priority Finder enables you to analyze the risk to bicyclists and pedestrians on your community’s roads.|16|2022-01-14|2021-08-02|
-|129|[benjaminguinaudeau/tidybundestag](https://github.com/benjaminguinaudeau/tidybundestag)|-|16|2022-03-18|2021-06-29|
-|130|[openproblems-bio/neurips2021_multimodal_viash](https://github.com/openproblems-bio/neurips2021_multimodal_viash)|-|16|2022-02-09|2021-06-16|
-|131|[wpgp/popRF](https://github.com/wpgp/popRF)|Random Forest-informed Population Disaggregation R package|16|2021-11-07|2021-05-20|
-|132|[wviechtb/esmarconf2022_workshop](https://github.com/wviechtb/esmarconf2022_workshop)|Meta-Analysis with R Workshop|15|2022-02-21|2022-02-20|
-|133|[epiforecasts/omicron-sgtf-forecast](https://github.com/epiforecasts/omicron-sgtf-forecast)|In this work, we use S-gene target failure (SGTF) as a proxy of variant status combined with reported case counts to explore the evidence for changes in transmission advantage over time for the Omicro ...|15|2022-03-18|2021-12-06|
+|118|[dzhang32/ggtranscript](https://github.com/dzhang32/ggtranscript)|Visualizing transcript structure and annotation using ggplot2|17|2022-03-18|2021-12-23|
+|119|[rdinnager/trampoline](https://github.com/rdinnager/trampoline)|R package implementing generator based trampolines for deep recursive programming without overflowing the stack (a port of Python https://gitlab.com/ferreum/trampoline to R). Package webpage: https:// ...|17|2022-01-25|2021-11-24|
+|120|[mikejohnson51/zonal](https://github.com/mikejohnson51/zonal)|Fast, accurate zonal statistics for "big" categorical and continuous data |17|2022-03-04|2021-06-24|
+|121|[atorus-research/timber](https://github.com/atorus-research/timber)|Tools to facilitate logging in a clinical environment with the goal of making code easily traceable and reproducible.|17|2022-03-18|2021-05-17|
+|122|[decoderleco/deces_europe](https://github.com/decoderleco/deces_europe)|programme R pour créer des analyses des décèes en Europe|17|2022-03-19|2021-05-12|
+|123|[guga31bb/ngscleanR](https://github.com/guga31bb/ngscleanR)|functions to clean up nfl player tracking data|17|2021-10-04|2021-05-04|
+|124|[kinto-b/makepipe](https://github.com/kinto-b/makepipe)|Tools for constructing simple make-like pipelines in R.|17|2021-11-23|2021-04-04|
+|125|[next-game-solutions/geckor](https://github.com/next-game-solutions/geckor)|An R client for the public CoinGecko API|17|2021-11-01|2021-03-28|
+|126|[wviechtb/esmarconf2022_workshop](https://github.com/wviechtb/esmarconf2022_workshop)|Meta-Analysis with R Workshop|16|2022-02-21|2022-02-20|
+|127|[TheEconomist/2022-france-election-model](https://github.com/TheEconomist/2022-france-election-model)|-|16|2022-02-15|2022-02-14|
+|128|[urswilke/ggbenjamini](https://github.com/urswilke/ggbenjamini)|Generate benjamini leaves with bezier curves|16|2021-12-20|2021-10-19|
+|129|[tooledesign/Safer-Streets-Priority-Finder](https://github.com/tooledesign/Safer-Streets-Priority-Finder)|The Safer Streets Priority Finder enables you to analyze the risk to bicyclists and pedestrians on your community’s roads.|16|2022-01-14|2021-08-02|
+|130|[benjaminguinaudeau/tidybundestag](https://github.com/benjaminguinaudeau/tidybundestag)|-|16|2022-03-18|2021-06-29|
+|131|[openproblems-bio/neurips2021_multimodal_viash](https://github.com/openproblems-bio/neurips2021_multimodal_viash)|-|16|2022-02-09|2021-06-16|
+|132|[wpgp/popRF](https://github.com/wpgp/popRF)|Random Forest-informed Population Disaggregation R package|16|2021-11-07|2021-05-20|
+|133|[epiforecasts/omicron-sgtf-forecast](https://github.com/epiforecasts/omicron-sgtf-forecast)|In this work, we use S-gene target failure (SGTF) as a proxy of variant status combined with reported case counts to explore the evidence for changes in transmission advantage over time for the Omicro ...|15|2022-03-19|2021-12-06|
 |134|[jfjelstul/eumaps](https://github.com/jfjelstul/eumaps)|An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)|15|2022-01-04|2021-12-06|
 |135|[seankross/tidydatatutor](https://github.com/seankross/tidydatatutor)|-|15|2021-12-13|2021-12-05|
 |136|[Techtonique/ahead](https://github.com/Techtonique/ahead)|Univariate and multivariate time series forecasting|15|2022-02-28|2021-10-12|
@@ -162,17 +162,17 @@
 |155|[kierisi/marinemammalrescue](https://github.com/kierisi/marinemammalrescue)|package development for MMR data|14|2021-10-06|2021-07-04|
 |156|[smallworlnd/LNnodeInsight](https://github.com/smallworlnd/LNnodeInsight)|A DYOR engine for the Lightning Network|14|2022-01-21|2021-06-10|
 |157|[mwelz/GenericML](https://github.com/mwelz/GenericML)|R implementation of Generic Machine Learning Inference (Chernozhukov, Demirer, Duflo and Fernández-Val, 2020).|14|2022-03-08|2021-05-21|
-|158|[mlampros/CopernicusDEM](https://github.com/mlampros/CopernicusDEM)|Copernicus Digital Elevation Models (DEM)|14|2022-03-18|2021-05-15|
+|158|[mlampros/CopernicusDEM](https://github.com/mlampros/CopernicusDEM)|Copernicus Digital Elevation Models (DEM)|14|2022-03-19|2021-05-15|
 |159|[gagolews/stringx](https://github.com/gagolews/stringx)|Drop-in replacements for base R string functions powered by stringi|14|2022-02-09|2021-05-07|
 |160|[rstudio/remarker](https://github.com/rstudio/remarker)|-|14|2021-10-05|2021-04-02|
 |161|[TiagoOlivoto/pliman](https://github.com/TiagoOlivoto/pliman)|Tools for Plant Image Analysis|14|2021-12-31|2021-03-30|
-|162|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|13|2022-03-18|2022-03-07|
+|162|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|13|2022-03-19|2022-03-07|
 |163|[shikokuchuo/mirai](https://github.com/shikokuchuo/mirai)|mirai R package - minimalist async evaluation framework for R|13|2022-03-15|2022-02-14|
 |164|[Ijeamakaanyene/circle_packing](https://github.com/Ijeamakaanyene/circle_packing)|A function to implement circle packing |13|2022-01-06|2022-01-06|
 |165|[tjmahr/aoc](https://github.com/tjmahr/aoc)|usethis-like functions for completing Advent of Code as an R package|13|2021-12-02|2021-11-29|
 |166|[analyticsresearchlab/thestats](https://github.com/analyticsresearchlab/thestats)|thestats, a user-friendly R data package that is intended to make Turkish higher education statistics more accessible.|13|2022-01-15|2021-11-23|
 |167|[zamboni-lab/SLAW](https://github.com/zamboni-lab/SLAW)|Scalable and self-optimizing processing workflow for untargeted LC-MS|13|2022-02-28|2021-10-26|
-|168|[KITmetricslab/hospitalization-nowcast-hub](https://github.com/KITmetricslab/hospitalization-nowcast-hub)|Collecting nowcasts of the 7-day hospitalization incidence in Germany.|13|2022-03-18|2021-09-23|
+|168|[KITmetricslab/hospitalization-nowcast-hub](https://github.com/KITmetricslab/hospitalization-nowcast-hub)|Collecting nowcasts of the 7-day hospitalization incidence in Germany.|13|2022-03-19|2021-09-23|
 |169|[tanho63/fivestars](https://github.com/tanho63/fivestars)|⭐⭐⭐⭐⭐ Generates HTML/CSS star ratings|13|2021-09-22|2021-09-22|
 |170|[ropensci/cffr](https://github.com/ropensci/cffr)|Generate Citation File Format (cff) Metadata for R Packages|13|2022-03-17|2021-08-30|
 |171|[doserjef/spOccupancy](https://github.com/doserjef/spOccupancy)|Single Species, Multispecies, and Integrated Spatial Occupancy Models|13|2022-03-10|2021-08-20|
@@ -186,25 +186,25 @@
 |179|[PavanVaddady/modvizpop](https://github.com/PavanVaddady/modvizpop)|Shiny Based Population PK/PD Model Simulator |13|2021-12-06|2021-03-22|
 |180|[BikalpaN/Text-Mining-NLP](https://github.com/BikalpaN/Text-Mining-NLP)|-|12|2022-03-17|2022-02-21|
 |181|[harshkrishna17/PlayerFinishingOverviewShiny](https://github.com/harshkrishna17/PlayerFinishingOverviewShiny)|A Shiny app that creates xG based finishing reports for soccer players using data from Understat. |12|2022-03-07|2022-02-18|
-|182|[Appsilon/rhino](https://github.com/Appsilon/rhino)|-|12|2022-03-18|2022-01-31|
+|182|[Appsilon/rhino](https://github.com/Appsilon/rhino)|-|12|2022-03-19|2022-01-31|
 |183|[TabakM/CameraTrapDetectoR](https://github.com/TabakM/CameraTrapDetectoR)|Automatically detect, count, and classify animals in camera trap images.|12|2022-03-11|2022-01-27|
-|184|[chrismathys/methods-2-course](https://github.com/chrismathys/methods-2-course)|Methods 2: The General Linear Model|12|2022-03-09|2022-01-19|
-|185|[ashbaldry/designer](https://github.com/ashbaldry/designer)|Prototype UI for Shiny Apps|12|2022-03-13|2022-01-18|
-|186|[Valexandre/zones_meteo](https://github.com/Valexandre/zones_meteo)|Comment j'ai quantifié les inégalités de traitement météorologiques entre Vannes et Strasbourg|12|2022-01-03|2022-01-02|
-|187|[triply-at/gtfsmulti](https://github.com/triply-at/gtfsmulti)|Creating, storing and analyzing multi-modal transportation networks|12|2021-12-21|2021-12-20|
-|188|[benjaminguinaudeau/csatimer](https://github.com/benjaminguinaudeau/csatimer)|-|12|2022-03-10|2021-12-09|
-|189|[n-a-gilbert/AHM_NIMBLE](https://github.com/n-a-gilbert/AHM_NIMBLE)|Code from Applied Hierarchical Modeling in Ecology translated to NIMBLE (from JAGS/WinBUGS)|12|2022-03-09|2021-11-11|
-|190|[Ehyaei/RTLNotes](https://github.com/Ehyaei/RTLNotes)|RMarkdown templates and ggplot themes for RTL Languages|12|2021-12-13|2021-10-29|
-|191|[YuLab-SMU/treedataverse](https://github.com/YuLab-SMU/treedataverse)|Meta package for processing and visualizing tree with data|12|2021-11-01|2021-10-29|
-|192|[yukifuruse1217/COVIDhealthBurden](https://github.com/yukifuruse1217/COVIDhealthBurden)|-|12|2022-02-01|2021-10-17|
-|193|[UFOKN/fipio](https://github.com/UFOKN/fipio)|An R :package: for lightweight FIPS code information retrieval|12|2022-03-15|2021-10-10|
-|194|[mjlajeunesse/switchboard](https://github.com/mjlajeunesse/switchboard)|An agile dashboard for R|12|2021-10-08|2021-10-08|
-|195|[ropenscilabs/r2readthedocs](https://github.com/ropenscilabs/r2readthedocs)|Convert R package documentation to a 'readthedocs' website|12|2022-01-20|2021-08-26|
-|196|[co-analysis/a11ytables](https://github.com/co-analysis/a11ytables)|[WIP] R package: generate best-practice spreadsheets for HM Government|12|2022-03-08|2021-08-19|
-|197|[danmorse314/hockeyR](https://github.com/danmorse314/hockeyR)|Collect and Clean Hockey Stats|12|2021-09-22|2021-08-19|
-|198|[filipematias23/cleanRfield](https://github.com/filipematias23/cleanRfield)|cleanRfield: This package is a compilation of functions to clean and filter observations from yield monitors or other agricultural spatial point data. Yield monitors are prone to error, and filtering  ...|12|2022-02-19|2021-08-15|
-|199|[Robot-Wealth/rsims](https://github.com/Robot-Wealth/rsims)|R package for financial simulation|12|2022-02-02|2021-08-10|
-|200|[cderv/pandoc](https://github.com/cderv/pandoc)|R package to install, manage and run Pandoc (https://pandoc.org/)|12|2022-03-16|2021-06-30|
+|184|[shikokuchuo/nanonext](https://github.com/shikokuchuo/nanonext)|nanonext R package - R binding for NNG (Nanomsg Next Gen)|12|2022-03-19|2022-01-23|
+|185|[chrismathys/methods-2-course](https://github.com/chrismathys/methods-2-course)|Methods 2: The General Linear Model|12|2022-03-09|2022-01-19|
+|186|[ashbaldry/designer](https://github.com/ashbaldry/designer)|Prototype UI for Shiny Apps|12|2022-03-13|2022-01-18|
+|187|[dreamRs/shinyvs](https://github.com/dreamRs/shinyvs)|Virtual Select widget for shiny apps|12|2022-03-15|2022-01-14|
+|188|[JosiahParry/sfdep](https://github.com/JosiahParry/sfdep)|A tidy interface for spatial dependence|12|2022-03-19|2022-01-08|
+|189|[Valexandre/zones_meteo](https://github.com/Valexandre/zones_meteo)|Comment j'ai quantifié les inégalités de traitement météorologiques entre Vannes et Strasbourg|12|2022-01-03|2022-01-02|
+|190|[triply-at/gtfsmulti](https://github.com/triply-at/gtfsmulti)|Creating, storing and analyzing multi-modal transportation networks|12|2021-12-21|2021-12-20|
+|191|[benjaminguinaudeau/csatimer](https://github.com/benjaminguinaudeau/csatimer)|-|12|2022-03-10|2021-12-09|
+|192|[n-a-gilbert/AHM_NIMBLE](https://github.com/n-a-gilbert/AHM_NIMBLE)|Code from Applied Hierarchical Modeling in Ecology translated to NIMBLE (from JAGS/WinBUGS)|12|2022-03-09|2021-11-11|
+|193|[Ehyaei/RTLNotes](https://github.com/Ehyaei/RTLNotes)|RMarkdown templates and ggplot themes for RTL Languages|12|2021-12-13|2021-10-29|
+|194|[YuLab-SMU/treedataverse](https://github.com/YuLab-SMU/treedataverse)|Meta package for processing and visualizing tree with data|12|2021-11-01|2021-10-29|
+|195|[yukifuruse1217/COVIDhealthBurden](https://github.com/yukifuruse1217/COVIDhealthBurden)|-|12|2022-02-01|2021-10-17|
+|196|[UFOKN/fipio](https://github.com/UFOKN/fipio)|An R :package: for lightweight FIPS code information retrieval|12|2022-03-15|2021-10-10|
+|197|[mjlajeunesse/switchboard](https://github.com/mjlajeunesse/switchboard)|An agile dashboard for R|12|2021-10-08|2021-10-08|
+|198|[ropenscilabs/r2readthedocs](https://github.com/ropenscilabs/r2readthedocs)|Convert R package documentation to a 'readthedocs' website|12|2022-01-20|2021-08-26|
+|199|[co-analysis/a11ytables](https://github.com/co-analysis/a11ytables)|[WIP] R package: generate best-practice spreadsheets for HM Government|12|2022-03-08|2021-08-19|
+|200|[danmorse314/hockeyR](https://github.com/danmorse314/hockeyR)|Collect and Clean Hockey Stats|12|2021-09-22|2021-08-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|58|2022-01-10|2021-10-03|
 |7|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|57|2022-03-16|2021-10-25|
 |8|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|46|2022-01-24|2021-04-07|
-|9|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|34|2021-10-15|2021-03-28|
-|10|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|30|2022-03-14|2021-09-24|
+|9|[lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs)|A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.|35|2021-10-15|2021-03-28|
+|10|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|29|2022-03-14|2021-09-24|
 |11|[DrakeAxelrod/webdevelopment-project](https://github.com/DrakeAxelrod/webdevelopment-project)|Web development course school project|28|2021-12-14|2021-11-02|
 |12|[adrianmanchev/trading-charts](https://github.com/adrianmanchev/trading-charts)|Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.|26|2022-03-09|2022-01-31|
 |13|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|24|2021-10-23|2021-06-12|

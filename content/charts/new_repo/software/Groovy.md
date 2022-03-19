@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -66,9 +66,8 @@
 |59|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-17|2021-06-02|
 |60|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
 |61|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|2|2021-11-25|2021-05-04|
-|62|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-18|2021-04-24|
+|62|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-19|2021-04-24|
 |63|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
-|64|[ClaudioConsolmagno/spring-data-jpa-temporal](https://github.com/ClaudioConsolmagno/spring-data-jpa-temporal)|Temporal auditing extension of the Spring Data JPA module|2|2021-09-17|2021-04-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

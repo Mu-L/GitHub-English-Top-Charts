@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|411|2022-03-04|2021-04-05|
+|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|423|2022-03-18|2021-04-05|
 |2|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|A step-by-step guide on how to build your own authentication system in Rails from scratch.|162|2022-02-25|2021-11-09|
 |3|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|161|2022-03-18|2021-03-22|
 |4|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|50|2021-12-03|2021-12-01|
@@ -13,7 +13,7 @@
 |6|[MR-X-junior/Facebook](https://github.com/MR-X-junior/Facebook)|Facebook Hacking Tool And Facebook Bot|26|2021-09-26|2021-05-23|
 |7|[leggett/simplify-trackers](https://github.com/leggett/simplify-trackers)|List of email spy pixels blocked by Simplify Gmail|20|2022-02-11|2021-03-22|
 |8|[kfischer-okarin/roguelike-tutorial-2021](https://github.com/kfischer-okarin/roguelike-tutorial-2021)|Game made during the "RoguelikeDev Does The Complete Roguelike Tutorial 2021" event|19|2022-03-04|2021-07-22|
-|9|[HackerPen/tech-interview-questions](https://github.com/HackerPen/tech-interview-questions)|Open source tech interview questions|16|2022-03-11|2022-01-27|
+|9|[HackerPen/tech-interview-questions](https://github.com/HackerPen/tech-interview-questions)|Open source tech interview questions|16|2022-03-19|2022-01-27|
 |10|[ankane/torchrec-ruby](https://github.com/ankane/torchrec-ruby)|Deep learning recommendation systems for Ruby|15|2022-03-15|2022-02-28|
 |11|[Laylo309/OOP-school-library](https://github.com/Laylo309/OOP-school-library)|Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.|13|2021-11-26|2021-11-15|
 |12|[dorahacksglobal/Hackathon-Playbook](https://github.com/dorahacksglobal/Hackathon-Playbook)|An open source hackathon playbook for hackathon organizers.|13|2022-02-18|2021-10-29|
