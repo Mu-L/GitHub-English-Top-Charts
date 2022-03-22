@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vim script
-<sub>Updated: 2022-03-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13815|6|2021-11-17|
-|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10369|4|2022-03-04|
-|3|[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)|hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)|843|1|2022-01-31|
-|4|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|576|1|2022-02-26|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13819|6|2021-11-17|
+|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|10372|4|2022-03-04|
+|3|[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)|hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)|844|1|2022-01-31|
+|4|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|577|1|2022-02-26|
 |5|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|194|1|2022-02-14|
 |6|[dsummersl/vim-searchconceal](https://github.com/dsummersl/vim-searchconceal)|Hide searches and patterns using vim's conceal feature|12|1|2022-03-09|
-|7|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1752|1|2022-02-23|
-|8|[metakirby5/codi.vim](https://github.com/metakirby5/codi.vim)|:notebook_with_decorative_cover: The interactive scratchpad for hackers.|2517|1|2022-03-20|
-|9|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|470|1|2022-01-06|
-|10|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2062|1|2022-01-17|
+|7|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1755|1|2022-02-23|
+|8|[metakirby5/codi.vim](https://github.com/metakirby5/codi.vim)|:notebook_with_decorative_cover: The interactive scratchpad for hackers.|2520|1|2022-03-20|
+|9|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|471|1|2022-01-06|
+|10|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2061|1|2022-01-17|
 |11|[hamvocke/dotfiles](https://github.com/hamvocke/dotfiles)|A collection of my personal dotfiles|381|0|2022-02-10|
 |12|[WolfgangMehner/lua-support](https://github.com/WolfgangMehner/lua-support)|Edit Lua scripts in Vim/gVim/Neovim. Insert code snippets, run, compile, and check the code and look up help.|22|0|2021-09-22|
 |13|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|18|0|2022-03-21|
@@ -32,8 +32,8 @@
 |25|[ciryon/.dotfiles](https://github.com/ciryon/.dotfiles)|My collection of dotfiles for bash, git, vim|2|0|2021-11-01|
 |26|[daviesjamie/dotfiles](https://github.com/daviesjamie/dotfiles)|A collection of .files to set up a system just the way I like it.|4|0|2022-03-16|
 |27|[rosshadden/dotfiles](https://github.com/rosshadden/dotfiles)|A collection of dotfiles and scripts that I use between computers.|21|0|2022-03-21|
-|28|[daviddavis/dotfiles](https://github.com/daviddavis/dotfiles)|This is a collection of configuration files in my home directory|8|0|2022-03-21|
-|29|[BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles)|My configuration files and personal collection of scripts.|78|0|2022-03-14|
+|28|[daviddavis/dotfiles](https://github.com/daviddavis/dotfiles)|This is a collection of configuration files in my home directory|8|0|2022-03-22|
+|29|[BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles)|My configuration files and personal collection of scripts.|78|0|2022-03-22|
 |30|[ivy/vim-ginkgo](https://github.com/ivy/vim-ginkgo)|Go syntax highlighting and snippets for Ginkgo specs and matchers.|10|0|2022-02-17|
 |31|[asrob-uc3m/tutoriales](https://github.com/asrob-uc3m/tutoriales)|Recopilación de tutoriales y materiales útiles sobre los programas y herramientas|3|0|2021-12-27|
 |32|[twilco/dotfiles](https://github.com/twilco/dotfiles)|.files (and other generally shareable tidbits and configuration)|3|0|2022-03-18|
@@ -87,7 +87,7 @@
 |80|[wolverinn/Build-your-programming-skills](https://github.com/wolverinn/Build-your-programming-skills)|A learning road map for junior programmers focusing from basic to advanced technical skills|17|0|2022-03-06|
 |81|[anddddrew/dot](https://github.com/anddddrew/dot)|☾ Dotfiles on my Macbook M1 Pro.|2|0|2021-12-03|
 |82|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)|85|0|2022-03-20|
-|83|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|23|0|2022-03-16|
+|83|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|23|0|2022-03-22|
 |84|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|288|0|2022-01-26|
 |85|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only master branch is safe!|31|0|2022-02-04|
 |86|[tomswartz07/linux-configs](https://github.com/tomswartz07/linux-configs)|Collection of Linux config files|3|0|2021-11-02|
@@ -98,7 +98,7 @@
 |91|[WolfgangMehner/perl-support](https://github.com/WolfgangMehner/perl-support)|Edit Perl scripts in Vim/gVim. Insert code snippets, run, check, and profile the code and look up help.|23|0|2021-09-22|
 |92|[igemnace/vim-playground](https://github.com/igemnace/vim-playground)|A collection of Vim scripts for miscellaneous purposes.|7|0|2022-03-20|
 |93|[atonem/dotfiles](https://github.com/atonem/dotfiles)|A collection of dotfiles and automation scripts|2|0|2022-01-19|
-|94|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1025|0|2022-03-18|
+|94|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1026|0|2022-03-18|
 |95|[tchapi/ansible-playbooks](https://github.com/tchapi/ansible-playbooks)|Roles and playbooks for Ansible|28|0|2022-01-26|
 |96|[prurigro/darkcloud-vimconfig](https://github.com/prurigro/darkcloud-vimconfig)|A Vim distribution with sane, modern defaults, a custom theme, and a collection of tightly integrated and configured development-oriented plugins|17|0|2022-01-24|
 |97|[NewProggie/Dev-Utils](https://github.com/NewProggie/Dev-Utils)|Common development utils such as format styles, coding guidelines etc.|11|0|2021-10-24|
@@ -117,7 +117,7 @@
 |110|[tamlok/tvim](https://github.com/tamlok/tvim)|Configuration for Vim/Neovim from work and study.|9|0|2021-10-29|
 |111|[IndexXuan/wow-my-dotfiles](https://github.com/IndexXuan/wow-my-dotfiles)|my .vimrc and .zshrc backup and share ~ |12|0|2022-02-24|
 |112|[muneebullashariff/best_coding_practices](https://github.com/muneebullashariff/best_coding_practices)|Describes the best coding practices and guidelines|4|0|2022-02-05|
-|113|[voldikss/vim-translator](https://github.com/voldikss/vim-translator)|:closed_book: Translating plugin for Vim/Neovim|340|0|2022-02-12|
+|113|[voldikss/vim-translator](https://github.com/voldikss/vim-translator)|:closed_book: Translating plugin for Vim/Neovim|341|0|2022-02-12|
 |114|[kevinastone/dotfiles](https://github.com/kevinastone/dotfiles)|Collection of configuration files.|6|0|2022-02-02|
 |115|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|96|0|2022-03-16|
 |116|[technicalpickles/dotfiles](https://github.com/technicalpickles/dotfiles)|My shareable dotfiles|16|0|2022-03-17|
@@ -131,8 +131,8 @@
 |124|[achiurizo/dotfiles](https://github.com/achiurizo/dotfiles)|These are my dotfiles, my configurations, my shell home I'd like to share.|8|0|2022-02-26|
 |125|[oinak/dotvim](https://github.com/oinak/dotvim)|plugins and configurations for Vim to share among my comtupers and with you|4|0|2021-11-14|
 |126|[bmeurer/dotfiles](https://github.com/bmeurer/dotfiles)|Collection of various dotfiles|5|0|2022-01-28|
-|127|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|136|0|2022-03-21|
-|128|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|26|0|2022-03-18|
+|127|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|136|0|2022-03-22|
+|128|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|26|0|2022-03-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
