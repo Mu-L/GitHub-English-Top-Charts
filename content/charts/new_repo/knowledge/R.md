@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2850|2022-03-15|2021-10-08|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2859|2022-03-15|2021-10-08|
 |2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|186|2022-01-27|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|75|2022-03-18|2021-08-31|
 |4|[tidymodels/vetiver-r](https://github.com/tidymodels/vetiver-r)|Version, share, deploy, and monitor models|73|2022-03-21|2021-07-09|
-|5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|51|2022-03-18|2021-09-29|
+|5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|51|2022-03-23|2021-09-29|
 |6|[StatsGary/MLDataR](https://github.com/StatsGary/MLDataR)|A collection of Machine Learning datasets for health care and beyond|34|2022-03-07|2021-12-29|
 |7|[matt-dray/dehex](https://github.com/matt-dray/dehex)|:art::eyes: R package: learn to assess a colour hex code by eye|28|2022-02-22|2021-08-01|
 |8|[AammarTufail/R_with_Aammar](https://github.com/AammarTufail/R_with_Aammar)|We upload the contents of our Data Science Course in this repository|27|2021-12-15|2021-11-20|
@@ -29,8 +29,8 @@
 |22|[boyiguo1/Tutorial-Residential_Segregation_Score](https://github.com/boyiguo1/Tutorial-Residential_Segregation_Score)|A tutorial & reproducible example on calculating residential segregation indices with decennial US census data (Version 1-0-0)|10|2022-01-18|2021-11-27|
 |23|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|10|2022-03-03|2021-09-06|
 |24|[akgold/do4ds](https://github.com/akgold/do4ds)|A book on DevOps for Data Scientists with CRC Press.|10|2022-02-12|2021-05-10|
-|25|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |9|2022-03-22|2022-01-05|
-|26|[cjabradshaw/AustralianSharkIncidentDatabase](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase)|The Australian Shark-Incident Database (ASID) for quantifying temporal and spatial patterns of shark-human conflict in Australia|9|2021-12-01|2021-09-20|
+|25|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |9|2022-03-23|2022-01-05|
+|26|[cjabradshaw/AustralianSharkIncidentDatabase](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase)|The Australian Shark-Incident Database (ASID) for quantifying temporal and spatial patterns of shark-human conflict in Australia|9|2022-03-23|2021-09-20|
 |27|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|8|2022-03-03|2021-10-07|
 |28|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|8|2021-11-30|2021-08-24|
 |29|[ccrismancox/POLS602_Fall2021](https://github.com/ccrismancox/POLS602_Fall2021)|Course site for POLS 602 Fall 2021|8|2021-12-09|2021-08-22|
@@ -42,21 +42,20 @@
 |35|[robjhyndman/fpp3scripts](https://github.com/robjhyndman/fpp3scripts)|R scripts used in fpp3 book|6|2021-11-20|2021-11-20|
 |36|[anhoej/r4spc](https://github.com/anhoej/r4spc)|Course materials: Statistical process control charts with R|6|2021-10-30|2021-10-28|
 |37|[zwallen/Wallen_DAMethodCompare_2021](https://github.com/zwallen/Wallen_DAMethodCompare_2021)|Source code used in the manuscript "Comparison study of differential abundance testing methods using two large Parkinson disease gut microbiome datasets derived from 16S amplicon sequencing"|6|2022-02-21|2021-05-03|
-|38|[SwissTPH/OpenCOVID](https://github.com/SwissTPH/OpenCOVID)|This git-repository contains current reports and source-code for OpenCOVID, an individual based model of SARS-CoV-2 dynamics for studying transmission dynamics and epidemiology, and the impacts of int ...|6|2022-01-31|2021-03-23|
-|39|[fabiogiglietto/CooRnet_ImgTxt](https://github.com/fabiogiglietto/CooRnet_ImgTxt)|Simple scripts that reuses some CooRnet code to detect coordinated network of Facebook/Instagram accounts that repeatedly shares images with identical text in a short period of time.  |5|2022-03-13|2022-03-05|
-|40|[aezarebski/github-tutorial](https://github.com/aezarebski/github-tutorial)|A tutorial on the use of git, and GitHub for open and reproducible science. See the live version of this here: https://aezarebski.github.io/misc/github-tutorial/README.html|5|2022-03-17|2022-02-12|
-|41|[emitanaka/edibble-book](https://github.com/emitanaka/edibble-book)|The Grammar of Experimental Designs Book|5|2022-03-07|2022-01-21|
-|42|[robitalec/statistical-rethinking-colearning-2022](https://github.com/robitalec/statistical-rethinking-colearning-2022)|Statistical Rethinking colearning 2022|5|2022-03-15|2022-01-12|
-|43|[socalrug/nonparametric_analysis_2022-01-22](https://github.com/socalrug/nonparametric_analysis_2022-01-22)|Short course Nonparametric Analysis: A Primer|5|2022-02-27|2021-12-31|
-|44|[njtierney/greta-course-notes](https://github.com/njtierney/greta-course-notes)|Course notes for greta|5|2021-11-17|2021-11-02|
-|45|[csaybar/rgee_examples](https://github.com/csaybar/rgee_examples)|rgee examples|5|2022-03-06|2021-10-25|
-|46|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
-|47|[vizdata-f21/website](https://github.com/vizdata-f21/website)|🏠 Source files for the course website|5|2021-12-01|2021-08-22|
-|48|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|5|2022-03-10|2021-08-20|
-|49|[andrija-djurovic/PDtoolkit](https://github.com/andrija-djurovic/PDtoolkit)|Collection of tools for probability of default (PD) rating model development and validation.|5|2022-03-15|2021-08-14|
-|50|[dynamic-R/RTM](https://github.com/dynamic-R/RTM)|Reaction Transport Modelling course|5|2022-03-18|2021-07-14|
-|51|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-22|2021-05-03|
-|52|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-02-11|2021-12-21|
+|38|[fabiogiglietto/CooRnet_ImgTxt](https://github.com/fabiogiglietto/CooRnet_ImgTxt)|Simple scripts that reuses some CooRnet code to detect coordinated network of Facebook/Instagram accounts that repeatedly shares images with identical text in a short period of time.  |5|2022-03-13|2022-03-05|
+|39|[aezarebski/github-tutorial](https://github.com/aezarebski/github-tutorial)|A tutorial on the use of git, and GitHub for open and reproducible science. See the live version of this here: https://aezarebski.github.io/misc/github-tutorial/README.html|5|2022-03-17|2022-02-12|
+|40|[emitanaka/edibble-book](https://github.com/emitanaka/edibble-book)|The Grammar of Experimental Designs Book|5|2022-03-07|2022-01-21|
+|41|[robitalec/statistical-rethinking-colearning-2022](https://github.com/robitalec/statistical-rethinking-colearning-2022)|Statistical Rethinking colearning 2022|5|2022-03-23|2022-01-12|
+|42|[socalrug/nonparametric_analysis_2022-01-22](https://github.com/socalrug/nonparametric_analysis_2022-01-22)|Short course Nonparametric Analysis: A Primer|5|2022-02-27|2021-12-31|
+|43|[njtierney/greta-course-notes](https://github.com/njtierney/greta-course-notes)|Course notes for greta|5|2021-11-17|2021-11-02|
+|44|[csaybar/rgee_examples](https://github.com/csaybar/rgee_examples)|rgee examples|5|2022-03-06|2021-10-25|
+|45|[tnelsen/Interactive-Maps-in-R-Shiny](https://github.com/tnelsen/Interactive-Maps-in-R-Shiny)|Learn how to create and customize professional-quality, interactive maps in R shiny. |5|2021-10-18|2021-10-12|
+|46|[vizdata-f21/website](https://github.com/vizdata-f21/website)|🏠 Source files for the course website|5|2021-12-01|2021-08-22|
+|47|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|5|2022-03-10|2021-08-20|
+|48|[andrija-djurovic/PDtoolkit](https://github.com/andrija-djurovic/PDtoolkit)|Collection of tools for probability of default (PD) rating model development and validation.|5|2022-03-15|2021-08-14|
+|49|[dynamic-R/RTM](https://github.com/dynamic-R/RTM)|Reaction Transport Modelling course|5|2022-03-18|2021-07-14|
+|50|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-23|2021-05-03|
+|51|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-02-11|2021-12-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

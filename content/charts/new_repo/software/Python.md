@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Python
-<sub>Updated: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|10089|2022-02-23|2021-07-19|
-|2|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|9820|2022-03-19|2021-10-23|
-|3|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|8845|2022-03-21|2021-04-08|
-|4|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|8002|2022-03-17|2021-06-17|
-|5|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7491|2022-03-16|2021-03-25|
-|6|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|7025|2022-03-21|2021-08-24|
-|7|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6829|2022-03-20|2021-07-16|
-|8|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5931|2022-03-21|2021-07-17|
-|9|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5364|2022-01-14|2021-08-30|
-|10|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4360|2022-03-22|2021-06-09|
-|11|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3840|2022-02-13|2021-10-07|
-|12|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3782|2022-02-20|2021-05-18|
-|13|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|3397|2022-03-14|2022-01-06|
-|14|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3391|2022-03-10|2021-04-16|
-|15|[bilibili/ailab](https://github.com/bilibili/ailab)|-|3348|2022-03-04|2021-05-07|
-|16|[ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)|Allows you easily scan for and delete scam comments using several methods.|3311|2022-03-21|2021-10-27|
-|17|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3151|2022-03-17|2021-06-02|
-|18|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|3068|2022-03-22|2021-12-06|
+|1|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|10101|2022-02-23|2021-07-19|
+|2|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|10085|2022-03-19|2021-10-23|
+|3|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|8854|2022-03-23|2021-04-08|
+|4|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|8006|2022-03-17|2021-06-17|
+|5|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7508|2022-03-16|2021-03-25|
+|6|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|7030|2022-03-21|2021-08-24|
+|7|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6833|2022-03-20|2021-07-16|
+|8|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5943|2022-03-21|2021-07-17|
+|9|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5370|2022-01-14|2021-08-30|
+|10|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4363|2022-03-22|2021-06-09|
+|11|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3843|2022-02-13|2021-10-07|
+|12|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3791|2022-02-20|2021-05-18|
+|13|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|3408|2022-03-14|2022-01-06|
+|14|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3396|2022-03-10|2021-04-16|
+|15|[bilibili/ailab](https://github.com/bilibili/ailab)|-|3355|2022-03-04|2021-05-07|
+|16|[ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)|Allows you easily scan for and delete scam comments using several methods.|3316|2022-03-21|2021-10-27|
+|17|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3154|2022-03-17|2021-06-02|
+|18|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|3073|2022-03-22|2021-12-06|
 |19|[Telethon-helper/Help](https://github.com/Telethon-helper/Help)|-|2945|2022-03-20|2022-01-01|
-|20|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2788|2022-02-06|2021-12-13|
+|20|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2792|2022-02-06|2021-12-13|
 |21|[ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)|🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.|2596|2022-03-12|2021-04-06|
-|22|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2551|2022-02-08|2021-09-24|
+|22|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2552|2022-02-08|2021-09-24|
 |23|[Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)|A Spotify downloader needing only a python interpreter and ffmpeg.|2437|2021-12-19|2021-10-13|
-|24|[rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)|An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation|2429|2021-11-24|2021-03-23|
-|25|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2415|2022-03-16|2021-07-28|
+|24|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2416|2022-03-16|2021-07-28|
+|25|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2217|2022-03-23|2021-04-07|
 |26|[teslamotors/light-show](https://github.com/teslamotors/light-show)|Tesla Light Show|2216|2022-01-07|2021-12-16|
-|27|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2214|2022-03-22|2021-04-07|
-|28|[JMTHON-AR/jmthon](https://github.com/JMTHON-AR/jmthon)|Telegram userbot in Arabic language speed and fast it import of catuserbot with some addition enjoy|2190|2022-03-07|2021-12-30|
-|29|[openai/glide-text2im](https://github.com/openai/glide-text2im)|GLIDE: a diffusion-based text-conditional image synthesis model|2125|2022-03-21|2021-12-10|
-|30|[microsoft/muzic](https://github.com/microsoft/muzic)|Muzic: Music Understanding and Generation with Artificial Intelligence|1991|2022-03-15|2021-06-03|
-|31|[ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)|ByteTrack: Multi-Object Tracking by Associating Every Detection Box|1974|2022-03-05|2021-08-27|
-|32|[libffcv/ffcv](https://github.com/libffcv/ffcv)|FFCV: Fast Forward Computer Vision (and other ML workloads!)|1966|2022-03-16|2021-10-13|
-|33|[jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)|Wasm powered Jupyter running in the browser 💡|1900|2022-03-22|2021-03-27|
-|34|[Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)|Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API|1893|2022-03-22|2021-08-28|
-|35|[NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)|Operational information regarding the log4shell vulnerabilities in the Log4j logging library.|1868|2022-03-21|2021-12-12|
-|36|[freemocap/freemocap](https://github.com/freemocap/freemocap)|Free Motion Capture for Everyone 💀✨|1792|2022-03-21|2021-04-12|
-|37|[neuralchen/SimSwap](https://github.com/neuralchen/SimSwap)|An arbitrary face-swapping framework on images and videos with one single trained model!|1788|2022-03-20|2021-06-08|
-|38|[Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)|Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch|1752|2022-03-09|2021-07-28|
-|39|[nerdyrodent/VQGAN-CLIP](https://github.com/nerdyrodent/VQGAN-CLIP)|Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.|1681|2022-02-18|2021-07-02|
-|40|[sxyu/svox2](https://github.com/sxyu/svox2)|Plenoxels: Radiance Fields without Neural Networks, Code release WIP|1634|2022-01-14|2021-10-10|
-|41|[rentruewang/koila](https://github.com/rentruewang/koila)|Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.|1610|2022-03-17|2021-11-17|
-|42|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training|1570|2022-03-22|2021-10-28|
-|43|[casualsnek/cassowary](https://github.com/casualsnek/cassowary)|Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio ...|1507|2022-03-20|2021-10-10|
-|44|[linkedin/greykite](https://github.com/linkedin/greykite)|A flexible, intuitive and fast forecasting library|1484|2021-12-22|2021-04-27|
-|45|[RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold)|This package contains deep learning models and related scripts for RoseTTAFold|1460|2022-03-03|2021-06-29|
-|46|[CyberPunkMetalHead/Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot)|This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me ...|1460|2022-03-16|2021-04-17|
-|47|[Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch)|A sketch extractor for anime/illustration.|1413|2022-01-21|2021-04-09|
-|48|[Textualize/rich-cli](https://github.com/Textualize/rich-cli)|Rich-cli is a command line toolbox for fancy output in the terminal|1410|2022-03-10|2022-01-22|
-|49|[CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins)|This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you  ...|1390|2021-10-21|2021-08-14|
-|50|[JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR)|SwinIR: Image Restoration Using Swin Transformer (official repository)|1370|2022-01-31|2021-08-16|
-|51|[quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)|Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.|1331|2022-03-21|2021-12-15|
-|52|[kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |1276|2022-03-20|2021-12-10|
-|53|[jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf)|Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh|1241|2022-03-05|2021-08-17|
-|54|[openai/guided-diffusion](https://github.com/openai/guided-diffusion)|-|1233|2022-01-24|2021-04-27|
-|55|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A supercharged version of paperless: scan, index and archive all your physical documents|1209|2022-03-22|2022-02-12|
-|56|[Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker)|A extract & decryption and pack & encryption tools for typora.|1208|2022-03-17|2021-11-30|
-|57|[martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)|ElevenClock: Have a customizable clock on your Windows 11 displays|1191|2022-03-21|2021-09-19|
-|58|[deepchecks/deepchecks](https://github.com/deepchecks/deepchecks)|Test Suites for Validating ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.|1180|2022-03-21|2021-10-11|
-|59|[CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)|This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio|1161|2022-02-08|2021-10-17|
-|60|[fofapro/fapro](https://github.com/fofapro/fapro)|Fake Protocol Server|1153|2022-03-18|2021-09-10|
-|61|[nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)|BackgroundRemover lets you Remove Background from images and video with a simple command line interface|1139|2022-03-17|2021-05-24|
-|62|[IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet)|This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX|1137|2022-03-08|2021-05-03|
-|63|[lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)|curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox|1110|2022-03-12|2022-02-17|
-|64|[iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)|Trading strategy for the Freqtrade crypto bot|1079|2022-03-22|2021-07-14|
-|65|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|1040|2022-03-22|2021-12-28|
-|66|[kzl/decision-transformer](https://github.com/kzl/decision-transformer)|Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.|1034|2022-02-07|2021-06-02|
-|67|[isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement)|Code & Data for Enhancing Photorealism Enhancement|1034|2022-03-21|2021-05-10|
-|68|[claffin/cloudproxy](https://github.com/claffin/cloudproxy)|Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.|1027|2022-02-13|2021-04-16|
-|69|[Bycelium/PyFlow](https://github.com/Bycelium/PyFlow)|An open-source tool for visual and modular block programming in python|1015|2022-02-24|2021-09-11|
-|70|[DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer)|Craft PNG files that appear completely different in Apple software [NOW PATCHED]|1009|2022-03-07|2021-12-16|
-|71|[autonomousvision/giraffe](https://github.com/autonomousvision/giraffe)|This repository contains the code for the CVPR 2021 paper "GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields"|961|2022-02-09|2021-03-26|
-|72|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|Make everything a GitHub svg poster and Skyline!|945|2022-03-22|2021-04-21|
-|73|[facebookresearch/Detic](https://github.com/facebookresearch/Detic)|Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".|942|2022-03-05|2021-12-11|
-|74|[minitorch/minitorch](https://github.com/minitorch/minitorch)|The full minitorch student suite. |940|2022-01-06|2021-12-06|
+|27|[JMTHON-AR/jmthon](https://github.com/JMTHON-AR/jmthon)|Telegram userbot in Arabic language speed and fast it import of catuserbot with some addition enjoy|2190|2022-03-07|2021-12-30|
+|28|[openai/glide-text2im](https://github.com/openai/glide-text2im)|GLIDE: a diffusion-based text-conditional image synthesis model|2125|2022-03-21|2021-12-10|
+|29|[microsoft/muzic](https://github.com/microsoft/muzic)|Muzic: Music Understanding and Generation with Artificial Intelligence|1993|2022-03-15|2021-06-03|
+|30|[ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)|ByteTrack: Multi-Object Tracking by Associating Every Detection Box|1980|2022-03-05|2021-08-27|
+|31|[libffcv/ffcv](https://github.com/libffcv/ffcv)|FFCV: Fast Forward Computer Vision (and other ML workloads!)|1969|2022-03-23|2021-10-13|
+|32|[jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)|Wasm powered Jupyter running in the browser 💡|1902|2022-03-23|2021-03-27|
+|33|[Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)|Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API|1894|2022-03-23|2021-08-28|
+|34|[NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)|Operational information regarding the log4shell vulnerabilities in the Log4j logging library.|1868|2022-03-22|2021-12-12|
+|35|[neuralchen/SimSwap](https://github.com/neuralchen/SimSwap)|An arbitrary face-swapping framework on images and videos with one single trained model!|1799|2022-03-20|2021-06-08|
+|36|[freemocap/freemocap](https://github.com/freemocap/freemocap)|Free Motion Capture for Everyone 💀✨|1794|2022-03-22|2021-04-12|
+|37|[Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)|Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch|1753|2022-03-09|2021-07-28|
+|38|[nerdyrodent/VQGAN-CLIP](https://github.com/nerdyrodent/VQGAN-CLIP)|Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.|1682|2022-02-18|2021-07-02|
+|39|[sxyu/svox2](https://github.com/sxyu/svox2)|Plenoxels: Radiance Fields without Neural Networks, Code release WIP|1646|2022-01-14|2021-10-10|
+|40|[rentruewang/koila](https://github.com/rentruewang/koila)|Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.|1611|2022-03-17|2021-11-17|
+|41|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training|1575|2022-03-23|2021-10-28|
+|42|[casualsnek/cassowary](https://github.com/casualsnek/cassowary)|Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio ...|1510|2022-03-20|2021-10-10|
+|43|[linkedin/greykite](https://github.com/linkedin/greykite)|A flexible, intuitive and fast forecasting library|1485|2021-12-22|2021-04-27|
+|44|[RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold)|This package contains deep learning models and related scripts for RoseTTAFold|1462|2022-03-03|2021-06-29|
+|45|[CyberPunkMetalHead/Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot)|This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me ...|1459|2022-03-16|2021-04-17|
+|46|[Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch)|A sketch extractor for anime/illustration.|1414|2022-01-21|2021-04-09|
+|47|[Textualize/rich-cli](https://github.com/Textualize/rich-cli)|Rich-cli is a command line toolbox for fancy output in the terminal|1413|2022-03-23|2022-01-22|
+|48|[CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins)|This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you  ...|1391|2021-10-21|2021-08-14|
+|49|[JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR)|SwinIR: Image Restoration Using Swin Transformer (official repository)|1378|2022-01-31|2021-08-16|
+|50|[quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)|Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.|1333|2022-03-21|2021-12-15|
+|51|[kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |1274|2022-03-20|2021-12-10|
+|52|[jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf)|Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh|1242|2022-03-05|2021-08-17|
+|53|[openai/guided-diffusion](https://github.com/openai/guided-diffusion)|-|1234|2022-01-24|2021-04-27|
+|54|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A supercharged version of paperless: scan, index and archive all your physical documents|1227|2022-03-23|2022-02-12|
+|55|[Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker)|A extract & decryption and pack & encryption tools for typora.|1213|2022-03-17|2021-11-30|
+|56|[deepchecks/deepchecks](https://github.com/deepchecks/deepchecks)|Test Suites for Validating ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.|1193|2022-03-23|2021-10-11|
+|57|[martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)|ElevenClock: Have a customizable clock on your Windows 11 displays|1193|2022-03-22|2021-09-19|
+|58|[CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)|This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio|1162|2022-02-08|2021-10-17|
+|59|[fofapro/fapro](https://github.com/fofapro/fapro)|Fake Protocol Server|1154|2022-03-18|2021-09-10|
+|60|[IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet)|This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX|1139|2022-03-08|2021-05-03|
+|61|[nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)|BackgroundRemover lets you Remove Background from images and video with a simple command line interface|1138|2022-03-17|2021-05-24|
+|62|[lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)|curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox|1113|2022-03-12|2022-02-17|
+|63|[iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)|Trading strategy for the Freqtrade crypto bot|1079|2022-03-23|2021-07-14|
+|64|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|1040|2022-03-22|2021-12-28|
+|65|[kzl/decision-transformer](https://github.com/kzl/decision-transformer)|Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.|1035|2022-02-07|2021-06-02|
+|66|[isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement)|Code & Data for Enhancing Photorealism Enhancement|1034|2022-03-21|2021-05-10|
+|67|[claffin/cloudproxy](https://github.com/claffin/cloudproxy)|Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.|1027|2022-02-13|2021-04-16|
+|68|[Bycelium/PyFlow](https://github.com/Bycelium/PyFlow)|An open-source tool for visual and modular block programming in python|1016|2022-02-24|2021-09-11|
+|69|[DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer)|Craft PNG files that appear completely different in Apple software [NOW PATCHED]|1011|2022-03-07|2021-12-16|
+|70|[autonomousvision/giraffe](https://github.com/autonomousvision/giraffe)|This repository contains the code for the CVPR 2021 paper "GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields"|963|2022-02-09|2021-03-26|
+|71|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|Make everything a GitHub svg poster and Skyline!|947|2022-03-23|2021-04-21|
+|72|[facebookresearch/Detic](https://github.com/facebookresearch/Detic)|Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".|943|2022-03-05|2021-12-11|
+|73|[minitorch/minitorch](https://github.com/minitorch/minitorch)|The full minitorch student suite. |940|2022-01-06|2021-12-06|
+|74|[deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)|YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)|939|2022-03-22|2021-04-26|
 |75|[PrithivirajDamodaran/Gramformer](https://github.com/PrithivirajDamodaran/Gramformer)|A framework for detecting, highlighting and correcting grammatical errors on natural language text. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.|938|2022-03-16|2021-05-26|
-|76|[hustvl/YOLOP](https://github.com/hustvl/YOLOP)|You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）|935|2022-02-11|2021-08-25|
-|77|[deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)|YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)|935|2022-03-22|2021-04-26|
-|78|[bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist)|Your self hosted YouTube media server|905|2022-03-22|2021-09-05|
-|79|[recognai/rubrix](https://github.com/recognai/rubrix)|✨ Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP|896|2022-03-22|2021-04-28|
-|80|[NVlabs/SegFormer](https://github.com/NVlabs/SegFormer)|Official PyTorch implementation of SegFormer|880|2022-01-05|2021-06-11|
-|81|[mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot)|This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.|877|2022-03-08|2021-10-14|
-|82|[gaasedelen/tenet](https://github.com/gaasedelen/tenet)|A Trace Explorer for Reverse Engineers|875|2021-10-27|2021-04-20|
-|83|[Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)|Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.|875|2022-03-19|2021-03-27|
-|84|[patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)|Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.|868|2022-01-27|2021-03-28|
-|85|[Zy143L/wskey](https://github.com/Zy143L/wskey)|wskey|857|2022-03-22|2021-09-01|
-|86|[microsoft/Graphormer](https://github.com/microsoft/Graphormer)|Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s ...|857|2022-03-17|2021-05-27|
-|87|[ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)|Flutter Reverse Engineering Framework|844|2022-03-15|2021-09-29|
-|88|[bczsalba/pytermgui](https://github.com/bczsalba/pytermgui)|A simple yet powerful TUI framework for your Python (3.7+) applications.|843|2022-03-22|2021-03-31|
-|89|[yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder)|Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" (ICCV 2021) https://arxiv.org/abs/2104.02699|836|2022-02-23|2021-04-06|
-|90|[locuslab/convmixer](https://github.com/locuslab/convmixer)|Implementation of ConvMixer for "Patches Are All You Need? 🤷"|835|2022-01-25|2021-09-28|
-|91|[CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy)|Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57|830|2022-01-18|2021-07-01|
-|92|[facebookresearch/MaskFormer](https://github.com/facebookresearch/MaskFormer)|Per-Pixel Classification is Not All You Need for Semantic Segmentation (NeurIPS 2021, spotlight)|818|2022-03-11|2021-06-18|
-|93|[YehLi/xmodaler](https://github.com/YehLi/xmodaler)|X-modaler is a versatile and high-performance codebase for cross-modal analytics(e.g., image captioning, video captioning, vision-language pre-training, visual question answering, visual commonsense r ...|811|2022-01-16|2021-06-25|
-|94|[ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite)|🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size i ...|806|2022-03-11|2021-08-16|
+|76|[hustvl/YOLOP](https://github.com/hustvl/YOLOP)|You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）|937|2022-02-11|2021-08-25|
+|77|[recognai/rubrix](https://github.com/recognai/rubrix)|✨ Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP|919|2022-03-23|2021-04-28|
+|78|[bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist)|Your self hosted YouTube media server|906|2022-03-23|2021-09-05|
+|79|[NVlabs/SegFormer](https://github.com/NVlabs/SegFormer)|Official PyTorch implementation of SegFormer|881|2022-01-05|2021-06-11|
+|80|[mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot)|This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.|877|2022-03-08|2021-10-14|
+|81|[gaasedelen/tenet](https://github.com/gaasedelen/tenet)|A Trace Explorer for Reverse Engineers|875|2021-10-27|2021-04-20|
+|82|[Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)|Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.|875|2022-03-19|2021-03-27|
+|83|[patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)|Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.|868|2022-01-27|2021-03-28|
+|84|[Zy143L/wskey](https://github.com/Zy143L/wskey)|wskey|859|2022-03-22|2021-09-01|
+|85|[microsoft/Graphormer](https://github.com/microsoft/Graphormer)|Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s ...|857|2022-03-17|2021-05-27|
+|86|[bczsalba/pytermgui](https://github.com/bczsalba/pytermgui)|A simple yet powerful TUI framework for your Python (3.7+) applications.|847|2022-03-22|2021-03-31|
+|87|[ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)|Flutter Reverse Engineering Framework|845|2022-03-15|2021-09-29|
+|88|[locuslab/convmixer](https://github.com/locuslab/convmixer)|Implementation of ConvMixer for "Patches Are All You Need? 🤷"|837|2022-01-25|2021-09-28|
+|89|[yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder)|Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" (ICCV 2021) https://arxiv.org/abs/2104.02699|837|2022-02-23|2021-04-06|
+|90|[CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy)|Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57|831|2022-01-18|2021-07-01|
+|91|[facebookresearch/MaskFormer](https://github.com/facebookresearch/MaskFormer)|Per-Pixel Classification is Not All You Need for Semantic Segmentation (NeurIPS 2021, spotlight)|818|2022-03-11|2021-06-18|
+|92|[ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite)|🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size i ...|812|2022-03-11|2021-08-16|
+|93|[YehLi/xmodaler](https://github.com/YehLi/xmodaler)|X-modaler is a versatile and high-performance codebase for cross-modal analytics(e.g., image captioning, video captioning, vision-language pre-training, visual question answering, visual commonsense r ...|811|2022-03-23|2021-06-25|
+|94|[DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug)|A powerful and flexible machine learning platform for drug discovery|805|2022-03-20|2021-08-10|
 |95|[google-research/scenic](https://github.com/google-research/scenic)|Scenic: A Jax Library for Computer Vision Research and Beyond|805|2022-03-21|2021-07-12|
-|96|[DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug)|A powerful and flexible machine learning platform for drug discovery|804|2022-03-20|2021-08-10|
-|97|[nschloe/tiptop](https://github.com/nschloe/tiptop)|:desktop_computer: Command-line system monitoring|802|2022-03-11|2021-09-24|
-|98|[ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy)|Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀|796|2022-03-09|2021-10-31|
-|99|[compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth)|-|794|2022-03-01|2021-06-01|
-|100|[BR-IDL/PaddleViT](https://github.com/BR-IDL/PaddleViT)|:robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+|787|2022-03-21|2021-08-30|
-|101|[bytedance/music_source_separation](https://github.com/bytedance/music_source_separation)|-|786|2022-02-27|2021-05-19|
+|96|[nschloe/tiptop](https://github.com/nschloe/tiptop)|:desktop_computer: Command-line system monitoring|804|2022-03-11|2021-09-24|
+|97|[ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy)|Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀|796|2022-03-09|2021-10-31|
+|98|[compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth)|-|796|2022-03-01|2021-06-01|
+|99|[BR-IDL/PaddleViT](https://github.com/BR-IDL/PaddleViT)|:robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+|791|2022-03-23|2021-08-30|
+|100|[bytedance/music_source_separation](https://github.com/bytedance/music_source_separation)|-|788|2022-02-27|2021-05-19|
+|101|[google/budoux](https://github.com/google/budoux)|-|785|2022-03-23|2021-11-18|
 |102|[microsoft/PythonProgrammingPuzzles](https://github.com/microsoft/PythonProgrammingPuzzles)|A Dataset of Python Challenges for AI Research|785|2022-02-09|2021-04-25|
-|103|[google/budoux](https://github.com/google/budoux)|-|784|2022-03-22|2021-11-18|
-|104|[facebookresearch/TimeSformer](https://github.com/facebookresearch/TimeSformer)|The official pytorch implementation of our paper "Is Space-Time Attention All You Need for Video Understanding?"|767|2022-01-28|2021-04-02|
-|105|[scottrogowski/mongita](https://github.com/scottrogowski/mongita)|"Mongita is to MongoDB as SQLite is to SQL"|765|2022-03-10|2021-04-02|
-|106|[nextcord/nextcord](https://github.com/nextcord/nextcord)|A maintained fork of Danny's discord.py|764|2022-03-22|2021-08-28|
-|107|[WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin)|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |758|2022-03-18|2021-12-11|
-|108|[Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)|-|757|2021-12-17|2021-03-26|
-|109|[facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former)|Code release for "Masked-attention Mask Transformer for Universal Image Segmentation"|751|2022-02-22|2021-11-24|
-|110|[deepmind/android_env](https://github.com/deepmind/android_env)|A library for doing RL research on Android devices.|750|2022-03-08|2021-04-21|
-|111|[Tencent/TFace](https://github.com/Tencent/TFace)|A trusty face analysis research platform developed by Tencent Youtu Lab|748|2022-03-16|2021-05-20|
-|112|[aqlaboratory/openfold](https://github.com/aqlaboratory/openfold)|Trainable PyTorch reproduction of AlphaFold 2|743|2022-03-21|2021-09-14|
-|113|[pytorch/torchrec](https://github.com/pytorch/torchrec)|Pytorch domain library for recommendation systems|729|2022-03-22|2021-07-12|
+|103|[facebookresearch/TimeSformer](https://github.com/facebookresearch/TimeSformer)|The official pytorch implementation of our paper "Is Space-Time Attention All You Need for Video Understanding?"|768|2022-01-28|2021-04-02|
+|104|[scottrogowski/mongita](https://github.com/scottrogowski/mongita)|"Mongita is to MongoDB as SQLite is to SQL"|765|2022-03-10|2021-04-02|
+|105|[nextcord/nextcord](https://github.com/nextcord/nextcord)|A maintained fork of Danny's discord.py|764|2022-03-23|2021-08-28|
+|106|[WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin)|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |761|2022-03-18|2021-12-11|
+|107|[Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)|-|758|2021-12-17|2021-03-26|
+|108|[facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former)|Code release for "Masked-attention Mask Transformer for Universal Image Segmentation"|753|2022-02-22|2021-11-24|
+|109|[deepmind/android_env](https://github.com/deepmind/android_env)|A library for doing RL research on Android devices.|750|2022-03-08|2021-04-21|
+|110|[Tencent/TFace](https://github.com/Tencent/TFace)|A trusty face analysis research platform developed by Tencent Youtu Lab|749|2022-03-16|2021-05-20|
+|111|[aqlaboratory/openfold](https://github.com/aqlaboratory/openfold)|Trainable PyTorch reproduction of AlphaFold 2|745|2022-03-21|2021-09-14|
+|112|[pytorch/torchrec](https://github.com/pytorch/torchrec)|Pytorch domain library for recommendation systems|735|2022-03-23|2021-07-12|
+|113|[nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|733|2022-03-23|2022-02-12|
 |114|[Neo23x0/log4shell-detector](https://github.com/Neo23x0/log4shell-detector)|Detector for Log4Shell exploitation attempts|722|2022-02-12|2021-12-11|
 |115|[AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)|This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS|720|2021-11-14|2021-05-16|
-|116|[open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration)|MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV. |710|2022-03-19|2021-04-14|
-|117|[dabeaz/dataklasses](https://github.com/dabeaz/dataklasses)|A different spin on dataclasses.|707|2022-01-07|2021-12-19|
-|118|[jinfagang/yolov7](https://github.com/jinfagang/yolov7)|🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥|683|2022-03-14|2021-06-23|
-|119|[microsoft/torchgeo](https://github.com/microsoft/torchgeo)|TorchGeo: datasets, transforms, and models for geospatial data|683|2022-03-22|2021-05-21|
-|120|[rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)|-|681|2022-03-14|2021-06-21|
-|121|[BaguaSys/bagua](https://github.com/BaguaSys/bagua)|Bagua Speeds up PyTorch|681|2022-03-21|2021-05-25|
-|122|[ly4k/Certipy](https://github.com/ly4k/Certipy)|Tool for Active Directory Certificate Services enumeration and abuse|677|2022-03-09|2021-10-06|
-|123|[yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle)|Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" (CVPR 2022) https://arxiv.org/abs/2111.15666|675|2022-03-02|2021-11-30|
+|116|[open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration)|MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV. |711|2022-03-23|2021-04-14|
+|117|[dabeaz/dataklasses](https://github.com/dabeaz/dataklasses)|A different spin on dataclasses.|706|2022-01-07|2021-12-19|
+|118|[jinfagang/yolov7](https://github.com/jinfagang/yolov7)|🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥|686|2022-03-14|2021-06-23|
+|119|[BaguaSys/bagua](https://github.com/BaguaSys/bagua)|Bagua Speeds up PyTorch|684|2022-03-22|2021-05-25|
+|120|[yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle)|Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" (CVPR 2022) https://arxiv.org/abs/2111.15666|683|2022-03-02|2021-11-30|
+|121|[microsoft/torchgeo](https://github.com/microsoft/torchgeo)|TorchGeo: datasets, transforms, and models for geospatial data|683|2022-03-23|2021-05-21|
+|122|[rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)|-|681|2022-03-14|2021-06-21|
+|123|[ly4k/Certipy](https://github.com/ly4k/Certipy)|Tool for Active Directory Certificate Services enumeration and abuse|678|2022-03-09|2021-10-06|
 |124|[widevinedump/Netflix-4K-Script](https://github.com/widevinedump/Netflix-4K-Script)|Tool to download Netflix in 4k|660|2021-12-29|2021-12-23|
 |125|[autonomousvision/projected_gan](https://github.com/autonomousvision/projected_gan)|[NeurIPS'21] Projected GANs Converge Faster|656|2022-03-07|2021-11-01|
-|126|[facebookresearch/xformers](https://github.com/facebookresearch/xformers)|Hackable and optimized Transformers building blocks, supporting a composable construction.|654|2022-03-22|2021-10-13|
-|127|[nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|652|2022-03-22|2022-02-12|
-|128|[lucidrains/mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch)|An All-MLP solution for Vision, from Google AI|642|2022-02-17|2021-05-05|
-|129|[mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge)|RTMP/RTSP/HLS bridge for Wyze cams in a docker container|636|2022-03-20|2021-06-26|
-|130|[princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM)|-|628|2021-11-29|2021-08-24|
-|131|[thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)|OSINT tool for finding profiles by username|627|2022-01-01|2021-05-21|
-|132|[ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation)|Simple, hackable offline speech to text - using the VOSK-API.|626|2022-01-21|2021-05-25|
-|133|[ashkamath/mdetr](https://github.com/ashkamath/mdetr)|-|625|2021-11-02|2021-04-22|
+|126|[facebookresearch/xformers](https://github.com/facebookresearch/xformers)|Hackable and optimized Transformers building blocks, supporting a composable construction.|654|2022-03-23|2021-10-13|
+|127|[lucidrains/mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch)|An All-MLP solution for Vision, from Google AI|643|2022-02-17|2021-05-05|
+|128|[mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge)|RTMP/RTSP/HLS bridge for Wyze cams in a docker container|637|2022-03-23|2021-06-26|
+|129|[princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM)|-|628|2021-11-29|2021-08-24|
+|130|[thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)|OSINT tool for finding profiles by username|628|2022-01-01|2021-05-21|
+|131|[ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation)|Simple, hackable offline speech to text - using the VOSK-API.|627|2022-01-21|2021-05-25|
+|132|[ashkamath/mdetr](https://github.com/ashkamath/mdetr)|-|626|2021-11-02|2021-04-22|
+|133|[facebookresearch/moco-v3](https://github.com/facebookresearch/moco-v3)|PyTorch implementation of MoCo v3 https//arxiv.org/abs/2104.02057|619|2021-11-25|2021-06-17|
 |134|[kakaobrain/kogpt](https://github.com/kakaobrain/kogpt)|KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)|618|2022-03-02|2021-11-12|
-|135|[facebookresearch/moco-v3](https://github.com/facebookresearch/moco-v3)|PyTorch implementation of MoCo v3 https//arxiv.org/abs/2104.02057|618|2021-11-25|2021-06-17|
-|136|[pawl/raspberry-pi-1u-server](https://github.com/pawl/raspberry-pi-1u-server)|A low power 1U Raspberry Pi cluster server for inexpensive colocation.|616|2022-01-10|2021-06-19|
-|137|[dandelin/ViLT](https://github.com/dandelin/ViLT)|Code for the ICML 2021 (long talk) paper: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision"|616|2021-12-30|2021-03-25|
-|138|[PeterWang512/GANSketching](https://github.com/PeterWang512/GANSketching)|Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches.|610|2021-10-27|2021-08-05|
-|139|[mlfoundations/open_clip](https://github.com/mlfoundations/open_clip)|An open source implementation of CLIP.|610|2022-03-15|2021-07-28|
-|140|[NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech)|A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)|607|2022-03-04|2022-02-13|
+|135|[pawl/raspberry-pi-1u-server](https://github.com/pawl/raspberry-pi-1u-server)|A low power 1U Raspberry Pi cluster server for inexpensive colocation.|616|2022-01-10|2021-06-19|
+|136|[dandelin/ViLT](https://github.com/dandelin/ViLT)|Code for the ICML 2021 (long talk) paper: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision"|616|2021-12-30|2021-03-25|
+|137|[microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner)|Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.|612|2022-03-22|2022-03-07|
+|138|[mlfoundations/open_clip](https://github.com/mlfoundations/open_clip)|An open source implementation of CLIP.|612|2022-03-15|2021-07-28|
+|139|[NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech)|A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)|610|2022-03-04|2022-02-13|
+|140|[PeterWang512/GANSketching](https://github.com/PeterWang512/GANSketching)|Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches.|610|2021-10-27|2021-08-05|
 |141|[DrDonk/unlocker](https://github.com/DrDonk/unlocker)|Archived VMware Utilities - DO NOT USE! Use https://github.com/DrDonk/golocker|606|2021-12-22|2021-04-25|
 |142|[ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py)|Official Notion SDK rewritten in Python (sync + async)|605|2022-03-08|2021-05-13|
 |143|[tensorflow/gnn](https://github.com/tensorflow/gnn)|TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.|599|2022-01-06|2021-08-10|
-|144|[borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)|DALL·E Mini - Generate images from a text prompt|590|2022-03-22|2021-07-03|
+|144|[borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)|DALL·E Mini - Generate images from a text prompt|590|2022-03-23|2021-07-03|
 |145|[ClassmateLin/scripts](https://github.com/ClassmateLin/scripts)|jd https://t.me/+fo3HSUe3nbRiNjY1|589|2022-01-14|2021-07-20|
 |146|[tiangolo/asyncer](https://github.com/tiangolo/asyncer)|Asyncer, async and await, focused on developer experience.|588|2022-03-15|2022-01-04|
-|147|[sepandhaghighi/samila](https://github.com/sepandhaghighi/samila)|Generative Art Generator|584|2022-03-22|2021-09-20|
-|148|[Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant)|A Virtual Desktop Assistant Written in Python|582|2021-11-19|2021-10-01|
-|149|[knownsec/Kunyu](https://github.com/knownsec/Kunyu)|Kunyu, more efficient corporate asset collection|582|2022-03-22|2021-07-28|
-|150|[facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)|Library for 8-bit optimizers and quantization routines.|581|2022-01-25|2021-08-16|
+|147|[sepandhaghighi/samila](https://github.com/sepandhaghighi/samila)|Generative Art Generator|588|2022-03-22|2021-09-20|
+|148|[knownsec/Kunyu](https://github.com/knownsec/Kunyu)|Kunyu, more efficient corporate asset collection|584|2022-03-23|2021-07-28|
+|149|[facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)|Library for 8-bit optimizers and quantization routines.|582|2022-01-25|2021-08-16|
+|150|[Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant)|A Virtual Desktop Assistant Written in Python|580|2021-11-19|2021-10-01|
 |151|[GEM-benchmark/NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter)|NL-Augmenter 🦎 → 🐍 A Collaborative Repository of Natural Language Transformations |580|2022-02-20|2021-05-19|
-|152|[jina-ai/docarray](https://github.com/jina-ai/docarray)|The data structure for unstructured data|578|2022-03-22|2021-12-14|
-|153|[magenta/mt3](https://github.com/magenta/mt3)|MT3: Multi-Task Multitrack Music Transcription|577|2022-03-17|2021-11-03|
-|154|[dropreg/R-Drop](https://github.com/dropreg/R-Drop)|-|577|2022-03-20|2021-05-28|
+|152|[jina-ai/docarray](https://github.com/jina-ai/docarray)|The data structure for unstructured data|579|2022-03-23|2021-12-14|
+|153|[magenta/mt3](https://github.com/magenta/mt3)|MT3: Multi-Task Multitrack Music Transcription|578|2022-03-17|2021-11-03|
+|154|[dropreg/R-Drop](https://github.com/dropreg/R-Drop)|-|578|2022-03-20|2021-05-28|
 |155|[Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)|The Rickroll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics. Discord se ...|577|2022-03-20|2021-05-16|
-|156|[bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)|Toolkit for creating, sharing and using natural language prompts.|572|2022-03-12|2021-05-19|
+|156|[bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)|Toolkit for creating, sharing and using natural language prompts.|576|2022-03-12|2021-05-19|
 |157|[aviddot/Pancakeswap-and-uniswap-trading-bot](https://github.com/aviddot/Pancakeswap-and-uniswap-trading-bot)|A Pancakeswap and Uniswap trading client (and bot) with limit orders, marker orders, stop-loss, custom gas strategies, a GUI and much more. Contact @aviddotsupports (TG) or AviddotSupport#8131 (Discor ...|571|2021-09-27|2021-04-23|
 |158|[google-research/deeplab2](https://github.com/google-research/deeplab2)|DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.|566|2022-02-17|2021-05-12|
-|159|[Tencent/PatrickStar](https://github.com/Tencent/PatrickStar)|PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.|563|2022-03-16|2021-04-02|
-|160|[facebookresearch/co3d](https://github.com/facebookresearch/co3d)|Tooling for the Common Objects In 3D dataset.|562|2022-03-16|2021-06-21|
-|161|[CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)|Telegram Bot to store Posts and Documents and it can Access by Special Links.|560|2022-03-09|2021-05-05|
-|162|[facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF)|This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"|559|2022-03-22|2021-12-20|
-|163|[wpeebles/gangealing](https://github.com/wpeebles/gangealing)|Official PyTorch Implementation of GAN-Supervised Dense Visual Alignment (CVPR 2022)|559|2022-03-02|2021-12-10|
-|164|[microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner)|Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.|557|2022-03-22|2022-03-07|
-|165|[imankgoyal/NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks)|Official Code for "Non-deep Networks"|550|2021-12-24|2021-10-11|
-|166|[facebookresearch/xcit](https://github.com/facebookresearch/xcit)|Official code Cross-Covariance Image Transformer (XCiT)|550|2021-09-28|2021-06-17|
-|167|[CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|546|2022-03-21|2021-12-20|
-|168|[waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo)|A project that uses optical flow and machine learning to detect aimhacking in video clips.|544|2021-11-20|2021-09-29|
-|169|[robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix)|Fix Twitter video embeds in Discord (and Telegram!)|543|2022-03-20|2021-07-03|
-|170|[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)|FILM: Frame Interpolation for Large Motion, In arXiv 2022.|542|2022-03-17|2022-01-12|
-|171|[facebookresearch/SLIP](https://github.com/facebookresearch/SLIP)|Code release for SLIP Self-supervision meets Language-Image Pre-training|540|2022-02-25|2021-12-21|
-|172|[rhasspy/larynx](https://github.com/rhasspy/larynx)|End to end text to speech system using gruut and onnx|534|2021-11-11|2021-03-26|
-|173|[Metarget/metarget](https://github.com/Metarget/metarget)|Metarget is a framework providing automatic constructions of vulnerable infrastructures.|525|2022-03-18|2021-04-09|
-|174|[torrinworx/Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs)|Easily generate thousands of 3D models, images, and animation NFTs automatically in Blender with Blend_My_NFTs.|522|2022-03-22|2021-10-19|
-|175|[google/hypernerf](https://github.com/google/hypernerf)|Code for "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields".|520|2022-02-17|2021-09-09|
-|176|[ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)|A tool to make dumpy among us GIFS|517|2022-03-02|2021-05-26|
-|177|[mgeeky/RedWarden](https://github.com/mgeeky/RedWarden)|Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspection and malleable profile correlation|514|2021-10-24|2021-05-15|
-|178|[AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS)|-|513|2022-03-16|2022-02-26|
-|179|[trakBan/spongebob-cli](https://github.com/trakBan/spongebob-cli)|Watch classic spongebob from the terminal!|509|2022-03-14|2022-01-06|
-|180|[open-mmlab/mmrazor](https://github.com/open-mmlab/mmrazor)|OpenMMLab Model Compression Toolbox and Benchmark.|504|2022-03-22|2021-12-22|
+|159|[facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF)|This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"|565|2022-03-22|2021-12-20|
+|160|[Tencent/PatrickStar](https://github.com/Tencent/PatrickStar)|PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.|563|2022-03-16|2021-04-02|
+|161|[wpeebles/gangealing](https://github.com/wpeebles/gangealing)|Official PyTorch Implementation of GAN-Supervised Dense Visual Alignment (CVPR 2022)|562|2022-03-02|2021-12-10|
+|162|[facebookresearch/co3d](https://github.com/facebookresearch/co3d)|Tooling for the Common Objects In 3D dataset.|562|2022-03-16|2021-06-21|
+|163|[CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)|Telegram Bot to store Posts and Documents and it can Access by Special Links.|561|2022-03-09|2021-05-05|
+|164|[imankgoyal/NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks)|Official Code for "Non-deep Networks"|550|2021-12-24|2021-10-11|
+|165|[facebookresearch/xcit](https://github.com/facebookresearch/xcit)|Official code Cross-Covariance Image Transformer (XCiT)|550|2021-09-28|2021-06-17|
+|166|[CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|548|2022-03-21|2021-12-20|
+|167|[robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix)|Fix Twitter video embeds in Discord (and Telegram!)|546|2022-03-20|2021-07-03|
+|168|[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)|FILM: Frame Interpolation for Large Motion, In arXiv 2022.|545|2022-03-17|2022-01-12|
+|169|[waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo)|A project that uses optical flow and machine learning to detect aimhacking in video clips.|544|2021-11-20|2021-09-29|
+|170|[facebookresearch/SLIP](https://github.com/facebookresearch/SLIP)|Code release for SLIP Self-supervision meets Language-Image Pre-training|541|2022-02-25|2021-12-21|
+|171|[rhasspy/larynx](https://github.com/rhasspy/larynx)|End to end text to speech system using gruut and onnx|536|2021-11-11|2021-03-26|
+|172|[Metarget/metarget](https://github.com/Metarget/metarget)|Metarget is a framework providing automatic constructions of vulnerable infrastructures.|526|2022-03-23|2021-04-09|
+|173|[torrinworx/Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs)|Easily generate thousands of 3D models, images, and animation NFTs automatically in Blender with Blend_My_NFTs.|523|2022-03-22|2021-10-19|
+|174|[google/hypernerf](https://github.com/google/hypernerf)|Code for "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields".|521|2022-02-17|2021-09-09|
+|175|[ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)|A tool to make dumpy among us GIFS|517|2022-03-02|2021-05-26|
+|176|[mgeeky/RedWarden](https://github.com/mgeeky/RedWarden)|Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspection and malleable profile correlation|514|2021-10-24|2021-05-15|
+|177|[AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS)|-|513|2022-03-23|2022-02-26|
+|178|[open-mmlab/mmrazor](https://github.com/open-mmlab/mmrazor)|OpenMMLab Model Compression Toolbox and Benchmark.|509|2022-03-22|2021-12-22|
+|179|[trakBan/spongebob-cli](https://github.com/trakBan/spongebob-cli)|Watch classic spongebob from the terminal!|508|2022-03-14|2022-01-06|
+|180|[mttr2021/MTTR](https://github.com/mttr2021/MTTR)|-|497|2022-03-03|2021-11-16|
 |181|[Azure/counterfit](https://github.com/Azure/counterfit)|a CLI that provides a generic automation layer for assessing the security of ML models|497|2022-02-09|2021-04-27|
-|182|[mttr2021/MTTR](https://github.com/mttr2021/MTTR)|-|496|2022-03-03|2021-11-16|
+|182|[Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager)|Script that allows to download portable installers of different versions Adobe software for macOS|496|2022-03-08|2021-08-26|
 |183|[HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces)|Sequence Modeling with Structured State Spaces|494|2022-03-18|2021-11-03|
-|184|[Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager)|Script that allows to download portable installers of different versions Adobe software for macOS|492|2022-03-08|2021-08-26|
-|185|[uzh-rpg/rpg_timelens](https://github.com/uzh-rpg/rpg_timelens)|Repository relating to the CVPR21 paper TimeLens: Event-based Video Frame Interpolation|489|2021-09-23|2021-04-20|
-|186|[NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)|Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.|489|2022-03-22|2021-04-14|
-|187|[282857341/nnFormer](https://github.com/282857341/nnFormer)|-|487|2022-03-18|2021-07-24|
-|188|[rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch)|Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch|487|2022-01-20|2021-06-29|
-|189|[nix-gui/nix-gui](https://github.com/nix-gui/nix-gui)|Use NixOS Without Coding|487|2022-03-16|2021-05-25|
-|190|[Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification)|-|486|2022-03-15|2022-02-18|
+|184|[uzh-rpg/rpg_timelens](https://github.com/uzh-rpg/rpg_timelens)|Repository relating to the CVPR21 paper TimeLens: Event-based Video Frame Interpolation|490|2021-09-23|2021-04-20|
+|185|[NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)|Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.|489|2022-03-22|2021-04-14|
+|186|[282857341/nnFormer](https://github.com/282857341/nnFormer)|-|488|2022-03-18|2021-07-24|
+|187|[rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch)|Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch|487|2022-01-20|2021-06-29|
+|188|[nix-gui/nix-gui](https://github.com/nix-gui/nix-gui)|Use NixOS Without Coding|487|2022-03-16|2021-05-25|
+|189|[Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification)|-|486|2022-03-15|2022-02-18|
+|190|[ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop)|Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)|486|2022-03-01|2021-06-02|
 |191|[mhaskar/DNSStager](https://github.com/mhaskar/DNSStager)|Hide your payload in DNS|486|2022-02-01|2021-04-18|
-|192|[PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D)|3D-aware GANs based on NeRF (arXiv). |484|2022-03-21|2021-10-19|
-|193|[ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop)|Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)|483|2022-03-01|2021-06-02|
-|194|[facebookresearch/ic_gan](https://github.com/facebookresearch/ic_gan)|Official repository for the paper "Instance-Conditioned GAN" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.|477|2022-02-07|2021-06-08|
-|195|[microsoft/DynamicHead](https://github.com/microsoft/DynamicHead)|-|476|2021-10-31|2021-05-29|
-|196|[koaning/drawdata](https://github.com/koaning/drawdata)|Draw datasets from within Jupyter.|476|2021-11-21|2021-04-04|
-|197|[bkerler/mtkclient](https://github.com/bkerler/mtkclient)|Inofficial MTK reverse engineering and flash tool|474|2022-03-22|2021-08-01|
+|192|[PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D)|3D-aware GANs based on NeRF (arXiv). |485|2022-03-23|2021-10-19|
+|193|[facebookresearch/ic_gan](https://github.com/facebookresearch/ic_gan)|Official repository for the paper "Instance-Conditioned GAN" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.|477|2022-02-07|2021-06-08|
+|194|[microsoft/DynamicHead](https://github.com/microsoft/DynamicHead)|-|477|2021-10-31|2021-05-29|
+|195|[koaning/drawdata](https://github.com/koaning/drawdata)|Draw datasets from within Jupyter.|476|2021-11-21|2021-04-04|
+|196|[bkerler/mtkclient](https://github.com/bkerler/mtkclient)|Inofficial MTK reverse engineering and flash tool|475|2022-03-22|2021-08-01|
+|197|[open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)|OpenMMLab Rotated Object Detection Toolbox and Benchmark|474|2022-03-23|2022-02-17|
 |198|[kakaobrain/minDALL-E](https://github.com/kakaobrain/minDALL-E)|PyTorch implementation of a 1.3B text-to-image generation model trained on 14 million image-text pairs|473|2021-12-21|2021-12-08|
-|199|[deepmind/xmanager](https://github.com/deepmind/xmanager)|-|473|2022-03-15|2021-04-26|
-|200|[martomi/chiadog](https://github.com/martomi/chiadog)|A watch dog providing a peace in mind that your Chia farm is running smoothly 24/7.|472|2022-03-14|2021-04-03|
+|199|[YuliangXiu/ICON](https://github.com/YuliangXiu/ICON)|ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)|472|2022-03-13|2021-11-29|
+|200|[deepmind/xmanager](https://github.com/deepmind/xmanager)|-|472|2022-03-15|2021-04-26|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

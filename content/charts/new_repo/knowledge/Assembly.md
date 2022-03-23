@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|359|2022-03-07|2021-05-10|
 |2|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|61|2022-02-19|2021-09-12|
 |3|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|49|2022-01-06|2021-09-26|
-|4|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|33|2022-03-17|2021-05-24|
+|4|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|33|2022-03-23|2021-05-24|
 |5|[g1f1/HelloWorld](https://github.com/g1f1/HelloWorld)|List of Hello World programs in many programming languages. Don't forget to star 🌟 this repository.|17|2022-01-30|2022-01-21|
 |6|[V1n1c1uz/All-Hello-World](https://github.com/V1n1c1uz/All-Hello-World)|Project created to demonstrate the hello world of all the languages that kadolfo9 and I know and are learning.|14|2021-09-27|2021-08-27|
 |7|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|13|2021-11-19|2021-11-19|
@@ -34,18 +34,18 @@
 |27|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|4|2021-12-27|2021-09-22|
 |28|[puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos](https://github.com/puhfessor-p-cpsc-240/2021-fall-cpsc-240-lab-demos)|Collection of live lab demos|4|2021-11-18|2021-09-03|
 |29|[AnthemK/OS-Course-Design](https://github.com/AnthemK/OS-Course-Design)|HUST CSE OS Course Design|3|2022-03-19|2022-03-11|
-|30|[davispeixoto/1000_virus_source_code_for_study](https://github.com/davispeixoto/1000_virus_source_code_for_study)|1000 computer viruses source code for study|3|2022-01-28|2022-01-27|
-|31|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|2022-02-07|2022-01-05|
-|32|[3SUM/monalisa](https://github.com/3SUM/monalisa)|Collection of homework assignments I did for myself and for others while as an undergrad @ UNLV.|3|2022-01-20|2021-12-31|
-|33|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|3|2021-12-19|2021-12-10|
-|34|[PacktPublishing/Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition)|Mastering Reverse Engineering (Second Edition), published by Packt Publishing|3|2022-03-22|2021-12-03|
-|35|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|2022-02-21|2021-10-11|
-|36|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|2021-10-31|2021-10-09|
-|37|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|2021-09-27|2021-09-27|
-|38|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|3|2022-02-05|2021-06-16|
-|39|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|2022-02-20|2022-02-20|
-|40|[georgjz/snes-assembly-adventure-code](https://github.com/georgjz/snes-assembly-adventure-code)|The code examples from the SNES Assembly Adventure series of tutorials|2|2022-02-20|2022-02-19|
-|41|[Dgdiniz/retro-level-programming](https://github.com/Dgdiniz/retro-level-programming)|This is the code for a series of videos called Retro Level Programming, where I teach programming using retro gaming consoles.|2|2022-02-10|2022-02-07|
+|30|[Dgdiniz/retro-level-programming](https://github.com/Dgdiniz/retro-level-programming)|This is the code for a series of videos called Retro Level Programming, where I teach programming using retro gaming consoles.|3|2022-02-10|2022-02-07|
+|31|[davispeixoto/1000_virus_source_code_for_study](https://github.com/davispeixoto/1000_virus_source_code_for_study)|1000 computer viruses source code for study|3|2022-01-28|2022-01-27|
+|32|[Mouradouchane/assembly_examples](https://github.com/Mouradouchane/assembly_examples)|just a simple repo for assembly examples & snippets|3|2022-02-07|2022-01-05|
+|33|[3SUM/monalisa](https://github.com/3SUM/monalisa)|Collection of homework assignments I did for myself and for others while as an undergrad @ UNLV.|3|2022-01-20|2021-12-31|
+|34|[dumitory-dev/mbr-password](https://github.com/dumitory-dev/mbr-password)|This is a tutorial project that shows how to set the BIOS boot password|3|2021-12-19|2021-12-10|
+|35|[PacktPublishing/Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition)|Mastering Reverse Engineering (Second Edition), published by Packt Publishing|3|2022-03-22|2021-12-03|
+|36|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|3|2022-02-21|2021-10-11|
+|37|[GGAlanSmithee/learning-intel-x86-assembly](https://github.com/GGAlanSmithee/learning-intel-x86-assembly)|A repository to keep my files while learning intel x86 assembly|3|2021-10-31|2021-10-09|
+|38|[FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks](https://github.com/FatemehGholamzadeh/Microprocessor-And-Assembly-homeworks)|AVR ATmega16 Microcontroller programming assignments - Microprocessor and Assembly Course (Spring 2019)|3|2021-09-27|2021-09-27|
+|39|[thuongtruong1009/computer-architecture](https://github.com/thuongtruong1009/computer-architecture)|Large project about Computer Architecture topic. Read and learn how to use MIPS language.|3|2022-02-05|2021-06-16|
+|40|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|2022-02-20|2022-02-20|
+|41|[georgjz/snes-assembly-adventure-code](https://github.com/georgjz/snes-assembly-adventure-code)|The code examples from the SNES Assembly Adventure series of tutorials|2|2022-02-20|2022-02-19|
 |42|[mahmou7789d/AVR_Driver](https://github.com/mahmou7789d/AVR_Driver)|For AVR Embedded Course, I had code this driver to produce more electronics and robotics projects using AVR Microcontroller|2|2022-03-01|2022-02-05|
 |43|[msarbouch/HackerU](https://github.com/msarbouch/HackerU)|Most of my works during the study period.|2|2022-02-10|2022-01-28|
 |44|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|2022-01-10|2022-01-10|
