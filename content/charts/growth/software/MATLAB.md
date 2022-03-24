@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5510|2|2021-12-19|
 |2|[sjchoi86/2022-1-intelligent-robotics](https://github.com/sjchoi86/2022-1-intelligent-robotics)|-|15|2|2022-03-23|
-|3|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|124|1|2022-03-12|
-|4|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|618|1|2022-02-24|
-|5|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1621|1|2022-03-03|
+|3|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|125|1|2022-03-12|
+|4|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|619|1|2022-03-24|
+|5|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1623|1|2022-03-03|
 |6|[suhedaras/Local-Path-Plan-with-Bug1-Algorithm](https://github.com/suhedaras/Local-Path-Plan-with-Bug1-Algorithm)|Bug 1 algorithm implementation in MATLAB.|4|1|2022-03-20|
 |7|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|133|1|2022-03-15|
 |8|[Aarchishya/Human-detection-and-tracking-on-Railway-tracks](https://github.com/Aarchishya/Human-detection-and-tracking-on-Railway-tracks)|-|118|1|2022-01-27|
 |9|[suhedaras/Road-Edges-Detection-and-Road-Signs-Recognition](https://github.com/suhedaras/Road-Edges-Detection-and-Road-Signs-Recognition)|-|3|1|2022-03-20|
-|10|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|375|1|2022-03-23|
+|10|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|375|1|2022-03-24|
 |11|[yasaminjafarian/HDNet_TikTok](https://github.com/yasaminjafarian/HDNet_TikTok)|-|266|1|2022-01-14|
 |12|[suhedaras/Machine-Learning-Examples](https://github.com/suhedaras/Machine-Learning-Examples)|-|3|1|2022-03-20|
-|13|[ZPGuiGroupWhu/ClusteringDirectionCentrality](https://github.com/ZPGuiGroupWhu/ClusteringDirectionCentrality)|-|10|1|2022-03-22|
-|14|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|679|1|2022-03-15|
+|13|[ZPGuiGroupWhu/ClusteringDirectionCentrality](https://github.com/ZPGuiGroupWhu/ClusteringDirectionCentrality)|-|10|1|2022-03-24|
+|14|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|680|1|2022-03-15|
 |15|[neuroai/Go-CLS](https://github.com/neuroai/Go-CLS)|-|4|0|2021-10-15|
 |16|[peiqiyang/SPART](https://github.com/peiqiyang/SPART)|the Soil-Plant-Atmosphere Radiative Transfer model|12|0|2021-11-02|
 |17|[CommanderPho/NSCI-613-Lab-6](https://github.com/CommanderPho/NSCI-613-Lab-6)|The code for the UMich NSCI 613 Lab 6 during the Fall 2020 Semester|2|0|2021-10-02|
@@ -48,8 +48,8 @@
 |41|[peruvianox/BatchOpenSim](https://github.com/peruvianox/BatchOpenSim)|Batch Process biomechanical data (markers and ground reaction forces) through OpenSim|3|0|2021-11-04|
 |42|[djimenezsanchez/Synplex](https://github.com/djimenezsanchez/Synplex)|Computer simulator of multiplex tissue images from a set of user-defined parameters|4|0|2021-12-07|
 |43|[Poojitha-Nellipudi/Satellite-Thermal-Control](https://github.com/Poojitha-Nellipudi/Satellite-Thermal-Control)|Satellites are exposed to the harsh environment in space that varies its temperature widely as the satellite orbits around a planet. A thermal control system for a satellite at lower altitudes must be ...|2|0|2021-11-25|
-|44|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|315|0|2022-01-07|
-|45|[avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller)|A robust feedback linearization controller is presented for attitude control of an unmanned aerial vehicle (UAV). The objective of this controller is to make the roll angle, pitch angle, and yaw angle ...|14|0|2022-02-20|
+|44|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|316|0|2022-01-07|
+|45|[avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller)|A robust feedback linearization controller is presented for attitude control of an unmanned aerial vehicle (UAV). The objective of this controller is to make the roll angle, pitch angle, and yaw angle ...|15|0|2022-02-20|
 |46|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2022-03-18|
 |47|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2 and 3|11|0|2022-03-18|
 |48|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1193|0|2021-12-04|
@@ -92,7 +92,7 @@
 |85|[anzhonghu/Concavity-approximation-based-power-allocation-in-millimeter-wave-MIMO-systems](https://github.com/anzhonghu/Concavity-approximation-based-power-allocation-in-millimeter-wave-MIMO-systems)|This one is about the paper and the code of "Concavity approximation based power allocation in millimeter-wave MIMO systems".|3|0|2021-09-23|
 |86|[SeyedMuhammadHosseinMousavi/Using-Genetic-Programming-for-Making-a-New-Evolutionary-Artwork-Based-on-Human-Computer-Interaction](https://github.com/SeyedMuhammadHosseinMousavi/Using-Genetic-Programming-for-Making-a-New-Evolutionary-Artwork-Based-on-Human-Computer-Interaction)|Using Genetic Programming for Making a New Evolutionary Artwork, Based on Human-Computer Interactions for Autism Rehabilitation|4|0|2021-11-21|
 |87|[wunan3/Diffusion-based-Gaussian-Process](https://github.com/wunan3/Diffusion-based-Gaussian-Process)|-|2|0|2021-11-01|
-|88|[petersaj/AP_scripts_cortexlab](https://github.com/petersaj/AP_scripts_cortexlab)|Scripts written in Matteo Carandini/Kenneth Harris' lab|6|0|2022-03-23|
+|88|[petersaj/AP_scripts_cortexlab](https://github.com/petersaj/AP_scripts_cortexlab)|Scripts written in Matteo Carandini/Kenneth Harris' lab|6|0|2022-03-24|
 |89|[yqx7150/EDMSPRec](https://github.com/yqx7150/EDMSPRec)|High-dimensional Embedding Network Derived Prior for CS-MRI|5|0|2022-02-14|
 |90|[vistalab/PRFmodel](https://github.com/vistalab/PRFmodel)|-|7|0|2022-02-21|
 |91|[IgnacioFabietti/SANTIAtoolbox](https://github.com/IgnacioFabietti/SANTIAtoolbox)|-|3|0|2022-02-09|
@@ -101,12 +101,12 @@
 |94|[AET-MetallicGlass/Supplementary-Data-Codes](https://github.com/AET-MetallicGlass/Supplementary-Data-Codes)|This folder contains the source codes and data for the metallic glass paper|11|0|2021-11-11|
 |95|[donghuix/Setup-E3SM-Mac](https://github.com/donghuix/Setup-E3SM-Mac)|-|4|0|2022-03-09|
 |96|[zhanglijun95/FIIQA](https://github.com/zhanglijun95/FIIQA)|Reference: Illumination Quality Assessment for Face Images: A Benchmark and A Convolutional Neural Networks Based Model|48|0|2021-10-22|
-|97|[damonallison/notes](https://github.com/damonallison/notes)|Engineering notes I've taken over the years.|3|0|2022-03-23|
+|97|[damonallison/notes](https://github.com/damonallison/notes)|Engineering notes I've taken over the years.|3|0|2022-03-24|
 |98|[icub-tech-iit/matlab-tools](https://github.com/icub-tech-iit/matlab-tools)|Container for general-purpose MATLAB tools.|2|0|2021-10-25|
 |99|[aicjanelia/LLSM](https://github.com/aicjanelia/LLSM)|Lattice Light-Sheet Microscope Pipeline|5|0|2022-03-22|
 |100|[mintisan/hr_estimate](https://github.com/mintisan/hr_estimate)|hr_estimate|7|0|2022-02-08|
 |101|[cultpenguin/sippi](https://github.com/cultpenguin/sippi)|A Matlab toolbox for sampling inverse problems with complex priors|10|0|2021-11-17|
-|102|[iqiukp/KPCA-MATLAB](https://github.com/iqiukp/KPCA-MATLAB)|MATLAB code for dimensionality reduction, feature extraction, fault detection, and fault diagnosis using Kernel Principal Component Analysis (KPCA).|117|0|2022-02-21|
+|102|[iqiukp/KPCA-MATLAB](https://github.com/iqiukp/KPCA-MATLAB)|MATLAB code for dimensionality reduction, feature extraction, fault detection, and fault diagnosis using Kernel Principal Component Analysis (KPCA).|118|0|2022-02-21|
 |103|[schmrlng/AA-203-MP-Lecture](https://github.com/schmrlng/AA-203-MP-Lecture)|Matlab code accompanying a Spring 2014 AA 203 lecture on motion planning|3|0|2021-10-07|
 |104|[LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix](https://github.com/LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix)|A Hyperspectral Image Mixed Noise Removal Method: FastHyMix|4|0|2021-12-09|
 |105|[hehe03/EA](https://github.com/hehe03/EA)|This repository is the official implementation of “Transfer learning for brain-computer interfaces: A Euclidean space data alignment approach."|5|0|2021-12-25|
@@ -182,8 +182,8 @@
 |175|[SPARC-X/M-SPARC](https://github.com/SPARC-X/M-SPARC)|-|10|0|2022-02-13|
 |176|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|8|0|2022-03-17|
 |177|[whheda/Urban-Tree-Cover-Dataset-UTCD-](https://github.com/whheda/Urban-Tree-Cover-Dataset-UTCD-)|Urban Tree Cover Dataset (UTCD)|4|0|2022-01-04|
-|178|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|45|0|2022-01-31|
-|179|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|6|0|2022-03-23|
+|178|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|45|0|2022-03-24|
+|179|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|6|0|2022-03-24|
 |180|[bhavya-gopal/design-of-soft-senor](https://github.com/bhavya-gopal/design-of-soft-senor)|Employ machine learning methods to estimate the top and bottom composition of distillation column|3|0|2021-11-09|
 |181|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2022-01-10|
 |182|[ppizarror/normalized-spectrogram](https://github.com/ppizarror/normalized-spectrogram)|Normalized spectrogram of a seismic acceleration |7|0|2021-10-19|
@@ -193,7 +193,7 @@
 |186|[nickdisca/DG_code](https://github.com/nickdisca/DG_code)|Discontinuous Galerkin solver in cartesian and spherical geometry|6|0|2022-02-28|
 |187|[cvnlab/analyzePRF](https://github.com/cvnlab/analyzePRF)|-|9|0|2021-12-09|
 |188|[bilalltf/Segmentation-of-White-Blood-Cells-using-Image-Processing-techniques](https://github.com/bilalltf/Segmentation-of-White-Blood-Cells-using-Image-Processing-techniques)|-|3|0|2021-12-27|
-|189|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|3|0|2022-03-16|
+|189|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|4|0|2022-03-16|
 |190|[Skythianos/GSF-IQA](https://github.com/Skythianos/GSF-IQA)|-|10|0|2021-12-03|
 |191|[jmrplens/SetFigPaper](https://github.com/jmrplens/SetFigPaper)|Function to modify the style of the graphical representations of MATLAB|8|0|2021-12-19|
 |192|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|2|0|2021-10-22|
@@ -201,10 +201,10 @@
 |194|[neurolabusc/nii_preprocess](https://github.com/neurolabusc/nii_preprocess)|nii_preprocess adapted for LARC and ABC studies at UofSC|11|0|2022-02-16|
 |195|[jaolive/SiStER](https://github.com/jaolive/SiStER)|An easy-to-use MATLAB code to simulate long-term lithosphere and mantle deformation|21|0|2022-02-04|
 |196|[marijavella/sr-via-CNNs-and-tvtv](https://github.com/marijavella/sr-via-CNNs-and-tvtv)|Robust Single-Image Super-Resolution via CNNs and TV-TV Minimization (IEEE Transactions on Image Processing)|4|0|2021-10-21|
-|197|[scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)|Apply and save color schemes in MATLAB with ease.|867|0|2022-02-10|
+|197|[scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)|Apply and save color schemes in MATLAB with ease.|868|0|2022-02-10|
 |198|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|20|0|2021-09-30|
 |199|[OHBA-analysis/Higgins2020_Neuron](https://github.com/OHBA-analysis/Higgins2020_Neuron)|This repository contains all the files used for the analysis in the paper "Replay bursts in humans coincide with activation of the default mode and parietal alpha networks", Higgins et al Neuron 2020|2|0|2021-11-19|
-|200|[trinhudo/Matlab-code-TWC-Aug2017](https://github.com/trinhudo/Matlab-code-TWC-Aug2017)|Matlab code of the paper: N. T. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An, “Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling,” IE ...|6|0|2022-03-03|
+|200|[trinhudo/Matlab-code-TWC-Aug2017](https://github.com/trinhudo/Matlab-code-TWC-Aug2017)|Matlab code of the paper: N. T. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An, “Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling,” IE ...|7|0|2022-03-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

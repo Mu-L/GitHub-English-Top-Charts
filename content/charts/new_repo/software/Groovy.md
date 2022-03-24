@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|14|2022-02-24|2021-09-30|
 |4|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|2022-03-21|2021-05-19|
 |5|[jamesdh/kompromat](https://github.com/jamesdh/kompromat)|Kompromat Yandex Reviewer|12|2022-03-13|2022-03-02|
-|6|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|7|2022-03-23|2021-09-07|
+|6|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|7|2022-03-24|2021-09-07|
 |7|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-01-10|2021-12-31|
 |8|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
 |9|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|6|2021-12-03|2021-09-25|
@@ -60,15 +60,15 @@
 |53|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
 |54|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2022-03-18|2021-08-19|
 |55|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-22|2021-08-11|
-|56|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-01-26|2021-08-05|
+|56|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-03-24|2021-08-05|
 |57|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
 |58|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
 |59|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
 |60|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
-|61|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-22|2021-06-02|
+|61|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-24|2021-06-02|
 |62|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
-|63|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-19|2021-04-24|
-|64|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-22|2021-04-22|
+|63|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-24|2021-04-24|
+|64|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-24|2021-04-22|
 |65|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
 
 <div align="center">
