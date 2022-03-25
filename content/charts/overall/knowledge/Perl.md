@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1650|2022-03-14|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1411|2022-03-24|
+|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1652|2022-03-14|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1412|2022-03-25|
 |3|[StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1066|2021-10-15|
 |4|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|605|2022-01-04|
 |5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|325|2022-03-14|
 |6|[CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.|312|2022-03-24|
-|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |265|2022-03-24|
-|8|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|115|2022-03-20|
-|9|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|115|2022-03-24|
+|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |265|2022-03-25|
+|8|[void-linux/void-docs](https://github.com/void-linux/void-docs)|mdbook source for docs.voidlinux.org|116|2022-03-25|
+|9|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|115|2022-03-25|
 |10|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|95|2022-03-13|
 |11|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|92|2021-12-28|
-|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|92|2022-03-24|
+|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|92|2022-03-25|
 |13|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|76|2022-03-19|
 |14|[EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl)|:microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>|74|2021-12-25|
-|15|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|66|2022-03-24|
-|16|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|65|2022-03-16|
-|17|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|64|2022-03-24|
+|15|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)|67|2022-03-25|
+|16|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|65|2022-03-24|
+|17|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|65|2022-03-16|
 |18|[andre-st/goodreads-toolbox](https://github.com/andre-st/goodreads-toolbox)|9 tools for Goodreads.com, for finding people based on the books they’ve read, finding books popular among the people you follow, following new book reviews, etc|57|2022-03-10|
 |19|[briandfoy/Learning-Perl-Sample-Files](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|55|2022-02-19|
 |20|[jaswindersingh2/SPOT-RNA](https://github.com/jaswindersingh2/SPOT-RNA)|RNA Secondary Structure Prediction using an Ensemble of Two-dimensional Deep Neural Networks and Transfer Learning.|52|2022-03-21|
 |21|[xen-tools/xen-tools](https://github.com/xen-tools/xen-tools)|xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.|50|2021-10-24|
 |22|[lausser/check_logfiles](https://github.com/lausser/check_logfiles)| A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which scans logfiles for patterns.|45|2022-01-29|
-|23|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2022-03-24|
+|23|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|37|2022-03-25|
 |24|[waldner/croncal](https://github.com/waldner/croncal)|Utility to convert a crontab file to a list of actual events within a date range.|36|2022-02-20|
 |25|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|36|2022-03-17|
 |26|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|35|2021-10-18|
@@ -58,7 +58,7 @@
 |51|[tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte)|Magic housekeeping package for TUXEDO books|14|2022-03-14|
 |52|[project-renard/curie](https://github.com/project-renard/curie)|:mag_right::book: Document reader (currently in pre-alpha)|14|2021-11-28|
 |53|[dlandon/zoneminder.master-docker](https://github.com/dlandon/zoneminder.master-docker)|Zoneminder Master Docker|13|2021-12-23|
-|54|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-03-24|
+|54|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|13|2022-03-25|
 |55|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|13|2022-01-25|
 |56|[marioroy/mce-examples](https://github.com/marioroy/mce-examples)|Examples for Many-Core Engine|13|2022-03-03|
 |57|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2022-03-24|
@@ -88,7 +88,7 @@
 |81|[redeltaglio/rasberry-hackrf](https://github.com/redeltaglio/rasberry-hackrf)|Guide to configure rasberry pi, hackrf one and soapy sdr to control the device remotely.|5|2022-02-21|
 |82|[snmptt/snmptt](https://github.com/snmptt/snmptt)|SNMP Trap Translator (SNMPTT) primary repository.  A mirror is available at https://sourceforge.net/p/snmptt/git/ci/master/tree/ and file releases are available at https://sourceforge.net/projects/snm ...|5|2022-03-06|
 |83|[gryphonshafer/Quizzing-Rule-Book](https://github.com/gryphonshafer/Quizzing-Rule-Book)|Bible Quizzing Rule Book|5|2022-03-24|
-|84|[saadatm/ghalib](https://github.com/saadatm/ghalib)|Source of Kulliyāt-e-Ghalib (web book), a collection of Ghalib's Urdu poetry.|5|2022-02-13|
+|84|[saadatm/ghalib](https://github.com/saadatm/ghalib)|Source of Kulliyāt-e-Ghalib (web book), a collection of Ghalib's Urdu poetry.|5|2022-03-25|
 |85|[multicom-toolbox/DNSS2](https://github.com/multicom-toolbox/DNSS2)|Deep learning architectures for protein secondary structure prediction (version 2)|5|2022-02-10|
 |86|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|2021-10-29|
 |87|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|5|2022-03-22|
@@ -97,7 +97,7 @@
 |90|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2022-02-05|
 |91|[teamapps-org/ansible-collection-teamapps-general](https://github.com/teamapps-org/ansible-collection-teamapps-general)|Ansible Collection for different tools of an organization or company|4|2022-03-22|
 |92|[DerKevinRiehl/transposon_annotation_tools](https://github.com/DerKevinRiehl/transposon_annotation_tools)|A set of bioconda packages for transposon annotations. During my masterthesis I downloaded lots of these tools and I want to make it easier for people to install and run these softwares.|4|2022-03-04|
-|93|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|4|2022-03-22|
+|93|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|4|2022-03-24|
 |94|[IBM-Security/performance](https://github.com/IBM-Security/performance)|IBM Security Performance tools, tuning guides and other helpful documentation.|4|2022-02-24|
 |95|[Gardner-BinfLab/invasive_salmonella](https://github.com/Gardner-BinfLab/invasive_salmonella)|Data and code to accompany our paper on identifying patterns of gene degradation associated with invasiveness in Salmonella|4|2021-10-22|
 |96|[PerlFFI/FFI-ExtractSymbols](https://github.com/PerlFFI/FFI-ExtractSymbols)|Extract symbol names from a shared object or DLL|4|2022-02-19|
@@ -110,25 +110,26 @@
 |103|[sambacha/blockchain-time](https://github.com/sambacha/blockchain-time)|Papers and Resources for utilizing time on-chain and off-chain|3|2021-11-06|
 |104|[eprintsug/EPrintsOpenAIRE](https://github.com/eprintsug/EPrintsOpenAIRE)|Export to OpenAIRE (Guidelines for Literature Repositories v4) from EPrints digital repository software|3|2021-12-10|
 |105|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|3|2022-03-15|
-|106|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2022-03-20|
-|107|[kal247/App-bookmarks](https://github.com/kal247/App-bookmarks)|Export browser bookmarks as plain text.|3|2022-01-16|
-|108|[briandfoy/task-masteringperl](https://github.com/briandfoy/task-masteringperl)|Modules mentioned in Mastering Perl, 2nd Edition|3|2022-01-20|
-|109|[dubgeiser/tilde](https://github.com/dubgeiser/tilde)|Collection of files in the home directory...|3|2022-02-08|
-|110|[ArkAngeL43/Perl-basics-and-cyber-weapons-development](https://github.com/ArkAngeL43/Perl-basics-and-cyber-weapons-development)|a small collaboration of notes and guides on using perl as your daily use case for cyber weapons development|2|2022-03-19|
-|111|[localleon/FOM-LaTex-2021](https://github.com/localleon/FOM-LaTex-2021)|Fork of Latex Template FOM for ITM Thesis and Papers|2|2022-03-01|
-|112|[thibaultduponchelle/messy-ci-workflows](https://github.com/thibaultduponchelle/messy-ci-workflows)|Messy collection of Perl github ci workflows|2|2022-02-18|
-|113|[pkos/magicscan](https://github.com/pkos/magicscan)|Generate disc code serials from a directory scan (magicscan).  Supports ISO, BIN/CUE, and 3DS. Detection algorithms to identify the system from the discs. Options: curate serials with redump.org or ra ...|2|2021-12-28|
-|114|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|2|2022-02-07|
-|115|[nabenabe0928/initial_setup](https://github.com/nabenabe0928/initial_setup)|This repository presents how to setup your new Ubuntu machine quickly.|2|2021-12-31|
-|116|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|2|2021-12-01|
-|117|[ufal/conll2018](https://github.com/ufal/conll2018)| CoNLL 2018 UD Shared Task|2|2021-10-10|
-|118|[opencloset/OpenCloset-Share-Web](https://github.com/opencloset/OpenCloset-Share-Web)| OpenCloset::Share::Web|2|2021-12-09|
-|119|[jaywhang/dotfiles](https://github.com/jaywhang/dotfiles)|Collection of various configuration files used across my machines.|2|2021-09-24|
-|120|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|2|2021-11-16|
-|121|[bewuethr/exercises](https://github.com/bewuethr/exercises)|Exercises from various books and websites|2|2022-01-16|
-|122|[Intertangle/p5-Alien-MuPDF](https://github.com/Intertangle/p5-Alien-MuPDF)|:rocket::book::computer::camera: Alien package for the MuPDF PDF rendering library|2|2021-11-28|
-|123|[maxmind/MaxMind-DB-Common-perl](https://github.com/maxmind/MaxMind-DB-Common-perl)|Code shared by the MaxMind DB reader and writer modules|2|2021-09-27|
-|124|[satyap/dvdauthoring](https://github.com/satyap/dvdauthoring)|How to make a DVD of home movies in Linux using tovid and makedvd.|2|2021-10-08|
+|106|[croit/benchmarks](https://github.com/croit/benchmarks)|Collection of benchmarks with detailed write-ups by croit|3|2022-02-11|
+|107|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2022-03-20|
+|108|[kal247/App-bookmarks](https://github.com/kal247/App-bookmarks)|Export browser bookmarks as plain text.|3|2022-01-16|
+|109|[briandfoy/task-masteringperl](https://github.com/briandfoy/task-masteringperl)|Modules mentioned in Mastering Perl, 2nd Edition|3|2022-01-20|
+|110|[dubgeiser/tilde](https://github.com/dubgeiser/tilde)|Collection of files in the home directory...|3|2022-02-08|
+|111|[ArkAngeL43/Perl-basics-and-cyber-weapons-development](https://github.com/ArkAngeL43/Perl-basics-and-cyber-weapons-development)|a small collaboration of notes and guides on using perl as your daily use case for cyber weapons development|2|2022-03-19|
+|112|[localleon/FOM-LaTex-2021](https://github.com/localleon/FOM-LaTex-2021)|Fork of Latex Template FOM for ITM Thesis and Papers|2|2022-03-01|
+|113|[thibaultduponchelle/messy-ci-workflows](https://github.com/thibaultduponchelle/messy-ci-workflows)|Messy collection of Perl github ci workflows|2|2022-02-18|
+|114|[pkos/magicscan](https://github.com/pkos/magicscan)|Generate disc code serials from a directory scan (magicscan).  Supports ISO, BIN/CUE, and 3DS. Detection algorithms to identify the system from the discs. Options: curate serials with redump.org or ra ...|2|2021-12-28|
+|115|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|2|2022-02-07|
+|116|[nabenabe0928/initial_setup](https://github.com/nabenabe0928/initial_setup)|This repository presents how to setup your new Ubuntu machine quickly.|2|2021-12-31|
+|117|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|2|2021-12-01|
+|118|[ufal/conll2018](https://github.com/ufal/conll2018)| CoNLL 2018 UD Shared Task|2|2021-10-10|
+|119|[opencloset/OpenCloset-Share-Web](https://github.com/opencloset/OpenCloset-Share-Web)| OpenCloset::Share::Web|2|2021-12-09|
+|120|[jaywhang/dotfiles](https://github.com/jaywhang/dotfiles)|Collection of various configuration files used across my machines.|2|2021-09-24|
+|121|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|2|2021-11-16|
+|122|[bewuethr/exercises](https://github.com/bewuethr/exercises)|Exercises from various books and websites|2|2022-01-16|
+|123|[Intertangle/p5-Alien-MuPDF](https://github.com/Intertangle/p5-Alien-MuPDF)|:rocket::book::computer::camera: Alien package for the MuPDF PDF rendering library|2|2021-11-28|
+|124|[maxmind/MaxMind-DB-Common-perl](https://github.com/maxmind/MaxMind-DB-Common-perl)|Code shared by the MaxMind DB reader and writer modules|2|2021-09-27|
+|125|[satyap/dvdauthoring](https://github.com/satyap/dvdauthoring)|How to make a DVD of home movies in Linux using tovid and makedvd.|2|2021-10-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
