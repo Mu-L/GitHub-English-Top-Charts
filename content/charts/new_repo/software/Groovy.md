@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lemiorhan/grand-unified-divisibility-rule](https://github.com/lemiorhan/grand-unified-divisibility-rule)|One divisibility rule for all numbers|34|2021-12-15|2021-11-01|
 |2|[hotwax/mantle](https://github.com/hotwax/mantle)|Mantle includes a universal data model and service library for omnichannel order management system|15|2021-11-09|2021-10-03|
-|3|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|14|2022-02-24|2021-09-30|
+|3|[andreped/NoCodeSeg](https://github.com/andreped/NoCodeSeg)|🔬 Code-free deep segmentation for computational pathology|15|2022-02-24|2021-09-30|
 |4|[engswee/flashpipe](https://github.com/engswee/flashpipe)|The CI/CD Companion for SAP Integration Suite|14|2022-03-21|2021-05-19|
 |5|[jamesdh/kompromat](https://github.com/jamesdh/kompromat)|Kompromat Yandex Reviewer|12|2022-03-13|2022-03-02|
 |6|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|8|2022-01-15|2021-12-03|
@@ -50,25 +50,24 @@
 |43|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
 |44|[hoobs-org/smartthings](https://github.com/hoobs-org/smartthings)|Provides the API interface between HOOBS and SmartThings|2|2021-10-16|2021-10-16|
 |45|[pricefx/example-configuration](https://github.com/pricefx/example-configuration)|This repository provides an example of a configuration project for Pricefx partitions.  |2|2022-03-10|2021-09-29|
-|46|[manifold-systems/manifold-gradle-plugin](https://github.com/manifold-systems/manifold-gradle-plugin)|A Gradle plugin for Manifold|2|2021-09-24|2021-09-23|
-|47|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
-|48|[kaimyn/Hubitat](https://github.com/kaimyn/Hubitat)|Hubitat device drivers for Tailwind support|2|2021-10-05|2021-09-10|
-|49|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|使用groovy实现的页面路由|2|2021-10-04|2021-09-04|
-|50|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-17|2021-08-30|
-|51|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-03-20|2021-08-28|
-|52|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
-|53|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2022-03-18|2021-08-19|
-|54|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-22|2021-08-11|
-|55|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-03-24|2021-08-05|
-|56|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
-|57|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|58|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
-|59|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
-|60|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-24|2021-06-02|
-|61|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
-|62|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-25|2021-04-24|
-|63|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-25|2021-04-22|
-|64|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|46|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
+|47|[kaimyn/Hubitat](https://github.com/kaimyn/Hubitat)|Hubitat device drivers for Tailwind support|2|2021-10-05|2021-09-10|
+|48|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|使用groovy实现的页面路由|2|2021-10-04|2021-09-04|
+|49|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-17|2021-08-30|
+|50|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-03-20|2021-08-28|
+|51|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
+|52|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2022-03-18|2021-08-19|
+|53|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-22|2021-08-11|
+|54|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-03-24|2021-08-05|
+|55|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
+|56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
+|57|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
+|58|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
+|59|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-26|2021-06-02|
+|60|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
+|61|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-25|2021-04-24|
+|62|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-25|2021-04-22|
+|63|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

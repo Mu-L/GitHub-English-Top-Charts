@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13890|4|2022-01-23|
-|2|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2097|1|2022-03-09|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13889|4|2022-01-23|
+|2|[kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)|Code Examples|2099|1|2022-03-09|
 |3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2715|1|2021-12-16|
 |4|[yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)|2862|1|2022-03-02|
-|5|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1657|1|2021-11-02|
-|6|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3304|1|2021-12-04|
+|5|[EddyBorja/EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)|A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.|1656|1|2021-11-02|
+|6|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3305|1|2021-12-04|
 |7|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1761|1|2022-01-10|
 |8|[microsoft/TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter)|A starter template for TypeScript and React Native with a detailed README describing how to use the two together.|1917|1|2022-02-11|
 |9|[little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)|🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android|452|1|2022-03-02|
@@ -21,14 +21,14 @@
 |14|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|0|2022-03-24|
 |15|[DJI-Mobile-SDK-Tutorials/iOS-GEODemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GEODemo)|In this tutorial, you will learn how to use the "DJIFlyZoneManager" and "DJIFlyZoneInformation" of DJI Mobile SDK to get the fly zone information, and unlock authorization fly zones.|4|0|2022-03-24|
 |16|[mattt/TransformerKit](https://github.com/mattt/TransformerKit)|A block-based API for NSValueTransformer, with a growing collection of useful examples.|848|0|2021-10-01|
-|17|[daydreamboy/HelloProjects](https://github.com/daydreamboy/HelloProjects)|A `Hello` series of learning iOS projects|5|0|2022-03-19|
+|17|[daydreamboy/HelloProjects](https://github.com/daydreamboy/HelloProjects)|A `Hello` series of learning iOS projects|5|0|2022-03-26|
 |18|[future94/webrtc-web-android-ios-video-chat-demo](https://github.com/future94/webrtc-web-android-ios-video-chat-demo)|WebRTC implements p2p video chat or share desktop(web can share desktop), It can do P2P video chat with Web, Android, iOS, as long as the room is the same.|2|0|2022-01-21|
 |19|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|44|0|2022-03-25|
 |20|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |8|0|2021-12-15|
 |21|[yatharthrajput/BMI](https://github.com/yatharthrajput/BMI)|BMI Calculator 💪 Our Goal The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no mat ...|8|0|2021-12-09|
 |22|[ck3g/RNAnimationExamples](https://github.com/ck3g/RNAnimationExamples)|Contains various examples of React Native animation|12|0|2022-03-01|
 |23|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|7|0|2021-12-06|
-|24|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|5|0|2022-01-17|
+|24|[p-mazhnik/rn-package-flutter](https://github.com/p-mazhnik/rn-package-flutter)|How to include Flutter module as a React Native package|6|0|2022-01-17|
 |25|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|85|0|2022-03-09|
 |26|[tidev/titanium-identity](https://github.com/tidev/titanium-identity)|A collection of API's to authenticate with your device: Keychain/Keystore, Touch ID and Face ID|38|0|2022-03-21|
 |27|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|0|2022-03-24|
@@ -54,7 +54,7 @@
 |47|[yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native](https://github.com/yai333/How-to-use-AWS-Cognito-Hosted-UI-in-React-Native)|how to use AWS Cognito Hosted UI with Active Directory Federated Identity provider in React native|4|0|2022-02-11|
 |48|[sukolsak/jitouch](https://github.com/sukolsak/jitouch)|A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad|98|0|2021-11-27|
 |49|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|461|0|2021-12-24|
-|50|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1230|0|2022-03-25|
+|50|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1231|0|2022-03-25|
 |51|[andrepimenta/react-native-loading-spinner-overlay-native-tutorial](https://github.com/andrepimenta/react-native-loading-spinner-overlay-native-tutorial)|This is a tutorial for "React Native: How to use any native iOS and Android library"|7|0|2022-03-02|
 |52|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|165|0|2022-01-15|
 |53|[knightsc/hopper](https://github.com/knightsc/hopper)|A collection of Hopper plugins and scripts|11|0|2021-10-29|

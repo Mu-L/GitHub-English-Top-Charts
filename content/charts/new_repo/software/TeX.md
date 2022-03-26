@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|1011|2022-01-08|2021-09-02|
-|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|632|2022-03-16|2021-06-11|
-|3|[TBD54566975/tbdex-whitepaper](https://github.com/TBD54566975/tbdex-whitepaper)|-|438|2021-12-21|2021-11-18|
+|1|[kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)|Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"|1012|2022-01-08|2021-09-02|
+|2|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|633|2022-03-16|2021-06-11|
+|3|[TBD54566975/tbdex-whitepaper](https://github.com/TBD54566975/tbdex-whitepaper)|-|437|2021-12-21|2021-11-18|
 |4|[SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot)|Kellogg bad   Union good   Support strike funds|398|2021-12-21|2021-12-09|
-|5|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|340|2022-03-25|2021-11-19|
-|6|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|212|2022-03-22|2021-07-06|
+|5|[guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)|Tips for Writing a Research Paper using LaTeX|342|2022-03-25|2021-11-19|
+|6|[rodluger/showyourwork](https://github.com/rodluger/showyourwork)|Fully reproducible, open source scientific articles in LaTeX.|212|2022-03-25|2021-07-06|
 |7|[aterenin/phdthesis](https://github.com/aterenin/phdthesis)|Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces|173|2022-03-04|2021-06-28|
 |8|[TinyVG/specification](https://github.com/TinyVG/specification)|The specification for TinyVG. This is the central authority for the file system|158|2021-12-28|2021-12-18|
 |9|[MLNLP-World/SimBiber](https://github.com/MLNLP-World/SimBiber)|-|123|2022-01-10|2021-12-31|
 |10|[sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg)|Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü ...|117|2022-03-09|2021-04-22|
-|11|[jhale1805/expressive-resume](https://github.com/jhale1805/expressive-resume)|A beautiful resume/cover letter LaTeX template pair that are extraordinarily easy to use.|114|2022-02-28|2021-12-24|
+|11|[jhale1805/expressive-resume](https://github.com/jhale1805/expressive-resume)|A beautiful resume/cover letter LaTeX template pair that are extraordinarily easy to use.|115|2022-02-28|2021-12-24|
 |12|[EmilHvitfeldt/ISLR-tidymodels-labs](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs)|-|108|2022-03-09|2021-04-09|
 |13|[dl4nlp-tuda/deep-learning-for-nlp-lectures](https://github.com/dl4nlp-tuda/deep-learning-for-nlp-lectures)|Deep Learning for Natural Language Processing - Lectures 2022|99|2022-03-01|2021-04-12|
 |14|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|80|2022-03-23|2021-07-15|
@@ -25,25 +25,25 @@
 |18|[conal/talk-2021-can-tensor-programming-be-liberated](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated)|Talk: "Can Tensor Programming Be Liberated from the Fortran Data Paradigm?"|57|2021-10-31|2021-10-19|
 |19|[euler-xyz/uni-v3-twap-manipulation](https://github.com/euler-xyz/uni-v3-twap-manipulation)|-|56|2021-11-13|2021-11-05|
 |20|[angary/simulated-annealing-tsp](https://github.com/angary/simulated-annealing-tsp)|Parameterising Simulated Annealing for the Travelling Salesman Problem|54|2021-11-22|2021-10-29|
-|21|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|50|2022-02-23|2021-12-16|
-|22|[sidakwalia/Data-Science-Cheat-Sheet](https://github.com/sidakwalia/Data-Science-Cheat-Sheet)|This repository contains all the Cheat Sheet for Data Science,Python Libraries and Git.|50|2022-02-08|2021-06-27|
+|21|[sidakwalia/Data-Science-Cheat-Sheet](https://github.com/sidakwalia/Data-Science-Cheat-Sheet)|This repository contains all the Cheat Sheet for Data Science,Python Libraries and Git.|51|2022-02-08|2021-06-27|
+|22|[Prabhav10/LaTeX](https://github.com/Prabhav10/LaTeX)|How To Become a LaTeXpert|50|2022-02-23|2021-12-16|
 |23|[yuanqidu/awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation)|-|46|2022-03-06|2021-08-07|
 |24|[yegor256/ssd16](https://github.com/yegor256/ssd16)|16 lectures about "Software Systems Design" presented in Innopolis University in 2021 for 3rd year BSc students|44|2021-11-28|2021-08-14|
 |25|[BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets)|A few Mathematics Revision Cheat Sheets I've made on LaTeX. |42|2022-01-21|2021-07-09|
 |26|[pranphy/nepatex](https://github.com/pranphy/nepatex)|A LaTeX package to typeset nepali latex documents using lualatex.|41|2022-02-16|2022-02-16|
 |27|[paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)|A review of APIs.|40|2022-03-10|2021-06-17|
 |28|[j-jorge/counting-in-cpp](https://github.com/j-jorge/counting-in-cpp)|-|39|2022-02-16|2021-05-18|
-|29|[discentesppgcc/template-latex](https://github.com/discentesppgcc/template-latex)|Template para dissertação e tese em Latex desenvolvido pelos Discentes do PPGCC - UFMG|37|2022-03-15|2021-11-09|
-|30|[Aarif123456/modern-deedy](https://github.com/Aarif123456/modern-deedy)|A resume template based on Deedy|37|2022-02-27|2021-06-01|
+|29|[Aarif123456/modern-deedy](https://github.com/Aarif123456/modern-deedy)|A resume template based on Deedy|38|2022-02-27|2021-06-01|
+|30|[discentesppgcc/template-latex](https://github.com/discentesppgcc/template-latex)|Template para dissertação e tese em Latex desenvolvido pelos Discentes do PPGCC - UFMG|37|2022-03-15|2021-11-09|
 |31|[JohannesBetz/AutonomousRacing_Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)|Autonomous Literature Overview|35|2022-03-07|2021-11-02|
 |32|[n3rada/ScribUTT](https://github.com/n3rada/ScribUTT)|Template LaTeX de rapports de projets / TDs et stages (ST05,ST09,ST10,ST30) pour l'Université de Technologie de Troyes aka UTT (école d'ingénieur).|34|2022-01-27|2021-03-28|
 |33|[jamesfang8499/physics3](https://github.com/jamesfang8499/physics3)|-|33|2022-03-20|2021-07-15|
 |34|[wutong8023/Awesome_Information_Extraction](https://github.com/wutong8023/Awesome_Information_Extraction)|Literature Survey of Information Extraction, especially Relation Extraction, Event Extraction, and Slot Filling.|33|2022-02-13|2021-06-21|
 |35|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|31|2022-03-23|2021-07-15|
 |36|[weymouth/DataDrivenGMG.jl](https://github.com/weymouth/DataDrivenGMG.jl)|Data-driven Geometric Multi-Grid solver for the discrete Poisson equation|30|2021-10-24|2021-09-24|
-|37|[microsoft/ifc-spec](https://github.com/microsoft/ifc-spec)|IFC format specification|26|2022-03-04|2021-07-19|
-|38|[TMD44/elte-ik-pti-bsc-zarovizsga](https://github.com/TMD44/elte-ik-pti-bsc-zarovizsga)|ELTE IK - Programtervező Informatikus BSc Záróvizsga tételek kidolgozása|26|2022-01-07|2021-06-07|
-|39|[tinoryj/UESTC-Thesis-Latex-Template](https://github.com/tinoryj/UESTC-Thesis-Latex-Template)|UESTC Thesis Latex Template|25|2022-03-25|2022-03-16|
+|37|[tinoryj/UESTC-Thesis-Latex-Template](https://github.com/tinoryj/UESTC-Thesis-Latex-Template)|UESTC Thesis Latex Template|27|2022-03-25|2022-03-16|
+|38|[microsoft/ifc-spec](https://github.com/microsoft/ifc-spec)|IFC format specification|26|2022-03-04|2021-07-19|
+|39|[TMD44/elte-ik-pti-bsc-zarovizsga](https://github.com/TMD44/elte-ik-pti-bsc-zarovizsga)|ELTE IK - Programtervező Informatikus BSc Záróvizsga tételek kidolgozása|26|2022-01-07|2021-06-07|
 |40|[TheCedarPrince/C3T](https://github.com/TheCedarPrince/C3T)|C3T: Crash Course Category Theory - A friendly non-mathematician's approach to beginners of Category Theory. 🐱|25|2022-02-28|2021-11-16|
 |41|[UkoeHB/Seraphis](https://github.com/UkoeHB/Seraphis)|Privacy-focused tx protocol|25|2022-02-22|2021-08-20|
 |42|[guanyingc/cv_rebuttal_template](https://github.com/guanyingc/cv_rebuttal_template)|-|24|2022-03-10|2022-03-10|
@@ -51,24 +51,24 @@
 |44|[sansquoi/PlushCV](https://github.com/sansquoi/PlushCV)|A One Page Two Column Resume Latex Template|24|2021-11-30|2021-11-29|
 |45|[gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes)|LaTeX code for some of my lecture notes|23|2022-03-19|2022-03-19|
 |46|[BartoszMilewski/PolyLens](https://github.com/BartoszMilewski/PolyLens)|Polynomial Lens|23|2021-12-29|2021-11-26|
-|47|[wellington36/Resumos_EMAP-FGV](https://github.com/wellington36/Resumos_EMAP-FGV)|Repositório de resumos do curso de Matemática Aplicada da FGV-EMAP|23|2022-03-23|2021-08-28|
+|47|[wellington36/Resumos_EMAP-FGV](https://github.com/wellington36/Resumos_EMAP-FGV)|Repositório de resumos do curso de Matemática Aplicada da FGV-EMAP|23|2022-03-26|2021-08-28|
 |48|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: Overleaf-compatible template (and even Mac-compatible)! Save your time and FU TONGJ!|23|2021-12-30|2021-05-12|
 |49|[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports)|南方科技大学硕士开题报告、年度考核报告 （中/英）|22|2022-03-05|2021-05-18|
 |50|[YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|21|2021-11-16|2021-07-07|
 |51|[RylanSchaeffer/Stanford-LaTeX-Poster-Template](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template)|-|18|2021-10-27|2021-10-27|
-|52|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|18|2022-03-21|2021-09-02|
+|52|[khbminus/HSE-summaries](https://github.com/khbminus/HSE-summaries)|Summaries for 1st year lectures @ AMI HSE SPb|18|2022-03-26|2021-09-02|
 |53|[songxiaolin2009/tjuthesis_xelatex_template](https://github.com/songxiaolin2009/tjuthesis_xelatex_template)|Thesis Template in Tianjin University compiled with XeLaTeX|18|2021-12-10|2021-07-01|
 |54|[Shao-Group/lecture-notes-for-algorithms](https://github.com/Shao-Group/lecture-notes-for-algorithms)|-|17|2022-03-21|2022-03-20|
 |55|[GouMinghao/new_SJTU_thesis_template](https://github.com/GouMinghao/new_SJTU_thesis_template)|SJTU thesis template version 2021, modified from the official version|17|2022-01-04|2021-12-28|
-|56|[Caioflp/monitoria-algebra-linear](https://github.com/Caioflp/monitoria-algebra-linear)|Repositório para disponibilizar o material feito pelos monitores da disciplida de Álgebra Linear da EMAp.|17|2021-11-17|2021-08-04|
-|57|[Rishabh-malhotraa/resume](https://github.com/Rishabh-malhotraa/resume)|LaTeX template for my personal resume|17|2022-02-23|2021-06-27|
-|58|[s-expressionists/wscl](https://github.com/s-expressionists/wscl)|Sources of the "Well Specified Common Lisp" specification which is based on the final draft of the Common Lisp standard but is not a new Common Lisp standard.|17|2021-12-16|2021-06-21|
-|59|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
-|60|[PM25/SimplePlus-BeamerTheme](https://github.com/PM25/SimplePlus-BeamerTheme)|SimplePlus - A Simple & Clear Latex Beamer Theme.|16|2022-03-08|2021-12-14|
-|61|[sylvain-kern/tufte-style-thesis](https://github.com/sylvain-kern/tufte-style-thesis)|A Tufte-styled LaTeX class for theses|16|2022-02-26|2021-12-07|
-|62|[QuantEcon/lecture-julia.myst](https://github.com/QuantEcon/lecture-julia.myst)|Lecture source for "Quantitative Economics with Julia"|16|2022-03-07|2021-05-05|
-|63|[willbchang/org-mode-resume](https://github.com/willbchang/org-mode-resume)|Use org mode to generate resume.|15|2022-03-01|2022-02-27|
-|64|[Mixtape-Sessions/Instrumental-Variables](https://github.com/Mixtape-Sessions/Instrumental-Variables)|Instrumental Variables Mixtape Track|15|2022-03-20|2022-02-14|
+|56|[PM25/SimplePlus-BeamerTheme](https://github.com/PM25/SimplePlus-BeamerTheme)|SimplePlus - A Simple & Clear Latex Beamer Theme.|17|2022-03-08|2021-12-14|
+|57|[Caioflp/monitoria-algebra-linear](https://github.com/Caioflp/monitoria-algebra-linear)|Repositório para disponibilizar o material feito pelos monitores da disciplida de Álgebra Linear da EMAp.|17|2021-11-17|2021-08-04|
+|58|[Rishabh-malhotraa/resume](https://github.com/Rishabh-malhotraa/resume)|LaTeX template for my personal resume|17|2022-02-23|2021-06-27|
+|59|[s-expressionists/wscl](https://github.com/s-expressionists/wscl)|Sources of the "Well Specified Common Lisp" specification which is based on the final draft of the Common Lisp standard but is not a new Common Lisp standard.|17|2021-12-16|2021-06-21|
+|60|[Mixtape-Sessions/Instrumental-Variables](https://github.com/Mixtape-Sessions/Instrumental-Variables)|Instrumental Variables Mixtape Track|16|2022-03-20|2022-02-14|
+|61|[arkabokshi/asymptotics-perturbation-methods](https://github.com/arkabokshi/asymptotics-perturbation-methods)|-|16|2021-12-28|2021-12-20|
+|62|[sylvain-kern/tufte-style-thesis](https://github.com/sylvain-kern/tufte-style-thesis)|A Tufte-styled LaTeX class for theses|16|2022-02-26|2021-12-07|
+|63|[QuantEcon/lecture-julia.myst](https://github.com/QuantEcon/lecture-julia.myst)|Lecture source for "Quantitative Economics with Julia"|16|2022-03-07|2021-05-05|
+|64|[willbchang/org-mode-resume](https://github.com/willbchang/org-mode-resume)|Use org mode to generate resume.|15|2022-03-01|2022-02-27|
 |65|[crharshaw/yale-dissertation-template](https://github.com/crharshaw/yale-dissertation-template)|A Latex template for formatting the Yale GSAS dissertation|15|2022-01-06|2022-01-06|
 |66|[mRokita/wut-thesis-pandoc](https://github.com/mRokita/wut-thesis-pandoc)|-|15|2022-02-15|2021-11-12|
 |67|[nasa-jpl/Waveport](https://github.com/nasa-jpl/Waveport)|Waveport Scattering Library|15|2021-11-17|2021-08-23|
@@ -87,21 +87,21 @@
 |80|[FUlyankin/matstat_lec](https://github.com/FUlyankin/matstat_lec)|Лекции по матстату на русском|13|2021-11-18|2021-07-17|
 |81|[iagoac/dce540](https://github.com/iagoac/dce540)|Disciplina DCE540 - Computação Paralela e Distribuída|13|2022-03-23|2021-07-12|
 |82|[matcom/thesis](https://github.com/matcom/thesis)|Latex template for students thesis of MatCom|12|2022-03-03|2022-02-23|
-|83|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|12|2021-12-05|2021-11-17|
-|84|[OliverKillane/Imperial-Computing-Year-2-Notes](https://github.com/OliverKillane/Imperial-Computing-Year-2-Notes)|Notes for the Lectures of Year 2 Computing 2021-22|12|2022-03-25|2021-11-08|
-|85|[errorcorrectionzoo/eczoo_data](https://github.com/errorcorrectionzoo/eczoo_data)|-|12|2022-03-25|2021-10-29|
-|86|[lucasmoschen/modelo-tcc-emap](https://github.com/lucasmoschen/modelo-tcc-emap)|Este repositório  contém os arquivos necessários para começar o Trabalho de Conclusão de Curso da Escola de Matemática Aplicada (EMAp/FGV)|12|2021-11-11|2021-09-26|
-|87|[rapodaca/dialect](https://github.com/rapodaca/dialect)|Documenting a subset of the SMILES language.|12|2022-03-25|2021-09-22|
-|88|[UlisseMini/understanding-analysis-solutions](https://github.com/UlisseMini/understanding-analysis-solutions)|My solutions to Understanding Analysis by Stephen Abbott (second edition)|12|2022-03-17|2021-09-20|
-|89|[formidablae/Masters_Thesis](https://github.com/formidablae/Masters_Thesis)|Computer Science & Engineering Master's Degree Graduation Thesis. Clustering Graphs - Applying a Label Propagation Algorithm to Detect Communities (in academia) in Graph Databases (ArangoDB). Communit ...|12|2022-01-28|2021-09-15|
-|90|[Peltorator/peltorator-cp-book](https://github.com/Peltorator/peltorator-cp-book)|Сборник статей по спортивному программированию 2.0|12|2022-01-19|2021-08-14|
-|91|[davidrosenberg/ttml2021fall](https://github.com/davidrosenberg/ttml2021fall)|DS-GA 3001: Tools and Techniques for Machine Learning (NYU Fall 2021)|12|2022-02-16|2021-07-05|
-|92|[1995parham/1995parham.pdf](https://github.com/1995parham/1995parham.pdf)|1995parham's Résumé 📜|12|2021-11-16|2021-05-09|
-|93|[AllenDowney/ElementsOfDataScienceBook](https://github.com/AllenDowney/ElementsOfDataScienceBook)|Repository for the manuscript of Elements of Data Science|12|2022-01-18|2021-05-06|
-|94|[SajjadAemmi/thesis](https://github.com/SajjadAemmi/thesis)|-|12|2022-01-14|2021-04-09|
-|95|[transmissions11/formalizing-4626](https://github.com/transmissions11/formalizing-4626)|You thought the ERC was pedantic?|11|2022-02-09|2022-02-09|
-|96|[lastweek/2022-UCSD-Thesis](https://github.com/lastweek/2022-UCSD-Thesis)|Yizhou Shan's Doctoral Dissertation (UCSD CSE)|11|2022-03-16|2022-02-03|
-|97|[UdeshUK/Thesis-Template-UCSC](https://github.com/UdeshUK/Thesis-Template-UCSC)|-|11|2022-01-19|2022-01-19|
+|83|[UdeshUK/Thesis-Template-UCSC](https://github.com/UdeshUK/Thesis-Template-UCSC)|-|12|2022-01-19|2022-01-19|
+|84|[EDGDrummond/DeVo](https://github.com/EDGDrummond/DeVo)|Decentralised Voting Scheme|12|2021-12-05|2021-11-17|
+|85|[OliverKillane/Imperial-Computing-Year-2-Notes](https://github.com/OliverKillane/Imperial-Computing-Year-2-Notes)|Notes for the Lectures of Year 2 Computing 2021-22|12|2022-03-25|2021-11-08|
+|86|[errorcorrectionzoo/eczoo_data](https://github.com/errorcorrectionzoo/eczoo_data)|-|12|2022-03-26|2021-10-29|
+|87|[lucasmoschen/modelo-tcc-emap](https://github.com/lucasmoschen/modelo-tcc-emap)|Este repositório  contém os arquivos necessários para começar o Trabalho de Conclusão de Curso da Escola de Matemática Aplicada (EMAp/FGV)|12|2021-11-11|2021-09-26|
+|88|[rapodaca/dialect](https://github.com/rapodaca/dialect)|Documenting a subset of the SMILES language.|12|2022-03-26|2021-09-22|
+|89|[UlisseMini/understanding-analysis-solutions](https://github.com/UlisseMini/understanding-analysis-solutions)|My solutions to Understanding Analysis by Stephen Abbott (second edition)|12|2022-03-17|2021-09-20|
+|90|[formidablae/Masters_Thesis](https://github.com/formidablae/Masters_Thesis)|Computer Science & Engineering Master's Degree Graduation Thesis. Clustering Graphs - Applying a Label Propagation Algorithm to Detect Communities (in academia) in Graph Databases (ArangoDB). Communit ...|12|2022-01-28|2021-09-15|
+|91|[Peltorator/peltorator-cp-book](https://github.com/Peltorator/peltorator-cp-book)|Сборник статей по спортивному программированию 2.0|12|2022-01-19|2021-08-14|
+|92|[davidrosenberg/ttml2021fall](https://github.com/davidrosenberg/ttml2021fall)|DS-GA 3001: Tools and Techniques for Machine Learning (NYU Fall 2021)|12|2022-02-16|2021-07-05|
+|93|[1995parham/1995parham.pdf](https://github.com/1995parham/1995parham.pdf)|1995parham's Résumé 📜|12|2021-11-16|2021-05-09|
+|94|[AllenDowney/ElementsOfDataScienceBook](https://github.com/AllenDowney/ElementsOfDataScienceBook)|Repository for the manuscript of Elements of Data Science|12|2022-01-18|2021-05-06|
+|95|[SajjadAemmi/thesis](https://github.com/SajjadAemmi/thesis)|-|12|2022-01-14|2021-04-09|
+|96|[transmissions11/formalizing-4626](https://github.com/transmissions11/formalizing-4626)|You thought the ERC was pedantic?|11|2022-02-09|2022-02-09|
+|97|[lastweek/2022-UCSD-Thesis](https://github.com/lastweek/2022-UCSD-Thesis)|Yizhou Shan's Doctoral Dissertation (UCSD CSE)|11|2022-03-16|2022-02-03|
 |98|[edward-martyr/kanbun](https://github.com/edward-martyr/kanbun)|-|11|2022-03-14|2022-01-16|
 |99|[jdily/all_conf_template](https://github.com/jdily/all_conf_template)|a latex paper template to support various conferences across fields including computer graphics,  computer vision, and hci.|11|2022-01-28|2021-12-25|
 |100|[Ninja-Official/Latex-Template-for-Report-Diploma-Thesis](https://github.com/Ninja-Official/Latex-Template-for-Report-Diploma-Thesis)|LaTeX шаблоны для написания отчетов/дипломов/курсовых работ|11|2022-03-02|2021-12-06|
@@ -121,7 +121,7 @@
 |114|[firoorg/spark-paper](https://github.com/firoorg/spark-paper)|The technical paper for the Spark protocol|10|2022-03-21|2021-09-10|
 |115|[mikinty/Topology-Munkres-Solutions](https://github.com/mikinty/Topology-Munkres-Solutions)|Unofficial solutions to Munkres Topology|10|2021-12-28|2021-06-15|
 |116|[udsleeds/openinfra](https://github.com/udsleeds/openinfra)|Open access data for transport research: tools, modelling and simulation|10|2022-01-17|2021-06-14|
-|117|[ampas/aces-docs](https://github.com/ampas/aces-docs)|Source for official ACES documentation.|10|2022-03-24|2021-04-02|
+|117|[ampas/aces-docs](https://github.com/ampas/aces-docs)|Source for official ACES documentation.|10|2022-03-25|2021-04-02|
 |118|[sindrsh/FirstPrinciplesOfMath](https://github.com/sindrsh/FirstPrinciplesOfMath)|First Principles of Math|10|2022-01-16|2021-04-01|
 |119|[r-earthengine/rgeebook](https://github.com/r-earthengine/rgeebook)|https://rgeebook.netlify.app/ |10|2022-03-18|2021-03-30|
 |120|[GaloyMoney/liquidity-fees-paper](https://github.com/GaloyMoney/liquidity-fees-paper)|Pricing liquidity for Lightning wallets|9|2022-03-13|2022-03-08|
@@ -155,7 +155,7 @@
 |148|[arxetype/jaynes78](https://github.com/arxetype/jaynes78)|Retypeset of Jaynes (1978). Where do we stand on Maximum Entropy?|7|2022-03-17|2022-03-16|
 |149|[CapraLab/lab-manuscript-template](https://github.com/CapraLab/lab-manuscript-template)|An academic manuscript template with writing tips in both LaTeX and MS Word format generated by the Capra Lab (2/2022)|7|2022-03-12|2022-03-07|
 |150|[chipsalliance/firrtl-spec](https://github.com/chipsalliance/firrtl-spec)|The specification for the FIRRTL language|7|2022-03-22|2022-03-04|
-|151|[arasgungore/arasgungore-cv](https://github.com/arasgungore/arasgungore-cv)|My curriculum vitae (CV) I have written using a LaTeX template.|7|2022-03-07|2022-02-22|
+|151|[arasgungore/arasgungore-cv](https://github.com/arasgungore/arasgungore-cv)|My curriculum vitae (CV) that I have written using a LaTeX template.|7|2022-03-26|2022-02-22|
 |152|[MISP/misp-training-lea](https://github.com/MISP/misp-training-lea)|Practical Information Sharing between Law Enforcement and CSIRT communities using MISP|7|2022-03-25|2022-02-10|
 |153|[eh2890/CSOR_W4231_S2022](https://github.com/eh2890/CSOR_W4231_S2022)|-|7|2022-03-23|2022-01-25|
 |154|[zaccharieramzi/PhD-defense-presentation](https://github.com/zaccharieramzi/PhD-defense-presentation)|My defense presentation|7|2022-03-07|2022-01-14|

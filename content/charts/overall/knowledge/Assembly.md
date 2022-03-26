@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|9119|2022-03-02|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|9125|2022-03-02|
 |2|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1951|2022-03-24|
 |3|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|2021-12-20|
 |4|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|431|2021-11-26|
-|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|359|2022-03-07|
+|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|361|2022-03-07|
 |6|[christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms)|Collection of test ROMs for testing a NES emulator.|346|2022-03-02|
 |7|[xorpd/asm_prog_ex](https://github.com/xorpd/asm_prog_ex)|Exercises for Assembly language course|273|2021-11-29|
-|8|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|149|2021-12-13|
-|9|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|148|2022-03-25|
+|8|[ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto)|gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero k ...|149|2022-03-25|
+|9|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|149|2021-12-13|
 |10|[am0nsec/vx](https://github.com/am0nsec/vx)|Virus Exchange (VX) - Collection of malware or assembly code used for "offensive" purposed.|119|2022-02-02|
 |11|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|119|2022-03-06|
 |12|[MagerValp/u4remastered](https://github.com/MagerValp/u4remastered)|Ultima IV Remastered for the C64|89|2021-10-22|
 |13|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|66|2021-10-20|
-|14|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|63|2022-02-25|
-|15|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|62|2022-02-19|
+|14|[redcode-labs/BMJ](https://github.com/redcode-labs/BMJ)|Code snippets for bare-metal malware development|64|2022-02-19|
+|15|[CCCSBuffet/pk_do_not_be_afraid](https://github.com/CCCSBuffet/pk_do_not_be_afraid)|ASM really isn't that different from C! This collection of tutorials bridges your existing knowledge of C or C++ to teach assembly language.|63|2022-02-25|
 |16|[mish24/Assembly-step-by-step](https://github.com/mish24/Assembly-step-by-step)|Codes written while learning NASM, numbering the code according the level of complexity.|50|2021-11-01|
 |17|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|49|2022-01-06|
 |18|[Sakura-IT/Amiga-programming-examples](https://github.com/Sakura-IT/Amiga-programming-examples)|Various programming examples for (mostly classic) Amiga.|47|2022-01-22|
@@ -27,7 +27,7 @@
 |20|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|42|2021-10-09|
 |21|[nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)|Collection of Hello World programs written in multiple languages =D|38|2022-02-19|
 |22|[Johnlon/spam-1](https://github.com/Johnlon/spam-1)|Home Brew 8 Bit CPU Hardware Implementation including a Verilog simulation, an assembler, a "C" Compiler and this repo also contains my research and learning. See also the Hackaday.IO project. https:/ ...|35|2022-02-21|
-|23|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|33|2022-03-23|
+|23|[SlithyMatt/zxs-assembly-tutorial](https://github.com/SlithyMatt/zxs-assembly-tutorial)|Z80 Assembly Tutorial for ZX Spectrum Development|33|2022-03-26|
 |24|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|32|2021-10-24|
 |25|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|31|2022-03-20|
 |26|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|29|2021-12-24|
@@ -44,9 +44,9 @@
 |37|[Schlumberger/geothermal](https://github.com/Schlumberger/geothermal)|Standard test case examples of geothermal simulation|13|2021-11-19|
 |38|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|13|2022-02-26|
 |39|[Drunella/u5remastered](https://github.com/Drunella/u5remastered)|Ultima V remastered for EasyFlash and 1581|13|2021-11-21|
-|40|[edoardottt/Asm_mars_examples](https://github.com/edoardottt/Asm_mars_examples)|Some of my assembly code ( examples, iterative and recursive algorithms ) from Computer's Architecture course in Sapienza University, CS Bachelor Degree :floppy_disk:|12|2022-03-19|
-|41|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|11|2022-02-17|
-|42|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|11|2022-01-15|
+|40|[rjobling/Old-Jobbo-Amiga-Code](https://github.com/rjobling/Old-Jobbo-Amiga-Code)|This is a collection of Amiga demo routines lifted from my old A1200.|12|2022-01-15|
+|41|[edoardottt/Asm_mars_examples](https://github.com/edoardottt/Asm_mars_examples)|Some of my assembly code ( examples, iterative and recursive algorithms ) from Computer's Architecture course in Sapienza University, CS Bachelor Degree :floppy_disk:|12|2022-03-19|
+|42|[stefanocoppi/amiga_game_prog](https://github.com/stefanocoppi/amiga_game_prog)|Amiga Assembly Game Programming Tutorial series|11|2022-02-17|
 |43|[maxim-zhao/zexall-sms](https://github.com/maxim-zhao/zexall-sms)|Sega Master System port of ZEXALL Z80 instruction set exerciser|11|2021-10-19|
 |44|[conradoplg/authenc](https://github.com/conradoplg/authenc)|Standalone implemention of authenticated encryption algorithms|11|2022-01-28|
 |45|[dcdelia/dbi-detector](https://github.com/dcdelia/dbi-detector)|Collection of DBI evasion techniques|10|2022-01-25|

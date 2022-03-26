@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Go
-<sub>Updated: 2022-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1495|2022-03-14|2021-07-15|
-|2|[italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote)|A list of remote-friendly or full-remote companies that targets Italian talents.|882|2022-03-23|2022-01-24|
-|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|756|2022-03-25|2021-12-04|
+|2|[italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote)|A list of remote-friendly or full-remote companies that targets Italian talents.|885|2022-03-23|2022-01-24|
+|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|757|2022-03-25|2021-12-04|
 |4|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|678|2022-02-01|2021-04-13|
-|5|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more|421|2022-03-21|2021-04-27|
-|6|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|374|2022-02-25|2021-12-15|
+|5|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more|423|2022-03-26|2021-04-27|
+|6|[zyedidia/generic](https://github.com/zyedidia/generic)|An experimental collection of generic data structures written in Go.|375|2022-02-25|2021-12-15|
 |7|[moabukar/Everything-Tech](https://github.com/moabukar/Everything-Tech)|A collection of online resources to help you on your Tech journey.|372|2022-03-05|2021-10-26|
 |8|[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)|Collection of mini-programs demonstrating Kubernetes client-go usage.|208|2022-03-05|2021-12-25|
 |9|[Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go)|Minimal working examples of Go's unique features. |173|2022-01-23|2021-12-18|
