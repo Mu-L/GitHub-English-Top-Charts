@@ -1,208 +1,208 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Python
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|11035|71|2022-03-19|
-|2|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|59988|48|2022-03-26|
-|3|[beurtschipper/Depix](https://github.com/beurtschipper/Depix)|Recovers passwords from pixelized screenshots|22008|46|2022-02-17|
-|4|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|3439|43|2022-03-14|
-|5|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A youtube-dl fork with additional features and fixes|21804|42|2022-03-26|
-|6|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|36055|42|2022-03-26|
-|7|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|10143|40|2022-02-23|
-|8|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|43320|36|2022-03-26|
-|9|[Telethon-helper/Help](https://github.com/Telethon-helper/Help)|-|2945|35|2022-03-20|
-|10|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|23836|35|2022-03-26|
-|11|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|7071|33|2022-03-24|
-|12|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|34054|33|2022-03-13|
-|13|[jmthonar/pack](https://github.com/jmthonar/pack)|-|411|32|2022-03-25|
-|14|[microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner)|Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.|642|32|2022-03-22|
-|15|[apchenstu/TensoRF](https://github.com/apchenstu/TensoRF)|Tensorial Radiance Fields, a novel approach to model and reconstruct radiance fields|322|32|2022-03-22|
-|16|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A supercharged version of paperless: scan, index and archive all your physical documents|1325|31|2022-03-26|
+|1|[github/copilot-docs](https://github.com/github/copilot-docs)|Documentation for GitHub Copilot|11235|72|2022-03-19|
+|2|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|60023|48|2022-03-27|
+|3|[beurtschipper/Depix](https://github.com/beurtschipper/Depix)|Recovers passwords from pixelized screenshots|22012|46|2022-02-17|
+|4|[facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)|Code release for ConvNeXt model|3443|43|2022-03-14|
+|5|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A youtube-dl fork with additional features and fixes|21870|42|2022-03-27|
+|6|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|36067|42|2022-03-27|
+|7|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|10164|40|2022-02-23|
+|8|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|43363|36|2022-03-26|
+|9|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|23874|35|2022-03-26|
+|10|[Telethon-helper/Help](https://github.com/Telethon-helper/Help)|-|2945|34|2022-03-20|
+|11|[tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)|SQL databases in Python, designed for simplicity, compatibility, and robustness.|7073|33|2022-03-24|
+|12|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|34064|33|2022-03-13|
+|13|[jmthonar/pack](https://github.com/jmthonar/pack)|-|452|32|2022-03-27|
+|14|[microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner)|Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.|652|31|2022-03-22|
+|15|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A supercharged version of paperless: scan, index and archive all your physical documents|1355|31|2022-03-27|
+|16|[apchenstu/TensoRF](https://github.com/apchenstu/TensoRF)|Tensorial Radiance Fields, a novel approach to model and reconstruct radiance fields|325|30|2022-03-22|
 |17|[lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)|curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox|1117|29|2022-03-24|
-|18|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|3105|28|2022-03-22|
-|19|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|8031|28|2022-03-17|
-|20|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|19481|28|2022-03-26|
-|21|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2798|27|2022-02-06|
-|22|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6841|27|2022-03-25|
-|23|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|69203|27|2022-03-26|
-|24|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|40625|26|2022-01-15|
-|25|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|108006|26|2022-03-26|
-|26|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5380|26|2022-01-14|
+|18|[facebookresearch/mae](https://github.com/facebookresearch/mae)|PyTorch implementation of MAE https//arxiv.org/abs/2111.06377|3111|28|2022-03-22|
+|19|[deepmind/alphafold](https://github.com/deepmind/alphafold)|Open source code for AlphaFold.|8036|28|2022-03-26|
+|20|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|19489|28|2022-03-26|
+|21|[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |2799|27|2022-02-06|
+|22|[mvt-project/mvt](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.|6842|27|2022-03-25|
+|23|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|69351|27|2022-03-26|
+|24|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|40630|26|2022-01-15|
+|25|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|108025|26|2022-03-26|
+|26|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5382|26|2022-01-14|
 |27|[JMTHON-AR/jmthon](https://github.com/JMTHON-AR/jmthon)|Telegram userbot in Arabic language speed and fast it import of catuserbot with some addition enjoy|2190|25|2022-03-07|
-|28|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|8881|25|2022-03-26|
-|29|[google-research/bert](https://github.com/google-research/bert)|TensorFlow code and pre-trained models for BERT|30760|25|2022-02-26|
-|30|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|30173|25|2022-03-26|
-|31|[ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py)|Bringing the hell of pointers to Python.|444|25|2022-03-23|
-|32|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5972|24|2022-03-26|
-|33|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|43617|24|2021-12-04|
-|34|[iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|31905|23|2022-03-25|
-|35|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3866|23|2022-03-25|
-|36|[python/cpython](https://github.com/python/cpython)|The Python programming language|43599|23|2022-03-26|
-|37|[Textualize/rich-cli](https://github.com/Textualize/rich-cli)|Rich-cli is a command line toolbox for fancy output in the terminal|1435|22|2022-03-24|
+|28|[Textualize/textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|8891|25|2022-03-27|
+|29|[google-research/bert](https://github.com/google-research/bert)|TensorFlow code and pre-trained models for BERT|30765|25|2022-02-26|
+|30|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|30191|25|2022-03-27|
+|31|[Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)|YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/|5973|24|2022-03-26|
+|32|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|43631|24|2021-12-04|
+|33|[ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py)|Bringing the hell of pointers to Python.|450|24|2022-03-26|
+|34|[iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|31921|23|2022-03-25|
+|35|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|Official PyTorch implementation of StyleGAN3|3871|23|2022-03-25|
+|36|[python/cpython](https://github.com/python/cpython)|The Python programming language|43619|23|2022-03-27|
+|37|[Textualize/rich-cli](https://github.com/Textualize/rich-cli)|Rich-cli is a command line toolbox for fancy output in the terminal|1438|22|2022-03-24|
 |38|[ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)|Allows you easily scan for and delete scam comments using several methods.|3320|22|2022-03-24|
-|39|[teslamotors/light-show](https://github.com/teslamotors/light-show)|Tesla Light Show|2222|22|2022-01-07|
-|40|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.|20288|22|2022-03-24|
-|41|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|54765|21|2022-03-26|
-|42|[simonw/shot-scraper](https://github.com/simonw/shot-scraper)|Tools for taking automated screenshots of websites|406|21|2022-03-26|
-|43|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|16473|21|2022-03-26|
-|44|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7546|21|2022-03-16|
-|45|[deezer/spleeter](https://github.com/deezer/spleeter)|Deezer source separation library including pretrained models.|19166|21|2022-03-12|
-|46|[mxrch/GHunt](https://github.com/mxrch/GHunt)|🕵️‍♂️ Offensive Google framework.|10992|20|2022-03-26|
-|47|[microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)|This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.|19461|20|2021-12-13|
-|48|[mborgerson/mdec](https://github.com/mborgerson/mdec)|Decompilation as a Service. Explore multiple decompilers and compare their output with minimal effort. Upload binary, get decompilation.|321|20|2022-03-19|
-|49|[openai/glide-text2im](https://github.com/openai/glide-text2im)|GLIDE: a diffusion-based text-conditional image synthesis model|2148|20|2022-03-21|
-|50|[localstack/localstack](https://github.com/localstack/localstack)|💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!|39291|20|2022-03-26|
-|51|[alievk/avatarify-python](https://github.com/alievk/avatarify-python)|Avatars for Zoom, Skype and other video-conferencing apps.|14671|20|2021-10-12|
-|52|[GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)|Investment Research for Everyone.|9190|20|2022-03-26|
-|53|[nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|811|19|2022-03-26|
-|54|[JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)|Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|14124|19|2022-03-17|
-|55|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.|17990|18|2022-03-26|
-|56|[NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)|Operational information regarding the log4shell vulnerabilities in the Log4j logging library.|1869|18|2022-03-25|
-|57|[psf/black](https://github.com/psf/black)|The uncompromising Python code formatter|26631|18|2022-03-26|
-|58|[jina-ai/jina](https://github.com/jina-ai/jina)|Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data|14084|18|2022-03-26|
-|59|[huggingface/datasets](https://github.com/huggingface/datasets)|🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools|12849|18|2022-03-25|
-|60|[AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS)|-|513|18|2022-03-23|
-|61|[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)|The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.|20241|17|2022-03-21|
-|62|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.|33742|17|2022-03-26|
-|63|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|63091|17|2022-03-26|
-|64|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|43372|17|2022-03-23|
-|65|[lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)|Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch|9051|17|2022-03-23|
-|66|[microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)|Bringing Old Photo Back to Life (CVPR 2020 oral)|10182|16|2022-03-23|
-|67|[PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)|The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.|17778|16|2022-03-26|
-|68|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|51098|16|2022-03-26|
-|69|[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)|PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more|17262|15|2022-03-26|
-|70|[NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech)|A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)|616|15|2022-03-25|
-|71|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4372|15|2022-03-25|
-|72|[Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)|A Spotify downloader needing only a python interpreter and ffmpeg.|2437|15|2021-12-19|
-|73|[bee-san/pyWhat](https://github.com/bee-san/pyWhat)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|5068|14|2022-03-22|
-|74|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2553|14|2022-02-08|
-|75|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|18851|14|2022-03-26|
-|76|[cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)|Never use print for debugging again|14957|14|2022-03-24|
-|77|[ManimCommunity/manim](https://github.com/ManimCommunity/manim)|A community-maintained Python framework for creating mathematical animations. |9452|14|2022-03-26|
-|78|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|52559|14|2022-03-26|
-|79|[matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)|Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow|21450|13|2022-01-02|
-|80|[Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification)|-|487|13|2022-03-15|
-|81|[quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)|Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.|1337|13|2022-03-26|
-|82|[open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)|OpenMMLab Rotated Object Detection Toolbox and Benchmark|480|13|2022-03-26|
-|83|[google/jax](https://github.com/google/jax)|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|16854|13|2022-03-26|
-|84|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|58401|13|2022-03-26|
-|85|[aristocratos/bpytop](https://github.com/aristocratos/bpytop)|Linux/OSX/FreeBSD resource monitor|8391|13|2022-03-06|
-|86|[facebookresearch/detr](https://github.com/facebookresearch/detr)|End-to-End Object Detection with Transformers|8538|13|2022-03-07|
-|87|[python-poetry/poetry](https://github.com/python-poetry/poetry)|Python dependency management and packaging made easy.|18962|13|2022-03-26|
-|88|[libffcv/ffcv](https://github.com/libffcv/ffcv)|FFCV: Fast Forward Computer Vision (and other ML workloads!)|1985|12|2022-03-23|
-|89|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|1045|12|2022-03-24|
-|90|[google/python-fire](https://github.com/google/python-fire)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|22082|12|2022-02-03|
-|91|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|47123|12|2022-03-25|
-|92|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3811|12|2022-02-20|
-|93|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|43463|12|2022-03-23|
-|94|[rentruewang/koila](https://github.com/rentruewang/koila)|Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.|1615|12|2022-03-17|
+|39|[teslamotors/light-show](https://github.com/teslamotors/light-show)|Tesla Light Show|2224|22|2022-01-07|
+|40|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.|20296|22|2022-03-24|
+|41|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|54771|21|2022-03-27|
+|42|[simonw/shot-scraper](https://github.com/simonw/shot-scraper)|Tools for taking automated screenshots of websites|412|21|2022-03-26|
+|43|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|16480|21|2022-03-26|
+|44|[microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)|This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".|7560|21|2022-03-16|
+|45|[deezer/spleeter](https://github.com/deezer/spleeter)|Deezer source separation library including pretrained models.|19173|21|2022-03-26|
+|46|[mxrch/GHunt](https://github.com/mxrch/GHunt)|🕵️‍♂️ Offensive Google framework.|10996|20|2022-03-26|
+|47|[microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)|This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.|19473|20|2021-12-13|
+|48|[mborgerson/mdec](https://github.com/mborgerson/mdec)|Decompilation as a Service. Explore multiple decompilers and compare their output with minimal effort. Upload binary, get decompilation.|332|20|2022-03-19|
+|49|[openai/glide-text2im](https://github.com/openai/glide-text2im)|GLIDE: a diffusion-based text-conditional image synthesis model|2150|20|2022-03-21|
+|50|[localstack/localstack](https://github.com/localstack/localstack)|💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!|39308|20|2022-03-26|
+|51|[alievk/avatarify-python](https://github.com/alievk/avatarify-python)|Avatars for Zoom, Skype and other video-conferencing apps.|14673|20|2021-10-12|
+|52|[GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)|Investment Research for Everyone.|9194|20|2022-03-27|
+|53|[nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|815|19|2022-03-26|
+|54|[JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)|Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|14133|19|2022-03-17|
+|55|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.|17991|18|2022-03-27|
+|56|[NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)|Operational information regarding the log4shell vulnerabilities in the Log4j logging library.|1869|18|2022-03-26|
+|57|[psf/black](https://github.com/psf/black)|The uncompromising Python code formatter|26636|18|2022-03-27|
+|58|[jina-ai/jina](https://github.com/jina-ai/jina)|Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data|14095|18|2022-03-27|
+|59|[huggingface/datasets](https://github.com/huggingface/datasets)|🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools|12856|18|2022-03-26|
+|60|[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)|The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.|20248|17|2022-03-21|
+|61|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.|33754|17|2022-03-27|
+|62|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|63103|17|2022-03-26|
+|63|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|43386|17|2022-03-27|
+|64|[lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)|Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch|9062|17|2022-03-26|
+|65|[AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS)|-|514|17|2022-03-23|
+|66|[microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)|Bringing Old Photo Back to Life (CVPR 2020 oral)|10189|16|2022-03-23|
+|67|[PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)|The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.|17802|16|2022-03-27|
+|68|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|51113|16|2022-03-27|
+|69|[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)|PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more|17277|15|2022-03-26|
+|70|[facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)|A data augmentations library for audio, image, text, and video.|4372|15|2022-03-25|
+|71|[Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)|A Spotify downloader needing only a python interpreter and ffmpeg.|2437|15|2021-12-19|
+|72|[bee-san/pyWhat](https://github.com/bee-san/pyWhat)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|5071|14|2022-03-22|
+|73|[speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)|E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero|2553|14|2022-02-08|
+|74|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|18861|14|2022-03-27|
+|75|[NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech)|A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)|617|14|2022-03-25|
+|76|[cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)|Never use print for debugging again|14959|14|2022-03-24|
+|77|[ManimCommunity/manim](https://github.com/ManimCommunity/manim)|A community-maintained Python framework for creating mathematical animations. |9466|14|2022-03-27|
+|78|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|52571|14|2022-03-26|
+|79|[matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)|Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow|21451|13|2022-01-02|
+|80|[Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification)|-|488|13|2022-03-27|
+|81|[quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)|Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.|1341|13|2022-03-26|
+|82|[google/jax](https://github.com/google/jax)|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|16868|13|2022-03-27|
+|83|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|58417|13|2022-03-26|
+|84|[aristocratos/bpytop](https://github.com/aristocratos/bpytop)|Linux/OSX/FreeBSD resource monitor|8398|13|2022-03-06|
+|85|[facebookresearch/detr](https://github.com/facebookresearch/detr)|End-to-End Object Detection with Transformers|8543|13|2022-03-07|
+|86|[python-poetry/poetry](https://github.com/python-poetry/poetry)|Python dependency management and packaging made easy.|18981|13|2022-03-26|
+|87|[libffcv/ffcv](https://github.com/libffcv/ffcv)|FFCV: Fast Forward Computer Vision (and other ML workloads!)|1989|12|2022-03-23|
+|88|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|1045|12|2022-03-24|
+|89|[google/python-fire](https://github.com/google/python-fire)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|22086|12|2022-03-27|
+|90|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|47128|12|2022-03-25|
+|91|[ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)|Create Beautiful Tkinter GUIs by Drag and Drop ☄️|3817|12|2022-02-20|
+|92|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|43464|12|2022-03-23|
+|93|[rentruewang/koila](https://github.com/rentruewang/koila)|Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.|1615|12|2022-03-17|
+|94|[open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)|OpenMMLab Rotated Object Detection Toolbox and Benchmark|482|12|2022-03-26|
 |95|[kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |1280|12|2022-03-20|
-|96|[pypa/pipenv](https://github.com/pypa/pipenv)| Python Development Workflow for Humans.|22790|12|2022-03-26|
-|97|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|8595|12|2022-03-11|
-|98|[danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice)|Data Engineering Practice Problems|439|12|2022-02-28|
-|99|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|49484|12|2022-03-26|
-|100|[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)|StyleGAN2 - Official TensorFlow Implementation|9248|11|2021-12-22|
-|101|[deepmind/mctx](https://github.com/deepmind/mctx)|Monte Carlo tree search in JAX|297|11|2022-03-22|
-|102|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training|1589|11|2022-03-26|
-|103|[Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker)|A extract & decryption and pack & encryption tools for typora.|1253|11|2022-03-25|
-|104|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3175|11|2022-03-24|
-|105|[Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain)|Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)|10615|11|2022-03-26|
-|106|[NVlabs/stylegan](https://github.com/NVlabs/stylegan)|StyleGAN - Official TensorFlow Implementation|12326|11|2022-02-27|
-|107|[certbot/certbot](https://github.com/certbot/certbot)|Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.|28789|11|2022-03-25|
-|108|[openai/DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|4143|10|2021-12-24|
-|109|[hpcaitech/FastFold](https://github.com/hpcaitech/FastFold)|Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters|283|10|2022-03-09|
-|110|[junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|Image-to-Image Translation in PyTorch|17143|10|2022-03-26|
-|111|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|43144|10|2022-03-26|
-|112|[bilibili/ailab](https://github.com/bilibili/ailab)|-|3377|10|2022-03-26|
-|113|[EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)|An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.|6178|10|2022-02-25|
-|114|[microsoft/recommenders](https://github.com/microsoft/recommenders)|Best Practices on Recommendation Systems|12663|10|2022-03-25|
-|115|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3411|10|2022-03-10|
-|116|[geohot/tinygrad](https://github.com/geohot/tinygrad)|You like pytorch? You like micrograd? You love tinygrad! ❤️ |5221|10|2022-02-27|
-|117|[microsoft/playwright-python](https://github.com/microsoft/playwright-python)|Python version of the Playwright testing and automation library.|6023|10|2022-03-25|
-|118|[ray-project/ray](https://github.com/ray-project/ray)|An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp ...|19641|10|2022-03-26|
-|119|[DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer)|Craft PNG files that appear completely different in Apple software [NOW PATCHED]|1011|10|2022-03-07|
-|120|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2418|10|2022-03-24|
-|121|[kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)|Model parallel transformers in JAX and Haiku|3942|10|2022-01-28|
-|122|[Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)|⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡|9598|10|2022-03-18|
-|123|[apache/airflow](https://github.com/apache/airflow)|Apache Airflow - A platform to programmatically author, schedule, and monitor workflows|25253|10|2022-03-26|
-|124|[sxyu/svox2](https://github.com/sxyu/svox2)|Plenoxels: Radiance Fields without Neural Networks, Code release WIP|1650|10|2022-01-14|
-|125|[UzJu/Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)|六大云存储，泄露利用检测工具|317|10|2022-03-08|
-|126|[lucidrains/deep-daze](https://github.com/lucidrains/deep-daze)|Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun|4111|9|2022-03-13|
-|127|[facebookresearch/Kats](https://github.com/facebookresearch/Kats)|Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, ...|3595|9|2022-03-25|
-|128|[Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)|Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API|1906|9|2022-03-26|
-|129|[J0hnbX/RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources)|-|326|9|2022-02-24|
-|130|[ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)|ByteTrack: Multi-Object Tracking by Associating Every Detection Box|1990|9|2022-03-24|
-|131|[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.|5530|9|2022-03-22|
-|132|[casualsnek/cassowary](https://github.com/casualsnek/cassowary)|Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio ...|1514|9|2022-03-20|
-|133|[shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)|-|33158|9|2022-02-02|
-|134|[lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)|Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch|3912|9|2022-03-24|
-|135|[GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)|Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.|11873|9|2022-03-26|
-|136|[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplic ...|3939|9|2022-03-26|
-|137|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|25367|9|2022-03-24|
-|138|[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)|Graph Neural Network Library for PyTorch|14172|9|2022-03-26|
-|139|[tqdm/tqdm](https://github.com/tqdm/tqdm)|A Fast, Extensible Progress Bar for Python and CLI|21530|9|2022-03-24|
-|140|[gaasedelen/patching](https://github.com/gaasedelen/patching)|An Interactive Binary Patching Plugin for IDA Pro|411|9|2022-02-10|
-|141|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|17834|9|2022-03-26|
-|142|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|7404|9|2022-03-21|
-|143|[facebookresearch/Detic](https://github.com/facebookresearch/Detic)|Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".|951|9|2022-03-05|
-|144|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot|16811|9|2022-03-26|
-|145|[tiangolo/typer](https://github.com/tiangolo/typer)|Typer, build great CLIs. Easy to code. Based on Python type hints.|7448|9|2022-03-05|
-|146|[eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)|PyTorch implementations of Generative Adversarial Networks.|11645|8|2022-03-25|
-|147|[pandas-dev/pandas](https://github.com/pandas-dev/pandas)|Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more|33160|8|2022-03-26|
-|148|[heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)|Label Studio is a multi-type data labeling and annotation tool with standardized output format|7921|8|2022-03-25|
-|149|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|Embed images and sentences into fixed-length vectors with CLIP|10000|8|2022-03-24|
-|150|[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)|A self-hosted open source photo management service. This is the repository of the backend.|3912|8|2022-03-25|
-|151|[magenta/magenta](https://github.com/magenta/magenta)|Magenta: Music and Art Generation with Machine Intelligence|17495|8|2022-03-22|
-|152|[minitorch/minitorch](https://github.com/minitorch/minitorch)|The full minitorch student suite. |939|8|2022-01-06|
+|96|[pypa/pipenv](https://github.com/pypa/pipenv)| Python Development Workflow for Humans.|22793|12|2022-03-27|
+|97|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|8642|12|2022-03-11|
+|98|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|49492|12|2022-03-27|
+|99|[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)|StyleGAN2 - Official TensorFlow Implementation|9254|11|2021-12-22|
+|100|[deepmind/mctx](https://github.com/deepmind/mctx)|Monte Carlo tree search in JAX|297|11|2022-03-22|
+|101|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training|1597|11|2022-03-27|
+|102|[Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker)|A extract & decryption and pack & encryption tools for typora.|1260|11|2022-03-25|
+|103|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3178|11|2022-03-24|
+|104|[Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain)|Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)|10620|11|2022-03-27|
+|105|[NVlabs/stylegan](https://github.com/NVlabs/stylegan)|StyleGAN - Official TensorFlow Implementation|12326|11|2022-02-27|
+|106|[danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice)|Data Engineering Practice Problems|439|11|2022-02-28|
+|107|[certbot/certbot](https://github.com/certbot/certbot)|Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.|28793|11|2022-03-25|
+|108|[openai/DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|4145|10|2021-12-24|
+|109|[hpcaitech/FastFold](https://github.com/hpcaitech/FastFold)|Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters|290|10|2022-03-09|
+|110|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|43152|10|2022-03-26|
+|111|[bilibili/ailab](https://github.com/bilibili/ailab)|-|3381|10|2022-03-26|
+|112|[EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)|An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.|6180|10|2022-02-25|
+|113|[microsoft/recommenders](https://github.com/microsoft/recommenders)|Best Practices on Recommendation Systems|12669|10|2022-03-27|
+|114|[waydroid/waydroid](https://github.com/waydroid/waydroid)|Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.|3411|10|2022-03-10|
+|115|[geohot/tinygrad](https://github.com/geohot/tinygrad)|You like pytorch? You like micrograd? You love tinygrad! ❤️ |5220|10|2022-02-27|
+|116|[ray-project/ray](https://github.com/ray-project/ray)|An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp ...|19648|10|2022-03-27|
+|117|[DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer)|Craft PNG files that appear completely different in Apple software [NOW PATCHED]|1011|10|2022-03-07|
+|118|[salesforce/Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|2421|10|2022-03-24|
+|119|[kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)|Model parallel transformers in JAX and Haiku|3942|10|2022-01-28|
+|120|[Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)|⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡|9601|10|2022-03-18|
+|121|[apache/airflow](https://github.com/apache/airflow)|Apache Airflow - A platform to programmatically author, schedule, and monitor workflows|25264|10|2022-03-27|
+|122|[sxyu/svox2](https://github.com/sxyu/svox2)|Plenoxels: Radiance Fields without Neural Networks, Code release WIP|1652|10|2022-01-14|
+|123|[lucidrains/deep-daze](https://github.com/lucidrains/deep-daze)|Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun|4112|9|2022-03-13|
+|124|[facebookresearch/Kats](https://github.com/facebookresearch/Kats)|Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, ...|3597|9|2022-03-25|
+|125|[Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)|Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API|1908|9|2022-03-26|
+|126|[J0hnbX/RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources)|-|326|9|2022-02-24|
+|127|[ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)|ByteTrack: Multi-Object Tracking by Associating Every Detection Box|1990|9|2022-03-24|
+|128|[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.|5530|9|2022-03-22|
+|129|[casualsnek/cassowary](https://github.com/casualsnek/cassowary)|Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio ...|1516|9|2022-03-20|
+|130|[junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|Image-to-Image Translation in PyTorch|17147|9|2022-03-26|
+|131|[shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)|-|33157|9|2022-02-02|
+|132|[lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)|Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch|3912|9|2022-03-24|
+|133|[GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)|Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.|11876|9|2022-03-26|
+|134|[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplic ...|3951|9|2022-03-26|
+|135|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|25376|9|2022-03-24|
+|136|[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)|Graph Neural Network Library for PyTorch|14174|9|2022-03-27|
+|137|[tqdm/tqdm](https://github.com/tqdm/tqdm)|A Fast, Extensible Progress Bar for Python and CLI|21543|9|2022-03-27|
+|138|[gaasedelen/patching](https://github.com/gaasedelen/patching)|An Interactive Binary Patching Plugin for IDA Pro|414|9|2022-02-10|
+|139|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|17835|9|2022-03-27|
+|140|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|7430|9|2022-03-21|
+|141|[facebookresearch/Detic](https://github.com/facebookresearch/Detic)|Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".|952|9|2022-03-05|
+|142|[microsoft/playwright-python](https://github.com/microsoft/playwright-python)|Python version of the Playwright testing and automation library.|6027|9|2022-03-25|
+|143|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot|16826|9|2022-03-27|
+|144|[tiangolo/typer](https://github.com/tiangolo/typer)|Typer, build great CLIs. Easy to code. Based on Python type hints.|7448|9|2022-03-05|
+|145|[UzJu/Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)|六大云存储，泄露利用检测工具|317|9|2022-03-08|
+|146|[eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)|PyTorch implementations of Generative Adversarial Networks.|11646|8|2022-03-25|
+|147|[pandas-dev/pandas](https://github.com/pandas-dev/pandas)|Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more|33171|8|2022-03-27|
+|148|[heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)|Label Studio is a multi-type data labeling and annotation tool with standardized output format|7923|8|2022-03-25|
+|149|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|Embed images and sentences into fixed-length vectors with CLIP|10014|8|2022-03-24|
+|150|[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)|A self-hosted open source photo management service. This is the repository of the backend.|3913|8|2022-03-27|
+|151|[magenta/magenta](https://github.com/magenta/magenta)|Magenta: Music and Art Generation with Machine Intelligence|17493|8|2022-03-22|
+|152|[minitorch/minitorch](https://github.com/minitorch/minitorch)|The full minitorch student suite. |940|8|2022-01-06|
 |153|[flairNLP/flair](https://github.com/flairNLP/flair)|A very simple framework for state-of-the-art Natural Language Processing (NLP)|11426|8|2022-03-25|
 |154|[google/trax](https://github.com/google/trax)|Trax — Deep Learning with Clear Code and Speed|6833|8|2022-03-22|
-|155|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|11197|8|2022-03-26|
-|156|[vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)|[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting|5834|8|2021-10-24|
-|157|[UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)|Multilingual Sentence & Image Embeddings with BERT|7338|8|2022-03-17|
+|155|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|11199|8|2022-03-27|
+|156|[vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)|[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting|5838|8|2021-10-24|
+|157|[UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)|Multilingual Sentence & Image Embeddings with BERT|7345|8|2022-03-17|
 |158|[RangiLyu/nanodet](https://github.com/RangiLyu/nanodet)|NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥|4191|8|2022-03-21|
-|159|[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|3893|8|2022-03-26|
-|160|[chubin/wttr.in](https://github.com/chubin/wttr.in)|:partly_sunny: The right way to check the weather|17228|8|2022-03-17|
-|161|[mlflow/mlflow](https://github.com/mlflow/mlflow)|Open source platform for the machine learning lifecycle|11523|8|2022-03-26|
-|162|[xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)|The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."|5483|8|2022-03-19|
-|163|[rsms/inter](https://github.com/rsms/inter)|The Inter font family|13604|8|2022-03-21|
-|164|[psf/requests-html](https://github.com/psf/requests-html)|Pythonic HTML Parsing for Humans™|12447|8|2022-01-28|
-|165|[explosion/spaCy](https://github.com/explosion/spaCy)|💫 Industrial-strength Natural Language Processing (NLP) in Python|22988|8|2022-03-25|
-|166|[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)|DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.|6504|8|2022-03-25|
-|167|[encode/httpx](https://github.com/encode/httpx)|A next generation HTTP client for Python. 🦋|8487|8|2022-03-25|
+|159|[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|3901|8|2022-03-26|
+|160|[chubin/wttr.in](https://github.com/chubin/wttr.in)|:partly_sunny: The right way to check the weather|17237|8|2022-03-26|
+|161|[mlflow/mlflow](https://github.com/mlflow/mlflow)|Open source platform for the machine learning lifecycle|11525|8|2022-03-27|
+|162|[xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)|The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."|5486|8|2022-03-19|
+|163|[rsms/inter](https://github.com/rsms/inter)|The Inter font family|13608|8|2022-03-21|
+|164|[psf/requests-html](https://github.com/psf/requests-html)|Pythonic HTML Parsing for Humans™|12450|8|2022-01-28|
+|165|[explosion/spaCy](https://github.com/explosion/spaCy)|💫 Industrial-strength Natural Language Processing (NLP) in Python|22995|8|2022-03-27|
+|166|[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)|DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.|6508|8|2022-03-25|
+|167|[encode/httpx](https://github.com/encode/httpx)|A next generation HTTP client for Python. 🦋|8490|8|2022-03-26|
 |168|[lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)|A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)|6863|7|2021-11-02|
-|169|[deepinsight/insightface](https://github.com/deepinsight/insightface)|State-of-the-art 2D and 3D Face Analysis Project|11451|7|2022-03-25|
-|170|[NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)|Style transfer, deep learning, feature transform|10749|7|2021-10-17|
+|169|[deepinsight/insightface](https://github.com/deepinsight/insightface)|State-of-the-art 2D and 3D Face Analysis Project|11454|7|2022-03-25|
+|170|[NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)|Style transfer, deep learning, feature transform|10750|7|2021-10-17|
 |171|[dabeaz/dataklasses](https://github.com/dabeaz/dataklasses)|A different spin on dataclasses.|706|7|2022-01-07|
-|172|[tiangolo/asyncer](https://github.com/tiangolo/asyncer)|Asyncer, async and await, focused on developer experience.|589|7|2022-03-25|
-|173|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6295|7|2022-02-10|
+|172|[tiangolo/asyncer](https://github.com/tiangolo/asyncer)|Asyncer, async and await, focused on developer experience.|588|7|2022-03-25|
+|173|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6294|7|2022-02-10|
 |174|[widevinedump/Netflix-4K-Script](https://github.com/widevinedump/Netflix-4K-Script)|Tool to download Netflix in 4k|660|7|2021-12-29|
 |175|[tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)|Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.|12136|7|2022-03-25|
-|176|[tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)|Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.|8435|7|2022-02-13|
-|177|[twintproject/twint](https://github.com/twintproject/twint)|An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.|12769|7|2022-03-23|
-|178|[albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)|Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125|9906|7|2022-03-18|
+|176|[tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)|Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.|8441|7|2022-02-13|
+|177|[twintproject/twint](https://github.com/twintproject/twint)|An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.|12776|7|2022-03-23|
+|178|[albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)|Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125|9910|7|2022-03-18|
 |179|[Neo23x0/log4shell-detector](https://github.com/Neo23x0/log4shell-detector)|Detector for Log4Shell exploitation attempts|722|7|2022-02-12|
-|180|[ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)|A code-completion engine for Vim|23803|7|2022-03-24|
-|181|[carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)|Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.|4331|7|2022-03-25|
-|182|[ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)|Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）|6704|7|2022-01-24|
-|183|[3b1b/videos](https://github.com/3b1b/videos)|Code for the manim-generated scenes used in 3blue1brown videos|3338|7|2022-03-25|
+|180|[ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)|A code-completion engine for Vim|23807|7|2022-03-24|
+|181|[carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)|Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.|4337|7|2022-03-25|
+|182|[ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)|Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）|6708|7|2022-01-24|
+|183|[3b1b/videos](https://github.com/3b1b/videos)|Code for the manim-generated scenes used in 3blue1brown videos|3342|7|2022-03-25|
 |184|[vinayak-mehta/present](https://github.com/vinayak-mehta/present)|A terminal-based presentation tool with colors and effects.|4132|7|2021-10-02|
-|185|[PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)|Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with  ...|9694|7|2022-03-26|
-|186|[InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)|📷 Instagram Bot - Tool for automated Instagram interactions|13992|7|2022-03-20|
-|187|[getsentry/sentry](https://github.com/getsentry/sentry)|Sentry is cross-platform application monitoring, with a focus on error reporting.|30457|7|2022-03-26|
+|185|[PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)|Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with  ...|9696|7|2022-03-27|
+|186|[InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)|📷 Instagram Bot - Tool for automated Instagram interactions|13995|7|2022-03-20|
+|187|[getsentry/sentry](https://github.com/getsentry/sentry)|Sentry is cross-platform application monitoring, with a focus on error reporting.|30463|7|2022-03-27|
 |188|[google/model_search](https://github.com/google/model_search)|-|3194|7|2022-02-09|
-|189|[PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)|Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.|6536|7|2022-03-26|
-|190|[Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)|Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch|1760|7|2022-03-09|
+|189|[PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)|Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.|6542|7|2022-03-27|
+|190|[Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)|Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch|1760|7|2022-03-27|
 |191|[CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)|This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio|1162|7|2022-02-08|
-|192|[ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig)|Data-centric declarative deep learning framework|8180|7|2022-03-26|
-|193|[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)|Cross-platform, fast, feature-rich, GPU based terminal|14118|7|2022-03-26|
-|194|[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)|FILM: Frame Interpolation for Large Motion, In arXiv 2022.|549|7|2022-03-17|
+|192|[ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig)|Data-centric declarative deep learning framework|8180|7|2022-03-27|
+|193|[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)|Cross-platform, fast, feature-rich, GPU based terminal|14123|7|2022-03-26|
+|194|[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)|FILM: Frame Interpolation for Large Motion, In arXiv 2022.|551|7|2022-03-17|
 |195|[microsoft/muzic](https://github.com/microsoft/muzic)|Muzic: Music Understanding and Generation with Artificial Intelligence|1999|7|2022-03-15|
-|196|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|3016|7|2022-03-26|
-|197|[rotemtzaban/STIT](https://github.com/rotemtzaban/STIT)|-|433|7|2022-03-01|
-|198|[facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data|5782|7|2022-03-25|
+|196|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|3020|7|2022-03-27|
+|197|[rotemtzaban/STIT](https://github.com/rotemtzaban/STIT)|-|434|7|2022-03-01|
+|198|[facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data|5786|7|2022-03-25|
 |199|[rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)|An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation|2428|7|2021-11-24|
 |200|[Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes)|Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes|4487|7|2022-02-10|
 

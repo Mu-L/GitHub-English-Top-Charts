@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Ruby
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|2010|2022-03-25|2021-04-11|
+|1|[TrashUwU/PokeAssistant](https://github.com/TrashUwU/PokeAssistant)|Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest ...|2013|2022-03-25|2021-04-11|
 |2|[motor-admin/motor-admin](https://github.com/motor-admin/motor-admin)|Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.|1160|2022-03-11|2021-08-06|
 |3|[tenderlove/asmrepl](https://github.com/tenderlove/asmrepl)|A REPL for x86-64 assembly language|798|2021-12-07|2021-11-23|
 |4|[Lightricks/Kintsugi](https://github.com/Lightricks/Kintsugi)|A tool to automatically resolve Git conflicts that occur in Xcode project files|736|2022-03-15|2021-04-19|
@@ -15,31 +15,31 @@
 |8|[rails/propshaft](https://github.com/rails/propshaft)|Deliver assets for Rails|467|2022-03-16|2021-09-18|
 |9|[hschne/rails-mini-profiler](https://github.com/hschne/rails-mini-profiler)|Performance profiling for Rails, made simple 🦔|369|2022-03-21|2021-04-23|
 |10|[rails/cssbundling-rails](https://github.com/rails/cssbundling-rails)|Bundle and process CSS in Rails with Tailwind, PostCSS, and Sass via Node.js.|353|2022-03-21|2021-09-07|
-|11|[fatkodima/online_migrations](https://github.com/fatkodima/online_migrations)|Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, e ...|296|2022-03-25|2022-01-08|
-|12|[joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)|The reverse job board for Rails developers.|264|2022-03-24|2021-10-21|
+|11|[fatkodima/online_migrations](https://github.com/fatkodima/online_migrations)|Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, e ...|297|2022-03-25|2022-01-08|
+|12|[joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)|The reverse job board for Rails developers.|264|2022-03-26|2021-10-21|
 |13|[hostolab/covidliste](https://github.com/hostolab/covidliste)|Speed-up Covid-19 vaccination campaigns 💉|264|2022-03-16|2021-04-01|
-|14|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.|231|2022-02-25|2021-08-07|
-|15|[shayonj/pg-osc](https://github.com/shayonj/pg-osc)|Easy CLI tool for making zero downtime schema changes and backfills  in PostgreSQL |205|2022-03-13|2021-12-29|
+|14|[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)|A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.|232|2022-02-25|2021-08-07|
+|15|[shayonj/pg-osc](https://github.com/shayonj/pg-osc)|Easy CLI tool for making zero downtime schema changes and backfills  in PostgreSQL |206|2022-03-13|2021-12-29|
 |16|[hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge)|A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware|198|2022-03-17|2021-12-06|
-|17|[allmarkedup/lookbook](https://github.com/allmarkedup/lookbook)|A native development UI for ViewComponent |197|2022-03-26|2021-06-25|
+|17|[allmarkedup/lookbook](https://github.com/allmarkedup/lookbook)|A native development UI for ViewComponent |198|2022-03-27|2021-06-25|
 |18|[basecamp/audits1984](https://github.com/basecamp/audits1984)|Auditing tool for Rails console sessions|195|2022-02-26|2021-08-10|
 |19|[amancevice/yake](https://github.com/amancevice/yake)|A Rake-like DSL for writing AWS Lambda handlers|144|2022-03-17|2021-04-26|
 |20|[avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer)|RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.|143|2022-01-13|2021-08-06|
 |21|[baygeldin/tantiny](https://github.com/baygeldin/tantiny)|Tiny full-text search for Ruby powered by Tantivy|134|2022-03-22|2022-03-07|
 |22|[AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui)|Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - No need to pre-install any prerequisites. Just install the gem and have platform-independent GUI that just works)|127|2022-03-26|2021-09-14|
-|23|[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)|Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise|119|2022-03-09|2021-12-11|
-|24|[lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero)|An authentication system generator for Rails applications. |110|2022-03-21|2022-02-14|
-|25|[simnalamburt/homebrew-x](https://github.com/simnalamburt/homebrew-x)|My homebrew packages|104|2022-02-23|2021-09-04|
-|26|[Dandush03/pg_rls](https://github.com/Dandush03/pg_rls)|PostgreSQL Row Level Security, The Rails right way to do multitenancy|103|2022-02-24|2021-10-04|
-|27|[apexatoll/cliptic](https://github.com/apexatoll/cliptic)|A terminal interface for fetching and playing daily cryptic crosswords|103|2021-10-01|2021-07-06|
-|28|[ruby/error_highlight](https://github.com/ruby/error_highlight)|The gem enhances Exception#message by adding a short explanation where the exception is raised|103|2022-03-25|2021-06-29|
-|29|[breakpointHQ/chrome-bandit](https://github.com/breakpointHQ/chrome-bandit)|Programmatically extract saved passwords from Chromium based browsers.|99|2022-02-26|2022-01-22|
-|30|[alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow)|Alfred Workflow for Google Drive|97|2022-03-11|2021-09-03|
-|31|[mike-bourgeous/mb-geometry](https://github.com/mike-bourgeous/mb-geometry)|Recreational Ruby tools for graphics and geometry.|95|2021-10-04|2021-04-11|
-|32|[ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree)|A fast Ruby parser and formatter|91|2022-03-02|2021-11-16|
-|33|[rails/dartsass-rails](https://github.com/rails/dartsass-rails)|Integrate Dart Sass with the asset pipeline in Rails|89|2022-02-20|2022-01-21|
-|34|[bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train)|The Open Source Ruby on Rails SaaS Framework|85|2022-03-25|2022-03-07|
-|35|[evilmartians/ruby-on-whales](https://github.com/evilmartians/ruby-on-whales)|Ruby on Whales example and templates|82|2022-03-25|2022-02-28|
+|23|[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)|Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise|120|2022-03-09|2021-12-11|
+|24|[bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train)|The Open Source Ruby on Rails SaaS Framework|114|2022-03-25|2022-03-07|
+|25|[lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero)|An authentication system generator for Rails applications. |110|2022-03-27|2022-02-14|
+|26|[simnalamburt/homebrew-x](https://github.com/simnalamburt/homebrew-x)|My homebrew packages|104|2022-02-23|2021-09-04|
+|27|[Dandush03/pg_rls](https://github.com/Dandush03/pg_rls)|PostgreSQL Row Level Security, The Rails right way to do multitenancy|103|2022-02-24|2021-10-04|
+|28|[apexatoll/cliptic](https://github.com/apexatoll/cliptic)|A terminal interface for fetching and playing daily cryptic crosswords|103|2021-10-01|2021-07-06|
+|29|[ruby/error_highlight](https://github.com/ruby/error_highlight)|The gem enhances Exception#message by adding a short explanation where the exception is raised|103|2022-03-25|2021-06-29|
+|30|[breakpointHQ/chrome-bandit](https://github.com/breakpointHQ/chrome-bandit)|Programmatically extract saved passwords from Chromium based browsers.|99|2022-02-26|2022-01-22|
+|31|[alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow)|Alfred Workflow for Google Drive|97|2022-03-11|2021-09-03|
+|32|[mike-bourgeous/mb-geometry](https://github.com/mike-bourgeous/mb-geometry)|Recreational Ruby tools for graphics and geometry.|95|2021-10-04|2021-04-11|
+|33|[ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree)|A fast Ruby parser and formatter|92|2022-03-02|2021-11-16|
+|34|[rails/dartsass-rails](https://github.com/rails/dartsass-rails)|Integrate Dart Sass with the asset pipeline in Rails|90|2022-02-20|2022-01-21|
+|35|[evilmartians/ruby-on-whales](https://github.com/evilmartians/ruby-on-whales)|Ruby on Whales example and templates|83|2022-03-25|2022-02-28|
 |36|[square/cocoapods-pack](https://github.com/square/cocoapods-pack)|A CocoaPods plugin for producing xcframeworks from podspecs.|82|2022-01-25|2021-11-09|
 |37|[scala-open-letter/scala-open-letter.github.io](https://github.com/scala-open-letter/scala-open-letter.github.io)|-|81|2022-03-16|2021-04-27|
 |38|[testdouble/mocktail](https://github.com/testdouble/mocktail)|-|79|2022-01-27|2021-09-21|
@@ -61,7 +61,7 @@
 |54|[a6b8/ascii-to-svg-generator-for-ruby](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)|Generates beautiful svg vector images based on a string input.|58|2022-01-22|2021-06-14|
 |55|[fractaledmind/acidic_job](https://github.com/fractaledmind/acidic_job)|Idempotent operations for Rails apps, built for ActiveJob or Sidekiq.|57|2022-03-20|2021-06-20|
 |56|[stevepolitodesign/rails_mvp_authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)|An authentication generator for Rails 7. Generate all the files needed to create a feature rich authentication system that you control. No configuration needed.|56|2022-02-21|2022-02-07|
-|57|[ledermann/templatus-hotwire](https://github.com/ledermann/templatus-hotwire)|Opinionated template for starting new web applications with Ruby on Rails and Hotwire|54|2022-03-26|2021-12-11|
+|57|[ledermann/templatus-hotwire](https://github.com/ledermann/templatus-hotwire)|Opinionated template for starting new web applications with Ruby on Rails and Hotwire|55|2022-03-26|2021-12-11|
 |58|[kenaniah/sidekiq-status](https://github.com/kenaniah/sidekiq-status)|-|54|2022-02-11|2021-06-26|
 |59|[testdouble/maybe_later](https://github.com/testdouble/maybe_later)|Run code after the current Rack response or Rails action completes|53|2022-01-25|2022-01-19|
 |60|[d3d1rty/algoheader](https://github.com/d3d1rty/algoheader)|Generate beautiful header images for blogs or social media accounts.|53|2021-10-12|2021-10-09|
@@ -80,16 +80,16 @@
 |73|[tenderlove/defrost](https://github.com/tenderlove/defrost)|Never let pesky "frozen" objects get in your way again! Use Defrost to remove the frozen state from your objects!|40|2021-11-06|2021-11-06|
 |74|[mattruzicka/wordle_decoder](https://github.com/mattruzicka/wordle_decoder)|A Wordle decoder that guesses your guesses.|39|2022-03-19|2022-02-23|
 |75|[Inversion-des/paralines](https://github.com/Inversion-des/paralines)|Nice output to console/file from concurrent threads|39|2022-01-28|2022-01-27|
-|76|[restarone/violet_rails](https://github.com/restarone/violet_rails)|a Wordpress alternative for Ruby developers. Includes a CMS, blog, forum and email functionality for your next SaaS/XaaS project. Built with Devise, Sidekiq & PostgreSQL|39|2022-03-23|2021-04-03|
+|76|[restarone/violet_rails](https://github.com/restarone/violet_rails)|a Wordpress alternative for Ruby developers. Includes a CMS, blog, forum and email functionality for your next SaaS/XaaS project. Built with Devise, Sidekiq & PostgreSQL|39|2022-03-27|2021-04-03|
 |77|[MatheusRich/end_of_life](https://github.com/MatheusRich/end_of_life)|Lists repositories using end-of-life Ruby versions|38|2022-03-21|2022-01-07|
 |78|[leastbad/beast_mode](https://github.com/leastbad/beast_mode)|100% server-side rendered faceted search UI demo. Featuring StimulusReflex and All Futures.|38|2022-03-25|2021-04-20|
 |79|[joshdholtz/wassup](https://github.com/joshdholtz/wassup)|Easily scriptable terminal dashboard |37|2022-01-14|2021-12-01|
 |80|[pch/rails-boilerplate](https://github.com/pch/rails-boilerplate)|🛤 Ruby on Rails project template with custom authentication and my preferred defaults|36|2022-01-04|2021-12-26|
 |81|[ParamagicDev/evil_systems](https://github.com/ParamagicDev/evil_systems)|An easy way to enhance your system tests with Rails and Capybara using EvilMartians System of a Test.|36|2022-03-23|2021-04-05|
-|82|[k8s-tr/k8s-docs](https://github.com/k8s-tr/k8s-docs)|Kubernetes Eğitim Dokümanları|35|2022-03-21|2021-10-04|
-|83|[ankane/immudb-ruby](https://github.com/ankane/immudb-ruby)|Ruby client for immudb, the immutable database|34|2022-01-02|2021-12-31|
-|84|[elct9620/boxing](https://github.com/elct9620/boxing)|The zero-configuration Dockerfile generator for Ruby.|33|2022-02-22|2021-12-18|
-|85|[q9f/eth.rb](https://github.com/q9f/eth.rb)|a straightforward library to build, sign, and broadcast ethereum transactions anywhere you can run ruby.|33|2022-03-26|2021-11-29|
+|82|[q9f/eth.rb](https://github.com/q9f/eth.rb)|a straightforward library to build, sign, and broadcast ethereum transactions anywhere you can run ruby.|35|2022-03-26|2021-11-29|
+|83|[k8s-tr/k8s-docs](https://github.com/k8s-tr/k8s-docs)|Kubernetes Eğitim Dokümanları|35|2022-03-21|2021-10-04|
+|84|[ankane/immudb-ruby](https://github.com/ankane/immudb-ruby)|Ruby client for immudb, the immutable database|34|2022-01-02|2021-12-31|
+|85|[elct9620/boxing](https://github.com/elct9620/boxing)|The zero-configuration Dockerfile generator for Ruby.|33|2022-02-22|2021-12-18|
 |86|[makevoid/opensea-images-downloader](https://github.com/makevoid/opensea-images-downloader)|Script to download all the images from an opensea collection using the OpenSea API|33|2022-01-26|2021-10-09|
 |87|[opensourcerails-org/site](https://github.com/opensourcerails-org/site)|Cataloged, analyzed, manually-curated open-source Rails projects directory.|33|2021-10-03|2021-08-26|
 |88|[testdouble/minitest-suite](https://github.com/testdouble/minitest-suite)|Re-order your Minitest suite into logical sub-suites/groups|33|2021-11-18|2021-07-31|
@@ -101,31 +101,31 @@
 |94|[knight-lang/knight-lang](https://github.com/knight-lang/knight-lang)|The Knight Programming Language|32|2021-12-27|2021-04-01|
 |95|[ankane/breakout-ruby](https://github.com/ankane/breakout-ruby)|Breakout detection for Ruby|31|2022-01-23|2021-09-03|
 |96|[dry-rb/dry-files](https://github.com/dry-rb/dry-files)|File utilities|31|2022-03-23|2021-04-20|
-|97|[julianfssen/tweetkit](https://github.com/julianfssen/tweetkit)|Twitter v2 API client for Ruby|30|2022-03-22|2021-06-22|
-|98|[piotrmurach/tty-sparkline](https://github.com/piotrmurach/tty-sparkline)|Sparkline charts for terminal applications.|30|2022-02-10|2021-05-06|
-|99|[lanzhiheng/wechat-pay](https://github.com/lanzhiheng/wechat-pay)|A simple Wechat pay ruby gem in api V3|30|2021-12-31|2021-05-06|
-|100|[mirego/killswitch](https://github.com/mirego/killswitch)|🪆 Killswitch is a clever control panel that allows mobile developers to apply runtime version-specific behaviors to their iOS or Android application.|29|2022-03-11|2022-01-27|
-|101|[nimacpp/vector](https://github.com/nimacpp/vector)|Virus Ruby|29|2021-12-27|2021-07-13|
+|97|[piotrmurach/tty-sparkline](https://github.com/piotrmurach/tty-sparkline)|Sparkline charts for terminal applications.|30|2022-02-10|2021-05-06|
+|98|[lanzhiheng/wechat-pay](https://github.com/lanzhiheng/wechat-pay)|A simple Wechat pay ruby gem in api V3|30|2021-12-31|2021-05-06|
+|99|[mirego/killswitch](https://github.com/mirego/killswitch)|🪆 Killswitch is a clever control panel that allows mobile developers to apply runtime version-specific behaviors to their iOS or Android application.|29|2022-03-11|2022-01-27|
+|100|[nimacpp/vector](https://github.com/nimacpp/vector)|Virus Ruby|29|2021-12-27|2021-07-13|
+|101|[julianfssen/tweetkit](https://github.com/julianfssen/tweetkit)|Twitter v2 API client for Ruby|29|2022-03-22|2021-06-22|
 |102|[rlue/xferase](https://github.com/rlue/xferase)|Always-on, fully-automated photo import utility|29|2021-12-11|2021-05-28|
-|103|[JonathanWThom/wordle](https://github.com/JonathanWThom/wordle)|Ruby implementation of Wordle|28|2022-02-26|2022-01-09|
-|104|[cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem)|An automation tool that simplify the deployment of your apps on Kubernetes.|28|2022-02-21|2021-10-26|
-|105|[kddnewton/regular_expression](https://github.com/kddnewton/regular_expression)|A regular expression engine written in Ruby.|28|2022-03-23|2021-06-30|
-|106|[odpf/homebrew-taps](https://github.com/odpf/homebrew-taps)|This repository is home to the original homebrew taps for products throughout the Open DataOps platform ecosystem.|28|2022-03-25|2021-06-01|
-|107|[Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise)|Formula for https://github.com/sbmpost/AutoRaise|28|2022-01-21|2021-04-15|
-|108|[okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks)|Hook control for developers, by a developer|28|2021-12-26|2021-04-09|
-|109|[motine/dsl_factory](https://github.com/motine/dsl_factory)|Define DSLs quickly and avoid the boilerplate write getters and setters. Oh, and it does validation too.|27|2022-03-02|2022-03-01|
+|103|[motine/dsl_factory](https://github.com/motine/dsl_factory)|Define DSLs quickly and avoid the boilerplate write getters and setters. Oh, and it does validation too.|28|2022-03-02|2022-03-01|
+|104|[JonathanWThom/wordle](https://github.com/JonathanWThom/wordle)|Ruby implementation of Wordle|28|2022-02-26|2022-01-09|
+|105|[cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem)|An automation tool that simplify the deployment of your apps on Kubernetes.|28|2022-02-21|2021-10-26|
+|106|[kddnewton/regular_expression](https://github.com/kddnewton/regular_expression)|A regular expression engine written in Ruby.|28|2022-03-23|2021-06-30|
+|107|[odpf/homebrew-taps](https://github.com/odpf/homebrew-taps)|This repository is home to the original homebrew taps for products throughout the Open DataOps platform ecosystem.|28|2022-03-25|2021-06-01|
+|108|[Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise)|Formula for https://github.com/sbmpost/AutoRaise|28|2022-01-21|2021-04-15|
+|109|[okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks)|Hook control for developers, by a developer|28|2021-12-26|2021-04-09|
 |110|[hoppergee/multi-tenant-support](https://github.com/hoppergee/multi-tenant-support)|Build a highly secure, no data leak, multi-tenant rails app|27|2022-02-26|2021-09-24|
 |111|[nepalez/pg_trunk](https://github.com/nepalez/pg_trunk)|Empower PostgreSQL migrations in Rails app|26|2022-01-26|2021-12-06|
 |112|[Block-Logic/solana-rpc-ruby](https://github.com/Block-Logic/solana-rpc-ruby)|A Solana RPC Client for Ruby|26|2022-02-10|2021-05-27|
 |113|[Matt-Yorkley/global-presence](https://github.com/Matt-Yorkley/global-presence)|-|25|2022-02-08|2022-02-01|
 |114|[Rustamxon7/Budget-app](https://github.com/Rustamxon7/Budget-app)|The Budget Planner App|25|2022-01-15|2022-01-11|
-|115|[CMDBrew/adminterface](https://github.com/CMDBrew/adminterface)|A gem that brings Bootstrap 5, advanced customizability, and other goodies into ActiveAdmin|25|2022-01-03|2021-06-10|
-|116|[ppggff/vagrant-qemu](https://github.com/ppggff/vagrant-qemu)|Use Vagrant to manage machines using QEMU. Test with Apple Silicon / M1 and CentOS aarch64 image|24|2022-03-26|2021-12-24|
-|117|[fnando/photomatic](https://github.com/fnando/photomatic)|Your photography is what matters.|24|2022-03-25|2021-12-05|
-|118|[Zaxonomy/mars-base-10](https://github.com/Zaxonomy/mars-base-10)|This is the urbit console you have been waiting for|24|2022-02-02|2021-09-02|
-|119|[igorkasyanchuk/avatarro](https://github.com/igorkasyanchuk/avatarro)|https://www.railsjazz.com/|24|2022-02-03|2021-07-01|
-|120|[ooa113y/umineko-catbox-english](https://github.com/ooa113y/umineko-catbox-english)|English translation patch for the Switch release of Umineko: When They Cry|24|2022-03-24|2021-05-30|
-|121|[bullet-train-co/bullet_train-roles](https://github.com/bullet-train-co/bullet_train-roles)|Bullet Train Roles provides a Yaml-based configuration layer on top of CanCanCan.|23|2022-03-03|2021-12-09|
+|115|[fnando/photomatic](https://github.com/fnando/photomatic)|Your photography is what matters.|25|2022-03-25|2021-12-05|
+|116|[CMDBrew/adminterface](https://github.com/CMDBrew/adminterface)|A gem that brings Bootstrap 5, advanced customizability, and other goodies into ActiveAdmin|25|2022-01-03|2021-06-10|
+|117|[ppggff/vagrant-qemu](https://github.com/ppggff/vagrant-qemu)|Use Vagrant to manage machines using QEMU. Test with Apple Silicon / M1 and CentOS aarch64 image|24|2022-03-26|2021-12-24|
+|118|[bullet-train-co/bullet_train-roles](https://github.com/bullet-train-co/bullet_train-roles)|Bullet Train Roles provides a Yaml-based configuration layer on top of CanCanCan.|24|2022-03-03|2021-12-09|
+|119|[Zaxonomy/mars-base-10](https://github.com/Zaxonomy/mars-base-10)|This is the urbit console you have been waiting for|24|2022-02-02|2021-09-02|
+|120|[igorkasyanchuk/avatarro](https://github.com/igorkasyanchuk/avatarro)|https://www.railsjazz.com/|24|2022-02-03|2021-07-01|
+|121|[ooa113y/umineko-catbox-english](https://github.com/ooa113y/umineko-catbox-english)|English translation patch for the Switch release of Umineko: When They Cry|24|2022-03-24|2021-05-30|
 |122|[eiskrenkov/alfred-run-shortcut](https://github.com/eiskrenkov/alfred-run-shortcut)|Quickly run any shortcut from macOS Monterey Shortcuts app|23|2021-11-07|2021-11-06|
 |123|[ankane/AnomalyDetection.rb](https://github.com/ankane/AnomalyDetection.rb)|Time series anomaly detection for Ruby|23|2022-03-19|2021-10-15|
 |124|[Codeminer42/Punchclock](https://github.com/Codeminer42/Punchclock)|-|23|2022-03-25|2021-08-30|
@@ -148,12 +148,12 @@
 |141|[ko1/rspec-debug](https://github.com/ko1/rspec-debug)|Launch [debugger](https://github.com/ruby/debug) if spec is failed.|21|2021-10-29|2021-10-28|
 |142|[bibendi/downstream](https://github.com/bibendi/downstream)|Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern.|21|2021-12-28|2021-10-28|
 |143|[ElMassimo/jekyll-vite](https://github.com/ElMassimo/jekyll-vite)|⚡️🩸 Use Vite.js in Jekyll as your assets pipeline|21|2022-03-24|2021-06-30|
-|144|[ntkme/sass-embedded-host-ruby](https://github.com/ntkme/sass-embedded-host-ruby)|:gem: A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol|21|2022-03-26|2021-05-24|
+|144|[ntkme/sass-embedded-host-ruby](https://github.com/ntkme/sass-embedded-host-ruby)|:gem: A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol|21|2022-03-27|2021-05-24|
 |145|[airbnb/inclusion](https://github.com/airbnb/inclusion)|Building codebases and systems where all contributors feel like they belong.|21|2021-11-23|2021-05-04|
 |146|[muukii/cocoapods-frost](https://github.com/muukii/cocoapods-frost)|📦 A plugin for CocoaPods that creates XCFramework(for internal distribution) for speeding up build time.|20|2022-02-04|2022-01-28|
 |147|[mocktools/ruby-smtp-mock](https://github.com/mocktools/ruby-smtp-mock)|💎 Ruby SMTP mock. Mimic any 📤 SMTP server behaviour for your test environment with fake SMTP server.|20|2022-03-14|2022-01-02|
 |148|[ankane/active_kms](https://github.com/ankane/active_kms)|Simple, secure key management for Active Record encryption|20|2022-01-11|2021-12-15|
-|149|[shkm/enummer](https://github.com/shkm/enummer)|🏳️‍🌈 Multi enums (aka flags) for Rails|20|2022-03-22|2021-12-07|
+|149|[shkm/enummer](https://github.com/shkm/enummer)|🏳️‍🌈 Multi enums (aka flags) for Rails|20|2022-03-27|2021-12-07|
 |150|[flavorjones/bundler-as_of](https://github.com/flavorjones/bundler-as_of)|Resolve rubygem dependencies as-of a date in the past.|20|2021-12-24|2021-11-28|
 |151|[ghost-nemesis/cve-2021-20837-poc](https://github.com/ghost-nemesis/cve-2021-20837-poc)|PoC for the CVE-2021-20837 : RCE in MovableType|20|2021-10-26|2021-10-25|
 |152|[pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter)|TiDB adapter for ActiveRecord, allows the use of TiDB as a backend for ActiveRecord and Rails apps.|20|2022-03-24|2021-08-04|
@@ -164,22 +164,22 @@
 |157|[JunichiIto/everydayrails-rspec-jp-2022](https://github.com/JunichiIto/everydayrails-rspec-jp-2022)|Sample source for the 2022 Japanese edition of Everyday Rails Testing with RSpec.|19|2022-03-05|2022-01-01|
 |158|[Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)|A cactus themed Flappy Bird implementation with Ruby's Gosu gem.|19|2022-03-21|2021-10-02|
 |159|[github/codespaces-precache](https://github.com/github/codespaces-precache)|Experimental feature. A limited number of organizations/repositories will be admitted into a closed private beta.|19|2022-01-17|2021-07-20|
-|160|[manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks)|Add [[wikilinks]] support for jekyll.|19|2022-02-04|2021-05-07|
-|161|[mauricelambert/CVE-2022-21907](https://github.com/mauricelambert/CVE-2022-21907)|CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube.|18|2022-03-07|2022-01-15|
-|162|[bhserna/styler](https://github.com/bhserna/styler)|-|18|2021-12-13|2021-11-22|
-|163|[AxeelAnder/no-follower](https://github.com/AxeelAnder/no-follower)|automatically block then unblock everyone followed you|18|2021-09-27|2021-09-20|
-|164|[Eric-Guo/tailwindcss-jit-stimulus](https://github.com/Eric-Guo/tailwindcss-jit-stimulus)|A template with Rails 7.0, Webpacker 6.0, TailwindCSS 3 and Stimulus 3.0|18|2022-03-25|2021-08-23|
-|165|[IBM/super](https://github.com/IBM/super)|CLI for the Serverless Supercomputer|18|2021-11-09|2021-06-21|
-|166|[ChaelCodes/ConfBuddies](https://github.com/ChaelCodes/ConfBuddies)|An app to help you find and meet up with your buddies at conferences.|18|2022-03-13|2021-05-30|
+|160|[ChaelCodes/ConfBuddies](https://github.com/ChaelCodes/ConfBuddies)|An app to help you find and meet up with your buddies at conferences.|19|2022-03-13|2021-05-30|
+|161|[manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks)|Add [[wikilinks]] support for jekyll.|19|2022-02-04|2021-05-07|
+|162|[mauricelambert/CVE-2022-21907](https://github.com/mauricelambert/CVE-2022-21907)|CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube.|18|2022-03-07|2022-01-15|
+|163|[bhserna/styler](https://github.com/bhserna/styler)|-|18|2021-12-13|2021-11-22|
+|164|[AxeelAnder/no-follower](https://github.com/AxeelAnder/no-follower)|automatically block then unblock everyone followed you|18|2021-09-27|2021-09-20|
+|165|[Eric-Guo/tailwindcss-jit-stimulus](https://github.com/Eric-Guo/tailwindcss-jit-stimulus)|A template with Rails 7.0, Webpacker 6.0, TailwindCSS 3 and Stimulus 3.0|18|2022-03-27|2021-08-23|
+|166|[IBM/super](https://github.com/IBM/super)|CLI for the Serverless Supercomputer|18|2021-11-09|2021-06-21|
 |167|[howlrapp/howlr-server](https://github.com/howlrapp/howlr-server)|Server side of Howlr|17|2022-03-06|2022-02-22|
-|168|[fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch)|OpenSearch Plugin for Fluentd |17|2022-03-25|2022-01-06|
-|169|[garrettdimon/minitest-heat](https://github.com/garrettdimon/minitest-heat)|A custom reporter for Minitest to help you more effectively fix code when tests fail.|17|2021-12-10|2021-08-22|
-|170|[arewebioyet/arewebioyet.github.io](https://github.com/arewebioyet/arewebioyet.github.io)|Rust in bioinformatics and computational biology|17|2021-10-11|2021-06-10|
-|171|[kachick/ruby-ulid](https://github.com/kachick/ruby-ulid)|generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`|17|2022-03-09|2021-04-24|
-|172|[YusukeIwaki/capybara-playwright-driver](https://github.com/YusukeIwaki/capybara-playwright-driver)|Playwright driver for Capybara|17|2022-03-26|2021-04-22|
-|173|[helphubteam/helphub](https://github.com/helphubteam/helphub)|Helphub system allows organizing charity fund infrastructure|17|2022-03-19|2021-04-09|
-|174|[breakpointHQ/VOODOO](https://github.com/breakpointHQ/VOODOO)|Man in the Browser Framework|16|2022-03-16|2022-03-07|
-|175|[leandronsp/yatax](https://github.com/leandronsp/yatax)|Yet another TODO application eXtreme edition|16|2022-01-17|2022-01-08|
+|168|[leandronsp/yatax](https://github.com/leandronsp/yatax)|Yet another TODO application eXtreme edition|17|2022-01-17|2022-01-08|
+|169|[fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch)|OpenSearch Plugin for Fluentd |17|2022-03-25|2022-01-06|
+|170|[garrettdimon/minitest-heat](https://github.com/garrettdimon/minitest-heat)|A custom reporter for Minitest to help you more effectively fix code when tests fail.|17|2021-12-10|2021-08-22|
+|171|[arewebioyet/arewebioyet.github.io](https://github.com/arewebioyet/arewebioyet.github.io)|Rust in bioinformatics and computational biology|17|2021-10-11|2021-06-10|
+|172|[kachick/ruby-ulid](https://github.com/kachick/ruby-ulid)|generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`|17|2022-03-09|2021-04-24|
+|173|[YusukeIwaki/capybara-playwright-driver](https://github.com/YusukeIwaki/capybara-playwright-driver)|Playwright driver for Capybara|17|2022-03-27|2021-04-22|
+|174|[helphubteam/helphub](https://github.com/helphubteam/helphub)|Helphub system allows organizing charity fund infrastructure|17|2022-03-19|2021-04-09|
+|175|[breakpointHQ/VOODOO](https://github.com/breakpointHQ/VOODOO)|Man in the Browser Framework|16|2022-03-16|2022-03-07|
 |176|[meg-gutshall/octokit_scripts](https://github.com/meg-gutshall/octokit_scripts)|Some helpful Ruby scripts using Octokit to automate tasks in GitHub|16|2022-01-20|2022-01-03|
 |177|[DevCycleHQ/ruby-server-sdk](https://github.com/DevCycleHQ/ruby-server-sdk)|-|16|2022-03-15|2021-11-18|
 |178|[radar/mtg](https://github.com/radar/mtg)|Magic: The Gathering, but in Ruby|16|2022-03-03|2021-09-27|
@@ -201,7 +201,7 @@
 |194|[aktsk/simple_json](https://github.com/aktsk/simple_json)|A simple & fast view solution for Rails JSON rendering.|15|2021-11-09|2021-08-19|
 |195|[blocknotes/prawn-html](https://github.com/blocknotes/prawn-html)|HTML to PDF renderer using Prawn PDF|15|2022-03-18|2021-08-09|
 |196|[Simulation-Software-Engineering/homepage](https://github.com/Simulation-Software-Engineering/homepage)|Homepage of SSE lecture at University of Stuttgart|15|2022-02-07|2021-07-11|
-|197|[learn-co-curriculum/project-template-react-rails-api](https://github.com/learn-co-curriculum/project-template-react-rails-api)|-|15|2022-03-08|2021-06-09|
+|197|[learn-co-curriculum/project-template-react-rails-api](https://github.com/learn-co-curriculum/project-template-react-rails-api)|-|15|2022-03-27|2021-06-09|
 |198|[learn-co-curriculum/postwork-data-structures-and-algorithms](https://github.com/learn-co-curriculum/postwork-data-structures-and-algorithms)|-|15|2022-03-18|2021-06-09|
 |199|[babbel/grumlin](https://github.com/babbel/grumlin)|Gremlin graph traversal language DSL and client for Ruby.|15|2022-03-22|2021-05-27|
 |200|[applandinc/appmap_swagger-ruby](https://github.com/applandinc/appmap_swagger-ruby)|Provides Ruby integration with appmap-swagger|15|2022-02-16|2021-04-01|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -36,7 +36,7 @@
 |29|[cescoffier/vertx-examples-it](https://github.com/cescoffier/vertx-examples-it)|Automatic execution of vertx-examples|5|0|2021-12-09|
 |30|[codetojoy/easter_eggs_for_gradle](https://github.com/codetojoy/easter_eggs_for_gradle)|Basic examples for Gradle. Usage of 'egg' here is SSCCE: http://sscce.org Edit Add topics|5|0|2021-11-28|
 |31|[elastic/apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)|Jenkins pipeline shared library for the APM project|37|0|2022-03-25|
-|32|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|8|0|2022-03-23|
+|32|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|8|0|2022-03-27|
 |33|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|116|0|2022-01-01|
 |34|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|11|0|2022-03-16|
 |35|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|8|0|2022-03-10|
@@ -67,7 +67,7 @@
 |60|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|60|0|2022-01-29|
 |61|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|0|2022-01-13|
 |62|[instil/jenkins-pipeline-steps](https://github.com/instil/jenkins-pipeline-steps)|A collection of build steps for use with Jenkins pipelines|8|0|2022-03-14|
-|63|[PacktPublishing/Jenkins-Administrators-Guide](https://github.com/PacktPublishing/Jenkins-Administrators-Guide)|Jenkins Administrator's Guide, published by Packt|8|0|2021-11-12|
+|63|[PacktPublishing/Jenkins-Administrators-Guide](https://github.com/PacktPublishing/Jenkins-Administrators-Guide)|Jenkins Administrator's Guide, published by Packt|9|0|2021-11-12|
 |64|[anilpacaci/streaming-graph-partitioning](https://github.com/anilpacaci/streaming-graph-partitioning)|Experimental Setup for Performance Analysis of Streaming Algorithms|19|0|2021-12-10|
 |65|[bogovicj/registrationWorkflows_i2k_2020](https://github.com/bogovicj/registrationWorkflows_i2k_2020)|Automatic and manual workflows course I2K 2020|6|0|2021-10-28|
 |66|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|22|0|2021-11-26|
@@ -76,7 +76,7 @@
 |69|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2022-03-14|
 |70|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|10|0|2021-12-13|
 |71|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|13|0|2022-02-22|
-|72|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|190|0|2022-03-08|
+|72|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|190|0|2022-03-27|
 |73|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|0|2022-01-24|
 |74|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|7|0|2022-03-21|
 |75|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|0|2022-01-22|

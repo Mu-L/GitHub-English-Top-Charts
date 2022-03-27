@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Jupyter Notebook
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|7342|2022-03-22|2021-05-29|
-|2|[DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)|Free Data Engineering course! |3312|2022-03-23|2021-10-21|
-|3|[Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)|A comprehensive repository containing 30+ notebooks on learning machine learning!|2206|2022-03-21|2021-09-25|
+|1|[AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q ...|7347|2022-03-22|2021-05-29|
+|2|[DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)|Free Data Engineering course! |3332|2022-03-23|2021-10-21|
+|3|[Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)|A comprehensive repository containing 30+ notebooks on learning machine learning!|2207|2022-03-21|2021-09-25|
 |4|[bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array)|3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns|2199|2022-01-03|2021-11-11|
-|5|[nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks)|Jupyter notebooks for the Natural Language Processing with Transformers book|1256|2022-03-24|2021-10-28|
+|5|[nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks)|Jupyter notebooks for the Natural Language Processing with Transformers book|1261|2022-03-24|2021-10-28|
 |6|[irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles)|a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.|504|2022-02-01|2022-01-06|
 |7|[NeuromatchAcademy/course-content-dl](https://github.com/NeuromatchAcademy/course-content-dl)|NMA deep learning course|468|2022-01-27|2021-04-12|
 |8|[Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast)|Scalable and user friendly neural :brain: forecasting algorithms for time series data :wavy_dash:.|426|2022-03-23|2021-04-26|
-|9|[khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)|Efficient Python Tricks and Tools for Data Scientists|421|2022-03-25|2021-06-20|
+|9|[khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)|Efficient Python Tricks and Tools for Data Scientists|423|2022-03-25|2021-06-20|
 |10|[sscardapane/reprodl2021](https://github.com/sscardapane/reprodl2021)|Host repository for the "Reproducible Deep Learning" PhD course|348|2022-02-28|2021-04-21|
-|11|[vopani/jaxton](https://github.com/vopani/jaxton)|100 exercises to learn JAX|341|2022-03-24|2022-01-05|
-|12|[richmanbtc/mlbot_tutorial](https://github.com/richmanbtc/mlbot_tutorial)|A tutorial for algorithmic trading bot using machine learning.|289|2022-02-17|2021-07-19|
-|13|[williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN)|[CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer|288|2022-03-25|2022-03-13|
-|14|[clam004/intro_continual_learning](https://github.com/clam004/intro_continual_learning)|This is a tutorial to connect the fundamental mathematics to a practical implementation addressing the continual learning problem of artificial intelligence|288|2022-03-04|2022-02-24|
-|15|[lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel)|Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.|255|2022-03-14|2021-04-01|
-|16|[derekbanas/Python4Finance](https://github.com/derekbanas/Python4Finance)|I get many questions about how to analyze the Stock Market with Python. I am creating a new playlist of videos that will completely cover Python for Finance. |251|2022-03-23|2021-08-19|
+|11|[vopani/jaxton](https://github.com/vopani/jaxton)|100 exercises to learn JAX|346|2022-03-24|2022-01-05|
+|12|[williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN)|[CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer|334|2022-03-25|2022-03-13|
+|13|[clam004/intro_continual_learning](https://github.com/clam004/intro_continual_learning)|This is a tutorial to connect the fundamental mathematics to a practical implementation addressing the continual learning problem of artificial intelligence|296|2022-03-04|2022-02-24|
+|14|[richmanbtc/mlbot_tutorial](https://github.com/richmanbtc/mlbot_tutorial)|A tutorial for algorithmic trading bot using machine learning.|289|2022-02-17|2021-07-19|
+|15|[lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel)|Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.|256|2022-03-14|2021-04-01|
+|16|[derekbanas/Python4Finance](https://github.com/derekbanas/Python4Finance)|I get many questions about how to analyze the Stock Market with Python. I am creating a new playlist of videos that will completely cover Python for Finance. |252|2022-03-23|2021-08-19|
 |17|[vopani/datatableton](https://github.com/vopani/datatableton)|100 exercises to learn Python Datatable|233|2022-01-01|2021-07-04|
 |18|[gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX)|The purpose of this repo is to make it easy to get started with JAX, Flax, and Haiku. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as t ...|229|2022-01-22|2021-10-28|
-|19|[GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)|Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud|221|2022-03-26|2021-05-27|
+|19|[GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)|Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud|222|2022-03-27|2021-05-27|
 |20|[milaan9/01_Python_Introduction](https://github.com/milaan9/01_Python_Introduction)|Learn the basics of Python. These tutorials are for Python beginners. so even if you have no prior knowledge of Python, you won’t face any difficulty understanding these tutorials.|204|2021-11-26|2021-06-09|
 |21|[aws/studio-lab-examples](https://github.com/aws/studio-lab-examples)|Example notebooks for working with SageMaker Studio Lab. Sign up for an account at the link below!|197|2022-03-09|2021-11-23|
 |22|[milaan9/06_Python_Object_Class](https://github.com/milaan9/06_Python_Object_Class)|Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. In this tutorial, you’ll learn the basics of object-oriente ...|192|2021-11-13|2021-06-19|
@@ -41,12 +41,12 @@
 |34|[yandex-research/shifts](https://github.com/yandex-research/shifts)|This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.|158|2021-12-07|2021-04-21|
 |35|[v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN)|Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)|156|2022-02-03|2021-10-17|
 |36|[ayush714/ML001-Project-Sources-Code-and-Learning-Materials](https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials)|ML001 Sources Code and Learning Materials|155|2021-10-21|2021-08-15|
-|37|[justin-bennington/S2ML-Generators](https://github.com/justin-bennington/S2ML-Generators)|Multiple notebooks which allow the use of various machine learning methods to generate or modify multimedia content|151|2021-12-30|2021-08-18|
+|37|[justin-bennington/S2ML-Generators](https://github.com/justin-bennington/S2ML-Generators)|Multiple notebooks which allow the use of various machine learning methods to generate or modify multimedia content|152|2021-12-30|2021-08-18|
 |38|[ageron/handson-ml3](https://github.com/ageron/handson-ml3)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.|145|2022-03-22|2022-02-19|
 |39|[milaan9/90_Python_Examples](https://github.com/milaan9/90_Python_Examples)|The best way to learn Python is by practicing examples. The repository contains examples of basic concepts of Python. You are advised to take the references from these examples and try them on your ow ...|144|2022-01-15|2021-07-02|
 |40|[rasbt/machine-learning-notes](https://github.com/rasbt/machine-learning-notes)|Collection of useful machine learning codes and snippets (originally intended for my personal use)|143|2022-02-13|2022-02-13|
 |41|[Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)|Data stream analytics: Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled "PWPAE: An Ensemble Framework for Concept Drift A ...|138|2022-03-24|2021-08-16|
-|42|[vanshika230/Machine-Learning](https://github.com/vanshika230/Machine-Learning)|This repository contains implementations of all Machine Learning Algorithms from scratch in Python. Mathematics required for ML and many projects have also been included.|134|2021-12-26|2021-07-28|
+|42|[vanshika230/Machine-Learning](https://github.com/vanshika230/Machine-Learning)|This repository contains implementations of all Machine Learning Algorithms from scratch in Python. Mathematics required for ML and many projects have also been included.|135|2021-12-26|2021-07-28|
 |43|[ouhenio/StyleGAN3-CLIP-notebooks](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)|A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.|130|2022-03-23|2021-10-13|
 |44|[milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions)|My Solutions to 120 commonly asked data science interview questions.|129|2021-11-16|2021-09-21|
 |45|[Fraud-Detection-Handbook/fraud-detection-handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)|Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook|128|2022-03-11|2021-05-03|
@@ -62,7 +62,7 @@
 |55|[LiuHaiChuan0/2021-Deep-learning](https://github.com/LiuHaiChuan0/2021-Deep-learning)|This tutorial aims to learn the basics of deep learning by hands, and master the basics through combination of lectures and exercises|108|2021-12-26|2021-09-05|
 |56|[stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop)|A workshop on data visualization in Python with notebooks and exercises for following along.|107|2022-03-22|2021-11-03|
 |57|[milaan9/Deep_Learning_Algorithms_from_Scratch](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch)|This repository explores the variety of techniques and algorithms commonly used in deep learning and the implementation in MATLAB and PYTHON|106|2022-01-15|2021-11-03|
-|58|[bopen/sarsen](https://github.com/bopen/sarsen)|Algorithms and utilities for Synthetic Aperture Radar (SAR) sensors|102|2022-03-24|2021-12-12|
+|58|[bopen/sarsen](https://github.com/bopen/sarsen)|Algorithms and utilities for Synthetic Aperture Radar (SAR) sensors|104|2022-03-24|2021-12-12|
 |59|[dotnet/csharp-notebooks](https://github.com/dotnet/csharp-notebooks)|Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.|102|2022-03-20|2021-07-27|
 |60|[bkamins/JuliaCon2021-DataFrames-Tutorial](https://github.com/bkamins/JuliaCon2021-DataFrames-Tutorial)|A tutorial on DataFrames.jl prepared for JuliaCon2021|102|2021-12-08|2021-06-06|
 |61|[lmy931/aws-forecast-sample-with-weather-index](https://github.com/lmy931/aws-forecast-sample-with-weather-index)|This repo provides a sample how to use AWS Forecast with weather and holiday index using Python SDK and API calls|101|2021-11-22|2021-11-22|
@@ -75,17 +75,17 @@
 |68|[SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops)|Exercises and supplementary material for the machine learning operations course at DTU.|90|2022-01-21|2021-04-07|
 |69|[Vaibhavs10/ml-with-audio](https://github.com/Vaibhavs10/ml-with-audio)|HF's ML for Audio study group|89|2022-01-18|2021-12-10|
 |70|[Deena-Gergis/e2e_ds_project](https://github.com/Deena-Gergis/e2e_ds_project)|Tutorial repo for an end-to-end Data Science project|89|2021-12-23|2021-09-12|
-|71|[mryab/efficient-dl-systems](https://github.com/mryab/efficient-dl-systems)|Efficient Deep Learning Systems course (HSE, YSDA)|80|2022-03-24|2021-12-06|
+|71|[mryab/efficient-dl-systems](https://github.com/mryab/efficient-dl-systems)|Efficient Deep Learning Systems course (HSE, YSDA)|80|2022-03-27|2021-12-06|
 |72|[music-classification/tutorial](https://github.com/music-classification/tutorial)|2021 ISMIR tutorial - music classification|79|2021-12-01|2021-09-21|
-|73|[tunib-ai/large-scale-lm-tutorials](https://github.com/tunib-ai/large-scale-lm-tutorials)|Large-scale language modeling tutorials with PyTorch|76|2021-11-02|2021-10-28|
-|74|[mattharrison/effective_pandas_book](https://github.com/mattharrison/effective_pandas_book)|Errata and code for Effective Pandas book|74|2022-02-24|2021-11-29|
+|73|[tunib-ai/large-scale-lm-tutorials](https://github.com/tunib-ai/large-scale-lm-tutorials)|Large-scale language modeling tutorials with PyTorch|77|2021-11-02|2021-10-28|
+|74|[mattharrison/effective_pandas_book](https://github.com/mattharrison/effective_pandas_book)|Errata and code for Effective Pandas book|76|2022-02-24|2021-11-29|
 |75|[harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks)|Framework for evaluating ANNS algorithms on billion scale datasets.|74|2022-02-25|2021-06-18|
 |76|[FernandaOchoa/Intropython](https://github.com/FernandaOchoa/Intropython)|Notebook de la sesión de introducción a python.|71|2022-02-10|2022-02-10|
 |77|[JitengMu/A-SDF](https://github.com/JitengMu/A-SDF)|A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (ICCV 2021)|69|2021-12-05|2021-10-10|
 |78|[DTennant/CL-Visualizing-Feature-Transformation](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)|Improving Contrastive Learning by Visualizing Feature Transformation, ICCV 2021 Oral|69|2021-10-11|2021-07-30|
 |79|[sadnow/360Diffusion](https://github.com/sadnow/360Diffusion)|A Real-ESRGAN equipped Colab notebook for CLIP Guided Diffusion|68|2022-03-02|2021-09-21|
-|80|[LearnPythonWithRune/MachineLearningWithPython](https://github.com/LearnPythonWithRune/MachineLearningWithPython)|Get started with Machine Learning with Python - An introduction with Python programming examples|65|2022-02-11|2021-07-31|
-|81|[sayakpaul/ConvNeXt-TF](https://github.com/sayakpaul/ConvNeXt-TF)|Includes PyTorch -> Keras model porting code for ConvNeXt family of models with fine-tuning and inference notebooks. |64|2022-02-09|2022-01-13|
+|80|[LearnPythonWithRune/MachineLearningWithPython](https://github.com/LearnPythonWithRune/MachineLearningWithPython)|Get started with Machine Learning with Python - An introduction with Python programming examples|67|2022-02-11|2021-07-31|
+|81|[sayakpaul/ConvNeXt-TF](https://github.com/sayakpaul/ConvNeXt-TF)|Includes PyTorch -> Keras model porting code for ConvNeXt family of models with fine-tuning and inference notebooks. |65|2022-03-27|2022-01-13|
 |82|[mrdbourke/nutrify](https://github.com/mrdbourke/nutrify)|Take a photo of food and learn about it.|64|2022-03-23|2021-09-10|
 |83|[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)|OneShot Learning-based hotword detection.|62|2022-02-19|2021-09-23|
 |84|[LaoGong-zp/Transformer](https://github.com/LaoGong-zp/Transformer)| Learning materials of Transformer, including my code, XMind, PDF and so on|61|2021-09-28|2021-09-24|
@@ -123,7 +123,7 @@
 |116|[hwiberg/OptiCL](https://github.com/hwiberg/OptiCL)|An end-to-end framework for mixed-integer optimization with data-driven learned constraints.|37|2022-03-10|2021-10-26|
 |117|[sayakpaul/Learnable-Image-Resizing](https://github.com/sayakpaul/Learnable-Image-Resizing)|TF 2 implementation Learning to Resize Images for Computer Vision Tasks (https://arxiv.org/abs/2103.09950v1).|37|2021-10-12|2021-04-30|
 |118|[AliAbdelaal/nlp-101-iti-course](https://github.com/AliAbdelaal/nlp-101-iti-course)|NLP course for ITI AI-Pro track|36|2021-11-14|2021-11-06|
-|119|[parulnith/Data-Science-Articles](https://github.com/parulnith/Data-Science-Articles)|A collection of my blogs on Data Science and Machine learning.|35|2022-03-21|2021-05-07|
+|119|[parulnith/Data-Science-Articles](https://github.com/parulnith/Data-Science-Articles)|A collection of my blogs on Data Science and Machine learning.|36|2022-03-21|2021-05-07|
 |120|[raghurama123/NumQM_Basic](https://github.com/raghurama123/NumQM_Basic)|A mini-course offered to Undergrad physics students|34|2022-01-02|2021-12-26|
 |121|[dellaert/robotics2](https://github.com/dellaert/robotics2)|Robotics book|34|2022-01-06|2021-10-04|
 |122|[rocketmlhq/sciml](https://github.com/rocketmlhq/sciml)|Scientific Machine Learning Tutorials|34|2021-11-20|2021-09-28|
@@ -139,40 +139,40 @@
 |132|[HzcIrving/DLRL-PlayGround](https://github.com/HzcIrving/DLRL-PlayGround)|The code repo contains multiple code reproduction processes of various SOTA deep learning algorithms|32|2022-03-22|2022-01-27|
 |133|[ekapolc/pattern_2022](https://github.com/ekapolc/pattern_2022)|Pattern recognition course 2022 @ Chulalongkorn University|32|2022-03-24|2022-01-12|
 |134|[ThomasAlbin/Astroniz-YT-Tutorials](https://github.com/ThomasAlbin/Astroniz-YT-Tutorials)|Repository of my Space Science with Python YT tutorial series|32|2022-03-26|2021-09-24|
-|135|[woz-u/DS-Student-Resources](https://github.com/woz-u/DS-Student-Resources)|Data Science Student Companion Notebooks and Data Lake|32|2022-03-25|2021-08-29|
+|135|[woz-u/DS-Student-Resources](https://github.com/woz-u/DS-Student-Resources)|Data Science Student Companion Notebooks and Data Lake|32|2022-03-27|2021-08-29|
 |136|[NobuoTsukamoto/tensorrt-examples](https://github.com/NobuoTsukamoto/tensorrt-examples)|TensorRT Examples (TensorRT, Jetson Nano, Python, C++)|32|2022-03-16|2021-06-28|
 |137|[HardwareHackingHandbook/notebooks](https://github.com/HardwareHackingHandbook/notebooks)|Companion notebooks to the Hardware Hacking Handbook|31|2021-10-17|2021-10-02|
 |138|[Git-Commit-Show/100-Days-of-Code](https://github.com/Git-Commit-Show/100-Days-of-Code)|100 Days of Code Learning program to keep a habit of coding daily and learn things at your own pace with help from our remote community.|30|2022-03-24|2022-01-10|
-|139|[nindate/ml-zoomcamp-exercises](https://github.com/nindate/ml-zoomcamp-exercises)|Exercises performed as part of the ML Zoomcamp course|30|2022-02-01|2021-09-11|
-|140|[MacroAnalyst/Basic_Econometrics_With_Python](https://github.com/MacroAnalyst/Basic_Econometrics_With_Python)|Introductory tutorials of econometrics featuring Python programming. This is a crash course for reviewing the most important concepts and techniques of basic econometrics, the theories are presented l ...|30|2022-03-23|2021-07-16|
-|141|[adipolak/ml-with-apache-spark](https://github.com/adipolak/ml-with-apache-spark)|A series of Jupyter notebooks that walk you through Machine Learning with Apache Spark ecosystem using Spark MLlib, PyTorch and TensorFlow.|30|2022-03-11|2021-06-30|
-|142|[hamedonline/ml-workflow](https://github.com/hamedonline/ml-workflow)|A hands-on case study for demonstrating the stages involved in a machine learning project, from EDA to production.|29|2021-12-15|2021-10-27|
-|143|[SBU-CE/Computational-Intelligence](https://github.com/SBU-CE/Computational-Intelligence)|CI Course - Prof. Hamed Malek|29|2022-01-19|2021-10-09|
-|144|[ecmwf-projects/copernicus-training](https://github.com/ecmwf-projects/copernicus-training)|This repository hosts Jupyter notebook data tutorials for the Copernicus Climate Change (C3S) and Atmosphere Monitoring (CAMS) Services.|29|2022-03-10|2021-07-09|
-|145|[davisidarta/topometry](https://github.com/davisidarta/topometry)|High-resolution manifold learning with modular topological operators|29|2022-01-11|2021-04-08|
-|146|[LearnPythonWithRune/DataScienceWithPython](https://github.com/LearnPythonWithRune/DataScienceWithPython)|Learn Data Science with focus on adding value with the most efficient tech stack.|28|2022-01-10|2021-12-26|
-|147|[OUCyf/MCMTpy](https://github.com/OUCyf/MCMTpy)| MCMTpy is a Python package designed for seismic source study. It provides functionality for focal mechanism  inversion and source parameters analysis.|28|2021-10-12|2021-10-12|
-|148|[Imperial-MATH50003/MATH50003NumericalAnalysis](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis)|Notes and course material for MATH50003 Numerical Analysis|28|2022-03-25|2021-07-30|
-|149|[yongghongg/stock-screener](https://github.com/yongghongg/stock-screener)|A collection of notebooks I used in my Medium articles.|28|2021-12-28|2021-06-24|
+|139|[LearnPythonWithRune/DataScienceWithPython](https://github.com/LearnPythonWithRune/DataScienceWithPython)|Learn Data Science with focus on adding value with the most efficient tech stack.|30|2022-01-10|2021-12-26|
+|140|[nindate/ml-zoomcamp-exercises](https://github.com/nindate/ml-zoomcamp-exercises)|Exercises performed as part of the ML Zoomcamp course|30|2022-02-01|2021-09-11|
+|141|[MacroAnalyst/Basic_Econometrics_With_Python](https://github.com/MacroAnalyst/Basic_Econometrics_With_Python)|Introductory tutorials of econometrics featuring Python programming. This is a crash course for reviewing the most important concepts and techniques of basic econometrics, the theories are presented l ...|30|2022-03-23|2021-07-16|
+|142|[adipolak/ml-with-apache-spark](https://github.com/adipolak/ml-with-apache-spark)|A series of Jupyter notebooks that walk you through Machine Learning with Apache Spark ecosystem using Spark MLlib, PyTorch and TensorFlow.|30|2022-03-11|2021-06-30|
+|143|[hamedonline/ml-workflow](https://github.com/hamedonline/ml-workflow)|A hands-on case study for demonstrating the stages involved in a machine learning project, from EDA to production.|29|2022-03-27|2021-10-27|
+|144|[SBU-CE/Computational-Intelligence](https://github.com/SBU-CE/Computational-Intelligence)|CI Course - Prof. Hamed Malek|29|2022-01-19|2021-10-09|
+|145|[ecmwf-projects/copernicus-training](https://github.com/ecmwf-projects/copernicus-training)|This repository hosts Jupyter notebook data tutorials for the Copernicus Climate Change (C3S) and Atmosphere Monitoring (CAMS) Services.|29|2022-03-10|2021-07-09|
+|146|[yongghongg/stock-screener](https://github.com/yongghongg/stock-screener)|A collection of notebooks I used in my Medium articles.|29|2021-12-28|2021-06-24|
+|147|[davisidarta/topometry](https://github.com/davisidarta/topometry)|High-resolution manifold learning with modular topological operators|29|2022-01-11|2021-04-08|
+|148|[OUCyf/MCMTpy](https://github.com/OUCyf/MCMTpy)| MCMTpy is a Python package designed for seismic source study. It provides functionality for focal mechanism  inversion and source parameters analysis.|28|2021-10-12|2021-10-12|
+|149|[Imperial-MATH50003/MATH50003NumericalAnalysis](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis)|Notes and course material for MATH50003 Numerical Analysis|28|2022-03-25|2021-07-30|
 |150|[etzinis/fedenhance](https://github.com/etzinis/fedenhance)|Code for the paper: Separate but togerher: Unsupervised Federated Learning for Speech Enhancement from non-iid data|28|2021-11-01|2021-05-10|
-|151|[PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.)|Time Series Analysis with Python Cookbook, published by Packt|28|2022-03-25|2021-04-06|
+|151|[PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook.)|Time Series Analysis with Python Cookbook, published by Packt|28|2022-03-27|2021-04-06|
 |152|[mikexcohen/LinAlgCourse](https://github.com/mikexcohen/LinAlgCourse)|Python and MATLAB code for online linear algebra course|27|2022-02-15|2021-08-12|
-|153|[tanishq252/AI-ML-DS-Learning-Series](https://github.com/tanishq252/AI-ML-DS-Learning-Series)|Collection of all Machine Learning and Deep Learning algorithms which would be helpful for beginners|26|2022-03-02|2021-12-03|
-|154|[srinidh-007/Coding_Problems](https://github.com/srinidh-007/Coding_Problems)|For Beginners, students and developers this is a great opportunity to learn and contribute to open source.|26|2021-10-19|2021-10-01|
-|155|[dssg/MLinPractice](https://github.com/dssg/MLinPractice)|Repository for ML in Practice Course at CMU (10-718)|26|2021-12-02|2021-07-13|
-|156|[vanshhhhh/Hands-On-Machine-Learning](https://github.com/vanshhhhh/Hands-On-Machine-Learning)|This repository contains the implementation of all the machine learning algorithms like regression, classification, clustering etc. All of this has been implemented in python|26|2021-10-01|2021-06-25|
+|153|[vanshhhhh/Hands-On-Machine-Learning](https://github.com/vanshhhhh/Hands-On-Machine-Learning)|This repository contains the implementation of all the machine learning algorithms like regression, classification, clustering etc. All of this has been implemented in python|27|2021-10-01|2021-06-25|
+|154|[tanishq252/AI-ML-DS-Learning-Series](https://github.com/tanishq252/AI-ML-DS-Learning-Series)|Collection of all Machine Learning and Deep Learning algorithms which would be helpful for beginners|26|2022-03-02|2021-12-03|
+|155|[srinidh-007/Coding_Problems](https://github.com/srinidh-007/Coding_Problems)|For Beginners, students and developers this is a great opportunity to learn and contribute to open source.|26|2021-10-19|2021-10-01|
+|156|[dssg/MLinPractice](https://github.com/dssg/MLinPractice)|Repository for ML in Practice Course at CMU (10-718)|26|2021-12-02|2021-07-13|
 |157|[jmshea/jupyterquiz](https://github.com/jmshea/jupyterquiz)|An interactive Quiz generator for Jupyter notebooks and Jupyter Book |26|2022-03-25|2021-06-15|
 |158|[kasna-cloud/dataflow-fsi-example](https://github.com/kasna-cloud/dataflow-fsi-example)|Using Google Cloud, this project is an example of how to detect anomalies in financial, technical indicators by modeling their expected distribution and thus inform when the Relative Strength Indicato ...|26|2022-02-02|2021-05-27|
 |159|[ornl-training/julia-basics](https://github.com/ornl-training/julia-basics)|Tutorial material for Julia basic training|26|2021-10-21|2021-04-05|
 |160|[rabitt/ismir-2021-tutorial-case-studies](https://github.com/rabitt/ismir-2021-tutorial-case-studies)|Code for the ISMIR 2021 tutorial "Programming MIR Baselines from Scratch: Three Cases Studies"|25|2021-11-21|2021-10-22|
-|161|[jakob-beetz/ifcopenshell-notebooks](https://github.com/jakob-beetz/ifcopenshell-notebooks)|Interactive Jupyter Notebooks to teach working with IFC files using ifcopenshell|25|2022-02-14|2021-07-06|
-|162|[wncc/TSS-2021](https://github.com/wncc/TSS-2021)|Repository to document courses conducted under TSS 2021|25|2021-09-27|2021-06-25|
-|163|[MacroAnalyst/Basic_Statistics_With_Python](https://github.com/MacroAnalyst/Basic_Statistics_With_Python)|Introduction to statistics featuring Python. This series of lecture notes aim to walk you through all basic concepts of statistics, such as descriptive statistics, parameter estimations, hypothesis te ...|25|2022-03-11|2021-06-14|
-|164|[Hamtech-ai/wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)|fine-tune Wav2vec2. an ASR model released by Facebook|24|2021-12-11|2021-12-05|
-|165|[omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)|ShinRL: A Library for Evaluating RL Algorithms from Theoretical and Practical Perspectives (Deep RL Workshop 2021)|24|2022-02-15|2021-11-30|
-|166|[pylabel-project/samples](https://github.com/pylabel-project/samples)|Notebooks and more to help you get started. Including the PyLabeler Jupyter based labeling tool.|24|2022-02-20|2021-10-20|
-|167|[haoduohaoduo/JupyterNotebooks](https://github.com/haoduohaoduo/JupyterNotebooks)|Jupyter Notebooks |24|2021-10-17|2021-10-11|
-|168|[PacktPublishing/TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook)|TinyML Cookbook, published by Packt|24|2022-03-03|2021-09-14|
+|161|[pylabel-project/samples](https://github.com/pylabel-project/samples)|Notebooks and more to help you get started. Including the PyLabeler Jupyter based labeling tool.|25|2022-02-20|2021-10-20|
+|162|[PacktPublishing/TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook)|TinyML Cookbook, published by Packt|25|2022-03-03|2021-09-14|
+|163|[jakob-beetz/ifcopenshell-notebooks](https://github.com/jakob-beetz/ifcopenshell-notebooks)|Interactive Jupyter Notebooks to teach working with IFC files using ifcopenshell|25|2022-02-14|2021-07-06|
+|164|[wncc/TSS-2021](https://github.com/wncc/TSS-2021)|Repository to document courses conducted under TSS 2021|25|2021-09-27|2021-06-25|
+|165|[MacroAnalyst/Basic_Statistics_With_Python](https://github.com/MacroAnalyst/Basic_Statistics_With_Python)|Introduction to statistics featuring Python. This series of lecture notes aim to walk you through all basic concepts of statistics, such as descriptive statistics, parameter estimations, hypothesis te ...|25|2022-03-11|2021-06-14|
+|166|[Hamtech-ai/wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)|fine-tune Wav2vec2. an ASR model released by Facebook|24|2021-12-11|2021-12-05|
+|167|[omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)|ShinRL: A Library for Evaluating RL Algorithms from Theoretical and Practical Perspectives (Deep RL Workshop 2021)|24|2022-02-15|2021-11-30|
+|168|[haoduohaoduo/JupyterNotebooks](https://github.com/haoduohaoduo/JupyterNotebooks)|Jupyter Notebooks |24|2021-10-17|2021-10-11|
 |169|[sleeping-h/vector-fields](https://github.com/sleeping-h/vector-fields)|Artistic visualization of vector fields created with Matplotlib and Jupyter Notebook|23|2022-01-04|2021-12-12|
 |170|[hctnm1/Learn-To-Use-Github](https://github.com/hctnm1/Learn-To-Use-Github)|Wanna Learn How to use github ? come on in|23|2021-10-31|2021-09-29|
 |171|[beyondguo/Learn_PyTorch](https://github.com/beyondguo/Learn_PyTorch)|learn jiu wan shier l|23|2021-09-26|2021-09-08|

@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > MATLAB
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5512|2021-12-19|
-|2|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1623|2022-03-03|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|5510|2021-12-19|
+|2|[zhoubolei/CAM](https://github.com/zhoubolei/CAM)|Class Activation Mapping|1624|2022-03-03|
 |3|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1194|2021-12-04|
 |4|[altmany/export_fig](https://github.com/altmany/export_fig)|A MATLAB toolbox for exporting publication quality figures|1044|2022-03-16|
 |5|[scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)|Apply and save color schemes in MATLAB with ease.|868|2022-02-10|
-|6|[petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)|Robotics Toolbox for MATLAB|817|2022-03-16|
-|7|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|683|2022-03-15|
+|6|[petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)|Robotics Toolbox for MATLAB|818|2022-03-16|
+|7|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|686|2022-03-15|
 |8|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image harmonization ...|620|2022-03-24|
 |9|[piermorel/gramm](https://github.com/piermorel/gramm)|Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizatio ...|618|2021-11-03|
-|10|[fieldtrip/fieldtrip](https://github.com/fieldtrip/fieldtrip)|The MATLAB toolbox for MEG, EEG and iEEG analysis|603|2022-03-25|
+|10|[fieldtrip/fieldtrip](https://github.com/fieldtrip/fieldtrip)|The MATLAB toolbox for MEG, EEG and iEEG analysis|604|2022-03-27|
 |11|[benfulcher/hctsa](https://github.com/benfulcher/hctsa)|Highly comparative time-series analysis|501|2022-03-06|
 |12|[shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)|Info and sample codes for "NTU RGB+D Action Recognition Dataset"|486|2022-02-18|
 |13|[alecjacobson/gptoolbox](https://github.com/alecjacobson/gptoolbox)|Matlab toolbox for Geometry Processing.|463|2022-03-16|
 |14|[liuziwei7/fashion-detection](https://github.com/liuziwei7/fashion-detection)|Fashion Detection in the Wild (Deep Clothes Detector)|442|2021-10-09|
 |15|[chebfun/chebfun](https://github.com/chebfun/chebfun)|Chebfun:  numerical computing with functions.|441|2022-03-15|
 |16|[Azure/ccodashboard](https://github.com/Azure/ccodashboard)|Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take b ...|427|2022-02-25|
-|17|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|392|2022-03-14|
-|18|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|376|2022-03-24|
+|17|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|393|2022-03-14|
+|18|[mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)|Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.|377|2022-03-24|
 |19|[anicolson/DeepXi](https://github.com/anicolson/DeepXi)|Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR.|372|2022-02-17|
 |20|[JDAI-CV/VeRidataset](https://github.com/JDAI-CV/VeRidataset)|This is the project page for veri dataset which is a large scale image dataset for vehicle re-identification in urban traffic surveillance.|348|2021-12-24|
 |21|[cszn/FFDNet](https://github.com/cszn/FFDNet)|FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018) |335|2021-10-09|
-|22|[MatthewPeterKelly/OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj)|A trajectory optimization library for Matlab|331|2021-11-30|
+|22|[MatthewPeterKelly/OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj)|A trajectory optimization library for Matlab|332|2021-11-30|
 |23|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|2021-10-09|
 |24|[ThomasYeoLab/CBIG](https://github.com/ThomasYeoLab/CBIG)|-|326|2022-03-25|
 |25|[sccn/eeglab](https://github.com/sccn/eeglab)|EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD|325|2022-03-21|
 |26|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|316|2022-01-07|
 |27|[yalmip/YALMIP](https://github.com/yalmip/YALMIP)|MATLAB toolbox for optimization modeling|310|2022-03-15|
-|28|[DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak)|DeepSqueak v3: Using Machine Vision to Accelerate Bioacoustics Research|299|2022-03-21|
+|28|[DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak)|DeepSqueak v3: Using Machine Vision to Accelerate Bioacoustics Research|301|2022-03-21|
 |29|[plotly/plotly_matlab](https://github.com/plotly/plotly_matlab)|Plotly Graphing Library for MATLAB®|298|2022-03-08|
 |30|[CERN/TIGRE](https://github.com/CERN/TIGRE)|TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox|291|2022-03-18|
 |31|[banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)|HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave|291|2022-02-02|
@@ -54,9 +54,9 @@
 |47|[lucklab/erplab](https://github.com/lucklab/erplab)|ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools ...|194|2021-11-05|
 |48|[hiroyuki-kasai/NMFLibrary](https://github.com/hiroyuki-kasai/NMFLibrary)|MATLAB library for non-negative matrix factorization (NMF): Version 1.8.1|186|2022-02-07|
 |49|[NicolasBoumal/manopt](https://github.com/NicolasBoumal/manopt)|Manopt, a Matlab toolbox for optimization on manifolds|179|2022-02-07|
-|50|[opencobra/cobratoolbox](https://github.com/opencobra/cobratoolbox)|The COnstraint-Based Reconstruction and Analysis Toolbox.              Documentation: |176|2022-03-25|
+|50|[opencobra/cobratoolbox](https://github.com/opencobra/cobratoolbox)|The COnstraint-Based Reconstruction and Analysis Toolbox.              Documentation: |176|2022-03-27|
 |51|[precise-simulation/featool-multiphysics](https://github.com/precise-simulation/featool-multiphysics)|FEATool Multiphysics - "Physics Simulation Made Easy"   (Fully Integrated FEA, FEniCS, OpenFOAM, SU2 Solver GUI & Simulation Platform)|175|2022-01-03|
-|52|[mtex-toolbox/mtex](https://github.com/mtex-toolbox/mtex)|MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:|174|2022-03-25|
+|52|[mtex-toolbox/mtex](https://github.com/mtex-toolbox/mtex)|MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:|174|2022-03-27|
 |53|[JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels)|Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)|171|2022-01-06|
 |54|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|170|2021-09-27|
 |55|[hli1221/imagefusion_deeplearning](https://github.com/hli1221/imagefusion_deeplearning)|Infrared and visible image fusion using deep learning framework(ICPR 2018, Beijing)|168|2022-01-10|
@@ -65,15 +65,15 @@
 |58|[hpatches/hpatches-benchmark](https://github.com/hpatches/hpatches-benchmark)|Python & Matlab code for local feature descriptor evaluation with the HPatches dataset.|159|2022-02-01|
 |59|[lacerbi/vbmc](https://github.com/lacerbi/vbmc)|Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB|156|2022-01-30|
 |60|[yihui-he/panorama](https://github.com/yihui-he/panorama)|Image alignment and stitching with MATLAB|154|2022-02-28|
-|61|[cerr/CERR](https://github.com/cerr/CERR)|Matlab/Octave based platform for Radiological Research.|153|2022-03-14|
+|61|[cerr/CERR](https://github.com/cerr/CERR)|Matlab/Octave based platform for Radiological Research.|154|2022-03-14|
 |62|[ImperialCollegeLondon/sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)|Speech Processing Toolbox for MATLAB|152|2022-03-02|
-|63|[strawlab/MultiCamSelfCal](https://github.com/strawlab/MultiCamSelfCal)|multiple camera self calibration Toolbox|151|2021-12-26|
+|63|[strawlab/MultiCamSelfCal](https://github.com/strawlab/MultiCamSelfCal)|multiple camera self calibration Toolbox|152|2021-12-26|
 |64|[taozh2017/RGBD-SODsurvey](https://github.com/taozh2017/RGBD-SODsurvey)|RGB-D Salient Object Detection: A Survey|149|2022-03-15|
 |65|[e0404/matRad](https://github.com/e0404/matRad)|An open source multi-modality radiation treatment planning sytem|140|2022-03-25|
-|66|[petercorke/spatialmath-matlab](https://github.com/petercorke/spatialmath-matlab)|Create,  manipulate and convert representations of position and orientation in 2D or 3D using Python|134|2021-11-05|
-|67|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|133|2022-03-15|
-|68|[OHBA-analysis/HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR)|Toolbox for segmentation and characterisation of transient connectivity |131|2022-03-13|
-|69|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|126|2022-03-12|
+|66|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|134|2022-03-15|
+|67|[petercorke/spatialmath-matlab](https://github.com/petercorke/spatialmath-matlab)|Create,  manipulate and convert representations of position and orientation in 2D or 3D using Python|134|2021-11-05|
+|68|[OHBA-analysis/HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR)|Toolbox for segmentation and characterisation of transient connectivity |131|2022-03-27|
+|69|[VincentWong3/automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab)|-|130|2022-03-12|
 |70|[JzHuai0108/ekfmonoslam](https://github.com/JzHuai0108/ekfmonoslam)|SLAM using a monocular camera, optionally an IMU, and GPS|123|2022-01-19|
 |71|[TUMFTM/mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control)|TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.|121|2022-03-19|
 |72|[simondlevy/SensorFusion](https://github.com/simondlevy/SensorFusion)|A simple Matlab example of sensor fusion using a Kalman filter|120|2021-12-04|
@@ -96,9 +96,9 @@
 |89|[symao/minimum_snap_trajectory_generation](https://github.com/symao/minimum_snap_trajectory_generation)|easy sample code for minimum snap trajectory planning  in MATLAB|102|2022-01-04|
 |90|[bastibe/Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab)|Violin Plots for Matlab|101|2022-03-22|
 |91|[lmendo/MATL](https://github.com/lmendo/MATL)|A programming language based on MATLAB and suitable for code golfing|100|2022-03-15|
-|92|[cortex-lab/allenCCF](https://github.com/cortex-lab/allenCCF)|Tools to work with Allen Inst CCF data in matlab|97|2021-12-06|
-|93|[bastibe/transplant](https://github.com/bastibe/transplant)|Transplant is an easy way of calling Matlab from Python|97|2021-12-08|
-|94|[CHLNDDEV/OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D)|A two-dimensional triangular mesh generator with pre- and post-processing utilities written in pure MATLAB (no toolboxes required, some support for Octave) designed specifically to build models that s ...|96|2022-03-23|
+|92|[CHLNDDEV/OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D)|A two-dimensional triangular mesh generator with pre- and post-processing utilities written in pure MATLAB (no toolboxes required, some support for Octave) designed specifically to build models that s ...|97|2022-03-27|
+|93|[cortex-lab/allenCCF](https://github.com/cortex-lab/allenCCF)|Tools to work with Allen Inst CCF data in matlab|97|2021-12-06|
+|94|[bastibe/transplant](https://github.com/bastibe/transplant)|Transplant is an easy way of calling Matlab from Python|97|2021-12-08|
 |95|[BatzoglouLabSU/SIMLR](https://github.com/BatzoglouLabSU/SIMLR)|Implementations in both Matlab and R of the SIMLR method. The manuscript of the method is available at: https://www.nature.com/articles/nmeth.4207|96|2021-10-28|
 |96|[nickabattista/IB2d](https://github.com/nickabattista/IB2d)|An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advecti ...|96|2021-11-02|
 |97|[qMRLab/qMRLab](https://github.com/qMRLab/qMRLab)|Quantitative MRI Made Easy with qMRLab: MRI software for data Simulation, analysis and visualization|95|2022-02-11|
@@ -140,9 +140,9 @@
 |133|[qigitphannover/DeepQuantumNeuralNetworks](https://github.com/qigitphannover/DeepQuantumNeuralNetworks)|-|72|2021-12-09|
 |134|[JeffFessler/mirt](https://github.com/JeffFessler/mirt)|Michigan Image Reconstruction Toolbox (MIRT) - Matlab version|72|2021-10-12|
 |135|[cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)|PhysioNet Cardiovascular Signal Toolbox|72|2022-03-05|
-|136|[APMonitor/arduino](https://github.com/APMonitor/arduino)|Process Control Temperature Lab|70|2021-11-11|
-|137|[mobeets/mpm](https://github.com/mobeets/mpm)|Simple Matlab package management inspired by pip|70|2022-01-10|
-|138|[isaacgerg/matlabHyperspectralToolbox](https://github.com/isaacgerg/matlabHyperspectralToolbox)|MATLAB Hyperspectral Toolbox|70|2022-01-07|
+|136|[isaacgerg/matlabHyperspectralToolbox](https://github.com/isaacgerg/matlabHyperspectralToolbox)|MATLAB Hyperspectral Toolbox|71|2022-01-07|
+|137|[APMonitor/arduino](https://github.com/APMonitor/arduino)|Process Control Temperature Lab|70|2021-11-11|
+|138|[mobeets/mpm](https://github.com/mobeets/mpm)|Simple Matlab package management inspired by pip|70|2022-01-10|
 |139|[lidq92/SFA](https://github.com/lidq92/SFA)|[official] No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019|68|2022-03-12|
 |140|[douthwja01/OpenMAS](https://github.com/douthwja01/OpenMAS)|OpenMAS is an open source multi-agent simulator based in Matlab for the simulation of decentralized intelligent systems defined by arbitrary behaviours and dynamics.|67|2022-01-17|
 |141|[daniilidis-group/event_feature_tracking](https://github.com/daniilidis-group/event_feature_tracking)|This repo contains MATLAB implementations of the event-based feature tracking methods described in "Event-based Feature Tracking with Probabilistic Data Association" and "Event-based Visual Inertial O ...|67|2022-02-15|
@@ -158,9 +158,9 @@
 |151|[automaticanalysis/automaticanalysis](https://github.com/automaticanalysis/automaticanalysis)|Automatic Analysis (aa)|62|2022-03-14|
 |152|[ramintoosi/ROSS](https://github.com/ramintoosi/ROSS)|Robust Offline Spike Sorter|61|2021-12-01|
 |153|[sueda/redmax](https://github.com/sueda/redmax)|REDMAX: Efficient & Flexible Approach for Articulated Dynamics|60|2021-09-27|
-|154|[TUMFTM/sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics)|TUM Roborace Team Software Stack - Vehicle Simulation|59|2022-03-19|
-|155|[SysBioChalmers/RAVEN](https://github.com/SysBioChalmers/RAVEN)|The RAVEN Toolbox for genome scale model reconstruction, curation and analysis.|59|2022-03-14|
-|156|[bashtage/mfe-toolbox](https://github.com/bashtage/mfe-toolbox)|-|59|2021-12-16|
+|154|[bashtage/mfe-toolbox](https://github.com/bashtage/mfe-toolbox)|-|60|2021-12-16|
+|155|[TUMFTM/sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics)|TUM Roborace Team Software Stack - Vehicle Simulation|59|2022-03-19|
+|156|[SysBioChalmers/RAVEN](https://github.com/SysBioChalmers/RAVEN)|The RAVEN Toolbox for genome scale model reconstruction, curation and analysis.|59|2022-03-26|
 |157|[4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE)|ARTE (A Robotics Toolbox for Education)|59|2022-03-03|
 |158|[indigits/sparse-plex](https://github.com/indigits/sparse-plex)|A  MATLAB library for sparse representation problems|58|2021-10-20|
 |159|[wliusjtu/Real-time-Image-Smoothing-via-Iterative-Least-Squares](https://github.com/wliusjtu/Real-time-Image-Smoothing-via-Iterative-Least-Squares)|This is the released code for the paper Real-time Image Smoothing via Iterative Least Squares accepted to ACM Transactions on Graphics|57|2021-10-24|
@@ -172,7 +172,7 @@
 |165|[GERSL/CCDC](https://github.com/GERSL/CCDC)| Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data.|56|2021-10-21|
 |166|[albertgran/Next-Generation-5G-OFDM-Based-Modulations](https://github.com/albertgran/Next-Generation-5G-OFDM-Based-Modulations)|Compilation of the different MATLAB codes that were used for the experimental part of the research work presented in the article "Next Generation 5G OFDM-Based Modulations for Intensity Modulation-Dir ...|56|2022-02-10|
 |167|[darwinlau/CASPR](https://github.com/darwinlau/CASPR)|Cable-robot Analysis and Simulation Platform for Research Open-Source Software|56|2021-12-12|
-|168|[SysBioChalmers/yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM)|The consensus GEM for Saccharomyces cerevisiae|56|2022-03-25|
+|168|[SysBioChalmers/yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM)|The consensus GEM for Saccharomyces cerevisiae|56|2022-03-27|
 |169|[JiamingMai/Color-Attenuation-Prior-Dehazing](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)|MATLAB codes for the paper "A Fast Single Image Haze Removal Algorithm using Color Attenuation Prior"|56|2022-01-16|
 |170|[daniilidis-group/monocap](https://github.com/daniilidis-group/monocap)|Code for MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior.|55|2022-02-15|
 |171|[andersonwinkler/PALM](https://github.com/andersonwinkler/PALM)|PALM: Permutation Analysis of Linear Models|55|2021-11-03|

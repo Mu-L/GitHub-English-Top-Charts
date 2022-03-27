@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2869|2022-03-15|2021-10-08|
-|2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|186|2022-01-27|2021-08-31|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2873|2022-03-15|2021-10-08|
+|2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|187|2022-01-27|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|75|2022-03-18|2021-08-31|
 |4|[tidymodels/vetiver-r](https://github.com/tidymodels/vetiver-r)|Version, share, deploy, and monitor models|74|2022-03-25|2021-07-09|
 |5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|51|2022-03-24|2021-09-29|
@@ -22,9 +22,9 @@
 |15|[praneet1988/ELeFHAnt](https://github.com/praneet1988/ELeFHAnt)|Ensemble Learning for Harmonization and Annotation of Single Cells (ELeFHAnt) provides an easy to use R package for users to annotate clusters of single cells, harmonize labels across single cell data ...|17|2021-09-28|2021-06-27|
 |16|[CDCgov/Rnssp](https://github.com/CDCgov/Rnssp)|A Signature R package for the National Syndromic Surveillance Program (NSSP) at the Centers for Disease Control and Prevention (CDC). A collection of tools, functions, and R Markdown templates that su ...|17|2022-03-16|2021-05-20|
 |17|[jennschilling/books-2021](https://github.com/jennschilling/books-2021)|data visualization of books I read in 2021|14|2022-01-06|2021-11-13|
-|18|[wrathematics/DSE512](https://github.com/wrathematics/DSE512)|Course materials for: The Computer Science of Data Science.|12|2022-03-12|2022-01-23|
+|18|[wrathematics/DSE512](https://github.com/wrathematics/DSE512)|Course materials for: The Computer Science of Data Science.|12|2022-03-27|2022-01-23|
 |19|[tesselle/kairos](https://github.com/tesselle/kairos)|:hourglass: Analysis of Chronological Patterns from Archaeological Count Data|12|2022-03-12|2021-05-04|
-|20|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-03-24|2022-01-05|
+|20|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-03-27|2022-01-05|
 |21|[jackobailey/britpol](https://github.com/jackobailey/britpol)|Data and Functions for Studying British Politics|10|2022-02-07|2021-12-13|
 |22|[boyiguo1/Tutorial-Residential_Segregation_Score](https://github.com/boyiguo1/Tutorial-Residential_Segregation_Score)|A tutorial & reproducible example on calculating residential segregation indices with decennial US census data (Version 1-0-0)|10|2022-01-18|2021-11-27|
 |23|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|10|2022-03-03|2021-09-06|
@@ -55,7 +55,7 @@
 |48|[andrija-djurovic/PDtoolkit](https://github.com/andrija-djurovic/PDtoolkit)|Collection of tools for probability of default (PD) rating model development and validation.|5|2022-03-15|2021-08-14|
 |49|[dynamic-R/RTM](https://github.com/dynamic-R/RTM)|Reaction Transport Modelling course|5|2022-03-26|2021-07-14|
 |50|[JBGruber/paperboy](https://github.com/JBGruber/paperboy)|A comprehensive (eventually) collection of webscraping scripts for news media sites |5|2022-03-25|2021-07-13|
-|51|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-26|2021-05-03|
+|51|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-27|2021-05-03|
 |52|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-02-11|2021-12-21|
 
 <div align="center">
