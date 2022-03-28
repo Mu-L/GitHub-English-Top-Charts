@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.|3201|2022-03-08|2021-12-01|
-|2|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|565|2022-02-17|2021-04-18|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.|3210|2022-03-08|2021-12-01|
+|2|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|568|2022-02-17|2021-04-18|
 |3|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|337|2021-10-23|2021-06-22|
 |4|[antonshilov/ComposeAnimations](https://github.com/antonshilov/ComposeAnimations)|Collection of nice animations created with Jetpack Compose|232|2022-02-13|2022-02-12|
 |5|[evitwilly/Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns)|This repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.|231|2022-02-15|2021-10-17|
@@ -15,17 +15,17 @@
 |8|[Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)|A libre smart powered comic book reader for Android.|89|2022-02-06|2021-04-12|
 |9|[ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose)|A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!|82|2022-03-06|2021-08-07|
 |10|[romychab/android-tutorials](https://github.com/romychab/android-tutorials)|Source code from YouTube video tutorials|63|2022-02-19|2021-04-28|
-|11|[romainguy/experiment-apex](https://github.com/romainguy/experiment-apex)|A basic, incomplete, buggy, far from efficient UI toolkit for Kotlin/Android. An experiment for fun and to learn.|60|2021-11-25|2021-11-25|
-|12|[jjohannes/gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto)|How to write Gradle plugins - answers to common questions and alternative implementation solutions|59|2022-01-07|2022-01-05|
+|11|[jjohannes/gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto)|How to write Gradle plugins - answers to common questions and alternative implementation solutions|62|2022-01-07|2022-01-05|
+|12|[romainguy/experiment-apex](https://github.com/romainguy/experiment-apex)|A basic, incomplete, buggy, far from efficient UI toolkit for Kotlin/Android. An experiment for fun and to learn.|60|2021-11-25|2021-11-25|
 |13|[mutualmobile/compose-animation-examples](https://github.com/mutualmobile/compose-animation-examples)|Compose Animation Examples. Useful Jetpack Compose animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can take inspiration from.|47|2022-03-25|2022-03-08|
 |14|[abdurakhmonoff/data-structures-and-algorithms-kotlin](https://github.com/abdurakhmonoff/data-structures-and-algorithms-kotlin)|Implementation of Data Structures and Algorithms (DSA) in Kotlin Programming Language|46|2021-11-21|2021-04-01|
 |15|[Ahmed-Sellami/List-Animations-In-Compose](https://github.com/Ahmed-Sellami/List-Animations-In-Compose)|Implementing multiple list animations in a walk-through series of articles.|36|2021-10-13|2021-08-19|
 |16|[X1nto/AliucordPlugins](https://github.com/X1nto/AliucordPlugins)|A collection of plugins for Aliucord.|36|2022-03-10|2021-05-21|
 |17|[ronnieotieno/JetPaclk-Compose-Spotify-UI](https://github.com/ronnieotieno/JetPaclk-Compose-Spotify-UI)|Just learning compose while building the Spotify ui.|33|2022-03-27|2021-08-09|
 |18|[Lentolove/Tsp-Wan-Android](https://github.com/Lentolove/Tsp-Wan-Android)|learn jetpack, coding |32|2022-02-09|2022-01-21|
-|19|[google-developer-training/android-basics-kotlin-bus-schedule-app](https://github.com/google-developer-training/android-basics-kotlin-bus-schedule-app)|Learn to work with databases on Android using the Room persistence library.|29|2022-02-24|2021-06-10|
-|20|[readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit)|A toolkit for ebooks, audiobooks and comics written in Kotlin|28|2022-03-25|2021-09-23|
-|21|[MRwangqi/pluginDemo](https://github.com/MRwangqi/pluginDemo)|插件大集合，基于 AGP 7.X ，目前有 依赖检查插件、组件上传插件|26|2022-03-26|2022-02-14|
+|19|[MRwangqi/pluginDemo](https://github.com/MRwangqi/pluginDemo)|插件大集合，基于 AGP 7.X ，目前有 依赖检查插件、组件上传插件|29|2022-03-26|2022-02-14|
+|20|[google-developer-training/android-basics-kotlin-bus-schedule-app](https://github.com/google-developer-training/android-basics-kotlin-bus-schedule-app)|Learn to work with databases on Android using the Room persistence library.|29|2022-02-24|2021-06-10|
+|21|[readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit)|A toolkit for ebooks, audiobooks and comics written in Kotlin|28|2022-03-25|2021-09-23|
 |22|[onionshare/onionshare-android](https://github.com/onionshare/onionshare-android)|Android version of OnionShare (under development)|25|2022-02-18|2021-08-13|
 |23|[AseemWangoo/hands_on_kotlin](https://github.com/AseemWangoo/hands_on_kotlin)|Experiments with Compose and latest architecture patterns in Kotlin|24|2021-11-22|2021-04-20|
 |24|[PacktPublishing/Kotlin-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/Kotlin-Design-Patterns-and-Best-Practices)|Kotlin Design Patterns and Best Practices - Second Edition, published by Packt|23|2022-01-07|2021-06-04|
@@ -57,11 +57,11 @@
 |50|[ashwinbhaskar/android-ephemeral](https://github.com/ashwinbhaskar/android-ephemeral)|Store ephemeral values in memory and shared preferences|9|2022-02-14|2022-02-10|
 |51|[analysis-dev/awesome-benchmarks](https://github.com/analysis-dev/awesome-benchmarks)|A curated list of standards, tests and benchmarks that can be used for testing and evaluating dev-tools|9|2022-03-22|2021-12-23|
 |52|[Me163/youtube](https://github.com/Me163/youtube)|Code examples I've written for my YouTube channel|9|2022-03-15|2021-10-04|
-|53|[carolinemusyoka/WeatherAppCompose](https://github.com/carolinemusyoka/WeatherAppCompose)|learning compose|8|2022-02-28|2022-02-28|
-|54|[babydots/babybook](https://github.com/babydots/babybook)|Make interesting books for your kids, using text and images from simple.wikipedia.org|8|2022-03-27|2022-01-15|
-|55|[Lira-tron/KotlinAlgorithms](https://github.com/Lira-tron/KotlinAlgorithms)|Learning algorithms in Kotlin |8|2022-02-28|2022-01-15|
-|56|[d4rken/android-starter-v4](https://github.com/d4rken/android-starter-v4)|An Android template project (in Kotlin) with boilerplate and current patterns.|8|2022-02-04|2021-05-14|
-|57|[karimelbahi/DataStructure-Algorithms-Kotlin](https://github.com/karimelbahi/DataStructure-Algorithms-Kotlin)|This repository will be continuous updated with the data structure and algorithms samples|7|2022-03-25|2022-03-14|
+|53|[karimelbahi/DataStructure-Algorithms-Kotlin](https://github.com/karimelbahi/DataStructure-Algorithms-Kotlin)|This repository will be continuous updated with the data structure and algorithms samples|8|2022-03-28|2022-03-14|
+|54|[carolinemusyoka/WeatherAppCompose](https://github.com/carolinemusyoka/WeatherAppCompose)|learning compose|8|2022-02-28|2022-02-28|
+|55|[babydots/babybook](https://github.com/babydots/babybook)|Make interesting books for your kids, using text and images from simple.wikipedia.org|8|2022-03-27|2022-01-15|
+|56|[Lira-tron/KotlinAlgorithms](https://github.com/Lira-tron/KotlinAlgorithms)|Learning algorithms in Kotlin |8|2022-02-28|2022-01-15|
+|57|[d4rken/android-starter-v4](https://github.com/d4rken/android-starter-v4)|An Android template project (in Kotlin) with boilerplate and current patterns.|8|2022-02-04|2021-05-14|
 |58|[elboyev/Kotlin_Tutorials](https://github.com/elboyev/Kotlin_Tutorials)|Kotlin Tutorials for new learners.|7|2021-12-01|2021-11-20|
 |59|[elye/demo_android_jetchat_with_websocket](https://github.com/elye/demo_android_jetchat_with_websocket)|Taking [JetChat](https://github.com/android/compose-samples/tree/master/Jetchat) and put in [a real websocket seerver connection](https://github.com/elye/demo_nodejs_websocket) to it|7|2021-11-02|2021-11-02|
 |60|[pdichone/JetMovieApp](https://github.com/pdichone/JetMovieApp)|Android Jetpack Compose Course|7|2021-10-28|2021-10-26|

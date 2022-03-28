@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3576|2022-03-27|2021-03-29|
+|1|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3583|2022-03-28|2021-03-29|
 |2|[SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)|Functional programming in Dart and Flutter. All the main functional programming types and patterns fully documented, tested, and with examples.|163|2022-02-23|2021-05-28|
-|3|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|147|2022-02-15|2021-04-08|
-|4|[widgetbook/widgetbook](https://github.com/widgetbook/widgetbook)|Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.|145|2022-03-24|2021-08-24|
-|5|[PolyglotNetwork/devtoolbox](https://github.com/PolyglotNetwork/devtoolbox)|Collection of offline utilities for developers|71|2022-01-24|2022-01-01|
+|3|[widgetbook/widgetbook](https://github.com/widgetbook/widgetbook)|Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.|147|2022-03-24|2021-08-24|
+|4|[bizz84/flutter_animations_course_materials](https://github.com/bizz84/flutter_animations_course_materials)|All projects from my Flutter Animations Course|147|2022-02-15|2021-04-08|
+|5|[PolyglotNetwork/devtoolbox](https://github.com/PolyglotNetwork/devtoolbox)|Collection of offline utilities for developers|73|2022-01-24|2022-01-01|
 |6|[perymerdeka/mastering-dart](https://github.com/perymerdeka/mastering-dart)|Repo for Teach Yourself mastering dart programming language|46|2022-03-27|2021-06-20|
 |7|[VGVentures/bloc_concurrency_demos](https://github.com/VGVentures/bloc_concurrency_demos)|3 different demos showing how to use bloc concurrency, before and after the Bloc 7.2.0 update.|45|2021-11-01|2021-10-21|
 |8|[fredgrott/not_in_flutter_docs](https://github.com/fredgrott/not_in_flutter_docs)|flutter code tutorials|43|2021-11-19|2021-10-15|
@@ -45,17 +45,17 @@
 |38|[TesteurManiak/flutter-tips](https://github.com/TesteurManiak/flutter-tips)|Some tips and tricks in Flutter & Dart|9|2022-03-16|2022-02-11|
 |39|[Aleynaesr/flutter-ui-design-examples](https://github.com/Aleynaesr/flutter-ui-design-examples)|My flutter (android, ios) UI design examples  🎈 - user profile UIs,  food order ui, splashscreen, mask widget usage, settings page ui|9|2022-03-04|2022-02-08|
 |40|[iamnijat/code-quizzy](https://github.com/iamnijat/code-quizzy)|Coding quizzes will make your learning very enjoyable. You won't just learn here, you'll play games and learn. Our quizzes are fun. They're mind-blowing your knowledge instantly.|9|2022-02-01|2022-02-01|
-|41|[muhammadtalhasultan/flutter-examples](https://github.com/muhammadtalhasultan/flutter-examples)|Flutter Examples|9|2022-02-23|2021-12-26|
-|42|[batuhankrbb/flutterbook](https://github.com/batuhankrbb/flutterbook)|My Flutter book. I gathered all services and helpers I made with Flutter in here. You can easily copy these helpers and use them in your project.|9|2022-01-09|2021-11-15|
-|43|[leonardopresoto/starwars_clean_architecture](https://github.com/leonardopresoto/starwars_clean_architecture)|A project to learn about Clean Architecture|9|2022-01-04|2021-05-27|
-|44|[Flutter-Explained/flavor_tutorial](https://github.com/Flutter-Explained/flavor_tutorial)|Flutter Flavor Tutorial - |9|2021-11-23|2021-04-14|
-|45|[lakscastro/shared-storage](https://github.com/lakscastro/shared-storage)|📁 Flutter plugin to get Android shared folders like DCIM, Downloads, Video, Audio. Works with Android 4.1+ (API Level 16+)|8|2022-02-28|2021-10-31|
-|46|[YouXianMing/flutter_canvas](https://github.com/YouXianMing/flutter_canvas)|Examples of use flutter canvas.|8|2021-10-21|2021-10-21|
-|47|[mhadaily/serverless-authentication-authorization-flutter](https://github.com/mhadaily/serverless-authentication-authorization-flutter)|OAuth/OpenID Connect    Serverless Authentication and Authorization for Flutter   Auth0 and GetStream.io Chat integration course|8|2022-02-23|2021-07-12|
-|48|[luanbatistadev/willy_wallpaper](https://github.com/luanbatistadev/willy_wallpaper)|Willy WallPapers - Android |7|2022-03-20|2022-03-20|
-|49|[rwema3/Math-Metrix-App](https://github.com/rwema3/Math-Metrix-App)|Math Matrix is a Math Game that tries improvise your math skills in a fun way. Simple math games to learn, improve you math skills. This game is easy to play and target everyone from kids to adults. E ...|7|2022-02-22|2022-02-22|
-|50|[aanilozsoy/demo_chat_app](https://github.com/aanilozsoy/demo_chat_app)|This is the first flutter project of mine after completing a flutter course|7|2022-02-14|2022-02-14|
-|51|[radikris/booking_calendar](https://github.com/radikris/booking_calendar)|Flutter package to manage online bookings|7|2022-02-22|2022-01-05|
+|41|[radikris/booking_calendar](https://github.com/radikris/booking_calendar)|Flutter package to manage online bookings|9|2022-02-22|2022-01-05|
+|42|[muhammadtalhasultan/flutter-examples](https://github.com/muhammadtalhasultan/flutter-examples)|Flutter Examples|9|2022-02-23|2021-12-26|
+|43|[batuhankrbb/flutterbook](https://github.com/batuhankrbb/flutterbook)|My Flutter book. I gathered all services and helpers I made with Flutter in here. You can easily copy these helpers and use them in your project.|9|2022-01-09|2021-11-15|
+|44|[leonardopresoto/starwars_clean_architecture](https://github.com/leonardopresoto/starwars_clean_architecture)|A project to learn about Clean Architecture|9|2022-01-04|2021-05-27|
+|45|[Flutter-Explained/flavor_tutorial](https://github.com/Flutter-Explained/flavor_tutorial)|Flutter Flavor Tutorial - |9|2021-11-23|2021-04-14|
+|46|[lakscastro/shared-storage](https://github.com/lakscastro/shared-storage)|📁 Flutter plugin to get Android shared folders like DCIM, Downloads, Video, Audio. Works with Android 4.1+ (API Level 16+)|8|2022-02-28|2021-10-31|
+|47|[YouXianMing/flutter_canvas](https://github.com/YouXianMing/flutter_canvas)|Examples of use flutter canvas.|8|2021-10-21|2021-10-21|
+|48|[mhadaily/serverless-authentication-authorization-flutter](https://github.com/mhadaily/serverless-authentication-authorization-flutter)|OAuth/OpenID Connect    Serverless Authentication and Authorization for Flutter   Auth0 and GetStream.io Chat integration course|8|2022-02-23|2021-07-12|
+|49|[luanbatistadev/willy_wallpaper](https://github.com/luanbatistadev/willy_wallpaper)|Willy WallPapers - Android |7|2022-03-20|2022-03-20|
+|50|[rwema3/Math-Metrix-App](https://github.com/rwema3/Math-Metrix-App)|Math Matrix is a Math Game that tries improvise your math skills in a fun way. Simple math games to learn, improve you math skills. This game is easy to play and target everyone from kids to adults. E ...|7|2022-02-22|2022-02-22|
+|51|[aanilozsoy/demo_chat_app](https://github.com/aanilozsoy/demo_chat_app)|This is the first flutter project of mine after completing a flutter course|7|2022-02-14|2022-02-14|
 |52|[viralvaghela/flutter_examples](https://github.com/viralvaghela/flutter_examples)|Collection of cool flutter code examples and packages|7|2021-10-22|2021-10-21|
 |53|[simolus3/goodies.dart](https://github.com/simolus3/goodies.dart)|A collection of small Dart packages that I'm maintaining|7|2022-02-09|2021-10-13|
 |54|[fireship-io/dart-course](https://github.com/fireship-io/dart-course)|Master the Basics of the Dart Language|7|2022-01-01|2021-10-10|
@@ -67,13 +67,13 @@
 |60|[Ansh-Rathod/Flutter-Projectfolio-app](https://github.com/Ansh-Rathod/Flutter-Projectfolio-app)|Make, Share and Grow. A showcase for your open-source projects.  |6|2021-12-22|2021-12-17|
 |61|[Hmida71/Flutter-animated-Slider](https://github.com/Hmida71/Flutter-animated-Slider)|Slider Master Animation Flutter Dart 🐱‍👤🐱‍👤|6|2021-12-11|2021-12-11|
 |62|[dipu-bd/algorithmic](https://github.com/dipu-bd/algorithmic)|A collection of useful algorithms keeping performance and flexibility on mind.|6|2022-01-14|2021-12-05|
-|63|[RefactoringGuru/design-patterns-dart](https://github.com/RefactoringGuru/design-patterns-dart)|Design Pattern Examples in Dart|6|2022-02-21|2021-10-04|
-|64|[Yayo-Arellano/flutter_chrome_extension](https://github.com/Yayo-Arellano/flutter_chrome_extension)|Learn how to create a google chrome extension with Flutter|6|2021-11-25|2021-07-08|
-|65|[materoy/Audiobooks](https://github.com/materoy/Audiobooks)|Open source audiobooks player|6|2022-03-02|2021-06-22|
-|66|[saiive/defimnsigner](https://github.com/saiive/defimnsigner)|DefiChain Masternode Signer|6|2022-03-23|2021-06-01|
-|67|[tusharojha/file_share_server](https://github.com/tusharojha/file_share_server)|File share server is a tool for sharing private files to people using a secure hash token developed in Dart.|6|2022-02-08|2021-03-30|
-|68|[ashu98s/Scrollable-Widgets](https://github.com/ashu98s/Scrollable-Widgets)|A recipe app, in which you will learn about different Scrollable widgets.|5|2021-12-10|2021-11-27|
-|69|[thecodexhub/flutter-local-notifications-example](https://github.com/thecodexhub/flutter-local-notifications-example)|Flutter Local Notifications - Learn how to implement local notifications into both Android and iOS using flutter_local_notifications plugin.|5|2021-11-18|2021-11-13|
+|63|[thecodexhub/flutter-local-notifications-example](https://github.com/thecodexhub/flutter-local-notifications-example)|Flutter Local Notifications - Learn how to implement local notifications into both Android and iOS using flutter_local_notifications plugin.|6|2021-11-18|2021-11-13|
+|64|[RefactoringGuru/design-patterns-dart](https://github.com/RefactoringGuru/design-patterns-dart)|Design Pattern Examples in Dart|6|2022-02-21|2021-10-04|
+|65|[Yayo-Arellano/flutter_chrome_extension](https://github.com/Yayo-Arellano/flutter_chrome_extension)|Learn how to create a google chrome extension with Flutter|6|2021-11-25|2021-07-08|
+|66|[materoy/Audiobooks](https://github.com/materoy/Audiobooks)|Open source audiobooks player|6|2022-03-02|2021-06-22|
+|67|[saiive/defimnsigner](https://github.com/saiive/defimnsigner)|DefiChain Masternode Signer|6|2022-03-23|2021-06-01|
+|68|[tusharojha/file_share_server](https://github.com/tusharojha/file_share_server)|File share server is a tool for sharing private files to people using a secure hash token developed in Dart.|6|2022-02-08|2021-03-30|
+|69|[ashu98s/Scrollable-Widgets](https://github.com/ashu98s/Scrollable-Widgets)|A recipe app, in which you will learn about different Scrollable widgets.|5|2021-12-10|2021-11-27|
 |70|[erickzanardo/quary](https://github.com/erickzanardo/quary)|Quary is a simple snippet tool written in Flutter|5|2021-11-02|2021-11-02|
 |71|[eshan1925/Eventour](https://github.com/eshan1925/Eventour)|An event management system that books your events in 5 easy steps.|5|2021-11-01|2021-10-22|
 |72|[The-Coding-Misfits/harmony](https://github.com/The-Coding-Misfits/harmony)|Share hiking places around you.|5|2021-11-20|2021-10-17|
