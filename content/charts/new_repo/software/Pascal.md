@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|694|2022-03-18|2021-11-25|
-|2|[skia4delphi/skia4delphi](https://github.com/skia4delphi/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|267|2022-03-22|2021-08-10|
+|1|[0xsp-SRD/mortar](https://github.com/0xsp-SRD/mortar)|evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)|697|2022-03-18|2021-11-25|
+|2|[skia4delphi/skia4delphi](https://github.com/skia4delphi/skia4delphi)|Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop mode ...|271|2022-03-22|2021-08-10|
 |3|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|89|2022-03-24|2021-12-03|
 |4|[TextEditorPro/TTextEditor](https://github.com/TextEditorPro/TTextEditor)|Text editor control of Text Editor Pro and Firebird Editor Pro.|76|2022-03-17|2021-04-22|
 |5|[diversenok/NtTools](https://github.com/diversenok/NtTools)|Some random system tools for Windows|68|2022-01-26|2021-12-15|
@@ -14,20 +14,20 @@
 |7|[maximmasiutin/TinyWeb](https://github.com/maximmasiutin/TinyWeb)|TinyWeb is a small yet fully functional web server (HTTP, HTTPS) written in Delphi for Win32 by Maxim Masiutin. First version released in 1997.|62|2021-10-08|2021-08-08|
 |8|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|60|2022-01-05|2021-07-16|
 |9|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|54|2022-01-24|2021-12-08|
-|10|[diversenok/Suspending-Techniques](https://github.com/diversenok/Suspending-Techniques)|Comparing, discussing, and bypassing various techniques for suspending and freezing processes on Windows.|46|2021-11-10|2021-04-25|
-|11|[emeric-martineau/wsl-gui-tool](https://github.com/emeric-martineau/wsl-gui-tool)|Manage WSL (Windows Subsystem for Linux) with a graphical application|45|2022-03-19|2021-06-29|
+|10|[emeric-martineau/wsl-gui-tool](https://github.com/emeric-martineau/wsl-gui-tool)|Manage WSL (Windows Subsystem for Linux) with a graphical application|46|2022-03-19|2021-06-29|
+|11|[diversenok/Suspending-Techniques](https://github.com/diversenok/Suspending-Techniques)|Comparing, discussing, and bypassing various techniques for suspending and freezing processes on Windows.|46|2021-11-10|2021-04-25|
 |12|[JosepPages7/Delphi-GCharts](https://github.com/JosepPages7/Delphi-GCharts)|Delphi-GCharts is a Delphi library of components to generate charts in uniGUI Framework using the Google Charts API|37|2021-10-23|2021-09-18|
-|13|[Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)|Delphi and C++Builder Demos for Embarcadero RAD Studio version 11|35|2022-02-13|2021-07-08|
-|14|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|34|2022-01-31|2021-11-29|
+|13|[mobius1qwe/Aegys-Acesso-Remoto](https://github.com/mobius1qwe/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|35|2022-01-31|2021-11-29|
+|14|[Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)|Delphi and C++Builder Demos for Embarcadero RAD Studio version 11|35|2022-02-13|2021-07-08|
 |15|[viniciussanchez/xml-builder](https://github.com/viniciussanchez/xml-builder)|XML Builder for Delphi and Lazarus|32|2022-02-10|2022-02-09|
 |16|[EtheaDev/DelphiGoogleMap](https://github.com/EtheaDev/DelphiGoogleMap)|Delphi Edge Component to View Google Map with Routing and Markers Support|30|2021-12-06|2021-09-24|
 |17|[AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2)|Polygon Clipping and Offsetting library|29|2022-03-19|2022-02-23|
 |18|[Hendi48/Magicmida](https://github.com/Hendi48/Magicmida)|Themida unpacker|29|2022-03-08|2021-12-25|
 |19|[radprogrammer/rad-authenticator](https://github.com/radprogrammer/rad-authenticator)|Time-Based One-Time Password (TOTP) projects in Delphi with Google Authenticator compatible PIN number generation|29|2021-12-30|2021-10-24|
-|20|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|29|2022-03-28|2021-08-09|
-|21|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|28|2022-03-27|2021-07-28|
-|22|[Ronierys2/TRscPix](https://github.com/Ronierys2/TRscPix)|Componente para desenvolvimento de aplicações com PIX usando o RestDataware|26|2022-03-14|2021-10-19|
-|23|[0xsp-SRD/OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)|Pascal Offsec repo for malware dev and red teaming 🚩|25|2022-03-27|2022-03-08|
+|20|[fpc/FPCSource](https://github.com/fpc/FPCSource)|Read-only mirror of the Free Pascal sources on gitlab.|29|2022-03-29|2021-08-09|
+|21|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|29|2022-03-29|2021-07-28|
+|22|[0xsp-SRD/OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)|Pascal Offsec repo for malware dev and red teaming 🚩|28|2022-03-27|2022-03-08|
+|23|[Ronierys2/TRscPix](https://github.com/Ronierys2/TRscPix)|Componente para desenvolvimento de aplicações com PIX usando o RestDataware|26|2022-03-14|2021-10-19|
 |24|[lminuti/graphql](https://github.com/lminuti/graphql)|GraphQL for Delphi|25|2022-01-15|2022-01-06|
 |25|[vhanla/W1nDro1d](https://github.com/vhanla/W1nDro1d)|A simple tool to manage Windows 11's Subsystem for Android "manually", install APK and XAPK, toggle fullscreen, list installed Android Apps, among other things|25|2021-12-21|2021-10-22|
 |26|[86Box/WinBox-for-86Box](https://github.com/86Box/WinBox-for-86Box)|-|24|2022-01-09|2022-01-09|
@@ -38,12 +38,12 @@
 |31|[heliosroots/fp-vscode](https://github.com/heliosroots/fp-vscode)|Freepascal support for Visual Studio Code|21|2021-11-20|2021-09-27|
 |32|[jachguate/jachLogMgr](https://github.com/jachguate/jachLogMgr)|Open Source log manager for Delphi|20|2022-03-21|2021-06-21|
 |33|[magnolima/OpenAI-Delphi](https://github.com/magnolima/OpenAI-Delphi)|A simple wrapper for the openAI API using Delphi|19|2022-03-28|2021-06-01|
-|34|[OmgCopito95/CADP](https://github.com/OmgCopito95/CADP)|Contenido de las consultas prácticas de la cátedra de CADP de la facultad de Informática UNLP|19|2022-03-27|2021-04-25|
-|35|[fluisgirardi/pascalscada_v0](https://github.com/fluisgirardi/pascalscada_v0)|-|18|2021-11-29|2021-11-25|
-|36|[spring4d/benchmark](https://github.com/spring4d/benchmark)|Delphi port of Google Benchmark|18|2022-01-28|2021-04-05|
-|37|[Embarcadero/Delphi4PythonExporter](https://github.com/Embarcadero/Delphi4PythonExporter)|Design your Python GUI using Delphi's VCL and FMX designers and then export them for Python use.|17|2022-03-28|2022-02-01|
-|38|[EvgeniyKorepov/Watchdog4DanilaMiner](https://github.com/EvgeniyKorepov/Watchdog4DanilaMiner)|Watchdog for Danila miner|17|2021-12-24|2021-11-30|
-|39|[Laex/Delphi-OpenCV-Class](https://github.com/Laex/Delphi-OpenCV-Class)|Experimental Delphi binding for OpenCV 4.XX|17|2022-03-21|2021-10-30|
+|34|[OmgCopito95/CADP](https://github.com/OmgCopito95/CADP)|Contenido de las consultas prácticas de la cátedra de CADP de la facultad de Informática UNLP|19|2022-03-29|2021-04-25|
+|35|[Embarcadero/Delphi4PythonExporter](https://github.com/Embarcadero/Delphi4PythonExporter)|Design your Python GUI using Delphi's VCL and FMX designers and then export them for Python use.|18|2022-03-28|2022-02-01|
+|36|[fluisgirardi/pascalscada_v0](https://github.com/fluisgirardi/pascalscada_v0)|-|18|2021-11-29|2021-11-25|
+|37|[Laex/Delphi-OpenCV-Class](https://github.com/Laex/Delphi-OpenCV-Class)|Experimental Delphi binding for OpenCV 4.XX|18|2022-03-21|2021-10-30|
+|38|[spring4d/benchmark](https://github.com/spring4d/benchmark)|Delphi port of Google Benchmark|18|2022-01-28|2021-04-05|
+|39|[EvgeniyKorepov/Watchdog4DanilaMiner](https://github.com/EvgeniyKorepov/Watchdog4DanilaMiner)|Watchdog for Danila miner|17|2021-12-24|2021-11-30|
 |40|[AngusJohnson/TQoiImage](https://github.com/AngusJohnson/TQoiImage)|Delphi TGraphic support for QOI images|16|2022-02-26|2021-12-27|
 |41|[alexsherkhan/fastTelega](https://github.com/alexsherkhan/fastTelega)|Delphi library for Telegram Bot API|16|2021-11-18|2021-11-18|
 |42|[natanbueno/fp-jsonwebtoken](https://github.com/natanbueno/fp-jsonwebtoken)|fp-jsonwebtoken é um conjunto de bibliotecas para gerar, assinar e validar TOKENS JWT no fpc/lazarus.|16|2022-03-17|2021-07-28|
@@ -68,10 +68,10 @@
 |61|[Ravbug/GlovePIEReverseEngineering](https://github.com/Ravbug/GlovePIEReverseEngineering)|The GlovePIE decompilation effort|12|2021-10-26|2021-04-19|
 |62|[groehner/guipy](https://github.com/groehner/guipy)|GuiPy - a graphical Python IDE|11|2022-03-21|2022-03-07|
 |63|[dertuxmalwieder/groffstudio](https://github.com/dertuxmalwieder/groffstudio)|An IDE for groff. (Git mirror)|11|2022-03-17|2022-02-24|
-|64|[Razor12911/xtool](https://github.com/Razor12911/xtool)|-|11|2022-02-17|2022-01-09|
-|65|[LilyStilson/CaptureConsoleOutput](https://github.com/LilyStilson/CaptureConsoleOutput)|-|11|2021-11-22|2021-11-22|
-|66|[jval1972/Mars3D](https://github.com/jval1972/Mars3D)|Source port of the game "Mars - The Ultimate Fighter" |11|2022-03-27|2021-10-17|
-|67|[PierceNg/fpwebview](https://github.com/PierceNg/fpwebview)|Free Pascal binding for Webview, a tiny cross-platform library for building modern cross-platform GUIs using web technology|10|2022-03-12|2022-02-14|
+|64|[PierceNg/fpwebview](https://github.com/PierceNg/fpwebview)|Free Pascal binding for Webview, a tiny cross-platform library for building modern cross-platform GUIs using web technology|11|2022-03-12|2022-02-14|
+|65|[Razor12911/xtool](https://github.com/Razor12911/xtool)|-|11|2022-03-29|2022-01-09|
+|66|[LilyStilson/CaptureConsoleOutput](https://github.com/LilyStilson/CaptureConsoleOutput)|-|11|2021-11-22|2021-11-22|
+|67|[jval1972/Mars3D](https://github.com/jval1972/Mars3D)|Source port of the game "Mars - The Ultimate Fighter" |11|2022-03-29|2021-10-17|
 |68|[joemilc/jkdialog](https://github.com/joemilc/jkdialog)|Tela de dialogo personalizada para Delphi/Lazarus|10|2022-02-15|2022-02-10|
 |69|[tinyBigGAMES/Allegro](https://github.com/tinyBigGAMES/Allegro)|Pascal bindings that allow you to use Allegro with Delphi|10|2022-01-01|2022-01-01|
 |70|[DosWorld/pasqoi](https://github.com/DosWorld/pasqoi)|A Pascal implementation of Quite OK Image Format|10|2021-12-23|2021-12-18|
@@ -93,7 +93,7 @@
 |86|[katerina501/10a_2022](https://github.com/katerina501/10a_2022)|-|9|2022-02-01|2021-10-19|
 |87|[mr-highball/yt-indexer](https://github.com/mr-highball/yt-indexer)|a simple & configurable tool to index youtube videos|9|2022-02-11|2021-08-12|
 |88|[tranquilit/pltis_uicomponents](https://github.com/tranquilit/pltis_uicomponents)|-|9|2022-03-28|2021-07-26|
-|89|[fpc/pas2js](https://github.com/fpc/pas2js)|Read-only mirror of  Pascal to Javascript transpiler|9|2022-03-28|2021-07-26|
+|89|[fpc/pas2js](https://github.com/fpc/pas2js)|Read-only mirror of  Pascal to Javascript transpiler|9|2022-03-29|2021-07-26|
 |90|[EtheaDev/MarkdownShellExtensions](https://github.com/EtheaDev/MarkdownShellExtensions)|Markdown file Shell Extensions for Windows Explorer plus a Markdown file editor with instant preview|9|2022-01-20|2021-06-28|
 |91|[HemulGM/FMXChangeStyle](https://github.com/HemulGM/FMXChangeStyle)|FMX style change|8|2022-01-29|2022-01-27|
 |92|[tinyBigGAMES/GLFW](https://github.com/tinyBigGAMES/GLFW)|Pascal bindings that allow you to use GLFW with Delphi|8|2022-01-15|2022-01-14|
@@ -155,7 +155,7 @@
 |148|[alepmedeiros/ExemploCRUDDelphi](https://github.com/alepmedeiros/ExemploCRUDDelphi)|-|6|2021-12-14|2021-07-17|
 |149|[e-delphi/FMXCodeEditor](https://github.com/e-delphi/FMXCodeEditor)|Firemonkey Code Editor|6|2021-10-08|2021-07-15|
 |150|[torokernel/torov](https://github.com/torokernel/torov)|ToroV allows user's applications to run as VMs and to communicate with the host OS by relying on a POSIX hypercall interface.|6|2022-01-11|2021-06-19|
-|151|[suiyunonghen/go_redisWrapper](https://github.com/suiyunonghen/go_redisWrapper)|go-redis wrapper sdk  delphi|6|2022-02-24|2021-06-19|
+|151|[suiyunonghen/go_redisWrapper](https://github.com/suiyunonghen/go_redisWrapper)|go-redis wrapper sdk  delphi|6|2022-03-29|2021-06-19|
 |152|[thatlr/Delphi-SupportUnits](https://github.com/thatlr/Delphi-SupportUnits)|Various units to deal with memory allocation|6|2021-10-01|2021-06-02|
 |153|[Lem-bit/GL2D_GUI](https://github.com/Lem-bit/GL2D_GUI)|Delphi OpenGL 2D GUI|6|2022-01-16|2021-05-25|
 |154|[dliocode/datastorage](https://github.com/dliocode/datastorage)|DataStorage foi projetado para ser uma biblioteca simples e com possibilidades de salvar quase todo o tipo de registro.|6|2022-01-05|2021-05-17|
@@ -186,7 +186,7 @@
 |179|[shenmin/nc-paslib](https://github.com/shenmin/nc-paslib)|A (non-GUI) base utilities library for Pascal (Delphi/Free Pascal/Lazarus)|5|2021-10-05|2021-10-03|
 |180|[marvin-mangold/S7-PLC_MySql_MariaDB](https://github.com/marvin-mangold/S7-PLC_MySql_MariaDB)|MySql and MariaDB communication FB for Siemens PLC S7-1200 and S7-1500 |5|2021-10-21|2021-09-27|
 |181|[eStreamSoftware/delphi-int128](https://github.com/eStreamSoftware/delphi-int128)|Delphi implementation of int128 data type using operator overloading|5|2022-03-18|2021-09-21|
-|182|[Zoomicon/READCOM_App](https://github.com/Zoomicon/READCOM_App)|READ-COM Project's Cross-Platform Application|5|2022-03-28|2021-09-15|
+|182|[Zoomicon/READCOM_App](https://github.com/Zoomicon/READCOM_App)|READ-COM Project's Cross-Platform Application|5|2022-03-29|2021-09-15|
 |183|[MHumm/AddIDETool](https://github.com/MHumm/AddIDETool)|Unit for adding some tool to Rad Studio IDE's tools menu|5|2021-10-03|2021-08-28|
 |184|[dondonondon/FMX-Template-Android-iOS-Sydney](https://github.com/dondonondon/FMX-Template-Android-iOS-Sydney)|Coming Soon Description|5|2022-01-29|2021-08-06|
 |185|[fpiette/Delphi-ImpersonateUser](https://github.com/fpiette/Delphi-ImpersonateUser)|Code to make a Delphi program act as another user. Demo provide to access a file owned by another user.|5|2022-02-08|2021-07-31|
