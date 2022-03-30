@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -30,44 +30,43 @@
 |23|[pedegie/stats](https://github.com/pedegie/stats)|-|3|2022-02-06|2021-07-27|
 |24|[ValhelsiaTeam/Valhelsia-Fabric](https://github.com/ValhelsiaTeam/Valhelsia-Fabric)|-|3|2021-10-26|2021-06-16|
 |25|[nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)|Nextflow plugin implementation skeleton|3|2022-03-22|2021-06-07|
-|26|[drpatelh/nf-core-fetchngs-old](https://github.com/drpatelh/nf-core-fetchngs-old)|See the main fork of this repository here >>>|3|2021-09-28|2021-06-03|
-|27|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
-|28|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|3|2022-03-21|2021-05-04|
-|29|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-02-13|2021-05-02|
-|30|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|3|2021-10-01|2021-04-12|
-|31|[lcsm-ecomp/LPF-2021.2](https://github.com/lcsm-ecomp/LPF-2021.2)|Respositório da Disciplina de Linguagem de Programação Funcional no semeste de 2021.2|2|2022-03-10|2022-02-16|
-|32|[aws-samples/serverless-groovy-demo](https://github.com/aws-samples/serverless-groovy-demo)|-|2|2022-03-21|2022-01-11|
-|33|[Nyariki/Terraform-Multipass-With-Cloud-Init](https://github.com/Nyariki/Terraform-Multipass-With-Cloud-Init)|-|2|2022-01-07|2022-01-04|
-|34|[Raghav-Pal/KatalonProject_Dec2021](https://github.com/Raghav-Pal/KatalonProject_Dec2021)|training project|2|2021-12-17|2021-12-17|
-|35|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
-|36|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2022-02-10|2021-12-02|
-|37|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
-|38|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2022-03-23|2021-11-13|
-|39|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2022-02-21|2021-11-01|
-|40|[vAndrija/kts-devops](https://github.com/vAndrija/kts-devops)|-|2|2022-01-29|2021-10-27|
-|41|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
-|42|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
-|43|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
-|44|[hoobs-org/smartthings](https://github.com/hoobs-org/smartthings)|Provides the API interface between HOOBS and SmartThings|2|2021-10-16|2021-10-16|
-|45|[pricefx/example-configuration](https://github.com/pricefx/example-configuration)|This repository provides an example of a configuration project for Pricefx partitions.  |2|2022-03-29|2021-09-29|
-|46|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
-|47|[kaimyn/Hubitat](https://github.com/kaimyn/Hubitat)|Hubitat device drivers for Tailwind support|2|2021-10-05|2021-09-10|
-|48|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|使用groovy实现的页面路由|2|2021-10-04|2021-09-04|
-|49|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-17|2021-08-30|
-|50|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-03-20|2021-08-28|
-|51|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
-|52|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2022-03-28|2021-08-19|
-|53|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-22|2021-08-11|
-|54|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-03-24|2021-08-05|
-|55|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
-|56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
-|57|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
-|58|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
-|59|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-28|2021-06-02|
-|60|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
-|61|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-28|2021-04-24|
-|62|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-25|2021-04-22|
-|63|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
+|26|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
+|27|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|3|2022-03-21|2021-05-04|
+|28|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-03-30|2021-05-02|
+|29|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|3|2021-10-01|2021-04-12|
+|30|[lcsm-ecomp/LPF-2021.2](https://github.com/lcsm-ecomp/LPF-2021.2)|Respositório da Disciplina de Linguagem de Programação Funcional no semeste de 2021.2|2|2022-03-10|2022-02-16|
+|31|[aws-samples/serverless-groovy-demo](https://github.com/aws-samples/serverless-groovy-demo)|-|2|2022-03-21|2022-01-11|
+|32|[Nyariki/Terraform-Multipass-With-Cloud-Init](https://github.com/Nyariki/Terraform-Multipass-With-Cloud-Init)|-|2|2022-01-07|2022-01-04|
+|33|[Raghav-Pal/KatalonProject_Dec2021](https://github.com/Raghav-Pal/KatalonProject_Dec2021)|training project|2|2021-12-17|2021-12-17|
+|34|[juriad/advent2021](https://github.com/juriad/advent2021)|Advent of Code 2021|2|2021-12-25|2021-12-02|
+|35|[nextflow-io/nf-sraql](https://github.com/nextflow-io/nf-sraql)|Tentative Nextflow plugin for AWS Athena and Google Bigquery|2|2022-02-10|2021-12-02|
+|36|[grueneis-spengergasse/sj2122-5xhif-bap-grueneis](https://github.com/grueneis-spengergasse/sj2122-5xhif-bap-grueneis)|-|2|2021-11-23|2021-11-23|
+|37|[gogogoghost/ZRoot-builder](https://github.com/gogogoghost/ZRoot-builder)|Easy to use root on Android. For calling system service and more.|2|2022-03-23|2021-11-13|
+|38|[andusch/ikea-shortcut-button-smartthings](https://github.com/andusch/ikea-shortcut-button-smartthings)|A device handler for Ikea Shortcut Button to work with the Smartthings Hub.|2|2022-02-21|2021-11-01|
+|39|[vAndrija/kts-devops](https://github.com/vAndrija/kts-devops)|-|2|2022-01-29|2021-10-27|
+|40|[robertfels/CPI-Groovy-IDE](https://github.com/robertfels/CPI-Groovy-IDE)|This is a sample configuration for SAP CPI - Groovy Development with IntelliJ|2|2021-11-03|2021-10-26|
+|41|[Octanium91/groovy-swagger-demo](https://github.com/Octanium91/groovy-swagger-demo)|Simple example use open api with swagger on groovy (java) :)|2|2021-10-24|2021-10-23|
+|42|[jeancbezerra/jenkins-examples](https://github.com/jeancbezerra/jenkins-examples)|-|2|2021-10-19|2021-10-19|
+|43|[hoobs-org/smartthings](https://github.com/hoobs-org/smartthings)|Provides the API interface between HOOBS and SmartThings|2|2021-10-16|2021-10-16|
+|44|[pricefx/example-configuration](https://github.com/pricefx/example-configuration)|This repository provides an example of a configuration project for Pricefx partitions.  |2|2022-03-29|2021-09-29|
+|45|[dcaton/Hubitat](https://github.com/dcaton/Hubitat)|Hubitat Elevation Apps and Drivers|2|2022-02-07|2021-09-19|
+|46|[kaimyn/Hubitat](https://github.com/kaimyn/Hubitat)|Hubitat device drivers for Tailwind support|2|2021-10-05|2021-09-10|
+|47|[dashingqi/DQRouter](https://github.com/dashingqi/DQRouter)|使用groovy实现的页面路由|2|2021-10-04|2021-09-04|
+|48|[skillz/skillz-example-sync-server](https://github.com/skillz/skillz-example-sync-server)|An example implementation of a Sync Game Server implemented using the Skillz Sync Server SDK|2|2022-02-17|2021-08-30|
+|49|[jakelehner/Hubitat](https://github.com/jakelehner/Hubitat)|-|2|2022-03-20|2021-08-28|
+|50|[obmaz/govee_dth](https://github.com/obmaz/govee_dth)|Govee DTH and Smartapp|2|2021-12-02|2021-08-24|
+|51|[TheJacksonLaboratory/nf-tenx](https://github.com/TheJacksonLaboratory/nf-tenx)|All 10x Genomics processing pipelines rolled into one containerized pipelines|2|2022-03-28|2021-08-19|
+|52|[csacca/addon-rtl_433-mqtt](https://github.com/csacca/addon-rtl_433-mqtt)|rtl_433 to MQTT hass.io addon|2|2022-03-22|2021-08-11|
+|53|[florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom)|-|2|2022-03-24|2021-08-05|
+|54|[epi2me-labs/wf-human-snp](https://github.com/epi2me-labs/wf-human-snp)|Small variant calling for human samples|2|2022-02-16|2021-07-27|
+|55|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
+|56|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
+|57|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
+|58|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-28|2021-06-02|
+|59|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
+|60|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-28|2021-04-24|
+|61|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|2|2022-03-25|2021-04-22|
+|62|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,56 +1,56 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Swift
-<sub>Updated: 2022-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |39196|2022-03-27|
-|2|[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps|29888|2022-03-25|
-|3|[dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|:iphone: Collaborative List of Open-Source iOS Apps|29750|2022-03-28|
-|4|[raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|Algorithms and data structures in Swift, with explanations!|26126|2022-03-17|
-|5|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21785|2022-03-08|
-|6|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|11017|2022-03-28|
+|1|[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |39206|2022-03-27|
+|2|[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps|29890|2022-03-25|
+|3|[dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|:iphone: Collaborative List of Open-Source iOS Apps|29760|2022-03-29|
+|4|[raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|Algorithms and data structures in Swift, with explanations!|26132|2022-03-17|
+|5|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21789|2022-03-08|
+|6|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|11018|2022-03-28|
 |7|[ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|A collection of awesome loading animations|10103|2022-03-04|
-|8|[krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)|CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift|8970|2022-03-24|
+|8|[krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)|CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift|8973|2022-03-24|
 |9|[olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)|A curated list of awesome ARKit projects and resources. Feel free to contribute!|7246|2022-02-19|
-|10|[WenchaoD/FSPagerView](https://github.com/WenchaoD/FSPagerView)|FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.|6400|2022-03-04|
+|10|[WenchaoD/FSPagerView](https://github.com/WenchaoD/FSPagerView)|FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.|6401|2022-03-04|
 |11|[ephread/Instructions](https://github.com/ephread/Instructions)|Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.|4816|2022-03-21|
-|12|[apple/swift-algorithms](https://github.com/apple/swift-algorithms)|Commonly used sequence and collection algorithms for Swift|4235|2022-03-28|
-|13|[soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)|Solutions to LeetCode by Swift|4214|2022-02-20|
-|14|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4127|2022-02-17|
-|15|[sparrowcode/SwiftUI](https://github.com/sparrowcode/SwiftUI)|Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.|3740|2022-03-27|
+|12|[apple/swift-algorithms](https://github.com/apple/swift-algorithms)|Commonly used sequence and collection algorithms for Swift|4238|2022-03-28|
+|13|[soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)|Solutions to LeetCode by Swift|4215|2022-02-20|
+|14|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4129|2022-02-17|
+|15|[sparrowcode/SwiftUI](https://github.com/sparrowcode/SwiftUI)|Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.|3741|2022-03-27|
 |16|[artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)|👨🏻‍💻 Examples of new iOS 11 APIs|3330|2021-12-31|
 |17|[avatsaev/touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat)|Stupid nyancat animation on your +$2k MacBook Pro's Touchbar|2932|2022-01-25|
 |18|[mattneub/Programming-iOS-Book-Examples](https://github.com/mattneub/Programming-iOS-Book-Examples)|Downloadable code examples for my books,  "iOS 14 Programming Fundamentals With Swift" (bk1) and "Programming iOS 14" (bk2).|2484|2021-10-14|
 |19|[suzuki-0000/SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift|2324|2022-03-27|
 |20|[twostraws/Unwrap](https://github.com/twostraws/Unwrap)|Learn Swift interactively on your iPhone.|2031|2022-02-19|
-|21|[devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark)|XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro|1842|2022-03-28|
-|22|[tilltue/TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker)|📷 multiple phassets picker for iOS lib. like a facebook|1798|2022-01-08|
-|23|[heckj/swiftui-notes](https://github.com/heckj/swiftui-notes)|content for Using Combine - notes on learning Combine with UIKit and SwiftUI|1493|2022-03-29|
+|21|[devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark)|XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro|1844|2022-03-28|
+|22|[tilltue/TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker)|📷 multiple phassets picker for iOS lib. like a facebook|1797|2022-01-08|
+|23|[heckj/swiftui-notes](https://github.com/heckj/swiftui-notes)|content for Using Combine - notes on learning Combine with UIKit and SwiftUI|1495|2022-03-30|
 |24|[michaelhenry/ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift)|An easy to use Image Viewer that is inspired by Facebook|1223|2022-03-18|
-|25|[RxSwiftCommunity/RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt)|A collection of Rx operators & tools not found in the core RxSwift distribution|1190|2021-10-15|
-|26|[freshOS/KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide)|⌨️ KeyboardLayoutGuide, back from when it didn't exist.|1123|2022-01-31|
-|27|[tailec/ios-architecture](https://github.com/tailec/ios-architecture)|A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others|1107|2022-01-24|
+|25|[RxSwiftCommunity/RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt)|A collection of Rx operators & tools not found in the core RxSwift distribution|1191|2021-10-15|
+|26|[freshOS/KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide)|⌨️ KeyboardLayoutGuide, back from when it didn't exist.|1124|2022-01-31|
+|27|[tailec/ios-architecture](https://github.com/tailec/ios-architecture)|A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others|1108|2022-01-24|
 |28|[shu223/watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler)|Code examples for new features of watchOS 2.|1067|2021-11-22|
-|29|[mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)|Black Friday Deals for macOS / iOS Software & Books|1004|2021-11-29|
-|30|[apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms)|Async Algorithms for Swift|938|2022-03-29|
+|29|[apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms)|Async Algorithms for Swift|1017|2022-03-30|
+|30|[mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)|Black Friday Deals for macOS / iOS Software & Books|1004|2021-11-29|
 |31|[AliSoftware/Dip](https://github.com/AliSoftware/Dip)|Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!|937|2021-10-18|
 |32|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|804|2022-03-27|
-|33|[google/swift-benchmark](https://github.com/google/swift-benchmark)|A swift library to benchmark code snippets.|744|2022-02-09|
-|34|[WeTransfer/Diagnostics](https://github.com/WeTransfer/Diagnostics)|Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.|717|2022-03-27|
-|35|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|653|2021-11-02|
-|36|[evgenyneu/SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics)|A collection of functions for statistical calculation written in Swift.|650|2022-02-08|
-|37|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|641|2022-03-29|
+|33|[google/swift-benchmark](https://github.com/google/swift-benchmark)|A swift library to benchmark code snippets.|745|2022-02-09|
+|34|[WeTransfer/Diagnostics](https://github.com/WeTransfer/Diagnostics)|Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.|718|2022-03-27|
+|35|[megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator)|Pretend you have the latest MacBook Pro!|654|2021-11-02|
+|36|[evgenyneu/SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics)|A collection of functions for statistical calculation written in Swift.|651|2022-02-08|
+|37|[apple/swift-docc](https://github.com/apple/swift-docc)|Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.|641|2022-03-30|
 |38|[malkouz/ListPlaceholder](https://github.com/malkouz/ListPlaceholder)|ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.|621|2022-03-24|
 |39|[Rightpoint/Anchorage](https://github.com/Rightpoint/Anchorage)|A collection of operators and utilities that simplify iOS layout code.|613|2021-12-06|
-|40|[SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)|The master list of repositories for the Swift Package Index.|607|2022-03-29|
-|41|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|595|2022-03-29|
+|40|[SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)|The master list of repositories for the Swift Package Index.|608|2022-03-30|
+|41|[jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer)|List of awesome iOS & Swift stuff!!|596|2022-03-29|
 |42|[vtourraine/AcknowList](https://github.com/vtourraine/AcknowList)|Acknowledgements screen displaying a list of licenses, for example from CocoaPods dependencies.|512|2022-01-25|
 |43|[chinsyo/awesome-swiftui](https://github.com/chinsyo/awesome-swiftui)|A curated list of awesome SwiftUI tutorials, libraries, videos and articles.|492|2022-03-14|
-|44|[jrasmusson/swift-arcade](https://github.com/jrasmusson/swift-arcade)|Collection of demos from the Swift Arcade YouTube channel|485|2022-03-25|
+|44|[jrasmusson/swift-arcade](https://github.com/jrasmusson/swift-arcade)|Collection of demos from the Swift Arcade YouTube channel|487|2022-03-25|
 |45|[SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs)|Complete SwiftUI Docs with Examples|445|2022-02-27|
-|46|[nemecek-filip/CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios)|Examples showing Compositional Layout, Diffable Data Sources and more!|442|2022-01-25|
+|46|[nemecek-filip/CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios)|Examples showing Compositional Layout, Diffable Data Sources and more!|443|2022-01-25|
 |47|[pointfreeco/swift-web](https://github.com/pointfreeco/swift-web)|🕸 A collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.|436|2022-03-10|
 |48|[cocoatoucher/Glide](https://github.com/cocoatoucher/Glide)|Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials|401|2022-01-30|
 |49|[pytorch/ios-demo-app](https://github.com/pytorch/ios-demo-app)|PyTorch iOS examples|339|2022-03-14|
@@ -63,7 +63,7 @@
 |56|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|255|2022-03-19|
 |57|[Weebly/OrderedSet](https://github.com/Weebly/OrderedSet)|A Swift collection of unique, ordered objects|249|2022-01-14|
 |58|[AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)|Canonical Examples for Using the AudioKit Framework|246|2022-03-13|
-|59|[Kyome22/menubar_runcat](https://github.com/Kyome22/menubar_runcat)|A cute Running Cat animation on your MacBook menubar.|244|2022-03-17|
+|59|[Kyome22/menubar_runcat](https://github.com/Kyome22/menubar_runcat)|A cute Running Cat animation on your MacBook menubar.|245|2022-03-17|
 |60|[TheAlgorithms/Swift](https://github.com/TheAlgorithms/Swift)|All Algorithms implemented in Swift|232|2021-10-16|
 |61|[spacenation/swiftui-shapes](https://github.com/spacenation/swiftui-shapes)|:rocket: Collection of SwiftUI shapes|225|2022-01-25|
 |62|[floriangbh/FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker)|FacebookImagePicker is Facebook album photo picker written in Swift.|224|2021-11-30|
@@ -75,15 +75,15 @@
 |68|[tib/practical-server-side-swift](https://github.com/tib/practical-server-side-swift)|Vapor 4 code samples for the Practical Server Side Swift book|186|2022-01-17|
 |69|[CypherPoet/100-days-of-swiftui-and-combine](https://github.com/CypherPoet/100-days-of-swiftui-and-combine)|Repo to follow along with the Hacking with Swift 100 Days of SwiftUI Course (https://www.hackingwithswift.com/100/swiftui)|182|2021-12-23|
 |70|[raywenderlich/comb-materials](https://github.com/raywenderlich/comb-materials)|The projects and the materials that accompany the Combine: Asynchronous Programming with Swift Book|174|2022-01-16|
-|71|[emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples)|MQTT Client Examples|171|2022-01-18|
+|71|[emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples)|MQTT Client Examples|172|2022-01-18|
 |72|[apple/swift-nio-examples](https://github.com/apple/swift-nio-examples)|examples of how to use swift-nio|171|2021-10-30|
 |73|[udacity/ios-nd-networking](https://github.com/udacity/ios-nd-networking)|Resources for Udacity's iOS Networking with Swift course.|160|2021-11-12|
 |74|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|2022-02-22|
-|75|[WeTransfer/WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI)|Containing all the shared CI logic for WeTransfer repositories|148|2022-03-24|
+|75|[WeTransfer/WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI)|Containing all the shared CI logic for WeTransfer repositories|149|2022-03-30|
 |76|[dreamsoftin/facebook_audience_network](https://github.com/dreamsoftin/facebook_audience_network)|Flutter Facebook Audience Network|145|2022-01-27|
 |77|[vanvoorden/TDD-Albums-II](https://github.com/vanvoorden/TDD-Albums-II)|TDD-Albums-II is a new hands-on tutorial for iOS engineers learning Test-Driven Development.|135|2021-11-07|
 |78|[raywenderlich/sui-materials](https://github.com/raywenderlich/sui-materials)|The projects and the materials that accompany the SwiftUI by Tutorials book|134|2022-02-06|
-|79|[planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios)|Social for humans, not algorithms.|132|2022-03-29|
+|79|[planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios)|Social for humans, not algorithms.|133|2022-03-30|
 |80|[udacity/ios-nd-swift-syntax](https://github.com/udacity/ios-nd-swift-syntax)|Resources for Udacity's Swift Syntax course.|132|2021-11-12|
 |81|[kharrison/albookcode](https://github.com/kharrison/albookcode)|Modern Auto Layout Book Sample Code And Solutions|119|2022-03-07|
 |82|[vadymmarkov/Fashion](https://github.com/vadymmarkov/Fashion)|:nail_care: Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way|115|2022-01-10|
@@ -95,18 +95,18 @@
 |88|[DreamingInBinary/Custom-ViewController-Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions)|A simple project which shows how to pull off custom view controller transitions.|87|2021-10-04|
 |89|[red5pro/streaming-ios](https://github.com/red5pro/streaming-ios)|This repository contains a simple project with a number of iOS examples that can be used for testing and reference.|86|2022-03-16|
 |90|[raywenderlich/mcon-materials](https://github.com/raywenderlich/mcon-materials)|The projects and materials that accompany the Modern Concurrency in Swift book|84|2022-02-08|
-|91|[owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App)|:notebook:|83|2021-12-22|
-|92|[raywenderlich/vpr-materials](https://github.com/raywenderlich/vpr-materials)|The projects and materials that accompany the Server-Side Swift with Vapor book|82|2021-12-24|
-|93|[raywenderlich/alg-materials](https://github.com/raywenderlich/alg-materials)|The projects and the materials that accompany the Data Structures & Algorithms in Swift book|82|2022-01-05|
+|91|[raywenderlich/alg-materials](https://github.com/raywenderlich/alg-materials)|The projects and the materials that accompany the Data Structures & Algorithms in Swift book|83|2022-01-05|
+|92|[owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App)|:notebook:|83|2021-12-22|
+|93|[raywenderlich/vpr-materials](https://github.com/raywenderlich/vpr-materials)|The projects and materials that accompany the Server-Side Swift with Vapor book|82|2021-12-24|
 |94|[ivanvorobei/SparrowKit](https://github.com/ivanvorobei/SparrowKit)|Collection of native Swift extensions and classes to boost development process.|77|2022-03-27|
-|95|[RefactoringGuru/design-patterns-swift](https://github.com/RefactoringGuru/design-patterns-swift)|Design Pattern Examples in Swift|76|2022-03-16|
+|95|[RefactoringGuru/design-patterns-swift](https://github.com/RefactoringGuru/design-patterns-swift)|Design Pattern Examples in Swift|77|2022-03-16|
 |96|[tunds/YouTubeResources](https://github.com/tunds/YouTubeResources)|A list of resources that are currently used within YouTube videos.|74|2022-03-12|
 |97|[dheerajghub/Instagram-Clone-in-SwiftUI](https://github.com/dheerajghub/Instagram-Clone-in-SwiftUI)|This is a series of learning experience in which i regularly try to create instagram clone using swiftUI and update it as well!|72|2022-01-30|
 |98|[mercari/ShimmerView](https://github.com/mercari/ShimmerView)|ShimmerView is a collection of APIs to construct Skelton View + Shimmering Effect type loading indicator on UIKit and SwiftUI.|69|2022-02-25|
 |99|[apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator)|A collection of packages and tooling for generating and consuming package feeds.|66|2022-02-18|
 |100|[Adis/swift-ssl-pin-examples](https://github.com/Adis/swift-ssl-pin-examples)|Pinning examples to follow a blog post|66|2021-12-19|
-|101|[hmlongco/Builder](https://github.com/hmlongco/Builder)|Demonstrates builder patterns for UI and networking.|64|2022-02-12|
-|102|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|63|2021-10-17|
+|101|[Goeun1001/ios-architectures](https://github.com/Goeun1001/ios-architectures)|A Collection of iOS architectures - MVC, MVP, MVVM, MVVM-C, ReactorKit, VIPER, Clean Architecture, RIBs; Repository Pattern, Rxflow, Swinject, Tuist, Xcodegen, Cocoapods, SPM, Carthage + Rome|65|2021-10-17|
+|102|[hmlongco/Builder](https://github.com/hmlongco/Builder)|Demonstrates builder patterns for UI and networking.|64|2022-02-12|
 |103|[CypherPoet/AnimatableGradients](https://github.com/CypherPoet/AnimatableGradients)|A collection of SwiftUI View Modifiers for creating animated color gradients.|63|2021-12-23|
 |104|[Hi-Rez/Flocking](https://github.com/Hi-Rez/Flocking)|An example showing how to use SwiftUI, Satin, Forge and Youi to simulate birds flocking via a compute particle system (n-body).|62|2022-01-13|
 |105|[AIwithSwift/PracticalAIwithSwift1stEd-Code](https://github.com/AIwithSwift/PracticalAIwithSwift1stEd-Code)|Code for the book's first edition.|55|2022-01-28|
@@ -156,13 +156,13 @@
 |149|[SmithZachary/SwiftInterviewProblems](https://github.com/SmithZachary/SwiftInterviewProblems)|Swift Interview Problems in Playground|24|2021-12-03|
 |150|[apatronl/YouTube](https://github.com/apatronl/YouTube)|Repo containing final code for my video tutorials available on YouTube. Check out my channel at youtube.com/alepatron|23|2022-03-13|
 |151|[fx-studio/BasiciOSTutorial](https://github.com/fx-studio/BasiciOSTutorial)|Series tutorial Basic iOS |23|2022-03-08|
-|152|[wireapp/wire-ios-share-engine](https://github.com/wireapp/wire-ios-share-engine)|Share extension framework for iOS|23|2022-03-16|
+|152|[wireapp/wire-ios-share-engine](https://github.com/wireapp/wire-ios-share-engine)|Share extension framework for iOS|23|2022-03-30|
 |153|[sekimura/lookup](https://github.com/sekimura/lookup)|:closed_book: macOS Dictonary lookup command line tool written in Swift|23|2022-02-17|
 |154|[editorscut/ec009-SwiftUIKickstart](https://github.com/editorscut/ec009-SwiftUIKickstart)|Code for the book SwiftUI Kickstart|22|2021-11-03|
 |155|[nitin-agam/fun-algorithms](https://github.com/nitin-agam/fun-algorithms)|Basic problems with solution which are mostly asked in the interviews.|22|2022-03-23|
-|156|[phatblat/RealmTaskTracker](https://github.com/phatblat/RealmTaskTracker)|Implementation of the MongoDB Realm iOS Swift tutorial |21|2022-01-30|
-|157|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|21|2021-12-26|
-|158|[ryanlintott/FrameUp](https://github.com/ryanlintott/FrameUp)|Reframing SwiftUI Views. A collection of tools to help with layout.|20|2022-02-10|
+|156|[ryanlintott/FrameUp](https://github.com/ryanlintott/FrameUp)|Reframing SwiftUI Views. A collection of tools to help with layout.|21|2022-02-10|
+|157|[phatblat/RealmTaskTracker](https://github.com/phatblat/RealmTaskTracker)|Implementation of the MongoDB Realm iOS Swift tutorial |21|2022-01-30|
+|158|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|21|2021-12-26|
 |159|[BinaryBirds/Sunlight](https://github.com/BinaryBirds/Sunlight)|Calculate dawn, dusk, golden and blue hour times by using various algorithms.|20|2022-02-17|
 |160|[mikeroyal/Xcode-Guide](https://github.com/mikeroyal/Xcode-Guide)|Xcode Guide.|19|2022-02-01|
 |161|[inamiy/FunAsync](https://github.com/inamiy/FunAsync)|⏳ Collection of Swift 5.5 async/await utility functions.|19|2021-12-21|
