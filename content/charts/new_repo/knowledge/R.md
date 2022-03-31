@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2883|2022-03-15|2021-10-08|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2885|2022-03-15|2021-10-08|
 |2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|187|2022-01-27|2021-08-31|
-|3|[tidymodels/vetiver-r](https://github.com/tidymodels/vetiver-r)|Version, share, deploy, and monitor models|76|2022-03-25|2021-07-09|
-|4|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|75|2022-03-29|2021-08-31|
+|3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|76|2022-03-29|2021-08-31|
+|4|[tidymodels/vetiver-r](https://github.com/tidymodels/vetiver-r)|Version, share, deploy, and monitor models|76|2022-03-25|2021-07-09|
 |5|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|51|2022-03-24|2021-09-29|
 |6|[StatsGary/MLDataR](https://github.com/StatsGary/MLDataR)|A collection of Machine Learning datasets for health care and beyond|35|2022-03-07|2021-12-29|
 |7|[matt-dray/dehex](https://github.com/matt-dray/dehex)|:art::eyes: R package: learn to assess a colour hex code by eye|28|2022-02-22|2021-08-01|
@@ -23,16 +23,16 @@
 |16|[jennschilling/books-2021](https://github.com/jennschilling/books-2021)|data visualization of books I read in 2021|14|2022-01-06|2021-11-13|
 |17|[wrathematics/DSE512](https://github.com/wrathematics/DSE512)|Course materials for: The Computer Science of Data Science.|12|2022-03-27|2022-01-23|
 |18|[tesselle/kairos](https://github.com/tesselle/kairos)|:hourglass: Analysis of Chronological Patterns from Archaeological Count Data|12|2022-03-12|2021-05-04|
-|19|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-03-27|2022-01-05|
-|20|[jackobailey/britpol](https://github.com/jackobailey/britpol)|Data and Functions for Studying British Politics|10|2022-02-07|2021-12-13|
-|21|[boyiguo1/Tutorial-Residential_Segregation_Score](https://github.com/boyiguo1/Tutorial-Residential_Segregation_Score)|A tutorial & reproducible example on calculating residential segregation indices with decennial US census data (Version 1-0-0)|10|2022-01-18|2021-11-27|
-|22|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|10|2022-03-03|2021-09-06|
+|19|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|11|2022-03-03|2021-09-06|
+|20|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-03-27|2022-01-05|
+|21|[jackobailey/britpol](https://github.com/jackobailey/britpol)|Data and Functions for Studying British Politics|10|2022-02-07|2021-12-13|
+|22|[boyiguo1/Tutorial-Residential_Segregation_Score](https://github.com/boyiguo1/Tutorial-Residential_Segregation_Score)|A tutorial & reproducible example on calculating residential segregation indices with decennial US census data (Version 1-0-0)|10|2022-01-18|2021-11-27|
 |23|[akgold/do4ds](https://github.com/akgold/do4ds)|A book on DevOps for Data Scientists with CRC Press.|10|2022-02-12|2021-05-10|
 |24|[cjabradshaw/AustralianSharkIncidentDatabase](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase)|The Australian Shark-Incident Database (ASID) for quantifying temporal and spatial patterns of shark-human conflict in Australia|9|2022-03-23|2021-09-20|
 |25|[YuLab-SMU/TDbook](https://github.com/YuLab-SMU/TDbook)|A Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees"|8|2022-03-03|2021-10-07|
 |26|[kmunger/TAD21](https://github.com/kmunger/TAD21)|Course Website for Text as Data, Fall 2021, PSU|8|2021-11-30|2021-08-24|
 |27|[ccrismancox/POLS602_Fall2021](https://github.com/ccrismancox/POLS602_Fall2021)|Course site for POLS 602 Fall 2021|8|2021-12-09|2021-08-22|
-|28|[ENV872/Environmental_Data_Analytics_2022](https://github.com/ENV872/Environmental_Data_Analytics_2022)|Course repository for Environmental Data Analytics (ENV 872L) at Duke University, spring 2022|7|2022-03-29|2022-01-04|
+|28|[ENV872/Environmental_Data_Analytics_2022](https://github.com/ENV872/Environmental_Data_Analytics_2022)|Course repository for Environmental Data Analytics (ENV 872L) at Duke University, spring 2022|7|2022-03-30|2022-01-04|
 |29|[tanho63/tantorials](https://github.com/tanho63/tantorials)|code for tutorials, office hours, and other help i've given|7|2022-03-02|2021-07-20|
 |30|[JBGruber/paperboy](https://github.com/JBGruber/paperboy)|A comprehensive (eventually) collection of webscraping scripts for news media sites |7|2022-03-25|2021-07-13|
 |31|[josephmbarnby/Bayes-Belief-Social-Inference-Model](https://github.com/josephmbarnby/Bayes-Belief-Social-Inference-Model)|Model tutorial and code for the Bayesian Belief social inference model reported in Barnby et al., (2020) & Barnby et al., (2022)|6|2022-03-23|2022-03-22|
@@ -53,7 +53,7 @@
 |46|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|5|2022-03-28|2021-08-20|
 |47|[andrija-djurovic/PDtoolkit](https://github.com/andrija-djurovic/PDtoolkit)|Collection of tools for probability of default (PD) rating model development and validation.|5|2022-03-15|2021-08-14|
 |48|[dynamic-R/RTM](https://github.com/dynamic-R/RTM)|Reaction Transport Modelling course|5|2022-03-26|2021-07-14|
-|49|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-30|2021-05-03|
+|49|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-03-31|2021-05-03|
 |50|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-02-11|2021-12-21|
 
 <div align="center">

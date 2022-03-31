@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|476|2022-03-24|2021-04-05|
+|1|[thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)|A collection of branches that transmit HTML over the wire.|477|2022-03-24|2021-04-05|
 |2|[stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)|A step-by-step guide on how to build your own authentication system in Rails from scratch.|163|2022-02-25|2021-11-09|
 |3|[kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton)|Skeleton project for an Asciidoctor-based e-book|50|2021-12-03|2021-12-01|
 |4|[tomstuart/utf-8-challenges](https://github.com/tomstuart/utf-8-challenges)|A short tutorial on UTF-8. Run with `ruby utf_8_challenges.rb`, unskip each test and make it pass!|36|2022-03-12|2022-03-04|
@@ -15,11 +15,12 @@
 |8|[codereport/7L7W-2022](https://github.com/codereport/7L7W-2022)|Repository for material related to the Programming Languages Virtual Meetup coverage of the Seven Languages in Seven Weeks book.|14|2022-03-24|2022-01-04|
 |9|[Laylo309/OOP-school-library](https://github.com/Laylo309/OOP-school-library)|Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.|13|2021-11-26|2021-11-15|
 |10|[dorahacksglobal/Hackathon-Playbook](https://github.com/dorahacksglobal/Hackathon-Playbook)|An open source hackathon playbook for hackathon organizers.|13|2022-02-18|2021-10-29|
-|11|[pmatsinopoulos/my_books](https://github.com/pmatsinopoulos/my_books)|List of my books. Free and not-Free|12|2022-01-14|2021-08-29|
-|12|[FestaLab/active_analysis](https://github.com/FestaLab/active_analysis)|A collection of active storage analyzers|12|2022-03-02|2021-06-11|
-|13|[umbrellio/resol](https://github.com/umbrellio/resol)|Gem for creating (any) object patterns|12|2022-03-04|2021-04-08|
-|14|[usmansbk/blog](https://github.com/usmansbk/blog)|Blog website that shows a list of posts and empower readers to interact with them by adding comments and liking posts. Built with Ruby on Rails|8|2021-11-09|2021-10-25|
-|15|[MatUrbanski/todo_api](https://github.com/MatUrbanski/todo_api)|JSON API for todo project built with Roda + Sequel. Source code for "Ruby on Roda" book.|8|2021-12-05|2021-04-18|
+|11|[hack-different/homebrew-jailbreak](https://github.com/hack-different/homebrew-jailbreak)|A collection of homebrew formula for the different thinking hacker|12|2022-02-12|2022-01-19|
+|12|[pmatsinopoulos/my_books](https://github.com/pmatsinopoulos/my_books)|List of my books. Free and not-Free|12|2022-01-14|2021-08-29|
+|13|[FestaLab/active_analysis](https://github.com/FestaLab/active_analysis)|A collection of active storage analyzers|12|2022-03-02|2021-06-11|
+|14|[umbrellio/resol](https://github.com/umbrellio/resol)|Gem for creating (any) object patterns|12|2022-03-04|2021-04-08|
+|15|[usmansbk/blog](https://github.com/usmansbk/blog)|Blog website that shows a list of posts and empower readers to interact with them by adding comments and liking posts. Built with Ruby on Rails|8|2021-11-09|2021-10-25|
+|16|[MatUrbanski/todo_api](https://github.com/MatUrbanski/todo_api)|JSON API for todo project built with Roda + Sequel. Source code for "Ruby on Roda" book.|8|2021-12-05|2021-04-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

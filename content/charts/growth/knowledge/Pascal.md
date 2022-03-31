@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|6|3|2022-03-29|
+|1|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|7|2|2022-03-29|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, FreeBASIC ...|15|0|2022-03-28|
 |3|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|7|0|2021-11-03|
 |4|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|83|0|2021-12-09|
 |5|[mlcdev/tinypascal](https://github.com/mlcdev/tinypascal)|advanced interpreter study|3|0|2022-01-20|
 |6|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|4|0|2021-12-21|
 |7|[flobernd/delphi-utils](https://github.com/flobernd/delphi-utils)|A collection of useful Delphi functions- and classes|14|0|2022-01-29|
-|8|[mvoltz/pascal_raylib](https://github.com/mvoltz/pascal_raylib)|Learning Pascal and Raylib|3|0|2022-02-11|
+|8|[mvoltz/pascal_raylib](https://github.com/mvoltz/pascal_raylib)|Learning Pascal and Raylib|2|0|2022-02-11|
 |9|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|0|2021-12-16|
 |10|[GuvaCode/Raylib-Examples](https://github.com/GuvaCode/Raylib-Examples)|Collection of raylib code examples - For learning the Pascal language with 2D and 3D games. |5|0|2021-11-09|
 |11|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|109|0|2022-02-15|
@@ -41,7 +41,7 @@
 |34|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
 |35|[jdehaan2014/fplox](https://github.com/jdehaan2014/fplox)|Free Pascal implementation of clox bytecode virtual machine from the book Crafting Interpreters|3|0|2022-01-31|
 |36|[ideasawakened/iaLib](https://github.com/ideasawakened/iaLib)|Shared code library - intended for use as a git submodule in other projects|13|0|2021-12-13|
-|37|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1305|0|2022-03-09|
+|37|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1306|0|2022-03-09|
 |38|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|5|0|2022-01-27|
 |39|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|60|0|2021-10-30|
 |40|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|0|2021-11-22|

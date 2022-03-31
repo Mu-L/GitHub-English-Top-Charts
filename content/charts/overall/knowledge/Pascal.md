@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1305|2022-03-09|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1306|2022-03-09|
 |2|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|127|2022-02-17|
 |3|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|109|2022-02-15|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|106|2022-03-27|
@@ -31,9 +31,9 @@
 |24|[AndrewEfimov/FMX-Android-API-Examples](https://github.com/AndrewEfimov/FMX-Android-API-Examples)|FMX: Android API Examples|9|2022-03-26|
 |25|[svanas/NFT](https://github.com/svanas/NFT)|NFT is a simple "Hello World" example project, demonstrating how to enumerate over the NFTs in a token contract and display the associated image for each and every one of them.|8|2022-01-31|
 |26|[TOSUN-Shanghai/TSMasterDemos](https://github.com/TOSUN-Shanghai/TSMasterDemos)|TSMaster Demo Program Source Code|8|2022-03-30|
-|27|[GuvaCode/Code-Librarian](https://github.com/GuvaCode/Code-Librarian)|The Code Librarian enables you to organize and access often-used code snippets.  It is an easy way to store the various code items that you use often, but do not fit into a general-purpose library uni ...|7|2022-02-20|
-|28|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|7|2021-11-03|
-|29|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|6|2022-03-29|
+|27|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|7|2022-03-29|
+|28|[GuvaCode/Code-Librarian](https://github.com/GuvaCode/Code-Librarian)|The Code Librarian enables you to organize and access often-used code snippets.  It is an easy way to store the various code items that you use often, but do not fit into a general-purpose library uni ...|7|2022-02-20|
+|29|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|7|2021-11-03|
 |30|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|6|2022-03-26|
 |31|[CleverComponents/OpenSSL-With-Memory-Bios](https://github.com/CleverComponents/OpenSSL-With-Memory-Bios)|A simple Delphi project to learn the TLS handshake implementation using OpenSSL 3.0 Memory BIOs.|5|2022-01-31|
 |32|[JensBorrisholt/Deep-Stack](https://github.com/JensBorrisholt/Deep-Stack)|How to use the Deep Stack server from Delphi|5|2021-12-12|
@@ -51,12 +51,12 @@
 |44|[laciba96/Delphi-DLL-As-Cpl](https://github.com/laciba96/Delphi-DLL-As-Cpl)|Some examples about how to create CPL files to old systems with Delphi.|3|2021-10-24|
 |45|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|2022-03-13|
 |46|[SkillBeatsAll/delphi-solutions](https://github.com/SkillBeatsAll/delphi-solutions)|Solutions for Questions in DBE IT Practical Textbook|3|2022-01-06|
-|47|[mvoltz/pascal_raylib](https://github.com/mvoltz/pascal_raylib)|Learning Pascal and Raylib|3|2022-02-11|
-|48|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2022-02-23|
-|49|[mlcdev/tinypascal](https://github.com/mlcdev/tinypascal)|advanced interpreter study|3|2022-01-20|
-|50|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
-|51|[seanpm2001/Learn-Pascal](https://github.com/seanpm2001/Learn-Pascal)|A repository for showcasing my knowledge of the Pascal programming language, and continuing to learn the language.|2|2021-11-13|
-|52|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2022-02-09|
+|47|[jval1972/DD_EXAMPLES](https://github.com/jval1972/DD_EXAMPLES)|DelphiDoom Examples|3|2022-02-23|
+|48|[mlcdev/tinypascal](https://github.com/mlcdev/tinypascal)|advanced interpreter study|3|2022-01-20|
+|49|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|2021-11-22|
+|50|[seanpm2001/Learn-Pascal](https://github.com/seanpm2001/Learn-Pascal)|A repository for showcasing my knowledge of the Pascal programming language, and continuing to learn the language.|2|2021-11-13|
+|51|[AkyrosXD/WinAnimatedWallpaper](https://github.com/AkyrosXD/WinAnimatedWallpaper)|Set GIF images as desktop wallpapers|2|2022-02-09|
+|52|[mvoltz/pascal_raylib](https://github.com/mvoltz/pascal_raylib)|Learning Pascal and Raylib|2|2022-02-11|
 |53|[sboydlns/univacemulators](https://github.com/sboydlns/univacemulators)|A collection of emulators for old Univac hardware|2|2022-03-22|
 |54|[DeveloppeurPascal/DelphiBooks-API-delphi](https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi)|Client library and sample use for Delphi-Books.com open data API|2|2021-12-16|
 |55|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|2022-03-09|
