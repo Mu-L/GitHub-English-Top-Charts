@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,10 +12,10 @@
 |5|[jamesdh/kompromat](https://github.com/jamesdh/kompromat)|Kompromat Yandex Reviewer|12|2022-03-13|2022-03-02|
 |6|[gradle/github-dependency-extractor](https://github.com/gradle/github-dependency-extractor)|Gradle Plugin for Extracting Dependency Information to send to GitHub|8|2022-01-15|2021-12-03|
 |7|[f1db/f1db](https://github.com/f1db/f1db)|Open Source Formula 1 Database|7|2022-03-28|2021-09-07|
-|8|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-03-25|2021-12-31|
-|9|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
-|10|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|6|2021-12-03|2021-09-25|
-|11|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|6|2022-03-06|2021-08-03|
+|8|[MarkZaidi/Universal-StarDist-for-QuPath](https://github.com/MarkZaidi/Universal-StarDist-for-QuPath)|Transfer trained StarDist models across imaging modalities|7|2022-03-06|2021-08-03|
+|9|[cnoke/startup](https://github.com/cnoke/startup)|-|6|2022-03-25|2021-12-31|
+|10|[autonomousapps/no-log4shell](https://github.com/autonomousapps/no-log4shell)|No log4shell|6|2021-12-17|2021-12-14|
+|11|[nonealexq/jmeter-allure-reporting](https://github.com/nonealexq/jmeter-allure-reporting)|Make JMeter report in Allure format|6|2021-12-03|2021-09-25|
 |12|[tfij/BrightCache](https://github.com/tfij/BrightCache)|-|6|2022-03-15|2021-05-05|
 |13|[frox-ag/dpm-json](https://github.com/frox-ag/dpm-json)|{🍕} JSON handling and manipulation tool for easy use in Camunda processes. {🍕}|5|2022-01-10|2021-07-26|
 |14|[epi2me-labs/wf-human-sv](https://github.com/epi2me-labs/wf-human-sv)|Structural variation workflow (and benchmarking) using lra and cuteSV|5|2022-03-03|2021-06-30|
@@ -33,7 +33,7 @@
 |26|[kkossev/SmartThings](https://github.com/kkossev/SmartThings)|SmartThings |3|2021-12-10|2021-05-08|
 |27|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|3|2022-03-21|2021-05-04|
 |28|[Radware/DefensePro-Sync](https://github.com/Radware/DefensePro-Sync)|Sync DefensePro Configuration & Baselines|3|2022-03-30|2021-05-02|
-|29|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|3|2022-03-25|2021-04-22|
+|29|[statisticsnorway/barn-barnevern-xsd](https://github.com/statisticsnorway/barn-barnevern-xsd)|Filbeskrivelse basert på xml schema definition brukt til å rapportere barnevernsdata fra kommuner til Statistisk sentralbyrå i forbindelse med KOSTRA, Kommune-Stat-Rapportering.|3|2022-04-01|2021-04-22|
 |30|[antleaf/notify-implementation](https://github.com/antleaf/notify-implementation)|-|3|2021-10-01|2021-04-12|
 |31|[lcsm-ecomp/LPF-2021.2](https://github.com/lcsm-ecomp/LPF-2021.2)|Respositório da Disciplina de Linguagem de Programação Funcional no semeste de 2021.2|2|2022-03-10|2022-02-16|
 |32|[aws-samples/serverless-groovy-demo](https://github.com/aws-samples/serverless-groovy-demo)|-|2|2022-03-21|2022-01-11|
@@ -63,7 +63,7 @@
 |56|[fastjengine/fastj-groovy-template](https://github.com/fastjengine/fastj-groovy-template)|A Groovy-based template project for the FastJ Game Engine.|2|2021-12-21|2021-07-13|
 |57|[redhat-appdev-practice/openapi-quarkus-archetype](https://github.com/redhat-appdev-practice/openapi-quarkus-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in Quarkus|2|2021-12-25|2021-07-04|
 |58|[redhat-appdev-practice/openapi-springboot-archetype](https://github.com/redhat-appdev-practice/openapi-springboot-archetype)| A Maven Archetype for bootstrapping an OpenAPI Contract-Driven application in SpringBoot|2|2021-12-25|2021-07-02|
-|59|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-03-31|2021-06-02|
+|59|[mkrzywanski/game-promotion-notifier](https://github.com/mkrzywanski/game-promotion-notifier)|Service for notifications when interesting game promotions appear|2|2022-04-01|2021-06-02|
 |60|[reality/klarigi](https://github.com/reality/klarigi)|-|2|2022-03-02|2021-05-26|
 |61|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|2|2022-03-28|2021-04-24|
 |62|[majinghe/jenkins-operator](https://github.com/majinghe/jenkins-operator)|jenkins operator files|2|2021-12-29|2021-04-21|

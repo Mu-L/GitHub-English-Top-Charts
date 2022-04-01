@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Go
-<sub>Updated: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1499|2022-03-14|2021-07-15|
-|2|[italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote)|A list of remote-friendly or full-remote companies that targets Italian talents.|954|2022-03-31|2022-01-24|
-|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|934|2022-03-29|2021-12-04|
+|1|[sniptt-official/ots](https://github.com/sniptt-official/ots)|🔐 Share end-to-end encrypted secrets with others via a one-time URL|1500|2022-03-14|2021-07-15|
+|2|[italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote)|A list of remote-friendly or full-remote companies that targets Italian talents.|966|2022-04-01|2022-01-24|
+|3|[mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)|A curated list of awesome articles and resources for learning and practicing Go and its related technologies.|938|2022-03-29|2021-12-04|
 |4|[segmentio/asm](https://github.com/segmentio/asm)|Go library providing algorithms optimized to leverage the characteristics of modern CPUs|678|2022-02-01|2021-04-13|
-|5|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more|431|2022-03-30|2021-04-27|
-|6|[zyedidia/generic](https://github.com/zyedidia/generic)|A collection of generic data structures written in Go.|378|2022-03-28|2021-12-15|
+|5|[edoardottt/cariddi](https://github.com/edoardottt/cariddi)|Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more|432|2022-03-30|2021-04-27|
+|6|[zyedidia/generic](https://github.com/zyedidia/generic)|A collection of generic data structures written in Go.|379|2022-03-28|2021-12-15|
 |7|[moabukar/Everything-Tech](https://github.com/moabukar/Everything-Tech)|A collection of online resources to help you on your Tech journey.|372|2022-03-05|2021-10-26|
 |8|[dtm-labs/dtf](https://github.com/dtm-labs/dtf)|大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问 https://github.com/dtm-labs/dtm 。中间给大家带来的不便，敬请谅解！|266|2022-03-29|2022-03-04|
 |9|[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)|Collection of mini-programs demonstrating Kubernetes client-go usage.|209|2022-03-30|2021-12-25|
@@ -22,7 +22,7 @@
 |15|[x-team/community-coding-challenges](https://github.com/x-team/community-coding-challenges)|A repository for the X-Team community to collaborate and learn solutions to most coding challenges to help prepare for their interviews.|115|2021-11-14|2021-08-06|
 |16|[0xTeles/jsleak](https://github.com/0xTeles/jsleak)|a Go code to detect leaks in JS files via regex patterns|113|2021-10-20|2021-08-01|
 |17|[AhmadRafiee/Kubernetes_training_with_DockerMe](https://github.com/AhmadRafiee/Kubernetes_training_with_DockerMe)|The tools and sample needed to learn the Docker|99|2022-03-14|2021-09-03|
-|18|[oguzhankiyar/here-we-go](https://github.com/oguzhankiyar/here-we-go)|Contains hundreds of samples for learning Go.|91|2022-01-24|2021-10-05|
+|18|[oguzhankiyar/here-we-go](https://github.com/oguzhankiyar/here-we-go)|Contains hundreds of samples for learning Go.|92|2022-01-24|2021-10-05|
 |19|[jonegil/gui-with-gio](https://github.com/jonegil/gui-with-gio)|Tutorials for Gio, the GUI framework in Go.|80|2021-12-21|2021-06-26|
 |20|[abishekmuthian/hntoebook](https://github.com/abishekmuthian/hntoebook)|HN To E-book|75|2022-02-28|2022-02-16|
 |21|[imbue11235/humanize](https://github.com/imbue11235/humanize)|A collection of utility functions, with built-in localization, for humanizing various types of data input|73|2021-12-19|2021-08-19|
