@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout)|Popular layouts and patterns made with Tailwind CSS|58|2022-03-16|2021-10-25|
 |7|[nyancodeid/quotes](https://github.com/nyancodeid/quotes)|This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021|58|2022-01-10|2021-10-03|
 |8|[MakeContributions/ideahub](https://github.com/MakeContributions/ideahub)|A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀|47|2022-03-24|2021-04-07|
-|9|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|34|2022-03-21|2021-09-24|
-|10|[adrianmanchev/trading-charts](https://github.com/adrianmanchev/trading-charts)|Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.|29|2022-03-09|2022-01-31|
+|9|[IlIllII/collecobrary](https://github.com/IlIllII/collecobrary)|Making online learning fun and easy.|35|2022-03-21|2021-09-24|
+|10|[adrianmanchev/trading-charts](https://github.com/adrianmanchev/trading-charts)|Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.|30|2022-03-09|2022-01-31|
 |11|[DrakeAxelrod/webdevelopment-project](https://github.com/DrakeAxelrod/webdevelopment-project)|Web development course school project|28|2021-12-14|2021-11-02|
 |12|[MaxRobinsonTheGreat/NeuralPatterns](https://github.com/MaxRobinsonTheGreat/NeuralPatterns)|Source code for Neural Patterns|25|2021-12-12|2021-08-02|
 |13|[Programming-Addicts/BookSplore](https://github.com/Programming-Addicts/BookSplore)|A place for you to explore books with your friends!|24|2021-10-23|2021-06-12|
@@ -31,10 +31,10 @@
 |24|[mazdakdev/Bookito](https://github.com/mazdakdev/Bookito)|A personal book library   All the books you want in one place|9|2022-02-10|2021-12-08|
 |25|[apoorvdwi/HacktoberFest-OpenSource-2021](https://github.com/apoorvdwi/HacktoberFest-OpenSource-2021)|A starter Project for HacktoberFest 2021. Read the Description to know how to contribute|9|2021-10-29|2021-10-01|
 |26|[LauraWebdev/nft-statements](https://github.com/LauraWebdev/nft-statements)|A list of companies and individuals and their stance on NFTs|8|2022-02-07|2022-01-01|
-|27|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|8|2022-04-01|2021-11-12|
+|27|[qikify/polaris-vue](https://github.com/qikify/polaris-vue)|A collection of interface elements that can be reused across the Shopify system.|8|2022-04-02|2021-11-12|
 |28|[sawanm9000/Tailwind-CSS-Cheatsheet](https://github.com/sawanm9000/Tailwind-CSS-Cheatsheet)|Tailwind CSS Cheatsheet (WIP)|8|2022-03-31|2021-09-15|
 |29|[Talentrator/Prograchallenges.com](https://github.com/Talentrator/Prograchallenges.com)|Learn Programming! Start from zero, become a hero, and finally get a job!|8|2022-02-12|2021-09-12|
-|30|[productdevbook/productdevbook.com](https://github.com/productdevbook/productdevbook.com)|There are many developers who develop the best product and cannot make themselves heard. They will now be able to announce them and the best libraries to developers. (soon)- twitter productdevbook|7|2022-04-01|2021-11-01|
+|30|[productdevbook/productdevbook.com](https://github.com/productdevbook/productdevbook.com)|There are many developers who develop the best product and cannot make themselves heard. They will now be able to announce them and the best libraries to developers. (soon)- twitter productdevbook|7|2022-04-02|2021-11-01|
 |31|[imlautaro/supagram](https://github.com/imlautaro/supagram)|An open social network where anyone can share their ideas and opinions.|7|2021-10-13|2021-10-01|
 |32|[catherineisonline/frontend-mentor-challenge-solutions](https://github.com/catherineisonline/frontend-mentor-challenge-solutions)|Here is the collection of all my Frontend Mentor challenge solutions. You can find links to their repositories, live demos and direct links to challenges on Frontend Mentor in case you want to try the ...|6|2022-03-16|2022-02-03|
 |33|[OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook)|Engineering Effectiveness Handbook|6|2022-03-30|2022-02-02|
@@ -49,7 +49,7 @@
 |42|[muhimasri/vue-editable-table-example](https://github.com/muhimasri/vue-editable-table-example)|Example to how to create an editable dynamic table with Bootstrap Vue|5|2022-02-15|2021-05-31|
 |43|[CrazyChild18/atom](https://github.com/CrazyChild18/atom)|This is the bdic graduation design course group project|4|2022-03-19|2022-03-02|
 |44|[biruk2000/mini-project](https://github.com/biruk2000/mini-project)|this project is for software tools and practice course|4|2022-02-07|2022-02-03|
-|45|[XeryYue/kanno_blog](https://github.com/XeryYue/kanno_blog)|A blog that records my knowledge learning|4|2022-03-30|2022-01-19|
+|45|[XeryYue/kanno_blog](https://github.com/XeryYue/kanno_blog)|A blog that records my knowledge learning|4|2022-04-02|2022-01-19|
 |46|[seosmmbusiness/NuxtJs-SwiperJs7](https://github.com/seosmmbusiness/NuxtJs-SwiperJs7)|Example how to make Nuxt Js work with Swiper JS v.7|4|2021-11-16|2021-11-16|
 |47|[bcakmakoglu/vue-flow-docs](https://github.com/bcakmakoglu/vue-flow-docs)|🌊 Vue Flow Docs & Examples. Built with Nuxt3|4|2022-03-17|2021-11-15|
 |48|[danielkellyio/vue-cli-to-vite-migration-example](https://github.com/danielkellyio/vue-cli-to-vite-migration-example)|A repo demonstrating how to migrate your Vue projects from Vue CLI to Vite|4|2021-10-29|2021-10-29|

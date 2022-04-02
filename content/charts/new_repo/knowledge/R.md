@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2890|2022-03-15|2021-10-08|
+|1|[rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)|Statistical Rethinking course winter 2022|2896|2022-03-15|2021-10-08|
 |2|[rmcelreath/causal_salad_2021](https://github.com/rmcelreath/causal_salad_2021)|One day course on causal inference, MPI-EVA 9 September 2021|187|2022-01-27|2021-08-31|
 |3|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|77|2022-03-29|2021-08-31|
 |4|[tidymodels/vetiver-r](https://github.com/tidymodels/vetiver-r)|Version, share, deploy, and monitor models|77|2022-03-25|2021-07-09|
@@ -24,7 +24,7 @@
 |17|[wrathematics/DSE512](https://github.com/wrathematics/DSE512)|Course materials for: The Computer Science of Data Science.|12|2022-03-27|2022-01-23|
 |18|[tesselle/kairos](https://github.com/tesselle/kairos)|:hourglass: Analysis of Chronological Patterns from Archaeological Count Data|12|2022-03-12|2021-05-04|
 |19|[tlverse/causalglm](https://github.com/tlverse/causalglm)|Interpretable and model-robust causal inference for heterogeneous treatment effects using generalized linear working models with targeted machine-learning|11|2022-03-03|2021-09-06|
-|20|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-03-27|2022-01-05|
+|20|[MI2-Education/2022L-ExploratoryDataAnalysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)|Introduction to exploratory data analysis course for Mathematics and data analysis studies in Spring 2021/2022 |10|2022-04-02|2022-01-05|
 |21|[jackobailey/britpol](https://github.com/jackobailey/britpol)|Data and Functions for Studying British Politics|10|2022-02-07|2021-12-13|
 |22|[boyiguo1/Tutorial-Residential_Segregation_Score](https://github.com/boyiguo1/Tutorial-Residential_Segregation_Score)|A tutorial & reproducible example on calculating residential segregation indices with decennial US census data (Version 1-0-0)|10|2022-01-18|2021-11-27|
 |23|[akgold/do4ds](https://github.com/akgold/do4ds)|A book on DevOps for Data Scientists with CRC Press.|10|2022-02-12|2021-05-10|
@@ -53,7 +53,7 @@
 |46|[DataScienceScotland/vedar](https://github.com/DataScienceScotland/vedar)|A collection of functions to enable the import and analysis of the outputs of Veda TIMES runs in R.|5|2022-03-28|2021-08-20|
 |47|[andrija-djurovic/PDtoolkit](https://github.com/andrija-djurovic/PDtoolkit)|Collection of tools for probability of default (PD) rating model development and validation.|5|2022-03-15|2021-08-14|
 |48|[dynamic-R/RTM](https://github.com/dynamic-R/RTM)|Reaction Transport Modelling course|5|2022-03-26|2021-07-14|
-|49|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-04-01|2021-05-03|
+|49|[mlr-org/mlr3tuningspaces](https://github.com/mlr-org/mlr3tuningspaces)|Tuning spaces for mlr3 learners.|5|2022-04-02|2021-05-03|
 |50|[agricolamz/lingglosses](https://github.com/agricolamz/lingglosses)|R package that helps to render interlinear glossed linguistic examples in html rmarkdown documents and then semi-automatically compiles the glosses list|4|2022-02-11|2021-12-21|
 
 <div align="center">
