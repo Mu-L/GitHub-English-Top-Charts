@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Perl
-<sub>Updated: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15441|2022-03-08|
+|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15446|2022-03-08|
 |2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13807|2022-04-01|
-|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12750|2022-03-12|
-|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7458|2022-04-04|
-|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5658|2022-03-02|
+|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12754|2022-03-12|
+|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7460|2022-04-04|
+|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5661|2022-03-02|
 |6|[Jack000/Expose](https://github.com/Jack000/Expose)|A simple static site generator for photoessays|4261|2022-03-16|
-|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3992|2022-03-25|
-|8|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2750|2022-03-04|
+|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3991|2022-03-25|
+|8|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2749|2022-03-04|
 |9|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2606|2022-03-31|
 |10|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2460|2022-01-04|
 |11|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|2390|2022-02-27|
@@ -144,67 +144,67 @@
 |137|[wofr06/lesspipe](https://github.com/wofr06/lesspipe)|lesspipe - display more with less|230|2022-03-31|
 |138|[os-autoinst/openQA](https://github.com/os-autoinst/openQA)|openQA web-frontend, scheduler and tools.|229|2022-04-01|
 |139|[ocpi/ocpi](https://github.com/ocpi/ocpi)|The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point informati ...|226|2022-04-01|
-|140|[petdance/bobby-tables](https://github.com/petdance/bobby-tables)|bobby-tables.com, the site for preventing SQL injections|226|2021-10-04|
-|141|[evernote/serge](https://github.com/evernote/serge)|Continuous localization platform|224|2022-01-07|
-|142|[philsmd/7z2hashcat](https://github.com/philsmd/7z2hashcat)|extract information from password-protected .7z archives (and .sfx files) such that you can crack these "hashes" with hashcat|222|2022-02-09|
-|143|[erlang/eep](https://github.com/erlang/eep)|Erlang Enhancement Proposals|220|2022-03-28|
-|144|[hamishforbes/lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils)|Utility functions for working with IP addresses in Openresty|219|2021-11-17|
-|145|[fusioninventory/fusioninventory-agent](https://github.com/fusioninventory/fusioninventory-agent)|FusionInventory Agent|219|2022-03-30|
-|146|[jwilk/perl-friday](https://github.com/jwilk/perl-friday)|Perl code that is syntactically correct only on Fridays|215|2022-02-17|
-|147|[carltonnorthern/nickname-and-diminutive-names-lookup](https://github.com/carltonnorthern/nickname-and-diminutive-names-lookup)|A CSV file that containing US given names (first name) and their associated nicknames or diminutive names.|214|2022-02-16|
-|148|[fxcoudert/gfortran-for-macOS](https://github.com/fxcoudert/gfortran-for-macOS)|GNU Fortran (and GCC) compilers for macOS|213|2021-12-18|
-|149|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|211|2022-04-03|
-|150|[dataegret/pgcompacttable](https://github.com/dataegret/pgcompacttable)|-|210|2021-11-02|
-|151|[NBISweden/AGAT](https://github.com/NBISweden/AGAT)|Another Gtf/Gff Analysis Toolkit|206|2022-04-02|
-|152|[mojolicious/minion](https://github.com/mojolicious/minion)|:octopus: Perl job queue|206|2022-03-25|
-|153|[mla/pg_sample](https://github.com/mla/pg_sample)|PostgreSQL utility for creating a small, sample database from a larger one|204|2022-01-10|
-|154|[fink/fink](https://github.com/fink/fink)|The fink package manager|202|2022-03-14|
-|155|[dave-theunsub/clamtk](https://github.com/dave-theunsub/clamtk)|An easy to use, light-weight, on-demand virus scanner for Linux systems|201|2022-04-02|
-|156|[liuhuigmail/GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository)|A bug repository that keeps growing|198|2022-04-03|
-|157|[maxmind/MaxMind-DB](https://github.com/maxmind/MaxMind-DB)|Spec and test data for the MaxMind DB file format|197|2022-04-01|
-|158|[naoya/md2inao](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|197|2022-03-03|
-|159|[cvicente/Netdot](https://github.com/cvicente/Netdot)|Network Documentation Tool|197|2022-02-11|
-|160|[henshin/filebuster](https://github.com/henshin/filebuster)|An extremely fast and flexible web fuzzer|196|2022-02-03|
-|161|[DmitryKoterov/dklab_realsync](https://github.com/DmitryKoterov/dklab_realsync)|dkLab RealSync: replicate developer's files over SSH in realtime|196|2021-11-18|
-|162|[file-icons/icons](https://github.com/file-icons/icons)|Source files for the custom icon-font used by the File-Icons package.|193|2021-10-15|
-|163|[anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)|Simple Dilbert themed system info-fetching tool|192|2022-03-13|
-|164|[abh/ntppool](https://github.com/abh/ntppool)|NTP Pool Project|192|2022-03-01|
-|165|[carnager/clerk](https://github.com/carnager/clerk)|clerk - mpd client, based on rofi/fzf|191|2022-02-23|
-|166|[oushujun/EDTA](https://github.com/oushujun/EDTA)|Extensive de-novo TE Annotator |190|2022-02-01|
-|167|[fastmail/towncrier](https://github.com/fastmail/towncrier)|A status dashboard|188|2021-12-02|
-|168|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|187|2022-04-02|
-|169|[latex2html/latex2html](https://github.com/latex2html/latex2html)|Converts LaTeX documents to HTML|184|2022-02-19|
-|170|[briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|183|2022-02-02|
-|171|[trizen/pipe-viewer](https://github.com/trizen/pipe-viewer)|A lightweight YouTube client for Linux (fork of straw-viewer)|181|2022-03-29|
-|172|[manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats)|A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records|181|2021-10-29|
-|173|[rjbs/Dist-Zilla](https://github.com/rjbs/Dist-Zilla)|scary tools for building CPAN distributions|180|2022-02-26|
-|174|[sympa-community/sympa](https://github.com/sympa-community/sympa)|Sympa, Mailing List Management Software|178|2022-04-01|
-|175|[squentin/gmusicbrowser](https://github.com/squentin/gmusicbrowser)|jukebox for large collections of music|178|2022-03-02|
-|176|[acl-org/ACLPUB](https://github.com/acl-org/ACLPUB)|The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).|176|2022-03-09|
-|177|[jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan)|Perl script for waking up computers via Wake-On-LAN magic packets|176|2021-12-05|
-|178|[ChordPro/chordpro](https://github.com/ChordPro/chordpro)|Reference implementation of the ChordPro standard for musical lead sheets.|175|2022-04-03|
-|179|[spencertipping/caterwaul](https://github.com/spencertipping/caterwaul)|A Javascript-to-Javascript compiler|175|2021-12-30|
-|180|[WolverineFan/YNABLinuxInstall](https://github.com/WolverineFan/YNABLinuxInstall)|Install script for YNAB 4 on Linux|174|2021-12-26|
-|181|[ldidry/lstu](https://github.com/ldidry/lstu)|Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu|171|2022-03-31|
-|182|[msimerson/NicTool](https://github.com/msimerson/NicTool)|NicTool: a DNS management solution|169|2022-03-31|
-|183|[teodesian/Selenium-Remote-Driver](https://github.com/teodesian/Selenium-Remote-Driver)|Perl Bindings to the Selenium Webdriver server|169|2021-12-04|
-|184|[libwww-perl/libwww-perl](https://github.com/libwww-perl/libwww-perl)|The libwww-perl collection is a set of Perl modules which provides a simple and consistent application programming interface to the World-Wide Web. The main focus of the library is to provide classes  ...|168|2022-04-03|
-|185|[Pepelux/sippts](https://github.com/Pepelux/sippts)|Set of tools to audit SIP based VoIP Systems|166|2022-01-14|
-|186|[lvc/abi-tracker](https://github.com/lvc/abi-tracker)|A tool to visualize ABI changes timeline of a C/C++ software library|165|2021-10-04|
-|187|[Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)|BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes|164|2022-01-28|
-|188|[STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion)|STAR-Fusion codebase|162|2022-02-26|
-|189|[lvc/pkgdiff](https://github.com/lvc/pkgdiff)|A tool for visualizing changes in Linux software packages|162|2021-10-07|
-|190|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|161|2022-04-03|
-|191|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|161|2022-01-21|
-|192|[pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl)|A community AWS SDK for Perl Programmers|161|2021-11-07|
-|193|[qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr)|Qwerty keyboard layout with French accents|160|2022-04-01|
-|194|[gregkh/bti](https://github.com/gregkh/bti)|bash twitter ididocy|160|2021-11-22|
-|195|[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)|-|158|2022-03-14|
-|196|[BitMOE/PortableHexo](https://github.com/BitMOE/PortableHexo)|A Portable version of Hexo|156|2022-02-12|
-|197|[sbosio/rla-es](https://github.com/sbosio/rla-es)|Recursos lingüísticos abiertos del español|156|2022-04-02|
-|198|[Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic)|The leading static analyzer for Perl.  Configurable, extensible, powerful.|156|2022-01-26|
-|199|[schweikert/postgrey](https://github.com/schweikert/postgrey)|Postfix Greylisting Policy-Daemon|156|2022-01-22|
-|200|[mogaal/sendemail](https://github.com/mogaal/sendemail)|lightweight, command line SMTP email client|156|2022-03-01|
+|140|[evernote/serge](https://github.com/evernote/serge)|Continuous localization platform|224|2022-01-07|
+|141|[philsmd/7z2hashcat](https://github.com/philsmd/7z2hashcat)|extract information from password-protected .7z archives (and .sfx files) such that you can crack these "hashes" with hashcat|222|2022-02-09|
+|142|[erlang/eep](https://github.com/erlang/eep)|Erlang Enhancement Proposals|220|2022-03-28|
+|143|[hamishforbes/lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils)|Utility functions for working with IP addresses in Openresty|219|2021-11-17|
+|144|[fusioninventory/fusioninventory-agent](https://github.com/fusioninventory/fusioninventory-agent)|FusionInventory Agent|219|2022-03-30|
+|145|[jwilk/perl-friday](https://github.com/jwilk/perl-friday)|Perl code that is syntactically correct only on Fridays|215|2022-02-17|
+|146|[carltonnorthern/nickname-and-diminutive-names-lookup](https://github.com/carltonnorthern/nickname-and-diminutive-names-lookup)|A CSV file that containing US given names (first name) and their associated nicknames or diminutive names.|214|2022-02-16|
+|147|[fxcoudert/gfortran-for-macOS](https://github.com/fxcoudert/gfortran-for-macOS)|GNU Fortran (and GCC) compilers for macOS|213|2021-12-18|
+|148|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|211|2022-04-03|
+|149|[dataegret/pgcompacttable](https://github.com/dataegret/pgcompacttable)|-|210|2021-11-02|
+|150|[NBISweden/AGAT](https://github.com/NBISweden/AGAT)|Another Gtf/Gff Analysis Toolkit|206|2022-04-02|
+|151|[mojolicious/minion](https://github.com/mojolicious/minion)|:octopus: Perl job queue|206|2022-03-25|
+|152|[mla/pg_sample](https://github.com/mla/pg_sample)|PostgreSQL utility for creating a small, sample database from a larger one|204|2022-01-10|
+|153|[fink/fink](https://github.com/fink/fink)|The fink package manager|202|2022-03-14|
+|154|[dave-theunsub/clamtk](https://github.com/dave-theunsub/clamtk)|An easy to use, light-weight, on-demand virus scanner for Linux systems|201|2022-04-02|
+|155|[liuhuigmail/GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository)|A bug repository that keeps growing|198|2022-04-03|
+|156|[maxmind/MaxMind-DB](https://github.com/maxmind/MaxMind-DB)|Spec and test data for the MaxMind DB file format|197|2022-04-01|
+|157|[naoya/md2inao](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|197|2022-03-03|
+|158|[cvicente/Netdot](https://github.com/cvicente/Netdot)|Network Documentation Tool|197|2022-02-11|
+|159|[henshin/filebuster](https://github.com/henshin/filebuster)|An extremely fast and flexible web fuzzer|196|2022-02-03|
+|160|[DmitryKoterov/dklab_realsync](https://github.com/DmitryKoterov/dklab_realsync)|dkLab RealSync: replicate developer's files over SSH in realtime|196|2021-11-18|
+|161|[file-icons/icons](https://github.com/file-icons/icons)|Source files for the custom icon-font used by the File-Icons package.|193|2021-10-15|
+|162|[anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)|Simple Dilbert themed system info-fetching tool|192|2022-03-13|
+|163|[abh/ntppool](https://github.com/abh/ntppool)|NTP Pool Project|192|2022-03-01|
+|164|[carnager/clerk](https://github.com/carnager/clerk)|clerk - mpd client, based on rofi/fzf|191|2022-02-23|
+|165|[oushujun/EDTA](https://github.com/oushujun/EDTA)|Extensive de-novo TE Annotator |190|2022-02-01|
+|166|[fastmail/towncrier](https://github.com/fastmail/towncrier)|A status dashboard|188|2021-12-02|
+|167|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|187|2022-04-02|
+|168|[latex2html/latex2html](https://github.com/latex2html/latex2html)|Converts LaTeX documents to HTML|184|2022-02-19|
+|169|[briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|183|2022-02-02|
+|170|[trizen/pipe-viewer](https://github.com/trizen/pipe-viewer)|A lightweight YouTube client for Linux (fork of straw-viewer)|181|2022-03-29|
+|171|[manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats)|A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records|181|2021-10-29|
+|172|[rjbs/Dist-Zilla](https://github.com/rjbs/Dist-Zilla)|scary tools for building CPAN distributions|180|2022-02-26|
+|173|[sympa-community/sympa](https://github.com/sympa-community/sympa)|Sympa, Mailing List Management Software|178|2022-04-01|
+|174|[squentin/gmusicbrowser](https://github.com/squentin/gmusicbrowser)|jukebox for large collections of music|178|2022-03-02|
+|175|[acl-org/ACLPUB](https://github.com/acl-org/ACLPUB)|The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).|176|2022-03-09|
+|176|[jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan)|Perl script for waking up computers via Wake-On-LAN magic packets|176|2021-12-05|
+|177|[ChordPro/chordpro](https://github.com/ChordPro/chordpro)|Reference implementation of the ChordPro standard for musical lead sheets.|175|2022-04-03|
+|178|[spencertipping/caterwaul](https://github.com/spencertipping/caterwaul)|A Javascript-to-Javascript compiler|175|2021-12-30|
+|179|[WolverineFan/YNABLinuxInstall](https://github.com/WolverineFan/YNABLinuxInstall)|Install script for YNAB 4 on Linux|174|2021-12-26|
+|180|[ldidry/lstu](https://github.com/ldidry/lstu)|Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu|171|2022-03-31|
+|181|[msimerson/NicTool](https://github.com/msimerson/NicTool)|NicTool: a DNS management solution|169|2022-03-31|
+|182|[teodesian/Selenium-Remote-Driver](https://github.com/teodesian/Selenium-Remote-Driver)|Perl Bindings to the Selenium Webdriver server|169|2021-12-04|
+|183|[libwww-perl/libwww-perl](https://github.com/libwww-perl/libwww-perl)|The libwww-perl collection is a set of Perl modules which provides a simple and consistent application programming interface to the World-Wide Web. The main focus of the library is to provide classes  ...|168|2022-04-03|
+|184|[Pepelux/sippts](https://github.com/Pepelux/sippts)|Set of tools to audit SIP based VoIP Systems|166|2022-01-14|
+|185|[Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)|BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes|164|2022-01-28|
+|186|[STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion)|STAR-Fusion codebase|162|2022-02-26|
+|187|[lvc/pkgdiff](https://github.com/lvc/pkgdiff)|A tool for visualizing changes in Linux software packages|162|2021-10-07|
+|188|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|161|2022-04-03|
+|189|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|161|2022-01-21|
+|190|[pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl)|A community AWS SDK for Perl Programmers|161|2021-11-07|
+|191|[qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr)|Qwerty keyboard layout with French accents|160|2022-04-01|
+|192|[gregkh/bti](https://github.com/gregkh/bti)|bash twitter ididocy|160|2021-11-22|
+|193|[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)|-|158|2022-03-14|
+|194|[BitMOE/PortableHexo](https://github.com/BitMOE/PortableHexo)|A Portable version of Hexo|156|2022-02-12|
+|195|[sbosio/rla-es](https://github.com/sbosio/rla-es)|Recursos lingüísticos abiertos del español|156|2022-04-02|
+|196|[Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic)|The leading static analyzer for Perl.  Configurable, extensible, powerful.|156|2022-01-26|
+|197|[schweikert/postgrey](https://github.com/schweikert/postgrey)|Postfix Greylisting Policy-Daemon|156|2022-01-22|
+|198|[mogaal/sendemail](https://github.com/mogaal/sendemail)|lightweight, command line SMTP email client|156|2022-03-01|
+|199|[LibreCat/Catmandu](https://github.com/LibreCat/Catmandu)|Catmandu - a data processing toolkit developed by Ghent University Library|155|2022-03-21|
+|200|[moose/Moose](https://github.com/moose/Moose)|Official repository for Moose|154|2021-11-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

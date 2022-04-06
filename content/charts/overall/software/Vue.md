@@ -1,60 +1,60 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Vue
-<sub>Updated: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|75200|2022-03-31|
-|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51866|2022-03-31|
-|3|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|41790|2022-04-04|
-|4|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|37756|2022-03-17|
-|5|[nocodb/nocodb](https://github.com/nocodb/nocodb)|🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.|25415|2022-04-03|
+|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|75220|2022-03-31|
+|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51862|2022-03-31|
+|3|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|41841|2022-04-05|
+|4|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|37758|2022-03-17|
+|5|[nocodb/nocodb](https://github.com/nocodb/nocodb)|🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.|25522|2022-04-05|
 |6|[iview/iview](https://github.com/iview/iview)|A high quality UI Toolkit built on Vue.js 2.0|23942|2022-03-02|
-|7|[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)|Mobile UI elements for Vue.js|16483|2022-02-28|
-|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|16425|2022-04-04|
-|9|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|16321|2022-04-03|
-|10|[iview/iview-admin](https://github.com/iview/iview-admin)|Vue 2.0 admin management system template based on iView|16034|2021-11-06|
+|7|[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)|Mobile UI elements for Vue.js|16484|2022-02-28|
+|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|16431|2022-04-05|
+|9|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|16326|2022-04-04|
+|10|[iview/iview-admin](https://github.com/iview/iview-admin)|Vue 2.0 admin management system template based on iView|16035|2021-11-06|
 |11|[requarks/wiki](https://github.com/requarks/wiki)|Wiki.js   A modern and powerful wiki app built on Node.js|15700|2022-04-04|
-|12|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15331|2022-03-21|
-|13|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|14908|2022-04-04|
-|14|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14730|2022-01-18|
-|15|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro|11833|2022-03-31|
-|16|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|10787|2022-04-02|
-|17|[vuematerial/vue-material](https://github.com/vuematerial/vue-material)|Material design for Vue.js|9579|2022-02-22|
-|18|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9255|2022-02-23|
-|19|[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)|Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.|9254|2022-04-01|
+|12|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15335|2022-03-21|
+|13|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|14921|2022-04-05|
+|14|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14735|2022-01-18|
+|15|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro|11839|2022-03-31|
+|16|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|10792|2022-04-02|
+|17|[vuematerial/vue-material](https://github.com/vuematerial/vue-material)|Material design for Vue.js|9581|2022-02-22|
+|18|[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)|Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.|9270|2022-04-05|
+|19|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9256|2022-02-23|
 |20|[buefy/buefy](https://github.com/buefy/buefy)|Lightweight UI components for Vue.js based on Bulma|9160|2022-03-21|
-|21|[epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin)|Free and Beautiful Vue 3 Admin Template|8574|2022-03-31|
-|22|[museui/muse-ui](https://github.com/museui/muse-ui)|Material Design UI library for Vuejs 2.0|8296|2022-02-11|
-|23|[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)|⚡️ Blazing fast scrolling for any amount of data|6592|2022-03-29|
+|21|[epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin)|Free and Beautiful Vue 3 Admin Template|8578|2022-03-31|
+|22|[museui/muse-ui](https://github.com/museui/muse-ui)|Material Design UI library for Vuejs 2.0|8297|2022-02-11|
+|23|[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)|⚡️ Blazing fast scrolling for any amount of data|6597|2022-03-29|
 |24|[bestony/logoly](https://github.com/bestony/logoly)|A Pornhub Flavour Logo Generator|6343|2022-03-23|
-|25|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|6314|2021-11-29|
-|26|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|6038|2022-03-27|
-|27|[ghosh/uiGradients](https://github.com/ghosh/uiGradients)|🔴 Beautiful colour gradients for design and code|5510|2022-04-02|
-|28|[hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor)|mavonEditor - A markdown editor based on Vue that supports a variety of personalized features|5428|2022-02-26|
+|25|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|6316|2021-11-29|
+|26|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|6041|2022-03-27|
+|27|[ghosh/uiGradients](https://github.com/ghosh/uiGradients)|🔴 Beautiful colour gradients for design and code|5513|2022-04-02|
+|28|[hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor)|mavonEditor - A markdown editor based on Vue that supports a variety of personalized features|5430|2022-02-26|
 |29|[lusaxweb/vuesax](https://github.com/lusaxweb/vuesax)|New Framework Components for Vue.js 2|5380|2021-10-31|
 |30|[GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making)|A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）|4627|2022-02-12|
-|31|[tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4586|2022-03-26|
-|32|[bastienwirtz/homer](https://github.com/bastienwirtz/homer)|A very simple static homepage for your server.|4522|2022-03-31|
-|33|[Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)|🖖 A vue-cli 3.0 + typescript minimal admin template|4514|2022-03-22|
-|34|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4097|2022-03-23|
-|35|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|4043|2022-04-03|
-|36|[euvl/vue-js-modal](https://github.com/euvl/vue-js-modal)|Easy to use, highly customizable Vue.js modal library.|4031|2022-03-27|
-|37|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|3543|2022-03-24|
+|31|[tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4585|2022-04-05|
+|32|[bastienwirtz/homer](https://github.com/bastienwirtz/homer)|A very simple static homepage for your server.|4527|2022-03-31|
+|33|[Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)|🖖 A vue-cli 3.0 + typescript minimal admin template|4516|2022-03-22|
+|34|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4105|2022-03-23|
+|35|[Kholid060/automa](https://github.com/Kholid060/automa)|A chrome extension for automating your browser by connecting blocks|4064|2022-04-03|
+|36|[euvl/vue-js-modal](https://github.com/euvl/vue-js-modal)|Easy to use, highly customizable Vue.js modal library.|4032|2022-03-27|
+|37|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|3555|2022-03-24|
 |38|[wangdahoo/vonic](https://github.com/wangdahoo/vonic)|Mobile UI Components, based on Vue.js and ionic CSS. https://wangdahoo.github.io/vonic-documents|3421|2022-02-12|
-|39|[xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper)|A simple  picture clipping plugin for vue|3308|2022-03-30|
+|39|[xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper)|A simple  picture clipping plugin for vue|3309|2022-03-30|
 |40|[didi/mand-mobile](https://github.com/didi/mand-mobile)|💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.|3241|2022-03-31|
 |41|[coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template)|Open source admin template based on Bootstrap 5 and Vue 3|2996|2022-03-31|
-|42|[iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin)|🐜 Ant Design Pro's implementation with Vue|2947|2022-03-24|
-|43|[sdras/intro-to-vue](https://github.com/sdras/intro-to-vue)|Workshop Materials for my Introduction to Vue.js Workshop|2709|2022-03-29|
-|44|[themsaid/wink](https://github.com/themsaid/wink)|A Laravel-based publishing platform|2655|2022-02-25|
+|42|[iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin)|🐜 Ant Design Pro's implementation with Vue|2948|2022-03-24|
+|43|[sdras/intro-to-vue](https://github.com/sdras/intro-to-vue)|Workshop Materials for my Introduction to Vue.js Workshop|2711|2022-03-29|
+|44|[themsaid/wink](https://github.com/themsaid/wink)|A Laravel-based publishing platform|2654|2022-02-25|
 |45|[vuesion/vuesion](https://github.com/vuesion/vuesion)|Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.|2560|2022-04-03|
 |46|[view-design/ViewUI](https://github.com/view-design/ViewUI)|A high quality UI Toolkit built on Vue.js 2.0|2556|2022-03-04|
-|47|[varletjs/varlet](https://github.com/varletjs/varlet)|基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3|2491|2022-04-04|
+|47|[varletjs/varlet](https://github.com/varletjs/varlet)|基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3|2497|2022-04-05|
 |48|[javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp)|This is a vue for NeteaseCloud projects!|2474|2022-03-02|
 |49|[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)|Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter|2464|2022-03-25|
-|50|[heyui/heyui](https://github.com/heyui/heyui)|🎉UI Toolkit for Web, Vue3.0|2421|2022-03-27|
+|50|[heyui/heyui](https://github.com/heyui/heyui)|🎉UI Toolkit for Web, Vue3.0|2422|2022-03-27|
 |51|[AT-UI/at-ui](https://github.com/AT-UI/at-ui)|A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)|2340|2022-02-09|
 |52|[xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)|🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）|2334|2022-04-03|
 |53|[xiaokaike/vue-color](https://github.com/xiaokaike/vue-color)|:art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh|2318|2022-02-13|

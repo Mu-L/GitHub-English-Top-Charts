@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Assembly
-<sub>Updated: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52676|2022-02-03|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52678|2022-02-03|
 |2|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|8529|2022-03-12|
-|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|8034|2022-04-03|
+|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|8041|2022-04-03|
 |4|[jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II)|A running-jumping-swordfighting game I made on the Apple II from 1985-89|5902|2021-11-24|
-|5|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3268|2022-03-27|
+|5|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|3271|2022-03-27|
 |6|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|3014|2022-04-01|
-|7|[nemasu/asmttpd](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.|2839|2022-01-11|
-|8|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|2783|2022-04-04|
-|9|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|2668|2022-04-02|
-|10|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|2661|2022-03-24|
+|7|[nemasu/asmttpd](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.|2840|2022-01-11|
+|8|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|2784|2022-04-04|
+|9|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|2669|2022-04-02|
+|10|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|2662|2022-03-24|
 |11|[pooler/cpuminer](https://github.com/pooler/cpuminer)|CPU miner for Litecoin and Bitcoin|2509|2021-10-09|
 |12|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2139|2022-03-29|
 |13|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1665|2022-02-15|

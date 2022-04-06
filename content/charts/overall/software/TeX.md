@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > TeX
-<sub>Updated: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)|Latex code for making neural networks diagrams|16394|2022-01-31|
+|1|[HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)|Latex code for making neural networks diagrams|16407|2022-01-31|
 |2|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|15814|2022-04-02|
-|3|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9306|2022-04-04|
-|4|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5439|2021-12-15|
-|5|[matze/mtheme](https://github.com/matze/mtheme)|A modern LaTeX Beamer theme|5394|2022-03-17|
-|6|[soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|Classical equations and diagrams in machine learning|5373|2021-11-11|
-|7|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4752|2022-04-01|
-|8|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|4018|2022-03-30|
+|3|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9310|2022-04-04|
+|4|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5442|2021-12-15|
+|5|[matze/mtheme](https://github.com/matze/mtheme)|A modern LaTeX Beamer theme|5397|2022-03-17|
+|6|[soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|Classical equations and diagrams in machine learning|5375|2021-11-11|
+|7|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4755|2022-04-04|
+|8|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|4019|2022-03-30|
 |9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|3864|2022-03-31|
-|10|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3786|2022-04-01|
-|11|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3420|2022-03-29|
-|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2890|2022-01-25|
-|13|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2688|2022-04-02|
+|10|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3790|2022-04-01|
+|11|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3421|2022-03-29|
+|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|2896|2022-01-25|
+|13|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2690|2022-04-02|
 |14|[ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)|List of articles related to deep learning applied to music|2275|2022-01-18|
 |15|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2241|2021-11-20|
 |16|[AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2)|LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.|1937|2022-03-23|
