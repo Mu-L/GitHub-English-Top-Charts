@@ -1,96 +1,102 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|1084|2022-03-07|2021-10-23|
-|2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|215|2022-02-12|2021-04-05|
-|3|[cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell)|Collection of common CSS mistakes, and how to fix them|179|2022-03-16|2021-04-09|
-|4|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|157|2022-02-12|2021-04-19|
-|5|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|139|2022-03-04|2021-08-20|
-|6|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|89|2022-02-09|2022-02-09|
-|7|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|87|2022-04-01|2021-06-15|
-|8|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|73|2021-11-22|2021-09-26|
-|9|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|70|2022-02-02|2021-08-16|
+|1|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|1096|2022-04-07|2021-10-23|
+|2|[cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell)|Collection of common CSS mistakes, and how to fix them|179|2022-03-16|2021-04-09|
+|3|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|156|2022-02-12|2021-04-19|
+|4|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|141|2022-03-04|2021-08-20|
+|5|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|89|2022-02-09|2022-02-09|
+|6|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|87|2022-04-01|2021-06-15|
+|7|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|73|2021-11-22|2021-09-26|
+|8|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|71|2022-02-02|2021-08-16|
+|9|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|59|2022-04-06|2021-11-10|
 |10|[arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)|step by step guide for beginners for getting started with open source |58|2022-03-25|2021-09-08|
-|11|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|55|2022-03-27|2021-11-10|
-|12|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|50|2022-03-28|2021-11-03|
-|13|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|42|2022-03-11|2021-10-24|
-|14|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|37|2021-10-28|2021-10-21|
-|15|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
-|16|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|34|2021-11-28|2021-06-24|
-|17|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |33|2022-04-01|2021-06-18|
-|18|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|31|2022-04-02|2021-05-15|
-|19|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|30|2022-03-27|2021-08-18|
-|20|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|29|2022-04-02|2021-06-16|
-|21|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-03-18|2021-10-08|
-|22|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
+|11|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|54|2022-04-07|2021-11-03|
+|12|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|42|2022-03-11|2021-10-24|
+|13|[baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks)|A starting point for ebook creation|38|2021-10-28|2021-10-21|
+|14|[AdityaFitrianaNS/myportfolio1.github.io](https://github.com/AdityaFitrianaNS/myportfolio1.github.io)|It's just for learning, training, and exercise|36|2021-10-24|2021-09-28|
+|15|[SahityaRoy/E-Learning-freesite](https://github.com/SahityaRoy/E-Learning-freesite)|This site is mainly design for those student who don't know how to start their journey in the field of programming|34|2021-11-28|2021-06-24|
+|16|[TheNewStellW/vmware-operations-guide](https://github.com/TheNewStellW/vmware-operations-guide)|This repo contains the contents and configuration of the VMware Operations guide (https://www.vmwareopsguide.com). |33|2022-04-06|2021-06-18|
+|17|[pietroppeter/nimibook](https://github.com/pietroppeter/nimibook)|A port of mdbook to nim(ib)|31|2022-04-02|2021-05-15|
+|18|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|30|2022-03-27|2021-08-18|
+|19|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|30|2022-04-07|2021-06-16|
+|20|[GILT-Forum/Globalization-Strategy-Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)|A Guide for Localization and Globalization Professionals|27|2022-03-18|2021-10-08|
+|21|[uzzal2k5/devops](https://github.com/uzzal2k5/devops)|DevOps Free Course For Freshers.|26|2022-01-30|2021-11-30|
+|22|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|20|2022-03-31|2021-12-22|
 |23|[Col-E/FxThemes](https://github.com/Col-E/FxThemes)|A collection of general JavaFX themes|20|2022-03-22|2021-12-16|
 |24|[ioofy/ioofy.github.io](https://github.com/ioofy/ioofy.github.io)|🧑🏻My first web when learning html , ui/ux, and css also javascript are available in here. |20|2022-01-24|2021-09-03|
-|25|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|19|2022-03-31|2021-12-22|
-|26|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
-|27|[mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)|Track progress and keep notes while working through @likethecoins CTI Self Study Plan|18|2021-10-02|2021-10-01|
-|28|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|17|2022-01-24|2022-01-21|
-|29|[Ksound22/JabTV-Landing-Page](https://github.com/Ksound22/JabTV-Landing-Page)|A Landing page tutorial for freecodecamp publication readers|16|2022-01-13|2021-11-27|
-|30|[Gayathry17/browzica](https://github.com/Gayathry17/browzica)|Use browzica to keep track of your bookmarks|16|2021-10-05|2021-06-27|
-|31|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
-|32|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
-|33|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|13|2021-10-29|2021-08-02|
-|34|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|13|2021-11-30|2021-05-25|
-|35|[burtmacklin23/anki-templates](https://github.com/burtmacklin23/anki-templates)|Collection of customizable Anki flashcard templates with modern and clean themes.|12|2022-01-17|2022-01-08|
-|36|[DisnakeDev/guide](https://github.com/DisnakeDev/guide)|A guide/example list of use-cases of disnake.|12|2022-01-11|2021-10-25|
-|37|[Ashi-s/leetcode-chrome-extension](https://github.com/Ashi-s/leetcode-chrome-extension)|A chrome extension to show your stats and generate random leetcode question based on the difficulty and topic set|12|2021-10-21|2021-10-03|
-|38|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|12|2022-03-03|2021-08-21|
-|39|[wafarifki/JungleDevs-LandingPage](https://github.com/wafarifki/JungleDevs-LandingPage)|Hi there 👋 i want to share my exploration for  Jungle Devs Company. Jungle Devs is a Brazilian company focused on developing people who develop software. Use this for learn. Give me your stars, Don't  ...|11|2021-10-27|2021-08-20|
-|40|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|11|2022-04-01|2021-07-22|
-|41|[LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere)|Learn one vim, Use everywhere.|10|2022-02-06|2021-12-05|
-|42|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|10|2021-10-22|2021-08-31|
-|43|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|10|2021-12-28|2021-07-18|
-|44|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
-|45|[tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit)|Plugins, templates, css snippets and more for obsidian.md|10|2022-03-07|2021-04-11|
-|46|[uxai/startpage](https://github.com/uxai/startpage)|A simple customizable browser startpage for searching and bookmarks|9|2022-03-03|2022-02-28|
-|47|[F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS](https://github.com/F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you  how to make a login page, I made the tutorial from the Online Tutorials channel.|9|2022-01-28|2022-01-27|
-|48|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|9|2022-01-14|2022-01-03|
-|49|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |9|2021-11-30|2021-11-01|
-|50|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
-|51|[kookma/TW-Gatha](https://github.com/kookma/TW-Gatha)|Gatha Studio Workspace allows you to create in browser TiddlyWiki plugins, and editions for distributing tools like scripts, themes, languages, ... and contents like course notes, presentations, pamph ...|8|2022-02-18|2022-01-26|
-|52|[data-forge-notebook/editor-core](https://github.com/data-forge-notebook/editor-core)|The core repository for Data-Forge Notebook's editor. Reused in the Electron and Online builds.|8|2022-03-23|2022-01-24|
-|53|[Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector)|Injects search results from the linkding bookmark service into search pages like google and duckduckgo|8|2022-03-28|2022-01-10|
-|54|[iLynette/my-portfolio](https://github.com/iLynette/my-portfolio)|This is my portfolio website to showcase my development skills. It contains a list of the projects I've built. It's built with HTML, CSS and JavaScript.|8|2022-03-19|2022-01-05|
-|55|[KaProDes/storymarker](https://github.com/KaProDes/storymarker)|Made for small teams to internally share designs, mockups and code.|8|2022-02-13|2021-12-21|
-|56|[Kandy-Peter/ELC-Congo-First-capston-project](https://github.com/Kandy-Peter/ELC-Congo-First-capston-project)|ELC-Congo it's a e-learning template that provide an online for all destitutes children in East-Africa.|8|2022-02-10|2021-12-20|
-|57|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
-|58|[Kandy-Peter/My-portfolio](https://github.com/Kandy-Peter/My-portfolio)|This my portfolio designed form Figma and coded by me, I implemented inside all information about me, how to contact me and also all the project I created before|8|2021-12-18|2021-11-24|
-|59|[farouqdaif1/capstone1](https://github.com/farouqdaif1/capstone1)|My first Microverse capstone project is an event for people who love JavaScript in Egypt, It contains a list of speakers, the main program section, and about page|8|2021-10-15|2021-10-13|
-|60|[rg3915/django-auth-tutorial](https://github.com/rg3915/django-auth-tutorial)|Meu tutorial de Autenticação com Django em pt-br|8|2022-02-10|2021-04-04|
-|61|[Tadesse-Alemayehu/LEARN-TO-CODE](https://github.com/Tadesse-Alemayehu/LEARN-TO-CODE)|Learn to code is a website I plan to use for my coding class (website) ✍🏼 where I'll be teaching students all about programming and coding in general and web development in particular. 😎 This project  ...|7|2022-03-13|2022-03-07|
-|62|[tarkov-ballistics/handbook](https://github.com/tarkov-ballistics/handbook)|Handbook of Tarkov Ballistics|7|2022-01-22|2022-01-15|
-|63|[cactool/cactool](https://github.com/cactool/cactool)|An easy way to collaboratively code social media posts for manual content and discourse analysis|7|2022-04-01|2022-01-13|
-|64|[Kandy-Peter/javascript-API](https://github.com/Kandy-Peter/javascript-API)|learn web API in javascript from scratch|7|2022-01-29|2021-12-31|
-|65|[raphaelalmeidamartins/meme-generator](https://github.com/raphaelalmeidamartins/meme-generator)|Meme generator project developed at the end of Unit 5 (Principles of Web Development Module) of the Trybe's Web Development course|7|2022-02-20|2021-12-27|
-|66|[bridgetownrb/bridgetown-cards](https://github.com/bridgetownrb/bridgetown-cards)|Share what you know. Build what you learn.|7|2021-12-20|2021-12-11|
-|67|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
-|68|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2022-01-30|2021-09-20|
-|69|[luckept/vert](https://github.com/luckept/vert)|思源笔记护眼主题|7|2022-01-24|2021-08-14|
-|70|[shakilmahmudshohag/css](https://github.com/shakilmahmudshohag/css)|CSS, or Cascading Style Sheets, tell the browser how to display the text and other content that you write in HTML. With CSS, you can control the color, font, size, spacing, and many other aspects of H ...|6|2022-03-18|2022-03-18|
-|71|[F3lip32010/Project_Calculator](https://github.com/F3lip32010/Project_Calculator)|As I said, this is another tutorial from Online Turials, but pay attention to the details so you don't make mistakes.|6|2022-01-22|2022-01-21|
-|72|[SaketJNU/WebTechnologies-PBL](https://github.com/SaketJNU/WebTechnologies-PBL)|Learn technologies with small projects|6|2022-02-02|2022-01-13|
-|73|[raphaelalmeidamartins/mystery-letter](https://github.com/raphaelalmeidamartins/mystery-letter)|Mystery letter project developed at the end of Unit 5 (Principles of Web Development Module) of the Trybe's Web Development course|6|2022-02-20|2021-12-27|
-|74|[jacobjohnston/neverwinterguide](https://github.com/jacobjohnston/neverwinterguide)|Dungeon Master's Guide to Neverwinter|6|2022-03-13|2021-12-12|
-|75|[Jerry-Terrasse/CriticalTune](https://github.com/Jerry-Terrasse/CriticalTune)|A tuning tool on web for robomaster.|6|2022-01-15|2021-12-10|
-|76|[hchiam/learning-open-props](https://github.com/hchiam/learning-open-props)|Learning Open Props|6|2021-12-30|2021-12-04|
-|77|[ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets)|This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand|6|2021-11-13|2021-11-12|
-|78|[qwibbler/my-portfolio](https://github.com/qwibbler/my-portfolio)|This is a practice portfolio that I am building to learn the required coding skills for building a basic website, and also to begin setting up my very own portfolio. Built with html, css, and js.|6|2022-01-21|2021-10-20|
-|79|[ShahierNashaat/html-css-capstone](https://github.com/ShahierNashaat/html-css-capstone)|Develop capstone project for HTML5 & CSS3 module in microverse. The project is about an e-learning website for drawing it contains of the home and about pages.|6|2021-12-10|2021-10-11|
-|80|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|6|2021-11-06|2021-09-30|
-|81|[abdumu/jarir-reader](https://github.com/abdumu/jarir-reader)|View/download your purchased books from Jarir Reader and convert them to DRM-free books|6|2021-10-08|2021-09-12|
-|82|[Wallux-0/Wallux](https://github.com/Wallux-0/Wallux)|A collection of cool wallpapers|6|2022-02-01|2021-08-19|
-|83|[clerkinc/clerk-gatsby-starter](https://github.com/clerkinc/clerk-gatsby-starter)|Official guide on how to use Clerk.dev with Gatsby|6|2021-11-30|2021-07-26|
-|84|[Sristi27/React-webcam](https://github.com/Sristi27/React-webcam)|This repository depicts how to capture images via webcam and use it for further processing in React|6|2022-03-05|2021-06-11|
-|85|[mckent05/Awesome_books](https://github.com/mckent05/Awesome_books)|Awesome books project is a project that saves a list of all your most liked books and uses Luxon library to display the time|5|2021-11-14|2021-10-17|
-|86|[wafarifki/Xiboba-Landing-Page](https://github.com/wafarifki/Xiboba-Landing-Page)|This is xiboba landing page..Use For Learn.|5|2021-10-22|2021-08-17|
+|25|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|19|2021-10-26|2021-09-29|
+|26|[ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox)|firefox themed context and bookmark menus|17|2022-01-24|2022-01-21|
+|27|[Ksound22/JabTV-Landing-Page](https://github.com/Ksound22/JabTV-Landing-Page)|A Landing page tutorial for freecodecamp publication readers|16|2022-01-13|2021-11-27|
+|28|[thesephist/stream](https://github.com/thesephist/stream)|A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak|15|2021-12-17|2021-09-21|
+|29|[open-minds/-Hacktober-fest-2021](https://github.com/open-minds/-Hacktober-fest-2021)|Repo for TOM members dedicated to the Hacktoberfest of 2021 (8th edition), this repo is here to encourage open-source learning and sharing and enhance git/Github using abilities.|14|2021-11-01|2021-10-04|
+|30|[Ashi-s/leetcode-chrome-extension](https://github.com/Ashi-s/leetcode-chrome-extension)|A chrome extension to show your stats and generate random leetcode question based on the difficulty and topic set|14|2021-10-21|2021-10-03|
+|31|[Hamzaoutdoors/Code_Outdoors_Meetings](https://github.com/Hamzaoutdoors/Code_Outdoors_Meetings)|The website is about a site of traveling and coding meetings, a place where passionate people about traveling meet, learn and enjoy|13|2021-10-29|2021-08-02|
+|32|[ohlinn/vainilla-style](https://github.com/ohlinn/vainilla-style)|My personal snippets for obsidian.|13|2021-11-30|2021-05-25|
+|33|[burtmacklin23/anki-templates](https://github.com/burtmacklin23/anki-templates)|Collection of customizable Anki flashcard templates with modern and clean themes.|12|2022-01-17|2022-01-08|
+|34|[DisnakeDev/guide](https://github.com/DisnakeDev/guide)|A guide/example list of use-cases of disnake.|12|2022-01-11|2021-10-25|
+|35|[nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes)|This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices.|12|2022-03-03|2021-08-21|
+|36|[wafarifki/JungleDevs-LandingPage](https://github.com/wafarifki/JungleDevs-LandingPage)|Hi there 👋 i want to share my exploration for  Jungle Devs Company. Jungle Devs is a Brazilian company focused on developing people who develop software. Use this for learn. Give me your stars, Don't  ...|11|2021-10-27|2021-08-20|
+|37|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|11|2022-04-04|2021-07-22|
+|38|[LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere)|Learn one vim, Use everywhere.|10|2022-02-06|2021-12-05|
+|39|[CodelyTV/web-performance-course](https://github.com/CodelyTV/web-performance-course)|Web performance course examples|10|2021-10-22|2021-08-31|
+|40|[bobheadxi/obsidian-css-snippets](https://github.com/bobheadxi/obsidian-css-snippets)|🖌 CSS snippets for Obsidian - theme customizations, floating mobile toolbar, improved code blocks, and more|10|2021-12-28|2021-07-18|
+|41|[mythors/mythors-profile-site](https://github.com/mythors/mythors-profile-site)|A small profile for plain discord users, that is, a site where you can share your own information.|10|2021-10-22|2021-05-09|
+|42|[tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit)|Plugins, templates, css snippets and more for obsidian.md|10|2022-03-07|2021-04-11|
+|43|[uxai/startpage](https://github.com/uxai/startpage)|A simple customizable browser startpage for searching and bookmarks|9|2022-03-03|2022-02-28|
+|44|[F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS](https://github.com/F3lip32010/CSS-Claymorphism-Login-Form-Design-using-Html-CSS)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you  how to make a login page, I made the tutorial from the Online Tutorials channel.|9|2022-01-28|2022-01-27|
+|45|[Bondok6/Awesome-Books](https://github.com/Bondok6/Awesome-Books)|In this project, I built a basic website that allows users to add/remove books from a book list. Build with HTML, CSS, and JavaScript.|9|2022-01-14|2022-01-03|
+|46|[aakashgarg-19/30Days_JSProjectChallenge](https://github.com/aakashgarg-19/30Days_JSProjectChallenge)|Hello guys, here I am going to share 30 Projects that you can make using HTML, pure Vanilla JS and Pure CSS. Starting from 1st Nov 2021. |9|2021-11-30|2021-11-01|
+|47|[ieeessitvit/UI-Components](https://github.com/ieeessitvit/UI-Components)|Collection of UI components|9|2021-10-29|2021-09-28|
+|48|[kookma/TW-Gatha](https://github.com/kookma/TW-Gatha)|Gatha Studio Workspace allows you to create in browser TiddlyWiki plugins, and editions for distributing tools like scripts, themes, languages, ... and contents like course notes, presentations, pamph ...|8|2022-02-18|2022-01-26|
+|49|[data-forge-notebook/editor-core](https://github.com/data-forge-notebook/editor-core)|The core repository for Data-Forge Notebook's editor. Reused in the Electron and Online builds.|8|2022-04-03|2022-01-24|
+|50|[Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector)|Injects search results from the linkding bookmark service into search pages like google and duckduckgo|8|2022-03-28|2022-01-10|
+|51|[iLynette/my-portfolio](https://github.com/iLynette/my-portfolio)|This is my portfolio website to showcase my development skills. It contains a list of the projects I've built. It's built with HTML, CSS and JavaScript.|8|2022-03-19|2022-01-05|
+|52|[KaProDes/storymarker](https://github.com/KaProDes/storymarker)|Made for small teams to internally share designs, mockups and code.|8|2022-02-13|2021-12-21|
+|53|[Kandy-Peter/ELC-Congo-First-capston-project](https://github.com/Kandy-Peter/ELC-Congo-First-capston-project)|ELC-Congo it's a e-learning template that provide an online for all destitutes children in East-Africa.|8|2022-02-10|2021-12-20|
+|54|[formidablae/modal_window](https://github.com/formidablae/modal_window)|Modal Window Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/|8|2021-12-19|2021-12-18|
+|55|[Kandy-Peter/My-portfolio](https://github.com/Kandy-Peter/My-portfolio)|This my portfolio designed form Figma and coded by me, I implemented inside all information about me, how to contact me and also all the project I created before|8|2021-12-18|2021-11-24|
+|56|[farouqdaif1/capstone1](https://github.com/farouqdaif1/capstone1)|My first Microverse capstone project is an event for people who love JavaScript in Egypt, It contains a list of speakers, the main program section, and about page|8|2021-10-15|2021-10-13|
+|57|[Tadesse-Alemayehu/LEARN-TO-CODE](https://github.com/Tadesse-Alemayehu/LEARN-TO-CODE)|Learn to code is a website I plan to use for my coding class (website) ✍🏼 where I'll be teaching students all about programming and coding in general and web development in particular. 😎 This project  ...|7|2022-03-13|2022-03-07|
+|58|[tarkov-ballistics/handbook](https://github.com/tarkov-ballistics/handbook)|Handbook of Tarkov Ballistics|7|2022-01-22|2022-01-15|
+|59|[cactool/cactool](https://github.com/cactool/cactool)|An easy way to collaboratively code social media posts for manual content and discourse analysis|7|2022-04-07|2022-01-13|
+|60|[Kandy-Peter/javascript-API](https://github.com/Kandy-Peter/javascript-API)|learn web API in javascript from scratch|7|2022-01-29|2021-12-31|
+|61|[raphaelalmeidamartins/meme-generator](https://github.com/raphaelalmeidamartins/meme-generator)|Meme generator project developed at the end of Unit 5 (Principles of Web Development Module) of the Trybe's Web Development course|7|2022-04-03|2021-12-27|
+|62|[bridgetownrb/bridgetown-cards](https://github.com/bridgetownrb/bridgetown-cards)|Share what you know. Build what you learn.|7|2021-12-20|2021-12-11|
+|63|[nibedita-behera/Travello-AirTicketBooking](https://github.com/nibedita-behera/Travello-AirTicketBooking)|Travello is a website for Air Ticket Booking for Travel Destination Using DJango in Backend|7|2021-11-27|2021-11-22|
+|64|[alordash/FastExponentiation](https://github.com/alordash/FastExponentiation)|Algorithms and functions for fast exponentiation with small error|7|2022-01-30|2021-09-20|
+|65|[luckept/vert](https://github.com/luckept/vert)|思源笔记护眼主题|7|2022-01-24|2021-08-14|
+|66|[clerkinc/clerk-gatsby-starter](https://github.com/clerkinc/clerk-gatsby-starter)|Official guide on how to use Clerk.dev with Gatsby|7|2021-11-30|2021-07-26|
+|67|[shakilmahmudshohag/css](https://github.com/shakilmahmudshohag/css)|CSS, or Cascading Style Sheets, tell the browser how to display the text and other content that you write in HTML. With CSS, you can control the color, font, size, spacing, and many other aspects of H ...|6|2022-03-18|2022-03-18|
+|68|[F3lip32010/Project_Calculator](https://github.com/F3lip32010/Project_Calculator)|As I said, this is another tutorial from Online Turials, but pay attention to the details so you don't make mistakes.|6|2022-01-22|2022-01-21|
+|69|[SaketJNU/WebTechnologies-PBL](https://github.com/SaketJNU/WebTechnologies-PBL)|Learn technologies with small projects|6|2022-02-02|2022-01-13|
+|70|[raphaelalmeidamartins/mystery-letter](https://github.com/raphaelalmeidamartins/mystery-letter)|Mystery letter project developed at the end of Unit 5 (Principles of Web Development Module) of the Trybe's Web Development course|6|2022-04-03|2021-12-27|
+|71|[jacobjohnston/neverwinterguide](https://github.com/jacobjohnston/neverwinterguide)|Dungeon Master's Guide to Neverwinter|6|2022-03-13|2021-12-12|
+|72|[Jerry-Terrasse/CriticalTune](https://github.com/Jerry-Terrasse/CriticalTune)|A tuning tool on web for robomaster.|6|2022-01-15|2021-12-10|
+|73|[hchiam/learning-open-props](https://github.com/hchiam/learning-open-props)|Learning Open Props|6|2021-12-30|2021-12-04|
+|74|[ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets)|This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand|6|2021-11-13|2021-11-12|
+|75|[qwibbler/my-portfolio](https://github.com/qwibbler/my-portfolio)|This is a practice portfolio that I am building to learn the required coding skills for building a basic website, and also to begin setting up my very own portfolio. Built with html, css, and js.|6|2022-01-21|2021-10-20|
+|76|[ShahierNashaat/html-css-capstone](https://github.com/ShahierNashaat/html-css-capstone)|Develop capstone project for HTML5 & CSS3 module in microverse. The project is about an e-learning website for drawing it contains of the home and about pages.|6|2021-12-10|2021-10-11|
+|77|[dsc-jiit-128/Hactoberfest-website](https://github.com/dsc-jiit-128/Hactoberfest-website)|This repository was created for people who are new to Open-source who can learn more and be an asset to the human society :octocat: This repository will probably help you learn the basics of Git, GitH ...|6|2021-11-06|2021-09-30|
+|78|[Wallux-0/Wallux](https://github.com/Wallux-0/Wallux)|A collection of cool wallpapers|6|2022-02-01|2021-08-19|
+|79|[Sristi27/React-webcam](https://github.com/Sristi27/React-webcam)|This repository depicts how to capture images via webcam and use it for further processing in React|6|2022-03-05|2021-06-11|
+|80|[F3lip32010/Magic-Navigation-Menu-Indicator-using-Html-CSS-Javascript-Curve-Outside-Effects](https://github.com/F3lip32010/Magic-Navigation-Menu-Indicator-using-Html-CSS-Javascript-Curve-Outside-Effects)|Hi guys, I'm here to bring you a new tutorial, but this time I will show you how to make a Magic Navigation Menu Indicator, I made the tutorial from the Online Tutorials channel.|5|2022-01-28|2022-01-28|
+|81|[Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)|Website to gather all study-related information of DHBW-Mannheim content. Documentation: https://software-engineering-dhbw.github.io/BonoboBoard/|5|2022-03-30|2022-01-22|
+|82|[shuvamk/overreacted-cred](https://github.com/shuvamk/overreacted-cred)|CRED UI clone created during my youtube tutorial|5|2022-01-22|2022-01-20|
+|83|[iDCoded/Windows-Rice](https://github.com/iDCoded/Windows-Rice)|How to rice Windows. |5|2022-01-03|2021-12-24|
+|84|[Tobinchilongo/my-first-capstone](https://github.com/Tobinchilongo/my-first-capstone)|Building a Capstone-project to review the things learned so as to show an understanding of all things learned. Technologies: HTML CSS Javascript|5|2021-12-26|2021-12-21|
+|85|[qwibbler/leaderboard](https://github.com/qwibbler/leaderboard)|This is a website showing all the top players in a game. This repo is to practice the use of callbacks and promises, to learn how to use proper ES6 syntax, to use ES6 modules to write modular JavaScri ...|5|2021-12-16|2021-12-14|
+|86|[kian79/MrOrMs](https://github.com/kian79/MrOrMs)|Web programming course midterm exam.|5|2021-12-03|2021-12-02|
+|87|[olincollege/pie-2021-03](https://github.com/olincollege/pie-2021-03)|The repo for Olin College's Principles of Integrated Engineering (PIE) course that anchors team project pages|5|2021-12-29|2021-11-24|
+|88|[mckent05/Awesome_books](https://github.com/mckent05/Awesome_books)|Awesome books project is a project that saves a list of all your most liked books and uses Luxon library to display the time|5|2021-11-14|2021-10-17|
+|89|[abdumu/jarir-reader](https://github.com/abdumu/jarir-reader)|View/download your purchased books from Jarir Reader and convert them to DRM-free books|5|2021-10-08|2021-09-12|
+|90|[wafarifki/Xiboba-Landing-Page](https://github.com/wafarifki/Xiboba-Landing-Page)|This is xiboba landing page..Use For Learn.|5|2021-10-22|2021-08-17|
+|91|[redwing555/Portfolio-website](https://github.com/redwing555/Portfolio-website)|This project is a website is my personal portfolio webpage , build using HTML / CSS and JavaScript , feel free to visit , and leave a star of course :)|5|2022-03-18|2021-08-11|
+|92|[built-on-openfin/interop-api](https://github.com/built-on-openfin/interop-api)|A collection of examples related to our interop api.|5|2022-02-08|2021-07-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

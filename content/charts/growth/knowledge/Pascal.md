@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|8|2|2022-03-29|
+|1|[edwinyzh/ZipMaster](https://github.com/edwinyzh/ZipMaster)|ZipMaster (zip component for Delphi) 1.9x with my fixes|9|1|2022-03-29|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon editor that generates Put image code for AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  freepascal, Turbo C, Turbo Basic, Power Basic, FreeBASIC ...|15|0|2022-03-28|
 |3|[GLScene/ExamplesD](https://github.com/GLScene/ExamplesD)|Examples of using GLScene in Delphi|7|0|2021-11-03|
 |4|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|83|0|2021-12-09|
@@ -36,7 +36,7 @@
 |29|[beNative/Concepts](https://github.com/beNative/Concepts)|A collection of modules which demonstrate some programming concepts and Delphi libraries.|56|0|2022-02-27|
 |30|[kveroneau/mcslib](https://github.com/kveroneau/mcslib)|Memory Card Server Library and Examples|3|0|2022-03-13|
 |31|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|12|0|2021-12-29|
-|32|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2022-03-25|
+|32|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2022-04-03|
 |33|[AndrewEfimov/FMX-Android-API-Examples](https://github.com/AndrewEfimov/FMX-Android-API-Examples)|FMX: Android API Examples|9|0|2022-03-26|
 |34|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|29|0|2022-01-26|
 |35|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|9|0|2021-12-03|
@@ -47,7 +47,7 @@
 |40|[MarcoDelphiBooks/ObjectPascalHandbook104](https://github.com/MarcoDelphiBooks/ObjectPascalHandbook104)|Object Pascal Handbook for Delphi 10.4 Sydney demos source code|60|0|2021-10-30|
 |41|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|3|0|2021-11-22|
 |42|[isemenkov/advpascalutils](https://github.com/isemenkov/advpascalutils)|AdvPascalUtils is a library of some useful patterns and complex data structures implemented for FreePascal and Delphi.|5|0|2021-10-30|
-|43|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|72|0|2022-04-02|
+|43|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|73|0|2022-04-02|
 |44|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|107|0|2022-03-27|
 |45|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|4|0|2022-03-30|
 |46|[Tetrergeru/git-course](https://github.com/Tetrergeru/git-course)|Git course for MMCS freshmen.|9|0|2021-10-14|

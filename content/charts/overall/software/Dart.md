@@ -1,58 +1,58 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Dart
-<sub>Updated: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|138639|2022-04-05|
-|2|[iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)|[Example APPS] Basic Flutter apps, for flutter devs.|16542|2022-03-25|
-|3|[flutter/plugins](https://github.com/flutter/plugins)|Plugins for Flutter maintained by the Flutter team|15444|2022-04-05|
-|4|[mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)|completely free for everyone. Its build-in Flutter Dart.|14374|2022-03-04|
-|5|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|13158|2022-03-15|
-|6|[flutterchina/dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.|10541|2022-04-04|
-|7|[felangel/bloc](https://github.com/felangel/bloc)|A predictable state management library that helps implement the BLoC design pattern|8790|2022-04-04|
-|8|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7909|2022-04-05|
-|9|[alibaba/fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|7254|2022-02-17|
-|10|[firebase/flutterfire](https://github.com/firebase/flutterfire)|🔥 A collection of Firebase plugins for Flutter apps.|6433|2022-04-05|
-|11|[jonataslaw/getx](https://github.com/jonataslaw/getx)|Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.|6355|2022-04-02|
-|12|[flame-engine/flame](https://github.com/flame-engine/flame)|A minimalist Flutter game engine|6097|2022-04-05|
-|13|[simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer)|🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project. Includes a complete UI design and exercises that are closer to real projects.|6069|2022-03-20|
-|14|[nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples)|[Examples] Simple basic isolated apps, for budding flutter devs.|5995|2021-12-12|
-|15|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|5884|2022-03-08|
-|16|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4600|2022-03-01|
-|17|[imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart)|FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.|4355|2022-04-04|
-|18|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4187|2022-04-02|
-|19|[flutterchina/flukit](https://github.com/flutterchina/flukit)| A Flutter UI Kit（一个 Flutter UI组件库），2.0 beta is available now !|4043|2021-10-07|
-|20|[flutter/gallery](https://github.com/flutter/gallery)|Flutter Gallery is a resource to help developers evaluate and use Flutter|3670|2022-04-05|
+|1|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|138688|2022-04-07|
+|2|[iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)|[Example APPS] Basic Flutter apps, for flutter devs.|16547|2022-03-25|
+|3|[flutter/plugins](https://github.com/flutter/plugins)|Plugins for Flutter maintained by the Flutter team|15455|2022-04-07|
+|4|[mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)|completely free for everyone. Its build-in Flutter Dart.|14380|2022-03-04|
+|5|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|13165|2022-03-15|
+|6|[flutterchina/dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.|10552|2022-04-04|
+|7|[felangel/bloc](https://github.com/felangel/bloc)|A predictable state management library that helps implement the BLoC design pattern|8807|2022-04-06|
+|8|[dart-lang/sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|7919|2022-04-07|
+|9|[alibaba/fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|7255|2022-02-17|
+|10|[firebase/flutterfire](https://github.com/firebase/flutterfire)|🔥 A collection of Firebase plugins for Flutter apps.|6445|2022-04-06|
+|11|[jonataslaw/getx](https://github.com/jonataslaw/getx)|Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.|6368|2022-04-06|
+|12|[flame-engine/flame](https://github.com/flame-engine/flame)|A minimalist Flutter game engine|6109|2022-04-07|
+|13|[simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer)|🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project. Includes a complete UI design and exercises that are closer to real projects.|6072|2022-03-20|
+|14|[nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples)|[Examples] Simple basic isolated apps, for budding flutter devs.|5997|2021-12-12|
+|15|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|5887|2022-03-08|
+|16|[abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)|Responsive Admin Panel or Dashboard using Flutter|4609|2022-03-01|
+|17|[imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart)|FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.|4358|2022-04-04|
+|18|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4189|2022-04-06|
+|19|[flutterchina/flukit](https://github.com/flutterchina/flukit)| A Flutter UI Kit（一个 Flutter UI组件库），2.0 beta is available now !|4055|2021-10-07|
+|20|[flutter/gallery](https://github.com/flutter/gallery)|Flutter Gallery is a resource to help developers evaluate and use Flutter|3679|2022-04-07|
 |21|[lukepighetti/fluro](https://github.com/lukepighetti/fluro)|Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.|3441|2022-03-23|
-|22|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|3265|2022-04-05|
-|23|[best-flutter/flutter_swiper](https://github.com/best-flutter/flutter_swiper)|The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.|3262|2022-01-21|
+|22|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|3276|2022-04-06|
+|23|[best-flutter/flutter_swiper](https://github.com/best-flutter/flutter_swiper)|The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.|3266|2022-01-21|
 |24|[FlutterOpen/flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice)|More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.|3185|2022-02-01|
-|25|[xuelongqy/flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A flutter widget that provides pull-down refresh and pull-up load.|3066|2022-03-29|
-|26|[gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio)|A platform adaptive Flutter app for desktop, mobile and web.|3054|2022-03-31|
+|25|[xuelongqy/flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A flutter widget that provides pull-down refresh and pull-up load.|3069|2022-03-29|
+|26|[gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio)|A platform adaptive Flutter app for desktop, mobile and web.|3059|2022-03-31|
 |27|[ReactiveX/rxdart](https://github.com/ReactiveX/rxdart)|The Reactive Extensions for Dart|3049|2022-03-14|
-|28|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|2996|2022-04-04|
-|29|[sass/dart-sass](https://github.com/sass/dart-sass)|The reference implementation of Sass, written in Dart.|2987|2022-04-01|
-|30|[hivedb/hive](https://github.com/hivedb/hive)|Lightweight and blazing fast key-value database written in pure Dart.|2942|2022-03-28|
-|31|[zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)|A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.|2911|2022-04-04|
-|32|[ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget)|Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. |2803|2022-04-01|
-|33|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2705|2022-04-03|
-|34|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2639|2022-04-01|
-|35|[google/charts](https://github.com/google/charts)|-|2615|2022-03-19|
-|36|[phoenixsky/fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter)| 👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|2548|2022-02-22|
-|37|[2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter)|Load and get full control of your Rive files in a Flutter project using this library.|2543|2021-10-30|
-|38|[leoafarias/fvm](https://github.com/leoafarias/fvm)|Flutter Version Management: A simple CLI to manage Flutter SDK versions.|2527|2022-03-28|
-|39|[letsar/flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)|A Flutter staggered grid view|2450|2022-03-15|
-|40|[tekartik/sqflite](https://github.com/tekartik/sqflite)|SQLite flutter plugin|2375|2022-03-15|
-|41|[Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)|A Music Player App made with Flutter|2363|2022-04-04|
+|28|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|3002|2022-04-06|
+|29|[sass/dart-sass](https://github.com/sass/dart-sass)|The reference implementation of Sass, written in Dart.|2989|2022-04-07|
+|30|[hivedb/hive](https://github.com/hivedb/hive)|Lightweight and blazing fast key-value database written in pure Dart.|2943|2022-03-28|
+|31|[zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)|A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.|2912|2022-04-06|
+|32|[ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget)|Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. |2814|2022-04-01|
+|33|[rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)|A simple way to access state while robust and testable.|2711|2022-04-06|
+|34|[abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|-|2642|2022-04-01|
+|35|[google/charts](https://github.com/google/charts)|-|2617|2022-03-19|
+|36|[fluttertools/fvm](https://github.com/fluttertools/fvm)|Flutter Version Management: A simple CLI to manage Flutter SDK versions.|2552|2022-04-06|
+|37|[phoenixsky/fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter)| 👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|2549|2022-02-22|
+|38|[2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter)|Load and get full control of your Rive files in a Flutter project using this library.|2543|2021-10-30|
+|39|[letsar/flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)|A Flutter staggered grid view|2453|2022-03-15|
+|40|[tekartik/sqflite](https://github.com/tekartik/sqflite)|SQLite flutter plugin|2377|2022-03-15|
+|41|[Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)|A Music Player App made with Flutter|2374|2022-04-05|
 |42|[peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)|a widget provided to the flutter scroll component drop-down refresh and pull up load.|2327|2022-03-11|
-|43|[TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app)|E-Commerce App built in flutter|2200|2022-02-10|
+|43|[TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app)|E-Commerce App built in flutter|2205|2022-02-10|
 |44|[raywenderlich/flta-materials](https://github.com/raywenderlich/flta-materials)|The projects and the materials that accompany the Flutter Apprentice book|2171|2022-02-05|
 |45|[rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks)|React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.|2171|2022-04-03|
-|46|[letsar/flutter_slidable](https://github.com/letsar/flutter_slidable)|A Flutter implementation of slidable list item with directional slide actions.|2120|2022-03-24|
-|47|[tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:|2117|2022-04-03|
-|48|[mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart)|MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.|2103|2022-04-03|
+|46|[letsar/flutter_slidable](https://github.com/letsar/flutter_slidable)|A Flutter implementation of slidable list item with directional slide actions.|2122|2022-03-24|
+|47|[tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:|2121|2022-04-03|
+|48|[mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart)|MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.|2105|2022-04-06|
 |49|[WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app)|COVID-19 App|2094|2022-03-29|
 |50|[memspace/zefyr](https://github.com/memspace/zefyr)|Soft and gentle rich text editing for Flutter applications.|2063|2022-02-15|
 |51|[pauldemarco/flutter_blue](https://github.com/pauldemarco/flutter_blue)|Bluetooth plugin for Flutter|2005|2022-04-01|
