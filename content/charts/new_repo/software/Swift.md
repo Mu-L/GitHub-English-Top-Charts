@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Swift
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)|CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.|6065|2022-04-07|2022-03-10|
-|2|[ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)|DevToys For mac|5172|2022-03-24|2022-01-30|
-|3|[zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project)|Recreating a fully functional version of iOS 4 in SwiftUI. |2764|2021-11-23|2021-06-09|
+|1|[CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)|CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.|6258|2022-04-09|2022-03-10|
+|2|[ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)|DevToys For mac|5180|2022-03-24|2022-01-30|
+|3|[zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project)|Recreating a fully functional version of iOS 4 in SwiftUI. |2766|2021-11-23|2021-06-09|
 |4|[majd/ipatool](https://github.com/majd/ipatool)|Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store|2013|2022-04-04|2021-05-22|
 |5|[Lakr233/Rayon](https://github.com/Lakr233/Rayon)|yet another SSH machine manager|1996|2022-03-23|2022-02-13|
 |6|[apple/swift-markdown](https://github.com/apple/swift-markdown)|A Swift package for parsing, building, editing, and analyzing Markdown documents.|1695|2022-04-05|2021-07-19|

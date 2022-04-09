@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Perl
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15450|2022-04-07|
-|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13820|2022-04-07|
-|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12764|2022-04-06|
-|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7462|2022-04-04|
-|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5667|2022-03-02|
+|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|15455|2022-04-07|
+|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|13838|2022-04-07|
+|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|12768|2022-04-06|
+|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|7463|2022-04-04|
+|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|5668|2022-03-02|
 |6|[Jack000/Expose](https://github.com/Jack000/Expose)|A simple static site generator for photoessays|4260|2022-03-16|
-|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3994|2022-03-25|
-|8|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2749|2022-03-04|
-|9|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2606|2022-03-31|
-|10|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2461|2022-01-04|
+|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3997|2022-03-25|
+|8|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|2751|2022-03-04|
+|9|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|2608|2022-04-08|
+|10|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|2463|2022-01-04|
 |11|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|2390|2022-02-27|
 |12|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2377|2022-04-02|
-|13|[mojolicious/mojo](https://github.com/mojolicious/mojo)|:sparkles: Mojolicious - Perl real-time web framework|2319|2022-04-02|
+|13|[mojolicious/mojo](https://github.com/mojolicious/mojo)|:sparkles: Mojolicious - Perl real-time web framework|2320|2022-04-06|
 |14|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for L ...|2126|2022-04-04|
 |15|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|1910|2022-03-29|
 |16|[get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer)|A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds|1612|2022-03-13|
@@ -188,23 +188,23 @@
 |181|[Pepelux/sippts](https://github.com/Pepelux/sippts)|Set of tools to audit SIP based VoIP Systems|166|2022-01-14|
 |182|[Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)|BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes|164|2022-01-28|
 |183|[STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion)|STAR-Fusion codebase|162|2022-02-26|
-|184|[lvc/pkgdiff](https://github.com/lvc/pkgdiff)|A tool for visualizing changes in Linux software packages|162|2021-10-07|
-|185|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|161|2022-04-03|
-|186|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|161|2022-01-21|
-|187|[pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl)|A community AWS SDK for Perl Programmers|161|2021-11-07|
-|188|[qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr)|Qwerty keyboard layout with French accents|160|2022-04-01|
-|189|[gregkh/bti](https://github.com/gregkh/bti)|bash twitter ididocy|160|2021-11-22|
-|190|[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)|-|158|2022-03-14|
-|191|[BitMOE/PortableHexo](https://github.com/BitMOE/PortableHexo)|A Portable version of Hexo|156|2022-02-12|
-|192|[sbosio/rla-es](https://github.com/sbosio/rla-es)|Recursos lingüísticos abiertos del español|156|2022-04-02|
-|193|[Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic)|The leading static analyzer for Perl.  Configurable, extensible, powerful.|156|2022-01-26|
-|194|[schweikert/postgrey](https://github.com/schweikert/postgrey)|Postfix Greylisting Policy-Daemon|156|2022-01-22|
-|195|[mogaal/sendemail](https://github.com/mogaal/sendemail)|lightweight, command line SMTP email client|156|2022-03-01|
-|196|[LibreCat/Catmandu](https://github.com/LibreCat/Catmandu)|Catmandu - a data processing toolkit developed by Ghent University Library|155|2022-03-21|
-|197|[moose/Moose](https://github.com/moose/Moose)|Official repository for Moose|154|2021-11-07|
-|198|[thawn/ttmp32gme](https://github.com/thawn/ttmp32gme)|a tool to create tiptoi gme files from mp3 files. Also creates a printable sheet to play the music.|150|2021-10-17|
-|199|[techsneeze/dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser)|A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts )|150|2022-01-16|
-|200|[richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer)|Language Server for Perl|149|2022-03-29|
+|184|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|161|2022-04-03|
+|185|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|161|2022-01-21|
+|186|[pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl)|A community AWS SDK for Perl Programmers|161|2021-11-07|
+|187|[qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr)|Qwerty keyboard layout with French accents|160|2022-04-01|
+|188|[gregkh/bti](https://github.com/gregkh/bti)|bash twitter ididocy|160|2021-11-22|
+|189|[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)|-|158|2022-03-14|
+|190|[BitMOE/PortableHexo](https://github.com/BitMOE/PortableHexo)|A Portable version of Hexo|156|2022-02-12|
+|191|[sbosio/rla-es](https://github.com/sbosio/rla-es)|Recursos lingüísticos abiertos del español|156|2022-04-02|
+|192|[Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic)|The leading static analyzer for Perl.  Configurable, extensible, powerful.|156|2022-01-26|
+|193|[schweikert/postgrey](https://github.com/schweikert/postgrey)|Postfix Greylisting Policy-Daemon|156|2022-01-22|
+|194|[mogaal/sendemail](https://github.com/mogaal/sendemail)|lightweight, command line SMTP email client|156|2022-03-01|
+|195|[LibreCat/Catmandu](https://github.com/LibreCat/Catmandu)|Catmandu - a data processing toolkit developed by Ghent University Library|155|2022-03-21|
+|196|[moose/Moose](https://github.com/moose/Moose)|Official repository for Moose|154|2021-11-07|
+|197|[thawn/ttmp32gme](https://github.com/thawn/ttmp32gme)|a tool to create tiptoi gme files from mp3 files. Also creates a printable sheet to play the music.|150|2021-10-17|
+|198|[techsneeze/dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser)|A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts )|150|2022-01-16|
+|199|[richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer)|Language Server for Perl|149|2022-03-29|
+|200|[api7/lua-resty-etcd](https://github.com/api7/lua-resty-etcd)|Nonblocking Lua etcd driver library for OpenResty|149|2022-03-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

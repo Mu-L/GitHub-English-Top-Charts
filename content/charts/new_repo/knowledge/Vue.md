@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -52,11 +52,10 @@
 |45|[bcakmakoglu/vue-flow-docs](https://github.com/bcakmakoglu/vue-flow-docs)|🌊 Vue Flow Docs & Examples. Built with Nuxt3|4|2022-03-17|2021-11-15|
 |46|[danielkellyio/vue-cli-to-vite-migration-example](https://github.com/danielkellyio/vue-cli-to-vite-migration-example)|A repo demonstrating how to migrate your Vue projects from Vue CLI to Vite|4|2021-10-29|2021-10-29|
 |47|[Akira-u/Zijing-Guest](https://github.com/Akira-u/Zijing-Guest)|THSS software engineering course project|4|2022-01-11|2021-10-21|
-|48|[FortyIX/catus-notebook](https://github.com/FortyIX/catus-notebook)|Catus Notebook is an effective and elegant “note as todos” software that allows you to schedule your life and work easily and safely |4|2021-10-07|2021-10-04|
-|49|[lilisako/teleuni](https://github.com/lilisako/teleuni)|Free Online Courses In One Place - TELEUNI allows you to search a wide range of free online courses available on the Internet. |4|2021-12-18|2021-09-24|
-|50|[DroneDB/ddb-desktop](https://github.com/DroneDB/ddb-desktop)|Explore and Share Aerial Data|4|2021-12-31|2021-09-15|
-|51|[epfml/FeAI](https://github.com/epfml/FeAI)|Federated Learning with TensorFlow.js|4|2021-11-29|2021-09-03|
-|52|[zetaraku/NCU-Course-Finder-v6](https://github.com/zetaraku/NCU-Course-Finder-v6)|NCU Course Finder - A rescue from the place where Nobody Care U.|4|2022-03-30|2021-06-16|
+|48|[lilisako/teleuni](https://github.com/lilisako/teleuni)|Free Online Courses In One Place - TELEUNI allows you to search a wide range of free online courses available on the Internet. |4|2021-12-18|2021-09-24|
+|49|[DroneDB/ddb-desktop](https://github.com/DroneDB/ddb-desktop)|Explore and Share Aerial Data|4|2021-12-31|2021-09-15|
+|50|[epfml/FeAI](https://github.com/epfml/FeAI)|Federated Learning with TensorFlow.js|4|2021-11-29|2021-09-03|
+|51|[zetaraku/NCU-Course-Finder-v6](https://github.com/zetaraku/NCU-Course-Finder-v6)|NCU Course Finder - A rescue from the place where Nobody Care U.|4|2022-03-30|2021-06-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

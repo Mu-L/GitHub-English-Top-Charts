@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3873|2|2022-02-02|
+|1|[jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples)|A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin|3876|2|2022-02-02|
 |2|[gradle/gradle-enterprise-build-config-samples](https://github.com/gradle/gradle-enterprise-build-config-samples)|Code samples that demonstrate how to customize your Gradle Enterprise build configuration using Gradle or Maven.|36|0|2022-04-01|
 |3|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|5|0|2022-03-14|
 |4|[mikeroyal/Groovy-Guide](https://github.com/mikeroyal/Groovy-Guide)|Groovy Guide|2|0|2022-01-03|
@@ -59,43 +59,42 @@
 |52|[elbuo8/platzi-scripts](https://github.com/elbuo8/platzi-scripts)|Collection of platzi scripts for classes|42|0|2022-02-16|
 |53|[rakutentech/android-buildconfig](https://github.com/rakutentech/android-buildconfig)|Shared (gradle) build configurations for Android and Java libraries|18|0|2022-03-22|
 |54|[eXsio/querydsl-entityql-examples](https://github.com/eXsio/querydsl-entityql-examples)|QueryDSL EntityQL Examples |5|0|2022-02-10|
-|55|[binbashar/jenkins-modules](https://github.com/binbashar/jenkins-modules)|Jenkins groovy modules library for aws, code_snippets, dns, docker-machine, hashicorp-vault, k8s, mysql, passbolt, php, python, scm, slack, test, util, and more to come!|8|0|2021-10-08|
-|56|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|4|0|2022-03-25|
-|57|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|6|0|2022-03-26|
-|58|[dseeley/ansible_vault_pipe](https://github.com/dseeley/ansible_vault_pipe)|An Ansible action plugin to perform ansible-vault encrypt/decrypt operations inside a playbook.  Can use either user-provided id/pass, or can use already-loaded vault secrets.|2|0|2022-02-23|
-|59|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|60|0|2022-01-29|
-|60|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|0|2022-01-13|
-|61|[instil/jenkins-pipeline-steps](https://github.com/instil/jenkins-pipeline-steps)|A collection of build steps for use with Jenkins pipelines|8|0|2022-03-14|
-|62|[PacktPublishing/Jenkins-Administrators-Guide](https://github.com/PacktPublishing/Jenkins-Administrators-Guide)|Jenkins Administrator's Guide, published by Packt|9|0|2021-11-12|
-|63|[anilpacaci/streaming-graph-partitioning](https://github.com/anilpacaci/streaming-graph-partitioning)|Experimental Setup for Performance Analysis of Streaming Algorithms|18|0|2021-12-10|
-|64|[bogovicj/registrationWorkflows_i2k_2020](https://github.com/bogovicj/registrationWorkflows_i2k_2020)|Automatic and manual workflows course I2K 2020|6|0|2021-10-28|
-|65|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|22|0|2021-11-26|
-|66|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2022-03-16|
-|67|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|0|2022-04-01|
-|68|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2022-03-14|
-|69|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|10|0|2021-12-13|
-|70|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|13|0|2022-02-22|
-|71|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|193|0|2022-04-03|
-|72|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|0|2022-01-24|
-|73|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|7|0|2022-03-21|
-|74|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|0|2022-01-22|
-|75|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|0|2022-03-24|
-|76|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|103|0|2022-03-23|
-|77|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|135|0|2022-02-24|
-|78|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|0|2022-03-15|
-|79|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2022-03-29|
-|80|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|0|2021-11-04|
-|81|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|68|0|2022-04-01|
-|82|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|90|0|2021-12-27|
-|83|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|19|0|2021-12-11|
-|84|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |569|0|2022-03-31|
-|85|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|0|2022-01-11|
-|86|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2022-04-01|
-|87|[CamilYed/readable-tests-by-example](https://github.com/CamilYed/readable-tests-by-example)|Project that was used to demonstrate how to write tests that can serve as living code documentation. (DDD, Hexagonal Architecture, DSL, BDD)|3|0|2022-03-19|
-|88|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2022-03-24|
-|89|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|27|0|2021-12-17|
-|90|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|4|0|2022-03-21|
-|91|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|292|0|2022-02-20|
+|55|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|4|0|2022-03-25|
+|56|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|6|0|2022-03-26|
+|57|[dseeley/ansible_vault_pipe](https://github.com/dseeley/ansible_vault_pipe)|An Ansible action plugin to perform ansible-vault encrypt/decrypt operations inside a playbook.  Can use either user-provided id/pass, or can use already-loaded vault secrets.|2|0|2022-02-23|
+|58|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|60|0|2022-01-29|
+|59|[k2glyph/shared-library](https://github.com/k2glyph/shared-library)|Jenkins shared library for duplicate code across all the project.|2|0|2022-01-13|
+|60|[instil/jenkins-pipeline-steps](https://github.com/instil/jenkins-pipeline-steps)|A collection of build steps for use with Jenkins pipelines|8|0|2022-03-14|
+|61|[PacktPublishing/Jenkins-Administrators-Guide](https://github.com/PacktPublishing/Jenkins-Administrators-Guide)|Jenkins Administrator's Guide, published by Packt|9|0|2021-11-12|
+|62|[anilpacaci/streaming-graph-partitioning](https://github.com/anilpacaci/streaming-graph-partitioning)|Experimental Setup for Performance Analysis of Streaming Algorithms|18|0|2021-12-10|
+|63|[bogovicj/registrationWorkflows_i2k_2020](https://github.com/bogovicj/registrationWorkflows_i2k_2020)|Automatic and manual workflows course I2K 2020|6|0|2021-10-28|
+|64|[tkgregory/jenkins-demo](https://github.com/tkgregory/jenkins-demo)|Provisioned Jenkins instance to go along with 'Microservice devops' series of tutorials|22|0|2021-11-26|
+|65|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|6|0|2022-03-16|
+|66|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|213|0|2022-04-01|
+|67|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|5|0|2022-03-14|
+|68|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|10|0|2021-12-13|
+|69|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|13|0|2022-02-22|
+|70|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|193|0|2022-04-03|
+|71|[CharanMann/IG-Examples](https://github.com/CharanMann/IG-Examples)|Various IG Examples|3|0|2022-01-24|
+|72|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|7|0|2022-03-21|
+|73|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|173|0|2022-01-22|
+|74|[jonatan-ivanov/checkthat](https://github.com/jonatan-ivanov/checkthat)|Collection of checkers to test servers/services/etc. through REST API.|2|0|2022-03-24|
+|75|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|103|0|2022-03-23|
+|76|[griddynamics/mpl](https://github.com/griddynamics/mpl)|[IT-36925] Jenkins Shared Modular Pipeline Library|135|0|2022-02-24|
+|77|[epam/edp-library-pipelines](https://github.com/epam/edp-library-pipelines)|A Jenkins shared-library for the reference EDP pipelines|2|0|2022-03-15|
+|78|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|13|0|2022-03-29|
+|79|[joostvdg/jenkins-examples](https://github.com/joostvdg/jenkins-examples)|Examples related to Jenkins, Jenkins X and CloudBees Core|11|0|2021-11-04|
+|80|[salemove/pipeline-lib](https://github.com/salemove/pipeline-lib)|Global shared library for SaleMove pipeline jobs|68|0|2022-04-01|
+|81|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|90|0|2021-12-27|
+|82|[Doregon/PojavOptimize](https://github.com/Doregon/PojavOptimize)|A collection of mods to boost the performance of PojavLauncher.|19|0|2021-12-11|
+|83|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |569|0|2022-03-31|
+|84|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|172|0|2022-01-11|
+|85|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2022-04-01|
+|86|[CamilYed/readable-tests-by-example](https://github.com/CamilYed/readable-tests-by-example)|Project that was used to demonstrate how to write tests that can serve as living code documentation. (DDD, Hexagonal Architecture, DSL, BDD)|3|0|2022-03-19|
+|87|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2022-03-24|
+|88|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|27|0|2021-12-17|
+|89|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|4|0|2022-03-21|
+|90|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|292|0|2022-02-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

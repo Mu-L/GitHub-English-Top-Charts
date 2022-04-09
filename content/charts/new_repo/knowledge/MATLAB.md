@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -43,39 +43,38 @@
 |36|[a280558071/SOCPR-and-Linear-Disrflow-based-DNP](https://github.com/a280558071/SOCPR-and-Linear-Disrflow-based-DNP)|Two examples for distribution network planning (DNP) method based on Second-Order cone programming (SOCP) relaxation and Linear Distflow are included here. The Objective is to minimize the investment  ...|4|2022-01-22|2021-10-21|
 |37|[huaminghuangtw/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB](https://github.com/huaminghuangtw/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB)|🎓 A collection of Code Example Files, Programming Assignments and Final Project for "Introduction to Data, Signal, and Image Analysis with MATLAB", Coursera, September-October, 2021.|4|2022-01-30|2021-10-09|
 |38|[MATLAB-Graphics-and-App-Building/Animated-Gradient-Descent](https://github.com/MATLAB-Graphics-and-App-Building/Animated-Gradient-Descent)|Animation of how Gradient Descent finds the local minimum. Demonstrate how learning rate and starting points affect Gradient Descent.|4|2021-10-30|2021-09-11|
-|39|[xiayifan1024/SyntheticApertureRadarImaging](https://github.com/xiayifan1024/SyntheticApertureRadarImaging)|3 algorithms with matlab codes —— RangeDoppler,ChirpScaling,Omega-k|4|2021-10-08|2021-09-06|
-|40|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|4|2021-11-19|2021-07-27|
-|41|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2022-02-18|2021-05-30|
-|42|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|2021-05-10|
-|43|[greyhatguy007/MachineLearningAndrewNG](https://github.com/greyhatguy007/MachineLearningAndrewNG)|Machine Learning Course - Coursera|3|2022-04-03|2022-03-10|
-|44|[Code-With-Aagam/K-Means-Clustering-and-PCA](https://github.com/Code-With-Aagam/K-Means-Clustering-and-PCA)|Programming assignment 7 in Machine Learning course on Coursera|3|2022-03-02|2022-03-02|
-|45|[Code-With-Aagam/Support-Vector-Machines](https://github.com/Code-With-Aagam/Support-Vector-Machines)|Programming assignment 6 in Machine Learning course on Coursera|3|2022-03-02|2022-03-02|
-|46|[Code-With-Aagam/Regularized-Linear-Regression-and-Bias-Variance](https://github.com/Code-With-Aagam/Regularized-Linear-Regression-and-Bias-Variance)|Programming assignment 5 in Machine Learning course on Coursera|3|2022-03-14|2022-03-01|
-|47|[Code-With-Aagam/Neural-Network-Learning](https://github.com/Code-With-Aagam/Neural-Network-Learning)|Programming assignment 4 in Machine Learning course on Coursera|3|2022-03-10|2022-03-01|
-|48|[Code-With-Aagam/Multi-class-Classification-and-Neural-Networks](https://github.com/Code-With-Aagam/Multi-class-Classification-and-Neural-Networks)|Programming assignment 3 in Machine Learning course on Coursera|3|2022-03-10|2022-03-01|
-|49|[Code-With-Aagam/Logistic-Regression](https://github.com/Code-With-Aagam/Logistic-Regression)|Programming assignment 2 in Machine Learning course on Coursera|3|2022-03-07|2022-02-28|
-|50|[Code-With-Aagam/Linear-Regression](https://github.com/Code-With-Aagam/Linear-Regression)|Programming assignment 1 in Machine Learning course on Coursera|3|2022-03-07|2022-02-27|
-|51|[derekbanas/OctaveTutorial](https://github.com/derekbanas/OctaveTutorial)|This is the code used in my Learn Octave in One Video Tutorial|3|2022-02-02|2022-02-02|
-|52|[happymondaynkanta/Machine-Learning-Course-Coursera](https://github.com/happymondaynkanta/Machine-Learning-Course-Coursera)|This repository contains the course material and assignment solutions for the machine learning course of Stanford University on Coursera. |3|2022-02-24|2022-01-31|
-|53|[YinPing-Cho/NTHU-ASP2021-Final](https://github.com/YinPing-Cho/NTHU-ASP2021-Final)|Final project repo for grad-level Adaptive Signal Processing course at National Tsinghua University, Taiwan.|3|2022-01-14|2021-12-29|
-|54|[HadiElnemr/Mechanism-Analysis](https://github.com/HadiElnemr/Mechanism-Analysis)|A mechanics of machinery course project where each student was assigned a certain compound mechanism to study, simulate, analyse and later animate its motion.|3|2022-01-08|2021-12-10|
-|55|[ziaul55/Deep-Learning-for-Signal-Analysis](https://github.com/ziaul55/Deep-Learning-for-Signal-Analysis)|To show how can we build a model using transfer learning techniques to classify signal data. |3|2022-01-10|2021-11-13|
-|56|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|3|2021-10-22|2021-10-21|
-|57|[BallisticLA/marla](https://github.com/BallisticLA/marla)|Matlab Algorithms for Randomized Linear Algebra|3|2022-03-18|2021-10-19|
-|58|[juanpablordz/computational-cognitive-science](https://github.com/juanpablordz/computational-cognitive-science)|The home of MIT's 9.66 course (Fall 2021).|3|2021-10-22|2021-09-19|
-|59|[joao-semedo/canonical-correlation-maps](https://github.com/joao-semedo/canonical-correlation-maps)|Code for "Feedforward and feedback interactions between visual cortical areas use different population activity patterns", Semedo et al. (Nature Communications, 2022)|3|2022-03-17|2021-08-27|
-|60|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|3|2021-12-22|2021-08-15|
-|61|[Elkinmt19/smart-systems-dojo](https://github.com/Elkinmt19/smart-systems-dojo)|This is a repository for learning more about AI, neural networks, and intelligent systems and integrating all these topics into the world of robotics.|3|2021-11-15|2021-07-20|
-|62|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|2021-11-16|2021-06-15|
-|63|[Xiaobo-Liu/matrices-mp-cosm](https://github.com/Xiaobo-Liu/matrices-mp-cosm)|Collection of matrices for testing the matrix cosine in multiprecision.|3|2022-02-20|2021-06-11|
-|64|[MouraWM/HIL-platform-fixed-wing-autopilot](https://github.com/MouraWM/HIL-platform-fixed-wing-autopilot)|HIL platform for fixed wing autopilot – A tutorial|3|2021-11-04|2021-06-09|
-|65|[robotology/online-detection-demo](https://github.com/robotology/online-detection-demo)|Fast object detection learning with CNN and kernel based architecture|3|2021-12-09|2021-06-03|
-|66|[burakozpoyraz/MATLAB-101](https://github.com/burakozpoyraz/MATLAB-101)|Documents of my MATLAB course|3|2022-02-22|2021-05-27|
-|67|[pcwhy/CSIL](https://github.com/pcwhy/CSIL)|The channel separation incremental learning algorithm for wireless device identification. With mathematical proofs of the accuracy of orthogonal memory representation in Artificial Neural Networks.|3|2021-12-08|2021-04-24|
-|68|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
-|69|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
-|70|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
-|71|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
+|39|[emilbjornson/grant-free](https://github.com/emilbjornson/grant-free)|Simulation code for “Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO,” by U. K. Ganesan, E. Björnson and E. G. Larsson, IEEE Transactions on Commu ...|4|2021-11-19|2021-07-27|
+|40|[gnu-octave/pkg-jupyter-notebook](https://github.com/gnu-octave/pkg-jupyter-notebook)|A package to run and fill Jupyter Notebooks within GNU Octave.|4|2022-02-18|2021-05-30|
+|41|[Yunhui-Gao/total-variation-image-denoising](https://github.com/Yunhui-Gao/total-variation-image-denoising)|Principles and algorithms for total variation image denoising problems|4|2021-11-20|2021-05-10|
+|42|[greyhatguy007/MachineLearningAndrewNG](https://github.com/greyhatguy007/MachineLearningAndrewNG)|Machine Learning Course - Coursera|3|2022-04-03|2022-03-10|
+|43|[Code-With-Aagam/K-Means-Clustering-and-PCA](https://github.com/Code-With-Aagam/K-Means-Clustering-and-PCA)|Programming assignment 7 in Machine Learning course on Coursera|3|2022-03-02|2022-03-02|
+|44|[Code-With-Aagam/Support-Vector-Machines](https://github.com/Code-With-Aagam/Support-Vector-Machines)|Programming assignment 6 in Machine Learning course on Coursera|3|2022-03-02|2022-03-02|
+|45|[Code-With-Aagam/Regularized-Linear-Regression-and-Bias-Variance](https://github.com/Code-With-Aagam/Regularized-Linear-Regression-and-Bias-Variance)|Programming assignment 5 in Machine Learning course on Coursera|3|2022-03-14|2022-03-01|
+|46|[Code-With-Aagam/Neural-Network-Learning](https://github.com/Code-With-Aagam/Neural-Network-Learning)|Programming assignment 4 in Machine Learning course on Coursera|3|2022-03-10|2022-03-01|
+|47|[Code-With-Aagam/Multi-class-Classification-and-Neural-Networks](https://github.com/Code-With-Aagam/Multi-class-Classification-and-Neural-Networks)|Programming assignment 3 in Machine Learning course on Coursera|3|2022-03-10|2022-03-01|
+|48|[Code-With-Aagam/Logistic-Regression](https://github.com/Code-With-Aagam/Logistic-Regression)|Programming assignment 2 in Machine Learning course on Coursera|3|2022-03-07|2022-02-28|
+|49|[Code-With-Aagam/Linear-Regression](https://github.com/Code-With-Aagam/Linear-Regression)|Programming assignment 1 in Machine Learning course on Coursera|3|2022-03-07|2022-02-27|
+|50|[derekbanas/OctaveTutorial](https://github.com/derekbanas/OctaveTutorial)|This is the code used in my Learn Octave in One Video Tutorial|3|2022-02-02|2022-02-02|
+|51|[happymondaynkanta/Machine-Learning-Course-Coursera](https://github.com/happymondaynkanta/Machine-Learning-Course-Coursera)|This repository contains the course material and assignment solutions for the machine learning course of Stanford University on Coursera. |3|2022-02-24|2022-01-31|
+|52|[YinPing-Cho/NTHU-ASP2021-Final](https://github.com/YinPing-Cho/NTHU-ASP2021-Final)|Final project repo for grad-level Adaptive Signal Processing course at National Tsinghua University, Taiwan.|3|2022-01-14|2021-12-29|
+|53|[HadiElnemr/Mechanism-Analysis](https://github.com/HadiElnemr/Mechanism-Analysis)|A mechanics of machinery course project where each student was assigned a certain compound mechanism to study, simulate, analyse and later animate its motion.|3|2022-01-08|2021-12-10|
+|54|[ziaul55/Deep-Learning-for-Signal-Analysis](https://github.com/ziaul55/Deep-Learning-for-Signal-Analysis)|To show how can we build a model using transfer learning techniques to classify signal data. |3|2022-01-10|2021-11-13|
+|55|[SapanaChaudhary/OCO-Long-Term-Constraints](https://github.com/SapanaChaudhary/OCO-Long-Term-Constraints)|A MATLAB implementation of online convex optimization (OCO) with long term constraints algorithms|3|2021-10-22|2021-10-21|
+|56|[BallisticLA/marla](https://github.com/BallisticLA/marla)|Matlab Algorithms for Randomized Linear Algebra|3|2022-03-18|2021-10-19|
+|57|[juanpablordz/computational-cognitive-science](https://github.com/juanpablordz/computational-cognitive-science)|The home of MIT's 9.66 course (Fall 2021).|3|2021-10-22|2021-09-19|
+|58|[joao-semedo/canonical-correlation-maps](https://github.com/joao-semedo/canonical-correlation-maps)|Code for "Feedforward and feedback interactions between visual cortical areas use different population activity patterns", Semedo et al. (Nature Communications, 2022)|3|2022-03-17|2021-08-27|
+|59|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|3|2021-12-22|2021-08-15|
+|60|[Elkinmt19/smart-systems-dojo](https://github.com/Elkinmt19/smart-systems-dojo)|This is a repository for learning more about AI, neural networks, and intelligent systems and integrating all these topics into the world of robotics.|3|2021-11-15|2021-07-20|
+|61|[rushikajoshi/Path-planning](https://github.com/rushikajoshi/Path-planning)|Implementation of path planning algorithms in 2D space|3|2021-11-16|2021-06-15|
+|62|[Xiaobo-Liu/matrices-mp-cosm](https://github.com/Xiaobo-Liu/matrices-mp-cosm)|Collection of matrices for testing the matrix cosine in multiprecision.|3|2022-02-20|2021-06-11|
+|63|[MouraWM/HIL-platform-fixed-wing-autopilot](https://github.com/MouraWM/HIL-platform-fixed-wing-autopilot)|HIL platform for fixed wing autopilot – A tutorial|3|2021-11-04|2021-06-09|
+|64|[robotology/online-detection-demo](https://github.com/robotology/online-detection-demo)|Fast object detection learning with CNN and kernel based architecture|3|2021-12-09|2021-06-03|
+|65|[burakozpoyraz/MATLAB-101](https://github.com/burakozpoyraz/MATLAB-101)|Documents of my MATLAB course|3|2022-02-22|2021-05-27|
+|66|[pcwhy/CSIL](https://github.com/pcwhy/CSIL)|The channel separation incremental learning algorithm for wireless device identification. With mathematical proofs of the accuracy of orthogonal memory representation in Artificial Neural Networks.|3|2021-12-08|2021-04-24|
+|67|[HUST-Tan/SS-GMM](https://github.com/HUST-Tan/SS-GMM)|Implementation of ICCV 2021 oral paper -- A Novel Self-Supervised Learning for Gaussian Mixture Model|2|2021-10-18|2021-08-16|
+|68|[fatihaydin1/vibes](https://github.com/fatihaydin1/vibes)|A new ensemble learning algorithm. Please see the website: https://doi.org/10.1093/comjnl/bxz118.|2|2021-12-04|2021-08-01|
+|69|[OctopusNO1/Structural-Dynamics-Guide](https://github.com/OctopusNO1/Structural-Dynamics-Guide)|This is a Structural Dynamics learning guide.  I hope this guide can help you to learn Structural Dynamics easier. |2|2021-11-22|2021-07-02|
+|70|[parham1998/Pitch-Detection](https://github.com/parham1998/Pitch-Detection)|Implementation of Pitch Detection algorithms with Matlab|2|2021-10-23|2021-06-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

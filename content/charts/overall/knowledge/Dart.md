@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Dart
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|40043|2022-04-07|
-|2|[flutter/samples](https://github.com/flutter/samples)|A collection of Flutter examples and demos|11469|2022-04-06|
-|3|[AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|:octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flut ...|5000|2022-02-12|
-|4|[FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials)|The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.|4246|2022-02-13|
-|5|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3914|2022-04-06|
-|6|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.|3738|2022-04-06|
+|1|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|40064|2022-04-07|
+|2|[flutter/samples](https://github.com/flutter/samples)|A collection of Flutter examples and demos|11486|2022-04-06|
+|3|[AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|:octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flut ...|5001|2022-02-12|
+|4|[FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials)|The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.|4243|2022-02-13|
+|5|[vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)|A Collection of Flutter and Dart Tips and Tricks|3927|2022-04-09|
+|6|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.|3742|2022-04-08|
 |7|[jogboms/flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.|2495|2022-03-20|
 |8|[flutter/packages](https://github.com/flutter/packages)|A collection of useful packages maintained by the Flutter team|1636|2022-04-03|
 |9|[syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples)|This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.|1306|2022-03-29|
@@ -199,12 +199,12 @@
 |192|[tusharojha/file_share_server](https://github.com/tusharojha/file_share_server)|File share server is a tool for sharing private files to people using a secure hash token developed in Dart.|6|2022-02-08|
 |193|[AV-Studios/SRMOne](https://github.com/AV-Studios/SRMOne)|Notes, PDFs, and Books|6|2022-01-19|
 |194|[aniketambore/Flutter-Firebase-AuthModule](https://github.com/aniketambore/Flutter-Firebase-AuthModule)|This Project shows you how to implement Email/Password Authentication process in Flutter, using Firebase.|6|2022-01-30|
-|195|[TNorbury/flutter_expandable_sliver_list](https://github.com/TNorbury/flutter_expandable_sliver_list)|Flutter widget allowing the user to create an expandable sliver list. Expand and collapse a list of items within a custom scroll view!|6|2021-10-08|
-|196|[TabooSun/overlay_tutorial](https://github.com/TabooSun/overlay_tutorial)|A Flutter package for displaying overlay tutorial.|6|2022-03-21|
-|197|[m3uzz/select_form_field](https://github.com/m3uzz/select_form_field)|A Flutter select form field widget. It shows a list of options in a dropdown menu.|6|2021-12-28|
-|198|[baobaotql/CCNU_Intelligent_Tutorial_System](https://github.com/baobaotql/CCNU_Intelligent_Tutorial_System)|CCNU_Intelligent_Tutorial_System for Challenge Cup|6|2022-02-13|
-|199|[pratamawijaya/Flutter101](https://github.com/pratamawijaya/Flutter101)|Flutter learning tracks|6|2021-11-29|
-|200|[ashu98s/Flutter-Clock-App-UI](https://github.com/ashu98s/Flutter-Clock-App-UI)|If you want to learn how to use both Light and Dark theme in Flutter then it helps a lot.|5|2022-03-29|
+|195|[TabooSun/overlay_tutorial](https://github.com/TabooSun/overlay_tutorial)|A Flutter package for displaying overlay tutorial.|6|2022-03-21|
+|196|[m3uzz/select_form_field](https://github.com/m3uzz/select_form_field)|A Flutter select form field widget. It shows a list of options in a dropdown menu.|6|2021-12-28|
+|197|[baobaotql/CCNU_Intelligent_Tutorial_System](https://github.com/baobaotql/CCNU_Intelligent_Tutorial_System)|CCNU_Intelligent_Tutorial_System for Challenge Cup|6|2022-02-13|
+|198|[pratamawijaya/Flutter101](https://github.com/pratamawijaya/Flutter101)|Flutter learning tracks|6|2021-11-29|
+|199|[ashu98s/Flutter-Clock-App-UI](https://github.com/ashu98s/Flutter-Clock-App-UI)|If you want to learn how to use both Light and Dark theme in Flutter then it helps a lot.|5|2022-03-29|
+|200|[saasnathan/getx_example](https://github.com/saasnathan/getx_example)|GetX examples: Routes, Binds, State Management|5|2022-02-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

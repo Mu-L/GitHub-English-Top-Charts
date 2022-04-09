@@ -1,40 +1,40 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > TypeScript
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a developer in 2022|191076|2022-04-06|
-|2|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16979|2022-03-28|
-|3|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|15452|2022-04-06|
-|4|[styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)|Isolated React component development environment with a living style guide|10309|2022-04-01|
-|5|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|9088|2022-04-07|
-|6|[howtographql/howtographql](https://github.com/howtographql/howtographql)|The Fullstack Tutorial for GraphQL|8153|2022-04-04|
-|7|[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)|A collection of essential TypeScript types|7431|2022-04-05|
-|8|[LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)|Solve LeetCode problems in VS Code|7168|2022-03-14|
-|9|[shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)|A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾|6434|2022-04-07|
-|10|[adobe/react-spectrum](https://github.com/adobe/react-spectrum)|A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.|6272|2022-04-07|
-|11|[1milligram/csslayout](https://github.com/1milligram/csslayout)|A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!|5534|2022-02-25|
-|12|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples|5000|2022-04-03|
+|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a developer in 2022|191277|2022-04-06|
+|2|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16988|2022-03-28|
+|3|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|15560|2022-04-08|
+|4|[styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)|Isolated React component development environment with a living style guide|10311|2022-04-08|
+|5|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|9123|2022-04-09|
+|6|[howtographql/howtographql](https://github.com/howtographql/howtographql)|The Fullstack Tutorial for GraphQL|8154|2022-04-04|
+|7|[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)|A collection of essential TypeScript types|7441|2022-04-08|
+|8|[LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)|Solve LeetCode problems in VS Code|7170|2022-04-09|
+|9|[shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)|A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾|6470|2022-04-08|
+|10|[adobe/react-spectrum](https://github.com/adobe/react-spectrum)|A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.|6279|2022-04-09|
+|11|[1milligram/csslayout](https://github.com/1milligram/csslayout)|A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!|5544|2022-02-25|
+|12|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples|5009|2022-04-03|
 |13|[microsoft/codetour](https://github.com/microsoft/codetour)|VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.|3865|2022-03-26|
-|14|[google/gts](https://github.com/google/gts)|☂️ TypeScript style guide, formatter, and linter.  |3833|2022-04-05|
-|15|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3501|2022-04-06|
-|16|[WorldBrain/Memex](https://github.com/WorldBrain/Memex)|Browser Extension to full-text search your browsing history & bookmarks.|3422|2022-04-07|
-|17|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3422|2022-03-24|
-|18|[bqplot/bqplot](https://github.com/bqplot/bqplot)|Plotting library for IPython/Jupyter notebooks|3270|2022-04-07|
-|19|[vercel/og-image](https://github.com/vercel/og-image)|Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc|3012|2022-03-31|
-|20|[TSiege/Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)|Studying for a tech interview sucks. Here's an open source cheat sheet to help|2921|2022-02-15|
-|21|[elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)|Tourist Guide into your React Components|2917|2022-03-31|
-|22|[wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio)|Learn, Teach, Work and Play in the WebAssembly Studio|2842|2022-02-26|
-|23|[hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)|HedgeDoc - The best platform to write and share markdown.|2782|2022-04-03|
+|14|[google/gts](https://github.com/google/gts)|☂️ TypeScript style guide, formatter, and linter.  |3836|2022-04-08|
+|15|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3502|2022-04-06|
+|16|[WorldBrain/Memex](https://github.com/WorldBrain/Memex)|Browser Extension to full-text search your browsing history & bookmarks.|3425|2022-04-09|
+|17|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3423|2022-03-24|
+|18|[bqplot/bqplot](https://github.com/bqplot/bqplot)|Plotting library for IPython/Jupyter notebooks|3271|2022-04-09|
+|19|[vercel/og-image](https://github.com/vercel/og-image)|Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc|3017|2022-03-31|
+|20|[TSiege/Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)|Studying for a tech interview sucks. Here's an open source cheat sheet to help|2923|2022-02-15|
+|21|[elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)|Tourist Guide into your React Components|2919|2022-03-31|
+|22|[wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio)|Learn, Teach, Work and Play in the WebAssembly Studio|2844|2022-02-26|
+|23|[hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)|HedgeDoc - The best platform to write and share markdown.|2789|2022-04-09|
 |24|[dabbott/react-express](https://github.com/dabbott/react-express)|Learn React through interactive examples|2542|2022-02-17|
 |25|[streamich/libreact](https://github.com/streamich/libreact)|Collection of useful React components|2530|2022-03-15|
-|26|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|2494|2022-04-03|
-|27|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|2462|2022-04-05|
-|28|[garden-io/garden](https://github.com/garden-io/garden)|Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces ...|2399|2022-04-06|
+|26|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|2499|2022-04-08|
+|27|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|2464|2022-04-07|
+|28|[garden-io/garden](https://github.com/garden-io/garden)|Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces ...|2440|2022-04-09|
 |29|[mlaursen/react-md](https://github.com/mlaursen/react-md)|React material design - An accessible React component library built from the Material Design guidelines in Sass|2300|2022-04-04|
-|30|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2232|2022-04-06|
+|30|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2233|2022-04-08|
 |31|[vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)|Created from react styleguidist for Vue Components with a living style guide|2188|2022-04-05|
 |32|[yangshun/lago](https://github.com/yangshun/lago)|📕 Data Structures and Algorithms library in TypeScript|2178|2022-03-30|
 |33|[davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners)|A collection of loading spinner components for react|2166|2022-03-28|
@@ -155,56 +155,56 @@
 |148|[lgpage/nbtutor](https://github.com/lgpage/nbtutor)|Visualize Python code execution (line-by-line) in Jupyter Notebook cells.|397|2022-04-04|
 |149|[DevC-Casa/awesome-morocco](https://github.com/DevC-Casa/awesome-morocco)|👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻|394|2022-03-24|
 |150|[silviopaganini/nft-market](https://github.com/silviopaganini/nft-market)|NFT Marketplace prototype using Typescript, WalletConnect, Metamask, Web3, Solidity, React and Storybook|391|2022-02-27|
-|151|[resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons)|A collection of open source icons for public health projects.|387|2021-10-07|
-|152|[storybookjs/presets](https://github.com/storybookjs/presets)|🧩 Presets for Storybook|367|2022-03-19|
-|153|[cfworker/cfworker](https://github.com/cfworker/cfworker)|A collection of packages optimized for Cloudflare Workers and service workers.|366|2022-04-01|
-|154|[hjlld/LearningWebGPU](https://github.com/hjlld/LearningWebGPU)|WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.|362|2022-03-24|
-|155|[FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy)|Automatically deploy shareable previews for your Firebase Hosting sites|361|2022-03-31|
-|156|[evnbr/bindery](https://github.com/evnbr/bindery)|Book layout in the browser|357|2022-02-26|
-|157|[MetaMask/eth-sig-util](https://github.com/MetaMask/eth-sig-util)|A collection of functions for signing and verifying data with Ethereum keys.|353|2022-03-26|
-|158|[octokatherine/word-master](https://github.com/octokatherine/word-master)|A Mastermind-like word guessing game|348|2022-04-05|
-|159|[gicentre/litvis](https://github.com/gicentre/litvis)|Literate Visualization: Theory, software and examples|343|2022-01-15|
-|160|[peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder)|A compilation of pitch detection algorithms for Javascript.|336|2022-03-26|
-|161|[salarcode/SmartProxy](https://github.com/salarcode/SmartProxy)|Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.|330|2022-03-29|
-|162|[hjdhjd/homebridge-myq](https://github.com/hjdhjd/homebridge-myq)|:car: myQ Liftmaster and Chamberlain Plugin for Homebridge https://github.com/nfarina/homebridge|329|2022-04-04|
-|163|[rajinwonderland/react-code-blocks](https://github.com/rajinwonderland/react-code-blocks)|React code blocks and code snippet components|327|2022-03-13|
-|164|[urban-bot/urban-bot](https://github.com/urban-bot/urban-bot)|🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots|323|2022-04-04|
-|165|[sibs-projects/relay-modern-course](https://github.com/sibs-projects/relay-modern-course)|Relay Modern Course|321|2022-02-26|
-|166|[SinghDigamber/angularfirebase-authentication](https://github.com/SinghDigamber/angularfirebase-authentication)|Learn to create complete Angular 13 Firebase authentication system tutorial from scratch. Learn how to setup sign In, sign up using custom email and password, social login provides such as Google and  ...|320|2022-04-02|
-|167|[bojidaryovchev/nest-angular](https://github.com/bojidaryovchev/nest-angular)|NestJS, Angular 6, Server Side Rendering (Angular Universal), GraphQL, JWT (JSON Web Tokens) and Facebook/Twitter/Google Authentication, Mongoose, MongoDB, Webpack, TypeScript|316|2022-02-27|
-|168|[ArkEcosystem/core](https://github.com/ArkEcosystem/core)|The ARK Core Blockchain Framework. Check https://learn.ark.dev for more information.|316|2022-04-05|
-|169|[ultimatecourses/angular-pro-src](https://github.com/ultimatecourses/angular-pro-src)|Source code for the "Angular Pro" course.|311|2022-03-02|
-|170|[mathigon/textbooks](https://github.com/mathigon/textbooks)|Source code of Mathigon's interactive textbooks|310|2022-04-03|
-|171|[StephenGrider/typescriptcasts](https://github.com/StephenGrider/typescriptcasts)|Companion repo to a course hosted on Udemy.com|304|2022-02-26|
-|172|[ben-rogerson/twin.examples](https://github.com/ben-rogerson/twin.examples)|Packed with examples for different frameworks, this repo helps you get started with twin a whole lot faster.|303|2022-03-17|
-|173|[googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots)|A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.|299|2022-04-05|
-|174|[milesj/emojibase](https://github.com/milesj/emojibase)|🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.|297|2022-03-05|
-|175|[nartc/nest-mean](https://github.com/nartc/nest-mean)|NestJS Tutorial Repository|296|2022-03-02|
-|176|[intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate)|vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。|295|2022-03-12|
-|177|[JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css)|Amazing collection of React spinners components with pure css|294|2022-03-24|
-|178|[hipstersmoothie/storybook-dark-mode](https://github.com/hipstersmoothie/storybook-dark-mode)|A storybook addon that lets your users toggle between dark and light mode.|294|2022-04-04|
-|179|[typeorm/typescript-express-example](https://github.com/typeorm/typescript-express-example)|Example how to use Express and TypeORM with TypeScript|294|2022-04-02|
-|180|[angular-university/rxjs-course](https://github.com/angular-university/rxjs-course)|RxJs In Practice Course - https://angular-university.io/course/rxjs-course|288|2022-03-02|
-|181|[AngularTemplates/firebase-authentication-with-angular](https://github.com/AngularTemplates/firebase-authentication-with-angular)|🔥 Angular tutorial to setup Firebase Authentication with Angular. Learn how to setup social login providers such as Facebook, Twitter and Google and also custom email/password authentication. |288|2022-03-02|
-|182|[RobinMalfait/lazy-collections](https://github.com/RobinMalfait/lazy-collections)|Collection of fast and lazy operations|287|2022-03-30|
-|183|[apache/echarts-examples](https://github.com/apache/echarts-examples)|Examples of ECharts|285|2022-04-01|
-|184|[elderfo/react-native-storybook-loader](https://github.com/elderfo/react-native-storybook-loader)|An automatic story loader for react-native-storybooks|281|2022-02-14|
-|185|[DeborahK/Angular-Routing](https://github.com/DeborahK/Angular-Routing)|Materials for my Pluralsight course: Angular Routing.|280|2021-10-31|
-|186|[josh-berry/tab-stash](https://github.com/josh-berry/tab-stash)|Firefox extension to save and restore tabs as bookmarks|279|2022-03-19|
-|187|[codeverland/codever](https://github.com/codeverland/codever)|Bookmarks and Snippets Manager for Developers & Co|276|2022-03-31|
-|188|[OfficeDev/Excel-Custom-Functions](https://github.com/OfficeDev/Excel-Custom-Functions)|Learn about custom functions in Excel.|270|2022-04-04|
-|189|[jupyterlab/extension-examples](https://github.com/jupyterlab/extension-examples)|JupyterLab Extensions by Examples|267|2022-03-07|
-|190|[ionic-team/stencil-component-starter](https://github.com/ionic-team/stencil-component-starter)|Minimal starter project for building shareable web components with Stencil https://github.com/ionic-team/stencil|261|2022-03-29|
-|191|[enochndika/kimia-UI](https://github.com/enochndika/kimia-UI)|A collection of UI Components  for React built with Tailwind CSS 3|259|2022-02-27|
-|192|[microsoft-search/pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)|Home of PnP Modern Search solutions, helping you move from classic to modern SharePoint and beyond|259|2022-04-05|
-|193|[btholt/projects-for-complete-intro-to-containers](https://github.com/btholt/projects-for-complete-intro-to-containers)|The projects for the Frontend Masters course, the Complete Intro to Containers|258|2022-02-26|
-|194|[gcanti/io-ts-types](https://github.com/gcanti/io-ts-types)|A collection of codecs and combinators for use with io-ts|254|2021-10-12|
-|195|[academind/clean-code-course-code](https://github.com/academind/clean-code-course-code)|Code and attachments for our clean code course (https://acad.link/clean-code)|252|2022-02-17|
-|196|[standard/ts-standard](https://github.com/standard/ts-standard)|Typescript style guide, linter, and formatter using StandardJS|251|2022-04-04|
-|197|[codecraft-tv/angular-course](https://github.com/codecraft-tv/angular-course)|Official repository for the Angular: From Theory To Practice Book|251|2022-03-02|
-|198|[lichess-org/api](https://github.com/lichess-org/api)|Lichess API documentation and examples|251|2022-03-31|
-|199|[ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop)|The course material for our React Hooks workshop|247|2022-04-05|
-|200|[mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action)|A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.|245|2021-11-26|
+|151|[storybookjs/presets](https://github.com/storybookjs/presets)|🧩 Presets for Storybook|367|2022-03-19|
+|152|[cfworker/cfworker](https://github.com/cfworker/cfworker)|A collection of packages optimized for Cloudflare Workers and service workers.|366|2022-04-01|
+|153|[hjlld/LearningWebGPU](https://github.com/hjlld/LearningWebGPU)|WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.|362|2022-03-24|
+|154|[FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy)|Automatically deploy shareable previews for your Firebase Hosting sites|361|2022-03-31|
+|155|[evnbr/bindery](https://github.com/evnbr/bindery)|Book layout in the browser|357|2022-02-26|
+|156|[MetaMask/eth-sig-util](https://github.com/MetaMask/eth-sig-util)|A collection of functions for signing and verifying data with Ethereum keys.|353|2022-03-26|
+|157|[octokatherine/word-master](https://github.com/octokatherine/word-master)|A Mastermind-like word guessing game|348|2022-04-05|
+|158|[gicentre/litvis](https://github.com/gicentre/litvis)|Literate Visualization: Theory, software and examples|343|2022-01-15|
+|159|[peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder)|A compilation of pitch detection algorithms for Javascript.|336|2022-03-26|
+|160|[salarcode/SmartProxy](https://github.com/salarcode/SmartProxy)|Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.|330|2022-03-29|
+|161|[hjdhjd/homebridge-myq](https://github.com/hjdhjd/homebridge-myq)|:car: myQ Liftmaster and Chamberlain Plugin for Homebridge https://github.com/nfarina/homebridge|329|2022-04-04|
+|162|[rajinwonderland/react-code-blocks](https://github.com/rajinwonderland/react-code-blocks)|React code blocks and code snippet components|327|2022-03-13|
+|163|[urban-bot/urban-bot](https://github.com/urban-bot/urban-bot)|🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots|323|2022-04-04|
+|164|[sibs-projects/relay-modern-course](https://github.com/sibs-projects/relay-modern-course)|Relay Modern Course|321|2022-02-26|
+|165|[SinghDigamber/angularfirebase-authentication](https://github.com/SinghDigamber/angularfirebase-authentication)|Learn to create complete Angular 13 Firebase authentication system tutorial from scratch. Learn how to setup sign In, sign up using custom email and password, social login provides such as Google and  ...|320|2022-04-02|
+|166|[bojidaryovchev/nest-angular](https://github.com/bojidaryovchev/nest-angular)|NestJS, Angular 6, Server Side Rendering (Angular Universal), GraphQL, JWT (JSON Web Tokens) and Facebook/Twitter/Google Authentication, Mongoose, MongoDB, Webpack, TypeScript|316|2022-02-27|
+|167|[ArkEcosystem/core](https://github.com/ArkEcosystem/core)|The ARK Core Blockchain Framework. Check https://learn.ark.dev for more information.|316|2022-04-05|
+|168|[ultimatecourses/angular-pro-src](https://github.com/ultimatecourses/angular-pro-src)|Source code for the "Angular Pro" course.|311|2022-03-02|
+|169|[mathigon/textbooks](https://github.com/mathigon/textbooks)|Source code of Mathigon's interactive textbooks|310|2022-04-03|
+|170|[StephenGrider/typescriptcasts](https://github.com/StephenGrider/typescriptcasts)|Companion repo to a course hosted on Udemy.com|304|2022-02-26|
+|171|[ben-rogerson/twin.examples](https://github.com/ben-rogerson/twin.examples)|Packed with examples for different frameworks, this repo helps you get started with twin a whole lot faster.|303|2022-03-17|
+|172|[googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots)|A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.|299|2022-04-05|
+|173|[milesj/emojibase](https://github.com/milesj/emojibase)|🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.|297|2022-03-05|
+|174|[nartc/nest-mean](https://github.com/nartc/nest-mean)|NestJS Tutorial Repository|296|2022-03-02|
+|175|[intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate)|vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。|295|2022-03-12|
+|176|[JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css)|Amazing collection of React spinners components with pure css|294|2022-03-24|
+|177|[hipstersmoothie/storybook-dark-mode](https://github.com/hipstersmoothie/storybook-dark-mode)|A storybook addon that lets your users toggle between dark and light mode.|294|2022-04-04|
+|178|[typeorm/typescript-express-example](https://github.com/typeorm/typescript-express-example)|Example how to use Express and TypeORM with TypeScript|294|2022-04-02|
+|179|[angular-university/rxjs-course](https://github.com/angular-university/rxjs-course)|RxJs In Practice Course - https://angular-university.io/course/rxjs-course|288|2022-03-02|
+|180|[AngularTemplates/firebase-authentication-with-angular](https://github.com/AngularTemplates/firebase-authentication-with-angular)|🔥 Angular tutorial to setup Firebase Authentication with Angular. Learn how to setup social login providers such as Facebook, Twitter and Google and also custom email/password authentication. |288|2022-03-02|
+|181|[RobinMalfait/lazy-collections](https://github.com/RobinMalfait/lazy-collections)|Collection of fast and lazy operations|287|2022-03-30|
+|182|[apache/echarts-examples](https://github.com/apache/echarts-examples)|Examples of ECharts|285|2022-04-01|
+|183|[elderfo/react-native-storybook-loader](https://github.com/elderfo/react-native-storybook-loader)|An automatic story loader for react-native-storybooks|281|2022-02-14|
+|184|[DeborahK/Angular-Routing](https://github.com/DeborahK/Angular-Routing)|Materials for my Pluralsight course: Angular Routing.|280|2021-10-31|
+|185|[josh-berry/tab-stash](https://github.com/josh-berry/tab-stash)|Firefox extension to save and restore tabs as bookmarks|279|2022-03-19|
+|186|[codeverland/codever](https://github.com/codeverland/codever)|Bookmarks and Snippets Manager for Developers & Co|276|2022-03-31|
+|187|[OfficeDev/Excel-Custom-Functions](https://github.com/OfficeDev/Excel-Custom-Functions)|Learn about custom functions in Excel.|270|2022-04-04|
+|188|[jupyterlab/extension-examples](https://github.com/jupyterlab/extension-examples)|JupyterLab Extensions by Examples|267|2022-03-07|
+|189|[ionic-team/stencil-component-starter](https://github.com/ionic-team/stencil-component-starter)|Minimal starter project for building shareable web components with Stencil https://github.com/ionic-team/stencil|261|2022-03-29|
+|190|[enochndika/kimia-UI](https://github.com/enochndika/kimia-UI)|A collection of UI Components  for React built with Tailwind CSS 3|259|2022-02-27|
+|191|[microsoft-search/pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)|Home of PnP Modern Search solutions, helping you move from classic to modern SharePoint and beyond|259|2022-04-05|
+|192|[btholt/projects-for-complete-intro-to-containers](https://github.com/btholt/projects-for-complete-intro-to-containers)|The projects for the Frontend Masters course, the Complete Intro to Containers|258|2022-02-26|
+|193|[gcanti/io-ts-types](https://github.com/gcanti/io-ts-types)|A collection of codecs and combinators for use with io-ts|254|2021-10-12|
+|194|[academind/clean-code-course-code](https://github.com/academind/clean-code-course-code)|Code and attachments for our clean code course (https://acad.link/clean-code)|252|2022-02-17|
+|195|[standard/ts-standard](https://github.com/standard/ts-standard)|Typescript style guide, linter, and formatter using StandardJS|251|2022-04-04|
+|196|[codecraft-tv/angular-course](https://github.com/codecraft-tv/angular-course)|Official repository for the Angular: From Theory To Practice Book|251|2022-03-02|
+|197|[lichess-org/api](https://github.com/lichess-org/api)|Lichess API documentation and examples|251|2022-03-31|
+|198|[ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop)|The course material for our React Hooks workshop|247|2022-04-05|
+|199|[mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action)|A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.|245|2021-11-26|
+|200|[polkadot-js/common](https://github.com/polkadot-js/common)|Utilities and base libraries for use across polkadot-js for Polkadot and Substrate. Includes base libraries, crypto helpers and cross-environment helpers. Full documentation & examples available.|245|2022-04-05|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

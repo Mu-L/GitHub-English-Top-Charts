@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|9189|2022-03-02|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|9257|2022-04-09|
 |2|[algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive)|A collaborative book on algorithms|1951|2022-03-31|
 |3|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|520|2021-12-20|
 |4|[guitmz/virii](https://github.com/guitmz/virii)|Collection of ancient computer virus source codes|432|2021-11-26|
@@ -109,40 +109,39 @@
 |102|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2021-11-28|
 |103|[SoulXHades/Shellcode](https://github.com/SoulXHades/Shellcode)|A repos of shellcodes I created for fun during my free time to learn.|3|2021-11-01|
 |104|[HerrSchatten/MBMPlay-SMS](https://github.com/HerrSchatten/MBMPlay-SMS)|A port of the MoonBlaster replayer from the MSX to the Master System|3|2022-01-31|
-|105|[Ziagl/C64-Assembler](https://github.com/Ziagl/C64-Assembler)|Listings of my C64 Assembler tutorial series|3|2021-10-08|
-|106|[DavidJRichards/VideoWriter](https://github.com/DavidJRichards/VideoWriter)|Collection of information about Philips VideoWriter 4460|3|2022-01-10|
-|107|[LukeUsher/sonic-the-hedgehog-pal-edition](https://github.com/LukeUsher/sonic-the-hedgehog-pal-edition)|A (probably misguided) attempt to create a proper PAL optimised port of Sonic 1|2|2022-03-30|
-|108|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|2022-02-20|
-|109|[mahmou7789d/AVR_Driver](https://github.com/mahmou7789d/AVR_Driver)|For AVR Embedded Course, I had code this driver to produce more electronics and robotics projects using AVR Microcontroller|2|2022-03-01|
-|110|[msarbouch/HackerU](https://github.com/msarbouch/HackerU)|Most of my works during the study period.|2|2022-02-10|
-|111|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|2022-01-10|
-|112|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|2022-01-03|
-|113|[ruinenlee/GnssNavigationAndVisualization](https://github.com/ruinenlee/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|2021-11-26|
-|114|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|2021-11-14|
-|115|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|2021-11-13|
-|116|[Kerago/Music-Player-Machine-Hacking-IRL](https://github.com/Kerago/Music-Player-Machine-Hacking-IRL)|How to hack those music players that only have chrome open :) Bypass the restriction to User Interface and POC cant be shown yet but it works :)|2|2022-03-17|
-|117|[metaone70/A-Space-Game-C64](https://github.com/metaone70/A-Space-Game-C64)|This repository contains my first Commodore 64 game in assembly... I've learned and implemented basic aspects that forms the foundation of a game, so it is a playable game, it is not meant to last hou ...|2|2022-01-05|
-|118|[AlexandrosKyriakakis/microprocessor-lab-ntua](https://github.com/AlexandrosKyriakakis/microprocessor-lab-ntua)|University assignments for lesson Microprocessor Lab 2020-2021|2|2021-11-05|
-|119|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|2021-10-28|
-|120|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|2021-10-25|
-|121|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|2021-10-26|
-|122|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|2022-01-16|
-|123|[nafsika24/Microcomputers-Systems-NTUA](https://github.com/nafsika24/Microcomputers-Systems-NTUA)|Microcomputers Course (2019-2020) NTUA|2|2021-10-15|
-|124|[petikvx/vx-ezine](https://github.com/petikvx/vx-ezine)|Collection of ezine about virii|2|2022-02-23|
-|125|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|2|2021-12-27|
-|126|[jmthompson/jrc-1](https://github.com/jmthompson/jrc-1)|Josh's Retro Computer 1, the first in a new series of homebrew retro computers|2|2022-03-14|
-|127|[b4rt-dev/FPGC5](https://github.com/b4rt-dev/FPGC5)|A completely self designed (game) computer, implemented in hardware using an FPGA. Basically every component is self designed, from the ISA up to the PCB and software. Project exists to learn more abo ...|2|2022-02-11|
-|128|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2022-02-26|
-|129|[ijpq/15418](https://github.com/ijpq/15418)|CMU-15418 course, keywords: parallel programming, intel-ispc, CUDA.|2|2022-03-23|
-|130|[mwfj/CMU_15213_CSAPP3E_Lab](https://github.com/mwfj/CMU_15213_CSAPP3E_Lab)|Self-Study: The Class lab of CMU-15213(2015 version) http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html|2|2022-03-27|
-|131|[infosecirvin/assembly](https://github.com/infosecirvin/assembly)|Assembly Course|2|2021-11-02|
-|132|[saumya-prakash/Mastermind](https://github.com/saumya-prakash/Mastermind)|Implementation of the classic board-game Mastermind in x86 assembly|2|2021-10-31|
-|133|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|2021-11-24|
-|134|[tedkotz/be6502](https://github.com/tedkotz/be6502)|Collection of notes, software and upgrades for Ben Eater's 6502 Computer|2|2022-01-10|
-|135|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|2022-01-18|
-|136|[skeetor/c64-src](https://github.com/skeetor/c64-src)|A collection of Commodore C64 and C128 sources.|2|2021-12-26|
-|137|[hang-on/knights-of-the-square](https://github.com/hang-on/knights-of-the-square)|Sega Master System Homebrew|2|2022-03-23|
-|138|[crtc-demos/the-master-of-your-old-school](https://github.com/crtc-demos/the-master-of-your-old-school)|CRTC's demo for the BBC Master, released at Sundown 2010|2|2021-10-12|
+|105|[DavidJRichards/VideoWriter](https://github.com/DavidJRichards/VideoWriter)|Collection of information about Philips VideoWriter 4460|3|2022-01-10|
+|106|[LukeUsher/sonic-the-hedgehog-pal-edition](https://github.com/LukeUsher/sonic-the-hedgehog-pal-edition)|A (probably misguided) attempt to create a proper PAL optimised port of Sonic 1|2|2022-03-30|
+|107|[AkaliRep/Assembly-Compilation](https://github.com/AkaliRep/Assembly-Compilation)|Compilation of things I am learning to do with assembly|2|2022-02-20|
+|108|[mahmou7789d/AVR_Driver](https://github.com/mahmou7789d/AVR_Driver)|For AVR Embedded Course, I had code this driver to produce more electronics and robotics projects using AVR Microcontroller|2|2022-03-01|
+|109|[msarbouch/HackerU](https://github.com/msarbouch/HackerU)|Most of my works during the study period.|2|2022-02-10|
+|110|[ferhatkorkmaz11/CS224-2021-2022-FALL](https://github.com/ferhatkorkmaz11/CS224-2021-2022-FALL)|Labs for Bilkent University's CS224 Computer Organization course in 2021-2022 Fall Semester |2|2022-01-10|
+|111|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|share SDUCS course material including ppt、previous exams as well as recalled exams|2|2022-01-03|
+|112|[ruinenlee/GnssNavigationAndVisualization](https://github.com/ruinenlee/GnssNavigationAndVisualization)|Fall 2020 Multi-agent Intelligence Course Project - 1|2|2021-11-26|
+|113|[milofultz/sorting-in-6502](https://github.com/milofultz/sorting-in-6502)|Implementing sorting algorithms in 6502 assembly so I will REALLY know how they work|2|2021-11-14|
+|114|[seanpm2001/Learn-Assembly](https://github.com/seanpm2001/Learn-Assembly)|A repository for showcasing my knowledge of the Assembly programming language, and continuing to learn the language.|2|2021-11-13|
+|115|[Kerago/Music-Player-Machine-Hacking-IRL](https://github.com/Kerago/Music-Player-Machine-Hacking-IRL)|How to hack those music players that only have chrome open :) Bypass the restriction to User Interface and POC cant be shown yet but it works :)|2|2022-03-17|
+|116|[metaone70/A-Space-Game-C64](https://github.com/metaone70/A-Space-Game-C64)|This repository contains my first Commodore 64 game in assembly... I've learned and implemented basic aspects that forms the foundation of a game, so it is a playable game, it is not meant to last hou ...|2|2022-01-05|
+|117|[AlexandrosKyriakakis/microprocessor-lab-ntua](https://github.com/AlexandrosKyriakakis/microprocessor-lab-ntua)|University assignments for lesson Microprocessor Lab 2020-2021|2|2021-11-05|
+|118|[sasaga/SHELLCODES-WINDOWS](https://github.com/sasaga/SHELLCODES-WINDOWS)|This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform|2|2021-10-28|
+|119|[BenchBenchie/SMWCHackJam](https://github.com/BenchBenchie/SMWCHackJam)|A repository for shared progress in a SMW hackjam entry|2|2021-10-25|
+|120|[mikeblas/NiftyJames](https://github.com/mikeblas/NiftyJames)|Nifty James' 16-bit DOS Shareware utilities|2|2021-10-26|
+|121|[WillSams/Making-Games-For-The-NES-book-examples](https://github.com/WillSams/Making-Games-For-The-NES-book-examples)|Me just going through Steven Hugg's book, sans the need to use the 8bitworkshop web IDE.|2|2022-01-16|
+|122|[nafsika24/Microcomputers-Systems-NTUA](https://github.com/nafsika24/Microcomputers-Systems-NTUA)|Microcomputers Course (2019-2020) NTUA|2|2021-10-15|
+|123|[petikvx/vx-ezine](https://github.com/petikvx/vx-ezine)|Collection of ezine about virii|2|2022-02-23|
+|124|[vxfury/libmpi](https://github.com/vxfury/libmpi)|Multiple Precision Integer and Relevant Algorithms, such as Bignum, RSA, DH, ECDH, ECDSA|2|2021-12-27|
+|125|[jmthompson/jrc-1](https://github.com/jmthompson/jrc-1)|Josh's Retro Computer 1, the first in a new series of homebrew retro computers|2|2022-03-14|
+|126|[b4rt-dev/FPGC5](https://github.com/b4rt-dev/FPGC5)|A completely self designed (game) computer, implemented in hardware using an FPGA. Basically every component is self designed, from the ISA up to the PCB and software. Project exists to learn more abo ...|2|2022-02-11|
+|127|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|2|2022-02-26|
+|128|[ijpq/15418](https://github.com/ijpq/15418)|CMU-15418 course, keywords: parallel programming, intel-ispc, CUDA.|2|2022-03-23|
+|129|[mwfj/CMU_15213_CSAPP3E_Lab](https://github.com/mwfj/CMU_15213_CSAPP3E_Lab)|Self-Study: The Class lab of CMU-15213(2015 version) http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html|2|2022-03-27|
+|130|[infosecirvin/assembly](https://github.com/infosecirvin/assembly)|Assembly Course|2|2021-11-02|
+|131|[saumya-prakash/Mastermind](https://github.com/saumya-prakash/Mastermind)|Implementation of the classic board-game Mastermind in x86 assembly|2|2021-10-31|
+|132|[ksakkas/Learn-Assembly](https://github.com/ksakkas/Learn-Assembly)|Learn Assembly Language and Program a MIPS     Computer Architecture                                                                  DIT UOI|2|2021-11-24|
+|133|[tedkotz/be6502](https://github.com/tedkotz/be6502)|Collection of notes, software and upgrades for Ben Eater's 6502 Computer|2|2022-01-10|
+|134|[smalinux/simOS](https://github.com/smalinux/simOS)|Tiny operating system made for learning only. 16-bit real mode based on x86 architecture using BIOS interrupts|2|2022-01-18|
+|135|[skeetor/c64-src](https://github.com/skeetor/c64-src)|A collection of Commodore C64 and C128 sources.|2|2021-12-26|
+|136|[hang-on/knights-of-the-square](https://github.com/hang-on/knights-of-the-square)|Sega Master System Homebrew|2|2022-03-23|
+|137|[crtc-demos/the-master-of-your-old-school](https://github.com/crtc-demos/the-master-of-your-old-school)|CRTC's demo for the BBC Master, released at Sundown 2010|2|2021-10-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

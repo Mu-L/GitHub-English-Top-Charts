@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > R
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|5348|2022-04-07|
-|2|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4625|2022-04-05|
-|3|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4054|2022-04-01|
-|4|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|2999|2022-04-07|
+|1|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|5353|2022-04-07|
+|2|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|4626|2022-04-05|
+|3|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4057|2022-04-01|
+|4|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|3002|2022-04-07|
 |5|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2429|2022-04-06|
 |6|[r-lib/devtools](https://github.com/r-lib/devtools)|Tools to make an R developer's life easier|2170|2022-03-14|
 |7|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2164|2022-03-26|
@@ -189,22 +189,22 @@
 |182|[rstudio/distill](https://github.com/rstudio/distill)|Distill for R Markdown|372|2022-03-30|
 |183|[ropensci/stplanr](https://github.com/ropensci/stplanr)|Sustainable transport planning with R|372|2022-04-03|
 |184|[giocomai/ganttrify](https://github.com/giocomai/ganttrify)|Create beautiful Gantt charts with ggplot2|371|2022-03-08|
-|185|[riatelab/cartography](https://github.com/riatelab/cartography)|Thematic Cartography for R|371|2021-10-07|
-|186|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|368|2022-03-30|
-|187|[MangoTheCat/goodpractice](https://github.com/MangoTheCat/goodpractice)|Advice on R Package Building|366|2021-12-25|
-|188|[business-science/modeltime](https://github.com/business-science/modeltime)|Modeltime unlocks time series forecast models and machine learning in one framework|363|2022-04-03|
-|189|[wilkelab/ggridges](https://github.com/wilkelab/ggridges)|Ridgeline plots in ggplot2|363|2022-02-09|
-|190|[radiant-rstats/radiant](https://github.com/radiant-rstats/radiant)|Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.|361|2021-11-22|
-|191|[cynkra/dm](https://github.com/cynkra/dm)|Working with relational data models in R|358|2022-04-03|
-|192|[tidyverse/dbplyr](https://github.com/tidyverse/dbplyr)|Database (DBI) backend for dplyr|346|2022-04-02|
-|193|[cloudyr/aws.s3](https://github.com/cloudyr/aws.s3)|Amazon Simple Storage Service (S3) API Client|345|2022-03-31|
-|194|[mages/googleVis](https://github.com/mages/googleVis)|Interface between R and the Google Chart Tools|344|2022-01-10|
-|195|[SebKrantz/collapse](https://github.com/SebKrantz/collapse)|Advanced and Fast Data Transformation in R|341|2022-04-01|
-|196|[stan-dev/bayesplot](https://github.com/stan-dev/bayesplot)|bayesplot R package for plotting Bayesian models|341|2022-03-31|
-|197|[rstudio/tufte](https://github.com/rstudio/tufte)|Tufte Styles for R Markdown Documents|341|2022-03-07|
-|198|[PaulC91/shinyauthr](https://github.com/PaulC91/shinyauthr)|R package with shiny authentication modules|339|2021-12-23|
-|199|[r-lib/here](https://github.com/r-lib/here)|A simpler way to find your files|338|2022-03-08|
-|200|[malcolmbarrett/ggdag](https://github.com/malcolmbarrett/ggdag)|:arrow_lower_left: :arrow_lower_right: An R package for working with causal directed acyclic graphs (DAGs)|337|2021-10-11|
+|185|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|368|2022-03-30|
+|186|[MangoTheCat/goodpractice](https://github.com/MangoTheCat/goodpractice)|Advice on R Package Building|366|2021-12-25|
+|187|[business-science/modeltime](https://github.com/business-science/modeltime)|Modeltime unlocks time series forecast models and machine learning in one framework|363|2022-04-03|
+|188|[wilkelab/ggridges](https://github.com/wilkelab/ggridges)|Ridgeline plots in ggplot2|363|2022-02-09|
+|189|[radiant-rstats/radiant](https://github.com/radiant-rstats/radiant)|Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.|361|2021-11-22|
+|190|[cynkra/dm](https://github.com/cynkra/dm)|Working with relational data models in R|358|2022-04-03|
+|191|[tidyverse/dbplyr](https://github.com/tidyverse/dbplyr)|Database (DBI) backend for dplyr|346|2022-04-02|
+|192|[cloudyr/aws.s3](https://github.com/cloudyr/aws.s3)|Amazon Simple Storage Service (S3) API Client|345|2022-03-31|
+|193|[mages/googleVis](https://github.com/mages/googleVis)|Interface between R and the Google Chart Tools|344|2022-01-10|
+|194|[SebKrantz/collapse](https://github.com/SebKrantz/collapse)|Advanced and Fast Data Transformation in R|341|2022-04-01|
+|195|[stan-dev/bayesplot](https://github.com/stan-dev/bayesplot)|bayesplot R package for plotting Bayesian models|341|2022-03-31|
+|196|[rstudio/tufte](https://github.com/rstudio/tufte)|Tufte Styles for R Markdown Documents|341|2022-03-07|
+|197|[PaulC91/shinyauthr](https://github.com/PaulC91/shinyauthr)|R package with shiny authentication modules|339|2021-12-23|
+|198|[r-lib/here](https://github.com/r-lib/here)|A simpler way to find your files|338|2022-03-08|
+|199|[malcolmbarrett/ggdag](https://github.com/malcolmbarrett/ggdag)|:arrow_lower_left: :arrow_lower_right: An R package for working with causal directed acyclic graphs (DAGs)|337|2021-10-11|
+|200|[r-lib/R6](https://github.com/r-lib/R6)|Encapsulated object-oriented programming for R|337|2022-03-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

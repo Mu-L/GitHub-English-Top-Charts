@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Shell
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|3046|2022-04-05|2021-06-09|
-|2|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|2398|2022-03-26|2021-10-22|
+|1|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|3059|2022-04-07|2021-06-09|
+|2|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|2408|2022-03-26|2021-10-22|
 |3|[lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)|A bash script to check if your VPS's IP is available for various OTT platforms|1318|2022-03-30|2021-06-03|
 |4|[rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay)|Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.|1267|2022-03-28|2021-08-18|
 |5|[89luca89/distrobox](https://github.com/89luca89/distrobox)|Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.|1228|2022-04-04|2021-11-18|

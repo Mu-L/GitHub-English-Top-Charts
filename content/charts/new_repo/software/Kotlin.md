@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Kotlin
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|3220|2022-04-06|2021-04-19|
+|1|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|3228|2022-04-06|2021-04-19|
 |2|[seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard)|Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍|1147|2022-04-03|2021-07-12|
 |3|[libre-tube/LibreTube](https://github.com/libre-tube/LibreTube)|An alternative frontend for YouTube, for Android. [WIP]|1123|2022-04-02|2021-12-09|
 |4|[LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3)|Android app for streaming and downloading Movies, TV-Series and Anime.|1007|2022-04-03|2021-04-30|

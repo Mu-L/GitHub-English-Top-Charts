@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.|3281|2022-03-08|2021-12-01|
+|1|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)|🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.|3301|2022-03-08|2021-12-01|
 |2|[ArisGuimera/SimpleAndroidMVVM](https://github.com/ArisGuimera/SimpleAndroidMVVM)|Proyecto de ejemplo con Clean Architecture, MVVM, Retrofit, Corrutinas, Dagger Hilt y mucho más acompañado de tutoriales por escritos y en vídeo.|576|2022-02-17|2021-04-18|
 |3|[prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)|Collection of UIs and Animations built with Jetpack Compose for Android|337|2021-10-23|2021-06-22|
 |4|[antonshilov/ComposeAnimations](https://github.com/antonshilov/ComposeAnimations)|Collection of nice animations created with Jetpack Compose|232|2022-02-13|2022-02-12|
@@ -86,16 +86,13 @@
 |79|[ricardogaldino/microlearning-rabbitmq](https://github.com/ricardogaldino/microlearning-rabbitmq)|Microlearning RabbitMQ (AMQP)|5|2022-02-10|2022-01-16|
 |80|[AzharRivaldi/Double-Tap-Pinch-Zoom](https://github.com/AzharRivaldi/Double-Tap-Pinch-Zoom)|Tutorial Double Tap Pinch to Zoom|5|2021-12-30|2021-12-30|
 |81|[boranfrkn/UchihaAnime](https://github.com/boranfrkn/UchihaAnime)|I am learning Android Compose with this project|5|2021-10-19|2021-10-14|
-|82|[sarcowww/userssp](https://github.com/sarcowww/userssp)|Aplicación Android para comprender como funciona el listado y las shared preferences|5|2021-10-07|2021-10-04|
-|83|[dudgns0507/ArchitectureSample](https://github.com/dudgns0507/ArchitectureSample)|Architecture Study with MVVM and MVI|5|2022-01-06|2021-10-01|
-|84|[akshat-sahijpal/Social-Network](https://github.com/akshat-sahijpal/Social-Network)|Social Media App where a user can publicly talk about any particular topic be it via text or voice chat, a user can also interact with other people on the platform via voice channels and text messages ...|5|2021-10-22|2021-09-06|
-|85|[dudgns0507/Kref](https://github.com/dudgns0507/Kref)|Android SharedPreference management library made with kotlin|5|2021-11-25|2021-08-04|
-|86|[amirisback/jitpack-library-groovy-guide](https://github.com/amirisback/jitpack-library-groovy-guide)|Tutorial For openJDK 11 and AGP 7.0.0+   Tutorial Multi Library Android in 1 Project   Groovy|5|2021-10-07|2021-08-02|
-|87|[CodelyTV/kotlin-introduction-course](https://github.com/CodelyTV/kotlin-introduction-course)|Intro a Kotlin course examples|5|2022-01-04|2021-07-21|
-|88|[nitesh-kunwar/Compose-MVI](https://github.com/nitesh-kunwar/Compose-MVI)|An MVI project setup using Jetpack compose. This would be a good place to start learning Model View Intent (MVI) architecture for Android. |5|2022-01-15|2021-06-28|
-|89|[NSTiwari/Custom-Object-Detection-on-Android-using-TF-Lite](https://github.com/NSTiwari/Custom-Object-Detection-on-Android-using-TF-Lite)|An end-to-end tutorial to train a custom object detection model and deploy it on Android using TensorFlow Lite.|5|2022-01-22|2021-06-27|
-|90|[caravancodes/caravan-android](https://github.com/caravancodes/caravan-android)|Learning playground about Android|5|2021-11-02|2021-06-01|
-|91|[xonixx/bookmark-telegram-bot](https://github.com/xonixx/bookmark-telegram-bot)|Telegram bot to bookmark URLs for future reading|5|2021-12-21|2021-04-08|
+|82|[dudgns0507/ArchitectureSample](https://github.com/dudgns0507/ArchitectureSample)|Architecture Study with MVVM and MVI|5|2022-01-06|2021-10-01|
+|83|[akshat-sahijpal/Social-Network](https://github.com/akshat-sahijpal/Social-Network)|Social Media App where a user can publicly talk about any particular topic be it via text or voice chat, a user can also interact with other people on the platform via voice channels and text messages ...|5|2021-10-22|2021-09-06|
+|84|[dudgns0507/Kref](https://github.com/dudgns0507/Kref)|Android SharedPreference management library made with kotlin|5|2021-11-25|2021-08-04|
+|85|[CodelyTV/kotlin-introduction-course](https://github.com/CodelyTV/kotlin-introduction-course)|Intro a Kotlin course examples|5|2022-01-04|2021-07-21|
+|86|[nitesh-kunwar/Compose-MVI](https://github.com/nitesh-kunwar/Compose-MVI)|An MVI project setup using Jetpack compose. This would be a good place to start learning Model View Intent (MVI) architecture for Android. |5|2022-01-15|2021-06-28|
+|87|[NSTiwari/Custom-Object-Detection-on-Android-using-TF-Lite](https://github.com/NSTiwari/Custom-Object-Detection-on-Android-using-TF-Lite)|An end-to-end tutorial to train a custom object detection model and deploy it on Android using TensorFlow Lite.|5|2022-01-22|2021-06-27|
+|88|[caravancodes/caravan-android](https://github.com/caravancodes/caravan-android)|Learning playground about Android|5|2021-11-02|2021-06-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

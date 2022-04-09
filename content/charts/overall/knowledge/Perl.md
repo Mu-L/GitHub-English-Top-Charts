@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -129,7 +129,6 @@
 |122|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|2|2021-11-16|
 |123|[bewuethr/exercises](https://github.com/bewuethr/exercises)|Exercises from various books and websites|2|2022-01-16|
 |124|[Intertangle/p5-Alien-MuPDF](https://github.com/Intertangle/p5-Alien-MuPDF)|:rocket::book::computer::camera: Alien package for the MuPDF PDF rendering library|2|2021-11-28|
-|125|[satyap/dvdauthoring](https://github.com/satyap/dvdauthoring)|How to make a DVD of home movies in Linux using tovid and makedvd.|2|2021-10-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

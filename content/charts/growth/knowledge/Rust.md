@@ -1,35 +1,35 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Rust
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261662|236|2022-03-30|
-|2|[tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust)|A free book about developing secure and robust systems software.|765|55|2022-03-31|
-|3|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10811|12|2022-04-04|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261660|236|2022-03-30|
+|2|[tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust)|A free book about developing secure and robust systems software.|765|48|2022-03-31|
+|3|[denisidoro/navi](https://github.com/denisidoro/navi)|An interactive cheatsheet tool for the command-line|10839|12|2022-04-04|
 |4|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|732|9|2022-03-10|
-|5|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|25161|9|2022-04-06|
-|6|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2330|7|2022-03-10|
-|7|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systems|7356|6|2022-04-06|
+|5|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|25179|9|2022-04-08|
+|6|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2335|7|2022-03-10|
+|7|[pingcap/talent-plan](https://github.com/pingcap/talent-plan)|open source training courses about distributed database and distributed systems|7363|6|2022-04-06|
 |8|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|1731|5|2022-03-01|
 |9|[ahhhh6980/Mosaic](https://github.com/ahhhh6980/Mosaic)|Takes a folder of images (as a palette), and an image, and figures out how to tile the palette to resemble the image!|234|5|2022-03-22|
-|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |6755|5|2022-04-07|
-|11|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7981|5|2022-04-05|
-|12|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4448|4|2022-03-23|
-|13|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|9136|4|2022-04-05|
-|14|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9754|4|2022-04-06|
-|15|[timvisee/ffsend](https://github.com/timvisee/ffsend)|:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.|5514|4|2021-10-16|
-|16|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|3220|3|2022-02-26|
+|10|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |6780|5|2022-04-09|
+|11|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7982|5|2022-04-08|
+|12|[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)|rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.|4452|4|2022-03-23|
+|13|[rust-lang/mdBook](https://github.com/rust-lang/mdBook)|Create book from markdown files. Like Gitbook but implemented in Rust|9149|4|2022-04-05|
+|14|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.|9762|4|2022-04-08|
+|15|[timvisee/ffsend](https://github.com/timvisee/ffsend)|:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.|5512|4|2021-10-16|
+|16|[johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)|🦀 How to minimize Rust binary size 📦|3226|3|2022-02-26|
 |17|[LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)|Code for "Zero To Production In Rust", a book on API development using Rust.|1720|3|2022-03-31|
-|18|[erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)|Distributed SQL database in Rust, written as a learning project|3348|3|2021-12-03|
+|18|[erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)|Distributed SQL database in Rust, written as a learning project|3353|3|2021-12-03|
 |19|[dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)|Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]|1809|2|2022-01-04|
 |20|[ekzhang/percival](https://github.com/ekzhang/percival)|📝 Web-based, reactive Datalog notebooks for data analysis and visualization|296|2|2022-03-24|
-|21|[actix/examples](https://github.com/actix/examples)|Community showcase and examples of Actix ecosystem usage.|2300|2|2022-03-29|
+|21|[actix/examples](https://github.com/actix/examples)|Community showcase and examples of Actix ecosystem usage.|2307|2|2022-04-03|
 |22|[tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)|Incomplete Redis client and server implementation using Tokio - for learning purposes only|1482|2|2022-02-09|
 |23|[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)|A collection of Solana-maintained on-chain programs|1560|2|2022-04-02|
 |24|[01walid/sloughi](https://github.com/01walid/sloughi)|Shareable git hooks for Rust project. Sloughi is a friend of Husky from North Africa! :algeria:|21|2|2022-03-28|
-|25|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|2926|2|2022-04-07|
+|25|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|2953|2|2022-04-07|
 |26|[amethyst/rustrogueliketutorial](https://github.com/amethyst/rustrogueliketutorial)|Roguelike Tutorial in Rust - using RLTK|587|1|2022-01-22|
 |27|[DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects)|Featured Dioxus projects on how to build clean user interfaces in Rust|79|1|2022-02-11|
 |28|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|744|1|2022-04-02|
@@ -202,9 +202,9 @@
 |195|[cksac/dataloader-rs](https://github.com/cksac/dataloader-rs)|Rust implementation of Facebook's DataLoader using async-await.|212|0|2022-03-22|
 |196|[lucaspoffo/renet](https://github.com/lucaspoffo/renet)|Collection of rust crates to create Server/Client networked games.|27|0|2022-02-15|
 |197|[Lucretiel/nom-supreme](https://github.com/Lucretiel/nom-supreme)|A collection of utilities for a superior nom experience|59|0|2022-03-05|
-|198|[jez/as-tree](https://github.com/jez/as-tree)|Print a list of paths as a tree of paths 🌳|326|0|2021-10-07|
-|199|[breard-r/libreauth](https://github.com/breard-r/libreauth)|LibreAuth is a collection of tools for user authentication.|230|0|2022-04-03|
-|200|[elastio/devx](https://github.com/elastio/devx)|Collection of utilities for writing your own dev scripts|21|0|2022-03-07|
+|198|[breard-r/libreauth](https://github.com/breard-r/libreauth)|LibreAuth is a collection of tools for user authentication.|230|0|2022-04-03|
+|199|[elastio/devx](https://github.com/elastio/devx)|Collection of utilities for writing your own dev scripts|21|0|2022-03-07|
+|200|[sytsereitsma/mdbook-plantuml](https://github.com/sytsereitsma/mdbook-plantuml)|mdBook preprocessor to render PlantUML diagrams to png images in the book output directory|43|0|2022-04-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

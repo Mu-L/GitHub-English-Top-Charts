@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Shell
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|53705|2022-03-31|
-|2|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|31045|2022-03-23|
-|3|[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|📖 A collection of pure bash alternatives to external processes.|30788|2022-03-26|
-|4|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23554|2022-03-14|
-|5|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|12637|2022-04-07|
-|6|[trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)|How to improve NGINX performance, security, and other important things.|12627|2021-10-20|
-|7|[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials.|10646|2022-04-06|
-|8|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|10446|2021-12-15|
-|9|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|9739|2022-03-22|
+|1|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|54617|2022-03-31|
+|2|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|31051|2022-03-23|
+|3|[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|📖 A collection of pure bash alternatives to external processes.|30802|2022-03-26|
+|4|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23566|2022-03-14|
+|5|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|12645|2022-04-07|
+|6|[trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)|How to improve NGINX performance, security, and other important things.|12630|2021-10-20|
+|7|[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials.|10657|2022-04-09|
+|8|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|10450|2021-12-15|
+|9|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|9745|2022-04-08|
 |10|[k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers)|🎬 A curated list of movies every hacker & cyberpunk must watch.|8973|2021-11-07|
-|11|[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)|Guide to using YubiKey for GPG and SSH|7709|2022-03-17|
-|12|[toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|6796|2022-03-22|
-|13|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6794|2022-03-22|
-|14|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|6164|2022-04-07|
-|15|[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|5957|2022-02-10|
-|16|[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)|A catalogue of Rust design patterns, anti-patterns and idioms|5748|2022-04-04|
-|17|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects|5306|2022-04-06|
-|18|[awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash)|A curated list of delightful Bash scripts and resources.|4560|2022-03-19|
-|19|[aws/containers-roadmap](https://github.com/aws/containers-roadmap)|This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). |4314|2022-01-07|
+|11|[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)|Guide to using YubiKey for GPG and SSH|7716|2022-04-08|
+|12|[toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|6798|2022-03-22|
+|13|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6797|2022-03-22|
+|14|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|6610|2022-04-08|
+|15|[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|5960|2022-02-10|
+|16|[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)|A catalogue of Rust design patterns, anti-patterns and idioms|5755|2022-04-08|
+|17|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects|5306|2022-04-07|
+|18|[awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash)|A curated list of delightful Bash scripts and resources.|4566|2022-03-19|
+|19|[aws/containers-roadmap](https://github.com/aws/containers-roadmap)|This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). |4315|2022-01-07|
 |20|[xwmx/nb](https://github.com/xwmx/nb)|CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.|4128|2022-04-07|
-|21|[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)|A huge collection of polybar themes with different styles, colors and variants.|3983|2022-03-07|
-|22|[hendricius/the-bread-code](https://github.com/hendricius/the-bread-code)|Learn how to master the art of baking the programmer way.|3804|2022-03-17|
-|23|[chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)|A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)|3798|2022-02-10|
-|24|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|3720|2022-03-28|
-|25|[dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)|📖 A collection of pure POSIX sh alternatives to external processes.|3553|2022-02-12|
-|26|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|Certified Kubernetes Administrator - CKA Course|3510|2022-03-27|
-|27|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2901|2022-03-19|
-|28|[jpetazzo/container.training](https://github.com/jpetazzo/container.training)|Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.|2887|2022-04-06|
-|29|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2884|2022-04-03|
-|30|[zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)|A list of amazing Newsletters|2623|2022-04-06|
+|21|[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)|A huge collection of polybar themes with different styles, colors and variants.|3986|2022-03-07|
+|22|[hendricius/the-bread-code](https://github.com/hendricius/the-bread-code)|Learn how to master the art of baking the programmer way.|3806|2022-03-17|
+|23|[chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)|A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)|3801|2022-02-10|
+|24|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|3725|2022-03-28|
+|25|[dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)|📖 A collection of pure POSIX sh alternatives to external processes.|3554|2022-02-12|
+|26|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|Certified Kubernetes Administrator - CKA Course|3520|2022-03-27|
+|27|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2904|2022-03-19|
+|28|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2899|2022-04-03|
+|29|[jpetazzo/container.training](https://github.com/jpetazzo/container.training)|Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.|2886|2022-04-08|
+|30|[zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)|A list of amazing Newsletters|2624|2022-04-06|
 |31|[boostchicken-dev/udm-utilities](https://github.com/boostchicken-dev/udm-utilities)|A collection of things I have made to make the Unifi Dream Machine more useful|2274|2022-04-06|
-|32|[MatMoul/archfi](https://github.com/MatMoul/archfi)|Arch Linux Fast Installer : tutorial installer|2256|2022-02-07|
+|32|[MatMoul/archfi](https://github.com/MatMoul/archfi)|Arch Linux Fast Installer : tutorial installer|2260|2022-02-07|
 |33|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2175|2022-03-28|
 |34|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|2041|2022-04-05|
 |35|[abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)|Collection of papers, datasets, code and other resources for object tracking and detection using deep learning|1998|2022-03-13|

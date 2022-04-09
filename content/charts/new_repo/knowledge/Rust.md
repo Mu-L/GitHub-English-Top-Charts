@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Rust
-<sub>Updated: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2330|2022-03-10|2021-05-25|
+|1|[TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)|A curated list of replacements for existing software written in Rust|2335|2022-03-10|2021-05-25|
 |2|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|1731|2022-03-01|2021-04-24|
 |3|[tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust)|A free book about developing secure and robust systems software.|765|2022-03-31|2022-03-25|
 |4|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|732|2022-03-10|2022-01-20|
