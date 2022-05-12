@@ -1,40 +1,40 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Lua
-<sub>Updated: 2022-05-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-05-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway |31815|2022-05-10|
-|2|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|14387|2022-04-06|
-|3|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|10455|2022-05-10|
-|4|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms|9162|2022-05-09|
+|1|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway |31818|2022-05-11|
+|2|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|14386|2022-04-06|
+|3|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|10460|2022-05-10|
+|4|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms|9370|2022-05-11|
 |5|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|9138|2022-05-09|
-|6|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|An IDE layer for Neovim with sane defaults. Completely free and community driven.|8589|2022-05-10|
-|7|[draios/sysdig](https://github.com/draios/sysdig)|Linux system exploration and troubleshooting tool with first class support for containers|6873|2022-05-06|
+|6|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|An IDE layer for Neovim with sane defaults. Completely free and community driven.|8607|2022-05-11|
+|7|[draios/sysdig](https://github.com/draios/sysdig)|Linux system exploration and troubleshooting tool with first class support for containers|6876|2022-05-06|
 |8|[nmap/nmap](https://github.com/nmap/nmap)|Nmap - the Network Mapper. Github mirror of official SVN repository.|6290|2022-05-09|
-|9|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|5689|2022-05-09|
+|9|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|5701|2022-05-11|
 |10|[lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)|Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets|4822|2022-04-20|
-|11|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|4666|2022-04-25|
-|12|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4556|2022-05-10|
-|13|[liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)|Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).|4469|2022-01-11|
-|14|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configurations for the Nvim LSP client|4464|2022-05-06|
+|11|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|4667|2022-04-25|
+|12|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4559|2022-05-11|
+|13|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configurations for the Nvim LSP client|4474|2022-05-06|
+|14|[liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)|Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).|4470|2022-01-11|
 |15|[jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)|Feedforward style transfer|4031|2022-03-11|
 |16|[luvit/luvit](https://github.com/luvit/luvit)|Lua + libUV + jIT = pure awesomesauce|3504|2022-05-02|
 |17|[tarantool/tarantool](https://github.com/tarantool/tarantool)|Get your data in RAM. Get compute close to data. Enjoy the performance.|2888|2022-05-09|
 |18|[snabbco/snabb](https://github.com/snabbco/snabb)|Snabb: Simple and fast packet networking|2822|2022-04-19|
-|19|[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)|A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config|2791|2022-05-08|
-|20|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|2786|2022-05-09|
-|21|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |2734|2022-05-10|
-|22|[vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners)|NSE script based on Vulners.com API|2640|2021-12-14|
-|23|[lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats)|Awesome WM themes|2564|2022-03-26|
+|19|[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)|A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config|2802|2022-05-08|
+|20|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|2793|2022-05-09|
+|21|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |2736|2022-05-11|
+|22|[vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners)|NSE script based on Vulners.com API|2642|2021-12-14|
+|23|[lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats)|Awesome WM themes|2565|2022-03-26|
 |24|[CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH)|Open source clone of Theme Hospital|2513|2022-05-08|
-|25|[scipag/vulscan](https://github.com/scipag/vulscan)|Advanced vulnerability scanning with Nmap NSE|2501|2022-03-11|
-|26|[lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)|A lightweight text editor written in Lua|2478|2022-05-10|
-|27|[luarocks/luarocks](https://github.com/luarocks/luarocks)|LuaRocks is the package manager for the Lua programming language.|2456|2022-05-03|
-|28|[kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)|A file explorer tree for neovim written in lua|2384|2022-05-09|
-|29|[nicknisi/dotfiles](https://github.com/nicknisi/dotfiles)|vim, zsh, git, homebrew, neovim - my whole world|2320|2022-05-03|
-|30|[pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)|Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind ...|2318|2022-02-21|
+|25|[scipag/vulscan](https://github.com/scipag/vulscan)|Advanced vulnerability scanning with Nmap NSE|2503|2022-03-11|
+|26|[lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)|A lightweight text editor written in Lua|2481|2022-05-11|
+|27|[luarocks/luarocks](https://github.com/luarocks/luarocks)|LuaRocks is the package manager for the Lua programming language.|2462|2022-05-03|
+|28|[kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)|A file explorer tree for neovim written in lua|2411|2022-05-10|
+|29|[nicknisi/dotfiles](https://github.com/nicknisi/dotfiles)|vim, zsh, git, homebrew, neovim - my whole world|2322|2022-05-03|
+|30|[pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)|Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind ...|2319|2022-02-21|
 |31|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2277|2022-03-27|
 |32|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|2261|2022-05-08|
 |33|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2231|2021-12-22|
