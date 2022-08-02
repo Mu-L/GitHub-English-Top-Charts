@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Go
-<sub>Updated: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lima-vm/lima](https://github.com/lima-vm/lima)|Linux virtual machines, typically on macOS, for running containerd|7726|2022-04-08|2021-05-14|
-|2|[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|6882|2022-04-08|2021-12-02|
-|3|[vercel/turborepo](https://github.com/vercel/turborepo)|The High-performance Build System for JavaScript & TypeScript Codebases|6718|2022-04-09|2021-10-05|
-|4|[armosec/kubescape](https://github.com/armosec/kubescape)|Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. |5490|2022-04-07|2021-08-12|
-|5|[maaslalani/slides](https://github.com/maaslalani/slides)|Terminal based presentation tool|5467|2022-04-07|2021-05-05|
-|6|[datreeio/datree](https://github.com/datreeio/datree)|Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. Se ...|5434|2022-04-08|2021-04-14|
-|7|[samber/lo](https://github.com/samber/lo)|💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)|4575|2022-04-09|2022-03-02|
-|8|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|4251|2022-04-09|2021-10-30|
-|9|[megaease/easegress](https://github.com/megaease/easegress)|A Cloud Native traffic orchestration system|4247|2022-04-08|2021-05-28|
-|10|[cloudwego/kitex](https://github.com/cloudwego/kitex)|A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.|3958|2022-04-09|2021-07-09|
-|11|[ddosify/ddosify](https://github.com/ddosify/ddosify)|High-performance load testing tool, written in Golang.|3816|2022-04-03|2021-08-04|
-|12|[YaoApp/yao](https://github.com/YaoApp/yao)|Yao A low code engine to create web services and dashboard.|3592|2022-04-08|2021-09-06|
-|13|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|3580|2022-04-08|2021-09-04|
-|14|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.|3511|2022-04-08|2021-09-26|
-|15|[six-ddc/plow](https://github.com/six-ddc/plow)|A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying|2934|2022-04-04|2021-06-13|
-|16|[up9inc/mizu](https://github.com/up9inc/mizu)|API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes|2520|2022-04-08|2021-04-19|
-|17|[cshum/imagor](https://github.com/cshum/imagor)|Fast, Docker-ready image processing server written in Go|2224|2022-04-08|2021-05-15|
-|18|[golang-jwt/jwt](https://github.com/golang-jwt/jwt)|Community maintained clone of https://github.com/dgrijalva/jwt-go|2203|2022-03-29|2021-05-18|
-|19|[cue-lang/cue](https://github.com/cue-lang/cue)|The new home of the CUE language! Validate and define text-based and dynamic configuration|2123|2022-04-05|2021-07-02|
-|20|[authzed/spicedb](https://github.com/authzed/spicedb)|Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.|2004|2022-04-05|2021-08-16|
-|21|[praetorian-inc/gokart](https://github.com/praetorian-inc/gokart)|A static analysis tool for securing Go code|1965|2022-01-26|2021-08-16|
-|22|[netbirdio/netbird](https://github.com/netbirdio/netbird)|Connect your devices into a single secure private WireGuard®-based mesh network.|1948|2022-04-04|2021-04-14|
-|23|[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)|A tasty, self-hostable Git server for the command line🍦|1839|2022-04-05|2021-07-30|
-|24|[im2nguyen/rover](https://github.com/im2nguyen/rover)|Interactive Terraform visualization. State and configuration explorer.|1821|2022-03-16|2021-06-24|
-|25|[multiprocessio/dsq](https://github.com/multiprocessio/dsq)|Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.|1787|2022-04-01|2022-01-10|
-|26|[binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)|Send push notifications to your phone or desktop using PUT/POST|1773|2022-04-05|2021-10-23|
-|27|[tharsis/ethermint](https://github.com/tharsis/ethermint)|Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.|1621|2022-04-05|2021-04-17|
-|28|[grafana/mimir](https://github.com/grafana/mimir)|Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.|1578|2022-04-05|2021-07-13|
-|29|[akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way)|A hands-on approach to getting started with Go generics.|1559|2022-03-26|2022-01-05|
-|30|[google/log4jscanner](https://github.com/google/log4jscanner)|A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.|1531|2022-03-19|2021-12-28|
-|31|[ariga/atlas](https://github.com/ariga/atlas)|A database toolkit|1499|2022-04-05|2021-04-30|
-|32|[aws/eks-anywhere](https://github.com/aws/eks-anywhere)|Run Amazon EKS on your own infrastructure 🚀|1487|2022-04-05|2021-07-21|
-|33|[merico-dev/lake](https://github.com/merico-dev/lake)|DevLake: the open source dev data platform & dashboard for your DevOps tools.|1420|2022-04-05|2021-07-08|
-|34|[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)|gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.|1402|2022-04-03|2021-10-14|
-|35|[amirgamil/apollo](https://github.com/amirgamil/apollo)|A Unix-style personal search engine and web crawler for your digital footprint.|1257|2021-10-20|2021-07-17|
-|36|[koderover/zadig](https://github.com/koderover/zadig)|Zadig is a cloud native, distributed, developer-oriented continuous delivery product.|1196|2022-04-05|2021-05-12|
-|37|[sachaos/viddy](https://github.com/sachaos/viddy)|👀 A modern watch command. Time machine and pager etc.|1187|2022-02-15|2021-08-14|
-|38|[tharsis/evmos](https://github.com/tharsis/evmos)|Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.|1182|2022-04-05|2021-09-28|
-|39|[rehacktive/caffeine](https://github.com/rehacktive/caffeine)|A basic REST service for JSON data - enough for prototyping and MVPs!|1159|2021-12-21|2021-10-23|
-|40|[octeep/wireproxy](https://github.com/octeep/wireproxy)|Wireguard client that exposes itself as a socks5 proxy|1140|2022-04-05|2022-03-11|
-|41|[Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook)|🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.|1113|2022-04-03|2021-12-20|
-|42|[kris-nova/naml](https://github.com/kris-nova/naml)|Convert Kubernetes YAML to Golang|1062|2022-01-14|2021-06-12|
-|43|[Arriven/db1000n](https://github.com/Arriven/db1000n)|-|1030|2022-04-05|2022-02-26|
-|44|[datastack-net/dockerized](https://github.com/datastack-net/dockerized)|Run popular commandline tools within docker|1022|2022-04-04|2022-03-09|
-|45|[s0md3v/Smap](https://github.com/s0md3v/Smap)|a drop-in replacement for Nmap powered by shodan.io|1020|2022-04-05|2022-03-19|
-|46|[polarismesh/polaris](https://github.com/polarismesh/polaris)|Service Discovery and Governance Center for Distributed and Microservice Architecture|1019|2022-04-02|2021-06-14|
-|47|[alibaba/sealer](https://github.com/alibaba/sealer)|Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command.|1013|2022-04-02|2021-04-29|
-|48|[reactive-tech/kubegres](https://github.com/reactive-tech/kubegres)|Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.|970|2022-03-30|2021-04-12|
-|49|[mathaou/termdbms](https://github.com/mathaou/termdbms)|A TUI for viewing and editing database files.|968|2022-03-30|2021-09-02|
-|50|[sairson/Yasso](https://github.com/sairson/Yasso)|强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）|965|2022-04-02|2022-01-05|
-|51|[rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)|A fast cryptocurrency platform for trading bot in Go. |957|2022-04-05|2021-04-24|
-|52|[badtuxx/MutiraoDevOps](https://github.com/badtuxx/MutiraoDevOps)|-|941|2021-12-15|2021-05-15|
-|53|[V4NSH4J/discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO)|The most popular Discord selfbot written in GO allowing users to automate their campaigns and launch large low-cost marketing campaigns targetting Discord users!|931|2022-04-05|2021-11-01|
-|54|[kelindar/column](https://github.com/kelindar/column)|High-performance, columnar, in-memory store with bitmap indexing in Go|897|2022-03-10|2021-05-26|
-|55|[Tylous/ZipExec](https://github.com/Tylous/ZipExec)|A unique technique to execute binaries from a password protected zip|889|2021-11-10|2021-10-19|
-|56|[clusternet/clusternet](https://github.com/clusternet/clusternet)|Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈|860|2022-04-03|2021-06-07|
-|57|[ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc)|Stream video from ffmpeg to web(rtc)|848|2022-01-13|2021-09-13|
-|58|[xiecat/goblin](https://github.com/xiecat/goblin)|一款适用于红蓝对抗中的仿真钓鱼系统|848|2022-03-01|2021-09-06|
-|59|[seccome/Ehoney](https://github.com/seccome/Ehoney)|安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions ...|846|2022-02-22|2021-06-03|
-|60|[ossf/allstar](https://github.com/ossf/allstar)|GitHub App to set and enforce security policies|833|2022-04-04|2021-05-25|
-|61|[zhzyker/dismap](https://github.com/zhzyker/dismap)|Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点|823|2022-03-28|2021-07-24|
-|62|[DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)|:cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud|815|2022-03-31|2022-01-07|
-|63|[heiyeluren/xmm](https://github.com/heiyeluren/xmm)|XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance.  XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存 ...|777|2022-03-04|2021-12-27|
-|64|[TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)|A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!|768|2022-03-03|2021-05-11|
-|65|[ycd/dstp](https://github.com/ycd/dstp)|🧪 Run common networking tests against your site.|759|2022-02-08|2021-11-07|
-|66|[uptrace/bun](https://github.com/uptrace/bun)|Lightweight Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite|757|2022-04-05|2021-05-03|
-|67|[coinbase/kryptology](https://github.com/coinbase/kryptology)|-|751|2022-03-16|2021-11-02|
-|68|[go-gorm/gen](https://github.com/go-gorm/gen)|Gen:  Friendly & Safer GORM powered by Code Generation|736|2022-04-04|2021-07-14|
-|69|[nakabonne/tstorage](https://github.com/nakabonne/tstorage)|An embedded time-series database|726|2021-11-09|2021-05-14|
-|70|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|707|2022-04-05|2021-08-08|
-|71|[rhysd/actionlint](https://github.com/rhysd/actionlint)|:octocat: Static checker for GitHub Actions workflow files|705|2022-04-05|2021-05-25|
-|72|[mtlynch/picoshare](https://github.com/mtlynch/picoshare)|A minimalist, easy-to-host service for sharing images and other files|644|2022-04-05|2022-02-14|
-|73|[frain-dev/convoy](https://github.com/frain-dev/convoy)|Fast and Secure Webhooks Service.|641|2022-04-05|2021-04-17|
-|74|[MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast)|cast YouTube videos to your smart TV from command-line|631|2022-02-17|2021-11-15|
-|75|[Clivern/Peanut](https://github.com/Clivern/Peanut)|🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.|629|2022-04-02|2021-06-26|
-|76|[iyear/pure-live-core](https://github.com/iyear/pure-live-core)|✨ Make Live Pure Again   让直播回归纯粹|624|2022-04-01|2021-12-06|
-|77|[pwnesia/dnstake](https://github.com/pwnesia/dnstake)|DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover|595|2022-03-24|2021-08-24|
-|78|[flower-corp/lotusdb](https://github.com/flower-corp/lotusdb)|Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.|583|2022-04-03|2021-12-14|
-|79|[ovotech/gitoops](https://github.com/ovotech/gitoops)|all paths lead to clouds|580|2022-03-26|2021-07-26|
-|80|[abahmed/kwatch](https://github.com/abahmed/kwatch)|:eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly|572|2022-03-19|2021-11-20|
-|81|[madawei2699/free4chat](https://github.com/madawei2699/free4chat)|free4.chat is an instant audio conferencing service.  It is designed by the local first and privacy first principle, and is very easy to use.|557|2022-03-31|2021-10-31|
-|82|[Tylous/SourcePoint](https://github.com/Tylous/SourcePoint)|SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion. |553|2022-02-19|2021-08-06|
-|83|[darylhjd/mangadesk](https://github.com/darylhjd/mangadesk)|Terminal client for MangaDex 📖|549|2022-01-19|2021-05-09|
-|84|[optiv/Ivy](https://github.com/optiv/Ivy)|Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment t ...|547|2022-01-31|2021-11-18|
-|85|[loggie-io/loggie](https://github.com/loggie-io/loggie)|A lightweight, cloud-native data transfer agent and aggregator|542|2022-04-01|2021-11-22|
-|86|[alibaba/ilogtail](https://github.com/alibaba/ilogtail)|The Lightweight Data Collector of SLS in Alibaba Cloud|541|2022-04-02|2021-11-08|
-|87|[Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh)|Statically-linked ssh server with reverse shell functionality for CTFs and such|525|2022-02-14|2021-07-12|
-|88|[kha7iq/pingme](https://github.com/kha7iq/pingme)|PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.|518|2021-12-13|2021-04-13|
-|89|[tkestack/kstone](https://github.com/tkestack/kstone)|Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.|507|2022-04-04|2021-12-09|
-|90|[OliveTin/OliveTin](https://github.com/OliveTin/OliveTin)|OliveTin gives safe and simple access to predefined shell commands from a web interface. |507|2022-04-05|2021-05-07|
-|91|[utkusen/wholeaked](https://github.com/utkusen/wholeaked)|a file-sharing tool that allows you to find the responsible person in case of a leakage|500|2022-01-31|2022-01-26|
-|92|[duke-git/lancet](https://github.com/duke-git/lancet)|A comprehensive, efficient, and reusable util function library of go.|500|2022-04-05|2021-11-28|
-|93|[alexliesenfeld/health](https://github.com/alexliesenfeld/health)|A simple and flexible health check library for Go.|491|2022-03-16|2021-07-02|
-|94|[cooperspencer/gickup](https://github.com/cooperspencer/gickup)|-|486|2022-03-22|2021-05-30|
-|95|[dominikbraun/timetrace](https://github.com/dominikbraun/timetrace)|timetrace is a simple CLI for tracking your working time.|485|2022-03-11|2021-05-11|
-|96|[proferosec/log4jScanner](https://github.com/proferosec/log4jScanner)|log4jScanner provides the ability to scan internal subnets for vulnerable log4j web services|476|2022-01-13|2021-12-11|
-|97|[mosn/layotto](https://github.com/mosn/layotto)|A fast and efficient cloud native application runtime|470|2022-04-03|2021-04-29|
-|98|[erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda)|A special DOS application to stop pro-Russian aggression websites. Support Ukraine!|459|2022-04-04|2022-02-26|
-|99|[bradenaw/juniper](https://github.com/bradenaw/juniper)|Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams.|459|2022-03-20|2021-12-03|
-|100|[ruilisi/css-checker](https://github.com/ruilisi/css-checker)|Reduce Similar & Duplicated CSS Classes with Diff in Seconds!|457|2022-04-01|2022-02-22|
-|101|[projectdiscovery/uncover](https://github.com/projectdiscovery/uncover)|Quickly discover exposed hosts on the internet using multiple search engine.|455|2022-04-03|2022-03-02|
-|102|[gocrane/crane](https://github.com/gocrane/crane)|Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts. |446|2022-04-05|2021-11-18|
-|103|[barthr/redo](https://github.com/barthr/redo)|Redo is the ultimate tool to create reusable functions from your history in an interactive way|443|2022-04-02|2022-02-14|
-|104|[chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer)|🤒   A modern alternative network traffic sniffer.|439|2021-12-24|2021-11-08|
-|105|[MetaCubeX/Clash.Mini](https://github.com/MetaCubeX/Clash.Mini)|Clash.Mini|437|2022-04-02|2021-05-18|
-|106|[keploy/keploy](https://github.com/keploy/keploy)|No code API testing platform. Create unit tests and data mocks from API calls. |434|2022-04-04|2022-01-19|
-|107|[detectify/page-fetch](https://github.com/detectify/page-fetch)|Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values|432|2022-01-07|2021-06-03|
-|108|[optix2000/totsugeki](https://github.com/optix2000/totsugeki)|Guilty Gear Strive Proxy for faster loading screens.|430|2022-04-02|2021-07-25|
-|109|[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)|The SSH directory ✨|425|2022-04-05|2022-01-03|
-|110|[bytedance/godlp](https://github.com/bytedance/godlp)|sensitive information protection toolkit|425|2022-03-04|2021-11-10|
-|111|[planetscale/vtprotobuf](https://github.com/planetscale/vtprotobuf)|A Protocol Buffers compiler that generates optimized marshaling & unmarshaling Go code for ProtoBuf APIv2|424|2022-04-04|2021-05-14|
-|112|[zyylhn/zscan](https://github.com/zyylhn/zscan)|Zscan a scan blasting tool set|423|2022-03-27|2021-11-22|
-|113|[iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster)|🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.|417|2022-01-18|2021-11-02|
-|114|[GoTurkiye/training](https://github.com/GoTurkiye/training)|-|401|2021-11-09|2021-07-10|
-|115|[wirekang/mouseable](https://github.com/wirekang/mouseable)|'Mouseable' is intended to replace a mouse or trackpad.|398|2022-02-16|2021-11-16|
-|116|[charmbracelet/harmonica](https://github.com/charmbracelet/harmonica)|A simple, efficient spring animation library 🎼|397|2022-01-25|2021-07-08|
-|117|[chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools)|veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集|396|2022-04-02|2022-02-08|
-|118|[pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra)|Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!|391|2022-04-04|2021-04-30|
-|119|[stackrox/stackrox](https://github.com/stackrox/stackrox)|The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by ...|387|2022-04-05|2021-12-01|
-|120|[DrDonk/unlocker](https://github.com/DrDonk/unlocker)|VMware macOS utilities|387|2022-03-13|2021-11-18|
-|121|[go-kratos/beer-shop](https://github.com/go-kratos/beer-shop)|An online shop application, the complete microservices demo for kratos.|386|2022-02-23|2021-04-11|
-|122|[hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner)|Simple local scanner for vulnerable log4j instances|384|2022-02-11|2021-12-11|
-|123|[MarvinJWendt/testza](https://github.com/MarvinJWendt/testza)|Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕|377|2022-04-05|2021-07-05|
-|124|[teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit)|Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具|374|2022-03-16|2022-01-21|
-|125|[Arks7/Go_Bypass](https://github.com/Arks7/Go_Bypass)|Golang Bypass Av Generator template|370|2022-03-22|2021-04-30|
-|126|[rakyll/go-test-trace](https://github.com/rakyll/go-test-trace)|Go test with tracing.|366|2021-12-06|2021-07-10|
-|127|[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)|🔍 Go binary size SVG treemap|362|2022-03-09|2022-01-21|
-|128|[charmbracelet/skate](https://github.com/charmbracelet/skate)|A personal key value store 🛼|362|2022-03-31|2021-05-17|
-|129|[ethereum-optimism/cannon](https://github.com/ethereum-optimism/cannon)|On chain interactive fault prover for Ethereum|358|2022-04-01|2021-09-14|
-|130|[toboshii/hajimari](https://github.com/toboshii/hajimari)|Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.|356|2022-03-28|2021-08-14|
-|131|[golang/vulndb](https://github.com/golang/vulndb)|[mirror] The Go Vulnerability Database|356|2022-03-25|2021-04-16|
-|132|[vmware-tanzu/cartographer](https://github.com/vmware-tanzu/cartographer)|Cartographer is a Supply Chain Choreographer.|354|2022-04-05|2021-09-01|
-|133|[abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)|cross-platform, cli app to perform various operations on string|353|2022-03-29|2021-09-18|
-|134|[Trendyol/kink](https://github.com/Trendyol/kink)|KinK is a helper CLI that facilitates to manage KinD clusters as Kubernetes pods. Designed to ease clusters up for fast testing with batteries included in mind.|350|2022-03-23|2021-09-01|
-|135|[FabEdge/fabedge](https://github.com/FabEdge/fabedge)|Secure Edge Networking Solution Based On Kubernetes|349|2022-04-02|2021-07-16|
-|136|[authorizerdev/authorizer](https://github.com/authorizerdev/authorizer)|Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Heroku = 5 mins    Spin a docker image as a micro-service in your infra. Built in login page a ...|348|2022-04-02|2021-06-02|
-|137|[FourCoreLabs/EDRHunt](https://github.com/FourCoreLabs/EDRHunt)|Scan installed EDRs and AVs on Windows|340|2022-02-27|2021-09-20|
-|138|[muesli/gitty](https://github.com/muesli/gitty)|Contextual information about your git projects, right on the command-line|338|2022-04-04|2021-08-23|
-|139|[kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)|A web-based simulator for the Kubernetes scheduler|338|2022-04-03|2021-08-17|
-|140|[neuvector/neuvector](https://github.com/neuvector/neuvector)|-|337|2022-04-05|2021-12-17|
-|141|[redtoolskobe/scaninfo](https://github.com/redtoolskobe/scaninfo)|fast scan for redtools|334|2022-03-23|2021-11-05|
-|142|[phith0n/zkar](https://github.com/phith0n/zkar)|ZKar is a Java serialization protocol analysis tool implement in Go.|332|2022-03-24|2021-07-09|
-|143|[deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)|:star: :star: Distributed tcpdump for cloud native environments :star: :star:|328|2022-04-05|2022-03-25|
-|144|[DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL)|PgSQL compatible on distributed database TiDB|324|2022-02-21|2021-06-01|
-|145|[shimohq/mogo](https://github.com/shimohq/mogo)|A light weight log visual analytic platform  for clickhouse.|322|2022-04-02|2021-12-29|
-|146|[bangumi/server](https://github.com/bangumi/server)|The next-generation backend server for https://bgm.tv|321|2022-04-02|2021-12-07|
-|147|[ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle)|Play Wordle over SSH.|320|2022-02-08|2022-02-01|
-|148|[nikochiko/autosaved](https://github.com/nikochiko/autosaved)|Never worry about losing your code. Written in Go|320|2022-01-19|2022-01-07|
-|149|[XmirrorSecurity/OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli)|OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.|319|2022-03-25|2021-12-30|
-|150|[xiecat/fofax](https://github.com/xiecat/fofax)|fofax is a command line query tool based on the API of https://fofa.info/, simple is the best!|318|2022-04-03|2021-12-14|
-|151|[maaslalani/gambit](https://github.com/maaslalani/gambit)|Play chess in your terminal|314|2022-04-03|2021-12-02|
-|152|[rueian/rueidis](https://github.com/rueian/rueidis)|A Fast Golang Redis RESP3 client that supports Client Side Caching, Auto Pipelining, RedisJSON, RedisBloom, RediSearch, RedisAI, RedisGears, etc.|311|2022-03-31|2021-09-18|
-|153|[deref/exo](https://github.com/deref/exo)|A process manager & log viewer for dev|305|2022-04-04|2021-07-12|
-|154|[DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp)|:sparkles: :rocket: EasyTCP is a light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.|303|2022-03-28|2021-04-26|
-|155|[proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite)|Query sqlite via http|302|2022-03-30|2022-01-05|
-|156|[tnpitsecurity/ligolo-ng](https://github.com/tnpitsecurity/ligolo-ng)|An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.|302|2022-01-04|2021-07-28|
-|157|[kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap)|A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.|301|2022-04-01|2021-07-12|
-|158|[chainguard-dev/apko](https://github.com/chainguard-dev/apko)|Build OCI images using APK directly without Dockerfile|299|2022-04-04|2022-02-08|
-|159|[carlmjohnson/requests](https://github.com/carlmjohnson/requests)|HTTP requests for Gophers|299|2022-04-01|2021-05-20|
-|160|[symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli)|The Symfony CLI tool|298|2022-03-25|2021-12-30|
-|161|[kevwan/chatbot](https://github.com/kevwan/chatbot)|A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.|295|2022-03-29|2021-09-20|
-|162|[antonmedv/llama](https://github.com/antonmedv/llama)|Terminal file manager|294|2021-12-22|2021-12-08|
-|163|[aidansteele/ipv6-ghost-ship](https://github.com/aidansteele/ipv6-ghost-ship)|Silly usage of AWS EC2 IPv6 prefixes|290|2022-01-07|2022-01-06|
-|164|[rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go)|An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`|287|2022-04-04|2021-06-09|
-|165|[carina-io/carina](https://github.com/carina-io/carina)|Carina: an high performance and ops-free local storage for kubernetes|286|2022-04-03|2021-08-18|
-|166|[redhat-et/microshift](https://github.com/redhat-et/microshift)|A small form factor OpenShift/Kubernetes optimized for edge computing|282|2022-04-05|2021-04-26|
-|167|[wallarm/api-firewall](https://github.com/wallarm/api-firewall)|Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs. |280|2022-04-04|2021-05-14|
-|168|[megaease/easeprobe](https://github.com/megaease/easeprobe)|A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.|279|2022-04-04|2022-02-24|
-|169|[tulir/whatsmeow](https://github.com/tulir/whatsmeow)|Go library for the WhatsApp web multidevice API|277|2022-04-04|2021-10-06|
-|170|[smallnest/chanx](https://github.com/smallnest/chanx)|unbounded chan|276|2021-12-05|2021-05-10|
-|171|[ruoshan/autoportforward](https://github.com/ruoshan/autoportforward)|Bidirectional port-forwarding for docker, podman and kubernetes|273|2022-03-11|2021-12-28|
-|172|[mrusme/superhighway84](https://github.com/mrusme/superhighway84)|USENET-inspired, uncensorable, decentralized internet discussion system|272|2022-04-03|2021-12-23|
-|173|[trufflesecurity/driftwood](https://github.com/trufflesecurity/driftwood)|Private key usage verification|272|2021-11-09|2021-11-05|
-|174|[cnosdb/cnosdb](https://github.com/cnosdb/cnosdb)|An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.|272|2022-04-02|2021-10-25|
-|175|[jomei/notionapi](https://github.com/jomei/notionapi)|A Notion API SDK, written in Golang|272|2022-03-21|2021-05-23|
-|176|[deso-protocol/core](https://github.com/deso-protocol/core)|DeSo core node|272|2022-04-05|2021-05-18|
-|177|[0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn)|A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.|271|2022-03-22|2021-12-14|
-|178|[AnalogJ/hatchet](https://github.com/AnalogJ/hatchet)|Cut down spam in your Gmail Inbox|270|2022-01-20|2021-07-06|
-|179|[mergestat/timediff](https://github.com/mergestat/timediff)|Go library for printing human readable, relative time differences 🕰️|268|2022-02-07|2022-01-21|
-|180|[triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)|Open source event-driven integration platform powered by Kubernetes and Knative. TriggerMesh allows you to declaratively define event flows between sources and targets, with content-based filtering, s ...|267|2022-04-05|2021-09-18|
-|181|[devstream-io/devstream](https://github.com/devstream-io/devstream)|DevStream: the open-source DevOps toolchain manager (DTM).|266|2022-04-04|2021-10-09|
-|182|[bradfitz/jndi](https://github.com/bradfitz/jndi)|a irresponsibly bad logging library|265|2021-12-11|2021-12-11|
-|183|[ebosas/microservices](https://github.com/ebosas/microservices)|A microservices example in Go|263|2021-12-02|2021-06-01|
-|184|[gzuidhof/tygo](https://github.com/gzuidhof/tygo)|Generate Typescript types from Golang source code|261|2022-03-16|2022-03-02|
-|185|[defenseunicorns/zarf](https://github.com/defenseunicorns/zarf)|DevSecOps for Air Gap & Limited-Connection Systems|261|2022-04-04|2021-08-23|
-|186|[akhilrex/hammond](https://github.com/akhilrex/hammond)|Self hosted vehicle and expense management system. Like Clarkson, but better|260|2022-04-04|2021-05-29|
-|187|[wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount)|A tool for creating hidden accounts using the registry.|259|2022-01-25|2022-01-16|
-|188|[sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy)|🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)|259|2022-04-05|2022-01-05|
-|189|[jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798)|Grafana Unauthorized arbitrary file reading vulnerability|258|2021-12-09|2021-12-07|
-|190|[CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp)|⚡ Check your npm modules for unused and duplicate dependencies fast|254|2021-12-30|2021-11-01|
-|191|[gagliardetto/solana-go](https://github.com/gagliardetto/solana-go)|Go SDK library for the Solana Blockchain|253|2022-04-04|2021-06-29|
-|192|[Tencent/caelus](https://github.com/Tencent/caelus)|Set of Kubernetes solutions for reusing idle resources of nodes by running extra batch jobs|252|2022-03-01|2021-09-23|
-|193|[nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum)|User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin|251|2022-03-25|2021-11-07|
-|194|[xntrik/hcltm](https://github.com/xntrik/hcltm)|Documenting your Threat Models with HCL|249|2022-03-30|2021-09-14|
-|195|[hahwul/authz0](https://github.com/hahwul/authz0)|🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials.|248|2022-03-09|2022-01-05|
-|196|[benjojo/hot-clone](https://github.com/benjojo/hot-clone)|Progressively image a mounted disk correctly without corruption|247|2021-10-24|2021-09-12|
-|197|[aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo)|eBPF library for Go, wrapping libbpf|247|2022-03-23|2021-05-11|
-|198|[kubecube-io/KubeCube](https://github.com/kubecube-io/KubeCube)|KubeCube is an open source enterprise-level container platform|246|2022-03-25|2021-07-12|
-|199|[greenpau/caddy-security](https://github.com/greenpau/caddy-security)|🇺🇦 🇺🇦 🇺🇦 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc. ...|244|2022-04-03|2022-01-15|
-|200|[cashapp/hermit](https://github.com/cashapp/hermit)|Hermit manages isolated, self-bootstrapping sets of tools in software projects.|243|2022-04-02|2021-05-20|
+|1|[zinclabs/zinc](https://github.com/zinclabs/zinc)|ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|9819|2022-08-02|2021-12-02|
+|2|[vercel/turborepo](https://github.com/vercel/turborepo)|The High-performance Build System for JavaScript & TypeScript Codebases|8561|2022-08-02|2021-10-05|
+|3|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Open Source realtime backend in 1 file|7650|2022-08-02|2022-07-05|
+|4|[charmbracelet/gum](https://github.com/charmbracelet/gum)|A tool for glamorous shell scripts 🎀|7096|2022-08-02|2022-06-10|
+|5|[samber/lo](https://github.com/samber/lo)|💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)|7095|2022-08-02|2022-03-02|
+|6|[armosec/kubescape](https://github.com/armosec/kubescape)|Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. |6083|2022-08-01|2021-08-12|
+|7|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|5396|2022-08-02|2021-09-04|
+|8|[ddosify/ddosify](https://github.com/ddosify/ddosify)|High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀|4660|2022-07-26|2021-08-04|
+|9|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|4641|2022-08-02|2021-10-30|
+|10|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.|4364|2022-08-01|2021-09-26|
+|11|[YaoApp/yao](https://github.com/YaoApp/yao)|:rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.|4293|2022-07-30|2021-09-06|
+|12|[sachaos/viddy](https://github.com/sachaos/viddy)|👀 A modern watch command. Time machine and pager etc.|3472|2022-07-14|2021-08-14|
+|13|[multiprocessio/dsq](https://github.com/multiprocessio/dsq)|Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.|2594|2022-07-24|2022-01-10|
+|14|[binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)|Send push notifications to your phone or desktop using PUT/POST|2550|2022-08-01|2021-10-23|
+|15|[loov/lensm](https://github.com/loov/lensm)|Go assembly and source viewer|2503|2022-07-18|2022-07-03|
+|16|[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)|A beautiful CLI dashboard for GitHub 🚀 |2456|2022-07-26|2021-10-14|
+|17|[authzed/spicedb](https://github.com/authzed/spicedb)|Open source permissions database inspired by Google Zanzibar|2421|2022-08-02|2021-08-16|
+|18|[kevwan/tproxy](https://github.com/kevwan/tproxy)|A cli tool to proxy and analyze TCP connections.|2214|2022-07-31|2022-06-14|
+|19|[m3o/m3o](https://github.com/m3o/m3o)|Universal Micro Services|2181|2022-07-30|2021-10-08|
+|20|[hktalent/scan4all](https://github.com/hktalent/scan4all)|Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...|2144|2022-08-02|2022-06-20|
+|21|[s0md3v/Smap](https://github.com/s0md3v/Smap)|a drop-in replacement for Nmap powered by shodan.io|2086|2022-07-22|2022-03-19|
+|22|[praetorian-inc/gokart](https://github.com/praetorian-inc/gokart)|A static analysis tool for securing Go code|1994|2022-07-30|2021-08-16|
+|23|[sheepla/pingu](https://github.com/sheepla/pingu)|🐧ping command but with pingu|1868|2022-07-15|2022-06-11|
+|24|[Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook)|🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.|1863|2022-07-13|2021-12-20|
+|25|[knadh/dns.toys](https://github.com/knadh/dns.toys)|A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.|1830|2022-06-24|2022-06-01|
+|26|[akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way)|A hands-on approach to getting started with Go generics.|1653|2022-05-11|2022-01-05|
+|27|[duke-git/lancet](https://github.com/duke-git/lancet)|A comprehensive, efficient, and reusable util function library of go.|1562|2022-08-02|2021-11-28|
+|28|[google/log4jscanner](https://github.com/google/log4jscanner)|A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.|1561|2022-06-30|2021-12-28|
+|29|[octeep/wireproxy](https://github.com/octeep/wireproxy)|Wireguard client that exposes itself as a socks5 proxy|1518|2022-05-20|2022-03-11|
+|30|[cloudwego/hertz](https://github.com/cloudwego/hertz)|A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.|1493|2022-08-02|2022-05-12|
+|31|[V4NSH4J/discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO)|The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users!|1451|2022-07-30|2021-11-01|
+|32|[coder/coder](https://github.com/coder/coder)|Remote development environments on your infrastructure|1383|2022-08-02|2021-12-22|
+|33|[tharsis/evmos](https://github.com/tharsis/evmos)|Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.|1241|2022-05-15|2021-09-28|
+|34|[arriven/db1000n](https://github.com/arriven/db1000n)|-|1193|2022-08-02|2022-02-26|
+|35|[pojntfx/weron](https://github.com/pojntfx/weron)|Overlay networks based on WebRTC.|1160|2022-07-31|2022-02-28|
+|36|[mathaou/termdbms](https://github.com/mathaou/termdbms)|A TUI for viewing and editing database files.|1148|2022-06-11|2021-09-02|
+|37|[datastack-net/dockerized](https://github.com/datastack-net/dockerized)|Run popular commandline tools within docker|1088|2022-07-28|2022-03-09|
+|38|[megaease/easeprobe](https://github.com/megaease/easeprobe)|A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.|1028|2022-08-02|2022-02-24|
+|39|[DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)|:cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud|1023|2022-08-02|2022-01-07|
+|40|[sairson/Yasso](https://github.com/sairson/Yasso)|强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）|1021|2022-04-02|2022-01-05|
+|41|[benbjohnson/postlite](https://github.com/benbjohnson/postlite)|Postgres wire compatible SQLite proxy.|998|2022-04-01|2022-03-30|
+|42|[xiecat/goblin](https://github.com/xiecat/goblin)|一款适用于红蓝对抗中的仿真钓鱼系统|978|2022-07-13|2021-09-06|
+|43|[keploy/keploy](https://github.com/keploy/keploy)|No code API testing platform. Create unit tests and data mocks from API calls. |961|2022-08-02|2022-01-19|
+|44|[mtlynch/picoshare](https://github.com/mtlynch/picoshare)|A minimalist, easy-to-host service for sharing images and other files|932|2022-08-02|2022-02-14|
+|45|[Tylous/ZipExec](https://github.com/Tylous/ZipExec)|A unique technique to execute binaries from a password protected zip|914|2022-07-01|2021-10-19|
+|46|[projectdiscovery/uncover](https://github.com/projectdiscovery/uncover)|Quickly discover exposed hosts on the internet using multiple search engine.|908|2022-07-28|2022-03-02|
+|47|[flower-corp/lotusdb](https://github.com/flower-corp/lotusdb)|Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.|907|2022-07-29|2021-12-14|
+|48|[ycd/dstp](https://github.com/ycd/dstp)|🧪 Run common networking tests against any site.|901|2022-02-08|2021-11-07|
+|49|[stackrox/stackrox](https://github.com/stackrox/stackrox)|The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by ...|842|2022-08-02|2021-12-01|
+|50|[adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts)|A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.|841|2022-05-22|2022-05-14|
+|51|[coinbase/kryptology](https://github.com/coinbase/kryptology)|-|801|2022-07-18|2021-11-02|
+|52|[heiyeluren/xmm](https://github.com/heiyeluren/xmm)|XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance.  XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存 ...|797|2022-03-04|2021-12-27|
+|53|[barthr/redo](https://github.com/barthr/redo)|Redo is the ultimate tool to create reusable functions from your history in an interactive way|790|2022-04-25|2022-02-14|
+|54|[DrDonk/unlocker](https://github.com/DrDonk/unlocker)|VMware macOS utilities|788|2022-07-30|2021-11-18|
+|55|[uptrace/uptrace](https://github.com/uptrace/uptrace)|OpenTelemetry distributed tracing tool that monitors performance, errors, and logs|774|2022-08-02|2021-12-22|
+|56|[iyear/pure-live-core](https://github.com/iyear/pure-live-core)|✨ Make Live Pure Again|771|2022-07-06|2021-12-06|
+|57|[chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools)|veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集|761|2022-08-02|2022-02-08|
+|58|[polarsignals/frostdb](https://github.com/polarsignals/frostdb)|❄️ Coolest database around 🧊 Embeddable column database written in Go.|747|2022-08-02|2022-03-23|
+|59|[samber/mo](https://github.com/samber/mo)|🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)|744|2022-07-25|2022-05-17|
+|60|[clickvisual/clickvisual](https://github.com/clickvisual/clickvisual)|A light weight log and data visual analytic platform  for clickhouse.|742|2022-08-02|2021-12-29|
+|61|[spiceai/spiceai](https://github.com/spiceai/spiceai)|Build apps that learn and adapt. Time series AI for developers.|741|2022-07-21|2021-08-08|
+|62|[Azure/aztfy](https://github.com/Azure/aztfy)|A tool to bring existing Azure resources under Terraform's management|732|2022-07-29|2021-08-14|
+|63|[gocrane/crane](https://github.com/gocrane/crane)|Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts. |718|2022-08-02|2021-11-18|
+|64|[loggie-io/loggie](https://github.com/loggie-io/loggie)|A lightweight, cloud-native data transfer agent and aggregator|713|2022-08-01|2021-11-22|
+|65|[tensorchord/envd](https://github.com/tensorchord/envd)|🏕️ Development environment for machine learning|703|2022-08-02|2022-04-11|
+|66|[helmfile/helmfile](https://github.com/helmfile/helmfile)|Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot|686|2022-08-01|2022-03-27|
+|67|[maxmunzel/kvass](https://github.com/maxmunzel/kvass)|a personal key-value store|676|2022-07-29|2022-07-03|
+|68|[XmirrorSecurity/OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli)|OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.|675|2022-07-22|2021-12-30|
+|69|[sethvargo/ratchet](https://github.com/sethvargo/ratchet)|A tool for securing CI/CD workflows with version pinning.|669|2022-06-10|2022-03-28|
+|70|[abahmed/kwatch](https://github.com/abahmed/kwatch)|:eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly|664|2022-08-02|2021-11-20|
+|71|[deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)|:star: :star: Distributed tcpdump for cloud native environments :star: :star:|661|2022-07-25|2022-03-25|
+|72|[RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)|Active Directory & Red-Team Cheat-Sheet in constant expansion.|654|2022-06-07|2022-01-18|
+|73|[wikiZ/RedGuard](https://github.com/wikiZ/RedGuard)|RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.|650|2022-07-22|2022-05-08|
+|74|[MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast)|cast YouTube videos to your smart TV from command-line|646|2022-02-17|2021-11-15|
+|75|[pwnesia/dnstake](https://github.com/pwnesia/dnstake)|DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover|646|2022-07-27|2021-08-24|
+|76|[Tylous/SourcePoint](https://github.com/Tylous/SourcePoint)|SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion. |638|2022-07-26|2021-08-06|
+|77|[SnellerInc/sneller](https://github.com/SnellerInc/sneller)|Vectorized SQL for JSON at scale: fast, simple, schemaless|632|2022-08-01|2022-03-25|
+|78|[madawei2699/free4chat](https://github.com/madawei2699/free4chat)|free4.chat is an instant audio conferencing service.  It is designed by the local first and privacy first principle, and is very easy to use.|632|2022-03-31|2021-10-31|
+|79|[bytedance/godlp](https://github.com/bytedance/godlp)|sensitive information protection toolkit|567|2022-07-04|2021-11-10|
+|80|[optiv/Mangle](https://github.com/optiv/Mangle)|Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs|565|2022-06-28|2022-06-21|
+|81|[aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)|An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.|558|2022-07-31|2022-05-12|
+|82|[kstone-io/kstone](https://github.com/kstone-io/kstone)|Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.|553|2022-07-16|2021-12-09|
+|83|[sigstore/gitsign](https://github.com/sigstore/gitsign)|Keyless Git signing using Sigstore|549|2022-08-01|2022-05-12|
+|84|[devstream-io/devstream](https://github.com/devstream-io/devstream)|DevStream: the open-source DevOps toolchain manager (DTM).|549|2022-08-02|2021-10-09|
+|85|[zehuamama/tinyrpc](https://github.com/zehuamama/tinyrpc)|🚀 Fast, stable, high performance RPC framework based on protocol buffer|544|2022-06-21|2021-11-26|
+|86|[envoyproxy/gateway](https://github.com/envoyproxy/gateway)|Manages Envoy Proxy as a standalone or Kubernetes-based application gateway|532|2022-08-02|2022-04-11|
+|87|[ruilisi/css-checker](https://github.com/ruilisi/css-checker)|Reduce Similar & Duplicated CSS Classes with Diff in Seconds!|532|2022-07-31|2022-02-22|
+|88|[neuvector/neuvector](https://github.com/neuvector/neuvector)|-|521|2022-08-02|2021-12-17|
+|89|[firefart/stunner](https://github.com/firefart/stunner)|Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.|518|2022-08-01|2022-04-15|
+|90|[tulir/whatsmeow](https://github.com/tulir/whatsmeow)|Go library for the WhatsApp web multidevice API|517|2022-07-31|2021-10-06|
+|91|[redtoolskobe/scaninfo](https://github.com/redtoolskobe/scaninfo)|fast scan for redtools|515|2022-03-23|2021-11-05|
+|92|[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)|The SSH directory ✨|503|2022-08-02|2022-01-03|
+|93|[wundergraph/wundergraph](https://github.com/wundergraph/wundergraph)|Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.|501|2022-08-02|2022-05-24|
+|94|[RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender)|Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.|496|2022-07-18|2022-07-11|
+|95|[chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer)|🤒   A modern alternative network traffic sniffer.|491|2022-07-27|2021-11-08|
+|96|[greenpau/caddy-security](https://github.com/greenpau/caddy-security)|🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A ...|483|2022-06-20|2022-01-15|
+|97|[koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator)|QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.|482|2022-08-02|2022-03-16|
+|98|[chainguard-dev/apko](https://github.com/chainguard-dev/apko)|Build OCI images using APK directly without Dockerfile|481|2022-08-02|2022-02-08|
+|99|[bradenaw/juniper](https://github.com/bradenaw/juniper)|Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams.|480|2022-07-11|2021-12-03|
+|100|[BlinkDL/YYDZ](https://github.com/BlinkDL/YYDZ)|The YYDZ (Yi Yan Ding Zhen / One Eye Ding Zhen) dataset|476|2022-05-11|2022-05-04|
+|101|[erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda)|A special DOS application to stop pro-Russian aggression websites. Support Ukraine!|466|2022-05-24|2022-02-26|
+|102|[zyylhn/zscan](https://github.com/zyylhn/zscan)|Zscan a scan blasting tool set|459|2022-04-18|2021-11-22|
+|103|[alajmo/sake](https://github.com/alajmo/sake)|:robot: sake is a task runner for local and remote hosts|452|2022-07-30|2021-10-09|
+|104|[samber/do](https://github.com/samber/do)|⚙️  A dependency injection toolkit based on Go 1.18+ Generics.|450|2022-07-29|2022-05-17|
+|105|[alphadose/ZenQ](https://github.com/alphadose/ZenQ)|A thread-safe queue faster and more resource efficient than golang's native channels|450|2022-07-30|2022-04-27|
+|106|[toboshii/hajimari](https://github.com/toboshii/hajimari)|Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.|434|2022-03-28|2021-08-14|
+|107|[xgadget-lab/nexttrace](https://github.com/xgadget-lab/nexttrace)|An open source visual route tracking CLI tool|421|2022-07-16|2022-05-11|
+|108|[xiecat/fofax](https://github.com/xiecat/fofax)|fofax is a command line query tool based on the API of https://fofa.info/, simple is the best!|420|2022-06-09|2021-12-14|
+|109|[dominikbraun/graph](https://github.com/dominikbraun/graph)|A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.|418|2022-08-02|2022-01-19|
+|110|[sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy)|🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)|416|2022-07-21|2022-01-05|
+|111|[wirekang/mouseable](https://github.com/wirekang/mouseable)|'Mouseable' is intended to replace a mouse or trackpad.|414|2022-07-13|2021-11-16|
+|112|[abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)|cross-platform, cli app to perform various operations on string|402|2022-06-22|2021-09-18|
+|113|[maaslalani/gambit](https://github.com/maaslalani/gambit)|Play chess in your terminal|401|2022-06-27|2021-12-02|
+|114|[teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit)|Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具|399|2022-03-16|2022-01-21|
+|115|[ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle)|Play Wordle over SSH.|396|2022-05-25|2022-02-01|
+|116|[inkeliz/karmem](https://github.com/inkeliz/karmem)|Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.|393|2022-08-02|2022-05-11|
+|117|[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)|🔍 Go binary size SVG treemap|390|2022-03-09|2022-01-21|
+|118|[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)|A GitOps Terraform controller for Kubernetes|387|2022-08-02|2021-12-21|
+|119|[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)|CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication|386|2022-08-02|2022-03-10|
+|120|[hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner)|Simple local scanner for vulnerable log4j instances|386|2022-08-01|2021-12-11|
+|121|[muesli/gitty](https://github.com/muesli/gitty)|Contextual information about your git projects, right on the command-line|384|2022-08-02|2021-08-23|
+|122|[kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)|A web-based simulator for the Kubernetes scheduler|382|2022-07-31|2021-08-17|
+|123|[mikestefanello/pagoda](https://github.com/mikestefanello/pagoda)|Rapid, easy full-stack web development starter kit in Go|378|2022-07-08|2021-12-03|
+|124|[vmware-tanzu/cartographer](https://github.com/vmware-tanzu/cartographer)|Cartographer is a Supply Chain Choreographer.|378|2022-08-02|2021-09-01|
+|125|[FourCoreLabs/EDRHunt](https://github.com/FourCoreLabs/EDRHunt)|Scan installed EDRs and AVs on Windows|373|2022-04-06|2021-09-20|
+|126|[google/gke-policy-automation](https://github.com/google/gke-policy-automation)|Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices|369|2022-08-01|2022-03-15|
+|127|[quantumsheep/sshs](https://github.com/quantumsheep/sshs)|Terminal user interface for SSH|366|2022-07-22|2022-01-31|
+|128|[mrusme/superhighway84](https://github.com/mrusme/superhighway84)|USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB|359|2022-08-01|2021-12-23|
+|129|[go-kratos/gateway](https://github.com/go-kratos/gateway)|A high-performance API Gateway with middlewares, supporting HTTP and gRPC protocols.|359|2022-08-01|2021-09-13|
+|130|[ethereum-optimism/cannon](https://github.com/ethereum-optimism/cannon)|On chain interactive fault prover for Ethereum|358|2022-04-01|2021-09-14|
+|131|[Permify/permify](https://github.com/Permify/permify)|Permify is an open-source authorization service & policy engine based on Google Zanzibar.|357|2022-08-02|2022-07-14|
+|132|[Trendyol/kink](https://github.com/Trendyol/kink)|KinK is a helper CLI that facilitates to manage KinD clusters as Kubernetes pods. Designed to ease clusters up for fast testing with batteries included in mind.|353|2022-08-01|2021-09-01|
+|133|[carina-io/carina](https://github.com/carina-io/carina)|Carina: an high performance and ops-free local storage for kubernetes|353|2022-08-02|2021-08-18|
+|134|[bangumi/server](https://github.com/bangumi/server)|The next-generation backend server for bgm.tv|352|2022-08-02|2021-12-07|
+|135|[merbridge/merbridge](https://github.com/merbridge/merbridge)|Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.|348|2022-05-14|2022-01-12|
+|136|[defenseunicorns/zarf](https://github.com/defenseunicorns/zarf)|DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/|348|2022-08-02|2021-08-23|
+|137|[rueian/rueidis](https://github.com/rueian/rueidis)|A Fast Golang Redis RESP3 client that supports Client Side Caching, Auto Pipelining, RedisJSON, RedisBloom, RediSearch, RedisAI, RedisGears, etc.|347|2022-05-15|2021-09-18|
+|138|[mineiros-io/terramate](https://github.com/mineiros-io/terramate)|Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation.|344|2022-08-02|2021-09-29|
+|139|[vincentbernat/akvorado](https://github.com/vincentbernat/akvorado)|Flow collector, hydrater and visualizer|343|2022-08-02|2022-06-28|
+|140|[symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli)|The Symfony CLI tool|341|2022-08-02|2021-12-30|
+|141|[l7mp/stunner](https://github.com/l7mp/stunner)|A Kubernetes ingress gateway for WebRTC|339|2022-08-02|2022-02-08|
+|142|[mingcheng/socks5lb](https://github.com/mingcheng/socks5lb)|A simple socks5 proxy load balance and transparent proxy|338|2022-07-31|2022-07-08|
+|143|[c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff)|A fancy-schmancy tcpdump-esque TUI, programmed in Go.|338|2022-05-01|2022-04-25|
+|144|[proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite)|Query sqlite via http|335|2022-07-29|2022-01-05|
+|145|[kubewharf/kubezoo](https://github.com/kubewharf/kubezoo)|a lightweight kubernetes multi-tenancy gateway|329|2022-08-01|2022-07-22|
+|146|[nikochiko/autosaved](https://github.com/nikochiko/autosaved)|Never worry about losing your code. Written in Go|324|2022-04-19|2022-01-07|
+|147|[0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn)|A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.|323|2022-04-24|2021-12-14|
+|148|[clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia)|The Encyclopedia of Kubernetes clusters|323|2022-05-13|2021-10-08|
+|149|[triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)|Open source event-driven integration platform powered by Kubernetes and Knative. TriggerMesh allows you to declaratively define event flows between sources and targets, with content-based filtering, s ...|319|2022-08-02|2021-09-18|
+|150|[ktock/buildg](https://github.com/ktock/buildg)|Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)|315|2022-08-01|2022-05-09|
+|151|[boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain)|Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second|315|2022-04-07|2021-10-24|
+|152|[zyedidia/eget](https://github.com/zyedidia/eget)|Easily install prebuilt binaries from GitHub.|315|2022-07-26|2021-08-17|
+|153|[saiyam1814/DevOpsRoadmap2022](https://github.com/saiyam1814/DevOpsRoadmap2022)|-|314|2022-08-01|2022-01-04|
+|154|[kevwan/chatbot](https://github.com/kevwan/chatbot)|A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.|313|2022-03-29|2021-09-20|
+|155|[wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount)|A tool for creating hidden accounts using the registry    一个使用注册表创建隐藏帐户的工具|309|2022-04-29|2022-01-16|
+|156|[apptainer/apptainer](https://github.com/apptainer/apptainer)|Apptainer: Application containers for Linux|309|2022-08-02|2021-11-30|
+|157|[e1732a364fed/v2ray_simple](https://github.com/e1732a364fed/v2ray_simple)|a verysimple proxy|305|2022-08-01|2022-03-09|
+|158|[wangkechun/go-by-example](https://github.com/wangkechun/go-by-example)|-|298|2022-05-06|2022-03-16|
+|159|[utkusen/socialhunter](https://github.com/utkusen/socialhunter)|crawls the website and finds broken social media links that can be hijacked|294|2022-04-18|2022-04-09|
+|160|[rumsystem/quorum](https://github.com/rumsystem/quorum)|RUM: The internet alternatives|294|2022-08-02|2021-10-01|
+|161|[openclarity/apiclarity](https://github.com/openclarity/apiclarity)|Reconstruct Open API Specifications from real-time workload traffic seamlessly.|294|2022-08-02|2021-09-02|
+|162|[AlexEidt/Vidio](https://github.com/AlexEidt/Vidio)|FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.|293|2022-07-26|2021-11-23|
+|163|[chengshiwen/influxdb-cluster](https://github.com/chengshiwen/influxdb-cluster)|InfluxDB Cluster - Open Source Alternative to InfluxDB Enterprise|291|2022-05-02|2022-02-18|
+|164|[trzsz/trzsz-go](https://github.com/trzsz/trzsz-go)|trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.|291|2022-07-30|2022-02-12|
+|165|[nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum)|User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin|291|2022-07-19|2021-11-07|
+|166|[hahwul/authz0](https://github.com/hahwul/authz0)|🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials.|289|2022-07-22|2022-01-05|
+|167|[quarkslab/kdigger](https://github.com/quarkslab/kdigger)|Kubernetes focused container assessment and context discovery tool for penetration testing|288|2022-07-25|2021-09-06|
+|168|[flashbots/mev-boost](https://github.com/flashbots/mev-boost)|mev-boost allows proof-of-stake Ethereum consensus clients to outsource block construction|286|2022-07-31|2021-11-17|
+|169|[suborbital/sat](https://github.com/suborbital/sat)|Tiny & fast WebAssembly edge compute server|286|2022-08-02|2021-09-30|
+|170|[gokrazy/rsync](https://github.com/gokrazy/rsync)|gokrazy rsync|283|2022-06-10|2021-08-22|
+|171|[mergestat/timediff](https://github.com/mergestat/timediff)|Go library for printing human readable, relative time differences 🕰️|282|2022-02-07|2022-01-21|
+|172|[pluveto/upgit](https://github.com/pluveto/upgit)|Another Upload Hub, support clipboard, good with Typora, Snipaste, VSCode|281|2022-07-22|2022-01-28|
+|173|[gzuidhof/tygo](https://github.com/gzuidhof/tygo)|Generate Typescript types from Golang source code|277|2022-07-22|2022-03-02|
+|174|[ruoshan/autoportforward](https://github.com/ruoshan/autoportforward)|Bidirectional port-forwarding for docker, podman and kubernetes|277|2022-05-07|2021-12-28|
+|175|[Tencent/caelus](https://github.com/Tencent/caelus)|Set of Kubernetes solutions for reusing idle resources of nodes by running extra batch jobs|277|2022-03-01|2021-09-23|
+|176|[xntrik/hcltm](https://github.com/xntrik/hcltm)|Documenting your Threat Models with HCL|272|2022-07-21|2021-09-14|
+|177|[multycloud/multy](https://github.com/multycloud/multy)|Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds|267|2022-08-02|2022-01-08|
+|178|[malwaredllc/minicache](https://github.com/malwaredllc/minicache)|Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.|263|2022-06-01|2022-05-03|
+|179|[CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp)|⚡ Check your npm modules for unused and duplicate dependencies fast|262|2022-05-27|2021-11-01|
+|180|[CECTC/dbpack](https://github.com/CECTC/dbpack)|A db proxy for distributed transaction, read write splitting and sharding! Support any language! It can be deployed as a sidecar in a pod.|261|2022-08-02|2022-04-18|
+|181|[golang-module/dongle](https://github.com/golang-module/dongle)|A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption|261|2022-06-09|2021-08-11|
+|182|[hherman1/gq](https://github.com/hherman1/gq)|jq but using go instead|259|2022-04-28|2022-04-27|
+|183|[r7wx/easy-gate](https://github.com/r7wx/easy-gate)|A gate to your self hosted infrastructure|259|2022-07-28|2022-04-18|
+|184|[metafates/mangal](https://github.com/metafates/mangal)|📖 Manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration. It's fast!|258|2022-08-02|2022-05-21|
+|185|[common-fate/granted](https://github.com/common-fate/granted)|The easiest way to access your cloud.|256|2022-08-01|2022-02-14|
+|186|[arriqaaq/flashdb](https://github.com/arriqaaq/flashdb)|FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read)|255|2022-05-31|2022-03-07|
+|187|[yohamta/dagu](https://github.com/yohamta/dagu)|A just another Cron alternative with a Web UI, but with much more capabilities|254|2022-08-02|2022-04-22|
+|188|[hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)|Hwameistor is an Agile local storage system for cloud-native stateful workloads. Supoort Localize I/O, High Availability and Data Motivation.|254|2022-08-02|2022-03-07|
+|189|[cmars/onionpipe](https://github.com/cmars/onionpipe)|Onion addresses for anything.|254|2022-06-02|2022-01-23|
+|190|[kubewharf/kubebrain](https://github.com/kubewharf/kubebrain)|A High Performance Metadata System for Kubernetes|253|2022-08-02|2022-07-14|
+|191|[NextronSystems/ransomware-simulator](https://github.com/NextronSystems/ransomware-simulator)|Ransomware simulator written in Golang|253|2022-06-30|2022-04-05|
+|192|[SolarLune/tetra3d](https://github.com/SolarLune/tetra3d)|Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.|252|2022-08-02|2021-11-03|
+|193|[maaslalani/draw](https://github.com/maaslalani/draw)|Draw in your terminal|251|2022-06-29|2022-04-14|
+|194|[fatih/semgroup](https://github.com/fatih/semgroup)|Like errgroup/waitgroup, but only runs a maximum of tasks at any time.|249|2022-03-08|2022-03-04|
+|195|[OwO-Network/nexttrace-enhanced](https://github.com/OwO-Network/nexttrace-enhanced)|An open source visual route tracking CLI tool (Enhanced Edition)|247|2022-07-22|2022-04-24|
+|196|[thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco)|🦎 gh cli extension to explore the ecosystem|245|2022-06-15|2022-05-13|
+|197|[auula/kalasa](https://github.com/auula/kalasa)|Kalasa is a NoSQL database and provides more data structures for ease of use.|243|2022-05-14|2022-01-16|
+|198|[kalbhor/Tasqueue](https://github.com/kalbhor/Tasqueue)|A simple, customisable distributed job/worker in Go|241|2022-08-01|2022-05-06|
+|199|[dtm-labs/rockscache](https://github.com/dtm-labs/rockscache)|The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.|241|2022-07-28|2022-04-28|
+|200|[liamg/dismember](https://github.com/liamg/dismember)|:knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.|240|2022-07-27|2022-06-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
