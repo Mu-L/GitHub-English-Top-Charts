@@ -1,68 +1,68 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Lua
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway |32594|2022-08-02|
-|2|[nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art|24338|2022-07-06|
-|3|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|14459|2022-05-26|
-|4|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|11063|2022-08-01|
-|5|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms|11021|2022-08-02|
+|1|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway |32605|2022-08-03|
+|2|[nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art|24341|2022-07-06|
+|3|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|14462|2022-05-26|
+|4|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|11073|2022-08-03|
+|5|[NvChad/NvChad](https://github.com/NvChad/NvChad)|An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms|11046|2022-08-02|
 |6|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|9794|2022-08-02|
-|7|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|An IDE layer for Neovim with sane defaults. Completely free and community driven.|9730|2022-08-02|
+|7|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|An IDE layer for Neovim with sane defaults. Completely free and community driven.|9744|2022-08-02|
 |8|[draios/sysdig](https://github.com/draios/sysdig)|Linux system exploration and troubleshooting tool with first class support for containers|6965|2022-07-15|
-|9|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|6631|2022-08-01|
-|10|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configs for Nvim LSP|5152|2022-08-02|
-|11|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|4955|2022-07-26|
+|9|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|6653|2022-08-01|
+|10|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configs for Nvim LSP|5160|2022-08-03|
+|11|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|4957|2022-07-26|
 |12|[lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)|Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets|4953|2022-06-30|
-|13|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4743|2022-08-01|
-|14|[jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)|Feedforward style transfer|4080|2022-06-21|
-|15|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |3972|2022-08-02|
+|13|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|4745|2022-08-02|
+|14|[jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)|Feedforward style transfer|4079|2022-06-21|
+|15|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |3987|2022-08-02|
 |16|[luvit/luvit](https://github.com/luvit/luvit)|Lua + libUV + jIT = pure awesomesauce|3523|2022-05-02|
-|17|[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)|A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config|3438|2022-07-31|
-|18|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|3408|2022-07-31|
+|17|[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)|A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config|3476|2022-08-02|
+|18|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|3413|2022-08-02|
 |19|[moonbingbing/openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)|-|3340|2022-06-30|
-|20|[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)|A Neovim config designed from scratch to be understandable|3015|2022-08-02|
-|21|[kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)|A file explorer tree for neovim written in lua|2960|2022-08-01|
-|22|[tarantool/tarantool](https://github.com/tarantool/tarantool)|Get your data in RAM. Get compute close to data. Enjoy the performance.|2948|2022-08-02|
+|20|[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)|A Neovim config designed from scratch to be understandable|3023|2022-08-02|
+|21|[kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)|A file explorer tree for neovim written in lua|2973|2022-08-02|
+|22|[tarantool/tarantool](https://github.com/tarantool/tarantool)|Get your data in RAM. Get compute close to data. Enjoy the performance.|2948|2022-08-03|
 |23|[snabbco/snabb](https://github.com/snabbco/snabb)|Snabb: Simple and fast packet networking|2833|2022-07-28|
 |24|[lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)|A lightweight text editor written in Lua|2705|2022-07-31|
-|25|[lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats)|Awesome WM themes|2626|2022-07-31|
-|26|[scipag/vulscan](https://github.com/scipag/vulscan)|Advanced vulnerability scanning with Nmap NSE|2619|2022-03-11|
+|25|[lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats)|Awesome WM themes|2625|2022-07-31|
+|26|[scipag/vulscan](https://github.com/scipag/vulscan)|Advanced vulnerability scanning with Nmap NSE|2621|2022-03-11|
 |27|[CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH)|Open source clone of Theme Hospital|2585|2022-07-28|
-|28|[luarocks/luarocks](https://github.com/luarocks/luarocks)|LuaRocks is the package manager for the Lua programming language.|2539|2022-07-01|
-|29|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|2518|2022-07-30|
-|30|[jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)|Efficient, reusable RNNs and LSTMs for torch|2388|2022-06-21|
+|28|[luarocks/luarocks](https://github.com/luarocks/luarocks)|LuaRocks is the package manager for the Lua programming language.|2542|2022-07-01|
+|29|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|2530|2022-07-30|
+|30|[jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)|Efficient, reusable RNNs and LSTMs for torch|2389|2022-06-21|
 |31|[nicknisi/dotfiles](https://github.com/nicknisi/dotfiles)|vim, zsh, git, homebrew, neovim - my whole world|2374|2022-07-21|
 |32|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2354|2022-07-21|
-|33|[pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)|Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind ...|2346|2022-07-30|
+|33|[pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)|Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind ...|2347|2022-07-30|
 |34|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2242|2022-08-01|
-|35|[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)|A blazing fast and easy to configure neovim statusline plugin written in pure lua.|2182|2022-08-02|
-|36|[PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)|Offline build planner for Path of Exile.|2159|2022-08-01|
-|37|[manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles)|A glorified personal dot files|2068|2022-07-27|
-|38|[rxyhn/dotfiles](https://github.com/rxyhn/dotfiles)|My awesomewm dotfiles for awesome people! ✨|2051|2022-07-30|
-|39|[williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)|Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!|1953|2022-08-02|
+|35|[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)|A blazing fast and easy to configure neovim statusline plugin written in pure lua.|2194|2022-08-03|
+|36|[PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)|Offline build planner for Path of Exile.|2160|2022-08-02|
+|37|[manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles)|A glorified personal dot files|2070|2022-07-27|
+|38|[rxyhn/dotfiles](https://github.com/rxyhn/dotfiles)|My awesomewm dotfiles for awesome people! ✨|2053|2022-07-30|
+|39|[williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)|Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!|1955|2022-08-02|
 |40|[robbiebarrat/art-DCGAN](https://github.com/robbiebarrat/art-DCGAN)|Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others.|1952|2022-02-17|
 |41|[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)|Debug Adapter Protocol client implementation for Neovim|1947|2022-08-01|
 |42|[folke/trouble.nvim](https://github.com/folke/trouble.nvim)|🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.|1924|2022-06-22|
-|43|[auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)|On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.|1841|2022-06-22|
-|44|[lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)|Git integration for buffers|1811|2022-08-01|
-|45|[luafun/luafun](https://github.com/luafun/luafun)|Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.|1796|2022-05-20|
-|46|[ledgetech/lua-resty-http](https://github.com/ledgetech/lua-resty-http)|Lua HTTP client cosocket driver for OpenResty / ngx_lua.|1749|2022-05-24|
-|47|[luakit/luakit](https://github.com/luakit/luakit)|Fast, small, webkit based browser framework extensible by Lua.|1733|2022-03-16|
-|48|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1724|2022-05-13|
-|49|[jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)|Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|1707|2022-08-01|
-|50|[glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)|neovim lsp plugin |1650|2022-07-25|
-|51|[folke/which-key.nvim](https://github.com/folke/which-key.nvim)|💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.|1637|2022-07-11|
-|52|[jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard)|⌨ Toward a more useful keyboard|1607|2022-07-25|
-|53|[nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)|Orgmode clone written in Lua for Neovim 0.7+.|1581|2022-07-24|
-|54|[lunarmodules/Penlight](https://github.com/lunarmodules/Penlight)|A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M ...|1537|2022-07-22|
-|55|[sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)|A language server that offers Lua language support - programmed in Lua|1522|2022-07-28|
-|56|[streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets)|Widgets for Awesome Window Manager|1520|2022-07-22|
-|57|[ntop/nProbe](https://github.com/ntop/nProbe)|Open source components and extensions for nProbe|1399|2022-02-22|
-|58|[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)|🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.|1321|2022-04-01|
+|43|[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)|🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.|1869|2022-07-30|
+|44|[auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)|On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.|1842|2022-06-22|
+|45|[lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)|Git integration for buffers|1816|2022-08-01|
+|46|[luafun/luafun](https://github.com/luafun/luafun)|Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.|1796|2022-05-20|
+|47|[glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)|neovim lsp plugin |1765|2022-08-03|
+|48|[ledgetech/lua-resty-http](https://github.com/ledgetech/lua-resty-http)|Lua HTTP client cosocket driver for OpenResty / ngx_lua.|1749|2022-05-24|
+|49|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1739|2022-07-29|
+|50|[luakit/luakit](https://github.com/luakit/luakit)|Fast, small, webkit based browser framework extensible by Lua.|1735|2022-07-29|
+|51|[jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)|Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|1707|2022-08-01|
+|52|[folke/which-key.nvim](https://github.com/folke/which-key.nvim)|💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.|1657|2022-07-11|
+|53|[jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard)|⌨ Toward a more useful keyboard|1607|2022-07-25|
+|54|[nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)|Orgmode clone written in Lua for Neovim 0.7+.|1581|2022-07-24|
+|55|[lunarmodules/Penlight](https://github.com/lunarmodules/Penlight)|A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M ...|1537|2022-07-22|
+|56|[sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)|A language server that offers Lua language support - programmed in Lua|1522|2022-07-28|
+|57|[streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets)|Widgets for Awesome Window Manager|1520|2022-07-22|
+|58|[ntop/nProbe](https://github.com/ntop/nProbe)|Open source components and extensions for nProbe|1399|2022-02-22|
 |59|[starwing/lua-protobuf](https://github.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1311|2022-03-31|
 |60|[TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)|magit for neovim|1252|2022-03-21|
 |61|[sile-typesetter/sile](https://github.com/sile-typesetter/sile)|Simon’s Improved Layout Engine|1177|2022-04-03|
