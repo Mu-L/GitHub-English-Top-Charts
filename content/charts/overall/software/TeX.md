@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > TeX
-<sub>Updated: 2022-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|16726|2022-06-26|
+|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|16737|2022-06-26|
 |2|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|9594|2022-05-17|
-|3|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5896|2022-05-06|
+|3|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5901|2022-05-06|
 |4|[matze/mtheme](https://github.com/matze/mtheme)|A modern LaTeX Beamer theme|5537|2022-03-17|
-|5|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4874|2022-08-03|
-|6|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|4385|2022-06-16|
-|7|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|4225|2022-07-26|
-|8|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3958|2022-08-02|
-|9|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3571|2022-06-15|
-|10|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|3149|2022-07-25|
+|5|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|4877|2022-08-04|
+|6|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|4387|2022-06-16|
+|7|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|RStudio Cheat Sheets|4231|2022-07-26|
+|8|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|3958|2022-08-04|
+|9|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3572|2022-06-15|
+|10|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|3152|2022-07-25|
 |11|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2820|2022-04-12|
 |12|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2293|2022-07-15|
-|13|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|2101|2022-07-31|
-|14|[AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2)|LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.|2043|2022-05-02|
-|15|[karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)|-|1922|2022-07-11|
-|16|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|1874|2022-07-29|
+|13|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|2103|2022-07-31|
+|14|[AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2)|LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.|2044|2022-05-02|
+|15|[karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)|-|1923|2022-07-11|
+|16|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|1875|2022-08-03|
 |17|[gpoore/minted](https://github.com/gpoore/minted)|minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.|1533|2022-04-02|
 |18|[latex3/latex3](https://github.com/latex3/latex3)|The LaTeX3 Development Repository|1489|2022-07-27|
 |19|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1434|2022-05-05|
