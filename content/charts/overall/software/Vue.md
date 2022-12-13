@@ -1,120 +1,120 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Vue
-<sub>Updated: 2022-12-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2022-12-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|79910|2022-11-14|
-|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|52921|2022-12-09|
-|3|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|48772|2022-12-11|
+|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|79921|2022-11-14|
+|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|52925|2022-12-12|
+|3|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|48784|2022-12-11|
 |4|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|39485|2022-12-05|
 |5|[iview/iview](https://github.com/iview/iview)|A high quality UI Toolkit built on Vue.js 2.0|24008|2022-12-08|
-|6|[tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)|Tool for visualizing GitHub profiles|19675|2022-10-11|
-|7|[requarks/wiki](https://github.com/requarks/wiki)|Wiki.js   A modern and powerful wiki app built on Node.js|19295|2022-12-08|
-|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|18981|2022-11-23|
-|9|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|18047|2022-12-11|
-|10|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17634|2022-07-15|
-|11|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|17493|2022-12-11|
-|12|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|16124|2022-10-13|
-|13|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15762|2022-11-23|
-|14|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|15216|2022-12-07|
-|15|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro|13351|2022-11-30|
-|16|[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)|Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.|12016|2022-12-04|
-|17|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)|9896|2022-11-26|
-|18|[vuematerial/vue-material](https://github.com/vuematerial/vue-material)|Material design for Vue.js|9685|2022-12-09|
-|19|[buefy/buefy](https://github.com/buefy/buefy)|Lightweight UI components for Vue.js based on Bulma|9348|2022-12-07|
+|6|[tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)|Tool for visualizing GitHub profiles|19677|2022-10-11|
+|7|[requarks/wiki](https://github.com/requarks/wiki)|Wiki.js   A modern and powerful wiki app built on Node.js|19307|2022-12-11|
+|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|18994|2022-11-23|
+|9|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|18055|2022-12-12|
+|10|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17632|2022-07-15|
+|11|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|17501|2022-12-12|
+|12|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|16127|2022-10-13|
+|13|[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)|:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.|15763|2022-11-23|
+|14|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|15219|2022-12-07|
+|15|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro|13358|2022-11-30|
+|16|[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)|Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.|12019|2022-12-04|
+|17|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)|9897|2022-11-26|
+|18|[vuematerial/vue-material](https://github.com/vuematerial/vue-material)|Material design for Vue.js|9684|2022-12-12|
+|19|[buefy/buefy](https://github.com/buefy/buefy)|Lightweight UI components for Vue.js based on Bulma|9349|2022-12-12|
 |20|[epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin)|Free and Beautiful Vue 3 Admin Template|9029|2022-11-02|
-|21|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!|8493|2022-12-10|
+|21|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!|8509|2022-12-12|
 |22|[museui/muse-ui](https://github.com/museui/muse-ui)|Material Design UI library for Vuejs 2.0|8307|2022-12-09|
-|23|[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)|⚡️ Blazing fast scrolling for any amount of data|7462|2022-12-07|
+|23|[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)|⚡️ Blazing fast scrolling for any amount of data|7463|2022-12-07|
 |24|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|7299|2022-09-08|
 |25|[taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin)|admin template based on vuejs2 and element.|6652|2022-06-17|
 |26|[bestony/logoly](https://github.com/bestony/logoly)|A Pornhub Flavour Logo Generator|6546|2022-12-08|
-|27|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|6392|2022-12-06|
-|28|[bastienwirtz/homer](https://github.com/bastienwirtz/homer)|A very simple static homepage for your server.|6174|2022-12-07|
-|29|[AutomaApp/automa](https://github.com/AutomaApp/automa)|A browser extension for automating your browser by connecting blocks|5949|2022-12-09|
+|27|[statping/statping](https://github.com/statping/statping)|Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.|6395|2022-12-11|
+|28|[bastienwirtz/homer](https://github.com/bastienwirtz/homer)|A very simple static homepage for your server.|6185|2022-12-07|
+|29|[AutomaApp/automa](https://github.com/AutomaApp/automa)|A browser extension for automating your browser by connecting blocks|5951|2022-12-12|
 |30|[hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor)|mavonEditor - A markdown editor based on Vue that supports a variety of personalized features|5849|2022-12-10|
 |31|[ghosh/uiGradients](https://github.com/ghosh/uiGradients)|🔴 Beautiful colour gradients for design and code|5680|2022-12-08|
-|32|[lusaxweb/vuesax](https://github.com/lusaxweb/vuesax)|New Framework Components for Vue.js 2|5522|2022-07-27|
+|32|[lusaxweb/vuesax](https://github.com/lusaxweb/vuesax)|New Framework Components for Vue.js 2|5523|2022-07-27|
 |33|[GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making)|A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）|4988|2022-09-29|
-|34|[Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)|🖖 A vue-cli 3.0 + typescript minimal admin template|4923|2022-12-10|
+|34|[Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)|🖖 A vue-cli 3.0 + typescript minimal admin template|4924|2022-12-10|
 |35|[tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4733|2022-12-09|
-|36|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4466|2022-12-10|
+|36|[sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)|🧮 Generate basic CSS Grid code to make dynamic layouts!|4467|2022-12-10|
 |37|[xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)|🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）|4297|2022-12-11|
 |38|[euvl/vue-js-modal](https://github.com/euvl/vue-js-modal)|Easy to use, highly customizable Vue.js modal library.|4159|2022-12-11|
-|39|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|4008|2022-10-25|
+|39|[geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)|The code for iHateregex.io 😈 - The Regex Cheat Sheet|4010|2022-10-25|
 |40|[epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners)|Easy to use css spinners collection with Vue.js integration|3687|2022-10-05|
-|41|[xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper)|A simple  picture clipping plugin for vue|3602|2022-12-06|
-|42|[varletjs/varlet](https://github.com/varletjs/varlet)|Material design mobile component library for Vue3 / 基于 Vue3 的 Material design 风格移动端组件库|3585|2022-12-10|
-|43|[TeamPiped/Piped](https://github.com/TeamPiped/Piped)|An alternative privacy-friendly YouTube frontend which is efficient by design.|3520|2022-12-10|
+|41|[xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper)|A simple  picture clipping plugin for vue|3603|2022-12-10|
+|42|[varletjs/varlet](https://github.com/varletjs/varlet)|Material design mobile component library for Vue3 / 基于 Vue3 的 Material design 风格移动端组件库|3588|2022-12-11|
+|43|[TeamPiped/Piped](https://github.com/TeamPiped/Piped)|An alternative privacy-friendly YouTube frontend which is efficient by design.|3524|2022-12-12|
 |44|[didi/mand-mobile](https://github.com/didi/mand-mobile)|💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.|3338|2022-12-10|
-|45|[iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin)|🐜 Ant Design Pro's implementation with Vue|3235|2022-12-10|
+|45|[iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin)|🐜 Ant Design Pro's implementation with Vue|3234|2022-12-10|
 |46|[coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template)|Open source admin template based on Bootstrap 5 and Vue 3|3103|2022-12-06|
-|47|[CareyWang/sub-web](https://github.com/CareyWang/sub-web)|-|2842|2022-12-09|
+|47|[CareyWang/sub-web](https://github.com/CareyWang/sub-web)|-|2848|2022-12-11|
 |48|[Splode/pomotroid](https://github.com/Splode/pomotroid)|:tomato: Simple and visually-pleasing Pomodoro timer|2830|2022-12-10|
 |49|[sdras/intro-to-vue](https://github.com/sdras/intro-to-vue)|Workshop Materials for my Introduction to Vue.js Workshop|2782|2022-12-11|
-|50|[antfu/icones](https://github.com/antfu/icones)|⚡️ Icon Explorer with Instant searching, powered by Iconify|2757|2022-11-17|
-|51|[themsaid/wink](https://github.com/themsaid/wink)|A Laravel-based publishing platform|2719|2022-12-09|
+|50|[antfu/icones](https://github.com/antfu/icones)|⚡️ Icon Explorer with Instant searching, powered by Iconify|2761|2022-12-12|
+|51|[themsaid/wink](https://github.com/themsaid/wink)|A Laravel-based publishing platform|2720|2022-12-09|
 |52|[vuesion/vuesion](https://github.com/vuesion/vuesion)|Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.|2630|2022-12-08|
 |53|[view-design/ViewUI](https://github.com/view-design/ViewUI)|A high quality UI Toolkit built on Vue.js 2.0|2621|2022-12-09|
 |54|[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)|Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter|2556|2022-12-01|
-|55|[Akryum/floating-vue](https://github.com/Akryum/floating-vue)|💬 Easy tooltips, popovers, dropdown, menus... for Vue|2529|2022-12-09|
+|55|[Akryum/floating-vue](https://github.com/Akryum/floating-vue)|💬 Easy tooltips, popovers, dropdown, menus... for Vue|2532|2022-12-09|
 |56|[javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp)|This is a vue for NeteaseCloud projects!|2509|2022-12-09|
 |57|[heyui/heyui](https://github.com/heyui/heyui)|🎉UI Toolkit for Web, Vue3.0|2500|2022-11-25|
 |58|[Dashibase/lotion](https://github.com/Dashibase/lotion)|An open-source Notion UI built with Vue 3 |2485|2022-10-07|
-|59|[rubjo/victor-mono](https://github.com/rubjo/victor-mono)|A free programming font with cursive italics and ligatures. Donations welcome ❤️|2430|2022-12-08|
-|60|[hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader)|📖 All your articles in one place. Beautiful.|2423|2022-12-08|
-|61|[xiaokaike/vue-color](https://github.com/xiaokaike/vue-color)|:art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh|2409|2022-12-07|
-|62|[VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)|A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)|2405|2022-11-27|
+|59|[rubjo/victor-mono](https://github.com/rubjo/victor-mono)|A free programming font with cursive italics and ligatures. Donations welcome ❤️|2433|2022-12-08|
+|60|[hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader)|📖 All your articles in one place. Beautiful.|2427|2022-12-08|
+|61|[xiaokaike/vue-color](https://github.com/xiaokaike/vue-color)|:art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh|2411|2022-12-07|
+|62|[VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)|A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)|2405|2022-12-12|
 |63|[AT-UI/at-ui](https://github.com/AT-UI/at-ui)|A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)|2343|2022-12-07|
 |64|[Dafrok/vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)|Baidu Map components for Vue 2.x|2320|2022-12-07|
 |65|[emqx/MQTTX](https://github.com/emqx/MQTTX)|Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools|2315|2022-12-09|
-|66|[headwaymaps/headway](https://github.com/headwaymaps/headway)|Self-hostable maps stack, powered by OpenStreetMap.|2280|2022-12-10|
+|66|[headwaymaps/headway](https://github.com/headwaymaps/headway)|Self-hostable maps stack, powered by OpenStreetMap.|2283|2022-12-10|
 |67|[ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)|⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~|2263|2022-12-10|
-|68|[tookit/vue-material-admin](https://github.com/tookit/vue-material-admin)|A vue material design admin template|2228|2022-12-08|
-|69|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|2209|2022-09-18|
+|68|[tookit/vue-material-admin](https://github.com/tookit/vue-material-admin)|A vue material design admin template|2228|2022-12-12|
+|69|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|2212|2022-09-18|
 |70|[hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model)|📷 vue.js 3D model viewer component|2201|2022-12-09|
 |71|[SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht)|A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.|2199|2022-12-09|
-|72|[nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org)|Nuxt 2 Documentation Website|2184|2022-12-07|
+|72|[nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org)|Nuxt 2 Documentation Website|2185|2022-12-12|
 |73|[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)|Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.|2163|2022-12-10|
 |74|[ratiw/vuetable-2](https://github.com/ratiw/vuetable-2)|data table simplify! -- datatable component for Vue 2.x. See documentation at |2152|2022-12-07|
-|75|[mirari/v-viewer](https://github.com/mirari/v-viewer)|Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js|2095|2022-10-25|
+|75|[mirari/v-viewer](https://github.com/mirari/v-viewer)|Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js|2096|2022-10-25|
 |76|[tuandm/laravue](https://github.com/tuandm/laravue)|Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev|2088|2022-08-12|
-|77|[vuejs/docs](https://github.com/vuejs/docs)|📄 Documentation for Vue 3|2070|2022-12-11|
-|78|[mark-when/markwhen](https://github.com/mark-when/markwhen)|Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.|2067|2022-12-08|
+|77|[mark-when/markwhen](https://github.com/mark-when/markwhen)|Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.|2075|2022-12-08|
+|78|[vuejs/docs](https://github.com/vuejs/docs)|📄 Documentation for Vue 3|2072|2022-12-11|
 |79|[coderwhy/HYMall](https://github.com/coderwhy/HYMall)|A vue.js mall application.|2047|2022-12-09|
 |80|[rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone)|A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews|1988|2022-11-16|
 |81|[xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)|An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc|1974|2022-12-08|
 |82|[amir20/dozzle](https://github.com/amir20/dozzle)|Realtime log viewer for docker containers. |1961|2022-12-09|
-|83|[epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui)|Free and Open Source UI Library for Vue 3 🤘|1953|2022-12-11|
+|83|[epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui)|Free and Open Source UI Library for Vue 3 🤘|1954|2022-12-12|
 |84|[surmon-china/surmon.me](https://github.com/surmon-china/surmon.me)|My digital garden, powered by @vuejs|1952|2022-11-15|
 |85|[aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)|Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the ...|1882|2022-12-08|
 |86|[wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select)|A jQuery plugin to select multiple elements with checkboxes :)|1875|2022-07-11|
 |87|[creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard)|Creative Tim Paper Dashboard made for Vue|1759|2022-12-10|
 |88|[alvarotrigo/vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js)|Official Vue.js wrapper for fullPage.js http://alvarotrigo.com/vue-fullpage/|1745|2022-11-22|
 |89|[simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader)|A Vue.js upload component powered by simple-uploader.js|1739|2022-12-07|
-|90|[jsbroks/coco-annotator](https://github.com/jsbroks/coco-annotator)|:pencil2: Web-based image segmentation tool for object detection, localization, and keypoints|1725|2022-12-09|
+|90|[jsbroks/coco-annotator](https://github.com/jsbroks/coco-annotator)|:pencil2: Web-based image segmentation tool for object detection, localization, and keypoints|1727|2022-12-09|
 |91|[sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp)|Travel App, Native-like Page Transitions|1685|2022-12-10|
-|92|[vuejs/create-vue](https://github.com/vuejs/create-vue)|🛠️ The recommended way to start a Vite-powered Vue project|1624|2022-12-10|
+|92|[vuejs/create-vue](https://github.com/vuejs/create-vue)|🛠️ The recommended way to start a Vite-powered Vue project|1625|2022-12-12|
 |93|[vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)|💥 A simple and beautiful vuepress Blog & Doc theme.|1574|2022-10-10|
-|94|[lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next)|Vuesax v4: framework components for Vuejs|1517|2022-12-10|
+|94|[lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next)|Vuesax v4: framework components for Vuejs|1517|2022-12-11|
 |95|[rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer)|A local UI tool for visualizing your Tailwind CSS configuration file.|1514|2022-12-06|
 |96|[sdras/ecommerce-netlify](https://github.com/sdras/ecommerce-netlify)|🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions|1438|2022-12-09|
 |97|[snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)|Interface for Snapshot. Join us on Discord https://discord.gg/snapshot|1402|2022-12-09|
-|98|[mtolhuys/laravel-schematics](https://github.com/mtolhuys/laravel-schematics)|A Laravel package making a diagram of your models, relations and the ability to build them with it|1388|2022-12-05|
-|99|[avored/laravel-ecommerce](https://github.com/avored/laravel-ecommerce)|AvoRed an Open Source Laravel Shopping Cart|1382|2022-12-08|
-|100|[vuejs/ui](https://github.com/vuejs/ui)|💻 UI components for official Vue organization apps|1312|2022-12-08|
+|98|[mtolhuys/laravel-schematics](https://github.com/mtolhuys/laravel-schematics)|A Laravel package making a diagram of your models, relations and the ability to build them with it|1389|2022-12-12|
+|99|[avored/laravel-ecommerce](https://github.com/avored/laravel-ecommerce)|AvoRed an Open Source Laravel Shopping Cart|1382|2022-12-10|
+|100|[vuejs/ui](https://github.com/vuejs/ui)|💻 UI components for official Vue organization apps|1313|2022-12-10|
 |101|[SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer)|:cake: Easy-to-use music player for Vue 2.x|1253|2022-11-20|
 |102|[mattmezza/vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat)|A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.|1240|2022-12-08|
 |103|[Akryum/guijs](https://github.com/Akryum/guijs)|🐣️ The app that makes your #devlife easier.|1219|2022-12-05|
-|104|[nuxt-community/express-template](https://github.com/nuxt-community/express-template)|Starter template for Nuxt.js with Express.|1211|2022-11-20|
-|105|[chenqingspring/vue-lottie](https://github.com/chenqingspring/vue-lottie)|Render After Effects animations on Vue based on Bodymovin|1210|2022-12-08|
+|104|[chenqingspring/vue-lottie](https://github.com/chenqingspring/vue-lottie)|Render After Effects animations on Vue based on Bodymovin|1211|2022-12-08|
+|105|[nuxt-community/express-template](https://github.com/nuxt-community/express-template)|Starter template for Nuxt.js with Express.|1211|2022-11-20|
 |106|[antoniandre/splitpanes](https://github.com/antoniandre/splitpanes)|A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.|1206|2022-10-28|
 |107|[rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)|📚 LookScanned.io - Make your PDFs look scanned|1195|2022-12-09|
 |108|[apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts)|📊 Vue.js component for ApexCharts|1172|2022-12-07|
 |109|[MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet)|MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.|1164|2022-12-10|
-|110|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|1121|2022-09-25|
+|110|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|1122|2022-09-25|
 |111|[BinarCode/vue-form-wizard](https://github.com/BinarCode/vue-form-wizard)|Vue.js 2 wizard|1116|2022-12-07|
 |112|[coderwhy/supermall](https://github.com/coderwhy/supermall)|a vuejs supermall|1102|2022-12-09|
 |113|[LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode)|👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.|1089|2022-12-10|
