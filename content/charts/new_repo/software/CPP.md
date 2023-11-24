@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > C++
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[scottbez1/smartknob](https://github.com/scottbez1/smartknob)|Haptic input knob with software-defined endstops and virtual detents|11388|2022-07-29|2021-10-24|
-|2|[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)|A modern replacement for Redis and Memcached|9134|2022-08-02|2021-12-11|
-|3|[BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo)|Piccolo (formerly Pilot) – mini game engine for games104|3090|2022-07-27|2022-03-20|
-|4|[StarRocks/starrocks](https://github.com/StarRocks/starrocks)|StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.|3070|2022-08-02|2021-09-04|
-|5|[M2Team/NanaZip](https://github.com/M2Team/NanaZip)|The 7-Zip derivative intended for the modern Windows experience|3026|2022-07-24|2021-08-30|
-|6|[ydb-platform/ydb](https://github.com/ydb-platform/ydb)|YDB server (daemon) source code|2523|2022-08-01|2022-02-07|
-|7|[bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio)|An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.|2503|2022-07-29|2021-08-12|
-|8|[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)|Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.|2203|2022-08-02|2022-03-16|
-|9|[davidrmiller/biosim4](https://github.com/davidrmiller/biosim4)|Biological evolution simulator|2163|2022-07-30|2021-09-18|
-|10|[WolfireGames/overgrowth](https://github.com/WolfireGames/overgrowth)|Open Source codebase of the game Overgrowth by Wolfire Games LLC|2033|2022-06-15|2022-03-08|
-|11|[jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)|A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.|1967|2022-07-23|2021-08-12|
-|12|[SerenityOS/jakt](https://github.com/SerenityOS/jakt)|The Jakt Programming Language|1957|2022-08-02|2022-05-05|
-|13|[darglein/ADOP](https://github.com/darglein/ADOP)|-|1819|2022-08-01|2021-10-13|
-|14|[PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)|A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)|1682|2022-08-01|2021-12-17|
-|15|[InoriRus/Kyty](https://github.com/InoriRus/Kyty)|PS4 & PS5 emulator|1507|2022-07-31|2021-11-12|
-|16|[HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)|"Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und ...|1222|2022-07-23|2021-10-13|
-|17|[deepmind/code_contests](https://github.com/deepmind/code_contests)|-|1176|2022-03-22|2022-01-31|
-|18|[loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)|This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.|1005|2022-08-01|2021-12-08|
-|19|[Omyyyy/pycom](https://github.com/Omyyyy/pycom)|A Python compiler, down to native code, using C++|1000|2022-07-30|2022-07-16|
-|20|[userver-framework/userver](https://github.com/userver-framework/userver)|The C++ Asynchronous Framework (beta)|978|2022-08-02|2021-12-16|
-|21|[hku-mars/r3live](https://github.com/hku-mars/r3live)|A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package|969|2022-03-06|2021-09-09|
-|22|[symforce-org/symforce](https://github.com/symforce-org/symforce)|Fast symbolic computation, code generation, and nonlinear optimization for robotics|940|2022-07-29|2022-01-05|
-|23|[toitlang/toit](https://github.com/toitlang/toit)|Program your microcontrollers in a fast and robust high-level language.|930|2022-08-02|2021-11-12|
-|24|[wjakob/nanobind](https://github.com/wjakob/nanobind)|nanobind — Seamless operability between C++17 and Python|796|2022-05-13|2022-02-08|
-|25|[HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention)|Fast and memory-efficient exact attention|789|2022-07-31|2022-05-19|
-|26|[alibaba/ilogtail](https://github.com/alibaba/ilogtail)|Fast and Lightweight Observability Data Collector|781|2022-08-02|2021-11-08|
-|27|[scrtwpns/pigment-mixing](https://github.com/scrtwpns/pigment-mixing)|Practical Pigment Mixing for Digital Painting|777|2022-04-20|2021-09-09|
-|28|[DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal)|Virtual modular synthesizer plugin|744|2022-08-02|2021-10-07|
-|29|[mit-dci/opencbdc-tx](https://github.com/mit-dci/opencbdc-tx)|A transaction processor for a hypothetical, general-purpose, central bank digital currency|734|2022-08-01|2021-09-09|
-|30|[PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)|OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving|720|2022-06-20|2021-12-09|
-|31|[cvg/pixel-perfect-sfm](https://github.com/cvg/pixel-perfect-sfm)|Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021, Best Student Paper Award)|697|2022-04-22|2021-08-17|
-|32|[AfterEarthLTD/Solder-Reflow-Plate](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)|PCB based SMD reflow plates|691|2022-07-07|2021-11-05|
-|33|[blawar/ooot](https://github.com/blawar/ooot)|-|631|2022-07-22|2022-01-31|
-|34|[sultim-t/prboom-plus-rt](https://github.com/sultim-t/prboom-plus-rt)|-|628|2022-04-26|2022-02-02|
-|35|[hyprwm/Hypr](https://github.com/hyprwm/Hypr)|Hypr is a tiling window manager written in modern C++.|627|2022-07-07|2021-11-17|
-|36|[mmikk/hextile-demo](https://github.com/mmikk/hextile-demo)|demonstrates hex-tiling|599|2022-07-25|2022-02-15|
-|37|[probonopd/MiniDexed](https://github.com/probonopd/MiniDexed)|Dexed FM synthesizer similar to DX7 running on a bare metal Raspberry Pi (without a Linux kernel or operating system)|596|2022-07-18|2022-02-05|
-|38|[Jaysmito101/TerraForge3D](https://github.com/Jaysmito101/TerraForge3D)|Cross Platform Professional Procedural Terrain Generation & Texturing Tool|596|2022-07-20|2021-09-12|
-|39|[tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution)|Skyrim and Fallout 4 mod to play online!|581|2022-08-02|2021-09-25|
-|40|[tum-vision/tandem](https://github.com/tum-vision/tandem)|[CoRL 21'] TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo|578|2022-04-01|2021-10-29|
-|41|[sail-sg/envpool](https://github.com/sail-sg/envpool)|C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.|569|2022-08-01|2021-10-20|
-|42|[PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip)|NightDriver client for ESP32|563|2022-07-19|2021-09-20|
-|43|[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)|Sunshine is a Gamestream host for Moonlight.|560|2022-08-02|2021-12-15|
-|44|[XaFF-XaFF/Cronos-Rootkit](https://github.com/XaFF-XaFF/Cronos-Rootkit)|Cronos is Windows 10/11 x64 ring 0 rootkit. Cronos is able to hide processes, protect and elevate them with token manipulation. |556|2022-03-29|2021-08-25|
-|45|[Speek-App/Speek](https://github.com/Speek-App/Speek)|Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications|552|2022-07-31|2022-01-19|
-|46|[meta-soul/MetaSpore](https://github.com/meta-soul/MetaSpore)|A unified end-to-end machine intelligence platform|551|2022-08-02|2022-03-24|
-|47|[pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender)|A small POC to make defender useless by removing its token privileges and lowering the token integrity  |548|2022-06-28|2022-02-03|
-|48|[mgeeky/ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation)|An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents|537|2022-06-17|2021-09-29|
-|49|[TheCherno/Walnut](https://github.com/TheCherno/Walnut)|Walnut is a simple application framework for Vulkan and Dear ImGui apps|536|2022-07-13|2022-04-11|
-|50|[bdring/FluidNC](https://github.com/bdring/FluidNC)|The next generation of motion control firmware|498|2022-08-02|2021-08-22|
-|51|[alibaba/DeepRec](https://github.com/alibaba/DeepRec)|DeepRec is a recommendation engine based on TensorFlow.|496|2022-08-02|2021-12-24|
-|52|[ZhaJiHu/Cubli_Mini](https://github.com/ZhaJiHu/Cubli_Mini)|-|493|2022-06-09|2022-05-16|
-|53|[RedTeamOperations/Advanced-Process-Injection-Workshop](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)|-|491|2022-02-07|2022-02-01|
-|54|[MinecraftMachina/ManyMC](https://github.com/MinecraftMachina/ManyMC)|📦 A familiar Minecraft Launcher with native support for macOS arm64 (M1)|489|2022-07-20|2021-11-30|
-|55|[ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX)|Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.|488|2022-03-28|2021-12-24|
-|56|[awesomekling/ladybird](https://github.com/awesomekling/ladybird)|Ladybird web browser|486|2022-07-31|2022-07-03|
-|57|[ZJU-FAST-Lab/Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)|hardware and software design of the 250mm autonomous drone|484|2022-05-21|2021-09-28|
-|58|[ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)|An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.|483|2022-07-31|2021-08-18|
-|59|[NVIDIA/MatX](https://github.com/NVIDIA/MatX)|An efficient C++17 GPU numerical computing library with Python-like syntax|480|2022-05-14|2021-09-14|
-|60|[trailofbits/maat](https://github.com/trailofbits/maat)|Open-source symbolic execution framework: https://maat.re|462|2022-07-25|2021-10-19|
-|61|[SChernykh/p2pool](https://github.com/SChernykh/p2pool)|Decentralized pool for Monero mining|447|2022-05-14|2021-08-22|
-|62|[netcan/asyncio](https://github.com/netcan/asyncio)|asyncio is a c++20 library to write concurrent code using the async/await syntax.|446|2022-07-20|2021-09-06|
-|63|[lab52io/StopDefender](https://github.com/lab52io/StopDefender)|Stop Windows Defender programmatically|444|2022-02-16|2021-09-13|
-|64|[lukasvst/dm-vio](https://github.com/lukasvst/dm-vio)|Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry|442|2022-07-27|2022-01-11|
-|65|[nbarkhina/N64Wasm](https://github.com/nbarkhina/N64Wasm)|A web based N64 Emulator|440|2022-04-11|2021-10-16|
-|66|[openswoole/swoole-src](https://github.com/openswoole/swoole-src)|Programmatic server for PHP with async IO, coroutines and fibers|437|2022-05-07|2021-10-13|
-|67|[gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)|Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels|436|2022-06-14|2022-02-17|
-|68|[alibaba/async_simple](https://github.com/alibaba/async_simple)|Simple, light-weight and easy-to-use asynchronous components |426|2022-08-01|2022-02-17|
-|69|[stoneatom/stonedb](https://github.com/stoneatom/stonedb)|StoneDB is an open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics|420|2022-08-02|2022-06-09|
-|70|[IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player)|A simple script that turns .mp4 files into ASCII characters|416|2022-06-25|2022-06-11|
-|71|[MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)|A C++11 library for reading Microsoft Program DataBase PDB files|416|2022-07-29|2022-02-22|
-|72|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|413|2022-08-01|2021-10-27|
-|73|[Idov31/Nidhogg](https://github.com/Idov31/Nidhogg)|Nidhogg is an all-in-one simple to use rootkit for red teams.|406|2022-07-31|2022-05-29|
-|74|[hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC)|UAC bypass for x64 Windows 7 - 11|404|2022-07-27|2022-07-14|
-|75|[st3w/neo](https://github.com/st3w/neo)|Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)|395|2022-02-21|2021-10-02|
-|76|[DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer)|The main repository for the Darkflame Universe Server Emulator project.|389|2022-05-14|2021-12-04|
-|77|[ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|382|2022-08-02|2021-08-13|
-|78|[Phyronnaz/HLSLMaterial](https://github.com/Phyronnaz/HLSLMaterial)|HLSL Material for Unreal Engine|373|2022-07-24|2021-10-25|
-|79|[keith2018/SoftGLRender](https://github.com/keith2018/SoftGLRender)|Tiny C++ Software Renderer / Rasterizer|371|2022-06-12|2022-05-13|
-|80|[KDAB/cxx-qt](https://github.com/KDAB/cxx-qt)|Safe interop between Rust and Qt|357|2022-08-02|2021-12-01|
-|81|[airbus-cert/ttddbg](https://github.com/airbus-cert/ttddbg)|Time Travel Debugging IDA plugin|351|2022-07-25|2022-03-21|
-|82|[Jittor/JNeRF](https://github.com/Jittor/JNeRF)|JNeRF is a NeRF benchmark based on Jittor. JNeRF re-implemented instant-ngp and achieved same performance with original paper.|349|2022-08-02|2022-05-21|
-|83|[alibaba/BladeDISC](https://github.com/alibaba/BladeDISC)|BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.|348|2022-05-13|2021-12-20|
-|84|[sam-astro/Z-Sharp](https://github.com/sam-astro/Z-Sharp)|Custom programming interpreter for ZSharp (Z#), a language I made up.|345|2022-06-15|2021-12-25|
-|85|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|344|2022-07-21|2021-09-15|
-|86|[openglonmetal/MGL](https://github.com/openglonmetal/MGL)|OpenGL 4.6 on Metal|334|2022-08-02|2022-01-07|
-|87|[facebookresearch/moolib](https://github.com/facebookresearch/moolib)|A library for distributed ML training with PyTorch|332|2022-07-03|2021-08-26|
-|88|[celtera/avendish](https://github.com/celtera/avendish)|declarative polyamorous cross-system intermedia objects|329|2022-07-29|2021-10-23|
-|89|[TLeonardUK/ds3os](https://github.com/TLeonardUK/ds3os)|Dark Souls 3 - Open Server|312|2022-04-01|2021-08-07|
-|90|[CallowBlack/genshin-cheat](https://github.com/CallowBlack/genshin-cheat)|Simple cheat for genshin with protection bypass.|302|2022-05-13|2022-02-27|
-|91|[Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App)|Windscribe 2.0 desktop client for Windows, Mac and Linux|295|2022-07-08|2021-08-11|
-|92|[mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1)|This is optimized firmware for Ender3 V2/S1 3D printers.|291|2022-05-01|2022-01-22|
-|93|[liuguitao/AVP-SLAM-PLUS](https://github.com/liuguitao/AVP-SLAM-PLUS)|An implementation of AVP-SLAM and some new contributions|279|2022-05-04|2022-01-01|
-|94|[zeronetworks/rpcfirewall](https://github.com/zeronetworks/rpcfirewall)|-|278|2022-07-26|2021-11-08|
-|95|[krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus)|Acrylic effect for all existing Win32 context menus|275|2022-07-30|2021-11-07|
-|96|[JingwenWang95/DSP-SLAM](https://github.com/JingwenWang95/DSP-SLAM)|[3DV 2021] DSP-SLAM: Object Oriented SLAM with Deep Shape Priors|273|2022-03-16|2021-10-25|
-|97|[mike1k/perses](https://github.com/mike1k/perses)|X86 Mutation Engine with Portable Executable compatibility.|269|2022-05-24|2022-04-14|
-|98|[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)|Webrtc SDK for C++|269|2022-02-28|2021-08-29|
-|99|[hasherezade/process_overwriting](https://github.com/hasherezade/process_overwriting)|Yet another variant of Process Hollowing|268|2022-03-17|2022-02-13|
-|100|[fuzzuf/fuzzuf](https://github.com/fuzzuf/fuzzuf)|Fuzzing Unification Framework|267|2022-05-12|2021-12-27|
-|101|[surge-synthesizer/monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth)|Monique monosynth|267|2022-07-08|2021-12-10|
-|102|[SpectacularAI/HybVIO](https://github.com/SpectacularAI/HybVIO)|HybVIO visual-inertial odometry and SLAM system|265|2022-05-05|2021-11-24|
-|103|[klinix5/ReverseRDP_RCE](https://github.com/klinix5/ReverseRDP_RCE)|-|261|2022-03-15|2022-01-02|
-|104|[Haruno19/starfetch](https://github.com/Haruno19/starfetch)|command line tool that displays constellations|255|2022-07-05|2022-04-05|
-|105|[alibaba/PhotonLibOS](https://github.com/alibaba/PhotonLibOS)|The world's fastest coroutine lib and I/O engine|252|2022-08-02|2022-06-06|
-|106|[margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto)|⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI|247|2022-08-02|2022-02-17|
-|107|[autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe)|-|242|2022-08-02|2021-11-19|
-|108|[Mika412/NoobBoy](https://github.com/Mika412/NoobBoy)|A simple GameBoy emulator written in C++|242|2022-07-17|2021-09-05|
-|109|[R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)|Skin changer for League of Legends (LOL)|241|2022-07-16|2021-09-24|
-|110|[Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy)|Spotify ogg dumper|241|2022-05-14|2021-09-22|
-|111|[calibtoolkit/calibration_kit](https://github.com/calibtoolkit/calibration_kit)|-|236|2022-04-06|2022-02-27|
-|112|[Bankaimaster999/Dolphin-MMJR](https://github.com/Bankaimaster999/Dolphin-MMJR)|Dolphin  MMJR  is a Gamecube/Wii Emulator for Android devices; based on Dolphin MMJ source code which is aimed at pure performance.|236|2022-05-18|2021-08-05|
-|113|[ApsaraDB/galaxyengine](https://github.com/ApsaraDB/galaxyengine)|GalaxyEngine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system.|235|2022-05-09|2021-10-16|
-|114|[Kofybrek/Super-Mario-Bros](https://github.com/Kofybrek/Super-Mario-Bros)|Remake of the original Super Mario Bros game.|233|2022-02-24|2021-11-14|
-|115|[IVProjects/Engineering_Projects](https://github.com/IVProjects/Engineering_Projects)|-|232|2022-06-19|2022-02-17|
-|116|[TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)|-|231|2022-03-15|2022-02-22|
-|117|[OpenPerceptionX/OpenLane](https://github.com/OpenPerceptionX/OpenLane)|[ECCV 2022 oral] OpenLane: Large-scale Realistic 3D Lane Dataset|229|2022-07-18|2022-03-16|
-|118|[eidosmontreal/unreal-vdb](https://github.com/eidosmontreal/unreal-vdb)|This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.|228|2022-05-10|2022-01-10|
-|119|[Raais/ImStudio](https://github.com/Raais/ImStudio)|Real-time GUI layout creator for Dear ImGui|228|2022-05-27|2021-10-05|
-|120|[famichu/MagLev_Switch_MX](https://github.com/famichu/MagLev_Switch_MX)|-|227|2022-02-14|2021-12-05|
-|121|[PlankCipher/kabmat](https://github.com/PlankCipher/kabmat)|TUI program for managing kanban boards with vim-like keybindings|226|2022-04-23|2022-01-26|
-|122|[serhii-rieznik/etx-tracer](https://github.com/serhii-rieznik/etx-tracer)|Physically-based CPU and GPU ray-tracer|224|2022-07-31|2022-01-15|
-|123|[epasveer/seer](https://github.com/epasveer/seer)|Seer - a gui frontend to gdb|222|2022-05-14|2021-09-01|
-|124|[coding-minutes/dsa-essentials-solutions-cpp](https://github.com/coding-minutes/dsa-essentials-solutions-cpp)|-|216|2022-07-13|2021-08-16|
-|125|[countercept/CallStackSpoofer](https://github.com/countercept/CallStackSpoofer)|A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handle via NtOpenProcess)|215|2022-06-30|2022-06-28|
-|126|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|215|2022-05-27|2021-11-24|
-|127|[patr-schm/TinyAD](https://github.com/patr-schm/TinyAD)|Automatic Differentiation in Geometry Processing Made Simple|214|2022-08-01|2022-06-13|
-|128|[SergeyMakeev/slot_map](https://github.com/SergeyMakeev/slot_map)|A slot map is a high-performance associative container with persistent unique 32/64 bit keys to access stored values.|214|2022-07-29|2022-02-15|
-|129|[eyalz800/zpp_bits](https://github.com/eyalz800/zpp_bits)|A lightweight C++20 serialization and RPC library|214|2022-07-30|2021-12-16|
-|130|[mpgn/BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)|From an account member of the group Backup Operators to Domain Admin without RDP or WinRM on the Domain Controller|213|2022-02-15|2022-02-15|
-|131|[vectr-ucla/direct_lidar_odometry](https://github.com/vectr-ucla/direct_lidar_odometry)|Direct LiDAR Odometry: Fast Localization with Dense Point Clouds|213|2022-04-11|2021-11-30|
-|132|[Linloir/GraphBuilder](https://github.com/Linloir/GraphBuilder)|A visualized tool to create a graph|212|2022-02-25|2021-12-05|
-|133|[MichaelFYang/far_planner](https://github.com/MichaelFYang/far_planner)|Fast, Attemptable Route Planner for Navigation in Known and Unknown Environments|212|2022-03-24|2021-09-14|
-|134|[iwatake2222/self-driving-ish_computer_vision_system](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)|This project generates images you've probably seen in autonomous driving demo. Object Detection, Lane Detection, Road Segmentation, Depth Estimation using TensorRT|210|2022-02-12|2021-09-04|
-|135|[Nautilus-Institute/quals-2022](https://github.com/Nautilus-Institute/quals-2022)|Source code for the 2022 DEF CON Qualifiers.|208|2022-06-27|2022-05-29|
-|136|[scratchnative/scratchnative](https://github.com/scratchnative/scratchnative)|Convert Scratch3 projects to native executables|207|2022-06-27|2022-06-20|
-|137|[sailay1996/CdpSvcLPE](https://github.com/sailay1996/CdpSvcLPE)|Windows Local Privilege Escalation via CdpSvc service (Writeable SYSTEM path Dll Hijacking)|206|2022-06-30|2022-05-24|
-|138|[i2Nav-WHU/OB_GINS](https://github.com/i2Nav-WHU/OB_GINS)|An Optimization-Based GNSS/INS Integrated Navigation System|206|2022-07-27|2022-01-13|
-|139|[LibreSprite/Dotto](https://github.com/LibreSprite/Dotto)|-|205|2022-05-13|2021-12-28|
-|140|[Chuyu-Team/VC-LTL5](https://github.com/Chuyu-Team/VC-LTL5)|Shared to msvcrt.dll or ucrtbase.dll and optimize the C/C++ application file size.|203|2022-07-17|2021-08-08|
-|141|[KikiHobbyRepair/SpaceRat](https://github.com/KikiHobbyRepair/SpaceRat)|-|200|2022-03-16|2022-01-17|
-|142|[topjohnwu/zygisk-module-sample](https://github.com/topjohnwu/zygisk-module-sample)|A sample project for building Zygisk modules|196|2022-03-10|2021-09-26|
-|143|[ytk2128/dll-merger](https://github.com/ytk2128/dll-merger)|Merging DLLs with a PE32 EXE without LoadLibrary|195|2022-02-07|2022-02-06|
-|144|[snovvcrash/VeraCryptThief](https://github.com/snovvcrash/VeraCryptThief)|Extracting clear-text passwords from VeraCrypt.exe using API hooking|195|2022-04-10|2022-01-15|
-|145|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|192|2022-07-30|2021-08-12|
-|146|[lab52io/LeakedHandlesFinder](https://github.com/lab52io/LeakedHandlesFinder)|Leaked Windows processes handles identification tool|190|2022-03-14|2022-02-24|
-|147|[TouchDeeper/VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion)|Visual-inertial-wheel fusion odometry, better performance in scenes with drastic changes in light|190|2022-04-10|2021-12-04|
-|148|[DQLin/ReSTIR_PT](https://github.com/DQLin/ReSTIR_PT)|Source Code for SIGGRAPH 2022 Paper "Generalized Resampled Importance Sampling: Foundations of ReSTIR"|189|2022-05-04|2022-05-01|
-|149|[PotatoOfDoom/CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2)|FidelityFx Super Resolution 2.0 for Cyberpunk|188|2022-08-01|2022-06-24|
-|150|[ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)|A JSON terminal UI made in C++|188|2022-03-15|2022-01-02|
-|151|[rajatjain1997/subprocess](https://github.com/rajatjain1997/subprocess)|A C++ high level library for running shell processes|185|2022-02-16|2021-09-08|
-|152|[MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra)|-|182|2022-07-27|2022-05-05|
-|153|[AbyssEngine/AbyssEngine](https://github.com/AbyssEngine/AbyssEngine)|The Open Source ARPG Engine.|182|2022-06-23|2021-10-06|
-|154|[hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init)| Robust Real-time LiDAR-inertial Initialization Method.|180|2022-07-25|2022-02-23|
-|155|[KDAB/KDBindings](https://github.com/KDAB/KDBindings)|Reactive programming & data binding in C++|180|2022-07-14|2021-10-29|
-|156|[NVIDIA-ISAAC-ROS/isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam)|Visual odometry package based on hardware-accelerated NVIDIA Elbrus library with world class quality and performance.|177|2022-07-13|2021-10-13|
-|157|[jeremy-rifkin/libassert](https://github.com/jeremy-rifkin/libassert)|The most over-engineered and overpowered C++ assertion library.|176|2022-05-14|2021-09-06|
-|158|[tuffee88/d3d12ProxyEdrDx11_0](https://github.com/tuffee88/d3d12ProxyEdrDx11_0)|Totally naive app using proxy/dll forwarding to try and get Elden Ring running on DX12 hardware with Feature level 11_0 (f.e. Nvidia Kepler GPUs) |174|2022-06-14|2022-03-03|
-|159|[chaharnishant11/CodeIn10DSA](https://github.com/chaharnishant11/CodeIn10DSA)|-|171|2022-07-19|2022-05-30|
-|160|[essej/paulxstretch](https://github.com/essej/paulxstretch)|PaulXStretch - Extreme Timestretching application and plugin|170|2022-07-04|2022-04-14|
-|161|[DennisLiu1993/Fastest_Image_Pattern_Matching](https://github.com/DennisLiu1993/Fastest_Image_Pattern_Matching)|Using C++/MFC/OpenCV to build a NCC-Based Image Matching algorithm|169|2022-07-13|2022-05-05|
-|162|[bilgecakar/Sakarya-University-Computer-Engineering-Department](https://github.com/bilgecakar/Sakarya-University-Computer-Engineering-Department)|2017-2021  Sakarya Üniversitesi Bilgisayar Mühendisliği Bölümü ders notları, sınavlar, kod örneklerini içermektedir. |169|2022-04-18|2022-03-17|
-|163|[kelbon/AnyAny](https://github.com/kelbon/AnyAny)|C++20 library for comfortable and efficient dynamic polymorphism|169|2022-07-16|2022-03-13|
-|164|[L4ys/CVE-2022-21882](https://github.com/L4ys/CVE-2022-21882)|-|169|2022-02-04|2022-02-03|
-|165|[PRBonn/vdbfusion](https://github.com/PRBonn/vdbfusion)|C++/Python Sparse Volumetric TSDF Fusion|166|2022-06-28|2022-02-08|
-|166|[oceanbase/miniob](https://github.com/oceanbase/miniob)|-|163|2022-07-27|2021-10-12|
-|167|[krait-games/hyperion-engine](https://github.com/krait-games/hyperion-engine)|A 3D game engine written in C++ with features like PBR, global illumination, procedural terrain generation, deferred rendering pipeline, and more!|161|2022-08-02|2022-01-23|
-|168|[lefticus/json2cpp](https://github.com/lefticus/json2cpp)|Compiles JSON into static constexpr C++ data structures with nlohmann::json API|160|2022-04-09|2022-01-31|
-|169|[skywind3000/PyStand](https://github.com/skywind3000/PyStand)|:rocket: Python Standalone Deploy Environment !!|158|2022-03-12|2022-02-03|
-|170|[raoyutian/PaddleOCRSharp](https://github.com/raoyutian/PaddleOCRSharp)|This project is modified and encapsulated by C++ code based on Baidu PaddlePaddle OCR. Net class library. It includes the table recognition function of text recognition, text detection and statistical ...|158|2022-07-24|2021-12-17|
-|171|[kounoike/obs-virtualbg](https://github.com/kounoike/obs-virtualbg)|An OBS plugin for Zoom/Meet-like virtual background feature.|158|2022-05-31|2021-09-30|
-|172|[toyota-connected/ivi-homescreen](https://github.com/toyota-connected/ivi-homescreen)|Embedded Flutter runtime targeting Embedded Linux with Wayland|158|2022-07-28|2021-08-31|
-|173|[harfang3d/harfang3d](https://github.com/harfang3d/harfang3d)|HARFANG 3D source code public repository|157|2022-07-25|2021-10-04|
-|174|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|157|2022-05-27|2021-09-25|
-|175|[JokerJohn/LIO_SAM_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS)|LIO_SAM for 6-axis IMU and low-cost GNSS.|156|2022-08-01|2022-04-07|
-|176|[JustasMasiulis/ida_bitfields](https://github.com/JustasMasiulis/ida_bitfields)|IDA Pro plugin to make bitfield accesses easier to grep|156|2022-04-25|2022-03-28|
-|177|[mrd0x/WebView2-Cookie-Stealer](https://github.com/mrd0x/WebView2-Cookie-Stealer)|-|154|2022-06-29|2022-06-21|
-|178|[hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap)|[RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry|154|2022-07-10|2022-02-24|
-|179|[leggedrobotics/open3d_slam](https://github.com/leggedrobotics/open3d_slam)|Pointcloud-based graph SLAM written in C++ using open3D library.|154|2022-07-29|2022-01-19|
-|180|[madMAx43v3r/mmx-node](https://github.com/madMAx43v3r/mmx-node)|-|154|2022-08-01|2021-11-25|
-|181|[Nilsen84/lunar-client-qt](https://github.com/Nilsen84/lunar-client-qt)|Lightweight launcher for lunar client|153|2022-07-24|2021-11-17|
-|182|[frozenca/BTree](https://github.com/frozenca/BTree)|A general-purpose high-performance lightweight STL-like modern C++ B-Tree|151|2022-08-02|2022-07-22|
-|183|[h1-mod/h1-mod](https://github.com/h1-mod/h1-mod)|Modification for H1 (MWR)|151|2022-08-02|2022-02-03|
-|184|[OldJii/ring_layout](https://github.com/OldJii/ring_layout)|ring_layout is a ui component that helps you build ring layouts.|149|2022-07-28|2022-04-25|
-|185|[QiTianyu-0403/OpenCVImage](https://github.com/QiTianyu-0403/OpenCVImage)|📸 A project covering all basic operations of OpenCV based on Qt|149|2022-02-09|2022-01-25|
-|186|[iwatake2222/rotation_master](https://github.com/iwatake2222/rotation_master)|Provide conversion between the major representations of 3D rotation and visualize the orientation of a rigid body|149|2022-02-18|2022-01-05|
-|187|[soarqin/D2RMH](https://github.com/soarqin/D2RMH)|Diablo II Resurrected map revealing tool.|149|2022-07-20|2021-10-21|
-|188|[hexops/mach-glfw](https://github.com/hexops/mach-glfw)|Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.|148|2022-05-04|2021-10-24|
-|189|[TheCherno/RayTracing](https://github.com/TheCherno/RayTracing)|YouTube ray tracing series|147|2022-06-25|2022-04-26|
-|190|[url-kaist/UV-SLAM](https://github.com/url-kaist/UV-SLAM)|Official page of UV-SLAM (RA-L with ICRA2022 option)|145|2022-06-17|2021-11-25|
-|191|[bkaradzic/metal-cpp](https://github.com/bkaradzic/metal-cpp)|Metal-cpp is a low-overhead C++ interface for Metal that helps developers add Metal functionality to graphics apps, games, and game engines that are written in C++.|145|2022-06-07|2021-11-20|
-|192|[Meltedd/HVNC](https://github.com/Meltedd/HVNC)|Standalone HVNC Client & Server   Coded in C++ (Modified Tinynuke)|145|2022-02-14|2021-09-03|
-|193|[CraftyBoss/SuperMarioOdysseyOnline](https://github.com/CraftyBoss/SuperMarioOdysseyOnline)|Online Multiplayer Mod for Super Mario Odyssey.|144|2022-07-24|2022-06-16|
-|194|[VirtualAlllocEx/Shellcode-Downloader-CreateThread-Execution](https://github.com/VirtualAlllocEx/Shellcode-Downloader-CreateThread-Execution)|This POC gives you the possibility to compile a .exe to completely avoid statically detection by AV/EPP/EDR of your C2-shellcode and download and execute your C2-shellcode which is hosted on your (C2) ...|144|2022-03-30|2022-03-27|
-|195|[zm0612/Hybrid_A_Star](https://github.com/zm0612/Hybrid_A_Star)|Hybrid A Star algorithm C++ implementation|144|2022-04-24|2022-03-26|
-|196|[XRobots/openDogV3](https://github.com/XRobots/openDogV3)|-|143|2022-03-31|2021-11-30|
-|197|[0xf00ff00f/rotator](https://github.com/0xf00ff00f/rotator)|-|142|2022-05-02|2022-02-19|
-|198|[MegEngine/MegPeak](https://github.com/MegEngine/MegPeak)|-|142|2022-07-22|2021-12-10|
-|199|[NtQuerySystemInformation/CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence)|Achieve execution using a custom keyboard layout|141|2022-06-18|2022-03-13|
-|200|[ClemensElflein/open_mower_ros](https://github.com/ClemensElflein/open_mower_ros)|-|141|2022-05-10|2022-02-15|
+|1|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)|gpt4all: open-source LLM chatbots that you can run anywhere|55130|2023-11-22|2023-03-27|
+|2|[mudler/LocalAI](https://github.com/mudler/LocalAI)|:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP ...|13565|2023-11-24|2023-03-18|
+|3|[Const-me/Whisper](https://github.com/Const-me/Whisper)|High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model|5747|2023-10-17|2023-01-07|
+|4|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|3840|2023-09-30|2023-04-09|
+|5|[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl ...|3364|2023-11-24|2023-08-16|
+|6|[facebook/igl](https://github.com/facebook/igl)|Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V ...|2586|2023-11-24|2023-07-07|
+|7|[bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)|A modern high-performance open source message queuing system|2372|2023-11-22|2023-07-11|
+|8|[leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)|Stable Diffusion in pure C/C++|1853|2023-11-23|2023-08-13|
+|9|[UMSKT/UMSKT](https://github.com/UMSKT/UMSKT)|Universal MS Key Toolkit|1699|2023-10-08|2023-05-24|
+|10|[li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)|C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs|1692|2023-11-24|2023-05-23|
+|11|[ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus)|YTsaurus is a scalable and fault-tolerant open-source big data platform.|1648|2023-11-24|2022-12-05|
+|12|[vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)|Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)|1479|2023-11-03|2023-07-14|
+|13|[InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)|LMDeploy is a toolkit for compressing, deploying, and serving LLMs.|1467|2023-11-24|2023-06-15|
+|14|[Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)|Standalone implementation of Zygisk|1422|2023-11-13|2023-01-28|
+|15|[weak1337/Alcatraz](https://github.com/weak1337/Alcatraz)|x64 binary obfuscator|1387|2023-07-14|2022-12-21|
+|16|[strato-emu/strato](https://github.com/strato-emu/strato)|Run Nintendo Switch homebrew & games on your Android device!|1384|2023-11-19|2023-05-09|
+|17|[ByConity/ByConity](https://github.com/ByConity/ByConity)|ByConity is an open source cloud data warehouse|1357|2023-11-24|2022-12-22|
+|18|[SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer)| An Open-source LTE Downlink/Uplink Eavesdropper|1187|2023-11-02|2023-04-12|
+|19|[YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)|-|1177|2023-10-24|2023-08-23|
+|20|[alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce)|Fallout for modern operating systems|1054|2023-11-18|2023-02-09|
+|21|[ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)|Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF etc.|1053|2023-11-13|2023-01-12|
+|22|[saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp)|INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model|944|2023-11-16|2023-03-30|
+|23|[tenderlove/initial-v](https://github.com/tenderlove/initial-v)|It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim|928|2023-10-01|2023-02-14|
+|24|[NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution)|A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y ...|924|2023-11-15|2023-05-15|
+|25|[StrongPC123/Far-Cry-1-Source-Full](https://github.com/StrongPC123/Far-Cry-1-Source-Full)|Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked.|878|2023-11-24|2023-06-30|
+|26|[ada-url/ada](https://github.com/ada-url/ada)|WHATWG-compliant and fast URL parser written in modern C++|800|2023-11-24|2022-12-17|
+|27|[epsilla-cloud/vectordb](https://github.com/epsilla-cloud/vectordb)|Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/|790|2023-11-24|2023-07-09|
+|28|[triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT)|YOLOv8 using TensorRT accelerate !|788|2023-11-16|2023-01-05|
+|29|[ZeroMemoryEx/Blackout](https://github.com/ZeroMemoryEx/Blackout)|kill anti-malware protected processes ( BYOVD) (Microsoft Won )|765|2023-07-21|2023-05-25|
+|30|[ZeroMemoryEx/Terminator](https://github.com/ZeroMemoryEx/Terminator)|Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes|761|2023-06-20|2023-06-05|
+|31|[KanatnikovMax/znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix)|-|760|2023-11-20|2023-11-07|
+|32|[TheD1rkMtr/FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader)|Loading Remote AES Encrypted PE in memory , Decrypted it and run it |755|2023-08-29|2023-02-08|
+|33|[Endermanch/XPKeygen](https://github.com/Endermanch/XPKeygen)|Windows XP Keygen|662|2023-07-05|2023-04-03|
+|34|[DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)|Audio Plugin for Audio to MIDI transcription using deep learning.|647|2023-11-01|2023-03-03|
+|35|[plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG)|ChatDBG - AI-assisted debugging. Uses AI to answer 'why'|621|2023-10-09|2023-03-19|
+|36|[Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)|Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3|612|2023-11-21|2023-03-17|
+|37|[PaulNorman01/Forensia](https://github.com/PaulNorman01/Forensia)|Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.|612|2023-06-23|2022-12-07|
+|38|[0xHossam/Killer](https://github.com/0xHossam/Killer)|Is a tool created to evade AVs and EDRs or security tools.|603|2023-06-24|2023-04-08|
+|39|[cvg/limap](https://github.com/cvg/limap)|A toolbox for mapping and localization with line features.|584|2023-11-08|2023-03-21|
+|40|[AcademySoftwareFoundation/xstudio](https://github.com/AcademySoftwareFoundation/xstudio)|-|565|2023-11-23|2022-12-12|
+|41|[hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO)|-|552|2023-11-20|2022-12-08|
+|42|[yuzu-emu/yuzu-android](https://github.com/yuzu-emu/yuzu-android)|-|547|2023-11-24|2023-06-02|
+|43|[casper-hansen/AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference.|532|2023-11-22|2023-08-25|
+|44|[dalathegreat/BYD-Battery-Emulator-For-Gen24](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24)|This software enables EV battery packs to be used for stationary storage in combination with solar inverters.|519|2023-11-23|2023-02-19|
+|45|[Maknee/minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)|Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)|505|2023-08-08|2023-07-15|
+|46|[ktock/container2wasm](https://github.com/ktock/container2wasm)|Container to WASM converter|497|2023-11-22|2023-02-15|
+|47|[go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp)|LLama.cpp golang bindings|429|2023-11-23|2023-04-03|
+|48|[ZikangYuan/liw_oam](https://github.com/ZikangYuan/liw_oam)|A LiDAR-inertial-wheel odometry and mapping system based on BA framework.|429|2023-07-17|2023-02-27|
+|49|[jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)|Drop in replacement for ueberzug written in C++|409|2023-11-23|2023-01-05|
+|50|[tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)|Mirror of https://codeberg.org/tenacityteam/tenacity. Pull requests are IGNORED!|381|2023-11-23|2022-11-26|
+|51|[cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance)|Source code for the https://computerenhance.com programming series|378|2023-11-22|2023-01-31|
+|52|[j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial)|-|372|2023-11-17|2023-02-24|
+|53|[OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient)|Partially open-source alternative Steam Client for Linux. |368|2023-11-21|2023-04-27|
+|54|[ShorSec/DllNotificationInjection](https://github.com/ShorSec/DllNotificationInjection)|A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.|364|2023-08-23|2023-08-14|
+|55|[luigifreda/plvs](https://github.com/luigifreda/plvs)|PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation. |362|2023-11-19|2023-09-19|
+|56|[adamritter/fastgron](https://github.com/adamritter/fastgron)| High-performance JSON to GRON (greppable, flattened JSON) converter|361|2023-07-09|2023-05-27|
+|57|[hoytech/strfry](https://github.com/hoytech/strfry)|a nostr relay|347|2023-11-24|2022-12-19|
+|58|[skeskinen/bert.cpp](https://github.com/skeskinen/bert.cpp)|ggml implementation of BERT|346|2023-10-27|2023-04-26|
+|59|[maxbbraun/llama4micro](https://github.com/maxbbraun/llama4micro)|A "large" language model running on a microcontroller|345|2023-11-21|2023-11-15|
+|60|[Idov31/Venom](https://github.com/Idov31/Venom)|Venom is a library that meant to perform evasive communication using stolen browser socket|342|2023-09-26|2022-12-18|
+|61|[TheD1rkMtr/TakeMyRDP](https://github.com/TheD1rkMtr/TakeMyRDP)|A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe a ...|341|2023-08-02|2023-07-02|
+|62|[S12cybersecurity/WinDefenderKiller](https://github.com/S12cybersecurity/WinDefenderKiller)|Windows Defender Killer   C++ Code Disabling Permanently Windows Defender using Registry Keys|340|2023-07-27|2023-07-25|
+|63|[CL2-UWaterloo/f1tenth_ws](https://github.com/CL2-UWaterloo/f1tenth_ws)|A repository for autonomous racing written in ROS2, designed for the F1TENTH platform. Code can run both in the physical car, as well as simulation with custom launch files.|330|2023-06-30|2023-03-20|
+|64|[zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)|Source code of CVPR 2023 paper|330|2023-11-14|2023-03-03|
+|65|[ethz-asl/dynablox](https://github.com/ethz-asl/dynablox)|Real-time detection of diverse dynamic objects in complex environments.|316|2023-09-05|2022-12-14|
+|66|[vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)|[IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.|314|2023-10-18|2023-06-09|
+|67|[TheD1rkMtr/Shellcode-Hide](https://github.com/TheD1rkMtr/Shellcode-Hide)|This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)|312|2023-08-02|2023-02-05|
+|68|[eried/flipperzero-mayhem](https://github.com/eried/flipperzero-mayhem)|Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors|312|2023-11-19|2023-01-15|
+|69|[Xyrem/HyperDeceit](https://github.com/Xyrem/HyperDeceit)|HyperDeceit is the ultimate all-in-one library that emulates Hyper-V for Windows, giving you the ability to intercept and manipulate operating system tasks with ease.|309|2023-06-03|2023-05-12|
+|70|[w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection)|LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic|307|2023-10-17|2023-03-29|
+|71|[g3tsyst3m/elevationstation](https://github.com/g3tsyst3m/elevationstation)|elevate to SYSTEM any way we can!  Metasploit and PSEXEC getsystem alternative|304|2023-11-02|2023-06-10|
+|72|[worawit/blutter](https://github.com/worawit/blutter)|Flutter Mobile Application Reverse Engineering Tool|303|2023-11-15|2023-08-22|
+|73|[zer0condition/mhydeath](https://github.com/zer0condition/mhydeath)|Abusing mhyprotect to kill AVs / EDRs / XDRs / Protected Processes.|296|2023-08-22|2023-08-22|
+|74|[ianpatt/sfse](https://github.com/ianpatt/sfse)|Starfield Script Extender|295|2023-11-24|2023-08-22|
+|75|[TheD1rkMtr/D1rkLdr](https://github.com/TheD1rkMtr/D1rkLdr)|Shellcode Loader with Indirect Dynamic syscall Implementation , shellcode in MAC format, API resolving from PEB, Syscall calll and syscall instruction address resolving at run time|278|2023-08-02|2023-01-30|
+|76|[gbevin/ShowMIDI](https://github.com/gbevin/ShowMIDI)|Multi-platform GUI application to effortlessly visualize MIDI activity|275|2023-11-24|2023-11-05|
+|77|[antirez/freakwan](https://github.com/antirez/freakwan)|A MicroPython driver for the SX1276 LoRa chip|274|2023-10-31|2023-02-06|
+|78|[scorpion-26/gBar](https://github.com/scorpion-26/gBar)|Blazingly fast status bar written with GTK|273|2023-11-23|2023-01-13|
+|79|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|270|2023-11-01|2023-10-28|
+|80|[deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself)|A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.|269|2023-08-31|2023-07-12|
+|81|[DeployAI/nndeploy](https://github.com/DeployAI/nndeploy)|nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework back ...|268|2023-11-24|2023-08-08|
+|82|[SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping)|H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (RAL 2023)|267|2023-11-22|2023-06-05|
+|83|[TheD1rkMtr/UnhookingPatch](https://github.com/TheD1rkMtr/UnhookingPatch)|Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime|267|2023-08-02|2023-02-08|
+|84|[RuanJY/SLAMesh](https://github.com/RuanJY/SLAMesh)|ICRA2023, A real-time LiDAR simultaneous localization and meshing method. |265|2023-11-07|2023-08-13|
+|85|[afwbkbc/glsmac](https://github.com/afwbkbc/glsmac)|Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire )|265|2023-11-22|2023-01-08|
+|86|[GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders)|Render Pipeline Shaders SDK|264|2023-09-09|2022-12-15|
+|87|[yanfengwu-syser/syserdebugger](https://github.com/yanfengwu-syser/syserdebugger)|-|263|2023-11-03|2023-09-27|
+|88|[cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP)|YOLOv8 TensorRT C++ Implementation|257|2023-11-06|2023-05-25|
+|89|[zlwang7/S-FAST_LIO](https://github.com/zlwang7/S-FAST_LIO)|A simplified implementation of FAST_LIO (with Chinese note)|250|2023-07-14|2022-11-27|
+|90|[mit-han-lab/TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine)|TinyChatEngine: On-Device LLM Inference Library|248|2023-11-23|2023-05-24|
+|91|[QwenLM/qwen.cpp](https://github.com/QwenLM/qwen.cpp)|C++ implementation of Qwen-LM|245|2023-11-17|2023-09-24|
+|92|[GPUOpen-LibrariesAndSDKs/FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK)|The main repository for the FidelityFX SDK.|244|2023-10-18|2023-07-10|
+|93|[h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus)|A C++ tool to unstrip Rust/Go binaries (ELF and PE)|244|2023-10-12|2022-12-28|
+|94|[alessandrofama/fmod-for-godot](https://github.com/alessandrofama/fmod-for-godot)|FMOD Studio Integration for the Godot Engine|239|2023-10-26|2023-03-09|
+|95|[eliemichel/LearnWebGPU](https://github.com/eliemichel/LearnWebGPU)|Learn to use WebGPU for native graphic applications in C++|232|2023-11-18|2022-12-18|
+|96|[Moonzel/Godot-PerfBullets](https://github.com/Moonzel/Godot-PerfBullets)|This plugin uses the MultiMeshInstance2D to render thousands of bullets easily while running the logic in C++ to run at maximum performance. |231|2023-10-27|2023-08-17|
+|97|[lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida)|Injects frida gadget using zygisk to bypass anti-tamper checks.|229|2023-11-24|2023-07-15|
+|98|[jinyus/related_post_gen](https://github.com/jinyus/related_post_gen)|Data Processing benchmark featuring Rust, Go, Swift, Zig, Julia etc.|228|2023-11-23|2023-09-22|
+|99|[Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)|The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.2|228|2023-11-19|2023-06-04|
+|100|[plasma-umass/cwhy](https://github.com/plasma-umass/cwhy)|"See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript|227|2023-10-30|2023-04-04|
+|101|[TheD1rkMtr/HeapCrypt](https://github.com/TheD1rkMtr/HeapCrypt)|Encypting the Heap while sleeping by hooking and modifying Sleep with our own sleep that encrypts the heap|227|2023-08-02|2023-03-25|
+|102|[bruhmoment21/cs2-sdk](https://github.com/bruhmoment21/cs2-sdk)|Counter-Strike 2 SDK/Base written in C++.|224|2023-11-11|2023-03-26|
+|103|[raverie-us/raverie-engine](https://github.com/raverie-us/raverie-engine)|A pure WASM based game engine/editor that aims to recreate the vibe of Flash games|223|2023-10-05|2023-09-02|
+|104|[orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp)|A hobby programming language 🔥|223|2023-09-25|2023-08-15|
+|105|[rstrouse/ESPSomfy-RTS](https://github.com/rstrouse/ESPSomfy-RTS)|A controller for Somfy RTS shades and blinds|222|2023-11-15|2023-01-10|
+|106|[hfjooste/UltimateStarterKit](https://github.com/hfjooste/UltimateStarterKit)|The Ultimate Starter Kit plugin to speed up development of Unreal Engine games|221|2023-11-19|2023-01-25|
+|107|[Xrvitd/GCNO](https://github.com/Xrvitd/GCNO)|Code of Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field. ACM Transactions on Graphics (SIGGRAPH 2023).|221|2023-07-27|2023-01-16|
+|108|[darktrial/cosmo](https://github.com/darktrial/cosmo)|A simple rtsp tester for collecting statics with a simple GUI. No video display.|220|2023-09-16|2023-05-21|
+|109|[Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)|-|209|2023-08-23|2023-08-23|
+|110|[starkware-libs/stone-prover](https://github.com/starkware-libs/stone-prover)|-|209|2023-10-12|2023-08-23|
+|111|[hanai3Bi/Switch-OC-Suite](https://github.com/hanai3Bi/Switch-OC-Suite)|Overclocking suite for Nintendo Switch devices running Atmosphere CFW|209|2023-11-15|2023-04-19|
+|112|[XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd)|Image-to-point cloud Registration Tool|209|2023-11-23|2023-02-07|
+|113|[minwoo0611/MA-LIO](https://github.com/minwoo0611/MA-LIO)|Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation|208|2023-11-24|2023-04-19|
+|114|[S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer)|RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++|205|2023-06-14|2023-06-13|
+|115|[microsoft/vc-ue-extensions](https://github.com/microsoft/vc-ue-extensions)|Components for integration between Visual Studio and Unreal Engine.|205|2023-09-25|2023-01-04|
+|116|[Idov31/Jormungandr](https://github.com/Idov31/Jormungandr)|Jormungandr is a kernel implementation of a COFF loader, allowing kernel developers to load and execute their COFFs in the kernel. |204|2023-09-26|2023-06-25|
+|117|[m417z/UWPSpy](https://github.com/m417z/UWPSpy)|An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.|198|2023-11-11|2023-05-25|
+|118|[tjfenwick/DIY-Sim-Racing-Active-Pedal](https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal)|This is my Sim Racing DIY Active Pedal prototype, an affordable alternative to the official Simucube pedals that cost over $2,000 per pedal.|197|2023-06-13|2023-04-13|
+|119|[iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot)|A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.|197|2023-07-31|2023-01-11|
+|120|[ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe)|ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.|196|2023-11-15|2023-07-30|
+|121|[j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach)|Zygisk module to detach installed apps from Play Store|193|2023-10-10|2023-08-29|
+|122|[knee-koh/MarIOnette](https://github.com/knee-koh/MarIOnette)|Blender plugin for controlling Arduino-based microcontrollers over Serial.|193|2023-11-16|2023-03-20|
+|123|[florylsk/NtRemoteLoad](https://github.com/florylsk/NtRemoteLoad)|Remote Shellcode Injector|187|2023-08-27|2023-08-27|
+|124|[UniversalToolCompiler/UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader)|Dynamic liquid shader for UE5 using Substrate material.|185|2023-09-20|2023-05-02|
+|125|[YukunJ/Turtle](https://github.com/YukunJ/Turtle)|A C++17-based lightweight high-performance network library|185|2023-06-25|2022-12-26|
+|126|[cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)|Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector|183|2023-10-15|2023-10-01|
+|127|[uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public)|Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry|182|2023-10-16|2023-08-02|
+|128|[sksalahuddin2828/C_Plus_Plus](https://github.com/sksalahuddin2828/C_Plus_Plus)|Explore something new|180|2023-07-17|2023-05-30|
+|129|[usefulsensors/useful-transformers](https://github.com/usefulsensors/useful-transformers)|Efficient Inference of Transformer models|179|2023-10-05|2023-08-26|
+|130|[aau-cns/Lie-plusplus](https://github.com/aau-cns/Lie-plusplus)|A C++ header-only Eigen-based Library for Lie group operations|177|2023-11-22|2023-10-26|
+|131|[TylerGlaiel/Crashlogs](https://github.com/TylerGlaiel/Crashlogs)|A simple way to output stack traces when a program crashes in C++, using the new C++23 <stacktrace> header|176|2023-07-19|2023-07-02|
+|132|[BenMakesEverything/cyberdeck](https://github.com/BenMakesEverything/cyberdeck)|-|175|2023-10-28|2023-10-13|
+|133|[yeokm1/doschgpt](https://github.com/yeokm1/doschgpt)|A proof-of-concept ChatGPT and Hugging Face client for DOS with text-to-speech for Sound Blaster compatible systems.|173|2023-09-16|2023-03-24|
+|134|[tpecholt/imrad](https://github.com/tpecholt/imrad)|ImRAD is a GUI builder for the ImGui library|170|2023-11-22|2023-03-13|
+|135|[hugeproblem/nged](https://github.com/hugeproblem/nged)|A Node Graph EDitor|169|2023-10-20|2023-09-29|
+|136|[0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher)|Flipper Zero app to flash ESP chips from the device (no computer connection needed!)|165|2023-11-19|2023-07-10|
+|137|[jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace)|Simple, portable, and self-contained stacktrace library for C++11 and newer|165|2023-11-23|2023-07-01|
+|138|[Duckonaut/hyprload](https://github.com/Duckonaut/hyprload)|A Hyprland plugin manager|164|2023-11-05|2023-02-27|
+|139|[awslabs/palace](https://github.com/awslabs/palace)|3D finite element solver for computational electromagnetics|164|2023-11-22|2022-11-28|
+|140|[EvanMcBroom/perfect-loader](https://github.com/EvanMcBroom/perfect-loader)|Load a dynamic library from memory by modifying the native Windows loader|163|2023-10-14|2023-09-30|
+|141|[cs1ime/blacksun-framework](https://github.com/cs1ime/blacksun-framework)|blacksun framework for QEMU/KVM game cheat development|163|2023-09-01|2023-07-24|
+|142|[IMXNOOBX/cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp)|Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.|162|2023-11-23|2023-09-04|
+|143|[XaFF-XaFF/Kernel-Process-Hollowing](https://github.com/XaFF-XaFF/Kernel-Process-Hollowing)|Windows x64 kernel mode rootkit process hollowing POC. |162|2023-06-30|2023-06-28|
+|144|[pard0p/CallstackSpoofingPOC](https://github.com/pard0p/CallstackSpoofingPOC)|C++ self-Injecting dropper based on various EDR evasion techniques.|161|2023-11-13|2023-10-08|
+|145|[Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF)|Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE|161|2023-08-25|2023-08-24|
+|146|[CognisysGroup/SweetDreams](https://github.com/CognisysGroup/SweetDreams)|Implementation of Advanced Module Stomping and Heap/Stack Encryption|161|2023-07-25|2023-07-25|
+|147|[MooreThreads/torch_musa](https://github.com/MooreThreads/torch_musa)|torch_musa is an open source repository based on PyTorch, which can make full use of the super computing power of MooreThreads graphics cards.|161|2023-07-26|2023-06-30|
+|148|[outfoxxed/hy3](https://github.com/outfoxxed/hy3)|Hyprland plugin for an i3 / sway like manual tiling layout|158|2023-11-08|2023-04-09|
+|149|[McCaulay/mast1c0re](https://github.com/McCaulay/mast1c0re)|Develop payloads that can be executed on the PlayStation 4 or PlayStation 5 through a game save file.|158|2023-11-24|2023-02-18|
+|150|[rnayabed/rangoli](https://github.com/rnayabed/rangoli)|Free, Open Source, Lightweight, Cross-platform Software for Royal Kludge Keyboards|157|2023-07-20|2023-02-21|
+|151|[flwmxd/LuxGI](https://github.com/flwmxd/LuxGI)|Hybrid GI solution, based on DDGI ( include  Ray-Tracing and SDF-Tracing )|156|2023-11-09|2022-12-31|
+|152|[appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d)|Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.|155|2023-11-24|2023-07-22|
+|153|[ratgdo/esphome-ratgdo](https://github.com/ratgdo/esphome-ratgdo)|ratgdo for ESPHome|155|2023-11-19|2023-06-05|
+|154|[lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2)|A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant.|155|2023-11-22|2023-04-14|
+|155|[xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF)|[IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking|155|2023-09-07|2023-02-06|
+|156|[sinajia/Downloader](https://github.com/sinajia/Downloader)|🚀 Fast, tiny, native win32 downloader & installer for Windows|154|2023-11-12|2023-10-15|
+|157|[JPCERTCC/YAMA](https://github.com/JPCERTCC/YAMA)|Yet Another Memory Analyzer for malware detection|154|2023-08-24|2023-07-12|
+|158|[rpng/MINS](https://github.com/rpng/MINS)|An efficient and robust multisensor-aided inertial navigation system with online calibration that is capable of fusing IMU, camera, LiDAR, GPS/GNSS, and wheel sensors. Use cases: VINS/VIO, GPS-INS, LI ...|153|2023-10-13|2023-08-03|
+|159|[lucoiso/UEHttpGPT](https://github.com/lucoiso/UEHttpGPT)|HttpGPT is an Unreal Engine plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate w ...|146|2023-10-15|2023-02-05|
+|160|[DavidPagels/retro-pico-switch](https://github.com/DavidPagels/retro-pico-switch)|Play Nintendo Switch Online N64 games using an Original N64 controller via a Raspberry Pi Pico!|146|2023-08-15|2023-01-30|
+|161|[maxi-k/btrblocks](https://github.com/maxi-k/btrblocks)|BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper)|145|2023-10-30|2023-05-22|
+|162|[TheD1rkMtr/StackCrypt](https://github.com/TheD1rkMtr/StackCrypt)|Create a new thread that will suspend every thread and encrypt its stack, then going to sleep , then decrypt the stacks and resume threads|145|2023-08-02|2023-04-26|
+|163|[haobosang/TinyTensor](https://github.com/haobosang/TinyTensor)|TinyTensor is a tool for running already trained NN (Neural Network) models to be able to use them for inference of various tasks such as image classification, semantic segmentation, etc.|144|2023-09-15|2023-03-02|
+|164|[hanickadot/cthash](https://github.com/hanickadot/cthash)|constexpr implementation of SHA-2 and SHA-3 family of hashes|143|2023-10-24|2023-01-20|
+|165|[QSWWLTN/DigitalLife](https://github.com/QSWWLTN/DigitalLife)|-|142|2023-10-08|2023-05-05|
+|166|[mbucchia/VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR)|An implementation of the OpenXR standard for Virtual Desktop|141|2023-11-11|2023-10-05|
+|167|[facebookresearch/projectaria_tools](https://github.com/facebookresearch/projectaria_tools)|projectaria_tools is an C++/Python open-source toolkit to interact with Project Aria data|139|2023-11-17|2023-06-15|
+|168|[eversinc33/Banshee](https://github.com/eversinc33/Banshee)|Experimental Windows x64 Kernel Rootkit.|139|2023-06-16|2023-06-06|
+|169|[awa-ai/awadb](https://github.com/awa-ai/awadb)|AI Native database for embedding vectors|138|2023-11-14|2023-05-19|
+|170|[mohsenph69/Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin)|A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games|137|2023-11-23|2023-07-02|
+|171|[TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC)|Model-predictive control for microcontrollers|136|2023-11-21|2023-08-02|
+|172|[a1k0n/a1gpt](https://github.com/a1k0n/a1gpt)|throwaway GPT inference|136|2023-07-11|2023-07-01|
+|173|[BlueSCSI/BlueSCSI-v2](https://github.com/BlueSCSI/BlueSCSI-v2)|-|136|2023-11-18|2023-01-25|
+|174|[MzHmO/TGSThief](https://github.com/MzHmO/TGSThief)|My implementation of the GIUDA project in C++ |135|2023-07-25|2023-07-23|
+|175|[NVIDIA/TorchFort](https://github.com/NVIDIA/TorchFort)|An Online Deep Learning Interface for HPC programs on NVIDIA GPUs|133|2023-11-20|2023-08-01|
+|176|[MIT-Senseable-City-Lab/OSCS](https://github.com/MIT-Senseable-City-Lab/OSCS)|This is the official repository for Flatburn: the open source City Scanner|133|2023-09-07|2023-03-03|
+|177|[trevorsaudi/Mshikaki](https://github.com/trevorsaudi/Mshikaki)|A shellcode injection tool showcasing various process injection techniques |132|2023-09-29|2023-09-03|
+|178|[chase/awrit](https://github.com/chase/awrit)|A full graphical web browser for terminals with mouse and keyboard support|132|2023-08-17|2023-05-06|
+|179|[kite03/echoac-poc](https://github.com/kite03/echoac-poc)|-|131|2023-10-11|2023-06-28|
+|180|[cieslarmichal/faker-cxx](https://github.com/cieslarmichal/faker-cxx)|C++20 Faker library for generating fake (but realistic) data for testing and development.|131|2023-11-24|2023-06-24|
+|181|[project-bo4/shield-development](https://github.com/project-bo4/shield-development)|-|131|2023-11-10|2023-03-06|
+|182|[UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp)|detection and instance segmentation of yolov8,use onnxruntime and opencv|131|2023-11-09|2023-02-07|
+|183|[LCH1238/bevdet-tensorrt-cpp](https://github.com/LCH1238/bevdet-tensorrt-cpp)|BEVDet implemented by TensorRT, C++； Achieving real-time performance on Orin|130|2023-09-13|2023-07-11|
+|184|[olrea/openai-cpp](https://github.com/olrea/openai-cpp)|OpenAI C++ is a community-maintained library for the Open AI API|130|2023-11-14|2023-01-19|
+|185|[PABannier/encodec.cpp](https://github.com/PABannier/encodec.cpp)|Port of Meta's Encodec in C/C++|129|2023-10-23|2023-06-19|
+|186|[kayvr/token-hawk](https://github.com/kayvr/token-hawk)|WebGPU LLM inference tuned by hand|129|2023-06-24|2023-05-04|
+|187|[mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)|An open-source flutter package to create amazin visaul reflective page.|129|2023-11-20|2023-03-17|
+|188|[gtreshchev/RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer)|Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.|129|2023-11-17|2023-03-11|
+|189|[3malanraddrdulitl/ameaadqrpo44](https://github.com/3malanraddrdulitl/ameaadqrpo44)|LEAGUE-OF-LEGENDS Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|190|[3malanraddrdulitl/q5i7zp8cijiy](https://github.com/3malanraddrdulitl/q5i7zp8cijiy)|PUBG Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|191|[3malanraddrdulitl/kh9q16qb16yr](https://github.com/3malanraddrdulitl/kh9q16qb16yr)|Rainbow-Six-Siege Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|192|[8angelface3/fhr7bu3pda2l](https://github.com/8angelface3/fhr7bu3pda2l)|FORTNITE Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|193|[8angelface3/wgk0mzwq5tje](https://github.com/8angelface3/wgk0mzwq5tje)|GTA-5 Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|194|[0romeodeadye31/wo8i5i4fp50v](https://github.com/0romeodeadye31/wo8i5i4fp50v)|Destiny-2 Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|195|[0romeodeadye31/b2rkerrrxznu](https://github.com/0romeodeadye31/b2rkerrrxznu)|LEAGUE-OF-LEGENDS Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|196|[0romeodeadye31/yoeggn24n3gn](https://github.com/0romeodeadye31/yoeggn24n3gn)|dead-by-daylight Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|197|[0romeodeadye31/o4r3v2gasngu](https://github.com/0romeodeadye31/o4r3v2gasngu)|Rocket League Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|198|[2pharogetto14/02qa4h0y8qm4](https://github.com/2pharogetto14/02qa4h0y8qm4)|CS-2 Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|199|[2pharogetto14/vl0fkv6oavqq](https://github.com/2pharogetto14/vl0fkv6oavqq)|Warz0ne-2 Best SKINCHANGER|125|2023-11-24|2023-11-24|
+|200|[2pharogetto14/tbhpsqxv9n7k](https://github.com/2pharogetto14/tbhpsqxv9n7k)|VALORANT Best SKINCHANGER|125|2023-11-24|2023-11-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,34 +1,49 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Courseplay/Courseplay_FS22](https://github.com/Courseplay/Courseplay_FS22)|Courseplay for Farming Simulator 2022|485|2022-04-03|2021-11-20|
-|2|[jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)|Tools for markdown notebook navigation and management|103|2022-04-01|2021-08-03|
-|3|[TheAlgorithms/Lua](https://github.com/TheAlgorithms/Lua)|Algorithms and Data Structures implemented in the Lua programming language|61|2022-03-12|2021-09-27|
-|4|[Sleitnick/RbxUtil](https://github.com/Sleitnick/RbxUtil)|A collection of utility modules for Roblox.|45|2022-04-01|2021-10-07|
-|5|[ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim)|Create beautiful code snippets directly from your neovim terminal|29|2022-03-04|2022-02-22|
-|6|[Simstrumentation/Air-Manager](https://github.com/Simstrumentation/Air-Manager)|A collection of quality Air Manager instruments built by flight sim enthusiasts for our own personal home cockpits, but shared with the community at large.|22|2022-04-03|2021-08-23|
-|7|[molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim)|Neovim plugin that provides snippets for the LuaSnip plugin.|20|2022-03-17|2021-11-09|
-|8|[creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim)|An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp|17|2022-03-16|2021-10-23|
-|9|[overextended/ox_lib](https://github.com/overextended/ox_lib)|A collection of Lua functions to utilise in other resources.|16|2022-04-01|2021-10-30|
-|10|[itsHyper/qb-rentals](https://github.com/itsHyper/qb-rentals)|Vehicle Rental Script w/ Rental Papers for QBCore using qb-target / qb-menu|14|2022-03-30|2021-12-06|
-|11|[jaipack17/write-ups](https://github.com/jaipack17/write-ups)|Depot for my articles, papers, insight, research, discoveries and just fun!|14|2022-03-22|2021-09-24|
-|12|[vocksel/flipbook](https://github.com/vocksel/flipbook)|Storybook plugin for Roact components|12|2022-03-17|2021-12-30|
-|13|[rudism/telescope-dict.nvim](https://github.com/rudism/telescope-dict.nvim)|A Telescope extension to open a list of synonyms with definitions for a word.|11|2022-02-22|2021-09-04|
-|14|[iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim)|A port of Gilles Castel's UltiSnip snippets for LuaSnip.|10|2022-03-31|2021-12-17|
-|15|[shagu/ShaguTweaks](https://github.com/shagu/ShaguTweaks)|A collection of tweaks and enhancements to the default wow 1.12.1 interface|8|2022-04-03|2021-08-24|
-|16|[CozyPenguin/vscode-nvim-setup](https://github.com/CozyPenguin/vscode-nvim-setup)|A guide for setting up Visual Studio Code as a frontend for neovim|7|2022-02-10|2021-12-27|
-|17|[IMXNOOBX/modest-menu-snippets](https://github.com/IMXNOOBX/modest-menu-snippets)|Unnoffical Kiddion's modest menu vscode snippets|6|2022-03-30|2022-01-05|
-|18|[ristosip/rjs-sampling-suite](https://github.com/ristosip/rjs-sampling-suite)|A collection of (Lua) scripts for Reaper that automate tasks related to sample instrument creation.|5|2022-02-04|2021-08-14|
-|19|[ItzCelyrian/ESX-Scripts](https://github.com/ItzCelyrian/ESX-Scripts)|A Collection of High Quality ESX-Scripts, and some standalone scripts. (Contributors are Credited respected to the Releases they helped on.)|4|2022-04-02|2022-03-07|
-|20|[Learwolf/TES3MP-0.8-Scripts](https://github.com/Learwolf/TES3MP-0.8-Scripts)|A list of my tes3mp server Lua scripts available for public use.|4|2022-03-17|2022-02-08|
-|21|[nikhil-RGB/Genichiro-The-Last-Stand](https://github.com/nikhil-RGB/Genichiro-The-Last-Stand)|A Genichiro focussed mod,  adds new combos to his regular attacks and patterns|4|2022-03-10|2022-01-23|
-|22|[piero-vic/dotfiles](https://github.com/piero-vic/dotfiles)|These are my dotfiles, a collection of my configuration files for macOS.|4|2022-03-20|2021-09-09|
-|23|[JacopoBucchioni/vlc-permanents-bookmarks](https://github.com/JacopoBucchioni/vlc-permanents-bookmarks)|VLC extension to store Bookmarks permanently|3|2022-03-01|2022-02-19|
-|24|[rsource-open-source/map-scripts](https://github.com/rsource-open-source/map-scripts)|📖 Collection of Roblox scripts for making maps for the Roblox Bhop / Surf games.|3|2022-02-28|2021-09-28|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems within Neovim.|203|2023-11-24|2023-09-16|
+|2|[Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim)|Solve Leetcode problems within Neovim 🔥|145|2023-11-19|2023-01-24|
+|3|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|72|2023-11-23|2023-10-03|
+|4|[TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim)|A simple neovim plugin that enables you to instantly create snippets on ray.so|60|2023-07-05|2023-05-31|
+|5|[LividDS/Lorefriendly-Cars](https://github.com/LividDS/Lorefriendly-Cars)|A collection of lore friendly cars.|40|2023-10-28|2023-01-28|
+|6|[chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute)|A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.|38|2023-07-28|2023-04-06|
+|7|[meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim)|Small collection of _fancy_ components for the lualine.nvim plugin.|36|2023-09-03|2023-03-19|
+|8|[evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim)|A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.|31|2023-09-24|2023-03-12|
+|9|[ChristianChiarulli/bookmark.nvim](https://github.com/ChristianChiarulli/bookmark.nvim)|Bookmark and jump between lines in the current file|30|2023-07-08|2023-05-14|
+|10|[ada0l/obsidian](https://github.com/ada0l/obsidian)|:book: Base Obsidian functionality in your Neovim |26|2023-08-11|2023-07-27|
+|11|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|26|2023-11-04|2023-05-28|
+|12|[RutaTang/compter.nvim](https://github.com/RutaTang/compter.nvim)|Power and extend the ability of <C-a> and <C-x> with customized patterns.|20|2023-06-01|2023-05-17|
+|13|[shafayetShafee/interactive-sql](https://github.com/shafayetShafee/interactive-sql)|A Quarto Extension to run sql examples interactively|19|2023-05-28|2023-05-23|
+|14|[biozz/whop.nvim](https://github.com/biozz/whop.nvim)|Whop your snippets with custom commands|17|2023-11-08|2023-10-21|
+|15|[mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim)|My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. |17|2023-11-14|2023-05-26|
+|16|[echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns)|Highlight patterns in text. Part of 'mini.nvim' library. |16|2023-11-17|2023-05-22|
+|17|[alejandromc23/nvim.kickstart](https://github.com/alejandromc23/nvim.kickstart)|This repository is a collection of configuration files and settings that will be used to customize and set up the Neovim text editor|14|2023-07-13|2023-03-15|
+|18|[drainpixie/petal](https://github.com/drainpixie/petal)|🌼 a delightful collection of dotfiles for my arch system.|13|2023-10-22|2023-06-01|
+|19|[mystery-z/awesome-hammerspoon](https://github.com/mystery-z/awesome-hammerspoon)|Awesome code snippets for the Hammerspoon Desktop Automation Utility |12|2023-08-03|2023-07-20|
+|20|[refcell/dots](https://github.com/refcell/dots)|An updated collection of useful dotfiles, utilities, and scripts that forms refcell's devx.|11|2023-11-16|2023-08-17|
+|21|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|11|2023-08-13|2023-07-24|
+|22|[rafa-thayto/lazy-thayto-vim](https://github.com/rafa-thayto/lazy-thayto-vim)|LazyVIM blaster master custom configs 🔥|10|2023-10-14|2023-08-30|
+|23|[Liquid21K/liq-uniqueitems](https://github.com/Liquid21K/liq-uniqueitems)|This script is for your own imagination on how to make your clothing special with the option to let players unlock clothing as its something like special edition 🥇|10|2023-07-29|2023-07-28|
+|24|[red-blox/Util](https://github.com/red-blox/Util)|A collection of small utilities for Roblox.|10|2023-10-08|2023-05-09|
+|25|[GeneralShark05/shark-leotools](https://github.com/GeneralShark05/shark-leotools)|A Collection of LEO Items for Ox Inventory|10|2023-09-22|2023-04-23|
+|26|[chrisgrieser/wrench-knife](https://github.com/chrisgrieser/wrench-knife)|Collection of useful snippets for Hammerspoon|10|2023-08-01|2023-01-20|
+|27|[FlexYourBrain/Defold_Animation3D_Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide)|Blender to Defold 3d animation guide|9|2023-08-08|2023-08-08|
+|28|[Roblox/dash](https://github.com/Roblox/dash)|A collection of core utilities expanding the capabilities of Lua in Roblox. This is a read-only mirror|8|2023-10-31|2023-10-23|
+|29|[Roblox/cryo](https://github.com/Roblox/cryo)|A collection of methods for working with immutable data in a functional way for Roblox Lua. This is a read-only mirror|8|2023-10-31|2023-10-23|
+|30|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|8|2023-11-16|2023-10-13|
+|31|[alberttheprince/popcornrppets](https://github.com/alberttheprince/popcornrppets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|7|2023-11-23|2023-11-22|
+|32|[WispY/deepity](https://github.com/WispY/deepity)|Contains shareables from the series Development Deepities|7|2023-11-07|2023-10-12|
+|33|[rchaput/acronyms](https://github.com/rchaput/acronyms)|Adds support for Acronyms, and List of Acronyms, to Quarto documents.|7|2023-11-21|2023-06-09|
+|34|[Krystman/lazydevs-pico8-advanced-shmup](https://github.com/Krystman/lazydevs-pico8-advanced-shmup)|This is a repository of the Lazy Devs Academy Pico-8 Hero Advancved Shmup Tutorial.|7|2023-08-28|2023-03-08|
+|35|[gingerbeardman/mandala](https://github.com/gingerbeardman/mandala)|A little playground for testing pixel logic patterns.|6|2023-07-10|2023-07-02|
+|36|[icebaker/ruby-nano-bots](https://github.com/icebaker/ruby-nano-bots)|Ruby Implementation of Nano Bots: small, AI-powered bots easily shared as a single file, designed to support multiple providers such as Vicuna, OpenAI ChatGPT, Google PaLM, Alpaca, and LLaMA.|6|2023-11-19|2023-05-11|
+|37|[Aussiemon/Darktide-Mods](https://github.com/Aussiemon/Darktide-Mods)|A collection of mods for Warhammer 40k: Darktide.|6|2023-11-23|2023-02-22|
+|38|[SolarHorizon/rodux-utils](https://github.com/SolarHorizon/rodux-utils)|A collection of utilities for Rodux users|6|2023-09-06|2023-02-05|
+|39|[serrexlabs/sketch.nvim](https://github.com/serrexlabs/sketch.nvim)|Simplify code execution in Neovim. Run and test code snippets effortlessly in various languages, enhancing your coding workflow|5|2023-09-25|2023-09-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

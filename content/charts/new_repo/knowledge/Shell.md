@@ -1,63 +1,39 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an  ...|16209|2022-08-02|2021-12-26|
-|2|[cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db)|A community sourced list of log4j-affected software|1092|2022-04-14|2021-12-13|
-|3|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List of ad filters based on Chinese locale. 基于中文区的广告规则|783|2022-08-02|2021-08-06|
-|4|[Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles)|🏠 A collection of personal configuration files for various rices I have made.|607|2022-07-03|2022-05-18|
-|5|[mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide)|Steam Deck Guide|464|2022-07-31|2021-11-21|
-|6|[v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail)|Bash script to check if a domain or list of domains can be spoofed based in DMARC records|278|2022-03-06|2022-01-06|
-|7|[cb-linux/breath](https://github.com/cb-linux/breath)|Linux for Chromebooks|250|2022-08-02|2021-09-06|
-|8|[abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups)|A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS|237|2022-03-31|2021-09-15|
-|9|[notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn)|An Ansible playbook that sets up an Ubuntu-based Wireguard server|190|2022-08-02|2022-06-21|
-|10|[marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad)|🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features|130|2022-02-09|2021-12-06|
-|11|[AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty)|Bug Bounty ~ Awesomes   Books   Cheatsheets   Checklists   Tools   Wordlists   More|110|2022-07-31|2022-06-11|
-|12|[wabulu/Single-GPU-passthrough-amd-nvidia](https://github.com/wabulu/Single-GPU-passthrough-amd-nvidia)|My way of doing single gpu passthrough the simplest way, I've gathered many sources together to make the perfect Single GPU passthrough guide the simplest and easiest way.|100|2022-03-26|2021-08-07|
-|13|[vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)|WhiteSur wallpapers|92|2022-02-24|2022-01-17|
-|14|[carterprince/libby](https://github.com/carterprince/libby)|a simple CLI tool to quickly download books from Library Genesis (libgen)|91|2022-07-25|2022-07-10|
-|15|[BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough)|This is a simple, mostly automated guide to pass a GPU through to a VM.|91|2022-08-02|2021-12-02|
-|16|[TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished)|Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.|90|2022-03-01|2022-02-28|
-|17|[BretFisher/allhands22](https://github.com/BretFisher/allhands22)|GitHub Actions automation examples with Docker|87|2022-05-03|2022-03-27|
-|18|[xiaozhiliaoo/ScalaBooks](https://github.com/xiaozhiliaoo/ScalaBooks)|List of Scala books. (PDF download)|86|2022-05-01|2021-12-13|
-|19|[WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides)|Guides for the Surface Duo|79|2022-07-31|2022-03-10|
-|20|[mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)|PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.|73|2022-05-22|2021-12-05|
-|21|[codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)|Examples for the GitOps certification|73|2022-07-29|2021-11-04|
-|22|[ghostsec420/SCPA](https://github.com/ghostsec420/SCPA)|sophisticated cyber penetratiom attacks is a series of advanced techniques, notes and guidance to prepare u in ur career as a hacker moving forward|72|2022-02-01|2021-09-01|
-|23|[Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso)|Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!|69|2022-08-02|2022-06-14|
-|24|[lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens)|Ranked list of awesome digital gardens / second brains|61|2022-08-02|2022-04-21|
-|25|[mhausenblas/modern-linux.info](https://github.com/mhausenblas/modern-linux.info)|Learning Modern Linux book website|51|2022-05-17|2021-10-15|
-|26|[SlavaUkraineSince1991/DDoS-for-all](https://github.com/SlavaUkraineSince1991/DDoS-for-all)|DDoS Guides for all|48|2022-04-19|2022-03-18|
-|27|[ihrapsa/OctoWrt](https://github.com/ihrapsa/OctoWrt)|A guide to install Octoprint on the Creality WiFi Box or similar OpenWrt devices|45|2022-07-24|2021-08-04|
-|28|[cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn)|Remaster Newaia icon theme |43|2022-03-18|2021-10-29|
-|29|[odyslam/bash-utils](https://github.com/odyslam/bash-utils)|A collection of useful bash scripts for ChainOps and more|42|2022-07-27|2022-07-26|
-|30|[archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course](https://github.com/archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course)|BSidesRoc 2022 Linux Malware/Forensics Course|41|2022-03-19|2022-02-15|
-|31|[Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)|Discord Screen Share Fix Audio on Linux|41|2022-06-16|2021-08-21|
-|32|[seanap/auto-m4b](https://github.com/seanap/auto-m4b)|Docker container that watches a folder for multi-file mp3 books and converts them to a chapterized m4b.|40|2022-07-31|2022-03-30|
-|33|[chronolaw/k8s_study](https://github.com/chronolaw/k8s_study)|Follow me to study Docker/Kubernetes|40|2022-07-31|2022-03-08|
-|34|[jose-r-lopez/SSI_Infraestructure_Automation_Materials](https://github.com/jose-r-lopez/SSI_Infraestructure_Automation_Materials)|A bunch of infrastructure automation scripts we use in our course, in case you find them useful!|39|2022-04-20|2021-09-20|
-|35|[woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup)|Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.|36|2022-06-02|2021-10-23|
-|36|[beeinger/vercel-private-submodule](https://github.com/beeinger/vercel-private-submodule)|A "how to" guide for private submodules on Vercel|35|2022-02-25|2021-09-15|
-|37|[ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide)|A guide series explaining how to setup a personal small homelab running a Kubernetes cluster with VMs on a Proxmox VE standalone server node.|34|2022-08-02|2022-07-21|
-|38|[FuzzyGrim/docker-compose](https://github.com/FuzzyGrim/docker-compose)| Personal collection of docker-compose files. |33|2022-06-10|2022-01-22|
-|39|[r3veal/Wallpapers](https://github.com/r3veal/Wallpapers)|Some wallpapers I've collected.|32|2022-04-24|2022-01-20|
-|40|[caroldaniel/42sp-cursus-born2beroot](https://github.com/caroldaniel/42sp-cursus-born2beroot)|This is my implementation guideline for a Linux Server configured in a Virtual Machine|32|2022-05-28|2021-08-26|
-|41|[e-bug/iglue](https://github.com/e-bug/iglue)|[ICML 2022] Code and data for our paper "IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages"|29|2022-04-26|2022-01-27|
-|42|[MrSimonEmms/gitpod-k3s-guide](https://github.com/MrSimonEmms/gitpod-k3s-guide)|Guide for installing Gitpod on a k3s cluster|28|2022-07-29|2021-12-24|
-|43|[charliedimaggio/bsc-fullnode-installer](https://github.com/charliedimaggio/bsc-fullnode-installer)|Binance Smart Chain Fullnode Tutorial|28|2022-02-23|2021-11-16|
-|44|[antongisli/maas-baremetal-k8s-tutorial](https://github.com/antongisli/maas-baremetal-k8s-tutorial)|Step by step tutorial for bare metal K8s on a single machine|28|2022-07-25|2021-10-27|
-|45|[itsyourap/JioFiber-Home-Gateway](https://github.com/itsyourap/JioFiber-Home-Gateway)|Firmwares, Tips and Tricks regarding JioFiber|28|2022-06-13|2021-10-11|
-|46|[Midnighter/nextflow-gotchas](https://github.com/Midnighter/nextflow-gotchas)|A collection of unexpected challenges and learnings with nextflow and nf-core.|26|2022-06-07|2022-04-01|
-|47|[D3Ext/PentestDictionary](https://github.com/D3Ext/PentestDictionary)|A list of useful resources for pentesting, Bug Bounty, CTF and similars.|26|2022-03-30|2021-10-29|
-|48|[StakeTake/guidecosmos](https://github.com/StakeTake/guidecosmos)|In this repository, we will post guides on installing nodes for various projects on the Cosmos network|25|2022-08-02|2022-03-25|
-|49|[rebootoio/vaxiin-sandbox](https://github.com/rebootoio/vaxiin-sandbox)|Quick start guide for the vaxiin framework|25|2022-04-24|2022-03-10|
-|50|[mateussouzaweb/kvm-qemu-virtualization-guide](https://github.com/mateussouzaweb/kvm-qemu-virtualization-guide)|Guide to run VMs with KVM and QEMU|25|2022-07-31|2022-03-07|
-|51|[theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith)|Guides to get Rocksmith 2014 running on Linux|24|2022-08-02|2022-03-01|
-|52|[ahmadalibagheri/bash-script-tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial)|The complete bash script tutorial, reference, awesome examples|23|2022-07-25|2022-03-11|
-|53|[panzerlop/panzerlop](https://github.com/panzerlop/panzerlop)|Configuration Guides for fixing things in Linux, Proton & KDE|23|2022-07-13|2021-11-20|
+|1|[shawwn/llama-dl](https://github.com/shawwn/llama-dl)|High-speed download of LLaMA, Facebook's 65B parameter GPT model|4082|2023-06-28|2023-03-05|
+|2|[alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)|Collection of Alacritty color schemes|698|2023-11-07|2023-01-19|
+|3|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|354|2023-11-17|2023-06-28|
+|4|[jstrieb/paperify](https://github.com/jstrieb/paperify)|Transform any document, web page, or eBook into a research paper (ChatGPT not required)|344|2023-09-06|2023-09-05|
+|5|[SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland)|collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay|275|2023-10-22|2023-03-18|
+|6|[edoardottt/missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates)|Weekly updated list of missing CVEs in nuclei templates official repository. Mainly built for bug bounty, but useful for penetration tests and vulnerability assessments too.|227|2023-11-20|2023-02-16|
+|7|[shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)|Curated list of tools and resources for Platform Engineering|213|2023-11-21|2023-01-21|
+|8|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|181|2023-11-01|2023-06-21|
+|9|[LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia)|A series of scripts that will install a reverse proxy as well as configure authelia automatically.|129|2023-09-18|2023-02-22|
+|10|[migueltc13/TryHackMe](https://github.com/migueltc13/TryHackMe)|Master cybersecurity skills with this TryHackMe free path, includes a collection of my write-ups, solutions and progress tracking.|121|2023-10-15|2023-01-15|
+|11|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket and Warp installer script + client side config examples|115|2023-11-23|2023-09-03|
+|12|[grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB)|A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.|111|2023-09-15|2023-04-22|
+|13|[fwdcloudsec/known_aws_accounts](https://github.com/fwdcloudsec/known_aws_accounts)|List of known AWS accounts|92|2023-11-11|2023-06-01|
+|14|[lhndo/ResHelper](https://github.com/lhndo/ResHelper)|A series of scripts designed to streamline Klipper's resonance testing workflow.|70|2023-10-14|2023-05-17|
+|15|[maxvfischer/sonos-streaming](https://github.com/maxvfischer/sonos-streaming)|How to stream vinyl (or any other analog RCA) to your Sonos system|66|2023-10-29|2023-04-02|
+|16|[SasukeFreestyle/XTLS-Iran-TLS](https://github.com/SasukeFreestyle/XTLS-Iran-TLS)|How to make a V2ray (XTLS) Server for bypassing internet censorship in Iran.|65|2023-06-19|2023-02-13|
+|17|[systemd-run/manuals](https://github.com/systemd-run/manuals)|manuals / guides by systemd members|57|2023-11-05|2022-12-20|
+|18|[vs66388/hyprland](https://github.com/vs66388/hyprland)|Simple guide to setup hyprland on linux machine for niwbie's and pros alike just go through the guide to and you should be good to go|54|2023-09-26|2023-02-26|
+|19|[RabbitBoss/Awesome-Realistic-Semi-Supervised-Learning](https://github.com/RabbitBoss/Awesome-Realistic-Semi-Supervised-Learning)|An awesome paper list of Semi-Supervised Learning under realistic settings.|52|2023-10-23|2023-03-02|
+|20|[skyzyx/rg35xx-garlicos-macos-instructions](https://github.com/skyzyx/rg35xx-garlicos-macos-instructions)|Guides for Garlic OS and Retroarch on your Anbernic RG35XX using macOS.|51|2023-09-11|2023-03-28|
+|21|[MercuryWorkshop/fakemurk](https://github.com/MercuryWorkshop/fakemurk)|[UNMAINTAINED] fakemurk - a set of scripts for spoofing verified on an enrolled chromebook|46|2023-11-15|2023-02-25|
+|22|[Cardiacman13/Architect](https://github.com/Cardiacman13/Architect)|The purpose of this tutorial and script is to install a stock Arch Linux with a minimal set of packages, tailored according to our specific needs.|42|2023-11-23|2023-09-16|
+|23|[defer-panic/awesome-go-interview](https://github.com/defer-panic/awesome-go-interview)|Collection of resources for preparation to technical interview in Go|42|2023-10-30|2023-06-19|
+|24|[wolandark/BASH_Scripts_For_Everyone](https://github.com/wolandark/BASH_Scripts_For_Everyone)|A collection of BASH scripts that might benefit all *nix users|42|2023-11-04|2023-03-05|
+|25|[AICDEV/annoy-the-script-kiddie](https://github.com/AICDEV/annoy-the-script-kiddie)|Collection of scripts and other content to make the life of bots and script-kiddies as hard as possible|40|2023-06-20|2023-04-17|
+|26|[YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible)|A thorough guide to defeating DRM on Linux|39|2023-11-04|2023-06-20|
+|27|[ashpoolin/solanabook](https://github.com/ashpoolin/solanabook)|Mastering Solana: the Solana Runtime|35|2023-11-01|2023-03-22|
+|28|[Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix)|Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04|31|2023-11-20|2023-08-06|
+|29|[wand3rlust/Hitchhikers-Guide-to-URL-Analysis](https://github.com/wand3rlust/Hitchhikers-Guide-to-URL-Analysis)|Collection of Tools & Techniques for analyzing URLs|30|2023-10-01|2022-12-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

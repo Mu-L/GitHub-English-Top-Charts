@@ -1,48 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows)|A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.|968|2022-05-06|2021-09-26|
-|2|[outflanknl/C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection)|A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.|424|2022-05-13|2022-04-22|
-|3|[AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits)|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|260|2022-03-15|2022-03-12|
-|4|[0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)|A collection of my Semgrep rules to facilitate vulnerability research.|202|2022-07-09|2022-03-16|
-|5|[MaJerle/stm32-cube-cmake-vscode](https://github.com/MaJerle/stm32-cube-cmake-vscode)|STM32, VSCode and CMake detailed tutorial|172|2022-04-28|2022-01-07|
-|6|[czekster/markov](https://github.com/czekster/markov)|Materials for book: "Markov Chains for programmers"|166|2022-05-05|2022-03-17|
-|7|[nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)|NoteBook FanControl ported to Linux|82|2022-04-15|2021-08-04|
-|8|[MaxwellGengYF/DirectX-12-Tutorial](https://github.com/MaxwellGengYF/DirectX-12-Tutorial)|A simple DirectX-12 tutorial|65|2022-04-10|2022-01-15|
-|9|[Jiwjiajvnan/jaydurantl](https://github.com/Jiwjiajvnan/jaydurantl)|Working through Udacity's Intro to Computer Vision Course|55|2022-02-02|2021-08-25|
-|10|[lcdzhao/operating_system](https://github.com/lcdzhao/operating_system)|Teach you how to code an OS by yourself.|23|2022-08-01|2022-05-13|
-|11|[dalathegreat/Nissan-LEAF-CCS](https://github.com/dalathegreat/Nissan-LEAF-CCS)|Information for how to add CCS to your LEAF, keeping it relevant for many years to come!|22|2022-02-26|2021-11-27|
-|12|[lxasqjc/Deformation-Segmentation](https://github.com/lxasqjc/Deformation-Segmentation)|PyTorch implementation of Learning to Downsample for Segmentation of Ultra-High Resolution Images|22|2022-06-09|2021-08-10|
-|13|[Foundations-of-HPC/Foundations_of_HPC_2021](https://github.com/Foundations-of-HPC/Foundations_of_HPC_2021)|This repository collects the materials from the course "Foundations of HPC", 2021, at the Data Science and Scientific Computing Department, University of Trieste|19|2022-05-17|2021-09-21|
-|14|[spruceid/discourse-siwe-auth](https://github.com/spruceid/discourse-siwe-auth)|Discourse plugin for SIWE authentication|16|2022-07-07|2021-12-21|
-|15|[awnishmmg/PHP-Documentation](https://github.com/awnishmmg/PHP-Documentation)|This is Official PHP Tutorial By Awnish Kumar|16|2022-02-28|2021-12-19|
-|16|[GhostRain0/AGBEEG-Aging-Cartridge](https://github.com/GhostRain0/AGBEEG-Aging-Cartridge)|A collection of some of the tests I've written|15|2022-07-06|2022-06-13|
-|17|[hilmi-yilmaz/blogs](https://github.com/hilmi-yilmaz/blogs)|Cool things I learned, written for you! |15|2022-02-07|2022-01-30|
-|18|[Shimingyi/COMP3360_Data_Driven_Animation](https://github.com/Shimingyi/COMP3360_Data_Driven_Animation)|The code repository of course COMP3360|15|2022-04-04|2022-01-20|
-|19|[EdVince/SID-NCNN](https://github.com/EdVince/SID-NCNN)|Learning to See in the Dark running in Android by ncnn with Raw Camera|12|2022-02-20|2021-08-09|
-|20|[Chloekkk/so_long](https://github.com/Chloekkk/so_long)|(੭｡╹▿╹｡)੭ SIMPLE KIRBY GAME (੭｡╹▿╹｡)੭ This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.|11|2022-07-18|2022-01-17|
-|21|[a-p-jo/darc](https://github.com/a-p-jo/darc)|Collection of C99 dynamic array implementations |11|2022-06-08|2021-11-24|
-|22|[mees/vapo](https://github.com/mees/vapo)|[ICRA 2022] Implementation of Affordance Learning from Play for Sample-Efficient Policy Learning|11|2022-04-19|2021-09-22|
-|23|[theanhle/c-programming](https://github.com/theanhle/c-programming)|This repository provides all necessary materials, including reference books, lecture slides, examples, and assignments, for the PRF192 course.|11|2022-04-10|2021-09-04|
-|24|[facebook/openbmc-qemu](https://github.com/facebook/openbmc-qemu)|Fork of QEMU for Facebook OpenBMC machines, closely tracking upstream.|10|2022-08-02|2022-06-30|
-|25|[arnab7070/Computer_Lab_Exam_AOT](https://github.com/arnab7070/Computer_Lab_Exam_AOT)|Here you can find out all the solution of the coding problems given in the Lab Assignment. Don't forget to share it with your friends because sharing is caring.....|7|2022-06-18|2022-06-07|
-|26|[GrzHeller/STM32H750B-DK_TouchGFX_FreeRTOS_MQTT_Example](https://github.com/GrzHeller/STM32H750B-DK_TouchGFX_FreeRTOS_MQTT_Example)|A simple example of how to setup an MQTT project on STM32H750B-DK with TouchGFX and FreeRTOS.|7|2022-04-13|2021-11-30|
-|27|[LeonWandruschka/C_Algorithms](https://github.com/LeonWandruschka/C_Algorithms)|This is an open source project to collect various C algorithms and data structures and make them available to everyone. Everyone is welcome to contribute to the project to make it easier for other dev ...|6|2022-07-03|2022-06-10|
-|28|[putuwaw/brilliant](https://github.com/putuwaw/brilliant)|CRUD Book Management with CSFML|6|2022-06-22|2022-04-05|
-|29|[SistemiOperativi/c_examples](https://github.com/SistemiOperativi/c_examples)|This repository provides several code examples showing baseline concepts of Linux Operating Systems|6|2022-02-17|2021-10-20|
-|30|[Madsycode/book-fuse-engine](https://github.com/Madsycode/book-fuse-engine)|source code of the game engine develop in the book: CROSS-PLATFORM GAME ENGINE FOUNDATION|5|2022-06-03|2022-01-08|
-|31|[mikeroyal/CoWoS-Guide](https://github.com/mikeroyal/CoWoS-Guide)|Chip on Wafer on Substrate (CoWoS) Guide|5|2022-02-01|2021-12-12|
-|32|[tienlonghungson/Hands-On-Embedded-System](https://github.com/tienlonghungson/Hands-On-Embedded-System)|Repo for circuit files and source code learnt from Embedded System course|5|2022-03-09|2021-12-05|
-|33|[haroldo-ok/dragon-blaster](https://github.com/haroldo-ok/dragon-blaster)|A dragon themed shoot-em-up for the Sega Master System. Originally made for the SHMUP JAM 1|5|2022-07-27|2021-10-09|
-|34|[dialog-semiconductor/BLE_SDK10_DA1470x_examples](https://github.com/dialog-semiconductor/BLE_SDK10_DA1470x_examples)|Examples for the Dialog Smartbond Bluetooth low energy families based on the SDK10 for DA1470x SoC|4|2022-08-02|2022-06-13|
-|35|[MDYeaminIslam/Competitive-Programming-with-C-Beginner](https://github.com/MDYeaminIslam/Competitive-Programming-with-C-Beginner)|Competitive Programming with C Beginner course details|4|2022-06-17|2022-05-18|
-|36|[halimocakli/Programming-Languages-II-Lab](https://github.com/halimocakli/Programming-Languages-II-Lab)|C programming examples that were created in Programming Languages II lecture which I took charge of as an assistant student.|4|2022-06-13|2022-04-05|
-|37|[WKO8/University-C-Exercises](https://github.com/WKO8/University-C-Exercises)|C Exercises of the Computer Science course at PUC-MINAS.|4|2022-05-18|2022-03-19|
-|38|[gadjetnut/cc1110](https://github.com/gadjetnut/cc1110)|An group of examples for development on CC1110 using SDCC compiler|4|2022-02-05|2022-02-02|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|44747|2023-11-24|2023-03-10|
+|2|[Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)|The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    |6266|2023-11-22|2022-12-18|
+|3|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|394|2023-11-23|2023-07-14|
+|4|[REDMED-X/OperatorsKit](https://github.com/REDMED-X/OperatorsKit)|Collection of Beacon Object Files (BOF) for Cobalt Strike|393|2023-10-25|2023-02-06|
+|5|[clibraries/array-algorithms](https://github.com/clibraries/array-algorithms)|Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++|209|2023-07-16|2023-07-04|
+|6|[Baymax-Rob/Life-long-learning](https://github.com/Baymax-Rob/Life-long-learning)|I am a beginner who loves programming. I want to record and share my learning process. If there is something wrong, please discuss and point it out. Let's learn together and make progress together!|193|2023-08-02|2023-02-08|
+|7|[RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies)|Step by step explanation/tutorial of llama2.c|175|2023-10-09|2023-07-29|
+|8|[shoggoth-systems/shoggoth](https://github.com/shoggoth-systems/shoggoth)|Shoggoth is a peer-to-peer, anonymous network for publishing and distributing open-source code, Machine Learning models, datasets, and research papers.|111|2023-11-24|2023-11-04|
+|9|[toddmaustin/bringup-bench](https://github.com/toddmaustin/bringup-bench)|Bringup-Bench is a collection of standalone minimal library and system dependence benchmarks useful for bringing up newly designed CPUs, accelerators, compilers and operating systems. You probably don ...|84|2023-08-23|2023-04-11|
+|10|[pgEdge/spock](https://github.com/pgEdge/spock)|pgEdge Multi-master Extension|81|2023-09-28|2022-12-29|
+|11|[IOsetting/py32f0-template](https://github.com/IOsetting/py32f0-template)|Puya PY32F002A PY32F003 PY32F030 GNU GCC SDK, template and examples|77|2023-11-09|2022-12-11|
+|12|[paranoidninja/Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection)|This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared|69|2023-10-12|2023-10-12|
+|13|[HX-Titaniumc-wwt/3.7Inch-Eink](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink)|A small but versatile handheld ebook|66|2023-09-03|2023-06-22|
+|14|[Nuno-Jesus/Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)|Clear the fog around Makefiles with this Makefile tutorial and enhance your knowledge with advanced tips and concepts.|65|2023-08-20|2023-06-01|
+|15|[T-Yashwanth-Naidu/C-Programming-Questions](https://github.com/T-Yashwanth-Naidu/C-Programming-Questions)|You can find a list of programming problems on various topic in C|64|2023-10-17|2023-08-30|
+|16|[wagiminator/Development-Boards](https://github.com/wagiminator/Development-Boards)|Collection of various development boards for microcontrollers (e.g. CH55x, CH32V003, PY32F002A, STM32) and CPLDs.|57|2023-11-19|2022-12-14|
+|17|[HNUYueLuRM/basic_framework](https://github.com/HNUYueLuRM/basic_framework)|framework for developing RoboMaster Electric Control programmes|56|2023-10-27|2023-06-05|
+|18|[spicyjpeg/ps1-bare-metal](https://github.com/spicyjpeg/ps1-bare-metal)|PlayStation 1 bare-metal C examples|50|2023-09-15|2023-06-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

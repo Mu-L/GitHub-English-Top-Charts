@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Jupyter Notebook
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[saic-mdal/lama](https://github.com/saic-mdal/lama)|🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022|4115|2022-07-28|2021-08-30|
-|2|[alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)|-|3908|2022-07-29|2022-02-24|
-|3|[WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)|Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors|3907|2022-08-02|2022-07-06|
-|4|[meituan/YOLOv6](https://github.com/meituan/YOLOv6)|YOLOv6: a single-stage object detection framework dedicated to industrial applications.|3703|2022-08-02|2022-06-08|
-|5|[dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks)|:fire: A series of code examples for all sorts of machine learning tasks and applications.|2587|2022-08-01|2022-03-26|
-|6|[CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|2435|2022-07-26|2021-12-20|
-|7|[huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)|This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.|1789|2022-08-02|2022-04-21|
-|8|[ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle)|Generate images from texts. In Russian|1209|2022-04-28|2021-10-30|
-|9|[mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN)|Official PyTorch repo for JoJoGAN: One Shot Face Stylization|1174|2022-02-05|2021-12-17|
-|10|[rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)|Code Repository for Machine Learning with PyTorch and Scikit-Learn|1022|2022-07-29|2021-12-19|
-|11|[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)|Lightning ⚡️ fast forecasting with statistical and econometric models.|856|2022-08-02|2021-11-24|
-|12|[salesforce/BLIP](https://github.com/salesforce/BLIP)|PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  |780|2022-07-30|2022-01-25|
-|13|[sail-sg/poolformer](https://github.com/sail-sg/poolformer)|PoolFormer: MetaFormer is Actually What You Need for Vision (CVPR 2022 Oral)|775|2022-05-04|2021-11-22|
-|14|[srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles)|Solve puzzles. Improve your pytorch.|731|2022-07-13|2022-04-12|
-|15|[priiyaanjaalii0611/ASL_to_English](https://github.com/priiyaanjaalii0611/ASL_to_English)|Reads your hand signs and translates them to English words using Tensorflow object detection API|665|2022-02-02|2022-01-30|
-|16|[microsoft/mup](https://github.com/microsoft/mup)|maximal update parametrization (µP)|570|2022-05-09|2021-11-02|
-|17|[codez0mb1e/resistance](https://github.com/codez0mb1e/resistance)|Pre-crisis Risk Management for Personal Finance|564|2022-07-06|2022-03-03|
-|18|[google/evojax](https://github.com/google/evojax)|-|527|2022-07-22|2021-12-07|
-|19|[rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)|Simple image captioning model|496|2022-02-15|2021-09-16|
-|20|[kakaobrain/rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer)|The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)|482|2022-06-17|2022-03-03|
-|21|[yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso)|-|464|2022-07-25|2022-02-02|
-|22|[deepmind/ithaca](https://github.com/deepmind/ithaca)|Restoring and attributing ancient texts using deep neural networks|424|2022-03-09|2021-11-26|
-|23|[google-research/rliable](https://github.com/google-research/rliable)|[NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.|404|2022-04-18|2021-08-20|
-|24|[xuebinqin/DIS](https://github.com/xuebinqin/DIS)|This is the repo for our new project Highly Accurate Dichotomous Image Segmentation|398|2022-08-01|2022-03-07|
-|25|[apple/GCGC](https://github.com/apple/GCGC)|-|398|2022-02-15|2021-11-02|
-|26|[kwea123/ngp_pl](https://github.com/kwea123/ngp_pl)|Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code)|386|2022-08-02|2022-06-30|
-|27|[Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)|Easily train or fine-tune SOTA computer vision models with one open source training library|386|2022-05-12|2021-11-28|
-|28|[bytedance/ibot](https://github.com/bytedance/ibot)|iBOT :robot:: Image BERT Pre-Training with Online Tokenizer (ICLR 2022)|385|2022-04-14|2021-12-09|
-|29|[mhamilton723/STEGO](https://github.com/mhamilton723/STEGO)|Unsupervised Semantic Segmentation by Distilling Feature Correspondences|381|2022-06-21|2022-03-07|
-|30|[kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization)|-|356|2022-07-31|2022-06-17|
-|31|[karpathy/lecun1989-repro](https://github.com/karpathy/lecun1989-repro)|Reproducing Yann LeCun 1989 paper "Backpropagation Applied to Handwritten Zip Code Recognition", to my knowledge the earliest real-world application of a neural net trained with backpropagation.|344|2022-03-20|2022-03-10|
-|32|[yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)|[CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.|318|2022-05-14|2021-11-24|
-|33|[boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL)|https://hrl.boyuai.com/|310|2022-05-09|2021-08-08|
-|34|[cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022)|-|269|2022-05-13|2022-01-03|
-|35|[Tengfei-Wang/HFGI](https://github.com/Tengfei-Wang/HFGI)|CVPR 2022 HFGI: High-Fidelity GAN Inversion for Image Attribute Editing|264|2022-03-17|2021-09-13|
-|36|[abdallahdib/NextFace](https://github.com/abdallahdib/NextFace)|A high-fidelity 3D face reconstruction library from monocular RGB image(s)|262|2022-05-11|2022-04-12|
-|37|[google-research/pix2seq](https://github.com/google-research/pix2seq)|Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences|254|2022-05-13|2022-03-08|
-|38|[vijishmadhavan/Crop-CLIP](https://github.com/vijishmadhavan/Crop-CLIP)|Crop using CLIP|250|2022-04-14|2021-12-22|
-|39|[AammarTufail/machinelearning_ka_chilla](https://github.com/AammarTufail/machinelearning_ka_chilla)|-|248|2022-04-09|2022-03-11|
-|40|[rasgointelligence/RasgoQL](https://github.com/rasgointelligence/RasgoQL)|Write python locally, execute SQL in your data warehouse|248|2022-04-29|2022-01-23|
-|41|[boschresearch/torchphysics](https://github.com/boschresearch/torchphysics)|-|248|2022-05-03|2021-09-29|
-|42|[Edresson/YourTTS](https://github.com/Edresson/YourTTS)|YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone|247|2022-02-14|2021-10-06|
-|43|[BayesianModelingandComputationInPython/BookCode_Edition1](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1)|-|247|2022-05-09|2021-08-17|
-|44|[EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip)|-|242|2022-05-10|2021-08-09|
-|45|[Jingkang50/OODSurvey](https://github.com/Jingkang50/OODSurvey)|The Official Repository for "Generalized OOD Detection: A Survey"|240|2022-03-26|2021-08-18|
-|46|[isl-org/lang-seg](https://github.com/isl-org/lang-seg)|Language-Driven Semantic Segmentation|239|2022-05-14|2021-11-09|
-|47|[Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets)|Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras|231|2022-03-22|2022-02-10|
-|48|[hanshulll/CodeCollection](https://github.com/hanshulll/CodeCollection)|Do push code on which you are working or if you have solved any problem in any language add the solution to this repository and help to contribute and star this repository!!Refer CONTRIBUTING.md for c ...|227|2022-05-04|2021-10-01|
-|49|[mrdbourke/m1-machine-learning-test](https://github.com/mrdbourke/m1-machine-learning-test)|Code for testing various M1 Chip benchmarks with TensorFlow.|224|2022-03-03|2021-11-14|
-|50|[AmirHosseinBabaeayan/Python-Learning](https://github.com/AmirHosseinBabaeayan/Python-Learning)|این ریپوزیتوری مختص به دوره پایتون با رویکرد هوش مصنوعی و علوم داده می باشد.|216|2022-02-22|2021-09-14|
-|51|[pesser/stable-diffusion](https://github.com/pesser/stable-diffusion)|-|215|2022-07-31|2022-05-26|
-|52|[ai-forever/ru-dolph](https://github.com/ai-forever/ru-dolph)|RuDOLPH: One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP|215|2022-05-12|2021-12-24|
-|53|[mk-minchul/AdaFace](https://github.com/mk-minchul/AdaFace)|-|213|2022-07-19|2021-11-23|
-|54|[FernandaOchoa/CursoIntroPython](https://github.com/FernandaOchoa/CursoIntroPython)|Curso de introducción a la programación con python para Launch X de Innovacción Virtual|210|2022-02-14|2022-02-05|
-|55|[pschaldenbrand/StyleCLIPDraw](https://github.com/pschaldenbrand/StyleCLIPDraw)|Styled text-to-drawing synthesis method. Featured at the 2021 NeurIPS Workshop on Machine Learning for Creativity and Design|210|2022-05-09|2021-09-23|
-|56|[facebookresearch/torchdim](https://github.com/facebookresearch/torchdim)|Named tensors with first-class dimensions for PyTorch|208|2022-07-20|2022-06-14|
-|57|[rgl-epfl/large-steps-pytorch](https://github.com/rgl-epfl/large-steps-pytorch)|Implementation of "Large Steps in Inverse Rendering of Geometry"|208|2022-03-31|2021-10-07|
-|58|[jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference)|Edge Inference in Browser with Transformer NLP model|207|2022-07-11|2021-12-22|
-|59|[huggingface/education-toolkit](https://github.com/huggingface/education-toolkit)|Educational materials for universities|201|2022-07-25|2022-02-22|
-|60|[ukairia777/tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial)|tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT와 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.|201|2022-02-24|2021-12-30|
-|61|[deepmind/arnheim](https://github.com/deepmind/arnheim)|-|197|2022-04-11|2021-10-28|
-|62|[phizaz/diffae](https://github.com/phizaz/diffae)|Official implementation of Diffusion Autoencoders|195|2022-07-29|2022-01-11|
-|63|[omerbt/Splice](https://github.com/omerbt/Splice)|Official Pytorch Implementation for "Splicing ViT Features for Semantic Appearance Transfer" presenting "Splice" (CVPR 2022 Oral)|193|2022-06-18|2021-08-15|
-|64|[uberduck-ai/uberduck-ml-dev](https://github.com/uberduck-ai/uberduck-ml-dev)|ML models for Uberduck|192|2022-05-12|2021-09-08|
-|65|[bkoch4142/attention-is-all-you-need-paper](https://github.com/bkoch4142/attention-is-all-you-need-paper)|Implementation of Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.|184|2022-03-06|2021-12-02|
-|66|[cliport/cliport](https://github.com/cliport/cliport)|CLIPort: What and Where Pathways for Robotic Manipulation|177|2022-03-22|2021-09-20|
-|67|[mahmoodlab/HIPT](https://github.com/mahmoodlab/HIPT)|Hierarchical Image Pyramid Transformer - CVPR 2022 (Oral)|175|2022-07-06|2022-06-06|
-|68|[NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT)|BoT-SORT: Robust Associations Multi-Pedestrian Tracking|173|2022-07-28|2022-07-01|
-|69|[chengwei-wang-ucsc/GPlearn_finiance_stock_futures_extension](https://github.com/chengwei-wang-ucsc/GPlearn_finiance_stock_futures_extension)|This implementation contains the application of GPlearn's symbolic transformer on a commodity futures sector of the financial market. |172|2022-06-10|2022-01-20|
-|70|[Convex-Labs/honestnft-shenanigans](https://github.com/Convex-Labs/honestnft-shenanigans)|HonestNFT Shenanigan Scanning Tools|167|2022-07-30|2021-10-24|
-|71|[jannerm/diffuser](https://github.com/jannerm/diffuser)|Code for the paper "Planning with Diffusion for Flexible Behavior Synthesis"|165|2022-08-01|2022-05-03|
-|72|[csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx)|Steerable discovery of neural audio effects |163|2022-03-02|2021-09-11|
-|73|[deepmind/neural_testbed](https://github.com/deepmind/neural_testbed)|-|162|2022-07-15|2021-10-04|
-|74|[omriav/blended-diffusion](https://github.com/omriav/blended-diffusion)|Official implementation for "Blended Diffusion for Text-driven Editing of Natural Images" [CVPR 2022]|154|2022-02-15|2021-11-29|
-|75|[sayakpaul/probing-vits](https://github.com/sayakpaul/probing-vits)|Probing the representations of Vision Transformers.|153|2022-05-11|2022-03-12|
-|76|[krasserm/perceiver-io](https://github.com/krasserm/perceiver-io)|A PyTorch implementation of Perceiver IO supporting distributed training with PyTorch Lightning|152|2022-05-12|2021-10-04|
-|77|[YangtaoWANG95/TokenCut](https://github.com/YangtaoWANG95/TokenCut)|(CVPR 2022) Pytorch implementation of "Self-supervised transformers for unsupervised object discovery using normalized cut"|151|2022-06-24|2022-02-22|
-|78|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|150|2022-05-06|2021-10-21|
-|79|[yyccR/yolov5_in_tf2_keras](https://github.com/yyccR/yolov5_in_tf2_keras)|tf2-keras implement yolov5|147|2022-05-14|2021-11-18|
-|80|[tlkh/tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments)|TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)|143|2022-02-10|2021-10-26|
-|81|[xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022)|Computer Vision and Pattern Recognition, NUS CS4243, 2022|138|2022-04-05|2022-01-10|
-|82|[Rishit-dagli/Fast-Transformer](https://github.com/Rishit-dagli/Fast-Transformer)|An implementation of Fastformer: Additive Attention Can Be All You Need, a Transformer Variant in TensorFlow|137|2022-02-15|2021-08-30|
-|83|[maxent-ai/converse](https://github.com/maxent-ai/converse)|Conversational text Analysis using various NLP techniques|136|2022-05-11|2021-11-18|
-|84|[whitew1994WW/PyIng](https://github.com/whitew1994WW/PyIng)|Python module to parse ingredient names. Splitting them into the ingredient, unit and quantity. It is trained on a publicly available dataset using Tensorflow.|134|2022-03-29|2022-03-16|
-|85|[MetaSLAM/GPR_Competition](https://github.com/MetaSLAM/GPR_Competition)|Dataset for MetaSLAM Challenge|132|2022-06-27|2022-02-09|
-|86|[Tangshitao/QuadTreeAttention](https://github.com/Tangshitao/QuadTreeAttention)|QuadTree Attention for Vision Transformers (ICLR2022)|130|2022-04-15|2021-12-30|
-|87|[stevenygd/NFGP](https://github.com/stevenygd/NFGP)|Pytorch implementation of NeurIPS 2021 paper: Geometry Processing with Neural Fields.|129|2022-03-09|2021-10-18|
-|88|[MAIF/eurybia](https://github.com/MAIF/eurybia)|⚓ Eurybia monitors model drift over time and securizes model deployment with data validation |128|2022-07-28|2022-05-02|
-|89|[philschmid/huggingface-sagemaker-workshop-series](https://github.com/philschmid/huggingface-sagemaker-workshop-series)|Enterprise Scale NLP with Hugging Face & SageMaker Workshop series|128|2022-05-09|2021-10-12|
-|90|[InFoCusp/diffusion_models](https://github.com/InFoCusp/diffusion_models)|Minimal standalone example of diffusion model|127|2022-06-04|2022-05-31|
-|91|[ChrisCrossCrash/r-place-blender](https://github.com/ChrisCrossCrash/r-place-blender)|Tools for r/Place data visualization with Blender and Python|127|2022-04-29|2022-04-04|
-|92|[Muennighoff/sgpt](https://github.com/Muennighoff/sgpt)|SGPT: GPT Sentence Embeddings for Semantic Search|127|2022-07-27|2022-02-11|
-|93|[lansinuote/Huggingface_Toturials](https://github.com/lansinuote/Huggingface_Toturials)|bert-base-chinese example|126|2022-07-08|2022-02-01|
-|94|[benmoseley/harmonic-oscillator-pinn](https://github.com/benmoseley/harmonic-oscillator-pinn)|Code accompanying my blog post: So, what is a physics-informed neural network?|126|2022-03-22|2021-08-28|
-|95|[hsnam95/class2022Spring](https://github.com/hsnam95/class2022Spring)|-|124|2022-05-29|2022-03-06|
-|96|[naruya/VaxNeRF](https://github.com/naruya/VaxNeRF)|Official implementation of VaxNeRF (Voxel-Accelearated NeRF).|124|2022-05-30|2021-10-30|
-|97|[erl-j/neural-instrument-cloning](https://github.com/erl-j/neural-instrument-cloning)|In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data.|124|2022-04-20|2021-09-17|
-|98|[FrankieIsLost/CRISP](https://github.com/FrankieIsLost/CRISP)|-|123|2022-04-11|2022-01-24|
-|99|[SelfExplainML/PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)|PiML (Python Interpretable Machine Learning) toolbox for model development and validation.|122|2022-05-12|2022-04-29|
-|100|[MCG-NJU/AdaMixer](https://github.com/MCG-NJU/AdaMixer)|[CVPR 2022 Oral] AdaMixer: A Fast-Converging Query-Based Object Detector|122|2022-04-27|2022-03-24|
-|101|[CMsmartvoice/One-Shot-Voice-Cloning](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)|:relaxed: One Shot Voice Cloning base on Unet-TTS|122|2022-03-22|2021-12-30|
-|102|[GhostPack/Invoke-Evasion](https://github.com/GhostPack/Invoke-Evasion)|PowerShell Obfuscation and Data Science|121|2022-05-04|2022-04-05|
-|103|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|119|2022-02-12|2021-08-29|
-|104|[piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer)|A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.|118|2022-04-09|2021-10-07|
-|105|[berkeleydeeprlcourse/homework_fall2021](https://github.com/berkeleydeeprlcourse/homework_fall2021)|Assignments for Berkeley CS 285: Deep Reinforcement Learning (Fall 2021)|117|2022-07-02|2021-08-23|
-|106|[Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp)|DiscoDiffusion Warp|115|2022-06-21|2022-04-14|
-|107|[Bai-Yu-Lan/SH-COVID19](https://github.com/Bai-Yu-Lan/SH-COVID19)|COVID-19 open data in Shanghai|114|2022-07-28|2022-04-17|
-|108|[google-research/pathdreamer](https://github.com/google-research/pathdreamer)|-|113|2022-03-14|2021-09-03|
-|109|[Atten4Vis/DemystifyLocalViT](https://github.com/Atten4Vis/DemystifyLocalViT)|Official code for paper "On the Connection between Local Attention and Dynamic Depth-wise Convolution" ICLR 2022 Spotlight|110|2022-03-15|2021-08-16|
-|110|[unica-mlsec/mlsec](https://github.com/unica-mlsec/mlsec)|Short PhD seminar on Machine Learning Security (Adversarial Machine Learning)|108|2022-02-08|2021-09-06|
-|111|[thu-vu92/python-dashboard-panel](https://github.com/thu-vu92/python-dashboard-panel)|Interactive visualization dashboard in Python with Panel|107|2022-04-24|2022-03-10|
-|112|[geohot/tinyvoice](https://github.com/geohot/tinyvoice)|Letting computers listen to you and really care|105|2022-05-15|2022-05-13|
-|113|[spencerbraun/anomaly_transformer_pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch)|PyTorch implementation of Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy|105|2022-04-12|2021-11-03|
-|114|[QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader)|-|103|2022-05-17|2022-04-30|
-|115|[GT4SD/gt4sd-core](https://github.com/GT4SD/gt4sd-core)|GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process.|101|2022-07-29|2022-02-11|
-|116|[CjangCjengh/tacotron2-japanese](https://github.com/CjangCjengh/tacotron2-japanese)|Tacotron2 implementation of Japanese|100|2022-07-30|2022-07-25|
-|117|[chauncygu/Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines)|The repository is for safe reinforcement learning baselines.|100|2022-08-01|2022-02-22|
-|118|[google-research-datasets/hiertext](https://github.com/google-research-datasets/hiertext)|The HierText dataset contains ~12k images from the Open Images dataset v6 with large amount of text entities. We provide word, line and paragraph level annotations.|99|2022-06-03|2022-03-07|
-|119|[soyHenry/Python-Prep](https://github.com/soyHenry/Python-Prep)|-|99|2022-04-06|2022-01-11|
-|120|[google-research/rlds](https://github.com/google-research/rlds)|-|99|2022-04-29|2021-08-09|
-|121|[chigozienri/VQGAN-CLIP-animations](https://github.com/chigozienri/VQGAN-CLIP-animations)|-|99|2022-05-04|2021-08-07|
-|122|[koaning/cluestar](https://github.com/koaning/cluestar)|Gain clues from clustering!|98|2022-05-15|2022-03-13|
-|123|[mazzzystar/disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper)|Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.|97|2022-05-13|2022-05-03|
-|124|[WilfredTA/formal-methods-curriculum](https://github.com/WilfredTA/formal-methods-curriculum)|Formal methods training program with an emphasis on software in the blockchain & decentralized financed (DeFi) industry|97|2022-07-14|2022-01-06|
-|125|[iago-suarez/ELSED](https://github.com/iago-suarez/ELSED)|ELSED: Enhanced Line SEgment Drawing|97|2022-04-22|2021-08-06|
-|126|[facebookresearch/SWAG](https://github.com/facebookresearch/SWAG)|Official repository for "Revisiting Weakly Supervised Pre-Training of Visual Perception Models". https://arxiv.org/abs/2201.08371.|96|2022-04-17|2022-01-14|
-|127|[simonhuwiler/uawardata](https://github.com/simonhuwiler/uawardata)|The data behind uawardata.com|95|2022-07-08|2022-03-21|
-|128|[TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)|The most Advanced yet simple Multi Cloud tool to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡|94|2022-07-20|2022-03-27|
-|129|[oracle/macest](https://github.com/oracle/macest)|Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores|92|2022-06-22|2021-08-09|
-|130|[dataquestio/project-walkthroughs](https://github.com/dataquestio/project-walkthroughs)|-|90|2022-05-12|2021-12-03|
-|131|[johnGettings/LIHQ](https://github.com/johnGettings/LIHQ)|Long-Inference, High Quality Synthetic Speaker|89|2022-07-12|2022-04-25|
-|132|[williamyang1991/GP-UNIT](https://github.com/williamyang1991/GP-UNIT)|[CVPR 2022] Unsupervised Image-to-Image Translation with Generative Prior|89|2022-07-12|2022-03-04|
-|133|[microsoft/adatest](https://github.com/microsoft/adatest)|Find and fix bugs in natural language machine learning models using adaptive testing.|88|2022-08-02|2022-02-07|
-|134|[AnkurDeria/HSI-Traditional-to-Deep-Models](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)|Pytorch and Keras Implementations of Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects.|88|2022-04-01|2021-10-29|
-|135|[ponnhide/patchworklib](https://github.com/ponnhide/patchworklib)|Patchwork for matplotlib: A subplot manager for intuitive layouts in matplotlib, seaborn, and plotnine.|87|2022-04-23|2021-11-06|
-|136|[nghorbani/soma](https://github.com/nghorbani/soma)|Solving Optical MoCap Automatically|87|2022-02-03|2021-09-29|
-|137|[fox-it/cobaltstrike-beacon-data](https://github.com/fox-it/cobaltstrike-beacon-data)|Open Dataset of Cobalt Strike Beacon metadata (2018-2022)|86|2022-03-28|2022-03-25|
-|138|[jkulhanek/viewformer](https://github.com/jkulhanek/viewformer)|ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers|86|2022-03-24|2022-03-12|
-|139|[benedekrozemberczki/tigerlily](https://github.com/benedekrozemberczki/tigerlily)|TigerLily: Finding drug interactions in silico with the Graph.|86|2022-04-19|2022-02-28|
-|140|[j-min/DallEval](https://github.com/j-min/DallEval)|DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers|86|2022-06-02|2022-02-02|
-|141|[huangwl18/language-planner](https://github.com/huangwl18/language-planner)|Official Code for "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents"|86|2022-05-16|2022-01-03|
-|142|[kurtispykes/Python](https://github.com/kurtispykes/Python)|All curated content and code about Python|85|2022-03-22|2022-03-11|
-|143|[pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam)|Visualizing Yolov5's layers using GradCam|85|2022-04-27|2021-12-09|
-|144|[facebookresearch/Ego4d](https://github.com/facebookresearch/Ego4d)|Ego4d dataset repository. Download the dataset, visualize, extract features & example usage of the dataset|84|2022-08-02|2021-11-23|
-|145|[rkhamilton/vqgan-clip-generator](https://github.com/rkhamilton/vqgan-clip-generator)|Implements VQGAN+CLIP for image and video generation, and style transfers, based on text and image prompts. Emphasis on ease-of-use, documentation, and smooth video creation.|84|2022-02-11|2021-10-12|
-|146|[emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)|First Version.. Cryptocurrency Prediction with Artificial Intelligence (Deep Learning via LSTM Neural Networks)- Emirhan BULUT|83|2022-03-29|2022-01-12|
-|147|[IIC2413/Syllabus-2022-1](https://github.com/IIC2413/Syllabus-2022-1)|-|82|2022-06-30|2022-03-07|
-|148|[Bellman281/Stat4ML](https://github.com/Bellman281/Stat4ML)|Statistics and Mathematics for Machine Learning, Deep Learning , Deep NLP|82|2022-03-02|2021-12-20|
-|149|[andyzoujm/autocast](https://github.com/andyzoujm/autocast)|Forecasting Future World Events with Neural Networks|81|2022-08-02|2022-06-09|
-|150|[InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm)|Open a terminal in colab, including the free tier.|81|2022-02-02|2022-01-31|
-|151|[Visual-Behavior/aloception](https://github.com/Visual-Behavior/aloception)|Aloception is a set of package for computer vision: aloscene, alodataset, alonet.|80|2022-08-02|2021-09-06|
-|152|[jsulopzs/resolving-machine-learning](https://github.com/jsulopzs/resolving-machine-learning)|-|79|2022-07-11|2022-03-05|
-|153|[yccyenchicheng/AutoSDF](https://github.com/yccyenchicheng/AutoSDF)|-|79|2022-04-26|2022-03-03|
-|154|[rubenwiersma/deltaconv](https://github.com/rubenwiersma/deltaconv)|Code for the SIGGRAPH 2022 paper "DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds."|78|2022-07-29|2022-05-12|
-|155|[stackbuffer/ads](https://github.com/stackbuffer/ads)|store data in soundwaves|78|2022-05-21|2022-05-10|
-|156|[mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG)|Precision Medicine Knowledge Graph (PrimeKG)|78|2022-07-28|2022-04-18|
-|157|[MohamadZeina/Disco_Diffusion_Local](https://github.com/MohamadZeina/Disco_Diffusion_Local)|Getting the latest versions of Disco Diffusion to work locally, instead of colab. Including how I run this on Windows, despite some Linux only dependencies ;)|78|2022-04-24|2022-03-19|
-|158|[p-zombie/freqtrade](https://github.com/p-zombie/freqtrade)|Automatically deploy freqtrade to a remote Docker host and auto update strategies. |78|2022-05-15|2021-08-16|
-|159|[VITA-Group/SSHarmonization](https://github.com/VITA-Group/SSHarmonization)|[ICCV'2021] "SSH: A Self-Supervised Framework for Image Harmonization", Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangy ...|78|2022-07-07|2021-08-12|
-|160|[jaewon-lee-b/lte](https://github.com/jaewon-lee-b/lte)|Local Texture Estimator for Implicit Representation Function, in CVPR 2022|75|2022-06-09|2022-03-10|
-|161|[SkelterLabsInc/JaQuAD](https://github.com/SkelterLabsInc/JaQuAD)|JaQuAD: Japanese Question Answering Dataset for Machine Reading Comprehension (2022, Skelter Labs)|75|2022-03-02|2022-01-11|
-|162|[shivammehta007/Neural-HMM](https://github.com/shivammehta007/Neural-HMM)|Neural HMMs are all you need (for high-quality attention-free TTS)|75|2022-07-26|2021-10-08|
-|163|[zsvoboda/ngods-stocks](https://github.com/zsvoboda/ngods-stocks)|New Generation Opensource Data Stack Demo|74|2022-07-30|2022-07-03|
-|164|[CarryHJR/LogDet](https://github.com/CarryHJR/LogDet)|2022天池商品标志目标检测|74|2022-04-30|2022-03-31|
-|165|[pytti-tools/pytti-notebook](https://github.com/pytti-tools/pytti-notebook)|Start here|73|2022-05-11|2022-01-26|
-|166|[sadnow/AnimationKit-AI](https://github.com/sadnow/AnimationKit-AI)|AnimationKit: AI Upscaling & Interpolation using Real-ESRGAN+RIFE|73|2022-03-16|2021-08-21|
-|167|[spetti/SMURF](https://github.com/spetti/SMURF)|-|73|2022-04-08|2021-08-19|
-|168|[energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)|Compositional Generation using Diffusion Models PyTorch (ECCV 2022)|72|2022-07-23|2022-06-02|
-|169|[LAION-AI/aesthetic-predictor](https://github.com/LAION-AI/aesthetic-predictor)|A linear estimator on top of clip to predict the aesthetic quality of pictures|72|2022-06-04|2022-05-21|
-|170|[imics-lab/tts-gan](https://github.com/imics-lab/tts-gan)|TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network|72|2022-06-21|2021-12-18|
-|171|[diegobrunoDIO/Deteccao-de-faces-OpenCV-ResNet](https://github.com/diegobrunoDIO/Deteccao-de-faces-OpenCV-ResNet)|-|71|2022-06-22|2022-06-22|
-|172|[Weixin-Liang/MetaShift](https://github.com/Weixin-Liang/MetaShift)|MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts (ICLR 2022)|71|2022-07-18|2022-02-14|
-|173|[beresandras/buggy-resizing-critique](https://github.com/beresandras/buggy-resizing-critique)|A criticism of a recent paper on buggy image downsampling methods in popular image processing and deep learning libraries.|70|2022-07-06|2021-11-12|
-|174|[awjuliani/neuro-nav](https://github.com/awjuliani/neuro-nav)|A library for neuroscience-inspired navigation and decision making research.|70|2022-07-27|2021-10-26|
-|175|[google-research/graphworld](https://github.com/google-research/graphworld)|-|69|2022-05-11|2022-03-30|
-|176|[krishnaik06/Machine-Learning-Algorithms-Materials](https://github.com/krishnaik06/Machine-Learning-Algorithms-Materials)|-|69|2022-07-12|2022-02-04|
-|177|[sokrypton/ColabDesign](https://github.com/sokrypton/ColabDesign)|Making Protein Design accessible to all via Google Colab! |69|2022-05-15|2022-02-02|
-|178|[ziritrion/dataeng-zoomcamp](https://github.com/ziritrion/dataeng-zoomcamp)|-|69|2022-05-12|2022-01-17|
-|179|[Yura52/tabular-dl-num-embeddings](https://github.com/Yura52/tabular-dl-num-embeddings)|The official implementation of the paper "On Embeddings for Numerical Features in Tabular Deep Learning"|68|2022-03-16|2022-03-15|
-|180|[CodigoMaquina/code](https://github.com/CodigoMaquina/code)|Config files for my GitHub profile.|68|2022-08-02|2021-09-16|
-|181|[lingjzhu/CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P)|Multilingual G2P in over 100 languages|67|2022-05-20|2022-01-19|
-|182|[google-research/mood-board-search](https://github.com/google-research/mood-board-search)|-|66|2022-07-11|2022-07-06|
-|183|[facebookresearch/ss3d](https://github.com/facebookresearch/ss3d)|Code release for "Pre-train, Self-train, Distill A simple recipe for Supersizing 3D Reconstruction"|66|2022-06-20|2022-04-08|
-|184|[deepmind/physical_concepts](https://github.com/deepmind/physical_concepts)|-|66|2022-03-09|2022-03-09|
-|185|[recmo/experiment-solexp](https://github.com/recmo/experiment-solexp)|Fixed point solidity exponentiation.|66|2022-04-11|2022-03-01|
-|186|[oreilly-japan/data-science-on-aws-jp](https://github.com/oreilly-japan/data-science-on-aws-jp)|-|66|2022-02-13|2021-10-12|
-|187|[amine0110/Liver-Segmentation-Using-Monai-and-PyTorch](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)|-|65|2022-07-07|2021-12-05|
-|188|[UT-Austin-RPL/Ditto](https://github.com/UT-Austin-RPL/Ditto)|Code for Ditto: Building Digital Twins of Articulated Objects from Interaction|65|2022-04-28|2021-11-29|
-|189|[AFIF-UG/Introduccion_a_Python_2022](https://github.com/AFIF-UG/Introduccion_a_Python_2022)|Repositorio de Introduccion a Python - Curso Online 2022, que contiene las bases y fundamentos para aprender a programar en este lenguaje.|64|2022-05-13|2022-04-22|
-|190|[JudyYe/ihoi](https://github.com/JudyYe/ihoi)|-|64|2022-06-16|2022-03-24|
-|191|[ASSAZZIN-01/UmojaHack-Africa-2022](https://github.com/ASSAZZIN-01/UmojaHack-Africa-2022)|-|64|2022-03-22|2022-03-21|
-|192|[0xJepsen/MEV_Research_Group](https://github.com/0xJepsen/MEV_Research_Group)|-|64|2022-04-02|2022-03-07|
-|193|[aerorobotics/neural-fly](https://github.com/aerorobotics/neural-fly)|Public facing code for Neural Fly|63|2022-05-21|2022-04-15|
-|194|[dingmyu/davit](https://github.com/dingmyu/davit)|Code for paper "DaViT: Dual Attention Vision Transformer"|63|2022-04-08|2022-04-04|
-|195|[feedzai/timeshap](https://github.com/feedzai/timeshap)|TimeSHAP explains Recurrent Neural Network predictions.|63|2022-05-03|2022-01-10|
-|196|[prp-e/persian_ocr_project](https://github.com/prp-e/persian_ocr_project)|A FLOSS software for Persian Optical Character Recognition|62|2022-07-21|2022-06-14|
-|197|[nsidc/earthdata](https://github.com/nsidc/earthdata)|Python client for NASA CMR|62|2022-03-15|2021-08-25|
-|198|[kurtispykes/Deep-Learning](https://github.com/kurtispykes/Deep-Learning)|Curated articles and code on deep learning topics|61|2022-03-11|2022-03-11|
-|199|[llmpass/RSTT](https://github.com/llmpass/RSTT)|Official pytorch implementation of paper "RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution"|61|2022-06-16|2022-03-04|
-|200|[crowdcent/numerblox](https://github.com/crowdcent/numerblox)|Solid Numerai pipelines|61|2022-06-01|2022-01-04|
+|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|28369|2023-10-04|2023-04-07|
+|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17470|2023-10-27|2023-03-13|
+|3|[microsoft/autogen](https://github.com/microsoft/autogen)|Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ|16898|2023-11-24|2023-08-18|
+|4|[modularml/mojo](https://github.com/modularml/mojo)|The Mojo Programming Language|15687|2023-11-20|2023-04-28|
+|5|[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)|StableLM: Stability AI Language Models|15636|2023-10-04|2023-04-19|
+|6|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything|11616|2023-11-24|2023-04-06|
+|7|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|9538|2023-11-23|2023-02-11|
+|8|[cloneofsimo/lora](https://github.com/cloneofsimo/lora)|Using Low-rank adaptation to quickly fine-tune diffusion models.|6012|2023-11-11|2022-12-08|
+|9|[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|-|4843|2023-09-20|2023-07-04|
+|10|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4474|2023-11-19|2023-04-09|
+|11|[mistralai/mistral-src](https://github.com/mistralai/mistral-src)|Reference implementation of Mistral AI 7B v0.1 model.|4327|2023-11-17|2023-09-27|
+|12|[krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)|-|3772|2023-11-15|2023-09-19|
+|13|[sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)|JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.|3649|2023-11-19|2023-03-02|
+|14|[ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)|This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!|3647|2023-11-12|2023-06-25|
+|15|[mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support. |3191|2023-09-05|2023-03-06|
+|16|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|2923|2023-06-12|2023-03-21|
+|17|[digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)|⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.|2515|2023-11-24|2023-04-26|
+|18|[Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)|-|2349|2023-11-24|2023-10-10|
+|19|[eureka-research/Eureka](https://github.com/eureka-research/Eureka)|Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"|2274|2023-11-17|2023-09-25|
+|20|[jxnl/instructor](https://github.com/jxnl/instructor)|openai function calls for humans|2230|2023-11-24|2023-06-14|
+|21|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2187|2023-11-01|2023-03-24|
+|22|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2096|2023-11-09|2023-03-10|
+|23|[facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker)|CoTracker is a model for tracking any point (pixel) on a video.|1963|2023-10-30|2023-07-13|
+|24|[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)|Open-source and strong foundation image recognition models.|1919|2023-11-22|2023-03-10|
+|25|[tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)|The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. |1918|2023-11-22|2023-08-16|
+|26|[microsoft/lida](https://github.com/microsoft/lida)|Automatic Generation of Visualizations and Infographics using Large Language Models|1915|2023-11-18|2023-03-09|
+|27|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1897|2023-11-23|2023-04-11|
+|28|[camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab)|A colab gradio web UI for running Large Language Models|1810|2023-10-09|2023-04-08|
+|29|[defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder)|SoTA LLM for converting natural language questions to SQL queries|1806|2023-11-20|2023-08-17|
+|30|[liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui)|Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.  |1791|2023-11-08|2023-07-20|
+|31|[mshumer/gpt-author](https://github.com/mshumer/gpt-author)|-|1596|2023-10-23|2023-06-20|
+|32|[explodinggradients/ragas](https://github.com/explodinggradients/ragas)|Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines|1551|2023-11-24|2023-05-08|
+|33|[greshake/llm-security](https://github.com/greshake/llm-security)|New ways of breaking app-integrated LLMs |1466|2023-06-17|2023-02-19|
+|34|[microsoft/i-Code](https://github.com/microsoft/i-Code)|-|1451|2023-10-25|2022-12-07|
+|35|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|1357|2023-11-23|2023-06-12|
+|36|[guochengqian/Magic123](https://github.com/guochengqian/Magic123)|Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors|1318|2023-09-06|2023-06-26|
+|37|[bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM)|The official repository for MedSAM: Segment Anything in Medical Images.|1277|2023-09-27|2023-04-22|
+|38|[camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab)|Text To Video Synthesis Colab|1266|2023-09-10|2023-03-19|
+|39|[MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)|Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper|1213|2023-11-24|2023-01-25|
+|40|[FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa)|Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|1188|2023-10-31|2023-09-10|
+|41|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1170|2023-11-23|2023-06-11|
+|42|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。|1136|2023-11-09|2023-05-31|
+|43|[hustvl/4DGaussians](https://github.com/hustvl/4DGaussians)|4D Gaussian Splatting for Real-Time Dynamic Scene Rendering|1008|2023-11-24|2023-10-03|
+|44|[ChenyangQiQi/FateZero](https://github.com/ChenyangQiQi/FateZero)|[ICCV 2023 Oral] "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"|948|2023-08-14|2023-03-16|
+|45|[ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker)|-|943|2023-05-29|2023-05-25|
+|46|[SamurAIGPT/langchain-course](https://github.com/SamurAIGPT/langchain-course)|Learn to build and deploy AI apps. |920|2023-07-12|2023-05-19|
+|47|[lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm)|Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".|917|2023-10-04|2023-04-19|
+|48|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|872|2023-11-24|2023-02-07|
+|49|[zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)|An Easy-to-use Knowledge Editing Framework for LLMs.|861|2023-11-21|2023-05-09|
+|50|[google-deepmind/dramatron](https://github.com/google-deepmind/dramatron)|Dramatron uses large language models to generate coherent scripts and screenplays.|855|2023-10-08|2022-12-07|
+|51|[SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI)|Your Personal Multilingual AI Translator|796|2023-05-30|2023-02-22|
+|52|[omerbt/MultiDiffusion](https://github.com/omerbt/MultiDiffusion)|Official Pytorch Implementation for "MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation" presenting "MultiDiffusion" (ICML 2023)|775|2023-09-21|2023-01-29|
+|53|[justLV/onju-voice](https://github.com/justLV/onju-voice)|A hackable AI home assistant platform|583|2023-10-10|2023-08-08|
+|54|[veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)|A deep dive into embeddings starting from fundamentals|553|2023-11-20|2023-05-23|
+|55|[aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)|This is a workshop designed for Amazon Bedrock a foundational model service.  |549|2023-11-09|2023-07-13|
+|56|[Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI)|Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.|547|2023-10-08|2023-05-07|
+|57|[daveebbelaar/langchain-experiments](https://github.com/daveebbelaar/langchain-experiments)|Building Apps with LLMs|546|2023-09-07|2023-04-20|
+|58|[bowang-lab/scGPT](https://github.com/bowang-lab/scGPT)|-|541|2023-11-11|2023-04-23|
+|59|[tomhartke/knowledge-graph-from-GPT](https://github.com/tomhartke/knowledge-graph-from-GPT)|Using GPT to organize and access information, and generate questions. Long term goal is to make an agent-like research assistant.|516|2023-07-23|2023-02-13|
+|60|[srush/LLM-Training-Puzzles](https://github.com/srush/LLM-Training-Puzzles)|What would you do with 1000 H100s...|514|2023-09-26|2023-06-26|
+|61|[brevdev/notebooks](https://github.com/brevdev/notebooks)|-|509|2023-11-21|2023-08-14|
+|62|[22-hours/cabrita](https://github.com/22-hours/cabrita)|Finetuning InstructLLaMA with portuguese data|504|2023-06-06|2023-03-17|
+|63|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|501|2023-11-22|2023-07-17|
+|64|[whylabs/langkit](https://github.com/whylabs/langkit)|🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metr ...|498|2023-11-24|2023-04-26|
+|65|[ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning)|LLM Finetuning with peft|497|2023-10-10|2023-06-08|
+|66|[camenduru/controlnet-colab](https://github.com/camenduru/controlnet-colab)|-|488|2023-06-26|2023-02-11|
+|67|[OpenGVLab/SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D)|Official implementation of SAM-Med2D|473|2023-11-23|2023-08-26|
+|68|[Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples)|A repository of code samples for Vector search capabilities in Azure AI Search.|473|2023-11-21|2023-04-19|
+|69|[tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion)|A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.|473|2023-08-03|2023-01-13|
+|70|[camenduru/MusicGen-colab](https://github.com/camenduru/MusicGen-colab)|-|458|2023-07-25|2023-06-09|
+|71|[drboog/ProFusion](https://github.com/drboog/ProFusion)|Code for Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach|446|2023-11-01|2023-05-18|
+|72|[kohjingyu/fromage](https://github.com/kohjingyu/fromage)|🧀 Code and models for the ICML 2023 paper "Grounding Language Models to Images for Multimodal Inputs and Outputs".|422|2023-10-30|2023-01-27|
+|73|[williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX)|[ICCV 2023] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces|413|2023-09-19|2023-03-03|
+|74|[google/generative-ai-docs](https://github.com/google/generative-ai-docs)|Documentation for Google's Generative AI developer site|408|2023-11-10|2023-04-06|
+|75|[qdrant/fastembed](https://github.com/qdrant/fastembed)|Fast, Accurate, Lightweight Python library to make State of the Art Embedding|403|2023-11-24|2023-07-14|
+|76|[OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)|Dataset, code and models for the paper "Mind2Web: Towards a Generalist Agent for the Web".|403|2023-10-30|2023-04-21|
+|77|[monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt)|LLM-based ontological extraction tools, including SPIRES|401|2023-11-22|2023-01-03|
+|78|[vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl)|Remove unwanted objects and restore images without prompts, powered by ControlNet.|390|2023-06-20|2023-04-26|
+|79|[Doubiiu/CodeTalker](https://github.com/Doubiiu/CodeTalker)|[CVPR 2023] CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|380|2023-09-20|2023-02-28|
+|80|[dome272/Wuerstchen](https://github.com/dome272/Wuerstchen)|Official implementation of Würstchen: Efficient Pretraining of Text-to-Image Models|378|2023-11-16|2023-05-24|
+|81|[langchain-ai/langsmith-cookbook](https://github.com/langchain-ai/langsmith-cookbook)|-|376|2023-11-13|2023-08-01|
+|82|[microsoft/BatteryML](https://github.com/microsoft/BatteryML)|-|375|2023-11-24|2023-08-07|
+|83|[Sentdex/TermGPT](https://github.com/Sentdex/TermGPT)|Giving LLMs like GPT-4 the ability to plan and execute terminal commands|373|2023-07-20|2023-06-03|
+|84|[naver-ai/DenseDiffusion](https://github.com/naver-ai/DenseDiffusion)|Official Pytorch Implementation of DenseDiffusion (ICCV 2023) |368|2023-11-14|2023-08-25|
+|85|[nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)|Developer APIs to Accelerate LLM Projects|367|2023-11-06|2023-10-12|
+|86|[vanna-ai/vanna](https://github.com/vanna-ai/vanna)|Personalized AI SQL Agent|367|2023-11-20|2023-05-13|
+|87|[arpitbansal297/Universal-Guided-Diffusion](https://github.com/arpitbansal297/Universal-Guided-Diffusion)|-|362|2023-07-11|2023-01-30|
+|88|[philschmid/easyllm](https://github.com/philschmid/easyllm)|-|358|2023-11-24|2023-07-29|
+|89|[FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol)|-|357|2023-11-15|2023-03-21|
+|90|[jwkirchenbauer/lm-watermarking](https://github.com/jwkirchenbauer/lm-watermarking)|-|357|2023-09-24|2023-01-24|
+|91|[chaitjo/geometric-gnn-dojo](https://github.com/chaitjo/geometric-gnn-dojo)|Geometric GNN Dojo provides unified implementations and experiments to explore the design space of Geometric Graph Neural Networks.|354|2023-06-18|2023-01-21|
+|92|[cvg/DeepLSD](https://github.com/cvg/DeepLSD)|Implementation of the paper "DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients"|353|2023-10-30|2022-11-28|
+|93|[microsoft/azure-openai-design-patterns](https://github.com/microsoft/azure-openai-design-patterns)|-|351|2023-11-07|2023-05-08|
+|94|[aliaksandr960/segment-anything-eo](https://github.com/aliaksandr960/segment-anything-eo)|Earth observation tools for Meta AI Segment Anything|351|2023-06-30|2023-04-08|
+|95|[VikParuchuri/zero_to_gpt](https://github.com/VikParuchuri/zero_to_gpt)|Go from no deep learning knowledge to implementing GPT.|351|2023-07-12|2022-12-03|
+|96|[dcai-course/dcai-lab](https://github.com/dcai-course/dcai-lab)|Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻|350|2023-11-17|2022-12-05|
+|97|[PeiranLi0930/TorchProject](https://github.com/PeiranLi0930/TorchProject)|-|348|2023-07-19|2023-06-29|
+|98|[collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech)|An Open Source text-to-speech system built by inverting Whisper.|345|2023-10-27|2023-02-14|
+|99|[camenduru/sdxl-colab](https://github.com/camenduru/sdxl-colab)|-|343|2023-10-25|2023-07-06|
+|100|[rlancemartin/lex-gpt](https://github.com/rlancemartin/lex-gpt)|-|336|2023-06-26|2023-03-13|
+|101|[emmethalm/youtube-to-chatbot](https://github.com/emmethalm/youtube-to-chatbot)|Train a chatbot on an entire YouTube channel using OpenAI & Pinecone.|324|2023-06-09|2023-06-05|
+|102|[wibus-wee/stable-diffusion-webui-ipynb](https://github.com/wibus-wee/stable-diffusion-webui-ipynb)|AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts|322|2023-10-14|2023-02-18|
+|103|[mshumer/gpt-oracle-trainer](https://github.com/mshumer/gpt-oracle-trainer)|-|318|2023-08-16|2023-08-16|
+|104|[Tsingularity/dift](https://github.com/Tsingularity/dift)|Emergent Correspondence from Image Diffusion|316|2023-08-31|2023-06-05|
+|105|[sugarforever/LangChain-Tutorials](https://github.com/sugarforever/LangChain-Tutorials)|-|316|2023-09-24|2023-04-18|
+|106|[philschmid/deep-learning-pytorch-huggingface](https://github.com/philschmid/deep-learning-pytorch-huggingface)|-|316|2023-11-14|2022-12-06|
+|107|[damian0815/compel](https://github.com/damian0815/compel)|A prompting enhancement library for transformers-type text embedding systems|314|2023-10-09|2023-01-17|
+|108|[reworkd/tarsier](https://github.com/reworkd/tarsier)|Vision utilities for web interaction agents 👀|311|2023-11-16|2023-11-09|
+|109|[lchen001/LLMDrift](https://github.com/lchen001/LLMDrift)|-|310|2023-08-02|2023-07-18|
+|110|[ContextualAI/lens](https://github.com/ContextualAI/lens)|This is the official repository for the LENS (Large Language Models Enhanced to See) system.|306|2023-06-29|2023-06-29|
+|111|[Guitaricet/relora](https://github.com/Guitaricet/relora)|Official code for ReLoRA from the paper Stack More Layers Differently: High-Rank Training Through Low-Rank Updates|304|2023-11-08|2023-04-27|
+|112|[facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline)|A public release of TimelineBuilder for building personal digital data timelines.|300|2023-11-23|2023-06-13|
+|113|[sophiamyang/tutorials-LangChain](https://github.com/sophiamyang/tutorials-LangChain)|-|297|2023-10-19|2023-03-20|
+|114|[alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything)|-|296|2023-08-31|2023-07-31|
+|115|[zsylvester/segmenteverygrain](https://github.com/zsylvester/segmenteverygrain)|A SAM-based model for instance segmentation of images of grains|293|2023-08-30|2023-05-25|
+|116|[bigcode-project/octopack](https://github.com/bigcode-project/octopack)|🐙 OctoPack: Instruction Tuning Code Large Language Models|293|2023-11-13|2023-03-25|
+|117|[kohjingyu/gill](https://github.com/kohjingyu/gill)|🐟 Code and models for the NeurIPS 2023 paper "Generating Images with Multimodal Language Models".|289|2023-10-30|2023-05-25|
+|118|[run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding)|Fine-Tuning Embedding for RAG with Synthetic Data|287|2023-09-11|2023-08-14|
+|119|[retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos)|Azure Open AI (demos, documentation, accelerators). |282|2023-11-22|2023-09-05|
+|120|[pablomarin/GPT-Azure-Search-Engine](https://github.com/pablomarin/GPT-Azure-Search-Engine)|Azure Cognitive Search + Azure OpenAI Accelerator|280|2023-11-21|2023-02-21|
+|121|[Azure/gen-cv](https://github.com/Azure/gen-cv)|Vision AI Solution Accelerator |275|2023-11-24|2023-05-26|
+|122|[cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL)|Huggingface-compatible SDXL Unet implementation that is readily hackable|272|2023-08-09|2023-08-08|
+|123|[hwchase17/chroma-langchain](https://github.com/hwchase17/chroma-langchain)|-|272|2023-09-06|2023-02-13|
+|124|[microsoft/OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop)|workshop materials to build intelligent solutions on Open AI|271|2023-11-17|2023-02-22|
+|125|[weixi-feng/Structured-Diffusion-Guidance](https://github.com/weixi-feng/Structured-Diffusion-Guidance)|Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis|266|2023-11-09|2022-12-07|
+|126|[xbresson/CS6208_2023](https://github.com/xbresson/CS6208_2023)|Advanced Topics in Artificial Intelligence, NUS CS6208, 2023|265|2023-06-07|2023-01-09|
+|127|[tomaarsen/SpanMarkerNER](https://github.com/tomaarsen/SpanMarkerNER)|SpanMarker for Named Entity Recognition|264|2023-11-24|2023-03-28|
+|128|[JimLiu/whisper-subtitles](https://github.com/JimLiu/whisper-subtitles)|Apple PodCast Transcription with OpenAI's Whisper|263|2023-11-13|2023-03-25|
+|129|[ngruver/llmtime](https://github.com/ngruver/llmtime)|-|256|2023-10-30|2023-10-02|
+|130|[ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT)|A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations|253|2023-08-28|2023-08-23|
+|131|[mikonvergence/ControlNetInpaint](https://github.com/mikonvergence/ControlNetInpaint)|Inpaint images with ControlNet|250|2023-10-10|2023-03-13|
+|132|[michigan-traffic-lab/Dense-Deep-Reinforcement-Learning](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning)|This repo contains the code for paper "Dense reinforcement learning for safety validation of autonomous vehicles"|248|2023-09-28|2022-12-21|
+|133|[baidu/puck](https://github.com/baidu/puck)|Puck is a high-performance ANN search engine|247|2023-11-23|2023-08-16|
+|134|[wl-zhao/UniPC](https://github.com/wl-zhao/UniPC)|[NeurIPS 2023] UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models|247|2023-09-22|2023-01-24|
+|135|[Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks)|A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.|246|2023-11-09|2023-04-06|
+|136|[itsnamgyu/reasoning-teacher](https://github.com/itsnamgyu/reasoning-teacher)|Official code for "Large Language Models Are Reasoning Teachers", ACL 2023|246|2023-10-06|2022-12-19|
+|137|[Zj-BinXia/DiffIR](https://github.com/Zj-BinXia/DiffIR)|This project is the official implementation of 'Diffir: Efficient diffusion model for image restoration', ICCV2023|245|2023-11-12|2023-07-20|
+|138|[EvilPsyCHo/train_custom_LLM](https://github.com/EvilPsyCHo/train_custom_LLM)|Train your custom LLMs like Llama, baichuan-7b, GPT|243|2023-07-07|2023-06-24|
+|139|[snakajima/SlashGPT](https://github.com/snakajima/SlashGPT)|-|242|2023-11-14|2023-04-19|
+|140|[jagilley/fact-checker](https://github.com/jagilley/fact-checker)|Fact-checking LLM outputs with self-ask|241|2023-10-23|2022-12-06|
+|141|[krishnaik06/mlproject](https://github.com/krishnaik06/mlproject)|-|238|2023-10-23|2023-03-05|
+|142|[run-llama/modal_finetune_sql](https://github.com/run-llama/modal_finetune_sql)|-|234|2023-11-22|2023-08-16|
+|143|[salesforce/EDICT](https://github.com/salesforce/EDICT)|-|233|2023-07-24|2022-12-08|
+|144|[ardha27/AI-Song-Cover-SOVITS](https://github.com/ardha27/AI-Song-Cover-SOVITS)|All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab|232|2023-07-18|2023-04-20|
+|145|[stepanogil/autonomous-hr-chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)|An autonomous HR agent that can answer user queries using tools|230|2023-07-06|2023-06-15|
+|146|[shivammehta25/Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|🍵 Matcha-TTS: A fast TTS architecture with conditional flow matching|213|2023-11-17|2023-09-05|
+|147|[mattharrison/effective_xgboost_book](https://github.com/mattharrison/effective_xgboost_book)|-|212|2023-06-14|2023-06-14|
+|148|[microsoft/azure-openai-in-a-day-workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop)|-|211|2023-11-11|2023-03-22|
+|149|[Algomancer/Bayesian-Flow-Networks](https://github.com/Algomancer/Bayesian-Flow-Networks)|A simple implimentation of Bayesian Flow Networks (BFN)|209|2023-11-03|2023-08-18|
+|150|[intro-stat-learning/ISLP_labs](https://github.com/intro-stat-learning/ISLP_labs)|Up-to-date version of labs for ISLP|207|2023-11-06|2023-07-26|
+|151|[TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH)|This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"|206|2023-11-21|2023-09-06|
+|152|[benthecoder/ClassGPT](https://github.com/benthecoder/ClassGPT)|ChatGPT for lecture slides|203|2023-07-30|2023-03-03|
+|153|[haoosz/ViCo](https://github.com/haoosz/ViCo)|Official PyTorch codes for the paper: "ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation"|202|2023-10-31|2023-06-01|
+|154|[samvher/bert-for-laptops](https://github.com/samvher/bert-for-laptops)|A BERT that you can train on a (gaming) laptop.|199|2023-09-08|2023-08-01|
+|155|[facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature)|Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"|195|2023-11-21|2023-04-19|
+|156|[wesg52/world-models](https://github.com/wesg52/world-models)|Extracting spatial and temporal world models from LLMs|194|2023-10-17|2023-10-03|
+|157|[camenduru/DiffBIR-colab](https://github.com/camenduru/DiffBIR-colab)|-|192|2023-10-29|2023-09-06|
+|158|[Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)|Azure OpenAI .NET Samples|192|2023-08-31|2023-04-04|
+|159|[berkeley-hipie/HIPIE](https://github.com/berkeley-hipie/HIPIE)|[NeurIPS2023] Code release for "Hierarchical Open-vocabulary Universal Image Segmentation"|190|2023-11-01|2023-06-11|
+|160|[nicknochnack/Llama2RAG](https://github.com/nicknochnack/Llama2RAG)|A working example of RAG using LLama 2 70b and Llama Index|187|2023-08-18|2023-08-18|
+|161|[Infatoshi/fcc-intro-to-llms](https://github.com/Infatoshi/fcc-intro-to-llms)|-|187|2023-10-14|2023-08-05|
+|162|[brjathu/LART](https://github.com/brjathu/LART)|Code repository for the paper "On the Benefits of 3D Pose and Tracking for Human Action Recognition", (CVPR 2023)|187|2023-08-09|2023-06-19|
+|163|[NVIDIA/torch-harmonics](https://github.com/NVIDIA/torch-harmonics)|Differentiable Spherical Harmonic transforms in PyTorch|186|2023-11-23|2023-01-10|
+|164|[facebookresearch/Shepherd](https://github.com/facebookresearch/Shepherd)|This is the repo for the paper Shepherd -- A Critic for Language Model Generation|184|2023-08-10|2023-07-29|
+|165|[ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)|Nerfbusters project|184|2023-08-19|2023-03-21|
+|166|[Linaqruf/sd-notebook-collection](https://github.com/Linaqruf/sd-notebook-collection)|-|184|2023-10-20|2023-01-13|
+|167|[mshukor/UnIVAL](https://github.com/mshukor/UnIVAL)|Official implementation of UnIVAL: Unified Model for Image, Video, Audio and Language Tasks.|181|2023-08-12|2023-07-04|
+|168|[daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2)|VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design|180|2023-09-11|2023-07-29|
+|169|[linhduongtuan/BLOOM-LORA](https://github.com/linhduongtuan/BLOOM-LORA)|Due to restriction of LLaMA, we try to reimplement BLOOM-LoRA (much less restricted BLOOM license here https://huggingface.co/spaces/bigscience/license) using Alpaca-LoRA and Alpaca_data_cleaned.json|180|2023-06-18|2023-03-18|
+|170|[boyu-ai/Hands-on-ML](https://github.com/boyu-ai/Hands-on-ML)|https://hml.boyuai.com|178|2023-07-07|2023-06-29|
+|171|[calebolson123/BabySleepCoach](https://github.com/calebolson123/BabySleepCoach)|DIY Baby Sleep Tracking|178|2023-10-06|2023-01-30|
+|172|[syncdoth/RetNet](https://github.com/syncdoth/RetNet)|Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.|177|2023-11-20|2023-07-19|
+|173|[MedARC-AI/fMRI-reconstruction-NSD](https://github.com/MedARC-AI/fMRI-reconstruction-NSD)|fMRI-to-image reconstruction on the NSD dataset.|177|2023-10-21|2023-02-07|
+|174|[HKUST-Aerial-Robotics/D2SLAM](https://github.com/HKUST-Aerial-Robotics/D2SLAM)|$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm|175|2023-11-06|2023-03-11|
+|175|[tgxs002/HPSv2](https://github.com/tgxs002/HPSv2)|Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis|173|2023-10-20|2023-06-14|
+|176|[daveshap/BSHR_Loop](https://github.com/daveshap/BSHR_Loop)|BSHR "Basher" Loop: Brainstorm, Search, Hypothesize, Refine|170|2023-10-31|2023-10-25|
+|177|[commaai/commavq](https://github.com/commaai/commavq)|commaVQ is a dataset of compressed driving video|170|2023-10-11|2023-06-27|
+|178|[HarunMbaabu/Data-Science-For-EveryOne](https://github.com/HarunMbaabu/Data-Science-For-EveryOne)|Data Science boot camp aims to make the field of data science accessible and understandable to a wide range of individuals, regardless of their background or expertise.|170|2023-10-18|2023-05-09|
+|179|[camenduru/gaussian-splatting-colab](https://github.com/camenduru/gaussian-splatting-colab)|-|169|2023-09-11|2023-08-12|
+|180|[Ryota-Kawamura/Generative-AI-with-LLMs](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs)|In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.|169|2023-07-09|2023-07-01|
+|181|[Coding-Crashkurse/Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)|-|169|2023-08-05|2023-06-08|
+|182|[rmaphoh/RETFound_MAE](https://github.com/rmaphoh/RETFound_MAE)|RETFound - A foundation model for retinal image|169|2023-11-10|2023-01-30|
+|183|[camenduru/grounded-segment-anything-colab](https://github.com/camenduru/grounded-segment-anything-colab)|Grounding DINO with Segment Anything & Stable Diffusion colab|168|2023-07-25|2023-04-10|
+|184|[zhangzjn/EMO](https://github.com/zhangzjn/EMO)|[ICCV 2023] Official PyTorch implementation of "Rethinking Mobile Block for Efficient Attention-based Models"|168|2023-10-24|2023-01-04|
+|185|[MuhammadMoinFaisal/LargeLanguageModelsProjects](https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects)|Large Language Model Projects|167|2023-10-03|2023-07-05|
+|186|[roy-hachnochi/cross-domain-compositing](https://github.com/roy-hachnochi/cross-domain-compositing)|-|167|2023-08-15|2023-02-21|
+|187|[kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|-|167|2023-10-10|2023-01-06|
+|188|[Zeqiang-Lai/Anything2Image](https://github.com/Zeqiang-Lai/Anything2Image)|Generate image from anything with ImageBind and Stable Diffusion|165|2023-08-03|2023-05-16|
+|189|[OptimizationExpert/Pyomo](https://github.com/OptimizationExpert/Pyomo)|Pyomo respository provides a comprehensive library of solved models in Supply chain management |164|2023-10-31|2023-01-07|
+|190|[rohitgandikota/sliders](https://github.com/rohitgandikota/sliders)|Concept Sliders for Precise Control of Diffusion Models|162|2023-11-24|2023-10-16|
+|191|[menloparklab/falcon-langchain](https://github.com/menloparklab/falcon-langchain)|Falcon LLM with Chat UI using LangChain and Chainlit|162|2023-07-30|2023-06-02|
+|192|[wiseaidev/rust-data-analysis](https://github.com/wiseaidev/rust-data-analysis)|Rust for data analysis encyclopedia (WIP).|162|2023-09-20|2023-04-21|
+|193|[Perp-Neg/Perp-Neg-stablediffusion](https://github.com/Perp-Neg/Perp-Neg-stablediffusion)|source code for Stable Diffusion with Perp-Neg |161|2023-08-25|2023-04-14|
+|194|[night-chen/ToolQA](https://github.com/night-chen/ToolQA)| ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels (easy/hard) across eight real-life scenarios. |160|2023-08-19|2023-06-06|
+|195|[tomasonjo/NeoGPT-Explorer](https://github.com/tomasonjo/NeoGPT-Explorer)|Knowledge-graph based chatbot using GPT3 and Neo4j|160|2023-06-27|2023-02-13|
+|196|[IbrahimSobh/llms](https://github.com/IbrahimSobh/llms)|Large Language Models: In this repository Language models are introduced covering both theoretical and practical aspects. |159|2023-09-17|2023-06-29|
+|197|[autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields)|[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)|159|2023-08-25|2023-04-27|
+|198|[positive666/Prompt-Can-Anything](https://github.com/positive666/Prompt-Can-Anything)|You can do anything by sota AI with prompt ,auto AI tools , VL larger model fine and project|159|2023-09-25|2023-04-20|
+|199|[Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)|This is for HacktoberFest2023|158|2023-11-24|2023-09-29|
+|200|[jvns/dns-weekend](https://github.com/jvns/dns-weekend)|Code for Implement DNS in a Weekend|158|2023-08-23|2023-06-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

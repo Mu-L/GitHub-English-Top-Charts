@@ -1,13 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Objective-C
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|30|2022-05-12|2021-11-24|
-|2|[lemonmojo/RemoteFilesVsPasteboard](https://github.com/lemonmojo/RemoteFilesVsPasteboard)|A macOS demo project to demonstrate how to put remote files on local clipboard and provide data asynchronously when pasting in Finder|3|2022-02-03|2022-02-03|
-|3|[moraea/BacklightFixup](https://github.com/moraea/BacklightFixup)|A "fix" for Penryn-based MacBook keyboard backlight in macOS Big Sur and Monterey|3|2022-02-04|2022-01-26|
+|1|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|19|2023-11-24|2023-01-04|
+|2|[Thomz07/RoundDockRemasterred](https://github.com/Thomz07/RoundDockRemasterred)|This is a remaster of the old tweak RoundDock by Brogan Miner|2|2023-07-25|2023-07-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

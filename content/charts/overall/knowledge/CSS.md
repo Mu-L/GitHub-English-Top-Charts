@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > CSS
-<sub>Updated: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)|2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I ...|26432|2022-02-28|
-|2|[30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)|Short CSS code snippets for all your development needs|15555|2022-07-31|
-|3|[philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)|A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.|12949|2022-07-20|
-|4|[dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes)|Custom Jupyter Notebook Themes|9173|2022-02-03|
-|5|[lipis/flag-icons](https://github.com/lipis/flag-icons)|:flags: A curated collection of all country flags in SVG — plus the CSS for easier integration|8748|2022-07-14|
-|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8586|2022-07-31|
-|7|[kognise/water.css](https://github.com/kognise/water.css)|A drop-in collection of CSS styles to make simple websites just a little nicer|7115|2022-07-30|
-|8|[adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css)|A CSS course to turn you into a magician.|5969|2022-02-24|
-|9|[juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)|Curated list of  public penetration test reports released by several consulting firms and academic security groups|5585|2022-05-28|
-|10|[ruanyf/jstutorial](https://github.com/ruanyf/jstutorial)|Javascript tutorial book|5398|2022-06-11|
-|11|[troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)|List of awesome CSS frameworks in 2022|5123|2022-07-12|
-|12|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4274|2022-06-11|
-|13|[l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)|💄CSS tricks for web developers~|4215|2022-07-24|
-|14|[assemble/assemble](https://github.com/assemble/assemble)|Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta ...|4066|2022-02-20|
-|15|[jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book)|Markdown source for Michael Abrash's Graphics Programming Black Book|3991|2022-02-27|
-|16|[spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)|A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli|3704|2022-07-28|
-|17|[jonasschmedtmann/advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)|Starter files, final projects and FAQ for my Advanced CSS course|3656|2022-06-16|
-|18|[BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden)|A collection of documentation about the most quirky parts of the JavaScript language. |3389|2022-02-03|
-|19|[ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)|This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!|2082|2022-07-25|
-|20|[fniessen/org-html-themes](https://github.com/fniessen/org-html-themes)|How to export Org mode files into awesome HTML in 2 minutes|1990|2022-08-01|
-|21|[cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines)|A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.|1875|2022-07-20|
-|22|[zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines)|A model set of guidelines for RESTful APIs and Events, created by Zalando|1720|2022-07-28|
-|23|[MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)|Collection of userstyles affecting the browser|1619|2022-07-30|
-|24|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|1489|2022-08-01|
-|25|[KyleAMathews/react-spinkit](https://github.com/KyleAMathews/react-spinkit)|A collection of loading indicators animated with CSS for React|1467|2022-04-09|
-|26|[DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial)|This is a tutorial we are using for Django Girls workshops|1410|2022-07-02|
-|27|[usds/playbook](https://github.com/usds/playbook)|The Digital Services Playbook|1263|2022-07-22|
-|28|[robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition)|A lightweight, responsive web e-book template|1221|2022-07-19|
-|29|[erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004)|Floating Point Math Examples|1210|2022-07-22|
-|30|[seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench)|:house_with_garden: A Book for Anyone to Get Started with Unix|1146|2022-07-29|
-|31|[blackode/elixir-tips](https://github.com/blackode/elixir-tips)|The Killer Elixir Tips and Tricks...from the experience...|962|2022-03-08|
-|32|[dend/awesome-product-management](https://github.com/dend/awesome-product-management)|🚀 A curated list of awesome resources for product/program managers to learn and grow.|729|2022-04-23|
-|33|[aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop)|AWS Workshop for Learning EKS|692|2022-05-09|
-|34|[SciML/SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl)|Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.|628|2022-04-09|
-|35|[coffeescript-cookbook/coffeescript-cookbook.github.io](https://github.com/coffeescript-cookbook/coffeescript-cookbook.github.io)|CoffeeScript Recipes, Examples and Tutorials|566|2022-07-22|
-|36|[microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs)|Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.|560|2022-04-13|
-|37|[Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3)|Code for Vue Mastery's Intro to Vue 3 course:|544|2022-07-31|
-|38|[stripe-samples/checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription)|Learn how to combine Checkout and Billing for fast subscription pages|518|2022-08-01|
-|39|[badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)|Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!|507|2022-02-11|
-|40|[nowsecure/secure-mobile-development](https://github.com/nowsecure/secure-mobile-development)|A Collection of Secure Mobile Development Best Practices|497|2022-02-26|
-|41|[ShaifArfan/one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project)|This project is for html & css practice. We made this for youtube tutorial purpose.|493|2022-04-23|
-|42|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|489|2022-06-22|
-|43|[theicfire/vimsheet](https://github.com/theicfire/vimsheet)|Vim cheat sheet from beginners to pros|464|2022-02-27|
-|44|[Shopify/shopify.github.com](https://github.com/Shopify/shopify.github.com)|A collection of the open source projects by Shopify|441|2022-07-22|
-|45|[rstudio/bookdown-demo](https://github.com/rstudio/bookdown-demo)|A minimal book example using bookdown|428|2022-07-09|
-|46|[HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme)|Blubook, a flat typora theme.|424|2022-06-21|
-|47|[vaibhawvipul/First-steps-towards-Deep-Learning](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)|This is an open sourced book on deep learning. |408|2022-03-12|
-|48|[kytta/shareon](https://github.com/kytta/shareon)|[MIRROR] Lightweight, stylish, and ethical share buttons for popular social networks|385|2022-02-13|
-|49|[vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass)|🗂  Source code for The Vue 3 Masterclass|384|2022-06-17|
-|50|[superorbital/golangcookbook.github.io](https://github.com/superorbital/golangcookbook.github.io)|Golang Cookbook|383|2022-07-21|
-|51|[deepgenerativemodels/notes](https://github.com/deepgenerativemodels/notes)|Course notes|381|2022-02-16|
-|52|[thangchung/blog-core](https://github.com/thangchung/blog-core)|Modular blog using Blazor with clean domain-driven design patterns |376|2022-07-20|
-|53|[petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf)|A simple bookshelf made in CSS, HTML and vanilla JS.|372|2022-05-15|
-|54|[nnja/python](https://github.com/nnja/python)|Front End Masters Python - Course Website at https://learnpython.dev|370|2022-05-14|
-|55|[rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot)|"What They Forgot to Teach You About R" website / eBook|369|2022-04-21|
-|56|[powerpak/jupyter-dark-theme](https://github.com/powerpak/jupyter-dark-theme)|Dark theme for Jupyter Notebook UI|325|2022-07-21|
-|57|[ines/course-starter-r](https://github.com/ines/course-starter-r)|👩‍🏫🇷 Starter repo for building interactive R courses|322|2022-03-03|
-|58|[danieljpalmer/alptail](https://github.com/danieljpalmer/alptail)|A collection of frontend components using Tailwind.css and Alpine.js.|300|2022-06-01|
-|59|[cfsamson/books-futures-explained](https://github.com/cfsamson/books-futures-explained)|The repository for the book Futures Explained in 200 lines of Rust|297|2022-07-25|
-|60|[LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad)|Landchad.net Website Tutorial Page|296|2022-08-02|
-|61|[ahangchen/windy-afternoon](https://github.com/ahangchen/windy-afternoon)|Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision|287|2022-04-26|
-|62|[hwayne/learntla](https://github.com/hwayne/learntla)|A TLA+ guide|278|2022-07-01|
-|63|[google/gsocguides](https://github.com/google/gsocguides)|Google Summer of Code Mentor and Student Guides|275|2022-07-22|
-|64|[cfpb/cfpb.github.io](https://github.com/cfpb/cfpb.github.io)|A site for the CFPB to share and discuss its technology work with the world.|272|2022-07-26|
-|65|[MLH/mlh-hackathon-organizer-guide](https://github.com/MLH/mlh-hackathon-organizer-guide)|MLH Hackathon Organizer Guide|270|2022-08-01|
-|66|[circlecell/Snippets](https://github.com/circlecell/Snippets)|A collection of UI elements and widgets coded with HTML5, CSS3, and Sass.|270|2022-03-25|
-|67|[alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css)|A collection of Solarized user-stylesheets for...everything?|257|2022-06-01|
-|68|[hannesfrank/awesome-remnote](https://github.com/hannesfrank/awesome-remnote)|A curated list of RemNote plugins, themes, tutorials and other resources.|243|2022-06-29|
-|69|[patrickmineault/codebook](https://github.com/patrickmineault/codebook)|The Good Research Code Handbook|239|2022-03-04|
-|70|[ffAudio/PluginGuiMagic](https://github.com/ffAudio/PluginGuiMagic)|Examples for foleys_gui_magic - the styleable plugin gui|235|2022-07-05|
-|71|[data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki)|The best place to learn data engineering. Built and maintained by the data engineering community.|234|2022-07-20|
-|72|[h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme)|This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.|232|2022-06-27|
-|73|[hotosm/learnosm](https://github.com/hotosm/learnosm)|LearnOSM.org content, Jekyll layouts & issue tracking. This repository is dedicated to helping people learn how to map in OpenStreetMap (OSM) and use many of the software and tools in the OSM communit ...|230|2022-08-02|
-|74|[datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)|Firefox Proton - Blur Mod / For dark theme lovers / Blurred search and bookmarks bar|228|2022-07-20|
-|75|[flaviut/nim-by-example](https://github.com/flaviut/nim-by-example)|A series of pages and examples for leaning the Nim Programing Language|223|2022-07-22|
-|76|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|221|2022-02-12|
-|77|[Automattic/syntaxhighlighter](https://github.com/Automattic/syntaxhighlighter)|WordPress plugin that makes it easy to post syntax-highlighted code snippets.|220|2022-07-08|
-|78|[troymott/bulma-book-code](https://github.com/troymott/bulma-book-code)|This repo contains sample code for the book, "Creating Interfaces with Bulma," by Bleeding Edge Press.|217|2022-02-10|
-|79|[keyboardio/keyswitch_documentation](https://github.com/keyboardio/keyswitch_documentation)|A shared public repository of datasheets and other public documentation of keyswitches, both current and historical|215|2022-05-01|
-|80|[noamross/gams-in-r-course](https://github.com/noamross/gams-in-r-course)|Generalized Additive Models in R: A Free Interactive Course|213|2022-03-03|
-|81|[sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)|Build Jekyll site with GitBook style!|212|2022-07-27|
-|82|[saeiddrv/PythonPersianTutorial](https://github.com/saeiddrv/PythonPersianTutorial)|A free and online Python book in Persian|212|2022-05-04|
-|83|[silverhammermba/emberb](https://github.com/silverhammermba/emberb)|A guide to Ruby's C API|199|2022-02-27|
-|84|[loup-brun/buttons](https://github.com/loup-brun/buttons)|A collection of CSS buttons.|185|2022-04-27|
-|85|[cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell)|Collection of common CSS mistakes, and how to fix them|179|2022-06-18|
-|86|[rachelandrew/grid-by-example](https://github.com/rachelandrew/grid-by-example)|CSS3 Grid Layout examples|177|2022-06-27|
-|87|[okfn/opendatahandbook](https://github.com/okfn/opendatahandbook)|Open Data Handbook v2|176|2022-05-13|
-|88|[asciidoctor/asciidoctor-maven-examples](https://github.com/asciidoctor/asciidoctor-maven-examples)|A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.|173|2022-07-28|
-|89|[mraible/infoq-mini-book](https://github.com/mraible/infoq-mini-book)|Template project for creating an InfoQ Mini-Book with Asciidoctor|167|2022-07-25|
-|90|[ssbc/handbook.scuttlebutt.nz](https://github.com/ssbc/handbook.scuttlebutt.nz)|ssb handbook: A guide to the Secure Scuttlebutt key concepts and influences (see also, new website: https://gitlab.com/ssbc/scuttlebutt.nz/)|165|2022-06-21|
-|91|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|161|2022-05-14|
-|92|[JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide)|JetBrains Guides where Developer Advocacy and the community share ideas.|158|2022-08-01|
-|93|[lwjglgamedev/lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents)|Book contents for the book "3D Game Development with LWJGL 3" (https://ahbejarano.gitbook.io/lwjglgamedev/).|155|2022-06-24|
-|94|[semaphoreci/book-cicd-docker-kubernetes](https://github.com/semaphoreci/book-cicd-docker-kubernetes)|A book on CI/CD with Docker, Kubernetes and Semaphore|152|2022-04-05|
-|95|[lethain/staff-eng](https://github.com/lethain/staff-eng)|Collection of stories of how folks have reached Staff-plus roles in technology.|152|2022-07-21|
-|96|[vatlab/sos-notebook](https://github.com/vatlab/sos-notebook)|Multi-language Jupyter Notebook|150|2022-04-09|
-|97|[awslabs/ec2-spot-workshops](https://github.com/awslabs/ec2-spot-workshops)|Collection of workshops to demonstrate best practices in using Amazon EC2 Spot Instances. https://aws.amazon.com/ec2/spot/|149|2022-08-02|
-|98|[alecjacobson/computer-graphics-csc317](https://github.com/alecjacobson/computer-graphics-csc317)|Course Page for Computer Graphics course|147|2022-03-15|
-|99|[youknowriad/blockbook](https://github.com/youknowriad/blockbook)|Build and Share WordPress Blocks in Isolation.|143|2022-07-21|
-|100|[Confirm4Crit/awesome-lwc](https://github.com/Confirm4Crit/awesome-lwc)|A list of interesting on platform Lightning Web Components resources and code examples|143|2022-07-21|
-|101|[oscarotero/jquery-cheatsheet](https://github.com/oscarotero/jquery-cheatsheet)|jQuery interactive cheatsheet|132|2022-04-09|
-|102|[kidscancode/godot_recipes](https://github.com/kidscancode/godot_recipes)|Lessons, tutorials, and guides for game development using the Godot game engine.|125|2022-04-01|
-|103|[vuejsdevelopers/vuejs-poster-shop](https://github.com/vuejsdevelopers/vuejs-poster-shop)|Source code for "The Ultimate Vue.js Developers Course"|121|2022-02-17|
-|104|[glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets)|a cheatsheets theme for hexo|119|2022-07-20|
-|105|[QuentinWatt/React-for-beginners-tutorial-series](https://github.com/QuentinWatt/React-for-beginners-tutorial-series)|A repository for my React for beginners tutorials series|117|2022-07-20|
-|106|[Elixir-Recipes/Elixir-Recipes.github.io](https://github.com/Elixir-Recipes/Elixir-Recipes.github.io)|:bento: A collection of Elixir programming language solutions to common problems.|117|2022-07-21|
-|107|[evilfactorylabs/learning-resources](https://github.com/evilfactorylabs/learning-resources)|a curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free to take a look and learn together!|111|2022-05-29|
-|108|[ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io)|A simple list of Ruby conferences|111|2022-05-04|
-|109|[scaffold-eth/scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples)|Scaffold-Eth 🏗  examples repo|109|2022-08-01|
-|110|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|107|2022-07-12|
-|111|[fullstackio/cq](https://github.com/fullstackio/cq)|extract code snippets using selectors (instead of line numbers) - ES5, ES6, TypeScript|106|2022-06-22|
-|112|[yesidays/ds-learning-path](https://github.com/yesidays/ds-learning-path)|Data scientist: learning path|105|2022-07-21|
-|113|[Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection)|A collection of snippet to customize obsidian|103|2022-06-27|
-|114|[oleg-koval/counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev)|a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.|102|2022-07-23|
-|115|[AljanScholtens/taiga-boilerplate](https://github.com/AljanScholtens/taiga-boilerplate)|Simple living component library with style guide based on Nunjucks, PostCSS, ITCSS and BEM.|97|2022-07-20|
-|116|[dmbaturin/ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org)|A free (as in freedom) OCaml textbook|96|2022-06-03|
-|117|[tonkec/text_hover_effects](https://github.com/tonkec/text_hover_effects)|Collection of effects for typography triggered on hover or click|96|2022-06-27|
-|118|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|94|2022-02-02|
-|119|[frontaid/natural-selection](https://github.com/frontaid/natural-selection)|CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors|94|2022-07-24|
-|120|[bradtraversy/tailwind-course-projects](https://github.com/bradtraversy/tailwind-course-projects)|Projects from my TailwindCSS course|93|2022-06-01|
-|121|[gavinmn/obsidian-HIG](https://github.com/gavinmn/obsidian-HIG)|A work in progress Obsidian theme designed to fit in with the Human Interface Guidelines.|91|2022-02-09|
-|122|[dhanishgajjar/css-flags](https://github.com/dhanishgajjar/css-flags)|A collection of pure CSS flags, all single divs.|91|2022-02-11|
-|123|[practicalli/spacemacs](https://github.com/practicalli/spacemacs)|Content for the book - Clojure Development with Spacemacs|87|2022-06-30|
-|124|[cs217/cs217.github.io](https://github.com/cs217/cs217.github.io)|Course Webpage for CS 217 Hardware Accelerators for Machine Learning, Stanford University|86|2022-07-22|
-|125|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|84|2022-07-28|
-|126|[zero-to-mastery/book-tracker](https://github.com/zero-to-mastery/book-tracker)|"Tracks the amount of books that  you've read, the ones you want to  read and the progress on the ones  you're reading."|84|2022-07-20|
-|127|[d2s/companies](https://github.com/d2s/companies)|:cloud: 2016–2022→ — List of companies using GitHub. Together with a list of programming languages used in their public Git repositories.|80|2022-08-01|
-|128|[aws-samples/asynchronous-messaging-workshop](https://github.com/aws-samples/asynchronous-messaging-workshop)|The Asynchronous Messaging Workshop is a collection of individual labs covering different aspects and patterns of asynchronous messaging. |77|2022-07-11|
-|129|[fegyi001/osmgwc](https://github.com/fegyi001/osmgwc)|A step-by-step tutorial to create a geowebcache layer from OSM data which will look a lot like Google Maps|75|2022-07-30|
-|130|[Bharat-Reddy/Hostel-Management-System](https://github.com/Bharat-Reddy/Hostel-Management-System)|A system built for hostel room allocation for our College(NIT Calicut) as a part of DBMS Course.|74|2022-03-07|
-|131|[seyfeddin/awesome-macos](https://github.com/seyfeddin/awesome-macos)|A list of macOS libraries, built with Swift and Objective-C.|74|2022-03-10|
-|132|[safing/portmaster-ui](https://github.com/safing/portmaster-ui)|User Interfaces for the Portmaster|72|2022-05-10|
-|133|[pavangudiwada/kubernetesguides](https://github.com/pavangudiwada/kubernetesguides)|Simplified Visual guides for Kubernetes|71|2022-05-15|
-|134|[SAP-samples/hana-developer-cli-tool-example](https://github.com/SAP-samples/hana-developer-cli-tool-example)|Learn how to build a developer-centric SAP HANA command line tool, particularly designed to be used when performing SAP HANA development in non-SAP tooling (for example from VS Code).|71|2022-07-29|
-|135|[Sitecore/Helix.Examples](https://github.com/Sitecore/Helix.Examples)|Developer-focused examples of implementing the Sitecore Helix practices. |71|2022-08-01|
-|136|[cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx)|CSS snippets and themes for www.logseq.com|70|2022-05-06|
-|137|[princekrvert/Ravana](https://github.com/princekrvert/Ravana)|Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..|69|2022-05-18|
-|138|[cferdinandi/vanilla-js-toolkit](https://github.com/cferdinandi/vanilla-js-toolkit)|A growing collection of vanilla JavaScript code snippets, helper functions, polyfills, plugins, and learning resources.|68|2022-07-21|
-|139|[SoftUni/Programming-Basics-Book-CSharp-BG](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG)|Textbook for the "Programming Basics" course @ SoftUni (C#, Bulgarian)|68|2022-07-18|
-|140|[macports/macports-guide](https://github.com/macports/macports-guide)|A guide for MacPorts users and developers|65|2022-04-05|
-|141|[stripe-samples/connect-onboarding-for-standard](https://github.com/stripe-samples/connect-onboarding-for-standard)|Stripe Sample to show you how to use Connect Onboarding for Standard for seamless user on-boarding with Stripe Connect.|64|2022-07-28|
-|142|[reconmap/pentest-reports](https://github.com/reconmap/pentest-reports)|Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world.|62|2022-05-06|
-|143|[philhawksworth/rollyourownlazyload](https://github.com/philhawksworth/rollyourownlazyload)|Site to demo how to build your own lazy loading|62|2022-06-27|
-|144|[drasticactions/Archiverse](https://github.com/drasticactions/Archiverse)|Your guide into Archive Team's Miiverse grab!|62|2022-07-21|
-|145|[arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)|step by step guide for beginners for getting started with open source |61|2022-07-29|
-|146|[redianmarku/MesoOn](https://github.com/redianmarku/MesoOn)|Online learning platform with Django|61|2022-03-12|
-|147|[The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)|BigB is a E-learning website , covers all the Knowledgeable material from UNIVERSITY to UNIVERSE.😍😍|60|2022-05-14|
-|148|[cryptopotluck/plotly-dash-django-udemy](https://github.com/cryptopotluck/plotly-dash-django-udemy)|The tutorial I made on connecting django, dash & plotly together|60|2022-05-26|
-|149|[kevin-powell/slide-in-with-intersection-observer](https://github.com/kevin-powell/slide-in-with-intersection-observer)|Files for video tutorial on fading and sliding into view using intersection observers https://youtu.be/huVJW23JHKQ|59|2022-06-27|
-|150|[timothywarner/az400](https://github.com/timothywarner/az400)|Exam AZ-400: Microsoft Azure DevOps Solutions Crash Course|58|2022-02-16|
-|151|[dwyl/learn-jsdoc](https://github.com/dwyl/learn-jsdoc)|:blue_book: Use JSDoc and a few carefully crafted comments to document your JavaScript code! |57|2022-04-06|
-|152|[ElzeroWebSchool/Ultimate-Frontend](https://github.com/ElzeroWebSchool/Ultimate-Frontend)|Ultimate Front-End Course on Youtube|56|2022-02-12|
-|153|[phage-nz/infosec-bazaar](https://github.com/phage-nz/infosec-bazaar)|A collection of infosec related scripts and information.|56|2022-07-05|
-|154|[omariosouto/lucasflix](https://github.com/omariosouto/lucasflix)|Dicas de Typescript + React: https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#|52|2022-02-27|
-|155|[tupleapp/pair-programming-guide](https://github.com/tupleapp/pair-programming-guide)|Tuple's pair programming guide.|52|2022-04-15|
-|156|[SoftUni/Programming-Basics-Book-Python-BG](https://github.com/SoftUni/Programming-Basics-Book-Python-BG)|Textbook for the "Programming Basics" course @ SoftUni (Python, Bulgarian)|52|2022-07-18|
-|157|[w3c/wai-wcag-quickref](https://github.com/w3c/wai-wcag-quickref)|How to Meet WCAG (Quick Reference)|51|2022-06-27|
-|158|[erdoganbavas/web-practices](https://github.com/erdoganbavas/web-practices)|This project aims to hold a list of exercises for beginner frontend developer to practice their skills and create a path to solve some minor problems.|50|2022-07-08|
-|159|[SoftUni/Programming-Basics-Book-CSharp-EN](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN)|Textbook for the "Programming Basics" course @ SoftUni (C#, English)|49|2022-07-18|
-|160|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|48|2022-04-21|
-|161|[browneyedsoul/RemNote-CSS-Library](https://github.com/browneyedsoul/RemNote-CSS-Library)|A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition|48|2022-08-02|
-|162|[Platoniq/decidim-install](https://github.com/Platoniq/decidim-install)|A step-by-step guide to install Decidim on a production site|48|2022-07-22|
-|163|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|47|2022-05-18|
-|164|[liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)|The rendered book can be found at https://liulab-dfci.github.io/bioinfo-combio/|47|2022-04-05|
-|165|[Chhekur/local-browser](https://github.com/Chhekur/local-browser)|Share your localhost in a new way (peer to peer browser)|47|2022-06-17|
-|166|[knpuniversity/symfony](https://github.com/knpuniversity/symfony)|Screencast code, script and kittens behind the "Joyful Development with Symfony 3" Tutorial|47|2022-02-24|
-|167|[CloudFamily/CloudFamily](https://github.com/CloudFamily/CloudFamily)|The CloudFamily is a new initiative to try and bring the community together and share content.  We would like to promote people, the work they do and to have a place to come and find useful informatio ...|46|2022-03-14|
-|168|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|46|2022-07-28|
-|169|[wahyd4/knowledge](https://github.com/wahyd4/knowledge)|The IT things I've learned |46|2022-07-25|
-|170|[enspiral/handbook](https://github.com/enspiral/handbook)|http://handbook.enspiral.com|46|2022-03-17|
-|171|[r-devel/rdevguide](https://github.com/r-devel/rdevguide)|A guide to contributing to R core development|45|2022-07-22|
-|172|[kidd/scripting-field-guide](https://github.com/kidd/scripting-field-guide)|A booklet on mid-advanced scripting techniques|45|2022-06-29|
-|173|[vueschool/vuejs-components-fundamentals](https://github.com/vueschool/vuejs-components-fundamentals)|👩‍💻Source code for Vue.js Components Fundamentals course|45|2022-05-25|
-|174|[maeligg/console.love](https://github.com/maeligg/console.love)|A collection of funny, quirky and lovely console messages from around the web|45|2022-02-13|
-|175|[gradle/guides](https://github.com/gradle/guides)|The Gradle Guides at https://guides.gradle.org. |45|2022-03-31|
-|176|[happypeter/LGCB](https://github.com/happypeter/LGCB)|Linux Guide for Complete Beginners|45|2022-05-28|
-|177|[eazybytes/spring](https://github.com/eazybytes/spring)|Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples|44|2022-08-02|
-|178|[notion-enhancer/repo](https://github.com/notion-enhancer/repo)|the collection of mods run by the notion-enhancer|43|2022-08-01|
-|179|[cicerakes/DarkNight-FBMessenger](https://github.com/cicerakes/DarkNight-FBMessenger)|A dark/night theme for Facebook's inbox/messages and messenger.com.|43|2022-06-04|
-|180|[jh3y/a-guide-to-css-animation](https://github.com/jh3y/a-guide-to-css-animation)|Demo code for "A Guide to CSS Animation" |42|2022-02-12|
-|181|[rubygarage/rubygarage.github.com](https://github.com/rubygarage/rubygarage.github.com)|This repository contains slides for Ruby/Ruby on Rails courses from RubyGarage|42|2022-07-21|
-|182|[wrongakram/sass-mediaqueries](https://github.com/wrongakram/sass-mediaqueries)|A tutorial on using @eduardoboucas media queries|41|2022-07-20|
-|183|[kazemnejad/jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template)|Feature-rich and easy-to-use Jekyll website template for academic courses|41|2022-07-22|
-|184|[hanami/guides](https://github.com/hanami/guides)|Hanami Guides|41|2022-05-04|
-|185|[StylishThemes/Discourse-Dark](https://github.com/StylishThemes/Discourse-Dark)|🏛️ Darken Discourse forums|41|2022-07-06|
-|186|[openstack/cookbook-openstack-dashboard](https://github.com/openstack/cookbook-openstack-dashboard)|Chef Cookbook - OpenStack Dashboard. Mirror of code maintained at opendev.org.|41|2022-03-18|
-|187|[sudhamstarun/Understanding-Financial-Reports-using-Natural-Language-Processing](https://github.com/sudhamstarun/Understanding-Financial-Reports-using-Natural-Language-Processing)|Investigate how mutual funds leverage credit derivatives by studying their routine filings to the SEC using NLP techniques 📈🤑|40|2022-04-06|
-|188|[ahelland/AADGuide-CodeSamples](https://github.com/ahelland/AADGuide-CodeSamples)|Code Samples for AADGuide|40|2022-07-19|
-|189|[missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io)|Traditional Chinese translation of course "The Missing Semester of Your CS Education"|39|2022-07-22|
-|190|[RHieger/ng-book-angular-8](https://github.com/RHieger/ng-book-angular-8)|Course Work from The Complete Book on Angular 8|39|2022-04-29|
-|191|[cult-of-coders/meteor-tuts](https://github.com/cult-of-coders/meteor-tuts)|Meteor Tutorials - From Noob to PRO|38|2022-07-07|
-|192|[azavea/texturemap](https://github.com/azavea/texturemap)|Textures, patterns, and shapes that make web maps work for people with colorblindness. Built for Mapbox GL and MapLibre GL.|37|2022-04-23|
-|193|[AxonIQ/reference-guide](https://github.com/AxonIQ/reference-guide)|The Axon Reference Guide|37|2022-07-22|
-|194|[lorenzodelijser/lint-html-with-css](https://github.com/lorenzodelijser/lint-html-with-css)|Lint HTML with CSS. A collection of CSS snippets from the hashtag #lintHTMLwithCSS on twitter. These CSS snippets intend to warn developers about common mistakes made in HTML.|36|2022-06-25|
-|195|[mcthulhu/jorkens](https://github.com/mcthulhu/jorkens)|epub reader based on epub.js for foreign language learners|36|2022-06-17|
-|196|[PacktPublishing/Mastering-PostCSS-for-Web-Design](https://github.com/PacktPublishing/Mastering-PostCSS-for-Web-Design)|Mastering PostCSS for Web Design, published by Packt|36|2022-06-13|
-|197|[hibbitts-design/grav-skeleton-course-hub](https://github.com/hibbitts-design/grav-skeleton-course-hub)|Take LMS-constrained courses to the next level and empower tech-savvy educators with an open, collaborative and version-controlled workflow using Markdown and Grav. Includes Admin Panel and Git Sync.|36|2022-07-15|
-|198|[intuit/qb-animation-library](https://github.com/intuit/qb-animation-library)|CSS and SCSS for adding QuickBooks animation to your project.|35|2022-02-12|
-|199|[cloudcomputingpatterns/cloudcomputingpatterns.github.io](https://github.com/cloudcomputingpatterns/cloudcomputingpatterns.github.io)|http://www.cloudcomputingpatterns.org|35|2022-07-21|
-|200|[ShadowsDash/ShadowsDash](https://github.com/ShadowsDash/ShadowsDash)|A fully customizable shared-resources based dashboard for pterodactyl hosting services|34|2022-05-12|
+|1|[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36604|2023-07-16|
+|2|[dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes)|Custom Jupyter Notebook Themes|9668|2023-10-18|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8865|2023-10-13|
+|4|[kognise/water.css](https://github.com/kognise/water.css)|A drop-in collection of CSS styles to make simple websites just a little nicer|7987|2023-11-13|
+|5|[juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)|A list of public penetration test reports published by several consulting firms and academic security groups.|7326|2023-05-30|
+|6|[troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)|List of awesome CSS frameworks in 2023|6730|2023-10-22|
+|7|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4860|2023-09-17|
+|8|[jonasschmedtmann/advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)|Starter files, final projects and FAQ for my Advanced CSS course|4327|2023-11-09|
+|9|[adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)|Master the creation of Modern UX/UI Websites|3420|2023-10-15|
+|10|[MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)|Collection of userstyles affecting the browser|2534|2023-11-23|
+|11|[cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines)|A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.|2430|2023-11-13|
+|12|[rochacbruno/py2rs](https://github.com/rochacbruno/py2rs)|A quick reference guide for the Pythonista in the process of becoming a Rustacean|2052|2023-10-23|
+|13|[zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines)|A model set of guidelines for RESTful APIs and Events, created by Zalando|2002|2023-11-22|
+|14|[mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)|A series of plugins and themes for BetterDiscord.|1920|2023-11-24|
+|15|[clementmihailescu/Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer)|A visualization tool for various pathfinding algorithms.|1585|2023-09-23|
+|16|[erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004)|Floating Point Math Examples|1356|2023-11-13|
+|17|[seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench)|:house_with_garden: A Book for Anyone to Get Started with Unix|1240|2023-11-23|
+|18|[dend/awesome-product-management](https://github.com/dend/awesome-product-management)|🚀 A curated list of awesome resources for product/program managers to learn and grow.|1195|2023-11-06|
+|19|[trustedsec/SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide)|TrustedSec Sysinternals Sysmon Community Guide|1047|2023-08-10|
+|20|[data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki)|The best place to learn data engineering. Built and maintained by the data engineering community.|848|2023-11-15|
+|21|[ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)|Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith|792|2023-06-05|
+|22|[aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop)|AWS Workshop for Learning EKS|789|2023-11-02|
+|23|[microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs)|Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.|749|2023-11-17|
+|24|[SciML/SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl)|Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.|701|2023-09-04|
+|25|[Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3)|Code for Vue Mastery's Intro to Vue 3 course:|699|2023-10-24|
+|26|[stripe-samples/checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription)|Learn how to combine Checkout and Billing for fast subscription pages|670|2023-11-02|
+|27|[theicfire/vimsheet](https://github.com/theicfire/vimsheet)|Vim cheat sheet from beginners to pros|537|2023-09-22|
+|28|[starknet-edu/starknetbook](https://github.com/starknet-edu/starknetbook)|Mastering Starknet. By the Starknet community|532|2023-11-23|
+|29|[Shopify/shopify.github.com](https://github.com/Shopify/shopify.github.com)|A collection of the open source projects by Shopify|507|2023-07-10|
+|30|[nnja/python](https://github.com/nnja/python)|Front End Masters Python - Course Website at https://learnpython.dev|406|2023-10-01|
+|31|[sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)|Build Jekyll site with GitBook style!|384|2023-11-22|
+|32|[arkadianriver/spectral](https://github.com/arkadianriver/spectral)|A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo ...|384|2023-05-28|
+|33|[google/gsocguides](https://github.com/google/gsocguides)|Google Summer of Code Mentor and Student Guides|355|2023-11-23|
+|34|[belajarpythoncom/belajarpython.com](https://github.com/belajarpythoncom/belajarpython.com)|Open Source Indonesian Python Programming Tutorial Site|352|2023-10-15|
+|35|[hannesfrank/awesome-remnote](https://github.com/hannesfrank/awesome-remnote)|A curated list of RemNote plugins, themes, tutorials and other resources.|302|2023-07-26|
+|36|[MLH/mlh-hackathon-organizer-guide](https://github.com/MLH/mlh-hackathon-organizer-guide)|MLH Hackathon Organizer Guide|300|2023-10-11|
+|37|[saeiddrv/PythonPersianTutorial](https://github.com/saeiddrv/PythonPersianTutorial)|"Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.|288|2023-05-29|
+|38|[eazybytes/springsecurity6](https://github.com/eazybytes/springsecurity6)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|281|2023-08-04|
+|39|[narakeet/examples](https://github.com/narakeet/examples)|Samples and examples for Narakeet scripts|263|2023-07-22|
+|40|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|256|2023-06-04|
+|41|[hotosm/learnosm](https://github.com/hotosm/learnosm)|LearnOSM.org content, Jekyll layouts & issue tracking. This repository is dedicated to helping people learn how to map in OpenStreetMap (OSM) and use many of the software and tools in the OSM communit ...|245|2023-11-05|
+|42|[Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)|Source code to generate the "Hands-on Elixir & OTP: Cryptocurrency trading bot" book|240|2023-11-17|
+|43|[Bubblin-Superbooks/ABCD-Animal-Book](https://github.com/Bubblin-Superbooks/ABCD-Animal-Book)|:baby: Superbook: ABC's for babies!|239|2023-08-18|
+|44|[flaviut/nim-by-example](https://github.com/flaviut/nim-by-example)|A series of pages and examples for leaning the Nim Programing Language|235|2023-10-14|
+|45|[Automattic/syntaxhighlighter](https://github.com/Automattic/syntaxhighlighter)|WordPress plugin that makes it easy to post syntax-highlighted code snippets.|235|2023-11-22|
+|46|[directus/examples](https://github.com/directus/examples)|Integration Examples with Directus|234|2023-09-01|
+|47|[NicklasVraa/Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export)|Turn your obsidian notes into academic papers.|224|2023-08-16|
+|48|[juliasilge/supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course)|Supervised machine learning case studies in R! 💫 A free interactive tidymodels course |220|2023-06-19|
+|49|[allegro/restapi-guideline](https://github.com/allegro/restapi-guideline)|Allegro REST API Guideline.|175|2023-07-28|
+|50|[mraible/infoq-mini-book](https://github.com/mraible/infoq-mini-book)|Template project for creating an InfoQ Mini-Book with Asciidoctor|172|2023-11-20|
+|51|[vatlab/sos-notebook](https://github.com/vatlab/sos-notebook)|Multi-language Jupyter Notebook|165|2023-09-25|
+|52|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|153|2023-10-11|
+|53|[FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)|Version 2 of the Flexbox and Grid course at Frontend Masters.|144|2023-08-17|
+|54|[evilfactorylabs/learning-resources](https://github.com/evilfactorylabs/learning-resources)|a curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free to take a look and learn together!|143|2023-10-23|
+|55|[ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io)|A simple list of Ruby conferences|140|2023-11-22|
+|56|[safing/portmaster-ui](https://github.com/safing/portmaster-ui)|User Interfaces for Portmaster|139|2023-11-22|
+|57|[oscarotero/jquery-cheatsheet](https://github.com/oscarotero/jquery-cheatsheet)|jQuery interactive cheatsheet|136|2023-10-01|
+|58|[pickle69420/picklebox](https://github.com/pickle69420/picklebox)|PickleHub is a hub for students who are bored in school, contained in a bookmarklet!|122|2023-09-05|
+|59|[Remedy-Entertainment/USDBook](https://github.com/Remedy-Entertainment/USDBook)|Book of USD source repository.|122|2023-06-20|
+|60|[Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector)|Injects search results from the linkding bookmark service into search pages like google and duckduckgo|122|2023-11-05|
+|61|[dmbaturin/ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org)|A free (as in freedom) OCaml textbook|120|2023-09-27|
+|62|[dheereshagrwal/colored-icons](https://github.com/dheereshagrwal/colored-icons)|The colored icons library is a collection of brand logos and tech stack logos. It's a handy resource to easily add brand icons to your projects without the hassle of manual attribution.|116|2023-10-21|
+|63|[bbc/gel-typography](https://github.com/bbc/gel-typography)|A flexible code implementation of the GEL Typography Guidelines|113|2023-08-18|
+|64|[emetdas/Youtube-code](https://github.com/emetdas/Youtube-code)|web design master project for beginner to advanced|111|2023-11-22|
+|65|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|108|2023-10-06|
+|66|[oleg-koval/counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev)|a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.|103|2023-11-15|
+|67|[catppuccin/mdBook](https://github.com/catppuccin/mdBook)|🎊 Soothing pastel theme for mdBook|100|2023-11-11|
+|68|[macports/macports-guide](https://github.com/macports/macports-guide)|A guide for MacPorts users and developers|95|2023-11-14|
+|69|[stripe-samples/connect-onboarding-for-standard](https://github.com/stripe-samples/connect-onboarding-for-standard)|Stripe Sample to show you how to use Connect Onboarding for Standard for seamless user on-boarding with Stripe Connect.|93|2023-08-31|
+|70|[d2s/companies](https://github.com/d2s/companies)|:cloud: 2016–2022→ — List of companies using GitHub. Together with a list of programming languages used in their public Git repositories.|92|2023-11-22|
+|71|[enjeck/btns](https://github.com/enjeck/btns)|A collection of buttons with cool hover effects|89|2023-10-02|
+|72|[tecladocode/web-dev-bootcamp](https://github.com/tecladocode/web-dev-bootcamp)|Complete course and guide of the "Web Developer Bootcamp with Flask and Python"|89|2023-07-11|
+|73|[wasimreja/book-finder](https://github.com/wasimreja/book-finder)|Find the book you want to read next!|88|2023-06-24|
+|74|[SAP-samples/hana-developer-cli-tool-example](https://github.com/SAP-samples/hana-developer-cli-tool-example)|Learn how to build a developer-centric SAP HANA command line tool, particularly designed to be used when performing SAP HANA development in non-SAP tooling (for example from VS Code).|86|2023-11-16|
+|75|[engineersCode/EngComp](https://github.com/engineersCode/EngComp)|A set of learning modules in computing for engineering undergraduate students.|85|2023-10-11|
+|76|[p2panda/handbook](https://github.com/p2panda/handbook)|Website with tutorials, specification, info and learn sections of p2:panda_face:|84|2023-11-11|
+|77|[Redundakitties/colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist)|collection of sidebery tweaks feat. autohiding & colored tabs|81|2023-09-07|
+|78|[SoftUni/Programming-Basics-Book-CSharp-BG](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG)|Textbook for the "Programming Basics" course @ SoftUni (C#, Bulgarian)|81|2023-09-29|
+|79|[scidsg/relaylove](https://github.com/scidsg/relaylove)|❄️ Temporarily Share Your Bandwidth|79|2023-09-29|
+|80|[stripe-samples/saving-card-after-payment](https://github.com/stripe-samples/saving-card-after-payment)|Learn how to save a card for later reuse after making a payment|78|2023-07-25|
+|81|[dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)|📚 Introduction to Algorithms|75|2023-09-04|
+|82|[cferdinandi/vanilla-js-toolkit](https://github.com/cferdinandi/vanilla-js-toolkit)|A growing collection of vanilla JavaScript code snippets, helper functions, polyfills, plugins, and learning resources.|74|2023-10-26|
+|83|[Ritika-Agrawal811/css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets)|A collection of real-life code snippets written in CSS and JavaScript for every web development project.|73|2023-11-22|
+|84|[HomagGroup/Blazor3D](https://github.com/HomagGroup/Blazor3D)|Examples of using the Blazor component that displays 3D things :) Blazor + ThreeJS = Blazor3D|72|2023-08-07|
+|85|[X3NNY/sstilabs](https://github.com/X3NNY/sstilabs)|A lab to help you learning SSTI|70|2023-08-30|
+|86|[IdleEndeavor/booksearch](https://github.com/IdleEndeavor/booksearch)|A Simple Search Engine to help you find FREE Download Links to your Favourite Books|69|2023-08-13|
+|87|[arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)|step by step guide for beginners for getting started with open source |67|2023-06-06|
+|88|[SoftUni/Programming-Basics-Book-Python-BG](https://github.com/SoftUni/Programming-Basics-Book-Python-BG)|Textbook for the "Programming Basics" course @ SoftUni (Python, Bulgarian)|67|2023-11-02|
+|89|[Vanilla-OS/handbook](https://github.com/Vanilla-OS/handbook)|Vanilla OS Handbook. Documentation, guides and other useful stuff for users.|66|2023-11-03|
+|90|[godot-rust/gdnative-book](https://github.com/godot-rust/gdnative-book)|The user guide for godot-rust.|65|2023-10-10|
+|91|[zabore/tutorials](https://github.com/zabore/tutorials)|A repository for tutorials I have linked to my website|64|2023-06-21|
+|92|[erdoganbavas/web-practices](https://github.com/erdoganbavas/web-practices)|This project aims to hold a list of exercises for beginner frontend developer to practice their skills and create a path to solve some minor problems.|63|2023-10-22|
+|93|[Anupya/JapaneseTab](https://github.com/Anupya/JapaneseTab)|A Chrome extension that helps you learn Japanese with every new tab   :red_circle:|63|2023-11-03|
+|94|[roberto-butti/some-drops-of-php](https://github.com/roberto-butti/some-drops-of-php)|"Some drops of PHP", this book collects some useful, unknown, underrated PHP functions discovered and learned while using PHP daily.|59|2023-11-12|
+|95|[tupleapp/pair-programming-guide](https://github.com/tupleapp/pair-programming-guide)|Tuple's pair programming guide.|59|2023-07-12|
+|96|[docusign/postman-collections](https://github.com/docusign/postman-collections)|A easy guide to Getting Started with DocuSign APIs using Postman. Showcases recipes and all REST API endpoints|59|2023-11-13|
+|97|[wpcodevo/nextjs13-redux-toolkit](https://github.com/wpcodevo/nextjs13-redux-toolkit)|In this tutorial, you'll learn how to set up and use Redux Toolkit and RTK Query in your Next.js 13 project. It's worth noting that at the time of writing, Next.js 13 is still in beta.|57|2023-11-05|
+|98|[zamsyt/obsidian-snippets](https://github.com/zamsyt/obsidian-snippets)|CSS snippets for Obsidian|56|2023-06-10|
+|99|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|55|2023-07-18|
+|100|[MatthiasBenaets/boilerplates](https://github.com/MatthiasBenaets/boilerplates)|A collection of quick starters for docker, linux, and more used for selfhosting.|54|2023-09-24|
+|101|[oscarotero/deno-cheatsheet](https://github.com/oscarotero/deno-cheatsheet)|Deno cheat sheet with APIs and tools|53|2023-11-06|
+|102|[rh-mobb/documentation](https://github.com/rh-mobb/documentation)|Step-by-step tutorials from Red Hat experts to help you get the most out of your Managed OpenShift cluster.|53|2023-11-07|
+|103|[aemgeeks1212/aemgeeks](https://github.com/aemgeeks1212/aemgeeks)|AEM code repository for demo and tutorials. |53|2023-07-14|
+|104|[GordonSmith/vscode-ojs](https://github.com/GordonSmith/vscode-ojs)|VS Code extension for ObservableHQ notebooks|51|2023-10-12|
+|105|[frontend-joe/css-menus](https://github.com/frontend-joe/css-menus)|Collection of menu concepts built with HTML, CSS and JavaScript|50|2023-10-23|
+|106|[hanami/guides](https://github.com/hanami/guides)|Hanami Guides|50|2023-11-14|
+|107|[kidd/scripting-field-guide](https://github.com/kidd/scripting-field-guide)|A booklet on mid-advanced scripting techniques|49|2023-11-21|
+|108|[stripe-samples/placing-a-hold](https://github.com/stripe-samples/placing-a-hold)|Learn how to place a hold on a credit card (split auth / capture)|49|2023-07-25|
+|109|[cicerakes/DarkNight-FBMessenger](https://github.com/cicerakes/DarkNight-FBMessenger)|A dark/night theme for Facebook's inbox/messages and messenger.com.|49|2023-10-27|
+|110|[xonsh/awesome-xontribs](https://github.com/xonsh/awesome-xontribs)|Awesome list of Xonsh contributions/extensions|48|2023-10-02|
+|111|[CloudFamily/CloudFamily](https://github.com/CloudFamily/CloudFamily)|The CloudFamily is an initiative to try and bring the community together and share content. Let's learn, network and grow!|48|2023-11-02|
+|112|[contributor-experience/handbook](https://github.com/contributor-experience/handbook)|The Contributor Experience Handbook|47|2023-11-11|
+|113|[Zack-Dx/Discord-clone-project](https://github.com/Zack-Dx/Discord-clone-project)|Discord Site Landing Page CLONE! A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star.🌟 Have a great day!|46|2023-10-12|
+|114|[infinitered/ignite-cookbook](https://github.com/infinitered/ignite-cookbook)|Ignite Cookbook for React Native|46|2023-11-18|
+|115|[rcvd/Tana-CSS-Snippets](https://github.com/rcvd/Tana-CSS-Snippets)|A repository with useful CSS snippets improving Tana's already awesome UI.|45|2023-06-12|
+|116|[ShadowsDash/ShadowsDash](https://github.com/ShadowsDash/ShadowsDash)|A fully customizable shared-resources based dashboard for pterodactyl hosting services|45|2023-07-04|
+|117|[k8spatterns/k8spatterns.io](https://github.com/k8spatterns/k8spatterns.io)|Website for k8spatterns.io|43|2023-07-20|
+|118|[varunKT001/awesome-javascript-projects](https://github.com/varunKT001/awesome-javascript-projects)|A collection of awesome projects made using plain HTML, CSS, and JavaScript|42|2023-10-03|
+|119|[hibbitts-design/grav-skeleton-course-hub](https://github.com/hibbitts-design/grav-skeleton-course-hub)|Take LMS-constrained courses to the next level and empower tech-savvy educators with an open, collaborative and version-controlled workflow using Markdown and Grav. Includes Admin Panel and Git Sync.|42|2023-10-12|
+|120|[arranger1044/probabilistic-circuits](https://github.com/arranger1044/probabilistic-circuits)|  A curated collection of papers on probabilistic circuits, computational graphs encoding tractable probability distributions.|41|2023-08-20|
+|121|[cloudcomputingpatterns/cloudcomputingpatterns.github.io](https://github.com/cloudcomputingpatterns/cloudcomputingpatterns.github.io)|http://www.cloudcomputingpatterns.org|41|2023-09-04|
+|122|[AxonIQ/reference-guide](https://github.com/AxonIQ/reference-guide)|The Axon Reference Guide|40|2023-11-22|
+|123|[ahelland/AADGuide-CodeSamples](https://github.com/ahelland/AADGuide-CodeSamples)|Code Samples for AADGuide|39|2023-05-31|
+|124|[lwjglgamedev/lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents)|Book contents for the book "3D Game Development with LWJGL 3"|38|2023-09-09|
+|125|[CodingForEverybody/rocketman](https://github.com/CodingForEverybody/rocketman)|The source code for Wagtail for Beginners Course (rocketman.learnwagtail.com)|38|2023-09-07|
+|126|[se-edu/se-book](https://github.com/se-edu/se-book)|:book: Online Book: Software Engineering for Self-Directed Learners|38|2023-10-24|
+|127|[techno-tim/100-days-of-homelab-site](https://github.com/techno-tim/100-days-of-homelab-site)|#100daysofhomelab The 100 Days of HomeLab Home Page|37|2023-11-12|
+|128|[samipak458/Simple-Library-Managment](https://github.com/samipak458/Simple-Library-Managment)|A simple library management project that is easy to use and helps learners understand the basic concept of JS. |37|2023-10-29|
+|129|[mavlink/qgc-user-guide](https://github.com/mavlink/qgc-user-guide)|QGroundControl User Guide (Gitbook source)|37|2023-08-10|
+|130|[frontend-joe/es6-signups](https://github.com/frontend-joe/es6-signups)|Collection of signup pages showcases many useful controls|36|2023-08-23|
+|131|[rnd195/my-marp-themes](https://github.com/rnd195/my-marp-themes)|Collection of my CSS themes for Marp Markdown presentations|36|2023-10-28|
+|132|[vueschool/vuejs-3-fundamentals](https://github.com/vueschool/vuejs-3-fundamentals)|🗂  Source code for the Vue.js 3 Fundamentals course|36|2023-08-23|
+|133|[webifier/build](https://github.com/webifier/build)|A GitHub Action to deploy Notebooks, Markdowns, ... to GitHub Pages|35|2023-09-15|
+|134|[devonzuegel/digital-nesting](https://github.com/devonzuegel/digital-nesting)|Devon's collection of custom CSS|35|2023-09-23|
+|135|[ManticoreGamesInc/platform-documentation](https://github.com/ManticoreGamesInc/platform-documentation)|Core Platform API Documentation & Tutorials|35|2023-08-28|
+|136|[ddotta/cookbook-rpolars](https://github.com/ddotta/cookbook-rpolars)|Cookbook to provide solutions to common tasks and problems in using Polars with R|34|2023-08-28|
+|137|[wasmCloud/interfaces](https://github.com/wasmCloud/interfaces)|wasmCloud API interfaces: smithy IDLs and shared libraries|34|2023-10-24|
+|138|[precondition/precondition.github.io](https://github.com/precondition/precondition.github.io)|Personal Weblog with tools and guides for QMK keyboards. Home of the home row mods guide|34|2023-10-10|
+|139|[zahariev-webbersof/python-fundamentals-05-2023](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)|In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University|33|2023-07-27|
+|140|[cplusplus/SG20](https://github.com/cplusplus/SG20)|Study Group 20: Education|33|2023-10-27|
+|141|[UrbanInstitute/graphics-styleguide](https://github.com/UrbanInstitute/graphics-styleguide)|Urban's data visualization styleguide|33|2023-08-17|
+|142|[debrajrout/DevOps](https://github.com/debrajrout/DevOps)|This repository has been created to allow developers and open-source enthusiasts come together to contribute to various projects and learn from each other.|32|2023-10-24|
+|143|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|32|2023-10-30|
+|144|[Frnt-End/Update-React-in-GitHub-Pages](https://github.com/Frnt-End/Update-React-in-GitHub-Pages)|:atom_symbol: React project - How to update React in GitHub Pages Tutorial :octocat::computer: check out quick solution here: https://frnt-end.github.io/Update-React-in-GitHub-Pages/ or read the full  ...|32|2023-08-13|
+|145|[Leetcore/1337-observer](https://github.com/Leetcore/1337-observer)|Eine Sammlung von Scripten, Fuzzinglisten und Tutorials zum Pentesting, Hacking und für CTFs.|32|2023-09-29|
+|146|[FreeFem/FreeFem-modules](https://github.com/FreeFem/FreeFem-modules)|A collection of mathematically validated modules (EDP) for FreeFEM|32|2023-06-23|
+|147|[stefan-kolb/cloud-conferences](https://github.com/stefan-kolb/cloud-conferences)|A collection of scientific and industry conferences focused on cloud computing.|32|2023-10-12|
+|148|[vinsky001/ALX-DarkMode-project](https://github.com/vinsky001/ALX-DarkMode-project)|This is a simple chrome extension for The ALX SE Intranet Dashboard. The extension allows you to switch between two themes - light mode (by default) and dark mode. It provides an easy and convenient w ...|31|2023-07-27|
+|149|[csfaculty/csfaculty.github.io](https://github.com/csfaculty/csfaculty.github.io)|Interview questions for Computer Science faculty jobs|31|2023-07-01|
+|150|[stripe-samples/connect-onboarding-for-express](https://github.com/stripe-samples/connect-onboarding-for-express)|Stripe Sample to show you how to use Connect Onboarding for Express for seamless user on-boarding with Stripe Connect.|31|2023-08-31|
+|151|[frontend-joe/css-dropdowns](https://github.com/frontend-joe/css-dropdowns)|Collection of dropdown components built using HTML and CSS|30|2023-07-08|
+|152|[Ksound22/JabTV-Landing-Page](https://github.com/Ksound22/JabTV-Landing-Page)|A Landing page tutorial for freecodecamp publication readers|30|2023-07-03|
+|153|[frontend-joe/css-logins](https://github.com/frontend-joe/css-logins)|Collection of login pages built using CSS|28|2023-10-03|
+|154|[Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes)|A collection of note types for Anki 2.1|28|2023-08-21|
+|155|[jbgoldman1104/Bookings-and-Reservations-in-GoLang](https://github.com/jbgoldman1104/Bookings-and-Reservations-in-GoLang)|Bookings and Reservations in GoLang|27|2023-06-24|
+|156|[cypress-io/cypress-workshop-ci](https://github.com/cypress-io/cypress-workshop-ci)|A workshop that teaches you how to run Cypress on major CI providers|27|2023-05-31|
+|157|[zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar)|Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS|27|2023-10-24|
+|158|[aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops](https://github.com/aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops)|Amazon EKS and Amazon EC2 container networking workshop. Customers will learn basics of container networking and advanced concepts of CNI operations within Amazon EKS and `kops` clusters.|27|2023-11-06|
+|159|[madetech/learn](https://github.com/madetech/learn)|Learning materials for software delivery|27|2023-10-18|
+|160|[wagmi-dev/vitepress-plugin-shiki-twoslash](https://github.com/wagmi-dev/vitepress-plugin-shiki-twoslash)|Static code examples for VitePress using Shiki Twoslash|26|2023-10-11|
+|161|[Webklex/tbm](https://github.com/Webklex/tbm)|Fetch all your bookmarked tweets and make them accessible through a webinterface.|26|2023-07-05|
+|162|[matthewmx86/RetroThemesFirefox](https://github.com/matthewmx86/RetroThemesFirefox)|A collection of old browser themes for Firefox.|26|2023-07-22|
+|163|[pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)|A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi.|26|2023-11-23|
+|164|[chromaui/intro-storybook-react-template](https://github.com/chromaui/intro-storybook-react-template)|Boilerplate template for the Intro to Storybook tutorial for React|26|2023-11-07|
+|165|[DaBluLite/css-snippets](https://github.com/DaBluLite/css-snippets)|A repo with all of my Discord CSS snippets.|25|2023-11-18|
+|166|[KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner)|Personal Obsidian Enhanced CSS snippet|25|2023-10-11|
+|167|[LifeGoal/elite_deathscreen](https://github.com/LifeGoal/elite_deathscreen)|A Fivem Deathscreen for QBCore Framework. No full resource, just code-snippets for qb-ambulancejob. Enjoy!|25|2023-10-14|
+|168|[Strumenta/StarLasu](https://github.com/Strumenta/StarLasu)|A collection of libraries to work with languages from Java, Kotlin, Python, Javascript, and Typescript|25|2023-11-20|
+|169|[conedevelopment/bite-sized-a11y](https://github.com/conedevelopment/bite-sized-a11y)|Quick and Small Accessibility - Learn something new about accessibility with short and solid articles (less than 150 words).|25|2023-10-12|
+|170|[bkpsu/openhab2-conf-bartus](https://github.com/bkpsu/openhab2-conf-bartus)|My collection of openHAB2 configuration files.|25|2023-07-29|
+|171|[bgplab/bgplab](https://github.com/bgplab/bgplab)|Master BGP configuration with this set of virtual labs|24|2023-11-24|
+|172|[dojoengine/book](https://github.com/dojoengine/book)|The Dojo Book|24|2023-11-22|
+|173|[VelzckC0D3/Velzck_Festival](https://github.com/VelzckC0D3/Velzck_Festival)|In this capstone project, I demonstrated how to manage the DOM properly using Vanilla JavaScript. I was able to develop a dynamic and responsive website that showcases my improved skills, while also i ...|24|2023-08-19|
+|174|[ericmiguel/jupyterlab-simpledark](https://github.com/ericmiguel/jupyterlab-simpledark)|A (growing) dark theme collection for JupyterLab.|24|2023-08-16|
+|175|[TwoGenius/HacktoberFest2022](https://github.com/TwoGenius/HacktoberFest2022)|Make contribution and learn open-source|23|2023-06-03|
+|176|[r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)|Mastering Shiny Book Club|23|2023-09-10|
+|177|[manastech/handbook](https://github.com/manastech/handbook)|Manas Handbook|23|2023-11-15|
+|178|[bedimcode/responsive-book-website](https://github.com/bedimcode/responsive-book-website)|Responsive Book Website Design Using HTML CSS & JavaScript|22|2023-10-23|
+|179|[r12f/sonic-book](https://github.com/r12f/sonic-book)|The real "Getting Started" book for SONiC operating system.|22|2023-08-17|
+|180|[frontend-joe/css-carousels](https://github.com/frontend-joe/css-carousels)|Collection of simple carousel components made with just HTML and CSS|22|2023-09-04|
+|181|[ByteGrad/Professional-JavaScript-Course](https://github.com/ByteGrad/Professional-JavaScript-Course)|This repo contains everything you need as a student of the Professional JavaScript Course by ByteGrad.com|22|2023-09-09|
+|182|[yayner2002/myPortfolio](https://github.com/yayner2002/myPortfolio)|A portfolio webiste designed to make web developers design thier own portfolio. Users can see the list of previously made projects, send message through email and it also supports both mobile and desk ...|22|2023-09-13|
+|183|[ashutoshkrris/Random-APIs](https://github.com/ashutoshkrris/Random-APIs)|A place for new contributors to learn how to consume their APIs and contribute to open-source. Part of Hacktoberfest.|22|2023-07-03|
+|184|[snipcart/django-ecommerce-wagtail-v3](https://github.com/snipcart/django-ecommerce-wagtail-v3)|You can read the full tutorial at https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms   This is an updated version of this repo https://github.com/snipcart/django-ecommerce-wagtail. We now ...|22|2023-08-04|
+|185|[DenverCoder1/Responsive-Birthday-Card](https://github.com/DenverCoder1/Responsive-Birthday-Card)|Responsive Card with HTML and CSS + YouTube tutorial|22|2023-07-28|
+|186|[ministryofjustice/acronyms](https://github.com/ministryofjustice/acronyms)|List of abbreviations used within the MoJ, and their definitions|22|2023-11-17|
+|187|[micker/mod_dashboard](https://github.com/micker/mod_dashboard)|Module Dashboard features Joomla admin module is a lighter and flexible module admin for Joomla!. No need component or big framwork. All is in module, with font-icon. You can display it in cpanel posi ...|22|2023-11-21|
+|188|[tanykim/best-bookshelf](https://github.com/tanykim/best-bookshelf)|Visualization of the New York Times Best Books|22|2023-10-05|
+|189|[mrfearless/creating-controls-in-assembler](https://github.com/mrfearless/creating-controls-in-assembler)|Gitbook: https://mrfearless.gitbooks.io/creating-controls-in-assembler|22|2023-10-03|
+|190|[bufbuild/protobuf.com](https://github.com/bufbuild/protobuf.com)|Buf's Guide to Protobuf. Home of the language spec and grammar for the Protobuf IDL.|21|2023-10-27|
+|191|[calee0219/leetcode-following](https://github.com/calee0219/leetcode-following)|Chrome extension to follow friends on LeetCode|21|2023-10-23|
+|192|[WebexSamples/webex-contact-center-api-samples](https://github.com/WebexSamples/webex-contact-center-api-samples)|Official Code samples & snippets repository for Webex Contact Center APIs|21|2023-11-24|
+|193|[rhaiscript/book](https://github.com/rhaiscript/book)|The Rhai Book.|21|2023-09-11|
+|194|[MadeWithCards/AdaptiveCardsStudio](https://github.com/MadeWithCards/AdaptiveCardsStudio)|Visual Studio Code Extension to help create AdaptiveCards. The extension not only allows you to see the card you're working on but also comes with nice snippets and helpfull utilities. |21|2023-06-25|
+|195|[mainwp/mainwp-custom-dashboard-extension-examples](https://github.com/mainwp/mainwp-custom-dashboard-extension-examples)|PHP, CSS and JS code snippet examples for MainWP Dashboard customisation. |21|2023-09-22|
+|196|[d-ivashchuk/animating-gatsby-pt](https://github.com/d-ivashchuk/animating-gatsby-pt)|Code for tutorial on how to animate page transitions in Gatsby|21|2023-06-09|
+|197|[B00merang-Project/Mac-OS-X-Cheetah](https://github.com/B00merang-Project/Mac-OS-X-Cheetah)|Mac OS theme with the Aqua design guidelines|21|2023-06-21|
+|198|[lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates)|A collection of templates for Obsidian|20|2023-11-13|
+|199|[jakerella/booker](https://github.com/jakerella/booker)|A framework for generating pdf & epub books from markdown files|20|2023-08-05|
+|200|[sinkyoungdeok/TIL](https://github.com/sinkyoungdeok/TIL)|Today I Learned |20|2023-10-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
