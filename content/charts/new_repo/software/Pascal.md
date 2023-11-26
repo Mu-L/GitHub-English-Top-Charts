@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxlox/GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password|417|2023-09-28|2023-07-19|
-|2|[HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT)|ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)|305|2023-11-16|2023-01-19|
+|1|[foxlox/GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password|418|2023-09-28|2023-07-19|
+|2|[HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT)|ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)|306|2023-11-16|2023-01-19|
 |3|[AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard)|A ChatGPT, WriteSonic, and YouChat plug-in for Embarcadero RAD Studio IDE 10.1 and later versions. https://getitnow.embarcadero.com/chatgptwizard|190|2023-11-24|2023-01-12|
-|4|[HemulGM/DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI)|OpenAI API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper and other products.|187|2023-11-24|2023-01-10|
+|4|[HemulGM/DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI)|OpenAI API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper and other products.|187|2023-11-25|2023-01-10|
 |5|[leahneukirchen/dosfetch](https://github.com/leahneukirchen/dosfetch)|NeoFetch clone for DOS|125|2023-08-28|2023-07-29|
 |6|[PhrozenIO/DLest](https://github.com/PhrozenIO/DLest)|-|113|2023-11-09|2022-12-14|
 |7|[landgraf-dev/openai-delphi](https://github.com/landgraf-dev/openai-delphi)|OpenAI API client for Delphi and Lazarus/FPC. Use ChatGPT, DALL-E and other products from Pascal language.|104|2023-11-13|2023-01-09|
@@ -32,10 +32,10 @@
 |25|[wakatime/delphi-wakatime](https://github.com/wakatime/delphi-wakatime)|Embarcadero Delphi plugin for automatic time tracking and metrics generated from your programming activity.|26|2023-11-08|2023-06-16|
 |26|[HemulGM/HGMGetIt](https://github.com/HemulGM/HGMGetIt)|HGMGetIt|26|2023-07-15|2023-03-10|
 |27|[sacfiscal/eanpictures](https://github.com/sacfiscal/eanpictures)|Backend Delphi Horse MySql para consultas de produtos por EAN/GTIN|25|2023-08-25|2023-08-10|
-|28|[GadZombie/sadist](https://github.com/GadZombie/sadist)|Sadist - An old classic DOS game from 1998|25|2023-06-18|2023-05-20|
-|29|[geoffsmith82/Symposium2023](https://github.com/geoffsmith82/Symposium2023)|Demonstrates Voice Recognition, Text to Speech, Language Translation, OAuth2, Image Generation, Face Detection and Voice Chatbot. Source code and Documentation for my 2023 ADUG Symposium Talk. |25|2023-11-07|2023-03-17|
-|30|[Codrax/CodrutsVisualLibrary](https://github.com/Codrax/CodrutsVisualLibrary)|A suite of component similar to the Fluent Design System in Microsoft Windows 11. Components & Units are made in Delphi|25|2023-11-10|2023-01-31|
-|31|[FrankBijnen/ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool|24|2023-11-24|2023-07-27|
+|28|[FrankBijnen/ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool|25|2023-11-25|2023-07-27|
+|29|[GadZombie/sadist](https://github.com/GadZombie/sadist)|Sadist - An old classic DOS game from 1998|25|2023-06-18|2023-05-20|
+|30|[geoffsmith82/Symposium2023](https://github.com/geoffsmith82/Symposium2023)|Demonstrates Voice Recognition, Text to Speech, Language Translation, OAuth2, Image Generation, Face Detection and Voice Chatbot. Source code and Documentation for my 2023 ADUG Symposium Talk. |25|2023-11-07|2023-03-17|
+|31|[Codrax/CodrutsVisualLibrary](https://github.com/Codrax/CodrutsVisualLibrary)|A suite of component similar to the Fluent Design System in Microsoft Windows 11. Components & Units are made in Delphi|25|2023-11-10|2023-01-31|
 |32|[playcom-de/Console](https://github.com/playcom-de/Console)|Library for Windows Console Applications using crt.pas|24|2023-10-17|2023-06-26|
 |33|[hshatti/TONNXRuntime](https://github.com/hshatti/TONNXRuntime)|TOnnxRuntime is  a Microsoft ONNXRuntime AI and Machine Learning Library for Freepascal / Delphi|24|2023-06-05|2022-12-24|
 |34|[Code4Delphi/Code4D-Wizard](https://github.com/Code4Delphi/Code4D-Wizard)|Wizard for Delphi IDE - Open Tools API|23|2023-10-18|2023-04-12|
@@ -92,7 +92,7 @@
 |85|[PacktPublishing/Delphi-High-Performance---Second-Edition](https://github.com/PacktPublishing/Delphi-High-Performance---Second-Edition)| Delphi High Performance - Second Edition by Packt Publishing|9|2023-07-03|2023-03-03|
 |86|[SamerAssil/ScratchCard](https://github.com/SamerAssil/ScratchCard)|Skia4Delphi test|8|2023-08-02|2023-08-02|
 |87|[antoniojmsjr/Base64Bitmap](https://github.com/antoniojmsjr/Base64Bitmap)|Biblioteca de codificação e decodificação de imagem(Bitmap) em Base64.|8|2023-10-10|2023-07-25|
-|88|[wanderlan/LitePascal](https://github.com/wanderlan/LitePascal)|Self host Object Pascal compiler with < 8000 sloc|8|2023-11-24|2023-07-07|
+|88|[wanderlan/LitePascal](https://github.com/wanderlan/LitePascal)|Self host Object Pascal compiler with < 8000 sloc|8|2023-11-25|2023-07-07|
 |89|[GuvaCode/UnRecord](https://github.com/GuvaCode/UnRecord)|Simple radio player used Radio Record API|8|2023-07-04|2023-07-01|
 |90|[anomous/Warez-RadiXX11-RCE](https://github.com/anomous/Warez-RadiXX11-RCE)|Warez - Patches, Generic Hooks, Keygens and Cracks from releaser and reverse engineer - RadiXX11|8|2023-08-12|2023-05-25|
 |91|[Codrax/iBroadcast-For-Windows](https://github.com/Codrax/iBroadcast-For-Windows)|A unofficial 3rd party iBroadcast client for Windows. Developed in Delphi on the x64 arhitecture|8|2023-11-11|2023-04-29|

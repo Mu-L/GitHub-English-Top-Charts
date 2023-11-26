@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[academind/flutter-complete-guide-course-resources](https://github.com/academind/flutter-complete-guide-course-resources)|Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).|1021|2023-11-02|2023-04-05|
-|2|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|321|2023-11-20|2023-04-16|
+|2|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|323|2023-11-20|2023-04-16|
 |3|[Roaa94/flutter_airbnb_ui](https://github.com/Roaa94/flutter_airbnb_ui)|Flutter implementation of the Airbnb book flip UI|257|2023-05-27|2023-05-22|
 |4|[Myzel394/locus](https://github.com/Myzel394/locus)|Share your location end-to-end encrypted on decentralized servers using Nostr.|151|2023-11-11|2023-02-12|
 |5|[martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection)|A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩.|150|2023-07-08|2023-01-18|
 |6|[slightfoot/flutter_tips_and_tricks](https://github.com/slightfoot/flutter_tips_and_tricks)|Flutter Tips and Tricks - Talk - Fluttercon23 Berlin|118|2023-08-07|2023-07-02|
-|7|[Yczar/wtf-dart](https://github.com/Yczar/wtf-dart)|😮‍💨 A list of tricky Dart & Flutter Examples|90|2023-11-14|2023-04-02|
+|7|[Yczar/wtf-dart](https://github.com/Yczar/wtf-dart)|😮‍💨 A list of tricky Dart & Flutter Examples|89|2023-11-14|2023-04-02|
 |8|[cscoderr/flutter_advance](https://github.com/cscoderr/flutter_advance)|A collection of custom/advance Flutter design, animations and UI |77|2023-10-17|2022-12-31|
 |9|[huynguyennovem/netshare](https://github.com/huynguyennovem/netshare)|An open-source Flutter project that makes it easy to share data in a local network|76|2023-10-08|2023-01-09|
 |10|[bizz84/flutter-firebase-masterclass](https://github.com/bizz84/flutter-firebase-masterclass)|Flutter & Firebase Masterclass|66|2023-11-18|2023-02-22|
 |11|[Yczar/dart-clean-code](https://github.com/Yczar/dart-clean-code)|This repository was born out of an immersive journey through Robert C. Martin's seminal work, 'Clean Code.' It reflects my endeavor to translate the wisdom and guidelines from this transformative book ...|64|2023-06-15|2023-06-13|
 |12|[rive-app/rive-gamekit-examples](https://github.com/rive-app/rive-gamekit-examples)|A collection of examples using Rive GameKit|59|2023-07-03|2023-04-20|
-|13|[Muzammil-Bilwani/dart-flutter-tutorial](https://github.com/Muzammil-Bilwani/dart-flutter-tutorial)|Tutorial code base for learning|38|2023-08-12|2023-02-18|
+|13|[Muzammil-Bilwani/dart-flutter-tutorial](https://github.com/Muzammil-Bilwani/dart-flutter-tutorial)|Tutorial code base for learning|39|2023-08-12|2023-02-18|
 |14|[Roaa94/flutter_generative_art](https://github.com/Roaa94/flutter_generative_art)|Generative Art Examples with Flutter|37|2023-08-09|2023-07-09|
 |15|[sownt/android-studyjams](https://github.com/sownt/android-studyjams)|Google Developer Profile Validator for Android Study Jams|36|2023-11-11|2023-07-18|
 |16|[abuanwar072/Flutter-Course-Amplify-Recipe-App](https://github.com/abuanwar072/Flutter-Course-Amplify-Recipe-App)|Welcome to our Complete Flutter Course. If you've been searching for the best Flutter course online, look no further. This comprehensive guide will not only teach you the basics but will elevate your  ...|34|2023-08-31|2023-03-31|
 |17|[microsoft/aad_b2c_webview](https://github.com/microsoft/aad_b2c_webview)|Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C.|30|2023-11-14|2023-01-16|
-|18|[natsuk4ze/gal](https://github.com/natsuk4ze/gal)|📕 How to Save Image/Video to the Photo Gallery in Flutter|27|2023-11-17|2023-05-26|
+|18|[natsuk4ze/gal](https://github.com/natsuk4ze/gal)|📕 How to Save Image/Video to the Photo Gallery in Flutter|28|2023-11-17|2023-05-26|
 |19|[dwyl/flutter-bloc-tutorial](https://github.com/dwyl/flutter-bloc-tutorial)|A step-by-step example/tutorial explaining the benefits of the BLoC architecture and bloc library including tests!|27|2023-09-04|2023-03-06|
 |20|[kpaxian7/feature_guider](https://github.com/kpaxian7/feature_guider)|A lightweight and feature-rich tool for a functional guide|17|2023-11-14|2023-10-27|
 |21|[FilledStacks/feedback-nova](https://github.com/FilledStacks/feedback-nova)|The source code for learning practical unit testing using Dart|16|2023-11-22|2023-10-19|

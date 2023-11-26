@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[therealdreg/masm32-kernel-programming](https://github.com/therealdreg/masm32-kernel-programming)|masm32 kernel programming, drivers, tutorials, examples, and tools (credits Four-F)|109|2023-08-11|2023-07-21|
 |2|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|36|2023-10-18|2023-08-18|
 |3|[arget13/memdlopen](https://github.com/arget13/memdlopen)|dlopen() filelessly a shared object or even a program (and run it).|35|2023-08-31|2023-03-08|
-|4|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|29|2023-11-15|2023-07-28|
+|4|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|29|2023-11-25|2023-07-28|
 |5|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|25|2023-11-24|2023-03-29|
 |6|[zisisvakras/mips-tool-pack](https://github.com/zisisvakras/mips-tool-pack)|A collection of useful mips templates|23|2023-09-24|2023-06-01|
 |7|[santiontanon/castlemaster2-disassembly](https://github.com/santiontanon/castlemaster2-disassembly)|Disassembly of the original 1990 Castle Master II: The Crypt ZX Spectrum game|21|2023-07-16|2023-02-23|
 |8|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|20|2023-10-26|2023-07-20|
 |9|[Nakazoto/Hellorld](https://github.com/Nakazoto/Hellorld)|A collection of the greatest programming on the planet!|14|2023-11-22|2023-10-03|
 |10|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|10|2023-10-24|2023-08-16|
-|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|2023-11-24|2023-04-08|
+|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|2023-11-25|2023-04-08|
 |12|[Zibri/C64_Stable_Raster](https://github.com/Zibri/C64_Stable_Raster)|HSYNC and VSYNC examples.|9|2023-06-24|2023-06-21|
 |13|[Zaalan3/TiGearCE](https://github.com/Zaalan3/TiGearCE)|Sega Master System and Game Gear Emulator for the TI84+CE|8|2023-07-03|2023-05-29|
 |14|[Malwareman007/x64-DSA-Assembly](https://github.com/Malwareman007/x64-DSA-Assembly)|An x64 assembly implementation of essential data structures and algorithms for DSA.|6|2023-06-04|2023-06-01|
@@ -33,10 +33,9 @@
 |26|[nnamanx/intel_8086](https://github.com/nnamanx/intel_8086)|Completed Assignments of Computer Organization & Architecture Course|3|2023-07-08|2023-07-08|
 |27|[hijacking-vn/Practical-ASM](https://github.com/hijacking-vn/Practical-ASM)|The 'Practical ASM' repository is a dedicated space for practicing and learning Assembly Language (ASM).|3|2023-07-05|2023-07-01|
 |28|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|2023-03-20|
-|29|[jonathanfelicity/assembly.x64](https://github.com/jonathanfelicity/assembly.x64)|Learning Assembly Language|3|2023-05-26|2023-02-25|
-|30|[bolon667/sgdkTutorialsCode](https://github.com/bolon667/sgdkTutorialsCode)|Code for SGDK tutorials from Under-Prog.Ru|3|2023-07-05|2022-12-30|
-|31|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2023-10-10|2023-07-01|
-|32|[prithivi-maruthachalam/BellLabs](https://github.com/prithivi-maruthachalam/BellLabs)|Code Snippets and examples for Bell Labs|2|2023-09-04|2022-12-07|
+|29|[bolon667/sgdkTutorialsCode](https://github.com/bolon667/sgdkTutorialsCode)|Code for SGDK tutorials from Under-Prog.Ru|3|2023-07-05|2022-12-30|
+|30|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2023-10-10|2023-07-01|
+|31|[prithivi-maruthachalam/BellLabs](https://github.com/prithivi-maruthachalam/BellLabs)|Code Snippets and examples for Bell Labs|2|2023-09-04|2022-12-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

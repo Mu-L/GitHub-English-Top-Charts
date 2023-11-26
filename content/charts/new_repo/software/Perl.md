@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|96|2023-11-07|2023-05-25|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|71|2023-11-10|2023-07-30|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|72|2023-11-10|2023-07-30|
 |3|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|44|2023-10-22|2023-03-05|
 |4|[laurieburchell/open-lid-dataset](https://github.com/laurieburchell/open-lid-dataset)|Repository accompanying "An Open Dataset and Model for Language Identification" (Burchell et al., 2023)|34|2023-11-15|2022-12-01|
 |5|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, dynamic downscaling, drag 'n drop, and intelligent features.|32|2023-11-23|2023-08-08|
@@ -54,9 +54,9 @@
 |47|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
 |48|[BGQ/ORPA](https://github.com/BGQ/ORPA)|Whole organelle genome-wide alignment construction method, which ultilizes BLAST tool, to facilitate phylogeny analysis|5|2023-08-27|2023-05-05|
 |49|[Perl-Apollo/assign-pm](https://github.com/Perl-Apollo/assign-pm)|-|5|2023-07-13|2023-05-03|
-|50|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2023-11-24|2023-03-12|
+|50|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2023-11-25|2023-03-12|
 |51|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2023-10-03|2023-03-12|
-|52|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|5|2023-11-24|2023-02-17|
+|52|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|5|2023-11-25|2023-02-17|
 |53|[mikkoi/env-assert](https://github.com/mikkoi/env-assert)|Ensure that the environment variables match what you need, or abort.|5|2023-11-15|2023-02-14|
 |54|[pmenzel/gh-actions](https://github.com/pmenzel/gh-actions)|workflows for GitHub Actions|5|2023-09-01|2023-01-22|
 |55|[csdvrx/PerlPleBean](https://github.com/csdvrx/PerlPleBean)|Writing CGI as if we're back in the 1990s!|5|2023-08-06|2022-12-19|
@@ -87,7 +87,7 @@
 |80|[ComePerrot/latex-template](https://github.com/ComePerrot/latex-template)|Ready to use latex project with github action and makefile|3|2023-08-26|2023-08-26|
 |81|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|3|2023-08-15|2023-08-15|
 |82|[smtiitm/Fastspeech2_MFA](https://github.com/smtiitm/Fastspeech2_MFA)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|3|2023-09-24|2023-08-11|
-|83|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|3|2023-11-10|2023-07-20|
+|83|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|3|2023-11-24|2023-07-20|
 |84|[ahrefs/opam-check-npm-deps](https://github.com/ahrefs/opam-check-npm-deps)|An opam plugin that checks the opam switch to gather npm packages in depexts to check against installed packages in node_modules.|3|2023-09-24|2023-07-11|
 |85|[best2160187/perl-projects](https://github.com/best2160187/perl-projects)|-|3|2023-07-01|2023-07-01|
 |86|[lapaoleksiy/The-Art-of-Healing](https://github.com/lapaoleksiy/The-Art-of-Healing)|A project to bring therapeutic art programs to hospitals and healthcare facilities|3|2023-07-20|2023-06-20|
