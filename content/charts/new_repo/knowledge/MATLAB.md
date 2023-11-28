@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|66|2023-10-29|2022-12-23|
+|1|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|68|2023-10-29|2022-12-23|
 |2|[pulseq/tutorials](https://github.com/pulseq/tutorials)|This is a collection of various Pulseq tutorials, which is supposed to grow in future|19|2023-09-27|2023-02-10|
 |3|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|15|2023-11-09|2023-02-15|
 |4|[adityapathakk/UMA011-NumericalAnalysis-LabCodes](https://github.com/adityapathakk/UMA011-NumericalAnalysis-LabCodes)|numerical analysis (uma011) is a course taught to engineering students of many disciplines. in this repository, you can find all the codes that are executed in the labs.|11|2023-07-18|2023-07-18|
@@ -56,18 +56,19 @@
 |49|[qlhhahaha/Multi-agent-System-control](https://github.com/qlhhahaha/Multi-agent-System-control)|reference code of the MAS textbook which written by Zhao Jichao|3|2023-11-11|2023-07-10|
 |50|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
 |51|[nairaditya/Modal-Decomposition-ROM](https://github.com/nairaditya/Modal-Decomposition-ROM)|Tutorial for POD, DMD and Galerkin Projection|3|2023-06-20|2023-06-20|
-|52|[huangsuj/ERL-MVSC](https://github.com/huangsuj/ERL-MVSC)|Embedding Regularizer Learning for Multi-View Semi-Supervised Classification|3|2023-06-15|2023-06-15|
-|53|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
-|54|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-06-28|2023-06-08|
-|55|[Panagiotis-Zachos/complex_smoothing](https://github.com/Panagiotis-Zachos/complex_smoothing)|MATLAB functions that implement different smoothing algorithms|3|2023-06-14|2023-06-07|
-|56|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-11-23|2023-05-22|
-|57|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
-|58|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
-|59|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
-|60|[pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology](https://github.com/pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology)|My homework in the Intelligent Robotics course during my undergraduate studies at Sun Yat-Sen University|3|2023-07-14|2023-04-19|
-|61|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|3|2023-09-17|2023-04-16|
-|62|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
-|63|[sommaa/CKM](https://github.com/sommaa/CKM)|A series of functions to use Chemkin-like files on matlab.|3|2023-10-07|2022-12-17|
+|52|[xiaoyingzhuang/phase-field-method-COMSOL](https://github.com/xiaoyingzhuang/phase-field-method-COMSOL)|Phase field fracture methods implemented by COMSOL. Numerical examples|3|2023-06-18|2023-06-18|
+|53|[huangsuj/ERL-MVSC](https://github.com/huangsuj/ERL-MVSC)|Embedding Regularizer Learning for Multi-View Semi-Supervised Classification|3|2023-06-15|2023-06-15|
+|54|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
+|55|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-06-28|2023-06-08|
+|56|[Panagiotis-Zachos/complex_smoothing](https://github.com/Panagiotis-Zachos/complex_smoothing)|MATLAB functions that implement different smoothing algorithms|3|2023-06-14|2023-06-07|
+|57|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-11-23|2023-05-22|
+|58|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
+|59|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
+|60|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
+|61|[pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology](https://github.com/pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology)|My homework in the Intelligent Robotics course during my undergraduate studies at Sun Yat-Sen University|3|2023-07-14|2023-04-19|
+|62|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|3|2023-09-17|2023-04-16|
+|63|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
+|64|[sommaa/CKM](https://github.com/sommaa/CKM)|A series of functions to use Chemkin-like files on matlab.|3|2023-10-07|2022-12-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

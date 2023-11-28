@@ -1,209 +1,209 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > TypeScript
-<sub>Updated: 2023-11-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[microsoft/vscode](https://github.com/microsoft/vscode)|Visual Studio Code|153278|2023-11-26|
-|2|[microsoft/TypeScript](https://github.com/microsoft/TypeScript)|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|95382|2023-11-26|
-|3|[angular/angular](https://github.com/angular/angular)|Deliver web apps with confidence 🚀|92500|2023-11-26|
-|4|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|88453|2023-11-26|
-|5|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)|Node.js API for Chrome |85160|2023-11-24|
-|6|[storybookjs/storybook](https://github.com/storybookjs/storybook)|Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. |81044|2023-11-26|
-|7|[sveltejs/svelte](https://github.com/sveltejs/svelte)|Cybernetically enhanced web apps|74006|2023-11-25|
-|8|[coder/code-server](https://github.com/coder/code-server)|VS Code in the browser|63065|2023-11-24|
-|9|[vitejs/vite](https://github.com/vitejs/vite)|Next generation frontend tooling. It's fast!|61331|2023-11-25|
-|10|[nestjs/nest](https://github.com/nestjs/nest)|A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀|61181|2023-11-26|
-|11|[reduxjs/redux](https://github.com/reduxjs/redux)|Predictable state container for JavaScript apps|60066|2023-11-25|
-|12|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative.|59701|2023-11-26|
-|13|[socketio/socket.io](https://github.com/socketio/socket.io)|Realtime application framework (Node.JS server)|59356|2023-11-25|
-|14|[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)|Virtual whiteboard for sketching hand-drawn like diagrams|58542|2023-11-26|
-|15|[grafana/grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ...|58091|2023-11-25|
-|16|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|57168|2023-11-25|
-|17|[microsoft/playwright](https://github.com/microsoft/playwright)|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |56823|2023-11-25|
-|18|[apache/superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|55311|2023-11-26|
-|19|[Eugeny/tabby](https://github.com/Eugeny/tabby)|A terminal for a more modern age|52391|2023-11-21|
-|20|[remix-run/react-router](https://github.com/remix-run/react-router)|Declarative routing for React|51246|2023-11-24|
-|21|[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)|A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。|51217|2023-11-25|
-|22|[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)|A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.|49829|2023-11-24|
-|23|[facebook/docusaurus](https://github.com/facebook/docusaurus)|Easy to maintain open source documentation websites.|49613|2023-11-26|
-|24|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|45861|2023-11-25|
-|25|[jestjs/jest](https://github.com/jestjs/jest)|Delightful JavaScript Testing.|42987|2023-11-24|
-|26|[babel/babel](https://github.com/babel/babel)|🐠 Babel is a compiler for writing next generation JavaScript.|42641|2023-11-26|
-|27|[vercel/hyper](https://github.com/vercel/hyper)|A terminal built on web technologies|41752|2023-11-23|
-|28|[vuejs/core](https://github.com/vuejs/core)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|41461|2023-11-26|
-|29|[pixijs/pixijs](https://github.com/pixijs/pixijs)|The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.|41371|2023-11-26|
-|30|[styled-components/styled-components](https://github.com/styled-components/styled-components)|Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅|39713|2023-11-24|
-|31|[laurent22/joplin](https://github.com/laurent22/joplin)|Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.|39546|2023-11-25|
-|32|[streamich/react-use](https://github.com/streamich/react-use)|React Hooks — 👍|38753|2023-11-22|
-|33|[nocodb/nocodb](https://github.com/nocodb/nocodb)|🔥 🔥 🔥 Open Source Airtable Alternative|38729|2023-11-26|
-|34|[vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)|🐉 Vue Component Framework|38350|2023-11-26|
-|35|[appwrite/appwrite](https://github.com/appwrite/appwrite)|Build like a team of hundreds_|38127|2023-11-26|
-|36|[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)|📋 React Hooks for form state management and validation (Web + React Native)|37699|2023-11-25|
-|37|[TanStack/query](https://github.com/TanStack/query)|🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.|37228|2023-11-26|
-|38|[withastro/astro](https://github.com/withastro/astro)|The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!|37205|2023-11-25|
-|39|[pmndrs/zustand](https://github.com/pmndrs/zustand)|🐻 Bear necessities for state management in React|37204|2023-11-26|
-|40|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|Beautifully designed components built with Radix UI and Tailwind CSS.|35845|2023-11-25|
-|41|[n8n-io/n8n](https://github.com/n8n-io/n8n)|Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.|35341|2023-11-26|
-|42|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|35141|2023-11-20|
-|43|[chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)|⚡️ Simple, Modular & Accessible UI Components for your React Applications|35006|2023-11-26|
-|44|[prisma/prisma](https://github.com/prisma/prisma)|Next-generation ORM for Node.js & TypeScript   PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB|34884|2023-11-25|
-|45|[nativefier/nativefier](https://github.com/nativefier/nativefier)|Make any web page a desktop application|34414|2023-09-29|
-|46|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|33882|2023-11-25|
-|47|[jaredpalmer/formik](https://github.com/jaredpalmer/formik)|Build forms in React, without the tears 😭 |33064|2023-11-23|
-|48|[immutable-js/immutable-js](https://github.com/immutable-js/immutable-js)|Immutable persistent data collections for Javascript which increase efficiency and simplicity.|32731|2023-10-12|
-|49|[date-fns/date-fns](https://github.com/date-fns/date-fns)|⏳ Modern JavaScript date utility library ⌛️|32643|2023-11-24|
-|50|[typeorm/typeorm](https://github.com/typeorm/typeorm)|ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.|32502|2023-11-23|
-|51|[novuhq/novu](https://github.com/novuhq/novu)|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|30982|2023-11-26|
-|52|[trpc/trpc](https://github.com/trpc/trpc)|🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |30017|2023-11-26|
-|53|[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)|Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.|29853|2023-11-26|
-|54|[ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)|A reactive programming library for JavaScript|29662|2023-11-23|
-|55|[solidjs/solid](https://github.com/solidjs/solid)|A declarative, efficient, and flexible JavaScript library for building user interfaces.|29530|2023-11-23|
-|56|[niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)|Screenshots with JavaScript|29093|2023-11-14|
-|57|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers|29037|2023-11-26|
-|58|[vercel/swr](https://github.com/vercel/swr)|React Hooks for Data Fetching|28441|2023-11-20|
-|59|[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)|A completely customizable framework for building rich text editors. (Currently in beta.)|28206|2023-11-26|
-|60|[postcss/postcss](https://github.com/postcss/postcss)|Transforming styles with JS plugins|27929|2023-10-18|
-|61|[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)|🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.|27617|2023-11-24|
-|62|[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)|A JavaScript library to position floating elements and create interactions for them.|27209|2023-11-26|
-|63|[portainer/portainer](https://github.com/portainer/portainer)|Making Docker and Kubernetes management easy.|27190|2023-11-26|
-|64|[cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)|The fast, flexible, and elegant library for parsing and manipulating HTML and XML.|27145|2023-11-24|
-|65|[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.|27052|2023-11-26|
-|66|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|26988|2023-11-24|
-|67|[tldraw/tldraw](https://github.com/tldraw/tldraw)|a very good whiteboard|26919|2023-11-25|
-|68|[mattermost/mattermost](https://github.com/mattermost/mattermost)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..|26893|2023-11-26|
-|69|[mobxjs/mobx](https://github.com/mobxjs/mobx)|Simple, scalable state management.|26848|2023-11-25|
-|70|[JedWatson/react-select](https://github.com/JedWatson/react-select)|The Select Component for React.js|26780|2023-11-20|
-|71|[balena-io/etcher](https://github.com/balena-io/etcher)|Flash OS images to SD cards & USB drives, safely and easily.|26718|2023-11-22|
-|72|[pmndrs/react-spring](https://github.com/pmndrs/react-spring)|✌️ A spring physics based React animation library|26673|2023-11-25|
-|73|[AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.|26635|2023-11-26|
-|74|[angular/angular-cli](https://github.com/angular/angular-cli)|CLI tool for Angular|26356|2023-11-26|
-|75|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager|26085|2023-11-24|
-|76|[remix-run/remix](https://github.com/remix-run/remix)|Build Better Websites. Create modern, resilient user experiences with web fundamentals.|25587|2023-11-26|
-|77|[statelyai/xstate](https://github.com/statelyai/xstate)|State machines and statecharts for the modern web.|25167|2023-11-26|
-|78|[calcom/cal.com](https://github.com/calcom/cal.com)|Scheduling infrastructure for absolutely everyone.|25113|2023-11-26|
-|79|[codex-team/editor.js](https://github.com/codex-team/editor.js)|A block-style editor with clean JSON output|24998|2023-11-26|
-|80|[vadimdemedes/ink](https://github.com/vadimdemedes/ink)|🌈 React for interactive command-line apps|24947|2023-11-14|
-|81|[akveo/ngx-admin](https://github.com/akveo/ngx-admin)|Customizable admin dashboard template based on Angular 10+|24799|2023-11-08|
-|82|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|24716|2023-11-26|
-|83|[pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)|🇨🇭 A React renderer for Three.js|24538|2023-11-20|
-|84|[StanGirard/quivr](https://github.com/StanGirard/quivr)|🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share ...|24434|2023-11-24|
-|85|[discordjs/discord.js](https://github.com/discordjs/discord.js)|A powerful JavaScript library for interacting with the Discord API|24199|2023-11-26|
-|86|[backstage/backstage](https://github.com/backstage/backstage)|Backstage is an open platform for building developer portals|24188|2023-11-26|
-|87|[vuejs/devtools](https://github.com/vuejs/devtools)|⚙️ Browser devtools extension for debugging Vue.js applications.|24025|2023-11-09|
-|88|[directus/directus](https://github.com/directus/directus)|The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.|23831|2023-11-26|
-|89|[angular/components](https://github.com/angular/components)|Component infrastructure and Material Design components for Angular|23805|2023-11-26|
-|90|[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)|There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |23653|2023-11-26|
-|91|[withfig/autocomplete](https://github.com/withfig/autocomplete)|IDE-style autocomplete for your existing terminal & shell|23512|2023-11-22|
-|92|[neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)|Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.|23506|2023-11-23|
+|1|[microsoft/vscode](https://github.com/microsoft/vscode)|Visual Studio Code|153365|2023-11-27|
+|2|[microsoft/TypeScript](https://github.com/microsoft/TypeScript)|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|95422|2023-11-27|
+|3|[angular/angular](https://github.com/angular/angular)|Deliver web apps with confidence 🚀|92611|2023-11-27|
+|4|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|88463|2023-11-27|
+|5|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)|Node.js API for Chrome |85172|2023-11-27|
+|6|[storybookjs/storybook](https://github.com/storybookjs/storybook)|Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. |81049|2023-11-27|
+|7|[sveltejs/svelte](https://github.com/sveltejs/svelte)|Cybernetically enhanced web apps|74027|2023-11-27|
+|8|[coder/code-server](https://github.com/coder/code-server)|VS Code in the browser|63109|2023-11-24|
+|9|[vitejs/vite](https://github.com/vitejs/vite)|Next generation frontend tooling. It's fast!|61360|2023-11-27|
+|10|[nestjs/nest](https://github.com/nestjs/nest)|A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀|61205|2023-11-27|
+|11|[reduxjs/redux](https://github.com/reduxjs/redux)|Predictable state container for JavaScript apps|60073|2023-11-25|
+|12|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative.|59837|2023-11-27|
+|13|[socketio/socket.io](https://github.com/socketio/socket.io)|Realtime application framework (Node.JS server)|59366|2023-11-25|
+|14|[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)|Virtual whiteboard for sketching hand-drawn like diagrams|58615|2023-11-27|
+|15|[grafana/grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ...|58105|2023-11-27|
+|16|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|57181|2023-11-27|
+|17|[microsoft/playwright](https://github.com/microsoft/playwright)|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |56872|2023-11-27|
+|18|[apache/superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|55338|2023-11-27|
+|19|[Eugeny/tabby](https://github.com/Eugeny/tabby)|A terminal for a more modern age|52414|2023-11-21|
+|20|[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)|A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。|51327|2023-11-27|
+|21|[remix-run/react-router](https://github.com/remix-run/react-router)|Declarative routing for React|51246|2023-11-24|
+|22|[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)|A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.|49835|2023-11-27|
+|23|[facebook/docusaurus](https://github.com/facebook/docusaurus)|Easy to maintain open source documentation websites.|49656|2023-11-27|
+|24|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|45871|2023-11-27|
+|25|[jestjs/jest](https://github.com/jestjs/jest)|Delightful JavaScript Testing.|42991|2023-11-27|
+|26|[babel/babel](https://github.com/babel/babel)|🐠 Babel is a compiler for writing next generation JavaScript.|42641|2023-11-27|
+|27|[vercel/hyper](https://github.com/vercel/hyper)|A terminal built on web technologies|41754|2023-11-27|
+|28|[vuejs/core](https://github.com/vuejs/core)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|41472|2023-11-27|
+|29|[pixijs/pixijs](https://github.com/pixijs/pixijs)|The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.|41381|2023-11-27|
+|30|[styled-components/styled-components](https://github.com/styled-components/styled-components)|Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅|39715|2023-11-24|
+|31|[laurent22/joplin](https://github.com/laurent22/joplin)|Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.|39572|2023-11-27|
+|32|[streamich/react-use](https://github.com/streamich/react-use)|React Hooks — 👍|38765|2023-11-22|
+|33|[nocodb/nocodb](https://github.com/nocodb/nocodb)|🔥 🔥 🔥 Open Source Airtable Alternative|38746|2023-11-27|
+|34|[vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)|🐉 Vue Component Framework|38367|2023-11-27|
+|35|[appwrite/appwrite](https://github.com/appwrite/appwrite)|Build like a team of hundreds_|38148|2023-11-27|
+|36|[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)|📋 React Hooks for form state management and validation (Web + React Native)|37708|2023-11-25|
+|37|[withastro/astro](https://github.com/withastro/astro)|The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!|37244|2023-11-27|
+|38|[TanStack/query](https://github.com/TanStack/query)|🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.|37241|2023-11-27|
+|39|[pmndrs/zustand](https://github.com/pmndrs/zustand)|🐻 Bear necessities for state management in React|37236|2023-11-27|
+|40|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|Beautifully designed components built with Radix UI and Tailwind CSS.|35880|2023-11-27|
+|41|[n8n-io/n8n](https://github.com/n8n-io/n8n)|Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.|35360|2023-11-27|
+|42|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|35145|2023-11-20|
+|43|[chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)|⚡️ Simple, Modular & Accessible UI Components for your React Applications|35009|2023-11-27|
+|44|[prisma/prisma](https://github.com/prisma/prisma)|Next-generation ORM for Node.js & TypeScript   PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB|34896|2023-11-27|
+|45|[nativefier/nativefier](https://github.com/nativefier/nativefier)|Make any web page a desktop application|34415|2023-09-29|
+|46|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|33890|2023-11-27|
+|47|[jaredpalmer/formik](https://github.com/jaredpalmer/formik)|Build forms in React, without the tears 😭 |33069|2023-11-23|
+|48|[immutable-js/immutable-js](https://github.com/immutable-js/immutable-js)|Immutable persistent data collections for Javascript which increase efficiency and simplicity.|32729|2023-10-12|
+|49|[date-fns/date-fns](https://github.com/date-fns/date-fns)|⏳ Modern JavaScript date utility library ⌛️|32650|2023-11-24|
+|50|[typeorm/typeorm](https://github.com/typeorm/typeorm)|ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.|32501|2023-11-23|
+|51|[novuhq/novu](https://github.com/novuhq/novu)|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|31081|2023-11-27|
+|52|[trpc/trpc](https://github.com/trpc/trpc)|🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |30039|2023-11-26|
+|53|[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)|Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.|29859|2023-11-27|
+|54|[ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)|A reactive programming library for JavaScript|29660|2023-11-27|
+|55|[solidjs/solid](https://github.com/solidjs/solid)|A declarative, efficient, and flexible JavaScript library for building user interfaces.|29547|2023-11-27|
+|56|[niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)|Screenshots with JavaScript|29094|2023-11-14|
+|57|[slidevjs/slidev](https://github.com/slidevjs/slidev)|Presentation Slides for Developers|29054|2023-11-26|
+|58|[vercel/swr](https://github.com/vercel/swr)|React Hooks for Data Fetching|28448|2023-11-20|
+|59|[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)|A completely customizable framework for building rich text editors. (Currently in beta.)|28203|2023-11-26|
+|60|[postcss/postcss](https://github.com/postcss/postcss)|Transforming styles with JS plugins|27930|2023-10-18|
+|61|[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)|🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.|27633|2023-11-27|
+|62|[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)|A JavaScript library to position floating elements and create interactions for them.|27215|2023-11-27|
+|63|[portainer/portainer](https://github.com/portainer/portainer)|Making Docker and Kubernetes management easy.|27201|2023-11-27|
+|64|[cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)|The fast, flexible, and elegant library for parsing and manipulating HTML and XML.|27143|2023-11-27|
+|65|[tldraw/tldraw](https://github.com/tldraw/tldraw)|a very good whiteboard|27121|2023-11-27|
+|66|[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.|27077|2023-11-27|
+|67|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|27015|2023-11-27|
+|68|[mattermost/mattermost](https://github.com/mattermost/mattermost)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..|26894|2023-11-27|
+|69|[mobxjs/mobx](https://github.com/mobxjs/mobx)|Simple, scalable state management.|26848|2023-11-27|
+|70|[JedWatson/react-select](https://github.com/JedWatson/react-select)|The Select Component for React.js|26780|2023-11-27|
+|71|[balena-io/etcher](https://github.com/balena-io/etcher)|Flash OS images to SD cards & USB drives, safely and easily.|26723|2023-11-22|
+|72|[pmndrs/react-spring](https://github.com/pmndrs/react-spring)|✌️ A spring physics based React animation library|26681|2023-11-25|
+|73|[AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.|26642|2023-11-26|
+|74|[angular/angular-cli](https://github.com/angular/angular-cli)|CLI tool for Angular|26357|2023-11-27|
+|75|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager|26099|2023-11-27|
+|76|[remix-run/remix](https://github.com/remix-run/remix)|Build Better Websites. Create modern, resilient user experiences with web fundamentals.|25597|2023-11-27|
+|77|[statelyai/xstate](https://github.com/statelyai/xstate)|State machines and statecharts for the modern web.|25177|2023-11-27|
+|78|[calcom/cal.com](https://github.com/calcom/cal.com)|Scheduling infrastructure for absolutely everyone.|25132|2023-11-27|
+|79|[codex-team/editor.js](https://github.com/codex-team/editor.js)|A block-style editor with clean JSON output|25001|2023-11-26|
+|80|[vadimdemedes/ink](https://github.com/vadimdemedes/ink)|🌈 React for interactive command-line apps|24952|2023-11-14|
+|81|[akveo/ngx-admin](https://github.com/akveo/ngx-admin)|Customizable admin dashboard template based on Angular 10+|24803|2023-11-08|
+|82|[expo/expo](https://github.com/expo/expo)|An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.|24733|2023-11-27|
+|83|[pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)|🇨🇭 A React renderer for Three.js|24550|2023-11-26|
+|84|[StanGirard/quivr](https://github.com/StanGirard/quivr)|🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share ...|24474|2023-11-27|
+|85|[discordjs/discord.js](https://github.com/discordjs/discord.js)|A powerful JavaScript library for interacting with the Discord API|24207|2023-11-27|
+|86|[backstage/backstage](https://github.com/backstage/backstage)|Backstage is an open platform for building developer portals|24202|2023-11-27|
+|87|[vuejs/devtools](https://github.com/vuejs/devtools)|⚙️ Browser devtools extension for debugging Vue.js applications.|24024|2023-11-09|
+|88|[directus/directus](https://github.com/directus/directus)|The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.|23836|2023-11-27|
+|89|[angular/components](https://github.com/angular/components)|Component infrastructure and Material Design components for Angular|23809|2023-11-27|
+|90|[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)|There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |23701|2023-11-27|
+|91|[withfig/autocomplete](https://github.com/withfig/autocomplete)|IDE-style autocomplete for your existing terminal & shell|23517|2023-11-27|
+|92|[neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)|Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.|23505|2023-11-27|
 |93|[doczjs/docz](https://github.com/doczjs/docz)|✍ It has never been so easy to document your things!|23416|2023-09-30|
-|94|[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)|⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with:  ...|23196|2023-11-25|
-|95|[marmelab/react-admin](https://github.com/marmelab/react-admin)|A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design|23169|2023-11-25|
+|94|[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)|⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with:  ...|23196|2023-11-27|
+|95|[marmelab/react-admin](https://github.com/marmelab/react-admin)|A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design|23174|2023-11-27|
 |96|[reduxjs/react-redux](https://github.com/reduxjs/react-redux)|Official React bindings for Redux|23025|2023-11-16|
-|97|[TanStack/table](https://github.com/TanStack/table)|🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table|22927|2023-11-25|
-|98|[react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)|Routing and navigation for your React Native apps|22869|2023-11-23|
-|99|[tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)|Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.|22775|2023-11-17|
-|100|[homebridge/homebridge](https://github.com/homebridge/homebridge)|HomeKit support for the impatient.|22660|2023-11-20|
-|101|[usablica/intro.js](https://github.com/usablica/intro.js)|Lightweight, user-friendly onboarding tour library|22304|2023-11-09|
-|102|[mantinedev/mantine](https://github.com/mantinedev/mantine)|A fully featured React components library|22298|2023-11-26|
-|103|[conwnet/github1s](https://github.com/conwnet/github1s)|One second to read GitHub code with VS Code.|22295|2023-11-17|
+|97|[TanStack/table](https://github.com/TanStack/table)|🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table|22932|2023-11-25|
+|98|[react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)|Routing and navigation for your React Native apps|22872|2023-11-23|
+|99|[tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)|Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.|22789|2023-11-17|
+|100|[homebridge/homebridge](https://github.com/homebridge/homebridge)|HomeKit support for the impatient.|22664|2023-11-20|
+|101|[mantinedev/mantine](https://github.com/mantinedev/mantine)|A fully featured React components library|22312|2023-11-27|
+|102|[usablica/intro.js](https://github.com/usablica/intro.js)|Lightweight, user-friendly onboarding tour library|22304|2023-11-09|
+|103|[conwnet/github1s](https://github.com/conwnet/github1s)|One second to read GitHub code with VS Code.|22296|2023-11-17|
 |104|[kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)|The web's most popular Jamstack front-end template (boilerplate) for building web applications with React|22287|2023-10-05|
-|105|[youzan/vant](https://github.com/youzan/vant)|A lightweight, customizable Vue UI library for mobile web apps.|22255|2023-11-26|
-|106|[refined-github/refined-github](https://github.com/refined-github/refined-github)|:octocat: Browser extension that simplifies the GitHub interface and adds useful features|22163|2023-11-26|
-|107|[electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|A Foundation for Scalable Cross-Platform Apps|22111|2023-11-22|
-|108|[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)|The headless editor framework for web artisans.|22078|2023-11-24|
-|109|[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)|Bootstrap components built with React|22037|2023-11-22|
+|105|[youzan/vant](https://github.com/youzan/vant)|A lightweight, customizable Vue UI library for mobile web apps.|22264|2023-11-27|
+|106|[refined-github/refined-github](https://github.com/refined-github/refined-github)|:octocat: Browser extension that simplifies the GitHub interface and adds useful features|22173|2023-11-27|
+|107|[electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|A Foundation for Scalable Cross-Platform Apps|22114|2023-11-22|
+|108|[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)|The headless editor framework for web artisans.|22086|2023-11-27|
+|109|[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)|Bootstrap components built with React|22041|2023-11-22|
 |110|[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)|💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.|21984|2023-10-27|
-|111|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|21875|2023-11-26|
+|111|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|21892|2023-11-27|
 |112|[lensapp/lens](https://github.com/lensapp/lens)|Lens - The way the world runs Kubernetes|21787|2023-10-27|
-|113|[BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)|Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.|21710|2023-11-26|
-|114|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|21656|2023-11-11|
-|115|[immich-app/immich](https://github.com/immich-app/immich)|Self-hosted photo and video backup solution directly from your mobile phone.|21641|2023-11-26|
-|116|[jquense/yup](https://github.com/jquense/yup)|Dead simple Object schema validation|21509|2023-11-22|
-|117|[Redocly/redoc](https://github.com/Redocly/redoc)|📘  OpenAPI/Swagger-generated API Reference Documentation|21485|2023-11-13|
-|118|[heyxyz/hey](https://github.com/heyxyz/hey)|Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿|21465|2023-11-26|
-|119|[recharts/recharts](https://github.com/recharts/recharts)|Redefined chart library built with React and D3|21447|2023-11-26|
-|120|[t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)|The best way to start a full-stack, typesafe Next.js app |21347|2023-11-24|
-|121|[outline/outline](https://github.com/outline/outline)|The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.|21108|2023-11-26|
-|122|[jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)|JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.|20988|2023-11-26|
-|123|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |20826|2023-11-22|
-|124|[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)|Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.|20666|2023-11-26|
-|125|[medusajs/medusa](https://github.com/medusajs/medusa)|Building blocks for digital commerce|20662|2023-11-26|
-|126|[framer/motion](https://github.com/framer/motion)|Open source, production-ready animation and gesture library for React|20598|2023-11-24|
-|127|[nrwl/nx](https://github.com/nrwl/nx)|Smart, Fast and Extensible Build System|20310|2023-11-26|
-|128|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean HTML/Tailwind/JS code|20283|2023-11-26|
-|129|[palantir/blueprint](https://github.com/palantir/blueprint)|A React-based UI toolkit for the web|20168|2023-11-26|
-|130|[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)|Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.|20064|2023-11-22|
-|131|[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd)|Drag and Drop for React|19975|2023-10-16|
-|132|[GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)|Make images smaller using best-in-class codecs, right in the browser.|19961|2023-11-03|
-|133|[pubkey/rxdb](https://github.com/pubkey/rxdb)|A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/|19927|2023-11-26|
-|134|[nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)|Authentication for the Web.|19924|2023-11-26|
-|135|[GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase)|Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.|19792|2023-11-15|
-|136|[graphql/graphql-js](https://github.com/graphql/graphql-js)|A reference implementation of GraphQL for JavaScript|19767|2023-11-23|
-|137|[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)|A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page|19699|2023-11-20|
-|138|[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)|InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s ...|19573|2023-11-26|
-|139|[upscayl/upscayl](https://github.com/upscayl/upscayl)|🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.|19515|2023-11-23|
-|140|[Budibase/budibase](https://github.com/Budibase/budibase)|Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo ...|19447|2023-11-24|
-|141|[BuilderIO/qwik](https://github.com/BuilderIO/qwik)|Instant-loading web apps, without effort|19312|2023-11-26|
-|142|[wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|19176|2023-10-20|
-|143|[GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)|Free and Open source Web Builder Framework. Next generation tool for building templates without coding|19061|2023-11-24|
-|144|[apollographql/apollo-client](https://github.com/apollographql/apollo-client)|:rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.|19028|2023-11-25|
-|145|[reduxjs/reselect](https://github.com/reduxjs/reselect)|Selector library for Redux|18976|2023-11-26|
-|146|[FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts)|Fuel Network Typescript SDK|18967|2023-11-26|
-|147|[openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)|基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.|18933|2023-11-25|
-|148|[elastic/kibana](https://github.com/elastic/kibana)|Your window into the Elastic Stack|18918|2023-11-26|
-|149|[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|An open source ChatGPT UI.|18726|2023-11-23|
-|150|[xyflow/xyflow](https://github.com/xyflow/xyflow)|React Flow   Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi ...|18614|2023-11-25|
-|151|[eclipse-theia/theia](https://github.com/eclipse-theia/theia)|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|18556|2023-11-24|
-|152|[desktop/desktop](https://github.com/desktop/desktop)|Focus on what matters instead of fighting with Git.|18529|2023-11-24|
-|153|[sst/sst](https://github.com/sst/sst)|Build modern full-stack applications on AWS|18379|2023-11-26|
-|154|[web3/web3.js](https://github.com/web3/web3.js)|Ethereum JavaScript API|18054|2023-11-24|
-|155|[airbnb/visx](https://github.com/airbnb/visx)|🐯 visx   visualization components|18027|2023-11-21|
-|156|[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)|Drag & drop UI to build your customized LLM flow|18021|2023-11-24|
-|157|[tensorflow/tfjs](https://github.com/tensorflow/tfjs)|A WebGL accelerated JavaScript library for training and deploying ML models.|17807|2023-11-20|
-|158|[darkreader/darkreader](https://github.com/darkreader/darkreader)|Dark Reader Chrome and Firefox extension|17739|2023-11-25|
-|159|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|🎥      Make videos programmatically with React|17736|2023-11-25|
-|160|[reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)|Thunk middleware for Redux|17698|2023-11-16|
-|161|[alibaba/ice](https://github.com/alibaba/ice)|🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17681|2023-11-24|
-|162|[wechaty/wechaty](https://github.com/wechaty/wechaty)|Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt|17674|2023-10-31|
-|163|[zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge)|A Clash GUI based on tauri. Supports Windows, macOS and Linux.|17650|2023-11-03|
-|164|[mattermost/focalboard](https://github.com/mattermost/focalboard)|Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.|17318|2023-11-17|
-|165|[fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)|Full-sized drag & drop event calendar in JavaScript|17187|2023-10-23|
-|166|[ionic-team/ionicons](https://github.com/ionic-team/ionicons)|Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎|17174|2023-11-20|
-|167|[teambit/bit](https://github.com/teambit/bit)|A build system for development of composable software.|17139|2023-11-26|
-|168|[material-components/material-components-web](https://github.com/material-components/material-components-web)|Modular and customizable Material Design UI components for the web|16981|2023-11-21|
-|169|[wulkano/Kap](https://github.com/wulkano/Kap)|An open-source screen recorder built with web technology|16936|2023-07-13|
-|170|[microsoft/fluentui](https://github.com/microsoft/fluentui)|Fluent UI web represents a collection of utilities, React components, and web components for building web applications.|16902|2023-11-25|
-|171|[nextui-org/nextui](https://github.com/nextui-org/nextui)|🚀   Beautiful, fast and modern React UI library.|16861|2023-11-26|
-|172|[refinedev/refine](https://github.com/refinedev/refine)|A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.|16754|2023-11-26|
-|173|[lit/lit](https://github.com/lit/lit)|Lit is a simple library for building fast, lightweight web components.|16542|2023-11-22|
-|174|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|16514|2023-09-26|
-|175|[redis/node-redis](https://github.com/redis/node-redis)|Redis Node.js client|16485|2023-11-20|
-|176|[redwoodjs/redwood](https://github.com/redwoodjs/redwood)|The App Framework for Startups|16482|2023-11-26|
-|177|[nhn/tui.editor](https://github.com/nhn/tui.editor)|🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.|16469|2023-10-27|
-|178|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|16451|2023-09-06|
+|113|[BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)|Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.|21717|2023-11-27|
+|114|[immich-app/immich](https://github.com/immich-app/immich)|Self-hosted photo and video backup solution directly from your mobile phone.|21681|2023-11-27|
+|115|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|21663|2023-11-11|
+|116|[jquense/yup](https://github.com/jquense/yup)|Dead simple Object schema validation|21517|2023-11-22|
+|117|[Redocly/redoc](https://github.com/Redocly/redoc)|📘  OpenAPI/Swagger-generated API Reference Documentation|21493|2023-11-13|
+|118|[heyxyz/hey](https://github.com/heyxyz/hey)|Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿|21467|2023-11-27|
+|119|[recharts/recharts](https://github.com/recharts/recharts)|Redefined chart library built with React and D3|21452|2023-11-27|
+|120|[t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)|The best way to start a full-stack, typesafe Next.js app |21355|2023-11-26|
+|121|[outline/outline](https://github.com/outline/outline)|The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.|21125|2023-11-27|
+|122|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean HTML/Tailwind/JS code|21111|2023-11-27|
+|123|[jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)|JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.|20990|2023-11-27|
+|124|[alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |20843|2023-11-22|
+|125|[medusajs/medusa](https://github.com/medusajs/medusa)|Building blocks for digital commerce|20677|2023-11-27|
+|126|[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)|Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.|20675|2023-11-27|
+|127|[framer/motion](https://github.com/framer/motion)|Open source, production-ready animation and gesture library for React|20609|2023-11-24|
+|128|[nrwl/nx](https://github.com/nrwl/nx)|Smart, Fast and Extensible Build System|20323|2023-11-27|
+|129|[palantir/blueprint](https://github.com/palantir/blueprint)|A React-based UI toolkit for the web|20171|2023-11-27|
+|130|[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)|Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.|20071|2023-11-27|
+|131|[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd)|Drag and Drop for React|19979|2023-10-16|
+|132|[GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)|Make images smaller using best-in-class codecs, right in the browser.|19969|2023-11-03|
+|133|[nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)|Authentication for the Web.|19957|2023-11-27|
+|134|[pubkey/rxdb](https://github.com/pubkey/rxdb)|A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/|19926|2023-11-27|
+|135|[GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase)|Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.|19791|2023-11-15|
+|136|[graphql/graphql-js](https://github.com/graphql/graphql-js)|A reference implementation of GraphQL for JavaScript|19768|2023-11-23|
+|137|[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)|A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page|19709|2023-11-20|
+|138|[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)|InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s ...|19585|2023-11-27|
+|139|[upscayl/upscayl](https://github.com/upscayl/upscayl)|🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.|19552|2023-11-27|
+|140|[Budibase/budibase](https://github.com/Budibase/budibase)|Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo ...|19460|2023-11-27|
+|141|[BuilderIO/qwik](https://github.com/BuilderIO/qwik)|Instant-loading web apps, without effort|19317|2023-11-27|
+|142|[wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|19181|2023-10-20|
+|143|[FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts)|Fuel Network Typescript SDK|19101|2023-11-27|
+|144|[GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)|Free and Open source Web Builder Framework. Next generation tool for building templates without coding|19075|2023-11-24|
+|145|[apollographql/apollo-client](https://github.com/apollographql/apollo-client)|:rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.|19026|2023-11-27|
+|146|[reduxjs/reselect](https://github.com/reduxjs/reselect)|Selector library for Redux|18976|2023-11-27|
+|147|[openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)|基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.|18941|2023-11-27|
+|148|[elastic/kibana](https://github.com/elastic/kibana)|Your window into the Elastic Stack|18918|2023-11-27|
+|149|[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|An open source ChatGPT UI.|18745|2023-11-23|
+|150|[xyflow/xyflow](https://github.com/xyflow/xyflow)|React Flow   Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi ...|18629|2023-11-25|
+|151|[eclipse-theia/theia](https://github.com/eclipse-theia/theia)|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|18558|2023-11-27|
+|152|[desktop/desktop](https://github.com/desktop/desktop)|Focus on what matters instead of fighting with Git.|18537|2023-11-24|
+|153|[sst/sst](https://github.com/sst/sst)|Build modern full-stack applications on AWS|18389|2023-11-27|
+|154|[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)|Drag & drop UI to build your customized LLM flow|18071|2023-11-27|
+|155|[web3/web3.js](https://github.com/web3/web3.js)|Ethereum JavaScript API|18057|2023-11-27|
+|156|[airbnb/visx](https://github.com/airbnb/visx)|🐯 visx   visualization components|18031|2023-11-27|
+|157|[tensorflow/tfjs](https://github.com/tensorflow/tfjs)|A WebGL accelerated JavaScript library for training and deploying ML models.|17810|2023-11-20|
+|158|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|🎥      Make videos programmatically with React|17748|2023-11-27|
+|159|[darkreader/darkreader](https://github.com/darkreader/darkreader)|Dark Reader Chrome and Firefox extension|17747|2023-11-27|
+|160|[reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)|Thunk middleware for Redux|17697|2023-11-16|
+|161|[zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge)|A Clash GUI based on tauri. Supports Windows, macOS and Linux.|17684|2023-11-03|
+|162|[wechaty/wechaty](https://github.com/wechaty/wechaty)|Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt|17683|2023-10-31|
+|163|[alibaba/ice](https://github.com/alibaba/ice)|🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17681|2023-11-27|
+|164|[mattermost/focalboard](https://github.com/mattermost/focalboard)|Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.|17339|2023-11-17|
+|165|[fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)|Full-sized drag & drop event calendar in JavaScript|17190|2023-10-23|
+|166|[ionic-team/ionicons](https://github.com/ionic-team/ionicons)|Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎|17178|2023-11-20|
+|167|[teambit/bit](https://github.com/teambit/bit)|A build system for development of composable software.|17143|2023-11-27|
+|168|[material-components/material-components-web](https://github.com/material-components/material-components-web)|Modular and customizable Material Design UI components for the web|16984|2023-11-21|
+|169|[wulkano/Kap](https://github.com/wulkano/Kap)|An open-source screen recorder built with web technology|16938|2023-07-13|
+|170|[microsoft/fluentui](https://github.com/microsoft/fluentui)|Fluent UI web represents a collection of utilities, React components, and web components for building web applications.|16909|2023-11-27|
+|171|[nextui-org/nextui](https://github.com/nextui-org/nextui)|🚀   Beautiful, fast and modern React UI library.|16891|2023-11-27|
+|172|[refinedev/refine](https://github.com/refinedev/refine)|A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.|16786|2023-11-27|
+|173|[lit/lit](https://github.com/lit/lit)|Lit is a simple library for building fast, lightweight web components.|16548|2023-11-27|
+|174|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|16521|2023-09-26|
+|175|[redwoodjs/redwood](https://github.com/redwoodjs/redwood)|The App Framework for Startups|16487|2023-11-27|
+|176|[redis/node-redis](https://github.com/redis/node-redis)|Redis Node.js client|16484|2023-11-20|
+|177|[nhn/tui.editor](https://github.com/nhn/tui.editor)|🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.|16471|2023-10-27|
+|178|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|16455|2023-09-06|
 |179|[sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges)|Contracts of the Sismo Badge Minting Protocol |16225|2023-10-03|
-|180|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|16116|2023-10-06|
-|181|[infinitered/ignite](https://github.com/infinitered/ignite)|Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!|15986|2023-11-25|
-|182|[xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)|A terminal for the web|15922|2023-11-25|
-|183|[shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)|An open source application built using the new router, server components and everything new in Next.js 13.|15883|2023-11-19|
-|184|[flatpickr/flatpickr](https://github.com/flatpickr/flatpickr)|lightweight, powerful javascript datetimepicker with no dependencies|15802|2023-11-24|
-|185|[justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)|JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js|15644|2023-09-03|
-|186|[pmndrs/jotai](https://github.com/pmndrs/jotai)|👻 Primitive and flexible state management for React|15570|2023-11-26|
-|187|[verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)|📦🔐 A lightweight Node.js private proxy registry|15430|2023-11-23|
+|180|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|16119|2023-10-06|
+|181|[infinitered/ignite](https://github.com/infinitered/ignite)|Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!|15993|2023-11-25|
+|182|[xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)|A terminal for the web|15934|2023-11-25|
+|183|[shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)|An open source application built using the new router, server components and everything new in Next.js 13.|15892|2023-11-19|
+|184|[flatpickr/flatpickr](https://github.com/flatpickr/flatpickr)|lightweight, powerful javascript datetimepicker with no dependencies|15803|2023-11-24|
+|185|[justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)|JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js|15656|2023-09-03|
+|186|[pmndrs/jotai](https://github.com/pmndrs/jotai)|👻 Primitive and flexible state management for React|15582|2023-11-27|
+|187|[verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)|📦🔐 A lightweight Node.js private proxy registry|15436|2023-11-27|
 |188|[graphql/graphiql](https://github.com/graphql/graphiql)|GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.|15379|2023-11-20|
-|189|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|15341|2023-11-25|
-|190|[transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)|Node.js client for the official ChatGPT API. 🔥|15299|2023-11-19|
-|191|[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)|TypeScript ORM that feels like writing SQL.|15109|2023-11-24|
-|192|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|15017|2023-11-23|
-|193|[conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)|📓 Lint commit messages|14854|2023-11-26|
+|189|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|15354|2023-11-27|
+|190|[transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)|Node.js client for the official ChatGPT API. 🔥|15304|2023-11-19|
+|191|[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)|TypeScript ORM that feels like writing SQL.|15170|2023-11-27|
+|192|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|15022|2023-11-27|
+|193|[conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)|📓 Lint commit messages|14857|2023-11-26|
 |194|[feathersjs/feathers](https://github.com/feathersjs/feathers)|The API and real-time application framework|14813|2023-11-23|
-|195|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|14792|2023-11-24|
-|196|[sass/sass](https://github.com/sass/sass)|Sass makes CSS fun!|14750|2023-11-22|
-|197|[payloadcms/payload](https://github.com/payloadcms/payload)|The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.|14599|2023-11-26|
-|198|[umijs/umi](https://github.com/umijs/umi)|A framework in react community ✨|14586|2023-11-23|
-|199|[adonisjs/core](https://github.com/adonisjs/core)|🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence|14528|2023-11-25|
+|195|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|14797|2023-11-27|
+|196|[sass/sass](https://github.com/sass/sass)|Sass makes CSS fun!|14754|2023-11-22|
+|197|[payloadcms/payload](https://github.com/payloadcms/payload)|The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.|14630|2023-11-27|
+|198|[umijs/umi](https://github.com/umijs/umi)|A framework in react community ✨|14585|2023-11-27|
+|199|[adonisjs/core](https://github.com/adonisjs/core)|🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence|14544|2023-11-26|
 |200|[foambubble/foam](https://github.com/foambubble/foam)|A personal knowledge management and sharing system for VSCode|14337|2023-11-11|
 
 <div align="center">

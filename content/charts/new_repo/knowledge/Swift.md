@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1700|2023-11-13|2023-06-14|
-|2|[jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView)|An example of how to create a live, variable blur effect on iOS.|247|2023-05-29|2023-05-29|
-|3|[vishalMalvi/DesignPattern](https://github.com/vishalMalvi/DesignPattern)|Design Patterns in Swift|162|2023-06-04|2023-03-07|
-|4|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|153|2023-10-10|2023-10-03|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1702|2023-11-27|2023-06-14|
+|2|[jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView)|An example of how to create a live, variable blur effect on iOS.|248|2023-05-29|2023-05-29|
+|3|[vishalMalvi/DesignPattern](https://github.com/vishalMalvi/DesignPattern)|Design Patterns in Swift|163|2023-06-04|2023-03-07|
+|4|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|154|2023-10-10|2023-10-03|
 |5|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|108|2023-09-05|2023-07-28|
 |6|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|92|2023-10-23|2023-10-04|
-|7|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|89|2023-11-14|2023-07-12|
-|8|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|78|2023-10-06|2023-06-05|
+|7|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|92|2023-11-14|2023-07-12|
+|8|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|79|2023-10-06|2023-06-05|
 |9|[schwa/SwiftFields](https://github.com/schwa/SwiftFields)|SwiftFields is a collection of SwiftUI widgets for editing data|60|2023-07-04|2023-05-12|
 |10|[doyeonjeong/SwiftData-Tutorial](https://github.com/doyeonjeong/SwiftData-Tutorial)|How to use SwiftData?|56|2023-07-09|2023-07-02|
 |11|[facebookincubator/ForgeArmory](https://github.com/facebookincubator/ForgeArmory)|ForgeArmory provides TTPs that can be used with the TTPForge (https://github.com/facebookincubator/ttpforge).|55|2023-11-14|2022-12-05|
@@ -28,15 +28,15 @@
 |21|[akabe1/akabe1-semgrep-rules](https://github.com/akabe1/akabe1-semgrep-rules)|My collection of Semgrep rules for vulnerability detection on source code (swift, java)|25|2023-10-31|2022-12-28|
 |22|[nate-parrott/uhohlingo](https://github.com/nate-parrott/uhohlingo)|teach yourself anything with short digital lessons that are often completely wrong|21|2023-07-09|2023-04-07|
 |23|[PasiSalenius/CocoaCompose](https://github.com/PasiSalenius/CocoaCompose)|Collection of Cocoa controls that look just right, offer modern Swift APIs, and nicely compose together.|20|2023-11-14|2023-07-22|
-|24|[JuniperPhoton/Widget-Intermediate-Animation](https://github.com/JuniperPhoton/Widget-Intermediate-Animation)|A demo to demonstrate how to animate widget changes with intermediate state|19|2023-08-25|2023-08-23|
-|25|[steventroughtonsmith/VisionExpandingSidebar](https://github.com/steventroughtonsmith/VisionExpandingSidebar)|Quick demonstration of how to make a Safari-style window that expands in size when its sidebar is shown, using UIKit, on visionOS.|19|2023-08-12|2023-08-12|
-|26|[ehemmete/mountshare](https://github.com/ehemmete/mountshare)|A Swift command line tool to mount network shares|19|2023-06-28|2023-06-27|
-|27|[rafunderscore/Escapades](https://github.com/rafunderscore/Escapades)|A collection of some of my SwiftUI expreiments. |18|2023-10-14|2023-10-04|
+|24|[rafunderscore/Escapades](https://github.com/rafunderscore/Escapades)|A collection of some of my SwiftUI expreiments. |19|2023-10-14|2023-10-04|
+|25|[JuniperPhoton/Widget-Intermediate-Animation](https://github.com/JuniperPhoton/Widget-Intermediate-Animation)|A demo to demonstrate how to animate widget changes with intermediate state|19|2023-08-25|2023-08-23|
+|26|[steventroughtonsmith/VisionExpandingSidebar](https://github.com/steventroughtonsmith/VisionExpandingSidebar)|Quick demonstration of how to make a Safari-style window that expands in size when its sidebar is shown, using UIKit, on visionOS.|19|2023-08-12|2023-08-12|
+|27|[ehemmete/mountshare](https://github.com/ehemmete/mountshare)|A Swift command line tool to mount network shares|19|2023-06-28|2023-06-27|
 |28|[macmade/dyld-cache-dump](https://github.com/macmade/dyld-cache-dump)|A macOS command-line tool to dump the contents of dyld shared cache files.|17|2023-06-13|2023-06-12|
 |29|[GoodRequest/GoodSwiftUI](https://github.com/GoodRequest/GoodSwiftUI)|📑 GoodSwiftUI is a comprehensive library filled with reusable SwiftUI snippets for faster and more efficient iOS development. This library offers a wide range of customizable UI components, designed t ...|17|2023-10-26|2023-02-08|
 |30|[Wadie-ess/ContributionChartView](https://github.com/Wadie-ess/ContributionChartView)|SwfitUI Package for Contribution Chart View Inspired by Github and LeetCode|16|2023-06-15|2023-06-10|
 |31|[sala7khaled/ios-stationclub](https://github.com/sala7khaled/ios-stationclub)|stationclub is a social networking platform for podcast and radio enthusiasts. With stationclub, users can discover new podcasts and radio stations, connect with other enthusiasts, and share their fav ...|16|2023-07-11|2023-02-22|
-|32|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|15|2023-11-23|2023-08-01|
+|32|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|15|2023-11-27|2023-08-01|
 |33|[akbashev/Distributed-Actors-in-Action](https://github.com/akbashev/Distributed-Actors-in-Action)|Port of Akka in Action examples to Swift Distributed Actors|15|2023-07-20|2023-04-25|
 |34|[Reality-Dev/RealityKit-Utilities](https://github.com/Reality-Dev/RealityKit-Utilities)|A collection of code that makes writing code with RealityKit easier.|13|2023-06-02|2023-02-17|
 |35|[nonstrict-hq/ScreenCaptureKit-Recording-example](https://github.com/nonstrict-hq/ScreenCaptureKit-Recording-example)|Example of how to use ScreenCaptureKit to record to a file|13|2023-09-28|2023-01-25|
@@ -46,7 +46,7 @@
 |39|[leparutill/ToiletFinder](https://github.com/leparutill/ToiletFinder)|Find, share, use accessible public toilets!|11|2023-11-04|2023-11-01|
 |40|[NNN-Studio/Abyssal](https://github.com/NNN-Studio/Abyssal)|Simplify, Tidy and Master Your macOS Menu Bar.|11|2023-11-23|2023-06-13|
 |41|[BinaryBirds/swift-macros](https://github.com/BinaryBirds/swift-macros)|🚧 A collection of useful macro definitions for Swift. (WIP)|11|2023-06-08|2023-06-08|
-|42|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|9|2023-11-22|2023-11-22|
+|42|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|10|2023-11-26|2023-11-22|
 |43|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|9|2023-10-23|2023-10-19|
 |44|[ceciliachenguo/BookPageFlipAnimation](https://github.com/ceciliachenguo/BookPageFlipAnimation)|iOS SwiftUI Animation for mimicing Book Page Flipping Effect|9|2023-08-04|2023-08-04|
 |45|[jiachenyee/frameworklicious](https://github.com/jiachenyee/frameworklicious)|Explore iOS device frameworks through a series of interactive activities|9|2023-07-03|2023-06-09|
