@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|45|2023-11-12|2023-04-10|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|29|2023-11-15|2023-07-27|
-|3|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2023-10-12|2023-04-05|
-|4|[nextflow-io/nf-prov](https://github.com/nextflow-io/nf-prov)|-|13|2023-10-27|2022-12-19|
+|3|[nextflow-io/nf-prov](https://github.com/nextflow-io/nf-prov)|-|15|2023-10-27|2022-12-19|
+|4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2023-10-12|2023-04-05|
 |5|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|10|2023-10-17|2023-05-31|
 |6|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2023-11-20|2023-04-25|
 |7|[arysin/nlp_uk_api](https://github.com/arysin/nlp_uk_api)|-|9|2023-05-31|2023-01-11|
@@ -22,21 +22,21 @@
 |15|[Rinaldi-James-Michael/Atlassian-Scripts-Public](https://github.com/Rinaldi-James-Michael/Atlassian-Scripts-Public)|Groovy scripts to run in the scriptrunner console for Jira and Confluence|5|2023-10-16|2023-01-07|
 |16|[h1alexbel/dothem](https://github.com/h1alexbel/dothem)|Personal Backlog of Tasks integrated with GitHub and Todoist|5|2023-10-19|2022-12-21|
 |17|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|4|2023-11-22|2023-11-09|
-|18|[autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar)|Parses Gradle build scripts (Groovy and Kotlin DSL)|4|2023-10-13|2023-08-04|
-|19|[neoforged/FoxLauncher](https://github.com/neoforged/FoxLauncher)|-|4|2023-08-03|2023-07-11|
-|20|[carlosrodlop/cbci.jenkins-lib](https://github.com/carlosrodlop/cbci.jenkins-lib)|It contains admins resources for CloudBees/Jenkins CI management and automations|4|2023-11-03|2023-02-01|
-|21|[jimmyliu1326/isPCR](https://github.com/jimmyliu1326/isPCR)|Rapid local alignment search by in silico PCR|4|2023-06-21|2022-12-16|
-|22|[mbeddr/mps-cli](https://github.com/mbeddr/mps-cli)|Tooling for accessing MPS models from command line without starting MPS instances.|4|2023-11-26|2022-12-16|
-|23|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|3|2023-11-02|2023-10-30|
-|24|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|-|3|2023-11-22|2023-10-26|
-|25|[Aj7Ay/Jenkins_shared_library](https://github.com/Aj7Ay/Jenkins_shared_library)|-|3|2023-10-17|2023-10-14|
+|18|[Aj7Ay/Jenkins_shared_library](https://github.com/Aj7Ay/Jenkins_shared_library)|-|4|2023-10-17|2023-10-14|
+|19|[autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar)|Parses Gradle build scripts (Groovy and Kotlin DSL)|4|2023-10-13|2023-08-04|
+|20|[neoforged/FoxLauncher](https://github.com/neoforged/FoxLauncher)|-|4|2023-08-03|2023-07-11|
+|21|[carlosrodlop/cbci.jenkins-lib](https://github.com/carlosrodlop/cbci.jenkins-lib)|It contains admins resources for CloudBees/Jenkins CI management and automations|4|2023-11-03|2023-02-01|
+|22|[jimmyliu1326/isPCR](https://github.com/jimmyliu1326/isPCR)|Rapid local alignment search by in silico PCR|4|2023-06-21|2022-12-16|
+|23|[mbeddr/mps-cli](https://github.com/mbeddr/mps-cli)|Tooling for accessing MPS models from command line without starting MPS instances.|4|2023-11-26|2022-12-16|
+|24|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|3|2023-11-02|2023-10-30|
+|25|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|-|3|2023-11-22|2023-10-26|
 |26|[JoaoGH/api2](https://github.com/JoaoGH/api2)|-|3|2023-09-01|2023-08-31|
-|27|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-11-27|2023-08-29|
+|27|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-11-29|2023-08-29|
 |28|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|3|2023-11-22|2023-07-18|
 |29|[anton-kolyaev/insurance-2023-july](https://github.com/anton-kolyaev/insurance-2023-july)|-|3|2023-07-18|2023-06-13|
 |30|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2023-11-19|2023-05-07|
 |31|[SA-DevOps-17thApr/Training-Docs](https://github.com/SA-DevOps-17thApr/Training-Docs)|Training Docs|3|2023-06-27|2023-04-19|
-|32|[dbsystel/tech-stories](https://github.com/dbsystel/tech-stories)|DB Systel Tech Stories|3|2023-11-22|2023-04-04|
+|32|[dbsystel/tech-stories](https://github.com/dbsystel/tech-stories)|DB Systel Tech Stories|3|2023-11-28|2023-04-04|
 |33|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2023-11-16|2023-03-25|
 |34|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
 |35|[bradsjm/hubitat-dev](https://github.com/bradsjm/hubitat-dev)|Personal Hubitat Apps and Drivers Development|3|2023-07-02|2023-02-24|
@@ -51,17 +51,17 @@
 |44|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
 |45|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
 |46|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2023-11-21|2023-09-19|
-|47|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2023-11-27|2023-09-14|
+|47|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2023-11-29|2023-09-14|
 |48|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
-|49|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2023-11-27|2023-08-22|
+|49|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2023-11-29|2023-08-22|
 |50|[jagedn/nextflow-groogle-sheet](https://github.com/jagedn/nextflow-groogle-sheet)|-|2|2023-07-11|2023-07-11|
 |51|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-11-09|2023-06-20|
 |52|[ayanpan/boomi-remove-first-n-lines-csv](https://github.com/ayanpan/boomi-remove-first-n-lines-csv)|-|2|2023-06-06|2023-05-31|
 |53|[rickenwang/GradlePlugin](https://github.com/rickenwang/GradlePlugin)|-|2|2023-06-21|2023-05-26|
-|54|[malikzh/dtox](https://github.com/malikzh/dtox)|DTO combinations generator written in Groovy|2|2023-05-29|2023-05-23|
-|55|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|2|2023-11-25|2023-05-22|
-|56|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
-|57|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2023-11-19|2023-05-17|
+|54|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|2|2023-11-25|2023-05-22|
+|55|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
+|56|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2023-11-29|2023-05-17|
+|57|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
 |58|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
 |59|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-10-13|2023-05-09|
 |60|[spoonboy-io/custom-tab-plugin](https://github.com/spoonboy-io/custom-tab-plugin)|Prototype Morpheus Custom Tab plugin|2|2023-08-17|2023-05-09|
