@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2023-12-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,24 +9,24 @@
 |2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1833|2023-11-18|
 |3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1358|2023-09-04|
 |4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|931|2023-12-07|
-|5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|397|2023-12-08|
+|5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|398|2023-12-08|
 |6|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |303|2023-12-08|
-|7|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)|148|2023-11-29|
-|8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|137|2023-12-06|
+|7|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)|149|2023-11-29|
+|8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|137|2023-12-09|
 |9|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|127|2023-09-13|
 |10|[otherjoel/try-pollen](https://github.com/otherjoel/try-pollen)|📔🌼 An example website/book created with Pollen.|122|2023-08-20|
-|11|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|116|2023-12-08|
+|11|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|116|2023-12-09|
 |12|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|105|2023-08-30|
-|13|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|105|2023-12-07|
+|13|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|105|2023-12-10|
 |14|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|90|2023-08-18|
 |15|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|69|2023-12-03|
 |16|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|67|2023-11-03|
-|17|[kcsinclair/mibs](https://github.com/kcsinclair/mibs)|A collection of MIBS used for SNMP I have accumulated over the last 20+ years, works with NET-SNMP tools.|59|2023-08-23|
+|17|[kcsinclair/mibs](https://github.com/kcsinclair/mibs)|A collection of MIBS used for SNMP I have accumulated over the last 20+ years, works with NET-SNMP tools.|60|2023-08-23|
 |18|[ebi-jdispatcher/webservice-clients](https://github.com/ebi-jdispatcher/webservice-clients)|A collection of Web Service Clients to consume EBI's tools via REST and SOAP APIs.|48|2023-07-03|
 |19|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|47|2023-11-13|
 |20|[lausser/check_logfiles](https://github.com/lausser/check_logfiles)| A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which scans logfiles for patterns.|46|2023-07-11|
 |21|[manwar/perl-cool-snippets](https://github.com/manwar/perl-cool-snippets)|Collection of Perl cool snippets.|43|2023-07-28|
-|22|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2023-12-08|
+|22|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2023-12-10|
 |23|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|42|2023-11-17|
 |24|[aprsorg/aprs-deviceid](https://github.com/aprsorg/aprs-deviceid)|APRS device identification data: tocalls.txt + mic-e-types.txt current master allocations (YAML, JSON, XML)|40|2023-11-05|
 |25|[maxmind/getting-started-with-mmdb](https://github.com/maxmind/getting-started-with-mmdb)|A quick guide to writing and reading from your own MMDB databases.|36|2023-10-17|
@@ -47,18 +47,18 @@
 |40|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-03|
 |41|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|20|2023-12-06|
 |42|[xukaili/CandiHap](https://github.com/xukaili/CandiHap)|A haplotype analysis toolkit for natural variation study.|19|2023-10-03|
-|43|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2023-12-07|
+|43|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2023-12-09|
 |44|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|18|2023-07-25|
 |45|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|16|2023-12-03|
 |46|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2023-10-25|
 |47|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
-|48|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|14|2023-12-08|
+|48|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|14|2023-12-09|
 |49|[dshumko/OpenEPG](https://github.com/dshumko/OpenEPG)|Electronic Program Guide (EPG) Generator for Digital Video Broadcasting (DVB)|13|2023-07-20|
 |50|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2023-12-08|
 |51|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|13|2023-10-28|
 |52|[jackalkarlos/CTF-Writeups-and-Scripts](https://github.com/jackalkarlos/CTF-Writeups-and-Scripts)|I share the solutions and scripts of the questions I like in the CTF I enter.|12|2023-10-15|
-|53|[davorg/learncpan](https://github.com/davorg/learncpan)|A simple API that returns a list of good quality tutorials for CPAN modules.|11|2023-12-05|
-|54|[EquinoxOpenLibraryInitiative/migration-tools](https://github.com/EquinoxOpenLibraryInitiative/migration-tools)|A collection of tools used for migrations and data projects in Evergreen and Koha.|11|2023-11-30|
+|53|[EquinoxOpenLibraryInitiative/migration-tools](https://github.com/EquinoxOpenLibraryInitiative/migration-tools)|A collection of tools used for migrations and data projects in Evergreen and Koha.|12|2023-11-30|
+|54|[davorg/learncpan](https://github.com/davorg/learncpan)|A simple API that returns a list of good quality tutorials for CPAN modules.|11|2023-12-05|
 |55|[ExapunksBacardi/ExapunksRecords](https://github.com/ExapunksBacardi/ExapunksRecords)|A collection of record solutions for exapunks|11|2023-07-01|
 |56|[Bahmni/bahmni-playbooks](https://github.com/Bahmni/bahmni-playbooks)|Ansible playbooks for Bahmni (used for Bahmni deployments and Installer)|11|2023-06-23|
 |57|[geertu/linux-scripts](https://github.com/geertu/linux-scripts)|Collection of scripts for Linux kernel development|10|2023-09-15|
@@ -79,19 +79,19 @@
 |72|[hadenlabs/cheatsheet](https://github.com/hadenlabs/cheatsheet)|cheatsheet for cheat|6|2023-07-31|
 |73|[eead-csic-compbio/scripting_linux_shell](https://github.com/eead-csic-compbio/scripting_linux_shell)|A collection of recipes to start scripting in the linux command line|6|2023-11-23|
 |74|[IBM-Security/performance](https://github.com/IBM-Security/performance)|IBM Security Performance tools, tuning guides and other helpful documentation.|6|2023-10-23|
-|75|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|2023-12-08|
+|75|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|2023-12-09|
 |76|[Ensembl/ensembl-xs](https://github.com/Ensembl/ensembl-xs)|A collection of XS modules to be used with the Ensembl APIs|6|2023-10-31|
 |77|[kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template)|Template for 'mdbook' books with my preferences|5|2023-10-09|
 |78|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|5|2023-09-04|
-|79|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|5|2023-12-07|
+|79|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|5|2023-12-09|
 |80|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|2023-11-20|
 |81|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|2023-07-21|
 |82|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2023-07-30|
 |83|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2023-12-08|
 |84|[outcastaaa/bioinformatics-learning](https://github.com/outcastaaa/bioinformatics-learning)|bioinformatics learning|4|2023-10-10|
 |85|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit ...|4|2023-12-06|
-|86|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2023-12-08|
-|87|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2023-12-08|
+|86|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2023-12-10|
+|87|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2023-12-09|
 |88|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2023-09-13|
 |89|[aslakjohansen/student-projects](https://github.com/aslakjohansen/student-projects)|List of student projects|4|2023-12-04|
 |90|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|4|2023-10-12|

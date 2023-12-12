@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2023-12-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1654|2023-11-20|
-|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|217|2023-12-06|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1656|2023-11-20|
+|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|217|2023-12-09|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|159|2023-12-04|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|133|2023-11-29|
-|5|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|93|2023-12-03|
+|5|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|95|2023-12-03|
 |6|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|83|2023-08-05|
 |7|[geoffsmith82/GmailAuthSMTP](https://github.com/geoffsmith82/GmailAuthSMTP)|This project is a very basic demo showing how to authenticate with OAUTH2 and send an email message for gmail, microsoft/office365 as well as hotmail.com/outlook.com/live.com email addresses. |78|2023-08-31|
 |8|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|2023-11-05|
-|9|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|53|2023-11-27|
+|9|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|54|2023-11-27|
 |10|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|38|2023-10-24|
 |11|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|34|2023-10-23|
 |12|[MuminjonGuru/Object-Pascal-Mastering](https://github.com/MuminjonGuru/Object-Pascal-Mastering)|These are not just simple 🧩Algorithms🧩. I also add interesting Academic concepts into it. Check this out.|26|2023-11-18|
@@ -30,7 +30,7 @@
 |23|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|2023-10-16|
 |24|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|2023-10-07|
 |25|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|2023-07-09|
-|26|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2023-12-02|
+|26|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2023-12-07|
 |27|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|2023-08-01|
 |28|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|5|2023-11-17|
 |29|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|2023-11-04|
@@ -48,10 +48,9 @@
 |41|[fre-sch/starfield-toolbox](https://github.com/fre-sch/starfield-toolbox)|Various scripts for xedit and Blender, and documentation on how to mod specific things in Starfield|2|2023-12-01|
 |42|[Hs32-Idir/x86-Exe-Crypter](https://github.com/Hs32-Idir/x86-Exe-Crypter)|Delphi open source show you how to code an Executable 32bit crypter with a simple Xor encryption.|2|2023-09-20|
 |43|[wp-xyz/gas_storage](https://github.com/wp-xyz/gas_storage)|Plots a time-series of the gas storage levels in European countries|2|2023-07-30|
-|44|[lucasmgon/Self-Educated](https://github.com/lucasmgon/Self-Educated)|This repository contains codes for programming languages and activities based on documentation, books, online courses and similar methods.|2|2023-06-09|
-|45|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|2023-09-20|
-|46|[edmund5/fb-win-messenger](https://github.com/edmund5/fb-win-messenger)|A clean Facebook Messenger for Windows.|2|2023-07-03|
-|47|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2023-09-21|
+|44|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|2023-09-20|
+|45|[edmund5/fb-win-messenger](https://github.com/edmund5/fb-win-messenger)|A clean Facebook Messenger for Windows.|2|2023-07-03|
+|46|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2023-09-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
