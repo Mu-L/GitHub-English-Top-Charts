@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2023-12-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[mrackwitz/MRProgress](https://github.com/mrackwitz/MRProgress)|Collection of iOS drop-in components to visualize progress|2556|2023-10-15|
 |3|[maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|A collection of animated loading indicators for React Native|2322|2023-11-18|
 |4|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1781|2023-09-18|
-|5|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1594|2023-12-12|
+|5|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1595|2023-12-12|
 |6|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|462|2023-08-25|
 |7|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|326|2023-10-13|
 |8|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|295|2023-08-23|
@@ -37,7 +37,7 @@
 |30|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|2023-11-20|
 |31|[moraea/amys-hacking-tutorial](https://github.com/moraea/amys-hacking-tutorial)|Amy's hacking tutorial|7|2023-08-18|
 |32|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|2023-12-11|
-|33|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|2023-11-10|
+|33|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|2023-12-13|
 |34|[IGRSoft/imGuru](https://github.com/IGRSoft/imGuru)|Upload image to imgur via context menu Share|6|2023-10-31|
 |35|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2023-11-20|
 |36|[abdulowork/LinkWithXCTAutomationSupportXcode14](https://github.com/abdulowork/LinkWithXCTAutomationSupportXcode14)|An example showing how to bypass a linker error when linking with XCTAutomationSupport|4|2023-10-04|

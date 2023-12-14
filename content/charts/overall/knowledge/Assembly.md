@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2023-12-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14626|2023-11-21|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9418|2023-12-09|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14631|2023-11-21|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9422|2023-12-09|
 |3|[dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi)|Raspberry Pi ARM based bare metal examples|2629|2023-07-14|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|522|2023-10-24|
 |5|[CJ42/All-About-Solidity](https://github.com/CJ42/All-About-Solidity)|A series of tutorials that cover most of the core elements of the Solidity language|482|2023-06-21|
 |6|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|394|2023-11-13|
-|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|183|2023-11-13|
+|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|184|2023-11-13|
 |8|[MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel)|539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on <https://539kernel.com ...|181|2023-11-14|
-|9|[openhwgroup/cvw](https://github.com/openhwgroup/cvw)|CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, ...|154|2023-12-12|
+|9|[openhwgroup/cvw](https://github.com/openhwgroup/cvw)|CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, ...|154|2023-12-13|
 |10|[therealdreg/masm32-kernel-programming](https://github.com/therealdreg/masm32-kernel-programming)|masm32 kernel programming, drivers, tutorials, examples, and tools (credits Four-F)|111|2023-08-11|
 |11|[mrfearless/libraries](https://github.com/mrfearless/libraries)|Collection of libraries for use with x86 / x64 assembler|91|2023-12-01|
 |12|[jsmolka/gba-tests](https://github.com/jsmolka/gba-tests)|A collection of Game Boy Advance tests.|85|2023-12-03|
@@ -21,14 +21,14 @@
 |14|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|65|2023-08-24|
 |15|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|60|2023-07-18|
 |16|[SlithyMatt/x16-assembly-tutorial](https://github.com/SlithyMatt/x16-assembly-tutorial)|A tutorial for learning 65C02 Assembly Language using the Commander X16|58|2023-06-19|
-|17|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|57|2023-12-12|
+|17|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|57|2023-12-13|
 |18|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|53|2023-11-20|
 |19|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|53|2023-12-10|
-|20|[Martins3/Martins3.github.io](https://github.com/Martins3/Martins3.github.io)|:book: Scratchpad about Linux, Compiler and Virtualization|48|2023-07-16|
+|20|[Martins3/Martins3.github.io](https://github.com/Martins3/Martins3.github.io)|:book: Scratchpad about Linux, Compiler and Virtualization|49|2023-07-16|
 |21|[billforsternz/retro-sargon](https://github.com/billforsternz/retro-sargon)|This is a project to bring the code from the book "Sargon a computer chess program" back to life in the modern era|47|2023-07-06|
 |22|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|42|2023-12-09|
-|23|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|38|2023-10-30|
-|24|[arget13/memdlopen](https://github.com/arget13/memdlopen)|dlopen() filelessly a shared object or even a program (and run it).|37|2023-08-31|
+|23|[arget13/memdlopen](https://github.com/arget13/memdlopen)|dlopen() filelessly a shared object or even a program (and run it).|38|2023-08-31|
+|24|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|38|2023-10-30|
 |25|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|36|2023-12-08|
 |26|[gfoot/sdcard6502](https://github.com/gfoot/sdcard6502)|Reading SD cards on a homebrew 6502 computer - tutorial guide and sample code|36|2023-07-10|
 |27|[gitendo/helloworld](https://github.com/gitendo/helloworld)|Hello world and other commented GameBoy assembly examples for beginners.|33|2023-10-11|
@@ -57,16 +57,16 @@
 |50|[MEGA65/mega65-examples](https://github.com/MEGA65/mega65-examples)|A gathering point for community created software examples for the MEGA65.|11|2023-07-20|
 |51|[fghsgh/MEEP](https://github.com/fghsgh/MEEP)|Multi-channel EEP Engine Program: advanced 1-bit sound engine for 83+/84+ series of calculators (except regular 83+)|11|2023-07-30|
 |52|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|10|2023-10-24|
-|53|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|2023-12-12|
-|54|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|10|2023-11-04|
-|55|[pararaum/amigaexamples](https://github.com/pararaum/amigaexamples)|Amiga examples in 68K assembler and C. |10|2023-08-08|
-|56|[Zibri/C64_Stable_Raster](https://github.com/Zibri/C64_Stable_Raster)|HSYNC and VSYNC examples.|9|2023-06-24|
-|57|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|9|2023-11-17|
-|58|[Zaalan3/TiGearCE](https://github.com/Zaalan3/TiGearCE)|Sega Master System and Game Gear Emulator for the TI84+CE|8|2023-07-03|
-|59|[beyrakIn/x86-Assembly](https://github.com/beyrakIn/x86-Assembly)|x86 Assembly learning path|8|2023-09-18|
-|60|[42Bastian/JaguarDemos](https://github.com/42Bastian/JaguarDemos)|A collection of new demos for Atari Jaguar|8|2023-12-09|
-|61|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|8|2023-12-09|
-|62|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|7|2023-12-10|
+|53|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|2023-12-13|
+|54|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|10|2023-11-17|
+|55|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|10|2023-11-04|
+|56|[pararaum/amigaexamples](https://github.com/pararaum/amigaexamples)|Amiga examples in 68K assembler and C. |10|2023-08-08|
+|57|[Zibri/C64_Stable_Raster](https://github.com/Zibri/C64_Stable_Raster)|HSYNC and VSYNC examples.|9|2023-06-24|
+|58|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|8|2023-12-10|
+|59|[Zaalan3/TiGearCE](https://github.com/Zaalan3/TiGearCE)|Sega Master System and Game Gear Emulator for the TI84+CE|8|2023-07-03|
+|60|[beyrakIn/x86-Assembly](https://github.com/beyrakIn/x86-Assembly)|x86 Assembly learning path|8|2023-09-18|
+|61|[42Bastian/JaguarDemos](https://github.com/42Bastian/JaguarDemos)|A collection of new demos for Atari Jaguar|8|2023-12-09|
+|62|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|8|2023-12-09|
 |63|[worthant/OPD](https://github.com/worthant/OPD)|:computer: This course is about computer science basics.|7|2023-08-01|
 |64|[ilyakurdyukov/hello-asm](https://github.com/ilyakurdyukov/hello-asm)|Hello World examples in assembly, for use as templates.|7|2023-11-28|
 |65|[rdoetjes/tuts](https://github.com/rdoetjes/tuts)|Assembly of random tutorials, that can be referenced in videos and YT comments|7|2023-10-10|
@@ -104,7 +104,7 @@
 |97|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|
 |98|[bolon667/sgdkTutorialsCode](https://github.com/bolon667/sgdkTutorialsCode)|Code for SGDK tutorials from Under-Prog.Ru|3|2023-07-05|
 |99|[segin-GH/esp-idf-examples](https://github.com/segin-GH/esp-idf-examples)|A repo full of esp-idf examples|3|2023-12-06|
-|100|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2023-12-08|
+|100|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2023-12-13|
 |101|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2023-12-07|
 |102|[mbhangui/tinydnssec](https://github.com/mbhangui/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2023-12-11|
 |103|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2023-10-26|
