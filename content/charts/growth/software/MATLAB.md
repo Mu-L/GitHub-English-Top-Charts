@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |56|4|2023-12-04|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6329|2|2023-12-09|
+|1|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |59|4|2023-12-04|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6331|2|2023-12-09|
 |3|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2331|1|2023-11-01|
-|4|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app and class to access ChatGPT API from OpenAI|158|1|2023-07-20|
-|5|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|456|1|2023-11-29|
+|4|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app and class to access ChatGPT API from OpenAI|157|1|2023-07-20|
+|5|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|459|1|2023-11-29|
 |6|[pulseq/ISMRM-Virtual-Meeting--November-15-17-2023](https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023)|Vendor-Agnostic Pulse Sequence Programming with Pulseq: From Basics to Advanced Topics (A Three-Day ISMRM Virtual Meeting Series)|32|1|2023-11-18|
-|7|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1289|1|2023-10-23|
+|7|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1290|1|2023-10-23|
 |8|[LeoVarnet/AM_FM_Spectra](https://github.com/LeoVarnet/AM_FM_Spectra)|Matlab toolbox for the computation of amplitude- and frequency- modulation spectra|6|0|2023-06-23|
 |9|[Luisrosario2604/Variational-computing-image-processing](https://github.com/Luisrosario2604/Variational-computing-image-processing)|Denoising, Impaiting & Deconvolution with matlab|4|0|2023-09-12|
 |10|[sorinaniculaesa/Feature-Extraction-and-Classification-of-EEG-Signals](https://github.com/sorinaniculaesa/Feature-Extraction-and-Classification-of-EEG-Signals)|This repository contains the implementation of a system for artifact removal and classification of clean EEG signals. The primary objective is to extract relevant features from EEG signals, including  ...|3|0|2023-07-19|
@@ -23,7 +23,7 @@
 |16|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|32|0|2023-09-05|
 |17|[Lcrypto/trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)| Importance Sampling and Linear Programming based Enumerating and Weighing of Trapping sets in LDPC codes, ISING models and related DNN Arch( Transformer, RBM, BM, SPN und etc), |17|0|2023-10-30|
 |18|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|4|0|2023-12-14|
-|19|[ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry)|-|22|0|2023-08-29|
+|19|[ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry)|-|23|0|2023-08-29|
 |20|[kreutz-lab/Rcall](https://github.com/kreutz-lab/Rcall)|R function interface for Matlab|19|0|2023-11-18|
 |21|[michellehirsch/MATLAB-Dataspace-to-Figure-Units](https://github.com/michellehirsch/MATLAB-Dataspace-to-Figure-Units)|Convert from dataspace to figure units to make it easier to add annotations pointing to data in a MATLAB figure window.|8|0|2023-06-29|
 |22|[BMSQSP/QSPToolbox](https://github.com/BMSQSP/QSPToolbox)|This is the fully public version of QSP Toolbox.  Please check the README file for the current version of MATLAB that is supported.|20|0|2023-10-22|
@@ -66,7 +66,7 @@
 |59|[yetianmed/subcortex](https://github.com/yetianmed/subcortex)|-|89|0|2023-11-04|
 |60|[genssi-developer/GenSSI](https://github.com/genssi-developer/GenSSI)|GenSSI 2.0 - Generating Series for testing Structural Identifiability|13|0|2023-07-10|
 |61|[jlh123465/Oled-Modeling](https://github.com/jlh123465/Oled-Modeling)|-|4|0|2023-10-15|
-|62|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|6|0|2023-12-07|
+|62|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|6|0|2023-12-18|
 |63|[lrkrol/SEREEGA](https://github.com/lrkrol/SEREEGA)|SEREEGA: Simulating Event-Related EEG Activity|55|0|2023-07-10|
 |64|[aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)|A set of graph/networks analysis functions in Octave|91|0|2023-10-30|
 |65|[fluentverification/usu_stochastic_case_studies](https://github.com/fluentverification/usu_stochastic_case_studies)|Case-study models of stochastic systems, mainly using the PRISM language. Models focus on low-level computing applications and logic circuits.|3|0|2023-08-23|
@@ -91,7 +91,7 @@
 |84|[koo-ec/ECDF-based-Distance-Measure](https://github.com/koo-ec/ECDF-based-Distance-Measure)|A set of functions for well-known Cumulative Distribution Function (CDF)-based distance measure|8|0|2023-06-29|
 |85|[mathworks/roll-center-calculator](https://github.com/mathworks/roll-center-calculator)|This submission contains a set of the .mlapp file and the .m function files to calculate the roll-center height. The model is built for the student teams participating in the automotive competitions.|7|0|2023-06-22|
 |86|[cultpenguin/sippi](https://github.com/cultpenguin/sippi)|A Matlab toolbox for sampling inverse problems with complex priors|17|0|2023-12-08|
-|87|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|20|0|2023-12-08|
+|87|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|21|0|2023-12-08|
 |88|[ABCD-STUDY/abcd_extract_eprime](https://github.com/ABCD-STUDY/abcd_extract_eprime)|scripts that extract task timing and behavioral metrics |5|0|2023-11-09|
 |89|[alontom/FARQA](https://github.com/alontom/FARQA)|-|3|0|2023-06-26|
 |90|[ziweiWWANG/Event-Camera-Calibration](https://github.com/ziweiWWANG/Event-Camera-Calibration)|Code for paper: "Event Camera Calibration of Per-pixel Biased Contrast Threshold", ACRA 2019. Calibrate event contrast threshold and bias for both event-frame and pure-event cameras.|15|0|2023-08-24|
@@ -143,7 +143,7 @@
 |136|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|16|0|2023-12-11|
 |137|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|98|0|2023-11-30|
 |138|[boranzhao/robust_ccm_tube](https://github.com/boranzhao/robust_ccm_tube)|Tube-certified nonlinear tracking with robust control contraction metrics|15|0|2023-08-28|
-|139|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|174|0|2023-09-13|
+|139|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|175|0|2023-09-13|
 |140|[cortex-lab/Transcriptomics](https://github.com/cortex-lab/Transcriptomics)|MATLAB software for analysis of single-cell RNA sequencing data, including probabilistic clustering, latent factor modeling, nbtSNE, visualization tools|5|0|2023-08-02|
 |141|[QuantumComputingLab/fable](https://github.com/QuantumComputingLab/fable)|Fast Approximate Block Encodings|3|0|2023-08-16|
 |142|[guirlo/Simulink-Ignition-Scheduler](https://github.com/guirlo/Simulink-Ignition-Scheduler)|Simulation of the ignition control of a four-cylinder engine|4|0|2023-09-29|
@@ -160,7 +160,7 @@
 |153|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|11|0|2023-12-06|
 |154|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |4|0|2023-07-01|
 |155|[denglingyun123/Multi-strategy-improved-slime-mould-algorithm](https://github.com/denglingyun123/Multi-strategy-improved-slime-mould-algorithm)|-|3|0|2023-10-29|
-|156|[hrashrafi/Geometric-Control-of-a-Quadrotor-in-Wind-Fields-MATLAB](https://github.com/hrashrafi/Geometric-Control-of-a-Quadrotor-in-Wind-Fields-MATLAB)|Implementation of Geometric Control of a Quadrotor in Wind Fields in MATLAB|3|0|2023-07-12|
+|156|[hrashrafi/Geometric-Control-of-a-Quadrotor-in-Wind-Fields-MATLAB](https://github.com/hrashrafi/Geometric-Control-of-a-Quadrotor-in-Wind-Fields-MATLAB)|Implementation of Geometric Control of a Quadrotor in Wind Fields in MATLAB|4|0|2023-07-12|
 |157|[Logan-Shi/GPDM-trajectory-generation](https://github.com/Logan-Shi/GPDM-trajectory-generation)|human trajectory generation based on CMU motion capture dataset with Gaussian Process Dynamic Model|4|0|2023-06-22|
 |158|[mnamias/PET_Harmonization_Toolbox](https://github.com/mnamias/PET_Harmonization_Toolbox)|Toolbox for quantitative harmonization in PET. This code is to accompany the paper "A novel approach for quantitative harmonization in PET" M Namías et al 2018 Phys. Med. Biol. 63 095019|3|0|2023-08-17|
 |159|[NagireddychandramouliReddy/OTFS](https://github.com/NagireddychandramouliReddy/OTFS)| Implemented a 2 X 2 MIMO OTFS system and analysed the performance metrics under channel fading conditions.|6|0|2023-12-05|
@@ -187,7 +187,7 @@
 |180|[a280558071/OWF_RadialECSP](https://github.com/a280558071/OWF_RadialECSP)|Offshore Wind Farm Radial ECS Planning with some pratical concerns and case studies|6|0|2023-12-08|
 |181|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|3|0|2023-11-22|
 |182|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2023-10-26|
-|183|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |19|0|2023-12-13|
+|183|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |19|0|2023-12-18|
 |184|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|3|0|2023-12-04|
 |185|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|10|0|2023-12-11|
 |186|[forecastingplatform/forecastingplatform](https://github.com/forecastingplatform/forecastingplatform)|The Macroeconomic Forecasting Platform|5|0|2023-06-27|

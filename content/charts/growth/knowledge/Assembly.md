@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14644|13|2023-11-21|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9435|7|2023-12-17|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14649|13|2023-11-21|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9437|7|2023-12-17|
 |3|[therealdreg/masm32-kernel-programming](https://github.com/therealdreg/masm32-kernel-programming)|masm32 kernel programming, drivers, tutorials, examples, and tools (credits Four-F)|111|1|2023-08-11|
 |4|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|1|2023-12-14|
 |5|[dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi)|Raspberry Pi ARM based bare metal examples|2632|1|2023-07-14|
@@ -18,7 +18,7 @@
 |11|[fghsgh/MEEP](https://github.com/fghsgh/MEEP)|Multi-channel EEP Engine Program: advanced 1-bit sound engine for 83+/84+ series of calculators (except regular 83+)|11|0|2023-07-30|
 |12|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|5|0|2023-12-17|
 |13|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|0|2023-11-27|
-|14|[openhwgroup/cvw](https://github.com/openhwgroup/cvw)|CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, ...|155|0|2023-12-16|
+|14|[openhwgroup/cvw](https://github.com/openhwgroup/cvw)|CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, ...|155|0|2023-12-18|
 |15|[42Bastian/JaguarDemos](https://github.com/42Bastian/JaguarDemos)|A collection of new demos for Atari Jaguar|8|0|2023-12-09|
 |16|[mrfearless/libraries](https://github.com/mrfearless/libraries)|Collection of libraries for use with x86 / x64 assembler|92|0|2023-12-01|
 |17|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|19|0|2023-06-27|
@@ -26,17 +26,17 @@
 |19|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|10|0|2023-11-04|
 |20|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|184|0|2023-11-13|
 |21|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|10|0|2023-11-17|
-|22|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|0|2023-12-17|
+|22|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|10|0|2023-12-18|
 |23|[mauri870/baking-pi](https://github.com/mauri870/baking-pi)|My code for Baking Pi - Operating Systems Development online course by Cambridge University (Raspberry Pi 3 update)|25|0|2023-07-19|
 |24|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|16|0|2023-12-11|
-|25|[bolon667/sgdkTutorialsCode](https://github.com/bolon667/sgdkTutorialsCode)|Code for SGDK tutorials from Under-Prog.Ru|3|0|2023-07-05|
+|25|[bolon667/sgdkTutorialsCode](https://github.com/bolon667/sgdkTutorialsCode)|Code for SGDK tutorials from Under-Prog.Ru|4|0|2023-07-05|
 |26|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|7|0|2023-10-03|
 |27|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|12|0|2023-11-07|
 |28|[nnamanx/intel_8086](https://github.com/nnamanx/intel_8086)|Completed Assignments of Computer Organization & Architecture Course|3|0|2023-07-08|
 |29|[romh-acking/tensai-bakabon-sms-en](https://github.com/romh-acking/tensai-bakabon-sms-en)|Tensai Bakabon (Sega Master System): English translation |5|0|2023-09-09|
 |30|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|27|0|2023-11-24|
 |31|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|The ultimate guide for bare metal programming using stm32|4|0|2023-11-10|
-|32|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|21|0|2023-12-17|
+|32|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|21|0|2023-12-18|
 |33|[worthant/OPD](https://github.com/worthant/OPD)|:computer: This course is about computer science basics.|7|0|2023-08-01|
 |34|[santiontanon/castlemaster2-disassembly](https://github.com/santiontanon/castlemaster2-disassembly)|Disassembly of the original 1990 Castle Master II: The Crypt ZX Spectrum game|21|0|2023-07-16|
 |35|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|522|0|2023-10-24|
@@ -46,15 +46,15 @@
 |39|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|0|2023-10-10|
 |40|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|53|0|2023-11-20|
 |41|[SlithyMatt/x16-assembly-tutorial](https://github.com/SlithyMatt/x16-assembly-tutorial)|A tutorial for learning 65C02 Assembly Language using the Commander X16|58|0|2023-06-19|
-|42|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|57|0|2023-12-16|
+|42|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|57|0|2023-12-18|
 |43|[prithivi-maruthachalam/BellLabs](https://github.com/prithivi-maruthachalam/BellLabs)|Code Snippets and examples for Bell Labs|2|0|2023-09-04|
 |44|[IceCool10/PacientZero](https://github.com/IceCool10/PacientZero)|C++ Packer ( Master Degree Project )|4|0|2023-12-04|
-|45|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|25|0|2023-12-17|
+|45|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|25|0|2023-12-18|
 |46|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|0|2023-10-31|
 |47|[jsmolka/gba-tests](https://github.com/jsmolka/gba-tests)|A collection of Game Boy Advance tests.|85|0|2023-12-03|
 |48|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|5|0|2023-12-04|
 |49|[GonzaloEscamilla/sgdk-development](https://github.com/GonzaloEscamilla/sgdk-development)|A fun and experimental project where I got to explore my love for Sega Genesis/Mega Drive games by learning C and using the SGDK development kit to create my own ROMs. It was a great opportunity to di ...|4|0|2023-09-07|
-|50|[parallelno/Vector06c](https://github.com/parallelno/Vector06c)|Vector06c (КР580ВМ80 / i8080 ) dev setup, and code snippets. TASM32 + Visual Studio Code + Emu80|6|0|2023-12-07|
+|50|[parallelno/Vector06c](https://github.com/parallelno/Vector06c)|Vector06c (КР580ВМ80 / i8080 ) dev setup, and code snippets. TASM32 + Visual Studio Code + Emu80|6|0|2023-12-18|
 |51|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|29|0|2023-10-26|
 |52|[LeonarthCG/FFTA_Engine_Hacks](https://github.com/LeonarthCG/FFTA_Engine_Hacks)|A collection of my modular engine hacks for FFTA|19|0|2023-09-25|
 |53|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|21|0|2023-12-02|

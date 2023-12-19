@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -35,7 +35,7 @@
 |28|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2023-08-01|
 |29|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|7|0|2023-11-17|
 |30|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|13|0|2023-07-15|
-|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1657|0|2023-11-20|
+|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1658|0|2023-11-20|
 |32|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2023-10-27|
 |33|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2023-07-25|
 |34|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|0|2023-11-04|
@@ -45,7 +45,7 @@
 |38|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|96|0|2023-12-13|
 |39|[Hs32-Idir/x86-Exe-Crypter](https://github.com/Hs32-Idir/x86-Exe-Crypter)|Delphi open source show you how to code an Executable 32bit crypter with a simple Xor encryption.|2|0|2023-09-20|
 |40|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|133|0|2023-12-14|
-|41|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|0|2023-12-11|
+|41|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|0|2023-12-18|
 |42|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2023-12-16|
 |43|[edmund5/fb-win-messenger](https://github.com/edmund5/fb-win-messenger)|A clean Facebook Messenger for Windows.|2|0|2023-07-03|
 |44|[rmesch/Bitmaps2Video-for-Media-Foundation](https://github.com/rmesch/Bitmaps2Video-for-Media-Foundation)|Encode a series of bitmaps and video clips together with an audio file to video using the Windows Mediafoundation-API|4|0|2023-09-05|

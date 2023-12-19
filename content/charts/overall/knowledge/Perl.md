@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1863|2023-12-14|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1844|2023-12-17|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1845|2023-12-18|
 |3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1362|2023-09-04|
-|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|936|2023-12-14|
+|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|937|2023-12-18|
 |5|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|697|2023-12-14|
-|6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|398|2023-12-12|
-|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |303|2023-12-15|
+|6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|398|2023-12-18|
+|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |303|2023-12-18|
 |8|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)|149|2023-11-29|
 |9|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|138|2023-12-17|
 |10|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|127|2023-09-13|
@@ -28,7 +28,7 @@
 |21|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|47|2023-11-13|
 |22|[lausser/check_logfiles](https://github.com/lausser/check_logfiles)| A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which scans logfiles for patterns.|46|2023-07-11|
 |23|[manwar/perl-cool-snippets](https://github.com/manwar/perl-cool-snippets)|Collection of Perl cool snippets.|45|2023-12-14|
-|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2023-12-17|
+|24|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2023-12-18|
 |25|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|42|2023-12-12|
 |26|[aprsorg/aprs-deviceid](https://github.com/aprsorg/aprs-deviceid)|APRS device identification data: tocalls.txt + mic-e-types.txt current master allocations (YAML, JSON, XML)|40|2023-11-05|
 |27|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|39|2023-12-16|
@@ -50,12 +50,12 @@
 |43|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-03|
 |44|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|20|2023-12-06|
 |45|[xukaili/CandiHap](https://github.com/xukaili/CandiHap)|A haplotype analysis toolkit for natural variation study.|19|2023-10-03|
-|46|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2023-12-16|
+|46|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2023-12-17|
 |47|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|18|2023-07-25|
 |48|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|16|2023-12-03|
 |49|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2023-10-25|
 |50|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
-|51|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|14|2023-12-14|
+|51|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|14|2023-12-18|
 |52|[dshumko/OpenEPG](https://github.com/dshumko/OpenEPG)|Electronic Program Guide (EPG) Generator for Digital Video Broadcasting (DVB)|13|2023-07-20|
 |53|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|13|2023-12-13|
 |54|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|13|2023-12-17|
@@ -93,7 +93,7 @@
 |86|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2023-12-15|
 |87|[outcastaaa/bioinformatics-learning](https://github.com/outcastaaa/bioinformatics-learning)|bioinformatics learning|4|2023-10-10|
 |88|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit ...|4|2023-12-06|
-|89|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2023-12-17|
+|89|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2023-12-18|
 |90|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2023-12-16|
 |91|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2023-09-13|
 |92|[levitte/perl](https://github.com/levitte/perl)|A collection of Perl modules|4|2023-12-12|
@@ -112,13 +112,15 @@
 |105|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2023-12-15|
 |106|[stevieb9/ipc-shareable](https://github.com/stevieb9/ipc-shareable)|Share Perl variables across processes and scripts|3|2023-10-25|
 |107|[ai7/toolbox](https://github.com/ai7/toolbox)|Collection of my useful utilities|3|2023-07-05|
-|108|[pberry/jwz-youtube](https://github.com/pberry/jwz-youtube)|A small collection of youtube related scripts by jwz (Yes, that jwz)|3|2023-09-16|
-|109|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2023-09-25|
-|110|[shahariar-shibli/Write-Bangla-or-Bengali-in-Latex](https://github.com/shahariar-shibli/Write-Bangla-or-Bengali-in-Latex)|How to write Bangla/Bengali in Latex/pdflatex|2|2023-09-12|
-|111|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2023-08-20|
-|112|[TypeWork/turabian-researchpaper-to-Word-with-Pandoc](https://github.com/TypeWork/turabian-researchpaper-to-Word-with-Pandoc)|Turabian Formatted Research Papers with Pandoc (converting from .tex to .docx)|2|2023-07-18|
-|113|[dallaylaen/assert-refute-perl](https://github.com/dallaylaen/assert-refute-perl)|Test script-alike code snippets usable in production code|2|2023-07-30|
-|114|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
+|108|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|2023-12-18|
+|109|[pberry/jwz-youtube](https://github.com/pberry/jwz-youtube)|A small collection of youtube related scripts by jwz (Yes, that jwz)|3|2023-09-16|
+|110|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2023-09-25|
+|111|[shahariar-shibli/Write-Bangla-or-Bengali-in-Latex](https://github.com/shahariar-shibli/Write-Bangla-or-Bengali-in-Latex)|How to write Bangla/Bengali in Latex/pdflatex|2|2023-09-12|
+|112|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2023-08-20|
+|113|[TypeWork/turabian-researchpaper-to-Word-with-Pandoc](https://github.com/TypeWork/turabian-researchpaper-to-Word-with-Pandoc)|Turabian Formatted Research Papers with Pandoc (converting from .tex to .docx)|2|2023-07-18|
+|114|[dallaylaen/assert-refute-perl](https://github.com/dallaylaen/assert-refute-perl)|Test script-alike code snippets usable in production code|2|2023-07-30|
+|115|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
+|116|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
