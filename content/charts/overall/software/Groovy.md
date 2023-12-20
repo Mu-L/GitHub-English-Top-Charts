@@ -1,39 +1,39 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Groovy
-<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15581|2023-12-18|
-|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|7940|2023-07-26|
-|3|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5148|2023-12-18|
-|4|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3451|2023-12-14|
-|5|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2984|2023-09-04|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15586|2023-12-19|
+|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|7941|2023-07-26|
+|3|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5149|2023-12-19|
+|4|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3452|2023-12-19|
+|5|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2985|2023-09-04|
 |6|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceType Handlers and SmartApps code|2524|2023-07-18|
-|7|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2404|2023-12-18|
-|8|[jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|1856|2023-12-18|
-|9|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1670|2023-11-17|
-|10|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1499|2023-12-13|
+|7|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2410|2023-12-19|
+|8|[jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|1857|2023-12-18|
+|9|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1671|2023-11-17|
+|10|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1500|2023-12-13|
 |11|[jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts)|Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins|885|2023-12-04|
 |12|[researchgate/gradle-release](https://github.com/researchgate/gradle-release)|gradle-release is a plugin for providing a Maven-like release process for projects using Gradle|842|2023-12-03|
-|13|[geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins)|Ansible Role - Jenkins CI|806|2023-10-31|
-|14|[radarsh/gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin)|A Gradle plugin for printing beautiful logs on the console while running tests|787|2023-12-14|
-|15|[spockframework/spock-example](https://github.com/spockframework/spock-example)|Spock example specifications along with ready-to-go Gradle and Maven builds|756|2023-12-13|
-|16|[palantir/gradle-docker](https://github.com/palantir/gradle-docker)|a Gradle plugin for orchestrating docker builds and pushes.|730|2023-12-17|
+|13|[geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins)|Ansible Role - Jenkins CI|807|2023-10-31|
+|14|[radarsh/gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin)|A Gradle plugin for printing beautiful logs on the console while running tests|785|2023-12-14|
+|15|[spockframework/spock-example](https://github.com/spockframework/spock-example)|Spock example specifications along with ready-to-go Gradle and Maven builds|755|2023-12-13|
+|16|[palantir/gradle-docker](https://github.com/palantir/gradle-docker)|a Gradle plugin for orchestrating docker builds and pushes.|730|2023-12-19|
 |17|[ultraq/thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect)|A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse|692|2023-12-02|
-|18|[docToolchain/docToolchain](https://github.com/docToolchain/docToolchain)|a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation|672|2023-12-15|
+|18|[docToolchain/docToolchain](https://github.com/docToolchain/docToolchain)|a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation|672|2023-12-18|
 |19|[cloudbees/jenkins-scripts](https://github.com/cloudbees/jenkins-scripts)|-|664|2023-10-27|
 |20|[melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin)|Integrates the JMH benchmarking framework with Gradle|610|2023-12-13|
 |21|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|570|2023-11-17|
 |22|[jenkinsci/pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin)|-|552|2023-12-09|
-|23|[openboxes/openboxes](https://github.com/openboxes/openboxes)|OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.|543|2023-12-18|
+|23|[openboxes/openboxes](https://github.com/openboxes/openboxes)|OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.|544|2023-12-18|
 |24|[bmuschko/gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin)|Gradle plugin supporting deployment of your web application to an embedded Tomcat web container|532|2023-10-12|
 |25|[allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin)|Gradle release & version management plugin.|531|2023-12-18|
 |26|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|516|2023-12-15|
 |27|[ajoberstar/grgit](https://github.com/ajoberstar/grgit)|The Groovy way to use Git.|501|2023-10-21|
 |28|[etiennestuder/gradle-jooq-plugin](https://github.com/etiennestuder/gradle-jooq-plugin)|Gradle plugin that integrates jOOQ. |496|2023-12-16|
-|29|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|455|2023-12-15|
+|29|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|455|2023-12-19|
 |30|[openbakery/gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin)|gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS|451|2023-10-03|
 |31|[spinnaker/clouddriver](https://github.com/spinnaker/clouddriver)|read and write operations across cloud providers|422|2023-12-13|
 |32|[hierynomus/license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin)|Manage your license(s)|401|2023-08-26|
@@ -43,7 +43,7 @@
 |36|[embeddedartistry/templates](https://github.com/embeddedartistry/templates)|Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)|360|2023-10-10|
 |37|[jfrog/artifactory-user-plugins](https://github.com/jfrog/artifactory-user-plugins)|Sample Artifactory User Plugins|358|2023-10-26|
 |38|[beryx/badass-jlink-plugin](https://github.com/beryx/badass-jlink-plugin)|Create a custom runtime image of your modular application|355|2023-12-18|
-|39|[dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle)|The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.|338|2023-12-18|
+|39|[dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle)|The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.|339|2023-12-18|
 |40|[rackerlabs/repose](https://github.com/rackerlabs/repose)|The powerful, programmable, API Middleware Platform|337|2023-10-12|
 |41|[NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service)|SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.|322|2023-12-18|
 |42|[int128/gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|311|2023-12-05|
@@ -53,13 +53,13 @@
 |46|[int128/gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing|288|2023-12-14|
 |47|[nebula-plugins/gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)|A plugin to allow people using dynamic dependency versions to lock them to specific versions.|287|2023-12-06|
 |48|[TheBoegl/gradle-launch4j](https://github.com/TheBoegl/gradle-launch4j)|A gradle-plugin to create windows executables with launch4j|283|2023-11-30|
-|49|[craftercms/craftercms](https://github.com/craftercms/craftercms)|Parent project for Crafter CMS. Issue tracking across all repositories and global builds.|273|2023-12-18|
-|50|[asciidoctor/asciidoctor-gradle-plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin)|A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.|273|2023-12-09|
+|49|[asciidoctor/asciidoctor-gradle-plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin)|A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.|274|2023-12-09|
+|50|[craftercms/craftercms](https://github.com/craftercms/craftercms)|Parent project for Crafter CMS. Issue tracking across all repositories and global builds.|273|2023-12-19|
 |51|[moqui/moqui-framework](https://github.com/moqui/moqui-framework)|Use Moqui Framework to build enterprise applications based on Java. It includes tools for databases (relational, graph, document), local and web services, web and other UI with screens and forms, secu ...|269|2023-12-07|
 |52|[samrocketman/jervis](https://github.com/samrocketman/jervis)|Self service Jenkins job generation using Jenkins Job DSL plugin groovy scripts. Reads .jervis.yml and generates a job in Jenkins.|269|2023-12-10|
 |53|[renatoathaydes/spock-reports](https://github.com/renatoathaydes/spock-reports)|This project creates a global extension to Spock to create test reports.|268|2023-08-21|
 |54|[ansible-ThoTeam/nexus3-oss](https://github.com/ansible-ThoTeam/nexus3-oss)|Ansible role to install and provision sonatype nexus3-oss|264|2023-12-18|
-|55|[grails/grails-spring-security-core](https://github.com/grails/grails-spring-security-core)|Grails Spring Security Core Plugin|252|2023-12-18|
+|55|[grails/grails-spring-security-core](https://github.com/grails/grails-spring-security-core)|Grails Spring Security Core Plugin|252|2023-12-19|
 |56|[odavid/my-bloody-jenkins](https://github.com/odavid/my-bloody-jenkins)|Self Configured Jenkins Docker image based on Jenkins-LTS|250|2023-07-07|
 |57|[GPars/GPars](https://github.com/GPars/GPars)|The GPars concurrency and parallelism framework for the JVM|236|2023-12-16|
 |58|[spinnaker/orca](https://github.com/spinnaker/orca)|Orchestration engine|235|2023-12-14|
@@ -69,7 +69,7 @@
 |62|[JetBrains/gradle-idea-ext-plugin](https://github.com/JetBrains/gradle-idea-ext-plugin)|Plugin to store IJ settings in gradle script|220|2023-08-23|
 |63|[nebula-plugins/nebula-release-plugin](https://github.com/nebula-plugins/nebula-release-plugin)|Release opinions based around gradle-git|216|2023-12-11|
 |64|[grails/grails-data-mapping](https://github.com/grails/grails-data-mapping)|GORM - Groovy Object Mapping|216|2023-12-17|
-|65|[wcm-io-devops/jenkins-pipeline-library](https://github.com/wcm-io-devops/jenkins-pipeline-library)|wcm.io Jenkins Pipeline Library for CI/CD|210|2023-10-17|
+|65|[wcm-io-devops/jenkins-pipeline-library](https://github.com/wcm-io-devops/jenkins-pipeline-library)|wcm.io Jenkins Pipeline Library for CI/CD|211|2023-10-17|
 |66|[grails/grails-spring-security-rest](https://github.com/grails/grails-spring-security-rest)|Grails plugin to implement token-based, RESTful authentication using Spring Security|202|2023-11-29|
 |67|[grails/grails-doc](https://github.com/grails/grails-doc)|Documentation Project For The Grails Web Application Framework|200|2023-12-18|
 |68|[szpak/gradle-pitest-plugin](https://github.com/szpak/gradle-pitest-plugin)|Gradle plugin for PIT Mutation Testing|196|2023-12-01|
@@ -80,11 +80,11 @@
 |73|[sherter/google-java-format-gradle-plugin](https://github.com/sherter/google-java-format-gradle-plugin)|-|182|2023-10-26|
 |74|[jdereg/n-cube](https://github.com/jdereg/n-cube)|Rules Engine, Decision Tables, Templating|172|2023-11-30|
 |75|[platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter)|Gradle dependencies formatter for IntelliJ IDEA|164|2023-12-04|
-|76|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|162|2023-12-15|
+|76|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|162|2023-12-19|
 |77|[hubitat/HubitatPublic](https://github.com/hubitat/HubitatPublic)|-|158|2023-10-07|
 |78|[danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus)|web-based thesaurus search and management|157|2023-07-30|
 |79|[beryx/badass-runtime-plugin](https://github.com/beryx/badass-runtime-plugin)|Create a custom runtime image of your non-modular application|156|2023-10-13|
-|80|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|154|2023-12-18|
+|80|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|154|2023-12-19|
 |81|[jgitver/jgitver-maven-plugin](https://github.com/jgitver/jgitver-maven-plugin)|maven core extension to automatically define versions using jgitver & git tags|151|2023-09-25|
 |82|[repaint-io/maven-tiles](https://github.com/repaint-io/maven-tiles)|Injecting maven configurations by composition rather than inheritance|148|2023-12-14|
 |83|[cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground)|Creates a complete GitOps-based operational stack on your Kubernetes clusters|144|2023-12-18|
@@ -108,14 +108,14 @@
 |101|[allegro/handlebars-spring-boot-starter](https://github.com/allegro/handlebars-spring-boot-starter)|Spring Boot auto-configuration for Handlebars|107|2023-10-20|
 |102|[koral--/android-gradle-localization-plugin](https://github.com/koral--/android-gradle-localization-plugin)|Gradle plugin for generating localized string resources|107|2023-11-16|
 |103|[InovelliUSA/Hubitat](https://github.com/InovelliUSA/Hubitat)|Location for Inovelli Hubitat Drivers and Apps|104|2023-12-06|
-|104|[brown-uk/corpus](https://github.com/brown-uk/corpus)|Браунський корпус української мови|103|2023-12-16|
-|105|[gesellix/docker-client](https://github.com/gesellix/docker-client)|A Docker client for Java written in Kotlin and Groovy|103|2023-12-18|
+|104|[brown-uk/corpus](https://github.com/brown-uk/corpus)|Браунський корпус української мови|103|2023-12-19|
+|105|[gesellix/docker-client](https://github.com/gesellix/docker-client)|A Docker client for Java written in Kotlin and Groovy|103|2023-12-19|
 |106|[Itiviti/gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)|Gradle plugin for msbuild execution, supports C# project files for now|101|2023-07-27|
 |107|[docker-library/oi-janky-groovy](https://github.com/docker-library/oi-janky-groovy)|Jenkins Pipeline and Job DSL scripts for Official Images Jenkins jobs|100|2023-12-15|
 |108|[gigaSproule/swagger-gradle-plugin](https://github.com/gigaSproule/swagger-gradle-plugin)|JAX-RS & SpringMVC supported gradle build plugin to generate Swagger documentation|97|2023-09-02|
 |109|[nebula-plugins/nebula-publishing-plugin](https://github.com/nebula-plugins/nebula-publishing-plugin)|Publishing related plugins|97|2023-11-29|
-|110|[grails/grails-database-migration](https://github.com/grails/grails-database-migration)|Grails® framework Database Migration Plugin|97|2023-12-14|
-|111|[Mirantis/pipeline-library](https://github.com/Mirantis/pipeline-library)|-|96|2023-12-11|
+|110|[grails/grails-database-migration](https://github.com/grails/grails-database-migration)|Grails® framework Database Migration Plugin|97|2023-12-19|
+|111|[Mirantis/pipeline-library](https://github.com/Mirantis/pipeline-library)|-|96|2023-12-19|
 |112|[BreadMoirai/github-release-gradle-plugin](https://github.com/BreadMoirai/github-release-gradle-plugin)|A Gradle Plugin to send Releases to Github|95|2023-11-22|
 |113|[gradlex-org/build-parameters](https://github.com/gradlex-org/build-parameters)|Compile-safe access to parameters supplied to a Gradle build|93|2023-12-18|
 |114|[daniellansun/groovy-parser](https://github.com/daniellansun/groovy-parser)|Yet another new parser for Groovy programming language(project code: Parrot)|91|2023-12-09|
@@ -124,12 +124,12 @@
 |117|[spinnaker/rosco](https://github.com/spinnaker/rosco)|A bakery for deployable images|89|2023-12-13|
 |118|[membrane/soa-model](https://github.com/membrane/soa-model)|Toolkit and Java API for WSDL, WADL and XML Schema.|89|2023-07-10|
 |119|[nebula-plugins/nebula-project-plugin](https://github.com/nebula-plugins/nebula-project-plugin)|Healthy defaults for a standard Gradle project|88|2023-11-29|
-|120|[gradlex-org/extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info)|A Gradle 6.8+ plugin to use legacy Java libraries as Java Modules in a modular Java project|87|2023-12-18|
+|120|[gradlex-org/extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info)|A Gradle 6.8+ plugin to use legacy Java libraries as Java Modules in a modular Java project|87|2023-12-19|
 |121|[DeployGate/gradle-deploygate-plugin](https://github.com/DeployGate/gradle-deploygate-plugin)|DeployGate plugin for the Gradle build system.|84|2023-12-01|
 |122|[grails-fields-plugin/grails-fields](https://github.com/grails-fields-plugin/grails-fields)|a spiritual successor to the bean-fields plugin|84|2023-10-08|
 |123|[boozallen/sdp-libraries](https://github.com/boozallen/sdp-libraries)|The Solutions Delivery Platform Pipeline Libraries for the Jenkins Templating Engine|83|2023-10-18|
 |124|[ksemaev/project_template](https://github.com/ksemaev/project_template)|Typical repo for new devops project|79|2023-10-24|
-|125|[gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin)|Gradle Docker plugin|79|2023-12-18|
+|125|[gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin)|Gradle Docker plugin|79|2023-12-19|
 |126|[open2c/distiller-nf](https://github.com/open2c/distiller-nf)|A modular Hi-C mapping pipeline|77|2023-12-13|
 |127|[stempler/bnd-platform](https://github.com/stempler/bnd-platform)|Build OSGi bundles and Eclipse Update Sites from existing JARs, e.g. from Maven repositories (Plugin for Gradle)|76|2023-10-27|
 |128|[okta/okta-jwt-verifier-java](https://github.com/okta/okta-jwt-verifier-java)|okta-jwt-verifier-java|75|2023-12-15|
@@ -137,7 +137,7 @@
 |130|[sparxsys/ScriptRunner-Scripts](https://github.com/sparxsys/ScriptRunner-Scripts)|Groovy scripts to make your life easier when working on Atlassian tools|73|2023-11-18|
 |131|[maiflai/gradle-scalatest](https://github.com/maiflai/gradle-scalatest)|A plugin to enable the use of scalatest in a gradle Scala project.|72|2023-11-14|
 |132|[marklogic/ml-gradle](https://github.com/marklogic/ml-gradle)|Gradle plugin for automating everything involving MarkLogic|70|2023-11-20|
-|133|[grails/grails-spring-security-ui](https://github.com/grails/grails-spring-security-ui)|The Spring Security UI plugin provides CRUD screens and other user management workflows.|70|2023-12-14|
+|133|[grails/grails-spring-security-ui](https://github.com/grails/grails-spring-security-ui)|The Spring Security UI plugin provides CRUD screens and other user management workflows.|70|2023-12-19|
 |134|[brown-uk/nlp_uk](https://github.com/brown-uk/nlp_uk)|This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.|69|2023-12-15|
 |135|[nebula-plugins/nebula-dependency-recommender-plugin](https://github.com/nebula-plugins/nebula-dependency-recommender-plugin)|Leave off version numbers in your dependencies section and have versions recommended by several possible sources.|69|2023-11-29|
 |136|[xvik/gradle-use-python-plugin](https://github.com/xvik/gradle-use-python-plugin)|Use python modules in gradle build|68|2023-11-22|
@@ -156,8 +156,8 @@
 |149|[guicamest/assetfilegenerator](https://github.com/guicamest/assetfilegenerator)|Asset File Generator Plugin for Android|62|2023-12-05|
 |150|[AdobeDocs/experience-manager-65.en](https://github.com/AdobeDocs/experience-manager-65.en)|This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.|61|2023-12-18|
 |151|[agorapulse/grails-aws-sdk](https://github.com/agorapulse/grails-aws-sdk)|Amazon Web Services SDK Grails Plugin|61|2023-07-28|
-|152|[kelloggm/checkerframework-gradle-plugin](https://github.com/kelloggm/checkerframework-gradle-plugin)|Gradle plugin to use the Checker Framework for Java|60|2023-12-18|
-|153|[DaveGut/HubitatActive](https://github.com/DaveGut/HubitatActive)|Hubitat Environment Developments|59|2023-11-14|
+|152|[DaveGut/HubitatActive](https://github.com/DaveGut/HubitatActive)|Hubitat Environment Developments|60|2023-11-14|
+|153|[kelloggm/checkerframework-gradle-plugin](https://github.com/kelloggm/checkerframework-gradle-plugin)|Gradle plugin to use the Checker Framework for Java|60|2023-12-18|
 |154|[TouK/excel-export](https://github.com/TouK/excel-export)|excel-export grails plugin|58|2023-10-24|
 |155|[grails/grails-views](https://github.com/grails/grails-views)|Additional View Technologies for Grails|56|2023-12-17|
 |156|[marcingrzejszczak/spock-subjects-collaborators-extension](https://github.com/marcingrzejszczak/spock-subjects-collaborators-extension)|Spock subjects-collaborators extension|55|2023-08-23|
@@ -169,21 +169,21 @@
 |162|[bluesoft/bee](https://github.com/bluesoft/bee)|database changes manager|52|2023-10-19|
 |163|[evgeny-goldin/maven-plugins](https://github.com/evgeny-goldin/maven-plugins)|Maven plugins|52|2023-09-26|
 |164|[green-code-initiative/ecoCode-android](https://github.com/green-code-initiative/ecoCode-android)|Reduce the environmental footprint of your Android apps with SonarQube|51|2023-12-11|
-|165|[gradle/github-dependency-graph-gradle-plugin](https://github.com/gradle/github-dependency-graph-gradle-plugin)|Gradle Plugin for Extracting Dependency Information to send to GitHub|51|2023-12-14|
+|165|[gradle/github-dependency-graph-gradle-plugin](https://github.com/gradle/github-dependency-graph-gradle-plugin)|Gradle Plugin for Extracting Dependency Information to send to GitHub|51|2023-12-18|
 |166|[JetBrains/gradle-python-envs](https://github.com/JetBrains/gradle-python-envs)|Gradle plugin that automates Python environments creation|51|2023-10-05|
 |167|[xvik/gradle-animalsniffer-plugin](https://github.com/xvik/gradle-animalsniffer-plugin)|Gradle AnimalSniffer plugin|51|2023-11-18|
-|168|[ascrus/getl](https://github.com/ascrus/getl)|A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.|51|2023-12-17|
+|168|[ascrus/getl](https://github.com/ascrus/getl)|A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.|51|2023-12-19|
 |169|[streamr-dev/core-api](https://github.com/streamr-dev/core-api)|Streamr Core backend (being phased out in favour of decentralization)|51|2023-12-18|
-|170|[libris/librisxl](https://github.com/libris/librisxl)|Libris XL|51|2023-12-15|
+|170|[libris/librisxl](https://github.com/libris/librisxl)|Libris XL|51|2023-12-19|
 |171|[sourcemuse/GradleMongoPlugin](https://github.com/sourcemuse/GradleMongoPlugin)|Gradle plugin for running a managed instance of Mongo.|50|2023-11-04|
 |172|[DontShaveTheYak/jenkins-std-lib](https://github.com/DontShaveTheYak/jenkins-std-lib)|Bringing the Zen of Python to Jenkins.|49|2023-12-13|
-|173|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|49|2023-12-18|
-|174|[moqui/HiveMind](https://github.com/moqui/HiveMind)|HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and  ...|48|2023-07-26|
-|175|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|47|2023-12-04|
+|173|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|49|2023-12-19|
+|174|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|48|2023-12-04|
+|175|[moqui/HiveMind](https://github.com/moqui/HiveMind)|HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and  ...|48|2023-07-26|
 |176|[CadixDev/licenser](https://github.com/CadixDev/licenser)|A simple license header manager for Gradle|47|2023-10-19|
 |177|[nebula-plugins/gradle-info-plugin](https://github.com/nebula-plugins/gradle-info-plugin)|Plugin to gather information about the environment|47|2023-11-29|
 |178|[AndDiSa/android_backup_project](https://github.com/AndDiSa/android_backup_project)|-|46|2023-08-04|
-|179|[openshift-eng/aos-cd-jobs](https://github.com/openshift-eng/aos-cd-jobs)|-|46|2023-12-12|
+|179|[openshift-eng/aos-cd-jobs](https://github.com/openshift-eng/aos-cd-jobs)|-|46|2023-12-19|
 |180|[Scuilion/gradle-syntastic-plugin](https://github.com/Scuilion/gradle-syntastic-plugin)|A Gradle plugin for integrating your Java project with Vim and Syntastic.|46|2023-08-22|
 |181|[OpenLiberty/ci.gradle](https://github.com/OpenLiberty/ci.gradle)|Gradle plugins for managing Liberty profile servers #devops|46|2023-12-12|
 |182|[filebot/data](https://github.com/filebot/data)|FileBot Data Files|45|2023-12-18|
