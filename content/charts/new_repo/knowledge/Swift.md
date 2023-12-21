@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1763|2023-12-04|2023-06-14|
-|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|159|2023-10-10|2023-10-03|
-|3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|131|2023-10-23|2023-10-04|
-|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|112|2023-09-05|2023-07-28|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1765|2023-12-04|2023-06-14|
+|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|160|2023-10-10|2023-10-03|
+|3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|136|2023-10-23|2023-10-04|
+|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|113|2023-09-05|2023-07-28|
 |5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|112|2023-12-04|2023-07-12|
 |6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|79|2023-10-06|2023-06-05|
 |7|[schwa/SwiftFields](https://github.com/schwa/SwiftFields)|SwiftFields is a collection of SwiftUI widgets for editing data|60|2023-07-04|2023-05-12|
-|8|[doyeonjeong/SwiftData-Tutorial](https://github.com/doyeonjeong/SwiftData-Tutorial)|How to use SwiftData?|56|2023-07-09|2023-07-02|
-|9|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|54|2023-09-30|2023-09-30|
-|10|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|52|2023-12-18|2023-12-01|
+|8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|56|2023-09-30|2023-09-30|
+|9|[doyeonjeong/SwiftData-Tutorial](https://github.com/doyeonjeong/SwiftData-Tutorial)|How to use SwiftData?|56|2023-07-09|2023-07-02|
+|10|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|54|2023-12-20|2023-12-01|
 |11|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|42|2023-11-12|2023-09-28|
 |12|[rkmtlab/LipLearner](https://github.com/rkmtlab/LipLearner)|Research repository for LipLearner: Customizable Silent Speech Interactions on Mobile Devices (CHI 2023).|42|2023-11-08|2023-02-15|
-|13|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|38|2023-12-18|2023-06-19|
+|13|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|38|2023-12-20|2023-06-19|
 |14|[GoodRequest/GoodUIKit](https://github.com/GoodRequest/GoodUIKit)|📑 GoodUIKit is a UIKit extensions library filled with reusable UI snippets for faster and more efficient iOS development. Boost productivity and streamline your workflow with ready-to-use UI component ...|30|2023-06-27|2023-02-10|
-|15|[GoodRequest/GoodExtensions-iOS](https://github.com/GoodRequest/GoodExtensions-iOS)|📑 GoodExtensions is a collection of useful and frequently used Swift extensions for iOS development, designed to simplify and streamline common tasks.It helps developers write clean and concise code,  ...|28|2023-11-14|2023-02-03|
-|16|[StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM)|A collection of machine learning-related modules usable in the Spezi ecosystem|26|2023-12-18|2023-05-21|
+|15|[StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM)|A collection of machine learning-related modules usable in the Spezi ecosystem|28|2023-12-18|2023-05-21|
+|16|[GoodRequest/GoodExtensions-iOS](https://github.com/GoodRequest/GoodExtensions-iOS)|📑 GoodExtensions is a collection of useful and frequently used Swift extensions for iOS development, designed to simplify and streamline common tasks.It helps developers write clean and concise code,  ...|28|2023-11-14|2023-02-03|
 |17|[akabe1/akabe1-semgrep-rules](https://github.com/akabe1/akabe1-semgrep-rules)|My collection of Semgrep rules for vulnerability detection on source code (swift, java)|26|2023-10-31|2022-12-28|
 |18|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|23|2023-12-09|2023-11-22|
 |19|[nate-parrott/uhohlingo](https://github.com/nate-parrott/uhohlingo)|teach yourself anything with short digital lessons that are often completely wrong|22|2023-07-09|2023-04-07|
@@ -29,7 +29,7 @@
 |22|[steventroughtonsmith/VisionExpandingSidebar](https://github.com/steventroughtonsmith/VisionExpandingSidebar)|Quick demonstration of how to make a Safari-style window that expands in size when its sidebar is shown, using UIKit, on visionOS.|20|2023-08-12|2023-08-12|
 |23|[PasiSalenius/CocoaCompose](https://github.com/PasiSalenius/CocoaCompose)|Collection of Cocoa controls that look just right, offer modern Swift APIs, and nicely compose together.|20|2023-12-02|2023-07-22|
 |24|[ehemmete/mountshare](https://github.com/ehemmete/mountshare)|A Swift command line tool to mount network shares|20|2023-06-28|2023-06-27|
-|25|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|17|2023-12-12|2023-08-01|
+|25|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|17|2023-12-20|2023-08-01|
 |26|[GoodRequest/GoodSwiftUI](https://github.com/GoodRequest/GoodSwiftUI)|📑 GoodSwiftUI is a comprehensive library filled with reusable SwiftUI snippets for faster and more efficient iOS development. This library offers a wide range of customizable UI components, designed t ...|17|2023-10-26|2023-02-08|
 |27|[nonstrict-hq/ScreenCaptureKit-Recording-example](https://github.com/nonstrict-hq/ScreenCaptureKit-Recording-example)|Example of how to use ScreenCaptureKit to record to a file|17|2023-09-28|2023-01-25|
 |28|[sala7khaled/ios-stationclub](https://github.com/sala7khaled/ios-stationclub)|stationclub is a social networking platform for podcast and radio enthusiasts. With stationclub, users can discover new podcasts and radio stations, connect with other enthusiasts, and share their fav ...|16|2023-07-11|2023-02-22|
@@ -40,18 +40,18 @@
 |33|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|9|2023-10-23|2023-10-19|
 |34|[ceciliachenguo/BookPageFlipAnimation](https://github.com/ceciliachenguo/BookPageFlipAnimation)|iOS SwiftUI Animation for mimicing Book Page Flipping Effect|9|2023-08-04|2023-08-04|
 |35|[jiachenyee/frameworklicious](https://github.com/jiachenyee/frameworklicious)|Explore iOS device frameworks through a series of interactive activities|9|2023-07-03|2023-06-09|
-|36|[Kolos65/InstagramTransition](https://github.com/Kolos65/InstagramTransition)|Replicating Instagram's gesture-driven shared-element transition using UIKit.|8|2023-11-23|2023-11-09|
-|37|[PadraigK/SpaceRocks](https://github.com/PadraigK/SpaceRocks)|SwiftGodot implementation of SpaceRocks tutorial|8|2023-10-09|2023-10-07|
-|38|[apple/example-package-figlet](https://github.com/apple/example-package-figlet)|Example package to be used as part of Swift's getting started guides|8|2023-08-22|2023-08-16|
-|39|[csprasad/SwiftUI-Animations](https://github.com/csprasad/SwiftUI-Animations)|Collection of SwiftUI Animations|8|2023-08-15|2023-06-29|
-|40|[aum-chauhan-175/CoddyBuddy](https://github.com/aum-chauhan-175/CoddyBuddy)|​CoddyBuddy for newbies is a knowledge sharing and collaboration platform that helps teams solve technical challenges through each stage of the development lifecycle. CoddyBuddy’s public platform is u ...|8|2023-12-13|2023-04-06|
-|41|[ChimeHQ/GlobPattern](https://github.com/ChimeHQ/GlobPattern)|Swift package to parse and evaluate glob patterns|8|2023-08-25|2023-02-09|
-|42|[scottyelvington/retainable](https://github.com/scottyelvington/retainable)|A case study in simplifying closure boilerplate|7|2023-12-02|2023-11-19|
+|36|[scottyelvington/retainable](https://github.com/scottyelvington/retainable)|A case study in simplifying closure boilerplate|8|2023-12-02|2023-11-19|
+|37|[Kolos65/InstagramTransition](https://github.com/Kolos65/InstagramTransition)|Replicating Instagram's gesture-driven shared-element transition using UIKit.|8|2023-11-23|2023-11-09|
+|38|[PadraigK/SpaceRocks](https://github.com/PadraigK/SpaceRocks)|SwiftGodot implementation of SpaceRocks tutorial|8|2023-10-09|2023-10-07|
+|39|[apple/example-package-figlet](https://github.com/apple/example-package-figlet)|Example package to be used as part of Swift's getting started guides|8|2023-08-22|2023-08-16|
+|40|[csprasad/SwiftUI-Animations](https://github.com/csprasad/SwiftUI-Animations)|Collection of SwiftUI Animations|8|2023-08-15|2023-06-29|
+|41|[aum-chauhan-175/CoddyBuddy](https://github.com/aum-chauhan-175/CoddyBuddy)|​CoddyBuddy for newbies is a knowledge sharing and collaboration platform that helps teams solve technical challenges through each stage of the development lifecycle. CoddyBuddy’s public platform is u ...|8|2023-12-13|2023-04-06|
+|42|[ChimeHQ/GlobPattern](https://github.com/ChimeHQ/GlobPattern)|Swift package to parse and evaluate glob patterns|8|2023-08-25|2023-02-09|
 |43|[VB10/HackingSwiftLearn](https://github.com/VB10/HackingSwiftLearn)|HackingSwiftLearn|7|2023-10-05|2023-09-07|
 |44|[salihkertik/365-day-of-code-with-swift](https://github.com/salihkertik/365-day-of-code-with-swift)|It epitomizes my journey from the beginning to the end of my Swift learning story.|7|2023-12-06|2023-07-08|
 |45|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S and macOS clients that consumes shared KMM code as Swift Package|7|2023-12-15|2023-06-16|
 |46|[shaps80/SwiftBackports](https://github.com/shaps80/SwiftBackports)|A collection of Swift backports for earlier versions of iOS, macOS, tvOS and watchOS|7|2023-09-08|2023-02-13|
-|47|[tomtom-international/tomtom-navigation-ios-examples](https://github.com/tomtom-international/tomtom-navigation-ios-examples)|TomTom Navigation SDK examples|7|2023-12-18|2023-02-13|
+|47|[tomtom-international/tomtom-navigation-ios-examples](https://github.com/tomtom-international/tomtom-navigation-ios-examples)|TomTom Navigation SDK examples|7|2023-12-19|2023-02-13|
 |48|[trinhngocthuyen/orcam](https://github.com/trinhngocthuyen/orcam)|A Collection of Swift Macros|6|2023-11-29|2023-11-06|
 |49|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|6|2023-09-13|2023-09-11|
 |50|[gahntpo/SearchExampleApp](https://github.com/gahntpo/SearchExampleApp)|Shows how to use searchable in SwiftUI to add a search bar on iOS and macOS. Different implementaions showing how to use search suggestions, tokens and search scope |6|2023-07-12|2023-07-12|
