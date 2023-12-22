@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2023-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4899|2023-09-17|2023-03-06|
-|2|[codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code)|⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.|463|2023-12-08|2023-03-20|
+|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4900|2023-09-17|2023-03-06|
+|2|[codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code)|⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.|464|2023-12-08|2023-03-20|
 |3|[Atharva1802/CSS-trickies](https://github.com/Atharva1802/CSS-trickies)|Here is the code for some cool CSS tricks that I've made.|195|2023-07-10|2023-01-10|
 |4|[replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets)|Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.|178|2023-12-12|2023-02-20|
 |5|[pickle69420/picklebox](https://github.com/pickle69420/picklebox)|PickleHub is a hub for students who are bored in school, contained in a bookmarklet!|128|2023-09-05|2023-01-13|
-|6|[Ritika-Agrawal811/css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets)|A collection of real-life code snippets written in CSS and JavaScript for every web development project.|93|2023-12-15|2023-01-02|
+|6|[Ritika-Agrawal811/css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets)|A collection of real-life code snippets written in CSS and JavaScript for every web development project.|95|2023-12-15|2023-01-02|
 |7|[DSC-JSS-NOIDA/blogzen](https://github.com/DSC-JSS-NOIDA/blogzen)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|84|2023-09-29|2023-05-07|
 |8|[dheereshagrwal/colored-icons](https://github.com/dheereshagrwal/colored-icons)|The colored icons library is a collection of brand logos and tech stack logos. It's a handy resource to easily add brand icons to your projects without the hassle of manual attribution.|71|2023-12-02|2023-05-11|
 |9|[Viiiikedy/Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning)|✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨|68|2023-11-16|2023-09-11|
@@ -22,7 +22,7 @@
 |15|[frontend-joe/css-menus](https://github.com/frontend-joe/css-menus)|Collection of menu concepts built with HTML, CSS and JavaScript|50|2023-10-23|2023-03-03|
 |16|[ddotta/cookbook-rpolars](https://github.com/ddotta/cookbook-rpolars)|Cookbook to provide solutions to common tasks and problems in using Polars with R|38|2023-12-05|2023-04-06|
 |17|[frontend-joe/es6-signups](https://github.com/frontend-joe/es6-signups)|Collection of signup pages showcases many useful controls|36|2023-08-23|2023-01-19|
-|18|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|33|2023-10-30|2023-09-20|
+|18|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|34|2023-10-30|2023-09-20|
 |19|[bgplab/bgplab](https://github.com/bgplab/bgplab)|Master BGP configuration with this set of virtual labs|33|2023-12-20|2023-08-03|
 |20|[zahariev-webbersof/python-fundamentals-05-2023](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)|In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University|33|2023-07-27|2023-05-06|
 |21|[debrajrout/DevOps](https://github.com/debrajrout/DevOps)|This repository has been created to allow developers and open-source enthusiasts come together to contribute to various projects and learn from each other.|32|2023-10-24|2023-09-28|
@@ -31,12 +31,12 @@
 |24|[frontend-joe/css-dropdowns](https://github.com/frontend-joe/css-dropdowns)|Collection of dropdown components built using HTML and CSS|30|2023-07-08|2023-01-27|
 |25|[KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner)|Personal Obsidian Enhanced CSS snippet|29|2023-10-11|2023-04-08|
 |26|[DaBluLite/css-snippets](https://github.com/DaBluLite/css-snippets)|A repo with all of my Discord CSS snippets.|28|2023-12-16|2023-05-18|
-|27|[dojoengine/book](https://github.com/dojoengine/book)|The Dojo Book|28|2023-12-20|2023-03-28|
+|27|[dojoengine/book](https://github.com/dojoengine/book)|The Dojo Book|28|2023-12-21|2023-03-28|
 |28|[bedimcode/responsive-book-website](https://github.com/bedimcode/responsive-book-website)|Responsive Book Website Design Using HTML CSS & JavaScript|27|2023-10-23|2023-10-23|
 |29|[jbgoldman1104/Bookings-and-Reservations-in-GoLang](https://github.com/jbgoldman1104/Bookings-and-Reservations-in-GoLang)|Bookings and Reservations in GoLang|27|2023-06-24|2023-06-18|
-|30|[wevm/vitepress-plugin-shiki-twoslash](https://github.com/wevm/vitepress-plugin-shiki-twoslash)|Static code examples for VitePress using Shiki Twoslash|26|2023-12-01|2023-03-15|
-|31|[VelzckC0D3/Velzck_Festival](https://github.com/VelzckC0D3/Velzck_Festival)|In this capstone project, I demonstrated how to manage the DOM properly using Vanilla JavaScript. I was able to develop a dynamic and responsive website that showcases my improved skills, while also i ...|25|2023-08-19|2023-03-13|
-|32|[r12f/sonic-book](https://github.com/r12f/sonic-book)|The real "Getting Started" book for SONiC operating system.|24|2023-08-17|2023-05-09|
+|30|[r12f/sonic-book](https://github.com/r12f/sonic-book)|The real "Getting Started" book for SONiC operating system.|26|2023-08-17|2023-05-09|
+|31|[wevm/vitepress-plugin-shiki-twoslash](https://github.com/wevm/vitepress-plugin-shiki-twoslash)|Static code examples for VitePress using Shiki Twoslash|26|2023-12-01|2023-03-15|
+|32|[VelzckC0D3/Velzck_Festival](https://github.com/VelzckC0D3/Velzck_Festival)|In this capstone project, I demonstrated how to manage the DOM properly using Vanilla JavaScript. I was able to develop a dynamic and responsive website that showcases my improved skills, while also i ...|25|2023-08-19|2023-03-13|
 |33|[lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates)|A collection of templates for Obsidian|22|2023-11-13|2023-04-27|
 |34|[frontend-joe/css-carousels](https://github.com/frontend-joe/css-carousels)|Collection of simple carousel components made with just HTML and CSS|22|2023-09-04|2023-02-15|
 |35|[jherr/htmx-nextjs-ai](https://github.com/jherr/htmx-nextjs-ai)|HTMX and NextJS Streaming AI examples|19|2023-10-27|2023-08-07|
@@ -44,32 +44,32 @@
 |37|[Armanidrisi/frontend-projects](https://github.com/Armanidrisi/frontend-projects)|This repository contains a collection of frontend. Each project is built using HTML, CSS, and JavaScript.|19|2023-12-19|2023-04-11|
 |38|[Alejandroq12/polyglot-talk](https://github.com/Alejandroq12/polyglot-talk)|As a polyglot who speaks French, Spanish, English, and Chinese, I am excited to share my experiences and insights on the importance of language learning in today's global society. In my talk, I will e ...|19|2023-09-10|2023-03-13|
 |39|[SEELE1306/CSS-Snippets](https://github.com/SEELE1306/CSS-Snippets)|A compilation of CSS snippets for Vencord / Vesktop.|17|2023-12-18|2023-09-23|
-|40|[GrahamTheDevRel/a11y-monsters](https://github.com/GrahamTheDevRel/a11y-monsters)|Monorepo for all activities related to the a11y monsters, a cohort learning accessibility.|16|2023-12-19|2023-11-25|
+|40|[GrahamTheDevRel/a11y-monsters](https://github.com/GrahamTheDevRel/a11y-monsters)|Monorepo for all activities related to the a11y monsters, a cohort learning accessibility.|16|2023-12-20|2023-11-25|
 |41|[frontend-joe/es6-carousel](https://github.com/frontend-joe/es6-carousel)|Collection of carousel components bulit using HTML, CSS and JavaScript|16|2023-07-02|2023-07-02|
 |42|[HERMON-1995/Web-development-capstone-project](https://github.com/HERMON-1995/Web-development-capstone-project)|Web-development course website is online courses for building websites from scratch where users can choose and take free online web-development courses. Built with Html, CSS and JavaScript.|16|2023-09-09|2023-02-06|
-|43|[zksecurity/stark-book](https://github.com/zksecurity/stark-book)|STARK book|14|2023-12-08|2023-11-21|
-|44|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://leptos-rs.github.io/leptos/|13|2023-12-20|2023-11-24|
-|45|[rich-iannone/quarto-icons-examples](https://github.com/rich-iannone/quarto-icons-examples)|Examples on how to use icons in Quarto documents|13|2023-09-22|2023-09-10|
-|46|[LangCorrect/server](https://github.com/LangCorrect/server)|Master grammar, spelling, and syntax in the language(s) you’re learning through direct feedback on your writing from fluent, native speakers.|13|2023-12-20|2023-07-19|
-|47|[csharpfritz/NewInNET8](https://github.com/csharpfritz/NewInNET8)|A collection of samples showing some of the new features in .NET 8|12|2023-12-13|2023-12-13|
-|48|[instatushq/goodies](https://github.com/instatushq/goodies)|Discover stylish UI elements and code snippets, complete with videos available on our social media platforms.|12|2023-12-13|2023-10-27|
+|43|[zksecurity/stark-book](https://github.com/zksecurity/stark-book)|STARK book|14|2023-12-21|2023-11-21|
+|44|[csharpfritz/NewInNET8](https://github.com/csharpfritz/NewInNET8)|A collection of samples showing some of the new features in .NET 8|13|2023-12-13|2023-12-13|
+|45|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://leptos-rs.github.io/leptos/|13|2023-12-21|2023-11-24|
+|46|[rich-iannone/quarto-icons-examples](https://github.com/rich-iannone/quarto-icons-examples)|Examples on how to use icons in Quarto documents|13|2023-09-22|2023-09-10|
+|47|[LangCorrect/server](https://github.com/LangCorrect/server)|Master grammar, spelling, and syntax in the language(s) you’re learning through direct feedback on your writing from fluent, native speakers.|13|2023-12-20|2023-07-19|
+|48|[instatushq/goodies](https://github.com/instatushq/goodies)|Discover stylish UI elements and code snippets, complete with videos available on our social media platforms.|12|2023-12-20|2023-10-27|
 |49|[sarvalabs/js-moi-examples](https://github.com/sarvalabs/js-moi-examples)|A collection of examples for building with the MOI JavaScript SDK|12|2023-12-01|2023-08-11|
 |50|[LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code)|Easy Code,Easy Study! Rusted Warfar API Code!|12|2023-12-05|2023-02-21|
-|51|[Eeems-Org/remarkable.guide](https://github.com/Eeems-Org/remarkable.guide)|Guide for hacking your reMarkable tablet|12|2023-12-16|2023-02-07|
+|51|[Eeems-Org/remarkable.guide](https://github.com/Eeems-Org/remarkable.guide)|Guide for hacking your reMarkable tablet|12|2023-12-20|2023-02-07|
 |52|[frontend-joe/css-accordions](https://github.com/frontend-joe/css-accordions)|Collection of accordion components built with HTML and CSS.|11|2023-12-01|2023-12-01|
 |53|[nbd-wtf/emeralize](https://github.com/nbd-wtf/emeralize)|A lightning marketplace and lightweight learning management system.|11|2023-11-10|2023-09-05|
 |54|[SixArm/software-programming-guide](https://github.com/SixArm/software-programming-guide)|Software Programming Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|11|2023-12-01|2023-07-25|
 |55|[mulugithub/module-one-capstone](https://github.com/mulugithub/module-one-capstone)|A Summer Web developer conference page to allow web enthusiasts including junior to lead web developer can see past conference,  attend the  conference and share their experience. Built with HTML, CSS ...|11|2023-07-07|2023-07-04|
 |56|[rango-exchange/widget-examples](https://github.com/rango-exchange/widget-examples)|Rango Widget Examples|11|2023-10-26|2023-05-21|
 |57|[jonno-l-r/org_notebook](https://github.com/jonno-l-r/org_notebook)|Blog-style notebook indexer and renderer for org documents|11|2023-09-06|2023-04-30|
-|58|[eb2ai/My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons)|Obsidian snippets to theme and manage Checklists & Icons|10|2023-10-16|2023-10-16|
-|59|[yasir2002/LogicWiseTips](https://github.com/yasir2002/LogicWiseTips)|Here you can find code of all the tutorials that are posted on @logicwisetips page|10|2023-11-04|2023-08-15|
-|60|[Nelwhix/nigerian-bank-icons](https://github.com/Nelwhix/nigerian-bank-icons)|A curated collection of all nigerian bank logos — plus the CSS for easier integration.|10|2023-08-02|2023-07-28|
-|61|[SweetMeh/Anki-Card-Templates](https://github.com/SweetMeh/Anki-Card-Templates)|A collection of my anki card templates, feel free to use it 😊|10|2023-11-27|2023-07-20|
-|62|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|10|2023-12-01|2023-06-27|
-|63|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|10|2023-11-18|2023-06-15|
-|64|[Shubh2-0/Any-Color-Extension](https://github.com/Shubh2-0/Any-Color-Extension)|Gain insights into building your own Chrome extension with this repository. Understand the process of creating a color picker extension, empowering you to customize and extend it further. Ideal for de ...|10|2023-09-08|2023-04-29|
-|65|[A-3bbas/GPA-Calculator](https://github.com/A-3bbas/GPA-Calculator)|GPA Calculator for 6 courses.|9|2023-12-02|2023-11-29|
+|58|[A-3bbas/GPA-Calculator](https://github.com/A-3bbas/GPA-Calculator)|GPA Calculator for 6 courses.|10|2023-12-02|2023-11-29|
+|59|[eb2ai/My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons)|Obsidian snippets to theme and manage Checklists & Icons|10|2023-10-16|2023-10-16|
+|60|[yasir2002/LogicWiseTips](https://github.com/yasir2002/LogicWiseTips)|Here you can find code of all the tutorials that are posted on @logicwisetips page|10|2023-11-04|2023-08-15|
+|61|[Nelwhix/nigerian-bank-icons](https://github.com/Nelwhix/nigerian-bank-icons)|A curated collection of all nigerian bank logos — plus the CSS for easier integration.|10|2023-08-02|2023-07-28|
+|62|[SweetMeh/Anki-Card-Templates](https://github.com/SweetMeh/Anki-Card-Templates)|A collection of my anki card templates, feel free to use it 😊|10|2023-11-27|2023-07-20|
+|63|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|10|2023-12-01|2023-06-27|
+|64|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|10|2023-11-18|2023-06-15|
+|65|[Shubh2-0/Any-Color-Extension](https://github.com/Shubh2-0/Any-Color-Extension)|Gain insights into building your own Chrome extension with this repository. Understand the process of creating a color picker extension, empowering you to customize and extend it further. Ideal for de ...|10|2023-09-08|2023-04-29|
 |66|[frontend-joe/react-menus](https://github.com/frontend-joe/react-menus)|Collection of menu examples built with React and CSS|9|2023-11-22|2023-11-22|
 |67|[r4ds/r4ds_app](https://github.com/r4ds/r4ds_app)|The R4DS Online Learning Community website|9|2023-11-28|2023-08-23|
 |68|[AgonyThorn/3Aweb-project](https://github.com/AgonyThorn/3Aweb-project)|Just a simple website made by a beginner eager to learn|9|2023-08-23|2023-08-07|
