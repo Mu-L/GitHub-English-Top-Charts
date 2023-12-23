@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|653|2023-12-18|2023-04-04|
-|2|[Kotlin/kotlin-wasm-examples](https://github.com/Kotlin/kotlin-wasm-examples)|Examples with Kotlin/Wasm|366|2023-12-19|2023-02-07|
+|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|655|2023-12-18|2023-04-04|
+|2|[Kotlin/kotlin-wasm-examples](https://github.com/Kotlin/kotlin-wasm-examples)|Examples with Kotlin/Wasm|366|2023-12-21|2023-02-07|
 |3|[mjovanc/awesome-ktor](https://github.com/mjovanc/awesome-ktor)|Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡|305|2023-10-16|2023-03-10|
 |4|[alidehkhodaei/kotlin-cheat-sheet](https://github.com/alidehkhodaei/kotlin-cheat-sheet)|📄 A cheat sheet for Kotlin programming language|184|2023-10-04|2023-03-22|
-|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|97|2023-12-20|2023-10-18|
+|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|98|2023-12-22|2023-10-18|
 |6|[myofficework000/Jetpack-Compose-All-In-One-Guide](https://github.com/myofficework000/Jetpack-Compose-All-In-One-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|92|2023-12-19|2023-04-11|
 |7|[cashapp/quiver](https://github.com/cashapp/quiver)|Quiver is a collection of extension methods and handy functions to make the wonderful functional programming Kotlin library, Arrow, even better.|86|2023-10-30|2023-03-06|
 |8|[hzlaoliu/modbus-master-kt](https://github.com/hzlaoliu/modbus-master-kt)|modbus master kotlin|70|2023-08-07|2023-05-22|
-|9|[oas004/Material3Playground](https://github.com/oas004/Material3Playground)|Playground to check how changing the color system can affect the different components in Material 3. Mainly used to learn and to get an overview of the Material 3 design components|68|2023-12-21|2023-02-10|
-|10|[KaushalVasava/JetPackCompose_Basic](https://github.com/KaushalVasava/JetPackCompose_Basic)|This repository useful to learn basic to intermediate level of Jetpack compose. Jetpack compose(JC) is a modern ui development toolkit. It serves as a beginner-friendly project, providing an introduct ...|65|2023-12-20|2023-01-05|
+|9|[KaushalVasava/JetPackCompose_Basic](https://github.com/KaushalVasava/JetPackCompose_Basic)|This repository useful to learn basic to intermediate level of Jetpack compose. Jetpack compose(JC) is a modern ui development toolkit. It serves as a beginner-friendly project, providing an introduct ...|69|2023-12-20|2023-01-05|
+|10|[oas004/Material3Playground](https://github.com/oas004/Material3Playground)|Playground to check how changing the color system can affect the different components in Material 3. Mainly used to learn and to get an overview of the Material 3 design components|68|2023-12-21|2023-02-10|
 |11|[baec23/ludwig](https://github.com/baec23/ludwig)|A collection of UI libraries for Android using Jetpack Compose|57|2023-12-18|2022-12-29|
 |12|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|49|2023-12-20|2023-09-25|
 |13|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|49|2023-12-21|2023-04-09|
@@ -42,8 +42,8 @@
 |35|[UmairKhalid786/GuidedStepsComposeTv](https://github.com/UmairKhalid786/GuidedStepsComposeTv)|Guided Fragment replacement in compose tv, so its an effort to have something similar UI|16|2023-12-15|2023-04-06|
 |36|[binayshaw7777/ReadBud](https://github.com/binayshaw7777/ReadBud)|📕 Extract Jargon from Books with their meaning in just a snap!|15|2023-08-26|2023-06-26|
 |37|[C10udburst/MessengerEx](https://github.com/C10udburst/MessengerEx)|An Xposed module that improves the Facebook Messenger experience.|14|2023-10-28|2023-10-28|
-|38|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|13|2023-09-05|2023-07-04|
-|39|[marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin)|This plugin is a powerful and versatile set of tools designed to enhance the development experience for software engineers. With its extensive collection of features, developers can increase their pro ...|13|2023-10-30|2023-02-22|
+|38|[marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin)|This plugin is a powerful and versatile set of tools designed to enhance the development experience for software engineers. With its extensive collection of features, developers can increase their pro ...|14|2023-10-30|2023-02-22|
+|39|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|13|2023-09-05|2023-07-04|
 |40|[Kotlin/kotlin-wasm-benchmarks](https://github.com/Kotlin/kotlin-wasm-benchmarks)|Kotlin Multiplatform Collection of Benchmarks focused on Kotlin/Wasm performance|13|2023-12-21|2023-02-20|
 |41|[imgly/cesdk-android-examples](https://github.com/imgly/cesdk-android-examples)|Examples repository for running CreativeEngine on Android in Kotlin|12|2023-12-14|2023-01-25|
 |42|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|11|2023-10-09|2023-06-15|
