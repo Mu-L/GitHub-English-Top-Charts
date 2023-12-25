@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -81,7 +81,7 @@
 |74|[epam/edp-library-stages](https://github.com/epam/edp-library-stages)|A Jenkins shared-library for the reference EDP stages|3|0|2023-11-02|
 |75|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2023-12-09|
 |76|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|42|0|2023-10-01|
-|77|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2023-12-21|
+|77|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2023-12-22|
 |78|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|321|0|2023-10-31|
 
 <div align="center">

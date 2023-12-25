@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -59,7 +59,7 @@
 |52|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|6|2023-10-24|
 |53|[infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)|Useful scripting examples for ReportServer|5|2023-10-24|
 |54|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|5|2023-10-06|
-|55|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2023-12-21|
+|55|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2023-12-22|
 |56|[lucas-sancere/QuPath_Codes](https://github.com/lucas-sancere/QuPath_Codes)|Collection of some groovy scripts for QuPath. Public repo but made mostly for personal use. |4|2023-11-27|
 |57|[elijahedmondson/QuPath-scripts](https://github.com/elijahedmondson/QuPath-scripts)|A collection of groovy scripts for digital pathology|4|2023-12-13|
 |58|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|4|2023-10-25|

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|0|2023-12-16|
+|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|0|2023-12-23|
 |2|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|0|2023-08-05|
 |3|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|0|2023-09-03|
 |4|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|8|0|2023-09-08|
@@ -22,7 +22,7 @@
 |15|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|0|2023-11-21|
 |16|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|18|0|2023-12-11|
 |17|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|0|2023-10-07|
-|18|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|218|0|2023-12-21|
+|18|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|218|0|2023-12-24|
 |19|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|24|0|2023-07-17|
 |20|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|0|2023-10-16|
 |21|[gcarreno/TestThreadPool](https://github.com/gcarreno/TestThreadPool)|Example of how to use the Class TThread with a pool manager|4|0|2023-09-10|
@@ -35,7 +35,7 @@
 |28|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2023-08-01|
 |29|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|7|0|2023-11-17|
 |30|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|13|0|2023-07-15|
-|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1658|0|2023-11-20|
+|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1660|0|2023-11-20|
 |32|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2023-10-27|
 |33|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2023-07-25|
 |34|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|0|2023-11-04|

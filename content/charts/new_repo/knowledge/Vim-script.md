@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vim script
-<sub>Updated: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,8 @@
 |4|[airblade/vim-interdental](https://github.com/airblade/vim-interdental)|Indent guides that span empty lines|8|2023-10-05|2023-08-18|
 |5|[AndrewRadev/vim-lectures](https://github.com/AndrewRadev/vim-lectures)|Lectures for the Vim course in FMI|6|2023-08-25|2023-05-07|
 |6|[arkapg211002/SEM-5-CSE](https://github.com/arkapg211002/SEM-5-CSE)|All lab assignments and text books for SEM 5 CSE at TMSL (under MAKAUT) 2023-24|6|2023-11-30|2023-04-30|
-|7|[caesar0301/cool-dotfiles](https://github.com/caesar0301/cool-dotfiles)|Personal collection of dotfiles|3|2023-12-16|2023-04-03|
+|7|[mehrshad-kh/dotfiles](https://github.com/mehrshad-kh/dotfiles)|A collection of my personal dotfiles|3|2023-12-22|2023-09-12|
+|8|[caesar0301/cool-dotfiles](https://github.com/caesar0301/cool-dotfiles)|Personal collection of dotfiles|3|2023-12-16|2023-04-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
