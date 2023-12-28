@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2023-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,9 +21,9 @@
 |14|[Zaalan3/TiGearCE](https://github.com/Zaalan3/TiGearCE)|Sega Master System and Game Gear Emulator for the TI84+CE|8|2023-07-03|2023-05-29|
 |15|[DeeptejD/i386-Assembly-Language](https://github.com/DeeptejD/i386-Assembly-Language)|This GitHub repository contains a collection of programs and code snippets written in i386 assembly language.|6|2023-07-20|2023-03-22|
 |16|[ilya-sotnikov/riscv-asm-spike](https://github.com/ilya-sotnikov/riscv-asm-spike)|Bare metal RISC-V assembly examples for Spike (no pk)|6|2023-10-14|2023-03-05|
-|17|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|5|2023-11-27|2023-10-01|
-|18|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|5|2023-12-04|2023-05-26|
-|19|[MahadMuhammad/Learn-Assembly-The-Hard-Way](https://github.com/MahadMuhammad/Learn-Assembly-The-Hard-Way)|A single & unified source of all source codes & helping material in learning the Intel 8088 assembly language using DOSBOX as an emulator|5|2023-09-01|2023-01-05|
+|17|[MahadMuhammad/Learn-Assembly-The-Hard-Way](https://github.com/MahadMuhammad/Learn-Assembly-The-Hard-Way)|A single & unified source of all source codes & helping material in learning the Intel 8088 assembly language using DOSBOX as an emulator|6|2023-09-01|2023-01-05|
+|18|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|5|2023-11-27|2023-10-01|
+|19|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|5|2023-12-04|2023-05-26|
 |20|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|2023-12-14|
 |21|[schoeberl/risc-v-lab](https://github.com/schoeberl/risc-v-lab)|Lab material for the three week course on builiding a RISC-V microprocessor|4|2023-12-26|2023-06-08|
 |22|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|A collection of ATMEL 8051 Series Microcontrollers (AT89C51/AT89S51/AT89S52/...) Assembly Programming Examples. All circuits have been simulated over Proteus software and verified on real hardware. a|4|2023-12-19|2023-03-27|
@@ -36,8 +36,8 @@
 |29|[nnamanx/intel_8086](https://github.com/nnamanx/intel_8086)|Completed Assignments of Computer Organization & Architecture Course|3|2023-07-08|2023-07-08|
 |30|[hijacking-vn/Practical-ASM](https://github.com/hijacking-vn/Practical-ASM)|The 'Practical ASM' repository is a dedicated space for practicing and learning Assembly Language (ASM).|3|2023-07-05|2023-07-01|
 |31|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|2023-03-20|
-|32|[aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools)|This Repository is a collection of different Ethical Hacking Tools written in python, ruby, rust, c++, go and c.|3|2023-12-20|2023-02-27|
-|33|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2023-12-25|2023-07-01|
+|32|[aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools)|This Repository is a collection of different Ethical Hacking Tools written in python, ruby, rust, c++, go and c.|3|2023-12-27|2023-02-27|
+|33|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2023-12-27|2023-07-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

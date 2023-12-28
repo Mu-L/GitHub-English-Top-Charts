@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2023-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,8 +15,8 @@
 |8|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|23|2023-12-15|2023-09-21|
 |9|[keydet89/RegRipper4.0](https://github.com/keydet89/RegRipper4.0)|RegRipper4.0|19|2023-08-22|2023-08-22|
 |10|[nginxinc/nginx-saml](https://github.com/nginxinc/nginx-saml)|-|18|2023-12-05|2023-01-25|
-|11|[anhsirk0/alacritty-themes](https://github.com/anhsirk0/alacritty-themes)|Modus-themes and ef-themes for alacritty|16|2023-08-12|2023-01-05|
-|12|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|15|2023-12-16|2023-10-06|
+|11|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
+|12|[anhsirk0/alacritty-themes](https://github.com/anhsirk0/alacritty-themes)|Modus-themes and ef-themes for alacritty|16|2023-08-12|2023-01-05|
 |13|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|14|2023-11-09|2023-09-21|
 |14|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|14|2023-11-20|2023-07-11|
 |15|[deepbajud/Perl](https://github.com/deepbajud/Perl)|Basic, Beginner Perl   is a high-level, interpreted, general-purpose programming language|14|2023-06-29|2023-06-26|
@@ -27,15 +27,15 @@
 |20|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2023-12-13|2023-12-13|
 |21|[xiekunwhy/kmerDedup](https://github.com/xiekunwhy/kmerDedup)|Reduce genome assembly redundancy using shared mapped k-mer method.|10|2023-08-24|2023-03-21|
 |22|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
-|23|[rphlo/rusty-pullauta](https://github.com/rphlo/rusty-pullauta)|-|9|2023-12-26|2023-03-10|
+|23|[rphlo/rusty-pullauta](https://github.com/rphlo/rusty-pullauta)|-|9|2023-12-27|2023-03-10|
 |24|[thundervm/proxmox-windows-template](https://github.com/thundervm/proxmox-windows-template)|This is a repository to store all the things necessary to create windows 10 and windows server 12, 16, 19 and 22 templates on proxmox|9|2023-12-24|2023-02-25|
 |25|[misch2/eink-portal-calendar](https://github.com/misch2/eink-portal-calendar)|-|9|2023-12-23|2023-01-17|
-|26|[flaggx1/cracktrack](https://github.com/flaggx1/cracktrack)|Monitor hashcat potfile for statistics|8|2023-09-12|2023-09-10|
-|27|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|8|2023-09-17|2023-08-08|
-|28|[classilla/stbtools](https://github.com/classilla/stbtools)|The Apple Interactive Television Box is, once again, your friend.|8|2023-07-22|2023-07-22|
-|29|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2023-12-21|2023-05-10|
-|30|[dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny)|Znuny is an extension that helps you to make Znuny development easier, faster and more error-free.|8|2023-11-17|2023-01-25|
-|31|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|7|2023-10-29|2023-10-06|
+|26|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|8|2023-10-29|2023-10-06|
+|27|[flaggx1/cracktrack](https://github.com/flaggx1/cracktrack)|Monitor hashcat potfile for statistics|8|2023-09-12|2023-09-10|
+|28|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|8|2023-09-17|2023-08-08|
+|29|[classilla/stbtools](https://github.com/classilla/stbtools)|The Apple Interactive Television Box is, once again, your friend.|8|2023-07-22|2023-07-22|
+|30|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2023-12-21|2023-05-10|
+|31|[dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny)|Znuny is an extension that helps you to make Znuny development easier, faster and more error-free.|8|2023-11-17|2023-01-25|
 |32|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2023-12-14|2023-09-27|
 |33|[jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv)|A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.|7|2023-09-11|2023-08-29|
 |34|[alleycat1/sqlserver2pgsql-pro](https://github.com/alleycat1/sqlserver2pgsql-pro)|-|7|2023-08-03|2023-08-03|
@@ -44,7 +44,7 @@
 |37|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
 |38|[lskatz/pdtk](https://github.com/lskatz/pdtk)|NCBI Pathogen Detection Portal toolkit|6|2023-09-06|2023-08-29|
 |39|[lyadd/Filtrage-Auto](https://github.com/lyadd/Filtrage-Auto)|Permet de faire une création automatisée du fichier de filtrage 'tv_grep.in' pour les programmes télévisés.|6|2023-07-11|2023-07-11|
-|40|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2023-12-26|2023-02-17|
+|40|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2023-12-27|2023-02-17|
 |41|[GECO-IT/Geco-Cloudbase-Init](https://github.com/GECO-IT/Geco-Cloudbase-Init)|-|6|2023-11-26|2023-02-06|
 |42|[grepmam/Lucia-Notify](https://github.com/grepmam/Lucia-Notify)|Lucia Notify is a tool that will notify you in case a Bugzilla bug changes its status. In the event that your tester friend or person in charge changes the status in Bugzilla, you will not have to wai ...|6|2023-11-10|2023-01-14|
 |43|[jay/curl_google_oauth](https://github.com/jay/curl_google_oauth)|Scripts to request a Google OAuth bearer token for use with the curl tool|6|2023-09-27|2023-01-02|
@@ -71,7 +71,7 @@
 |64|[best2160187/perl-projects](https://github.com/best2160187/perl-projects)|-|4|2023-07-01|2023-07-01|
 |65|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
 |66|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|67|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2023-12-21|2023-06-15|
+|67|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2023-12-26|2023-06-15|
 |68|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|4|2023-09-12|2023-03-30|
 |69|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
 |70|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
@@ -104,29 +104,39 @@
 |97|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |98|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |99|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|100|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2023-12-26|2023-12-09|
+|100|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2023-12-27|2023-12-09|
 |101|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |102|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
 |103|[shane-mason/perl-chain-generator](https://github.com/shane-mason/perl-chain-generator)|-|2|2023-11-11|2023-11-10|
-|104|[nu11secur1ty/OpenVPN-automation-Client-connect](https://github.com/nu11secur1ty/OpenVPN-automation-Client-connect)|-|2|2023-11-10|2023-11-08|
-|105|[sukria/Dancer2-Plugin-LiteBlog](https://github.com/sukria/Dancer2-Plugin-LiteBlog)|A minimalist, file-based blog engine for Dancer2. Effortlessly transform local .md and .yml files into a sleek and responsive blog without the need for a database.|2|2023-11-18|2023-10-22|
-|106|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2023-11-28|2023-10-17|
-|107|[Hypernova-Oy/koha-plugin-iso18626](https://github.com/Hypernova-Oy/koha-plugin-iso18626)|ISO18626 Interlibrary loans plugin|2|2023-09-27|2023-09-19|
-|108|[sobri3195/pegasusperl](https://github.com/sobri3195/pegasusperl)|Pegasus Hacker Place|2|2023-08-21|2023-08-21|
-|109|[jnaulet/minioxygen](https://github.com/jnaulet/minioxygen)|Small documentation generator in Perl, vaguely compatible with Javadoc|2|2023-08-13|2023-08-10|
-|110|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2023-08-05|2023-08-04|
-|111|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
-|112|[HighSpeed1380/perl-amazon](https://github.com/HighSpeed1380/perl-amazon)|-|2|2023-07-09|2023-07-09|
-|113|[weXe1/PortSwigger-Academy-Solutions](https://github.com/weXe1/PortSwigger-Academy-Solutions)|Scripts to help with solving labs on PortSwigger Web Security Academy|2|2023-09-27|2023-06-29|
-|114|[ZechmanViena/The-Technology-for-Good-Project](https://github.com/ZechmanViena/The-Technology-for-Good-Project)|A project that harnesses the power of technology to create positive social and environmental change.|2|2023-06-28|2023-06-25|
-|115|[geniusphil/2023GenomicEpidemiologyWorkshop](https://github.com/geniusphil/2023GenomicEpidemiologyWorkshop)|2023 Genomic Epidemiology Workshop at Academia Sinica|2|2023-07-31|2023-06-21|
-|116|[CPAN-Security/Net-NVD](https://github.com/CPAN-Security/Net-NVD)|Query CVE data from NIST's NVD (National Vulnerability Database)|2|2023-10-31|2023-05-19|
-|117|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
-|118|[rafmod/MIME-Mini](https://github.com/rafmod/MIME-Mini)|Minimal code to parse/create mbox files and mail messages|2|2023-07-01|2023-04-13|
-|119|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
-|120|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
-|121|[michal-josef-spacek/License-SPDX](https://github.com/michal-josef-spacek/License-SPDX)|Object for SPDX licenses handling.|2|2023-08-02|2023-01-26|
-|122|[nrdvana/perl-App-SlideServer](https://github.com/nrdvana/perl-App-SlideServer)|Serve HTML slides and synchronize clients via websocket|2|2023-07-21|2023-01-22|
+|104|[kraison/uxo](https://github.com/kraison/uxo)|-|2|2023-11-24|2023-11-10|
+|105|[nu11secur1ty/OpenVPN-automation-Client-connect](https://github.com/nu11secur1ty/OpenVPN-automation-Client-connect)|-|2|2023-11-10|2023-11-08|
+|106|[sukria/Dancer2-Plugin-LiteBlog](https://github.com/sukria/Dancer2-Plugin-LiteBlog)|A minimalist, file-based blog engine for Dancer2. Effortlessly transform local .md and .yml files into a sleek and responsive blog without the need for a database.|2|2023-11-18|2023-10-22|
+|107|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2023-11-28|2023-10-17|
+|108|[smacx250/BG3](https://github.com/smacx250/BG3)|Baldur's Gate 3 stuff|2|2023-11-01|2023-10-13|
+|109|[Hypernova-Oy/koha-plugin-iso18626](https://github.com/Hypernova-Oy/koha-plugin-iso18626)|ISO18626 Interlibrary loans plugin|2|2023-09-27|2023-09-19|
+|110|[sobri3195/pegasusperl](https://github.com/sobri3195/pegasusperl)|Pegasus Hacker Place|2|2023-08-21|2023-08-21|
+|111|[jnaulet/minioxygen](https://github.com/jnaulet/minioxygen)|Small documentation generator in Perl, vaguely compatible with Javadoc|2|2023-08-13|2023-08-10|
+|112|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2023-08-05|2023-08-04|
+|113|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
+|114|[saiftynet/PDL-Playground](https://github.com/saiftynet/PDL-Playground)|A simple GUI Interface to play with PDL|2|2023-07-23|2023-07-20|
+|115|[HighSpeed1380/perl-amazon](https://github.com/HighSpeed1380/perl-amazon)|-|2|2023-07-09|2023-07-09|
+|116|[weXe1/PortSwigger-Academy-Solutions](https://github.com/weXe1/PortSwigger-Academy-Solutions)|Scripts to help with solving labs on PortSwigger Web Security Academy|2|2023-09-27|2023-06-29|
+|117|[rafmod/Lingua-NameUtils](https://github.com/rafmod/Lingua-NameUtils)|Identify given/family names and capitalize correctly|2|2023-07-09|2023-06-27|
+|118|[CardellGullatt1996/The-Mindful-Teacher](https://github.com/CardellGullatt1996/The-Mindful-Teacher)|Teacher Training Program for Mindful Education|2|2023-06-28|2023-06-25|
+|119|[ZechmanViena/The-Technology-for-Good-Project](https://github.com/ZechmanViena/The-Technology-for-Good-Project)|A project that harnesses the power of technology to create positive social and environmental change.|2|2023-06-28|2023-06-25|
+|120|[MelikCaravello1992/Youth-on-the-Move](https://github.com/MelikCaravello1992/Youth-on-the-Move)|A project that encourages physical fitness and healthy habits in young people, combating childhood obesity and sedentary lifestyles.|2|2023-06-28|2023-06-25|
+|121|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
+|122|[geniusphil/2023GenomicEpidemiologyWorkshop](https://github.com/geniusphil/2023GenomicEpidemiologyWorkshop)|2023 Genomic Epidemiology Workshop at Academia Sinica|2|2023-07-31|2023-06-21|
+|123|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2023-11-15|2023-05-23|
+|124|[CPAN-Security/Net-NVD](https://github.com/CPAN-Security/Net-NVD)|Query CVE data from NIST's NVD (National Vulnerability Database)|2|2023-10-31|2023-05-19|
+|125|[gotouerina/Genome_SV](https://github.com/gotouerina/Genome_SV)|pipeline used for SV detection|2|2023-06-30|2023-05-16|
+|126|[sonic-com/pagerduty2zabbix](https://github.com/sonic-com/pagerduty2zabbix)|Update Zabbix events with PagerDuty incident changes via WebHook (2-way ack).|2|2023-08-24|2023-05-16|
+|127|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
+|128|[rafmod/MIME-Mini](https://github.com/rafmod/MIME-Mini)|Minimal code to parse/create mbox files and mail messages|2|2023-07-01|2023-04-13|
+|129|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
+|130|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
+|131|[michal-josef-spacek/License-SPDX](https://github.com/michal-josef-spacek/License-SPDX)|Object for SPDX licenses handling.|2|2023-08-02|2023-01-26|
+|132|[nrdvana/perl-App-SlideServer](https://github.com/nrdvana/perl-App-SlideServer)|Serve HTML slides and synchronize clients via websocket|2|2023-07-21|2023-01-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
