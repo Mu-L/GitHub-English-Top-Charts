@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|264|2023-12-26|2023-09-16|
-|2|[Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim)|Solve Leetcode problems within Neovim 🔥|147|2023-11-19|2023-01-24|
-|3|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|83|2023-12-25|2023-10-03|
-|4|[TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim)|A simple neovim plugin that enables you to instantly create snippets on ray.so|64|2023-07-05|2023-05-31|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|266|2023-12-28|2023-09-16|
+|2|[Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim)|Solve Leetcode problems within Neovim 🔥|148|2023-11-19|2023-01-24|
+|3|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|82|2023-12-25|2023-10-03|
+|4|[TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim)|A simple neovim plugin that enables you to instantly create snippets on ray.so|65|2023-07-05|2023-05-31|
 |5|[LividDS/Lorefriendly-Cars](https://github.com/LividDS/Lorefriendly-Cars)|A collection of lore friendly cars.|43|2023-10-28|2023-01-28|
 |6|[chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute)|A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.|39|2023-07-28|2023-04-06|
 |7|[meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim)|Small collection of _fancy_ components for the lualine.nvim plugin.|36|2023-09-03|2023-03-19|
 |8|[evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim)|A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.|36|2023-12-12|2023-03-12|
-|9|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|34|2023-12-26|2023-05-28|
+|9|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|34|2023-12-28|2023-05-28|
 |10|[ChristianChiarulli/bookmark.nvim](https://github.com/ChristianChiarulli/bookmark.nvim)|Bookmark and jump between lines in the current file|30|2023-07-08|2023-05-14|
 |11|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|26|2023-12-19|2023-12-01|
 |12|[ada0l/obsidian](https://github.com/ada0l/obsidian)|:book: Base Obsidian functionality in your Neovim |26|2023-08-11|2023-07-27|
-|13|[GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)|Jupyter notebooks on neovim powered by Jupytext|24|2023-12-24|2023-11-22|
+|13|[GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)|Jupyter notebooks on neovim powered by Jupytext|25|2023-12-28|2023-11-22|
 |14|[echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns)|Highlight patterns in text. Part of 'mini.nvim' library. |24|2023-12-17|2023-05-22|
-|15|[mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim)|My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. |21|2023-12-17|2023-05-26|
+|15|[mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim)|My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. |22|2023-12-17|2023-05-26|
 |16|[biozz/whop.nvim](https://github.com/biozz/whop.nvim)|Whop your snippets with custom commands|16|2023-11-08|2023-10-21|
-|17|[alejandromc23/nvim.kickstart](https://github.com/alejandromc23/nvim.kickstart)|This repository is a collection of configuration files and settings that will be used to customize and set up the Neovim text editor|14|2023-07-13|2023-03-15|
-|18|[Simplified-Studios/ss-jobcenter-qb](https://github.com/Simplified-Studios/ss-jobcenter-qb)|A jobcenter with a clearn UI for QBCore|13|2023-12-13|2023-12-08|
-|19|[mystery-z/awesome-hammerspoon](https://github.com/mystery-z/awesome-hammerspoon)|Awesome code snippets for the Hammerspoon Desktop Automation Utility |13|2023-08-03|2023-07-20|
+|17|[mystery-z/awesome-hammerspoon](https://github.com/mystery-z/awesome-hammerspoon)|Awesome code snippets for the Hammerspoon Desktop Automation Utility |14|2023-08-03|2023-07-20|
+|18|[alejandromc23/nvim.kickstart](https://github.com/alejandromc23/nvim.kickstart)|This repository is a collection of configuration files and settings that will be used to customize and set up the Neovim text editor|14|2023-07-13|2023-03-15|
+|19|[Simplified-Studios/ss-jobcenter-qb](https://github.com/Simplified-Studios/ss-jobcenter-qb)|A jobcenter with a clearn UI for QBCore|13|2023-12-13|2023-12-08|
 |20|[drainpixie/petal](https://github.com/drainpixie/petal)|🌼 a delightful collection of dotfiles for my arch system.|13|2023-10-22|2023-06-01|
 |21|[red-blox/Util](https://github.com/red-blox/Util)|A collection of small utilities for Roblox.|13|2023-12-02|2023-05-09|
 |22|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|12|2023-11-16|2023-10-13|
@@ -40,20 +40,21 @@
 |33|[chrisgrieser/wrench-knife](https://github.com/chrisgrieser/wrench-knife)|Collection of useful snippets for Hammerspoon|10|2023-08-01|2023-01-20|
 |34|[FlexYourBrain/Defold_Animation3D_Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide)|Blender to Defold 3d animation guide|9|2023-08-08|2023-08-08|
 |35|[alberttheprince/popcornrppets](https://github.com/alberttheprince/popcornrppets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|8|2023-12-04|2023-11-22|
-|36|[m0tral/MiWatchLuaWatchfaces](https://github.com/m0tral/MiWatchLuaWatchfaces)|Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models|7|2023-12-06|2023-10-31|
-|37|[WispY/deepity](https://github.com/WispY/deepity)|Contains shareables from the series Development Deepities|7|2023-11-07|2023-10-12|
-|38|[gingerbeardman/mandala](https://github.com/gingerbeardman/mandala)|A little playground for testing pixel logic patterns.|7|2023-07-10|2023-07-02|
-|39|[icebaker/ruby-nano-bots](https://github.com/icebaker/ruby-nano-bots)|Ruby Implementation of Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as OpenAI ChatGPT and Google Gemini, with support for c ...|7|2023-12-17|2023-05-11|
+|36|[icebaker/ruby-nano-bots](https://github.com/icebaker/ruby-nano-bots)|Ruby Implementation of Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as OpenAI ChatGPT, Mistral AI, Cohere Command, and Goog ...|8|2023-12-29|2023-05-11|
+|37|[m0tral/MiWatchLuaWatchfaces](https://github.com/m0tral/MiWatchLuaWatchfaces)|Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models|7|2023-12-06|2023-10-31|
+|38|[WispY/deepity](https://github.com/WispY/deepity)|Contains shareables from the series Development Deepities|7|2023-11-07|2023-10-12|
+|39|[gingerbeardman/mandala](https://github.com/gingerbeardman/mandala)|A little playground for testing pixel logic patterns.|7|2023-07-10|2023-07-02|
 |40|[alvarojsino813/nvim-config-guide](https://github.com/alvarojsino813/nvim-config-guide)|This is a full detailed guide for you to get to know the basics of how to configure and understand how nvim is customized.|6|2023-11-24|2023-11-23|
 |41|[IdreesInc/PlayBook](https://github.com/IdreesInc/PlayBook)|A delightful ebook reader for the Playdate console|6|2023-12-10|2023-10-14|
 |42|[MetaShrimps/screenshare](https://github.com/MetaShrimps/screenshare)|Allows you to Screenshare your entire Desktop into a Roblox game.|6|2023-07-19|2023-07-19|
 |43|[GoldO-dev/easy-weapon-reload](https://github.com/GoldO-dev/easy-weapon-reload)|A snippet for reloading weapons easier|6|2023-09-13|2023-07-03|
-|44|[Mr-Fox-h/fox-ide](https://github.com/Mr-Fox-h/fox-ide)|FOX IDE is a simple IDE, for master programmers.|6|2023-08-26|2023-05-31|
-|45|[Aussiemon/Darktide-Mods](https://github.com/Aussiemon/Darktide-Mods)|A collection of mods for Warhammer 40,000: Darktide.|6|2023-12-13|2023-02-22|
-|46|[SolarHorizon/rodux-utils](https://github.com/SolarHorizon/rodux-utils)|A collection of utilities for Rodux users|6|2023-09-06|2023-02-05|
-|47|[serrexlabs/sketch.nvim](https://github.com/serrexlabs/sketch.nvim)|Simplify code execution in Neovim. Run and test code snippets effortlessly in various languages, enhancing your coding workflow|5|2023-09-25|2023-09-16|
-|48|[Winterreisender/webview-xmake](https://github.com/Winterreisender/webview-xmake)|A webview xmake repo. Also build shared and static libs.|5|2023-11-17|2023-01-22|
-|49|[RenaudAlly/dotfiles](https://github.com/RenaudAlly/dotfiles)|Rice built using Hyprland and Waybar. Additional programs (dunst, rofi etc) and their associated configuration files are shared as well.|5|2023-12-18|2023-01-21|
+|44|[morefinances/qlua](https://github.com/morefinances/qlua)|Shared Access Scripts on QLua (for a trading terminal Quik)|6|2023-10-11|2023-06-29|
+|45|[Mr-Fox-h/fox-ide](https://github.com/Mr-Fox-h/fox-ide)|FOX IDE is a simple IDE, for master programmers.|6|2023-12-29|2023-05-31|
+|46|[Aussiemon/Darktide-Mods](https://github.com/Aussiemon/Darktide-Mods)|A collection of mods for Warhammer 40,000: Darktide.|6|2023-12-13|2023-02-22|
+|47|[SolarHorizon/rodux-utils](https://github.com/SolarHorizon/rodux-utils)|A collection of utilities for Rodux users|6|2023-09-06|2023-02-05|
+|48|[RenaudAlly/dotfiles](https://github.com/RenaudAlly/dotfiles)|Rice built using Hyprland and Waybar. Additional programs (dunst, rofi etc) and their associated configuration files are shared as well.|6|2023-12-18|2023-01-21|
+|49|[serrexlabs/sketch.nvim](https://github.com/serrexlabs/sketch.nvim)|Simplify code execution in Neovim. Run and test code snippets effortlessly in various languages, enhancing your coding workflow|5|2023-09-25|2023-09-16|
+|50|[Winterreisender/webview-xmake](https://github.com/Winterreisender/webview-xmake)|A webview xmake repo. Also build shared and static libs.|5|2023-11-17|2023-01-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

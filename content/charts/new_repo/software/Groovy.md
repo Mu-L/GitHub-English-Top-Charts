@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|50|2023-12-04|2023-04-10|
+|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|52|2023-12-04|2023-04-10|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|29|2023-11-15|2023-07-27|
 |3|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2023-10-12|2023-04-05|
 |4|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|10|2023-10-17|2023-05-31|
@@ -32,7 +32,7 @@
 |25|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
 |26|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|3|2023-11-22|2023-07-18|
 |27|[anton-kolyaev/insurance-2023-july](https://github.com/anton-kolyaev/insurance-2023-july)|-|3|2023-07-18|2023-06-13|
-|28|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2023-12-27|2023-05-22|
+|28|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2023-12-29|2023-05-22|
 |29|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2023-11-19|2023-05-07|
 |30|[dbsystel/tech-stories](https://github.com/dbsystel/tech-stories)|DB Systel Tech Stories|3|2023-11-28|2023-04-04|
 |31|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2023-11-16|2023-03-25|
@@ -43,7 +43,7 @@
 |36|[ableron/ableron-java](https://github.com/ableron/ableron-java)|Java Library for Ableron Server Side UI Composition|3|2023-12-04|2023-01-03|
 |37|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|2|2023-12-25|2023-12-25|
 |38|[jagedn/nf-datomic](https://github.com/jagedn/nf-datomic)|-|2|2023-12-17|2023-12-08|
-|39|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2023-12-25|2023-11-29|
+|39|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2023-12-28|2023-11-29|
 |40|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
 |41|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|2|2023-11-12|2023-11-08|
 |42|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2023-12-25|2023-11-03|
@@ -51,9 +51,9 @@
 |44|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
 |45|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
 |46|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2023-12-12|2023-09-19|
-|47|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2023-12-27|2023-09-14|
+|47|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2023-12-29|2023-09-14|
 |48|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
-|49|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2023-12-25|2023-08-22|
+|49|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2023-12-29|2023-08-22|
 |50|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
 |51|[jagedn/nextflow-groogle-sheet](https://github.com/jagedn/nextflow-groogle-sheet)|-|2|2023-07-11|2023-07-11|
 |52|[Domaman202/OCGST](https://github.com/Domaman202/OCGST)|-|2|2023-07-05|2023-06-26|
