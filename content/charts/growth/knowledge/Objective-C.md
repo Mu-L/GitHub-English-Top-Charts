@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -29,8 +29,8 @@
 |22|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning swift programming language.|4|0|2023-11-02|
 |23|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2023-11-20|
 |24|[dioq/objective_c](https://github.com/dioq/objective_c)|Objective-C 语言学习|2|0|2023-09-13|
-|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1632|0|2023-12-23|
-|26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|228|0|2023-08-04|
+|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1635|0|2023-12-23|
+|26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|230|0|2023-12-30|
 |27|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1780|0|2023-09-18|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2023-11-13|
 |29|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2023-11-20|
@@ -42,7 +42,7 @@
 |35|[IGRSoft/imGuru](https://github.com/IGRSoft/imGuru)|Upload image to imgur via context menu Share|6|0|2023-10-31|
 |36|[viviwu/QwayCallDemo](https://github.com/viviwu/QwayCallDemo)|This demo demonstrates how to use QwaySDK (libXWCallCenter) to develop a VoIP Internet phone. QwaySDK developer manual is included, please refer to the demo.|2|0|2023-10-10|
 |37|[wangwalker/study](https://github.com/wangwalker/study)|My records of study about computer-related knowledge.|2|0|2023-09-15|
-|38|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|20|0|2023-12-28|
+|38|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|20|0|2023-12-30|
 |39|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|0|2023-12-18|
 |40|[kingsoftgames/omnisdk-ios-demo](https://github.com/kingsoftgames/omnisdk-ios-demo)|The Demo includes code examples illustrating features of the OmniSDK iOS API.|3|0|2023-12-05|
 |41|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2023-12-20|

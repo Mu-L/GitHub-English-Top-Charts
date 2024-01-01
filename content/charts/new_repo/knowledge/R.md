@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,9 +13,9 @@
 |6|[nicucalcea/Ra11y](https://github.com/nicucalcea/Ra11y)|Collection of accessibility functions for R|18|2023-12-21|2023-09-22|
 |7|[vituri/awesome-julia](https://github.com/vituri/awesome-julia)|A curated list of Julia packages, resources, books and so on|18|2023-09-08|2023-08-30|
 |8|[PPBDS/tidymodels.tutorials](https://github.com/PPBDS/tidymodels.tutorials)|Tutorials for Tidy Modeling with R|16|2023-11-29|2023-07-05|
-|9|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|14|2023-12-06|2023-10-05|
-|10|[aestovall/GEDI_Workshop](https://github.com/aestovall/GEDI_Workshop)|Code and Tutorials for the 2023 Silvilaser GEDI Workshop|14|2023-09-05|2023-09-01|
-|11|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|13|2023-12-27|2023-12-24|
+|9|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|15|2023-12-27|2023-12-24|
+|10|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|14|2023-12-06|2023-10-05|
+|11|[aestovall/GEDI_Workshop](https://github.com/aestovall/GEDI_Workshop)|Code and Tutorials for the 2023 Silvilaser GEDI Workshop|14|2023-09-05|2023-09-01|
 |12|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|12|2023-11-13|2023-09-02|
 |13|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|11|2023-09-27|2023-08-16|
 |14|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|11|2023-11-09|2023-07-22|
@@ -30,18 +30,19 @@
 |23|[pgvector/pgvector-r](https://github.com/pgvector/pgvector-r)|pgvector examples for R|8|2023-12-27|2023-03-03|
 |24|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
 |25|[alexanderbrenning/ogh23_ml](https://github.com/alexanderbrenning/ogh23_ml)|OpenGeoHub 2023 Machine-learning Model Assessment and Interpretation|7|2023-08-31|2023-08-30|
-|26|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|6|2023-11-24|2023-09-16|
-|27|[milos-agathon/3d-city-buildings](https://github.com/milos-agathon/3d-city-buildings)|Have you ever wondered how to make realistic and beautiful 3D maps of your favorite cities using open data and R? In this repo, I will show you how to use Bing Maps Global Building Footprint data, whi ...|6|2023-07-15|2023-07-13|
-|28|[waqarhanif-biocode/single-cell-rna-seq](https://github.com/waqarhanif-biocode/single-cell-rna-seq)|Complete single-cell RNA-seq analysis guidelines in R|6|2023-08-23|2023-06-27|
-|29|[thot-data/tutorials](https://github.com/thot-data/tutorials)|Thot tutorials|6|2023-12-02|2023-04-29|
-|30|[nhs-r-community/NHSR-way](https://github.com/nhs-r-community/NHSR-way)|Host repository for the NHS-R Community way including a community handbook to navigate the community activities.|6|2023-12-22|2023-04-25|
-|31|[linushof/BayesIntro](https://github.com/linushof/BayesIntro)|Code and file management for the TUM Master's course "Introduction to Bayesian Data Analysis"|6|2023-07-19|2023-04-12|
-|32|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 4 part, 8 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStud ...|6|2023-10-26|2023-01-31|
-|33|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|5|2023-11-25|2023-11-25|
-|34|[henryspatialanalysis/city_walkability](https://github.com/henryspatialanalysis/city_walkability)|Tutorial for '15-minute city' walkability analysis|5|2023-08-16|2023-08-01|
-|35|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2023-12-10|2023-06-12|
-|36|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
-|37|[tidymodels/modeldatatoo](https://github.com/tidymodels/modeldatatoo)|More Data Sets Useful for Modeling Examples|5|2023-08-26|2023-03-02|
+|26|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|6|2023-12-09|2023-12-09|
+|27|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|6|2023-11-24|2023-09-16|
+|28|[milos-agathon/3d-city-buildings](https://github.com/milos-agathon/3d-city-buildings)|Have you ever wondered how to make realistic and beautiful 3D maps of your favorite cities using open data and R? In this repo, I will show you how to use Bing Maps Global Building Footprint data, whi ...|6|2023-07-15|2023-07-13|
+|29|[waqarhanif-biocode/single-cell-rna-seq](https://github.com/waqarhanif-biocode/single-cell-rna-seq)|Complete single-cell RNA-seq analysis guidelines in R|6|2023-08-23|2023-06-27|
+|30|[thot-data/tutorials](https://github.com/thot-data/tutorials)|Thot tutorials|6|2023-12-02|2023-04-29|
+|31|[nhs-r-community/NHSR-way](https://github.com/nhs-r-community/NHSR-way)|Host repository for the NHS-R Community way including a community handbook to navigate the community activities.|6|2023-12-22|2023-04-25|
+|32|[linushof/BayesIntro](https://github.com/linushof/BayesIntro)|Code and file management for the TUM Master's course "Introduction to Bayesian Data Analysis"|6|2023-07-19|2023-04-12|
+|33|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 4 part, 8 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStud ...|6|2023-10-26|2023-01-31|
+|34|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|5|2023-11-25|2023-11-25|
+|35|[henryspatialanalysis/city_walkability](https://github.com/henryspatialanalysis/city_walkability)|Tutorial for '15-minute city' walkability analysis|5|2023-08-16|2023-08-01|
+|36|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2023-12-10|2023-06-12|
+|37|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
+|38|[tidymodels/modeldatatoo](https://github.com/tidymodels/modeldatatoo)|More Data Sets Useful for Modeling Examples|5|2023-08-26|2023-03-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
