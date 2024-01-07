@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|6|2023-12-27|2023-10-13|
 |14|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |5|2023-10-29|2023-10-09|
 |15|[aliiimaher/Numerical-Analysis](https://github.com/aliiimaher/Numerical-Analysis)|This is a Numerical Analysis course project, implementing numerical analysis methods.|5|2023-08-03|2023-08-03|
-|16|[MortezaHagh/MRPP-MATLAB](https://github.com/MortezaHagh/MRPP-MATLAB)|Multi robot path planning algorithms implemented in MATLAB. Including heuristic search and incremental heuristic search methods. MRPP or MAPF|5|2023-07-07|2023-07-05|
+|16|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|5|2023-12-22|2023-05-31|
 |17|[BatuhanErTo/NumericalAnalysis](https://github.com/BatuhanErTo/NumericalAnalysis)|Numerical Analysis Lesson|5|2023-07-16|2023-04-15|
 |18|[Aidensh/Full-waveform-inversion](https://github.com/Aidensh/Full-waveform-inversion)|This a FWI pakage I developed during my master's thesis|5|2023-10-31|2023-03-13|
 |19|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|2023-11-13|2023-09-28|
@@ -37,32 +37,33 @@
 |30|[qlhhahaha/Multi-agent-System-control](https://github.com/qlhhahaha/Multi-agent-System-control)|reference code of the MAS textbook which written by Zhao Jichao|4|2023-11-11|2023-07-10|
 |31|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|4|2023-11-13|2023-06-10|
 |32|[ckghostwj/CVPR2023_code](https://github.com/ckghostwj/CVPR2023_code)|Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering|4|2023-07-15|2023-06-05|
-|33|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|4|2023-12-22|2023-05-31|
-|34|[mwt/guide-inequalities](https://github.com/mwt/guide-inequalities)|Code for "A User's Guide for Inference in Models Defined by Moment Inequalities"|4|2023-07-21|2023-04-26|
-|35|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|4|2023-09-17|2023-04-16|
-|36|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|4|2023-11-16|2023-04-15|
-|37|[CTinRT/HLUT-guide](https://github.com/CTinRT/HLUT-guide)|The code accompanying the comprehensive guide on HLUT specification.|4|2023-09-08|2023-03-02|
-|38|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|3|2023-11-30|2023-11-20|
-|39|[Diligent06/Communication-Engineering](https://github.com/Diligent06/Communication-Engineering)|Repository of course experiment for Communication Engineering|3|2023-10-25|2023-10-23|
-|40|[Andro-svg/STRL-LBCM](https://github.com/Andro-svg/STRL-LBCM)|Spatial-Temporal Tensor Representation Learning with Priors for Infrared Small Target Detection|3|2023-10-07|2023-10-07|
-|41|[patterd2/MATH4411_Adv_Math_Bio](https://github.com/patterd2/MATH4411_Adv_Math_Bio)|This repository is for code to run examples and generate the figures from the lectures notes from the module Advanced Mathematical Biology IV (MATH4411) at Durham University.|3|2023-12-08|2023-09-29|
+|33|[mwt/guide-inequalities](https://github.com/mwt/guide-inequalities)|Code for "A User's Guide for Inference in Models Defined by Moment Inequalities"|4|2023-07-21|2023-04-26|
+|34|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|4|2023-09-17|2023-04-16|
+|35|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|4|2023-11-16|2023-04-15|
+|36|[CTinRT/HLUT-guide](https://github.com/CTinRT/HLUT-guide)|The code accompanying the comprehensive guide on HLUT specification.|4|2023-09-08|2023-03-02|
+|37|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|3|2023-11-30|2023-11-20|
+|38|[Diligent06/Communication-Engineering](https://github.com/Diligent06/Communication-Engineering)|Repository of course experiment for Communication Engineering|3|2023-10-25|2023-10-23|
+|39|[Andro-svg/STRL-LBCM](https://github.com/Andro-svg/STRL-LBCM)|Spatial-Temporal Tensor Representation Learning with Priors for Infrared Small Target Detection|3|2023-10-07|2023-10-07|
+|40|[patterd2/MATH4411_Adv_Math_Bio](https://github.com/patterd2/MATH4411_Adv_Math_Bio)|This repository is for code to run examples and generate the figures from the lectures notes from the module Advanced Mathematical Biology IV (MATH4411) at Durham University.|3|2023-12-08|2023-09-29|
+|41|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
 |42|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|3|2023-08-29|2023-08-28|
 |43|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
 |44|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2023-09-26|2023-08-18|
 |45|[Sumitk874/Sem_5](https://github.com/Sumitk874/Sem_5)|A repository containing notes, resources, and projects for my fifth-semester courses, including Communication and Optical Instrumentation, Process Dynamics and Control, Modern Control Theory, and Robo ...|3|2023-09-08|2023-08-05|
 |46|[liujiyuan13/CMK-code_release](https://github.com/liujiyuan13/CMK-code_release)|The release code of "Contrastive Multi-view Kernel Learning"|3|2023-08-01|2023-07-31|
-|47|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
-|48|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
-|49|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-12-06|2023-06-08|
-|50|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2023-12-01|2023-06-07|
-|51|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
-|52|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
-|53|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
-|54|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
-|55|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
-|56|[pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology](https://github.com/pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology)|My homework in the Intelligent Robotics course during my undergraduate studies at Sun Yat-Sen University|3|2023-07-14|2023-04-19|
-|57|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
-|58|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
+|47|[ruiawang/Numerical-Analysis-Algorithms](https://github.com/ruiawang/Numerical-Analysis-Algorithms)|Implementations of various Algorithms used in Numerical Analysis, from root-finding up to gradient descent and numerically solving PDEs.|3|2023-08-14|2023-07-15|
+|48|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
+|49|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
+|50|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-12-06|2023-06-08|
+|51|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2023-12-01|2023-06-07|
+|52|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
+|53|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
+|54|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
+|55|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
+|56|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
+|57|[pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology](https://github.com/pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology)|My homework in the Intelligent Robotics course during my undergraduate studies at Sun Yat-Sen University|3|2023-07-14|2023-04-19|
+|58|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
+|59|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
