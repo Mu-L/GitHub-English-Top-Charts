@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -67,20 +67,19 @@
 |60|[trishagee/spock-testing-demo](https://github.com/trishagee/spock-testing-demo)|Simple project to show how to use Spock to test Java code|20|0|2023-10-23|
 |61|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2023-12-04|
 |62|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|29|0|2024-01-06|
-|63|[kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy)|Source code for Manning book "Making Java Groovy"|177|0|2023-07-08|
-|64|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2023-12-04|
-|65|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2023-12-05|
-|66|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|139|0|2023-12-06|
-|67|[kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy)|A curated list of awesome groovy libraries, frameworks and resources|702|0|2023-07-10|
-|68|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |709|0|2023-11-29|
-|69|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|4|0|2023-10-25|
-|70|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|0|2023-12-12|
-|71|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2023-12-25|
-|72|[epam/edp-library-stages](https://github.com/epam/edp-library-stages)|A Jenkins shared-library for the reference EDP stages|3|0|2023-11-02|
-|73|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2023-12-09|
-|74|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|42|0|2023-10-01|
-|75|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2024-01-03|
-|76|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|321|0|2023-10-31|
+|63|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2023-12-04|
+|64|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2023-12-05|
+|65|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|139|0|2023-12-06|
+|66|[kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy)|A curated list of awesome groovy libraries, frameworks and resources|702|0|2023-07-10|
+|67|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |709|0|2023-11-29|
+|68|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|4|0|2023-10-25|
+|69|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|0|2023-12-12|
+|70|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2023-12-25|
+|71|[epam/edp-library-stages](https://github.com/epam/edp-library-stages)|A Jenkins shared-library for the reference EDP stages|3|0|2023-11-02|
+|72|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2023-12-09|
+|73|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|42|0|2023-10-01|
+|74|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2024-01-03|
+|75|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|321|0|2023-10-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

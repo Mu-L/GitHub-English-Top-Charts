@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|0|2023-12-31|
+|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|0|2024-01-07|
 |2|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|0|2023-08-05|
 |3|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|0|2023-09-03|
 |4|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|8|0|2023-09-08|
@@ -28,14 +28,14 @@
 |21|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|0|2023-10-16|
 |22|[gcarreno/TestThreadPool](https://github.com/gcarreno/TestThreadPool)|Example of how to use the Class TThread with a pool manager|4|0|2023-09-10|
 |23|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2023-09-03|
-|24|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-01-04|
+|24|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-01-06|
 |25|[DomingoGP/lazIdeStackBookmarks](https://github.com/DomingoGP/lazIdeStackBookmarks)|Lazarus Ide add-on that implement stack based bookmarks for the source editor.|3|0|2023-08-02|
 |26|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|39|0|2023-10-24|
 |27|[MuminjonGuru/Object-Pascal-Mastering](https://github.com/MuminjonGuru/Object-Pascal-Mastering)|These are not just simple 🧩Algorithms🧩. I also add interesting Academic concepts into it. Check this out.|26|0|2023-11-18|
 |28|[wp-xyz/gas_storage](https://github.com/wp-xyz/gas_storage)|Plots a time-series of the gas storage levels in European countries|2|0|2023-07-30|
 |29|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-01-05|
 |30|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2023-08-01|
-|31|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|7|0|2023-11-17|
+|31|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|8|0|2023-11-17|
 |32|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|13|0|2023-07-15|
 |33|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1666|0|2023-11-20|
 |34|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2023-10-27|
@@ -50,7 +50,7 @@
 |43|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|0|2023-12-18|
 |44|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-01-04|
 |45|[rmesch/Bitmaps2Video-for-Media-Foundation](https://github.com/rmesch/Bitmaps2Video-for-Media-Foundation)|Encode a series of bitmaps and video clips together with an audio file to video using the Windows Mediafoundation-API|4|0|2023-09-05|
-|46|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|55|0|2024-01-05|
+|46|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|55|0|2024-01-06|
 |47|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|0|2023-09-21|
 
 <div align="center">

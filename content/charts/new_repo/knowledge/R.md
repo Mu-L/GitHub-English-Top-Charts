@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[vituri/awesome-julia](https://github.com/vituri/awesome-julia)|A curated list of Julia packages, resources, books and so on|18|2023-09-08|2023-08-30|
 |7|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|16|2023-12-27|2023-12-24|
 |8|[PPBDS/tidymodels.tutorials](https://github.com/PPBDS/tidymodels.tutorials)|Tutorials for Tidy Modeling with R|16|2023-11-29|2023-07-05|
-|9|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|14|2023-12-06|2023-10-05|
-|10|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|14|2024-01-04|2023-09-22|
+|9|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|15|2024-01-04|2023-09-22|
+|10|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|14|2023-12-06|2023-10-05|
 |11|[aestovall/GEDI_Workshop](https://github.com/aestovall/GEDI_Workshop)|Code and Tutorials for the 2023 Silvilaser GEDI Workshop|14|2023-09-05|2023-09-01|
 |12|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|12|2023-11-13|2023-09-02|
 |13|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2023-12-04|2023-04-07|
@@ -29,8 +29,8 @@
 |22|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|8|2023-10-26|2023-04-05|
 |23|[pgvector/pgvector-r](https://github.com/pgvector/pgvector-r)|pgvector examples for R|8|2023-12-27|2023-03-03|
 |24|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
-|25|[alexanderbrenning/ogh23_ml](https://github.com/alexanderbrenning/ogh23_ml)|OpenGeoHub 2023 Machine-learning Model Assessment and Interpretation|7|2023-08-31|2023-08-30|
-|26|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|6|2023-11-24|2023-09-16|
+|25|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|7|2023-11-24|2023-09-16|
+|26|[alexanderbrenning/ogh23_ml](https://github.com/alexanderbrenning/ogh23_ml)|OpenGeoHub 2023 Machine-learning Model Assessment and Interpretation|7|2023-08-31|2023-08-30|
 |27|[milos-agathon/3d-city-buildings](https://github.com/milos-agathon/3d-city-buildings)|Have you ever wondered how to make realistic and beautiful 3D maps of your favorite cities using open data and R? In this repo, I will show you how to use Bing Maps Global Building Footprint data, whi ...|6|2023-07-15|2023-07-13|
 |28|[waqarhanif-biocode/single-cell-rna-seq](https://github.com/waqarhanif-biocode/single-cell-rna-seq)|Complete single-cell RNA-seq analysis guidelines in R|6|2023-08-23|2023-06-27|
 |29|[thot-data/tutorials](https://github.com/thot-data/tutorials)|Thot tutorials|6|2023-12-02|2023-04-29|

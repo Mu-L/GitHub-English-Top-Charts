@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14722|2023-12-21|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9501|2023-12-31|
-|3|[dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi)|Raspberry Pi ARM based bare metal examples|2639|2023-07-14|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14720|2023-12-21|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9505|2023-12-31|
+|3|[dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi)|Raspberry Pi ARM based bare metal examples|2640|2023-07-14|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|523|2023-10-24|
 |5|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|407|2024-01-04|
 |6|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|200|2023-11-13|
@@ -28,9 +28,9 @@
 |21|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|38|2023-10-30|
 |22|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|37|2023-12-25|
 |23|[gfoot/sdcard6502](https://github.com/gfoot/sdcard6502)|Reading SD cards on a homebrew 6502 computer - tutorial guide and sample code|36|2023-07-10|
-|24|[gitendo/helloworld](https://github.com/gitendo/helloworld)|Hello world and other commented GameBoy assembly examples for beginners.|33|2023-10-11|
-|25|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|32|2023-10-26|
-|26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|28|2024-01-06|
+|24|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|33|2023-10-26|
+|25|[gitendo/helloworld](https://github.com/gitendo/helloworld)|Hello world and other commented GameBoy assembly examples for beginners.|33|2023-10-11|
+|26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|28|2024-01-07|
 |27|[dsoze1138/MPLABXv5xx_pic-as_examples](https://github.com/dsoze1138/MPLABXv5xx_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|28|2024-01-04|
 |28|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|27|2023-11-24|
 |29|[mauri870/baking-pi](https://github.com/mauri870/baking-pi)|My code for Baking Pi - Operating Systems Development online course by Cambridge University (Raspberry Pi 3 update)|26|2023-07-19|
@@ -39,14 +39,14 @@
 |32|[santiontanon/castlemaster2-disassembly](https://github.com/santiontanon/castlemaster2-disassembly)|Disassembly of the original 1990 Castle Master II: The Crypt ZX Spectrum game|21|2023-07-16|
 |33|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|21|2024-01-01|
 |34|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|20|2023-10-26|
-|35|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|20|2024-01-06|
+|35|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|20|2024-01-07|
 |36|[LeonarthCG/FFTA_Engine_Hacks](https://github.com/LeonarthCG/FFTA_Engine_Hacks)|A collection of my modular engine hacks for FFTA|19|2023-09-25|
 |37|[lajohnston/smslib](https://github.com/lajohnston/smslib)|Z80 libraries for the Sega Master System|19|2023-10-29|
 |38|[Nakazoto/Hellorld](https://github.com/Nakazoto/Hellorld)|A collection of the greatest programming on the planet!|17|2023-12-07|
 |39|[lordmilko/VSKernelDev](https://github.com/lordmilko/VSKernelDev)|Tutorial/Sample Project for doing Operating Systems development in Visual Studio|17|2023-09-10|
 |40|[edoardottt/asm-snippets](https://github.com/edoardottt/asm-snippets)|Some of my assembly code (examples, iterative and recursive algorithms) from Computer's Architecture course in Sapienza University, CS Bachelor's Degree :floppy_disk:|17|2023-11-29|
 |41|[UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani](https://github.com/UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani)|Contains the Lab Sheets and their Solutions of the Microprocessors And Interfacing Course in BITS Pilani.|17|2024-01-06|
-|42|[prasad89/x86-assembly-programs](https://github.com/prasad89/x86-assembly-programs)|This repository showcases x86 assembly programs developed using NASM and GCC, as part of coursework undertaken at the Pune University Computer Science Department (PUCSD). Additionally, the repository  ...|16|2024-01-02|
+|42|[prasad89/x86-assembly-programs](https://github.com/prasad89/x86-assembly-programs)|This repository showcases x86 assembly programs developed using NASM and GCC, as part of coursework undertaken at the Pune University Computer Science Department (PUCSD). Additionally, the repository  ...|16|2024-01-07|
 |43|[Kongduino/PC-G850V](https://github.com/Kongduino/PC-G850V)|A collection of small sketches for the Sharp PC-G850V|16|2023-10-18|
 |44|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|16|2024-01-06|
 |45|[hlshi527214/ElectronDiffraction-tools](https://github.com/hlshi527214/ElectronDiffraction-tools)|ElectronDiffraction Tools can be used to process & analysis electron diffraction patterns and HRTEM images.|14|2023-08-11|
@@ -103,17 +103,16 @@
 |96|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|
 |97|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|
 |98|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|
-|99|[nnamanx/intel_8086](https://github.com/nnamanx/intel_8086)|Completed Assignments of Computer Organization & Architecture Course|3|2023-07-08|
-|100|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|
-|101|[segin-GH/esp-idf-examples](https://github.com/segin-GH/esp-idf-examples)|A repo full of esp-idf examples|3|2024-01-02|
-|102|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2023-12-14|
-|103|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2023-12-22|
-|104|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-01-04|
-|105|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2023-10-26|
-|106|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|2|2024-01-02|
-|107|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-01-06|
-|108|[prithivi-maruthachalam/BellLabs](https://github.com/prithivi-maruthachalam/BellLabs)|Code Snippets and examples for Bell Labs|2|2023-09-04|
-|109|[selimslab/logos](https://github.com/selimslab/logos)|How to create an OS from scratch  :loop:|2|2023-11-03|
+|99|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|
+|100|[segin-GH/esp-idf-examples](https://github.com/segin-GH/esp-idf-examples)|A repo full of esp-idf examples|3|2024-01-02|
+|101|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2023-12-14|
+|102|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2023-12-22|
+|103|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-01-04|
+|104|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2023-10-26|
+|105|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|2|2024-01-02|
+|106|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-01-07|
+|107|[prithivi-maruthachalam/BellLabs](https://github.com/prithivi-maruthachalam/BellLabs)|Code Snippets and examples for Bell Labs|2|2023-09-04|
+|108|[selimslab/logos](https://github.com/selimslab/logos)|How to create an OS from scratch  :loop:|2|2023-11-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

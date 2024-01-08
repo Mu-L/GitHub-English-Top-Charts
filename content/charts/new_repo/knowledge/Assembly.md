@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -34,10 +34,9 @@
 |27|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|2023-11-11|
 |28|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|2023-09-21|
 |29|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|2023-09-15|
-|30|[nnamanx/intel_8086](https://github.com/nnamanx/intel_8086)|Completed Assignments of Computer Organization & Architecture Course|3|2023-07-08|2023-07-08|
-|31|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|2023-03-20|
-|32|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|2|2024-01-02|2024-01-02|
-|33|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-01-06|2023-07-01|
+|30|[TopazTK/ReFined-Patches](https://github.com/TopazTK/ReFined-Patches)|A collection of ROM Patches for the Re:Fined Project.|3|2023-08-12|2023-03-20|
+|31|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|2|2024-01-02|2024-01-02|
+|32|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-01-07|2023-07-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

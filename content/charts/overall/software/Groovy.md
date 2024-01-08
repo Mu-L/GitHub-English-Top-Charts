@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Groovy
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15662|2024-01-06|
-|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|7972|2023-07-26|
-|3|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5161|2024-01-06|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15664|2024-01-07|
+|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|7973|2023-07-26|
+|3|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5162|2024-01-06|
 |4|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3465|2024-01-02|
-|5|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2991|2023-09-04|
-|6|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceType Handlers and SmartApps code|2525|2023-07-18|
+|5|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2992|2023-09-04|
+|6|[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)|SmartThings open-source DeviceType Handlers and SmartApps code|2526|2023-07-18|
 |7|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2431|2024-01-06|
 |8|[jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|1858|2023-12-25|
 |9|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1674|2023-11-17|
@@ -20,15 +20,15 @@
 |13|[geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins)|Ansible Role - Jenkins CI|808|2023-12-27|
 |14|[radarsh/gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin)|A Gradle plugin for printing beautiful logs on the console while running tests|791|2023-12-21|
 |15|[spockframework/spock-example](https://github.com/spockframework/spock-example)|Spock example specifications along with ready-to-go Gradle and Maven builds|756|2023-12-22|
-|16|[palantir/gradle-docker](https://github.com/palantir/gradle-docker)|a Gradle plugin for orchestrating docker builds and pushes.|732|2023-12-31|
+|16|[palantir/gradle-docker](https://github.com/palantir/gradle-docker)|a Gradle plugin for orchestrating docker builds and pushes.|732|2024-01-07|
 |17|[ultraq/thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect)|A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse|693|2023-12-02|
 |18|[docToolchain/docToolchain](https://github.com/docToolchain/docToolchain)|a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation|676|2024-01-05|
 |19|[cloudbees/jenkins-scripts](https://github.com/cloudbees/jenkins-scripts)|-|665|2023-10-27|
 |20|[akhikhl/gretty](https://github.com/akhikhl/gretty)|Advanced gradle plugin for running web-apps on jetty and tomcat.|656|2023-12-28|
 |21|[melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin)|Integrates the JMH benchmarking framework with Gradle|610|2024-01-05|
 |22|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|570|2023-12-19|
-|23|[jenkinsci/pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin)|-|553|2024-01-03|
-|24|[openboxes/openboxes](https://github.com/openboxes/openboxes)|OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.|551|2024-01-05|
+|23|[jenkinsci/pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin)|-|553|2024-01-07|
+|24|[openboxes/openboxes](https://github.com/openboxes/openboxes)|OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.|552|2024-01-05|
 |25|[allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin)|Gradle release & version management plugin.|533|2023-12-27|
 |26|[bmuschko/gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin)|Gradle plugin supporting deployment of your web application to an embedded Tomcat web container|532|2023-10-12|
 |27|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|519|2023-12-15|
@@ -81,8 +81,8 @@
 |74|[sherter/google-java-format-gradle-plugin](https://github.com/sherter/google-java-format-gradle-plugin)|-|183|2023-10-26|
 |75|[jdereg/n-cube](https://github.com/jdereg/n-cube)|Rules Engine, Decision Tables, Templating|172|2023-11-30|
 |76|[platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter)|Gradle dependencies formatter for IntelliJ IDEA|164|2024-01-04|
-|77|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|163|2024-01-06|
-|78|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|160|2024-01-06|
+|77|[spotbugs/spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)|-|163|2024-01-07|
+|78|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|161|2024-01-07|
 |79|[beryx/badass-runtime-plugin](https://github.com/beryx/badass-runtime-plugin)|Create a custom runtime image of your non-modular application|158|2023-10-13|
 |80|[hubitat/HubitatPublic](https://github.com/hubitat/HubitatPublic)|-|158|2023-12-19|
 |81|[danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus)|web-based thesaurus search and management|157|2023-07-30|
@@ -195,12 +195,12 @@
 |188|[axpendix/tcgone-engine-contrib](https://github.com/axpendix/tcgone-engine-contrib)|TCG ONE (Pokemon TCG Simulator) card implementation repository|43|2023-12-22|
 |189|[HubitatCommunity/InfluxDB-Logger](https://github.com/HubitatCommunity/InfluxDB-Logger)|-|43|2023-11-18|
 |190|[nebula-plugins/nebula-test](https://github.com/nebula-plugins/nebula-test)|Test harness for Gradle plugins|43|2023-11-29|
-|191|[alan-morey/force-meta-backup](https://github.com/alan-morey/force-meta-backup)|A tool to help download Salesforce.com Metadata|42|2023-11-06|
-|192|[liquibase/liquibase-neo4j](https://github.com/liquibase/liquibase-neo4j)|Neo4j extension for Liquibase|41|2024-01-05|
+|191|[liquibase/liquibase-neo4j](https://github.com/liquibase/liquibase-neo4j)|Neo4j extension for Liquibase|42|2024-01-05|
+|192|[alan-morey/force-meta-backup](https://github.com/alan-morey/force-meta-backup)|A tool to help download Salesforce.com Metadata|42|2023-11-06|
 |193|[orbisgis/geoclimate](https://github.com/orbisgis/geoclimate)|Geospatial processing toolbox for environmental and climate studies |41|2023-12-10|
 |194|[spring-cloud/spring-cloud-jenkins-jobs](https://github.com/spring-cloud/spring-cloud-jenkins-jobs)|Spring Cloud Jenkins Job DSL|41|2023-11-03|
 |195|[nebula-plugins/gradle-resolution-rules-plugin](https://github.com/nebula-plugins/gradle-resolution-rules-plugin)|Gradle plugin for providing reusable dependency resolution rules.|41|2023-11-29|
-|196|[Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin)|A IntelliJ plugin that can explore archive-based file in project view|40|2024-01-04|
+|196|[Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin)|A IntelliJ plugin that can explore archive-based file in project view|40|2024-01-07|
 |197|[epi2me-labs/wf-artic](https://github.com/epi2me-labs/wf-artic)|ARTIC SARS-CoV-2 workflow and reporting|39|2023-11-29|
 |198|[DaveGut/Test-Code](https://github.com/DaveGut/Test-Code)|Test Code|39|2023-11-13|
 |199|[BFergerson/GitDetective](https://github.com/BFergerson/GitDetective)|Find the use and users of open-source code|39|2023-09-11|

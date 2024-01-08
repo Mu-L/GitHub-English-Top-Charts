@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|726|2023-12-29|2023-11-12|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|729|2023-12-29|2023-11-12|
 |2|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|617|2024-01-04|2023-05-09|
 |3|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|396|2023-10-30|2023-04-05|
 |4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|383|2023-11-07|2023-11-03|
 |5|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|369|2023-10-02|2023-09-16|
 |6|[nermeenwageh10/Leetcode-Solutions](https://github.com/nermeenwageh10/Leetcode-Solutions)|This collection of beginner-friendly LeetCode problems. This repository features easy-to-understand solutions that are constantly updated for improved performance. Whether you're a coding novice or lo ...|316|2023-07-16|2023-02-16|
 |7|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|268|2023-11-30|2023-10-25|
-|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|265|2023-12-27|2023-08-28|
+|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|266|2023-12-27|2023-08-28|
 |9|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|184|2023-08-23|2023-07-23|
 |10|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|146|2023-09-24|2023-07-29|
 |11|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|127|2023-12-27|2023-05-12|
@@ -27,10 +27,10 @@
 |20|[reveng007/AMSI-patches-learned-till-now](https://github.com/reveng007/AMSI-patches-learned-till-now)|I have documented all of the AMSI patches that I learned till now|63|2023-08-12|2023-02-04|
 |21|[google-research/project-guideline](https://github.com/google-research/project-guideline)|Project Guideline is a research project that leverages on-device ML to enable people who are blind and low-vision to walk or run for exercise independently.|62|2024-01-03|2023-08-21|
 |22|[cv-rmvl/rmvl](https://github.com/cv-rmvl/rmvl)|RoboMaster Vision Library|60|2024-01-05|2023-08-16|
-|23|[importlogic/gfg-potd](https://github.com/importlogic/gfg-potd)|A collection of C++ codes for Geeks for Geeks Problem of the Day|60|2024-01-06|2023-02-10|
-|24|[bbdzs/Sorting-Visualization-bbdzs](https://github.com/bbdzs/Sorting-Visualization-bbdzs)|A powerful sorting algorithm visualization program. It is a course design of SWU data structure.|56|2023-12-01|2023-05-24|
-|25|[GeorgiTerziev02/Object-oriented_programming_FMI](https://github.com/GeorgiTerziev02/Object-oriented_programming_FMI)|Repository with examples for the "Object-oriented programming" course given by me at Faculty of Mathematics and Informatics, Sofia University|55|2023-12-03|2023-02-13|
-|26|[BIMCoderLiang/LNLib](https://github.com/BIMCoderLiang/LNLib)|A C++ NURBS Algorithms Library, match the NURBS Book|54|2024-01-05|2023-04-24|
+|23|[importlogic/gfg-potd](https://github.com/importlogic/gfg-potd)|A collection of C++ codes for Geeks for Geeks Problem of the Day|60|2024-01-07|2023-02-10|
+|24|[BIMCoderLiang/LNLib](https://github.com/BIMCoderLiang/LNLib)|A C++ NURBS Algorithms Library, match the NURBS Book|57|2024-01-05|2023-04-24|
+|25|[bbdzs/Sorting-Visualization-bbdzs](https://github.com/bbdzs/Sorting-Visualization-bbdzs)|A powerful sorting algorithm visualization program. It is a course design of SWU data structure.|56|2023-12-01|2023-05-24|
+|26|[GeorgiTerziev02/Object-oriented_programming_FMI](https://github.com/GeorgiTerziev02/Object-oriented_programming_FMI)|Repository with examples for the "Object-oriented programming" course given by me at Faculty of Mathematics and Informatics, Sofia University|55|2023-12-03|2023-02-13|
 |27|[vicr123/QNearbyShare](https://github.com/vicr123/QNearbyShare)|Nearby Share implementation for Linux|54|2023-10-23|2023-04-17|
 |28|[Senbyo/meshletmaker](https://github.com/Senbyo/meshletmaker)|Collection of meshlet generation algorithms|54|2024-01-03|2023-02-13|
 |29|[NikodemBartnik/Machine-Learning-Robot](https://github.com/NikodemBartnik/Machine-Learning-Robot)|Machine learning robot with Arduino Uno, LIDAR and ORP chassis|50|2024-01-02|2023-09-11|

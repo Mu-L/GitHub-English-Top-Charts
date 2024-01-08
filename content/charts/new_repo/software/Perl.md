@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|107|2024-01-01|2023-07-30|
+|1|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|109|2024-01-01|2023-07-30|
 |2|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|101|2023-12-27|2023-05-25|
-|3|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|48|2023-12-17|2023-03-05|
+|3|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|49|2023-12-17|2023-03-05|
 |4|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|33|2023-10-26|2023-05-23|
-|6|[turistu/rmx3474-rooting](https://github.com/turistu/rmx3474-rooting)|rooting the Realme 9 5G rmx3474 phone|26|2023-09-17|2023-04-06|
-|7|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|25|2023-12-15|2023-09-21|
-|8|[Perl-Apollo/oshun](https://github.com/Perl-Apollo/oshun)| Declarative data validation for variables and subroutines|25|2023-08-18|2023-05-14|
+|6|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|25|2023-12-15|2023-09-21|
+|7|[Perl-Apollo/oshun](https://github.com/Perl-Apollo/oshun)| Declarative data validation for variables and subroutines|25|2023-08-18|2023-05-14|
+|8|[turistu/rmx3474-rooting](https://github.com/turistu/rmx3474-rooting)|rooting the Realme 9 5G rmx3474 phone|25|2023-09-17|2023-04-06|
 |9|[keydet89/RegRipper4.0](https://github.com/keydet89/RegRipper4.0)|RegRipper4.0|19|2023-08-22|2023-08-22|
 |10|[nginxinc/nginx-saml](https://github.com/nginxinc/nginx-saml)|-|18|2023-12-05|2023-01-25|
 |11|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
@@ -41,12 +41,12 @@
 |34|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|7|2023-10-14|2023-07-21|
 |35|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|7|2023-12-19|2023-07-20|
 |36|[GECO-IT/Geco-Cloudbase-Init](https://github.com/GECO-IT/Geco-Cloudbase-Init)|-|7|2023-11-26|2023-02-06|
-|37|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
-|38|[lskatz/pdtk](https://github.com/lskatz/pdtk)|NCBI Pathogen Detection Portal toolkit|6|2023-09-06|2023-08-29|
-|39|[lyadd/Filtrage-Auto](https://github.com/lyadd/Filtrage-Auto)|Permet de faire une création automatisée du fichier de filtrage 'tv_grep.in' pour les programmes télévisés.|6|2023-07-11|2023-07-11|
-|40|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2024-01-06|2023-02-17|
-|41|[grepmam/Lucia-Notify](https://github.com/grepmam/Lucia-Notify)|Lucia Notify is a tool that will notify you in case a Bugzilla bug changes its status. In the event that your tester friend or person in charge changes the status in Bugzilla, you will not have to wai ...|6|2023-11-10|2023-01-14|
-|42|[Moealsir/betty_fixer](https://github.com/Moealsir/betty_fixer)|A python program that fix betty errors for C files|5|2024-01-04|2023-12-24|
+|37|[Moealsir/betty_fixer](https://github.com/Moealsir/betty_fixer)|A python program that fix betty errors for C files|6|2024-01-07|2023-12-24|
+|38|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
+|39|[lskatz/pdtk](https://github.com/lskatz/pdtk)|NCBI Pathogen Detection Portal toolkit|6|2023-09-06|2023-08-29|
+|40|[lyadd/Filtrage-Auto](https://github.com/lyadd/Filtrage-Auto)|Permet de faire une création automatisée du fichier de filtrage 'tv_grep.in' pour les programmes télévisés.|6|2023-07-11|2023-07-11|
+|41|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2024-01-07|2023-02-17|
+|42|[grepmam/Lucia-Notify](https://github.com/grepmam/Lucia-Notify)|Lucia Notify is a tool that will notify you in case a Bugzilla bug changes its status. In the event that your tester friend or person in charge changes the status in Bugzilla, you will not have to wai ...|6|2023-11-10|2023-01-14|
 |43|[pcineverdies/AOC-2023](https://github.com/pcineverdies/AOC-2023)|Advent Of Code 2023|5|2023-12-17|2023-11-29|
 |44|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|5|2023-11-30|2023-11-03|
 |45|[robrwo/perl-ipgrep](https://github.com/robrwo/perl-ipgrep)|grep by ip address|5|2023-11-10|2023-11-02|
@@ -65,23 +65,23 @@
 |58|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|4|2023-11-02|2023-11-02|
 |59|[certat/citrix-logchecker](https://github.com/certat/citrix-logchecker)|Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation|4|2023-11-03|2023-10-28|
 |60|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|4|2023-12-03|2023-09-30|
-|61|[aymanreda56/Vigil-Anti](https://github.com/aymanreda56/Vigil-Anti)|-|4|2023-09-18|2023-08-26|
-|62|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
-|63|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|4|2023-11-29|2023-08-07|
-|64|[dave-lang/webmin-docker](https://github.com/dave-lang/webmin-docker)|Docker module for Webmin|4|2023-07-31|2023-07-03|
-|65|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
-|66|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|67|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-02|2023-06-15|
-|68|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
-|69|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|3|2024-01-03|2024-01-02|
-|70|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
-|71|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|3|2023-12-13|2023-12-06|
-|72|[zzzeyez/dots-linux](https://github.com/zzzeyez/dots-linux)|-|3|2023-12-26|2023-11-27|
-|73|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|3|2024-01-05|2023-10-19|
-|74|[guifelippe/contact-manager-perl](https://github.com/guifelippe/contact-manager-perl)|A simple contact manager made in perl|3|2023-10-16|2023-10-16|
-|75|[duskstar9623/pdf-toolbox](https://github.com/duskstar9623/pdf-toolbox)|Powerful and easy-to-use pdf tools for Nodejs application.|3|2023-11-21|2023-10-10|
-|76|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|3|2023-10-02|2023-09-24|
-|77|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|3|2024-01-01|2023-09-09|
+|61|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|4|2024-01-01|2023-09-09|
+|62|[aymanreda56/Vigil-Anti](https://github.com/aymanreda56/Vigil-Anti)|-|4|2023-09-18|2023-08-26|
+|63|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
+|64|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|4|2023-11-29|2023-08-07|
+|65|[dave-lang/webmin-docker](https://github.com/dave-lang/webmin-docker)|Docker module for Webmin|4|2023-07-31|2023-07-03|
+|66|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
+|67|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
+|68|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-02|2023-06-15|
+|69|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
+|70|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|3|2024-01-03|2024-01-02|
+|71|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
+|72|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|3|2023-12-13|2023-12-06|
+|73|[zzzeyez/dots-linux](https://github.com/zzzeyez/dots-linux)|-|3|2023-12-26|2023-11-27|
+|74|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|3|2024-01-05|2023-10-19|
+|75|[guifelippe/contact-manager-perl](https://github.com/guifelippe/contact-manager-perl)|A simple contact manager made in perl|3|2023-10-16|2023-10-16|
+|76|[duskstar9623/pdf-toolbox](https://github.com/duskstar9623/pdf-toolbox)|Powerful and easy-to-use pdf tools for Nodejs application.|3|2023-11-21|2023-10-10|
+|77|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|3|2023-10-02|2023-09-24|
 |78|[clari/mast](https://github.com/clari/mast)|-|3|2023-10-17|2023-09-06|
 |79|[Dwarf1er/perlfuck](https://github.com/Dwarf1er/perlfuck)|PerlFuck ({/.=~+}) using only 9 characters to write and execute Perl code|3|2023-09-05|2023-09-04|
 |80|[marioroy/mce-sandbox](https://github.com/marioroy/mce-sandbox)|Parallel demonstrations for counting and printing prime numbers|3|2023-10-27|2023-08-28|
@@ -104,7 +104,7 @@
 |97|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |98|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |99|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|100|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-06|2023-12-09|
+|100|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-07|2023-12-09|
 |101|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |102|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
 |103|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
@@ -126,15 +126,16 @@
 |119|[rafmod/Lingua-NameUtils](https://github.com/rafmod/Lingua-NameUtils)|Identify given/family names and capitalize correctly|2|2023-07-09|2023-06-27|
 |120|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
 |121|[geniusphil/2023GenomicEpidemiologyWorkshop](https://github.com/geniusphil/2023GenomicEpidemiologyWorkshop)|2023 Genomic Epidemiology Workshop at Academia Sinica|2|2023-07-31|2023-06-21|
-|122|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2023-11-15|2023-05-23|
-|123|[CPAN-Security/Net-NVD](https://github.com/CPAN-Security/Net-NVD)|Query CVE data from NIST's NVD (National Vulnerability Database)|2|2023-10-31|2023-05-19|
-|124|[sonic-com/pagerduty2zabbix](https://github.com/sonic-com/pagerduty2zabbix)|Update Zabbix events with PagerDuty incident changes via WebHook (2-way ack).|2|2023-08-24|2023-05-16|
-|125|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
-|126|[theophile/gcode-postprocessing-scripts](https://github.com/theophile/gcode-postprocessing-scripts)|My personal gcode postprocessing scripts for PrusaSlicer/SuperSlicer|2|2023-09-26|2023-03-12|
-|127|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
-|128|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
-|129|[michal-josef-spacek/License-SPDX](https://github.com/michal-josef-spacek/License-SPDX)|Object for SPDX licenses handling.|2|2023-08-02|2023-01-26|
-|130|[nrdvana/perl-App-SlideServer](https://github.com/nrdvana/perl-App-SlideServer)|Serve HTML slides and synchronize clients via websocket|2|2023-07-21|2023-01-22|
+|122|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
+|123|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2023-11-15|2023-05-23|
+|124|[CPAN-Security/Net-NVD](https://github.com/CPAN-Security/Net-NVD)|Query CVE data from NIST's NVD (National Vulnerability Database)|2|2023-10-31|2023-05-19|
+|125|[sonic-com/pagerduty2zabbix](https://github.com/sonic-com/pagerduty2zabbix)|Update Zabbix events with PagerDuty incident changes via WebHook (2-way ack).|2|2023-08-24|2023-05-16|
+|126|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
+|127|[theophile/gcode-postprocessing-scripts](https://github.com/theophile/gcode-postprocessing-scripts)|My personal gcode postprocessing scripts for PrusaSlicer/SuperSlicer|2|2023-09-26|2023-03-12|
+|128|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
+|129|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
+|130|[michal-josef-spacek/License-SPDX](https://github.com/michal-josef-spacek/License-SPDX)|Object for SPDX licenses handling.|2|2023-08-02|2023-01-26|
+|131|[nrdvana/perl-App-SlideServer](https://github.com/nrdvana/perl-App-SlideServer)|Serve HTML slides and synchronize clients via websocket|2|2023-07-21|2023-01-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

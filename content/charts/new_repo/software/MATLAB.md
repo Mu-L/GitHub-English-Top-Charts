@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,28 +16,28 @@
 |9|[junhengl/Cart_Pole_Simulink](https://github.com/junhengl/Cart_Pole_Simulink)|Optimal Control Strategies on Cart-pole System in Simscape Multibody Simulation|38|2023-07-23|2023-06-26|
 |10|[pulseq/ISMRM-Virtual-Meeting--November-15-17-2023](https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023)|Vendor-Agnostic Pulse Sequence Programming with Pulseq: From Basics to Advanced Topics (A Three-Day ISMRM Virtual Meeting Series)|33|2023-12-21|2023-10-31|
 |11|[StuartJO/BrainSurfaceAnimation](https://github.com/StuartJO/BrainSurfaceAnimation)|-|33|2023-12-16|2023-03-31|
-|12|[hyesu-jang/RaPlace](https://github.com/hyesu-jang/RaPlace)|-|32|2023-10-04|2023-02-02|
-|13|[zhaolin820/stars-enabled-integrated-sensing-and-communications](https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications)|The code for the paper "STARS Enabled Integrated Sensing and Communications" in IEEE Transactions on Wireless Communications|31|2023-10-29|2023-02-21|
-|14|[qlt315/NOMA-MEC-IoVT](https://github.com/qlt315/NOMA-MEC-IoVT)|Simulation code of our paper ''Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing"|31|2023-09-01|2023-02-21|
+|12|[qlt315/NOMA-MEC-IoVT](https://github.com/qlt315/NOMA-MEC-IoVT)|Simulation code of our paper ''Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing"|32|2023-09-01|2023-02-21|
+|13|[hyesu-jang/RaPlace](https://github.com/hyesu-jang/RaPlace)|-|32|2023-10-04|2023-02-02|
+|14|[zhaolin820/stars-enabled-integrated-sensing-and-communications](https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications)|The code for the paper "STARS Enabled Integrated Sensing and Communications" in IEEE Transactions on Wireless Communications|31|2023-10-29|2023-02-21|
 |15|[EnVision-Research/NEST-rPPG](https://github.com/EnVision-Research/NEST-rPPG)|rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.|31|2023-12-14|2023-02-09|
 |16|[ggrecow/SQAT](https://github.com/ggrecow/SQAT)|SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis.|30|2024-01-05|2023-04-12|
 |17|[mahdeslami11/Mojtaba.laghaei](https://github.com/mahdeslami11/Mojtaba.laghaei)|The effect of magnetic nanoparticles used in MRI on liver enzymes|29|2023-07-14|2023-06-14|
 |18|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to the OpenAI Chat Completions API (which powers ChatGPT)|28|2024-01-05|2023-10-09|
 |19|[AIHub-1/AIHub-Brain](https://github.com/AIHub-1/AIHub-Brain)|AI Innovation Hub BCI Project|28|2023-12-12|2023-05-04|
 |20|[EDOLAB-platform/EDOLAB-MATLAB](https://github.com/EDOLAB-platform/EDOLAB-MATLAB)|-|27|2023-12-20|2023-07-27|
-|21|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|25|2023-12-20|2023-07-26|
-|22|[zhaolin820/near-field-integrated-sensing-and-communications](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)|The code for the paper "Near-Field Integrated Sensing and Communications" in IEEE Communications Letters|25|2023-11-09|2023-06-11|
-|23|[YongzhiWu/OTFS_radar](https://github.com/YongzhiWu/OTFS_radar)|OTFS radar sensing algorithm|25|2023-08-23|2023-03-06|
-|24|[ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry)|-|25|2023-08-29|2023-02-26|
-|25|[dawn0123/nonlinear_optimization_sample_with_matlab](https://github.com/dawn0123/nonlinear_optimization_sample_with_matlab)|-|24|2023-07-31|2023-07-31|
+|21|[dawn0123/nonlinear_optimization_sample_with_matlab](https://github.com/dawn0123/nonlinear_optimization_sample_with_matlab)|-|25|2023-07-31|2023-07-31|
+|22|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|25|2023-12-20|2023-07-26|
+|23|[zhaolin820/near-field-integrated-sensing-and-communications](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)|The code for the paper "Near-Field Integrated Sensing and Communications" in IEEE Communications Letters|25|2023-11-09|2023-06-11|
+|24|[YongzhiWu/OTFS_radar](https://github.com/YongzhiWu/OTFS_radar)|OTFS radar sensing algorithm|25|2023-08-23|2023-03-06|
+|25|[ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry)|-|25|2023-08-29|2023-02-26|
 |26|[WestlakeIntelligentRobotics/Human-swarm-interface](https://github.com/WestlakeIntelligentRobotics/Human-swarm-interface)|-|24|2023-09-12|2023-04-07|
-|27|[minjiechen/magnetchallenge](https://github.com/minjiechen/magnetchallenge)|MagNet Challenge|23|2024-01-02|2023-05-02|
-|28|[zhaolin820/STAR-RIS-for-terahertz-communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|The code for the paper "Simultaneously transmitting and reflecting surface (STARS) for terahertz communications" in IEEE Journal of Selected Topics in Signal Processing|22|2023-10-29|2023-06-11|
+|27|[zhaolin820/STAR-RIS-for-terahertz-communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|The code for the paper "Simultaneously transmitting and reflecting surface (STARS) for terahertz communications" in IEEE Journal of Selected Topics in Signal Processing|23|2023-10-29|2023-06-11|
+|28|[minjiechen/magnetchallenge](https://github.com/minjiechen/magnetchallenge)|MagNet Challenge|23|2024-01-02|2023-05-02|
 |29|[Alga53/DISMMSE-Turbo-Equalizer-for-OTFS](https://github.com/Alga53/DISMMSE-Turbo-Equalizer-for-OTFS)|This repo contains simulation code for DI-S-MMSE Turbo Equalizer and LMMSE Equalizer applied to OTFS Modulation.|22|2023-10-17|2023-05-29|
 |30|[IsraelCohenLab/MultichannelAcousticEchoCancellation](https://github.com/IsraelCohenLab/MultichannelAcousticEchoCancellation)|-|21|2023-09-05|2023-09-05|
-|31|[lixilinx/FilterbanksBestPractices](https://github.com/lixilinx/FilterbanksBestPractices)|Tips for best practices with filterbanks|20|2023-11-25|2023-11-04|
-|32|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|20|2023-09-17|2023-09-11|
-|33|[Linaom1214/ISTD-Benchmark](https://github.com/Linaom1214/ISTD-Benchmark)|Infrared Small Target Detection Benchmark Tool|20|2023-12-12|2023-06-08|
+|31|[Linaom1214/ISTD-Benchmark](https://github.com/Linaom1214/ISTD-Benchmark)|Infrared Small Target Detection Benchmark Tool|21|2023-12-12|2023-06-08|
+|32|[lixilinx/FilterbanksBestPractices](https://github.com/lixilinx/FilterbanksBestPractices)|Tips for best practices with filterbanks|20|2023-11-25|2023-11-04|
+|33|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|20|2023-09-17|2023-09-11|
 |34|[XinhaoTsl/Fc_Hybrid_Vehicle_Energy_Management_Strategy](https://github.com/XinhaoTsl/Fc_Hybrid_Vehicle_Energy_Management_Strategy)|Project achieved in MATLAB/Simulink 2022b, including optimal control algo, prediction algo, DQN training Env. etc.|19|2023-07-14|2023-05-06|
 |35|[TWCLabSJTU/TeraISAC](https://github.com/TWCLabSJTU/TeraISAC)|-|18|2023-09-28|2023-09-25|
 |36|[csiro-energy-systems/Synthetic-NEM-2000bus-Data](https://github.com/csiro-energy-systems/Synthetic-NEM-2000bus-Data)|This repository contains the Matpower files of a synthetic network model for National Electricity Market (NEM) of Australia.|18|2023-08-24|2023-06-06|
@@ -56,33 +56,33 @@
 |49|[SnocrashWang/RuneLab](https://github.com/SnocrashWang/RuneLab)|Test code for optimal solution in Rune problem|14|2023-11-21|2023-10-16|
 |50|[Jaguar101-jr/fortnite-hack](https://github.com/Jaguar101-jr/fortnite-hack)|-|14|2023-11-27|2023-09-30|
 |51|[WestlakeIntelligentRobotics/Shape-assembly-code](https://github.com/WestlakeIntelligentRobotics/Shape-assembly-code)|-|14|2023-09-12|2023-09-12|
-|52|[RsAI-lab/QUH-classification-dataset](https://github.com/RsAI-lab/QUH-classification-dataset)|Qingdao UAV-borne HSI (QUH) dataset for precise land cover classification.|14|2023-09-26|2023-05-28|
-|53|[ZimoLiao/rvmd](https://github.com/ZimoLiao/rvmd)|Reduced-order Variational Mode Decomposition (RVMD)|14|2023-12-31|2023-05-24|
-|54|[dianixn/ICC_2023](https://github.com/dianixn/ICC_2023)|Code for Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data|14|2023-08-07|2023-01-18|
-|55|[xiongGPR/GPRlab](https://github.com/xiongGPR/GPRlab)|GPRlab |13|2023-12-13|2023-06-03|
-|56|[ComputationalBiomechanicsLab/rmr-solver](https://github.com/ComputationalBiomechanicsLab/rmr-solver)|Repository storing MATLAB scripts to estimate activations of shoulder muscles using the Rapid Muscle Redundancy (RMR) solver.|13|2023-12-06|2023-05-10|
-|57|[Sheng-Cheng/DiffTuneOpenSource](https://github.com/Sheng-Cheng/DiffTuneOpenSource)|-|13|2023-07-20|2023-05-08|
-|58|[shaokai1209/MDSA](https://github.com/shaokai1209/MDSA)|[IEEE, TASLP, 2023] The code of the paper "Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition". |13|2023-11-02|2023-02-28|
-|59|[MarineRoboticsGroup/cora-matlab](https://github.com/MarineRoboticsGroup/cora-matlab)|Official implementation of "Certifiably Correct Range-Aided SLAM"|13|2023-12-22|2023-01-20|
-|60|[LonghaoQian/AnimationModels](https://github.com/LonghaoQian/AnimationModels)|Easy and ready to use animation models for Matlab and python|12|2023-12-25|2023-11-09|
-|61|[xuboyue1999/RGBT-Tracking](https://github.com/xuboyue1999/RGBT-Tracking)|This repository contains the necessary tools for RGBT tracking, including datasets（GTOT, RGBT234, LasHeR）, evaluation tools, visualization tools, and results of existing works.|12|2023-09-13|2023-06-28|
-|62|[simonavrillon/MUedit](https://github.com/simonavrillon/MUedit)|App to decompose electromyographic signals and manually edit the motor unit pulse trains|12|2023-12-06|2023-06-21|
-|63|[Ningreka/EV-Eye](https://github.com/Ningreka/EV-Eye)|-|12|2023-12-08|2023-05-25|
-|64|[Shepherd-Gregory/BKIO-Exploration](https://github.com/Shepherd-Gregory/BKIO-Exploration)|-|12|2023-11-15|2023-02-07|
-|65|[purnanandelango/trajopt-util](https://github.com/purnanandelango/trajopt-util)|Utilities for Numerical Trajectory Optimization|12|2023-12-22|2023-01-20|
-|66|[mikexcohen/EssentialsOfNeuroscienceWithMATLAB](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB)|-|11|2023-11-03|2023-08-30|
-|67|[Zongwei97/SCTNet](https://github.com/Zongwei97/SCTNet)|[ICCV 23] Official implementation of Alignment-free HDR Deghosting with Sematnics Consistent Transformer (Code & Dataset)|11|2023-12-01|2023-08-11|
-|68|[HauLiang/Acoustic-Beamforming-Advanced](https://github.com/HauLiang/Acoustic-Beamforming-Advanced)|Scan-frequency Version for Acoustic Imaging, including the following methods: DAS, MUSIC, DAMAS, DAMAS2, DAMAS-FISTA, CLEAN-PSF, CLEAN-SC, FFT-NNLS, and FFT-DFISTA...|11|2023-10-14|2023-07-24|
-|69|[Zhuolu-Hou/POS-GIFT](https://github.com/Zhuolu-Hou/POS-GIFT)|If you have any questions, you can contact me by email: hzlresearch@163.com.|11|2023-12-31|2023-04-10|
-|70|[ami-iit/paper_nava_2023_icra_fault-control-ironcub](https://github.com/ami-iit/paper_nava_2023_icra_fault-control-ironcub)|Repository associated with the paper "Failure Detection and Fault Tolerant Control of a Jet-Powered Flying Humanoid Robot", published in IEEE ICRA 2023.|11|2024-01-04|2023-02-24|
-|71|[antovis86/lmeEEG](https://github.com/antovis86/lmeEEG)|-|11|2023-11-09|2023-01-17|
-|72|[matlab-deep-learning/Inverse-Problems-using-Physics-Informed-Neural-Networks-PINNs](https://github.com/matlab-deep-learning/Inverse-Problems-using-Physics-Informed-Neural-Networks-PINNs)|-|10|2023-10-17|2023-10-17|
-|73|[bongseokkim/Battery_SOC_Estimation](https://github.com/bongseokkim/Battery_SOC_Estimation)|SOC (State of Charge) estimation for a battery using an ensemble approach with Coulomb counting and pre-trained LSTM prediction|10|2023-07-31|2023-07-31|
-|74|[acyiobs/sensing_aided_OTFS_channel_estimation_](https://github.com/acyiobs/sensing_aided_OTFS_channel_estimation_)|-|10|2023-07-31|2023-07-29|
-|75|[ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons](https://github.com/ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons)|This is the Repository for the work ""Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization""|10|2024-01-05|2023-07-13|
-|76|[biomicroscopy/DPR-Project](https://github.com/biomicroscopy/DPR-Project)|-|10|2023-11-16|2023-07-12|
-|77|[xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator)|Link-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|10|2023-11-02|2023-07-10|
-|78|[jsdaiustc/RV_ESPRIT](https://github.com/jsdaiustc/RV_ESPRIT)|MATLAB codes for "Frequency Estimation of Vibration Signals: An Subspace Approach for Bearing Fault Diagnosis"|10|2023-11-10|2023-06-18|
+|52|[xiongGPR/GPRlab](https://github.com/xiongGPR/GPRlab)|GPRlab |14|2023-12-13|2023-06-03|
+|53|[RsAI-lab/QUH-classification-dataset](https://github.com/RsAI-lab/QUH-classification-dataset)|Qingdao UAV-borne HSI (QUH) dataset for precise land cover classification.|14|2023-09-26|2023-05-28|
+|54|[ZimoLiao/rvmd](https://github.com/ZimoLiao/rvmd)|Reduced-order Variational Mode Decomposition (RVMD)|14|2023-12-31|2023-05-24|
+|55|[dianixn/ICC_2023](https://github.com/dianixn/ICC_2023)|Code for Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data|14|2023-08-07|2023-01-18|
+|56|[simonavrillon/MUedit](https://github.com/simonavrillon/MUedit)|App to decompose electromyographic signals and manually edit the motor unit pulse trains|13|2023-12-06|2023-06-21|
+|57|[ComputationalBiomechanicsLab/rmr-solver](https://github.com/ComputationalBiomechanicsLab/rmr-solver)|Repository storing MATLAB scripts to estimate activations of shoulder muscles using the Rapid Muscle Redundancy (RMR) solver.|13|2023-12-06|2023-05-10|
+|58|[Sheng-Cheng/DiffTuneOpenSource](https://github.com/Sheng-Cheng/DiffTuneOpenSource)|-|13|2023-07-20|2023-05-08|
+|59|[shaokai1209/MDSA](https://github.com/shaokai1209/MDSA)|[IEEE, TASLP, 2023] The code of the paper "Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition". |13|2023-11-02|2023-02-28|
+|60|[MarineRoboticsGroup/cora-matlab](https://github.com/MarineRoboticsGroup/cora-matlab)|Official implementation of "Certifiably Correct Range-Aided SLAM"|13|2023-12-22|2023-01-20|
+|61|[LonghaoQian/AnimationModels](https://github.com/LonghaoQian/AnimationModels)|Easy and ready to use animation models for Matlab and python|12|2023-12-25|2023-11-09|
+|62|[Zongwei97/SCTNet](https://github.com/Zongwei97/SCTNet)|[ICCV 23] Official implementation of Alignment-free HDR Deghosting with Sematnics Consistent Transformer (Code & Dataset)|12|2023-12-01|2023-08-11|
+|63|[xuboyue1999/RGBT-Tracking](https://github.com/xuboyue1999/RGBT-Tracking)|This repository contains the necessary tools for RGBT tracking, including datasets（GTOT, RGBT234, LasHeR）, evaluation tools, visualization tools, and results of existing works.|12|2023-09-13|2023-06-28|
+|64|[Ningreka/EV-Eye](https://github.com/Ningreka/EV-Eye)|-|12|2023-12-08|2023-05-25|
+|65|[Shepherd-Gregory/BKIO-Exploration](https://github.com/Shepherd-Gregory/BKIO-Exploration)|-|12|2023-11-15|2023-02-07|
+|66|[purnanandelango/trajopt-util](https://github.com/purnanandelango/trajopt-util)|Utilities for Numerical Trajectory Optimization|12|2023-12-22|2023-01-20|
+|67|[matlab-deep-learning/Inverse-Problems-using-Physics-Informed-Neural-Networks-PINNs](https://github.com/matlab-deep-learning/Inverse-Problems-using-Physics-Informed-Neural-Networks-PINNs)|-|11|2023-10-17|2023-10-17|
+|68|[mikexcohen/EssentialsOfNeuroscienceWithMATLAB](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB)|-|11|2023-11-03|2023-08-30|
+|69|[HauLiang/Acoustic-Beamforming-Advanced](https://github.com/HauLiang/Acoustic-Beamforming-Advanced)|Scan-frequency Version for Acoustic Imaging, including the following methods: DAS, MUSIC, DAMAS, DAMAS2, DAMAS-FISTA, CLEAN-PSF, CLEAN-SC, FFT-NNLS, and FFT-DFISTA...|11|2023-10-14|2023-07-24|
+|70|[jsdaiustc/RV_ESPRIT](https://github.com/jsdaiustc/RV_ESPRIT)|MATLAB codes for "Frequency Estimation of Vibration Signals: An Subspace Approach for Bearing Fault Diagnosis"|11|2023-11-10|2023-06-18|
+|71|[Zhuolu-Hou/POS-GIFT](https://github.com/Zhuolu-Hou/POS-GIFT)|If you have any questions, you can contact me by email: hzlresearch@163.com.|11|2023-12-31|2023-04-10|
+|72|[ami-iit/paper_nava_2023_icra_fault-control-ironcub](https://github.com/ami-iit/paper_nava_2023_icra_fault-control-ironcub)|Repository associated with the paper "Failure Detection and Fault Tolerant Control of a Jet-Powered Flying Humanoid Robot", published in IEEE ICRA 2023.|11|2024-01-04|2023-02-24|
+|73|[antovis86/lmeEEG](https://github.com/antovis86/lmeEEG)|-|11|2023-11-09|2023-01-17|
+|74|[bongseokkim/Battery_SOC_Estimation](https://github.com/bongseokkim/Battery_SOC_Estimation)|SOC (State of Charge) estimation for a battery using an ensemble approach with Coulomb counting and pre-trained LSTM prediction|10|2023-07-31|2023-07-31|
+|75|[acyiobs/sensing_aided_OTFS_channel_estimation_](https://github.com/acyiobs/sensing_aided_OTFS_channel_estimation_)|-|10|2023-07-31|2023-07-29|
+|76|[ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons](https://github.com/ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons)|This is the Repository for the work ""Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization""|10|2024-01-05|2023-07-13|
+|77|[biomicroscopy/DPR-Project](https://github.com/biomicroscopy/DPR-Project)|-|10|2023-11-16|2023-07-12|
+|78|[xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator)|Link-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|10|2023-11-02|2023-07-10|
 |79|[anterrrr/Basic_photogrammetry_tasks1](https://github.com/anterrrr/Basic_photogrammetry_tasks1)|photogrammetry, distortion correct, projective matrix estimation|10|2023-08-27|2023-06-03|
 |80|[ErwanLucas/inverseLLE](https://github.com/ErwanLucas/inverseLLE)|Genetic-algorithm-based optimisation of resonator dispersion for tailoring Kerr comb states of the Lugiato-Lefever Equation (LLE).|10|2023-08-29|2023-06-02|
 |81|[arctanbilibili/automated-driving-MPC](https://github.com/arctanbilibili/automated-driving-MPC)|-|10|2023-07-11|2023-05-22|
@@ -100,52 +100,52 @@
 |93|[mathworks/Expo-2023-Whats-New-for-Managing-Testing-and-Building-your-MATLAB-Code](https://github.com/mathworks/Expo-2023-Whats-New-for-Managing-Testing-and-Building-your-MATLAB-Code)|This repository hosts the MATLAB Expo 2023 "What's New for Managing, Testing, and Building your MATLAB Code" workshop.|9|2023-10-25|2023-05-09|
 |94|[xym2009/OS-SIFT](https://github.com/xym2009/OS-SIFT)|-|9|2023-10-27|2023-03-15|
 |95|[amitaybar/Interference-Rejection-using-Riemannian-Geometry-for-DoA-Estimation](https://github.com/amitaybar/Interference-Rejection-using-Riemannian-Geometry-for-DoA-Estimation)|This is the code for the paper "On Interference-Rejection using Riemannian Geometry for Direction of Arrival Estimation", A. Bar and R. Talmon|9|2023-10-23|2023-01-24|
-|96|[OSKOOO/Contact_Jacobian_Calculator](https://github.com/OSKOOO/Contact_Jacobian_Calculator)|Analytical Contact Jacobian for bipedal robots using URDF|8|2023-11-26|2023-11-22|
-|97|[MathWorks-Teaching-Resources/Applied-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)|A collection of teaching scripts showing applications of linear algebra to chemistry, computer science, mechanical engineering, and more.|8|2024-01-03|2023-10-09|
-|98|[tranlenam/EEMax-large-scale-cell-free-Massive-MIMO](https://github.com/tranlenam/EEMax-large-scale-cell-free-Massive-MIMO)|Simulation code for "Energy Efficiency Maximization in Large-Scale Cell-Free Massive MIMO: A Projected Gradient Approach," IEEE Trans. Wireless Commun., vol. 21, no. 8, pp. 6357-6371, Aug. 2022 by T.  ...|8|2023-10-02|2023-10-02|
-|99|[SimonTarboush/Compressive-Estimation-of-Near-Field-Channels-for-Ultra-Massive-Mimo-Wideband-THz-Systems](https://github.com/SimonTarboush/Compressive-Estimation-of-Near-Field-Channels-for-Ultra-Massive-Mimo-Wideband-THz-Systems)|These codes simulate the following paper: Simon Tarboush, Anum Ali, Tareq Y. Al-Naffouri,  "Compressive Estimation of Near Field Channels for Ultra Massive-MIMO Wideband THz Systems",  ICASSP 2023 - 2 ...|8|2023-09-01|2023-09-01|
-|100|[hoanghaiphongg/MATLAB](https://github.com/hoanghaiphongg/MATLAB)|-|8|2023-08-31|2023-08-15|
-|101|[dinithprimal/TrajectoryOptimization_UAV_SWIPT_NOMA](https://github.com/dinithprimal/TrajectoryOptimization_UAV_SWIPT_NOMA)|-|8|2023-08-23|2023-07-27|
-|102|[AmirAbbasSaberi/GPS-and-GNSS](https://github.com/AmirAbbasSaberi/GPS-and-GNSS)|-|8|2023-07-25|2023-07-25|
-|103|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|8|2024-01-05|2023-07-11|
-|104|[computational-psychiatry-course/cpc2023](https://github.com/computational-psychiatry-course/cpc2023)|materials for the cpc 2023|8|2023-09-18|2023-07-10|
-|105|[ucl-bug/petra-to-ct](https://github.com/ucl-bug/petra-to-ct)|MATLAB toolbox for converting PETRA and ZTE images to pseudo-CT images|8|2023-11-16|2023-06-16|
-|106|[anterrrr/Basic_photogrammetry_tasks2](https://github.com/anterrrr/Basic_photogrammetry_tasks2)|Photogrammetry, Fundamental Matrix F, Triangulation, Epipolar Geometry|8|2023-08-17|2023-06-05|
-|107|[ThomasKoenigBern/MS-Template-Explorer](https://github.com/ThomasKoenigBern/MS-Template-Explorer)|-|8|2023-12-05|2023-06-01|
-|108|[Brendaaaaaa/Exponential-Predefined-Time-Trajectory-Tracking-Control](https://github.com/Brendaaaaaa/Exponential-Predefined-Time-Trajectory-Tracking-Control)|-|8|2023-11-21|2023-04-22|
-|109|[tcooms/TopOpt-ThermoElastic](https://github.com/tcooms/TopOpt-ThermoElastic)|Thermoelastic topology optimization procedure considering steady-state heat conduction|8|2023-11-27|2023-04-12|
-|110|[xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform](https://github.com/xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform)|Synchrosqueezing Generalized Phase-shifting S-Transform|8|2023-12-09|2023-04-01|
-|111|[JianZhou1212/Tube-Robust-MPC-with-Uncertainty-Quantification](https://github.com/JianZhou1212/Tube-Robust-MPC-with-Uncertainty-Quantification)|This is the MATLAB code for tube robust MPC with uncertainty quantification|8|2023-12-07|2023-03-27|
-|112|[smilelabkaist/Hawkeye](https://github.com/smilelabkaist/Hawkeye)|MobiSys '23, Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter|8|2023-08-08|2023-03-06|
-|113|[shaokai1209/GSDA](https://github.com/shaokai1209/GSDA)|[ICASSP 2023, Oral] The code of the paper "A GENERALIZED SUBSPACE DISTRIBUTION ADAPTATION FRAMEWORK FOR CROSS-CORPUS SPEECH EMOTION RECOGNITION"|8|2023-07-18|2023-02-28|
-|114|[shaokai1209/CDSA](https://github.com/shaokai1209/CDSA)|[INTERSPEECH 2022] The code of the paper "Coupled Discriminant Subspace Alignment for Cross-corpus Speech Emotion Recognition" |8|2023-07-18|2023-02-28|
-|115|[rzy0901/testSpectrogram](https://github.com/rzy0901/testSpectrogram)|testSpectrogram is a repository containing raw code related to wireless channel simulation, human/hand pose extraction, gesture spectrogram generation, and real-time gesture recognition based on milli ...|8|2024-01-03|2023-02-20|
-|116|[jwf23/Equation-Based-Lattice-Structure-Dataset](https://github.com/jwf23/Equation-Based-Lattice-Structure-Dataset)|-|8|2023-10-23|2023-02-14|
-|117|[BillyMazotti/uav_trajectory_coverage](https://github.com/BillyMazotti/uav_trajectory_coverage)|Using OpenStreetMap (organized by MyGeoData) data to model building, customer, and vendor locations in San Francisco, New York City, and Los Angeles and determine the required number of randomly distr ...|8|2023-07-11|2023-02-12|
-|118|[zzycoder/Cooperative-Attack-Algorithm-for-UAVs](https://github.com/zzycoder/Cooperative-Attack-Algorithm-for-UAVs)|Cooperative Attack Algorithm for UAVs is focusing on the cooperative attack problem of UAV swarm system with flight time and attack angle constraints. It includes an efficient attack framework for rea ...|7|2023-12-07|2023-12-07|
-|119|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A Matlab toolbox designed for the SCHISM ocean model|7|2023-12-08|2023-11-26|
-|120|[santoshpanda1995/Image-Processing-using-Matlab](https://github.com/santoshpanda1995/Image-Processing-using-Matlab)|Basics of image processing techniques like image manipulation, image enhancement, image segmentation, and many more using Matlab code|7|2023-09-12|2023-09-01|
-|121|[nhanng9115/Multiuser-MIMO-Wideband-Joint-Communications-and-Sensing-System-with-Subcarrier-Allocation](https://github.com/nhanng9115/Multiuser-MIMO-Wideband-Joint-Communications-and-Sensing-System-with-Subcarrier-Allocation)|-|7|2023-08-31|2023-08-31|
-|122|[NagireddychandramouliReddy/OTFS](https://github.com/NagireddychandramouliReddy/OTFS)| Implemented a 2 X 2 MIMO OTFS system and analysed the performance metrics under channel fading conditions.|7|2023-12-05|2023-08-28|
-|123|[i12cu84/Numerical-Methods-for-PDE-Matlab](https://github.com/i12cu84/Numerical-Methods-for-PDE-Matlab)|PDE fun Finite difference method Finite element difference method Calculus of differences Two dimensional heat conduction equation ADI Wave equation Diffusion-convection equation|7|2023-08-18|2023-08-18|
-|124|[AkramHourani/NTNChannelSimulator](https://github.com/AkramHourani/NTNChannelSimulator)|Radio channel simulator for non terrestrial networks (Satellite / UAV) in urban environments|7|2023-08-23|2023-08-15|
-|125|[rakesh-mundlamuri/Sensing_aided_Channel_Estimation_in_Wideband_Millimeter-Wave_MIMO_Systems](https://github.com/rakesh-mundlamuri/Sensing_aided_Channel_Estimation_in_Wideband_Millimeter-Wave_MIMO_Systems)|This repository contains the code of the paper "Sensing aided Channel Estimation in Wideband Millimeter-Wave MIMO Systems" that is presented in the 2023 ICC workshop titled "WS-13: WORKSHOP ON SYNERGI ...|7|2023-08-11|2023-08-11|
-|126|[Battery-Intelligence-Lab/BatEst](https://github.com/Battery-Intelligence-Lab/BatEst)|Matlab code for battery simulations and parameter estimation.|7|2024-01-05|2023-07-25|
-|127|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|7|2023-08-15|2023-07-25|
-|128|[SheldonLoveCoding/KUKA_AdmittanceControl](https://github.com/SheldonLoveCoding/KUKA_AdmittanceControl)|Admittance Control Based on End Effector Position and Velocity and Experiments on KUKA|7|2023-07-22|2023-07-19|
-|129|[MarcoCarnaghi-fi/Stability-analysis-of-a-Networking-DC-microgrid-with-distributed-droop-control-and-CPLs](https://github.com/MarcoCarnaghi-fi/Stability-analysis-of-a-Networking-DC-microgrid-with-distributed-droop-control-and-CPLs)|-|7|2023-07-18|2023-07-18|
-|130|[Yuhang-Chen-TWC/DSE-SSE-demo](https://github.com/Yuhang-Chen-TWC/DSE-SSE-demo)|demo code for our TWC paper, Hybrid Spherical- and Planar-Wave Channel Modeling and Estimation for Terahertz Integrated UM-MIMO and IRS Systems|7|2023-07-11|2023-07-11|
-|131|[MrHaobolu/ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|4D ISAC Imaging Simulation Based on Millimeter Wave OFDM Signals with MUSIC Algorithm Written in Matlab|7|2023-10-11|2023-07-11|
-|132|[Feihuang-C/AWGM_grid_v3.0](https://github.com/Feihuang-C/AWGM_grid_v3.0)|This package aims to calculate the phase velocity and azimuth anisotropy of surface waves using the wave field spatial gradient (du/dx,du/dy) of seismic surface wave waves, and then to invert the thre ...|7|2023-09-29|2023-07-08|
-|133|[valentinomario/HMM-Stock-Market-Prediction](https://github.com/valentinomario/HMM-Stock-Market-Prediction)|MATLAB program to train and test a HMM model for stock market predictions|7|2023-10-12|2023-06-12|
-|134|[OpenResearchInstitute/dumbbell](https://github.com/OpenResearchInstitute/dumbbell)|A compact HF antenna design with high radiation resistance.|7|2023-09-06|2023-05-08|
-|135|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|7|2024-01-04|2023-05-08|
-|136|[AliiRezaei/SMCIdyn](https://github.com/AliiRezaei/SMCIdyn)|implement inverse dynamics problem for 3DOF robot manipulator and control using sliding mode control.|7|2023-10-11|2023-05-01|
-|137|[mathworks-robotics/intelligent-bin-picking-example-with-simulink](https://github.com/mathworks-robotics/intelligent-bin-picking-example-with-simulink)|Intelligent bin picking with Simulink® for Universal Robots UR5e Cobot|7|2023-09-18|2023-04-26|
-|138|[AppliedAcousticsChalmers/ambisonics-for-insta360-pro](https://github.com/AppliedAcousticsChalmers/ambisonics-for-insta360-pro)|Experimental 4th-order ambisonic microphone array for the Insta360 Pro camera|7|2023-10-04|2023-04-02|
-|139|[MathWorks-Teaching-Resources/Thermodynamics](https://github.com/MathWorks-Teaching-Resources/Thermodynamics)|This curriculum module contains interactive examples that teach fundamental concepts and basic terminology related to thermodynamics with an emphasis on Mechanical Engineering applications.|7|2023-10-18|2023-03-24|
-|140|[gnu-octave/pkg-control](https://github.com/gnu-octave/pkg-control)|Control package for GNU Octave including system analysis and  control synthesis|7|2024-01-06|2023-03-23|
-|141|[zhiguo-ding/near_far_field](https://github.com/zhiguo-ding/near_far_field)|-|7|2023-09-17|2023-03-21|
+|96|[zzycoder/Cooperative-Attack-Algorithm-for-UAVs](https://github.com/zzycoder/Cooperative-Attack-Algorithm-for-UAVs)|Cooperative Attack Algorithm for UAVs is focusing on the cooperative attack problem of UAV swarm system with flight time and attack angle constraints. It includes an efficient attack framework for rea ...|8|2023-12-07|2023-12-07|
+|97|[OSKOOO/Contact_Jacobian_Calculator](https://github.com/OSKOOO/Contact_Jacobian_Calculator)|Analytical Contact Jacobian for bipedal robots using URDF|8|2023-11-26|2023-11-22|
+|98|[MathWorks-Teaching-Resources/Applied-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)|A collection of teaching scripts showing applications of linear algebra to chemistry, computer science, mechanical engineering, and more.|8|2024-01-03|2023-10-09|
+|99|[tranlenam/EEMax-large-scale-cell-free-Massive-MIMO](https://github.com/tranlenam/EEMax-large-scale-cell-free-Massive-MIMO)|Simulation code for "Energy Efficiency Maximization in Large-Scale Cell-Free Massive MIMO: A Projected Gradient Approach," IEEE Trans. Wireless Commun., vol. 21, no. 8, pp. 6357-6371, Aug. 2022 by T.  ...|8|2023-10-02|2023-10-02|
+|100|[SimonTarboush/Compressive-Estimation-of-Near-Field-Channels-for-Ultra-Massive-Mimo-Wideband-THz-Systems](https://github.com/SimonTarboush/Compressive-Estimation-of-Near-Field-Channels-for-Ultra-Massive-Mimo-Wideband-THz-Systems)|These codes simulate the following paper: Simon Tarboush, Anum Ali, Tareq Y. Al-Naffouri,  "Compressive Estimation of Near Field Channels for Ultra Massive-MIMO Wideband THz Systems",  ICASSP 2023 - 2 ...|8|2023-09-01|2023-09-01|
+|101|[hoanghaiphongg/MATLAB](https://github.com/hoanghaiphongg/MATLAB)|-|8|2023-08-31|2023-08-15|
+|102|[dinithprimal/TrajectoryOptimization_UAV_SWIPT_NOMA](https://github.com/dinithprimal/TrajectoryOptimization_UAV_SWIPT_NOMA)|-|8|2023-08-23|2023-07-27|
+|103|[AmirAbbasSaberi/GPS-and-GNSS](https://github.com/AmirAbbasSaberi/GPS-and-GNSS)|-|8|2023-07-25|2023-07-25|
+|104|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|8|2024-01-06|2023-07-11|
+|105|[computational-psychiatry-course/cpc2023](https://github.com/computational-psychiatry-course/cpc2023)|materials for the cpc 2023|8|2023-09-18|2023-07-10|
+|106|[ucl-bug/petra-to-ct](https://github.com/ucl-bug/petra-to-ct)|MATLAB toolbox for converting PETRA and ZTE images to pseudo-CT images|8|2023-11-16|2023-06-16|
+|107|[anterrrr/Basic_photogrammetry_tasks2](https://github.com/anterrrr/Basic_photogrammetry_tasks2)|Photogrammetry, Fundamental Matrix F, Triangulation, Epipolar Geometry|8|2023-08-17|2023-06-05|
+|108|[ThomasKoenigBern/MS-Template-Explorer](https://github.com/ThomasKoenigBern/MS-Template-Explorer)|-|8|2023-12-05|2023-06-01|
+|109|[Brendaaaaaa/Exponential-Predefined-Time-Trajectory-Tracking-Control](https://github.com/Brendaaaaaa/Exponential-Predefined-Time-Trajectory-Tracking-Control)|-|8|2023-11-21|2023-04-22|
+|110|[tcooms/TopOpt-ThermoElastic](https://github.com/tcooms/TopOpt-ThermoElastic)|Thermoelastic topology optimization procedure considering steady-state heat conduction|8|2023-11-27|2023-04-12|
+|111|[xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform](https://github.com/xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform)|Synchrosqueezing Generalized Phase-shifting S-Transform|8|2023-12-09|2023-04-01|
+|112|[JianZhou1212/Tube-Robust-MPC-with-Uncertainty-Quantification](https://github.com/JianZhou1212/Tube-Robust-MPC-with-Uncertainty-Quantification)|This is the MATLAB code for tube robust MPC with uncertainty quantification|8|2023-12-07|2023-03-27|
+|113|[zhiguo-ding/near_far_field](https://github.com/zhiguo-ding/near_far_field)|-|8|2023-09-17|2023-03-21|
+|114|[smilelabkaist/Hawkeye](https://github.com/smilelabkaist/Hawkeye)|MobiSys '23, Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter|8|2023-08-08|2023-03-06|
+|115|[shaokai1209/GSDA](https://github.com/shaokai1209/GSDA)|[ICASSP 2023, Oral] The code of the paper "A GENERALIZED SUBSPACE DISTRIBUTION ADAPTATION FRAMEWORK FOR CROSS-CORPUS SPEECH EMOTION RECOGNITION"|8|2023-07-18|2023-02-28|
+|116|[shaokai1209/CDSA](https://github.com/shaokai1209/CDSA)|[INTERSPEECH 2022] The code of the paper "Coupled Discriminant Subspace Alignment for Cross-corpus Speech Emotion Recognition" |8|2023-07-18|2023-02-28|
+|117|[rzy0901/testSpectrogram](https://github.com/rzy0901/testSpectrogram)|testSpectrogram is a repository containing raw code related to wireless channel simulation, human/hand pose extraction, gesture spectrogram generation, and real-time gesture recognition based on milli ...|8|2024-01-03|2023-02-20|
+|118|[jwf23/Equation-Based-Lattice-Structure-Dataset](https://github.com/jwf23/Equation-Based-Lattice-Structure-Dataset)|-|8|2023-10-23|2023-02-14|
+|119|[BillyMazotti/uav_trajectory_coverage](https://github.com/BillyMazotti/uav_trajectory_coverage)|Using OpenStreetMap (organized by MyGeoData) data to model building, customer, and vendor locations in San Francisco, New York City, and Los Angeles and determine the required number of randomly distr ...|8|2023-07-11|2023-02-12|
+|120|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A Matlab toolbox designed for the SCHISM ocean model|7|2023-12-08|2023-11-26|
+|121|[santoshpanda1995/Image-Processing-using-Matlab](https://github.com/santoshpanda1995/Image-Processing-using-Matlab)|Basics of image processing techniques like image manipulation, image enhancement, image segmentation, and many more using Matlab code|7|2023-09-12|2023-09-01|
+|122|[nhanng9115/Multiuser-MIMO-Wideband-Joint-Communications-and-Sensing-System-with-Subcarrier-Allocation](https://github.com/nhanng9115/Multiuser-MIMO-Wideband-Joint-Communications-and-Sensing-System-with-Subcarrier-Allocation)|-|7|2023-08-31|2023-08-31|
+|123|[NagireddychandramouliReddy/OTFS](https://github.com/NagireddychandramouliReddy/OTFS)| Implemented a 2 X 2 MIMO OTFS system and analysed the performance metrics under channel fading conditions.|7|2023-12-05|2023-08-28|
+|124|[i12cu84/Numerical-Methods-for-PDE-Matlab](https://github.com/i12cu84/Numerical-Methods-for-PDE-Matlab)|PDE fun Finite difference method Finite element difference method Calculus of differences Two dimensional heat conduction equation ADI Wave equation Diffusion-convection equation|7|2023-08-18|2023-08-18|
+|125|[AkramHourani/NTNChannelSimulator](https://github.com/AkramHourani/NTNChannelSimulator)|Radio channel simulator for non terrestrial networks (Satellite / UAV) in urban environments|7|2023-08-23|2023-08-15|
+|126|[rakesh-mundlamuri/Sensing_aided_Channel_Estimation_in_Wideband_Millimeter-Wave_MIMO_Systems](https://github.com/rakesh-mundlamuri/Sensing_aided_Channel_Estimation_in_Wideband_Millimeter-Wave_MIMO_Systems)|This repository contains the code of the paper "Sensing aided Channel Estimation in Wideband Millimeter-Wave MIMO Systems" that is presented in the 2023 ICC workshop titled "WS-13: WORKSHOP ON SYNERGI ...|7|2023-08-11|2023-08-11|
+|127|[Battery-Intelligence-Lab/BatEst](https://github.com/Battery-Intelligence-Lab/BatEst)|Matlab code for battery simulations and parameter estimation.|7|2024-01-05|2023-07-25|
+|128|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|7|2023-08-15|2023-07-25|
+|129|[SheldonLoveCoding/KUKA_AdmittanceControl](https://github.com/SheldonLoveCoding/KUKA_AdmittanceControl)|Admittance Control Based on End Effector Position and Velocity and Experiments on KUKA|7|2023-07-22|2023-07-19|
+|130|[MarcoCarnaghi-fi/Stability-analysis-of-a-Networking-DC-microgrid-with-distributed-droop-control-and-CPLs](https://github.com/MarcoCarnaghi-fi/Stability-analysis-of-a-Networking-DC-microgrid-with-distributed-droop-control-and-CPLs)|-|7|2023-07-18|2023-07-18|
+|131|[Yuhang-Chen-TWC/DSE-SSE-demo](https://github.com/Yuhang-Chen-TWC/DSE-SSE-demo)|demo code for our TWC paper, Hybrid Spherical- and Planar-Wave Channel Modeling and Estimation for Terahertz Integrated UM-MIMO and IRS Systems|7|2023-07-11|2023-07-11|
+|132|[MrHaobolu/ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|4D ISAC Imaging Simulation Based on Millimeter Wave OFDM Signals with MUSIC Algorithm Written in Matlab|7|2023-10-11|2023-07-11|
+|133|[Feihuang-C/AWGM_grid_v3.0](https://github.com/Feihuang-C/AWGM_grid_v3.0)|This package aims to calculate the phase velocity and azimuth anisotropy of surface waves using the wave field spatial gradient (du/dx,du/dy) of seismic surface wave waves, and then to invert the thre ...|7|2023-09-29|2023-07-08|
+|134|[valentinomario/HMM-Stock-Market-Prediction](https://github.com/valentinomario/HMM-Stock-Market-Prediction)|MATLAB program to train and test a HMM model for stock market predictions|7|2023-10-12|2023-06-12|
+|135|[OpenResearchInstitute/dumbbell](https://github.com/OpenResearchInstitute/dumbbell)|A compact HF antenna design with high radiation resistance.|7|2023-09-06|2023-05-08|
+|136|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|7|2024-01-04|2023-05-08|
+|137|[AliiRezaei/SMCIdyn](https://github.com/AliiRezaei/SMCIdyn)|implement inverse dynamics problem for 3DOF robot manipulator and control using sliding mode control.|7|2023-10-11|2023-05-01|
+|138|[mathworks-robotics/intelligent-bin-picking-example-with-simulink](https://github.com/mathworks-robotics/intelligent-bin-picking-example-with-simulink)|Intelligent bin picking with Simulink® for Universal Robots UR5e Cobot|7|2023-09-18|2023-04-26|
+|139|[AppliedAcousticsChalmers/ambisonics-for-insta360-pro](https://github.com/AppliedAcousticsChalmers/ambisonics-for-insta360-pro)|Experimental 4th-order ambisonic microphone array for the Insta360 Pro camera|7|2023-10-04|2023-04-02|
+|140|[MathWorks-Teaching-Resources/Thermodynamics](https://github.com/MathWorks-Teaching-Resources/Thermodynamics)|This curriculum module contains interactive examples that teach fundamental concepts and basic terminology related to thermodynamics with an emphasis on Mechanical Engineering applications.|7|2023-10-18|2023-03-24|
+|141|[gnu-octave/pkg-control](https://github.com/gnu-octave/pkg-control)|Control package for GNU Octave including system analysis and  control synthesis|7|2024-01-07|2023-03-23|
 |142|[PrabhatIn/TOPress](https://github.com/PrabhatIn/TOPress)|TOPress: a MATLAB implementation for topology optimization of structures subjected to design‑dependent pressure loads|7|2023-08-16|2023-03-19|
 |143|[kryczkal/TalkTales](https://github.com/kryczkal/TalkTales)|Work in progress tool designed to assist deaf and hard-of-hearing individuals in their daily interactions|7|2023-11-01|2023-03-19|
 |144|[aygong/aoi-scheduling-pomdp](https://github.com/aygong/aoi-scheduling-pomdp)|Code for the paper "Age-of-Information-based Scheduling in Multiuser Uplinks with Stochastic Arrivals: A POMDP Approach"|7|2023-11-03|2023-03-08|
@@ -172,7 +172,7 @@
 |165|[wzx0hello0wzx/Event_trriggered_MPC_PLATOON](https://github.com/wzx0hello0wzx/Event_trriggered_MPC_PLATOON)|Reproduction of paper“Bandwidth-Aware Transmission Scheduling and Event-Triggered Distributed MPC for Vehicle Platoons”|6|2023-08-06|2023-08-06|
 |166|[JASONZ777/4D_radar_simulator_PointNet](https://github.com/JASONZ777/4D_radar_simulator_PointNet)|-|6|2023-11-20|2023-07-26|
 |167|[Brenda-MW/FarmToPlateAI](https://github.com/Brenda-MW/FarmToPlateAI)|In three hands-on exercises, you track the journey of mango fruit from a farm that uses robotic harvesters to the market while monitoring the ripeness of the mangoes using hyperspectral images and dee ...|6|2023-11-14|2023-07-20|
-|168|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|6|2024-01-06|2023-07-20|
+|168|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|6|2024-01-07|2023-07-20|
 |169|[HungVu307/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique](https://github.com/HungVu307/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique)|-|6|2023-09-03|2023-07-15|
 |170|[rao12138/COA-s-code](https://github.com/rao12138/COA-s-code)|COA-s-code|6|2023-07-27|2023-07-08|
 |171|[soc-ucsd/Decentralized-DeeP-LCC](https://github.com/soc-ucsd/Decentralized-DeeP-LCC)|-|6|2023-10-05|2023-06-28|
@@ -192,7 +192,7 @@
 |185|[droste89/SOStab](https://github.com/droste89/SOStab)|A sum-of-squares toolbox for stability analysis|6|2023-09-15|2023-01-20|
 |186|[rbga/Low_Density_Parity_Check_-LDPC-_Codes_-_MATLAB_Simulation](https://github.com/rbga/Low_Density_Parity_Check_-LDPC-_Codes_-_MATLAB_Simulation)|LDPC MATLAB simulation using BPSK + AWGN modulation decoded using Sum Product and Min Sum Algorithm|6|2023-07-26|2023-01-19|
 |187|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|5|2024-01-02|2023-12-29|
-|188|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|5|2024-01-06|2023-12-29|
+|188|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|5|2024-01-07|2023-12-29|
 |189|[KEVIN-XTREM-2023/SistemaPredicci-n](https://github.com/KEVIN-XTREM-2023/SistemaPredicci-n)|Sistema que nos permite saber qué tipo de préstamo se podrá solicitar por las personas en una entidad financiera.|5|2024-01-02|2023-12-28|
 |190|[Huang-Chuan/MAINSvsMAGEKF](https://github.com/Huang-Chuan/MAINSvsMAGEKF)|MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning|5|2023-12-06|2023-11-30|
 |191|[UTokyoTsuchiyaLAB/UNLSI](https://github.com/UTokyoTsuchiyaLAB/UNLSI)|-|5|2023-11-18|2023-11-09|

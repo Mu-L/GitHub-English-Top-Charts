@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Assembly
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55911|16|2023-12-29|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55919|16|2023-12-29|
 |2|[erkyrath/infocom-zcode-terps](https://github.com/erkyrath/infocom-zcode-terps)|Historical source code for Infocom's Z-machine interpreters|340|7|2023-11-23|
-|3|[hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)|📖 An approachable introduction to Assembly.|2934|5|2023-12-05|
-|4|[pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)|A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu ...|2253|4|2023-12-31|
+|3|[hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)|📖 An approachable introduction to Assembly.|2935|5|2023-12-05|
+|4|[pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)|A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu ...|2254|4|2023-12-31|
 |5|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|386|4|2023-11-26|
-|6|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|4399|3|2024-01-01|
-|7|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9652|3|2023-10-24|
-|8|[ebitengine/purego](https://github.com/ebitengine/purego)|-|1692|3|2024-01-03|
-|9|[corkami/pics](https://github.com/corkami/pics)|File formats explanations, logos redrawing...|10116|3|2024-01-06|
+|6|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|4402|3|2024-01-07|
+|7|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9653|3|2023-10-24|
+|8|[ebitengine/purego](https://github.com/ebitengine/purego)|-|1692|3|2024-01-07|
+|9|[corkami/pics](https://github.com/corkami/pics)|File formats explanations, logos redrawing...|10116|3|2024-01-07|
 |10|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|271|2|2023-11-02|
-|11|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3481|2|2024-01-06|
-|12|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10395|2|2024-01-05|
+|11|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3482|2|2024-01-06|
+|12|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10396|2|2024-01-05|
 |13|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|798|2|2023-09-29|
 |14|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|407|2|2023-12-04|
-|15|[anael-seghezzi/SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting)|Raycasting on SEGA Megadrive/Genesis using SGDK|5|2|2024-01-04|
-|16|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|3038|2|2023-12-09|
+|15|[anael-seghezzi/SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting)|Raycasting on SEGA Megadrive/Genesis using SGDK|6|2|2024-01-04|
+|16|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|3039|2|2023-12-09|
 |17|[SheerSt/pokewilds](https://github.com/SheerSt/pokewilds)|PokeWilds - A Gen 2 Game/Engine using libGDX|2402|2|2023-11-17|
 |18|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|1431|2|2023-11-03|
 |19|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2390|1|2024-01-04|
@@ -35,20 +35,20 @@
 |28|[memorysafety/rav1d](https://github.com/memorysafety/rav1d)|An AV1 decoder in Rust.|184|1|2024-01-05|
 |29|[klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)|Reed-Solomon Erasure Coding in Go|1755|1|2024-01-05|
 |30|[Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|An Operating System for Z80 computers, written in assembly|491|1|2023-12-26|
-|31|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|1991|1|2024-01-05|
+|31|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|1992|1|2024-01-05|
 |32|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|3448|1|2024-01-05|
 |33|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|115|1|2023-09-30|
 |34|[vermiceli/nes-contra-us](https://github.com/vermiceli/nes-contra-us)|An annotated disassembly with supplemental materials of the Contra (US) NES game.|146|1|2023-12-31|
-|35|[alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)|🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.|849|1|2024-01-05|
+|35|[alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)|🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.|850|1|2024-01-05|
 |36|[ncannasse/hlos](https://github.com/ncannasse/hlos)|A toy operating system for HashLink VM|12|1|2023-12-26|
-|37|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2135|1|2024-01-04|
+|37|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2134|1|2024-01-04|
 |38|[Parallellines0451/GTAIV.EFLC.FusionShaders](https://github.com/Parallellines0451/GTAIV.EFLC.FusionShaders)|Various shader fixes and improvements for GTA IV FusionFix.|123|1|2024-01-02|
 |39|[IanSeyler/wozmon_x86-64](https://github.com/IanSeyler/wozmon_x86-64)|A rewrite of Wozmon in x86-64 for the BareMetal kernel.|47|1|2023-11-29|
 |40|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|775|1|2023-10-29|
 |41|[openhwgroup/cva6](https://github.com/openhwgroup/cva6)|The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux|1923|1|2024-01-05|
 |42|[m-pasik/69-byte-hello-world](https://github.com/m-pasik/69-byte-hello-world)|Tiny Linux "Hello, World!" |9|1|2023-12-30|
 |43|[zeldaret/tp](https://github.com/zeldaret/tp)|Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)|694|1|2024-01-06|
-|44|[open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)|C library for prototyping and experimenting with quantum-resistant cryptography|1477|1|2024-01-05|
+|44|[open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)|C library for prototyping and experimenting with quantum-resistant cryptography|1478|1|2024-01-07|
 |45|[markmoxon/nes-elite-beebasm](https://github.com/markmoxon/nes-elite-beebasm)|Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)|343|1|2024-01-05|
 |46|[toddcblank/super-super-dodgeball](https://github.com/toddcblank/super-super-dodgeball)|SNES Port of the NES game Super Dodge Ball|11|1|2023-12-28|
 |47|[aladshaw3/cats](https://github.com/aladshaw3/cats)|Catalysis And Treatment Simulations (CATS) library for MOOSE|4|0|2023-12-02|
@@ -85,7 +85,7 @@
 |78|[cotarr/calc-pi-arm64-asm](https://github.com/cotarr/calc-pi-arm64-asm)|Program to calculate the value of π (pi) to 1 million digits on Raspberry Pi using ARM64 armv8-a assembly language. Requires 64 bit version of Raspberry Pi OS.|3|0|2023-07-14|
 |79|[Utodev/MALUVA](https://github.com/Utodev/MALUVA)|An addon (EXTERN) for DAAD text game engine with several functions. For ZX Spectrum, Amstrad CPC, Commodore 64, Amiga, Plus/4, MSX, PCW, and MSDOS.|20|0|2023-09-08|
 |80|[TogekissTube/TogekissOS](https://github.com/TogekissTube/TogekissOS)|A OS In ALPHA With simple things|3|0|2023-12-19|
-|81|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|61|0|2024-01-06|
+|81|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|61|0|2024-01-07|
 |82|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Decompilation of Pokemon HeartGold/SoulSilver|213|0|2024-01-05|
 |83|[zimnyaa/beepsyscall](https://github.com/zimnyaa/beepsyscall)|An adaptation of timwhitez's proxycall that uses kernelbase.dll!Beep.|10|0|2023-11-01|
 |84|[ETC-A/etca-asm](https://github.com/ETC-A/etca-asm)|-|5|0|2023-08-11|
@@ -145,13 +145,13 @@
 |138|[kantoemblem/_Cthonic-Curse-Build](https://github.com/kantoemblem/_Cthonic-Curse-Build)|Build File of Fire Emblem: The Chthonic Curse|3|0|2023-12-06|
 |139|[b1tsh1ft3r/retro.link](https://github.com/b1tsh1ft3r/retro.link)|An Ethernet cartridge adapter for retro video game consoles|15|0|2023-11-10|
 |140|[Lorenzooone/M3_Eng_1_3](https://github.com/Lorenzooone/M3_Eng_1_3)|Repository which contains the code for MOTHER 3's English fan translation's v1.3 update|4|0|2023-11-15|
-|141|[jefftranter/68000](https://github.com/jefftranter/68000)|Code related to the Motorola 68000 microprocessor.|89|0|2024-01-06|
+|141|[jefftranter/68000](https://github.com/jefftranter/68000)|Code related to the Motorola 68000 microprocessor.|89|0|2024-01-07|
 |142|[openvinotoolkit/mlas](https://github.com/openvinotoolkit/mlas)|-|3|0|2023-11-09|
 |143|[wormtql/megumin](https://github.com/wormtql/megumin)|An AArch64 superoptimizer and emulator|3|0|2023-12-08|
 |144|[ahmad-siavashi/Tic-Tac-Toe](https://github.com/ahmad-siavashi/Tic-Tac-Toe)|Tic Tac Toe Game in TASM (x86)|5|0|2023-09-21|
 |145|[RoccoLoxPrograms/CelticCE](https://github.com/RoccoLoxPrograms/CelticCE)|Celtic Hybrid BASIC library for the TI-84 Plus CE.|15|0|2023-12-26|
 |146|[mrfearless/CD](https://github.com/mrfearless/CD)|CD - Compress-Decompress Utility|3|0|2023-10-30|
-|147|[dciabrin/ngdevkit](https://github.com/dciabrin/ngdevkit)|Open source development for Neo-Geo|252|0|2024-01-06|
+|147|[dciabrin/ngdevkit](https://github.com/dciabrin/ngdevkit)|Open source development for Neo-Geo|252|0|2024-01-07|
 |148|[ImperialCollegeLondon/MicroprocessorsLab](https://github.com/ImperialCollegeLondon/MicroprocessorsLab)|Code repository for Physics 3rd year Microprocessors Lab|5|0|2023-12-15|
 |149|[sttng/gb-stuff](https://github.com/sttng/gb-stuff)|Random GB dev stuff|8|0|2024-01-06|
 |150|[imihajlow/ccpu](https://github.com/imihajlow/ccpu)|A 8-bit computer made of 74xx series logic gates and memory ICs.|59|0|2023-12-28|

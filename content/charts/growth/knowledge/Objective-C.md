@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13968|4|2023-10-31|
-|2|[maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|A collection of animated loading indicators for React Native|2325|1|2023-11-18|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13969|4|2023-10-31|
+|2|[maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|A collection of animated loading indicators for React Native|2326|1|2023-11-18|
 |3|[mrackwitz/MRProgress](https://github.com/mrackwitz/MRProgress)|Collection of iOS drop-in components to visualize progress|2552|1|2023-10-15|
 |4|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|324|1|2023-10-13|
 |5|[mediamonks/MMMTweaks](https://github.com/mediamonks/MMMTweaks)|Swift support for Facebook's Tweaks library|3|0|2023-09-18|
@@ -29,13 +29,13 @@
 |22|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning swift programming language.|4|0|2023-11-02|
 |23|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2023-11-20|
 |24|[dioq/objective_c](https://github.com/dioq/objective_c)|Objective-C 语言学习|2|0|2023-09-13|
-|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1640|0|2024-01-04|
+|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1641|0|2024-01-04|
 |26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|231|0|2024-01-01|
 |27|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1780|0|2023-09-18|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2023-11-13|
 |29|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-01-04|
 |30|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|0|2023-12-29|
-|31|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|119|0|2023-12-19|
+|31|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|120|0|2023-12-19|
 |32|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|13|0|2023-07-20|
 |33|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|463|0|2023-08-25|
 |34|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|0|2023-10-30|
