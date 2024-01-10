@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,9 +11,9 @@
 |4|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|11|2023-11-14|2023-02-16|
 |5|[ami-iit/ironcub-mk1-software](https://github.com/ami-iit/ironcub-mk1-software)|In this repository we share software for dynamics simulations of the jet-powered humanoid iRonCub-Mk1.|11|2024-01-04|2023-02-06|
 |6|[Aketirani/ANC](https://github.com/Aketirani/ANC)|Active Noise Cancelling Using Filtered Adaptive Algorithms|10|2023-11-13|2023-02-12|
-|7|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
-|8|[isabella-gomes/Globecom2023](https://github.com/isabella-gomes/Globecom2023)|This is a collection of MATLAB scripts to generate numerical results for the paper "Multi-Static ISAC in Cell-Free Massive MIMO: Precoder Design and Privacy Assessment"|8|2023-07-29|2023-07-29|
-|9|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/UPPE|8|2024-01-03|2023-06-28|
+|7|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/UPPE|9|2024-01-03|2023-06-28|
+|8|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
+|9|[isabella-gomes/Globecom2023](https://github.com/isabella-gomes/Globecom2023)|This is a collection of MATLAB scripts to generate numerical results for the paper "Multi-Static ISAC in Cell-Free Massive MIMO: Precoder Design and Privacy Assessment"|8|2023-07-29|2023-07-29|
 |10|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|2023-02-14|
 |11|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|7|2023-12-15|2023-10-05|
 |12|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
@@ -55,7 +55,7 @@
 |48|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
 |49|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
 |50|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-12-06|2023-06-08|
-|51|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2023-12-01|2023-06-07|
+|51|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
 |52|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
 |53|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
 |54|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|

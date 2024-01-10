@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1667|2023-11-20|
-|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|222|2023-12-29|
+|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|222|2024-01-09|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|159|2023-12-04|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|134|2023-12-14|
 |5|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|97|2024-01-03|
 |6|[Steema/Steema-BI-Samples](https://github.com/Steema/Steema-BI-Samples)|Datamining, Visualization, Machine-Learning, Big data|84|2023-08-05|
 |7|[geoffsmith82/GmailAuthSMTP](https://github.com/geoffsmith82/GmailAuthSMTP)|This project is a very basic demo showing how to authenticate with OAUTH2 and send an email message for gmail, microsoft/office365 as well as hotmail.com/outlook.com/live.com email addresses. |78|2023-08-31|
-|8|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|2024-01-07|
+|8|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|55|2024-01-09|
 |9|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|55|2024-01-06|
 |10|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|39|2023-10-24|
 |11|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|34|2023-10-23|
@@ -49,8 +49,9 @@
 |42|[normaluser/shooter-2D](https://github.com/normaluser/shooter-2D)|2D shooter - Pascal tutorial using SDL2|3|2023-08-30|
 |43|[Hs32-Idir/x86-Exe-Crypter](https://github.com/Hs32-Idir/x86-Exe-Crypter)|Delphi open source show you how to code an Executable 32bit crypter with a simple Xor encryption.|2|2023-09-20|
 |44|[wp-xyz/gas_storage](https://github.com/wp-xyz/gas_storage)|Plots a time-series of the gas storage levels in European countries|2|2023-07-30|
-|45|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|2023-09-20|
-|46|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2023-09-21|
+|45|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|2024-01-02|
+|46|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|2023-09-20|
+|47|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2023-09-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
