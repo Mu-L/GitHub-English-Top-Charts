@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Updated: 2024-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|800|2023-09-29|2023-02-14|
-|2|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|408|2023-12-04|2023-06-23|
+|1|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|802|2023-09-29|2023-02-14|
+|2|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|410|2023-12-04|2023-06-23|
 |3|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|389|2023-11-26|2023-09-20|
-|4|[markmoxon/nes-elite-beebasm](https://github.com/markmoxon/nes-elite-beebasm)|Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)|343|2024-01-05|2023-04-24|
+|4|[markmoxon/nes-elite-beebasm](https://github.com/markmoxon/nes-elite-beebasm)|Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)|343|2024-01-12|2023-04-24|
 |5|[erkyrath/infocom-zcode-terps](https://github.com/erkyrath/infocom-zcode-terps)|Historical source code for Infocom's Z-machine interpreters|340|2023-11-23|2023-11-17|
-|6|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|278|2024-01-11|2023-07-25|
+|6|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|296|2024-01-12|2023-07-25|
 |7|[NesHacker/PlatformerMovement](https://github.com/NesHacker/PlatformerMovement)|SMB3 Inspired Controls & Movement Demo|198|2023-11-25|2023-03-19|
-|8|[memorysafety/rav1d](https://github.com/memorysafety/rav1d)|An AV1 decoder in Rust.|185|2024-01-11|2023-02-17|
+|8|[memorysafety/rav1d](https://github.com/memorysafety/rav1d)|An AV1 decoder in Rust.|185|2024-01-12|2023-02-17|
 |9|[vermiceli/nes-contra-us](https://github.com/vermiceli/nes-contra-us)|An annotated disassembly with supplemental materials of the Contra (US) NES game.|148|2024-01-11|2023-04-26|
 |10|[PeterRK/PageBloomFilter](https://github.com/PeterRK/PageBloomFilter)|May be fastest bloom filter in C++/Go/Java/C#/Python/Rust|134|2023-11-26|2023-04-08|
-|11|[Parallellines0451/GTAIV.EFLC.FusionShaders](https://github.com/Parallellines0451/GTAIV.EFLC.FusionShaders)|Various shader fixes and improvements for GTA IV FusionFix.|124|2024-01-11|2023-06-19|
+|11|[Parallellines0451/GTAIV.EFLC.FusionShaders](https://github.com/Parallellines0451/GTAIV.EFLC.FusionShaders)|Various shader fixes and improvements for GTA IV FusionFix.|123|2024-01-11|2023-06-19|
 |12|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|115|2023-09-30|2023-09-30|
 |13|[notblisy/RUBYSAPPHIREDLC](https://github.com/notblisy/RUBYSAPPHIREDLC)|Custom E-Card Events based on Eon Ticket Dissasembly|99|2024-01-04|2023-04-27|
 |14|[DosX-dev/HelloWorld](https://github.com/DosX-dev/HelloWorld)|"Hello World" in different programming languages|85|2023-12-26|2023-02-12|
@@ -39,7 +39,7 @@
 |32|[zephyrside/famidash](https://github.com/zephyrside/famidash)|GEOMETRY DASH. *music intensifies*|28|2024-01-10|2023-09-29|
 |33|[atoone/MicroBeast](https://github.com/atoone/MicroBeast)|An 8-bit Z80 computer kit in a box|28|2024-01-07|2023-03-02|
 |34|[pret/pmd-sky](https://github.com/pret/pmd-sky)|Decompilation of Pokémon Mystery Dungeon: Explorers of Sky|27|2024-01-06|2023-08-16|
-|35|[ic3qu33n/michelangelo-reanimator](https://github.com/ic3qu33n/michelangelo-reanimator)|Michelangelo REanimator bootkit and REcon 2023 talk slides/materials|27|2023-08-26|2023-06-20|
+|35|[ic3qu33n/michelangelo-reanimator](https://github.com/ic3qu33n/michelangelo-reanimator)|Michelangelo REanimator bootkit and REcon 2023 talk slides/materials|26|2023-08-26|2023-06-20|
 |36|[albs-br/msx-windows](https://github.com/albs-br/msx-windows)|OS with graphic interface for MSX 1|26|2023-08-05|2023-05-08|
 |37|[nihirash/Agon-rokky](https://github.com/nihirash/Agon-rokky)|Dungeons and Diamonds game for Agon Light|25|2023-11-04|2023-05-03|
 |38|[jtriley-eth/vy-deepdive](https://github.com/jtriley-eth/vy-deepdive)|Vyper Deep Dive Notes and Scripts|24|2023-08-04|2023-08-03|
@@ -50,14 +50,14 @@
 |43|[callofduty4x/CoD4x_Client_new](https://github.com/callofduty4x/CoD4x_Client_new)|-|21|2023-09-21|2023-05-03|
 |44|[boogdann/BleenCraft-Online](https://github.com/boogdann/BleenCraft-Online)|BleenCraft Online — мультиплеерная игра на ассемблере, где игроки взаимодействуют в блоковом мире, строят и исследуют вместе|20|2023-12-22|2023-07-01|
 |45|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|19|2023-12-17|2023-10-06|
-|46|[VetriTheRetri/ssb-decomp-re](https://github.com/VetriTheRetri/ssb-decomp-re)|A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64.|19|2024-01-08|2023-08-04|
-|47|[mitxela/scaffold](https://github.com/mitxela/scaffold)|-|18|2023-12-22|2023-12-21|
-|48|[misterblack1/appleII_deadtest](https://github.com/misterblack1/appleII_deadtest)|ROM based March-U RAM test for the Apple II|18|2023-10-28|2023-08-27|
-|49|[YohannDR/mf](https://github.com/YohannDR/mf)|Metroid Fusion Decompilation|18|2024-01-07|2023-08-09|
-|50|[AuxXxilium/synology-dsm-open-vm-tools](https://github.com/AuxXxilium/synology-dsm-open-vm-tools)|Open VM Tools for DSM 7.x|18|2023-12-17|2023-06-13|
-|51|[jdfr228/PS1-Disc-Based-Game-ID](https://github.com/jdfr228/PS1-Disc-Based-Game-ID)|BIOS patches to allow disc games to report GameID data to a MemCard Pro|18|2023-08-12|2023-03-01|
-|52|[gyrovorbis/tiny3dengine](https://github.com/gyrovorbis/tiny3dengine)|Tiny 3D Engine for the Sega Dreamcast's Visual Memory Unit by Rockin'-B, written in pure LC86k assembly.|18|2023-08-20|2023-02-28|
-|53|[tergav17/IshkurCPM](https://github.com/tergav17/IshkurCPM)|An open source, modular CP/M distribution for the NABU computer |18|2023-09-11|2023-02-21|
+|46|[VetriTheRetri/ssb-decomp-re](https://github.com/VetriTheRetri/ssb-decomp-re)|A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64.|19|2024-01-12|2023-08-04|
+|47|[AuxXxilium/synology-dsm-open-vm-tools](https://github.com/AuxXxilium/synology-dsm-open-vm-tools)|Open VM Tools for DSM 7.x|19|2023-12-17|2023-06-13|
+|48|[tergav17/IshkurCPM](https://github.com/tergav17/IshkurCPM)|An open source, modular CP/M distribution for the NABU computer |19|2023-09-11|2023-02-21|
+|49|[mitxela/scaffold](https://github.com/mitxela/scaffold)|-|18|2023-12-22|2023-12-21|
+|50|[misterblack1/appleII_deadtest](https://github.com/misterblack1/appleII_deadtest)|ROM based March-U RAM test for the Apple II|18|2023-10-28|2023-08-27|
+|51|[YohannDR/mf](https://github.com/YohannDR/mf)|Metroid Fusion Decompilation|18|2024-01-12|2023-08-09|
+|52|[jdfr228/PS1-Disc-Based-Game-ID](https://github.com/jdfr228/PS1-Disc-Based-Game-ID)|BIOS patches to allow disc games to report GameID data to a MemCard Pro|18|2023-08-12|2023-03-01|
+|53|[gyrovorbis/tiny3dengine](https://github.com/gyrovorbis/tiny3dengine)|Tiny 3D Engine for the Sega Dreamcast's Visual Memory Unit by Rockin'-B, written in pure LC86k assembly.|18|2023-08-20|2023-02-28|
 |54|[Smoothstep/apple-gen](https://github.com/Smoothstep/apple-gen)|Generate machine specific security keys for apple endpoints and services|17|2023-10-07|2023-10-07|
 |55|[inaridiy/learn-crypto](https://github.com/inaridiy/learn-crypto)|-|17|2023-08-18|2023-04-17|
 |56|[ajxs/yamaha_dx97](https://github.com/ajxs/yamaha_dx97)|Alternative firmware ROM for the Yamaha DX9 that restores the functionality of the DX7|17|2023-11-19|2023-02-19|
@@ -69,14 +69,14 @@
 |62|[algosup/2023-2024-project-2-x86-retrogaming-team-3](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-3)|A 16bit, x86 Pac-Man look-alike, made with ❤️ by Team 3 😎|15|2023-12-21|2023-10-31|
 |63|[KevEdwards/EDASv1.8](https://github.com/KevEdwards/EDASv1.8)|Mike Webb's 6502 Editor/ Assembler for the C128. Used for NES, C64/128 game development.|15|2023-09-28|2023-09-28|
 |64|[therealdreg/Win.Cerdalux](https://github.com/therealdreg/Win.Cerdalux)|WinXPSP2.Cermalus on stereoids, supporting all 32 bits Windows version. Windows Kernel Virus stuff for noobs|15|2023-08-11|2023-07-15|
-|65|[bxparks/rpn83p](https://github.com/bxparks/rpn83p)|RPN calculator app for TI-83 Plus and TI-84 Plus inspired by HP-42S|15|2024-01-11|2023-07-14|
+|65|[bxparks/rpn83p](https://github.com/bxparks/rpn83p)|RPN calculator app for TI-83 Plus and TI-84 Plus inspired by HP-42S|15|2024-01-12|2023-07-14|
 |66|[b1tsh1ft3r/retro.link](https://github.com/b1tsh1ft3r/retro.link)|An Ethernet cartridge adapter for retro video game consoles|15|2023-11-10|2023-02-01|
 |67|[WHumphreys/Manic-Miner-Source-Code](https://github.com/WHumphreys/Manic-Miner-Source-Code)|Manic Miner source code for the ZX Spectrum.|14|2023-10-26|2023-10-26|
 |68|[clockworkpi/GameShell](https://github.com/clockworkpi/GameShell)|This code repository offers  latest os images,kernel patches, keypad source code, hardware schematics, assembly instructions, and essential technical documents.|14|2023-10-30|2023-08-18|
 |69|[gusmanb/ZXBasicStudio](https://github.com/gusmanb/ZXBasicStudio)|-|14|2024-01-11|2023-04-23|
 |70|[ClusterM/duplifds](https://github.com/ClusterM/duplifds)|Open source Famicom Disk System copier|13|2023-11-08|2023-09-21|
 |71|[mark-percival/DiskMaker8](https://github.com/mark-percival/DiskMaker8)|Mark Percival's legendary DiskMaker 8 program for Apple II computers|13|2023-09-17|2023-08-21|
-|72|[MarkJelic/TEC-1G](https://github.com/MarkJelic/TEC-1G)|The new incarnation of the 40 year old Z80 trainer computer - Now with Fulisik LEDs!|13|2024-01-11|2023-08-18|
+|72|[MarkJelic/TEC-1G](https://github.com/MarkJelic/TEC-1G)|The new incarnation of the 40 year old Z80 trainer computer - Now with Fulisik LEDs!|13|2024-01-12|2023-08-18|
 |73|[dramforever/fiveth](https://github.com/dramforever/fiveth)|A stack-based language implemented in RISC-V assembly|13|2024-01-06|2023-08-12|
 |74|[breakintoprogram/agon-bbc-basic-adl](https://github.com/breakintoprogram/agon-bbc-basic-adl)|Official AGON QUARK Firmware: BASIC Interpreter (ADL version)|13|2023-12-08|2023-06-21|
 |75|[DOL-Translations/kururin-squash](https://github.com/DOL-Translations/kururin-squash)|Kururin Squash!|13|2023-12-01|2023-06-05|
@@ -92,8 +92,8 @@
 |85|[LifeWithDavid/RaspberryPiPico-BareMetalAdventures](https://github.com/LifeWithDavid/RaspberryPiPico-BareMetalAdventures)|Files for the Raspberry PI Pico Bare Metal Adventures series|12|2024-01-11|2023-03-30|
 |86|[millicast/millicast-unity-sdk](https://github.com/millicast/millicast-unity-sdk)|A Unity realtime streaming package for publishing and viewing scenes within Unity games.|12|2023-10-04|2023-02-19|
 |87|[pikaping/UOC-Ingenieria-Informatica](https://github.com/pikaping/UOC-Ingenieria-Informatica)|Repositorio con soluciones publicadas en las asignaturas del grado Ingeniería Informática. |12|2023-10-07|2023-02-14|
-|88|[toddcblank/super-super-dodgeball](https://github.com/toddcblank/super-super-dodgeball)|SNES Port of the NES game Super Dodge Ball|11|2023-12-28|2023-12-25|
-|89|[mintsuki/cregfix](https://github.com/mintsuki/cregfix)|Fix for a CSM BIOS bug affecting old OSes|11|2023-12-05|2023-11-25|
+|88|[hra1129/for_MSX0](https://github.com/hra1129/for_MSX0)|A place to publish experimental codes, auxiliary tools, etc. created for MSX0.|12|2024-01-09|2023-01-22|
+|89|[toddcblank/super-super-dodgeball](https://github.com/toddcblank/super-super-dodgeball)|SNES Port of the NES game Super Dodge Ball|11|2023-12-28|2023-12-25|
 |90|[misternebula/DELTARUNITY](https://github.com/misternebula/DELTARUNITY)|DELTARUNITY is an implementation of GameMaker script execution and graphical rendering inside Unity.|11|2024-01-07|2023-10-23|
 |91|[newridho/Halo-Dunia23](https://github.com/newridho/Halo-Dunia23)|Hello World in multiple programming languages   Hacktoberfest 2023 repository|11|2023-11-01|2023-09-29|
 |92|[popovicu/risc-v-bare-metal-fake-bios](https://github.com/popovicu/risc-v-bare-metal-fake-bios)|Code for the "fake BIOS" RISC-V example|11|2023-10-11|2023-09-09|
@@ -102,33 +102,33 @@
 |95|[1888games/2048_Apollo](https://github.com/1888games/2048_Apollo)|Port of the mobile game for the Apollo Guidance Computer|11|2023-07-25|2023-07-22|
 |96|[Centaurus99/fpga-router](https://github.com/Centaurus99/fpga-router)|A four-1gbe-port IPv6 router with RIPng support|11|2023-10-20|2023-06-13|
 |97|[4lpha0ne/TinyLZW](https://github.com/4lpha0ne/TinyLZW)|Tiny LZW implementations in assembly|11|2023-10-27|2023-06-10|
-|98|[paulscottrobson/neo6502](https://github.com/paulscottrobson/neo6502)|Neo6502 system software|11|2023-08-03|2023-05-25|
-|99|[jellees/mlss](https://github.com/jellees/mlss)|Decompilation of Mario & Luigi Superstar Saga|11|2024-01-09|2023-03-18|
-|100|[ovechkin-dm/go-dyno](https://github.com/ovechkin-dm/go-dyno)|-|11|2023-11-14|2023-02-17|
-|101|[a2stuff/intbasic](https://github.com/a2stuff/intbasic)|INTBASIC.SYSTEM for running Integer BASIC programs under ProDOS|11|2023-07-17|2023-02-04|
-|102|[thetuh/anticheat-poc](https://github.com/thetuh/anticheat-poc)|A proof of concept user mode anti-cheat for x86 applications|11|2023-10-18|2023-01-31|
-|103|[hra1129/for_MSX0](https://github.com/hra1129/for_MSX0)|A place to publish experimental codes, auxiliary tools, etc. created for MSX0.|11|2024-01-09|2023-01-22|
-|104|[eavpsp/cbr_decomp](https://github.com/eavpsp/cbr_decomp)|Chibi-Robo: PIA Decompilation|11|2023-12-26|2023-01-12|
+|98|[xmdi/SCHIZONE](https://github.com/xmdi/SCHIZONE)|some x86-64 assembly for you|11|2024-01-12|2023-06-01|
+|99|[paulscottrobson/neo6502](https://github.com/paulscottrobson/neo6502)|Neo6502 system software|11|2023-08-03|2023-05-25|
+|100|[jellees/mlss](https://github.com/jellees/mlss)|Decompilation of Mario & Luigi Superstar Saga|11|2024-01-09|2023-03-18|
+|101|[ovechkin-dm/go-dyno](https://github.com/ovechkin-dm/go-dyno)|-|11|2023-11-14|2023-02-17|
+|102|[a2stuff/intbasic](https://github.com/a2stuff/intbasic)|INTBASIC.SYSTEM for running Integer BASIC programs under ProDOS|11|2023-07-17|2023-02-04|
+|103|[thetuh/anticheat-poc](https://github.com/thetuh/anticheat-poc)|A proof of concept user mode anti-cheat for x86 applications|11|2023-10-18|2023-01-31|
+|104|[mintsuki/cregfix](https://github.com/mintsuki/cregfix)|Fix for a CSM BIOS bug affecting old OSes|10|2023-12-05|2023-11-25|
 |105|[djh0ffman/TinyTro](https://github.com/djh0ffman/TinyTro)|The Twitch Elite Tiny Cracktro|10|2024-01-10|2023-11-12|
 |106|[zimnyaa/beepsyscall](https://github.com/zimnyaa/beepsyscall)|An adaptation of timwhitez's proxycall that uses kernelbase.dll!Beep.|10|2023-11-01|2023-11-01|
 |107|[algosup/2023-2024-project-2-x86-retrogaming-team-4](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)|Second project of 2023-2024 year which aims recreating a faithful Pac-Man clone in assembly x86 using DOSBox 🕹️|10|2023-12-22|2023-10-31|
 |108|[v420v/ibu](https://github.com/v420v/ibu)|A simple, compiled language inspierd by HolyC|10|2023-12-05|2023-07-10|
-|109|[JamesIsWack/cellos-lv2](https://github.com/JamesIsWack/cellos-lv2)|Reverse engineering project for the Playstation 3's LV2 kernel.|10|2023-09-18|2023-07-06|
+|109|[kernaltrap8/cellos-lv2](https://github.com/kernaltrap8/cellos-lv2)|Reverse engineering project for the Playstation 3's LV2 kernel.|10|2023-09-18|2023-07-06|
 |110|[dawidolko/Scripting-Language](https://github.com/dawidolko/Scripting-Language)|Tasks studies - laboratory|10|2023-11-08|2023-06-26|
-|111|[xmdi/SCHIZONE](https://github.com/xmdi/SCHIZONE)|some x86-64 assembly for you|10|2024-01-11|2023-06-01|
-|112|[WelsTheory/Curso_C_Embebido](https://github.com/WelsTheory/Curso_C_Embebido)|-|10|2023-10-08|2023-05-22|
-|113|[VetriTheRetri/ssb-decomp](https://github.com/VetriTheRetri/ssb-decomp)|-|10|2023-08-04|2023-02-09|
-|114|[m-pasik/69-byte-hello-world](https://github.com/m-pasik/69-byte-hello-world)|Tiny Linux "Hello, World!" |9|2023-12-30|2023-12-23|
-|115|[GiaHuyJQK1706/Computer_Architecture_Lab-MIPS](https://github.com/GiaHuyJQK1706/Computer_Architecture_Lab-MIPS)|-|9|2024-01-03|2023-12-12|
-|116|[polybiusproxy/parappa2](https://github.com/polybiusproxy/parappa2)|PaRappa the Rapper 2 (2001, PS2) decompilation|9|2023-12-07|2023-11-14|
-|117|[lethal-guitar/Duke1Decomp](https://github.com/lethal-guitar/Duke1Decomp)|Snippets of decompiled/reconstructed Duke Nukem 1 source code|9|2023-11-22|2023-11-03|
-|118|[algosup/2023-2024-project-2-x86-retrogaming-team-2](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2)|-|9|2023-12-24|2023-10-31|
-|119|[Starlight-Crusader/so-labs](https://github.com/Starlight-Crusader/so-labs)|-|9|2023-12-13|2023-10-28|
-|120|[ArcadeTV/neogeo-menu](https://github.com/ArcadeTV/neogeo-menu)|Alternative menu for the 161in1 v3 cart|9|2023-12-20|2023-10-20|
-|121|[VegaASM/Waltress](https://github.com/VegaASM/Waltress)|100% Broadway compliant PPC Assembler completely handwritten in PPC|9|2023-10-17|2023-10-17|
-|122|[barryw/CustomBasicCommands](https://github.com/barryw/CustomBasicCommands)|An easy-to-use framework for adding new commands to Commodore 64 BASIC|9|2023-10-21|2023-10-08|
-|123|[maciejmalecki/tony-demo](https://github.com/maciejmalecki/tony-demo)|This is a demo version of Tony: Born for Adventure (C64).|9|2023-10-09|2023-10-03|
-|124|[fellowship-of-the-roms/CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine)|Enhanced engine for Pokemon Crystal romhacking|9|2024-01-10|2023-09-21|
+|111|[WelsTheory/Curso_C_Embebido](https://github.com/WelsTheory/Curso_C_Embebido)|-|10|2023-10-08|2023-05-22|
+|112|[VetriTheRetri/ssb-decomp](https://github.com/VetriTheRetri/ssb-decomp)|-|10|2023-08-04|2023-02-09|
+|113|[m-pasik/69-byte-hello-world](https://github.com/m-pasik/69-byte-hello-world)|Tiny Linux "Hello, World!" |9|2023-12-30|2023-12-23|
+|114|[GiaHuyJQK1706/Computer_Architecture_Lab-MIPS](https://github.com/GiaHuyJQK1706/Computer_Architecture_Lab-MIPS)|-|9|2024-01-03|2023-12-12|
+|115|[polybiusproxy/parappa2](https://github.com/polybiusproxy/parappa2)|PaRappa the Rapper 2 (2001, PS2) decompilation|9|2023-12-07|2023-11-14|
+|116|[lethal-guitar/Duke1Decomp](https://github.com/lethal-guitar/Duke1Decomp)|Snippets of decompiled/reconstructed Duke Nukem 1 source code|9|2023-11-22|2023-11-03|
+|117|[algosup/2023-2024-project-2-x86-retrogaming-team-2](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2)|-|9|2023-12-24|2023-10-31|
+|118|[Starlight-Crusader/so-labs](https://github.com/Starlight-Crusader/so-labs)|-|9|2023-12-13|2023-10-28|
+|119|[ArcadeTV/neogeo-menu](https://github.com/ArcadeTV/neogeo-menu)|Alternative menu for the 161in1 v3 cart|9|2023-12-20|2023-10-20|
+|120|[VegaASM/Waltress](https://github.com/VegaASM/Waltress)|100% Broadway compliant PPC Assembler completely handwritten in PPC|9|2023-10-17|2023-10-17|
+|121|[barryw/CustomBasicCommands](https://github.com/barryw/CustomBasicCommands)|An easy-to-use framework for adding new commands to Commodore 64 BASIC|9|2023-10-21|2023-10-08|
+|122|[maciejmalecki/tony-demo](https://github.com/maciejmalecki/tony-demo)|This is a demo version of Tony: Born for Adventure (C64).|9|2023-10-09|2023-10-03|
+|123|[fellowship-of-the-roms/CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine)|Enhanced engine for Pokemon Crystal romhacking|9|2024-01-10|2023-09-21|
+|124|[nanochess/Ttris](https://github.com/nanochess/Ttris)|Ttris is a tetraminoes game for TRS-80 Model 1/3 computers.|9|2023-09-20|2023-09-20|
 |125|[rusarh/exolon-esl](https://github.com/rusarh/exolon-esl)|zx-spectrum game disassembly|9|2023-10-17|2023-09-19|
 |126|[BAS-demogroup/unicone](https://github.com/BAS-demogroup/unicone)|An action game for the Mega65|9|2023-11-20|2023-09-14|
 |127|[COMP122/comp122-f23](https://github.com/COMP122/comp122-f23)|The Fall '23 offering of COMP 122|9|2024-01-04|2023-08-17|
@@ -142,60 +142,60 @@
 |135|[Abdulhaseebimran/Assembly-Language](https://github.com/Abdulhaseebimran/Assembly-Language)|assembly language repo|9|2023-07-15|2023-04-30|
 |136|[miraliumre/magnolia](https://github.com/miraliumre/magnolia)|Magnolia enables access to tools and games directly from a computer's BIOS|9|2023-11-18|2023-04-09|
 |137|[YoungHaKim7/Rust_Tutorial_Full_course](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course)|My Youtube Channel - GlobalYoung https://www.youtube.com/@GlobalYoung7|9|2024-01-09|2023-02-17|
-|138|[NirvaCx/RadIceCream](https://github.com/NirvaCx/RadIceCream)|RISC-V Assembly project|8|2023-12-23|2023-11-23|
+|138|[NirvaCx/RadIceCream](https://github.com/NirvaCx/RadIceCream)|RISC-V Assembly project|8|2024-01-11|2023-11-23|
 |139|[algosup/2023-2024-project-2-x86-retrogaming-team-1](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1)|Second project of the year 2023-2024 with the aim of recreating PAC-MAN in x86 assembly.|8|2023-12-21|2023-10-31|
-|140|[nanochess/Ttris](https://github.com/nanochess/Ttris)|Ttris is a tetraminoes game for TRS-80 Model 1/3 computers.|8|2023-09-20|2023-09-20|
-|141|[take44444/Gameboy-free_bootrom](https://github.com/take44444/Gameboy-free_bootrom)|-|8|2023-09-12|2023-09-12|
-|142|[scaspin/memory-safe-assembly](https://github.com/scaspin/memory-safe-assembly)|Bottom-up memory-safety for assembly language using symbolic execution|8|2023-10-31|2023-09-10|
-|143|[AetiasHax/ph](https://github.com/AetiasHax/ph)|Decompilation of The Legend of Zelda: Phantom Hourglass|8|2024-01-08|2023-09-09|
-|144|[Apress/modern-x86-assembly-language-programming-3e](https://github.com/Apress/modern-x86-assembly-language-programming-3e)|Source Code for 'Modern X86 Assembly Language Programming' by Daniel Kusswurm|8|2023-09-08|2023-09-08|
-|145|[SAT-R/sa3](https://github.com/SAT-R/sa3)|A decompilation of Sonic Advance 3|8|2023-09-17|2023-08-27|
-|146|[SAT-R/sa1](https://github.com/SAT-R/sa1)|WIP decompilation of Sonic Advance (Europe) - a GameBoy Advance game written in C|8|2024-01-11|2023-08-26|
-|147|[dcrespo3d/BeanBrosRemake](https://github.com/dcrespo3d/BeanBrosRemake)|Bean Brothers remake (Spectrum platform game)|8|2023-09-27|2023-08-12|
-|148|[marobi/Pico_6502_v4_ehbasic](https://github.com/marobi/Pico_6502_v4_ehbasic)|neo6502 ehbasic emulator|8|2023-08-30|2023-08-04|
-|149|[hoangmanhkhiem/Infinity](https://github.com/hoangmanhkhiem/Infinity)|-|8|2023-08-01|2023-07-31|
-|150|[sotarokashiuchi/C_Compiler_for_Assembly](https://github.com/sotarokashiuchi/C_Compiler_for_Assembly)|-|8|2023-12-10|2023-06-10|
-|151|[adumont/AlexForth6809](https://github.com/adumont/AlexForth6809)|AlexForth for 6809 processor|8|2023-10-29|2023-05-20|
-|152|[tablacus/TablacusDiskRom](https://github.com/tablacus/TablacusDiskRom)|Disk to ROM for MSX|8|2023-08-13|2023-05-13|
-|153|[nihirash/Agon-MOS-SDCC-Template](https://github.com/nihirash/Agon-MOS-SDCC-Template)|Minimal SDCC template for creating MOS applications|8|2023-10-21|2023-05-01|
-|154|[UserSniper/FamiTower](https://github.com/UserSniper/FamiTower)|A demaking of Pizza Tower for the Famicom written in C.|8|2023-08-15|2023-04-29|
-|155|[analog-hors/pones](https://github.com/analog-hors/pones)|WIP NES and 6502 emulator|8|2023-09-14|2023-03-17|
-|156|[zaalang/zaos](https://github.com/zaalang/zaos)|x64 hobby os|8|2023-08-18|2023-02-26|
-|157|[and3rson/deck65](https://github.com/and3rson/deck65)|Simple SBC based on 65c02s|8|2023-11-28|2023-02-19|
-|158|[Alex-Kw/Brain-Board-II](https://github.com/Alex-Kw/Brain-Board-II)|Updated "Brain Board" for Apple II, originally designed by Mike Willegal|8|2023-10-31|2023-02-08|
-|159|[HenrikErlandsson/SpaceBoot](https://github.com/HenrikErlandsson/SpaceBoot)|An unobtrusive, dependable utility bootblock with compatibility and enhancement features for all Amigas.|7|2023-11-23|2023-11-20|
-|160|[yunkya2/sectorc68k](https://github.com/yunkya2/sectorc68k)|A C Compiler that fits in the 512 byte sector of X68000|7|2023-11-20|2023-11-18|
-|161|[cphartman/super-awakening](https://github.com/cphartman/super-awakening)|-|7|2024-01-08|2023-11-13|
-|162|[Mr-1504/Assembly](https://github.com/Mr-1504/Assembly)|-|7|2023-12-06|2023-11-05|
-|163|[mooinglemur/zsmkit](https://github.com/mooinglemur/zsmkit)|Advanced music and sound effects engine for the Commander X16|7|2023-10-23|2023-06-01|
-|164|[nihalkenkre/emu_os](https://github.com/nihalkenkre/emu_os)|An operating system written from scratch to run the Chip8 apps and later on the NES apps|7|2023-07-16|2023-05-16|
-|165|[craiglp/agon-life](https://github.com/craiglp/agon-life)|Conway's Game of Life for the Agon Light|7|2024-01-08|2023-04-24|
-|166|[kg68k/pcm8a](https://github.com/kg68k/pcm8a)|A modified version of PCM8A.X|7|2023-07-22|2023-03-24|
-|167|[turkishrational/retrounix](https://github.com/turkishrational/retrounix)|Retro UNIX v1 (8086 port/derivation of Original UNIX v1 for PDP-11) and Retro UNIX 386 v1.? OS project  |7|2023-10-11|2023-02-09|
+|140|[take44444/Gameboy-free_bootrom](https://github.com/take44444/Gameboy-free_bootrom)|-|8|2023-09-12|2023-09-12|
+|141|[scaspin/memory-safe-assembly](https://github.com/scaspin/memory-safe-assembly)|Bottom-up memory-safety for assembly language using symbolic execution|8|2024-01-11|2023-09-10|
+|142|[AetiasHax/ph](https://github.com/AetiasHax/ph)|Decompilation of The Legend of Zelda: Phantom Hourglass|8|2024-01-08|2023-09-09|
+|143|[Apress/modern-x86-assembly-language-programming-3e](https://github.com/Apress/modern-x86-assembly-language-programming-3e)|Source Code for 'Modern X86 Assembly Language Programming' by Daniel Kusswurm|8|2023-09-08|2023-09-08|
+|144|[SAT-R/sa3](https://github.com/SAT-R/sa3)|A decompilation of Sonic Advance 3|8|2023-09-17|2023-08-27|
+|145|[SAT-R/sa1](https://github.com/SAT-R/sa1)|WIP decompilation of Sonic Advance (Europe) - a GameBoy Advance game written in C|8|2024-01-11|2023-08-26|
+|146|[dcrespo3d/BeanBrosRemake](https://github.com/dcrespo3d/BeanBrosRemake)|Bean Brothers remake (Spectrum platform game)|8|2023-09-27|2023-08-12|
+|147|[marobi/Pico_6502_v4_ehbasic](https://github.com/marobi/Pico_6502_v4_ehbasic)|neo6502 ehbasic emulator|8|2023-08-30|2023-08-04|
+|148|[hoangmanhkhiem/Infinity](https://github.com/hoangmanhkhiem/Infinity)|-|8|2023-08-01|2023-07-31|
+|149|[sotarokashiuchi/C_Compiler_for_Assembly](https://github.com/sotarokashiuchi/C_Compiler_for_Assembly)|-|8|2023-12-10|2023-06-10|
+|150|[adumont/AlexForth6809](https://github.com/adumont/AlexForth6809)|AlexForth for 6809 processor|8|2023-10-29|2023-05-20|
+|151|[tablacus/TablacusDiskRom](https://github.com/tablacus/TablacusDiskRom)|Disk to ROM for MSX|8|2023-08-13|2023-05-13|
+|152|[nihirash/Agon-MOS-SDCC-Template](https://github.com/nihirash/Agon-MOS-SDCC-Template)|Minimal SDCC template for creating MOS applications|8|2023-10-21|2023-05-01|
+|153|[UserSniper/FamiTower](https://github.com/UserSniper/FamiTower)|A demaking of Pizza Tower for the Famicom written in C.|8|2023-08-15|2023-04-29|
+|154|[analog-hors/pones](https://github.com/analog-hors/pones)|WIP NES and 6502 emulator|8|2023-09-14|2023-03-17|
+|155|[zaalang/zaos](https://github.com/zaalang/zaos)|x64 hobby os|8|2023-08-18|2023-02-26|
+|156|[and3rson/deck65](https://github.com/and3rson/deck65)|Simple SBC based on 65c02s|8|2023-11-28|2023-02-19|
+|157|[Alex-Kw/Brain-Board-II](https://github.com/Alex-Kw/Brain-Board-II)|Updated "Brain Board" for Apple II, originally designed by Mike Willegal|8|2023-10-31|2023-02-08|
+|158|[HenrikErlandsson/SpaceBoot](https://github.com/HenrikErlandsson/SpaceBoot)|An unobtrusive, dependable utility bootblock with compatibility and enhancement features for all Amigas.|7|2023-11-23|2023-11-20|
+|159|[yunkya2/sectorc68k](https://github.com/yunkya2/sectorc68k)|A C Compiler that fits in the 512 byte sector of X68000|7|2023-11-20|2023-11-18|
+|160|[cphartman/super-awakening](https://github.com/cphartman/super-awakening)|-|7|2024-01-08|2023-11-13|
+|161|[Mr-1504/Assembly](https://github.com/Mr-1504/Assembly)|-|7|2023-12-06|2023-11-05|
+|162|[mooinglemur/zsmkit](https://github.com/mooinglemur/zsmkit)|Advanced music and sound effects engine for the Commander X16|7|2023-10-23|2023-06-01|
+|163|[nihalkenkre/emu_os](https://github.com/nihalkenkre/emu_os)|An operating system written from scratch to run the Chip8 apps and later on the NES apps|7|2023-07-16|2023-05-16|
+|164|[craiglp/agon-life](https://github.com/craiglp/agon-life)|Conway's Game of Life for the Agon Light|7|2024-01-12|2023-04-24|
+|165|[kg68k/pcm8a](https://github.com/kg68k/pcm8a)|A modified version of PCM8A.X|7|2023-07-22|2023-03-24|
+|166|[turkishrational/retrounix](https://github.com/turkishrational/retrounix)|Retro UNIX v1 (8086 port/derivation of Original UNIX v1 for PDP-11) and Retro UNIX 386 v1.? OS project  |7|2023-10-11|2023-02-09|
+|167|[flashjacks/NEXTOR_Driver_FJ](https://github.com/flashjacks/NEXTOR_Driver_FJ)|Flashjacks Nextor Driver|7|2024-01-12|2023-02-06|
 |168|[anael-seghezzi/SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting)|Raycasting on SEGA Megadrive/Genesis using SGDK|6|2024-01-04|2024-01-04|
-|169|[NesHacker/GameBoyGraphics](https://github.com/NesHacker/GameBoyGraphics)|GameBoy Graphics Programming Demos by NesHacker|6|2023-12-19|2023-12-12|
-|170|[gcswales/SIMPLE-6502-IDE](https://github.com/gcswales/SIMPLE-6502-IDE)|SIMPLE INTERFACING AN IDE (PATA) DRIVE TO A 6502 CPU|6|2023-12-06|2023-12-06|
-|171|[mrcook/lords-of-midnight-disassembly](https://github.com/mrcook/lords-of-midnight-disassembly)|The Lords of Midnight source code: ZX Spectrum and DOS disassembly|6|2023-12-04|2023-11-23|
-|172|[gemesa/shadow-shell](https://github.com/gemesa/shadow-shell)|Cyber lab to explore different memory exploits and to analyze malware|6|2023-12-15|2023-11-01|
-|173|[mytechnotalent/dc540-0x00006](https://github.com/mytechnotalent/dc540-0x00006)|DC540 hacking challenge 0x00006.|6|2023-11-23|2023-10-29|
-|174|[0x9n0p/cheetah](https://github.com/0x9n0p/cheetah)|The simplest way to implement a 64-bit kernel.|6|2023-10-31|2023-10-11|
-|175|[nidud/asmc](https://github.com/nidud/asmc)|-|6|2024-01-04|2023-09-22|
-|176|[RogueTMs/HORNY_OS](https://github.com/RogueTMs/HORNY_OS)|-|6|2023-12-27|2023-09-21|
-|177|[caio-felipee/fac](https://github.com/caio-felipee/fac)|Repositório destinado para as anotações e listas de exercícios da matéria Fundamentos de Arquitetura de Computadores|6|2023-12-22|2023-09-13|
-|178|[ZetaNull/jep-hack](https://github.com/ZetaNull/jep-hack)|Johto Expansion Pak (Experimental) |6|2023-11-19|2023-09-10|
-|179|[bexxx/commodore64](https://github.com/bexxx/commodore64)|I start my journey into 6502 assembly on the Commodore 64. I welcome you as my copilot :)|6|2024-01-08|2023-07-25|
-|180|[yhzmr442/P.C.Engine](https://github.com/yhzmr442/P.C.Engine)|Polygon construction library for PC Engine|6|2024-01-01|2023-07-16|
-|181|[blondie7575/GSFontEngine](https://github.com/blondie7575/GSFontEngine)|A general purpose text renderer for the Apple IIgs|6|2023-07-14|2023-07-14|
-|182|[CaptRojoThe3rd/Tiny-Snake-Game](https://github.com/CaptRojoThe3rd/Tiny-Snake-Game)|Trying to make the smallest snake game|6|2023-08-08|2023-07-05|
-|183|[sijnstra/agon-projects](https://github.com/sijnstra/agon-projects)|Multiple projects for the Agon light: strings, os boot loader for Zeal8bit and TRS-OS, interactive hexdumps and gunzip|6|2024-01-08|2023-05-23|
-|184|[critterandguitari/201-PocketPiano](https://github.com/critterandguitari/201-PocketPiano)|-|6|2023-11-28|2023-04-28|
-|185|[TIny-Hacker/ti-84-addition-edition](https://github.com/TIny-Hacker/ti-84-addition-edition)|Turn your TI-84 Plus CE into the legendary TI-83 Plus Addition Edition|6|2023-08-22|2023-03-28|
-|186|[8bitZeta/modern-ancient-engine](https://github.com/8bitZeta/modern-ancient-engine)|Tempory Workspace to bring Ancient Engine up to Modern PokeCrystal |6|2023-08-28|2023-03-07|
-|187|[Not-So-Filter/s1-proto-disasm](https://github.com/Not-So-Filter/s1-proto-disasm)|A split Macro AS disassembly of the Sonic 1 Prototype.|6|2024-01-04|2023-03-01|
-|188|[TheBlad768/Sonic-Clean-Engine-S.C.E.-Extended-](https://github.com/TheBlad768/Sonic-Clean-Engine-S.C.E.-Extended-)|Cleaned up the Sonic 3 & Knuckles source code. Free use. You use it at your own risk.|6|2023-12-14|2023-02-06|
-|189|[JTFPGA/jtkcpu](https://github.com/JTFPGA/jtkcpu)|Verilog module compatible with the 6309-derived Konami CPU|6|2023-11-12|2023-01-24|
-|190|[dabumana/ASM-Utils](https://github.com/dabumana/ASM-Utils)|ASM scripts useful for basic operations from the user side.|5|2024-01-07|2023-12-27|
-|191|[nanochess/240pTestSuite_colecovision](https://github.com/nanochess/240pTestSuite_colecovision)|240p Test Suite for Colecovision|5|2024-01-06|2023-12-22|
+|169|[nanochess/240pTestSuite_colecovision](https://github.com/nanochess/240pTestSuite_colecovision)|240p Test Suite for Colecovision|6|2024-01-06|2023-12-22|
+|170|[NesHacker/GameBoyGraphics](https://github.com/NesHacker/GameBoyGraphics)|GameBoy Graphics Programming Demos by NesHacker|6|2023-12-19|2023-12-12|
+|171|[gcswales/SIMPLE-6502-IDE](https://github.com/gcswales/SIMPLE-6502-IDE)|SIMPLE INTERFACING AN IDE (PATA) DRIVE TO A 6502 CPU|6|2023-12-06|2023-12-06|
+|172|[mrcook/lords-of-midnight-disassembly](https://github.com/mrcook/lords-of-midnight-disassembly)|The Lords of Midnight source code: ZX Spectrum and DOS disassembly|6|2023-12-04|2023-11-23|
+|173|[gemesa/shadow-shell](https://github.com/gemesa/shadow-shell)|Cyber lab to explore different memory exploits and to analyze malware|6|2023-12-15|2023-11-01|
+|174|[mytechnotalent/dc540-0x00006](https://github.com/mytechnotalent/dc540-0x00006)|DC540 hacking challenge 0x00006.|6|2023-11-23|2023-10-29|
+|175|[0x9n0p/cheetah](https://github.com/0x9n0p/cheetah)|The simplest way to implement a 64-bit kernel.|6|2023-10-31|2023-10-11|
+|176|[nidud/asmc](https://github.com/nidud/asmc)|-|6|2024-01-04|2023-09-22|
+|177|[RogueTMs/HORNY_OS](https://github.com/RogueTMs/HORNY_OS)|-|6|2023-12-27|2023-09-21|
+|178|[caio-felipee/fac](https://github.com/caio-felipee/fac)|Repositório destinado para as anotações e listas de exercícios da matéria Fundamentos de Arquitetura de Computadores|6|2023-12-22|2023-09-13|
+|179|[ZetaNull/jep-hack](https://github.com/ZetaNull/jep-hack)|Johto Expansion Pak (Experimental) |6|2023-11-19|2023-09-10|
+|180|[bexxx/commodore64](https://github.com/bexxx/commodore64)|I start my journey into 6502 assembly on the Commodore 64. I welcome you as my copilot :)|6|2024-01-08|2023-07-25|
+|181|[yhzmr442/P.C.Engine](https://github.com/yhzmr442/P.C.Engine)|Polygon construction library for PC Engine|6|2024-01-01|2023-07-16|
+|182|[blondie7575/GSFontEngine](https://github.com/blondie7575/GSFontEngine)|A general purpose text renderer for the Apple IIgs|6|2023-07-14|2023-07-14|
+|183|[CaptRojoThe3rd/Tiny-Snake-Game](https://github.com/CaptRojoThe3rd/Tiny-Snake-Game)|Trying to make the smallest snake game|6|2023-08-08|2023-07-05|
+|184|[sijnstra/agon-projects](https://github.com/sijnstra/agon-projects)|Multiple projects for the Agon light: strings, os boot loader for Zeal8bit and TRS-OS, interactive hexdumps and gunzip|6|2024-01-08|2023-05-23|
+|185|[critterandguitari/201-PocketPiano](https://github.com/critterandguitari/201-PocketPiano)|-|6|2023-11-28|2023-04-28|
+|186|[TIny-Hacker/ti-84-addition-edition](https://github.com/TIny-Hacker/ti-84-addition-edition)|Turn your TI-84 Plus CE into the legendary TI-83 Plus Addition Edition|6|2023-08-22|2023-03-28|
+|187|[8bitZeta/modern-ancient-engine](https://github.com/8bitZeta/modern-ancient-engine)|Tempory Workspace to bring Ancient Engine up to Modern PokeCrystal |6|2023-08-28|2023-03-07|
+|188|[Not-So-Filter/s1-proto-disasm](https://github.com/Not-So-Filter/s1-proto-disasm)|A split Macro AS disassembly of the Sonic 1 Prototype.|6|2024-01-04|2023-03-01|
+|189|[TheBlad768/Sonic-Clean-Engine-S.C.E.-Extended-](https://github.com/TheBlad768/Sonic-Clean-Engine-S.C.E.-Extended-)|Cleaned up the Sonic 3 & Knuckles source code. Free use. You use it at your own risk.|6|2024-01-12|2023-02-06|
+|190|[JTFPGA/jtkcpu](https://github.com/JTFPGA/jtkcpu)|Verilog module compatible with the 6309-derived Konami CPU|6|2023-11-12|2023-01-24|
+|191|[dabumana/ASM-Utils](https://github.com/dabumana/ASM-Utils)|ASM scripts useful for basic operations from the user side.|5|2024-01-07|2023-12-27|
 |192|[tudoroancea/tinyhpipm](https://github.com/tudoroancea/tinyhpipm)|a refactored, stripped down, opinionated version of HPIPM|5|2024-01-06|2023-12-10|
 |193|[fermarsan/aixt](https://github.com/fermarsan/aixt)|Programming framework for microcontrollers based on a V-like language. This is written in V using the same V's self-compiler and implementing a small subset of the V language thought of memory space o ...|5|2023-12-22|2023-12-10|
 |194|[Meriem1551/Assembly-exersises](https://github.com/Meriem1551/Assembly-exersises)|Solving some problems with mips|5|2023-12-13|2023-12-05|
