@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Rust
-<sub>Updated: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[oxc-project/oxc](https://github.com/oxc-project/oxc)|⚓ A collection of JavaScript tools written in Rust.|7047|2024-01-12|2023-02-09|
-|2|[andreabergia/rjvm](https://github.com/andreabergia/rjvm)|A tiny JVM written in Rust. Learning project|1348|2023-09-25|2023-02-11|
-|3|[mfontanini/presenterm](https://github.com/mfontanini/presenterm)|A terminal slideshow tool|537|2024-01-11|2023-08-27|
+|1|[oxc-project/oxc](https://github.com/oxc-project/oxc)|⚓ A collection of JavaScript tools written in Rust.|7073|2024-01-13|2023-02-09|
+|2|[andreabergia/rjvm](https://github.com/andreabergia/rjvm)|A tiny JVM written in Rust. Learning project|1347|2023-09-25|2023-02-11|
+|3|[mfontanini/presenterm](https://github.com/mfontanini/presenterm)|A terminal slideshow tool|546|2024-01-13|2023-08-27|
 |4|[emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)|A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.|324|2024-01-07|2023-01-19|
 |5|[cuppar/rtd](https://github.com/cuppar/rtd)|Learn Rust by 500 lines code|277|2023-09-05|2023-07-24|
-|6|[Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)|A collection of libraries related to polynomial IOPs (PIOPs)|238|2024-01-12|2023-03-30|
+|6|[Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)|A collection of libraries related to polynomial IOPs (PIOPs)|238|2024-01-13|2023-03-30|
 |7|[intel/tsffs](https://github.com/intel/tsffs)|A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS|232|2024-01-12|2023-09-12|
 |8|[Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use)|Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE|180|2024-01-10|2023-05-12|
 |9|[yorickpeterse/pattern-matching-in-rust](https://github.com/yorickpeterse/pattern-matching-in-rust)|Pattern matching and exhaustiveness checking algorithms implemented in Rust|166|2023-10-22|2023-03-16|
@@ -19,33 +19,33 @@
 |12|[mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust)|A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.|131|2023-11-11|2023-05-05|
 |13|[jeremychone-channel/rust-axum-course](https://github.com/jeremychone-channel/rust-axum-course)|Rust Axum Full Course code.|131|2024-01-04|2023-04-09|
 |14|[boustrophedon/eink-esp-weather-display](https://github.com/boustrophedon/eink-esp-weather-display)|code for weather display using waveshare esp32 and 7.5" epaper display|115|2023-11-09|2023-08-31|
-|15|[domoritz/arrow-tools](https://github.com/domoritz/arrow-tools)|A collection of handy CLI tools to convert CSV and JSON to Apache Arrow and Parquet|104|2024-01-09|2023-02-02|
-|16|[ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)|Tutorial for Porting PyTorch Transformer Models to Candle (Rust)|103|2023-11-02|2023-10-13|
-|17|[Ellipsis-Labs/phoenix-v1](https://github.com/Ellipsis-Labs/phoenix-v1)|On-chain order book that atomically settles trades|103|2023-12-14|2023-02-13|
+|15|[ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)|Tutorial for Porting PyTorch Transformer Models to Candle (Rust)|106|2023-11-02|2023-10-13|
+|16|[Ellipsis-Labs/phoenix-v1](https://github.com/Ellipsis-Labs/phoenix-v1)|On-chain order book that atomically settles trades|104|2023-12-14|2023-02-13|
+|17|[domoritz/arrow-tools](https://github.com/domoritz/arrow-tools)|A collection of handy CLI tools to convert CSV and JSON to Apache Arrow and Parquet|104|2024-01-09|2023-02-02|
 |18|[sysid/bkmr](https://github.com/sysid/bkmr)|Super fast CLI bookmark manager and launcher|103|2024-01-10|2023-01-14|
 |19|[nosduco/nforwardauth](https://github.com/nosduco/nforwardauth)|Simple and minimalist forward auth service intended for use with reverse proxies (Traefik, Caddy, nginx, etc)|95|2024-01-03|2023-03-19|
 |20|[mu-arch/skyfolder](https://github.com/mu-arch/skyfolder)|🪂 SkyFolder shares your folders on the network!|93|2023-10-10|2023-05-20|
 |21|[google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers)|Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.|93|2024-01-08|2023-03-21|
-|22|[quambene/bogrep](https://github.com/quambene/bogrep)|Grep your bookmarks|91|2024-01-01|2023-07-23|
+|22|[quambene/bogrep](https://github.com/quambene/bogrep)|Grep your bookmarks|91|2024-01-13|2023-07-23|
 |23|[flashbots/hindsight](https://github.com/flashbots/hindsight)|Retroactively estimate Uniswap-ish MEV on Flashbots MEV-Share by simulating backrun-arbitrages.|89|2023-12-03|2023-07-03|
-|24|[opeolluwa/filesync](https://github.com/opeolluwa/filesync)|quickly and securely share files across Windows, Linux, Mac and Android devices using wifi. |80|2023-10-13|2023-03-20|
-|25|[nogibjj/rust-data-engineering](https://github.com/nogibjj/rust-data-engineering)|Code for a Duke Coursera Rust-based data engineering course|78|2023-10-11|2023-05-19|
-|26|[Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book)|A simple tool for creating modern online books in pure typst.|77|2024-01-12|2023-05-06|
+|24|[Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book)|A simple tool for creating modern online books in pure typst.|81|2024-01-12|2023-05-06|
+|25|[opeolluwa/filesync](https://github.com/opeolluwa/filesync)|quickly and securely share files across Windows, Linux, Mac and Android devices using wifi. |80|2023-10-13|2023-03-20|
+|26|[nogibjj/rust-data-engineering](https://github.com/nogibjj/rust-data-engineering)|Code for a Duke Coursera Rust-based data engineering course|78|2023-10-11|2023-05-19|
 |27|[mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio)|Awesome books, tutorials, courses, and resources for Tokio. ⚡|72|2023-10-11|2023-10-09|
 |28|[ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises)|Exercises for learning Rust, by Ferrous Systems|72|2024-01-11|2023-04-25|
-|29|[astriaorg/astria](https://github.com/astriaorg/astria)|A monorepo containing all the custom components of the Astria network, a decentralized system that replaces traditional sequencers, offering a shared, permissionless sequencer network.|66|2024-01-11|2023-05-15|
+|29|[astriaorg/astria](https://github.com/astriaorg/astria)|A monorepo containing all the custom components of the Astria network, a decentralized system that replaces traditional sequencers, offering a shared, permissionless sequencer network.|67|2024-01-12|2023-05-15|
 |30|[estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server)|Language server to enable word completion and snippets for Helix editor|63|2024-01-09|2023-06-14|
 |31|[tracel-ai/models](https://github.com/tracel-ai/models)|Models and examples built with Burn|51|2024-01-09|2023-07-31|
 |32|[Adamkob12/bevy_meshem](https://github.com/Adamkob12/bevy_meshem)|Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels|50|2023-11-22|2023-08-11|
 |33|[mwbryant/logic_farm_roguelike](https://github.com/mwbryant/logic_farm_roguelike)|A tutorial project for Bevy 0.11 following a series on the LogicProjects Youtube Channel|48|2023-09-14|2023-07-11|
 |34|[zkp-co-learning/zkp-co-learn](https://github.com/zkp-co-learning/zkp-co-learn)|zkp-co-learning|48|2023-10-25|2023-02-10|
-|35|[hearth-rs/hearth](https://github.com/hearth-rs/hearth)|Shared execution environment for constructing 3D virtual spaces from the inside.|46|2024-01-11|2023-01-20|
-|36|[443eb9/bevy_entitiles](https://github.com/443eb9/bevy_entitiles)|A 2d tilemap library for bevy. With many useful algorithms/tools built in.|44|2024-01-12|2023-10-23|
+|35|[hearth-rs/hearth](https://github.com/hearth-rs/hearth)|Shared execution environment for constructing 3D virtual spaces from the inside.|47|2024-01-13|2023-01-20|
+|36|[443eb9/bevy_entitiles](https://github.com/443eb9/bevy_entitiles)|A 2d tilemap library for bevy. With many useful algorithms/tools built in.|45|2024-01-13|2023-10-23|
 |37|[cedar-policy/cedar-examples](https://github.com/cedar-policy/cedar-examples)|Some examples of using the Cedar language to specify authorization|44|2024-01-10|2023-04-18|
-|38|[sambarnes/noir-by-example](https://github.com/sambarnes/noir-by-example)|an introduction to noir, with simple examples|41|2024-01-08|2023-06-12|
-|39|[zefr0x/ianny](https://github.com/zefr0x/ianny)|Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.|41|2023-12-24|2023-06-03|
-|40|[TypicalDefender/entangleDB](https://github.com/TypicalDefender/entangleDB)|A Distributed SQL Database - Building the Database in the Public to Learn Database Internals|40|2023-12-26|2023-12-02|
-|41|[syf20020816/slint_learn](https://github.com/syf20020816/slint_learn)|Help everyone quickly learn Slint|40|2023-10-05|2023-09-02|
+|38|[syf20020816/slint_learn](https://github.com/syf20020816/slint_learn)|Help everyone quickly learn Slint|41|2023-10-05|2023-09-02|
+|39|[sambarnes/noir-by-example](https://github.com/sambarnes/noir-by-example)|an introduction to noir, with simple examples|41|2024-01-08|2023-06-12|
+|40|[zefr0x/ianny](https://github.com/zefr0x/ianny)|Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.|41|2023-12-24|2023-06-03|
+|41|[TypicalDefender/entangleDB](https://github.com/TypicalDefender/entangleDB)|A Distributed SQL Database - Building the Database in the Public to Learn Database Internals|40|2023-12-26|2023-12-02|
 |42|[ordinarylabs/bicycle](https://github.com/ordinarylabs/bicycle)|Bicycle 🚲 is a framework for defining database schemas whose access patterns are generated as code and compiled into each server binary. |38|2023-09-21|2023-07-21|
 |43|[wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples)|Rust examples showcasing wasix build target|37|2023-12-22|2023-05-26|
 |44|[sam0x17/macro_magic](https://github.com/sam0x17/macro_magic)|A collection of Rust proc macros that allow the exporting and importing of TokenStream2s of items in foreign contexts and files|36|2023-10-10|2023-02-25|

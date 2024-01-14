@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,32 +15,32 @@
 |8|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
 |9|[isabella-gomes/Globecom2023](https://github.com/isabella-gomes/Globecom2023)|This is a collection of MATLAB scripts to generate numerical results for the paper "Multi-Static ISAC in Cell-Free Massive MIMO: Precoder Design and Privacy Assessment"|8|2023-07-29|2023-07-29|
 |10|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|2023-02-14|
-|11|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|7|2023-12-15|2023-10-05|
+|11|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|7|2024-01-13|2023-10-05|
 |12|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
 |13|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|6|2024-01-10|2023-10-13|
 |14|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |5|2023-10-29|2023-10-09|
 |15|[aliiimaher/Numerical-Analysis](https://github.com/aliiimaher/Numerical-Analysis)|This is a Numerical Analysis course project, implementing numerical analysis methods.|5|2023-08-03|2023-08-03|
-|16|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|5|2023-12-22|2023-05-31|
-|17|[BatuhanErTo/NumericalAnalysis](https://github.com/BatuhanErTo/NumericalAnalysis)|Numerical Analysis Lesson|5|2023-07-16|2023-04-15|
-|18|[Aidensh/Full-waveform-inversion](https://github.com/Aidensh/Full-waveform-inversion)|This a FWI pakage I developed during my master's thesis|5|2023-10-31|2023-03-13|
-|19|[CTinRT/HLUT-guide](https://github.com/CTinRT/HLUT-guide)|The code accompanying the comprehensive guide on HLUT specification.|5|2023-09-08|2023-03-02|
-|20|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|2023-11-13|2023-09-28|
-|21|[catherinepapad/Optimization_Techniques](https://github.com/catherinepapad/Optimization_Techniques)|Assignments for "Optimization_Techniques" course of ECE in AUTh. |4|2023-09-25|2023-09-25|
-|22|[umeshmvn/Fake-Currency-Detection-Using-Matlab](https://github.com/umeshmvn/Fake-Currency-Detection-Using-Matlab)|I have implemented a fake note detection unit with image processing algorithms in MATLAB. The aspect ratio is calculated initially for the input notes to classify the original notes. The experimental  ...|4|2023-09-18|2023-09-17|
-|23|[ChuanbinZhang/OMVFC-LICAG](https://github.com/ChuanbinZhang/OMVFC-LICAG)|Source code for the paper Latent Information-Guided One-Step Multi-view Fuzzy Clustering Based on Cross-View Anchor Graph (OMVFC-LICAG)|4|2023-09-26|2023-09-16|
-|24|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|4|2023-11-29|2023-09-12|
-|25|[ManshengChen/Code-for-GTLEC-master](https://github.com/ManshengChen/Code-for-GTLEC-master)|On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning, ACMMM2023|4|2023-10-30|2023-08-02|
-|26|[Hoai-Baoo/robotic_openmanipulator_x_simulation](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation)|A mini robotic project at Robot Course in Ho Chi Minh City Univercity of Technology|4|2023-08-01|2023-08-01|
-|27|[yanniangu/CDFS](https://github.com/yanniangu/CDFS)|code for Top-k Feature Selection in Sparse Learning via Accelerated Coordinate Descent Method|4|2023-08-02|2023-07-29|
-|28|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|4|2023-10-12|2023-07-21|
-|29|[Terenceyuyue/mFEM](https://github.com/Terenceyuyue/mFEM)|This package is the companion package of varFEM,  including more academic examples and problems written in single script.|4|2023-07-18|2023-07-18|
-|30|[JohannesAutenrieb/1D_MPC_CBF](https://github.com/JohannesAutenrieb/1D_MPC_CBF)|The 1D_MPC_CBF repository houses a collection of MATLAB scripts written to study differnt state-constrained controllers.|4|2023-07-17|2023-07-13|
-|31|[qlhhahaha/Multi-agent-System-control](https://github.com/qlhhahaha/Multi-agent-System-control)|reference code of the MAS textbook which written by Zhao Jichao|4|2023-11-11|2023-07-10|
+|16|[qlhhahaha/Multi-agent-System-control](https://github.com/qlhhahaha/Multi-agent-System-control)|reference code of the MAS textbook which written by Zhao Jichao|5|2023-11-11|2023-07-10|
+|17|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|5|2023-12-22|2023-05-31|
+|18|[BatuhanErTo/NumericalAnalysis](https://github.com/BatuhanErTo/NumericalAnalysis)|Numerical Analysis Lesson|5|2023-07-16|2023-04-15|
+|19|[Aidensh/Full-waveform-inversion](https://github.com/Aidensh/Full-waveform-inversion)|This a FWI pakage I developed during my master's thesis|5|2023-10-31|2023-03-13|
+|20|[CTinRT/HLUT-guide](https://github.com/CTinRT/HLUT-guide)|The code accompanying the comprehensive guide on HLUT specification.|5|2023-09-08|2023-03-02|
+|21|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|2023-11-13|2023-09-28|
+|22|[catherinepapad/Optimization_Techniques](https://github.com/catherinepapad/Optimization_Techniques)|Assignments for "Optimization_Techniques" course of ECE in AUTh. |4|2023-09-25|2023-09-25|
+|23|[umeshmvn/Fake-Currency-Detection-Using-Matlab](https://github.com/umeshmvn/Fake-Currency-Detection-Using-Matlab)|I have implemented a fake note detection unit with image processing algorithms in MATLAB. The aspect ratio is calculated initially for the input notes to classify the original notes. The experimental  ...|4|2023-09-18|2023-09-17|
+|24|[ChuanbinZhang/OMVFC-LICAG](https://github.com/ChuanbinZhang/OMVFC-LICAG)|Source code for the paper Latent Information-Guided One-Step Multi-view Fuzzy Clustering Based on Cross-View Anchor Graph (OMVFC-LICAG)|4|2023-09-26|2023-09-16|
+|25|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|4|2023-11-29|2023-09-12|
+|26|[ManshengChen/Code-for-GTLEC-master](https://github.com/ManshengChen/Code-for-GTLEC-master)|On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning, ACMMM2023|4|2023-10-30|2023-08-02|
+|27|[Hoai-Baoo/robotic_openmanipulator_x_simulation](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation)|A mini robotic project at Robot Course in Ho Chi Minh City Univercity of Technology|4|2023-08-01|2023-08-01|
+|28|[yanniangu/CDFS](https://github.com/yanniangu/CDFS)|code for Top-k Feature Selection in Sparse Learning via Accelerated Coordinate Descent Method|4|2023-08-02|2023-07-29|
+|29|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|4|2023-10-12|2023-07-21|
+|30|[Terenceyuyue/mFEM](https://github.com/Terenceyuyue/mFEM)|This package is the companion package of varFEM,  including more academic examples and problems written in single script.|4|2023-07-18|2023-07-18|
+|31|[JohannesAutenrieb/1D_MPC_CBF](https://github.com/JohannesAutenrieb/1D_MPC_CBF)|The 1D_MPC_CBF repository houses a collection of MATLAB scripts written to study differnt state-constrained controllers.|4|2023-07-17|2023-07-13|
 |32|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|4|2023-11-13|2023-06-10|
 |33|[ckghostwj/CVPR2023_code](https://github.com/ckghostwj/CVPR2023_code)|Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering|4|2023-07-15|2023-06-05|
 |34|[mwt/guide-inequalities](https://github.com/mwt/guide-inequalities)|Code for "A User's Guide for Inference in Models Defined by Moment Inequalities"|4|2023-07-21|2023-04-26|
 |35|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|4|2023-09-17|2023-04-16|
-|36|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|4|2023-11-16|2023-04-15|
+|36|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|4|2024-01-13|2023-04-15|
 |37|[krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry](https://github.com/krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry)|This repository contains a project completed at Worcester Polytechnic Institute for the RBE-502 Robot Control course.|3|2023-12-28|2023-12-15|
 |38|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|3|2023-11-30|2023-11-20|
 |39|[Diligent06/Communication-Engineering](https://github.com/Diligent06/Communication-Engineering)|Repository of course experiment for Communication Engineering|3|2023-10-25|2023-10-23|
@@ -62,9 +62,8 @@
 |55|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
 |56|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
 |57|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
-|58|[pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology](https://github.com/pbcn2/2023-HW-SYSU_ISE-Intelligent-Robotics-Technology)|My homework in the Intelligent Robotics course during my undergraduate studies at Sun Yat-Sen University|3|2023-07-14|2023-04-19|
-|59|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
-|60|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
+|58|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
+|59|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
