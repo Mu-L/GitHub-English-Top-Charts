@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13969|4|2023-10-31|
 |2|[maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|A collection of animated loading indicators for React Native|2329|1|2023-11-18|
-|3|[mrackwitz/MRProgress](https://github.com/mrackwitz/MRProgress)|Collection of iOS drop-in components to visualize progress|2552|1|2023-10-15|
+|3|[mrackwitz/MRProgress](https://github.com/mrackwitz/MRProgress)|Collection of iOS drop-in components to visualize progress|2551|1|2023-10-15|
 |4|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2713|1|2024-01-13|
 |5|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|326|1|2023-10-13|
 |6|[mediamonks/MMMTweaks](https://github.com/mediamonks/MMMTweaks)|Swift support for Facebook's Tweaks library|3|0|2023-09-18|
@@ -17,7 +17,7 @@
 |10|[moraea/amys-hacking-tutorial](https://github.com/moraea/amys-hacking-tutorial)|Amy's hacking tutorial|7|0|2023-08-18|
 |11|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|10|0|2023-09-17|
 |12|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|101|0|2023-12-18|
-|13|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|200|0|2023-11-28|
+|13|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|201|0|2023-11-28|
 |14|[sptim/pdfbooklet](https://github.com/sptim/pdfbooklet)|OS X / macOS command line utility to reorder pages in a PDF file for booklet printing.|19|0|2023-09-05|
 |15|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|295|0|2023-08-23|
 |16|[abdulowork/LinkWithXCTAutomationSupportXcode14](https://github.com/abdulowork/LinkWithXCTAutomationSupportXcode14)|An example showing how to bypass a linker error when linking with XCTAutomationSupport|4|0|2023-10-04|
@@ -25,14 +25,14 @@
 |18|[Obliquely/Let-s-Build-UITableView](https://github.com/Obliquely/Let-s-Build-UITableView)|a re-implementation of a (stripped down) version of the iOS UITableView class for learning purposes.  |61|0|2023-09-24|
 |19|[paulhimes/songbook](https://github.com/paulhimes/songbook)|A reader for .songbook files|2|0|2024-01-03|
 |20|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2023-09-20|
-|21|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|51|0|2024-01-13|
+|21|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|51|0|2024-01-14|
 |22|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|66|0|2023-08-23|
 |23|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning swift programming language.|4|0|2023-11-02|
-|24|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2023-11-20|
+|24|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-01-15|
 |25|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|18|0|2024-01-14|
 |26|[dioq/objective_c](https://github.com/dioq/objective_c)|Objective-C 语言学习|2|0|2023-09-13|
-|27|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1644|0|2024-01-10|
-|28|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|236|0|2024-01-01|
+|27|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1645|0|2024-01-15|
+|28|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|237|0|2024-01-01|
 |29|[EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)|👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget|1779|0|2023-09-18|
 |30|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2023-11-13|
 |31|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-01-04|
@@ -48,7 +48,7 @@
 |41|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|0|2024-01-11|
 |42|[kingsoftgames/omnisdk-ios-demo](https://github.com/kingsoftgames/omnisdk-ios-demo)|The Demo includes code examples illustrating features of the OmniSDK iOS API.|3|0|2023-12-05|
 |43|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2023-12-20|
-|44|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|101|0|2023-10-08|
+|44|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|102|0|2023-10-08|
 |45|[Thomz07/RoundDockRemasterred](https://github.com/Thomz07/RoundDockRemasterred)|This is a remaster of the old tweak RoundDock by Brogan Miner|2|0|2023-07-25|
 |46|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|60|0|2023-11-09|
 |47|[groupgets/purethermal1-uvc-capture](https://github.com/groupgets/purethermal1-uvc-capture)|USB Video Class capture examples for PureThermal 1 / PureThermal 2 FLIR Lepton Dev Kit|116|0|2023-09-19|

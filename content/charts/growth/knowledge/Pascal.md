@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2024-01-13|
 |7|[normaluser/shooter-2D](https://github.com/normaluser/shooter-2D)|2D shooter - Pascal tutorial using SDL2|3|0|2023-08-30|
 |8|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|0|2024-01-02|
-|9|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|0|2024-01-13|
+|9|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|0|2024-01-14|
 |10|[fre-sch/starfield-toolbox](https://github.com/fre-sch/starfield-toolbox)|Various scripts for xedit and Blender, and documentation on how to mod specific things in Starfield|3|0|2023-12-22|
 |11|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|34|0|2023-10-23|
 |12|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|0|2023-09-20|
@@ -23,7 +23,7 @@
 |16|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|0|2023-11-21|
 |17|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|18|0|2024-01-01|
 |18|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|0|2023-10-07|
-|19|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|224|0|2024-01-14|
+|19|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|224|0|2024-01-15|
 |20|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|6|0|2024-01-11|
 |21|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|24|0|2023-07-17|
 |22|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|0|2023-10-16|
@@ -37,7 +37,7 @@
 |30|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-01-05|
 |31|[fredvs/alsa_mixer](https://github.com/fredvs/alsa_mixer)|Get and set mixer master volume of sound-card and assign callback mixer procedure using only libasound.so.2.|6|0|2023-08-01|
 |32|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|9|0|2023-11-17|
-|33|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1669|0|2023-11-20|
+|33|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1671|0|2023-11-20|
 |34|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2023-10-27|
 |35|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2023-07-25|
 |36|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|0|2023-11-04|
