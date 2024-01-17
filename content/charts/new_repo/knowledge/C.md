@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|48813|2024-01-15|2023-03-10|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|48915|2024-01-16|2023-03-10|
 |2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|478|2023-11-23|2023-07-14|
 |3|[REDMED-X/OperatorsKit](https://github.com/REDMED-X/OperatorsKit)|Collection of Beacon Object Files (BOF) for Cobalt Strike|405|2023-12-14|2023-02-06|
 |4|[huntandhackett/process-cloning](https://github.com/huntandhackett/process-cloning)|The Definitive Guide To Process Cloning on Windows|261|2024-01-03|2023-04-11|
@@ -30,7 +30,7 @@
 |23|[milkv-duo/duo-examples](https://github.com/milkv-duo/duo-examples)|Milk-V Duo official C/C++ examples|49|2024-01-07|2023-06-19|
 |24|[thebsdbox/learning-ebpf](https://github.com/thebsdbox/learning-ebpf)|This repository contains various code snippets and learnings around eBPF|47|2024-01-15|2023-02-27|
 |25|[enginestein/Virus-Collection](https://github.com/enginestein/Virus-Collection)|A collection of various viruses|43|2024-01-13|2023-04-27|
-|26|[hinqiwame/soinjector](https://github.com/hinqiwame/soinjector)|Linux shared object injector written in pure C|43|2024-01-12|2023-02-27|
+|26|[hinqiwame/soinjector](https://github.com/hinqiwame/soinjector)|Linux shared object injector written in pure C|43|2024-01-15|2023-02-27|
 |27|[hsiaosiyuan0/slowjs](https://github.com/hsiaosiyuan0/slowjs)|Learning the awesome QuickJS|40|2023-12-12|2023-02-04|
 |28|[dmaivel/sharedgl](https://github.com/dmaivel/sharedgl)|An OpenGL implementation built for shared memory and networks, enabling 3D acceleration in virtual machines and across devices on LAN|38|2023-12-03|2023-08-01|
 |29|[Yu-Maryland/Gamora](https://github.com/Yu-Maryland/Gamora)|Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks (DAC'23)|37|2023-10-19|2023-04-10|

@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[k0kubun/ruby-jit-challenge](https://github.com/k0kubun/ruby-jit-challenge)|Tutorial to write a Ruby JIT|143|2023-09-23|2023-05-13|
+|1|[k0kubun/ruby-jit-challenge](https://github.com/k0kubun/ruby-jit-challenge)|Tutorial to write a Ruby JIT|144|2023-09-23|2023-05-13|
 |2|[yshmarov/hotwire-cookbook](https://github.com/yshmarov/hotwire-cookbook)|Rails World Hotwire Cookbook. VIEW THE PULL REQUESTS. Feel free to comment|121|2023-11-03|2023-10-01|
 |3|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|100|2023-11-25|2023-11-25|
 |4|[jackyangzzh/XR-Design-Handbook](https://github.com/jackyangzzh/XR-Design-Handbook)|One-stop-shop for XR Design Guidelines 🏪|50|2023-11-25|2023-07-22|
 |5|[discourse/discourse-activity-pub](https://github.com/discourse/discourse-activity-pub)|Adds ActivityPub support to Discourse.|47|2024-01-15|2023-03-09|
-|6|[merefield/discourse-chatbot](https://github.com/merefield/discourse-chatbot)|An AI bot with RAG capability for Topics and Chat in Discourse, currently powered by OpenAI|42|2024-01-05|2023-02-06|
+|6|[merefield/discourse-chatbot](https://github.com/merefield/discourse-chatbot)|An AI bot with RAG capability for Topics and Chat in Discourse, currently powered by OpenAI|42|2024-01-15|2023-02-06|
 |7|[shohey1226/llm_memory](https://github.com/shohey1226/llm_memory)|A Ruby Gem for LLMs like ChatGPT to have memory using in-context learning|36|2023-11-20|2023-05-01|
 |8|[Acceis/vulnerable-code-snippets](https://github.com/Acceis/vulnerable-code-snippets)|Vulnerable code snippets repository showcasing different vulnerabilities to practice code analysis skills.|20|2023-09-04|2023-02-06|
 |9|[ab-noori/Enumerable](https://github.com/ab-noori/Enumerable)|Throughout the project, the team learned how to utilize a module within a class. We designed a class called MyList and incorporated a module named MyEnumerable, which implemented a limited set of func ...|18|2023-07-21|2023-07-20|

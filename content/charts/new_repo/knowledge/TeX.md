@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1352|2024-01-08|2023-08-10|
-|2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|490|2024-01-04|2023-07-04|
+|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1354|2024-01-08|2023-08-10|
+|2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|491|2024-01-04|2023-07-04|
 |3|[edoliberty/vector-search-class-notes](https://github.com/edoliberty/vector-search-class-notes)|Class notes for the course "Long Term Memory in AI - Vector Search and Databases" COS 597A @ Princeton Fall 2023|285|2023-11-18|2023-01-22|
-|4|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|277|2024-01-08|2023-01-24|
-|5|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|169|2024-01-11|2023-09-06|
+|4|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|278|2024-01-08|2023-01-24|
+|5|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|170|2024-01-11|2023-09-06|
 |6|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|114|2023-11-28|2023-08-30|
 |7|[royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide)|Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.|113|2024-01-12|2023-05-14|
 |8|[ai4eda/awesome-AI4EDA](https://github.com/ai4eda/awesome-AI4EDA)|This repo awesome-AI4EDA contains the source for the webpage: https://ai4eda.github.io, which is a curated paper list of awesome AI for EDA.|77|2024-01-05|2023-02-14|
-|9|[AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)|A curated list of self-driving laboratories that combine hardware automation and artificial intelligence to accelerate scientific discovery.|74|2024-01-05|2023-03-15|
-|10|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |73|2023-11-18|2023-09-06|
+|9|[AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)|A curated list of self-driving laboratories that combine hardware automation and artificial intelligence to accelerate scientific discovery.|74|2024-01-16|2023-03-15|
+|10|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |73|2024-01-16|2023-09-06|
 |11|[mattblackwell/gov2002-book](https://github.com/mattblackwell/gov2002-book)|Course notes for part of Gov 2002 at Harvard|71|2024-01-06|2023-01-18|
-|12|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|70|2023-12-12|2023-03-02|
-|13|[Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing](https://github.com/Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing)|All documents related to my master thesis|49|2023-10-24|2023-08-21|
-|14|[rafalab/dsbook-part-1](https://github.com/rafalab/dsbook-part-1)|Repository for Introduction to Data Science Book|34|2024-01-04|2023-05-17|
-|15|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|30|2024-01-14|2024-01-02|
+|12|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|70|2024-01-16|2023-03-02|
+|13|[Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing](https://github.com/Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing)|All documents related to my master thesis|48|2023-10-24|2023-08-21|
+|14|[rafalab/dsbook-part-1](https://github.com/rafalab/dsbook-part-1)|Repository for Introduction to Data Science Book|36|2024-01-04|2023-05-17|
+|15|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|32|2024-01-16|2024-01-02|
 |16|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|30|2024-01-15|2023-06-07|
 |17|[rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)|Repository for Advanced Data Science Book|28|2024-01-08|2023-06-27|
 |18|[RakitinDen/ODE-SDE-Generative-Models](https://github.com/RakitinDen/ODE-SDE-Generative-Models)|Tutorial on generative models based on ordinary (ODE) and stochastic (SDE) differential equations|26|2023-11-14|2023-07-26|
@@ -27,7 +27,7 @@
 |20|[yegor256/painofoop](https://github.com/yegor256/painofoop)|Object-oriented programming is a pain if we do it wrong: Lecture Notes for a BSc course |21|2024-01-04|2023-04-02|
 |21|[quantumghent/TensorTutorials](https://github.com/quantumghent/TensorTutorials)|Jupyter book repository for tutorials of tensor network methods|20|2023-10-19|2023-08-12|
 |22|[CaptainSifff/paper_teaching-learning-RSE](https://github.com/CaptainSifff/paper_teaching-learning-RSE)|Output of the de-RSE 2023 Conference Workshop on "Teaching and Learning Research Software Engineering"|20|2023-12-18|2023-02-15|
-|23|[pedrampasandide1993/Computer-Science-Practice-and-Experience-Development-Basics](https://github.com/pedrampasandide1993/Computer-Science-Practice-and-Experience-Development-Basics)|McMaster University, Computer Science Practice and Experience: Development Basics (COMPSCI 1XC3)|18|2024-01-11|2023-06-16|
+|23|[pedrampasandide1993/Computer-Science-Practice-and-Experience-Development-Basics](https://github.com/pedrampasandide1993/Computer-Science-Practice-and-Experience-Development-Basics)|McMaster University, Computer Science Practice and Experience: Development Basics (COMPSCI 1XC3)|19|2024-01-11|2023-06-16|
 |24|[angeris/spla-repo](https://github.com/angeris/spla-repo)|A small repository containing the TeX code for the Succinct Proofs and Linear Algebra study session's slides and homework|17|2023-12-16|2023-11-29|
 |25|[pbloem/pca-book](https://github.com/pbloem/pca-book)|Source files for a book on Principal component analysis|15|2024-01-13|2023-07-01|
 |26|[zhangce01/Linear-Algebra-SUSTech](https://github.com/zhangce01/Linear-Algebra-SUSTech)|Related Materials for the Linear Algebra Course in Southern University of Science and Technology (SUSTech).|14|2023-09-21|2023-09-21|
@@ -51,14 +51,14 @@
 |44|[datasciencecampus/coding-in-the-open](https://github.com/datasciencecampus/coding-in-the-open)|A compendium of open-source guidance which aims to share the benefits, risks and a summarised strategy for open-source coding.|8|2023-11-09|2023-04-27|
 |45|[stephane-caron/motion-planning](https://github.com/stephane-caron/motion-planning)|Course on motion planning|7|2023-10-11|2023-10-10|
 |46|[alexsnow348/learning-notes](https://github.com/alexsnow348/learning-notes)|All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language |7|2024-01-12|2023-07-31|
-|47|[wangheyu/DSA](https://github.com/wangheyu/DSA)|Data Structures and Algorithms|7|2024-01-08|2023-07-29|
-|48|[abyanmajid/notes](https://github.com/abyanmajid/notes)|A collection of my study notes and cheatsheets|7|2024-01-12|2023-05-20|
-|49|[atticusrussell/RIT-CE-toolbox](https://github.com/atticusrussell/RIT-CE-toolbox)|A collection of tools created by RIT Computer Engineering students and alumni to make students' lives easier|7|2023-10-28|2023-02-20|
-|50|[IDMIL/off-nime](https://github.com/IDMIL/off-nime)|Nime papers, chapters and books published outside of the NIME Conference proceedings|7|2024-01-05|2023-01-29|
-|51|[WilliamLi0623/PHCS-Course](https://github.com/WilliamLi0623/PHCS-Course)|Handouts and Codes of PHCS Courses|6|2023-11-24|2023-10-10|
-|52|[timrentenaar/DWDA](https://github.com/timrentenaar/DWDA)|Data Wrangling and Data Analysis - Exam study material|6|2023-11-09|2023-09-27|
-|53|[chunglim/foolmath](https://github.com/chunglim/foolmath)|Collection of math fool proofs or weird properties|6|2023-12-29|2023-08-08|
-|54|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |6|2023-11-27|2023-08-06|
+|47|[abyanmajid/notes](https://github.com/abyanmajid/notes)|A collection of my study notes and cheatsheets|7|2024-01-12|2023-05-20|
+|48|[atticusrussell/RIT-CE-toolbox](https://github.com/atticusrussell/RIT-CE-toolbox)|A collection of tools created by RIT Computer Engineering students and alumni to make students' lives easier|7|2023-10-28|2023-02-20|
+|49|[IDMIL/off-nime](https://github.com/IDMIL/off-nime)|Nime papers, chapters and books published outside of the NIME Conference proceedings|7|2024-01-05|2023-01-29|
+|50|[WilliamLi0623/PHCS-Course](https://github.com/WilliamLi0623/PHCS-Course)|Handouts and Codes of PHCS Courses|6|2023-11-24|2023-10-10|
+|51|[timrentenaar/DWDA](https://github.com/timrentenaar/DWDA)|Data Wrangling and Data Analysis - Exam study material|6|2023-11-09|2023-09-27|
+|52|[chunglim/foolmath](https://github.com/chunglim/foolmath)|Collection of math fool proofs or weird properties|6|2023-12-29|2023-08-08|
+|53|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |6|2023-11-27|2023-08-06|
+|54|[wangheyu/DSA](https://github.com/wangheyu/DSA)|Data Structures and Algorithms|6|2024-01-08|2023-07-29|
 |55|[yannmclatchie/preprint-template](https://github.com/yannmclatchie/preprint-template)|A collection of LaTeX preprint templates|6|2023-12-15|2023-07-25|
 |56|[yykphy/yk-snnu-thesis](https://github.com/yykphy/yk-snnu-thesis)|Shaanxi Normal University PhD/Master's Thesis LaTeX Template|6|2023-07-18|2023-07-17|
 |57|[yegor256/pmba](https://github.com/yegor256/pmba)|Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023|6|2024-01-04|2023-07-03|
@@ -76,7 +76,7 @@
 |69|[shanemcq18/utexas-thesis-template](https://github.com/shanemcq18/utexas-thesis-template)|Unofficial LaTeX template for master's theses and doctoral dissertations at The University of Texas at Austin.|5|2023-08-02|2023-01-19|
 |70|[aml4td/exercises](https://github.com/aml4td/exercises)|Machine learning exercises with tabular data|4|2023-12-12|2023-11-23|
 |71|[Eyotoye/Probability-Statistics-Stochastic_Processes](https://github.com/Eyotoye/Probability-Statistics-Stochastic_Processes)|Handouts for Prof. Tang's courses "Probability and Statistics" and "Probability and Stochastic Processes" at Tsinghua University, in simplified Chinese.|4|2024-01-15|2023-11-05|
-|72|[sigtyp/ST2024](https://github.com/sigtyp/ST2024)|SIGTYP 2024 Shared Task on Word Embedding Evaluation for Ancient and Historical Languages|4|2024-01-12|2023-10-30|
+|72|[sigtyp/ST2024](https://github.com/sigtyp/ST2024)|SIGTYP 2024 Shared Task on Word Embedding Evaluation for Ancient and Historical Languages|4|2024-01-16|2023-10-30|
 |73|[ZhangXuanxi/Vscode-LaTex-config](https://github.com/ZhangXuanxi/Vscode-LaTex-config)|Fast Guide and Configuration Information for Compiling LaTeX with VSCode|4|2023-10-21|2023-10-21|
 |74|[nopperl/clip_arxiv_pmc](https://github.com/nopperl/clip_arxiv_pmc)|Training CLIP models on Data from Scientific Papers|4|2023-11-09|2023-09-11|
 |75|[IOBR/book](https://github.com/IOBR/book)|The tutorial of IOBR package|4|2024-01-11|2023-08-24|
@@ -90,31 +90,32 @@
 |83|[jorainer/xcmsTutorials](https://github.com/jorainer/xcmsTutorials)|Tutorials and workshops describing LC-MS(/MS) data pre-processing and analysis using the xcms Bioconductor package|4|2023-12-05|2023-05-25|
 |84|[bit2r/bitPublish](https://github.com/bit2r/bitPublish)|Quarto extension for a template to publish a PDF book with LaTeX styling.|4|2023-12-03|2023-04-24|
 |85|[AtticusKuhn/parallel-algorithms](https://github.com/AtticusKuhn/parallel-algorithms)|Proving the correctness and performance of certain parallel algorithms|4|2023-08-12|2023-04-05|
-|86|[ProfDavisSmith/QuestionsWeHave](https://github.com/ProfDavisSmith/QuestionsWeHave)|This is an Intro to Philosophy OER Textbook.|4|2023-09-22|2023-03-02|
-|87|[tchara/StADD-Thesis](https://github.com/tchara/StADD-Thesis)|Thesis Template for Engineering Degrees at State Study Academy Dresden|4|2023-10-09|2023-02-08|
-|88|[shinyypig/Simple-Paper](https://github.com/shinyypig/Simple-Paper)|A simple template for writing academic papers.|4|2023-11-14|2023-01-30|
-|89|[synlp/T2V-Review](https://github.com/synlp/T2V-Review)|A collection of text-to-video generation studies.|3|2024-01-13|2024-01-12|
-|90|[burakcaferler/Heuristic-Algorithms_GUI](https://github.com/burakcaferler/Heuristic-Algorithms_GUI)|Comparing Heuristic Algorithms with their plot in GUI using PyQT5|3|2024-01-06|2023-12-10|
-|91|[cpe-kmutt-student/latex-report-template](https://github.com/cpe-kmutt-student/latex-report-template)|Collection of various report templates for uses within CPE department|3|2023-12-16|2023-12-09|
-|92|[michielskobe/global-challenges](https://github.com/michielskobe/global-challenges)|This is a summary of the Massive Open Online Course (MOOC) 'KULeuvenX: Global Challenges for a Sustainable Society', based on the provided study guides part of the Engineering and Sustainability: Phil ...|3|2023-12-31|2023-12-03|
-|93|[christopherwilson/cat-cheatsheet](https://github.com/christopherwilson/cat-cheatsheet)|An exam sheet for UoE's 2023 Category Theory course.|3|2023-12-18|2023-11-30|
-|94|[Dolfost/math-cheatsheets](https://github.com/Dolfost/math-cheatsheets)|Math cheatsheets|3|2023-10-04|2023-09-15|
-|95|[dbindel/nmds](https://github.com/dbindel/nmds)|Numerical Methods for Data Science book material|3|2023-09-12|2023-09-07|
-|96|[bdemeshev/tssp_2023-24](https://github.com/bdemeshev/tssp_2023-24)|Time Series and Stochastic Process Course|3|2023-11-30|2023-09-06|
-|97|[t1d333/TFL](https://github.com/t1d333/TFL)|Laboratory work for the course Theory of Formal Languages|3|2024-01-10|2023-09-02|
-|98|[YunyiShen/ecology-journals-latex](https://github.com/YunyiShen/ecology-journals-latex)|Collection of latex templates for ecology journals|3|2023-08-29|2023-08-29|
-|99|[kapelner/QC_MATH_340_Fall_2023](https://github.com/kapelner/QC_MATH_340_Fall_2023)|Course Homepage for Math 340 / 640 Probability Theory for Data Science and Statistics at Queens College|3|2023-12-20|2023-08-22|
-|100|[eggdropsoap/BW-Bookmarks](https://github.com/eggdropsoap/BW-Bookmarks)|Add bookmarks to the official digital BW book(s)|3|2023-08-13|2023-08-07|
-|101|[IUDataStructuresCourse/course-web-page-fall-2023](https://github.com/IUDataStructuresCourse/course-web-page-fall-2023)|Web page for the Data Structures course, H343 Fall 2023|3|2024-01-08|2023-08-05|
-|102|[LesleyLai/TPL-2023](https://github.com/LesleyLai/TPL-2023)|Repository for "Programming Languages Virtual Meetup" meetings of the "Types and Programming Languages" book|3|2023-08-09|2023-07-19|
-|103|[PCodeXbro/QuantInternshipSearchSummer2024](https://github.com/PCodeXbro/QuantInternshipSearchSummer2024)|Personal notes regarding my internship search, uploaded to github to share with some colleagues who are aiding in my search. Please contact me if you would like your name removed from one of my lists.|3|2023-09-13|2023-07-08|
-|104|[JeremyDForsythe/icecream-tutorials](https://github.com/JeremyDForsythe/icecream-tutorials)|Tutorials for Earth from Above: Env 329  Using NASA Satellite Data (ECOSTRESS) for Real-Time Environmental Monitoring|3|2023-11-02|2023-06-26|
-|105|[dyang5/REU-CAAR](https://github.com/dyang5/REU-CAAR)|Blog and Notes from my summer research experience at REU-CAAR (Research Experience for Undergraduates: Combinatorics, Algorithms, and AI for Real Problems) at College Park, Maryland in the Summer of 2 ...|3|2023-08-27|2023-06-06|
-|106|[avalur/math_for_ds](https://github.com/avalur/math_for_ds)|Math for data science learning course at Neapolis University Paphos, CS, spring 2023.|3|2023-08-21|2023-04-06|
-|107|[its-DomeE/DHBW-English-Latex-Template](https://github.com/its-DomeE/DHBW-English-Latex-Template)|DHBW Latex template for Bachelor's thesis or other papers in English|3|2023-09-07|2023-04-01|
-|108|[iakop/IoT-Crashcourse](https://github.com/iakop/IoT-Crashcourse)|IoT Crashcourse for Begyndere - Med ESP32|3|2024-01-15|2023-03-13|
-|109|[pglpm/ADA511](https://github.com/pglpm/ADA511)|Material for course ADA511 at HVL|3|2024-01-11|2023-02-20|
-|110|[riscv-non-isa/iopmp-spec](https://github.com/riscv-non-isa/iopmp-spec)|This repository contains the specification source for the RISC-V IOPMP Specification.  This document proposes a Physical Memory Protection Unit of Input/Output devices, IOPMP for short, to regulate th ...|3|2023-12-05|2023-02-06|
+|86|[iakop/IoT-Crashcourse](https://github.com/iakop/IoT-Crashcourse)|IoT Crashcourse for Begyndere - Med ESP32|4|2024-01-16|2023-03-13|
+|87|[ProfDavisSmith/QuestionsWeHave](https://github.com/ProfDavisSmith/QuestionsWeHave)|This is an Intro to Philosophy OER Textbook.|4|2023-09-22|2023-03-02|
+|88|[tchara/StADD-Thesis](https://github.com/tchara/StADD-Thesis)|Thesis Template for Engineering Degrees at State Study Academy Dresden|4|2023-10-09|2023-02-08|
+|89|[shinyypig/Simple-Paper](https://github.com/shinyypig/Simple-Paper)|A simple template for writing academic papers.|4|2023-11-14|2023-01-30|
+|90|[synlp/T2V-Review](https://github.com/synlp/T2V-Review)|A collection of text-to-video generation studies.|3|2024-01-13|2024-01-12|
+|91|[burakcaferler/Heuristic-Algorithms_GUI](https://github.com/burakcaferler/Heuristic-Algorithms_GUI)|Comparing Heuristic Algorithms with their plot in GUI using PyQT5|3|2024-01-06|2023-12-10|
+|92|[cpe-kmutt-student/latex-report-template](https://github.com/cpe-kmutt-student/latex-report-template)|Collection of various report templates for uses within CPE department|3|2023-12-16|2023-12-09|
+|93|[michielskobe/global-challenges](https://github.com/michielskobe/global-challenges)|This is a summary of the Massive Open Online Course (MOOC) 'KULeuvenX: Global Challenges for a Sustainable Society', based on the provided study guides part of the Engineering and Sustainability: Phil ...|3|2023-12-31|2023-12-03|
+|94|[christopherwilson/cat-cheatsheet](https://github.com/christopherwilson/cat-cheatsheet)|An exam sheet for UoE's 2023 Category Theory course.|3|2023-12-18|2023-11-30|
+|95|[Dolfost/math-cheatsheets](https://github.com/Dolfost/math-cheatsheets)|Math cheatsheets|3|2023-10-04|2023-09-15|
+|96|[dbindel/nmds](https://github.com/dbindel/nmds)|Numerical Methods for Data Science book material|3|2023-09-12|2023-09-07|
+|97|[bdemeshev/tssp_2023-24](https://github.com/bdemeshev/tssp_2023-24)|Time Series and Stochastic Process Course|3|2023-11-30|2023-09-06|
+|98|[t1d333/TFL](https://github.com/t1d333/TFL)|Laboratory work for the course Theory of Formal Languages|3|2024-01-10|2023-09-02|
+|99|[YunyiShen/ecology-journals-latex](https://github.com/YunyiShen/ecology-journals-latex)|Collection of latex templates for ecology journals|3|2023-08-29|2023-08-29|
+|100|[kapelner/QC_MATH_340_Fall_2023](https://github.com/kapelner/QC_MATH_340_Fall_2023)|Course Homepage for Math 340 / 640 Probability Theory for Data Science and Statistics at Queens College|3|2023-12-20|2023-08-22|
+|101|[eggdropsoap/BW-Bookmarks](https://github.com/eggdropsoap/BW-Bookmarks)|Add bookmarks to the official digital BW book(s)|3|2023-08-13|2023-08-07|
+|102|[IUDataStructuresCourse/course-web-page-fall-2023](https://github.com/IUDataStructuresCourse/course-web-page-fall-2023)|Web page for the Data Structures course, H343 Fall 2023|3|2024-01-08|2023-08-05|
+|103|[LesleyLai/TPL-2023](https://github.com/LesleyLai/TPL-2023)|Repository for "Programming Languages Virtual Meetup" meetings of the "Types and Programming Languages" book|3|2023-08-09|2023-07-19|
+|104|[PCodeXbro/QuantInternshipSearchSummer2024](https://github.com/PCodeXbro/QuantInternshipSearchSummer2024)|Personal notes regarding my internship search, uploaded to github to share with some colleagues who are aiding in my search. Please contact me if you would like your name removed from one of my lists.|3|2023-09-13|2023-07-08|
+|105|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|3|2024-01-16|2023-06-30|
+|106|[JeremyDForsythe/icecream-tutorials](https://github.com/JeremyDForsythe/icecream-tutorials)|Tutorials for Earth from Above: Env 329  Using NASA Satellite Data (ECOSTRESS) for Real-Time Environmental Monitoring|3|2023-11-02|2023-06-26|
+|107|[dyang5/REU-CAAR](https://github.com/dyang5/REU-CAAR)|Blog and Notes from my summer research experience at REU-CAAR (Research Experience for Undergraduates: Combinatorics, Algorithms, and AI for Real Problems) at College Park, Maryland in the Summer of 2 ...|3|2023-08-27|2023-06-06|
+|108|[avalur/math_for_ds](https://github.com/avalur/math_for_ds)|Math for data science learning course at Neapolis University Paphos, CS, spring 2023.|3|2023-08-21|2023-04-06|
+|109|[its-DomeE/DHBW-English-Latex-Template](https://github.com/its-DomeE/DHBW-English-Latex-Template)|DHBW Latex template for Bachelor's thesis or other papers in English|3|2023-09-07|2023-04-01|
+|110|[pglpm/ADA511](https://github.com/pglpm/ADA511)|Material for course ADA511 at HVL|3|2024-01-11|2023-02-20|
+|111|[riscv-non-isa/iopmp-spec](https://github.com/riscv-non-isa/iopmp-spec)|This repository contains the specification source for the RISC-V IOPMP Specification.  This document proposes a Physical Memory Protection Unit of Input/Output devices, IOPMP for short, to regulate th ...|3|2023-12-05|2023-02-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1447|2024-01-15|2023-08-07|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1451|2024-01-15|2023-08-07|
 |2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|528|2023-11-23|2023-03-04|
-|3|[hiteshchoudhary/React-native-projects](https://github.com/hiteshchoudhary/React-native-projects)|Learn React native with this free series on youtube (powered by Hashnode)|281|2024-01-11|2023-02-10|
+|3|[hiteshchoudhary/React-native-projects](https://github.com/hiteshchoudhary/React-native-projects)|Learn React native with this free series on youtube (powered by Hashnode)|288|2024-01-11|2023-02-10|
 |4|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|158|2023-08-31|2023-06-02|
 |5|[Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks)|JDBC Attack Tricks|130|2023-09-03|2023-09-02|
 |6|[RedisVentures/redis-ai-resources](https://github.com/RedisVentures/redis-ai-resources)|✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.|113|2023-10-31|2023-02-02|
-|7|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|92|2024-01-11|2023-07-10|
-|8|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|85|2024-01-10|2023-11-27|
+|7|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|98|2024-01-11|2023-07-10|
+|8|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|86|2024-01-10|2023-11-27|
 |9|[yanaga/revisiting-design-patterns](https://github.com/yanaga/revisiting-design-patterns)|Revisiting some popular Design Patterns using Java 20+ features|75|2023-10-02|2023-03-16|
 |10|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|63|2024-01-12|2023-08-21|
 |11|[devtiro/course-spring-boot](https://github.com/devtiro/course-spring-boot)|Source Code for the Spring Boot Course|63|2023-08-09|2023-06-06|
-|12|[ballerina-platform/module-ballerinax-copybook](https://github.com/ballerina-platform/module-ballerinax-copybook)|This Ballerina module facilitates the conversion of copybook data to JSON and vice versa.|57|2024-01-10|2023-10-24|
-|13|[Osmerion/OneTrickPony](https://github.com/Osmerion/OneTrickPony)|OneTrickPony is a modern Java library that implements support for One-Time Passwords. Built-In support is provided for the HOTP (RFC 4226) and TOTP (RFC 6238) algorithms.|57|2024-01-06|2023-01-26|
-|14|[ballerina-platform/copybook-tools](https://github.com/ballerina-platform/copybook-tools)|The Copybook tool simplifies the process of transforming Copybook definitions into Ballerina code.|56|2023-12-21|2023-10-24|
+|12|[Osmerion/OneTrickPony](https://github.com/Osmerion/OneTrickPony)|OneTrickPony is a modern Java library that implements support for One-Time Passwords. Built-In support is provided for the HOTP (RFC 4226) and TOTP (RFC 6238) algorithms.|57|2024-01-15|2023-01-26|
+|13|[ballerina-platform/module-ballerinax-copybook](https://github.com/ballerina-platform/module-ballerinax-copybook)|This Ballerina module facilitates the conversion of copybook data to JSON and vice versa.|56|2024-01-10|2023-10-24|
+|14|[ballerina-platform/copybook-tools](https://github.com/ballerina-platform/copybook-tools)|The Copybook tool simplifies the process of transforming Copybook definitions into Ballerina code.|55|2023-12-21|2023-10-24|
 |15|[redplanetlabs/rama-demo-gallery](https://github.com/redplanetlabs/rama-demo-gallery)|Collection of short, self-contained, thoroughly commented demos of using Rama towards a variety of use cases|55|2023-12-26|2023-08-27|
 |16|[1415181920/yamis-admin](https://github.com/1415181920/yamis-admin)|🎈 Yamis Admin: A backend framework developed based on Java and Amis, with a user-friendly component usage experience that allows for easy implementation of complex pages, built-in code generator, and  ...|51|2023-11-27|2023-10-09|
 |17|[Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X)|Repository for my Forge 1.20.X Tutorial Series on YouTube. Playlist link below!|49|2023-11-19|2023-06-27|
@@ -29,7 +29,9 @@
 |22|[arash691/spring-core-tutorial](https://github.com/arash691/spring-core-tutorial)|In this tutorial, we will cover all the important concepts, best practices, and advanced topics related to Spring Core.|37|2023-10-20|2023-02-17|
 |23|[aksashu000/Kafka_Tutorial](https://github.com/aksashu000/Kafka_Tutorial)|This project will help the beginners learn Kafka with ease.|36|2023-09-12|2023-04-06|
 |24|[huzpsb/JavaObfuscatorTest](https://github.com/huzpsb/JavaObfuscatorTest)|A list of Java obfuscators, obfuscated samples and benchmarks.|35|2023-09-10|2023-05-13|
-|25|[minosvasilias/AIWP](https://github.com/minosvasilias/AIWP)|AI-generated, context-aware wallpapers|32|2023-11-28|2023-11-19|
+|25|[redplanetlabs/rama-examples](https://github.com/redplanetlabs/rama-examples)|Examples from the Rama documentation|34|2023-12-26|2023-08-20|
+|26|[nzaeta/SecurityJWT](https://github.com/nzaeta/SecurityJWT)|Tutorial de Spring Security - JWT - Roles de usuario - CORS|33|2023-12-03|2023-11-26|
+|27|[minosvasilias/AIWP](https://github.com/minosvasilias/AIWP)|AI-generated, context-aware wallpapers|32|2023-11-28|2023-11-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

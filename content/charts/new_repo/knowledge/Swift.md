@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1797|2024-01-10|2023-06-14|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1798|2024-01-10|2023-06-14|
 |2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|177|2023-10-10|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|144|2023-10-23|2023-10-04|
 |4|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|123|2024-01-01|2023-07-12|
-|5|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|117|2024-01-14|2023-07-28|
+|5|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|118|2024-01-14|2023-07-28|
 |6|[trozware/To-Day](https://github.com/trozware/To-Day)|Simple daily todo checklist for Mac.|90|2024-01-15|2023-01-19|
 |7|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|86|2024-01-05|2023-06-05|
 |8|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|75|2024-01-12|2023-12-01|
 |9|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|61|2023-09-30|2023-09-30|
-|10|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|53|2023-12-21|2023-12-16|
+|10|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|54|2023-12-21|2023-12-16|
 |11|[rkmtlab/LipLearner](https://github.com/rkmtlab/LipLearner)|Research repository for LipLearner: Customizable Silent Speech Interactions on Mobile Devices (CHI 2023).|44|2023-11-08|2023-02-15|
 |12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|43|2023-11-12|2023-09-28|
 |13|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|39|2023-12-21|2023-06-19|
@@ -54,7 +54,7 @@
 |47|[JavierLaguna/VisionOSMusic](https://github.com/JavierLaguna/VisionOSMusic)|Project used for learn SwiftUI on xrOS and Reality Composer Pro|7|2023-12-20|2023-07-25|
 |48|[salihkertik/365-day-of-code-with-swift](https://github.com/salihkertik/365-day-of-code-with-swift)|It epitomizes my journey from the beginning to the end of my Swift learning story.|7|2023-12-06|2023-07-08|
 |49|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S and macOS clients that consumes shared KMM code as Swift Package|7|2023-12-15|2023-06-16|
-|50|[tomtom-international/tomtom-navigation-ios-examples](https://github.com/tomtom-international/tomtom-navigation-ios-examples)|TomTom Navigation SDK examples|7|2024-01-03|2023-02-13|
+|50|[tomtom-international/tomtom-navigation-ios-examples](https://github.com/tomtom-international/tomtom-navigation-ios-examples)|TomTom Navigation SDK examples|7|2024-01-15|2023-02-13|
 |51|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|6|2023-09-13|2023-09-11|
 |52|[sparrowcode/SwiftUIExtension](https://github.com/sparrowcode/SwiftUIExtension)|Collection of SwiftUI extensions to boost development process.|6|2024-01-15|2023-08-31|
 |53|[elkraneo/A11Y-SC-NYC](https://github.com/elkraneo/A11Y-SC-NYC)|A workshop on how to implement visionOS accessibility features.|6|2023-10-03|2023-07-30|

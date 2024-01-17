@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > JavaScript
-<sub>Updated: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[facebook/react](https://github.com/facebook/react)|The library for web and native user interfaces.|217339|2024-01-14|
-|2|[vuejs/vue](https://github.com/vuejs/vue)|This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core|206144|2024-01-13|
-|3|[twbs/bootstrap](https://github.com/twbs/bootstrap)|The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.|166442|2024-01-15|
-|4|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|156383|2024-01-15|
-|5|[vercel/next.js](https://github.com/vercel/next.js)|The React Framework|116707|2024-01-15|
-|6|[facebook/react-native](https://github.com/facebook/react-native)|A framework for building native applications using React|113788|2024-01-15|
-|7|[d3/d3](https://github.com/d3/d3)|Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:|107012|2023-12-29|
-|8|[axios/axios](https://github.com/axios/axios)|Promise based HTTP client for the browser and node.js|103053|2024-01-15|
+|2|[vuejs/vue](https://github.com/vuejs/vue)|This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core|206146|2024-01-13|
+|3|[twbs/bootstrap](https://github.com/twbs/bootstrap)|The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.|166450|2024-01-16|
+|4|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|156455|2024-01-16|
+|5|[vercel/next.js](https://github.com/vercel/next.js)|The React Framework|116763|2024-01-16|
+|6|[facebook/react-native](https://github.com/facebook/react-native)|A framework for building native applications using React|113816|2024-01-16|
+|7|[d3/d3](https://github.com/d3/d3)|Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:|107019|2023-12-29|
+|8|[axios/axios](https://github.com/axios/axios)|Promise based HTTP client for the browser and node.js|103057|2024-01-16|
 |9|[facebook/create-react-app](https://github.com/facebook/create-react-app)|Set up a modern web app by running one command.|101398|2024-01-03|
-|10|[nodejs/node](https://github.com/nodejs/node)|Node.js JavaScript runtime ✨🐢🚀✨|101154|2024-01-15|
-|11|[mrdoob/three.js](https://github.com/mrdoob/three.js)|JavaScript 3D Library.|96871|2024-01-14|
+|10|[nodejs/node](https://github.com/nodejs/node)|Node.js JavaScript runtime ✨🐢🚀✨|101164|2024-01-16|
+|11|[mrdoob/three.js](https://github.com/mrdoob/three.js)|JavaScript 3D Library.|96906|2024-01-16|
 |12|[goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|:white_check_mark:  The Node.js best practices list (December 2023)|94609|2023-12-22|
-|13|[mui/material-ui](https://github.com/mui/material-ui)|MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.|90327|2024-01-14|
-|14|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|A utility-first CSS framework for rapid UI development.|75303|2024-01-15|
-|15|[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|72656|2024-01-14|
-|16|[typicode/json-server](https://github.com/typicode/json-server)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|70018|2024-01-14|
+|13|[mui/material-ui](https://github.com/mui/material-ui)|MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.|90361|2024-01-16|
+|14|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|A utility-first CSS framework for rapid UI development.|75334|2024-01-15|
+|15|[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|72660|2024-01-14|
+|16|[typicode/json-server](https://github.com/typicode/json-server)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|70032|2024-01-14|
 |17|[hakimel/reveal.js](https://github.com/hakimel/reveal.js)|The HTML Presentation Framework|66287|2024-01-10|
 |18|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown|64272|2024-01-14|
-|19|[webpack/webpack](https://github.com/webpack/webpack)|A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM ...|63869|2024-01-15|
-|20|[chartjs/Chart.js](https://github.com/chartjs/Chart.js)|Simple HTML5 Charts using the <canvas> tag|62746|2024-01-09|
+|19|[webpack/webpack](https://github.com/webpack/webpack)|A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM ...|63872|2024-01-16|
+|20|[chartjs/Chart.js](https://github.com/chartjs/Chart.js)|Simple HTML5 Charts using the <canvas> tag|62748|2024-01-09|
 |21|[expressjs/express](https://github.com/expressjs/express)|Fast, unopinionated, minimalist web framework for node.|62724|2024-01-14|
-|22|[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)|:zap: Dynamically generated stats for your github readmes|62422|2024-01-15|
-|23|[strapi/strapi](https://github.com/strapi/strapi)|🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.|58332|2024-01-15|
-|24|[lodash/lodash](https://github.com/lodash/lodash)|A modern JavaScript utility library delivering modularity, performance, & extras.|58275|2024-01-13|
-|25|[jquery/jquery](https://github.com/jquery/jquery)|jQuery JavaScript Library|58260|2024-01-12|
+|22|[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)|:zap: Dynamically generated stats for your github readmes|62445|2024-01-16|
+|23|[strapi/strapi](https://github.com/strapi/strapi)|🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.|58350|2024-01-16|
+|24|[lodash/lodash](https://github.com/lodash/lodash)|A modern JavaScript utility library delivering modularity, performance, & extras.|58278|2024-01-13|
+|25|[jquery/jquery](https://github.com/jquery/jquery)|jQuery JavaScript Library|58269|2024-01-12|
 |26|[h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)|A professional front-end template for building fast, robust, and adaptable web apps or sites.|55640|2024-01-12|
 |27|[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)|The best React-based framework with performance, scalability and security built in.|54904|2024-01-10|
-|28|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|50913|2023-12-08|
-|29|[nuxt/nuxt](https://github.com/nuxt/nuxt)|The Intuitive Vue Framework.|49726|2024-01-15|
-|30|[juliangarnier/anime](https://github.com/juliangarnier/anime)|JavaScript animation engine|48058|2023-11-28|
-|31|[moment/moment](https://github.com/moment/moment)|Parse, validate, manipulate, and display dates in javascript.|47666|2024-01-10|
-|32|[prettier/prettier](https://github.com/prettier/prettier)|Prettier is an opinionated code formatter.|47605|2024-01-15|
-|33|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|47021|2023-10-23|
-|34|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |45725|2024-01-04|
-|35|[algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|45675|2023-12-14|
-|36|[cypress-io/cypress](https://github.com/cypress-io/cypress)|Fast, easy and reliable testing for anything that runs in a browser.|45616|2024-01-13|
-|37|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|45093|2024-01-15|
+|28|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|50914|2023-12-08|
+|29|[nuxt/nuxt](https://github.com/nuxt/nuxt)|The Intuitive Vue Framework.|49747|2024-01-16|
+|30|[juliangarnier/anime](https://github.com/juliangarnier/anime)|JavaScript animation engine|48068|2023-11-28|
+|31|[moment/moment](https://github.com/moment/moment)|Parse, validate, manipulate, and display dates in javascript.|47667|2024-01-10|
+|32|[prettier/prettier](https://github.com/prettier/prettier)|Prettier is an opinionated code formatter.|47615|2024-01-16|
+|33|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|47022|2023-10-23|
+|34|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |45734|2024-01-04|
+|35|[algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|45679|2023-12-14|
+|36|[cypress-io/cypress](https://github.com/cypress-io/cypress)|Fast, easy and reliable testing for anything that runs in a browser.|45620|2024-01-16|
+|37|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|45099|2024-01-15|
 |38|[mozilla/pdf.js](https://github.com/mozilla/pdf.js)|PDF Reader in JavaScript|45055|2024-01-14|
-|39|[TryGhost/Ghost](https://github.com/TryGhost/Ghost)|Independent technology for modern publishing, memberships, subscriptions and newsletters.|44892|2024-01-15|
+|39|[TryGhost/Ghost](https://github.com/TryGhost/Ghost)|Independent technology for modern publishing, memberships, subscriptions and newsletters.|44895|2024-01-15|
 |40|[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|44872|2024-01-12|
-|41|[iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)|Bypass Paywalls web browser extension for Chrome and Firefox.|44637|2023-10-20|
-|42|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|44325|2024-01-14|
-|43|[meteor/meteor](https://github.com/meteor/meteor)|Meteor, the JavaScript App Platform|43919|2024-01-14|
-|44|[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)|AdminLTE - Free admin dashboard template based on Bootstrap 5|43293|2024-01-10|
-|45|[marktext/marktext](https://github.com/marktext/marktext)|📝A simple and elegant markdown editor, available for Linux, macOS and Windows.|43133|2024-01-02|
-|46|[parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)|The zero configuration build tool for the web. 📦🚀|42897|2024-01-15|
-|47|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|41729|2023-12-23|
-|48|[yarnpkg/yarn](https://github.com/yarnpkg/yarn)|The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry|41294|2024-01-10|
+|41|[iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)|Bypass Paywalls web browser extension for Chrome and Firefox.|44656|2023-10-20|
+|42|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|44407|2024-01-15|
+|43|[meteor/meteor](https://github.com/meteor/meteor)|Meteor, the JavaScript App Platform|43920|2024-01-16|
+|44|[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)|AdminLTE - Free admin dashboard template based on Bootstrap 5|43296|2024-01-15|
+|45|[marktext/marktext](https://github.com/marktext/marktext)|📝A simple and elegant markdown editor, available for Linux, macOS and Windows.|43161|2024-01-02|
+|46|[parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)|The zero configuration build tool for the web. 📦🚀|42901|2024-01-16|
+|47|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|41741|2023-12-23|
+|48|[yarnpkg/yarn](https://github.com/yarnpkg/yarn)|The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry|41296|2024-01-10|
 |49|[gorhill/uBlock](https://github.com/gorhill/uBlock)|uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.|41219|2024-01-14|
 |50|[Unitech/pm2](https://github.com/Unitech/pm2)|Node.js Production Process Manager with a built-in Load Balancer.|40177|2024-01-05|
 |51|[nwjs/nw.js](https://github.com/nwjs/nw.js)|Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.|39997|2023-12-25|
-|52|[google/zx](https://github.com/google/zx)|A tool for writing better scripts|39437|2024-01-12|
-|53|[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)|🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦|39227|2024-01-15|
-|54|[Dogfalo/materialize](https://github.com/Dogfalo/materialize)|Materialize, a CSS Framework based on Material Design|38854|2023-12-29|
-|55|[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)|The communications platform that puts data protection first.|38047|2024-01-15|
-|56|[hexojs/hexo](https://github.com/hexojs/hexo)|A fast, simple & powerful blog framework, powered by Node.js.|37977|2024-01-14|
-|57|[quilljs/quill](https://github.com/quilljs/quill)|Quill is a modern WYSIWYG editor built for compatibility and extensibility.|37936|2024-01-15|
-|58|[nolimits4web/swiper](https://github.com/nolimits4web/swiper)|Most modern mobile touch slider with hardware accelerated transitions|37699|2024-01-03|
-|59|[impress/impress.js](https://github.com/impress/impress.js)|It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.|37429|2023-12-30|
+|52|[google/zx](https://github.com/google/zx)|A tool for writing better scripts|39447|2024-01-12|
+|53|[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)|🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦|39233|2024-01-16|
+|54|[Dogfalo/materialize](https://github.com/Dogfalo/materialize)|Materialize, a CSS Framework based on Material Design|38857|2023-12-29|
+|55|[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)|The communications platform that puts data protection first.|38052|2024-01-16|
+|56|[hexojs/hexo](https://github.com/hexojs/hexo)|A fast, simple & powerful blog framework, powered by Node.js.|37984|2024-01-14|
+|57|[quilljs/quill](https://github.com/quilljs/quill)|Quill is a modern WYSIWYG editor built for compatibility and extensibility.|37951|2024-01-16|
+|58|[nolimits4web/swiper](https://github.com/nolimits4web/swiper)|Most modern mobile touch slider with hardware accelerated transitions|37714|2024-01-03|
+|59|[impress/impress.js](https://github.com/impress/impress.js)|It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.|37431|2023-12-30|
 |60|[jgraph/drawio](https://github.com/jgraph/drawio)|draw.io is a JavaScript, client-side editor for general diagramming.|37388|2024-01-09|
-|61|[microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)|A browser based code editor|37038|2024-01-13|
-|62|[videojs/video.js](https://github.com/videojs/video.js)|Video.js - open source HTML5 video player|36726|2024-01-10|
-|63|[phaserjs/phaser](https://github.com/phaserjs/phaser)|Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.|35805|2024-01-15|
-|64|[preactjs/preact](https://github.com/preactjs/preact)|⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.|35626|2024-01-14|
+|61|[microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)|A browser based code editor|37060|2024-01-13|
+|62|[videojs/video.js](https://github.com/videojs/video.js)|Video.js - open source HTML5 video player|36727|2024-01-16|
+|63|[phaserjs/phaser](https://github.com/phaserjs/phaser)|Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.|35812|2024-01-15|
+|64|[preactjs/preact](https://github.com/preactjs/preact)|⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.|35635|2024-01-16|
 |65|[lerna/lerna](https://github.com/lerna/lerna)|:dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.|35164|2024-01-11|
-|66|[alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)|fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple|34884|2023-10-04|
-|67|[koajs/koa](https://github.com/koajs/koa)|Expressive middleware for node.js using ES2017 async functions|34599|2024-01-15|
+|66|[alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)|fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple|34885|2023-10-04|
+|67|[koajs/koa](https://github.com/koajs/koa)|Expressive middleware for node.js using ES2017 async functions|34602|2024-01-15|
 |68|[sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)|A boilerplate for Node.js web applications|34570|2023-12-24|
-|69|[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs|34122|2023-12-05|
-|70|[zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|:scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:|33643|2024-01-09|
-|71|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|33592|2024-01-06|
+|69|[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs|34127|2023-12-05|
+|70|[zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|:scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:|33646|2024-01-09|
+|71|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|33597|2024-01-06|
 |72|[gulpjs/gulp](https://github.com/gulpjs/gulp)|A toolkit to automate & enhance your workflow|32846|2023-09-24|
-|73|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|32804|2023-09-05|
+|73|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|32808|2023-09-05|
 |74|[naptha/tesseract.js](https://github.com/naptha/tesseract.js)|Pure Javascript OCR for more than 100 Languages 📖🎉🖥|32458|2024-01-10|
-|75|[Kong/insomnia](https://github.com/Kong/insomnia)|The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.|32075|2024-01-13|
+|75|[Kong/insomnia](https://github.com/Kong/insomnia)|The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.|32102|2024-01-16|
 |76|[atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)|Beautiful and accessible drag and drop for lists with React|31679|2024-01-09|
-|77|[markedjs/marked](https://github.com/markedjs/marked)|A markdown parser and compiler. Built for speed.|31205|2024-01-15|
-|78|[typicode/husky](https://github.com/typicode/husky)|Git hooks made easy 🐶 woof!|30850|2023-12-12|
-|79|[goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)|The best design tools and plugins for everything 👉|30819|2023-08-14|
-|80|[vuejs/vue-cli](https://github.com/vuejs/vue-cli)|🛠️ webpack-based tooling for Vue.js Development|29746|2024-01-05|
-|81|[fastify/fastify](https://github.com/fastify/fastify)|Fast and low overhead web framework, for Node.js|29612|2024-01-14|
-|82|[airbnb/lottie-web](https://github.com/airbnb/lottie-web)|Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/|29333|2023-12-18|
-|83|[pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)|An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!|29099|2024-01-12|
-|84|[sequelize/sequelize](https://github.com/sequelize/sequelize)|Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.|28772|2024-01-15|
+|77|[markedjs/marked](https://github.com/markedjs/marked)|A markdown parser and compiler. Built for speed.|31215|2024-01-15|
+|78|[typicode/husky](https://github.com/typicode/husky)|Git hooks made easy 🐶 woof!|30857|2023-12-12|
+|79|[goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)|The best design tools and plugins for everything 👉|30834|2023-08-14|
+|80|[vuejs/vue-cli](https://github.com/vuejs/vue-cli)|🛠️ webpack-based tooling for Vue.js Development|29745|2024-01-05|
+|81|[fastify/fastify](https://github.com/fastify/fastify)|Fast and low overhead web framework, for Node.js|29650|2024-01-16|
+|82|[airbnb/lottie-web](https://github.com/airbnb/lottie-web)|Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/|29344|2023-12-18|
+|83|[pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)|An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!|29101|2024-01-12|
+|84|[sequelize/sequelize](https://github.com/sequelize/sequelize)|Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.|28774|2024-01-15|
 |85|[tastejs/todomvc](https://github.com/tastejs/todomvc)|Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more|28383|2024-01-13|
-|86|[vuejs/vuex](https://github.com/vuejs/vuex)|🗃️ Centralized State Management for Vue.js.|28307|2023-11-20|
-|87|[kenwheeler/slick](https://github.com/kenwheeler/slick)|the last carousel you'll ever need|28171|2023-11-20|
+|86|[vuejs/vuex](https://github.com/vuejs/vuex)|🗃️ Centralized State Management for Vue.js.|28309|2023-11-20|
+|87|[kenwheeler/slick](https://github.com/kenwheeler/slick)|the last carousel you'll ever need|28174|2023-11-20|
 |88|[SortableJS/Sortable](https://github.com/SortableJS/Sortable)|Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.|28113|2024-01-14|
-|89|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.|28077|2023-12-15|
-|90|[jashkenas/backbone](https://github.com/jashkenas/backbone)|Give your JS App some Backbone with Models, Views, Collections, and Events|28069|2024-01-10|
-|91|[VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js)|A lightweight JavaScript library for creating particles|28025|2023-09-20|
-|92|[caolan/async](https://github.com/caolan/async)|Async utilities for node and the browser|28009|2024-01-02|
-|93|[parallax/jsPDF](https://github.com/parallax/jsPDF)|Client-side JavaScript PDF generation for everyone.|27892|2024-01-14|
-|94|[transloadit/uppy](https://github.com/transloadit/uppy)|The next open source file uploader for web browsers :dog: |27749|2024-01-15|
+|89|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.|28087|2023-12-15|
+|90|[jashkenas/backbone](https://github.com/jashkenas/backbone)|Give your JS App some Backbone with Models, Views, Collections, and Events|28072|2024-01-10|
+|91|[VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js)|A lightweight JavaScript library for creating particles|28029|2023-09-20|
+|92|[caolan/async](https://github.com/caolan/async)|Async utilities for node and the browser|28008|2024-01-02|
+|93|[parallax/jsPDF](https://github.com/parallax/jsPDF)|Client-side JavaScript PDF generation for everyone.|27899|2024-01-14|
+|94|[transloadit/uppy](https://github.com/transloadit/uppy)|The next open source file uploader for web browsers :dog: |27755|2024-01-16|
 |95|[OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)|The OpenAPI Specification Repository|27700|2024-01-11|
-|96|[GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)|Automated auditing, performance metrics, and best practices for the web.|27509|2024-01-12|
-|97|[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)|🍰 Everything is RSSible|27428|2024-01-14|
-|98|[jashkenas/underscore](https://github.com/jashkenas/underscore)|JavaScript's utility _ belt|27171|2023-11-27|
-|99|[lovell/sharp](https://github.com/lovell/sharp)|High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.|27167|2024-01-12|
-|100|[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)|</> htmx - high power tools for HTML|26988|2024-01-15|
-|101|[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)|Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser|26678|2024-01-14|
-|102|[digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)|⚙️ NGINX config generator on steroids 💉|26607|2024-01-10|
-|103|[immerjs/immer](https://github.com/immerjs/immer)|Create the next immutable state by mutating the current one|26431|2024-01-10|
-|104|[codemirror/codemirror5](https://github.com/codemirror/codemirror5)|In-browser code editor (version 5, legacy)|26396|2024-01-09|
-|105|[Automattic/mongoose](https://github.com/Automattic/mongoose)|MongoDB object modeling designed to work in an asynchronous environment.|26331|2024-01-15|
-|106|[ajaxorg/ace](https://github.com/ajaxorg/ace)|Ace (Ajax.org Cloud9 Editor)|26157|2024-01-14|
-|107|[docsifyjs/docsify](https://github.com/docsifyjs/docsify)|🃏 A magical documentation site generator.|25958|2024-01-11|
-|108|[remy/nodemon](https://github.com/remy/nodemon)|Monitor for any changes in your node.js application and automatically restart the server - perfect for development|25810|2024-01-01|
-|109|[JakeChampion/fetch](https://github.com/JakeChampion/fetch)|A window.fetch JavaScript polyfill.|25794|2024-01-15|
-|110|[select2/select2](https://github.com/select2/select2)|Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.|25737|2024-01-15|
-|111|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|25675|2024-01-11|
-|112|[request/request](https://github.com/request/request)|🏊🏾 Simplified HTTP request client.|25658|2023-11-29|
-|113|[bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)|React components for efficiently rendering large lists and tabular data|25637|2024-01-04|
-|114|[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)|Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application  ...|25589|2024-01-14|
-|115|[Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)|Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.|25573|2023-12-20|
-|116|[lutzroeder/netron](https://github.com/lutzroeder/netron)|Visualizer for neural network, deep learning and machine learning models|25171|2024-01-15|
-|117|[sampotts/plyr](https://github.com/sampotts/plyr)|A simple HTML5, YouTube and Vimeo player|24915|2023-11-14|
-|118|[quasarframework/quasar](https://github.com/quasarframework/quasar)|Quasar Framework - Build high-performance VueJS user interfaces in record time|24821|2024-01-14|
-|119|[rollup/rollup](https://github.com/rollup/rollup)|Next-generation ES module bundler|24396|2024-01-15|
-|120|[zadam/trilium](https://github.com/zadam/trilium)|Build your personal knowledge base with Trilium Notes|24257|2024-01-14|
-|121|[feathericons/feather](https://github.com/feathericons/feather)|Simply beautiful open-source icons|24191|2024-01-06|
-|122|[vercel/pkg](https://github.com/vercel/pkg)|Package your Node.js project into an executable|24115|2024-01-03|
-|123|[gchq/CyberChef](https://github.com/gchq/CyberChef)|The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis|23892|2024-01-03|
-|124|[eslint/eslint](https://github.com/eslint/eslint)|Find and fix problems in your JavaScript code.|23844|2024-01-15|
-|125|[localForage/localForage](https://github.com/localForage/localForage)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|23735|2024-01-08|
-|126|[dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)|JavaScript image gallery for mobile and desktop, modular, framework independent|23490|2023-12-04|
-|127|[OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)|OpenZeppelin Contracts is a library for secure smart contract development.|23489|2024-01-15|
-|128|[zloirock/core-js](https://github.com/zloirock/core-js)|Standard Library|23442|2024-01-14|
+|96|[GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)|Automated auditing, performance metrics, and best practices for the web.|27513|2024-01-12|
+|97|[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)|🍰 Everything is RSSible|27446|2024-01-16|
+|98|[lovell/sharp](https://github.com/lovell/sharp)|High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.|27186|2024-01-16|
+|99|[jashkenas/underscore](https://github.com/jashkenas/underscore)|JavaScript's utility _ belt|27171|2023-11-27|
+|100|[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)|</> htmx - high power tools for HTML|27085|2024-01-15|
+|101|[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)|Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser|26689|2024-01-14|
+|102|[digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)|⚙️ NGINX config generator on steroids 💉|26614|2024-01-10|
+|103|[immerjs/immer](https://github.com/immerjs/immer)|Create the next immutable state by mutating the current one|26437|2024-01-10|
+|104|[codemirror/codemirror5](https://github.com/codemirror/codemirror5)|In-browser code editor (version 5, legacy)|26398|2024-01-09|
+|105|[Automattic/mongoose](https://github.com/Automattic/mongoose)|MongoDB object modeling designed to work in an asynchronous environment.|26332|2024-01-15|
+|106|[ajaxorg/ace](https://github.com/ajaxorg/ace)|Ace (Ajax.org Cloud9 Editor)|26162|2024-01-15|
+|107|[docsifyjs/docsify](https://github.com/docsifyjs/docsify)|🃏 A magical documentation site generator.|25960|2024-01-11|
+|108|[remy/nodemon](https://github.com/remy/nodemon)|Monitor for any changes in your node.js application and automatically restart the server - perfect for development|25814|2024-01-01|
+|109|[JakeChampion/fetch](https://github.com/JakeChampion/fetch)|A window.fetch JavaScript polyfill.|25796|2024-01-15|
+|110|[select2/select2](https://github.com/select2/select2)|Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.|25735|2024-01-15|
+|111|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|25681|2024-01-15|
+|112|[request/request](https://github.com/request/request)|🏊🏾 Simplified HTTP request client.|25660|2023-11-29|
+|113|[bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)|React components for efficiently rendering large lists and tabular data|25642|2024-01-04|
+|114|[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)|Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application  ...|25598|2024-01-15|
+|115|[Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)|Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.|25574|2023-12-20|
+|116|[lutzroeder/netron](https://github.com/lutzroeder/netron)|Visualizer for neural network, deep learning and machine learning models|25192|2024-01-16|
+|117|[sampotts/plyr](https://github.com/sampotts/plyr)|A simple HTML5, YouTube and Vimeo player|24921|2023-11-14|
+|118|[quasarframework/quasar](https://github.com/quasarframework/quasar)|Quasar Framework - Build high-performance VueJS user interfaces in record time|24830|2024-01-16|
+|119|[rollup/rollup](https://github.com/rollup/rollup)|Next-generation ES module bundler|24401|2024-01-16|
+|120|[zadam/trilium](https://github.com/zadam/trilium)|Build your personal knowledge base with Trilium Notes|24269|2024-01-14|
+|121|[feathericons/feather](https://github.com/feathericons/feather)|Simply beautiful open-source icons|24202|2024-01-06|
+|122|[vercel/pkg](https://github.com/vercel/pkg)|Package your Node.js project into an executable|24118|2024-01-03|
+|123|[gchq/CyberChef](https://github.com/gchq/CyberChef)|The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis|23919|2024-01-03|
+|124|[eslint/eslint](https://github.com/eslint/eslint)|Find and fix problems in your JavaScript code.|23855|2024-01-16|
+|125|[localForage/localForage](https://github.com/localForage/localForage)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|23740|2024-01-08|
+|126|[dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)|JavaScript image gallery for mobile and desktop, modular, framework independent|23497|2023-12-04|
+|127|[OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)|OpenZeppelin Contracts is a library for secure smart contract development.|23495|2024-01-16|
+|128|[zloirock/core-js](https://github.com/zloirock/core-js)|Standard Library|23449|2024-01-16|
 |129|[ramda/ramda](https://github.com/ramda/ramda)|:ram: Practical functional Javascript|23428|2024-01-06|
-|130|[pure-css/pure](https://github.com/pure-css/pure)|A set of small, responsive CSS modules that you can use in every web project.|23279|2024-01-11|
-|131|[balderdashy/sails](https://github.com/balderdashy/sails)|Realtime MVC Framework for Node.js|22741|2024-01-04|
-|132|[highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)|JavaScript syntax highlighter with language auto-detection and zero dependencies.|22612|2024-01-14|
+|130|[pure-css/pure](https://github.com/pure-css/pure)|A set of small, responsive CSS modules that you can use in every web project.|23280|2024-01-11|
+|131|[balderdashy/sails](https://github.com/balderdashy/sails)|Realtime MVC Framework for Node.js|22744|2024-01-15|
+|132|[highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)|JavaScript syntax highlighter with language auto-detection and zero dependencies.|22625|2024-01-16|
 |133|[ovity/octotree](https://github.com/ovity/octotree)|GitHub on steroids|22609|2023-09-30|
-|134|[bilibili/flv.js](https://github.com/bilibili/flv.js)|HTML5 FLV Player|22575|2023-12-18|
-|135|[goldfire/howler.js](https://github.com/goldfire/howler.js)|Javascript audio library for the modern web.|22505|2024-01-11|
-|136|[redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)|An alternative side effect model for Redux apps|22494|2024-01-11|
-|137|[emberjs/ember.js](https://github.com/emberjs/ember.js)|Ember.js - A JavaScript framework for creating ambitious web applications|22424|2024-01-15|
-|138|[ai/nanoid](https://github.com/ai/nanoid)|A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript|22423|2023-12-06|
-|139|[Tencent/wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|22352|2023-09-19|
-|140|[mochajs/mocha](https://github.com/mochajs/mocha)|☕️ simple, flexible, fun javascript test framework for node.js & the browser|22330|2024-01-11|
-|141|[validatorjs/validator.js](https://github.com/validatorjs/validator.js)|String validation|22225|2024-01-15|
-|142|[vuejs/vuepress](https://github.com/vuejs/vuepress)|📝 Minimalistic Vue-powered static site generator|22158|2024-01-15|
-|143|[jaredhanson/passport](https://github.com/jaredhanson/passport)|Simple, unobtrusive authentication for Node.js.|22132|2023-11-27|
-|144|[jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal)|Animate elements as they scroll into view.|21944|2023-08-30|
+|134|[bilibili/flv.js](https://github.com/bilibili/flv.js)|HTML5 FLV Player|22582|2023-12-18|
+|135|[goldfire/howler.js](https://github.com/goldfire/howler.js)|Javascript audio library for the modern web.|22516|2024-01-11|
+|136|[redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)|An alternative side effect model for Redux apps|22498|2024-01-11|
+|137|[ai/nanoid](https://github.com/ai/nanoid)|A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript|22435|2023-12-06|
+|138|[emberjs/ember.js](https://github.com/emberjs/ember.js)|Ember.js - A JavaScript framework for creating ambitious web applications|22425|2024-01-16|
+|139|[Tencent/wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|22353|2023-09-19|
+|140|[mochajs/mocha](https://github.com/mochajs/mocha)|☕️ simple, flexible, fun javascript test framework for node.js & the browser|22341|2024-01-16|
+|141|[validatorjs/validator.js](https://github.com/validatorjs/validator.js)|String validation|22230|2024-01-15|
+|142|[vuejs/vuepress](https://github.com/vuejs/vuepress)|📝 Minimalistic Vue-powered static site generator|22163|2024-01-15|
+|143|[jaredhanson/passport](https://github.com/jaredhanson/passport)|Simple, unobtrusive authentication for Node.js.|22137|2023-11-27|
+|144|[jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal)|Animate elements as they scroll into view.|21950|2023-08-30|
 |145|[badges/shields](https://github.com/badges/shields)|Concise, consistent, and legible badges in SVG and raster format|21733|2024-01-13|
-|146|[chenglou/react-motion](https://github.com/chenglou/react-motion)|A spring that solves your animation problems.|21610|2024-01-05|
-|147|[winstonjs/winston](https://github.com/winstonjs/winston)|A logger for just about everything.|21605|2024-01-08|
-|148|[philc/vimium](https://github.com/philc/vimium)|The hacker's browser.|21474|2024-01-13|
-|149|[js-cookie/js-cookie](https://github.com/js-cookie/js-cookie)|A simple, lightweight JavaScript API for handling browser cookies|21353|2024-01-08|
-|150|[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)|A modified web browser that helps in responsive web development. A web developer's must have dev-tool.|21349|2024-01-10|
+|146|[chenglou/react-motion](https://github.com/chenglou/react-motion)|A spring that solves your animation problems.|21612|2024-01-05|
+|147|[winstonjs/winston](https://github.com/winstonjs/winston)|A logger for just about everything.|21609|2024-01-15|
+|148|[philc/vimium](https://github.com/philc/vimium)|The hacker's browser.|21475|2024-01-13|
+|149|[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)|A modified web browser that helps in responsive web development. A web developer's must have dev-tool.|21355|2024-01-10|
+|150|[js-cookie/js-cookie](https://github.com/js-cookie/js-cookie)|A simple, lightweight JavaScript API for handling browser cookies|21353|2024-01-08|
 |151|[postcss/autoprefixer](https://github.com/postcss/autoprefixer)| Parse CSS and add vendor prefixes to rules by Can I Use|21320|2023-09-20|
-|152|[necolas/react-native-web](https://github.com/necolas/react-native-web)|Cross-platform React UI packages|21168|2024-01-10|
+|152|[necolas/react-native-web](https://github.com/necolas/react-native-web)|Cross-platform React UI packages|21174|2024-01-10|
 |153|[chalk/chalk](https://github.com/chalk/chalk)|🖍 Terminal string styling done right|21084|2024-01-06|
-|154|[websockets/ws](https://github.com/websockets/ws)|Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js|20675|2024-01-06|
+|154|[websockets/ws](https://github.com/websockets/ws)|Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js|20680|2024-01-06|
 |155|[avajs/ava](https://github.com/avajs/ava)|Node.js test runner that lets you develop with confidence 🚀|20560|2024-01-11|
-|156|[parse-community/parse-server](https://github.com/parse-community/parse-server)|Parse Server for Node.js / Express|20519|2024-01-15|
-|157|[typicode/lowdb](https://github.com/typicode/lowdb)|Simple and fast JSON database|20484|2023-12-26|
-|158|[hapijs/joi](https://github.com/hapijs/joi)|The most powerful data validation library for JS|20432|2024-01-15|
+|156|[parse-community/parse-server](https://github.com/parse-community/parse-server)|Parse Server for Node.js / Express|20520|2024-01-16|
+|157|[typicode/lowdb](https://github.com/typicode/lowdb)|Simple and fast JSON database|20496|2023-12-26|
+|158|[hapijs/joi](https://github.com/hapijs/joi)|The most powerful data validation library for JS|20434|2024-01-15|
 |159|[mifi/lossless-cut](https://github.com/mifi/lossless-cut)|The swiss army knife of lossless video/audio editing|20424|2024-01-13|
-|160|[svg/svgo](https://github.com/svg/svgo)|⚙️ Node.js tool for optimizing SVG files|20051|2024-01-15|
-|161|[tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)|A set of free MIT-licensed high-quality SVG icons for UI development.|20032|2023-12-18|
+|160|[svg/svgo](https://github.com/svg/svgo)|⚙️ Node.js tool for optimizing SVG files|20055|2024-01-15|
+|161|[tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)|A set of free MIT-licensed high-quality SVG icons for UI development.|20039|2023-12-18|
 |162|[enzymejs/enzyme](https://github.com/enzymejs/enzyme)|JavaScript Testing utilities for React|20000|2023-10-11|
-|163|[Popmotion/popmotion](https://github.com/Popmotion/popmotion)|Simple animation libraries for delightful user interfaces|19707|2023-12-12|
-|164|[jsdom/jsdom](https://github.com/jsdom/jsdom)|A JavaScript implementation of various web standards, for use with Node.js|19599|2024-01-08|
-|165|[SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)|Vue drag-and-drop component based on Sortable.js|19509|2023-08-16|
-|166|[segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare)|A high-level browser automation library.|19476|2023-10-05|
-|167|[facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)|Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R ...|19280|2024-01-15|
-|168|[semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)|:package::rocket: Fully automated version management and package publishing|19249|2024-01-15|
-|169|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |19248|2023-11-14|
+|163|[Popmotion/popmotion](https://github.com/Popmotion/popmotion)|Simple animation libraries for delightful user interfaces|19710|2023-12-12|
+|164|[jsdom/jsdom](https://github.com/jsdom/jsdom)|A JavaScript implementation of various web standards, for use with Node.js|19600|2024-01-08|
+|165|[SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)|Vue drag-and-drop component based on Sortable.js|19512|2023-08-16|
+|166|[segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare)|A high-level browser automation library.|19478|2023-10-05|
+|167|[facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)|Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R ...|19279|2024-01-16|
+|168|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |19252|2023-11-14|
+|169|[semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)|:package::rocket: Fully automated version management and package publishing|19252|2024-01-16|
 |170|[vuejs/vue-router](https://github.com/vuejs/vue-router)|🚦 The official router for Vue 2|19013|2024-01-09|
-|171|[jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)|1kB-ish JavaScript framework for building hypertext applications|19004|2024-01-14|
-|172|[wekan/wekan](https://github.com/wekan/wekan)|The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https ...|18950|2024-01-13|
-|173|[react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)|A draggable and resizable grid layout with responsive breakpoints, for React.|18899|2024-01-10|
-|174|[eggjs/egg](https://github.com/eggjs/egg)|🥚 Born to build better enterprise frameworks and apps with Node.js & Koa|18723|2024-01-11|
-|175|[handsontable/handsontable](https://github.com/handsontable/handsontable)|JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡|18689|2024-01-15|
-|176|[rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)|🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.|18579|2024-01-11|
-|177|[knex/knex](https://github.com/knex/knex)|A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.|18383|2024-01-13|
-|178|[testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)|🐐 Simple and complete React DOM testing utilities that encourage good testing practices.|18382|2023-12-08|
-|179|[basecamp/trix](https://github.com/basecamp/trix)|A rich text editor for everyday writing|18098|2024-01-11|
-|180|[motdotla/dotenv](https://github.com/motdotla/dotenv)|Loads environment variables from .env for nodejs projects.|18098|2024-01-08|
-|181|[mysqljs/mysql](https://github.com/mysqljs/mysql)|A pure node.js JavaScript Client implementing the MySQL protocol.|18068|2023-12-17|
-|182|[node-red/node-red](https://github.com/node-red/node-red)|Low-code programming for event-driven applications|17978|2024-01-15|
-|183|[nosir/cleave.js](https://github.com/nosir/cleave.js)|Format input text content when you are typing...|17918|2023-11-25|
-|184|[greensock/GSAP](https://github.com/greensock/GSAP)|GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web|17879|2023-12-14|
-|185|[be5invis/Iosevka](https://github.com/be5invis/Iosevka)|Versatile typeface for code, from code.|17787|2024-01-14|
-|186|[dropzone/dropzone](https://github.com/dropzone/dropzone)|Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.|17746|2023-12-07|
-|187|[framework7io/framework7](https://github.com/framework7io/framework7)|Full featured HTML framework for building iOS & Android apps|17697|2024-01-03|
-|188|[amark/gun](https://github.com/amark/gun)|An open source cybersecurity protocol for syncing decentralized graph data.|17600|2024-01-06|
-|189|[lllyasviel/style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)|17564|2023-08-01|
-|190|[handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js)|Minimal templating on steroids.|17558|2023-12-13|
-|191|[appium/appium](https://github.com/appium/appium)|Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol|17421|2024-01-14|
-|192|[KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|Fast math typesetting for the web.|17370|2024-01-12|
-|193|[statsd/statsd](https://github.com/statsd/statsd)|Daemon for easy but powerful stats aggregation|17357|2023-08-22|
-|194|[decaporg/decap-cms](https://github.com/decaporg/decap-cms)|A Git-based CMS for Static Site Generators|17279|2024-01-15|
-|195|[simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)|SVG icons for popular brands|17263|2024-01-15|
-|196|[localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)|expose yourself|17257|2023-11-15|
-|197|[Shopify/draggable](https://github.com/Shopify/draggable)|The JavaScript Drag & Drop library your grandparents warned you about.|17247|2024-01-11|
-|198|[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)|Docker container for managing Nginx proxy hosts with a simple, powerful interface|17216|2024-01-15|
-|199|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html|17197|2023-12-30|
-|200|[JedWatson/classnames](https://github.com/JedWatson/classnames)|A simple javascript utility for conditionally joining classNames together|17166|2024-01-11|
+|171|[jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)|1kB-ish JavaScript framework for building hypertext applications|19003|2024-01-14|
+|172|[wekan/wekan](https://github.com/wekan/wekan)|The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https ...|18953|2024-01-15|
+|173|[react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)|A draggable and resizable grid layout with responsive breakpoints, for React.|18904|2024-01-10|
+|174|[eggjs/egg](https://github.com/eggjs/egg)|🥚 Born to build better enterprise frameworks and apps with Node.js & Koa|18724|2024-01-11|
+|175|[handsontable/handsontable](https://github.com/handsontable/handsontable)|JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡|18688|2024-01-16|
+|176|[rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)|🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.|18590|2024-01-11|
+|177|[knex/knex](https://github.com/knex/knex)|A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.|18391|2024-01-13|
+|178|[testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)|🐐 Simple and complete React DOM testing utilities that encourage good testing practices.|18388|2023-12-08|
+|179|[motdotla/dotenv](https://github.com/motdotla/dotenv)|Loads environment variables from .env for nodejs projects.|18099|2024-01-08|
+|180|[basecamp/trix](https://github.com/basecamp/trix)|A rich text editor for everyday writing|18098|2024-01-16|
+|181|[mysqljs/mysql](https://github.com/mysqljs/mysql)|A pure node.js JavaScript Client implementing the MySQL protocol.|18076|2023-12-17|
+|182|[node-red/node-red](https://github.com/node-red/node-red)|Low-code programming for event-driven applications|17991|2024-01-16|
+|183|[nosir/cleave.js](https://github.com/nosir/cleave.js)|Format input text content when you are typing...|17920|2023-11-25|
+|184|[greensock/GSAP](https://github.com/greensock/GSAP)|GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web|17892|2023-12-14|
+|185|[be5invis/Iosevka](https://github.com/be5invis/Iosevka)|Versatile typeface for code, from code.|17796|2024-01-16|
+|186|[dropzone/dropzone](https://github.com/dropzone/dropzone)|Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.|17747|2023-12-07|
+|187|[framework7io/framework7](https://github.com/framework7io/framework7)|Full featured HTML framework for building iOS & Android apps|17698|2024-01-03|
+|188|[amark/gun](https://github.com/amark/gun)|An open source cybersecurity protocol for syncing decentralized graph data.|17601|2024-01-16|
+|189|[lllyasviel/style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)|17568|2023-08-01|
+|190|[handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js)|Minimal templating on steroids.|17559|2023-12-13|
+|191|[appium/appium](https://github.com/appium/appium)|Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol|17435|2024-01-16|
+|192|[KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|Fast math typesetting for the web.|17375|2024-01-12|
+|193|[statsd/statsd](https://github.com/statsd/statsd)|Daemon for easy but powerful stats aggregation|17358|2023-08-22|
+|194|[decaporg/decap-cms](https://github.com/decaporg/decap-cms)|A Git-based CMS for Static Site Generators|17283|2024-01-16|
+|195|[simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)|SVG icons for popular brands|17276|2024-01-16|
+|196|[localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)|expose yourself|17262|2023-11-15|
+|197|[Shopify/draggable](https://github.com/Shopify/draggable)|The JavaScript Drag & Drop library your grandparents warned you about.|17250|2024-01-11|
+|198|[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)|Docker container for managing Nginx proxy hosts with a simple, powerful interface|17240|2024-01-15|
+|199|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html|17203|2023-12-30|
+|200|[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)|A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!|17188|2024-01-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
