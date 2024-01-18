@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1875|2024-01-14|
+|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1877|2024-01-14|
 |2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1861|2024-01-16|
-|3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1378|2023-09-04|
-|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|955|2024-01-15|
+|3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1379|2023-09-04|
+|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|955|2024-01-17|
 |5|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|703|2023-12-14|
 |6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|403|2024-01-15|
-|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |304|2024-01-16|
+|7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |304|2024-01-17|
 |8|[ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals)|Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)|150|2024-01-11|
 |9|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|138|2024-01-16|
 |10|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|129|2023-09-13|
@@ -27,13 +27,13 @@
 |20|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|47|2023-11-13|
 |21|[manwar/perl-cool-snippets](https://github.com/manwar/perl-cool-snippets)|Collection of Perl cool snippets.|44|2023-12-14|
 |22|[aprsorg/aprs-deviceid](https://github.com/aprsorg/aprs-deviceid)|APRS device identification data: tocalls.txt + mic-e-types.txt current master allocations (YAML, JSON, XML)|44|2023-11-05|
-|23|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2024-01-16|
-|24|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|42|2023-12-27|
+|23|[Talend/studio-se-master](https://github.com/Talend/studio-se-master)|The Master repository (using gitslave) that define all public repositories required to build the Talend Open Studio.|42|2024-01-17|
+|24|[neilhwatson/nustuff](https://github.com/neilhwatson/nustuff)|Useful scripting and Linux configuration examples|42|2024-01-17|
 |25|[Markismus/PocketBookDic](https://github.com/Markismus/PocketBookDic)|Script to convert dictionaries to pocketbook dictionary dic-format and Koreader optimized dictionaries.|41|2023-12-16|
 |26|[maxmind/getting-started-with-mmdb](https://github.com/maxmind/getting-started-with-mmdb)|A quick guide to writing and reading from your own MMDB databases.|36|2023-10-17|
 |27|[Tekki/sql-ledger](https://github.com/Tekki/sql-ledger)|:books: The official SQL-Ledger version, plus some additions.|34|2023-12-31|
 |28|[joyrex2001/grpc-perl](https://github.com/joyrex2001/grpc-perl)|Perl 5 implementation of gRPC using the official gRPC shared library.|33|2023-11-01|
-|29|[zonemaster/zonemaster-engine](https://github.com/zonemaster/zonemaster-engine)|The Zonemaster Engine - part of the Zonemaster project|33|2024-01-10|
+|29|[zonemaster/zonemaster-engine](https://github.com/zonemaster/zonemaster-engine)|The Zonemaster Engine - part of the Zonemaster project|33|2024-01-17|
 |30|[davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi)|LaTeX server via perl cgi script, developed for learnlatex.org|28|2023-07-23|
 |31|[ltb-project/ldap-scripts](https://github.com/ltb-project/ldap-scripts)|This is a collection of scripts for LDAP directories|28|2023-11-21|
 |32|[tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte)|Magic housekeeping package for TUXEDO books|27|2024-01-10|
@@ -47,15 +47,15 @@
 |40|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-27|
 |41|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|20|2024-01-08|
 |42|[fm4dd/nagios4dd](https://github.com/fm4dd/nagios4dd)|Collection of scripts and plugins for the open source monitoring system Nagios.|20|2023-11-07|
-|43|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-01-15|
+|43|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-01-16|
 |44|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|19|2023-12-06|
 |45|[zampat/neteye4](https://github.com/zampat/neteye4)|NetEye 4 community repository to share monitoring templates, Plugin scripts and instructions to enhance some NetEye modules in an guided way|18|2023-07-25|
 |46|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|16|2023-12-03|
-|47|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-01-16|
+|47|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-01-17|
 |48|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2024-01-04|
 |49|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
 |50|[dshumko/OpenEPG](https://github.com/dshumko/OpenEPG)|Electronic Program Guide (EPG) Generator for Digital Video Broadcasting (DVB)|14|2023-07-20|
-|51|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|14|2024-01-15|
+|51|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|14|2024-01-17|
 |52|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|14|2023-12-17|
 |53|[snmptt/snmptt](https://github.com/snmptt/snmptt)|SNMP Trap Translator (SNMPTT) primary repository.  A mirror is available at https://sourceforge.net/p/snmptt/git/ci/master/tree/ and file releases are available at https://sourceforge.net/projects/snm ...|13|2023-12-21|
 |54|[jackalkarlos/CTF-Writeups-and-Scripts](https://github.com/jackalkarlos/CTF-Writeups-and-Scripts)|I share the solutions and scripts of the questions I like in the CTF I enter.|12|2023-10-15|
@@ -91,10 +91,10 @@
 |84|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|2023-07-21|
 |85|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2023-12-15|
 |86|[blackhatethicalhacking/perl-programming-training](https://github.com/blackhatethicalhacking/perl-programming-training)|This Repo is a quick tutorial that introduces various aspects of the Perl programming language and examples curated by BHEH. Perl Language can be useful for ethical hacking, security research, and pen ...|4|2023-10-31|
-|87|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-01-15|
+|87|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-01-17|
 |88|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit ...|4|2023-12-06|
-|89|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2024-01-16|
-|90|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-01-16|
+|89|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|4|2024-01-17|
+|90|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-01-17|
 |91|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2023-09-13|
 |92|[levitte/perl](https://github.com/levitte/perl)|A collection of Perl modules|4|2023-12-12|
 |93|[aslakjohansen/student-projects](https://github.com/aslakjohansen/student-projects)|List of student projects|4|2023-12-04|
@@ -120,10 +120,9 @@
 |113|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2023-09-25|
 |114|[MoradMMokhtar/MegaLTR](https://github.com/MoradMMokhtar/MegaLTR)|In this study, we introduce MegaLTR, a robust online server that identifies intact LTR -RTs in any target genome, and its local standalone version. MegaLTR is freely available at https://bioinformatic ...|2|2023-08-11|
 |115|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2023-08-20|
-|116|[TypeWork/turabian-researchpaper-to-Word-with-Pandoc](https://github.com/TypeWork/turabian-researchpaper-to-Word-with-Pandoc)|Turabian Formatted Research Papers with Pandoc (converting from .tex to .docx)|2|2023-07-18|
-|117|[dallaylaen/assert-refute-perl](https://github.com/dallaylaen/assert-refute-perl)|Test script-alike code snippets usable in production code|2|2023-07-30|
-|118|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
-|119|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
+|116|[dallaylaen/assert-refute-perl](https://github.com/dallaylaen/assert-refute-perl)|Test script-alike code snippets usable in production code|2|2023-07-30|
+|117|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
+|118|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

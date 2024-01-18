@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|18|0|2024-01-16|
 |18|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|0|2023-10-07|
 |19|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|224|0|2024-01-15|
-|20|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|6|0|2024-01-11|
+|20|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|6|0|2024-01-17|
 |21|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|8|0|2023-10-16|
 |22|[gcarreno/TestThreadPool](https://github.com/gcarreno/TestThreadPool)|Example of how to use the Class TThread with a pool manager|4|0|2023-09-10|
 |23|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2023-09-03|

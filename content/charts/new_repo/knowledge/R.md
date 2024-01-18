@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[ekholme/gcp_quarto_api](https://github.com/ekholme/gcp_quarto_api)|Step-by-step guide for deploying an API using Quarto, R, and plumber via Google Cloud|49|2023-11-13|2023-11-13|
 |4|[hypebright/async_shiny](https://github.com/hypebright/async_shiny)|examples to implement asynchronous programming in Shiny ✨ |37|2023-08-29|2023-03-19|
 |5|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|24|2023-11-26|2023-04-14|
-|6|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 4 part, 8 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStud ...|19|2023-10-26|2023-01-31|
+|6|[dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)|D-Lab's 4 part, 8 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStud ...|20|2023-10-26|2023-01-31|
 |7|[nicucalcea/Ra11y](https://github.com/nicucalcea/Ra11y)|Collection of accessibility functions for R|18|2024-01-09|2023-09-22|
 |8|[vituri/awesome-julia](https://github.com/vituri/awesome-julia)|A curated list of Julia packages, resources, books and so on|18|2023-09-08|2023-08-30|
 |9|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|17|2023-12-27|2023-12-24|
@@ -18,18 +18,18 @@
 |11|[PPBDS/tidymodels.tutorials](https://github.com/PPBDS/tidymodels.tutorials)|Tutorials for Tidy Modeling with R|17|2023-11-29|2023-07-05|
 |12|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|14|2024-01-08|2023-10-05|
 |13|[aestovall/GEDI_Workshop](https://github.com/aestovall/GEDI_Workshop)|Code and Tutorials for the 2023 Silvilaser GEDI Workshop|14|2023-09-05|2023-09-01|
-|14|[NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)|This is the repository hosting the R scripts of the book "Mathematical Foundations of Reinforcement Learning" written by Yujun at Jiangxi Normal University.|12|2023-12-03|2023-10-03|
-|15|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|12|2023-11-13|2023-09-02|
-|16|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2023-12-04|2023-04-07|
-|17|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|11|2023-12-09|2023-12-09|
-|18|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|11|2023-09-27|2023-08-16|
-|19|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|11|2023-11-09|2023-07-22|
-|20|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|10|2024-01-03|2023-12-23|
+|14|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|12|2024-01-03|2023-12-23|
+|15|[NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)|This is the repository hosting the R scripts of the book "Mathematical Foundations of Reinforcement Learning" written by Yujun at Jiangxi Normal University.|12|2023-12-03|2023-10-03|
+|16|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|12|2023-11-13|2023-09-02|
+|17|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2023-12-04|2023-04-07|
+|18|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|11|2023-12-09|2023-12-09|
+|19|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|11|2023-09-27|2023-08-16|
+|20|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|11|2023-11-09|2023-07-22|
 |21|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|10|2023-10-05|2023-06-03|
 |22|[nhs-r-community/r4ds-ed2-exercise-solutions](https://github.com/nhs-r-community/r4ds-ed2-exercise-solutions)|Exercise solutions to R for Data Science - second edition as part of the NHS-R Community book club|9|2023-09-09|2023-03-31|
 |23|[MargoSolo/DataMedLinkedIn](https://github.com/MargoSolo/DataMedLinkedIn)|This GitHub repository is a resource for those interested in biomedical data analysis and visualization with R. It features code snippets for data processing, statistical analysis, and interactive cha ...|9|2023-11-10|2023-02-27|
 |24|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|8|2023-11-24|2023-09-16|
-|25|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|8|2023-10-26|2023-04-05|
+|25|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|8|2024-01-16|2023-04-05|
 |26|[pgvector/pgvector-r](https://github.com/pgvector/pgvector-r)|pgvector examples for R|8|2023-12-27|2023-03-03|
 |27|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
 |28|[alexanderbrenning/ogh23_ml](https://github.com/alexanderbrenning/ogh23_ml)|OpenGeoHub 2023 Machine-learning Model Assessment and Interpretation|7|2023-08-31|2023-08-30|

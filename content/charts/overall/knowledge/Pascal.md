@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -27,7 +27,7 @@
 |20|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|8|2023-10-16|
 |21|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|8|2023-09-08|
 |22|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|2023-09-03|
-|23|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|6|2024-01-11|
+|23|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|6|2024-01-17|
 |24|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|2023-10-07|
 |25|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of usefull and mostly not trivial examples that can be used to start own projects|6|2024-01-15|
 |26|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-01-12|
