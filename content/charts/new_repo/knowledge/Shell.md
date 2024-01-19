@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)|Collection of Alacritty color schemes|845|2024-01-15|2023-01-19|
+|1|[alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)|Collection of Alacritty color schemes|853|2024-01-15|2023-01-19|
 |2|[RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)|A Tutorial for Setting Python Development Environment with VScode and Docker|690|2024-01-13|2023-04-30|
-|3|[MrRobinOfficial/Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine)|This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++.|404|2023-12-11|2023-04-20|
-|4|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|365|2023-12-19|2023-06-28|
+|3|[MrRobinOfficial/Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine)|This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++.|406|2023-12-11|2023-04-20|
+|4|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|365|2024-01-17|2023-06-28|
 |5|[jstrieb/paperify](https://github.com/jstrieb/paperify)|Transform any document, web page, or eBook into a research paper (ChatGPT not required)|352|2023-09-06|2023-09-05|
-|6|[SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland)|collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay|317|2024-01-01|2023-03-18|
-|7|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|266|2024-01-17|2023-12-17|
-|8|[jfadev/bottok](https://github.com/jfadev/bottok)|Bot Tok is an TikTok Up Bot (likes, shares, favorites and views) based in node.js, puppeteer and zefoy.com. (Android, Windows, Linux)|252|2023-12-07|2023-03-02|
+|6|[SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland)|collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay|318|2024-01-01|2023-03-18|
+|7|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|280|2024-01-17|2023-12-17|
+|8|[jfadev/bottok](https://github.com/jfadev/bottok)|Bot Tok is an TikTok Up Bot (likes, shares, favorites and views) based in node.js, puppeteer and zefoy.com. (Android, Windows, Linux)|253|2023-12-07|2023-03-02|
 |9|[edoardottt/missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates)|Weekly updated list of missing CVEs in nuclei templates official repository. Mainly built for bug bounty, but useful for penetration tests and vulnerability assessments too.|248|2024-01-15|2023-02-16|
 |10|[shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)|Curated list of tools and resources for Platform Engineering|232|2023-12-27|2023-01-21|
-|11|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|227|2024-01-13|2023-09-03|
+|11|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|228|2024-01-13|2023-09-03|
 |12|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|215|2024-01-06|2023-06-21|
 |13|[ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way)|A guide to setting up a production-like Kubernetes cluster on a local machine|189|2024-01-06|2023-07-13|
-|14|[vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response)|practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response |141|2023-12-29|2023-12-27|
+|14|[vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response)|practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response |147|2023-12-29|2023-12-27|
 |15|[LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia)|A series of scripts that will install a reverse proxy as well as configure authelia automatically.|135|2023-12-19|2023-02-22|
 |16|[grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB)|A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.|132|2023-09-15|2023-04-22|
 |17|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|121|2024-01-17|2023-11-02|
@@ -36,12 +36,12 @@
 |29|[MercuryWorkshop/fakemurk](https://github.com/MercuryWorkshop/fakemurk)|[UNMAINTAINED] fakemurk - a set of scripts for spoofing verified on an enrolled chromebook|46|2023-11-15|2023-02-25|
 |30|[YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible)|A thorough guide to defeating DRM on Linux|41|2023-11-04|2023-06-20|
 |31|[amirhosseinchoghaei/Passwall](https://github.com/amirhosseinchoghaei/Passwall)|How to install Passwall in openwrt|38|2024-01-08|2023-08-04|
-|32|[hummingbot/deploy-examples](https://github.com/hummingbot/deploy-examples)|This repository provides various examples of how to deploy Hummingbot using Docker.|36|2024-01-16|2023-02-22|
+|32|[hummingbot/deploy-examples](https://github.com/hummingbot/deploy-examples)|This repository provides various examples of how to deploy Hummingbot using Docker.|36|2024-01-17|2023-02-22|
 |33|[elemen3/wepn](https://github.com/elemen3/wepn)|WePN Master Script|36|2023-09-04|2023-02-21|
 |34|[ashpoolin/solanabook](https://github.com/ashpoolin/solanabook)|Mastering Solana: the Solana Runtime|35|2023-11-01|2023-03-22|
 |35|[ClaraCrazy/qubes-docs](https://github.com/ClaraCrazy/qubes-docs)|My list of Qubes OS related documents|33|2023-11-15|2023-03-26|
-|36|[fearocanity/ebtrfio-template](https://github.com/fearocanity/ebtrfio-template)|Template Repository for Frame in Order (Facebook). Written in Shell (for fun)|31|2023-11-28|2023-02-25|
-|37|[cognitivetech/llm-book-summarization](https://github.com/cognitivetech/llm-book-summarization)|LLM for Book Summarization & Q\A : Walkthrough and Model Rankings|30|2024-01-17|2023-12-10|
+|36|[cognitivetech/llm-book-summarization](https://github.com/cognitivetech/llm-book-summarization)|LLM for Book Summarization & Q\A : Walkthrough and Model Rankings|32|2024-01-17|2023-12-10|
+|37|[fearocanity/ebtrfio-template](https://github.com/fearocanity/ebtrfio-template)|Template Repository for Frame in Order (Facebook). Written in Shell (for fun)|31|2023-11-28|2023-02-25|
 |38|[hrostami/tuic-setup](https://github.com/hrostami/tuic-setup)|A script to install tuic v5 according to iSegaro's tutorial.|28|2023-09-03|2023-08-27|
 |39|[the-pesar/domain-detective](https://github.com/the-pesar/domain-detective)|domain-detective is for a list of your domains that checks them hourly, and if a domain was open, it will inform you.|28|2023-08-12|2023-08-02|
 |40|[metrico/iox-community](https://github.com/metrico/iox-community)|Community InfluxDB 3.0 "IOx" static builds + containers + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs|28|2023-11-08|2023-05-20|

@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|682|2024-01-17|2023-04-04|
-|2|[Kotlin/kotlin-wasm-examples](https://github.com/Kotlin/kotlin-wasm-examples)|Examples with Kotlin/Wasm|390|2024-01-17|2023-02-07|
+|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|686|2024-01-17|2023-04-04|
+|2|[Kotlin/kotlin-wasm-examples](https://github.com/Kotlin/kotlin-wasm-examples)|Examples with Kotlin/Wasm|392|2024-01-17|2023-02-07|
 |3|[mjovanc/awesome-ktor](https://github.com/mjovanc/awesome-ktor)|Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡|313|2023-10-16|2023-03-10|
 |4|[alidehkhodaei/kotlin-cheat-sheet](https://github.com/alidehkhodaei/kotlin-cheat-sheet)|📄 A cheat sheet for Kotlin programming language|189|2023-10-04|2023-03-22|
-|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|103|2024-01-17|2023-10-18|
-|6|[myofficework000/Jetpack-Compose-All-In-One-Guide](https://github.com/myofficework000/Jetpack-Compose-All-In-One-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|96|2024-01-10|2023-04-11|
+|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|103|2024-01-18|2023-10-18|
+|6|[myofficework000/Jetpack-Compose-All-In-One-Guide](https://github.com/myofficework000/Jetpack-Compose-All-In-One-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|96|2024-01-18|2023-04-11|
 |7|[cashapp/quiver](https://github.com/cashapp/quiver)|Quiver is a collection of extension methods and handy functions to make the wonderful functional programming Kotlin library, Arrow, even better.|86|2024-01-16|2023-03-06|
 |8|[hzlaoliu/modbus-master-kt](https://github.com/hzlaoliu/modbus-master-kt)|modbus master kotlin|72|2023-08-07|2023-05-22|
 |9|[oas004/Material3Playground](https://github.com/oas004/Material3Playground)|Playground to check how changing the color system can affect the different components in Material 3. Mainly used to learn and to get an overview of the Material 3 design components|69|2023-12-21|2023-02-10|
 |10|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|52|2024-01-06|2023-09-25|
 |11|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|49|2024-01-16|2023-04-09|
-|12|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|47|2024-01-06|2023-10-22|
-|13|[alidehkhodaei/data-structures-and-algorithms](https://github.com/alidehkhodaei/data-structures-and-algorithms)|🔥 450 Data structures and algorithms coding questions with Kotlin solutions|47|2023-08-23|2023-04-15|
+|12|[alidehkhodaei/data-structures-and-algorithms](https://github.com/alidehkhodaei/data-structures-and-algorithms)|🔥 450 Data structures and algorithms coding questions with Kotlin solutions|48|2023-08-23|2023-04-15|
+|13|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|47|2024-01-06|2023-10-22|
 |14|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2023-12-01|2023-09-12|
 |15|[dalemncy/android-kotlin-dialogs](https://github.com/dalemncy/android-kotlin-dialogs)|Explore comprehensive demos illustrating AlertDialog, Date and Time Pickers, and Custom Dialog implementations in Android using Kotlin. These easily understandable examples facilitate seamless integra ...|36|2023-10-21|2023-10-21|
 |16|[dalemncy/android-kotlin-permissions](https://github.com/dalemncy/android-kotlin-permissions)|Explore Android's camera and location permissions with Kotlin in this demo repository. Seamlessly integrate permission requests for a user-friendly experience using insightful code snippets and clear  ...|36|2023-10-21|2023-10-21|
@@ -40,12 +40,12 @@
 |33|[binayshaw7777/ReadBud](https://github.com/binayshaw7777/ReadBud)|📕 Extract Jargon from Books with their meaning in just a snap!|16|2023-08-26|2023-06-26|
 |34|[UmairKhalid786/GuidedStepsComposeTv](https://github.com/UmairKhalid786/GuidedStepsComposeTv)|Guided Fragment replacement in compose tv, so its an effort to have something similar UI|16|2023-12-28|2023-04-06|
 |35|[alidehkhodaei/one-day-one-word](https://github.com/alidehkhodaei/one-day-one-word)|📖 Learn an english word every day|14|2023-10-31|2023-09-26|
-|36|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-16|2023-07-04|
+|36|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-17|2023-07-04|
 |37|[Kotlin/kotlin-wasm-benchmarks](https://github.com/Kotlin/kotlin-wasm-benchmarks)|Kotlin Multiplatform Collection of Benchmarks focused on Kotlin/Wasm performance|13|2023-12-21|2023-02-20|
 |38|[apter-tech/ParallaxCarouselCompose](https://github.com/apter-tech/ParallaxCarouselCompose)|This is an example project that demonstrates how to create a parallax carousel with Jetpack Compose.|12|2023-09-25|2023-09-01|
 |39|[anderssv/kotlin-htmx](https://github.com/anderssv/kotlin-htmx)|Example project for how to do HTMX with Kotlin and KTor|12|2023-10-18|2023-08-24|
-|40|[imgly/cesdk-android-examples](https://github.com/imgly/cesdk-android-examples)|Examples repository for running CreativeEngine on Android in Kotlin|12|2024-01-08|2023-01-25|
-|41|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|11|2023-10-09|2023-06-15|
+|40|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|12|2023-10-09|2023-06-15|
+|41|[imgly-labs/cesdk-android-examples](https://github.com/imgly-labs/cesdk-android-examples)|Examples repository for running CreativeEngine on Android in Kotlin|12|2024-01-08|2023-01-25|
 |42|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|11|2023-12-25|2023-05-31|
 |43|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the course Kotlin Multiplatform Masterclass.|10|2023-12-04|2023-11-24|
 |44|[PraneethJain/pentagon-megathon](https://github.com/PraneethJain/pentagon-megathon)|Psyche-Screener is a tool that emulates an interview screening process|10|2023-12-26|2023-10-28|
@@ -53,7 +53,7 @@
 |46|[yasinhajilou/Compozist](https://github.com/yasinhajilou/Compozist)|Collection of tricky Compose lists |9|2023-12-17|2023-12-14|
 |47|[Carrieukie/AGSL-Playground](https://github.com/Carrieukie/AGSL-Playground)|Android Graphics Shading Language (AGSL) is used by Android 13 and above to define the behavior of programmable RuntimeShader objects. AGSL shares much of its syntax with GLSL fragment shaders, but wo ...|9|2023-11-14|2023-11-14|
 |48|[sergey-lvovich-kim/ValoStat](https://github.com/sergey-lvovich-kim/ValoStat)|A guide for beginners to Valorant. Official API: https://valorant-api.com/|9|2023-07-28|2023-04-19|
-|49|[KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs)|Message Authentication Code algorithms for Kotlin Multiplatform|9|2024-01-05|2023-03-05|
+|49|[KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs)|Message Authentication Code algorithms for Kotlin Multiplatform|9|2024-01-17|2023-03-05|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
