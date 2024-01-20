@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|463|2023-08-25|
 |8|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|328|2023-10-13|
 |9|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|295|2023-08-23|
-|10|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|238|2024-01-18|
+|10|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|239|2024-01-18|
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|202|2023-11-28|
 |12|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|2024-01-16|
 |13|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|121|2024-01-18|
@@ -30,8 +30,8 @@
 |23|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2023-11-13|
 |24|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|2023-10-30|
 |25|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|2023-09-20|
-|26|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|2024-01-17|
-|27|[sptim/pdfbooklet](https://github.com/sptim/pdfbooklet)|OS X / macOS command line utility to reorder pages in a PDF file for booklet printing.|19|2023-09-05|
+|26|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|2024-01-19|
+|27|[sptim/pdfbooklet](https://github.com/sptim/pdfbooklet)|OS X / macOS command line utility to reorder pages in a PDF file for booklet printing.|20|2023-09-05|
 |28|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|18|2024-01-18|
 |29|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|18|2024-01-01|
 |30|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|13|2024-01-10|
@@ -45,7 +45,7 @@
 |38|[IGRSoft/imGuru](https://github.com/IGRSoft/imGuru)|Upload image to imgur via context menu Share|6|2023-10-31|
 |39|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2024-01-15|
 |40|[abdulowork/LinkWithXCTAutomationSupportXcode14](https://github.com/abdulowork/LinkWithXCTAutomationSupportXcode14)|An example showing how to bypass a linker error when linking with XCTAutomationSupport|4|2023-10-04|
-|41|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning swift programming language.|4|2024-01-18|
+|41|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning swift programming language.|4|2024-01-19|
 |42|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|2023-12-07|
 |43|[kingsoftgames/omnisdk-ios-demo](https://github.com/kingsoftgames/omnisdk-ios-demo)|The Demo includes code examples illustrating features of the OmniSDK iOS API.|3|2023-12-05|
 |44|[mediamonks/MMMTweaks](https://github.com/mediamonks/MMMTweaks)|Swift support for Facebook's Tweaks library|3|2023-09-18|
