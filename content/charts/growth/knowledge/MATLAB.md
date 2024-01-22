@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|6|1|2024-01-14|
-|2|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|933|1|2023-12-20|
+|2|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|934|1|2023-12-20|
 |3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1104|1|2024-01-15|
 |4|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|4|0|2023-11-13|
 |5|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|14|0|2024-01-03|
@@ -29,14 +29,14 @@
 |22|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|5|0|2023-12-13|
 |23|[JosephGWoods/ISMRM2022_VSASL_Bloch_Simulations](https://github.com/JosephGWoods/ISMRM2022_VSASL_Bloch_Simulations)|ISMRM 2022 Velocity Selective ASL tutorial|6|0|2023-10-13|
 |24|[petercorke/RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)|New toolbox, data and examples for Robotics, Vision & Control: 3rd edition in MATLAB|60|0|2023-11-15|
-|25|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|0|2024-01-20|
+|25|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|0|2024-01-21|
 |26|[ManshengChen/Code-for-GTLEC-master](https://github.com/ManshengChen/Code-for-GTLEC-master)|On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning, ACMMM2023|4|0|2023-10-30|
-|27|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|4|0|2024-01-13|
+|27|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|5|0|2024-01-13|
 |28|[Sumitk874/Sem_5](https://github.com/Sumitk874/Sem_5)|A repository containing notes, resources, and projects for my fifth-semester courses, including Communication and Optical Instrumentation, Process Dynamics and Control, Modern Control Theory, and Robo ...|3|0|2023-09-08|
 |29|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|21|0|2024-01-15|
 |30|[ptbrown1729/qgm_tools](https://github.com/ptbrown1729/qgm_tools)|Various tools developed while studying the Fermi-Hubbard model using a quantum gas microscope|4|0|2023-08-06|
 |31|[Junee1992/EUA-Futures-Pricing](https://github.com/Junee1992/EUA-Futures-Pricing)|This is a repository that contains codes that were used for a Master's thesis by Jun Han (2020), submitted to Macquarie University, Australia.|3|0|2024-01-08|
-|32|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|71|0|2024-01-15|
+|32|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|72|0|2024-01-15|
 |33|[krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry](https://github.com/krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry)|This repository contains a project completed at Worcester Polytechnic Institute for the RBE-502 Robot Control course.|3|0|2023-12-28|
 |34|[UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)|Contains Study Material of the Course|83|0|2024-01-06|
 |35|[andymilne/Music-Perception-Toolbox](https://github.com/andymilne/Music-Perception-Toolbox)|A MATLAB toolbox for analysing and modelling musical patterns and their perception.|3|0|2023-10-16|
@@ -46,7 +46,7 @@
 |39|[Hoai-Baoo/robotic_openmanipulator_x_simulation](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation)|A mini robotic project at Robot Course in Ho Chi Minh City Univercity of Technology|4|0|2023-08-01|
 |40|[DanuserLab/Granger-Causality-Analysis-of-Lamellipodia](https://github.com/DanuserLab/Granger-Causality-Analysis-of-Lamellipodia)|Pipeline for inference of Granger-causal relations in molecular systems to study actin regulation in lamellipodia|3|0|2024-01-20|
 |41|[JiaxiangYi96/AMK-MCS-AEFF](https://github.com/JiaxiangYi96/AMK-MCS-AEFF)|an active-learning method for reliability analysis based on multi-fidelity kriging model|14|0|2023-11-06|
-|42|[opencobra/COBRA.tutorials](https://github.com/opencobra/COBRA.tutorials)|Repository of tutorials for The COBRA Toolbox|18|0|2024-01-19|
+|42|[opencobra/COBRA.tutorials](https://github.com/opencobra/COBRA.tutorials)|Repository of tutorials for The COBRA Toolbox|18|0|2024-01-21|
 |43|[mathworks/FPGA-Adaptive-Beamforming-and-Radar-Examples](https://github.com/mathworks/FPGA-Adaptive-Beamforming-and-Radar-Examples)|This repository contains FPGA/HDL demonstrations several beamforming and radar designs. Simulink models and MATLAB reference code are provided to showcase high-level simulation and HDL designs of vari ...|33|0|2023-07-26|
 |44|[ferreau/mpcBenchmarking](https://github.com/ferreau/mpcBenchmarking)|Open collection of model predictive control (MPC) benchmarking problems|23|0|2023-10-23|
 |45|[modenaxe/msk-STAPLE](https://github.com/modenaxe/msk-STAPLE)|STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented  ...|51|0|2023-11-05|
@@ -197,8 +197,8 @@
 |190|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|246|0|2024-01-15|
 |191|[matlab-deep-learning/Image-Classification-in-MATLAB-Using-TensorFlow](https://github.com/matlab-deep-learning/Image-Classification-in-MATLAB-Using-TensorFlow)|This example shows how to call a TensorFlow model from MATLAB using co-execution with Python.|44|0|2023-12-05|
 |192|[IPNL-POLYU/IPIN-Examples](https://github.com/IPNL-POLYU/IPIN-Examples)|Example codes for the book "Principles of Indoor Positioning and Indoor Navigation"|3|0|2023-12-18|
-|193|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |454|0|2023-12-24|
-|194|[ktekeli/audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)|A Library of Audio Steganography & Watermarking Algorithms|215|0|2023-11-07|
+|193|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |455|0|2023-12-24|
+|194|[ktekeli/audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)|A Library of Audio Steganography & Watermarking Algorithms|216|0|2023-11-07|
 |195|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|0|2023-12-07|
 |196|[mathworks-robotics/templates-robocup-robot-manipulation-challenge](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)|This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to cont ...|11|0|2023-08-02|
 |197|[peijin94/matlabPlotCheatsheet](https://github.com/peijin94/matlabPlotCheatsheet)|A cheatsheet for those who plot with MATLAB|371|0|2023-11-11|
