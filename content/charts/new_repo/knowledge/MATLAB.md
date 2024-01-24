@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[pulseq/tutorials](https://github.com/pulseq/tutorials)|This is a collection of various Pulseq tutorials, which is supposed to grow in future|24|2023-09-27|2023-02-10|
-|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|18|2024-01-17|2024-01-11|
+|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|19|2024-01-17|2024-01-11|
 |3|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|15|2023-11-09|2023-02-15|
 |4|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|11|2023-11-14|2023-02-16|
 |5|[Aketirani/ANC](https://github.com/Aketirani/ANC)|Active Noise Cancelling Using Filtered Adaptive Algorithms|11|2024-01-15|2023-02-12|
@@ -16,8 +16,8 @@
 |9|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
 |10|[isabella-gomes/Globecom2023](https://github.com/isabella-gomes/Globecom2023)|This is a collection of MATLAB scripts to generate numerical results for the paper "Multi-Static ISAC in Cell-Free Massive MIMO: Precoder Design and Privacy Assessment"|8|2023-07-29|2023-07-29|
 |11|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|2023-02-14|
-|12|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
-|13|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|6|2024-01-14|2024-01-14|
+|12|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|7|2024-01-14|2024-01-14|
+|13|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
 |14|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|6|2024-01-10|2023-10-13|
 |15|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |6|2024-01-18|2023-10-09|
 |16|[aliiimaher/Numerical-Analysis](https://github.com/aliiimaher/Numerical-Analysis)|This is a Numerical Analysis course project, implementing numerical analysis methods.|5|2023-08-03|2023-08-03|
@@ -26,7 +26,7 @@
 |19|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|5|2024-01-13|2023-04-15|
 |20|[Aidensh/Full-waveform-inversion](https://github.com/Aidensh/Full-waveform-inversion)|This a FWI pakage I developed during my master's thesis|5|2023-10-31|2023-03-13|
 |21|[CTinRT/HLUT-guide](https://github.com/CTinRT/HLUT-guide)|The code accompanying the comprehensive guide on HLUT specification.|5|2023-09-08|2023-03-02|
-|22|[matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras](https://github.com/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras)|This example shows how to co-execute MATLAB and Python to simulate the effect of channel estimate compression on precoding in a MIMO OFDM channel.|5|2024-01-22|2023-02-10|
+|22|[matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras](https://github.com/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras)|This example shows how to co-execute MATLAB and Python to simulate the effect of channel estimate compression on precoding in a MIMO OFDM channel.|5|2024-01-23|2023-02-10|
 |23|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|2023-11-13|2023-09-28|
 |24|[catherinepapad/Optimization_Techniques](https://github.com/catherinepapad/Optimization_Techniques)|Assignments for "Optimization_Techniques" course of ECE in AUTh. |4|2023-09-25|2023-09-25|
 |25|[umeshmvn/Fake-Currency-Detection-Using-Matlab](https://github.com/umeshmvn/Fake-Currency-Detection-Using-Matlab)|I have implemented a fake note detection unit with image processing algorithms in MATLAB. The aspect ratio is calculated initially for the input notes to classify the original notes. The experimental  ...|4|2023-09-18|2023-09-17|
@@ -55,16 +55,15 @@
 |48|[ruiawang/Numerical-Analysis-Algorithms](https://github.com/ruiawang/Numerical-Analysis-Algorithms)|Implementations of various Algorithms used in Numerical Analysis, from root-finding up to gradient descent and numerically solving PDEs.|3|2023-08-14|2023-07-15|
 |49|[sbiswas8/space-nav-track](https://github.com/sbiswas8/space-nav-track)|This the repository of the accompanying MATLAB codes for the Book Navigation and Tracking in Space: Analysis and Algorithms|3|2024-01-15|2023-07-13|
 |50|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
-|51|[thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak)|​​This is a list of all the ThingSpeak code templates with links to open the code from the repository into MATLAB Online.​ |3|2023-07-24|2023-06-14|
-|52|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-12-06|2023-06-08|
-|53|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
-|54|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
-|55|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
-|56|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
-|57|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
-|58|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
-|59|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
-|60|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
+|51|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|3|2023-12-06|2023-06-08|
+|52|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
+|53|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
+|54|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
+|55|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
+|56|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
+|57|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
+|58|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
+|59|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

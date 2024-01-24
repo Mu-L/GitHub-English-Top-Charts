@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1806|2024-01-17|2023-06-14|
-|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|181|2024-01-18|2023-10-03|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1807|2024-01-17|2023-06-14|
+|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|183|2024-01-18|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|146|2023-10-23|2023-10-04|
-|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|128|2024-01-14|2023-07-28|
-|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|124|2024-01-18|2023-07-12|
-|6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|87|2024-01-19|2023-06-05|
-|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|76|2024-01-22|2023-12-01|
+|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|130|2024-01-14|2023-07-28|
+|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|127|2024-01-18|2023-07-12|
+|6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|88|2024-01-19|2023-06-05|
+|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|76|2024-01-23|2023-12-01|
 |8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|62|2023-09-30|2023-09-30|
-|9|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|55|2023-12-21|2023-12-16|
+|9|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|56|2023-12-21|2023-12-16|
 |10|[rkmtlab/LipLearner](https://github.com/rkmtlab/LipLearner)|Research repository for LipLearner: Customizable Silent Speech Interactions on Mobile Devices (CHI 2023).|44|2023-11-08|2023-02-15|
 |11|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|43|2023-11-12|2023-09-28|
-|12|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|40|2023-12-21|2023-06-19|
+|12|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|41|2023-12-21|2023-06-19|
 |13|[twostraws/FaceFacts](https://github.com/twostraws/FaceFacts)|Source code for my SwiftUI + SwiftData tutorial.|34|2023-12-23|2023-12-23|
-|14|[StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM)|A collection of machine learning-related modules usable in the Spezi ecosystem|33|2024-01-22|2023-05-21|
+|14|[StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM)|A collection of machine learning-related modules usable in the Spezi ecosystem|34|2024-01-22|2023-05-21|
 |15|[GoodRequest/GoodExtensions-iOS](https://github.com/GoodRequest/GoodExtensions-iOS)|📑 GoodExtensions is a collection of useful and frequently used Swift extensions for iOS development, designed to simplify and streamline common tasks.It helps developers write clean and concise code,  ...|28|2023-11-14|2023-02-03|
 |16|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|23|2023-12-09|2023-11-22|
 |17|[JuniperPhoton/Widget-Intermediate-Animation](https://github.com/JuniperPhoton/Widget-Intermediate-Animation)|A demo to demonstrate how to animate widget changes with intermediate state|23|2023-08-25|2023-08-23|
@@ -64,7 +64,9 @@
 |57|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|
 |58|[jacobsapps/metal](https://github.com/jacobsapps/metal)|It's simple, just learn C++|5|2023-11-15|2023-10-26|
 |59|[helloItsHEssam/Library](https://github.com/helloItsHEssam/Library)|A simple project with SwiftUI. In this project, it displays a list of favorite books and the details of each one.|5|2023-10-01|2023-09-29|
-|60|[Mieraidihaimu/TypingPall](https://github.com/Mieraidihaimu/TypingPall)|Typing practice your favourite language, code, algorithms and more|5|2023-08-30|2023-07-13|
+|60|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2023-10-14|2023-08-20|
+|61|[Mieraidihaimu/TypingPall](https://github.com/Mieraidihaimu/TypingPall)|Typing practice your favourite language, code, algorithms and more|5|2023-08-30|2023-07-13|
+|62|[NativeScript/visionos-hello-world](https://github.com/NativeScript/visionos-hello-world)|Vision Pro 🥽 Hello World tutorial with NativeScript using various flavors - Angular, React, Solid, Svelte, TypeScript and Vue.|5|2023-10-29|2023-07-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
