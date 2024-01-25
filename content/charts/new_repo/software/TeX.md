@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|320|2024-01-22|2023-05-16|
-|2|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|294|2024-01-20|2023-07-06|
+|2|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|297|2024-01-20|2023-07-06|
 |3|[GeorgeHNTR/portfolio](https://github.com/GeorgeHNTR/portfolio)|George's smart contract security review reports|179|2024-01-15|2023-02-05|
-|4|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|147|2024-01-20|2023-10-13|
+|4|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|148|2024-01-20|2023-10-13|
 |5|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|143|2024-01-20|2023-08-23|
 |6|[awesome-tnns/awesome-tnns](https://github.com/awesome-tnns/awesome-tnns)|-|133|2023-09-13|2023-04-15|
 |7|[cvpr-org/author-kit](https://github.com/cvpr-org/author-kit)|-|124|2023-10-30|2023-05-29|
@@ -131,24 +131,24 @@
 |124|[sonnh-uit/HCMUIT_thesistemplate](https://github.com/sonnh-uit/HCMUIT_thesistemplate)|-|8|2023-12-25|2023-07-19|
 |125|[Compiler-CampusMinden/CB-Vorlesung-Master](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Master)|Lectures "Compilerbau" and "Concepts of Programming Languages" (M.Sc.)|8|2024-01-19|2023-06-29|
 |126|[cwickham/manuscript-template-rstudio](https://github.com/cwickham/manuscript-template-rstudio)|-|8|2023-09-07|2023-06-08|
-|127|[OpenHUTB/neuro](https://github.com/OpenHUTB/neuro)|-|8|2024-01-23|2023-04-02|
+|127|[OpenHUTB/neuro](https://github.com/OpenHUTB/neuro)|-|8|2024-01-24|2023-04-02|
 |128|[deep-foundation/documentation](https://github.com/deep-foundation/documentation)|https://github.com/deep-foundation/Documentation/wiki|8|2023-12-23|2023-03-21|
 |129|[mavam/quarto-brief](https://github.com/mavam/quarto-brief)|A Quarto template for a DIN 5008 letter|8|2023-12-08|2023-02-23|
 |130|[specs-feup/cacti_tests](https://github.com/specs-feup/cacti_tests)|Tests for CACTI|8|2023-08-14|2023-02-17|
-|131|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|7|2024-01-02|2024-01-01|
-|132|[dill/mgcv-tipsheet](https://github.com/dill/mgcv-tipsheet)|Tips sheet for `mgcv`|7|2023-11-09|2023-10-30|
-|133|[selfawaresoup/latex-templates](https://github.com/selfawaresoup/latex-templates)|-|7|2023-11-21|2023-10-24|
-|134|[Jowo5696/studium](https://github.com/Jowo5696/studium)|Notizen|7|2023-11-30|2023-10-09|
-|135|[BGMP/Thesis](https://github.com/BGMP/Thesis)|My Thesis, written in TeX|7|2024-01-18|2023-10-07|
-|136|[BachiLi/balboa_public](https://github.com/BachiLi/balboa_public)|-|7|2023-12-08|2023-09-26|
-|137|[mshsvnv/AlgorithmAnalysis](https://github.com/mshsvnv/AlgorithmAnalysis)|-|7|2024-01-03|2023-09-21|
-|138|[alessiogj/master-degree-computer-science](https://github.com/alessiogj/master-degree-computer-science)|-|7|2024-01-21|2023-09-09|
-|139|[EricLYunqi/HKUST-Assignment-Latex-Template](https://github.com/EricLYunqi/HKUST-Assignment-Latex-Template)|-|7|2023-09-06|2023-09-06|
-|140|[Yupei-Du/uunlp-group-meeting](https://github.com/Yupei-Du/uunlp-group-meeting)|Repository for hosting UU NLP group meeting materials|7|2024-01-16|2023-08-31|
-|141|[ezekielulrich/Notes](https://github.com/ezekielulrich/Notes)|Notes on several classes at Purdue|7|2024-01-18|2023-08-22|
-|142|[chauby/paper_response_to_reviewers](https://github.com/chauby/paper_response_to_reviewers)|The template of LaTeX files for the response to the reviewers|7|2023-08-13|2023-08-13|
-|143|[AmirAbbasSaberi/Spline](https://github.com/AmirAbbasSaberi/Spline)|-|7|2023-08-06|2023-07-25|
-|144|[suraj-srinivas/latex-poster-template](https://github.com/suraj-srinivas/latex-poster-template)|An academic poster template using the popular baposter package|7|2023-07-25|2023-07-11|
+|131|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|-|7|2024-01-24|2024-01-24|
+|132|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|7|2024-01-02|2024-01-01|
+|133|[dill/mgcv-tipsheet](https://github.com/dill/mgcv-tipsheet)|Tips sheet for `mgcv`|7|2023-11-09|2023-10-30|
+|134|[selfawaresoup/latex-templates](https://github.com/selfawaresoup/latex-templates)|-|7|2023-11-21|2023-10-24|
+|135|[Jowo5696/studium](https://github.com/Jowo5696/studium)|Notizen|7|2023-11-30|2023-10-09|
+|136|[BGMP/Thesis](https://github.com/BGMP/Thesis)|My Thesis, written in TeX|7|2024-01-18|2023-10-07|
+|137|[BachiLi/balboa_public](https://github.com/BachiLi/balboa_public)|-|7|2023-12-08|2023-09-26|
+|138|[mshsvnv/AlgorithmAnalysis](https://github.com/mshsvnv/AlgorithmAnalysis)|-|7|2024-01-03|2023-09-21|
+|139|[alessiogj/master-degree-computer-science](https://github.com/alessiogj/master-degree-computer-science)|-|7|2024-01-21|2023-09-09|
+|140|[EricLYunqi/HKUST-Assignment-Latex-Template](https://github.com/EricLYunqi/HKUST-Assignment-Latex-Template)|-|7|2023-09-06|2023-09-06|
+|141|[Yupei-Du/uunlp-group-meeting](https://github.com/Yupei-Du/uunlp-group-meeting)|Repository for hosting UU NLP group meeting materials|7|2024-01-24|2023-08-31|
+|142|[ezekielulrich/Notes](https://github.com/ezekielulrich/Notes)|Notes on several classes at Purdue|7|2024-01-18|2023-08-22|
+|143|[chauby/paper_response_to_reviewers](https://github.com/chauby/paper_response_to_reviewers)|The template of LaTeX files for the response to the reviewers|7|2023-08-13|2023-08-13|
+|144|[AmirAbbasSaberi/Spline](https://github.com/AmirAbbasSaberi/Spline)|-|7|2023-08-06|2023-07-25|
 |145|[christopherkenny/apsr](https://github.com/christopherkenny/apsr)|Quarto Template for APSR Submissions|7|2023-12-17|2023-06-30|
 |146|[dfolio/quarto-ieee](https://github.com/dfolio/quarto-ieee)|quarto IEEE template journal|7|2023-12-20|2023-06-23|
 |147|[nguyenthanhvuh/phd-cs-us](https://github.com/nguyenthanhvuh/phd-cs-us)|This document helps demystify the PhD admission process in Computer Science in US universities. It is written mainly for International Students.|7|2024-01-23|2023-06-06|
@@ -167,7 +167,7 @@
 |160|[biomedia-mira/demystifying-diffusion](https://github.com/biomedia-mira/demystifying-diffusion)|-|6|2024-01-15|2024-01-11|
 |161|[dainbow/OptCal](https://github.com/dainbow/OptCal)|-|6|2023-12-07|2023-12-03|
 |162|[learningspace-utfpr-cm/latex-utfpr-tcc](https://github.com/learningspace-utfpr-cm/latex-utfpr-tcc)|Modelo LaTeX para trabalhos de conclusão de curso da UTFPR (graduação, mestrado, doutorado). Baseado no modelo oficial disponível em https://portal.utfpr.edu.br/biblioteca/trabalhos-academicos|6|2023-12-24|2023-11-27|
-|163|[jbytecode/julia-presentation](https://github.com/jbytecode/julia-presentation)|Julia Presentation|6|2023-12-01|2023-11-20|
+|163|[jbytecode/julia-presentation](https://github.com/jbytecode/julia-presentation)|Julia Presentation|6|2024-01-24|2023-11-20|
 |164|[SiriusAhu/XJTLU-TC_Latex_Coursework_Template](https://github.com/SiriusAhu/XJTLU-TC_Latex_Coursework_Template)|-|6|2023-11-18|2023-11-12|
 |165|[uvadlc/uvadlc_practicals_2023](https://github.com/uvadlc/uvadlc_practicals_2023)|-|6|2023-12-17|2023-10-25|
 |166|[EliteSoftDev/GPS-metadata-copier](https://github.com/EliteSoftDev/GPS-metadata-copier)|GPS metadata copier from one GoPro video to another|6|2023-10-19|2023-10-18|
@@ -201,7 +201,7 @@
 |194|[Harshit-Raj-14/JARVIS-Python-Voice-Assistant](https://github.com/Harshit-Raj-14/JARVIS-Python-Voice-Assistant)|J.A.R.V.I.S - Python Smart AI Voice Assistant|6|2023-07-31|2023-02-06|
 |195|[Han8931/reinforcement_learning_note](https://github.com/Han8931/reinforcement_learning_note)|-|6|2023-12-21|2023-02-02|
 |196|[zibliclub/university](https://github.com/zibliclub/university)|Lecture notes, etc. of Omsk State University, Faculty of Digital Technologies and Cybersecurity, Applied Mathematics and Computer Science|5|2024-01-21|2023-12-30|
-|197|[jeetsukumaran/obsidian-impresario](https://github.com/jeetsukumaran/obsidian-impresario)|-|5|2024-01-17|2023-12-23|
+|197|[jeetsukumaran/obsidian-impresario](https://github.com/jeetsukumaran/obsidian-impresario)|-|5|2024-01-24|2023-12-23|
 |198|[Pasanlaksitha/videoconverter](https://github.com/Pasanlaksitha/videoconverter)|convert those annoying MKV videos to MP4 to make Premier Pro projects easier.|5|2024-01-15|2023-12-22|
 |199|[dainbow/TFKP](https://github.com/dainbow/TFKP)|-|5|2023-12-25|2023-12-20|
 |200|[SGYSY/lab_report-in-Latex](https://github.com/SGYSY/lab_report-in-Latex)|Hope it helps my friends.|5|2023-12-23|2023-12-18|

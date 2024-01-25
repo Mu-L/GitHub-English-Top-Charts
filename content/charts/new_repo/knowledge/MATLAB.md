@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[pulseq/tutorials](https://github.com/pulseq/tutorials)|This is a collection of various Pulseq tutorials, which is supposed to grow in future|24|2023-09-27|2023-02-10|
-|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|19|2024-01-17|2024-01-11|
+|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|20|2024-01-17|2024-01-11|
 |3|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|15|2023-11-09|2023-02-15|
-|4|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|11|2023-11-14|2023-02-16|
+|4|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|11|2024-01-24|2023-02-16|
 |5|[Aketirani/ANC](https://github.com/Aketirani/ANC)|Active Noise Cancelling Using Filtered Adaptive Algorithms|11|2024-01-15|2023-02-12|
 |6|[ami-iit/ironcub-mk1-software](https://github.com/ami-iit/ironcub-mk1-software)|In this repository we share software for dynamics simulations of the jet-powered humanoid iRonCub-Mk1.|11|2024-01-04|2023-02-06|
 |7|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|10|2024-01-18|2023-06-28|
@@ -60,10 +60,9 @@
 |53|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|3|2023-12-01|2023-05-22|
 |54|[adilrabid/eee822-numerical-methods](https://github.com/adilrabid/eee822-numerical-methods)|A 8th semester course of Electrical and Electronics Engineering called Numerical Methods Laboratory .|3|2023-08-12|2023-05-15|
 |55|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|3|2023-12-20|2023-05-11|
-|56|[sergioacg/Model-Predictive-Control-Tuning](https://github.com/sergioacg/Model-Predictive-Control-Tuning)|Algorithms focused on the programming of predictive controllers based on Model, such as implementations of various strategies using this controller, personal scientific publications on this subject or ...|3|2023-07-25|2023-04-25|
-|57|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
-|58|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
-|59|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
+|56|[takedatakedatakeda/BigSTeP](https://github.com/takedatakedatakeda/BigSTeP)|MATLAB toolbox for estimating repetitive spatiotemporal patterns from resting-state brain activity data|3|2023-08-08|2023-04-25|
+|57|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
+|58|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|2023-10-19|2023-02-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

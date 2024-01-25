@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|54|2024-01-19|2023-04-10|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|30|2024-01-05|2023-07-27|
 |3|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-01-11|2023-04-05|
-|4|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-01-22|2023-08-30|
-|5|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|10|2023-10-17|2023-05-31|
+|4|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-01-24|2023-08-30|
+|5|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|11|2023-10-17|2023-05-31|
 |6|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-01-19|2023-04-25|
 |7|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em 4 horas|8|2024-01-19|2024-01-02|
 |8|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-01-19|2023-04-20|
@@ -35,7 +35,7 @@
 |28|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
 |29|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-20|2023-08-08|
 |30|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-01-16|2023-06-30|
-|31|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2024-01-23|2023-05-22|
+|31|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2024-01-24|2023-05-22|
 |32|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
 |33|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
 |34|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-01-22|2023-03-01|
@@ -47,35 +47,36 @@
 |40|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2024-01-05|2023-11-29|
 |41|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
 |42|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|2|2023-11-12|2023-11-08|
-|43|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-22|2023-11-03|
+|43|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-24|2023-11-03|
 |44|[anniebowles/contextual-dates](https://github.com/anniebowles/contextual-dates)|-|2|2023-10-27|2023-10-27|
 |45|[ppazos/openehr-basic](https://github.com/ppazos/openehr-basic)|Sample openEHR application to learn design and development concepts|2|2023-10-31|2023-10-17|
 |46|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
 |47|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
 |48|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|2|2023-11-20|2023-09-24|
 |49|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
-|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-23|2023-09-14|
+|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-24|2023-09-14|
 |51|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
 |52|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-19|2023-08-22|
 |53|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
 |54|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2023-12-27|2023-07-08|
-|55|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
-|56|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|2|2024-01-08|2023-06-13|
-|57|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
-|58|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
-|59|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
-|60|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-10|2023-05-17|
-|61|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
-|62|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
-|63|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
-|64|[spoonboy-io/custom-tab-plugin](https://github.com/spoonboy-io/custom-tab-plugin)|Prototype Morpheus Custom Tab plugin|2|2023-08-17|2023-05-09|
-|65|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
-|66|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
-|67|[wekeeroad/firstrep](https://github.com/wekeeroad/firstrep)|-|2|2023-08-22|2023-04-02|
-|68|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
-|69|[genomic-medicine-sweden/gms_16S](https://github.com/genomic-medicine-sweden/gms_16S)|A  pipeline based on EMU, a taxonomic profiler optimized for long 16S rRNA reads.|2|2023-09-21|2023-02-22|
-|70|[Taack/plm](https://github.com/Taack/plm)|Intranet PLM Module|2|2024-01-10|2023-02-09|
-|71|[ppazos/openehr-conformance-verification](https://github.com/ppazos/openehr-conformance-verification)|Conformance verification framework or openEHR implementations|2|2023-11-21|2023-01-29|
+|55|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-01-23|2023-07-07|
+|56|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
+|57|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|2|2024-01-08|2023-06-13|
+|58|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
+|59|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
+|60|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
+|61|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-10|2023-05-17|
+|62|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
+|63|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
+|64|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
+|65|[spoonboy-io/custom-tab-plugin](https://github.com/spoonboy-io/custom-tab-plugin)|Prototype Morpheus Custom Tab plugin|2|2023-08-17|2023-05-09|
+|66|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
+|67|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
+|68|[wekeeroad/firstrep](https://github.com/wekeeroad/firstrep)|-|2|2023-08-22|2023-04-02|
+|69|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
+|70|[genomic-medicine-sweden/gms_16S](https://github.com/genomic-medicine-sweden/gms_16S)|A  pipeline based on EMU, a taxonomic profiler optimized for long 16S rRNA reads.|2|2023-09-21|2023-02-22|
+|71|[Taack/plm](https://github.com/Taack/plm)|Intranet PLM Module|2|2024-01-10|2023-02-09|
+|72|[ppazos/openehr-conformance-verification](https://github.com/ppazos/openehr-conformance-verification)|Conformance verification framework or openEHR implementations|2|2023-11-21|2023-01-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
