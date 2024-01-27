@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|49516|2024-01-25|2023-03-10|
-|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|484|2023-11-23|2023-07-14|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|49565|2024-01-26|2023-03-10|
+|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|489|2023-11-23|2023-07-14|
 |3|[REDMED-X/OperatorsKit](https://github.com/REDMED-X/OperatorsKit)|Collection of Beacon Object Files (BOF) for Cobalt Strike|409|2023-12-14|2023-02-06|
 |4|[huntandhackett/process-cloning](https://github.com/huntandhackett/process-cloning)|The Definitive Guide To Process Cloning on Windows|263|2024-01-03|2023-04-11|
-|5|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|234|2024-01-22|2024-01-14|
+|5|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|235|2024-01-25|2024-01-14|
 |6|[Baymax-Rob/Life-long-learning](https://github.com/Baymax-Rob/Life-long-learning)|I am a beginner who loves programming. I want to record and share my learning process. If there is something wrong, please discuss and point it out. Let's learn together and make progress together!|233|2023-08-02|2023-02-08|
-|7|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|218|2023-11-03|2023-10-06|
+|7|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|219|2023-11-03|2023-10-06|
 |8|[frank2/packer-tutorial](https://github.com/frank2/packer-tutorial)|A tutorial on how to write a packer for Windows!|199|2023-12-15|2023-02-10|
-|9|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|196|2023-12-28|2023-08-20|
+|9|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|197|2023-12-28|2023-08-20|
 |10|[RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies)|Step by step explanation/tutorial of llama2.c|183|2023-10-09|2023-07-29|
-|11|[dalathegreat/Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)|Software and guides for upgrading LEAFs to bigger and newer batteries|169|2023-12-12|2023-04-05|
-|12|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|147|2023-12-14|2023-09-26|
+|11|[dalathegreat/Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)|Software and guides for upgrading LEAFs to bigger and newer batteries|170|2023-12-12|2023-04-05|
+|12|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|148|2023-12-14|2023-09-26|
 |13|[Kingtous/thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh)|hackintosh for thinkbook14p-Gen2-ACH (AMD Ryzen 7 5800h)|95|2024-01-16|2023-05-25|
 |14|[Nuno-Jesus/Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)|Clear the fog around Makefiles with this Makefile tutorial and enhance your knowledge with advanced tips and concepts.|85|2023-12-30|2023-06-01|
 |15|[toddmaustin/bringup-bench](https://github.com/toddmaustin/bringup-bench)|Bringup-Bench is a collection of standalone minimal library and system dependence benchmarks useful for bringing up newly designed CPUs, accelerators, compilers and operating systems. You probably don ...|84|2023-08-23|2023-04-11|
 |16|[HX-Titaniumc-wwt/3.7Inch-Eink](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink)|A small but versatile handheld ebook|79|2023-11-29|2023-06-22|
 |17|[paranoidninja/Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection)|This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared|77|2023-10-12|2023-10-12|
-|18|[HNUYueLuRM/basic_framework](https://github.com/HNUYueLuRM/basic_framework)|framework for developing RoboMaster Electric Control programmes|77|2023-10-27|2023-06-05|
+|18|[HNUYueLuRM/basic_framework](https://github.com/HNUYueLuRM/basic_framework)|framework for developing RoboMaster Electric Control programmes|76|2023-10-27|2023-06-05|
 |19|[mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking)|A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.|75|2024-01-14|2023-10-06|
 |20|[T-Yashwanth-Naidu/C-Programming-Questions](https://github.com/T-Yashwanth-Naidu/C-Programming-Questions)|You can find a list of programming problems on various topic in C|72|2023-10-17|2023-08-30|
 |21|[r-devel/c-book-club](https://github.com/r-devel/c-book-club)|Modern C book club for R contributors|67|2023-08-08|2023-04-04|
-|22|[thebsdbox/learning-ebpf](https://github.com/thebsdbox/learning-ebpf)|This repository contains various code snippets and learnings around eBPF|61|2024-01-24|2023-02-27|
+|22|[thebsdbox/learning-ebpf](https://github.com/thebsdbox/learning-ebpf)|This repository contains various code snippets and learnings around eBPF|65|2024-01-24|2023-02-27|
 |23|[spicyjpeg/ps1-bare-metal](https://github.com/spicyjpeg/ps1-bare-metal)|PlayStation 1 bare-metal C examples|56|2024-01-12|2023-06-30|
 |24|[milkv-duo/duo-examples](https://github.com/milkv-duo/duo-examples)|Milk-V Duo official C/C++ examples|51|2024-01-18|2023-06-19|
 |25|[hinqiwame/soinjector](https://github.com/hinqiwame/soinjector)|Linux shared object injector written in pure C|44|2024-01-15|2023-02-27|
@@ -42,9 +42,10 @@
 |35|[ohBrooks/MY_FOC_Driver](https://github.com/ohBrooks/MY_FOC_Driver)|FOC Learning|33|2024-01-17|2023-05-22|
 |36|[aripiprazole/lura](https://github.com/aripiprazole/lura)|🍞   IDE focused programming language study|30|2024-01-20|2023-07-18|
 |37|[nukeykt/Nuked-SMS](https://github.com/nukeykt/Nuked-SMS)|Sega Master System emulator (WIP)|28|2023-11-07|2023-09-03|
-|38|[Cobalt-Strike/callback_examples](https://github.com/Cobalt-Strike/callback_examples)|This contains a number of examples demonstrating how to use callback functions in supported aggressor script functions|25|2023-09-18|2023-09-07|
-|39|[Bharathgopal/May2023](https://github.com/Bharathgopal/May2023)|Learning C Programming|25|2024-01-18|2023-05-19|
-|40|[realrossmanngroup/cbookexercises](https://github.com/realrossmanngroup/cbookexercises)|I'm going through the book C Programming Language by Dennis Ritchie, and doing the exercises. |24|2023-12-12|2023-08-27|
+|38|[haotianh9/DengFOC_on_STM32](https://github.com/haotianh9/DengFOC_on_STM32)|My implementation of Field-Oriented Control(FOC) on STM32 following DengFOC's tutorial |27|2023-12-26|2023-05-06|
+|39|[realrossmanngroup/cbookexercises](https://github.com/realrossmanngroup/cbookexercises)|I'm going through the book C Programming Language by Dennis Ritchie, and doing the exercises. |26|2023-12-12|2023-08-27|
+|40|[Cobalt-Strike/callback_examples](https://github.com/Cobalt-Strike/callback_examples)|This contains a number of examples demonstrating how to use callback functions in supported aggressor script functions|25|2023-09-18|2023-09-07|
+|41|[Bharathgopal/May2023](https://github.com/Bharathgopal/May2023)|Learning C Programming|25|2024-01-18|2023-05-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

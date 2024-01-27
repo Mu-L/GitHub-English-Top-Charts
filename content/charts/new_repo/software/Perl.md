@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|149|2024-01-16|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|118|2024-01-01|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|104|2024-01-25|2023-05-25|
+|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|150|2024-01-16|2024-01-11|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|119|2024-01-01|2023-07-30|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|105|2024-01-25|2023-05-25|
 |4|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|53|2023-12-17|2023-03-05|
-|5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|38|2024-01-24|2024-01-23|
+|5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|44|2024-01-24|2024-01-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |7|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|36|2023-10-26|2023-05-23|
 |8|[Perl-Apollo/oshun](https://github.com/Perl-Apollo/oshun)| Declarative data validation for variables and subroutines|25|2023-08-18|2023-05-14|
@@ -18,7 +18,7 @@
 |11|[keydet89/RegRipper4.0](https://github.com/keydet89/RegRipper4.0)|RegRipper4.0|19|2023-08-22|2023-08-22|
 |12|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
 |13|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|16|2024-01-03|2023-07-11|
-|14|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2023-11-09|2023-09-21|
+|14|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-01-26|2023-09-21|
 |15|[formbio/FLAG](https://github.com/formbio/FLAG)|-|14|2023-10-09|2023-06-17|
 |16|[DerekPascarella/CoolCoolToon-EnglishPatchDreamcast](https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Cool Cool Toon".|14|2023-12-15|2023-04-07|
 |17|[elisezhu123/Crossover_gpt_patch](https://github.com/elisezhu123/Crossover_gpt_patch)|add game porting tools 1.02beta patch into crossover |12|2023-09-03|2023-07-01|
@@ -46,7 +46,7 @@
 |39|[lskatz/pdtk](https://github.com/lskatz/pdtk)|NCBI Pathogen Detection Portal toolkit|6|2023-09-06|2023-08-29|
 |40|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|6|2023-11-29|2023-08-07|
 |41|[alleycat1/sqlserver2pgsql-pro](https://github.com/alleycat1/sqlserver2pgsql-pro)|-|6|2023-08-03|2023-08-03|
-|42|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2024-01-24|2023-02-17|
+|42|[JJ/IV-](https://github.com/JJ/IV-)|Repositorio anual de IV|6|2024-01-26|2023-02-17|
 |43|[pcineverdies/AOC-2023](https://github.com/pcineverdies/AOC-2023)|Advent Of Code 2023|5|2023-12-17|2023-11-29|
 |44|[zzzeyez/dots-linux](https://github.com/zzzeyez/dots-linux)|-|5|2023-12-26|2023-11-27|
 |45|[robrwo/perl-ipgrep](https://github.com/robrwo/perl-ipgrep)|grep by ip address|5|2023-11-10|2023-11-02|
@@ -56,7 +56,7 @@
 |49|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
 |50|[BGQ/ORPA](https://github.com/BGQ/ORPA)|Whole organelle genome-wide alignment construction method, which ultilizes BLAST tool, to facilitate phylogeny analysis|5|2023-08-27|2023-05-05|
 |51|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|5|2023-09-12|2023-03-30|
-|52|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-01-24|2023-03-12|
+|52|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-01-26|2023-03-12|
 |53|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2023-11-28|2023-03-12|
 |54|[mikkoi/env-assert](https://github.com/mikkoi/env-assert)|Ensure that the environment variables match what you need, or abort.|5|2024-01-02|2023-02-14|
 |55|[morgannprice/fast.genomics](https://github.com/morgannprice/fast.genomics)|Genome browser for thousands of representative bacteria and archaea|5|2024-01-22|2023-02-13|
@@ -69,10 +69,10 @@
 |62|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
 |63|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
 |64|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|65|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-02|2023-06-15|
+|65|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-26|2023-06-15|
 |66|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
-|67|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|3|2024-01-25|2024-01-08|
-|68|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-01-25|2023-12-20|
+|67|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|3|2024-01-26|2024-01-08|
+|68|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-01-26|2023-12-20|
 |69|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
 |70|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|3|2023-12-13|2023-12-06|
 |71|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|3|2023-11-14|2023-11-14|
@@ -109,9 +109,9 @@
 |102|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |103|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |104|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|105|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-25|2023-12-09|
+|105|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-26|2023-12-09|
 |106|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
-|107|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-01-23|2023-12-01|
+|107|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-01-26|2023-12-01|
 |108|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
 |109|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
 |110|[k-m-irfan/Fastspeech2_HS_Flask_API](https://github.com/k-m-irfan/Fastspeech2_HS_Flask_API)|Flask API implementation of the Text to Speech Model developed my Speech Lab, IIT Madras|2|2023-11-17|2023-11-12|
@@ -135,9 +135,9 @@
 |128|[sonic-com/pagerduty2zabbix](https://github.com/sonic-com/pagerduty2zabbix)|Update Zabbix events with PagerDuty incident changes via WebHook (2-way ack).|2|2023-08-24|2023-05-16|
 |129|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
 |130|[theophile/gcode-postprocessing-scripts](https://github.com/theophile/gcode-postprocessing-scripts)|My personal gcode postprocessing scripts for PrusaSlicer/SuperSlicer|2|2023-09-26|2023-03-12|
-|131|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
-|132|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
-|133|[michal-josef-spacek/License-SPDX](https://github.com/michal-josef-spacek/License-SPDX)|Object for SPDX licenses handling.|2|2023-08-02|2023-01-26|
+|131|[JasonCharamis/ARuS](https://github.com/JasonCharamis/ARuS)|Snakemake pipeline for running automated RNAseq analysis, from fastq reads to Differential Expression (DE) analysis. The latest version includes rules for post-DE annotation of genes, including annota ...|2|2023-12-08|2023-02-28|
+|132|[shubhamppl/hackeRank_problems](https://github.com/shubhamppl/hackeRank_problems)|-|2|2023-08-31|2023-02-21|
+|133|[yhw320/PanSyn](https://github.com/yhw320/PanSyn)|-|2|2023-11-12|2023-01-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
