@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-01-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1876|2024-01-26|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1866|2024-01-26|
-|3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1380|2023-09-04|
+|1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1877|2024-01-26|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1867|2024-01-26|
+|3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1379|2023-09-04|
 |4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|958|2024-01-26|
 |5|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|703|2023-12-14|
 |6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|406|2024-01-18|
@@ -17,7 +17,7 @@
 |10|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|129|2023-09-13|
 |11|[otherjoel/try-pollen](https://github.com/otherjoel/try-pollen)|📔🌼 An example website/book created with Pollen.|123|2023-08-20|
 |12|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|119|2024-01-21|
-|13|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-01-26|
+|13|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-01-27|
 |14|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|105|2023-08-30|
 |15|[plone/ansible-playbook](https://github.com/plone/ansible-playbook)|An Ansible playbook for automated deployment of full-stack Plone servers.|90|2023-08-18|
 |16|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|69|2024-01-01|
@@ -46,11 +46,11 @@
 |39|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-27|
 |40|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|20|2024-01-08|
 |41|[fm4dd/nagios4dd](https://github.com/fm4dd/nagios4dd)|Collection of scripts and plugins for the open source monitoring system Nagios.|20|2023-11-07|
-|42|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-01-25|
+|42|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-01-26|
 |43|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|19|2023-12-06|
 |44|[molgenis/cluster-utils](https://github.com/molgenis/cluster-utils)|Collection of utilities / helper scripts to make life easier on our HPC clusters.|17|2024-01-25|
 |45|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|16|2023-12-03|
-|46|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-01-25|
+|46|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-01-27|
 |47|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2024-01-04|
 |48|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
 |49|[zonemaster/zonemaster-backend](https://github.com/zonemaster/zonemaster-backend)|The Zonemaster Backend - part of the Zonemaster project|14|2024-01-23|
@@ -73,7 +73,7 @@
 |66|[NCIP/ctat-genome-lib-builder](https://github.com/NCIP/ctat-genome-lib-builder)|Software used by Trinity CTAT for building CTAT Genome Libs, resource databases shared by Trinity CTAT components|8|2023-10-27|
 |67|[thejud/text-processing-cookbook](https://github.com/thejud/text-processing-cookbook)|A cookbook of tools and techniques for processing text and data at the linux command line|8|2023-10-28|
 |68|[peeterjoot/latex-notes-compilations](https://github.com/peeterjoot/latex-notes-compilations)|Master repository for Peeter's various latex notes compilations and/or books (transitioning from monolithic physicsplay repository).|8|2023-10-01|
-|69|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-01-26|
+|69|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-01-27|
 |70|[olcf/hip-training-series](https://github.com/olcf/hip-training-series)|Repository with examples and exercises for OLCF and AMD's HIP training series|7|2023-10-16|
 |71|[saadatm/ghalib](https://github.com/saadatm/ghalib)|Source of Kulliyāt-e-Ghalib (web book), a collection of Ghalib's Urdu poetry.|7|2023-09-09|
 |72|[pa3hcm/clog](https://github.com/pa3hcm/clog)|CLog - Command Line Ham Radio Logbook|7|2024-01-09|
@@ -85,15 +85,15 @@
 |78|[Ensembl/ensembl-xs](https://github.com/Ensembl/ensembl-xs)|A collection of XS modules to be used with the Ensembl APIs|6|2024-01-22|
 |79|[kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template)|Template for 'mdbook' books with my preferences|5|2023-10-09|
 |80|[legumeinfo/pandagma](https://github.com/legumeinfo/pandagma)|Generate pan-gene sets, given a collection of genome assemblies and corresponding gene models.|5|2024-01-24|
-|81|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|5|2024-01-26|
+|81|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|5|2024-01-27|
 |82|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|5|2023-09-04|
 |83|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|5|2024-01-26|
 |84|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|2023-11-20|
 |85|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2023-12-15|
 |86|[blackhatethicalhacking/perl-programming-training](https://github.com/blackhatethicalhacking/perl-programming-training)|This Repo is a quick tutorial that introduces various aspects of the Perl programming language and examples curated by BHEH. Perl Language can be useful for ethical hacking, security research, and pen ...|4|2023-10-31|
-|87|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-01-25|
+|87|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-01-27|
 |88|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit ...|4|2023-12-06|
-|89|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-01-26|
+|89|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-01-27|
 |90|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2023-09-13|
 |91|[levitte/perl](https://github.com/levitte/perl)|A collection of Perl modules|4|2023-12-12|
 |92|[aslakjohansen/student-projects](https://github.com/aslakjohansen/student-projects)|List of student projects|4|2023-12-04|

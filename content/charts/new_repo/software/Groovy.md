@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-01-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -34,7 +34,7 @@
 |27|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|3|2023-11-20|2023-09-24|
 |28|[JoaoGH/api2](https://github.com/JoaoGH/api2)|-|3|2023-09-01|2023-08-31|
 |29|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
-|30|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-20|2023-08-08|
+|30|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-27|2023-08-08|
 |31|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-01-25|2023-06-30|
 |32|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2024-01-24|2023-05-22|
 |33|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
@@ -54,12 +54,12 @@
 |47|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
 |48|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
 |49|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
-|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-26|2023-09-14|
+|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-27|2023-09-14|
 |51|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
 |52|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-26|2023-08-22|
 |53|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
 |54|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|55|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-01-23|2023-07-07|
+|55|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-01-27|2023-07-07|
 |56|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
 |57|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|2|2024-01-08|2023-06-13|
 |58|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
