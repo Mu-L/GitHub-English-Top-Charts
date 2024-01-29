@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[keydet89/RegRipper4.0](https://github.com/keydet89/RegRipper4.0)|RegRipper4.0|19|2023-08-22|2023-08-22|
 |12|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
 |13|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|16|2024-01-03|2023-07-11|
-|14|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-01-26|2023-09-21|
+|14|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-01-28|2023-09-21|
 |15|[formbio/FLAG](https://github.com/formbio/FLAG)|-|14|2023-10-09|2023-06-17|
 |16|[DerekPascarella/CoolCoolToon-EnglishPatchDreamcast](https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Cool Cool Toon".|14|2023-12-15|2023-04-07|
 |17|[elisezhu123/Crossover_gpt_patch](https://github.com/elisezhu123/Crossover_gpt_patch)|add game porting tools 1.02beta patch into crossover |12|2023-09-03|2023-07-01|
@@ -56,22 +56,22 @@
 |49|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
 |50|[BGQ/ORPA](https://github.com/BGQ/ORPA)|Whole organelle genome-wide alignment construction method, which ultilizes BLAST tool, to facilitate phylogeny analysis|5|2023-08-27|2023-05-05|
 |51|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|5|2023-09-12|2023-03-30|
-|52|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-01-26|2023-03-12|
+|52|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-01-28|2023-03-12|
 |53|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2023-11-28|2023-03-12|
 |54|[mikkoi/env-assert](https://github.com/mikkoi/env-assert)|Ensure that the environment variables match what you need, or abort.|5|2024-01-02|2023-02-14|
 |55|[morgannprice/fast.genomics](https://github.com/morgannprice/fast.genomics)|Genome browser for thousands of representative bacteria and archaea|5|2024-01-22|2023-02-13|
 |56|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
 |57|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|4|2023-11-02|2023-11-02|
-|58|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|4|2024-01-24|2023-10-19|
+|58|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|4|2024-01-28|2023-10-19|
 |59|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|4|2024-01-17|2023-09-30|
 |60|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|4|2024-01-01|2023-09-09|
 |61|[aymanreda56/Vigil-Anti](https://github.com/aymanreda56/Vigil-Anti)|-|4|2023-09-18|2023-08-26|
 |62|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
 |63|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
 |64|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|65|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-27|2023-06-15|
+|65|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-28|2023-06-15|
 |66|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
-|67|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|3|2024-01-27|2024-01-08|
+|67|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|3|2024-01-28|2024-01-08|
 |68|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-01-26|2023-12-20|
 |69|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
 |70|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|3|2023-12-13|2023-12-06|
@@ -108,9 +108,9 @@
 |101|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |102|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |103|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|104|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-27|2023-12-09|
+|104|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-01-28|2023-12-09|
 |105|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
-|106|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-01-26|2023-12-01|
+|106|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-01-27|2023-12-01|
 |107|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
 |108|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
 |109|[k-m-irfan/Fastspeech2_HS_Flask_API](https://github.com/k-m-irfan/Fastspeech2_HS_Flask_API)|Flask API implementation of the Text to Speech Model developed my Speech Lab, IIT Madras|2|2023-11-17|2023-11-12|

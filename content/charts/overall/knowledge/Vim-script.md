@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|16132|2023-12-22|
-|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|12943|2024-01-23|
-|3|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10180|2023-09-23|
-|4|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2591|2023-08-08|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|16134|2023-12-22|
+|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|12944|2024-01-27|
+|3|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10182|2023-09-23|
+|4|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2592|2023-08-08|
 |5|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1987|2024-01-06|
-|6|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Learning Vim. A Hands-On Tutorial of Vim.|1617|2023-11-30|
+|6|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Learning Vim. A Hands-On Tutorial of Vim.|1619|2023-11-30|
 |7|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1331|2023-10-27|
 |8|[MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks)|Vim bookmark plugin|918|2023-12-28|
-|9|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|854|2023-12-01|
-|10|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|826|2024-01-11|
+|9|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|855|2023-12-01|
+|10|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|828|2024-01-11|
 |11|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|801|2023-12-13|
-|12|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|540|2024-01-20|
-|13|[luk400/vim-jukit](https://github.com/luk400/vim-jukit)|Jupyter-Notebook inspired Neovim/Vim Plugin|438|2023-10-22|
+|12|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|541|2024-01-20|
+|13|[luk400/vim-jukit](https://github.com/luk400/vim-jukit)|Jupyter-Notebook inspired Neovim/Vim Plugin|440|2023-10-22|
 |14|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|333|2023-11-26|
 |15|[fatso83/dotfiles](https://github.com/fatso83/dotfiles)|Cross-platform dotfiles shared by macOS and Linux (native and WSL2)|282|2024-01-26|
 |16|[lifepillar/vim-cheat40](https://github.com/lifepillar/vim-cheat40)|A Vim cheat sheet that makes sense, inside Vim!|242|2023-12-19|
-|17|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|159|2024-01-27|
+|17|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|159|2024-01-28|
 |18|[metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme)|A collection of Black Metal inspired base16 schemes.|146|2023-12-07|
 |19|[BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles)|My configuration files and personal collection of scripts.|134|2024-01-25|
 |20|[mhinz/vim-rfc](https://github.com/mhinz/vim-rfc)|:notebook: Query RFC database and download RFCs from within Vim.|109|2023-11-28|
@@ -36,7 +36,7 @@
 |29|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|38|2024-01-10|
 |30|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|32|2024-01-24|
 |31|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|28|2024-01-24|
-|32|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|25|2024-01-26|
+|32|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|25|2024-01-28|
 |33|[rosshadden/dotfiles](https://github.com/rosshadden/dotfiles)|A collection of dotfiles and scripts that I use between computers.|23|2024-01-26|
 |34|[fmi/vim-projects](https://github.com/fmi/vim-projects)| Projects created for the Vim course at FMI |22|2023-09-25|
 |35|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|21|2023-12-26|
@@ -46,7 +46,7 @@
 |39|[darconeous/shattings](https://github.com/darconeous/shattings)|Shared (shell) Settings|17|2023-11-14|
 |40|[cehoffman/dotfiles](https://github.com/cehoffman/dotfiles)|My mac/unix dotfiles that have grown over the years and heavily influenced from tricks seen around the block|16|2023-12-05|
 |41|[paotsaq/how_to_understand_vim_and_be_a_little_better_at_it](https://github.com/paotsaq/how_to_understand_vim_and_be_a_little_better_at_it)|some tricks to have a better experience with vim ➕ some very useful resources to take it further|13|2024-01-23|
-|42|[jameslikeslinux/dotfiles](https://github.com/jameslikeslinux/dotfiles)|Dotfiles and other shared home directory things|12|2024-01-25|
+|42|[jameslikeslinux/dotfiles](https://github.com/jameslikeslinux/dotfiles)|Dotfiles and other shared home directory things|12|2024-01-28|
 |43|[sayonaramemori/study-roads](https://github.com/sayonaramemori/study-roads)|To commemorate my study roads.|10|2024-01-23|
 |44|[Duan-JM/dotfiles](https://github.com/Duan-JM/dotfiles)|Collection for my dotfiles|10|2023-12-03|
 |45|[poliquin/stata-vim](https://github.com/poliquin/stata-vim)|Syntax highlighting and snippets for editing Stata code with Vim|10|2024-01-23|
@@ -91,7 +91,7 @@
 |84|[mvanderkamp/worklist.vim](https://github.com/mvanderkamp/worklist.vim)|A quickfix todo list for when you're flying|3|2023-09-24|
 |85|[richlamdev/ansible-desktop-ubuntu](https://github.com/richlamdev/ansible-desktop-ubuntu)|Ansible playbook with roles for Ubuntu desktop deployment|3|2024-01-18|
 |86|[maxprehl/dotfiles](https://github.com/maxprehl/dotfiles)|Git bare repo collection of my dotfiles.|3|2023-09-29|
-|87|[jsheridanwells/dev-scrapbook](https://github.com/jsheridanwells/dev-scrapbook)|Dev Scrapbook|3|2024-01-07|
+|87|[jsheridanwells/dev-scrapbook](https://github.com/jsheridanwells/dev-scrapbook)|Dev Scrapbook|3|2024-01-28|
 |88|[nitinkamra1992/ubuntu-cmd-cheatsheet](https://github.com/nitinkamra1992/ubuntu-cmd-cheatsheet)|Cheatsheet for useful Ubuntu commands|3|2024-01-11|
 |89|[MahbubAlam231/vim-for-latex](https://github.com/MahbubAlam231/vim-for-latex)|My personalization of vim for mainly LaTeX; containing vimrc, templates, snippets, folding method and abbreviations|3|2024-01-17|
 |90|[Joe-C-Ding/vimBookmarks](https://github.com/Joe-C-Ding/vimBookmarks)|simple bookmarks system for vim|3|2023-08-02|

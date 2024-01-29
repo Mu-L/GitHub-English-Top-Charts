@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1815|2024-01-17|2023-06-14|
 |2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|185|2024-01-18|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|149|2023-10-23|2023-10-04|
-|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|133|2024-01-14|2023-07-28|
-|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|131|2024-01-18|2023-07-12|
-|6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|89|2024-01-19|2023-06-05|
-|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|76|2024-01-26|2023-12-01|
-|8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|63|2023-09-30|2023-09-30|
+|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|134|2024-01-14|2023-07-28|
+|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|132|2024-01-28|2023-07-12|
+|6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|91|2024-01-19|2023-06-05|
+|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|77|2024-01-26|2023-12-01|
+|8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|64|2023-09-30|2023-09-30|
 |9|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|57|2023-12-21|2023-12-16|
 |10|[rkmtlab/LipLearner](https://github.com/rkmtlab/LipLearner)|Research repository for LipLearner: Customizable Silent Speech Interactions on Mobile Devices (CHI 2023).|45|2023-11-08|2023-02-15|
 |11|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|44|2023-11-12|2023-09-28|

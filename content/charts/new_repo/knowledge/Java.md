@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1513|2024-01-27|2023-08-07|
-|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|544|2024-01-22|2023-03-04|
-|3|[hiteshchoudhary/React-native-projects](https://github.com/hiteshchoudhary/React-native-projects)|Learn React native with this free series on youtube (powered by Hashnode)|306|2024-01-11|2023-02-10|
-|4|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|173|2023-08-31|2023-06-02|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1521|2024-01-28|2023-08-07|
+|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|545|2024-01-27|2023-03-04|
+|3|[hiteshchoudhary/React-native-projects](https://github.com/hiteshchoudhary/React-native-projects)|Learn React native with this free series on youtube (powered by Hashnode)|308|2024-01-27|2023-02-10|
+|4|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|174|2023-08-31|2023-06-02|
 |5|[Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks)|JDBC Attack Tricks|131|2023-09-03|2023-09-02|
-|6|[RedisVentures/redis-ai-resources](https://github.com/RedisVentures/redis-ai-resources)|✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.|112|2023-10-31|2023-02-02|
-|7|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|110|2024-01-11|2023-07-10|
-|8|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|91|2024-01-23|2023-11-27|
+|6|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|112|2024-01-11|2023-07-10|
+|7|[RedisVentures/redis-ai-resources](https://github.com/RedisVentures/redis-ai-resources)|✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.|112|2023-10-31|2023-02-02|
+|8|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|90|2024-01-23|2023-11-27|
 |9|[yanaga/revisiting-design-patterns](https://github.com/yanaga/revisiting-design-patterns)|Revisiting some popular Design Patterns using Java 20+ features|76|2023-10-02|2023-03-16|
 |10|[devtiro/course-spring-boot](https://github.com/devtiro/course-spring-boot)|Source Code for the Spring Boot Course|65|2023-08-09|2023-06-06|
 |11|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|64|2024-01-12|2023-08-21|

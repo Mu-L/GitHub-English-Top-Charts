@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -54,7 +54,7 @@
 |47|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
 |48|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
 |49|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
-|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-27|2023-09-14|
+|50|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-28|2023-09-14|
 |51|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
 |52|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-26|2023-08-22|
 |53|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|

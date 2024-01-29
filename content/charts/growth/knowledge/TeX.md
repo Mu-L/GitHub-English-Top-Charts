@@ -1,46 +1,46 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > TeX
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting)|Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting   Join our discord for the largest Prompt Engineering learning community|4031|9|2024-01-27|
-|2|[terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers|24934|9|2024-01-18|
-|3|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1374|8|2024-01-08|
-|4|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|6733|7|2024-01-03|
-|5|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3456|5|2024-01-25|
+|1|[trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting)|Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting   Join our discord for the largest Prompt Engineering learning community|4032|9|2024-01-27|
+|2|[terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers|24941|9|2024-01-18|
+|3|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1376|8|2024-01-08|
+|4|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|6734|7|2024-01-03|
+|5|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3462|5|2024-01-25|
 |6|[awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)|A curated list of awesome neural radiance fields papers|6013|5|2024-01-09|
-|7|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|94|4|2024-01-23|
-|8|[hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework)|Open source book dedicated to helping you to make the best possible sourdough bread at home.|2469|3|2024-01-23|
-|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.|5458|2|2024-01-11|
+|7|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|97|4|2024-01-23|
+|8|[hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework)|Open source book dedicated to helping you to make the best possible sourdough bread at home.|2470|3|2024-01-23|
+|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.|5460|2|2024-01-11|
 |10|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|500|2|2024-01-04|
 |11|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|1417|2|2024-01-26|
 |12|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|282|1|2024-01-08|
 |13|[avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto)|Bayesian Data Analysis course at Aalto|2100|1|2024-01-16|
-|14|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2290|1|2024-01-03|
+|14|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2291|1|2024-01-03|
 |15|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|174|1|2024-01-26|
 |16|[ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing)|A comprehensive list [SAMRS@NeurIPS'23, RVSA@TGRS'22, RSP@TGRS'22] of our research works related to remote sensing, including papers, codes, and citations. Note: The repo for [TGRS'22] "An Empirical S ...|402|1|2023-11-06|
 |17|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1461|1|2023-09-20|
-|18|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1250|1|2024-01-27|
-|19|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|619|1|2024-01-20|
-|20|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Functional Algorithms and Data structures|5932|1|2024-01-22|
-|21|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|446|1|2024-01-07|
+|18|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1250|1|2024-01-28|
+|19|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|620|1|2024-01-20|
+|20|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Functional Algorithms and Data structures|5933|1|2024-01-28|
+|21|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|447|1|2024-01-07|
 |22|[CategoryTheoryArchive/archive](https://github.com/CategoryTheoryArchive/archive)|A digital archive of category theory papers.|6|1|2024-01-24|
 |23|[LoicGrobol/maths-nlp](https://github.com/LoicGrobol/maths-nlp)|Contenus pour le cours « Mathématiques pour le TAL » du master Plurital |5|1|2024-01-26|
-|24|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1769|1|2024-01-27|
+|24|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1770|1|2024-01-28|
 |25|[carloocchiena/the_statistics_handbook](https://github.com/carloocchiena/the_statistics_handbook)|the statistics handbook open source repository|242|1|2023-09-12|
 |26|[edoliberty/vector-search-class-notes](https://github.com/edoliberty/vector-search-class-notes)|Class notes for the course "Long Term Memory in AI - Vector Search and Databases" COS 597A @ Princeton Fall 2023|286|1|2023-11-18|
 |27|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|116|1|2023-11-28|
 |28|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|2643|1|2023-12-29|
 |29|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |73|1|2024-01-16|
-|30|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|2552|1|2023-08-22|
+|30|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|2553|1|2023-08-22|
 |31|[jorainer/SpectraTutorials](https://github.com/jorainer/SpectraTutorials)|These workshops and tutorials provide use cases and examples for mass spectrometry data handling and analysis using the Spectra Bioconductor package.|17|0|2023-12-05|
 |32|[ContextLab/CDL-bibliography](https://github.com/ContextLab/CDL-bibliography)|Bibtex file shared by the Contextual Dynamics Lab at Dartmouth College|7|0|2024-01-10|
 |33|[eurec4a/how_to_eurec4a](https://github.com/eurec4a/how_to_eurec4a)|Code examples to get you started with EUREC⁴A data.|6|0|2023-10-16|
 |34|[hughplay/Visual-Reasoning-Papers](https://github.com/hughplay/Visual-Reasoning-Papers)|📄 A curated list of visual reasoning papers.|13|0|2024-01-01|
 |35|[ho-tex/bookmark](https://github.com/ho-tex/bookmark)|bookmark package for LaTeX|10|0|2023-12-10|
-|36|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|33|0|2024-01-21|
+|36|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|33|0|2024-01-28|
 |37|[MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit](https://github.com/MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit)|Dieses Projekt soll dazu dienen, eine Vorlage für Seminar-, Bachelor- oder Masterarbeiten, die an der Hochschule Bonn-Rhein-Sieg verfasst werden, gemeinschaftlich zu erarbeiten und zu verbessern.|11|0|2023-12-17|
 |38|[InfiniteSynthesis/reading-list](https://github.com/InfiniteSynthesis/reading-list)|A list of research resources that I've read.|3|0|2023-12-18|
 |39|[bowers-illinois-edu/bowershansen-CI-course](https://github.com/bowers-illinois-edu/bowershansen-CI-course)|Source files for Jake and Ben and Tom's causal inference course materials|5|0|2024-01-16|
@@ -64,7 +64,7 @@
 |57|[nkalauni/physics-olympiad-book](https://github.com/nkalauni/physics-olympiad-book)|A book written for Nepalese Physics Olympiad aspirants. A guide to physics problem-solving.|7|0|2023-10-31|
 |58|[briangough/gccintro](https://github.com/briangough/gccintro)|An Introduction to GCC - a tutorial for new users of gcc and g++|10|0|2023-12-21|
 |59|[wmutschl/Quantitative-Macroeconomics](https://github.com/wmutschl/Quantitative-Macroeconomics)|Course on Quantitative Macroeconomics (Master/PhD level)|33|0|2024-01-23|
-|60|[RickZack/ISS_Notes](https://github.com/RickZack/ISS_Notes)|Notes from the course 01TYMOV of Prof. Antonio Lioy, POLITECNICO DI TORINO A.A. 2020/21.|11|0|2024-01-16|
+|60|[RickZack/ISS_Notes](https://github.com/RickZack/ISS_Notes)|Notes from the course 01TYMOV of Prof. Antonio Lioy, POLITECNICO DI TORINO A.A. 2020/21.|11|0|2024-01-28|
 |61|[yelircaasi/study-notes](https://github.com/yelircaasi/study-notes)|LaTeX notes for the various topics I am studying. Focus on NLP, CS, Math. All topics fair game. May be in non-English languages.|3|0|2023-11-09|
 |62|[Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing](https://github.com/Traverse-Research/Volumetric-data-structures-for-real-time-ray-tracing)|All documents related to my master thesis|48|0|2023-10-24|
 |63|[IEA-Paris/PPIAS](https://github.com/IEA-Paris/PPIAS)|Proceeding of the Paris Institute for Advanced Study|4|0|2024-01-16|
@@ -114,12 +114,12 @@
 |107|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |7|0|2023-11-27|
 |108|[iitrabhi/project-template](https://github.com/iitrabhi/project-template)|Use this repository as a template for your research projects. Click on the link below for a detailed description of how to use this template.|9|0|2024-01-20|
 |109|[jessicarick/resources](https://github.com/jessicarick/resources)|Tutorials, templates, etc. for other students|13|0|2023-11-30|
-|110|[ZihengZZH/awesome-multimodal-knowledge-graph](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)|A curated list of AWESOME papers, datasets and tutorials within Multimodal Knowledge Graph.|271|0|2023-11-27|
+|110|[ZihengZZH/awesome-multimodal-knowledge-graph](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)|A curated list of AWESOME papers, datasets and tutorials within Multimodal Knowledge Graph.|272|0|2023-11-27|
 |111|[quanteda/Text-Analysis-Using-R](https://github.com/quanteda/Text-Analysis-Using-R)|Text Analysis Using R – The Book|26|0|2023-09-04|
 |112|[tsrobinson/10EconometricTheorems](https://github.com/tsrobinson/10EconometricTheorems)|Guide to fundamental econometric theorems listed by J. Wooldridge|29|0|2024-01-22|
 |113|[dealii/publication-list](https://github.com/dealii/publication-list)|The list of known publications that use or cite the deal.II library.|13|0|2024-01-25|
 |114|[Lianghao93/HUST-PhD-Thesis-Latex-v3.1](https://github.com/Lianghao93/HUST-PhD-Thesis-Latex-v3.1)|This is the unofficial LaTeX class for Master/Ph.D. Thesis Template of Huazhong University of Science and Technology|22|0|2023-10-19|
-|115|[SuprDewd/T-414-AFLV](https://github.com/SuprDewd/T-414-AFLV)|T-414-ÁFLV: A Competitive Programming Course|712|0|2024-01-16|
+|115|[SuprDewd/T-414-AFLV](https://github.com/SuprDewd/T-414-AFLV)|T-414-ÁFLV: A Competitive Programming Course|711|0|2024-01-16|
 |116|[CMU-program-analysis/CMU-program-analysis.github.io](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io)|Public-facing course info for program analysis materials. |33|0|2024-01-08|
 |117|[schoolofdevops/kubernetes-labguide](https://github.com/schoolofdevops/kubernetes-labguide)|Kubernetes Lab Guide 2020|43|0|2024-01-25|
 |118|[fabiensanglard/gebbdoom](https://github.com/fabiensanglard/gebbdoom)|Game Engine Black Book: Doom|598|0|2024-01-22|
@@ -130,14 +130,14 @@
 |123|[bsp0109/ieee-typst-template](https://github.com/bsp0109/ieee-typst-template)|A template to write IEEE Papers in Typst|13|0|2023-09-14|
 |124|[Sam-Mucyo/cs124-concept_review](https://github.com/Sam-Mucyo/cs124-concept_review)| A collection of some of the concepts covered in CS 124: Data Structures and Algorithms at Harvard College.|3|0|2023-12-30|
 |125|[JeremyDForsythe/icecream-tutorials](https://github.com/JeremyDForsythe/icecream-tutorials)|Tutorials for Earth from Above: Env 329  Using NASA Satellite Data (ECOSTRESS) for Real-Time Environmental Monitoring|3|0|2023-11-02|
-|126|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|74|0|2024-01-16|
+|126|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|75|0|2024-01-16|
 |127|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1588|0|2023-12-24|
 |128|[burakbayramli/classnotes](https://github.com/burakbayramli/classnotes)|ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lecture notes, tutorials on Linear Algebra, Computational Science, Computer Science ...|69|0|2024-01-27|
 |129|[STIMALiU/AdvRCourse](https://github.com/STIMALiU/AdvRCourse)|Course in advanced R programming|26|0|2023-12-05|
 |130|[tomfaulkenberry/courses](https://github.com/tomfaulkenberry/courses)|Course materials (syllabi, lecture notes, etc.)|4|0|2024-01-23|
 |131|[grpollak/formularyETH](https://github.com/grpollak/formularyETH)|Git submodule for writing high quality LaTeX cheat sheets. |4|0|2023-11-22|
 |132|[jorainer/xcmsTutorials](https://github.com/jorainer/xcmsTutorials)|Tutorials and workshops describing LC-MS(/MS) data pre-processing and analysis using the xcms Bioconductor package|4|0|2023-12-05|
-|133|[daa233/learning-notes](https://github.com/daa233/learning-notes)|My learning notes.|32|0|2024-01-25|
+|133|[daa233/learning-notes](https://github.com/daa233/learning-notes)|My learning notes.|32|0|2024-01-28|
 |134|[mac-egirls/oscs](https://github.com/mac-egirls/oscs)|Open Source Cheat Sheets for some of McMaster CS's courses|17|0|2023-12-13|
 |135|[bowers-illinois-edu/short-course-causal](https://github.com/bowers-illinois-edu/short-course-causal)|Short Course on Causal Inference|4|0|2023-08-22|
 |136|[thoppe/personal_cv](https://github.com/thoppe/personal_cv)|Curriculum vitae and publication list for Travis Hoppe|4|0|2024-01-11|
@@ -159,7 +159,7 @@
 |152|[hintikkasworld/hintikkasworld](https://github.com/hintikkasworld/hintikkasworld)|Hintikka's World is a pedagogical tool for learning modal logic, more precisely epistemic modal logic.|11|0|2023-10-11|
 |153|[adamesalles/statistical-inference](https://github.com/adamesalles/statistical-inference)|Repository for sharing related contents and ta session notes during the Statistical Inference course at EMAp in 2023.|10|0|2023-10-25|
 |154|[hyle-team/docs](https://github.com/hyle-team/docs)|All technical papers, drafts, ideas, discussions related to hyle projects.|6|0|2024-01-26|
-|155|[tidy-survey-r/tidy-survey-book](https://github.com/tidy-survey-r/tidy-survey-book)|Bookdown for upcoming book on survey analysis the tidy way.|22|0|2024-01-14|
+|155|[tidy-survey-r/tidy-survey-book](https://github.com/tidy-survey-r/tidy-survey-book)|Bookdown for upcoming book on survey analysis the tidy way.|22|0|2024-01-28|
 |156|[pantelis/data-mining](https://github.com/pantelis/data-mining)|The contents of my data-mining course|40|0|2024-01-22|
 |157|[pangenome/sorting-paper](https://github.com/pangenome/sorting-paper)|Path-Guided Stochastic Gradient Descent layout of pangenome graphs|3|0|2023-10-17|
 |158|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|174|0|2023-12-05|

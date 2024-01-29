@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > PHP
-<sub>Updated: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10539|135|2024-01-21|
-|2|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|51650|12|2024-01-27|
+|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10558|134|2024-01-21|
+|2|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|51673|12|2024-01-28|
 |3|[php-youtubers/directory](https://github.com/php-youtubers/directory)|Curated a list of PHP YouTubers. 📋|650|7|2023-12-25|
-|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21590|5|2023-09-28|
-|5|[librespeed/speedtest](https://github.com/librespeed/speedtest)|Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more|10739|4|2023-12-06|
-|6|[Laravel-Lang/lang](https://github.com/Laravel-Lang/lang)|List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.|7282|2|2024-01-26|
-|7|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3315|2|2024-01-27|
+|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21588|5|2023-09-28|
+|5|[librespeed/speedtest](https://github.com/librespeed/speedtest)|Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more|10744|4|2023-12-06|
+|6|[Laravel-Lang/lang](https://github.com/Laravel-Lang/lang)|List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.|7283|2|2024-01-26|
+|7|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3317|2|2024-01-27|
 |8|[DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)|[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.|7485|2|2023-12-22|
 |9|[yeswehack/vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)|Twitter vulnerable snippets|758|2|2024-01-10|
 |10|[php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver)|PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver|4982|1|2024-01-25|
 |11|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|222|1|2023-12-24|
 |12|[PrinsFrank/standards](https://github.com/PrinsFrank/standards)|A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...|345|1|2024-01-26|
-|13|[moodle/moodle](https://github.com/moodle/moodle)|Moodle - the world's open source learning platform|5200|1|2024-01-25|
+|13|[moodle/moodle](https://github.com/moodle/moodle)|Moodle - the world's open source learning platform|5204|1|2024-01-25|
 |14|[sebastianbergmann/type](https://github.com/sebastianbergmann/type)|Collection of value objects that represent the types of the PHP type system|1270|1|2023-12-31|
 |15|[nnjeim/world](https://github.com/nnjeim/world)|A Laravel package which provides a list of the countries, states, cities, currencies, timezones and languages.|662|1|2024-01-18|
 |16|[sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit)|Collection of value objects that represent the PHP code units|953|1|2023-12-31|
 |17|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1552|1|2023-09-29|
 |18|[Hanson/vbot](https://github.com/Hanson/vbot)|微信，企微，机器人，企业微信，企微机器人，微信机器人，小红书，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用|3716|1|2024-01-19|
-|19|[webkul/hotelcommerce](https://github.com/webkul/hotelcommerce)|Hotel & Booking Reservation Ecommerce system on Prestashop|4163|1|2024-01-25|
+|19|[webkul/hotelcommerce](https://github.com/webkul/hotelcommerce)|Hotel & Booking Reservation Ecommerce system on Prestashop|4170|1|2024-01-25|
 |20|[booksbyus/zguide](https://github.com/booksbyus/zguide)|Learning and Using ØMQ|3385|1|2024-01-23|
-|21|[LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)|A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|2964|1|2024-01-27|
-|22|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2458|1|2024-01-26|
+|21|[LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)|A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.|2964|1|2024-01-28|
+|22|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2461|1|2024-01-26|
 |23|[symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu)|This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.|2541|1|2023-09-29|
 |24|[sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator)|FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.|7319|1|2023-12-31|
 |25|[bradtraversy/php-crash](https://github.com/bradtraversy/php-crash)|Code for my PHP crash course on YouTube|524|1|2024-01-05|
@@ -60,7 +60,7 @@
 |53|[unkn0w/disposable-email-domain-list](https://github.com/unkn0w/disposable-email-domain-list)|List of disposable email domains. You can use it to block fake users on your newsletter.|122|0|2024-01-19|
 |54|[doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms)|A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell|933|0|2023-10-24|
 |55|[ucfopen/UDOIT](https://github.com/ucfopen/UDOIT)|The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in their Learning Management System. It will scan a course, gen ...|108|0|2024-01-05|
-|56|[LibreBooking/app](https://github.com/LibreBooking/app)|Repository for the last open source version of Booked Scheduler. The "develop" branch contains the most current working code of the project and should be considered beta. The "master" branch is the mo ...|327|0|2024-01-27|
+|56|[LibreBooking/app](https://github.com/LibreBooking/app)|Repository for the last open source version of Booked Scheduler. The "develop" branch contains the most current working code of the project and should be considered beta. The "master" branch is the mo ...|327|0|2024-01-28|
 |57|[AppertaFoundation/openeyes](https://github.com/AppertaFoundation/openeyes)|An Open Source electronic patient record system. This is the Gold Master "Community Edition" release. Please note that this could be up to 3 months behind the latest development tip. If you are intere ...|70|0|2023-11-14|
 |58|[bglover/mastercrack](https://github.com/bglover/mastercrack)|A PHP class to calculate the combination for a masterlock using a technique discovered by Samy Kamkar (http://null-byte.wonderhowto.com/how-to/crack-any-master-combination-lock-8-tries-less-using-calc ...|24|0|2023-08-26|
 |59|[Micah-Shallom/DevOps_Projects](https://github.com/Micah-Shallom/DevOps_Projects)|DAREY.IO Project Based Learning 💥🧑‍💻💹|44|0|2023-08-09|
@@ -83,7 +83,7 @@
 |76|[alexandreelise/j4x-api-examples](https://github.com/alexandreelise/j4x-api-examples)|Some Joomla! 4.x Web Services Api Examples and Experiments to raise the level of awareness of the huge potiental of Joomla! 4.x Web Services.|34|0|2023-12-12|
 |77|[dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)|A handy collection of Illuminate\Support\Carbon date helpers|75|0|2023-12-18|
 |78|[salehhashemi1992/design-patterns-persian](https://github.com/salehhashemi1992/design-patterns-persian)|Complete persian documentation of design patterns, featuring real-world examples and practical use cases|67|0|2024-01-05|
-|79|[ywxbear/PHP-Bookstore-Website-Example](https://github.com/ywxbear/PHP-Bookstore-Website-Example)|PHP Basic BookStore Website (For Study Purpose Only)|48|0|2024-01-16|
+|79|[ywxbear/PHP-Bookstore-Website-Example](https://github.com/ywxbear/PHP-Bookstore-Website-Example)|PHP Basic BookStore Website (For Study Purpose Only)|49|0|2024-01-16|
 |80|[Label84/laravel-hours-helper](https://github.com/Label84/laravel-hours-helper)|Create a Collection of dates/times with a specific interval for a specific period.|253|0|2023-12-21|
 |81|[plesk/wordpress-aws-scaler](https://github.com/plesk/wordpress-aws-scaler)|This is a how-to including scripts about how to auto-scale WordPress across multiple EC2 instances on AWS with using RDS and CloudFront.|80|0|2024-01-23|
 |82|[pinterest/arcanist-linters](https://github.com/pinterest/arcanist-linters)|A collection of custom Arcanist linters|61|0|2023-11-16|
@@ -124,7 +124,7 @@
 |117|[rvalitov/backlink-checker-php](https://github.com/rvalitov/backlink-checker-php)|Validates a predefined list of backlinks on remote websites that they exist and are correct (for SEO). Simple and Javascript-enabled web engines are used for scraping.|47|0|2024-01-10|
 |118|[TYPO3-CMS/styleguide](https://github.com/TYPO3-CMS/styleguide)|[READ-ONLY] Subtree split of the TYPO3 Core Extension "styleguide"|104|0|2024-01-26|
 |119|[heiseonline/shariff-backend-php](https://github.com/heiseonline/shariff-backend-php)|👮 PHP backend for Shariff. Shariff enables website users to share their favorite content without compromising their privacy.|132|0|2024-01-18|
-|120|[standardebooks/web](https://github.com/standardebooks/web)|The source code for the Standard Ebooks website.|219|0|2024-01-26|
+|120|[standardebooks/web](https://github.com/standardebooks/web)|The source code for the Standard Ebooks website.|220|0|2024-01-26|
 |121|[magepow/magento-2-programmatically](https://github.com/magepow/magento-2-programmatically)|The Magento 2 programmatically is a code snippet run outside Magento dose a certain task.|23|0|2023-11-13|
 |122|[docusign/code-examples-php](https://github.com/docusign/code-examples-php)|PHP code examples|44|0|2023-12-20|
 |123|[WisdmLabs/edwiser-bridge](https://github.com/WisdmLabs/edwiser-bridge)|Edwiser Bridge integrates WordPress with the Moodle LMS. The plugin provides an easy option to import Moodle courses to WordPress and sell them using PayPal. The plugin also allows automatic registrat ...|24|0|2023-11-07|
@@ -138,7 +138,7 @@
 |131|[verbb/buttonbox](https://github.com/verbb/buttonbox)|A collection of utility field types for Craft|90|0|2023-12-30|
 |132|[stefanpejcic/wordpress-malware](https://github.com/stefanpejcic/wordpress-malware)|Collection of malware files found on WordPress sites|41|0|2023-10-05|
 |133|[mmikkel/Retcon-Craft](https://github.com/mmikkel/Retcon-Craft)|A collection of powerful Twig filters for modifying HTML|80|0|2023-11-11|
-|134|[FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools)|A collection of useful tools for Shopware 6|55|0|2024-01-24|
+|134|[FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools)|A collection of useful tools for Shopware 6|55|0|2024-01-28|
 |135|[woocommerce/bookings-helper](https://github.com/woocommerce/bookings-helper)|This extension is a WooCommerce Bookings helper which helps you to troubleshoot bookings setup easier by allowing you to quickly export/import product settings.|31|0|2023-12-07|
 |136|[infinite-networks/InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle)|A collection of useful form types and extensions for Symfony.|164|0|2024-01-11|
 |137|[workbunny/webman-shared-cache](https://github.com/workbunny/webman-shared-cache)|🚀🐇 Webman plugin for shared cache implementation.|20|0|2024-01-04|
@@ -153,7 +153,7 @@
 |146|[isaaceindhoven/composer-velocita](https://github.com/isaaceindhoven/composer-velocita)|Velocita - Fast, reliable and shared Composer caching|29|0|2023-10-17|
 |147|[piotr-jura-udemy/php7-basics](https://github.com/piotr-jura-udemy/php7-basics)|Source code for the API Platform + React.JS Course|27|0|2023-11-25|
 |148|[ThimPressWP/wp-hotel-booking](https://github.com/ThimPressWP/wp-hotel-booking)|The most powerful and easy-to-use Hotel Booking Manager to help you create, manage a booking and reservation system for your hotel WordPress website.|37|0|2024-01-22|
-|149|[signalfx/tracing-examples](https://github.com/signalfx/tracing-examples)|Examples of using third-party tracers with SignalFx|54|0|2024-01-19|
+|149|[signalfx/tracing-examples](https://github.com/signalfx/tracing-examples)|Examples of using third-party tracers with SignalFx|54|0|2024-01-28|
 |150|[amphp/websocket](https://github.com/amphp/websocket)|Shared code for websocket servers and clients.|31|0|2023-12-28|
 |151|[deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)|Learn Swoole by Examples|165|0|2023-12-28|
 |152|[campuspress/divi-accessibility](https://github.com/campuspress/divi-accessibility)|Improve Divi accessibility in accordance with WCAG 2.0 guidelines.|117|0|2023-09-26|
@@ -168,43 +168,43 @@
 |161|[caxy/php-htmldiff](https://github.com/caxy/php-htmldiff)|A library for comparing two HTML files/snippets and highlighting the differences using simple HTML. Includes support for comparing complex lists and tables|196|0|2023-11-06|
 |162|[warfare-plugins/social-warfare](https://github.com/warfare-plugins/social-warfare)|This is a public repository for the Social Warfare WordPress plugin created primarily for the purpose of publishing and maintaining a public list of bugs, known issues, and feature requests with the c ...|37|0|2024-01-19|
 |163|[amphp/http](https://github.com/amphp/http)|HTTP primitives which can be shared by servers and clients.|86|0|2024-01-14|
-|164|[videowhisper/HTML5-Videochat-PHP](https://github.com/videowhisper/HTML5-Videochat-PHP)|HTML5 Videochat / Live Streaming 📹📡:  Broadcast live video, Share link with others to watch, HTML5 WebRTC live video, Text chat with audio recordings / emoticons / mentions, Dark mode, Sound effects.  ...|79|0|2023-10-06|
-|165|[chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms)|Chamilo is a learning management system focused on ease of use and accessibility|729|0|2024-01-26|
-|166|[humhub/custom-pages](https://github.com/humhub/custom-pages)|Create custom pages and widgets and share them with your users. Take advantage of a wide range of editing options, including HTML and Markdown.|28|0|2024-01-08|
-|167|[elabftw/elabftw](https://github.com/elabftw/elabftw)|:notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.|856|0|2024-01-27|
-|168|[corowne/lorekeeper](https://github.com/corowne/lorekeeper)|A dA ARPG masterlist framework|85|0|2024-01-24|
-|169|[dotenv-org/examples](https://github.com/dotenv-org/examples)|🪜 Examples of using dotenv with various frameworks|59|0|2023-11-17|
-|170|[lokalise/lokalise-tutorials](https://github.com/lokalise/lokalise-tutorials)|Source code for technical tutorials hosted on Lokalise.|26|0|2023-10-25|
-|171|[FriendsOfFlarum/oauth](https://github.com/FriendsOfFlarum/oauth)|Allow users to log in with GitHub, Twitter, Facebook, and more!|40|0|2023-12-12|
-|172|[stivalet/PHP-Vulnerability-test-suite](https://github.com/stivalet/PHP-Vulnerability-test-suite)|Collection of vulnerable and fixed PHP synthetic test cases|53|0|2023-10-15|
-|173|[Kunstmaan/KunstmaanSeoBundle](https://github.com/Kunstmaan/KunstmaanSeoBundle)|[READ-ONLY] Subtree split of the Kunstmaan SeoBundle -- master at Kunstmaan/KunstmaanBundlesCMS|24|0|2023-12-20|
-|174|[Laravel-Lang/http-statuses](https://github.com/Laravel-Lang/http-statuses)|List of 126 languages for HTTP statuses|28|0|2023-12-30|
-|175|[danmarsden/moodle-local_recompletion](https://github.com/danmarsden/moodle-local_recompletion)|Allows course recompletion|23|0|2024-01-23|
-|176|[SinghDigamber/php-rest-api](https://github.com/SinghDigamber/php-rest-api)|how to create a PHP 8 CRUD (Create, Read, Update, Delete) RESTful API with MySQL database.|100|0|2023-09-22|
-|177|[Sioweb/Contao4DummyBundle](https://github.com/Sioweb/Contao4DummyBundle)|Contao 4 Beispiel-Bundle / Tutorial |28|0|2023-08-30|
-|178|[mohammedmanssour/form-request-tester](https://github.com/mohammedmanssour/form-request-tester)|a collection of test helpers that help test form requests|84|0|2024-01-05|
-|179|[vapvarun/buddyx](https://github.com/vapvarun/buddyx)|Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )|20|0|2024-01-05|
-|180|[Raldir/FEVEROUS](https://github.com/Raldir/FEVEROUS)|Repository for Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS), accepted to NeurIPS 2021 Dataset and Benchmarks and used for the FEVER Workshop Shared Task at  ...|59|0|2024-01-04|
-|181|[jhedstrom/DrupalDriver](https://github.com/jhedstrom/DrupalDriver)|A collection of drivers for controlling Drupal.|64|0|2024-01-11|
-|182|[wp-cli/php-cli-tools](https://github.com/wp-cli/php-cli-tools)|A collection of tools to help with PHP command line utilities|663|0|2023-12-08|
-|183|[mbezhanov/faker-provider-collection](https://github.com/mbezhanov/faker-provider-collection)|A collection of custom providers for the Faker PHP library|183|0|2023-12-26|
-|184|[ElzeroWebSchool/eCommerceCourse](https://github.com/ElzeroWebSchool/eCommerceCourse)|This Files For eCommerce Course Found Here: https://goo.gl/hTL1q0|223|0|2024-01-01|
-|185|[mazimez/laravel-hands-on](https://github.com/mazimez/laravel-hands-on)|This repository aims to provide a learning resource for people who are interested in learning Laravel.|63|0|2024-01-26|
-|186|[laravel-notification-channels/facebook-poster](https://github.com/laravel-notification-channels/facebook-poster)|Use notifications to create posts on Facebook|137|0|2024-01-11|
-|187|[croxton/Stash](https://github.com/croxton/Stash)|Stash allows you to stash text and snippets of code for reuse throughout your templates.|198|0|2023-08-31|
-|188|[raffaelj/cockpit-scripts](https://github.com/raffaelj/cockpit-scripts)|A collection of code snippets with annotations to modify Cockpit CMS|55|0|2023-09-17|
-|189|[run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2)|Curated list of awesome Magento 2 Extensions, Resources and other Highlights|1090|0|2023-09-22|
-|190|[laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions)|A collection of useful Laravel additions!|40|0|2024-01-01|
-|191|[sansecio/magevulndb](https://github.com/sansecio/magevulndb)|List of Magento extensions with known security issues. |190|0|2024-01-12|
-|192|[greenpeace/planet4-master-theme](https://github.com/greenpeace/planet4-master-theme)|Wordpress master theme for the Greenpeace Planet 4 project|60|0|2024-01-27|
-|193|[nextcloud/groupfolders](https://github.com/nextcloud/groupfolders)|📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. https://github.com/nextcloud-releases/groupfolders|252|0|2024-01-27|
-|194|[GaryClarke/php-framework-pro](https://github.com/GaryClarke/php-framework-pro)|A PHP framework tutorial project|22|0|2023-11-23|
-|195|[matthiasmullie/minify](https://github.com/matthiasmullie/minify)|CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern ...|1905|0|2024-01-25|
-|196|[adv4000/k8s-lessons](https://github.com/adv4000/k8s-lessons)|Kubernetes Course Lessons|173|0|2023-12-25|
-|197|[warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit)|a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.|795|0|2023-12-30|
-|198|[imanghafoori1/laravel-MasterPass](https://github.com/imanghafoori1/laravel-MasterPass)|Helps you securely setup a master password and login into user accounts with it.|362|0|2024-01-08|
-|199|[arawa/workspace](https://github.com/arawa/workspace)|Create shared workspaces and delegate management of their members and groups|24|0|2024-01-22|
-|200|[wielebenwir/commonsbooking](https://github.com/wielebenwir/commonsbooking)|CommonsBooking is an open source Wordpress plugin for sharing items with users. This is the NEW CommonsBooking (starting at version v2.0.0). Please install plugin via Wordpress plugin directory.|43|0|2024-01-27|
+|164|[m1k1o/blog](https://github.com/m1k1o/blog)|Lightweight self-hosted facebook-styled PHP blog.|298|0|2024-01-28|
+|165|[videowhisper/HTML5-Videochat-PHP](https://github.com/videowhisper/HTML5-Videochat-PHP)|HTML5 Videochat / Live Streaming 📹📡:  Broadcast live video, Share link with others to watch, HTML5 WebRTC live video, Text chat with audio recordings / emoticons / mentions, Dark mode, Sound effects.  ...|81|0|2023-10-06|
+|166|[chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms)|Chamilo is a learning management system focused on ease of use and accessibility|730|0|2024-01-26|
+|167|[humhub/custom-pages](https://github.com/humhub/custom-pages)|Create custom pages and widgets and share them with your users. Take advantage of a wide range of editing options, including HTML and Markdown.|28|0|2024-01-08|
+|168|[elabftw/elabftw](https://github.com/elabftw/elabftw)|:notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.|856|0|2024-01-27|
+|169|[corowne/lorekeeper](https://github.com/corowne/lorekeeper)|A dA ARPG masterlist framework|85|0|2024-01-28|
+|170|[dotenv-org/examples](https://github.com/dotenv-org/examples)|🪜 Examples of using dotenv with various frameworks|59|0|2023-11-17|
+|171|[lokalise/lokalise-tutorials](https://github.com/lokalise/lokalise-tutorials)|Source code for technical tutorials hosted on Lokalise.|26|0|2023-10-25|
+|172|[FriendsOfFlarum/oauth](https://github.com/FriendsOfFlarum/oauth)|Allow users to log in with GitHub, Twitter, Facebook, and more!|40|0|2023-12-12|
+|173|[stivalet/PHP-Vulnerability-test-suite](https://github.com/stivalet/PHP-Vulnerability-test-suite)|Collection of vulnerable and fixed PHP synthetic test cases|53|0|2023-10-15|
+|174|[Kunstmaan/KunstmaanSeoBundle](https://github.com/Kunstmaan/KunstmaanSeoBundle)|[READ-ONLY] Subtree split of the Kunstmaan SeoBundle -- master at Kunstmaan/KunstmaanBundlesCMS|24|0|2023-12-20|
+|175|[Laravel-Lang/http-statuses](https://github.com/Laravel-Lang/http-statuses)|List of 126 languages for HTTP statuses|28|0|2023-12-30|
+|176|[danmarsden/moodle-local_recompletion](https://github.com/danmarsden/moodle-local_recompletion)|Allows course recompletion|23|0|2024-01-23|
+|177|[SinghDigamber/php-rest-api](https://github.com/SinghDigamber/php-rest-api)|how to create a PHP 8 CRUD (Create, Read, Update, Delete) RESTful API with MySQL database.|100|0|2023-09-22|
+|178|[Sioweb/Contao4DummyBundle](https://github.com/Sioweb/Contao4DummyBundle)|Contao 4 Beispiel-Bundle / Tutorial |28|0|2023-08-30|
+|179|[mohammedmanssour/form-request-tester](https://github.com/mohammedmanssour/form-request-tester)|a collection of test helpers that help test form requests|84|0|2024-01-05|
+|180|[vapvarun/buddyx](https://github.com/vapvarun/buddyx)|Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )|20|0|2024-01-05|
+|181|[Raldir/FEVEROUS](https://github.com/Raldir/FEVEROUS)|Repository for Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS), accepted to NeurIPS 2021 Dataset and Benchmarks and used for the FEVER Workshop Shared Task at  ...|59|0|2024-01-04|
+|182|[jhedstrom/DrupalDriver](https://github.com/jhedstrom/DrupalDriver)|A collection of drivers for controlling Drupal.|64|0|2024-01-11|
+|183|[wp-cli/php-cli-tools](https://github.com/wp-cli/php-cli-tools)|A collection of tools to help with PHP command line utilities|663|0|2023-12-08|
+|184|[mbezhanov/faker-provider-collection](https://github.com/mbezhanov/faker-provider-collection)|A collection of custom providers for the Faker PHP library|183|0|2023-12-26|
+|185|[ElzeroWebSchool/eCommerceCourse](https://github.com/ElzeroWebSchool/eCommerceCourse)|This Files For eCommerce Course Found Here: https://goo.gl/hTL1q0|223|0|2024-01-01|
+|186|[mazimez/laravel-hands-on](https://github.com/mazimez/laravel-hands-on)|This repository aims to provide a learning resource for people who are interested in learning Laravel.|63|0|2024-01-26|
+|187|[laravel-notification-channels/facebook-poster](https://github.com/laravel-notification-channels/facebook-poster)|Use notifications to create posts on Facebook|137|0|2024-01-11|
+|188|[croxton/Stash](https://github.com/croxton/Stash)|Stash allows you to stash text and snippets of code for reuse throughout your templates.|198|0|2023-08-31|
+|189|[raffaelj/cockpit-scripts](https://github.com/raffaelj/cockpit-scripts)|A collection of code snippets with annotations to modify Cockpit CMS|55|0|2023-09-17|
+|190|[run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2)|Curated list of awesome Magento 2 Extensions, Resources and other Highlights|1090|0|2023-09-22|
+|191|[laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions)|A collection of useful Laravel additions!|40|0|2024-01-01|
+|192|[sansecio/magevulndb](https://github.com/sansecio/magevulndb)|List of Magento extensions with known security issues. |190|0|2024-01-12|
+|193|[greenpeace/planet4-master-theme](https://github.com/greenpeace/planet4-master-theme)|Wordpress master theme for the Greenpeace Planet 4 project|60|0|2024-01-27|
+|194|[nextcloud/groupfolders](https://github.com/nextcloud/groupfolders)|📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. https://github.com/nextcloud-releases/groupfolders|252|0|2024-01-28|
+|195|[GaryClarke/php-framework-pro](https://github.com/GaryClarke/php-framework-pro)|A PHP framework tutorial project|22|0|2023-11-23|
+|196|[matthiasmullie/minify](https://github.com/matthiasmullie/minify)|CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern ...|1904|0|2024-01-25|
+|197|[adv4000/k8s-lessons](https://github.com/adv4000/k8s-lessons)|Kubernetes Course Lessons|173|0|2023-12-25|
+|198|[warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit)|a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.|795|0|2023-12-30|
+|199|[imanghafoori1/laravel-MasterPass](https://github.com/imanghafoori1/laravel-MasterPass)|Helps you securely setup a master password and login into user accounts with it.|362|0|2024-01-08|
+|200|[arawa/workspace](https://github.com/arawa/workspace)|Create shared workspaces and delegate management of their members and groups|24|0|2024-01-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
