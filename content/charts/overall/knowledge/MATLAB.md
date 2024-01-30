@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1110|2024-01-15|
-|2|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|934|2024-01-24|
+|1|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1113|2024-01-15|
+|2|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|937|2024-01-24|
 |3|[cs-chan/Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-da ...|487|2023-08-29|
-|4|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |456|2023-12-24|
+|4|[mahmoudnafifi/Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction)|Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021). |457|2023-12-24|
 |5|[peijin94/matlabPlotCheatsheet](https://github.com/peijin94/matlabPlotCheatsheet)|A cheatsheet for those who plot with MATLAB|373|2023-11-11|
 |6|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|336|2023-09-08|
 |7|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|306|2023-12-31|
-|8|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|247|2024-01-22|
+|8|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|246|2024-01-29|
 |9|[ktekeli/audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)|A Library of Audio Steganography & Watermarking Algorithms|217|2023-11-07|
 |10|[ahojnnes/local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation)|Comparative Evaluation of Hand-Crafted and Learned Local Features|210|2024-01-11|
 |11|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|193|2024-01-22|
@@ -26,8 +26,8 @@
 |19|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |73|2023-12-26|
 |20|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|72|2024-01-15|
 |21|[BradNeuberg/hinton-coursera](https://github.com/BradNeuberg/hinton-coursera)|Repo for working through Geoffrey Hinton's Neural Network course (https://class.coursera.org/neuralnets-2012-001)|69|2023-08-12|
-|22|[urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox)|The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms.|62|2023-08-18|
-|23|[petercorke/RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)|New toolbox, data and examples for Robotics, Vision & Control: 3rd edition in MATLAB|61|2023-11-15|
+|22|[petercorke/RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)|New toolbox, data and examples for Robotics, Vision & Control: 3rd edition in MATLAB|62|2023-11-15|
+|23|[urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox)|The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms.|62|2023-08-18|
 |24|[cliansang/positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|The Matlab scripts for five positioning algorithms regarding UWB localization. The five algorithms are Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Taylor Series-based location estimat ...|60|2024-01-15|
 |25|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|55|2023-12-13|
 |26|[suman-shah/Learn-to-Code-with-MATLAB](https://github.com/suman-shah/Learn-to-Code-with-MATLAB)|Let's learn how to work with variables, functions, vectors and many more inbuilt commands.|52|2023-10-31|
@@ -38,11 +38,11 @@
 |31|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|38|2024-01-09|
 |32|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|Notebooks and documents to build Computational Mechanics course|37|2023-12-23|
 |33|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|37|2023-09-21|
-|34|[vfitoolkit/vfitoolkit-matlab-replication](https://github.com/vfitoolkit/vfitoolkit-matlab-replication)|Codes that use the VFI Toolkit to replicate existing papers|37|2023-08-07|
+|34|[vfitoolkit/vfitoolkit-matlab-replication](https://github.com/vfitoolkit/vfitoolkit-matlab-replication)|Codes that use the VFI Toolkit to replicate existing papers|37|2024-01-29|
 |35|[wangxiao5791509/TNL2K_evaluation_toolkit](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)|Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark (CVPR 2021)|36|2023-09-05|
 |36|[pnnl/deps_arXiv2020](https://github.com/pnnl/deps_arXiv2020)|Differentiable predictive control (DPC) policy optimization examples.|36|2023-08-26|
 |37|[Nonlinear-Analysis-Core/NONANLibrary](https://github.com/Nonlinear-Analysis-Core/NONANLibrary)|This is our standard library for nonlinear analysis. Many of these functions are the same we use in our services. We do have additional methods that are not public but could be made available in a fut ...|34|2023-12-05|
-|38|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|33|2023-11-22|
+|38|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|34|2023-11-22|
 |39|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|30|2023-11-08|
 |40|[minoue-xx/Oversampling-Imbalanced-Data](https://github.com/minoue-xx/Oversampling-Imbalanced-Data)|MATLAB Implementation of SMOTE related algorithms|29|2023-09-23|
 |41|[abdulkarimgizzini/Deep-Learning-Based-Channel-Estimation-Schemes-for-IEEE-802.11p-Standard](https://github.com/abdulkarimgizzini/Deep-Learning-Based-Channel-Estimation-Schemes-for-IEEE-802.11p-Standard)|This repository includes the source code of the STA-DNN and TRFI DNN channel estimators proposed in "Deep Learning Based Channel Estimation Schemes for IEEE 802.11 p Standard" and "Joint TRFI and Deep ...|27|2023-12-12|
@@ -57,9 +57,9 @@
 |50|[sebastianmenze/Processing-and-analysis-of-large-ADCP-datasets](https://github.com/sebastianmenze/Processing-and-analysis-of-large-ADCP-datasets)|This document will guide you through the steps necessary to process and analyse both vessel mounted (VM-ADCP) and lowered acoustic doppler current profilers (L-ADCP). Both are complex data sources tha ...|25|2023-11-14|
 |51|[THUHoloLab/pixel-super-resolution-phase-retrieval](https://github.com/THUHoloLab/pixel-super-resolution-phase-retrieval)|Algorithms for pixel super-resolution phase retrieval|24|2024-01-04|
 |52|[sbiswas8/Estimation-algorithms](https://github.com/sbiswas8/Estimation-algorithms)|Estimation-algorithms includes MATLAB functions for the EKF, UKF, Particle Filter, and their computationally efficient variants.|24|2024-01-04|
-|53|[vfitoolkit/VFItoolkit-matlab-examples](https://github.com/vfitoolkit/VFItoolkit-matlab-examples)|Some Examples using VFItoolkit-matlab|23|2023-11-21|
-|54|[ferreau/mpcBenchmarking](https://github.com/ferreau/mpcBenchmarking)|Open collection of model predictive control (MPC) benchmarking problems|23|2023-10-23|
-|55|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|22|2024-01-17|
+|53|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|23|2024-01-17|
+|54|[vfitoolkit/VFItoolkit-matlab-examples](https://github.com/vfitoolkit/VFItoolkit-matlab-examples)|Some Examples using VFItoolkit-matlab|23|2024-01-29|
+|55|[ferreau/mpcBenchmarking](https://github.com/ferreau/mpcBenchmarking)|Open collection of model predictive control (MPC) benchmarking problems|23|2023-10-23|
 |56|[mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests](https://github.com/mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests)|Files demonstrating how to diff Simulink models and attach reports to pull requests|21|2023-09-29|
 |57|[zhandawei/Efficient_Global_Optimization_Algorithms](https://github.com/zhandawei/Efficient_Global_Optimization_Algorithms)|standard, parallel, constrained, and multiobjective EGO algorithms|21|2024-01-25|
 |58|[matlab-deep-learning/Lidar-object-detection-using-complex-yolov4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4)|Object detection and transfer learning on point clouds using pretrained Complex-YOLOv4 models in MATLAB|21|2023-10-12|
@@ -69,7 +69,7 @@
 |62|[dynamicslab/MultiArm-Pendulum](https://github.com/dynamicslab/MultiArm-Pendulum)|This repository is for our paper: "The Experimental Multi-Arm Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control." It contains all the CAD files we used to build the pendulum hard ...|18|2023-08-08|
 |63|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|18|2024-01-05|
 |64|[opencobra/COBRA.tutorials](https://github.com/opencobra/COBRA.tutorials)|Repository of tutorials for The COBRA Toolbox|18|2024-01-25|
-|65|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|18|2024-01-26|
+|65|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|18|2024-01-29|
 |66|[LIUHAITAO-CH/Dive-into-Robotics](https://github.com/LIUHAITAO-CH/Dive-into-Robotics)|1, Online materials are mostly scripted, breaking the way of reading PPT type lectures  2, Pure writing board book teaching, intuitive, easy to understand  3. Exercises and homework for each class  4. ...|16|2023-12-17|
 |67|[MathWorks-Teaching-Resources/Fundamentals-of-Programming](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming)|An overview of programming concepts including arrays, strings, loops, and algorithms with a project.|16|2024-01-19|
 |68|[MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems](https://github.com/MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems)|Interactive courseware module that addresses the fundamentals of mass-spring-damper systems taught in mechanical engineering courses.|16|2023-10-20|
@@ -118,18 +118,18 @@
 |111|[csea-lab/csea-lab](https://github.com/csea-lab/csea-lab)|A collection of the many scripts we use here at CSEA.|9|2024-01-19|
 |112|[SUwonglab/TimeReg](https://github.com/SUwonglab/TimeReg)|time course regulatory analysis from paired gene expression and chromatin accessibility time course data |9|2023-11-10|
 |113|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|9|2024-01-22|
-|114|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|2024-01-13|
-|115|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|
-|116|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|
-|117|[RezaSaadatyar/SSVEP-based-EEG-signal-processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|8|2024-01-08|
-|118|[ime-luebeck/ecg-removal](https://github.com/ime-luebeck/ecg-removal)|Algorithms and evaluation toolkit for removing strong cardiac interference from surface EMG measurements|8|2024-01-04|
-|119|[NZhangChina/MUSLA-code](https://github.com/NZhangChina/MUSLA-code)|Multiview Unsupervised Shapelet Learning for Multivariate Time Series Clustering|8|2023-12-19|
-|120|[burakozpoyraz/MATLAB-101](https://github.com/burakozpoyraz/MATLAB-101)|Documents of my MATLAB-101 course|8|2024-01-22|
-|121|[sccn/eeglab_tutorial_scripts](https://github.com/sccn/eeglab_tutorial_scripts)|Scripts for the EEGLAB tutorial|8|2023-12-15|
-|122|[pirofti/dl-box](https://github.com/pirofti/dl-box)|Dictionary Learning Toolbox|8|2023-09-07|
-|123|[rusucosmin/til](https://github.com/rusucosmin/til)|Today I learned|8|2023-07-31|
-|124|[chebfun/guide](https://github.com/chebfun/guide)|The Chebfun Guide|8|2024-01-18|
-|125|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|7|2024-01-14|
+|114|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|8|2024-01-14|
+|115|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|2024-01-13|
+|116|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|
+|117|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|
+|118|[RezaSaadatyar/SSVEP-based-EEG-signal-processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|8|2024-01-08|
+|119|[ime-luebeck/ecg-removal](https://github.com/ime-luebeck/ecg-removal)|Algorithms and evaluation toolkit for removing strong cardiac interference from surface EMG measurements|8|2024-01-04|
+|120|[NZhangChina/MUSLA-code](https://github.com/NZhangChina/MUSLA-code)|Multiview Unsupervised Shapelet Learning for Multivariate Time Series Clustering|8|2023-12-19|
+|121|[burakozpoyraz/MATLAB-101](https://github.com/burakozpoyraz/MATLAB-101)|Documents of my MATLAB-101 course|8|2024-01-22|
+|122|[sccn/eeglab_tutorial_scripts](https://github.com/sccn/eeglab_tutorial_scripts)|Scripts for the EEGLAB tutorial|8|2023-12-15|
+|123|[pirofti/dl-box](https://github.com/pirofti/dl-box)|Dictionary Learning Toolbox|8|2023-09-07|
+|124|[rusucosmin/til](https://github.com/rusucosmin/til)|Today I learned|8|2023-07-31|
+|125|[chebfun/guide](https://github.com/chebfun/guide)|The Chebfun Guide|8|2024-01-18|
 |126|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|
 |127|[miralab-ai/IzTech-phaseOTDR-dataset](https://github.com/miralab-ai/IzTech-phaseOTDR-dataset)|Dataset for the article titled as "A Novel Intensity and Phase Stacked Analysis of Φ-OTDR System using Deep Transfer Learning and Recurrent Neural Networks"|7|2023-09-28|
 |128|[preethamam/Acceleration2VelocityandDisplacement](https://github.com/preethamam/Acceleration2VelocityandDisplacement)|Filters and converts the acceleration data to velocities and displacement using the signal processing algorithms.|7|2024-01-20|
@@ -190,21 +190,21 @@
 |183|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|4|2023-09-17|
 |184|[GAOChengzhan/Similarity_Modeling_of_Rock_Fractures](https://github.com/GAOChengzhan/Similarity_Modeling_of_Rock_Fractures)|Graduate Thesis   Study on the Similarity Modeling of Rock Fractures in Tunnel|4|2023-07-31|
 |185|[jjjllxx/Multiple-UAV-Motion-Control-System](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System)|Multiple UAV motion control system. Including multiple path planning algorithms. NUS master project.|4|2023-09-11|
-|186|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|4|2023-11-16|
-|187|[MathWorks-Teaching-Resources/Regression-Basics](https://github.com/MathWorks-Teaching-Resources/Regression-Basics)|Interactive courseware module that addresses the fundamentals of regression analysis taught in STEM courses.|4|2024-01-04|
-|188|[miles916/grid_continuity_SMB](https://github.com/miles916/grid_continuity_SMB)|Collection of MATLAB codes and scripts to estimate SMB based on remote sensing observations of velocity and surface elevation changes, with ice thickness estimates.|4|2024-01-25|
-|189|[euroargodev/DMQC_status_and_statistics](https://github.com/euroargodev/DMQC_status_and_statistics)|Figures for DMQC statistics for a given list of floats|4|2023-10-03|
-|190|[ssiltane/Math_for_ML_2021](https://github.com/ssiltane/Math_for_ML_2021)|Machine learning codes for the course "Basics of Mathematics in Machine Learning I" given in January-March 2021 at University of Helsinki, Finland.|4|2024-01-19|
-|191|[ptbrown1729/qgm_tools](https://github.com/ptbrown1729/qgm_tools)|Various tools developed while studying the Fermi-Hubbard model using a quantum gas microscope|4|2023-08-06|
-|192|[mathworks/Heart-Sound-Classifier-Japanese-ver](https://github.com/mathworks/Heart-Sound-Classifier-Japanese-ver)|(Japanese version) Heart Sound Classification demo as explained in the Machine Learning eBook, but now expanded to demonstrate Wavelet scattering|4|2023-09-23|
-|193|[castlenthesky/excellent_at_excel](https://github.com/castlenthesky/excellent_at_excel)|A collection of formulas and examples for modeling in Excel.|4|2024-01-25|
-|194|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|4|2024-01-22|
-|195|[mattools/matlab-templates](https://github.com/mattools/matlab-templates)|A collection of functions for quickly generating pre-edited matlab files for specific use cases|4|2023-08-16|
-|196|[Zecao/ThesisFiles](https://github.com/Zecao/ThesisFiles)|Some files to reproduce the experiments from my master dissertation and articles.|4|2024-01-15|
-|197|[YanhaoZhang/ICIEA2018_IEKF_LeastSquare_Comparison](https://github.com/YanhaoZhang/ICIEA2018_IEKF_LeastSquare_Comparison)|This is the Matlab code of the simulations in my paper: Comparison of EKF based SLAM and optimization based SLAM algorithms (ICIEA2018)|4|2023-08-14|
-|198|[PetrKryslUCSD/AETNA](https://github.com/PetrKryslUCSD/AETNA)|An Engineer's Toolkit of Numerical Algorithms|4|2023-11-14|
-|199|[fieldtrip/playground](https://github.com/fieldtrip/playground)|This is a sandbox for learning how to use git|4|2023-08-24|
-|200|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-01-28|
+|186|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|4|2024-01-29|
+|187|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|4|2023-11-16|
+|188|[MathWorks-Teaching-Resources/Regression-Basics](https://github.com/MathWorks-Teaching-Resources/Regression-Basics)|Interactive courseware module that addresses the fundamentals of regression analysis taught in STEM courses.|4|2024-01-04|
+|189|[miles916/grid_continuity_SMB](https://github.com/miles916/grid_continuity_SMB)|Collection of MATLAB codes and scripts to estimate SMB based on remote sensing observations of velocity and surface elevation changes, with ice thickness estimates.|4|2024-01-25|
+|190|[euroargodev/DMQC_status_and_statistics](https://github.com/euroargodev/DMQC_status_and_statistics)|Figures for DMQC statistics for a given list of floats|4|2023-10-03|
+|191|[ssiltane/Math_for_ML_2021](https://github.com/ssiltane/Math_for_ML_2021)|Machine learning codes for the course "Basics of Mathematics in Machine Learning I" given in January-March 2021 at University of Helsinki, Finland.|4|2024-01-19|
+|192|[ptbrown1729/qgm_tools](https://github.com/ptbrown1729/qgm_tools)|Various tools developed while studying the Fermi-Hubbard model using a quantum gas microscope|4|2023-08-06|
+|193|[mathworks/Heart-Sound-Classifier-Japanese-ver](https://github.com/mathworks/Heart-Sound-Classifier-Japanese-ver)|(Japanese version) Heart Sound Classification demo as explained in the Machine Learning eBook, but now expanded to demonstrate Wavelet scattering|4|2023-09-23|
+|194|[castlenthesky/excellent_at_excel](https://github.com/castlenthesky/excellent_at_excel)|A collection of formulas and examples for modeling in Excel.|4|2024-01-25|
+|195|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|4|2024-01-22|
+|196|[mattools/matlab-templates](https://github.com/mattools/matlab-templates)|A collection of functions for quickly generating pre-edited matlab files for specific use cases|4|2023-08-16|
+|197|[Zecao/ThesisFiles](https://github.com/Zecao/ThesisFiles)|Some files to reproduce the experiments from my master dissertation and articles.|4|2024-01-15|
+|198|[YanhaoZhang/ICIEA2018_IEKF_LeastSquare_Comparison](https://github.com/YanhaoZhang/ICIEA2018_IEKF_LeastSquare_Comparison)|This is the Matlab code of the simulations in my paper: Comparison of EKF based SLAM and optimization based SLAM algorithms (ICIEA2018)|4|2023-08-14|
+|199|[PetrKryslUCSD/AETNA](https://github.com/PetrKryslUCSD/AETNA)|An Engineer's Toolkit of Numerical Algorithms|4|2023-11-14|
+|200|[fieldtrip/playground](https://github.com/fieldtrip/playground)|This is a sandbox for learning how to use git|4|2023-08-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

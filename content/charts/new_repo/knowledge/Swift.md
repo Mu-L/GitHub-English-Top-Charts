@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1815|2024-01-17|2023-06-14|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1820|2024-01-29|2023-06-14|
 |2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|185|2024-01-18|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|149|2023-10-23|2023-10-04|
-|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|134|2024-01-14|2023-07-28|
+|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|135|2024-01-14|2023-07-28|
 |5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|132|2024-01-28|2023-07-12|
 |6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|91|2024-01-19|2023-06-05|
-|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|77|2024-01-26|2023-12-01|
+|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|78|2024-01-29|2023-12-01|
 |8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|64|2023-09-30|2023-09-30|
 |9|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|57|2023-12-21|2023-12-16|
 |10|[rkmtlab/LipLearner](https://github.com/rkmtlab/LipLearner)|Research repository for LipLearner: Customizable Silent Speech Interactions on Mobile Devices (CHI 2023).|45|2023-11-08|2023-02-15|
@@ -22,15 +22,15 @@
 |15|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|23|2023-12-09|2023-11-22|
 |16|[JuniperPhoton/Widget-Intermediate-Animation](https://github.com/JuniperPhoton/Widget-Intermediate-Animation)|A demo to demonstrate how to animate widget changes with intermediate state|23|2023-08-25|2023-08-23|
 |17|[rafunderscore/Escapades](https://github.com/rafunderscore/Escapades)|A collection of some of my SwiftUI expreiments. |22|2023-10-14|2023-10-04|
-|18|[steventroughtonsmith/VisionExpandingSidebar](https://github.com/steventroughtonsmith/VisionExpandingSidebar)|Quick demonstration of how to make a Safari-style window that expands in size when its sidebar is shown, using UIKit, on visionOS.|21|2023-08-12|2023-08-12|
+|18|[steventroughtonsmith/VisionExpandingSidebar](https://github.com/steventroughtonsmith/VisionExpandingSidebar)|Quick demonstration of how to make a Safari-style window that expands in size when its sidebar is shown, using UIKit, on visionOS.|22|2023-08-12|2023-08-12|
 |19|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|20|2024-01-19|2023-08-01|
 |20|[PasiSalenius/CocoaCompose](https://github.com/PasiSalenius/CocoaCompose)|Collection of Cocoa controls that look just right, offer modern Swift APIs, and nicely compose together.|20|2023-12-23|2023-07-22|
 |21|[GoodRequest/GoodSwiftUI](https://github.com/GoodRequest/GoodSwiftUI)|📑 GoodSwiftUI is a comprehensive library filled with reusable SwiftUI snippets for faster and more efficient iOS development. This library offers a wide range of customizable UI components, designed t ...|17|2024-01-09|2023-02-08|
 |22|[sala7khaled/ios-stationclub](https://github.com/sala7khaled/ios-stationclub)|stationclub is a social networking platform for podcast and radio enthusiasts. With stationclub, users can discover new podcasts and radio stations, connect with other enthusiasts, and share their fav ...|16|2024-01-11|2023-02-22|
-|23|[Reality-Dev/RealityKit-Utilities](https://github.com/Reality-Dev/RealityKit-Utilities)|A collection of code that makes writing code with RealityKit easier.|15|2023-12-31|2023-02-17|
-|24|[mzaks/mojo-hash](https://github.com/mzaks/mojo-hash)|A collection of hash functions implemented in Mojo|14|2023-12-23|2023-09-28|
-|25|[PacktPublishing/SwiftUI-Cookbook-3rd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-3rd-Edition)|Code Repository for SwiftUI cookbook Third Edition, Published by Packt|14|2024-01-10|2023-05-16|
-|26|[NNN-Studio/Abyssal](https://github.com/NNN-Studio/Abyssal)|Simplify, Tidy and Master Your macOS Menu Bar.|13|2024-01-01|2023-06-13|
+|23|[PacktPublishing/SwiftUI-Cookbook-3rd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-3rd-Edition)|Code Repository for SwiftUI cookbook Third Edition, Published by Packt|15|2024-01-10|2023-05-16|
+|24|[Reality-Dev/RealityKit-Utilities](https://github.com/Reality-Dev/RealityKit-Utilities)|A collection of code that makes writing code with RealityKit easier.|15|2023-12-31|2023-02-17|
+|25|[mzaks/mojo-hash](https://github.com/mzaks/mojo-hash)|A collection of hash functions implemented in Mojo|14|2023-12-23|2023-09-28|
+|26|[NNN-Studio/Abyssal](https://github.com/NNN-Studio/Abyssal)|Simplify, Tidy and Master Your macOS Menu Bar.|14|2024-01-01|2023-06-13|
 |27|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|12|2023-10-23|2023-10-19|
 |28|[pgvector/pgvector-swift](https://github.com/pgvector/pgvector-swift)|pgvector examples for Swift|12|2023-12-27|2023-04-12|
 |29|[scottyelvington/retainable](https://github.com/scottyelvington/retainable)|A case study in simplifying closure boilerplate|11|2023-12-02|2023-11-19|
@@ -55,7 +55,7 @@
 |48|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|6|2023-09-13|2023-09-11|
 |49|[sparrowcode/SwiftUIExtension](https://github.com/sparrowcode/SwiftUIExtension)|Collection of SwiftUI extensions to boost development process.|6|2024-01-15|2023-08-31|
 |50|[elkraneo/A11Y-SC-NYC](https://github.com/elkraneo/A11Y-SC-NYC)|A workshop on how to implement visionOS accessibility features.|6|2023-10-03|2023-07-30|
-|51|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2023-10-21|2023-06-30|
+|51|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-01-29|2023-06-30|
 |52|[lucasnsp/100DaysOfSwift](https://github.com/lucasnsp/100DaysOfSwift)|Repository for the course 100DaysOfSwift that teaches how to use UIkit|6|2023-09-08|2023-04-18|
 |53|[StanfordSpezi/SpeziOnboarding](https://github.com/StanfordSpezi/SpeziOnboarding)|Spezi Onboarding module to inform a user or retrieve consent for a study participation|6|2024-01-24|2023-04-05|
 |54|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|

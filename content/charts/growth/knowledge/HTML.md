@@ -1,147 +1,147 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > HTML
-<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|6580|74|2024-01-28|
-|2|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|312|28|2024-01-28|
-|3|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|3138|25|2024-01-25|
-|4|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|78817|24|2024-01-28|
-|5|[google/styleguide](https://github.com/google/styleguide)|Style guides for Google-originated open-source projects|36150|11|2024-01-27|
-|6|[diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)| A collection of resources and papers on Diffusion Models|9385|11|2023-12-17|
-|7|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |722|11|2023-12-21|
-|8|[wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)|30 Day Vanilla JS Challenge|26161|10|2024-01-23|
-|9|[javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)|Modern JavaScript Tutorial |22165|9|2024-01-28|
-|10|[tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet)|A verified list of darknet markets and services with links for educational reference.|520|8|2024-01-28|
+|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|6588|73|2024-01-29|
+|2|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|3157|25|2024-01-25|
+|3|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|298|25|2024-01-29|
+|4|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|78851|24|2024-01-29|
+|5|[google/styleguide](https://github.com/google/styleguide)|Style guides for Google-originated open-source projects|36157|11|2024-01-27|
+|6|[diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)| A collection of resources and papers on Diffusion Models|9388|11|2023-12-17|
+|7|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |723|11|2023-12-21|
+|8|[wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)|30 Day Vanilla JS Challenge|26165|10|2024-01-23|
+|9|[javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)|Modern JavaScript Tutorial |22173|9|2024-01-28|
+|10|[tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet)|A verified list of darknet markets and services with links for educational reference.|512|8|2024-01-29|
 |11|[alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)|Data science interview questions and answers|7952|6|2024-01-17|
-|12|[GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)|GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems|9719|5|2024-01-23|
-|13|[atherosai/ui](https://github.com/atherosai/ui)|Simple UI examples from my social media|2087|5|2024-01-26|
-|14|[github/opensource.guide](https://github.com/github/opensource.guide)|📚 Community guides for open source creators|13368|5|2024-01-27|
-|15|[yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php)|A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具|5847|5|2023-12-06|
-|16|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |75|5|2024-01-26|
-|17|[Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)| DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.|7433|5|2023-11-25|
-|18|[RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io)|Main Web Site (Online Books)|7508|5|2024-01-26|
-|19|[abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|5640|4|2023-11-06|
-|20|[cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)|Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.|1775|4|2024-01-08|
-|21|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.|5287|4|2024-01-26|
-|22|[kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks)|A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.|873|4|2023-08-30|
-|23|[wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)|A curated list of awesome things related to Django|8091|4|2024-01-26|
-|24|[rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)|A collection of resources on modern C++|11066|4|2024-01-21|
-|25|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|4299|4|2023-12-23|
+|12|[GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)|GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems|9726|5|2024-01-23|
+|13|[atherosai/ui](https://github.com/atherosai/ui)|Simple UI examples from my social media|2089|5|2024-01-29|
+|14|[github/opensource.guide](https://github.com/github/opensource.guide)|📚 Community guides for open source creators|13372|5|2024-01-27|
+|15|[yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php)|A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具|5850|5|2023-12-06|
+|16|[Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)| DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.|7434|5|2023-11-25|
+|17|[RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io)|Main Web Site (Online Books)|7512|5|2024-01-26|
+|18|[abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|5643|4|2023-11-06|
+|19|[cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)|Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.|1776|4|2024-01-08|
+|20|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.|5288|4|2024-01-26|
+|21|[kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks)|A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.|873|4|2023-08-30|
+|22|[wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)|A curated list of awesome things related to Django|8096|4|2024-01-26|
+|23|[rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)|A collection of resources on modern C++|11067|4|2024-01-21|
+|24|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |76|4|2024-01-26|
+|25|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|4301|4|2023-12-23|
 |26|[sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)|How do we integrate AI generation tools into actual work?   关于 Ai 绘画的Wiki   Wiki about Ai painting   Prompts Engineering  指南 Guide   Seeking Maintainer&Translator🙌|1747|4|2023-12-05|
-|27|[jerrylususu/mainonly](https://github.com/jerrylususu/mainonly)|A JavaScript bookmarklet designed to isolate and highlight a specific element on a webpage, effectively hiding all other elements.|147|3|2024-01-28|
-|28|[mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements)|𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎|12470|3|2024-01-26|
-|29|[juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)|A list of public penetration test reports published by several consulting firms and academic security groups.|7840|3|2024-01-24|
-|30|[jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation)|A curated list of useful resources that cover Offensive AI.|960|3|2024-01-21|
-|31|[jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)|Jupyter notebooks for teaching/learning Python 3|6177|3|2024-01-04|
+|27|[jerrylususu/mainonly](https://github.com/jerrylususu/mainonly)|A JavaScript bookmarklet designed to isolate and highlight a specific element on a webpage, effectively hiding all other elements.|148|3|2024-01-28|
+|28|[mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements)|𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎|12475|3|2024-01-29|
+|29|[juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)|A list of public penetration test reports published by several consulting firms and academic security groups.|7844|3|2024-01-24|
+|30|[jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation)|A curated list of useful resources that cover Offensive AI.|960|3|2024-01-29|
+|31|[jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)|Jupyter notebooks for teaching/learning Python 3|6178|3|2024-01-04|
 |32|[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)|https://huyenchip.com/ml-interviews-book/|2992|3|2023-11-27|
-|33|[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)|Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀|3740|3|2023-12-18|
-|34|[samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)|🚨 Collection of Prometheus alerting rules|5770|3|2024-01-26|
-|35|[Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices)|A guide to smart contract security best practices|7225|3|2024-01-11|
-|36|[PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)|:page_facing_up: A curated list of awesome Angular resources|9150|3|2023-10-31|
-|37|[munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters)|Repository for the book "Crafting Interpreters"|7793|3|2024-01-11|
+|33|[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)|Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀|3742|3|2024-01-28|
+|34|[samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)|🚨 Collection of Prometheus alerting rules|5772|3|2024-01-26|
+|35|[Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices)|A guide to smart contract security best practices|7228|3|2024-01-11|
+|36|[PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)|:page_facing_up: A curated list of awesome Angular resources|9151|3|2023-10-31|
+|37|[munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters)|Repository for the book "Crafting Interpreters"|7797|3|2024-01-11|
 |38|[sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)|A book that teaches JavaScript|789|2|2023-12-26|
-|39|[bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)|Free Introduction to Bash Scripting eBook|2452|2|2023-10-30|
-|40|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|2198|2|2023-12-15|
-|41|[comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples)|Examples of ComfyUI workflows|610|2|2024-01-23|
-|42|[mdn/learning-area](https://github.com/mdn/learning-area)|GitHub repo for the MDN Learning Area. |6531|2|2024-01-25|
-|43|[nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs)|A community guide to the Rust ecosystem|1124|2|2024-01-17|
-|44|[faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)|🏅 Collection of Kaggle Solutions and Ideas 🏅|3597|2|2024-01-08|
+|39|[bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)|Free Introduction to Bash Scripting eBook|2453|2|2023-10-30|
+|40|[jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)|Starter files, final projects, and FAQ for my HTML + CSS course|2200|2|2023-12-15|
+|41|[comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples)|Examples of ComfyUI workflows|612|2|2024-01-23|
+|42|[mdn/learning-area](https://github.com/mdn/learning-area)|GitHub repo for the MDN Learning Area. |6536|2|2024-01-28|
+|43|[nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs)|A community guide to the Rust ecosystem|1125|2|2024-01-17|
+|44|[faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)|🏅 Collection of Kaggle Solutions and Ideas 🏅|3598|2|2024-01-08|
 |45|[ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type)|In-depth guide to the best open-source typefaces: https://beautifulwebtype.com|7227|2|2023-12-02|
-|46|[tpn/pdfs](https://github.com/tpn/pdfs)|Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)|6741|2|2023-10-22|
-|47|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|1469|2|2024-01-27|
-|48|[realpython/materials](https://github.com/realpython/materials)|Bonus materials, exercises, and example projects for our Python tutorials|4555|2|2024-01-26|
-|49|[go101/go101](https://github.com/go101/go101)|An up-to-date (unofficial) knowledge base for Go programming self learning|5300|2|2024-01-10|
+|46|[tpn/pdfs](https://github.com/tpn/pdfs)|Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)|6746|2|2023-10-22|
+|47|[hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)|list of free stuff for developer|1470|2|2024-01-29|
+|48|[realpython/materials](https://github.com/realpython/materials)|Bonus materials, exercises, and example projects for our Python tutorials|4556|2|2024-01-29|
+|49|[go101/go101](https://github.com/go101/go101)|An up-to-date (unofficial) knowledge base for Go programming self learning|5302|2|2024-01-10|
 |50|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2|2024-01-12|
 |51|[shovoalways/CSS-Course](https://github.com/shovoalways/CSS-Course)|এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লিস্ট এ ডিটেইলে আপনাকে CSS3 শিখাব, ইনশাআল্লাহ্‌। তাই আপনি যদি আগ্রিহী হন দেখতে থাকু ...|298|2|2023-11-27|
 |52|[Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)|Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!|157|1|2023-11-20|
-|53|[noob-hackers/grabcam](https://github.com/noob-hackers/grabcam)|A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers|1257|1|2023-11-05|
+|53|[noob-hackers/grabcam](https://github.com/noob-hackers/grabcam)|A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers|1259|1|2023-11-05|
 |54|[techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io)|Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!|911|1|2024-01-25|
 |55|[0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests)|Learn Rust with Test-Driven Development |25|1|2024-01-17|
 |56|[sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips)|Unit testing tips by examples in PHP|1066|1|2024-01-18|
-|57|[WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io)|WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.|1242|1|2023-12-03|
+|57|[WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io)|WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.|1243|1|2023-12-03|
 |58|[josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters)|Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself ...|339|1|2024-01-05|
-|59|[nikit0ns/Ukrainian_IT_Communities](https://github.com/nikit0ns/Ukrainian_IT_Communities)|The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.|264|1|2024-01-27|
-|60|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)|Hugo documentation theme as simple as plain book|2633|1|2024-01-10|
+|59|[nikit0ns/Ukrainian_IT_Communities](https://github.com/nikit0ns/Ukrainian_IT_Communities)|The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.|265|1|2024-01-27|
+|60|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)|Hugo documentation theme as simple as plain book|2632|1|2024-01-10|
 |61|[r-follador/CubeTrek](https://github.com/r-follador/CubeTrek)|Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.|62|1|2024-01-17|
-|62|[Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)|Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.|822|1|2024-01-16|
+|62|[Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)|Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.|823|1|2024-01-28|
 |63|[FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)|2017 edition of our front-end development guide|3824|1|2023-10-02|
-|64|[gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals)|WebGL 2 lessons starting from the basics|1607|1|2024-01-24|
+|64|[gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals)|WebGL 2 lessons starting from the basics|1610|1|2024-01-24|
 |65|[pddon/pddon-win](https://github.com/pddon/pddon-win)|PDDON windows client, PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN,  ...|165|1|2024-01-17|
-|66|[wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes)|:books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。|804|1|2023-11-28|
-|67|[samdutton/simpl](https://github.com/samdutton/simpl)|Simplest possible examples of HTML, CSS and Javascript:|5098|1|2024-01-17|
+|66|[wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes)|:books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。|805|1|2023-11-28|
+|67|[samdutton/simpl](https://github.com/samdutton/simpl)|Simplest possible examples of HTML, CSS and Javascript:|5100|1|2024-01-17|
 |68|[orcas-lab/hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it)|An emergency booklet, I hope you will never use it|95|1|2023-10-27|
-|69|[the-full-stack/website](https://github.com/the-full-stack/website)|Source for https://fullstackdeeplearning.com|974|1|2023-11-24|
+|69|[the-full-stack/website](https://github.com/the-full-stack/website)|Source for https://fullstackdeeplearning.com|975|1|2023-11-24|
 |70|[tfredrich/RestApiTutorial.com](https://github.com/tfredrich/RestApiTutorial.com)|HTML Source code for www.RestApiTutorial.com|3028|1|2023-10-17|
 |71|[Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML)|A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|1057|1|2023-09-08|
-|72|[twbs/examples](https://github.com/twbs/examples)|Functional examples of using Bootstrap in common JS frameworks like Webpack, Parcel, Vite, and more!|379|1|2024-01-19|
+|72|[twbs/examples](https://github.com/twbs/examples)|Functional examples of using Bootstrap in common JS frameworks like Webpack, Parcel, Vite, and more!|381|1|2024-01-19|
 |73|[opencodeiiita/GoGit-3.0](https://github.com/opencodeiiita/GoGit-3.0)|A project to learn the basics of Git and GitHub.|29|1|2024-01-04|
 |74|[spotify/web-api-examples](https://github.com/spotify/web-api-examples)|Basic examples to authenticate and fetch data using the Spotify Web API|1904|1|2024-01-11|
 |75|[Perelyn-sama/yul_by_example](https://github.com/Perelyn-sama/yul_by_example)|Code examples in Yul|243|1|2023-11-04|
-|76|[cipher387/linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day)|In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".|200|1|2024-01-03|
-|77|[rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)|A guide to how rustc works and how to contribute to it.|1515|1|2024-01-28|
+|76|[cipher387/linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day)|In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".|201|1|2024-01-03|
+|77|[rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)|A guide to how rustc works and how to contribute to it.|1516|1|2024-01-29|
 |78|[danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)|A cheatsheet on the usage of git flow|2437|1|2023-11-23|
-|79|[munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)|Source repo for the book|3710|1|2023-09-06|
-|80|[mattcone/markdown-guide](https://github.com/mattcone/markdown-guide)|The comprehensive Markdown reference guide.|2874|1|2024-01-05|
-|81|[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)|:blue_book: Home Assistant User documentation|4238|1|2024-01-28|
+|79|[munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)|Source repo for the book|3732|1|2023-09-06|
+|80|[mattcone/markdown-guide](https://github.com/mattcone/markdown-guide)|The comprehensive Markdown reference guide.|2878|1|2024-01-05|
+|81|[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)|:blue_book: Home Assistant User documentation|4242|1|2024-01-29|
 |82|[matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)|Porting Grav Learn theme to Hugo|1579|1|2024-01-04|
 |83|[aviggiano/theauditorbook](https://github.com/aviggiano/theauditorbook)|The Auditor Book|226|1|2023-11-17|
-|84|[TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI)|Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor ...|642|1|2023-11-19|
+|84|[TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI)|Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor ...|643|1|2023-11-19|
 |85|[drshahizan/learn-github](https://github.com/drshahizan/learn-github)|A step-by-step guide to getting started with Git and GitHub for beginners.|414|1|2023-11-17|
-|86|[gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals)|WebGL lessons that start with the basics|4485|1|2023-08-26|
+|86|[gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals)|WebGL lessons that start with the basics|4486|1|2023-08-26|
 |87|[mdbootstrap/TW-Elements-React](https://github.com/mdbootstrap/TW-Elements-React)|TW Elements for React - 𝙃𝙪𝙜𝙚 collection of Tailwind + React components, sections and templates 😎|130|1|2023-12-15|
-|88|[khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)|Help the front End community to rock interview|2723|1|2023-10-30|
-|89|[geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook)|The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.|1499|1|2024-01-22|
+|88|[khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)|Help the front End community to rock interview|2724|1|2023-10-30|
+|89|[geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook)|The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.|1501|1|2024-01-22|
 |90|[digitalinnovationone/roadmaps](https://github.com/digitalinnovationone/roadmaps)|Repositório público com Roadmaps colaborativos baseados nos conteúdos educacionais da DIO.|437|1|2024-01-19|
 |91|[urania-dev/snapp](https://github.com/urania-dev/snapp)|Yet Another Url Shortner. A simple excercise to learn Svelte, Svelte5 Runes, and Tabler.|80|1|2024-01-09|
 |92|[bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io)|Companion webpage for the book "Bayesian Optimization" by Roman Garnett|836|1|2023-12-18|
-|93|[rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)|A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/|1891|1|2024-01-24|
+|93|[rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)|A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/|1893|1|2024-01-24|
 |94|[addyosmani/learning-jsdp](https://github.com/addyosmani/learning-jsdp)|Learning JavaScript Design Patterns: 2nd Edition - The Examples|212|1|2023-12-19|
-|95|[HuXn-WebDev/HTML-CSS-JavaScript-100-Projects](https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects)|Build 100+ Projects In 100 Days Using HTML, CSS and JAVASCRIPT|337|1|2023-12-28|
+|95|[HuXn-WebDev/HTML-CSS-JavaScript-100-Projects](https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects)|Build 100+ Projects In 100 Days Using HTML, CSS and JAVASCRIPT|336|1|2023-12-28|
 |96|[willpinha/daisy-collection](https://github.com/willpinha/daisy-collection)|🌸 A collection of UI examples for DaisyUI|54|1|2024-01-22|
-|97|[Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)|The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!|1197|1|2024-01-28|
+|97|[Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)|The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!|1337|1|2024-01-29|
 |98|[krzemienski/awesome-video](https://github.com/krzemienski/awesome-video)| A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.|1393|1|2024-01-24|
-|99|[microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)|A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a ...|1650|1|2024-01-26|
-|100|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|33|1|2024-01-28|
-|101|[lf2021/Front-End-Interview](https://github.com/lf2021/Front-End-Interview)|总结了前端面试过程中浏览器，计算机网络，数据结构与算法，HTML，CSS，JS，Vue，React已经实战经验等相关的面试知识。|976|1|2023-12-16|
+|99|[microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)|A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a ...|1651|1|2024-01-26|
+|100|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|33|1|2024-01-29|
+|101|[lf2021/Front-End-Interview](https://github.com/lf2021/Front-End-Interview)|总结了前端面试过程中浏览器，计算机网络，数据结构与算法，HTML，CSS，JS，Vue，React已经实战经验等相关的面试知识。|977|1|2023-12-16|
 |102|[wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples)|Bootstrap table examples|2224|1|2024-01-17|
-|103|[iptv-org/epg](https://github.com/iptv-org/epg)|Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.|1444|1|2024-01-28|
+|103|[iptv-org/epg](https://github.com/iptv-org/epg)|Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.|1446|1|2024-01-28|
 |104|[lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel)|Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.|834|1|2023-11-01|
-|105|[orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp)|Learn C and build your own programming language in under 1000 lines of code!|2784|1|2023-12-28|
+|105|[orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp)|Learn C and build your own programming language in under 1000 lines of code!|2785|1|2023-12-28|
 |106|[bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)|Free Introduction to Git and GitHub eBook|539|1|2023-10-30|
-|107|[sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners)|Learn how to build simple, responsive websites using HTML, CSS, and JavaScript|866|1|2024-01-04|
+|107|[sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners)|Learn how to build simple, responsive websites using HTML, CSS, and JavaScript|867|1|2024-01-04|
 |108|[simonw/til](https://github.com/simonw/til)|Today I Learned|885|1|2024-01-28|
 |109|[wesbos/css-grid](https://github.com/wesbos/css-grid)|Starter Files + Solutions to my CSSGrid.io Course|2068|1|2023-10-26|
-|110|[ethen8181/machine-learning](https://github.com/ethen8181/machine-learning)|:earth_americas: machine learning tutorials (mainly in Python3) |3071|1|2024-01-04|
+|110|[ethen8181/machine-learning](https://github.com/ethen8181/machine-learning)|:earth_americas: machine learning tutorials (mainly in Python3) |3073|1|2024-01-04|
 |111|[asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems)|Curated list of resources on testing distributed systems|2360|1|2023-12-22|
 |112|[TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)|A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.|4845|1|2023-10-21|
 |113|[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)|:books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视 ...|3068|1|2024-01-28|
-|114|[mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython)|A curated list of awesome MicroPython libraries, frameworks, software and resources.|1130|1|2023-12-13|
-|115|[dbohdan/classless-css](https://github.com/dbohdan/classless-css)|A list of classless CSS themes/frameworks with screenshots|1557|1|2023-10-17|
-|116|[go-training/training](https://github.com/go-training/training)|Learning Golang one day|1319|1|2024-01-14|
-|117|[avinash201199/Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection)|This repository contains collection of portfolio's .|453|1|2024-01-28|
+|114|[mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython)|A curated list of awesome MicroPython libraries, frameworks, software and resources.|1131|1|2023-12-13|
+|115|[dbohdan/classless-css](https://github.com/dbohdan/classless-css)|A list of classless CSS themes/frameworks with screenshots|1560|1|2023-10-17|
+|116|[go-training/training](https://github.com/go-training/training)|Learning Golang one day|1320|1|2024-01-14|
+|117|[avinash201199/Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection)|This repository contains collection of portfolio's .|454|1|2024-01-28|
 |118|[krishvsoni/CodeNow](https://github.com/krishvsoni/CodeNow)|Share your code now!!|24|1|2024-01-22|
 |119|[Asabeneh/10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github)|Some video lessons on YouTube: This videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|1201|1|2023-09-10|
-|120|[UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now)|Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, ...|1252|1|2023-10-29|
+|120|[UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now)|Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, ...|1253|1|2023-10-29|
 |121|[business-science/free_r_tips](https://github.com/business-science/free_r_tips)|Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every week.|1140|1|2024-01-16|
-|122|[collabnix/kubetools](https://github.com/collabnix/kubetools)|Kubetools - Curated List of Kubernetes Tools|2196|1|2024-01-22|
+|122|[collabnix/kubetools](https://github.com/collabnix/kubetools)|Kubetools - Curated List of Kubernetes Tools|2198|1|2024-01-22|
 |123|[abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)|Collection of papers, datasets, code and other resources for object tracking and detection using deep learning|2319|1|2023-11-22|
 |124|[FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)|The resources and tools for learning about the practice of front-end development. |1752|1|2023-10-02|
 |125|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|134|1|2024-01-22|
 |126|[EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)|List of GitHub profiles that have awesome customisation, that you can use for inspiration|1387|1|2024-01-02|
 |127|[AhmadRafiee/Docker_training_with_DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)|The tools and sample needed to learn the Docker|471|1|2023-12-31|
 |128|[shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)|:sunglasses: List of helpful resources added by the community for the community!|1045|1|2024-01-06|
-|129|[OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)|So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.|580|1|2024-01-22|
-|130|[open-sauced/intro](https://github.com/open-sauced/intro)|an introduction to open source and guide through the process of contributing to projects.|335|1|2024-01-27|
+|129|[OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)|So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.|581|1|2024-01-22|
+|130|[open-sauced/intro](https://github.com/open-sauced/intro)|an introduction to open source and guide through the process of contributing to projects.|337|1|2024-01-27|
 |131|[merlinmann/wisdom](https://github.com/merlinmann/wisdom)|Merlin Mann attempts to capture the best advice he's heard and learned from. |1041|1|2023-10-08|
-|132|[github/training-kit](https://github.com/github/training-kit)|Open source courseware for Git and GitHub|4110|1|2024-01-12|
-|133|[railsgirls/guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com)|Rails Girls Guides|6123|1|2024-01-17|
-|134|[swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings)|Active Directory and Internal Pentest Cheatsheets|225|1|2024-01-26|
+|132|[github/training-kit](https://github.com/github/training-kit)|Open source courseware for Git and GitHub|4112|1|2024-01-12|
+|133|[railsgirls/guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com)|Rails Girls Guides|6124|1|2024-01-17|
+|134|[swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings)|Active Directory and Internal Pentest Cheatsheets|228|1|2024-01-26|
 |135|[OnsenUI/playground](https://github.com/OnsenUI/playground)|Playground and interactive tutorial for Onsen UI|14|0|2023-09-27|
 |136|[brampat/security](https://github.com/brampat/security)|Collection of links to Security stuff|109|0|2023-11-17|
-|137|[18F/handbook](https://github.com/18F/handbook)|The home of policies and guidelines that make up TTS.|110|0|2024-01-27|
+|137|[18F/handbook](https://github.com/18F/handbook)|The home of policies and guidelines that make up TTS.|110|0|2024-01-29|
 |138|[1995parham-teaching/ie-lecture](https://github.com/1995parham-teaching/ie-lecture)|Internet Engineering Course Lecture and Page 🙈 🎈|41|0|2024-01-23|
 |139|[Binary-Kitchen/SolderingTutorial](https://github.com/Binary-Kitchen/SolderingTutorial)|Complete soldering course for beginners and advanced.|116|0|2024-01-22|
 |140|[platenio/platen](https://github.com/platenio/platen)|A toolkit for delightfully authoring and maintaining interactive digital books for tabletop games|47|0|2023-11-24|
@@ -168,7 +168,7 @@
 |161|[ycrc/parallel_python](https://github.com/ycrc/parallel_python)|Parallel Programming with Python Tutorial|31|0|2023-11-15|
 |162|[felixsinger/bootguard-status](https://github.com/felixsinger/bootguard-status)|A list of mainboards with their status of BootGuard. See https://felixsinger.github.io/bootguard-status|14|0|2023-12-09|
 |163|[A1vinSmith/OSCP-PWK](https://github.com/A1vinSmith/OSCP-PWK)|https://alvinsmith.gitbook.io/progressive-oscp/|32|0|2023-10-26|
-|164|[ivandavidov/minimal](https://github.com/ivandavidov/minimal)|Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environ ...|1454|0|2023-11-03|
+|164|[ivandavidov/minimal](https://github.com/ivandavidov/minimal)|Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environ ...|1455|0|2023-11-03|
 |165|[MLSC-BSOITR/Books-Collection](https://github.com/MLSC-BSOITR/Books-Collection)|This repository contains books on various Programming Languages, Concepts of coding, Software development. The link provided will directly take you to the book your looking for!!|30|0|2023-10-17|
 |166|[Yazdun/mini-projects](https://github.com/Yazdun/mini-projects)|collection of some cool projects with HTML, CSS, JavaScript and Tailwind|27|0|2023-08-09|
 |167|[OpenSouce-LNMIIT/JavaScriptProjects](https://github.com/OpenSouce-LNMIIT/JavaScriptProjects)|This guide is intended for people looking to work on projects to get hands-on learning experience but out of ideas.|78|0|2023-10-23|
@@ -184,8 +184,8 @@
 |177|[w3c/i18n-drafts](https://github.com/w3c/i18n-drafts)|A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.|61|0|2024-01-25|
 |178|[islinuxabout/islinuxabout.github.io](https://github.com/islinuxabout/islinuxabout.github.io)|Linux is a kernel—a collection of opinions and resources about Linux|19|0|2023-10-10|
 |179|[mjskay/uncertainty-examples](https://github.com/mjskay/uncertainty-examples)|Uncertainty visualization examples|105|0|2024-01-02|
-|180|[microsoft/Mastering-the-Marketplace](https://github.com/microsoft/Mastering-the-Marketplace)|Home of the commercial marketplace learning series.|85|0|2024-01-19|
-|181|[CodeWithHarry/DanceWebsite](https://github.com/CodeWithHarry/DanceWebsite)|This is the dance website from the web development course by Code With Harry|228|0|2023-10-03|
+|180|[microsoft/Mastering-the-Marketplace](https://github.com/microsoft/Mastering-the-Marketplace)|Home of the commercial marketplace learning series.|85|0|2024-01-28|
+|181|[CodeWithHarry/DanceWebsite](https://github.com/CodeWithHarry/DanceWebsite)|This is the dance website from the web development course by Code With Harry|229|0|2023-10-03|
 |182|[VulNyx/vulnyx.github.io](https://github.com/VulNyx/vulnyx.github.io)|VulNyx is a free platform for hackers where you can learn & practice cybersecurity with our vulnerable virtual machines.|30|0|2024-01-28|
 |183|[gabors-data-analysis/da-coding-rstats](https://github.com/gabors-data-analysis/da-coding-rstats)|Coding course to complete Data Analysis in R|104|0|2023-09-14|
 |184|[fsr/course-management](https://github.com/fsr/course-management)|🎓 Managing programming courses|15|0|2023-12-01|
@@ -196,10 +196,10 @@
 |189|[hackerwhale/free-cybersecurity-ebooks](https://github.com/hackerwhale/free-cybersecurity-ebooks)|Freely available cyber security related books|17|0|2023-10-27|
 |190|[taogen-docs/resources-of-learning](https://github.com/taogen-docs/resources-of-learning)|Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.|837|0|2024-01-27|
 |191|[HobbitQia/notebook](https://github.com/HobbitQia/notebook)|my notebook|25|0|2024-01-20|
-|192|[jparkie/Programming-Notebook](https://github.com/jparkie/Programming-Notebook)|Programming Notebook|62|0|2023-11-04|
+|192|[jparkie/Programming-Notebook](https://github.com/jparkie/Programming-Notebook)|Programming Notebook|61|0|2023-11-04|
 |193|[CSSInDepth/css-in-depth](https://github.com/CSSInDepth/css-in-depth)|Code examples from CSS In Depth|765|0|2023-09-22|
 |194|[SMKIDRaadet/dtu-course-analyzer](https://github.com/SMKIDRaadet/dtu-course-analyzer)|DTU Course Analyzer|51|0|2023-11-29|
-|195|[Sriparno08/Openpedia](https://github.com/Sriparno08/Openpedia)|The Open Source Guide!|61|0|2024-01-28|
+|195|[Sriparno08/Openpedia](https://github.com/Sriparno08/Openpedia)|The Open Source Guide!|61|0|2024-01-29|
 |196|[github/hackathons](https://github.com/github/hackathons)|Tips, Tricks, and Resources for running your hackathon.|288|0|2024-01-17|
 |197|[hapytex/django-antipatterns](https://github.com/hapytex/django-antipatterns)|A set of (anti)patterns found over the years.|111|0|2023-11-30|
 |198|[aliesbelik/awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter)|A collection of resources covering different aspects of JMeter usage.|668|0|2024-01-15|

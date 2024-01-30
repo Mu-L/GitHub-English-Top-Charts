@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[pulseq/tutorials](https://github.com/pulseq/tutorials)|This is a collection of various Pulseq tutorials, which is supposed to grow in future|25|2023-09-27|2023-02-10|
-|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|22|2024-01-17|2024-01-11|
+|2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|23|2024-01-17|2024-01-11|
 |3|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|15|2023-11-09|2023-02-15|
 |4|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|11|2024-01-24|2023-02-16|
 |5|[Aketirani/ANC](https://github.com/Aketirani/ANC)|Active Noise Cancelling Using Filtered Adaptive Algorithms|11|2024-01-15|2023-02-12|
 |6|[ami-iit/ironcub-mk1-software](https://github.com/ami-iit/ironcub-mk1-software)|In this repository we share software for dynamics simulations of the jet-powered humanoid iRonCub-Mk1.|11|2024-01-04|2023-02-06|
 |7|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|10|2024-01-26|2023-06-28|
-|8|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|2024-01-13|2023-10-05|
-|9|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
-|10|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|2023-02-14|
-|11|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|7|2024-01-14|2024-01-14|
+|8|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|8|2024-01-14|2024-01-14|
+|9|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|2024-01-13|2023-10-05|
+|10|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
+|11|[dtu-act/numerical-pde-solvers](https://github.com/dtu-act/numerical-pde-solvers)|Collection of solvers: 1) Spectral-element solvers for solving the 1D and 2D wave-equation, and 1D and 2D Helmholtz equation, 2) Fourier-SEM domain decomposition solver, 3) WBBEM solver|8|2023-08-31|2023-02-14|
 |12|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
 |13|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|6|2024-01-10|2023-10-13|
 |14|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |6|2024-01-18|2023-10-09|
@@ -39,7 +39,7 @@
 |32|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|4|2023-11-13|2023-06-10|
 |33|[labourer-Lucas/Induction-Motor-Control-Simulation](https://github.com/labourer-Lucas/Induction-Motor-Control-Simulation)|This is a collection of Induction motor controlling methods simulation. VVVF, FOC and DTC will be implemented using Matlab Simulink in my design.|4|2023-12-06|2023-06-08|
 |34|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization|4|2023-09-17|2023-04-16|
-|35|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-01-28|2024-01-10|
+|35|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-01-29|2024-01-10|
 |36|[krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry](https://github.com/krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry)|This repository contains a project completed at Worcester Polytechnic Institute for the RBE-502 Robot Control course.|3|2023-12-28|2023-12-15|
 |37|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|3|2023-12-10|2023-12-10|
 |38|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|3|2023-11-30|2023-11-20|
