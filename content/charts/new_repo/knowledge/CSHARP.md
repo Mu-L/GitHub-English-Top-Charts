@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|817|2024-01-29|2023-08-30|
-|2|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|265|2024-01-24|2023-03-15|
-|3|[Delt06/toon-rp](https://github.com/Delt06/toon-rp)|🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.|262|2024-01-29|2023-02-18|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|837|2024-01-30|2023-08-30|
+|2|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|266|2024-01-31|2023-03-15|
+|3|[Delt06/toon-rp](https://github.com/Delt06/toon-rp)|🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.|263|2024-01-29|2023-02-18|
 |4|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |226|2024-01-04|2023-05-11|
 |5|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|210|2023-12-09|2023-05-02|
 |6|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|206|2023-10-31|2023-07-25|
-|7|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|159|2024-01-18|2023-05-16|
+|7|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|160|2024-01-18|2023-05-16|
 |8|[davidfowl/IdentityEndpointsSample](https://github.com/davidfowl/IdentityEndpointsSample)|A sample showing how to setup ASP.NET Core Identity API endpoints for authentication|143|2023-09-18|2023-07-14|
 |9|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|126|2024-01-04|2023-09-21|
-|10|[UnityTechnologies/PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO)|A demo project to showcase design patterns and game architecture using ScriptableObjects|115|2023-09-11|2023-03-20|
+|10|[UnityTechnologies/PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO)|A demo project to showcase design patterns and game architecture using ScriptableObjects|116|2023-09-11|2023-03-20|
 |11|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|108|2023-10-02|2023-04-11|
-|12|[dusrdev/Sharpify](https://github.com/dusrdev/Sharpify)|A collection of high performance language extensions for C#|83|2024-01-29|2023-04-06|
+|12|[dusrdev/Sharpify](https://github.com/dusrdev/Sharpify)|A collection of high performance language extensions for C#|85|2024-01-30|2023-04-06|
 |13|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|74|2023-12-28|2023-11-07|
-|14|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|72|2024-01-20|2023-08-12|
-|15|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|69|2024-01-28|2023-06-21|
-|16|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|59|2024-01-29|2024-01-17|
+|14|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|73|2024-01-20|2023-08-12|
+|15|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|70|2024-01-30|2023-06-21|
+|16|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|61|2024-01-31|2024-01-17|
 |17|[optimus-code/Cities2Modding](https://github.com/optimus-code/Cities2Modding)|Info dump / guides for Cities Skylines 2 modding.|51|2023-11-11|2023-10-25|
-|18|[foohyfooh/PKHeXPluginPile](https://github.com/foohyfooh/PKHeXPluginPile)|Collection of PKHeX Plugins I have made and some that I try to maintain|47|2024-01-23|2023-03-21|
-|19|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|45|2024-01-14|2024-01-12|
+|18|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|48|2024-01-14|2024-01-12|
+|19|[foohyfooh/PKHeXPluginPile](https://github.com/foohyfooh/PKHeXPluginPile)|Collection of PKHeX Plugins I have made and some that I try to maintain|47|2024-01-23|2023-03-21|
 |20|[mikeroyal/Lenovo-Legion-Go-Guide](https://github.com/mikeroyal/Lenovo-Legion-Go-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Lenovo legion Go Gaming Handheld. |40|2023-11-18|2023-10-04|
 |21|[stymee/SilkVulkanTutorial](https://github.com/stymee/SilkVulkanTutorial)|C# port of Vulkan Game Engine Tutorial|39|2024-01-08|2023-03-14|
 |22|[miltinhoc/LinkedinEmails](https://github.com/miltinhoc/LinkedinEmails)|Searches for employees of a company on linkedin, generates a list of possible emails and verifies them.|35|2023-09-09|2023-04-12|

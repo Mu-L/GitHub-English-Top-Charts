@@ -1,41 +1,41 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|345|2024-01-28|2023-09-16|
-|2|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|188|2024-01-25|2023-12-29|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|371|2024-01-28|2023-09-16|
+|2|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|191|2024-01-31|2023-12-29|
 |3|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|92|2024-01-18|2023-10-03|
-|4|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|50|2024-01-27|2024-01-03|
-|5|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|48|2024-01-25|2023-05-28|
-|6|[mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets)|Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets|42|2024-01-29|2023-12-03|
+|4|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|59|2024-01-30|2024-01-03|
+|5|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|49|2024-01-25|2023-05-28|
+|6|[mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets)|Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets|43|2024-01-31|2023-12-03|
 |7|[meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim)|Small collection of _fancy_ components for the lualine.nvim plugin.|40|2023-09-03|2023-03-19|
 |8|[evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim)|A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.|38|2023-12-12|2023-03-12|
 |9|[GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)|Jupyter notebooks on neovim powered by Jupytext|35|2024-01-24|2023-11-22|
-|10|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|34|2024-01-24|2023-12-01|
+|10|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|34|2024-01-30|2023-12-01|
 |11|[ada0l/obsidian](https://github.com/ada0l/obsidian)|:book: Base Obsidian functionality in your Neovim |29|2023-08-11|2023-07-27|
-|12|[Project-Sloth/ps-props](https://github.com/Project-Sloth/ps-props)|A collection of props for your server|27|2024-01-06|2023-03-02|
-|13|[echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns)|Highlight patterns in text. Part of 'mini.nvim' library. |26|2023-12-17|2023-05-22|
-|14|[icebaker/ruby-nano-bots](https://github.com/icebaker/ruby-nano-bots)|Ruby Implementation of Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, ...|24|2024-01-13|2023-05-11|
+|12|[echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns)|Highlight patterns in text. Part of 'mini.nvim' library. |27|2023-12-17|2023-05-22|
+|13|[icebaker/ruby-nano-bots](https://github.com/icebaker/ruby-nano-bots)|Ruby Implementation of Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, ...|27|2024-01-13|2023-05-11|
+|14|[Project-Sloth/ps-props](https://github.com/Project-Sloth/ps-props)|A collection of props for your server|26|2024-01-06|2023-03-02|
 |15|[mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim)|My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. |22|2024-01-15|2023-05-26|
 |16|[Simplified-Studios/ss-jobcenter-qb](https://github.com/Simplified-Studios/ss-jobcenter-qb)|A jobcenter with a clearn UI for QBCore|19|2024-01-22|2023-12-08|
 |17|[0x5a4/oogway.nvim](https://github.com/0x5a4/oogway.nvim)|Be enlightened by Master Oogway! |17|2024-01-01|2023-12-29|
 |18|[biozz/whop.nvim](https://github.com/biozz/whop.nvim)|Whop your snippets with custom commands|16|2024-01-18|2023-10-21|
 |19|[red-blox/Util](https://github.com/red-blox/Util)|A collection of small utilities for Roblox.|16|2024-01-18|2023-05-09|
 |20|[mystery-z/awesome-hammerspoon](https://github.com/mystery-z/awesome-hammerspoon)|Awesome code snippets for the Hammerspoon Desktop Automation Utility |15|2023-08-03|2023-07-20|
-|21|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|14|2023-12-11|2023-07-24|
-|22|[Krystman/lazydevs-pico8-advanced-shmup](https://github.com/Krystman/lazydevs-pico8-advanced-shmup)|This is a repository of the Lazy Devs Academy Pico-8 Hero Advancved Shmup Tutorial.|14|2024-01-29|2023-03-08|
-|23|[drainpixie/petal](https://github.com/drainpixie/petal)|🌼 a delightful collection of dotfiles for my arch system.|13|2023-10-22|2023-06-01|
-|24|[pandoc-ext/list-table](https://github.com/pandoc-ext/list-table)|Write tables as list of cells and rows.|13|2024-01-07|2023-04-07|
-|25|[Roblox/dash](https://github.com/Roblox/dash)|A collection of core utilities expanding the capabilities of Lua in Roblox. This is a read-only mirror|12|2023-10-31|2023-10-23|
-|26|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|12|2023-11-16|2023-10-13|
-|27|[rchaput/acronyms](https://github.com/rchaput/acronyms)|Adds support for Acronyms, and List of Acronyms, to Quarto documents.|12|2023-11-21|2023-06-09|
-|28|[GeneralShark05/shark-leotools](https://github.com/GeneralShark05/shark-leotools)|A Collection of LEO Items for Ox Inventory|12|2023-09-22|2023-04-23|
-|29|[m0tral/MiWatchLuaWatchfaces](https://github.com/m0tral/MiWatchLuaWatchfaces)|Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models|11|2023-12-06|2023-10-31|
-|30|[Roblox/cryo](https://github.com/Roblox/cryo)|A collection of methods for working with immutable data in a functional way for Roblox Lua. This is a read-only mirror|11|2023-10-31|2023-10-23|
-|31|[jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim)|A collection of nifty neovim code actions|10|2024-01-29|2024-01-18|
+|21|[jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim)|A collection of nifty neovim code actions|14|2024-01-29|2024-01-18|
+|22|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|14|2024-01-31|2023-07-24|
+|23|[Krystman/lazydevs-pico8-advanced-shmup](https://github.com/Krystman/lazydevs-pico8-advanced-shmup)|This is a repository of the Lazy Devs Academy Pico-8 Hero Advancved Shmup Tutorial.|14|2024-01-29|2023-03-08|
+|24|[drainpixie/petal](https://github.com/drainpixie/petal)|🌼 a delightful collection of dotfiles for my arch system.|13|2023-10-22|2023-06-01|
+|25|[pandoc-ext/list-table](https://github.com/pandoc-ext/list-table)|Write tables as list of cells and rows.|13|2024-01-07|2023-04-07|
+|26|[Roblox/dash](https://github.com/Roblox/dash)|A collection of core utilities expanding the capabilities of Lua in Roblox. This is a read-only mirror|12|2023-10-31|2023-10-23|
+|27|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|12|2023-11-16|2023-10-13|
+|28|[rchaput/acronyms](https://github.com/rchaput/acronyms)|Adds support for Acronyms, and List of Acronyms, to Quarto documents.|12|2023-11-21|2023-06-09|
+|29|[GeneralShark05/shark-leotools](https://github.com/GeneralShark05/shark-leotools)|A Collection of LEO Items for Ox Inventory|12|2023-09-22|2023-04-23|
+|30|[m0tral/MiWatchLuaWatchfaces](https://github.com/m0tral/MiWatchLuaWatchfaces)|Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models|11|2023-12-06|2023-10-31|
+|31|[Roblox/cryo](https://github.com/Roblox/cryo)|A collection of methods for working with immutable data in a functional way for Roblox Lua. This is a read-only mirror|11|2023-10-31|2023-10-23|
 |32|[refcell/dots](https://github.com/refcell/dots)|An updated collection of useful dotfiles, utilities, and scripts that forms refcell's devx.|10|2023-11-16|2023-08-17|
 |33|[classpert/bapl-class-language](https://github.com/classpert/bapl-class-language)|Code for the Selene language developed during Classpert's Building a Programming Language course|10|2024-01-21|2023-02-02|
 |34|[JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar.nvim)|Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.|9|2024-01-16|2023-11-13|

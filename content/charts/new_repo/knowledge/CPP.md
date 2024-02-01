@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|49739|2024-01-29|2023-03-10|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|49869|2024-01-31|2023-03-10|
 |2|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|780|2023-12-29|2023-11-12|
-|3|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|641|2024-01-04|2023-05-09|
-|4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|487|2024-01-17|2023-11-03|
-|5|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|470|2023-10-30|2023-04-05|
-|6|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|454|2024-01-21|2024-01-10|
+|3|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|644|2024-01-04|2023-05-09|
+|4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|489|2024-01-17|2023-11-03|
+|5|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|474|2023-10-30|2023-04-05|
+|6|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|468|2024-01-21|2024-01-10|
 |7|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|380|2023-10-02|2023-09-16|
-|8|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|284|2024-01-29|2023-10-25|
-|9|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|272|2024-01-10|2023-08-28|
+|8|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|286|2024-01-31|2023-10-25|
+|9|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|273|2024-01-10|2023-08-28|
 |10|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|186|2023-08-23|2023-07-23|
 |11|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|148|2023-09-24|2023-07-29|
-|12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|140|2024-01-13|2023-05-12|
-|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |136|2024-01-16|2023-08-16|
-|14|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|113|2023-12-30|2023-07-18|
+|12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|141|2024-01-13|2023-05-12|
+|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |137|2024-01-31|2023-08-16|
+|14|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|114|2023-12-30|2023-07-18|
 |15|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|105|2023-11-24|2023-09-28|
 |16|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|99|2023-11-27|2023-06-14|
 |17|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|2023-12-08|2023-11-17|
