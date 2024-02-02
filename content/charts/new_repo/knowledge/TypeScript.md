@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TypeScript
-<sub>Updated: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。|5585|2024-01-21|2023-02-24|
-|2|[magicpatterns/catalog](https://github.com/magicpatterns/catalog)|The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.|1412|2024-01-26|2023-02-15|
+|1|[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。|5587|2024-01-21|2023-02-24|
+|2|[magicpatterns/catalog](https://github.com/magicpatterns/catalog)|The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.|1413|2024-01-26|2023-02-15|
 |3|[RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI)|Discover, test, and share APIs in seconds|1297|2024-01-05|2023-07-29|
-|4|[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)|Mock Interview Simulator with AI-Powered Feedback|1064|2023-12-23|2023-05-31|
-|5|[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)|Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.|1006|2024-01-31|2023-08-18|
-|6|[CapSoftware/cap](https://github.com/CapSoftware/cap)|Beautiful, shareable screen recordings. Open-source and cross-platform.|842|2024-01-29|2023-11-17|
-|7|[henriqueinonhe/promises-training](https://github.com/henriqueinonhe/promises-training)|Practice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant f ...|690|2024-01-24|2023-07-05|
-|8|[lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design)|最好的react ui组件库教程代码 (The code for the best react component library series tutorial)|676|2024-01-21|2023-07-21|
+|4|[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)|Mock Interview Simulator with AI-Powered Feedback|1067|2023-12-23|2023-05-31|
+|5|[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)|Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.|1007|2024-01-31|2023-08-18|
+|6|[CapSoftware/cap](https://github.com/CapSoftware/cap)|Beautiful, shareable screen recordings. Open-source and cross-platform.|843|2024-02-01|2023-11-17|
+|7|[henriqueinonhe/promises-training](https://github.com/henriqueinonhe/promises-training)|Practice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant f ...|691|2024-01-24|2023-07-05|
+|8|[lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design)|最好的react ui组件库教程代码 (The code for the best react component library series tutorial)|678|2024-01-21|2023-07-21|
 |9|[total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)|The companion repo for the upcoming Total TypeScript book|622|2023-12-15|2023-08-15|
-|10|[ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3)|🥳 A React components collection for Web3!|575|2024-01-31|2023-08-18|
-|11|[adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce)|Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.|535|2023-12-15|2023-11-21|
-|12|[aradzie/keybr.com](https://github.com/aradzie/keybr.com)|The smartest way to learn touch typing and improve your typing speed.|529|2024-01-31|2023-09-25|
+|10|[ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3)|🥳 A React components collection for Web3!|578|2024-02-01|2023-08-18|
+|11|[adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce)|Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.|539|2023-12-15|2023-11-21|
+|12|[aradzie/keybr.com](https://github.com/aradzie/keybr.com)|The smartest way to learn touch typing and improve your typing speed.|538|2024-01-31|2023-09-25|
 |13|[pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo)|A collection of auth-related utilities|510|2024-01-31|2023-10-15|
 |14|[revant-io/cdk-cost-limit](https://github.com/revant-io/cdk-cost-limit)|A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources|428|2023-11-10|2023-08-23|
 |15|[gitwonk/gitwonk](https://github.com/gitwonk/gitwonk)|The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙|423|2023-10-16|2023-04-01|
-|16|[compolabs/spark](https://github.com/compolabs/spark)|A Decentralized Order Book on Fuel.Network|417|2024-01-31|2023-02-28|
+|16|[compolabs/spark](https://github.com/compolabs/spark)|A Decentralized Order Book on Fuel.Network|418|2024-02-01|2023-02-28|
 |17|[SiaExplains/visa-sponsorship-companies](https://github.com/SiaExplains/visa-sponsorship-companies)|The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.|415|2023-11-23|2023-04-12|
 |18|[rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells)|Add interactive code snippets to any blog or webpage.|333|2023-09-12|2023-06-27|
-|19|[ibelick/background-snippets](https://github.com/ibelick/background-snippets)|Collection of modern, background snippets. Ready-to-use, simply copy and paste into your next project.|288|2023-08-19|2023-07-05|
-|20|[bndkt/sharemystack](https://github.com/bndkt/sharemystack)|Share your stack with the world!|263|2024-01-31|2023-06-07|
-|21|[kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance)|OLAP Database Performance Tuning Guide|259|2024-01-28|2023-04-01|
-|22|[ibelick/ui-snippets](https://github.com/ibelick/ui-snippets)|Collection of modern UI components and effects crafted in React and Tailwind CSS.|255|2024-01-30|2023-05-09|
-|23|[syt2/zotero-addons](https://github.com/syt2/zotero-addons)|Zotero add-on to list and install add-ons in Zotero   Zotero插件合集|247|2024-01-31|2023-09-08|
-|24|[Ubugeeei/chibivue](https://github.com/Ubugeeei/chibivue)|chibivue is minimal Vue.js v3 core implementations (Reactivity System, Virtual DOM, Component, Compiler (Template, SFC)). An online book for building your own Vue.js.|244|2024-01-28|2023-02-02|
-|25|[hiteshchoudhary/nextjs-fullstack-auth](https://github.com/hiteshchoudhary/nextjs-fullstack-auth)|nextjs-fullstack-auth course on youtube|240|2024-01-30|2023-06-29|
-|26|[shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit)|A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f ...|225|2024-01-29|2023-06-26|
+|19|[ibelick/background-snippets](https://github.com/ibelick/background-snippets)|Collection of modern, background snippets. Ready-to-use, simply copy and paste into your next project.|297|2023-08-19|2023-07-05|
+|20|[bndkt/sharemystack](https://github.com/bndkt/sharemystack)|Share your stack with the world!|264|2024-01-31|2023-06-07|
+|21|[ibelick/ui-snippets](https://github.com/ibelick/ui-snippets)|Collection of modern UI components and effects crafted in React and Tailwind CSS.|259|2024-01-30|2023-05-09|
+|22|[kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance)|OLAP Database Performance Tuning Guide|259|2024-01-28|2023-04-01|
+|23|[syt2/zotero-addons](https://github.com/syt2/zotero-addons)|Zotero add-on to list and install add-ons in Zotero   Zotero插件合集|250|2024-02-01|2023-09-08|
+|24|[hiteshchoudhary/nextjs-fullstack-auth](https://github.com/hiteshchoudhary/nextjs-fullstack-auth)|nextjs-fullstack-auth course on youtube|245|2024-01-30|2023-06-29|
+|25|[Ubugeeei/chibivue](https://github.com/Ubugeeei/chibivue)|chibivue is minimal Vue.js v3 core implementations (Reactivity System, Virtual DOM, Component, Compiler (Template, SFC)). An online book for building your own Vue.js.|245|2024-01-28|2023-02-02|
+|26|[shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit)|A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f ...|226|2024-01-29|2023-06-26|
 |27|[github-20k/super-star](https://github.com/github-20k/super-star)|The open-source course landing page 🚀🚀🚀|223|2023-10-17|2023-03-20|
-|28|[badass-courses/course-builder](https://github.com/badass-courses/course-builder)|🍄 experimental platform for building Badass Courses|215|2024-01-31|2023-11-05|
+|28|[badass-courses/course-builder](https://github.com/badass-courses/course-builder)|🍄 experimental platform for building Badass Courses|215|2024-02-01|2023-11-05|
 |29|[lumalabs/luma-web-examples](https://github.com/lumalabs/luma-web-examples)|Luma Web Examples, use lumalabs.ai captures directly in your three.js or other WebGL projects!|200|2024-01-12|2023-11-27|
 |30|[markrachapoom/merse](https://github.com/markrachapoom/merse)|We're crafting tools that transform your everyday moments, stories, experiences into lasting legacies in every form — comics, books, films, voice recordings, autobiographies, and beyond.|188|2023-12-16|2023-03-23|
-|31|[Anish-Agnihotri/friendmex](https://github.com/Anish-Agnihotri/friendmex)|BitMEX-inspired trading interface for friend.tech shares.|183|2023-09-05|2023-08-12|
-|32|[awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs)|AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.|180|2024-01-31|2023-09-14|
+|31|[awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs)|AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.|184|2024-02-01|2023-09-14|
+|32|[Anish-Agnihotri/friendmex](https://github.com/Anish-Agnihotri/friendmex)|BitMEX-inspired trading interface for friend.tech shares.|183|2023-09-05|2023-08-12|
 |33|[iamhyc/Overleaf-Workshop](https://github.com/iamhyc/Overleaf-Workshop)|Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.|179|2024-01-29|2023-07-20|
 |34|[solidjs-use/solidjs-use](https://github.com/solidjs-use/solidjs-use)|Collection of SolidJS utilities inspired completely by VueUse|161|2023-08-06|2023-02-04|
 |35|[luckrnx09/python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)|An open-source ebook helps JavaScript engineers quickly master the Python language|159|2024-01-08|2023-12-07|

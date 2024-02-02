@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Go
-<sub>Updated: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 2, Mistral, and other large language models locally.|34401|2024-01-31|2023-06-26|
-|2|[opentofu/opentofu](https://github.com/opentofu/opentofu)|OpenTofu lets you declaratively manage your cloud infrastructure.|18001|2024-01-31|2023-08-16|
-|3|[aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)|Convert Github Copilot to ChatGPT|7992|2024-01-31|2023-11-08|
-|4|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux|4729|2024-01-31|2023-12-13|
-|5|[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)|Giving Kubernetes Superpowers to everyone|4265|2024-01-31|2023-03-21|
-|6|[everywall/ladder](https://github.com/everywall/ladder)|Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL|3956|2023-12-16|2023-11-01|
-|7|[pgrok/pgrok](https://github.com/pgrok/pgrok)|Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding|2977|2024-01-01|2023-03-08|
-|8|[charmbracelet/huh](https://github.com/charmbracelet/huh)|Build terminal forms and prompts 🤷🏻‍♀️|2581|2024-01-31|2023-10-11|
-|9|[jetpack-io/typeid](https://github.com/jetpack-io/typeid)|Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs|2527|2023-12-21|2023-06-07|
-|10|[diggerhq/digger](https://github.com/diggerhq/digger)|Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  |2466|2024-01-31|2023-02-24|
-|11|[uber-go/nilaway](https://github.com/uber-go/nilaway)|Static Analysis tool to detect potential Nil panics in Go code|2445|2024-01-31|2023-07-11|
-|12|[francoismichel/ssh3](https://github.com/francoismichel/ssh3)|SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396|2432|2024-01-29|2023-10-31|
-|13|[paypal/junodb](https://github.com/paypal/junodb)|JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.|2313|2024-01-09|2023-02-24|
-|14|[charmbracelet/mods](https://github.com/charmbracelet/mods)|AI on the command line|2137|2024-01-29|2023-03-29|
-|15|[tmc/langchaingo](https://github.com/tmc/langchaingo)|LangChain for Go, the easiest way to write LLM-based programs in Go|2093|2024-01-31|2023-02-18|
+|1|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 2, Mistral, and other large language models locally.|34595|2024-02-01|2023-06-26|
+|2|[opentofu/opentofu](https://github.com/opentofu/opentofu)|OpenTofu lets you declaratively manage your cloud infrastructure.|18034|2024-02-01|2023-08-16|
+|3|[aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)|Convert Github Copilot to ChatGPT|8030|2024-02-01|2023-11-08|
+|4|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux|4750|2024-02-01|2023-12-13|
+|5|[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)|Giving Kubernetes Superpowers to everyone|4285|2024-02-01|2023-03-21|
+|6|[everywall/ladder](https://github.com/everywall/ladder)|Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL|3957|2023-12-16|2023-11-01|
+|7|[pgrok/pgrok](https://github.com/pgrok/pgrok)|Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding|2981|2024-02-01|2023-03-08|
+|8|[charmbracelet/huh](https://github.com/charmbracelet/huh)|Build terminal forms and prompts 🤷🏻‍♀️|2586|2024-02-01|2023-10-11|
+|9|[jetpack-io/typeid](https://github.com/jetpack-io/typeid)|Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs|2529|2023-12-21|2023-06-07|
+|10|[diggerhq/digger](https://github.com/diggerhq/digger)|Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  |2472|2024-02-01|2023-02-24|
+|11|[uber-go/nilaway](https://github.com/uber-go/nilaway)|Static Analysis tool to detect potential Nil panics in Go code|2448|2024-02-01|2023-07-11|
+|12|[francoismichel/ssh3](https://github.com/francoismichel/ssh3)|SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396|2437|2024-01-29|2023-10-31|
+|13|[paypal/junodb](https://github.com/paypal/junodb)|JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.|2314|2024-01-09|2023-02-24|
+|14|[charmbracelet/mods](https://github.com/charmbracelet/mods)|AI on the command line|2138|2024-01-29|2023-03-29|
+|15|[tmc/langchaingo](https://github.com/tmc/langchaingo)|LangChain for Go, the easiest way to write LLM-based programs in Go|2097|2024-02-01|2023-02-18|
 |16|[charmbracelet/pop](https://github.com/charmbracelet/pop)|Send emails from your terminal 📬|1972|2024-01-25|2023-06-21|
-|17|[SidraChain/go-ethereum](https://github.com/SidraChain/go-ethereum)|Forked Golang execution layer implementation of the Ethereum protocol.|1938|2024-01-23|2023-10-23|
-|18|[xataio/pgroll](https://github.com/xataio/pgroll)|PostgreSQL zero-downtime migrations made easy|1914|2024-01-31|2023-06-22|
-|19|[anfragment/zen](https://github.com/anfragment/zen)|Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux|1736|2024-01-19|2023-05-27|
-|20|[getzep/zep](https://github.com/getzep/zep)|Zep: Fast, scalable building blocks for production LLM apps|1721|2024-01-31|2023-04-29|
-|21|[riverqueue/river](https://github.com/riverqueue/river)|Fast and reliable background jobs in Go|1631|2024-01-31|2023-11-08|
-|22|[maaslalani/invoice](https://github.com/maaslalani/invoice)|Command line invoice generator|1612|2023-11-30|2023-06-11|
-|23|[lxc/incus](https://github.com/lxc/incus)|Powerful system container and virtual machine manager |1580|2024-01-31|2023-07-22|
-|24|[Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)|Go-blueprint allows users to spin up a quick Go project using a popular framework|1449|2024-01-30|2023-10-11|
-|25|[IBM/fp-go](https://github.com/IBM/fp-go)|functional programming library for golang|1410|2024-01-29|2023-07-05|
-|26|[linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)|一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序|1406|2023-10-24|2023-02-26|
-|27|[PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)|Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage|1324|2024-01-31|2023-04-15|
-|28|[aandrew-me/tgpt](https://github.com/aandrew-me/tgpt)|AI Chat in terminal without needing API keys|1308|2024-01-31|2023-04-17|
-|29|[uber-go/mock](https://github.com/uber-go/mock)|GoMock is a mocking framework for the Go programming language.|1272|2024-01-29|2023-05-03|
-|30|[briefercloud/layerform](https://github.com/briefercloud/layerform)|Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.|1204|2023-12-26|2023-07-29|
-|31|[stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy)|Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.|1168|2023-12-19|2023-03-24|
-|32|[base-org/pessimism](https://github.com/base-org/pessimism)|Detect real-time threats and events on OP Stack compatible blockchains|1147|2024-01-30|2023-03-22|
-|33|[stefanprodan/timoni](https://github.com/stefanprodan/timoni)|Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.|1147|2024-01-29|2023-02-11|
-|34|[trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh)|trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.|1136|2024-01-28|2023-05-21|
-|35|[BishopFox/jsluice](https://github.com/BishopFox/jsluice)|Extract URLs, paths, secrets, and other interesting bits from JavaScript|1091|2024-01-15|2023-03-14|
-|36|[gotzmann/llama.go](https://github.com/gotzmann/llama.go)|llama.go is like llama.cpp in pure Golang!|1077|2023-12-04|2023-03-19|
-|37|[acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API)|Scalable unofficial ChatGPT API for production.|1060|2023-08-08|2023-04-05|
-|38|[Jinnrry/PMail](https://github.com/Jinnrry/PMail)|Private EMail Server|1031|2024-01-29|2023-07-30|
-|39|[piaolin/DetectDee](https://github.com/piaolin/DetectDee)|DetectDee: Hunt down social media accounts by username, email or phone across social networks.|990|2023-08-26|2023-04-29|
-|40|[acheong08/obi-sync](https://github.com/acheong08/obi-sync)|Reverse engineering of the native Obsidian sync and publish server|987|2023-12-28|2023-08-17|
-|41|[zknill/sqledge](https://github.com/zknill/sqledge)|Replicate postgres to SQLite on the edge|973|2023-08-09|2023-07-21|
-|42|[go-nunu/nunu](https://github.com/go-nunu/nunu)|A CLI tool for building Go applications.|969|2024-01-31|2023-06-03|
-|43|[maypok86/otter](https://github.com/maypok86/otter)|A high performance lockless cache for Go. Many times faster than Ristretto and friends.|968|2024-01-26|2023-08-29|
-|44|[appleboy/CodeGPT](https://github.com/appleboy/CodeGPT)|A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.|967|2023-12-31|2023-03-04|
-|45|[scratchdata/ScratchDB](https://github.com/scratchdata/ScratchDB)|Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.|962|2024-01-24|2023-07-10|
-|46|[sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai)|✨ Kubectl plugin for OpenAI GPT|951|2024-01-12|2023-03-19|
-|47|[warrant-dev/warrant](https://github.com/warrant-dev/warrant)|Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.|938|2024-01-29|2023-02-14|
-|48|[rigdev/rig](https://github.com/rigdev/rig)|Rig.dev is a developer-centric application platform for Kubernetes ⛵|935|2024-01-31|2023-09-01|
-|49|[ByteStorage/FlyDB](https://github.com/ByteStorage/FlyDB)|The high-performance kv storage engine based on bitcask paper made in golang|911|2024-01-26|2023-04-01|
-|50|[beeper/imessage](https://github.com/beeper/imessage)|A Matrix-iMessage puppeting bridge.|900|2024-01-17|2023-12-20|
-|51|[philippta/flyscrape](https://github.com/philippta/flyscrape)|A standalone and scriptable web scraper in Go|889|2024-01-10|2023-08-28|
-|52|[RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner)|This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".|837|2024-01-18|2023-12-12|
-|53|[ublue-os/fleek](https://github.com/ublue-os/fleek)|Own your $HOME|791|2024-01-29|2023-03-16|
-|54|[projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap)|Navigate the CVE jungle with ease.|785|2024-01-29|2023-10-02|
-|55|[yonahd/kor](https://github.com/yonahd/kor)|A Golang Tool to discover unused Kubernetes Resources |757|2024-01-31|2023-07-05|
-|56|[openmeterio/openmeter](https://github.com/openmeterio/openmeter)|Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.|737|2024-01-31|2023-06-06|
-|57|[dolthub/doltgresql](https://github.com/dolthub/doltgresql)|DoltgreSQL - Version Controlled PostgreSQL|697|2024-01-29|2023-09-08|
-|58|[gofr-dev/gofr](https://github.com/gofr-dev/gofr)|An opinionated Go framework for accelerated microservice development|695|2024-01-31|2023-10-24|
-|59|[thomiceli/opengist](https://github.com/thomiceli/opengist)|Self-hosted pastebin powered by Git, open-source alternative to Github Gist.|670|2024-01-30|2023-04-10|
-|60|[Bistutu/GoMusic](https://github.com/Bistutu/GoMusic)|迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music|665|2024-01-03|2023-10-07|
-|61|[spaceandtimelabs/SxT-Go-SDK](https://github.com/spaceandtimelabs/SxT-Go-SDK)|GO based SDK for interacting with the Space and Time API. |652|2023-10-10|2023-05-17|
-|62|[bracesdev/errtrace](https://github.com/bracesdev/errtrace)|An alternative to stack traces for your Go errors|650|2024-01-09|2023-11-03|
-|63|[juzeon/SydneyQt](https://github.com/juzeon/SydneyQt)|A cross-platform desktop client for the jailbroken New Bing AI (Sydney ver.) built with Go and Wails (previously based on Python and Qt).|638|2024-01-29|2023-05-12|
-|64|[bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM)|Enterprise grade API infrastructure that helps you access control and mange spend across OpenAI, Azure OpenAI and Anthropic. |631|2024-01-31|2023-07-18|
-|65|[j178/chatgpt](https://github.com/j178/chatgpt)|An elegant interactive CLI for ChatGPT|627|2024-01-23|2023-03-02|
-|66|[Kuingsmile/clash-core](https://github.com/Kuingsmile/clash-core)|backup of clash core|622|2023-11-03|2023-11-03|
-|67|[juicity/juicity](https://github.com/juicity/juicity)|juicity is a quic-based proxy protocol implementation.|614|2024-01-02|2023-07-28|
-|68|[SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)|Six Degrees of Domain Admin|603|2024-01-31|2023-08-03|
-|69|[FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound)|FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggre ...|597|2024-01-30|2023-10-16|
-|70|[trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)|A pluggable, high-performance RPC framework written in golang|589|2024-01-30|2023-08-04|
-|71|[teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry)|-|581|2024-01-30|2023-05-09|
-|72|[lastlogin-io/obligator](https://github.com/lastlogin-io/obligator)|Simple and opinionated OpenID Connect server designed for self-hosters|577|2023-12-02|2023-05-18|
-|73|[projectdiscovery/alterx](https://github.com/projectdiscovery/alterx)|Fast and customizable subdomain wordlist generator using DSL|574|2024-01-29|2023-03-21|
-|74|[DataDog/KubeHound](https://github.com/DataDog/KubeHound)|Kubernetes Attack Graph|565|2024-01-16|2023-05-15|
-|75|[dolthub/swiss](https://github.com/dolthub/swiss)|Golang port of Abseil's SwissTable|562|2023-11-21|2023-02-23|
-|76|[angelofallars/htmx-go](https://github.com/angelofallars/htmx-go)|</> Build awesome HTMX + Go projects faster.|532|2024-01-19|2023-11-22|
-|77|[lmittmann/tint](https://github.com/lmittmann/tint)|🌈 slog.Handler that writes tinted (colorized) logs|530|2024-01-18|2023-03-19|
-|78|[google/capslock](https://github.com/google/capslock)|-|523|2024-01-31|2023-07-24|
-|79|[jetpack-io/tyson](https://github.com/jetpack-io/tyson)|🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation|515|2023-12-21|2023-06-23|
-|80|[openpubkey/openpubkey](https://github.com/openpubkey/openpubkey)|Reference implementation of OpenPubkey|496|2024-01-31|2023-09-14|
-|81|[bufbuild/protovalidate](https://github.com/bufbuild/protovalidate)|Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!|486|2024-01-29|2023-05-25|
-|82|[pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go)|go version of tiktoken|480|2023-09-08|2023-03-08|
-|83|[selefra/selefra](https://github.com/selefra/selefra)|The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).|477|2023-08-30|2023-03-21|
-|84|[ekkinox/yai](https://github.com/ekkinox/yai)|Your AI powered terminal assistant.|477|2024-01-29|2023-03-15|
-|85|[anyproto/any-sync](https://github.com/anyproto/any-sync)|An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices|469|2024-01-31|2023-05-23|
-|86|[simulot/immich-go](https://github.com/simulot/immich-go)|An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.|462|2024-01-30|2023-07-21|
-|87|[swuecho/chat](https://github.com/swuecho/chat)|chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model|456|2023-12-31|2023-03-18|
-|88|[jo-m/trainbot](https://github.com/jo-m/trainbot)|Watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.|448|2024-01-03|2023-03-09|
-|89|[rakyll/openai-go](https://github.com/rakyll/openai-go)|Go client libraries for OpenAI|448|2023-11-29|2023-02-24|
-|90|[STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)|🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.|444|2024-01-19|2023-05-26|
-|91|[tastypepperoni/PPLBlade](https://github.com/tastypepperoni/PPLBlade)|Protected Process Dumper Tool|437|2023-08-30|2023-08-29|
-|92|[nickvourd/Supernova](https://github.com/nickvourd/Supernova)|Real fucking shellcode encryption tool|433|2023-10-13|2023-08-08|
-|93|[dkorunic/betteralign](https://github.com/dkorunic/betteralign)|Make your Go programs use less memory (maybe)|432|2024-01-23|2023-03-15|
-|94|[alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster)|Ungreedy subword tokenizer and vocabulary trainer for Python, Go & Javascript|426|2024-01-28|2023-05-12|
-|95|[bitquark/shortscan](https://github.com/bitquark/shortscan)|An IIS short filename enumeration tool|414|2023-08-24|2023-07-08|
-|96|[runabol/tork](https://github.com/runabol/tork)|A distributed workflow engine|412|2024-01-29|2023-05-24|
-|97|[csznet/tgState](https://github.com/csznet/tgState)|使用Telegram作为存储的文件外链系统，不限制文件大小和格式。|410|2023-12-03|2023-10-02|
-|98|[pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter)|Brings native understanding of Nix packages to containerd|408|2024-01-27|2023-07-05|
-|99|[faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)|clash speedtest|408|2023-10-12|2023-05-02|
-|100|[adaptive-scale/dbchaos](https://github.com/adaptive-scale/dbchaos)|Stress-test your database with pre-defined queries. Validate slow and expensive queries that breaks your database.|406|2024-01-20|2023-12-30|
-|101|[SpenserCai/sd-webui-discord](https://github.com/SpenserCai/sd-webui-discord)|SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes ...|406|2023-12-01|2023-08-17|
-|102|[Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo)|Golang weaponization for red teamers.|400|2024-01-17|2023-10-19|
-|103|[D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack)|↕️🤫 Stealth redirector for your red team operation security|395|2024-01-13|2023-05-15|
-|104|[cursusdb/cursusdb](https://github.com/cursusdb/cursusdb)|CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities. |394|2024-01-12|2023-11-22|
-|105|[gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)|scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place|393|2023-12-12|2023-04-22|
-|106|[juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy)|A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t ...|393|2023-08-02|2023-04-20|
+|17|[xataio/pgroll](https://github.com/xataio/pgroll)|PostgreSQL zero-downtime migrations made easy|1969|2024-02-01|2023-06-22|
+|18|[SidraChain/go-ethereum](https://github.com/SidraChain/go-ethereum)|Forked Golang execution layer implementation of the Ethereum protocol.|1938|2024-01-23|2023-10-23|
+|19|[anfragment/zen](https://github.com/anfragment/zen)|Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux|1741|2024-01-19|2023-05-27|
+|20|[getzep/zep](https://github.com/getzep/zep)|Zep: Fast, scalable building blocks for production LLM apps|1725|2024-01-31|2023-04-29|
+|21|[riverqueue/river](https://github.com/riverqueue/river)|Fast and reliable background jobs in Go|1632|2024-02-01|2023-11-08|
+|22|[maaslalani/invoice](https://github.com/maaslalani/invoice)|Command line invoice generator|1614|2023-11-30|2023-06-11|
+|23|[lxc/incus](https://github.com/lxc/incus)|Powerful system container and virtual machine manager |1585|2024-01-31|2023-07-22|
+|24|[Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)|Go-blueprint allows users to spin up a quick Go project using a popular framework|1453|2024-01-30|2023-10-11|
+|25|[IBM/fp-go](https://github.com/IBM/fp-go)|functional programming library for golang|1412|2024-02-01|2023-07-05|
+|26|[linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)|一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序|1408|2023-10-24|2023-02-26|
+|27|[PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)|Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage|1327|2024-02-01|2023-04-15|
+|28|[aandrew-me/tgpt](https://github.com/aandrew-me/tgpt)|AI Chat in terminal without needing API keys|1314|2024-02-01|2023-04-17|
+|29|[openbao/openbao](https://github.com/openbao/openbao)|OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.|1282|2024-02-01|2023-11-09|
+|30|[uber-go/mock](https://github.com/uber-go/mock)|GoMock is a mocking framework for the Go programming language.|1274|2024-02-01|2023-05-03|
+|31|[briefercloud/layerform](https://github.com/briefercloud/layerform)|Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.|1205|2023-12-26|2023-07-29|
+|32|[stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy)|Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.|1168|2023-12-19|2023-03-24|
+|33|[base-org/pessimism](https://github.com/base-org/pessimism)|Detect real-time threats and events on OP Stack compatible blockchains|1149|2024-01-31|2023-03-22|
+|34|[stefanprodan/timoni](https://github.com/stefanprodan/timoni)|Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.|1149|2024-02-01|2023-02-11|
+|35|[trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh)|trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.|1143|2024-01-28|2023-05-21|
+|36|[BishopFox/jsluice](https://github.com/BishopFox/jsluice)|Extract URLs, paths, secrets, and other interesting bits from JavaScript|1093|2024-01-15|2023-03-14|
+|37|[gotzmann/llama.go](https://github.com/gotzmann/llama.go)|llama.go is like llama.cpp in pure Golang!|1078|2023-12-04|2023-03-19|
+|38|[acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API)|Scalable unofficial ChatGPT API for production.|1060|2023-08-08|2023-04-05|
+|39|[Jinnrry/PMail](https://github.com/Jinnrry/PMail)|Private EMail Server|1033|2024-01-29|2023-07-30|
+|40|[piaolin/DetectDee](https://github.com/piaolin/DetectDee)|DetectDee: Hunt down social media accounts by username, email or phone across social networks.|990|2023-08-26|2023-04-29|
+|41|[acheong08/obi-sync](https://github.com/acheong08/obi-sync)|Reverse engineering of the native Obsidian sync and publish server|987|2023-12-28|2023-08-17|
+|42|[go-nunu/nunu](https://github.com/go-nunu/nunu)|A CLI tool for building Go applications.|975|2024-01-31|2023-06-03|
+|43|[zknill/sqledge](https://github.com/zknill/sqledge)|Replicate postgres to SQLite on the edge|973|2023-08-09|2023-07-21|
+|44|[maypok86/otter](https://github.com/maypok86/otter)|A high performance lockless cache for Go. Many times faster than Ristretto and friends.|971|2024-02-01|2023-08-29|
+|45|[appleboy/CodeGPT](https://github.com/appleboy/CodeGPT)|A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.|967|2023-12-31|2023-03-04|
+|46|[scratchdata/ScratchDB](https://github.com/scratchdata/ScratchDB)|Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.|962|2024-01-31|2023-07-10|
+|47|[sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai)|✨ Kubectl plugin for OpenAI GPT|953|2024-01-12|2023-03-19|
+|48|[warrant-dev/warrant](https://github.com/warrant-dev/warrant)|Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.|938|2024-01-29|2023-02-14|
+|49|[rigdev/rig](https://github.com/rigdev/rig)|Rig.dev is a developer-centric application platform for Kubernetes ⛵|935|2024-01-31|2023-09-01|
+|50|[ByteStorage/FlyDB](https://github.com/ByteStorage/FlyDB)|The high-performance kv storage engine based on bitcask paper made in golang|912|2024-01-26|2023-04-01|
+|51|[beeper/imessage](https://github.com/beeper/imessage)|A Matrix-iMessage puppeting bridge.|902|2024-01-17|2023-12-20|
+|52|[philippta/flyscrape](https://github.com/philippta/flyscrape)|A standalone and scriptable web scraper in Go|890|2024-01-10|2023-08-28|
+|53|[RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner)|This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".|838|2024-01-18|2023-12-12|
+|54|[projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap)|Navigate the CVE jungle with ease.|821|2024-02-01|2023-10-02|
+|55|[ublue-os/fleek](https://github.com/ublue-os/fleek)|Own your $HOME|792|2024-01-29|2023-03-16|
+|56|[yonahd/kor](https://github.com/yonahd/kor)|A Golang Tool to discover unused Kubernetes Resources |758|2024-02-01|2023-07-05|
+|57|[openmeterio/openmeter](https://github.com/openmeterio/openmeter)|Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.|738|2024-02-01|2023-06-06|
+|58|[dolthub/doltgresql](https://github.com/dolthub/doltgresql)|DoltgreSQL - Version Controlled PostgreSQL|697|2024-01-29|2023-09-08|
+|59|[gofr-dev/gofr](https://github.com/gofr-dev/gofr)|An opinionated Go framework for accelerated microservice development|696|2024-02-01|2023-10-24|
+|60|[Bistutu/GoMusic](https://github.com/Bistutu/GoMusic)|迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music|671|2024-01-03|2023-10-07|
+|61|[thomiceli/opengist](https://github.com/thomiceli/opengist)|Self-hosted pastebin powered by Git, open-source alternative to Github Gist.|671|2024-01-30|2023-04-10|
+|62|[spaceandtimelabs/SxT-Go-SDK](https://github.com/spaceandtimelabs/SxT-Go-SDK)|GO based SDK for interacting with the Space and Time API. |667|2023-10-10|2023-05-17|
+|63|[bracesdev/errtrace](https://github.com/bracesdev/errtrace)|An alternative to stack traces for your Go errors|651|2024-01-09|2023-11-03|
+|64|[juzeon/SydneyQt](https://github.com/juzeon/SydneyQt)|A cross-platform desktop client for the jailbroken New Bing AI (Sydney ver.) built with Go and Wails (previously based on Python and Qt).|639|2024-01-29|2023-05-12|
+|65|[bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM)|Enterprise grade API infrastructure that helps you access control and mange spend across OpenAI, Azure OpenAI and Anthropic. |631|2024-02-01|2023-07-18|
+|66|[j178/chatgpt](https://github.com/j178/chatgpt)|An elegant interactive CLI for ChatGPT|627|2024-01-23|2023-03-02|
+|67|[Kuingsmile/clash-core](https://github.com/Kuingsmile/clash-core)|backup of clash core|626|2023-11-03|2023-11-03|
+|68|[juicity/juicity](https://github.com/juicity/juicity)|juicity is a quic-based proxy protocol implementation.|616|2024-01-02|2023-07-28|
+|69|[SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)|Six Degrees of Domain Admin|605|2024-02-01|2023-08-03|
+|70|[FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound)|FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggre ...|597|2024-01-30|2023-10-16|
+|71|[trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)|A pluggable, high-performance RPC framework written in golang|590|2024-01-30|2023-08-04|
+|72|[teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry)|-|582|2024-01-30|2023-05-09|
+|73|[projectdiscovery/alterx](https://github.com/projectdiscovery/alterx)|Fast and customizable subdomain wordlist generator using DSL|578|2024-01-29|2023-03-21|
+|74|[lastlogin-io/obligator](https://github.com/lastlogin-io/obligator)|Simple and opinionated OpenID Connect server designed for self-hosters|577|2023-12-02|2023-05-18|
+|75|[DataDog/KubeHound](https://github.com/DataDog/KubeHound)|Kubernetes Attack Graph|566|2024-01-16|2023-05-15|
+|76|[dolthub/swiss](https://github.com/dolthub/swiss)|Golang port of Abseil's SwissTable|562|2023-11-21|2023-02-23|
+|77|[angelofallars/htmx-go](https://github.com/angelofallars/htmx-go)|</> Build awesome HTMX + Go projects faster.|532|2024-01-19|2023-11-22|
+|78|[lmittmann/tint](https://github.com/lmittmann/tint)|🌈 slog.Handler that writes tinted (colorized) logs|531|2024-01-18|2023-03-19|
+|79|[google/capslock](https://github.com/google/capslock)|-|523|2024-01-31|2023-07-24|
+|80|[jetpack-io/tyson](https://github.com/jetpack-io/tyson)|🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation|515|2023-12-21|2023-06-23|
+|81|[openpubkey/openpubkey](https://github.com/openpubkey/openpubkey)|Reference implementation of OpenPubkey|496|2024-02-01|2023-09-14|
+|82|[bufbuild/protovalidate](https://github.com/bufbuild/protovalidate)|Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!|486|2024-01-29|2023-05-25|
+|83|[pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go)|go version of tiktoken|480|2023-09-08|2023-03-08|
+|84|[selefra/selefra](https://github.com/selefra/selefra)|The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).|478|2023-08-30|2023-03-21|
+|85|[ekkinox/yai](https://github.com/ekkinox/yai)|Your AI powered terminal assistant.|478|2024-02-01|2023-03-15|
+|86|[anyproto/any-sync](https://github.com/anyproto/any-sync)|An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices|471|2024-02-01|2023-05-23|
+|87|[simulot/immich-go](https://github.com/simulot/immich-go)|An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.|467|2024-01-30|2023-07-21|
+|88|[swuecho/chat](https://github.com/swuecho/chat)|chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model|456|2023-12-31|2023-03-18|
+|89|[jo-m/trainbot](https://github.com/jo-m/trainbot)|Watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.|448|2024-01-03|2023-03-09|
+|90|[rakyll/openai-go](https://github.com/rakyll/openai-go)|Go client libraries for OpenAI|448|2023-11-29|2023-02-24|
+|91|[STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)|🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.|444|2024-01-19|2023-05-26|
+|92|[tastypepperoni/PPLBlade](https://github.com/tastypepperoni/PPLBlade)|Protected Process Dumper Tool|437|2023-08-30|2023-08-29|
+|93|[nickvourd/Supernova](https://github.com/nickvourd/Supernova)|Real fucking shellcode encryption tool|433|2023-10-13|2023-08-08|
+|94|[dkorunic/betteralign](https://github.com/dkorunic/betteralign)|Make your Go programs use less memory (maybe)|432|2024-01-23|2023-03-15|
+|95|[alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster)|Ungreedy subword tokenizer and vocabulary trainer for Python, Go & Javascript|426|2024-01-28|2023-05-12|
+|96|[bitquark/shortscan](https://github.com/bitquark/shortscan)|An IIS short filename enumeration tool|414|2023-08-24|2023-07-08|
+|97|[csznet/tgState](https://github.com/csznet/tgState)|使用Telegram作为存储的文件外链系统，不限制文件大小和格式。|413|2023-12-03|2023-10-02|
+|98|[runabol/tork](https://github.com/runabol/tork)|A distributed workflow engine|413|2024-01-29|2023-05-24|
+|99|[pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter)|Brings native understanding of Nix packages to containerd|408|2024-01-27|2023-07-05|
+|100|[faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)|clash speedtest|408|2023-10-12|2023-05-02|
+|101|[adaptive-scale/dbchaos](https://github.com/adaptive-scale/dbchaos)|Stress-test your database with pre-defined queries. Validate slow and expensive queries that breaks your database.|407|2024-01-20|2023-12-30|
+|102|[SpenserCai/sd-webui-discord](https://github.com/SpenserCai/sd-webui-discord)|SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes ...|406|2023-12-01|2023-08-17|
+|103|[Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo)|Golang weaponization for red teamers.|401|2024-01-17|2023-10-19|
+|104|[D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack)|↕️🤫 Stealth redirector for your red team operation security|395|2024-01-13|2023-05-15|
+|105|[gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)|scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place|395|2023-12-12|2023-04-22|
+|106|[cursusdb/cursusdb](https://github.com/cursusdb/cursusdb)|CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities. |394|2024-01-12|2023-11-22|
 |107|[macOScontainers/rund](https://github.com/macOScontainers/rund)|OCI Container Runtime for macOS|391|2024-01-30|2023-06-26|
-|108|[synctv-org/synctv](https://github.com/synctv-org/synctv)|Synchronized viewing, theater, live streaming, video, long-distance relationship|378|2024-01-30|2023-10-04|
-|109|[dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe)|SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l ...|375|2023-12-21|2023-08-02|
+|108|[synctv-org/synctv](https://github.com/synctv-org/synctv)|Synchronized viewing, theater, live streaming, video, long-distance relationship|381|2024-02-01|2023-10-04|
+|109|[dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe)|SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l ...|376|2023-12-21|2023-08-02|
 |110|[donuts-are-good/bearclaw](https://github.com/donuts-are-good/bearclaw)|tiny static site generator w/ rss|369|2023-11-18|2023-02-11|
-|111|[siglens/siglens](https://github.com/siglens/siglens)|100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%|363|2024-01-31|2023-10-31|
+|111|[siglens/siglens](https://github.com/siglens/siglens)|100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%|363|2024-02-01|2023-10-31|
 |112|[webmeshproj/webmesh](https://github.com/webmeshproj/webmesh)|A simple, distributed, zero-configuration WireGuard mesh solution|362|2023-12-14|2023-05-28|
 |113|[Brum3ns/firefly](https://github.com/Brum3ns/firefly)|Black box fuzzer for web applications|357|2023-12-20|2023-02-10|
 |114|[stealthrocket/coroutine](https://github.com/stealthrocket/coroutine)|Durable coroutines for Go|352|2024-01-18|2023-09-01|
-|115|[bnb-chain/opbnb](https://github.com/bnb-chain/opbnb)|-|351|2024-01-30|2023-05-30|
-|116|[henomis/lingoose](https://github.com/henomis/lingoose)|🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines|351|2024-01-30|2023-04-17|
+|115|[bnb-chain/opbnb](https://github.com/bnb-chain/opbnb)|-|352|2024-02-01|2023-05-30|
+|116|[henomis/lingoose](https://github.com/henomis/lingoose)|🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines|351|2024-02-01|2023-04-17|
 |117|[SpenserCai/sd-webui-go](https://github.com/SpenserCai/sd-webui-go)|This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of ...|350|2024-01-22|2023-08-12|
 |118|[RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks)|mTLS-Encrypted Back-Connect SOCKS5 Proxy|349|2023-09-19|2023-05-02|
-|119|[ffenix113/zigbee_home](https://github.com/ffenix113/zigbee_home)|Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52|342|2024-01-31|2023-12-04|
-|120|[rulego/rulego](https://github.com/rulego/rulego)|⛓️ RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine based on Go language. heterogeneous system data integration. It can aggregate, distribute, filter, tran ...|340|2024-01-29|2023-07-23|
-|121|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)|A high performance inter-process communication golang library developed by CloudWeGo|339|2023-10-08|2023-03-06|
-|122|[quasilyte/roboden-game](https://github.com/quasilyte/roboden-game)|An indirect control real-time strategy game about robot colonies|339|2023-12-22|2023-02-08|
-|123|[neurocult/agency](https://github.com/neurocult/agency)|🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.|335|2023-12-04|2023-11-13|
+|119|[ffenix113/zigbee_home](https://github.com/ffenix113/zigbee_home)|Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52|345|2024-01-31|2023-12-04|
+|120|[rulego/rulego](https://github.com/rulego/rulego)|⛓️ RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine based on Go language. heterogeneous system data integration. It can aggregate, distribute, filter, tran ...|341|2024-02-01|2023-07-23|
+|121|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)|A high performance inter-process communication golang library developed by CloudWeGo|340|2023-10-08|2023-03-06|
+|122|[quasilyte/roboden-game](https://github.com/quasilyte/roboden-game)|An indirect control real-time strategy game about robot colonies|340|2023-12-22|2023-02-08|
+|123|[neurocult/agency](https://github.com/neurocult/agency)|🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.|336|2023-12-04|2023-11-13|
 |124|[bruceshao/lockfree](https://github.com/bruceshao/lockfree)|lockfree queue|332|2023-08-16|2023-02-03|
-|125|[gowebly/gowebly](https://github.com/gowebly/gowebly)|🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.|327|2024-01-29|2023-09-07|
-|126|[stealthrocket/timecraft](https://github.com/stealthrocket/timecraft)|The WebAssembly Time Machine|325|2023-11-09|2023-02-19|
-|127|[candiddev/rot](https://github.com/candiddev/rot)|Future proof secrets management|324|2024-01-29|2023-11-26|
-|128|[rsc/unix](https://github.com/rsc/unix)|Old Unix programs running on modern computers.|324|2024-01-15|2023-10-25|
-|129|[kubewharf/kubeadmiral](https://github.com/kubewharf/kubeadmiral)|Multi-Cluster Kubernetes Orchestration|324|2024-01-31|2023-03-28|
-|130|[zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy)|A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.|322|2024-01-09|2023-12-16|
-|131|[pojntfx/go-nbd](https://github.com/pojntfx/go-nbd)|Pure Go NBD server and client library.|321|2023-10-05|2023-02-20|
-|132|[Malwarize/webpalm](https://github.com/Malwarize/webpalm)|WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext ...|317|2023-12-10|2023-04-22|
-|133|[divyam234/teldrive](https://github.com/divyam234/teldrive)| Telegram Drive Storage|316|2024-01-30|2023-03-23|
-|134|[k0sproject/k0smotron](https://github.com/k0sproject/k0smotron)|k0smotron|309|2024-01-31|2023-03-20|
-|135|[yaklang/yaklang](https://github.com/yaklang/yaklang)|A programming language exclusively designed for cybersecurity|308|2024-01-31|2023-04-29|
-|136|[seal-io/walrus](https://github.com/seal-io/walrus)|Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers develop ...|305|2024-01-31|2023-02-07|
-|137|[unisat-wallet/libbrc20-indexer](https://github.com/unisat-wallet/libbrc20-indexer)|UniSat Indexer (brc-20) library|303|2024-01-04|2023-05-04|
-|138|[google/generative-ai-go](https://github.com/google/generative-ai-go)|Go SDK for Google Generative AI|302|2024-01-10|2023-12-04|
-|139|[g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)|-|302|2024-01-20|2023-08-03|
-|140|[redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot)|BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp ...|302|2024-01-29|2023-07-17|
-|141|[bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Simple go utility to download HuggingFace Models and Datasets|298|2023-12-06|2023-06-22|
-|142|[teslamotors/vehicle-command](https://github.com/teslamotors/vehicle-command)|-|293|2024-01-26|2023-10-04|
-|143|[Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go)|Pal World all-in-one webui for pc and mobile devices.|292|2024-01-31|2024-01-22|
-|144|[umputun/spot](https://github.com/umputun/spot)|A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.|290|2023-12-27|2023-04-21|
-|145|[google/buzzer](https://github.com/google/buzzer)|-|290|2023-12-01|2023-03-21|
-|146|[sqids/sqids-go](https://github.com/sqids/sqids-go)|Official Go port of Sqids. Generate short unique IDs from numbers.|287|2023-09-11|2023-06-24|
+|125|[candiddev/rot](https://github.com/candiddev/rot)|Future proof secrets management|328|2024-01-29|2023-11-26|
+|126|[Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go)|Pal World all-in-one webui for pc and mobile devices.|327|2024-01-31|2024-01-22|
+|127|[gowebly/gowebly](https://github.com/gowebly/gowebly)|🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.|327|2024-01-29|2023-09-07|
+|128|[rsc/unix](https://github.com/rsc/unix)|Old Unix programs running on modern computers.|325|2024-01-15|2023-10-25|
+|129|[kubewharf/kubeadmiral](https://github.com/kubewharf/kubeadmiral)|Multi-Cluster Kubernetes Orchestration|325|2024-02-01|2023-03-28|
+|130|[stealthrocket/timecraft](https://github.com/stealthrocket/timecraft)|The WebAssembly Time Machine|325|2023-11-09|2023-02-19|
+|131|[zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy)|A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.|323|2024-01-09|2023-12-16|
+|132|[pojntfx/go-nbd](https://github.com/pojntfx/go-nbd)|Pure Go NBD server and client library.|321|2023-10-05|2023-02-20|
+|133|[Malwarize/webpalm](https://github.com/Malwarize/webpalm)|WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext ...|318|2024-02-01|2023-04-22|
+|134|[divyam234/teldrive](https://github.com/divyam234/teldrive)| Telegram Drive Storage|318|2024-02-01|2023-03-23|
+|135|[k0sproject/k0smotron](https://github.com/k0sproject/k0smotron)|k0smotron|310|2024-02-01|2023-03-20|
+|136|[g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)|-|308|2024-01-20|2023-08-03|
+|137|[yaklang/yaklang](https://github.com/yaklang/yaklang)|A programming language exclusively designed for cybersecurity|308|2024-02-01|2023-04-29|
+|138|[seal-io/walrus](https://github.com/seal-io/walrus)|Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers develop ...|307|2024-02-01|2023-02-07|
+|139|[unisat-wallet/libbrc20-indexer](https://github.com/unisat-wallet/libbrc20-indexer)|UniSat Indexer (brc-20) library|306|2024-01-04|2023-05-04|
+|140|[redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot)|BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp ...|304|2024-01-29|2023-07-17|
+|141|[google/generative-ai-go](https://github.com/google/generative-ai-go)|Go SDK for Google Generative AI|303|2024-01-10|2023-12-04|
+|142|[bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Simple go utility to download HuggingFace Models and Datasets|301|2023-12-06|2023-06-22|
+|143|[teslamotors/vehicle-command](https://github.com/teslamotors/vehicle-command)|-|295|2024-01-26|2023-10-04|
+|144|[google/buzzer](https://github.com/google/buzzer)|-|292|2023-12-01|2023-03-21|
+|145|[umputun/spot](https://github.com/umputun/spot)|A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.|291|2024-02-01|2023-04-21|
+|146|[sqids/sqids-go](https://github.com/sqids/sqids-go)|Official Go port of Sqids. Generate short unique IDs from numbers.|290|2023-09-11|2023-06-24|
 |147|[patex-ecosystem/patex-network](https://github.com/patex-ecosystem/patex-network)|-|287|2024-01-31|2023-06-06|
-|148|[peterldowns/localias](https://github.com/peterldowns/localias)|custom local domain aliases for local dev servers|286|2024-01-11|2023-02-23|
-|149|[maxpoletaev/dendy](https://github.com/maxpoletaev/dendy)|NES/Famicom emulator with network multiplayer|285|2024-01-27|2023-04-16|
-|150|[secengjeff/awskillswitch](https://github.com/secengjeff/awskillswitch)|Lambda function that streamlines containment of an AWS account compromise|282|2023-12-01|2023-11-03|
+|148|[maxpoletaev/dendy](https://github.com/maxpoletaev/dendy)|NES/Famicom emulator with network multiplayer|287|2024-01-27|2023-04-16|
+|149|[peterldowns/localias](https://github.com/peterldowns/localias)|custom local domain aliases for local dev servers|287|2024-01-11|2023-02-23|
+|150|[secengjeff/awskillswitch](https://github.com/secengjeff/awskillswitch)|Lambda function that streamlines containment of an AWS account compromise|283|2023-12-01|2023-11-03|
 |151|[sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet)|High performance JSON decoder in Go|270|2023-10-04|2023-02-11|
-|152|[bepass-org/bepass](https://github.com/bepass-org/bepass)|A simple DPI bypass tool written in go|264|2023-10-04|2023-07-25|
-|153|[jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql)|A cross-platform TUI database management tool written in Go.|263|2024-01-24|2023-05-29|
-|154|[DeBankDeFi/DeBankChain](https://github.com/DeBankDeFi/DeBankChain)|-|260|2024-01-18|2023-07-10|
-|155|[bepass-org/smartSNI](https://github.com/bepass-org/smartSNI)|A simple single file smart sni proxy with doh and dot written in go|259|2024-01-30|2023-11-20|
-|156|[Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent)|:computer: :key: ssh-agent for TPMs|258|2024-01-28|2023-07-27|
-|157|[version-fox/vfox](https://github.com/version-fox/vfox)|A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more|248|2024-01-31|2023-12-09|
-|158|[aceberg/ExerciseDiary](https://github.com/aceberg/ExerciseDiary)|Workout diary with GitHub-style year visualization|246|2024-01-22|2023-12-13|
-|159|[quexten/goldwarden](https://github.com/quexten/goldwarden)|A feature-packed Bitwarden compatible desktop integration|245|2024-01-23|2023-07-17|
+|152|[jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql)|A cross-platform TUI database management tool written in Go.|267|2024-01-24|2023-05-29|
+|153|[bepass-org/bepass](https://github.com/bepass-org/bepass)|A simple DPI bypass tool written in go|264|2023-10-04|2023-07-25|
+|154|[Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent)|:computer: :key: ssh-agent for TPMs|263|2024-01-28|2023-07-27|
+|155|[DeBankDeFi/DeBankChain](https://github.com/DeBankDeFi/DeBankChain)|-|261|2024-01-18|2023-07-10|
+|156|[bepass-org/smartSNI](https://github.com/bepass-org/smartSNI)|A simple single file smart sni proxy with doh and dot written in go|260|2024-01-30|2023-11-20|
+|157|[version-fox/vfox](https://github.com/version-fox/vfox)|A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more|257|2024-02-01|2023-12-09|
+|158|[quexten/goldwarden](https://github.com/quexten/goldwarden)|A feature-packed Bitwarden compatible desktop integration|247|2024-01-23|2023-07-17|
+|159|[aceberg/ExerciseDiary](https://github.com/aceberg/ExerciseDiary)|Workout diary with GitHub-style year visualization|246|2024-01-22|2023-12-13|
 |160|[devanshbatham/rayder](https://github.com/devanshbatham/rayder)|A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows|243|2023-09-08|2023-08-21|
 |161|[ermetic-research/cnappgoat](https://github.com/ermetic-research/cnappgoat)|CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.|242|2023-09-27|2023-08-02|
-|162|[HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor)|A suite for hunting suspicious targets, expose domains and phishing discovery|239|2024-01-05|2023-07-16|
-|163|[lichti/whats-spoofing](https://github.com/lichti/whats-spoofing)|Whatsapp Exploit to spoofing impersonate of reply message |238|2023-12-26|2023-12-14|
-|164|[cprobe/cprobe](https://github.com/cprobe/cprobe)|Frankenstein made up of vmagent and exporters|238|2024-01-28|2023-11-19|
+|162|[lichti/whats-spoofing](https://github.com/lichti/whats-spoofing)|Whatsapp Exploit to spoofing impersonate of reply message |240|2023-12-26|2023-12-14|
+|163|[cprobe/cprobe](https://github.com/cprobe/cprobe)|Frankenstein made up of vmagent and exporters|239|2024-01-28|2023-11-19|
+|164|[HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor)|A suite for hunting suspicious targets, expose domains and phishing discovery|239|2024-01-05|2023-07-16|
 |165|[index-labs/evalgpt](https://github.com/index-labs/evalgpt)|EvalGPT is an code interpreter framework that utilizes large language models to automate the process of code-writing and execution, delivering precise results for user-defined tasks.|236|2023-09-17|2023-09-05|
 |166|[charlie0129/batt](https://github.com/charlie0129/batt)|Control and limit battery charging on Apple Silicon MacBooks.|235|2023-11-30|2023-04-02|
-|167|[orsinium-labs/enum](https://github.com/orsinium-labs/enum)|Type safe enums for Go without code generation or reflection|232|2023-09-03|2023-08-29|
-|168|[devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn)|A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers|232|2023-12-14|2023-08-19|
-|169|[Code-Hex/synchro](https://github.com/Code-Hex/synchro)|🕰️ Synchro: Timezone-typesafe date and time framework for Go. 🌟 Star to support our work!|231|2023-12-19|2023-09-03|
-|170|[rickywei/sparrow](https://github.com/rickywei/sparrow)|🐦sparrow is library to generate out-of-box http project and provide tools to generate sql and api, which saves your life 👼|231|2023-11-09|2023-06-15|
-|171|[chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop)|Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.|231|2024-01-30|2023-03-06|
+|167|[rickywei/sparrow](https://github.com/rickywei/sparrow)|🐦sparrow is library to generate out-of-box http project and provide tools to generate sql and api, which saves your life 👼|233|2023-11-09|2023-06-15|
+|168|[orsinium-labs/enum](https://github.com/orsinium-labs/enum)|Type safe enums for Go without code generation or reflection|232|2023-09-03|2023-08-29|
+|169|[devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn)|A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers|232|2023-12-14|2023-08-19|
+|170|[Code-Hex/synchro](https://github.com/Code-Hex/synchro)|🕰️ Synchro: Timezone-typesafe date and time framework for Go. 🌟 Star to support our work!|231|2023-12-19|2023-09-03|
+|171|[chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop)|Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.|231|2024-02-01|2023-03-06|
 |172|[InazumaV/V2bX](https://github.com/InazumaV/V2bX)|-|230|2023-10-26|2023-07-29|
 |173|[rystaf/mlmym](https://github.com/rystaf/mlmym)|a familiar desktop experience for lemmy|230|2023-12-29|2023-06-30|
-|174|[ksoclabs/kbom](https://github.com/ksoclabs/kbom)|KBOM - Kubernetes Bill of Materials|228|2024-01-27|2023-04-24|
-|175|[k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|Automatic SRE Superpowers within your Kubernetes cluster|225|2024-01-31|2023-04-01|
-|176|[Azure/karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure)|AKS Karpenter Provider|224|2024-01-31|2023-11-06|
-|177|[earthboundkid/flowmatic](https://github.com/earthboundkid/flowmatic)|Structured concurrency made easy|224|2023-11-07|2023-06-23|
-|178|[projectdiscovery/aix](https://github.com/projectdiscovery/aix)|AIx is a cli tool to interact with Large Language Models (LLM) APIs.|222|2024-01-29|2023-03-24|
-|179|[iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)|Prying Deep - An OSINT tool to collect intelligence on the dark web.|219|2024-01-15|2023-10-01|
+|174|[ksoclabs/kbom](https://github.com/ksoclabs/kbom)|KBOM - Kubernetes Bill of Materials|229|2024-01-27|2023-04-24|
+|175|[Azure/karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure)|AKS Karpenter Provider|225|2024-02-01|2023-11-06|
+|176|[earthboundkid/flowmatic](https://github.com/earthboundkid/flowmatic)|Structured concurrency made easy|225|2023-11-07|2023-06-23|
+|177|[k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|Automatic SRE Superpowers within your Kubernetes cluster|225|2024-02-01|2023-04-01|
+|178|[projectdiscovery/aix](https://github.com/projectdiscovery/aix)|AIx is a cli tool to interact with Large Language Models (LLM) APIs.|224|2024-01-29|2023-03-24|
+|179|[iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)|Prying Deep - An OSINT tool to collect intelligence on the dark web.|220|2024-01-15|2023-10-01|
 |180|[kubewharf/kelemetry](https://github.com/kubewharf/kelemetry)|Global control plane tracing for Kubernetes|218|2024-01-30|2023-03-14|
-|181|[tensorchord/openmodelz](https://github.com/tensorchord/openmodelz)|One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).|216|2023-11-03|2023-07-13|
-|182|[acaloiaro/neoq](https://github.com/acaloiaro/neoq)|Queue-agnostic background job library for Go, with a pleasant API and powerful features.|216|2024-01-28|2023-02-06|
-|183|[apache/skywalking-go](https://github.com/apache/skywalking-go)|The Golang auto-instrument Agent for Apache SkyWalking, which provides the native tracing/metrics/logging abilities for Golang projects.|213|2024-01-31|2023-04-11|
-|184|[eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio)|LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged a ...|211|2024-01-25|2023-11-24|
+|181|[acaloiaro/neoq](https://github.com/acaloiaro/neoq)|Queue-agnostic background job library for Go, with a pleasant API and powerful features.|216|2024-01-28|2023-02-06|
+|182|[eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio)|LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged a ...|215|2024-01-25|2023-11-24|
+|183|[tensorchord/openmodelz](https://github.com/tensorchord/openmodelz)|One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).|215|2023-11-03|2023-07-13|
+|184|[apache/skywalking-go](https://github.com/apache/skywalking-go)|The Golang auto-instrument Agent for Apache SkyWalking, which provides the native tracing/metrics/logging abilities for Golang projects.|213|2024-01-31|2023-04-11|
 |185|[samber/slog-multi](https://github.com/samber/slog-multi)|🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...|211|2024-01-21|2023-04-10|
-|186|[okx/go-wallet-sdk](https://github.com/okx/go-wallet-sdk)|Multi-chain golang signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.|209|2024-01-15|2023-07-17|
-|187|[BishopFox/sj](https://github.com/BishopFox/sj)|A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.|208|2024-01-15|2023-11-08|
-|188|[jacklevin74/xenminer](https://github.com/jacklevin74/xenminer)|-|208|2024-01-19|2023-09-08|
-|189|[zhoushuguang/beyond](https://github.com/zhoushuguang/beyond)|Based on the go-zero framework of large-scale microservices practical project, see all say yes!|208|2023-12-17|2023-08-26|
+|186|[zhoushuguang/beyond](https://github.com/zhoushuguang/beyond)|Based on the go-zero framework of large-scale microservices practical project, see all say yes!|210|2023-12-17|2023-08-26|
+|187|[okx/go-wallet-sdk](https://github.com/okx/go-wallet-sdk)|Multi-chain golang signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.|209|2024-01-15|2023-07-17|
+|188|[BishopFox/sj](https://github.com/BishopFox/sj)|A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.|208|2024-01-15|2023-11-08|
+|189|[jacklevin74/xenminer](https://github.com/jacklevin74/xenminer)|-|208|2024-01-19|2023-09-08|
 |190|[DataDog/managed-kubernetes-auditing-toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit)|All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS.|208|2024-01-03|2023-04-03|
 |191|[jhaddix/awsScrape](https://github.com/jhaddix/awsScrape)|A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.|208|2024-01-10|2023-03-18|
-|192|[Equationzhao/g](https://github.com/Equationzhao/g)|powerful and cross-platform ls 🌈|207|2024-01-31|2023-04-23|
+|192|[Equationzhao/g](https://github.com/Equationzhao/g)|powerful and cross-platform ls 🌈|207|2024-02-01|2023-04-23|
 |193|[orangekame3/paclear](https://github.com/orangekame3/paclear)|👾paclear is a clear command with PAC-MAN animation👾|205|2023-11-19|2023-10-04|
 |194|[bytedance/vArmor](https://github.com/bytedance/vArmor)|vArmor is a cloud native container sandbox based on AppArmor/BPF/Seccomp. It also includes multiple built-in protection rules that are ready to use out of the box.|205|2024-01-30|2023-08-08|
-|195|[gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip)|⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices|203|2024-01-30|2023-08-14|
-|196|[Yiling-J/theine-go](https://github.com/Yiling-J/theine-go)|high performance in-memory cache|200|2023-12-07|2023-04-05|
-|197|[nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot)|A bot works with OpenAI GPT models to provide insights for your info flows.|199|2024-01-05|2023-03-20|
-|198|[koki-develop/gat](https://github.com/koki-develop/gat)|🐱 cat alternative written in Go.|199|2024-01-31|2023-03-11|
-|199|[ubuygold/go-noss](https://github.com/ubuygold/go-noss)|-|198|2024-01-08|2024-01-04|
-|200|[turbot/flowpipe](https://github.com/turbot/flowpipe)|Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.|197|2024-01-31|2023-05-11|
+|195|[XDAGWallet/xdag](https://github.com/XDAGWallet/xdag)|XDAG (Dagger Coin) Official Main Repository. XDAG is a novel DAG based cryptocurrency.|204|2024-01-29|2024-01-20|
+|196|[gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip)|⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices|203|2024-02-01|2023-08-14|
+|197|[Yiling-J/theine-go](https://github.com/Yiling-J/theine-go)|high performance in-memory cache|200|2023-12-07|2023-04-05|
+|198|[nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot)|A bot works with OpenAI GPT models to provide insights for your info flows.|199|2024-01-05|2023-03-20|
+|199|[koki-develop/gat](https://github.com/koki-develop/gat)|🐱 cat alternative written in Go.|199|2024-01-31|2023-03-11|
+|200|[ubuygold/go-noss](https://github.com/ubuygold/go-noss)|-|198|2024-01-08|2024-01-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
