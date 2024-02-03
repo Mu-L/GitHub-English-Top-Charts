@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|49924|2024-02-01|2023-03-10|
-|2|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|780|2023-12-29|2023-11-12|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|50040|2024-02-02|2023-03-10|
+|2|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|783|2023-12-29|2023-11-12|
 |3|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|646|2024-01-04|2023-05-09|
-|4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|489|2024-01-17|2023-11-03|
+|4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|491|2024-01-17|2023-11-03|
 |5|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|474|2023-10-30|2023-04-05|
 |6|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|473|2024-01-21|2024-01-10|
 |7|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|380|2023-10-02|2023-09-16|
-|8|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|286|2024-01-31|2023-10-25|
+|8|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|286|2024-02-02|2023-10-25|
 |9|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|273|2024-01-10|2023-08-28|
 |10|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|186|2023-08-23|2023-07-23|
 |11|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|148|2023-09-24|2023-07-29|
 |12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|142|2024-01-13|2023-05-12|
-|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |139|2024-02-01|2023-08-16|
+|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |140|2024-02-01|2023-08-16|
 |14|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|115|2023-12-30|2023-07-18|
 |15|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|105|2023-11-24|2023-09-28|
 |16|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|99|2023-11-27|2023-06-14|
@@ -47,12 +47,11 @@
 |40|[tonyyxliu/CSC4005-2023Fall](https://github.com/tonyyxliu/CSC4005-2023Fall)|Project Materials for CUHK(SZ) Course CSC4005/MDS6108: Parallel Programming|40|2023-12-04|2023-09-09|
 |41|[0xeb/allthingsida](https://github.com/0xeb/allthingsida)|Repository for the code snippets from the AllThingsIDA video channel|40|2024-01-07|2023-04-18|
 |42|[starsnwind/HP-Elite-C1030---x360-13c-Chromebook-Hackintosh](https://github.com/starsnwind/HP-Elite-C1030---x360-13c-Chromebook-Hackintosh)|About achieving the perfect hackintosh on the HP Elite C1030/x360 13c Chromebook models.|38|2024-01-08|2023-08-18|
-|43|[PacktPublishing/Flutter-Cookbook-Second-Edition](https://github.com/PacktPublishing/Flutter-Cookbook-Second-Edition)|Flutter Cookbook, Second Edition|35|2023-08-03|2023-04-26|
-|44|[KhronosGroup/OpenXR-Tutorials](https://github.com/KhronosGroup/OpenXR-Tutorials)|OpenXR Tutorials [Work in progress, do not use to study OpenXR yet]|34|2024-01-17|2023-05-19|
-|45|[nand0san/av_detect](https://github.com/nand0san/av_detect)|This program detects if any security software (AV, EDR, XDR, firewall, etc.) is running on the system. The program searches the list of running processes and compares their names with a predefined lis ...|34|2024-01-03|2023-04-26|
-|46|[PAMinerva/LearnVulkan](https://github.com/PAMinerva/LearnVulkan)|Learning Vulkan from code samples - Tutorial series|34|2023-11-19|2023-02-21|
-|47|[FudanMPL/Garnet](https://github.com/FudanMPL/Garnet)|FudanMPL 2.0, a series of multi-party learning frameworks, with rich features, including secure and fast XGBoost, secure Fine-tuning for pre-trained models, and open source SecureML.|33|2024-01-19|2023-02-07|
-|48|[ecnu-sa-labs/ecnu-sa-labs](https://github.com/ecnu-sa-labs/ecnu-sa-labs)|Lab sessions for the software analysis course at East China Normal University.|32|2024-01-07|2023-09-13|
+|43|[KhronosGroup/OpenXR-Tutorials](https://github.com/KhronosGroup/OpenXR-Tutorials)|OpenXR Tutorials [Work in progress, do not use to study OpenXR yet]|34|2024-01-17|2023-05-19|
+|44|[nand0san/av_detect](https://github.com/nand0san/av_detect)|This program detects if any security software (AV, EDR, XDR, firewall, etc.) is running on the system. The program searches the list of running processes and compares their names with a predefined lis ...|34|2024-01-03|2023-04-26|
+|45|[PAMinerva/LearnVulkan](https://github.com/PAMinerva/LearnVulkan)|Learning Vulkan from code samples - Tutorial series|34|2023-11-19|2023-02-21|
+|46|[FudanMPL/Garnet](https://github.com/FudanMPL/Garnet)|FudanMPL 2.0, a series of multi-party learning frameworks, with rich features, including secure and fast XGBoost, secure Fine-tuning for pre-trained models, and open source SecureML.|33|2024-01-19|2023-02-07|
+|47|[ecnu-sa-labs/ecnu-sa-labs](https://github.com/ecnu-sa-labs/ecnu-sa-labs)|Lab sessions for the software analysis course at East China Normal University.|32|2024-01-07|2023-09-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
