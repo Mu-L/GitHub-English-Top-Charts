@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -23,13 +23,13 @@
 |16|[NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)|This is the repository hosting the R scripts of the book "Mathematical Foundations of Reinforcement Learning" written by Yujun at Jiangxi Normal University.|13|2023-12-03|2023-10-03|
 |17|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|13|2023-11-09|2023-07-22|
 |18|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|12|2023-11-13|2023-09-02|
-|19|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-02-02|2023-04-07|
+|19|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-02-03|2023-04-07|
 |20|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|11|2023-09-27|2023-08-16|
 |21|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|11|2023-10-05|2023-06-03|
 |22|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|10|2023-11-24|2023-09-16|
 |23|[nhs-r-community/r4ds-ed2-exercise-solutions](https://github.com/nhs-r-community/r4ds-ed2-exercise-solutions)|Exercise solutions to R for Data Science - second edition as part of the NHS-R Community book club|9|2023-09-09|2023-03-31|
 |24|[MargoSolo/DataMedLinkedIn](https://github.com/MargoSolo/DataMedLinkedIn)|This GitHub repository is a resource for those interested in biomedical data analysis and visualization with R. It features code snippets for data processing, statistical analysis, and interactive cha ...|9|2023-11-10|2023-02-27|
-|25|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|8|2024-01-28|2023-04-05|
+|25|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|8|2024-02-03|2023-04-05|
 |26|[pgvector/pgvector-r](https://github.com/pgvector/pgvector-r)|pgvector examples for R|8|2023-12-27|2023-03-03|
 |27|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|7|2024-01-20|2023-12-30|
 |28|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|7|2023-11-25|2023-11-25|

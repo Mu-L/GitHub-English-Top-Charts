@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|154|2024-01-16|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|120|2024-01-01|2023-07-30|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|121|2024-01-01|2023-07-30|
 |3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|106|2024-02-01|2023-05-25|
 |4|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|54|2024-01-28|2023-03-05|
 |5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|48|2024-01-24|2024-01-23|
@@ -31,9 +31,9 @@
 |24|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
 |25|[xiekunwhy/kmerDedup](https://github.com/xiekunwhy/kmerDedup)|Reduce genome assembly redundancy using shared mapped k-mer method.|10|2023-08-24|2023-03-21|
 |26|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
-|27|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
-|28|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
-|29|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|8|2023-10-29|2023-10-06|
+|27|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
+|28|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
+|29|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
 |30|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-01-30|2023-05-10|
 |31|[mollusc-labs/clark](https://github.com/mollusc-labs/clark)|Modern logging dashboard and REST API for syslog|8|2024-01-21|2023-03-17|
 |32|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-02|2023-09-27|
@@ -54,28 +54,28 @@
 |47|[rawleyfowler/Slick](https://github.com/rawleyfowler/Slick)|A Plack framework for building REST APIs in Perl|5|2024-02-01|2023-07-28|
 |48|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
 |49|[BGQ/ORPA](https://github.com/BGQ/ORPA)|Whole organelle genome-wide alignment construction method, which ultilizes BLAST tool, to facilitate phylogeny analysis|5|2023-08-27|2023-05-05|
-|50|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-02-01|2023-03-12|
+|50|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-02-03|2023-03-12|
 |51|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2023-11-28|2023-03-12|
 |52|[mikkoi/env-assert](https://github.com/mikkoi/env-assert)|Ensure that the environment variables match what you need, or abort.|5|2024-01-02|2023-02-14|
 |53|[morgannprice/fast.genomics](https://github.com/morgannprice/fast.genomics)|Genome browser for thousands of representative bacteria and archaea|5|2024-01-22|2023-02-13|
-|54|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|4|2024-02-02|2024-01-08|
-|55|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|4|2023-12-13|2023-12-06|
-|56|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
-|57|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|4|2023-11-02|2023-11-02|
-|58|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|4|2024-02-02|2023-10-19|
-|59|[smacx250/BG3](https://github.com/smacx250/BG3)|Baldur's Gate 3 stuff|4|2023-11-01|2023-10-13|
-|60|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|4|2024-01-17|2023-09-30|
-|61|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|4|2024-01-01|2023-09-09|
-|62|[aymanreda56/Vigil-Anti](https://github.com/aymanreda56/Vigil-Anti)|-|4|2023-09-18|2023-08-26|
-|63|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
-|64|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
-|65|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|66|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-29|2023-06-15|
-|67|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
-|68|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|3|2024-02-02|2024-01-26|
-|69|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-02-02|2023-12-20|
-|70|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
-|71|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|3|2023-11-14|2023-11-14|
+|54|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|4|2024-02-02|2024-01-26|
+|55|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|4|2024-02-03|2024-01-08|
+|56|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|4|2023-12-13|2023-12-06|
+|57|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
+|58|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|4|2023-11-14|2023-11-14|
+|59|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|4|2023-11-02|2023-11-02|
+|60|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|4|2024-02-03|2023-10-19|
+|61|[smacx250/BG3](https://github.com/smacx250/BG3)|Baldur's Gate 3 stuff|4|2023-11-01|2023-10-13|
+|62|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|4|2024-01-17|2023-09-30|
+|63|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|4|2024-01-01|2023-09-09|
+|64|[aymanreda56/Vigil-Anti](https://github.com/aymanreda56/Vigil-Anti)|-|4|2023-09-18|2023-08-26|
+|65|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
+|66|[HHS/effective-marginal-tax-rate-calculator](https://github.com/HHS/effective-marginal-tax-rate-calculator)|demo calculators: http://frs.nccp.org/tools/mtrc/    policy brief: https://aspe.hhs.gov/reports/helping-people-low-incomes An effective marginal tax rate (AKA “benefit cliff”) calculator to help publi ...|4|2023-08-14|2023-06-27|
+|67|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
+|68|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-29|2023-06-15|
+|69|[wj-inf/AMGC](https://github.com/wj-inf/AMGC)|A reference based FASTQ files compressor|4|2023-11-10|2023-02-12|
+|70|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-02-02|2023-12-20|
+|71|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|3|2023-12-15|2023-12-15|
 |72|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media (photos, videos) extraction tool|3|2023-11-16|2023-11-06|
 |73|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|3|2023-11-02|2023-11-02|
 |74|[sukria/Dancer2-Plugin-LiteBlog](https://github.com/sukria/Dancer2-Plugin-LiteBlog)|A minimalist, file-based blog engine for Dancer2. Effortlessly transform local .md and .yml files into a sleek and responsive blog without the need for a database.|3|2024-01-14|2023-10-22|
@@ -89,18 +89,18 @@
 |82|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|3|2023-08-15|2023-08-15|
 |83|[ariDevelops/File-Composer](https://github.com/ariDevelops/File-Composer)|simple template engine|3|2024-01-13|2023-08-15|
 |84|[smtiitm/Fastspeech2_MFA](https://github.com/smtiitm/Fastspeech2_MFA)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|3|2023-09-24|2023-08-11|
-|85|[ahrefs/opam-check-npm-deps](https://github.com/ahrefs/opam-check-npm-deps)|An opam plugin that checks the opam switch to gather npm packages in depexts to check against installed packages in node_modules.|3|2023-09-24|2023-07-11|
-|86|[briandfoy/net-ssh-perl](https://github.com/briandfoy/net-ssh-perl)|Development on the Net::SSH::Perl module to support latest ciphers, key exchange mechanisms, etc.|3|2023-08-07|2023-06-19|
-|87|[Grainger-Bioinformatics-Center/linux_cookbook](https://github.com/Grainger-Bioinformatics-Center/linux_cookbook)|-|3|2024-01-31|2023-05-05|
-|88|[jinxin112233/HEB_categories](https://github.com/jinxin112233/HEB_categories)|Identification of the homoeologous expression bias (HEB) categories for each quadruplet|3|2024-01-29|2023-04-26|
-|89|[neatlogic/neatlogic-autoexec-scripts](https://github.com/neatlogic/neatlogic-autoexec-scripts)|neatlogic automation official script collection, used for operation and maintenance automation in various scenarios, including various databases, middleware data discovery, installation, etc. Scripts  ...|3|2023-08-18|2023-04-24|
-|90|[neatlogic/neatlogic-autoexec-backend](https://github.com/neatlogic/neatlogic-autoexec-backend)|autoexec is a backend execution tool on the automation runner. It is used to execute automated jobs, receive job scheduling commands from the control server, and perform actions based on the job param ...|3|2023-12-12|2023-04-24|
-|91|[klugerama/webmin-dnsmasq](https://github.com/klugerama/webmin-dnsmasq)|A Webmin module for managing dnsmasq|3|2023-10-02|2023-04-12|
-|92|[CNAG-Biomedical-Informatics/pheno-ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker)|Pheno-Ranker is a tool designed for performing semantic similarity analysis on phenotypic data structured in JSON format, such as Beacon v2 Models or Phenopackets v2.|3|2024-01-20|2023-04-04|
-|93|[Cyclenerd/google-cloud-iam](https://github.com/Cyclenerd/google-cloud-iam)|☁️ Google Cloud Identity and Access Management (IAM)|3|2024-02-01|2023-04-02|
-|94|[klopp/linux-stuff](https://github.com/klopp/linux-stuff)|-|3|2023-12-19|2023-03-23|
-|95|[ology/Groove-Tool](https://github.com/ology/Groove-Tool)|MIDI beat generation|3|2023-12-18|2023-03-11|
-|96|[mizu-bai/PyMSA-Build](https://github.com/mizu-bai/PyMSA-Build)|Wrapper for MSA-2.0|3|2023-09-04|2023-02-03|
+|85|[stevan/Stella](https://github.com/stevan/Stella)|Actors for Perl|3|2023-12-09|2023-07-22|
+|86|[ahrefs/opam-check-npm-deps](https://github.com/ahrefs/opam-check-npm-deps)|An opam plugin that checks the opam switch to gather npm packages in depexts to check against installed packages in node_modules.|3|2023-09-24|2023-07-11|
+|87|[briandfoy/net-ssh-perl](https://github.com/briandfoy/net-ssh-perl)|Development on the Net::SSH::Perl module to support latest ciphers, key exchange mechanisms, etc.|3|2023-08-07|2023-06-19|
+|88|[Grainger-Bioinformatics-Center/linux_cookbook](https://github.com/Grainger-Bioinformatics-Center/linux_cookbook)|-|3|2024-01-31|2023-05-05|
+|89|[jinxin112233/HEB_categories](https://github.com/jinxin112233/HEB_categories)|Identification of the homoeologous expression bias (HEB) categories for each quadruplet|3|2024-01-29|2023-04-26|
+|90|[neatlogic/neatlogic-autoexec-scripts](https://github.com/neatlogic/neatlogic-autoexec-scripts)|neatlogic automation official script collection, used for operation and maintenance automation in various scenarios, including various databases, middleware data discovery, installation, etc. Scripts  ...|3|2023-08-18|2023-04-24|
+|91|[neatlogic/neatlogic-autoexec-backend](https://github.com/neatlogic/neatlogic-autoexec-backend)|autoexec is a backend execution tool on the automation runner. It is used to execute automated jobs, receive job scheduling commands from the control server, and perform actions based on the job param ...|3|2023-12-12|2023-04-24|
+|92|[klugerama/webmin-dnsmasq](https://github.com/klugerama/webmin-dnsmasq)|A Webmin module for managing dnsmasq|3|2023-10-02|2023-04-12|
+|93|[CNAG-Biomedical-Informatics/pheno-ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker)|Pheno-Ranker is a tool designed for performing semantic similarity analysis on phenotypic data structured in JSON format, such as Beacon v2 Models or Phenopackets v2.|3|2024-02-03|2023-04-04|
+|94|[Cyclenerd/google-cloud-iam](https://github.com/Cyclenerd/google-cloud-iam)|☁️ Google Cloud Identity and Access Management (IAM)|3|2024-02-01|2023-04-02|
+|95|[klopp/linux-stuff](https://github.com/klopp/linux-stuff)|-|3|2023-12-19|2023-03-23|
+|96|[ology/Groove-Tool](https://github.com/ology/Groove-Tool)|MIDI beat generation|3|2023-12-18|2023-03-11|
 |97|[nylander/reorient_fasta](https://github.com/nylander/reorient_fasta)|Reverse-complement DNA sequences as needed in relation to a reference. Based on blastn.|2|2024-01-17|2024-01-16|
 |98|[hierle/letterbox-sensor-v2](https://github.com/hierle/letterbox-sensor-v2)|LoRa / LoRaWan letterbox sensor v2|2|2024-01-07|2024-01-07|
 |99|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|2|2024-01-05|2024-01-02|
@@ -110,7 +110,7 @@
 |103|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |104|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |105|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|106|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-02-02|2023-12-09|
+|106|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-02-03|2023-12-09|
 |107|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |108|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-01-29|2023-12-01|
 |109|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
