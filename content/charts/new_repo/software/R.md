@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > R
-<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)|-|531|2024-02-02|2023-11-26|
+|1|[rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)|-|533|2024-02-02|2023-11-26|
 |2|[hughjonesd/ggmagnify](https://github.com/hughjonesd/ggmagnify)|Create a magnified inset of part of a ggplot object|238|2024-01-31|2023-04-26|
 |3|[Veronica0206/nlpsem](https://github.com/Veronica0206/nlpsem)|R package for analyzing nonlinear longitudinal processes in the structural equation modeling framework|202|2023-09-12|2023-05-21|
 |4|[MatthewBJane/ThemePark](https://github.com/MatthewBJane/ThemePark)|Fun ggplot themes for popular culture |181|2024-01-10|2023-07-22|
-|5|[noriakis/ggkegg](https://github.com/noriakis/ggkegg)|Analyzing and visualizing KEGG information using the grammar of graphics|178|2024-02-03|2023-04-04|
-|6|[TheEconomist/the-economist-war-fire-model](https://github.com/TheEconomist/the-economist-war-fire-model)|Source code and data for The Economist's Ukraine war-fire model|174|2024-02-03|2023-02-21|
+|5|[noriakis/ggkegg](https://github.com/noriakis/ggkegg)|Analyzing and visualizing KEGG information using the grammar of graphics|179|2024-02-04|2023-04-04|
+|6|[TheEconomist/the-economist-war-fire-model](https://github.com/TheEconomist/the-economist-war-fire-model)|Source code and data for The Economist's Ukraine war-fire model|174|2024-02-04|2023-02-21|
 |7|[BlakeRMills/MoMAColors](https://github.com/BlakeRMills/MoMAColors)|Color Schemes based around artwork and the Museum of Modern Art. |161|2023-12-04|2023-08-10|
-|8|[grantmcdermott/plot2](https://github.com/grantmcdermott/plot2)|Lightweight extension of base R's plot system|141|2024-01-30|2023-02-21|
-|9|[mlverse/chattr](https://github.com/mlverse/chattr)|-|118|2024-02-02|2023-03-22|
+|8|[grantmcdermott/plot2](https://github.com/grantmcdermott/plot2)|Lightweight extension of base R's plot system|142|2024-01-30|2023-02-21|
+|9|[mlverse/chattr](https://github.com/mlverse/chattr)|-|119|2024-02-02|2023-03-22|
 |10|[RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r)|A guide for deploying Shinylive R application into Github Pages|117|2024-01-17|2023-09-20|
 |11|[JosiahParry/valve](https://github.com/JosiahParry/valve)|Redirects your plumbing for you.|112|2023-12-27|2023-05-16|
 |12|[etiennebacher/tidypolars](https://github.com/etiennebacher/tidypolars)|Get the power of polars with the syntax of the tidyverse|111|2024-02-01|2023-06-02|
-|13|[posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive)|-|98|2023-12-04|2023-09-07|
+|13|[posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive)|-|99|2023-12-04|2023-09-07|
 |14|[jinworks/CellChat](https://github.com/jinworks/CellChat)|R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics|92|2024-01-27|2023-11-05|
 |15|[sachit27/greenR](https://github.com/sachit27/greenR)|greenR is an R package that enables the quantification, analysis, and visualization of urban greenness within city networks. It leverages data from OpenStreetMap (www.openstreetmap.org) and is impleme ...|92|2023-11-20|2023-07-24|
-|16|[vincentarelbundock/tinytable](https://github.com/vincentarelbundock/tinytable)|Simple and Customizable Tables in `R`|85|2024-02-03|2024-01-05|
-|17|[nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels)|R/Pharma 2023 Conference workshop materials.|76|2023-10-26|2023-08-05|
-|18|[b-rodrigues/rix](https://github.com/b-rodrigues/rix)|Reproducible development environments for R with Nix|75|2024-02-03|2023-07-14|
+|16|[vincentarelbundock/tinytable](https://github.com/vincentarelbundock/tinytable)|Simple and Customizable Tables in `R`|86|2024-02-03|2024-01-05|
+|17|[b-rodrigues/rix](https://github.com/b-rodrigues/rix)|Reproducible development environments for R with Nix|77|2024-02-03|2023-07-14|
+|18|[nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels)|R/Pharma 2023 Conference workshop materials.|76|2023-10-26|2023-08-05|
 |19|[revodavid/copilot-for-r](https://github.com/revodavid/copilot-for-r)|Copilot for R, a supporting repository for a presentation|62|2024-01-02|2023-02-23|
 |20|[loukesio/ggvolc](https://github.com/loukesio/ggvolc)|𝐠𝐠𝐯𝐨𝐥𝐜 effortlessly translates differential expression datasets and RNAseq data into informative volcano plots. Highlight genes of interest with unprecedented ease. With just a single line of code, vi ...|57|2023-10-14|2023-08-11|
 |21|[bayesianops/stan-survival-model-workshop](https://github.com/bayesianops/stan-survival-model-workshop)|Building a Survival Model in Stan. |56|2023-10-20|2023-10-16|
 |22|[TheEconomist/the-economist-gdp-per-hour-estimates](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates)|Code and data for Graphic detail on GDP and productivity|56|2023-12-21|2023-10-04|
 |23|[jcheng5/posit-conf-2023-shinylive](https://github.com/jcheng5/posit-conf-2023-shinylive)|-|55|2023-09-20|2023-09-16|
 |24|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|53|2024-02-03|2023-11-20|
-|25|[benben-miao/TOmicsVis](https://github.com/benben-miao/TOmicsVis)|Transcriptomics Visualization R package.|52|2024-01-10|2023-06-20|
-|26|[ayueme/easyTCGA](https://github.com/ayueme/easyTCGA)|Make TCGA download and prepare easy!|52|2024-01-03|2023-04-19|
+|25|[ayueme/easyTCGA](https://github.com/ayueme/easyTCGA)|Make TCGA download and prepare easy!|53|2024-01-03|2023-04-19|
+|26|[benben-miao/TOmicsVis](https://github.com/benben-miao/TOmicsVis)|Transcriptomics Visualization R package.|52|2024-01-10|2023-06-20|
 |27|[JBGruber/askgpt](https://github.com/JBGruber/askgpt)|A chat interface build on top of OpenAI's API endpoints|52|2023-09-09|2023-02-10|
 |28|[leonardojo/ggPlantmap](https://github.com/leonardojo/ggPlantmap)|-|50|2024-01-17|2023-09-12|
 |29|[10XGenomics/loupeR](https://github.com/10XGenomics/loupeR)|Convert Seurat objects to 10x Genomics Loupe files.|50|2024-01-31|2023-08-23|
 |30|[duckdb/duckdb-r](https://github.com/duckdb/duckdb-r)|The duckdb R package|50|2024-01-29|2023-08-23|
 |31|[cboettig/duckdbfs](https://github.com/cboettig/duckdbfs)|Simple wrappers for duckdb to open local and remote filesystems |50|2024-01-12|2023-05-31|
 |32|[const-ae/lemur](https://github.com/const-ae/lemur)|Latent Embedding Multivariate Regression|50|2023-12-06|2023-03-03|
-|33|[r-wasm/rwasm](https://github.com/r-wasm/rwasm)|Build R packages for WebAssembly and create a CRAN-like repo for distribution.|44|2024-02-02|2023-11-02|
+|33|[r-wasm/rwasm](https://github.com/r-wasm/rwasm)|Build R packages for WebAssembly and create a CRAN-like repo for distribution.|45|2024-02-02|2023-11-02|
 |34|[TangFei965/pan-NK](https://github.com/TangFei965/pan-NK)|These are scripts for pan-cacner NK cells analyses.|44|2023-08-18|2023-08-18|
 |35|[r-hub/rhub2](https://github.com/r-hub/rhub2)|The 'R-hub' package builder, v2|39|2024-01-31|2023-05-19|
 |36|[jonthegeek/beekeeper](https://github.com/jonthegeek/beekeeper)|Rapidly Scaffold API Client Packages|39|2023-11-15|2023-03-31|
@@ -48,12 +48,12 @@
 |41|[posit-conf-2023/dataviz-ggplot2](https://github.com/posit-conf-2023/dataviz-ggplot2)|1-day workshop on advanced ggplot2 for posit::conf(2023) by Cédric Scherer|36|2023-11-24|2023-04-06|
 |42|[NicChr/timeplyr](https://github.com/NicChr/timeplyr)|Fast tidy functions for date manipulation.|36|2024-02-01|2023-03-14|
 |43|[cosimameyer/awesome-pyladies-blogs](https://github.com/cosimameyer/awesome-pyladies-blogs)|👩‍💻 Repository with Awesome PyLadies' content|35|2023-12-05|2023-03-28|
-|44|[devOpifex/shinymetrics](https://github.com/devOpifex/shinymetrics)|:straight_ruler: Analytics and telemetry for Shiny applications. |33|2023-12-24|2023-06-21|
-|45|[yuezhengfu/CNPS.cycle](https://github.com/yuezhengfu/CNPS.cycle)|This is an R package for element cycle analysis using metagenomic data.|32|2023-12-13|2023-11-04|
-|46|[tjhwangxiong/TCGAplot](https://github.com/tjhwangxiong/TCGAplot)|A number of functions were generated to perform pan-cancer DEG analysis, correlation analysis between gene expression and TMB, MSI, TIME, and promoter methylation. Methods for visualization  were prov ...|32|2024-01-05|2023-10-09|
-|47|[doehm/ggbrick](https://github.com/doehm/ggbrick)|A brick like geom for ggplot2|32|2024-01-03|2023-06-27|
-|48|[mattdzugan/facetwarp](https://github.com/mattdzugan/facetwarp)|Arrange ggplot2 Facets Using Other Numerical Columns ✨|31|2023-10-15|2023-09-19|
-|49|[Appsilon/reactable.extras](https://github.com/Appsilon/reactable.extras)|Extra features for reactable package|31|2023-12-11|2023-04-11|
+|44|[mattdzugan/facetwarp](https://github.com/mattdzugan/facetwarp)|Arrange ggplot2 Facets Using Other Numerical Columns ✨|33|2023-10-15|2023-09-19|
+|45|[devOpifex/shinymetrics](https://github.com/devOpifex/shinymetrics)|:straight_ruler: Analytics and telemetry for Shiny applications. |33|2023-12-24|2023-06-21|
+|46|[yuezhengfu/CNPS.cycle](https://github.com/yuezhengfu/CNPS.cycle)|This is an R package for element cycle analysis using metagenomic data.|32|2023-12-13|2023-11-04|
+|47|[tjhwangxiong/TCGAplot](https://github.com/tjhwangxiong/TCGAplot)|A number of functions were generated to perform pan-cancer DEG analysis, correlation analysis between gene expression and TMB, MSI, TIME, and promoter methylation. Methods for visualization  were prov ...|32|2024-01-05|2023-10-09|
+|48|[doehm/ggbrick](https://github.com/doehm/ggbrick)|A brick like geom for ggplot2|32|2024-01-03|2023-06-27|
+|49|[Appsilon/reactable.extras](https://github.com/Appsilon/reactable.extras)|Extra features for reactable package|32|2023-12-11|2023-04-11|
 |50|[carpentries-incubator/targets-workshop](https://github.com/carpentries-incubator/targets-workshop)|Pre-alpha {targets} workshop|31|2024-01-30|2023-04-09|
 |51|[YuLab-SMU/fanyi](https://github.com/YuLab-SMU/fanyi)|Translate Words or Sentences via Online Translators|30|2024-01-18|2023-12-14|
 |52|[r-causal/quartets](https://github.com/r-causal/quartets)|-|29|2023-12-06|2023-04-06|
@@ -78,7 +78,7 @@
 |71|[Permian-Global-Research/rsi](https://github.com/Permian-Global-Research/rsi)|Code for Retriving STAC Information, addressing Repeated Spatial Infelicities and interfacing with Rsome Spectral Indices|23|2024-01-23|2023-08-23|
 |72|[ElianHugh/quartools](https://github.com/ElianHugh/quartools)|Programatically generate quarto-compliant markdown elements.|22|2024-01-22|2023-10-16|
 |73|[showteeth/scfetch](https://github.com/showteeth/scfetch)|Access and Format Single-cell RNA-seq Datasets from Public Resources|22|2023-12-30|2023-07-12|
-|74|[mayer79/hstats](https://github.com/mayer79/hstats)|Friedman's H-statistics|22|2024-02-03|2023-05-16|
+|74|[mayer79/hstats](https://github.com/mayer79/hstats)|Friedman's H-statistics|22|2024-02-04|2023-05-16|
 |75|[spxuw/DKI](https://github.com/spxuw/DKI)|-|22|2023-11-02|2023-03-10|
 |76|[R-ArcGIS/arcgislayers](https://github.com/R-ArcGIS/arcgislayers)|ArcGIS Location Services |22|2024-02-01|2023-02-24|
 |77|[feddelegrand7/rfold](https://github.com/feddelegrand7/rfold)|Allow R developers to have multiple R folders inside an R package|21|2024-01-30|2023-10-22|
@@ -114,11 +114,11 @@
 |107|[nongxinshengxin/RNAdiffAPP](https://github.com/nongxinshengxin/RNAdiffAPP)|-|16|2024-01-13|2023-02-14|
 |108|[alejandrohagan/1br](https://github.com/alejandrohagan/1br)|1 Billion Row challenge with R|15|2024-01-05|2024-01-03|
 |109|[tylermorganwall/raybevel](https://github.com/tylermorganwall/raybevel)|3D Bevels, Rooftops, Inset Polygons, and Straight Skeletons in R |15|2024-01-11|2023-12-09|
-|110|[JBGruber/zugr](https://github.com/JBGruber/zugr)|R package to wrap the Deutsche Bahn Fahrplan API :bullettrain_side:|15|2024-01-29|2023-09-30|
-|111|[insightsengineering/cards](https://github.com/insightsengineering/cards)|CDISC Analysis Results Data|15|2024-02-02|2023-07-19|
+|110|[JBGruber/zugr](https://github.com/JBGruber/zugr)|R package to wrap the Deutsche Bahn Fahrplan API :bullettrain_side:|15|2024-02-04|2023-09-30|
+|111|[insightsengineering/cards](https://github.com/insightsengineering/cards)|CDISC Analysis Results Data|15|2024-02-03|2023-07-19|
 |112|[lrberge/stringmagic](https://github.com/lrberge/stringmagic)|Magical string interpolation|15|2023-08-29|2023-06-19|
 |113|[posit-conf-2023/forecasting](https://github.com/posit-conf-2023/forecasting)|Materials for posit workshop|15|2023-09-20|2023-04-06|
-|114|[DPIRD-FSI/weatherOz](https://github.com/DPIRD-FSI/weatherOz)|An API Client for Australian Weather and Climate Data Resources|15|2024-02-03|2023-03-14|
+|114|[DPIRD-FSI/weatherOz](https://github.com/DPIRD-FSI/weatherOz)|An API Client for Australian Weather and Climate Data Resources|15|2024-02-04|2023-03-14|
 |115|[nmatzke/3diphy](https://github.com/nmatzke/3diphy)|Maximum likelihood structural phylogenetics by including Foldseek 3Di characters. Supporting Information for Puente-Lelievre et al. 2023n for |14|2024-01-10|2023-12-11|
 |116|[junjunlab/ggcirclize](https://github.com/junjunlab/ggcirclize)|Creating Circular Graph with the Grammar of GGplot2|14|2024-01-05|2023-11-26|
 |117|[FilipWichrowski/MSOg24](https://github.com/FilipWichrowski/MSOg24)|-|14|2024-01-10|2023-10-09|
@@ -129,7 +129,7 @@
 |122|[fdaPDE/femR](https://github.com/fdaPDE/femR)|An R package for solving Partial Differential Equations using the finite element method.|14|2024-01-16|2023-09-14|
 |123|[moodymudskipper/qplyr](https://github.com/moodymudskipper/qplyr)|Delayed Evaluation With tidyverse Verbs|14|2023-09-03|2023-08-31|
 |124|[cran/TOmicsVis](https://github.com/cran/TOmicsVis)|:exclamation: This is a read-only mirror of the CRAN R package repository.  TOmicsVis — Transcriptome Visualization Process Scheme. Homepage: https://benben-miao.github.io/TOmicsVis/  Report bugs for  ...|14|2023-08-28|2023-07-07|
-|125|[ccao-data/model-res-avm](https://github.com/ccao-data/model-res-avm)|Automated valuation model for all class 200 residential properties in Cook County (except vacant land and condos)|14|2024-02-03|2023-06-26|
+|125|[ccao-data/model-res-avm](https://github.com/ccao-data/model-res-avm)|Automated valuation model for all class 200 residential properties in Cook County (except vacant land and condos)|14|2024-02-04|2023-06-26|
 |126|[mrc-ide/epireview](https://github.com/mrc-ide/epireview)|-|14|2023-11-09|2023-06-19|
 |127|[pharmaverse/sdtm.oak](https://github.com/pharmaverse/sdtm.oak)|An EDC and Data Standard agnostic SDTM data transformation engine that automates the transformation of raw clinical data in ODM format to SDTM based on standard mapping algorithms|14|2024-02-02|2023-05-09|
 |128|[posit-conf-2023/ds-workflows-r](https://github.com/posit-conf-2023/ds-workflows-r)|-|14|2023-11-27|2023-04-06|
@@ -148,17 +148,17 @@
 |141|[wlandau/crew.cluster](https://github.com/wlandau/crew.cluster)|crew launcher plugins for traditional high-performance computing clusters|13|2024-01-23|2023-04-20|
 |142|[slowkow/hlabud](https://github.com/slowkow/hlabud)|🐶 hlabud: HLA genotype analysis in R|13|2023-11-29|2023-04-05|
 |143|[beyondpie/CEMBA_wmb_snATAC](https://github.com/beyondpie/CEMBA_wmb_snATAC)|Whole mouse brain snATAC seq analysis|13|2024-01-24|2023-03-02|
-|144|[coolbutuseless/getrect](https://github.com/coolbutuseless/getrect)|Partition matrix into single-valued rectangular areas|12|2023-10-21|2023-10-21|
-|145|[Appsilon/experimental-plumber-example](https://github.com/Appsilon/experimental-plumber-example)|-|12|2023-12-15|2023-09-22|
-|146|[isonoi/isonoi](https://github.com/isonoi/isonoi)|Calculate voronoi-style polygons based on route distances / durations|12|2023-09-27|2023-09-05|
-|147|[nrennie/tidytuesday-shiny-app](https://github.com/nrennie/tidytuesday-shiny-app)|Shiny app to display and explore #TidyTuesday plots.|12|2023-12-27|2023-08-02|
-|148|[elkronos/openai_api](https://github.com/elkronos/openai_api)|Interact with openai APIs (DALLE2, GPT, Whisper)|12|2023-12-08|2023-05-19|
-|149|[Merck/boxly](https://github.com/Merck/boxly)|Interactive box plot for clinical trial analysis|12|2024-01-16|2023-05-12|
-|150|[hsvab/odbr](https://github.com/hsvab/odbr)|Pacote que disponibiliza dados de pesquisas OD do Brasil|12|2024-02-01|2023-05-01|
-|151|[Larsvanderlaan/causalHAL](https://github.com/Larsvanderlaan/causalHAL)|Adaptive debiased machine learning of treatment effects with the highly adaptive lasso|12|2023-08-10|2023-04-05|
-|152|[andygxzeng/BoneMarrowMap](https://github.com/andygxzeng/BoneMarrowMap)|A single cell RNA-seq reference map of human hematopoietic development in the bone marrow, with balanced representation of hematopoietic stem and progenitor cells and differentiated populations|12|2023-12-29|2023-03-13|
-|153|[riatelab/maplegend](https://github.com/riatelab/maplegend)|Create legends for maps and other graphics.|12|2023-11-09|2023-02-10|
-|154|[the-y-company/trendchart](https://github.com/the-y-company/trendchart)|Trendchart for R|11|2024-01-29|2024-01-11|
+|144|[the-y-company/trendchart](https://github.com/the-y-company/trendchart)|Trendchart for R|12|2024-01-29|2024-01-11|
+|145|[coolbutuseless/getrect](https://github.com/coolbutuseless/getrect)|Partition matrix into single-valued rectangular areas|12|2023-10-21|2023-10-21|
+|146|[Appsilon/experimental-plumber-example](https://github.com/Appsilon/experimental-plumber-example)|-|12|2023-12-15|2023-09-22|
+|147|[isonoi/isonoi](https://github.com/isonoi/isonoi)|Calculate voronoi-style polygons based on route distances / durations|12|2023-09-27|2023-09-05|
+|148|[nrennie/tidytuesday-shiny-app](https://github.com/nrennie/tidytuesday-shiny-app)|Shiny app to display and explore #TidyTuesday plots.|12|2023-12-27|2023-08-02|
+|149|[elkronos/openai_api](https://github.com/elkronos/openai_api)|Interact with openai APIs (DALLE2, GPT, Whisper)|12|2023-12-08|2023-05-19|
+|150|[Merck/boxly](https://github.com/Merck/boxly)|Interactive box plot for clinical trial analysis|12|2024-01-16|2023-05-12|
+|151|[hsvab/odbr](https://github.com/hsvab/odbr)|Pacote que disponibiliza dados de pesquisas OD do Brasil|12|2024-02-01|2023-05-01|
+|152|[Larsvanderlaan/causalHAL](https://github.com/Larsvanderlaan/causalHAL)|Adaptive debiased machine learning of treatment effects with the highly adaptive lasso|12|2023-08-10|2023-04-05|
+|153|[andygxzeng/BoneMarrowMap](https://github.com/andygxzeng/BoneMarrowMap)|A single cell RNA-seq reference map of human hematopoietic development in the bone marrow, with balanced representation of hematopoietic stem and progenitor cells and differentiated populations|12|2023-12-29|2023-03-13|
+|154|[riatelab/maplegend](https://github.com/riatelab/maplegend)|Create legends for maps and other graphics.|12|2023-11-09|2023-02-10|
 |155|[coatless-rpkg/drawr](https://github.com/coatless-rpkg/drawr)|Draw different R data structures on graphics|11|2024-01-17|2024-01-10|
 |156|[simonpcouch/tidymodels-uw-2023](https://github.com/simonpcouch/tidymodels-uw-2023)|Source and slides for "Why you should be using tidymodels" at UW-Madison|11|2023-11-20|2023-11-14|
 |157|[rstudio/demo-co](https://github.com/rstudio/demo-co)|Example artifacts used by an example company.|11|2024-01-22|2023-08-24|
@@ -166,32 +166,32 @@
 |159|[jonas-hag/analysistemplates](https://github.com/jonas-hag/analysistemplates)|RStudio templates for scientific data analysis|11|2024-01-15|2023-08-21|
 |160|[schochastics/stabilityAI](https://github.com/schochastics/stabilityAI)|An R package to connect with stability.ai|11|2024-01-19|2023-07-22|
 |161|[GSK-Biostatistics/slushy](https://github.com/GSK-Biostatistics/slushy)|-|11|2023-11-13|2023-07-03|
-|162|[pharmaverse/blog](https://github.com/pharmaverse/blog)|Blogging on the latest, greatest and most spectacular stuff happening around the pharmaverse |11|2024-02-02|2023-04-03|
-|163|[EvaYiwenWang/PLSDAbatch](https://github.com/EvaYiwenWang/PLSDAbatch)|Development repository for R package 'PLSDAbatch ' hosted on Bioconductor.|11|2023-12-21|2023-03-30|
-|164|[elipousson/officerExtras](https://github.com/elipousson/officerExtras)|🏢 A R package with {officer} helper functions.|11|2024-01-05|2023-02-25|
-|165|[seanpm2001/AI2001](https://github.com/seanpm2001/AI2001)|🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🏠️ The source repository for the open source AI2001 Artificial Intelligence project.|11|2024-02-03|2023-02-21|
-|166|[extendr/b64](https://github.com/extendr/b64)|A lightweight and very fast base64 encoder and decoder. |10|2024-01-20|2024-01-11|
-|167|[ZhenyiWangTHU/HemaScopeR](https://github.com/ZhenyiWangTHU/HemaScopeR)|A Specialized Bioinformatics Toolkit Designed for Analyzing both Single-cell and Spatial Transcriptome Sequencing Data from Hematopoietic Cells|10|2024-01-30|2023-12-25|
-|168|[hughjonesd/codesamples](https://github.com/hughjonesd/codesamples)|R Code Samples From Various Sources|10|2023-12-24|2023-12-23|
-|169|[andrewheiss/bsky-bot-r](https://github.com/andrewheiss/bsky-bot-r)|Example repository of using GitHub Actions to post to Bluesky from R|10|2023-09-22|2023-09-22|
-|170|[ostunilab/PDAC_Nature_2023](https://github.com/ostunilab/PDAC_Nature_2023)|-|10|2023-10-31|2023-09-11|
-|171|[fdaPDE/fdaPDE-R](https://github.com/fdaPDE/fdaPDE-R)|The R wrapper to the fdaPDE library for physics-informed spatial and functional data analysis.|10|2023-12-24|2023-09-08|
-|172|[trevor-harris/VectorizationExamples](https://github.com/trevor-harris/VectorizationExamples)|-|10|2023-09-05|2023-09-05|
-|173|[kharchenkolab/hahmmr](https://github.com/kharchenkolab/hahmmr)|Haplotype-aware Hidden Markov Models for detecting CNVs from bulk RNA-seq|10|2023-10-30|2023-09-02|
-|174|[deepshamenghani/richmondway](https://github.com/deepshamenghani/richmondway)|A dataset containing the number of times the word f*ck was used in Ted Lasso by Roy Kent|10|2023-09-08|2023-09-02|
-|175|[BibekJoshi4000/R](https://github.com/BibekJoshi4000/R)|Getting started with R|10|2023-08-25|2023-07-21|
-|176|[EvolEcolGroup/tidysdm](https://github.com/EvolEcolGroup/tidysdm)|R package to fit species distribution models (SDMs) using the 'tidymodels' framework|10|2024-02-01|2023-07-14|
-|177|[ccao-data/ptaxsim](https://github.com/ccao-data/ptaxsim)|R package for estimating Cook County property tax bills|10|2024-01-19|2023-06-30|
-|178|[dejan94it/cc_Rtools](https://github.com/dejan94it/cc_Rtools)|This plugin allows the Cheshire Cat to use tools written in R language|10|2023-09-12|2023-06-28|
-|179|[mlverse/pysparklyr](https://github.com/mlverse/pysparklyr)|Extension to {sparklyr} that allows you to interact with Spark & Databricks Connect|10|2024-02-02|2023-06-22|
+|162|[mlverse/pysparklyr](https://github.com/mlverse/pysparklyr)|Extension to {sparklyr} that allows you to interact with Spark & Databricks Connect|11|2024-02-02|2023-06-22|
+|163|[pharmaverse/blog](https://github.com/pharmaverse/blog)|Blogging on the latest, greatest and most spectacular stuff happening around the pharmaverse |11|2024-02-02|2023-04-03|
+|164|[EvaYiwenWang/PLSDAbatch](https://github.com/EvaYiwenWang/PLSDAbatch)|Development repository for R package 'PLSDAbatch ' hosted on Bioconductor.|11|2023-12-21|2023-03-30|
+|165|[elipousson/officerExtras](https://github.com/elipousson/officerExtras)|🏢 A R package with {officer} helper functions.|11|2024-01-05|2023-02-25|
+|166|[seanpm2001/AI2001](https://github.com/seanpm2001/AI2001)|🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🏠️ The source repository for the open source AI2001 Artificial Intelligence project.|11|2024-02-04|2023-02-21|
+|167|[extendr/b64](https://github.com/extendr/b64)|A lightweight and very fast base64 encoder and decoder. |10|2024-01-20|2024-01-11|
+|168|[ZhenyiWangTHU/HemaScopeR](https://github.com/ZhenyiWangTHU/HemaScopeR)|A Specialized Bioinformatics Toolkit Designed for Analyzing both Single-cell and Spatial Transcriptome Sequencing Data from Hematopoietic Cells|10|2024-01-30|2023-12-25|
+|169|[hughjonesd/codesamples](https://github.com/hughjonesd/codesamples)|R Code Samples From Various Sources|10|2023-12-24|2023-12-23|
+|170|[andrewheiss/bsky-bot-r](https://github.com/andrewheiss/bsky-bot-r)|Example repository of using GitHub Actions to post to Bluesky from R|10|2023-09-22|2023-09-22|
+|171|[ostunilab/PDAC_Nature_2023](https://github.com/ostunilab/PDAC_Nature_2023)|-|10|2023-10-31|2023-09-11|
+|172|[fdaPDE/fdaPDE-R](https://github.com/fdaPDE/fdaPDE-R)|The R wrapper to the fdaPDE library for physics-informed spatial and functional data analysis.|10|2023-12-24|2023-09-08|
+|173|[trevor-harris/VectorizationExamples](https://github.com/trevor-harris/VectorizationExamples)|-|10|2023-09-05|2023-09-05|
+|174|[kharchenkolab/hahmmr](https://github.com/kharchenkolab/hahmmr)|Haplotype-aware Hidden Markov Models for detecting CNVs from bulk RNA-seq|10|2023-10-30|2023-09-02|
+|175|[deepshamenghani/richmondway](https://github.com/deepshamenghani/richmondway)|A dataset containing the number of times the word f*ck was used in Ted Lasso by Roy Kent|10|2023-09-08|2023-09-02|
+|176|[BibekJoshi4000/R](https://github.com/BibekJoshi4000/R)|Getting started with R|10|2023-08-25|2023-07-21|
+|177|[EvolEcolGroup/tidysdm](https://github.com/EvolEcolGroup/tidysdm)|R package to fit species distribution models (SDMs) using the 'tidymodels' framework|10|2024-02-01|2023-07-14|
+|178|[ccao-data/ptaxsim](https://github.com/ccao-data/ptaxsim)|R package for estimating Cook County property tax bills|10|2024-01-19|2023-06-30|
+|179|[dejan94it/cc_Rtools](https://github.com/dejan94it/cc_Rtools)|This plugin allows the Cheshire Cat to use tools written in R language|10|2023-09-12|2023-06-28|
 |180|[EddieLv/STvis](https://github.com/EddieLv/STvis)|-|10|2023-10-25|2023-05-14|
 |181|[posit-conf-2023/programming-r](https://github.com/posit-conf-2023/programming-r)|-|10|2023-09-18|2023-04-06|
 |182|[posit-conf-2023/vetiver](https://github.com/posit-conf-2023/vetiver)|-|10|2023-09-17|2023-04-06|
 |183|[tonyelhabr/club-rankings](https://github.com/tonyelhabr/club-rankings)|Historical daily Opta and Club Elo club rankings|10|2024-01-15|2023-03-26|
 |184|[openpharma/brms.mmrm](https://github.com/openpharma/brms.mmrm)|R package to run Bayesian MMRMs using {brms}|10|2024-02-02|2023-03-25|
-|185|[cancerbits/DElegate](https://github.com/cancerbits/DElegate)|Wrapper and helper functions to use bulk RNA-seq differential expression methods with single-cell data|10|2023-12-13|2023-03-02|
+|185|[cancerbits/DElegate](https://github.com/cancerbits/DElegate)|Wrapper and helper functions to use bulk RNA-seq differential expression methods with single-cell data|10|2024-02-04|2023-03-02|
 |186|[bcknr/rlandfire](https://github.com/bcknr/rlandfire)|Tools for Accessing and Working with LANDFIRE in R|10|2024-01-14|2023-02-22|
-|187|[SydneyBioX/MoleculeExperiment](https://github.com/SydneyBioX/MoleculeExperiment)|-|10|2024-02-02|2023-02-17|
+|187|[SydneyBioX/MoleculeExperiment](https://github.com/SydneyBioX/MoleculeExperiment)|-|10|2024-02-04|2023-02-17|
 |188|[Appsilon/shiny.molstar](https://github.com/Appsilon/shiny.molstar)|R Shiny wrapper for Mol* (/'molstar/) - A visualization toolkit of large-scale molecular data|10|2024-02-01|2023-02-14|
 |189|[jhk0530/gemini.R](https://github.com/jhk0530/gemini.R)|R package to use Google's gemini via API on R|9|2023-12-21|2023-12-15|
 |190|[nhs-r-community/NHSRwaitinglist](https://github.com/nhs-r-community/NHSRwaitinglist)|R-package to implement the waiting list management approach described in this paper by Fong et al:  https://www.medrxiv.org/content/10.1101/2022.08.23.22279117v1.full-text|9|2024-01-17|2023-12-01|

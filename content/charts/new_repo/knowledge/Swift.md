@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1828|2024-01-29|2023-06-14|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1829|2024-01-29|2023-06-14|
 |2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|187|2024-01-18|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|151|2023-10-23|2023-10-04|
 |4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|140|2024-01-14|2023-07-28|
-|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|137|2024-02-03|2023-07-12|
+|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|137|2024-02-04|2023-07-12|
 |6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|95|2024-02-02|2023-06-05|
 |7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|82|2024-02-02|2023-12-01|
 |8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|64|2023-09-30|2023-09-30|
@@ -54,14 +54,14 @@
 |47|[tomtom-international/tomtom-navigation-ios-examples](https://github.com/tomtom-international/tomtom-navigation-ios-examples)|TomTom Navigation SDK examples|7|2024-02-02|2023-02-13|
 |48|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|6|2023-09-13|2023-09-11|
 |49|[sparrowcode/SwiftUIExtension](https://github.com/sparrowcode/SwiftUIExtension)|Collection of SwiftUI extensions to boost development process.|6|2024-01-15|2023-08-31|
-|50|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-01-31|2023-06-30|
-|51|[lucasnsp/100DaysOfSwift](https://github.com/lucasnsp/100DaysOfSwift)|Repository for the course 100DaysOfSwift that teaches how to use UIkit|6|2023-09-08|2023-04-18|
-|52|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|
-|53|[jacobsapps/metal](https://github.com/jacobsapps/metal)|It's simple, just learn C++|5|2023-11-15|2023-10-26|
-|54|[helloItsHEssam/Library](https://github.com/helloItsHEssam/Library)|A simple project with SwiftUI. In this project, it displays a list of favorite books and the details of each one.|5|2023-10-01|2023-09-29|
-|55|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2023-10-14|2023-08-20|
-|56|[Mieraidihaimu/TypingPall](https://github.com/Mieraidihaimu/TypingPall)|Typing practice your favourite language, code, algorithms and more|5|2023-08-30|2023-07-13|
-|57|[NativeScript/visionos-hello-world](https://github.com/NativeScript/visionos-hello-world)|Vision Pro 🥽 Hello World tutorial with NativeScript using various flavors - Angular, React, Solid, Svelte, TypeScript and Vue.|5|2023-10-29|2023-07-06|
+|50|[NativeScript/visionos-hello-world](https://github.com/NativeScript/visionos-hello-world)|Vision Pro 🥽 Hello World tutorial with NativeScript using various flavors - Angular, React, Solid, Svelte, TypeScript and Vue.|6|2023-10-29|2023-07-06|
+|51|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-01-31|2023-06-30|
+|52|[lucasnsp/100DaysOfSwift](https://github.com/lucasnsp/100DaysOfSwift)|Repository for the course 100DaysOfSwift that teaches how to use UIkit|6|2023-09-08|2023-04-18|
+|53|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|
+|54|[jacobsapps/metal](https://github.com/jacobsapps/metal)|It's simple, just learn C++|5|2023-11-15|2023-10-26|
+|55|[helloItsHEssam/Library](https://github.com/helloItsHEssam/Library)|A simple project with SwiftUI. In this project, it displays a list of favorite books and the details of each one.|5|2023-10-01|2023-09-29|
+|56|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2023-10-14|2023-08-20|
+|57|[Mieraidihaimu/TypingPall](https://github.com/Mieraidihaimu/TypingPall)|Typing practice your favourite language, code, algorithms and more|5|2023-08-30|2023-07-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

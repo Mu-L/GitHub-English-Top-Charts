@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[merefield/discourse-chatbot](https://github.com/merefield/discourse-chatbot)|An AI bot with RAG capability for Topics and Chat in Discourse, currently powered by OpenAI|42|2024-01-29|2023-02-06|
 |7|[shohey1226/llm_memory](https://github.com/shohey1226/llm_memory)|A Ruby Gem for LLMs like ChatGPT to have memory using in-context learning|37|2023-11-20|2023-05-01|
 |8|[Acceis/vulnerable-code-snippets](https://github.com/Acceis/vulnerable-code-snippets)|Vulnerable code snippets repository showcasing different vulnerabilities to practice code analysis skills.|21|2023-09-04|2023-02-06|
-|9|[Lucas-Erkana/Tasty-Bites](https://github.com/Lucas-Erkana/Tasty-Bites)|Tasty Bites: Organize, Create, and Share Recipes with Ease! Save, track, and manage your recipes, ingredients, and inventory effortlessly. Generate shopping lists based on your recipe needs. Share you ...|12|2023-08-25|2023-07-02|
+|9|[Lucas-Erkana/Tasty-Bites](https://github.com/Lucas-Erkana/Tasty-Bites)|Tasty Bites: Organize, Create, and Share Recipes with Ease! Save, track, and manage your recipes, ingredients, and inventory effortlessly. Generate shopping lists based on your recipe needs. Share you ...|11|2023-08-25|2023-07-02|
 |10|[ClaudiaRojasSoto/Recipe_App](https://github.com/ClaudiaRojasSoto/Recipe_App)|An all-in-one culinary assistant 🍽. Save recipes, track ingredients, and generate shopping lists. Share your favorite recipes publicly for everyone to enjoy!|9|2023-12-20|2023-10-08|
 |11|[AndreaM2429/BlogApp](https://github.com/AndreaM2429/BlogApp)|Is a clasic blog website that shows the list of posts and empower readers to interact with them by adding comments and liking posts.|9|2023-10-07|2023-09-18|
 |12|[kifle23/hello-rails-react](https://github.com/kifle23/hello-rails-react)|In this exercise project I will try to learn connecting Ruby on Rails back-end with React front-end|9|2023-09-20|2023-09-18|

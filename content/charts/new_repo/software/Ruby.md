@@ -1,50 +1,50 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Ruby
-<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|14039|2024-02-03|2024-01-01|
-|2|[docusealco/docuseal](https://github.com/docusealco/docuseal)|Open source DocuSign alternative. Create, fill, and sign digital documents ✍️|4604|2024-02-03|2023-07-03|
+|1|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|14654|2024-02-04|2024-01-01|
+|2|[docusealco/docuseal](https://github.com/docusealco/docuseal)|Open source DocuSign alternative. Create, fill, and sign digital documents ✍️|4608|2024-02-03|2023-07-03|
 |3|[apple/homebrew-apple](https://github.com/apple/homebrew-apple)|-|2223|2023-11-16|2023-05-18|
-|4|[andreibondarev/langchainrb](https://github.com/andreibondarev/langchainrb)|Build LLM-backed Ruby applications|864|2024-02-03|2023-04-18|
+|4|[andreibondarev/langchainrb](https://github.com/andreibondarev/langchainrb)|Build LLM-backed Ruby applications|864|2024-02-04|2023-04-18|
 |5|[shayonj/pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)|Easily setup logical replication and switchover to new database with minimal downtime|822|2024-01-29|2023-05-29|
 |6|[oldmoe/litestack](https://github.com/oldmoe/litestack)|-|811|2024-01-27|2023-02-20|
-|7|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |768|2023-12-19|2023-04-06|
+|7|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |769|2023-12-19|2023-04-06|
 |8|[rage-rb/rage](https://github.com/rage-rb/rage)|Fast web framework compatible with Rails.|645|2024-01-09|2023-09-15|
-|9|[macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula)|-|589|2024-01-27|2023-09-24|
-|10|[Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails)|A Ruby LSP extension for Rails|407|2024-02-03|2023-03-31|
+|9|[macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula)|-|590|2024-01-27|2023-09-24|
+|10|[Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails)|A Ruby LSP extension for Rails|412|2024-02-04|2023-03-31|
 |11|[BoxcarsAI/boxcars](https://github.com/BoxcarsAI/boxcars)|Building applications with composability using Boxcars with LLM's. Inspired by LangChain.|393|2024-01-31|2023-02-09|
 |12|[github/brasil](https://github.com/github/brasil)|Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.|377|2024-02-02|2023-04-28|
-|13|[hopsoft/universalid](https://github.com/hopsoft/universalid)|Fast, recursive, optimized, URL-Safe serialization for any Ruby object|321|2024-02-01|2023-03-31|
-|14|[joshmn/ahoy_captain](https://github.com/joshmn/ahoy_captain)|A full-featured, mountable analytics dashboard for your Rails app, powered by the Ahoy gem.|309|2024-01-09|2023-07-29|
-|15|[rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase)|Omakase Ruby styling for Rails|283|2024-01-10|2023-12-29|
+|13|[hopsoft/universalid](https://github.com/hopsoft/universalid)|Fast, recursive, optimized, URL-Safe serialization for any Ruby object|321|2024-02-04|2023-03-31|
+|14|[joshmn/ahoy_captain](https://github.com/joshmn/ahoy_captain)|A full-featured, mountable analytics dashboard for your Rails app, powered by the Ahoy gem.|310|2024-01-09|2023-07-29|
+|15|[rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase)|Omakase Ruby styling for Rails|285|2024-01-10|2023-12-29|
 |16|[basecamp/kamal-skiff](https://github.com/basecamp/kamal-skiff)|Deploy static sites using nginx + SSI with Kamal|279|2023-11-13|2023-10-19|
 |17|[pawurb/rails-brotli-cache](https://github.com/pawurb/rails-brotli-cache)|Drop-in enhancement for Rails cache, offering better performance and compression with Brotli algorithm|250|2023-10-13|2023-05-09|
 |18|[tendersearls/tldr](https://github.com/tendersearls/tldr)|A Ruby test framework for people who don't have time for slow tests 💣💥|240|2024-01-11|2023-09-16|
-|19|[fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA)|This is repository for ALMA translation models.|217|2024-01-28|2023-09-13|
+|19|[fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA)|This is repository for ALMA translation models.|219|2024-01-28|2023-09-13|
 |20|[accessd/terminal-sunday](https://github.com/accessd/terminal-sunday)|Start each new terminal session with a thought-provoking reminder of the time you have to make the most of your life!|211|2024-01-24|2024-01-03|
 |21|[fatkodima/fast_count](https://github.com/fatkodima/fast_count)|Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).|206|2023-10-05|2023-04-22|
-|22|[westonganger/rails_i18n_manager](https://github.com/westonganger/rails_i18n_manager)|Web interface to manage i18n translations helping to facilitate the editors of your translations. Provides a low-tech and complete workflow for importing, translating, and exporting your I18n translat ...|204|2024-01-24|2023-04-02|
-|23|[ttscoff/curlyq](https://github.com/ttscoff/curlyq)|-|202|2024-01-21|2024-01-10|
+|22|[ttscoff/curlyq](https://github.com/ttscoff/curlyq)|-|204|2024-01-21|2024-01-10|
+|23|[westonganger/rails_i18n_manager](https://github.com/westonganger/rails_i18n_manager)|Web interface to manage i18n translations helping to facilitate the editors of your translations. Provides a low-tech and complete workflow for importing, translating, and exporting your I18n translat ...|204|2024-01-24|2023-04-02|
 |24|[alxlion/eyeloupe](https://github.com/alxlion/eyeloupe)|The elegant Rails debug assistant. AI powered.|193|2023-10-20|2023-05-21|
 |25|[rubymonolith/superform](https://github.com/rubymonolith/superform)|Build highly customizable forms in Rails|192|2024-01-25|2023-06-23|
 |26|[magma-labs/magma-chat](https://github.com/magma-labs/magma-chat)|Ruby on Rails 7-based ChatGPT Bot Platform|191|2023-08-28|2023-04-12|
 |27|[joemasilotti/daily-log](https://github.com/joemasilotti/daily-log)|A Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.|184|2024-01-25|2023-12-05|
 |28|[adrienpoly/rubyvideo](https://github.com/adrienpoly/rubyvideo)|Indexing all Ruby related videos|169|2024-01-22|2023-06-16|
 |29|[AndyObtiva/how-to-build-desktop-applications-in-ruby](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby)|Code Exercises for RubyConf 2023 Workshop: How To Build Desktop Applications in Ruby (Andy Maleh)|163|2024-01-12|2023-11-07|
-|30|[krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code)|-|159|2024-01-06|2024-01-06|
+|30|[krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code)|-|161|2024-01-06|2024-01-06|
 |31|[akitaonrails/rinhabackend-rails-api](https://github.com/akitaonrails/rinhabackend-rails-api)|-|158|2023-09-19|2023-08-25|
-|32|[swishjam/swishjam](https://github.com/swishjam/swishjam)|The Brain Of Your B2B SaaS. A better way to unify your customers' data and get meaningful insights out of the box. Built on Next.js, Ruby on Rails, Tailwind, Shadcn, and more. Backed by Y Combinator - ...|157|2024-02-03|2023-02-15|
-|33|[cmer/ultimate_turbo_modal-rails](https://github.com/cmer/ultimate_turbo_modal-rails)|The ultimate Turbo / Stimulus / Hotwire modal window for Rails|148|2024-01-31|2023-03-31|
+|32|[swishjam/swishjam](https://github.com/swishjam/swishjam)|The Brain Of Your B2B SaaS. A better way to unify your customers' data and get meaningful insights out of the box. Built on Next.js, Ruby on Rails, Tailwind, Shadcn, and more. Backed by Y Combinator - ...|157|2024-02-04|2023-02-15|
+|33|[cmer/ultimate_turbo_modal-rails](https://github.com/cmer/ultimate_turbo_modal-rails)|The ultimate Turbo / Stimulus / Hotwire modal window for Rails|149|2024-01-31|2023-03-31|
 |34|[keshavbiswa/seedie](https://github.com/keshavbiswa/seedie)|A ruby gem to run seeds for you in your Ruby on Rails application.|144|2023-11-10|2023-06-13|
 |35|[jysperm/homebrew-leftover-scanner](https://github.com/jysperm/homebrew-leftover-scanner)|Use rules from Homebrew Cask to scan for leftover files from uninstalled software.|139|2023-09-19|2023-02-12|
 |36|[harrison-broadbent/better_mailer_previews](https://github.com/harrison-broadbent/better_mailer_previews)|Better Mailer Previews is a Ruby on Rails gem that makes it easier to preview ActionMailer email templates.|138|2023-12-26|2023-12-02|
 |37|[Shopify/autotuner](https://github.com/Shopify/autotuner)|-|132|2023-09-28|2023-05-25|
 |38|[standardrb/standard-rails](https://github.com/standardrb/standard-rails)|A Standard Ruby plugin that configures rubocop-rails|131|2024-01-08|2023-03-26|
-|39|[fatkodima/pluck_in_batches](https://github.com/fatkodima/pluck_in_batches)|A faster alternative to the custom use of `in_batches` with `pluck`|123|2023-10-05|2023-05-12|
-|40|[vidarh/rubywm](https://github.com/vidarh/rubywm)|An X11 window manager in pure Ruby|122|2024-01-26|2024-01-21|
+|39|[vidarh/rubywm](https://github.com/vidarh/rubywm)|An X11 window manager in pure Ruby|124|2024-01-26|2024-01-21|
+|40|[fatkodima/pluck_in_batches](https://github.com/fatkodima/pluck_in_batches)|A faster alternative to the custom use of `in_batches` with `pluck`|123|2023-10-05|2023-05-12|
 |41|[joeldrapper/literal](https://github.com/joeldrapper/literal)|A literal Ruby gem.|113|2024-01-20|2023-05-03|
 |42|[excid3/signalman](https://github.com/excid3/signalman)|Development tools for Ruby on Rails|105|2023-08-23|2023-07-29|
 |43|[fatkodima/columns_trace](https://github.com/fatkodima/columns_trace)|Detect unnecessary selected database columns|102|2023-11-08|2023-10-04|
@@ -53,26 +53,26 @@
 |46|[geetfun/deployed](https://github.com/geetfun/deployed)|Mountable deployment engine for Ruby on Rails using Kamal|92|2023-10-26|2023-10-23|
 |47|[keygen-sh/typed_params](https://github.com/keygen-sh/typed_params)|An alternative to Rails strong_parameters. Define structured and strongly-typed parameter schemas for your Rails controllers.|92|2024-01-05|2023-06-01|
 |48|[davidesantangelo/searq.org](https://github.com/davidesantangelo/searq.org)|SearQ, the RSS search engine that is both speedy and free! SearQ offers a RESTful API that simplifies the search for data from RSS feeds. Finding what you need has never been easier with SearQ.|92|2024-01-15|2023-02-27|
-|49|[0xFacet/facet-vm](https://github.com/0xFacet/facet-vm)|This app processes Dumb Contract interactions and makes the results available via an HTTP API.|90|2024-02-03|2023-08-24|
+|49|[0xFacet/facet-vm](https://github.com/0xFacet/facet-vm)|This app processes Dumb Contract interactions and makes the results available via an HTTP API.|90|2024-02-04|2023-08-24|
 |50|[chaskiq/plain](https://github.com/chaskiq/plain)|-|90|2023-08-24|2023-08-15|
-|51|[marcoroth/gem.sh](https://github.com/marcoroth/gem.sh)|Beautiful documentation for any Ruby gem.|90|2024-02-02|2023-07-31|
+|51|[marcoroth/gem.sh](https://github.com/marcoroth/gem.sh)|Beautiful documentation for any Ruby gem.|90|2024-02-04|2023-07-31|
 |52|[IAPark/tiktoken_ruby](https://github.com/IAPark/tiktoken_ruby)|Unofficial ruby binding for tiktoken by way of rust|88|2024-01-31|2023-03-19|
 |53|[palkan/turbo-music-drive](https://github.com/palkan/turbo-music-drive)|Exploring Turbo future features while building a music library app|86|2024-01-22|2023-10-10|
-|54|[kobaltz/action_auth](https://github.com/kobaltz/action_auth)|ActionAuth is an authentication Rails engine crafted to integrate seamlessly with your Rails application. Optimized for Rails 7.1.0, it employs the most modern authentication techniques and streamline ...|84|2024-02-01|2023-11-07|
-|55|[ruby-next/freezolite](https://github.com/ruby-next/freezolite)|Automatically add frozen_string_literals to selected files at compile time|84|2024-01-24|2023-06-15|
+|54|[ruby-next/freezolite](https://github.com/ruby-next/freezolite)|Automatically add frozen_string_literals to selected files at compile time|86|2024-01-24|2023-06-15|
+|55|[kobaltz/action_auth](https://github.com/kobaltz/action_auth)|ActionAuth is an authentication Rails engine crafted to integrate seamlessly with your Rails application. Optimized for Rails 7.1.0, it employs the most modern authentication techniques and streamline ...|85|2024-02-01|2023-11-07|
 |56|[MoskitoHero/barley](https://github.com/MoskitoHero/barley)|Barley is a dead simple, fast, and efficient ActiveModel serializer|78|2023-11-30|2023-10-09|
 |57|[excid3/beginnerbounties.com](https://github.com/excid3/beginnerbounties.com)|Small Projects for Junior Developers|78|2024-01-08|2023-03-01|
 |58|[sqids/sqids-ruby](https://github.com/sqids/sqids-ruby)|Official Ruby port of Sqids. Generate short unique IDs from numbers.|77|2023-09-10|2023-06-24|
 |59|[tenderlove/tinygql](https://github.com/tenderlove/tinygql)|A tiny and experimental GraphQL parser in Ruby|76|2023-09-29|2023-08-08|
 |60|[jordanful/Promptspot](https://github.com/jordanful/Promptspot)|Prompt testing made easy|76|2023-11-07|2023-06-02|
 |61|[asonas/rspec-daemon](https://github.com/asonas/rspec-daemon)|-|76|2024-01-30|2023-04-12|
-|62|[DmitryTsepelev/rubocop_director](https://github.com/DmitryTsepelev/rubocop_director)|Plan your refactorings properly|75|2023-09-12|2023-05-09|
-|63|[consist-sh/consist](https://github.com/consist-sh/consist)|The stone age one person framework server scaffolder|74|2024-01-01|2023-11-27|
-|64|[DmitryTsepelev/clean_actions](https://github.com/DmitryTsepelev/clean_actions)|A modern modular service object toolkit for Rails, that respects database transactions and adds type checks to returned values.|74|2023-10-10|2023-08-29|
+|62|[DmitryTsepelev/clean_actions](https://github.com/DmitryTsepelev/clean_actions)|A modern modular service object toolkit for Rails, that respects database transactions and adds type checks to returned values.|75|2023-10-10|2023-08-29|
+|63|[DmitryTsepelev/rubocop_director](https://github.com/DmitryTsepelev/rubocop_director)|Plan your refactorings properly|75|2023-09-12|2023-05-09|
+|64|[consist-sh/consist](https://github.com/consist-sh/consist)|The stone age one person framework server scaffolder|74|2024-01-01|2023-11-27|
 |65|[testcontainers/testcontainers-ruby](https://github.com/testcontainers/testcontainers-ruby)|Testcontainers for Ruby|71|2024-02-02|2023-05-03|
 |66|[imgproxy/imgproxy-rails](https://github.com/imgproxy/imgproxy-rails)|-|67|2023-12-27|2023-08-03|
 |67|[reclaim-the-stack/actioncable-enhanced-postgresql-adapter](https://github.com/reclaim-the-stack/actioncable-enhanced-postgresql-adapter)|An enhanced ActionCable adapter for PostgreSQL.|66|2023-11-02|2023-10-28|
-|68|[andreibondarev/langchainrb_rails](https://github.com/andreibondarev/langchainrb_rails)|-|65|2024-01-29|2023-06-23|
+|68|[andreibondarev/langchainrb_rails](https://github.com/andreibondarev/langchainrb_rails)|-|66|2024-01-29|2023-06-23|
 |69|[palkan/rbytes](https://github.com/palkan/rbytes)|Ruby Bytes helps you build, deploy and install Ruby and Rails application templates|65|2023-08-16|2023-03-16|
 |70|[ankane/mapkick-static](https://github.com/ankane/mapkick-static)|Create beautiful static maps with one line of Ruby|60|2023-12-26|2023-04-26|
 |71|[st0012/ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec)|-|58|2024-01-29|2023-09-10|
@@ -80,16 +80,16 @@
 |73|[Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752)|Joomla! < 4.2.8 - Unauthenticated information disclosure|58|2023-12-27|2023-03-24|
 |74|[sferik/x-ruby](https://github.com/sferik/x-ruby)|A Ruby interface to the X API.|57|2024-01-03|2023-08-02|
 |75|[Shopify/ruby-definitions](https://github.com/Shopify/ruby-definitions)|Definitions to build the Ruby we use at Shopify in development, testing, and production.|56|2024-01-18|2023-06-01|
-|76|[stevepolitodesign/invisible_ink](https://github.com/stevepolitodesign/invisible_ink)|Keep your private notes in plain sight.|54|2023-10-16|2023-03-14|
-|77|[0xFacet/ethscriptions-indexer](https://github.com/0xFacet/ethscriptions-indexer)|-|52|2024-02-03|2023-12-17|
-|78|[planetscale/planetscale_rails](https://github.com/planetscale/planetscale_rails)|Make Rails schema migrations easy with PlanetScale|52|2024-01-22|2023-03-02|
-|79|[enjaku4/rabarber](https://github.com/enjaku4/rabarber)|Simple role-based authorization library for Ruby on Rails|52|2024-02-02|2023-02-25|
-|80|[BaseSecrete/web_tsunami](https://github.com/BaseSecrete/web_tsunami)|Tailor-made load testing for web apps|50|2024-02-02|2024-01-12|
-|81|[michal-kazmierczak/opentelemetry-rails-example](https://github.com/michal-kazmierczak/opentelemetry-rails-example)|-|50|2024-01-24|2023-11-10|
-|82|[whitefusionhq/signalize](https://github.com/whitefusionhq/signalize)|A Ruby port of Signals, providing reactive variables, derived computed state, side effect callbacks, and batched updates.|50|2023-10-04|2023-03-08|
-|83|[maybe-finance/synth](https://github.com/maybe-finance/synth)|Modern fintech tools for modern businesses|47|2024-02-03|2024-01-08|
-|84|[pinzonjulian/actionview_attribute_builders](https://github.com/pinzonjulian/actionview_attribute_builders)|-|47|2023-11-07|2023-10-20|
-|85|[joeldrapper/green_dots](https://github.com/joeldrapper/green_dots)|A simple Ruby testing framework.|47|2024-02-03|2023-02-20|
+|76|[michal-kazmierczak/opentelemetry-rails-example](https://github.com/michal-kazmierczak/opentelemetry-rails-example)|-|54|2024-01-24|2023-11-10|
+|77|[stevepolitodesign/invisible_ink](https://github.com/stevepolitodesign/invisible_ink)|Keep your private notes in plain sight.|54|2023-10-16|2023-03-14|
+|78|[enjaku4/rabarber](https://github.com/enjaku4/rabarber)|Simple role-based authorization library for Ruby on Rails|53|2024-02-02|2023-02-25|
+|79|[BaseSecrete/web_tsunami](https://github.com/BaseSecrete/web_tsunami)|Tailor-made load testing for web apps|52|2024-02-02|2024-01-12|
+|80|[0xFacet/ethscriptions-indexer](https://github.com/0xFacet/ethscriptions-indexer)|-|52|2024-02-04|2023-12-17|
+|81|[planetscale/planetscale_rails](https://github.com/planetscale/planetscale_rails)|Make Rails schema migrations easy with PlanetScale|52|2024-01-22|2023-03-02|
+|82|[joeldrapper/quickdraw](https://github.com/joeldrapper/quickdraw)|A better testing framework for Ruby|52|2024-02-04|2023-02-20|
+|83|[whitefusionhq/signalize](https://github.com/whitefusionhq/signalize)|A Ruby port of Signals, providing reactive variables, derived computed state, side effect callbacks, and batched updates.|50|2023-10-04|2023-03-08|
+|84|[maybe-finance/synth](https://github.com/maybe-finance/synth)|Modern fintech tools for modern businesses|48|2024-02-03|2024-01-08|
+|85|[pinzonjulian/actionview_attribute_builders](https://github.com/pinzonjulian/actionview_attribute_builders)|-|47|2023-11-07|2023-10-20|
 |86|[meetcleo/rubocop-magic_numbers](https://github.com/meetcleo/rubocop-magic_numbers)|A RuboCop Cop that detects the use of magic numbers within instance methods |46|2023-12-21|2023-05-02|
 |87|[mperham/kuiq](https://github.com/mperham/kuiq)|Sidekiq desktop app|45|2024-01-03|2023-11-17|
 |88|[hungle00/rondo_form](https://github.com/hungle00/rondo_form)|Same as Cocoon, but using StimulusJS|45|2024-01-08|2023-06-13|
@@ -114,23 +114,23 @@
 |107|[mschnitzer/ark-survival-ascended-linux-container-image](https://github.com/mschnitzer/ark-survival-ascended-linux-container-image)|A docker/podman container that is able to run an ARK: Survival Ascended on a Linux host.|35|2023-11-07|2023-10-25|
 |108|[LeetIDA/Ez-Ban](https://github.com/LeetIDA/Ez-Ban)|TikTok Report Tool Made With Ruby|35|2023-09-02|2023-04-30|
 |109|[TOMOSIA-VIETNAM/hmvc-rails](https://github.com/TOMOSIA-VIETNAM/hmvc-rails)|HMVC Rails provides a top-tier model for Rails' MVC design|35|2023-12-22|2023-02-08|
-|110|[fractaledmind/activerecord-enhancedsqlite3-adapter](https://github.com/fractaledmind/activerecord-enhancedsqlite3-adapter)|ActiveRecord adapter for SQLite that enhances the default. Back-ports generated column support, deferred foreign key support, custom foreign key support, improved default configuration, and adds suppo ...|33|2024-02-01|2023-09-28|
-|111|[robzolkos/rails-devcontainer](https://github.com/robzolkos/rails-devcontainer)|-|33|2024-01-07|2023-09-01|
+|110|[robzolkos/rails-devcontainer](https://github.com/robzolkos/rails-devcontainer)|-|34|2024-01-07|2023-09-01|
+|111|[fractaledmind/activerecord-enhancedsqlite3-adapter](https://github.com/fractaledmind/activerecord-enhancedsqlite3-adapter)|ActiveRecord adapter for SQLite that enhances the default. Back-ports generated column support, deferred foreign key support, custom foreign key support, improved default configuration, and adds suppo ...|33|2024-02-01|2023-09-28|
 |112|[cherryramatisdev/4noobs_tracker](https://github.com/cherryramatisdev/4noobs_tracker)|List all the issues from 4noobs|33|2023-10-01|2023-08-16|
 |113|[ftp27/fastlane-plugin-translate_gpt](https://github.com/ftp27/fastlane-plugin-translate_gpt)|A fastlane plugin that provides an action to translate text using OpenAI API.|33|2023-11-16|2023-04-23|
 |114|[hschne/data-dead-drop](https://github.com/hschne/data-dead-drop)|Simple, quick data sharing. For humans and machines 🤖|32|2024-02-02|2023-12-11|
-|115|[CentOS/centos-bootc](https://github.com/CentOS/centos-bootc)|Create and maintain base bootable container images from Fedora ELN and CentOS Stream packages|32|2024-02-03|2023-10-31|
+|115|[CentOS/centos-bootc](https://github.com/CentOS/centos-bootc)|Create and maintain base bootable container images from Fedora ELN and CentOS Stream packages|32|2024-02-04|2023-10-31|
 |116|[Shopify/worldwide](https://github.com/Shopify/worldwide)|A gem to assist with the internationalization and localization of ruby code|32|2024-02-03|2023-10-24|
 |117|[skryukov/skooma](https://github.com/skryukov/skooma)|Skooma is a Ruby library for validating API implementations against OpenAPI documents.|32|2024-01-21|2023-08-23|
 |118|[afomera/richer_text](https://github.com/afomera/richer_text)|RicherText is a Rich Text Editor based on TipTap for Ruby on Rails|31|2023-12-30|2023-07-28|
 |119|[viktorvsk/saltivka](https://github.com/viktorvsk/saltivka)|🇺🇦 Friendly Nostr Relay in Ruby with UI|31|2024-01-10|2023-07-05|
 |120|[fatkodima/job_enqueue_logger](https://github.com/fatkodima/job_enqueue_logger)|Log background jobs enqueued by your application (additionally with backtraces)|31|2023-11-08|2023-03-22|
 |121|[rubocop/rubocop-factory_bot](https://github.com/rubocop/rubocop-factory_bot)| Code style checking for factory_bot files |31|2024-01-08|2023-03-21|
-|122|[basecamp/turbo-8-morphing-demo](https://github.com/basecamp/turbo-8-morphing-demo)|-|30|2023-11-27|2023-11-25|
+|122|[basecamp/turbo-8-morphing-demo](https://github.com/basecamp/turbo-8-morphing-demo)|-|30|2024-02-04|2023-11-25|
 |123|[thiagobonfante/easyhooks](https://github.com/thiagobonfante/easyhooks)|-|30|2023-11-30|2023-11-05|
 |124|[rubymonolith/superview](https://github.com/rubymonolith/superview)|Create Rails applications entirely from Phlex components.|30|2024-02-02|2023-08-17|
 |125|[mame/all-ruby-quine](https://github.com/mame/all-ruby-quine)|A Quine that works with all release versions of CRuby, from Ruby 0.49 to Ruby 3.2.1|30|2023-12-21|2023-02-25|
-|126|[AndyObtiva/glimmer-dsl-web](https://github.com/AndyObtiva/glimmer-dsl-web)|Glimmer DSL for Web (Ruby in the Browser Web Frontend Framework)|29|2024-02-01|2023-07-30|
+|126|[AndyObtiva/glimmer-dsl-web](https://github.com/AndyObtiva/glimmer-dsl-web)|Glimmer DSL for Web (Ruby in the Browser Web Frontend Framework)|29|2024-02-04|2023-07-30|
 |127|[Approximated-Inc/rails-custom-domains-example](https://github.com/Approximated-Inc/rails-custom-domains-example)|An example repo for how to implement custom domains as a feature in a Ruby on Rails app|29|2023-11-27|2023-07-28|
 |128|[duytq94/flutter-ci-cd](https://github.com/duytq94/flutter-ci-cd)|-|29|2023-09-30|2023-05-20|
 |129|[fatkodima/sidekiq-expiring-jobs](https://github.com/fatkodima/sidekiq-expiring-jobs)|Expiring jobs support for Sidekiq|29|2024-01-14|2023-04-12|
@@ -168,15 +168,15 @@
 |161|[Acceis/unisec](https://github.com/Acceis/unisec)|Unicode Security Toolkit|21|2024-01-25|2023-07-21|
 |162|[camertron/onload](https://github.com/camertron/onload)|A preprocessor system for Ruby.|21|2023-11-10|2023-06-23|
 |163|[club-40/odin-pantry](https://github.com/club-40/odin-pantry)|A collaborative project exercise put together by and consisting of members from The Odin Project's Club-40 members. The main goal is to stretch our teamwork and collaboration muscles and build somethi ...|21|2024-01-31|2023-04-02|
-|164|[ankane/mittens](https://github.com/ankane/mittens)|Stemming for Ruby, powered by Snowball|21|2023-12-26|2023-03-21|
-|165|[loftwah/tech-101](https://github.com/loftwah/tech-101)|This GitHub repository is designed to provide resources and training materials for our development team's tech bootcamp.|21|2023-11-26|2023-02-07|
-|166|[NJUNLP/QAlign](https://github.com/NJUNLP/QAlign)|-|20|2024-01-23|2024-01-13|
-|167|[Envek/sidekiq-fair_tenant](https://github.com/Envek/sidekiq-fair_tenant)|Sidekiq middleware to re-route “greedy” clients’ jobs to slower queues|20|2024-01-12|2024-01-12|
-|168|[Purple-Stock/open-erp](https://github.com/Purple-Stock/open-erp)|ERP Open Source. Uma opção Open Source para o Bling ERP e Tiny ERP. Controle de estoque por QR Code, gerador de notas fiscais, financeiro, Business Inteligence(BI). Integrações com ecommerce e marketp ...|20|2024-02-02|2023-12-14|
-|169|[Shopify/event_stream_parser](https://github.com/Shopify/event_stream_parser)|A lightweight, fully spec-compliant parser for the event stream format.|20|2023-11-13|2023-10-13|
-|170|[fatkodima/rubocop-disable_syntax](https://github.com/fatkodima/rubocop-disable_syntax)|A RuboCop plugin that allows to disable some unfavorite ruby syntax, such as `unless`, safe navigation etc.|20|2023-10-13|2023-09-26|
-|171|[rubymonolith/nocheckout](https://github.com/rubymonolith/nocheckout)|Rails controllers for Stripe Checkout Sessions and Webhooks|20|2023-10-06|2023-09-08|
-|172|[cncf/gitdm](https://github.com/cncf/gitdm)|📜Fork for tracking CNCF projects|20|2024-02-03|2023-03-30|
+|164|[cncf/gitdm](https://github.com/cncf/gitdm)|📜Fork for tracking CNCF projects|21|2024-02-03|2023-03-30|
+|165|[ankane/mittens](https://github.com/ankane/mittens)|Stemming for Ruby, powered by Snowball|21|2023-12-26|2023-03-21|
+|166|[loftwah/tech-101](https://github.com/loftwah/tech-101)|This GitHub repository is designed to provide resources and training materials for our development team's tech bootcamp.|21|2023-11-26|2023-02-07|
+|167|[NJUNLP/QAlign](https://github.com/NJUNLP/QAlign)|-|20|2024-01-23|2024-01-13|
+|168|[Envek/sidekiq-fair_tenant](https://github.com/Envek/sidekiq-fair_tenant)|Sidekiq middleware to re-route “greedy” clients’ jobs to slower queues|20|2024-01-12|2024-01-12|
+|169|[Purple-Stock/open-erp](https://github.com/Purple-Stock/open-erp)|ERP Open Source. Uma opção Open Source para o Bling ERP e Tiny ERP. Controle de estoque por QR Code, gerador de notas fiscais, financeiro, Business Inteligence(BI). Integrações com ecommerce e marketp ...|20|2024-02-04|2023-12-14|
+|170|[Shopify/event_stream_parser](https://github.com/Shopify/event_stream_parser)|A lightweight, fully spec-compliant parser for the event stream format.|20|2023-11-13|2023-10-13|
+|171|[fatkodima/rubocop-disable_syntax](https://github.com/fatkodima/rubocop-disable_syntax)|A RuboCop plugin that allows to disable some unfavorite ruby syntax, such as `unless`, safe navigation etc.|20|2023-10-13|2023-09-26|
+|172|[rubymonolith/nocheckout](https://github.com/rubymonolith/nocheckout)|Rails controllers for Stripe Checkout Sessions and Webhooks|20|2023-10-06|2023-09-08|
 |173|[rootstrap/active_outbox](https://github.com/rootstrap/active_outbox)|A Transactional Outbox implementation for Rails and ActiveRecord|20|2024-01-31|2023-03-17|
 |174|[superbasicxyz/tenkit](https://github.com/superbasicxyz/tenkit)|A wrapper for Apple's WeatherKit API in Ruby|20|2024-02-03|2023-02-16|
 |175|[connerj70/ecomm](https://github.com/connerj70/ecomm)|-|19|2023-12-24|2023-12-23|
@@ -203,8 +203,8 @@
 |196|[alchaplinsky/hugging-face](https://github.com/alchaplinsky/hugging-face)|Ruby client for Hugging Face API|17|2024-01-30|2023-05-15|
 |197|[rubygems/bundler-compose](https://github.com/rubygems/bundler-compose)|A bundler plugin to allow composing new gems into an existing bundle|17|2024-01-17|2023-04-03|
 |198|[giganticode/run_bug_run](https://github.com/giganticode/run_bug_run)|The RunBugRun dataset of executable bugs|17|2023-08-24|2023-02-07|
-|199|[penguoir/active_cortex](https://github.com/penguoir/active_cortex)|Easily add AI-generated fields to your Rails models|16|2023-12-20|2023-10-29|
-|200|[joelmoss/inspectacular](https://github.com/joelmoss/inspectacular)|Custom inspection for your Ruby objects|16|2023-10-26|2023-10-26|
+|199|[gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai)|A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.|16|2024-01-13|2024-01-06|
+|200|[penguoir/active_cortex](https://github.com/penguoir/active_cortex)|Easily add AI-generated fields to your Rails models|16|2023-12-20|2023-10-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

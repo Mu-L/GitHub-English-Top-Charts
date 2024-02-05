@@ -1,39 +1,39 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)|基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0|5280|2024-01-27|2023-02-19|
-|2|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|4822|2024-01-27|2023-02-28|
-|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|2335|2024-02-01|2023-11-07|
-|4|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2217|2024-01-10|2023-05-04|
-|5|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2100|2024-02-02|2023-05-20|
-|6|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2087|2024-01-18|2023-05-18|
-|7|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |2048|2024-02-03|2023-11-22|
-|8|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1589|2024-02-03|2023-08-10|
-|9|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1553|2023-11-22|2023-04-20|
+|2|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|4828|2024-01-27|2023-02-28|
+|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|2426|2024-02-01|2023-11-07|
+|4|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2219|2024-01-10|2023-05-04|
+|5|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2114|2024-02-04|2023-05-20|
+|6|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2091|2024-01-18|2023-05-18|
+|7|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |2055|2024-02-03|2023-11-22|
+|8|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1589|2024-02-04|2023-08-10|
+|9|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1554|2023-11-22|2023-04-20|
 |10|[raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces)|A non-exhaustive list of details that make a good web interface.|1349|2023-09-07|2023-05-24|
-|11|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1347|2023-12-26|2023-04-23|
+|11|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1348|2023-12-26|2023-04-23|
 |12|[timqian/openprompt.co](https://github.com/timqian/openprompt.co)|Create. Use. Share. ChatGPT prompts|1113|2024-02-02|2023-03-22|
-|13|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1092|2024-01-28|2023-08-12|
-|14|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|989|2024-02-02|2023-12-31|
+|13|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1094|2024-01-28|2023-08-12|
+|14|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|994|2024-02-03|2023-12-31|
 |15|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|774|2024-01-13|2023-09-04|
-|16|[obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage)|I learn much better from text than from videos|729|2023-12-01|2023-03-09|
-|17|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|717|2024-01-31|2023-09-14|
+|16|[obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage)|I learn much better from text than from videos|730|2023-12-01|2023-03-09|
+|17|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|725|2024-01-31|2023-09-14|
 |18|[dotnet-easy/easy-dotnet](https://github.com/dotnet-easy/easy-dotnet)|A Simple Way to Learn. NET|666|2023-10-16|2023-04-11|
-|19|[neemspees/tragic-methods](https://github.com/neemspees/tragic-methods)|A collection of script depicting the strange quirks of programming languages.|628|2023-10-07|2023-03-08|
-|20|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|594|2024-01-25|2023-10-05|
-|21|[luguosong/programming-notes](https://github.com/luguosong/programming-notes)|Programming Learning Blog|397|2024-01-24|2023-05-17|
+|19|[neemspees/tragic-methods](https://github.com/neemspees/tragic-methods)|A collection of script depicting the strange quirks of programming languages.|629|2023-10-07|2023-03-08|
+|20|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|598|2024-01-25|2023-10-05|
+|21|[luguosong/programming-notes](https://github.com/luguosong/programming-notes)|Programming Learning Blog|397|2024-02-04|2023-05-17|
 |22|[Nevysha/Cozy-Nest](https://github.com/Nevysha/Cozy-Nest)|A collection of tweak to improve Auto1111 UI//UX|367|2024-01-30|2023-04-30|
 |23|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|347|2024-02-03|2023-08-16|
 |24|[ishwarrimal/frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps)|Everything required to crack frontend interview|319|2024-01-25|2023-05-31|
-|25|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|293|2024-01-05|2024-01-05|
-|26|[coatless/quarto-webr](https://github.com/coatless/quarto-webr)|Quarto Extension to Embed webR for HTML Documents, RevealJS, Websites, Blogs, and Books.|291|2024-02-03|2023-03-11|
+|25|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|296|2024-01-05|2024-01-05|
+|26|[coatless/quarto-webr](https://github.com/coatless/quarto-webr)|Quarto Extension to Embed webR for HTML Documents, RevealJS, Websites, Blogs, and Books.|291|2024-02-04|2023-03-11|
 |27|[kunjgit/GameZone](https://github.com/kunjgit/GameZone)|This open source repository contains collection of games build on basic tech stacks in web development  . Use your creativity and build your own game and contribute to the repository by making PR 🎮|272|2024-01-31|2023-05-07|
-|28|[fireship-io/sorting-algorithms](https://github.com/fireship-io/sorting-algorithms)|A collection of sorting algorithms implemented in JS|261|2023-09-10|2023-02-21|
-|29|[codrops/SlideshowAnimations](https://github.com/codrops/SlideshowAnimations)|A collection of ideas for slideshow animations.|260|2023-09-27|2023-09-27|
+|28|[codrops/SlideshowAnimations](https://github.com/codrops/SlideshowAnimations)|A collection of ideas for slideshow animations.|262|2023-09-27|2023-09-27|
+|29|[fireship-io/sorting-algorithms](https://github.com/fireship-io/sorting-algorithms)|A collection of sorting algorithms implemented in JS|261|2023-09-10|2023-02-21|
 |30|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|228|2024-01-25|2023-10-29|
 |31|[easychen/book-by-ai](https://github.com/easychen/book-by-ai)|Generate high-quality books with AI|214|2023-08-14|2023-08-10|
 |32|[CodeWithHarry/ultimate-js-course-youtube](https://github.com/CodeWithHarry/ultimate-js-course-youtube)|Source code for Ultimate JavaScript Course on YouTube|185|2023-09-23|2023-06-23|
