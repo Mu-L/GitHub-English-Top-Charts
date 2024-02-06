@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|3|2|2024-02-03|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6448|2|2024-01-04|
-|3|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|2|2024-01-07|
-|4|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|2|2024-01-07|
-|5|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|3|2|2024-02-03|
-|6|[RangLiu0706/RIS_ISAC_magazine](https://github.com/RangLiu0706/RIS_ISAC_magazine)|-|3|2|2024-02-03|
-|7|[RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|-|4|2|2024-02-03|
-|8|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |88|1|2023-12-04|
-|9|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |37|1|2024-01-21|
-|10|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2343|1|2024-01-15|
-|11|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|169|1|2024-02-04|
-|12|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|512|1|2023-12-30|
-|13|[Jayasurya-Marasani/Movie-Recommendation-System-using-SVD](https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD)|This repository implements Movie Recommendation System using SVD|37|1|2024-01-07|
-|14|[sunghoon031/SingleRotationAveraging_TLUD](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)|MATLAB code accompanying the paper "Robust Single Rotation Averaging Revisited"|3|1|2024-02-01|
-|15|[Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model)|This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.|37|1|2024-01-07|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6448|2|2024-01-04|
+|2|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|2|2024-01-07|
+|3|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|2|2024-01-07|
+|4|[RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|-|5|2|2024-02-03|
+|5|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |88|1|2023-12-04|
+|6|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|3|1|2024-02-03|
+|7|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |38|1|2024-01-21|
+|8|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2343|1|2024-01-15|
+|9|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|169|1|2024-02-04|
+|10|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|513|1|2024-02-05|
+|11|[Jayasurya-Marasani/Movie-Recommendation-System-using-SVD](https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD)|This repository implements Movie Recommendation System using SVD|38|1|2024-01-07|
+|12|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|3|1|2024-02-03|
+|13|[sunghoon031/SingleRotationAveraging_TLUD](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)|MATLAB code accompanying the paper "Robust Single Rotation Averaging Revisited"|4|1|2024-02-01|
+|14|[RangLiu0706/RIS_ISAC_magazine](https://github.com/RangLiu0706/RIS_ISAC_magazine)|-|3|1|2024-02-03|
+|15|[Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model)|This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.|38|1|2024-01-07|
 |16|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1318|1|2023-12-24|
 |17|[Luisrosario2604/Variational-computing-image-processing](https://github.com/Luisrosario2604/Variational-computing-image-processing)|Denoising, Impaiting & Deconvolution with matlab|4|0|2023-09-12|
 |18|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|9|0|2023-12-12|
@@ -65,7 +65,7 @@
 |58|[jorgecote/ANFIS_BP](https://github.com/jorgecote/ANFIS_BP)|Backpropagation algorithm in order to train an adaptive neuro-fuzzy inference system (ANFIS)|4|0|2023-12-14|
 |59|[lidelong8/Vegetation_Drought_Coupling_with_Optimal_Timescales-](https://github.com/lidelong8/Vegetation_Drought_Coupling_with_Optimal_Timescales-)|The codes to support the results in the paper entitled "Declining coupling between vegetation and drought over the past three decades"|4|0|2023-12-24|
 |60|[KhoiTruong23/Conventional-and-intelligent-PID-controllers-in-time-delaying-environments-with-load-disturbance-](https://github.com/KhoiTruong23/Conventional-and-intelligent-PID-controllers-in-time-delaying-environments-with-load-disturbance-)|-|4|0|2023-12-30|
-|61|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|3|0|2024-01-04|
+|61|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|3|0|2024-02-05|
 |62|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-01-03|
 |63|[realmsong504/pDOC](https://github.com/realmsong504/pDOC)|Prognostication of chronic disorders of consciousness using resting state fMRI and clinical characteristics|8|0|2023-11-14|
 |64|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|40|0|2023-12-07|
@@ -168,7 +168,7 @@
 |161|[denglingyun123/Multi-strategy-improved-slime-mould-algorithm](https://github.com/denglingyun123/Multi-strategy-improved-slime-mould-algorithm)|-|3|0|2023-10-29|
 |162|[MohammedAbuibaid/energy-efficient-mMIMO-design](https://github.com/MohammedAbuibaid/energy-efficient-mMIMO-design)|Simulation Package for Massive MIMO|4|0|2023-12-31|
 |163|[mnamias/PET_Harmonization_Toolbox](https://github.com/mnamias/PET_Harmonization_Toolbox)|Toolbox for quantitative harmonization in PET. This code is to accompany the paper "A novel approach for quantitative harmonization in PET" M Namías et al 2018 Phys. Med. Biol. 63 095019|4|0|2024-01-18|
-|164|[NagireddychandramouliReddy/OTFS](https://github.com/NagireddychandramouliReddy/OTFS)| Implemented a 2 X 2 MIMO OTFS system and analysed the performance metrics under channel fading conditions.|6|0|2023-12-05|
+|164|[NagireddychandramouliReddy/OTFS](https://github.com/NagireddychandramouliReddy/OTFS)| Implemented a 2 X 2 MIMO OTFS system and analysed the performance metrics under channel fading conditions.|7|0|2023-12-05|
 |165|[fardinghorbani/EEGsig](https://github.com/fardinghorbani/EEGsig)|EEGsig|4|0|2024-01-03|
 |166|[nickdisca/DG_code](https://github.com/nickdisca/DG_code)|Discontinuous Galerkin solver in cartesian and spherical geometry|6|0|2023-09-06|
 |167|[robomechanics/3d-terramechanics](https://github.com/robomechanics/3d-terramechanics)|-|3|0|2023-10-01|
@@ -194,7 +194,7 @@
 |187|[a280558071/OWF_RadialECSP](https://github.com/a280558071/OWF_RadialECSP)|Offshore Wind Farm Radial ECS Planning with some pratical concerns and case studies|6|0|2023-12-08|
 |188|[SayantanDutta95/De-QuIP-Denoising](https://github.com/SayantanDutta95/De-QuIP-Denoising)|Denoising by Quantum Interactive Patches|4|0|2024-01-24|
 |189|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|5|0|2023-11-22|
-|190|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2023-10-26|
+|190|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2024-02-05|
 |191|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |19|0|2024-01-30|
 |192|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|8|0|2024-01-14|
 |193|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|11|0|2024-01-19|
