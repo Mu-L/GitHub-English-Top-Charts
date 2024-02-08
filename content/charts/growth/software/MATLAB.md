@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6449|2|2024-01-04|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6450|2|2024-01-04|
 |2|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|2|2024-01-07|
 |3|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|2|2024-01-07|
 |4|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |88|1|2023-12-04|
 |5|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|3|1|2024-02-03|
-|6|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |38|1|2024-01-21|
-|7|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2343|1|2024-01-15|
-|8|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|169|1|2024-02-04|
+|6|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |39|1|2024-01-21|
+|7|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2344|1|2024-01-15|
+|8|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|169|1|2024-02-07|
 |9|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|513|1|2024-02-05|
-|10|[Jayasurya-Marasani/Movie-Recommendation-System-using-SVD](https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD)|This repository implements Movie Recommendation System using SVD|38|1|2024-01-07|
+|10|[Jayasurya-Marasani/Movie-Recommendation-System-using-SVD](https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD)|This repository implements Movie Recommendation System using SVD|39|1|2024-01-07|
 |11|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|3|1|2024-02-03|
 |12|[sunghoon031/SingleRotationAveraging_TLUD](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)|MATLAB code accompanying the paper "Robust Single Rotation Averaging Revisited"|4|1|2024-02-01|
 |13|[RangLiu0706/RIS_ISAC_magazine](https://github.com/RangLiu0706/RIS_ISAC_magazine)|-|3|1|2024-02-03|
-|14|[Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model)|This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.|38|1|2024-01-07|
+|14|[Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model)|This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.|39|1|2024-01-07|
 |15|[RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|-|5|1|2024-02-03|
 |16|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1318|1|2023-12-24|
 |17|[Luisrosario2604/Variational-computing-image-processing](https://github.com/Luisrosario2604/Variational-computing-image-processing)|Denoising, Impaiting & Deconvolution with matlab|4|0|2023-09-12|
@@ -37,7 +37,7 @@
 |30|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|30|0|2023-12-20|
 |31|[mad-stat/CPSC-001](https://github.com/mad-stat/CPSC-001)|-|4|0|2023-12-22|
 |32|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2023-09-16|
-|33|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2 and 3|21|0|2023-12-24|
+|33|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2 and 3|21|0|2024-02-06|
 |34|[HengLan/PlanarTrack](https://github.com/HengLan/PlanarTrack)|[ICCV 2023] PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking.|5|0|2023-08-26|
 |35|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|3|0|2024-01-04|
 |36|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|4|0|2023-12-26|
@@ -73,7 +73,7 @@
 |66|[yetianmed/subcortex](https://github.com/yetianmed/subcortex)|-|90|0|2023-11-04|
 |67|[jlh123465/Oled-Modeling](https://github.com/jlh123465/Oled-Modeling)|-|4|0|2023-10-15|
 |68|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|8|0|2024-01-04|
-|69|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|5|0|2023-12-19|
+|69|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|5|0|2024-02-07|
 |70|[aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)|A set of graph/networks analysis functions in Octave|91|0|2023-10-30|
 |71|[fluentverification/usu_stochastic_case_studies](https://github.com/fluentverification/usu_stochastic_case_studies)|Case-study models of stochastic systems, mainly using the PRISM language. Models focus on low-level computing applications and logic circuits.|3|0|2023-08-23|
 |72|[KIM-HANJOO/TOY-CFD-for-ground](https://github.com/KIM-HANJOO/TOY-CFD-for-ground)|simple imitation of CFD in MATLAB|3|0|2023-11-01|
@@ -81,7 +81,7 @@
 |74|[SongXiangyu27/SSIIFD_Hyperspectral-Anomaly-Detection](https://github.com/SongXiangyu27/SSIIFD_Hyperspectral-Anomaly-Detection)|This is a code set for hyperpsectral anomaly detection including the RX, PTA, CRD, iForest, SSIIFD, MFIFD etc.|19|0|2023-12-27|
 |75|[petersaj/AP_scripts_cortexlab](https://github.com/petersaj/AP_scripts_cortexlab)|Scripts written in Matteo Carandini/Kenneth Harris' lab|8|0|2024-02-01|
 |76|[siddharth130500/memRNN](https://github.com/siddharth130500/memRNN)|Long Short-Term Memory Implementation Exploiting Passive RRAM Crossbar Array|3|0|2023-08-25|
-|77|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|5|0|2023-11-17|
+|77|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|5|0|2024-02-07|
 |78|[DeepTransport/deep-tensor](https://github.com/DeepTransport/deep-tensor)|-|5|0|2023-10-26|
 |79|[vistalab/PRFmodel](https://github.com/vistalab/PRFmodel)|-|8|0|2024-01-25|
 |80|[basp-group/BUQO](https://github.com/basp-group/BUQO)|BUQO: Bayesian Uncertainty Quantification by Optimisation|4|0|2024-02-04|
@@ -92,7 +92,7 @@
 |85|[xieruijx/Carbon-Emission-Allocation](https://github.com/xieruijx/Carbon-Emission-Allocation)|-|3|0|2023-12-20|
 |86|[donghuix/Setup-E3SM-Mac](https://github.com/donghuix/Setup-E3SM-Mac)|-|4|0|2024-01-18|
 |87|[Mote3D/Mote3D_toolbox](https://github.com/Mote3D/Mote3D_toolbox)|Toolbox for particulate microstructure modelling|49|0|2023-10-08|
-|88|[gpeyre/InfiniteZoom](https://github.com/gpeyre/InfiniteZoom)|Code to generate an infinite zoom animation.|9|0|2023-11-09|
+|88|[gpeyre/InfiniteZoom](https://github.com/gpeyre/InfiniteZoom)|Code to generate an infinite zoom animation.|8|0|2023-11-09|
 |89|[mathworks/WordPress_Publishing_Tool](https://github.com/mathworks/WordPress_Publishing_Tool)|This MATLAB® App provides a fast and easy way for users to publish their MATLAB® live scripts as blog posts to their WordPress sites. What the users type in live script is what the users will see in W ...|14|0|2023-08-30|
 |90|[eepperly/Iterative-Sketching-Is-Stable](https://github.com/eepperly/Iterative-Sketching-Is-Stable)|-|4|0|2023-11-17|
 |91|[aicjanelia/LLSM](https://github.com/aicjanelia/LLSM)|Lattice Light-Sheet Microscope Pipeline|8|0|2023-09-25|
@@ -173,7 +173,7 @@
 |166|[nickdisca/DG_code](https://github.com/nickdisca/DG_code)|Discontinuous Galerkin solver in cartesian and spherical geometry|6|0|2023-09-06|
 |167|[robomechanics/3d-terramechanics](https://github.com/robomechanics/3d-terramechanics)|-|3|0|2023-10-01|
 |168|[C-H-Chien/Homotopy-Continuation-Tracker-on-GPU](https://github.com/C-H-Chien/Homotopy-Continuation-Tracker-on-GPU)|A GPU-HC solver for finding roots of a general polynomial system|13|0|2023-10-18|
-|169|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-02-05|
+|169|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-02-07|
 |170|[dplab/MechMet](https://github.com/dplab/MechMet)|MatLab code for computing mechanical metrics of polycrystals|6|0|2024-01-05|
 |171|[diBernardoGroup/SwarmSimPublic](https://github.com/diBernardoGroup/SwarmSimPublic)|Simulate swarms of mobile agents in 2D and 3D.|8|0|2023-09-11|
 |172|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|3|0|2024-01-06|
