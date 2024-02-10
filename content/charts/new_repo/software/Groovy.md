@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|54|2024-02-07|2023-04-10|
+|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|54|2024-02-08|2023-04-10|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|30|2024-01-05|2023-07-27|
-|3|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|22|2024-02-06|2024-01-19|
+|3|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|27|2024-02-08|2024-01-19|
 |4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-01-11|2023-04-05|
 |5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-02-06|2023-08-30|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|11|2023-10-17|2023-05-31|
-|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-05|2023-04-25|
+|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-09|2023-04-25|
 |8|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~4 horas|8|2024-01-26|2024-01-02|
 |9|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-05|2023-04-20|
 |10|[segment11/segment_kvrocks_controller](https://github.com/segment11/segment_kvrocks_controller)|This project is a command line tool as a controller for Apache Kvrocks, It also supports Redis cluster.|8|2023-09-06|2023-02-13|
@@ -33,37 +33,37 @@
 |26|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|3|2023-11-12|2023-11-08|
 |27|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|3|2023-11-02|2023-10-30|
 |28|[moqui/moqui-sso](https://github.com/moqui/moqui-sso)|Moqui Component for SSO authentication (OAuth, OIDC, and SAML)|3|2023-10-18|2023-10-18|
-|29|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|3|2023-11-20|2023-09-24|
+|29|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|3|2024-02-08|2023-09-24|
 |30|[JoaoGH/api2](https://github.com/JoaoGH/api2)|-|3|2023-09-01|2023-08-31|
 |31|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
 |32|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-27|2023-08-08|
 |33|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-02-07|2023-06-30|
-|34|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2024-01-24|2023-05-22|
-|35|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
-|36|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
-|37|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-01-31|2023-03-01|
-|38|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
-|39|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
-|40|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
-|41|[tselonis/workshift](https://github.com/tselonis/workshift)|Backend application for a workshift system.|2|2023-12-26|2023-12-26|
-|42|[jagedn/nf-datomic](https://github.com/jagedn/nf-datomic)|-|2|2023-12-17|2023-12-08|
-|43|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2024-01-05|2023-11-29|
-|44|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
-|45|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-24|2023-11-03|
-|46|[anniebowles/contextual-dates](https://github.com/anniebowles/contextual-dates)|-|2|2023-10-27|2023-10-27|
-|47|[ppazos/openehr-basic](https://github.com/ppazos/openehr-basic)|Sample openEHR application to learn design and development concepts|2|2023-10-31|2023-10-17|
-|48|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
-|49|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
-|50|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
-|51|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
-|52|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
-|53|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
-|54|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|2|2024-01-26|2023-08-08|
-|55|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
-|56|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|57|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-01-27|2023-07-07|
-|58|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
-|59|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|2|2024-01-08|2023-06-13|
+|34|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-01-08|2023-06-13|
+|35|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|3|2024-01-24|2023-05-22|
+|36|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
+|37|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
+|38|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-01-31|2023-03-01|
+|39|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
+|40|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
+|41|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
+|42|[tselonis/workshift](https://github.com/tselonis/workshift)|Backend application for a workshift system.|2|2023-12-26|2023-12-26|
+|43|[jagedn/nf-datomic](https://github.com/jagedn/nf-datomic)|-|2|2023-12-17|2023-12-08|
+|44|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2024-01-05|2023-11-29|
+|45|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
+|46|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-24|2023-11-03|
+|47|[anniebowles/contextual-dates](https://github.com/anniebowles/contextual-dates)|-|2|2023-10-27|2023-10-27|
+|48|[ppazos/openehr-basic](https://github.com/ppazos/openehr-basic)|Sample openEHR application to learn design and development concepts|2|2023-10-31|2023-10-17|
+|49|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
+|50|[epam/edp-ddm-jenkins-operator](https://github.com/epam/edp-ddm-jenkins-operator)|-|2|2023-10-03|2023-10-02|
+|51|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
+|52|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
+|53|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
+|54|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
+|55|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|2|2024-01-26|2023-08-08|
+|56|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
+|57|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
+|58|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-01-27|2023-07-07|
+|59|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
 |60|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
 |61|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
 |62|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
@@ -77,7 +77,6 @@
 |70|[wekeeroad/firstrep](https://github.com/wekeeroad/firstrep)|-|2|2023-08-22|2023-04-02|
 |71|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
 |72|[genomic-medicine-sweden/gms_16S](https://github.com/genomic-medicine-sweden/gms_16S)|A  pipeline based on EMU, a taxonomic profiler optimized for long 16S rRNA reads.|2|2023-09-21|2023-02-22|
-|73|[Taack/plm](https://github.com/Taack/plm)|Intranet PLM Module|2|2024-01-10|2023-02-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

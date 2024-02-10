@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|60|0|2024-02-04|
-|2|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|3|0|2024-02-08|
+|1|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|60|0|2024-02-09|
+|2|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|3|0|2024-02-09|
 |3|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|0|2023-09-03|
 |4|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|9|0|2023-09-08|
 |5|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|0|2024-01-23|
 |6|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|0|2024-01-06|
-|7|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2024-02-04|
+|7|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2024-02-09|
 |8|[normaluser/shooter-2D](https://github.com/normaluser/shooter-2D)|2D shooter - Pascal tutorial using SDL2|3|0|2023-08-30|
 |9|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|0|2024-01-02|
 |10|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|0|2024-01-14|
@@ -19,7 +19,7 @@
 |12|[neslib/Neslib](https://github.com/neslib/Neslib)|Delphi utilities shared with other Neslib repositories|34|0|2023-10-23|
 |13|[jkour/Motif](https://github.com/jkour/Motif)|Motif is a flexible way to manage patterns that generate unique results in cases where there are many sub-cases with additional sub-cases|2|0|2023-09-20|
 |14|[michaelJustin/indy-snippets](https://github.com/michaelJustin/indy-snippets)|Code examples for Internet Direct (Indy)|5|0|2023-08-27|
-|15|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|159|0|2024-01-25|
+|15|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|160|0|2024-01-25|
 |16|[r57zone/Home-Library](https://github.com/r57zone/Home-Library)|Catalog for movies, tv shows, games and books / Каталог для фильмов, сериалов, игр и книг|13|0|2023-09-12|
 |17|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|0|2023-11-21|
 |18|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|18|0|2024-01-22|
@@ -35,13 +35,13 @@
 |28|[MuminjonGuru/Object-Pascal-Mastering](https://github.com/MuminjonGuru/Object-Pascal-Mastering)|These are not just simple 🧩Algorithms🧩. I also add interesting Academic concepts into it. Check this out.|26|0|2023-11-18|
 |29|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-01-05|
 |30|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|9|0|2023-11-17|
-|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1689|0|2024-02-05|
+|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1690|0|2024-02-05|
 |32|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2023-10-27|
 |33|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|0|2023-11-04|
 |34|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|0|2023-09-09|
 |35|[gladir/MonsterBook](https://github.com/gladir/MonsterBook)|MonsterBook (L'oeuvre inhumaine) écrit en Borland Pascal de 1991 à 2007|10|0|2024-01-18|
 |36|[geoffsmith82/GmailAuthSMTP](https://github.com/geoffsmith82/GmailAuthSMTP)|This project is a very basic demo showing how to authenticate with OAUTH2 and send an email message for gmail, microsoft/office365 as well as hotmail.com/outlook.com/live.com email addresses. |80|0|2023-08-31|
-|37|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|98|0|2024-02-07|
+|37|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|98|0|2024-02-09|
 |38|[Hs32-Idir/x86-Exe-Crypter](https://github.com/Hs32-Idir/x86-Exe-Crypter)|Delphi open source show you how to code an Executable 32bit crypter with a simple Xor encryption.|2|0|2023-09-20|
 |39|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|136|0|2023-12-14|
 |40|[almeswe/univ-projs](https://github.com/almeswe/univ-projs)|All course projects & labs that i did during my education.|2|0|2023-12-15|
