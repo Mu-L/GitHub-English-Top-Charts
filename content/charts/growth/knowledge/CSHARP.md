@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > C#
-<sub>Updated: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|174|58|2024-02-10|
-|2|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|251|19|2024-02-10|
-|3|[coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)|An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic ...|10719|10|2024-01-11|
-|4|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.|13314|8|2023-12-28|
-|5|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|26788|7|2024-02-06|
-|6|[thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)|:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software|18885|7|2024-02-06|
-|7|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|862|5|2024-02-10|
-|8|[Kareadita/Kavita](https://github.com/Kareadita/Kavita)|Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you ...|4578|4|2024-02-10|
-|9|[CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet)|.NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par ...|2603|3|2024-01-20|
-|10|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|4524|3|2023-12-04|
-|11|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|67|3|2024-02-06|
-|12|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|6131|2|2024-02-05|
-|13|[zalo/MathUtilities](https://github.com/zalo/MathUtilities)|A collection of some of the neat math and physics tricks that I've collected over the last few years.|4001|2|2023-12-15|
-|14|[Matthew-J-Spencer/Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)|A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc|1630|2|2023-10-08|
-|15|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4702|2|2024-02-03|
+|1|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|206|52|2024-02-10|
+|2|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|253|18|2024-02-11|
+|3|[coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)|An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic ...|10720|10|2024-01-11|
+|4|[rocksdanister/lively](https://github.com/rocksdanister/lively)|Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.|13315|8|2023-12-28|
+|5|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|26792|7|2024-02-11|
+|6|[thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)|:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software|18893|7|2024-02-06|
+|7|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|862|5|2024-02-11|
+|8|[Kareadita/Kavita](https://github.com/Kareadita/Kavita)|Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you ...|4583|4|2024-02-10|
+|9|[CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet)|.NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par ...|2604|3|2024-01-20|
+|10|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|4525|3|2023-12-04|
+|11|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|68|3|2024-02-06|
+|12|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|6132|2|2024-02-11|
+|13|[zalo/MathUtilities](https://github.com/zalo/MathUtilities)|A collection of some of the neat math and physics tricks that I've collected over the last few years.|4002|2|2023-12-15|
+|14|[Matthew-J-Spencer/Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)|A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc|1631|2|2023-10-08|
+|15|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4704|2|2024-02-03|
 |16|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|51|2|2024-01-14|
-|17|[wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)|GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies|2397|2|2023-12-21|
-|18|[Unity-Technologies/game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo)|A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns"|1229|2|2024-01-09|
-|19|[Readarr/Readarr](https://github.com/Readarr/Readarr)|Book Manager and Automation (Sonarr for Ebooks)|2381|2|2024-02-07|
-|20|[Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)|Implementations of programming design patterns in Unity with examples in C# when to use them.|1750|1|2023-08-15|
+|17|[wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)|GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies|2398|2|2023-12-21|
+|18|[Unity-Technologies/game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo)|A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns"|1231|2|2024-01-09|
+|19|[Readarr/Readarr](https://github.com/Readarr/Readarr)|Book Manager and Automation (Sonarr for Ebooks)|2385|2|2024-02-11|
+|20|[Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)|Implementations of programming design patterns in Unity with examples in C# when to use them.|1751|1|2023-08-15|
 |21|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|868|1|2024-01-31|
 |22|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |229|1|2024-01-04|
 |23|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|73|1|2023-12-28|
@@ -33,41 +33,41 @@
 |26|[Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)|This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio ...|4919|1|2024-02-10|
 |27|[CharlieDigital/dn8-modular-monolith](https://github.com/CharlieDigital/dn8-modular-monolith)|A practical example of how to build modular monoliths ("momo") with .NET 8|24|1|2024-01-15|
 |28|[imalearningplace-education/SharpCoders-2](https://github.com/imalearningplace-education/SharpCoders-2)|Turma SharpCoders 2 🚀 - Bootcamp Fullstack na Ímã Learning Place  Topics react javascript typescript |29|1|2024-01-25|
-|29|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|129|1|2024-01-04|
+|29|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|130|1|2024-01-04|
 |30|[chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)|A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.|964|1|2024-01-04|
-|31|[hbons/SparkleShare](https://github.com/hbons/SparkleShare)|Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.|4844|1|2024-01-02|
+|31|[hbons/SparkleShare](https://github.com/hbons/SparkleShare)|Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.|4845|1|2024-01-02|
 |32|[markjprice/cs10dotnet6](https://github.com/markjprice/cs10dotnet6)|Repository for the Packt Publishing book titled "C# 10 and .NET 6 - Modern Cross-Platform Development" by Mark J. Price|818|1|2024-01-26|
 |33|[abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)|Project : Design Patterns Examples in C#|2321|1|2024-01-10|
 |34|[markjprice/cs11dotnet7](https://github.com/markjprice/cs11dotnet7)|Repository for the Packt Publishing book titled "C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals" by Mark J. Price|555|1|2024-01-26|
-|35|[silahian/VisualHFT](https://github.com/silahian/VisualHFT)|VisualHFT is a cutting-edge GUI platform for market analysis, focusing on real-time visualization of market microstructure. Built with WPF & C#, it displays key metrics like Limit Order Book dynamics  ...|601|1|2024-01-25|
-|36|[markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8)|Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price|275|1|2024-02-10|
-|37|[Unity-Technologies/2d-extras](https://github.com/Unity-Technologies/2d-extras)|Fun 2D Stuff that we'd like to share!|1486|1|2023-10-03|
-|38|[oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)|Examples and Tutorials of Event Sourcing in .NET|3165|1|2024-02-06|
+|35|[silahian/VisualHFT](https://github.com/silahian/VisualHFT)|VisualHFT is a cutting-edge GUI platform for market analysis, focusing on real-time visualization of market microstructure. Built with WPF & C#, it displays key metrics like Limit Order Book dynamics  ...|602|1|2024-01-25|
+|36|[markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8)|Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price|279|1|2024-02-10|
+|37|[Unity-Technologies/2d-extras](https://github.com/Unity-Technologies/2d-extras)|Fun 2D Stuff that we'd like to share!|1487|1|2023-10-03|
+|38|[oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)|Examples and Tutorials of Event Sourcing in .NET|3167|1|2024-02-06|
 |39|[OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver)|This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the s ...|909|1|2024-02-09|
 |40|[davidfowl/IdentityEndpointsSample](https://github.com/davidfowl/IdentityEndpointsSample)|A sample showing how to setup ASP.NET Core Identity API endpoints for authentication|143|1|2023-09-18|
 |41|[microsoft/infersharp](https://github.com/microsoft/infersharp)|Infer# is an interprocedural and scalable static code analyzer for C#. Via the capabilities of Facebook's Infer, this tool detects null dereferences, resource leaks, and thread-safety violations. It a ...|718|1|2024-01-16|
 |42|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|166|1|2024-02-01|
-|43|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|2211|1|2023-11-02|
-|44|[hitchao/Jvedio](https://github.com/hitchao/Jvedio)|Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件|2077|1|2023-12-18|
-|45|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|208|1|2023-10-31|
+|43|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|2213|1|2023-11-02|
+|44|[hitchao/Jvedio](https://github.com/hitchao/Jvedio)|Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件|2081|1|2023-12-18|
+|45|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|209|1|2023-10-31|
 |46|[Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)|Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.|1802|1|2023-12-12|
-|47|[Delt06/toon-rp](https://github.com/Delt06/toon-rp)|🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.|277|1|2024-02-03|
-|48|[recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)|Automatically sync TRaSH Guides to your Sonarr and Radarr instances|772|1|2024-01-29|
-|49|[CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides)|The main repository for all the Code Maze guides|686|1|2024-02-10|
+|47|[Delt06/toon-rp](https://github.com/Delt06/toon-rp)|🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.|279|1|2024-02-03|
+|48|[recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)|Automatically sync TRaSH Guides to your Sonarr and Radarr instances|773|1|2024-01-29|
+|49|[CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides)|The main repository for all the Code Maze guides|686|1|2024-02-11|
 |50|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|211|1|2023-12-09|
-|51|[pixeltris/YgoMaster](https://github.com/pixeltris/YgoMaster)|Offline Yu-Gi-Oh! Master Duel|634|1|2024-02-03|
-|52|[UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)|:books: Library of all kind of scripts, snippets & shaders for Unity|3474|1|2023-10-19|
-|53|[meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)|A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native|940|1|2023-11-21|
-|54|[dotnet/sdk](https://github.com/dotnet/sdk)|Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI|2472|1|2024-02-10|
-|55|[hirschmann/nbfc](https://github.com/hirschmann/nbfc)|NoteBook FanControl|2702|1|2023-12-12|
+|51|[pixeltris/YgoMaster](https://github.com/pixeltris/YgoMaster)|Offline Yu-Gi-Oh! Master Duel|638|1|2024-02-03|
+|52|[UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)|:books: Library of all kind of scripts, snippets & shaders for Unity|3475|1|2023-10-19|
+|53|[meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)|A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native|943|1|2023-11-21|
+|54|[dotnet/sdk](https://github.com/dotnet/sdk)|Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI|2472|1|2024-02-11|
+|55|[hirschmann/nbfc](https://github.com/hirschmann/nbfc)|NoteBook FanControl|2704|1|2023-12-12|
 |56|[microsoft/CDM](https://github.com/microsoft/CDM)|The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to fa ...|1611|1|2023-12-29|
-|57|[nearby-sharing/android](https://github.com/nearby-sharing/android)|Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)|487|1|2024-02-09|
+|57|[nearby-sharing/android](https://github.com/nearby-sharing/android)|Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)|496|1|2024-02-09|
 |58|[lwwhb/RoadToDotsTutorials](https://github.com/lwwhb/RoadToDotsTutorials)|Road to dots tutorials|260|1|2023-11-04|
 |59|[Unity-Technologies/Classic-Sponza](https://github.com/Unity-Technologies/Classic-Sponza)|Unity remaster of the classic Sponza scene. |249|1|2024-01-22|
-|60|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|270|1|2024-02-09|
+|60|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|273|1|2024-02-09|
 |61|[Bardin08/dotnet-roadmap](https://github.com/Bardin08/dotnet-roadmap)|A beginner-friendly guide offering structured learning paths in .NET and fundamental algorithms. Features resources, exercises, and projects, ideal for new and refreshing developers to master essentia ...|29|1|2024-01-02|
 |62|[gradientspace/geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)|C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.|1612|1|2023-11-15|
-|63|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|3187|1|2024-02-01|
+|63|[AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)|AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha ...|3186|1|2024-02-01|
 |64|[herbou/Unity_ExpandableUIAnim](https://github.com/herbou/Unity_ExpandableUIAnim)|Make expandable UI using DoTween animation . video tutorial: https://youtu.be/Rko64-LQd9s|24|0|2023-09-09|
 |65|[MicrosoftDocs/mslearn-publish-manage-apis-with-azure-api-management](https://github.com/MicrosoftDocs/mslearn-publish-manage-apis-with-azure-api-management)|Sample code for MS Learn module|22|0|2023-10-06|
 |66|[phuocle/Dynamics-Crm-DevKit](https://github.com/phuocle/Dynamics-Crm-DevKit)|A collection of projects and items template for develop Dynamics 365 Crm|62|0|2024-01-23|
@@ -77,134 +77,134 @@
 |70|[xuanye/dotbpe](https://github.com/xuanye/dotbpe)|dotbpe rpc is a lightweight and high performance, easy to learn rpc framework|20|0|2023-10-09|
 |71|[eXoCooLd/Waveshare.EPaperDisplay](https://github.com/eXoCooLd/Waveshare.EPaperDisplay)|.Net Core Library to show images on Waveshare E-Paper Displays|28|0|2023-09-21|
 |72|[hagronnestad/retro-computing](https://github.com/hagronnestad/retro-computing)|🤓🕹💾 This hobby project contains software implementations of old microprocessors and complete computer systems. I'm very interested in retrocomputing and this is how I learn about the inner workings of ...|22|0|2023-10-15|
-|73|[Zerg00s/productivity-tools](https://github.com/Zerg00s/productivity-tools)|List of popular productivity tools for SharePoint|37|0|2023-08-12|
-|74|[garyan2/epg123](https://github.com/garyan2/epg123)|Media Center Electronic Program Guide in 1-2-3|23|0|2023-12-23|
-|75|[Balint-H/mj-unity-tutorial](https://github.com/Balint-H/mj-unity-tutorial)|Introductory set of tutorials for using the Unity plugin of MuJoCo with the ML-Agents framework.|21|0|2023-11-13|
-|76|[Yvand/LDAPCP](https://github.com/Yvand/LDAPCP)|This claims provider connects SharePoint Subscription / 2019 / 2016 / 2013 with Active Directory and LDAP servers to improve the experience when authentication is federated with ADFS|56|0|2024-02-09|
-|77|[graphql-dotnet/examples](https://github.com/graphql-dotnet/examples)|Examples for GraphQL.NET|261|0|2023-11-10|
-|78|[acnicholas/scaddins](https://github.com/acnicholas/scaddins)|A collection of Revit Add-ins.|29|0|2023-12-10|
-|79|[sixeyed/diamol](https://github.com/sixeyed/diamol)|Code samples for the book "Learn Docker in a Month of Lunches"|478|0|2023-12-18|
-|80|[markulie/Algorithms-CSharp](https://github.com/markulie/Algorithms-CSharp)|C# Algorithms for beginners|20|0|2023-08-31|
-|81|[Evulpes/Remap-Memory-Region](https://github.com/Evulpes/Remap-Memory-Region)|Basic example of how to change the initial rights on a memory region during runtime.|34|0|2023-10-30|
-|82|[plbonneville/RazorInteractive](https://github.com/plbonneville/RazorInteractive)|.NET Interactive Notebooks Razor Extension|25|0|2024-01-05|
-|83|[Co-de-iT/froGH](https://github.com/Co-de-iT/froGH)|Ah... that should have been "for GH" but we're so lazy that we misspelled and didn't bother correcting.... Anyway, here's a collection of mixed-purpose user objects for Grasshopper - given "as is" (no ...|38|0|2023-12-30|
-|84|[careercup/CtCI-6th-Edition-CSharp](https://github.com/careercup/CtCI-6th-Edition-CSharp)|Cracking the Coding Interview 6th Ed. Solutions (C# Port)|317|0|2023-08-17|
-|85|[DevExpress-Examples/maui-data-grid](https://github.com/DevExpress-Examples/maui-data-grid)|Samples in this repository demonstrate how to get started with the DataGridView component and how to use its features.|36|0|2023-12-14|
-|86|[MassTransit/Sample-JobConsumers](https://github.com/MassTransit/Sample-JobConsumers)|Sample showing how to use job consumers with RabbitMQ, EF Core, and Postgres|31|0|2023-08-16|
-|87|[kinsi55/BeatSaber_Tweaks55](https://github.com/kinsi55/BeatSaber_Tweaks55)|A collection of various tweaks which by themselves are too simple for their own designated mods|28|0|2023-12-13|
-|88|[zigurous/unity-snake-tutorial](https://github.com/zigurous/unity-snake-tutorial)|🐍🍎 Learn to make Snake in Unity.|63|0|2023-11-12|
-|89|[danielshervheim/unity-image-effects](https://github.com/danielshervheim/unity-image-effects)|A collection of image effects for Unity.|53|0|2023-11-26|
-|90|[andrewlock/asp-dot-net-core-in-action-3e](https://github.com/andrewlock/asp-dot-net-core-in-action-3e)|Source code examples for ASP.NET Core in Action, Third Edition|88|0|2023-08-31|
-|91|[sadomovalex/camlex](https://github.com/sadomovalex/camlex)|Camlex simplifies creation of CAML queries for SharePoint (2007, 2010, 2013, 2016, 2019, Online) by using expression trees and lambda expressions|54|0|2023-10-11|
-|92|[petergolde/PurplePen](https://github.com/petergolde/PurplePen)|Purple Pen course setting program for orienteering|56|0|2024-01-04|
-|93|[MonacsLib/Monacs](https://github.com/MonacsLib/Monacs)|Monacs - Collection of basic monads and functional extensions for C#|65|0|2023-11-15|
-|94|[AutomateThePlanet/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Edition](https://github.com/AutomateThePlanet/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Edition)|Source code and examples from the book Design Patterns for High-Quality Automated Tests, C# Edition|52|0|2023-12-15|
-|95|[bkoelman/CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer)|Reports diagnostics for C# coding guidelines that are not already covered by Resharper.|120|0|2024-02-06|
-|96|[Fcakiroglu16/UdemyMicroservicesWithDesignPatterns](https://github.com/Fcakiroglu16/UdemyMicroservicesWithDesignPatterns)|Udemy   .Net 5.0 ile Microservice Design Patterns|24|0|2023-12-14|
-|97|[KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor)|A smorgasbord of modern .NET tech written with functional and asynchronous patterns|116|0|2024-01-22|
-|98|[microsoftgraph/msgraph-sample-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-sample-azurefunction-csharp)|This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Azure Functions.|39|0|2024-01-08|
-|99|[ssg/HashDepot](https://github.com/ssg/HashDepot)|.NET library for xxHash, FNV, MurmurHash3 and SipHash algorithms|125|0|2023-09-01|
-|100|[Reava/UwUtils](https://github.com/Reava/UwUtils)|A collection of -almost- niche UdonSharp scripts as an (almost) all in one Toolkit for world creators|38|0|2023-11-27|
-|101|[Per-Morten/master_project](https://github.com/Per-Morten/master_project)|Implementation of master_thesis project to stream IFC files from disk|26|0|2023-11-26|
-|102|[ChrisDill/Raylib-cs-Examples](https://github.com/ChrisDill/Raylib-cs-Examples)|Examples for Raylib-cs, a simple and easy-to-use library to learn videogames programming|95|0|2023-09-28|
-|103|[PrismLibrary/Prism-Samples-Wpf](https://github.com/PrismLibrary/Prism-Samples-Wpf)|Samples that demonstrate how to use various Prism features with WPF|1486|0|2023-12-16|
-|104|[mikeroyal/Unity-Guide](https://github.com/mikeroyal/Unity-Guide)|Unity Engine Guide|32|0|2024-01-04|
-|105|[luxonis/depthai-unity](https://github.com/luxonis/depthai-unity)|DepthAI Unity Library, Unity projects and examples (OAK For Unity)|189|0|2024-01-29|
-|106|[Varneon/VUdon-ArrayExtensions](https://github.com/Varneon/VUdon-ArrayExtensions)|Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>|20|0|2023-10-07|
-|107|[aspnetrun/run-devops](https://github.com/aspnetrun/run-devops)|Deploying .Net Microservices into Kubernetes, and moving deployments to the cloud Azure Kubernetes Services (AKS) with using Azure Container Registry (ACR) and how to Automating Deployments with Azure ...|70|0|2024-02-05|
-|108|[Brackeys/Portal-In-Unity](https://github.com/Brackeys/Portal-In-Unity)|The project files from my tutorial on creating a Smooth Portal effect in Unity.|158|0|2023-08-18|
-|109|[AzureCosmosDB/CosmicWorks](https://github.com/AzureCosmosDB/CosmicWorks)|How to model and partition data for Cosmos DB starting with the Adventure Works database.|71|0|2024-01-23|
-|110|[maxim-zhao/bmp2tile](https://github.com/maxim-zhao/bmp2tile)|Converts images to Master System data formats|39|0|2023-09-24|
-|111|[Invvard/EZLayoutDisplay](https://github.com/Invvard/EZLayoutDisplay)|Learn your custom layout quickly and easily by displaying your ErgoDox layout right from your desktop !|104|0|2023-11-25|
-|112|[udotdevelopment/ATSPM](https://github.com/udotdevelopment/ATSPM)|Automated Traffic Signal Performance Measures (ATSPM) are a series of visual aids that display the high-resolution data from signal controllers. They are a valuable asset management tool, aiding perso ...|70|0|2024-01-15|
-|113|[ORelio/Sound-Manager](https://github.com/ORelio/Sound-Manager)|Manage and share Windows sound schemes.|32|0|2024-01-05|
-|114|[xzippyzachx/UnityFirebaseDatabaseTutorial](https://github.com/xzippyzachx/UnityFirebaseDatabaseTutorial)|These are the example projects used for a YouTube tutorial on the Firebase realtime database in unity |30|0|2023-08-27|
-|115|[zigurous/unity-space-invaders-tutorial](https://github.com/zigurous/unity-space-invaders-tutorial)|👾🛸 Learn to make Space Invaders in Unity.|25|0|2023-11-12|
-|116|[better-reports/QuickBooksSharp](https://github.com/better-reports/QuickBooksSharp)|.NET client for QuickBooks Online API|25|0|2023-08-25|
-|117|[jakobbotsch/Fuzzlyn](https://github.com/jakobbotsch/Fuzzlyn)|Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University.|236|0|2024-01-18|
-|118|[Chris3606/GoRogue](https://github.com/Chris3606/GoRogue)|.NET Standard roguelike library in C#.  Features many algorithms and data structures pertinent to roguelike/2D game developers, specifically designed to be minimally intrusive upon the developer's arc ...|477|0|2024-02-04|
-|119|[ardalis/Ardalis.SharedKernel](https://github.com/ardalis/Ardalis.SharedKernel)|Some useful base classes, mainly used with the CleanArchitecture template. Also, a template to make your own SharedKernel nuget package.|42|0|2023-11-10|
-|120|[ivandrofly/DoFactorydotNetDesignPattern](https://github.com/ivandrofly/DoFactorydotNetDesignPattern)|http://www.dofactory.com/net/design-patterns|23|0|2023-08-14|
-|121|[UmbraSpaceIndustries/USITools](https://github.com/UmbraSpaceIndustries/USITools)|Shared components for KSP mods|38|0|2023-08-25|
-|122|[Markcreator/Unity-Tools](https://github.com/Markcreator/Unity-Tools)|A collection of useful tools for Unity|27|0|2023-10-29|
-|123|[techgems/Vite.NET](https://github.com/techgems/Vite.NET)|A sample of how to integrate Vite, HMR and Razor Pages for a more integrated experience.|54|0|2023-11-12|
-|124|[alexjhetherington/FootnoteUtilities](https://github.com/alexjhetherington/FootnoteUtilities)|A collection of common and useful Unity C# scripts to help you create projects quicker|69|0|2023-11-29|
-|125|[Haselnussbomber/HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)|A collection of quality of life tweaks and more.|47|0|2024-01-31|
-|126|[dfkeenan/SilkVulkanTutorial](https://github.com/dfkeenan/SilkVulkanTutorial)|C# Silk.NET port of the Vulkan tutorial by Alexander Overvoorde. |94|0|2023-12-09|
-|127|[zigurous/unity-pong-tutorial](https://github.com/zigurous/unity-pong-tutorial)|🏓💥 Learn to make Pong in Unity.|32|0|2023-11-12|
-|128|[comsmobiler/SmobilerTutorials](https://github.com/comsmobiler/SmobilerTutorials)|SmobilerTutorials|36|0|2023-12-19|
-|129|[KARPED1EM/TownOfNext](https://github.com/KARPED1EM/TownOfNext)|An AmongUs mod with learning & love|54|0|2024-02-03|
-|130|[microsoft/Federal-App-Innovation-Community](https://github.com/microsoft/Federal-App-Innovation-Community)|This repo contains samples, demos, and patterns to enable Cloud-Native solutions on Azure Cloud & Azure Government |29|0|2023-10-07|
-|131|[microsoft/prose](https://github.com/microsoft/prose)|Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Mi ...|608|0|2024-01-26|
-|132|[Mastercard/client-encryption-csharp](https://github.com/Mastercard/client-encryption-csharp)|Library for Mastercard API compliant payload encryption/decryption.|20|0|2024-01-19|
-|133|[ahmedayman4a/Linkedin-Learning-Courses-Downloader](https://github.com/ahmedayman4a/Linkedin-Learning-Courses-Downloader)|Download LinkedIn Learning Courses in mp4 format and in the video quality you like with an intuitive UI|346|0|2023-12-22|
-|134|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|69|0|2024-02-03|
-|135|[TWC-Software/DaemonMaster](https://github.com/TWC-Software/DaemonMaster)|Daemon Master is a software which makes it possible to create a service from any program (ALPHA)|62|0|2024-01-01|
-|136|[sebas77/Svelto.Common](https://github.com/sebas77/Svelto.Common)|Shared code between the Svelto repositories|36|0|2024-01-07|
-|137|[ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)|Samples associated with Pluralsight design patterns in c# courses.|504|0|2023-12-10|
-|138|[OfficeDev/Excel-IO](https://github.com/OfficeDev/Excel-IO)|A utility library that makes it easy to read and write Excel workbooks using C#|61|0|2024-02-02|
-|139|[jaerith/ONIX-Data](https://github.com/jaerith/ONIX-Data)|This solution is a C# library that serves to provide .NET data structures for the ONIX XML format, which is the international standard for representing electronic data regarding books (along with othe ...|22|0|2023-11-27|
-|140|[SingletonSean/wpf-tutorials](https://github.com/SingletonSean/wpf-tutorials)|Source code for SingletonSean WPF tutorials on YouTube.|343|0|2023-09-19|
-|141|[adrianoc/cecilifier](https://github.com/adrianoc/cecilifier)|A tool aiming to make it a little bit easier to learn Mono.Cecil|74|0|2024-02-05|
-|142|[PanKunik/buber-dinner](https://github.com/PanKunik/buber-dinner)|This repository follows Amichai Mantinband course on REST API DDD CLEAN ARCHITECTURE.|70|0|2023-10-03|
-|143|[KevinDockx/CSharp10DesignPatterns](https://github.com/KevinDockx/CSharp10DesignPatterns)|Fully functioning sample code for my C#10 Design Patterns course|138|0|2023-10-17|
-|144|[unosquare/swan](https://github.com/unosquare/swan)|Swan stands for Stuff We All Need. Unosquare's collection of C# extension methods and classes.|258|0|2024-02-08|
-|145|[AcChosen/VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)|A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways ...|295|0|2024-02-09|
-|146|[GoogleCloudPlatform/eventarc-samples](https://github.com/GoogleCloudPlatform/eventarc-samples)|This repository contains a collection of samples for Eventarc for various use cases.|66|0|2024-02-04|
-|147|[discosultan/dx12-game-programming](https://github.com/discosultan/dx12-game-programming)|DirectX 12 C# samples from Frank D. Luna's book "Introduction to 3D Game Programming with Direct3D 12.0"|247|0|2023-10-13|
-|148|[amitxv/limit-nvpstate](https://github.com/amitxv/limit-nvpstate)|Limit P-States on NVIDIA GPUs when a user-defined list of processes are not running to reduce power consumption|28|0|2024-01-11|
-|149|[vvvv/VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs)|A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui|27|0|2024-01-24|
-|150|[beardgame/utilities](https://github.com/beardgame/utilities)|General C# (game) utilities library, containing a variety of useful types and algorithms|27|0|2024-01-16|
-|151|[WOA-Project/Lumia-Drivers](https://github.com/WOA-Project/Lumia-Drivers)|Collection of driver binaries for Lumia devices|176|0|2024-01-04|
-|152|[MicrosoftDocs/mslearn-microservices-devops-aspnet-core](https://github.com/MicrosoftDocs/mslearn-microservices-devops-aspnet-core)|Sample code for Microsoft Learn module microservices-devops-aspnet-core|24|0|2023-12-12|
-|153|[syncfusion/wpf-demos](https://github.com/syncfusion/wpf-demos)|This repository contains the samples for Syncfusion WPF UI Controls and File Format libraries and the guide to use them.|233|0|2024-02-08|
-|154|[coinbump/PhaseJumpPro](https://github.com/coinbump/PhaseJumpPro)|Game Design Patterns for Unity, C++ and (eventually Godot)|47|0|2023-12-31|
-|155|[tpeczek/Demo.AspNetCore.MicroFrontendsInAction](https://github.com/tpeczek/Demo.AspNetCore.MicroFrontendsInAction)|Samples from the book Micro Frontends in Action implemented with ASP.NET Core|47|0|2024-01-05|
-|156|[PacktPublishing/Learn-ASP.NET-Core-3-Second-Edition](https://github.com/PacktPublishing/Learn-ASP.NET-Core-3-Second-Edition)|Learn ASP.NET Core 3 – Second Edition, published by Packt|25|0|2023-09-06|
-|157|[MichaelZaslavsky/social-event-manager](https://github.com/MichaelZaslavsky/social-event-manager)|A project for learning purposes built by Michael Zaslavsky|29|0|2024-01-18|
-|158|[opensim/opensim](https://github.com/opensim/opensim)|This is a github mirror of the opensim git repository (synced every 10 minutes).  The cannonical master is on http://opensimulator.org/viewgit|224|0|2024-02-07|
-|159|[mrlacey/Rapid-XAML-Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit)|A collection of tools to accelerate XAML development within Visual Studio. These include XAML analysis, XAML generations, plus templates and helpers.|654|0|2024-02-06|
-|160|[OpenRA/TiberianDawnHD](https://github.com/OpenRA/TiberianDawnHD)|binary compatible OpenRA mod that uses Command & Conquer: Remastered assets|29|0|2023-10-28|
-|161|[VerifyTests/EmptyFiles](https://github.com/VerifyTests/EmptyFiles)|A collection of minimal binary files.|42|0|2024-01-15|
-|162|[volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator)|A developer test assignment used as basis for candidate interview and evaluation.|25|0|2023-12-01|
-|163|[erkerkiii/gum](https://github.com/erkerkiii/gum)|Gum is a collection of tools focusing mainly on game development with the goal of getting rid of the boilerplate code.|27|0|2023-11-24|
-|164|[b0nes164/GPUPrefixSums](https://github.com/b0nes164/GPUPrefixSums)|A collection of prefix sum algorithms written in HLSL, for Unity style compute shaders. Includes implementation of Chained Scan with Decoupled Lookback.|28|0|2023-12-20|
-|165|[FlaxEngine/FlaxSamples](https://github.com/FlaxEngine/FlaxSamples)|Collection of example projects for Flax Engine|85|0|2023-11-25|
-|166|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|112|0|2023-10-02|
-|167|[jianminchen/Leetcode_Julia](https://github.com/jianminchen/Leetcode_Julia)|Leetcode C# solutions, 461 solved (237 easy, 176 medium, 48 hard), contest global ranking 23489/131596(12/04/2019) 510 solved (10/14/2020) (225 easy, 234 medium, 51 hard)|67|0|2023-11-01|
-|168|[AuDigitalHealth/clinical-document-library-dotnet](https://github.com/AuDigitalHealth/clinical-document-library-dotnet)|The Clinical Document Library simplifies the development process by providing vendors with a sample implementation of how to create clinical documents. The library supports all Agency-specified docume ...|22|0|2023-09-19|
-|169|[Beckhoff/TF6000_ADS_DOTNET_V5_Samples](https://github.com/Beckhoff/TF6000_ADS_DOTNET_V5_Samples)|Sample code for  the Version 6.X series of the TwinCAT ADS .NET Packages|32|0|2023-11-23|
-|170|[docusign/code-examples-csharp](https://github.com/docusign/code-examples-csharp)|C# code examples and launcher|53|0|2024-02-08|
-|171|[JARVIS843/Unity-Tutorial](https://github.com/JARVIS843/Unity-Tutorial)|This is the git repo for my Unity tutorial series.|31|0|2024-01-25|
-|172|[suchmememanyskill/steam-deck-addons](https://github.com/suchmememanyskill/steam-deck-addons)|A collection of random scripts i've made for the deck|85|0|2023-11-26|
-|173|[NeilMacMullen/jumpfs](https://github.com/NeilMacMullen/jumpfs)|Jumpfs is a cross-shell bookmarking system for files. folders, urls and shell-comands.   It works in PowerShell, Bash, and Cmd.|34|0|2024-01-12|
-|174|[spaghettidba/WorkloadTools](https://github.com/spaghettidba/WorkloadTools)|A collection of tools to collect, analyze and replay SQL Server workloads, on premises and in the cloud|224|0|2023-12-06|
-|175|[kontur-edu/Ulearn](https://github.com/kontur-edu/Ulearn)|E-learning platform by SKB Kontur|41|0|2023-12-12|
-|176|[YaoYilin/LeetCode](https://github.com/YaoYilin/LeetCode)|leetcode algorithms problems in C# and some in python 3|21|0|2023-10-18|
-|177|[TelegramBots/Telegram.Bot.Examples](https://github.com/TelegramBots/Telegram.Bot.Examples)|Examples for the Telegram.Bot C# Library|587|0|2024-01-16|
-|178|[SciSharp/SciSharp-Stack-Examples](https://github.com/SciSharp/SciSharp-Stack-Examples)|Practical examples written in SciSharp's machine learning libraries|302|0|2023-11-05|
-|179|[reunono/FeelExtensions](https://github.com/reunono/FeelExtensions)|A community-driven collection of extension scripts for Feel by MoreMountains.|110|0|2023-12-02|
-|180|[OliBomby/Mapping_Tools](https://github.com/OliBomby/Mapping_Tools)|Collection of tools for manipulating osu! beatmaps|112|0|2024-01-20|
-|181|[coherence/first-steps-tutorial](https://github.com/coherence/first-steps-tutorial)|A tutorial to take your first steps with coherence, a Unity networking framework.|22|0|2023-12-07|
-|182|[PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings)|Random collection of Unity assets and prefabs, for use with VRChat worlds and avatars.|102|0|2023-12-26|
-|183|[RevenantX/LiteEntitySystemUnityExample](https://github.com/RevenantX/LiteEntitySystemUnityExample)|small example on how to use LiteEntitySystem using Unity engine|23|0|2024-01-20|
-|184|[Azure-Samples/azure-search-power-skills](https://github.com/Azure-Samples/azure-search-power-skills)|A collection of useful functions to be deployed as custom skills for Azure Cognitive Search|229|0|2024-02-05|
-|185|[nesfit/IW5](https://github.com/nesfit/IW5)|Lectures and computer labs storage for IW5 course at FIT VUT.|40|0|2023-12-07|
-|186|[Harsha-Global/CS-web-university-harsha](https://github.com/Harsha-Global/CS-web-university-harsha)|C# Ultimate Guide by Web University|42|0|2023-10-23|
-|187|[aspose-gis/Aspose.GIS-for-.NET](https://github.com/aspose-gis/Aspose.GIS-for-.NET)|Aspose.GIS for .NET examples and sample projects https://products.aspose.com/gis/net|27|0|2023-10-08|
-|188|[llamacademy/scriptable-object-based-guns](https://github.com/llamacademy/scriptable-object-based-guns)|Learn how to create a ScriptableObject-based gun system from scratch for your game! |84|0|2024-02-06|
-|189|[albi005/MaterialColorUtilities](https://github.com/albi005/MaterialColorUtilities)|Material You color algorithms for .NET|57|0|2023-11-04|
-|190|[imalearningplace-education/Go-Dev-bootcamp](https://github.com/imalearningplace-education/Go-Dev-bootcamp)|Turma <GoDev>🌎 - Bootcamp Fullstack na Ímã Learning Place|39|0|2023-09-08|
-|191|[MitchMakesThings/Godot-Things](https://github.com/MitchMakesThings/Godot-Things)|Collection of tutorials and mini-projects|88|0|2023-10-22|
-|192|[EISK/eisk.webapi](https://github.com/EISK/eisk.webapi)|Project based on latest .NET (v6.0) technologies for building scalable web api, along with clean architecture patterns.|209|0|2023-09-30|
-|193|[microsoft/MSIX-Labs](https://github.com/microsoft/MSIX-Labs)|MSIX Labs is a collection of tutorials for customers that are in interested in creating, packaging, distributing and installing MSIX packages. |84|0|2023-10-12|
-|194|[AndrewKeepCoding/AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)|The AK.Toolkit will be a collection of controls, helpers, etc... stuff that I needed to use but couldn't find somewhere else.|31|0|2024-01-20|
-|195|[Sonic-LockandLoad/Sonic-LockandLoad](https://github.com/Sonic-LockandLoad/Sonic-LockandLoad)|Sonic: Lock & Load - a hyper-fast character-action first-person shooter based on the Sonic the Hedgehog series of games and built on GZDoom.|23|0|2024-01-17|
-|196|[bryanknox/AzureFunctionsOpenIDConnectAuthSample](https://github.com/bryanknox/AzureFunctionsOpenIDConnectAuthSample)|A sample that shows how to protect access to an API implemented as an HTTP triggered Azure Function where the authorization server supports OpenID Connect (OIDC) protocols.|74|0|2024-01-17|
-|197|[unoplatform/workshops](https://github.com/unoplatform/workshops)|workshops, study guides and learning materials for the Uno Platform|92|0|2024-01-29|
-|198|[aspose-words/Aspose.Words-for-.NET](https://github.com/aspose-words/Aspose.Words-for-.NET)|Aspose.Words for .NET examples, plugins and showcases|460|0|2024-02-01|
-|199|[NikLever/URP-Course](https://github.com/NikLever/URP-Course)|Resources for my URP course|23|0|2023-08-27|
-|200|[groupdocs-viewer/GroupDocs.Viewer-for-.NET](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET)|GroupDocs.Viewer for .NET examples, plugins and showcase|39|0|2024-01-23|
+|73|[garyan2/epg123](https://github.com/garyan2/epg123)|Media Center Electronic Program Guide in 1-2-3|23|0|2023-12-23|
+|74|[Balint-H/mj-unity-tutorial](https://github.com/Balint-H/mj-unity-tutorial)|Introductory set of tutorials for using the Unity plugin of MuJoCo with the ML-Agents framework.|21|0|2023-11-13|
+|75|[Yvand/LDAPCP](https://github.com/Yvand/LDAPCP)|This claims provider connects SharePoint Subscription / 2019 / 2016 / 2013 with Active Directory and LDAP servers to improve the experience when authentication is federated with ADFS|56|0|2024-02-09|
+|76|[graphql-dotnet/examples](https://github.com/graphql-dotnet/examples)|Examples for GraphQL.NET|261|0|2023-11-10|
+|77|[acnicholas/scaddins](https://github.com/acnicholas/scaddins)|A collection of Revit Add-ins.|29|0|2023-12-10|
+|78|[sixeyed/diamol](https://github.com/sixeyed/diamol)|Code samples for the book "Learn Docker in a Month of Lunches"|478|0|2023-12-18|
+|79|[markulie/Algorithms-CSharp](https://github.com/markulie/Algorithms-CSharp)|C# Algorithms for beginners|20|0|2023-08-31|
+|80|[Evulpes/Remap-Memory-Region](https://github.com/Evulpes/Remap-Memory-Region)|Basic example of how to change the initial rights on a memory region during runtime.|34|0|2023-10-30|
+|81|[plbonneville/RazorInteractive](https://github.com/plbonneville/RazorInteractive)|.NET Interactive Notebooks Razor Extension|25|0|2024-01-05|
+|82|[Co-de-iT/froGH](https://github.com/Co-de-iT/froGH)|Ah... that should have been "for GH" but we're so lazy that we misspelled and didn't bother correcting.... Anyway, here's a collection of mixed-purpose user objects for Grasshopper - given "as is" (no ...|38|0|2023-12-30|
+|83|[careercup/CtCI-6th-Edition-CSharp](https://github.com/careercup/CtCI-6th-Edition-CSharp)|Cracking the Coding Interview 6th Ed. Solutions (C# Port)|317|0|2023-08-17|
+|84|[DevExpress-Examples/maui-data-grid](https://github.com/DevExpress-Examples/maui-data-grid)|Samples in this repository demonstrate how to get started with the DataGridView component and how to use its features.|36|0|2023-12-14|
+|85|[MassTransit/Sample-JobConsumers](https://github.com/MassTransit/Sample-JobConsumers)|Sample showing how to use job consumers with RabbitMQ, EF Core, and Postgres|31|0|2023-08-16|
+|86|[kinsi55/BeatSaber_Tweaks55](https://github.com/kinsi55/BeatSaber_Tweaks55)|A collection of various tweaks which by themselves are too simple for their own designated mods|28|0|2023-12-13|
+|87|[zigurous/unity-snake-tutorial](https://github.com/zigurous/unity-snake-tutorial)|🐍🍎 Learn to make Snake in Unity.|63|0|2023-11-12|
+|88|[danielshervheim/unity-image-effects](https://github.com/danielshervheim/unity-image-effects)|A collection of image effects for Unity.|53|0|2023-11-26|
+|89|[andrewlock/asp-dot-net-core-in-action-3e](https://github.com/andrewlock/asp-dot-net-core-in-action-3e)|Source code examples for ASP.NET Core in Action, Third Edition|88|0|2023-08-31|
+|90|[sadomovalex/camlex](https://github.com/sadomovalex/camlex)|Camlex simplifies creation of CAML queries for SharePoint (2007, 2010, 2013, 2016, 2019, Online) by using expression trees and lambda expressions|54|0|2023-10-11|
+|91|[petergolde/PurplePen](https://github.com/petergolde/PurplePen)|Purple Pen course setting program for orienteering|56|0|2024-01-04|
+|92|[MonacsLib/Monacs](https://github.com/MonacsLib/Monacs)|Monacs - Collection of basic monads and functional extensions for C#|65|0|2023-11-15|
+|93|[AutomateThePlanet/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Edition](https://github.com/AutomateThePlanet/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Edition)|Source code and examples from the book Design Patterns for High-Quality Automated Tests, C# Edition|52|0|2023-12-15|
+|94|[bkoelman/CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer)|Reports diagnostics for C# coding guidelines that are not already covered by Resharper.|120|0|2024-02-06|
+|95|[Fcakiroglu16/UdemyMicroservicesWithDesignPatterns](https://github.com/Fcakiroglu16/UdemyMicroservicesWithDesignPatterns)|Udemy   .Net 5.0 ile Microservice Design Patterns|24|0|2023-12-14|
+|96|[KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor)|A smorgasbord of modern .NET tech written with functional and asynchronous patterns|116|0|2024-01-22|
+|97|[microsoftgraph/msgraph-sample-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-sample-azurefunction-csharp)|This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Azure Functions.|39|0|2024-01-08|
+|98|[ssg/HashDepot](https://github.com/ssg/HashDepot)|.NET library for xxHash, FNV, MurmurHash3 and SipHash algorithms|125|0|2023-09-01|
+|99|[Reava/UwUtils](https://github.com/Reava/UwUtils)|A collection of -almost- niche UdonSharp scripts as an (almost) all in one Toolkit for world creators|38|0|2023-11-27|
+|100|[Per-Morten/master_project](https://github.com/Per-Morten/master_project)|Implementation of master_thesis project to stream IFC files from disk|26|0|2023-11-26|
+|101|[ChrisDill/Raylib-cs-Examples](https://github.com/ChrisDill/Raylib-cs-Examples)|Examples for Raylib-cs, a simple and easy-to-use library to learn videogames programming|95|0|2023-09-28|
+|102|[PrismLibrary/Prism-Samples-Wpf](https://github.com/PrismLibrary/Prism-Samples-Wpf)|Samples that demonstrate how to use various Prism features with WPF|1486|0|2023-12-16|
+|103|[mikeroyal/Unity-Guide](https://github.com/mikeroyal/Unity-Guide)|Unity Engine Guide|32|0|2024-01-04|
+|104|[luxonis/depthai-unity](https://github.com/luxonis/depthai-unity)|DepthAI Unity Library, Unity projects and examples (OAK For Unity)|189|0|2024-01-29|
+|105|[Varneon/VUdon-ArrayExtensions](https://github.com/Varneon/VUdon-ArrayExtensions)|Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>|20|0|2023-10-07|
+|106|[aspnetrun/run-devops](https://github.com/aspnetrun/run-devops)|Deploying .Net Microservices into Kubernetes, and moving deployments to the cloud Azure Kubernetes Services (AKS) with using Azure Container Registry (ACR) and how to Automating Deployments with Azure ...|70|0|2024-02-05|
+|107|[Brackeys/Portal-In-Unity](https://github.com/Brackeys/Portal-In-Unity)|The project files from my tutorial on creating a Smooth Portal effect in Unity.|158|0|2023-08-18|
+|108|[AzureCosmosDB/CosmicWorks](https://github.com/AzureCosmosDB/CosmicWorks)|How to model and partition data for Cosmos DB starting with the Adventure Works database.|71|0|2024-01-23|
+|109|[maxim-zhao/bmp2tile](https://github.com/maxim-zhao/bmp2tile)|Converts images to Master System data formats|39|0|2023-09-24|
+|110|[Invvard/EZLayoutDisplay](https://github.com/Invvard/EZLayoutDisplay)|Learn your custom layout quickly and easily by displaying your ErgoDox layout right from your desktop !|104|0|2023-11-25|
+|111|[udotdevelopment/ATSPM](https://github.com/udotdevelopment/ATSPM)|Automated Traffic Signal Performance Measures (ATSPM) are a series of visual aids that display the high-resolution data from signal controllers. They are a valuable asset management tool, aiding perso ...|70|0|2024-01-15|
+|112|[ORelio/Sound-Manager](https://github.com/ORelio/Sound-Manager)|Manage and share Windows sound schemes.|32|0|2024-01-05|
+|113|[xzippyzachx/UnityFirebaseDatabaseTutorial](https://github.com/xzippyzachx/UnityFirebaseDatabaseTutorial)|These are the example projects used for a YouTube tutorial on the Firebase realtime database in unity |30|0|2023-08-27|
+|114|[zigurous/unity-space-invaders-tutorial](https://github.com/zigurous/unity-space-invaders-tutorial)|👾🛸 Learn to make Space Invaders in Unity.|25|0|2023-11-12|
+|115|[better-reports/QuickBooksSharp](https://github.com/better-reports/QuickBooksSharp)|.NET client for QuickBooks Online API|25|0|2023-08-25|
+|116|[jakobbotsch/Fuzzlyn](https://github.com/jakobbotsch/Fuzzlyn)|Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University.|236|0|2024-01-18|
+|117|[Chris3606/GoRogue](https://github.com/Chris3606/GoRogue)|.NET Standard roguelike library in C#.  Features many algorithms and data structures pertinent to roguelike/2D game developers, specifically designed to be minimally intrusive upon the developer's arc ...|477|0|2024-02-10|
+|118|[ardalis/Ardalis.SharedKernel](https://github.com/ardalis/Ardalis.SharedKernel)|Some useful base classes, mainly used with the CleanArchitecture template. Also, a template to make your own SharedKernel nuget package.|42|0|2023-11-10|
+|119|[ivandrofly/DoFactorydotNetDesignPattern](https://github.com/ivandrofly/DoFactorydotNetDesignPattern)|http://www.dofactory.com/net/design-patterns|23|0|2023-08-14|
+|120|[UmbraSpaceIndustries/USITools](https://github.com/UmbraSpaceIndustries/USITools)|Shared components for KSP mods|38|0|2023-08-25|
+|121|[Markcreator/Unity-Tools](https://github.com/Markcreator/Unity-Tools)|A collection of useful tools for Unity|27|0|2023-10-29|
+|122|[techgems/Vite.NET](https://github.com/techgems/Vite.NET)|A sample of how to integrate Vite, HMR and Razor Pages for a more integrated experience.|54|0|2023-11-12|
+|123|[alexjhetherington/FootnoteUtilities](https://github.com/alexjhetherington/FootnoteUtilities)|A collection of common and useful Unity C# scripts to help you create projects quicker|69|0|2023-11-29|
+|124|[Haselnussbomber/HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)|A collection of quality of life tweaks and more.|47|0|2024-01-31|
+|125|[dfkeenan/SilkVulkanTutorial](https://github.com/dfkeenan/SilkVulkanTutorial)|C# Silk.NET port of the Vulkan tutorial by Alexander Overvoorde. |94|0|2023-12-09|
+|126|[zigurous/unity-pong-tutorial](https://github.com/zigurous/unity-pong-tutorial)|🏓💥 Learn to make Pong in Unity.|32|0|2023-11-12|
+|127|[comsmobiler/SmobilerTutorials](https://github.com/comsmobiler/SmobilerTutorials)|SmobilerTutorials|36|0|2023-12-19|
+|128|[KARPED1EM/TownOfNext](https://github.com/KARPED1EM/TownOfNext)|An AmongUs mod with learning & love|54|0|2024-02-03|
+|129|[microsoft/Federal-App-Innovation-Community](https://github.com/microsoft/Federal-App-Innovation-Community)|This repo contains samples, demos, and patterns to enable Cloud-Native solutions on Azure Cloud & Azure Government |29|0|2023-10-07|
+|130|[microsoft/prose](https://github.com/microsoft/prose)|Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Mi ...|608|0|2024-01-26|
+|131|[Mastercard/client-encryption-csharp](https://github.com/Mastercard/client-encryption-csharp)|Library for Mastercard API compliant payload encryption/decryption.|20|0|2024-01-19|
+|132|[ahmedayman4a/Linkedin-Learning-Courses-Downloader](https://github.com/ahmedayman4a/Linkedin-Learning-Courses-Downloader)|Download LinkedIn Learning Courses in mp4 format and in the video quality you like with an intuitive UI|346|0|2023-12-22|
+|133|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|69|0|2024-02-03|
+|134|[TWC-Software/DaemonMaster](https://github.com/TWC-Software/DaemonMaster)|Daemon Master is a software which makes it possible to create a service from any program (ALPHA)|62|0|2024-01-01|
+|135|[sebas77/Svelto.Common](https://github.com/sebas77/Svelto.Common)|Shared code between the Svelto repositories|36|0|2024-01-07|
+|136|[ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)|Samples associated with Pluralsight design patterns in c# courses.|505|0|2023-12-10|
+|137|[OfficeDev/Excel-IO](https://github.com/OfficeDev/Excel-IO)|A utility library that makes it easy to read and write Excel workbooks using C#|61|0|2024-02-02|
+|138|[jaerith/ONIX-Data](https://github.com/jaerith/ONIX-Data)|This solution is a C# library that serves to provide .NET data structures for the ONIX XML format, which is the international standard for representing electronic data regarding books (along with othe ...|22|0|2023-11-27|
+|139|[SingletonSean/wpf-tutorials](https://github.com/SingletonSean/wpf-tutorials)|Source code for SingletonSean WPF tutorials on YouTube.|343|0|2023-09-19|
+|140|[adrianoc/cecilifier](https://github.com/adrianoc/cecilifier)|A tool aiming to make it a little bit easier to learn Mono.Cecil|74|0|2024-02-05|
+|141|[PanKunik/buber-dinner](https://github.com/PanKunik/buber-dinner)|This repository follows Amichai Mantinband course on REST API DDD CLEAN ARCHITECTURE.|70|0|2023-10-03|
+|142|[KevinDockx/CSharp10DesignPatterns](https://github.com/KevinDockx/CSharp10DesignPatterns)|Fully functioning sample code for my C#10 Design Patterns course|139|0|2023-10-17|
+|143|[unosquare/swan](https://github.com/unosquare/swan)|Swan stands for Stuff We All Need. Unosquare's collection of C# extension methods and classes.|258|0|2024-02-08|
+|144|[AcChosen/VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)|A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways ...|296|0|2024-02-09|
+|145|[GoogleCloudPlatform/eventarc-samples](https://github.com/GoogleCloudPlatform/eventarc-samples)|This repository contains a collection of samples for Eventarc for various use cases.|66|0|2024-02-11|
+|146|[discosultan/dx12-game-programming](https://github.com/discosultan/dx12-game-programming)|DirectX 12 C# samples from Frank D. Luna's book "Introduction to 3D Game Programming with Direct3D 12.0"|247|0|2023-10-13|
+|147|[amitxv/limit-nvpstate](https://github.com/amitxv/limit-nvpstate)|Limit P-States on NVIDIA GPUs when a user-defined list of processes are not running to reduce power consumption|28|0|2024-01-11|
+|148|[vvvv/VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs)|A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui|27|0|2024-01-24|
+|149|[beardgame/utilities](https://github.com/beardgame/utilities)|General C# (game) utilities library, containing a variety of useful types and algorithms|27|0|2024-01-16|
+|150|[WOA-Project/Lumia-Drivers](https://github.com/WOA-Project/Lumia-Drivers)|Collection of driver binaries for Lumia devices|176|0|2024-01-04|
+|151|[MicrosoftDocs/mslearn-microservices-devops-aspnet-core](https://github.com/MicrosoftDocs/mslearn-microservices-devops-aspnet-core)|Sample code for Microsoft Learn module microservices-devops-aspnet-core|24|0|2023-12-12|
+|152|[syncfusion/wpf-demos](https://github.com/syncfusion/wpf-demos)|This repository contains the samples for Syncfusion WPF UI Controls and File Format libraries and the guide to use them.|233|0|2024-02-08|
+|153|[coinbump/PhaseJumpPro](https://github.com/coinbump/PhaseJumpPro)|Game Design Patterns for Unity, C++ and (eventually Godot)|47|0|2023-12-31|
+|154|[tpeczek/Demo.AspNetCore.MicroFrontendsInAction](https://github.com/tpeczek/Demo.AspNetCore.MicroFrontendsInAction)|Samples from the book Micro Frontends in Action implemented with ASP.NET Core|47|0|2024-01-05|
+|155|[PacktPublishing/Learn-ASP.NET-Core-3-Second-Edition](https://github.com/PacktPublishing/Learn-ASP.NET-Core-3-Second-Edition)|Learn ASP.NET Core 3 – Second Edition, published by Packt|25|0|2023-09-06|
+|156|[MichaelZaslavsky/social-event-manager](https://github.com/MichaelZaslavsky/social-event-manager)|A project for learning purposes built by Michael Zaslavsky|29|0|2024-01-18|
+|157|[opensim/opensim](https://github.com/opensim/opensim)|This is a github mirror of the opensim git repository (synced every 10 minutes).  The cannonical master is on http://opensimulator.org/viewgit|224|0|2024-02-07|
+|158|[mrlacey/Rapid-XAML-Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit)|A collection of tools to accelerate XAML development within Visual Studio. These include XAML analysis, XAML generations, plus templates and helpers.|654|0|2024-02-06|
+|159|[OpenRA/TiberianDawnHD](https://github.com/OpenRA/TiberianDawnHD)|binary compatible OpenRA mod that uses Command & Conquer: Remastered assets|29|0|2023-10-28|
+|160|[VerifyTests/EmptyFiles](https://github.com/VerifyTests/EmptyFiles)|A collection of minimal binary files.|42|0|2024-01-15|
+|161|[volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator)|A developer test assignment used as basis for candidate interview and evaluation.|25|0|2023-12-01|
+|162|[erkerkiii/gum](https://github.com/erkerkiii/gum)|Gum is a collection of tools focusing mainly on game development with the goal of getting rid of the boilerplate code.|27|0|2023-11-24|
+|163|[b0nes164/GPUPrefixSums](https://github.com/b0nes164/GPUPrefixSums)|A collection of prefix sum algorithms written in HLSL, for Unity style compute shaders. Includes implementation of Chained Scan with Decoupled Lookback.|28|0|2023-12-20|
+|164|[FlaxEngine/FlaxSamples](https://github.com/FlaxEngine/FlaxSamples)|Collection of example projects for Flax Engine|85|0|2023-11-25|
+|165|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|112|0|2023-10-02|
+|166|[jianminchen/Leetcode_Julia](https://github.com/jianminchen/Leetcode_Julia)|Leetcode C# solutions, 461 solved (237 easy, 176 medium, 48 hard), contest global ranking 23489/131596(12/04/2019) 510 solved (10/14/2020) (225 easy, 234 medium, 51 hard)|67|0|2023-11-01|
+|167|[AuDigitalHealth/clinical-document-library-dotnet](https://github.com/AuDigitalHealth/clinical-document-library-dotnet)|The Clinical Document Library simplifies the development process by providing vendors with a sample implementation of how to create clinical documents. The library supports all Agency-specified docume ...|22|0|2023-09-19|
+|168|[Beckhoff/TF6000_ADS_DOTNET_V5_Samples](https://github.com/Beckhoff/TF6000_ADS_DOTNET_V5_Samples)|Sample code for  the Version 6.X series of the TwinCAT ADS .NET Packages|32|0|2023-11-23|
+|169|[docusign/code-examples-csharp](https://github.com/docusign/code-examples-csharp)|C# code examples and launcher|53|0|2024-02-08|
+|170|[JARVIS843/Unity-Tutorial](https://github.com/JARVIS843/Unity-Tutorial)|This is the git repo for my Unity tutorial series.|31|0|2024-01-25|
+|171|[suchmememanyskill/steam-deck-addons](https://github.com/suchmememanyskill/steam-deck-addons)|A collection of random scripts i've made for the deck|86|0|2023-11-26|
+|172|[NeilMacMullen/jumpfs](https://github.com/NeilMacMullen/jumpfs)|Jumpfs is a cross-shell bookmarking system for files. folders, urls and shell-comands.   It works in PowerShell, Bash, and Cmd.|34|0|2024-01-12|
+|173|[spaghettidba/WorkloadTools](https://github.com/spaghettidba/WorkloadTools)|A collection of tools to collect, analyze and replay SQL Server workloads, on premises and in the cloud|224|0|2023-12-06|
+|174|[kontur-edu/Ulearn](https://github.com/kontur-edu/Ulearn)|E-learning platform by SKB Kontur|41|0|2023-12-12|
+|175|[YaoYilin/LeetCode](https://github.com/YaoYilin/LeetCode)|leetcode algorithms problems in C# and some in python 3|21|0|2023-10-18|
+|176|[TelegramBots/Telegram.Bot.Examples](https://github.com/TelegramBots/Telegram.Bot.Examples)|Examples for the Telegram.Bot C# Library|587|0|2024-01-16|
+|177|[SciSharp/SciSharp-Stack-Examples](https://github.com/SciSharp/SciSharp-Stack-Examples)|Practical examples written in SciSharp's machine learning libraries|302|0|2023-11-05|
+|178|[reunono/FeelExtensions](https://github.com/reunono/FeelExtensions)|A community-driven collection of extension scripts for Feel by MoreMountains.|110|0|2023-12-02|
+|179|[OliBomby/Mapping_Tools](https://github.com/OliBomby/Mapping_Tools)|Collection of tools for manipulating osu! beatmaps|112|0|2024-01-20|
+|180|[coherence/first-steps-tutorial](https://github.com/coherence/first-steps-tutorial)|A tutorial to take your first steps with coherence, a Unity networking framework.|22|0|2023-12-07|
+|181|[PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings)|Random collection of Unity assets and prefabs, for use with VRChat worlds and avatars.|102|0|2023-12-26|
+|182|[RevenantX/LiteEntitySystemUnityExample](https://github.com/RevenantX/LiteEntitySystemUnityExample)|small example on how to use LiteEntitySystem using Unity engine|23|0|2024-01-20|
+|183|[Azure-Samples/azure-search-power-skills](https://github.com/Azure-Samples/azure-search-power-skills)|A collection of useful functions to be deployed as custom skills for Azure Cognitive Search|229|0|2024-02-05|
+|184|[nesfit/IW5](https://github.com/nesfit/IW5)|Lectures and computer labs storage for IW5 course at FIT VUT.|40|0|2023-12-07|
+|185|[Harsha-Global/CS-web-university-harsha](https://github.com/Harsha-Global/CS-web-university-harsha)|C# Ultimate Guide by Web University|46|0|2023-10-23|
+|186|[aspose-gis/Aspose.GIS-for-.NET](https://github.com/aspose-gis/Aspose.GIS-for-.NET)|Aspose.GIS for .NET examples and sample projects https://products.aspose.com/gis/net|27|0|2023-10-08|
+|187|[llamacademy/scriptable-object-based-guns](https://github.com/llamacademy/scriptable-object-based-guns)|Learn how to create a ScriptableObject-based gun system from scratch for your game! |84|0|2024-02-06|
+|188|[albi005/MaterialColorUtilities](https://github.com/albi005/MaterialColorUtilities)|Material You color algorithms for .NET|57|0|2023-11-04|
+|189|[imalearningplace-education/Go-Dev-bootcamp](https://github.com/imalearningplace-education/Go-Dev-bootcamp)|Turma <GoDev>🌎 - Bootcamp Fullstack na Ímã Learning Place|39|0|2023-09-08|
+|190|[MitchMakesThings/Godot-Things](https://github.com/MitchMakesThings/Godot-Things)|Collection of tutorials and mini-projects|88|0|2023-10-22|
+|191|[EISK/eisk.webapi](https://github.com/EISK/eisk.webapi)|Project based on latest .NET (v6.0) technologies for building scalable web api, along with clean architecture patterns.|209|0|2023-09-30|
+|192|[microsoft/MSIX-Labs](https://github.com/microsoft/MSIX-Labs)|MSIX Labs is a collection of tutorials for customers that are in interested in creating, packaging, distributing and installing MSIX packages. |84|0|2023-10-12|
+|193|[AndrewKeepCoding/AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)|The AK.Toolkit will be a collection of controls, helpers, etc... stuff that I needed to use but couldn't find somewhere else.|31|0|2024-01-20|
+|194|[Sonic-LockandLoad/Sonic-LockandLoad](https://github.com/Sonic-LockandLoad/Sonic-LockandLoad)|Sonic: Lock & Load - a hyper-fast character-action first-person shooter based on the Sonic the Hedgehog series of games and built on GZDoom.|23|0|2024-01-17|
+|195|[bryanknox/AzureFunctionsOpenIDConnectAuthSample](https://github.com/bryanknox/AzureFunctionsOpenIDConnectAuthSample)|A sample that shows how to protect access to an API implemented as an HTTP triggered Azure Function where the authorization server supports OpenID Connect (OIDC) protocols.|74|0|2024-01-17|
+|196|[unoplatform/workshops](https://github.com/unoplatform/workshops)|workshops, study guides and learning materials for the Uno Platform|92|0|2024-01-29|
+|197|[aspose-words/Aspose.Words-for-.NET](https://github.com/aspose-words/Aspose.Words-for-.NET)|Aspose.Words for .NET examples, plugins and showcases|460|0|2024-02-01|
+|198|[NikLever/URP-Course](https://github.com/NikLever/URP-Course)|Resources for my URP course|23|0|2023-08-27|
+|199|[groupdocs-viewer/GroupDocs.Viewer-for-.NET](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET)|GroupDocs.Viewer for .NET examples, plugins and showcase|39|0|2024-01-23|
+|200|[alex1ozr/LearnDotNet](https://github.com/alex1ozr/LearnDotNet)|.NET learning course for beginners|28|0|2024-01-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
