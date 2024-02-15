@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Python
-<sub>Updated: 2024-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)|Automate Creation of YouTube Shorts using MoviePy.|7380|527|2024-02-13|
-|2|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|10147|327|2024-02-13|
-|3|[metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)|Foundational model for human-like, expressive TTS|1889|236|2024-02-13|
-|4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|120756|223|2024-02-13|
-|5|[InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)|16-bit CPU for Excel, and related files|3788|210|2024-02-06|
-|6|[LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation|4384|191|2024-02-09|
-|7|[KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)|A natural language interface for computers|40283|187|2024-02-13|
-|8|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|14091|183|2024-02-08|
-|9|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforms Llama2-13B.|2744|172|2024-02-12|
-|10|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|49015|168|2024-02-13|
-|11|[imartinez/privateGPT](https://github.com/imartinez/privateGPT)|Interact with your documents using the power of GPT, 100% privately, no data leaks|47472|165|2024-02-13|
-|12|[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)|Focus on prompting and generating|30736|163|2024-02-13|
-|13|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|🦜🔗 Build context-aware reasoning applications|76398|158|2024-02-13|
-|14|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|51533|156|2024-02-12|
-|15|[geekan/MetaGPT](https://github.com/geekan/MetaGPT)|🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo|34217|149|2024-02-12|
-|16|[facebookresearch/llama](https://github.com/facebookresearch/llama)|Inference code for LLaMA models|49644|136|2024-02-10|
-|17|[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)|Official Code for DragGAN (SIGGRAPH 2023)|34427|127|2024-01-02|
-|18|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI.|5247|125|2024-02-13|
-|19|[VikParuchuri/surya](https://github.com/VikParuchuri/surya)|OCR and line detection in 90+ languages|4345|124|2024-02-13|
-|20|[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)|Dev tool that writes scalable apps from scratch while the developer oversees the implementation|21377|117|2024-02-13|
-|21|[InstantID/InstantID](https://github.com/InstantID/InstantID)|InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥|7511|116|2024-02-05|
-|22|[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model   开源双语对话语言模型|37723|112|2024-02-05|
-|23|[magic-research/magic-animate](https://github.com/magic-research/magic-animate)|MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|9250|109|2024-02-06|
-|24|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|55777|108|2024-02-09|
-|25|[cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)|StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation|8270|106|2024-02-08|
-|26|[moymix/TaskMatrix](https://github.com/moymix/TaskMatrix)|-|34443|99|2024-01-06|
-|27|[lm-sys/FastChat](https://github.com/lm-sys/FastChat)|An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.|31606|95|2024-02-13|
-|28|[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)|Question and Answer based on Anything.|4001|95|2024-02-07|
-|29|[AbanteAI/rawdog](https://github.com/AbanteAI/rawdog)|Generate and auto-execute Python scripts in the cli|1386|92|2024-02-13|
-|30|[s0md3v/roop](https://github.com/s0md3v/roop)|one-click face swap|23731|91|2024-02-05|
-|31|[THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)|ChatGLM3 series: Open Bilingual Chat LLMs   开源双语对话语言模型|9555|86|2024-02-07|
-|32|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|36292|85|2024-01-25|
-|33|[state-spaces/mamba](https://github.com/state-spaces/mamba)|-|6240|83|2024-02-07|
-|34|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)|Code and documentation to train Stanford's Alpaca models, and generate the data.|28287|83|2024-01-31|
-|35|[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)|Generative Models by Stability AI|19524|82|2024-02-12|
-|36|[Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)|Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""|2499|81|2024-02-11|
-|37|[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)|24462|80|2024-01-17|
-|38|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|34310|77|2023-12-21|
-|39|[facebookresearch/codellama](https://github.com/facebookresearch/codellama)|Inference code for CodeLlama models|13363|77|2024-02-01|
-|40|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)|A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.|32536|77|2024-02-13|
-|41|[AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World)|Real-Time Open-Vocabulary Object Detection|1202|75|2024-02-13|
-|42|[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)|Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu ...|18712|75|2024-02-07|
-|43|[microsoft/promptbase](https://github.com/microsoft/promptbase)|All things prompt engineering|4656|73|2024-01-31|
-|44|[microsoft/JARVIS](https://github.com/microsoft/JARVIS)|JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf|22647|71|2024-01-15|
-|45|[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)|Let us control diffusion models!|26561|70|2023-11-26|
-|46|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)|The simplest, fastest repository for training/finetuning medium-sized GPTs.|28921|70|2024-01-27|
-|47|[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)|Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |18384|69|2024-02-12|
-|48|[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)|Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答   Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |22197|69|2024-02-07|
-|49|[X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)|Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception|1275|67|2024-02-09|
-|50|[joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|7349|67|2024-02-13|
-|51|[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)|SoftVC VITS Singing Voice Conversion|22709|67|2023-11-11|
-|52|[mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)|AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|3711|66|2024-02-08|
-|53|[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.|24959|64|2024-02-13|
+|1|[FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)|Automate Creation of YouTube Shorts using MoviePy.|7459|497|2024-02-14|
+|2|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|10307|322|2024-02-14|
+|3|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|120834|223|2024-02-14|
+|4|[metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)|Foundational model for human-like, expressive TTS|1942|216|2024-02-13|
+|5|[InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)|16-bit CPU for Excel, and related files|3797|200|2024-02-06|
+|6|[KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)|A natural language interface for computers|40377|187|2024-02-14|
+|7|[LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation|4413|184|2024-02-09|
+|8|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|14122|181|2024-02-14|
+|9|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|49030|168|2024-02-14|
+|10|[imartinez/privateGPT](https://github.com/imartinez/privateGPT)|Interact with your documents using the power of GPT, 100% privately, no data leaks|47521|164|2024-02-13|
+|11|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforms Llama2-13B.|2772|163|2024-02-14|
+|12|[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)|Focus on prompting and generating|30813|162|2024-02-14|
+|13|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|🦜🔗 Build context-aware reasoning applications|76459|157|2024-02-14|
+|14|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|51556|155|2024-02-14|
+|15|[geekan/MetaGPT](https://github.com/geekan/MetaGPT)|🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo|34235|149|2024-02-12|
+|16|[facebookresearch/llama](https://github.com/facebookresearch/llama)|Inference code for LLaMA models|49665|136|2024-02-10|
+|17|[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)|Official Code for DragGAN (SIGGRAPH 2023)|34435|126|2024-01-02|
+|18|[VikParuchuri/surya](https://github.com/VikParuchuri/surya)|OCR and line detection in 90+ languages|4494|125|2024-02-13|
+|19|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI.|5282|123|2024-02-14|
+|20|[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)|Dev tool that writes scalable apps from scratch while the developer oversees the implementation|21394|117|2024-02-14|
+|21|[InstantID/InstantID](https://github.com/InstantID/InstantID)|InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥|7559|115|2024-02-14|
+|22|[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model   开源双语对话语言模型|37736|111|2024-02-05|
+|23|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|55863|108|2024-02-09|
+|24|[magic-research/magic-animate](https://github.com/magic-research/magic-animate)|MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|9256|108|2024-02-06|
+|25|[cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)|StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation|8278|105|2024-02-08|
+|26|[moymix/TaskMatrix](https://github.com/moymix/TaskMatrix)|-|34443|98|2024-01-06|
+|27|[lm-sys/FastChat](https://github.com/lm-sys/FastChat)|An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.|31619|95|2024-02-14|
+|28|[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)|Question and Answer based on Anything.|4042|94|2024-02-07|
+|29|[s0md3v/roop](https://github.com/s0md3v/roop)|one-click face swap|23739|90|2024-02-05|
+|30|[AbanteAI/rawdog](https://github.com/AbanteAI/rawdog)|Generate and auto-execute Python scripts in the cli|1421|89|2024-02-14|
+|31|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|36297|85|2024-01-25|
+|32|[THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)|ChatGLM3 series: Open Bilingual Chat LLMs   开源双语对话语言模型|9568|85|2024-02-07|
+|33|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)|Code and documentation to train Stanford's Alpaca models, and generate the data.|28295|83|2024-01-31|
+|34|[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)|Generative Models by Stability AI|19543|82|2024-02-12|
+|35|[state-spaces/mamba](https://github.com/state-spaces/mamba)|-|6261|82|2024-02-07|
+|36|[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)|24462|80|2024-01-17|
+|37|[Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)|Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""|2508|78|2024-02-11|
+|38|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)|A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.|32591|77|2024-02-14|
+|39|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|34342|76|2023-12-21|
+|40|[facebookresearch/codellama](https://github.com/facebookresearch/codellama)|Inference code for CodeLlama models|13378|76|2024-02-01|
+|41|[AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World)|Real-Time Open-Vocabulary Object Detection|1281|75|2024-02-14|
+|42|[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)|Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu ...|18720|74|2024-02-07|
+|43|[microsoft/promptbase](https://github.com/microsoft/promptbase)|All things prompt engineering|4658|72|2024-01-31|
+|44|[microsoft/JARVIS](https://github.com/microsoft/JARVIS)|JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf|22653|70|2024-01-15|
+|45|[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)|Let us control diffusion models!|26566|70|2023-11-26|
+|46|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)|The simplest, fastest repository for training/finetuning medium-sized GPTs.|29018|70|2024-01-27|
+|47|[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)|Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |18397|69|2024-02-12|
+|48|[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)|Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答   Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |22201|69|2024-02-07|
+|49|[joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|7420|67|2024-02-14|
+|50|[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)|SoftVC VITS Singing Voice Conversion|22724|66|2023-11-11|
+|51|[X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)|Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception|1302|65|2024-02-09|
+|52|[mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)|AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|3712|65|2024-02-08|
+|53|[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.|25031|64|2024-02-14|
 |54|[THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|ChatGLM2-6B: An Open Bilingual Chat LLM   开源双语对话语言模型|15053|64|2024-01-30|
-|55|[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.|20553|63|2024-02-08|
-|56|[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频|5467|63|2024-02-09|
-|57|[OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable multimodal models to operate a computer.|6358|62|2024-02-09|
-|58|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|120086|62|2024-02-13|
-|59|[cpacker/MemGPT](https://github.com/cpacker/MemGPT)|Teaching LLMs memory management for unbounded context 📚🦙|7757|62|2024-02-13|
-|60|[MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)|-|2049|62|2024-01-22|
-|61|[VikParuchuri/marker](https://github.com/VikParuchuri/marker)|Convert PDF to markdown quickly with high accuracy|6490|61|2024-02-12|
-|62|[run-llama/rags](https://github.com/run-llama/rags)|Build ChatGPT over your data, all with natural language|5491|61|2024-02-02|
-|63|[run-llama/llama_index](https://github.com/run-llama/llama_index)|LlamaIndex (formerly GPT Index) is a data framework for your LLM applications|27958|60|2024-02-13|
-|64|[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)|EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine|5880|60|2024-02-06|
-|65|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|10751|59|2024-02-13|
-|66|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)|-|18535|58|2024-01-06|
-|67|[OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)|An Autonomous LLM Agent for Complex Task Solving|6892|57|2023-12-31|
-|68|[wenge-research/YAYI2](https://github.com/wenge-research/YAYI2)|YAYI 2 是中科闻歌研发的新一代开源大语言模型，采用了超过 2 万亿 Tokens 的高质量、多语言语料进行预训练。(Repo for YaYi 2 Chinese LLMs)|3419|56|2024-01-12|
-|69|[apple/ml-ferret](https://github.com/apple/ml-ferret)|-|7347|56|2024-01-27|
-|70|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A youtube-dl fork with additional features and fixes|66068|55|2024-02-13|
-|71|[facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal)|Code and dataset for photorealistic Codec Avatars driven from audio|2331|54|2024-01-26|
-|72|[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|15555|53|2024-02-13|
-|73|[TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)|The open source platform for AI-native application development.|1913|52|2024-02-13|
-|74|[dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf)|🔄 CLI to convert Webpages to PDFs 🚀 |670|52|2024-02-11|
-|75|[apple/ml-mgie](https://github.com/apple/ml-mgie)|-|3134|51|2024-02-12|
-|76|[langgenius/dify](https://github.com/langgenius/dify)|An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ ...|15514|50|2024-02-13|
-|77|[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)|<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.|13756|50|2024-02-04|
-|78|[RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Voice data <= 10 mins can also be used to train a good VC model!|16276|50|2024-02-08|
-|79|[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)|16323|49|2024-01-29|
-|80|[IdreesInc/Miracode](https://github.com/IdreesInc/Miracode)|A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft|465|47|2024-02-11|
-|81|[QwenLM/Qwen](https://github.com/QwenLM/Qwen)|The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.|8976|46|2024-02-05|
-|82|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)|[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.|13773|45|2024-02-10|
-|83|[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)|Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"|9793|44|2024-02-13|
-|84|[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)|11559|44|2024-02-13|
-|85|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Making large AI models cheaper, faster and more accessible|36364|43|2024-02-08|
-|86|[unslothai/unsloth](https://github.com/unslothai/unsloth)|5X faster 60% less memory QLoRA finetuning|3296|43|2024-02-13|
-|87|[mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)|[ICLR 2024] Efficient Streaming Language Models with Attention Sinks|5914|43|2024-02-04|
-|88|[lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)|Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI|1094|42|2024-02-09|
-|89|[smol-ai/developer](https://github.com/smol-ai/developer)|the first library to let you embed a developer agent in your own app!|11485|41|2023-10-22|
-|90|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|15057|41|2024-02-12|
-|91|[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.|14224|41|2024-01-21|
-|92|[vllm-project/vllm](https://github.com/vllm-project/vllm)|A high-throughput and memory-efficient inference and serving engine for LLMs|14624|40|2024-02-13|
-|93|[logspace-ai/langflow](https://github.com/logspace-ai/langflow)|⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|14525|39|2024-02-12|
-|94|[pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)|Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.|4669|39|2024-02-10|
-|95|[cbh123/narrator](https://github.com/cbh123/narrator)|David Attenborough narrates your life|3579|39|2024-01-09|
-|96|[deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|DeepSeek Coder: Let the Code Write Itself|4574|39|2024-02-06|
-|97|[LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese)|Llama中文社区，最好的中文Llama大模型，完全开源可商用|8280|39|2024-01-31|
-|98|[vikhyat/moondream](https://github.com/vikhyat/moondream)|tiny vision language model|1823|39|2024-02-07|
-|99|[open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio,  ...|3444|38|2024-02-13|
-|100|[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)|An open-source tool-augmented conversational language model from Fudan University|11727|38|2023-09-08|
-|101|[arc53/DocsGPT](https://github.com/arc53/DocsGPT)|GPT-powered chat for documentation, chat with your documents|13843|37|2024-02-13|
-|102|[sgl-project/sglang](https://github.com/sgl-project/sglang)|SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.|1356|37|2024-02-12|
-|103|[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)|The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.|6068|37|2024-02-04|
-|104|[ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)|Unofficial implementation of InstantID for ComfyUI|851|37|2024-02-04|
-|105|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite|19316|37|2024-02-13|
-|106|[openai/weak-to-strong](https://github.com/openai/weak-to-strong)|-|2253|36|2024-02-13|
-|107|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|68154|36|2024-02-13|
-|108|[lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)|-|1104|36|2024-02-13|
-|109|[openai/shap-e](https://github.com/openai/shap-e)|Generate 3D objects conditioned on text or images|10964|36|2024-02-01|
-|110|[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)|Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...|19587|35|2023-12-15|
-|111|[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)|Stable Diffusion with Core ML on Apple Silicon|15762|35|2024-01-24|
-|112|[Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)|An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io|6826|34|2024-02-11|
-|113|[xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)|Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.|817|34|2024-02-10|
-|114|[guoqincode/Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone)|Unofficial Implementation of Animate Anyone|2330|34|2024-01-14|
-|115|[krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)|-|5052|34|2024-02-06|
-|116|[dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading)|Run Mixtral-8x7B models in Colab or consumer desktops|2080|34|2024-01-18|
-|117|[openai/evals](https://github.com/openai/evals)|Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.|13232|34|2024-02-13|
-|118|[Textualize/toolong](https://github.com/Textualize/toolong)|A terminal application to view, tail, merge, and search log files (plus JSONL).|1308|34|2024-02-12|
-|119|[huggingface/diffusers](https://github.com/huggingface/diffusers)|🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch|20914|33|2024-02-13|
-|120|[gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)|Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.|9732|33|2024-02-08|
-|121|[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)|Gorilla: An API store for LLMs|8959|33|2024-02-13|
-|122|[bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)|-|1568|33|2024-02-13|
-|123|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|45062|33|2024-02-13|
-|124|[embedchain/embedchain](https://github.com/embedchain/embedchain)|The Open Source RAG framework|7668|32|2024-02-13|
-|125|[microsoft/promptflow](https://github.com/microsoft/promptflow)|Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|7327|32|2024-02-12|
-|126|[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)|AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents|9810|32|2024-02-08|
-|127|[reflex-dev/reflex](https://github.com/reflex-dev/reflex)|🕸 Web apps in pure Python 🐍|14899|31|2024-02-13|
-|128|[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)|Single Image to 3D using Cross-Domain Diffusion|3864|31|2024-02-05|
-|129|[assafelovic/gpt-newspaper](https://github.com/assafelovic/gpt-newspaper)|-|767|31|2024-02-12|
-|130|[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|7583|31|2024-02-01|
-|131|[johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal)|Simple, minimal implementation of the Mamba SSM in one file of PyTorch.|1737|31|2024-01-21|
-|132|[THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|CodeGeeX2: A More Powerful Multilingual Code Generation Model|6394|31|2024-02-06|
-|133|[microsoft/TypeChat](https://github.com/microsoft/TypeChat)|TypeChat is a library that makes it easy to build natural language interfaces using types.|7467|31|2024-02-12|
-|134|[h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)|Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/|9711|30|2024-02-13|
-|135|[facebookresearch/nougat](https://github.com/facebookresearch/nougat)|Implementation of Nougat Neural Optical Understanding for Academic Documents|7589|30|2024-01-22|
-|136|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|41913|30|2023-11-28|
-|137|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|46362|30|2024-02-13|
-|138|[twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)|Source code for Twitter's Recommendation Algorithm|9828|30|2023-09-21|
-|139|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|49916|29|2024-01-14|
-|140|[luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)|Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference|3780|29|2023-12-02|
-|141|[fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)|vits2 backbone with multilingual-bert|5799|29|2024-02-12|
-|142|[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|9636|29|2023-10-05|
-|143|[huggingface/peft](https://github.com/huggingface/peft)|🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.|12502|28|2024-02-13|
-|144|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath|8306|28|2024-01-04|
-|145|[google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen)|LLM powered fuzzing via OSS-Fuzz.|552|28|2024-02-13|
-|146|[ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)|中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)|5989|28|2024-01-29|
-|147|[THUDM/CogVLM](https://github.com/THUDM/CogVLM)|a state-of-the-art-level open visual language model   多模态预训练模型|4134|28|2024-02-07|
-|148|[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)|Easily migrate your codebase from one framework or language to another.|6666|28|2024-01-31|
-|149|[daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm)|HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"|2781|28|2024-01-11|
-|150|[bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)|Operating LLMs in production|8115|27|2024-02-13|
-|151|[huggingface/distil-whisper](https://github.com/huggingface/distil-whisper)|Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.|2841|27|2024-02-05|
-|152|[sweepai/sweep](https://github.com/sweepai/sweep)|Sweep: AI-powered Junior Developer for small features and bug fixes.|6734|27|2024-02-13|
-|153|[cheahjs/palworld-save-tools](https://github.com/cheahjs/palworld-save-tools)|Tools for converting Palworld .sav files to JSON and back|641|27|2024-02-12|
-|154|[CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)|Fast Segment Anything|6532|27|2023-12-31|
-|155|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|25061|27|2024-02-08|
-|156|[sczhou/ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|4283|26|2023-12-02|
-|157|[google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)|-|3271|26|2024-02-08|
-|158|[togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)|-|8973|26|2023-08-22|
-|159|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|36400|26|2024-02-08|
-|160|[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)|This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.|1106|26|2024-02-11|
-|161|[microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)|A code-first agent framework for seamlessly planning and executing data analytics tasks. |4072|26|2024-02-07|
-|162|[BerriAI/litellm](https://github.com/BerriAI/litellm)|Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)|5327|26|2024-02-13|
-|163|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|126965|26|2024-02-11|
-|164|[qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF)|Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing|4691|26|2024-02-08|
-|165|[dataelement/bisheng](https://github.com/dataelement/bisheng)|Bisheng is an open LLM devops platform for next generation AI applications.|4247|25|2024-02-07|
-|166|[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)|📷 EasyPhoto   Your Smart AI Photo Generator.|4238|25|2024-02-07|
-|167|[fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)|FauxPilot - an open-source alternative to GitHub Copilot server|13971|25|2024-02-07|
-|168|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|46610|25|2024-02-12|
-|169|[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|6939|25|2024-02-12|
-|170|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|81355|25|2024-01-25|
-|171|[voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)|so-vits-svc fork with realtime support, improved interface and more features.|7979|24|2024-02-12|
-|172|[FMInference/FlexGen](https://github.com/FMInference/FlexGen)|Running large language models on a single GPU for throughput-oriented scenarios.|8854|24|2023-09-27|
-|173|[OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)|An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.|7621|24|2024-02-12|
-|174|[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)|Generative Gaussian Splatting for Efficient 3D Content Creation|3363|24|2024-01-02|
-|175|[Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)|PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis|8860|24|2024-02-12|
-|176|[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)|The official GitHub page for the survey paper "A Survey of Large Language Models".|7648|23|2024-01-10|
-|177|[ishan0102/vimGPT](https://github.com/ishan0102/vimGPT)|Browse the web with GPT-4V and Vimium|2323|23|2024-02-04|
-|178|[facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind)|ImageBind One Embedding Space to Bind Them All|7642|23|2023-12-09|
-|179|[pydantic/FastUI](https://github.com/pydantic/FastUI)|Build better UIs faster.|3473|23|2024-02-13|
-|180|[bigcode-project/starcoder](https://github.com/bigcode-project/starcoder)|Home of StarCoder: fine-tuning & inference!|6851|23|2023-10-31|
-|181|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|33966|23|2024-01-24|
-|182|[danielgross/localpilot](https://github.com/danielgross/localpilot)|-|3192|23|2024-01-17|
-|183|[atopile/atopile](https://github.com/atopile/atopile)|Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️|1306|23|2024-02-13|
-|184|[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)|A large-scale 7B pretraining language model developed by BaiChuan-Inc.|5529|23|2023-09-30|
-|185|[DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V)|TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones|1108|23|2024-02-01|
-|186|[paul-gauthier/aider](https://github.com/paul-gauthier/aider)|aider is AI pair programming in your terminal|6353|23|2024-02-12|
-|187|[python/cpython](https://github.com/python/cpython)|The Python programming language|58335|23|2024-02-13|
-|188|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|9964|23|2023-12-27|
-|189|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|9129|23|2024-02-10|
-|190|[ali-vilab/i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl)|Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models|2214|22|2024-02-05|
-|191|[danswer-ai/danswer](https://github.com/danswer-ai/danswer)|Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.|6588|22|2024-02-13|
-|192|[Textualize/textual](https://github.com/Textualize/textual)|The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.|22861|22|2024-02-13|
-|193|[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)|-|3277|22|2024-02-11|
-|194|[nlmatics/nlm-ingestor](https://github.com/nlmatics/nlm-ingestor)|This repo provides the server side code for llmsherpa API to connect. It includes parsers for various file formats.|612|22|2024-02-12|
-|195|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|48463|22|2024-01-26|
-|196|[Open-Wine-Components/ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher)|-|498|22|2024-02-13|
-|197|[ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui)|GPT 3.5/4 with a Chat Web UI. No API key required.|5630|22|2023-09-26|
-|198|[chroma-core/chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|10959|22|2024-02-12|
-|199|[roboflow/supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|9589|22|2024-02-13|
-|200|[Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)|Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.|3713|22|2024-02-12|
+|55|[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.|20560|62|2024-02-08|
+|56|[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频|5477|62|2024-02-09|
+|57|[OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable multimodal models to operate a computer.|6366|62|2024-02-09|
+|58|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|120125|62|2024-02-14|
+|59|[cpacker/MemGPT](https://github.com/cpacker/MemGPT)|Teaching LLMs memory management for unbounded context 📚🦙|7771|61|2024-02-14|
+|60|[VikParuchuri/marker](https://github.com/VikParuchuri/marker)|Convert PDF to markdown quickly with high accuracy|6503|60|2024-02-12|
+|61|[run-llama/rags](https://github.com/run-llama/rags)|Build ChatGPT over your data, all with natural language|5494|60|2024-02-02|
+|62|[MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)|-|2055|60|2024-01-22|
+|63|[run-llama/llama_index](https://github.com/run-llama/llama_index)|LlamaIndex (formerly GPT Index) is a data framework for your LLM applications|28004|60|2024-02-14|
+|64|[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)|EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine|5881|59|2024-02-06|
+|65|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|10765|59|2024-02-14|
+|66|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)|-|18544|58|2024-01-06|
+|67|[OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)|An Autonomous LLM Agent for Complex Task Solving|6898|57|2023-12-31|
+|68|[apple/ml-ferret](https://github.com/apple/ml-ferret)|-|7355|56|2024-01-27|
+|69|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A youtube-dl fork with additional features and fixes|66126|55|2024-02-14|
+|70|[wenge-research/YAYI2](https://github.com/wenge-research/YAYI2)|YAYI 2 是中科闻歌研发的新一代开源大语言模型，采用了超过 2 万亿 Tokens 的高质量、多语言语料进行预训练。(Repo for YaYi 2 Chinese LLMs)|3419|55|2024-01-12|
+|71|[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|15568|53|2024-02-14|
+|72|[facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal)|Code and dataset for photorealistic Codec Avatars driven from audio|2333|53|2024-01-26|
+|73|[apple/ml-mgie](https://github.com/apple/ml-mgie)|-|3211|52|2024-02-12|
+|74|[3DTopia/LGM](https://github.com/3DTopia/LGM)|LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.|464|52|2024-02-13|
+|75|[TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)|The open source platform for AI-native application development.|1949|51|2024-02-13|
+|76|[langgenius/dify](https://github.com/langgenius/dify)|An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ ...|15535|50|2024-02-14|
+|77|[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)|<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.|13763|50|2024-02-04|
+|78|[RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Voice data <= 10 mins can also be used to train a good VC model!|16302|50|2024-02-08|
+|79|[dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf)|🔄 CLI to convert Webpages to PDFs 🚀 |677|48|2024-02-11|
+|80|[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)|16326|48|2024-01-29|
+|81|[QwenLM/Qwen](https://github.com/QwenLM/Qwen)|The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.|8991|46|2024-02-05|
+|82|[uclaml/SPIN](https://github.com/uclaml/SPIN)|The official implementation of Self-Play Fine-Tuning (SPIN)|496|45|2024-02-14|
+|83|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)|[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.|13807|45|2024-02-10|
+|84|[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)|11591|44|2024-02-14|
+|85|[IdreesInc/Miracode](https://github.com/IdreesInc/Miracode)|A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft|484|44|2024-02-11|
+|86|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Making large AI models cheaper, faster and more accessible|36372|43|2024-02-14|
+|87|[mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)|[ICLR 2024] Efficient Streaming Language Models with Attention Sinks|5921|43|2024-02-04|
+|88|[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)|Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"|9810|43|2024-02-13|
+|89|[unslothai/unsloth](https://github.com/unslothai/unsloth)|5X faster 60% less memory QLoRA finetuning|3311|42|2024-02-14|
+|90|[smol-ai/developer](https://github.com/smol-ai/developer)|the first library to let you embed a developer agent in your own app!|11488|41|2023-10-22|
+|91|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|15061|41|2024-02-12|
+|92|[lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)|Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI|1099|41|2024-02-09|
+|93|[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.|14226|41|2024-01-21|
+|94|[vllm-project/vllm](https://github.com/vllm-project/vllm)|A high-throughput and memory-efficient inference and serving engine for LLMs|14661|40|2024-02-14|
+|95|[logspace-ai/langflow](https://github.com/logspace-ai/langflow)|⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|14529|39|2024-02-14|
+|96|[pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)|Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.|4671|39|2024-02-10|
+|97|[cbh123/narrator](https://github.com/cbh123/narrator)|David Attenborough narrates your life|3604|39|2024-01-09|
+|98|[deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|DeepSeek Coder: Let the Code Write Itself|4585|39|2024-02-06|
+|99|[LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese)|Llama中文社区，最好的中文Llama大模型，完全开源可商用|8285|39|2024-01-31|
+|100|[lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)|-|1224|38|2024-02-14|
+|101|[open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio,  ...|3451|38|2024-02-13|
+|102|[vikhyat/moondream](https://github.com/vikhyat/moondream)|tiny vision language model|1846|38|2024-02-07|
+|103|[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)|An open-source tool-augmented conversational language model from Fudan University|11728|38|2023-09-08|
+|104|[arc53/DocsGPT](https://github.com/arc53/DocsGPT)|GPT-powered chat for documentation, chat with your documents|13851|37|2024-02-14|
+|105|[sgl-project/sglang](https://github.com/sgl-project/sglang)|SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.|1388|37|2024-02-12|
+|106|[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)|The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.|6080|37|2024-02-14|
+|107|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite|19348|37|2024-02-14|
+|108|[Textualize/toolong](https://github.com/Textualize/toolong)|A terminal application to view, tail, merge, and search log files (plus JSONL).|1438|37|2024-02-13|
+|109|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|68189|36|2024-02-14|
+|110|[ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)|Unofficial implementation of InstantID for ComfyUI|854|36|2024-02-04|
+|111|[openai/shap-e](https://github.com/openai/shap-e)|Generate 3D objects conditioned on text or images|10964|36|2024-02-01|
+|112|[openai/weak-to-strong](https://github.com/openai/weak-to-strong)|-|2256|35|2024-02-13|
+|113|[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)|Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...|19618|35|2023-12-15|
+|114|[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)|Stable Diffusion with Core ML on Apple Silicon|15769|35|2024-01-24|
+|115|[Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)|An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io|6831|34|2024-02-11|
+|116|[krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)|-|5058|34|2024-02-06|
+|117|[dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading)|Run Mixtral-8x7B models in Colab or consumer desktops|2082|34|2024-01-18|
+|118|[openai/evals](https://github.com/openai/evals)|Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.|13236|34|2024-02-13|
+|119|[huggingface/diffusers](https://github.com/huggingface/diffusers)|🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch|20926|33|2024-02-14|
+|120|[gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)|Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.|9736|33|2024-02-08|
+|121|[xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)|Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.|819|33|2024-02-10|
+|122|[guoqincode/Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone)|Unofficial Implementation of Animate Anyone|2332|33|2024-01-14|
+|123|[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)|Gorilla: An API store for LLMs|8962|33|2024-02-13|
+|124|[bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)|-|1575|33|2024-02-14|
+|125|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|45078|33|2024-02-13|
+|126|[embedchain/embedchain](https://github.com/embedchain/embedchain)|The Open Source RAG framework|7684|32|2024-02-13|
+|127|[microsoft/promptflow](https://github.com/microsoft/promptflow)|Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|7334|32|2024-02-13|
+|128|[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)|AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents|9811|32|2024-02-08|
+|129|[reflex-dev/reflex](https://github.com/reflex-dev/reflex)|🕸 Web apps in pure Python 🐍|14905|31|2024-02-14|
+|130|[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)|Single Image to 3D using Cross-Domain Diffusion|3868|31|2024-02-05|
+|131|[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|7595|31|2024-02-01|
+|132|[johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal)|Simple, minimal implementation of the Mamba SSM in one file of PyTorch.|1742|31|2024-01-21|
+|133|[THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|CodeGeeX2: A More Powerful Multilingual Code Generation Model|6396|31|2024-02-06|
+|134|[microsoft/TypeChat](https://github.com/microsoft/TypeChat)|TypeChat is a library that makes it easy to build natural language interfaces using types.|7468|31|2024-02-13|
+|135|[h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)|Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/|9731|30|2024-02-14|
+|136|[facebookresearch/nougat](https://github.com/facebookresearch/nougat)|Implementation of Nougat Neural Optical Understanding for Academic Documents|7593|30|2024-01-22|
+|137|[assafelovic/gpt-newspaper](https://github.com/assafelovic/gpt-newspaper)|-|771|30|2024-02-12|
+|138|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|41917|30|2023-11-28|
+|139|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|46372|30|2024-02-13|
+|140|[twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)|Source code for Twitter's Recommendation Algorithm|9826|30|2023-09-21|
+|141|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|49926|29|2024-01-14|
+|142|[luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)|Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference|3784|29|2023-12-02|
+|143|[fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)|vits2 backbone with multilingual-bert|5810|29|2024-02-13|
+|144|[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|9639|29|2023-10-05|
+|145|[huggingface/peft](https://github.com/huggingface/peft)|🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.|12518|28|2024-02-14|
+|146|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath|8309|28|2024-01-04|
+|147|[ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)|中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)|5994|28|2024-01-29|
+|148|[THUDM/CogVLM](https://github.com/THUDM/CogVLM)|a state-of-the-art-level open visual language model   多模态预训练模型|4141|28|2024-02-07|
+|149|[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)|Easily migrate your codebase from one framework or language to another.|6651|28|2024-01-31|
+|150|[daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm)|HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"|2784|28|2024-01-11|
+|151|[bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)|Operating LLMs in production|8122|27|2024-02-14|
+|152|[huggingface/distil-whisper](https://github.com/huggingface/distil-whisper)|Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.|2845|27|2024-02-13|
+|153|[sweepai/sweep](https://github.com/sweepai/sweep)|Sweep: AI-powered Junior Developer for small features and bug fixes.|6738|27|2024-02-14|
+|154|[CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)|Fast Segment Anything|6533|27|2023-12-31|
+|155|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|25068|27|2024-02-08|
+|156|[sczhou/ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|4287|26|2023-12-02|
+|157|[togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)|-|8974|26|2023-08-22|
+|158|[google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen)|LLM powered fuzzing via OSS-Fuzz.|554|26|2024-02-14|
+|159|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|36411|26|2024-02-08|
+|160|[microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)|A code-first agent framework for seamlessly planning and executing data analytics tasks. |4077|26|2024-02-07|
+|161|[BerriAI/litellm](https://github.com/BerriAI/litellm)|Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)|5351|26|2024-02-14|
+|162|[cheahjs/palworld-save-tools](https://github.com/cheahjs/palworld-save-tools)|Tools for converting Palworld .sav files to JSON and back|646|26|2024-02-14|
+|163|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|126980|26|2024-02-11|
+|164|[google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)|-|3276|25|2024-02-08|
+|165|[dataelement/bisheng](https://github.com/dataelement/bisheng)|Bisheng is an open LLM devops platform for next generation AI applications.|4264|25|2024-02-14|
+|166|[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)|📷 EasyPhoto   Your Smart AI Photo Generator.|4241|25|2024-02-07|
+|167|[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)|This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.|1109|25|2024-02-11|
+|168|[fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)|FauxPilot - an open-source alternative to GitHub Copilot server|13975|25|2024-02-07|
+|169|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|46641|25|2024-02-14|
+|170|[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|6964|25|2024-02-12|
+|171|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|81372|25|2024-01-25|
+|172|[qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF)|Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing|4691|25|2024-02-08|
+|173|[voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)|so-vits-svc fork with realtime support, improved interface and more features.|7984|24|2024-02-12|
+|174|[FMInference/FlexGen](https://github.com/FMInference/FlexGen)|Running large language models on a single GPU for throughput-oriented scenarios.|8855|24|2023-09-27|
+|175|[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)|Generative Gaussian Splatting for Efficient 3D Content Creation|3368|24|2024-01-02|
+|176|[Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)|PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis|8863|24|2024-02-12|
+|177|[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)|The official GitHub page for the survey paper "A Survey of Large Language Models".|7649|23|2024-01-10|
+|178|[ishan0102/vimGPT](https://github.com/ishan0102/vimGPT)|Browse the web with GPT-4V and Vimium|2323|23|2024-02-04|
+|179|[danswer-ai/danswer](https://github.com/danswer-ai/danswer)|Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.|6742|23|2024-02-14|
+|180|[facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind)|ImageBind One Embedding Space to Bind Them All|7642|23|2023-12-09|
+|181|[pydantic/FastUI](https://github.com/pydantic/FastUI)|Build better UIs faster.|3520|23|2024-02-14|
+|182|[bigcode-project/starcoder](https://github.com/bigcode-project/starcoder)|Home of StarCoder: fine-tuning & inference!|6853|23|2023-10-31|
+|183|[OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)|An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.|7622|23|2024-02-12|
+|184|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|34007|23|2024-01-24|
+|185|[danielgross/localpilot](https://github.com/danielgross/localpilot)|-|3193|23|2024-01-17|
+|186|[atopile/atopile](https://github.com/atopile/atopile)|Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️|1316|23|2024-02-14|
+|187|[DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V)|TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones|1109|23|2024-02-01|
+|188|[paul-gauthier/aider](https://github.com/paul-gauthier/aider)|aider is AI pair programming in your terminal|6376|23|2024-02-13|
+|189|[python/cpython](https://github.com/python/cpython)|The Python programming language|58362|23|2024-02-14|
+|190|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|9966|23|2023-12-27|
+|191|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|9133|23|2024-02-10|
+|192|[ali-vilab/i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl)|Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models|2220|22|2024-02-05|
+|193|[Textualize/textual](https://github.com/Textualize/textual)|The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.|22878|22|2024-02-14|
+|194|[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)|-|3279|22|2024-02-11|
+|195|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|48472|22|2024-01-26|
+|196|[ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui)|GPT 3.5/4 with a Chat Web UI. No API key required.|5631|22|2023-09-26|
+|197|[chroma-core/chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|10970|22|2024-02-14|
+|198|[roboflow/supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|9593|22|2024-02-14|
+|199|[Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)|Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.|3719|22|2024-02-12|
+|200|[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)|A large-scale 7B pretraining language model developed by BaiChuan-Inc.|5528|22|2023-09-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

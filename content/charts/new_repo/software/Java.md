@@ -1,157 +1,157 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Java
-<sub>Updated: 2024-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl](https://github.com/apple/pkl)|A configuration as code language with rich validation and tooling.|6713|2024-02-13|2024-01-19|
-|2|[brunodev85/winlator](https://github.com/brunodev85/winlator)|Android application for running Windows applications with Wine and Box86/Box64|3839|2024-02-10|2023-07-26|
-|3|[conductor-oss/conductor](https://github.com/conductor-oss/conductor)|Conductor is a microservices orchestration engine.|3416|2024-02-12|2023-12-08|
-|4|[gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)|1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java|3209|2024-02-05|2023-12-28|
-|5|[apache/incubator-fury](https://github.com/apache/incubator-fury)|A blazing fast multi-language serialization framework powered by JIT and zero-copy.|2497|2024-02-11|2023-04-28|
-|6|[WuKongOpenSource/Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM)|悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程|2301|2023-11-06|2023-10-17|
-|7|[aress31/burpgpt](https://github.com/aress31/burpgpt)|A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.|1758|2024-01-19|2023-04-08|
-|8|[langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)|Java version of LangChain|1757|2024-02-13|2023-06-20|
-|9|[google/bindiff](https://github.com/google/bindiff)|Quickly find differences and similarities in disassembled code|1751|2024-02-13|2023-09-20|
+|1|[apple/pkl](https://github.com/apple/pkl)|A configuration as code language with rich validation and tooling.|7016|2024-02-14|2024-01-19|
+|2|[brunodev85/winlator](https://github.com/brunodev85/winlator)|Android application for running Windows applications with Wine and Box86/Box64|3854|2024-02-10|2023-07-26|
+|3|[conductor-oss/conductor](https://github.com/conductor-oss/conductor)|Conductor is a microservices orchestration engine.|3585|2024-02-14|2023-12-08|
+|4|[gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)|1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java|3215|2024-02-05|2023-12-28|
+|5|[apache/incubator-fury](https://github.com/apache/incubator-fury)|A blazing fast multi-language serialization framework powered by JIT and zero-copy.|2497|2024-02-14|2023-04-28|
+|6|[WuKongOpenSource/Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM)|悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程|2326|2023-11-06|2023-10-17|
+|7|[langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)|Java version of LangChain|1762|2024-02-13|2023-06-20|
+|8|[aress31/burpgpt](https://github.com/aress31/burpgpt)|A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.|1759|2024-01-19|2023-04-08|
+|9|[google/bindiff](https://github.com/google/bindiff)|Quickly find differences and similarities in disassembled code|1753|2024-02-13|2023-09-20|
 |10|[mybatis-flex/mybatis-flex](https://github.com/mybatis-flex/mybatis-flex)|mybatis-flex is an elegant Mybatis Enhancement Framework|1505|2024-02-05|2023-02-27|
-|11|[linyimin0812/spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer)|spring-startup-analyzer generates an interactive spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀|1210|2023-12-31|2023-05-01|
-|12|[jbellis/jvector](https://github.com/jbellis/jvector)|JVector: the most advanced embedded vector search engine|1176|2024-02-13|2023-08-25|
-|13|[ReChronoRain/Cemiuiler](https://github.com/ReChronoRain/Cemiuiler)|Make MIUI Great Again!|1116|2023-12-18|2023-02-28|
+|11|[linyimin0812/spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer)|spring-startup-analyzer generates an interactive spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀|1211|2023-12-31|2023-05-01|
+|12|[jbellis/jvector](https://github.com/jbellis/jvector)|JVector: the most advanced embedded vector search engine|1178|2024-02-14|2023-08-25|
+|13|[ReChronoRain/Cemiuiler](https://github.com/ReChronoRain/Cemiuiler)|Make MIUI Great Again!|1114|2023-12-18|2023-02-28|
 |14|[fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser)|Information about the fractureiser malware|1110|2023-10-07|2023-06-07|
-|15|[ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)|Make HyperOS Great Again!|1090|2024-02-13|2023-10-27|
-|16|[spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)|An Application Framework for AI Engineering|1059|2024-02-13|2023-06-27|
-|17|[whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)|A Bot Framework based on Lsposed with OneBot11|996|2024-02-11|2023-10-25|
-|18|[constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy)|-|984|2024-02-08|2023-07-13|
-|19|[HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator)|Free your Apple Notes data from Notes.app|934|2023-09-24|2023-03-26|
-|20|[neoforged/NeoForge](https://github.com/neoforged/NeoForge)|Neo Modding API for Minecraft, based on Forge|834|2024-02-13|2023-07-08|
-|21|[Melledy/LunarCore](https://github.com/Melledy/LunarCore)|A game server reimplementation for a certain turn-based anime game|735|2024-02-10|2023-10-10|
-|22|[bepass-org/oblivion](https://github.com/bepass-org/oblivion)|Unofficial warp client for android|648|2024-02-13|2024-02-08|
+|15|[ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)|Make HyperOS Great Again!|1099|2024-02-14|2023-10-27|
+|16|[spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)|An Application Framework for AI Engineering|1065|2024-02-14|2023-06-27|
+|17|[whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)|A Bot Framework based on Lsposed with OneBot11|1001|2024-02-11|2023-10-25|
+|18|[constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy)|-|986|2024-02-08|2023-07-13|
+|19|[HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator)|Free your Apple Notes data from Notes.app|935|2023-09-24|2023-03-26|
+|20|[neoforged/NeoForge](https://github.com/neoforged/NeoForge)|Neo Modding API for Minecraft, based on Forge|836|2024-02-14|2023-07-08|
+|21|[bepass-org/oblivion](https://github.com/bepass-org/oblivion)|Unofficial warp client for android|746|2024-02-14|2024-02-08|
+|22|[Melledy/LunarCore](https://github.com/Melledy/LunarCore)|A game server reimplementation for a certain turn-based anime game|738|2024-02-10|2023-10-10|
 |23|[Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)|虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮|626|2024-02-04|2023-04-27|
-|24|[nickm980/smallville](https://github.com/nickm980/smallville)|Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior|593|2023-10-11|2023-05-17|
-|25|[Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)|Open-source third-party Telegram client with few but useful mods.|589|2024-02-09|2023-09-10|
+|24|[Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)|Open-source third-party Telegram client with few but useful mods.|596|2024-02-09|2023-09-10|
+|25|[nickm980/smallville](https://github.com/nickm980/smallville)|Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior|593|2023-10-11|2023-05-17|
 |26|[4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server)|MySQL Fake Server (纯Java实现，支持GUI版和命令行版，提供Dockerfile，支持多种常见JDBC利用)|582|2023-09-18|2023-05-15|
-|27|[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)|Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.|574|2023-10-31|2023-06-19|
-|28|[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)|The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and othe ...|574|2024-02-13|2023-03-28|
+|27|[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)|The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and othe ...|575|2024-02-14|2023-03-28|
+|28|[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)|Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.|574|2023-10-31|2023-06-19|
 |29|[TuGraph-family/tugraph-analytics](https://github.com/TuGraph-family/tugraph-analytics)|TuGraph Analytics is the fastest OLAP graph database.|562|2024-02-01|2023-06-05|
 |30|[SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN)|Modern Android client for Hacker News|558|2024-02-06|2023-05-23|
 |31|[onetable-io/onetable](https://github.com/onetable-io/onetable)|OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.|555|2024-02-11|2023-07-21|
 |32|[digitalinnovationone/santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api)|RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.|552|2023-10-22|2023-07-06|
 |33|[bifromqio/bifromq](https://github.com/bifromqio/bifromq)|A MQTT broker implementation adopting serverless architecture|541|2024-02-10|2023-05-29|
-|34|[MCRcortex/nvidium](https://github.com/MCRcortex/nvidium)|Fast minecraft rendering backend for sodium (nvidia only)|521|2024-02-10|2023-04-13|
-|35|[ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez)|-|511|2023-11-02|2023-05-18|
-|36|[carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT)|JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free|500|2024-02-12|2023-02-15|
-|37|[AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka)|A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.|482|2024-02-09|2023-08-17|
+|34|[MCRcortex/nvidium](https://github.com/MCRcortex/nvidium)|Fast minecraft rendering backend for sodium (nvidia only)|525|2024-02-10|2023-04-13|
+|35|[ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez)|-|512|2023-11-02|2023-05-18|
+|36|[carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT)|JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free|503|2024-02-14|2023-02-15|
+|37|[AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka)|A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.|483|2024-02-09|2023-08-17|
 |38|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询|481|2024-02-02|2023-10-07|
 |39|[LaurieWired/JADXecute](https://github.com/LaurieWired/JADXecute)|JADX-gui scripting plugin for dynamic decompiler manipulation|481|2024-02-05|2023-03-14|
 |40|[linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|Spring Boot ChatGPT Starter|469|2023-12-26|2023-06-17|
 |41|[cami-la/collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023)|Este repositório é referente ao curso "Collection Framework API Java" e é uma valiosa contribuição para a comunidade de desenvolvedores Java, fornecendo exemplos práticos e recursos educacionais relac ...|463|2023-11-29|2023-06-02|
 |42|[HamaWhiteGG/langchain-java](https://github.com/HamaWhiteGG/langchain-java)|Java version of LangChain, while empowering LLM for Big Data.|452|2024-01-17|2023-05-24|
 |43|[Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android)|免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能   A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network conn ...|435|2024-01-09|2023-09-13|
-|44|[knuddelsgmbh/jtokkit](https://github.com/knuddelsgmbh/jtokkit)|JTokkit is a Java tokenizer library designed for use with OpenAI models.|418|2024-02-13|2023-03-19|
+|44|[knuddelsgmbh/jtokkit](https://github.com/knuddelsgmbh/jtokkit)|JTokkit is a Java tokenizer library designed for use with OpenAI models.|419|2024-02-13|2023-03-19|
 |45|[chiteroman/BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer)|Spoof locked bootloader on local attestations|389|2024-01-02|2023-09-18|
-|46|[kousiknath/LowLevelDesign](https://github.com/kousiknath/LowLevelDesign)|Various Low Level Object Oriented System Design problems are discussed in this space|347|2024-01-07|2023-09-02|
-|47|[Sinytra/Connector](https://github.com/Sinytra/Connector)|A compatibility layer that allows running Fabric mods on MinecraftForge|347|2024-02-05|2023-05-25|
-|48|[polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular)|-|345|2024-01-29|2024-01-21|
+|46|[polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular)|-|360|2024-01-29|2024-01-21|
+|47|[Sinytra/Connector](https://github.com/Sinytra/Connector)|A compatibility layer that allows running Fabric mods on MinecraftForge|348|2024-02-05|2023-05-25|
+|48|[kousiknath/LowLevelDesign](https://github.com/kousiknath/LowLevelDesign)|Various Low Level Object Oriented System Design problems are discussed in this space|347|2024-01-07|2023-09-02|
 |49|[merua0oo0/im](https://github.com/merua0oo0/im)|-|337|2024-02-03|2023-07-07|
-|50|[SAP/abap-cleaner](https://github.com/SAP/abap-cleaner)|ABAP cleaner applies 70+ cleanup rules to ABAP code at a single keystroke|332|2024-02-12|2023-04-21|
-|51|[maciejwalkowiak/spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report)|Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimi ...|329|2024-01-14|2023-03-09|
-|52|[LangStream/langstream](https://github.com/LangStream/langstream)|LangStream. Event-Driven Developer Platform for Building and Running LLM AI Apps. Powered by Kubernetes and Kafka.|325|2024-01-29|2023-06-28|
-|53|[digitalinnovationone/ganhando_produtividade_com_Stream_API_Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)|Este repositório contém o código-fonte do curso "Ganhando Produtividade com Stream API Java". O curso foi projetado para ajudar desenvolvedores Java a aproveitar ao máximo a poderosa Stream API introd ...|317|2023-09-25|2023-07-24|
-|54|[devsuperior/dslist-backend](https://github.com/devsuperior/dslist-backend)|-|309|2023-11-08|2023-05-06|
-|55|[tencentmusic/supersonic](https://github.com/tencentmusic/supersonic)|SuperSonic is the next-generation LLM-powered data analytics platform that integrates ChatBI and HeadlessBI|297|2024-02-12|2023-06-12|
-|56|[xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI)|一键免杀冰蝎、哥斯拉等webshel​​l的php、jsp木马文件|295|2023-12-11|2023-10-21|
-|57|[falvojr/santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023)|Java RESTful API criada para a Santander Dev Week|295|2023-10-22|2023-07-21|
-|58|[PavelMal/PostmanTesting](https://github.com/PavelMal/PostmanTesting)|It's an app for QA to practise testing|289|2023-09-02|2023-08-03|
+|50|[PavelMal/PostmanTesting](https://github.com/PavelMal/PostmanTesting)|It's an app for QA to practise testing|333|2023-09-02|2023-08-03|
+|51|[SAP/abap-cleaner](https://github.com/SAP/abap-cleaner)|ABAP cleaner applies 70+ cleanup rules to ABAP code at a single keystroke|332|2024-02-12|2023-04-21|
+|52|[maciejwalkowiak/spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report)|Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimi ...|329|2024-01-14|2023-03-09|
+|53|[LangStream/langstream](https://github.com/LangStream/langstream)|LangStream. Event-Driven Developer Platform for Building and Running LLM AI Apps. Powered by Kubernetes and Kafka.|325|2024-01-29|2023-06-28|
+|54|[digitalinnovationone/ganhando_produtividade_com_Stream_API_Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)|Este repositório contém o código-fonte do curso "Ganhando Produtividade com Stream API Java". O curso foi projetado para ajudar desenvolvedores Java a aproveitar ao máximo a poderosa Stream API introd ...|317|2023-09-25|2023-07-24|
+|55|[devsuperior/dslist-backend](https://github.com/devsuperior/dslist-backend)|-|309|2023-11-08|2023-05-06|
+|56|[tencentmusic/supersonic](https://github.com/tencentmusic/supersonic)|SuperSonic is the next-generation LLM-powered data analytics platform that integrates ChatBI and HeadlessBI|298|2024-02-12|2023-06-12|
+|57|[xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI)|一键免杀冰蝎、哥斯拉等webshel​​l的php、jsp木马文件|295|2023-12-11|2023-10-21|
+|58|[falvojr/santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023)|Java RESTful API criada para a Santander Dev Week|295|2023-10-22|2023-07-21|
 |59|[cubefs/compass](https://github.com/cubefs/compass)|Compass is a task diagnosis platform for bigdata|286|2024-01-23|2023-03-29|
 |60|[nccgroup/Cartographer](https://github.com/nccgroup/Cartographer)|Code Coverage Exploration Plugin for Ghidra|284|2024-02-07|2023-06-07|
 |61|[WadhahEssam/react-native-theme-switch-animation](https://github.com/WadhahEssam/react-native-theme-switch-animation)|A Plug & Play Animations for Switching (Dark/Light) Themes. 🌖|278|2023-12-19|2023-11-01|
-|62|[dogboy21/serializationisbad](https://github.com/dogboy21/serializationisbad)|A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods|277|2023-12-22|2023-07-25|
-|63|[zjns/BiliRoamingX-integrations](https://github.com/zjns/BiliRoamingX-integrations)|BiliRoamingX integrations powered by revanced.|266|2024-02-10|2023-06-25|
+|62|[dogboy21/serializationisbad](https://github.com/dogboy21/serializationisbad)|A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods|278|2023-12-22|2023-07-25|
+|63|[zjns/BiliRoamingX-integrations](https://github.com/zjns/BiliRoamingX-integrations)|BiliRoamingX integrations powered by revanced.|269|2024-02-14|2023-06-25|
 |64|[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)|EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge ...|258|2024-02-09|2023-03-20|
 |65|[woheller69/omweather](https://github.com/woheller69/omweather)|-|250|2023-12-28|2023-02-18|
-|66|[Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject)|This is a reader supporting the advertising business, with pages able to directly add any custom View layout, including video Views.|243|2023-10-31|2023-04-07|
+|66|[Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject)|This is a reader supporting the advertising business, with pages able to directly add any custom View layout, including video Views.|244|2023-10-31|2023-04-07|
 |67|[redplanetlabs/twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon)|Twitter-scale Mastodon implementation in 100x less code than Twitter wrote to build the equivalent|236|2023-12-26|2023-08-27|
 |68|[yj8023xx/xrpc](https://github.com/yj8023xx/xrpc)|A lightweight, high throughput, and low latency RPC framework that supports the RDMA protocol|223|2024-01-25|2023-06-16|
 |69|[mainpropath/AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework)|-|222|2024-01-24|2023-12-11|
 |70|[felizdevida/chat-box](https://github.com/felizdevida/chat-box)|-|216|2023-12-02|2023-09-01|
 |71|[oceanbase/odc](https://github.com/oceanbase/odc)|OceanBase Developer Center(ODC), An open-source, enterprise-grade database tool for collaborative development|212|2024-02-07|2023-08-08|
 |72|[Basanttt/myproject](https://github.com/Basanttt/myproject)|-|211|2024-02-06|2023-12-24|
-|73|[TongchengOpenSource/ckibana](https://github.com/TongchengOpenSource/ckibana)|Visualizing data in ClickHouse using native Kibana.|203|2024-02-08|2023-11-21|
-|74|[OpenSPG/openspg](https://github.com/OpenSPG/openspg)|OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constra ...|199|2024-02-07|2023-10-23|
-|75|[mainpropath/AI-java](https://github.com/mainpropath/AI-java)|-|198|2024-01-24|2023-12-05|
-|76|[woheller69/gptAssist](https://github.com/woheller69/gptAssist)|gptAssist is a simple WebView wrapper for ChatGPT|196|2024-01-05|2023-05-11|
+|73|[TongchengOpenSource/ckibana](https://github.com/TongchengOpenSource/ckibana)|Visualizing data in ClickHouse using native Kibana.|204|2024-02-08|2023-11-21|
+|74|[mainpropath/AI-java](https://github.com/mainpropath/AI-java)|-|200|2024-01-24|2023-12-05|
+|75|[OpenSPG/openspg](https://github.com/OpenSPG/openspg)|OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constra ...|199|2024-02-07|2023-10-23|
+|76|[woheller69/gptAssist](https://github.com/woheller69/gptAssist)|gptAssist is a simple WebView wrapper for ChatGPT|197|2024-01-05|2023-05-11|
 |77|[simdjson/simdjson-java](https://github.com/simdjson/simdjson-java)|A Java version of simdjson|194|2023-11-27|2023-07-11|
-|78|[GregTechCEu/GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern)|GregTech CE Unofficial for modern versions|189|2024-02-13|2023-03-17|
-|79|[MDeLuise/plant-it](https://github.com/MDeLuise/plant-it)|🪴 Self-hosted, open source gardening companion app|188|2024-02-13|2023-05-19|
+|78|[PavelMal/selenide-example](https://github.com/PavelMal/selenide-example)|Example of using Selenide for UI Autotests|191|2023-09-26|2023-09-11|
+|79|[GregTechCEu/GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern)|GregTech CE Unofficial for modern versions|190|2024-02-14|2023-03-17|
 |80|[DMaroo/GhidRust](https://github.com/DMaroo/GhidRust)|GhidRust: Rust decompiler plugin for Ghidra|188|2024-02-05|2023-04-21|
 |81|[mindedsecurity/semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)|A collection of Semgrep rules derived from the OWASP MASTG specifically for Android applications.|188|2024-01-31|2023-03-14|
-|82|[datastrato/gravitino](https://github.com/datastrato/gravitino)|World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.|184|2024-02-13|2023-04-23|
-|83|[dylibso/chicory](https://github.com/dylibso/chicory)|Native JVM WebAssembly runtime|183|2024-02-12|2023-09-16|
-|84|[WolfLink-DevTeam/Sharine](https://github.com/WolfLink-DevTeam/Sharine)|Competition work of qiniu 1024 code marathon|182|2024-01-17|2023-10-24|
-|85|[fcaronte/KingInstaller](https://github.com/fcaronte/KingInstaller)|Porting of KingInstaller get from GitLab by annexhack|177|2024-01-07|2023-02-28|
-|86|[shellar1522/cryptocurrency-exchange-script](https://github.com/shellar1522/cryptocurrency-exchange-script)|Cryptocurrency exchange script   https://t.me/st_code|175|2024-01-24|2023-11-14|
-|87|[Sakion-Team/Re-Telegram](https://github.com/Sakion-Team/Re-Telegram)|An Xposed module to enhance the Telegram|173|2024-01-08|2023-07-07|
-|88|[maciejwalkowiak/wiremock-spring-boot](https://github.com/maciejwalkowiak/wiremock-spring-boot)|WireMock Spring Boot drastically simplifies testing HTTP clients in Spring Boot & Junit 5 based integration tests.|170|2024-01-15|2023-02-24|
-|89|[PavelMal/selenide-example](https://github.com/PavelMal/selenide-example)|Example of using Selenide for UI Autotests|168|2023-09-26|2023-09-11|
+|82|[MDeLuise/plant-it](https://github.com/MDeLuise/plant-it)|🪴 Self-hosted, open source gardening companion app|187|2024-02-14|2023-05-19|
+|83|[datastrato/gravitino](https://github.com/datastrato/gravitino)|World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.|184|2024-02-14|2023-04-23|
+|84|[dylibso/chicory](https://github.com/dylibso/chicory)|Native JVM WebAssembly runtime|183|2024-02-12|2023-09-16|
+|85|[WolfLink-DevTeam/Sharine](https://github.com/WolfLink-DevTeam/Sharine)|Competition work of qiniu 1024 code marathon|182|2024-01-17|2023-10-24|
+|86|[fcaronte/KingInstaller](https://github.com/fcaronte/KingInstaller)|Porting of KingInstaller get from GitLab by annexhack|178|2024-01-07|2023-02-28|
+|87|[shellar1522/cryptocurrency-exchange-script](https://github.com/shellar1522/cryptocurrency-exchange-script)|Cryptocurrency exchange script   https://t.me/st_code|175|2024-01-24|2023-11-14|
+|88|[Sakion-Team/Re-Telegram](https://github.com/Sakion-Team/Re-Telegram)|An Xposed module to enhance the Telegram|173|2024-01-08|2023-07-07|
+|89|[maciejwalkowiak/wiremock-spring-boot](https://github.com/maciejwalkowiak/wiremock-spring-boot)|WireMock Spring Boot drastically simplifies testing HTTP clients in Spring Boot & Junit 5 based integration tests.|170|2024-02-14|2023-02-24|
 |90|[kormax/osaifu-keitai-google-pixel](https://github.com/kormax/osaifu-keitai-google-pixel)|Enabling Osaifu-Keitai function on non-Japanese Google Pixel phones.|168|2023-10-27|2023-05-21|
 |91|[michaelliao/summer-framework](https://github.com/michaelliao/summer-framework)|Summer framework is a minimal Spring framework.|167|2024-01-24|2023-03-18|
-|92|[weibocom/rill-flow](https://github.com/weibocom/rill-flow)| Rill Flow is a high-performance, scalable distributed workflow orchestration service|164|2024-02-05|2023-11-03|
-|93|[MicroCBer/TGStickerProvider](https://github.com/MicroCBer/TGStickerProvider)|A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party telegram clients are supported.|162|2024-02-06|2024-01-22|
-|94|[DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker)|Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where  ...|161|2024-02-13|2023-06-09|
-|95|[asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql)|Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).|160|2024-02-13|2023-03-11|
+|92|[MicroCBer/TGStickerProvider](https://github.com/MicroCBer/TGStickerProvider)|A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party telegram clients are supported.|164|2024-02-06|2024-01-22|
+|93|[weibocom/rill-flow](https://github.com/weibocom/rill-flow)| Rill Flow is a high-performance, scalable distributed workflow orchestration service|164|2024-02-05|2023-11-03|
+|94|[DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker)|Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where  ...|163|2024-02-13|2023-06-09|
+|95|[asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql)|Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).|160|2024-02-14|2023-03-11|
 |96|[MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite)|A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition|155|2024-02-13|2023-06-24|
 |97|[AutoMQ/automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq)|A cloud native implementation for Apache RocketMQ 5.0|154|2024-02-08|2023-09-11|
 |98|[WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)|An intelligent coding assistant plugin for IntelliJ, developed based on CodeShell|151|2023-12-28|2023-10-18|
 |99|[CoinExPro/CoinExchange](https://github.com/CoinExPro/CoinExchange)|-|149|2024-01-12|2023-11-13|
 |100|[MohistMC/Banner](https://github.com/MohistMC/Banner)|The Bukkit/Spigot/Paper API implementation for Fabric|147|2024-02-10|2023-04-20|
-|101|[OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)|Unified Queries for Java|146|2024-02-12|2023-10-29|
+|101|[OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)|Unified Queries for Java|146|2024-02-14|2023-10-29|
 |102|[langchain4j/langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)|-|144|2024-02-11|2023-06-20|
 |103|[touero/ctenopharyngodon-idella](https://github.com/touero/ctenopharyngodon-idella)|Hadoop, MapReduce Distributed Crawling of Data Information from All Chinese Universities. |142|2023-11-10|2023-04-10|
 |104|[tsaol/Web3-serverless-analytics-on-aws](https://github.com/tsaol/Web3-serverless-analytics-on-aws)|-|141|2023-10-05|2023-05-17|
 |105|[aliyun/alibabacloud-compute-nest-saas-boost](https://github.com/aliyun/alibabacloud-compute-nest-saas-boost)|-|137|2024-01-23|2023-11-01|
-|106|[candlefinance/blur-view](https://github.com/candlefinance/blur-view)|Blur view effect for React Native|136|2023-10-14|2023-02-15|
-|107|[helge17/tuxguitar](https://github.com/helge17/tuxguitar)|Improve TuxGuitar and provide builds|134|2024-02-12|2023-03-06|
-|108|[edw2023/DBMastermind-Suite](https://github.com/edw2023/DBMastermind-Suite)|-|133|2024-01-20|2023-12-27|
+|106|[edw2023/DBMastermind-Suite](https://github.com/edw2023/DBMastermind-Suite)|-|136|2024-01-20|2023-12-27|
+|107|[helge17/tuxguitar](https://github.com/helge17/tuxguitar)|Improve TuxGuitar and provide builds|136|2024-02-13|2023-03-06|
+|108|[candlefinance/blur-view](https://github.com/candlefinance/blur-view)|Blur view effect for React Native|136|2023-10-14|2023-02-15|
 |109|[shellar1522/cex-crypto-exchange](https://github.com/shellar1522/cex-crypto-exchange)|CEX Cryptocurrency exchange script   https://t.me/st_code |133|2024-01-24|2023-12-25|
 |110|[BillyWei01/EasyAlbum](https://github.com/BillyWei01/EasyAlbum)|An easy to use media image and video selector for Android.|133|2023-09-09|2023-03-27|
-|111|[luelueking/Deserial_Sink_With_JDBC](https://github.com/luelueking/Deserial_Sink_With_JDBC)|Some ReadObject Sink With JDBC|130|2023-09-04|2023-09-04|
-|112|[oracle/sd4j](https://github.com/oracle/sd4j)|Stable diffusion pipeline in Java using ONNX Runtime|129|2024-01-17|2023-12-12|
-|113|[capawesome-team/capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins)|⚡️ Community plugins for Capacitor. Supports Android, iOS and the Web.|128|2024-02-05|2023-03-30|
-|114|[Chipppppppppp/LIME](https://github.com/Chipppppppppp/LIME)|-|127|2024-02-13|2024-01-19|
-|115|[mukel/llama2.java](https://github.com/mukel/llama2.java)|Inference Llama 2 in one file of pure Java|127|2023-12-22|2023-08-02|
-|116|[vsouzx/Microservicos-Clone-Twitter](https://github.com/vsouzx/Microservicos-Clone-Twitter)|Projeto "clone" do twitter, usando arquitetura de microservicos com Spring.|127|2024-01-10|2023-07-11|
-|117|[Pan4ur/ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode)|1.20.4 minecraft client for Crystal / Sword hvh|125|2024-02-11|2023-07-15|
-|118|[Hongmiao0207/chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java)|ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.|124|2024-01-05|2023-12-26|
-|119|[Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr)|Express yourself with colors|124|2024-02-09|2023-12-06|
-|120|[TimefoldAI/timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)|Get started with Timefold quickstarts here. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance sc ...|123|2024-02-13|2023-04-21|
-|121|[eclipse-store/store](https://github.com/eclipse-store/store)|High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latenc ...|119|2024-02-13|2023-04-28|
-|122|[oxylabs/youtube-scraper](https://github.com/oxylabs/youtube-scraper)|YouTube Scraper for effortless public YouTube data collection, including video and channel information.|118|2023-10-12|2023-10-11|
-|123|[sqids/sqids-java](https://github.com/sqids/sqids-java)|Official Java port of Sqids. Generate short unique IDs from numbers.|118|2023-12-06|2023-06-24|
-|124|[unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk)|Unlogged SDK for recording code execution|118|2024-02-12|2023-05-28|
-|125|[Helixform/FluidRecyclerView](https://github.com/Helixform/FluidRecyclerView)|Brings the iOS scrolling experience to Android.|117|2023-09-16|2023-09-03|
-|126|[intergalacticspacehighway/react-native-z-view](https://github.com/intergalacticspacehighway/react-native-z-view)|Show a View on top of all the views in React Native, like an overlay.|117|2023-10-25|2023-08-30|
-|127|[neoforged/MDK](https://github.com/neoforged/MDK)|The Mod Developer Kit - this is where you start if you want to develop a new mod|117|2024-02-03|2023-07-15|
-|128|[hei-school/poja-cli](https://github.com/hei-school/poja-cli)|-|116|2024-02-11|2023-11-01|
-|129|[FiguraMC/Figura](https://github.com/FiguraMC/Figura)|Extensively customize your character with Figura!|116|2024-02-10|2023-07-15|
-|130|[buingoctruong/springboot3-springsecurity6-jwt](https://github.com/buingoctruong/springboot3-springsecurity6-jwt)|-|116|2023-12-13|2023-05-11|
-|131|[SeaOfNodes/Simple](https://github.com/SeaOfNodes/Simple)|A Simple showcase for the Sea-of-Nodes compiler IR|114|2024-02-06|2023-08-19|
-|132|[hkhcoder/vprofile-project](https://github.com/hkhcoder/vprofile-project)|-|114|2024-02-03|2023-06-21|
-|133|[37214728aaa/android_key_logger](https://github.com/37214728aaa/android_key_logger)|-|113|2023-12-27|2023-12-27|
-|134|[hei-school/poja](https://github.com/hei-school/poja)|-|113|2024-02-13|2023-10-20|
-|135|[ballerina-platform/fhir-tools](https://github.com/ballerina-platform/fhir-tools)|Tools that generate FHIR-related Ballerina artefacts|112|2024-02-07|2023-04-28|
-|136|[sdcxtech/react-native-troika](https://github.com/sdcxtech/react-native-troika)|Native UI Component for React Native, including nested-scroll, pull-to-refresh, bottom-sheet, etc.|112|2024-01-08|2023-04-18|
-|137|[DiogoVilela12/PublicPlay](https://github.com/DiogoVilela12/PublicPlay)|Best FREE tiktok views/likes/friends bot. Fully Undetected. NO BAN !|111|2024-02-05|2023-07-11|
-|138|[tabular-io/iceberg-kafka-connect](https://github.com/tabular-io/iceberg-kafka-connect)|-|111|2024-01-15|2023-04-07|
-|139|[lazypatient/Handwritten-jdk-source-code](https://github.com/lazypatient/Handwritten-jdk-source-code)|-|110|2023-08-27|2023-08-14|
-|140|[ballerina-platform/module-ballerina-mqtt](https://github.com/ballerina-platform/module-ballerina-mqtt)|Ballerina MQTT Module.|110|2024-02-12|2023-07-24|
-|141|[sofastack/sofa-serverless](https://github.com/sofastack/sofa-serverless)|a framework to enabe app architecture evolve from monolithic to microservices smoothly by involving modular and macroservices architecture.|108|2024-02-08|2023-04-25|
-|142|[rife2/bld](https://github.com/rife2/bld)|Pure java build tool for developers who don't like dealing with build tools|107|2024-02-01|2023-05-10|
-|143|[raphaelkauan/abstrair-bootcamp-desafio](https://github.com/raphaelkauan/abstrair-bootcamp-desafio)|🎲   Abstraindo um bootcamp e explicando programação orientada a objetos de maneira que até mesmo uma criança consiga entender.|107|2023-09-13|2023-04-08|
-|144|[thebatmanfuture/fofa_search](https://github.com/thebatmanfuture/fofa_search)|A simple FOFA client written in JavaFX.Based on fofa_viewer development of the viewer project|104|2023-11-03|2023-10-25|
-|145|[usdAG/FlowMate](https://github.com/usdAG/FlowMate)|FlowMate, a BurpSuite extension that brings taint analysis to web applications, by tracking all parameters send to a target application and matches their occurrences in the responses.|104|2024-02-06|2023-06-22|
-|146|[astarivi/Kaizoyu](https://github.com/astarivi/Kaizoyu)|Free anime streaming platform for Android devices, powered by XDCC.|104|2024-01-28|2023-06-04|
-|147|[PavelMal/Rest-assured-example](https://github.com/PavelMal/Rest-assured-example)|Example of API autotests using rest-assured library|103|2023-08-31|2023-08-23|
+|111|[Chipppppppppp/LIME](https://github.com/Chipppppppppp/LIME)|-|131|2024-02-13|2024-01-19|
+|112|[oracle/sd4j](https://github.com/oracle/sd4j)|Stable diffusion pipeline in Java using ONNX Runtime|131|2024-01-17|2023-12-12|
+|113|[luelueking/Deserial_Sink_With_JDBC](https://github.com/luelueking/Deserial_Sink_With_JDBC)|Some ReadObject Sink With JDBC|130|2023-09-04|2023-09-04|
+|114|[Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr)|Express yourself with colors|128|2024-02-09|2023-12-06|
+|115|[capawesome-team/capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins)|⚡️ Community plugins for Capacitor. Supports Android, iOS and the Web.|128|2024-02-05|2023-03-30|
+|116|[mukel/llama2.java](https://github.com/mukel/llama2.java)|Inference Llama 2 in one file of pure Java|127|2023-12-22|2023-08-02|
+|117|[vsouzx/Microservicos-Clone-Twitter](https://github.com/vsouzx/Microservicos-Clone-Twitter)|Projeto "clone" do twitter, usando arquitetura de microservicos com Spring.|127|2024-01-10|2023-07-11|
+|118|[PavelMal/Rest-assured-example](https://github.com/PavelMal/Rest-assured-example)|Example of API autotests using rest-assured library|126|2023-08-31|2023-08-23|
+|119|[Pan4ur/ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode)|1.20.4 minecraft client for Crystal / Sword hvh|126|2024-02-11|2023-07-15|
+|120|[Hongmiao0207/chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java)|ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.|124|2024-01-05|2023-12-26|
+|121|[oxylabs/youtube-scraper](https://github.com/oxylabs/youtube-scraper)|YouTube Scraper for effortless public YouTube data collection, including video and channel information.|124|2023-10-12|2023-10-11|
+|122|[TimefoldAI/timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)|Get started with Timefold quickstarts here. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance sc ...|124|2024-02-14|2023-04-21|
+|123|[eclipse-store/store](https://github.com/eclipse-store/store)|High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latenc ...|123|2024-02-14|2023-04-28|
+|124|[sqids/sqids-java](https://github.com/sqids/sqids-java)|Official Java port of Sqids. Generate short unique IDs from numbers.|120|2023-12-06|2023-06-24|
+|125|[unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk)|Unlogged SDK for recording code execution|118|2024-02-14|2023-05-28|
+|126|[Helixform/FluidRecyclerView](https://github.com/Helixform/FluidRecyclerView)|Brings the iOS scrolling experience to Android.|117|2023-09-16|2023-09-03|
+|127|[intergalacticspacehighway/react-native-z-view](https://github.com/intergalacticspacehighway/react-native-z-view)|Show a View on top of all the views in React Native, like an overlay.|117|2023-10-25|2023-08-30|
+|128|[neoforged/MDK](https://github.com/neoforged/MDK)|The Mod Developer Kit - this is where you start if you want to develop a new mod|117|2024-02-03|2023-07-15|
+|129|[buingoctruong/springboot3-springsecurity6-jwt](https://github.com/buingoctruong/springboot3-springsecurity6-jwt)|-|117|2023-12-13|2023-05-11|
+|130|[hei-school/poja-cli](https://github.com/hei-school/poja-cli)|-|116|2024-02-11|2023-11-01|
+|131|[FiguraMC/Figura](https://github.com/FiguraMC/Figura)|Extensively customize your character with Figura!|116|2024-02-13|2023-07-15|
+|132|[37214728aaa/android_key_logger](https://github.com/37214728aaa/android_key_logger)|-|115|2023-12-27|2023-12-27|
+|133|[SeaOfNodes/Simple](https://github.com/SeaOfNodes/Simple)|A Simple showcase for the Sea-of-Nodes compiler IR|114|2024-02-06|2023-08-19|
+|134|[hkhcoder/vprofile-project](https://github.com/hkhcoder/vprofile-project)|-|114|2024-02-03|2023-06-21|
+|135|[hei-school/poja](https://github.com/hei-school/poja)|-|113|2024-02-14|2023-10-20|
+|136|[ballerina-platform/fhir-tools](https://github.com/ballerina-platform/fhir-tools)|Tools that generate FHIR-related Ballerina artefacts|112|2024-02-07|2023-04-28|
+|137|[sdcxtech/react-native-troika](https://github.com/sdcxtech/react-native-troika)|Native UI Component for React Native, including nested-scroll, pull-to-refresh, bottom-sheet, etc.|112|2024-01-08|2023-04-18|
+|138|[DiogoVilela12/PublicPlay](https://github.com/DiogoVilela12/PublicPlay)|Best FREE tiktok views/likes/friends bot. Fully Undetected. NO BAN !|111|2024-02-05|2023-07-11|
+|139|[tabular-io/iceberg-kafka-connect](https://github.com/tabular-io/iceberg-kafka-connect)|-|111|2024-01-15|2023-04-07|
+|140|[lazypatient/Handwritten-jdk-source-code](https://github.com/lazypatient/Handwritten-jdk-source-code)|-|110|2023-08-27|2023-08-14|
+|141|[ballerina-platform/module-ballerina-mqtt](https://github.com/ballerina-platform/module-ballerina-mqtt)|Ballerina MQTT Module.|110|2024-02-13|2023-07-24|
+|142|[sofastack/sofa-serverless](https://github.com/sofastack/sofa-serverless)|a framework to enabe app architecture evolve from monolithic to microservices smoothly by involving modular and macroservices architecture.|108|2024-02-08|2023-04-25|
+|143|[rife2/bld](https://github.com/rife2/bld)|Pure java build tool for developers who don't like dealing with build tools|107|2024-02-01|2023-05-10|
+|144|[raphaelkauan/abstrair-bootcamp-desafio](https://github.com/raphaelkauan/abstrair-bootcamp-desafio)|🎲   Abstraindo um bootcamp e explicando programação orientada a objetos de maneira que até mesmo uma criança consiga entender.|107|2023-09-13|2023-04-08|
+|145|[usdAG/FlowMate](https://github.com/usdAG/FlowMate)|FlowMate, a BurpSuite extension that brings taint analysis to web applications, by tracking all parameters send to a target application and matches their occurrences in the responses.|105|2024-02-06|2023-06-22|
+|146|[astarivi/Kaizoyu](https://github.com/astarivi/Kaizoyu)|Free anime streaming platform for Android devices, powered by XDCC.|105|2024-01-28|2023-06-04|
+|147|[thebatmanfuture/fofa_search](https://github.com/thebatmanfuture/fofa_search)|A simple FOFA client written in JavaFX.Based on fofa_viewer development of the viewer project|104|2023-11-03|2023-10-25|
 |148|[nex121/ThinkphpGUI](https://github.com/nex121/ThinkphpGUI)|-|102|2023-09-25|2023-07-23|
 |149|[PacktPublishing/Microservices-with-Spring-Boot-and-Spring-Cloud-Third-Edition](https://github.com/PacktPublishing/Microservices-with-Spring-Boot-and-Spring-Cloud-Third-Edition)|Microservices with Spring Boot and Spring Cloud, Third Edition|102|2024-01-05|2023-03-09|
 |150|[djkcyl/Shamrock](https://github.com/djkcyl/Shamrock)|-|101|2023-10-24|2023-10-20|
@@ -160,7 +160,7 @@
 |153|[Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939)|JDK CVE-2023-21939|98|2023-08-26|2023-08-26|
 |154|[douglasjunior/react-native-pdf-renderer](https://github.com/douglasjunior/react-native-pdf-renderer)|⚛ A zoomable, blazing fast, zero dependencies, pure native, typed PDF Renderer for Android and iOS.|96|2023-11-27|2023-03-09|
 |155|[MarchLiu/oliva](https://github.com/MarchLiu/oliva)|ai model base codellama|95|2023-12-16|2023-12-09|
-|156|[kiegroup/optaplanner](https://github.com/kiegroup/optaplanner)|Mirror of https://github.com/apache/incubator-kie-optaplanner|93|2024-02-12|2023-09-08|
+|156|[kiegroup/optaplanner](https://github.com/kiegroup/optaplanner)|Mirror of https://github.com/apache/incubator-kie-optaplanner|95|2024-02-12|2023-09-08|
 |157|[capawesome-team/capacitor-mlkit](https://github.com/capawesome-team/capacitor-mlkit)|⚡️ ML Kit plugins for Capacitor. Supports Android and iOS.|93|2024-01-18|2023-02-21|
 |158|[maciejwalkowiak/spring-boot-http-clients](https://github.com/maciejwalkowiak/spring-boot-http-clients)|Spring Boot HTTP Clients provides zero-boilerplate auto-configuration for WebClient and Spring 6 HTTP Interface based HTTP clients in a Spring Boot application.|92|2023-10-30|2023-04-04|
 |159|[neolord0/hwpxlib](https://github.com/neolord0/hwpxlib)|hwpx library for java|91|2023-12-20|2023-02-15|
@@ -191,20 +191,20 @@
 |184|[advent-of-craft/advent-of-craft](https://github.com/advent-of-craft/advent-of-craft)|Advent of Craft|69|2024-01-05|2023-11-21|
 |185|[ldcsaa/hp-soa](https://github.com/ldcsaa/hp-soa)|A fully functional, easy-to-use, and highly scalable microservice framework|69|2023-12-27|2023-06-29|
 |186|[Cubed-Development/Modern-Warfare-Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)|Welcome to the official GitHub Repository for Modern Warfare Cubed!|68|2024-01-26|2023-02-24|
-|187|[xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)|Enable dev menu & experiments for Instagram!|68|2024-01-23|2023-02-14|
-|188|[racoonman2/ReTerraForged](https://github.com/racoonman2/ReTerraForged)|a 1.19+ port of https://github.com/TerraForged/TerraForged|66|2024-01-19|2023-07-08|
-|189|[openjdk/jdk21](https://github.com/openjdk/jdk21)|https://openjdk.org/projects/jdk/21 released 2023-09-19|66|2023-09-19|2023-06-08|
-|190|[woowacourse-precourse/java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6)|-|64|2024-01-16|2023-10-17|
-|191|[xiaou61/train](https://github.com/xiaou61/train)|-|64|2023-09-17|2023-09-01|
-|192|[Sinytra/ForgifiedFabricAPI](https://github.com/Sinytra/ForgifiedFabricAPI)|Fabric API implemented on top of MinecraftForge.|64|2024-01-20|2023-06-01|
-|193|[Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space)|Editor based on Visual Studio Code |64|2024-01-24|2023-03-08|
-|194|[oap-project/Gluten-Trino](https://github.com/oap-project/Gluten-Trino)|Gluten: Plugin to Boost Trino's Performance|63|2023-10-25|2023-08-25|
-|195|[CodeCraftersCN/JDevKit](https://github.com/CodeCraftersCN/JDevKit)|JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficien ...|63|2024-01-26|2023-07-28|
-|196|[hivemq/hivemq-edge](https://github.com/hivemq/hivemq-edge)|HiveMQ Edge is a light-weight open-source MQTT broker, MQTT-SN gateway and modular protocol conversion runtime. It is optimised for Edge deployment architectures.|63|2024-01-25|2023-06-30|
-|197|[Pyrbu/ZNPCsPlus](https://github.com/Pyrbu/ZNPCsPlus)|A Spigot plugin for creating interactable fake entities|63|2024-01-26|2023-04-17|
-|198|[you-apps/CalcYou](https://github.com/you-apps/CalcYou)|Privacy focused calculator app built with MD3.|62|2024-01-20|2023-11-05|
-|199|[shirohoo/realworld-java21-springboot3](https://github.com/shirohoo/realworld-java21-springboot3)|Real world backend API built using Java 21 and Spring Boot 3|61|2024-01-20|2023-03-24|
-|200|[candlefinance/app-icon](https://github.com/candlefinance/app-icon)|Update your apps icon with React Native using Apple's alternate icons API.|61|2023-12-01|2023-03-21|
+|187|[racoonman2/ReTerraForged](https://github.com/racoonman2/ReTerraForged)|a 1.19+ port of https://github.com/TerraForged/TerraForged|66|2024-01-19|2023-07-08|
+|188|[openjdk/jdk21](https://github.com/openjdk/jdk21)|https://openjdk.org/projects/jdk/21 released 2023-09-19|66|2023-09-19|2023-06-08|
+|189|[woowacourse-precourse/java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6)|-|64|2024-01-16|2023-10-17|
+|190|[xiaou61/train](https://github.com/xiaou61/train)|-|64|2023-09-17|2023-09-01|
+|191|[Sinytra/ForgifiedFabricAPI](https://github.com/Sinytra/ForgifiedFabricAPI)|Fabric API implemented on top of MinecraftForge.|64|2024-01-20|2023-06-01|
+|192|[Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space)|Editor based on Visual Studio Code |64|2024-01-24|2023-03-08|
+|193|[oap-project/Gluten-Trino](https://github.com/oap-project/Gluten-Trino)|Gluten: Plugin to Boost Trino's Performance|63|2023-10-25|2023-08-25|
+|194|[CodeCraftersCN/JDevKit](https://github.com/CodeCraftersCN/JDevKit)|JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficien ...|63|2024-01-26|2023-07-28|
+|195|[hivemq/hivemq-edge](https://github.com/hivemq/hivemq-edge)|HiveMQ Edge is a light-weight open-source MQTT broker, MQTT-SN gateway and modular protocol conversion runtime. It is optimised for Edge deployment architectures.|63|2024-01-25|2023-06-30|
+|196|[Pyrbu/ZNPCsPlus](https://github.com/Pyrbu/ZNPCsPlus)|A Spigot plugin for creating interactable fake entities|63|2024-01-26|2023-04-17|
+|197|[you-apps/CalcYou](https://github.com/you-apps/CalcYou)|Privacy focused calculator app built with MD3.|62|2024-01-20|2023-11-05|
+|198|[shirohoo/realworld-java21-springboot3](https://github.com/shirohoo/realworld-java21-springboot3)|Real world backend API built using Java 21 and Spring Boot 3|61|2024-01-20|2023-03-24|
+|199|[candlefinance/app-icon](https://github.com/candlefinance/app-icon)|Update your apps icon with React Native using Apple's alternate icons API.|61|2023-12-01|2023-03-21|
+|200|[snyk/socketsleuth](https://github.com/snyk/socketsleuth)|Burp Extension to add additional functionality for pentesting websocket based applications |61|2024-01-14|2023-03-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

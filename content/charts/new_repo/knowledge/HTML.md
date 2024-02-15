@@ -1,52 +1,52 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Updated: 2024-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|6756|2024-02-12|2023-11-01|
-|2|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|3383|2024-02-10|2023-09-26|
+|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|6774|2024-02-13|2023-11-01|
+|2|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|3416|2024-02-10|2023-09-26|
 |3|[kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks)|A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.|875|2023-08-30|2023-06-06|
-|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |737|2023-12-21|2023-11-24|
-|5|[tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet)|A verified list of darknet markets and services with links for educational reference.|514|2024-02-12|2023-11-25|
-|6|[open-sauced/intro](https://github.com/open-sauced/intro)|an introduction to open source and guide through the process of contributing to projects.|345|2024-02-09|2023-04-26|
+|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |739|2023-12-21|2023-11-24|
+|5|[tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet)|A verified list of darknet markets and services with links for educational reference.|502|2024-02-14|2023-11-25|
+|6|[open-sauced/intro](https://github.com/open-sauced/intro)|an introduction to open source and guide through the process of contributing to projects.|346|2024-02-14|2023-04-26|
 |7|[josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters)|Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself ...|341|2024-01-05|2023-03-06|
 |8|[shovoalways/CSS-Course](https://github.com/shovoalways/CSS-Course)|এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লিস্ট এ ডিটেইলে আপনাকে CSS3 শিখাব, ইনশাআল্লাহ্‌। তাই আপনি যদি আগ্রিহী হন দেখতে থাকু ...|316|2023-11-27|2023-07-18|
 |9|[mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords)|Awesome list of keywords for Threat Hunting sessions|271|2024-02-08|2023-05-16|
-|10|[nikit0ns/Ukrainian_IT_Communities](https://github.com/nikit0ns/Ukrainian_IT_Communities)|The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.|265|2024-02-12|2023-02-24|
-|11|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|255|2024-02-12|2024-01-18|
+|10|[nikit0ns/Ukrainian_IT_Communities](https://github.com/nikit0ns/Ukrainian_IT_Communities)|The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.|265|2024-02-14|2023-02-24|
+|11|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|248|2024-02-14|2024-01-18|
 |12|[cipher387/linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day)|In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".|223|2024-01-03|2023-05-12|
-|13|[addyosmani/learning-jsdp](https://github.com/addyosmani/learning-jsdp)|Learning JavaScript Design Patterns: 2nd Edition - The Examples|218|2023-12-19|2023-04-18|
-|14|[pddon/pddon-win](https://github.com/pddon/pddon-win)|PDDON windows client, PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN,  ...|166|2024-01-17|2023-08-08|
+|13|[addyosmani/learning-jsdp](https://github.com/addyosmani/learning-jsdp)|Learning JavaScript Design Patterns: 2nd Edition - The Examples|220|2023-12-19|2023-04-18|
+|14|[pddon/pddon-win](https://github.com/pddon/pddon-win)|PDDON windows client, PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN,  ...|167|2024-01-17|2023-08-08|
 |15|[Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)|Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!|157|2023-11-20|2023-09-02|
 |16|[juba/pyobsplot](https://github.com/juba/pyobsplot)|Observable Plot in Jupyter notebooks and Quarto documents|153|2024-02-08|2023-03-29|
 |17|[jerrylususu/mainonly](https://github.com/jerrylususu/mainonly)|A JavaScript bookmarklet designed to isolate and highlight a specific element on a webpage, effectively hiding all other elements.|148|2024-01-28|2023-12-16|
-|18|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|139|2024-01-22|2023-10-17|
-|19|[mdbootstrap/TW-Elements-React](https://github.com/mdbootstrap/TW-Elements-React)|TW Elements for React - 𝙃𝙪𝙜𝙚 collection of Tailwind + React components, sections and templates 😎|131|2023-12-15|2023-05-17|
+|18|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|141|2024-01-22|2023-10-17|
+|19|[mdbootstrap/TW-Elements-React](https://github.com/mdbootstrap/TW-Elements-React)|TW Elements for React - 𝙃𝙪𝙜𝙚 collection of Tailwind + React components, sections and templates 😎|132|2023-12-15|2023-05-17|
 |20|[redteamguides/redteamguides.github.io](https://github.com/redteamguides/redteamguides.github.io)|Red Team Guides|130|2024-01-03|2023-03-14|
-|21|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|123|2024-02-12|2024-01-02|
+|21|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|127|2024-02-12|2024-01-02|
 |22|[pnp/powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.|116|2024-01-23|2023-04-13|
 |23|[ishratumar/upskill-frontend](https://github.com/ishratumar/upskill-frontend)|All topics you need to learn about Frontend Development|107|2023-09-14|2023-05-06|
-|24|[salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s)|Platform Engineering on Kubernetes :: Book Examples|104|2023-12-09|2023-05-09|
+|24|[salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s)|Platform Engineering on Kubernetes :: Book Examples|105|2023-12-09|2023-05-09|
 |25|[GTFOArgs/GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)|GTFOArgs is a curated list of programs and their associated arguments that can be exploited to gain privileged access or execute arbitrary commands, using argument injection.|102|2024-01-12|2023-02-28|
-|26|[Sstobo/Site-Sn33k](https://github.com/Sstobo/Site-Sn33k)|A collection of tools to rip webpages, and clean them for pinecone|99|2024-01-27|2023-04-04|
+|26|[Sstobo/Site-Sn33k](https://github.com/Sstobo/Site-Sn33k)|A collection of tools to rip webpages, and clean them for pinecone|100|2024-01-27|2023-04-04|
 |27|[ferrous-systems/rust-training](https://github.com/ferrous-systems/rust-training)|Learning materials for the Rust Training courses by Ferrous Systems|96|2024-02-06|2023-04-25|
 |28|[orcas-lab/hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it)|An emergency booklet, I hope you will never use it|95|2023-10-27|2023-09-08|
 |29|[r-follador/CubeTrek](https://github.com/r-follador/CubeTrek)|Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.|81|2024-02-02|2023-12-07|
 |30|[urania-dev/snapp](https://github.com/urania-dev/snapp)|Yet Another Url Shortner. A simple excercise to learn Svelte, Svelte5 Runes, and Tabler.|80|2024-01-09|2023-12-06|
-|31|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |79|2024-02-09|2024-01-13|
-|32|[milad-azami/js-products-page-files](https://github.com/milad-azami/js-products-page-files)|Required files to start Products Page Project in "Javascript Full Course" - Botostart.ir|73|2023-08-24|2023-08-24|
+|31|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |79|2024-02-13|2024-01-13|
+|32|[milad-azami/js-products-page-files](https://github.com/milad-azami/js-products-page-files)|Required files to start Products Page Project in "Javascript Full Course" - Botostart.ir|74|2023-08-24|2023-08-24|
 |33|[bradtraversy/bootstrap-5-websites](https://github.com/bradtraversy/bootstrap-5-websites)|Bootstrap 5 websites from my course|66|2023-11-18|2023-06-16|
 |34|[Normando1945/Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io)|Welcome to this specialized repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate str ...|65|2023-10-24|2023-08-22|
 |35|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2024-01-12|2023-12-20|
-|36|[willpinha/daisy-collection](https://github.com/willpinha/daisy-collection)|🌸 A collection of UI examples for DaisyUI|58|2024-02-10|2023-12-14|
+|36|[willpinha/daisy-collection](https://github.com/willpinha/daisy-collection)|🌸 A collection of UI examples for DaisyUI|59|2024-02-14|2023-12-14|
 |37|[rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb)|📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.|58|2024-01-28|2023-02-27|
-|38|[cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials)|A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js|56|2024-02-06|2023-04-27|
+|38|[cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials)|A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js|57|2024-02-13|2023-04-27|
 |39|[CalvinWalzel/ruby-companies](https://github.com/CalvinWalzel/ruby-companies)|A list of companies that develop software with Ruby|56|2024-02-11|2023-03-17|
 |40|[s-bhalode/Hacktoberfest-2023](https://github.com/s-bhalode/Hacktoberfest-2023)|🎉 Welcome to the Hacktoberfest 2023 Celebration Repository! 🎉  Join us in contributing to open source and celebrating the spirit of Hacktoberfest! This repository is open to all skill levels, from fir ...|54|2023-11-18|2023-09-27|
-|41|[Tacogamerman/ByeBlocker](https://github.com/Tacogamerman/ByeBlocker)|The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts) |50|2023-11-26|2023-05-12|
-|42|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|47|2024-02-10|2023-10-03|
+|41|[Tacogamerman/ByeBlocker](https://github.com/Tacogamerman/ByeBlocker)|The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts) |52|2023-11-26|2023-05-12|
+|42|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|47|2024-02-14|2023-10-03|
 |43|[kadyb/geotips](https://github.com/kadyb/geotips)|Collection of tips for faster spatial data processing in R|46|2023-09-11|2023-08-06|
 |44|[milad-azami/js-store-files](https://github.com/milad-azami/js-store-files)|Starting files of Store project in javascript course|43|2023-10-05|2023-10-05|
 |45|[kozaka93/2023Z-DataVisualizationTechniques](https://github.com/kozaka93/2023Z-DataVisualizationTechniques)|📊 Data Visualization Techniques course for DS studies in Winter 2023/24 |43|2024-01-29|2023-07-12|
@@ -54,19 +54,19 @@
 |47|[pepe/culs-frontend-23](https://github.com/pepe/culs-frontend-23)|Materials for the Contemporary frontend course|42|2023-10-16|2023-10-08|
 |48|[hammadojh/Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course)|Contains the course files and exercises |42|2023-12-13|2023-08-25|
 |49|[tashapiro/intro-observable](https://github.com/tashapiro/intro-observable)|This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.|40|2023-11-09|2023-11-09|
-|50|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|36|2024-02-12|2023-12-17|
+|50|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|36|2024-02-14|2023-12-17|
 |51|[mini-full/zju-welcome](https://github.com/mini-full/zju-welcome)|Brief guides for ZJU freshmen. [site](https://zjuers.com/welcome/)|36|2023-09-07|2023-08-03|
-|52|[MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection)|Simple 404 collection for use in personal and commercial projects|35|2023-12-26|2023-07-14|
-|53|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers|35|2023-09-26|2023-06-30|
-|54|[gevendra115/hack](https://github.com/gevendra115/hack)|how to hack free fire id, |35|2024-02-06|2023-06-06|
-|55|[alisharify7/operating-system-course](https://github.com/alisharify7/operating-system-course)|operating-system-course  + My own additional content|34|2023-12-21|2023-02-28|
-|56|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |33|2024-02-10|2024-01-29|
+|52|[gevendra115/hack](https://github.com/gevendra115/hack)|how to hack free fire id, |36|2024-02-06|2023-06-06|
+|53|[MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection)|Simple 404 collection for use in personal and commercial projects|35|2023-12-26|2023-07-14|
+|54|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers|35|2023-09-26|2023-06-30|
+|55|[alisharify7/operating-system-course](https://github.com/alisharify7/operating-system-course)|operating-system-course  + My own additional content|35|2023-12-21|2023-02-28|
+|56|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |34|2024-02-12|2024-01-29|
 |57|[BidyasagarAnupam/YearBook](https://github.com/BidyasagarAnupam/YearBook)|Year Book for MCA |33|2023-10-31|2023-09-18|
-|58|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|32|2024-02-11|2023-07-19|
-|59|[SonarSource/argument-injection-vectors](https://github.com/SonarSource/argument-injection-vectors)|A curated list of argument injection vectors|32|2023-09-04|2023-02-21|
-|60|[Yoloyoda/abap-for-cloud-development-cheatsheet](https://github.com/Yoloyoda/abap-for-cloud-development-cheatsheet)|Cheatsheet for smooth adaptation to ABAP on Cloud|31|2023-10-11|2023-08-21|
+|58|[Yoloyoda/abap-for-cloud-development-cheatsheet](https://github.com/Yoloyoda/abap-for-cloud-development-cheatsheet)|Cheatsheet for smooth adaptation to ABAP on Cloud|32|2023-10-11|2023-08-21|
+|59|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|32|2024-02-13|2023-07-19|
+|60|[SonarSource/argument-injection-vectors](https://github.com/SonarSource/argument-injection-vectors)|A curated list of argument injection vectors|32|2023-09-04|2023-02-21|
 |61|[dawidolko/Github-Badges-Achievements](https://github.com/dawidolko/Github-Badges-Achievements)|A collection of all Achievements available on GitHub profile   Full list of GitHub profile badges and achievements  |31|2023-11-11|2023-07-21|
-|62|[VulNyx/vulnyx.github.io](https://github.com/VulNyx/vulnyx.github.io)|VulNyx is a free platform for hackers where you can learn & practice cybersecurity with our vulnerable virtual machines.|31|2024-02-12|2023-04-18|
+|62|[VulNyx/vulnyx.github.io](https://github.com/VulNyx/vulnyx.github.io)|VulNyx is a free platform for hackers where you can learn & practice cybersecurity with our vulnerable virtual machines.|31|2024-02-14|2023-04-18|
 |63|[ortegaalfredo/neuroengine](https://github.com/ortegaalfredo/neuroengine)|Neuroengine is a service to share LLMs in the form of a webchat and API.|30|2024-02-01|2023-06-11|
 |64|[andrewheiss/datavizs23.classes.andrewheiss.com](https://github.com/andrewheiss/datavizs23.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on data visualization using R and ggplot2, built with Quarto|30|2023-08-18|2023-05-25|
 |65|[FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook)|A handbook about FreeCAD development|30|2024-01-24|2023-03-27|
