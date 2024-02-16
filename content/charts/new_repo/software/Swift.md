@@ -1,112 +1,112 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Swift
-<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)|A modern Wine wrapper for macOS built with SwiftUI|8849|2024-02-01|2023-03-23|
-|2|[grishka/NearDrop](https://github.com/grishka/NearDrop)|An unofficial Google Nearby Share app for macOS|3371|2024-01-20|2023-04-13|
-|3|[evanw/thumbhash](https://github.com/evanw/thumbhash)|A very compact representation of an image placeholder|3134|2024-01-08|2023-03-22|
-|4|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2265|2024-02-07|2023-07-09|
-|5|[jasonjmcghee/rem](https://github.com/jasonjmcghee/rem)|An open source approach to locally record and enable searching everything you view on your Mac.|1752|2024-01-18|2023-12-27|
-|6|[StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT)|Query your Apple Health data with natural language 💬 🩺|1578|2023-11-01|2023-04-17|
-|7|[satoshi0212/visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days)|visionOS 30 days challenge.|1536|2024-02-06|2023-06-24|
-|8|[aheze/Setting](https://github.com/aheze/Setting)|Compose beautiful preference panels.|1328|2024-02-08|2023-02-22|
-|9|[apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator)|Generate Swift client and server code from an OpenAPI document.|1091|2024-02-13|2023-04-20|
-|10|[joogps/Glur](https://github.com/joogps/Glur)|Progressive blurs in SwiftUI.|932|2024-02-13|2023-06-11|
-|11|[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)|Swift native on-device speech recognition with Whisper for iOS and macOS|887|2024-02-14|2024-01-26|
-|12|[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)|AeroSpace is an i3-like tiling window manager for macOS|843|2024-02-13|2023-05-21|
+|1|[Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)|A modern Wine wrapper for macOS built with SwiftUI|8859|2024-02-01|2023-03-23|
+|2|[grishka/NearDrop](https://github.com/grishka/NearDrop)|An unofficial Google Nearby Share app for macOS|3376|2024-01-20|2023-04-13|
+|3|[evanw/thumbhash](https://github.com/evanw/thumbhash)|A very compact representation of an image placeholder|3136|2024-01-08|2023-03-22|
+|4|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2266|2024-02-07|2023-07-09|
+|5|[jasonjmcghee/rem](https://github.com/jasonjmcghee/rem)|An open source approach to locally record and enable searching everything you view on your Mac.|1758|2024-01-18|2023-12-27|
+|6|[StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT)|Query your Apple Health data with natural language 💬 🩺|1579|2023-11-01|2023-04-17|
+|7|[satoshi0212/visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days)|visionOS 30 days challenge.|1540|2024-02-06|2023-06-24|
+|8|[aheze/Setting](https://github.com/aheze/Setting)|Compose beautiful preference panels.|1329|2024-02-08|2023-02-22|
+|9|[apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator)|Generate Swift client and server code from an OpenAPI document.|1092|2024-02-13|2023-04-20|
+|10|[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)|Swift native on-device speech recognition with Whisper for iOS and macOS|1032|2024-02-15|2024-01-26|
+|11|[joogps/Glur](https://github.com/joogps/Glur)|Progressive blurs in SwiftUI.|936|2024-02-13|2023-06-11|
+|12|[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)|AeroSpace is an i3-like tiling window manager for macOS|847|2024-02-15|2023-05-21|
 |13|[aheze/SwipeActions](https://github.com/aheze/SwipeActions)|Add customizable swipe actions to any view.|840|2023-10-30|2023-04-13|
 |14|[alexwidua/prototypes](https://github.com/alexwidua/prototypes)|little monorepo of swiftui prototypes|815|2023-12-06|2023-02-23|
 |15|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|795|2024-01-11|2023-08-08|
-|16|[milanvarady/Applite](https://github.com/milanvarady/Applite)|User-friendly GUI macOS application for Homebrew Casks|793|2024-01-17|2023-08-03|
+|16|[milanvarady/Applite](https://github.com/milanvarady/Applite)|User-friendly GUI macOS application for Homebrew Casks|792|2024-01-17|2023-08-03|
 |17|[AvdLee/Roadmap](https://github.com/AvdLee/Roadmap)|Publish your roadmap inside your app and allow users to vote for upcoming features|745|2024-01-15|2023-02-18|
-|18|[migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot)|New Godot bindings for Swift|733|2024-02-14|2023-03-25|
+|18|[migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot)|New Godot bindings for Swift|734|2024-02-14|2023-03-25|
 |19|[leminlimez/CowabungaLite](https://github.com/leminlimez/CowabungaLite)|iOS 15+ Customization Toolbox|723|2024-02-01|2023-05-09|
 |20|[italomandara/CXPatcher](https://github.com/italomandara/CXPatcher)|A patcher to upgrade Crossover dependencies and improve compatibility|711|2024-02-14|2023-04-04|
-|21|[google/generative-ai-swift](https://github.com/google/generative-ai-swift)|Google AI SDK for Swift|692|2024-02-13|2023-04-25|
-|22|[guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)|llama and other  large language models on iOS and MacOS offline using GGML library.|669|2024-02-13|2023-06-14|
-|23|[saagarjha/Ensemble](https://github.com/saagarjha/Ensemble)|Cast Mac windows to visionOS|655|2024-02-14|2023-10-08|
-|24|[PureKFD/PureKFD](https://github.com/PureKFD/PureKFD)|A KFD Focused Package Manager that supports 14.0-16.6.1!|624|2024-02-13|2023-08-21|
+|21|[google/generative-ai-swift](https://github.com/google/generative-ai-swift)|Google AI SDK for Swift|692|2024-02-15|2023-04-25|
+|22|[saagarjha/Ensemble](https://github.com/saagarjha/Ensemble)|Cast Mac windows to visionOS|679|2024-02-14|2023-10-08|
+|23|[guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)|llama and other  large language models on iOS and MacOS offline using GGML library.|670|2024-02-13|2023-06-14|
+|24|[PureKFD/PureKFD](https://github.com/PureKFD/PureKFD)|A KFD Focused Package Manager that supports 14.0-16.6.1!|625|2024-02-13|2023-08-21|
 |25|[skiptools/skip](https://github.com/skiptools/skip)|Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps|578|2024-02-14|2023-02-24|
-|26|[twostraws/Vortex](https://github.com/twostraws/Vortex)|High-performance particle effects for SwiftUI.|551|2024-02-10|2024-01-17|
-|27|[Lakr233/FixTim](https://github.com/Lakr233/FixTim)|Fix every runtime bug on macOS.|518|2024-02-08|2024-02-06|
-|28|[hiddevdploeg/Billboard](https://github.com/hiddevdploeg/Billboard)|a Swift Package that lets you add beautiful and privacy-friendly Ads to your app. These are Advertisements for Indies, by Indies.|509|2024-01-11|2023-06-30|
-|29|[Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)|Automated iOS Backup Robot|494|2023-09-22|2023-08-12|
-|30|[lo-cafe/winston](https://github.com/lo-cafe/winston)|A beautiful and native Reddit client for iOS|485|2024-02-14|2023-06-30|
-|31|[apple/sample-backyard-birds](https://github.com/apple/sample-backyard-birds)|-|481|2023-12-11|2023-05-18|
-|32|[exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper)|🎤 The easiest way to transcribe audio in Swift|467|2023-12-15|2023-03-29|
-|33|[jordansinger/UIDraw](https://github.com/jordansinger/UIDraw)|Draw and build a website on your phone.|454|2023-11-26|2023-11-26|
-|34|[kishikawakatsumi/swift-power-assert](https://github.com/kishikawakatsumi/swift-power-assert)|Power Assert in Swift.|451|2024-02-08|2023-03-13|
-|35|[facebook/lexical-ios](https://github.com/facebook/lexical-ios)|Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.|450|2024-02-08|2023-03-20|
-|36|[pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS)|-|444|2024-02-05|2023-07-03|
-|37|[TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch)|macOS UI for creating Windows installer ISO from UUPDump|440|2024-01-02|2023-07-27|
-|38|[AugustDev/enchanted](https://github.com/AugustDev/enchanted)|Enchanted is iOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.|431|2024-02-13|2023-12-13|
-|39|[SwiftyLab/MetaCodable](https://github.com/SwiftyLab/MetaCodable)|Supercharge Swift's Codable implementations with macros meta-programming.|390|2024-01-27|2023-06-17|
-|40|[huggingface/swift-transformers](https://github.com/huggingface/swift-transformers)|Swift Package to implement a transformers-like API in Swift|384|2024-02-11|2023-05-11|
-|41|[kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac)|A macOS app for interacting with the Ollama models|375|2024-02-12|2023-11-04|
-|42|[pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception)|Observable tools, backported.|375|2024-02-10|2023-10-19|
+|26|[twostraws/Vortex](https://github.com/twostraws/Vortex)|High-performance particle effects for SwiftUI.|567|2024-02-10|2024-01-17|
+|27|[AugustDev/enchanted](https://github.com/AugustDev/enchanted)|Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.|553|2024-02-15|2023-12-13|
+|28|[Lakr233/FixTim](https://github.com/Lakr233/FixTim)|Fix every runtime bug on macOS.|532|2024-02-08|2024-02-06|
+|29|[hiddevdploeg/Billboard](https://github.com/hiddevdploeg/Billboard)|a Swift Package that lets you add beautiful and privacy-friendly Ads to your app. These are Advertisements for Indies, by Indies.|510|2024-02-15|2023-06-30|
+|30|[Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)|Automated iOS Backup Robot|494|2023-09-22|2023-08-12|
+|31|[lo-cafe/winston](https://github.com/lo-cafe/winston)|A beautiful and native Reddit client for iOS|485|2024-02-14|2023-06-30|
+|32|[apple/sample-backyard-birds](https://github.com/apple/sample-backyard-birds)|-|482|2023-12-11|2023-05-18|
+|33|[exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper)|🎤 The easiest way to transcribe audio in Swift|467|2023-12-15|2023-03-29|
+|34|[jordansinger/UIDraw](https://github.com/jordansinger/UIDraw)|Draw and build a website on your phone.|454|2023-11-26|2023-11-26|
+|35|[kishikawakatsumi/swift-power-assert](https://github.com/kishikawakatsumi/swift-power-assert)|Power Assert in Swift.|451|2024-02-15|2023-03-13|
+|36|[facebook/lexical-ios](https://github.com/facebook/lexical-ios)|Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.|450|2024-02-08|2023-03-20|
+|37|[pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS)|-|444|2024-02-05|2023-07-03|
+|38|[TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch)|macOS UI for creating Windows installer ISO from UUPDump|441|2024-01-02|2023-07-27|
+|39|[SwiftyLab/MetaCodable](https://github.com/SwiftyLab/MetaCodable)|Supercharge Swift's Codable implementations with macros meta-programming.|392|2024-01-27|2023-06-17|
+|40|[huggingface/swift-transformers](https://github.com/huggingface/swift-transformers)|Swift Package to implement a transformers-like API in Swift|384|2024-02-14|2023-05-11|
+|41|[pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception)|Observable tools, backported.|377|2024-02-10|2023-10-19|
+|42|[kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac)|A macOS app for interacting with the Ollama models|376|2024-02-12|2023-11-04|
 |43|[jordibruin/TipKit-Examples](https://github.com/jordibruin/TipKit-Examples)|An example project for the TipKit framework|374|2023-08-26|2023-06-07|
 |44|[Matejkob/swift-spyable](https://github.com/Matejkob/swift-spyable)|Swift macro that simplifies and automates the process of creating spies for testing|352|2024-02-06|2023-06-09|
 |45|[aheze/VariableBlurView](https://github.com/aheze/VariableBlurView)|A one-file, App Store upload-safe version of Janum Trivedi's variable blur effect.|335|2023-10-22|2023-05-30|
-|46|[huggingface/swift-chat](https://github.com/huggingface/swift-chat)|Mac app to demonstrate swift-transformers|328|2024-01-31|2023-05-11|
-|47|[Lessica/Reveil](https://github.com/Lessica/Reveil)|Bringing back the most advanced system and security analysis tool.|320|2024-02-04|2023-12-31|
-|48|[leminlimez/Helium](https://github.com/leminlimez/Helium)|-|320|2024-02-13|2023-10-05|
+|46|[huggingface/swift-chat](https://github.com/huggingface/swift-chat)|Mac app to demonstrate swift-transformers|329|2024-01-31|2023-05-11|
+|47|[leminlimez/Helium](https://github.com/leminlimez/Helium)|-|326|2024-02-13|2023-10-05|
+|48|[Lessica/Reveil](https://github.com/Lessica/Reveil)|Bringing back the most advanced system and security analysis tool.|321|2024-02-04|2023-12-31|
 |49|[haren724/wallpaper-player-mac](https://github.com/haren724/wallpaper-player-mac)|A powerful open source live wallpaper app for mac|312|2023-11-26|2023-06-16|
 |50|[Shopify/tracky](https://github.com/Shopify/tracky)|The easiest way to do motion tracking! |304|2024-01-30|2023-02-23|
 |51|[philipturner/metal-flash-attention](https://github.com/philipturner/metal-flash-attention)|Faster alternative to Metal Performance Shaders|265|2024-01-18|2023-06-23|
-|52|[pointfreeco/swift-concurrency-extras](https://github.com/pointfreeco/swift-concurrency-extras)|Useful, testable Swift concurrency.|256|2023-11-10|2023-04-20|
-|53|[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)|Open-source mac app cleaner|255|2024-02-14|2023-11-13|
-|54|[TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps)|App Store alternative for TrollStore|248|2024-01-06|2023-12-05|
-|55|[ZhgChgLi/ZMarkupParser](https://github.com/ZhgChgLi/ZMarkupParser)|ZMarkupParser is a pure-Swift library that helps you convert HTML strings into NSAttributedString with customized styles and tags.|247|2024-02-09|2023-02-17|
-|56|[ChimeHQ/Chime](https://github.com/ChimeHQ/Chime)|An editor for macOS|232|2024-02-07|2023-08-24|
-|57|[Bartozo/Life-Progress-iOS](https://github.com/Bartozo/Life-Progress-iOS)|Start living your best life today!|232|2024-02-14|2023-03-08|
-|58|[JamesSedlacek/Routing](https://github.com/JamesSedlacek/Routing)|SwiftUI library for abstracting navigation logic from views|230|2024-02-12|2023-12-15|
+|52|[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)|Open-source mac app cleaner|261|2024-02-15|2023-11-13|
+|53|[pointfreeco/swift-concurrency-extras](https://github.com/pointfreeco/swift-concurrency-extras)|Useful, testable Swift concurrency.|256|2023-11-10|2023-04-20|
+|54|[TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps)|App Store alternative for TrollStore|250|2024-01-06|2023-12-05|
+|55|[ZhgChgLi/ZMarkupParser](https://github.com/ZhgChgLi/ZMarkupParser)|ZMarkupParser is a pure-Swift library that helps you convert HTML strings into NSAttributedString with customized styles and tags.|248|2024-02-09|2023-02-17|
+|56|[JamesSedlacek/Routing](https://github.com/JamesSedlacek/Routing)|SwiftUI library for abstracting navigation logic from views|233|2024-02-12|2023-12-15|
+|57|[ChimeHQ/Chime](https://github.com/ChimeHQ/Chime)|An editor for macOS|233|2024-02-07|2023-08-24|
+|58|[Bartozo/Life-Progress-iOS](https://github.com/Bartozo/Life-Progress-iOS)|Start living your best life today!|233|2024-02-14|2023-03-08|
 |59|[laanlabs/metal-splats](https://github.com/laanlabs/metal-splats)|Toy iOS + Metal AR Gaussian Splat Renderer|224|2023-10-22|2023-09-18|
-|60|[SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple)|Experimental iOS/macOS client for sing-box|224|2024-02-03|2023-06-29|
-|61|[ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit)|🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.|220|2024-02-14|2023-04-25|
+|60|[SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple)|Experimental iOS/macOS client for sing-box|223|2024-02-03|2023-06-29|
+|61|[ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit)|🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.|222|2024-02-14|2023-04-25|
 |62|[NSAntoine/Samra](https://github.com/NSAntoine/Samra)|Proper, full-fledged native Asset Catalog explorer & editor for macOS.|219|2023-12-19|2023-03-04|
 |63|[Panl/AICat](https://github.com/Panl/AICat)|Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS|215|2024-02-09|2023-03-19|
 |64|[baronha/ting](https://github.com/baronha/ting)|🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin|210|2023-10-09|2023-06-24|
 |65|[LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)|A compact lunar calendar for your macOS menu bar.|203|2024-02-12|2024-01-02|
-|66|[DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)|A toolkit to make debugging iOS applications easier 🚀|201|2024-02-14|2023-12-14|
-|67|[finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale)|Metal-powered video upscaling|198|2024-02-14|2023-12-20|
-|68|[mattmassicotte/ConcurrencyRecipes](https://github.com/mattmassicotte/ConcurrencyRecipes)|Practical solutions to problems with Swift Concurrency|195|2024-02-12|2023-12-04|
-|69|[anyproto/anytype-swift](https://github.com/anyproto/anytype-swift)|Official Anytype client for iOS|194|2024-02-14|2023-05-26|
+|66|[DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)|A toolkit to make debugging iOS applications easier 🚀|201|2024-02-15|2023-12-14|
+|67|[mattmassicotte/ConcurrencyRecipes](https://github.com/mattmassicotte/ConcurrencyRecipes)|Practical solutions to problems with Swift Concurrency|200|2024-02-15|2023-12-04|
+|68|[finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale)|Metal-powered video upscaling|199|2024-02-15|2023-12-20|
+|69|[anyproto/anytype-swift](https://github.com/anyproto/anytype-swift)|Official Anytype client for iOS|194|2024-02-15|2023-05-26|
 |70|[wudijimao/Inpaint-iOS](https://github.com/wudijimao/Inpaint-iOS)|A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.|189|2024-02-06|2023-12-15|
 |71|[apple/swift-aoc-starter-example](https://github.com/apple/swift-aoc-starter-example)|Swift starter project for solving Advent of Code challenges.|189|2023-12-07|2023-12-01|
-|72|[psugihara/FreeChat](https://github.com/psugihara/FreeChat)|llama.cpp based AI chat app for macOS|187|2023-12-07|2023-08-04|
-|73|[joemasilotti/TurboNavigator](https://github.com/joemasilotti/TurboNavigator)|A drop-in class for Turbo Native apps to handle common navigation flows.|187|2023-12-11|2023-03-02|
+|72|[joemasilotti/TurboNavigator](https://github.com/joemasilotti/TurboNavigator)|A drop-in class for Turbo Native apps to handle common navigation flows.|188|2023-12-11|2023-03-02|
+|73|[psugihara/FreeChat](https://github.com/psugihara/FreeChat)|llama.cpp based AI chat app for macOS|187|2023-12-07|2023-08-04|
 |74|[mikaelacaron/Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance)|A basic app to track your car's maintenance. Open source for Hacktoberfest 2023. Beginners are welcome!|186|2024-01-23|2023-08-11|
 |75|[danwood/SwiftUICoreImage](https://github.com/danwood/SwiftUICoreImage)|Hundreds of Core Image filters wrapped as CIImage modifiers for easy integration with SwiftUI|185|2023-09-25|2023-05-16|
 |76|[pointfreeco/swift-macro-testing](https://github.com/pointfreeco/swift-macro-testing)|Magical testing tools for Swift macros.|181|2024-01-03|2023-08-12|
 |77|[rafunderscore/Layers](https://github.com/rafunderscore/Layers)|A powerful SwiftUI library designed for creating layered user interfaces, enhancing your app's user experience with smooth and performant animations between modal views.|179|2023-10-06|2023-09-30|
 |78|[icanzilb/Breadcrumbs](https://github.com/icanzilb/Breadcrumbs)|Bugtracker working off source code|177|2023-10-30|2023-10-15|
 |79|[andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion)|Run Stable Diffusion using Core ML on iOS within your Expo & React Native App|175|2023-10-04|2023-08-02|
-|80|[duxins/alog](https://github.com/duxins/alog)|AI-Powered Audio Diary|173|2023-12-29|2023-07-09|
+|80|[duxins/alog](https://github.com/duxins/alog)|AI-Powered Audio Diary|174|2023-12-29|2023-07-09|
 |81|[li3zhen1/Grape](https://github.com/li3zhen1/Grape)|A Swift library for graph visualization and force simulation.|172|2024-01-18|2023-10-04|
 |82|[stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit)|A powerful toolkit for creating concise and expressive Swift macros|171|2024-02-09|2023-06-17|
 |83|[mattmassicotte/Queue](https://github.com/mattmassicotte/Queue)|A queue for Swift concurrency|170|2024-01-26|2023-06-15|
-|84|[lukepistrol/TimeMachineStatus](https://github.com/lukepistrol/TimeMachineStatus)|TimeMachineStatus is a little menu bar application for macOS which aims to show more useful information than the system default.|167|2024-02-13|2023-11-10|
-|85|[KevinTopollaj/Design-Patterns-in-iOS](https://github.com/KevinTopollaj/Design-Patterns-in-iOS)|Welcome to "Design Patterns in iOS"! This repository is your go-to resource for exploring a wide range of common design patterns in iOS app development. With detailed explanations and practical code e ...|167|2024-02-04|2023-05-13|
-|86|[lukepistrol/SFSymbolsMacro](https://github.com/lukepistrol/SFSymbolsMacro)|A Swift Macro for "type-safe" SF Symbols.|164|2023-11-09|2023-06-14|
-|87|[buhe/langchain-swift](https://github.com/buhe/langchain-swift)|🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)|161|2024-02-14|2023-06-11|
-|88|[automerge/automerge-swift](https://github.com/automerge/automerge-swift)|Swift language bindings presenting Automerge|160|2024-02-14|2023-03-03|
-|89|[daprice/Variablur](https://github.com/daprice/Variablur)|Variable blur effects for SwiftUI, powered by Metal|159|2023-12-08|2023-11-19|
-|90|[Olivia-li/humane.watch](https://github.com/Olivia-li/humane.watch)|Humane ai pin on the Apple watch|155|2023-11-22|2023-11-15|
-|91|[xiao99xiao/SCIMKiller](https://github.com/xiao99xiao/SCIMKiller)|A painkiller for SCIM issue|155|2023-12-06|2023-08-25|
-|92|[apple/app-store-server-library-swift](https://github.com/apple/app-store-server-library-swift)|-|155|2024-02-13|2023-05-31|
-|93|[mlemgroup/mlem](https://github.com/mlemgroup/mlem)|Mlem for Lemmy|154|2024-02-14|2023-07-02|
-|94|[HuolalaTech/hll-wp-therouter-ios](https://github.com/HuolalaTech/hll-wp-therouter-ios)|A framework for assisting in the renovation of iOS componentization|153|2024-02-02|2023-07-24|
-|95|[c22dev/Geranium](https://github.com/c22dev/Geranium)|LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore|150|2024-02-13|2023-12-10|
-|96|[shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions)|🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model|149|2023-12-15|2023-03-31|
-|97|[alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos)|Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!|148|2024-02-14|2024-02-04|
-|98|[Dean151/ButtonKit](https://github.com/Dean151/ButtonKit)|Asynchronous and Throwable button implementation for SwiftUI, with animations|146|2024-02-03|2024-01-13|
+|84|[KevinTopollaj/Design-Patterns-in-iOS](https://github.com/KevinTopollaj/Design-Patterns-in-iOS)|Welcome to "Design Patterns in iOS"! This repository is your go-to resource for exploring a wide range of common design patterns in iOS app development. With detailed explanations and practical code e ...|168|2024-02-04|2023-05-13|
+|85|[lukepistrol/TimeMachineStatus](https://github.com/lukepistrol/TimeMachineStatus)|TimeMachineStatus is a little menu bar application for macOS which aims to show more useful information than the system default.|167|2024-02-13|2023-11-10|
+|86|[lukepistrol/SFSymbolsMacro](https://github.com/lukepistrol/SFSymbolsMacro)|A Swift Macro for "type-safe" SF Symbols.|163|2023-11-09|2023-06-14|
+|87|[buhe/langchain-swift](https://github.com/buhe/langchain-swift)|🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)|161|2024-02-15|2023-06-11|
+|88|[alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos)|Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!|160|2024-02-15|2024-02-04|
+|89|[daprice/Variablur](https://github.com/daprice/Variablur)|Variable blur effects for SwiftUI, powered by Metal|160|2023-12-08|2023-11-19|
+|90|[automerge/automerge-swift](https://github.com/automerge/automerge-swift)|Swift language bindings presenting Automerge|160|2024-02-15|2023-03-03|
+|91|[Olivia-li/humane.watch](https://github.com/Olivia-li/humane.watch)|Humane ai pin on the Apple watch|155|2023-11-22|2023-11-15|
+|92|[xiao99xiao/SCIMKiller](https://github.com/xiao99xiao/SCIMKiller)|A painkiller for SCIM issue|155|2023-12-06|2023-08-25|
+|93|[apple/app-store-server-library-swift](https://github.com/apple/app-store-server-library-swift)|-|155|2024-02-13|2023-05-31|
+|94|[mlemgroup/mlem](https://github.com/mlemgroup/mlem)|Mlem for Lemmy|154|2024-02-15|2023-07-02|
+|95|[c22dev/Geranium](https://github.com/c22dev/Geranium)|LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore|153|2024-02-13|2023-12-10|
+|96|[HuolalaTech/hll-wp-therouter-ios](https://github.com/HuolalaTech/hll-wp-therouter-ios)|A framework for assisting in the renovation of iOS componentization|153|2024-02-02|2023-07-24|
+|97|[shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions)|🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model|149|2023-12-15|2023-03-31|
+|98|[Dean151/ButtonKit](https://github.com/Dean151/ButtonKit)|Asynchronous and Throwable button implementation for SwiftUI, with animations|147|2024-02-03|2024-01-13|
 |99|[intitni/CodeiumForXcode](https://github.com/intitni/CodeiumForXcode)|-|143|2023-12-17|2023-05-15|
 |100|[haxi0/Derootifier](https://github.com/haxi0/Derootifier)|"Derootifies" jailbreak .deb files to support Fugu15 Max otherwise known as Dopamine.|142|2024-01-10|2023-04-23|
-|101|[Artificial-Pancreas/iAPS](https://github.com/Artificial-Pancreas/iAPS)|-|138|2024-02-14|2023-03-16|
-|102|[tracyhenry-visionOS/GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry-visionOS/GenerativeDoodleArt_VisionOS)|A compact visionOS project that offers a deep dive into the platform's core functionalities|135|2023-10-04|2023-08-09|
+|101|[Artificial-Pancreas/iAPS](https://github.com/Artificial-Pancreas/iAPS)|-|138|2024-02-15|2023-03-16|
+|102|[tracyhenry-visionOS/GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry-visionOS/GenerativeDoodleArt_VisionOS)|A compact visionOS project that offers a deep dive into the platform's core functionalities|136|2023-10-04|2023-08-09|
 |103|[fal-ai/fal-swift](https://github.com/fal-ai/fal-swift)|Swift client for the fal.ai model APIs|134|2024-02-13|2023-11-12|
 |104|[apple/sample-cloudkit-sync-engine](https://github.com/apple/sample-cloudkit-sync-engine)|-|134|2024-01-12|2023-05-11|
 |105|[jtrivedi/Mesh-Transform-Animation](https://github.com/jtrivedi/Mesh-Transform-Animation)|-|133|2023-12-30|2023-12-30|
@@ -117,49 +117,49 @@
 |110|[biscuitehh/yeetd](https://github.com/biscuitehh/yeetd)|yeetd is a lil' daemon that watches for specific CPU-intensive Simulator processes and stops them in their tracks!|131|2023-10-05|2023-09-26|
 |111|[Paisseon/Azula](https://github.com/Paisseon/Azula)|App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)|129|2023-12-08|2023-03-12|
 |112|[mikeger/XcodeSelectiveTesting](https://github.com/mikeger/XcodeSelectiveTesting)|Xcode selective testing: Run only tests relevant to the changeset.|129|2024-02-05|2023-03-02|
-|113|[paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless)|Native iOS app for interacting with a Paperless-ngx installation to manage documents|127|2024-02-13|2023-02-15|
-|114|[JamesSedlacek/OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit)|SwiftUI library for handling onboarding|126|2024-02-01|2023-12-31|
-|115|[apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession)|URLSession transport for Swift OpenAPI Generator.|125|2024-01-16|2023-04-20|
-|116|[mohanedy/swifty-marvel](https://github.com/mohanedy/swifty-marvel)|A SwiftUI app to showcase my iOS development skills ( Clean Architecture  + MVVM + CoreData + Swinject + Async Await + Unit Testing + Arkana + Mockingbird + CI Pipeline )|124|2023-12-25|2023-07-05|
-|117|[IanKeen/MacroKit](https://github.com/IanKeen/MacroKit)|Exploring Swifts new macro system|124|2024-02-03|2023-06-14|
-|118|[BomberFish/AppCommander-legacy](https://github.com/BomberFish/AppCommander-legacy)|A swiss army knife for your iPhone apps. iOS 15.5-16.1.2.|121|2023-09-30|2023-03-17|
-|119|[LitRitt/Ignited](https://github.com/LitRitt/Ignited)|Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack.|119|2024-02-11|2023-02-17|
+|113|[JamesSedlacek/OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit)|SwiftUI library for handling onboarding|126|2024-02-01|2023-12-31|
+|114|[apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession)|URLSession transport for Swift OpenAPI Generator.|125|2024-01-16|2023-04-20|
+|115|[mohanedy/swifty-marvel](https://github.com/mohanedy/swifty-marvel)|A SwiftUI app to showcase my iOS development skills ( Clean Architecture  + MVVM + CoreData + Swinject + Async Await + Unit Testing + Arkana + Mockingbird + CI Pipeline )|124|2023-12-25|2023-07-05|
+|116|[IanKeen/MacroKit](https://github.com/IanKeen/MacroKit)|Exploring Swifts new macro system|124|2024-02-03|2023-06-14|
+|117|[BomberFish/AppCommander-legacy](https://github.com/BomberFish/AppCommander-legacy)|A swiss army knife for your iPhone apps. iOS 15.5-16.1.2.|121|2023-09-30|2023-03-17|
+|118|[Lakr233/Firework](https://github.com/Lakr233/Firework)|烟花箱！|119|2024-02-08|2024-02-07|
+|119|[LitRitt/Ignited](https://github.com/LitRitt/Ignited)|Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack.|119|2024-02-14|2023-02-17|
 |120|[nate-parrott/web98](https://github.com/nate-parrott/web98)|fantasy internet simulator|117|2024-01-24|2023-04-05|
 |121|[Archetapp/OpenAITodoList](https://github.com/Archetapp/OpenAITodoList)|A todo list that uses prompts from a user to create tasks for the day.|116|2024-01-23|2024-01-21|
 |122|[NSAntoine/AppIndex](https://github.com/NSAntoine/AppIndex)|Analyze & Backup applications on your device|115|2023-09-11|2023-04-03|
-|123|[NSAntoine/Antoine](https://github.com/NSAntoine/Antoine)|System Log UI for iOS|115|2023-12-19|2023-02-15|
-|124|[Lakr233/Firework](https://github.com/Lakr233/Firework)|烟花箱！|114|2024-02-08|2024-02-07|
-|125|[fieldday-ai/Modals](https://github.com/fieldday-ai/Modals)|-|112|2024-01-24|2023-08-08|
-|126|[apple/swift-mmio](https://github.com/apple/swift-mmio)|Define and operate on type safe MMIO|111|2024-02-08|2023-09-12|
-|127|[p-x9/AssociatedObject](https://github.com/p-x9/AssociatedObject)|🔗 Swift Macro for allowing variable declarations even in class extensions|111|2024-02-06|2023-06-12|
-|128|[apple/pkl-swift](https://github.com/apple/pkl-swift)|Pkl bindings for the Swift programming language|109|2024-02-13|2024-01-19|
-|129|[lukepistrol/MasonryStack](https://github.com/lukepistrol/MasonryStack)|A Pinterest like layout in SwiftUI (horizontal & vertical).|109|2023-09-16|2023-08-25|
+|123|[apple/swift-mmio](https://github.com/apple/swift-mmio)|Define and operate on type safe MMIO|112|2024-02-08|2023-09-12|
+|124|[fieldday-ai/Modals](https://github.com/fieldday-ai/Modals)|-|112|2024-01-24|2023-08-08|
+|125|[p-x9/AssociatedObject](https://github.com/p-x9/AssociatedObject)|🔗 Swift Macro for allowing variable declarations even in class extensions|111|2024-02-06|2023-06-12|
+|126|[apple/pkl-swift](https://github.com/apple/pkl-swift)|Pkl bindings for the Swift programming language|109|2024-02-13|2024-01-19|
+|127|[lukepistrol/MasonryStack](https://github.com/lukepistrol/MasonryStack)|A Pinterest like layout in SwiftUI (horizontal & vertical).|109|2023-09-16|2023-08-25|
+|128|[PGSSoft/XCTestParametrizedMacro](https://github.com/PGSSoft/XCTestParametrizedMacro)|Swift macro for parametrizing unit test methods|108|2023-11-30|2023-10-25|
+|129|[wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime)|Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage activity.|108|2024-02-13|2023-03-06|
 |130|[intergalacticspacehighway/codesnap](https://github.com/intergalacticspacehighway/codesnap)|macOS menubar app to generate UI components from screenshots.|107|2023-11-21|2023-11-18|
-|131|[wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime)|Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage activity.|107|2024-02-13|2023-03-06|
-|132|[FuturraGroup/OpenAI](https://github.com/FuturraGroup/OpenAI)|A library that makes it easy to use ChatGPT API|107|2024-02-01|2023-02-27|
-|133|[PGSSoft/XCTestParametrizedMacro](https://github.com/PGSSoft/XCTestParametrizedMacro)|Swift macro for parametrizing unit test methods|106|2023-11-30|2023-10-25|
-|134|[goodwhale/AspirinShot](https://github.com/goodwhale/AspirinShot)|Painless App Store screenshots with SwiftUI, in Xcode|105|2023-12-09|2023-06-29|
-|135|[ohaiibuzzle/Harbor](https://github.com/ohaiibuzzle/Harbor)|A harbor for all your game *porting* activities (get it?)|105|2024-01-11|2023-06-08|
-|136|[zsergey/Apple-Inspired-Puller](https://github.com/zsergey/Apple-Inspired-Puller)|Bottom sheet for iOS that I call puller. It has Apple's native API on iOS 11+, works like in Apple Music app and supports interactive pop gesture like in Telegram app. Supports SwiftUI.|103|2024-02-14|2023-03-22|
-|137|[SwiftBeta/SwiftOpenAI](https://github.com/SwiftBeta/SwiftOpenAI)|OpenAI API build with Swift ❤️|100|2024-01-24|2023-03-18|
-|138|[nathanborror/Heat](https://github.com/nathanborror/Heat)|An Ollama desktop and mobile client.|99|2024-02-07|2023-10-22|
-|139|[saagarjha/AppleConnect](https://github.com/saagarjha/AppleConnect)|Peer-to-peer bidirectional connection based on Network.framework|99|2024-02-01|2023-09-03|
-|140|[pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift)|Sweet window management for macOS|98|2024-01-26|2023-12-20|
-|141|[SwiftedMind/Queryable](https://github.com/SwiftedMind/Queryable)|Asynchronous view presentations in SwiftUI|96|2024-01-15|2023-04-11|
-|142|[FalconLee1011/Customized-Aerial-Screen-Saver](https://github.com/FalconLee1011/Customized-Aerial-Screen-Saver)|-|95|2023-12-19|2023-10-08|
-|143|[fumoboy007/swift-retry](https://github.com/fumoboy007/swift-retry)|Retries in Swift with sensible defaults and powerful flexibility.|91|2024-01-16|2023-12-10|
-|144|[Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX)|ColorfulX is an implementation using Metal for crafting multi-colored gradients.|89|2024-02-13|2023-12-01|
-|145|[dilmerv/VisionOSInspiration4](https://github.com/dilmerv/VisionOSInspiration4)|A demo project to help everyone in learning VisionOS development and by creating an Inspiration4 Fan App|87|2023-10-11|2023-09-14|
-|146|[bodhichristian/PetalMenu](https://github.com/bodhichristian/PetalMenu)|A flowering menu.|86|2024-02-02|2023-12-06|
-|147|[OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)|[WIP] Open source implementation of Apple's SwiftUI.|86|2024-02-04|2023-08-29|
-|148|[Lickability/ObservableConverter](https://github.com/Lickability/ObservableConverter)|A SwiftPM command plugin to convert SwiftUI code to Observable|86|2023-08-23|2023-08-17|
-|149|[jordanbaird/Ice](https://github.com/jordanbaird/Ice)|Powerful menu bar manager for macOS|86|2024-02-14|2023-08-04|
-|150|[Mijick/Navigattie](https://github.com/Mijick/Navigattie)|Easy navigation with SwiftUI|86|2023-10-25|2023-06-03|
+|131|[FuturraGroup/OpenAI](https://github.com/FuturraGroup/OpenAI)|A library that makes it easy to use ChatGPT API|107|2024-02-01|2023-02-27|
+|132|[goodwhale/AspirinShot](https://github.com/goodwhale/AspirinShot)|Painless App Store screenshots with SwiftUI, in Xcode|105|2023-12-09|2023-06-29|
+|133|[ohaiibuzzle/Harbor](https://github.com/ohaiibuzzle/Harbor)|A harbor for all your game *porting* activities (get it?)|105|2024-01-11|2023-06-08|
+|134|[zsergey/Apple-Inspired-Puller](https://github.com/zsergey/Apple-Inspired-Puller)|Bottom sheet for iOS that I call puller. It has Apple's native API on iOS 11+, works like in Apple Music app and supports interactive pop gesture like in Telegram app. Supports SwiftUI.|103|2024-02-14|2023-03-22|
+|135|[nathanborror/Heat](https://github.com/nathanborror/Heat)|An Ollama desktop and mobile client.|100|2024-02-07|2023-10-22|
+|136|[SwiftBeta/SwiftOpenAI](https://github.com/SwiftBeta/SwiftOpenAI)|OpenAI API build with Swift ❤️|100|2024-01-24|2023-03-18|
+|137|[saagarjha/AppleConnect](https://github.com/saagarjha/AppleConnect)|Peer-to-peer bidirectional connection based on Network.framework|99|2024-02-01|2023-09-03|
+|138|[pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift)|Sweet window management for macOS|98|2024-01-26|2023-12-20|
+|139|[SwiftedMind/Queryable](https://github.com/SwiftedMind/Queryable)|Asynchronous view presentations in SwiftUI|96|2024-01-15|2023-04-11|
+|140|[FalconLee1011/Customized-Aerial-Screen-Saver](https://github.com/FalconLee1011/Customized-Aerial-Screen-Saver)|-|95|2023-12-19|2023-10-08|
+|141|[davedelong/extendedswift](https://github.com/davedelong/extendedswift)|-|94|2024-02-12|2023-04-04|
+|142|[fumoboy007/swift-retry](https://github.com/fumoboy007/swift-retry)|Retries in Swift with sensible defaults and powerful flexibility.|91|2024-01-16|2023-12-10|
+|143|[Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX)|ColorfulX is an implementation using Metal for crafting multi-colored gradients.|89|2024-02-13|2023-12-01|
+|144|[tonilijic/SwiftUI-Explorations](https://github.com/tonilijic/SwiftUI-Explorations)|mono repo for all my SwiftUI explorations ✨|88|2024-02-14|2024-01-16|
+|145|[dilmerv/VisionOSInspiration4](https://github.com/dilmerv/VisionOSInspiration4)|A demo project to help everyone in learning VisionOS development and by creating an Inspiration4 Fan App|88|2023-10-11|2023-09-14|
+|146|[jordanbaird/Ice](https://github.com/jordanbaird/Ice)|Powerful menu bar manager for macOS|87|2024-02-15|2023-08-04|
+|147|[Mijick/Navigattie](https://github.com/Mijick/Navigattie)|Easy navigation with SwiftUI|87|2023-10-25|2023-06-03|
+|148|[bodhichristian/PetalMenu](https://github.com/bodhichristian/PetalMenu)|A flowering menu.|86|2024-02-02|2023-12-06|
+|149|[OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)|[WIP] Open source implementation of Apple's SwiftUI.|86|2024-02-04|2023-08-29|
+|150|[Lickability/ObservableConverter](https://github.com/Lickability/ObservableConverter)|A SwiftPM command plugin to convert SwiftUI code to Observable|86|2023-08-23|2023-08-17|
 |151|[embrace-io/embrace-apple-sdk](https://github.com/embrace-io/embrace-apple-sdk)|The Embrace SDK in Swift|85|2024-02-07|2023-12-18|
 |152|[kevinhermawan/Canvas](https://github.com/kevinhermawan/Canvas)|A DALL·E playground for the Mac|84|2024-01-11|2023-12-25|
 |153|[aaronpearce/Harmony](https://github.com/aaronpearce/Harmony)|Harmony provides CloudKit sync for GRDB and only GRDB.|84|2023-10-18|2023-06-12|
 |154|[inventhq/dot-globe](https://github.com/inventhq/dot-globe)|Dotted Globe for Swift!|84|2023-08-22|2023-05-24|
-|155|[Data-swift/ManagedModels](https://github.com/Data-swift/ManagedModels)|A SwiftData like `@Model` infrastructure for CoreData.|83|2024-02-13|2023-09-23|
+|155|[Data-swift/ManagedModels](https://github.com/Data-swift/ManagedModels)|A SwiftData like `@Model` infrastructure for CoreData.|83|2024-02-15|2023-09-23|
 |156|[mattmassicotte/MainOffender](https://github.com/mattmassicotte/MainOffender)|Utilities for transitioning to Swift Concurrency|83|2024-01-26|2023-07-21|
 |157|[Mochi-Team/mochi](https://github.com/Mochi-Team/mochi)|A free and open-souce content viewer for Apple Devices.|83|2024-01-02|2023-03-24|
 |158|[matteozappia/DynamicCowTS](https://github.com/matteozappia/DynamicCowTS)|Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.|82|2023-12-11|2023-12-05|
@@ -169,42 +169,42 @@
 |162|[thebrowsercompany/swift-webdriver](https://github.com/thebrowsercompany/swift-webdriver)|A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints|82|2024-02-12|2023-03-30|
 |163|[krzysztofzablocki/OhSnap](https://github.com/krzysztofzablocki/OhSnap)|Reproduce bugs your user saw by capturing and replaying data snapshots with ease.|81|2023-12-13|2023-12-12|
 |164|[thatvirtualboy/SwiftUI-Bento-Box](https://github.com/thatvirtualboy/SwiftUI-Bento-Box)|Create your own SwiftUI Bento Box|81|2023-10-09|2023-08-13|
-|165|[davedelong/extendedswift](https://github.com/davedelong/extendedswift)|-|80|2024-02-12|2023-04-04|
-|166|[nielsmouthaan/backup-status](https://github.com/nielsmouthaan/backup-status)|Backup Status introduces a widget for your Mac, allowing you to view the status of Time Machine right from your desktop or Notification Center.|76|2023-12-01|2023-11-27|
-|167|[kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI)|User Interface made for Ollama.ai using Swift|76|2024-02-09|2023-10-07|
-|168|[GaneshRajuGalla/SwiftUI](https://github.com/GaneshRajuGalla/SwiftUI)|-|76|2024-01-30|2023-06-12|
-|169|[helvetiica/PokemonCard](https://github.com/helvetiica/PokemonCard)|3D Pokemon Card using SwiftUI|75|2024-01-30|2024-01-30|
-|170|[suzanalamassi/ParallaxEffect](https://github.com/suzanalamassi/ParallaxEffect)|-|75|2023-09-21|2023-09-13|
-|171|[tonilijic/SwiftUI-Explorations](https://github.com/tonilijic/SwiftUI-Explorations)|mono repo for all my SwiftUI explorations ✨|74|2024-02-14|2024-01-16|
-|172|[UIXaker/UIExamples](https://github.com/UIXaker/UIExamples)|Collection of small, reusable code snippets for user-friendly UI for native iOS applications|73|2023-10-06|2023-09-01|
-|173|[samalone/websocket-actor-system](https://github.com/samalone/websocket-actor-system)|A client/server actor system for Swift distributed actors|71|2024-01-22|2023-10-31|
-|174|[Mobilecn-UI/swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui)|Beautiful and customizable SwiftUI components, inspired by shadcn-ui|71|2023-09-27|2023-09-21|
+|165|[kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI)|User Interface made for Ollama.ai using Swift|77|2024-02-09|2023-10-07|
+|166|[GaneshRajuGalla/SwiftUI](https://github.com/GaneshRajuGalla/SwiftUI)|-|77|2024-01-30|2023-06-12|
+|167|[helvetiica/PokemonCard](https://github.com/helvetiica/PokemonCard)|3D Pokemon Card using SwiftUI|76|2024-01-30|2024-01-30|
+|168|[nielsmouthaan/backup-status](https://github.com/nielsmouthaan/backup-status)|Backup Status introduces a widget for your Mac, allowing you to view the status of Time Machine right from your desktop or Notification Center.|76|2023-12-01|2023-11-27|
+|169|[suzanalamassi/ParallaxEffect](https://github.com/suzanalamassi/ParallaxEffect)|-|75|2023-09-21|2023-09-13|
+|170|[UIXaker/UIExamples](https://github.com/UIXaker/UIExamples)|Collection of small, reusable code snippets for user-friendly UI for native iOS applications|73|2023-10-06|2023-09-01|
+|171|[samalone/websocket-actor-system](https://github.com/samalone/websocket-actor-system)|A client/server actor system for Swift distributed actors|71|2024-01-22|2023-10-31|
+|172|[MythicApp/Mythic](https://github.com/MythicApp/Mythic)|A unique open-source game launcher for macOS with Epic Games integration and the ability to run Windows games.|71|2024-02-13|2023-09-28|
+|173|[Mobilecn-UI/swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui)|Beautiful and customizable SwiftUI components, inspired by shadcn-ui|71|2023-09-27|2023-09-21|
+|174|[AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift)|A framework for creating user interfaces for GNOME with an API similar to SwiftUI|71|2024-02-14|2023-09-12|
 |175|[xenodium/macosrec](https://github.com/xenodium/macosrec)|Take screenshots/videos of macOS windows from the command line|71|2023-09-10|2023-04-13|
 |176|[CleanCocoa/OpenAny](https://github.com/CleanCocoa/OpenAny)|macOS app and file launching springboard|70|2023-12-13|2023-12-11|
 |177|[mattmassicotte/XCLint](https://github.com/mattmassicotte/XCLint)|Xcode project linting|70|2024-02-08|2023-10-14|
-|178|[MythicApp/Mythic](https://github.com/MythicApp/Mythic)|A unique open-source game launcher for macOS with Epic Games integration and the ability to run Windows games.|70|2024-02-13|2023-09-28|
-|179|[orchetect/SettingsAccess](https://github.com/orchetect/SettingsAccess)|Better SwiftUI Settings Scene Access on macOS|70|2023-11-08|2023-09-14|
-|180|[AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift)|A framework for creating user interfaces for GNOME with an API similar to SwiftUI|70|2024-02-14|2023-09-12|
-|181|[frugoman/SwiftMocks](https://github.com/frugoman/SwiftMocks)|Mocking framework for Swift using Macros|70|2023-12-25|2023-06-27|
-|182|[EmergeTools/ETSymbolication](https://github.com/EmergeTools/ETSymbolication)|-|70|2023-12-19|2023-06-22|
-|183|[erikdrobne/SwiftUICoordinator](https://github.com/erikdrobne/SwiftUICoordinator)|SwiftUICoordinator is a package that seamlessly integrates the Coordinator pattern into the SwiftUI framework.|70|2024-01-28|2023-03-10|
-|184|[castdrian/ishare](https://github.com/castdrian/ishare)|experience the clean and unbloated screen capture utility for macOS|68|2024-01-24|2023-07-05|
-|185|[jcsalterego/Sky.app](https://github.com/jcsalterego/Sky.app)|Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.|68|2023-09-28|2023-04-26|
-|186|[liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool)|A plugin to generate Swift constants for your Strings Catalogs.|67|2024-02-08|2023-09-23|
-|187|[raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools)|Utility to use Swift in a Raycast extension|67|2024-02-06|2023-08-04|
-|188|[Metamogul/UTM-Snapshot-Manager](https://github.com/Metamogul/UTM-Snapshot-Manager)|A companion app for UTM to manage snapshots for existing virtual machines.|67|2023-12-17|2023-03-10|
-|189|[mierau/hotline](https://github.com/mierau/hotline)|A modern Hotline client for Mac, iOS, and iPadOS|66|2024-01-23|2023-11-27|
-|190|[lazaronixon/turbo-native-initializer](https://github.com/lazaronixon/turbo-native-initializer)|Turbo IOS/Android project generator|66|2023-11-12|2023-08-26|
-|191|[fatbobman/SwiftDataKit](https://github.com/fatbobman/SwiftDataKit)|SwiftDataKit allows SwiftData developers to access Core Data objects corresponding to SwiftData elements.|65|2023-12-31|2023-08-23|
-|192|[shayanbo/VideoPlayerContainer](https://github.com/shayanbo/VideoPlayerContainer)|Flexible and extendable VideoPlayer for SwiftUI|65|2023-12-04|2023-06-25|
-|193|[polac24/XCBuildAnalyzer](https://github.com/polac24/XCBuildAnalyzer)|SwiftUI application to analyze Xcode build system graph (Experimental)|65|2024-02-09|2023-06-18|
-|194|[VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage)|Main source code of Vernissage iOS app|65|2023-12-27|2023-03-28|
-|195|[gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro)|Swift Macro for enhanced automatic inits.|64|2024-01-15|2023-08-31|
-|196|[darrarski/darrarski-app](https://github.com/darrarski/darrarski-app)|iOS & macOS SwiftUI application about my work and services|64|2024-02-08|2023-08-29|
-|197|[rurza/BatFi](https://github.com/rurza/BatFi)|Battery charging limiter for macOS.|64|2024-02-08|2023-04-14|
-|198|[compnerd/swift-firebase](https://github.com/compnerd/swift-firebase)|Swift Interface for Firebase|63|2024-02-12|2023-07-27|
-|199|[starkdmi/BrightXDR](https://github.com/starkdmi/BrightXDR)|Free and Open Source alternative to Vivid macOS application to extend Apple XDR display brightness from 500 up to 1600 nits. |63|2023-11-21|2023-03-28|
-|200|[sieren/WidgetToggler](https://github.com/sieren/WidgetToggler)|macOS Sonoma Widget Toggler for the Tray Bar - Easily Show and Hide Widgets|62|2024-01-29|2023-09-11|
+|178|[orchetect/SettingsAccess](https://github.com/orchetect/SettingsAccess)|Better SwiftUI Settings Scene Access on macOS|70|2023-11-08|2023-09-14|
+|179|[frugoman/SwiftMocks](https://github.com/frugoman/SwiftMocks)|Mocking framework for Swift using Macros|70|2023-12-25|2023-06-27|
+|180|[EmergeTools/ETSymbolication](https://github.com/EmergeTools/ETSymbolication)|-|70|2023-12-19|2023-06-22|
+|181|[erikdrobne/SwiftUICoordinator](https://github.com/erikdrobne/SwiftUICoordinator)|SwiftUICoordinator is a package that seamlessly integrates the Coordinator pattern into the SwiftUI framework.|70|2024-01-28|2023-03-10|
+|182|[castdrian/ishare](https://github.com/castdrian/ishare)|experience the clean and unbloated screen capture utility for macOS|69|2024-01-24|2023-07-05|
+|183|[jcsalterego/Sky.app](https://github.com/jcsalterego/Sky.app)|Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.|69|2023-09-28|2023-04-26|
+|184|[liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool)|A plugin to generate Swift constants for your Strings Catalogs.|68|2024-02-08|2023-09-23|
+|185|[raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools)|Utility to use Swift in a Raycast extension|67|2024-02-06|2023-08-04|
+|186|[Metamogul/UTM-Snapshot-Manager](https://github.com/Metamogul/UTM-Snapshot-Manager)|A companion app for UTM to manage snapshots for existing virtual machines.|67|2023-12-17|2023-03-10|
+|187|[mierau/hotline](https://github.com/mierau/hotline)|A modern Hotline client for Mac, iOS, and iPadOS|66|2024-01-23|2023-11-27|
+|188|[lazaronixon/turbo-native-initializer](https://github.com/lazaronixon/turbo-native-initializer)|Turbo IOS/Android project generator|66|2023-11-12|2023-08-26|
+|189|[shayanbo/VideoPlayerContainer](https://github.com/shayanbo/VideoPlayerContainer)|Flexible and extendable VideoPlayer for SwiftUI|66|2023-12-04|2023-06-25|
+|190|[fatbobman/SwiftDataKit](https://github.com/fatbobman/SwiftDataKit)|SwiftDataKit allows SwiftData developers to access Core Data objects corresponding to SwiftData elements.|65|2023-12-31|2023-08-23|
+|191|[polac24/XCBuildAnalyzer](https://github.com/polac24/XCBuildAnalyzer)|SwiftUI application to analyze Xcode build system graph (Experimental)|65|2024-02-09|2023-06-18|
+|192|[VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage)|Main source code of Vernissage iOS app|65|2023-12-27|2023-03-28|
+|193|[gohanlon/swift-memberwise-init-macro](https://github.com/gohanlon/swift-memberwise-init-macro)|Swift Macro for enhanced automatic inits.|64|2024-01-15|2023-08-31|
+|194|[darrarski/darrarski-app](https://github.com/darrarski/darrarski-app)|iOS & macOS SwiftUI application about my work and services|64|2024-02-08|2023-08-29|
+|195|[rurza/BatFi](https://github.com/rurza/BatFi)|Battery charging limiter for macOS.|64|2024-02-08|2023-04-14|
+|196|[compnerd/swift-firebase](https://github.com/compnerd/swift-firebase)|Swift Interface for Firebase|63|2024-02-15|2023-07-27|
+|197|[starkdmi/BrightXDR](https://github.com/starkdmi/BrightXDR)|Free and Open Source alternative to Vivid macOS application to extend Apple XDR display brightness from 500 up to 1600 nits. |63|2023-11-21|2023-03-28|
+|198|[Kolos65/Mockable](https://github.com/Kolos65/Mockable)|A Swift macro driven auto-mocking library.|62|2024-01-26|2023-11-24|
+|199|[sieren/WidgetToggler](https://github.com/sieren/WidgetToggler)|macOS Sonoma Widget Toggler for the Tray Bar - Easily Show and Hide Widgets|62|2024-01-29|2023-09-11|
+|200|[eerimoq/moblin](https://github.com/eerimoq/moblin)|Moblin, a free iOS app for IRL streaming.|61|2024-02-14|2023-08-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

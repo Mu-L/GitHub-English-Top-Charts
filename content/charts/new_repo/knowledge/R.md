@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -41,14 +41,13 @@
 |34|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|6|2024-01-01|2023-11-11|
 |35|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
 |36|[milos-agathon/isochrone_maps](https://github.com/milos-agathon/isochrone_maps)|In this repo, I will show you how to create interactive and static isochrone maps in R using openrouteservice, leaflet, and ggplot2.|6|2023-10-14|2023-10-14|
-|37|[henryspatialanalysis/city_walkability](https://github.com/henryspatialanalysis/city_walkability)|Tutorial for '15-minute city' walkability analysis|6|2023-08-16|2023-08-01|
-|38|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
-|39|[milos-agathon/mapping-air-pollution](https://github.com/milos-agathon/mapping-air-pollution)|In this tutorial, you will learn how to interpolate the air poluttion index (AQI) data points and create beautiful 2D and 3D choropleth maps using ggplot2 and rayshader in R|5|2023-09-10|2023-09-10|
-|40|[milos-agathon/swipe-maps-nightlight](https://github.com/milos-agathon/swipe-maps-nightlight)|In this repo, I will show you how to make before/after swipe maps of nighttime lights using shiny in R. We will use the VIIRS data from the Earth Observation Group (EOG) to create the swipe maps of Uk ...|5|2023-09-02|2023-09-02|
-|41|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
-|42|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
-|43|[tidymodels/modeldatatoo](https://github.com/tidymodels/modeldatatoo)|More Data Sets Useful for Modeling Examples|5|2024-01-04|2023-03-02|
-|44|[ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e)|Course material for MF9130E|5|2023-10-12|2023-02-17|
+|37|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
+|38|[milos-agathon/mapping-air-pollution](https://github.com/milos-agathon/mapping-air-pollution)|In this tutorial, you will learn how to interpolate the air poluttion index (AQI) data points and create beautiful 2D and 3D choropleth maps using ggplot2 and rayshader in R|5|2023-09-10|2023-09-10|
+|39|[milos-agathon/swipe-maps-nightlight](https://github.com/milos-agathon/swipe-maps-nightlight)|In this repo, I will show you how to make before/after swipe maps of nighttime lights using shiny in R. We will use the VIIRS data from the Earth Observation Group (EOG) to create the swipe maps of Uk ...|5|2023-09-02|2023-09-02|
+|40|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
+|41|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
+|42|[tidymodels/modeldatatoo](https://github.com/tidymodels/modeldatatoo)|More Data Sets Useful for Modeling Examples|5|2024-01-04|2023-03-02|
+|43|[ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e)|Course material for MF9130E|5|2023-10-12|2023-02-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

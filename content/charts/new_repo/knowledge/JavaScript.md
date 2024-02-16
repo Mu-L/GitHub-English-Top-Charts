@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)|基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0|5288|2024-01-27|2023-02-19|
-|2|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|4884|2024-01-27|2023-02-28|
-|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|2747|2024-02-06|2023-11-07|
-|4|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2254|2024-01-10|2023-05-04|
-|5|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2198|2024-02-13|2023-05-20|
-|6|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |2134|2024-02-07|2023-11-22|
-|7|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2129|2024-01-18|2023-05-18|
+|2|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|4890|2024-01-27|2023-02-28|
+|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|2754|2024-02-06|2023-11-07|
+|4|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2257|2024-01-10|2023-05-04|
+|5|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2203|2024-02-13|2023-05-20|
+|6|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |2139|2024-02-07|2023-11-22|
+|7|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2132|2024-01-18|2023-05-18|
 |8|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1595|2024-02-05|2023-08-10|
-|9|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1563|2023-11-22|2023-04-20|
-|10|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1365|2024-02-10|2023-04-23|
+|9|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1564|2023-11-22|2023-04-20|
+|10|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1366|2024-02-10|2023-04-23|
 |11|[raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces)|A non-exhaustive list of details that make a good web interface.|1361|2023-09-07|2023-05-24|
 |12|[timqian/openprompt.co](https://github.com/timqian/openprompt.co)|Create. Use. Share. ChatGPT prompts|1115|2024-02-10|2023-03-22|
 |13|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1103|2024-01-28|2023-08-12|
-|14|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1050|2024-02-07|2023-12-31|
-|15|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|804|2024-02-07|2023-09-14|
-|16|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|781|2024-01-13|2023-09-04|
-|17|[obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage)|I learn much better from text than from videos|731|2023-12-01|2023-03-09|
+|14|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1053|2024-02-07|2023-12-31|
+|15|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|808|2024-02-07|2023-09-14|
+|16|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|782|2024-01-13|2023-09-04|
+|17|[obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage)|I learn much better from text than from videos|732|2023-12-01|2023-03-09|
 |18|[dotnet-easy/easy-dotnet](https://github.com/dotnet-easy/easy-dotnet)|A Simple Way to Learn. NET|666|2023-10-16|2023-04-11|
-|19|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|640|2024-01-25|2023-10-05|
+|19|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|642|2024-01-25|2023-10-05|
 |20|[neemspees/tragic-methods](https://github.com/neemspees/tragic-methods)|A collection of script depicting the strange quirks of programming languages.|629|2023-10-07|2023-03-08|
 |21|[thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js)|🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet|612|2024-02-05|2023-03-01|
 |22|[luguosong/programming-notes](https://github.com/luguosong/programming-notes)|Programming Learning Blog|397|2024-02-04|2023-05-17|
 |23|[Nevysha/Cozy-Nest](https://github.com/Nevysha/Cozy-Nest)|A collection of tweak to improve Auto1111 UI//UX|369|2024-01-30|2023-04-30|
-|24|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|363|2024-02-08|2023-08-16|
-|25|[Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor)|:guide_dog: Powerful lowcode vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many ...|351|2024-01-19|2023-03-21|
-|26|[ishwarrimal/frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps)|Everything required to crack frontend interview|324|2024-02-06|2023-05-31|
-|27|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|321|2024-01-05|2024-01-05|
+|24|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|363|2024-02-14|2023-08-16|
+|25|[Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor)|:guide_dog: Powerful lowcode vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many ...|352|2024-01-19|2023-03-21|
+|26|[ishwarrimal/frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps)|Everything required to crack frontend interview|325|2024-02-06|2023-05-31|
+|27|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|323|2024-01-05|2024-01-05|
 |28|[coatless/quarto-webr](https://github.com/coatless/quarto-webr)|Quarto Extension to Embed webR for HTML Documents, RevealJS, Websites, Blogs, and Books.|296|2024-02-09|2023-03-11|
 |29|[tw93/Maple](https://github.com/tw93/Maple)|🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。|283|2024-02-13|2023-07-26|
 |30|[kunjgit/GameZone](https://github.com/kunjgit/GameZone)|This open source repository contains collection of games build on basic tech stacks in web development  . Use your creativity and build your own game and contribute to the repository by making PR 🎮|276|2024-01-31|2023-05-07|
