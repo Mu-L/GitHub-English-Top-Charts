@@ -1,85 +1,85 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > C++
-<sub>Updated: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|50712|148|2024-02-15|
-|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|35662|21|2024-01-29|
-|3|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|31961|15|2023-11-27|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|50767|148|2024-02-16|
+|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|35666|21|2024-01-29|
+|3|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|31971|15|2023-11-27|
 |4|[microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)|12 Weeks, 24 Lessons, IoT for All!|14323|13|2024-01-22|
-|5|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|482|13|2024-01-21|
-|6|[MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)|《明日方舟》小助手，全日常一键长草！  A one-click tool for the daily tasks of Arknights, supporting all clients.|11322|12|2024-02-15|
-|7|[TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)|Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.|28558|10|2024-02-14|
+|5|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|483|13|2024-01-21|
+|6|[MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)|《明日方舟》小助手，全日常一键长草！  A one-click tool for the daily tasks of Arknights, supporting all clients.|11326|12|2024-02-16|
+|7|[TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)|Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.|28565|10|2024-02-14|
 |8|[changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)|📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly   https://changkun.de/modern-cpp/|22741|8|2023-10-30|
-|9|[simdjson/simdjson](https://github.com/simdjson/simdjson)|Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks|18066|8|2024-02-15|
-|10|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|793|8|2023-12-29|
-|11|[ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)|A brief computer graphics / rendering course|18886|6|2023-11-09|
-|12|[microsoft/LightGBM](https://github.com/microsoft/LightGBM)|A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas ...|15858|6|2024-02-15|
-|13|[facebook/folly](https://github.com/facebook/folly)|An open-source C++ library developed and used at Facebook.|26756|6|2024-02-15|
-|14|[haoel/leetcode](https://github.com/haoel/leetcode)|LeetCode Problems' Solutions |17331|5|2024-01-17|
-|15|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|504|5|2024-01-17|
-|16|[project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)|Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards ...|6809|5|2024-02-15|
+|9|[simdjson/simdjson](https://github.com/simdjson/simdjson)|Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks|18080|8|2024-02-16|
+|10|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|795|8|2023-12-29|
+|11|[ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)|A brief computer graphics / rendering course|18891|6|2023-11-09|
+|12|[microsoft/LightGBM](https://github.com/microsoft/LightGBM)|A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas ...|15860|6|2024-02-16|
+|13|[facebook/folly](https://github.com/facebook/folly)|An open-source C++ library developed and used at Facebook.|26759|6|2024-02-16|
+|14|[haoel/leetcode](https://github.com/haoel/leetcode)|LeetCode Problems' Solutions |17330|5|2024-01-17|
+|15|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|505|5|2024-01-17|
+|16|[project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)|Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards ...|6811|5|2024-02-16|
 |17|[flashlight/wav2letter](https://github.com/flashlight/wav2letter)|Facebook AI Research's Automatic Speech Recognition Toolkit |6321|3|2023-11-30|
-|18|[dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)|Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.|7128|3|2024-01-04|
+|18|[dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)|Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.|7133|3|2024-01-04|
 |19|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|309|3|2024-02-07|
-|20|[JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)|Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com|9978|3|2023-11-18|
-|21|[facebook/proxygen](https://github.com/facebook/proxygen)|A collection of C++ HTTP libraries including an easy to use HTTP server.|7982|2|2024-02-15|
-|22|[gzc/CLRS](https://github.com/gzc/CLRS)|:notebook:Solutions to Introduction to Algorithms|9255|2|2023-10-15|
+|20|[JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)|Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com|9979|3|2023-11-18|
+|21|[facebook/proxygen](https://github.com/facebook/proxygen)|A collection of C++ HTTP libraries including an easy to use HTTP server.|7981|2|2024-02-16|
+|22|[gzc/CLRS](https://github.com/gzc/CLRS)|:notebook:Solutions to Introduction to Algorithms|9259|2|2023-10-15|
 |23|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|477|2|2023-10-30|
-|24|[google/fuzzing](https://github.com/google/fuzzing)|Tutorials, examples, discussions, research proposals, and other resources related to fuzzing|3279|2|2024-02-05|
-|25|[wisdompeak/LeetCode](https://github.com/wisdompeak/LeetCode)|This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems  ...|5346|2|2024-02-11|
-|26|[dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja)|This is an online course where you can learn and master the skill of low-level performance analysis and tuning.|1918|2|2024-02-13|
+|24|[google/fuzzing](https://github.com/google/fuzzing)|Tutorials, examples, discussions, research proposals, and other resources related to fuzzing|3280|2|2024-02-05|
+|25|[wisdompeak/LeetCode](https://github.com/wisdompeak/LeetCode)|This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems  ...|5350|2|2024-02-11|
+|26|[dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja)|This is an online course where you can learn and master the skill of low-level performance analysis and tuning.|1920|2|2024-02-13|
 |27|[google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)|OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.|3935|2|2024-02-14|
 |28|[ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)|Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.|1719|2|2023-09-14|
 |29|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记|3632|2|2023-08-18|
 |30|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|279|2|2024-02-13|
-|31|[BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga)|Learning FPGA, yosys, nextpnr, and RISC-V |2252|2|2024-01-19|
-|32|[cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)|Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)|6103|2|2024-02-15|
-|33|[kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)|🏋️ Python / Modern C++ Solutions of All 3036 LeetCode Problems (Weekly Update)|4419|2|2024-02-13|
-|34|[Avinash987/Coding](https://github.com/Avinash987/Coding)|Data Structures and Algorithms (DSA) Preparation sheet|2054|2|2024-01-12|
+|31|[BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga)|Learning FPGA, yosys, nextpnr, and RISC-V |2253|2|2024-01-19|
+|32|[cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)|Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)|6110|2|2024-02-15|
+|33|[kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)|🏋️ Python / Modern C++ Solutions of All 3036 LeetCode Problems (Weekly Update)|4418|2|2024-02-13|
+|34|[Avinash987/Coding](https://github.com/Avinash987/Coding)|Data Structures and Algorithms (DSA) Preparation sheet|2061|2|2024-01-12|
 |35|[rutura/The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code)|Source code for the C++ 20 Masterclass on udemy |1551|2|2024-01-08|
 |36|[alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs)|A collection of modern C++ libraries, include coro_rpc, struct_pack, struct_json, struct_xml, struct_pb, easylog, async_simple|1195|2|2024-02-05|
 |37|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|381|2|2023-10-02|
-|38|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|4859|2|2023-10-08|
-|39|[TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)|TrinityCore Open Source MMO Framework (master = 10.2.5.53262, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)|8861|2|2024-02-15|
-|40|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|651|2|2024-01-04|
+|38|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|4861|2|2023-10-08|
+|39|[TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)|TrinityCore Open Source MMO Framework (master = 10.2.5.53262, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)|8863|2|2024-02-16|
+|40|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|652|2|2024-01-04|
 |41|[tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike)|Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University|3057|2|2023-11-10|
-|42|[lightvector/KataGo](https://github.com/lightvector/KataGo)|GTP engine and self-play learning in Go|2901|2|2024-02-11|
+|42|[lightvector/KataGo](https://github.com/lightvector/KataGo)|GTP engine and self-play learning in Go|2902|2|2024-02-11|
 |43|[opencurve/curve](https://github.com/opencurve/curve)|Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage ...|2175|2|2024-01-30|
-|44|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various malicious functionality to aid in malware development|1238|2|2024-01-24|
-|45|[BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)|a programming library with geometric algorithms|1552|2|2024-02-15|
-|46|[microsoft/GSL](https://github.com/microsoft/GSL)|Guidelines Support Library|5851|2|2024-02-08|
-|47|[intel/x86-simd-sort](https://github.com/intel/x86-simd-sort)|C++ template library for high performance SIMD based sorting algorithms|769|2|2024-02-15|
-|48|[RetroShare/RetroShare](https://github.com/RetroShare/RetroShare)|RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.|1644|1|2024-02-13|
+|44|[vxunderground/VX-API](https://github.com/vxunderground/VX-API)|Collection of various malicious functionality to aid in malware development|1239|2|2024-01-24|
+|45|[BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)|a programming library with geometric algorithms|1552|2|2024-02-16|
+|46|[microsoft/GSL](https://github.com/microsoft/GSL)|Guidelines Support Library|5849|2|2024-02-08|
+|47|[intel/x86-simd-sort](https://github.com/intel/x86-simd-sort)|C++ template library for high performance SIMD based sorting algorithms|771|2|2024-02-15|
+|48|[RetroShare/RetroShare](https://github.com/RetroShare/RetroShare)|RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.|1644|1|2024-02-16|
 |49|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|107|1|2023-11-24|
 |50|[ern0/howto-wasm-minimal](https://github.com/ern0/howto-wasm-minimal)|How to create minimal wasm module with plain C/C++|499|1|2023-10-04|
-|51|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|126|1|2024-02-07|
+|51|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|128|1|2024-02-07|
 |52|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|150|1|2024-01-13|
-|53|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..|1078|1|2024-02-14|
+|53|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..|1079|1|2024-02-14|
 |54|[Mq-b/Cpp20-STL-Cookbook-src](https://github.com/Mq-b/Cpp20-STL-Cookbook-src)|C++20 STL Cookbook|419|1|2024-01-08|
 |55|[HarshCasper/NeoAlgo](https://github.com/HarshCasper/NeoAlgo)|Bringing all Data Structures and Algorithms under one Roof ⚡|877|1|2023-10-08|
-|56|[Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial)|Tutorial for the Vulkan graphics and compute API|2906|1|2024-02-15|
+|56|[Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial)|Tutorial for the Vulkan graphics and compute API|2907|1|2024-02-15|
 |57|[nvpro-samples/vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer)|A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.|1049|1|2024-01-17|
 |58|[KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial)|Hands-On Practical MLIR Tutorial|90|1|2023-10-20|
 |59|[zufuliu/notepad2](https://github.com/zufuliu/notepad2)|Notepad2-zufuliu is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled wi ...|2175|1|2024-02-10|
-|60|[nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)|Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html|2396|1|2023-12-22|
+|60|[nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)|Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html|2398|1|2023-12-22|
 |61|[orangeduck/Motion-Matching](https://github.com/orangeduck/Motion-Matching)|Learned Motion Matching example implementation and source code for the article "Code vs Data Driven Displacement"|615|1|2023-11-13|
-|62|[prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)|C++ Implementation of PyTorch Tutorials for Everyone|1757|1|2023-12-10|
-|63|[omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming)|🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms|902|1|2024-01-16|
-|64|[ShahjalalShohag/code-library](https://github.com/ShahjalalShohag/code-library)|Templates, algorithms and data structures implemented and collected for programming contests.|2489|1|2024-02-11|
-|65|[the-hyp0cr1t3/CC](https://github.com/the-hyp0cr1t3/CC)|Everything competitive programming related - introductory guide, topics/concepts, practice problems, snippets & templates, tips & tricks and more.|819|1|2023-08-29|
+|62|[prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)|C++ Implementation of PyTorch Tutorials for Everyone|1758|1|2023-12-10|
+|63|[omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming)|🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms|903|1|2024-01-16|
+|64|[ShahjalalShohag/code-library](https://github.com/ShahjalalShohag/code-library)|Templates, algorithms and data structures implemented and collected for programming contests.|2492|1|2024-02-11|
+|65|[the-hyp0cr1t3/CC](https://github.com/the-hyp0cr1t3/CC)|Everything competitive programming related - introductory guide, topics/concepts, practice problems, snippets & templates, tips & tricks and more.|820|1|2023-08-29|
 |66|[PacktPublishing/3D-Graphics-Rendering-Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)|3D Graphics Rendering Cookbook, published by Packt.|812|1|2024-01-15|
-|67|[jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib)|I2C device library collection for AVR/Arduino or other C++-based MCUs|3777|1|2024-01-07|
-|68|[Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)|Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan ...|2101|1|2024-02-08|
-|69|[rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)|The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!|2662|1|2023-09-28|
-|70|[MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)|An Arduino library that adds one or more joysticks to the list of HID devices an Arduino Leonardo or Arduino Micro can support.|1970|1|2024-02-07|
-|71|[NVIDIA/thrust](https://github.com/NVIDIA/thrust)|[ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl|4820|1|2024-02-08|
-|72|[nvpro-samples/vk_raytracing_tutorial_KHR](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)|Ray tracing examples and tutorials using VK_KHR_ray_tracing|1215|1|2024-01-17|
-|73|[linuxmint/warpinator](https://github.com/linuxmint/warpinator)|Share files across the LAN|1078|1|2024-02-09|
-|74|[jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck)|Automatically identify anti-patterns in SQL queries|2360|1|2024-02-13|
-|75|[0vercl0k/wtf](https://github.com/0vercl0k/wtf)|wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.|1299|1|2024-02-11|
+|67|[jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib)|I2C device library collection for AVR/Arduino or other C++-based MCUs|3777|1|2024-02-16|
+|68|[Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)|Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan ...|2102|1|2024-02-08|
+|69|[rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)|The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!|2663|1|2023-09-28|
+|70|[MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)|An Arduino library that adds one or more joysticks to the list of HID devices an Arduino Leonardo or Arduino Micro can support.|1971|1|2024-02-07|
+|71|[NVIDIA/thrust](https://github.com/NVIDIA/thrust)|[ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl|4818|1|2024-02-08|
+|72|[nvpro-samples/vk_raytracing_tutorial_KHR](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)|Ray tracing examples and tutorials using VK_KHR_ray_tracing|1216|1|2024-01-17|
+|73|[linuxmint/warpinator](https://github.com/linuxmint/warpinator)|Share files across the LAN|1080|1|2024-02-09|
+|74|[jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck)|Automatically identify anti-patterns in SQL queries|2361|1|2024-02-13|
+|75|[0vercl0k/wtf](https://github.com/0vercl0k/wtf)|wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.|1300|1|2024-02-16|
 |76|[manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming)|:pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.|1418|1|2023-08-29|
 |77|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|64|1|2024-01-01|
 |78|[facebook/mysql-5.6](https://github.com/facebook/mysql-5.6)|Facebook's branch of the Oracle MySQL database. This includes MyRocks.|2425|1|2024-02-15|
@@ -88,50 +88,50 @@
 |81|[mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide)|Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X S, PlayStation  5, Nintendo Switch.|841|1|2024-01-04|
 |82|[trummerschlunk/master_me](https://github.com/trummerschlunk/master_me)|automatic mastering plugin for live streaming, podcasts and internet radio.|478|1|2024-01-07|
 |83|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|186|1|2023-08-23|
-|84|[mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)|Modern C++ Cheatsheet|2836|1|2023-12-15|
-|85|[googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)|Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android|963|1|2024-01-15|
-|86|[knockcat/Leetcode](https://github.com/knockcat/Leetcode)|This Repository Contains All My Solved Leetcode Problems.|455|1|2024-02-15|
+|84|[mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)|Modern C++ Cheatsheet|2842|1|2023-12-15|
+|85|[googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)|Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android|964|1|2024-01-15|
+|86|[knockcat/Leetcode](https://github.com/knockcat/Leetcode)|This Repository Contains All My Solved Leetcode Problems.|455|1|2024-02-16|
 |87|[xtaci/algorithms](https://github.com/xtaci/algorithms)|Algorithms & Data structures in C++.|5089|1|2023-12-18|
 |88|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|118|1|2023-12-30|
 |89|[facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)|Tips and tricks to optimize your C++ code|1050|1|2023-12-21|
 |90|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|151|1|2023-09-24|
 |91|[microsoft/EdgeML](https://github.com/microsoft/EdgeML)|This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.|1517|1|2023-11-24|
-|92|[microsoft/DirectXTK](https://github.com/microsoft/DirectXTK)|The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++|2447|1|2024-02-12|
+|92|[microsoft/DirectXTK](https://github.com/microsoft/DirectXTK)|The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++|2448|1|2024-02-12|
 |93|[Faran-17/Windows-Internals](https://github.com/Faran-17/Windows-Internals)|Important notes and topics on my journey towards mastering Windows Internals|292|1|2023-09-13|
-|94|[mmp/pbrt-v4](https://github.com/mmp/pbrt-v4)|Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.|2508|1|2024-01-28|
+|94|[mmp/pbrt-v4](https://github.com/mmp/pbrt-v4)|Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.|2510|1|2024-02-16|
 |95|[banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor)|A collection of out-of-tree LLVM passes for teaching and learning|2612|1|2023-11-19|
 |96|[pezy/LeetCode](https://github.com/pezy/LeetCode)|:pencil2: LeetCode solutions in C++ 11 and Python3|3424|1|2023-10-19|
-|97|[google/shaderc](https://github.com/google/shaderc)|A collection of tools, libraries, and tests for Vulkan shader compilation.|1696|1|2024-02-12|
+|97|[google/shaderc](https://github.com/google/shaderc)|A collection of tools, libraries, and tests for Vulkan shader compilation.|1695|1|2024-02-12|
 |98|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |142|1|2024-02-01|
 |99|[0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet)|Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.|1044|1|2024-02-14|
-|100|[GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan)|Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.|1078|1|2023-12-25|
+|100|[GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan)|Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.|1079|1|2023-12-25|
 |101|[AlibabaResearch/AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)|A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.|538|1|2024-01-25|
 |102|[FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation)|This repository includes all the interview preparation questions for Amazon SDE role|1000|1|2024-02-14|
-|103|[dvorka/mindforger](https://github.com/dvorka/mindforger)|Thinking notebook and Markdown editor.|2104|1|2024-02-15|
+|103|[dvorka/mindforger](https://github.com/dvorka/mindforger)|Thinking notebook and Markdown editor.|2105|1|2024-02-16|
 |104|[neoml-lib/neoml](https://github.com/neoml-lib/neoml)|Machine learning framework for both deep learning and traditional algorithms|754|1|2024-02-12|
 |105|[davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)|A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.|991|1|2024-02-04|
 |106|[jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)|It is a repository that is a collection of algorithms and data structures with implementation in various languages.|2214|1|2023-10-02|
 |107|[wqking/eventpp](https://github.com/wqking/eventpp)|Event Dispatcher and callback list for C++|1164|1|2024-02-02|
-|108|[SMRT-AIST/fast_gicp](https://github.com/SMRT-AIST/fast_gicp)|A collection of GICP-based fast point cloud registration algorithms|1042|1|2024-01-24|
-|109|[Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil)|Sigil is a multi-platform EPUB ebook editor|5512|1|2024-02-15|
+|108|[SMRT-AIST/fast_gicp](https://github.com/SMRT-AIST/fast_gicp)|A collection of GICP-based fast point cloud registration algorithms|1043|1|2024-01-24|
+|109|[Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil)|Sigil is a multi-platform EPUB ebook editor|5514|1|2024-02-15|
 |110|[codedecks-in/LeetCode-Solutions](https://github.com/codedecks-in/LeetCode-Solutions)|This repository consists of solutions to the problem from LeetCode platform. Subscribe to our Channel for more updates|785|1|2024-02-11|
-|111|[MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo)|Super Repository for Coding Interview Preperation|909|1|2024-02-15|
-|112|[azkadev/llama](https://github.com/azkadev/llama)|LLaMA (Language Learning for Machine Translation) adalah proyek riset yang diprakarsai oleh Facebook AI Research (FAIR) yang bertujuan untuk meningkatkan kualitas terjemahan mesin menggunakan pendekat ...|185|1|2024-01-17|
+|111|[MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo)|Super Repository for Coding Interview Preperation|909|1|2024-02-16|
+|112|[azkadev/llama](https://github.com/azkadev/llama)|LLaMA (Language Learning for Machine Translation) adalah proyek riset yang diprakarsai oleh Facebook AI Research (FAIR) yang bertujuan untuk meningkatkan kualitas terjemahan mesin menggunakan pendekat ...|190|1|2024-01-17|
 |113|[blurrypiano/littleVulkanEngine](https://github.com/blurrypiano/littleVulkanEngine)|Code repo for video tutorial series teaching Vulkan and computer graphics|741|1|2023-09-22|
-|114|[Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)|Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you|855|1|2023-11-12|
-|115|[Tencent/UnLua](https://github.com/Tencent/UnLua)|A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.|1973|1|2023-12-13|
+|114|[Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)|Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you|856|1|2023-11-12|
+|115|[Tencent/UnLua](https://github.com/Tencent/UnLua)|A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.|1974|1|2023-12-13|
 |116|[mutouyun/cpp-ipc](https://github.com/mutouyun/cpp-ipc)|C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows.|1525|1|2024-01-13|
 |117|[OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES)|NES Emulator, and Tutorial Video Code|1222|1|2024-01-09|
-|118|[lumapu/ahoy](https://github.com/lumapu/ahoy)|Various tools, examples, and documentation for communicating with Hoymiles microinverters|877|1|2024-02-13|
-|119|[stan-dev/stan](https://github.com/stan-dev/stan)|Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.  |2489|1|2024-02-14|
-|120|[facebook/fbthrift](https://github.com/facebook/fbthrift)|Facebook's branch of Apache Thrift, including a new C++ server.|2514|1|2024-02-15|
-|121|[mkckr0/audio-share](https://github.com/mkckr0/audio-share)|Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)|377|1|2024-02-15|
-|122|[sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir)|Machine learning compiler based on MLIR for Sophgo TPU.|409|1|2024-02-08|
+|118|[lumapu/ahoy](https://github.com/lumapu/ahoy)|Various tools, examples, and documentation for communicating with Hoymiles microinverters|877|1|2024-02-15|
+|119|[stan-dev/stan](https://github.com/stan-dev/stan)|Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.  |2490|1|2024-02-14|
+|120|[facebook/fbthrift](https://github.com/facebook/fbthrift)|Facebook's branch of Apache Thrift, including a new C++ server.|2514|1|2024-02-16|
+|121|[mkckr0/audio-share](https://github.com/mkckr0/audio-share)|Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)|380|1|2024-02-16|
+|122|[sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir)|Machine learning compiler based on MLIR for Sophgo TPU.|411|1|2024-02-08|
 |123|[liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言 ...|2676|1|2023-11-09|
 |124|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|1|2023-12-08|
 |125|[leducp/KickCAT](https://github.com/leducp/KickCAT)|A C++ open source EtherCAT master stack|38|0|2024-01-25|
 |126|[NVIDIA-ISAAC-ROS/isaac_ros_depth_segmentation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_depth_segmentation)|Hardware-accelerated, deep learned depth segmentation and obstacle field ranging using Bi3D|40|0|2023-11-17|
-|127|[NREL/OpenStudio](https://github.com/NREL/OpenStudio)|OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.|466|0|2024-02-15|
+|127|[NREL/OpenStudio](https://github.com/NREL/OpenStudio)|OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.|466|0|2024-02-16|
 |128|[TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer)|Vanilla Conquer provides clean, cross-platform builds of the C&C Remastered Collection and the standalone legacy games.|291|0|2023-12-23|
 |129|[seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d)|Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes |60|0|2023-12-19|
 |130|[wichtounet/cpp_utils](https://github.com/wichtounet/cpp_utils)|Collection of header-only utilities for C++|33|0|2023-12-04|
@@ -143,11 +143,11 @@
 |136|[stereolabs/zed-UE5](https://github.com/stereolabs/zed-UE5)|ZED plugin and examples for Unreal Engine 5 (Standard Engine)|50|0|2023-11-13|
 |137|[vicr123/QNearbyShare](https://github.com/vicr123/QNearbyShare)|Nearby Share implementation for Linux|55|0|2024-01-18|
 |138|[ckormanyos/real-time-cpp](https://github.com/ckormanyos/real-time-cpp)|Source code for the book Real-Time C++, by Christopher Kormanyos|522|0|2024-02-12|
-|139|[ros/ros_tutorials](https://github.com/ros/ros_tutorials)|Code used in tutorials found on ROS wiki|740|0|2024-01-24|
+|139|[ros/ros_tutorials](https://github.com/ros/ros_tutorials)|Code used in tutorials found on ROS wiki|741|0|2024-01-24|
 |140|[ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)|Header-Only C++ Library for Graph Representation and Algorithms|369|0|2024-02-12|
 |141|[RainerGrimm/Cpp20](https://github.com/RainerGrimm/Cpp20)|This is the code repository for my book "C++20 - Get the Details"|79|0|2023-11-16|
 |142|[openigtlink/OpenIGTLink](https://github.com/openigtlink/OpenIGTLink)|Free, open-source network communication library for image-guided therapy|93|0|2023-10-26|
-|143|[drken1215/algorithm](https://github.com/drken1215/algorithm)|Implementation of various algorithms|234|0|2024-02-10|
+|143|[drken1215/algorithm](https://github.com/drken1215/algorithm)|Implementation of various algorithms|235|0|2024-02-10|
 |144|[agrechnev/trt-cpp-min](https://github.com/agrechnev/trt-cpp-min)|TensorRT 7 C++ (almost) minimal examples|63|0|2023-11-11|
 |145|[gammasoft71/Examples_Qt](https://github.com/gammasoft71/Examples_Qt)|Shows how to use Qt widgets only by programming code (c++17).|68|0|2024-01-21|
 |146|[XiWJ/tricks](https://github.com/XiWJ/tricks)|tricks recording|37|0|2023-10-07|
@@ -155,7 +155,7 @@
 |148|[ros-industrial/industrial_calibration](https://github.com/ros-industrial/industrial_calibration)|Contains libraries/algorithms for calibration industrial systems|96|0|2023-11-16|
 |149|[limbo018/DREAMPlace](https://github.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|596|0|2024-02-03|
 |150|[mosra/magnum-examples](https://github.com/mosra/magnum-examples)|Examples for the Magnum C++11 graphics engine|259|0|2023-12-24|
-|151|[microsoft/DirectXTK12](https://github.com/microsoft/DirectXTK12)|The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++|1373|0|2024-02-12|
+|151|[microsoft/DirectXTK12](https://github.com/microsoft/DirectXTK12)|The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++|1374|0|2024-02-12|
 |152|[Thelalitagarwal/Leetcode_Daily_Challenge](https://github.com/Thelalitagarwal/Leetcode_Daily_Challenge)|Solution of daily challenge of leetcode|45|0|2023-11-29|
 |153|[4-20ma/ModbusMaster](https://github.com/4-20ma/ModbusMaster)|Enlighten your Arduino to be a Modbus master|561|0|2023-11-07|
 |154|[PhilInTheGaps/GM-Companion](https://github.com/PhilInTheGaps/GM-Companion)|A tool for tabletop rpg gamemasters|42|0|2023-12-20|
@@ -173,7 +173,7 @@
 |166|[rachelselinar/DREAMPlaceFPGA](https://github.com/rachelselinar/DREAMPlaceFPGA)|An Open-Source Analytical Placer for Large Scale Heterogeneous FPGAs using Deep-Learning Toolkit|56|0|2023-10-19|
 |167|[RoboCup-SSL/ssl-vision](https://github.com/RoboCup-SSL/ssl-vision)|Shared Vision System For The RoboCup Small Size League|83|0|2023-08-29|
 |168|[AnaviTechnology/anavi-examples](https://github.com/AnaviTechnology/anavi-examples)|Examples for getting started and testing ANAVI Internet of Things and add-on boards (HAT & pHAT) for Raspberry Pi|41|0|2023-12-17|
-|169|[RahulSurana123/competitive_coding](https://github.com/RahulSurana123/competitive_coding)|This repository defines my journey to the CP Journey this can help you also to learn solution to questions  of many good Company.|111|0|2024-02-15|
+|169|[RahulSurana123/competitive_coding](https://github.com/RahulSurana123/competitive_coding)|This repository defines my journey to the CP Journey this can help you also to learn solution to questions  of many good Company.|111|0|2024-02-16|
 |170|[Dammyololade/flutter_polyline_points](https://github.com/Dammyololade/flutter_polyline_points)|A flutter plugin that's decodes encoded google poly line string into list of geo-coordinates suitable for showing route/polyline on maps|95|0|2024-01-02|
 |171|[KhronosGroup/OpenXR-Tutorials](https://github.com/KhronosGroup/OpenXR-Tutorials)|OpenXR Tutorials [Work in progress, do not use to study OpenXR yet]|34|0|2024-01-17|
 |172|[chromium/mini_chromium](https://github.com/chromium/mini_chromium)|A small collection of useful low-level (“base”) routines from Chromium|234|0|2023-09-07|
