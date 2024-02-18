@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -28,7 +28,7 @@
 |21|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |35|2024-01-31|
 |22|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|35|2023-12-13|
 |23|[techiescamp/jenkins-shared-library](https://github.com/techiescamp/jenkins-shared-library)|A Jenkins shared library code examples with Jenkinfiles|30|2023-08-28|
-|24|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|2024-02-15|
+|24|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|2024-02-16|
 |25|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|28|2024-02-16|
 |26|[QAInsights/Learn-JMeter-Series](https://github.com/QAInsights/Learn-JMeter-Series)|⚡ Learn JMeter Series|25|2023-10-04|
 |27|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|23|2024-01-30|

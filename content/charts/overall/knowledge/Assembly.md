@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14869|2024-01-18|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9701|2024-02-10|
-|3|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|710|2024-01-31|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14871|2024-01-18|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9705|2024-02-17|
+|3|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|711|2024-01-31|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|524|2023-10-24|
 |5|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|428|2024-01-04|
-|6|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|389|2024-01-29|
-|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|240|2024-02-11|
-|8|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|186|2024-01-17|
+|6|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|392|2024-01-29|
+|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|243|2024-02-11|
+|8|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|187|2024-01-17|
 |9|[MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel)|539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on <https://539kernel.com ...|182|2023-11-14|
 |10|[TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)|All Algorithms implemented in AArch64 Assembly|127|2024-01-27|
 |11|[jsmolka/gba-tests](https://github.com/jsmolka/gba-tests)|A collection of Game Boy Advance tests.|89|2023-12-03|
-|12|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|83|2024-02-16|
+|12|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|83|2024-02-17|
 |13|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|67|2023-08-24|
 |14|[0xdea/xorpd-solutions](https://github.com/0xdea/xorpd-solutions)|[SPOILER ALERT] My attempt at tackling the x86_64 asm riddles in xorpd's xchg rax,rax book. Pull requests welcome.|62|2024-01-04|
 |15|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|61|2024-01-09|
@@ -24,12 +24,12 @@
 |17|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|58|2023-11-20|
 |18|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|57|2023-12-29|
 |19|[Martins3/Martins3.github.io](https://github.com/Martins3/Martins3.github.io)|:book: Scratchpad about Linux, Compiler and Virtualization|53|2024-01-29|
-|20|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|51|2024-01-21|
+|20|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|52|2024-01-21|
 |21|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|47|2023-12-14|
 |22|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|47|2024-01-27|
 |23|[arget13/memdlopen](https://github.com/arget13/memdlopen)|dlopen() filelessly a shared object or even a program (and run it).|41|2023-08-31|
 |24|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|39|2024-02-16|
-|25|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|36|2023-10-26|
+|25|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|36|2024-02-17|
 |26|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|35|2024-02-12|
 |27|[gitendo/helloworld](https://github.com/gitendo/helloworld)|Hello world and other commented GameBoy assembly examples for beginners.|33|2023-10-11|
 |28|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|30|2024-01-20|
@@ -52,8 +52,8 @@
 |45|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|15|2024-01-06|
 |46|[digitsensitive/c64](https://github.com/digitsensitive/c64)|Commodore 64 - Examples in 6502 Assembly language|14|2023-11-28|
 |47|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|13|2024-01-27|
-|48|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|12|2023-11-07|
-|49|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|12|2024-01-15|
+|48|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|13|2024-01-15|
+|49|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|12|2023-11-07|
 |50|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|11|2023-10-24|
 |51|[0xdea/Ao64A](https://github.com/0xdea/Ao64A)|NASM macOS translation of the source code listings distributed with the Art of 64-bit Assembly Language book.|11|2024-01-04|
 |52|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|10|2023-11-17|
