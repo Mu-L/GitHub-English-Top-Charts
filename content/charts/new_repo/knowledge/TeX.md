@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1398|2024-02-16|2023-08-10|
+|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1401|2024-02-16|2023-08-10|
 |2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|512|2024-01-04|2023-07-04|
 |3|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|174|2024-02-09|2023-09-06|
-|4|[royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide)|Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.|121|2024-02-14|2023-05-14|
-|5|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|120|2024-01-29|2024-01-02|
+|4|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|121|2024-01-29|2024-01-02|
+|5|[royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide)|Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.|121|2024-02-14|2023-05-14|
 |6|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|117|2024-02-09|2023-08-30|
 |7|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|77|2024-02-11|2023-03-02|
 |8|[AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)|A curated list of self-driving laboratories that combine hardware automation and artificial intelligence to accelerate scientific discovery.|76|2024-02-12|2023-03-15|
@@ -28,7 +28,7 @@
 |21|[pbloem/pca-book](https://github.com/pbloem/pca-book)|Source files for a book on Principal component analysis|16|2024-01-13|2023-07-01|
 |22|[zhangce01/Linear-Algebra-SUSTech](https://github.com/zhangce01/Linear-Algebra-SUSTech)|Related Materials for the Linear Algebra Course in Southern University of Science and Technology (SUSTech).|15|2023-09-21|2023-09-21|
 |23|[vijayko/csci-470](https://github.com/vijayko/csci-470)|This repo contains lectures notes, homework assignments, and slides for CSCI 470 Fundamentals of Algorithms Fall 2023.|15|2024-01-04|2023-09-05|
-|24|[yegor256/sqm](https://github.com/yegor256/sqm)|Lecture Notes for "Software Quality Metrics" course in HSE University, 2023-2024|15|2024-02-17|2023-08-21|
+|24|[yegor256/sqm](https://github.com/yegor256/sqm)|Lecture Notes for "Software Quality Metrics" course in HSE University, 2023-2024|15|2024-02-18|2023-08-21|
 |25|[SingularisArt/LaTeX](https://github.com/SingularisArt/LaTeX)|A collection of all my LaTeX documents, including my Uni Notes, Journal Template, Resume, Wikis, Book Notes|15|2024-01-10|2023-02-28|
 |26|[spamegg1/Epp-Discrete-Math-5th-solutions](https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions)|Solutions to Susanna Epp's Discrete Mathematics book, 5th Edition|14|2024-01-12|2023-04-19|
 |27|[pat-alt/julia-deeplearning-book](https://github.com/pat-alt/julia-deeplearning-book)|Repo that hosts the companion book of Julia for Deep Learning|13|2023-08-23|2023-08-01|
@@ -39,26 +39,26 @@
 |32|[ni-sha-c/CSE-6740-Fall23](https://github.com/ni-sha-c/CSE-6740-Fall23)|Course material for CSE 6740 -- Computational Data Analysis (Graduate-level introduction to machine learning)|11|2023-12-06|2023-07-30|
 |33|[sattlerc/hott-reading-course](https://github.com/sattlerc/hott-reading-course)|Introduction to homotopy type theory (reading course), LP2 2023, offered via DAT235/DIT577: Research-oriented course in Computer Science and Engineering|10|2024-01-13|2023-09-28|
 |34|[adamesalles/statistical-inference](https://github.com/adamesalles/statistical-inference)|Repository for sharing related contents and ta session notes during the Statistical Inference course at EMAp in 2023.|10|2023-10-25|2023-08-17|
-|35|[Lupasic/AGLA1_Inno_2023](https://github.com/Lupasic/AGLA1_Inno_2023)|The course of Analytical Geometry and Linear Algebra 1 for 1st year bachelor students in Innopolis University in 2023 year.|9|2023-12-05|2023-08-28|
-|36|[micheleberetta98/unibg-thesis-template](https://github.com/micheleberetta98/unibg-thesis-template)|A LaTeX starter project with UniBG thesis guidelines and first page|9|2024-02-16|2023-03-27|
-|37|[CategoryTheoryArchive/archive](https://github.com/CategoryTheoryArchive/archive)|A digital archive of category theory papers.|8|2024-02-14|2024-01-19|
+|35|[CategoryTheoryArchive/archive](https://github.com/CategoryTheoryArchive/archive)|A digital archive of category theory papers.|9|2024-02-14|2024-01-19|
+|36|[Lupasic/AGLA1_Inno_2023](https://github.com/Lupasic/AGLA1_Inno_2023)|The course of Analytical Geometry and Linear Algebra 1 for 1st year bachelor students in Innopolis University in 2023 year.|9|2023-12-05|2023-08-28|
+|37|[micheleberetta98/unibg-thesis-template](https://github.com/micheleberetta98/unibg-thesis-template)|A LaTeX starter project with UniBG thesis guidelines and first page|9|2024-02-16|2023-03-27|
 |38|[zsunberg/Aircraft-Dynamics-Materials](https://github.com/zsunberg/Aircraft-Dynamics-Materials)|Course materials for Aircraft Dynamics (ASEN 3728) at CU Boulder|8|2024-02-15|2023-12-29|
 |39|[MPI-EVA-Archaeogenetics/comp_human_adna_book](https://github.com/MPI-EVA-Archaeogenetics/comp_human_adna_book)|This book summarises prepared mini-courses for various computational tools and methods in the field of human archaeogenetic data analysis, with a particular emphasis on population genetics.|8|2024-02-14|2023-09-21|
 |40|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|8|2024-02-16|2023-06-30|
 |41|[datasciencecampus/coding-in-the-open](https://github.com/datasciencecampus/coding-in-the-open)|A compendium of open-source guidance which aims to share the benefits, risks and a summarised strategy for open-source coding.|8|2023-11-09|2023-04-27|
-|42|[stephane-caron/motion-planning](https://github.com/stephane-caron/motion-planning)|Course on motion planning|7|2023-10-11|2023-10-10|
-|43|[andreas-bauer/TikZ](https://github.com/andreas-bauer/TikZ)|Collection of my and others TikZ figures|7|2024-01-12|2023-08-25|
-|44|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |7|2023-11-27|2023-08-06|
-|45|[alexsnow348/learning-notes](https://github.com/alexsnow348/learning-notes)|All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language |7|2024-02-08|2023-07-31|
-|46|[yegor256/pmba](https://github.com/yegor256/pmba)|Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023|7|2024-02-17|2023-07-03|
-|47|[zuliani99/UniVe-CS-Master-Degree-AfterNotes](https://github.com/zuliani99/UniVe-CS-Master-Degree-AfterNotes)|Repository where I share all my notes regarding the CS Master Degree of Ca' Foscari University of Venice|7|2024-01-30|2023-06-02|
-|48|[abyanmajid/notes](https://github.com/abyanmajid/notes)|A collection of my study notes and cheatsheets|7|2024-01-12|2023-05-20|
-|49|[atticusrussell/RIT-CE-toolbox](https://github.com/atticusrussell/RIT-CE-toolbox)|A collection of tools created by RIT Computer Engineering students and alumni to make students' lives easier|7|2023-10-28|2023-02-20|
-|50|[LoicGrobol/maths-nlp](https://github.com/LoicGrobol/maths-nlp)|Contenus pour le cours « Mathématiques pour le TAL » du master Plurital |6|2024-02-16|2024-01-19|
-|51|[ryantibs/statlearn-s24](https://github.com/ryantibs/statlearn-s24)|Course materials for Advanced Topics in Statistical Learning, Spring 2024|6|2024-02-13|2024-01-12|
-|52|[motib/gentle-lean](https://github.com/motib/gentle-lean)|A gentle tutorial on Lean|6|2024-02-09|2023-12-30|
-|53|[natalies-teaching/Comp683_CompBio_2024](https://github.com/natalies-teaching/Comp683_CompBio_2024)|Course Page for Comp683, Spring 2024|6|2024-02-14|2023-12-18|
-|54|[jakobhviid/DataManagementBook](https://github.com/jakobhviid/DataManagementBook)|A book written for the Data Management Course running at the University of southern Denmark|6|2024-02-12|2023-12-13|
+|42|[jakobhviid/DataManagementBook](https://github.com/jakobhviid/DataManagementBook)|A book written for the Data Management Course running at the University of southern Denmark|7|2024-02-12|2023-12-13|
+|43|[stephane-caron/motion-planning](https://github.com/stephane-caron/motion-planning)|Course on motion planning|7|2023-10-11|2023-10-10|
+|44|[andreas-bauer/TikZ](https://github.com/andreas-bauer/TikZ)|Collection of my and others TikZ figures|7|2024-01-12|2023-08-25|
+|45|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |7|2023-11-27|2023-08-06|
+|46|[alexsnow348/learning-notes](https://github.com/alexsnow348/learning-notes)|All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language |7|2024-02-08|2023-07-31|
+|47|[yegor256/pmba](https://github.com/yegor256/pmba)|Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023|7|2024-02-17|2023-07-03|
+|48|[zuliani99/UniVe-CS-Master-Degree-AfterNotes](https://github.com/zuliani99/UniVe-CS-Master-Degree-AfterNotes)|Repository where I share all my notes regarding the CS Master Degree of Ca' Foscari University of Venice|7|2024-01-30|2023-06-02|
+|49|[abyanmajid/notes](https://github.com/abyanmajid/notes)|A collection of my study notes and cheatsheets|7|2024-01-12|2023-05-20|
+|50|[atticusrussell/RIT-CE-toolbox](https://github.com/atticusrussell/RIT-CE-toolbox)|A collection of tools created by RIT Computer Engineering students and alumni to make students' lives easier|7|2023-10-28|2023-02-20|
+|51|[LoicGrobol/maths-nlp](https://github.com/LoicGrobol/maths-nlp)|Contenus pour le cours « Mathématiques pour le TAL » du master Plurital |6|2024-02-16|2024-01-19|
+|52|[ryantibs/statlearn-s24](https://github.com/ryantibs/statlearn-s24)|Course materials for Advanced Topics in Statistical Learning, Spring 2024|6|2024-02-13|2024-01-12|
+|53|[motib/gentle-lean](https://github.com/motib/gentle-lean)|A gentle tutorial on Lean|6|2024-02-09|2023-12-30|
+|54|[natalies-teaching/Comp683_CompBio_2024](https://github.com/natalies-teaching/Comp683_CompBio_2024)|Course Page for Comp683, Spring 2024|6|2024-02-14|2023-12-18|
 |55|[xiamyphys/LiteTable](https://github.com/xiamyphys/LiteTable)|A LaTeX template provides a beautiful design of class schedule with colorful course blocks.|6|2024-02-02|2023-11-05|
 |56|[Eyotoye/Probability-Statistics-Stochastic_Processes](https://github.com/Eyotoye/Probability-Statistics-Stochastic_Processes)|Handouts for Prof. Tang's courses "Probability and Statistics" and "Probability and Stochastic Processes" at Tsinghua University, in simplified Chinese.|6|2024-01-15|2023-11-05|
 |57|[AmitXShukla/Mojo](https://github.com/AmitXShukla/Mojo)|The Mojo Programming Language book|6|2023-11-30|2023-10-16|
@@ -68,12 +68,12 @@
 |61|[timebertt/masters-thesis-controller-sharding](https://github.com/timebertt/masters-thesis-controller-sharding)|Horizontally Scalable Kubernetes Controllers (Master's Thesis)|6|2024-02-14|2023-08-03|
 |62|[yannmclatchie/preprint-template](https://github.com/yannmclatchie/preprint-template)|A collection of LaTeX preprint templates|6|2024-02-13|2023-07-25|
 |63|[aflaag-notes/algorithms](https://github.com/aflaag-notes/algorithms)|My Algorithms II notes.|6|2024-02-09|2023-02-28|
-|64|[kapelner/QC_MATH_342W_Spring_2024](https://github.com/kapelner/QC_MATH_342W_Spring_2024)|Course Homepage for Math 342W / 642 / RM 742 Fundamentals of Data Science at Queens College|5|2024-02-16|2024-01-15|
-|65|[wangheyu/DSA](https://github.com/wangheyu/DSA)|Data Structures and Algorithms|5|2024-01-17|2023-07-29|
-|66|[salma-emara/ece244-book](https://github.com/salma-emara/ece244-book)|This is a repository where I start writing a book for ECE 244|5|2023-12-15|2023-05-05|
-|67|[clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter)|A stream of the course "SCI 2715 – Science Research Initiative Undergraduate Research" at University of Utah.|5|2024-01-03|2023-02-27|
-|68|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|4|2024-02-17|2024-02-08|
-|69|[niclejeune/Algorithms-and-Data-Structures-2024](https://github.com/niclejeune/Algorithms-and-Data-Structures-2024)|Algorithms and Data Structures - Spring 2024|4|2024-02-05|2024-01-30|
+|64|[niclejeune/Algorithms-and-Data-Structures-2024](https://github.com/niclejeune/Algorithms-and-Data-Structures-2024)|Algorithms and Data Structures - Spring 2024|5|2024-02-05|2024-01-30|
+|65|[kapelner/QC_MATH_342W_Spring_2024](https://github.com/kapelner/QC_MATH_342W_Spring_2024)|Course Homepage for Math 342W / 642 / RM 742 Fundamentals of Data Science at Queens College|5|2024-02-16|2024-01-15|
+|66|[wangheyu/DSA](https://github.com/wangheyu/DSA)|Data Structures and Algorithms|5|2024-01-17|2023-07-29|
+|67|[salma-emara/ece244-book](https://github.com/salma-emara/ece244-book)|This is a repository where I start writing a book for ECE 244|5|2023-12-15|2023-05-05|
+|68|[clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter)|A stream of the course "SCI 2715 – Science Research Initiative Undergraduate Research" at University of Utah.|5|2024-01-03|2023-02-27|
+|69|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|4|2024-02-18|2024-02-08|
 |70|[metalbobinou/courses](https://github.com/metalbobinou/courses)|Computer Science courses (mainly in french)|4|2024-01-30|2024-01-29|
 |71|[r-isachenko/2024-DGM-AIMasters-course](https://github.com/r-isachenko/2024-DGM-AIMasters-course)|Deep Generative Models course, 2024|4|2024-02-11|2024-01-13|
 |72|[aml4td/exercises](https://github.com/aml4td/exercises)|Machine learning exercises with tabular data|4|2023-12-12|2023-11-23|

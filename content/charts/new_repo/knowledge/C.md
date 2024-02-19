@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|515|2023-11-23|2023-07-14|
 |2|[huntandhackett/process-cloning](https://github.com/huntandhackett/process-cloning)|The Definitive Guide To Process Cloning on Windows|269|2024-01-03|2023-04-11|
-|3|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|252|2024-02-12|2024-01-14|
-|4|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|225|2023-11-03|2023-10-06|
-|5|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|215|2023-12-28|2023-08-20|
+|3|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|253|2024-02-12|2024-01-14|
+|4|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|226|2023-11-03|2023-10-06|
+|5|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|216|2023-12-28|2023-08-20|
 |6|[RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies)|Step by step explanation/tutorial of llama2.c|189|2023-10-09|2023-07-29|
-|7|[dalathegreat/Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)|Software and guides for upgrading LEAFs to bigger and newer batteries|178|2023-12-12|2023-04-05|
+|7|[dalathegreat/Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)|Software and guides for upgrading LEAFs to bigger and newer batteries|180|2023-12-12|2023-04-05|
 |8|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|152|2023-12-14|2023-09-26|
 |9|[Mr-Un1k0d3r/Cookie-and-Handle-Stealer](https://github.com/Mr-Un1k0d3r/Cookie-and-Handle-Stealer)|C or BOF file to extract WebKit master key to decrypt user cookie|134|2024-02-16|2023-05-28|
-|10|[Kingtous/thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh)|hackintosh for thinkbook14p-Gen2-ACH (AMD Ryzen 7 5800h)|102|2024-02-10|2023-05-25|
-|11|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|99|2024-02-09|2024-01-14|
-|12|[icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)|Collection of UAC Bypass Techniques Weaponized as BOFs|93|2024-02-16|2024-02-16|
+|10|[icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)|Collection of UAC Bypass Techniques Weaponized as BOFs|132|2024-02-16|2024-02-16|
+|11|[Kingtous/thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh)|hackintosh for thinkbook14p-Gen2-ACH (AMD Ryzen 7 5800h)|102|2024-02-10|2023-05-25|
+|12|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|101|2024-02-18|2024-01-14|
 |13|[Nuno-Jesus/Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)|Clear the fog around Makefiles with this Makefile tutorial and enhance your knowledge with advanced tips and concepts.|90|2023-12-30|2023-06-01|
-|14|[toddmaustin/bringup-bench](https://github.com/toddmaustin/bringup-bench)|Bringup-Bench is a collection of standalone minimal library and system dependence benchmarks useful for bringing up newly designed CPUs, accelerators, compilers and operating systems. You probably don ...|84|2024-02-16|2023-04-11|
-|15|[HX-Titaniumc-wwt/3.7Inch-Eink](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink)|A small but versatile handheld ebook|82|2023-11-29|2023-06-22|
-|16|[erincatto/solver2d](https://github.com/erincatto/solver2d)|A project for testing rigid body solver algorithms|81|2024-02-15|2024-01-07|
+|14|[erincatto/solver2d](https://github.com/erincatto/solver2d)|A project for testing rigid body solver algorithms|85|2024-02-15|2024-01-07|
+|15|[HX-Titaniumc-wwt/3.7Inch-Eink](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink)|A small but versatile handheld ebook|84|2023-11-29|2023-06-22|
+|16|[toddmaustin/bringup-bench](https://github.com/toddmaustin/bringup-bench)|Bringup-Bench is a collection of standalone minimal library and system dependence benchmarks useful for bringing up newly designed CPUs, accelerators, compilers and operating systems. You probably don ...|84|2024-02-16|2023-04-11|
 |17|[HNUYueLuRM/basic_framework](https://github.com/HNUYueLuRM/basic_framework)|framework for developing RoboMaster Electric Control programmes|81|2023-10-27|2023-06-05|
 |18|[mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking)|A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.|80|2024-02-17|2023-10-06|
 |19|[paranoidninja/Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection)|This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared|77|2023-10-12|2023-10-12|

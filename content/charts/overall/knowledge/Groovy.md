@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|179|2023-12-16|
 |7|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|142|2024-02-14|
 |8|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|139|2023-12-26|
-|9|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|2024-01-16|
+|9|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|2024-02-18|
 |10|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|73|2024-01-29|
 |11|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|71|2023-12-05|
 |12|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|70|2023-11-17|
@@ -24,8 +24,8 @@
 |17|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare,  ...|43|2024-02-09|
 |18|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|42|2023-10-01|
 |19|[liejuntao001/jenkins-k8sagent-lib](https://github.com/liejuntao001/jenkins-k8sagent-lib)|Jenkins Shared Library to get dynamic agent from Kubernetes cloud|40|2023-09-28|
-|20|[boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins)|Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images|36|2023-12-04|
-|21|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |35|2024-01-31|
+|20|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |36|2024-01-31|
+|21|[boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins)|Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images|36|2023-12-04|
 |22|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|35|2023-12-13|
 |23|[techiescamp/jenkins-shared-library](https://github.com/techiescamp/jenkins-shared-library)|A Jenkins shared library code examples with Jenkinfiles|30|2023-08-28|
 |24|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|2024-02-16|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -20,12 +20,12 @@
 |13|[r57zone/Home-Library](https://github.com/r57zone/Home-Library)|Catalog for movies, tv shows, games and books / Каталог для фильмов, сериалов, игр и книг|13|2023-09-12|
 |14|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|2024-01-06|
 |15|[gladir/MonsterBook](https://github.com/gladir/MonsterBook)|MonsterBook (L'oeuvre inhumaine) écrit en Borland Pascal de 1991 à 2007|11|2024-02-11|
-|16|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|10|2024-01-30|
-|17|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|2023-09-09|
-|18|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|2023-11-21|
-|19|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|9|2023-11-17|
-|20|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|9|2023-09-08|
-|21|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|7|2024-02-17|
+|16|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|10|2024-02-17|
+|17|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|10|2024-01-30|
+|18|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|2023-09-09|
+|19|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|2023-11-21|
+|20|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|9|2023-11-17|
+|21|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|9|2023-09-08|
 |22|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|2023-09-03|
 |23|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|2024-01-23|
 |24|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|2023-10-16|

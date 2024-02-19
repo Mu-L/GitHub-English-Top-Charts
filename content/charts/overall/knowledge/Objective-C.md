@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|463|2023-08-25|
 |8|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|335|2024-01-30|
 |9|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|296|2023-08-23|
-|10|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|260|2024-01-20|
+|10|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|261|2024-01-20|
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|206|2024-02-05|
 |12|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|2024-02-08|
 |13|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|121|2024-02-16|
@@ -28,18 +28,18 @@
 |21|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|57|2024-02-05|
 |22|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|51|2024-02-06|
 |23|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2023-11-13|
-|24|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|37|2024-02-11|
+|24|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|36|2024-02-11|
 |25|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|2024-02-08|
 |26|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|28|2024-02-14|
 |27|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|2023-09-20|
 |28|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|2024-01-25|
-|29|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|21|2024-02-14|
+|29|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|22|2024-02-14|
 |30|[sptim/pdfbooklet](https://github.com/sptim/pdfbooklet)|OS X / macOS command line utility to reorder pages in a PDF file for booklet printing.|21|2023-09-05|
 |31|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|19|2024-01-01|
 |32|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|17|2024-02-17|
 |33|[ComPDFKit/compdfkit-pdf-sdk-ios-objective-c](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-objective-c)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS|13|2023-12-13|
 |34|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|13|2024-01-10|
-|35|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|11|2024-02-05|
+|35|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|11|2024-02-18|
 |36|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |11|2024-02-08|
 |37|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|10|2023-09-17|
 |38|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|2024-01-04|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -47,7 +47,7 @@
 |40|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|0|2024-01-16|
 |41|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|3|0|2024-02-09|
 |42|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|70|0|2023-11-17|
-|43|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |35|0|2024-01-31|
+|43|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |36|0|2024-01-31|
 |44|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|4|0|2024-02-16|
 |45|[elbuo8/platzi-scripts](https://github.com/elbuo8/platzi-scripts)|Collection of platzi scripts for classes|66|0|2023-08-26|
 |46|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|0|2023-12-14|
@@ -69,7 +69,7 @@
 |62|[trishagee/spock-testing-demo](https://github.com/trishagee/spock-testing-demo)|Simple project to show how to use Spock to test Java code|20|0|2023-10-23|
 |63|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2024-01-22|
 |64|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|0|2024-02-16|
-|65|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2024-01-16|
+|65|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2024-02-18|
 |66|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2023-12-05|
 |67|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|142|0|2024-02-14|
 |68|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |722|0|2024-02-02|

@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6459|2|2024-01-04|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6458|2|2024-01-04|
 |2|[tub-rip/SER_Lie_poses](https://github.com/tub-rip/SER_Lie_poses)|Some functions to work with Lie groups SO(3) and SE(3). State Estimation for Robotics|6|1|2024-02-09|
 |3|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |89|1|2023-12-04|
 |4|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |39|1|2024-01-21|
 |5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2345|1|2024-01-15|
 |6|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|1|2024-01-07|
-|7|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|171|1|2024-02-13|
+|7|[toshiakit/MatGPT](https://github.com/toshiakit/MatGPT)|MATLAB app to access ChatGPT API from OpenAI|172|1|2024-02-13|
 |8|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|514|1|2024-02-05|
 |9|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|1|2024-01-07|
 |10|[Jayasurya-Marasani/Movie-Recommendation-System-using-SVD](https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD)|This repository implements Movie Recommendation System using SVD|39|1|2024-01-07|
 |11|[Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model)|This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.|39|1|2024-01-07|
-|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1318|1|2023-12-24|
+|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1319|1|2023-12-24|
 |13|[Luisrosario2604/Variational-computing-image-processing](https://github.com/Luisrosario2604/Variational-computing-image-processing)|Denoising, Impaiting & Deconvolution with matlab|4|0|2023-09-12|
 |14|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|9|0|2023-12-12|
 |15|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|76|0|2023-12-15|
@@ -38,7 +38,7 @@
 |31|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|3|0|2024-01-04|
 |32|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|4|0|2023-12-26|
 |33|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |15|0|2023-12-22|
-|34|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1465|0|2023-10-23|
+|34|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1466|0|2023-10-23|
 |35|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
 |36|[mathworks/Simscape-Backhoe-Arm](https://github.com/mathworks/Simscape-Backhoe-Arm)|Backhoe model, including hydraulic actuators for arm and bucket tilt, and multibody dynamics.|4|0|2023-12-06|
 |37|[OrlandoYan/Satellite-communication-system-project](https://github.com/OrlandoYan/Satellite-communication-system-project)|-|12|0|2023-09-06|
@@ -157,7 +157,7 @@
 |150|[cmahulea/RobotMotionToolbox-RMTool-under-MATLAB](https://github.com/cmahulea/RobotMotionToolbox-RMTool-under-MATLAB)|Robot Motion Toolbox for MATLAB|6|0|2024-01-05|
 |151|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|13|0|2024-02-12|
 |152|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|79|0|2024-02-14|
-|153|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-02-17|
+|153|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-02-18|
 |154|[willyfh/uav-trajectory-planning](https://github.com/willyfh/uav-trajectory-planning)|The first unofficial implementation of a paper with the title of "UAV Trajectory Planning for Data Collection from Time-Constrained IoT Devices" (IEEE Transactions on Wireless Communications 2019)|29|0|2023-09-06|
 |155|[MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector](https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector)|A new method for accurate detection of movement intention from single channel EEG for online BCI|3|0|2023-10-11|
 |156|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|11|0|2024-02-01|

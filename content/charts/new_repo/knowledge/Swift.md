@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1858|2024-02-15|2023-06-14|
-|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|191|2024-01-18|2023-10-03|
+|2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|192|2024-01-18|2023-10-03|
 |3|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|158|2023-10-23|2023-10-04|
-|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|155|2024-01-14|2023-07-28|
-|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|145|2024-02-13|2023-07-12|
+|4|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|156|2024-01-14|2023-07-28|
+|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|146|2024-02-13|2023-07-12|
 |6|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|104|2024-02-16|2023-06-05|
 |7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|83|2024-02-15|2023-12-01|
 |8|[twostraws/iTour](https://github.com/twostraws/iTour)|Source code for my SwiftData introduction tutorial.|66|2023-09-30|2023-09-30|
@@ -39,17 +39,17 @@
 |32|[structureio/StructureKit](https://github.com/structureio/StructureKit)|A collection of helper tools for Structure SDK|9|2024-02-06|2023-04-13|
 |33|[psharanda/NativeBook](https://github.com/psharanda/NativeBook)|A toolkit for Implementing, maintaining, documenting and evolving a shared set of UI components inspired by Storybook.js|8|2024-02-10|2023-12-03|
 |34|[xqsadness/IOS17-SwiftUI](https://github.com/xqsadness/IOS17-SwiftUI)|This archive contains technical information about iOS 17 and things I've learned.|8|2024-01-18|2023-12-01|
-|35|[PadraigK/SpaceRocks](https://github.com/PadraigK/SpaceRocks)|SwiftGodot implementation of SpaceRocks tutorial|8|2023-10-09|2023-10-07|
-|36|[StanfordSpezi/SpeziOnboarding](https://github.com/StanfordSpezi/SpeziOnboarding)|Spezi Onboarding module to inform a user or retrieve consent for a study participation|8|2024-02-14|2023-04-05|
-|37|[trinhngocthuyen/orcam](https://github.com/trinhngocthuyen/orcam)|A Collection of Swift Macros|7|2023-11-29|2023-11-06|
-|38|[VB10/HackingSwiftLearn](https://github.com/VB10/HackingSwiftLearn)|HackingSwiftLearn|7|2023-10-05|2023-09-07|
-|39|[sparrowcode/SwiftUIExtension](https://github.com/sparrowcode/SwiftUIExtension)|Collection of SwiftUI extensions to boost development process.|7|2024-01-15|2023-08-31|
-|40|[elkraneo/A11Y-SC-NYC](https://github.com/elkraneo/A11Y-SC-NYC)|A workshop on how to implement visionOS accessibility features.|7|2023-10-03|2023-07-30|
-|41|[salihkertik/365-day-of-code-with-swift](https://github.com/salihkertik/365-day-of-code-with-swift)|It epitomizes my journey from the beginning to the end of my Swift learning story.|7|2023-12-06|2023-07-08|
-|42|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S and macOS clients that consumes shared KMM code as Swift Package|7|2023-12-15|2023-06-16|
-|43|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
-|44|[jacobsapps/metal](https://github.com/jacobsapps/metal)|It's simple, just learn C++|6|2023-11-15|2023-10-26|
-|45|[yihui-hu/arena-swiftui](https://github.com/yihui-hu/arena-swiftui)|experiment(s) in learning Swift and SwiftUI|6|2024-02-11|2023-10-14|
+|35|[yihui-hu/arena-swiftui](https://github.com/yihui-hu/arena-swiftui)|experiment(s) in learning Swift and SwiftUI|8|2024-02-11|2023-10-14|
+|36|[PadraigK/SpaceRocks](https://github.com/PadraigK/SpaceRocks)|SwiftGodot implementation of SpaceRocks tutorial|8|2023-10-09|2023-10-07|
+|37|[StanfordSpezi/SpeziOnboarding](https://github.com/StanfordSpezi/SpeziOnboarding)|Spezi Onboarding module to inform a user or retrieve consent for a study participation|8|2024-02-14|2023-04-05|
+|38|[trinhngocthuyen/orcam](https://github.com/trinhngocthuyen/orcam)|A Collection of Swift Macros|7|2023-11-29|2023-11-06|
+|39|[VB10/HackingSwiftLearn](https://github.com/VB10/HackingSwiftLearn)|HackingSwiftLearn|7|2023-10-05|2023-09-07|
+|40|[sparrowcode/SwiftUIExtension](https://github.com/sparrowcode/SwiftUIExtension)|Collection of SwiftUI extensions to boost development process.|7|2024-01-15|2023-08-31|
+|41|[elkraneo/A11Y-SC-NYC](https://github.com/elkraneo/A11Y-SC-NYC)|A workshop on how to implement visionOS accessibility features.|7|2023-10-03|2023-07-30|
+|42|[salihkertik/365-day-of-code-with-swift](https://github.com/salihkertik/365-day-of-code-with-swift)|It epitomizes my journey from the beginning to the end of my Swift learning story.|7|2023-12-06|2023-07-08|
+|43|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S and macOS clients that consumes shared KMM code as Swift Package|7|2023-12-15|2023-06-16|
+|44|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
+|45|[jacobsapps/metal](https://github.com/jacobsapps/metal)|It's simple, just learn C++|6|2023-11-15|2023-10-26|
 |46|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|6|2024-02-16|2023-09-11|
 |47|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-01-31|2023-06-30|
 |48|[lucasnsp/100DaysOfSwift](https://github.com/lucasnsp/100DaysOfSwift)|Repository for the course 100DaysOfSwift that teaches how to use UIkit|6|2023-09-08|2023-04-18|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -43,7 +43,7 @@
 |36|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
 |37|[DaveGut/HubithingsReplica](https://github.com/DaveGut/HubithingsReplica)|HubiThings Replica Drivers for Hubitat integration of SmartThings legacy devices (devices that do not have Hubitat Integrations).|3|2024-02-11|2023-04-14|
 |38|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
-|39|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-01-31|2023-03-01|
+|39|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-02-18|2023-03-01|
 |40|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
 |41|[genomic-medicine-sweden/gms_16S](https://github.com/genomic-medicine-sweden/gms_16S)|A  pipeline based on EMU, a taxonomic profiler optimized for long 16S rRNA reads.|3|2023-09-21|2023-02-22|
 |42|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
@@ -64,7 +64,7 @@
 |57|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|2|2024-01-26|2023-08-08|
 |58|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
 |59|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|60|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-02-13|2023-07-07|
+|60|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-02-18|2023-07-07|
 |61|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
 |62|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
 |63|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
