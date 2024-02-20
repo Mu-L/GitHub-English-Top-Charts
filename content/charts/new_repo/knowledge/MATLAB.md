@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|8|2024-01-14|2024-01-14|
 |5|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|2024-02-18|2023-10-05|
 |6|[jomorlier/VFEA](https://github.com/jomorlier/VFEA)|Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)|8|2023-10-13|2023-09-21|
-|7|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|7|2024-02-17|2023-10-13|
+|7|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|7|2024-02-19|2023-10-13|
 |8|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|2023-12-05|2023-05-08|
 |9|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|6|2023-11-30|2023-11-20|
 |10|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |6|2024-02-13|2023-10-09|
@@ -51,14 +51,15 @@
 |44|[patterd2/MATH4411_Adv_Math_Bio](https://github.com/patterd2/MATH4411_Adv_Math_Bio)|This repository is for code to run examples and generate the figures from the lectures notes from the module Advanced Mathematical Biology IV (MATH4411) at Durham University.|3|2023-12-08|2023-09-29|
 |45|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
 |46|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
-|47|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2023-09-26|2023-08-18|
-|48|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
-|49|[Sumitk874/Sem_5](https://github.com/Sumitk874/Sem_5)|A repository containing notes, resources, and projects for my fifth-semester courses, including Communication and Optical Instrumentation, Process Dynamics and Control, Modern Control Theory, and Robo ...|3|2023-09-08|2023-08-05|
-|50|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
-|51|[ComputationalRobotics/OptimalControlEstimation-Examples](https://github.com/ComputationalRobotics/OptimalControlEstimation-Examples)|Scripts for examples in the lectures notes for Optimal Control and Estimation|3|2023-11-14|2023-06-30|
-|52|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
-|53|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
-|54|[LinusNEP/RAAD-2023](https://github.com/LinusNEP/RAAD-2023)|This repository contains the source files for our RAAD 2023 conference paper titled "Understanding why SLAM algorithms fail in modern indoor environments."|3|2024-01-06|2023-03-13|
+|47|[Attinger-D/QuantifySpatter](https://github.com/Attinger-D/QuantifySpatter)|Tool that counts and measures stains automatically, for spatter patterns with up to thousands of stains. It then outputs statistics on their shapes, number, and positions. See README.md for use and in ...|3|2023-08-30|2023-08-24|
+|48|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2023-09-26|2023-08-18|
+|49|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
+|50|[Sumitk874/Sem_5](https://github.com/Sumitk874/Sem_5)|A repository containing notes, resources, and projects for my fifth-semester courses, including Communication and Optical Instrumentation, Process Dynamics and Control, Modern Control Theory, and Robo ...|3|2023-09-08|2023-08-05|
+|51|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |3|2023-09-22|2023-07-04|
+|52|[ComputationalRobotics/OptimalControlEstimation-Examples](https://github.com/ComputationalRobotics/OptimalControlEstimation-Examples)|Scripts for examples in the lectures notes for Optimal Control and Estimation|3|2023-11-14|2023-06-30|
+|53|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
+|54|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|2023-10-29|2023-04-04|
+|55|[LinusNEP/RAAD-2023](https://github.com/LinusNEP/RAAD-2023)|This repository contains the source files for our RAAD 2023 conference paper titled "Understanding why SLAM algorithms fail in modern indoor environments."|3|2024-01-06|2023-03-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
