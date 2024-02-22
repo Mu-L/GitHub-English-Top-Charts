@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,9 +11,9 @@
 |4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-01-11|2023-04-05|
 |5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-02-06|2023-08-30|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|11|2023-10-17|2023-05-31|
-|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-19|2023-04-25|
+|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-21|2023-04-25|
 |8|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~4 horas|8|2024-02-15|2024-01-02|
-|9|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-05|2023-04-20|
+|9|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-21|2023-04-20|
 |10|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2023-11-22|2023-11-09|
 |11|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
 |12|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|6|2023-09-20|2023-08-30|
@@ -25,11 +25,11 @@
 |18|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|5|2023-11-22|2023-07-18|
 |19|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|4|2023-11-02|2023-10-30|
 |20|[autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar)|Parses Gradle build scripts (Groovy and Kotlin DSL)|4|2023-10-13|2023-08-04|
-|21|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|4|2024-02-20|2023-05-22|
+|21|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|4|2024-02-21|2023-05-22|
 |22|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-02-15|2024-02-15|
 |23|[eryajf/share-library](https://github.com/eryajf/share-library)|-|3|2024-01-08|2024-01-08|
 |24|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
-|25|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|3|2024-02-20|2023-12-25|
+|25|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|3|2024-02-21|2023-12-25|
 |26|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|3|2023-12-25|2023-12-25|
 |27|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-01-22|2023-12-11|
 |28|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|3|2023-11-12|2023-11-08|
@@ -75,8 +75,7 @@
 |68|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
 |69|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
 |70|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
-|71|[wekeeroad/firstrep](https://github.com/wekeeroad/firstrep)|-|2|2023-08-22|2023-04-02|
-|72|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
+|71|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
