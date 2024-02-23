@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|56|2024-02-15|2023-04-10|
-|2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|42|2024-02-14|2024-01-19|
+|2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|43|2024-02-14|2024-01-19|
 |3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|30|2024-01-05|2023-07-27|
-|4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-01-11|2023-04-05|
+|4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-02-22|2023-04-05|
 |5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-02-06|2023-08-30|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|11|2023-10-17|2023-05-31|
-|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-21|2023-04-25|
+|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-22|2023-04-25|
 |8|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~4 horas|8|2024-02-15|2024-01-02|
-|9|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-21|2023-04-20|
+|9|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-22|2023-04-20|
 |10|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2023-11-22|2023-11-09|
 |11|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
 |12|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|6|2023-09-20|2023-08-30|
@@ -26,26 +26,26 @@
 |19|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|4|2023-11-02|2023-10-30|
 |20|[autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar)|Parses Gradle build scripts (Groovy and Kotlin DSL)|4|2023-10-13|2023-08-04|
 |21|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|4|2024-02-21|2023-05-22|
-|22|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-02-15|2024-02-15|
-|23|[eryajf/share-library](https://github.com/eryajf/share-library)|-|3|2024-01-08|2024-01-08|
-|24|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
-|25|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|3|2024-02-21|2023-12-25|
-|26|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|3|2023-12-25|2023-12-25|
-|27|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-01-22|2023-12-11|
-|28|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|3|2023-11-12|2023-11-08|
-|29|[moqui/moqui-sso](https://github.com/moqui/moqui-sso)|Moqui Component for SSO authentication (OAuth, OIDC, and SAML)|3|2023-10-18|2023-10-18|
-|30|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|3|2024-02-08|2023-09-24|
-|31|[JoaoGH/api2](https://github.com/JoaoGH/api2)|-|3|2023-09-01|2023-08-31|
-|32|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
-|33|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-27|2023-08-08|
-|34|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-02-07|2023-06-30|
-|35|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-01-08|2023-06-13|
-|36|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
-|37|[DaveGut/HubithingsReplica](https://github.com/DaveGut/HubithingsReplica)|HubiThings Replica Drivers for Hubitat integration of SmartThings legacy devices (devices that do not have Hubitat Integrations).|3|2024-02-11|2023-04-14|
-|38|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
-|39|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-02-18|2023-03-01|
-|40|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
-|41|[genomic-medicine-sweden/gms_16S](https://github.com/genomic-medicine-sweden/gms_16S)|A  pipeline based on EMU, a taxonomic profiler optimized for long 16S rRNA reads.|3|2023-09-21|2023-02-22|
+|22|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|-|3|2024-02-22|2024-02-21|
+|23|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-02-15|2024-02-15|
+|24|[eryajf/share-library](https://github.com/eryajf/share-library)|-|3|2024-01-08|2024-01-08|
+|25|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
+|26|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|3|2024-02-22|2023-12-25|
+|27|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|3|2023-12-25|2023-12-25|
+|28|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-01-22|2023-12-11|
+|29|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|3|2023-11-12|2023-11-08|
+|30|[moqui/moqui-sso](https://github.com/moqui/moqui-sso)|Moqui Component for SSO authentication (OAuth, OIDC, and SAML)|3|2023-10-18|2023-10-18|
+|31|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|3|2024-02-08|2023-09-24|
+|32|[JoaoGH/api2](https://github.com/JoaoGH/api2)|-|3|2023-09-01|2023-08-31|
+|33|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
+|34|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-27|2023-08-08|
+|35|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-02-07|2023-06-30|
+|36|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-01-08|2023-06-13|
+|37|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
+|38|[DaveGut/HubithingsReplica](https://github.com/DaveGut/HubithingsReplica)|HubiThings Replica Drivers for Hubitat integration of SmartThings legacy devices (devices that do not have Hubitat Integrations).|3|2024-02-11|2023-04-14|
+|39|[GaryMilne/Hubitat-TileBuilder](https://github.com/GaryMilne/Hubitat-TileBuilder)|-|3|2024-01-15|2023-03-25|
+|40|[Irgendwer01/gregtech-skyblock-edition](https://github.com/Irgendwer01/gregtech-skyblock-edition)|GregTech Skyblock Edition|3|2024-02-18|2023-03-01|
+|41|[BMX4605/Hubitat](https://github.com/BMX4605/Hubitat)|-|3|2023-10-17|2023-02-25|
 |42|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
 |43|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
 |44|[tselonis/workshift](https://github.com/tselonis/workshift)|Backend application for a workshift system.|2|2023-12-26|2023-12-26|

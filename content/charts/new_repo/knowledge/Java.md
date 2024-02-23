@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1608|2024-02-20|2023-08-07|
-|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|611|2024-02-11|2023-03-04|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1612|2024-02-20|2023-08-07|
+|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|615|2024-02-11|2023-03-04|
 |3|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|206|2023-08-31|2023-06-02|
-|4|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|157|2024-02-13|2023-07-10|
+|4|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|159|2024-02-13|2023-07-10|
 |5|[Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks)|JDBC Attack Tricks|133|2023-09-03|2023-09-02|
-|6|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|98|2024-02-06|2023-11-27|
+|6|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|99|2024-02-22|2023-11-27|
 |7|[yanaga/revisiting-design-patterns](https://github.com/yanaga/revisiting-design-patterns)|Revisiting some popular Design Patterns using Java 20+ features|76|2023-10-02|2023-03-16|
 |8|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|64|2024-01-12|2023-08-21|
 |9|[ballerina-platform/module-ballerinax-copybook](https://github.com/ballerina-platform/module-ballerinax-copybook)|This Ballerina module facilitates the conversion of copybook data to JSON and vice versa.|56|2024-01-10|2023-10-24|

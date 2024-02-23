@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|175|2024-01-07|2023-09-03|
+|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|177|2024-01-07|2023-09-03|
 |2|[ekholme/gcp_quarto_api](https://github.com/ekholme/gcp_quarto_api)|Step-by-step guide for deploying an API using Quarto, R, and plumber via Google Cloud|48|2023-11-13|2023-11-13|
 |3|[hypebright/async_shiny](https://github.com/hypebright/async_shiny)|examples to implement asynchronous programming in Shiny ✨ |39|2023-08-29|2023-03-19|
-|4|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|24|2024-02-02|2023-04-14|
+|4|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|24|2024-02-20|2023-04-14|
 |5|[vituri/awesome-julia](https://github.com/vituri/awesome-julia)|A curated list of Julia packages, resources, books and so on|21|2023-09-08|2023-08-30|
 |6|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|20|2024-02-20|2023-12-28|
 |7|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|18|2023-12-27|2023-12-24|
@@ -31,12 +31,12 @@
 |24|[nhs-r-community/r4ds-ed2-exercise-solutions](https://github.com/nhs-r-community/r4ds-ed2-exercise-solutions)|Exercise solutions to R for Data Science - second edition as part of the NHS-R Community book club|9|2023-09-09|2023-03-31|
 |25|[MargoSolo/DataMedLinkedIn](https://github.com/MargoSolo/DataMedLinkedIn)|This GitHub repository is a resource for those interested in biomedical data analysis and visualization with R. It features code snippets for data processing, statistical analysis, and interactive cha ...|9|2023-11-10|2023-02-27|
 |26|[pgvector/pgvector-r](https://github.com/pgvector/pgvector-r)|pgvector examples for R|8|2024-02-18|2023-03-03|
-|27|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|7|2024-02-19|2023-12-30|
+|27|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|7|2024-02-22|2023-12-30|
 |28|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|7|2023-11-25|2023-11-25|
 |29|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
 |30|[alexanderbrenning/ogh23_ml](https://github.com/alexanderbrenning/ogh23_ml)|OpenGeoHub 2023 Machine-learning Model Assessment and Interpretation|7|2023-08-31|2023-08-30|
-|31|[waqarhanif-biocode/single-cell-rna-seq](https://github.com/waqarhanif-biocode/single-cell-rna-seq)|Complete single-cell RNA-seq analysis guidelines in R|7|2023-08-23|2023-06-27|
-|32|[nhs-r-community/NHSR-way](https://github.com/nhs-r-community/NHSR-way)|This is the host repository for the NHS-R Community way book which essentially documents the community and its activities.|7|2024-02-01|2023-04-25|
+|31|[nhs-r-community/NHSR-way](https://github.com/nhs-r-community/NHSR-way)|This is the host repository for the NHS-R Community way book which essentially documents the community and its activities.|7|2024-02-01|2023-04-25|
+|32|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|6|2024-02-18|2024-02-18|
 |33|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|6|2024-01-21|2024-01-07|
 |34|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|6|2024-01-01|2023-11-11|
 |35|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
