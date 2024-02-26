@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|13|2|2024-02-17|
+|1|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|14|2|2024-02-17|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|61|0|2024-02-13|
 |3|[z505/SimpleIPC-lib](https://github.com/z505/SimpleIPC-lib)|Simple IPC (interprocess communication) for any program to communicate with another program in any language, with examples in GoLang and Freepascal|35|0|2024-02-19|
-|4|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|3|0|2024-02-24|
+|4|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|4|0|2024-02-24|
 |5|[gcarreno/TestThreading](https://github.com/gcarreno/TestThreading)|Example of how to use TThread and all of the threading tools available with Free Pascal|7|0|2023-09-03|
 |6|[gcarreno/TestLazarusLogging](https://github.com/gcarreno/TestLazarusLogging)|Repository to test and learn how to use the many logging choices in Lazarus|9|0|2023-09-08|
-|7|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|0|2024-02-24|
+|7|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|0|2024-02-25|
 |8|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|0|2024-01-06|
 |9|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|0|2024-02-23|
 |10|[normaluser/shooter-2D](https://github.com/normaluser/shooter-2D)|2D shooter - Pascal tutorial using SDL2|3|0|2023-08-30|
@@ -27,9 +27,9 @@
 |20|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|18|0|2024-02-22|
 |21|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|0|2023-10-07|
 |22|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|0|2024-01-24|
-|23|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|231|0|2024-02-24|
+|23|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|231|0|2024-02-25|
 |24|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|10|0|2024-01-30|
-|25|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|7|0|2023-10-16|
+|25|[PascalCorpsman/ntools](https://github.com/PascalCorpsman/ntools)|ntools is a toolchain to easy share files between computers that are part of at lest on same network (LAN)|8|0|2023-10-16|
 |26|[gcarreno/TestThreadPool](https://github.com/gcarreno/TestThreadPool)|Example of how to use the Class TThread with a pool manager|4|0|2023-09-10|
 |27|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2023-09-03|
 |28|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-01-06|
@@ -52,7 +52,7 @@
 |45|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|0|2024-02-22|
 |46|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-02-22|
 |47|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|9|0|2024-02-22|
-|48|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|6|0|2024-02-02|
+|48|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|7|0|2024-02-02|
 |49|[rmesch/Bitmaps2Video-for-Media-Foundation](https://github.com/rmesch/Bitmaps2Video-for-Media-Foundation)|Encode a series of bitmaps and video clips together with an audio file to video using the Windows Mediafoundation-API|5|0|2023-09-05|
 |50|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|56|0|2024-02-04|
 |51|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|0|2023-09-21|

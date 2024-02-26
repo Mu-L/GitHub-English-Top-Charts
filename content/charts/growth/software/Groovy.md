@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Groovy
-<sub>Updated: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15920|3|2024-02-24|
-|2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|6|2|2024-02-23|
-|3|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3008|2|2023-09-04|
-|4|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1684|1|2023-11-17|
-|5|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2485|1|2024-02-23|
-|6|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|45|1|2024-02-23|
-|7|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3498|1|2024-02-19|
-|8|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1511|1|2024-02-19|
-|9|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5245|1|2024-02-23|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15921|3|2024-02-25|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3008|2|2023-09-04|
+|3|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1684|1|2023-11-17|
+|4|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|7|1|2024-02-23|
+|5|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2487|1|2024-02-23|
+|6|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|46|1|2024-02-23|
+|7|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3499|1|2024-02-19|
+|8|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1512|1|2024-02-19|
+|9|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5246|1|2024-02-23|
 |10|[spidasoftware/schema](https://github.com/spidasoftware/schema)|Public API for SPIDA Products|9|0|2024-02-23|
 |11|[tfij/result](https://github.com/tfij/result)|Functional way to handle errors in java|3|0|2024-02-19|
 |12|[aim42/htmlSanityCheck](https://github.com/aim42/htmlSanityCheck)|Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like. |65|0|2024-02-07|
@@ -51,7 +51,7 @@
 |44|[HubitatCommunity/GetAttributeApp](https://github.com/HubitatCommunity/GetAttributeApp)|-|5|0|2023-12-23|
 |45|[T45K/Bitbucket-Server-Code-Insights-plugin](https://github.com/T45K/Bitbucket-Server-Code-Insights-plugin)|💡 Plugin aligning Jenkins and Bitbucket Server Code Insights API|5|0|2023-10-30|
 |46|[matrei/pingcrm-grails](https://github.com/matrei/pingcrm-grails)|Grails/Groovy version of the Inertia.js demo application Ping CRM|5|0|2024-02-21|
-|47|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|7|0|2024-02-23|
+|47|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|7|0|2024-02-25|
 |48|[wcm-io/io.wcm.maven.aem-cloud-dependencies](https://github.com/wcm-io/io.wcm.maven.aem-cloud-dependencies)|Maven dependencies for the AEM Cloud Service SDK|2|0|2024-01-25|
 |49|[devatherock/drone-yaml-validator](https://github.com/devatherock/drone-yaml-validator)|CI plugin to validate yaml files|6|0|2024-02-10|
 |50|[hmrc/jenkins-job-builders](https://github.com/hmrc/jenkins-job-builders)|Automated Jenkins job and view configuration, via the Jenkins Job DSL Plugin|32|0|2024-01-31|
@@ -70,7 +70,7 @@
 |63|[grails/grails-angularjs-scaffolding](https://github.com/grails/grails-angularjs-scaffolding)|A plugin for generating client side assets based on domain classes|5|0|2024-02-02|
 |64|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|17|0|2024-02-08|
 |65|[spring-attic/gradle-plugins](https://github.com/spring-attic/gradle-plugins)|Gradle plugins for use in building and publishing open-source Spring projects, e.g. Spring Framework, Spring Integration|139|0|2024-01-15|
-|66|[TabooLib/taboolib-gradle-plugin](https://github.com/TabooLib/taboolib-gradle-plugin)|-|6|0|2024-02-18|
+|66|[TabooLib/taboolib-gradle-plugin](https://github.com/TabooLib/taboolib-gradle-plugin)|-|6|0|2024-02-25|
 |67|[GPars/GPars](https://github.com/GPars/GPars)|The GPars concurrency and parallelism framework for the JVM|236|0|2023-12-16|
 |68|[gradle/test-retry-gradle-plugin](https://github.com/gradle/test-retry-gradle-plugin)|Gradle plugin to retry tests that have failed to mitigate test flakiness.|199|0|2024-02-23|
 |69|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|3|0|2024-02-11|
@@ -109,10 +109,10 @@
 |102|[ximtech/altium-migrator](https://github.com/ximtech/altium-migrator)|Spring boot application for automated Altium component migrations|2|0|2024-01-09|
 |103|[boxheed/gradle-gitignore-plugin](https://github.com/boxheed/gradle-gitignore-plugin)|Gradle plugin to create gitignore files.|4|0|2024-02-19|
 |104|[soramitsu/gradle-sora-plugin](https://github.com/soramitsu/gradle-sora-plugin)|-|4|0|2023-11-13|
-|105|[d10xa/holidays-calendar](https://github.com/d10xa/holidays-calendar)|Производственный календарь json|250|0|2023-09-28|
+|105|[d10xa/holidays-calendar](https://github.com/d10xa/holidays-calendar)|Производственный календарь json|251|0|2023-09-28|
 |106|[aint/octopus-autoconfiguration](https://github.com/aint/octopus-autoconfiguration)|Spring Boot autoconfiguration for Octopus - microservice architecture visualization tool.|7|0|2024-02-23|
 |107|[nebula-plugins/nebula-test](https://github.com/nebula-plugins/nebula-test)|Test harness for Gradle plugins|45|0|2024-02-23|
-|108|[sanger-tol/genomenote](https://github.com/sanger-tol/genomenote)|This Nextflow DSL2 pipeline takes aligned HiC reads, creates contact maps and a table of statistics.|17|0|2024-02-12|
+|108|[sanger-tol/genomenote](https://github.com/sanger-tol/genomenote)|This Nextflow DSL2 pipeline takes aligned HiC reads, creates contact maps and a table of statistics.|17|0|2024-02-25|
 |109|[tmastersmart/hubitat-code](https://github.com/tmastersmart/hubitat-code)|Hubitat drivers including v1 iris|4|0|2024-02-15|
 |110|[nebula-plugins/nebula-clojure-plugin](https://github.com/nebula-plugins/nebula-clojure-plugin)|Plugin providing Clojuresque with compatibility fixes for Gradle 2.12 and later|18|0|2024-02-02|
 |111|[jericks/geo-shell](https://github.com/jericks/geo-shell)|geo-shell is an interactive shell for geospatial analysis|8|0|2023-11-05|
@@ -153,7 +153,7 @@
 |146|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|51|0|2024-02-23|
 |147|[dbsystel/playground](https://github.com/dbsystel/playground)|Dies ist eine Lernumgebung ohne Code von direktem Wert. Sie dient dem Erstellen von Pull-Requests, um den Prozess und dem Umgang mit Open Source Contribution zu lernen.|2|0|2023-11-03|
 |148|[duvalhub/continuous-deployment-shared-library](https://github.com/duvalhub/continuous-deployment-shared-library)|-|2|0|2023-09-29|
-|149|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|6|0|2024-02-21|
+|149|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|6|0|2024-02-25|
 |150|[nextflow-io/nf-quilt](https://github.com/nextflow-io/nf-quilt)|Quilt plugin for Nextflow|4|0|2023-09-14|
 |151|[grails/grails-doc](https://github.com/grails/grails-doc)|Documentation Project For The Grails Web Application Framework|201|0|2024-02-02|
 |152|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|524|0|2024-02-04|
@@ -163,7 +163,7 @@
 |156|[nebula-plugins/gradle-netflixoss-project-plugin](https://github.com/nebula-plugins/gradle-netflixoss-project-plugin)|Gradle plugin to setup common needs for Netflix OSS projects|16|0|2024-02-02|
 |157|[h1alexbel/dothem](https://github.com/h1alexbel/dothem)|Personal Backlog of Tasks integrated with GitHub and Todoist|5|0|2023-10-19|
 |158|[ultraq/thymeleaf-expression-processor](https://github.com/ultraq/thymeleaf-expression-processor)|A simplified API for working with Thymeleaf expressions|2|0|2023-09-16|
-|159|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|23|0|2024-02-24|
+|159|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|23|0|2024-02-25|
 |160|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|466|0|2024-02-23|
 |161|[macmarrum/freeplane-scripting](https://github.com/macmarrum/freeplane-scripting)|-|4|0|2024-02-06|
 |162|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2024-01-29|
@@ -199,7 +199,7 @@
 |192|[reality/komenti](https://github.com/reality/komenti)|Semantic query and text mining tool|22|0|2023-10-31|
 |193|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|0|2024-01-29|
 |194|[tehlers/gradle-duplicate-classes-check](https://github.com/tehlers/gradle-duplicate-classes-check)|A Gradle plugin that checks whether different artifacts in a configuration provide the same classes|12|0|2023-11-19|
-|195|[ssadedin/bpipe](https://github.com/ssadedin/bpipe)|Bpipe - a tool for running and managing bioinformatics pipelines|222|0|2024-02-24|
+|195|[ssadedin/bpipe](https://github.com/ssadedin/bpipe)|Bpipe - a tool for running and managing bioinformatics pipelines|222|0|2024-02-25|
 |196|[Mellanox/ci-demo](https://github.com/Mellanox/ci-demo)|-|2|0|2023-11-28|
 |197|[guicamest/assetfilegenerator](https://github.com/guicamest/assetfilegenerator)|Asset File Generator Plugin for Android|62|0|2023-12-05|
 |198|[GroovyMC/GroovyModLoader](https://github.com/GroovyMC/GroovyModLoader)|Neo/Forge Groovy mod loader|2|0|2024-02-08|

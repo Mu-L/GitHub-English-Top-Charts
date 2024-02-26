@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1891|2024-02-01|
-|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1887|2024-02-19|
+|2|[bagder/everything-curl](https://github.com/bagder/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1888|2024-02-19|
 |3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1388|2023-09-04|
-|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|969|2024-02-20|
+|4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|970|2024-02-20|
 |5|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|708|2023-12-14|
 |6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|408|2024-01-18|
 |7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |307|2024-02-23|
-|8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|138|2024-02-24|
+|8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|138|2024-02-25|
 |9|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|131|2023-09-13|
 |10|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|120|2024-02-23|
 |11|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|106|2023-08-30|
 |12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-02-24|
 |13|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|71|2024-02-17|
-|14|[khorton/nas_fan_control](https://github.com/khorton/nas_fan_control)|collection of scripts to control fan speed on NAS boxes|68|2024-01-25|
+|14|[khorton/nas_fan_control](https://github.com/khorton/nas_fan_control)|collection of scripts to control fan speed on NAS boxes|69|2024-01-25|
 |15|[w0ng/dotfiles](https://github.com/w0ng/dotfiles)|Config files for OSX (master) and archlinux (archlinux)|67|2023-12-15|
 |16|[xen-tools/xen-tools](https://github.com/xen-tools/xen-tools)|xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.|52|2023-12-13|
 |17|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|48|2024-02-15|
@@ -42,12 +42,12 @@
 |35|[xukaili/CandiHap](https://github.com/xukaili/CandiHap)|A haplotype analysis toolkit for natural variation study.|21|2023-10-03|
 |36|[fm4dd/nagios4dd](https://github.com/fm4dd/nagios4dd)|Collection of scripts and plugins for the open source monitoring system Nagios.|21|2023-11-07|
 |37|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-27|
-|38|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-02-22|
+|38|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-02-24|
 |39|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|19|2023-12-06|
 |40|[molgenis/cluster-utils](https://github.com/molgenis/cluster-utils)|Collection of utilities / helper scripts to make life easier on our HPC clusters.|18|2024-01-25|
 |41|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|18|2024-01-08|
 |42|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|17|2023-12-03|
-|43|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-02-24|
+|43|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-02-25|
 |44|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2024-01-04|
 |45|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
 |46|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|14|2023-12-17|
@@ -63,9 +63,9 @@
 |56|[davorg/learncpan](https://github.com/davorg/learncpan)|A simple API that returns a list of good quality tutorials for CPAN modules.|10|2023-12-26|
 |57|[amalmohd44387749/cracking-password-facebook](https://github.com/amalmohd44387749/cracking-password-facebook)|script para hackear facebook por fuerza bruta!!!... necesita tener un diccionarios de datos y el correo de la victima|10|2024-02-08|
 |58|[jhthorsen/dotfiles](https://github.com/jhthorsen/dotfiles)|collection of scripts|10|2024-02-20|
-|59|[luiscarlosgph/how-to](https://github.com/luiscarlosgph/how-to)|List of how-to tutorials, mostly for Debian/Ubuntu/Linux related stuff.|9|2023-12-14|
-|60|[marcelothebuilder/koreShield](https://github.com/marcelothebuilder/koreShield)|The master of all Openkore plugins. |9|2024-01-05|
-|61|[olcf/hip-training-series](https://github.com/olcf/hip-training-series)|Repository with examples and exercises for OLCF and AMD's HIP training series|8|2023-10-16|
+|59|[olcf/hip-training-series](https://github.com/olcf/hip-training-series)|Repository with examples and exercises for OLCF and AMD's HIP training series|9|2023-10-16|
+|60|[luiscarlosgph/how-to](https://github.com/luiscarlosgph/how-to)|List of how-to tutorials, mostly for Debian/Ubuntu/Linux related stuff.|9|2023-12-14|
+|61|[marcelothebuilder/koreShield](https://github.com/marcelothebuilder/koreShield)|The master of all Openkore plugins. |9|2024-01-05|
 |62|[NCIP/ctat-genome-lib-builder](https://github.com/NCIP/ctat-genome-lib-builder)|Software used by Trinity CTAT for building CTAT Genome Libs, resource databases shared by Trinity CTAT components|8|2023-10-27|
 |63|[thejud/text-processing-cookbook](https://github.com/thejud/text-processing-cookbook)|A cookbook of tools and techniques for processing text and data at the linux command line|8|2023-10-28|
 |64|[peeterjoot/latex-notes-compilations](https://github.com/peeterjoot/latex-notes-compilations)|Master repository for Peeter's various latex notes compilations and/or books (transitioning from monolithic physicsplay repository).|8|2023-10-01|
@@ -81,7 +81,7 @@
 |74|[huangwenze/lncHOME_analysis](https://github.com/huangwenze/lncHOME_analysis)|lncHOME (lncRNA Homology Explorer), a computational pipeline that identifies a unique coPARSE-lncRNA class with conserved genomic locations and patterns of RNA binding protein (RBP) binding sites.|5|2023-11-02|
 |75|[kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template)|Template for 'mdbook' books with my preferences|5|2023-10-09|
 |76|[legumeinfo/pandagma](https://github.com/legumeinfo/pandagma)|Generate pan-gene sets, given a collection of genome assemblies and corresponding gene models.|5|2024-01-24|
-|77|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|5|2024-02-24|
+|77|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|5|2024-02-25|
 |78|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|5|2024-02-17|
 |79|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|5|2024-02-13|
 |80|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|2024-02-20|
@@ -118,9 +118,10 @@
 |111|[shahariar-shibli/Write-Bangla-or-Bengali-in-Latex](https://github.com/shahariar-shibli/Write-Bangla-or-Bengali-in-Latex)|How to write Bangla/Bengali in Latex/pdflatex|2|2023-09-12|
 |112|[PerlToolsTeam/psc](https://github.com/PerlToolsTeam/psc)|List of Perl Steering Committee meetings|2|2024-02-19|
 |113|[poti1/pod-lol](https://github.com/poti1/pod-lol)|Parse Pod into a list of lists (LOL)|2|2024-02-14|
-|114|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
-|115|[sgsax/sgbot](https://github.com/sgsax/sgbot)|Collection of scripts used by an irssi-based IRC bot|2|2024-02-08|
-|116|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
+|114|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2024-02-25|
+|115|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2023-10-11|
+|116|[sgsax/sgbot](https://github.com/sgsax/sgbot)|Collection of scripts used by an irssi-based IRC bot|2|2024-02-08|
+|117|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
