@@ -1,95 +1,95 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Perl
-<sub>Updated: 2024-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|17982|2024-02-24|
-|2|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|16979|2024-02-24|
-|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|16077|2024-02-21|
-|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|8502|2024-02-16|
+|1|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|18000|2024-02-24|
+|2|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|16981|2024-02-26|
+|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|16084|2024-02-21|
+|4|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|8503|2024-02-16|
 |5|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8297|2023-11-03|
-|6|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|7618|2024-02-20|
-|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4529|2024-02-11|
-|8|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|3330|2024-02-07|
-|9|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3100|2023-10-10|
-|10|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|3056|2023-11-28|
-|11|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|3035|2023-12-27|
-|12|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|2812|2024-02-11|
-|13|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|2690|2024-02-16|
+|6|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|7627|2024-02-20|
+|7|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4531|2024-02-11|
+|8|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|3331|2024-02-07|
+|9|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3101|2023-10-10|
+|10|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|3057|2023-11-28|
+|11|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|3034|2023-12-27|
+|12|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|2811|2024-02-11|
+|13|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|2693|2024-02-16|
 |14|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2669|2024-02-05|
-|15|[mojolicious/mojo](https://github.com/mojolicious/mojo)|:sparkles: Mojolicious - Perl real-time web framework|2636|2024-02-16|
+|15|[mojolicious/mojo](https://github.com/mojolicious/mojo)|:sparkles: Mojolicious - Perl real-time web framework|2635|2024-02-16|
 |16|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|2606|2024-02-19|
-|17|[jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner)|Simple script to analyse your PostgreSQL database configuration, and give tuning advice|2539|2024-01-08|
-|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|2475|2024-01-24|
+|17|[jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner)|Simple script to analyse your PostgreSQL database configuration, and give tuning advice|2540|2024-01-08|
+|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|2476|2024-01-24|
 |19|[Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)|Th3Inspector 🕵️ Best Tool For Information Gathering 🔎|2072|2023-10-08|
-|20|[get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer)|A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds|2009|2024-01-14|
-|21|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|1993|2024-02-25|
-|22|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|1847|2024-02-25|
-|23|[Perl/perl5](https://github.com/Perl/perl5)|🐪 The Perl programming language|1809|2024-02-25|
-|24|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1800|2024-01-28|
-|25|[Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker)|X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter|1479|2023-10-08|
+|20|[get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer)|A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds|2011|2024-01-14|
+|21|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|1994|2024-02-25|
+|22|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|1853|2024-02-26|
+|23|[Perl/perl5](https://github.com/Perl/perl5)|🐪 The Perl programming language|1811|2024-02-26|
+|24|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1801|2024-01-28|
+|25|[Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker)|X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter|1481|2023-10-08|
 |26|[hadley/ggplot2-book](https://github.com/hadley/ggplot2-book)|ggplot2: elegant graphics for data analysis|1476|2024-02-15|
-|27|[digint/btrbk](https://github.com/digint/btrbk)|Tool for creating snapshots and remote backups of btrfs subvolumes|1472|2023-12-03|
-|28|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1377|2024-02-21|
+|27|[digint/btrbk](https://github.com/digint/btrbk)|Tool for creating snapshots and remote backups of btrfs subvolumes|1474|2023-12-03|
+|28|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1379|2024-02-21|
 |29|[alx-tools/Betty](https://github.com/alx-tools/Betty)|Holberton-style C code checker written in Perl|1259|2023-12-01|
-|30|[p0pr0ck5/lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf)|High-performance WAF built on the OpenResty stack|1245|2024-01-31|
-|31|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1229|2024-02-12|
-|32|[inverse-inc/packetfence](https://github.com/inverse-inc/packetfence)|PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c ...|1209|2024-02-23|
-|33|[oetiker/SmokePing](https://github.com/oetiker/SmokePing)|The Active Monitoring System|1195|2024-02-02|
+|30|[p0pr0ck5/lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf)|High-performance WAF built on the OpenResty stack|1246|2024-01-31|
+|31|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1230|2024-02-12|
+|32|[inverse-inc/packetfence](https://github.com/inverse-inc/packetfence)|PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c ...|1209|2024-02-26|
+|33|[oetiker/SmokePing](https://github.com/oetiker/SmokePing)|The Active Monitoring System|1196|2024-02-02|
 |34|[sighook/pixload](https://github.com/sighook/pixload)|Image Payload Creating/Injecting tools|1132|2023-11-30|
 |35|[smxi/inxi](https://github.com/smxi/inxi)|inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. |1128|2024-01-12|
 |36|[trizen/youtube-viewer](https://github.com/trizen/youtube-viewer)|Lightweight YouTube client for Linux|1122|2024-02-02|
 |37|[mikaku/Monitorix](https://github.com/mikaku/Monitorix)|Monitorix is a free, open source, lightweight system monitoring tool.|1073|2024-02-23|
 |38|[munin-monitoring/contrib](https://github.com/munin-monitoring/contrib)|Contributed stuff for munin (plugins, tools, etc...)|1045|2024-02-09|
-|39|[mrash/fwknop](https://github.com/mrash/fwknop)|Single Packet Authorization > Port Knocking|1003|2024-02-07|
-|40|[NixOS/hydra](https://github.com/NixOS/hydra)|Hydra, the Nix-based continuous build system|1000|2024-02-23|
+|39|[NixOS/hydra](https://github.com/NixOS/hydra)|Hydra, the Nix-based continuous build system|1002|2024-02-26|
+|40|[mrash/fwknop](https://github.com/mrash/fwknop)|Single Packet Authorization > Port Knocking|1001|2024-02-07|
 |41|[convos-chat/convos](https://github.com/convos-chat/convos)| Convos :busts_in_silhouette: is the simplest way to use IRC in your browser|998|2024-01-31|
-|42|[Logitech/slimserver](https://github.com/Logitech/slimserver)|Server for Logitech Squeezebox players. This server is also called Logitech Media Server|990|2024-02-25|
+|42|[Logitech/slimserver](https://github.com/Logitech/slimserver)|Server for Logitech Squeezebox players. This server is also called Logitech Media Server|990|2024-02-26|
 |43|[winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware)|Repository for various Broadcom Bluetooth firmware|965|2024-02-15|
-|44|[darold/ora2pg](https://github.com/darold/ora2pg)|Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generate ...|941|2024-02-25|
-|45|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|938|2024-02-25|
-|46|[asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm)|Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.|919|2024-02-21|
-|47|[bestpractical/rt](https://github.com/bestpractical/rt)|Request Tracker, an enterprise-grade issue tracking system|832|2024-02-23|
-|48|[lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors)|lm-sensors repository|827|2024-02-11|
-|49|[lamw/vmware-scripts](https://github.com/lamw/vmware-scripts)|Various scripts for VMware based solutions|815|2024-02-06|
+|44|[darold/ora2pg](https://github.com/darold/ora2pg)|Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generate ...|942|2024-02-25|
+|45|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|938|2024-02-26|
+|46|[asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm)|Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.|921|2024-02-21|
+|47|[bestpractical/rt](https://github.com/bestpractical/rt)|Request Tracker, an enterprise-grade issue tracking system|832|2024-02-26|
+|48|[lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors)|lm-sensors repository|827|2024-02-26|
+|49|[lamw/vmware-scripts](https://github.com/lamw/vmware-scripts)|Various scripts for VMware based solutions|816|2024-02-06|
 |50|[linux-test-project/lcov](https://github.com/linux-test-project/lcov)|LCOV|807|2024-02-15|
-|51|[metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server)|Server for the MusicBrainz project (website, API, database tools)|806|2024-02-25|
-|52|[brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML)|LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.|788|2024-02-23|
+|51|[metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server)|Server for the MusicBrainz project (website, API, database tools)|806|2024-02-26|
+|52|[brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML)|LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.|790|2024-02-26|
 |53|[trinityrnaseq/trinityrnaseq](https://github.com/trinityrnaseq/trinityrnaseq)|Trinity RNA-Seq de novo transcriptome assembly|787|2024-01-18|
-|54|[jetmore/swaks](https://github.com/jetmore/swaks)|Swaks - Swiss Army Knife for SMTP|745|2024-02-10|
+|54|[jetmore/swaks](https://github.com/jetmore/swaks)|Swaks - Swiss Army Knife for SMTP|749|2024-02-10|
 |55|[miyagawa/cpanminus](https://github.com/miyagawa/cpanminus)|cpanminus - get, unpack, build and install modules from CPAN |737|2023-09-28|
 |56|[rapid7/IoTSeeker](https://github.com/rapid7/IoTSeeker)|Created by Jin Qian via the GitHub Connector|736|2023-10-10|
 |57|[gugod/App-perlbrew](https://github.com/gugod/App-perlbrew)|Manage perl installations in your $HOME|710|2023-12-17|
-|58|[dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts)|-|707|2023-11-28|
+|58|[dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts)|-|709|2023-11-28|
 |59|[RexOps/Rex](https://github.com/RexOps/Rex)|Rex, the friendly automation framework|702|2024-02-02|
-|60|[dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)|Tool to plot realtime and stored data from the commandline, using gnuplot.|692|2024-02-20|
+|60|[dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)|Tool to plot realtime and stored data from the commandline, using gnuplot.|691|2024-02-20|
 |61|[statico/dotfiles](https://github.com/statico/dotfiles)|:floppy_disk:  Ian's dotfiles, utils, and Zsh/Vim/tmux configs|686|2024-01-08|
-|62|[engintron/engintron](https://github.com/engintron/engintron)|Engintron for cPanel/WHM is the easiest way to integrate Nginx on your cPanel/WHM server. Engintron will improve the performance & web serving capacity of your server, while reducing CPU/RAM load at t ...|660|2023-11-16|
-|63|[beyondgrep/ack3](https://github.com/beyondgrep/ack3)|ack is a grep-like search tool optimized for source code.|659|2024-02-25|
-|64|[rjust/defects4j](https://github.com/rjust/defects4j)|A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research|640|2024-01-31|
+|62|[beyondgrep/ack3](https://github.com/beyondgrep/ack3)|ack is a grep-like search tool optimized for source code.|660|2024-02-25|
+|63|[engintron/engintron](https://github.com/engintron/engintron)|Engintron for cPanel/WHM is the easiest way to integrate Nginx on your cPanel/WHM server. Engintron will improve the performance & web serving capacity of your server, while reducing CPU/RAM load at t ...|660|2023-11-16|
+|64|[rjust/defects4j](https://github.com/rjust/defects4j)|A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research|641|2024-01-31|
 |65|[stipub/stixfonts](https://github.com/stipub/stixfonts)|OpenType Unicode fonts for Scientific, Technical, and Mathematical texts|629|2024-02-12|
 |66|[bugzilla/bugzilla](https://github.com/bugzilla/bugzilla)|Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:|620|2024-01-16|
 |67|[oetiker/znapzend](https://github.com/oetiker/znapzend)|zfs backup with remote capabilities and mbuffer integration.|591|2024-02-21|
 |68|[netdisco/netdisco](https://github.com/netdisco/netdisco)|A web-based network management tool.|583|2024-02-22|
-|69|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|576|2024-02-25|
-|70|[openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)|Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor|574|2024-02-25|
-|71|[cplusplus/papers](https://github.com/cplusplus/papers)|ISO/IEC JTC1 SC22 WG21 paper scheduling and management|570|2023-12-19|
-|72|[sbwml/halflife-list](https://github.com/sbwml/halflife-list)|ABP/ublock 广告过滤规则（每周一早上9点更新）|565|2024-02-19|
+|69|[o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)|-|579|2024-02-26|
+|70|[openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)|Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor|574|2024-02-26|
+|71|[cplusplus/papers](https://github.com/cplusplus/papers)|ISO/IEC JTC1 SC22 WG21 paper scheduling and management|571|2023-12-19|
+|72|[sbwml/halflife-list](https://github.com/sbwml/halflife-list)|ABP/ublock 广告过滤规则（每周一早上9点更新）|567|2024-02-26|
 |73|[samyk/samytools](https://github.com/samyk/samytools)|Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.|550|2024-01-16|
 |74|[bucardo/check_postgres](https://github.com/bucardo/check_postgres)|Nagios check_postgres plugin for checking status of PostgreSQL databases|545|2024-01-12|
 |75|[PerlDancer/Dancer2](https://github.com/PerlDancer/Dancer2)|Perl Dancer Next Generation (rewrite of Perl Dancer)|534|2024-01-20|
-|76|[docker-library/repo-info](https://github.com/docker-library/repo-info)|Extended information (especially license and layer details) about the published Official Images|517|2024-02-25|
-|77|[UPC/ravada](https://github.com/UPC/ravada)|Remote Virtual Desktops Manager|517|2024-02-19|
-|78|[zentyal/zentyal](https://github.com/zentyal/zentyal)|Linux Small Business Server|502|2024-02-25|
+|76|[docker-library/repo-info](https://github.com/docker-library/repo-info)|Extended information (especially license and layer details) about the published Official Images|517|2024-02-26|
+|77|[UPC/ravada](https://github.com/UPC/ravada)|Remote Virtual Desktops Manager|517|2024-02-26|
+|78|[zentyal/zentyal](https://github.com/zentyal/zentyal)|Linux Small Business Server|503|2024-02-26|
 |79|[openxpki/openxpki](https://github.com/openxpki/openxpki)|OpenXPKI Code|499|2024-02-06|
 |80|[trapd00r/ls--](https://github.com/trapd00r/ls--)|ls on steroids|499|2023-09-14|
 |81|[SkyLothar/lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt)|JWT For The Great Openresty|498|2024-01-03|
 |82|[irssi/scripts.irssi.org](https://github.com/irssi/scripts.irssi.org)|Script Repository for Irssi|491|2024-02-02|
-|83|[mysociety/fixmystreet](https://github.com/mysociety/fixmystreet)|This is mySociety's popular map-based reporting platform: easy to install in new countries and regions|490|2024-02-23|
+|83|[mysociety/fixmystreet](https://github.com/mysociety/fixmystreet)|This is mySociety's popular map-based reporting platform: easy to install in new countries and regions|490|2024-02-26|
 |84|[dalibo/sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql)|Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible|486|2023-10-10|
-|85|[shutter-project/shutter](https://github.com/shutter-project/shutter)|Screenshot tool for Linux|477|2024-02-08|
+|85|[shutter-project/shutter](https://github.com/shutter-project/shutter)|Screenshot tool for Linux|478|2024-02-08|
 |86|[modzero/mod0BurpUploadScanner](https://github.com/modzero/mod0BurpUploadScanner)|HTTP file upload scanner for Burp Proxy|477|2023-12-25|
 |87|[plack/Plack](https://github.com/plack/Plack)|PSGI toolkit and server adapters|477|2024-01-11|
 |88|[keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)|RegRipper3.0|462|2023-09-12|
@@ -103,9 +103,9 @@
 |96|[proger/eflame](https://github.com/proger/eflame)|Flame Graph profiler for Erlang|415|2023-12-13|
 |97|[percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor)|Query Performance Monitoring Tool for PostgreSQL|411|2024-02-07|
 |98|[metacpan/metacpan-web](https://github.com/metacpan/metacpan-web)|Web interface for MetaCPAN|410|2024-02-25|
-|99|[apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror)|Official apt-mirror source.|407|2024-02-08|
+|99|[apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror)|Official apt-mirror source.|406|2024-02-08|
 |100|[liske/needrestart](https://github.com/liske/needrestart)|Restart daemons after library updates.|402|2024-02-25|
-|101|[movabletype/movabletype](https://github.com/movabletype/movabletype)|Movable Type|399|2024-02-22|
+|101|[movabletype/movabletype](https://github.com/movabletype/movabletype)|Movable Type|399|2024-02-26|
 |102|[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)|-|398|2023-10-25|
 |103|[wofr06/lesspipe](https://github.com/wofr06/lesspipe)|lesspipe - display more with less|398|2024-02-22|
 |104|[ZoneMinder/zmeventnotification](https://github.com/ZoneMinder/zmeventnotification)|Machine Learning powered Secure Websocket & MQTT based ZoneMinder event notification server |395|2023-11-12|
@@ -113,10 +113,10 @@
 |106|[ocpi/ocpi](https://github.com/ocpi/ocpi)|The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point informati ...|388|2024-02-09|
 |107|[NBISweden/AGAT](https://github.com/NBISweden/AGAT)|Another Gtf/Gff Analysis Toolkit|386|2024-02-23|
 |108|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|385|2024-02-09|
-|109|[ledgersmb/LedgerSMB](https://github.com/ledgersmb/LedgerSMB)|Double-entry accounting & ERP for the web|366|2024-02-25|
+|109|[ledgersmb/LedgerSMB](https://github.com/ledgersmb/LedgerSMB)|Double-entry accounting & ERP for the web|366|2024-02-26|
 |110|[lvc/japi-compliance-checker](https://github.com/lvc/japi-compliance-checker)|A tool for checking backward API/ABI compatibility of a Java library|358|2024-01-22|
 |111|[atomia/atomiadns](https://github.com/atomia/atomiadns)|Atomia DNS|357|2024-02-24|
-|112|[OpenCageData/address-formatting](https://github.com/OpenCageData/address-formatting)|templates to format geographic addresses|355|2024-02-19|
+|112|[OpenCageData/address-formatting](https://github.com/OpenCageData/address-formatting)|templates to format geographic addresses|356|2024-02-19|
 |113|[OWASP/O-Saft](https://github.com/OWASP/O-Saft)|O-Saft  - OWASP SSL advanced forensic tool|355|2024-02-19|
 |114|[mskcc/vcf2maf](https://github.com/mskcc/vcf2maf)|Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms|347|2024-01-03|
 |115|[eldy/AWStats](https://github.com/eldy/AWStats)|AWStats Log Analyzer project (official sources)|344|2024-02-22|
@@ -132,24 +132,24 @@
 |125|[darold/pgcluu](https://github.com/darold/pgcluu)|PostgreSQL Cluster performances monitoring and auditing tool|313|2024-01-22|
 |126|[dave-theunsub/clamtk](https://github.com/dave-theunsub/clamtk)|An easy to use, light-weight, on-demand virus scanner for Linux systems|312|2024-01-27|
 |127|[Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)|BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes|303|2024-02-17|
-|128|[os-autoinst/openQA](https://github.com/os-autoinst/openQA)|openQA web-frontend, scheduler and tools.|303|2024-02-22|
+|128|[os-autoinst/openQA](https://github.com/os-autoinst/openQA)|openQA web-frontend, scheduler and tools.|303|2024-02-26|
 |129|[oushujun/EDTA](https://github.com/oushujun/EDTA)|Extensive de-novo TE Annotator |298|2024-02-19|
 |130|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|298|2024-01-11|
-|131|[bioperl/bioperl-live](https://github.com/bioperl/bioperl-live)|Core BioPerl 1.x code|287|2024-02-21|
+|131|[bioperl/bioperl-live](https://github.com/bioperl/bioperl-live)|Core BioPerl 1.x code|288|2024-02-21|
 |132|[dataegret/pgcompacttable](https://github.com/dataegret/pgcompacttable)|-|286|2023-10-15|
 |133|[miyagawa/Starman](https://github.com/miyagawa/Starman)|Starman is a high-performance preforking Perl PSGI web server|285|2024-02-11|
 |134|[znuny/Znuny](https://github.com/znuny/Znuny)|Znuny/Znuny LTS is a fork of the ((OTRS)) Community Edition, one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. |282|2024-02-22|
 |135|[metacpan/metacpan-api](https://github.com/metacpan/metacpan-api)|A free, open API for everything you want to know about CPAN|281|2024-02-25|
 |136|[holygeek/git-number](https://github.com/holygeek/git-number)|Use numbers for dealing with files in git|275|2023-10-18|
-|137|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|271|2024-02-25|
+|137|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|271|2024-02-26|
 |138|[tangledhelix/dotfiles](https://github.com/tangledhelix/dotfiles)|My dotfiles|268|2024-01-19|
 |139|[jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan)|Perl script for waking up computers via Wake-On-LAN magic packets|266|2024-01-11|
-|140|[ChordPro/chordpro](https://github.com/ChordPro/chordpro)|Reference implementation of the ChordPro standard for musical lead sheets.|264|2024-02-24|
+|140|[ChordPro/chordpro](https://github.com/ChordPro/chordpro)|Reference implementation of the ChordPro standard for musical lead sheets.|264|2024-02-26|
 |141|[perl-catalyst/catalyst-runtime](https://github.com/perl-catalyst/catalyst-runtime)|The Elegant MVC Web Application Framework|264|2024-02-12|
 |142|[openresty/openresty-devel-utils](https://github.com/openresty/openresty-devel-utils)|Utilities for nginx module development|263|2023-10-23|
 |143|[mla/pg_sample](https://github.com/mla/pg_sample)|PostgreSQL utility for creating a small, sample database from a larger one|261|2024-02-17|
 |144|[openresty/resty-cli](https://github.com/openresty/resty-cli)|Fancy command-line utilities for OpenResty|260|2023-10-25|
-|145|[erlang/eep](https://github.com/erlang/eep)|Erlang Enhancement Proposals|258|2024-02-22|
+|145|[erlang/eep](https://github.com/erlang/eep)|Erlang Enhancement Proposals|258|2024-02-26|
 |146|[liuhuigmail/GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository)|A bug repository that keeps growing|256|2023-10-04|
 |147|[latex2html/latex2html](https://github.com/latex2html/latex2html)|Converts LaTeX documents to HTML|249|2024-01-01|
 |148|[Gator96100/ProxSpace](https://github.com/Gator96100/ProxSpace)|Proxmark III develoment environment for Windows|247|2024-01-15|
@@ -162,22 +162,22 @@
 |155|[newsnowlabs/dockside](https://github.com/newsnowlabs/dockside)|Dockside is a tool for provisioning lightweight access-controlled IDEs, staging environments and sandboxes - aka 'devtainers' - on local machine, on-premises raw metal or VM, or in the cloud|237|2024-01-21|
 |156|[hollie/misterhouse](https://github.com/hollie/misterhouse)|Perl open source home automation program. It's fun, it's free, and it's entirely geeky.|236|2024-02-17|
 |157|[fink/fink](https://github.com/fink/fink)|The fink package manager|230|2024-02-23|
-|158|[sympa-community/sympa](https://github.com/sympa-community/sympa)|Sympa, Mailing List Management Software|223|2024-02-24|
-|159|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|222|2023-08-31|
-|160|[pmqs/Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip)|Fix OneDrive Zip files >4Gig|221|2023-09-03|
-|161|[RotherOSS/otobo](https://github.com/RotherOSS/otobo)|OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. https://www.otobo.de/|221|2024-02-25|
+|158|[pmqs/Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip)|Fix OneDrive Zip files >4Gig|223|2023-09-03|
+|159|[sympa-community/sympa](https://github.com/sympa-community/sympa)|Sympa, Mailing List Management Software|223|2024-02-24|
+|160|[oetiker/mrtg](https://github.com/oetiker/mrtg)|MRTG - Multi Router Traffic Grapher|222|2023-08-31|
+|161|[RotherOSS/otobo](https://github.com/RotherOSS/otobo)|OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. https://www.otobo.de/|221|2024-02-26|
 |162|[STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion)|STAR-Fusion codebase|221|2024-01-22|
 |163|[mojolicious/minion](https://github.com/mojolicious/minion)|:octopus: Perl high performance job queue|221|2023-11-28|
 |164|[nebulous/infinitude](https://github.com/nebulous/infinitude)|Open control of Carrier/Bryant thermostats|218|2023-12-07|
 |165|[richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer)|Language Server for Perl|215|2024-02-14|
-|166|[abh/ntppool](https://github.com/abh/ntppool)|NTP Pool Project|212|2024-01-14|
+|166|[abh/ntppool](https://github.com/abh/ntppool)|NTP Pool Project|212|2024-02-26|
 |167|[carnager/clerk](https://github.com/carnager/clerk)|clerk - mpd client, based on rofi/fzf|211|2024-02-20|
 |168|[sbosio/rla-es](https://github.com/sbosio/rla-es)|Recursos lingüísticos abiertos del español|207|2023-12-17|
-|169|[briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|203|2024-02-23|
+|169|[briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|203|2024-02-26|
 |170|[zaf/asterisk-googletts](https://github.com/zaf/asterisk-googletts)|Asterisk AGI script that uses Google's translate text to speech service.|202|2024-02-17|
-|171|[ldidry/lstu](https://github.com/ldidry/lstu)|Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu|201|2023-12-17|
-|172|[brandon-rhodes/homedir](https://github.com/brandon-rhodes/homedir)|My home directory dotfiles and customizations|201|2024-02-19|
-|173|[rmhubley/RepeatMasker](https://github.com/rmhubley/RepeatMasker)|RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences.|200|2023-12-05|
+|171|[rmhubley/RepeatMasker](https://github.com/rmhubley/RepeatMasker)|RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences.|201|2023-12-05|
+|172|[ldidry/lstu](https://github.com/ldidry/lstu)|Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu|201|2023-12-17|
+|173|[brandon-rhodes/homedir](https://github.com/brandon-rhodes/homedir)|My home directory dotfiles and customizations|201|2024-02-19|
 |174|[lvc/pkgdiff](https://github.com/lvc/pkgdiff)|A tool for visualizing changes in Linux software packages|199|2023-12-14|
 |175|[cmdcolin/oddgenes](https://github.com/cmdcolin/oddgenes)|A small database of weird gene annotations|197|2024-02-19|
 |176|[tseemann/barrnap](https://github.com/tseemann/barrnap)|:microscope: :leo: Bacterial ribosomal RNA predictor|197|2023-09-16|
@@ -192,17 +192,17 @@
 |185|[rjbs/Dist-Zilla](https://github.com/rjbs/Dist-Zilla)|scary tools for building CPAN distributions|183|2024-02-06|
 |186|[thawn/ttmp32gme](https://github.com/thawn/ttmp32gme)|a tool to create tiptoi gme files from mp3 files. Also creates a printable sheet to play the music.|181|2023-10-22|
 |187|[glpi-project/glpi-agent](https://github.com/glpi-project/glpi-agent)|GLPI Agent|176|2024-02-15|
-|188|[koknat/callGraph](https://github.com/koknat/callGraph)|A multi-language tool which parses source code for function definitions and calls|173|2024-01-04|
+|188|[koknat/callGraph](https://github.com/koknat/callGraph)|A multi-language tool which parses source code for function definitions and calls|174|2024-01-04|
 |189|[Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic)|The leading static analyzer for Perl.  Configurable, extensible, powerful.|173|2024-02-25|
 |190|[OPMDG/check_pgactivity](https://github.com/OPMDG/check_pgactivity)|Nagios remote agent|172|2024-01-11|
 |191|[MailScanner/v5](https://github.com/MailScanner/v5)|MailScanner v5|171|2024-02-18|
 |192|[LibreCat/Catmandu](https://github.com/LibreCat/Catmandu)|Catmandu - a data processing toolkit |171|2023-11-06|
-|193|[trizen/obmenu-generator](https://github.com/trizen/obmenu-generator)|A fast menu generator for the Openbox Window Manager.|169|2023-08-31|
-|194|[dreamwidth/dreamwidth](https://github.com/dreamwidth/dreamwidth)|Dreamwidth's open source repository|169|2024-02-19|
-|195|[mvz/email-outlook-message-perl](https://github.com/mvz/email-outlook-message-perl)|Email::Outlook::Message Perl module for reading Outlook .msg files|169|2024-02-02|
-|196|[oushujun/LTR_retriever](https://github.com/oushujun/LTR_retriever)|LTR_retriever is a highly accurate and sensitive program for identification of LTR retrotransposons; The LTR Assembly Index (LAI) is also included in this package.|168|2024-01-08|
-|197|[Dfam-consortium/RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler)|De-Novo Repeat Discovery Tool|168|2023-10-04|
-|198|[LudovicRousseau/pcsc-tools](https://github.com/LudovicRousseau/pcsc-tools)|Some tools to be used with smart cards and PC/SC|168|2024-02-23|
+|193|[Dfam-consortium/RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler)|De-Novo Repeat Discovery Tool|170|2023-10-04|
+|194|[LudovicRousseau/pcsc-tools](https://github.com/LudovicRousseau/pcsc-tools)|Some tools to be used with smart cards and PC/SC|169|2024-02-23|
+|195|[trizen/obmenu-generator](https://github.com/trizen/obmenu-generator)|A fast menu generator for the Openbox Window Manager.|169|2023-08-31|
+|196|[dreamwidth/dreamwidth](https://github.com/dreamwidth/dreamwidth)|Dreamwidth's open source repository|169|2024-02-19|
+|197|[mvz/email-outlook-message-perl](https://github.com/mvz/email-outlook-message-perl)|Email::Outlook::Message Perl module for reading Outlook .msg files|169|2024-02-02|
+|198|[oushujun/LTR_retriever](https://github.com/oushujun/LTR_retriever)|LTR_retriever is a highly accurate and sensitive program for identification of LTR retrotransposons; The LTR Assembly Index (LAI) is also included in this package.|168|2024-01-08|
 |199|[pplu/aws-sdk-perl](https://github.com/pplu/aws-sdk-perl)|A community AWS SDK for Perl Programmers|168|2024-01-20|
 |200|[Git-Mediawiki/Git-Mediawiki](https://github.com/Git-Mediawiki/Git-Mediawiki)|Gate between Git and Mediawiki|166|2023-11-04|
 
