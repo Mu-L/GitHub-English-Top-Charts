@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -35,13 +35,13 @@
 |28|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|2024-02-25|
 |29|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|7|2024-02-02|
 |30|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|2023-10-07|
-|31|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-02-26|
+|31|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-02-27|
 |32|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|2024-01-24|
 |33|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|2024-01-14|
 |34|[rmesch/Bitmaps2Video-for-Media-Foundation](https://github.com/rmesch/Bitmaps2Video-for-Media-Foundation)|Encode a series of bitmaps and video clips together with an audio file to video using the Windows Mediafoundation-API|5|2023-09-05|
 |35|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|2023-11-04|
 |36|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|2023-10-27|
-|37|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|4|2024-02-24|
+|37|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|4|2024-02-27|
 |38|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|2024-01-05|
 |39|[gcarreno/TestThreadPool](https://github.com/gcarreno/TestThreadPool)|Example of how to use the Class TThread with a pool manager|4|2023-09-10|
 |40|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-01-06|
