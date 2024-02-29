@@ -1,209 +1,209 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > C++
-<sub>Updated: 2024-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|An Open Source Machine Learning Framework for Everyone|181012|2024-02-27|
-|2|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|110747|2024-02-27|
-|3|[microsoft/terminal](https://github.com/microsoft/terminal)|The new Windows Terminal and the original Windows console host, all in the same place!|92883|2024-02-27|
-|4|[godotengine/godot](https://github.com/godotengine/godot)|Godot Engine – Multi-platform 2D and 3D game engine|81132|2024-02-27|
-|5|[pytorch/pytorch](https://github.com/pytorch/pytorch)|Tensors and Dynamic neural networks in Python with strong GPU acceleration|75942|2024-02-27|
-|6|[opencv/opencv](https://github.com/opencv/opencv)|Open Source Computer Vision Library|74282|2024-02-27|
-|7|[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)|Bitcoin Core integration/staging tree|74213|2024-02-27|
-|8|[apple/swift](https://github.com/apple/swift)|The Swift Programming Language|65438|2024-02-27|
-|9|[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)|Protocol Buffers - Google's data interchange format|63011|2024-02-27|
-|10|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)|gpt4all: run open-source LLMs anywhere|61727|2024-02-27|
-|11|[tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)|Tesseract Open Source OCR Engine (main repository)|56749|2024-02-23|
-|12|[ocornut/imgui](https://github.com/ocornut/imgui)|Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies|54268|2024-02-27|
-|13|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|LLM inference in C/C++|51651|2024-02-27|
-|14|[x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)|An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.|42777|2024-02-25|
-|15|[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)|The Magic Mask for Android|42758|2024-02-27|
-|16|[grpc/grpc](https://github.com/grpc/grpc)|The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)|40279|2024-02-27|
-|17|[nlohmann/json](https://github.com/nlohmann/json)|JSON for Modern C++|39233|2024-02-06|
-|18|[google/leveldb](https://github.com/google/leveldb)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|34625|2024-02-23|
-|19|[BVLC/caffe](https://github.com/BVLC/caffe)|Caffe: a fast open framework for deep learning.|33781|2024-02-21|
-|20|[yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)|Nintendo Switch emulator|33711|2024-02-27|
-|21|[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)|ClickHouse® is a free analytics DBMS for big data|33238|2024-02-27|
-|22|[google/googletest](https://github.com/google/googletest)|GoogleTest - Google Testing and Mocking Framework|32172|2024-02-27|
-|23|[carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|32021|2024-02-27|
-|24|[WerWolv/ImHex](https://github.com/WerWolv/ImHex)|🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.|31951|2024-02-27|
-|25|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|31369|2023-12-20|
-|26|[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)|OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation|29392|2024-02-27|
-|27|[microsoft/calculator](https://github.com/microsoft/calculator)|Windows Calculator: A simple yet powerful calculator that ships with Windows|28558|2024-02-10|
-|28|[SerenityOS/serenity](https://github.com/SerenityOS/serenity)|The Serenity Operating System 🐞|27676|2024-02-27|
-|29|[facebookresearch/faiss](https://github.com/facebookresearch/faiss)|A library for efficient similarity search and clustering of dense vectors.|27032|2024-02-27|
-|30|[facebook/rocksdb](https://github.com/facebook/rocksdb)|A library that provides an embeddable, persistent key-value store for fast storage.|26985|2024-02-27|
-|31|[rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)|The open-source database for the realtime web.|26459|2023-12-16|
-|32|[aseprite/aseprite](https://github.com/aseprite/aseprite)|Animated sprite editor & pixel art tool (Windows, macOS, Linux)|25793|2024-02-27|
+|1|[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|An Open Source Machine Learning Framework for Everyone|181029|2024-02-28|
+|2|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|110750|2024-02-28|
+|3|[microsoft/terminal](https://github.com/microsoft/terminal)|The new Windows Terminal and the original Windows console host, all in the same place!|92870|2024-02-28|
+|4|[godotengine/godot](https://github.com/godotengine/godot)|Godot Engine – Multi-platform 2D and 3D game engine|81176|2024-02-28|
+|5|[pytorch/pytorch](https://github.com/pytorch/pytorch)|Tensors and Dynamic neural networks in Python with strong GPU acceleration|75978|2024-02-28|
+|6|[opencv/opencv](https://github.com/opencv/opencv)|Open Source Computer Vision Library|74308|2024-02-28|
+|7|[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)|Bitcoin Core integration/staging tree|74245|2024-02-28|
+|8|[apple/swift](https://github.com/apple/swift)|The Swift Programming Language|65458|2024-02-28|
+|9|[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)|Protocol Buffers - Google's data interchange format|63021|2024-02-28|
+|10|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)|gpt4all: run open-source LLMs anywhere|61769|2024-02-28|
+|11|[tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)|Tesseract Open Source OCR Engine (main repository)|56777|2024-02-23|
+|12|[ocornut/imgui](https://github.com/ocornut/imgui)|Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies|54303|2024-02-28|
+|13|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|LLM inference in C/C++|51743|2024-02-28|
+|14|[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)|The Magic Mask for Android|42786|2024-02-28|
+|15|[x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)|An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.|42784|2024-02-25|
+|16|[grpc/grpc](https://github.com/grpc/grpc)|The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)|40292|2024-02-28|
+|17|[nlohmann/json](https://github.com/nlohmann/json)|JSON for Modern C++|39255|2024-02-06|
+|18|[google/leveldb](https://github.com/google/leveldb)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|34630|2024-02-23|
+|19|[yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)|Nintendo Switch emulator|34340|2024-02-28|
+|20|[BVLC/caffe](https://github.com/BVLC/caffe)|Caffe: a fast open framework for deep learning.|33784|2024-02-21|
+|21|[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)|ClickHouse® is a free analytics DBMS for big data|33257|2024-02-28|
+|22|[google/googletest](https://github.com/google/googletest)|GoogleTest - Google Testing and Mocking Framework|32182|2024-02-28|
+|23|[carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|32023|2024-02-28|
+|24|[WerWolv/ImHex](https://github.com/WerWolv/ImHex)|🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.|31977|2024-02-28|
+|25|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|31389|2023-12-20|
+|26|[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)|OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation|29397|2024-02-27|
+|27|[microsoft/calculator](https://github.com/microsoft/calculator)|Windows Calculator: A simple yet powerful calculator that ships with Windows|28566|2024-02-10|
+|28|[SerenityOS/serenity](https://github.com/SerenityOS/serenity)|The Serenity Operating System 🐞|27693|2024-02-28|
+|29|[facebookresearch/faiss](https://github.com/facebookresearch/faiss)|A library for efficient similarity search and clustering of dense vectors.|27059|2024-02-28|
+|30|[facebook/rocksdb](https://github.com/facebook/rocksdb)|A library that provides an embeddable, persistent key-value store for fast storage.|26989|2024-02-28|
+|31|[rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)|The open-source database for the realtime web.|26460|2023-12-16|
+|32|[aseprite/aseprite](https://github.com/aseprite/aseprite)|Animated sprite editor & pixel art tool (Windows, macOS, Linux)|25807|2024-02-28|
 |33|[cmderdev/cmder](https://github.com/cmderdev/cmder)|Lovely console emulator package for Windows|25461|2024-02-27|
-|34|[dmlc/xgboost](https://github.com/dmlc/xgboost)|Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow|25343|2024-02-27|
-|35|[mongodb/mongo](https://github.com/mongodb/mongo)|The MongoDB Database|25139|2024-02-27|
-|36|[emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)|Emscripten: An LLVM-to-WebAssembly Compiler|24906|2024-02-27|
-|37|[google/mediapipe](https://github.com/google/mediapipe)|Cross-platform, customizable ML solutions for live and streaming media.|24900|2024-02-27|
-|38|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|24439|2024-02-20|
-|39|[ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)|An open autonomous driving platform|24081|2024-02-24|
-|40|[telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)|Telegram Desktop messaging app|23984|2024-02-25|
-|41|[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)|DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.|23913|2024-02-18|
-|42|[ossrs/srs](https://github.com/ossrs/srs)|SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.|23770|2024-02-21|
-|43|[envoyproxy/envoy](https://github.com/envoyproxy/envoy)|Cloud-native high-performance edge/middle/service proxy|23532|2024-02-27|
-|44|[flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|22787|2024-02-23|
-|45|[v8/v8](https://github.com/v8/v8)|The official mirror of the V8 Git repository|22416|2024-02-27|
-|46|[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)|A modern replacement for Redis and Memcached|22335|2024-02-27|
-|47|[ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)|Compatibility tool for Steam Play based on Wine and additional components|22230|2024-02-27|
-|48|[ethereum/solidity](https://github.com/ethereum/solidity)|Solidity, the Smart Contract Programming Language|21828|2024-02-27|
-|49|[google/flatbuffers](https://github.com/google/flatbuffers)|FlatBuffers: Memory Efficient Serialization Library|21793|2024-02-25|
-|50|[microsoft/winget-cli](https://github.com/microsoft/winget-cli)|WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).|21750|2024-02-27|
-|51|[gabime/spdlog](https://github.com/gabime/spdlog)|Fast C++ logging library.|21578|2024-02-26|
-|52|[osquery/osquery](https://github.com/osquery/osquery)|SQL powered operating system instrumentation, monitoring, and analytics.|21167|2024-02-27|
-|53|[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|Notepad++ official repository|21084|2024-02-27|
-|54|[apache/mxnet](https://github.com/apache/mxnet)|Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more|20692|2023-10-25|
-|55|[sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)|Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: |19656|2024-02-23|
-|56|[fmtlib/fmt](https://github.com/fmtlib/fmt)|A modern formatting library|18998|2024-02-27|
-|57|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|18841|2024-02-27|
-|58|[trojan-gfw/trojan](https://github.com/trojan-gfw/trojan)|An unidentifiable mechanism that helps you bypass GFW.|18418|2024-01-16|
-|59|[keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)|KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.|18324|2024-02-26|
-|60|[alibaba/weex](https://github.com/alibaba/weex)|A framework for building Mobile cross-platform UI|18202|2023-11-17|
-|61|[swoole/swoole-src](https://github.com/swoole/swoole-src)|🚀 Coroutine-based concurrency library for PHP|18156|2024-02-27|
-|62|[facebook/hhvm](https://github.com/facebook/hhvm)|A virtual machine for executing programs written in Hack.|17940|2024-02-27|
-|63|[cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)|Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & ...|17800|2024-02-21|
-|64|[catchorg/Catch2](https://github.com/catchorg/Catch2)|A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)|17785|2024-02-27|
-|65|[pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)|Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.|17641|2024-02-25|
-|66|[scottbez1/smartknob](https://github.com/scottbez1/smartknob)|Haptic input knob with software-defined endstops and virtual detents|17485|2024-02-19|
-|67|[typesense/typesense](https://github.com/typesense/typesense)|Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences|17113|2024-02-27|
-|68|[xbmc/xbmc](https://github.com/xbmc/xbmc)|Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for  ...|17072|2024-02-27|
-|69|[Tencent/mars](https://github.com/Tencent/mars)|Mars is a cross-platform network component  developed by WeChat.|17066|2024-02-27|
-|70|[mudler/LocalAI](https://github.com/mudler/LocalAI)|:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor ...|16994|2024-02-27|
-|71|[FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)|This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.|16916|2024-02-27|
-|72|[google/filament](https://github.com/google/filament)|Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2|16877|2024-02-27|
-|73|[facebook/yoga](https://github.com/facebook/yoga)|Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.|16755|2024-02-27|
-|74|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|16632|2024-02-26|
-|75|[uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)|Simple, secure & standards compliant web server for the most demanding of applications|16546|2024-02-21|
-|76|[google/libphonenumber](https://github.com/google/libphonenumber)|Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.|15866|2024-02-25|
-|77|[microsoft/react-native-windows](https://github.com/microsoft/react-native-windows)|A framework for building native Windows apps with React.|15863|2024-02-27|
-|78|[MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)|Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp ...|15714|2024-02-27|
-|79|[apache/brpc](https://github.com/apache/brpc)|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means  ...|15701|2024-02-27|
-|80|[microsoft/AirSim](https://github.com/microsoft/AirSim)|Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research|15667|2024-02-04|
-|81|[esp8266/Arduino](https://github.com/esp8266/Arduino)|ESP8266 core for Arduino|15649|2024-02-26|
-|82|[aristocratos/btop](https://github.com/aristocratos/btop)|A monitor of resources|15264|2024-02-26|
-|83|[duckdb/duckdb](https://github.com/duckdb/duckdb)|DuckDB is an in-process SQL OLAP Database Management System|14850|2024-02-27|
-|84|[kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)|Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.|14821|2024-02-20|
-|85|[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)|Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.|14725|2024-02-27|
-|86|[rizinorg/cutter](https://github.com/rizinorg/cutter)|Free and Open Source Reverse Engineering Platform powered by rizin|14700|2024-02-26|
-|87|[pybind/pybind11](https://github.com/pybind/pybind11)|Seamless operability between C++11 and Python|14501|2024-02-27|
-|88|[dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)|very currency|14276|2024-02-27|
-|89|[bkaradzic/bgfx](https://github.com/bkaradzic/bgfx)|Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.|14068|2024-02-27|
-|90|[chenshuo/muduo](https://github.com/chenshuo/muduo)|Event-driven network library for multi-threaded Linux server in C++11|14041|2024-02-20|
-|91|[RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)|PS3 emulator/debugger|13919|2024-02-27|
-|92|[TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|A lightweight utility that makes the Windows taskbar translucent/transparent.|13802|2024-02-25|
-|93|[apple/foundationdb](https://github.com/apple/foundationdb)|FoundationDB - the open source, distributed, transactional key-value store|13780|2024-02-27|
-|94|[Tencent/rapidjson](https://github.com/Tencent/rapidjson)|A fast JSON parser/generator for C++ with both SAX/DOM style API|13736|2024-02-18|
-|95|[exaloop/codon](https://github.com/exaloop/codon)|A high-performance, zero-overhead, extensible Python compiler using LLVM|13695|2024-02-25|
-|96|[abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)|Abseil Common Libraries (C++)|13598|2024-02-27|
-|97|[Aircoookie/WLED](https://github.com/Aircoookie/WLED)|Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!|13513|2024-02-27|
-|98|[OpenGenus/cosmos](https://github.com/OpenGenus/cosmos)|World's largest Contributor driven code dataset   Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project|13476|2024-02-11|
-|99|[polybar/polybar](https://github.com/polybar/polybar)|A fast and easy-to-use status bar|13347|2024-02-18|
-|100|[arangodb/arangodb](https://github.com/arangodb/arangodb)|🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip ...|13289|2024-02-27|
-|101|[Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)|Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.|13266|2024-02-23|
-|102|[apache/arrow](https://github.com/apache/arrow)|Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing|13210|2024-02-27|
-|103|[upx/upx](https://github.com/upx/upx)|UPX - the Ultimate Packer for eXecutables|13078|2024-02-27|
-|104|[ceph/ceph](https://github.com/ceph/ceph)|Ceph is a distributed object, block, and file storage platform |12977|2024-02-27|
-|105|[zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)|A Smart Ethernet Switch for Earth|12936|2024-02-23|
-|106|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|12846|2024-02-27|
-|107|[rui314/mold](https://github.com/rui314/mold)|Mold: A Modern Linker 🦠|12797|2024-02-27|
-|108|[OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)|An open source re-implementation of RollerCoaster Tycoon 2 🎢|12693|2024-02-27|
-|109|[davisking/dlib](https://github.com/davisking/dlib)|A toolkit for making real world machine learning and data analysis applications in C++|12664|2024-02-27|
-|110|[spotify/annoy](https://github.com/spotify/annoy)|Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk|12498|2024-02-06|
-|111|[id-Software/DOOM](https://github.com/id-Software/DOOM)|DOOM Open Source Release|12354|2024-01-18|
-|112|[facebook/watchman](https://github.com/facebook/watchman)|Watches files and records, or triggers actions, when they change. |12163|2024-02-27|
-|113|[espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)|Arduino core for the ESP32|12160|2024-02-27|
-|114|[scylladb/scylladb](https://github.com/scylladb/scylladb)|NoSQL data store using the seastar framework, compatible with Apache Cassandra|12158|2024-02-27|
-|115|[mobile-shell/mosh](https://github.com/mobile-shell/mosh)|Mobile Shell|12117|2024-02-18|
-|116|[sogou/workflow](https://github.com/sogou/workflow)|C++ Parallel Computing and Asynchronous Networking Framework|12115|2024-02-22|
-|117|[microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)|ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator|12082|2024-02-27|
-|118|[ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)|An open source library for face detection in images. The face detection speed can reach 1000FPS. |11958|2024-01-26|
-|119|[hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)|Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies|11935|2024-02-27|
-|120|[ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)|WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11|11887|2024-02-26|
-|121|[AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)|Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN ...|11696|2024-02-21|
-|122|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.|11665|2024-02-27|
-|123|[doitsujin/dxvk](https://github.com/doitsujin/dxvk)|Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine|11543|2024-02-24|
-|124|[dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)|Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.|11498|2024-02-27|
-|125|[yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)|A C++ header-only HTTP/HTTPS server and client library|11481|2024-02-23|
-|126|[tindy2013/subconverter](https://github.com/tindy2013/subconverter)|Utility to convert between various subscription format|11469|2024-02-26|
-|127|[vnotex/vnote](https://github.com/vnotex/vnote)|A pleasant note-taking platform.|11304|2024-01-18|
-|128|[musescore/MuseScore](https://github.com/musescore/MuseScore)|MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!|11249|2024-02-27|
-|129|[apple/turicreate](https://github.com/apple/turicreate)|Turi Create simplifies the development of custom machine learning models.|11144|2023-11-01|
-|130|[TheCherno/Hazel](https://github.com/TheCherno/Hazel)|Hazel Engine|11020|2024-01-31|
-|131|[capnproto/capnproto](https://github.com/capnproto/capnproto)|Cap'n Proto serialization/RPC system - core tools and C++ library|10985|2024-02-16|
-|132|[blender/blender](https://github.com/blender/blender)|Official mirror of Blender|10963|2024-02-27|
-|133|[zealdocs/zeal](https://github.com/zealdocs/zeal)|Offline documentation browser inspired by Dash|10952|2024-02-25|
-|134|[openalpr/openalpr](https://github.com/openalpr/openalpr)|Automatic License Plate Recognition library|10870|2024-01-11|
-|135|[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)|Self-hosted game stream host for Moonlight.|10604|2024-02-27|
-|136|[drogonframework/drogon](https://github.com/drogonframework/drogon)|Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows|10556|2024-02-27|
-|137|[mapeditor/tiled](https://github.com/mapeditor/tiled)|Flexible level editor|10497|2024-02-26|
-|138|[Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)|Achieve a tiny STL in C++11|10423|2023-10-10|
-|139|[sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi)|Code. Music. Live.|10419|2024-02-25|
-|140|[ninja-build/ninja](https://github.com/ninja-build/ninja)|a small build system with a focus on speed|10322|2024-02-23|
-|141|[carla-simulator/carla](https://github.com/carla-simulator/carla)|Open-source simulator for autonomous driving research.|10221|2024-02-26|
-|142|[google/or-tools](https://github.com/google/or-tools)|Google's Operations Research tools:|10220|2024-02-27|
-|143|[official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish)|A free and strong UCI chess engine|10209|2024-02-27|
-|144|[isl-org/Open3D](https://github.com/isl-org/Open3D)|Open3D: A Modern Library for 3D Data Processing|10186|2024-02-27|
-|145|[NixOS/nix](https://github.com/NixOS/nix)|Nix, the purely functional package manager|10149|2024-02-27|
-|146|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|10091|2024-02-27|
-|147|[apache/thrift](https://github.com/apache/thrift)|Apache Thrift|10080|2024-02-26|
-|148|[citra-emu/citra](https://github.com/citra-emu/citra)|A Nintendo 3DS Emulator|10068|2024-02-27|
-|149|[assimp/assimp](https://github.com/assimp/assimp)|The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. |10062|2024-02-26|
-|150|[PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)|PCSX2 - The Playstation 2 Emulator|10019|2024-02-27|
-|151|[mysql/mysql-server](https://github.com/mysql/mysql-server)|MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.|10007|2024-02-27|
-|152|[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)|  A distributed, fast open-source graph database featuring horizontal scalability and high availability|9943|2024-02-02|
-|153|[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)|Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  ...|9927|2024-02-26|
-|154|[minetest/minetest](https://github.com/minetest/minetest)|Minetest is an open source voxel game-creation platform with easy modding and game creation|9915|2024-02-27|
-|155|[symless/synergy-core](https://github.com/symless/synergy-core)|Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)|9893|2024-01-24|
-|156|[mltframework/shotcut](https://github.com/mltframework/shotcut)|cross-platform (Qt), open-source (GPLv3) video editor|9869|2024-02-27|
-|157|[nasa/fprime](https://github.com/nasa/fprime)|F´ - A flight software and embedded systems framework|9815|2024-02-27|
-|158|[android/ndk-samples](https://github.com/android/ndk-samples)|Android NDK samples with Android Studio|9810|2024-02-27|
+|34|[dmlc/xgboost](https://github.com/dmlc/xgboost)|Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow|25348|2024-02-28|
+|35|[mongodb/mongo](https://github.com/mongodb/mongo)|The MongoDB Database|25143|2024-02-28|
+|36|[emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)|Emscripten: An LLVM-to-WebAssembly Compiler|24913|2024-02-28|
+|37|[google/mediapipe](https://github.com/google/mediapipe)|Cross-platform, customizable ML solutions for live and streaming media.|24906|2024-02-28|
+|38|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|24447|2024-02-20|
+|39|[ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)|An open autonomous driving platform|24097|2024-02-28|
+|40|[telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)|Telegram Desktop messaging app|23996|2024-02-25|
+|41|[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)|DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.|23922|2024-02-18|
+|42|[ossrs/srs](https://github.com/ossrs/srs)|SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.|23788|2024-02-21|
+|43|[envoyproxy/envoy](https://github.com/envoyproxy/envoy)|Cloud-native high-performance edge/middle/service proxy|23539|2024-02-28|
+|44|[flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|22797|2024-02-23|
+|45|[v8/v8](https://github.com/v8/v8)|The official mirror of the V8 Git repository|22423|2024-02-28|
+|46|[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)|A modern replacement for Redis and Memcached|22342|2024-02-28|
+|47|[ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)|Compatibility tool for Steam Play based on Wine and additional components|22235|2024-02-28|
+|48|[ethereum/solidity](https://github.com/ethereum/solidity)|Solidity, the Smart Contract Programming Language|21832|2024-02-27|
+|49|[google/flatbuffers](https://github.com/google/flatbuffers)|FlatBuffers: Memory Efficient Serialization Library|21803|2024-02-25|
+|50|[microsoft/winget-cli](https://github.com/microsoft/winget-cli)|WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).|21752|2024-02-28|
+|51|[gabime/spdlog](https://github.com/gabime/spdlog)|Fast C++ logging library.|21588|2024-02-26|
+|52|[osquery/osquery](https://github.com/osquery/osquery)|SQL powered operating system instrumentation, monitoring, and analytics.|21179|2024-02-28|
+|53|[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|Notepad++ official repository|21092|2024-02-28|
+|54|[apache/mxnet](https://github.com/apache/mxnet)|Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more|20693|2023-10-25|
+|55|[sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)|Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: |19662|2024-02-23|
+|56|[fmtlib/fmt](https://github.com/fmtlib/fmt)|A modern formatting library|19001|2024-02-28|
+|57|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|18848|2024-02-28|
+|58|[trojan-gfw/trojan](https://github.com/trojan-gfw/trojan)|An unidentifiable mechanism that helps you bypass GFW.|18421|2024-01-16|
+|59|[keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)|KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.|18333|2024-02-28|
+|60|[alibaba/weex](https://github.com/alibaba/weex)|A framework for building Mobile cross-platform UI|18205|2023-11-17|
+|61|[swoole/swoole-src](https://github.com/swoole/swoole-src)|🚀 Coroutine-based concurrency library for PHP|18158|2024-02-28|
+|62|[facebook/hhvm](https://github.com/facebook/hhvm)|A virtual machine for executing programs written in Hack.|17942|2024-02-28|
+|63|[cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)|Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & ...|17801|2024-02-21|
+|64|[catchorg/Catch2](https://github.com/catchorg/Catch2)|A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)|17789|2024-02-28|
+|65|[pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)|Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.|17645|2024-02-25|
+|66|[scottbez1/smartknob](https://github.com/scottbez1/smartknob)|Haptic input knob with software-defined endstops and virtual detents|17490|2024-02-19|
+|67|[typesense/typesense](https://github.com/typesense/typesense)|Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences|17125|2024-02-28|
+|68|[xbmc/xbmc](https://github.com/xbmc/xbmc)|Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for  ...|17074|2024-02-28|
+|69|[Tencent/mars](https://github.com/Tencent/mars)|Mars is a cross-platform network component  developed by WeChat.|17066|2024-02-28|
+|70|[mudler/LocalAI](https://github.com/mudler/LocalAI)|:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor ...|17046|2024-02-28|
+|71|[FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)|This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.|16933|2024-02-28|
+|72|[google/filament](https://github.com/google/filament)|Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2|16879|2024-02-28|
+|73|[facebook/yoga](https://github.com/facebook/yoga)|Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.|16754|2024-02-27|
+|74|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|16637|2024-02-26|
+|75|[uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)|Simple, secure & standards compliant web server for the most demanding of applications|16552|2024-02-21|
+|76|[google/libphonenumber](https://github.com/google/libphonenumber)|Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.|15869|2024-02-25|
+|77|[microsoft/react-native-windows](https://github.com/microsoft/react-native-windows)|A framework for building native Windows apps with React.|15865|2024-02-28|
+|78|[MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)|Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp ...|15718|2024-02-28|
+|79|[apache/brpc](https://github.com/apache/brpc)|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means  ...|15706|2024-02-28|
+|80|[microsoft/AirSim](https://github.com/microsoft/AirSim)|Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research|15672|2024-02-04|
+|81|[esp8266/Arduino](https://github.com/esp8266/Arduino)|ESP8266 core for Arduino|15655|2024-02-28|
+|82|[aristocratos/btop](https://github.com/aristocratos/btop)|A monitor of resources|15304|2024-02-26|
+|83|[duckdb/duckdb](https://github.com/duckdb/duckdb)|DuckDB is an in-process SQL OLAP Database Management System|14882|2024-02-28|
+|84|[kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)|Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.|14827|2024-02-20|
+|85|[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)|Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.|14788|2024-02-28|
+|86|[rizinorg/cutter](https://github.com/rizinorg/cutter)|Free and Open Source Reverse Engineering Platform powered by rizin|14706|2024-02-27|
+|87|[pybind/pybind11](https://github.com/pybind/pybind11)|Seamless operability between C++11 and Python|14507|2024-02-27|
+|88|[dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)|very currency|14275|2024-02-27|
+|89|[bkaradzic/bgfx](https://github.com/bkaradzic/bgfx)|Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.|14071|2024-02-28|
+|90|[chenshuo/muduo](https://github.com/chenshuo/muduo)|Event-driven network library for multi-threaded Linux server in C++11|14045|2024-02-20|
+|91|[RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)|PS3 emulator/debugger|13926|2024-02-28|
+|92|[TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|A lightweight utility that makes the Windows taskbar translucent/transparent.|13807|2024-02-25|
+|93|[apple/foundationdb](https://github.com/apple/foundationdb)|FoundationDB - the open source, distributed, transactional key-value store|13783|2024-02-28|
+|94|[Tencent/rapidjson](https://github.com/Tencent/rapidjson)|A fast JSON parser/generator for C++ with both SAX/DOM style API|13736|2024-02-28|
+|95|[exaloop/codon](https://github.com/exaloop/codon)|A high-performance, zero-overhead, extensible Python compiler using LLVM|13699|2024-02-25|
+|96|[abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)|Abseil Common Libraries (C++)|13606|2024-02-28|
+|97|[Aircoookie/WLED](https://github.com/Aircoookie/WLED)|Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!|13517|2024-02-28|
+|98|[OpenGenus/cosmos](https://github.com/OpenGenus/cosmos)|World's largest Contributor driven code dataset   Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project|13477|2024-02-11|
+|99|[polybar/polybar](https://github.com/polybar/polybar)|A fast and easy-to-use status bar|13349|2024-02-18|
+|100|[arangodb/arangodb](https://github.com/arangodb/arangodb)|🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip ...|13293|2024-02-28|
+|101|[Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)|Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.|13275|2024-02-23|
+|102|[apache/arrow](https://github.com/apache/arrow)|Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing|13215|2024-02-28|
+|103|[upx/upx](https://github.com/upx/upx)|UPX - the Ultimate Packer for eXecutables|13088|2024-02-27|
+|104|[ceph/ceph](https://github.com/ceph/ceph)|Ceph is a distributed object, block, and file storage platform |12978|2024-02-28|
+|105|[zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)|A Smart Ethernet Switch for Earth|12941|2024-02-23|
+|106|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|12885|2024-02-28|
+|107|[rui314/mold](https://github.com/rui314/mold)|Mold: A Modern Linker 🦠|12818|2024-02-28|
+|108|[OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)|An open source re-implementation of RollerCoaster Tycoon 2 🎢|12695|2024-02-27|
+|109|[davisking/dlib](https://github.com/davisking/dlib)|A toolkit for making real world machine learning and data analysis applications in C++|12666|2024-02-28|
+|110|[spotify/annoy](https://github.com/spotify/annoy)|Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk|12504|2024-02-06|
+|111|[id-Software/DOOM](https://github.com/id-Software/DOOM)|DOOM Open Source Release|12362|2024-01-18|
+|112|[facebook/watchman](https://github.com/facebook/watchman)|Watches files and records, or triggers actions, when they change. |12166|2024-02-27|
+|113|[espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)|Arduino core for the ESP32|12164|2024-02-28|
+|114|[scylladb/scylladb](https://github.com/scylladb/scylladb)|NoSQL data store using the seastar framework, compatible with Apache Cassandra|12159|2024-02-28|
+|115|[mobile-shell/mosh](https://github.com/mobile-shell/mosh)|Mobile Shell|12121|2024-02-18|
+|116|[sogou/workflow](https://github.com/sogou/workflow)|C++ Parallel Computing and Asynchronous Networking Framework|12120|2024-02-22|
+|117|[microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)|ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator|12095|2024-02-28|
+|118|[ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)|An open source library for face detection in images. The face detection speed can reach 1000FPS. |11959|2024-01-26|
+|119|[hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)|Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies|11939|2024-02-27|
+|120|[ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)|WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11|11902|2024-02-28|
+|121|[AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)|Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN ...|11702|2024-02-21|
+|122|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.|11672|2024-02-27|
+|123|[doitsujin/dxvk](https://github.com/doitsujin/dxvk)|Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine|11543|2024-02-28|
+|124|[dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)|Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.|11519|2024-02-28|
+|125|[yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)|A C++ header-only HTTP/HTTPS server and client library|11484|2024-02-28|
+|126|[tindy2013/subconverter](https://github.com/tindy2013/subconverter)|Utility to convert between various subscription format|11477|2024-02-26|
+|127|[vnotex/vnote](https://github.com/vnotex/vnote)|A pleasant note-taking platform.|11306|2024-01-18|
+|128|[musescore/MuseScore](https://github.com/musescore/MuseScore)|MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!|11252|2024-02-28|
+|129|[apple/turicreate](https://github.com/apple/turicreate)|Turi Create simplifies the development of custom machine learning models.|11146|2023-11-01|
+|130|[TheCherno/Hazel](https://github.com/TheCherno/Hazel)|Hazel Engine|11021|2024-01-31|
+|131|[capnproto/capnproto](https://github.com/capnproto/capnproto)|Cap'n Proto serialization/RPC system - core tools and C++ library|10993|2024-02-16|
+|132|[blender/blender](https://github.com/blender/blender)|Official mirror of Blender|10969|2024-02-28|
+|133|[zealdocs/zeal](https://github.com/zealdocs/zeal)|Offline documentation browser inspired by Dash|10956|2024-02-25|
+|134|[openalpr/openalpr](https://github.com/openalpr/openalpr)|Automatic License Plate Recognition library|10871|2024-01-11|
+|135|[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)|Self-hosted game stream host for Moonlight.|10631|2024-02-28|
+|136|[drogonframework/drogon](https://github.com/drogonframework/drogon)|Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows|10560|2024-02-28|
+|137|[mapeditor/tiled](https://github.com/mapeditor/tiled)|Flexible level editor|10500|2024-02-28|
+|138|[Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)|Achieve a tiny STL in C++11|10429|2023-10-10|
+|139|[sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi)|Code. Music. Live.|10423|2024-02-25|
+|140|[ninja-build/ninja](https://github.com/ninja-build/ninja)|a small build system with a focus on speed|10326|2024-02-23|
+|141|[carla-simulator/carla](https://github.com/carla-simulator/carla)|Open-source simulator for autonomous driving research.|10225|2024-02-28|
+|142|[google/or-tools](https://github.com/google/or-tools)|Google's Operations Research tools:|10225|2024-02-28|
+|143|[official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish)|A free and strong UCI chess engine|10219|2024-02-27|
+|144|[isl-org/Open3D](https://github.com/isl-org/Open3D)|Open3D: A Modern Library for 3D Data Processing|10198|2024-02-27|
+|145|[NixOS/nix](https://github.com/NixOS/nix)|Nix, the purely functional package manager|10160|2024-02-28|
+|146|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|10097|2024-02-28|
+|147|[citra-emu/citra](https://github.com/citra-emu/citra)|A Nintendo 3DS Emulator|10081|2024-02-27|
+|148|[apache/thrift](https://github.com/apache/thrift)|Apache Thrift|10081|2024-02-28|
+|149|[assimp/assimp](https://github.com/assimp/assimp)|The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. |10063|2024-02-27|
+|150|[PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)|PCSX2 - The Playstation 2 Emulator|10024|2024-02-28|
+|151|[mysql/mysql-server](https://github.com/mysql/mysql-server)|MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.|10012|2024-02-27|
+|152|[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)|  A distributed, fast open-source graph database featuring horizontal scalability and high availability|9947|2024-02-02|
+|153|[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)|Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  ...|9930|2024-02-28|
+|154|[minetest/minetest](https://github.com/minetest/minetest)|Minetest is an open source voxel game-creation platform with easy modding and game creation|9917|2024-02-28|
+|155|[symless/synergy-core](https://github.com/symless/synergy-core)|Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)|9895|2024-01-24|
+|156|[mltframework/shotcut](https://github.com/mltframework/shotcut)|cross-platform (Qt), open-source (GPLv3) video editor|9872|2024-02-28|
+|157|[nasa/fprime](https://github.com/nasa/fprime)|F´ - A flight software and embedded systems framework|9816|2024-02-28|
+|158|[android/ndk-samples](https://github.com/android/ndk-samples)|Android NDK samples with Android Studio|9809|2024-02-27|
 |159|[TarsCloud/Tars](https://github.com/TarsCloud/Tars)|Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.|9740|2024-02-22|
-|160|[openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks)|openFrameworks is a community-developed cross platform toolkit for creative coding in C++.|9715|2024-02-20|
-|161|[ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane, ArduCopter, ArduRover, ArduSub source|9617|2024-02-27|
-|162|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|9581|2024-02-27|
-|163|[microsoft/wslg](https://github.com/microsoft/wslg)|Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios|9578|2024-02-01|
-|164|[microsoft/STL](https://github.com/microsoft/STL)|MSVC's implementation of the C++ Standard Library.|9575|2024-02-27|
-|165|[Z3Prover/z3](https://github.com/Z3Prover/z3)|The Z3 Theorem Prover|9561|2024-02-27|
-|166|[mawww/kakoune](https://github.com/mawww/kakoune)|mawww's experiment for a better code editor|9466|2024-02-26|
-|167|[SFML/SFML](https://github.com/SFML/SFML)|Simple and Fast Multimedia Library|9465|2024-02-27|
-|168|[CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)|Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.|9404|2024-02-27|
-|169|[taskflow/taskflow](https://github.com/taskflow/taskflow)|A General-purpose Parallel and Heterogeneous Task Programming System|9343|2024-02-26|
-|170|[qgis/QGIS](https://github.com/qgis/QGIS)|QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)|9342|2024-02-27|
-|171|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|9273|2024-02-27|
-|172|[skypjack/entt](https://github.com/skypjack/entt)|Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more|9261|2024-02-27|
-|173|[facebook/hermes](https://github.com/facebook/hermes)|A JavaScript engine optimized for running React Native.|9242|2024-02-27|
-|174|[MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)|Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)|9211|2024-02-24|
-|175|[zeromq/libzmq](https://github.com/zeromq/libzmq)|ZeroMQ core engine in C++, implements ZMTP/3.1|9143|2024-02-23|
-|176|[google/sentencepiece](https://github.com/google/sentencepiece)|Unsupervised text tokenizer for Neural Network-based text generation.|9091|2024-02-26|
-|177|[opencv/opencv_contrib](https://github.com/opencv/opencv_contrib)|Repository for OpenCV's extra modules|8967|2024-02-27|
-|178|[raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)|Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities|8846|2023-11-27|
-|179|[anbox/anbox](https://github.com/anbox/anbox)|Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system |8773|2024-02-06|
-|180|[NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)|NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.|8724|2024-02-09|
-|181|[oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)|Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web|8696|2024-02-10|
-|182|[nodegui/nodegui](https://github.com/nodegui/nodegui)|A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org|8677|2024-02-24|
+|160|[openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks)|openFrameworks is a community-developed cross platform toolkit for creative coding in C++.|9721|2024-02-20|
+|161|[ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane, ArduCopter, ArduRover, ArduSub source|9619|2024-02-28|
+|162|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|9596|2024-02-27|
+|163|[microsoft/wslg](https://github.com/microsoft/wslg)|Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios|9580|2024-02-01|
+|164|[microsoft/STL](https://github.com/microsoft/STL)|MSVC's implementation of the C++ Standard Library.|9575|2024-02-28|
+|165|[Z3Prover/z3](https://github.com/Z3Prover/z3)|The Z3 Theorem Prover|9563|2024-02-28|
+|166|[mawww/kakoune](https://github.com/mawww/kakoune)|mawww's experiment for a better code editor|9469|2024-02-28|
+|167|[SFML/SFML](https://github.com/SFML/SFML)|Simple and Fast Multimedia Library|9468|2024-02-27|
+|168|[CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)|Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.|9408|2024-02-28|
+|169|[qgis/QGIS](https://github.com/qgis/QGIS)|QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)|9351|2024-02-28|
+|170|[taskflow/taskflow](https://github.com/taskflow/taskflow)|A General-purpose Parallel and Heterogeneous Task Programming System|9347|2024-02-26|
+|171|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|9274|2024-02-27|
+|172|[skypjack/entt](https://github.com/skypjack/entt)|Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more|9262|2024-02-28|
+|173|[facebook/hermes](https://github.com/facebook/hermes)|A JavaScript engine optimized for running React Native.|9245|2024-02-28|
+|174|[MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)|Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)|9229|2024-02-24|
+|175|[zeromq/libzmq](https://github.com/zeromq/libzmq)|ZeroMQ core engine in C++, implements ZMTP/3.1|9144|2024-02-28|
+|176|[google/sentencepiece](https://github.com/google/sentencepiece)|Unsupervised text tokenizer for Neural Network-based text generation.|9100|2024-02-26|
+|177|[opencv/opencv_contrib](https://github.com/opencv/opencv_contrib)|Repository for OpenCV's extra modules|8968|2024-02-27|
+|178|[raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)|Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities|8850|2023-11-27|
+|179|[anbox/anbox](https://github.com/anbox/anbox)|Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system |8776|2024-02-06|
+|180|[NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)|NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.|8735|2024-02-09|
+|181|[oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)|Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web|8699|2024-02-10|
+|182|[nodegui/nodegui](https://github.com/nodegui/nodegui)|A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org|8678|2024-02-24|
 |183|[Snapchat/KeyDB](https://github.com/Snapchat/KeyDB)|A Multithreaded Fork of Redis|8649|2024-02-23|
 |184|[diasurgical/devilution](https://github.com/diasurgical/devilution)|Diablo devolved - magic behind the 1996 computer game|8617|2024-01-02|
-|185|[rr-debugger/rr](https://github.com/rr-debugger/rr)|Record and Replay Framework|8516|2024-02-27|
-|186|[google/re2](https://github.com/google/re2)|RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.|8513|2024-02-19|
-|187|[redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)|Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!|8494|2024-02-27|
-|188|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8473|2024-02-16|
-|189|[monero-project/monero](https://github.com/monero-project/monero)|Monero: the secure, private, untraceable cryptocurrency|8440|2024-02-27|
-|190|[google/skia](https://github.com/google/skia)|Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.|8424|2024-02-27|
-|191|[VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)|Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learni ...|8386|2024-02-27|
+|185|[rr-debugger/rr](https://github.com/rr-debugger/rr)|Record and Replay Framework|8518|2024-02-28|
+|186|[google/re2](https://github.com/google/re2)|RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.|8517|2024-02-19|
+|187|[redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)|Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!|8502|2024-02-28|
+|188|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8472|2024-02-16|
+|189|[monero-project/monero](https://github.com/monero-project/monero)|Monero: the secure, private, untraceable cryptocurrency|8443|2024-02-27|
+|190|[google/skia](https://github.com/google/skia)|Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.|8426|2024-02-28|
+|191|[VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)|Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learni ...|8387|2024-02-27|
 |192|[Maximus5/ConEmu](https://github.com/Maximus5/ConEmu)|Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more|8353|2023-11-17|
-|193|[baldurk/renderdoc](https://github.com/baldurk/renderdoc)|RenderDoc is a stand-alone graphics debugging tool.|8245|2024-02-27|
-|194|[google/benchmark](https://github.com/google/benchmark)|A microbenchmark support library|8231|2024-02-25|
-|195|[alibaba/MNN](https://github.com/alibaba/MNN)|MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba|8185|2024-02-20|
-|196|[organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)|🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde ...|8141|2024-02-27|
-|197|[AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)|AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.|8105|2024-02-18|
-|198|[gperftools/gperftools](https://github.com/gperftools/gperftools)|Main gperftools repository|8037|2024-02-22|
-|199|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。|8027|2024-02-27|
+|193|[baldurk/renderdoc](https://github.com/baldurk/renderdoc)|RenderDoc is a stand-alone graphics debugging tool.|8247|2024-02-28|
+|194|[google/benchmark](https://github.com/google/benchmark)|A microbenchmark support library|8234|2024-02-25|
+|195|[alibaba/MNN](https://github.com/alibaba/MNN)|MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba|8188|2024-02-20|
+|196|[organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)|🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde ...|8147|2024-02-28|
+|197|[AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)|AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.|8109|2024-02-18|
+|198|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。|8045|2024-02-28|
+|199|[gperftools/gperftools](https://github.com/gperftools/gperftools)|Main gperftools repository|8040|2024-02-27|
 |200|[Tencent/libco](https://github.com/Tencent/libco)|libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.|7999|2024-01-04|
 
 <div align="center">

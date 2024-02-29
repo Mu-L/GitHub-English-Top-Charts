@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|806|2023-12-29|2023-11-12|
-|2|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|654|2024-02-26|2023-05-09|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little AV/EDR bypassing lab for training & learning purposes|809|2023-12-29|2023-11-12|
+|2|[DNedic/lockfree](https://github.com/DNedic/lockfree)|A collection of lock-free data structures written in standard C++11|655|2024-02-26|2023-05-09|
 |3|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|509|2024-01-17|2023-11-03|
-|4|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|500|2024-01-21|2024-01-10|
+|4|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|501|2024-01-21|2024-01-10|
 |5|[lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp)|This repo contains C/C++ snippets that can be handy in specific offensive scenarios.|479|2023-10-30|2023-04-05|
 |6|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|382|2023-10-02|2023-09-16|
-|7|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|313|2024-02-07|2023-10-25|
-|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|283|2024-02-13|2023-08-28|
-|9|[azkadev/llama](https://github.com/azkadev/llama)|LLaMA (Language Learning for Machine Translation) adalah proyek riset yang diprakarsai oleh Facebook AI Research (FAIR) yang bertujuan untuk meningkatkan kualitas terjemahan mesin menggunakan pendekat ...|210|2024-01-17|2023-03-16|
+|7|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|314|2024-02-07|2023-10-25|
+|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|284|2024-02-13|2023-08-28|
+|9|[azkadev/llama](https://github.com/azkadev/llama)|LLaMA (Language Learning for Machine Translation) adalah proyek riset yang diprakarsai oleh Facebook AI Research (FAIR) yang bertujuan untuk meningkatkan kualitas terjemahan mesin menggunakan pendekat ...|212|2024-01-17|2023-03-16|
 |10|[DruidMech/GameplayAbilitySystem_Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura)|Online repo for Gameplay Ability System Course|162|2024-02-26|2023-03-23|
-|11|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|152|2023-09-24|2023-07-29|
-|12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|151|2024-01-13|2023-05-12|
-|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |148|2024-02-01|2023-08-16|
-|14|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|135|2024-02-07|2023-11-07|
-|15|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|133|2024-02-20|2024-01-14|
-|16|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|122|2023-12-30|2023-07-18|
-|17|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|106|2023-11-24|2023-09-28|
-|18|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|99|2023-11-27|2023-06-14|
-|19|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|2023-12-08|2023-11-17|
+|11|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|153|2023-09-24|2023-07-29|
+|12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|152|2024-01-13|2023-05-12|
+|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |149|2024-02-01|2023-08-16|
+|14|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|139|2024-02-20|2024-01-14|
+|15|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|135|2024-02-07|2023-11-07|
+|16|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|123|2023-12-30|2023-07-18|
+|17|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|107|2023-11-24|2023-09-28|
+|18|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|2023-12-08|2023-11-17|
+|19|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|98|2023-11-27|2023-06-14|
 |20|[KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial)|Hands-On Practical MLIR Tutorial|90|2023-10-20|2023-10-11|
 |21|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|64|2024-01-01|2023-10-25|
 |22|[cv-rmvl/rmvl](https://github.com/cv-rmvl/rmvl)|RoboMaster Vision Library|63|2024-01-26|2023-08-16|

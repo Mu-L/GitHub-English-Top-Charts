@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-02-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|58|2024-02-15|2023-04-10|
-|2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|48|2024-02-23|2024-01-19|
-|3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|31|2024-01-05|2023-07-27|
+|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|58|2024-02-28|2023-04-10|
+|2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|49|2024-02-23|2024-01-19|
+|3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
 |4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-02-22|2023-04-05|
 |5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-02-06|2023-08-30|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|11|2023-10-17|2023-05-31|
-|7|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-22|2023-04-25|
-|8|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|8|2024-02-26|2024-02-21|
-|9|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-02-27|2024-01-02|
+|7|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|9|2024-02-26|2024-02-21|
+|8|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|9|2024-02-22|2023-04-25|
+|9|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-02-28|2024-01-02|
 |10|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-02-22|2023-04-20|
 |11|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2023-11-22|2023-11-09|
 |12|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|7|2023-09-20|2023-08-30|
@@ -63,7 +63,7 @@
 |56|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
 |57|[schwark/hubitat-sonos-favorites](https://github.com/schwark/hubitat-sonos-favorites)|Sonos Favorites Support for Habitat|2|2023-09-29|2023-08-03|
 |58|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|59|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-02-23|2023-07-07|
+|59|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|2|2024-02-28|2023-07-07|
 |60|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2023-12-15|2023-06-20|
 |61|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
 |62|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
