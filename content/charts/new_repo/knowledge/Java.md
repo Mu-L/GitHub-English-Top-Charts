@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-02-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1624|2024-02-24|2023-08-07|
-|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|633|2024-02-11|2023-03-04|
-|3|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，使用简易RASP对程序进行保护|496|2024-02-27|2023-10-07|
-|4|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|217|2023-08-31|2023-06-02|
-|5|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|165|2024-02-13|2023-07-10|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1631|2024-02-24|2023-08-07|
+|2|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|637|2024-02-11|2023-03-04|
+|3|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|497|2024-02-29|2023-10-07|
+|4|[akhilkammila/leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter)|screenshots leetcode editorials and problems|218|2023-08-31|2023-06-02|
+|5|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|166|2024-02-13|2023-07-10|
 |6|[Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks)|JDBC Attack Tricks|133|2023-09-03|2023-09-02|
-|7|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|99|2024-02-22|2023-11-27|
+|7|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|100|2024-02-29|2023-11-27|
 |8|[yanaga/revisiting-design-patterns](https://github.com/yanaga/revisiting-design-patterns)|Revisiting some popular Design Patterns using Java 20+ features|78|2023-10-02|2023-03-16|
 |9|[Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X)|Repository for my Forge 1.20.X Tutorial Series on YouTube. Playlist link below!|72|2023-11-19|2023-06-27|
 |10|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|64|2024-01-12|2023-08-21|
@@ -28,7 +28,6 @@
 |21|[nzaeta/SecurityJWT](https://github.com/nzaeta/SecurityJWT)|Tutorial de Spring Security - JWT - Roles de usuario - CORS|33|2023-12-03|2023-11-26|
 |22|[minosvasilias/AIWP](https://github.com/minosvasilias/AIWP)|AI-generated, context-aware wallpapers|33|2023-11-28|2023-11-19|
 |23|[CraftJarvis/GROOT](https://github.com/CraftJarvis/GROOT)|GROOT: Learning to Follow Instructions by Watching Gameplay Videos|31|2023-12-18|2023-10-11|
-|24|[tangorishi/learnJava](https://github.com/tangorishi/learnJava)|LearnJava - Hacktoberfest 2023 🚀  Join us in celebrating Hacktoberfest 2023 by contributing to this Java programming repository! Whether you're a beginner or an expert, dive into Java, share your know ...|29|2023-10-31|2023-03-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

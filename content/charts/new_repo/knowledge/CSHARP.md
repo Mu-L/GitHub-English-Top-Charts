@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-02-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|879|2024-02-26|2023-08-30|
-|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|427|2024-02-19|2024-02-12|
-|3|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|357|2024-02-21|2024-02-08|
-|4|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|290|2024-02-28|2023-03-15|
-|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|263|2024-02-28|2024-01-29|
+|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|438|2024-02-19|2024-02-12|
+|3|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|358|2024-02-21|2024-02-08|
+|4|[CommunityToolkit/Windows](https://github.com/CommunityToolkit/Windows)|Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.|291|2024-02-29|2023-03-15|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|265|2024-02-29|2024-01-29|
 |6|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |239|2024-01-04|2023-05-11|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|217|2023-10-31|2023-07-25|
-|8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|211|2023-12-09|2023-05-02|
+|8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|212|2023-12-09|2023-05-02|
 |9|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|176|2024-02-28|2023-05-16|
-|10|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|147|2024-01-04|2023-09-21|
+|10|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|148|2024-01-04|2023-09-21|
 |11|[davidfowl/IdentityEndpointsSample](https://github.com/davidfowl/IdentityEndpointsSample)|A sample showing how to setup ASP.NET Core Identity API endpoints for authentication|144|2023-09-18|2023-07-14|
-|12|[UnityTechnologies/PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO)|A demo project to showcase design patterns and game architecture using ScriptableObjects|130|2023-09-11|2023-03-20|
-|13|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|117|2023-10-02|2023-04-11|
+|12|[UnityTechnologies/PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO)|A demo project to showcase design patterns and game architecture using ScriptableObjects|131|2023-09-11|2023-03-20|
+|13|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|118|2023-10-02|2023-04-11|
 |14|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|96|2024-02-24|2023-08-12|
-|15|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|94|2024-02-27|2024-01-17|
+|15|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|95|2024-02-27|2024-01-17|
 |16|[dusrdev/Sharpify](https://github.com/dusrdev/Sharpify)|A collection of high performance language extensions for C#|87|2024-01-30|2023-04-06|
-|17|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|73|2023-12-28|2023-11-07|
-|18|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|73|2024-02-27|2023-06-21|
+|17|[Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)|Free and open-source software that allows users to set animated desktop wallpapers powered by WPF.|74|2024-02-29|2023-06-21|
+|18|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|73|2023-12-28|2023-11-07|
 |19|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|52|2024-01-14|2024-01-12|
 |20|[optimus-code/Cities2Modding](https://github.com/optimus-code/Cities2Modding)|Info dump / guides for Cities Skylines 2 modding.|51|2023-11-11|2023-10-25|
 |21|[foohyfooh/PKHeXPluginPile](https://github.com/foohyfooh/PKHeXPluginPile)|Collection of PKHeX Plugins I have made and some that I try to maintain|50|2024-02-27|2023-03-21|
 |22|[mikeroyal/Lenovo-Legion-Go-Guide](https://github.com/mikeroyal/Lenovo-Legion-Go-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Lenovo legion Go Gaming Handheld. |46|2023-11-18|2023-10-04|
-|23|[stymee/SilkVulkanTutorial](https://github.com/stymee/SilkVulkanTutorial)|C# port of Vulkan Game Engine Tutorial|39|2024-01-08|2023-03-14|
+|23|[stymee/SilkVulkanTutorial](https://github.com/stymee/SilkVulkanTutorial)|C# port of Vulkan Game Engine Tutorial|41|2024-01-08|2023-03-14|
 |24|[miltinhoc/LinkedinEmails](https://github.com/miltinhoc/LinkedinEmails)|Searches for employees of a company on linkedin, generates a list of possible emails and verifies them.|35|2023-09-09|2023-04-12|
 |25|[brenobm/ManagementTool](https://github.com/brenobm/ManagementTool)|Project Management Tool tutorial source code|30|2023-10-30|2023-10-24|
 |26|[Zeugwerk/Twinpack](https://github.com/Zeugwerk/Twinpack)|Twinpack is a package manager for TwinCAT libraries with integration into the TwinCAT IDE. It enables the TwinCAT community to share their libraries and simplifies the continous integration of third-p ...|30|2024-01-24|2023-07-04|
