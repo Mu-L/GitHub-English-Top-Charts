@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|164|2024-01-16|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|138|2024-02-11|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|112|2024-02-29|2023-05-25|
-|4|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|57|2024-02-25|2023-03-05|
+|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|165|2024-01-16|2024-01-11|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|138|2024-03-01|2023-07-30|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|112|2024-03-01|2023-05-25|
+|4|[houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross)|GitHub Action to compile Rust with cross|58|2024-02-25|2023-03-05|
 |5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|51|2024-01-24|2024-01-23|
 |6|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|39|2024-02-28|2023-05-23|
 |7|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |8|[turistu/rmx3474-rooting](https://github.com/turistu/rmx3474-rooting)|rooting the Realme 9 5G rmx3474 phone|26|2023-09-17|2023-04-06|
 |9|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|24|2023-12-15|2023-09-21|
-|10|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|20|2024-02-29|2024-02-08|
-|11|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-02-28|2023-12-20|
+|10|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|20|2024-03-01|2024-02-08|
+|11|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-03-01|2023-12-20|
 |12|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|17|2024-01-03|2023-07-11|
 |13|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-02-17|2023-06-17|
 |14|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
@@ -31,26 +31,26 @@
 |24|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
 |25|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
 |26|[caasivfbioinfo/Bol_pangenome](https://github.com/caasivfbioinfo/Bol_pangenome)|-|10|2023-11-26|2023-11-23|
-|27|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|9|2024-02-29|2024-01-08|
-|28|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
-|29|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
-|30|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
-|31|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|9|2024-02-18|2023-07-21|
-|32|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
-|33|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|8|2024-02-15|2024-02-14|
-|34|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|8|2024-02-13|2023-11-03|
-|35|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-02-23|2023-05-10|
-|36|[mollusc-labs/clark](https://github.com/mollusc-labs/clark)|Modern logging dashboard and REST API for syslog|8|2024-01-21|2023-03-17|
-|37|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|7|2024-02-29|2024-02-17|
+|27|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|9|2024-03-01|2024-02-17|
+|28|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|9|2024-03-01|2024-01-08|
+|29|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
+|30|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
+|31|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
+|32|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|9|2024-02-18|2023-07-21|
+|33|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
+|34|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|8|2024-02-15|2024-02-14|
+|35|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|8|2024-02-13|2023-11-03|
+|36|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-02-23|2023-05-10|
+|37|[mollusc-labs/clark](https://github.com/mollusc-labs/clark)|Modern logging dashboard and REST API for syslog|8|2024-01-21|2023-03-17|
 |38|[csdvrx/hdisk](https://github.com/csdvrx/hdisk)|Programmatic hybrid partition editor and reader: hdisk makes GPT ♡ ❤ ♡ MBR|7|2024-01-20|2024-01-15|
-|39|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
-|40|[flaggx1/cracktrack](https://github.com/flaggx1/cracktrack)|Monitor hashcat potfile for statistics|7|2023-09-12|2023-09-10|
-|41|[jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv)|A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.|7|2023-09-11|2023-08-29|
-|42|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|7|2023-09-12|2023-03-30|
-|43|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
-|44|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|6|2023-11-14|2023-11-14|
-|45|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|6|2024-02-23|2023-10-24|
-|46|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|6|2024-01-16|2023-10-13|
+|39|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|7|2023-11-14|2023-11-14|
+|40|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|7|2024-01-16|2023-10-13|
+|41|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
+|42|[flaggx1/cracktrack](https://github.com/flaggx1/cracktrack)|Monitor hashcat potfile for statistics|7|2023-09-12|2023-09-10|
+|43|[jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv)|A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.|7|2023-09-11|2023-08-29|
+|44|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|7|2023-09-12|2023-03-30|
+|45|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
+|46|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|6|2024-02-23|2023-10-24|
 |47|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|6|2024-02-14|2023-09-24|
 |48|[lskatz/pdtk](https://github.com/lskatz/pdtk)|NCBI Pathogen Detection Portal toolkit|6|2023-09-06|2023-08-29|
 |49|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|6|2024-02-04|2023-08-07|
@@ -63,7 +63,7 @@
 |56|[rawleyfowler/Slick](https://github.com/rawleyfowler/Slick)|A Plack toolkit for web api's, web apps, and everything in-between.|5|2024-02-17|2023-07-28|
 |57|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
 |58|[dsenalik/Carrot_Genome_DH1_v3](https://github.com/dsenalik/Carrot_Genome_DH1_v3)|Program versions and custom scripts used for creating the carrot genome DCv3 (PRJNA285926)|5|2024-02-06|2023-05-17|
-|59|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-02-29|2023-03-12|
+|59|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-03-01|2023-03-12|
 |60|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2024-02-10|2023-03-12|
 |61|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
 |62|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|4|2023-12-15|2023-12-15|
@@ -79,7 +79,7 @@
 |72|[heetakchoi/bandopenapi](https://github.com/heetakchoi/bandopenapi)|-|4|2023-09-03|2023-08-14|
 |73|[smtiitm/Fastspeech2_MFA](https://github.com/smtiitm/Fastspeech2_MFA)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|4|2024-02-09|2023-08-11|
 |74|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|75|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-01-29|2023-06-15|
+|75|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|4|2024-03-01|2023-06-15|
 |76|[klugerama/webmin-dnsmasq](https://github.com/klugerama/webmin-dnsmasq)|A Webmin module for managing dnsmasq|4|2024-02-29|2023-04-12|
 |77|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|3|2024-02-28|2024-02-22|
 |78|[jyi2ya/mojo-pixel-war](https://github.com/jyi2ya/mojo-pixel-war)|A pixel war game built on the mojolicious framework.|3|2024-02-10|2024-02-10|
@@ -121,7 +121,7 @@
 |114|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |115|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |116|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|117|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-02-29|2023-12-09|
+|117|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-01|2023-12-09|
 |118|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |119|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-02-10|2023-12-01|
 |120|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
