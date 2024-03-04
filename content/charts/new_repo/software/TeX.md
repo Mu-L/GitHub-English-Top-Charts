@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|346|2024-03-02|2023-05-16|
-|2|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|339|2024-02-28|2023-07-06|
+|2|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|340|2024-02-28|2023-07-06|
 |3|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|153|2024-01-20|2023-10-13|
 |4|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|149|2024-01-29|2023-08-23|
 |5|[awesome-tnns/awesome-tnns](https://github.com/awesome-tnns/awesome-tnns)|-|138|2023-09-13|2023-04-15|
 |6|[cvpr-org/author-kit](https://github.com/cvpr-org/author-kit)|-|131|2024-02-19|2023-05-29|
 |7|[mwxely/AIGS](https://github.com/mwxely/AIGS)|AI-Generated Images as Data Source: The Dawn of Synthetic Era|125|2023-12-08|2023-07-05|
-|8|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |99|2024-02-17|2024-02-17|
+|8|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |100|2024-02-17|2024-02-17|
 |9|[0xPolygonHermez/zkevm-techdocs](https://github.com/0xPolygonHermez/zkevm-techdocs)|Technical documentation of the zkEVM|72|2024-02-22|2023-03-22|
 |10|[eellak/glossAPI](https://github.com/eellak/glossAPI)|Ground work for a Greek Open Source LLM -- Εργασίες θεμελίωσης ενός Ελληνικού LLM Ανοιχτού Κώδικα|71|2024-01-23|2023-06-28|
-|11|[universvm/obsidian-pandoc-templates](https://github.com/universvm/obsidian-pandoc-templates)|A repository for pandoc templates. Geared for Obsidian.|69|2024-02-10|2023-06-11|
-|12|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|68|2024-02-02|2023-08-10|
+|11|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|69|2024-02-02|2023-08-10|
+|12|[universvm/obsidian-pandoc-templates](https://github.com/universvm/obsidian-pandoc-templates)|A repository for pandoc templates. Geared for Obsidian.|69|2024-02-10|2023-06-11|
 |13|[peterdsharpe/NeuralFoil](https://github.com/peterdsharpe/NeuralFoil)|NeuralFoil is an airfoil aerodynamics analysis tool using physics-informed machine learning, in pure Python/NumPy.|50|2024-02-28|2023-07-02|
 |14|[NicholasMamo/adonis-template](https://github.com/NicholasMamo/adonis-template)|A simple, elegant LaTeX template with dark mode support|45|2023-11-05|2023-04-14|
 |15|[synlp/RRG-Review](https://github.com/synlp/RRG-Review)|The official GitHub repository of the survey paper "A Systematic Review of Deep Learning-based Research on Radiology Report Generation".|40|2024-02-29|2023-11-23|
@@ -25,26 +25,26 @@
 |18|[lucitone/thebestwaytocount](https://github.com/lucitone/thebestwaytocount)|script, footnotes, and other TeX files for the video essay "the best way to count"|38|2023-12-15|2023-11-25|
 |19|[matcom/dm](https://github.com/matcom/dm)|Notas de conferencias, ejercicios, y exámenes, de las asignaturas Matemática Discreta I y II|38|2024-02-27|2023-09-10|
 |20|[Slyces/resume](https://github.com/Slyces/resume)|Latex one page resume based on posquit0/Awesome-CV|38|2023-12-23|2023-06-22|
-|21|[JimmyHuang454/JLS](https://github.com/JimmyHuang454/JLS)|A TLS-like protocol.|37|2023-10-06|2023-06-12|
-|22|[MilesCranmer/pysr_paper](https://github.com/MilesCranmer/pysr_paper)|A paper describing the implementation of PySR and SymbolicRegression.jl|37|2024-02-05|2023-05-01|
-|23|[hyperlocal-manufacturing/towers](https://github.com/hyperlocal-manufacturing/towers)|Miniature, modular, indoor, hydroponic grow towers for home|36|2024-03-02|2023-11-25|
+|21|[hyperlocal-manufacturing/towers](https://github.com/hyperlocal-manufacturing/towers)|Miniature, modular, indoor, hydroponic grow towers for home|37|2024-03-03|2023-11-25|
+|22|[JimmyHuang454/JLS](https://github.com/JimmyHuang454/JLS)|A TLS-like protocol.|37|2023-10-06|2023-06-12|
+|23|[MilesCranmer/pysr_paper](https://github.com/MilesCranmer/pysr_paper)|A paper describing the implementation of PySR and SymbolicRegression.jl|37|2024-02-05|2023-05-01|
 |24|[eccv24/paper-template](https://github.com/eccv24/paper-template)|ECCV 2024 paper template|36|2024-02-11|2023-11-24|
 |25|[stanfordio/TeachingTrustSafety](https://github.com/stanfordio/TeachingTrustSafety)|Trust and Safety Teaching Consortium|36|2024-02-08|2023-05-20|
-|26|[stettberger/notebook](https://github.com/stettberger/notebook)|-|31|2024-02-27|2024-02-26|
-|27|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|31|2024-01-04|2023-10-03|
-|28|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|30|2024-03-02|2023-10-12|
+|26|[stettberger/notebook](https://github.com/stettberger/notebook)|-|32|2024-02-27|2024-02-26|
+|27|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|31|2024-03-02|2023-10-12|
+|28|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|31|2024-01-04|2023-10-03|
 |29|[jdingel/econ6905](https://github.com/jdingel/econ6905)|Econ 6905 "Topics in Trade" PhD class at Columbia University|29|2023-11-30|2023-08-10|
-|30|[thorfdbg/rkrm-dos](https://github.com/thorfdbg/rkrm-dos)|An RKRM-style reference of AmigaDOS/dos.library|25|2024-03-02|2023-08-13|
-|31|[CognitiveCodes/NeuralGPT](https://github.com/CognitiveCodes/NeuralGPT)|Personalized all-purpose AI assistance platform based on hierarchical cooperative multi-agent framework which utilizes websocket connectivity for LLM<->LLM communication|25|2024-02-18|2023-05-23|
-|32|[secureum/Secureum-Book](https://github.com/secureum/Secureum-Book)|-|24|2023-12-08|2023-11-13|
-|33|[mateuszbaransanok/BubbleCV](https://github.com/mateuszbaransanok/BubbleCV)|This is a professional CV template inspired by the legendary secret agent James Bond. BubbleCV is designed to effectively showcase your skills, work experience, education, and contact information in a ...|24|2023-10-06|2023-06-19|
-|34|[UChicago-pol-methods/plsc-40601-CI-ML](https://github.com/UChicago-pol-methods/plsc-40601-CI-ML)|Advanced Topics in Causal Inference PLSC 40601|24|2024-02-26|2023-03-20|
-|35|[zhikh23/iu7-lectures](https://github.com/zhikh23/iu7-lectures)|Конспекты лекций 1-го курса 2023 года МГТУ им. Н.Э.Баумана ИУ7 "Программная инженерия"|23|2024-02-29|2023-10-01|
-|36|[schochastics/modern2-cv](https://github.com/schochastics/modern2-cv)|A template to create CVs/Resumes with Quarto|23|2023-09-29|2023-07-17|
-|37|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|22|2024-01-02|2024-01-01|
-|38|[riskframe/ai-rmm](https://github.com/riskframe/ai-rmm)|AI Resilience Maturity Model|21|2024-03-01|2024-02-05|
-|39|[sapienzastudentsnetwork/algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324)|[A/L] Algebra [A.A. 2023-2024] Forum di scambio e confronto di soluzioni agli esercizi assegnati dal prof. Paolo Piazza |21|2024-01-11|2023-10-06|
-|40|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|20|2024-03-01|2024-02-29|
+|30|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|28|2024-03-01|2024-02-29|
+|31|[thorfdbg/rkrm-dos](https://github.com/thorfdbg/rkrm-dos)|An RKRM-style reference of AmigaDOS/dos.library|26|2024-03-03|2023-08-13|
+|32|[CognitiveCodes/NeuralGPT](https://github.com/CognitiveCodes/NeuralGPT)|Personalized all-purpose AI assistance platform based on hierarchical cooperative multi-agent framework which utilizes websocket connectivity for LLM<->LLM communication|25|2024-02-18|2023-05-23|
+|33|[secureum/Secureum-Book](https://github.com/secureum/Secureum-Book)|-|24|2023-12-08|2023-11-13|
+|34|[mateuszbaransanok/BubbleCV](https://github.com/mateuszbaransanok/BubbleCV)|This is a professional CV template inspired by the legendary secret agent James Bond. BubbleCV is designed to effectively showcase your skills, work experience, education, and contact information in a ...|24|2023-10-06|2023-06-19|
+|35|[UChicago-pol-methods/plsc-40601-CI-ML](https://github.com/UChicago-pol-methods/plsc-40601-CI-ML)|Advanced Topics in Causal Inference PLSC 40601|24|2024-02-26|2023-03-20|
+|36|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|23|2024-01-02|2024-01-01|
+|37|[zhikh23/iu7-lectures](https://github.com/zhikh23/iu7-lectures)|Конспекты лекций 1-го курса 2023 года МГТУ им. Н.Э.Баумана ИУ7 "Программная инженерия"|23|2024-03-02|2023-10-01|
+|38|[schochastics/modern2-cv](https://github.com/schochastics/modern2-cv)|A template to create CVs/Resumes with Quarto|23|2023-09-29|2023-07-17|
+|39|[riskframe/ai-rmm](https://github.com/riskframe/ai-rmm)|AI Resilience Maturity Model|21|2024-03-03|2024-02-05|
+|40|[sapienzastudentsnetwork/algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324)|[A/L] Algebra [A.A. 2023-2024] Forum di scambio e confronto di soluzioni agli esercizi assegnati dal prof. Paolo Piazza |21|2024-01-11|2023-10-06|
 |41|[ValeriiZhyla/cv](https://github.com/ValeriiZhyla/cv)|-|20|2024-02-25|2024-02-11|
 |42|[bunnech/phd_thesis](https://github.com/bunnech/phd_thesis)|PhD Thesis|20|2023-10-16|2023-05-25|
 |43|[cmu-ci-lab/writing](https://github.com/cmu-ci-lab/writing)|Writing suggestions and resources for CIRL|20|2023-10-26|2023-05-02|
@@ -113,7 +113,7 @@
 |106|[kymatio/ismir23-tutorial](https://github.com/kymatio/ismir23-tutorial)|Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing|9|2023-11-16|2023-11-04|
 |107|[xiamyphys/NoteBeamer](https://github.com/xiamyphys/NoteBeamer)|A note template imitated from Goodnotes APP (made by LaTeX).|9|2023-11-14|2023-10-22|
 |108|[sdx-workshop/sdx-submissions](https://github.com/sdx-workshop/sdx-submissions)|Sound Demixing Challenge Submission Repo|9|2024-02-02|2023-09-08|
-|109|[nguyenthanhvuh/phd-cs-us](https://github.com/nguyenthanhvuh/phd-cs-us)|This document helps demystify the PhD admission process in Computer Science in US universities. It is written mainly for International Students.|9|2024-03-02|2023-06-06|
+|109|[nguyenthanhvuh/phd-cs-us](https://github.com/nguyenthanhvuh/phd-cs-us)|This document helps demystify the PhD admission process in Computer Science in US universities. It is written mainly for International Students.|9|2024-03-03|2023-06-06|
 |110|[vgnshiyer/ASU-sparkysundevil-resume-template](https://github.com/vgnshiyer/ASU-sparkysundevil-resume-template)|ASU-sparkysundevil-resume-template|9|2024-01-21|2023-05-27|
 |111|[whutug/whu-proposal](https://github.com/whutug/whu-proposal)|LaTeX template for thesis proposal for students in Wuhan University|9|2023-09-26|2023-05-21|
 |112|[oresttokovenko/resume_templates](https://github.com/oresttokovenko/resume_templates)|Three resume templates, a cover letter and a references document written in LaTeX|9|2024-01-22|2023-04-25|
