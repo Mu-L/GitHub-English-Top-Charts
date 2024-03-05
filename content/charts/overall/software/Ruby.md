@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Ruby
-<sub>Updated: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[rails/rails](https://github.com/rails/rails)|Ruby on Rails|54557|2024-03-03|
+|1|[rails/rails](https://github.com/rails/rails)|Ruby on Rails|54601|2024-03-04|
 |2|[jekyll/jekyll](https://github.com/jekyll/jekyll)|:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby|47995|2024-03-03|
-|3|[mastodon/mastodon](https://github.com/mastodon/mastodon)|Your self-hosted, globally interconnected microblogging community|45541|2024-03-03|
-|4|[huginn/huginn](https://github.com/huginn/huginn)|Create agents that monitor and act on your behalf.  Your agents are standing by!|40690|2024-03-03|
-|5|[discourse/discourse](https://github.com/discourse/discourse)|A platform for community discussion. Free, open, simple.|39959|2024-03-03|
-|6|[Homebrew/brew](https://github.com/Homebrew/brew)|🍺 The missing package manager for macOS (or Linux)|38742|2024-03-03|
-|7|[fastlane/fastlane](https://github.com/fastlane/fastlane)|🚀 The easiest way to automate building and releasing your iOS and Android apps|38455|2024-03-03|
-|8|[freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)|API Documentation Browser|33535|2024-03-03|
-|9|[rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)|Metasploit Framework|32422|2024-03-03|
-|10|[hashicorp/vagrant](https://github.com/hashicorp/vagrant)|Vagrant is a tool for building and distributing development environments.|25708|2024-02-28|
-|11|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|25416|2024-03-02|
+|3|[mastodon/mastodon](https://github.com/mastodon/mastodon)|Your self-hosted, globally interconnected microblogging community|45540|2024-03-04|
+|4|[huginn/huginn](https://github.com/huginn/huginn)|Create agents that monitor and act on your behalf.  Your agents are standing by!|40695|2024-03-03|
+|5|[discourse/discourse](https://github.com/discourse/discourse)|A platform for community discussion. Free, open, simple.|39967|2024-03-04|
+|6|[Homebrew/brew](https://github.com/Homebrew/brew)|🍺 The missing package manager for macOS (or Linux)|38748|2024-03-04|
+|7|[fastlane/fastlane](https://github.com/fastlane/fastlane)|🚀 The easiest way to automate building and releasing your iOS and Android apps|38457|2024-03-03|
+|8|[freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)|API Documentation Browser|33540|2024-03-04|
+|9|[rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)|Metasploit Framework|32425|2024-03-04|
+|10|[hashicorp/vagrant](https://github.com/hashicorp/vagrant)|Vagrant is a tool for building and distributing development environments.|25709|2024-02-28|
+|11|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|25527|2024-03-04|
 |12|[heartcombo/devise](https://github.com/heartcombo/devise)|Flexible authentication solution for Rails with Warden.|23637|2024-02-22|
-|13|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|23534|2024-03-03|
-|14|[forem/forem](https://github.com/forem/forem)|For empowering community 🌱|21427|2024-03-01|
-|15|[ruby/ruby](https://github.com/ruby/ruby)|The Ruby Programming Language|21360|2024-03-03|
-|16|[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)|🍻 A CLI workflow for the administration of macOS applications distributed as binaries|20420|2024-03-03|
-|17|[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)|Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬|18054|2024-03-03|
-|18|[CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)|The Cocoa Dependency Manager.|14381|2024-02-14|
+|13|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|23536|2024-03-04|
+|14|[forem/forem](https://github.com/forem/forem)|For empowering community 🌱|21431|2024-03-04|
+|15|[ruby/ruby](https://github.com/ruby/ruby)|The Ruby Programming Language|21360|2024-03-04|
+|16|[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)|🍻 A CLI workflow for the administration of macOS applications distributed as binaries|20420|2024-03-04|
+|17|[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)|Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬|18064|2024-03-04|
+|18|[CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)|The Cocoa Dependency Manager.|14382|2024-02-14|
 |19|[mame/quine-relay](https://github.com/mame/quine-relay)|An uroboros program with 100+ programming languages|13700|2024-02-14|
-|20|[postalserver/postal](https://github.com/postalserver/postal)|✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail|13674|2024-03-03|
-|21|[gollum/gollum](https://github.com/gollum/gollum)|A simple, Git-powered wiki with a sweet API and local frontend.|13499|2024-02-23|
+|20|[postalserver/postal](https://github.com/postalserver/postal)|✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail|13674|2024-03-04|
+|21|[gollum/gollum](https://github.com/gollum/gollum)|A simple, Git-powered wiki with a sweet API and local frontend.|13498|2024-02-23|
 |22|[diaspora/diaspora](https://github.com/diaspora/diaspora)|A privacy-aware, distributed, open source social network.|13335|2024-02-11|
-|23|[Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)|🍻 Default formulae for the missing package manager for macOS (or Linux)|13092|2024-03-03|
-|24|[sidekiq/sidekiq](https://github.com/sidekiq/sidekiq)|Simple, efficient background processing for Ruby|12880|2024-03-01|
-|25|[capistrano/capistrano](https://github.com/capistrano/capistrano)|A deployment automation tool built on Ruby, Rake, and SSH.|12627|2024-03-01|
-|26|[spree/spree](https://github.com/spree/spree)|Open Source multi-language/multi-currency/multi-store eCommerce platform|12569|2024-03-03|
-|27|[fluent/fluentd](https://github.com/fluent/fluentd)|Fluentd: Unified Logging Layer (project under CNCF)|12440|2024-02-22|
-|28|[tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)|Manage complex tmux sessions easily|12311|2024-02-18|
-|29|[sinatra/sinatra](https://github.com/sinatra/sinatra)|Classy web-development dressed in a DSL (official / canonical repo)|12070|2024-01-19|
-|30|[github-linguist/linguist](https://github.com/github-linguist/linguist)|Language Savant. If your repository's language is being reported incorrectly, send us a pull request!|11635|2024-03-02|
-|31|[faker-ruby/faker](https://github.com/faker-ruby/faker)|A library for generating fake data such as names, addresses, and phone numbers.|11013|2024-02-29|
-|32|[jordansissel/fpm](https://github.com/jordansissel/fpm)|Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.|11003|2024-02-09|
-|33|[Shopify/liquid](https://github.com/Shopify/liquid)|Liquid markup language. Safe, customer facing template language for flexible web apps. |10707|2024-02-22|
-|34|[teamcapybara/capybara](https://github.com/teamcapybara/capybara)|Acceptance test framework for web applications|9932|2024-02-19|
+|23|[Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)|🍻 Default formulae for the missing package manager for macOS (or Linux)|13090|2024-03-04|
+|24|[sidekiq/sidekiq](https://github.com/sidekiq/sidekiq)|Simple, efficient background processing for Ruby|12882|2024-03-04|
+|25|[capistrano/capistrano](https://github.com/capistrano/capistrano)|A deployment automation tool built on Ruby, Rake, and SSH.|12629|2024-03-01|
+|26|[spree/spree](https://github.com/spree/spree)|Open Source multi-language/multi-currency/multi-store eCommerce platform|12571|2024-03-03|
+|27|[fluent/fluentd](https://github.com/fluent/fluentd)|Fluentd: Unified Logging Layer (project under CNCF)|12443|2024-02-22|
+|28|[tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)|Manage complex tmux sessions easily|12314|2024-02-18|
+|29|[sinatra/sinatra](https://github.com/sinatra/sinatra)|Classy web-development dressed in a DSL (official / canonical repo)|12071|2024-01-19|
+|30|[github-linguist/linguist](https://github.com/github-linguist/linguist)|Language Savant. If your repository's language is being reported incorrectly, send us a pull request!|11639|2024-03-04|
+|31|[faker-ruby/faker](https://github.com/faker-ruby/faker)|A library for generating fake data such as names, addresses, and phone numbers.|11014|2024-02-29|
+|32|[jordansissel/fpm](https://github.com/jordansissel/fpm)|Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.|11004|2024-02-09|
+|33|[Shopify/liquid](https://github.com/Shopify/liquid)|Liquid markup language. Safe, customer facing template language for flexible web apps. |10709|2024-02-22|
+|34|[teamcapybara/capybara](https://github.com/teamcapybara/capybara)|Acceptance test framework for web applications|9933|2024-02-19|
 |35|[ruby-grape/grape](https://github.com/ruby-grape/grape)|An opinionated framework for creating REST-like APIs in Ruby.|9820|2024-02-10|
-|36|[activeadmin/activeadmin](https://github.com/activeadmin/activeadmin)|The administration framework for Ruby on Rails applications.|9418|2024-03-03|
+|36|[activeadmin/activeadmin](https://github.com/activeadmin/activeadmin)|The administration framework for Ruby on Rails applications.|9418|2024-03-04|
 |37|[resque/resque](https://github.com/resque/resque)|Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.|9375|2023-12-05|
-|38|[thoughtbot/bourbon](https://github.com/thoughtbot/bourbon)|A Lightweight Sass Tool Set|9099|2024-02-21|
+|38|[thoughtbot/bourbon](https://github.com/thoughtbot/bourbon)|A Lightweight Sass Tool Set|9098|2024-02-21|
 |39|[javan/whenever](https://github.com/javan/whenever)|Cron jobs in Ruby|8778|2024-02-23|
 |40|[carrierwaveuploader/carrierwave](https://github.com/carrierwaveuploader/carrierwave)|Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks|8775|2024-03-02|
-|41|[basecamp/kamal](https://github.com/basecamp/kamal)|Deploy web apps anywhere.|8679|2024-03-01|
-|42|[kaminari/kaminari](https://github.com/kaminari/kaminari)|⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps|8486|2024-02-06|
-|43|[heartcombo/simple_form](https://github.com/heartcombo/simple_form)|Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.|8180|2024-02-14|
+|41|[basecamp/kamal](https://github.com/basecamp/kamal)|Deploy web apps anywhere.|8680|2024-03-04|
+|42|[kaminari/kaminari](https://github.com/kaminari/kaminari)|⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps|8487|2024-02-06|
+|43|[heartcombo/simple_form](https://github.com/heartcombo/simple_form)|Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.|8181|2024-02-14|
 |44|[wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)|WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com|8149|2023-12-18|
-|45|[varvet/pundit](https://github.com/varvet/pundit)|Minimal authorization through OO design and pure Ruby classes|8119|2024-03-01|
-|46|[opf/openproject](https://github.com/opf/openproject)|OpenProject is the leading open source project management software.|8014|2024-03-03|
+|45|[varvet/pundit](https://github.com/varvet/pundit)|Minimal authorization through OO design and pure Ruby classes|8121|2024-03-01|
+|46|[opf/openproject](https://github.com/opf/openproject)|OpenProject is the leading open source project management software.|8021|2024-03-04|
 |47|[thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot)|A library for setting up Ruby objects as test data.|7858|2024-02-20|
-|48|[railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin)|RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data|7838|2024-03-02|
+|48|[railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin)|RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data|7839|2024-03-02|
 |49|[omniauth/omniauth](https://github.com/omniauth/omniauth)|OmniAuth is a flexible authentication system utilizing Rack middleware.|7818|2024-01-10|
-|50|[puma/puma](https://github.com/puma/puma)|A Ruby/Rack web server built for parallelism|7560|2024-02-26|
-|51|[ankane/pghero](https://github.com/ankane/pghero)|A performance dashboard for Postgres|7502|2024-02-28|
-|52|[chef/chef](https://github.com/chef/chef)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|7419|2024-03-01|
-|53|[realm/jazzy](https://github.com/realm/jazzy)|Soulful docs for Swift & Objective-C|7305|2024-02-28|
-|54|[github/scientist](https://github.com/github/scientist)|:microscope: A Ruby library for carefully refactoring critical paths.|7305|2024-01-19|
+|50|[puma/puma](https://github.com/puma/puma)|A Ruby/Rack web server built for parallelism|7559|2024-02-26|
+|51|[ankane/pghero](https://github.com/ankane/pghero)|A performance dashboard for Postgres|7503|2024-02-28|
+|52|[chef/chef](https://github.com/chef/chef)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|7420|2024-03-04|
+|53|[realm/jazzy](https://github.com/realm/jazzy)|Soulful docs for Swift & Objective-C|7306|2024-02-28|
+|54|[github/scientist](https://github.com/github/scientist)|:microscope: A Ruby library for carefully refactoring critical paths.|7306|2024-01-19|
 |55|[github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)|Automatically generate change log from your tags, issues, labels and pull requests on GitHub.|7276|2024-03-01|
-|56|[puppetlabs/puppet](https://github.com/puppetlabs/puppet)|Server automation framework and application|7228|2024-03-03|
+|56|[puppetlabs/puppet](https://github.com/puppetlabs/puppet)|Server automation framework and application|7229|2024-03-04|
 |57|[middleman/middleman](https://github.com/middleman/middleman)|Hand-crafted frontend development|6996|2024-03-01|
-|58|[flyerhzm/bullet](https://github.com/flyerhzm/bullet)|help to kill N+1 queries and unused eager loading|6962|2024-01-18|
+|58|[flyerhzm/bullet](https://github.com/flyerhzm/bullet)|help to kill N+1 queries and unused eager loading|6963|2024-01-18|
 |59|[skwp/dotfiles](https://github.com/skwp/dotfiles)|YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen|6933|2023-10-08|
-|60|[presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)|A static analysis security vulnerability scanner for Ruby on Rails applications|6864|2024-02-05|
+|60|[presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)|A static analysis security vulnerability scanner for Ruby on Rails applications|6865|2024-02-05|
 |61|[BetterErrors/better_errors](https://github.com/BetterErrors/better_errors)|Better error page for Rack apps|6861|2024-02-28|
-|62|[pry/pry](https://github.com/pry/pry)|A runtime developer console and IRB alternative with powerful introspection capabilities.|6690|2024-02-25|
-|63|[paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)|Track changes to your rails models|6670|2024-01-27|
-|64|[kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat)|A truly monstrous async web chat using no JS whatsoever on the frontend|6541|2023-09-08|
+|62|[pry/pry](https://github.com/pry/pry)|A runtime developer console and IRB alternative with powerful introspection capabilities.|6692|2024-02-25|
+|63|[paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)|Track changes to your rails models|6673|2024-01-27|
+|64|[kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat)|A truly monstrous async web chat using no JS whatsoever on the frontend|6540|2023-09-08|
 |65|[bkeepers/dotenv](https://github.com/bkeepers/dotenv)|A Ruby gem to load environment variables from `.env`. |6465|2024-02-27|
-|66|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6364|2024-02-21|
-|67|[community/community](https://github.com/community/community)|Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!|6288|2024-03-02|
+|66|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6365|2024-02-21|
+|67|[community/community](https://github.com/community/community)|Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!|6290|2024-03-02|
 |68|[alexreisner/geocoder](https://github.com/alexreisner/geocoder)|Complete Ruby geocoding solution.|6263|2024-02-17|
-|69|[ankane/chartkick](https://github.com/ankane/chartkick)|Create beautiful JavaScript charts with one line of Ruby|6231|2024-02-29|
+|69|[ankane/chartkick](https://github.com/ankane/chartkick)|Create beautiful JavaScript charts with one line of Ruby|6232|2024-02-29|
 |70|[guard/guard](https://github.com/guard/guard)|Guard is a command line tool to easily handle events on file system modifications.|6224|2023-09-12|
-|71|[sj26/mailcatcher](https://github.com/sj26/mailcatcher)|Catches mail and serves it through a dream.|6157|2024-01-16|
-|72|[hanami/hanami](https://github.com/hanami/hanami)|The web, with simplicity.|6153|2024-03-02|
-|73|[norman/friendly_id](https://github.com/norman/friendly_id)|FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for A ...|6085|2024-01-19|
-|74|[ddollar/foreman](https://github.com/ddollar/foreman)|Manage Procfile-based applications|5948|2024-02-08|
-|75|[github/markup](https://github.com/github/markup)|Determines which markup library to use to render a content file (e.g. README) on GitHub|5751|2024-03-01|
+|71|[sj26/mailcatcher](https://github.com/sj26/mailcatcher)|Catches mail and serves it through a dream.|6156|2024-01-16|
+|72|[hanami/hanami](https://github.com/hanami/hanami)|The web, with simplicity.|6152|2024-03-02|
+|73|[norman/friendly_id](https://github.com/norman/friendly_id)|FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for A ...|6086|2024-01-19|
+|74|[ddollar/foreman](https://github.com/ddollar/foreman)|Manage Procfile-based applications|5950|2024-02-08|
+|75|[github/markup](https://github.com/github/markup)|Determines which markup library to use to render a content file (e.g. README) on GitHub|5754|2024-03-01|
 |76|[jnunemaker/httparty](https://github.com/jnunemaker/httparty)|:tada: Makes http fun again!|5736|2024-02-17|
-|77|[vcr/vcr](https://github.com/vcr/vcr)|Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.|5724|2024-02-21|
+|77|[vcr/vcr](https://github.com/vcr/vcr)|Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.|5725|2024-02-21|
 |78|[mislav/will_paginate](https://github.com/mislav/will_paginate)|Pagination library for Rails and other Ruby applications|5699|2024-01-05|
 |79|[fastruby/fast-ruby](https://github.com/fastruby/fast-ruby)|:dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.|5633|2023-12-11|
 |80|[lostisland/faraday](https://github.com/lostisland/faraday)|Simple, but flexible HTTP client library, with support for multiple backends.|5625|2024-01-21|
-|81|[activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack)|Object-based searching. |5558|2024-02-14|
-|82|[CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan)|The authorization Gem for Ruby on Rails.|5480|2023-12-13|
-|83|[rack/rack-attack](https://github.com/rack/rack-attack)|Rack middleware for blocking & throttling|5452|2024-01-23|
+|81|[activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack)|Object-based searching. |5558|2024-03-04|
+|82|[CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan)|The authorization Gem for Ruby on Rails.|5482|2023-12-13|
+|83|[rack/rack-attack](https://github.com/rack/rack-attack)|Rack middleware for blocking & throttling|5452|2024-03-04|
 |84|[sferik/t-ruby](https://github.com/sferik/t-ruby)|A command-line power tool for Twitter.|5423|2023-09-14|
-|85|[rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby)|Ruby implementation of GraphQL |5323|2024-03-01|
-|86|[danger/danger](https://github.com/danger/danger)|🚫 Stop saying "you forgot to …" in code review (in Ruby)|5317|2024-02-12|
-|87|[rails/webpacker](https://github.com/rails/webpacker)|Use Webpack to manage app-like JavaScript modules in Rails|5314|2024-02-29|
-|88|[rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers)|ActiveModel::Serializer implementation and Rails hooks|5310|2024-02-21|
-|89|[slim-template/slim](https://github.com/slim-template/slim)|Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.|5257|2024-02-28|
+|85|[rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby)|Ruby implementation of GraphQL |5323|2024-03-04|
+|86|[danger/danger](https://github.com/danger/danger)|🚫 Stop saying "you forgot to …" in code review (in Ruby)|5316|2024-02-12|
+|87|[rails/webpacker](https://github.com/rails/webpacker)|Use Webpack to manage app-like JavaScript modules in Rails|5313|2024-02-29|
+|88|[rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers)|ActiveModel::Serializer implementation and Rails hooks|5309|2024-02-21|
+|89|[slim-template/slim](https://github.com/slim-template/slim)|Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.|5259|2024-02-28|
 |90|[doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)|Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.|5238|2024-02-24|
-|91|[instructure/canvas-lms](https://github.com/instructure/canvas-lms)|The open LMS by Instructure, Inc.|5225|2024-03-02|
+|91|[instructure/canvas-lms](https://github.com/instructure/canvas-lms)|The open LMS by Instructure, Inc.|5227|2024-03-04|
 |92|[drapergem/draper](https://github.com/drapergem/draper)|Decorators/View-Models for Rails Applications|5196|2024-02-06|
 |93|[formtastic/formtastic](https://github.com/formtastic/formtastic)|A Rails form builder plugin with semantically rich and accessible markup.|5193|2024-02-22|
-|94|[cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby)|Cucumber for Ruby. It's amazing!|5155|2024-02-20|
+|94|[cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby)|Cucumber for Ruby. It's amazing!|5155|2024-03-04|
 |95|[rspec/rspec-rails](https://github.com/rspec/rspec-rails)|RSpec for Rails 6+|5086|2024-02-26|
 |96|[rails/thor](https://github.com/rails/thor)|Thor is a toolkit for building powerful command-line interfaces.|5065|2024-02-29|
-|97|[redmine/redmine](https://github.com/redmine/redmine)|Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp|5063|2024-02-27|
+|97|[redmine/redmine](https://github.com/redmine/redmine)|Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp|5064|2024-03-04|
 |98|[shakacode/react_on_rails](https://github.com/shakacode/react_on_rails)|Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React, enabling a better developer experience and faster client performance.|5026|2024-02-09|
-|99|[urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Next generation web scanner|5023|2024-01-08|
-|100|[hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)|Download an entire website from the Wayback Machine.|4962|2024-02-08|
-|101|[mbleigh/acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on)|A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.|4942|2024-02-29|
-|102|[aasm/aasm](https://github.com/aasm/aasm)|AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)|4922|2024-03-01|
-|103|[jeremyevans/sequel](https://github.com/jeremyevans/sequel)|Sequel: The Database Toolkit for Ruby|4878|2024-03-01|
-|104|[solidusio/solidus](https://github.com/solidusio/solidus)|🛒 Solidus, the open-source eCommerce framework for industry trailblazers.|4867|2024-03-02|
+|99|[urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Next generation web scanner|5024|2024-01-08|
+|100|[hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)|Download an entire website from the Wayback Machine.|4961|2024-02-08|
+|101|[mbleigh/acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on)|A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.|4943|2024-02-29|
+|102|[aasm/aasm](https://github.com/aasm/aasm)|AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)|4923|2024-03-01|
+|103|[jeremyevans/sequel](https://github.com/jeremyevans/sequel)|Sequel: The Database Toolkit for Ruby|4879|2024-03-01|
+|104|[solidusio/solidus](https://github.com/solidusio/solidus)|🛒 Solidus, the open-source eCommerce framework for industry trailblazers.|4868|2024-03-02|
 |105|[backup/backup](https://github.com/backup/backup)|Easy full stack backup operations on UNIX-like systems.|4811|2024-02-27|
 |106|[rack/rack](https://github.com/rack/rack)|A modular Ruby web server interface.|4803|2024-02-29|
-|107|[Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)|📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.|4797|2024-03-01|
+|107|[Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)|📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.|4799|2024-03-04|
 |108|[opal/opal](https://github.com/opal/opal)|Ruby ♥︎ JavaScript|4793|2024-02-22|
-|109|[docusealco/docuseal](https://github.com/docusealco/docuseal)|Open source DocuSign alternative. Create, fill, and sign digital documents ✍️|4764|2024-02-25|
-|110|[athityakumar/colorls](https://github.com/athityakumar/colorls)|A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:|4730|2023-10-29|
+|109|[docusealco/docuseal](https://github.com/docusealco/docuseal)|Open source DocuSign alternative. Create, fill, and sign digital documents ✍️|4768|2024-03-03|
+|110|[athityakumar/colorls](https://github.com/athityakumar/colorls)|A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:|4731|2023-10-29|
 |111|[simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)|Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites|4697|2024-02-07|
 |112|[lolcommits/lolcommits](https://github.com/lolcommits/lolcommits)|:camera: git-based selfies for software developers|4633|2024-01-15|
 |113|[sferik/twitter-ruby](https://github.com/sferik/twitter-ruby)|A Ruby interface to the Twitter API.|4588|2023-10-15|
-|114|[prawnpdf/prawn](https://github.com/prawnpdf/prawn)|Fast, Nimble PDF Writer for Ruby|4569|2024-03-03|
-|115|[activemerchant/active_merchant](https://github.com/activemerchant/active_merchant)|Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to  ...|4493|2024-03-01|
-|116|[ddnexus/pagy](https://github.com/ddnexus/pagy)|🏆 The Best Pagination Ruby Gem 🥇|4356|2024-03-02|
-|117|[sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)|Mechanize is a ruby library that makes automated web interaction easy.|4342|2024-02-21|
-|118|[SteveLTN/https-portal](https://github.com/SteveLTN/https-portal)|A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.|4334|2024-01-17|
+|114|[prawnpdf/prawn](https://github.com/prawnpdf/prawn)|Fast, Nimble PDF Writer for Ruby|4569|2024-03-04|
+|115|[activemerchant/active_merchant](https://github.com/activemerchant/active_merchant)|Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to  ...|4494|2024-03-04|
+|116|[ddnexus/pagy](https://github.com/ddnexus/pagy)|🏆 The Best Pagination Ruby Gem 🥇|4358|2024-03-04|
+|117|[sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)|Mechanize is a ruby library that makes automated web interaction easy.|4343|2024-02-21|
+|118|[SteveLTN/https-portal](https://github.com/SteveLTN/https-portal)|A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.|4335|2024-01-17|
 |119|[github/gemoji](https://github.com/github/gemoji)|Emoji images and names.|4326|2024-02-24|
 |120|[binarylogic/authlogic](https://github.com/binarylogic/authlogic)|A simple ruby authentication solution.|4326|2023-12-17|
 |121|[mina-deploy/mina](https://github.com/mina-deploy/mina)|Blazing fast deployer and server automation tool|4317|2024-01-25|
 |122|[fog/fog](https://github.com/fog/fog)|The Ruby cloud services library.|4316|2024-02-26|
 |123|[ctran/annotate_models](https://github.com/ctran/annotate_models)|Annotate Rails classes with schema and routes info|4307|2024-02-22|
-|124|[octobox/octobox](https://github.com/octobox/octobox)|📮 Untangle your GitHub Notifications|4294|2024-03-02|
+|124|[octobox/octobox](https://github.com/octobox/octobox)|📮 Untangle your GitHub Notifications|4292|2024-03-03|
 |125|[rails/jbuilder](https://github.com/rails/jbuilder)|Jbuilder: generate JSON objects with a Builder-style DSL|4287|2024-02-08|
-|126|[ankane/blazer](https://github.com/ankane/blazer)|Business intelligence made simple|4257|2024-01-30|
+|126|[ankane/blazer](https://github.com/ankane/blazer)|Business intelligence made simple|4263|2024-01-30|
 |127|[errbit/errbit](https://github.com/errbit/errbit)|The open source error catcher that's Airbrake API compliant|4225|2024-01-26|
-|128|[github/explore](https://github.com/github/explore)|Community-curated topic and collection pages on GitHub|4093|2024-03-03|
-|129|[grosser/parallel](https://github.com/grosser/parallel)|Ruby: parallel processing made simple and fast|4089|2024-02-16|
-|130|[Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm)|The ultimate WinRM shell for hacking/pentesting|4076|2024-02-28|
+|128|[github/explore](https://github.com/github/explore)|Community-curated topic and collection pages on GitHub|4094|2024-03-03|
+|129|[grosser/parallel](https://github.com/grosser/parallel)|Ruby: parallel processing made simple and fast|4090|2024-02-16|
+|130|[Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm)|The ultimate WinRM shell for hacking/pentesting|4078|2024-02-28|
 |131|[typhoeus/typhoeus](https://github.com/typhoeus/typhoeus)| Typhoeus wraps libcurl in order to make fast and reliable requests.|4054|2023-11-17|
-|132|[ankane/ahoy](https://github.com/ankane/ahoy)|Simple, powerful, first-party analytics for Rails|4030|2024-01-23|
-|133|[zammad/zammad](https://github.com/zammad/zammad)|Zammad is a web based open source helpdesk/customer support system|3975|2024-03-01|
-|134|[troessner/reek](https://github.com/troessner/reek)|Code smell detector for Ruby|3959|2024-03-03|
+|132|[ankane/ahoy](https://github.com/ankane/ahoy)|Simple, powerful, first-party analytics for Rails|4032|2024-01-23|
+|133|[zammad/zammad](https://github.com/zammad/zammad)|Zammad is a web based open source helpdesk/customer support system|3977|2024-03-04|
+|134|[troessner/reek](https://github.com/troessner/reek)|Code smell detector for Ruby|3960|2024-03-03|
 |135|[thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)|A Rails template with our standard defaults, ready to deploy to Heroku.|3956|2024-03-01|
-|136|[zdennis/activerecord-import](https://github.com/zdennis/activerecord-import)|A library for bulk insertion of data into your database using ActiveRecord.|3953|2024-03-01|
-|137|[svenfuchs/rails-i18n](https://github.com/svenfuchs/rails-i18n)|Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff|3942|2024-02-28|
+|136|[zdennis/activerecord-import](https://github.com/zdennis/activerecord-import)|A library for bulk insertion of data into your database using ActiveRecord.|3954|2024-03-01|
+|137|[svenfuchs/rails-i18n](https://github.com/svenfuchs/rails-i18n)|Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff|3940|2024-02-28|
 |138|[redis/redis-rb](https://github.com/redis/redis-rb)|A Ruby client library for Redis|3937|2024-02-21|
 |139|[voormedia/rails-erd](https://github.com/voormedia/rails-erd)|Generate Entity-Relationship Diagrams for Rails applications|3929|2023-10-12|
-|140|[mongodb/mongoid](https://github.com/mongodb/mongoid)|The Official Ruby Object Mapper for MongoDB|3917|2024-02-29|
-|141|[lobsters/lobsters](https://github.com/lobsters/lobsters)|Computing-focused community centered around link aggregation and discussion|3897|2024-03-01|
+|140|[mongodb/mongoid](https://github.com/mongodb/mongoid)|The Official Ruby Object Mapper for MongoDB|3917|2024-03-04|
+|141|[lobsters/lobsters](https://github.com/lobsters/lobsters)|Computing-focused community centered around link aggregation and discussion|3899|2024-03-04|
 |142|[xcpretty/xcpretty](https://github.com/xcpretty/xcpretty)|Flexible and fast xcodebuild formatter|3886|2024-02-27|
 |143|[bblimke/webmock](https://github.com/bblimke/webmock)|Library for stubbing and setting expectations on HTTP requests in Ruby.|3881|2024-02-25|
-|144|[red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)|A command line tool that draw plots on the terminal.|3866|2024-02-10|
+|144|[red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)|A command line tool that draw plots on the terminal.|3869|2024-02-10|
 |145|[sds/overcommit](https://github.com/sds/overcommit)|A fully configurable and extendable Git hook manager|3858|2024-02-25|
 |146|[dejan/rails_panel](https://github.com/dejan/rails_panel)|Chrome extension for Rails development|3825|2023-10-16|
-|147|[octokit/octokit.rb](https://github.com/octokit/octokit.rb)|Ruby toolkit for the GitHub API|3805|2024-02-29|
-|148|[dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)|🤖 Dependabot's core logic for creating update PR's.|3787|2024-03-03|
-|149|[ankane/strong_migrations](https://github.com/ankane/strong_migrations)|Catch unsafe migrations in development|3779|2024-02-28|
-|150|[stringer-rss/stringer](https://github.com/stringer-rss/stringer)|A self-hosted, anti-social RSS reader.|3766|2024-02-29|
-|151|[laserlemon/figaro](https://github.com/laserlemon/figaro)|Simple Rails app configuration|3763|2023-10-10|
-|152|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3746|2024-03-02|
-|153|[jruby/jruby](https://github.com/jruby/jruby)|JRuby, an implementation of Ruby on the JVM|3744|2024-03-03|
+|147|[octokit/octokit.rb](https://github.com/octokit/octokit.rb)|Ruby toolkit for the GitHub API|3806|2024-02-29|
+|148|[dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)|🤖 Dependabot's core logic for creating update PR's.|3793|2024-03-04|
+|149|[ankane/strong_migrations](https://github.com/ankane/strong_migrations)|Catch unsafe migrations in development|3780|2024-02-28|
+|150|[stringer-rss/stringer](https://github.com/stringer-rss/stringer)|A self-hosted, anti-social RSS reader.|3765|2024-03-04|
+|151|[laserlemon/figaro](https://github.com/laserlemon/figaro)|Simple Rails app configuration|3764|2023-10-10|
+|152|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3745|2024-03-02|
+|153|[jruby/jruby](https://github.com/jruby/jruby)|JRuby, an implementation of Ruby on the JVM|3743|2024-03-03|
 |154|[haml/haml](https://github.com/haml/haml)|HTML Abstraction Markup Language - A Markup Haiku|3741|2024-01-03|
-|155|[fnando/i18n-js](https://github.com/fnando/i18n-js)|It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.|3730|2024-03-01|
-|156|[ankane/groupdate](https://github.com/ankane/groupdate)|The simplest way to group temporal data|3690|2023-12-26|
-|157|[stefankroes/ancestry](https://github.com/stefankroes/ancestry)|Organise ActiveRecord model into a tree structure|3656|2024-02-29|
-|158|[thoughtbot/clearance](https://github.com/thoughtbot/clearance)|Rails authentication with email & password.|3652|2024-01-15|
-|159|[ryanb/letter_opener](https://github.com/ryanb/letter_opener)|Preview mail in the browser instead of sending.|3650|2024-02-13|
-|160|[sds/scss-lint](https://github.com/sds/scss-lint)|Configurable tool for writing clean, consistent SCSS|3631|2024-01-16|
-|161|[MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)|Profiler for your development and production Ruby rack apps. |3629|2024-02-15|
-|162|[hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)|⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting|3593|2024-02-05|
-|163|[mikel/mail](https://github.com/mikel/mail)|A Really Ruby Mail Library|3569|2024-02-29|
-|164|[jwt/ruby-jwt](https://github.com/jwt/ruby-jwt)|A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.|3545|2024-02-29|
-|165|[rubygems/rubygems](https://github.com/rubygems/rubygems)|Library packaging and distribution for Ruby.|3517|2024-03-01|
-|166|[fatfreecrm/fat_free_crm](https://github.com/fatfreecrm/fat_free_crm)|Ruby on Rails CRM platform|3514|2024-03-01|
-|167|[flippercloud/flipper](https://github.com/flippercloud/flipper)|🐬 Beautiful, performant feature flags for Ruby.|3510|2024-03-02|
-|168|[sorbet/sorbet](https://github.com/sorbet/sorbet)|A fast, powerful type checker designed for Ruby|3509|2024-03-01|
-|169|[mileszs/wicked_pdf](https://github.com/mileszs/wicked_pdf)|PDF generator (from HTML) plugin for Ruby on Rails|3509|2024-02-27|
-|170|[iberianpig/fusuma](https://github.com/iberianpig/fusuma)|Multitouch gestures with libinput driver on Linux|3504|2024-01-29|
-|171|[github/choosealicense.com](https://github.com/github/choosealicense.com)|A site to provide non-judgmental guidance on choosing a license for your open source project|3501|2024-02-20|
-|172|[lynndylanhurley/devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)|Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.|3497|2024-02-01|
-|173|[aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)|The official AWS SDK for Ruby.|3496|2024-03-01|
-|174|[thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)|Simple one-liner tests for common Rails functionality|3461|2024-02-27|
-|175|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3396|2024-03-03|
-|176|[roidrage/lograge](https://github.com/roidrage/lograge)|An attempt to tame Rails' default policy to log everything.|3383|2024-01-24|
-|177|[trailblazer/trailblazer](https://github.com/trailblazer/trailblazer)|The advanced business logic framework for Ruby.|3378|2023-12-18|
-|178|[TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject)|Main Website for The Odin Project|3364|2024-03-03|
-|179|[feedbin/feedbin](https://github.com/feedbin/feedbin)|A nice place to read on the web.|3360|2024-02-26|
-|180|[padrino/padrino-framework](https://github.com/padrino/padrino-framework)|Padrino is a full-stack ruby framework built upon Sinatra. |3358|2024-01-25|
-|181|[grosser/parallel_tests](https://github.com/grosser/parallel_tests)|Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber|3328|2024-03-01|
-|182|[travisjeffery/timecop](https://github.com/travisjeffery/timecop)|A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT ...|3323|2023-12-29|
-|183|[deivid-rodriguez/byebug](https://github.com/deivid-rodriguez/byebug)|Debugging in Ruby 2|3317|2023-11-28|
-|184|[in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation)|Animation of the SHA-256 hash function in your terminal.|3307|2023-10-06|
-|185|[scenic-views/scenic](https://github.com/scenic-views/scenic)|Versioned database views for Rails|3304|2024-02-28|
-|186|[collectiveidea/interactor](https://github.com/collectiveidea/interactor)|Interactor provides a common interface for performing complex user interactions.|3304|2024-02-28|
-|187|[collectiveidea/audited](https://github.com/collectiveidea/audited)|Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.|3294|2024-02-27|
-|188|[railsbridge/docs](https://github.com/railsbridge/docs)|Curriculum for RailsBridge workshops|3289|2023-11-03|
-|189|[rouge-ruby/rouge](https://github.com/rouge-ruby/rouge)|A pure Ruby code highlighter that is compatible with Pygments|3271|2024-02-21|
-|190|[whitesmith/rubycritic](https://github.com/whitesmith/rubycritic)|A Ruby code quality reporter|3269|2024-03-02|
-|191|[minitest/minitest](https://github.com/minitest/minitest)|minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.|3225|2024-02-26|
-|192|[krisleech/wisper](https://github.com/krisleech/wisper)|A micro library providing Ruby objects with Publish-Subscribe capabilities|3221|2023-12-17|
-|193|[mojombo/chronic](https://github.com/mojombo/chronic)|Chronic is a pure Ruby natural language date parser.|3221|2023-09-28|
-|194|[thoughtbot/high_voltage](https://github.com/thoughtbot/high_voltage)|Easily include static pages in your Rails app.|3156|2024-02-12|
-|195|[RolifyCommunity/rolify](https://github.com/RolifyCommunity/rolify)|Role management library with resource scoping|3138|2023-10-18|
-|196|[citation-style-language/styles](https://github.com/citation-style-language/styles)|Official repository for Citation Style Language (CSL) citation styles.|3133|2024-03-03|
-|197|[shrinerb/shrine](https://github.com/shrinerb/shrine)|File Attachment toolkit for Ruby applications|3132|2024-01-22|
-|198|[github/secure_headers](https://github.com/github/secure_headers)|Manages application of security headers with many safe defaults|3118|2023-09-04|
-|199|[ViewComponent/view_component](https://github.com/ViewComponent/view_component)|A framework for building reusable, testable & encapsulated view components in Ruby on Rails.|3109|2024-03-01|
-|200|[petergoldstein/dalli](https://github.com/petergoldstein/dalli)|High performance memcached client for Ruby|3084|2024-02-12|
+|155|[pluginaweek/state_machine](https://github.com/pluginaweek/state_machine)|Adds support for creating state machines for attributes on any Ruby class|3740|2024-03-04|
+|156|[fnando/i18n-js](https://github.com/fnando/i18n-js)|It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.|3731|2024-03-01|
+|157|[ankane/groupdate](https://github.com/ankane/groupdate)|The simplest way to group temporal data|3691|2023-12-26|
+|158|[stefankroes/ancestry](https://github.com/stefankroes/ancestry)|Organise ActiveRecord model into a tree structure|3656|2024-02-29|
+|159|[thoughtbot/clearance](https://github.com/thoughtbot/clearance)|Rails authentication with email & password.|3652|2024-01-15|
+|160|[ryanb/letter_opener](https://github.com/ryanb/letter_opener)|Preview mail in the browser instead of sending.|3650|2024-02-13|
+|161|[sds/scss-lint](https://github.com/sds/scss-lint)|Configurable tool for writing clean, consistent SCSS|3631|2024-01-16|
+|162|[MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)|Profiler for your development and production Ruby rack apps. |3628|2024-02-15|
+|163|[hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)|⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting|3593|2024-02-05|
+|164|[mikel/mail](https://github.com/mikel/mail)|A Really Ruby Mail Library|3569|2024-02-29|
+|165|[jwt/ruby-jwt](https://github.com/jwt/ruby-jwt)|A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.|3545|2024-02-29|
+|166|[rubygems/rubygems](https://github.com/rubygems/rubygems)|Library packaging and distribution for Ruby.|3518|2024-03-04|
+|167|[fatfreecrm/fat_free_crm](https://github.com/fatfreecrm/fat_free_crm)|Ruby on Rails CRM platform|3514|2024-03-04|
+|168|[flippercloud/flipper](https://github.com/flippercloud/flipper)|🐬 Beautiful, performant feature flags for Ruby.|3513|2024-03-04|
+|169|[sorbet/sorbet](https://github.com/sorbet/sorbet)|A fast, powerful type checker designed for Ruby|3509|2024-03-04|
+|170|[mileszs/wicked_pdf](https://github.com/mileszs/wicked_pdf)|PDF generator (from HTML) plugin for Ruby on Rails|3509|2024-02-27|
+|171|[iberianpig/fusuma](https://github.com/iberianpig/fusuma)|Multitouch gestures with libinput driver on Linux|3508|2024-01-29|
+|172|[github/choosealicense.com](https://github.com/github/choosealicense.com)|A site to provide non-judgmental guidance on choosing a license for your open source project|3505|2024-03-04|
+|173|[lynndylanhurley/devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)|Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.|3496|2024-02-01|
+|174|[aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)|The official AWS SDK for Ruby.|3496|2024-03-04|
+|175|[thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)|Simple one-liner tests for common Rails functionality|3461|2024-02-27|
+|176|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|2024-03-04|
+|177|[roidrage/lograge](https://github.com/roidrage/lograge)|An attempt to tame Rails' default policy to log everything.|3384|2024-01-24|
+|178|[trailblazer/trailblazer](https://github.com/trailblazer/trailblazer)|The advanced business logic framework for Ruby.|3378|2023-12-18|
+|179|[TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject)|Main Website for The Odin Project|3366|2024-03-04|
+|180|[feedbin/feedbin](https://github.com/feedbin/feedbin)|A nice place to read on the web.|3360|2024-03-04|
+|181|[padrino/padrino-framework](https://github.com/padrino/padrino-framework)|Padrino is a full-stack ruby framework built upon Sinatra. |3358|2024-01-25|
+|182|[grosser/parallel_tests](https://github.com/grosser/parallel_tests)|Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber|3329|2024-03-01|
+|183|[travisjeffery/timecop](https://github.com/travisjeffery/timecop)|A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT ...|3324|2023-12-29|
+|184|[deivid-rodriguez/byebug](https://github.com/deivid-rodriguez/byebug)|Debugging in Ruby 2|3318|2023-11-28|
+|185|[in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation)|Animation of the SHA-256 hash function in your terminal.|3307|2023-10-06|
+|186|[scenic-views/scenic](https://github.com/scenic-views/scenic)|Versioned database views for Rails|3304|2024-02-28|
+|187|[collectiveidea/interactor](https://github.com/collectiveidea/interactor)|Interactor provides a common interface for performing complex user interactions.|3304|2024-02-28|
+|188|[collectiveidea/audited](https://github.com/collectiveidea/audited)|Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.|3295|2024-02-27|
+|189|[railsbridge/docs](https://github.com/railsbridge/docs)|Curriculum for RailsBridge workshops|3290|2023-11-03|
+|190|[rouge-ruby/rouge](https://github.com/rouge-ruby/rouge)|A pure Ruby code highlighter that is compatible with Pygments|3272|2024-03-03|
+|191|[whitesmith/rubycritic](https://github.com/whitesmith/rubycritic)|A Ruby code quality reporter|3270|2024-03-02|
+|192|[minitest/minitest](https://github.com/minitest/minitest)|minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.|3226|2024-02-26|
+|193|[krisleech/wisper](https://github.com/krisleech/wisper)|A micro library providing Ruby objects with Publish-Subscribe capabilities|3221|2023-12-17|
+|194|[mojombo/chronic](https://github.com/mojombo/chronic)|Chronic is a pure Ruby natural language date parser.|3221|2023-09-28|
+|195|[thoughtbot/high_voltage](https://github.com/thoughtbot/high_voltage)|Easily include static pages in your Rails app.|3156|2024-02-12|
+|196|[RolifyCommunity/rolify](https://github.com/RolifyCommunity/rolify)|Role management library with resource scoping|3139|2023-10-18|
+|197|[citation-style-language/styles](https://github.com/citation-style-language/styles)|Official repository for Citation Style Language (CSL) citation styles.|3133|2024-03-04|
+|198|[shrinerb/shrine](https://github.com/shrinerb/shrine)|File Attachment toolkit for Ruby applications|3132|2024-01-22|
+|199|[github/secure_headers](https://github.com/github/secure_headers)|Manages application of security headers with many safe defaults|3117|2023-09-04|
+|200|[ViewComponent/view_component](https://github.com/ViewComponent/view_component)|A framework for building reusable, testable & encapsulated view components in Ruby on Rails.|3110|2024-03-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
