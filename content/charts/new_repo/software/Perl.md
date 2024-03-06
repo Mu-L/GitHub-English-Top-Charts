@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|165|2024-01-16|2024-01-11|
 |2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|140|2024-03-01|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|112|2024-03-03|2023-05-25|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|112|2024-03-05|2023-05-25|
 |4|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|52|2024-01-24|2024-01-23|
 |5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|39|2024-02-28|2023-05-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
@@ -21,16 +21,16 @@
 |14|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-02-07|2023-09-21|
 |15|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|14|2024-02-22|2024-02-12|
 |16|[DerekPascarella/CoolCoolToon-EnglishPatchDreamcast](https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Cool Cool Toon".|14|2023-12-15|2023-04-07|
-|17|[rphlo/rusty-pullauta](https://github.com/rphlo/rusty-pullauta)|A fast and accurate map generator from classified LiDAR data.|14|2024-03-02|2023-03-10|
+|17|[rphlo/rusty-pullauta](https://github.com/rphlo/rusty-pullauta)|A fast and accurate map generator from classified LiDAR data.|14|2024-03-05|2023-03-10|
 |18|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|13|2024-02-14|2024-01-26|
 |19|[kashifmunir92/SemiSRL](https://github.com/kashifmunir92/SemiSRL)|-|12|2024-01-17|2024-01-17|
-|20|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|11|2024-03-04|2024-02-17|
+|20|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|11|2024-03-05|2024-02-17|
 |21|[angelotheman/developer-system-config](https://github.com/angelotheman/developer-system-config)|-|11|2024-01-03|2024-01-01|
 |22|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|11|2023-09-17|2023-08-08|
 |23|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
-|24|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
-|25|[caasivfbioinfo/Bol_pangenome](https://github.com/caasivfbioinfo/Bol_pangenome)|-|10|2023-11-26|2023-11-23|
-|26|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|9|2024-03-04|2024-01-08|
+|24|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|10|2024-03-05|2024-01-08|
+|25|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
+|26|[caasivfbioinfo/Bol_pangenome](https://github.com/caasivfbioinfo/Bol_pangenome)|-|10|2023-11-26|2023-11-23|
 |27|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
 |28|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
 |29|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
@@ -65,7 +65,7 @@
 |58|[andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay)|linux kernel overlay|5|2024-03-03|2023-03-12|
 |59|[ncezid-biome/datasets](https://github.com/ncezid-biome/datasets)|Benchmark and toy datasets|5|2024-02-10|2023-03-12|
 |60|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
-|61|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|4|2024-03-04|2023-12-04|
+|61|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|4|2024-03-05|2023-12-04|
 |62|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
 |63|[shane-mason/perl-chain-generator](https://github.com/shane-mason/perl-chain-generator)|-|4|2023-11-11|2023-11-10|
 |64|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|4|2023-11-02|2023-11-02|
@@ -119,7 +119,7 @@
 |112|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |113|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |114|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|115|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-04|2023-12-09|
+|115|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-05|2023-12-09|
 |116|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |117|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-02-10|2023-12-01|
 |118|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
@@ -129,24 +129,25 @@
 |122|[kraison/uxo](https://github.com/kraison/uxo)|-|2|2023-11-24|2023-11-10|
 |123|[nu11secur1ty/OpenVPN-automation-Client-connect](https://github.com/nu11secur1ty/OpenVPN-automation-Client-connect)|-|2|2023-11-10|2023-11-08|
 |124|[jps-e/kindle_info](https://github.com/jps-e/kindle_info)|Kindle Serial number lookup tool|2|2023-12-20|2023-11-05|
-|125|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-02-21|2023-10-17|
-|126|[Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus](https://github.com/Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus)|-|2|2023-10-13|2023-10-13|
-|127|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
-|128|[Hypernova-Oy/koha-plugin-iso18626](https://github.com/Hypernova-Oy/koha-plugin-iso18626)|ISO18626 Interlibrary loans plugin|2|2023-09-27|2023-09-19|
-|129|[brickhousewindow/confluence-xml-export-converter](https://github.com/brickhousewindow/confluence-xml-export-converter)|-|2|2023-11-16|2023-09-12|
-|130|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
-|131|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
-|132|[HugoSchweke/QSproteome_protocol](https://github.com/HugoSchweke/QSproteome_protocol)|contains all the necessary script and data to calculate everything from input pdb model + json file to dimer probability|2|2023-10-10|2023-08-29|
-|133|[Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs](https://github.com/Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs)|Scripts and piplines for the UCE identification and other analyses.|2|2023-10-19|2023-08-04|
-|134|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2024-01-05|2023-08-04|
-|135|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
-|136|[weXe1/PortSwigger-Academy-Solutions](https://github.com/weXe1/PortSwigger-Academy-Solutions)|Scripts to help with solving labs on PortSwigger Web Security Academy|2|2023-09-27|2023-06-29|
-|137|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
-|138|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-01-14|2023-06-01|
-|139|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
-|140|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2023-11-15|2023-05-23|
-|141|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
-|142|[theophile/gcode-postprocessing-scripts](https://github.com/theophile/gcode-postprocessing-scripts)|My personal gcode postprocessing scripts for PrusaSlicer/SuperSlicer|2|2023-09-26|2023-03-12|
+|125|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|2|2024-03-02|2023-10-24|
+|126|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-02-21|2023-10-17|
+|127|[Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus](https://github.com/Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus)|-|2|2023-10-13|2023-10-13|
+|128|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
+|129|[Hypernova-Oy/koha-plugin-iso18626](https://github.com/Hypernova-Oy/koha-plugin-iso18626)|ISO18626 Interlibrary loans plugin|2|2023-09-27|2023-09-19|
+|130|[brickhousewindow/confluence-xml-export-converter](https://github.com/brickhousewindow/confluence-xml-export-converter)|-|2|2023-11-16|2023-09-12|
+|131|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
+|132|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
+|133|[HugoSchweke/QSproteome_protocol](https://github.com/HugoSchweke/QSproteome_protocol)|contains all the necessary script and data to calculate everything from input pdb model + json file to dimer probability|2|2023-10-10|2023-08-29|
+|134|[Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs](https://github.com/Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs)|Scripts and piplines for the UCE identification and other analyses.|2|2023-10-19|2023-08-04|
+|135|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2024-01-05|2023-08-04|
+|136|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
+|137|[weXe1/PortSwigger-Academy-Solutions](https://github.com/weXe1/PortSwigger-Academy-Solutions)|Scripts to help with solving labs on PortSwigger Web Security Academy|2|2023-09-27|2023-06-29|
+|138|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
+|139|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-01-14|2023-06-01|
+|140|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
+|141|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2023-11-15|2023-05-23|
+|142|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
+|143|[theophile/gcode-postprocessing-scripts](https://github.com/theophile/gcode-postprocessing-scripts)|My personal gcode postprocessing scripts for PrusaSlicer/SuperSlicer|2|2023-09-26|2023-03-12|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
