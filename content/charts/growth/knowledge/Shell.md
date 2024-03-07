@@ -1,116 +1,116 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Shell
-<sub>Updated: 2024-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including ...|25300|32|2024-03-04|
-|2|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|82179|22|2023-10-05|
-|3|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1393|20|2024-03-04|
-|4|[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|📖 A collection of pure bash alternatives to external processes.|35632|17|2023-11-28|
-|5|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|35188|13|2023-11-18|
-|6|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25466|11|2024-02-26|
-|7|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6474|10|2024-03-03|
-|8|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4115|7|2024-02-19|
+|1|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including ...|25311|32|2024-03-06|
+|2|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|82205|22|2023-10-05|
+|3|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1409|20|2024-03-04|
+|4|[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|📖 A collection of pure bash alternatives to external processes.|35640|17|2023-11-28|
+|5|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|35200|13|2023-11-18|
+|6|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25468|11|2024-02-26|
+|7|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6482|10|2024-03-03|
+|8|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4120|7|2024-02-19|
 |9|[alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper)|Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier|12125|6|2024-01-21|
 |10|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|488|6|2024-03-03|
-|11|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|14599|5|2024-03-05|
-|12|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|11839|5|2023-10-22|
-|13|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8679|5|2024-03-04|
-|14|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|Certified Kubernetes Administrator - CKA Course|6731|5|2024-03-03|
-|15|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|12479|5|2024-02-08|
+|11|[ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)|A curated list for awesome kubernetes sources :ship::tada:|14604|5|2024-03-05|
+|12|[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|11841|5|2023-10-22|
+|13|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8681|5|2024-03-04|
+|14|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|Certified Kubernetes Administrator - CKA Course|6737|5|2024-03-06|
+|15|[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)|📝 A curated list of awesome Raspberry Pi tools, projects, images and resources|12483|5|2024-02-08|
 |16|[vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response)|practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response |300|4|2023-12-29|
-|17|[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials.|14173|4|2024-03-01|
+|17|[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials.|14177|4|2024-03-06|
 |18|[dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)|📖 A collection of pure POSIX sh alternatives to external processes.|6232|4|2023-12-31|
-|19|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|2675|4|2024-03-04|
-|20|[toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|8614|4|2024-01-19|
+|19|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|2692|4|2024-03-04|
+|20|[toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|8618|4|2024-01-19|
 |21|[alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)|A collection of small bash scripts for heavy terminal users|9405|4|2024-01-09|
-|22|[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)|A huge collection of polybar themes with different styles, colors and variants.|5411|3|2024-01-08|
-|23|[unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities)|A collection of  enhancements for UnifiOS based devices|3699|3|2024-02-15|
-|24|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|5512|3|2024-02-29|
-|25|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2401|3|2024-03-05|
+|22|[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)|A huge collection of polybar themes with different styles, colors and variants.|5410|3|2024-01-08|
+|23|[unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities)|A collection of  enhancements for UnifiOS based devices|3700|3|2024-02-15|
+|24|[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)|A curated list of amazingly awesome Home Assistant resources.|5514|3|2024-03-06|
+|25|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2403|3|2024-03-06|
 |26|[awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash)|A curated list of delightful Bash scripts and resources.|7011|2|2024-02-09|
-|27|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|378|2|2024-02-27|
-|28|[offa/android-foss](https://github.com/offa/android-foss)|A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.|4572|2|2024-03-05|
-|29|[xwmx/nb](https://github.com/xwmx/nb)|CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.|6192|2|2024-03-04|
-|30|[AuxXxilium/arc](https://github.com/AuxXxilium/arc)|Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, guided (semi-automated) Installation and more. Multiple customization options are built-in. It is modi ...|875|2|2024-03-05|
-|31|[vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies)|A list of robotics companies using the Robot Operating System (ROS and ROS 2). |1101|2|2024-02-13|
-|32|[jstrieb/paperify](https://github.com/jstrieb/paperify)|Transform any document, web page, or eBook into a research paper (ChatGPT not required)|357|2|2023-09-06|
-|33|[Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh)|Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.|8586|2|2024-02-24|
-|34|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source of container configurations, images, and examples for Oracle products and projects|6311|2|2024-02-28|
-|35|[samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux)|SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android|2748|2|2023-10-31|
-|36|[awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)|A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)|1013|2|2024-02-29|
-|37|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|200|2|2024-03-01|
-|38|[TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)|The ultimate collection of scripts for YouTube-DL.|2140|2|2023-12-18|
-|39|[RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)|A Tutorial for Setting Python Development Environment with VScode and Docker|739|2|2024-02-02|
-|40|[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|7553|2|2024-02-24|
-|41|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|7004|2|2024-03-05|
-|42|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|3530|2|2023-11-29|
-|43|[hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)|Various tips & tricks|2666|2|2024-03-01|
-|44|[x676f64/secureum-mind_map](https://github.com/x676f64/secureum-mind_map)|Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked. |1694|2|2023-09-21|
-|45|[alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)|Collection of Alacritty color schemes|1003|2|2024-03-03|
-|46|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|90|2|2024-02-13|
-|47|[techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io)|Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!|927|1|2024-02-28|
-|48|[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)|The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.|1220|1|2024-02-24|
-|49|[leucos/ansible-tuto](https://github.com/leucos/ansible-tuto)|Ansible tutorial|2196|1|2023-09-20|
-|50|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|595|1|2024-02-29|
+|27|[offa/android-foss](https://github.com/offa/android-foss)|A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.|4578|2|2024-03-06|
+|28|[xwmx/nb](https://github.com/xwmx/nb)|CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.|6193|2|2024-03-04|
+|29|[AuxXxilium/arc](https://github.com/AuxXxilium/arc)|Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, guided (semi-automated) Installation and more. Multiple customization options are built-in. It is modi ...|877|2|2024-03-06|
+|30|[vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies)|A list of robotics companies using the Robot Operating System (ROS and ROS 2). |1102|2|2024-02-13|
+|31|[jstrieb/paperify](https://github.com/jstrieb/paperify)|Transform any document, web page, or eBook into a research paper (ChatGPT not required)|357|2|2023-09-06|
+|32|[Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh)|Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.|8589|2|2024-02-24|
+|33|[oracle/docker-images](https://github.com/oracle/docker-images)|Official source of container configurations, images, and examples for Oracle products and projects|6313|2|2024-03-06|
+|34|[samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux)|SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android|2750|2|2023-10-31|
+|35|[awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)|A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)|1020|2|2024-02-29|
+|36|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|200|2|2024-03-01|
+|37|[TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)|The ultimate collection of scripts for YouTube-DL.|2140|2|2023-12-18|
+|38|[RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)|A Tutorial for Setting Python Development Environment with VScode and Docker|739|2|2024-02-02|
+|39|[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|7556|2|2024-02-24|
+|40|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|7014|2|2024-03-05|
+|41|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|3530|2|2023-11-29|
+|42|[hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)|Various tips & tricks|2666|2|2024-03-01|
+|43|[x676f64/secureum-mind_map](https://github.com/x676f64/secureum-mind_map)|Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked. |1694|2|2023-09-21|
+|44|[alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)|Collection of Alacritty color schemes|1008|2|2024-03-06|
+|45|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|90|2|2024-02-13|
+|46|[techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io)|Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!|928|1|2024-03-06|
+|47|[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)|The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.|1222|1|2024-02-24|
+|48|[leucos/ansible-tuto](https://github.com/leucos/ansible-tuto)|Ansible tutorial|2196|1|2023-09-20|
+|49|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|377|1|2024-02-27|
+|50|[gopro/OpenGoPro](https://github.com/gopro/OpenGoPro)|An open source interface specification to communicate with a GoPro camera with accompanying demos and tutorials.|595|1|2024-03-05|
 |51|[sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)|Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.|1522|1|2023-11-16|
 |52|[gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts)|Tools and instructions on how to have awesome symbols in a terminal with a monospace font|2420|1|2024-01-16|
 |53|[jpetazzo/container.training](https://github.com/jpetazzo/container.training)|Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.|3515|1|2024-02-28|
-|54|[Winetricks/winetricks](https://github.com/Winetricks/winetricks)|Winetricks is an easy way to work around problems in Wine|2529|1|2024-02-28|
+|54|[Winetricks/winetricks](https://github.com/Winetricks/winetricks)|Winetricks is an easy way to work around problems in Wine|2530|1|2024-03-06|
 |55|[brson/rust-anthology](https://github.com/brson/rust-anthology)|Learn Rust from the best|1421|1|2024-01-30|
 |56|[microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners)|Sample code for Bash for Beginners course|297|1|2023-09-19|
 |57|[ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts)|A collection of simple Bash scripts|1507|1|2024-02-08|
-|58|[zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)|Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of ...|2459|1|2024-02-14|
+|58|[zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)|Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of ...|2460|1|2024-02-14|
 |59|[DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker)|Guide by Example|1333|1|2024-03-04|
-|60|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|154|1|2024-02-21|
+|60|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|156|1|2024-02-21|
 |61|[MatMoul/archfi](https://github.com/MatMoul/archfi)|Arch Linux Fast Installer : tutorial installer|2502|1|2023-10-14|
-|62|[phyver/GameShell](https://github.com/phyver/GameShell)|a game to learn (or teach) how to use standard commands in a Unix shell|2045|1|2024-02-09|
+|62|[phyver/GameShell](https://github.com/phyver/GameShell)|a game to learn (or teach) how to use standard commands in a Unix shell|2046|1|2024-02-09|
 |63|[ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way)|A guide to setting up a production-like Kubernetes cluster on a local machine|213|1|2024-01-06|
-|64|[ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide)|A guide series explaining how to setup a personal small homelab running a Kubernetes cluster with VMs on a Proxmox VE standalone server node.|612|1|2024-02-27|
+|64|[ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide)|A guide series explaining how to setup a personal small homelab running a Kubernetes cluster with VMs on a Proxmox VE standalone server node.|616|1|2024-02-27|
 |65|[rashevskyv/4IFIR](https://github.com/rashevskyv/4IFIR)|Guide for using 4IFIR - ultimate CFW for overlocking Nintendo Switch|204|1|2024-02-27|
 |66|[MrRobinOfficial/Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine)|This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++.|443|1|2024-02-26|
-|67|[pingcap/docs-cn](https://github.com/pingcap/docs-cn)|TiDB/TiKV/PD 中文文档|1798|1|2024-03-05|
+|67|[pingcap/docs-cn](https://github.com/pingcap/docs-cn)|TiDB/TiKV/PD 中文文档|1798|1|2024-03-06|
 |68|[Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)|SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi|1365|1|2023-11-09|
 |69|[SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland)|collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay|344|1|2024-02-03|
-|70|[dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)|:book: Kubernetes CheatSheets In A4|1893|1|2024-02-25|
-|71|[mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)|PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.|746|1|2024-02-11|
+|70|[dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)|:book: Kubernetes CheatSheets In A4|1894|1|2024-02-25|
+|71|[mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)|PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.|749|1|2024-02-11|
 |72|[ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples)|Minimal self-contained examples of standard Kubernetes features and patterns in YAML|1354|1|2023-10-03|
-|73|[jfadev/bottok](https://github.com/jfadev/bottok)|Bot Tok is an TikTok Up Bot (likes, shares, favorites and views) based in node.js, puppeteer and zefoy.com. (Android, Windows, Linux)|290|1|2023-12-07|
+|73|[jfadev/bottok](https://github.com/jfadev/bottok)|Bot Tok is an TikTok Up Bot (likes, shares, favorites and views) based in node.js, puppeteer and zefoy.com. (Android, Windows, Linux)|291|1|2023-12-07|
 |74|[nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)|A beginner's guide to setting up a development environment on macOS|5534|1|2024-03-05|
 |75|[Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)|A collection of snippets of codes and commands to make your life easier! |2337|1|2023-09-25|
-|76|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3116|1|2024-01-11|
-|77|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|647|1|2024-02-02|
-|78|[vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools)|List of container/k8s tools.|614|1|2024-03-05|
+|76|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3117|1|2024-01-11|
+|77|[saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)|Dynamic Wallpapers for Linux|648|1|2024-02-02|
+|78|[vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools)|List of container/k8s tools.|614|1|2024-03-06|
 |79|[edoardottt/missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates)|Weekly updated list of missing CVEs in nuclei templates official repository. Mainly built for bug bounty, but useful for penetration tests and vulnerability assessments too.|263|1|2024-03-04|
-|80|[rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)|https://rust-lang-nursery.github.io/rust-cookbook|2178|1|2024-02-18|
+|80|[rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)|https://rust-lang-nursery.github.io/rust-cookbook|2180|1|2024-02-18|
 |81|[TCM-Course-Resources/Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources)|Compilation of Resources from TCM's OSINT Course|740|1|2024-02-27|
-|82|[confluentinc/demo-scene](https://github.com/confluentinc/demo-scene)|👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/|1437|1|2024-02-29|
+|82|[confluentinc/demo-scene](https://github.com/confluentinc/demo-scene)|👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/|1438|1|2024-02-29|
 |83|[CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks)|:anchor: A curated list of awesome git hooks|924|1|2024-01-27|
-|84|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|285|1|2023-10-07|
-|85|[shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)|Curated list of tools and resources for Platform Engineering|267|1|2024-02-07|
+|84|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|287|1|2023-10-07|
+|85|[shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)|Curated list of tools and resources for Platform Engineering|268|1|2024-02-07|
 |86|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|45|1|2024-02-29|
-|87|[fatihacet/turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)|Özenle seçilmiş Türkçe kaynaklar listesi En: Curated list of Turkish resources |2408|1|2023-10-10|
-|88|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|247|1|2024-01-23|
-|89|[ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container)|Collection of Docker images with headless VNC environments|1599|1|2024-02-01|
-|90|[mikeferguson/ros2_cookbook](https://github.com/mikeferguson/ros2_cookbook)|Code snippets for ROS2|676|1|2024-02-22|
-|91|[ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)|ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!|1315|1|2023-10-19|
+|87|[fatihacet/turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)|Özenle seçilmiş Türkçe kaynaklar listesi En: Curated list of Turkish resources |2409|1|2023-10-10|
+|88|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|246|1|2024-01-23|
+|89|[ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container)|Collection of Docker images with headless VNC environments|1600|1|2024-02-01|
+|90|[mikeferguson/ros2_cookbook](https://github.com/mikeferguson/ros2_cookbook)|Code snippets for ROS2|677|1|2024-02-22|
+|91|[ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)|ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!|1316|1|2023-10-19|
 |92|[kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole)|YouTube script to add the new Ads list for Pi-hole|2369|1|2024-01-09|
 |93|[XTLS/Xray-examples](https://github.com/XTLS/Xray-examples)|Some examples of uses for Xray-core.|1764|1|2024-01-29|
-|94|[ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)|支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch|270|1|2024-03-02|
+|94|[ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)|支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch|276|1|2024-03-02|
 |95|[cheat/cheatsheets](https://github.com/cheat/cheatsheets)|Community-sourced cheatsheets|1644|1|2024-01-04|
 |96|[vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows)|Collection of Alfred workflows|2420|1|2024-02-23|
-|97|[notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn)|An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA|893|1|2023-12-31|
-|98|[devcontainers/features](https://github.com/devcontainers/features)|A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own|703|1|2024-03-05|
+|97|[notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn)|An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA|894|1|2023-12-31|
+|98|[devcontainers/features](https://github.com/devcontainers/features)|A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own|703|1|2024-03-06|
 |99|[gemartin99/Born2beroot-Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)| Tutorial to install Debian virtual machine with functional WordPress site with the following services: lighttpd, MariaDB, PHP and Litespeed.|374|1|2024-02-07|
-|100|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|160|1|2024-02-29|
+|100|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|162|1|2024-02-29|
 |101|[awwsmm/daily-bevy](https://github.com/awwsmm/daily-bevy)|Learn Bevy (and Rust) by exploring a small example (almost) every day|42|1|2024-02-25|
-|102|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|224|1|2024-01-06|
+|102|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|223|1|2024-01-06|
 |103|[confluentinc/examples](https://github.com/confluentinc/examples)|Apache Kafka and Confluent Platform examples and demos|1831|1|2024-02-23|
 |104|[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)|A curated list of SVG. |4484|1|2023-11-13|
 |105|[CubeCoders/AMPTemplates](https://github.com/CubeCoders/AMPTemplates)|For the AMP community to share Generic Module templates.|57|0|2024-03-04|
-|106|[trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS)|A collection of LS_COLORS definitions; needs your contribution!|1984|0|2024-02-08|
+|106|[trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS)|A collection of LS_COLORS definitions; needs your contribution!|1985|0|2024-02-08|
 |107|[go-debos/debos-recipes](https://github.com/go-debos/debos-recipes)|Collection of debos recipes|40|0|2023-12-22|
 |108|[tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade)|a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!|978|0|2024-02-14|
 |109|[Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner)|Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js|46|0|2024-03-03|
@@ -122,15 +122,15 @@
 |115|[techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial)|A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea.|528|0|2023-10-09|
 |116|[rimu/no-qanon](https://github.com/rimu/no-qanon)|A blocklist for QAnon, conspiracy, fake news, nazi websites.|99|0|2024-02-15|
 |117|[oasis-open/tosca-community-contributions](https://github.com/oasis-open/tosca-community-contributions)|OASIS TC Open Repository: Manages TOSCA profiles, tests, and templates that are maintained by the TOSCA community. They are intended to be used as examples to help developers get started with TOSCA an ...|36|0|2023-09-22|
-|118|[EnigmaCurry/d.rymcg.tech](https://github.com/EnigmaCurry/d.rymcg.tech)|A collection of self-hosted docker-compose projects with Traefik reverse proxy, integrated auth, and administrative Makefiles for easy maintainance|45|0|2024-02-28|
+|118|[EnigmaCurry/d.rymcg.tech](https://github.com/EnigmaCurry/d.rymcg.tech)|A collection of self-hosted docker-compose projects with Traefik reverse proxy, integrated auth, and administrative Makefiles for easy maintainance|45|0|2024-03-06|
 |119|[sharkdp/minicpp](https://github.com/sharkdp/minicpp)|A REPL-style development environment for small C++ snippets|48|0|2023-11-13|
 |120|[KornelJahn/truenas-core-tailscale-jail](https://github.com/KornelJahn/truenas-core-tailscale-jail)|A guide and helper scripts on setting up Tailscale on TrueNAS Core (in a jail).|53|0|2024-01-29|
-|121|[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)|Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory,  ...|311|0|2024-03-04|
+|121|[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)|Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory,  ...|312|0|2024-03-04|
 |122|[BlackCorsair/install-jdk-on-steam-deck](https://github.com/BlackCorsair/install-jdk-on-steam-deck)|Guide and script to install java jdk 17 or 21 on the steam deck|27|0|2024-01-09|
 |123|[Ultimate-Hosts-Blacklist/whitelist](https://github.com/Ultimate-Hosts-Blacklist/whitelist)|The whitelist of the Ultimate Hosts Blacklist project, infrastructure and beyond.|45|0|2024-03-05|
 |124|[freegroup/kube-s3](https://github.com/freegroup/kube-s3)|Kubernetes pods used shared S3 storage|197|0|2024-02-22|
 |125|[eballetbo/chromebooks](https://github.com/eballetbo/chromebooks)|Chromebook Developer Tool|60|0|2024-01-31|
-|126|[gm3dmo/the-power](https://github.com/gm3dmo/the-power)|The Power is a bunch of test scripts that share a single centralized configuration file for use with GitHub API's. It's commonly used by folks with a need to teach, learn, debug against GItHub's API's ...|114|0|2024-03-05|
+|126|[gm3dmo/the-power](https://github.com/gm3dmo/the-power)|The Power is a bunch of test scripts that share a single centralized configuration file for use with GitHub API's. It's commonly used by folks with a need to teach, learn, debug against GItHub's API's ...|114|0|2024-03-06|
 |127|[Ryan-Monaghan/malScraper](https://github.com/Ryan-Monaghan/malScraper)|Scrapes a list of Payload Domains, IOC's & C2 IPs from from various feeds, for easy blacklisting.|102|0|2023-12-27|
 |128|[lhndo/ResHelper](https://github.com/lhndo/ResHelper)|A series of scripts designed to streamline Klipper's resonance testing workflow.|81|0|2024-02-27|
 |129|[cdfoundation/artwork](https://github.com/cdfoundation/artwork)|🎨Continuous Delivery Foundation Artwork, Logos, and License Guidelines|28|0|2023-09-26|
@@ -140,7 +140,7 @@
 |133|[amyjko/user-interface-software-and-technology](https://github.com/amyjko/user-interface-software-and-technology)|A book surveying the literature on user interface software and technology.|56|0|2024-01-23|
 |134|[l4yton/RegHex](https://github.com/l4yton/RegHex)|A collection of regexes for every possbile use|350|0|2023-12-01|
 |135|[binary-manu/arch-ansible](https://github.com/binary-manu/arch-ansible)|An Ansible playbook to install Arch Linux|57|0|2024-03-03|
-|136|[strongX509/docker](https://github.com/strongX509/docker)|A collection of docker image build files|31|0|2024-03-04|
+|136|[strongX509/docker](https://github.com/strongX509/docker)|A collection of docker image build files|32|0|2024-03-04|
 |137|[JW0914/Wikis](https://github.com/JW0914/Wikis)|Various HowTOs and Tutorials|77|0|2023-10-02|
 |138|[thespation/dpux_bspwm](https://github.com/thespation/dpux_bspwm)|Script para Instalar bspwm no Debian Bullseye ou Bookworm (xfce e gnome), Fedora 38, Pop!_OS, Ubuntu ou Xubuntu 22.04.|37|0|2023-12-12|
 |139|[confluentinc/learn-kafka-courses](https://github.com/confluentinc/learn-kafka-courses)|Learn the basics of Apache Kafka® from leaders in the Kafka community with these video courses covering the Kafka ecosystem and hands-on exercises.|77|0|2023-10-03|
@@ -149,7 +149,7 @@
 |142|[moviuro/moviuro.bin](https://github.com/moviuro/moviuro.bin)|Collection of tools I wrote (and use)|42|0|2024-01-16|
 |143|[ihrapsa/OctoWrt](https://github.com/ihrapsa/OctoWrt)|A guide to install Octoprint on the Creality WiFi Box or similar OpenWrt devices|79|0|2024-01-13|
 |144|[hfp/xconfigure](https://github.com/hfp/xconfigure)|High-Performance configuration patterns and recipes.|44|0|2024-03-04|
-|145|[dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes)|A set of tutorials (notes) organized as a book that explore how to write an Operating System from scratch|359|0|2024-03-04|
+|145|[dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes)|A set of tutorials (notes) organized as a book that explore how to write an Operating System from scratch|361|0|2024-03-04|
 |146|[MicrosoftDocs/mslearn-tailspin-spacegame-web](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web)|Code used in Microsoft Learn modules to support Azure DevOps|151|0|2024-03-05|
 |147|[mateussouzaweb/kvm-qemu-virtualization-guide](https://github.com/mateussouzaweb/kvm-qemu-virtualization-guide)|Guide to run VMs with KVM and QEMU|77|0|2024-02-09|
 |148|[SixArm/unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics)|Unix shell script tactics - best practices style guide|292|0|2024-01-17|
@@ -161,7 +161,7 @@
 |154|[NetApp/ontap-rest-python](https://github.com/NetApp/ontap-rest-python)|This repository contains sample code illustrating how to access the ONTAP REST API using Python. This Repository also contains ONTAPI Usage reporting code that helps to identify ONTAPI usage in your e ...|58|0|2023-10-02|
 |155|[MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles)|💻 My dot files shared between machines.|254|0|2024-02-29|
 |156|[aws-quickstart/quickstart-examples](https://github.com/aws-quickstart/quickstart-examples)|Get started on building AWS Partner Solutions by using our examples.|311|0|2023-09-12|
-|157|[codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)|Examples for the GitOps certification|226|0|2024-03-05|
+|157|[codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)|Examples for the GitOps certification|227|0|2024-03-05|
 |158|[hashicorp/katakoda](https://github.com/hashicorp/katakoda)|Katakoda tutorial to learn the features of HashiCorp products interactively|87|0|2023-11-20|
 |159|[mikeroyal/Debian-Guide](https://github.com/mikeroyal/Debian-Guide)|Debian Guide|36|0|2024-01-04|
 |160|[buren/awesome-sweden](https://github.com/buren/awesome-sweden)|A curated list of awesome things to use when coding for the Swedish market.|158|0|2024-01-03|
@@ -175,21 +175,21 @@
 |168|[JonnyBanana/Huge-Collection-of-CheatSheet](https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet)| :goberserk: :goberserk: :goberserk: Share of my Huge Collection of Cheatsheet (Coding, Cheat, Pinouts, Command Lists, Etc.)  :goberserk: :goberserk: :goberserk: |483|0|2023-10-04|
 |169|[enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises)|A project structure that outlines some best practises of how to use ansible|831|0|2024-01-11|
 |170|[geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac)|Collection of macOS automation tools for Ansible.|276|0|2024-02-05|
-|171|[QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough)|Single GPU VFIO Passthrough Guide|613|0|2024-02-29|
-|172|[jclark/rpi-cm4-ptp-guide](https://github.com/jclark/rpi-cm4-ptp-guide)|Guide to using the hardware PTP support in the Raspberry Pi CM4|54|0|2024-02-27|
+|171|[QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough)|Single GPU VFIO Passthrough Guide|614|0|2024-02-29|
+|172|[jclark/rpi-cm4-ptp-guide](https://github.com/jclark/rpi-cm4-ptp-guide)|Guide to using the hardware PTP support in the Raspberry Pi CM4|55|0|2024-02-27|
 |173|[picodotdev/alis](https://github.com/picodotdev/alis)|Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.|808|0|2024-03-01|
 |174|[galaxyproject/usegalaxy-playbook](https://github.com/galaxyproject/usegalaxy-playbook)|Ansible Playbook for usegalaxy.org|31|0|2024-03-01|
 |175|[nobodino/slackware-from-scratch](https://github.com/nobodino/slackware-from-scratch)|Describe how to build SFS or slackware from scratch with a small set of scripts|40|0|2023-11-16|
 |176|[MatheuZSecurity/Koth-TryHackMe-Tricks](https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks)|Koth - TryHackMe Tricks|116|0|2023-11-05|
 |177|[huyng/bashmarks](https://github.com/huyng/bashmarks)|Directory bookmarks for the shell|1845|0|2023-12-31|
-|178|[Moe-hacker/daijin](https://github.com/Moe-hacker/daijin)|(Aka. termux-container) Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥|206|0|2024-03-05|
+|178|[Moe-hacker/daijin](https://github.com/Moe-hacker/daijin)|(Aka. termux-container) Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥|206|0|2024-03-06|
 |179|[michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup)|A macOS setup guide specific to front-end development.|125|0|2024-03-01|
-|180|[pvme/pvme-guides](https://github.com/pvme/pvme-guides)|PvM Encyclopedia Guides|39|0|2024-03-05|
+|180|[pvme/pvme-guides](https://github.com/pvme/pvme-guides)|PvM Encyclopedia Guides|39|0|2024-03-06|
 |181|[StakeSquid/graphprotocol-mainnet-docker](https://github.com/StakeSquid/graphprotocol-mainnet-docker)|Graph Protocol Mainnet Docker Guide by StakeSquid. Easy to use, one-stop gateway into the Web3 universe via The Graph.|51|0|2024-01-26|
 |182|[djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts)|A collection of Bash scripts for automating routine tasks and streamlining your workflow.|125|0|2024-03-03|
-|183|[OPEN-NEXT/OKH-LOSH](https://github.com/OPEN-NEXT/OKH-LOSH)|A metadata specification to enable the collection of distributed standardised metadata of open source hardware for a graph database (LOSH).|31|0|2023-12-24|
-|184|[pacs-course/pacs-examples](https://github.com/pacs-course/pacs-examples)|The examples for the course on advanced programming for scientific computing (aka PACS), Politecnico di Milano|32|0|2024-03-04|
-|185|[YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh)|The federated image shareing service Pixelfed for YunoHost|40|0|2024-02-20|
+|183|[OPEN-NEXT/OKH-LOSH](https://github.com/OPEN-NEXT/OKH-LOSH)|A metadata specification to enable the collection of distributed standardised metadata of open source hardware for a graph database (LOSH).|32|0|2023-12-24|
+|184|[pacs-course/pacs-examples](https://github.com/pacs-course/pacs-examples)|The examples for the course on advanced programming for scientific computing (aka PACS), Politecnico di Milano|32|0|2024-03-06|
+|185|[YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh)|The federated image shareing service Pixelfed for YunoHost|40|0|2024-03-05|
 |186|[robole/fetching](https://github.com/robole/fetching)|A collection of *fetching* unicode art for the terminal.|49|0|2023-11-13|
 |187|[j-martin/dotfiles](https://github.com/j-martin/dotfiles)|Config to be shared across a bunch of computers|33|0|2024-03-01|
 |188|[danielvijge/openwrt-configuration-ansible](https://github.com/danielvijge/openwrt-configuration-ansible)|OpenWrt configuration for router + dumb access points with Ansible playbook for centralised management|60|0|2024-02-12|
@@ -203,7 +203,7 @@
 |196|[cathive/concourse-sonarqube-resource](https://github.com/cathive/concourse-sonarqube-resource)|performs SonarQube analyses and checks quality gates https://concourse-ci.org/ https://sonarqube.org/|45|0|2023-10-27|
 |197|[devcontainers/template-starter](https://github.com/devcontainers/template-starter)|A template explaining how to author custom dev container Templates|127|0|2024-02-28|
 |198|[concourse/ci](https://github.com/concourse/ci)|Configuration files used to automate the testing and release of various versions of Concourse.|36|0|2024-02-08|
-|199|[vdesabou/kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground)|🐳✨ Fully automated Apache Kafka® and Confluent Docker based examples // 👷‍♂️ Easily build examples or reproduction models|572|0|2024-03-05|
+|199|[vdesabou/kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground)|🐳✨ Fully automated Apache Kafka® and Confluent Docker based examples // 👷‍♂️ Easily build examples or reproduction models|572|0|2024-03-06|
 |200|[mikeroyal/Chrome-OS-Guide](https://github.com/mikeroyal/Chrome-OS-Guide)|Chrome OS Guide|63|0|2024-01-04|
 
 <div align="center">
