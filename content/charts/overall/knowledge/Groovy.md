@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|322|2023-10-31|
 |4|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|277|2024-02-23|
 |5|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|179|2023-12-16|
-|6|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|141|2024-03-09|
+|6|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|142|2024-03-09|
 |7|[kordamp/kordamp-gradle-plugins](https://github.com/kordamp/kordamp-gradle-plugins)|A collection of Gradle plugins|139|2023-12-26|
 |8|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|2024-02-27|
 |9|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|73|2024-01-29|
@@ -50,7 +50,7 @@
 |43|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|7|2024-01-30|
 |44|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|6|2024-02-19|
 |45|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|6|2023-12-19|
-|46|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|2024-03-09|
+|46|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|2024-03-10|
 |47|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|6|2024-02-04|
 |48|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|6|2023-10-24|
 |49|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2023-12-12|

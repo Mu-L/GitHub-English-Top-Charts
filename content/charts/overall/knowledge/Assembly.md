@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14962|2024-03-06|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9792|2024-03-08|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14960|2024-03-06|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9792|2024-03-09|
 |3|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|718|2024-02-27|
 |4|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|522|2024-03-07|
 |5|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|438|2024-01-04|
 |6|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|405|2024-01-29|
-|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|268|2024-02-11|
+|7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|269|2024-02-11|
 |8|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|230|2024-01-17|
-|9|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|191|2024-03-01|
+|9|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|192|2024-03-01|
 |10|[MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel)|539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on <https://539kernel.com ...|185|2023-11-14|
 |11|[TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)|All Algorithms implemented in AArch64 Assembly|129|2024-01-27|
 |12|[jsmolka/gba-tests](https://github.com/jsmolka/gba-tests)|A collection of Game Boy Advance tests.|91|2023-12-03|
@@ -77,46 +77,46 @@
 |70|[rdoetjes/moonpatrol](https://github.com/rdoetjes/moonpatrol)|A mini clone of moonpatrol for the SEGA MEGA DRIVE. Used for a demonstration on how to use SGDK|6|2024-01-08|
 |71|[schoeberl/risc-v-lab](https://github.com/schoeberl/risc-v-lab)|Lab material for the three week course on builiding a RISC-V microprocessor|6|2024-01-19|
 |72|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|2024-02-08|
-|73|[romh-acking/tensai-bakabon-sms-en](https://github.com/romh-acking/tensai-bakabon-sms-en)|Tensai Bakabon (Sega Master System): English translation |6|2023-09-09|
-|74|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|2024-03-03|
-|75|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|5|2023-11-27|
-|76|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|A collection of ATMEL 8051 Series Microcontrollers (AT89C51/AT89S51/AT89S52/...) Assembly Programming Examples. All circuits have been simulated over Proteus software and verified on real hardware. a|5|2023-12-19|
-|77|[rdoetjes/c64](https://github.com/rdoetjes/c64)|c64 assembly course|5|2024-01-03|
-|78|[dumbtwink/fnc](https://github.com/dumbtwink/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2023-11-05|
-|79|[luigidifraia/easyflash-loader](https://github.com/luigidifraia/easyflash-loader)|Flexible EasyFlash Loader with usage examples|5|2023-09-26|
-|80|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|
-|81|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|
-|82|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|4|2024-01-31|
-|83|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|
-|84|[markmoxon/elite-compendium](https://github.com/markmoxon/elite-compendium)|Source for the Elite Compendium, a collection of the best Acornsoft Elite hacks on one disc|4|2024-02-15|
-|85|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|
-|86|[aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools)|This Repository is a collection of different Ethical Hacking Tools written in python, ruby, rust, c++, go and c.|4|2023-12-27|
-|87|[Ayg0/LIBASM](https://github.com/Ayg0/LIBASM)|learning assembly why not doing a project at the same time|4|2023-10-18|
-|88|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|4|2023-12-20|
-|89|[bell-sw/glibc-string](https://github.com/bell-sw/glibc-string)|Collection of glibc optimized asm string implementations|4|2024-01-17|
-|90|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and background information to help with the analysis of stellar spectropolarimetric data.  The goal is to develop a collection of smaller tools and larger tutorials.|4|2024-02-29|
-|91|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|Guide for bare metal programming using stm32|4|2023-11-10|
-|92|[IceCool10/PacientZero](https://github.com/IceCool10/PacientZero)|C++ Packer ( Master Degree Project )|4|2023-12-04|
-|93|[whatrocks/solutions](https://github.com/whatrocks/solutions)|my solutions to programming exercises from books and other places|4|2024-02-26|
-|94|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|
-|95|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|3|2024-02-14|
-|96|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|3|2024-02-26|
-|97|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|
-|98|[robotman2412/boa-risc-v](https://github.com/robotman2412/boa-risc-v)|My second attempt at a RISC-V CPU with learnings form my previous attempt.|3|2024-01-14|
-|99|[survival-lumc/DynamicPrediction-book](https://github.com/survival-lumc/DynamicPrediction-book)|Code and datasets used in book "Dynamic Prediction in Clinical Survival Analysis" by Hans van Houwelingen and Hein Putter (2011)|3|2023-12-04|
-|100|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|
-|101|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|
-|102|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|
-|103|[wowkster/dinOS](https://github.com/wowkster/dinOS)|A hobby operating system created to learn more about low level programming|3|2023-11-01|
-|104|[tipo159/rust-instruction-dispatch](https://github.com/tipo159/rust-instruction-dispatch)|This is a project to learn how to implement instruction dispatch in Rust.|3|2024-02-21|
-|105|[rei0515reten/pointerbook-sample](https://github.com/rei0515reten/pointerbook-sample)|Pointer book sample code and environment construction|3|2023-10-09|
-|106|[ryanneph/Jai-Code-Interop](https://github.com/ryanneph/Jai-Code-Interop)|Basic examples of code interop between Jai <—>  C/C++ <—> nasm (x86-64)|3|2024-01-26|
-|107|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2024-02-28|
-|108|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-02-11|
-|109|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2023-10-26|
-|110|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|2|2023-12-29|
-|111|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|
-|112|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|
+|73|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|2024-03-03|
+|74|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|5|2023-11-27|
+|75|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|A collection of ATMEL 8051 Series Microcontrollers (AT89C51/AT89S51/AT89S52/...) Assembly Programming Examples. All circuits have been simulated over Proteus software and verified on real hardware. a|5|2023-12-19|
+|76|[rdoetjes/c64](https://github.com/rdoetjes/c64)|c64 assembly course|5|2024-01-03|
+|77|[dumbtwink/fnc](https://github.com/dumbtwink/fnc)|FNC is an extremely lightweight collection of remakes of GNU Cat.|5|2023-11-05|
+|78|[luigidifraia/easyflash-loader](https://github.com/luigidifraia/easyflash-loader)|Flexible EasyFlash Loader with usage examples|5|2023-09-26|
+|79|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|
+|80|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|
+|81|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|4|2024-01-31|
+|82|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|
+|83|[markmoxon/elite-compendium](https://github.com/markmoxon/elite-compendium)|Source for the Elite Compendium, a collection of the best Acornsoft Elite hacks on one disc|4|2024-02-15|
+|84|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|
+|85|[aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools)|This Repository is a collection of different Ethical Hacking Tools written in python, ruby, rust, c++, go and c.|4|2023-12-27|
+|86|[Ayg0/LIBASM](https://github.com/Ayg0/LIBASM)|learning assembly why not doing a project at the same time|4|2023-10-18|
+|87|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|4|2023-12-20|
+|88|[bell-sw/glibc-string](https://github.com/bell-sw/glibc-string)|Collection of glibc optimized asm string implementations|4|2024-01-17|
+|89|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and background information to help with the analysis of stellar spectropolarimetric data.  The goal is to develop a collection of smaller tools and larger tutorials.|4|2024-02-29|
+|90|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|Guide for bare metal programming using stm32|4|2023-11-10|
+|91|[IceCool10/PacientZero](https://github.com/IceCool10/PacientZero)|C++ Packer ( Master Degree Project )|4|2023-12-04|
+|92|[whatrocks/solutions](https://github.com/whatrocks/solutions)|my solutions to programming exercises from books and other places|4|2024-02-26|
+|93|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|
+|94|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|3|2024-02-14|
+|95|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|3|2024-02-26|
+|96|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|
+|97|[robotman2412/boa-risc-v](https://github.com/robotman2412/boa-risc-v)|My second attempt at a RISC-V CPU with learnings form my previous attempt.|3|2024-01-14|
+|98|[survival-lumc/DynamicPrediction-book](https://github.com/survival-lumc/DynamicPrediction-book)|Code and datasets used in book "Dynamic Prediction in Clinical Survival Analysis" by Hans van Houwelingen and Hein Putter (2011)|3|2023-12-04|
+|99|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|
+|100|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|
+|101|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|
+|102|[wowkster/dinOS](https://github.com/wowkster/dinOS)|A hobby operating system created to learn more about low level programming|3|2023-11-01|
+|103|[tipo159/rust-instruction-dispatch](https://github.com/tipo159/rust-instruction-dispatch)|This is a project to learn how to implement instruction dispatch in Rust.|3|2024-02-21|
+|104|[rei0515reten/pointerbook-sample](https://github.com/rei0515reten/pointerbook-sample)|Pointer book sample code and environment construction|3|2023-10-09|
+|105|[ryanneph/Jai-Code-Interop](https://github.com/ryanneph/Jai-Code-Interop)|Basic examples of code interop between Jai <—>  C/C++ <—> nasm (x86-64)|3|2024-01-26|
+|106|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|2024-02-28|
+|107|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-02-11|
+|108|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2023-10-26|
+|109|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|2|2023-12-29|
+|110|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|
+|111|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|
+|112|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-10|
 |113|[segin-GH/esp-idf-examples](https://github.com/segin-GH/esp-idf-examples)|A repo full of esp-idf examples|2|2024-01-25|
 |114|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|2|2024-02-18|
 |115|[selimslab/logos](https://github.com/selimslab/logos)|How to create an OS from scratch  :loop:|2|2023-11-03|

@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|16254|2023-12-22|
-|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13054|2024-03-09|
+|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13055|2024-03-09|
 |3|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10170|2023-09-23|
 |4|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1997|2024-01-06|
-|5|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Learning Vim. A Hands-On Tutorial of Vim.|1629|2023-11-30|
+|5|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Learning Vim. A Hands-On Tutorial of Vim.|1630|2023-11-30|
 |6|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1336|2024-02-22|
 |7|[MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks)|Vim bookmark plugin|925|2023-12-28|
 |8|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|888|2023-12-01|
 |9|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|839|2024-01-11|
 |10|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|806|2023-12-13|
-|11|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|563|2024-02-10|
+|11|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|564|2024-02-10|
 |12|[luk400/vim-jukit](https://github.com/luk400/vim-jukit)|Jupyter-Notebook inspired Neovim/Vim Plugin|472|2023-10-22|
 |13|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|330|2023-11-26|
 |14|[fatso83/dotfiles](https://github.com/fatso83/dotfiles)|Cross-platform dotfiles shared by macOS and Linux (native and WSL2)|287|2024-02-26|
@@ -26,7 +26,7 @@
 |19|[mhinz/vim-rfc](https://github.com/mhinz/vim-rfc)|:notebook: Query RFC database and download RFCs from within Vim.|109|2023-11-28|
 |20|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|97|2024-02-14|
 |21|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|2024-03-08|
-|22|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|83|2024-01-23|
+|22|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|83|2024-03-10|
 |23|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|79|2024-01-02|
 |24|[Jorengarenar/miniSnip](https://github.com/Jorengarenar/miniSnip)|Lightweight snippet plugin for Vim|51|2023-12-10|
 |25|[j15k/colorcli](https://github.com/j15k/colorcli)|Collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm, and Mutt.|43|2024-02-18|
@@ -36,7 +36,7 @@
 |29|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|32|2024-03-01|
 |30|[tchapi/ansible-playbooks](https://github.com/tchapi/ansible-playbooks)|Roles and playbooks for Ansible|28|2024-03-04|
 |31|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|28|2024-03-01|
-|32|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|2024-03-08|
+|32|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|2024-03-10|
 |33|[fmi/vim-projects](https://github.com/fmi/vim-projects)| Projects created for the Vim course at FMI |21|2023-09-25|
 |34|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|21|2024-03-06|
 |35|[technicalpickles/dotfiles](https://github.com/technicalpickles/dotfiles)|My shareable dotfiles|19|2024-03-08|
@@ -58,7 +58,7 @@
 |51|[domaindrivendev/my-mac](https://github.com/domaindrivendev/my-mac)|Repeatable Ansible roles and playbook for provisioning my MacBook|8|2024-01-15|
 |52|[unixbhaskar/AdminScripts](https://github.com/unixbhaskar/AdminScripts)|Collection of scripts use for infrastructure maintenance.|8|2024-03-06|
 |53|[chreekat/vimin](https://github.com/chreekat/vimin)|:book: Folding for .in files|8|2024-01-25|
-|54|[joeljuca/cli](https://github.com/joeljuca/cli)|My personal setup for command-line interfaces, made public to serve as inspiration or learning resource for whoever might be interested.|7|2024-02-29|
+|54|[joeljuca/cli](https://github.com/joeljuca/cli)|My personal setup for command-line interfaces, made public to serve as inspiration or learning resource for whoever might be interested.|7|2024-03-10|
 |55|[caian-org/workstation](https://github.com/caian-org/workstation)|personal workstation bootstrap playbook|7|2023-09-29|
 |56|[laserswald/dotfiles](https://github.com/laserswald/dotfiles)|My collection of dotfiles.|7|2023-09-27|
 |57|[arkapg211002/SEM-5-CSE](https://github.com/arkapg211002/SEM-5-CSE)|All lab assignments and text books for SEM 5 CSE at TMSL (under MAKAUT) 2023-24|6|2023-11-30|
@@ -72,7 +72,7 @@
 |65|[atosatto/dotfiles](https://github.com/atosatto/dotfiles)|My personal collection of dotfiles|5|2023-12-09|
 |66|[casualjim/dot-files](https://github.com/casualjim/dot-files)|A collection of configuration scripts for emacs and vim|5|2024-01-22|
 |67|[jegj/ub-dev-playbook](https://github.com/jegj/ub-dev-playbook)|Ansible playbook to install and configures most of the software I use on my Ubuntu Dev Env|4|2024-02-03|
-|68|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|2024-03-04|
+|68|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|2024-03-10|
 |69|[lljbash/configs](https://github.com/lljbash/configs)|A collection of zsh/vim/tmux/... configurations of mine|4|2023-12-19|
 |70|[underyx/dotfiles](https://github.com/underyx/dotfiles)|a collection of dotfiles, as may be obvious|4|2024-01-05|
 |71|[NISH1001/paradox-configs](https://github.com/NISH1001/paradox-configs)|The list of all the configurations I have.|4|2023-09-22|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14962|12|2024-03-06|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9792|7|2024-03-08|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14960|12|2024-03-06|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9792|7|2024-03-09|
 |3|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|67|1|2024-01-21|
 |4|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|230|1|2024-01-17|
 |5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|718|1|2024-02-27|
@@ -15,26 +15,26 @@
 |8|[hubbsvtgc/LearnRISC-V](https://github.com/hubbsvtgc/LearnRISC-V)|Learn RISC-V|10|0|2023-11-08|
 |9|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|405|0|2024-01-29|
 |10|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|0|2023-12-25|
-|11|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|4|0|2023-12-20|
-|12|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|0|2023-11-27|
-|13|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|191|0|2024-03-01|
-|14|[42Bastian/JaguarDemos](https://github.com/42Bastian/JaguarDemos)|A collection of new demos for Atari Jaguar|8|0|2024-03-01|
-|15|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|0|2024-02-29|
-|16|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|25|0|2024-03-03|
-|17|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|13|0|2024-01-15|
-|18|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|268|0|2024-02-11|
-|19|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|11|0|2023-11-17|
-|20|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|0|2024-02-26|
-|21|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|0|2023-12-14|
-|22|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-03-09|
-|23|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|15|0|2024-01-06|
-|24|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|7|0|2023-10-03|
-|25|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|13|0|2023-11-07|
-|26|[leefogg/Gameboy-Example-Collection](https://github.com/leefogg/Gameboy-Example-Collection)|Collection of example Gameboy ROMs for development|7|0|2023-12-19|
-|27|[amir-kedis/Assembly-x86-helper](https://github.com/amir-kedis/Assembly-x86-helper)|We Learned how to make games with ASM 86x, had great fun with it, and want to share what we learned with you, to ease your process. 😉|15|0|2024-02-09|
-|28|[nanochess/book-Atari](https://github.com/nanochess/book-Atari)|Examples from my book Programming Games for Atari 2600|23|0|2024-02-29|
-|29|[TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)|All Algorithms implemented in AArch64 Assembly|129|0|2024-01-27|
-|30|[romh-acking/tensai-bakabon-sms-en](https://github.com/romh-acking/tensai-bakabon-sms-en)|Tensai Bakabon (Sega Master System): English translation |6|0|2023-09-09|
+|11|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|0|2024-03-10|
+|12|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|4|0|2023-12-20|
+|13|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|0|2023-11-27|
+|14|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|192|0|2024-03-01|
+|15|[42Bastian/JaguarDemos](https://github.com/42Bastian/JaguarDemos)|A collection of new demos for Atari Jaguar|8|0|2024-03-01|
+|16|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|0|2024-02-29|
+|17|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|25|0|2024-03-03|
+|18|[ahcbb6/baremetal-helloqemu](https://github.com/ahcbb6/baremetal-helloqemu)|Baremetal QEMU examples|13|0|2024-01-15|
+|19|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|269|0|2024-02-11|
+|20|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|11|0|2023-11-17|
+|21|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|0|2024-02-26|
+|22|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|0|2023-12-14|
+|23|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-03-09|
+|24|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|15|0|2024-01-06|
+|25|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|7|0|2023-10-03|
+|26|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|13|0|2023-11-07|
+|27|[leefogg/Gameboy-Example-Collection](https://github.com/leefogg/Gameboy-Example-Collection)|Collection of example Gameboy ROMs for development|7|0|2023-12-19|
+|28|[amir-kedis/Assembly-x86-helper](https://github.com/amir-kedis/Assembly-x86-helper)|We Learned how to make games with ASM 86x, had great fun with it, and want to share what we learned with you, to ease your process. 😉|15|0|2024-02-09|
+|29|[nanochess/book-Atari](https://github.com/nanochess/book-Atari)|Examples from my book Programming Games for Atari 2600|23|0|2024-02-29|
+|30|[TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)|All Algorithms implemented in AArch64 Assembly|129|0|2024-01-27|
 |31|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|30|0|2024-02-20|
 |32|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|Guide for bare metal programming using stm32|4|0|2023-11-10|
 |33|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|24|0|2024-03-07|

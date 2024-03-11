@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Groovy
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15962|3|2024-03-09|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|15961|3|2024-03-10|
 |2|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1688|1|2023-11-17|
 |3|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|10|1|2024-03-05|
 |4|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2495|1|2024-03-09|
@@ -18,7 +18,7 @@
 |11|[aim42/htmlSanityCheck](https://github.com/aim42/htmlSanityCheck)|Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like. |65|0|2024-02-07|
 |12|[akhikhl/gretty](https://github.com/akhikhl/gretty)|Advanced gradle plugin for running web-apps on jetty and tomcat.|656|0|2023-12-28|
 |13|[repaint-io/maven-tiles](https://github.com/repaint-io/maven-tiles)|Injecting maven configurations by composition rather than inheritance|150|0|2024-02-23|
-|14|[growerp/growerp](https://github.com/growerp/growerp)|GrowERP Flutter ERP for Android, IOS and Web using Moqui.org, Apache OFBiz |35|0|2024-03-07|
+|14|[growerp/growerp](https://github.com/growerp/growerp)|GrowERP Flutter ERP for Android, IOS and Web using Moqui.org, Apache OFBiz |35|0|2024-03-10|
 |15|[ianpilipski/IPTech-GradleXcodePlugin](https://github.com/ianpilipski/IPTech-GradleXcodePlugin)|A gradle plugin that builds Xcode projects|2|0|2023-10-16|
 |16|[BIOP/OMERO-scripts](https://github.com/BIOP/OMERO-scripts)|Series of script to make use of OMERO|2|0|2024-02-29|
 |17|[darinpope/github-api-global-lib](https://github.com/darinpope/github-api-global-lib)|-|136|0|2023-10-13|
@@ -50,7 +50,7 @@
 |43|[HubitatCommunity/GetAttributeApp](https://github.com/HubitatCommunity/GetAttributeApp)|-|5|0|2023-12-23|
 |44|[T45K/Bitbucket-Server-Code-Insights-plugin](https://github.com/T45K/Bitbucket-Server-Code-Insights-plugin)|💡 Plugin aligning Jenkins and Bitbucket Server Code Insights API|5|0|2023-10-30|
 |45|[matrei/pingcrm-grails](https://github.com/matrei/pingcrm-grails)|Grails/Groovy version of the Inertia.js demo application Ping CRM|5|0|2024-03-08|
-|46|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|8|0|2024-03-09|
+|46|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|8|0|2024-03-10|
 |47|[wcm-io/io.wcm.maven.aem-cloud-dependencies](https://github.com/wcm-io/io.wcm.maven.aem-cloud-dependencies)|Maven dependencies for the AEM Cloud Service SDK|2|0|2024-01-25|
 |48|[devatherock/drone-yaml-validator](https://github.com/devatherock/drone-yaml-validator)|CI plugin to validate yaml files|6|0|2024-03-02|
 |49|[hmrc/jenkins-job-builders](https://github.com/hmrc/jenkins-job-builders)|Automated Jenkins job and view configuration, via the Jenkins Job DSL Plugin|32|0|2024-03-06|
@@ -71,7 +71,7 @@
 |64|[TabooLib/taboolib-gradle-plugin](https://github.com/TabooLib/taboolib-gradle-plugin)|-|6|0|2024-02-28|
 |65|[GPars/GPars](https://github.com/GPars/GPars)|The GPars concurrency and parallelism framework for the JVM|236|0|2023-12-16|
 |66|[gradle/test-retry-gradle-plugin](https://github.com/gradle/test-retry-gradle-plugin)|Gradle plugin to retry tests that have failed to mitigate test flakiness.|199|0|2024-02-26|
-|67|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|3|0|2024-02-11|
+|67|[HubitatCommunity/Google_Calendar_Search](https://github.com/HubitatCommunity/Google_Calendar_Search)|HE App and Driver to toggle switch based on Google Calendar event|3|0|2024-03-09|
 |68|[grails/gorm-mongodb](https://github.com/grails/gorm-mongodb)|GORM for MongoDB|67|0|2024-03-09|
 |69|[gradlex-org/extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info)|A Gradle 6.8+ plugin to use legacy Java libraries as Java Modules in a modular Java project|93|0|2024-03-05|
 |70|[epi2me-labs/wf-basecalling](https://github.com/epi2me-labs/wf-basecalling)|-|18|0|2024-01-02|
@@ -115,7 +115,7 @@
 |108|[tmastersmart/hubitat-code](https://github.com/tmastersmart/hubitat-code)|Hubitat drivers including v1 iris|4|0|2024-02-15|
 |109|[nebula-plugins/nebula-clojure-plugin](https://github.com/nebula-plugins/nebula-clojure-plugin)|Plugin providing Clojuresque with compatibility fixes for Gradle 2.12 and later|18|0|2024-02-27|
 |110|[jericks/geo-shell](https://github.com/jericks/geo-shell)|geo-shell is an interactive shell for geospatial analysis|8|0|2023-11-05|
-|111|[xvik/gradle-java-lib-plugin](https://github.com/xvik/gradle-java-lib-plugin)|Gradle maven publishing configuration for Java or Groovy library or gradle plugin|18|0|2024-02-13|
+|111|[xvik/gradle-java-lib-plugin](https://github.com/xvik/gradle-java-lib-plugin)|Gradle maven publishing configuration for Java or Groovy library or gradle plugin|18|0|2024-03-10|
 |112|[ssadedin/graxxia](https://github.com/ssadedin/graxxia)|Wrappers for doing Mathematics in Groovy|22|0|2024-01-29|
 |113|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|574|0|2024-03-09|
 |114|[edgexfoundry/edgex-global-pipelines](https://github.com/edgexfoundry/edgex-global-pipelines)|Owner: DevOps WG|21|0|2023-11-15|
@@ -160,7 +160,7 @@
 |153|[nebula-plugins/gradle-netflixoss-project-plugin](https://github.com/nebula-plugins/gradle-netflixoss-project-plugin)|Gradle plugin to setup common needs for Netflix OSS projects|17|0|2024-02-27|
 |154|[h1alexbel/dothem](https://github.com/h1alexbel/dothem)|Personal Backlog of Tasks integrated with GitHub and Todoist|5|0|2023-10-19|
 |155|[ultraq/thymeleaf-expression-processor](https://github.com/ultraq/thymeleaf-expression-processor)|A simplified API for working with Thymeleaf expressions|2|0|2023-09-16|
-|156|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|23|0|2024-03-09|
+|156|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|23|0|2024-03-10|
 |157|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|468|0|2024-03-08|
 |158|[macmarrum/freeplane-scripting](https://github.com/macmarrum/freeplane-scripting)|-|4|0|2024-03-04|
 |159|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2024-01-29|

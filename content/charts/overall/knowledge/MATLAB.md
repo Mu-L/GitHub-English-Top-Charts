@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -17,15 +17,15 @@
 |10|[ahojnnes/local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation)|Comparative Evaluation of Hand-Crafted and Learned Local Features|212|2024-01-11|
 |11|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|196|2024-02-06|
 |12|[UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)|Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera. |188|2024-01-06|
-|13|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|180|2024-03-08|
+|13|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|180|2024-03-10|
 |14|[HybridRobotics/NMPC-DCLF-DCBF](https://github.com/HybridRobotics/NMPC-DCLF-DCBF)|A collection of work using nonlinear model predictive control (NMPC) with discrete-time control Lyapunov functions (CLFs) and control barrier functions (CBFs)|179|2023-11-09|
 |15|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|164|2024-03-05|
 |16|[peterhcharlton/RRest](https://github.com/peterhcharlton/RRest)|Algorithms to estimate respiratory rate from physiological signals|157|2023-12-19|
 |17|[mikexcohen/AnalyzingNeuralTimeSeries](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)|Code for ANTS book (Cohen, 2012, MIT Press)|156|2024-03-05|
 |18|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|147|2024-01-24|
 |19|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|135|2024-03-07|
-|20|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|99|2024-02-12|
-|21|[UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)|Contains Study Material of the Course|82|2024-01-06|
+|20|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|100|2024-02-12|
+|21|[UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)|Contains Study Material of the Course|81|2024-01-06|
 |22|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|77|2024-02-02|
 |23|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|75|2024-03-07|
 |24|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |75|2024-02-23|
@@ -37,7 +37,7 @@
 |30|[mathworks/HDL-Coder-Self-Guided-Tutorial](https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial)|Learn how to deploy an algorithm to an FPGA using MATLAB and Simulink.|50|2023-09-19|
 |31|[matlab-deep-learning/Image-Classification-in-MATLAB-Using-TensorFlow](https://github.com/matlab-deep-learning/Image-Classification-in-MATLAB-Using-TensorFlow)|This example shows how to call a TensorFlow model from MATLAB using co-execution with Python.|44|2023-12-05|
 |32|[peterhcharlton/ppg-beats](https://github.com/peterhcharlton/ppg-beats)|PPG-beats is a Matlab library of algorithms to detect heartbeats in photoplethysmogram (PPG) signals.|43|2023-12-14|
-|33|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|40|2024-02-01|
+|33|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|41|2024-02-01|
 |34|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|38|2024-02-26|
 |35|[wliusjtu/Generalized-Smoothing-Framework](https://github.com/wliusjtu/Generalized-Smoothing-Framework)|This is the released code for the following papers: A generalized framework for edge-preserving and structure-preserving image smoothing. Liu W, et al., TPAMI 2021, AAAI 2020|38|2023-09-21|
 |36|[odedstein/gp-matlab-tutorial](https://github.com/odedstein/gp-matlab-tutorial)|A basic tutorial for geometry processing in MATLAB using gptoolbox|38|2024-02-12|
@@ -49,9 +49,9 @@
 |42|[jabbring/dynamic-discrete-choice](https://github.com/jabbring/dynamic-discrete-choice)|Matlab package for learning to specify, compute, and estimate dynamic discrete choice models|34|2023-11-22|
 |43|[Chaogan-Yan/PaperScripts](https://github.com/Chaogan-Yan/PaperScripts)|Scripts for our papers. Readers can check, replicate or make use of the scripts in their future studies.|34|2024-02-02|
 |44|[abdulkarimgizzini/Deep-Learning-Based-Channel-Estimation-Schemes-for-IEEE-802.11p-Standard](https://github.com/abdulkarimgizzini/Deep-Learning-Based-Channel-Estimation-Schemes-for-IEEE-802.11p-Standard)|This repository includes the source code of the STA-DNN and TRFI DNN channel estimators proposed in "Deep Learning Based Channel Estimation Schemes for IEEE 802.11 p Standard" and "Joint TRFI and Deep ...|30|2023-12-12|
-|45|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|30|2023-11-08|
-|46|[minoue-xx/Oversampling-Imbalanced-Data](https://github.com/minoue-xx/Oversampling-Imbalanced-Data)|MATLAB Implementation of SMOTE related algorithms|29|2023-09-23|
-|47|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|29|2024-03-04|
+|45|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|30|2024-03-04|
+|46|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|30|2023-11-08|
+|47|[minoue-xx/Oversampling-Imbalanced-Data](https://github.com/minoue-xx/Oversampling-Imbalanced-Data)|MATLAB Implementation of SMOTE related algorithms|29|2023-09-23|
 |48|[akmenon1996/TemperatureControl-ReinforcementLearning](https://github.com/akmenon1996/TemperatureControl-ReinforcementLearning)|Comparing the performance of a DDPG Reinforcement learning model to control temperature with that of a PID and a thermostat controller. |28|2023-12-03|
 |49|[jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)|Random code snippets|27|2024-02-05|
 |50|[richardandersson/EyeMovementDetectorEvaluation](https://github.com/richardandersson/EyeMovementDetectorEvaluation)|Code and data for evaluating eye movement detection algorithms. Material used in the paper: Andersson, R., Larsson, L., Holmqvist, K., Stridh, M. & Nyström, M. (2016). One algorithm to rule them all?  ...|27|2024-01-31|
@@ -111,20 +111,20 @@
 |104|[ami-iit/ironcub-mk1-software](https://github.com/ami-iit/ironcub-mk1-software)|In this repository we share software for dynamics simulations of the jet-powered humanoid iRonCub-Mk1.|11|2024-01-04|
 |105|[MColbrook/Measure-preserving-Extended-Dynamic-Mode-Decomposition](https://github.com/MColbrook/Measure-preserving-Extended-Dynamic-Mode-Decomposition)|General purpose code and examples for the mpEDMD algorithm.|11|2023-11-16|
 |106|[MathWorks-Teaching-Resources/Calculus-Derivatives](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives)|Interactive module that introduces fundamentals of derivatives including the product and chain rule as presented in Calculus I courses|11|2024-02-09|
-|107|[adamshch/GraFT-analysis](https://github.com/adamshch/GraFT-analysis)|This repository contains code for morphology-free analysis of functional fluorescence microscopy. The focal  algorithm, Graph-Filtered Time-trace (GraFT) Dictionary Learning, is published in Charles e ...|11|2023-11-01|
-|108|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|11|2023-11-05|
-|109|[patzu/Dissertation](https://github.com/patzu/Dissertation)|This source code is my thesis implementation in MATLAB which clusters Mobile Wireless Sensors using Genetic and Bacterial conjugation Algorithms.|11|2023-11-15|
-|110|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|10|2024-03-05|
-|111|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|10|2024-02-16|
-|112|[WangJun2023/HLFC](https://github.com/WangJun2023/HLFC)|Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection, IEEE TCYB 2022.|10|2023-12-17|
-|113|[matlab-deep-learning/Quantized-Deep-Neural-Network-on-Jetson-AGX-Xavier](https://github.com/matlab-deep-learning/Quantized-Deep-Neural-Network-on-Jetson-AGX-Xavier)|How to create, train and quantize network, then integrate it into pre/post image processing and generate CUDA C++ code for targeting Jetson AGX Xavier|10|2023-09-30|
-|114|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|2024-01-13|
-|115|[SUwonglab/TimeReg](https://github.com/SUwonglab/TimeReg)|time course regulatory analysis from paired gene expression and chromatin accessibility time course data |10|2023-11-10|
-|116|[mmuckley/MRI_FISTA](https://github.com/mmuckley/MRI_FISTA)|A collection of fast FISTA-type algorithms for MRI.|10|2023-12-18|
-|117|[cerkut/wpAudioPlugin](https://github.com/cerkut/wpAudioPlugin)|Example code using MATLAB Audio System Toolbox for teaching at MED4 and SMC Masters.|10|2023-11-08|
-|118|[AlfTang/Linear-Regression](https://github.com/AlfTang/Linear-Regression)|Programming assignment 1 in Machine Learning course by Andrew Ng on Coursera|10|2023-09-18|
-|119|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|2024-02-29|
-|120|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|9|2024-02-27|
+|107|[WangJun2023/HLFC](https://github.com/WangJun2023/HLFC)|Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection, IEEE TCYB 2022.|11|2023-12-17|
+|108|[adamshch/GraFT-analysis](https://github.com/adamshch/GraFT-analysis)|This repository contains code for morphology-free analysis of functional fluorescence microscopy. The focal  algorithm, Graph-Filtered Time-trace (GraFT) Dictionary Learning, is published in Charles e ...|11|2023-11-01|
+|109|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|11|2023-11-05|
+|110|[patzu/Dissertation](https://github.com/patzu/Dissertation)|This source code is my thesis implementation in MATLAB which clusters Mobile Wireless Sensors using Genetic and Bacterial conjugation Algorithms.|11|2023-11-15|
+|111|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|10|2024-02-27|
+|112|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|10|2024-03-05|
+|113|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|10|2024-02-16|
+|114|[matlab-deep-learning/Quantized-Deep-Neural-Network-on-Jetson-AGX-Xavier](https://github.com/matlab-deep-learning/Quantized-Deep-Neural-Network-on-Jetson-AGX-Xavier)|How to create, train and quantize network, then integrate it into pre/post image processing and generate CUDA C++ code for targeting Jetson AGX Xavier|10|2023-09-30|
+|115|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|2024-01-13|
+|116|[SUwonglab/TimeReg](https://github.com/SUwonglab/TimeReg)|time course regulatory analysis from paired gene expression and chromatin accessibility time course data |10|2023-11-10|
+|117|[mmuckley/MRI_FISTA](https://github.com/mmuckley/MRI_FISTA)|A collection of fast FISTA-type algorithms for MRI.|10|2023-12-18|
+|118|[cerkut/wpAudioPlugin](https://github.com/cerkut/wpAudioPlugin)|Example code using MATLAB Audio System Toolbox for teaching at MED4 and SMC Masters.|10|2023-11-08|
+|119|[AlfTang/Linear-Regression](https://github.com/AlfTang/Linear-Regression)|Programming assignment 1 in Machine Learning course by Andrew Ng on Coursera|10|2023-09-18|
+|120|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|2024-02-29|
 |121|[MathWorks-Teaching-Resources/Calculus-Integrals](https://github.com/MathWorks-Teaching-Resources/Calculus-Integrals)|Interactive examples using MATLAB to visualize and practice integral calculus including substitution, integration by parts, and the fundamental theorem of calculus|9|2024-02-20|
 |122|[MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing)|Interactive courseware module that addresses common foundational-level concepts taught in signal processing courses.|9|2023-10-27|
 |123|[starchen-li/Rotation-Alignment-with-Riemannian-Mean-RMRA](https://github.com/starchen-li/Rotation-Alignment-with-Riemannian-Mean-RMRA)|My thesis "Transfer Learning: Rotation Alignment with Riemannian Mean for Brain-Computer Interfaces and Wheelchair Control" related code|9|2023-11-08|
@@ -178,7 +178,7 @@
 |171|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|5|2023-12-01|
 |172|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|5|2024-01-13|
 |173|[matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras](https://github.com/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras)|This example shows how to co-execute MATLAB and Python to simulate the effect of channel estimate compression on precoding in a MIMO OFDM channel.|5|2024-01-23|
-|174|[Ali-Stanford/PhysicsInformedPointNetElasticity](https://github.com/Ali-Stanford/PhysicsInformedPointNetElasticity)|Implementation of Physics-Informed PointNet (PIPN) for weakly-supervised learning of 2D linear elasticity (plane stress) on multiple sets of irregular geometries|5|2024-02-23|
+|174|[Ali-Stanford/PhysicsInformedPointNetElasticity](https://github.com/Ali-Stanford/PhysicsInformedPointNetElasticity)|Implementation of Physics-Informed PointNet (PIPN) for weakly-supervised learning of 2D linear elasticity (plane stress) on multiple sets of irregular geometries|5|2024-03-10|
 |175|[Realife-Brahmin/PowerSystems-Analysis-Stability-WSU](https://github.com/Realife-Brahmin/PowerSystems-Analysis-Stability-WSU)|MATLAB implementations for the courses Analysis of Power Systems (EE 521) and Power System Stability and Control (EE 523) at Washington State University.|5|2024-01-27|
 |176|[Steigner/1IN](https://github.com/Steigner/1IN)|Informatika / Computer Science Course - Winter Semester 2023|5|2023-11-28|
 |177|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
