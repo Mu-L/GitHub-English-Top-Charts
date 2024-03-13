@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-03-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1452|2024-03-04|2023-12-27|
+|1|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1465|2024-03-12|2023-12-27|
 |2|[RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)|A Tutorial for Setting Python Development Environment with VScode and Docker|740|2024-02-02|2023-04-30|
 |3|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|490|2024-03-03|2023-12-17|
 |4|[MrRobinOfficial/Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine)|This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++.|445|2024-02-26|2023-04-20|
 |5|[codecov/self-hosted](https://github.com/codecov/self-hosted)|Example of how to setup Codecov with docker compose|379|2024-02-27|2023-06-28|
 |6|[SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland)|collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay|347|2024-02-03|2023-03-18|
 |7|[vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response)|practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response |302|2023-12-29|2023-12-27|
-|8|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|289|2023-10-07|2023-04-05|
-|9|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|246|2024-01-23|2023-09-03|
-|10|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|224|2024-01-06|2023-06-21|
-|11|[ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way)|A guide to setting up a production-like Kubernetes cluster on a local machine|216|2024-01-06|2023-07-13|
+|8|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|291|2023-10-07|2023-04-05|
+|9|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|245|2024-01-23|2023-09-03|
+|10|[JaKooLit/Hyprland-v3](https://github.com/JaKooLit/Hyprland-v3)|Arch-Hyprland install script with collection of dots from my previous Hyprland dots|225|2024-01-06|2023-06-21|
+|11|[ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way)|A guide to setting up a production-like Kubernetes cluster on a local machine|217|2024-01-06|2023-07-13|
 |12|[rashevskyv/4IFIR](https://github.com/rashevskyv/4IFIR)|Guide for using 4IFIR - ultimate CFW for overlocking Nintendo Switch|204|2024-02-27|2023-05-14|
 |13|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|202|2024-03-11|2023-12-02|
-|14|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|173|2024-03-11|2023-10-30|
-|15|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|159|2024-02-21|2023-11-02|
+|14|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|175|2024-03-11|2023-10-30|
+|15|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|160|2024-02-21|2023-11-02|
 |16|[grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB)|A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.|145|2023-09-15|2023-04-22|
 |17|[fwdcloudsec/known_aws_accounts](https://github.com/fwdcloudsec/known_aws_accounts)|List of known AWS accounts|108|2024-02-27|2023-06-01|
 |18|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|89|2024-02-13|2024-01-12|
@@ -30,11 +30,11 @@
 |23|[skyzyx/rg35xx-garlicos-macos-instructions](https://github.com/skyzyx/rg35xx-garlicos-macos-instructions)|Guides for Garlic OS and Retroarch on your Anbernic RG35XX using macOS.|66|2024-01-16|2023-03-28|
 |24|[defer-panic/awesome-go-interview](https://github.com/defer-panic/awesome-go-interview)|Collection of resources for preparation to technical interview in Go|54|2023-10-30|2023-06-19|
 |25|[blekmus/aws-stable-diffusion](https://github.com/blekmus/aws-stable-diffusion)|How to run Stable Diffusion Automatic1111 WebUI on AWS EC2 instance|53|2023-11-22|2023-05-21|
-|26|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|48|2024-02-29|2024-01-02|
+|26|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|49|2024-03-12|2024-01-02|
 |27|[oflg/Tidme](https://github.com/oflg/Tidme)|Tidme uses advanced Incremental Learning concepts to make it your powerful second brain for acquiring lifelong knowledge.|46|2024-03-04|2023-09-21|
-|28|[aws-samples/aws-hpc-recipes](https://github.com/aws-samples/aws-hpc-recipes)|Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.|44|2024-02-28|2023-09-09|
+|28|[aws-samples/aws-hpc-recipes](https://github.com/aws-samples/aws-hpc-recipes)|Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.|44|2024-03-12|2023-09-09|
 |29|[YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible)|A thorough guide to defeating DRM on Linux|44|2024-02-04|2023-06-20|
-|30|[awwsmm/daily-bevy](https://github.com/awwsmm/daily-bevy)|Learn Bevy (and Rust) by exploring a small example (almost) every day|43|2024-03-09|2024-01-25|
+|30|[awwsmm/daily-bevy](https://github.com/awwsmm/daily-bevy)|Learn Bevy (and Rust) by exploring a small example (almost) every day|43|2024-03-12|2024-01-25|
 |31|[Layr-Labs/eigenda-operator-setup](https://github.com/Layr-Labs/eigenda-operator-setup)|Quick start setup guide for EigenDA|42|2024-03-08|2023-11-08|
 |32|[manikcloud/DevOps-Tutorial](https://github.com/manikcloud/DevOps-Tutorial)|DevOps-Tutorial|38|2024-02-04|2023-04-22|
 |33|[Schaka/media-server-guide](https://github.com/Schaka/media-server-guide)|A full guide for creating and maintaining your media server at home|37|2023-11-17|2023-07-10|

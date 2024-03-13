@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-03-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|759|2024-03-03|2023-04-04|
+|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|762|2024-03-03|2023-04-04|
 |2|[alidehkhodaei/kotlin-cheat-sheet](https://github.com/alidehkhodaei/kotlin-cheat-sheet)|📄 A cheat sheet for Kotlin programming language|240|2023-10-04|2023-03-22|
-|3|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|183|2024-03-08|2024-01-19|
-|4|[myofficework000/Jetpack-Compose-All-in-one-Guide](https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|124|2024-03-10|2023-04-11|
-|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|121|2024-03-01|2023-10-18|
+|3|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|184|2024-03-08|2024-01-19|
+|4|[myofficework000/Jetpack-Compose-All-in-one-Guide](https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|125|2024-03-12|2023-04-11|
+|5|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|122|2024-03-01|2023-10-18|
 |6|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Support document for my video series about learning to program computers from the ground up.|71|2024-03-10|2024-02-06|
-|7|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|68|2024-02-20|2024-01-08|
+|7|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|69|2024-02-20|2024-01-08|
 |8|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |67|2024-03-07|2024-01-24|
 |9|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
 |10|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|54|2024-03-08|2023-04-09|
@@ -25,15 +25,15 @@
 |18|[dalemncy/android-kotlin-intents](https://github.com/dalemncy/android-kotlin-intents)|Explore Android intents in Kotlin with examples of activity-to-activity communication and passing extra parameters. Includes practical RecyclerView integration for enhanced UI display|29|2023-10-20|2023-10-20|
 |19|[sagardhadke/LockQR](https://github.com/sagardhadke/LockQR)|LockQR: Effortless QR Code Generation, Free and Shareable|29|2024-01-13|2023-06-25|
 |20|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|28|2024-02-28|2023-12-13|
-|21|[aloussase/alexandria-app](https://github.com/aloussase/alexandria-app)|:book: Search for books and download and convert them to different formats|26|2024-03-11|2024-02-19|
+|21|[aloussase/alexandria-app](https://github.com/aloussase/alexandria-app)|:book: Search for books and download and convert them to different formats|27|2024-03-11|2024-02-19|
 |22|[git-jr/Threads-Jetpack-Compose](https://github.com/git-jr/Threads-Jetpack-Compose)|Clone do aplicativo Threads, feito em Jetpack Compose, com autenticação pelo Facebook, armazenamento no Firebase, animações e muito mais!|26|2023-09-12|2023-07-12|
 |23|[ask-resume/ask-resume-backend](https://github.com/ask-resume/ask-resume-backend)|AskResume: Interview Q&A Generator for your resume|24|2024-03-01|2023-03-25|
 |24|[C10udburst/MessengerEx](https://github.com/C10udburst/MessengerEx)|An Xposed module that improves the Facebook Messenger experience.|23|2023-10-28|2023-10-28|
 |25|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
-|26|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|22|2023-12-27|2023-09-11|
+|26|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|21|2023-12-27|2023-09-11|
 |27|[anderssv/kotlin-htmx](https://github.com/anderssv/kotlin-htmx)|Example project for how to do HTMX with Kotlin and KTor|21|2023-10-18|2023-08-24|
 |28|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
-|29|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|17|2024-03-04|2024-03-04|
+|29|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|18|2024-03-04|2024-03-04|
 |30|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |17|2024-03-11|2024-02-29|
 |31|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|17|2024-02-06|2024-01-13|
 |32|[anandbosedev/android-ci-demo](https://github.com/anandbosedev/android-ci-demo)|A demo of how to setup CI for Android projects with a pre-built Android toolchain container image|16|2024-02-09|2024-01-25|

@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-03-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1912|2024-03-11|2023-06-14|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|1914|2024-03-11|2023-06-14|
 |2|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|204|2024-01-18|2023-10-03|
-|3|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|171|2024-01-14|2023-07-28|
+|3|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|173|2024-01-14|2023-07-28|
 |4|[fabiangruss/playful-swiftui-examples](https://github.com/fabiangruss/playful-swiftui-examples)|A collection of SwiftUI examples to use|162|2023-10-23|2023-10-04|
 |5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|158|2024-03-01|2023-07-12|
-|6|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|114|2024-03-10|2024-02-22|
+|6|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|115|2024-03-12|2024-02-22|
 |7|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|111|2024-02-16|2023-06-05|
 |8|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|84|2024-03-11|2023-12-01|
 |9|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|73|2023-12-21|2023-12-16|
@@ -19,8 +19,8 @@
 |12|[twostraws/FaceFacts](https://github.com/twostraws/FaceFacts)|Source code for my SwiftUI + SwiftData tutorial.|47|2023-12-23|2023-12-23|
 |13|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|44|2023-12-21|2023-06-19|
 |14|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|25|2024-02-09|2023-08-01|
-|15|[rafunderscore/Escapades](https://github.com/rafunderscore/Escapades)|A collection of some of my SwiftUI expreiments. |23|2023-10-14|2023-10-04|
-|16|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|22|2024-03-10|2023-11-22|
+|15|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|23|2024-03-10|2023-11-22|
+|16|[rafunderscore/Escapades](https://github.com/rafunderscore/Escapades)|A collection of some of my SwiftUI expreiments. |23|2023-10-14|2023-10-04|
 |17|[PasiSalenius/CocoaCompose](https://github.com/PasiSalenius/CocoaCompose)|Collection of Cocoa controls that look just right, offer modern Swift APIs, and nicely compose together.|21|2024-03-02|2023-07-22|
 |18|[harshavardhanyadav2004/SWIFT-DSA](https://github.com/harshavardhanyadav2004/SWIFT-DSA)|In This i am going to contribute Data Structures and algorithms on swift programming Language.|19|2024-02-20|2024-01-02|
 |19|[PacktPublishing/SwiftUI-Cookbook-3rd-Edition](https://github.com/PacktPublishing/SwiftUI-Cookbook-3rd-Edition)|Code Repository for SwiftUI cookbook Third Edition, Published by Packt|17|2024-01-10|2023-05-16|
@@ -54,12 +54,14 @@
 |47|[sabapathyk7/SOLIDPrinciplesExample](https://github.com/sabapathyk7/SOLIDPrinciplesExample)|Demonstrating SOLID principles with Examples|6|2024-01-26|2024-01-14|
 |48|[chris01b/LivePhotoWallpaper](https://github.com/chris01b/LivePhotoWallpaper)|Create iOS 17 custom live wallpapers|6|2023-10-09|2023-10-09|
 |49|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|
-|50|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-03-01|2023-06-30|
-|51|[TheAppWizard/QRViewSwiftUI](https://github.com/TheAppWizard/QRViewSwiftUI)|Here's a guide on creating a QR code generator using SwiftUI.|5|2024-01-24|2024-01-22|
-|52|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|
-|53|[helloItsHEssam/Library](https://github.com/helloItsHEssam/Library)|A simple project with SwiftUI. In this project, it displays a list of favorite books and the details of each one.|5|2023-10-01|2023-09-29|
-|54|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2023-10-14|2023-08-20|
-|55|[ausdrew/ShakeWellerer](https://github.com/ausdrew/ShakeWellerer)|🎲 Roll the dice with your snippets!|5|2023-11-28|2023-08-13|
+|50|[iamStephenFang/WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit)|Examples of feature reproduction for WWDC "What's New in UIKit" session.|6|2024-01-16|2023-07-13|
+|51|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|6|2024-03-01|2023-06-30|
+|52|[TheAppWizard/QRViewSwiftUI](https://github.com/TheAppWizard/QRViewSwiftUI)|Here's a guide on creating a QR code generator using SwiftUI.|5|2024-01-24|2024-01-22|
+|53|[editorscut/ec014dataflow](https://github.com/editorscut/ec014dataflow)|Code repo for DataFlow book|5|2024-02-28|2024-01-03|
+|54|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|5|2023-11-15|2023-10-31|
+|55|[helloItsHEssam/Library](https://github.com/helloItsHEssam/Library)|A simple project with SwiftUI. In this project, it displays a list of favorite books and the details of each one.|5|2023-10-01|2023-09-29|
+|56|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2023-10-14|2023-08-20|
+|57|[ausdrew/ShakeWellerer](https://github.com/ausdrew/ShakeWellerer)|🎲 Roll the dice with your snippets!|5|2023-11-28|2023-08-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
