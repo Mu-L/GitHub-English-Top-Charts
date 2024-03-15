@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-03-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|190|2024-01-07|2023-09-03|
+|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|191|2024-01-07|2023-09-03|
 |2|[ekholme/gcp_quarto_api](https://github.com/ekholme/gcp_quarto_api)|Step-by-step guide for deploying an API using Quarto, R, and plumber via Google Cloud|48|2023-11-13|2023-11-13|
 |3|[hypebright/async_shiny](https://github.com/hypebright/async_shiny)|examples to implement asynchronous programming in Shiny ✨ |41|2024-03-01|2023-03-19|
 |4|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|24|2024-03-04|2023-04-14|
-|5|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|20|2024-03-12|2023-12-28|
-|6|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|20|2023-12-27|2023-12-24|
+|5|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|21|2023-12-27|2023-12-24|
+|6|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|20|2024-03-14|2023-12-28|
 |7|[nicucalcea/Ra11y](https://github.com/nicucalcea/Ra11y)|Collection of accessibility functions for R|18|2024-01-09|2023-09-22|
 |8|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|18|2024-02-17|2023-09-22|
 |9|[PPBDS/tidymodels.tutorials](https://github.com/PPBDS/tidymodels.tutorials)|Tutorials for Tidy Modeling with R|16|2024-01-29|2023-07-05|
@@ -26,13 +26,13 @@
 |19|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|11|2023-09-27|2023-08-16|
 |20|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|11|2024-02-05|2023-06-03|
 |21|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|10|2024-02-03|2023-04-05|
-|22|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|8|2024-03-05|2023-12-30|
+|22|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|8|2024-03-14|2023-12-30|
 |23|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|8|2023-11-25|2023-11-25|
 |24|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|8|2024-01-01|2023-11-11|
 |25|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|7|2024-02-23|2024-02-18|
-|26|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
-|27|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|6|2024-03-09|2024-01-07|
-|28|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|6|2024-03-10|2024-01-03|
+|26|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|7|2024-03-10|2024-01-03|
+|27|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
+|28|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|6|2024-03-09|2024-01-07|
 |29|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
 |30|[milos-agathon/isochrone_maps](https://github.com/milos-agathon/isochrone_maps)|In this repo, I will show you how to create interactive and static isochrone maps in R using openrouteservice, leaflet, and ggplot2.|6|2023-10-14|2023-10-14|
 |31|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
