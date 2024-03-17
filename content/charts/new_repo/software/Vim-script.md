@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kaarmu/typst.vim](https://github.com/kaarmu/typst.vim)|Vim plugin for Typst|228|2024-03-12|2023-03-24|
+|1|[kaarmu/typst.vim](https://github.com/kaarmu/typst.vim)|Vim plugin for Typst|228|2024-03-16|2023-03-24|
 |2|[CoderCookE/vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt)|Vim Plugin For ChatGPT|197|2024-03-04|2023-03-30|
 |3|[xero/miasma.nvim](https://github.com/xero/miasma.nvim)|a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim|123|2024-02-28|2023-06-17|
-|4|[nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)|Evangelion but for Vimmers|91|2024-03-07|2023-04-23|
+|4|[nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)|Evangelion but for Vimmers|92|2024-03-07|2023-04-23|
 |5|[csdvrx/CuteVim](https://github.com/csdvrx/CuteVim)|Sensible defaults for Vim|86|2024-01-21|2023-12-25|
 |6|[AndrewRadev/typewriter.vim](https://github.com/AndrewRadev/typewriter.vim)|Make cool typewriter sounds in insert mode|74|2024-01-07|2023-04-01|
 |7|[Donaldttt/fuzzyy](https://github.com/Donaldttt/fuzzyy)|A fuzzy finder plugin for vim|63|2024-02-28|2023-04-30|
@@ -19,13 +19,13 @@
 |12|[skywind3000/vim-navigator](https://github.com/skywind3000/vim-navigator)|:rocket: Navigate Your Commands Easily !!|27|2024-03-14|2023-06-27|
 |13|[ccutch/pbj](https://github.com/ccutch/pbj)|The PB&J Stack|26|2023-12-12|2023-10-19|
 |14|[wolandark/vim-live-server](https://github.com/wolandark/vim-live-server)|A live web server for Vim/NeoVim - see your changes in real time|26|2024-01-24|2023-05-23|
-|15|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|25|2024-03-15|2024-03-01|
+|15|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|25|2024-03-16|2024-03-01|
 |16|[ubaldot/vim-replica](https://github.com/ubaldot/vim-replica)|Enjoy Jupyter through Vim!|23|2023-10-09|2023-03-30|
 |17|[fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim)|Generic log syntax highlighting and filetype management for Neovim|22|2023-11-01|2023-04-24|
 |18|[skywind3000/vim-color-patch](https://github.com/skywind3000/vim-color-patch)|:rainbow: Load colorscheme patch script automatically !!|21|2024-02-18|2024-01-05|
 |19|[TabbyML/vim-tabby](https://github.com/TabbyML/vim-tabby)|-|21|2024-03-01|2023-10-22|
 |20|[chtenb/helix.vim](https://github.com/chtenb/helix.vim)|Emulate Helix keybindings inside Vim emulators|21|2024-03-15|2023-10-03|
-|21|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|20|2024-03-14|2024-01-30|
+|21|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|20|2024-03-16|2024-01-30|
 |22|[fathulfahmy/dotfiles-wsl](https://github.com/fathulfahmy/dotfiles-wsl)|🪟 Windows development setup with WSL2, VS Code, Vim and GlazeWM|20|2023-11-22|2023-06-09|
 |23|[czheo/mojo.vim](https://github.com/czheo/mojo.vim)|Vim Syntax Highlighting for the Mojo programming language|20|2023-10-08|2023-05-11|
 |24|[ActuallyTaylor/.dotfiles](https://github.com/ActuallyTaylor/.dotfiles)|-|20|2023-10-03|2023-04-09|
@@ -71,8 +71,8 @@
 |64|[kennypete/vim-popped](https://github.com/kennypete/vim-popped)|A plugin for Vim providing commands that use Vim’s builtin popup window functionality.|8|2023-10-29|2023-10-29|
 |65|[EmotionlessDev/FEFU](https://github.com/EmotionlessDev/FEFU)|FEFU notes (Math & computer science)|8|2023-12-31|2023-09-30|
 |66|[0x501D/vim-voice-comments](https://github.com/0x501D/vim-voice-comments)|Listen and record voice comment messages in vim|8|2023-09-29|2023-09-21|
-|67|[seandewar/paragon.vim](https://github.com/seandewar/paragon.vim)|Personal minimalistic Vim/Neovim colour scheme.|8|2023-12-20|2023-04-26|
-|68|[bhrown/brown.vim](https://github.com/bhrown/brown.vim)|Brown colorscheme for Vim|7|2024-02-15|2023-08-01|
+|67|[bhrown/brown.vim](https://github.com/bhrown/brown.vim)|Brown colorscheme for Vim|8|2024-02-15|2023-08-01|
+|68|[seandewar/paragon.vim](https://github.com/seandewar/paragon.vim)|Personal minimalistic Vim/Neovim colour scheme.|8|2023-12-20|2023-04-26|
 |69|[Togohogo1/dotfiles](https://github.com/Togohogo1/dotfiles)|Linux configuration files. “Just some alien fruit salad to keep you in the zone”!|6|2024-03-08|2024-01-04|
 |70|[NI57721/skkeleton-state-popup](https://github.com/NI57721/skkeleton-state-popup)|Create a popup that shows the state of skkeleton|6|2024-01-26|2023-11-21|
 |71|[nvimdev/nightsky.vim](https://github.com/nvimdev/nightsky.vim)|a minimal vim/neovim colorscheme |6|2024-02-09|2023-07-20|
@@ -131,7 +131,7 @@
 |124|[kentkr/vim-databricks](https://github.com/kentkr/vim-databricks)|Plugin to send code to databricks for execution|3|2024-01-04|2023-09-30|
 |125|[hytracer/codingstyle.nvim](https://github.com/hytracer/codingstyle.nvim)|Epitech coding style for (neo)vim|3|2023-09-21|2023-09-20|
 |126|[Antrubtor/VIM_config_Antrubtor](https://github.com/Antrubtor/VIM_config_Antrubtor)|-|3|2023-11-24|2023-09-05|
-|127|[leoatchina/leovim](https://github.com/leoatchina/leovim)|-|3|2024-03-15|2023-09-05|
+|127|[leoatchina/leovim](https://github.com/leoatchina/leovim)|-|3|2024-03-16|2023-09-05|
 |128|[OleOaks/Mecrisp-Stellaris-VIM-Syntax-Highlighter](https://github.com/OleOaks/Mecrisp-Stellaris-VIM-Syntax-Highlighter)|VIM editor syntax highlighter for the Mecrisp-Stellaris forth programming language|3|2024-01-17|2023-09-03|
 |129|[EsinShadrach/vim-stuff](https://github.com/EsinShadrach/vim-stuff)|-|3|2023-12-18|2023-09-01|
 |130|[girishji/omnifunc-complete.vim](https://github.com/girishji/omnifunc-complete.vim)|Autocompletion source of builtin omnifunc for Vimcomplete plugin.|3|2024-01-10|2023-08-09|

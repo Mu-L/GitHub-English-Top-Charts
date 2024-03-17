@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|62|2024-03-02|2023-04-10|
+|1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|63|2024-03-02|2023-04-10|
 |2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|53|2024-02-23|2024-01-19|
 |3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|33|2024-01-05|2023-07-27|
 |4|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-02-22|2023-04-05|
@@ -76,7 +76,6 @@
 |69|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
 |70|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
 |71|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
-|72|[123SmallMushroom/MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)|-|2|2024-01-21|2023-03-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
