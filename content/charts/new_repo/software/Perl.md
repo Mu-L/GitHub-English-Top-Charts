@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,10 +14,10 @@
 |7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|26|2024-03-15|2024-02-08|
 |8|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
 |9|[turistu/rmx3474-rooting](https://github.com/turistu/rmx3474-rooting)|rooting the Realme 9 5G rmx3474 phone|26|2023-09-17|2023-04-06|
-|10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-03-04|2023-12-20|
-|11|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|17|2024-01-03|2023-07-11|
-|12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-02-17|2023-06-17|
-|13|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|16|2024-03-16|2024-02-17|
+|10|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|20|2024-03-17|2024-02-17|
+|11|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-03-04|2023-12-20|
+|12|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|17|2024-01-03|2023-07-11|
+|13|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-02-17|2023-06-17|
 |14|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-02-22|2024-02-12|
 |15|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
 |16|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
@@ -26,7 +26,7 @@
 |19|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|12|2024-03-14|2024-03-13|
 |20|[kashifmunir92/SemiSRL](https://github.com/kashifmunir92/SemiSRL)|-|12|2024-01-17|2024-01-17|
 |21|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|12|2023-09-17|2023-08-08|
-|22|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|11|2024-03-16|2024-01-08|
+|22|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|11|2024-03-17|2024-01-08|
 |23|[angelotheman/developer-system-config](https://github.com/angelotheman/developer-system-config)|-|11|2024-01-03|2024-01-01|
 |24|[caasivfbioinfo/Bol_pangenome](https://github.com/caasivfbioinfo/Bol_pangenome)|-|11|2023-11-26|2023-11-23|
 |25|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
@@ -117,7 +117,7 @@
 |110|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |111|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |112|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|113|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-16|2023-12-09|
+|113|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-17|2023-12-09|
 |114|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |115|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-02-10|2023-12-01|
 |116|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
@@ -148,6 +148,7 @@
 |141|[sonic-com/pagerduty2zabbix](https://github.com/sonic-com/pagerduty2zabbix)|Update Zabbix events with PagerDuty incident changes via WebHook (2-way ack).|2|2024-02-06|2023-05-16|
 |142|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2023-11-26|2023-04-22|
 |143|[jkg/Telegram-Bot](https://github.com/jkg/Telegram-Bot)|Perl module to make creating new Telegram bots easy|2|2024-02-24|2023-04-11|
+|144|[gbxyz/perl-net-rdap](https://github.com/gbxyz/perl-net-rdap)|Net::RDAP - an interface to the Registration Data Access Protocol.|2|2024-03-15|2023-03-28|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
