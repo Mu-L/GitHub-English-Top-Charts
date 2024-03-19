@@ -1,209 +1,209 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > JavaScript
-<sub>Updated: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)|A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage|15566|2023-11-29|2023-11-23|
-|2|[sunner/ChatALL](https://github.com/sunner/ChatALL)| Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers|13448|2024-03-17|2023-04-08|
-|3|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)|这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。|13395|2024-03-09|2023-03-28|
-|4|[songquanpeng/one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution  ...|11457|2024-03-17|2023-04-22|
-|5|[HeyPuter/puter](https://github.com/HeyPuter/puter)|🌐 The Internet OS!|9526|2024-03-17|2024-03-03|
-|6|[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)|A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!|9149|2024-03-15|2023-06-04|
-|7|[awslabs/llrt](https://github.com/awslabs/llrt)|LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.|7340|2024-03-16|2023-09-20|
-|8|[spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)|🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). |6377|2024-01-17|2023-09-29|
-|9|[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)|🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT ...|5715|2024-03-15|2023-06-26|
-|10|[nuejs/nue](https://github.com/nuejs/nue)|The Content First Web Framework|5431|2024-03-17|2023-09-13|
-|11|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|5036|2024-02-27|2023-05-30|
-|12|[MineDojo/Voyager](https://github.com/MineDojo/Voyager)|An Open-Ended Embodied Agent with Large Language Models|5031|2024-01-31|2023-05-25|
-|13|[TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)| The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection|4926|2024-02-19|2023-10-08|
-|14|[3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)|Use Cloudflare pages and worker serverless to implement VLESS protocol|4338|2024-03-13|2023-06-07|
-|15|[NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)|Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.|4310|2023-12-11|2023-03-23|
-|16|[hiteshchoudhary/chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react)|chai aur react series on youtube|4099|2024-03-16|2023-08-17|
-|17|[Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)|-|3613|2024-03-06|2024-01-22|
-|18|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3487|2024-03-06|2023-05-06|
-|19|[0hq/WebGPT](https://github.com/0hq/WebGPT)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript. |3450|2024-01-12|2023-04-20|
-|20|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3341|2024-03-16|2023-05-08|
-|21|[ArchGPT/insomnium](https://github.com/ArchGPT/insomnium)|Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia|2989|2024-03-02|2023-09-29|
-|22|[ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)|-|2914|2024-03-17|2023-04-23|
-|23|[lencx/Noi](https://github.com/lencx/Noi)|🚀 Power Your World with AI - Explore, Extend, Empower.|2718|2024-02-25|2023-10-16|
-|24|[facebook/react-strict-dom](https://github.com/facebook/react-strict-dom)|React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets|2653|2024-03-15|2024-02-20|
-|25|[hiteshchoudhary/chai-backend](https://github.com/hiteshchoudhary/chai-backend)|A video series on chai aur code youtube channel|2555|2024-03-15|2023-11-01|
-|26|[ErickWendel/semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08)|JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏|2520|2023-10-28|2023-10-16|
-|27|[OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)|🔥 🔥 🔥 The free & Open Source DocuSign alternative|2463|2024-03-17|2023-10-02|
-|28|[wasmerio/winterjs](https://github.com/wasmerio/winterjs)|Winter is coming... ❄️|2155|2024-03-15|2023-09-21|
-|29|[pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio)|AI Browser|2086|2024-03-17|2023-07-09|
-|30|[catvod/CatVodOpen](https://github.com/catvod/CatVodOpen)|Open version of catvod.|2021|2024-03-04|2023-07-05|
-|31|[dnakov/little-rat](https://github.com/dnakov/little-rat)|🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls|1978|2023-11-06|2023-08-14|
-|32|[rajnandan1/kener](https://github.com/rajnandan1/kener)|Kener is a Modern Self hosted Status Page, batteries included|1807|2024-03-03|2023-12-01|
-|33|[100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments)|-|1800|2024-03-17|2023-12-03|
-|34|[mut-ex/gligen-gui](https://github.com/mut-ex/gligen-gui)|An intuitive GUI for GLIGEN that uses ComfyUI in the backend|1732|2024-02-28|2024-02-17|
+|1|[bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)|A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage|15581|2023-11-29|2023-11-23|
+|2|[sunner/ChatALL](https://github.com/sunner/ChatALL)| Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers|13480|2024-03-18|2023-04-08|
+|3|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)|这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。|13401|2024-03-09|2023-03-28|
+|4|[songquanpeng/one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution  ...|11526|2024-03-18|2023-04-22|
+|5|[HeyPuter/puter](https://github.com/HeyPuter/puter)|🌐 The Internet OS!|9689|2024-03-18|2024-03-03|
+|6|[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)|A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!|9209|2024-03-18|2023-06-04|
+|7|[awslabs/llrt](https://github.com/awslabs/llrt)|LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.|7357|2024-03-18|2023-09-20|
+|8|[spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)|🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). |6380|2024-01-17|2023-09-29|
+|9|[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)|🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT ...|5717|2024-03-15|2023-06-26|
+|10|[nuejs/nue](https://github.com/nuejs/nue)|The Content First Web Framework|5435|2024-03-17|2023-09-13|
+|11|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|5033|2024-02-27|2023-05-30|
+|12|[MineDojo/Voyager](https://github.com/MineDojo/Voyager)|An Open-Ended Embodied Agent with Large Language Models|5033|2024-01-31|2023-05-25|
+|13|[TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)| The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection|4928|2024-02-19|2023-10-08|
+|14|[3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)|Use Cloudflare pages and worker serverless to implement VLESS protocol|4380|2024-03-13|2023-06-07|
+|15|[NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)|Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.|4327|2023-12-11|2023-03-23|
+|16|[hiteshchoudhary/chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react)|chai aur react series on youtube|4123|2024-03-16|2023-08-17|
+|17|[Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)|-|3633|2024-03-06|2024-01-22|
+|18|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3491|2024-03-06|2023-05-06|
+|19|[0hq/WebGPT](https://github.com/0hq/WebGPT)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript. |3451|2024-01-12|2023-04-20|
+|20|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3341|2024-03-18|2023-05-08|
+|21|[ArchGPT/insomnium](https://github.com/ArchGPT/insomnium)|Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia|3002|2024-03-02|2023-09-29|
+|22|[ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)|-|2930|2024-03-18|2023-04-23|
+|23|[lencx/Noi](https://github.com/lencx/Noi)|🚀 Power Your World with AI - Explore, Extend, Empower.|2748|2024-02-25|2023-10-16|
+|24|[facebook/react-strict-dom](https://github.com/facebook/react-strict-dom)|React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets|2661|2024-03-15|2024-02-20|
+|25|[hiteshchoudhary/chai-backend](https://github.com/hiteshchoudhary/chai-backend)|A video series on chai aur code youtube channel|2566|2024-03-18|2023-11-01|
+|26|[ErickWendel/semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08)|JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏|2521|2023-10-28|2023-10-16|
+|27|[OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)|🔥 🔥 🔥 The free & Open Source DocuSign alternative|2461|2024-03-18|2023-10-02|
+|28|[wasmerio/winterjs](https://github.com/wasmerio/winterjs)|Winter is coming... ❄️|2262|2024-03-15|2023-09-21|
+|29|[pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio)|AI Browser|2090|2024-03-18|2023-07-09|
+|30|[catvod/CatVodOpen](https://github.com/catvod/CatVodOpen)|Open version of catvod.|2031|2024-03-04|2023-07-05|
+|31|[dnakov/little-rat](https://github.com/dnakov/little-rat)|🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls|1979|2023-11-06|2023-08-14|
+|32|[rajnandan1/kener](https://github.com/rajnandan1/kener)|Kener is a Modern Self hosted Status Page, batteries included|1813|2024-03-03|2023-12-01|
+|33|[100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments)|-|1809|2024-03-18|2023-12-03|
+|34|[mut-ex/gligen-gui](https://github.com/mut-ex/gligen-gui)|An intuitive GUI for GLIGEN that uses ComfyUI in the backend|1740|2024-02-28|2024-02-17|
 |35|[milokarlsen/AI-trading-bot](https://github.com/milokarlsen/AI-trading-bot)|-|1728|2024-01-06|2024-01-06|
-|36|[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)|An open file format for infinite canvas data.|1654|2024-03-15|2024-02-28|
-|37|[haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service|1597|2024-01-16|2023-04-04|
+|36|[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)|An open file format for infinite canvas data.|1683|2024-03-18|2024-02-28|
+|37|[haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service|1596|2024-01-16|2023-04-04|
 |38|[dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck)|Returns old TweetDeck, for free!|1496|2024-02-24|2023-08-17|
-|39|[Kalabasa/htmz](https://github.com/Kalabasa/htmz)|html with targeted manipulation zones|1487|2024-03-15|2024-02-09|
-|40|[langchain-ai/langserve](https://github.com/langchain-ai/langserve)|LangServe 🦜️🏓|1428|2024-03-15|2023-09-29|
-|41|[antimatter15/splat](https://github.com/antimatter15/splat)|WebGL 3D Gaussian Splat Viewer|1419|2024-01-08|2023-09-11|
+|39|[Kalabasa/htmz](https://github.com/Kalabasa/htmz)|html with targeted manipulation zones|1490|2024-03-15|2024-02-09|
+|40|[langchain-ai/langserve](https://github.com/langchain-ai/langserve)|LangServe 🦜️🏓|1433|2024-03-15|2023-09-29|
+|41|[antimatter15/splat](https://github.com/antimatter15/splat)|WebGL 3D Gaussian Splat Viewer|1421|2024-01-08|2023-09-11|
 |42|[saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature ...|1386|2023-11-15|2023-04-14|
-|43|[HeyPuter/kv.js](https://github.com/HeyPuter/kv.js)|⚡️ Advanced in-memory caching for JavaScript.|1379|2024-02-23|2023-04-17|
-|44|[SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT)|Create Custom GPT and add/embed on your site using Assistants api|1371|2023-12-18|2023-05-05|
-|45|[UdaraJay/Pile](https://github.com/UdaraJay/Pile)|Desktop app for digital journaling. |1361|2024-03-06|2023-10-14|
-|46|[smallcloudai/refact](https://github.com/smallcloudai/refact)|WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding |1350|2024-03-17|2023-04-19|
+|43|[HeyPuter/kv.js](https://github.com/HeyPuter/kv.js)|⚡️ Advanced in-memory caching for JavaScript.|1381|2024-02-23|2023-04-17|
+|44|[SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT)|Create Custom GPT and add/embed on your site using Assistants api|1372|2023-12-18|2023-05-05|
+|45|[UdaraJay/Pile](https://github.com/UdaraJay/Pile)|Desktop app for digital journaling. |1362|2024-03-06|2023-10-14|
+|46|[smallcloudai/refact](https://github.com/smallcloudai/refact)|WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding |1357|2024-03-18|2023-04-19|
 |47|[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)|Honkai: Star Rail Warp History Exporter|1347|2024-01-22|2023-05-01|
-|48|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|-|1327|2024-03-17|2023-05-25|
-|49|[SuhailTechInfo/Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)|meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖|1259|2024-03-17|2023-03-24|
-|50|[ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)|The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer|1250|2023-12-04|2023-03-24|
+|48|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|-|1337|2024-03-18|2023-05-25|
+|49|[SuhailTechInfo/Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)|meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖|1269|2024-03-18|2023-03-24|
+|50|[ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)|The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer|1251|2023-12-04|2023-03-24|
 |51|[elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant)|Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.|1076|2023-12-21|2023-12-05|
-|52|[LarryZhu-dev/autofit.js](https://github.com/LarryZhu-dev/autofit.js)|autofit.js 迄今为止最易用的自适应工具|1028|2024-03-14|2023-04-20|
+|52|[LarryZhu-dev/autofit.js](https://github.com/LarryZhu-dev/autofit.js)|autofit.js 迄今为止最易用的自适应工具|1031|2024-03-14|2023-04-20|
 |53|[midudev/curso-node-js](https://github.com/midudev/curso-node-js)|Curso de Node.js desde cero|1000|2024-01-11|2023-07-20|
 |54|[christina-de-martinez/babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes)|the most goated babel plugin|956|2023-12-23|2023-09-27|
-|55|[nksaraf/vinxi](https://github.com/nksaraf/vinxi)|The Full Stack JavaScript SDK|948|2024-03-17|2023-07-01|
-|56|[Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension)|Read medium.com and medium based articles using google web cache.|940|2024-03-06|2023-08-27|
-|57|[badlogic/heissepreise](https://github.com/badlogic/heissepreise)|Jo eh.|929|2024-03-11|2023-05-08|
-|58|[modal-labs/quillman](https://github.com/modal-labs/quillman)|A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.|922|2024-02-09|2023-04-19|
+|55|[nksaraf/vinxi](https://github.com/nksaraf/vinxi)|The Full Stack JavaScript SDK|952|2024-03-17|2023-07-01|
+|56|[Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension)|Read medium.com and medium based articles using google web cache.|943|2024-03-06|2023-08-27|
+|57|[badlogic/heissepreise](https://github.com/badlogic/heissepreise)|Jo eh.|930|2024-03-11|2023-05-08|
+|58|[modal-labs/quillman](https://github.com/modal-labs/quillman)|A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.|924|2024-02-09|2023-04-19|
 |59|[ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify)|Open-source Javascript mobile document scanner.|896|2024-01-03|2023-04-13|
-|60|[adrianhajdin/nike_landing_page](https://github.com/adrianhajdin/nike_landing_page)|Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.|876|2023-12-28|2023-08-18|
+|60|[adrianhajdin/nike_landing_page](https://github.com/adrianhajdin/nike_landing_page)|Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.|878|2023-12-28|2023-08-18|
 |61|[ferrislucas/promptr](https://github.com/ferrislucas/promptr)|Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase. |864|2024-03-16|2023-03-24|
-|62|[Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale)|GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.|853|2024-03-17|2023-12-20|
-|63|[adrianhajdin/project_threejs_ai](https://github.com/adrianhajdin/project_threejs_ai)|-|845|2024-02-02|2023-03-30|
-|64|[mkkellogg/GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D)|Three.js-based implementation of 3D Gaussian splatting|786|2024-03-17|2023-09-26|
-|65|[rviscomi/capo.js](https://github.com/rviscomi/capo.js)|Get your <head> in order|778|2023-09-17|2023-05-19|
-|66|[ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act)|AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI|774|2024-01-31|2023-10-21|
-|67|[Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)|AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses|744|2024-03-12|2023-09-26|
-|68|[yankooliveira/sd-webui-photopea-embed](https://github.com/yankooliveira/sd-webui-photopea-embed)|A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration.|740|2023-12-12|2023-05-06|
-|69|[robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web)|Transfer files securely between browsers using WebRTC peer2peer|736|2024-03-09|2023-05-15|
-|70|[BruceMacD/chatd](https://github.com/BruceMacD/chatd)|Chat with your documents using local AI|729|2024-03-06|2023-10-20|
-|71|[Not-Quite-RARBG/main](https://github.com/Not-Quite-RARBG/main)|Not Quite RARBG's main website.|728|2023-09-22|2023-06-01|
-|72|[Tencent/LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow)|This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.|722|2023-12-28|2023-09-18|
-|73|[satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite)|Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.|683|2024-03-14|2023-04-05|
-|74|[rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js)|Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.|681|2024-01-21|2023-04-03|
-|75|[piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer)|Mountaineer is a batteries-included web framework for Python and React.|671|2024-03-17|2024-01-27|
-|76|[LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon)|Open source application for creating free invoices and receipts|671|2023-09-26|2023-04-03|
-|77|[ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene)|based on bgstaal/multipleWindow3dScene|664|2023-11-28|2023-11-24|
-|78|[isaacs/tshy](https://github.com/isaacs/tshy)|-|663|2024-03-12|2023-09-11|
-|79|[duiqt/herta_kuru](https://github.com/duiqt/herta_kuru)|The website for Herta, the cutest genius Honkai: Star Rail character out there.|663|2023-11-24|2023-05-15|
-|80|[hargata/lubelog](https://github.com/hargata/lubelog)|LubeLogger is a web-based vehicle maintenance and fuel mileage tracker|655|2024-03-16|2024-01-01|
-|81|[bholmesdev/simple-rsc](https://github.com/bholmesdev/simple-rsc)|A simple React Server Components implementation that you can build yourself 🙌|635|2024-01-22|2023-03-29|
-|82|[leeoniya/uDSV](https://github.com/leeoniya/uDSV)|A faster CSV parser in 5KB (min)|622|2024-02-23|2023-06-04|
-|83|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|589|2024-03-13|2023-08-15|
-|84|[lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant)|Aria is Your AI Research Assistant Powered by GPT Large Language Models|589|2024-02-15|2023-03-28|
-|85|[RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor)|Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization|577|2023-11-04|2023-09-12|
-|86|[rauchg/how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal)|A demo of using RSC and Vercel Postgres, legally|572|2023-11-12|2023-05-02|
-|87|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|570|2024-03-17|2023-10-18|
-|88|[moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs)|The docs of MoonBit programming language|555|2024-03-09|2023-04-14|
-|89|[replicate/llama-chat](https://github.com/replicate/llama-chat)|A boilerplate for creating a Llama 2 chat app|546|2024-03-04|2023-07-17|
-|90|[polyfillpolyfill/polyfill-library](https://github.com/polyfillpolyfill/polyfill-library)|NodeJS module to create polyfill bundles tailored to individual user-agents.|545|2024-02-24|2024-02-24|
-|91|[elnardu/react-use-c](https://github.com/elnardu/react-use-c)|Use C in your React!|540|2023-10-30|2023-10-28|
-|92|[Maher-Zubair/SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD)|A Premium Whatsapp Bot Loaded With Features|540|2024-03-17|2023-09-30|
+|62|[Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale)|GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.|854|2024-03-18|2023-12-20|
+|63|[adrianhajdin/project_threejs_ai](https://github.com/adrianhajdin/project_threejs_ai)|-|844|2024-02-02|2023-03-30|
+|64|[mkkellogg/GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D)|Three.js-based implementation of 3D Gaussian splatting|788|2024-03-17|2023-09-26|
+|65|[ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act)|AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI|775|2024-01-31|2023-10-21|
+|66|[Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)|AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses|745|2024-03-12|2023-09-26|
+|67|[yankooliveira/sd-webui-photopea-embed](https://github.com/yankooliveira/sd-webui-photopea-embed)|A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration.|741|2023-12-12|2023-05-06|
+|68|[robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web)|Transfer files securely between browsers using WebRTC peer2peer|736|2024-03-09|2023-05-15|
+|69|[BruceMacD/chatd](https://github.com/BruceMacD/chatd)|Chat with your documents using local AI|729|2024-03-06|2023-10-20|
+|70|[Not-Quite-RARBG/main](https://github.com/Not-Quite-RARBG/main)|Not Quite RARBG's main website.|728|2023-09-22|2023-06-01|
+|71|[Tencent/LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow)|This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.|723|2023-12-28|2023-09-18|
+|72|[satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite)|Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.|686|2024-03-14|2023-04-05|
+|73|[rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js)|Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.|683|2024-01-21|2023-04-03|
+|74|[piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer)|Mountaineer is a batteries-included web framework for Python and React.|675|2024-03-18|2024-01-27|
+|75|[LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon)|Open source application for creating free invoices and receipts|672|2023-09-26|2023-04-03|
+|76|[ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene)|based on bgstaal/multipleWindow3dScene|665|2023-11-28|2023-11-24|
+|77|[isaacs/tshy](https://github.com/isaacs/tshy)|-|663|2024-03-12|2023-09-11|
+|78|[duiqt/herta_kuru](https://github.com/duiqt/herta_kuru)|The website for Herta, the cutest genius Honkai: Star Rail character out there.|663|2023-11-24|2023-05-15|
+|79|[hargata/lubelog](https://github.com/hargata/lubelog)|LubeLogger is a web-based vehicle maintenance and fuel mileage tracker|656|2024-03-18|2024-01-01|
+|80|[bholmesdev/simple-rsc](https://github.com/bholmesdev/simple-rsc)|A simple React Server Components implementation that you can build yourself 🙌|635|2024-01-22|2023-03-29|
+|81|[leeoniya/uDSV](https://github.com/leeoniya/uDSV)|A faster CSV parser in 5KB (min)|625|2024-02-23|2023-06-04|
+|82|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|593|2024-03-13|2023-08-15|
+|83|[lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant)|Aria is Your AI Research Assistant Powered by GPT Large Language Models|589|2024-02-15|2023-03-28|
+|84|[polyfillpolyfill/polyfill-library](https://github.com/polyfillpolyfill/polyfill-library)|NodeJS module to create polyfill bundles tailored to individual user-agents.|582|2024-02-24|2024-02-24|
+|85|[RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor)|Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization|578|2023-11-04|2023-09-12|
+|86|[rauchg/how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal)|A demo of using RSC and Vercel Postgres, legally|573|2023-11-12|2023-05-02|
+|87|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|571|2024-03-18|2023-10-18|
+|88|[polyfillpolyfill/fetch](https://github.com/polyfillpolyfill/fetch)|A window.fetch JavaScript polyfill.|570|2024-02-24|2024-02-24|
+|89|[moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs)|The docs of MoonBit programming language|556|2024-03-09|2023-04-14|
+|90|[replicate/llama-chat](https://github.com/replicate/llama-chat)|A boilerplate for creating a Llama 2 chat app|548|2024-03-04|2023-07-17|
+|91|[Maher-Zubair/SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD)|A Premium Whatsapp Bot Loaded With Features|545|2024-03-17|2023-09-30|
+|92|[elnardu/react-use-c](https://github.com/elnardu/react-use-c)|Use C in your React!|540|2023-10-30|2023-10-28|
 |93|[fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot)|Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.|540|2024-01-15|2023-04-02|
-|94|[polyfillpolyfill/fetch](https://github.com/polyfillpolyfill/fetch)|A window.fetch JavaScript polyfill.|537|2024-02-24|2024-02-24|
-|95|[Momciloo/fun-with-sockets](https://github.com/Momciloo/fun-with-sockets)|-|531|2023-12-04|2023-11-23|
+|94|[Momciloo/fun-with-sockets](https://github.com/Momciloo/fun-with-sockets)|-|532|2023-12-04|2023-11-23|
+|95|[Yuheng0101/X](https://github.com/Yuheng0101/X)|Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.|530|2024-03-18|2023-05-18|
 |96|[wxtsky/MyWalletScan](https://github.com/wxtsky/MyWalletScan)|-|527|2024-02-27|2023-04-30|
-|97|[redphx/better-xcloud](https://github.com/redphx/better-xcloud)|Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers|521|2024-03-17|2023-07-14|
-|98|[Yuheng0101/X](https://github.com/Yuheng0101/X)|Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.|521|2024-03-16|2023-05-18|
-|99|[gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource)|Best open-source GitHub libraries voted by members 🎤|517|2024-01-02|2023-05-22|
-|100|[pub-calculator-io/distance-calculator](https://github.com/pub-calculator-io/distance-calculator)|Free WordPress Plugin: These calculators find the distance between two points on a 2D plane, in a 3D space, as well as along the surface of the Earth with Lambert’s formulas. www.calculator.io/distanc ...|515|2023-11-19|2023-07-10|
-|101|[Mozilla-Ocho/Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache)| MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent|506|2024-03-15|2023-09-21|
-|102|[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)|Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.|491|2024-03-16|2023-05-25|
-|103|[pub-calculator-io/investment-calculator](https://github.com/pub-calculator-io/investment-calculator)|Free WordPress Plugin: This free investment calculator considers the initial and ending balances, return rate, and investment time when evaluating various investment circumstances. www.calculator.io/i ...|475|2023-11-19|2023-11-14|
-|104|[digitomize/digitomize](https://github.com/digitomize/digitomize)|Digitomize, part of Microsoft for Startups Founders Hub, is an open-source platform that combines two main sections: Contests and User Profiles. It allows users to explore upcoming coding contests and ...|475|2024-03-12|2023-08-02|
-|105|[sergeyleschev/react-custom-hooks](https://github.com/sergeyleschev/react-custom-hooks)|React Custom Hooks @ S.Leschev: useArray useAsync useClickOutside useCookie useCopyToClipboard useDarkMode useDebounce useDebugInformation useDeepCompareEffect useEffectOnce useEventListener useFetch  ...|473|2024-02-24|2023-07-01|
-|106|[williamtroup/Heat.js](https://github.com/williamtroup/Heat.js)|🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.|469|2024-03-07|2024-01-09|
+|97|[redphx/better-xcloud](https://github.com/redphx/better-xcloud)|Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers|524|2024-03-18|2023-07-14|
+|98|[gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource)|Best open-source GitHub libraries voted by members 🎤|517|2024-01-02|2023-05-22|
+|99|[pub-calculator-io/distance-calculator](https://github.com/pub-calculator-io/distance-calculator)|Free WordPress Plugin: These calculators find the distance between two points on a 2D plane, in a 3D space, as well as along the surface of the Earth with Lambert’s formulas. www.calculator.io/distanc ...|515|2023-11-19|2023-07-10|
+|100|[Mozilla-Ocho/Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache)| MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent|506|2024-03-15|2023-09-21|
+|101|[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)|Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.|491|2024-03-18|2023-05-25|
+|102|[pub-calculator-io/investment-calculator](https://github.com/pub-calculator-io/investment-calculator)|Free WordPress Plugin: This free investment calculator considers the initial and ending balances, return rate, and investment time when evaluating various investment circumstances. www.calculator.io/i ...|476|2023-11-19|2023-11-14|
+|103|[sergeyleschev/react-custom-hooks](https://github.com/sergeyleschev/react-custom-hooks)|React Custom Hooks @ S.Leschev: useArray useAsync useClickOutside useCookie useCopyToClipboard useDarkMode useDebounce useDebugInformation useDeepCompareEffect useEffectOnce useEventListener useFetch  ...|475|2024-02-24|2023-07-01|
+|104|[digitomize/digitomize](https://github.com/digitomize/digitomize)|Digitomize, part of Microsoft for Startups Founders Hub, is an open-source platform that combines two main sections: Contests and User Profiles. It allows users to explore upcoming coding contests and ...|474|2024-03-17|2023-08-02|
+|105|[williamtroup/Heat.js](https://github.com/williamtroup/Heat.js)|🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.|469|2024-03-07|2024-01-09|
+|106|[SuperSimpleDev/javascript-course](https://github.com/SuperSimpleDev/javascript-course)|-|465|2024-03-05|2023-04-19|
 |107|[pub-calculator-io/scientific-calculator](https://github.com/pub-calculator-io/scientific-calculator)|Free WordPress Plugin: This scientific calculator is a free tool that solves complex mathematical expressions by supporting several built-in functions. www.calculator.io/scientific-calculator/|464|2023-11-19|2023-06-10|
-|108|[SuperSimpleDev/javascript-course](https://github.com/SuperSimpleDev/javascript-course)|-|464|2024-03-05|2023-04-19|
-|109|[shyamtawli/devFind](https://github.com/shyamtawli/devFind)|devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.|463|2024-03-15|2023-04-17|
-|110|[AlekPet/ComfyUI_Custom_Nodes_AlekPet](https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet)|Custom nodes that extend the capabilities of Comfyui|460|2024-02-29|2023-05-10|
-|111|[quanru/obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS)|-|459|2024-03-13|2023-06-18|
-|112|[fal-ai/sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app)|A demo application using fal.realtime and the lightning fast SDXL API provided by fal|458|2024-03-11|2024-02-21|
-|113|[mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT)|A rapid prompt app development framework based on GPT|454|2023-12-09|2023-05-28|
-|114|[adrianhajdin/project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer)|-|452|2023-12-30|2023-04-21|
+|108|[shyamtawli/devFind](https://github.com/shyamtawli/devFind)|devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.|463|2024-03-15|2023-04-17|
+|109|[fal-ai/sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app)|A demo application using fal.realtime and the lightning fast SDXL API provided by fal|462|2024-03-11|2024-02-21|
+|110|[AlekPet/ComfyUI_Custom_Nodes_AlekPet](https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet)|Custom nodes that extend the capabilities of Comfyui|462|2024-02-29|2023-05-10|
+|111|[quanru/obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS)|-|459|2024-03-18|2023-06-18|
+|112|[mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT)|A rapid prompt app development framework based on GPT|454|2023-12-09|2023-05-28|
+|113|[adrianhajdin/project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer)|-|453|2023-12-30|2023-04-21|
+|114|[ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting)|🥊  Free & Unlimited Image Hosting|450|2024-03-14|2024-01-31|
 |115|[lxe/llavavision](https://github.com/lxe/llavavision)|A simple "Be My Eyes" web app with a llama.cpp/llava backend|450|2023-11-28|2023-11-06|
-|116|[ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting)|🥊  Free & Unlimited Image Hosting|447|2024-03-14|2024-01-31|
-|117|[100xDevs-hkirat/all-assignments](https://github.com/100xDevs-hkirat/all-assignments)|-|443|2024-03-06|2023-06-26|
-|118|[prabathLK/PRABATH-MD](https://github.com/prabathLK/PRABATH-MD)|🇱🇰 Multi-device whatsapp bot  🎉|438|2024-03-16|2023-08-23|
-|119|[surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)|Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views|435|2024-02-17|2023-05-16|
-|120|[GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing)|-|434|2024-03-17|2023-04-25|
-|121|[humanwhocodes/humanfs](https://github.com/humanwhocodes/humanfs)|A modern filesystem API for JavaScript|433|2024-03-15|2023-12-12|
-|122|[drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt)|Are YouTube ads blocked by Ublock? This website will tell you so!|431|2024-01-22|2023-10-19|
-|123|[sing-web/x-ui](https://github.com/sing-web/x-ui)|xray panel that supports multi-protocol and multi-user|431|2024-03-14|2023-04-09|
-|124|[ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui)|Simple HTML UI for Ollama|430|2024-02-12|2023-08-03|
-|125|[Dabble-Studio/3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo)|3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot  ...|429|2024-01-10|2023-10-12|
-|126|[unconv/gpt4v-browsing](https://github.com/unconv/gpt4v-browsing)|Web Scraping with GPT-4 Vision API and Puppeteer|426|2024-01-31|2023-11-24|
-|127|[btco/qx82](https://github.com/btco/qx82)|Tiny Javascript engine for retro games|410|2024-02-21|2023-10-08|
-|128|[avwo/whistle-client](https://github.com/avwo/whistle-client)|HTTP, HTTP2, HTTPS, Websocket debugging proxy client|395|2024-03-10|2023-07-08|
-|129|[lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)|-|388|2024-03-15|2024-02-27|
-|130|[personoids/personoids-lite](https://github.com/personoids/personoids-lite)|"The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. |382|2023-09-29|2023-05-25|
-|131|[drcika/apc-extension](https://github.com/drcika/apc-extension)|-|381|2024-03-07|2023-05-26|
+|116|[100xDevs-hkirat/all-assignments](https://github.com/100xDevs-hkirat/all-assignments)|-|443|2024-03-06|2023-06-26|
+|117|[prabathLK/PRABATH-MD](https://github.com/prabathLK/PRABATH-MD)|🇱🇰 Multi-device whatsapp bot  🎉|442|2024-03-18|2023-08-23|
+|118|[surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)|Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views|436|2024-02-17|2023-05-16|
+|119|[GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing)|-|436|2024-03-18|2023-04-25|
+|120|[humanwhocodes/humanfs](https://github.com/humanwhocodes/humanfs)|A modern filesystem API for JavaScript|433|2024-03-15|2023-12-12|
+|121|[drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt)|Are YouTube ads blocked by Ublock? This website will tell you so!|432|2024-01-22|2023-10-19|
+|122|[sing-web/x-ui](https://github.com/sing-web/x-ui)|xray panel that supports multi-protocol and multi-user|431|2024-03-14|2023-04-09|
+|123|[ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui)|Simple HTML UI for Ollama|430|2024-02-12|2023-08-03|
+|124|[Dabble-Studio/3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo)|3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot  ...|429|2024-01-10|2023-10-12|
+|125|[unconv/gpt4v-browsing](https://github.com/unconv/gpt4v-browsing)|Web Scraping with GPT-4 Vision API and Puppeteer|426|2024-01-31|2023-11-24|
+|126|[btco/qx82](https://github.com/btco/qx82)|Tiny Javascript engine for retro games|411|2024-02-21|2023-10-08|
+|127|[avwo/whistle-client](https://github.com/avwo/whistle-client)|HTTP, HTTP2, HTTPS, Websocket debugging proxy client|395|2024-03-10|2023-07-08|
+|128|[soorajshankar/logScreen](https://github.com/soorajshankar/logScreen)|Loglines can be messy, read it better on a browser, `command   npx logscreen`|394|2024-03-12|2024-02-07|
+|129|[lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)|-|392|2024-03-15|2024-02-27|
+|130|[drcika/apc-extension](https://github.com/drcika/apc-extension)|-|383|2024-03-07|2023-05-26|
+|131|[personoids/personoids-lite](https://github.com/personoids/personoids-lite)|"The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. |382|2023-09-29|2023-05-25|
 |132|[tapjs/tsimp](https://github.com/tapjs/tsimp)|-|379|2024-02-06|2023-10-13|
-|133|[torinmb/mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner)|GPU Accelerated MediaPipe Plugin for TouchDesigner|376|2024-03-01|2023-08-02|
-|134|[acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)|Unlock custom brushes, natural fill effects and intuitive hatching in p5.js|374|2024-02-24|2023-10-30|
-|135|[rkk3/ad-accelerator](https://github.com/rkk3/ad-accelerator)|-|374|2024-03-08|2023-10-27|
-|136|[sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions)|Get the dimensions of an image|372|2023-12-19|2023-11-05|
+|133|[torinmb/mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner)|GPU Accelerated MediaPipe Plugin for TouchDesigner|377|2024-03-01|2023-08-02|
+|134|[sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions)|Get the dimensions of an image|375|2023-12-19|2023-11-05|
+|135|[acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)|Unlock custom brushes, natural fill effects and intuitive hatching in p5.js|374|2024-02-24|2023-10-30|
+|136|[rkk3/ad-accelerator](https://github.com/rkk3/ad-accelerator)|-|374|2024-03-08|2023-10-27|
 |137|[enjalot/latent-scope](https://github.com/enjalot/latent-scope)|A scientific instrument for investigating latent spaces|361|2024-03-13|2023-04-07|
 |138|[school-of-athens/schoolofathens-world-next](https://github.com/school-of-athens/schoolofathens-world-next)|The School of Athens is an open-source initiative for democratic governance in online communities. The project is currently in the experimental launch phase and will be released to the public in Sprin ...|360|2024-01-18|2023-08-06|
-|139|[soorajshankar/logScreen](https://github.com/soorajshankar/logScreen)|Loglines can be messy, read it better on a browser, `command   npx logscreen`|358|2024-03-12|2024-02-07|
-|140|[nk080/Social-crck](https://github.com/nk080/Social-crck)|-|354|2024-03-12|2023-08-30|
-|141|[NVlabs/FoundationPose](https://github.com/NVlabs/FoundationPose)|FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects|349|2023-12-22|2023-12-12|
-|142|[projectdiscovery/nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension)|Nuclei AI - Browser Extension for Rapid Nuclei Template Generation|349|2023-11-08|2023-05-22|
-|143|[Exifly/ApiVault](https://github.com/Exifly/ApiVault)|Your gateway to a world of public APIs.|342|2024-03-16|2023-04-15|
-|144|[sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm)|SQLite Wasm conveniently wrapped as an ES Module.|341|2024-03-13|2023-04-13|
-|145|[Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets)|Delete / Remove all your tweets|335|2024-02-20|2023-08-24|
-|146|[whoiskatrin/npm-copilot](https://github.com/whoiskatrin/npm-copilot)|CLI tool for Next.js that can analyze logs in real-time and suggest a solution using OpenAI|335|2024-01-15|2023-04-03|
-|147|[discuitnet/discuit](https://github.com/discuitnet/discuit)|A free and open-source community discussion platform.|333|2024-03-08|2023-11-30|
-|148|[GAIR-NLP/MathPile](https://github.com/GAIR-NLP/MathPile)|Generative AI for Math: MathPile|333|2024-02-13|2023-11-27|
+|139|[nk080/Social-crck](https://github.com/nk080/Social-crck)|-|354|2024-03-12|2023-08-30|
+|140|[NVlabs/FoundationPose](https://github.com/NVlabs/FoundationPose)|FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects|350|2023-12-22|2023-12-12|
+|141|[projectdiscovery/nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension)|Nuclei AI - Browser Extension for Rapid Nuclei Template Generation|349|2023-11-08|2023-05-22|
+|142|[Exifly/ApiVault](https://github.com/Exifly/ApiVault)|Your gateway to a world of public APIs.|342|2024-03-16|2023-04-15|
+|143|[sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm)|SQLite Wasm conveniently wrapped as an ES Module.|342|2024-03-13|2023-04-13|
+|144|[Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets)|Delete / Remove all your tweets|336|2024-02-20|2023-08-24|
+|145|[whoiskatrin/npm-copilot](https://github.com/whoiskatrin/npm-copilot)|CLI tool for Next.js that can analyze logs in real-time and suggest a solution using OpenAI|335|2024-01-15|2023-04-03|
+|146|[discuitnet/discuit](https://github.com/discuitnet/discuit)|A free and open-source community discussion platform.|334|2024-03-08|2023-11-30|
+|147|[GAIR-NLP/MathPile](https://github.com/GAIR-NLP/MathPile)|Generative AI for Math: MathPile|333|2024-02-13|2023-11-27|
+|148|[AkshatOP/Poketwo-Autocatcher](https://github.com/AkshatOP/Poketwo-Autocatcher)|Poketwo Autocatcher for FREE to stop those premium selling developers for sh*t|331|2024-02-15|2023-05-31|
 |149|[zennomi/Seg-Mirror](https://github.com/zennomi/Seg-Mirror)|Kính chiếu yêuuuu quỷ seg hiện raaa|330|2023-12-03|2023-11-25|
 |150|[factionsecurity/faction](https://github.com/factionsecurity/faction)|Pen Test Report Generation and Assessment Collaboration|330|2024-03-15|2023-11-06|
-|151|[abyan231102/ACC-Software](https://github.com/abyan231102/ACC-Software)|-|329|2024-03-12|2023-10-03|
-|152|[AkshatOP/Poketwo-Autocatcher](https://github.com/AkshatOP/Poketwo-Autocatcher)|Poketwo Autocatcher for FREE to stop those premium selling developers for sh*t|328|2024-02-15|2023-05-31|
+|151|[salmanytofficial/XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD)|XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.|329|2024-03-18|2024-02-24|
+|152|[abyan231102/ACC-Software](https://github.com/abyan231102/ACC-Software)|-|329|2024-03-12|2023-10-03|
 |153|[alganzory/HaramBlur](https://github.com/alganzory/HaramBlur)|A Browser extension that enables you to navigate the web with respect for your Islamic values, protect your privacy and reduce browsing distractions by auto detecting and blurring "Haram" content.|325|2024-03-17|2023-09-22|
-|154|[chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api)|This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.|322|2024-03-16|2023-04-12|
-|155|[nubank/morse](https://github.com/nubank/morse)|A graphical, interactive tool for browsing Clojure data|322|2023-11-17|2023-04-11|
+|154|[chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api)|This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.|324|2024-03-16|2023-04-12|
+|155|[nubank/morse](https://github.com/nubank/morse)|A graphical, interactive tool for browsing Clojure data|323|2023-11-17|2023-04-11|
 |156|[d3vr/yt-siphon](https://github.com/d3vr/yt-siphon)|Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)|321|2023-10-25|2023-10-14|
-|157|[Adamant-im/adamant-coinoptimus](https://github.com/Adamant-im/adamant-coinoptimus)|Free self-hosted cryptocurrency trade bot for non-professional traders|317|2024-03-11|2023-03-27|
-|158|[open-ibc/ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template)|Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts|316|2024-03-13|2024-02-12|
-|159|[mayt/BrowserGPT](https://github.com/mayt/BrowserGPT)|Command your browser with GPT|316|2024-03-06|2023-03-19|
-|160|[OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)|-|315|2024-02-10|2023-10-02|
-|161|[fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)|Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!|315|2024-03-17|2023-07-17|
-|162|[PicoCreator/smol-dev-js](https://github.com/PicoCreator/smol-dev-js)|Smol personal AI, for smol incremental tasks in a JS project|313|2023-12-03|2023-05-18|
-|163|[salmanytofficial/XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD)|XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.|312|2024-03-17|2024-02-24|
-|164|[midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)|Easy peasy animations for your Tailwind project|312|2024-03-16|2024-02-06|
-|165|[zed-industries/extensions](https://github.com/zed-industries/extensions)|Extensions for the Zed editor|311|2024-03-17|2024-02-07|
-|166|[RuCu6/QuanX](https://github.com/RuCu6/QuanX)|-|311|2024-03-17|2023-09-18|
-|167|[Medraupm/ExLoader-3.3](https://github.com/Medraupm/ExLoader-3.3)|-|307|2024-03-08|2024-03-08|
-|168|[replicate/zoo](https://github.com/replicate/zoo)|🦓 Zoo — Image Playground|307|2024-02-20|2023-05-09|
-|169|[html5-ninja/page-replica](https://github.com/html5-ninja/page-replica)|Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost|305|2024-01-01|2023-12-31|
-|170|[weather-gov/weather.gov](https://github.com/weather-gov/weather.gov)|weather.gov 2.0|303|2024-03-15|2023-04-26|
-|171|[nyaoouo/GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT)|A combat data track and analytic mod, suchas dps tracking|302|2024-03-17|2024-02-15|
-|172|[laurentpayot/verticalize](https://github.com/laurentpayot/verticalize)|A pipe-like function to verticalize your JavaScript code|301|2023-11-15|2023-09-20|
-|173|[turboderp/exui](https://github.com/turboderp/exui)|Web UI for ExLlamaV2|300|2024-03-14|2023-10-29|
-|174|[N8python/n8ao](https://github.com/N8python/n8ao)|An efficient and visually pleasing implementation of SSAO with an emphasis on temporal stability and artist control.|298|2024-02-13|2023-05-12|
-|175|[epicweb-dev/totp](https://github.com/epicweb-dev/totp)|Support Two Factor Authentication (2FA) in your application with ease.|294|2024-02-05|2023-08-02|
-|176|[spaceandtimelabs/SxT-NodeJS-SDK](https://github.com/spaceandtimelabs/SxT-NodeJS-SDK)|NodeJS based SDK for interacting with the Space and Time API. |294|2024-01-13|2023-05-17|
-|177|[dejwid/ecommerce-admin](https://github.com/dejwid/ecommerce-admin)|-|294|2024-02-18|2023-04-11|
-|178|[CanadaHonk/shadow](https://github.com/CanadaHonk/shadow)|Shadow is a new novel web engine made (almost) entirely in JS from scratch|293|2023-11-29|2023-10-24|
-|179|[judygab/nextjs-portfolio](https://github.com/judygab/nextjs-portfolio)|portfolio website in nextjs 13|293|2024-02-21|2023-08-15|
-|180|[umnik1/yaamp](https://github.com/umnik1/yaamp)|🎧Yaamp — Аудио-плеер Winamp с интегрированным сервисом Яндекс.Музыка. |292|2024-01-30|2023-09-29|
+|157|[open-ibc/ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template)|Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts|319|2024-03-13|2024-02-12|
+|158|[OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)|-|316|2024-02-10|2023-10-02|
+|159|[Adamant-im/adamant-coinoptimus](https://github.com/Adamant-im/adamant-coinoptimus)|Free self-hosted cryptocurrency trade bot for non-professional traders|316|2024-03-11|2023-03-27|
+|160|[fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)|Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!|315|2024-03-18|2023-07-17|
+|161|[zed-industries/extensions](https://github.com/zed-industries/extensions)|Extensions for the Zed editor|313|2024-03-18|2024-02-07|
+|162|[midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)|Easy peasy animations for your Tailwind project|313|2024-03-16|2024-02-06|
+|163|[PicoCreator/smol-dev-js](https://github.com/PicoCreator/smol-dev-js)|Smol personal AI, for smol incremental tasks in a JS project|313|2023-12-03|2023-05-18|
+|164|[RuCu6/QuanX](https://github.com/RuCu6/QuanX)|-|312|2024-03-17|2023-09-18|
+|165|[Medraupm/ExLoader-3.3](https://github.com/Medraupm/ExLoader-3.3)|-|307|2024-03-08|2024-03-08|
+|166|[replicate/zoo](https://github.com/replicate/zoo)|🦓 Zoo — Image Playground|307|2024-02-20|2023-05-09|
+|167|[html5-ninja/page-replica](https://github.com/html5-ninja/page-replica)|Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost|305|2024-01-01|2023-12-31|
+|168|[nyaoouo/GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT)|A combat data track and analytic mod, suchas dps tracking|304|2024-03-18|2024-02-15|
+|169|[weather-gov/weather.gov](https://github.com/weather-gov/weather.gov)|weather.gov 2.0|304|2024-03-18|2023-04-26|
+|170|[laurentpayot/verticalize](https://github.com/laurentpayot/verticalize)|A pipe-like function to verticalize your JavaScript code|301|2023-11-15|2023-09-20|
+|171|[turboderp/exui](https://github.com/turboderp/exui)|Web UI for ExLlamaV2|300|2024-03-14|2023-10-29|
+|172|[N8python/n8ao](https://github.com/N8python/n8ao)|An efficient and visually pleasing implementation of SSAO with an emphasis on temporal stability and artist control.|298|2024-02-13|2023-05-12|
+|173|[spaceandtimelabs/SxT-NodeJS-SDK](https://github.com/spaceandtimelabs/SxT-NodeJS-SDK)|NodeJS based SDK for interacting with the Space and Time API. |295|2024-01-13|2023-05-17|
+|174|[epicweb-dev/totp](https://github.com/epicweb-dev/totp)|Support Two Factor Authentication (2FA) in your application with ease.|294|2024-02-05|2023-08-02|
+|175|[dejwid/ecommerce-admin](https://github.com/dejwid/ecommerce-admin)|-|294|2024-02-18|2023-04-11|
+|176|[CanadaHonk/shadow](https://github.com/CanadaHonk/shadow)|Shadow is a new novel web engine made (almost) entirely in JS from scratch|293|2023-11-29|2023-10-24|
+|177|[umnik1/yaamp](https://github.com/umnik1/yaamp)|🎧Yaamp — Аудио-плеер Winamp с интегрированным сервисом Яндекс.Музыка. |293|2024-01-30|2023-09-29|
+|178|[judygab/nextjs-portfolio](https://github.com/judygab/nextjs-portfolio)|portfolio website in nextjs 13|293|2024-02-21|2023-08-15|
+|179|[sahandghavidel/mern-estate](https://github.com/sahandghavidel/mern-estate)|Real Estate app using MERN and tailwind css|292|2023-11-09|2023-08-31|
+|180|[fatwang2/search2ai](https://github.com/fatwang2/search2ai)|让你的大模型自动联网|291|2024-03-18|2023-12-18|
 |181|[rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)|Reactive programming made simple for Dart and Flutter|291|2024-03-17|2023-11-18|
-|182|[sahandghavidel/mern-estate](https://github.com/sahandghavidel/mern-estate)|Real Estate app using MERN and tailwind css|290|2023-11-09|2023-08-31|
+|182|[primefaces/primevue-tailwind](https://github.com/primefaces/primevue-tailwind)|PrimeVue Components Styled with Tailwind CSS|290|2024-03-18|2023-11-22|
 |183|[cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|Build ChatGPT plugins with Cloudflare's Developer Platform 🤖|290|2023-09-27|2023-04-28|
 |184|[AlizerUncaged/desktop-waifu](https://github.com/AlizerUncaged/desktop-waifu)|Desktop Waifu!|290|2024-02-28|2023-04-19|
-|185|[fatwang2/search2ai](https://github.com/fatwang2/search2ai)|让你的大模型自动联网|289|2024-03-17|2023-12-18|
+|185|[hiteshchoudhary/react-english](https://github.com/hiteshchoudhary/react-english)|A fun react series in future|289|2024-03-11|2023-08-21|
 |186|[knadh/autocomp.js](https://github.com/knadh/autocomp.js)|A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.|288|2023-11-30|2023-08-27|
-|187|[hiteshchoudhary/react-english](https://github.com/hiteshchoudhary/react-english)|A fun react series in future|287|2024-03-11|2023-08-21|
-|188|[primefaces/primevue-tailwind](https://github.com/primefaces/primevue-tailwind)|PrimeVue Components Styled with Tailwind CSS|286|2024-03-15|2023-11-22|
-|189|[sbrin/lopaka](https://github.com/sbrin/lopaka)|Lopaka - Stunning graphics for embedded systems displays|286|2024-03-15|2023-06-04|
-|190|[belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js)|JS tokenizer for LLaMA|284|2023-11-06|2023-06-11|
-|191|[sylviiu/ezytdl](https://github.com/sylviiu/ezytdl)|Advanced electron-based frontend for yt-dlp|284|2024-03-05|2023-05-06|
-|192|[ahsan-chy/React-JS-Advance-Folder-Structure](https://github.com/ahsan-chy/React-JS-Advance-Folder-Structure)|React JS Advanced Folder Structure - Boilerplate|282|2024-02-13|2023-08-23|
-|193|[HiNinoJay/hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4)|A hexo theme that looks like an A4 paper.|281|2024-03-17|2023-04-14|
-|194|[gimlet-io/capacitor](https://github.com/gimlet-io/capacitor)|A general purpose UI for FluxCD.|277|2024-03-11|2023-10-16|
-|195|[HuXn-WebDev/Zero-To-FullStack-JS-Course](https://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course)|Everything you need to become a Full Stack JavaScript MONSTER 💛|277|2024-02-15|2023-08-10|
-|196|[JivTuban/Minecraft-Launcher](https://github.com/JivTuban/Minecraft-Launcher)|Minecraft|276|2024-02-24|2024-01-18|
-|197|[Rich-Harris/dts-buddy](https://github.com/Rich-Harris/dts-buddy)|WORK IN PROGRESS DO NOT USE|276|2024-03-12|2023-05-19|
-|198|[anshuopinion/React-10-Projects](https://github.com/anshuopinion/React-10-Projects)|-|272|2024-01-28|2023-04-16|
-|199|[levxyca/diciotech](https://github.com/levxyca/diciotech)|Um dicionário tech para pessoas que querem aprender mais sobre termos técnicos dentro da tecnologia 📖|268|2024-03-16|2023-05-17|
+|187|[sbrin/lopaka](https://github.com/sbrin/lopaka)|Lopaka - Stunning graphics for embedded systems displays|287|2024-03-15|2023-06-04|
+|188|[belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js)|JS tokenizer for LLaMA|285|2023-11-06|2023-06-11|
+|189|[sylviiu/ezytdl](https://github.com/sylviiu/ezytdl)|Advanced electron-based frontend for yt-dlp|284|2024-03-05|2023-05-06|
+|190|[HiNinoJay/hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4)|A hexo theme that looks like an A4 paper.|283|2024-03-17|2023-04-14|
+|191|[ahsan-chy/React-JS-Advance-Folder-Structure](https://github.com/ahsan-chy/React-JS-Advance-Folder-Structure)|React JS Advanced Folder Structure - Boilerplate|281|2024-02-13|2023-08-23|
+|192|[gimlet-io/capacitor](https://github.com/gimlet-io/capacitor)|A general purpose UI for FluxCD.|280|2024-03-18|2023-10-16|
+|193|[HuXn-WebDev/Zero-To-FullStack-JS-Course](https://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course)|Everything you need to become a Full Stack JavaScript MONSTER 💛|277|2024-02-15|2023-08-10|
+|194|[JivTuban/Minecraft-Launcher](https://github.com/JivTuban/Minecraft-Launcher)|Minecraft|276|2024-02-24|2024-01-18|
+|195|[Rich-Harris/dts-buddy](https://github.com/Rich-Harris/dts-buddy)|WORK IN PROGRESS DO NOT USE|276|2024-03-12|2023-05-19|
+|196|[anshuopinion/React-10-Projects](https://github.com/anshuopinion/React-10-Projects)|-|275|2024-01-28|2023-04-16|
+|197|[levxyca/diciotech](https://github.com/levxyca/diciotech)|Um dicionário tech para pessoas que querem aprender mais sobre termos técnicos dentro da tecnologia 📖|268|2024-03-16|2023-05-17|
+|198|[Repcz/Tool](https://github.com/Repcz/Tool)|Ownuse for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge|265|2024-03-18|2023-11-16|
+|199|[mojocss/mojocss](https://github.com/mojocss/mojocss)|The Atomic CSS Framework for crafting gorgeous UIs without shipping any CSS.|263|2024-02-19|2024-02-06|
 |200|[henryxrl/SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)|SimpleTextReader is the online text reader that simulates the result of SimpleEpub2, providing a web-based reading experience.|263|2023-12-18|2023-07-10|
 
 <div align="center">

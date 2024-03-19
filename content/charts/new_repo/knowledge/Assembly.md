@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,13 +15,13 @@
 |8|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|17|2024-03-11|2023-10-01|
 |9|[amir-kedis/Assembly-x86-helper](https://github.com/amir-kedis/Assembly-x86-helper)|We Learned how to make games with ASM 86x, had great fun with it, and want to share what we learned with you, to ease your process. 😉|15|2024-02-09|2023-12-01|
 |10|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|14|2024-01-27|2023-07-15|
-|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-03-16|2023-04-08|
+|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-03-18|2023-04-08|
 |12|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|11|2023-10-24|2023-08-16|
 |13|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|9|2024-01-15|2023-07-26|
 |14|[ahmedembeddedx/Everything_but_Assembly](https://github.com/ahmedembeddedx/Everything_but_Assembly)|Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're not in the right place. |8|2024-02-03|2023-10-06|
-|15|[rdoetjes/moonpatrol](https://github.com/rdoetjes/moonpatrol)|A mini clone of moonpatrol for the SEGA MEGA DRIVE. Used for a demonstration on how to use SGDK|7|2024-01-08|2023-12-17|
-|16|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|6|2024-01-02|2024-01-02|
-|17|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|6|2024-03-14|2023-12-29|
+|15|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|7|2024-01-02|2024-01-02|
+|16|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|7|2024-03-14|2023-12-29|
+|17|[rdoetjes/moonpatrol](https://github.com/rdoetjes/moonpatrol)|A mini clone of moonpatrol for the SEGA MEGA DRIVE. Used for a demonstration on how to use SGDK|7|2024-01-08|2023-12-17|
 |18|[schoeberl/risc-v-lab](https://github.com/schoeberl/risc-v-lab)|Lab material for the three week course on builiding a RISC-V microprocessor|6|2024-01-19|2023-06-08|
 |19|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|2024-02-08|2023-05-26|
 |20|[hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)|🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware de ...|5|2024-03-13|2024-03-12|
@@ -46,7 +46,7 @@
 |39|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-10|2024-03-05|
 |40|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|2023-12-20|
 |41|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|2023-07-01|
-|42|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-17|2023-06-15|
+|42|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-18|2023-06-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

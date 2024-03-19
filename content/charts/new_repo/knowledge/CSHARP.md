@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1075|2024-03-17|2023-08-30|
-|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|515|2024-02-19|2024-02-12|
-|3|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|404|2024-03-17|2024-02-01|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1078|2024-03-17|2023-08-30|
+|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|520|2024-02-19|2024-02-12|
+|3|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|417|2024-03-18|2024-02-01|
 |4|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|377|2024-03-02|2024-02-08|
-|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|268|2024-03-17|2024-01-29|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|268|2024-03-18|2024-01-29|
 |6|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |240|2024-01-04|2023-05-11|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|225|2024-03-14|2023-07-25|
 |8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|212|2023-12-09|2023-05-02|
-|9|[AIDotNet/fast-wiki](https://github.com/AIDotNet/fast-wiki)|基于.NET8+React+LobeUI实现的企业级智能客服知识库|183|2024-03-17|2024-02-27|
-|10|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|180|2024-03-05|2023-05-16|
-|11|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|172|2024-03-15|2024-01-05|
+|9|[AIDotNet/fast-wiki](https://github.com/AIDotNet/fast-wiki)|基于.NET8+React+LobeUI实现的企业级智能客服知识库|192|2024-03-17|2024-02-27|
+|10|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|184|2024-03-15|2024-01-05|
+|11|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|180|2024-03-05|2023-05-16|
 |12|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|157|2024-01-04|2023-09-21|
 |13|[davidfowl/IdentityEndpointsSample](https://github.com/davidfowl/IdentityEndpointsSample)|A sample showing how to setup ASP.NET Core Identity API endpoints for authentication|147|2023-09-18|2023-07-14|
 |14|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|121|2023-10-02|2023-04-11|
 |15|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|118|2024-03-14|2024-01-17|
-|16|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|107|2024-02-24|2023-08-12|
+|16|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|108|2024-02-24|2023-08-12|
 |17|[dusrdev/Sharpify](https://github.com/dusrdev/Sharpify)|A collection of high performance language extensions for C#|90|2024-03-15|2023-04-06|
 |18|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|74|2023-12-28|2023-11-07|
 |19|[foohyfooh/PKHeXPluginPile](https://github.com/foohyfooh/PKHeXPluginPile)|Collection of PKHeX Plugins I have made and some that I try to maintain|55|2024-03-16|2023-03-21|

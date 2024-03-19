@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14989|12|2024-03-06|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9842|7|2024-03-09|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|14993|12|2024-03-06|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|9850|7|2024-03-09|
 |3|[hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)|🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware de ...|5|1|2024-03-13|
 |4|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|67|1|2024-01-21|
-|5|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|244|1|2024-01-17|
+|5|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|245|1|2024-01-17|
 |6|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|722|1|2024-02-27|
 |7|[mrcook/zx-spectrum-games](https://github.com/mrcook/zx-spectrum-games)|Collection of ZX Spectrum annotated game source code dissasemblies as .skool files|57|0|2023-12-29|
 |8|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|40|0|2024-03-14|
 |9|[hubbsvtgc/LearnRISC-V](https://github.com/hubbsvtgc/LearnRISC-V)|Learn RISC-V|10|0|2023-11-08|
 |10|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|410|0|2024-01-29|
 |11|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|0|2023-12-25|
-|12|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|0|2024-03-17|
+|12|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|0|2024-03-18|
 |13|[mithindev/COLLEGE](https://github.com/mithindev/COLLEGE)|Documenting my college learnings|4|0|2023-12-20|
 |14|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|0|2023-11-27|
 |15|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|201|0|2024-03-01|
@@ -28,7 +28,7 @@
 |21|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|11|0|2023-11-17|
 |22|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|0|2024-02-26|
 |23|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|0|2023-12-14|
-|24|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-03-16|
+|24|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-03-18|
 |25|[peterw8102/Z80-Retro](https://github.com/peterw8102/Z80-Retro)|Tools and code snippets I'm playing with while building my own Z80 SBC|15|0|2024-01-06|
 |26|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|7|0|2023-10-03|
 |27|[Youngbeom94/Assembly-Cryptography](https://github.com/Youngbeom94/Assembly-Cryptography)|Cryptographic Algorithm in Embedded Device. This project shows how to efficiently implement AES and PIPO block cipher on a constrained device|13|0|2023-11-07|
@@ -49,7 +49,7 @@
 |42|[Kongduino/PC-G850V](https://github.com/Kongduino/PC-G850V)|A collection of small sketches for the Sharp PC-G850V|17|0|2023-10-18|
 |43|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|0|2024-03-04|
 |44|[NesHacker/AssemblyCrashCourse](https://github.com/NesHacker/AssemblyCrashCourse)|Code-along Examples for the 6502 Assembly Crash Course Video.|59|0|2023-11-20|
-|45|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|59|0|2024-03-15|
+|45|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|59|0|2024-03-18|
 |46|[IceCool10/PacientZero](https://github.com/IceCool10/PacientZero)|C++ Packer ( Master Degree Project )|4|0|2023-12-04|
 |47|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|35|0|2024-02-25|
 |48|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|0|2024-02-22|
@@ -59,7 +59,7 @@
 |52|[jsmolka/gba-tests](https://github.com/jsmolka/gba-tests)|A collection of Game Boy Advance tests.|92|0|2023-12-03|
 |53|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|0|2024-02-08|
 |54|[parallelno/Vector06c](https://github.com/parallelno/Vector06c)|Vector06c (КР580ВМ80 / i8080 ) dev setup, and code snippets. TASM32 + Visual Studio Code + Emu80|8|0|2023-12-18|
-|55|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|39|0|2024-02-17|
+|55|[WonderfulToolchain/awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)|A curated list of WonderSwan development resources.|40|0|2024-02-17|
 |56|[LeonarthCG/FFTA_Engine_Hacks](https://github.com/LeonarthCG/FFTA_Engine_Hacks)|A collection of my modular engine hacks for FFTA|19|0|2023-09-25|
 |57|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|22|0|2024-02-21|
 |58|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|14|0|2024-01-27|
@@ -72,7 +72,7 @@
 |65|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|3|0|2024-02-14|
 |66|[cityxen/Commodore64_Programming](https://github.com/cityxen/Commodore64_Programming)|Commodore 64 Programming KickAssembler Library and Examples|29|0|2024-02-19|
 |67|[Ayg0/LIBASM](https://github.com/Ayg0/LIBASM)|learning assembly why not doing a project at the same time|4|0|2023-10-18|
-|68|[MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel)|539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on <https://539kernel.com ...|185|0|2023-11-14|
+|68|[MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel)|539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on <https://539kernel.com ...|186|0|2023-11-14|
 |69|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|9|0|2024-01-15|
 |70|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|54|0|2023-12-14|
 |71|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|86|0|2024-03-10|
@@ -100,9 +100,9 @@
 |93|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|439|0|2024-01-04|
 |94|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|11|0|2023-10-24|
 |95|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|0|2024-02-18|
-|96|[RetroCogs/Mega65Tutorials](https://github.com/RetroCogs/Mega65Tutorials)|Various tutorials for coding in 45gs02 on the Mega65|9|0|2024-03-14|
+|96|[RetroCogs/Mega65Tutorials](https://github.com/RetroCogs/Mega65Tutorials)|Various tutorials for coding in 45gs02 on the Mega65|9|0|2024-03-18|
 |97|[UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani](https://github.com/UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani)|Contains the Lab Sheets and their Solutions of the Microprocessors And Interfacing Course in BITS Pilani.|17|0|2024-01-06|
-|98|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|6|0|2024-03-14|
+|98|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|7|0|2024-03-14|
 |99|[gitendo/helloworld](https://github.com/gitendo/helloworld)|Hello world and other commented GameBoy assembly examples for beginners.|33|0|2023-10-11|
 |100|[ilya-sotnikov/riscv-asm-spike](https://github.com/ilya-sotnikov/riscv-asm-spike)|Bare metal RISC-V assembly examples for Spike (no pk)|7|0|2023-10-14|
 |101|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and background information to help with the analysis of stellar spectropolarimetric data.  The goal is to develop a collection of smaller tools and larger tutorials.|4|0|2024-03-16|
@@ -113,7 +113,7 @@
 |106|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|0|2024-03-10|
 |107|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|3|0|2024-03-13|
 |108|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|63|0|2024-01-09|
-|109|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|6|0|2024-01-02|
+|109|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|7|0|2024-01-02|
 |110|[0xdea/Ao64A](https://github.com/0xdea/Ao64A)|NASM macOS translation of the source code listings distributed with the Art of 64-bit Assembly Language book.|11|0|2024-01-04|
 |111|[bell-sw/glibc-string](https://github.com/bell-sw/glibc-string)|Collection of glibc optimized asm string implementations|4|0|2024-01-17|
 |112|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|3|0|2024-02-26|
