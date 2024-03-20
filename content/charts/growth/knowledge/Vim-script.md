@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vim script
-<sub>Updated: 2024-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|16276|5|2023-12-22|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|16281|5|2023-12-22|
 |2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10167|4|2023-09-23|
-|3|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13064|4|2024-03-18|
+|3|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13065|4|2024-03-18|
 |4|[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)|Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.|841|1|2024-01-11|
 |5|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Learning Vim. A Hands-On Tutorial of Vim.|1632|1|2023-11-30|
-|6|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|565|1|2024-02-10|
-|7|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|1999|1|2024-01-06|
+|6|[mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|567|1|2024-02-10|
+|7|[vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)|A collection of themes for vim-airline|2000|1|2024-01-06|
 |8|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|808|1|2023-12-13|
 |9|[lttr/dotfiles](https://github.com/lttr/dotfiles)|Collection of files for configuration and installation of my development machines|3|0|2023-11-24|
 |10|[gelisam/agda-playground](https://github.com/gelisam/agda-playground)|a series of ambitious experiments in the functional language / proof assistant Agda.|3|0|2024-01-19|
@@ -49,15 +49,15 @@
 |42|[lifepillar/vim-cheat40](https://github.com/lifepillar/vim-cheat40)|A Vim cheat sheet that makes sense, inside Vim!|243|0|2023-12-19|
 |43|[masukomi/masuconfigs](https://github.com/masukomi/masuconfigs)|masukomi's  collection of configuration files, and common scripts.|6|0|2023-11-29|
 |44|[3ch01c/3ch01c.github.io](https://github.com/3ch01c/3ch01c.github.io)|Tools and guides for doing software development, data analytics, online privacy, and other things.|6|0|2024-03-12|
-|45|[luk400/vim-jukit](https://github.com/luk400/vim-jukit)|Jupyter-Notebook inspired Neovim/Vim Plugin|475|0|2023-10-22|
+|45|[luk400/vim-jukit](https://github.com/luk400/vim-jukit)|Jupyter-Notebook inspired Neovim/Vim Plugin|478|0|2023-10-22|
 |46|[mlent/dotfiles](https://github.com/mlent/dotfiles)|A small collection of my files with a dot in them.|10|0|2024-03-10|
 |47|[Jorengarenar/miniSnip](https://github.com/Jorengarenar/miniSnip)|Lightweight snippet plugin for Vim|51|0|2023-12-10|
-|48|[mehrshad-kh/dotfiles](https://github.com/mehrshad-kh/dotfiles)|A collection of my dotfiles|3|0|2024-02-23|
+|48|[mehrshad-kh/dotfiles](https://github.com/mehrshad-kh/dotfiles)|A collection of my dotfiles|3|0|2024-03-19|
 |49|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|83|0|2024-03-10|
-|50|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|79|0|2024-01-02|
+|50|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|80|0|2024-01-02|
 |51|[phantomdiorama/writingvim](https://github.com/phantomdiorama/writingvim)|:memo: An awesome-ish list of vim for writers|10|0|2024-03-14|
 |52|[sukria/dotfiles](https://github.com/sukria/dotfiles)|a collection of dotfiles|3|0|2023-11-03|
-|53|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|0|2024-03-18|
+|53|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|0|2024-03-19|
 |54|[cehoffman/dotfiles](https://github.com/cehoffman/dotfiles)|My mac/unix dotfiles that have grown over the years and heavily influenced from tricks seen around the block|16|0|2024-03-05|
 |55|[arkapg211002/SEM-5-CSE](https://github.com/arkapg211002/SEM-5-CSE)|All lab assignments and text books for SEM 5 CSE at TMSL (under MAKAUT) 2023-24|6|0|2024-03-16|
 |56|[bridgesense/dotfiles](https://github.com/bridgesense/dotfiles)|YADRLite is a collection of my personal streamlined dotfiles with influence from YADR.|3|0|2024-01-01|
@@ -74,9 +74,9 @@
 |67|[cdmatters/dotfiles](https://github.com/cdmatters/dotfiles)|collection of configs|3|0|2023-11-28|
 |68|[wolverinn/Build-your-programming-skills](https://github.com/wolverinn/Build-your-programming-skills)|A learning road map for junior programmers focusing from basic to advanced technical skills|39|0|2023-12-14|
 |69|[gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles)|🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…|3|0|2024-03-05|
-|70|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|0|2024-03-18|
+|70|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|0|2024-03-19|
 |71|[lljbash/configs](https://github.com/lljbash/configs)|A collection of zsh/vim/tmux/... configurations of mine|4|0|2023-12-19|
-|72|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|0|2024-03-17|
+|72|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|0|2024-03-18|
 |73|[SciMed/style-guide](https://github.com/SciMed/style-guide)|A highly fashionable style guide.|4|0|2024-02-15|
 |74|[mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)|A lightweight plugin to display the list of buffers in the lightline vim plugin|331|0|2023-11-26|
 |75|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|32|0|2024-03-01|
@@ -113,7 +113,7 @@
 |106|[boycaught/my.dotfiles](https://github.com/boycaught/my.dotfiles)|Sensible developer defaults and automation hooks on MacOS/*nix—inspired by others but idiomatic to my particular development needs and habit. As autodidactic coder, I know I don't do things "by the bo ...|5|0|2024-03-18|
 |107|[unixbhaskar/AdminScripts](https://github.com/unixbhaskar/AdminScripts)|Collection of scripts use for infrastructure maintenance.|8|0|2024-03-06|
 |108|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|163|0|2024-03-13|
-|109|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|28|0|2024-03-01|
+|109|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|28|0|2024-03-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
