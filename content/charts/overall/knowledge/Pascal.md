@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@
 |24|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|2024-02-25|
 |25|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|7|2024-03-13|
 |26|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|2023-10-07|
-|27|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-03-18|
+|27|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-03-20|
 |28|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|2024-01-24|
 |29|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|2024-01-14|
 |30|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|5|2023-11-04|
