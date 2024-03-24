@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |109|2023-12-04|2023-12-04|
-|2|[psyai-net/SelfTalk_release](https://github.com/psyai-net/SelfTalk_release)|This is the official source for our ACM MM 2023 paper "SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces""|103|2023-12-05|2023-07-26|
+|1|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |110|2023-12-04|2023-12-04|
+|2|[psyai-net/SelfTalk_release](https://github.com/psyai-net/SelfTalk_release)|This is the official source for our ACM MM 2023 paper "SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces""|104|2023-12-05|2023-07-26|
 |3|[NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes)|Code supporting 'Geometric constraints on human brain function'|67|2024-02-16|2023-04-06|
 |4|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to the OpenAI Chat Completions API (which powers ChatGPT)|54|2024-03-18|2023-10-09|
 |5|[nntk072/Research_training](https://github.com/nntk072/Research_training)|Research training|54|2023-11-05|2023-04-06|
@@ -26,7 +26,7 @@
 |19|[ggrecow/SQAT](https://github.com/ggrecow/SQAT)|SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis.|30|2024-01-30|2023-04-12|
 |20|[eleboss/EBR](https://github.com/eleboss/EBR)|Repo for event-based binary image reconstruction.|30|2024-03-19|2023-03-28|
 |21|[wxy1018/Waveform-Reflection-Design-for-RIS-ISAC](https://github.com/wxy1018/Waveform-Reflection-Design-for-RIS-ISAC)|Matlab codes for paper "Joint Waveform Design and Passive Beamforming for RIS-Assisted Dual-functional Radar-Communication System" in IEEE TVT|29|2023-11-22|2023-11-22|
-|22|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|29|2024-03-17|2023-09-11|
+|22|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|29|2024-03-23|2023-09-11|
 |23|[TWCLabSJTU/TeraISAC](https://github.com/TWCLabSJTU/TeraISAC)|-|28|2023-09-28|2023-09-25|
 |24|[lixilinx/FilterbanksBestPractices](https://github.com/lixilinx/FilterbanksBestPractices)|Tips for best practices with filterbanks|26|2024-01-27|2023-11-04|
 |25|[bradleeharr/PassiveRadarSim](https://github.com/bradleeharr/PassiveRadarSim)|Project for Radar Signal Processing - Passive Radar Simulation from RTL-SDR FM Data|26|2024-02-14|2023-07-02|
@@ -66,17 +66,17 @@
 |59|[jsdaiustc/RV_ESPRIT](https://github.com/jsdaiustc/RV_ESPRIT)|MATLAB codes for "Frequency Estimation of Vibration Signals: An Subspace Approach for Bearing Fault Diagnosis"|13|2023-11-10|2023-06-18|
 |60|[toammann/Multilayer_SMA2Microstrip](https://github.com/toammann/Multilayer_SMA2Microstrip)|Development of an SMA coaxial to microstrip transition using open source software (openEMS)|13|2023-11-16|2023-06-05|
 |61|[Zhuolu-Hou/POS-GIFT](https://github.com/Zhuolu-Hou/POS-GIFT)|If you have any questions, you can contact me by email: hzlresearch@163.com.|13|2023-12-31|2023-04-10|
-|62|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|12|2024-03-03|2023-12-29|
-|63|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|12|2024-02-19|2023-12-29|
-|64|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|12|2024-01-13|2023-07-25|
-|65|[sunghoon031/PCR-99](https://github.com/sunghoon031/PCR-99)|MATLAB implementation of PCR-99|11|2024-02-27|2024-02-26|
-|66|[FenghaoZhu/R-WMMSE](https://github.com/FenghaoZhu/R-WMMSE)|This is the code implementation for the R-WMMSE algorithm.|11|2024-03-10|2024-01-04|
-|67|[Qinxiaoye/FEM2D](https://github.com/Qinxiaoye/FEM2D)|Matlab code for finite element method (FEM)|11|2023-12-30|2023-12-30|
+|62|[Qinxiaoye/FEM2D](https://github.com/Qinxiaoye/FEM2D)|Matlab code for finite element method (FEM)|12|2023-12-30|2023-12-30|
+|63|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|12|2024-03-03|2023-12-29|
+|64|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|12|2024-02-19|2023-12-29|
+|65|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|12|2024-01-13|2023-07-25|
+|66|[sunghoon031/PCR-99](https://github.com/sunghoon031/PCR-99)|MATLAB implementation of PCR-99|11|2024-02-27|2024-02-26|
+|67|[FenghaoZhu/R-WMMSE](https://github.com/FenghaoZhu/R-WMMSE)|This is the code implementation for the R-WMMSE algorithm.|11|2024-03-10|2024-01-04|
 |68|[HwangBo94/Anti-UAV410](https://github.com/HwangBo94/Anti-UAV410)|The benchmark of AntiUAV410.|11|2024-03-18|2023-10-17|
 |69|[rehmanali1994/WaveformInversionUST](https://github.com/rehmanali1994/WaveformInversionUST)|Frequency-Domain Waveform Inversion Ultrasound Tomography (UST) Using a Ring-Array Transducer|11|2024-03-13|2023-08-29|
 |70|[JASONZ777/4D_radar_simulator_PointNet](https://github.com/JASONZ777/4D_radar_simulator_PointNet)|-|11|2024-02-25|2023-07-26|
 |71|[Battery-Intelligence-Lab/BatEst](https://github.com/Battery-Intelligence-Lab/BatEst)|Matlab code for battery simulations and parameter estimation.|11|2024-03-11|2023-07-25|
-|72|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|11|2024-03-21|2023-07-11|
+|72|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|11|2024-03-22|2023-07-11|
 |73|[valentinomario/HMM-Stock-Market-Prediction](https://github.com/valentinomario/HMM-Stock-Market-Prediction)|MATLAB program to train and test a HMM model for stock market predictions|11|2023-10-12|2023-06-12|
 |74|[tcooms/TopOpt-ThermoElastic](https://github.com/tcooms/TopOpt-ThermoElastic)|Thermoelastic topology optimization procedure considering steady-state heat conduction|11|2023-11-27|2023-04-12|
 |75|[xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform](https://github.com/xiongGPR/SSGPST-Synchrosqueezing-Generalized-Phase-shifting-S-Transform)|Synchrosqueezing Generalized Phase-shifting S-Transform|11|2023-12-09|2023-04-01|
@@ -141,14 +141,14 @@
 |134|[DeathstrokeN/Robust-tube-MPC](https://github.com/DeathstrokeN/Robust-tube-MPC)|-|7|2023-10-26|2023-04-19|
 |135|[AppliedAcousticsChalmers/ambisonics-for-insta360-pro](https://github.com/AppliedAcousticsChalmers/ambisonics-for-insta360-pro)|Experimental 4th-order ambisonic microphone array for the Insta360 Pro camera|7|2023-10-04|2023-04-02|
 |136|[APMonitor/mds](https://github.com/APMonitor/mds)|Machine Learning for Engineers in MATLAB|7|2024-01-11|2023-03-31|
-|137|[MathWorks-Teaching-Resources/Thermodynamics](https://github.com/MathWorks-Teaching-Resources/Thermodynamics)|This curriculum module contains interactive examples that teach fundamental concepts and basic terminology related to thermodynamics with an emphasis on Mechanical Engineering applications.|7|2023-10-18|2023-03-24|
-|138|[themanoftalent/SignalsSystemsWeek4-7](https://github.com/themanoftalent/SignalsSystemsWeek4-7)|-|6|2024-03-22|2024-03-17|
-|139|[YijieLinaMao/BD-RIS-low-complexity](https://github.com/YijieLinaMao/BD-RIS-low-complexity)|Simulation code for the paper: T. Fang and Y. Mao, "A Low-Complexity Beamforming Design for Beyond-Diagonal RIS Aided Multi-User Networks," in IEEE Communications Letters, vol. 28, no. 1, pp. 203-207, ...|6|2024-03-16|2024-03-16|
-|140|[casadi/micro_demo_ipopt_codegen](https://github.com/casadi/micro_demo_ipopt_codegen)|-|6|2024-03-06|2024-03-06|
-|141|[SkaiLord/Optimization-Techniques](https://github.com/SkaiLord/Optimization-Techniques)|Lab codes for Optimization Techniques (UMA035)|6|2024-02-17|2024-02-17|
-|142|[UCL/COMP0130_23-24](https://github.com/UCL/COMP0130_23-24)|-|6|2024-03-12|2024-02-05|
-|143|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|6|2024-02-03|2024-02-03|
-|144|[RangLiu0706/RIS_ISAC_magazine](https://github.com/RangLiu0706/RIS_ISAC_magazine)|-|6|2024-02-03|2024-02-03|
+|137|[themanoftalent/SignalsSystemsWeek4-7](https://github.com/themanoftalent/SignalsSystemsWeek4-7)|-|6|2024-03-23|2024-03-17|
+|138|[YijieLinaMao/BD-RIS-low-complexity](https://github.com/YijieLinaMao/BD-RIS-low-complexity)|Simulation code for the paper: T. Fang and Y. Mao, "A Low-Complexity Beamforming Design for Beyond-Diagonal RIS Aided Multi-User Networks," in IEEE Communications Letters, vol. 28, no. 1, pp. 203-207, ...|6|2024-03-16|2024-03-16|
+|139|[casadi/micro_demo_ipopt_codegen](https://github.com/casadi/micro_demo_ipopt_codegen)|-|6|2024-03-06|2024-03-06|
+|140|[SkaiLord/Optimization-Techniques](https://github.com/SkaiLord/Optimization-Techniques)|Lab codes for Optimization Techniques (UMA035)|6|2024-02-17|2024-02-17|
+|141|[UCL/COMP0130_23-24](https://github.com/UCL/COMP0130_23-24)|-|6|2024-03-12|2024-02-05|
+|142|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|6|2024-02-03|2024-02-03|
+|143|[RangLiu0706/RIS_ISAC_magazine](https://github.com/RangLiu0706/RIS_ISAC_magazine)|-|6|2024-02-03|2024-02-03|
+|144|[ShiDongyuan/Multichannel_FxLMS_Matlab](https://github.com/ShiDongyuan/Multichannel_FxLMS_Matlab)|This work provides a MATLAB code for the McFxLMS algorithm, which can be used for the arbitrary number of channels system.|6|2024-02-18|2024-01-31|
 |145|[matlab-deep-learning/nerf](https://github.com/matlab-deep-learning/nerf)|NeRF - Neural Radiance Fileds in MATLAB|6|2024-01-17|2024-01-08|
 |146|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|6|2024-03-10|2024-01-04|
 |147|[FenghaoZhu/WMMSE](https://github.com/FenghaoZhu/WMMSE)|This is the code implementation for the WMMSE algorithm.|6|2024-03-10|2024-01-04|
@@ -186,25 +186,25 @@
 |179|[amisepa/BrainBeats](https://github.com/amisepa/BrainBeats)|The BrainBeats toolbox, implemented as an EEGLAB plugin, allows joint processing and analysis of EEG and cardiovascular signals (ECG/PPG).|6|2024-03-20|2023-05-05|
 |180|[r-santo/openSSS](https://github.com/r-santo/openSSS)|Open-source implementation of scatter estimation for 3D TOF-PET|6|2024-02-22|2023-05-04|
 |181|[yashdabke/Adaptive-Beamforming-Simulation](https://github.com/yashdabke/Adaptive-Beamforming-Simulation)|simulation of an Adaptive Beamforming Radar using MATLAB which employs Machine Learning Algorithms and proves that the Least Mean Squared approach (LMS) is the best option for a simple antenna.|6|2024-01-28|2023-05-01|
-|182|[LightForm-group/3D_stats_from_2D_EBSD](https://github.com/LightForm-group/3D_stats_from_2D_EBSD)|MATLAB script to extract 3D statistics from a 2D EBSD map to be read into DREAM3D|6|2023-09-22|2023-04-26|
-|183|[nickersonm/LumericalTools](https://github.com/nickersonm/LumericalTools)|Lumerical scripts for rapid geometry and simulation definition, bash scripts for remote-host Lumerical execution, and MATLAB scripts for Lumerical script generation and analysis.|6|2024-02-22|2023-04-22|
-|184|[psrobotics/quadruped_walk_mpc_ctr](https://github.com/psrobotics/quadruped_walk_mpc_ctr)|-|6|2023-10-18|2023-03-26|
-|185|[YijieLinaMao/RSMA-low-complexity-MaxMin](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)|Simulation code for the paper: F. Luo and Y. Mao, "A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285 ...|5|2024-03-16|2024-03-16|
-|186|[Dinusha89/DCCNMF](https://github.com/Dinusha89/DCCNMF)|Matlab implementation for "Deep Complementary and Consensus Non-negative Matrix Factorization for multi-view clustering"|5|2024-03-05|2024-03-05|
-|187|[rlrangel/DEMLab](https://github.com/rlrangel/DEMLab)|Discrete Element Method Laboratory|5|2024-02-24|2024-02-20|
-|188|[junbolian/PO](https://github.com/junbolian/PO)|The source code of Parrot Optimizer (PO)|5|2024-02-26|2024-02-07|
+|182|[nickersonm/LumericalTools](https://github.com/nickersonm/LumericalTools)|Lumerical scripts for rapid geometry and simulation definition, bash scripts for remote-host Lumerical execution, and MATLAB scripts for Lumerical script generation and analysis.|6|2024-02-22|2023-04-22|
+|183|[psrobotics/quadruped_walk_mpc_ctr](https://github.com/psrobotics/quadruped_walk_mpc_ctr)|-|6|2023-10-18|2023-03-26|
+|184|[YijieLinaMao/RSMA-low-complexity-MaxMin](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)|Simulation code for the paper: F. Luo and Y. Mao, "A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285 ...|5|2024-03-16|2024-03-16|
+|185|[Dinusha89/DCCNMF](https://github.com/Dinusha89/DCCNMF)|Matlab implementation for "Deep Complementary and Consensus Non-negative Matrix Factorization for multi-view clustering"|5|2024-03-05|2024-03-05|
+|186|[rlrangel/DEMLab](https://github.com/rlrangel/DEMLab)|Discrete Element Method Laboratory|5|2024-02-24|2024-02-20|
+|187|[junbolian/PO](https://github.com/junbolian/PO)|The source code of Parrot Optimizer (PO)|5|2024-02-26|2024-02-07|
+|188|[ShiDongyuan/Kalman_Filter_for_ANC](https://github.com/ShiDongyuan/Kalman_Filter_for_ANC)|This code realizes the Kalman filter approach for an active noise control system (ANC) to attenuate the dynamic noise.|5|2024-02-17|2024-02-03|
 |189|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|5|2024-02-03|2024-02-03|
 |190|[sunghoon031/SingleRotationAveraging_TLUD](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)|MATLAB code accompanying the paper "Robust Single Rotation Averaging Revisited"|5|2024-02-20|2024-02-01|
-|191|[ShiDongyuan/Multichannel_FxLMS_Matlab](https://github.com/ShiDongyuan/Multichannel_FxLMS_Matlab)|This work provides a MATLAB code for the McFxLMS algorithm, which can be used for the arbitrary number of channels system.|5|2024-02-18|2024-01-31|
-|192|[tpark94/speed-ue-cube-baseline](https://github.com/tpark94/speed-ue-cube-baseline)|MATLAB Deep Learning Toolbox implementation of CNN used in baseline studies of SPEED-UE-Cube dataset|5|2024-01-26|2024-01-26|
-|193|[ShawnDong98/DERNN-LNLT](https://github.com/ShawnDong98/DERNN-LNLT)|Code of the paper "Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging"|5|2024-01-06|2024-01-06|
-|194|[KEVIN-XTREM-2023/SistemaPredicci-n](https://github.com/KEVIN-XTREM-2023/SistemaPredicci-n)|Sistema que nos permite saber qué tipo de préstamo se podrá solicitar por las personas en una entidad financiera.|5|2024-01-02|2023-12-28|
-|195|[lewsilver/radar_doa](https://github.com/lewsilver/radar_doa)|Code for RADAR doa algorithm with Matlab. including Capon, MUSIC, DML, Propagator Method, IAA, DBF, OMP, ISTA.......|5|2024-01-13|2023-12-25|
-|196|[jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM](https://github.com/jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM)|Deep hybrid modeling of bioreactor cell culture data using Long Short-Term Memory (LSTM) networks combined with first principles equations|5|2024-03-21|2023-12-22|
-|197|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|5|2024-02-16|2023-12-22|
-|198|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|-|5|2023-12-14|2023-12-14|
-|199|[turkerdolapci/GroundStation-UHF-NonRotator](https://github.com/turkerdolapci/GroundStation-UHF-NonRotator)|Non-rotator UHF ground station setup to receive LEO satellite signals.|5|2023-12-14|2023-12-11|
-|200|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|5|2024-01-06|2023-12-09|
+|191|[tpark94/speed-ue-cube-baseline](https://github.com/tpark94/speed-ue-cube-baseline)|MATLAB Deep Learning Toolbox implementation of CNN used in baseline studies of SPEED-UE-Cube dataset|5|2024-01-26|2024-01-26|
+|192|[ShawnDong98/DERNN-LNLT](https://github.com/ShawnDong98/DERNN-LNLT)|Code of the paper "Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging"|5|2024-01-06|2024-01-06|
+|193|[KEVIN-XTREM-2023/SistemaPredicci-n](https://github.com/KEVIN-XTREM-2023/SistemaPredicci-n)|Sistema que nos permite saber qué tipo de préstamo se podrá solicitar por las personas en una entidad financiera.|5|2024-01-02|2023-12-28|
+|194|[lewsilver/radar_doa](https://github.com/lewsilver/radar_doa)|Code for RADAR doa algorithm with Matlab. including Capon, MUSIC, DML, Propagator Method, IAA, DBF, OMP, ISTA.......|5|2024-01-13|2023-12-25|
+|195|[jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM](https://github.com/jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM)|Deep hybrid modeling of bioreactor cell culture data using Long Short-Term Memory (LSTM) networks combined with first principles equations|5|2024-03-21|2023-12-22|
+|196|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|5|2024-02-16|2023-12-22|
+|197|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|-|5|2023-12-14|2023-12-14|
+|198|[turkerdolapci/GroundStation-UHF-NonRotator](https://github.com/turkerdolapci/GroundStation-UHF-NonRotator)|Non-rotator UHF ground station setup to receive LEO satellite signals.|5|2023-12-14|2023-12-11|
+|199|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|5|2024-01-06|2023-12-09|
+|200|[Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance](https://github.com/Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance)|Dijkstra+minimum jerk+ORCA(RVO2)|5|2024-03-01|2023-12-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
