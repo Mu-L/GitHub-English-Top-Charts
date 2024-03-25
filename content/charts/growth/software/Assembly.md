@@ -1,55 +1,55 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Assembly
-<sub>Updated: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|162|32|2024-03-21|
-|2|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56278|15|2024-03-10|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6173|6|2024-03-23|
+|1|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|162|27|2024-03-21|
+|2|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56281|15|2024-03-10|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6174|6|2024-03-23|
 |4|[KD-lab-Open-Source/qdEngine](https://github.com/KD-lab-Open-Source/qdEngine)|-|83|5|2024-03-14|
 |5|[hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)|📖 An approachable introduction to Assembly.|2979|4|2023-12-05|
 |6|[pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)|A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu ...|2320|3|2024-03-05|
-|7|[tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)|flat assembler 2|32|3|2024-03-21|
-|8|[WKL-Sec/FuncAddressPro](https://github.com/WKL-Sec/FuncAddressPro)|A stealthy, assembly-based tool for secure function address resolution, offering a robust alternative to GetProcAddress.|54|3|2024-03-06|
+|7|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|6|3|2024-03-24|
+|8|[WKL-Sec/FuncAddressPro](https://github.com/WKL-Sec/FuncAddressPro)|A stealthy, assembly-based tool for secure function address resolution, offering a robust alternative to GetProcAddress.|55|3|2024-03-06|
 |9|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|4530|3|2024-03-20|
-|10|[decrazyo/lng-fds](https://github.com/decrazyo/lng-fds)|Famicom Disk System port of LUnix Next Generation|213|3|2024-02-20|
-|11|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9764|3|2024-03-20|
-|12|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|140|3|2024-03-17|
-|13|[corkami/pics](https://github.com/corkami/pics)|File formats dissections and more...|10269|3|2024-02-18|
-|14|[erkyrath/infocom-zcode-terps](https://github.com/erkyrath/infocom-zcode-terps)|Historical source code for Infocom's Z-machine interpreters|346|3|2023-11-23|
-|15|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|487|2|2024-03-10|
-|16|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10546|2|2024-03-22|
-|17|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|831|2|2024-03-06|
-|18|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|407|2|2024-03-15|
-|19|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|473|2|2024-03-22|
-|20|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|3168|2|2024-03-21|
-|21|[SheerSt/pokewilds](https://github.com/SheerSt/pokewilds)|PokeWilds - A Gen 2 Game/Engine using libGDX|2525|2|2024-01-17|
-|22|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|1475|2|2023-11-03|
-|23|[nir9/fastws](https://github.com/nir9/fastws)|Minimalist Web Server for Linux written in x64 Assembly|31|1|2024-02-18|
-|24|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2463|1|2024-03-23|
-|25|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3550|1|2024-03-19|
-|26|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|44|1|2024-03-21|
-|27|[donno2048/snake](https://github.com/donno2048/snake)|A minimal snake in assembly |672|1|2024-03-04|
-|28|[azya52/BrickEmuPy](https://github.com/azya52/BrickEmuPy)|Brick Game (aka Tetris) emulator in Python with PyQt6|93|1|2024-02-24|
-|29|[NesHacker/PlatformerMovement](https://github.com/NesHacker/PlatformerMovement)|SMB3 Inspired Controls & Movement Demo|203|1|2023-11-25|
-|30|[HazyResearch/H3](https://github.com/HazyResearch/H3)|Language Modeling with the H3 State Space Model|484|1|2023-09-29|
-|31|[gmpsankalpa/Hello-World](https://github.com/gmpsankalpa/Hello-World)|This repository contains "Hello, World!" programs written in 20 different programming languages.|2|1|2024-03-21|
-|32|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|3742|1|2024-02-20|
-|33|[nanochess/bootOS](https://github.com/nanochess/bootOS)|bootOS is a monolithic operating system in 512 bytes of x86 machine code.|1764|1|2024-01-04|
-|34|[memorysafety/rav1d](https://github.com/memorysafety/rav1d)|An AV1 decoder in Rust.|206|1|2024-03-23|
+|10|[decrazyo/lng-fds](https://github.com/decrazyo/lng-fds)|Famicom Disk System port of LUnix Next Generation|214|3|2024-02-20|
+|11|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9763|3|2024-03-20|
+|12|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|141|3|2024-03-17|
+|13|[corkami/pics](https://github.com/corkami/pics)|File formats dissections and more...|10272|3|2024-02-18|
+|14|[erkyrath/infocom-zcode-terps](https://github.com/erkyrath/infocom-zcode-terps)|Historical source code for Infocom's Z-machine interpreters|347|3|2023-11-23|
+|15|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|488|2|2024-03-10|
+|16|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10548|2|2024-03-22|
+|17|[tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)|flat assembler 2|32|2|2024-03-21|
+|18|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|831|2|2024-03-06|
+|19|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|407|2|2024-03-15|
+|20|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|473|2|2024-03-22|
+|21|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|3169|2|2024-03-21|
+|22|[SheerSt/pokewilds](https://github.com/SheerSt/pokewilds)|PokeWilds - A Gen 2 Game/Engine using libGDX|2529|2|2024-01-17|
+|23|[klezVirus/inceptor](https://github.com/klezVirus/inceptor)|Template-Driven AV/EDR Evasion Framework|1476|2|2023-11-03|
+|24|[nir9/fastws](https://github.com/nir9/fastws)|Minimalist Web Server for Linux written in x64 Assembly|31|1|2024-02-18|
+|25|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2463|1|2024-03-23|
+|26|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3552|1|2024-03-19|
+|27|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|57|1|2024-03-21|
+|28|[donno2048/snake](https://github.com/donno2048/snake)|A minimal snake in assembly |672|1|2024-03-04|
+|29|[azya52/BrickEmuPy](https://github.com/azya52/BrickEmuPy)|Brick Game (aka Tetris) emulator in Python with PyQt6|93|1|2024-02-24|
+|30|[NesHacker/PlatformerMovement](https://github.com/NesHacker/PlatformerMovement)|SMB3 Inspired Controls & Movement Demo|203|1|2023-11-25|
+|31|[HazyResearch/H3](https://github.com/HazyResearch/H3)|Language Modeling with the H3 State Space Model|484|1|2023-09-29|
+|32|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|3745|1|2024-02-20|
+|33|[nanochess/bootOS](https://github.com/nanochess/bootOS)|bootOS is a monolithic operating system in 512 bytes of x86 machine code.|1763|1|2024-01-04|
+|34|[memorysafety/rav1d](https://github.com/memorysafety/rav1d)|An AV1 decoder in Rust.|207|1|2024-03-24|
 |35|[klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)|Reed-Solomon Erasure Coding in Go|1783|1|2024-03-11|
 |36|[Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|An Operating System for Z80 computers, written in assembly|518|1|2024-03-23|
 |37|[spipm/BraekerCTF_2024_public](https://github.com/spipm/BraekerCTF_2024_public)|BraekerCTF 2024 challenges and background |21|1|2024-03-03|
 |38|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|2108|1|2024-02-11|
-|39|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|3536|1|2024-03-22|
+|39|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|3538|1|2024-03-22|
 |40|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|120|1|2023-09-30|
-|41|[alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)|🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.|885|1|2024-01-12|
-|42|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2208|1|2024-03-22|
-|43|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|790|1|2024-02-04|
-|44|[openhwgroup/cva6](https://github.com/openhwgroup/cva6)|The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux|2031|1|2024-03-23|
-|45|[zeldaret/tp](https://github.com/zeldaret/tp)|Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)|729|1|2024-03-23|
+|41|[alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)|🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.|886|1|2024-01-12|
+|42|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2210|1|2024-03-22|
+|43|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|791|1|2024-02-04|
+|44|[openhwgroup/cva6](https://github.com/openhwgroup/cva6)|The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux|2034|1|2024-03-23|
+|45|[zeldaret/tp](https://github.com/zeldaret/tp)|Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)|730|1|2024-03-24|
 |46|[markmoxon/nes-elite-beebasm](https://github.com/markmoxon/nes-elite-beebasm)|Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)|358|1|2024-03-07|
 |47|[plantabt/CmdSparker](https://github.com/plantabt/CmdSparker)|-|42|1|2024-01-20|
 |48|[jart/blc](https://github.com/jart/blc)|Binary Lambda Calculus Virtual Machine|42|1|2024-01-24|
@@ -90,8 +90,8 @@
 |83|[tstamborski/sprite-studio-64](https://github.com/tstamborski/sprite-studio-64)|Native sprite editor for Commodore 64. Pocket knife among sprite editors.|16|0|2024-03-16|
 |84|[dominikcedro/Microcontrollers_laboratories](https://github.com/dominikcedro/Microcontrollers_laboratories)|-|7|0|2024-02-21|
 |85|[TogekissTube/TogekissOS](https://github.com/TogekissTube/TogekissOS)|A OS In ALPHA With simple things|3|0|2023-12-19|
-|86|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|65|0|2024-03-23|
-|87|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Decompilation of Pokemon HeartGold/SoulSilver|239|0|2024-03-23|
+|86|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|65|0|2024-03-24|
+|87|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Decompilation of Pokemon HeartGold/SoulSilver|240|0|2024-03-23|
 |88|[zimnyaa/beepsyscall](https://github.com/zimnyaa/beepsyscall)|An adaptation of timwhitez's proxycall that uses kernelbase.dll!Beep.|10|0|2023-11-01|
 |89|[ETC-A/etca-asm](https://github.com/ETC-A/etca-asm)|-|5|0|2024-02-12|
 |90|[c128lib/chipset](https://github.com/c128lib/chipset)|Libraries that cover functionality of Commodore 128 chipset|7|0|2023-12-10|
@@ -107,7 +107,7 @@
 |100|[FluBBaOfWard/NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)|Bandai WonderSwan (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo DS(i)/3DS.|41|0|2023-10-25|
 |101|[SlithyMatt/x16-tile-editor](https://github.com/SlithyMatt/x16-tile-editor)|Tile/Sprite Editor for the Commander X16|5|0|2023-11-03|
 |102|[timtashpulatov/ok240](https://github.com/timtashpulatov/ok240)|-|4|0|2024-02-28|
-|103|[scawful/Oracle-of-Secrets](https://github.com/scawful/Oracle-of-Secrets)|Custom Code for the Legend of Zelda: Oracle of Secrets ROM hack|6|0|2024-03-22|
+|103|[scawful/Oracle-of-Secrets](https://github.com/scawful/Oracle-of-Secrets)|Custom Code for the Legend of Zelda: Oracle of Secrets ROM hack|6|0|2024-03-24|
 |104|[Youngbeom94/Crystals-Kyber-on-AVR](https://github.com/Youngbeom94/Crystals-Kyber-on-AVR)|8-bit AVR implementation of the Post-Quantum Cryptography-Crystals Kyber|8|0|2023-11-07|
 |105|[uweseimet/atari_public](https://github.com/uweseimet/atari_public)|Atari XHDI, SCSI Driver, PMMU and other tools|12|0|2023-12-13|
 |106|[neozeed/himem.sys-2.06](https://github.com/neozeed/himem.sys-2.06)|Microsoft's published himem.sys version 2.06 from XMS20.ARC|3|0|2024-01-19|
@@ -134,8 +134,8 @@
 |127|[patricksurry/p8fs](https://github.com/patricksurry/p8fs)|platform-independent kernel of the prodos8 filesystem MLI|2|0|2024-02-18|
 |128|[cppchriscpp/ld40](https://github.com/cppchriscpp/ld40)|Fluffy Space Escape|3|0|2024-01-26|
 |129|[frankheisig71/st_side_scrl](https://github.com/frankheisig71/st_side_scrl)|50Hz side scrolling on Atari ST|4|0|2023-10-17|
-|130|[WillStevens/basic1K](https://github.com/WillStevens/basic1K)|A 1K Tiny BASIC interpreter for the Intel 8080|4|0|2024-03-23|
-|131|[StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts)|Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base|5|0|2024-03-23|
+|130|[WillStevens/basic1K](https://github.com/WillStevens/basic1K)|A 1K Tiny BASIC interpreter for the Intel 8080|4|0|2024-03-24|
+|131|[StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts)|Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base|5|0|2024-03-24|
 |132|[OkulusDev/ELF-x86-research](https://github.com/OkulusDev/ELF-x86-research)|Repository for researching ELF binary executables under x86 ISA|4|0|2024-01-03|
 |133|[Meriem1551/Assembly-exersises](https://github.com/Meriem1551/Assembly-exersises)|Solving some problems with mips|5|0|2023-12-13|
 |134|[FoenixRetro/f256-superbasic](https://github.com/FoenixRetro/f256-superbasic)|SuperBASIC for the F256 computers|16|0|2024-03-17|
@@ -195,16 +195,16 @@
 |188|[dplassgit/games](https://github.com/dplassgit/games)|Games for the PET and Tandy 100/102|3|0|2024-02-11|
 |189|[tetracorp/k240](https://github.com/tetracorp/k240)|Exploring K240, a project to disassemble the 1994 Commodore Amiga game, K240|4|0|2024-02-04|
 |190|[crsjones/Southern-Cross-Computer-z80](https://github.com/crsjones/Southern-Cross-Computer-z80)|An 'improved' version of the TEC-1 made for Kitsrus in the early 90's|22|0|2024-03-20|
-|191|[blancaatienzar/Ensamblador-68k](https://github.com/blancaatienzar/Ensamblador-68k)|Aqui estan todos lo desarollado en este lenguaje ensamblador|2|0|2023-09-23|
-|192|[Baron-von-Riedesel/PCItools](https://github.com/Baron-von-Riedesel/PCItools)|A few small tools to display PCI info in DOS|7|0|2024-02-22|
-|193|[mheyer32/Breathless](https://github.com/mheyer32/Breathless)|-|4|0|2023-11-09|
-|194|[celso/c64](https://github.com/celso/c64)|C64 Christmas Demo in 6510 Assembly|62|0|2024-01-05|
-|195|[crsjones/68Retro](https://github.com/crsjones/68Retro)|6800 and 6809 Retro Hardware|7|0|2024-03-09|
-|196|[StanHash/fe7_us](https://github.com/StanHash/fe7_us)|Disassembly/Partial decompilation of "Fire Emblem" (GBA)|12|0|2023-11-18|
-|197|[douglascrockford/MEC](https://github.com/douglascrockford/MEC)|Modular Matrix Exponentiation Cryptography|5|0|2023-11-27|
-|198|[andrew-johnson-4/lambda-mountain](https://github.com/andrew-johnson-4/lambda-mountain)|A Compiler in 85K Instructions (3K SLOC)|7|0|2024-03-23|
-|199|[RustCrypto/asm-hashes](https://github.com/RustCrypto/asm-hashes)|Assembly implementations of cryptographic hash functions|41|0|2024-03-07|
-|200|[algosup/2023-2024-project-3-virtual-processor-team-4](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-4)|-|7|0|2024-02-23|
+|191|[Baron-von-Riedesel/PCItools](https://github.com/Baron-von-Riedesel/PCItools)|A few small tools to display PCI info in DOS|7|0|2024-02-22|
+|192|[mheyer32/Breathless](https://github.com/mheyer32/Breathless)|-|4|0|2023-11-09|
+|193|[celso/c64](https://github.com/celso/c64)|C64 Christmas Demo in 6510 Assembly|62|0|2024-01-05|
+|194|[crsjones/68Retro](https://github.com/crsjones/68Retro)|6800 and 6809 Retro Hardware|7|0|2024-03-09|
+|195|[StanHash/fe7_us](https://github.com/StanHash/fe7_us)|Disassembly/Partial decompilation of "Fire Emblem" (GBA)|12|0|2023-11-18|
+|196|[douglascrockford/MEC](https://github.com/douglascrockford/MEC)|Modular Matrix Exponentiation Cryptography|5|0|2023-11-27|
+|197|[andrew-johnson-4/lambda-mountain](https://github.com/andrew-johnson-4/lambda-mountain)|A Compiler in 85K Instructions (3K SLOC)|7|0|2024-03-24|
+|198|[RustCrypto/asm-hashes](https://github.com/RustCrypto/asm-hashes)|Assembly implementations of cryptographic hash functions|42|0|2024-03-07|
+|199|[algosup/2023-2024-project-3-virtual-processor-team-4](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-4)|-|7|0|2024-02-23|
+|200|[tudoroancea/tinyhpipm](https://github.com/tudoroancea/tinyhpipm)|a refactored, stripped down, opinionated version of HPIPM|5|0|2024-03-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

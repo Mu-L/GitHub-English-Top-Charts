@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[curl/everything-curl](https://github.com/curl/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1910|2024-03-21|
+|1|[curl/everything-curl](https://github.com/curl/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1910|2024-03-23|
 |2|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1895|2024-02-28|
-|3|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|995|2024-03-23|
+|3|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|997|2024-03-23|
 |4|[bucardo/bucardo](https://github.com/bucardo/bucardo)|Bucardo multimaster and master/slave Postgres replication|712|2023-12-14|
 |5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|410|2024-03-19|
 |6|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |308|2024-03-21|
-|7|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|139|2024-03-23|
+|7|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|139|2024-03-24|
 |8|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|121|2024-03-22|
 |9|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|105|2024-03-22|
 |10|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|71|2024-03-08|
@@ -41,12 +41,12 @@
 |34|[richysix/Crispr](https://github.com/richysix/Crispr)|CRISPR/Cas9 guide RNA Design|23|2024-02-20|
 |35|[fm4dd/nagios4dd](https://github.com/fm4dd/nagios4dd)|Collection of scripts and plugins for the open source monitoring system Nagios.|21|2023-11-07|
 |36|[woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts)|A collection of Perl scripts to handle reverts on OpenStreetMap|20|2023-12-27|
-|37|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-03-22|
+|37|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|19|2024-03-23|
 |38|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|19|2023-12-06|
 |39|[molgenis/cluster-utils](https://github.com/molgenis/cluster-utils)|Collection of utilities / helper scripts to make life easier on our HPC clusters.|18|2024-01-25|
 |40|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|18|2024-03-19|
 |41|[mbeijen/File-MimeInfo](https://github.com/mbeijen/File-MimeInfo)|Perl module for determining file types using the freedesktop.org shared mime-info database|17|2023-12-03|
-|42|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-03-23|
+|42|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|15|2024-03-24|
 |43|[Tux/Release-Checklist](https://github.com/Tux/Release-Checklist)|A checklist for releasing a CPAN module|15|2024-02-26|
 |44|[tlqtangok/tfr](https://github.com/tlqtangok/tfr)|tfr or so called "tor-fr" is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.|14|2023-11-04|
 |45|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|14|2023-12-17|
@@ -71,14 +71,14 @@
 |64|[thejud/text-processing-cookbook](https://github.com/thejud/text-processing-cookbook)|A cookbook of tools and techniques for processing text and data at the linux command line|8|2023-10-28|
 |65|[peeterjoot/latex-notes-compilations](https://github.com/peeterjoot/latex-notes-compilations)|Master repository for Peeter's various latex notes compilations and/or books (transitioning from monolithic physicsplay repository).|8|2023-10-01|
 |66|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-03-22|
-|67|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|2024-03-09|
-|68|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|7|2024-03-22|
-|69|[druxorey/dotfiles](https://github.com/druxorey/dotfiles)|This is where I store my dotfiles. It also contains installation scripts and guides for installing Arch and bspwm. This repository is meant to help me and others set up a minimalist and efficient Arch ...|6|2024-03-16|
-|70|[huangwenze/lncHOME_analysis](https://github.com/huangwenze/lncHOME_analysis)|lncHOME (lncRNA Homology Explorer), a computational pipeline that identifies a unique coPARSE-lncRNA class with conserved genomic locations and patterns of RNA binding protein (RBP) binding sites.|6|2023-11-02|
-|71|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|6|2024-03-23|
+|67|[huangwenze/lncHOME_analysis](https://github.com/huangwenze/lncHOME_analysis)|lncHOME (lncRNA Homology Explorer), a computational pipeline that identifies a unique coPARSE-lncRNA class with conserved genomic locations and patterns of RNA binding protein (RBP) binding sites.|7|2023-11-02|
+|68|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|2024-03-09|
+|69|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|7|2024-03-22|
+|70|[druxorey/dotfiles](https://github.com/druxorey/dotfiles)|This is where I store my dotfiles. It also contains installation scripts and guides for installing Arch and bspwm. This repository is meant to help me and others set up a minimalist and efficient Arch ...|6|2024-03-16|
+|71|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|6|2024-03-24|
 |72|[eead-csic-compbio/scripting_linux_shell](https://github.com/eead-csic-compbio/scripting_linux_shell)|A collection of recipes to start scripting in the linux command line|6|2023-11-23|
 |73|[IBM-Security/performance](https://github.com/IBM-Security/performance)|IBM Security Performance tools, tuning guides and other helpful documentation.|6|2023-10-23|
-|74|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|2024-03-22|
+|74|[MX-Linux/mx-packageinstaller-pkglist](https://github.com/MX-Linux/mx-packageinstaller-pkglist)|Package list for MX Package installer program|6|2024-03-24|
 |75|[Ensembl/ensembl-xs](https://github.com/Ensembl/ensembl-xs)|A collection of XS modules to be used with the Ensembl APIs|6|2024-01-22|
 |76|[kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template)|Template for 'mdbook' books with my preferences|5|2023-10-09|
 |77|[legumeinfo/pandagma](https://github.com/legumeinfo/pandagma)|Generate pan-gene sets, given a collection of genome assemblies and corresponding gene models.|5|2024-01-24|
@@ -86,44 +86,45 @@
 |79|[aslakjohansen/student-projects](https://github.com/aslakjohansen/student-projects)|List of student projects|5|2023-12-04|
 |80|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|5|2024-03-20|
 |81|[ULeth-Math-CS/uleth-math-webwork-library](https://github.com/ULeth-Math-CS/uleth-math-webwork-library)|Templates, programming examples, and problem libraries for WeBWorK at U of L|5|2024-02-20|
-|82|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|2024-03-16|
-|83|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2023-12-15|
-|84|[Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript)|Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs |4|2023-11-01|
-|85|[blackhatethicalhacking/perl-programming-training](https://github.com/blackhatethicalhacking/perl-programming-training)|This Repo is a quick tutorial that introduces various aspects of the Perl programming language and examples curated by BHEH. Perl Language can be useful for ethical hacking, security research, and pen ...|4|2023-10-31|
-|86|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-03-18|
-|87|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. Updated with Condorcet voting algorithms, it's descended from the Vote::STV software written which I wrote in Perl originally in 1998 ...|4|2024-03-07|
-|88|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-03-22|
-|89|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2024-03-11|
-|90|[ckuelker/quick-guide-en-us](https://github.com/ckuelker/quick-guide-en-us)|IT Quick Guide|4|2024-03-21|
-|91|[levitte/perl](https://github.com/levitte/perl)|A collection of Perl modules|4|2023-12-12|
-|92|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|4|2023-10-12|
-|93|[AngelGryph/MadeInHeaven_EncountersAndQuests](https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests)|A collection of modifications for BG2, BGT and BG(2)EE that alter various encounters and quests, and even add some new ones.|4|2024-01-23|
-|94|[dnicolasespinoza/dnicolasespinoza.github.io](https://github.com/dnicolasespinoza/dnicolasespinoza.github.io)|webpage hosting for book "Introduction to Energy Geomechanics"|4|2023-11-15|
-|95|[brianjohnhaas/HAASLIB](https://github.com/brianjohnhaas/HAASLIB)|my collection of perl modules that I share among lots of different toolkits|4|2023-12-02|
-|96|[Punktum-dk/epp-xsd-files](https://github.com/Punktum-dk/epp-xsd-files)|XSD files for the DK Hostmaster EPP service|4|2024-03-19|
+|82|[Punktum-dk/epp-xsd-files](https://github.com/Punktum-dk/epp-xsd-files)|XSD files for the DK Hostmaster EPP service|5|2024-03-19|
+|83|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|2024-03-16|
+|84|[chaosdorf/chaosdorf-admin-toolkit](https://github.com/chaosdorf/chaosdorf-admin-toolkit)|Collection of scripts and configs for Chaosdorf servers (ready Debian package)|5|2023-12-15|
+|85|[Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript)|Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs |4|2023-11-01|
+|86|[blackhatethicalhacking/perl-programming-training](https://github.com/blackhatethicalhacking/perl-programming-training)|This Repo is a quick tutorial that introduces various aspects of the Perl programming language and examples curated by BHEH. Perl Language can be useful for ethical hacking, security research, and pen ...|4|2023-10-31|
+|87|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries.|4|2024-03-18|
+|88|[ikluft/prefvote](https://github.com/ikluft/prefvote)|PrefVote is to promote ranked-choice preference voting algorithms. Updated with Condorcet voting algorithms, it's descended from the Vote::STV software written which I wrote in Perl originally in 1998 ...|4|2024-03-07|
+|89|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-03-22|
+|90|[baierjan/Pass-OTP-perl](https://github.com/baierjan/Pass-OTP-perl)|Perl implementation of HOTP / TOTP algorithms for alternative to oathtool(1)|4|2024-03-11|
+|91|[ckuelker/quick-guide-en-us](https://github.com/ckuelker/quick-guide-en-us)|IT Quick Guide|4|2024-03-21|
+|92|[levitte/perl](https://github.com/levitte/perl)|A collection of Perl modules|4|2023-12-12|
+|93|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|4|2023-10-12|
+|94|[AngelGryph/MadeInHeaven_EncountersAndQuests](https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests)|A collection of modifications for BG2, BGT and BG(2)EE that alter various encounters and quests, and even add some new ones.|4|2024-01-23|
+|95|[dnicolasespinoza/dnicolasespinoza.github.io](https://github.com/dnicolasespinoza/dnicolasespinoza.github.io)|webpage hosting for book "Introduction to Energy Geomechanics"|4|2023-11-15|
+|96|[brianjohnhaas/HAASLIB](https://github.com/brianjohnhaas/HAASLIB)|my collection of perl modules that I share among lots of different toolkits|4|2023-12-02|
 |97|[dspeth/bioinfo_scripts](https://github.com/dspeth/bioinfo_scripts)|a collection of scripts I have used in bioinformatic analyses|4|2023-11-13|
 |98|[briandfoy/task-masteringperl](https://github.com/briandfoy/task-masteringperl)|Modules mentioned in Mastering Perl, 2nd Edition|4|2024-01-16|
 |99|[kjetilk/URI-NamespaceMap](https://github.com/kjetilk/URI-NamespaceMap)|Managing a collection of namespaces|4|2024-01-11|
 |100|[briandfoy/tie-cycle](https://github.com/briandfoy/tie-cycle)|Cycle through a list of values via a scalar|4|2024-02-04|
-|101|[mnalis/StreetComplete-taginfo-categorize](https://github.com/mnalis/StreetComplete-taginfo-categorize)|update list of tags combined with shop=, craft= etc. to populate and categorise tags related to KEYS_THAT_SHOULD_BE_REMOVED_WHEN_PLACE_IS_REPLACED listing in StreetComplete|3|2024-02-26|
-|102|[pughlab/pipeline-suite](https://github.com/pughlab/pipeline-suite)|Collection of pipelines for NGS analysis along with utilities|3|2024-03-07|
-|103|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2023-12-15|
-|104|[stevieb9/ipc-shareable](https://github.com/stevieb9/ipc-shareable)|Share Perl variables across processes and scripts|3|2024-02-07|
-|105|[stevemussmann/file_converters](https://github.com/stevemussmann/file_converters)|A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.|3|2024-02-14|
-|106|[mathwiz/sicp](https://github.com/mathwiz/sicp)|Commentary and code examples for SICP|3|2024-01-23|
-|107|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|2024-01-16|
-|108|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2023-09-25|
-|109|[Jake-perl/perl](https://github.com/Jake-perl/perl)|Learning/experimenting with Perl.|2|2024-03-20|
-|110|[gzqx/stupid_rss_generate](https://github.com/gzqx/stupid_rss_generate)|Generate rss subscription from abitrary serial book website.|2|2024-03-18|
-|111|[matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh)|bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.|2|2024-03-11|
-|112|[robotology/yarp-devices-llm](https://github.com/robotology/yarp-devices-llm)|Collection of yarp devices for Large Language Models|2|2024-01-16|
-|113|[PerlToolsTeam/psc](https://github.com/PerlToolsTeam/psc)|List of Perl Steering Committee meetings|2|2024-03-22|
-|114|[poti1/pod-lol](https://github.com/poti1/pod-lol)|Parse Pod into a list of lists (LOL)|2|2024-02-14|
-|115|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2024-03-02|
-|116|[Ensembl/cpanfiles](https://github.com/Ensembl/cpanfiles)|A collection of additional cpanfiles that have no natural home with any project|2|2024-03-15|
-|117|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2024-03-14|
-|118|[sgsax/sgbot](https://github.com/sgsax/sgbot)|Collection of scripts used by an irssi-based IRC bot|2|2024-02-08|
-|119|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
+|101|[eunjung31/L2K-PronunciationError](https://github.com/eunjung31/L2K-PronunciationError)|Comparison of L2 Korean pronunciation error patterns from five L1 backgrounds by using automatic phonetic transcription|3|2024-02-11|
+|102|[mnalis/StreetComplete-taginfo-categorize](https://github.com/mnalis/StreetComplete-taginfo-categorize)|update list of tags combined with shop=, craft= etc. to populate and categorise tags related to KEYS_THAT_SHOULD_BE_REMOVED_WHEN_PLACE_IS_REPLACED listing in StreetComplete|3|2024-02-26|
+|103|[pughlab/pipeline-suite](https://github.com/pughlab/pipeline-suite)|Collection of pipelines for NGS analysis along with utilities|3|2024-03-07|
+|104|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2023-12-15|
+|105|[stevieb9/ipc-shareable](https://github.com/stevieb9/ipc-shareable)|Share Perl variables across processes and scripts|3|2024-02-07|
+|106|[stevemussmann/file_converters](https://github.com/stevemussmann/file_converters)|A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.|3|2024-02-14|
+|107|[mathwiz/sicp](https://github.com/mathwiz/sicp)|Commentary and code examples for SICP|3|2024-01-23|
+|108|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|2024-01-16|
+|109|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2023-09-25|
+|110|[Jake-perl/perl](https://github.com/Jake-perl/perl)|Learning/experimenting with Perl.|2|2024-03-20|
+|111|[gzqx/stupid_rss_generate](https://github.com/gzqx/stupid_rss_generate)|Generate rss subscription from abitrary serial book website.|2|2024-03-24|
+|112|[matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh)|bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.|2|2024-03-11|
+|113|[robotology/yarp-devices-llm](https://github.com/robotology/yarp-devices-llm)|Collection of yarp devices for Large Language Models|2|2024-01-16|
+|114|[PerlToolsTeam/psc](https://github.com/PerlToolsTeam/psc)|List of Perl Steering Committee meetings|2|2024-03-22|
+|115|[poti1/pod-lol](https://github.com/poti1/pod-lol)|Parse Pod into a list of lists (LOL)|2|2024-02-14|
+|116|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2024-03-02|
+|117|[Ensembl/cpanfiles](https://github.com/Ensembl/cpanfiles)|A collection of additional cpanfiles that have no natural home with any project|2|2024-03-15|
+|118|[dongxiaozhen/lbbNote](https://github.com/dongxiaozhen/lbbNote)|linux , c, go learning notes |2|2024-03-14|
+|119|[sgsax/sgbot](https://github.com/sgsax/sgbot)|Collection of scripts used by an irssi-based IRC bot|2|2024-02-08|
+|120|[gonter/docu-tools](https://github.com/gonter/docu-tools)|collection of tools to process documentation items in various formats|2|2023-12-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|206|2024-03-19|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|147|2024-03-10|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|116|2024-03-13|2023-05-25|
+|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|209|2024-03-19|2024-01-11|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|149|2024-03-10|2023-07-30|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|116|2024-03-24|2023-05-25|
 |4|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|53|2024-01-24|2024-01-23|
 |5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|41|2024-03-13|2023-05-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
-|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|30|2024-03-23|2024-02-08|
+|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|30|2024-03-24|2024-02-08|
 |8|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
-|9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|23|2024-03-23|2024-02-17|
+|9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|23|2024-03-24|2024-02-17|
 |10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-03-04|2023-12-20|
 |11|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|17|2024-03-21|2023-07-11|
-|12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-03-22|2023-06-17|
+|12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-03-24|2023-06-17|
 |13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-02-22|2024-02-12|
 |14|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
 |15|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
-|16|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|14|2024-03-23|2024-01-08|
+|16|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|14|2024-03-24|2024-01-08|
 |17|[DerekPascarella/CoolCoolToon-EnglishPatchDreamcast](https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Cool Cool Toon".|14|2023-12-15|2023-04-07|
 |18|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|13|2024-03-11|2024-01-26|
 |19|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|12|2024-03-18|2024-03-13|
@@ -30,16 +30,16 @@
 |23|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
 |24|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
 |25|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|10|2024-02-18|2023-07-21|
-|26|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
-|27|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|9|2024-02-13|2023-11-03|
-|28|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|9|2024-01-16|2023-10-13|
-|29|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
-|30|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
-|31|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
-|32|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|8|2024-02-15|2024-02-14|
-|33|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|8|2024-03-15|2024-02-10|
+|26|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|9|2024-03-15|2024-02-10|
+|27|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|9|2024-01-22|2024-01-02|
+|28|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|9|2024-02-13|2023-11-03|
+|29|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|9|2024-01-16|2023-10-13|
+|30|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
+|31|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
+|32|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
+|33|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|8|2024-02-15|2024-02-14|
 |34|[csdvrx/hdisk](https://github.com/csdvrx/hdisk)|Programmatic hybrid partition editor and reader: hdisk makes GPT ♡ ❤ ♡ MBR|8|2024-01-20|2024-01-15|
-|35|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-03-23|2023-05-10|
+|35|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-03-24|2023-05-10|
 |36|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|8|2024-03-13|2023-03-30|
 |37|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|7|2024-03-18|2024-02-24|
 |38|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|7|2024-03-14|2024-01-10|
@@ -121,7 +121,7 @@
 |114|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |115|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |116|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|117|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-23|2023-12-09|
+|117|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-24|2023-12-09|
 |118|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |119|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-02-10|2023-12-01|
 |120|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|

@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|67|2024-01-21|2023-12-30|
-|2|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|55|2023-12-14|2023-08-18|
-|3|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|50|2024-01-27|2023-07-28|
+|2|[Imtjl/1st-year-guide](https://github.com/Imtjl/1st-year-guide)|:scroll: Guide for 1st year ITMO VT students|56|2023-12-14|2023-08-18|
+|3|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|51|2024-03-24|2023-07-28|
 |4|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|31|2024-02-21|2023-07-20|
-|5|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|30|2024-03-12|2023-03-29|
+|5|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|31|2024-03-12|2023-03-29|
 |6|[zisisvakras/mips-tool-pack](https://github.com/zisisvakras/mips-tool-pack)|A collection of useful mips templates|23|2024-02-21|2023-06-01|
 |7|[Nakazoto/Hellorld](https://github.com/Nakazoto/Hellorld)|A collection of the greatest programming on the planet!|19|2024-01-22|2023-10-03|
 |8|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|17|2024-03-11|2023-10-01|
 |9|[amir-kedis/Assembly-x86-helper](https://github.com/amir-kedis/Assembly-x86-helper)|We Learned how to make games with ASM 86x, had great fun with it, and want to share what we learned with you, to ease your process. 😉|15|2024-02-09|2023-12-01|
 |10|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|14|2024-01-27|2023-07-15|
-|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-03-20|2023-04-08|
+|11|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-03-23|2023-04-08|
 |12|[KernelOverseer/mathematikOs](https://github.com/KernelOverseer/mathematikOs)|a simple operating system, that will grow as I learn more osdev|11|2023-10-24|2023-08-16|
 |13|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|9|2024-01-15|2023-07-26|
-|14|[ahmedembeddedx/Everything_but_Assembly](https://github.com/ahmedembeddedx/Everything_but_Assembly)|Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're not in the right place. |8|2024-02-03|2023-10-06|
-|15|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|7|2024-01-02|2024-01-02|
-|16|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|7|2024-03-14|2023-12-29|
+|14|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|8|2024-03-14|2023-12-29|
+|15|[ahmedembeddedx/Everything_but_Assembly](https://github.com/ahmedembeddedx/Everything_but_Assembly)|Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're not in the right place. |8|2024-02-03|2023-10-06|
+|16|[jhhoward/Vidsync](https://github.com/jhhoward/Vidsync)|A DOS terminate and stay resident (TSR) program to fix display calibration for the Book8088|7|2024-01-02|2024-01-02|
 |17|[rdoetjes/moonpatrol](https://github.com/rdoetjes/moonpatrol)|A mini clone of moonpatrol for the SEGA MEGA DRIVE. Used for a demonstration on how to use SGDK|7|2024-01-08|2023-12-17|
 |18|[schoeberl/risc-v-lab](https://github.com/schoeberl/risc-v-lab)|Lab material for the three week course on builiding a RISC-V microprocessor|6|2024-01-19|2023-06-08|
 |19|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|2024-02-08|2023-05-26|
@@ -33,20 +33,21 @@
 |26|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|2023-12-26|
 |27|[markmoxon/elite-compendium](https://github.com/markmoxon/elite-compendium)|Source for the Elite Compendium, a collection of the best Acornsoft Elite hacks on one disc|4|2024-02-15|2023-12-24|
 |28|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|2023-12-14|
-|29|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
-|30|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|3|2024-02-14|2024-02-04|
-|31|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|3|2024-02-26|2024-02-03|
-|32|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|2023-11-11|
-|33|[robotman2412/boa-risc-v](https://github.com/robotman2412/boa-risc-v)|My second attempt at a RISC-V CPU with learnings form my previous attempt.|3|2024-01-14|2023-11-05|
-|34|[survival-lumc/DynamicPrediction-book](https://github.com/survival-lumc/DynamicPrediction-book)|Code and datasets used in book "Dynamic Prediction in Clinical Survival Analysis" by Hans van Houwelingen and Hein Putter (2011)|3|2023-12-04|2023-11-01|
-|35|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|2023-10-31|
-|36|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|2023-09-21|
-|37|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|2023-09-15|
-|38|[wowkster/dinOS](https://github.com/wowkster/dinOS)|A hobby operating system created to learn more about low level programming|3|2023-11-01|2023-09-03|
-|39|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-10|2024-03-05|
-|40|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|2023-12-20|
-|41|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|2023-07-01|
-|42|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-18|2023-06-15|
+|29|[facebookincubator/haberdashery](https://github.com/facebookincubator/haberdashery)|A collection of high-performance crypto implementations. |3|2024-03-24|2024-03-24|
+|30|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
+|31|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|3|2024-02-14|2024-02-04|
+|32|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|3|2024-02-26|2024-02-03|
+|33|[garry-iglesias/algosup-workshop](https://github.com/garry-iglesias/algosup-workshop)|Algosup Assembly Course Workshop|3|2023-11-27|2023-11-11|
+|34|[robotman2412/boa-risc-v](https://github.com/robotman2412/boa-risc-v)|My second attempt at a RISC-V CPU with learnings form my previous attempt.|3|2024-01-14|2023-11-05|
+|35|[survival-lumc/DynamicPrediction-book](https://github.com/survival-lumc/DynamicPrediction-book)|Code and datasets used in book "Dynamic Prediction in Clinical Survival Analysis" by Hans van Houwelingen and Hein Putter (2011)|3|2023-12-04|2023-11-01|
+|36|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|2023-10-31|
+|37|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|3|2023-12-25|2023-09-21|
+|38|[MateuszPietrzak/Jumping-Doodle](https://github.com/MateuszPietrzak/Jumping-Doodle)|A gamboy game in assembly as a part of CO course at TU Delft|3|2023-10-31|2023-09-15|
+|39|[wowkster/dinOS](https://github.com/wowkster/dinOS)|A hobby operating system created to learn more about low level programming|3|2023-11-01|2023-09-03|
+|40|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-21|2024-03-05|
+|41|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|2023-12-20|
+|42|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|2023-07-01|
+|43|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-23|2023-06-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
