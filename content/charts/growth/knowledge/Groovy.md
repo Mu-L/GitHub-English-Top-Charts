@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -35,10 +35,10 @@
 |28|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|2|0|2024-01-28|
 |29|[QAInsights/Learn-JMeter-Series](https://github.com/QAInsights/Learn-JMeter-Series)|⚡ Learn JMeter Series|25|0|2023-10-04|
 |30|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare,  ...|49|0|2024-02-23|
-|31|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|28|0|2024-03-22|
-|32|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|69|0|2024-03-19|
+|31|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|28|0|2024-03-25|
+|32|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|69|0|2024-03-25|
 |33|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|6|0|2024-02-04|
-|34|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|30|0|2024-03-15|
+|34|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|30|0|2024-03-25|
 |35|[pizug/cpi-groovy-examples](https://github.com/pizug/cpi-groovy-examples)|Groovy Script Examples for SAP Cloud Integration (CPI)|64|0|2023-12-19|
 |36|[daos-stack/pipeline-lib](https://github.com/daos-stack/pipeline-lib)|Shared library for Jenkins Pipelines|2|0|2024-01-10|
 |37|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|35|0|2023-12-13|
@@ -47,7 +47,7 @@
 |40|[Ableton/postgres-pipeline-utils](https://github.com/Ableton/postgres-pipeline-utils)|Jenkins shared pipeline library to run Postgres in a Docker container|2|0|2024-01-16|
 |41|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|3|0|2024-02-23|
 |42|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|70|0|2023-11-17|
-|43|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |36|0|2024-03-02|
+|43|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |36|0|2024-03-25|
 |44|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|4|0|2024-03-20|
 |45|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|0|2023-12-14|
 |46|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|0|2023-12-12|
@@ -63,12 +63,12 @@
 |56|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|22|0|2024-01-19|
 |57|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|23|0|2024-02-20|
 |58|[networkupstools/jenkins-dynamatrix](https://github.com/networkupstools/jenkins-dynamatrix)|A shared library to do a sort of matrix build based on available swarm agent labels|2|0|2024-01-04|
-|59|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|579|0|2024-03-08|
+|59|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|578|0|2024-03-08|
 |60|[trishagee/spock-testing-demo](https://github.com/trishagee/spock-testing-demo)|Simple project to show how to use Spock to test Java code|20|0|2023-10-23|
 |61|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2024-03-11|
 |62|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|0|2024-03-22|
 |63|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2024-03-12|
-|64|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-03-20|
+|64|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-03-25|
 |65|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|144|0|2024-03-20|
 |66|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |735|0|2024-03-12|
 |67|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|3|0|2023-10-25|

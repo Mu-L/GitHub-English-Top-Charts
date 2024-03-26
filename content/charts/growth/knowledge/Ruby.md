@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Ruby
-<sub>Updated: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|31152|9|2024-02-06|
-|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|28866|9|2024-03-05|
-|3|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|17648|5|2024-03-15|
-|4|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|12480|3|2024-03-23|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|31153|9|2024-02-06|
+|2|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|28868|9|2024-03-05|
+|3|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|17704|5|2024-03-15|
+|4|[rubocop/rubocop](https://github.com/rubocop/rubocop)|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|12480|3|2024-03-25|
 |5|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|8481|3|2024-03-09|
 |6|[noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)|:orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report|3243|2|2024-02-25|
 |7|[thoughtbot/guides](https://github.com/thoughtbot/guides)|A guide for programming in style.|9394|2|2024-03-15|
 |8|[design-patterns-in-ruby/design-patterns-in-ruby](https://github.com/design-patterns-in-ruby/design-patterns-in-ruby)|Examples from the book Design Patterns in Ruby by Russ Olsen.  # ruby 2.2.0|2549|1|2024-01-30|
-|9|[dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)|Ruby and Ruby on Rails bookmarks collection|2175|1|2024-01-31|
-|10|[ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)|Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.|5611|1|2024-03-11|
+|9|[dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)|Ruby and Ruby on Rails bookmarks collection|2178|1|2024-01-31|
+|10|[ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)|Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.|5613|1|2024-03-11|
 |11|[sharetribe/sharetribe](https://github.com/sharetribe/sharetribe)|Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.|2314|1|2024-02-02|
-|12|[vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor)|A curated list of Vapor-related awesome projects.|1122|1|2023-10-14|
+|12|[vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor)|A curated list of Vapor-related awesome projects.|1123|1|2023-10-14|
 |13|[2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)|List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.|3323|1|2024-03-24|
-|14|[sudara/awesome-juce](https://github.com/sudara/awesome-juce)|A curated list of JUCE modules, templates, plugins, oh my!|621|1|2024-03-24|
+|14|[sudara/awesome-juce](https://github.com/sudara/awesome-juce)|A curated list of JUCE modules, templates, plugins, oh my!|621|1|2024-03-25|
 |15|[hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)|A collection of awesome Ruby Gems for Rails development.|2804|1|2024-03-12|
-|16|[ruby/ruby.wasm](https://github.com/ruby/ruby.wasm)|ruby.wasm is a collection of WebAssembly ports of the CRuby.|601|1|2024-03-24|
+|16|[ruby/ruby.wasm](https://github.com/ruby/ruby.wasm)|ruby.wasm is a collection of WebAssembly ports of the CRuby.|601|1|2024-03-25|
 |17|[ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior)|Game written in Ruby for learning Ruby and artificial intelligence.|3778|1|2023-11-01|
 |18|[tradingview/charting-library-examples](https://github.com/tradingview/charting-library-examples)|Examples of Charting Library integrations with other libraries, frameworks and data transports|1265|1|2023-12-13|
-|19|[yshmarov/hotwire-cookbook](https://github.com/yshmarov/hotwire-cookbook)|Rails World Hotwire Cookbook. VIEW THE PULL REQUESTS. Feel free to comment|134|1|2023-11-03|
+|19|[yshmarov/hotwire-cookbook](https://github.com/yshmarov/hotwire-cookbook)|Rails World Hotwire Cookbook. VIEW THE PULL REQUESTS. Feel free to comment|136|1|2023-11-03|
 |20|[arsduo/koala](https://github.com/arsduo/koala)|A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth.|3558|1|2024-01-10|
 |21|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3771|1|2024-01-12|
 |22|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|102|1|2024-03-24|
-|23|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|4608|1|2024-03-19|
-|24|[orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space)|🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index|1755|1|2023-12-24|
+|23|[asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)|:gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.|4610|1|2024-03-19|
+|24|[orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space)|🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index|1757|1|2023-12-24|
 |25|[damphyr/gaudi](https://github.com/damphyr/gaudi)|Sane build system conventions, a collection of helpers and an opinionated implementation of a  build system on top of rake|14|0|2023-11-02|
 |26|[gems-uff/sapos](https://github.com/gems-uff/sapos)|SAPOS main goal is to ease the management of information related to graduate programs such as enrollments, courses, advisement, scholarships, requirements, among others.|27|0|2024-03-12|
 |27|[librariesio/bibliothecary](https://github.com/librariesio/bibliothecary)|:notebook_with_decorative_cover: Libraries.io Package Manager Manifest Parsers|87|0|2024-03-12|
 |28|[CHTJonas/roombooking](https://github.com/CHTJonas/roombooking)|The ADC Theatre's room booking system|12|0|2023-10-16|
 |29|[discourse/discourse-prometheus](https://github.com/discourse/discourse-prometheus)|Official Discourse Plugin for Prometheus Monitoring|15|0|2024-03-05|
-|30|[empirical-org/Empirical-Core](https://github.com/empirical-org/Empirical-Core)|Empirical Core is the mono repo for the Quill.org codebase. This repo contains both the Quill Learning Tools, such as Quill Connect, and the Quill Learning Management System, the platform that enables ...|22|0|2024-03-22|
+|30|[empirical-org/Empirical-Core](https://github.com/empirical-org/Empirical-Core)|Empirical Core is the mono repo for the Quill.org codebase. This repo contains both the Quill Learning Tools, such as Quill Connect, and the Quill Learning Management System, the platform that enables ...|22|0|2024-03-25|
 |31|[sous-chefs/tftp](https://github.com/sous-chefs/tftp)|Development repository for the tftp cookbook|11|0|2024-01-31|
-|32|[minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|71|0|2024-03-24|
+|32|[minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|71|0|2024-03-25|
 |33|[softcover/softcover](https://github.com/softcover/softcover)|CLI for book generation, building, and publishing to softcover.io|428|0|2023-12-21|
 |34|[sous-chefs/webpi](https://github.com/sous-chefs/webpi)|Development repository for the webpi cookbook|17|0|2024-02-01|
 |35|[ksylvest/graphql-sources](https://github.com/ksylvest/graphql-sources)|A collection of common GraphQL sources for working with Ruby on Rails.|19|0|2024-02-15|
@@ -73,13 +73,13 @@
 |66|[sous-chefs/yum-mysql-community](https://github.com/sous-chefs/yum-mysql-community)|Development repository for the yum-mysql-community cookbook|9|0|2024-02-01|
 |67|[ronin-rb/ronin-web](https://github.com/ronin-rb/ronin-web)|ronin-web is a collection of useful web helper methods and commands.|40|0|2024-02-14|
 |68|[sous-chefs/yum-epel](https://github.com/sous-chefs/yum-epel)|Development repository for the yum-epel cookbook|24|0|2024-02-01|
-|69|[LearnITGirl/WebPlatform](https://github.com/LearnITGirl/WebPlatform)| Web platform for the "Learn IT, Girl" program|45|0|2023-11-29|
+|69|[LearnITGirl/WebPlatform](https://github.com/LearnITGirl/WebPlatform)| Web platform for the "Learn IT, Girl" program|45|0|2024-03-25|
 |70|[asciidoctor/docbookrx](https://github.com/asciidoctor/docbookrx)|(An early version of) a DocBook to AsciiDoc converter written in Ruby.|22|0|2023-10-12|
 |71|[dev-sec/chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening)|This chef cookbook provides security configuration for PostgreSQL.|27|0|2024-03-06|
-|72|[Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)|Rails 6 re-write of Coursemology|141|0|2024-03-22|
+|72|[Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)|Rails 6 re-write of Coursemology|141|0|2024-03-25|
 |73|[rodgco/blockchain-ruby](https://github.com/rodgco/blockchain-ruby)|My exercise to translate Daniel van Flymen brilliant post "Learn Blockchain by Building One" (https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) to Ruby|24|0|2024-02-29|
 |74|[18F/identity-cookbooks](https://github.com/18F/identity-cookbooks)|Open source cookbooks used by the login.gov team|10|0|2024-02-20|
-|75|[rhannequin/astronoby](https://github.com/rhannequin/astronoby)|Ruby library based on astrometry books|32|0|2024-03-23|
+|75|[rhannequin/astronoby](https://github.com/rhannequin/astronoby)|Ruby library based on astrometry books|32|0|2024-03-24|
 |76|[discourse/discourse-jwt](https://github.com/discourse/discourse-jwt)|Discourse Auth support for JSON Web Tokens (JWT)|17|0|2024-02-29|
 |77|[sous-chefs/chef-splunk](https://github.com/sous-chefs/chef-splunk)|Development repository for the chef-splunk cookbook|75|0|2024-02-01|
 |78|[buildkite/ruby-docker-example](https://github.com/buildkite/ruby-docker-example)|An example of how to run a Ruby project in Docker in a Buildkite pipeline|8|0|2024-03-02|
@@ -102,7 +102,7 @@
 |95|[hellostealth/stealth-facebook](https://github.com/hellostealth/stealth-facebook)|Facebook Messenger driver for Stealth|12|0|2024-01-04|
 |96|[sous-chefs/mariadb](https://github.com/sous-chefs/mariadb)|Development repository for the mariadb cookbook|48|0|2024-01-31|
 |97|[jkeen/tracking_number_data](https://github.com/jkeen/tracking_number_data)|Shared data for cross platform tracking number detection|105|0|2023-10-20|
-|98|[TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby)|All algorithms implemented in Ruby|1109|0|2024-02-29|
+|98|[TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby)|All algorithms implemented in Ruby|1110|0|2024-02-29|
 |99|[ankane/khiva-ruby](https://github.com/ankane/khiva-ruby)|High-performance time series algorithms for Ruby|36|0|2023-12-26|
 |100|[cryptopunksnotdead/programming-cryptopunks](https://github.com/cryptopunksnotdead/programming-cryptopunks)|Crypto Collectibles Book(let) Series. Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art - Step-by-Step Book / Guide. Inside Unique 24×24 Pixel Art on the Blockchain...|423|0|2024-03-06|
 |101|[kbroman/simple_site](https://github.com/kbroman/simple_site)|Minimal tutorial on making a simple website with GitHub Pages|183|0|2023-12-26|
@@ -118,16 +118,16 @@
 |111|[hack-different/homebrew-jailbreak](https://github.com/hack-different/homebrew-jailbreak)|A collection of homebrew formula for the different thinking hacker|26|0|2023-12-25|
 |112|[sous-chefs/ruby_rbenv](https://github.com/sous-chefs/ruby_rbenv)|Development repository for the ruby_rbenv cookbook|333|0|2024-02-01|
 |113|[fedoradesign/backgrounds](https://github.com/fedoradesign/backgrounds)|A set of default and supplemental wallpapers for Fedora|152|0|2024-03-08|
-|114|[DataDog/chef-datadog](https://github.com/DataDog/chef-datadog)|Chef cookbook for Datadog Agent & Integrations|96|0|2024-03-15|
+|114|[DataDog/chef-datadog](https://github.com/DataDog/chef-datadog)|Chef cookbook for Datadog Agent & Integrations|96|0|2024-03-25|
 |115|[madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails)|Learn best practices to build an API using Ruby on Rails 5/6|360|0|2023-12-13|
 |116|[RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby)|Design Pattern Examples in Ruby|98|0|2024-02-19|
 |117|[icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api)|HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A ...|10|0|2024-01-13|
-|118|[scinote-eln/scinote-web](https://github.com/scinote-eln/scinote-web)|Open source electronic lab notebook (ELN) that helps you manage your laboratory work and stores all your experimental data in one place.|246|0|2024-03-22|
+|118|[scinote-eln/scinote-web](https://github.com/scinote-eln/scinote-web)|Open source electronic lab notebook (ELN) that helps you manage your laboratory work and stores all your experimental data in one place.|246|0|2024-03-25|
 |119|[italia/.github](https://github.com/italia/.github)|The organized list of awesome @italia projects|167|0|2024-01-11|
 |120|[SketchUp/htmldialog-examples](https://github.com/SketchUp/htmldialog-examples)|Examples of using SketchUp Ruby API's UI::HtmlDialog class|27|0|2024-03-19|
 |121|[mruby/mgem-list](https://github.com/mruby/mgem-list)|A list of all GEMs for mruby to be managed by mgem|135|0|2024-03-24|
 |122|[buildkite/rails-docker-parallel-example](https://github.com/buildkite/rails-docker-parallel-example)|An example of how to run Rails CI and test steps in parallel with Docker and Buildkite|22|0|2024-03-02|
-|123|[Shopify/rubocop-sorbet](https://github.com/Shopify/rubocop-sorbet)|A collection of RuboCop rules for Sorbet|163|0|2024-03-24|
+|123|[Shopify/rubocop-sorbet](https://github.com/Shopify/rubocop-sorbet)|A collection of RuboCop rules for Sorbet|164|0|2024-03-25|
 |124|[discourse/discourse-plugin-skeleton](https://github.com/discourse/discourse-plugin-skeleton)|Template for Discourse plugins|17|0|2024-02-29|
 |125|[fnando/kitabu](https://github.com/fnando/kitabu)|A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation.|661|0|2024-02-18|
 |126|[carlossg/continuous-delivery](https://github.com/carlossg/continuous-delivery)|Continuous deployment examples using Puppet, Jenkins, Maven, Tomcat,...|48|0|2023-10-28|
@@ -138,7 +138,7 @@
 |131|[schemedoc/guide](https://github.com/schemedoc/guide)|In-depth tutorials on Scheme topics|12|0|2024-01-02|
 |132|[bu-ist/coding-standards](https://github.com/bu-ist/coding-standards)|Code style guides for web projects at Boston University.|10|0|2023-12-01|
 |133|[sharenite/sharenite](https://github.com/sharenite/sharenite)|Sharenite website.|20|0|2024-02-09|
-|134|[Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts](https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)|The official repo for a project involving a crowdsourced DFIR book. The main purpose of this book is to give anyone interested an opportunity to write a chapter of a book to get their name out there,  ...|179|0|2024-02-29|
+|134|[Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts](https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)|The official repo for a project involving a crowdsourced DFIR book. The main purpose of this book is to give anyone interested an opportunity to write a chapter of a book to get their name out there,  ...|179|0|2024-03-25|
 |135|[ankane/eps](https://github.com/ankane/eps)|Machine learning for Ruby|638|0|2024-02-17|
 |136|[jgorset/facebook-messenger](https://github.com/jgorset/facebook-messenger)|Definitely the best way to make Bots on Facebook Messenger with Ruby|959|0|2024-03-04|
 |137|[altmetric/house_style](https://github.com/altmetric/house_style)|A shared house style for Ruby projects|20|0|2023-09-25|
@@ -168,17 +168,17 @@
 |161|[oreillymedia/asciidoctor-htmlbook](https://github.com/oreillymedia/asciidoctor-htmlbook)|Templates for the htmlbook backend for Asciidoctor|45|0|2024-02-07|
 |162|[wordpress-mobile/release-toolkit](https://github.com/wordpress-mobile/release-toolkit)|Shared tools used in release automation|31|0|2024-03-06|
 |163|[sue445/rspec-temp_dir](https://github.com/sue445/rspec-temp_dir)|create automatically temporary directory at each examples|12|0|2023-12-28|
-|164|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|320|0|2024-01-19|
+|164|[palkan/view_component-contrib](https://github.com/palkan/view_component-contrib)|A collection of extension and developer tools for ViewComponent|321|0|2024-01-19|
 |165|[conradwt/cassandra-example-using-ruby](https://github.com/conradwt/cassandra-example-using-ruby)|The purpose of this step-by-step tutorial is to provide a very simple example of configuring and using the Cassandra database engine with the Ruby Language.|23|0|2023-09-25|
-|166|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|524|0|2024-01-29|
+|166|[dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)|A simple script that demonstrates how to use Dependabot Core|525|0|2024-01-29|
 |167|[bkr/goa](https://github.com/bkr/goa)|Gem Oriented Architecture - Share ActiveRecord Models with a Rails Engine|9|0|2023-10-23|
 |168|[sous-chefs/dpkg_autostart](https://github.com/sous-chefs/dpkg_autostart)|Development repository for the dpkg_autostart cookbook|18|0|2024-02-01|
 |169|[sous-chefs/sc-mongodb](https://github.com/sous-chefs/sc-mongodb)|Development repository for the sc-mongodb cookbook|75|0|2024-02-17|
 |170|[ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)|A collection of RBS for gems.|233|0|2024-03-22|
 |171|[kbroman/minimal_make](https://github.com/kbroman/minimal_make)|Minimal make: A minimal tutorial on the most important tool for reproducible research|27|0|2023-09-30|
-|172|[elanthia-online/scripts](https://github.com/elanthia-online/scripts)|shared collaborative lich scripts|19|0|2024-03-23|
+|172|[elanthia-online/scripts](https://github.com/elanthia-online/scripts)|shared collaborative lich scripts|19|0|2024-03-25|
 |173|[contentful/contentful_middleman_examples](https://github.com/contentful/contentful_middleman_examples)|A useful collection of examples using the `contentful_middleman` gem|17|0|2024-02-29|
-|174|[serpapi/turbo_tests](https://github.com/serpapi/turbo_tests)|Run RSpec tests on multiple cores. Like parallel_tests but with incremental summarized output. Originally extracted from the Discourse and Rubygems source code.|151|0|2024-01-17|
+|174|[serpapi/turbo_tests](https://github.com/serpapi/turbo_tests)|Run RSpec tests on multiple cores. Like parallel_tests but with incremental summarized output. Originally extracted from the Discourse and Rubygems source code.|152|0|2024-01-17|
 |175|[sous-chefs/pyenv](https://github.com/sous-chefs/pyenv)|Development repository for the pyenv cookbook|27|0|2024-02-01|
 |176|[serodriguez68/poodr-notes](https://github.com/serodriguez68/poodr-notes)|Notes for Sandi Metz's OOD book: "Practical Object-Oriented Design in Ruby."|143|0|2023-09-26|
 |177|[troykinsella/concourse-ansible-playbook-resource](https://github.com/troykinsella/concourse-ansible-playbook-resource)|A Concourse CI resource for running Ansible playbooks|39|0|2024-01-17|
@@ -186,7 +186,7 @@
 |179|[sous-chefs/grafana](https://github.com/sous-chefs/grafana)|Development repository for the grafana cookbook|78|0|2024-03-10|
 |180|[atlassian/homebrew-tap](https://github.com/atlassian/homebrew-tap)|This repository contains a collection of Homebrew (aka, Brew) "formulae" for Atlassian|16|0|2024-03-20|
 |181|[sous-chefs/golang](https://github.com/sous-chefs/golang)|Development repository for the golang cookbook|49|0|2024-02-01|
-|182|[simi/omniauth-facebook](https://github.com/simi/omniauth-facebook)|Facebook OAuth2 Strategy for OmniAuth|1260|0|2024-03-21|
+|182|[simi/omniauth-facebook](https://github.com/simi/omniauth-facebook)|Facebook OAuth2 Strategy for OmniAuth|1261|0|2024-03-21|
 |183|[sous-chefs/apache2](https://github.com/sous-chefs/apache2)|Development repository for the apache2 cookbook|280|0|2024-01-31|
 |184|[sous-chefs/docker](https://github.com/sous-chefs/docker)|Development repository for the docker cookbook|1337|0|2024-02-21|
 |185|[discourse/discourse-sitemap](https://github.com/discourse/discourse-sitemap)|Generate XML sitemap for your Discourse forum.|31|0|2023-11-15|
@@ -196,7 +196,7 @@
 |189|[discourse/discourse-spoiler-alert](https://github.com/discourse/discourse-spoiler-alert)|A plugin for discourse to hide spoilers behind the spoiler-alert jQuery plugin|60|0|2023-10-24|
 |190|[ssm/ssm-munin](https://github.com/ssm/ssm-munin)|Puppet module for handling munin master and nodes|11|0|2024-01-15|
 |191|[sous-chefs/drbd](https://github.com/sous-chefs/drbd)|Development repository for the drbd cookbook|19|0|2024-02-01|
-|192|[lbvf50mobile/til](https://github.com/lbvf50mobile/til)|Today I learned.|13|0|2024-03-24|
+|192|[lbvf50mobile/til](https://github.com/lbvf50mobile/til)|Today I learned.|13|0|2024-03-25|
 |193|[sous-chefs/stunnel](https://github.com/sous-chefs/stunnel)|Development repository for the stunnel cookbook|15|0|2024-02-01|
 |194|[codecrafters-io/legacy-course-sdk](https://github.com/codecrafters-io/legacy-course-sdk)|Shared code to test course definitions|10|0|2023-11-29|
 |195|[sous-chefs/erlang](https://github.com/sous-chefs/erlang)|Development repository for the erlang cookbook|86|0|2024-01-31|
