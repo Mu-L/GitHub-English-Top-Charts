@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|210|2024-03-19|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|149|2024-03-10|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|116|2024-03-24|2023-05-25|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|150|2024-03-10|2023-07-30|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|117|2024-03-24|2023-05-25|
 |4|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|53|2024-01-24|2024-01-23|
-|5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|41|2024-03-13|2023-05-23|
+|5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|42|2024-03-13|2023-05-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
-|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|30|2024-03-25|2024-02-08|
+|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|30|2024-03-26|2024-02-08|
 |8|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
-|9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|23|2024-03-25|2024-02-17|
+|9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|23|2024-03-26|2024-02-17|
 |10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-03-04|2023-12-20|
 |11|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|17|2024-03-21|2023-07-11|
-|12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-03-25|2023-06-17|
+|12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|17|2024-03-26|2023-06-17|
 |13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-02-22|2024-02-12|
 |14|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
-|15|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
-|16|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|14|2024-03-25|2024-01-08|
+|15|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|15|2024-03-26|2024-01-08|
+|16|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
 |17|[DerekPascarella/CoolCoolToon-EnglishPatchDreamcast](https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Cool Cool Toon".|14|2023-12-15|2023-04-07|
 |18|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|13|2024-03-18|2024-03-13|
 |19|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|13|2024-03-11|2024-01-26|
@@ -36,12 +36,12 @@
 |29|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
 |30|[windytan/bleep-be-gone](https://github.com/windytan/bleep-be-gone)|Remove *bleep* censor sounds from videos.|9|2023-10-07|2023-10-02|
 |31|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
-|32|[csdvrx/hdisk](https://github.com/csdvrx/hdisk)|Programmatic hybrid partition editor and reader: hdisk makes GPT ♡ ❤ ♡ MBR|8|2024-01-20|2024-01-15|
-|33|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|8|2023-11-14|2023-11-14|
-|34|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-01-16|2023-10-13|
-|35|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-03-24|2023-05-10|
-|36|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|8|2024-03-13|2023-03-30|
-|37|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|7|2024-03-22|2024-03-21|
+|32|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
+|33|[csdvrx/hdisk](https://github.com/csdvrx/hdisk)|Programmatic hybrid partition editor and reader: hdisk makes GPT ♡ ❤ ♡ MBR|8|2024-01-20|2024-01-15|
+|34|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|8|2023-11-14|2023-11-14|
+|35|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-01-16|2023-10-13|
+|36|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-03-24|2023-05-10|
+|37|[sophos/Sophos-Migration-Utility-CLI](https://github.com/sophos/Sophos-Migration-Utility-CLI)|Sophos Migration Utility CLI for UTM -> SFOS configuration conversion|8|2024-03-13|2023-03-30|
 |38|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|7|2024-03-18|2024-02-24|
 |39|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|7|2024-02-15|2024-02-14|
 |40|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|7|2024-03-14|2024-01-10|
@@ -62,23 +62,23 @@
 |55|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|5|2023-11-02|2023-11-02|
 |56|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
 |57|[certat/citrix-logchecker](https://github.com/certat/citrix-logchecker)|Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation|5|2023-11-03|2023-10-28|
-|58|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|5|2024-01-17|2023-09-30|
-|59|[rawleyfowler/Slick](https://github.com/rawleyfowler/Slick)|A Plack toolkit for web api's, web apps, and everything in-between.|5|2024-02-17|2023-07-28|
-|60|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
-|61|[dsenalik/Carrot_Genome_DH1_v3](https://github.com/dsenalik/Carrot_Genome_DH1_v3)|Program versions and custom scripts used for creating the carrot genome DCv3 (PRJNA285926)|5|2024-02-06|2023-05-17|
-|62|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
-|63|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
-|64|[shane-mason/perl-chain-generator](https://github.com/shane-mason/perl-chain-generator)|-|4|2023-11-11|2023-11-10|
-|65|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|4|2024-03-21|2023-11-06|
-|66|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|4|2024-03-18|2023-10-24|
+|58|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|5|2024-03-18|2023-10-24|
+|59|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|5|2024-01-17|2023-09-30|
+|60|[rawleyfowler/Slick](https://github.com/rawleyfowler/Slick)|A Plack toolkit for web api's, web apps, and everything in-between.|5|2024-02-17|2023-07-28|
+|61|[PurpleMonkey729/HorseRaceGame-dev](https://github.com/PurpleMonkey729/HorseRaceGame-dev)|-|5|2023-10-09|2023-06-08|
+|62|[dsenalik/Carrot_Genome_DH1_v3](https://github.com/dsenalik/Carrot_Genome_DH1_v3)|Program versions and custom scripts used for creating the carrot genome DCv3 (PRJNA285926)|5|2024-02-06|2023-05-17|
+|63|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
+|64|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
+|65|[shane-mason/perl-chain-generator](https://github.com/shane-mason/perl-chain-generator)|-|4|2023-11-11|2023-11-10|
+|66|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|4|2024-03-21|2023-11-06|
 |67|[smacx250/BG3](https://github.com/smacx250/BG3)|Baldur's Gate 3 stuff|4|2023-11-01|2023-10-13|
 |68|[smtiitm/Fastspeech2_MFA](https://github.com/smtiitm/Fastspeech2_MFA)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|4|2024-02-09|2023-08-11|
 |69|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
 |70|[klugerama/webmin-dnsmasq](https://github.com/klugerama/webmin-dnsmasq)|A Webmin module for managing dnsmasq|4|2024-03-03|2023-04-12|
-|71|[CNAG-Biomedical-Informatics/pheno-ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker)|Pheno-Ranker is a tool designed for performing semantic similarity analysis on phenotypic data structured in JSON format, such as Beacon v2 Models or Phenopackets v2.|4|2024-03-22|2023-04-04|
+|71|[CNAG-Biomedical-Informatics/pheno-ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker)|Pheno-Ranker is a tool designed for performing semantic similarity analysis on phenotypic data structured in JSON format, such as Beacon v2 Models or Phenopackets v2.|4|2024-03-26|2023-04-04|
 |72|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|3|2024-02-28|2024-02-22|
 |73|[jyi2ya/mojo-pixel-war](https://github.com/jyi2ya/mojo-pixel-war)|A pixel war game built on the mojolicious framework.|3|2024-02-10|2024-02-10|
-|74|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|3|2024-03-25|2024-02-07|
+|74|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|3|2024-03-26|2024-02-07|
 |75|[nabertrand/lms-plugin-pandoradirect](https://github.com/nabertrand/lms-plugin-pandoradirect)|Pandora plugin for Logitech Media Server|3|2024-02-14|2024-02-03|
 |76|[mgit-at/nix-unify](https://github.com/mgit-at/nix-unify)|Use NixOS parts in your host operating-system, for a step-by-step migration|3|2024-03-23|2024-01-24|
 |77|[digimer/Mermaids-Rest](https://github.com/digimer/Mermaids-Rest)|All tools for the Mermaid's Rest open sailing tools|3|2024-02-20|2023-12-27|
@@ -86,7 +86,7 @@
 |79|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|3|2024-02-19|2023-11-12|
 |80|[sukria/Dancer2-Plugin-LiteBlog](https://github.com/sukria/Dancer2-Plugin-LiteBlog)|A minimalist, file-based blog engine for Dancer2. Effortlessly transform local .md and .yml files into a sleek and responsive blog without the need for a database.|3|2024-01-14|2023-10-22|
 |81|[cvillalonga/CC-23-24](https://github.com/cvillalonga/CC-23-24)|Cloud Computing: Fundamentos e Infraestructuras, Máster Universitario en Ingeniería Informática, ETSIIT, Universidad de Granada|3|2024-03-12|2023-10-19|
-|82|[Xilinx-CNS/sfreport](https://github.com/Xilinx-CNS/sfreport)|AMD Solarflare Linux Diagnostics tool (sfreport)|3|2024-03-25|2023-10-17|
+|82|[Xilinx-CNS/sfreport](https://github.com/Xilinx-CNS/sfreport)|AMD Solarflare Linux Diagnostics tool (sfreport)|3|2024-03-26|2023-10-17|
 |83|[guifelippe/contact-manager-perl](https://github.com/guifelippe/contact-manager-perl)|A simple contact manager made in perl|3|2023-10-16|2023-10-16|
 |84|[duskstar9623/pdf-toolbox](https://github.com/duskstar9623/pdf-toolbox)|Powerful and easy-to-use pdf tools for Nodejs application.|3|2023-11-21|2023-10-10|
 |85|[clari/mast](https://github.com/clari/mast)|-|3|2024-02-05|2023-09-06|
@@ -120,7 +120,7 @@
 |113|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |114|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |115|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|116|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-25|2023-12-09|
+|116|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-03-26|2023-12-09|
 |117|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |118|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-02-10|2023-12-01|
 |119|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|2|2023-12-31|2023-11-28|
