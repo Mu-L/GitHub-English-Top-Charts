@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > TypeScript
-<sub>Updated: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.|269835|2024-03-26|
-|2|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|39581|2024-03-26|
-|3|[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)|The open source frontend for GitBook doc sites|26229|2024-03-26|
-|4|[makeplane/plane](https://github.com/makeplane/plane)|🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.|23475|2024-03-26|
-|5|[web3/web3.js](https://github.com/web3/web3.js)|Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.|18580|2024-03-26|
-|6|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|18507|2024-03-26|
-|7|[learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)|Organize world's knowledge, explore connections and curate learning paths|15329|2024-03-26|
-|8|[Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)|🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024|15318|2024-03-24|
-|9|[carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)|An emoji guide for your commit messages. 😜 |15156|2024-03-14|
-|10|[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)|A collection of essential TypeScript types|13072|2024-03-24|
+|1|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.|270125|2024-03-27|
+|2|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|39597|2024-03-26|
+|3|[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)|The open source frontend for GitBook doc sites|26236|2024-03-27|
+|4|[makeplane/plane](https://github.com/makeplane/plane)|🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.|23493|2024-03-27|
+|5|[web3/web3.js](https://github.com/web3/web3.js)|Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.|18600|2024-03-27|
+|6|[vueuse/vueuse](https://github.com/vueuse/vueuse)|Collection of essential Vue Composition Utilities for Vue 2 and 3|18518|2024-03-27|
+|7|[Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)|🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024|15349|2024-03-24|
+|8|[learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)|Organize world's knowledge, explore connections and curate learning paths|15330|2024-03-27|
+|9|[carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)|An emoji guide for your commit messages. 😜 |15153|2024-03-14|
+|10|[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)|A collection of essential TypeScript types|13075|2024-03-24|
 |11|[majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)|A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets|11889|2023-10-08|
-|12|[shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)|A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾|11720|2024-03-26|
-|13|[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)|A markdown version emoji cheat sheet|11709|2024-02-28|
-|14|[adobe/react-spectrum](https://github.com/adobe/react-spectrum)|A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.|11435|2024-03-26|
-|15|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included|11190|2024-03-22|
-|16|[styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)|Isolated React component development environment with a living style guide|10785|2024-02-11|
-|17|[FormidableLabs/victory](https://github.com/FormidableLabs/victory)|A collection of composable React components for building interactive data visualizations|10747|2024-03-25|
-|18|[vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront)|Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to  ...|10424|2024-03-25|
-|19|[howtographql/howtographql](https://github.com/howtographql/howtographql)|The Fullstack Tutorial for GraphQL|8653|2024-03-02|
-|20|[gibbok/typescript-book](https://github.com/gibbok/typescript-book)|The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.|8189|2024-01-24|
+|12|[shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)|A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾|11751|2024-03-26|
+|13|[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)|A markdown version emoji cheat sheet|11710|2024-02-28|
+|14|[adobe/react-spectrum](https://github.com/adobe/react-spectrum)|A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.|11439|2024-03-27|
+|15|[Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included|11194|2024-03-22|
+|16|[styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)|Isolated React component development environment with a living style guide|10786|2024-02-11|
+|17|[FormidableLabs/victory](https://github.com/FormidableLabs/victory)|A collection of composable React components for building interactive data visualizations|10748|2024-03-27|
+|18|[vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront)|Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to  ...|10425|2024-03-26|
+|19|[howtographql/howtographql](https://github.com/howtographql/howtographql)|The Fullstack Tutorial for GraphQL|8652|2024-03-02|
+|20|[gibbok/typescript-book](https://github.com/gibbok/typescript-book)|The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.|8190|2024-01-24|
 |21|[LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)|Solve LeetCode problems in VS Code|8035|2024-03-19|
 |22|[total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)|An interactive TypeScript tutorial for beginners|7718|2024-03-02|
-|23|[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。|5691|2024-03-26|
-|24|[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)|⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.|5623|2024-03-26|
-|25|[google/gts](https://github.com/google/gts)|☂️ TypeScript style guide, formatter, and linter.  |4901|2024-03-26|
-|26|[Shopify/flash-list](https://github.com/Shopify/flash-list)|A better list for React Native|4787|2024-03-25|
-|27|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|4493|2024-03-24|
-|28|[steven-tey/precedent](https://github.com/steven-tey/precedent)|An opinionated collection of components, hooks, and utilities for your Next.js project.|4407|2024-02-22|
-|29|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|3782|2024-03-24|
-|30|[elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)|Tourist Guide into your React Components|3698|2024-03-19|
+|23|[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。|5696|2024-03-26|
+|24|[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)|⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.|5668|2024-03-27|
+|25|[google/gts](https://github.com/google/gts)|☂️ TypeScript style guide, formatter, and linter.  |4902|2024-03-26|
+|26|[Shopify/flash-list](https://github.com/Shopify/flash-list)|A better list for React Native|4790|2024-03-25|
+|27|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|4495|2024-03-24|
+|28|[steven-tey/precedent](https://github.com/steven-tey/precedent)|An opinionated collection of components, hooks, and utilities for your Next.js project.|4411|2024-02-22|
+|29|[algolia/docsearch](https://github.com/algolia/docsearch)|:blue_book: The easiest way to add search to your documentation.|3783|2024-03-24|
+|30|[elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)|Tourist Guide into your React Components|3700|2024-03-19|
 |31|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3629|2024-03-04|
-|32|[JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)|A collection of JetBrains Web UI components|3553|2024-03-26|
-|33|[bqplot/bqplot](https://github.com/bqplot/bqplot)|Plotting library for IPython/Jupyter notebooks|3544|2024-03-25|
-|34|[mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)|Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.|3463|2024-03-25|
-|35|[PAIR-code/lit](https://github.com/PAIR-code/lit)|The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.|3357|2024-03-23|
-|36|[epicweb-dev/advanced-react-patterns](https://github.com/epicweb-dev/advanced-react-patterns)|This is the latest advanced react patterns workshop|3341|2024-03-24|
-|37|[nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example)|Example showing how to use NextAuth.js with Next.js|3276|2024-03-21|
-|38|[alura/techguide](https://github.com/alura/techguide)|TechGuide main repository with the code that guides your tech career!|3269|2024-03-14|
-|39|[garden-io/garden](https://github.com/garden-io/garden)|Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces ...|3237|2024-03-26|
-|40|[thi-ng/umbrella](https://github.com/thi-ng/umbrella)|⛱  Broadly scoped ecosystem & mono-repository of 190 TypeScript projects (and 155 examples) for general purpose, functional, data driven development|3191|2024-03-26|
-|41|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|3103|2024-03-19|
-|42|[vercel/next-learn](https://github.com/vercel/next-learn)|Learn Next.js Starter Code|3067|2024-03-23|
-|43|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|3033|2024-03-20|
+|32|[JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)|A collection of JetBrains Web UI components|3553|2024-03-27|
+|33|[bqplot/bqplot](https://github.com/bqplot/bqplot)|Plotting library for IPython/Jupyter notebooks|3543|2024-03-25|
+|34|[mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)|Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.|3466|2024-03-27|
+|35|[PAIR-code/lit](https://github.com/PAIR-code/lit)|The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.|3361|2024-03-26|
+|36|[epicweb-dev/advanced-react-patterns](https://github.com/epicweb-dev/advanced-react-patterns)|This is the latest advanced react patterns workshop|3343|2024-03-24|
+|37|[nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example)|Example showing how to use NextAuth.js with Next.js|3277|2024-03-21|
+|38|[alura/techguide](https://github.com/alura/techguide)|TechGuide main repository with the code that guides your tech career!|3272|2024-03-27|
+|39|[garden-io/garden](https://github.com/garden-io/garden)|Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces ...|3239|2024-03-26|
+|40|[thi-ng/umbrella](https://github.com/thi-ng/umbrella)|⛱  Broadly scoped ecosystem & mono-repository of 190 TypeScript projects (and 155 examples) for general purpose, functional, data driven development|3191|2024-03-27|
+|41|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|3104|2024-03-19|
+|42|[vercel/next-learn](https://github.com/vercel/next-learn)|Learn Next.js Starter Code|3070|2024-03-23|
+|43|[jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)|Interactive Widgets for the Jupyter Notebook|3031|2024-03-20|
 |44|[davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners)|A collection of loading spinner components for react|2903|2024-03-06|
-|45|[honkit/honkit](https://github.com/honkit/honkit)|:book: HonKit is building beautiful books using Markdown - Fork of GitBook|2877|2024-03-16|
-|46|[OHIF/Viewers](https://github.com/OHIF/Viewers)|OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages|2854|2024-03-26|
+|45|[honkit/honkit](https://github.com/honkit/honkit)|:book: HonKit is building beautiful books using Markdown - Fork of GitBook|2878|2024-03-16|
+|46|[OHIF/Viewers](https://github.com/OHIF/Viewers)|OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages|2856|2024-03-27|
 |47|[xushengfeng/eSearch](https://github.com/xushengfeng/eSearch)|截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder|2836|2024-03-25|
 |48|[supabase/supabase-js](https://github.com/supabase/supabase-js)|An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo ...|2742|2024-03-25|
-|49|[yangshun/lago](https://github.com/yangshun/lago)|📕 Data Structures and Algorithms library in TypeScript|2725|2023-10-16|
+|49|[yangshun/lago](https://github.com/yangshun/lago)|📕 Data Structures and Algorithms library in TypeScript|2726|2023-10-16|
 |50|[epicweb-dev/react-hooks](https://github.com/epicweb-dev/react-hooks)|Learn React Hooks! 🎣 ⚛|2724|2024-03-24|
-|51|[mbnuqw/sidebery](https://github.com/mbnuqw/sidebery)|Firefox extension for managing tabs and bookmarks in sidebar.|2665|2024-03-24|
-|52|[webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges)|Collection of Vue.js challenges|2609|2024-03-16|
-|53|[jupyter/nbdime](https://github.com/jupyter/nbdime)|Tools for diffing and merging of Jupyter notebooks.|2588|2024-03-16|
-|54|[janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript)|Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M ...|2567|2024-01-23|
-|55|[cuixueshe/earthworm](https://github.com/cuixueshe/earthworm)|Learning English through the method of constructing sentences with conjunctions|2565|2024-03-26|
+|51|[mbnuqw/sidebery](https://github.com/mbnuqw/sidebery)|Firefox extension for managing tabs and bookmarks in sidebar.|2669|2024-03-24|
+|52|[webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges)|Collection of Vue.js challenges|2610|2024-03-16|
+|53|[cuixueshe/earthworm](https://github.com/cuixueshe/earthworm)|Learning English through the method of constructing sentences with conjunctions|2591|2024-03-27|
+|54|[jupyter/nbdime](https://github.com/jupyter/nbdime)|Tools for diffing and merging of Jupyter notebooks.|2588|2024-03-16|
+|55|[janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript)|Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M ...|2567|2024-01-23|
 |56|[nygardk/react-share](https://github.com/nygardk/react-share)|Social media share buttons and share counts for React|2547|2024-02-28|
-|57|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2494|2024-03-26|
+|57|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2494|2024-03-27|
 |58|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|2479|2023-10-26|
-|59|[vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)|Created from react styleguidist for Vue Components with a living style guide|2429|2024-03-25|
-|60|[mlaursen/react-md](https://github.com/mlaursen/react-md)|React material design - An accessible React component library built from the Material Design guidelines in Sass|2350|2024-03-25|
+|59|[vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)|Created from react styleguidist for Vue Components with a living style guide|2430|2024-03-25|
+|60|[mlaursen/react-md](https://github.com/mlaursen/react-md)|React material design - An accessible React component library built from the Material Design guidelines in Sass|2350|2024-03-27|
 |61|[siriwatknp/mui-treasury](https://github.com/siriwatknp/mui-treasury)|A collection of ready-to-use components based on Material-UI|2337|2024-03-21|
-|62|[youzan/zent](https://github.com/youzan/zent)|A collection of essential UI components written with React.|2238|2024-03-23|
-|63|[stoplightio/spectral](https://github.com/stoplightio/spectral)|A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.|2218|2024-03-22|
+|62|[youzan/zent](https://github.com/youzan/zent)|A collection of essential UI components written with React.|2238|2024-03-27|
+|63|[stoplightio/spectral](https://github.com/stoplightio/spectral)|A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.|2219|2024-03-22|
 |64|[cdk-patterns/serverless](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported Clo ...|2208|2024-01-30|
-|65|[IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element)|Native shared element transition "primitives" for react-native 💫|2141|2023-11-17|
-|66|[microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)|The Website and web infrastructure for learning TypeScript|2114|2024-03-25|
-|67|[modernweb-dev/web](https://github.com/modernweb-dev/web)|Guides, tools and libraries for modern web development.|2083|2024-03-19|
-|68|[Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio)|🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型 ...|2060|2024-03-26|
-|69|[bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)|💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.|2023|2024-03-21|
-|70|[btpf/Alexandria](https://github.com/btpf/Alexandria)|A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript |1998|2024-02-08|
+|65|[IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element)|Native shared element transition "primitives" for react-native 💫|2140|2023-11-17|
+|66|[microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)|The Website and web infrastructure for learning TypeScript|2115|2024-03-27|
+|67|[modernweb-dev/web](https://github.com/modernweb-dev/web)|Guides, tools and libraries for modern web development.|2085|2024-03-19|
+|68|[Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio)|🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型 ...|2067|2024-03-27|
+|69|[bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)|💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.|2024|2024-03-27|
+|70|[btpf/Alexandria](https://github.com/btpf/Alexandria)|A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript |1999|2024-02-08|
 |71|[epicweb-dev/advanced-react-hooks](https://github.com/epicweb-dev/advanced-react-hooks)|Learn Advanced React Hooks workshop|1991|2024-03-24|
-|72|[widgetti/ipyvolume](https://github.com/widgetti/ipyvolume)|3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL|1903|2023-11-29|
+|72|[widgetti/ipyvolume](https://github.com/widgetti/ipyvolume)|3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL|1902|2023-11-29|
 |73|[storybookjs/design-system](https://github.com/storybookjs/design-system)|🗃 Storybook Design System|1855|2024-03-21|
 |74|[rmanguinho/clean-ts-api](https://github.com/rmanguinho/clean-ts-api)|API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles|1812|2023-09-29|
-|75|[computerjazz/react-native-draggable-flatlist](https://github.com/computerjazz/react-native-draggable-flatlist)|A drag-and-drop-enabled FlatList for React Native|1810|2024-02-06|
-|76|[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)|The hackable notebook|1772|2024-03-26|
+|75|[computerjazz/react-native-draggable-flatlist](https://github.com/computerjazz/react-native-draggable-flatlist)|A drag-and-drop-enabled FlatList for React Native|1812|2024-02-06|
+|76|[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)|The hackable notebook|1776|2024-03-27|
 |77|[unlight/tailwind-components](https://github.com/unlight/tailwind-components)|Collection of components found on the internet|1769|2024-03-24|
-|78|[wei/socialify](https://github.com/wei/socialify)|💞 Socialify your project. 🌐 Share with the world!|1704|2024-03-06|
-|79|[pinterest/querybook](https://github.com/pinterest/querybook)|Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.|1667|2024-03-19|
+|78|[wei/socialify](https://github.com/wei/socialify)|💞 Socialify your project. 🌐 Share with the world!|1705|2024-03-06|
+|79|[pinterest/querybook](https://github.com/pinterest/querybook)|Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.|1668|2024-03-19|
 |80|[debiki/talkyard](https://github.com/debiki/talkyard)|A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.|1666|2024-03-26|
-|81|[domeccleston/sharegpt](https://github.com/domeccleston/sharegpt)|Easily share permanent links to ChatGPT conversations with your friends|1664|2023-11-18|
-|82|[r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets)|Extension for React/Javascript snippets with search supporting ES7+ and babel features|1655|2024-02-11|
-|83|[webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)|A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.|1645|2024-03-26|
-|84|[rejetto/hfs](https://github.com/rejetto/hfs)|HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.|1641|2024-03-25|
-|85|[pnp/List-Formatting](https://github.com/pnp/List-Formatting)|List Formatting Samples for use in SharePoint and Microsoft Lists|1630|2024-03-23|
-|86|[FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast)|Turn Based Strategy Game. Master your beasts! 🐺|1561|2024-03-24|
-|87|[alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)|Bookmarks Extension for Visual Studio Code|1552|2024-03-21|
-|88|[salarcode/SmartProxy](https://github.com/salarcode/SmartProxy)|Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.|1541|2024-03-24|
+|81|[domeccleston/sharegpt](https://github.com/domeccleston/sharegpt)|Easily share permanent links to ChatGPT conversations with your friends|1665|2023-11-18|
+|82|[r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets)|Extension for React/Javascript snippets with search supporting ES7+ and babel features|1656|2024-02-11|
+|83|[webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)|A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.|1646|2024-03-27|
+|84|[rejetto/hfs](https://github.com/rejetto/hfs)|HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.|1641|2024-03-27|
+|85|[pnp/List-Formatting](https://github.com/pnp/List-Formatting)|List Formatting Samples for use in SharePoint and Microsoft Lists|1633|2024-03-23|
+|86|[FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast)|Turn Based Strategy Game. Master your beasts! 🐺|1562|2024-03-24|
+|87|[alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)|Bookmarks Extension for Visual Studio Code|1554|2024-03-21|
+|88|[salarcode/SmartProxy](https://github.com/salarcode/SmartProxy)|Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.|1542|2024-03-24|
 |89|[hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates)|A growing collection of responsive Chakra UI Templates ready to drop into your React project.|1526|2023-12-01|
-|90|[ct-js/ct-js](https://github.com/ct-js/ct-js)|Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library|1479|2024-03-26|
-|91|[belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example)|Collection of monorepo tips & tricks |1442|2024-03-26|
-|92|[tal-tech/electron-playground](https://github.com/tal-tech/electron-playground)|This is a project to quickly experiment and learn electron related APIs|1438|2024-03-12|
+|90|[ct-js/ct-js](https://github.com/ct-js/ct-js)|Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library|1480|2024-03-27|
+|91|[belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example)|Collection of monorepo tips & tricks |1442|2024-03-27|
+|92|[tal-tech/electron-playground](https://github.com/tal-tech/electron-playground)|This is a project to quickly experiment and learn electron related APIs|1440|2024-03-12|
 |93|[magicpatterns/catalog](https://github.com/magicpatterns/catalog)|The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.|1432|2024-03-20|
-|94|[googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)|Example code snippets and machine learning code for Teachable Machine|1429|2024-03-16|
-|95|[total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop)|Interactive tutorial on using generics in TypeScript|1412|2024-01-17|
+|94|[googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)|Example code snippets and machine learning code for Teachable Machine|1430|2024-03-16|
+|95|[total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop)|Interactive tutorial on using generics in TypeScript|1414|2024-01-17|
 |96|[erikbrinkman/d3-dag](https://github.com/erikbrinkman/d3-dag)|Layout algorithms for visualizing directed acyclic graphs|1412|2024-02-21|
-|97|[RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI)|Discover, test, and share APIs in seconds|1315|2024-01-05|
-|98|[goncy/interview-challenges](https://github.com/goncy/interview-challenges)|A set of interview challenges excercises|1309|2024-03-19|
-|99|[BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web)|🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team|1280|2024-03-22|
-|100|[datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)|Convert any blog or website to an interactive learning platform for data science|1275|2024-01-31|
+|97|[RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI)|Discover, test, and share APIs in seconds|1314|2024-01-05|
+|98|[goncy/interview-challenges](https://github.com/goncy/interview-challenges)|A set of interview challenges excercises|1310|2024-03-19|
+|99|[BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web)|🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team|1281|2024-03-22|
+|100|[datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)|Convert any blog or website to an interactive learning platform for data science|1276|2024-01-31|
 |101|[vuedx/languagetools](https://github.com/vuedx/languagetools)|A collection of tools for better IDE experience.|1257|2023-11-09|
 |102|[node-modules/utility](https://github.com/node-modules/utility)|A collection of useful utilities.|1237|2024-03-13|
-|103|[MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn)|WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.|1223|2024-03-07|
-|104|[Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)|List of FastAPI projects! :sunglasses: :rocket: |1206|2024-03-26|
+|103|[MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn)|WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.|1225|2024-03-07|
+|104|[Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)|List of FastAPI projects! :sunglasses: :rocket: |1207|2024-03-27|
 |105|[chnirt/nestjs-graphql-best-practice](https://github.com/chnirt/nestjs-graphql-best-practice)|NestJS (Express + TypeORM + GraphQL + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns, etc).|1200|2024-03-22|
 |106|[mobxjs/mobx-utils](https://github.com/mobxjs/mobx-utils)|Utility functions and common patterns for MobX|1168|2024-03-15|
 |107|[gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook)|In-browser literate notebooks|1162|2024-03-08|
-|108|[awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs)|The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions|1151|2024-03-15|
-|109|[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)|Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.|1145|2024-03-26|
-|110|[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)|Mock Interview Simulator with AI-Powered Feedback|1144|2023-12-23|
-|111|[FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls)|A collection of iOS Settings URLs|1139|2024-01-17|
-|112|[total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)|The companion repo for the upcoming Total TypeScript book|1128|2024-03-26|
-|113|[thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities)|🔹Automatically populate the entities-list of lovelace cards|1106|2024-03-18|
-|114|[Kong/httpsnippet](https://github.com/Kong/httpsnippet)|HTTP Request snippet generator for many languages & libraries|1099|2024-02-06|
-|115|[meetqy/aspoem](https://github.com/meetqy/aspoem)|Learn Chinese Poetry With AsPoem.com|1087|2024-03-26|
-|116|[total-typescript/advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop)|An interactive TypeScript repo on advanced patterns (WIP)|1077|2024-02-15|
-|117|[CryptozombiesHQ/cryptozombie-lessons](https://github.com/CryptozombiesHQ/cryptozombie-lessons)|Lesson content for cryptozombies.io|1048|2024-02-25|
-|118|[pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter)|Export and Share your ChatGPT conversation history|1047|2024-03-22|
+|108|[awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs)|The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions|1151|2024-03-26|
+|109|[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)|Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.|1146|2024-03-26|
+|110|[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)|Mock Interview Simulator with AI-Powered Feedback|1145|2023-12-23|
+|111|[FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls)|A collection of iOS Settings URLs|1140|2024-01-17|
+|112|[total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)|The companion repo for the upcoming Total TypeScript book|1129|2024-03-26|
+|113|[thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities)|🔹Automatically populate the entities-list of lovelace cards|1107|2024-03-18|
+|114|[Kong/httpsnippet](https://github.com/Kong/httpsnippet)|HTTP Request snippet generator for many languages & libraries|1100|2024-02-06|
+|115|[meetqy/aspoem](https://github.com/meetqy/aspoem)|Learn Chinese Poetry With AsPoem.com|1089|2024-03-27|
+|116|[total-typescript/advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop)|An interactive TypeScript repo on advanced patterns (WIP)|1078|2024-02-15|
+|117|[pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter)|Export and Share your ChatGPT conversation history|1048|2024-03-22|
+|118|[CryptozombiesHQ/cryptozombie-lessons](https://github.com/CryptozombiesHQ/cryptozombie-lessons)|Lesson content for cryptozombies.io|1048|2024-02-25|
 |119|[AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay)|📖 A guide for your daily "professional" interactions|1042|2024-03-11|
-|120|[useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations)|React-useanimations is a collection of free animated open source icons for React.js.|1032|2024-03-22|
-|121|[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)|Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.|1006|2024-03-21|
+|120|[useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations)|React-useanimations is a collection of free animated open source icons for React.js.|1033|2024-03-27|
+|121|[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)|Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.|1007|2024-03-21|
 |122|[johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock)|Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your ...|1004|2024-03-24|
-|123|[codeacme17/examor](https://github.com/codeacme17/examor)|For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓|1002|2024-03-26|
+|123|[codeacme17/examor](https://github.com/codeacme17/examor)|For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓|1001|2024-03-27|
 |124|[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)|Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper ...|995|2023-10-28|
-|125|[diced/zipline](https://github.com/diced/zipline)|A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!|987|2024-03-07|
-|126|[panaverse/learn-typescript](https://github.com/panaverse/learn-typescript)|Learning TypeScript in Baby Steps|964|2024-03-26|
-|127|[artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite)|Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements|963|2024-02-23|
-|128|[souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)|Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)|959|2024-02-17|
-|129|[pmndrs/its-fine](https://github.com/pmndrs/its-fine)|🐶🔥 A collection of escape hatches for React.|952|2024-03-22|
-|130|[storybookjs/react-native](https://github.com/storybookjs/react-native)|📓 Storybook for React Native!|946|2024-03-24|
-|131|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian|927|2024-03-11|
+|125|[diced/zipline](https://github.com/diced/zipline)|A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!|987|2024-03-27|
+|126|[artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite)|Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements|968|2024-03-27|
+|127|[panaverse/learn-typescript](https://github.com/panaverse/learn-typescript)|Learning TypeScript in Baby Steps|966|2024-03-26|
+|128|[souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)|Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)|961|2024-02-17|
+|129|[pmndrs/its-fine](https://github.com/pmndrs/its-fine)|🐶🔥 A collection of escape hatches for React.|954|2024-03-22|
+|130|[storybookjs/react-native](https://github.com/storybookjs/react-native)|📓 Storybook for React Native!|946|2024-03-27|
+|131|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian|928|2024-03-11|
 |132|[lostintangent/gistpad](https://github.com/lostintangent/gistpad)|VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists|917|2024-03-17|
-|133|[RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript)|Design Pattern Examples in TypeScript|905|2023-12-13|
-|134|[cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)|Cypress Documentation including Guides, API, Plugins, Examples, & FAQ.|896|2024-03-26|
+|133|[RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript)|Design Pattern Examples in TypeScript|906|2023-12-13|
+|134|[cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)|Cypress Documentation including Guides, API, Plugins, Examples, & FAQ.|896|2024-03-27|
 |135|[dracula/dracula-ui](https://github.com/dracula/dracula-ui)|:vampire: A dark-first collection of UI patterns and components.|895|2023-12-19|
-|136|[mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)|A list of cool projects made in Iran|893|2024-03-21|
-|137|[lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns)|Repo related to the FrontendMasters course on JavaScript and React patterns|876|2023-12-26|
-|138|[supabase/auth-helpers](https://github.com/supabase/auth-helpers)|A collection of framework specific Auth utilities for working with Supabase.|874|2024-03-19|
-|139|[pixijs/filters](https://github.com/pixijs/filters)|Collection of community-authored custom display filters for PixiJS|871|2024-03-21|
+|136|[mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)|A list of cool projects made in Iran|894|2024-03-21|
+|137|[lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns)|Repo related to the FrontendMasters course on JavaScript and React patterns|877|2023-12-26|
+|138|[supabase/auth-helpers](https://github.com/supabase/auth-helpers)|A collection of framework specific Auth utilities for working with Supabase.|875|2024-03-19|
+|139|[pixijs/filters](https://github.com/pixijs/filters)|Collection of community-authored custom display filters for PixiJS|872|2024-03-21|
 |140|[mike-works/typescript-fundamentals](https://github.com/mike-works/typescript-fundamentals)|Mike North's 2018 TypeScript Fundamentals Course|870|2024-03-25|
 |141|[skovhus/jest-codemods](https://github.com/skovhus/jest-codemods)|Codemods for migrating to Jest https://github.com/facebook/jest 👾|865|2024-03-25|
-|142|[consumet/api.consumet.org](https://github.com/consumet/api.consumet.org)|A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.|860|2024-03-26|
-|143|[pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365)|Manage Microsoft 365 and SharePoint Framework projects on any platform|860|2024-03-24|
-|144|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|857|2024-03-26|
-|145|[remix-run/examples](https://github.com/remix-run/examples)|A community-driven repository showcasing examples using Remix 💿|850|2024-03-26|
+|142|[consumet/api.consumet.org](https://github.com/consumet/api.consumet.org)|A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.|861|2024-03-27|
+|143|[pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365)|Manage Microsoft 365 and SharePoint Framework projects on any platform|860|2024-03-27|
+|144|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|858|2024-03-26|
+|145|[remix-run/examples](https://github.com/remix-run/examples)|A community-driven repository showcasing examples using Remix 💿|851|2024-03-27|
 |146|[storybookjs/addon-designs](https://github.com/storybookjs/addon-designs)|A Storybook addon that embeds Figma, websites, or images in the addon panel.|848|2024-03-21|
-|147|[total-typescript/type-transformations-workshop](https://github.com/total-typescript/type-transformations-workshop)|Master transforming types in TypeScript|844|2023-12-19|
-|148|[module-federation/universe](https://github.com/module-federation/universe)|A collection of tools, plugins, and utilities for Module Federation |839|2024-03-26|
-|149|[Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters)|Collection of device converters to be used with zigbee-herdsman|827|2024-03-26|
-|150|[Qard/onchange](https://github.com/Qard/onchange)|Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.|806|2023-12-12|
-|151|[aradzie/keybr.com](https://github.com/aradzie/keybr.com)|The smartest way to learn touch typing and improve your typing speed.|794|2024-03-26|
+|147|[total-typescript/type-transformations-workshop](https://github.com/total-typescript/type-transformations-workshop)|Master transforming types in TypeScript|845|2023-12-19|
+|148|[module-federation/universe](https://github.com/module-federation/universe)|A collection of tools, plugins, and utilities for Module Federation |840|2024-03-27|
+|149|[Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters)|Collection of device converters to be used with zigbee-herdsman|827|2024-03-27|
+|150|[Qard/onchange](https://github.com/Qard/onchange)|Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.|807|2023-12-12|
+|151|[aradzie/keybr.com](https://github.com/aradzie/keybr.com)|The smartest way to learn touch typing and improve your typing speed.|801|2024-03-27|
 |152|[lerna/lerna-changelog](https://github.com/lerna/lerna-changelog)|:book: PR-based changelog generator with monorepo support|793|2024-03-25|
 |153|[TheAlgorithms/website](https://github.com/TheAlgorithms/website)|The Algorithms website providing GitHub's largest open-source algorithm library.|775|2024-03-25|
-|154|[bluelibs/bluelibs](https://github.com/bluelibs/bluelibs)|A collection of open-source software solutions designed for the modern web and enterprise scale.|765|2024-03-06|
-|155|[caido/caido](https://github.com/caido/caido)|🚀 Caido releases, wiki and roadmap|764|2024-03-22|
-|156|[DanWahlin/angular-architecture](https://github.com/DanWahlin/angular-architecture)|Examples of Angular Architecture Concepts|764|2024-03-19|
+|154|[caido/caido](https://github.com/caido/caido)|🚀 Caido releases, wiki and roadmap|768|2024-03-27|
+|155|[DanWahlin/angular-architecture](https://github.com/DanWahlin/angular-architecture)|Examples of Angular Architecture Concepts|765|2024-03-19|
+|156|[bluelibs/bluelibs](https://github.com/bluelibs/bluelibs)|A collection of open-source software solutions designed for the modern web and enterprise scale.|764|2024-03-06|
 |157|[ComponentDriven/csf](https://github.com/ComponentDriven/csf)|Component Story Format is an open standard for UI component examples based on JavaScript ES6 modules.|762|2024-03-26|
-|158|[aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)|Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.|758|2024-03-26|
+|158|[aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)|Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.|758|2024-03-27|
 |159|[n1ru4l/envelop](https://github.com/n1ru4l/envelop)|Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system. |755|2024-03-25|
-|160|[stumpapp/stump](https://github.com/stumpapp/stump)|A free and open source comics, manga and digital book server with OPDS support (WIP)|743|2024-03-24|
-|161|[lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design)|最好的react ui组件库教程代码 (The code for the best react component library series tutorial)|733|2024-01-21|
+|160|[stumpapp/stump](https://github.com/stumpapp/stump)|A free and open source comics, manga and digital book server with OPDS support (WIP)|745|2024-03-24|
+|161|[lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design)|最好的react ui组件库教程代码 (The code for the best react component library series tutorial)|734|2024-01-21|
 |162|[ngneat/content-loader](https://github.com/ngneat/content-loader)|⚪️ SVG component to create placeholder loading, like Facebook cards loading. |733|2024-02-10|
-|163|[pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo)|A collection of auth-related utilities|720|2024-03-19|
-|164|[pnp/pnpjs](https://github.com/pnp/pnpjs)|Fluent JavaScript API for SharePoint and Microsoft Graph REST APIs|720|2024-03-22|
-|165|[henriqueinonhe/promises-training](https://github.com/henriqueinonhe/promises-training)|Practice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant f ...|715|2024-03-23|
-|166|[Adpro-Team/GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)|GKD第三方订阅收录名单|710|2024-03-24|
-|167|[adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce)|Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.|709|2023-12-15|
-|168|[mightyiam/eslint-config-love](https://github.com/mightyiam/eslint-config-love)|An ESLint shareable config for TypeScript that is based on eslint-config-standard and has TypeScript specific rules from @typescript-eslint/eslint-plugin.|704|2024-03-26|
+|163|[Adpro-Team/GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)|GKD第三方订阅收录名单|724|2024-03-27|
+|164|[pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo)|A collection of auth-related utilities|724|2024-03-19|
+|165|[pnp/pnpjs](https://github.com/pnp/pnpjs)|Fluent JavaScript API for SharePoint and Microsoft Graph REST APIs|721|2024-03-22|
+|166|[henriqueinonhe/promises-training](https://github.com/henriqueinonhe/promises-training)|Practice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant f ...|715|2024-03-23|
+|167|[adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce)|Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.|711|2023-12-15|
+|168|[mightyiam/eslint-config-love](https://github.com/mightyiam/eslint-config-love)|An ESLint shareable config for TypeScript that is based on eslint-config-standard and has TypeScript specific rules from @typescript-eslint/eslint-plugin.|706|2024-03-26|
 |169|[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)|A list of interesting genome browser or genome-browser-like implementations|700|2024-03-21|
-|170|[OfficeDev/script-lab](https://github.com/OfficeDev/script-lab)|Create, run and share your code directly from Office|681|2024-03-19|
+|170|[OfficeDev/script-lab](https://github.com/OfficeDev/script-lab)|Create, run and share your code directly from Office|684|2024-03-19|
 |171|[amaury1093/login-with-metamask](https://github.com/amaury1093/login-with-metamask)|Demo project for "One-click Login with Blockchain: A MetaMask Tutorial"|675|2024-01-16|
-|172|[reg-viz/storycap](https://github.com/reg-viz/storycap)|A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.|672|2024-03-26|
-|173|[josh-berry/tab-stash](https://github.com/josh-berry/tab-stash)|Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.|659|2024-02-19|
+|172|[reg-viz/storycap](https://github.com/reg-viz/storycap)|A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.|672|2024-03-27|
+|173|[josh-berry/tab-stash](https://github.com/josh-berry/tab-stash)|Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.|660|2024-02-19|
 |174|[sadanandpai/algo-visualizers](https://github.com/sadanandpai/algo-visualizers)|Algorithms Visualizers|648|2024-03-23|
 |175|[FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy)|Automatically deploy shareable previews for your Firebase Hosting sites|647|2024-03-26|
 |176|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|643|2023-09-27|
 |177|[joshswan/react-native-autolink](https://github.com/joshswan/react-native-autolink)|Automatic linking of URLs, phone numbers, emails, handles, and even custom patterns in text for React Native|642|2023-10-07|
 |178|[atlassian-labs/storybook-addon-performance](https://github.com/atlassian-labs/storybook-addon-performance)|🚧 A storybook addon to help better understand and debug performance for React components.|641|2024-01-28|
 |179|[jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim)|Vim notebook cell bindings for JupyterLab|633|2024-02-08|
-|180|[Codecademy/docs](https://github.com/Codecademy/docs)|Codecademy Docs is a collection of information for all things code. 📕|631|2024-03-26|
+|180|[Codecademy/docs](https://github.com/Codecademy/docs)|Codecademy Docs is a collection of information for all things code. 📕|631|2024-03-27|
 |181|[geeksblabla/awesome-morocco](https://github.com/geeksblabla/awesome-morocco)|👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻|630|2024-02-19|
 |182|[UX-and-I/storybook-design-token](https://github.com/UX-and-I/storybook-design-token)|Display design token documentation generated from your stylesheets and icon files. Preview design token changes in the browser. Add your design tokens to your Storybook Docs pages using the custom Doc ...|629|2024-03-18|
-|183|[pnp/sp-dev-fx-extensions](https://github.com/pnp/sp-dev-fx-extensions)|Code samples and developer content targeted towards SharePoint Framework client-side extensions. https://aka.ms/spfx-extensions|618|2024-03-26|
-|184|[resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons)|A collection of open source icons for public health projects.|608|2024-02-21|
-|185|[cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs)|A collection of higher-level reusable cdk constructs|607|2024-03-25|
+|183|[pnp/sp-dev-fx-extensions](https://github.com/pnp/sp-dev-fx-extensions)|Code samples and developer content targeted towards SharePoint Framework client-side extensions. https://aka.ms/spfx-extensions|619|2024-03-26|
+|184|[cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs)|A collection of higher-level reusable cdk constructs|607|2024-03-25|
+|185|[resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons)|A collection of open source icons for public health projects.|606|2024-02-21|
 |186|[theninthsky/client-side-rendering](https://github.com/theninthsky/client-side-rendering)|A case study of CSR.|605|2024-03-24|
 |187|[AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles)|Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where  ...|597|2024-02-29|
-|188|[YunYouJun/valaxy](https://github.com/YunYouJun/valaxy)|🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）|587|2024-03-23|
+|188|[YunYouJun/valaxy](https://github.com/YunYouJun/valaxy)|🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）|587|2024-03-27|
 |189|[tycrek/ass](https://github.com/tycrek/ass)|The simple self-hosted ShareX server|582|2024-01-10|
 |190|[hjdhjd/homebridge-myq](https://github.com/hjdhjd/homebridge-myq)|:car: myQ Liftmaster and Chamberlain Plugin for Homebridge https://github.com/nfarina/homebridge|572|2023-10-15|
-|191|[rajinwonderland/react-code-blocks](https://github.com/rajinwonderland/react-code-blocks)|React code blocks and code snippet components|568|2024-03-11|
+|191|[rajinwonderland/react-code-blocks](https://github.com/rajinwonderland/react-code-blocks)|React code blocks and code snippet components|569|2024-03-11|
 |192|[cfworker/cfworker](https://github.com/cfworker/cfworker)|A collection of packages optimized for Cloudflare Workers and service workers.|565|2024-03-19|
-|193|[mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action)|A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.|563|2024-03-19|
+|193|[mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action)|A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.|564|2024-03-19|
 |194|[antfu/utils](https://github.com/antfu/utils)|Collection of common JavaScript / TypeScript utils|562|2024-03-13|
 |195|[MetaMask/eth-sig-util](https://github.com/MetaMask/eth-sig-util)|A collection of functions for signing and verifying data with Ethereum keys.|553|2024-03-18|
 |196|[eyebluecn/tank-front](https://github.com/eyebluecn/tank-front)|蓝眼系列软件之《蓝眼云盘》前端项目|549|2024-03-26|
 |197|[urban-bot/urban-bot](https://github.com/urban-bot/urban-bot)|🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots|545|2024-02-24|
 |198|[origranot/reduced.to](https://github.com/origranot/reduced.to)|Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!|545|2024-03-25|
-|199|[nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)|🏫 Official course planning platform for National University of Singapore.|544|2024-03-25|
-|200|[googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots)|A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.|542|2024-03-25|
+|199|[nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)|🏫 Official course planning platform for National University of Singapore.|544|2024-03-27|
+|200|[googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots)|A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.|542|2024-03-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

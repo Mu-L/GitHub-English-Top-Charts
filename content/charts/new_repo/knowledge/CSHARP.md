@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1097|2024-03-25|2023-08-30|
-|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|554|2024-02-19|2024-02-12|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1102|2024-03-26|2023-08-30|
+|2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|557|2024-02-19|2024-02-12|
 |3|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|380|2024-03-02|2024-02-08|
-|4|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|281|2024-03-15|2024-01-05|
-|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|269|2024-03-26|2024-01-29|
+|4|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|307|2024-03-15|2024-01-05|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|269|2024-03-27|2024-01-29|
 |6|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |241|2024-01-04|2023-05-11|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|225|2024-03-14|2023-07-25|
 |8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|213|2023-12-09|2023-05-02|
 |9|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|184|2024-03-22|2023-05-16|
 |10|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|163|2024-01-04|2023-09-21|
-|11|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|124|2023-10-02|2023-04-11|
-|12|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|122|2024-03-25|2024-01-17|
+|11|[Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat)|Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search|125|2023-10-02|2023-04-11|
+|12|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|122|2024-03-26|2024-01-17|
 |13|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|112|2024-02-24|2023-08-12|
 |14|[dusrdev/Sharpify](https://github.com/dusrdev/Sharpify)|A collection of high performance language extensions for C#|90|2024-03-15|2023-04-06|
 |15|[LethalCompany/LethalCompanyModdingWiki](https://github.com/LethalCompany/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|74|2023-12-28|2023-11-07|

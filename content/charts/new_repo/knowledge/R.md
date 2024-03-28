@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|24|2024-03-04|2023-04-14|
 |4|[milos-agathon/3d-vintage-topo-maps](https://github.com/milos-agathon/3d-vintage-topo-maps)|In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps|22|2023-12-27|2023-12-24|
 |5|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|20|2024-03-22|2023-12-28|
-|6|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|19|2024-02-17|2023-09-22|
+|6|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|20|2024-02-17|2023-09-22|
 |7|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|18|2024-02-07|2023-12-09|
 |8|[nicucalcea/Ra11y](https://github.com/nicucalcea/Ra11y)|Collection of accessibility functions for R|18|2024-01-09|2023-09-22|
 |9|[PPBDS/tidymodels.tutorials](https://github.com/PPBDS/tidymodels.tutorials)|Tutorials for Tidy Modeling with R|16|2024-01-29|2023-07-05|
@@ -21,17 +21,17 @@
 |14|[NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)|This is the repository hosting the R scripts of the book "Mathematical Foundations of Reinforcement Learning" written by Yujun at Jiangxi Normal University.|13|2023-12-03|2023-10-03|
 |15|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|13|2023-11-24|2023-09-16|
 |16|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|13|2024-03-12|2023-09-02|
-|17|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|12|2023-09-27|2023-08-16|
-|18|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-02-03|2023-04-07|
-|19|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|11|2024-03-10|2024-01-03|
-|20|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|11|2024-02-05|2023-06-03|
-|21|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|11|2024-03-24|2023-04-05|
-|22|[ropensci/quadkeyr](https://github.com/ropensci/quadkeyr)|An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  |10|2024-03-21|2023-12-04|
-|23|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|9|2024-03-21|2023-12-30|
-|24|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|8|2024-02-23|2024-02-18|
-|25|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|8|2023-11-25|2023-11-25|
-|26|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|8|2024-01-01|2023-11-11|
-|27|[dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)|Text files for LST book|7|2024-03-05|2024-03-05|
+|17|[dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)|Text files for LST book|12|2024-03-05|2024-03-05|
+|18|[FJRubio67/BVSSurv](https://github.com/FJRubio67/BVSSurv)|Bayesian variable selection for survival data (tutorial)|12|2023-09-27|2023-08-16|
+|19|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-02-03|2023-04-07|
+|20|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|11|2024-03-10|2024-01-03|
+|21|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|11|2024-02-05|2023-06-03|
+|22|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|11|2024-03-24|2023-04-05|
+|23|[ropensci/quadkeyr](https://github.com/ropensci/quadkeyr)|An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  |10|2024-03-21|2023-12-04|
+|24|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|9|2024-03-21|2023-12-30|
+|25|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|8|2024-02-23|2024-02-18|
+|26|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|8|2023-11-25|2023-11-25|
+|27|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|8|2024-01-01|2023-11-11|
 |28|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
 |29|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|6|2024-03-09|2024-01-07|
 |30|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|6|2024-03-12|2023-12-20|
