@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|786|2024-03-26|2023-04-04|
+|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|788|2024-03-26|2023-04-04|
 |2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|196|2024-03-25|2024-01-19|
-|3|[myofficework000/Jetpack-Compose-All-in-one-Guide](https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|132|2024-03-24|2023-04-11|
+|3|[myofficework000/Jetpack-Compose-All-in-one-Guide](https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|134|2024-03-24|2023-04-11|
 |4|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|130|2024-03-27|2023-10-18|
-|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Support document for my video series about learning to program computers from the ground up.|75|2024-03-19|2024-02-06|
+|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Support document for my video series about learning to program computers from the ground up.|76|2024-03-19|2024-02-06|
 |6|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|74|2024-03-13|2024-01-08|
 |7|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |71|2024-03-07|2024-01-24|
 |8|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
-|9|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|57|2024-03-22|2023-04-09|
-|10|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|54|2024-03-25|2023-10-22|
+|9|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|57|2024-03-28|2023-04-09|
+|10|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|56|2024-03-25|2023-10-22|
 |11|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2023-12-01|2023-09-12|
 |12|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the course Kotlin Multiplatform Masterclass.|40|2024-03-26|2023-11-24|
-|13|[aloussase/alexandria-app](https://github.com/aloussase/alexandria-app)|:book: Search for books and download and convert them to different formats|37|2024-03-22|2024-02-19|
+|13|[aloussase/alexandria-app](https://github.com/aloussase/alexandria-app)|:book: Search for books and download and convert them to different formats|38|2024-03-22|2024-02-19|
 |14|[dalemncy/android-kotlin-permissions](https://github.com/dalemncy/android-kotlin-permissions)|Explore Android's camera and location permissions with Kotlin in this demo repository. Seamlessly integrate permission requests for a user-friendly experience using insightful code snippets and clear  ...|37|2023-10-21|2023-10-21|
 |15|[oleksandrbalan/programguide](https://github.com/oleksandrbalan/programguide)|Lazy layout to display program guide data on the two directional plane.|37|2024-01-09|2023-04-30|
 |16|[dalemncy/android-kotlin-dialogs](https://github.com/dalemncy/android-kotlin-dialogs)|Explore comprehensive demos illustrating AlertDialog, Date and Time Pickers, and Custom Dialog implementations in Android using Kotlin. These easily understandable examples facilitate seamless integra ...|36|2023-10-21|2023-10-21|

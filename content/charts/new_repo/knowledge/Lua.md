@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|477|2024-03-19|2023-09-16|
-|2|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|232|2024-03-07|2023-12-29|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|479|2024-03-19|2023-09-16|
+|2|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|234|2024-03-07|2023-12-29|
 |3|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|217|2024-03-27|2024-01-03|
 |4|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|108|2024-01-18|2023-10-03|
 |5|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|64|2024-03-04|2023-05-28|
@@ -31,8 +31,8 @@
 |24|[pandoc-ext/list-table](https://github.com/pandoc-ext/list-table)|Write tables as list of cells and rows.|15|2024-01-07|2023-04-07|
 |25|[siawkz/nvim-cheatsh](https://github.com/siawkz/nvim-cheatsh)|Seamless integration of cheat.sh with Neovim: Access a wide range of cheat sheets directly through Telescope.|14|2024-02-19|2024-02-17|
 |26|[altermo/doune.nvim](https://github.com/altermo/doune.nvim)|A collection of plugins / A place to request the creation of plugins|14|2024-02-10|2024-02-09|
-|27|[altermo/small.nvim](https://github.com/altermo/small.nvim)|A collection of "small" plugins|14|2024-03-27|2023-09-15|
-|28|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|13|2024-03-27|2023-12-10|
+|27|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|14|2024-03-28|2023-12-10|
+|28|[altermo/small.nvim](https://github.com/altermo/small.nvim)|A collection of "small" plugins|14|2024-03-27|2023-09-15|
 |29|[Roblox/dash](https://github.com/Roblox/dash)|A collection of core utilities expanding the capabilities of Lua in Roblox. This is a read-only mirror|13|2023-10-31|2023-10-23|
 |30|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|13|2024-02-03|2023-10-13|
 |31|[drainpixie/petal](https://github.com/drainpixie/petal)|🌼 a delightful collection of dotfiles for my arch system.|13|2023-10-22|2023-06-01|
@@ -41,11 +41,11 @@
 |34|[Roblox/cryo](https://github.com/Roblox/cryo)|A collection of methods for working with immutable data in a functional way for Roblox Lua. This is a read-only mirror|12|2023-10-31|2023-10-23|
 |35|[JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar.nvim)|Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.|11|2024-03-12|2023-11-13|
 |36|[rafa-thayto/lazy-thayto-vim](https://github.com/rafa-thayto/lazy-thayto-vim)|LazyVIM blaster master custom configs 🔥|9|2024-03-12|2023-08-30|
-|37|[morefinances/qlua](https://github.com/morefinances/qlua)|Shared Access Scripts on QLua (for a trading terminal Quik)|9|2024-02-20|2023-06-29|
-|38|[dokusaido/Doku_Offroad](https://github.com/dokusaido/Doku_Offroad)|A collection of Lore Friendly Cars|8|2024-03-21|2024-03-16|
-|39|[Annalouu/an-engines](https://github.com/Annalouu/an-engines)|A list of engines to use in your fivem server|8|2024-02-25|2023-12-21|
-|40|[George0828Zhang/Fun-House](https://github.com/George0828Zhang/Fun-House)|Fun House is a collection of yimmenu lua scripts made for fun.|8|2024-01-16|2023-08-28|
-|41|[dmachard/lua-dnsdist-config-examples](https://github.com/dmachard/lua-dnsdist-config-examples)|Configuration examples for DNSdist PowerDNS|8|2024-02-27|2023-07-04|
+|37|[dmachard/lua-dnsdist-config-examples](https://github.com/dmachard/lua-dnsdist-config-examples)|Configuration examples for DNSdist PowerDNS|9|2024-02-27|2023-07-04|
+|38|[morefinances/qlua](https://github.com/morefinances/qlua)|Shared Access Scripts on QLua (for a trading terminal Quik)|9|2024-02-20|2023-06-29|
+|39|[dokusaido/Doku_Offroad](https://github.com/dokusaido/Doku_Offroad)|A collection of Lore Friendly Cars|8|2024-03-21|2024-03-16|
+|40|[Annalouu/an-engines](https://github.com/Annalouu/an-engines)|A list of engines to use in your fivem server|8|2024-02-25|2023-12-21|
+|41|[George0828Zhang/Fun-House](https://github.com/George0828Zhang/Fun-House)|Fun House is a collection of yimmenu lua scripts made for fun.|8|2024-01-16|2023-08-28|
 |42|[jellydn/learn-vim-with-vscode](https://github.com/jellydn/learn-vim-with-vscode)|This project aims to guide you through setting up and learning Vim within Visual Studio Code using the VSCodeVim and VSCode-Neovim extensions.|8|2023-12-15|2023-06-18|
 |43|[adambennett/Balatro-DeckCreator](https://github.com/adambennett/Balatro-DeckCreator)|Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.|7|2024-03-26|2024-02-25|
 |44|[Coockson/ipynb.nvim](https://github.com/Coockson/ipynb.nvim)|Neovim jupiter notebook support plugin|7|2024-02-18|2024-02-02|

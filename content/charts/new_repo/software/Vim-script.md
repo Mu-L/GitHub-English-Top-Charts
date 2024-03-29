@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[CoderCookE/vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt)|Vim Plugin For ChatGPT|197|2024-03-04|2023-03-30|
-|2|[xero/miasma.nvim](https://github.com/xero/miasma.nvim)|a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim|132|2024-02-28|2023-06-17|
+|2|[xero/miasma.nvim](https://github.com/xero/miasma.nvim)|a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim|134|2024-02-28|2023-06-17|
 |3|[nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)|Evangelion but for Vimmers|103|2024-03-07|2023-04-23|
 |4|[csdvrx/CuteVim](https://github.com/csdvrx/CuteVim)|Sensible defaults for Vim|86|2024-01-21|2023-12-25|
 |5|[AndrewRadev/typewriter.vim](https://github.com/AndrewRadev/typewriter.vim)|Make cool typewriter sounds in insert mode|76|2024-01-07|2023-04-01|
@@ -14,12 +14,12 @@
 |7|[girishji/vimcomplete](https://github.com/girishji/vimcomplete)|Async autocompletion for Vim.|61|2024-03-26|2023-07-16|
 |8|[kamou/gpt-vim](https://github.com/kamou/gpt-vim)|vim gpt integration|55|2024-01-01|2023-04-10|
 |9|[girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim)|Autocompletion for Vim's command line.|37|2024-03-22|2023-07-11|
-|10|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|29|2024-03-27|2024-03-01|
-|11|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|28|2023-10-20|2023-09-21|
-|12|[skywind3000/vim-navigator](https://github.com/skywind3000/vim-navigator)|:rocket: Navigate Your Commands Easily !!|27|2024-03-17|2023-06-27|
-|13|[wolandark/vim-live-server](https://github.com/wolandark/vim-live-server)|A live web server for Vim/NeoVim - see your changes in real time|27|2024-01-24|2023-05-23|
-|14|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|26|2024-03-18|2024-01-30|
-|15|[TabbyML/vim-tabby](https://github.com/TabbyML/vim-tabby)|-|26|2024-03-01|2023-10-22|
+|10|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|29|2024-03-28|2024-03-01|
+|11|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|29|2023-10-20|2023-09-21|
+|12|[TabbyML/vim-tabby](https://github.com/TabbyML/vim-tabby)|-|27|2024-03-01|2023-10-22|
+|13|[skywind3000/vim-navigator](https://github.com/skywind3000/vim-navigator)|:rocket: Navigate Your Commands Easily !!|27|2024-03-17|2023-06-27|
+|14|[wolandark/vim-live-server](https://github.com/wolandark/vim-live-server)|A live web server for Vim/NeoVim - see your changes in real time|27|2024-01-24|2023-05-23|
+|15|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|26|2024-03-18|2024-01-30|
 |16|[ccutch/pbj](https://github.com/ccutch/pbj)|The PB&J Stack|26|2023-12-12|2023-10-19|
 |17|[nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)|-|24|2024-01-28|2024-01-11|
 |18|[ubaldot/vim-replica](https://github.com/ubaldot/vim-replica)|Enjoy Jupyter through Vim!|23|2023-10-09|2023-03-30|
@@ -29,19 +29,19 @@
 |22|[fathulfahmy/dotfiles-wsl](https://github.com/fathulfahmy/dotfiles-wsl)|🪟 Windows development setup with WSL2, VS Code, Vim and GlazeWM|21|2023-11-22|2023-06-09|
 |23|[czheo/mojo.vim](https://github.com/czheo/mojo.vim)|Vim Syntax Highlighting for the Mojo programming language|21|2023-10-08|2023-05-11|
 |24|[ActuallyTaylor/.dotfiles](https://github.com/ActuallyTaylor/.dotfiles)|-|20|2023-10-03|2023-04-09|
-|25|[eihigh/vim-aomi-grayscale](https://github.com/eihigh/vim-aomi-grayscale)|vim-aomi-grayscale: A slightly bluish grayscale color scheme for Vim|20|2023-12-13|2023-04-04|
+|25|[eihigh/vim-aomi-grayscale](https://github.com/eihigh/vim-aomi-grayscale)|vim-aomi-grayscale: A slightly bluish grayscale color scheme for Vim|20|2024-03-28|2023-04-04|
 |26|[skywind3000/vim-color-export](https://github.com/skywind3000/vim-color-export)|:rainbow: A tool to backport NeoVim colorschemes to Vim !!|18|2024-02-02|2024-01-30|
 |27|[cratelyn/pfil](https://github.com/cratelyn/pfil)|🧚 pfil is a cute, minimal editor theme; for low-light and high-contrast.|18|2023-12-13|2023-11-25|
 |28|[koron/vim-budoux](https://github.com/koron/vim-budoux)|BudouX Vim script implementation (experimental)|18|2023-10-16|2023-10-15|
 |29|[rickhowe/wrapwidth](https://github.com/rickhowe/wrapwidth)|Wraps long lines virtually at a specific column|18|2024-03-19|2023-10-09|
-|30|[Shougo/cmdline.vim](https://github.com/Shougo/cmdline.vim)|Display command line text in floating window|16|2024-03-26|2024-03-13|
+|30|[Shougo/cmdline.vim](https://github.com/Shougo/cmdline.vim)|Display command line text in floating window|16|2024-03-28|2024-03-13|
 |31|[SagePtr/openserver-apache-2.4](https://github.com/SagePtr/openserver-apache-2.4)|Apache 2.4 for PHP_8.2-8.3 for OpenServer|16|2024-01-24|2024-01-23|
 |32|[mmrwoods/vim-friendly](https://github.com/mmrwoods/vim-friendly)|Friendly defaults for new Vim users|16|2024-03-02|2023-05-02|
 |33|[ovikrai/mojo-syntax](https://github.com/ovikrai/mojo-syntax)|Mojo 🔥 Language Syntax Highlighting for Vim|15|2024-03-22|2024-02-29|
 |34|[devsjc/vim-jb](https://github.com/devsjc/vim-jb)|Colourscheme for Vim, inspired by JetBrains IDEs.|15|2024-02-19|2023-10-27|
 |35|[keiyakeiya/PapilioDehaanii.vim](https://github.com/keiyakeiya/PapilioDehaanii.vim)|Duotone color scheme for Vim and Neovim.|15|2024-02-12|2023-09-28|
 |36|[MrPicklePinosaur/typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim)|plugin for typst conceal|15|2023-10-13|2023-09-26|
-|37|[4513ECHO/vim-snipewin](https://github.com/4513ECHO/vim-snipewin)|🥏 Manipulate windows most quickly like sniper|15|2024-02-05|2023-07-25|
+|37|[4513ECHO/vim-snipewin](https://github.com/4513ECHO/vim-snipewin)|🥏 Manipulate windows most quickly like sniper|15|2024-03-28|2023-07-25|
 |38|[ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate)|Activate Conda environments in Vim.|15|2023-09-29|2023-05-24|
 |39|[chimay/organ](https://github.com/chimay/organ)|Generalize Orgmode to Markdown and any Folding structure in Vim and Neovim. Supports Org, Markdown and any Folded file.|15|2024-03-18|2023-04-19|
 |40|[elkasztano/nushell-syntax-vim](https://github.com/elkasztano/nushell-syntax-vim)|Nushell syntax highlighting for Vim|14|2024-01-02|2023-10-29|
