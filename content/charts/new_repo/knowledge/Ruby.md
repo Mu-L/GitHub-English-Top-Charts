@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,6 +15,7 @@
 |8|[icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api)|HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A ...|10|2024-01-13|2023-05-16|
 |9|[ClaudiaRojasSoto/Recipe_App](https://github.com/ClaudiaRojasSoto/Recipe_App)|An all-in-one culinary assistant 🍽. Save recipes, track ingredients, and generate shopping lists. Share your favorite recipes publicly for everyone to enjoy!|9|2023-12-20|2023-10-08|
 |10|[AndreaM2429/BlogApp](https://github.com/AndreaM2429/BlogApp)|Is a clasic blog website that shows the list of posts and empower readers to interact with them by adding comments and liking posts.|9|2023-10-07|2023-09-18|
+|11|[dogweather/forkful](https://github.com/dogweather/forkful)|An open-content programming cookbook. A responsible use of AI proof of concept.  Collaborative, polyglot and multilingual.|8|2024-03-28|2024-01-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
