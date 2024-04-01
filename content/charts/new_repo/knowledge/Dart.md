@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2024-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[academind/flutter-complete-guide-course-resources](https://github.com/academind/flutter-complete-guide-course-resources)|Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).|1436|2023-12-15|2023-04-05|
-|2|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|443|2024-03-20|2023-04-16|
+|1|[academind/flutter-complete-guide-course-resources](https://github.com/academind/flutter-complete-guide-course-resources)|Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).|1439|2023-12-15|2023-04-05|
+|2|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|444|2024-03-20|2023-04-16|
 |3|[Yczar/wtf-dart](https://github.com/Yczar/wtf-dart)|😮‍💨 A list of tricky Dart & Flutter Examples|96|2023-11-14|2023-04-02|
-|4|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|71|2024-03-17|2023-10-28|
-|5|[natsuk4ze/gal](https://github.com/natsuk4ze/gal)|How to Save Image or Video to Photo Gallery in Flutter|63|2024-03-19|2023-05-26|
-|6|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|48|2024-03-28|2024-02-14|
+|4|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|72|2024-03-17|2023-10-28|
+|5|[natsuk4ze/gal](https://github.com/natsuk4ze/gal)|How to Save Image or Video to Photo Gallery in Flutter|64|2024-03-19|2023-05-26|
+|6|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|48|2024-03-30|2024-02-14|
 |7|[sownt/android-studyjams](https://github.com/sownt/android-studyjams)|Google Developer Profile Validator for Android Study Jams|36|2023-12-11|2023-07-18|
 |8|[lxpio/omnigram](https://github.com/lxpio/omnigram)|Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper ...|28|2024-02-21|2023-07-26|
 |9|[VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)|Collection of open-source templates created and maintained by Very Good Ventures.|27|2024-03-06|2023-12-14|

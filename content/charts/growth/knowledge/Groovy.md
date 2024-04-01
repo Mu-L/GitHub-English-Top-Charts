@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[cytomine/Cytomine-software-router](https://github.com/cytomine/Cytomine-software-router)|Cytomine module for communication between Cytomine-Core and remote algorithms|6|0|2023-10-24|
 |8|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|9|0|2024-03-27|
 |9|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|6|0|2024-02-19|
-|10|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|8|0|2024-03-29|
+|10|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|8|0|2024-03-31|
 |11|[g0t4/course-jenkins-getting-started](https://github.com/g0t4/course-jenkins-getting-started)|Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course|65|0|2023-10-13|
 |12|[Catrobat/jenkins-pipeline-libraries](https://github.com/Catrobat/jenkins-pipeline-libraries)|Catrobat's Jenkins shared libraries|4|0|2023-10-17|
 |13|[tracetronic/jenkins-library](https://github.com/tracetronic/jenkins-library)|Jenkins shared library for your CX automation workflows.|7|0|2024-02-26|
@@ -22,7 +22,7 @@
 |15|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|0|2024-03-28|
 |16|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|73|0|2024-01-29|
 |17|[edx/jenkins-configuration](https://github.com/edx/jenkins-configuration)|A collection of utilities for configuring a Jenkins instance and its plugins|179|0|2023-12-16|
-|18|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|7|0|2023-12-19|
+|18|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|6|0|2023-12-19|
 |19|[elijahedmondson/QuPath-scripts](https://github.com/elijahedmondson/QuPath-scripts)|A collection of groovy scripts for digital pathology|4|0|2023-12-13|
 |20|[infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)|Useful scripting examples for ReportServer|4|0|2024-03-20|
 |21|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|0|2024-03-26|
@@ -71,7 +71,7 @@
 |64|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|127|0|2024-03-12|
 |65|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-03-28|
 |66|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|144|0|2024-03-28|
-|67|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |736|0|2024-03-27|
+|67|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |735|0|2024-03-27|
 |68|[kazurayam/SaveWebPageAsMHT](https://github.com/kazurayam/SaveWebPageAsMHT)|In Katalon Studio, how to take a snapshot of current DOM of web page and save it into local file in MHTML format|3|0|2023-10-25|
 |69|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|0|2024-03-13|
 |70|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2024-01-22|

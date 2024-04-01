@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -39,9 +39,10 @@
 |32|[jangorecki/r-pkgs-tiny](https://github.com/jangorecki/r-pkgs-tiny)|Tiny guide for writing R packages|6|2023-11-23|2023-08-30|
 |33|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
 |34|[andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto|5|2024-01-20|2024-01-02|
-|35|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
-|36|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
-|37|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
+|35|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|5|2024-02-10|2023-12-13|
+|36|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
+|37|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
+|38|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

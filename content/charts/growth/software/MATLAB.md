@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6544|2|2024-01-04|
-|2|[themanoftalent/SignalsSystemsWeek4-7](https://github.com/themanoftalent/SignalsSystemsWeek4-7)|-|9|1|2024-03-30|
+|2|[themanoftalent/SignalsSystemsWeek4-7](https://github.com/themanoftalent/SignalsSystemsWeek4-7)|-|8|1|2024-03-31|
 |3|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |112|1|2023-12-04|
 |4|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|1|2024-03-18|
-|5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2356|1|2024-01-15|
+|5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2357|1|2024-01-15|
 |6|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|1|2024-01-07|
-|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|547|1|2024-03-01|
+|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|547|1|2024-03-31|
 |8|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|1|2024-01-07|
-|9|[NicolasBoumal/maxcut](https://github.com/NicolasBoumal/maxcut)|Optimization algorithms to compute approximate solutions to the Max-Cut problem|3|1|2024-03-25|
-|10|[WhiteTowerBear/Joint-Channel-Estimation-and-Signal-Recovery](https://github.com/WhiteTowerBear/Joint-Channel-Estimation-and-Signal-Recovery)|The paper of source codes is published as L. Wei et al., "Joint Channel Estimation and Signal Recovery for RIS-Empowered Multiuser Communications," in IEEE Transactions on Communications, vol. 70, no. ...|3|1|2024-03-27|
+|9|[NicolasBoumal/maxcut](https://github.com/NicolasBoumal/maxcut)|Optimization algorithms to compute approximate solutions to the Max-Cut problem|4|1|2024-03-25|
+|10|[WhiteTowerBear/Joint-Channel-Estimation-and-Signal-Recovery](https://github.com/WhiteTowerBear/Joint-Channel-Estimation-and-Signal-Recovery)|The paper of source codes is published as L. Wei et al., "Joint Channel Estimation and Signal Recovery for RIS-Empowered Multiuser Communications," in IEEE Transactions on Communications, vol. 70, no. ...|4|1|2024-03-27|
 |11|[HengLan/VastTrack](https://github.com/HengLan/VastTrack)|VastTrack: Vast Category Visual Object Tracking|32|1|2024-03-27|
 |12|[matlab-deep-learning/constrained-deep-learning](https://github.com/matlab-deep-learning/constrained-deep-learning)|Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.|7|1|2024-03-27|
 |13|[ThecoderPinar/Earthquake_Prediction_Analysis_Project](https://github.com/ThecoderPinar/Earthquake_Prediction_Analysis_Project)|🌍 Welcome to the Earthquake Prediction Analysis Project! 🚀 This project aims to predict earthquake magnitudes using LSTM neural networks and analyze seismic data. Explore, analyze, and forecast earthq ...|5|1|2024-03-28|
@@ -64,14 +64,14 @@
 |57|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|3|0|2024-03-26|
 |58|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-03-22|
 |59|[realmsong504/pDOC](https://github.com/realmsong504/pDOC)|Prognostication of chronic disorders of consciousness using resting state fMRI and clinical characteristics|9|0|2023-11-14|
-|60|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|41|0|2023-12-07|
+|60|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|42|0|2023-12-07|
 |61|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-03-26|
 |62|[yetianmed/subcortex](https://github.com/yetianmed/subcortex)|-|91|0|2023-11-04|
-|63|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|4|0|2024-01-28|
+|63|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|5|0|2024-01-28|
 |64|[jlh123465/Oled-Modeling](https://github.com/jlh123465/Oled-Modeling)|-|4|0|2023-10-15|
 |65|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|8|0|2024-01-04|
 |66|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|5|0|2024-03-25|
-|67|[aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)|A set of graph/networks analysis functions in Octave|93|0|2023-10-30|
+|67|[aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)|A set of graph/networks analysis functions in Octave|92|0|2023-10-30|
 |68|[KIM-HANJOO/TOY-CFD-for-ground](https://github.com/KIM-HANJOO/TOY-CFD-for-ground)|simple imitation of CFD in MATLAB|3|0|2023-11-01|
 |69|[hcab14/TDoA](https://github.com/hcab14/TDoA)|Time difference of arrival (TDoA) multi-lateration|54|0|2024-01-06|
 |70|[SongXiangyu27/SSIIFD_Hyperspectral-Anomaly-Detection](https://github.com/SongXiangyu27/SSIIFD_Hyperspectral-Anomaly-Detection)|This is a code set for hyperpsectral anomaly detection including the RX, PTA, CRD, iForest, SSIIFD, MFIFD etc.|19|0|2023-12-27|
@@ -160,7 +160,7 @@
 |153|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|13|0|2024-03-16|
 |154|[I-STAR/MTFTools](https://github.com/I-STAR/MTFTools)|Tools for 2D and 3D MTF measurement.|6|0|2024-03-16|
 |155|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|83|0|2024-03-19|
-|156|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-03-24|
+|156|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-03-31|
 |157|[MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector](https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector)|A new method for accurate detection of movement intention from single channel EEG for online BCI|3|0|2024-02-25|
 |158|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-02-01|
 |159|[tub-rip/SER_Lie_poses](https://github.com/tub-rip/SER_Lie_poses)|Some functions to work with Lie groups SO(3) and SE(3). State Estimation for Robotics|9|0|2024-02-09|
