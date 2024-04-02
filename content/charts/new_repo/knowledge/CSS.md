@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|662|2024-03-03|2023-12-11|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|691|2024-03-03|2023-12-11|
 |2|[Mohanad-Fawzy/TraidingView-Premium-Free](https://github.com/Mohanad-Fawzy/TraidingView-Premium-Free)|How to Get TradingView Premium for Free Forever   TRADINGVIEW PREMIUM FREE FOR LIFETIME|208|2024-02-22|2023-09-13|
 |3|[dheereshagrwal/colored-icons](https://github.com/dheereshagrwal/colored-icons)|The colored icons library is a collection of brand logos and tech stack logos. It's a handy resource to easily add brand icons to your projects without the hassle of manual attribution.|120|2024-03-09|2023-05-11|
 |4|[SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide)|UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|110|2024-01-16|2023-06-12|
@@ -17,8 +17,8 @@
 |10|[roberto-butti/some-drops-of-php](https://github.com/roberto-butti/some-drops-of-php)|"Some drops of PHP", this book collects some useful, unknown, underrated PHP functions discovered and learned while using PHP daily.|64|2023-12-29|2023-10-01|
 |11|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|50|2024-03-13|2023-09-20|
 |12|[apu52/METAVERSE](https://github.com/apu52/METAVERSE)|🚀 Welcome to our GitHub repository,  Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️ ...|47|2024-01-14|2023-07-11|
-|13|[ddotta/cookbook-rpolars](https://github.com/ddotta/cookbook-rpolars)|Cookbook to provide solutions to common tasks and problems in using Polars with R|45|2024-02-24|2023-04-06|
-|14|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|38|2024-03-25|2024-02-01|
+|13|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|45|2024-03-25|2024-02-01|
+|14|[ddotta/cookbook-rpolars](https://github.com/ddotta/cookbook-rpolars)|Cookbook to provide solutions to common tasks and problems in using Polars with R|45|2024-02-24|2023-04-06|
 |15|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|38|2024-01-23|2023-10-27|
 |16|[bedimcode/responsive-book-website](https://github.com/bedimcode/responsive-book-website)|Responsive Book Website Design Using HTML CSS & JavaScript|38|2023-10-23|2023-10-23|
 |17|[lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates)|A collection of templates for Obsidian|37|2023-11-13|2023-04-27|
@@ -45,15 +45,15 @@
 |38|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|19|2024-02-03|2023-08-11|
 |39|[LangCorrect/server](https://github.com/LangCorrect/server)|Master grammar, spelling, and syntax in the language(s) you’re learning through direct feedback on your writing from fluent, native speakers.|19|2024-01-27|2023-07-19|
 |40|[pappijx/Vite-react-eslint-prettier-husky-setup](https://github.com/pappijx/Vite-react-eslint-prettier-husky-setup)|Effortlessly Setting up Your React Project with Vite, Husky, TypeScript, and ESLint: A Comprehensive Guide|19|2024-01-31|2023-04-03|
-|41|[MediaSavvy/MediaSavvy_Wiki](https://github.com/MediaSavvy/MediaSavvy_Wiki)|Welcome to my website, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, sa ...|18|2024-03-29|2023-08-19|
+|41|[MediaSavvy/MediaSavvy_Wiki](https://github.com/MediaSavvy/MediaSavvy_Wiki)|Welcome to my website, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, sa ...|18|2024-04-01|2023-08-19|
 |42|[sree-hari-s/MasteringPyTrail](https://github.com/sree-hari-s/MasteringPyTrail)|Join the 'MasteringPyTrail' - Our project, is the ultimate Python learning resource, guiding beginners to advanced levels.|17|2024-02-07|2023-08-28|
 |43|[SixArm/software-programming-guide](https://github.com/SixArm/software-programming-guide)|Software Programming Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|17|2024-01-16|2023-07-25|
 |44|[zksecurity/stark-book](https://github.com/zksecurity/stark-book)|STARK book|16|2023-12-25|2023-11-21|
 |45|[Karhdo/karhdo.dev](https://github.com/Karhdo/karhdo.dev)|My 🏡 in the ☁: Featuring my portfolio, showcases, code snippets, development logs, and creative ideas.|16|2024-03-12|2023-07-07|
-|46|[mehdiali-mk/JS-Learning](https://github.com/mehdiali-mk/JS-Learning)|This repository contain all the stuffs and programs that I use to learn JavaScript from begineers to advance level.|14|2024-03-31|2024-01-16|
+|46|[mehdiali-mk/JS-Learning](https://github.com/mehdiali-mk/JS-Learning)|This repository contain all the stuffs and programs that I use to learn JavaScript from begineers to advance level.|14|2024-04-01|2024-01-16|
 |47|[lambdalisue/rs-mdbook-alerts](https://github.com/lambdalisue/rs-mdbook-alerts)|mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book|14|2024-03-27|2024-01-14|
 |48|[SartHak-0-Sach/Bookmark-landing-page_frontend_project](https://github.com/SartHak-0-Sach/Bookmark-landing-page_frontend_project)|Welcome to Bookmark Landing Page, the gateway to an efficient bookmark manager. Seamlessly switch between devices while enjoying the optimal layout and interactive elements tailored to your screen siz ...|13|2024-03-30|2024-01-18|
-|49|[SartHak-0-Sach/Article-preview-component_frontend_project](https://github.com/SartHak-0-Sach/Article-preview-component_frontend_project)|Welcome to the Article Preview Component, a sleek card-like component for displaying article previews with social media share functionality. Enjoy a responsive layout and seamless sharing options with ...|13|2024-03-30|2024-01-18|
+|49|[SartHak-0-Sach/Article-preview-component_frontend_project](https://github.com/SartHak-0-Sach/Article-preview-component_frontend_project)|Welcome to the Article Preview Component, a sleek card-like component for displaying article previews with social media share functionality. Enjoy a responsive layout and seamless sharing options with ...|13|2024-04-01|2024-01-18|
 |50|[ippen/studydrive_downloader](https://github.com/ippen/studydrive_downloader)|Generate PDF links to download documents from Studydrive without paying Premium.|13|2024-03-06|2023-10-30|
 |51|[instatushq/goodies](https://github.com/instatushq/goodies)|Discover stylish UI elements and code snippets, complete with videos available on our social media platforms.|13|2024-01-08|2023-10-27|
 |52|[5e/streamdeck-hwinfo-plugin](https://github.com/5e/streamdeck-hwinfo-plugin)|HWiNFO Reader - A Stream Deck plugin to show HWiNFO sensors without using the time limited 'Shared Memory Support' feature. Only 91KB 🌟|12|2024-03-07|2024-01-20|
@@ -61,18 +61,18 @@
 |54|[csharpfritz/NewInNET8](https://github.com/csharpfritz/NewInNET8)|A collection of samples showing some of the new features in .NET 8|12|2023-12-13|2023-12-13|
 |55|[frontend-joe/css-accordions](https://github.com/frontend-joe/css-accordions)|Collection of accordion components built with HTML and CSS.|12|2023-12-01|2023-12-01|
 |56|[3bbaas/GPA-Calculator](https://github.com/3bbaas/GPA-Calculator)|GPA Calculator for 6 courses.|12|2024-02-03|2023-11-29|
-|57|[eb2ai/My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons)|Obsidian snippets to theme and manage Checklists & Icons|12|2023-10-16|2023-10-16|
-|58|[sarvalabs/js-moi-examples](https://github.com/sarvalabs/js-moi-examples)|A collection of examples for building with the MOI JavaScript SDK|12|2023-12-01|2023-08-11|
-|59|[thecodeblockdev/john-wick-starter-file](https://github.com/thecodeblockdev/john-wick-starter-file)| ✅ CodeBlock's frontend development course starter file ❤️ |12|2023-11-13|2023-05-31|
-|60|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|11|2024-03-12|2023-11-11|
-|61|[nbd-wtf/emeralize](https://github.com/nbd-wtf/emeralize)|A lightning marketplace and lightweight learning management system.|11|2023-11-10|2023-09-05|
-|62|[r4ds/r4ds_app](https://github.com/r4ds/r4ds_app)|The R4DS Online Learning Community website|11|2024-01-15|2023-08-23|
-|63|[yasir2002/LogicWiseTips](https://github.com/yasir2002/LogicWiseTips)|Here you can find code of all the tutorials that are posted on @logicwisetips page|11|2023-11-04|2023-08-15|
-|64|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|11|2024-01-30|2023-06-27|
-|65|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|11|2024-03-22|2023-06-15|
-|66|[rango-exchange/widget-examples](https://github.com/rango-exchange/widget-examples)|Rango Widget Examples|11|2024-01-22|2023-05-21|
-|67|[Uzurch1k/project-Pronto11](https://github.com/Uzurch1k/project-Pronto11)|https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?node-id=0-1&t=ymen1Pvvf0nSfxYC-0|10|2024-03-13|2024-02-27|
-|68|[extendr/user-guide](https://github.com/extendr/user-guide)|User guide for the extendr software suite: Examples, design patterns and workflows|10|2024-03-31|2024-02-24|
+|57|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|12|2024-03-12|2023-11-11|
+|58|[eb2ai/My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons)|Obsidian snippets to theme and manage Checklists & Icons|12|2023-10-16|2023-10-16|
+|59|[sarvalabs/js-moi-examples](https://github.com/sarvalabs/js-moi-examples)|A collection of examples for building with the MOI JavaScript SDK|12|2023-12-01|2023-08-11|
+|60|[thecodeblockdev/john-wick-starter-file](https://github.com/thecodeblockdev/john-wick-starter-file)| ✅ CodeBlock's frontend development course starter file ❤️ |12|2023-11-13|2023-05-31|
+|61|[extendr/user-guide](https://github.com/extendr/user-guide)|User guide for the extendr software suite: Examples, design patterns and workflows|11|2024-04-01|2024-02-24|
+|62|[nbd-wtf/emeralize](https://github.com/nbd-wtf/emeralize)|A lightning marketplace and lightweight learning management system.|11|2023-11-10|2023-09-05|
+|63|[r4ds/r4ds_app](https://github.com/r4ds/r4ds_app)|The R4DS Online Learning Community website|11|2024-01-15|2023-08-23|
+|64|[yasir2002/LogicWiseTips](https://github.com/yasir2002/LogicWiseTips)|Here you can find code of all the tutorials that are posted on @logicwisetips page|11|2023-11-04|2023-08-15|
+|65|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|11|2024-01-30|2023-06-27|
+|66|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|11|2024-03-22|2023-06-15|
+|67|[rango-exchange/widget-examples](https://github.com/rango-exchange/widget-examples)|Rango Widget Examples|11|2024-01-22|2023-05-21|
+|68|[Uzurch1k/project-Pronto11](https://github.com/Uzurch1k/project-Pronto11)|https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?node-id=0-1&t=ymen1Pvvf0nSfxYC-0|10|2024-03-13|2024-02-27|
 |69|[ChisomJude/Hands-on-Devops-Project](https://github.com/ChisomJude/Hands-on-Devops-Project)|This is a beginner friendly project Devops, Learn by doing |10|2024-03-30|2024-01-09|
 |70|[jasonjmcghee/vlearn](https://github.com/jasonjmcghee/vlearn)|With a few words and a click of a button, quickly get an engaging, high quality video. (And optionally save and share it!)|10|2024-01-08|2024-01-08|
 |71|[WebDesignMastery/RayalPark_25-12-23](https://github.com/WebDesignMastery/RayalPark_25-12-23)|Unlock the secrets to creating a stunning hotel website with this step-by-step tutorial|10|2023-12-25|2023-12-25|
@@ -97,13 +97,13 @@
 |90|[WusThanhDieu/Source-Profile-ThanhDieu.Com-Animation](https://github.com/WusThanhDieu/Source-Profile-ThanhDieu.Com-Animation)|Share source code profile homepage thanhdieu.com animation|9|2023-10-02|2023-06-07|
 |91|[fatima-najafi/Portfolio](https://github.com/fatima-najafi/Portfolio)|This is a portfolio project that the purpose of this project is to understand how to use basic JavaScript syntax, use JavaScript to manipulate DOM elements,use JavaScript events.and also in this proje ...|9|2024-01-22|2023-06-01|
 |92|[Nahiyan0Alam/Google_Login_Clone](https://github.com/Nahiyan0Alam/Google_Login_Clone)|It's a Facebook Login Form created by me in 2019. It's will be not match with current Facebook Form. It's only for educational purpose.|8|2024-03-11|2024-03-11|
-|93|[Karthikg1908/Hospital-Management-System](https://github.com/Karthikg1908/Hospital-Management-System)|The purpose of the project entitled as “HOSPITAL MANAGEMENT SYSTEM” is to computerize the Front Office Management of Hospital to develop software which is user friendly simple, fast, and cost – effect ...|8|2024-03-03|2024-01-26|
-|94|[InfanceTony-cs22/CSS](https://github.com/InfanceTony-cs22/CSS)|Learning-CSS|8|2023-10-30|2023-09-25|
-|95|[zhou-tao/vitepress-theme-me](https://github.com/zhou-tao/vitepress-theme-me)|:books: vitepress theme for personal website.|8|2024-03-30|2023-08-28|
-|96|[vsmidhun21/portfolio](https://github.com/vsmidhun21/portfolio)|Welcome to my portfolio website, where I invite you to explore a curated collection of my work and learn more about my skills, experiences, and creative journey. This digital showcase serves as a wind ...|8|2024-02-05|2023-08-20|
-|97|[rathena/user-guides](https://github.com/rathena/user-guides)|A collection of user-submitted guides in markdown format, for both easy-reading and for automated generation via mkdocs.|8|2024-01-08|2023-04-03|
-|98|[neuromaancer/everforest_collection](https://github.com/neuromaancer/everforest_collection)|My everforest theme collection for various tools|7|2024-02-12|2024-02-03|
-|99|[tajulafreen/50Projects-HTML-CSS-JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)|This repo is collection of 50 exciting and diverse projects that showcase the power of HTML, CSS, and JavaScript in creating captivating animations and transitions. These projects are designed to demo ...|7|2024-02-10|2023-12-05|
+|93|[neuromaancer/everforest_collection](https://github.com/neuromaancer/everforest_collection)|My everforest theme collection for various tools|8|2024-02-12|2024-02-03|
+|94|[Karthikg1908/Hospital-Management-System](https://github.com/Karthikg1908/Hospital-Management-System)|The purpose of the project entitled as “HOSPITAL MANAGEMENT SYSTEM” is to computerize the Front Office Management of Hospital to develop software which is user friendly simple, fast, and cost – effect ...|8|2024-03-03|2024-01-26|
+|95|[tajulafreen/50Projects-HTML-CSS-JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)|This repo is collection of 50 exciting and diverse projects that showcase the power of HTML, CSS, and JavaScript in creating captivating animations and transitions. These projects are designed to demo ...|8|2024-02-10|2023-12-05|
+|96|[InfanceTony-cs22/CSS](https://github.com/InfanceTony-cs22/CSS)|Learning-CSS|8|2023-10-30|2023-09-25|
+|97|[zhou-tao/vitepress-theme-me](https://github.com/zhou-tao/vitepress-theme-me)|:books: vitepress theme for personal website.|8|2024-03-30|2023-08-28|
+|98|[vsmidhun21/portfolio](https://github.com/vsmidhun21/portfolio)|Welcome to my portfolio website, where I invite you to explore a curated collection of my work and learn more about my skills, experiences, and creative journey. This digital showcase serves as a wind ...|8|2024-02-05|2023-08-20|
+|99|[rathena/user-guides](https://github.com/rathena/user-guides)|A collection of user-submitted guides in markdown format, for both easy-reading and for automated generation via mkdocs.|8|2024-01-08|2023-04-03|
 |100|[ViktorSvertoka/goit-advancedjs-hw-03](https://github.com/ViktorSvertoka/goit-advancedjs-hw-03)|Homework for the course JavaScript📒 ---HTTP Requests and Fetch API---|7|2023-11-08|2023-11-01|
 |101|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|7|2024-03-31|2023-10-16|
 |102|[rcalixte/wayland-book](https://github.com/rcalixte/wayland-book)|PDF version of Drew DeVault's Wayland Book from https://wayland-book.com/|7|2024-02-12|2023-10-10|

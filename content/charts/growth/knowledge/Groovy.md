@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -55,7 +55,7 @@
 |48|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|7|0|2024-03-22|
 |49|[dseeley/ansible_vault_pipe](https://github.com/dseeley/ansible_vault_pipe)|An Ansible action plugin to perform ansible-vault encrypt/decrypt operations inside a playbook.  Can use either user-provided id/pass, or can use already-loaded vault secrets.|2|0|2023-10-08|
 |50|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|0|2023-12-06|
-|51|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|72|0|2023-12-05|
+|51|[cirulls/hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)|Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing|71|0|2023-12-05|
 |52|[camunda-community-hub/camunda-jenkins-shared-library](https://github.com/camunda-community-hub/camunda-jenkins-shared-library)|Camunda community Jenkins Shared Library|8|0|2023-12-15|
 |53|[apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib)|Apache Maven Jenkins Shared Libraries|7|0|2024-01-30|
 |54|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|279|0|2024-03-28|
@@ -78,9 +78,8 @@
 |71|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|0|2024-03-23|
 |72|[epam/edp-library-stages](https://github.com/epam/edp-library-stages)|A Jenkins shared-library for the reference EDP stages|3|0|2023-11-02|
 |73|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|0|2024-03-24|
-|74|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|43|0|2023-10-01|
-|75|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2024-03-03|
-|76|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|323|0|2023-10-31|
+|74|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|0|2024-03-03|
+|75|[samrocketman/jenkins-bootstrap-shared](https://github.com/samrocketman/jenkins-bootstrap-shared)|Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.|323|0|2023-10-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

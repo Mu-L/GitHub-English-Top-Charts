@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Python
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[databricks/dbrx](https://github.com/databricks/dbrx)|Code examples and resources for DBRX, a large language model developed by Databricks|1645|274|2024-03-31|
-|2|[WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)|Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information|7328|170|2024-03-31|
-|3|[xtekky/gpt4free](https://github.com/xtekky/gpt4free)|The official gpt4free repository   various collection of powerful language models|55599|151|2024-03-30|
-|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|A collective list of free APIs|288264|98|2024-03-27|
-|5|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|249958|96|2024-03-12|
-|6|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|All Algorithms implemented in Python|177160|63|2024-03-29|
-|7|[vinta/awesome-python](https://github.com/vinta/awesome-python)|An opinionated list of awesome Python frameworks, libraries, software and resources.|202542|57|2024-03-28|
-|8|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|6982|47|2024-03-29|
-|9|[facebookresearch/jepa](https://github.com/facebookresearch/jepa)|PyTorch code and models for V-JEPA self-supervised learning from video.|2233|46|2024-03-29|
-|10|[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)|Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复|17470|45|2024-02-29|
-|11|[dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)|Advanced Python Mastery (course by @dabeaz)|10246|40|2024-02-16|
-|12|[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)|Examples in the MLX framework|4715|38|2024-03-30|
-|13|[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|62918|38|2024-03-27|
-|14|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8185|35|2024-03-26|
-|15|[microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)|A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.|4102|33|2024-03-20|
-|16|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|34372|31|2024-03-07|
-|17|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3067|30|2024-03-25|
-|18|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|83941|29|2024-03-31|
-|19|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5177|28|2024-03-30|
-|20|[tensorflow/models](https://github.com/tensorflow/models)|Models and examples built with TensorFlow|76528|26|2024-03-27|
+|1|[databricks/dbrx](https://github.com/databricks/dbrx)|Code examples and resources for DBRX, a large language model developed by Databricks|1748|250|2024-04-01|
+|2|[WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)|Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information|7353|167|2024-03-31|
+|3|[xtekky/gpt4free](https://github.com/xtekky/gpt4free)|The official gpt4free repository   various collection of powerful language models|55843|151|2024-03-30|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|A collective list of free APIs|288423|98|2024-03-27|
+|5|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|250095|96|2024-03-12|
+|6|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|All Algorithms implemented in Python|177190|63|2024-03-29|
+|7|[vinta/awesome-python](https://github.com/vinta/awesome-python)|An opinionated list of awesome Python frameworks, libraries, software and resources.|202653|57|2024-03-28|
+|8|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|6990|46|2024-03-29|
+|9|[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)|Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复|17477|45|2024-02-29|
+|10|[facebookresearch/jepa](https://github.com/facebookresearch/jepa)|PyTorch code and models for V-JEPA self-supervised learning from video.|2239|45|2024-03-29|
+|11|[dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)|Advanced Python Mastery (course by @dabeaz)|10251|39|2024-02-16|
+|12|[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|62947|38|2024-03-27|
+|13|[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)|Examples in the MLX framework|4723|37|2024-04-01|
+|14|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8190|35|2024-03-26|
+|15|[microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)|A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.|4106|33|2024-03-20|
+|16|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|34393|31|2024-03-07|
+|17|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3080|30|2024-04-01|
+|18|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|83975|29|2024-03-31|
+|19|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5196|28|2024-03-30|
+|20|[tensorflow/models](https://github.com/tensorflow/models)|Models and examples built with TensorFlow|76529|26|2024-03-27|
 |21|[pyscript/pyscript](https://github.com/pyscript/pyscript)|Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2|17402|23|2024-03-28|
-|22|[hustvl/Vim](https://github.com/hustvl/Vim)|Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|1706|22|2024-02-22|
-|23|[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|56294|21|2024-03-31|
-|24|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1388|20|2024-03-29|
-|25|[sczhou/CodeFormer](https://github.com/sczhou/CodeFormer)|[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer|12998|20|2024-03-30|
-|26|[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)|[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation|9653|20|2024-02-11|
-|27|[Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may  ...|29991|19|2024-03-28|
-|28|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|A curated list of awesome Machine Learning frameworks, libraries and software.|63214|18|2024-03-31|
-|29|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3825|18|2024-02-26|
-|30|[iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)|AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.|4773|17|2024-03-30|
-|31|[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)|Make bilingual epub books Using AI translate|6757|17|2024-02-29|
-|32|[RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)|Awesome list of open-source startup alternatives to well-known SaaS products 🚀|14973|17|2024-03-24|
-|33|[voloviktarasewu/darkweb-tourism](https://github.com/voloviktarasewu/darkweb-tourism)|A verified list of darknet markets and services with links for educational reference.|1495|16|2024-03-31|
-|34|[gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)|Comprehensive Python Cheatsheet|35195|16|2024-03-28|
-|35|[tobojah/darkweb-now](https://github.com/tobojah/darkweb-now)|A verified list of darknet markets and services with links for educational reference.|1498|16|2024-03-30|
-|36|[chubin/cheat.sh](https://github.com/chubin/cheat.sh)|the only cheat sheet you need|37307|15|2023-12-11|
-|37|[ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)|👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀|5637|15|2024-03-27|
-|38|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|34958|15|2024-01-30|
-|39|[charlax/professional-programming](https://github.com/charlax/professional-programming)|A collection of learning resources for curious software engineers|44935|15|2024-03-25|
-|40|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3099|14|2024-03-30|
-|41|[MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus)|Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN|2588|14|2024-01-31|
-|42|[decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course)|🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica   An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin   WIP...|334|14|2024-03-27|
-|43|[PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)|Video-LLaVA: Learning United Visual Representation by Alignment Before Projection|2231|14|2024-03-14|
-|44|[OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)|[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.|4301|14|2024-03-17|
-|45|[isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)|The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++|41314|13|2024-03-11|
-|46|[rotemweiss57/gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper)|GPT based autonomous agent designed to create personalized newspapers tailored to user preferences. |913|13|2024-03-06|
-|47|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit written in Python.|29064|12|2024-03-29|
+|22|[hustvl/Vim](https://github.com/hustvl/Vim)|Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|1717|22|2024-02-22|
+|23|[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|56317|21|2024-03-31|
+|24|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1391|20|2024-03-29|
+|25|[sczhou/CodeFormer](https://github.com/sczhou/CodeFormer)|[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer|13029|20|2024-03-30|
+|26|[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)|[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation|9672|20|2024-04-01|
+|27|[Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may  ...|30010|19|2024-03-28|
+|28|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|A curated list of awesome Machine Learning frameworks, libraries and software.|63233|18|2024-03-31|
+|29|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3834|18|2024-02-26|
+|30|[iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)|AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.|4781|17|2024-03-30|
+|31|[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)|Make bilingual epub books Using AI translate|6759|17|2024-02-29|
+|32|[RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)|Awesome list of open-source startup alternatives to well-known SaaS products 🚀|14975|17|2024-03-24|
+|33|[voloviktarasewu/darkweb-tourism](https://github.com/voloviktarasewu/darkweb-tourism)|A verified list of darknet markets and services with links for educational reference.|1489|16|2024-04-01|
+|34|[gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)|Comprehensive Python Cheatsheet|35199|16|2024-03-28|
+|35|[tobojah/darkweb-now](https://github.com/tobojah/darkweb-now)|A verified list of darknet markets and services with links for educational reference.|1490|16|2024-03-30|
+|36|[chubin/cheat.sh](https://github.com/chubin/cheat.sh)|the only cheat sheet you need|37312|15|2023-12-11|
+|37|[ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)|👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀|5644|15|2024-03-27|
+|38|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|34964|15|2024-01-30|
+|39|[decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course)|🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica   An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin   WIP...|366|15|2024-03-27|
+|40|[charlax/professional-programming](https://github.com/charlax/professional-programming)|A collection of learning resources for curious software engineers|44949|15|2024-03-25|
+|41|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3110|14|2024-03-30|
+|42|[MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus)|Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN|2594|14|2024-01-31|
+|43|[PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)|Video-LLaVA: Learning United Visual Representation by Alignment Before Projection|2238|14|2024-03-14|
+|44|[OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)|[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.|4309|14|2024-03-17|
+|45|[isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)|The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++|41319|13|2024-04-01|
+|46|[rotemweiss57/gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper)|GPT based autonomous agent designed to create personalized newspapers tailored to user preferences. |927|13|2024-03-06|
+|47|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit written in Python.|29073|12|2024-03-29|
 |48|[SkalskiP/courses](https://github.com/SkalskiP/courses)|This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)|4415|12|2024-02-23|
-|49|[openai/gym](https://github.com/openai/gym)|A toolkit for developing and comparing reinforcement learning algorithms.|33773|12|2024-02-23|
-|50|[openai/gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|20947|11|2024-01-26|
-|51|[facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)|FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.|26119|11|2023-11-20|
-|52|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调|4179|11|2023-10-30|
+|49|[openai/gym](https://github.com/openai/gym)|A toolkit for developing and comparing reinforcement learning algorithms.|33774|12|2024-02-23|
+|50|[openai/gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|20953|11|2024-01-26|
+|51|[facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)|FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.|26121|11|2023-11-20|
+|52|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调|4184|11|2023-10-30|
 |53|[tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet)|A verified list of darknet markets and services with links for educational reference.|1468|11|2024-03-19|
-|54|[microsoft/qlib](https://github.com/microsoft/qlib)|Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to ...|14030|11|2024-03-25|
-|55|[sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)|Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.|22266|11|2024-02-16|
-|56|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.|21424|11|2024-03-17|
+|54|[microsoft/qlib](https://github.com/microsoft/qlib)|Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to ...|14037|11|2024-03-25|
+|55|[sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)|Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.|22264|11|2024-02-16|
+|56|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.|21434|11|2024-03-17|
 |57|[OrionStarAI/Orion](https://github.com/OrionStarAI/Orion)|Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Ori ...|744|10|2024-03-26|
-|58|[onion-checks/onion-link-checking](https://github.com/onion-checks/onion-link-checking)|#1 TRUSTED 2024 list of darknet markets. Check the availability of onion site and get List of Darknet Markets what works.|1328|10|2024-03-29|
-|59|[yago-21/onion-actual-list-2024](https://github.com/yago-21/onion-actual-list-2024)|A verified list of darknet markets and services with links for educational reference.|697|10|2024-03-28|
-|60|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|10668|10|2024-01-31|
-|61|[iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops)|Learn Python from DevOps Engineer point of you.|1755|10|2024-03-10|
-|62|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|29310|9|2024-03-13|
-|63|[Luodian/Otter](https://github.com/Luodian/Otter)|🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.|3415|9|2024-03-05|
-|64|[iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm)|Seamlessly integrate LLMs into scikit-learn.|2910|9|2024-03-01|
-|65|[microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)|A collection of familiar, friendly, and modern emoji from Microsoft|8636|9|2024-01-17|
-|66|[keon/algorithms](https://github.com/keon/algorithms)|Minimal examples of data structures and algorithms in Python|23479|9|2024-03-09|
-|67|[faif/python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|39262|9|2023-12-18|
-|68|[facebookresearch/ijepa](https://github.com/facebookresearch/ijepa)|Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive archite ...|2592|9|2023-11-28|
-|69|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|511|9|2024-03-31|
-|70|[eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin ...|23073|9|2023-10-15|
-|71|[pytorch/examples](https://github.com/pytorch/examples)|A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.|21614|8|2024-03-24|
-|72|[OpenBMB/BMTools](https://github.com/OpenBMB/BMTools)|Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins|2823|8|2023-12-05|
-|73|[skfolio/skfolio](https://github.com/skfolio/skfolio)|Python library for portfolio optimization built on top of scikit-learn|847|8|2024-03-18|
-|74|[donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)|Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW ...|26362|8|2024-03-20|
-|75|[tata-chka/verified-tor-sites](https://github.com/tata-chka/verified-tor-sites)|A verified list of darknet markets and services with links for educational reference.|1495|8|2024-03-31|
-|76|[ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)|🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...|19511|8|2024-03-28|
-|77|[google/style-aligned](https://github.com/google/style-aligned)|Official code for "Style Aligned Image Generation via Shared Attention"|1041|8|2023-12-29|
-|78|[trekhleb/learn-python](https://github.com/trekhleb/learn-python)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|15625|8|2024-02-17|
-|79|[luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)|🐧 A list of awesome Linux softwares |21027|8|2024-03-26|
-|80|[WisdomShell/codeshell](https://github.com/WisdomShell/codeshell)|A series of code large language models developed by PKU-KCL|1521|8|2024-02-28|
-|81|[ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml)|Machine learning, in numpy|14527|8|2023-10-29|
-|82|[stas00/ml-engineering](https://github.com/stas00/ml-engineering)|Machine Learning Engineering Open Book|9568|7|2024-03-27|
-|83|[getredash/redash](https://github.com/getredash/redash)|Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.|24799|7|2024-03-29|
-|84|[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|21450|7|2024-03-25|
-|85|[RasaHQ/rasa](https://github.com/RasaHQ/rasa)|💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants|17818|7|2024-03-29|
-|86|[drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)|Guide to securing and improving privacy on macOS|20800|7|2024-03-28|
-|87|[AkariAsai/self-rag](https://github.com/AkariAsai/self-rag)|This includes the original implementation of SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.|1297|7|2024-03-19|
-|88|[eth-sri/lmql](https://github.com/eth-sri/lmql)|A language for constraint-guided and efficient LLM programming.|3226|7|2024-03-29|
-|89|[t3l3machus/Villain](https://github.com/t3l3machus/Villain)|Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn ...|3539|7|2024-03-11|
-|90|[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)|This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto ...|2387|7|2024-03-28|
-|91|[protectai/ai-exploits](https://github.com/protectai/ai-exploits)|A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities |1192|7|2024-03-25|
-|92|[dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python)|Practical Python Programming (course by @dabeaz)|9582|7|2024-02-25|
-|93|[geekcomputers/Python](https://github.com/geekcomputers/Python)|My Python Examples|29453|7|2024-03-22|
-|94|[Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)|Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。|8654|6|2024-03-30|
-|95|[rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)|An open access book on scientific visualization using python and matplotlib|9999|6|2024-01-22|
-|96|[hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)|A paper list of object detection using deep learning.|11211|6|2024-02-12|
+|58|[onion-checks/onion-link-checking](https://github.com/onion-checks/onion-link-checking)|#1 TRUSTED 2024 list of darknet markets. Check the availability of onion site and get List of Darknet Markets what works.|1323|10|2024-03-29|
+|59|[yago-21/onion-actual-list-2024](https://github.com/yago-21/onion-actual-list-2024)|A verified list of darknet markets and services with links for educational reference.|693|10|2024-03-28|
+|60|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|10674|10|2024-01-31|
+|61|[iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops)|Learn Python from DevOps Engineer point of you.|1757|10|2024-03-10|
+|62|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|29311|9|2024-03-13|
+|63|[Luodian/Otter](https://github.com/Luodian/Otter)|🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.|3419|9|2024-03-05|
+|64|[iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm)|Seamlessly integrate LLMs into scikit-learn.|2909|9|2024-04-01|
+|65|[microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)|A collection of familiar, friendly, and modern emoji from Microsoft|8642|9|2024-01-17|
+|66|[keon/algorithms](https://github.com/keon/algorithms)|Minimal examples of data structures and algorithms in Python|23485|9|2024-03-09|
+|67|[faif/python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|39268|9|2023-12-18|
+|68|[facebookresearch/ijepa](https://github.com/facebookresearch/ijepa)|Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive archite ...|2594|9|2023-11-28|
+|69|[eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin ...|23079|9|2023-10-15|
+|70|[pytorch/examples](https://github.com/pytorch/examples)|A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.|21617|8|2024-04-01|
+|71|[OpenBMB/BMTools](https://github.com/OpenBMB/BMTools)|Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins|2825|8|2023-12-05|
+|72|[skfolio/skfolio](https://github.com/skfolio/skfolio)|Python library for portfolio optimization built on top of scikit-learn|847|8|2024-03-18|
+|73|[donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)|Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW ...|26367|8|2024-03-20|
+|74|[tata-chka/verified-tor-sites](https://github.com/tata-chka/verified-tor-sites)|A verified list of darknet markets and services with links for educational reference.|1486|8|2024-04-01|
+|75|[ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)|🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...|19520|8|2024-03-28|
+|76|[google/style-aligned](https://github.com/google/style-aligned)|Official code for "Style Aligned Image Generation via Shared Attention"|1043|8|2023-12-29|
+|77|[trekhleb/learn-python](https://github.com/trekhleb/learn-python)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|15628|8|2024-02-17|
+|78|[luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)|🐧 A list of awesome Linux softwares |21032|8|2024-03-26|
+|79|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|517|8|2024-04-01|
+|80|[WisdomShell/codeshell](https://github.com/WisdomShell/codeshell)|A series of code large language models developed by PKU-KCL|1524|8|2024-02-28|
+|81|[ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml)|Machine learning, in numpy|14528|8|2023-10-29|
+|82|[stas00/ml-engineering](https://github.com/stas00/ml-engineering)|Machine Learning Engineering Open Book|9573|7|2024-03-27|
+|83|[getredash/redash](https://github.com/getredash/redash)|Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.|24801|7|2024-04-01|
+|84|[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|21461|7|2024-03-31|
+|85|[RasaHQ/rasa](https://github.com/RasaHQ/rasa)|💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants|17824|7|2024-03-29|
+|86|[drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)|Guide to securing and improving privacy on macOS|20801|7|2024-03-28|
+|87|[AkariAsai/self-rag](https://github.com/AkariAsai/self-rag)|This includes the original implementation of SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.|1301|7|2024-03-19|
+|88|[eth-sri/lmql](https://github.com/eth-sri/lmql)|A language for constraint-guided and efficient LLM programming.|3232|7|2024-03-29|
+|89|[t3l3machus/Villain](https://github.com/t3l3machus/Villain)|Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn ...|3541|7|2024-03-11|
+|90|[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)|This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto ...|2398|7|2024-03-28|
+|91|[protectai/ai-exploits](https://github.com/protectai/ai-exploits)|A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities |1195|7|2024-03-25|
+|92|[dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python)|Practical Python Programming (course by @dabeaz)|9586|7|2024-02-25|
+|93|[geekcomputers/Python](https://github.com/geekcomputers/Python)|My Python Examples|29468|7|2024-03-22|
+|94|[Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)|Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。|8663|6|2024-03-30|
+|95|[rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)|An open access book on scientific visualization using python and matplotlib|10000|6|2024-01-22|
+|96|[hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)|A paper list of object detection using deep learning.|11212|6|2024-02-12|
 |97|[miloyip/game-programmer](https://github.com/miloyip/game-programmer)|A Study Path for Game Programmer|17161|6|2024-03-28|
-|98|[facundoolano/software-papers](https://github.com/facundoolano/software-papers)|📚 A curated list of papers for Software Engineers|3798|6|2024-03-14|
-|99|[vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox)|文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）|3048|6|2024-03-29|
-|100|[openai/baselines](https://github.com/openai/baselines)|OpenAI Baselines: high-quality implementations of reinforcement learning algorithms|15280|6|2023-11-21|
+|98|[facundoolano/software-papers](https://github.com/facundoolano/software-papers)|📚 A curated list of papers for Software Engineers|3800|6|2024-03-14|
+|99|[vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox)|文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）|3063|6|2024-03-29|
+|100|[openai/baselines](https://github.com/openai/baselines)|OpenAI Baselines: high-quality implementations of reinforcement learning algorithms|15281|6|2023-11-21|
 |101|[YPAndrew0907/Animal-Simulation-game](https://github.com/YPAndrew0907/Animal-Simulation-game)|Dive into Nature Simulation v1, a dynamic ecosystem game. Experience life's balance with interactive controls and stunning visuals of flora and fauna. Engage, learn, and enjoy nature's complexity in a ...|337|5|2024-01-27|
-|102|[lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)|🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch|1891|5|2024-03-30|
-|103|[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)|A collection of IPA files from many different sources, for TrollStore!|2465|5|2024-03-30|
-|104|[kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider)|INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源 ...|7083|5|2024-02-19|
-|105|[skills/secure-code-game](https://github.com/skills/secure-code-game)|A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.|1822|5|2024-03-29|
-|106|[matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets)|Official Matplotlib cheat sheets|7233|5|2024-03-05|
-|107|[facebookresearch/dino](https://github.com/facebookresearch/dino)|PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO|5776|5|2024-02-15|
-|108|[rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON)|[CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On|561|5|2024-03-01|
-|109|[lizhe00/AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians)|Code of [CVPR 2024] "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"|662|5|2024-03-21|
-|110|[hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)|A list of all named GANs!|13966|5|2023-10-06|
-|111|[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)|The official source code repository for the calibre ebook manager|18131|5|2024-03-31|
-|112|[DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)|PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. |7744|5|2024-03-22|
-|113|[wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|15670|5|2024-03-31|
-|114|[thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)|An Open-Source Framework for Prompt-Learning.|4126|5|2024-01-16|
-|115|[invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer)|Meta-Transformer for Unified Multimodal Learning|1425|5|2023-12-05|
-|116|[donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)|A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.|12101|4|2024-03-12|
+|102|[lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)|🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch|1894|5|2024-03-30|
+|103|[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)|A collection of IPA files from many different sources, for TrollStore!|2469|5|2024-04-01|
+|104|[kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider)|INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源 ...|7084|5|2024-02-19|
+|105|[skills/secure-code-game](https://github.com/skills/secure-code-game)|A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.|1823|5|2024-03-29|
+|106|[matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets)|Official Matplotlib cheat sheets|7235|5|2024-03-05|
+|107|[facebookresearch/dino](https://github.com/facebookresearch/dino)|PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO|5778|5|2024-02-15|
+|108|[rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON)|[CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On|568|5|2024-03-01|
+|109|[lizhe00/AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians)|Code of [CVPR 2024] "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"|665|5|2024-03-21|
+|110|[hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)|A list of all named GANs!|13969|5|2023-10-06|
+|111|[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)|The official source code repository for the calibre ebook manager|18138|5|2024-04-01|
+|112|[DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)|PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. |7750|5|2024-04-01|
+|113|[wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|15678|5|2024-04-01|
+|114|[thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)|An Open-Source Framework for Prompt-Learning.|4127|5|2024-01-16|
+|115|[invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer)|Meta-Transformer for Unified Multimodal Learning|1426|5|2023-12-05|
+|116|[donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)|A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.|12102|4|2024-03-12|
 |117|[yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)|Download all your kindle books script.|2345|4|2024-03-24|
-|118|[apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)|DeDRM tools for ebooks|14165|4|2024-03-15|
-|119|[fortra/impacket](https://github.com/fortra/impacket)|Impacket is a collection of Python classes for working with network protocols.|12589|4|2024-03-28|
-|120|[AntixK/PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE)|A Collection of Variational Autoencoders (VAE) in PyTorch.|5893|4|2023-10-16|
-|121|[Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam)|一个攻防知识仓库 Red Teaming and Offensive Security|3208|4|2024-03-24|
+|118|[apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)|DeDRM tools for ebooks|14167|4|2024-03-15|
+|119|[fortra/impacket](https://github.com/fortra/impacket)|Impacket is a collection of Python classes for working with network protocols.|12590|4|2024-03-28|
+|120|[AntixK/PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE)|A Collection of Variational Autoencoders (VAE) in PyTorch.|5898|4|2023-10-16|
+|121|[Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam)|一个攻防知识仓库 Red Teaming and Offensive Security|3209|4|2024-03-24|
 |122|[LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)|LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills|602|4|2024-02-01|
-|123|[DmitryRyumin/ICCV-2023-Papers](https://github.com/DmitryRyumin/ICCV-2023-Papers)|ICCV 2023 Papers: Discover cutting-edge research from ICCV 2023, the leading computer vision conference. Stay updated on the latest in computer vision and deep learning, with code included. ⭐ support  ...|848|4|2024-03-21|
-|124|[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.|2813|4|2024-01-22|
+|123|[DmitryRyumin/ICCV-2023-Papers](https://github.com/DmitryRyumin/ICCV-2023-Papers)|ICCV 2023 Papers: Discover cutting-edge research from ICCV 2023, the leading computer vision conference. Stay updated on the latest in computer vision and deep learning, with code included. ⭐ support  ...|849|4|2024-03-21|
+|124|[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.|2821|4|2024-01-22|
 |125|[microsoft/ToRA](https://github.com/microsoft/ToRA)|ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].|800|4|2024-02-22|
 |126|[poe-platform/server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start)|Tutorial for Poe server bots|1245|4|2024-03-25|
-|127|[yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)|Anomaly detection related books, papers, videos, and toolboxes|7804|4|2023-11-17|
-|128|[zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator)|Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/|4022|4|2024-03-22|
-|129|[acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)|Standard and Advanced Demos for learn.cantrill.io courses|5163|4|2024-03-20|
-|130|[Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|Open Machine Learning Course|9360|4|2024-01-01|
+|127|[yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)|Anomaly detection related books, papers, videos, and toolboxes|7805|4|2023-11-17|
+|128|[zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator)|Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/|4039|4|2024-04-01|
+|129|[acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)|Standard and Advanced Demos for learn.cantrill.io courses|5164|4|2024-03-20|
+|130|[Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|Open Machine Learning Course|9362|4|2024-01-01|
 |131|[penghao-wu/vstar](https://github.com/penghao-wu/vstar)|PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs"|422|4|2024-01-07|
-|132|[google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)|Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"|5857|4|2024-01-23|
+|132|[google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)|Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"|5858|4|2024-01-23|
 |133|[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)|A Calibre plugin to translate ebook into a specified language.|1394|4|2024-03-29|
-|134|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|A collaborative list of public APIs for developers|2676|4|2024-03-29|
-|135|[huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)|Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:|4871|3|2024-02-15|
+|134|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|A collaborative list of public APIs for developers|2678|4|2024-04-01|
+|135|[huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)|Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:|4873|3|2024-02-15|
 |136|[SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate)|translate scientific papers in latex, especially arxiv papers|960|3|2024-03-31|
-|137|[lucidrains/x-transformers](https://github.com/lucidrains/x-transformers)|A simple but complete full-attention transformer with a set of promising experimental features from various papers|4059|3|2024-03-28|
-|138|[mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose)|[AAAI 2024] Follow-Your-Pose: This repo is the official implementation of "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos"   |945|3|2024-03-20|
-|139|[xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)|定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com|5477|3|2024-03-27|
+|137|[lucidrains/x-transformers](https://github.com/lucidrains/x-transformers)|A simple but complete full-attention transformer with a set of promising experimental features from various papers|4065|3|2024-03-28|
+|138|[mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose)|[AAAI 2024] Follow-Your-Pose: This repo is the official implementation of "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos"   |947|3|2024-03-20|
+|139|[xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)|定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com|5482|3|2024-03-27|
 |140|[Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen)|A generative and self-guided robotic agent that endlessly propose and master new skills.|440|3|2024-03-19|
-|141|[nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)|ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议|1182|3|2023-12-23|
-|142|[shenweichen/DeepCTR](https://github.com/shenweichen/DeepCTR)|Easy-to-use,Modular and Extendible package of deep-learning based CTR models .|7308|3|2024-01-31|
-|143|[facebookresearch/mmf](https://github.com/facebookresearch/mmf)|A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)|5412|3|2024-03-03|
-|144|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|M3U Playlist for free TV channels|3522|3|2024-03-30|
-|145|[EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking)|:star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.   Github仓库排名，每日自动更新|5159|3|2024-03-31|
-|146|[wiseodd/generative-models](https://github.com/wiseodd/generative-models)|Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.|7244|3|2024-03-24|
-|147|[rossant/awesome-math](https://github.com/rossant/awesome-math)|A curated list of awesome mathematics resources|8103|3|2024-03-29|
-|148|[firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning)|A curated list of practical financial machine learning tools and applications.|5442|3|2024-03-31|
-|149|[chapyter/chapyter](https://github.com/chapyter/chapyter)|Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks|788|3|2023-10-20|
+|141|[nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)|ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议|1183|3|2023-12-23|
+|142|[shenweichen/DeepCTR](https://github.com/shenweichen/DeepCTR)|Easy-to-use,Modular and Extendible package of deep-learning based CTR models .|7312|3|2024-01-31|
+|143|[facebookresearch/mmf](https://github.com/facebookresearch/mmf)|A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)|5413|3|2024-03-03|
+|144|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|M3U Playlist for free TV channels|3543|3|2024-03-30|
+|145|[EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking)|:star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.   Github仓库排名，每日自动更新|5165|3|2024-04-01|
+|146|[wiseodd/generative-models](https://github.com/wiseodd/generative-models)|Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.|7246|3|2024-03-24|
+|147|[rossant/awesome-math](https://github.com/rossant/awesome-math)|A curated list of awesome mathematics resources|8106|3|2024-03-29|
+|148|[firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning)|A curated list of practical financial machine learning tools and applications.|5444|3|2024-04-01|
+|149|[chapyter/chapyter](https://github.com/chapyter/chapyter)|Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks|789|3|2023-10-20|
 |150|[tflearn/tflearn](https://github.com/tflearn/tflearn)|Deep learning library featuring a higher-level API for TensorFlow.|9606|3|2023-12-02|
 |151|[OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)|a comprehensive collection of video game tech analysis resources|711|3|2023-12-12|
-|152|[openvinotoolkit/anomalib](https://github.com/openvinotoolkit/anomalib)|An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.|3052|3|2024-03-30|
+|152|[openvinotoolkit/anomalib](https://github.com/openvinotoolkit/anomalib)|An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.|3055|3|2024-04-01|
 |153|[mwouts/jupytext](https://github.com/mwouts/jupytext)|Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts|6388|3|2024-03-24|
-|154|[MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)|Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学|8607|3|2024-03-31|
+|154|[MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)|Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学|8610|3|2024-03-31|
 |155|[OFA-Sys/OFA](https://github.com/OFA-Sys/OFA)|Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework|2306|3|2023-10-25|
-|156|[FedML-AI/FedML](https://github.com/FedML-AI/FedML)|FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on a ...|4031|3|2024-03-30|
+|156|[FedML-AI/FedML](https://github.com/FedML-AI/FedML)|FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on a ...|4034|3|2024-04-01|
 |157|[FederatedAI/FATE](https://github.com/FederatedAI/FATE)|An Industrial Grade Federated Learning Framework|5475|3|2024-03-08|
 |158|[lauris/awesome-scala](https://github.com/lauris/awesome-scala)|A community driven list of useful Scala libraries, frameworks and software.|8916|3|2024-01-19|
-|159|[adap/flower](https://github.com/adap/flower)|Flower: A Friendly Federated Learning Framework|4041|3|2024-03-31|
+|159|[adap/flower](https://github.com/adap/flower)|Flower: A Friendly Federated Learning Framework|4045|3|2024-04-01|
 |160|[SkalskiP/awesome-foundation-and-multimodal-models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models)|👁️ + 💬 + 🎧  = 🤖 Curated list of top foundation and multimodal models! [Paper + Code + Examples + Tutorials]|488|3|2024-02-29|
-|161|[codefuse-ai/CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model)|DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!|513|3|2024-01-23|
-|162|[netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook)|The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.|476|3|2024-03-18|
-|163|[ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)|Come and join us, we need you!|7574|3|2024-03-23|
-|164|[archlinux/archinstall](https://github.com/archlinux/archinstall)|Arch Linux installer - guided, templates etc.|5562|3|2024-03-30|
+|161|[codefuse-ai/CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model)|DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!|514|3|2024-01-23|
+|162|[netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook)|The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.|477|3|2024-03-18|
+|163|[ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)|Come and join us, we need you!|7576|3|2024-03-23|
+|164|[archlinux/archinstall](https://github.com/archlinux/archinstall)|Arch Linux installer - guided, templates etc.|5565|3|2024-03-30|
 |165|[peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo)|This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.|1065|3|2024-01-30|
-|166|[uber/causalml](https://github.com/uber/causalml)|Uplift modeling and causal inference with machine learning algorithms|4711|3|2024-03-23|
-|167|[GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)|This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh ...|3609|3|2024-02-06|
-|168|[sissbruecker/linkding](https://github.com/sissbruecker/linkding)|Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.|4852|3|2024-03-31|
-|169|[KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)|Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t ...|3998|3|2023-12-12|
-|170|[dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)|深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑   Yet another computer-aided comic/manga translation tool powered by deeplearning|1936|3|2024-03-28|
-|171|[wting/autojump](https://github.com/wting/autojump)|A cd command that learns - easily navigate directories from the command line|15903|3|2023-10-14|
+|166|[uber/causalml](https://github.com/uber/causalml)|Uplift modeling and causal inference with machine learning algorithms|4713|3|2024-03-23|
+|167|[GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)|This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh ...|3617|3|2024-02-06|
+|168|[sissbruecker/linkding](https://github.com/sissbruecker/linkding)|Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.|4856|3|2024-04-01|
+|169|[KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)|Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t ...|3999|3|2023-12-12|
+|170|[dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)|深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑   Yet another computer-aided comic/manga translation tool powered by deeplearning|1942|3|2024-03-28|
+|171|[wting/autojump](https://github.com/wting/autojump)|A cd command that learns - easily navigate directories from the command line|15904|3|2023-10-14|
 |172|[DEAP/deap](https://github.com/DEAP/deap)|Distributed Evolutionary Algorithms in Python|5519|2|2024-02-02|
-|173|[executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)|Create beautiful, publication-quality books and documents from computational content.|3662|2|2024-03-25|
+|173|[executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)|Create beautiful, publication-quality books and documents from computational content.|3663|2|2024-04-01|
 |174|[tensorflow/hub](https://github.com/tensorflow/hub)|A library for transfer learning by reusing parts of TensorFlow models.|3434|2|2024-03-18|
 |175|[yihong0618/epubhv](https://github.com/yihong0618/epubhv)|Make your epub books vertical or horizontal.|444|2|2024-01-05|
-|176|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|1921|2|2024-03-19|
+|176|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|1922|2|2024-03-19|
 |177|[SirVer/ultisnips](https://github.com/SirVer/ultisnips)|UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!|7411|2|2024-03-15|
 |178|[linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n)|使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言   Auto translate Markdown files to multi languages using ChatGPT|333|2|2023-10-25|
 |179|[lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks)|Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.|4440|2|2023-10-23|
-|180|[vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)|High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)|4294|2|2024-03-07|
-|181|[bootmortis/iran-hosted-domains](https://github.com/bootmortis/iran-hosted-domains)|"Iran Hosted Domains" is a comprehensive list of Iranian domains and services that are hosted within the country.|695|2|2024-03-30|
-|182|[mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db)|Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.|931|2|2024-01-26|
+|180|[vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)|High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)|4303|2|2024-03-07|
+|181|[bootmortis/iran-hosted-domains](https://github.com/bootmortis/iran-hosted-domains)|"Iran Hosted Domains" is a comprehensive list of Iranian domains and services that are hosted within the country.|695|2|2024-04-01|
+|182|[mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db)|Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.|932|2|2024-01-26|
 |183|[coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl)|Script for downloading Coursera.org videos and naming them.|9235|2|2023-10-09|
 |184|[alibaba/FederatedScope](https://github.com/alibaba/FederatedScope)|An easy-to-use federated learning platform|1184|2|2024-03-12|
-|185|[MCG-NJU/VideoMAE](https://github.com/MCG-NJU/VideoMAE)|[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training|1188|2|2023-12-08|
-|186|[danijar/dreamerv3](https://github.com/danijar/dreamerv3)|Mastering Diverse Domains through World Models|988|2|2024-02-19|
-|187|[median-research-group/LibMTL](https://github.com/median-research-group/LibMTL)|A PyTorch Library for Multi-Task Learning|1609|2|2024-03-17|
-|188|[lightly-ai/lightly](https://github.com/lightly-ai/lightly)|A python library for self-supervised learning on images.|2720|2|2024-03-26|
-|189|[SamsungLabs/NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut)|Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction. ICCV 2023 |489|2|2023-10-20|
-|190|[databricks-academy/large-language-models](https://github.com/databricks-academy/large-language-models)|Notebooks for Large Language Models (LLMs) Specialization|663|2|2024-01-22|
-|191|[BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)|compiler learning resources collect.|1735|2|2024-03-22|
-|192|[real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy)|[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion|736|2|2024-03-21|
-|193|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|832|2|2024-03-31|
-|194|[okuvshynov/slowllama](https://github.com/okuvshynov/slowllama)|Finetune llama2-70b and codellama on MacBook Air without quantization|405|2|2024-03-28|
-|195|[microsoft/Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning)|A Unified Semi-Supervised Learning Codebase (NeurIPS'22)|1150|2|2024-03-25|
-|196|[jarun/buku](https://github.com/jarun/buku)|:bookmark: Personal mini-web in text|6091|2|2024-03-26|
-|197|[ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour)|[CoRL 2023] Robot Parkour Learning|396|2|2023-12-02|
-|198|[jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)|Multi-user server for Jupyter notebooks|7552|2|2024-03-30|
-|199|[joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)|code for Data Science From Scratch book|8271|2|2023-11-09|
-|200|[CodeWithHarry/100-days-of-code-youtube](https://github.com/CodeWithHarry/100-days-of-code-youtube)|Source code for 100 days of code python course on YouTube|456|2|2024-03-21|
+|185|[MCG-NJU/VideoMAE](https://github.com/MCG-NJU/VideoMAE)|[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training|1189|2|2023-12-08|
+|186|[danijar/dreamerv3](https://github.com/danijar/dreamerv3)|Mastering Diverse Domains through World Models|989|2|2024-02-19|
+|187|[median-research-group/LibMTL](https://github.com/median-research-group/LibMTL)|A PyTorch Library for Multi-Task Learning|1612|2|2024-03-17|
+|188|[lightly-ai/lightly](https://github.com/lightly-ai/lightly)|A python library for self-supervised learning on images.|2722|2|2024-03-26|
+|189|[databricks-academy/large-language-models](https://github.com/databricks-academy/large-language-models)|Notebooks for Large Language Models (LLMs) Specialization|665|2|2024-01-22|
+|190|[BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)|compiler learning resources collect.|1738|2|2024-03-22|
+|191|[real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy)|[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion|744|2|2024-03-21|
+|192|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|833|2|2024-04-01|
+|193|[okuvshynov/slowllama](https://github.com/okuvshynov/slowllama)|Finetune llama2-70b and codellama on MacBook Air without quantization|405|2|2024-03-28|
+|194|[microsoft/Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning)|A Unified Semi-Supervised Learning Codebase (NeurIPS'22)|1154|2|2024-03-25|
+|195|[jarun/buku](https://github.com/jarun/buku)|:bookmark: Personal mini-web in text|6097|2|2024-03-26|
+|196|[ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour)|[CoRL 2023] Robot Parkour Learning|397|2|2023-12-02|
+|197|[jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)|Multi-user server for Jupyter notebooks|7553|2|2024-04-01|
+|198|[joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)|code for Data Science From Scratch book|8272|2|2023-11-09|
+|199|[CodeWithHarry/100-days-of-code-youtube](https://github.com/CodeWithHarry/100-days-of-code-youtube)|Source code for 100 days of code python course on YouTube|457|2|2024-03-21|
+|200|[OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception)|[IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving|1043|2|2024-01-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

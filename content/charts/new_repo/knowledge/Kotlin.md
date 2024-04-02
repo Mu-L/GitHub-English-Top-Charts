@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|795|2024-03-26|2023-04-04|
-|2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|195|2024-03-25|2024-01-19|
+|1|[android/platform-samples](https://github.com/android/platform-samples)|A collection of samples of different Android OS platform APIs.|800|2024-03-26|2023-04-04|
+|2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|196|2024-03-25|2024-01-19|
 |3|[myofficework000/Jetpack-Compose-All-in-one-Guide](https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide)|Learn step by step UI development using Jetpack compose [beginners to advance]|135|2024-03-31|2023-04-11|
 |4|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|132|2024-03-28|2023-10-18|
 |5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Support document for my video series about learning to program computers from the ground up.|78|2024-03-19|2024-02-06|
-|6|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|74|2024-03-13|2024-01-08|
+|6|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|75|2024-03-13|2024-01-08|
 |7|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |71|2024-03-07|2024-01-24|
-|8|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
-|9|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|58|2024-03-28|2023-04-09|
+|8|[Clearpole/VideoYouX](https://github.com/Clearpole/VideoYouX)|VideoYouX's open source repository, welcome to pull and learn|59|2024-03-28|2023-04-09|
+|9|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
 |10|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|56|2024-03-31|2023-10-22|
 |11|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2023-12-01|2023-09-12|
 |12|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the course Kotlin Multiplatform Masterclass.|42|2024-03-26|2023-11-24|
@@ -35,15 +35,15 @@
 |28|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|18|2024-02-06|2024-01-13|
 |29|[UmairKhalid786/GuidedStepsComposeTv](https://github.com/UmairKhalid786/GuidedStepsComposeTv)|Guided Fragment replacement in compose tv, so its an effort to have something similar UI|17|2023-12-28|2023-04-06|
 |30|[anandbosedev/android-ci-demo](https://github.com/anandbosedev/android-ci-demo)|A demo of how to setup CI for Android projects with a pre-built Android toolchain container image|16|2024-03-17|2024-01-25|
-|31|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|14|2024-03-20|2023-10-24|
-|32|[alidehkhodaei/one-day-one-word](https://github.com/alidehkhodaei/one-day-one-word)|📖 Learn an english word every day|14|2023-10-31|2023-09-26|
-|33|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-26|2023-07-04|
-|34|[blueUserRed/forty-five](https://github.com/blueUserRed/forty-five)|.forty-five is a deckbuilding card game set in the wild west.  Collect and master powerful cards, battle different enemies and try not to end up six feet deep!|14|2024-03-29|2023-06-01|
+|31|[blueUserRed/forty-five](https://github.com/blueUserRed/forty-five)|.forty-five is a deckbuilding card game set in the wild west.  Collect and master powerful cards, battle different enemies and try not to end up six feet deep!|15|2024-03-29|2023-06-01|
+|32|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|14|2024-03-20|2023-10-24|
+|33|[alidehkhodaei/one-day-one-word](https://github.com/alidehkhodaei/one-day-one-word)|📖 Learn an english word every day|14|2023-10-31|2023-09-26|
+|34|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-26|2023-07-04|
 |35|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |13|2024-02-27|2024-02-26|
 |36|[DevHumbleChris/jetpack-compose-login-registration-samples](https://github.com/DevHumbleChris/jetpack-compose-login-registration-samples)|This repository contains a collection of Auth screens built using Jetpack Compose, a modern Android UI toolkit.|13|2024-01-12|2023-11-24|
 |37|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|13|2024-03-21|2023-06-15|
-|38|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|12|2024-02-22|2023-05-31|
-|39|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|11|2023-11-29|2023-11-13|
+|38|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|12|2024-04-01|2023-05-31|
+|39|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|11|2024-04-01|2023-11-13|
 |40|[FedCampus/FedKit](https://github.com/FedCampus/FedKit)|Mobile Federated Learning development kit for FedCampus|10|2024-02-03|2023-07-29|
 |41|[sunildhiman90/JetpackComposeTutorials](https://github.com/sunildhiman90/JetpackComposeTutorials)|This is a free Jetpack Compose Course. This repo contains Jetpack Compose Tutorials. Sharing my learnings about Jetpack Compose here so that they can help others.|10|2023-11-08|2023-05-21|
 |42|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |9|2024-03-06|2024-01-26|

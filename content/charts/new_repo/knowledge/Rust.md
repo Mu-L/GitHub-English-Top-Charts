@@ -1,36 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Rust
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jafioti/luminal](https://github.com/jafioti/luminal)|Deep learning at the speed of light.|1044|2024-03-29|2023-07-18|
-|2|[mfontanini/presenterm](https://github.com/mfontanini/presenterm)|A markdown terminal slideshow tool|722|2024-03-31|2023-08-27|
+|1|[jafioti/luminal](https://github.com/jafioti/luminal)|Deep learning at the speed of light.|1046|2024-04-01|2023-07-18|
+|2|[mfontanini/presenterm](https://github.com/mfontanini/presenterm)|A markdown terminal slideshow tool|725|2024-04-01|2023-08-27|
 |3|[every-day-things/citadel](https://github.com/every-day-things/citadel)|Manage your ebook library without frustrations. Calibre compatible.|671|2024-03-27|2024-01-08|
-|4|[Martichou/rquickshare](https://github.com/Martichou/rquickshare)|Rust implementation of NearbyShare/QuickShare from Android for Linux.|482|2024-03-24|2024-02-12|
+|4|[Martichou/rquickshare](https://github.com/Martichou/rquickshare)|Rust implementation of NearbyShare/QuickShare from Android for Linux.|488|2024-03-24|2024-02-12|
 |5|[ad-si/Rust-Flashcards](https://github.com/ad-si/Rust-Flashcards)|Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.|438|2024-03-27|2024-03-03|
 |6|[bkettle/message-book](https://github.com/bkettle/message-book)|make a book from imessages|286|2024-03-08|2024-01-24|
-|7|[hcavarsan/kftray](https://github.com/hcavarsan/kftray)|kubect port-forward on steroids 🚀 kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar - built with rust 🦀 and ts using tauri|266|2024-03-31|2023-11-26|
-|8|[intel/tsffs](https://github.com/intel/tsffs)|A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS|248|2024-03-28|2023-09-12|
-|9|[Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use)|Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE|227|2024-03-23|2023-05-12|
+|7|[hcavarsan/kftray](https://github.com/hcavarsan/kftray)|kubect port-forward on steroids 🚀 kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar - built with rust 🦀 and ts using tauri|277|2024-04-01|2023-11-26|
+|8|[intel/tsffs](https://github.com/intel/tsffs)|A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS|249|2024-04-01|2023-09-12|
+|9|[Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use)|Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE|229|2024-03-23|2023-05-12|
 |10|[swapneel/hnsw-rust](https://github.com/swapneel/hnsw-rust)|HNSW implementation in Rust. Reference: https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf|206|2024-03-14|2024-03-02|
-|11|[jeremychone-channel/rust-axum-course](https://github.com/jeremychone-channel/rust-axum-course)|Rust Axum Full Course code.|179|2024-01-04|2023-04-09|
-|12|[shuttle-hq/shuttlings](https://github.com/shuttle-hq/shuttlings)|Collection of code challenges for learning backend development in Rust|156|2024-02-01|2024-01-11|
-|13|[ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)|Tutorial for Porting PyTorch Transformer Models to Candle (Rust)|156|2024-03-23|2023-10-13|
+|11|[jeremychone-channel/rust-axum-course](https://github.com/jeremychone-channel/rust-axum-course)|Rust Axum Full Course code.|180|2024-01-04|2023-04-09|
+|12|[ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)|Tutorial for Porting PyTorch Transformer Models to Candle (Rust)|158|2024-03-23|2023-10-13|
+|13|[shuttle-hq/shuttlings](https://github.com/shuttle-hq/shuttlings)|Collection of code challenges for learning backend development in Rust|156|2024-02-01|2024-01-11|
 |14|[paradigmxyz/mev-share-rs](https://github.com/paradigmxyz/mev-share-rs)|Rust client library for Flashbots MEV-share|154|2024-01-10|2023-04-23|
 |15|[mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust)|A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.|149|2024-01-28|2023-05-05|
-|16|[Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book)|A simple tool for creating modern online books in pure typst.|129|2024-03-31|2023-05-06|
+|16|[Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book)|A simple tool for creating modern online books in pure typst.|130|2024-03-31|2023-05-06|
 |17|[boustrophedon/eink-esp-weather-display](https://github.com/boustrophedon/eink-esp-weather-display)|code for weather display using waveshare esp32 and 7.5" epaper display|127|2024-03-04|2023-08-31|
 |18|[mu-arch/skyfolder](https://github.com/mu-arch/skyfolder)|🪂 SkyFolder shares your folders on the network!|108|2024-03-02|2023-05-20|
 |19|[ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises)|Exercises for learning Rust, by Ferrous Systems|106|2024-03-14|2023-04-25|
 |20|[flashbots/hindsight](https://github.com/flashbots/hindsight)|Retroactively estimate Uniswap-ish MEV on Flashbots MEV-Share by simulating backrun-arbitrages.|104|2024-02-05|2023-07-03|
 |21|[estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server)|Language server to enable word completion and snippets for Helix editor|100|2024-03-26|2023-06-14|
-|22|[openbook-dex/openbook-v2](https://github.com/openbook-dex/openbook-v2)|openbook-v2 monorepo, contains solana program and ts client|98|2024-03-25|2023-04-25|
+|22|[openbook-dex/openbook-v2](https://github.com/openbook-dex/openbook-v2)|openbook-v2 monorepo, contains solana program and ts client|99|2024-03-25|2023-04-25|
 |23|[quambene/bogrep](https://github.com/quambene/bogrep)|Grep your bookmarks|95|2024-03-24|2023-07-23|
 |24|[tracel-ai/models](https://github.com/tracel-ai/models)|Models and examples built with Burn|92|2024-03-20|2023-07-31|
 |25|[nogibjj/rust-data-engineering](https://github.com/nogibjj/rust-data-engineering)|Code for a Duke Coursera Rust-based data engineering course|90|2024-03-10|2023-05-19|
-|26|[astriaorg/astria](https://github.com/astriaorg/astria)|A monorepo containing all the custom components of the Astria network, a decentralized system that replaces traditional sequencers, offering a shared, permissionless sequencer network.|86|2024-03-31|2023-05-15|
+|26|[astriaorg/astria](https://github.com/astriaorg/astria)|A monorepo containing all the custom components of the Astria network, a decentralized system that replaces traditional sequencers, offering a shared, permissionless sequencer network.|86|2024-04-01|2023-05-15|
 |27|[443eb9/bevy_entitiles](https://github.com/443eb9/bevy_entitiles)|A 2d tilemap library for bevy. With many useful algorithms/tools built in.|83|2024-03-27|2023-10-23|
 |28|[mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio)|Awesome books, tutorials, courses, and resources for Tokio. ⚡|81|2023-10-11|2023-10-09|
 |29|[max-heller/mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc)|A mdbook backend powered by Pandoc.|75|2024-03-30|2023-11-16|
@@ -45,7 +45,7 @@
 |38|[sambarnes/noir-by-example](https://github.com/sambarnes/noir-by-example)|an introduction to noir, with simple examples|42|2024-01-08|2023-06-12|
 |39|[tsirysndr/crosup](https://github.com/tsirysndr/crosup)|Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨|41|2024-02-22|2023-05-27|
 |40|[wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples)|Rust examples showcasing wasix build target|41|2023-12-22|2023-05-26|
-|41|[esp-rs/no_std-training](https://github.com/esp-rs/no_std-training)|Getting-started guide on using the Rust with Espressif SoCs using no_std.|40|2024-03-28|2023-04-26|
+|41|[esp-rs/no_std-training](https://github.com/esp-rs/no_std-training)|Getting-started guide on using the Rust with Espressif SoCs using no_std.|40|2024-04-01|2023-04-26|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

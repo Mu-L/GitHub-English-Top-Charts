@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|13|2024-03-28|2024-02-21|
 |5|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-02-22|2023-04-05|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|12|2023-10-17|2023-05-31|
-|7|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|11|2024-03-27|2024-03-23|
+|7|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|11|2024-04-01|2024-03-23|
 |8|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-03-25|2023-08-30|
 |9|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|10|2024-03-28|2023-04-25|
 |10|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |9|2024-03-20|2024-03-17|
@@ -67,16 +67,17 @@
 |60|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
 |61|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
 |62|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|63|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2024-03-23|2023-06-20|
-|64|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
-|65|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
-|66|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
-|67|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-29|2023-05-17|
-|68|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
-|69|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
-|70|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
-|71|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
-|72|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
+|63|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2024-04-01|2023-06-20|
+|64|[scotttyso/baremetal-azurestack-hci](https://github.com/scotttyso/baremetal-azurestack-hci)|Cisco UCS AzureStack HCI Baremetal Deployment|2|2024-02-08|2023-06-11|
+|65|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
+|66|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
+|67|[epam/edp-ddm-strimzi-kafka-operator](https://github.com/epam/edp-ddm-strimzi-kafka-operator)|-|2|2023-10-03|2023-05-17|
+|68|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-29|2023-05-17|
+|69|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
+|70|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
+|71|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
+|72|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
+|73|[narlock/WeatherMessageAPI](https://github.com/narlock/WeatherMessageAPI)|Spring-based RESTful API that delivers weather information through text SMS messaging and phone calls.|2|2024-01-14|2023-04-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
