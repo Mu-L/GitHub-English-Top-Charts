@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[tesla-android/android-raspberry-pi](https://github.com/tesla-android/android-raspberry-pi)|-|65|2024-03-02|2023-04-10|
 |2|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|50|2024-03-21|2024-01-19|
-|3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|33|2024-01-05|2023-07-27|
-|4|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|13|2024-03-28|2024-02-21|
+|3|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
+|4|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|15|2024-03-28|2024-02-21|
 |5|[MemVerge/nf-float](https://github.com/MemVerge/nf-float)|MemVerge Netflow Plugin |13|2024-02-22|2023-04-05|
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|12|2023-10-17|2023-05-31|
 |7|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|11|2024-04-01|2024-03-23|
@@ -21,7 +21,7 @@
 |14|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2024-03-05|2023-11-09|
 |15|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
 |16|[devopswithcloud/devops-repo](https://github.com/devopswithcloud/devops-repo)|-|6|2024-03-22|2023-06-11|
-|17|[dbsystel/tech-stories](https://github.com/dbsystel/tech-stories)|DB Systel Tech Stories|6|2024-03-14|2023-04-04|
+|17|[dbsystel/tech-stories](https://github.com/dbsystel/tech-stories)|DB Systel Tech Stories|6|2024-04-02|2023-04-04|
 |18|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
 |19|[Aj7Ay/Jenkins_shared_library](https://github.com/Aj7Ay/Jenkins_shared_library)|-|5|2023-10-17|2023-10-14|
 |20|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|5|2023-11-22|2023-07-18|
@@ -42,9 +42,9 @@
 |35|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
 |36|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|3|2024-03-22|2023-08-15|
 |37|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-03-25|2023-08-08|
-|38|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-01-27|2023-08-08|
+|38|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-04-02|2023-08-08|
 |39|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-03-05|2023-06-30|
-|40|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-01-08|2023-06-13|
+|40|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-02|2023-06-13|
 |41|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
 |42|[DaveGut/HubithingsReplica](https://github.com/DaveGut/HubithingsReplica)|HubiThings Replica Drivers for Hubitat integration of SmartThings legacy devices (devices that do not have Hubitat Integrations).|3|2024-02-11|2023-04-14|
 |43|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1722|2024-02-05|
-|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|234|2024-04-01|
+|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|235|2024-04-01|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|161|2024-01-25|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|138|2023-12-14|
 |5|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|99|2024-03-24|
@@ -33,18 +33,18 @@
 |26|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|7|2024-03-13|
 |27|[hsnborn22/lets-build-a-compiler-crenshaw-notes](https://github.com/hsnborn22/lets-build-a-compiler-crenshaw-notes)|Following along the Crenshaw book on compiler architecture in the Pascal language.|6|2023-10-07|
 |28|[danieleteti/dmvcframeworktheofficialguideexamples](https://github.com/danieleteti/dmvcframeworktheofficialguideexamples)|This repository contains all the "DMVCFramework-The Official Guide" examples updated for the latest version of DMVCFramework|6|2023-11-04|
-|29|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-03-29|
+|29|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-04-02|
 |30|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|2024-01-24|
 |31|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|2024-01-14|
 |32|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|5|2024-03-24|
 |33|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|2023-10-27|
-|34|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|4|2024-03-22|
-|35|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|2024-02-29|
-|36|[turbot/steampipe-mod-community-tracker](https://github.com/turbot/steampipe-mod-community-tracker)|A collection of benchmarks, controls, and dashboards used to track organization settings, repository settings, open issues and pull requests, and more.|4|2024-03-07|
-|37|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-01-06|
-|38|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|3|2024-03-18|
+|34|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|4|2024-03-18|
+|35|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|4|2024-03-22|
+|36|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|2024-02-29|
+|37|[turbot/steampipe-mod-community-tracker](https://github.com/turbot/steampipe-mod-community-tracker)|A collection of benchmarks, controls, and dashboards used to track organization settings, repository settings, open issues and pull requests, and more.|4|2024-03-07|
+|38|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-01-06|
 |39|[fre-sch/starfield-toolbox](https://github.com/fre-sch/starfield-toolbox)|Various scripts for xedit and Blender, and documentation on how to mod specific things in Starfield|3|2023-12-22|
-|40|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|2024-03-18|
+|40|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|3|2024-04-02|
 |41|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert audio files or video files using a built-in media player or manually. Generating a playlist for split parts is possible.|3|2024-03-04|
 |42|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|2024-01-02|
 |43|[almeswe/univ-projs](https://github.com/almeswe/univ-projs)|All course projects & labs that i did during my education.|2|2023-12-15|
