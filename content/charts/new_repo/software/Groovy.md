@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,17 +13,17 @@
 |6|[glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)|Generate kid stories with the PaLM API|12|2023-10-17|2023-05-31|
 |7|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|11|2024-04-04|2023-08-30|
 |8|[quarkiverse/quarkus-groovy](https://github.com/quarkiverse/quarkus-groovy)|Groovy support in Quarkus|10|2024-04-04|2023-04-25|
-|9|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |9|2024-03-20|2024-03-17|
+|9|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |9|2024-04-05|2024-03-17|
 |10|[DEVOPS-WITH-WEB-DEV/jenkins-shared-library1](https://github.com/DEVOPS-WITH-WEB-DEV/jenkins-shared-library1)|-|9|2024-03-07|2023-05-07|
 |11|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-04|2024-01-02|
 |12|[nextflow-io/nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint)|[WIP] A Nextflow plugin to estimate the CO2 footprint of pipeline runs.|8|2024-03-19|2023-04-20|
 |13|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2024-03-05|2023-11-09|
 |14|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
-|15|[devopswithcloud/devops-repo](https://github.com/devopswithcloud/devops-repo)|-|6|2024-03-22|2023-06-11|
-|16|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
-|17|[Aj7Ay/Jenkins_shared_library](https://github.com/Aj7Ay/Jenkins_shared_library)|-|5|2023-10-17|2023-10-14|
+|15|[Aj7Ay/Jenkins_shared_library](https://github.com/Aj7Ay/Jenkins_shared_library)|-|6|2023-10-17|2023-10-14|
+|16|[devopswithcloud/devops-repo](https://github.com/devopswithcloud/devops-repo)|-|6|2024-03-22|2023-06-11|
+|17|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
 |18|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|5|2023-11-22|2023-07-18|
-|19|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|5|2024-04-04|2023-05-22|
+|19|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|5|2024-04-05|2023-05-22|
 |20|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
 |21|[tanajan/ACA-Group1](https://github.com/tanajan/ACA-Group1)|Project Meteorite aims to analyze and categorize Earth-impacting meteors using NASA's open-source data. Our goal is to find correlation between the mass of meteors and their classes. This exploration  ...|4|2023-11-02|2023-10-30|
 |22|[autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar)|Parses Gradle build scripts (Groovy and Kotlin DSL)|4|2023-10-13|2023-08-04|

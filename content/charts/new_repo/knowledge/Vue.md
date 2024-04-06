@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)|A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.|1359|2023-10-18|2023-07-02|
-|2|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|486|2024-04-04|2023-11-21|
-|3|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|227|2024-01-12|2024-01-03|
+|1|[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)|A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.|1360|2023-10-18|2023-07-02|
+|2|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|486|2024-04-05|2023-11-21|
+|3|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|228|2024-01-12|2024-01-03|
 |4|[fayazara/feedbackjar](https://github.com/fayazara/feedbackjar)|Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.|136|2024-02-24|2023-06-28|
 |5|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|133|2024-03-19|2024-01-10|
 |6|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|105|2024-03-04|2024-02-11|
@@ -25,35 +25,36 @@
 |18|[TheWANDatabase/Website](https://github.com/TheWANDatabase/Website)|A UI + Web server for the most complete database of WAN Show topics, guests, and episodes ever compiled!|14|2024-01-19|2023-08-12|
 |19|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-02-08|2024-02-07|
 |20|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|12|2024-01-14|2023-12-12|
-|21|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
-|22|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|11|2024-04-02|2023-11-10|
-|23|[theanishtar/laptrinhquade](https://github.com/theanishtar/laptrinhquade)|Ebook lập trình dành cho cộng đồng Iters|11|2023-10-09|2023-05-31|
-|24|[chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example)|Build a custom interface to Azure Automation Runbooks.|11|2024-04-01|2023-05-01|
-|25|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|10|2024-04-03|2023-12-11|
-|26|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-04-03|2023-12-01|
-|27|[swiss/designsystem](https://github.com/swiss/designsystem)|Webguidelines Bund|10|2024-04-03|2023-06-23|
-|28|[mayashavin/learning-vue-app](https://github.com/mayashavin/learning-vue-app)|Code samples for Learning Vue book|10|2023-12-04|2023-05-01|
-|29|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|9|2024-04-04|2023-10-23|
-|30|[yy4382/genshinvoice-import](https://github.com/yy4382/genshinvoice-import)|将 https://bv2.firefly.matce.cn 中的原神语音导入到小说软件中用于听书。目前完成了爱阅记的配置生成复制。|8|2024-03-19|2024-03-11|
-|31|[domin-mnd/shakespeare](https://github.com/domin-mnd/shakespeare)|✨ Headless ShareX ready-to-deploy server. WIP|8|2024-02-23|2023-05-21|
-|32|[CharlieDigital/vue3-state-definemodel](https://github.com/CharlieDigital/vue3-state-definemodel)|A sample repository showing how to use defineModel in Vue 3.4 with composables to easily and cleanly manage state.|7|2024-01-22|2024-01-20|
-|33|[Superblue045/ticketmaster_event_alert](https://github.com/Superblue045/ticketmaster_event_alert)|The Ticketmaster API provides access to event data, including event details, venues, and performers. (Backend: PHP, frontend: Vue.js)|7|2023-10-12|2023-10-12|
-|34|[FedotovN/vue-ui-kit](https://github.com/FedotovN/vue-ui-kit)|UI kit created with Vue, Typescript, Vitest and Storybook. Under development |7|2024-01-28|2023-09-16|
-|35|[ElonMusk2002/MSHP_2035](https://github.com/ElonMusk2002/MSHP_2035)|FInal project for the course "Fullstack web devoloper" in the Moscow School of Programmers. The link of landing page (not full project) 👇|7|2023-12-02|2023-06-26|
-|36|[johannschopplich/kirby.tools](https://github.com/johannschopplich/kirby.tools)|🧰 A collection of Kirby plugins, such as Kirby Live Preview|6|2024-04-03|2024-03-21|
-|37|[Qdev1226/beauty-vuejs-boilerplate-master](https://github.com/Qdev1226/beauty-vuejs-boilerplate-master)|beauty-vuejs-boilerplate-master|6|2023-10-24|2023-10-23|
-|38|[hostspaceng/community-challenge](https://github.com/hostspaceng/community-challenge)|Repo with code snippets and instructions for HostSpace community challenge|6|2024-03-19|2023-10-11|
-|39|[archeryue/LearnWebInTen](https://github.com/archeryue/LearnWebInTen)|learn web development in 10 days|6|2024-03-10|2023-07-04|
-|40|[jimoh-sodiq/VuePatterns](https://github.com/jimoh-sodiq/VuePatterns)|A documentation of vue.js component patterns and general utility implementations|6|2024-02-18|2023-05-21|
-|41|[cruip/cruip-tutorials-vue](https://github.com/cruip/cruip-tutorials-vue)|A repository of Cruip's guides & tutorials made with Vue and Tailwind CSS|6|2023-12-26|2023-05-01|
-|42|[scalar/sandbox](https://github.com/scalar/sandbox)|The easiest way to share OpenAPI files|5|2024-04-04|2024-01-09|
-|43|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|5|2024-01-27|2023-12-14|
-|44|[rezansrv/G2-Intership](https://github.com/rezansrv/G2-Intership)|A site to display courses written with Nuxt2,Vue class based component,Typescript,Tailwindcss|5|2024-03-13|2023-12-06|
-|45|[mrksbnc/bamboo](https://github.com/mrksbnc/bamboo)|Vue 3 UI library built with Vite, SCSS and Storybook|5|2024-02-26|2023-08-13|
-|46|[fredster33/academix](https://github.com/fredster33/academix)|📚 A fast, responsive, accessible and user-friendly learning platform. Theme Prize @ vsHacks 2023!|5|2024-04-04|2023-06-23|
-|47|[chatwoot/design](https://github.com/chatwoot/design)|Design guidelines for products at Chatwoot. |4|2024-02-22|2024-01-15|
-|48|[omegarhovega/ARRRType](https://github.com/omegarhovega/ARRRType)|A typing game for pirates: Learning to type the awesome way.|4|2024-02-08|2024-01-10|
-|49|[JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue)|A vue-based project page template for academic papers. (in development) Demo at https://junyaohu.github.io/academic-project-page-template-vue|4|2024-01-11|2023-07-27|
+|21|[danryland/groove-ai](https://github.com/danryland/groove-ai)|AI driven drum patterns 🥈 Runner up for "Most fun/Best easter egg" in Supabase's Launch Week 7 Hackathon|12|2024-04-05|2023-04-11|
+|22|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
+|23|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|11|2024-04-04|2023-11-10|
+|24|[theanishtar/laptrinhquade](https://github.com/theanishtar/laptrinhquade)|Ebook lập trình dành cho cộng đồng Iters|11|2023-10-09|2023-05-31|
+|25|[chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example)|Build a custom interface to Azure Automation Runbooks.|11|2024-04-01|2023-05-01|
+|26|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|10|2024-04-03|2023-12-11|
+|27|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-04-03|2023-12-01|
+|28|[swiss/designsystem](https://github.com/swiss/designsystem)|Webguidelines Bund|10|2024-04-03|2023-06-23|
+|29|[mayashavin/learning-vue-app](https://github.com/mayashavin/learning-vue-app)|Code samples for Learning Vue book|10|2023-12-04|2023-05-01|
+|30|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|9|2024-04-05|2023-10-23|
+|31|[yy4382/genshinvoice-import](https://github.com/yy4382/genshinvoice-import)|将 https://bv2.firefly.matce.cn 中的原神语音导入到小说软件中用于听书。目前完成了爱阅记的配置生成复制。|8|2024-03-19|2024-03-11|
+|32|[domin-mnd/shakespeare](https://github.com/domin-mnd/shakespeare)|✨ Headless ShareX ready-to-deploy server. WIP|8|2024-02-23|2023-05-21|
+|33|[CharlieDigital/vue3-state-definemodel](https://github.com/CharlieDigital/vue3-state-definemodel)|A sample repository showing how to use defineModel in Vue 3.4 with composables to easily and cleanly manage state.|7|2024-01-22|2024-01-20|
+|34|[Superblue045/ticketmaster_event_alert](https://github.com/Superblue045/ticketmaster_event_alert)|The Ticketmaster API provides access to event data, including event details, venues, and performers. (Backend: PHP, frontend: Vue.js)|7|2023-10-12|2023-10-12|
+|35|[FedotovN/vue-ui-kit](https://github.com/FedotovN/vue-ui-kit)|UI kit created with Vue, Typescript, Vitest and Storybook. Under development |7|2024-01-28|2023-09-16|
+|36|[ElonMusk2002/MSHP_2035](https://github.com/ElonMusk2002/MSHP_2035)|FInal project for the course "Fullstack web devoloper" in the Moscow School of Programmers. The link of landing page (not full project) 👇|7|2023-12-02|2023-06-26|
+|37|[johannschopplich/kirby.tools](https://github.com/johannschopplich/kirby.tools)|🧰 A collection of Kirby plugins, such as Kirby Live Preview|6|2024-04-03|2024-03-21|
+|38|[Qdev1226/beauty-vuejs-boilerplate-master](https://github.com/Qdev1226/beauty-vuejs-boilerplate-master)|beauty-vuejs-boilerplate-master|6|2023-10-24|2023-10-23|
+|39|[hostspaceng/community-challenge](https://github.com/hostspaceng/community-challenge)|Repo with code snippets and instructions for HostSpace community challenge|6|2024-03-19|2023-10-11|
+|40|[archeryue/LearnWebInTen](https://github.com/archeryue/LearnWebInTen)|learn web development in 10 days|6|2024-03-10|2023-07-04|
+|41|[jimoh-sodiq/VuePatterns](https://github.com/jimoh-sodiq/VuePatterns)|A documentation of vue.js component patterns and general utility implementations|6|2024-02-18|2023-05-21|
+|42|[cruip/cruip-tutorials-vue](https://github.com/cruip/cruip-tutorials-vue)|A repository of Cruip's guides & tutorials made with Vue and Tailwind CSS|6|2023-12-26|2023-05-01|
+|43|[scalar/sandbox](https://github.com/scalar/sandbox)|The easiest way to share OpenAPI files|5|2024-04-05|2024-01-09|
+|44|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|5|2024-01-27|2023-12-14|
+|45|[rezansrv/G2-Intership](https://github.com/rezansrv/G2-Intership)|A site to display courses written with Nuxt2,Vue class based component,Typescript,Tailwindcss|5|2024-03-13|2023-12-06|
+|46|[mrksbnc/bamboo](https://github.com/mrksbnc/bamboo)|Vue 3 UI library built with Vite, SCSS and Storybook|5|2024-02-26|2023-08-13|
+|47|[fredster33/academix](https://github.com/fredster33/academix)|📚 A fast, responsive, accessible and user-friendly learning platform. Theme Prize @ vsHacks 2023!|5|2024-04-04|2023-06-23|
+|48|[chatwoot/design](https://github.com/chatwoot/design)|Design guidelines for products at Chatwoot. |4|2024-02-22|2024-01-15|
+|49|[omegarhovega/ARRRType](https://github.com/omegarhovega/ARRRType)|A typing game for pirates: Learning to type the awesome way.|4|2024-02-08|2024-01-10|
+|50|[JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue)|A vue-based project page template for academic papers. (in development) Demo at https://junyaohu.github.io/academic-project-page-template-vue|4|2024-01-11|2023-07-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
