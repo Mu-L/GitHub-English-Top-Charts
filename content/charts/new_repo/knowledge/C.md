@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)|An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)|1271|2024-04-01|2024-01-05|
-|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|786|2023-11-23|2023-07-14|
+|1|[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)|An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)|1275|2024-04-01|2024-01-05|
+|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|790|2023-11-23|2023-07-14|
 |3|[icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)|Collection of UAC Bypass Techniques Weaponized as BOFs|325|2024-02-21|2024-02-16|
-|4|[huntandhackett/process-cloning](https://github.com/huntandhackett/process-cloning)|The Definitive Guide To Process Cloning on Windows|273|2024-01-03|2023-04-11|
+|4|[huntandhackett/process-cloning](https://github.com/huntandhackett/process-cloning)|The Definitive Guide To Process Cloning on Windows|274|2024-01-03|2023-04-11|
 |5|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|260|2024-03-15|2024-01-14|
 |6|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|259|2023-12-28|2023-08-20|
 |7|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|237|2023-11-03|2023-10-06|
 |8|[RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies)|Step by step explanation/tutorial of llama2.c|189|2023-10-09|2023-07-29|
-|9|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|187|2024-03-05|2023-09-26|
+|9|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|188|2024-03-05|2023-09-26|
 |10|[Mr-Un1k0d3r/Cookie-and-Handle-Stealer](https://github.com/Mr-Un1k0d3r/Cookie-and-Handle-Stealer)|C or BOF file to extract WebKit master key to decrypt user cookie|142|2024-04-04|2023-05-28|
-|11|[erincatto/solver2d](https://github.com/erincatto/solver2d)|A project for testing rigid body solver algorithms|114|2024-02-15|2024-01-07|
+|11|[erincatto/solver2d](https://github.com/erincatto/solver2d)|A project for testing rigid body solver algorithms|115|2024-02-15|2024-01-07|
 |12|[Kingtous/thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh)|hackintosh for thinkbook14p-Gen2-ACH (AMD Ryzen 7 5800h)|107|2024-03-27|2023-05-25|
 |13|[Nuno-Jesus/Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)|Clear the fog around Makefiles with this Makefile tutorial and enhance your knowledge with advanced tips and concepts.|101|2023-12-30|2023-06-01|
 |14|[mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking)|A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.|95|2024-03-23|2023-10-06|
@@ -28,7 +28,7 @@
 |21|[JeffreytheCoder/Simple-HTTP-Server](https://github.com/JeffreytheCoder/Simple-HTTP-Server)|Tutorial on how a web server "serve" files|60|2024-03-06|2023-05-11|
 |22|[spicyjpeg/ps1-bare-metal](https://github.com/spicyjpeg/ps1-bare-metal)|PlayStation 1 bare-metal C examples|59|2024-01-12|2023-06-30|
 |23|[codee-com/open-catalog](https://github.com/codee-com/open-catalog)|This catalog is a collaborative effort to consolidate the collective wisdom of performance experts on the best practices for performance. It consists of a glossary and a list of checks for the C, C++  ...|56|2024-03-20|2024-01-25|
-|24|[longyan97/EMEye_Tutorial](https://github.com/longyan97/EMEye_Tutorial)|Tutorial and code of EM Eye camera eavesdropping attack research|54|2024-02-23|2023-11-07|
+|24|[longyan97/EMEye_Tutorial](https://github.com/longyan97/EMEye_Tutorial)|Tutorial and code of EM Eye camera eavesdropping attack research|55|2024-02-23|2023-11-07|
 |25|[jadis0x/il2cpp-reverse-engineering-guide](https://github.com/jadis0x/il2cpp-reverse-engineering-guide)|This guide provides illustrative examples demonstrating the usage of Il2cppInspector C++ scaffold.|47|2023-12-15|2023-07-24|
 |26|[enginestein/Virus-Collection](https://github.com/enginestein/Virus-Collection)|A collection of various viruses|43|2024-01-13|2023-04-27|
 |27|[Subash-2503/MOVIE_TICKET_BOOKING_SYSTEM](https://github.com/Subash-2503/MOVIE_TICKET_BOOKING_SYSTEM)|Building a movie ticket booking system involves several components and is more complex than can be captured in just a few lines of code. Here's a high-level overview of what a basic movie ticket booki ...|42|2023-12-17|2023-12-17|

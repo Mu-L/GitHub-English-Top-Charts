@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1112|2024-04-05|2023-08-30|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1113|2024-04-05|2023-08-30|
 |2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|579|2024-02-19|2024-02-12|
-|3|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|408|2024-04-03|2024-01-05|
+|3|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|410|2024-04-05|2024-01-05|
 |4|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|388|2024-03-02|2024-02-08|
-|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|273|2024-04-05|2024-01-29|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|273|2024-04-06|2024-01-29|
 |6|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |247|2024-01-04|2023-05-11|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|227|2024-03-14|2023-07-25|
 |8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|214|2023-12-09|2023-05-02|
-|9|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|194|2024-04-02|2023-05-16|
+|9|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|196|2024-04-02|2023-05-16|
 |10|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|171|2024-01-04|2023-09-21|
 |11|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|131|2024-04-03|2024-01-17|
-|12|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|114|2024-03-31|2023-08-12|
+|12|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|115|2024-03-31|2023-08-12|
 |13|[LethalCompanyCommunity/LethalCompanyModdingWiki](https://github.com/LethalCompanyCommunity/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|74|2023-12-28|2023-11-07|
 |14|[sirredbeard/wslinternals](https://github.com/sirredbeard/wslinternals)|A collection of some nifty WSL-related utilities|57|2024-04-02|2023-06-02|
-|15|[mikeroyal/Lenovo-Legion-Go-Guide](https://github.com/mikeroyal/Lenovo-Legion-Go-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Lenovo legion Go Gaming Handheld. |55|2023-11-18|2023-10-04|
+|15|[mikeroyal/Lenovo-Legion-Go-Guide](https://github.com/mikeroyal/Lenovo-Legion-Go-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Lenovo legion Go Gaming Handheld. |56|2023-11-18|2023-10-04|
 |16|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|54|2024-03-20|2024-01-12|
 |17|[optimus-code/Cities2Modding](https://github.com/optimus-code/Cities2Modding)|Info dump / guides for Cities Skylines 2 modding.|53|2023-11-11|2023-10-25|
-|18|[thisisnabi/Design-Patterns](https://github.com/thisisnabi/Design-Patterns)|Design Patterns in Action|47|2024-04-02|2024-02-24|
+|18|[thisisnabi/Design-Patterns](https://github.com/thisisnabi/Design-Patterns)|Design Patterns in Action|47|2024-04-05|2024-02-24|
 |19|[laurentkempe/aspirePlayground](https://github.com/laurentkempe/aspirePlayground)|Some experiments around .NET Aspire to learn.|41|2024-03-23|2023-11-16|
 |20|[kova98/BackendCommunicationPatterns.NET](https://github.com/kova98/BackendCommunicationPatterns.NET)|Backend Communication Patterns in .NET|41|2024-01-20|2023-07-05|
 |21|[MakesYT/NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia)|A collection of controls for node based editors designed for MVVM.|40|2024-04-05|2024-01-23|

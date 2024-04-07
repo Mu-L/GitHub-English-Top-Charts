@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Go
-<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go)|Fault tolerance and resilience patterns for Go|1426|2024-04-04|2023-04-12|
-|2|[nalgeon/codapi](https://github.com/nalgeon/codapi)|Interactive code examples for documentation, education and fun|891|2024-04-03|2023-11-24|
+|1|[failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go)|Fault tolerance and resilience patterns for Go|1428|2024-04-04|2023-04-12|
+|2|[nalgeon/codapi](https://github.com/nalgeon/codapi)|Interactive code examples for documentation, education and fun|896|2024-04-03|2023-11-24|
 |3|[outcoldman/hackernews-personal-blogs](https://github.com/outcoldman/hackernews-personal-blogs)|List of Public Blogs of Hacker News users|305|2024-03-09|2023-07-07|
 |4|[go-skynet/model-gallery](https://github.com/go-skynet/model-gallery)|:card_file_box: a curated collection of models ready-to-use with LocalAI|229|2024-04-05|2023-04-29|
 |5|[GoesToEleven/learn-to-code-go-version-03](https://github.com/GoesToEleven/learn-to-code-go-version-03)|Code for the third version of my "Learn To Code Go" course|228|2024-02-05|2023-04-17|

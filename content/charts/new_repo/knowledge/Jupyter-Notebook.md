@@ -1,79 +1,79 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Jupyter Notebook
-<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/|39843|2024-04-04|2023-06-19|
-|2|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|27425|2024-04-05|2023-06-17|
-|3|[microsoft/autogen](https://github.com/microsoft/autogen)|A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap|24025|2024-04-05|2023-08-18|
-|4|[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)|Sample code and notebooks for Generative AI on Google Cloud|5163|2024-04-05|2023-05-05|
-|5|[MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha)|Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation|3274|2024-01-31|2023-07-04|
-|6|[williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)|[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation|2868|2024-03-09|2023-05-08|
+|1|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/|40034|2024-04-04|2023-06-19|
+|2|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|27516|2024-04-05|2023-06-17|
+|3|[microsoft/autogen](https://github.com/microsoft/autogen)|A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap|24062|2024-04-06|2023-08-18|
+|4|[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)|Sample code and notebooks for Generative AI on Google Cloud|5168|2024-04-06|2023-05-05|
+|5|[MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha)|Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation|3275|2024-01-31|2023-07-04|
+|6|[williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)|[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation|2870|2024-03-09|2023-05-08|
 |7|[z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything)|An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k ...|2382|2024-03-30|2023-04-16|
-|8|[FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion)|Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunP ...|1681|2024-04-03|2023-05-01|
-|9|[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)|A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.|1617|2024-04-05|2023-08-15|
-|10|[fastai/lm-hackers](https://github.com/fastai/lm-hackers)|Hackers' Guide to Language Models|1471|2024-01-21|2023-09-24|
-|11|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1074|2024-04-05|2023-11-24|
-|12|[curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)|LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us ...|897|2024-01-07|2023-04-12|
-|13|[samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials)|A set of LangChain Tutorials from my youtube channel |872|2023-10-16|2023-06-13|
+|8|[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)|A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.|1705|2024-04-06|2023-08-15|
+|9|[FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion)|Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunP ...|1683|2024-04-06|2023-05-01|
+|10|[fastai/lm-hackers](https://github.com/fastai/lm-hackers)|Hackers' Guide to Language Models|1472|2024-01-21|2023-09-24|
+|11|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1090|2024-04-05|2023-11-24|
+|12|[curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)|LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us ...|898|2024-01-07|2023-04-12|
+|13|[samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials)|A set of LangChain Tutorials from my youtube channel |874|2023-10-16|2023-06-13|
 |14|[cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql)|A series of top performing Text to SQL LLMs|834|2024-02-12|2024-01-18|
-|15|[peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)|Practical course about Large Language Models. |584|2024-04-05|2023-05-01|
-|16|[srush/Triton-Puzzles](https://github.com/srush/Triton-Puzzles)|Puzzles for learning Triton|573|2024-04-05|2024-03-19|
-|17|[google-gemini/cookbook](https://github.com/google-gemini/cookbook)|A collection of guides and examples for the Gemini API.|439|2024-04-05|2024-03-13|
+|15|[peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)|Practical course about Large Language Models. |585|2024-04-06|2023-05-01|
+|16|[srush/Triton-Puzzles](https://github.com/srush/Triton-Puzzles)|Puzzles for learning Triton|575|2024-04-05|2024-03-19|
+|17|[google-gemini/cookbook](https://github.com/google-gemini/cookbook)|A collection of guides and examples for the Gemini API.|443|2024-04-05|2024-03-13|
 |18|[CambioML/pykoi-rlhf-finetuned-transformers](https://github.com/CambioML/pykoi-rlhf-finetuned-transformers)|pykoi: Active learning in one unified interface|398|2024-02-14|2023-07-14|
-|19|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM-4 API|369|2024-03-29|2024-01-22|
-|20|[xbresson/GML2023](https://github.com/xbresson/GML2023)|Graph Machine Learning course, Xavier Bresson, 2023|287|2024-04-01|2024-02-12|
-|21|[weaviate/recipes](https://github.com/weaviate/recipes)|This repository shares end-to-end notebooks on how to use various features and integrations with Weaviate at the core!|281|2024-04-04|2023-05-16|
+|19|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM-4 API|371|2024-04-06|2024-01-22|
+|20|[xbresson/GML2023](https://github.com/xbresson/GML2023)|Graph Machine Learning course, Xavier Bresson, 2023|288|2024-04-01|2024-02-12|
+|21|[weaviate/recipes](https://github.com/weaviate/recipes)|This repository shares end-to-end notebooks on how to use various features and integrations with Weaviate at the core!|282|2024-04-04|2023-05-16|
 |22|[ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)|LLM-PowerHouse: Unleash LLMs' potential through curated tutorials, best practices, and ready-to-use code for custom training and inferencing.|264|2024-03-28|2023-05-28|
 |23|[NASA-IMPACT/hls-foundation-os](https://github.com/NASA-IMPACT/hls-foundation-os)|This repository contains examples of fine-tuning Harmonized Landsat and Sentinel-2 (HLS) Prithvi foundation model.|250|2024-03-01|2023-07-11|
-|24|[kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|"Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.|241|2024-04-04|2023-04-13|
-|25|[superlinked/VectorHub](https://github.com/superlinked/VectorHub)|VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.|239|2024-04-05|2023-08-21|
+|24|[kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|"Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.|241|2024-04-06|2023-04-13|
+|25|[superlinked/VectorHub](https://github.com/superlinked/VectorHub)|VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.|239|2024-04-06|2023-08-21|
 |26|[RamiKrispin/lang2sql](https://github.com/RamiKrispin/lang2sql)|A tutorial for setting an SQL code generator with the OpenAI API|228|2024-01-07|2023-10-18|
 |27|[facebookresearch/PUG](https://github.com/facebookresearch/PUG)|This is the repository for the Photorealistic Unreal Graphics (PUG) datasets for representation learning.|218|2024-04-04|2023-07-20|
-|28|[jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops)|A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.|212|2024-03-12|2023-09-03|
-|29|[johko/computer-vision-course](https://github.com/johko/computer-vision-course)|This repo is the homebase of a community driven course on Computer Vision with Neural Networks. Feel free to join us on the Hugging Face discord: hf.co/join/discord|203|2024-03-28|2023-09-18|
-|30|[openai/web-crawl-q-and-a-example](https://github.com/openai/web-crawl-q-and-a-example)|Learn how to crawl your website and build a Q/A bot with the OpenAI API|201|2024-01-29|2023-10-02|
-|31|[aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)|This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models|200|2024-04-03|2023-07-05|
+|28|[jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops)|A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.|213|2024-03-12|2023-09-03|
+|29|[johko/computer-vision-course](https://github.com/johko/computer-vision-course)|This repo is the homebase of a community driven course on Computer Vision with Neural Networks. Feel free to join us on the Hugging Face discord: hf.co/join/discord|203|2024-04-06|2023-09-18|
+|30|[openai/web-crawl-q-and-a-example](https://github.com/openai/web-crawl-q-and-a-example)|Learn how to crawl your website and build a Q/A bot with the OpenAI API|202|2024-01-29|2023-10-02|
+|31|[aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)|This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models|200|2024-04-06|2023-07-05|
 |32|[panaverse/learn-modern-python](https://github.com/panaverse/learn-modern-python)|Learn Modern Python 3.12+, Numpy, and Pandas with Type Hints|196|2024-03-24|2023-10-13|
 |33|[ivnvxd/pyquest](https://github.com/ivnvxd/pyquest)|Python everything Cheatsheet and a Journey to the land of Python programming|192|2024-03-07|2023-04-16|
-|34|[alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code)|The code from the Machine Learning Bookcamp book|187|2024-02-15|2023-08-01|
+|34|[alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code)|The code from the Machine Learning Bookcamp book|188|2024-02-15|2023-08-01|
 |35|[pranauv1/AI-Video-Translation](https://github.com/pranauv1/AI-Video-Translation)|A simple Google Colab notebook which can translate an original video into multiple languages along with lip sync.|177|2023-12-27|2023-10-01|
-|36|[GeostatsGuy/DataScience_Interactive_Python](https://github.com/GeostatsGuy/DataScience_Interactive_Python)|Python interactive dashboards for learning data science|171|2024-04-03|2024-03-26|
+|36|[GeostatsGuy/DataScience_Interactive_Python](https://github.com/GeostatsGuy/DataScience_Interactive_Python)|Python interactive dashboards for learning data science|172|2024-04-03|2024-03-26|
 |37|[shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics](https://github.com/shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics)|Awesome LLM-related papers and repos on very comprehensive topics.|161|2024-04-03|2024-01-13|
-|38|[Azure-Samples/azureai-samples](https://github.com/Azure-Samples/azureai-samples)|Official community-driven Azure AI Examples|148|2024-04-04|2023-09-20|
-|39|[RuojinCai/doppelgangers](https://github.com/RuojinCai/doppelgangers)|Doppelgangers: Learning to Disambiguate Images of Similar Structures|145|2024-03-01|2023-07-31|
-|40|[microsoft/fabric-samples](https://github.com/microsoft/fabric-samples)|Samples and data for Microsoft Fabric Learn content|144|2024-03-27|2023-04-23|
-|41|[hamzafarooq/advanced-llms-course](https://github.com/hamzafarooq/advanced-llms-course)|Code files for advanced LLM Course|140|2024-03-12|2024-03-12|
-|42|[paddymul/buckaroo](https://github.com/paddymul/buckaroo)|Buckaroo - the data wrangling assistant for pandas.  Quickly explore dataframes, and run pandas commands via a GUI.  Works inside the jupyter notebook.|140|2024-04-05|2023-04-19|
+|38|[Azure-Samples/azureai-samples](https://github.com/Azure-Samples/azureai-samples)|Official community-driven Azure AI Examples|150|2024-04-04|2023-09-20|
+|39|[paddymul/buckaroo](https://github.com/paddymul/buckaroo)|Buckaroo - the data wrangling assistant for pandas.  Quickly explore dataframes, and run pandas commands via a GUI.  Works inside the jupyter notebook.|146|2024-04-05|2023-04-19|
+|40|[RuojinCai/doppelgangers](https://github.com/RuojinCai/doppelgangers)|Doppelgangers: Learning to Disambiguate Images of Similar Structures|145|2024-03-01|2023-07-31|
+|41|[microsoft/fabric-samples](https://github.com/microsoft/fabric-samples)|Samples and data for Microsoft Fabric Learn content|144|2024-03-27|2023-04-23|
+|42|[hamzafarooq/advanced-llms-course](https://github.com/hamzafarooq/advanced-llms-course)|Code files for advanced LLM Course|141|2024-03-12|2024-03-12|
 |43|[SUKHMAN-SINGH-1612/Data-Science-Projects](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects)|Explore my diverse collection of projects showcasing machine learning, data analysis, and more. Organized by project, each directory contains code, datasets, documentation, and resources. Dive in, to  ...|136|2024-03-30|2023-07-02|
 |44|[Lifelong-Robot-Learning/LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)|Benchmarking Knowledge Transfer in Lifelong Robot Learning|133|2024-02-20|2023-04-08|
-|45|[mankarsnehal/100-Days-of-Code-Data-Science](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science)|Starting a 100 Days Code Challenge for Learning Data Science from Scratch|130|2024-02-04|2023-07-18|
-|46|[wysoczanska/clip_dinoiser](https://github.com/wysoczanska/clip_dinoiser)|Official implementation of 'CLIP-DINOiser: Teaching CLIP a few DINO tricks' paper.|129|2024-03-27|2023-12-14|
-|47|[wellecks/ntptutorial](https://github.com/wellecks/ntptutorial)|Tutorial on neural theorem proving|129|2024-01-05|2023-08-17|
-|48|[AI-Maker-Space/LLM-Ops-Cohort-1](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)|Following emerging Large Language Model Operations (LLM Ops) best practices in the industry, you’ll learn all about the key technologies that enable Generative AI practitioners like you to leverage to ...|129|2024-03-11|2023-08-15|
+|45|[wysoczanska/clip_dinoiser](https://github.com/wysoczanska/clip_dinoiser)|Official implementation of 'CLIP-DINOiser: Teaching CLIP a few DINO tricks' paper.|131|2024-03-27|2023-12-14|
+|46|[AI-Maker-Space/LLM-Ops-Cohort-1](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)|Following emerging Large Language Model Operations (LLM Ops) best practices in the industry, you’ll learn all about the key technologies that enable Generative AI practitioners like you to leverage to ...|131|2024-03-11|2023-08-15|
+|47|[mankarsnehal/100-Days-of-Code-Data-Science](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science)|Starting a 100 Days Code Challenge for Learning Data Science from Scratch|130|2024-02-04|2023-07-18|
+|48|[wellecks/ntptutorial](https://github.com/wellecks/ntptutorial)|Tutorial on neural theorem proving|129|2024-01-05|2023-08-17|
 |49|[leptonai/examples](https://github.com/leptonai/examples)|Lepton Examples|128|2024-03-29|2023-08-08|
 |50|[aws-samples/jupyter-notebook-for-incident-response](https://github.com/aws-samples/jupyter-notebook-for-incident-response)|A library of Incident Response notebooks using Jupyter. We will show how you can leverage pre-defined notebook files to guide your incident responders in identifying, containing, eradicating, and reco ...|128|2023-11-15|2023-04-29|
-|51|[opengeos/NASA-Earth-Data](https://github.com/opengeos/NASA-Earth-Data)|A comprehensive list of NASA Earth science data products |126|2024-04-05|2023-12-19|
+|51|[opengeos/NASA-Earth-Data](https://github.com/opengeos/NASA-Earth-Data)|A comprehensive list of NASA Earth science data products |126|2024-04-06|2023-12-19|
 |52|[GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples)|This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI.|125|2024-04-04|2023-08-25|
 |53|[HighwayofLife/awesome-chatgpt-plugins](https://github.com/HighwayofLife/awesome-chatgpt-plugins)|A curated and categeorized list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins|124|2024-01-24|2023-06-13|
-|54|[owkin/HistoSSLscaling](https://github.com/owkin/HistoSSLscaling)|Code associated to the publication: Scaling self-supervised learning for histopathology with masked image modeling, A. Filiot et al., MedRxiv (2023).|113|2024-01-29|2023-09-01|
-|55|[awei669/VQ-Font](https://github.com/awei669/VQ-Font)|[ICCV 2023] Few shot font generation via transferring similarity guided global and quantization local styles|113|2024-03-12|2023-08-10|
-|56|[zhoujing204/python_course](https://github.com/zhoujing204/python_course)|A python course for college students.|112|2024-04-02|2023-07-24|
-|57|[kinfey/dotNETOAIBooks](https://github.com/kinfey/dotNETOAIBooks)|This is a Azure OpenAI book for .NET Developer|109|2023-10-24|2023-04-08|
-|58|[bellingcat/open-source-research-notebooks](https://github.com/bellingcat/open-source-research-notebooks)|Jupyter notebooks helping open source researchers, journalists, and fact-checkers use command line tools and code projects for digital investigations.|107|2024-02-08|2023-08-17|
-|59|[deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)|👩🏻‍🍳 A collection of example notebooks|104|2024-03-27|2024-01-02|
-|60|[xetdata/onnx-models](https://github.com/xetdata/onnx-models)|A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.|104|2023-11-22|2023-11-21|
-|61|[microsoft/SemanticKernelCookBook](https://github.com/microsoft/SemanticKernelCookBook)|This is a Semantic Kernel's book for beginners |100|2024-04-02|2024-01-15|
-|62|[marklysze/LlamaIndex-RAG-WSL-CUDA](https://github.com/marklysze/LlamaIndex-RAG-WSL-CUDA)|Examples of RAG using Llamaindex with local LLMs - Gemma, Mixtral 8x7B, Llama 2, Mistral 7B, Orca 2, Phi-2, Neural 7B|100|2024-02-25|2023-12-08|
-|63|[LukeDitria/pytorch_tutorials](https://github.com/LukeDitria/pytorch_tutorials)|Beginner Level Deep Learning Tutorials in Pytorch with Youtube Videos!|100|2024-04-04|2023-09-04|
-|64|[FixedPointIO/Artemis](https://github.com/FixedPointIO/Artemis)|ARTEMIS is an open source Python package designed for forestry statistics, using evolutionary algorithms to solve the Chapman-Richards growth function in presence of noisy data.|100|2023-12-23|2023-08-10|
-|65|[ndif-team/nnsight](https://github.com/ndif-team/nnsight)|The nnsight package enables interpreting and manipulating the internals of deep learned models.|99|2024-04-01|2023-10-20|
+|54|[ndif-team/nnsight](https://github.com/ndif-team/nnsight)|The nnsight package enables interpreting and manipulating the internals of deep learned models.|121|2024-04-01|2023-10-20|
+|55|[owkin/HistoSSLscaling](https://github.com/owkin/HistoSSLscaling)|Code associated to the publication: Scaling self-supervised learning for histopathology with masked image modeling, A. Filiot et al., MedRxiv (2023).|113|2024-01-29|2023-09-01|
+|56|[awei669/VQ-Font](https://github.com/awei669/VQ-Font)|[ICCV 2023] Few shot font generation via transferring similarity guided global and quantization local styles|113|2024-03-12|2023-08-10|
+|57|[zhoujing204/python_course](https://github.com/zhoujing204/python_course)|A python course for college students.|112|2024-04-06|2023-07-24|
+|58|[kinfey/dotNETOAIBooks](https://github.com/kinfey/dotNETOAIBooks)|This is a Azure OpenAI book for .NET Developer|109|2023-10-24|2023-04-08|
+|59|[bellingcat/open-source-research-notebooks](https://github.com/bellingcat/open-source-research-notebooks)|Jupyter notebooks helping open source researchers, journalists, and fact-checkers use command line tools and code projects for digital investigations.|107|2024-02-08|2023-08-17|
+|60|[deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)|👩🏻‍🍳 A collection of example notebooks|104|2024-03-27|2024-01-02|
+|61|[xetdata/onnx-models](https://github.com/xetdata/onnx-models)|A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.|104|2023-11-22|2023-11-21|
+|62|[microsoft/SemanticKernelCookBook](https://github.com/microsoft/SemanticKernelCookBook)|This is a Semantic Kernel's book for beginners |101|2024-04-02|2024-01-15|
+|63|[marklysze/LlamaIndex-RAG-WSL-CUDA](https://github.com/marklysze/LlamaIndex-RAG-WSL-CUDA)|Examples of RAG using Llamaindex with local LLMs - Gemma, Mixtral 8x7B, Llama 2, Mistral 7B, Orca 2, Phi-2, Neural 7B|100|2024-02-25|2023-12-08|
+|64|[LukeDitria/pytorch_tutorials](https://github.com/LukeDitria/pytorch_tutorials)|Beginner Level Deep Learning Tutorials in Pytorch with Youtube Videos!|100|2024-04-04|2023-09-04|
+|65|[FixedPointIO/Artemis](https://github.com/FixedPointIO/Artemis)|ARTEMIS is an open source Python package designed for forestry statistics, using evolutionary algorithms to solve the Chapman-Richards growth function in presence of noisy data.|100|2023-12-23|2023-08-10|
 |66|[tencent-ailab/PCDMs](https://github.com/tencent-ailab/PCDMs)|Implementation code：Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models|98|2024-02-28|2023-10-26|
 |67|[YanzuoLu/CFLD](https://github.com/YanzuoLu/CFLD)|[CVPR 2024 Highlight] Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis|97|2024-04-05|2023-11-01|
-|68|[griffisben/griffis_soccer_analysis](https://github.com/griffisben/griffis_soccer_analysis)|A collection of different functions I use to analyze soccer/football|94|2024-03-26|2023-06-13|
-|69|[xiaolai/1000-hours](https://github.com/xiaolai/1000-hours)|Pay your attention into 1000 hours, and you can master anything you need.|92|2024-02-20|2024-02-10|
+|68|[xiaolai/1000-hours](https://github.com/xiaolai/1000-hours)|Pay your attention into 1000 hours, and you can master anything you need.|94|2024-02-20|2024-02-10|
+|69|[griffisben/griffis_soccer_analysis](https://github.com/griffisben/griffis_soccer_analysis)|A collection of different functions I use to analyze soccer/football|94|2024-03-26|2023-06-13|
 |70|[jacobmarks/awesome-neurips-2023](https://github.com/jacobmarks/awesome-neurips-2023)|Conference schedule, top papers, and analysis of the data for NeurIPS 2023!|92|2023-12-15|2023-12-05|
 |71|[musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse)|Resources for the Generative Music AI Course on The Sound of AI YouTube channel.|92|2023-12-08|2023-10-31|
 |72|[apoorvalal/ding_causalInference_python](https://github.com/apoorvalal/ding_causalInference_python)|python implementation of Peng Ding's "First Course in Causal Inference" |90|2023-10-31|2023-10-07|
@@ -91,43 +91,43 @@
 |84|[cajohare/HowToMakeAPlot](https://github.com/cajohare/HowToMakeAPlot)|Matplotlib tutorials|85|2024-02-16|2023-11-26|
 |85|[ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops)|Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)".|85|2024-04-05|2023-08-31|
 |86|[mojodojodev/mojodojo.dev](https://github.com/mojodojodev/mojodojo.dev)|Learning materials for the Mojo🔥programming language|85|2023-11-18|2023-05-05|
-|87|[MK2112/nn-zero-to-hero-notes](https://github.com/MK2112/nn-zero-to-hero-notes)|Jupyter Notebook notes on Andrej Karpathy's tutorial series, "Neural Networks: Zero to Hero."|83|2024-03-04|2023-06-02|
-|88|[kinfey/SemanticKernelCookBook](https://github.com/kinfey/SemanticKernelCookBook)|Semantic Kernel's cook book |82|2024-04-02|2023-11-30|
-|89|[ashishpatel26/LLM-Engineering-Crash-Course](https://github.com/ashishpatel26/LLM-Engineering-Crash-Course)|LLM Engineering CrashCourse|81|2024-02-17|2023-12-29|
-|90|[MoritzLaurer/zeroshot-classifier](https://github.com/MoritzLaurer/zeroshot-classifier)|Notebooks for training universal 0-shot classifiers on many different tasks|79|2024-04-03|2023-09-28|
-|91|[TheQuantPy/youtube-tutorials](https://github.com/TheQuantPy/youtube-tutorials)|Collection of resources used on QuantPy YouTube channel.|79|2023-12-04|2023-07-18|
-|92|[nikitaprasad21/ML-Cheat-Codes](https://github.com/nikitaprasad21/ML-Cheat-Codes)|Machine Learning Cheatsheet 2024|78|2024-03-28|2024-01-17|
+|87|[kinfey/SemanticKernelCookBook](https://github.com/kinfey/SemanticKernelCookBook)|Semantic Kernel's cook book |83|2024-04-02|2023-11-30|
+|88|[MK2112/nn-zero-to-hero-notes](https://github.com/MK2112/nn-zero-to-hero-notes)|Jupyter Notebook notes on Andrej Karpathy's tutorial series, "Neural Networks: Zero to Hero."|83|2024-03-04|2023-06-02|
+|89|[nikitaprasad21/ML-Cheat-Codes](https://github.com/nikitaprasad21/ML-Cheat-Codes)|Machine Learning Cheatsheet 2024|81|2024-03-28|2024-01-17|
+|90|[ashishpatel26/LLM-Engineering-Crash-Course](https://github.com/ashishpatel26/LLM-Engineering-Crash-Course)|LLM Engineering CrashCourse|81|2024-02-17|2023-12-29|
+|91|[TheQuantPy/youtube-tutorials](https://github.com/TheQuantPy/youtube-tutorials)|Collection of resources used on QuantPy YouTube channel.|80|2023-12-04|2023-07-18|
+|92|[MoritzLaurer/zeroshot-classifier](https://github.com/MoritzLaurer/zeroshot-classifier)|Notebooks for training universal 0-shot classifiers on many different tasks|79|2024-04-03|2023-09-28|
 |93|[SergeiVKalinin/MSE_Fall2023](https://github.com/SergeiVKalinin/MSE_Fall2023)|The materials for the Fall ML in Materials course at the UTK MSE|77|2023-12-11|2023-05-23|
 |94|[R3gm/InsightSolver-Colab](https://github.com/R3gm/InsightSolver-Colab)|InsightSolver: Colab notebooks for exploring and solving operational issues using deep learning, machine learning, and related models.|77|2023-11-04|2023-05-03|
 |95|[AayushSameerShah/Neural-Net-Zero-to-Hero-with-Andrej](https://github.com/AayushSameerShah/Neural-Net-Zero-to-Hero-with-Andrej)|This repository contains the collection of explorative notebooks pure in python and in the language that we, humans can read. Have tried to compile all lectures from the Andrej Karpathy's 💎 playlist o ...|74|2023-10-08|2023-04-29|
 |96|[DS-4-DS/DS4DS_Course](https://github.com/DS-4-DS/DS4DS_Course)|Data Science for Dynamical System  Course|73|2024-01-25|2023-09-18|
-|97|[menzHSE/cv-ml-lecture-notebooks](https://github.com/menzHSE/cv-ml-lecture-notebooks)|Computer Vision and Machine Learning Jupyter Notebooks for Educational Purposes|72|2024-03-05|2023-12-23|
-|98|[Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration)|Jupyter Notebooks for Ollama integration|72|2024-02-27|2023-10-23|
-|99|[codebasics/langchain](https://github.com/codebasics/langchain)|Tutorial for langchain LLM library|72|2024-02-28|2023-06-27|
+|97|[codebasics/langchain](https://github.com/codebasics/langchain)|Tutorial for langchain LLM library|73|2024-02-28|2023-06-27|
+|98|[menzHSE/cv-ml-lecture-notebooks](https://github.com/menzHSE/cv-ml-lecture-notebooks)|Computer Vision and Machine Learning Jupyter Notebooks for Educational Purposes|72|2024-03-05|2023-12-23|
+|99|[Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration)|Jupyter Notebooks for Ollama integration|72|2024-02-27|2023-10-23|
 |100|[santifiorino/maps-pathfinding](https://github.com/santifiorino/maps-pathfinding)|Discover the differences between A* and Dijkstra algorithms in city map pathfinding through a Jupyter notebook demonstration. Explore algorithmic efficiencies and road usage patterns in navigating urb ...|69|2024-02-12|2024-02-12|
 |101|[neuro4ml/neuro4ml.github.io](https://github.com/neuro4ml/neuro4ml.github.io)|Neuroscience for machine learners course|68|2024-01-19|2023-09-28|
 |102|[rajshah4/LLM-Evaluation](https://github.com/rajshah4/LLM-Evaluation)|Sample notebooks and prompts for LLM evaluation|67|2024-03-08|2023-10-20|
-|103|[MizuhoAOKI/path_tracking_catalog](https://github.com/MizuhoAOKI/path_tracking_catalog)|25 path-tracking algorithms are (goint to be) implemented with python.|64|2023-12-22|2023-09-28|
-|104|[DeependraVerma/AI-Lecture-Transcriber-YouTube-to-Notes-Converter](https://github.com/DeependraVerma/AI-Lecture-Transcriber-YouTube-to-Notes-Converter)|Effortlessly convert YouTube lectures to concise notes with our AI transcriber. Streamline learning and comprehension with just a click!|62|2024-02-17|2024-02-01|
-|105|[tcapelle/llm_recipes](https://github.com/tcapelle/llm_recipes)|A set of scripts and notebooks on LLM finetunning and dataset creation|62|2024-03-11|2023-10-10|
+|103|[MizuhoAOKI/path_tracking_catalog](https://github.com/MizuhoAOKI/path_tracking_catalog)|25 path-tracking algorithms are (goint to be) implemented with python.|65|2023-12-22|2023-09-28|
+|104|[tcapelle/llm_recipes](https://github.com/tcapelle/llm_recipes)|A set of scripts and notebooks on LLM finetunning and dataset creation|63|2024-03-11|2023-10-10|
+|105|[DeependraVerma/AI-Lecture-Transcriber-YouTube-to-Notes-Converter](https://github.com/DeependraVerma/AI-Lecture-Transcriber-YouTube-to-Notes-Converter)|Effortlessly convert YouTube lectures to concise notes with our AI transcriber. Streamline learning and comprehension with just a click!|62|2024-02-17|2024-02-01|
 |106|[sockcymbal/enhanced-llm-reasoning-tree-of-thoughts](https://github.com/sockcymbal/enhanced-llm-reasoning-tree-of-thoughts)|Collection of Tree of Thoughts prompting techniques I've found useful to start with, then stylize, then iterate|62|2023-10-16|2023-07-08|
 |107|[AssemblyAI/cookbook](https://github.com/AssemblyAI/cookbook)|A resource of code examples, guides, and tutorials for using the AssemblyAI API.|60|2024-04-04|2023-09-20|
 |108|[Lasttrader/awesome_data_science_2021](https://github.com/Lasttrader/awesome_data_science_2021)|notebooks examples from my data science course|59|2024-03-27|2023-05-09|
 |109|[deptofdefense/LLMs-at-DoD](https://github.com/deptofdefense/LLMs-at-DoD)|This repo is dedicated to providing open-source tutorials for Large Language Model experimentation.|58|2023-12-12|2023-10-12|
 |110|[microsoft/llmops-workshop](https://github.com/microsoft/llmops-workshop)|Learn how to build solutions with Large Language Models.|56|2024-03-21|2024-01-04|
 |111|[evidentlyai/ml_observability_course](https://github.com/evidentlyai/ml_observability_course)|Free Open-source ML observability course for data scientists and ML engineers. Learn how to monitor and debug your ML models in production. |56|2023-12-17|2023-10-05|
-|112|[Anil-matcha/GPT-4-Vision-Chatbot](https://github.com/Anil-matcha/GPT-4-Vision-Chatbot)|GPT-4 Vision Chatbot examples|55|2023-11-07|2023-11-07|
-|113|[dotlas/databricks_helpers](https://github.com/dotlas/databricks_helpers)|🧱 A collection of supplementary utilities and helper notebooks to perform admin tasks on Databricks|55|2023-10-30|2023-10-11|
-|114|[Dhanvanth0905/Dhanvanth0905-Topic_Categorization_Using_LLMs](https://github.com/Dhanvanth0905/Dhanvanth0905-Topic_Categorization_Using_LLMs)|The repository contains a comparative study between PaLM, BERT and GPT for categorizing Topics|54|2024-01-07|2024-01-07|
+|112|[dotlas/databricks_helpers](https://github.com/dotlas/databricks_helpers)|🧱 A collection of supplementary utilities and helper notebooks to perform admin tasks on Databricks|55|2023-10-30|2023-10-11|
+|113|[Dhanvanth0905/Dhanvanth0905-Topic_Categorization_Using_LLMs](https://github.com/Dhanvanth0905/Dhanvanth0905-Topic_Categorization_Using_LLMs)|The repository contains a comparative study between PaLM, BERT and GPT for categorizing Topics|54|2024-01-07|2024-01-07|
+|114|[Anil-matcha/GPT-4-Vision-Chatbot](https://github.com/Anil-matcha/GPT-4-Vision-Chatbot)|GPT-4 Vision Chatbot examples|54|2023-11-07|2023-11-07|
 |115|[intro2ddsp/intro2ddsp.github.io](https://github.com/intro2ddsp/intro2ddsp.github.io)|A Jupyter book accompanying the ISMIR 2023 tutorial Introduction to DIfferentiable Audio Synthesiser Programming|53|2024-03-10|2023-10-02|
 |116|[fw-ai/cookbook](https://github.com/fw-ai/cookbook)|Collection of recipes aiding Gen AI model development|53|2024-01-16|2023-08-12|
 |117|[AliHabibnia/Algorithmic_Trading_with_Python](https://github.com/AliHabibnia/Algorithmic_Trading_with_Python)|This comprehensive, hands-on course provides a thorough exploration into the world of algorithmic trading, aimed at students, professionals, and enthusiasts with a basic understanding of Python progra ...|52|2023-10-16|2023-07-31|
 |118|[SuperDuperDB/superduper-community-apps](https://github.com/SuperDuperDB/superduper-community-apps)|Example notebooks and use-cases for SuperDuperDB|51|2024-01-15|2023-10-12|
-|119|[sivakumar-mahalingam/DSA](https://github.com/sivakumar-mahalingam/DSA)|📝 Algorithms and Data Structures implemented in Python|51|2024-01-13|2023-06-19|
-|120|[carstenbauer/JuliaUCL24](https://github.com/carstenbauer/JuliaUCL24)|Julia for HPC Course @ UCL ARC|50|2024-03-07|2024-01-23|
-|121|[LoryPack/LLM-LieDetector](https://github.com/LoryPack/LLM-LieDetector)|Code for the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions"|50|2023-11-02|2023-09-11|
-|122|[lingyixu/Quant-Finance-With-Python-Code](https://github.com/lingyixu/Quant-Finance-With-Python-Code)|Repo for code examples in Quantitative Finance with Python by Chris Kelliher|50|2023-11-27|2023-06-02|
-|123|[FutureXiang/soda](https://github.com/FutureXiang/soda)|Unofficial implementation of "SODA: Bottleneck Diffusion Models for Representation Learning"|49|2024-03-21|2023-12-07|
+|119|[LoryPack/LLM-LieDetector](https://github.com/LoryPack/LLM-LieDetector)|Code for the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions"|51|2023-11-02|2023-09-11|
+|120|[sivakumar-mahalingam/DSA](https://github.com/sivakumar-mahalingam/DSA)|📝 Algorithms and Data Structures implemented in Python|51|2024-01-13|2023-06-19|
+|121|[carstenbauer/JuliaUCL24](https://github.com/carstenbauer/JuliaUCL24)|Julia for HPC Course @ UCL ARC|50|2024-03-07|2024-01-23|
+|122|[FutureXiang/soda](https://github.com/FutureXiang/soda)|Unofficial implementation of "SODA: Bottleneck Diffusion Models for Representation Learning"|50|2024-03-21|2023-12-07|
+|123|[lingyixu/Quant-Finance-With-Python-Code](https://github.com/lingyixu/Quant-Finance-With-Python-Code)|Repo for code examples in Quantitative Finance with Python by Chris Kelliher|50|2023-11-27|2023-06-02|
 |124|[steveazzolin/gdl_tutorial_turinginst](https://github.com/steveazzolin/gdl_tutorial_turinginst)|Material for the hands-on tutorial on Graph Deep Learning held at the Alan Turing Institute|47|2023-11-29|2023-11-03|
 |125|[yujiangpu20/PEL4VAD](https://github.com/yujiangpu20/PEL4VAD)|Official code for "Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomlay Detection"|47|2024-01-24|2023-07-04|
 |126|[R3gm/SD_diffusers_interactive](https://github.com/R3gm/SD_diffusers_interactive)|A widgets-based interactive notebook for SD|46|2024-03-22|2023-09-13|
@@ -136,46 +136,46 @@
 |129|[arunpshankar/LLM-Text-to-SQL-Architectures](https://github.com/arunpshankar/LLM-Text-to-SQL-Architectures)|A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation.|45|2023-11-12|2023-10-10|
 |130|[OpenBB-finance/examples](https://github.com/OpenBB-finance/examples)|Notebooks and scripts that are utilized in tweets|45|2023-12-30|2023-05-18|
 |131|[shafu0x/evm-from-scratch-book](https://github.com/shafu0x/evm-from-scratch-book)|The EVM from scratch book|44|2024-04-04|2024-02-28|
-|132|[moises-dias/yolo-opencv-detector](https://github.com/moises-dias/yolo-opencv-detector)|Complete Hands-On YOLO Object Detection Tutorial|44|2023-12-18|2023-09-02|
-|133|[lyramakesmusic/finetune-musicgen](https://github.com/lyramakesmusic/finetune-musicgen)|a notebook containing scripts, documentation, and examples for finetuning musicgen|44|2023-11-14|2023-08-29|
-|134|[nukezil/IOMatch](https://github.com/nukezil/IOMatch)|[ICCV 2023 Oral] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization|44|2024-01-28|2023-08-25|
-|135|[Sentdex/LLM-Finetuning](https://github.com/Sentdex/LLM-Finetuning)|Some helpers and examples for creating an LLM fine-tuning dataset|43|2024-03-06|2024-03-06|
-|136|[rokbenko/ai-playground](https://github.com/rokbenko/ai-playground)|Code from tutorials presented on the "Code AI with Rok" YouTube channel|43|2024-04-04|2023-11-07|
-|137|[pliang279/FactorCL](https://github.com/pliang279/FactorCL)|[NeurIPS 2023] Factorized Contrastive Learning: Going Beyond Multi-view Redundancy|43|2023-11-13|2023-06-07|
-|138|[wiseaidev/dark-web-rust](https://github.com/wiseaidev/dark-web-rust)|A hands-on book for abusing systems using Rust (WIP) - Open Research|42|2024-04-01|2023-11-12|
-|139|[manifoldailearning/Complete-MLOps-BootCamp](https://github.com/manifoldailearning/Complete-MLOps-BootCamp)|A Hands on Guide on MLOps Practices to take your model from Laptop to Production. Created by the Author - Nachiketh Murthy|41|2024-02-22|2023-09-10|
+|132|[manifoldailearning/Complete-MLOps-BootCamp](https://github.com/manifoldailearning/Complete-MLOps-BootCamp)|A Hands on Guide on MLOps Practices to take your model from Laptop to Production. Created by the Author - Nachiketh Murthy|44|2024-02-22|2023-09-10|
+|133|[moises-dias/yolo-opencv-detector](https://github.com/moises-dias/yolo-opencv-detector)|Complete Hands-On YOLO Object Detection Tutorial|44|2023-12-18|2023-09-02|
+|134|[lyramakesmusic/finetune-musicgen](https://github.com/lyramakesmusic/finetune-musicgen)|a notebook containing scripts, documentation, and examples for finetuning musicgen|44|2023-11-14|2023-08-29|
+|135|[nukezil/IOMatch](https://github.com/nukezil/IOMatch)|[ICCV 2023 Oral] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization|44|2024-01-28|2023-08-25|
+|136|[Sentdex/LLM-Finetuning](https://github.com/Sentdex/LLM-Finetuning)|Some helpers and examples for creating an LLM fine-tuning dataset|43|2024-03-06|2024-03-06|
+|137|[rokbenko/ai-playground](https://github.com/rokbenko/ai-playground)|Code from tutorials presented on the "Code AI with Rok" YouTube channel|43|2024-04-04|2023-11-07|
+|138|[pliang279/FactorCL](https://github.com/pliang279/FactorCL)|[NeurIPS 2023] Factorized Contrastive Learning: Going Beyond Multi-view Redundancy|43|2023-11-13|2023-06-07|
+|139|[wiseaidev/dark-web-rust](https://github.com/wiseaidev/dark-web-rust)|A hands-on book for abusing systems using Rust (WIP) - Open Research|42|2024-04-01|2023-11-12|
 |140|[Jayasurya-Marasani/Tic-Tac-Toe-game-using-Q-Learning-Algorithm](https://github.com/Jayasurya-Marasani/Tic-Tac-Toe-game-using-Q-Learning-Algorithm)|This repository implements the Tic-Tac-Toe game in python using Q-Learning Algorithm|40|2024-01-07|2024-01-07|
 |141|[Jayasurya-Marasani/Topic-Categorization-Using-LLMs](https://github.com/Jayasurya-Marasani/Topic-Categorization-Using-LLMs)|The repository contains a comparative study between PaLM, BERT and GPT for categorizing Topics|40|2024-01-21|2024-01-07|
 |142|[neuro4ml/exercises](https://github.com/neuro4ml/exercises)|Exercises for "Neuroscience for machine learners" course|40|2023-12-12|2023-09-28|
-|143|[manuelgilm/mlflow_for_ml_dev](https://github.com/manuelgilm/mlflow_for_ml_dev)|Repository with code examples of mlflow|40|2024-04-05|2023-08-13|
+|143|[manuelgilm/mlflow_for_ml_dev](https://github.com/manuelgilm/mlflow_for_ml_dev)|Repository with code examples of mlflow|40|2024-04-06|2023-08-13|
 |144|[aronwalsh/MLforMaterials](https://github.com/aronwalsh/MLforMaterials)|Online resource for a practical course in machine learning for materials research at Imperial College London (MATE70026)|40|2024-03-01|2023-08-02|
 |145|[utkarshmall13/CACo](https://github.com/utkarshmall13/CACo)|official code for CVPR 2023 paper 'Change-Aware Sampling and Contrastive Learning for Satellite Images'|40|2024-04-04|2023-06-16|
 |146|[smsharma/sbi-lecture-mit](https://github.com/smsharma/sbi-lecture-mit)|Notebook to go along with a lecture for the MIT course 8.16: Data Science in Physics on neural simulation-based inference.|40|2023-10-31|2023-04-24|
 |147|[kram254/trade-project](https://github.com/kram254/trade-project)|NoteBooks Simple project|39|2023-11-25|2023-09-27|
-|148|[Redislabs-Solution-Architects/Redis-Workshops](https://github.com/Redislabs-Solution-Architects/Redis-Workshops)|Learn Redis Enterprise and Redis Stack with simple Google Colab notebooks|38|2024-04-04|2023-05-22|
-|149|[tjz21/DFT_PIB_Code](https://github.com/tjz21/DFT_PIB_Code)|Interactive Jupyter Notebooks for learning the fundamentals of Density-Functional Theory (DFT)|38|2024-03-18|2023-05-15|
-|150|[questdb/time-series-streaming-analytics-template](https://github.com/questdb/time-series-streaming-analytics-template)|Template to quickstart streaming analytics using Apache Kafka for ingestion, QuestDB for time-series storage and analytics, Grafana for near real-time dashboards, and Jupyter Notebook for data science|37|2024-04-05|2024-01-17|
-|151|[SergeiVKalinin/MSE_Spring2024](https://github.com/SergeiVKalinin/MSE_Spring2024)|The materials for the Spring Mathematics in Materials course at the UTK MSE|37|2024-04-04|2023-10-31|
-|152|[XJTU-XGU/OTCS](https://github.com/XJTU-XGU/OTCS)|Code for "Optimal Transport-Guided Conditional Score-Based Diffusion Model (NeurIPS, 8,7,7,6)"|37|2023-12-11|2023-10-25|
-|153|[dh-r/LLM-Sequential-Recommendation](https://github.com/dh-r/LLM-Sequential-Recommendation)|All code necessary for reproducing the "Improving Sequential Recommendation with LLMs" and "Leveraging Large Language Models for Sequential Recommendation" papers.|37|2024-02-05|2023-07-25|
-|154|[mneedham/LearnDataWithMark](https://github.com/mneedham/LearnDataWithMark)|Code and scripts behind the @LearnDataWithMark YouTube channel|37|2024-03-26|2023-07-18|
-|155|[SamBelkacem/Machine-Learning-Basics](https://github.com/SamBelkacem/Machine-Learning-Basics)|Tutorial on Machine Learning Basics with Python|37|2024-02-02|2023-04-30|
-|156|[mark-lord/MLX-text-completion-notebook](https://github.com/mark-lord/MLX-text-completion-notebook)|A simple Jupyter Notebook for learning MLX text-completion fine-tuning!|36|2024-03-12|2024-03-09|
-|157|[donald-f-ferguson/W4111-Intro-to-Databases-Spring-2024](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Spring-2024)|Repository for lectures and examples for COMSW4111 - Introduction to Databases, Spring 2024, Section 002|36|2024-04-05|2023-12-16|
+|148|[questdb/time-series-streaming-analytics-template](https://github.com/questdb/time-series-streaming-analytics-template)|Template to quickstart streaming analytics using Apache Kafka for ingestion, QuestDB for time-series storage and analytics, Grafana for near real-time dashboards, and Jupyter Notebook for data science|38|2024-04-05|2024-01-17|
+|149|[Redislabs-Solution-Architects/Redis-Workshops](https://github.com/Redislabs-Solution-Architects/Redis-Workshops)|Learn Redis Enterprise and Redis Stack with simple Google Colab notebooks|38|2024-04-04|2023-05-22|
+|150|[tjz21/DFT_PIB_Code](https://github.com/tjz21/DFT_PIB_Code)|Interactive Jupyter Notebooks for learning the fundamentals of Density-Functional Theory (DFT)|38|2024-03-18|2023-05-15|
+|151|[mark-lord/MLX-text-completion-notebook](https://github.com/mark-lord/MLX-text-completion-notebook)|A simple Jupyter Notebook for learning MLX text-completion fine-tuning!|37|2024-03-12|2024-03-09|
+|152|[SergeiVKalinin/MSE_Spring2024](https://github.com/SergeiVKalinin/MSE_Spring2024)|The materials for the Spring Mathematics in Materials course at the UTK MSE|37|2024-04-04|2023-10-31|
+|153|[XJTU-XGU/OTCS](https://github.com/XJTU-XGU/OTCS)|Code for "Optimal Transport-Guided Conditional Score-Based Diffusion Model (NeurIPS, 8,7,7,6)"|37|2023-12-11|2023-10-25|
+|154|[dh-r/LLM-Sequential-Recommendation](https://github.com/dh-r/LLM-Sequential-Recommendation)|All code necessary for reproducing the "Improving Sequential Recommendation with LLMs" and "Leveraging Large Language Models for Sequential Recommendation" papers.|37|2024-02-05|2023-07-25|
+|155|[mneedham/LearnDataWithMark](https://github.com/mneedham/LearnDataWithMark)|Code and scripts behind the @LearnDataWithMark YouTube channel|37|2024-03-26|2023-07-18|
+|156|[SamBelkacem/Machine-Learning-Basics](https://github.com/SamBelkacem/Machine-Learning-Basics)|Tutorial on Machine Learning Basics with Python|37|2024-02-02|2023-04-30|
+|157|[donald-f-ferguson/W4111-Intro-to-Databases-Spring-2024](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Spring-2024)|Repository for lectures and examples for COMSW4111 - Introduction to Databases, Spring 2024, Section 002|36|2024-04-06|2023-12-16|
 |158|[ndb796/MachineUnlearning](https://github.com/ndb796/MachineUnlearning)|Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems|36|2023-12-24|2023-11-03|
 |159|[SHUMKASHUN/Plots](https://github.com/SHUMKASHUN/Plots)|This repo contains my customised style python based plots for  NLP papers, and includes my reproduction for my favourite papers' plots|36|2024-03-04|2023-09-09|
 |160|[pathwaycom/pathway-examples](https://github.com/pathwaycom/pathway-examples)|Code examples for the Pathway programming framework|36|2024-03-29|2023-07-21|
 |161|[neuralmagic/examples](https://github.com/neuralmagic/examples)|Notebooks using the Neural Magic libraries 📓|36|2024-03-12|2023-07-12|
 |162|[JPSchloss/Code_Resources_And_Examples](https://github.com/JPSchloss/Code_Resources_And_Examples)|A collection of code snippets that I create and share with the world! |36|2023-12-25|2023-06-28|
-|163|[johnma2006/candle](https://github.com/johnma2006/candle)|Deep learning library implemented from scratch in numpy. Mixtral, Mamba, LLaMA, GPT, ResNet, and other experiments.|35|2024-02-06|2023-11-17|
-|164|[Pseudo-Lab/labmlai_annotated_deeplearning_paper_implementation](https://github.com/Pseudo-Lab/labmlai_annotated_deeplearning_paper_implementation)|KOREAN Translation of labmlai/annotated_deep_learning_paper_implementations|35|2024-02-06|2023-09-16|
-|165|[AllenInstitute/abc_atlas_access](https://github.com/AllenInstitute/abc_atlas_access)|Documentation and examples demonstrating how to access data from the Allen Brain Cell Atlas|35|2024-03-20|2023-05-31|
-|166|[WenjieDu/BrewPOTS](https://github.com/WenjieDu/BrewPOTS)|The tutorials for PyPOTS.|35|2024-04-01|2023-04-27|
+|163|[WenjieDu/BrewPOTS](https://github.com/WenjieDu/BrewPOTS)|The tutorials for PyPOTS.|36|2024-04-01|2023-04-27|
+|164|[johnma2006/candle](https://github.com/johnma2006/candle)|Deep learning library implemented from scratch in numpy. Mixtral, Mamba, LLaMA, GPT, ResNet, and other experiments.|35|2024-02-06|2023-11-17|
+|165|[Pseudo-Lab/labmlai_annotated_deeplearning_paper_implementation](https://github.com/Pseudo-Lab/labmlai_annotated_deeplearning_paper_implementation)|KOREAN Translation of labmlai/annotated_deep_learning_paper_implementations|35|2024-02-06|2023-09-16|
+|166|[AllenInstitute/abc_atlas_access](https://github.com/AllenInstitute/abc_atlas_access)|Documentation and examples demonstrating how to access data from the Allen Brain Cell Atlas|35|2024-03-20|2023-05-31|
 |167|[djliden/llmops-examples](https://github.com/djliden/llmops-examples)|Example code and notebooks related to mlflow, llmops, etc.|34|2023-11-16|2023-07-14|
-|168|[XiaoxinHe/iclr2024_learning_on_graphs](https://github.com/XiaoxinHe/iclr2024_learning_on_graphs)|List of papers on ICLR 2024|33|2024-03-06|2024-03-05|
-|169|[Azure-Samples/azure-vector-database-samples](https://github.com/Azure-Samples/azure-vector-database-samples)|A collection of samples to demonstrate vector search capabilities using different Azure tools like Azure AI Search, PostgreSQL, Redis etc.|33|2024-04-05|2023-09-26|
-|170|[PRIS-CV/seal](https://github.com/PRIS-CV/seal)|Semantic Enhanced Attribute Learning|33|2023-11-13|2023-07-03|
-|171|[NebulaTris/pdsa-iitm](https://github.com/NebulaTris/pdsa-iitm)|This repository contains the weekly notes and GRPA solutions for the course Programming, Data Structures and Algorithms using Python (PDSA) at IIT Madras.|33|2024-04-05|2023-04-27|
+|168|[NebulaTris/pdsa-iitm](https://github.com/NebulaTris/pdsa-iitm)|This repository contains the weekly notes and GRPA solutions for the course Programming, Data Structures and Algorithms using Python (PDSA) at IIT Madras.|34|2024-04-05|2023-04-27|
+|169|[XiaoxinHe/iclr2024_learning_on_graphs](https://github.com/XiaoxinHe/iclr2024_learning_on_graphs)|List of papers on ICLR 2024|33|2024-03-06|2024-03-05|
+|170|[Azure-Samples/azure-vector-database-samples](https://github.com/Azure-Samples/azure-vector-database-samples)|A collection of samples to demonstrate vector search capabilities using different Azure tools like Azure AI Search, PostgreSQL, Redis etc.|33|2024-04-05|2023-09-26|
+|171|[PRIS-CV/seal](https://github.com/PRIS-CV/seal)|Semantic Enhanced Attribute Learning|33|2023-11-13|2023-07-03|
 |172|[emaballarin/deeplearning-units](https://github.com/emaballarin/deeplearning-units)|🧠🧑🏻‍💻 Repository for the Deep Learning course labs/practica (UniTS, Spring 2024)|32|2024-03-11|2024-02-08|
 |173|[fbaptiste/pydantic-essentials](https://github.com/fbaptiste/pydantic-essentials)|Companion Repository for my Pydantic: Essentials Course|32|2024-02-23|2023-12-02|
 |174|[john-adeojo/autogen_flights_tutorial](https://github.com/john-adeojo/autogen_flights_tutorial)|Tutorial for AutoGen with Amadeus flights API, Parallel Function Calls|32|2023-11-20|2023-11-13|

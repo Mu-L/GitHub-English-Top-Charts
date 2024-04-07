@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,26 +11,26 @@
 |4|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|523|2024-04-02|2023-11-03|
 |5|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|339|2024-02-07|2023-10-25|
 |6|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|292|2024-04-02|2023-08-28|
-|7|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|253|2024-03-26|2023-07-21|
+|7|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|254|2024-03-26|2023-07-21|
 |8|[rashevskyv/4IFIR](https://github.com/rashevskyv/4IFIR)|Guide for using 4IFIR - ultimate CFW for overlocking Nintendo Switch|230|2024-04-04|2023-05-14|
-|9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|198|2024-04-04|2024-01-14|
+|9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|200|2024-04-04|2024-01-14|
 |10|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|188|2024-03-08|2023-07-23|
-|11|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |171|2024-04-05|2023-08-16|
+|11|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |172|2024-04-05|2023-08-16|
 |12|[KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial)|A Easy-to-understand TensorOp Matmul Tutorial|159|2024-01-13|2023-05-12|
 |13|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|146|2024-03-13|2023-11-07|
 |14|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|136|2024-03-04|2023-07-18|
 |15|[KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial)|Hands-On Practical MLIR Tutorial|117|2023-10-20|2023-10-11|
-|16|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|109|2023-11-24|2023-09-28|
-|17|[naksyn/Embedder](https://github.com/naksyn/Embedder)|Embedder is a collection of sources in different languages to embed Python interpreter with minimal dependencies|104|2024-03-10|2023-07-13|
-|18|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|102|2024-04-05|2024-03-20|
-|19|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|102|2024-04-05|2023-07-03|
-|20|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|102|2023-11-27|2023-06-14|
-|21|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallelized algorithms for point cloud registration [C++, Python]|101|2024-04-05|2024-03-22|
+|16|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallelized algorithms for point cloud registration [C++, Python]|113|2024-04-05|2024-03-22|
+|17|[MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)|Inject a shared library into a process using ptrace|109|2023-11-24|2023-09-28|
+|18|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|106|2024-04-05|2024-03-20|
+|19|[naksyn/Embedder](https://github.com/naksyn/Embedder)|Embedder is a collection of sources in different languages to embed Python interpreter with minimal dependencies|104|2024-03-10|2023-07-13|
+|20|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|104|2024-04-06|2023-07-03|
+|21|[TheCherno/Walnut-Chat](https://github.com/TheCherno/Walnut-Chat)|Some examples on how to use Valve's GameNetworkingSockets library for networking in C++|102|2023-11-27|2023-06-14|
 |22|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|2023-12-08|2023-11-17|
 |23|[vicr123/QNearbyShare](https://github.com/vicr123/QNearbyShare)|Nearby Share implementation for Linux|98|2024-03-24|2023-04-17|
 |24|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|93|2024-01-01|2023-10-25|
-|25|[BIMCoderLiang/LNLib](https://github.com/BIMCoderLiang/LNLib)|A C++ NURBS Algorithms Library, match the NURBS Book|92|2024-03-31|2023-04-24|
-|26|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|88|2024-04-01|2023-10-01|
+|25|[BIMCoderLiang/LNLib](https://github.com/BIMCoderLiang/LNLib)|A C++ NURBS Algorithms Library, match the NURBS Book|91|2024-04-06|2023-04-24|
+|26|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-01|2023-10-01|
 |27|[Cherno-x/MyShellcodeLoader](https://github.com/Cherno-x/MyShellcodeLoader)| This GitHub repository provides code examples and implementation principles for various Shellcode Loader techniques, helping learners gain insight into malicious software development and Trojan evasi ...|78|2024-04-03|2024-03-06|
 |28|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|76|2024-04-04|2023-12-30|
 |29|[cv-rmvl/rmvl](https://github.com/cv-rmvl/rmvl)|RoboMaster Vision Library|63|2024-01-26|2023-08-16|
