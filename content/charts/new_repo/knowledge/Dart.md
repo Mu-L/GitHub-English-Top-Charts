@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|444|2024-03-20|2023-04-16|
+|1|[PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop)|Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.|446|2024-03-20|2023-04-16|
 |2|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|73|2024-03-17|2023-10-28|
 |3|[natsuk4ze/gal](https://github.com/natsuk4ze/gal)|How to Save Image or Video to Photo Gallery in Flutter|65|2024-04-02|2023-05-26|
 |4|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|49|2024-04-06|2024-02-14|
@@ -18,11 +18,11 @@
 |11|[keygenqt/aurora-scripts](https://github.com/keygenqt/aurora-scripts)|Aurora Scripts - collection of scripts to help the Aurora OS developer.|18|2024-01-31|2023-11-05|
 |12|[RasmusKoit/abs_wear](https://github.com/RasmusKoit/abs_wear)|3rd party Audiobookshelf client for Wear OS|17|2024-04-01|2024-02-11|
 |13|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|17|2024-04-02|2023-10-09|
-|14|[CodeBooter/Codebooter-flutter](https://github.com/CodeBooter/Codebooter-flutter)|CodeBooter is a computer science portal where you can prepare for your tech interviews as well as if you are CSE enthusiast then you can learn cs from here you can get every material you need.|16|2024-01-08|2023-06-09|
-|15|[kosukesaigusa/code_generation_samples](https://github.com/kosukesaigusa/code_generation_samples)|💙 A collection of sample packages for code generation in Dart, featured in FlutterKaigi 2023|15|2023-12-25|2023-10-24|
-|16|[shivin307/Student_AI](https://github.com/shivin307/Student_AI)|The AI chatbot software Student_AI uses ChimeraGPT's huge language model to improve student learning. Student_AI can give explanations, respond to queries, and even come up with original ideas. This m ...|15|2023-11-06|2023-06-19|
-|17|[HeyFlutter-Public/Flutter-Fitness-Dashboard-UI](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI)|This is a complete Fitness Dashboard UI built in flutter. This repository is for education purpose so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.|14|2024-03-02|2024-03-02|
-|18|[luizgasparetto/auto_cache_manager](https://github.com/luizgasparetto/auto_cache_manager)|🤖 Package that automates cache management policies, using sqflite and shared preferences under the hood.|14|2024-04-01|2023-09-18|
+|14|[luizgasparetto/auto_cache_manager](https://github.com/luizgasparetto/auto_cache_manager)|🤖 Package that automates cache management policies, using sqflite and shared preferences under the hood.|17|2024-04-07|2023-09-18|
+|15|[CodeBooter/Codebooter-flutter](https://github.com/CodeBooter/Codebooter-flutter)|CodeBooter is a computer science portal where you can prepare for your tech interviews as well as if you are CSE enthusiast then you can learn cs from here you can get every material you need.|16|2024-01-08|2023-06-09|
+|16|[kosukesaigusa/code_generation_samples](https://github.com/kosukesaigusa/code_generation_samples)|💙 A collection of sample packages for code generation in Dart, featured in FlutterKaigi 2023|15|2023-12-25|2023-10-24|
+|17|[shivin307/Student_AI](https://github.com/shivin307/Student_AI)|The AI chatbot software Student_AI uses ChimeraGPT's huge language model to improve student learning. Student_AI can give explanations, respond to queries, and even come up with original ideas. This m ...|15|2023-11-06|2023-06-19|
+|18|[HeyFlutter-Public/Flutter-Fitness-Dashboard-UI](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI)|This is a complete Fitness Dashboard UI built in flutter. This repository is for education purpose so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.|14|2024-03-02|2024-03-02|
 |19|[shorebirdtech/samples](https://github.com/shorebirdtech/samples)|A collection of Shorebird samples and demos|14|2024-02-02|2023-05-23|
 |20|[sampaio-tech/iOS-design-system](https://github.com/sampaio-tech/iOS-design-system)|This is a library of design system that follow all guidelines iOS/Cupertino.|14|2024-01-02|2023-04-29|
 |21|[arslandev97/DartMasterClass](https://github.com/arslandev97/DartMasterClass)|Welcome to the Dart Language Learning Repository! This Git repository is designed to support your journey in learning the Dart programming language. It contains a collection of code examples, exercise ...|13|2024-03-21|2023-06-02|
@@ -50,8 +50,9 @@
 |43|[gerfalcon/fp_playground](https://github.com/gerfalcon/fp_playground)|The purpose of this repository is to contain examples and snippets regarding functional programming in Dart.|6|2024-01-13|2023-07-07|
 |44|[alexrintt/dartf](https://github.com/alexrintt/dartf)|Superpowers for Dart. Collection of useful static extension methods. Hard fork of dartx and many others.|6|2023-10-22|2023-06-24|
 |45|[aerocyber/sitemarker](https://github.com/aerocyber/sitemarker)|An open source bookmark manager.|6|2024-04-01|2023-05-08|
-|46|[Mobterest/advanced_isar_database_tutorial_v3.1.0](https://github.com/Mobterest/advanced_isar_database_tutorial_v3.1.0)|All course files for the Mobterest [ Advanced Isar Database Tutorial ] on YouTube.|5|2024-01-20|2023-11-22|
-|47|[Dhruv-IGI/CoursePlayer](https://github.com/Dhruv-IGI/CoursePlayer)|A local video player for courses|5|2023-10-21|2023-10-01|
+|46|[unggulprayogaa18/Mobile_Booking_travel](https://github.com/unggulprayogaa18/Mobile_Booking_travel)|Project for booking travel with flutter|5|2024-04-07|2024-04-07|
+|47|[Mobterest/advanced_isar_database_tutorial_v3.1.0](https://github.com/Mobterest/advanced_isar_database_tutorial_v3.1.0)|All course files for the Mobterest [ Advanced Isar Database Tutorial ] on YouTube.|5|2024-01-20|2023-11-22|
+|48|[Dhruv-IGI/CoursePlayer](https://github.com/Dhruv-IGI/CoursePlayer)|A local video player for courses|5|2023-10-21|2023-10-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

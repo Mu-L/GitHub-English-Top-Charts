@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6552|2|2024-01-04|
-|2|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|2|2024-04-03|
-|3|[Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization](https://github.com/Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization)|Reservoir computing for short-and long-term prediction of chaotic systems, with tasks Lorenz and Mackey-Glass systems. Bayesian optimization (hyperparameter optimization algorithm) is used to tune the ...|3|1|2024-04-05|
-|4|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |114|1|2023-12-04|
-|5|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|1|2024-03-18|
-|6|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|4|1|2024-04-04|
-|7|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2355|1|2024-01-15|
-|8|[kangqwer/BD_data_processing](https://github.com/kangqwer/BD_data_processing)|-|3|1|2024-04-03|
-|9|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|1|2024-01-07|
-|10|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|553|1|2024-03-31|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6556|2|2024-01-04|
+|2|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |115|1|2023-12-04|
+|3|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|1|2024-03-18|
+|4|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|4|1|2024-04-04|
+|5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2355|1|2024-01-15|
+|6|[kangqwer/BD_data_processing](https://github.com/kangqwer/BD_data_processing)|-|3|1|2024-04-03|
+|7|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|1|2024-01-07|
+|8|[akfite/fsfind](https://github.com/akfite/fsfind)|Fast (MEX) filesystem search with regular expression support|3|1|2024-04-06|
+|9|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|553|1|2024-03-31|
+|10|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|1|2024-04-03|
 |11|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|1|2024-01-07|
 |12|[HengLan/VastTrack](https://github.com/HengLan/VastTrack)|VastTrack: Vast Category Visual Object Tracking|32|1|2024-03-27|
-|13|[matlab-deep-learning/constrained-deep-learning](https://github.com/matlab-deep-learning/constrained-deep-learning)|Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.|16|1|2024-03-27|
+|13|[matlab-deep-learning/constrained-deep-learning](https://github.com/matlab-deep-learning/constrained-deep-learning)|Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.|19|1|2024-03-27|
 |14|[ThecoderPinar/Earthquake_Prediction_Analysis_Project](https://github.com/ThecoderPinar/Earthquake_Prediction_Analysis_Project)|🌍 Welcome to the Earthquake Prediction Analysis Project! 🚀 This project aims to predict earthquake magnitudes using LSTM neural networks and analyze seismic data. Explore, analyze, and forecast earthq ...|6|1|2024-03-28|
-|15|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1392|1|2024-04-02|
+|15|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1394|1|2024-04-07|
 |16|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |17|[touseefisro/-Superpixel-Guided-Weighted-Low-Rank-Representation-for-Nonlinear-Hyperspectral-Unmixing](https://github.com/touseefisro/-Superpixel-Guided-Weighted-Low-Rank-Representation-for-Nonlinear-Hyperspectral-Unmixing)|-|3|0|2023-12-14|
 |18|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|3|0|2024-03-02|
@@ -43,7 +43,7 @@
 |36|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|4|0|2024-01-04|
 |37|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|6|0|2024-03-26|
 |38|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |18|0|2023-12-22|
-|39|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1487|0|2023-10-23|
+|39|[matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)|This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.|1486|0|2023-10-23|
 |40|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
 |41|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|4|0|2024-04-01|
 |42|[mathworks/Simscape-Backhoe-Arm](https://github.com/mathworks/Simscape-Backhoe-Arm)|Backhoe model, including hydraulic actuators for arm and bucket tilt, and multibody dynamics.|5|0|2023-12-06|
@@ -107,13 +107,13 @@
 |100|[fred9076/OPFA_matlab](https://github.com/fred9076/OPFA_matlab)|A demo of Gotcha Large Scene data orthorectified imaging with DEM via Orthorectified Polar Format Algorithm (OPFA)|11|0|2023-10-26|
 |101|[Canhui/Ant_Colony_Optimization](https://github.com/Canhui/Ant_Colony_Optimization)|ACO_for_TSP|4|0|2024-03-02|
 |102|[Jai-Tushar/Finite-Difference-Methods](https://github.com/Jai-Tushar/Finite-Difference-Methods)|This repository contains codes for solving partial differential equations using Finite Difference Methods in MATLAB.|3|0|2024-02-06|
-|103|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|56|0|2024-04-05|
+|103|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|57|0|2024-04-05|
 |104|[juangburgos/FitSumExponentials](https://github.com/juangburgos/FitSumExponentials)|Repo to license code for fitting a sum of exponentials as described in https://math.stackexchange.com/questions/1428566/fit-sum-of-exponentials/3808325#3808325|7|0|2024-03-20|
 |105|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|13|0|2024-03-10|
 |106|[dnafinder/logistic5](https://github.com/dnafinder/logistic5)|Five parameters logistic regression|5|0|2024-02-16|
 |107|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|15|0|2024-03-27|
 |108|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|8|0|2024-02-18|
-|109|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|11|0|2024-03-26|
+|109|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|12|0|2024-03-26|
 |110|[altmany/IQML](https://github.com/altmany/IQML)|Matlab connector to IQFeed|8|0|2023-11-06|
 |111|[ErikHansenGit/Contact_elastic_half-space](https://github.com/ErikHansenGit/Contact_elastic_half-space)|MATLAB solver for the deformation of an elastic half-space based on the Boundary Element Method (BEM)|7|0|2023-11-21|
 |112|[shaokai1209/MDSA](https://github.com/shaokai1209/MDSA)|[IEEE, TASLP, 2023] The code of the paper "Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition". |14|0|2023-11-02|
@@ -148,7 +148,7 @@
 |141|[niconeuman/octaveScripts](https://github.com/niconeuman/octaveScripts)|In this repository several Octave scripts will be available|6|0|2024-01-10|
 |142|[pliumath/dependencies](https://github.com/pliumath/dependencies)|-|3|0|2024-04-05|
 |143|[ISET/isetauto](https://github.com/ISET/isetauto)|Testing how networks perform when data are collected using different cameras|10|0|2024-04-03|
-|144|[barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility](https://github.com/barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility)|-|3|0|2024-03-06|
+|144|[barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility](https://github.com/barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility)|-|4|0|2024-03-06|
 |145|[le-liang/ResourceAllocationDelayedCSI](https://github.com/le-liang/ResourceAllocationDelayedCSI)|Spectrum and power allocation for vehicular communications with delayed CSI feedback, IEEE Wireless Communications Letters|62|0|2024-01-03|
 |146|[WangJun2023/RLFFC](https://github.com/WangJun2023/RLFFC)|[Information Fusion 2022] Hyperspectral Band Selection via Region-aware Latent Features Fusion Based Clustering.|7|0|2023-12-03|
 |147|[rlrangel/FEMOOLab](https://github.com/rlrangel/FEMOOLab)|Finite Element Method Object-Oriented Laboratory (FEMOOLab) is a MATLAB program for performing FEM-based numerical simulations, implemented in a modular OOP framework to allow different types of model ...|3|0|2024-03-20|
@@ -161,13 +161,13 @@
 |154|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|14|0|2024-04-01|
 |155|[lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension](https://github.com/lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension)|It can be used to quickly determine the linear separability of two sets in any dimension. A GPU is required.|3|0|2024-01-24|
 |156|[CunninghamLab/TMSAnalysisToolBox](https://github.com/CunninghamLab/TMSAnalysisToolBox)|Transcranial Magnetic Stimulation (TMS) Analysis Toolbox: A user friendly open source software for basic and advanced analysis of TMS related outcomes|16|0|2024-01-26|
-|157|[matteonerini/bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization|3|0|2024-03-01|
+|157|[matteonerini/bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization|4|0|2024-03-01|
 |158|[HennigJue/single-shot-spiral-TSE](https://github.com/HennigJue/single-shot-spiral-TSE)|MatLab code to create single shot spiral TSE sequences to be run using the Pulseq sequence programming environment|9|0|2023-11-13|
 |159|[cmahulea/RobotMotionToolbox-RMTool-under-MATLAB](https://github.com/cmahulea/RobotMotionToolbox-RMTool-under-MATLAB)|Robot Motion Toolbox for MATLAB|6|0|2024-01-05|
 |160|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|13|0|2024-03-16|
 |161|[I-STAR/MTFTools](https://github.com/I-STAR/MTFTools)|Tools for 2D and 3D MTF measurement.|6|0|2024-03-16|
 |162|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|85|0|2024-04-05|
-|163|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-03-31|
+|163|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-04-07|
 |164|[MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector](https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector)|A new method for accurate detection of movement intention from single channel EEG for online BCI|3|0|2024-02-25|
 |165|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-02-01|
 |166|[tub-rip/SER_Lie_poses](https://github.com/tub-rip/SER_Lie_poses)|Some functions to work with Lie groups SO(3) and SE(3). State Estimation for Robotics|9|0|2024-02-09|
@@ -197,7 +197,7 @@
 |190|[cnzakimuena/segPLEX](https://github.com/cnzakimuena/segPLEX)|PLEX Elite 9000 retinal B-scan segmentation and ETDRS grid|5|0|2023-10-31|
 |191|[dqrobotics/matlab](https://github.com/dqrobotics/matlab)|The DQ Robotics library in MATLAB|22|0|2024-04-03|
 |192|[jiaahnp/Nonlinear_DLVO_numerical](https://github.com/jiaahnp/Nonlinear_DLVO_numerical)|Calculates the DLVO interaction energy, which includes electrostatic double layer and van der Waals forces, by numerically solving the full, non-linear Poisson-Boltzmann equations for two charged sphe ...|3|0|2023-12-14|
-|193|[NCSUCORE/DoEOceanKiteProject](https://github.com/NCSUCORE/DoEOceanKiteProject)|DoE Ocean Kite Project repository|5|0|2023-11-14|
+|193|[NCSUCORE/DoEOceanKiteProject](https://github.com/NCSUCORE/DoEOceanKiteProject)|DoE Ocean Kite Project repository|6|0|2023-11-14|
 |194|[a280558071/OWF_RadialECSP](https://github.com/a280558071/OWF_RadialECSP)|Offshore Wind Farm Radial ECS Planning with some pratical concerns and case studies|6|0|2023-12-08|
 |195|[SayantanDutta95/De-QuIP-Denoising](https://github.com/SayantanDutta95/De-QuIP-Denoising)|Denoising by Quantum Interactive Patches|4|0|2024-01-24|
 |196|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|5|0|2024-03-14|
