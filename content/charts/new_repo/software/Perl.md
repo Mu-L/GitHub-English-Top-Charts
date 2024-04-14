@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,13 +12,13 @@
 |5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|43|2024-04-03|2023-05-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|-|32|2024-04-11|2024-02-08|
-|8|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|27|2024-04-08|2024-02-17|
+|8|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|27|2024-04-13|2024-02-17|
 |9|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
 |10|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|18|2024-04-11|2023-07-11|
 |11|[formbio/FLAG](https://github.com/formbio/FLAG)|-|18|2024-04-12|2023-06-17|
 |12|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-04-11|2023-12-20|
 |13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-04-08|2024-02-12|
-|14|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|16|2024-04-12|2024-01-08|
+|14|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the LMS Community repository|16|2024-04-13|2024-01-08|
 |15|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
 |16|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
 |17|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|14|2024-03-18|2024-03-13|
@@ -31,7 +31,7 @@
 |24|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
 |25|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|10|2024-01-22|2024-01-02|
 |26|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
-|27|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|10|2024-02-18|2023-07-21|
+|27|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|10|2024-04-13|2023-07-21|
 |28|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|9|2024-03-14|2024-01-10|
 |29|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|9|2024-04-05|2023-11-14|
 |30|[HHN/sso-docs](https://github.com/HHN/sso-docs)|Documentation how SSO works at Heilbronn University|9|2023-10-29|2023-10-06|
@@ -54,7 +54,7 @@
 |47|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|6|2024-03-03|2023-09-24|
 |48|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|6|2024-03-09|2023-06-15|
 |49|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2023-12-15|2023-12-15|
-|50|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|5|2024-04-12|2023-12-07|
+|50|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|5|2024-04-13|2023-12-07|
 |51|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|5|2024-03-12|2023-12-06|
 |52|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|5|2024-03-07|2023-12-04|
 |53|[pcineverdies/AOC-2023](https://github.com/pcineverdies/AOC-2023)|Advent Of Code 2023|5|2023-12-17|2023-11-29|
@@ -109,9 +109,9 @@
 |102|[jinxin112233/HEB_categories](https://github.com/jinxin112233/HEB_categories)|Identification of the homoeologous expression bias (HEB) categories for each quadruplet|3|2024-01-29|2023-04-26|
 |103|[neatlogic/neatlogic-autoexec-scripts](https://github.com/neatlogic/neatlogic-autoexec-scripts)|neatlogic automation official script collection, used for operation and maintenance automation in various scenarios, including various databases, middleware data discovery, installation, etc. Scripts  ...|3|2024-03-18|2023-04-24|
 |104|[neatlogic/neatlogic-autoexec-backend](https://github.com/neatlogic/neatlogic-autoexec-backend)|autoexec is a backend execution tool on the automation runner. It is used to execute automated jobs, receive job scheduling commands from the control server, and perform actions based on the job param ...|3|2023-12-12|2023-04-24|
-|105|[Awrsha/QIAU-Bachelor-of-Computer-Enginnering](https://github.com/Awrsha/QIAU-Bachelor-of-Computer-Enginnering)|This repository contains projects developed by students of the Bachelor of Computer Engineering program at Qazvin Islamic Azad University (QIAU). The projects cover various topics in computer engineer ...|2|2024-04-10|2024-04-07|
+|105|[Awrsha/QIAU-Bachelor-of-Computer-Enginnering](https://github.com/Awrsha/QIAU-Bachelor-of-Computer-Enginnering)|This repository contains projects developed by students of the Bachelor of Computer Engineering program at Qazvin Islamic Azad University (QIAU). The projects cover various topics in computer engineer ...|2|2024-04-12|2024-04-07|
 |106|[bernd-ulmann/tms9900_assembler](https://github.com/bernd-ulmann/tms9900_assembler)|-|2|2024-04-05|2024-04-05|
-|107|[trizen/Compression-Util](https://github.com/trizen/Compression-Util)|Implementation of various techniques used in data compression.|2|2024-04-12|2024-03-21|
+|107|[trizen/Compression-Util](https://github.com/trizen/Compression-Util)|Implementation of various techniques used in data compression.|2|2024-04-13|2024-03-21|
 |108|[Luncheon-OS/Luncheon-OS](https://github.com/Luncheon-OS/Luncheon-OS)|A Steam Deck UI gaming OS using custom software with Valve software.|2|2024-03-25|2024-03-13|
 |109|[antogit-sys/Simple-Helper-AUR](https://github.com/antogit-sys/Simple-Helper-AUR)|Simple Helper AUR for Arch Linux and derivative|2|2024-03-22|2024-03-06|
 |110|[bkerin/git-batch-bisect](https://github.com/bkerin/git-batch-bisect)|Pre-build all commits that might be needed in a git bisect run, then use them during testing with a git-bisect-like interface|2|2024-02-21|2024-02-21|
@@ -126,7 +126,7 @@
 |119|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |120|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |121|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|122|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-04-12|2023-12-09|
+|122|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-04-13|2023-12-09|
 |123|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |124|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-04-12|2023-12-01|
 |125|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
@@ -135,21 +135,20 @@
 |128|[kraison/uxo](https://github.com/kraison/uxo)|-|2|2023-11-24|2023-11-10|
 |129|[nu11secur1ty/OpenVPN-automation-Client-connect](https://github.com/nu11secur1ty/OpenVPN-automation-Client-connect)|-|2|2023-11-10|2023-11-08|
 |130|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-02-21|2023-10-17|
-|131|[Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus](https://github.com/Danial-Rahimi1381/Animal-presence-absence-project-with-nrf24l01-plus)|-|2|2023-10-13|2023-10-13|
-|132|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2023-12-01|2023-10-03|
-|133|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
-|134|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
-|135|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
-|136|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-04-05|2023-09-07|
-|137|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
-|138|[cropgeeks/barleyPantranscriptome](https://github.com/cropgeeks/barleyPantranscriptome)|Barley pan-transcriptome paper -- analysis code |2|2024-01-09|2023-08-08|
-|139|[Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs](https://github.com/Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs)|Scripts and piplines for the UCE identification and other analyses.|2|2023-10-19|2023-08-04|
-|140|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
-|141|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
-|142|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-03-30|2023-06-01|
-|143|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
-|144|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2024-03-23|2023-05-23|
-|145|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2024-04-10|2023-04-22|
+|131|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2023-12-01|2023-10-03|
+|132|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
+|133|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
+|134|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
+|135|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-04-05|2023-09-07|
+|136|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
+|137|[cropgeeks/barleyPantranscriptome](https://github.com/cropgeeks/barleyPantranscriptome)|Barley pan-transcriptome paper -- analysis code |2|2024-01-09|2023-08-08|
+|138|[Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs](https://github.com/Anguo-Liu/gBGC-drives-accelerated-evolution-of-UCEs)|Scripts and piplines for the UCE identification and other analyses.|2|2023-10-19|2023-08-04|
+|139|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2023-12-13|2023-08-02|
+|140|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
+|141|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-03-30|2023-06-01|
+|142|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
+|143|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2024-03-23|2023-05-23|
+|144|[sarounds/w2anim](https://github.com/sarounds/w2anim)|The W2 Animator|2|2024-04-13|2023-04-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

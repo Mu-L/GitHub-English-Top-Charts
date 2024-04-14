@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1116|2024-04-12|2023-08-30|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1117|2024-04-13|2023-08-30|
 |2|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|586|2024-02-19|2024-02-12|
-|3|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|422|2024-04-05|2024-01-05|
+|3|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|425|2024-04-05|2024-01-05|
 |4|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|386|2024-03-02|2024-02-08|
-|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|272|2024-04-12|2024-01-29|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|272|2024-04-13|2024-01-29|
 |6|[mikeroyal/Asus-ROG-Ally-Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. |251|2024-04-08|2023-05-11|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|233|2024-03-14|2023-07-25|
 |8|[PhilSA/Trove](https://github.com/PhilSA/Trove)|Collection of tools for Unity DOTS. Including Utility AI, Tweens, attributes and buffs/modifiers, etc...|215|2023-12-09|2023-05-02|
 |9|[oculus-samples/Unity-Discover](https://github.com/oculus-samples/Unity-Discover)|Discover is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.  The Oculus SDK and other suppo ...|199|2024-04-02|2023-05-16|
 |10|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|174|2024-01-04|2023-09-21|
 |11|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|138|2024-04-11|2024-01-17|
-|12|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|118|2024-03-31|2023-08-12|
+|12|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|119|2024-03-31|2023-08-12|
 |13|[LethalCompanyCommunity/LethalCompanyModdingWiki](https://github.com/LethalCompanyCommunity/LethalCompanyModdingWiki)|A repository that acts as a wiki for modding, with example projects and code snippets.|74|2023-12-28|2023-11-07|
 |14|[mikeroyal/Lenovo-Legion-Go-Guide](https://github.com/mikeroyal/Lenovo-Legion-Go-Guide)|A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Lenovo legion Go Gaming Handheld. |58|2023-11-18|2023-10-04|
 |15|[sirredbeard/wslinternals](https://github.com/sirredbeard/wslinternals)|A collection of some nifty WSL-related utilities|57|2024-04-02|2023-06-02|
@@ -37,7 +37,6 @@
 |30|[zahichemaly/software-engineering](https://github.com/zahichemaly/software-engineering)|Software engineering course|27|2023-11-25|2023-08-25|
 |31|[CharlieDigital/dn8-modular-monolith](https://github.com/CharlieDigital/dn8-modular-monolith)|A practical example of how to build modular monoliths ("momo") with .NET 8|24|2024-01-15|2024-01-14|
 |32|[biegehydra/NanoGptDotnet](https://github.com/biegehydra/NanoGptDotnet)|A miniature large language model (LLM) that generates shakespeare like text written in C#. Project meant to help dotnet developers get introduced to torch and AI/LLM's. Code filled with comments to he ...|20|2024-01-24|2023-10-25|
-|33|[thinktecture-labs/semantic-kernel-semanticsearch](https://github.com/thinktecture-labs/semantic-kernel-semanticsearch)|Example how to implement a question & answer flow using semantic search with OpenAI - by using C# & Semantic Kernel|20|2023-10-13|2023-04-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
