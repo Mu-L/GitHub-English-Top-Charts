@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)|A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.|1376|2023-10-18|2023-07-02|
+|1|[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)|A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.|1380|2023-10-18|2023-07-02|
 |2|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|488|2024-04-11|2023-11-21|
 |3|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|232|2024-01-12|2024-01-03|
-|4|[fayazara/feedbackjar](https://github.com/fayazara/feedbackjar)|Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.|138|2024-02-24|2023-06-28|
-|5|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|137|2024-03-19|2024-01-10|
-|6|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|105|2024-03-04|2024-02-11|
-|7|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|105|2024-04-08|2024-01-12|
+|4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|138|2024-03-19|2024-01-10|
+|5|[fayazara/feedbackjar](https://github.com/fayazara/feedbackjar)|Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.|138|2024-02-24|2023-06-28|
+|6|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|106|2024-04-08|2024-01-12|
+|7|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|105|2024-03-04|2024-02-11|
 |8|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|95|2024-03-05|2023-08-04|
 |9|[mysigmail/vue-email](https://github.com/mysigmail/vue-email)|A collection of high-quality, unstyled components for creating beautiful emails using Vue.|53|2023-10-26|2023-06-16|
 |10|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|32|2024-03-29|2024-01-14|
 |11|[daver987/nuxt-docu-search-ai](https://github.com/daver987/nuxt-docu-search-ai)|Revolutionizing the way you learn Nuxt 3, Nuxt 3 DocuSearch AI provides instant, context-aware answers to your queries using GPT-4. Streamline your coding journey with this innovative, AI-powered tool ...|27|2024-04-04|2023-07-05|
-|12|[classfang/AIHub](https://github.com/classfang/AIHub)|一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨|24|2024-04-12|2023-12-09|
-|13|[yossTheDev/prossa](https://github.com/yossTheDev/prossa)|📕 Web-Based Ebook Reader|21|2024-01-04|2023-04-24|
+|12|[classfang/AIHub](https://github.com/classfang/AIHub)|一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨|25|2024-04-12|2023-12-09|
+|13|[yossTheDev/prossa](https://github.com/yossTheDev/prossa)|📕 Web-Based Ebook Reader|22|2024-01-04|2023-04-24|
 |14|[ikkkp/ocean](https://github.com/ikkkp/ocean)|Ocean是使用基于大语言模型文本知识向量抽取和Transformer构建的校园开源文库|18|2024-03-27|2023-11-11|
 |15|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|17|2024-04-08|2024-01-01|
 |16|[VemLavarALoucaGamers/vlalg-nimbus](https://github.com/VemLavarALoucaGamers/vlalg-nimbus)|This is an Open Source project by VLALG that aims to share JavaScript libs, VS Code extensions, Browser extensions and Vue.js 3 components|15|2024-04-11|2023-08-11|
@@ -25,7 +25,7 @@
 |18|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-02-08|2024-02-07|
 |19|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|12|2024-01-14|2023-12-12|
 |20|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
-|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|11|2024-04-13|2023-11-10|
+|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|11|2024-04-14|2023-11-10|
 |22|[chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example)|Build a custom interface to Azure Automation Runbooks.|11|2024-04-01|2023-05-01|
 |23|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|10|2024-04-03|2023-12-11|
 |24|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-04-03|2023-12-01|

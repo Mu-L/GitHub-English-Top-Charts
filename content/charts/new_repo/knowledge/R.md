@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,9 +17,9 @@
 |10|[dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)|Text files for LST book|15|2024-04-01|2024-03-05|
 |11|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|15|2024-01-29|2023-10-05|
 |12|[Rkabacoff/datavis_support](https://github.com/Rkabacoff/datavis_support)|Code files for the book "Modern Data Visualization in R"|15|2023-11-24|2023-09-16|
-|13|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|14|2024-04-12|2023-12-23|
-|14|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|14|2024-03-12|2023-09-02|
-|15|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|14|2023-11-09|2023-07-22|
+|13|[milos-agathon/3d-forest-height-maps](https://github.com/milos-agathon/3d-forest-height-maps)|In this tutorial, I will show you how to use ggplot2 and rayshader in R to make powerful 3D maps of forest canopy height using the ETH Global Canopy Height dataset|15|2023-11-09|2023-07-22|
+|14|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|14|2024-04-12|2023-12-23|
+|15|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|14|2024-03-12|2023-09-02|
 |16|[NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)|This is the repository hosting the R scripts of the book "Mathematical Foundations of Reinforcement Learning" written by Yujun at Jiangxi Normal University.|13|2023-12-03|2023-10-03|
 |17|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|11|2024-03-10|2024-01-03|
 |18|[mattansb/Hierarchical-Linear-Models-foR-Psychologists](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists)|Lesson files for Hierarchical Linear Models for Psychologists.|11|2024-02-05|2023-06-03|
@@ -34,12 +34,11 @@
 |27|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|6|2024-03-12|2023-12-20|
 |28|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|6|2024-02-10|2023-12-13|
 |29|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
-|30|[milos-agathon/isochrone_maps](https://github.com/milos-agathon/isochrone_maps)|In this repo, I will show you how to create interactive and static isochrone maps in R using openrouteservice, leaflet, and ggplot2.|6|2023-10-14|2023-10-14|
-|31|[jangorecki/r-pkgs-tiny](https://github.com/jangorecki/r-pkgs-tiny)|Tiny guide for writing R packages|6|2023-11-23|2023-08-30|
-|32|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
-|33|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
-|34|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
-|35|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
+|30|[jangorecki/r-pkgs-tiny](https://github.com/jangorecki/r-pkgs-tiny)|Tiny guide for writing R packages|6|2023-11-23|2023-08-30|
+|31|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
+|32|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
+|33|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
+|34|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
