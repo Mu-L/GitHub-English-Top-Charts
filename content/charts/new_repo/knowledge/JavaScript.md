@@ -1,34 +1,34 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|4110|2024-04-08|2023-09-26|
-|2|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |3596|2024-04-14|2023-11-22|
-|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3041|2024-02-06|2023-11-07|
-|4|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2611|2024-04-14|2023-05-20|
-|5|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2394|2024-01-10|2023-05-04|
-|6|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2380|2024-04-12|2023-05-18|
-|7|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1653|2024-03-31|2023-04-20|
+|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|4123|2024-04-08|2023-09-26|
+|2|[friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)|List of free GPTs that doesn't require plus subscription |3615|2024-04-14|2023-11-22|
+|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3042|2024-02-06|2023-11-07|
+|4|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |2616|2024-04-15|2023-05-20|
+|5|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2396|2024-01-10|2023-05-04|
+|6|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|2382|2024-04-12|2023-05-18|
+|7|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1657|2024-03-31|2023-04-20|
 |8|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1613|2024-03-18|2023-08-10|
-|9|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1541|2024-03-20|2023-04-23|
-|10|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1283|2024-03-25|2023-12-31|
-|11|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1181|2024-04-07|2023-09-14|
-|12|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1163|2024-02-22|2023-08-12|
-|13|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|823|2024-03-12|2024-03-01|
-|14|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|823|2024-04-12|2023-09-04|
-|15|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|768|2024-03-12|2023-10-05|
-|16|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|705|2024-04-14|2023-12-22|
-|17|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|418|2024-03-22|2023-08-16|
-|18|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|411|2024-01-05|2024-01-05|
+|9|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1543|2024-03-20|2023-04-23|
+|10|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1284|2024-03-25|2023-12-31|
+|11|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1185|2024-04-07|2023-09-14|
+|12|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1165|2024-02-22|2023-08-12|
+|13|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|827|2024-03-12|2024-03-01|
+|14|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|824|2024-04-12|2023-09-04|
+|15|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|806|2024-04-14|2023-12-22|
+|16|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|770|2024-03-12|2023-10-05|
+|17|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|419|2024-03-22|2023-08-16|
+|18|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|412|2024-01-05|2024-01-05|
 |19|[luguosong/programming-notes](https://github.com/luguosong/programming-notes)|Programming Learning Blog|393|2024-04-12|2023-05-17|
-|20|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|383|2024-02-28|2023-12-02|
+|20|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|384|2024-02-28|2023-12-02|
 |21|[Nevysha/Cozy-Nest](https://github.com/Nevysha/Cozy-Nest)|A collection of tweak to improve Auto1111 UI//UX|380|2024-01-30|2023-04-30|
-|22|[ishwarrimal/frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps)|Everything required to crack frontend interview|355|2024-03-24|2023-05-31|
-|23|[kunjgit/GameZone](https://github.com/kunjgit/GameZone)|This open source repository contains collection of games build on basic tech stacks in web development  . Use your creativity and build your own game and contribute to the repository by making PR 🎮|292|2024-04-05|2023-05-07|
-|24|[tw93/Maple](https://github.com/tw93/Maple)|🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。|290|2024-02-26|2023-07-26|
+|22|[ishwarrimal/frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps)|Everything required to crack frontend interview|356|2024-03-24|2023-05-31|
+|23|[kunjgit/GameZone](https://github.com/kunjgit/GameZone)|This open source repository contains collection of games build on basic tech stacks in web development  . Use your creativity and build your own game and contribute to the repository by making PR 🎮|293|2024-04-05|2023-05-07|
+|24|[tw93/Maple](https://github.com/tw93/Maple)|🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。|289|2024-02-26|2023-07-26|
 |25|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|254|2024-04-06|2023-10-29|
 |26|[noamr/velvette](https://github.com/noamr/velvette)|Common patterns for CSS view-transitions|237|2024-01-05|2023-12-29|
 |27|[oto-labs/librarian](https://github.com/oto-labs/librarian)|Better Bookmarks Search w/ Transformers|179|2024-01-29|2024-01-11|
