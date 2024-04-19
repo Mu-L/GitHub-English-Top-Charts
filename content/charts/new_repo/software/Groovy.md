@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-04-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -32,44 +32,43 @@
 |25|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|3|2024-04-06|2023-12-25|
 |26|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
 |27|[3Edges/LdapGraphLoader](https://github.com/3Edges/LdapGraphLoader)|A utility to load users and groups from LDAP directories to Graph|3|2023-11-12|2023-11-08|
-|28|[moqui/moqui-sso](https://github.com/moqui/moqui-sso)|Moqui Component for SSO authentication (OAuth, OIDC, and SAML)|3|2023-10-18|2023-10-18|
-|29|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
-|30|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
-|31|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|3|2024-04-15|2023-08-15|
-|32|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-03-25|2023-08-08|
-|33|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-04-02|2023-08-08|
-|34|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-03-05|2023-06-30|
-|35|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-02|2023-06-13|
-|36|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
-|37|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|
-|38|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-02-08|2024-02-08|
-|39|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-04-16|2024-01-27|
-|40|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
-|41|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
-|42|[tselonis/workshift](https://github.com/tselonis/workshift)|Backend application for a workshift system.|2|2023-12-26|2023-12-26|
-|43|[jagedn/nf-datomic](https://github.com/jagedn/nf-datomic)|-|2|2023-12-17|2023-12-08|
-|44|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2024-01-05|2023-11-29|
-|45|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
-|46|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-04-17|2023-11-06|
-|47|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-24|2023-11-03|
-|48|[anniebowles/contextual-dates](https://github.com/anniebowles/contextual-dates)|-|2|2023-10-27|2023-10-27|
-|49|[ppazos/openehr-basic](https://github.com/ppazos/openehr-basic)|Sample openEHR application to learn design and development concepts|2|2023-10-31|2023-10-17|
-|50|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
-|51|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
-|52|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
-|53|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
-|54|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
-|55|[artisantek/jenkins-sharedlibraries](https://github.com/artisantek/jenkins-sharedlibraries)|-|2|2024-04-12|2023-07-30|
-|56|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
-|57|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2024-04-01|2023-06-20|
-|58|[scotttyso/baremetal-azurestack-hci](https://github.com/scotttyso/baremetal-azurestack-hci)|Cisco UCS AzureStack HCI Baremetal Deployment|2|2024-02-08|2023-06-11|
-|59|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
-|60|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
-|61|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-29|2023-05-17|
-|62|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
-|63|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
-|64|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
-|65|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
+|28|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
+|29|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
+|30|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|3|2024-04-15|2023-08-15|
+|31|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-03-25|2023-08-08|
+|32|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-04-02|2023-08-08|
+|33|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-03-05|2023-06-30|
+|34|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-18|2023-06-13|
+|35|[neeols/Breaking-Greg](https://github.com/neeols/Breaking-Greg)|-|3|2024-01-21|2023-05-07|
+|36|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|
+|37|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-02-08|2024-02-08|
+|38|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-04-16|2024-01-27|
+|39|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
+|40|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
+|41|[tselonis/workshift](https://github.com/tselonis/workshift)|Backend application for a workshift system.|2|2023-12-26|2023-12-26|
+|42|[jagedn/nf-datomic](https://github.com/jagedn/nf-datomic)|-|2|2023-12-17|2023-12-08|
+|43|[mcebular/advent-of-code-2023](https://github.com/mcebular/advent-of-code-2023)|Advent of Code 2022 solutions written in Groovy|2|2024-01-05|2023-11-29|
+|44|[kbfu/dubbo-plugin](https://github.com/kbfu/dubbo-plugin)|Plugin for JMeter to test the dubbo RPC|2|2023-11-15|2023-11-15|
+|45|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-04-17|2023-11-06|
+|46|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|2|2024-01-24|2023-11-03|
+|47|[anniebowles/contextual-dates](https://github.com/anniebowles/contextual-dates)|-|2|2023-10-27|2023-10-27|
+|48|[ppazos/openehr-basic](https://github.com/ppazos/openehr-basic)|Sample openEHR application to learn design and development concepts|2|2023-10-31|2023-10-17|
+|49|[nesun3/ci-cd-sap-cloud-integration](https://github.com/nesun3/ci-cd-sap-cloud-integration)|Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.|2|2023-11-19|2023-10-07|
+|50|[WebEngineering-FHNW/webec-hs23](https://github.com/WebEngineering-FHNW/webec-hs23)|-|2|2024-01-10|2023-09-19|
+|51|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
+|52|[ACZGgit/Desafios-DojoEnsaios-ACZG4](https://github.com/ACZGgit/Desafios-DojoEnsaios-ACZG4)|O presente repositório tem o propósito de manter os códigos das soluções geradas em ensaios para Dojos-ACZG4|2|2023-11-13|2023-08-25|
+|53|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
+|54|[artisantek/jenkins-sharedlibraries](https://github.com/artisantek/jenkins-sharedlibraries)|-|2|2024-04-12|2023-07-30|
+|55|[neoforged/GradleUtils](https://github.com/neoforged/GradleUtils)|Gradle buildscript utility library for NeoForged projects|2|2024-01-25|2023-07-08|
+|56|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|2|2024-04-01|2023-06-20|
+|57|[scotttyso/baremetal-azurestack-hci](https://github.com/scotttyso/baremetal-azurestack-hci)|Cisco UCS AzureStack HCI Baremetal Deployment|2|2024-02-08|2023-06-11|
+|58|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|2|2024-01-18|2023-06-10|
+|59|[avisbal23/FIS-BCM](https://github.com/avisbal23/FIS-BCM)|-|2|2023-12-05|2023-06-08|
+|60|[ZOSOpenTools/gpgport](https://github.com/ZOSOpenTools/gpgport)|GnuPG enables encryption   and signing of data and communication, and features a versatile key   management system as well as access modules for public key   directories.|2|2024-01-29|2023-05-17|
+|61|[chubbard/ecr-token-plugin](https://github.com/chubbard/ecr-token-plugin)|Gradle plugin to generate Amazon AWS ECR (Elastic Container Repository) tokens within your gradle builds without needing external systems to do that for you.|2|2023-11-29|2023-05-11|
+|62|[bm1201/Library-Archive](https://github.com/bm1201/Library-Archive)|-|2|2023-11-23|2023-05-11|
+|63|[WangLab-ComputationalBiology/btc-scrna-pipeline](https://github.com/WangLab-ComputationalBiology/btc-scrna-pipeline)|A Nextflow pipeline for single-cell RNA-Seq dataset|2|2023-12-07|2023-05-09|
+|64|[macmarrum/freeplane-PackAndGoGo](https://github.com/macmarrum/freeplane-PackAndGoGo)|-|2|2023-10-19|2023-04-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
