@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-04-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|263|3|2024-03-29|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|192|1|2024-04-18|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|266|3|2024-03-29|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|193|1|2024-04-18|
 |3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1039|1|2024-04-11|
-|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1238|1|2024-03-22|
+|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1239|1|2024-03-22|
 |5|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|5|0|2023-11-13|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|14|0|2024-03-04|
@@ -21,8 +21,8 @@
 |14|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|0|2024-01-13|
 |15|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|149|0|2024-01-24|
 |16|[open-source-modelling/insurance_matlab](https://github.com/open-source-modelling/insurance_matlab)|All Matlab algorithms published by Open Source Modelling in one place.|7|0|2024-04-01|
-|17|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|15|0|2024-04-18|
-|18|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|0|2024-04-17|
+|17|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|16|0|2024-04-18|
+|18|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|0|2024-04-18|
 |19|[shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd](https://github.com/shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd)|Source code examples for the IEEE WCNC 2022 paper titled "Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels"|3|0|2023-12-05|
 |20|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|11|0|2024-04-10|
 |21|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|0|2023-12-20|
@@ -37,7 +37,7 @@
 |30|[ManshengChen/Code-for-GTLEC-master](https://github.com/ManshengChen/Code-for-GTLEC-master)|On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning, ACMMM2023|4|0|2023-10-30|
 |31|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|6|0|2024-01-13|
 |32|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|11|0|2024-04-11|
-|33|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-18|
+|33|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-19|
 |34|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|10|0|2024-03-18|
 |35|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|24|0|2024-03-19|
 |36|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|Open-source TomoSAR package for PSDSInSAR and ComSAR algorithms|104|0|2024-04-09|
@@ -50,7 +50,7 @@
 |43|[UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)|Contains Study Material of the Course|81|0|2024-01-06|
 |44|[sbiswas8/Estimation-algorithms](https://github.com/sbiswas8/Estimation-algorithms)|Estimation-algorithms includes MATLAB functions for the EKF, UKF, Particle Filter, and their computationally efficient variants.|30|0|2024-01-04|
 |45|[alteriis/EiDA](https://github.com/alteriis/EiDA)|Eigenvector Dynamic Analysis of Functional Connectivity Patterns in Timeseries|3|0|2023-10-29|
-|46|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|4|0|2024-04-16|
+|46|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|4|0|2024-04-18|
 |47|[DanuserLab/Granger-Causality-Analysis-of-Lamellipodia](https://github.com/DanuserLab/Granger-Causality-Analysis-of-Lamellipodia)|Pipeline for inference of Granger-causal relations in molecular systems to study actin regulation in lamellipodia|4|0|2024-04-18|
 |48|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|0|2024-01-29|
 |49|[JiaxiangYi96/AMK-MCS-AEFF](https://github.com/JiaxiangYi96/AMK-MCS-AEFF)|an active-learning method for reliability analysis based on multi-fidelity kriging model|15|0|2023-11-06|
@@ -123,7 +123,7 @@
 |116|[heli-sudoo/Multiple-Shooting-DDP](https://github.com/heli-sudoo/Multiple-Shooting-DDP)|Algorithm for multiple-shooting differential dynamic programming (MS-DDP) implemented in MATLAB, with a few robotics examples.|5|0|2024-04-10|
 |117|[Aalto-Electric-Drives/digital-control-power-conversion](https://github.com/Aalto-Electric-Drives/digital-control-power-conversion)|PhD Course: Advanced Control in Electrical Energy Conversion (Politecnico di Torino 2017)|3|0|2024-02-02|
 |118|[MahfoudHerraz/IMU_sensor_fusion](https://github.com/MahfoudHerraz/IMU_sensor_fusion)|This repository contains different algorithms for attitude estimation (roll, pitch and yaw angles) from IMU sensors data: accelerometer, magnetometer and gyrometer measurements|4|0|2024-01-04|
-|119|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|0|2024-04-17|
+|119|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|0|2024-04-19|
 |120|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|0|2023-11-07|
 |121|[sccn/eeglab_tutorial_scripts](https://github.com/sccn/eeglab_tutorial_scripts)|Scripts for the EEGLAB tutorial|8|0|2023-12-15|
 |122|[mmuckley/MRI_FISTA](https://github.com/mmuckley/MRI_FISTA)|A collection of fast FISTA-type algorithms for MRI.|11|0|2023-12-18|
@@ -131,14 +131,14 @@
 |124|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|0|2024-04-08|
 |125|[zhandawei/Efficient_Global_Optimization_Algorithms](https://github.com/zhandawei/Efficient_Global_Optimization_Algorithms)|standard, parallel, constrained, and multiobjective EGO algorithms|21|0|2024-02-29|
 |126|[mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests](https://github.com/mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests)|Files demonstrating how to diff Simulink models and attach reports to pull requests|23|0|2024-01-31|
-|127|[MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab](https://github.com/MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab)|​This virtual lab contains interactive exercises to study the design of linear and adaptive model predictive controllers (MPCs) for implementing a vehicle steering control system.​|4|0|2024-02-13|
+|127|[MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab](https://github.com/MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab)|​This virtual lab contains interactive exercises to study the design of linear and adaptive model predictive controllers (MPCs) for implementing a vehicle steering control system.​|5|0|2024-02-13|
 |128|[darcycordell/mtcode](https://github.com/darcycordell/mtcode)|Collection of MATLAB scripts for magnetotelluric data analysis, data editing, model building, and model editing. |24|0|2024-04-15|
 |129|[Dwl2021/Minimum-Snap](https://github.com/Dwl2021/Minimum-Snap)|Minimum-Snap Learning Code|4|0|2024-04-04|
 |130|[EMDCYY/VMscatter](https://github.com/EMDCYY/VMscatter)| The MATLAB code for the VMscatter system presented at NSDI 2020, demonstrating three algorithms to decode space-time code-based MIMO backscatter in an 802.11 environment|3|0|2024-01-29|
 |131|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|0|2023-12-20|
 |132|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|38|0|2024-04-17|
 |133|[DouglasCandido/TCC-1D-magnetotelluric-data-inversion-using-the-Levenberg-Marquardt-optimization-algorithm](https://github.com/DouglasCandido/TCC-1D-magnetotelluric-data-inversion-using-the-Levenberg-Marquardt-optimization-algorithm)|In this study, the Levenberg-Marquardt algorithm is used to perform the magnetotelluric data inversion, it works out by adjusting the model and minimizing the misfit between the MT data observed in th ...|4|0|2023-10-26|
-|134|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|12|0|2024-03-24|
+|134|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|13|0|2024-03-24|
 |135|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|306|0|2023-12-31|
 |136|[gerardllorach/audiovisualdubbedMST](https://github.com/gerardllorach/audiovisualdubbedMST)|This is a repository with guidelines and code to create visual material for Matrix Sentence Test for speech audiometry.|3|0|2023-12-13|
 |137|[THUHoloLab/pixel-super-resolution-phase-retrieval](https://github.com/THUHoloLab/pixel-super-resolution-phase-retrieval)|Algorithms for pixel super-resolution phase retrieval|25|0|2024-02-07|
@@ -204,7 +204,7 @@
 |197|[mws262/MAE5730_examples](https://github.com/mws262/MAE5730_examples)|My examples and extra code for Andy Ruina's intermediate dynamics course.|37|0|2023-12-24|
 |198|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|0|2024-01-08|
 |199|[Mo7ammedd/matlapalgo](https://github.com/Mo7ammedd/matlapalgo)|Message encryption algorithms with MATLAB GUI|5|0|2023-12-01|
-|200|[peterhcharlton/RRest](https://github.com/peterhcharlton/RRest)|Algorithms to estimate respiratory rate from physiological signals|158|0|2023-12-19|
+|200|[peterhcharlton/RRest](https://github.com/peterhcharlton/RRest)|Algorithms to estimate respiratory rate from physiological signals|159|0|2023-12-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
