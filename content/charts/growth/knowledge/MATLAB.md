@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-04-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|266|3|2024-03-29|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|193|1|2024-04-18|
-|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1039|1|2024-04-11|
-|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1239|1|2024-03-22|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|267|3|2024-03-29|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|194|1|2024-04-18|
+|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1040|1|2024-04-11|
+|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1241|1|2024-03-22|
 |5|[pollycoder/numerical_analysis](https://github.com/pollycoder/numerical_analysis)|A public systematized repo for Numerical Analysis / Science and Engineering Computing course in Tsinghua University, including the source code of all the algorithms mentioned in the course and corresp ...|5|0|2023-11-13|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|14|0|2024-03-04|
@@ -37,7 +37,7 @@
 |30|[ManshengChen/Code-for-GTLEC-master](https://github.com/ManshengChen/Code-for-GTLEC-master)|On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning, ACMMM2023|4|0|2023-10-30|
 |31|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|6|0|2024-01-13|
 |32|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|11|0|2024-04-11|
-|33|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-19|
+|33|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-20|
 |34|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|10|0|2024-03-18|
 |35|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|24|0|2024-03-19|
 |36|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|Open-source TomoSAR package for PSDSInSAR and ComSAR algorithms|104|0|2024-04-09|
@@ -93,7 +93,7 @@
 |86|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|4|0|2024-04-04|
 |87|[HdTgon/2023-KBS-CFSMO](https://github.com/HdTgon/2023-KBS-CFSMO)|Matlab code for the KBS 2023 paper "Multi-view unsupervised complementary feature selection with multi-order similarity learning"|3|0|2023-11-09|
 |88|[SMA-Shoja/Full-waveform-inversion](https://github.com/SMA-Shoja/Full-waveform-inversion)|This is a FWI pakage I developed during my master's thesis|8|0|2023-10-31|
-|89|[LIUHAITAO-CH/Dive-into-Robotics](https://github.com/LIUHAITAO-CH/Dive-into-Robotics)|1, Online materials are mostly scripted, breaking the way of reading PPT type lectures  2, Pure writing board book teaching, intuitive, easy to understand  3. Exercises and homework for each class  4. ...|17|0|2023-12-17|
+|89|[LIUHAITAO-CH/Dive-into-Robotics](https://github.com/LIUHAITAO-CH/Dive-into-Robotics)|1, Online materials are mostly scripted, breaking the way of reading PPT type lectures  2, Pure writing board book teaching, intuitive, easy to understand  3. Exercises and homework for each class  4. ...|18|0|2023-12-17|
 |90|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|20|0|2024-03-26|
 |91|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|0|2024-03-06|
 |92|[lorenzocalogero/LMPC_Quadrotors](https://github.com/lorenzocalogero/LMPC_Quadrotors)|Learning Model Predictive Control for Quadrotors Minimum-Time Flight in Autonomous Racing Scenarios|17|0|2024-01-16|
@@ -114,7 +114,7 @@
 |107|[acuoci/ATP](https://github.com/acuoci/ATP)|Advanced Transport Phenomena course at Politecnico di Milano|13|0|2023-12-12|
 |108|[parkman-auex/vasplib](https://github.com/parkman-auex/vasplib)|a powerful script collection for data-analysis from vasp for topological matters|7|0|2024-03-28|
 |109|[UtkarshPathrabe/Machine-Learning-BITS-Pilani](https://github.com/UtkarshPathrabe/Machine-Learning-BITS-Pilani)|Contains Lab Sheets and their Solutions and the Assignment Files which were done during the Course|6|0|2024-01-03|
-|110|[ilog-ecnu/REMO](https://github.com/ilog-ecnu/REMO)|Expensive Multiobjective Optimization by Relation Learning and Prediction|4|0|2024-02-20|
+|110|[ilog-ecnu/REMO](https://github.com/ilog-ecnu/REMO)|Expensive Multiobjective Optimization by Relation Learning and Prediction|5|0|2024-02-20|
 |111|[PrincetonUniversity/3D3A-MATLAB-Toolbox](https://github.com/PrincetonUniversity/3D3A-MATLAB-Toolbox)|Collection of various MATLAB functions for spatial audio processing released by the 3D3A Lab at Princeton University|12|0|2023-12-19|
 |112|[labourer-Lucas/DC-Motor-Control-Simulation](https://github.com/labourer-Lucas/DC-Motor-Control-Simulation)|This is a collection of DC motor speed control simulation, including single(speed) loop and Dual(speed and current) loop speed control. The simulation report (LaTex form) is included. More details are ...|7|0|2023-12-05|
 |113|[mazhar-ansari-ardeh/BenchmarkFcns](https://github.com/mazhar-ansari-ardeh/BenchmarkFcns)|A Python and MATLAB implementation of mathematical test functions for benchmarking optimization algorithms.|61|0|2024-04-12|
@@ -129,7 +129,7 @@
 |122|[mmuckley/MRI_FISTA](https://github.com/mmuckley/MRI_FISTA)|A collection of fast FISTA-type algorithms for MRI.|11|0|2023-12-18|
 |123|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|7|0|2024-03-29|
 |124|[Tonelllo/RoboticsEngineeringUnige](https://github.com/Tonelllo/RoboticsEngineeringUnige)|Repository of student material for the robotics engineering course at university of Genova|8|0|2024-04-08|
-|125|[zhandawei/Efficient_Global_Optimization_Algorithms](https://github.com/zhandawei/Efficient_Global_Optimization_Algorithms)|standard, parallel, constrained, and multiobjective EGO algorithms|21|0|2024-02-29|
+|125|[zhandawei/Efficient_Global_Optimization_Algorithms](https://github.com/zhandawei/Efficient_Global_Optimization_Algorithms)|standard, parallel, constrained, and multiobjective EGO algorithms|22|0|2024-02-29|
 |126|[mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests](https://github.com/mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests)|Files demonstrating how to diff Simulink models and attach reports to pull requests|23|0|2024-01-31|
 |127|[MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab](https://github.com/MathWorks-Teaching-Resources/Model-Predictive-Control-virtual-lab)|​This virtual lab contains interactive exercises to study the design of linear and adaptive model predictive controllers (MPCs) for implementing a vehicle steering control system.​|5|0|2024-02-13|
 |128|[darcycordell/mtcode](https://github.com/darcycordell/mtcode)|Collection of MATLAB scripts for magnetotelluric data analysis, data editing, model building, and model editing. |24|0|2024-04-15|
