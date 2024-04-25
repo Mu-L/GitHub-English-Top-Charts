@@ -1,36 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-04-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|214|2024-04-03|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|164|2024-03-10|2023-07-30|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|165|2024-03-10|2023-07-30|
 |3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|127|2024-04-22|2023-05-25|
 |4|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|56|2024-01-24|2024-01-23|
 |5|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|45|2024-04-03|2023-05-23|
 |6|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
-|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|33|2024-04-21|2024-02-08|
+|7|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|33|2024-04-24|2024-02-08|
 |8|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|27|2024-04-21|2024-02-17|
 |9|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
-|10|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|20|2024-04-23|2024-01-08|
-|11|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|19|2024-04-11|2023-07-11|
+|10|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|20|2024-04-24|2024-01-08|
+|11|[bmwiedemann/slowroll-tools](https://github.com/bmwiedemann/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|20|2024-04-24|2023-07-11|
 |12|[formbio/FLAG](https://github.com/formbio/FLAG)|-|19|2024-04-21|2023-06-17|
-|13|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-04-11|2023-12-20|
-|14|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-04-08|2024-02-12|
-|15|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
-|16|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|15|2024-04-03|2023-11-03|
-|17|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
-|18|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|14|2024-04-22|2024-03-13|
-|19|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|13|2024-03-11|2024-01-26|
-|20|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|12|2024-04-20|2024-04-08|
+|13|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|17|2024-04-20|2024-04-08|
+|14|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-04-11|2023-12-20|
+|15|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-04-08|2024-02-12|
+|16|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
+|17|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|15|2024-04-03|2023-11-03|
+|18|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-03-11|2023-09-21|
+|19|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|14|2024-04-22|2024-03-13|
+|20|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|13|2024-03-11|2024-01-26|
 |21|[kashifmunir92/SemiSRL](https://github.com/kashifmunir92/SemiSRL)|-|12|2024-01-17|2024-01-17|
 |22|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|12|2024-01-22|2024-01-02|
 |23|[caasivfbioinfo/Bol_pangenome](https://github.com/caasivfbioinfo/Bol_pangenome)|-|12|2023-11-26|2023-11-23|
 |24|[dave-lang/webmin-docker](https://github.com/dave-lang/webmin-docker)|Docker module for Webmin|12|2024-04-18|2023-07-03|
-|25|[angelotheman/developer-system-config](https://github.com/angelotheman/developer-system-config)|-|11|2024-01-03|2024-01-01|
-|26|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|10|2024-04-22|2024-04-18|
+|25|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|11|2024-04-22|2024-04-18|
+|26|[angelotheman/developer-system-config](https://github.com/angelotheman/developer-system-config)|-|11|2024-01-03|2024-01-01|
 |27|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|10|2024-04-11|2024-02-10|
 |28|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
 |29|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
@@ -46,7 +46,7 @@
 |39|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-04-03|2023-10-13|
 |40|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|8|2024-04-02|2023-09-09|
 |41|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|8|2024-04-01|2023-08-07|
-|42|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-04-23|2023-05-10|
+|42|[micans/pick](https://github.com/micans/pick)|Unix table column and row manipulation using column names|8|2024-04-24|2023-05-10|
 |43|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|7|2024-04-09|2024-02-24|
 |44|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|7|2024-02-15|2024-02-14|
 |45|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|7|2024-04-02|2023-11-06|
@@ -61,7 +61,7 @@
 |54|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|6|2024-04-18|2023-06-15|
 |55|[ChristfriedBalizou/homelab](https://github.com/ChristfriedBalizou/homelab)|My GitOps-managed home Kubernetes cluster|6|2024-04-21|2023-05-26|
 |56|[dsenalik/Carrot_Genome_DH1_v3](https://github.com/dsenalik/Carrot_Genome_DH1_v3)|Program versions and custom scripts used for creating the carrot genome DCv3 (PRJNA285926)|6|2024-02-06|2023-05-17|
-|57|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-02|2024-04-02|
+|57|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
 |58|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2023-12-15|2023-12-15|
 |59|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|5|2024-03-12|2023-12-06|
 |60|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|5|2024-04-23|2023-12-04|
@@ -132,7 +132,7 @@
 |125|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |126|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |127|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|128|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-04-23|2023-12-09|
+|128|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-04-24|2023-12-09|
 |129|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |130|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|2|2024-04-18|2023-12-01|
 |131|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
@@ -140,20 +140,21 @@
 |133|[k-m-irfan/Fastspeech2_HS_Flask_API](https://github.com/k-m-irfan/Fastspeech2_HS_Flask_API)|Flask API implementation of the Text to Speech Model developed my Speech Lab, IIT Madras|2|2023-11-17|2023-11-12|
 |134|[kraison/uxo](https://github.com/kraison/uxo)|-|2|2023-11-24|2023-11-10|
 |135|[nu11secur1ty/OpenVPN-automation-Client-connect](https://github.com/nu11secur1ty/OpenVPN-automation-Client-connect)|-|2|2023-11-10|2023-11-08|
-|136|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-02-21|2023-10-17|
-|137|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2023-12-01|2023-10-03|
-|138|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
-|139|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
-|140|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
-|141|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-04-16|2023-09-07|
-|142|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
-|143|[cropgeeks/barleyPantranscriptome](https://github.com/cropgeeks/barleyPantranscriptome)|Barley pan-transcriptome paper -- analysis code |2|2024-01-09|2023-08-08|
-|144|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2024-01-05|2023-08-04|
-|145|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2024-04-18|2023-08-02|
-|146|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
-|147|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-03-30|2023-06-01|
-|148|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
-|149|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2024-03-23|2023-05-23|
+|136|[oyed/dotfiles](https://github.com/oyed/dotfiles)|arch btw|2|2024-04-12|2023-11-04|
+|137|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-02-21|2023-10-17|
+|138|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2023-12-01|2023-10-03|
+|139|[cherio/pacbro](https://github.com/cherio/pacbro)|Package browser for Arch Linux, multi-panel terminal GUI|2|2023-12-07|2023-09-22|
+|140|[ilv/elf](https://github.com/ilv/elf)|elf experiments|2|2023-11-24|2023-09-11|
+|141|[Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management](https://github.com/Yangxinyee/ATmega16-Microcontroller-Application-in-Precision-Agriculture-Environment-Management)|Intelligent Planting Management and Monitoring System based on ATmega16|2|2023-11-12|2023-09-10|
+|142|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-04-16|2023-09-07|
+|143|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
+|144|[cropgeeks/barleyPantranscriptome](https://github.com/cropgeeks/barleyPantranscriptome)|Barley pan-transcriptome paper -- analysis code |2|2024-01-09|2023-08-08|
+|145|[briandfoy/ncarton](https://github.com/briandfoy/ncarton)|Perl's carton, extended|2|2024-01-05|2023-08-04|
+|146|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2024-04-18|2023-08-02|
+|147|[lagudu-glitch/dijikstra](https://github.com/lagudu-glitch/dijikstra)|Dijikstra's algorithm on cost matrix implemeted in python|2|2023-11-22|2023-06-24|
+|148|[mourisl/Tools](https://github.com/mourisl/Tools)|Random small scripts|2|2024-03-30|2023-06-01|
+|149|[Arhoc/Iron-Scanner](https://github.com/Arhoc/Iron-Scanner)|Port Scanner written in Perl!|2|2024-01-06|2023-05-25|
+|150|[qbit/pr-status-pl](https://github.com/qbit/pr-status-pl)|-|2|2024-03-23|2023-05-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
