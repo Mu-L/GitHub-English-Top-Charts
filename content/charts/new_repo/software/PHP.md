@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > PHP
-<sub>Updated: 2024-04-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)|A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.|1630|2024-03-13|2023-11-20|
-|2|[ellite/Wallos](https://github.com/ellite/Wallos)|Wallos: Open-Source Personal Subscription Tracker|1598|2024-04-20|2023-10-05|
+|1|[MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)|A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.|1633|2024-03-13|2023-11-20|
+|2|[ellite/Wallos](https://github.com/ellite/Wallos)|Wallos: Open-Source Personal Subscription Tracker|1602|2024-04-20|2023-10-05|
 |3|[Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral)|Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.|1053|2023-11-06|2023-10-25|
-|4|[yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)|PHP script collects V2Ray subscription links from sources, saves to protocol-specific files|877|2024-04-24|2023-06-18|
-|5|[paidworkco/worken-sdk-php](https://github.com/paidworkco/worken-sdk-php)|PHP SDK for Worken|699|2024-04-24|2024-02-01|
-|6|[robsontenorio/mary](https://github.com/robsontenorio/mary)|Laravel Blade UI Components for Livewire 3|674|2024-04-24|2023-07-30|
-|7|[PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)|PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.|670|2024-04-24|2023-11-08|
+|4|[yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)|PHP script collects V2Ray subscription links from sources, saves to protocol-specific files|883|2024-04-25|2023-06-18|
+|5|[paidworkco/worken-sdk-php](https://github.com/paidworkco/worken-sdk-php)|PHP SDK for Worken|711|2024-04-25|2024-02-01|
+|6|[robsontenorio/mary](https://github.com/robsontenorio/mary)|Laravel Blade UI Components for Livewire 3|673|2024-04-24|2023-07-30|
+|7|[PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)|PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.|672|2024-04-25|2023-11-08|
 |8|[laravel/pail](https://github.com/laravel/pail)|Dive into your Laravel application's log files directly from the console. 🪣|622|2024-04-02|2023-09-20|
 |9|[WendellAdriel/laravel-lift](https://github.com/WendellAdriel/laravel-lift)|Take your Eloquent Models to the next level|614|2024-03-13|2023-08-24|
-|10|[spatie/laravel-pdf](https://github.com/spatie/laravel-pdf)|Create PDF files in Laravel apps|584|2024-04-24|2023-12-22|
-|11|[theodo-group/LLPhant](https://github.com/theodo-group/LLPhant)|LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain|556|2024-04-15|2023-07-31|
-|12|[tempestphp/highlight](https://github.com/tempestphp/highlight)|🎨 Fast, extensible, server-side code highlighting for web and terminal|511|2024-04-24|2024-03-15|
-|13|[vitodeploy/vito](https://github.com/vitodeploy/vito)|The Ultimate Server Management Tool|448|2024-04-24|2023-07-02|
-|14|[tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework)|The PHP framework that gets out of your way 🌊|428|2024-04-24|2023-07-10|
+|10|[spatie/laravel-pdf](https://github.com/spatie/laravel-pdf)|Create PDF files in Laravel apps|585|2024-04-25|2023-12-22|
+|11|[theodo-group/LLPhant](https://github.com/theodo-group/LLPhant)|LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain|557|2024-04-15|2023-07-31|
+|12|[tempestphp/highlight](https://github.com/tempestphp/highlight)|🎨 Fast, extensible, server-side code highlighting for web and terminal|513|2024-04-25|2024-03-15|
+|13|[vitodeploy/vito](https://github.com/vitodeploy/vito)|The Ultimate Server Management Tool|451|2024-04-24|2023-07-02|
+|14|[tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework)|The PHP framework that gets out of your way 🌊|429|2024-04-25|2023-07-10|
 |15|[binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring)|Monitor your user and all activity on your application|409|2024-04-12|2023-07-22|
-|16|[tallstackui/tallstackui](https://github.com/tallstackui/tallstackui)|TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.|385|2024-04-23|2023-09-06|
-|17|[danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web)|Self-hosted collaborative plant management system for your local environment|378|2024-04-17|2023-09-24|
-|18|[jolicode/castor](https://github.com/jolicode/castor)|🦫 DX oriented task runner and command launcher built with PHP.|353|2024-04-24|2023-05-17|
+|16|[tallstackui/tallstackui](https://github.com/tallstackui/tallstackui)|TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.|386|2024-04-23|2023-09-06|
+|17|[danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web)|Self-hosted collaborative plant management system for your local environment|379|2024-04-25|2023-09-24|
+|18|[jolicode/castor](https://github.com/jolicode/castor)|🦫 DX oriented task runner and command launcher built with PHP.|354|2024-04-25|2023-05-17|
 |19|[Log1x/filament-starter](https://github.com/Log1x/filament-starter)|A beautiful starting point for your next TALL stack project using Filament. ⚡|340|2024-04-01|2023-12-19|
-|20|[pelican-dev/panel](https://github.com/pelican-dev/panel)|-|337|2024-04-24|2024-03-19|
-|21|[laracraft-tech/laravel-schema-rules](https://github.com/laracraft-tech/laravel-schema-rules)|Automatically generate Laravel validation rules based on your database table schema!|333|2024-04-15|2023-06-02|
+|20|[pelican-dev/panel](https://github.com/pelican-dev/panel)|-|339|2024-04-25|2024-03-19|
+|21|[laracraft-tech/laravel-schema-rules](https://github.com/laracraft-tech/laravel-schema-rules)|Automatically generate Laravel validation rules based on your database table schema!|334|2024-04-15|2023-06-02|
 |22|[saloonphp/xml-wrangler](https://github.com/saloonphp/xml-wrangler)|🌵 XML Wrangler - Easily Read & Write XML in PHP|332|2024-02-02|2023-10-22|
-|23|[joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain)|My DIY fitness tracker journey. No pro coder, just uni dev concepts and ChatGPT's help. PHP, HTML, JS, Bootstrap CSS upfront; Python FastAPI, stravalib, MariaDB behind the scenes. Gear log, GPX, Strav ...|316|2024-04-24|2023-10-26|
+|23|[joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain)|My DIY fitness tracker journey. No pro coder, just uni dev concepts and ChatGPT's help. PHP, HTML, JS, Bootstrap CSS upfront; Python FastAPI, stravalib, MariaDB behind the scenes. Gear log, GPX, Strav ...|318|2024-04-24|2023-10-26|
 |24|[jcarlosroldan/oink](https://github.com/jcarlosroldan/oink)|🐽 oink.php is a single-file PHP library to easily build APIs|301|2024-02-20|2024-02-12|
 |25|[Khkirill/Socials_themes](https://github.com/Khkirill/Socials_themes)|-|281|2024-03-23|2023-08-02|
 |26|[hirethunk/verbs](https://github.com/hirethunk/verbs)|Verbs is an event sourcing package for PHP artisans|277|2024-04-23|2023-11-04|
 |27|[livewire/volt](https://github.com/livewire/volt)|Volt is an elegantly crafted functional API for Livewire.|274|2024-03-22|2023-07-25|
-|28|[spatie/holidays](https://github.com/spatie/holidays)|Calculate which days you don't have to work!|271|2024-04-22|2024-01-12|
+|28|[spatie/holidays](https://github.com/spatie/holidays)|Calculate which days you don't have to work!|270|2024-04-22|2024-01-12|
 |29|[sakanjo/laravel-easy-metrics](https://github.com/sakanjo/laravel-easy-metrics)|Generate metrics with ease and precision.|268|2024-03-29|2023-10-06|
-|30|[adminerevo/adminerevo](https://github.com/adminerevo/adminerevo)|Database management in a single PHP file|263|2024-04-20|2023-05-01|
-|31|[sqids/sqids-php](https://github.com/sqids/sqids-php)|Official PHP port of Sqids. Generate short unique IDs from numbers.|262|2024-03-24|2023-06-24|
-|32|[php-tui/php-tui](https://github.com/php-tui/php-tui)|PHP TUI|261|2023-12-30|2023-10-09|
-|33|[whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent)|Register, configure and ask for cookies consent in a EU-compliant way|260|2024-04-10|2023-05-03|
+|30|[sqids/sqids-php](https://github.com/sqids/sqids-php)|Official PHP port of Sqids. Generate short unique IDs from numbers.|263|2024-03-24|2023-06-24|
+|31|[adminerevo/adminerevo](https://github.com/adminerevo/adminerevo)|Database management in a single PHP file|263|2024-04-20|2023-05-01|
+|32|[php-tui/php-tui](https://github.com/php-tui/php-tui)|PHP TUI|262|2023-12-30|2023-10-09|
+|33|[whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent)|Register, configure and ask for cookies consent in a EU-compliant way|261|2024-04-25|2023-05-03|
 |34|[symfony-orchestra/view-bundle](https://github.com/symfony-orchestra/view-bundle)|The `view-bundle` is a simple and highly efficient Symfony bundle designed to replace Symfony Responses when working with the JSON API.|255|2024-04-01|2024-03-05|
-|35|[loupe-php/loupe](https://github.com/loupe-php/loupe)|A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.|254|2024-04-22|2023-06-28|
-|36|[HPWebdeveloper/laravel-pay-pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)|A modern multi-wallet Laravel package with comprehensive logging and payments capabilities.|252|2024-04-15|2023-12-01|
+|35|[HPWebdeveloper/laravel-pay-pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)|A modern multi-wallet Laravel package with comprehensive logging and payments capabilities.|254|2024-04-15|2023-12-01|
+|36|[loupe-php/loupe](https://github.com/loupe-php/loupe)|A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.|254|2024-04-22|2023-06-28|
 |37|[gehrisandro/tailwind-merge-laravel](https://github.com/gehrisandro/tailwind-merge-laravel)|Automatically resolves Tailwind CSS class conflicts in Laravel|248|2024-03-20|2023-06-09|
-|38|[yebekhe/TVC](https://github.com/yebekhe/TVC)|-|231|2024-04-24|2023-12-12|
+|38|[yebekhe/TVC](https://github.com/yebekhe/TVC)|-|234|2024-04-25|2023-12-12|
 |39|[Cybrarist/Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit)|Track your wishlist items and get notified across multiple amazon stores|227|2024-02-20|2023-07-06|
 |40|[eneadm/ladder](https://github.com/eneadm/ladder)|Lightweight Permissions for Laravel|226|2024-04-03|2023-08-12|
 |41|[cjmellor/browser-sessions](https://github.com/cjmellor/browser-sessions)|A Laravel package to enable users to manage and monitor their active browser sessions. Allows users to view devices where they are logged in and provides options to terminate unrecognized or all sessi ...|224|2024-04-15|2023-09-10|
@@ -59,61 +59,61 @@
 |52|[spatie/mjml-php](https://github.com/spatie/mjml-php)|Convert MJML to HTML using PHP|197|2024-04-15|2023-08-21|
 |53|[4xmen/xshop](https://github.com/4xmen/xshop)|Very customizable and easy to use shopping system, open source project based on laravel|194|2024-04-10|2023-05-30|
 |54|[google-gemini-php/laravel](https://github.com/google-gemini-php/laravel)|⚡️ Gemini PHP for Laravel is a community-maintained PHP API client that allows you to interact with the Gemini AI API.|192|2024-03-06|2024-02-11|
-|55|[KhronosGroup/glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)|To store all models and other assets related to glTF|187|2024-04-18|2023-05-12|
+|55|[KhronosGroup/glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)|To store all models and other assets related to glTF|189|2024-04-18|2023-05-12|
 |56|[JesusDgz291104/coreldraw-app](https://github.com/JesusDgz291104/coreldraw-app)|laravel|186|2024-03-24|2024-03-05|
 |57|[Fathomee/FINAL-FINAL-APPSDEV](https://github.com/Fathomee/FINAL-FINAL-APPSDEV)|-|185|2024-02-05|2023-12-12|
 |58|[WordPress/twentytwentyfour](https://github.com/WordPress/twentytwentyfour)|-|181|2024-01-24|2023-07-18|
 |59|[wire-elements/wire-extender](https://github.com/wire-elements/wire-extender)|Wire Extender allows you to embed any Livewire component on any website or even within a static HTML file.|180|2024-04-21|2024-02-25|
-|60|[shellar1522/crypto-exchange-script](https://github.com/shellar1522/crypto-exchange-script)|Crypto exchange script   https://t.me/st_code|176|2024-01-24|2023-11-14|
-|61|[shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)|🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)|171|2024-04-22|2023-12-27|
+|60|[shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)|🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)|178|2024-04-22|2023-12-27|
+|61|[shellar1522/crypto-exchange-script](https://github.com/shellar1522/crypto-exchange-script)|Crypto exchange script   https://t.me/st_code|176|2024-01-24|2023-11-14|
 |62|[andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink)|Self-hosted image sharing service.|168|2024-04-19|2023-11-06|
 |63|[Safemood/discountify](https://github.com/Safemood/discountify)|Laravel package for dynamic discounts with custom conditions.|162|2024-04-15|2024-01-14|
 |64|[valorin/random](https://github.com/valorin/random)|Random is a simple helper package designed to make it easy to generate a range of different cryptographically secure random values.|162|2024-03-12|2023-12-28|
 |65|[Hasnayeen/themes](https://github.com/Hasnayeen/themes)|Themes for Filament panels.|153|2024-04-15|2023-08-31|
 |66|[samdark/php-fpm_tuner](https://github.com/samdark/php-fpm_tuner)|A script to tune PHP-FPM|152|2024-04-20|2023-12-25|
-|67|[NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com)|The NativePHP website|149|2024-04-19|2023-06-28|
+|67|[NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com)|The NativePHP website|150|2024-04-19|2023-06-28|
 |68|[staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by)|Todo comments with expiration|148|2024-04-23|2023-12-14|
 |69|[spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments)|Add debug comments to your rendered output|148|2024-04-15|2023-04-28|
 |70|[salahhusa9/laravel-updater](https://github.com/salahhusa9/laravel-updater)|Laravel Updater is a simple yet powerful package for updater your Laravel applications. It makes it easy to upgrade your application to the latest version with just one command.|147|2024-04-24|2023-10-18|
-|71|[mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban)|Add kanban boards to your Filament pages|144|2024-04-15|2023-11-17|
-|72|[jxxe/payback](https://github.com/jxxe/payback)|Simple expense tracking for students|140|2024-01-23|2023-11-28|
-|73|[pboivin/filament-peek](https://github.com/pboivin/filament-peek)|Full-screen page preview modal for Filament|140|2024-04-24|2023-05-20|
+|71|[mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban)|Add kanban boards to your Filament pages|145|2024-04-15|2023-11-17|
+|72|[pboivin/filament-peek](https://github.com/pboivin/filament-peek)|Full-screen page preview modal for Filament|142|2024-04-24|2023-05-20|
+|73|[jxxe/payback](https://github.com/jxxe/payback)|Simple expense tracking for students|140|2024-01-23|2023-11-28|
 |74|[brendt/rfc-vote](https://github.com/brendt/rfc-vote)|A community project for voting on PHP RFCs|139|2024-03-15|2023-07-31|
 |75|[shellar1522/Dex-Crypto-Exchange](https://github.com/shellar1522/Dex-Crypto-Exchange)|Dex Cryptocurrency exchange script   https://t.me/st_code |137|2024-01-24|2023-12-25|
-|76|[lukeraymonddowning/self-healing-urls](https://github.com/lukeraymonddowning/self-healing-urls)|A Laravel package that allows you to define self-healing URLs for Eloquent models|134|2024-04-15|2023-11-25|
-|77|[yebekhe/ConfigCollector](https://github.com/yebekhe/ConfigCollector)|PHP script collects V2Ray subscription links from sources, saves to protocol-specific files|134|2023-12-16|2023-06-29|
-|78|[yllw-digital/laravel-chatgpt-mock-api](https://github.com/yllw-digital/laravel-chatgpt-mock-api)|Generate smart API mocks in Laravel using ChatGPT prompts|134|2023-11-08|2023-06-21|
-|79|[AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode)|Gel4y-Mini-Shell-Backdoor-Decode|133|2023-12-12|2023-12-10|
-|80|[makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle)|A Symfony bundle to backup, restore and anonymize your data|133|2024-04-24|2023-11-16|
+|76|[makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle)|A Symfony bundle to backup, restore and anonymize your data|135|2024-04-25|2023-11-16|
+|77|[yebekhe/ConfigCollector](https://github.com/yebekhe/ConfigCollector)|PHP script collects V2Ray subscription links from sources, saves to protocol-specific files|135|2023-12-16|2023-06-29|
+|78|[lukeraymonddowning/self-healing-urls](https://github.com/lukeraymonddowning/self-healing-urls)|A Laravel package that allows you to define self-healing URLs for Eloquent models|134|2024-04-15|2023-11-25|
+|79|[yllw-digital/laravel-chatgpt-mock-api](https://github.com/yllw-digital/laravel-chatgpt-mock-api)|Generate smart API mocks in Laravel using ChatGPT prompts|134|2023-11-08|2023-06-21|
+|80|[AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode)|Gel4y-Mini-Shell-Backdoor-Decode|133|2023-12-12|2023-12-10|
 |81|[stevebauman/hypertext](https://github.com/stevebauman/hypertext)|A PHP HTML to pure text transformer.|133|2024-04-04|2023-10-21|
-|82|[ProjektGopher/whisky](https://github.com/ProjektGopher/whisky)|Whisky is the simplest, framework agnostic, CLI tool for managing and enforcing a php project's git hooks across an entire team.|133|2024-02-20|2023-05-17|
-|83|[MbinOrg/mbin](https://github.com/MbinOrg/mbin)|Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)|132|2024-04-24|2023-10-12|
+|82|[ProjektGopher/whisky](https://github.com/ProjektGopher/whisky)|Whisky is the simplest, framework agnostic, CLI tool for managing and enforcing a php project's git hooks across an entire team.|133|2024-04-25|2023-05-17|
+|83|[MbinOrg/mbin](https://github.com/MbinOrg/mbin)|Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)|132|2024-04-25|2023-10-12|
 |84|[joshembling/laragenie](https://github.com/joshembling/laragenie)|🤖 An AI bot made for the command line that can read and understand any codebase from your Laravel app.|131|2024-04-15|2023-12-03|
 |85|[omarelnaghy/lara-date-filter](https://github.com/omarelnaghy/lara-date-filter)|A Laravel package for advanced date filtering and manipulation|131|2024-03-02|2023-09-13|
 |86|[zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle)|Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.|131|2024-04-14|2023-07-20|
-|87|[Automattic/stream-builder](https://github.com/Automattic/stream-builder)|Tumblr's custom feed building, mixing, and ranking framework.|129|2024-02-08|2023-06-14|
+|87|[Automattic/stream-builder](https://github.com/Automattic/stream-builder)|Tumblr's custom feed building, mixing, and ranking framework.|131|2024-02-08|2023-06-14|
 |88|[TomasVotruba/lines](https://github.com/TomasVotruba/lines)|CLI tool for quick size measure of PHP project, runs anywhere|128|2024-02-02|2023-07-26|
 |89|[CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree)|The multi-level select field lets you pick one or multiple options from a list that is neatly organized into different levels.|127|2024-04-16|2023-09-09|
-|90|[sajadsdi/laravel-setting-pro](https://github.com/sajadsdi/laravel-setting-pro)|Easy setting management for Laravel framework|124|2024-04-23|2023-11-04|
+|90|[sajadsdi/laravel-setting-pro](https://github.com/sajadsdi/laravel-setting-pro)|Easy setting management for Laravel framework|125|2024-04-23|2023-11-04|
 |91|[tpetry/laravel-mysql-explain](https://github.com/tpetry/laravel-mysql-explain)|Get MySQL EXPLAIN plans that are understandable for humans|123|2024-03-13|2023-06-10|
-|92|[Gladi0Dev/4K-Video-Downloader](https://github.com/Gladi0Dev/4K-Video-Downloader)|-|120|2024-04-02|2024-03-29|
-|93|[protonemedia/laravel-task-runner](https://github.com/protonemedia/laravel-task-runner)|A package to write Shell scripts like Blade Components and run them locally or on a remote server|120|2024-04-15|2023-05-01|
-|94|[RikudouSage/LemmyAutoTldrBot](https://github.com/RikudouSage/LemmyAutoTldrBot)|-|119|2024-02-17|2023-08-01|
-|95|[spatie/laravel-prometheus](https://github.com/spatie/laravel-prometheus)|Export Laravel metrics to Prometheus|117|2024-04-15|2023-05-09|
-|96|[CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php)|Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily. |116|2024-04-24|2024-03-12|
-|97|[google-gemini-php/client](https://github.com/google-gemini-php/client)|⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API.|116|2024-04-23|2024-02-11|
-|98|[buku-masjid/buku-masjid](https://github.com/buku-masjid/buku-masjid)|Sistem Keuangan Masjid|116|2024-04-22|2023-08-29|
-|99|[GuavaCZ/filament-clusters](https://github.com/GuavaCZ/filament-clusters)|Filament Clusters allows you to visually cluster multiple fields together.|115|2024-04-15|2023-10-07|
-|100|[x0sina/marzban-sub](https://github.com/x0sina/marzban-sub)|-|115|2024-04-12|2023-09-09|
-|101|[thephpleague/flysystem-local](https://github.com/thephpleague/flysystem-local)|-|115|2024-04-07|2023-05-02|
-|102|[midudev/curso-php](https://github.com/midudev/curso-php)|Curso de PHP desde cero|114|2024-04-17|2024-04-03|
-|103|[deiby18/Gehsinhak](https://github.com/deiby18/Gehsinhak)|-|114|2024-03-23|2024-01-15|
-|104|[pinkary-project/type-guard](https://github.com/pinkary-project/type-guard)|Type Guard is a lightweight PHP library that allows you to narrow down the type of an variable to a more specific type.|113|2024-04-24|2024-03-29|
-|105|[pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log)|Spatie activity log integration into Filament|113|2024-04-03|2023-05-22|
-|106|[SiavashBamshadnia/Laravel-Query-Enrich](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich)|A powerful helper for Laravel eloquent and query builder|112|2024-03-17|2024-01-23|
+|92|[CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php)|Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily. |122|2024-04-24|2024-03-12|
+|93|[Gladi0Dev/4K-Video-Downloader](https://github.com/Gladi0Dev/4K-Video-Downloader)|-|120|2024-04-02|2024-03-29|
+|94|[protonemedia/laravel-task-runner](https://github.com/protonemedia/laravel-task-runner)|A package to write Shell scripts like Blade Components and run them locally or on a remote server|120|2024-04-15|2023-05-01|
+|95|[midudev/curso-php](https://github.com/midudev/curso-php)|Curso de PHP desde cero|119|2024-04-17|2024-04-03|
+|96|[RikudouSage/LemmyAutoTldrBot](https://github.com/RikudouSage/LemmyAutoTldrBot)|-|119|2024-02-17|2023-08-01|
+|97|[spatie/laravel-prometheus](https://github.com/spatie/laravel-prometheus)|Export Laravel metrics to Prometheus|118|2024-04-15|2023-05-09|
+|98|[google-gemini-php/client](https://github.com/google-gemini-php/client)|⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API.|116|2024-04-23|2024-02-11|
+|99|[buku-masjid/buku-masjid](https://github.com/buku-masjid/buku-masjid)|Sistem Keuangan Masjid|116|2024-04-22|2023-08-29|
+|100|[GuavaCZ/filament-clusters](https://github.com/GuavaCZ/filament-clusters)|Filament Clusters allows you to visually cluster multiple fields together.|115|2024-04-15|2023-10-07|
+|101|[x0sina/marzban-sub](https://github.com/x0sina/marzban-sub)|-|115|2024-04-12|2023-09-09|
+|102|[thephpleague/flysystem-local](https://github.com/thephpleague/flysystem-local)|-|115|2024-04-07|2023-05-02|
+|103|[pinkary-project/type-guard](https://github.com/pinkary-project/type-guard)|Type Guard is a lightweight PHP library that allows you to narrow down the type of an variable to a more specific type.|114|2024-04-24|2024-03-29|
+|104|[deiby18/Gehsinhak](https://github.com/deiby18/Gehsinhak)|-|114|2024-03-23|2024-01-15|
+|105|[SiavashBamshadnia/Laravel-Query-Enrich](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich)|A powerful helper for Laravel eloquent and query builder|113|2024-03-17|2024-01-23|
+|106|[pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log)|Spatie activity log integration into Filament|113|2024-04-03|2023-05-22|
 |107|[MrAminiNezhad/Raccoon](https://github.com/MrAminiNezhad/Raccoon)|Raccoon is a web-based PHP script to display V2ray configuration specifications and complete service information.|111|2024-02-17|2023-10-29|
 |108|[nafiesl/uptime-monitor](https://github.com/nafiesl/uptime-monitor)|A self-hosted web monitoring tool, built with laravel|110|2024-04-02|2023-12-14|
-|109|[KateMorley/grid](https://github.com/KateMorley/grid)|Source code for National Grid: Live at https://grid.iamkate.com/|108|2024-01-08|2023-06-20|
+|109|[KateMorley/grid](https://github.com/KateMorley/grid)|Source code for National Grid: Live at https://grid.iamkate.com/|109|2024-01-08|2023-06-20|
 |110|[php/pie](https://github.com/php/pie)|The PHP Installer for Extensions|107|2024-04-24|2024-02-29|
 |111|[Log1x/laravel-webfonts](https://github.com/Log1x/laravel-webfonts)|Download, install, and preload Google fonts locally in your Laravel project.|106|2024-03-28|2024-01-18|
 |112|[billerickson/BE-Starter](https://github.com/billerickson/BE-Starter)|A starter theme for Hybrid WordPress Themes|106|2023-11-28|2023-05-27|
@@ -122,64 +122,64 @@
 |115|[mostafaznv/pdf-optimizer](https://github.com/mostafaznv/pdf-optimizer)|PDF optimization tool for PHP and Laravel applications|102|2024-03-14|2024-01-06|
 |116|[arifbudimanar/lali](https://github.com/arifbudimanar/lali)|Lali (Laravel Livewire) Starter Project is The skeleton application for the Laravel starter project with TALL Stack.|100|2024-04-22|2023-10-11|
 |117|[lotusnetwork/lotusboard](https://github.com/lotusnetwork/lotusboard)|Now support hysteria2   Enhanced V2board, rolling upgrade|100|2023-12-28|2023-08-30|
-|118|[crescat-io/saloon-sdk-generator](https://github.com/crescat-io/saloon-sdk-generator)|Generate Saloon SDKs from Postman Collections and OpenAPI Specifications.|98|2024-03-27|2023-08-10|
+|118|[crescat-io/saloon-sdk-generator](https://github.com/crescat-io/saloon-sdk-generator)|Generate Saloon SDKs from Postman Collections and OpenAPI Specifications.|99|2024-03-27|2023-08-10|
 |119|[Shipu/dinero](https://github.com/Shipu/dinero)|Dinero - Multi Account Money Tracker|98|2024-04-18|2023-07-25|
-|120|[OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents)|An open agents platform (wip)|97|2024-04-24|2023-11-07|
+|120|[OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents)|An open agents platform (wip)|97|2024-04-25|2023-11-07|
 |121|[IngestAI/deepmark](https://github.com/IngestAI/deepmark)|Deepmark AI enables a unique testing environment for language models (LLM) assessment on task-specific metrics and on your own data so your GenAI-powered solution has predictable and reliable performa ...|97|2023-11-24|2023-10-12|
 |122|[abdelmjid-saber/SpladePanel](https://github.com/abdelmjid-saber/SpladePanel)|Experience the elegance of SpladePanel: effortlessly create sleek dashboards. Harness Laravel Splade's intuitive SPA-building features for seamless speed and visual allure.|96|2023-11-07|2023-08-10|
-|123|[gehrisandro/tailwind-merge-php](https://github.com/gehrisandro/tailwind-merge-php)|Automatically resolves Tailwind CSS class conflicts in PHP|95|2024-04-23|2023-06-01|
-|124|[renoki-co/l1](https://github.com/renoki-co/l1)|Extend your PHP/Laravel application with Cloudflare bindings.|94|2024-04-13|2023-06-08|
-|125|[cachethq/core](https://github.com/cachethq/core)|🚦 The core of Cachet, the open-source status page system.|92|2024-04-05|2023-08-23|
-|126|[Itinysun/laraman](https://github.com/Itinysun/laraman)|Run laravel with workman ,1 artisan command, 10x speed up|92|2024-02-01|2023-05-23|
-|127|[rarecases1/game-panel](https://github.com/rarecases1/game-panel)|GamePanel Created by Alex Freid // GamePanel is a Free and Open Source Game Control Panel. It was the first full-featured, useful game control panel which started in 2007.|91|2024-02-26|2024-02-26|
-|128|[distantmagic/resonance](https://github.com/distantmagic/resonance)|Framework created for building web applications with AI and ML capabilities. Built-in Web Server and WebSocket server.|91|2024-04-23|2023-10-07|
-|129|[yebekhe/MTProtoCollector](https://github.com/yebekhe/MTProtoCollector)|PHP script collects MTProto Proxies from various sources|91|2024-04-24|2023-06-25|
+|123|[renoki-co/l1](https://github.com/renoki-co/l1)|Extend your PHP/Laravel application with Cloudflare bindings.|96|2024-04-13|2023-06-08|
+|124|[gehrisandro/tailwind-merge-php](https://github.com/gehrisandro/tailwind-merge-php)|Automatically resolves Tailwind CSS class conflicts in PHP|95|2024-04-25|2023-06-01|
+|125|[distantmagic/resonance](https://github.com/distantmagic/resonance)|Framework created for building web applications with AI and ML capabilities. Built-in Web Server and WebSocket server.|92|2024-04-24|2023-10-07|
+|126|[cachethq/core](https://github.com/cachethq/core)|🚦 The core of Cachet, the open-source status page system.|92|2024-04-05|2023-08-23|
+|127|[yebekhe/MTProtoCollector](https://github.com/yebekhe/MTProtoCollector)|PHP script collects MTProto Proxies from various sources|92|2024-04-25|2023-06-25|
+|128|[Itinysun/laraman](https://github.com/Itinysun/laraman)|Run laravel with workman ,1 artisan command, 10x speed up|92|2024-02-01|2023-05-23|
+|129|[rarecases1/game-panel](https://github.com/rarecases1/game-panel)|GamePanel Created by Alex Freid // GamePanel is a Free and Open Source Game Control Panel. It was the first full-featured, useful game control panel which started in 2007.|91|2024-02-26|2024-02-26|
 |130|[phpform-dev/phpform-server](https://github.com/phpform-dev/phpform-server)|Headless super light forms management tool for Developers|90|2024-03-25|2024-01-13|
 |131|[mdshack/shotshare](https://github.com/mdshack/shotshare)|Open source image sharing application|89|2024-04-21|2023-12-07|
 |132|[sebiboga/humans-txt](https://github.com/sebiboga/humans-txt)|humanstxt.org is an initiative already forgotten with the goal of stating that WE ARE PEOPLE NOT MACHINES. This initiative is about promoting the initiative.|89|2023-11-28|2023-10-19|
 |133|[adegans/Goosle](https://github.com/adegans/Goosle)|A Meta Search engine with privacy and ease of use in mind|87|2024-04-12|2023-12-01|
 |134|[JonPurvis/faker-stripe](https://github.com/JonPurvis/faker-stripe)|🤡 A provider for FakerPHP that generates fake, but structurally correct IDs for Stripe API resources.|86|2023-11-12|2023-05-14|
-|135|[benholmen/defrag](https://github.com/benholmen/defrag)|Disk defrag output for PHPUnit tests|85|2024-04-15|2023-09-17|
-|136|[stevebauman/autodoc-facades](https://github.com/stevebauman/autodoc-facades)|Auto-generate PHP doc annotations for Laravel facades|84|2024-04-10|2024-01-04|
-|137|[mnapoli/sqlite-s3](https://github.com/mnapoli/sqlite-s3)|Serverless dev database: SQLite backed by S3|84|2024-01-01|2023-12-14|
-|138|[MrPunyapal/basic-crud](https://github.com/MrPunyapal/basic-crud)|Example of crud operations best practices for beginner to advanced |84|2024-03-30|2023-12-05|
+|135|[MrPunyapal/basic-crud](https://github.com/MrPunyapal/basic-crud)|Example of crud operations best practices for beginner to advanced |85|2024-03-30|2023-12-05|
+|136|[benholmen/defrag](https://github.com/benholmen/defrag)|Disk defrag output for PHPUnit tests|85|2024-04-15|2023-09-17|
+|137|[stevebauman/autodoc-facades](https://github.com/stevebauman/autodoc-facades)|Auto-generate PHP doc annotations for Laravel facades|84|2024-04-10|2024-01-04|
+|138|[mnapoli/sqlite-s3](https://github.com/mnapoli/sqlite-s3)|Serverless dev database: SQLite backed by S3|84|2024-01-01|2023-12-14|
 |139|[bezhanSalleh/filament-panel-switch](https://github.com/bezhanSalleh/filament-panel-switch)|The Panel Switch Plugin for Filament offers a robust and customizable component for switching between panels in applications built with FilamentPHP.|82|2024-04-15|2023-08-04|
 |140|[4xmen/starterkit-for-laravel](https://github.com/4xmen/starterkit-for-laravel)|An Starter Kit For Laravel Projects.|82|2024-04-12|2023-05-30|
 |141|[Treblle/security-headers](https://github.com/Treblle/security-headers)|A collection of HTTP middleware classes to improve the security headers in your Laravel application|82|2024-03-13|2023-05-12|
 |142|[cable8mm/xeed](https://github.com/cable8mm/xeed)|The Xeed is to generate new model, seed, database seed, factory and migration files for Laravel based on data from the existing database table.|81|2024-04-13|2024-03-13|
 |143|[rifqird98/evoting](https://github.com/rifqird98/evoting)|-|81|2024-03-09|2023-11-30|
 |144|[MGeurts/genealogy](https://github.com/MGeurts/genealogy)|Genealogy is a free and open-source (family tree) application to record family members and their relationships, build with PHP (Laravel 11).|80|2024-04-24|2024-01-17|
-|145|[bigfa/Farallon](https://github.com/bigfa/Farallon)|single column wordpress theme|80|2024-04-17|2023-06-02|
+|145|[bigfa/Farallon](https://github.com/bigfa/Farallon)|single column wordpress theme|80|2024-04-25|2023-06-02|
 |146|[scayle/admin-api-php-sdk](https://github.com/scayle/admin-api-php-sdk)|SCAYLE's Admin API PHP SDK simplify use of the Admin REST APIs.|78|2024-04-24|2023-07-13|
-|147|[aarondfrancis/pulse-outdated](https://github.com/aarondfrancis/pulse-outdated)|A Laravel Pulse card to show outdated composer dependencies|76|2024-02-08|2023-12-04|
-|148|[GuavaCZ/filament-nested-resources](https://github.com/GuavaCZ/filament-nested-resources)|-|76|2024-03-26|2023-10-09|
-|149|[rupadana/filament-api-service](https://github.com/rupadana/filament-api-service)|A simple api service for supporting filamentphp|76|2024-04-08|2023-08-26|
+|147|[rupadana/filament-api-service](https://github.com/rupadana/filament-api-service)|A simple api service for supporting filamentphp|77|2024-04-08|2023-08-26|
+|148|[aarondfrancis/pulse-outdated](https://github.com/aarondfrancis/pulse-outdated)|A Laravel Pulse card to show outdated composer dependencies|76|2024-02-08|2023-12-04|
+|149|[GuavaCZ/filament-nested-resources](https://github.com/GuavaCZ/filament-nested-resources)|-|76|2024-04-25|2023-10-09|
 |150|[liberu-genealogy/laravel-gedcom](https://github.com/liberu-genealogy/laravel-gedcom)|Gedcom reading and writing for Laravel 11|76|2024-03-18|2023-05-14|
-|151|[ijpatricio/mingle](https://github.com/ijpatricio/mingle)|Use JS components with Vue or React in a Laravel Livewire and/or Filament application|74|2024-04-21|2024-03-30|
-|152|[kenepa/translation-manager](https://github.com/kenepa/translation-manager)|Manage your application's translations in Filament.|74|2024-02-27|2023-05-09|
-|153|[ircfspace/warpkey](https://github.com/ircfspace/warpkey)|WARP+ Keys Collector|72|2024-04-24|2024-04-15|
-|154|[gemini-api-php/client](https://github.com/gemini-api-php/client)|Google Gemini API PHP Client allows you to use the Gemini AI model|72|2024-01-18|2023-12-19|
-|155|[liberu-ecommerce/ecommerce-old](https://github.com/liberu-ecommerce/ecommerce-old)|Laravel 10 using PHP 8.2 backend for ecommerce website. Under development.|72|2024-01-19|2023-09-20|
-|156|[SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)|Add dynamic/dependent fields to Symfony forms|72|2024-04-22|2023-08-31|
-|157|[yolanmees/Spikster](https://github.com/yolanmees/Spikster)|Install and manage your server like a pro! With Spikster you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.|72|2024-03-24|2023-08-20|
-|158|[liberu-genealogy/php-gedcom](https://github.com/liberu-genealogy/php-gedcom)|Gedcom reading and writing for PHP 8.3|72|2024-03-18|2023-05-14|
-|159|[ircfspace/warpsub](https://github.com/ircfspace/warpsub)|WARP+ (Subscription)|71|2024-02-23|2024-02-20|
-|160|[humanmade/ai-plugin](https://github.com/humanmade/ai-plugin)|An AI integration layer for WordPress|71|2024-01-10|2023-11-13|
-|161|[CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types)|Types to use Carbon in Doctrine|71|2024-04-08|2023-10-01|
-|162|[MortalSoft/CASINO-SITE](https://github.com/MortalSoft/CASINO-SITE)|This is our free premade site for ones who rent our slot API - https://demo.mortalsoft.online   https://t.me/mortalsoft|71|2023-12-21|2023-07-04|
-|163|[square1-io/laravel-idempotency](https://github.com/square1-io/laravel-idempotency)|Create more robust Laravel APIs by adding Idempotency support.|70|2024-03-21|2023-12-31|
-|164|[k2so-dev/laravel-nuxt](https://github.com/k2so-dev/laravel-nuxt)|Laravel and Nuxt.js boilerplate designed for development with maximum API performance, ready-made authorization methods, image uploading with optimization, user roles, device management|70|2024-03-13|2023-11-14|
-|165|[stephenjude/filament-feature-flags](https://github.com/stephenjude/filament-feature-flags)|Filament implementation of feature flags and segmentation with Laravel Pennant.|69|2024-04-15|2023-11-14|
-|166|[glhd/bits](https://github.com/glhd/bits)|-|69|2024-03-25|2023-06-05|
-|167|[chrisvpearse/phpcrypter](https://github.com/chrisvpearse/phpcrypter)|-|68|2024-01-13|2023-08-25|
-|168|[symfony/stimulus-bundle](https://github.com/symfony/stimulus-bundle)|Integration with your Symfony app & Stimulus!|68|2024-04-23|2023-05-22|
-|169|[alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream)|Write and read data to and from streams, only when it is really needed to|66|2024-04-04|2023-06-16|
-|170|[chrisreedio/socialment](https://github.com/chrisreedio/socialment)| Socialite OAuth Support for Filament|65|2024-04-23|2023-08-25|
-|171|[maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt)|LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.|65|2024-03-25|2023-06-15|
-|172|[Thavarshan/filterable](https://github.com/Thavarshan/filterable)|🔍 Enhance Laravel queries with adaptable, customisable filters and intelligent caching to improve both performance and functionality.|64|2024-04-24|2024-04-07|
-|173|[ijpatricio/minglejs-demo](https://github.com/ijpatricio/minglejs-demo)|Sample usage of JS components in a Laravel Livewire project|64|2024-04-20|2023-12-22|
-|174|[ronmarasigan/LavaLust4](https://github.com/ronmarasigan/LavaLust4)|Development of LavaLust Version 4|64|2024-01-12|2023-06-08|
-|175|[retrofit-drupal/retrofit](https://github.com/retrofit-drupal/retrofit)|Retrofit provides compatibility layers to run legacy Drupal code.|64|2024-04-08|2023-06-03|
+|151|[ijpatricio/mingle](https://github.com/ijpatricio/mingle)|Use JS components with Vue or React in a Laravel Livewire and/or Filament application|75|2024-04-21|2024-03-30|
+|152|[kenepa/translation-manager](https://github.com/kenepa/translation-manager)|Manage your application's translations in Filament.|74|2024-04-25|2023-05-09|
+|153|[yolanmees/Spikster](https://github.com/yolanmees/Spikster)|Install and manage your server like a pro! With Spikster you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.|73|2024-03-24|2023-08-20|
+|154|[ircfspace/warpkey](https://github.com/ircfspace/warpkey)|WARP+ Keys Collector|72|2024-04-25|2024-04-15|
+|155|[ircfspace/warpsub](https://github.com/ircfspace/warpsub)|WARP+ (Subscription)|72|2024-02-23|2024-02-20|
+|156|[gemini-api-php/client](https://github.com/gemini-api-php/client)|Google Gemini API PHP Client allows you to use the Gemini AI model|72|2024-01-18|2023-12-19|
+|157|[CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types)|Types to use Carbon in Doctrine|72|2024-04-08|2023-10-01|
+|158|[SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)|Add dynamic/dependent fields to Symfony forms|72|2024-04-22|2023-08-31|
+|159|[liberu-genealogy/php-gedcom](https://github.com/liberu-genealogy/php-gedcom)|Gedcom reading and writing for PHP 8.3|72|2024-03-18|2023-05-14|
+|160|[square1-io/laravel-idempotency](https://github.com/square1-io/laravel-idempotency)|Create more robust Laravel APIs by adding Idempotency support.|71|2024-03-21|2023-12-31|
+|161|[k2so-dev/laravel-nuxt](https://github.com/k2so-dev/laravel-nuxt)|Laravel and Nuxt.js boilerplate designed for development with maximum API performance, ready-made authorization methods, image uploading with optimization, user roles, device management|71|2024-03-13|2023-11-14|
+|162|[humanmade/ai-plugin](https://github.com/humanmade/ai-plugin)|An AI integration layer for WordPress|71|2024-01-10|2023-11-13|
+|163|[liberu-ecommerce/ecommerce-old](https://github.com/liberu-ecommerce/ecommerce-old)|Laravel 10 using PHP 8.2 backend for ecommerce website. Under development.|71|2024-01-19|2023-09-20|
+|164|[MortalSoft/CASINO-SITE](https://github.com/MortalSoft/CASINO-SITE)|This is our free premade site for ones who rent our slot API - https://demo.mortalsoft.online   https://t.me/mortalsoft|71|2024-04-25|2023-07-04|
+|165|[Thavarshan/filterable](https://github.com/Thavarshan/filterable)|🔍 Enhance Laravel queries with adaptable, customisable filters and intelligent caching to improve both performance and functionality.|70|2024-04-24|2024-04-07|
+|166|[stephenjude/filament-feature-flags](https://github.com/stephenjude/filament-feature-flags)|Filament implementation of feature flags and segmentation with Laravel Pennant.|69|2024-04-15|2023-11-14|
+|167|[glhd/bits](https://github.com/glhd/bits)|-|69|2024-03-25|2023-06-05|
+|168|[chrisvpearse/phpcrypter](https://github.com/chrisvpearse/phpcrypter)|-|68|2024-01-13|2023-08-25|
+|169|[symfony/stimulus-bundle](https://github.com/symfony/stimulus-bundle)|Integration with your Symfony app & Stimulus!|68|2024-04-23|2023-05-22|
+|170|[chrisreedio/socialment](https://github.com/chrisreedio/socialment)| Socialite OAuth Support for Filament|66|2024-04-23|2023-08-25|
+|171|[alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream)|Write and read data to and from streams, only when it is really needed to|66|2024-04-04|2023-06-16|
+|172|[maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt)|LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.|65|2024-03-25|2023-06-15|
+|173|[retrofit-drupal/retrofit](https://github.com/retrofit-drupal/retrofit)|Retrofit provides compatibility layers to run legacy Drupal code.|65|2024-04-08|2023-06-03|
+|174|[ijpatricio/minglejs-demo](https://github.com/ijpatricio/minglejs-demo)|Sample usage of JS components in a Laravel Livewire project|64|2024-04-20|2023-12-22|
+|175|[ronmarasigan/LavaLust4](https://github.com/ronmarasigan/LavaLust4)|Development of LavaLust Version 4|64|2024-01-12|2023-06-08|
 |176|[ahmadrosid/pdfpintar](https://github.com/ahmadrosid/pdfpintar)|Chat with PDF documents.|64|2024-03-27|2023-05-15|
 |177|[mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor)|a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge.|63|2024-04-05|2023-09-20|
 |178|[thecodeholic/laravel-social-media-website](https://github.com/thecodeholic/laravel-social-media-website)|Social Media website starter project built with Laravel and inertiajs with Vue3|62|2024-02-10|2023-12-17|
@@ -187,18 +187,18 @@
 |180|[binafy/laravel-stub](https://github.com/binafy/laravel-stub)|Generate stub files very easy in Laravel framework|61|2024-04-22|2024-03-02|
 |181|[rmunate/AgentDetection](https://github.com/rmunate/AgentDetection)|🔍 Agent Detection Library: Unveil the Secrets of Connection Agents! 🌐🕵️  Explore a treasure trove of methods within the Agent Detection library to uncover and scrutinize connection agent details in yo ...|61|2024-01-10|2023-07-24|
 |182|[SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)|Delightful Tailwind Support for Symfony + AssetMapper|61|2024-02-20|2023-06-27|
-|183|[tuto1902/filament-pet-clinic](https://github.com/tuto1902/filament-pet-clinic)|A fictional Pet Clinic Admin Panel made with Filament v3|60|2023-12-11|2023-08-06|
-|184|[meilisearch/saas-demo](https://github.com/meilisearch/saas-demo)|App search in a CRM use case, powered by Meilisearch|60|2023-11-27|2023-06-01|
-|185|[pyrohost/panel](https://github.com/pyrohost/panel)|pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.|59|2024-04-23|2023-12-08|
-|186|[ringlesoft/laravel-process-approval](https://github.com/ringlesoft/laravel-process-approval)|Laravel Process Approval is a Laravel package that makes it easy to add approvals to your Laravel application. It allows you to define approval workflows for any model, and it provides a simple and ea ...|59|2024-04-17|2023-09-23|
-|187|[TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak)|Find leaking classes that you never use... and get rid of them.|59|2024-04-04|2023-07-17|
-|188|[HelgeSverre/mindwave](https://github.com/HelgeSverre/mindwave)|[WIP] 🧠  Toolkit for building AI features into your Laravel app.|59|2024-01-12|2023-05-10|
-|189|[parallax/filament-comments](https://github.com/parallax/filament-comments)|Add comments to your Filament Resources|58|2024-03-24|2024-01-27|
-|190|[JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)|Let's embed the power of DriverJS to your filament admin panel, and guide peoples through your app|58|2024-04-22|2023-08-17|
-|191|[nikspyratos/toybox](https://github.com/nikspyratos/toybox)|Opinionated TALL stack starter kit for Laravel solopreneurs|58|2024-04-22|2023-07-27|
-|192|[symfony/asset-mapper](https://github.com/symfony/asset-mapper)|Maps directories of assets & makes them available in a public directory with versioned filenames.|58|2024-04-18|2023-05-01|
-|193|[codewithtonyofficial/filamentphp-v3-tutorial](https://github.com/codewithtonyofficial/filamentphp-v3-tutorial)|-|57|2024-02-04|2023-09-04|
-|194|[saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list)|A Filament package to manage adjacency lists (aka trees).|57|2024-04-15|2023-08-17|
+|183|[pyrohost/panel](https://github.com/pyrohost/panel)|pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.|60|2024-04-25|2023-12-08|
+|184|[tuto1902/filament-pet-clinic](https://github.com/tuto1902/filament-pet-clinic)|A fictional Pet Clinic Admin Panel made with Filament v3|60|2023-12-11|2023-08-06|
+|185|[meilisearch/saas-demo](https://github.com/meilisearch/saas-demo)|App search in a CRM use case, powered by Meilisearch|60|2023-11-27|2023-06-01|
+|186|[parallax/filament-comments](https://github.com/parallax/filament-comments)|Add comments to your Filament Resources|59|2024-03-24|2024-01-27|
+|187|[ringlesoft/laravel-process-approval](https://github.com/ringlesoft/laravel-process-approval)|Laravel Process Approval is a Laravel package that makes it easy to add approvals to your Laravel application. It allows you to define approval workflows for any model, and it provides a simple and ea ...|59|2024-04-17|2023-09-23|
+|188|[JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)|Let's embed the power of DriverJS to your filament admin panel, and guide peoples through your app|59|2024-04-22|2023-08-17|
+|189|[nikspyratos/toybox](https://github.com/nikspyratos/toybox)|Opinionated TALL stack starter kit for Laravel solopreneurs|59|2024-04-25|2023-07-27|
+|190|[TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak)|Find leaking classes that you never use... and get rid of them.|59|2024-04-25|2023-07-17|
+|191|[HelgeSverre/mindwave](https://github.com/HelgeSverre/mindwave)|[WIP] 🧠  Toolkit for building AI features into your Laravel app.|59|2024-01-12|2023-05-10|
+|192|[saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list)|A Filament package to manage adjacency lists (aka trees).|58|2024-04-15|2023-08-17|
+|193|[symfony/asset-mapper](https://github.com/symfony/asset-mapper)|Maps directories of assets & makes them available in a public directory with versioned filenames.|58|2024-04-18|2023-05-01|
+|194|[codewithtonyofficial/filamentphp-v3-tutorial](https://github.com/codewithtonyofficial/filamentphp-v3-tutorial)|-|57|2024-02-04|2023-09-04|
 |195|[KnightDarkRising/CODEX](https://github.com/KnightDarkRising/CODEX)|-|56|2024-03-14|2024-02-25|
 |196|[GoldRush-developpement/EasyUIBuilder](https://github.com/GoldRush-developpement/EasyUIBuilder)|"EasyUIBuilder" is a small software tool designed to create JSON UI forms more quickly in Minecraft Bedrock Edition!|56|2023-12-03|2023-11-02|
 |197|[yelocode/laravel-blog-project](https://github.com/yelocode/laravel-blog-project)|Laravel Blog built using Tall Stack|56|2023-11-28|2023-09-07|
