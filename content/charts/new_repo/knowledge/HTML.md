@@ -1,46 +1,46 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Updated: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7351|2024-04-15|2023-11-01|
+|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7356|2024-04-15|2023-11-01|
 |2|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|1499|2024-02-28|2024-01-18|
 |3|[HemzehH/gitHubCourse](https://github.com/HemzehH/gitHubCourse)|gitHubCourse|861|2024-02-23|2024-01-29|
-|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |784|2023-12-21|2023-11-24|
-|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|634|2024-04-16|2024-03-05|
+|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |786|2023-12-21|2023-11-24|
+|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|635|2024-04-16|2024-03-05|
 |6|[luguosong/programming-notes](https://github.com/luguosong/programming-notes)|Programming Learning Blog|393|2024-04-26|2023-05-17|
-|7|[shovoalways/CSS-Course](https://github.com/shovoalways/CSS-Course)|এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লিস্ট এ ডিটেইলে আপনাকে CSS3 শিখাব, ইনশাআল্লাহ্‌। তাই আপনি যদি আগ্রিহী হন দেখতে থাকু ...|369|2024-03-31|2023-07-18|
+|7|[shovoalways/CSS-Course](https://github.com/shovoalways/CSS-Course)|এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লিস্ট এ ডিটেইলে আপনাকে CSS3 শিখাব, ইনশাআল্লাহ্‌। তাই আপনি যদি আগ্রিহী হন দেখতে থাকু ...|370|2024-03-31|2023-07-18|
 |8|[mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords)|Awesome list of keywords and artifacts for Threat Hunting sessions|337|2024-04-21|2023-05-16|
-|9|[cipher387/linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day)|In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".|332|2024-03-04|2023-05-12|
-|10|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|267|2024-04-25|2023-11-24|
+|9|[cipher387/linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day)|In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".|333|2024-03-04|2023-05-12|
+|10|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|269|2024-04-25|2023-11-24|
 |11|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|238|2024-04-19|2024-01-02|
-|12|[VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D)|GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting|195|2024-02-15|2024-02-11|
-|13|[dupontgu/qr-file-share](https://github.com/dupontgu/qr-file-share)|Share small files from an offline source using only a QR code|188|2024-02-24|2024-02-15|
-|14|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|187|2024-04-25|2023-10-17|
+|12|[VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D)|GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting|196|2024-02-15|2024-02-11|
+|13|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|189|2024-04-25|2023-10-17|
+|14|[dupontgu/qr-file-share](https://github.com/dupontgu/qr-file-share)|Share small files from an offline source using only a QR code|188|2024-02-24|2024-02-15|
 |15|[pddon/pddon-win](https://github.com/pddon/pddon-win)|PDDON windows client, PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN,  ...|176|2024-01-17|2023-08-08|
 |16|[Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)|Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!|151|2023-11-20|2023-09-02|
-|17|[salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s)|Platform Engineering on Kubernetes :: Book Examples|147|2024-04-24|2023-05-09|
-|18|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|144|2024-03-18|2024-03-14|
+|17|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|147|2024-03-18|2024-03-14|
+|18|[salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s)|Platform Engineering on Kubernetes :: Book Examples|147|2024-04-27|2023-05-09|
 |19|[mdbootstrap/TW-Elements-React](https://github.com/mdbootstrap/TW-Elements-React)|TW Elements for React - 𝙃𝙪𝙜𝙚 collection of Tailwind + React components, sections and templates 😎|137|2024-03-20|2023-05-17|
 |20|[ashemery/malware-tools](https://github.com/ashemery/malware-tools)|A list of useful tools for Malware Analysis (will be updated regularly)|111|2024-04-02|2024-03-28|
 |21|[capjamesg/cv-book-svg](https://github.com/capjamesg/cv-book-svg)|Turn an image of a bookshelf into an interactive SVG.|106|2024-02-21|2024-02-12|
 |22|[r-follador/CubeTrek](https://github.com/r-follador/CubeTrek)|Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.|98|2024-02-23|2023-12-07|
-|23|[orcas-lab/hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it)|An emergency booklet, I hope you will never use it|95|2023-10-27|2023-09-08|
-|24|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |94|2024-04-25|2024-01-13|
-|25|[urania-dev/snapp](https://github.com/urania-dev/snapp)|Yet Another Url Shortner. A simple excercise to learn Svelte, Svelte5 Runes, and Tabler.|80|2024-01-09|2023-12-06|
-|26|[bradtraversy/bootstrap-5-websites](https://github.com/bradtraversy/bootstrap-5-websites)|Bootstrap 5 websites from my course|78|2024-02-15|2023-06-16|
-|27|[TacoGuy21/ByeBlocker](https://github.com/TacoGuy21/ByeBlocker)|The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts) |75|2024-03-15|2023-05-12|
-|28|[expitau/InfiniteCraftWiki](https://github.com/expitau/InfiniteCraftWiki)|A crafting guide for neal.fun's infinite craft|72|2024-04-26|2024-02-17|
-|29|[Normando1945/Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io)|Welcome to this specialized repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate str ...|71|2024-04-01|2023-08-22|
-|30|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2024-01-12|2023-12-20|
-|31|[QuantML-Github/QuantML](https://github.com/QuantML-Github/QuantML)|量化机器学习/深度学习模型（Model Zoo）；Alpha 因子（Factor Zoo）； 量化资源以及相关论文代码|62|2024-04-23|2023-11-06|
-|32|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |60|2024-04-12|2024-01-29|
-|33|[s-bhalode/Hacktoberfest-2023](https://github.com/s-bhalode/Hacktoberfest-2023)|🎉 Welcome to the Hacktoberfest 2023 Celebration Repository! 🎉  Join us in contributing to open source and celebrating the spirit of Hacktoberfest! This repository is open to all skill levels, from fir ...|54|2023-11-18|2023-09-27|
-|34|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers|52|2024-04-25|2023-06-30|
-|35|[JB-Statistical-Consulting/biostatistics](https://github.com/JB-Statistical-Consulting/biostatistics)|Biostatistics resources : reading list, RMarkdown notebooks, and more!|51|2024-04-22|2023-09-30|
-|36|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|49|2024-04-06|2023-10-03|
+|23|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |94|2024-04-26|2024-01-13|
+|24|[urania-dev/snapp](https://github.com/urania-dev/snapp)|Yet Another Url Shortner. A simple excercise to learn Svelte, Svelte5 Runes, and Tabler.|80|2024-01-09|2023-12-06|
+|25|[bradtraversy/bootstrap-5-websites](https://github.com/bradtraversy/bootstrap-5-websites)|Bootstrap 5 websites from my course|78|2024-02-15|2023-06-16|
+|26|[TacoGuy21/ByeBlocker](https://github.com/TacoGuy21/ByeBlocker)|The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts) |75|2024-03-15|2023-05-12|
+|27|[expitau/InfiniteCraftWiki](https://github.com/expitau/InfiniteCraftWiki)|A crafting guide for neal.fun's infinite craft|72|2024-04-27|2024-02-17|
+|28|[Normando1945/Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io)|Welcome to this specialized repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate str ...|71|2024-04-01|2023-08-22|
+|29|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2024-01-12|2023-12-20|
+|30|[QuantML-Github/QuantML](https://github.com/QuantML-Github/QuantML)|量化机器学习/深度学习模型（Model Zoo）；Alpha 因子（Factor Zoo）； 量化资源以及相关论文代码|62|2024-04-23|2023-11-06|
+|31|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |60|2024-04-12|2024-01-29|
+|32|[s-bhalode/Hacktoberfest-2023](https://github.com/s-bhalode/Hacktoberfest-2023)|🎉 Welcome to the Hacktoberfest 2023 Celebration Repository! 🎉  Join us in contributing to open source and celebrating the spirit of Hacktoberfest! This repository is open to all skill levels, from fir ...|54|2023-11-18|2023-09-27|
+|33|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers|52|2024-04-25|2023-06-30|
+|34|[JB-Statistical-Consulting/biostatistics](https://github.com/JB-Statistical-Consulting/biostatistics)|Biostatistics resources : reading list, RMarkdown notebooks, and more!|51|2024-04-27|2023-09-30|
+|35|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|49|2024-04-06|2023-10-03|
+|36|[kadyb/geotips](https://github.com/kadyb/geotips)|Collection of tips for faster spatial data processing in R|49|2024-04-27|2023-08-06|
 |37|[MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection)|Simple 404 collection for use in personal and commercial projects|46|2023-12-26|2023-07-14|
 |38|[hxuhack/course_compiler](https://github.com/hxuhack/course_compiler)|Course Webpage of SOFT130061 Compiler Principles and Techniques @ Fudan University|45|2024-04-25|2023-07-15|
 |39|[hammadojh/Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course)|Contains the course files and exercises |44|2023-12-13|2023-08-25|
@@ -54,8 +54,8 @@
 |47|[gevendra115/hack](https://github.com/gevendra115/hack)|how to hack free fire id, |36|2024-02-06|2023-06-06|
 |48|[ortegaalfredo/neuroengine](https://github.com/ortegaalfredo/neuroengine)|Neuroengine is a service to share LLMs in the form of a webchat and API.|35|2024-02-25|2023-06-11|
 |49|[marcysutton/frontend-masters-web-accessibility-v3](https://github.com/marcysutton/frontend-masters-web-accessibility-v3)|A repo for the Web Accessibility v3 workshop for Frontend Masters|34|2024-02-17|2023-11-02|
-|50|[livrasand/Reviw](https://github.com/livrasand/Reviw)|Create JWPUBs files easily and quickly for JW Library. Reviw is a Plugin for Sublime Text. And a powerful collection of HTML components, packed with features.|34|2024-03-30|2023-06-25|
-|51|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|33|2024-04-26|2023-07-19|
+|50|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|34|2024-04-27|2023-07-19|
+|51|[livrasand/Reviw](https://github.com/livrasand/Reviw)|Create JWPUBs files easily and quickly for JW Library. Reviw is a Plugin for Sublime Text. And a powerful collection of HTML components, packed with features.|34|2024-03-30|2023-06-25|
 |52|[BidyasagarAnupam/YearBook](https://github.com/BidyasagarAnupam/YearBook)|Year Book for MCA |32|2023-10-31|2023-09-18|
 |53|[dawidolko/Github-Badges-Achievements](https://github.com/dawidolko/Github-Badges-Achievements)|A collection of all Achievements available on GitHub profile   Full list of GitHub profile badges and achievements  |32|2024-04-09|2023-07-21|
 |54|[frontend-joe/es6-components](https://github.com/frontend-joe/es6-components)|Collection of components built with HTML, CSS and JavaScript (ES6)|31|2024-04-26|2024-03-15|
