@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-04-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,7 +27,7 @@
 |20|[ropensci/quadkeyr](https://github.com/ropensci/quadkeyr)|An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  |10|2024-03-21|2023-12-04|
 |21|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|9|2024-02-23|2024-02-18|
 |22|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|8|2024-04-02|2024-01-07|
-|23|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|8|2024-04-23|2023-12-20|
+|23|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|8|2024-04-25|2023-12-20|
 |24|[milos-agathon/3d-river-basin-map](https://github.com/milos-agathon/3d-river-basin-map)|In this repo, you will learn how to create stunning 3D maps of river basins using rayshader in R|8|2023-11-25|2023-11-25|
 |25|[milos-agathon/map-population-change](https://github.com/milos-agathon/map-population-change)|In this repo, I show you how to map the population change in Romania from 1990 to 2020 using ggplot2 in R. 🗺️  I use the GHSL population data, which provides high-resolution population rasters for the ...|8|2024-01-01|2023-11-11|
 |26|[avvorstenbosch/Masterclass-LLMs-for-Data-Science](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)|The masterclass "Large Language Models for Data Science" explains what LLMs are, what they can and cannot do, and what they can be used for.|7|2023-11-28|2023-10-23|
@@ -36,10 +36,9 @@
 |29|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|6|2024-02-10|2023-12-13|
 |30|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
 |31|[jangorecki/r-pkgs-tiny](https://github.com/jangorecki/r-pkgs-tiny)|Tiny guide for writing R packages|6|2023-11-23|2023-08-30|
-|32|[syre-data/tutorials](https://github.com/syre-data/tutorials)|Syre tutorials|6|2024-01-30|2023-04-29|
-|33|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
-|34|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
-|35|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
+|32|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
+|33|[matloff/dsld](https://github.com/matloff/dsld)|A statistical and graphical toolkit for analyzing data for possible patterns of discrimination (racial, gender, age, etc.)               |5|2024-01-14|2023-06-12|
+|34|[nt-williams/mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)|Super learner fitting and prediction using mlr3|5|2023-10-31|2023-05-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

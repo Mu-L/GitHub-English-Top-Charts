@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vue
-<sub>Updated: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)|Collection of handy online tools for developers, with great UX. |11189|8|2024-04-26|
-|2|[massCodeIO/massCode](https://github.com/massCodeIO/massCode)|A free and open source code snippets manager for developers|5448|7|2024-03-03|
-|3|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|493|3|2024-04-11|
-|4|[wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)|All-inclusive Python cheatsheet|4031|2|2024-04-25|
+|1|[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)|Collection of handy online tools for developers, with great UX. |11251|8|2024-04-28|
+|2|[massCodeIO/massCode](https://github.com/massCodeIO/massCode)|A free and open source code snippets manager for developers|5450|7|2024-03-03|
+|3|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|494|3|2024-04-11|
+|4|[wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)|All-inclusive Python cheatsheet|4035|2|2024-04-25|
 |5|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|233|2|2024-01-12|
-|6|[LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow)|📃 FE Engineering Construction Guide Refspec 前端工程化操作指南文档|862|1|2023-12-14|
+|6|[LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow)|📃 FE Engineering Construction Guide Refspec 前端工程化操作指南文档|863|1|2023-12-14|
 |7|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|106|1|2024-03-04|
 |8|[Tresjs/cientos](https://github.com/Tresjs/cientos)|Collection of useful helpers and fully functional, ready-made abstractions for TresJS|217|1|2024-04-27|
 |9|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|142|1|2024-04-23|
 |10|[victoryhb/streamlit-option-menu](https://github.com/victoryhb/streamlit-option-menu)|streamlit-option-menu is a simple Streamlit component that allows users to select a single item from a list of options in a menu. |514|1|2024-01-18|
-|11|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|634|1|2024-04-27|
-|12|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1919|1|2024-03-24|
+|11|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|662|1|2024-04-27|
+|12|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1918|1|2024-03-24|
 |13|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|111|1|2024-04-26|
-|14|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|1726|1|2024-04-24|
-|15|[highQ77/william77.github.io](https://github.com/highQ77/william77.github.io)|design guideline webpage version|9|1|2024-04-26|
+|14|[KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux)|Quant-UX - Prototype, Test and Learn|1729|1|2024-04-24|
+|15|[highQ77/william77.github.io](https://github.com/highQ77/william77.github.io)|design guideline webpage version|9|1|2024-04-28|
 |16|[vueschool/ai-chatbot-course](https://github.com/vueschool/ai-chatbot-course)|Source Code for the course: AI Chat Bot with Vue.js and GPT-4|33|0|2024-04-02|
 |17|[inabajunmr/webauthn-viewer](https://github.com/inabajunmr/webauthn-viewer)|WebAuthn API viewer on browser for learning.|8|0|2024-04-11|
 |18|[quacs/quacs](https://github.com/quacs/quacs)|Questionably Accurate Course Scheduler for RPI|34|0|2024-04-16|
@@ -45,8 +45,8 @@
 |38|[danesjenovdan/parlanode](https://github.com/danesjenovdan/parlanode)|Parlameter parlanode component renders cards and makes them shareable and embeddable.|4|0|2024-04-23|
 |39|[appbaseio/vue-playground](https://github.com/appbaseio/vue-playground)|A storybook playground for Vue ReactiveSearch|7|0|2023-12-28|
 |40|[scalar/sandbox](https://github.com/scalar/sandbox)|The easiest way to share OpenAPI files|6|0|2024-04-26|
-|41|[audiobookshelf/audiobookshelf-web](https://github.com/audiobookshelf/audiobookshelf-web)|Website for audiobookshelf|72|0|2024-04-23|
-|42|[alessandrojean/toshokan](https://github.com/alessandrojean/toshokan)|Manga, comics and book collection management using Google Sheets as a storage.|12|0|2024-04-27|
+|41|[audiobookshelf/audiobookshelf-web](https://github.com/audiobookshelf/audiobookshelf-web)|Website for audiobookshelf|72|0|2024-04-28|
+|42|[alessandrojean/toshokan](https://github.com/alessandrojean/toshokan)|Manga, comics and book collection management using Google Sheets as a storage.|12|0|2024-04-28|
 |43|[xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style)|🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.|283|0|2024-04-03|
 |44|[turbine-kreuzberg/vida](https://github.com/turbine-kreuzberg/vida)|JavaScript snippet to support people suffering of domestic violence.|4|0|2024-04-20|
 |45|[RISCfuture/learnmorse.codes](https://github.com/RISCfuture/learnmorse.codes)|Learning Morse code is fun!|5|0|2024-02-16|
@@ -94,7 +94,7 @@
 |87|[mikimoresi/vue3-material](https://github.com/mikimoresi/vue3-material)|A collection of vue material components converted to vue3|7|0|2023-12-21|
 |88|[arthur-x/MarbleFish](https://github.com/arthur-x/MarbleFish)|A Chinese Checkers AI, winner of the in-course competition of "AI: Principles and Techniques" @ SJTU, instantly playable in the browser!|7|0|2024-04-15|
 |89|[truc0/slides.nimo.network](https://github.com/truc0/slides.nimo.network)|Slides for NIMO 2021 Web Tutorial|4|0|2024-03-27|
-|90|[bcgov/orgbook-bc-client](https://github.com/bcgov/orgbook-bc-client)|Vue.js rewrite of OrgBook BC|6|0|2024-04-27|
+|90|[bcgov/orgbook-bc-client](https://github.com/bcgov/orgbook-bc-client)|Vue.js rewrite of OrgBook BC|6|0|2024-04-28|
 |91|[storybook-vue/storybook-nuxt-demo](https://github.com/storybook-vue/storybook-nuxt-demo)|Demo for Storybook-nuxt integration |14|0|2024-04-19|
 |92|[vueschool/ts-vue-boilerplate](https://github.com/vueschool/ts-vue-boilerplate)|Boilerplate code for the TypeScript with Vue.js 3 course|10|0|2023-12-19|
 |93|[uPortal-Project/uPortal-web-components](https://github.com/uPortal-Project/uPortal-web-components)|A collection of uPortal Web Components and JavaScript utilities|24|0|2024-04-10|
@@ -108,7 +108,7 @@
 |101|[frikinside/vue3-simple-typeahead](https://github.com/frikinside/vue3-simple-typeahead)|A simple and lightweight Vue3 typeahead component that show a suggested list of elements while the user types in.|93|0|2023-11-13|
 |102|[Bootstrap-Academy/admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard)|The internal admin dashboard of Bootstrap Academy - Learn Computer Science Online|50|0|2024-04-25|
 |103|[64robots/nova-fields](https://github.com/64robots/nova-fields)|A collection of customizable Nova Fields.|284|0|2024-04-17|
-|104|[dirkhe1051931999/quasar-typescript-admin-template](https://github.com/dirkhe1051931999/quasar-typescript-admin-template)|:dizzy: This is a management system written using the Class API for Vue2 and Vue3 versions of the Quasar framework and supports TypeScript. where the master branch is used for the Vue2 version and the ...|137|0|2024-04-24|
+|104|[dirkhe1051931999/quasar-typescript-admin-template](https://github.com/dirkhe1051931999/quasar-typescript-admin-template)|:dizzy: This is a management system written using the Class API for Vue2 and Vue3 versions of the Quasar framework and supports TypeScript. where the master branch is used for the Vue2 version and the ...|137|0|2024-04-28|
 |105|[ikkkp/ocean](https://github.com/ikkkp/ocean)|Ocean是使用基于大语言模型文本知识向量抽取和Transformer构建的校园开源文库|18|0|2024-03-27|
 |106|[Kapcash/bookmark-switcher](https://github.com/Kapcash/bookmark-switcher)|A Mozilla Firefox extension to switch between several bookmark toolbars.|8|0|2024-03-31|
 |107|[braswelljr/bookie-client](https://github.com/braswelljr/bookie-client)|Bookie client for the bookie API.|4|0|2023-12-05|
@@ -117,7 +117,7 @@
 |110|[loilo/diffr](https://github.com/loilo/diffr)|💎 Create and share diffs with Diffr, the privacy focused online text diffing tool.|18|0|2024-04-04|
 |111|[faraday-academy/curriculum-app](https://github.com/faraday-academy/curriculum-app)|Create, share, and keep track of your learning curricula. https://studytracker.tech|157|0|2024-04-23|
 |112|[data-science-ucsb/gauchocourses](https://github.com/data-science-ucsb/gauchocourses)|Data Science UCSB's management of GauchoCourses, a quarterly course planner that allows students to see possible schedule combinations for the classes they want to take, and save them for when their p ...|13|0|2024-01-31|
-|113|[classfang/AIHub](https://github.com/classfang/AIHub)|一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨|66|0|2024-04-26|
+|113|[classfang/AIHub](https://github.com/classfang/AIHub)|一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨|69|0|2024-04-28|
 |114|[mayashavin/learning-vue-app](https://github.com/mayashavin/learning-vue-app)|Code samples for Learning Vue book|10|0|2023-12-04|
 |115|[tobiasKaminsky/grocerylist](https://github.com/tobiasKaminsky/grocerylist)|Grocery list for Nextcloud|7|0|2024-04-24|
 |116|[ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB)|RUXAILAB - Usability Testing and Heuristics Evaluation Conceptual learning |38|0|2024-04-27|
@@ -135,10 +135,10 @@
 |128|[aregrid/aregrid-roadmap](https://github.com/aregrid/aregrid-roadmap)|Develop roadmaps and monitor the progress of your projects|13|0|2024-01-05|
 |129|[ripe-tech/ripe-components-vue](https://github.com/ripe-tech/ripe-components-vue)|Library of shared components to be re-used in Vue.js|7|0|2023-11-13|
 |130|[johannschopplich/kirby.tools](https://github.com/johannschopplich/kirby.tools)|🧰 A collection of Kirby plugins, such as Kirby Live Preview|7|0|2024-04-26|
-|131|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|95|0|2024-03-05|
+|131|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|94|0|2024-03-05|
 |132|[chromaui/intro-storybook-vue-template](https://github.com/chromaui/intro-storybook-vue-template)|Boilerplate template for the Intro to Storybook tutorial for Vue|10|0|2023-12-23|
 |133|[zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating)|Self-calculated rating of problems in leetcode weekly/biweekly contests.|436|0|2024-04-22|
-|134|[margueriteroth/vue-d3-dataviz-starter](https://github.com/margueriteroth/vue-d3-dataviz-starter)|Vue3, Vite, and D3.js starter with examples|55|0|2024-02-05|
+|134|[margueriteroth/vue-d3-dataviz-starter](https://github.com/margueriteroth/vue-d3-dataviz-starter)|Vue3, Vite, and D3.js starter with examples|56|0|2024-02-05|
 |135|[Mokkapps/github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website)|A website that shows a list of traffic graphs of your own GitHub repositories.|19|0|2024-03-11|
 |136|[protonduck/frontend](https://github.com/protonduck/frontend)|Intuitive. Powerful. Bookmark Manager (Frontend)|8|0|2023-11-08|
 |137|[daver987/nuxt-docu-search-ai](https://github.com/daver987/nuxt-docu-search-ai)|Revolutionizing the way you learn Nuxt 3, Nuxt 3 DocuSearch AI provides instant, context-aware answers to your queries using GPT-4. Streamline your coding journey with this innovative, AI-powered tool ...|28|0|2024-04-04|
@@ -148,7 +148,7 @@
 |141|[deckofdmthings/GameMasterAI](https://github.com/deckofdmthings/GameMasterAI)|An open-source AI Dungeon Master system|4|0|2023-11-11|
 |142|[tldrrun/tools.tldr.run](https://github.com/tldrrun/tools.tldr.run)|A curated list of security tools for Hackers & Builders!|96|0|2024-03-29|
 |143|[robinkloeckner/vue3-vite-i18n-lazy](https://github.com/robinkloeckner/vue3-vite-i18n-lazy)|Source code to my article 'How to Load i18n Locales Asynchronously in Vue 3 + Vite'|6|0|2024-01-14|
-|144|[shareish/shareish](https://github.com/shareish/shareish)|Main code of the Shareish platform (backend & frontend)|9|0|2024-04-26|
+|144|[shareish/shareish](https://github.com/shareish/shareish)|Main code of the Shareish platform (backend & frontend)|9|0|2024-04-28|
 |145|[piotr-jura-udemy/vue-course](https://github.com/piotr-jura-udemy/vue-course)|Source Code of Vue 3 Course on Udemy |9|0|2023-11-25|
 |146|[chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example)|Build a custom interface to Azure Automation Runbooks.|11|0|2024-04-01|
 |147|[WANGIUR/vue3-typescript-admin](https://github.com/WANGIUR/vue3-typescript-admin)|A lightweight admin for learning Vue3 and TypeScript|5|0|2024-03-19|
@@ -171,7 +171,7 @@
 |164|[nuxt/example-auth0](https://github.com/nuxt/example-auth0)|A simple example that shows how to use Nuxt.js with Auth0.|715|0|2024-04-04|
 |165|[simplePCBuilding/SimpleMediaUpscalerLite](https://github.com/simplePCBuilding/SimpleMediaUpscalerLite)|An Electron GUI to upscale images / videos using multiple different algorithms|10|0|2024-01-10|
 |166|[codecember-ink/codecember](https://github.com/codecember-ink/codecember)|Learn and create computation form, one sketch a day.|44|0|2024-04-09|
-|167|[evandor/tabsets](https://github.com/evandor/tabsets)|Browser Extension to manage tabs and bookmarks professionally|11|0|2024-04-27|
+|167|[evandor/tabsets](https://github.com/evandor/tabsets)|Browser Extension to manage tabs and bookmarks professionally|11|0|2024-04-28|
 |168|[yy4382/genshinvoice-import](https://github.com/yy4382/genshinvoice-import)|将 https://bv2.firefly.matce.cn 中的原神语音导入到小说软件中用于听书。目前完成了爱阅记的配置生成复制。|12|0|2024-03-19|
 |169|[bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web)|Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.|24|0|2024-01-13|
 |170|[healerlab/vue3-facebook-login](https://github.com/healerlab/vue3-facebook-login)|Facebook login component with Vue 3|4|0|2024-02-26|
@@ -196,7 +196,7 @@
 |189|[NethServer/nethserver-blacklist](https://github.com/NethServer/nethserver-blacklist)|Blacklist for NethServer|6|0|2024-04-08|
 |190|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|11|0|2024-04-27|
 |191|[wilfredinni/javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet)|All-inclusive Javascript cheatsheet|440|0|2024-04-25|
-|192|[alessandrojean/tankobon](https://github.com/alessandrojean/tankobon)|[WIP] Self-hosted physical book collection manager.|21|0|2024-01-04|
+|192|[alessandrojean/tankobon](https://github.com/alessandrojean/tankobon)|[WIP] Self-hosted physical book collection manager.|22|0|2024-01-04|
 |193|[srcdev/nuxt3-pinia-i18n-storybook](https://github.com/srcdev/nuxt3-pinia-i18n-storybook)|Starter kit for Nuxt3, Pinia, i18n, Vitest and Storybook.|15|0|2024-04-25|
 |194|[Yaya-Cout/Upsilon-Workshop](https://github.com/Yaya-Cout/Upsilon-Workshop)|Upsilon Workshop is a website to create and share projects for the Numworks calculator.|15|0|2024-04-22|
 |195|[devmount/wishlist](https://github.com/devmount/wishlist)|Create wishlists, add wishes, share with friends|6|0|2024-04-04|

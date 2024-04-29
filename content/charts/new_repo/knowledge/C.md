@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-04-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)|An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)|1415|2024-04-13|2024-01-05|
-|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|836|2023-11-23|2023-07-14|
-|3|[icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)|Collection of UAC Bypass Techniques Weaponized as BOFs|331|2024-02-21|2024-02-16|
+|1|[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)|An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)|1418|2024-04-13|2024-01-05|
+|2|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|837|2023-11-23|2023-07-14|
+|3|[icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)|Collection of UAC Bypass Techniques Weaponized as BOFs|329|2024-02-21|2024-02-16|
 |4|[FiniteSingularity/obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur)|A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.|269|2023-12-28|2023-08-20|
 |5|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|265|2024-04-11|2024-01-14|
 |6|[Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)|Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks|240|2023-11-03|2023-10-06|
@@ -17,12 +17,12 @@
 |10|[Nuno-Jesus/Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)|Clear the fog around Makefiles with this Makefile tutorial and enhance your knowledge with advanced tips and concepts.|111|2023-12-30|2023-06-01|
 |11|[Kingtous/thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh)|hackintosh for thinkbook14p-Gen2-ACH (AMD Ryzen 7 5800h)|111|2024-04-20|2023-05-25|
 |12|[mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking)|A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.|104|2024-04-20|2023-10-06|
-|13|[spicyjpeg/ps1-bare-metal](https://github.com/spicyjpeg/ps1-bare-metal)|PlayStation 1 bare-metal C examples|96|2024-01-12|2023-06-30|
+|13|[spicyjpeg/ps1-bare-metal](https://github.com/spicyjpeg/ps1-bare-metal)|PlayStation 1 bare-metal C examples|98|2024-01-12|2023-06-30|
 |14|[HX-Titaniumc-wwt/3.7Inch-Eink](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink)|A small but versatile handheld ebook|96|2023-11-29|2023-06-22|
 |15|[longyan97/EMEye_Tutorial](https://github.com/longyan97/EMEye_Tutorial)|Tutorial and code of EM Eye camera eavesdropping attack research|82|2024-02-23|2023-11-07|
 |16|[T-Yashwanth-Naidu/C-Programming-Questions](https://github.com/T-Yashwanth-Naidu/C-Programming-Questions)|You can find a list of programming problems on various topic in C|74|2024-04-14|2023-08-30|
-|17|[milkv-duo/duo-examples](https://github.com/milkv-duo/duo-examples)|Milk-V Duo official C/C++ examples|64|2024-04-24|2023-06-19|
-|18|[JeffreytheCoder/Simple-HTTP-Server](https://github.com/JeffreytheCoder/Simple-HTTP-Server)|Tutorial on how a web server "serve" files|64|2024-03-06|2023-05-11|
+|17|[JeffreytheCoder/Simple-HTTP-Server](https://github.com/JeffreytheCoder/Simple-HTTP-Server)|Tutorial on how a web server "serve" files|65|2024-03-06|2023-05-11|
+|18|[milkv-duo/duo-examples](https://github.com/milkv-duo/duo-examples)|Milk-V Duo official C/C++ examples|64|2024-04-24|2023-06-19|
 |19|[codee-com/open-catalog](https://github.com/codee-com/open-catalog)|This catalog is a collaborative effort to consolidate the collective wisdom of performance experts on the best practices for performance. It consists of a glossary and a list of checks for the C, C++  ...|60|2024-03-20|2024-01-25|
 |20|[jadis0x/il2cpp-reverse-engineering-guide](https://github.com/jadis0x/il2cpp-reverse-engineering-guide)|This guide provides illustrative examples demonstrating the usage of Il2cppInspector C++ scaffold.|47|2023-12-15|2023-07-24|
 |21|[Subash-2503/MOVIE_TICKET_BOOKING_SYSTEM](https://github.com/Subash-2503/MOVIE_TICKET_BOOKING_SYSTEM)|Building a movie ticket booking system involves several components and is more complex than can be captured in just a few lines of code. Here's a high-level overview of what a basic movie ticket booki ...|42|2023-12-17|2023-12-17|
