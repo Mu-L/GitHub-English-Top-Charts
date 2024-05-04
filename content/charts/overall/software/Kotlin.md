@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Kotlin
-<sub>Updated: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |47558|2024-05-02|
+|1|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |47561|2024-05-03|
 |2|[square/okhttp](https://github.com/square/okhttp)|Square’s meticulous HTTP client for the JVM, Android, and GraalVM.|45274|2024-05-01|
-|3|[2dust/v2rayNG](https://github.com/2dust/v2rayNG)|A V2Ray client for Android, support Xray core and v2fly core|30634|2024-05-02|
-|4|[square/leakcanary](https://github.com/square/leakcanary)|A memory leak detection library for Android.|29131|2024-05-02|
+|3|[2dust/v2rayNG](https://github.com/2dust/v2rayNG)|A V2Ray client for Android, support Xray core and v2fly core|30656|2024-05-02|
+|4|[square/leakcanary](https://github.com/square/leakcanary)|A memory leak detection library for Android.|29133|2024-05-03|
 |5|[tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)|Free and open source manga reader for Android.|28381|2024-01-13|
-|6|[android/architecture-components-samples](https://github.com/android/architecture-components-samples)|Samples for Android Architecture Components. |23269|2023-12-15|
-|7|[android/compose-samples](https://github.com/android/compose-samples)|Official Jetpack Compose samples.|18830|2024-05-02|
-|8|[square/picasso](https://github.com/square/picasso)|A powerful image downloading and caching library for Android|18661|2024-05-01|
+|6|[android/architecture-components-samples](https://github.com/android/architecture-components-samples)|Samples for Android Architecture Components. |23271|2023-12-15|
+|7|[android/compose-samples](https://github.com/android/compose-samples)|Official Jetpack Compose samples.|18838|2024-05-03|
+|8|[square/picasso](https://github.com/square/picasso)|A powerful image downloading and caching library for Android|18662|2024-05-01|
 |9|[google/flexbox-layout](https://github.com/google/flexbox-layout)|Flexbox for Android |18163|2024-04-22|
-|10|[android/sunflower](https://github.com/android/sunflower)|A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.|17489|2024-05-02|
+|10|[android/sunflower](https://github.com/android/sunflower)|A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.|17494|2024-05-03|
 |11|[lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)|Lottie wrapper for React Native.|16503|2024-05-02|
 |12|[nickbutcher/plaid](https://github.com/nickbutcher/plaid)|An Android app which provides design news & inspiration as well as being an example of implementing material design.|16250|2024-01-04|
-|13|[android/nowinandroid](https://github.com/android/nowinandroid)|A fully functional Android app built entirely with Kotlin and Jetpack Compose|15349|2024-05-02|
-|14|[JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)|Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.|14724|2024-05-01|
-|15|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|14004|2024-03-30|
-|16|[android/uamp](https://github.com/android/uamp)|A sample audio app for Android|13043|2024-03-08|
+|13|[android/nowinandroid](https://github.com/android/nowinandroid)|A fully functional Android app built entirely with Kotlin and Jetpack Compose|15357|2024-05-03|
+|14|[JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)|Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.|14731|2024-05-03|
+|15|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|14005|2024-03-30|
+|16|[android/uamp](https://github.com/android/uamp)|A sample audio app for Android|13044|2024-03-08|
 |17|[Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)|Library support for Kotlin coroutines |12723|2024-05-02|
-|18|[ktorio/ktor](https://github.com/ktorio/ktor)|Framework for quickly creating connected applications in Kotlin with minimal effort|12253|2024-05-02|
+|18|[ktorio/ktor](https://github.com/ktorio/ktor)|Framework for quickly creating connected applications in Kotlin with minimal effort|12256|2024-05-03|
 |19|[wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)|An Android Animation library which easily add itemanimator to RecyclerView items.|11457|2023-12-30|
-|20|[YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)|Translation plugin for IntelliJ based IDEs/Android Studio.|10907|2024-05-02|
+|20|[YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)|Translation plugin for IntelliJ based IDEs/Android Studio.|10909|2024-05-03|
 |21|[AppIntro/AppIntro](https://github.com/AppIntro/AppIntro)|Make a cool intro for your Android app.|10448|2024-05-01|
 |22|[JakeWharton/timber](https://github.com/JakeWharton/timber)|A logger with a small, extensible API which provides utility on top of Android's normal Log class.|10324|2024-04-16|
-|23|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android and Compose Multiplatform.|10300|2024-05-02|
-|24|[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)|Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.|9917|2024-04-01|
-|25|[square/moshi](https://github.com/square/moshi)|A modern JSON library for Kotlin and Java.|9505|2024-05-02|
-|26|[thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android)|K-9 Mail – Open Source Email App for Android|9427|2024-05-02|
-|27|[JetBrains/ideavim](https://github.com/JetBrains/ideavim)|IdeaVim – A Vim engine for JetBrains IDEs|8742|2024-05-02|
-|28|[square/okio](https://github.com/square/okio)|A modern I/O library for Android, Java, and Kotlin Multiplatform.|8667|2024-04-30|
-|29|[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)|Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform|8642|2024-05-02|
-|30|[MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)|NekoBox for Android / sing-box / universal proxy toolchain for Android|8568|2024-03-22|
-|31|[ethereum-lists/chains](https://github.com/ethereum-lists/chains)|provides metadata for chains|8157|2024-05-02|
-|32|[tiann/KernelSU](https://github.com/tiann/KernelSU)|A Kernel based root solution for Android|8154|2024-05-02|
-|33|[RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)|Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.|8035|2024-04-22|
-|34|[JunkFood02/Seal](https://github.com/JunkFood02/Seal)|🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You|7950|2024-05-01|
-|35|[JetBrains/Exposed](https://github.com/JetBrains/Exposed)|Kotlin SQL Framework|7904|2024-05-02|
-|36|[ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)|AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.|7884|2024-05-02|
-|37|[yairm210/Unciv](https://github.com/yairm210/Unciv)|Open-source Android/Desktop remake of Civ V|7743|2024-05-02|
-|38|[libre-tube/LibreTube](https://github.com/libre-tube/LibreTube)|An alternative frontend for YouTube, for Android.|7687|2024-05-02|
+|23|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android and Compose Multiplatform.|10303|2024-05-03|
+|24|[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)|Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.|9920|2024-04-01|
+|25|[square/moshi](https://github.com/square/moshi)|A modern JSON library for Kotlin and Java.|9506|2024-05-02|
+|26|[thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android)|K-9 Mail – Open Source Email App for Android|9429|2024-05-03|
+|27|[JetBrains/ideavim](https://github.com/JetBrains/ideavim)|IdeaVim – A Vim engine for JetBrains IDEs|8747|2024-05-03|
+|28|[square/okio](https://github.com/square/okio)|A modern I/O library for Android, Java, and Kotlin Multiplatform.|8668|2024-04-30|
+|29|[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)|Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform|8647|2024-05-03|
+|30|[MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)|NekoBox for Android / sing-box / universal proxy toolchain for Android|8591|2024-03-22|
+|31|[tiann/KernelSU](https://github.com/tiann/KernelSU)|A Kernel based root solution for Android|8164|2024-05-03|
+|32|[ethereum-lists/chains](https://github.com/ethereum-lists/chains)|provides metadata for chains|8160|2024-05-03|
+|33|[RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)|Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.|8056|2024-04-22|
+|34|[JunkFood02/Seal](https://github.com/JunkFood02/Seal)|🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You|7971|2024-05-03|
+|35|[JetBrains/Exposed](https://github.com/JetBrains/Exposed)|Kotlin SQL Framework|7907|2024-05-03|
+|36|[ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)|AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.|7889|2024-05-03|
+|37|[yairm210/Unciv](https://github.com/yairm210/Unciv)|Open-source Android/Desktop remake of Civ V|7745|2024-05-03|
+|38|[libre-tube/LibreTube](https://github.com/libre-tube/LibreTube)|An alternative frontend for YouTube, for Android.|7692|2024-05-03|
 |39|[uber/RIBs](https://github.com/uber/RIBs)|Uber's cross-platform mobile architecture framework.|7677|2024-05-01|
-|40|[vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)|An Android application for streaming music from YouTube Music.|7641|2024-04-25|
-|41|[skydoves/Pokedex](https://github.com/skydoves/Pokedex)|🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.|7622|2024-05-01|
-|42|[iSoron/uhabits](https://github.com/iSoron/uhabits)|Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits|7301|2024-05-01|
-|43|[javalin/javalin](https://github.com/javalin/javalin)|A simple and modern Java and Kotlin web framework|7238|2024-05-01|
-|44|[zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)|An android image compression library.|6993|2023-11-21|
-|45|[mihonapp/mihon](https://github.com/mihonapp/mihon)|Free and open source manga reader for Android|6811|2024-05-02|
-|46|[chrisbanes/tivi](https://github.com/chrisbanes/tivi)|Tivi is a TV show tracking Android app, which connects to trakt.tv|6409|2024-05-02|
-|47|[igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)|💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...|6358|2024-05-01|
-|48|[ACRA/acra](https://github.com/ACRA/acra)|Application Crash Reports for Android|6230|2024-05-01|
+|40|[vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)|An Android application for streaming music from YouTube Music.|7646|2024-04-25|
+|41|[skydoves/Pokedex](https://github.com/skydoves/Pokedex)|🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.|7622|2024-05-02|
+|42|[iSoron/uhabits](https://github.com/iSoron/uhabits)|Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits|7302|2024-05-01|
+|43|[javalin/javalin](https://github.com/javalin/javalin)|A simple and modern Java and Kotlin web framework|7239|2024-05-03|
+|44|[zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)|An android image compression library.|6994|2023-11-21|
+|45|[mihonapp/mihon](https://github.com/mihonapp/mihon)|Free and open source manga reader for Android|6831|2024-05-03|
+|46|[chrisbanes/tivi](https://github.com/chrisbanes/tivi)|Tivi is a TV show tracking Android app, which connects to trakt.tv|6411|2024-05-03|
+|47|[igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)|💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...|6358|2024-05-02|
+|48|[ACRA/acra](https://github.com/ACRA/acra)|Application Crash Reports for Android|6230|2024-05-03|
 |49|[facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)|Used to integrate Android apps with Facebook Platform.|6065|2024-04-01|
-|50|[detekt/detekt](https://github.com/detekt/detekt)|Static code analysis for Kotlin|6047|2024-05-01|
-|51|[pinterest/ktlint](https://github.com/pinterest/ktlint)|An anti-bikeshedding Kotlin linter with built-in formatter|6006|2024-04-30|
+|50|[detekt/detekt](https://github.com/detekt/detekt)|Static code analysis for Kotlin|6048|2024-05-03|
+|51|[pinterest/ktlint](https://github.com/pinterest/ktlint)|An anti-bikeshedding Kotlin linter with built-in formatter|6007|2024-04-30|
 |52|[arrow-kt/arrow](https://github.com/arrow-kt/arrow)|Λrrow - Functional companion to Kotlin's Standard Library|5971|2024-05-01|
-|53|[cashapp/sqldelight](https://github.com/cashapp/sqldelight)|SQLDelight - Generates typesafe Kotlin APIs from SQL|5929|2024-05-02|
+|53|[cashapp/sqldelight](https://github.com/cashapp/sqldelight)|SQLDelight - Generates typesafe Kotlin APIs from SQL|5931|2024-05-03|
 |54|[airbnb/mavericks](https://github.com/airbnb/mavericks)|Mavericks: Android on Autopilot|5745|2024-04-16|
-|55|[kickstarter/android-oss](https://github.com/kickstarter/android-oss)|Kickstarter for Android. Bring new ideas to life, anywhere.|5739|2024-05-01|
-|56|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|5618|2024-02-13|
-|57|[recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)|Android app for streaming and downloading media.|5564|2024-05-02|
-|58|[florisboard/florisboard](https://github.com/florisboard/florisboard)|An open-source keyboard for Android which respects your privacy. Currently in early-beta.|5367|2024-04-29|
-|59|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|5287|2024-04-10|
-|60|[zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)|Material Design file manager for Android|5180|2024-04-25|
-|61|[mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro)|Painless Mobile UI Automation|5175|2024-04-25|
-|62|[Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)|Kotlin multiplatform / multi-format serialization |5105|2024-05-02|
-|63|[androidx/androidx](https://github.com/androidx/androidx)|Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.|5082|2024-05-02|
+|55|[kickstarter/android-oss](https://github.com/kickstarter/android-oss)|Kickstarter for Android. Bring new ideas to life, anywhere.|5738|2024-05-02|
+|56|[SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)|The universal proxy toolchain for Android|5619|2024-02-13|
+|57|[recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)|Android app for streaming and downloading media.|5566|2024-05-03|
+|58|[florisboard/florisboard](https://github.com/florisboard/florisboard)|An open-source keyboard for Android which respects your privacy. Currently in early-beta.|5378|2024-05-03|
+|59|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|5288|2024-04-10|
+|60|[zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)|Material Design file manager for Android|5184|2024-05-03|
+|61|[mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro)|Painless Mobile UI Automation|5179|2024-04-25|
+|62|[Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)|Kotlin multiplatform / multi-format serialization |5105|2024-05-03|
+|63|[androidx/androidx](https://github.com/androidx/androidx)|Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.|5084|2024-05-03|
 |64|[android/camera-samples](https://github.com/android/camera-samples)|Multiple samples showing the best practices in camera APIs on Android.|4803|2024-04-09|
 |65|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|4785|2024-03-01|
 |66|[muzei/muzei](https://github.com/muzei/muzei)|Muzei Live Wallpaper for Android|4643|2024-05-02|
-|67|[ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template)|👋🧩ReVanced Patches template|4590|2024-05-01|
-|68|[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)|Rust plugin for the IntelliJ Platform|4526|2024-03-13|
+|67|[ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template)|👋🧩ReVanced Patches template|4592|2024-05-01|
+|68|[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)|Rust plugin for the IntelliJ Platform|4527|2024-03-13|
 |69|[kittinunf/fuel](https://github.com/kittinunf/fuel)|The easiest HTTP networking library for Kotlin/Android|4498|2024-02-10|
-|70|[kizitonwose/Calendar](https://github.com/kizitonwose/Calendar)|A highly customizable calendar view and compose library for Android.|4407|2024-04-27|
-|71|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet|4339|2024-04-17|
-|72|[kotest/kotest](https://github.com/kotest/kotest)|Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing|4290|2024-05-02|
+|70|[kizitonwose/Calendar](https://github.com/kizitonwose/Calendar)|A highly customizable calendar view and compose library for Android.|4410|2024-04-27|
+|71|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet|4342|2024-04-17|
+|72|[kotest/kotest](https://github.com/kotest/kotest)|Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing|4291|2024-05-03|
 |73|[android/user-interface-samples](https://github.com/android/user-interface-samples)|Multiple samples showing the best practices in the user interface on Android.|4280|2024-04-25|
-|74|[square/wire](https://github.com/square/wire)|gRPC and protocol buffers for Android, Kotlin, Swift and Java.|4174|2024-05-02|
-|75|[aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)|An app for manga and anime|4097|2024-05-02|
-|76|[Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)|Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.|4091|2024-04-30|
+|74|[square/wire](https://github.com/square/wire)|gRPC and protocol buffers for Android, Kotlin, Swift and Java.|4174|2024-05-03|
+|75|[aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)|An app for manga and anime|4104|2024-05-02|
+|76|[Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)|Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.|4095|2024-05-03|
 |77|[Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)|GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.|4066|2024-03-21|
 |78|[burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor)|A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.|4014|2024-04-18|
-|79|[cuynu/vancedx](https://github.com/cuynu/vancedx)|YouTube Vanced+ & YouTube Music Vanced+ Official Distribution|3967|2023-12-31|
-|80|[Ashinch/ReadYou](https://github.com/Ashinch/ReadYou)|An Android RSS reader presented in Material You style.|3967|2024-04-28|
-|81|[corda/corda](https://github.com/corda/corda)|Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra ...|3967|2024-05-02|
-|82|[square/kotlinpoet](https://github.com/square/kotlinpoet)|A Kotlin API for generating .kt source files.|3805|2024-05-02|
+|79|[Ashinch/ReadYou](https://github.com/Ashinch/ReadYou)|An Android RSS reader presented in Material You style.|3971|2024-04-28|
+|80|[cuynu/vancedx](https://github.com/cuynu/vancedx)|YouTube Vanced+ & YouTube Music Vanced+ Official Distribution|3967|2023-12-31|
+|81|[corda/corda](https://github.com/corda/corda)|Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra ...|3967|2024-05-03|
+|82|[square/kotlinpoet](https://github.com/square/kotlinpoet)|A Kotlin API for generating .kt source files.|3806|2024-05-03|
 |83|[ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)|Gradle plugin to discover dependency updates|3796|2024-04-15|
-|84|[RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)|Best Material You Design music player for Android|3767|2024-04-21|
-|85|[owncloud/android](https://github.com/owncloud/android)|:phone: The ownCloud Android App|3739|2024-05-02|
-|86|[LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)|An app to view libraries used in apps in your device.|3723|2024-05-02|
-|87|[ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker)|🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)|3684|2024-04-24|
+|84|[RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)|Best Material You Design music player for Android|3768|2024-04-21|
+|85|[owncloud/android](https://github.com/owncloud/android)|:phone: The ownCloud Android App|3738|2024-05-03|
+|86|[LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)|An app to view libraries used in apps in your device.|3723|2024-05-03|
+|87|[ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker)|🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)|3686|2024-04-24|
 |88|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3680|2024-04-13|
 |89|[apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin)|:robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.|3672|2024-05-02|
-|90|[streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)|Easy to use OpenStreetMap editor for Android|3622|2024-05-02|
-|91|[skydoves/Balloon](https://github.com/skydoves/Balloon)|:balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.|3573|2024-04-30|
-|92|[duckduckgo/Android](https://github.com/duckduckgo/Android)|DuckDuckGo Android App|3543|2024-05-02|
-|93|[skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android)|📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.|3528|2024-05-02|
+|90|[streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)|Easy to use OpenStreetMap editor for Android|3624|2024-05-02|
+|91|[skydoves/Balloon](https://github.com/skydoves/Balloon)|:balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.|3574|2024-05-03|
+|92|[duckduckgo/Android](https://github.com/duckduckgo/Android)|DuckDuckGo Android App|3545|2024-05-03|
+|93|[skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android)|📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.|3529|2024-05-02|
 |94|[mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries)|AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments |3499|2024-05-01|
 |95|[SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)|A simple calendar with events, tasks, customizable colors, widgets and no ads.|3476|2024-02-14|
 |96|[SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)|A premium app for managing and editing your photos, videos, GIFs without ads|3459|2023-12-14|
-|97|[simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)|-|3374|2024-04-01|
-|98|[CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)|Main UserLAnd Repository|3371|2024-03-25|
-|99|[tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator)|Three material Dots Indicators for view pagers in Android !  |3354|2024-02-18|
-|100|[z-huang/InnerTune](https://github.com/z-huang/InnerTune)|A Material 3 YouTube Music client for Android|3353|2024-03-23|
-|101|[PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)|YouTube Player library for Android and Chromecast, stable and customizable.|3348|2024-04-28|
+|97|[simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)|-|3378|2024-04-01|
+|98|[CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)|Main UserLAnd Repository|3373|2024-03-25|
+|99|[z-huang/InnerTune](https://github.com/z-huang/InnerTune)|A Material 3 YouTube Music client for Android|3355|2024-03-23|
+|100|[tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator)|Three material Dots Indicators for view pagers in Android !  |3354|2024-02-18|
+|101|[PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)|YouTube Player library for Android and Chromecast, stable and customizable.|3349|2024-04-28|
 |102|[tasks/tasks](https://github.com/tasks/tasks)|Bringing Astrid Tasks back from the dead|3280|2024-05-02|
-|103|[Kotlin/dokka](https://github.com/Kotlin/dokka)|API documentation engine for Kotlin|3275|2024-05-02|
-|104|[element-hq/element-android](https://github.com/element-hq/element-android)|A glossy Matrix collaboration client for Android.|3217|2024-05-02|
-|105|[breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)|A Material Design Weather Application|3215|2024-05-02|
-|106|[Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)|Salt Player, The Best!|3171|2024-05-02|
-|107|[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)|Painless Kotlin Dependency Injection|3140|2024-04-30|
-|108|[MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store)|A Kotlin Multiplatform library for building network-resilient applications|3077|2024-04-27|
+|103|[Kotlin/dokka](https://github.com/Kotlin/dokka)|API documentation engine for Kotlin|3277|2024-05-02|
+|104|[breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)|A Material Design Weather Application|3232|2024-05-03|
+|105|[element-hq/element-android](https://github.com/element-hq/element-android)|A glossy Matrix collaboration client for Android.|3217|2024-05-03|
+|106|[Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)|Salt Player, The Best!|3178|2024-05-02|
+|107|[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)|Painless Kotlin Dependency Injection|3141|2024-04-30|
+|108|[MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store)|A Kotlin Multiplatform library for building network-resilient applications|3078|2024-05-03|
 |109|[tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)|Source extensions for the Tachiyomi app.|3075|2024-01-08|
-|110|[mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin)|Using Mockito with Kotlin|3073|2024-04-09|
-|111|[raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)|Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.|3069|2024-04-28|
+|110|[mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin)|Using Mockito with Kotlin|3075|2024-04-09|
+|111|[raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)|Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.|3073|2024-04-28|
 |112|[DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti)|Celebrate more with this lightweight confetti particle system 🎊|3026|2024-03-28|
-|113|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|3014|2024-03-06|
-|114|[Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)|GraphQL for Java with Spring Boot made easy.|3000|2024-04-30|
-|115|[wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)|WordPress for Android|2915|2024-05-02|
-|116|[Droid-ify/client](https://github.com/Droid-ify/client)|F-Droid client with Material UI. |2873|2024-04-30|
-|117|[bmax121/APatch](https://github.com/bmax121/APatch)|The patching of Android kernel and Android system|2868|2024-05-02|
-|118|[JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)|Template repository for creating plugins for IntelliJ Platform|2860|2024-04-16|
-|119|[jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge)|Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).|2852|2024-05-02|
-|120|[KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu)|Manga reader for Android|2847|2024-05-02|
-|121|[JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)|KotlinConf Schedule Application|2837|2024-04-29|
-|122|[osfans/trime](https://github.com/osfans/trime)|同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android|2804|2024-05-02|
-|123|[gotev/android-upload-service](https://github.com/gotev/android-upload-service)|Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.|2800|2023-12-06|
-|124|[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)|Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.|2787|2024-04-30|
+|113|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|3015|2024-03-06|
+|114|[Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)|GraphQL for Java with Spring Boot made easy.|3001|2024-04-30|
+|115|[wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)|WordPress for Android|2915|2024-05-03|
+|116|[bmax121/APatch](https://github.com/bmax121/APatch)|The patching of Android kernel and Android system|2885|2024-05-03|
+|117|[Droid-ify/client](https://github.com/Droid-ify/client)|F-Droid client with Material UI. |2878|2024-05-03|
+|118|[JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)|Template repository for creating plugins for IntelliJ Platform|2863|2024-04-16|
+|119|[KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu)|Manga reader for Android|2853|2024-05-03|
+|120|[jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge)|Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).|2852|2024-05-02|
+|121|[JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)|KotlinConf Schedule Application|2839|2024-05-03|
+|122|[osfans/trime](https://github.com/osfans/trime)|同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android|2805|2024-05-03|
+|123|[gotev/android-upload-service](https://github.com/gotev/android-upload-service)|Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.|2801|2023-12-06|
+|124|[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)|Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.|2789|2024-05-03|
 |125|[MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView)|Adds touch functionality to Android ImageView.|2705|2024-05-02|
 |126|[rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|2649|2024-04-14|
 |127|[orgzly/orgzly-android](https://github.com/orgzly/orgzly-android)|Outliner for taking notes and managing to-do lists|2647|2024-03-02|
-|128|[google/ksp](https://github.com/google/ksp)|Kotlin Symbol Processing API|2643|2024-05-02|
+|128|[google/ksp](https://github.com/google/ksp)|Kotlin Symbol Processing API|2644|2024-05-02|
 |129|[zcweng/SwitchButton](https://github.com/zcweng/SwitchButton)|SwitchButton.An beautiful+lightweight+custom-style-easy switch widget for Android,minSdkVersion >= 11|2637|2024-01-12|
-|130|[VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)|Android application to analyze WiFi signals.|2628|2024-04-25|
+|130|[VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)|Android application to analyze WiFi signals.|2631|2024-04-25|
 |131|[ingokegel/jclasslib](https://github.com/ingokegel/jclasslib)|jclasslib bytecode editor is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.|2619|2023-12-29|
-|132|[deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)|Android Video/Audio Downloader app using yt-dlp|2587|2024-05-02|
-|133|[wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic)|An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer|2506|2024-04-03|
-|134|[http4k/http4k](https://github.com/http4k/http4k)|The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.|2495|2024-05-01|
-|135|[Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)|An Xposed module to intercept applist detections|2493|2024-04-19|
-|136|[Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android)|Pocket Casts Android 🎧|2486|2024-05-02|
-|137|[NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store)|An F-Droid client with modern UI and an arsenal of extra features.|2486|2024-05-01|
-|138|[oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)|Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.|2486|2024-04-23|
+|132|[deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)|Android Video/Audio Downloader app using yt-dlp|2593|2024-05-02|
+|133|[wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic)|An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer|2507|2024-04-03|
+|134|[Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)|An Xposed module to intercept applist detections|2497|2024-04-19|
+|135|[http4k/http4k](https://github.com/http4k/http4k)|The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.|2495|2024-05-01|
+|136|[NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store)|An F-Droid client with modern UI and an arsenal of extra features.|2489|2024-05-02|
+|137|[Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android)|Pocket Casts Android 🎧|2487|2024-05-03|
+|138|[oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)|Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.|2487|2024-04-23|
 |139|[akexorcist/RoundCornerProgressBar](https://github.com/akexorcist/RoundCornerProgressBar)|[Android] Round Corner Progress Bar Library for Android|2468|2023-11-19|
-|140|[android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store)|Android application compatible with ZX2C4's Pass command line application|2462|2024-04-30|
+|140|[android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store)|Android application compatible with ZX2C4's Pass command line application|2463|2024-05-03|
 |141|[liangjingkanji/BRV](https://github.com/liangjingkanji/BRV)|[使用文档] Android 快速构建 RecyclerView, 比 BRVAH 更简单强大|2411|2024-04-30|
-|142|[videolan/vlc-android](https://github.com/videolan/vlc-android)|  VLC for Android, Android TV and ChromeOS|2405|2024-04-25|
-|143|[celzero/rethink-app](https://github.com/celzero/rethink-app)|DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.|2391|2024-05-01|
-|144|[tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)|An Android client for the microblogging server Mastodon|2386|2024-05-01|
+|142|[videolan/vlc-android](https://github.com/videolan/vlc-android)|  VLC for Android, Android TV and ChromeOS|2406|2024-05-03|
+|143|[celzero/rethink-app](https://github.com/celzero/rethink-app)|DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.|2397|2024-05-03|
+|144|[tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)|An Android client for the microblogging server Mastodon|2388|2024-05-03|
 |145|[ajalt/clikt](https://github.com/ajalt/clikt)|Multiplatform command line interface parsing for Kotlin|2383|2024-04-28|
-|146|[pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder)|RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin|2374|2024-04-30|
-|147|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|2373|2023-11-22|
-|148|[android/play-billing-samples](https://github.com/android/play-billing-samples)|Samples for Google Play In-app Billing|2341|2024-04-12|
-|149|[zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)|Google launcher-style implementation of switch (enable/disable) icon|2331|2024-04-16|
-|150|[ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher)|💉 ReVanced Patcher used to patch Android applications|2330|2024-05-02|
-|151|[unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev)|🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent  ...|2327|2024-05-02|
-|152|[Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)|Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.|2327|2024-05-01|
-|153|[cashapp/turbine](https://github.com/cashapp/turbine)|A small testing library for kotlinx.coroutines Flow|2327|2024-04-12|
-|154|[korlibs/korge](https://github.com/korlibs/korge)|KorGE Game Engine. Multiplatform Kotlin Game Engine|2316|2024-04-30|
+|146|[pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder)|RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin|2376|2024-05-03|
+|147|[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)|👓 A curated list of awesome android kotlin apps by open-source contributors.|2374|2023-11-22|
+|148|[android/play-billing-samples](https://github.com/android/play-billing-samples)|Samples for Google Play In-app Billing|2342|2024-04-12|
+|149|[unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev)|🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent  ...|2332|2024-05-03|
+|150|[ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher)|💉 ReVanced Patcher used to patch Android applications|2332|2024-05-02|
+|151|[zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)|Google launcher-style implementation of switch (enable/disable) icon|2331|2024-04-16|
+|152|[Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)|Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.|2329|2024-05-01|
+|153|[cashapp/turbine](https://github.com/cashapp/turbine)|A small testing library for kotlinx.coroutines Flow|2328|2024-04-12|
+|154|[korlibs/korge](https://github.com/korlibs/korge)|KorGE Game Engine. Multiplatform Kotlin Game Engine|2317|2024-04-30|
 |155|[TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci)|蓝鲸持续集成平台(蓝盾) |2295|2024-04-30|
-|156|[fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)|Fcitx5 input method framework and engines ported to Android|2248|2024-05-02|
-|157|[adrielcafe/voyager](https://github.com/adrielcafe/voyager)|🛸 A pragmatic navigation library for Jetpack Compose|2223|2024-04-21|
+|156|[fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)|Fcitx5 input method framework and engines ported to Android|2256|2024-05-03|
+|157|[adrielcafe/voyager](https://github.com/adrielcafe/voyager)|🛸 A pragmatic navigation library for Jetpack Compose|2226|2024-04-21|
 |158|[spekframework/spek](https://github.com/spekframework/spek)|A specification framework for Kotlin|2222|2023-12-10|
-|159|[wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)| 📱The official Wikipedia app for Android!|2217|2024-05-02|
-|160|[Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)|KotlinX multiplatform date/time library|2210|2024-05-01|
-|161|[cashapp/paparazzi](https://github.com/cashapp/paparazzi)|Render your Android screens without a physical device or emulator|2172|2024-05-02|
+|159|[wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)| 📱The official Wikipedia app for Android!|2217|2024-05-03|
+|160|[Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)|KotlinX multiplatform date/time library|2212|2024-05-03|
+|161|[cashapp/paparazzi](https://github.com/cashapp/paparazzi)|Render your Android screens without a physical device or emulator|2172|2024-05-03|
 |162|[azhon/AppUpdate](https://github.com/azhon/AppUpdate)|Android App update library.  Android版本更新库，简单、轻量、可随意定制|2171|2023-12-18|
-|163|[d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)|SD Maid 2/SE is Android's most thorough cleaning tool.|2124|2024-05-02|
-|164|[ismartcoding/plain-app](https://github.com/ismartcoding/plain-app)|🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy  ...|2118|2024-05-02|
+|163|[d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)|SD Maid 2/SE is Android's most thorough cleaning tool.|2130|2024-05-02|
+|164|[ismartcoding/plain-app](https://github.com/ismartcoding/plain-app)|🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy  ...|2120|2024-05-03|
 |165|[anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)|A lightweight Android browser with modern navigation|2118|2023-11-16|
 |166|[brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia)|An Android ExoPlayer wrapper to simplify Audio and Video implementations|2112|2023-12-02|
-|167|[XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)|DataBackup for Android|2089|2024-04-30|
-|168|[nekomangaorg/Neko](https://github.com/nekomangaorg/Neko)|Unofficial MangaDex Reader for Android 7+|2085|2024-05-02|
-|169|[pbreault/adb-idea](https://github.com/pbreault/adb-idea)|A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.|2082|2024-04-03|
-|170|[divkit/divkit](https://github.com/divkit/divkit)|DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app|2068|2024-05-02|
-|171|[home-assistant/android](https://github.com/home-assistant/android)|:iphone: Home Assistant Companion for Android|2056|2024-05-02|
+|167|[XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)|DataBackup for Android|2092|2024-04-30|
+|168|[nekomangaorg/Neko](https://github.com/nekomangaorg/Neko)|Unofficial MangaDex Reader for Android 7+|2087|2024-05-02|
+|169|[pbreault/adb-idea](https://github.com/pbreault/adb-idea)|A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.|2083|2024-04-03|
+|170|[divkit/divkit](https://github.com/divkit/divkit)|DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app|2069|2024-05-02|
+|171|[home-assistant/android](https://github.com/home-assistant/android)|:iphone: Home Assistant Companion for Android|2057|2024-05-03|
 |172|[airbnb/Showkase](https://github.com/airbnb/Showkase)|🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements|2051|2024-04-17|
 |173|[kscripting/kscript](https://github.com/kscripting/kscript)|Scripting enhancements for Kotlin|2042|2024-03-15|
-|174|[T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)|🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file|2025|2024-05-02|
-|175|[rnmapbox/maps](https://github.com/rnmapbox/maps)|A Mapbox react native module for creating custom maps|2012|2024-04-28|
-|176|[kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)|A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.|1985|2024-05-02|
+|174|[T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)|🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file|2032|2024-05-03|
+|175|[rnmapbox/maps](https://github.com/rnmapbox/maps)|A Mapbox react native module for creating custom maps|2013|2024-04-28|
+|176|[kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)|A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.|1986|2024-05-03|
 |177|[panpf/sketch](https://github.com/panpf/sketch)|Sketch is a powerful and comprehensive image load library on Android, in addition to the basic functions, it also supports Jetpack Compose, GIF, SVG, video thumbnails, gesture zoom, huge images sampli ...|1985|2024-04-29|
-|178|[mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)|Ejercicios de código semanales en 2022 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.|1977|2024-05-02|
-|179|[saket/cascade](https://github.com/saket/cascade)|Nested popup menus with smooth height animations for Android|1975|2024-02-24|
-|180|[arkivanov/Decompose](https://github.com/arkivanov/Decompose)|Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)|1974|2024-04-29|
-|181|[jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)|Third-party native Jellyfin Android app|1953|2024-05-02|
+|178|[mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)|Ejercicios de código semanales en 2022 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.|1977|2024-05-03|
+|179|[saket/cascade](https://github.com/saket/cascade)|Nested popup menus with smooth height animations for Android|1976|2024-02-24|
+|180|[arkivanov/Decompose](https://github.com/arkivanov/Decompose)|Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)|1975|2024-05-03|
+|181|[jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)|Third-party native Jellyfin Android app|1955|2024-05-02|
 |182|[skydoves/landscapist](https://github.com/skydoves/landscapist)|🌻 A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.|1947|2024-05-02|
 |183|[Kotlin/kmm-production-sample](https://github.com/Kotlin/kmm-production-sample)|This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been desig ...|1943|2024-02-02|
-|184|[ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)|An app for catching up on things.|1938|2024-05-02|
-|185|[Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid)|All in one emulator on Android!|1935|2024-04-25|
-|186|[leandroBorgesFerreira/LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)|A button to substitute the ProgressDialog|1923|2024-03-26|
-|187|[quran/quran_android](https://github.com/quran/quran_android)|a quran reading application for android|1923|2024-05-02|
+|184|[Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid)|All in one emulator on Android!|1938|2024-04-25|
+|185|[ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)|An app for catching up on things.|1938|2024-05-03|
+|186|[quran/quran_android](https://github.com/quran/quran_android)|a quran reading application for android|1924|2024-05-02|
+|187|[leandroBorgesFerreira/LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)|A button to substitute the ProgressDialog|1923|2024-03-26|
 |188|[JakeWharton/diffuse](https://github.com/JakeWharton/diffuse)|Diffuse is a tool for diffing APKs, AABs, AARs, and JARs|1919|2024-04-30|
-|189|[UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)|Track your favorite TV shows and movies on Android devices.|1911|2024-05-02|
-|190|[aistra0528/Hail](https://github.com/aistra0528/Hail)|Disable / Hide / Suspend / Uninstall Android apps without root.|1906|2024-04-19|
-|191|[sumimakito/AwesomeQRCode](https://github.com/sumimakito/AwesomeQRCode)|An awesome QR code generator for Android.|1869|2023-12-02|
-|192|[MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso)|A search-focused Android launcher|1867|2024-05-02|
+|189|[aistra0528/Hail](https://github.com/aistra0528/Hail)|Disable / Hide / Suspend / Uninstall Android apps without root.|1914|2024-04-19|
+|190|[UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)|Track your favorite TV shows and movies on Android devices.|1912|2024-05-03|
+|191|[MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso)|A search-focused Android launcher|1869|2024-05-02|
+|192|[sumimakito/AwesomeQRCode](https://github.com/sumimakito/AwesomeQRCode)|An awesome QR code generator for Android.|1869|2023-12-02|
 |193|[android/gradle-recipes](https://github.com/android/gradle-recipes)|Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.|1827|2024-05-01|
-|194|[seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard)|Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍|1823|2024-05-02|
+|194|[seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard)|Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍|1824|2024-05-02|
 |195|[fossasia/badgemagic-android](https://github.com/fossasia/badgemagic-android)|Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic|1822|2024-04-30|
-|196|[mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)|🖼️ A library to show colorful blurry placeholders while your content loads.|1808|2024-03-05|
-|197|[patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)|A light and extensible chart library for Android.|1807|2024-05-02|
+|196|[patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)|A light and extensible chart library for Android.|1808|2024-05-03|
+|197|[mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)|🖼️ A library to show colorful blurry placeholders while your content loads.|1808|2024-03-05|
 |198|[basti564/Oculess](https://github.com/basti564/Oculess)|Removes account requirements and telemetry from Oculus Quest devices|1784|2023-12-24|
-|199|[mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)|#mpv-android @ libera.chat|1778|2024-04-29|
-|200|[JakeWharton/mosaic](https://github.com/JakeWharton/mosaic)|An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime|1777|2024-05-02|
+|199|[JakeWharton/mosaic](https://github.com/JakeWharton/mosaic)|An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime|1779|2024-05-03|
+|200|[mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)|#mpv-android @ libera.chat|1779|2024-04-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

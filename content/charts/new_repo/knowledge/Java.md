@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1990|2024-04-17|2023-08-07|
-|2|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|583|2024-04-28|2023-10-07|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1995|2024-04-17|2023-08-07|
+|2|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|584|2024-04-28|2023-10-07|
 |3|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|239|2024-05-01|2023-07-10|
-|4|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|127|2024-04-17|2023-11-27|
+|4|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|131|2024-04-17|2023-11-27|
 |5|[oxylabs/stackshare-scraper](https://github.com/oxylabs/stackshare-scraper)|Stackshare Scraper API is a powerful tool designed to extract technology stack data from Stackshare.io. It simplifies data retrieval, aiding research and competitive analysis tasks.|116|2024-04-19|2023-12-18|
-|6|[Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X)|Repository for my Forge 1.20.X Tutorial Series on YouTube. Playlist link below!|90|2023-11-19|2023-06-27|
+|6|[Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X)|Repository for my Forge 1.20.X Tutorial Series on YouTube. Playlist link below!|91|2023-11-19|2023-06-27|
 |7|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|69|2024-01-12|2023-08-21|
 |8|[mahyoussef/ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns)|Mastering classical design patterns with practical examples in the ultimate design patterns bundle.|66|2024-04-06|2024-02-20|
 |9|[redplanetlabs/rama-demo-gallery](https://github.com/redplanetlabs/rama-demo-gallery)|Collection of short, self-contained, thoroughly commented demos of using Rama towards a variety of use cases|61|2024-03-06|2023-08-27|
