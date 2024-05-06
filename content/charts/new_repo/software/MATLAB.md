@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-05-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|157|2024-04-23|2024-03-15|
+|1|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|160|2024-04-23|2024-03-15|
 |2|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |130|2023-12-04|2023-12-04|
 |3|[psyai-net/SelfTalk_release](https://github.com/psyai-net/SelfTalk_release)|This is the official source for our ACM MM 2023 paper "SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces""|107|2023-12-05|2023-07-26|
 |4|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to the OpenAI Chat Completions API (which powers ChatGPT)|60|2024-05-03|2023-10-09|
 |5|[Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering](https://github.com/Dhanvanth0905/Recommender_Systems_Using_Collaborative_Filtering)|-|53|2024-01-07|2024-01-07|
 |6|[Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images](https://github.com/Dhanvanth0905/Image_Restoration_On_Lunar_Surface_Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.|51|2024-01-07|2024-01-07|
-|7|[pbbp0904/WarpFactory](https://github.com/pbbp0904/WarpFactory)|A numerical toolkit for analyzing warp drive spacetime|47|2024-04-09|2023-06-13|
-|8|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|46|2024-04-25|2023-07-26|
+|7|[pbbp0904/WarpFactory](https://github.com/pbbp0904/WarpFactory)|A numerical toolkit for analyzing warp drive spacetime|49|2024-04-09|2023-06-13|
+|8|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|47|2024-04-25|2023-07-26|
 |9|[Subash-2503/FPGA_USING_LMS_ALGORITHAM](https://github.com/Subash-2503/FPGA_USING_LMS_ALGORITHAM)|-|45|2023-12-17|2023-10-19|
 |10|[Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images](https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images)|This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration. |40|2024-01-21|2024-01-07|
 |11|[zhaolin820/near-field-integrated-sensing-and-communications](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)|The code for the paper "Near-Field Integrated Sensing and Communications" in IEEE Communications Letters|40|2023-11-09|2023-06-11|
@@ -24,72 +24,72 @@
 |17|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|35|2024-03-24|2023-09-11|
 |18|[HengLan/VastTrack](https://github.com/HengLan/VastTrack)|VastTrack: Vast Category Visual Object Tracking|32|2024-03-27|2024-03-06|
 |19|[Danial-Yazdani/EDOLAB-MATLAB](https://github.com/Danial-Yazdani/EDOLAB-MATLAB)|-|31|2023-12-20|2023-07-27|
-|20|[bradleeharr/PassiveRadarSim](https://github.com/bradleeharr/PassiveRadarSim)|Project for Radar Signal Processing - Passive Radar Simulation from RTL-SDR FM Data|28|2024-04-16|2023-07-02|
-|21|[matlab-deep-learning/constrained-deep-learning](https://github.com/matlab-deep-learning/constrained-deep-learning)|Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.|27|2024-03-27|2024-03-25|
-|22|[Linaom1214/ISTD-Benchmark](https://github.com/Linaom1214/ISTD-Benchmark)|Infrared Small Target Detection Benchmark Tool|27|2023-12-12|2023-06-08|
-|23|[lixilinx/FilterbanksBestPractices](https://github.com/lixilinx/FilterbanksBestPractices)|Tips for best practices with filterbanks|26|2024-01-27|2023-11-04|
-|24|[iwuqing/Polyner](https://github.com/iwuqing/Polyner)|[NeurIPS 2023] Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction|24|2023-11-28|2023-10-13|
-|25|[SnocrashWang/RuneLab](https://github.com/SnocrashWang/RuneLab)|Test code for optimal solution in Rune problem|23|2023-11-21|2023-10-16|
-|26|[srsran/srsRAN_matlab](https://github.com/srsran/srsRAN_matlab)|MATLAB-based testing tools for the srsRAN Project https://github.com/srsran/srsRAN_Project|23|2024-04-22|2023-06-06|
-|27|[FenghaoZhu/R-WMMSE](https://github.com/FenghaoZhu/R-WMMSE)|This is the code implementation for the R-WMMSE algorithm.|20|2024-03-10|2024-01-04|
-|28|[zzycoder/Cooperative-Attack-Algorithm-for-UAVs](https://github.com/zzycoder/Cooperative-Attack-Algorithm-for-UAVs)|Cooperative Attack Algorithm for UAVs is focusing on the cooperative attack problem of UAV swarm system with flight time and attack angle constraints. It includes an efficient attack framework for rea ...|20|2023-12-07|2023-12-07|
-|29|[Zongwei97/SCTNet](https://github.com/Zongwei97/SCTNet)|[ICCV 23] Official implementation of Alignment-free HDR Deghosting with Sematnics Consistent Transformer (Code & Dataset)|20|2023-12-01|2023-08-11|
-|30|[WestlakeIntelligentRobotics/Shape-assembly-code](https://github.com/WestlakeIntelligentRobotics/Shape-assembly-code)|-|19|2024-02-27|2023-09-12|
-|31|[ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons](https://github.com/ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons)|This is the open-source repository for the work "Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization"|19|2024-03-28|2023-07-13|
-|32|[csiro-energy-systems/Synthetic-NEM-2000bus-Data](https://github.com/csiro-energy-systems/Synthetic-NEM-2000bus-Data)|This repository contains the Matpower files of a synthetic network model for National Electricity Market (NEM) of Australia.|19|2024-05-01|2023-06-06|
-|33|[Ningreka/EV-Eye](https://github.com/Ningreka/EV-Eye)|-|19|2024-04-20|2023-05-25|
-|34|[lewsilver/radar_doa](https://github.com/lewsilver/radar_doa)|Code for RADAR doa algorithm with Matlab. including Capon, MUSIC, DML, Propagator Method, IAA, DBF, OMP, ISTA.......|18|2024-01-13|2023-12-25|
-|35|[mariodeflorio/AI-Lorenz](https://github.com/mariodeflorio/AI-Lorenz)|-|17|2024-01-05|2023-11-22|
-|36|[ZimoLiao/rvmd](https://github.com/ZimoLiao/rvmd)|Reduced-order Variational Mode Decomposition (RVMD)|17|2023-12-31|2023-05-24|
-|37|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|2024-03-18|2024-03-15|
-|38|[themanoftalent/SignalsSystems-One2Three-](https://github.com/themanoftalent/SignalsSystems-One2Three-)|COM3 Signals And Systems |16|2024-04-20|2024-02-27|
-|39|[RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|-|16|2024-02-03|2024-02-03|
-|40|[Huang-Chuan/MAINSvsMAGEKF](https://github.com/Huang-Chuan/MAINSvsMAGEKF)|MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning|16|2023-12-06|2023-11-30|
-|41|[biomicroscopy/DPR-Project](https://github.com/biomicroscopy/DPR-Project)|-|16|2023-11-16|2023-07-12|
-|42|[xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator)|Link-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|16|2024-01-23|2023-07-10|
-|43|[simonavrillon/MUedit](https://github.com/simonavrillon/MUedit)|App to decompose electromyographic signals and manually edit the motor unit pulse trains|16|2024-03-13|2023-06-21|
-|44|[xiongGPR/GPRlab](https://github.com/xiongGPR/GPRlab)|GPRlab |16|2024-03-21|2023-06-03|
-|45|[BIVectors/BRAVEHEART](https://github.com/BIVectors/BRAVEHEART)|BRAVEHEART: Open-source software for automated electrocardiographic and vectorcardiographic analysis|16|2024-04-03|2023-05-18|
-|46|[ComputationalBiomechanicsLab/rmr-solver](https://github.com/ComputationalBiomechanicsLab/rmr-solver)|Repository storing MATLAB scripts to estimate activations of shoulder muscles using the Rapid Muscle Redundancy (RMR) solver.|16|2023-12-06|2023-05-10|
-|47|[Yasar234/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/Yasar234/Echo-Cancellation-Using-LMS-Algorithm)|We developed to mitigate  unwanted echoes in a communication system.Echo cancellation is crucial in scenarios where echoes occur, such as in telecommunication systems, VoIP (Voice over Internet Protoc ...|15|2024-03-11|2024-03-05|
-|48|[FenghaoZhu/WMMSE](https://github.com/FenghaoZhu/WMMSE)|This is the code implementation for the WMMSE algorithm.|15|2024-03-10|2024-01-04|
-|49|[LonghaoQian/AnimationModels](https://github.com/LonghaoQian/AnimationModels)|Easy and ready to use animation models for Matlab and python|15|2024-01-10|2023-11-09|
-|50|[zjwang11/VASP2KP](https://github.com/zjwang11/VASP2KP)|to compute kp parameters and Lande g-factors directly from the VASP wavefunctions. Ref: Zhang et al., Chin. Phys. Lett.  40, 127101 (2023) https://doi.org/10.1088/0256-307X/40/12/127101 |15|2024-04-18|2023-10-30|
-|51|[toammann/Multilayer_SMA2Microstrip](https://github.com/toammann/Multilayer_SMA2Microstrip)|Development of an SMA coaxial to microstrip transition using open source software (openEMS)|15|2023-11-16|2023-06-05|
-|52|[matlab-deep-learning/transformer-networks-for-time-series-prediction](https://github.com/matlab-deep-learning/transformer-networks-for-time-series-prediction)|Deep Learning in Quantitative Finance: Transformer Networks for Time Series Prediction|14|2024-01-10|2024-01-10|
-|53|[Jaguar101-jr/cs-2-hack](https://github.com/Jaguar101-jr/cs-2-hack)|-|14|2023-11-27|2023-11-07|
-|54|[Jaguar101-jr/fortnite-hack](https://github.com/Jaguar101-jr/fortnite-hack)|-|14|2023-11-27|2023-09-30|
-|55|[signetlabdei/aoi_edge_computing](https://github.com/signetlabdei/aoi_edge_computing)|Code for the paper "Age of Information Analysis in Edge Computing Servers"|14|2024-02-12|2023-07-04|
-|56|[facebookresearch/GlassesRoomID](https://github.com/facebookresearch/GlassesRoomID)|Blind Identification of Binaural Room Impulse Responses from Head-Worn Microphone Arrays|13|2024-04-03|2024-03-12|
-|57|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|13|2024-03-26|2024-02-15|
-|58|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|13|2024-03-10|2024-01-04|
-|59|[Qinxiaoye/FEM2D](https://github.com/Qinxiaoye/FEM2D)|Matlab code for finite element method (FEM)|13|2023-12-30|2023-12-30|
-|60|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|13|2024-04-22|2023-12-29|
-|61|[rehmanali1994/WaveformInversionUST](https://github.com/rehmanali1994/WaveformInversionUST)|Frequency-Domain Waveform Inversion Ultrasound Tomography (UST) Using a Ring-Array Transducer|13|2024-04-03|2023-08-29|
-|62|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|13|2024-01-13|2023-07-25|
-|63|[jsdaiustc/RV_ESPRIT](https://github.com/jsdaiustc/RV_ESPRIT)|MATLAB codes for "Frequency Estimation of Vibration Signals: An Subspace Approach for Bearing Fault Diagnosis"|13|2023-11-10|2023-06-18|
-|64|[Azurehappen/UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|Risk-Averse Optimization framework for RTK-GNSS/INS urban navigation.|12|2024-05-02|2024-05-01|
-|65|[YijieLinaMao/RSMA-low-complexity-MaxMin](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)|Simulation code for the paper: F. Luo and Y. Mao, "A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285 ...|12|2024-03-16|2024-03-16|
-|66|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|12|2024-04-15|2023-12-29|
-|67|[hoantrau2/Scara_robot_simulation](https://github.com/hoantrau2/Scara_robot_simulation)|Designed a Scara robot model using Solidworks and conducted research on forward kinematics, inverse kinematics,  trajectory and path planning using Matlab.|12|2024-03-30|2023-10-21|
-|68|[Battery-Intelligence-Lab/BatEst](https://github.com/Battery-Intelligence-Lab/BatEst)|Matlab code for battery simulations and parameter estimation.|12|2024-03-11|2023-07-25|
-|69|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|12|2024-05-03|2023-07-11|
-|70|[Qinxiaoye/FEM3D-C3D8-](https://github.com/Qinxiaoye/FEM3D-C3D8-)|3D FEM code (matlab)|11|2024-03-17|2024-03-16|
-|71|[sunghoon031/PCR-99](https://github.com/sunghoon031/PCR-99)|MATLAB implementation of PCR-99|11|2024-02-27|2024-02-26|
-|72|[SUDHARSUN2003/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/SUDHARSUN2003/Echo-Cancellation-Using-LMS-Algorithm)|-|11|2024-01-12|2024-01-12|
-|73|[UTokyoTsuchiyaLAB/UNLSI](https://github.com/UTokyoTsuchiyaLAB/UNLSI)|-|11|2024-04-27|2023-11-09|
-|74|[THUHoloLab/STRIVER](https://github.com/THUHoloLab/STRIVER)|Spatiotemporally regularized inversion (STRIVER) for motion-resolved computational imaging|11|2024-02-07|2023-09-21|
-|75|[mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks](https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks)|-|11|2024-04-23|2023-09-14|
-|76|[JASONZ777/4D_radar_simulator_PointNet](https://github.com/JASONZ777/4D_radar_simulator_PointNet)|-|11|2024-02-25|2023-07-26|
-|77|[reinshift/ADOS](https://github.com/reinshift/ADOS)|A Distributed Adaptive Route Planning Optimization Algorithm for UAV Swarm|10|2024-04-07|2024-04-07|
-|78|[YyangSJ/Flexible_Precoding_Movable_Antennas](https://github.com/YyangSJ/Flexible_Precoding_Movable_Antennas)|-|10|2024-04-11|2024-02-05|
-|79|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|10|2024-02-03|2024-02-03|
-|80|[trinhudo/Stochastic-MEC](https://github.com/trinhudo/Stochastic-MEC)|Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems, IEEE Transactions on Communications, 2024|10|2024-01-18|2024-01-14|
-|81|[salmane-s9/Bistatic_ISAC](https://github.com/salmane-s9/Bistatic_ISAC)|Implementation of "Complex Neural Network based Joint AoA and AoD Estimation for Bistatic ISAC" |10|2023-12-28|2023-12-26|
-|82|[Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance](https://github.com/Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance)|Dijkstra+minimum jerk+ORCA(RVO2)|10|2024-03-01|2023-12-08|
-|83|[MathWorks-Teaching-Resources/Density-Functional-Theory](https://github.com/MathWorks-Teaching-Resources/Density-Functional-Theory)|Fundamentals and Applications of Density Functional Theory with Interactive Live Scripts and Intuitive Codes|10|2024-04-23|2023-11-13|
-|84|[iamKaiZhang/DeePC](https://github.com/iamKaiZhang/DeePC)|Data-enabled predictive control (DeePC) implementation using MATLAB|10|2023-11-10|2023-11-10|
-|85|[yassinekebbati/Optimized_adaptive_MPC](https://github.com/yassinekebbati/Optimized_adaptive_MPC)|Optimized adaptive MPC for lateral control for autonomous vehicles|10|2023-11-04|2023-10-21|
+|20|[TWCLabSJTU/TeraISAC](https://github.com/TWCLabSJTU/TeraISAC)|-|29|2024-05-05|2023-09-25|
+|21|[bradleeharr/PassiveRadarSim](https://github.com/bradleeharr/PassiveRadarSim)|Project for Radar Signal Processing - Passive Radar Simulation from RTL-SDR FM Data|28|2024-04-16|2023-07-02|
+|22|[matlab-deep-learning/constrained-deep-learning](https://github.com/matlab-deep-learning/constrained-deep-learning)|Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.|27|2024-03-27|2024-03-25|
+|23|[Linaom1214/ISTD-Benchmark](https://github.com/Linaom1214/ISTD-Benchmark)|Infrared Small Target Detection Benchmark Tool|27|2023-12-12|2023-06-08|
+|24|[lixilinx/FilterbanksBestPractices](https://github.com/lixilinx/FilterbanksBestPractices)|Tips for best practices with filterbanks|26|2024-01-27|2023-11-04|
+|25|[SnocrashWang/RuneLab](https://github.com/SnocrashWang/RuneLab)|Test code for optimal solution in Rune problem|24|2023-11-21|2023-10-16|
+|26|[iwuqing/Polyner](https://github.com/iwuqing/Polyner)|[NeurIPS 2023] Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction|24|2023-11-28|2023-10-13|
+|27|[srsran/srsRAN_matlab](https://github.com/srsran/srsRAN_matlab)|MATLAB-based testing tools for the srsRAN Project https://github.com/srsran/srsRAN_Project|23|2024-04-22|2023-06-06|
+|28|[FenghaoZhu/R-WMMSE](https://github.com/FenghaoZhu/R-WMMSE)|This is the code implementation for the R-WMMSE algorithm.|20|2024-03-10|2024-01-04|
+|29|[zzycoder/Cooperative-Attack-Algorithm-for-UAVs](https://github.com/zzycoder/Cooperative-Attack-Algorithm-for-UAVs)|Cooperative Attack Algorithm for UAVs is focusing on the cooperative attack problem of UAV swarm system with flight time and attack angle constraints. It includes an efficient attack framework for rea ...|20|2023-12-07|2023-12-07|
+|30|[Zongwei97/SCTNet](https://github.com/Zongwei97/SCTNet)|[ICCV 23] Official implementation of Alignment-free HDR Deghosting with Sematnics Consistent Transformer (Code & Dataset)|20|2023-12-01|2023-08-11|
+|31|[WestlakeIntelligentRobotics/Shape-assembly-code](https://github.com/WestlakeIntelligentRobotics/Shape-assembly-code)|-|19|2024-02-27|2023-09-12|
+|32|[ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons](https://github.com/ZhengdaoLI0602/GNSS_INS_Integrations_Comparisons)|This is the open-source repository for the work "Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization"|19|2024-03-28|2023-07-13|
+|33|[csiro-energy-systems/Synthetic-NEM-2000bus-Data](https://github.com/csiro-energy-systems/Synthetic-NEM-2000bus-Data)|This repository contains the Matpower files of a synthetic network model for National Electricity Market (NEM) of Australia.|19|2024-05-01|2023-06-06|
+|34|[Ningreka/EV-Eye](https://github.com/Ningreka/EV-Eye)|-|19|2024-04-20|2023-05-25|
+|35|[lewsilver/radar_doa](https://github.com/lewsilver/radar_doa)|Code for RADAR doa algorithm with Matlab. including Capon, MUSIC, DML, Propagator Method, IAA, DBF, OMP, ISTA.......|18|2024-01-13|2023-12-25|
+|36|[mariodeflorio/AI-Lorenz](https://github.com/mariodeflorio/AI-Lorenz)|-|17|2024-01-05|2023-11-22|
+|37|[xiongGPR/GPRlab](https://github.com/xiongGPR/GPRlab)|GPRlab |17|2024-03-21|2023-06-03|
+|38|[ZimoLiao/rvmd](https://github.com/ZimoLiao/rvmd)|Reduced-order Variational Mode Decomposition (RVMD)|17|2023-12-31|2023-05-24|
+|39|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|2024-03-18|2024-03-15|
+|40|[themanoftalent/SignalsSystems-One2Three-](https://github.com/themanoftalent/SignalsSystems-One2Three-)|COM3 Signals And Systems |16|2024-04-20|2024-02-27|
+|41|[RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|-|16|2024-02-03|2024-02-03|
+|42|[Huang-Chuan/MAINSvsMAGEKF](https://github.com/Huang-Chuan/MAINSvsMAGEKF)|MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning|16|2023-12-06|2023-11-30|
+|43|[biomicroscopy/DPR-Project](https://github.com/biomicroscopy/DPR-Project)|-|16|2023-11-16|2023-07-12|
+|44|[xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator)|Link-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|16|2024-01-23|2023-07-10|
+|45|[simonavrillon/MUedit](https://github.com/simonavrillon/MUedit)|App to decompose electromyographic signals and manually edit the motor unit pulse trains|16|2024-03-13|2023-06-21|
+|46|[BIVectors/BRAVEHEART](https://github.com/BIVectors/BRAVEHEART)|BRAVEHEART: Open-source software for automated electrocardiographic and vectorcardiographic analysis|16|2024-04-03|2023-05-18|
+|47|[ComputationalBiomechanicsLab/rmr-solver](https://github.com/ComputationalBiomechanicsLab/rmr-solver)|Repository storing MATLAB scripts to estimate activations of shoulder muscles using the Rapid Muscle Redundancy (RMR) solver.|16|2023-12-06|2023-05-10|
+|48|[Yasar234/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/Yasar234/Echo-Cancellation-Using-LMS-Algorithm)|We developed to mitigate  unwanted echoes in a communication system.Echo cancellation is crucial in scenarios where echoes occur, such as in telecommunication systems, VoIP (Voice over Internet Protoc ...|15|2024-03-11|2024-03-05|
+|49|[FenghaoZhu/WMMSE](https://github.com/FenghaoZhu/WMMSE)|This is the code implementation for the WMMSE algorithm.|15|2024-03-10|2024-01-04|
+|50|[LonghaoQian/AnimationModels](https://github.com/LonghaoQian/AnimationModels)|Easy and ready to use animation models for Matlab and python|15|2024-01-10|2023-11-09|
+|51|[zjwang11/VASP2KP](https://github.com/zjwang11/VASP2KP)|to compute kp parameters and Lande g-factors directly from the VASP wavefunctions. Ref: Zhang et al., Chin. Phys. Lett.  40, 127101 (2023) https://doi.org/10.1088/0256-307X/40/12/127101 |15|2024-04-18|2023-10-30|
+|52|[toammann/Multilayer_SMA2Microstrip](https://github.com/toammann/Multilayer_SMA2Microstrip)|Development of an SMA coaxial to microstrip transition using open source software (openEMS)|15|2023-11-16|2023-06-05|
+|53|[Azurehappen/UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|Risk-Averse Optimization framework for RTK-GNSS/INS urban navigation.|14|2024-05-05|2024-05-01|
+|54|[matlab-deep-learning/transformer-networks-for-time-series-prediction](https://github.com/matlab-deep-learning/transformer-networks-for-time-series-prediction)|Deep Learning in Quantitative Finance: Transformer Networks for Time Series Prediction|14|2024-01-10|2024-01-10|
+|55|[Jaguar101-jr/cs-2-hack](https://github.com/Jaguar101-jr/cs-2-hack)|-|14|2023-11-27|2023-11-07|
+|56|[Jaguar101-jr/fortnite-hack](https://github.com/Jaguar101-jr/fortnite-hack)|-|14|2023-11-27|2023-09-30|
+|57|[signetlabdei/aoi_edge_computing](https://github.com/signetlabdei/aoi_edge_computing)|Code for the paper "Age of Information Analysis in Edge Computing Servers"|14|2024-02-12|2023-07-04|
+|58|[facebookresearch/GlassesRoomID](https://github.com/facebookresearch/GlassesRoomID)|Blind Identification of Binaural Room Impulse Responses from Head-Worn Microphone Arrays|13|2024-04-03|2024-03-12|
+|59|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|13|2024-03-26|2024-02-15|
+|60|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|13|2024-03-10|2024-01-04|
+|61|[Qinxiaoye/FEM2D](https://github.com/Qinxiaoye/FEM2D)|Matlab code for finite element method (FEM)|13|2023-12-30|2023-12-30|
+|62|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|13|2024-04-22|2023-12-29|
+|63|[rehmanali1994/WaveformInversionUST](https://github.com/rehmanali1994/WaveformInversionUST)|Frequency-Domain Waveform Inversion Ultrasound Tomography (UST) Using a Ring-Array Transducer|13|2024-04-03|2023-08-29|
+|64|[lvsn/beyondthepixel](https://github.com/lvsn/beyondthepixel)|-|13|2024-01-13|2023-07-25|
+|65|[jsdaiustc/RV_ESPRIT](https://github.com/jsdaiustc/RV_ESPRIT)|MATLAB codes for "Frequency Estimation of Vibration Signals: An Subspace Approach for Bearing Fault Diagnosis"|13|2023-11-10|2023-06-18|
+|66|[Qinxiaoye/FEM3D-C3D8-](https://github.com/Qinxiaoye/FEM3D-C3D8-)|3D FEM code (matlab)|12|2024-03-17|2024-03-16|
+|67|[YijieLinaMao/RSMA-low-complexity-MaxMin](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)|Simulation code for the paper: F. Luo and Y. Mao, "A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285 ...|12|2024-03-16|2024-03-16|
+|68|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|12|2024-04-15|2023-12-29|
+|69|[hoantrau2/Scara_robot_simulation](https://github.com/hoantrau2/Scara_robot_simulation)|Designed a Scara robot model using Solidworks and conducted research on forward kinematics, inverse kinematics,  trajectory and path planning using Matlab.|12|2024-03-30|2023-10-21|
+|70|[Battery-Intelligence-Lab/BatEst](https://github.com/Battery-Intelligence-Lab/BatEst)|Matlab code for battery simulations and parameter estimation.|12|2024-03-11|2023-07-25|
+|71|[George-R-Heath/NanoLocz](https://github.com/George-R-Heath/NanoLocz)|Atomic Force Microscopy Analysis Platform|12|2024-05-04|2023-07-11|
+|72|[sunghoon031/PCR-99](https://github.com/sunghoon031/PCR-99)|MATLAB implementation of PCR-99|11|2024-02-27|2024-02-26|
+|73|[SUDHARSUN2003/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/SUDHARSUN2003/Echo-Cancellation-Using-LMS-Algorithm)|-|11|2024-01-12|2024-01-12|
+|74|[UTokyoTsuchiyaLAB/UNLSI](https://github.com/UTokyoTsuchiyaLAB/UNLSI)|-|11|2024-04-27|2023-11-09|
+|75|[THUHoloLab/STRIVER](https://github.com/THUHoloLab/STRIVER)|Spatiotemporally regularized inversion (STRIVER) for motion-resolved computational imaging|11|2024-02-07|2023-09-21|
+|76|[mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks](https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks)|-|11|2024-04-23|2023-09-14|
+|77|[JASONZ777/4D_radar_simulator_PointNet](https://github.com/JASONZ777/4D_radar_simulator_PointNet)|-|11|2024-02-25|2023-07-26|
+|78|[reinshift/ADOS](https://github.com/reinshift/ADOS)|A Distributed Adaptive Route Planning Optimization Algorithm for UAV Swarm|10|2024-04-07|2024-04-07|
+|79|[YyangSJ/Flexible_Precoding_Movable_Antennas](https://github.com/YyangSJ/Flexible_Precoding_Movable_Antennas)|-|10|2024-04-11|2024-02-05|
+|80|[RangLiu0706/waveform-design-for-RIS-ISAC](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|-|10|2024-02-03|2024-02-03|
+|81|[trinhudo/Stochastic-MEC](https://github.com/trinhudo/Stochastic-MEC)|Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems, IEEE Transactions on Communications, 2024|10|2024-01-18|2024-01-14|
+|82|[salmane-s9/Bistatic_ISAC](https://github.com/salmane-s9/Bistatic_ISAC)|Implementation of "Complex Neural Network based Joint AoA and AoD Estimation for Bistatic ISAC" |10|2023-12-28|2023-12-26|
+|83|[Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance](https://github.com/Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance)|Dijkstra+minimum jerk+ORCA(RVO2)|10|2024-03-01|2023-12-08|
+|84|[MathWorks-Teaching-Resources/Density-Functional-Theory](https://github.com/MathWorks-Teaching-Resources/Density-Functional-Theory)|Fundamentals and Applications of Density Functional Theory with Interactive Live Scripts and Intuitive Codes|10|2024-04-23|2023-11-13|
+|85|[iamKaiZhang/DeePC](https://github.com/iamKaiZhang/DeePC)|Data-enabled predictive control (DeePC) implementation using MATLAB|10|2023-11-10|2023-11-10|
 |86|[MathWorks-Teaching-Resources/Applied-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)|A collection of teaching scripts showing applications of linear algebra to chemistry, computer science, mechanical engineering, and more.|10|2024-04-30|2023-10-09|
 |87|[ArashRabbani/Superpixels_PNM](https://github.com/ArashRabbani/Superpixels_PNM)|Superpixels pore network extraction for geological tomography images|10|2023-11-16|2023-08-11|
 |88|[emhayki/Project-Euler](https://github.com/emhayki/Project-Euler)|Solutions to various Project Euler problems implemented in different programming languages.|10|2024-03-22|2023-06-11|
@@ -137,35 +137,35 @@
 |130|[matteonerini/optimization-of-bdris](https://github.com/matteonerini/optimization-of-bdris)|Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces|8|2024-02-19|2023-06-07|
 |131|[cpflueger/ProgrammingPackage_public](https://github.com/cpflueger/ProgrammingPackage_public)|public version of programming package|8|2023-12-22|2023-06-06|
 |132|[ESCL-at-UTD/zonoLAB](https://github.com/ESCL-at-UTD/zonoLAB)|-|8|2024-05-03|2023-06-06|
-|133|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|8|2024-01-04|2023-05-08|
-|134|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|2024-04-03|2024-04-03|
-|135|[rlrangel/DEMLab](https://github.com/rlrangel/DEMLab)|Discrete Element Method Laboratory|7|2024-02-24|2024-02-20|
-|136|[zxcn/MSSLSJointCalibration](https://github.com/zxcn/MSSLSJointCalibration)|This project provides Matlab code and verification data for paper entitled "A joint calibration method for monocular speckle structured light system".|7|2024-03-29|2024-02-18|
-|137|[Shida-Jiang/EKF_UKF_SOCSOH_estimation](https://github.com/Shida-Jiang/EKF_UKF_SOCSOH_estimation)|Battery State-of-Charge and State-of-Health Co-estimation Using EKF and UKF|7|2024-02-07|2024-02-05|
-|138|[ShiDongyuan/Kalman_Filter_for_ANC](https://github.com/ShiDongyuan/Kalman_Filter_for_ANC)|This code realizes the Kalman filter approach for an active noise control system (ANC) to attenuate the dynamic noise.|7|2024-02-17|2024-02-03|
-|139|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|7|2024-02-03|2024-02-03|
-|140|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|7|2024-01-28|2024-01-28|
-|141|[matlab-deep-learning/nerf](https://github.com/matlab-deep-learning/nerf)|NeRF - Neural Radiance Fileds in MATLAB|7|2024-01-17|2024-01-08|
-|142|[ShawnDong98/DERNN-LNLT](https://github.com/ShawnDong98/DERNN-LNLT)|Code of the paper "Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging"|7|2024-01-06|2024-01-06|
-|143|[Qinxiaoye/SBFEM2D](https://github.com/Qinxiaoye/SBFEM2D)|First order Scaled buondry finite element method for 2D elastic problems|7|2024-01-04|2024-01-04|
-|144|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|-|7|2023-12-14|2023-12-14|
-|145|[iscilab2020/TERI-3DNLOS](https://github.com/iscilab2020/TERI-3DNLOS)|3D NLOS imaging with an ordinary camera|7|2024-02-08|2023-12-06|
-|146|[moha999DJ/ANN](https://github.com/moha999DJ/ANN)|Creation of an ANN using nntool in Matlab|7|2024-02-07|2023-12-02|
-|147|[yuanke1/A-Multi-IRS-RIS-Multi-user-Beamforming-Method-Based-on-Improved-Particle-Swarm-Algorithm](https://github.com/yuanke1/A-Multi-IRS-RIS-Multi-user-Beamforming-Method-Based-on-Improved-Particle-Swarm-Algorithm)|patent|7|2023-11-08|2023-11-08|
-|148|[victorcroisfelt/mec-with-ris-control](https://github.com/victorcroisfelt/mec-with-ris-control)|Codes for reproducing the numerical results reported in: "Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing" by F. Saggese, V. Croisfelt, F. Costanzo, J. Shiraishi, R. Kotaba, ...|7|2023-12-19|2023-10-18|
-|149|[ROCASSO/MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|Author: Yizhou Peng, Songjie Yang, Wanting Lyu, et,al.|7|2024-01-20|2023-10-11|
-|150|[biopto/EWALD](https://github.com/biopto/EWALD)|EWALD: optical diffraction tomography reconstruction software|7|2024-04-09|2023-10-03|
-|151|[RasitEvduzen/KukaKR70KinematicDynamicAnalysis](https://github.com/RasitEvduzen/KukaKR70KinematicDynamicAnalysis)|6DOF Industrial Robot Arm Inverse Kinematic Simulation|7|2024-04-27|2023-09-16|
-|152|[kon9chun/simplified-electrochemical-model-with-aging-mechanisum](https://github.com/kon9chun/simplified-electrochemical-model-with-aging-mechanisum)|To achieve better SOH estimation with low computational complexity, a fractional-order model considering aging mechanism and electrolyte polarization (FOMeA) is proposed.|7|2023-11-06|2023-08-22|
-|153|[duongdinhph/OTCP_Quad](https://github.com/duongdinhph/OTCP_Quad)|An Off-policy Reinforcement Learning Algorithm for Optimal Tracking Control Problem|7|2024-02-14|2023-08-20|
-|154|[chenyk1990/sigrecover](https://github.com/chenyk1990/sigrecover)|SigRecover: Recovering signal from noise in distributed acoustic sensing data processing|7|2024-02-18|2023-08-07|
-|155|[yeyuanxin110/VSFF](https://github.com/yeyuanxin110/VSFF)|-|7|2024-02-28|2023-07-11|
-|156|[soc-ucsd/Decentralized-DeeP-LCC](https://github.com/soc-ucsd/Decentralized-DeeP-LCC)|-|7|2024-02-02|2023-06-28|
-|157|[deepanshuIITM/RBDO](https://github.com/deepanshuIITM/RBDO)|Reliability-based Design Optimization|7|2024-04-09|2023-06-21|
-|158|[PennShenLab/Fair_CCA](https://github.com/PennShenLab/Fair_CCA)|-|7|2023-11-16|2023-06-15|
-|159|[libenke/VideoFiberTrack](https://github.com/libenke/VideoFiberTrack)|Track fibers for the "Particle Tracking Velocity (PTV)" experiments during rheology and relative studies|7|2024-03-14|2023-06-13|
-|160|[antoniobenedetti-pmh/bGen](https://github.com/antoniobenedetti-pmh/bGen)|bGen is a powerful tool for generating in-silico data in small-data batch process monitoring, as described in Gasparini et al. (2023). It simplifies the process of building robust process monitoring m ...|7|2023-11-20|2023-06-09|
-|161|[Sina-97/ANPC_Control_Microgrid](https://github.com/Sina-97/ANPC_Control_Microgrid)|An adaptive neural predictive controller for microgrid secondary control in Matlab Simulink - Change directory to the folder|7|2024-04-05|2023-06-01|
+|133|[Sina-97/ANPC_Control_Microgrid](https://github.com/Sina-97/ANPC_Control_Microgrid)|An adaptive neural predictive controller for microgrid secondary control in Matlab Simulink - Change directory to the folder|8|2024-04-05|2023-06-01|
+|134|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|8|2024-01-04|2023-05-08|
+|135|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|2024-04-03|2024-04-03|
+|136|[rlrangel/DEMLab](https://github.com/rlrangel/DEMLab)|Discrete Element Method Laboratory|7|2024-02-24|2024-02-20|
+|137|[zxcn/MSSLSJointCalibration](https://github.com/zxcn/MSSLSJointCalibration)|This project provides Matlab code and verification data for paper entitled "A joint calibration method for monocular speckle structured light system".|7|2024-03-29|2024-02-18|
+|138|[Shida-Jiang/EKF_UKF_SOCSOH_estimation](https://github.com/Shida-Jiang/EKF_UKF_SOCSOH_estimation)|Battery State-of-Charge and State-of-Health Co-estimation Using EKF and UKF|7|2024-02-07|2024-02-05|
+|139|[ShiDongyuan/Kalman_Filter_for_ANC](https://github.com/ShiDongyuan/Kalman_Filter_for_ANC)|This code realizes the Kalman filter approach for an active noise control system (ANC) to attenuate the dynamic noise.|7|2024-02-17|2024-02-03|
+|140|[RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC)|-|7|2024-02-03|2024-02-03|
+|141|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|7|2024-01-28|2024-01-28|
+|142|[matlab-deep-learning/nerf](https://github.com/matlab-deep-learning/nerf)|NeRF - Neural Radiance Fileds in MATLAB|7|2024-01-17|2024-01-08|
+|143|[ShawnDong98/DERNN-LNLT](https://github.com/ShawnDong98/DERNN-LNLT)|Code of the paper "Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging"|7|2024-01-06|2024-01-06|
+|144|[Qinxiaoye/SBFEM2D](https://github.com/Qinxiaoye/SBFEM2D)|First order Scaled buondry finite element method for 2D elastic problems|7|2024-01-04|2024-01-04|
+|145|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|-|7|2023-12-14|2023-12-14|
+|146|[iscilab2020/TERI-3DNLOS](https://github.com/iscilab2020/TERI-3DNLOS)|3D NLOS imaging with an ordinary camera|7|2024-02-08|2023-12-06|
+|147|[moha999DJ/ANN](https://github.com/moha999DJ/ANN)|Creation of an ANN using nntool in Matlab|7|2024-02-07|2023-12-02|
+|148|[yuanke1/A-Multi-IRS-RIS-Multi-user-Beamforming-Method-Based-on-Improved-Particle-Swarm-Algorithm](https://github.com/yuanke1/A-Multi-IRS-RIS-Multi-user-Beamforming-Method-Based-on-Improved-Particle-Swarm-Algorithm)|patent|7|2023-11-08|2023-11-08|
+|149|[victorcroisfelt/mec-with-ris-control](https://github.com/victorcroisfelt/mec-with-ris-control)|Codes for reproducing the numerical results reported in: "Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing" by F. Saggese, V. Croisfelt, F. Costanzo, J. Shiraishi, R. Kotaba, ...|7|2023-12-19|2023-10-18|
+|150|[ROCASSO/MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|Author: Yizhou Peng, Songjie Yang, Wanting Lyu, et,al.|7|2024-01-20|2023-10-11|
+|151|[biopto/EWALD](https://github.com/biopto/EWALD)|EWALD: optical diffraction tomography reconstruction software|7|2024-04-09|2023-10-03|
+|152|[RasitEvduzen/KukaKR70KinematicDynamicAnalysis](https://github.com/RasitEvduzen/KukaKR70KinematicDynamicAnalysis)|6DOF Industrial Robot Arm Inverse Kinematic Simulation|7|2024-04-27|2023-09-16|
+|153|[kon9chun/simplified-electrochemical-model-with-aging-mechanisum](https://github.com/kon9chun/simplified-electrochemical-model-with-aging-mechanisum)|To achieve better SOH estimation with low computational complexity, a fractional-order model considering aging mechanism and electrolyte polarization (FOMeA) is proposed.|7|2023-11-06|2023-08-22|
+|154|[duongdinhph/OTCP_Quad](https://github.com/duongdinhph/OTCP_Quad)|An Off-policy Reinforcement Learning Algorithm for Optimal Tracking Control Problem|7|2024-02-14|2023-08-20|
+|155|[chenyk1990/sigrecover](https://github.com/chenyk1990/sigrecover)|SigRecover: Recovering signal from noise in distributed acoustic sensing data processing|7|2024-02-18|2023-08-07|
+|156|[yeyuanxin110/VSFF](https://github.com/yeyuanxin110/VSFF)|-|7|2024-02-28|2023-07-11|
+|157|[soc-ucsd/Decentralized-DeeP-LCC](https://github.com/soc-ucsd/Decentralized-DeeP-LCC)|-|7|2024-02-02|2023-06-28|
+|158|[deepanshuIITM/RBDO](https://github.com/deepanshuIITM/RBDO)|Reliability-based Design Optimization|7|2024-04-09|2023-06-21|
+|159|[PennShenLab/Fair_CCA](https://github.com/PennShenLab/Fair_CCA)|-|7|2023-11-16|2023-06-15|
+|160|[libenke/VideoFiberTrack](https://github.com/libenke/VideoFiberTrack)|Track fibers for the "Particle Tracking Velocity (PTV)" experiments during rheology and relative studies|7|2024-03-14|2023-06-13|
+|161|[antoniobenedetti-pmh/bGen](https://github.com/antoniobenedetti-pmh/bGen)|bGen is a powerful tool for generating in-silico data in small-data batch process monitoring, as described in Gasparini et al. (2023). It simplifies the process of building robust process monitoring m ...|7|2023-11-20|2023-06-09|
 |162|[ortalagiv/AI-Empowered-Hybrid-MIMO-Beamforming](https://github.com/ortalagiv/AI-Empowered-Hybrid-MIMO-Beamforming)|-|7|2024-02-11|2023-05-22|
 |163|[yulisun/SDIR](https://github.com/yulisun/SDIR)|Similarity and Dissimilarity induced Image Regression (SDIR) for Multimodal Change Detection|7|2024-01-13|2023-05-08|
 |164|[hoangvietdo/drone_vins_sim](https://github.com/hoangvietdo/drone_vins_sim)|Simulation for the paper "An Adaptive Approach based on Multi-State Constraint Kalman Filter for UAVs" published in ICCAS 2021|6|2024-03-26|2024-03-21|
@@ -186,25 +186,25 @@
 |179|[shepardyan/Nested-Column-and-Constraint-Generation-nested-C-CG-for-Two-Stage-Robust-Optimization](https://github.com/shepardyan/Nested-Column-and-Constraint-Generation-nested-C-CG-for-Two-Stage-Robust-Optimization)|Two-Stage Robust Rostering Problem from the nested C&CG paper|6|2023-12-11|2023-12-10|
 |180|[magnaprog/Missile-Guidance-Kalman-Filter](https://github.com/magnaprog/Missile-Guidance-Kalman-Filter)|Simulate missile guidance with a Kalman filter and an IR sensor in MATLAB. Achieve 3D visualization and animation for dynamic target tracking, providing insights into missile trajectory and intercepti ...|6|2023-12-09|2023-12-09|
 |181|[bchaoss/incremental-SVD](https://github.com/bchaoss/incremental-SVD)|An improved incremental singular value decomposition(SVD) algorithm|6|2024-02-07|2023-11-22|
-|182|[eamico/Psilocybin_fingerprints](https://github.com/eamico/Psilocybin_fingerprints)|Sample code to replicate analyses and figures of the paper "The Unique Neural Signature of Your Trip: Functional Connectome Fingerprints of Subjective Psilocybin Experience" by Tolle et al., Network N ...|6|2023-11-07|2023-11-06|
-|183|[MahfoudHerraz/mpc_quadrotor](https://github.com/MahfoudHerraz/mpc_quadrotor)|This code implements a Model Predicitive Control algorithm for tarjectory tracking with quadrortor drones. It is inspired from the paper: Limaverde Filho, José Oniram de A., et al. "Trajectory trackin ...|6|2024-01-04|2023-11-03|
-|184|[Long-UoA/Multi-Agent-RM-based-Task-Assignment-in-VEC](https://github.com/Long-UoA/Multi-Agent-RM-based-Task-Assignment-in-VEC)|-|6|2023-12-28|2023-10-19|
-|185|[ju-liu/MAE-310-2023F](https://github.com/ju-liu/MAE-310-2023F)|-|6|2023-12-28|2023-10-16|
-|186|[true02Hydrogen/THUBreast](https://github.com/true02Hydrogen/THUBreast)|to generate multi-modality breast phantom|6|2024-01-03|2023-10-15|
-|187|[dongyu-du/Boundary_Migration_Model](https://github.com/dongyu-du/Boundary_Migration_Model)|-|6|2023-12-22|2023-10-15|
-|188|[a280558071/OWF_RadialECSP](https://github.com/a280558071/OWF_RadialECSP)|Offshore Wind Farm Radial ECS Planning with some pratical concerns and case studies|6|2023-12-08|2023-10-03|
-|189|[JBall1/VAD-in-Noisy-Environments](https://github.com/JBall1/VAD-in-Noisy-Environments)|VAD in noisy environments |6|2023-12-10|2023-10-01|
-|190|[ahdsfan/VMD-SSO-LSTM](https://github.com/ahdsfan/VMD-SSO-LSTM)|VMD-SSO-LSTM|6|2023-11-20|2023-10-01|
-|191|[khachoang1412/AoI_slottedALOHA_energyHarvesting](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)|Matlab codes for the paper [1] K.-H. Ngo, G. Durisi, A. Munari, and F. Lazaro, and A. Graell i Amat, "Timely status updates in slotted ALOHA networks with energy harvesting," submitted to IEEE Transac ...|6|2024-05-01|2023-09-23|
-|192|[yqx7150/PAT-Diffusion](https://github.com/yqx7150/PAT-Diffusion)|Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration|6|2024-01-27|2023-09-21|
-|193|[AB-Coder96/threephaseOPF](https://github.com/AB-Coder96/threephaseOPF)|Inverter-Based distributed energy resources, spe- cially Photovoltaic devices (PVs) and electric vehicle charge stations (EVCS) in the sequel of the power-electronics interface, provide unprecedented  ...|6|2024-01-22|2023-09-14|
-|194|[bufanzhao/point-cloud-completion](https://github.com/bufanzhao/point-cloud-completion)|-|6|2024-04-09|2023-09-08|
-|195|[DecodEPFL/HomotheticMPCmultistep](https://github.com/DecodEPFL/HomotheticMPCmultistep)|Accompanying code for the paper "Homothetic tube model predictive control with multi-step predictors".|6|2024-03-22|2023-09-05|
-|196|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|6|2024-05-03|2023-09-04|
-|197|[YellowCroaker911/Deep_Neural_Network_Enhanced_Sampling-Based_Path_Planning_in_3D_Space](https://github.com/YellowCroaker911/Deep_Neural_Network_Enhanced_Sampling-Based_Path_Planning_in_3D_Space)|Try to implement the algorithm in "Deep Neural Network Enhanced Sampling-Based Path Planning in 3D Space"|6|2023-11-09|2023-08-12|
-|198|[Spratm-Asleaf/Robust-Waveform](https://github.com/Spratm-Asleaf/Robust-Waveform)|Online supplementary materials of the paper "Robust Waveform Design for Integrated Sensing and Communication"|6|2024-03-21|2023-08-02|
-|199|[walidbosso/MATLAB_Image_processing_app](https://github.com/walidbosso/MATLAB_Image_processing_app)|Photo filtre.  Dive into the realm of image processing like never before.|6|2024-01-10|2023-07-21|
-|200|[Brenda-MW/FarmToPlateAI](https://github.com/Brenda-MW/FarmToPlateAI)|In three hands-on exercises, you track the journey of mango fruit from a farm that uses robotic harvesters to the market while monitoring the ripeness of the mangoes using hyperspectral images and dee ...|6|2024-01-24|2023-07-20|
+|182|[YidanXue/LARS](https://github.com/YidanXue/LARS)|This repository is for the paper: Computation of two-dimensional Stokes flows via lightning and AAA rational approximation. These MATLAB codes compute the example Stokes flow cases in the presented pa ...|6|2024-04-23|2023-11-10|
+|183|[eamico/Psilocybin_fingerprints](https://github.com/eamico/Psilocybin_fingerprints)|Sample code to replicate analyses and figures of the paper "The Unique Neural Signature of Your Trip: Functional Connectome Fingerprints of Subjective Psilocybin Experience" by Tolle et al., Network N ...|6|2023-11-07|2023-11-06|
+|184|[MahfoudHerraz/mpc_quadrotor](https://github.com/MahfoudHerraz/mpc_quadrotor)|This code implements a Model Predicitive Control algorithm for tarjectory tracking with quadrortor drones. It is inspired from the paper: Limaverde Filho, José Oniram de A., et al. "Trajectory trackin ...|6|2024-01-04|2023-11-03|
+|185|[Long-UoA/Multi-Agent-RM-based-Task-Assignment-in-VEC](https://github.com/Long-UoA/Multi-Agent-RM-based-Task-Assignment-in-VEC)|-|6|2023-12-28|2023-10-19|
+|186|[ju-liu/MAE-310-2023F](https://github.com/ju-liu/MAE-310-2023F)|-|6|2023-12-28|2023-10-16|
+|187|[true02Hydrogen/THUBreast](https://github.com/true02Hydrogen/THUBreast)|to generate multi-modality breast phantom|6|2024-01-03|2023-10-15|
+|188|[dongyu-du/Boundary_Migration_Model](https://github.com/dongyu-du/Boundary_Migration_Model)|-|6|2023-12-22|2023-10-15|
+|189|[a280558071/OWF_RadialECSP](https://github.com/a280558071/OWF_RadialECSP)|Offshore Wind Farm Radial ECS Planning with some pratical concerns and case studies|6|2023-12-08|2023-10-03|
+|190|[JBall1/VAD-in-Noisy-Environments](https://github.com/JBall1/VAD-in-Noisy-Environments)|VAD in noisy environments |6|2023-12-10|2023-10-01|
+|191|[ahdsfan/VMD-SSO-LSTM](https://github.com/ahdsfan/VMD-SSO-LSTM)|VMD-SSO-LSTM|6|2023-11-20|2023-10-01|
+|192|[khachoang1412/AoI_slottedALOHA_energyHarvesting](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)|Matlab codes for the paper [1] K.-H. Ngo, G. Durisi, A. Munari, and F. Lazaro, and A. Graell i Amat, "Timely status updates in slotted ALOHA networks with energy harvesting," submitted to IEEE Transac ...|6|2024-05-01|2023-09-23|
+|193|[yqx7150/PAT-Diffusion](https://github.com/yqx7150/PAT-Diffusion)|Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration|6|2024-01-27|2023-09-21|
+|194|[AB-Coder96/threephaseOPF](https://github.com/AB-Coder96/threephaseOPF)|Inverter-Based distributed energy resources, spe- cially Photovoltaic devices (PVs) and electric vehicle charge stations (EVCS) in the sequel of the power-electronics interface, provide unprecedented  ...|6|2024-01-22|2023-09-14|
+|195|[bufanzhao/point-cloud-completion](https://github.com/bufanzhao/point-cloud-completion)|-|6|2024-04-09|2023-09-08|
+|196|[DecodEPFL/HomotheticMPCmultistep](https://github.com/DecodEPFL/HomotheticMPCmultistep)|Accompanying code for the paper "Homothetic tube model predictive control with multi-step predictors".|6|2024-03-22|2023-09-05|
+|197|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|6|2024-05-03|2023-09-04|
+|198|[YellowCroaker911/Deep_Neural_Network_Enhanced_Sampling-Based_Path_Planning_in_3D_Space](https://github.com/YellowCroaker911/Deep_Neural_Network_Enhanced_Sampling-Based_Path_Planning_in_3D_Space)|Try to implement the algorithm in "Deep Neural Network Enhanced Sampling-Based Path Planning in 3D Space"|6|2023-11-09|2023-08-12|
+|199|[Spratm-Asleaf/Robust-Waveform](https://github.com/Spratm-Asleaf/Robust-Waveform)|Online supplementary materials of the paper "Robust Waveform Design for Integrated Sensing and Communication"|6|2024-05-05|2023-08-02|
+|200|[walidbosso/MATLAB_Image_processing_app](https://github.com/walidbosso/MATLAB_Image_processing_app)|Photo filtre.  Dive into the realm of image processing like never before.|6|2024-01-10|2023-07-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
