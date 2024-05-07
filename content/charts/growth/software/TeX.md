@@ -1,62 +1,62 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > TeX
-<sub>Updated: 2024-05-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|21842|6|2024-04-11|
-|2|[jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github)|-|55|6|2024-04-26|
+|1|[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)|:page_facing_up: Awesome CV is LaTeX template for your outstanding job application|21846|6|2024-04-11|
+|2|[jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github)|-|55|5|2024-04-26|
 |3|[kikzontop/SynapseX-free](https://github.com/kikzontop/SynapseX-free)|-|206|5|2024-04-12|
-|4|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|10758|4|2024-04-22|
-|5|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|8741|3|2024-03-15|
+|4|[hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)|Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source|10759|4|2024-04-22|
+|5|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|8745|3|2024-03-15|
 |6|[michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)|Pen and paper exercises in machine learning|1810|3|2024-04-29|
-|7|[rstar24/lazy-file-job](https://github.com/rstar24/lazy-file-job)|Some Practise and fun|21|3|2024-05-05|
-|8|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|49|3|2024-05-02|
-|9|[sysprog21/concurrency-primer](https://github.com/sysprog21/concurrency-primer)|Concurrency Primer|54|2|2024-05-03|
-|10|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |222|2|2024-05-05|
-|11|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|5828|2|2024-04-29|
-|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|4714|2|2024-04-17|
-|13|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |136|2|2024-02-17|
-|14|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|37|1|2024-04-02|
-|15|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|152|1|2024-04-08|
-|16|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2709|1|2024-04-30|
-|17|[ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)|List of articles related to deep learning applied to music|2751|1|2023-12-15|
-|18|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|5528|1|2024-05-02|
-|19|[stettberger/notebook](https://github.com/stettberger/notebook)|-|37|1|2024-04-26|
-|20|[AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2)|LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.|2456|1|2024-04-09|
-|21|[gaoxiang12/slam-in-ad-en](https://github.com/gaoxiang12/slam-in-ad-en)|English version of slam in autunomous driving|53|1|2024-04-07|
-|22|[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv)|A Nice-looking CV template made into LaTeX|1972|1|2024-03-20|
-|23|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|397|1|2024-05-01|
-|24|[karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)|-|2117|1|2024-04-30|
-|25|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4388|1|2024-04-23|
-|26|[saadq/resumake.io](https://github.com/saadq/resumake.io)|📝 A website for automatically generating elegant LaTeX resumes.|3157|1|2024-02-13|
-|27|[pigworker/PoP](https://github.com/pigworker/PoP)|being code and blether about presheaves on purpose|3|1|2024-05-03|
-|28|[jakegut/resume](https://github.com/jakegut/resume)|LaTeX template for my personal resume|1076|1|2024-04-13|
-|29|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|3293|1|2024-05-04|
-|30|[FrogGuaGuaGua/HighSchoolMathematics](https://github.com/FrogGuaGuaGua/HighSchoolMathematics)|High school mathematics.|41|1|2024-05-01|
-|31|[angea/pocorgtfo](https://github.com/angea/pocorgtfo)|a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.|1224|1|2024-02-11|
-|32|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|5188|1|2024-05-05|
-|33|[fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI)|[TPAMI 2023] Multimodal Image Synthesis and Editing: The Generative AI Era|755|1|2023-11-21|
-|34|[xdanaux/moderncv](https://github.com/xdanaux/moderncv)|A modern curriculum vitae class for LaTeX|1771|1|2023-12-01|
-|35|[vEnhance/napkin](https://github.com/vEnhance/napkin)|An Infinitely Large Napkin|1091|1|2024-04-30|
-|36|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|70|1|2024-04-23|
-|37|[showyourwork/showyourwork](https://github.com/showyourwork/showyourwork)|A workflow for reproducible and open scientific articles|534|1|2024-04-29|
-|38|[arasgungore/arasgungore-CV](https://github.com/arasgungore/arasgungore-CV)|My curriculum vitae (CV) written using LaTeX.|556|1|2024-04-20|
-|39|[nycu-xuan/NTUT-Thesis-Template](https://github.com/nycu-xuan/NTUT-Thesis-Template)|A XeLaTeX thesis template for National Taipei University of Technology.|4|1|2024-04-29|
+|7|[rstar24/lazy-file-job](https://github.com/rstar24/lazy-file-job)|Some Practise and fun|24|3|2024-05-05|
+|8|[sysprog21/concurrency-primer](https://github.com/sysprog21/concurrency-primer)|Concurrency Primer|54|2|2024-05-06|
+|9|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |224|2|2024-05-05|
+|10|[llms-heart-mir/tutorial](https://github.com/llms-heart-mir/tutorial)|-|19|2|2024-05-06|
+|11|[Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)|A pandoc LaTeX template to convert markdown files to PDF or LaTeX.|5829|2|2024-04-29|
+|12|[sb2nov/resume](https://github.com/sb2nov/resume)|Software developer resume in Latex|4715|2|2024-04-17|
+|13|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |139|2|2024-02-17|
+|14|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|49|2|2024-05-02|
+|15|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|37|1|2024-04-02|
+|16|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|152|1|2024-04-08|
+|17|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2710|1|2024-05-06|
+|18|[ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)|List of articles related to deep learning applied to music|2752|1|2023-12-15|
+|19|[cplusplus/draft](https://github.com/cplusplus/draft)|C++ standards drafts|5527|1|2024-05-02|
+|20|[stettberger/notebook](https://github.com/stettberger/notebook)|-|37|1|2024-04-26|
+|21|[AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2)|LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.|2458|1|2024-04-09|
+|22|[gaoxiang12/slam-in-ad-en](https://github.com/gaoxiang12/slam-in-ad-en)|English version of slam in autunomous driving|53|1|2024-04-07|
+|23|[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv)|A Nice-looking CV template made into LaTeX|1974|1|2024-03-20|
+|24|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|399|1|2024-05-01|
+|25|[karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)|-|2118|1|2024-04-30|
+|26|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4390|1|2024-04-23|
+|27|[saadq/resumake.io](https://github.com/saadq/resumake.io)|📝 A website for automatically generating elegant LaTeX resumes.|3162|1|2024-02-13|
+|28|[pigworker/PoP](https://github.com/pigworker/PoP)|being code and blether about presheaves on purpose|3|1|2024-05-03|
+|29|[jakegut/resume](https://github.com/jakegut/resume)|LaTeX template for my personal resume|1077|1|2024-04-13|
+|30|[riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)|RISC-V Instruction Set Manual|3298|1|2024-05-06|
+|31|[FrogGuaGuaGua/HighSchoolMathematics](https://github.com/FrogGuaGuaGua/HighSchoolMathematics)|High school mathematics.|41|1|2024-05-01|
+|32|[angea/pocorgtfo](https://github.com/angea/pocorgtfo)|a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.|1224|1|2024-02-11|
+|33|[lervag/vimtex](https://github.com/lervag/vimtex)|VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.|5189|1|2024-05-05|
+|34|[fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI)|[TPAMI 2023] Multimodal Image Synthesis and Editing: The Generative AI Era|755|1|2023-11-21|
+|35|[xdanaux/moderncv](https://github.com/xdanaux/moderncv)|A modern curriculum vitae class for LaTeX|1771|1|2023-12-01|
+|36|[vEnhance/napkin](https://github.com/vEnhance/napkin)|An Infinitely Large Napkin|1093|1|2024-04-30|
+|37|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|70|1|2024-04-23|
+|38|[showyourwork/showyourwork](https://github.com/showyourwork/showyourwork)|A workflow for reproducible and open scientific articles|534|1|2024-04-29|
+|39|[arasgungore/arasgungore-CV](https://github.com/arasgungore/arasgungore-CV)|My curriculum vitae (CV) written using LaTeX.|557|1|2024-04-20|
 |40|[HazyResearch/data-centric-ai](https://github.com/HazyResearch/data-centric-ai)|Resources for Data Centric AI|1070|1|2023-12-13|
 |41|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|161|1|2024-01-20|
-|42|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2395|1|2024-05-01|
-|43|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |3344|1|2024-02-29|
-|44|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|92|1|2024-05-05|
-|45|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|395|1|2024-05-05|
+|42|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2401|1|2024-05-01|
+|43|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |3347|1|2024-02-29|
+|44|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|94|1|2024-05-06|
+|45|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|396|1|2024-05-05|
 |46|[ionathanch/parapoly](https://github.com/ionathanch/parapoly)|A LaTeX-typeset reproduction of Reynolds' "Types, Abstraction and Parametric Polymorphism"|20|1|2024-04-11|
 |47|[Lodour/wisc-thesis-template](https://github.com/Lodour/wisc-thesis-template)|A Minimum Working Example of the Dissertation Template for UW-Madison.|5|1|2024-05-04|
-|48|[latex3/latex2e](https://github.com/latex3/latex2e)|The LaTeX2e kernel|1767|1|2024-04-29|
-|49|[jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)|A selection of state-of-the-art research materials on trajectory prediction|1371|1|2024-02-19|
-|50|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|2560|1|2024-05-03|
-|51|[pgf-tikz/pgf](https://github.com/pgf-tikz/pgf)|A Portable Graphic Format for TeX|1061|1|2024-04-28|
-|52|[weihaox/GAN-Inversion](https://github.com/weihaox/GAN-Inversion)|[TPAMI 2022] GAN Inversion: A Survey|1087|1|2024-04-24|
+|48|[latex3/latex2e](https://github.com/latex3/latex2e)|The LaTeX2e kernel|1768|1|2024-04-29|
+|49|[jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)|A selection of state-of-the-art research materials on trajectory prediction|1373|1|2024-02-19|
+|50|[dart-lang/language](https://github.com/dart-lang/language)|Design of the Dart language|2562|1|2024-05-03|
+|51|[pgf-tikz/pgf](https://github.com/pgf-tikz/pgf)|A Portable Graphic Format for TeX|1062|1|2024-04-28|
+|52|[weihaox/GAN-Inversion](https://github.com/weihaox/GAN-Inversion)|[TPAMI 2022] GAN Inversion: A Survey|1088|1|2024-04-24|
 |53|[nfrerebeau/rarcheo](https://github.com/nfrerebeau/rarcheo)|R pour l'archéologue|5|0|2024-04-22|
 |54|[NewAlexandria/leadership_readme](https://github.com/NewAlexandria/leadership_readme)|Thoughts on working together, and supporting organizations|4|0|2024-02-12|
 |55|[ResearchMethods-ZHAW/Statistik](https://github.com/ResearchMethods-ZHAW/Statistik)|-|5|0|2023-11-28|
@@ -68,7 +68,7 @@
 |61|[gboeing/cv](https://github.com/gboeing/cv)|Geoff Boeing's academic CV in LaTeX|286|0|2024-05-01|
 |62|[hiroshi-sasaki/thesis-template-ja](https://github.com/hiroshi-sasaki/thesis-template-ja)|-|13|0|2024-02-07|
 |63|[Mixtape-Sessions/Causal-Inference-3](https://github.com/Mixtape-Sessions/Causal-Inference-3)|Causal Inference 3 Mixtape Session taught by Scott Cunningham|17|0|2024-04-07|
-|64|[kayabaNerve/fcmp-ringct](https://github.com/kayabaNerve/fcmp-ringct)|-|4|0|2024-05-03|
+|64|[kayabaNerve/fcmp-ringct](https://github.com/kayabaNerve/fcmp-ringct)|-|4|0|2024-05-06|
 |65|[ulyngs/oxforddown](https://github.com/ulyngs/oxforddown)|Template for writing an Oxford University thesis in R Markdown; uses the OxThesis LaTeX template and was inspired by thesisdown.|218|0|2024-02-05|
 |66|[NF02/Appunti-universita](https://github.com/NF02/Appunti-universita)|Appunti dell'università|7|0|2024-04-30|
 |67|[bdemeshev/probability_pro](https://github.com/bdemeshev/probability_pro)|-|9|0|2023-12-30|
@@ -117,7 +117,7 @@
 |110|[andreasma/extensionbook](https://github.com/andreasma/extensionbook)|-|3|0|2024-04-30|
 |111|[uninassau-gracas/template-latex](https://github.com/uninassau-gracas/template-latex)|Template para apresentações e aulas na UNINASSAU|3|0|2024-02-13|
 |112|[knowsys/TheoLog](https://github.com/knowsys/TheoLog)|Vorlesungsunterlagen "Theoretische Informatik und Logik", Fakultät Informatik, TU Dresden|22|0|2024-04-29|
-|113|[felixwellen/synthetic-zariski](https://github.com/felixwellen/synthetic-zariski)|Latex documentation of our understanding of the synthetic /internal theory of the Zariski-Topos|42|0|2024-05-03|
+|113|[felixwellen/synthetic-zariski](https://github.com/felixwellen/synthetic-zariski)|Latex documentation of our understanding of the synthetic /internal theory of the Zariski-Topos|42|0|2024-05-06|
 |114|[PIX3LFLUX/HSK-Latex-Skript-Template](https://github.com/PIX3LFLUX/HSK-Latex-Skript-Template)|HSK design latex template|20|0|2024-03-09|
 |115|[yegor256/iexec](https://github.com/yegor256/iexec)|Execute a command-line command from LaTeX, check the exit code, and then \input the result into the document|5|0|2024-04-28|
 |116|[loopspace/tikzmark](https://github.com/loopspace/tikzmark)|The dread tikzmark arrives on github|14|0|2023-12-23|
@@ -125,7 +125,7 @@
 |118|[crypdick/Decal-LaTeX-CV](https://github.com/crypdick/Decal-LaTeX-CV)|Richard Decal's LaTeX CV template|7|0|2024-03-04|
 |119|[rycolab/aclpub2](https://github.com/rycolab/aclpub2)|-|26|0|2024-02-26|
 |120|[ArmageddonKnight/NeurIPS](https://github.com/ArmageddonKnight/NeurIPS)|Single-Column LaTeX Template based on NeurIPS|3|0|2023-12-17|
-|121|[Zombie1995/TexSnippets](https://github.com/Zombie1995/TexSnippets)|-|7|0|2024-05-05|
+|121|[Zombie1995/TexSnippets](https://github.com/Zombie1995/TexSnippets)|-|7|0|2024-05-06|
 |122|[stineje/dldfall2023](https://github.com/stineje/dldfall2023)|This repository contains information about Digital Logic Design (ecen 3233) laboratory elements for Fall 2023.|3|0|2024-04-30|
 |123|[furkanakkurt1335/boat](https://github.com/furkanakkurt1335/boat)|Boğaziçi University Annotation Tool|3|0|2023-11-14|
 |124|[sebastian-lapuschkin-sideprojects/latex-cv](https://github.com/sebastian-lapuschkin-sideprojects/latex-cv)|latex-cv|4|0|2024-04-29|
@@ -140,12 +140,12 @@
 |133|[arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact)|A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.|25|0|2024-04-23|
 |134|[TobyYang7/cuhksz_report_template](https://github.com/TobyYang7/cuhksz_report_template)|-|7|0|2024-01-28|
 |135|[conal/talk-2015-more-elegant-frp](https://github.com/conal/talk-2015-more-elegant-frp)|A more elegant specification for FRP|24|0|2024-01-08|
-|136|[mikemahoney218/quarto-arxiv](https://github.com/mikemahoney218/quarto-arxiv)| Quarto template for arXiv preprints|70|0|2024-01-02|
+|136|[mikemahoney218/quarto-arxiv](https://github.com/mikemahoney218/quarto-arxiv)| Quarto template for arXiv preprints|71|0|2024-01-02|
 |137|[warpy-ai/settlement](https://github.com/warpy-ai/settlement)|Apply Settlement.io for muiltiagent transformer models|3|0|2024-04-07|
 |138|[FOSSEE/certificate-generator](https://github.com/FOSSEE/certificate-generator)|-|5|0|2024-02-07|
 |139|[dpavot/templates_latex_fcul](https://github.com/dpavot/templates_latex_fcul)|Templates LaTeX para Tese de Mestrado, Tese de Doutoramento, Proposta de Tese de Mestrado e Proposta de Tese de Doutoramento na Faculdade de Ciências da Universidade de Lisboa (FCUL)|11|0|2024-04-16|
 |140|[ernestyalumni/mathphysics](https://github.com/ernestyalumni/mathphysics)|Various notes and solutions on Math and Physics (and Mathematical Physics)|66|0|2023-11-16|
-|141|[DanRyten/EXO1](https://github.com/DanRyten/EXO1)|-|3|0|2024-05-02|
+|141|[DanRyten/EXO1](https://github.com/DanRyten/EXO1)|-|3|0|2024-05-06|
 |142|[xiamyphys/Group-Theory-in-Physics](https://github.com/xiamyphys/Group-Theory-in-Physics)|My note on Group in Physics.|3|0|2024-03-18|
 |143|[b-mehta/maths-notes](https://github.com/b-mehta/maths-notes)|Lecture notes from Cambridge maths|56|0|2024-02-01|
 |144|[iagoac/dce692](https://github.com/iagoac/dce692)|Disciplina DCE692 - Pesquisa Operacional|3|0|2023-12-11|
@@ -162,8 +162,8 @@
 |155|[oliverklee/tdd-reader](https://github.com/oliverklee/tdd-reader)|Reader/handout for my workshops on test-driven development (TDD) with TYPO3 CMS|21|0|2024-01-05|
 |156|[LeqiXu/Yale-Notes](https://github.com/LeqiXu/Yale-Notes)|-|12|0|2023-12-19|
 |157|[rallg/novelette](https://github.com/rallg/novelette)|LuaLaTeX document class for printed popular fiction|3|0|2024-04-22|
-|158|[luismayta/resume](https://github.com/luismayta/resume)|Resume|7|0|2024-05-05|
-|159|[EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU](https://github.com/EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU)|I love CV.|17|0|2024-05-04|
+|158|[luismayta/resume](https://github.com/luismayta/resume)|Resume|7|0|2024-05-06|
+|159|[EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU](https://github.com/EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU)|I love CV.|17|0|2024-05-06|
 |160|[CAWaterBoardDataCenter/swamp-manual](https://github.com/CAWaterBoardDataCenter/swamp-manual)|Guidance for SWAMP Unit|5|0|2024-04-08|
 |161|[rbrignall/OU-SUPPS](https://github.com/rbrignall/OU-SUPPS)|LaTeX class files for OU Supps. If you like this repository, you'll surely also like Robert Hasson's ouunit package: https://github.com/RobertHasson/ouunit      Sign up to our mailing list to receive  ...|8|0|2024-04-19|
 |162|[TensorNetwork/tensornetwork.org](https://github.com/TensorNetwork/tensornetwork.org)|Source for The Tensor Network open-source review article|138|0|2024-04-30|
@@ -194,12 +194,12 @@
 |187|[dagstuhl-publishing/styles](https://github.com/dagstuhl-publishing/styles)|LaTeX Styles provided by Dagstuhl Publishing|30|0|2024-03-08|
 |188|[fmi-unibuc/flp](https://github.com/fmi-unibuc/flp)|Fundamentals of Programing Languages|4|0|2024-01-13|
 |189|[CTeX-org/zhlipsum](https://github.com/CTeX-org/zhlipsum)|Chinese dummy text|16|0|2024-04-08|
-|190|[buzzqw/TUS](https://github.com/buzzqw/TUS)|I miei sistemi, i miei giochi. My own RPG, my rules|3|0|2024-04-30|
+|190|[buzzqw/TUS](https://github.com/buzzqw/TUS)|I miei sistemi, i miei giochi. My own RPG, my rules|3|0|2024-05-06|
 |191|[ryanmaguire/Mathematics-and-Physics](https://github.com/ryanmaguire/Mathematics-and-Physics)|Various notes on mathematics and physics organized in several volumes.|9|0|2024-05-03|
 |192|[YaguanaJeniffer/perfil-Tesis-Vivero](https://github.com/YaguanaJeniffer/perfil-Tesis-Vivero)|-|4|0|2024-03-13|
 |193|[Qazalbash/Resume](https://github.com/Qazalbash/Resume)|🐙 My Academic Resume|4|0|2024-01-30|
 |194|[wanghai1988/qtgahelp](https://github.com/wanghai1988/qtgahelp)|QTGA Help Document|3|0|2024-01-01|
-|195|[pglpm/bayes_nonparametric_inference](https://github.com/pglpm/bayes_nonparametric_inference)|Software development for "Bayesian nonparametric population inference". In other words, just the direct application of probability theory to get the most general, principled, model-free inference we c ...|3|0|2024-04-26|
+|195|[pglpm/bayes_nonparametric_inference](https://github.com/pglpm/bayes_nonparametric_inference)|Software development for "Bayesian nonparametric population inference". In other words, just the direct application of probability theory to get the most general, principled, model-free inference we c ...|3|0|2024-05-06|
 |196|[CRIMAC-WP4-Machine-learning/CRIMAC-Raw-To-Svf-TSf](https://github.com/CRIMAC-WP4-Machine-learning/CRIMAC-Raw-To-Svf-TSf)|Python code showing the current processing steps for modern broadband echosounders, from raw data to Sv(f) and TS(f).|4|0|2023-12-22|
 |197|[AZ-0/PDFs](https://github.com/AZ-0/PDFs)|Some PDFs about maths and cryptography|3|0|2024-05-01|
 |198|[0xPolygonHermez/zkevm-techdocs](https://github.com/0xPolygonHermez/zkevm-techdocs)|Technical documentation of the zkEVM|80|0|2024-04-29|
