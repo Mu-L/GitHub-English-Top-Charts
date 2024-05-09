@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > All Language
-<sub>Updated: 2024-05-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[facebook/react](https://github.com/facebook/react)|The library for web and native user interfaces.|222322|JavaScript|2024-05-07|
-|2|[vuejs/vue](https://github.com/vuejs/vue)|This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core|207012|JavaScript|2024-05-02|
-|3|[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|An Open Source Machine Learning Framework for Everyone|182654|C++|2024-05-07|
-|4|[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, ...|169092|Shell|2024-05-07|
-|5|[twbs/bootstrap](https://github.com/twbs/bootstrap)|The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.|167562|JavaScript|2024-05-07|
-|6|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|162032|Dart|2024-05-07|
-|7|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|161727|JavaScript|2024-05-07|
-|8|[microsoft/vscode](https://github.com/microsoft/vscode)|Visual Studio Code|158607|TypeScript|2024-05-07|
-|9|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|130532|Python|2024-05-07|
-|10|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|128682|Python|2024-05-01|
-|11|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|125583|Python|2024-05-07|
-|12|[vercel/next.js](https://github.com/vercel/next.js)|The React Framework|120950|JavaScript|2024-05-07|
-|13|[golang/go](https://github.com/golang/go)|The Go programming language|119879|Go|2024-05-07|
-|14|[facebook/react-native](https://github.com/facebook/react-native)|A framework for building native applications using React|116082|JavaScript|2024-05-07|
-|15|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|112086|C++|2024-05-07|
-|16|[d3/d3](https://github.com/d3/d3)|Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:|107718|JavaScript|2024-04-25|
-|17|[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|Production-Grade Container Scheduling and Management|107006|Go|2024-05-07|
-|18|[microsoft/PowerToys](https://github.com/microsoft/PowerToys)|Windows system utilities to maximize productivity|104675|C#|2024-05-06|
-|19|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|This repo includes ChatGPT prompt curation to use ChatGPT better.|104113|HTML|2024-05-03|
-|20|[axios/axios](https://github.com/axios/axios)|Promise based HTTP client for the browser and node.js|104102|JavaScript|2024-05-06|
-|21|[nodejs/node](https://github.com/nodejs/node)|Node.js JavaScript runtime ✨🐢🚀✨|104098|JavaScript|2024-05-07|
-|22|[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)|Display and control your Android device|102477|C|2024-04-29|
-|23|[facebook/create-react-app](https://github.com/facebook/create-react-app)|Set up a modern web app by running one command.|101927|JavaScript|2024-05-07|
-|24|[mrdoob/three.js](https://github.com/mrdoob/three.js)|JavaScript 3D Library.|99081|JavaScript|2024-05-07|
-|25|[microsoft/TypeScript](https://github.com/microsoft/TypeScript)|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|98146|TypeScript|2024-05-07|
-|26|[goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|:white_check_mark:  The Node.js best practices list (February 2024)|96484|JavaScript|2024-04-24|
-|27|[angular/angular](https://github.com/angular/angular)|Deliver web apps with confidence 🚀|94621|TypeScript|2024-05-07|
-|28|[microsoft/terminal](https://github.com/microsoft/terminal)|The new Windows Terminal and the original Windows console host, all in the same place!|93618|C++|2024-05-07|
-|29|[rust-lang/rust](https://github.com/rust-lang/rust)|Empowering everyone to build reliable and efficient software.|93308|Rust|2024-05-07|
-|30|[denoland/deno](https://github.com/denoland/deno)|A modern runtime for JavaScript and TypeScript.|92995|Rust|2024-05-07|
-|31|[mui/material-ui](https://github.com/mui/material-ui)|Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.|91738|JavaScript|2024-05-07|
-|32|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|90326|TypeScript|2024-05-07|
-|33|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)|Node.js API for Chrome |86888|TypeScript|2024-05-07|
-|34|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|86476|Vue|2024-04-27|
-|35|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|🦜🔗 Build context-aware reasoning applications|84236|Python|2024-05-07|
-|36|[godotengine/godot](https://github.com/godotengine/godot)|Godot Engine – Multi-platform 2D and 3D game engine|84109|C++|2024-05-07|
-|37|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|82960|Python|2024-04-28|
-|38|[storybookjs/storybook](https://github.com/storybookjs/storybook)|Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. |82913|TypeScript|2024-05-07|
-|39|[fatedier/frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|80135|Go|2024-05-07|
-|40|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|79817|CSS|2024-05-06|
-|41|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|A utility-first CSS framework for rapid UI development.|78694|JavaScript|2024-05-06|
-|42|[gothinkster/realworld](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|78362|Shell|2024-03-08|
-|43|[pytorch/pytorch](https://github.com/pytorch/pytorch)|Tensors and Dynamic neural networks in Python with strong GPU acceleration|78223|C++|2024-05-07|
-|44|[tauri-apps/tauri](https://github.com/tauri-apps/tauri)|Build smaller, faster, and more secure desktop applications with a web frontend.|77709|Rust|2024-05-07|
-|45|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|76968|Python|2024-05-07|
-|46|[laravel/laravel](https://github.com/laravel/laravel)|Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.|76895|PHP|2024-05-07|
-|47|[neovim/neovim](https://github.com/neovim/neovim)|Vim-fork focused on extensibility and usability|76860|Vim script|2024-05-07|
-|48|[sveltejs/svelte](https://github.com/sveltejs/svelte)|Cybernetically enhanced web apps|76671|TypeScript|2024-05-07|
-|49|[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)|A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.|76330|Batchfile|2024-04-30|
-|50|[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)|Bitcoin Core integration/staging tree|76256|C++|2024-05-07|
-|51|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|75922|Shell|2024-05-03|
-|52|[opencv/opencv](https://github.com/opencv/opencv)|Open Source Computer Vision Library|75764|C++|2024-05-07|
-|53|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|75647|Go|2024-05-07|
-|54|[tonsky/FiraCode](https://github.com/tonsky/FiraCode)|Free monospaced font with programming ligatures|75426|Clojure|2024-02-29|
-|55|[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)|Virtual whiteboard for sketching hand-drawn like diagrams|73531|TypeScript|2024-05-07|
-|56|[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|73067|JavaScript|2024-04-02|
-|57|[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)|Spring Boot|72927|Java|2024-05-07|
-|58|[gohugoio/hugo](https://github.com/gohugoio/hugo)|The world’s fastest framework for building websites.|72686|Go|2024-05-07|
-|59|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A feature-rich command-line audio/video downloader|71432|Python|2024-05-07|
-|60|[typicode/json-server](https://github.com/typicode/json-server)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|71318|JavaScript|2024-05-03|
-|61|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|71271|Python|2024-05-07|
-|62|[oven-sh/bun](https://github.com/oven-sh/bun)|Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one|70852|Zig|2024-05-07|
-|63|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|68847|Python|2024-05-07|
-|64|[ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)|A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。|68640|TypeScript|2024-05-07|
-|65|[netdata/netdata](https://github.com/netdata/netdata)|The open-source observability platform everyone needs!|68313|C|2024-05-07|
-|66|[moby/moby](https://github.com/moby/moby)|The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems|67792|Go|2024-05-07|
-|67|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Free and Open, Distributed, RESTful Search Engine|67747|Java|2024-05-07|
-|68|[base-org/node](https://github.com/base-org/node)|Everything required to run your own Base node|67360|Shell|2024-05-03|
-|69|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown|67235|JavaScript|2024-05-07|
-|70|[hakimel/reveal.js](https://github.com/hakimel/reveal.js)|The HTML Presentation Framework|66986|JavaScript|2024-05-05|
-|71|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|66478|Python|2024-05-07|
-|72|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative.|66437|TypeScript|2024-05-07|
-|73|[apple/swift](https://github.com/apple/swift)|The Swift Programming Language|66028|C++|2024-05-07|
-|74|[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)|A latent text-to-image diffusion model|65587|Jupyter Notebook|2024-04-14|
-|75|[coder/code-server](https://github.com/coder/code-server)|VS Code in the browser|65482|TypeScript|2024-05-07|
-|76|[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)|:zap: Dynamically generated stats for your github readmes|65040|JavaScript|2024-05-06|
-|77|[vitejs/vite](https://github.com/vitejs/vite)|Next generation frontend tooling. It's fast!|64986|TypeScript|2024-05-07|
-|78|[redis/redis](https://github.com/redis/redis)|Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi ...|64946|C|2024-05-07|
-|79|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)|gpt4all: run open-source LLMs anywhere|64896|C++|2024-05-07|
-|80|[nestjs/nest](https://github.com/nestjs/nest)|A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀|64558|TypeScript|2024-05-07|
-|81|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 3, Mistral, Gemma, and other large language models.|64502|Go|2024-05-07|
-|82|[webpack/webpack](https://github.com/webpack/webpack)|A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM ...|64186|JavaScript|2024-05-07|
-|83|[expressjs/express](https://github.com/expressjs/express)|Fast, unopinionated, minimalist web framework for node.|63877|JavaScript|2024-05-07|
-|84|[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)|Protocol Buffers - Google's data interchange format|63765|C++|2024-05-07|
-|85|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|An open-source remote desktop, and alternative to TeamViewer.|63542|Rust|2024-05-07|
-|86|[chartjs/Chart.js](https://github.com/chartjs/Chart.js)|Simple HTML5 Charts using the <canvas> tag|63536|JavaScript|2024-05-06|
-|87|[FuelLabs/sway](https://github.com/FuelLabs/sway)|🌴 Empowering everyone to build reliable and efficient smart contracts.|63114|Rust|2024-05-07|
-|88|[microsoft/playwright](https://github.com/microsoft/playwright)|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |62002|TypeScript|2024-05-07|
-|89|[2dust/v2rayN](https://github.com/2dust/v2rayN)|A GUI client for Windows, support Xray core and v2fly core and others|61631|C#|2024-05-07|
-|90|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Source code for Twitter's Recommendation Algorithm|61438|Scala|2024-04-29|
-|91|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|61251|Python|2024-05-07|
-|92|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|60999|Python|2024-05-07|
-|93|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|60868|Python|2024-05-03|
-|94|[grafana/grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ...|60541|TypeScript|2024-05-07|
-|95|[reduxjs/redux](https://github.com/reduxjs/redux)|A JS library for predictable global state management|60478|TypeScript|2024-05-03|
-|96|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|60384|Vue|2024-05-07|
-|97|[strapi/strapi](https://github.com/strapi/strapi)|🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.|60384|JavaScript|2024-05-07|
-|98|[socketio/socket.io](https://github.com/socketio/socket.io)|Realtime application framework (Node.JS server)|60217|TypeScript|2024-05-03|
-|99|[junegunn/fzf](https://github.com/junegunn/fzf)|:cherry_blossom: A command-line fuzzy finder|60061|Go|2024-05-07|
-|100|[python/cpython](https://github.com/python/cpython)|The Python programming language|59868|Python|2024-05-07|
-|101|[syncthing/syncthing](https://github.com/syncthing/syncthing)|Open Source Continuous File Synchronization|59707|Go|2024-05-07|
-|102|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|59046|TypeScript|2024-05-07|
-|103|[apache/superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|58993|TypeScript|2024-05-07|
-|104|[lodash/lodash](https://github.com/lodash/lodash)|A modern JavaScript utility library delivering modularity, performance, & extras.|58938|JavaScript|2024-05-06|
-|105|[angular/angular.js](https://github.com/angular/angular.js)|AngularJS - HTML enhanced for web apps!|58918|JavaScript|2024-04-12|
-|106|[jquery/jquery](https://github.com/jquery/jquery)|jQuery JavaScript Library|58916|JavaScript|2024-05-01|
-|107|[FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core)|Rust full node implementation of the Fuel v2 protocol.|58570|Rust|2024-05-07|
-|108|[tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)|Tesseract Open Source OCR Engine (main repository)|58267|C++|2024-05-03|
-|109|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|58222|Python|2024-05-07|
-|110|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|58213|Python|2024-05-03|
-|111|[ventoy/Ventoy](https://github.com/ventoy/Ventoy)|A new bootable USB solution.|58023|C|2024-04-27|
-|112|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.|57971|TypeScript|2024-05-07|
-|113|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|LLM inference in C/C++|57699|C++|2024-05-07|
-|114|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|57330|Python|2024-05-06|
-|115|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56631|Assembly|2024-04-25|
-|116|[h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)|A professional front-end template for building fast, robust, and adaptable web apps or sites.|56029|JavaScript|2024-05-01|
-|117|[ocornut/imgui](https://github.com/ocornut/imgui)|Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies|56026|C++|2024-05-07|
-|118|[obsproject/obs-studio](https://github.com/obsproject/obs-studio)|OBS Studio - Free and open source software for live streaming and screen recording|55782|C|2024-05-07|
-|119|[Eugeny/tabby](https://github.com/Eugeny/tabby)|A terminal for a more modern age|55437|TypeScript|2024-05-07|
-|120|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|55213|Java|2024-05-07|
-|121|[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)|The best React-based framework with performance, scalability and security built in.|55035|JavaScript|2024-05-07|
-|122|[rails/rails](https://github.com/rails/rails)|Ruby on Rails|54945|Ruby|2024-05-07|
-|123|[caddyserver/caddy](https://github.com/caddyserver/caddy)|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS|54015|Go|2024-05-07|
+|1|[facebook/react](https://github.com/facebook/react)|The library for web and native user interfaces.|222377|JavaScript|2024-05-08|
+|2|[vuejs/vue](https://github.com/vuejs/vue)|This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core|207031|JavaScript|2024-05-07|
+|3|[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|An Open Source Machine Learning Framework for Everyone|182680|C++|2024-05-08|
+|4|[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, ...|169159|Shell|2024-05-08|
+|5|[twbs/bootstrap](https://github.com/twbs/bootstrap)|The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.|167575|JavaScript|2024-05-07|
+|6|[flutter/flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|162055|Dart|2024-05-08|
+|7|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|161751|JavaScript|2024-05-08|
+|8|[microsoft/vscode](https://github.com/microsoft/vscode)|Visual Studio Code|158657|TypeScript|2024-05-08|
+|9|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|130627|Python|2024-05-08|
+|10|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|128705|Python|2024-05-01|
+|11|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|125657|Python|2024-05-08|
+|12|[vercel/next.js](https://github.com/vercel/next.js)|The React Framework|121001|JavaScript|2024-05-08|
+|13|[golang/go](https://github.com/golang/go)|The Go programming language|119914|Go|2024-05-08|
+|14|[facebook/react-native](https://github.com/facebook/react-native)|A framework for building native applications using React|116096|JavaScript|2024-05-08|
+|15|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|112102|C++|2024-05-08|
+|16|[d3/d3](https://github.com/d3/d3)|Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:|107727|JavaScript|2024-04-25|
+|17|[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|Production-Grade Container Scheduling and Management|107038|Go|2024-05-08|
+|18|[microsoft/PowerToys](https://github.com/microsoft/PowerToys)|Windows system utilities to maximize productivity|104718|C#|2024-05-08|
+|19|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|This repo includes ChatGPT prompt curation to use ChatGPT better.|104181|HTML|2024-05-03|
+|20|[nodejs/node](https://github.com/nodejs/node)|Node.js JavaScript runtime ✨🐢🚀✨|104118|JavaScript|2024-05-08|
+|21|[axios/axios](https://github.com/axios/axios)|Promise based HTTP client for the browser and node.js|104113|JavaScript|2024-05-08|
+|22|[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)|Display and control your Android device|102529|C|2024-04-29|
+|23|[facebook/create-react-app](https://github.com/facebook/create-react-app)|Set up a modern web app by running one command.|101930|JavaScript|2024-05-07|
+|24|[mrdoob/three.js](https://github.com/mrdoob/three.js)|JavaScript 3D Library.|99099|JavaScript|2024-05-08|
+|25|[microsoft/TypeScript](https://github.com/microsoft/TypeScript)|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|98171|TypeScript|2024-05-08|
+|26|[goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|:white_check_mark:  The Node.js best practices list (February 2024)|96497|JavaScript|2024-04-24|
+|27|[angular/angular](https://github.com/angular/angular)|Deliver web apps with confidence 🚀|94630|TypeScript|2024-05-08|
+|28|[microsoft/terminal](https://github.com/microsoft/terminal)|The new Windows Terminal and the original Windows console host, all in the same place!|93624|C++|2024-05-08|
+|29|[rust-lang/rust](https://github.com/rust-lang/rust)|Empowering everyone to build reliable and efficient software.|93352|Rust|2024-05-08|
+|30|[denoland/deno](https://github.com/denoland/deno)|A modern runtime for JavaScript and TypeScript.|93007|Rust|2024-05-08|
+|31|[mui/material-ui](https://github.com/mui/material-ui)|Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.|91751|JavaScript|2024-05-08|
+|32|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|90339|TypeScript|2024-05-08|
+|33|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)|Node.js API for Chrome |86904|TypeScript|2024-05-08|
+|34|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|86487|Vue|2024-04-27|
+|35|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|🦜🔗 Build context-aware reasoning applications|84324|Python|2024-05-08|
+|36|[godotengine/godot](https://github.com/godotengine/godot)|Godot Engine – Multi-platform 2D and 3D game engine|84161|C++|2024-05-08|
+|37|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|82969|Python|2024-04-28|
+|38|[storybookjs/storybook](https://github.com/storybookjs/storybook)|Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. |82933|TypeScript|2024-05-08|
+|39|[fatedier/frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|80176|Go|2024-05-07|
+|40|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|79825|CSS|2024-05-06|
+|41|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|A utility-first CSS framework for rapid UI development.|78719|JavaScript|2024-05-08|
+|42|[gothinkster/realworld](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|78364|Shell|2024-03-08|
+|43|[pytorch/pytorch](https://github.com/pytorch/pytorch)|Tensors and Dynamic neural networks in Python with strong GPU acceleration|78254|C++|2024-05-08|
+|44|[tauri-apps/tauri](https://github.com/tauri-apps/tauri)|Build smaller, faster, and more secure desktop applications with a web frontend.|77743|Rust|2024-05-08|
+|45|[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)|A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.|77418|Batchfile|2024-04-30|
+|46|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|76988|Python|2024-05-08|
+|47|[laravel/laravel](https://github.com/laravel/laravel)|Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.|76901|PHP|2024-05-07|
+|48|[neovim/neovim](https://github.com/neovim/neovim)|Vim-fork focused on extensibility and usability|76880|Vim script|2024-05-08|
+|49|[sveltejs/svelte](https://github.com/sveltejs/svelte)|Cybernetically enhanced web apps|76688|TypeScript|2024-05-08|
+|50|[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)|Bitcoin Core integration/staging tree|76289|C++|2024-05-08|
+|51|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|75948|Shell|2024-05-03|
+|52|[opencv/opencv](https://github.com/opencv/opencv)|Open Source Computer Vision Library|75792|C++|2024-05-08|
+|53|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|75661|Go|2024-05-08|
+|54|[tonsky/FiraCode](https://github.com/tonsky/FiraCode)|Free monospaced font with programming ligatures|75436|Clojure|2024-02-29|
+|55|[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)|Virtual whiteboard for sketching hand-drawn like diagrams|73595|TypeScript|2024-05-08|
+|56|[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|73071|JavaScript|2024-04-02|
+|57|[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)|Spring Boot|72943|Java|2024-05-08|
+|58|[gohugoio/hugo](https://github.com/gohugoio/hugo)|The world’s fastest framework for building websites.|72704|Go|2024-05-08|
+|59|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A feature-rich command-line audio/video downloader|71488|Python|2024-05-08|
+|60|[typicode/json-server](https://github.com/typicode/json-server)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|71327|JavaScript|2024-05-03|
+|61|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|71311|Python|2024-05-08|
+|62|[oven-sh/bun](https://github.com/oven-sh/bun)|Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one|70868|Zig|2024-05-08|
+|63|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|68865|Python|2024-05-08|
+|64|[ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)|A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。|68833|TypeScript|2024-05-08|
+|65|[netdata/netdata](https://github.com/netdata/netdata)|The open-source observability platform everyone needs!|68339|C|2024-05-08|
+|66|[moby/moby](https://github.com/moby/moby)|The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems|67798|Go|2024-05-08|
+|67|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Free and Open, Distributed, RESTful Search Engine|67759|Java|2024-05-08|
+|68|[base-org/node](https://github.com/base-org/node)|Everything required to run your own Base node|67369|Shell|2024-05-03|
+|69|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown|67255|JavaScript|2024-05-08|
+|70|[hakimel/reveal.js](https://github.com/hakimel/reveal.js)|The HTML Presentation Framework|66990|JavaScript|2024-05-05|
+|71|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|66488|Python|2024-05-07|
+|72|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative.|66486|TypeScript|2024-05-08|
+|73|[apple/swift](https://github.com/apple/swift)|The Swift Programming Language|66032|C++|2024-05-08|
+|74|[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)|A latent text-to-image diffusion model|65604|Jupyter Notebook|2024-04-14|
+|75|[coder/code-server](https://github.com/coder/code-server)|VS Code in the browser|65523|TypeScript|2024-05-08|
+|76|[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)|:zap: Dynamically generated stats for your github readmes|65071|JavaScript|2024-05-07|
+|77|[vitejs/vite](https://github.com/vitejs/vite)|Next generation frontend tooling. It's fast!|65004|TypeScript|2024-05-08|
+|78|[redis/redis](https://github.com/redis/redis)|Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi ...|64959|C|2024-05-08|
+|79|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)|gpt4all: run open-source LLMs anywhere|64913|C++|2024-05-08|
+|80|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 3, Mistral, Gemma, and other large language models.|64847|Go|2024-05-08|
+|81|[nestjs/nest](https://github.com/nestjs/nest)|A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀|64572|TypeScript|2024-05-08|
+|82|[webpack/webpack](https://github.com/webpack/webpack)|A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM ...|64191|JavaScript|2024-05-08|
+|83|[expressjs/express](https://github.com/expressjs/express)|Fast, unopinionated, minimalist web framework for node.|63885|JavaScript|2024-05-08|
+|84|[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)|Protocol Buffers - Google's data interchange format|63772|C++|2024-05-08|
+|85|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|An open-source remote desktop, and alternative to TeamViewer.|63708|Rust|2024-05-08|
+|86|[chartjs/Chart.js](https://github.com/chartjs/Chart.js)|Simple HTML5 Charts using the <canvas> tag|63547|JavaScript|2024-05-07|
+|87|[FuelLabs/sway](https://github.com/FuelLabs/sway)|🌴 Empowering everyone to build reliable and efficient smart contracts.|63125|Rust|2024-05-08|
+|88|[microsoft/playwright](https://github.com/microsoft/playwright)|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |62036|TypeScript|2024-05-08|
+|89|[2dust/v2rayN](https://github.com/2dust/v2rayN)|A GUI client for Windows, support Xray core and v2fly core and others|61667|C#|2024-05-08|
+|90|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Source code for Twitter's Recommendation Algorithm|61444|Scala|2024-04-29|
+|91|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|61263|Python|2024-05-08|
+|92|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|61003|Python|2024-05-08|
+|93|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|60931|Python|2024-05-08|
+|94|[grafana/grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ...|60559|TypeScript|2024-05-08|
+|95|[reduxjs/redux](https://github.com/reduxjs/redux)|A JS library for predictable global state management|60482|TypeScript|2024-05-03|
+|96|[strapi/strapi](https://github.com/strapi/strapi)|🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.|60451|JavaScript|2024-05-08|
+|97|[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)|👽 Open source API development ecosystem - https://hoppscotch.io|60412|Vue|2024-05-08|
+|98|[socketio/socket.io](https://github.com/socketio/socket.io)|Realtime application framework (Node.JS server)|60225|TypeScript|2024-05-03|
+|99|[junegunn/fzf](https://github.com/junegunn/fzf)|:cherry_blossom: A command-line fuzzy finder|60091|Go|2024-05-08|
+|100|[python/cpython](https://github.com/python/cpython)|The Python programming language|59879|Python|2024-05-08|
+|101|[syncthing/syncthing](https://github.com/syncthing/syncthing)|Open Source Continuous File Synchronization|59728|Go|2024-05-08|
+|102|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|59055|TypeScript|2024-05-08|
+|103|[apache/superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|59016|TypeScript|2024-05-08|
+|104|[lodash/lodash](https://github.com/lodash/lodash)|A modern JavaScript utility library delivering modularity, performance, & extras.|58942|JavaScript|2024-05-08|
+|105|[angular/angular.js](https://github.com/angular/angular.js)|AngularJS - HTML enhanced for web apps!|58919|JavaScript|2024-04-12|
+|106|[jquery/jquery](https://github.com/jquery/jquery)|jQuery JavaScript Library|58917|JavaScript|2024-05-01|
+|107|[FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core)|Rust full node implementation of the Fuel v2 protocol.|58581|Rust|2024-05-08|
+|108|[tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)|Tesseract Open Source OCR Engine (main repository)|58291|C++|2024-05-03|
+|109|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|58243|Python|2024-05-03|
+|110|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|58228|Python|2024-05-08|
+|111|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.|58078|TypeScript|2024-05-07|
+|112|[ventoy/Ventoy](https://github.com/ventoy/Ventoy)|A new bootable USB solution.|58052|C|2024-04-27|
+|113|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|LLM inference in C/C++|57779|C++|2024-05-08|
+|114|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|57427|Python|2024-05-08|
+|115|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56637|Assembly|2024-04-25|
+|116|[ocornut/imgui](https://github.com/ocornut/imgui)|Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies|56052|C++|2024-05-08|
+|117|[h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)|A professional front-end template for building fast, robust, and adaptable web apps or sites.|56032|JavaScript|2024-05-01|
+|118|[obsproject/obs-studio](https://github.com/obsproject/obs-studio)|OBS Studio - Free and open source software for live streaming and screen recording|55812|C|2024-05-08|
+|119|[Eugeny/tabby](https://github.com/Eugeny/tabby)|A terminal for a more modern age|55483|TypeScript|2024-05-07|
+|120|[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)|Spring Framework|55222|Java|2024-05-08|
+|121|[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)|The best React-based framework with performance, scalability and security built in.|55037|JavaScript|2024-05-07|
+|122|[rails/rails](https://github.com/rails/rails)|Ruby on Rails|54952|Ruby|2024-05-08|
+|123|[caddyserver/caddy](https://github.com/caddyserver/caddy)|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS|54041|Go|2024-05-08|
 |124|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|53972|Vue|2024-04-24|
-|125|[meta-llama/llama](https://github.com/meta-llama/llama)|Inference code for Llama models|53291|Python|2024-04-30|
-|126|[facebook/docusaurus](https://github.com/facebook/docusaurus)|Easy to maintain open source documentation websites.|53046|TypeScript|2024-05-06|
-|127|[alacritty/alacritty](https://github.com/alacritty/alacritty)|A cross-platform, OpenGL terminal emulator.|53027|Rust|2024-05-07|
-|128|[prometheus/prometheus](https://github.com/prometheus/prometheus)|The Prometheus monitoring system and time series database.|52903|Go|2024-05-07|
-|129|[localstack/localstack](https://github.com/localstack/localstack)|💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline|52259|Python|2024-05-07|
-|130|[nuxt/nuxt](https://github.com/nuxt/nuxt)|The Intuitive Vue Framework.|52129|JavaScript|2024-05-07|
-|131|[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)|Interact with your documents using the power of GPT, 100% privately, no data leaks|52004|Python|2024-05-07|
-|132|[remix-run/react-router](https://github.com/remix-run/react-router)|Declarative routing for React|51960|TypeScript|2024-05-07|
-|133|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|51885|CSS|2024-02-06|
-|134|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|51851|Python|2024-02-24|
-|135|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|51510|Python|2024-05-07|
-|136|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|51472|CSS|2024-05-07|
-|137|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|51400|Python|2024-05-07|
-|138|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|51004|JavaScript|2023-12-08|
-|139|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|50998|Python|2024-05-07|
-|140|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|50876|Python|2024-03-14|
-|141|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|50636|Python|2024-05-07|
-|142|[nektos/act](https://github.com/nektos/act)|Run your GitHub Actions locally 🚀|50495|Go|2024-05-07|
-|143|[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)|A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.|50438|TypeScript|2024-05-07|
-|144|[git/git](https://github.com/git/git)|Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat ...|50180|C|2024-05-07|
-|145|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|50072|Python|2024-04-30|
-|146|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|50005|JavaScript|2024-05-07|
-|147|[google/material-design-icons](https://github.com/google/material-design-icons)|Material Design icons by Google (Material Symbols)|49846|-|2024-05-05|
-|148|[rust-lang/rustlings](https://github.com/rust-lang/rustlings)|:crab: Small exercises to get you used to reading and writing Rust code!|49569|Rust|2024-05-05|
-|149|[google/guava](https://github.com/google/guava)|Google core libraries for Java|49439|Java|2024-05-07|
-|150|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|49329|Python|2024-04-29|
-|151|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|49302|Python|2024-04-18|
-|152|[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|49075|Dart|2024-05-07|
-|153|[OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)|A natural language interface for computers|48799|Python|2024-05-06|
-|154|[juliangarnier/anime](https://github.com/juliangarnier/anime)|JavaScript animation engine|48755|JavaScript|2024-04-27|
-|155|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|48622|CSS|2024-05-02|
-|156|[prettier/prettier](https://github.com/prettier/prettier)|Prettier is an opinionated code formatter.|48360|JavaScript|2024-05-07|
-|157|[jekyll/jekyll](https://github.com/jekyll/jekyll)|:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby|48337|Ruby|2024-05-03|
-|158|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|48248|Python|2024-05-02|
-|159|[traefik/traefik](https://github.com/traefik/traefik)|The Cloud Native Application Proxy|48104|Go|2024-05-07|
-|160|[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)|Ghidra is a software reverse engineering (SRE) framework|47852|Java|2024-05-06|
-|161|[moment/moment](https://github.com/moment/moment)|Parse, validate, manipulate, and display dates in javascript.|47802|JavaScript|2024-04-02|
-|162|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.|47762|Python|2024-05-07|
-|163|[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|47667|Java|2024-05-07|
-|164|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |47599|Kotlin|2024-05-07|
-|165|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|47246|Python|2024-05-01|
-|166|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|47235|TypeScript|2024-05-07|
-|167|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|🔮 ChatGPT Desktop Application (Mac, Windows and Linux)|47188|Rust|2024-05-06|
-|168|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|47147|Python|2024-05-05|
-|169|[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)|A black hole for Internet advertisements|46960|Shell|2024-05-04|
-|170|[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|46932|JavaScript|2024-05-07|
-|171|[sharkdp/bat](https://github.com/sharkdp/bat)|A cat(1) clone with wings.|46704|Rust|2024-05-07|
-|172|[etcd-io/etcd](https://github.com/etcd-io/etcd)|Distributed reliable key-value store for the most critical data of a distributed system|46457|Go|2024-05-07|
-|173|[mozilla/pdf.js](https://github.com/mozilla/pdf.js)|PDF Reader in JavaScript|46392|JavaScript|2024-05-07|
-|174|[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)|Go implementation of the Ethereum protocol|46256|Go|2024-05-07|
-|175|[algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|46235|JavaScript|2023-12-14|
-|176|[cypress-io/cypress](https://github.com/cypress-io/cypress)|Fast, easy and reliable testing for anything that runs in a browser.|46186|JavaScript|2024-05-07|
-|177|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.|46107|JavaScript|2024-05-06|
-|178|[golang-standards/project-layout](https://github.com/golang-standards/project-layout)|Standard Go Project Layout|46052|Makefile|2024-03-09|
-|179|[mastodon/mastodon](https://github.com/mastodon/mastodon)|Your self-hosted, globally interconnected microblogging community|46002|Ruby|2024-05-07|
-|180|[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)|simple terminal UI for git commands|45900|Go|2024-05-06|
-|181|[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|45886|Go|2024-04-18|
-|182|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|45827|JavaScript|2024-05-02|
-|183|[TryGhost/Ghost](https://github.com/TryGhost/Ghost)|Independent technology for modern publishing, memberships, subscriptions and newsletters.|45798|JavaScript|2024-05-07|
-|184|[square/okhttp](https://github.com/square/okhttp)|Square’s meticulous HTTP client for the JVM, Android, and GraalVM.|45286|Kotlin|2024-05-06|
-|185|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|45126|Rust|2024-05-02|
-|186|[marktext/marktext](https://github.com/marktext/marktext)|📝A simple and elegant markdown editor, available for Linux, macOS and Windows.|44817|JavaScript|2024-03-19|
-|187|[vuejs/core](https://github.com/vuejs/core)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|44767|TypeScript|2024-05-07|
-|188|[v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)|A platform for building proxies to bypass network restrictions.|44755|Go|2024-05-07|
-|189|[FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs)|Fuel Network Rust SDK|44613|Rust|2024-05-07|
-|190|[JuliaLang/julia](https://github.com/JuliaLang/julia)|The Julia Programming Language|44566|Julia|2024-05-07|
-|191|[FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts)|Fuel Network Typescript SDK|44563|TypeScript|2024-05-07|
-|192|[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)|The Magic Mask for Android|44416|C++|2024-05-05|
-|193|[minio/minio](https://github.com/minio/minio)|The Object Store for AI Data Infrastructure|44403|Go|2024-05-07|
-|194|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|44216|Go|2024-05-02|
-|195|[meteor/meteor](https://github.com/meteor/meteor)|Meteor, the JavaScript App Platform|44063|JavaScript|2024-05-07|
-|196|[rclone/rclone](https://github.com/rclone/rclone)|"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files|43993|Go|2024-05-07|
-|197|[wagoodman/dive](https://github.com/wagoodman/dive)|A tool for exploring each layer in a docker image|43765|Go|2024-05-02|
-|198|[jestjs/jest](https://github.com/jestjs/jest)|Delightful JavaScript Testing.|43624|TypeScript|2024-05-07|
-|199|[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)|AdminLTE - Free admin dashboard template based on Bootstrap 5|43603|JavaScript|2024-05-06|
-|200|[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)|A lightning-fast search API that fits effortlessly into your apps, websites, and workflow|43493|Rust|2024-05-07|
+|125|[meta-llama/llama](https://github.com/meta-llama/llama)|Inference code for Llama models|53317|Python|2024-04-30|
+|126|[facebook/docusaurus](https://github.com/facebook/docusaurus)|Easy to maintain open source documentation websites.|53070|TypeScript|2024-05-08|
+|127|[alacritty/alacritty](https://github.com/alacritty/alacritty)|A cross-platform, OpenGL terminal emulator.|53040|Rust|2024-05-08|
+|128|[prometheus/prometheus](https://github.com/prometheus/prometheus)|The Prometheus monitoring system and time series database.|52918|Go|2024-05-08|
+|129|[localstack/localstack](https://github.com/localstack/localstack)|💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline|52275|Python|2024-05-08|
+|130|[nuxt/nuxt](https://github.com/nuxt/nuxt)|The Intuitive Vue Framework.|52146|JavaScript|2024-05-08|
+|131|[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)|Interact with your documents using the power of GPT, 100% privately, no data leaks|52021|Python|2024-05-07|
+|132|[remix-run/react-router](https://github.com/remix-run/react-router)|Declarative routing for React|51962|TypeScript|2024-05-08|
+|133|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|51890|CSS|2024-02-06|
+|134|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|51871|Python|2024-02-24|
+|135|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|🔎 Hunt down social media accounts by username across social networks|51523|Python|2024-05-08|
+|136|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|51499|CSS|2024-05-08|
+|137|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|51405|Python|2024-05-08|
+|138|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|51009|Python|2024-05-08|
+|139|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|51001|JavaScript|2023-12-08|
+|140|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|50883|Python|2024-03-14|
+|141|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|50644|Python|2024-05-07|
+|142|[nektos/act](https://github.com/nektos/act)|Run your GitHub Actions locally 🚀|50564|Go|2024-05-07|
+|143|[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)|A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.|50446|TypeScript|2024-05-08|
+|144|[git/git](https://github.com/git/git)|Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat ...|50200|C|2024-05-08|
+|145|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|50127|Python|2024-04-30|
+|146|[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool|50058|JavaScript|2024-05-08|
+|147|[google/material-design-icons](https://github.com/google/material-design-icons)|Material Design icons by Google (Material Symbols)|49849|-|2024-05-05|
+|148|[rust-lang/rustlings](https://github.com/rust-lang/rustlings)|:crab: Small exercises to get you used to reading and writing Rust code!|49613|Rust|2024-05-08|
+|149|[google/guava](https://github.com/google/guava)|Google core libraries for Java|49441|Java|2024-05-08|
+|150|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|49343|Python|2024-04-29|
+|151|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|49305|Python|2024-04-18|
+|152|[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|49102|Dart|2024-05-08|
+|153|[OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)|A natural language interface for computers|48830|Python|2024-05-07|
+|154|[juliangarnier/anime](https://github.com/juliangarnier/anime)|JavaScript animation engine|48761|JavaScript|2024-04-27|
+|155|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|48627|CSS|2024-05-02|
+|156|[prettier/prettier](https://github.com/prettier/prettier)|Prettier is an opinionated code formatter.|48371|JavaScript|2024-05-08|
+|157|[jekyll/jekyll](https://github.com/jekyll/jekyll)|:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby|48339|Ruby|2024-05-03|
+|158|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|48280|Python|2024-05-02|
+|159|[traefik/traefik](https://github.com/traefik/traefik)|The Cloud Native Application Proxy|48142|Go|2024-05-08|
+|160|[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)|Ghidra is a software reverse engineering (SRE) framework|47877|Java|2024-05-08|
+|161|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.|47873|Python|2024-05-08|
+|162|[moment/moment](https://github.com/moment/moment)|Parse, validate, manipulate, and display dates in javascript.|47805|JavaScript|2024-04-02|
+|163|[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|47669|Java|2024-05-07|
+|164|[JetBrains/kotlin](https://github.com/JetBrains/kotlin)|The Kotlin Programming Language. |47605|Kotlin|2024-05-08|
+|165|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|47271|Python|2024-05-01|
+|166|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|🔮 ChatGPT Desktop Application (Mac, Windows and Linux)|47270|Rust|2024-05-06|
+|167|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|47244|TypeScript|2024-05-08|
+|168|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|47171|Python|2024-05-08|
+|169|[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)|A black hole for Internet advertisements|46968|Shell|2024-05-04|
+|170|[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|46965|JavaScript|2024-05-07|
+|171|[sharkdp/bat](https://github.com/sharkdp/bat)|A cat(1) clone with wings.|46721|Rust|2024-05-08|
+|172|[etcd-io/etcd](https://github.com/etcd-io/etcd)|Distributed reliable key-value store for the most critical data of a distributed system|46467|Go|2024-05-08|
+|173|[mozilla/pdf.js](https://github.com/mozilla/pdf.js)|PDF Reader in JavaScript|46395|JavaScript|2024-05-08|
+|174|[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)|Go implementation of the Ethereum protocol|46278|Go|2024-05-08|
+|175|[algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|46239|JavaScript|2023-12-14|
+|176|[cypress-io/cypress](https://github.com/cypress-io/cypress)|Fast, easy and reliable testing for anything that runs in a browser.|46196|JavaScript|2024-05-08|
+|177|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.|46106|JavaScript|2024-05-08|
+|178|[golang-standards/project-layout](https://github.com/golang-standards/project-layout)|Standard Go Project Layout|46071|Makefile|2024-03-09|
+|179|[mastodon/mastodon](https://github.com/mastodon/mastodon)|Your self-hosted, globally interconnected microblogging community|46015|Ruby|2024-05-08|
+|180|[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)|simple terminal UI for git commands|45927|Go|2024-05-07|
+|181|[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|45903|Go|2024-04-18|
+|182|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|45836|JavaScript|2024-05-08|
+|183|[TryGhost/Ghost](https://github.com/TryGhost/Ghost)|Independent technology for modern publishing, memberships, subscriptions and newsletters.|45808|JavaScript|2024-05-08|
+|184|[square/okhttp](https://github.com/square/okhttp)|Square’s meticulous HTTP client for the JVM, Android, and GraalVM.|45288|Kotlin|2024-05-06|
+|185|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|45149|Rust|2024-05-02|
+|186|[marktext/marktext](https://github.com/marktext/marktext)|📝A simple and elegant markdown editor, available for Linux, macOS and Windows.|44832|JavaScript|2024-03-19|
+|187|[vuejs/core](https://github.com/vuejs/core)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|44789|TypeScript|2024-05-08|
+|188|[v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)|A platform for building proxies to bypass network restrictions.|44758|Go|2024-05-07|
+|189|[FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs)|Fuel Network Rust SDK|44614|Rust|2024-05-08|
+|190|[JuliaLang/julia](https://github.com/JuliaLang/julia)|The Julia Programming Language|44570|Julia|2024-05-08|
+|191|[FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts)|Fuel Network Typescript SDK|44562|TypeScript|2024-05-08|
+|192|[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)|The Magic Mask for Android|44438|C++|2024-05-05|
+|193|[minio/minio](https://github.com/minio/minio)|The Object Store for AI Data Infrastructure|44419|Go|2024-05-08|
+|194|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|44218|Go|2024-05-02|
+|195|[meteor/meteor](https://github.com/meteor/meteor)|Meteor, the JavaScript App Platform|44063|JavaScript|2024-05-08|
+|196|[rclone/rclone](https://github.com/rclone/rclone)|"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files|44008|Go|2024-05-08|
+|197|[wagoodman/dive](https://github.com/wagoodman/dive)|A tool for exploring each layer in a docker image|43782|Go|2024-05-02|
+|198|[jestjs/jest](https://github.com/jestjs/jest)|Delightful JavaScript Testing.|43626|TypeScript|2024-05-08|
+|199|[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)|AdminLTE - Free admin dashboard template based on Bootstrap 5|43607|JavaScript|2024-05-06|
+|200|[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)|A lightning-fast search API that fits effortlessly into your apps, websites, and workflow|43520|Rust|2024-05-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
