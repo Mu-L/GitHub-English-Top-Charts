@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|217|2024-05-06|2024-01-19|
+|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|218|2024-05-06|2024-01-19|
 |2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|146|2024-05-05|2023-10-18|
 |3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|87|2024-04-28|2024-01-08|
 |4|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |84|2024-04-21|2024-01-24|
 |5|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|83|2024-05-08|2024-04-08|
 |6|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|83|2024-05-03|2024-02-06|
 |7|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|67|2024-04-06|2023-10-22|
-|8|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|58|2024-05-02|2023-11-24|
+|8|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|59|2024-05-02|2023-11-24|
 |9|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
 |10|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|51|2024-05-05|2024-02-19|
-|11|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|50|2024-05-06|2024-02-14|
+|11|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|50|2024-05-08|2024-02-14|
 |12|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2024-04-08|2023-09-12|
 |13|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|35|2024-04-19|2024-04-19|
 |14|[sagardhadke/LockQR](https://github.com/sagardhadke/LockQR)|LockQR: Effortless QR Code Generation, Free and Shareable|30|2024-03-15|2023-06-25|
 |15|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|29|2024-02-28|2023-12-13|
 |16|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
-|17|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|22|2024-05-08|2023-10-24|
+|17|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|22|2024-05-09|2023-10-24|
 |18|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
 |19|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-05-08|2024-02-29|
-|20|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|20|2024-05-04|2023-08-11|
+|20|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|20|2024-05-08|2023-08-11|
 |21|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
 |22|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|19|2024-04-13|2024-01-13|
 |23|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|
@@ -38,18 +38,17 @@
 |31|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-05-08|2023-10-11|
 |32|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|13|2024-03-21|2023-06-15|
 |33|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|13|2024-04-07|2023-05-31|
-|34|[sunildhiman90/JetpackComposeTutorials](https://github.com/sunildhiman90/JetpackComposeTutorials)|This is a free Jetpack Compose Course. This repo contains Jetpack Compose Tutorials. Sharing my learnings about Jetpack Compose here so that they can help others.|13|2023-11-08|2023-05-21|
-|35|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |12|2024-02-27|2024-02-26|
-|36|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
-|37|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 20 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-05-05|2023-12-29|
-|38|[Carrieukie/AGSL-Playground](https://github.com/Carrieukie/AGSL-Playground)|Android Graphics Shading Language (AGSL) is used by Android 13 and above to define the behavior of programmable RuntimeShader objects. AGSL shares much of its syntax with GLSL fragment shaders, but wo ...|10|2023-11-14|2023-11-14|
-|39|[FedCampus/FedKit](https://github.com/FedCampus/FedKit)|Mobile Federated Learning development kit for FedCampus|10|2024-02-03|2023-07-29|
-|40|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|9|2024-04-07|2024-04-07|
-|41|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|9|2023-12-25|2023-12-22|
-|42|[yasinhajilou/Compozist](https://github.com/yasinhajilou/Compozist)|Collection of tricky Compose lists |9|2023-12-17|2023-12-14|
-|43|[PraneethJain/pentagon-megathon](https://github.com/PraneethJain/pentagon-megathon)|Psyche-Screener is a tool that emulates an interview screening process|9|2024-02-25|2023-10-28|
-|44|[B1ays/ficbook-reader](https://github.com/B1ays/ficbook-reader)|Клиент для сайта ficbook.net|9|2024-04-30|2023-10-26|
-|45|[KillerDogeEmpire/Avocado-Extensions](https://github.com/KillerDogeEmpire/Avocado-Extensions)|The Only Repo For Cloudstream That Contains Audio Book|9|2024-02-18|2023-08-15|
+|34|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |12|2024-02-27|2024-02-26|
+|35|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
+|36|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 20 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-05-05|2023-12-29|
+|37|[Carrieukie/AGSL-Playground](https://github.com/Carrieukie/AGSL-Playground)|Android Graphics Shading Language (AGSL) is used by Android 13 and above to define the behavior of programmable RuntimeShader objects. AGSL shares much of its syntax with GLSL fragment shaders, but wo ...|10|2023-11-14|2023-11-14|
+|38|[FedCampus/FedKit](https://github.com/FedCampus/FedKit)|Mobile Federated Learning development kit for FedCampus|10|2024-02-03|2023-07-29|
+|39|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|9|2024-04-07|2024-04-07|
+|40|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|9|2023-12-25|2023-12-22|
+|41|[yasinhajilou/Compozist](https://github.com/yasinhajilou/Compozist)|Collection of tricky Compose lists |9|2023-12-17|2023-12-14|
+|42|[PraneethJain/pentagon-megathon](https://github.com/PraneethJain/pentagon-megathon)|Psyche-Screener is a tool that emulates an interview screening process|9|2024-02-25|2023-10-28|
+|43|[B1ays/ficbook-reader](https://github.com/B1ays/ficbook-reader)|Клиент для сайта ficbook.net|9|2024-04-30|2023-10-26|
+|44|[KillerDogeEmpire/Avocado-Extensions](https://github.com/KillerDogeEmpire/Avocado-Extensions)|The Only Repo For Cloudstream That Contains Audio Book|9|2024-02-18|2023-08-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

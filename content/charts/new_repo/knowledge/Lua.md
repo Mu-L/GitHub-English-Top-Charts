@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|548|2024-05-05|2023-09-16|
-|2|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|273|2024-05-07|2024-01-03|
-|3|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|260|2024-04-14|2023-12-29|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|549|2024-05-05|2023-09-16|
+|2|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|274|2024-05-07|2024-01-03|
+|3|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|261|2024-04-14|2023-12-29|
 |4|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|116|2024-01-18|2023-10-03|
 |5|[LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim)|A collection of intuitive, easily searchable, and ready-to-use commands.|79|2024-04-24|2023-05-28|
 |6|[LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim)|Your new bookmarks option: simple yet powerful|72|2024-04-29|2024-02-02|
@@ -17,13 +17,13 @@
 |10|[mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets)|Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets|51|2024-04-06|2023-12-03|
 |11|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|41|2024-02-07|2023-12-01|
 |12|[echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns)|Highlight patterns in text. Part of 'mini.nvim' library. |36|2024-04-22|2023-05-22|
-|13|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|31|2024-05-08|2023-12-10|
+|13|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|31|2024-05-09|2023-12-10|
 |14|[Simplified-Studios/ss-jobcenter-qb](https://github.com/Simplified-Studios/ss-jobcenter-qb)|A jobcenter with a clearn UI for QBCore|25|2024-01-22|2023-12-08|
 |15|[mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim)|My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. |24|2024-03-25|2023-05-26|
 |16|[IdreesInc/PlayBook](https://github.com/IdreesInc/PlayBook)|A cranky ebook reader for the Playdate console|23|2024-04-13|2023-10-14|
-|17|[alberttheprince/popcornrp-pets](https://github.com/alberttheprince/popcornrp-pets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|18|2024-02-24|2023-11-22|
-|18|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|18|2024-05-08|2023-07-24|
-|19|[smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim)|NvChad cheatsheet as a standalone neovim plugin|17|2024-03-12|2024-03-10|
+|17|[smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim)|NvChad cheatsheet as a standalone neovim plugin|18|2024-03-12|2024-03-10|
+|18|[alberttheprince/popcornrp-pets](https://github.com/alberttheprince/popcornrp-pets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|18|2024-02-24|2023-11-22|
+|19|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|18|2024-05-08|2023-07-24|
 |20|[adambennett/Balatro-DeckCreator](https://github.com/adambennett/Balatro-DeckCreator)|Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.|17|2024-04-20|2024-02-25|
 |21|[jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim)|A collection of nifty neovim code actions|17|2024-03-14|2024-01-18|
 |22|[0x5a4/oogway.nvim](https://github.com/0x5a4/oogway.nvim)|Be enlightened by Master Oogway! |17|2024-01-01|2023-12-29|
@@ -41,7 +41,7 @@
 |34|[dokusaido/Doku_Offroad](https://github.com/dokusaido/Doku_Offroad)|A collection of Lore Friendly Cars|13|2024-03-21|2024-03-16|
 |35|[alvarojsino813/nvim-config-guide](https://github.com/alvarojsino813/nvim-config-guide)|This is a full detailed guide for you to get to know the basics of how to configure and understand how nvim is customized.|13|2023-11-24|2023-11-23|
 |36|[paweljarosz/defold-platformer-tutorial](https://github.com/paweljarosz/defold-platformer-tutorial)|Repository following the Platformer Tutorial for Defold game engine explained in details in the video series on my Unfolding Gamedev channel.|13|2024-02-03|2023-10-13|
-|37|[JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar.nvim)|Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.|12|2024-05-08|2023-11-13|
+|37|[JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar.nvim)|Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.|12|2024-05-09|2023-11-13|
 |38|[it-scripts/it-drugs](https://github.com/it-scripts/it-drugs)|Become a master herbalist with this drug script! Ready for qb-core and esx!|11|2024-04-28|2024-04-05|
 |39|[NYXdevelopments/nyx-payphone](https://github.com/NYXdevelopments/nyx-payphone)|This is payphone script made by nyx development, compatible with almost every qb based phone ,pretty easy to use just follow the guides in README.md join our discord for more free scripts in future.|10|2024-04-24|2024-04-12|
 |40|[dmachard/lua-dnsdist-config-examples](https://github.com/dmachard/lua-dnsdist-config-examples)|Configuration examples for DNSdist PowerDNS|10|2024-02-27|2023-07-04|

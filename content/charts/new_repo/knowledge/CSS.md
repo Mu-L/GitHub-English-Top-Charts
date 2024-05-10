@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1147|2024-05-08|2023-12-11|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1155|2024-05-08|2023-12-11|
 |2|[Mohanad-Fawzy/TraidingView-Premium-Free](https://github.com/Mohanad-Fawzy/TraidingView-Premium-Free)|How to Get TradingView Premium for Free Forever   TRADINGVIEW PREMIUM FREE FOR LIFETIME|208|2024-02-22|2023-09-13|
 |3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|151|2024-04-13|2024-02-01|
 |4|[dheereshagrwal/colored-icons](https://github.com/dheereshagrwal/colored-icons)|The colored icons library is a collection of brand logos and tech stack logos. It's a handy resource to easily add brand icons to your projects without the hassle of manual attribution.|141|2024-04-29|2023-05-11|
@@ -17,7 +17,7 @@
 |10|[roberto-butti/some-drops-of-php](https://github.com/roberto-butti/some-drops-of-php)|"Some drops of PHP", this book collects some useful, unknown, underrated PHP functions discovered and learned while using PHP daily.|64|2023-12-29|2023-10-01|
 |11|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|58|2024-03-13|2023-09-20|
 |12|[apu52/METAVERSE](https://github.com/apu52/METAVERSE)|🚀 Welcome to our GitHub repository,  Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️ ...|48|2024-04-29|2023-07-11|
-|13|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|46|2024-05-02|2023-11-24|
+|13|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|46|2024-05-09|2023-11-24|
 |14|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|41|2024-01-23|2023-10-27|
 |15|[bgplab/bgplab](https://github.com/bgplab/bgplab)|Master BGP configuration with this set of virtual labs|36|2024-02-04|2023-08-03|
 |16|[DaBluLite/css-snippets](https://github.com/DaBluLite/css-snippets)|A repo with all of my Discord CSS snippets.|35|2024-05-07|2023-05-18|
@@ -28,9 +28,9 @@
 |21|[glaucia86/golang-studies](https://github.com/glaucia86/golang-studies)|A repository with intention to learn Golang|25|2023-12-27|2023-11-16|
 |22|[tjdevries/boot](https://github.com/tjdevries/boot)|boot course info for what I'm working on|24|2024-03-13|2024-02-14|
 |23|[GrahamTheDevRel/a11y-monsters](https://github.com/GrahamTheDevRel/a11y-monsters)|Monorepo for all activities related to the a11y monsters, a cohort learning accessibility.|24|2023-12-20|2023-11-25|
-|24|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|24|2024-05-08|2023-09-03|
-|25|[HashimThePassionate/django-for-absolute-beginners](https://github.com/HashimThePassionate/django-for-absolute-beginners)|Step by Step to Master Django |23|2024-04-30|2024-01-23|
-|26|[MediaSavvy/MediaSavvy_Wiki](https://github.com/MediaSavvy/MediaSavvy_Wiki)|Welcome to my website, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, sa ...|23|2024-05-03|2023-08-19|
+|24|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|24|2024-05-09|2023-09-03|
+|25|[MediaSavvy/MediaSavvy_Wiki](https://github.com/MediaSavvy/MediaSavvy_Wiki)|Welcome to my website, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, sa ...|24|2024-05-03|2023-08-19|
+|26|[HashimThePassionate/django-for-absolute-beginners](https://github.com/HashimThePassionate/django-for-absolute-beginners)|Step by Step to Master Django |23|2024-04-30|2024-01-23|
 |27|[SixArm/project-management-guide](https://github.com/SixArm/project-management-guide)|Project Management Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|23|2024-02-12|2023-06-21|
 |28|[hmxmilohax/rb3-pc](https://github.com/hmxmilohax/rb3-pc)|How to set up Rock Band 3 to run on a computer with RPCS3|22|2024-04-18|2023-08-22|
 |29|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|20|2024-03-12|2023-11-11|
@@ -49,14 +49,14 @@
 |42|[sanchi-t/Learnify](https://github.com/sanchi-t/Learnify)|Learnify is a course recommendation platform that helps users achieve their learning goals. It is an Angular and Node.js-based website that uses an AI model or data science to recommend a master cours ...|14|2024-04-26|2023-08-26|
 |43|[TOETOE55/async-rt-book](https://github.com/TOETOE55/async-rt-book)|Rust simple async runtime constructions book.|13|2024-04-14|2024-04-12|
 |44|[framer/plugins](https://github.com/framer/plugins)|A collection of example Framer Plugins.|13|2024-05-08|2024-03-05|
-|45|[extendr/user-guide](https://github.com/extendr/user-guide)|User guide for the extendr software suite: Examples, design patterns and workflows|13|2024-04-09|2024-02-24|
-|46|[SartHak-0-Sach/Bookmark-landing-page_frontend_project](https://github.com/SartHak-0-Sach/Bookmark-landing-page_frontend_project)|Welcome to Bookmark Landing Page, the gateway to an efficient bookmark manager. Seamlessly switch between devices while enjoying the optimal layout and interactive elements tailored to your screen siz ...|13|2024-03-30|2024-01-18|
-|47|[SartHak-0-Sach/Article-preview-component_frontend_project](https://github.com/SartHak-0-Sach/Article-preview-component_frontend_project)|Welcome to the Article Preview Component, a sleek card-like component for displaying article previews with social media share functionality. Enjoy a responsive layout and seamless sharing options with ...|13|2024-04-01|2024-01-18|
-|48|[merill/refined-microsoft-learn](https://github.com/merill/refined-microsoft-learn)|Chrome extension to make Microsoft Learn better. Focus on the content without distractions.|13|2024-01-01|2023-12-22|
-|49|[ippen/studydrive_downloader](https://github.com/ippen/studydrive_downloader)|Generate PDF links to download documents from Studydrive without paying Premium.|13|2024-03-06|2023-10-30|
-|50|[godot-rust/book](https://github.com/godot-rust/book)|Documentation and tutorials for gdext, the Rust bindings for Godot 4|13|2024-05-08|2023-10-09|
-|51|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|13|2024-01-30|2023-06-27|
-|52|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|12|2024-04-18|2024-03-01|
+|45|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|13|2024-04-18|2024-03-01|
+|46|[extendr/user-guide](https://github.com/extendr/user-guide)|User guide for the extendr software suite: Examples, design patterns and workflows|13|2024-04-09|2024-02-24|
+|47|[SartHak-0-Sach/Bookmark-landing-page_frontend_project](https://github.com/SartHak-0-Sach/Bookmark-landing-page_frontend_project)|Welcome to Bookmark Landing Page, the gateway to an efficient bookmark manager. Seamlessly switch between devices while enjoying the optimal layout and interactive elements tailored to your screen siz ...|13|2024-03-30|2024-01-18|
+|48|[SartHak-0-Sach/Article-preview-component_frontend_project](https://github.com/SartHak-0-Sach/Article-preview-component_frontend_project)|Welcome to the Article Preview Component, a sleek card-like component for displaying article previews with social media share functionality. Enjoy a responsive layout and seamless sharing options with ...|13|2024-04-01|2024-01-18|
+|49|[merill/refined-microsoft-learn](https://github.com/merill/refined-microsoft-learn)|Chrome extension to make Microsoft Learn better. Focus on the content without distractions.|13|2024-01-01|2023-12-22|
+|50|[ippen/studydrive_downloader](https://github.com/ippen/studydrive_downloader)|Generate PDF links to download documents from Studydrive without paying Premium.|13|2024-03-06|2023-10-30|
+|51|[godot-rust/book](https://github.com/godot-rust/book)|Documentation and tutorials for gdext, the Rust bindings for Godot 4|13|2024-05-08|2023-10-09|
+|52|[SixArm/business-lingo-guide](https://github.com/SixArm/business-lingo-guide)|Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|13|2024-01-30|2023-06-27|
 |53|[ChisomJude/Hands-on-Devops-Project](https://github.com/ChisomJude/Hands-on-Devops-Project)|This is a beginner friendly project Devops, Learn by doing |12|2024-04-04|2024-01-09|
 |54|[csharpfritz/NewInNET8](https://github.com/csharpfritz/NewInNET8)|A collection of samples showing some of the new features in .NET 8|12|2023-12-13|2023-12-13|
 |55|[3bbaas/GPA-Calculator](https://github.com/3bbaas/GPA-Calculator)|GPA Calculator for 6 courses.|12|2024-02-03|2023-11-29|
@@ -80,9 +80,9 @@
 |73|[captn3m0/tld-squatting](https://github.com/captn3m0/tld-squatting)|List of corporations squatting on entire TLDs.|9|2024-01-30|2024-01-30|
 |74|[AkashKobal/web-development](https://github.com/AkashKobal/web-development)|This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners t ...|9|2024-03-10|2024-01-22|
 |75|[ListonFermi/LFKart-ecommerce-project](https://github.com/ListonFermi/LFKart-ecommerce-project)|2024Jan,Feb: Made an e-commerce website using node js, mongodb, hbs and hosted in AWS for learning.|9|2024-02-25|2023-12-15|
-|76|[IgnaceMaes/qunit-theme-ember](https://github.com/IgnaceMaes/qunit-theme-ember)|A theme for the QUnit web UI test runner based on the Ember styleguide.|9|2023-12-09|2023-12-04|
+|76|[IgnaceMaes/qunit-theme-ember](https://github.com/IgnaceMaes/qunit-theme-ember)|A theme for the QUnit web UI test runner based on the Ember styleguide.|9|2024-05-09|2023-12-04|
 |77|[frontend-joe/react-menus](https://github.com/frontend-joe/react-menus)|Collection of menu examples built with React and CSS|9|2023-11-22|2023-11-22|
-|78|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|9|2024-05-08|2023-10-16|
+|78|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|9|2024-05-09|2023-10-16|
 |79|[vsmidhun21/portfolio](https://github.com/vsmidhun21/portfolio)|Welcome to my portfolio website, where I invite you to explore a curated collection of my work and learn more about my skills, experiences, and creative journey. This digital showcase serves as a wind ...|9|2024-02-05|2023-08-20|
 |80|[mariegrace31/bookstore](https://github.com/mariegrace31/bookstore)|The Bookstore is a website that displays a list of books, adds a book and, removes a selected book.|9|2023-12-09|2023-07-27|
 |81|[fatima-najafi/Portfolio](https://github.com/fatima-najafi/Portfolio)|This is a portfolio project that the purpose of this project is to understand how to use basic JavaScript syntax, use JavaScript to manipulate DOM elements,use JavaScript events.and also in this proje ...|9|2024-01-22|2023-06-01|
@@ -102,12 +102,11 @@
 |95|[Taiizor/Store](https://github.com/Taiizor/Store)|Store is an open-source repository where you can share your own live wallpapers for Sucrose.|7|2024-04-13|2023-07-17|
 |96|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to a social platform|6|2024-03-22|2024-02-28|
 |97|[jzohrab/lute-manual](https://github.com/jzohrab/lute-manual)|Manual for lute-v3 repo, using mdbook.|6|2024-03-15|2023-11-10|
-|98|[ViktorSvertoka/goit-advancedjs-hw-03](https://github.com/ViktorSvertoka/goit-advancedjs-hw-03)|Homework for the course JavaScript📒 ---HTTP Requests and Fetch API---|6|2023-11-08|2023-11-01|
-|99|[Sadia-Shahzadi/Home-Decor-Website](https://github.com/Sadia-Shahzadi/Home-Decor-Website)|I make Home Decor Website Design. It will be completely responsive for any devices like phone, tablet etc. This website developed by using Html and CSS. In this website we will learn flexbox, responsi ...|6|2024-03-02|2023-09-27|
-|100|[nitives/nitives.github.io](https://github.com/nitives/nitives.github.io)|A SuperList of links for almost every task on the web imaginable, helping you achieve whatever without annoying paywalls! |6|2024-01-25|2023-09-23|
-|101|[NVIDIA/grace-cpu-benchmarking-guide](https://github.com/NVIDIA/grace-cpu-benchmarking-guide)|Guides and examples to help achieve optimal performance on a NVIDIA Grace CPU|6|2024-04-26|2023-09-12|
-|102|[V0r-T3x/Fancygotchi_themes](https://github.com/V0r-T3x/Fancygotchi_themes)|This repo is to share the community themes for fancygotchi|6|2024-04-28|2023-08-30|
-|103|[mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces)|A collection of customizable and responsive interfaces built with Open Props.|6|2024-01-25|2023-06-13|
+|98|[Sadia-Shahzadi/Home-Decor-Website](https://github.com/Sadia-Shahzadi/Home-Decor-Website)|I make Home Decor Website Design. It will be completely responsive for any devices like phone, tablet etc. This website developed by using Html and CSS. In this website we will learn flexbox, responsi ...|6|2024-03-02|2023-09-27|
+|99|[nitives/nitives.github.io](https://github.com/nitives/nitives.github.io)|A SuperList of links for almost every task on the web imaginable, helping you achieve whatever without annoying paywalls! |6|2024-01-25|2023-09-23|
+|100|[NVIDIA/grace-cpu-benchmarking-guide](https://github.com/NVIDIA/grace-cpu-benchmarking-guide)|Guides and examples to help achieve optimal performance on a NVIDIA Grace CPU|6|2024-04-26|2023-09-12|
+|101|[V0r-T3x/Fancygotchi_themes](https://github.com/V0r-T3x/Fancygotchi_themes)|This repo is to share the community themes for fancygotchi|6|2024-04-28|2023-08-30|
+|102|[mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces)|A collection of customizable and responsive interfaces built with Open Props.|6|2024-01-25|2023-06-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

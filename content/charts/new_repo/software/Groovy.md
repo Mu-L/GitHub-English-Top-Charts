@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -19,7 +19,7 @@
 |12|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
 |13|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|5|2023-11-22|2023-07-18|
 |14|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|5|2024-05-08|2023-05-22|
-|15|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-08|2024-01-13|
+|15|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-09|2024-01-13|
 |16|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
 |17|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
 |18|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|4|2024-02-08|2023-09-24|
@@ -35,15 +35,15 @@
 |28|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
 |29|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|3|2024-05-01|2023-08-15|
 |30|[RobocopKlaus/hassio-addon-blocky](https://github.com/RobocopKlaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-04-29|2023-08-08|
-|31|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-08|2023-08-08|
+|31|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-09|2023-08-08|
 |32|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-04-27|2023-06-30|
 |33|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-23|2023-06-13|
-|34|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|3|2024-05-04|2023-06-10|
+|34|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|3|2024-05-09|2023-06-10|
 |35|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|2|2024-04-30|2024-04-26|
 |36|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
 |37|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
 |38|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|
-|39|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-02-08|2024-02-08|
+|39|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-05-09|2024-02-08|
 |40|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-08|2024-01-27|
 |41|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
 |42|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|

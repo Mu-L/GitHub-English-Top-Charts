@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|288|2024-04-28|2024-01-27|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|206|2024-05-06|2023-08-28|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|289|2024-04-28|2024-01-27|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|207|2024-05-06|2023-08-28|
 |3|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|46|2024-02-26|2024-01-11|
 |4|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|15|2024-05-04|2023-10-13|
 |5|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|12|2024-04-09|2024-02-09|
@@ -74,18 +74,19 @@
 |67|[AmiraliShahriary/Engineering-Mathematics-Projects](https://github.com/AmiraliShahriary/Engineering-Mathematics-Projects)|Engineering Mathematics  course  Matlab projects|3|2024-02-07|2024-02-07|
 |68|[Aalto-Electric-Drives/digital-control-power-conversion](https://github.com/Aalto-Electric-Drives/digital-control-power-conversion)|PhD Course: Advanced Control in Electrical Energy Conversion (Politecnico di Torino 2017)|3|2024-02-02|2024-02-02|
 |69|[PanchalM19/Motion-Planning-in-CSpace](https://github.com/PanchalM19/Motion-Planning-in-CSpace)|Developed and implemented motion planning algorithms in MATLAB for navigating robots in a 2-D workspace, emphasizing collision avoidance and trajectory optimization. Leveraged configuration space conc ...|3|2024-02-02|2024-02-01|
-|70|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-03-12|2024-01-10|
-|71|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
-|72|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|2023-12-05|2023-11-24|
-|73|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
-|74|[HdTgon/2023-KBS-CFSMO](https://github.com/HdTgon/2023-KBS-CFSMO)|Matlab code for the KBS 2023 paper "Multi-view unsupervised complementary feature selection with multi-order similarity learning"|3|2023-11-09|2023-11-09|
-|75|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
-|76|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
-|77|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
-|78|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
-|79|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
-|80|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
-|81|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
+|70|[Image-X-Institute/DiaphragmTracking](https://github.com/Image-X-Institute/DiaphragmTracking)|MATLAB code for real-time, direct diaphragm tracking during image-guided radiotherapy|3|2024-04-02|2024-01-21|
+|71|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-03-12|2024-01-10|
+|72|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
+|73|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|2023-12-05|2023-11-24|
+|74|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
+|75|[HdTgon/2023-KBS-CFSMO](https://github.com/HdTgon/2023-KBS-CFSMO)|Matlab code for the KBS 2023 paper "Multi-view unsupervised complementary feature selection with multi-order similarity learning"|3|2023-11-09|2023-11-09|
+|76|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
+|77|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
+|78|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
+|79|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
+|80|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
+|81|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
+|82|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
