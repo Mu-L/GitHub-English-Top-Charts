@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|214|2024-04-03|2024-01-11|
 |2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|166|2024-03-10|2023-07-30|
-|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|130|2024-05-09|2023-05-25|
-|4|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|108|2024-04-26|2024-04-08|
+|3|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|131|2024-05-10|2023-05-25|
+|4|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|124|2024-04-26|2024-04-08|
 |5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|56|2024-01-24|2024-01-23|
 |6|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|45|2024-04-03|2023-05-23|
 |7|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |8|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|35|2024-05-08|2024-02-08|
 |9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|29|2024-05-03|2024-02-17|
 |10|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
-|11|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-05-09|2024-01-08|
+|11|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-05-10|2024-01-08|
 |12|[openSUSE/slowroll-tools](https://github.com/openSUSE/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|20|2024-05-07|2023-07-11|
-|13|[formbio/FLAG](https://github.com/formbio/FLAG)|-|19|2024-04-27|2023-06-17|
+|13|[formbio/FLAG](https://github.com/formbio/FLAG)|-|19|2024-05-10|2023-06-17|
 |14|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-04-11|2023-12-20|
 |15|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-04-08|2024-02-12|
 |16|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
@@ -50,7 +50,7 @@
 |43|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|7|2024-03-29|2024-02-22|
 |44|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|7|2024-02-15|2024-02-14|
 |45|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|7|2024-03-07|2023-10-24|
-|46|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|7|2024-04-26|2023-10-24|
+|46|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|7|2024-05-10|2023-10-24|
 |47|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
 |48|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-03-03|2023-09-24|
 |49|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|6|2024-05-09|2023-12-04|
@@ -61,7 +61,7 @@
 |54|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|6|2024-04-18|2023-06-15|
 |55|[ChristfriedBalizou/homelab](https://github.com/ChristfriedBalizou/homelab)|My GitOps-managed home Kubernetes cluster|6|2024-04-21|2023-05-26|
 |56|[dsenalik/Carrot_Genome_DH1_v3](https://github.com/dsenalik/Carrot_Genome_DH1_v3)|Program versions and custom scripts used for creating the carrot genome DCv3 (PRJNA285926)|6|2024-02-06|2023-05-17|
-|57|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|5|2024-05-09|2024-04-22|
+|57|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|5|2024-05-10|2024-04-22|
 |58|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
 |59|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|5|2024-04-29|2024-02-07|
 |60|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2023-12-15|2023-12-15|
@@ -138,7 +138,7 @@
 |131|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |132|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |133|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-05-09|2023-12-09|
+|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-05-10|2023-12-09|
 |135|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |136|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
 |137|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|

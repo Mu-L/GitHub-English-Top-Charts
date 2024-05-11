@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|218|2024-05-06|2024-01-19|
-|2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|146|2024-05-05|2023-10-18|
+|2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|145|2024-05-05|2023-10-18|
 |3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|87|2024-04-28|2024-01-08|
 |4|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |84|2024-04-21|2024-01-24|
 |5|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|83|2024-05-08|2024-04-08|
 |6|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|83|2024-05-03|2024-02-06|
-|7|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|67|2024-04-06|2023-10-22|
+|7|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|66|2024-04-06|2023-10-22|
 |8|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|59|2024-05-02|2023-11-24|
 |9|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|58|2024-01-06|2023-09-25|
 |10|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|51|2024-05-05|2024-02-19|
@@ -22,9 +22,9 @@
 |15|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|29|2024-02-28|2023-12-13|
 |16|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
 |17|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|22|2024-05-09|2023-10-24|
-|18|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
-|19|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-05-08|2024-02-29|
-|20|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|20|2024-05-08|2023-08-11|
+|18|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|21|2024-05-08|2023-08-11|
+|19|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
+|20|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-05-08|2024-02-29|
 |21|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
 |22|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|19|2024-04-13|2024-01-13|
 |23|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2012|2024-04-17|2023-08-07|
-|2|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|586|2024-05-06|2023-10-07|
-|3|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|242|2024-05-01|2023-07-10|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2036|2024-04-17|2023-08-07|
+|2|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|590|2024-05-06|2023-10-07|
+|3|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|243|2024-05-01|2023-07-10|
 |4|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|140|2024-05-07|2023-11-27|
 |5|[oxylabs/stackshare-scraper](https://github.com/oxylabs/stackshare-scraper)|Stackshare Scraper API is a powerful tool designed to extract technology stack data from Stackshare.io. It simplifies data retrieval, aiding research and competitive analysis tasks.|116|2024-04-19|2023-12-18|
 |6|[Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X)|Repository for my Forge 1.20.X Tutorial Series on YouTube. Playlist link below!|94|2023-11-19|2023-06-27|
