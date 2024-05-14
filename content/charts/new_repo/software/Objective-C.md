@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2024-05-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[roothide/Bootstrap](https://github.com/roothide/Bootstrap)|A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide|1059|2024-03-21|2023-12-21|
+|1|[roothide/Bootstrap](https://github.com/roothide/Bootstrap)|A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide|1060|2024-03-21|2023-12-21|
 |2|[EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials)|Tweak to use your own reddit API credentials in Apollo|769|2023-11-23|2023-06-07|
-|3|[khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)|Run iOS app without actually installing it!|534|2024-05-01|2023-07-14|
+|3|[khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)|Run iOS app without actually installing it!|537|2024-05-01|2023-07-14|
 |4|[roothide/Developer](https://github.com/roothide/Developer)|Developer|411|2024-01-11|2023-09-14|
 |5|[BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram)|An awesome tweak for Instagram!|251|2024-03-31|2023-07-11|
-|6|[BandarHL/BHTikTok](https://github.com/BandarHL/BHTikTok)|An awesome tweak for TikTok!|231|2024-05-01|2023-07-11|
-|7|[fmyyss/XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH)|-|127|2024-02-17|2024-02-02|
-|8|[PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs)|A TrollStore application to control individual flashlight LEDs for iOS devices.|107|2024-03-30|2024-01-20|
+|6|[BandarHL/BHTikTok](https://github.com/BandarHL/BHTikTok)|An awesome tweak for TikTok!|232|2024-05-01|2023-07-11|
+|7|[fmyyss/XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH)|-|128|2024-02-17|2024-02-02|
+|8|[PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs)|A TrollStore application to control individual flashlight LEDs for iOS devices.|108|2024-03-30|2024-01-20|
 |9|[PhorionTech/Kronos](https://github.com/PhorionTech/Kronos)|Phorion Kronos is a macOS security tool designed to enhance Apple's Transparency Consent and Control (TCC) security and privacy mechanism.|65|2023-11-21|2023-10-11|
 |10|[SAP/power-monitoring-tool-for-macos](https://github.com/SAP/power-monitoring-tool-for-macos)|Power Monitor is an application that measures and reports the power consumption of a Mac.|64|2024-03-12|2023-08-22|
 |11|[udevsharold/TrollCuts](https://github.com/udevsharold/TrollCuts)|Arbitrary entitled extensions for Shortcuts|62|2024-01-20|2024-01-16|
-|12|[khanhduytran0/CAPerfHUD](https://github.com/khanhduytran0/CAPerfHUD)|Enable system-wide performance HUD for iOS 13+|59|2024-02-18|2023-05-21|
+|12|[khanhduytran0/CAPerfHUD](https://github.com/khanhduytran0/CAPerfHUD)|Enable system-wide performance HUD for iOS 13+|60|2024-02-18|2023-05-21|
 |13|[JamisonMurphy/Legion-5-Pro-Hackintosh](https://github.com/JamisonMurphy/Legion-5-Pro-Hackintosh)|-|57|2024-04-13|2023-06-17|
 |14|[thatmarcel/beepserv-rewrite](https://github.com/thatmarcel/beepserv-rewrite)|A small service that generates iMessage registration data on a jailbroken iPhone, now with an app and local state notifications|56|2024-05-09|2023-12-29|
 |15|[appmetrica/appmetrica-sdk-ios](https://github.com/appmetrica/appmetrica-sdk-ios)|AppMetrica SDK for iOS|54|2024-05-08|2023-08-23|
@@ -29,9 +29,9 @@
 |22|[Halo-Michael/NetworkController-app](https://github.com/Halo-Michael/NetworkController-app)|-|28|2023-11-30|2023-11-29|
 |23|[MatoiDev/Witcher](https://github.com/MatoiDev/Witcher)|Magical iOS App Switcher|27|2024-05-10|2024-05-03|
 |24|[codyd51/Mighty-Mitts](https://github.com/codyd51/Mighty-Mitts)|macOS menu bar applet for battery levels of ZMK split keyboards|24|2024-03-13|2024-03-11|
-|25|[MelonCTech/Meproc](https://github.com/MelonCTech/Meproc)|This is not an Objective-C project. Meproc is a cross-platform process management and supervision service written in Melang.|24|2023-12-15|2023-10-24|
-|26|[NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia)|Beautify your Volume & Brightness HUD.|24|2023-12-19|2023-10-17|
-|27|[acquitelol/flora](https://github.com/acquitelol/flora)|A tweak to customize all of your iOS colors!|23|2024-03-17|2024-01-15|
+|25|[acquitelol/flora](https://github.com/acquitelol/flora)|A tweak to customize all of your iOS colors!|24|2024-03-17|2024-01-15|
+|26|[MelonCTech/Meproc](https://github.com/MelonCTech/Meproc)|This is not an Objective-C project. Meproc is a cross-platform process management and supervision service written in Melang.|24|2023-12-15|2023-10-24|
+|27|[NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia)|Beautify your Volume & Brightness HUD.|24|2023-12-19|2023-10-17|
 |28|[lapcat/PrivateWindow](https://github.com/lapcat/PrivateWindow)|Mac apps to open URLs in a Safari private or non-private window|23|2023-12-09|2023-11-27|
 |29|[vyolit/Tweak-Archive](https://github.com/vyolit/Tweak-Archive)|An archive for some of my old and unmaintained tweaks that are worth keeping.|23|2023-12-08|2023-06-08|
 |30|[hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)|-|22|2024-02-05|2024-02-04|
@@ -54,7 +54,7 @@
 |47|[straight-tamago/macaron](https://github.com/straight-tamago/macaron)|-|14|2024-01-24|2023-05-26|
 |48|[NSEcho/cshelperenumerate](https://github.com/NSEcho/cshelperenumerate)|Enumerate running processes using com.apple.CodeSigningHelper|13|2024-03-25|2024-03-14|
 |49|[rakalex/mac-brightnessctl](https://github.com/rakalex/mac-brightnessctl)|CLI tool for controlling keyboard backlight brightness on Mac|13|2024-03-04|2024-02-27|
-|50|[google/app-check](https://github.com/google/app-check)|Google-internal core components of Firebase App Check.|13|2024-05-09|2023-07-20|
+|50|[google/app-check](https://github.com/google/app-check)|Google-internal core components of Firebase App Check.|13|2024-05-13|2023-07-20|
 |51|[jaiendev/Flutter-Beauty-Ecommerce-UI](https://github.com/jaiendev/Flutter-Beauty-Ecommerce-UI)|-|12|2023-12-11|2023-07-31|
 |52|[lyq1996/X-Monitor](https://github.com/lyq1996/X-Monitor)|X-Monitor is an open-source, extensible event monitoring tool for macOS that provides security professionals with the ability to perform process behavior auditing. |12|2024-05-01|2023-05-15|
 |53|[alfiecg24/libgrabkernel2](https://github.com/alfiecg24/libgrabkernel2)|A kernelcache grabber for iOS|11|2024-05-05|2024-03-05|
@@ -87,7 +87,7 @@
 |80|[NSEcho/launchservicesdos](https://github.com/NSEcho/launchservicesdos)|Crash launchservicesd PoC|6|2023-12-28|2023-12-28|
 |81|[shishkabibal/TypeTelepathy](https://github.com/shishkabibal/TypeTelepathy)|SIMBL plugin for Messages that displays typing chat participants in the menubar|6|2023-12-13|2023-12-13|
 |82|[chrfalch/react-native-cpp](https://github.com/chrfalch/react-native-cpp)|Simple utilities for creating C++ native modules in React Native|6|2024-01-02|2023-12-12|
-|83|[MarvellousSoft/liquidum](https://github.com/MarvellousSoft/liquidum)|An aquatic puzzle game|6|2024-05-10|2023-11-06|
+|83|[MarvellousSoft/liquidum](https://github.com/MarvellousSoft/liquidum)|An aquatic puzzle game|6|2024-05-13|2023-11-06|
 |84|[boisy/DriveWire](https://github.com/boisy/DriveWire)|The official home of DriveWire.|6|2024-04-13|2023-10-09|
 |85|[ao-space/client-ios](https://github.com/ao-space/client-ios)|The client functions as the system's frontend, granting us with access to all functionalities of the AO.space.|6|2024-02-06|2023-09-05|
 |86|[Leeksov/Leeksov-Mod-Menu-Template](https://github.com/Leeksov/Leeksov-Mod-Menu-Template)|This is a Mod Menu template for theos.|5|2024-04-07|2024-04-07|
@@ -125,86 +125,86 @@
 |118|[waynebonc/Popeyes](https://github.com/waynebonc/Popeyes)|macvdmtool wrapper in Swift|4|2024-01-25|2023-10-24|
 |119|[FlorianHubl/SwiftTor](https://github.com/FlorianHubl/SwiftTor)|A simple Tor Client with the Tor Framework.|4|2024-03-04|2023-09-23|
 |120|[Dwarven/ImpressionKit-OC](https://github.com/Dwarven/ImpressionKit-OC)|This is a library to analyze impression events for UIView in iOS (exposure of UIView).|4|2024-03-15|2023-08-06|
-|121|[duguyihou/react-native-turbo-image](https://github.com/duguyihou/react-native-turbo-image)|Performant React Native image component|4|2024-05-11|2023-07-22|
+|121|[duguyihou/react-native-turbo-image](https://github.com/duguyihou/react-native-turbo-image)|Performant React Native image component|4|2024-05-13|2023-07-22|
 |122|[circlefin/w3s-ios-sdk](https://github.com/circlefin/w3s-ios-sdk)|-|4|2024-05-10|2023-07-01|
 |123|[AgoraIO-Community/BeautyAPI](https://github.com/AgoraIO-Community/BeautyAPI)|-|4|2023-12-15|2023-06-30|
 |124|[LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC)|CVE-2024-24787 Proof of Concept|3|2024-05-10|2024-05-10|
-|125|[wrp1002/CornBar](https://github.com/wrp1002/CornBar)|-|3|2024-05-11|2024-04-27|
+|125|[wrp1002/CornBar](https://github.com/wrp1002/CornBar)|-|3|2024-05-13|2024-04-27|
 |126|[jeffssh/objc2](https://github.com/jeffssh/objc2)|C2 using the full power of NSExpressions to replace in memory dylib loading|3|2024-04-26|2024-04-22|
 |127|[thatmarcel/crunchyrold](https://github.com/thatmarcel/crunchyrold)|Jailbreak tweak that makes older versions of the Crunchyroll app work again so you can watch on iOS 14|3|2024-04-12|2024-03-26|
-|128|[HuolalaTech/hll-safetyairbag-ios](https://github.com/HuolalaTech/hll-safetyairbag-ios)|-|3|2024-03-19|2024-03-19|
-|129|[0xilis/PlayingAroundWithAppleArchive](https://github.com/0xilis/PlayingAroundWithAppleArchive)|Bad code I wrote for debugging some libAppleArchive functions|3|2024-03-18|2024-03-18|
-|130|[farc6/Obj-BF](https://github.com/farc6/Obj-BF)|brainfuck interpreter written in objc|3|2024-04-14|2024-03-15|
-|131|[SoftwareKings/ECSlidingViewController](https://github.com/SoftwareKings/ECSlidingViewController)|-|3|2024-03-14|2024-03-14|
-|132|[BrunoNFL/s8edge](https://github.com/BrunoNFL/s8edge)|Add Samsung's S8Edge curved edges and corners to iOS ;)|3|2024-03-13|2024-03-13|
-|133|[brentkao/cocos-native-ios-helper](https://github.com/brentkao/cocos-native-ios-helper)|-|3|2024-02-29|2024-02-29|
-|134|[ObscureMosquito/Skyglow-Notifications](https://github.com/ObscureMosquito/Skyglow-Notifications)|Simple and lightweight, but powerful tweak to receive notifications in your older iOS devices, from your server to any app, free and completely open source unlike apple's APNS.|3|2024-04-05|2024-02-24|
-|135|[arthurchoung/SmithersXServer](https://github.com/arthurchoung/SmithersXServer)|Simple X Server (X11)|3|2024-04-10|2024-02-24|
-|136|[AhmedIrtija/Tune-In](https://github.com/AhmedIrtija/Tune-In)|-|3|2024-03-12|2024-02-16|
-|137|[okwasniewski/SnowEmitterReactNative](https://github.com/okwasniewski/SnowEmitterReactNative)|React Native visionOS example app|3|2024-02-13|2024-02-13|
-|138|[DannyMang/payface](https://github.com/DannyMang/payface)|Spring' 24 ML Club project |3|2024-04-07|2024-02-10|
-|139|[bszyman/classic-mac-finder](https://github.com/bszyman/classic-mac-finder)|Everything you loved about navigating files on your Macintosh Performa, Quadra, LC or Power Macintosh.|3|2024-02-05|2024-02-05|
-|140|[stanma9107/expo-tappay-apple-pay](https://github.com/stanma9107/expo-tappay-apple-pay)|Integrate Tappay Apple Pay to Expo|3|2024-01-30|2024-01-30|
-|141|[Khasanli/DynamicSwiftKit](https://github.com/Khasanli/DynamicSwiftKit)|-|3|2024-02-11|2024-01-30|
-|142|[vyolit/Tweak-Template](https://github.com/vyolit/Tweak-Template)|My iOS Tweak template.|3|2024-04-27|2024-01-22|
-|143|[mustafakhafaji/deltahacks-x](https://github.com/mustafakhafaji/deltahacks-x)|An environmentally friendly google-maps alternative|3|2024-01-14|2024-01-13|
-|144|[Nem-G/API-Objc](https://github.com/Nem-G/API-Objc)|API Support IOS Jailbreak or No Jailbreak|3|2024-01-08|2024-01-07|
-|145|[MTACS/LaunchLogo](https://github.com/MTACS/LaunchLogo)|-|3|2024-01-07|2024-01-07|
-|146|[dns-inspector/dns-inspector](https://github.com/dns-inspector/dns-inspector)|Perform Advanced DNS Queries Anytime and Anywhere with DNS Inspector!|3|2024-04-24|2024-01-03|
-|147|[uakihir0/kbsky-cocoapods](https://github.com/uakihir0/kbsky-cocoapods)|Bluesky/ATProtoco library for Apple Devices with Cocoapods.|3|2024-04-12|2023-12-28|
-|148|[DonGroovy1120/react-native-health](https://github.com/DonGroovy1120/react-native-health)|react-native-health|3|2023-12-21|2023-12-21|
-|149|[gobbledegook/LargeType2](https://github.com/gobbledegook/LargeType2)|-|3|2023-11-17|2023-11-17|
-|150|[MimiHearingTechnologies/SDK-iOS-Binaries](https://github.com/MimiHearingTechnologies/SDK-iOS-Binaries)|MimiSDK frameworks for integrating with SPM & Cocoapods|3|2024-04-11|2023-11-13|
-|151|[ObscureMosquito/Wallpapery](https://github.com/ObscureMosquito/Wallpapery)|Dynamically change the wallpaper on your older macs!|3|2024-03-10|2023-10-25|
-|152|[RonFall/sber_pay](https://github.com/RonFall/sber_pay)|-|3|2024-04-22|2023-10-23|
-|153|[arthurchoung/RELISH](https://github.com/arthurchoung/RELISH)|Building a web browser that follows the Unix philosophy|3|2023-12-03|2023-10-19|
-|154|[AlauddinTheWonder/react-native-esp-smart-config](https://github.com/AlauddinTheWonder/react-native-esp-smart-config)|ESP-TOUCH protocol to seamlessly configure Wi-Fi devices connecting to a router.|3|2024-04-23|2023-10-16|
-|155|[wdesimini/TVCommanderKit](https://github.com/wdesimini/TVCommanderKit)|Client SDK for controlling Samsung Smart TVs|3|2024-05-09|2023-09-18|
-|156|[mrFunkyWisdom/auto-ident-expo](https://github.com/mrFunkyWisdom/auto-ident-expo)|-|3|2024-05-06|2023-09-17|
-|157|[AppleOSX/M413IA](https://github.com/AppleOSX/M413IA)|Fully (94%) functioned hackintosh for Asus M413IA, supported from macOS Big Sur to macOS Sonoma|3|2024-03-06|2023-09-10|
-|158|[ObscureMosquito/iTunesStoreX](https://github.com/ObscureMosquito/iTunesStoreX)|iOS Tweak that fixes the AppStore connection issues and its UI layout on older iOS versions by redirecting or overriding various dead or broken URL's, compatible with iOS 6.0-6.1.4|3|2024-04-15|2023-09-07|
-|159|[ariqRam/ankigen](https://github.com/ariqRam/ankigen)|-|3|2023-12-28|2023-08-26|
-|160|[Korea-Minecraft-Forum/CocoaInput-lib](https://github.com/Korea-Minecraft-Forum/CocoaInput-lib)|CocoaInput Native Library (Windows, macOS, X11)|3|2024-02-06|2023-08-22|
-|161|[R31GNDEV/KLS](https://github.com/R31GNDEV/KLS)|Kota Lock Screen, a free alternative of some tweaks that edit the lock screen. Aimed for iOS 13+|3|2023-12-06|2023-08-05|
-|162|[amwal-tech/amwal-ios-sdk](https://github.com/amwal-tech/amwal-ios-sdk)|Integrate Amwal’s prebuilt payment Sheet into the checkout of your iOS app with the PaymentSheet DSL friendly APIs.|3|2024-02-06|2023-07-16|
-|163|[moonpay/mobile-sdk-ios](https://github.com/moonpay/mobile-sdk-ios)|-|3|2024-04-17|2023-07-12|
-|164|[trustdecision/mobrisk-ios-sample](https://github.com/trustdecision/mobrisk-ios-sample)|An example of the development and docking of mobrisk ios.|3|2024-04-22|2023-07-05|
-|165|[ilnaw/SlideRule](https://github.com/ilnaw/SlideRule)|a simple silder ruler UI component,support CoreHaptics|2|2024-05-07|2024-05-07|
-|166|[tunde-alao/Duolingo-Clone](https://github.com/tunde-alao/Duolingo-Clone)|-|2|2024-03-29|2024-03-25|
-|167|[Netskao/AwemeCore_class-dump](https://github.com/Netskao/AwemeCore_class-dump)|AwemeCore version 29.2.0 class-dump|2|2024-03-22|2024-03-22|
-|168|[WeansHHN/Lib-Mod-Skin](https://github.com/WeansHHN/Lib-Mod-Skin)|-|2|2024-03-15|2024-03-13|
-|169|[Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh](https://github.com/Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh)|-|2|2024-04-03|2024-03-10|
-|170|[tamilselvanarjun/2-06pm](https://github.com/tamilselvanarjun/2-06pm)|-|2|2024-03-04|2024-03-04|
-|171|[lxumeng/XMMagnifier](https://github.com/lxumeng/XMMagnifier)|In iOS apps, provide a magnifying glass to zoom in on the content on the interface.|2|2024-02-26|2024-02-21|
-|172|[Adnan46/NodeMediaClient-iOS-Pods](https://github.com/Adnan46/NodeMediaClient-iOS-Pods)|2.9.8 pods of NodeMediaClient which depends on 0.2.17 of react-native-nodemediaclient.|2|2024-02-20|2024-02-20|
-|173|[luciuskwok/The-Grix](https://github.com/luciuskwok/The-Grix)|The Grix by Felt Tip & eBoy|2|2024-02-17|2024-02-17|
-|174|[dayanch96/Dopamine-2-Not-](https://github.com/dayanch96/Dopamine-2-Not-)|-|2|2024-02-16|2024-02-16|
-|175|[jc-bao/ayaneo-2021-pro-ventura](https://github.com/jc-bao/ayaneo-2021-pro-ventura)|OpenCore EFI folder for Ayaneo 2021 Pro Console. |2|2024-02-10|2024-02-05|
-|176|[SuperChaoM/iOS-batteryTool](https://github.com/SuperChaoM/iOS-batteryTool)|-|2|2024-01-17|2024-01-17|
-|177|[edaaydin/Mobil_App3](https://github.com/edaaydin/Mobil_App3)|-|2|2024-02-01|2024-01-07|
-|178|[fr3ns1s/handleCurrentCallsChangedXPC](https://github.com/fr3ns1s/handleCurrentCallsChangedXPC)|-|2|2023-12-21|2023-12-21|
-|179|[Yinjianhua472392556/rippleAnimation](https://github.com/Yinjianhua472392556/rippleAnimation)|-|2|2023-12-20|2023-12-20|
-|180|[yazdanhaider/BlinkList](https://github.com/yazdanhaider/BlinkList)|**BlinkList: A Sleek To-Do App** is a minimalist to-do app built with Flutter. It offers a sleek design, dark mode, and easy task management. Enhance productivity with a clutter-free experience. Add,  ...|2|2023-12-20|2023-12-19|
-|181|[yazdanhaider/Lostify](https://github.com/yazdanhaider/Lostify)|Lostify is your ultimate companion in recovering lost items, connecting people, and restoring peace of mind. |2|2023-12-11|2023-12-11|
-|182|[florianpircher/Glyphs-Settings-Example](https://github.com/florianpircher/Glyphs-Settings-Example)|A sample project demonstrating how to add a custom settings view to Glyphs’ app settings.|2|2023-12-01|2023-12-01|
-|183|[fredgeorge0311/Spokesman](https://github.com/fredgeorge0311/Spokesman)|This is for Bon2 Video Editor Desktop App that only can use in MacOS.|2|2023-11-27|2023-11-27|
-|184|[mistydemeo/mt32-volume](https://github.com/mistydemeo/mt32-volume)|macOS commandline utility to set the volume of a Roland MT-32|2|2023-11-28|2023-11-24|
-|185|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|2|2024-01-28|2023-11-20|
-|186|[MuhammadSufyanMalik/flutter-navigate-to-ios-view](https://github.com/MuhammadSufyanMalik/flutter-navigate-to-ios-view)|-|2|2023-11-16|2023-11-16|
-|187|[Geerafix/Zadanie4](https://github.com/Geerafix/Zadanie4)|-|2|2023-11-15|2023-11-15|
-|188|[pabl014/SM-ios-zad6](https://github.com/pabl014/SM-ios-zad6)|Programowe zasoby aplikacji. Zapewnienie umiędzynarodowienia aplikacji.|2|2024-02-14|2023-11-10|
-|189|[YanSakhnevich/EasyStackPackage](https://github.com/YanSakhnevich/EasyStackPackage)|-|2|2024-01-12|2023-11-08|
-|190|[bidapphub/bidapp-ads-ios](https://github.com/bidapphub/bidapp-ads-ios)|-|2|2024-01-10|2023-09-04|
-|191|[liusiyangiOS/LSYListViewDataSource](https://github.com/liusiyangiOS/LSYListViewDataSource)|-|2|2024-02-19|2023-08-15|
-|192|[byteplus-sdk/VideoOneSolutions](https://github.com/byteplus-sdk/VideoOneSolutions)|-|2|2024-04-23|2023-08-03|
-|193|[Wilightmoment/Selectable-Text](https://github.com/Wilightmoment/Selectable-Text)|-|2|2023-11-30|2023-07-25|
-|194|[fairmatic/fairmatic-cocoapods](https://github.com/fairmatic/fairmatic-cocoapods)|Fairmatic's public repository to access Fairmatic SDK using Cocoapods.|2|2023-12-20|2023-07-17|
-|195|[avatarsdk/metaperson-ios-sample](https://github.com/avatarsdk/metaperson-ios-sample)|-|2|2024-03-05|2023-07-14|
-|196|[sqids/sqids-objective-c](https://github.com/sqids/sqids-objective-c)|Official Objective-C port of Sqids. Generate short unique IDs from numbers.|2|2023-12-18|2023-06-24|
-|197|[Texeljoy/HTEffect_QiNiu_Live_iOS](https://github.com/Texeljoy/HTEffect_QiNiu_Live_iOS)|-|2|2024-04-23|2023-06-20|
-|198|[Texeljoy/HTEffect_Alivc_Live_iOS](https://github.com/Texeljoy/HTEffect_Alivc_Live_iOS)|-|2|2024-04-23|2023-06-20|
-|199|[TapPay/tappay-ios-t2p-sdk](https://github.com/TapPay/tappay-ios-t2p-sdk)|-|2|2023-12-27|2023-05-30|
-|200|[WuKongIM/WuKongIMiOSSDK-Framework](https://github.com/WuKongIM/WuKongIMiOSSDK-Framework)|iOS SDK for WuKongIM|2|2023-12-21|2023-05-25|
+|128|[tunde-alao/Duolingo-Clone](https://github.com/tunde-alao/Duolingo-Clone)|-|3|2024-03-29|2024-03-25|
+|129|[HuolalaTech/hll-safetyairbag-ios](https://github.com/HuolalaTech/hll-safetyairbag-ios)|-|3|2024-03-19|2024-03-19|
+|130|[0xilis/PlayingAroundWithAppleArchive](https://github.com/0xilis/PlayingAroundWithAppleArchive)|Bad code I wrote for debugging some libAppleArchive functions|3|2024-03-18|2024-03-18|
+|131|[farc6/Obj-BF](https://github.com/farc6/Obj-BF)|brainfuck interpreter written in objc|3|2024-04-14|2024-03-15|
+|132|[SoftwareKings/ECSlidingViewController](https://github.com/SoftwareKings/ECSlidingViewController)|-|3|2024-03-14|2024-03-14|
+|133|[BrunoNFL/s8edge](https://github.com/BrunoNFL/s8edge)|Add Samsung's S8Edge curved edges and corners to iOS ;)|3|2024-03-13|2024-03-13|
+|134|[brentkao/cocos-native-ios-helper](https://github.com/brentkao/cocos-native-ios-helper)|-|3|2024-02-29|2024-02-29|
+|135|[ObscureMosquito/Skyglow-Notifications](https://github.com/ObscureMosquito/Skyglow-Notifications)|Simple and lightweight, but powerful tweak to receive notifications in your older iOS devices, from your server to any app, free and completely open source unlike apple's APNS.|3|2024-04-05|2024-02-24|
+|136|[arthurchoung/SmithersXServer](https://github.com/arthurchoung/SmithersXServer)|Simple X Server (X11)|3|2024-04-10|2024-02-24|
+|137|[AhmedIrtija/Tune-In](https://github.com/AhmedIrtija/Tune-In)|-|3|2024-03-12|2024-02-16|
+|138|[okwasniewski/SnowEmitterReactNative](https://github.com/okwasniewski/SnowEmitterReactNative)|React Native visionOS example app|3|2024-02-13|2024-02-13|
+|139|[DannyMang/payface](https://github.com/DannyMang/payface)|Spring' 24 ML Club project |3|2024-04-07|2024-02-10|
+|140|[bszyman/classic-mac-finder](https://github.com/bszyman/classic-mac-finder)|Everything you loved about navigating files on your Macintosh Performa, Quadra, LC or Power Macintosh.|3|2024-02-05|2024-02-05|
+|141|[stanma9107/expo-tappay-apple-pay](https://github.com/stanma9107/expo-tappay-apple-pay)|Integrate Tappay Apple Pay to Expo|3|2024-01-30|2024-01-30|
+|142|[Khasanli/DynamicSwiftKit](https://github.com/Khasanli/DynamicSwiftKit)|-|3|2024-02-11|2024-01-30|
+|143|[vyolit/Tweak-Template](https://github.com/vyolit/Tweak-Template)|My iOS Tweak template.|3|2024-04-27|2024-01-22|
+|144|[mustafakhafaji/deltahacks-x](https://github.com/mustafakhafaji/deltahacks-x)|An environmentally friendly google-maps alternative|3|2024-01-14|2024-01-13|
+|145|[Nem-G/API-Objc](https://github.com/Nem-G/API-Objc)|API Support IOS Jailbreak or No Jailbreak|3|2024-01-08|2024-01-07|
+|146|[MTACS/LaunchLogo](https://github.com/MTACS/LaunchLogo)|-|3|2024-01-07|2024-01-07|
+|147|[dns-inspector/dns-inspector](https://github.com/dns-inspector/dns-inspector)|Perform Advanced DNS Queries Anytime and Anywhere with DNS Inspector!|3|2024-04-24|2024-01-03|
+|148|[uakihir0/kbsky-cocoapods](https://github.com/uakihir0/kbsky-cocoapods)|Bluesky/ATProtoco library for Apple Devices with Cocoapods.|3|2024-04-12|2023-12-28|
+|149|[DonGroovy1120/react-native-health](https://github.com/DonGroovy1120/react-native-health)|react-native-health|3|2023-12-21|2023-12-21|
+|150|[gobbledegook/LargeType2](https://github.com/gobbledegook/LargeType2)|-|3|2023-11-17|2023-11-17|
+|151|[MimiHearingTechnologies/SDK-iOS-Binaries](https://github.com/MimiHearingTechnologies/SDK-iOS-Binaries)|MimiSDK frameworks for integrating with SPM & Cocoapods|3|2024-04-11|2023-11-13|
+|152|[ObscureMosquito/Wallpapery](https://github.com/ObscureMosquito/Wallpapery)|Dynamically change the wallpaper on your older macs!|3|2024-03-10|2023-10-25|
+|153|[RonFall/sber_pay](https://github.com/RonFall/sber_pay)|-|3|2024-04-22|2023-10-23|
+|154|[arthurchoung/RELISH](https://github.com/arthurchoung/RELISH)|Building a web browser that follows the Unix philosophy|3|2023-12-03|2023-10-19|
+|155|[AlauddinTheWonder/react-native-esp-smart-config](https://github.com/AlauddinTheWonder/react-native-esp-smart-config)|ESP-TOUCH protocol to seamlessly configure Wi-Fi devices connecting to a router.|3|2024-04-23|2023-10-16|
+|156|[wdesimini/TVCommanderKit](https://github.com/wdesimini/TVCommanderKit)|Client SDK for controlling Samsung Smart TVs|3|2024-05-13|2023-09-18|
+|157|[mrFunkyWisdom/auto-ident-expo](https://github.com/mrFunkyWisdom/auto-ident-expo)|-|3|2024-05-06|2023-09-17|
+|158|[AppleOSX/M413IA](https://github.com/AppleOSX/M413IA)|Fully (94%) functioned hackintosh for Asus M413IA, supported from macOS Big Sur to macOS Sonoma|3|2024-03-06|2023-09-10|
+|159|[ObscureMosquito/iTunesStoreX](https://github.com/ObscureMosquito/iTunesStoreX)|iOS Tweak that fixes the AppStore connection issues and its UI layout on older iOS versions by redirecting or overriding various dead or broken URL's, compatible with iOS 6.0-6.1.4|3|2024-04-15|2023-09-07|
+|160|[ariqRam/ankigen](https://github.com/ariqRam/ankigen)|-|3|2023-12-28|2023-08-26|
+|161|[Korea-Minecraft-Forum/CocoaInput-lib](https://github.com/Korea-Minecraft-Forum/CocoaInput-lib)|CocoaInput Native Library (Windows, macOS, X11)|3|2024-02-06|2023-08-22|
+|162|[R31GNDEV/KLS](https://github.com/R31GNDEV/KLS)|Kota Lock Screen, a free alternative of some tweaks that edit the lock screen. Aimed for iOS 13+|3|2023-12-06|2023-08-05|
+|163|[amwal-tech/amwal-ios-sdk](https://github.com/amwal-tech/amwal-ios-sdk)|Integrate Amwal’s prebuilt payment Sheet into the checkout of your iOS app with the PaymentSheet DSL friendly APIs.|3|2024-02-06|2023-07-16|
+|164|[moonpay/mobile-sdk-ios](https://github.com/moonpay/mobile-sdk-ios)|-|3|2024-04-17|2023-07-12|
+|165|[trustdecision/mobrisk-ios-sample](https://github.com/trustdecision/mobrisk-ios-sample)|An example of the development and docking of mobrisk ios.|3|2024-04-22|2023-07-05|
+|166|[jevinskie/IOSurface-sandbox](https://github.com/jevinskie/IOSurface-sandbox)|Sandbox for playing around with IOSurfaces, compositing, and private CoreGraphs/CoreAnimation/SkyLight APIs|2|2024-05-09|2024-05-08|
+|167|[ilnaw/SlideRule](https://github.com/ilnaw/SlideRule)|a simple silder ruler UI component,support CoreHaptics|2|2024-05-07|2024-05-07|
+|168|[bag-xml/Calcium](https://github.com/bag-xml/Calcium)|Very flexible and consistent ChatGPT Client|2|2024-05-07|2024-04-05|
+|169|[Netskao/AwemeCore_class-dump](https://github.com/Netskao/AwemeCore_class-dump)|AwemeCore version 29.2.0 class-dump|2|2024-03-22|2024-03-22|
+|170|[WeansHHN/Lib-Mod-Skin](https://github.com/WeansHHN/Lib-Mod-Skin)|-|2|2024-03-15|2024-03-13|
+|171|[Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh](https://github.com/Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh)|-|2|2024-04-03|2024-03-10|
+|172|[tamilselvanarjun/2-06pm](https://github.com/tamilselvanarjun/2-06pm)|-|2|2024-03-04|2024-03-04|
+|173|[lxumeng/XMMagnifier](https://github.com/lxumeng/XMMagnifier)|In iOS apps, provide a magnifying glass to zoom in on the content on the interface.|2|2024-02-26|2024-02-21|
+|174|[Adnan46/NodeMediaClient-iOS-Pods](https://github.com/Adnan46/NodeMediaClient-iOS-Pods)|2.9.8 pods of NodeMediaClient which depends on 0.2.17 of react-native-nodemediaclient.|2|2024-02-20|2024-02-20|
+|175|[luciuskwok/The-Grix](https://github.com/luciuskwok/The-Grix)|The Grix by Felt Tip & eBoy|2|2024-02-17|2024-02-17|
+|176|[dayanch96/Dopamine-2-Not-](https://github.com/dayanch96/Dopamine-2-Not-)|-|2|2024-02-16|2024-02-16|
+|177|[jc-bao/ayaneo-2021-pro-ventura](https://github.com/jc-bao/ayaneo-2021-pro-ventura)|OpenCore EFI folder for Ayaneo 2021 Pro Console. |2|2024-02-10|2024-02-05|
+|178|[SuperChaoM/iOS-batteryTool](https://github.com/SuperChaoM/iOS-batteryTool)|-|2|2024-01-17|2024-01-17|
+|179|[edaaydin/Mobil_App3](https://github.com/edaaydin/Mobil_App3)|-|2|2024-02-01|2024-01-07|
+|180|[fr3ns1s/handleCurrentCallsChangedXPC](https://github.com/fr3ns1s/handleCurrentCallsChangedXPC)|-|2|2023-12-21|2023-12-21|
+|181|[Foxysome/Huawei-Matebook-D15-Hackintosh](https://github.com/Foxysome/Huawei-Matebook-D15-Hackintosh)|-|2|2024-02-14|2023-12-20|
+|182|[Yinjianhua472392556/rippleAnimation](https://github.com/Yinjianhua472392556/rippleAnimation)|-|2|2023-12-20|2023-12-20|
+|183|[yazdanhaider/BlinkList](https://github.com/yazdanhaider/BlinkList)|**BlinkList: A Sleek To-Do App** is a minimalist to-do app built with Flutter. It offers a sleek design, dark mode, and easy task management. Enhance productivity with a clutter-free experience. Add,  ...|2|2023-12-20|2023-12-19|
+|184|[yazdanhaider/Lostify](https://github.com/yazdanhaider/Lostify)|Lostify is your ultimate companion in recovering lost items, connecting people, and restoring peace of mind. |2|2023-12-11|2023-12-11|
+|185|[florianpircher/Glyphs-Settings-Example](https://github.com/florianpircher/Glyphs-Settings-Example)|A sample project demonstrating how to add a custom settings view to Glyphs’ app settings.|2|2023-12-01|2023-12-01|
+|186|[fredgeorge0311/Spokesman](https://github.com/fredgeorge0311/Spokesman)|This is for Bon2 Video Editor Desktop App that only can use in MacOS.|2|2023-11-27|2023-11-27|
+|187|[mistydemeo/mt32-volume](https://github.com/mistydemeo/mt32-volume)|macOS commandline utility to set the volume of a Roland MT-32|2|2023-11-28|2023-11-24|
+|188|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|2|2024-01-28|2023-11-20|
+|189|[MuhammadSufyanMalik/flutter-navigate-to-ios-view](https://github.com/MuhammadSufyanMalik/flutter-navigate-to-ios-view)|-|2|2023-11-16|2023-11-16|
+|190|[Geerafix/Zadanie4](https://github.com/Geerafix/Zadanie4)|-|2|2023-11-15|2023-11-15|
+|191|[spencer-edgecombe/MuseHeadbandExploration](https://github.com/spencer-edgecombe/MuseHeadbandExploration)|-|2|2023-11-19|2023-11-11|
+|192|[pabl014/SM-ios-zad6](https://github.com/pabl014/SM-ios-zad6)|Programowe zasoby aplikacji. Zapewnienie umiędzynarodowienia aplikacji.|2|2024-02-14|2023-11-10|
+|193|[YanSakhnevich/EasyStackPackage](https://github.com/YanSakhnevich/EasyStackPackage)|-|2|2024-01-12|2023-11-08|
+|194|[bidapphub/bidapp-ads-ios](https://github.com/bidapphub/bidapp-ads-ios)|-|2|2024-01-10|2023-09-04|
+|195|[liusiyangiOS/LSYListViewDataSource](https://github.com/liusiyangiOS/LSYListViewDataSource)|-|2|2024-02-19|2023-08-15|
+|196|[byteplus-sdk/VideoOneSolutions](https://github.com/byteplus-sdk/VideoOneSolutions)|-|2|2024-04-23|2023-08-03|
+|197|[Wilightmoment/Selectable-Text](https://github.com/Wilightmoment/Selectable-Text)|-|2|2023-11-30|2023-07-25|
+|198|[fairmatic/fairmatic-cocoapods](https://github.com/fairmatic/fairmatic-cocoapods)|Fairmatic's public repository to access Fairmatic SDK using Cocoapods.|2|2023-12-20|2023-07-17|
+|199|[avatarsdk/metaperson-ios-sample](https://github.com/avatarsdk/metaperson-ios-sample)|-|2|2024-03-05|2023-07-14|
+|200|[sqids/sqids-objective-c](https://github.com/sqids/sqids-objective-c)|Official Objective-C port of Sqids. Generate short unique IDs from numbers.|2|2023-12-18|2023-06-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
