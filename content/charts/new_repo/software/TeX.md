@@ -1,53 +1,53 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-05-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|405|2024-05-07|2023-07-06|
-|2|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|401|2024-05-05|2023-05-16|
+|2|[OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)|OWASP Foundation Web Respository|402|2024-05-05|2023-05-16|
 |3|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |229|2024-05-13|2023-12-17|
 |4|[kikzontop/SynapseX-free](https://github.com/kikzontop/SynapseX-free)|-|206|2024-04-12|2024-03-23|
-|5|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|161|2024-01-20|2023-10-13|
+|5|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|162|2024-01-20|2023-10-13|
 |6|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|153|2024-04-08|2023-08-23|
 |7|[cvpr-org/author-kit](https://github.com/cvpr-org/author-kit)|-|147|2024-03-04|2023-05-29|
 |8|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |146|2024-02-17|2024-02-17|
 |9|[mwxely/AIGS](https://github.com/mwxely/AIGS)|AI-Generated Images as Data Source: The Dawn of Synthetic Era|136|2023-12-08|2023-07-05|
 |10|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|101|2024-05-13|2023-11-19|
-|11|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|78|2024-04-16|2023-08-10|
+|11|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|77|2024-04-16|2023-08-10|
 |12|[universvm/obsidian-pandoc-templates](https://github.com/universvm/obsidian-pandoc-templates)|A repository for pandoc templates. Geared for Obsidian.|72|2024-02-10|2023-06-11|
 |13|[eellak/glossAPI](https://github.com/eellak/glossAPI)|Ground work for a Greek Open Source LLM -- Εργασίες θεμελίωσης ενός Ελληνικού LLM Ανοιχτού Κώδικα|71|2024-01-23|2023-06-28|
 |14|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|70|2024-04-23|2024-02-29|
-|15|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|66|2024-05-13|2023-11-20|
+|15|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|66|2024-05-14|2023-11-20|
 |16|[jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github)|-|60|2024-04-26|2024-04-26|
-|17|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|57|2024-05-13|2023-10-12|
+|17|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|58|2024-05-13|2023-10-12|
 |18|[sysprog21/concurrency-primer](https://github.com/sysprog21/concurrency-primer)|Concurrency Primer|53|2024-05-06|2024-04-01|
 |19|[gaoxiang12/slam-in-ad-en](https://github.com/gaoxiang12/slam-in-ad-en)|English version of slam in autunomous driving|53|2024-04-07|2024-03-13|
 |20|[peterdsharpe/NeuralFoil](https://github.com/peterdsharpe/NeuralFoil)|NeuralFoil is an airfoil aerodynamics analysis tool using physics-informed machine learning, in pure Python/NumPy.|52|2024-03-12|2023-07-02|
-|21|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|51|2024-05-13|2024-04-17|
+|21|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|51|2024-05-14|2024-04-17|
 |22|[synlp/RRG-Review](https://github.com/synlp/RRG-Review)|The official GitHub repository of the survey paper "A Systematic Review of Deep Learning-based Research on Radiology Report Generation".|48|2024-02-29|2023-11-23|
 |23|[Slyces/resume](https://github.com/Slyces/resume)|Latex one page resume based on posquit0/Awesome-CV|48|2023-12-23|2023-06-22|
 |24|[lucillablessing/thebestwaytocount](https://github.com/lucillablessing/thebestwaytocount)|script, footnotes, and other TeX files for the video essay "the best way to count"|46|2023-12-15|2023-11-25|
-|25|[thorfdbg/rkrm-dos](https://github.com/thorfdbg/rkrm-dos)|An RKRM-style reference of AmigaDOS/dos.library|45|2024-05-13|2023-08-13|
+|25|[thorfdbg/rkrm-dos](https://github.com/thorfdbg/rkrm-dos)|An RKRM-style reference of AmigaDOS/dos.library|46|2024-05-14|2023-08-13|
 |26|[FrogGuaGuaGua/HighSchoolMathematics](https://github.com/FrogGuaGuaGua/HighSchoolMathematics)|High school mathematics.|44|2024-05-01|2024-03-29|
 |27|[secureum/Secureum-Book](https://github.com/secureum/Secureum-Book)|-|44|2023-12-08|2023-11-13|
 |28|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|44|2024-01-04|2023-10-03|
-|29|[eccv24/paper-template](https://github.com/eccv24/paper-template)|ECCV 2024 paper template|43|2024-02-11|2023-11-24|
-|30|[stanfordio/TeachingTrustSafety](https://github.com/stanfordio/TeachingTrustSafety)|Trust and Safety Teaching Consortium|43|2024-03-21|2023-05-20|
+|29|[stanfordio/TeachingTrustSafety](https://github.com/stanfordio/TeachingTrustSafety)|Trust and Safety Teaching Consortium|44|2024-03-21|2023-05-20|
+|30|[eccv24/paper-template](https://github.com/eccv24/paper-template)|ECCV 2024 paper template|43|2024-02-11|2023-11-24|
 |31|[Project-DARC/DARC-whitepaper](https://github.com/Project-DARC/DARC-whitepaper)|-|41|2024-03-14|2023-12-05|
 |32|[matcom/dm](https://github.com/matcom/dm)|Notas de conferencias, ejercicios, y exámenes, de las asignaturas Matemática Discreta I y II|41|2024-04-30|2023-09-10|
 |33|[hyperlocal-manufacturing/towers](https://github.com/hyperlocal-manufacturing/towers)|Miniature, modular, indoor, hydroponic grow towers for home|40|2024-03-03|2023-11-25|
 |34|[ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop)|A latex template for writing statement-of-purpose for many schools at the same time|40|2023-12-11|2023-10-28|
 |35|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|38|2024-01-02|2024-01-01|
-|36|[stettberger/notebook](https://github.com/stettberger/notebook)|-|37|2024-04-26|2024-02-26|
-|37|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|36|2024-04-02|2024-04-01|
-|38|[luckyfan-cs/Template-of-HKUST-GZ-Thesis](https://github.com/luckyfan-cs/Template-of-HKUST-GZ-Thesis)|-|33|2023-12-19|2023-12-19|
-|39|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Easy to follow and easier to customize. |33|2024-05-13|2023-10-26|
-|40|[llms-heart-mir/tutorial](https://github.com/llms-heart-mir/tutorial)|-|30|2024-05-06|2024-04-27|
-|41|[ValeriiZhyla/cv](https://github.com/ValeriiZhyla/cv)|-|30|2024-02-25|2024-02-11|
-|42|[jdingel/econ6905](https://github.com/jdingel/econ6905)|Econ 6905 "Topics in Trade" PhD class at Columbia University|30|2023-11-30|2023-08-10|
-|43|[hash-based-snargs-book/hash-based-snargs-book](https://github.com/hash-based-snargs-book/hash-based-snargs-book)|Source code for "Building Cryptographic Proofs from Hash Functions"|30|2024-05-13|2023-06-30|
+|36|[hash-based-snargs-book/hash-based-snargs-book](https://github.com/hash-based-snargs-book/hash-based-snargs-book)|Source code for "Building Cryptographic Proofs from Hash Functions"|38|2024-05-13|2023-06-30|
+|37|[stettberger/notebook](https://github.com/stettberger/notebook)|-|37|2024-04-26|2024-02-26|
+|38|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|36|2024-04-02|2024-04-01|
+|39|[luckyfan-cs/Template-of-HKUST-GZ-Thesis](https://github.com/luckyfan-cs/Template-of-HKUST-GZ-Thesis)|-|34|2023-12-19|2023-12-19|
+|40|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Easy to follow and easier to customize. |33|2024-05-14|2023-10-26|
+|41|[llms-heart-mir/tutorial](https://github.com/llms-heart-mir/tutorial)|-|30|2024-05-06|2024-04-27|
+|42|[ValeriiZhyla/cv](https://github.com/ValeriiZhyla/cv)|-|30|2024-02-25|2024-02-11|
+|43|[jdingel/econ6905](https://github.com/jdingel/econ6905)|Econ 6905 "Topics in Trade" PhD class at Columbia University|30|2023-11-30|2023-08-10|
 |44|[CognitiveCodes/NeuralGPT](https://github.com/CognitiveCodes/NeuralGPT)|Personalized all-purpose AI assistance platform based on hierarchical cooperative multi-agent framework which utilizes websocket connectivity for LLM<->LLM communication|29|2024-02-18|2023-05-23|
 |45|[briland/LLM-security-and-privacy](https://github.com/briland/LLM-security-and-privacy)|LLM security and privacy|27|2024-04-15|2023-08-30|
 |46|[riskframe/ai-rmm](https://github.com/riskframe/ai-rmm)|AI Resilience Maturity Model|26|2024-05-13|2024-02-05|
@@ -58,13 +58,13 @@
 |51|[Mixtape-Sessions/Design-Based-Inference](https://github.com/Mixtape-Sessions/Design-Based-Inference)|Design-Based Inference Mixtape Session taught by Peter Hull|24|2024-04-27|2023-07-22|
 |52|[gregorycoppola/bayes-star](https://github.com/gregorycoppola/bayes-star)|Implementation|23|2024-02-22|2023-12-12|
 |53|[zhikh23/iu7-lectures](https://github.com/zhikh23/iu7-lectures)|Конспекты лекций 1-го курса 2023 года МГТУ им. Н.Э.Баумана ИУ7 "Программная инженерия"|23|2024-04-05|2023-10-01|
-|54|[catppuccin/latex](https://github.com/catppuccin/latex)|✨ Soothing pastel theme for LaTeX|21|2024-02-16|2024-02-14|
+|54|[catppuccin/latex](https://github.com/catppuccin/latex)|✨ Soothing pastel theme for LaTeX|22|2024-02-16|2024-02-14|
 |55|[ionathanch/parapoly](https://github.com/ionathanch/parapoly)|A LaTeX-typeset reproduction of Reynolds' "Types, Abstraction and Parametric Polymorphism"|20|2024-05-09|2024-04-09|
 |56|[sapienzastudentsnetwork/algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324)|[A/L] Algebra [A.A. 2023-2024] Forum di scambio e confronto di soluzioni agli esercizi assegnati dal prof. Paolo Piazza |20|2024-01-11|2023-10-06|
 |57|[shd/logic2023a](https://github.com/shd/logic2023a)|-|19|2024-03-14|2023-09-02|
 |58|[xmweijh/ESWA_tools](https://github.com/xmweijh/ESWA_tools)|-|19|2024-03-17|2023-07-04|
 |59|[sondt1337/Distributed-Computing](https://github.com/sondt1337/Distributed-Computing)|Distributed Computing Interaction Framework: Optimizing the algorithm with the Server-Worker model|18|2024-03-12|2024-01-14|
-|60|[Rafisto/uni](https://github.com/Rafisto/uni)|Notes on Algorythmic Computer Science - Wroclaw University of Science and Technology - Informatyka Algorytmiczna - Politechnika Wrocławska|18|2024-05-13|2023-10-11|
+|60|[Rafisto/uni](https://github.com/Rafisto/uni)|Notes on Algorythmic Computer Science - Wroclaw University of Science and Technology - Informatyka Algorytmiczna - Politechnika Wrocławska|18|2024-05-14|2023-10-11|
 |61|[BIMSBbioinfo/swineherd](https://github.com/BIMSBbioinfo/swineherd)|Let the Shepherd herd Guix System containers|18|2023-12-23|2023-09-06|
 |62|[EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU](https://github.com/EmptyBlueBox/Introduction_to_Computer_Vision-wh-2024Spring-PKU)|I love CV.|17|2024-05-11|2024-03-15|
 |63|[HarrisonGrodin/ATPL24](https://github.com/HarrisonGrodin/ATPL24)|Notes for Advanced Topics in Foundations of Programming Languages (Spring 2024)|17|2024-05-10|2024-01-23|
@@ -82,13 +82,13 @@
 |75|[ChristofferDahlen/Pathfinder-Cheatsheet](https://github.com/ChristofferDahlen/Pathfinder-Cheatsheet)|-|15|2024-04-06|2024-02-22|
 |76|[biomedia-mira/demystifying-diffusion](https://github.com/biomedia-mira/demystifying-diffusion)|-|15|2024-01-15|2024-01-11|
 |77|[meta-prompting/meta-prompting](https://github.com/meta-prompting/meta-prompting)|Official implementation of paper "Meta Prompting for AGI Systems" (https://arxiv.org/abs/2311.11482)|15|2024-02-01|2023-11-19|
-|78|[luatexja/luatexja](https://github.com/luatexja/luatexja)|The LuaTeX-ja package|14|2024-05-05|2023-12-27|
+|78|[luatexja/luatexja](https://github.com/luatexja/luatexja)|The LuaTeX-ja package|14|2024-05-14|2023-12-27|
 |79|[Alireza-Jahanbakhshi/LaTeX-Resume-Template](https://github.com/Alireza-Jahanbakhshi/LaTeX-Resume-Template)|This LaTeX template is specifically crafted for novice users who wish to effortlessly create their own resumes.|14|2023-12-05|2023-11-10|
 |80|[quarto-ext/manuscript-template-rstudio](https://github.com/quarto-ext/manuscript-template-rstudio)|-|14|2024-02-23|2023-09-26|
 |81|[blackapple113/H-BRS-Thesisvorlage](https://github.com/blackapple113/H-BRS-Thesisvorlage)|-|14|2024-03-27|2023-08-25|
 |82|[oveeernight/awesome-math-notes](https://github.com/oveeernight/awesome-math-notes)|-|14|2024-02-18|2023-08-18|
 |83|[poligenius/LaTeX_resume](https://github.com/poligenius/LaTeX_resume)|Here the LaTeX code of my personal resume, you can use it to build your own cv.|14|2023-12-12|2023-07-25|
-|84|[DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1](https://github.com/DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1)|-|13|2024-05-12|2024-02-23|
+|84|[DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1](https://github.com/DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1)|-|13|2024-05-13|2024-02-23|
 |85|[ro-smtz/ars_mathematica.io](https://github.com/ro-smtz/ars_mathematica.io)|This is the official repository of the Ars Mathematica Project|13|2024-04-19|2024-01-02|
 |86|[LaurenceA/EMAT31530](https://github.com/LaurenceA/EMAT31530)|Introduction to AI|13|2024-02-19|2023-09-15|
 |87|[1363033313/Second-year-up](https://github.com/1363033313/Second-year-up)|-|13|2023-11-21|2023-09-02|
@@ -107,17 +107,17 @@
 |100|[trusthlt/nlp-with-deep-learning-lectures](https://github.com/trusthlt/nlp-with-deep-learning-lectures)|Natural Langauge Processing with Deep Learning - Lectures and exercises|11|2023-12-14|2023-09-29|
 |101|[ramiromagno/wiley-njd](https://github.com/ramiromagno/wiley-njd)|Wiley's New Journal Design (NJD) Latex Authoring Template|11|2024-02-21|2023-07-17|
 |102|[pigworker/MS4P](https://github.com/pigworker/MS4P)|being some thoughts about introductory mathematics for computer science|10|2024-05-09|2024-05-08|
-|103|[Eryc123Y/Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science)|A math resource for CS student|10|2024-05-10|2024-01-05|
-|104|[waxative/Bulk-Downloader](https://github.com/waxative/Bulk-Downloader)|Bulk Download Files (works on most websites)|10|2023-12-11|2023-12-11|
-|105|[eccv24/rebuttal-template](https://github.com/eccv24/rebuttal-template)|ECCV 2024 rebuttal template|10|2024-05-09|2023-12-08|
-|106|[kymatio/ismir23-tutorial](https://github.com/kymatio/ismir23-tutorial)|Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing|10|2023-11-16|2023-11-04|
-|107|[xiamyphys/notebeamer](https://github.com/xiamyphys/notebeamer)|A note template imitated from Goodnotes APP (made by LaTeX).|10|2024-05-06|2023-10-22|
-|108|[ImanRHT/QECO_IEEEJournal](https://github.com/ImanRHT/QECO_IEEEJournal)|QOCO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing|10|2024-03-26|2023-09-27|
-|109|[ShawnWx2019/emmax-pipeline](https://github.com/ShawnWx2019/emmax-pipeline)|GWAS analysis process based on EMMAX software|10|2023-12-12|2023-05-31|
-|110|[vgnshiyer/ASU-sparkysundevil-resume-template](https://github.com/vgnshiyer/ASU-sparkysundevil-resume-template)|ASU-sparkysundevil-resume-template|10|2024-04-18|2023-05-27|
-|111|[30350n/spark-inducer](https://github.com/30350n/spark-inducer)|Eurorack module development kit|10|2024-01-19|2023-05-24|
-|112|[tlersa/TS-OSINT](https://github.com/tlersa/TS-OSINT)|أداة (استخبارات المصادر المفتوحة-OSINT (Open-Source Intelligence |9|2024-05-04|2024-04-09|
-|113|[Novartis/bamdd](https://github.com/Novartis/bamdd)|Applied modelling in drug development: flexible Bayesian regression modelling in Stan via brms|9|2024-04-26|2024-03-27|
+|103|[Novartis/bamdd](https://github.com/Novartis/bamdd)|Applied modelling in drug development: flexible Bayesian regression modelling in Stan via brms|10|2024-04-26|2024-03-27|
+|104|[Eryc123Y/Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science)|A math resource for CS student|10|2024-05-10|2024-01-05|
+|105|[waxative/Bulk-Downloader](https://github.com/waxative/Bulk-Downloader)|Bulk Download Files (works on most websites)|10|2023-12-11|2023-12-11|
+|106|[eccv24/rebuttal-template](https://github.com/eccv24/rebuttal-template)|ECCV 2024 rebuttal template|10|2024-05-09|2023-12-08|
+|107|[kymatio/ismir23-tutorial](https://github.com/kymatio/ismir23-tutorial)|Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing|10|2023-11-16|2023-11-04|
+|108|[xiamyphys/notebeamer](https://github.com/xiamyphys/notebeamer)|A note template imitated from Goodnotes APP (made by LaTeX).|10|2024-05-06|2023-10-22|
+|109|[ImanRHT/QECO_IEEEJournal](https://github.com/ImanRHT/QECO_IEEEJournal)|QOCO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing|10|2024-03-26|2023-09-27|
+|110|[ShawnWx2019/emmax-pipeline](https://github.com/ShawnWx2019/emmax-pipeline)|GWAS analysis process based on EMMAX software|10|2023-12-12|2023-05-31|
+|111|[vgnshiyer/ASU-sparkysundevil-resume-template](https://github.com/vgnshiyer/ASU-sparkysundevil-resume-template)|ASU-sparkysundevil-resume-template|10|2024-04-18|2023-05-27|
+|112|[30350n/spark-inducer](https://github.com/30350n/spark-inducer)|Eurorack module development kit|10|2024-01-19|2023-05-24|
+|113|[tlersa/TS-OSINT](https://github.com/tlersa/TS-OSINT)|أداة (استخبارات المصادر المفتوحة-OSINT (Open-Source Intelligence |9|2024-05-04|2024-04-09|
 |114|[yijizhao/BJTU-Thesis-Latex](https://github.com/yijizhao/BJTU-Thesis-Latex)|-|9|2024-04-19|2024-03-24|
 |115|[jzarnett/mte241](https://github.com/jzarnett/mte241)|MTE 241: Introduction to Computer Structures & Real-Time Systems|9|2024-05-09|2024-03-02|
 |116|[lisyarus/raytracing-course-slides](https://github.com/lisyarus/raytracing-course-slides)|-|9|2024-04-30|2024-02-12|
@@ -136,7 +136,7 @@
 |129|[data-analytics-cs7ds1/using-copula-in-analysis-of-competing-risks](https://github.com/data-analytics-cs7ds1/using-copula-in-analysis-of-competing-risks)|A group project in partial fulfillment of CS7DS1 2023/24 at Trinity College Dublin.|8|2024-01-18|2024-01-18|
 |130|[hunsa/sc24-repro](https://github.com/hunsa/sc24-repro)|-|8|2024-04-23|2023-12-19|
 |131|[sut-compiler/Materials](https://github.com/sut-compiler/Materials)|-|8|2024-05-06|2023-12-06|
-|132|[TommasoFerrario18/Appunti](https://github.com/TommasoFerrario18/Appunti)|Appunti laurea magistrale UniMib|8|2024-05-13|2023-12-06|
+|132|[TommasoFerrario18/Appunti](https://github.com/TommasoFerrario18/Appunti)|Appunti laurea magistrale UniMib|8|2024-05-14|2023-12-06|
 |133|[NamaSwimming/sugiura_kaiseki_kaitou](https://github.com/NamaSwimming/sugiura_kaiseki_kaitou)|-|8|2024-05-09|2023-11-22|
 |134|[matveycodes/bmstu-modeling-notes](https://github.com/matveycodes/bmstu-modeling-notes)|Конспект лекций по курсу «Моделирование» (ИУ7, 7 семестр, 2023 г.)|8|2024-01-21|2023-11-21|
 |135|[uvadlc/uvadlc_practicals_2023](https://github.com/uvadlc/uvadlc_practicals_2023)|-|8|2023-12-17|2023-10-25|
@@ -153,38 +153,38 @@
 |146|[Compiler-CampusMinden/CB-Vorlesung-Master](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Master)|Lecture "Concepts of Programming Languages" (M.Sc.)|8|2024-05-02|2023-06-29|
 |147|[lfoppiano/PhD-Thesis](https://github.com/lfoppiano/PhD-Thesis)|PhD Dissertation "Automated Extraction and Curation of Materials Information from Scientific Literature"|8|2024-02-20|2023-05-19|
 |148|[liantze/beamerthemeMirage](https://github.com/liantze/beamerthemeMirage)|A beamer theme inspired by the "Mirage" song poster|7|2024-04-18|2024-04-14|
-|149|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|7|2024-05-10|2024-04-13|
+|149|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|7|2024-05-14|2024-04-13|
 |150|[kogby/LaTeX_Workshop](https://github.com/kogby/LaTeX_Workshop)|Latex Workshop (2024 Spring): More than 140 students enrolled.|7|2024-03-28|2024-03-28|
-|151|[leo-maxwell/Statistics_Complex](https://github.com/leo-maxwell/Statistics_Complex)|Maxwell's approach to organize classical statistics knowledge and method.|7|2024-03-29|2024-02-10|
-|152|[joseareia/ipleiria-thesis](https://github.com/joseareia/ipleiria-thesis)|A LaTeX template designed for theses, dissertations, and project reports tailored to students at the Polytechnic University of Leiria.|7|2024-04-27|2024-02-03|
-|153|[54dbd/Bibtex-to-GBT7714-2015](https://github.com/54dbd/Bibtex-to-GBT7714-2015)|[Bib2GB]Converting bibtex file to GB/T 7714-2015 format.Bib文件转国标7714|7|2024-01-16|2024-01-16|
-|154|[ViviNeuro/PhDThesis-Latex-Template](https://github.com/ViviNeuro/PhDThesis-Latex-Template)|LaTeX template for PhD theses|7|2024-01-13|2024-01-12|
-|155|[Urbit-Systems-Technical-Journal/USTJ-Template](https://github.com/Urbit-Systems-Technical-Journal/USTJ-Template)|Template for USTJ LaTeX submissions.|7|2024-04-30|2024-01-11|
-|156|[FButros/pyioslocationsimulator](https://github.com/FButros/pyioslocationsimulator)|A Python script and executable for simulating the GPS location of an iOS 17 device connected to your computer using pymobiledevice3. Provides a user-friendly GUI to set longitude and latitude coordina ...|7|2024-01-10|2024-01-09|
-|157|[fromtimeimportsleep/Sem4](https://github.com/fromtimeimportsleep/Sem4)|Fill this form if you want to be added as a collaborator: https://forms.gle/izyH27vehCq7jom48|7|2024-04-28|2023-12-20|
-|158|[enunun/introductiontomathmaticallogic](https://github.com/enunun/introductiontomathmaticallogic)|-|7|2024-04-15|2023-12-08|
-|159|[i80287/Calculus-HSE-SE](https://github.com/i80287/Calculus-HSE-SE)|This repository contains materials from calculus lectures for the 2023-2024 academic years (lecturer Ivan Erlikh)|7|2024-05-09|2023-12-04|
-|160|[dainbow/OptCal](https://github.com/dainbow/OptCal)|-|7|2023-12-07|2023-12-03|
-|161|[TobyYang7/cuhksz_report_template](https://github.com/TobyYang7/cuhksz_report_template)|-|7|2024-01-28|2023-10-22|
-|162|[Learning-Robotics/reinforcement-learning-for-legged-robots](https://github.com/Learning-Robotics/reinforcement-learning-for-legged-robots)|Introduction to reinforcement learning in legged robotics|7|2024-05-09|2023-10-16|
-|163|[SimplicialCat/topos](https://github.com/SimplicialCat/topos)|notes on topos theory (Chinese)|7|2024-04-28|2023-10-05|
-|164|[filipecancio/sbc-template](https://github.com/filipecancio/sbc-template)|-|7|2024-03-26|2023-10-05|
-|165|[quarto-ext/manuscript-template-vscode](https://github.com/quarto-ext/manuscript-template-vscode)|-|7|2024-02-23|2023-09-26|
-|166|[BachiLi/balboa_public](https://github.com/BachiLi/balboa_public)|-|7|2023-12-08|2023-09-26|
-|167|[lTheon/iTheon-New-Tasks-Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon)|-|7|2024-02-25|2023-09-24|
-|168|[alessiogj/master-degree-computer-science](https://github.com/alessiogj/master-degree-computer-science)|-|7|2024-01-21|2023-09-09|
-|169|[SecAI-Lab/SWE3028-Fall-2023](https://github.com/SecAI-Lab/SWE3028-Fall-2023)|[SWE3028] Capstone Design Project for Fall 2023|7|2023-12-15|2023-09-04|
-|170|[Han8931/deep_statistical_learning](https://github.com/Han8931/deep_statistical_learning)|-|7|2024-05-06|2023-08-04|
-|171|[fromtimeimportsleep/Notes](https://github.com/fromtimeimportsleep/Notes)|-|7|2024-04-04|2023-08-02|
-|172|[ThomasGesseyJones/FullyBayesianForecastsExample](https://github.com/ThomasGesseyJones/FullyBayesianForecastsExample)|Example of a fully Bayesian forecast using evidence networks applied to 21-cm cosmology|7|2024-05-05|2023-07-30|
-|173|[christopherkenny/nature](https://github.com/christopherkenny/nature)|Quarto Template for Springer Nature Submissions|7|2024-04-23|2023-07-17|
-|174|[christopherkenny/apsr](https://github.com/christopherkenny/apsr)|Quarto Template for APSR Submissions|7|2023-12-17|2023-06-30|
-|175|[blcuicall/blcuthesis](https://github.com/blcuicall/blcuthesis)|LaTeX Thesis Template for Beijing Language and Culture University|7|2024-05-13|2023-05-15|
-|176|[liamrevell/Revell.AncestralReconstruction](https://github.com/liamrevell/Revell.AncestralReconstruction)|-|6|2024-04-10|2024-04-07|
-|177|[cherise215/Journal-Response-Letter-Template](https://github.com/cherise215/Journal-Response-Letter-Template)|-|6|2024-04-02|2024-04-02|
-|178|[ketchbrookanalytics/quarto-pdf-dev](https://github.com/ketchbrookanalytics/quarto-pdf-dev)|Development environment for Quarto PDF reports|6|2024-04-30|2024-03-29|
-|179|[ClConstantine/CCNU-Beamer-Theme](https://github.com/ClConstantine/CCNU-Beamer-Theme)|-|6|2024-03-18|2024-03-18|
-|180|[faicaiwawa/Response_Letter_Template](https://github.com/faicaiwawa/Response_Letter_Template)|-|6|2024-04-25|2024-03-05|
+|151|[faicaiwawa/Response_Letter_Template](https://github.com/faicaiwawa/Response_Letter_Template)|-|7|2024-04-25|2024-03-05|
+|152|[leo-maxwell/Statistics_Complex](https://github.com/leo-maxwell/Statistics_Complex)|Maxwell's approach to organize classical statistics knowledge and method.|7|2024-03-29|2024-02-10|
+|153|[joseareia/ipleiria-thesis](https://github.com/joseareia/ipleiria-thesis)|A LaTeX template designed for theses, dissertations, and project reports tailored to students at the Polytechnic University of Leiria.|7|2024-04-27|2024-02-03|
+|154|[54dbd/Bibtex-to-GBT7714-2015](https://github.com/54dbd/Bibtex-to-GBT7714-2015)|[Bib2GB]Converting bibtex file to GB/T 7714-2015 format.Bib文件转国标7714|7|2024-01-16|2024-01-16|
+|155|[ViviNeuro/PhDThesis-Latex-Template](https://github.com/ViviNeuro/PhDThesis-Latex-Template)|LaTeX template for PhD theses|7|2024-01-13|2024-01-12|
+|156|[Urbit-Systems-Technical-Journal/USTJ-Template](https://github.com/Urbit-Systems-Technical-Journal/USTJ-Template)|Template for USTJ LaTeX submissions.|7|2024-04-30|2024-01-11|
+|157|[FButros/pyioslocationsimulator](https://github.com/FButros/pyioslocationsimulator)|A Python script and executable for simulating the GPS location of an iOS 17 device connected to your computer using pymobiledevice3. Provides a user-friendly GUI to set longitude and latitude coordina ...|7|2024-01-10|2024-01-09|
+|158|[fromtimeimportsleep/Sem4](https://github.com/fromtimeimportsleep/Sem4)|Fill this form if you want to be added as a collaborator: https://forms.gle/izyH27vehCq7jom48|7|2024-04-28|2023-12-20|
+|159|[enunun/introductiontomathmaticallogic](https://github.com/enunun/introductiontomathmaticallogic)|-|7|2024-04-15|2023-12-08|
+|160|[i80287/Calculus-HSE-SE](https://github.com/i80287/Calculus-HSE-SE)|This repository contains materials from calculus lectures for the 2023-2024 academic years (lecturer Ivan Erlikh)|7|2024-05-09|2023-12-04|
+|161|[dainbow/OptCal](https://github.com/dainbow/OptCal)|-|7|2023-12-07|2023-12-03|
+|162|[TobyYang7/cuhksz_report_template](https://github.com/TobyYang7/cuhksz_report_template)|-|7|2024-01-28|2023-10-22|
+|163|[Learning-Robotics/reinforcement-learning-for-legged-robots](https://github.com/Learning-Robotics/reinforcement-learning-for-legged-robots)|Introduction to reinforcement learning in legged robotics|7|2024-05-09|2023-10-16|
+|164|[SimplicialCat/topos](https://github.com/SimplicialCat/topos)|notes on topos theory (Chinese)|7|2024-04-28|2023-10-05|
+|165|[filipecancio/sbc-template](https://github.com/filipecancio/sbc-template)|-|7|2024-03-26|2023-10-05|
+|166|[quarto-ext/manuscript-template-vscode](https://github.com/quarto-ext/manuscript-template-vscode)|-|7|2024-02-23|2023-09-26|
+|167|[BachiLi/balboa_public](https://github.com/BachiLi/balboa_public)|-|7|2023-12-08|2023-09-26|
+|168|[lTheon/iTheon-New-Tasks-Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon)|-|7|2024-02-25|2023-09-24|
+|169|[alessiogj/master-degree-computer-science](https://github.com/alessiogj/master-degree-computer-science)|-|7|2024-01-21|2023-09-09|
+|170|[SecAI-Lab/SWE3028-Fall-2023](https://github.com/SecAI-Lab/SWE3028-Fall-2023)|[SWE3028] Capstone Design Project for Fall 2023|7|2023-12-15|2023-09-04|
+|171|[parvvaresh/CV-Alireza-Parvaresh](https://github.com/parvvaresh/CV-Alireza-Parvaresh)|This repository contains multiple versions of my CV|7|2024-05-14|2023-08-28|
+|172|[Han8931/deep_statistical_learning](https://github.com/Han8931/deep_statistical_learning)|-|7|2024-05-14|2023-08-04|
+|173|[fromtimeimportsleep/Notes](https://github.com/fromtimeimportsleep/Notes)|-|7|2024-04-04|2023-08-02|
+|174|[ThomasGesseyJones/FullyBayesianForecastsExample](https://github.com/ThomasGesseyJones/FullyBayesianForecastsExample)|Example of a fully Bayesian forecast using evidence networks applied to 21-cm cosmology|7|2024-05-05|2023-07-30|
+|175|[christopherkenny/nature](https://github.com/christopherkenny/nature)|Quarto Template for Springer Nature Submissions|7|2024-04-23|2023-07-17|
+|176|[christopherkenny/apsr](https://github.com/christopherkenny/apsr)|Quarto Template for APSR Submissions|7|2023-12-17|2023-06-30|
+|177|[liamrevell/Revell.AncestralReconstruction](https://github.com/liamrevell/Revell.AncestralReconstruction)|-|6|2024-04-10|2024-04-07|
+|178|[cherise215/Journal-Response-Letter-Template](https://github.com/cherise215/Journal-Response-Letter-Template)|-|6|2024-04-02|2024-04-02|
+|179|[ketchbrookanalytics/quarto-pdf-dev](https://github.com/ketchbrookanalytics/quarto-pdf-dev)|Development environment for Quarto PDF reports|6|2024-04-30|2024-03-29|
+|180|[ClConstantine/CCNU-Beamer-Theme](https://github.com/ClConstantine/CCNU-Beamer-Theme)|-|6|2024-03-18|2024-03-18|
 |181|[JothamWong/nus-cheatsheets](https://github.com/JothamWong/nus-cheatsheets)|-|6|2024-05-01|2024-03-03|
 |182|[hugodepaula/lab-desenv-aplic-distribuidas](https://github.com/hugodepaula/lab-desenv-aplic-distribuidas)|Material da disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas do curso de Engenharia de Software|6|2024-04-24|2024-02-28|
 |183|[Ruzim/NSFDYS-application-template](https://github.com/Ruzim/NSFDYS-application-template)|A LaTeX template for writting application to National Science Fund for Distinguished Young Scholars|6|2024-02-01|2024-02-01|
