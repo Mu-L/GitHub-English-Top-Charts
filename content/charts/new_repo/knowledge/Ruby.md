@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-05-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|103|2024-03-24|2023-11-25|
-|2|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|60|2024-05-13|2024-01-19|
+|1|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|104|2024-03-24|2023-11-25|
+|2|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|61|2024-05-13|2024-01-19|
 |3|[jackyangzzh/XR-Design-Handbook](https://github.com/jackyangzzh/XR-Design-Handbook)|One-stop-shop for XR Design Guidelines 🏪|54|2024-03-15|2023-07-22|
 |4|[sublayerapp/blueprints](https://github.com/sublayerapp/blueprints)|Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you already have in your codebase. Download one of our official editor p ...|37|2024-04-30|2024-01-29|
 |5|[UoS-COM1001/com1001-2024](https://github.com/UoS-COM1001/com1001-2024)|Course materials for the Spring Semester of the COM1001 module at the University of Sheffield|20|2024-05-02|2023-10-06|
