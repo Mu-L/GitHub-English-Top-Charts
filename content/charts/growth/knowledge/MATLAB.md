@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2262|3|2024-05-15|
 |2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|293|3|2024-04-28|
 |3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|211|1|2024-05-06|
-|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1075|1|2024-05-14|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1284|1|2024-03-22|
+|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1077|1|2024-05-14|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1285|1|2024-03-22|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|15|0|2024-03-04|
 |8|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|8|0|2024-05-16|
@@ -25,7 +25,7 @@
 |18|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|17|0|2024-04-18|
 |19|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|0|2024-04-24|
 |20|[shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd](https://github.com/shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd)|Source code examples for the IEEE WCNC 2022 paper titled "Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels"|3|0|2023-12-05|
-|21|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|12|0|2024-05-17|
+|21|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|12|0|2024-05-19|
 |22|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|0|2023-12-20|
 |23|[Aketirani/active-noise-cancellation](https://github.com/Aketirani/active-noise-cancellation)|Active Noise Cancellation Using Filtered Adaptive Algorithms|19|0|2024-03-16|
 |24|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|6|0|2023-12-13|
@@ -42,7 +42,7 @@
 |35|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|4|0|2024-03-25|
 |36|[MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020](https://github.com/MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020)|Probabilistic Load Forecasting Based on Adaptive Online Learning (APLF)|53|0|2024-03-11|
 |37|[Tracesource/RCAGL](https://github.com/Tracesource/RCAGL)|[IEEE TKDE 2024] Code of "Robust and Consistent Anchor Graph Learning for Multi-view Clustering"|4|0|2024-02-28|
-|38|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|6|0|2024-04-13|
+|38|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|8|0|2024-04-13|
 |39|[Junee1992/EUA-Futures-Pricing](https://github.com/Junee1992/EUA-Futures-Pricing)|This is a repository that contains codes that were used for a Master's thesis by Jun Han (2020), submitted to Macquarie University, Australia.|3|0|2024-01-08|
 |40|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|87|0|2024-02-02|
 |41|[krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry](https://github.com/krunalmbhatt/Sliding-Mode-Control-for-Quadrotor-Sentry)|This repository contains a project completed at Worcester Polytechnic Institute for the RBE-502 Robot Control course.|5|0|2023-12-28|
@@ -80,7 +80,7 @@
 |73|[mikexcohen/AnalyzingNeuralTimeSeries](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)|Code for ANTS book (Cohen, 2012, MIT Press)|164|0|2024-03-05|
 |74|[QinwenD/An-Efficient-Hypergraph-Approach-to-Robust-Point-Cloud-Resampling](https://github.com/QinwenD/An-Efficient-Hypergraph-Approach-to-Robust-Point-Cloud-Resampling)|MATLAB programs for the 3 proposed algorithms|6|0|2024-02-03|
 |75|[hongbo-yao/MantleConductivityModels](https://github.com/hongbo-yao/MantleConductivityModels)|A collection of mantle conductivity model series and corresponding data derived from geomagnetic satellite (MSS-1, Swarm, etc.) and observatory data.|3|0|2024-04-03|
-|76|[antonio-m/FDIVP](https://github.com/antonio-m/FDIVP)|Personal repository for the homeworks of course "Fundamentals of Digital Image and Video Processing" from Coursera|51|0|2024-05-14|
+|76|[antonio-m/FDIVP](https://github.com/antonio-m/FDIVP)|Personal repository for the homeworks of course "Fundamentals of Digital Image and Video Processing" from Coursera|51|0|2024-05-19|
 |77|[MathWorks-Teaching-Resources/Calculus-Derivatives](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives)|Interactive module that introduces fundamentals of derivatives including the product and chain rule as presented in Calculus I courses|11|0|2024-05-13|
 |78|[atrisovic/weather-panel.github.io](https://github.com/atrisovic/weather-panel.github.io)|A practical guide to climate econometrics: Navigating key decision points in weather and climate data analysis.|31|0|2024-03-18|
 |79|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|75|0|2024-04-06|
@@ -141,7 +141,7 @@
 |134|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|0|2023-12-20|
 |135|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|42|0|2024-04-17|
 |136|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|13|0|2024-03-24|
-|137|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|307|0|2023-12-31|
+|137|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|308|0|2023-12-31|
 |138|[gerardllorach/audiovisualdubbedMST](https://github.com/gerardllorach/audiovisualdubbedMST)|This is a repository with guidelines and code to create visual material for Matrix Sentence Test for speech audiometry.|3|0|2023-12-13|
 |139|[Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments](https://github.com/Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments)|This resiprocity contains my assignments on the graduate level course Semiconductor Optoelectronic Devices.|3|0|2024-05-17|
 |140|[THUHoloLab/pixel-super-resolution-phase-retrieval](https://github.com/THUHoloLab/pixel-super-resolution-phase-retrieval)|Algorithms for pixel super-resolution phase retrieval|25|0|2024-02-07|
@@ -151,7 +151,7 @@
 |144|[DeepDynaSim/Active-Vibration-Control-Complete-Guide](https://github.com/DeepDynaSim/Active-Vibration-Control-Complete-Guide)|A Comprehensive Guide to Active Control Methodology for Smart Beams|5|0|2023-12-30|
 |145|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|0|2024-04-07|
 |146|[alexpiti/MLSWG](https://github.com/alexpiti/MLSWG)|Mode solver for 1D waveguides composed of arbitrary number of slabs (layers). Vector solver: TE & TM polarizations. Supports complex-valued refractive index (plasmonic modes)|6|0|2024-05-10|
-|147|[DeepMIMO/DeepMIMO-examples](https://github.com/DeepMIMO/DeepMIMO-examples)|DeepMIMO dataset examples|19|0|2024-03-23|
+|147|[DeepMIMO/DeepMIMO-examples](https://github.com/DeepMIMO/DeepMIMO-examples)|DeepMIMO dataset examples|20|0|2024-03-23|
 |148|[Tracesource/SCSL](https://github.com/Tracesource/SCSL)|[AAAI 2024] Code of "Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering"|8|0|2024-02-28|
 |149|[AliHamzeh2002/Signal-Processing-Course-Projects](https://github.com/AliHamzeh2002/Signal-Processing-Course-Projects)|This Repository contains Computer Assignments from Signal Processing Course at University of Tehran in Fall 2023.|3|0|2024-02-23|
 |150|[odedstein/gp-matlab-tutorial](https://github.com/odedstein/gp-matlab-tutorial)|A basic tutorial for geometry processing in MATLAB using gptoolbox|40|0|2024-02-12|
@@ -188,23 +188,23 @@
 |181|[andryr/spade-declipping](https://github.com/andryr/spade-declipping)|Implementation of ASPADE and SSPADE declipping algorithms|6|0|2023-12-14|
 |182|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|0|2023-12-05|
 |183|[yangtseJin/Matlab-GUI-Projects](https://github.com/yangtseJin/Matlab-GUI-Projects)|This is a project of matlab of Simple neural network, Dark image enhancement, Deep learning transfer training, Handwritten numbers recognition|4|0|2024-03-18|
-|184|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|12|0|2024-04-09|
-|185|[HuangJingGitHub/PracMakePert_m](https://github.com/HuangJingGitHub/PracMakePert_m)|Problems in robotics courses and books|3|0|2024-04-24|
-|186|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|0|2024-02-04|
-|187|[chillugurisuryatejareddy/Source-Code-for-Decode-and-Forward-Relay-Assisting-Active-Jamming-in-NOMA-system](https://github.com/chillugurisuryatejareddy/Source-Code-for-Decode-and-Forward-Relay-Assisting-Active-Jamming-in-NOMA-system)|This is source code of our Master Thesis on "Decode and Forward Relay Assisting Active Jamming in NOMA system". |7|0|2024-02-26|
-|188|[CMGreenspon/ChartsWithCharles](https://github.com/CMGreenspon/ChartsWithCharles)|A collection of analysis and plotting scripts|4|0|2024-04-10|
-|189|[benjaminbritton/AstroEBSD](https://github.com/benjaminbritton/AstroEBSD)|AstroEBSD - indexing tool for EBSD patterns|26|0|2023-11-24|
-|190|[nackjaylor/formatting_tips-tricks](https://github.com/nackjaylor/formatting_tips-tricks)|Repo constructed by tutors @ ACFR with tips and tricks for formatting of formal engineering reports and assignments. |29|0|2024-04-02|
-|191|[mengchaoheng/aircraft-control-allocation](https://github.com/mengchaoheng/aircraft-control-allocation)|The simulation of the book "Aircraft Control Allocation". https://www.wiley.com/en-us/Aircraft+Control+Allocation-p-9781118827796|9|0|2024-04-08|
-|192|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|0|2024-02-29|
-|193|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|19|0|2024-04-30|
-|194|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|47|0|2024-05-17|
-|195|[AaHaHaa/gas_UPPE](https://github.com/AaHaHaa/gas_UPPE)|This is the shared package to simulate pulse propagation in a hollow-core fiber with MM-UPPE|4|0|2024-05-17|
-|196|[CharrafiMed/optimization_algorithms](https://github.com/CharrafiMed/optimization_algorithms)|implementation of  optimization algorithms using matlab/octave |3|0|2024-04-22|
-|197|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|6|0|2023-12-22|
-|198|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|4|0|2024-03-27|
-|199|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|0|2024-03-21|
-|200|[mws262/MAE5730_examples](https://github.com/mws262/MAE5730_examples)|My examples and extra code for Andy Ruina's intermediate dynamics course.|37|0|2023-12-24|
+|184|[Abdo-Mohammed-10/Introduction-to-Computer-Vision](https://github.com/Abdo-Mohammed-10/Introduction-to-Computer-Vision)|Course With Coursera |3|0|2024-05-13|
+|185|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|12|0|2024-04-09|
+|186|[HuangJingGitHub/PracMakePert_m](https://github.com/HuangJingGitHub/PracMakePert_m)|Problems in robotics courses and books|3|0|2024-04-24|
+|187|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|0|2024-02-04|
+|188|[chillugurisuryatejareddy/Source-Code-for-Decode-and-Forward-Relay-Assisting-Active-Jamming-in-NOMA-system](https://github.com/chillugurisuryatejareddy/Source-Code-for-Decode-and-Forward-Relay-Assisting-Active-Jamming-in-NOMA-system)|This is source code of our Master Thesis on "Decode and Forward Relay Assisting Active Jamming in NOMA system". |7|0|2024-02-26|
+|189|[CMGreenspon/ChartsWithCharles](https://github.com/CMGreenspon/ChartsWithCharles)|A collection of analysis and plotting scripts|4|0|2024-04-10|
+|190|[benjaminbritton/AstroEBSD](https://github.com/benjaminbritton/AstroEBSD)|AstroEBSD - indexing tool for EBSD patterns|26|0|2023-11-24|
+|191|[nackjaylor/formatting_tips-tricks](https://github.com/nackjaylor/formatting_tips-tricks)|Repo constructed by tutors @ ACFR with tips and tricks for formatting of formal engineering reports and assignments. |29|0|2024-04-02|
+|192|[mengchaoheng/aircraft-control-allocation](https://github.com/mengchaoheng/aircraft-control-allocation)|The simulation of the book "Aircraft Control Allocation". https://www.wiley.com/en-us/Aircraft+Control+Allocation-p-9781118827796|9|0|2024-04-08|
+|193|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|0|2024-02-29|
+|194|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|19|0|2024-04-30|
+|195|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|48|0|2024-05-17|
+|196|[AaHaHaa/gas_UPPE](https://github.com/AaHaHaa/gas_UPPE)|This is the shared package to simulate pulse propagation in a hollow-core fiber with MM-UPPE|4|0|2024-05-19|
+|197|[CharrafiMed/optimization_algorithms](https://github.com/CharrafiMed/optimization_algorithms)|implementation of  optimization algorithms using matlab/octave |3|0|2024-04-22|
+|198|[edrl-purdue/ml-msto](https://github.com/edrl-purdue/ml-msto)|Machine learning-based multiscale topology optimization|6|0|2023-12-22|
+|199|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|4|0|2024-03-27|
+|200|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|0|2024-03-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

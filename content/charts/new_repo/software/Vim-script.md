@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[xero/miasma.nvim](https://github.com/xero/miasma.nvim)|a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim|165|2024-04-26|2023-06-17|
 |2|[csdvrx/CuteVim](https://github.com/csdvrx/CuteVim)|Sensible defaults for Vim|85|2024-01-21|2023-12-25|
-|3|[girishji/vimcomplete](https://github.com/girishji/vimcomplete)|Async autocompletion for Vim.|83|2024-04-28|2023-07-16|
+|3|[girishji/vimcomplete](https://github.com/girishji/vimcomplete)|Async autocompletion for Vim.|84|2024-04-28|2023-07-16|
 |4|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|55|2024-05-17|2024-01-30|
 |5|[girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim)|Autocompletion for Vim's command line.|52|2024-04-09|2023-07-11|
 |6|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|45|2024-04-29|2024-03-01|
@@ -19,8 +19,8 @@
 |12|[nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)|-|26|2024-01-28|2024-01-11|
 |13|[chtenb/helix.vim](https://github.com/chtenb/helix.vim)|Emulate Helix keybindings inside Vim emulators|26|2024-05-01|2023-10-03|
 |14|[fathulfahmy/dotfiles-wsl](https://github.com/fathulfahmy/dotfiles-wsl)|🪟 Windows development setup with WSL2, VS Code, Vim and GlazeWM|26|2023-11-22|2023-06-09|
-|15|[ccutch/pbj](https://github.com/ccutch/pbj)|The PB&J Stack|25|2023-12-12|2023-10-19|
-|16|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|24|2024-05-09|2024-05-04|
+|15|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|25|2024-05-09|2024-05-04|
+|16|[ccutch/pbj](https://github.com/ccutch/pbj)|The PB&J Stack|25|2023-12-12|2023-10-19|
 |17|[nir9/poc](https://github.com/nir9/poc)|Proof of concept projects I write on my YouTube channel|24|2024-05-16|2023-12-18|
 |18|[SagePtr/openserver-apache-2.4](https://github.com/SagePtr/openserver-apache-2.4)|Apache 2.4 for PHP_8.2-8.3 for OpenServer|22|2024-04-10|2024-01-23|
 |19|[skywind3000/vim-color-patch](https://github.com/skywind3000/vim-color-patch)|:rainbow: Load colorscheme patch script automatically !!|22|2024-02-18|2024-01-05|
@@ -34,12 +34,12 @@
 |27|[tani/vim-typo](https://github.com/tani/vim-typo)|Vim-typo is an autocorrection plugin for Vim/Neovim that relies on a syntax file to provide intelligent corrections while typing.|16|2024-05-07|2023-06-26|
 |28|[devsjc/vim-jb](https://github.com/devsjc/vim-jb)|Colourscheme for Vim, inspired by JetBrains IDEs.|15|2024-02-19|2023-10-27|
 |29|[4513ECHO/vim-snipewin](https://github.com/4513ECHO/vim-snipewin)|🥏 Manipulate windows most quickly like sniper|15|2024-03-28|2023-07-25|
-|30|[girishji/easyjump.vim](https://github.com/girishji/easyjump.vim)|The Vim motion you've always wanted.|14|2024-04-26|2023-11-17|
-|31|[elkasztano/nushell-syntax-vim](https://github.com/elkasztano/nushell-syntax-vim)|Nushell syntax highlighting for Vim|14|2024-05-16|2023-10-29|
-|32|[tact-lang/tact.vim](https://github.com/tact-lang/tact.vim)|⚡ All-in-one Vim 8+ plugin for Tact programming language|14|2024-05-15|2023-09-29|
-|33|[jayli/nvim-ai-coding](https://github.com/jayli/nvim-ai-coding)|nvim ai coding plugin|14|2024-01-12|2023-07-01|
-|34|[diominvd/dotfiles-nord](https://github.com/diominvd/dotfiles-nord)|-|13|2024-01-15|2024-01-07|
-|35|[kawarimidoll/tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)|Tabun Ugoku SKK for vim|13|2024-05-15|2023-12-20|
+|30|[kawarimidoll/tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)|Tabun Ugoku SKK for vim|14|2024-05-15|2023-12-20|
+|31|[girishji/easyjump.vim](https://github.com/girishji/easyjump.vim)|The Vim motion you've always wanted.|14|2024-04-26|2023-11-17|
+|32|[elkasztano/nushell-syntax-vim](https://github.com/elkasztano/nushell-syntax-vim)|Nushell syntax highlighting for Vim|14|2024-05-16|2023-10-29|
+|33|[tact-lang/tact.vim](https://github.com/tact-lang/tact.vim)|⚡ All-in-one Vim 8+ plugin for Tact programming language|14|2024-05-15|2023-09-29|
+|34|[jayli/nvim-ai-coding](https://github.com/jayli/nvim-ai-coding)|nvim ai coding plugin|14|2024-01-12|2023-07-01|
+|35|[diominvd/dotfiles-nord](https://github.com/diominvd/dotfiles-nord)|-|13|2024-01-15|2024-01-07|
 |36|[csdvrx/cosmopolinux](https://github.com/csdvrx/cosmopolinux)|☪☮$m✡✝🍏linux, a Linux distribution based on cosmopolitan binaries|13|2023-12-27|2023-12-16|
 |37|[errael/splice9](https://github.com/errael/splice9)|A Vim9.1 plugin for managing three-way merges; pure vim9script.|12|2024-01-05|2023-08-30|
 |38|[girishji/fFtT.vim](https://github.com/girishji/fFtT.vim)|More accurate f, F, t, T navigation in Vim.|11|2024-05-01|2024-02-27|
@@ -115,7 +115,7 @@
 |108|[noir-lang/noir-nvim](https://github.com/noir-lang/noir-nvim)|A NeoVim plugin providing syntax highlighting and LSP support for Noir|3|2024-04-22|2024-01-17|
 |109|[clemedon/vim-reselect-two](https://github.com/clemedon/vim-reselect-two)|Improved vim reselect-Visual gv - restore up to the last 2 visual selections|3|2024-01-18|2024-01-17|
 |110|[A7Lavinraj/dotfiles](https://github.com/A7Lavinraj/dotfiles)|All dotfiles related to my environment|3|2024-02-17|2024-01-14|
-|111|[tribhuwan-kumar/CodeRunner](https://github.com/tribhuwan-kumar/CodeRunner)|Neovim plugin for running different types of files in intergrated Nvim terminal.|3|2024-05-16|2023-12-18|
+|111|[tribhuwan-kumar/CodeRunner](https://github.com/tribhuwan-kumar/CodeRunner)|Neovim plugin for running different types of files in intergrated Nvim terminal.|3|2024-05-19|2023-12-18|
 |112|[mcombeau/monosplash.vim](https://github.com/mcombeau/monosplash.vim)|A dark monochromatic vim theme with a customizable splash of color.|3|2023-12-19|2023-12-09|
 |113|[gw31415/scrollUptoLastLine.vim](https://github.com/gw31415/scrollUptoLastLine.vim)|scrollBeyondLastLine=false in Vim|3|2023-11-27|2023-11-26|
 |114|[vim-denops/denops-startup-recorder.vim](https://github.com/vim-denops/denops-startup-recorder.vim)|🩺 Investigate startup performance of denops plugins|3|2024-02-20|2023-11-26|
