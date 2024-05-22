@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-05-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
 |3|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|24|2024-05-13|2024-02-21|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|18|2024-04-22|2024-03-23|
-|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-05-16|2023-08-30|
+|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-05-21|2023-08-30|
 |6|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |10|2024-04-15|2024-03-17|
 |7|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-29|2024-01-02|
 |8|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|8|2024-04-23|2023-08-30|
@@ -18,25 +18,25 @@
 |11|[devopswithcloud/devops-repo](https://github.com/devopswithcloud/devops-repo)|-|6|2024-03-22|2023-06-11|
 |12|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
 |13|[nextflow-io/nf-weblog](https://github.com/nextflow-io/nf-weblog)|Implement weblog plugin for Nextflow|5|2023-11-22|2023-07-18|
-|14|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|5|2024-05-16|2023-05-22|
-|15|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-20|2024-04-26|
-|16|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-13|2024-01-13|
-|17|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
-|18|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|
-|19|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
-|20|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|4|2024-02-08|2023-09-24|
-|21|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|4|2024-05-01|2023-08-15|
-|22|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|4|2024-05-05|2023-07-07|
-|23|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|3|2024-05-06|2024-04-26|
-|24|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-03-14|2024-02-15|
-|25|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|3|2024-05-11|2024-01-28|
-|26|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-01-18|2024-01-17|
-|27|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
-|28|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
-|29|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
-|30|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
-|31|[RobocopKlaus/hassio-addon-blocky](https://github.com/RobocopKlaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-05-20|2023-08-08|
-|32|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-16|2023-08-08|
+|14|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-20|2024-04-26|
+|15|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-13|2024-01-13|
+|16|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
+|17|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|
+|18|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
+|19|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|4|2024-02-08|2023-09-24|
+|20|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|4|2024-05-01|2023-08-15|
+|21|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|4|2024-05-05|2023-07-07|
+|22|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|3|2024-05-06|2024-04-26|
+|23|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-03-14|2024-02-15|
+|24|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|3|2024-05-11|2024-01-28|
+|25|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-01-18|2024-01-17|
+|26|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
+|27|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
+|28|[meowool/cradle](https://github.com/meowool/cradle)|A opinionated Gradle distribution with less boilerplate code and additional features.|3|2023-12-05|2023-08-29|
+|29|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
+|30|[RobocopKlaus/hassio-addon-blocky](https://github.com/RobocopKlaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-05-20|2023-08-08|
+|31|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-16|2023-08-08|
+|32|[zml2008/gitpatcher](https://github.com/zml2008/gitpatcher)|A gradle plugin to apply a patch tree to projects fetched from a git repository|3|2024-04-03|2023-07-16|
 |33|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-04-27|2023-06-30|
 |34|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-23|2023-06-13|
 |35|[Udjin79/SRUtils](https://github.com/Udjin79/SRUtils)|Repository with groovy scripts, which can help in managing Jira/Confluence services|3|2024-05-09|2023-06-10|

@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-05-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|214|2024-04-03|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|176|2024-03-10|2023-07-30|
-|3|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|153|2024-04-26|2024-04-08|
+|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|177|2024-03-10|2023-07-30|
+|3|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|154|2024-04-26|2024-04-08|
 |4|[nginxinc/nginx-otel](https://github.com/nginxinc/nginx-otel)|-|134|2024-05-20|2023-05-25|
 |5|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|57|2024-01-24|2024-01-23|
 |6|[chaitin/lua-resty-t1k](https://github.com/chaitin/lua-resty-t1k)|Lua implementation of the T1K protocol for Chaitin/SafeLine WAF|47|2024-04-03|2023-05-23|
 |7|[JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter)|Powerful image converter for the latest formats with support for multithreading, drag 'n drop, and downscaling.|37|2023-12-18|2023-08-08|
 |8|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|35|2024-05-20|2024-02-08|
 |9|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|30|2024-05-20|2024-02-17|
-|10|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-05-20|2024-01-08|
+|10|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-05-21|2024-01-08|
 |11|[jailbreakmerebooted/FridaRootManager](https://github.com/jailbreakmerebooted/FridaRootManager)|-|26|2023-12-15|2023-09-21|
 |12|[openSUSE/slowroll-tools](https://github.com/openSUSE/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|20|2024-05-19|2023-07-11|
-|13|[formbio/FLAG](https://github.com/formbio/FLAG)|-|19|2024-05-14|2023-06-17|
-|14|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|18|2024-04-03|2023-11-03|
+|13|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|19|2024-05-21|2023-11-03|
+|14|[formbio/FLAG](https://github.com/formbio/FLAG)|-|19|2024-05-14|2023-06-17|
 |15|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|17|2024-04-11|2023-12-20|
 |16|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-04-08|2024-02-12|
 |17|[waltenne/pdv-shell](https://github.com/waltenne/pdv-shell)|Olá essa é uma tentativa de simular uma simples implementação de sistema de PDV inspirado no repositório do slackjeff - pdvShell|16|2023-12-16|2023-10-06|
@@ -34,7 +34,7 @@
 |27|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|11|2024-04-02|2023-09-09|
 |28|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|10|2024-05-03|2024-02-10|
 |29|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
-|30|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |10|2024-05-20|2024-01-03|
+|30|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |10|2024-05-21|2024-01-03|
 |31|[angelotheman/developer-system-config](https://github.com/angelotheman/developer-system-config)|-|10|2024-01-03|2024-01-01|
 |32|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
 |33|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
@@ -56,7 +56,7 @@
 |49|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
 |50|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-03-03|2023-09-24|
 |51|[TrinityCTAT/CTAT-LR-fusion](https://github.com/TrinityCTAT/CTAT-LR-fusion)|fusion transcript detection using long reads, leveraging ctat-minimap2 and FusionInspector|7|2024-04-18|2023-06-15|
-|52|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|6|2024-05-20|2023-12-04|
+|52|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|6|2024-05-21|2023-12-04|
 |53|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|6|2024-04-18|2023-11-28|
 |54|[chpc-tech-eval/chpc23-scc](https://github.com/chpc-tech-eval/chpc23-scc)|The South African Council for Scientific and Industrial Research (CSIR), National Integrated Cyber Infrastructure Systems (NICIS), Center for High Performance Computing (CHPC) 2023 Student Cluster Com ...|6|2023-12-08|2023-11-17|
 |55|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|6|2024-01-17|2023-09-30|
@@ -72,15 +72,15 @@
 |65|[zzzeyez/dots-linux](https://github.com/zzzeyez/dots-linux)|-|5|2023-12-26|2023-11-27|
 |66|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
 |67|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|5|2024-04-16|2023-08-15|
-|68|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
-|69|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|4|2024-04-26|2024-04-08|
-|70|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|4|2024-04-01|2024-03-31|
-|71|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
-|72|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|4|2024-04-22|2024-01-02|
-|73|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
-|74|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
-|75|[BetterWayElectronics/bwe-nor-validator](https://github.com/BetterWayElectronics/bwe-nor-validator)|The original 2013 BwE PS3 NOR Validator v1.31|3|2024-05-01|2024-05-01|
-|76|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|3|2024-04-30|2024-04-30|
+|68|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|4|2024-04-30|2024-04-30|
+|69|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
+|70|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|4|2024-04-26|2024-04-08|
+|71|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|4|2024-04-01|2024-03-31|
+|72|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
+|73|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|4|2024-04-22|2024-01-02|
+|74|[josegomezr/TAP-Formatter-GitHubActions](https://github.com/josegomezr/TAP-Formatter-GitHubActions)|TAP Formatter for GitHub Actions (GHA)|4|2023-12-06|2023-11-24|
+|75|[bcgsc/peekseq](https://github.com/bcgsc/peekseq)|De novo protein-coding potential calculator using a k-mer approach|4|2023-12-13|2023-06-16|
+|76|[BetterWayElectronics/bwe-nor-validator](https://github.com/BetterWayElectronics/bwe-nor-validator)|The original 2013 BwE PS3 NOR Validator v1.31|3|2024-05-01|2024-05-01|
 |77|[GCBL-NIAB/Fasta2Lineage](https://github.com/GCBL-NIAB/Fasta2Lineage)|To assign lineage of FASTA sequences.|3|2024-05-08|2024-04-16|
 |78|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|3|2024-05-20|2024-04-14|
 |79|[AsadiAhmad/Micro-Processor-Calculator](https://github.com/AsadiAhmad/Micro-Processor-Calculator)|Calculator and Thermometer with ATMega32 Micro Processor|3|2024-04-10|2024-04-10|
@@ -98,7 +98,7 @@
 |91|[digimer/Mermaids-Rest](https://github.com/digimer/Mermaids-Rest)|All tools for the Mermaid's Rest open sailing tools|3|2024-05-05|2023-12-27|
 |92|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-05-18|2023-12-20|
 |93|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|3|2024-05-08|2023-12-01|
-|94|[Bio2Byte/simsapiper](https://github.com/Bio2Byte/simsapiper)|A Nextflow pipeline that creates reliable, structure-informed MSAs of thousands of protein sequences which can supplement structural information from online resources automatically |3|2024-05-15|2023-11-30|
+|94|[Bio2Byte/simsapiper](https://github.com/Bio2Byte/simsapiper)|A Nextflow pipeline that creates reliable, structure-informed MSAs of thousands of protein sequences which can supplement structural information from online resources automatically |3|2024-05-21|2023-11-30|
 |95|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|3|2024-02-19|2023-11-12|
 |96|[jps-e/kindle_info](https://github.com/jps-e/kindle_info)|Kindle Serial number lookup tool|3|2023-12-20|2023-11-05|
 |97|[sukria/Dancer2-Plugin-LiteBlog](https://github.com/sukria/Dancer2-Plugin-LiteBlog)|A minimalist, file-based blog engine for Dancer2. Effortlessly transform local .md and .yml files into a sleek and responsive blog without the need for a database.|3|2024-01-14|2023-10-22|
@@ -138,7 +138,7 @@
 |131|[seanpm2001/TIFVS](https://github.com/seanpm2001/TIFVS)|🖼️[🇹.🇮.🇫]🆚️💾️ The official source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software project.|2|2023-12-12|2023-12-12|
 |132|[seanpm2001/JPEGVS](https://github.com/seanpm2001/JPEGVS)|🖼️[🇯.🇵.🇪.🇬]🆚️💾️ The official source repository for JPEGVS, a version control system for JPEG/JPG image files. Part of the ImageVS software project.|2|2023-12-11|2023-12-11|
 |133|[seanpm2001/GIFVS](https://github.com/seanpm2001/GIFVS)|🖼️[🇬.🇮.🇫]🆚️💾️ The official source repository for GIFVS, a version control system for GIF image files. Part of the ImageVS software project.|2|2023-12-10|2023-12-10|
-|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-05-20|2023-12-09|
+|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-05-21|2023-12-09|
 |135|[seanpm2001/ImageVS](https://github.com/seanpm2001/ImageVS)|🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.|2|2023-12-19|2023-12-07|
 |136|[Emojioff/Mecha-Orion-md](https://github.com/Emojioff/Mecha-Orion-md)|-|2|2023-11-28|2023-11-27|
 |137|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|
