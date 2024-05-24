@@ -1,29 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-05-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2075|2024-04-17|2023-08-07|
-|2|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|253|2024-05-01|2023-07-10|
-|3|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|156|2024-05-07|2023-11-27|
-|4|[oxylabs/stackshare-scraper](https://github.com/oxylabs/stackshare-scraper)|Stackshare Scraper API is a powerful tool designed to extract technology stack data from Stackshare.io. It simplifies data retrieval, aiding research and competitive analysis tasks.|115|2024-04-19|2023-12-18|
-|5|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|69|2024-01-12|2023-08-21|
-|6|[mahyoussef/ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns)|Mastering classical design patterns with practical examples in the ultimate design patterns bundle.|66|2024-04-06|2024-02-20|
-|7|[redplanetlabs/rama-demo-gallery](https://github.com/redplanetlabs/rama-demo-gallery)|Collection of short, self-contained, thoroughly commented demos of using Rama towards a variety of use cases|61|2024-03-06|2023-08-27|
-|8|[darksolopic/PasswordManagerGUI](https://github.com/darksolopic/PasswordManagerGUI)|The program is a simple password manager implemented in Java using Swing for the graphical user interface. It allows users to encrypt and decrypt passwords using a master password. The passwords are e ...|60|2024-02-26|2024-02-25|
-|9|[ballerina-platform/module-ballerinax-copybook](https://github.com/ballerina-platform/module-ballerinax-copybook)|This Ballerina module facilitates the conversion of copybook data to JSON and vice versa.|60|2024-01-10|2023-10-24|
-|10|[ballerina-platform/copybook-tools](https://github.com/ballerina-platform/copybook-tools)|The Copybook tool simplifies the process of transforming Copybook definitions into Ballerina code.|58|2023-12-21|2023-10-24|
-|11|[iamaishwaryasoni/AES_password_manager](https://github.com/iamaishwaryasoni/AES_password_manager)|A password manager that uses AES encryption to securely store and retrieve passwords. The master password is used to derive encryption keys.|56|2024-02-27|2024-02-27|
-|12|[1415181920/yamis-admin](https://github.com/1415181920/yamis-admin)|🎈 Yamis Admin: A backend framework developed based on Java and Amis, with a user-friendly component usage experience that allows for easy implementation of complex pages, built-in code generator, and  ...|51|2023-11-27|2023-10-09|
-|13|[Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X)|Repository for my Fabric 1.20.X Tutorial Series on YouTube. Playlist link below!|50|2023-12-15|2023-06-27|
-|14|[mlkmhd/devops-diagrams](https://github.com/mlkmhd/devops-diagrams)|A collection of diagrams for devops tools|46|2024-03-02|2023-06-13|
-|15|[wLUOw/SUSTech_Math_Course_Materials](https://github.com/wLUOw/SUSTech_Math_Course_Materials)|Some Math course materials of SUSTech|43|2024-01-05|2023-09-09|
-|16|[redplanetlabs/rama-examples](https://github.com/redplanetlabs/rama-examples)|Examples from the Rama documentation|34|2023-12-26|2023-08-20|
-|17|[nzaeta/SecurityJWT](https://github.com/nzaeta/SecurityJWT)|Tutorial de Spring Security - JWT - Roles de usuario - CORS|33|2023-12-03|2023-11-26|
-|18|[minosvasilias/AIWP](https://github.com/minosvasilias/AIWP)|AI-generated, context-aware wallpapers|33|2023-11-28|2023-11-19|
-|19|[CraftJarvis/GROOT](https://github.com/CraftJarvis/GROOT)|GROOT: Learning to Follow Instructions by Watching Gameplay Videos|31|2023-12-18|2023-10-11|
+|1|[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)|Learn Low Level Design (LLD) and prepare for interviews using free resources.|4229|2024-05-23|2023-11-17|
+|2|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2080|2024-04-17|2023-08-07|
+|3|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|258|2024-05-01|2023-07-10|
+|4|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|157|2024-05-07|2023-11-27|
+|5|[oxylabs/stackshare-scraper](https://github.com/oxylabs/stackshare-scraper)|Stackshare Scraper API is a powerful tool designed to extract technology stack data from Stackshare.io. It simplifies data retrieval, aiding research and competitive analysis tasks.|115|2024-04-19|2023-12-18|
+|6|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|69|2024-01-12|2023-08-21|
+|7|[mahyoussef/ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns)|Mastering classical design patterns with practical examples in the ultimate design patterns bundle.|66|2024-04-06|2024-02-20|
+|8|[redplanetlabs/rama-demo-gallery](https://github.com/redplanetlabs/rama-demo-gallery)|Collection of short, self-contained, thoroughly commented demos of using Rama towards a variety of use cases|61|2024-03-06|2023-08-27|
+|9|[darksolopic/PasswordManagerGUI](https://github.com/darksolopic/PasswordManagerGUI)|The program is a simple password manager implemented in Java using Swing for the graphical user interface. It allows users to encrypt and decrypt passwords using a master password. The passwords are e ...|60|2024-02-26|2024-02-25|
+|10|[ballerina-platform/module-ballerinax-copybook](https://github.com/ballerina-platform/module-ballerinax-copybook)|This Ballerina module facilitates the conversion of copybook data to JSON and vice versa.|60|2024-01-10|2023-10-24|
+|11|[ballerina-platform/copybook-tools](https://github.com/ballerina-platform/copybook-tools)|The Copybook tool simplifies the process of transforming Copybook definitions into Ballerina code.|58|2023-12-21|2023-10-24|
+|12|[iamaishwaryasoni/AES_password_manager](https://github.com/iamaishwaryasoni/AES_password_manager)|A password manager that uses AES encryption to securely store and retrieve passwords. The master password is used to derive encryption keys.|56|2024-02-27|2024-02-27|
+|13|[1415181920/yamis-admin](https://github.com/1415181920/yamis-admin)|🎈 Yamis Admin: A backend framework developed based on Java and Amis, with a user-friendly component usage experience that allows for easy implementation of complex pages, built-in code generator, and  ...|51|2023-11-27|2023-10-09|
+|14|[Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X](https://github.com/Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X)|Repository for my Fabric 1.20.X Tutorial Series on YouTube. Playlist link below!|50|2023-12-15|2023-06-27|
+|15|[mlkmhd/devops-diagrams](https://github.com/mlkmhd/devops-diagrams)|A collection of diagrams for devops tools|46|2024-03-02|2023-06-13|
+|16|[wLUOw/SUSTech_Math_Course_Materials](https://github.com/wLUOw/SUSTech_Math_Course_Materials)|Some Math course materials of SUSTech|43|2024-01-05|2023-09-09|
+|17|[redplanetlabs/rama-examples](https://github.com/redplanetlabs/rama-examples)|Examples from the Rama documentation|34|2023-12-26|2023-08-20|
+|18|[nzaeta/SecurityJWT](https://github.com/nzaeta/SecurityJWT)|Tutorial de Spring Security - JWT - Roles de usuario - CORS|33|2023-12-03|2023-11-26|
+|19|[minosvasilias/AIWP](https://github.com/minosvasilias/AIWP)|AI-generated, context-aware wallpapers|33|2023-11-28|2023-11-19|
+|20|[CraftJarvis/GROOT](https://github.com/CraftJarvis/GROOT)|GROOT: Learning to Follow Instructions by Watching Gameplay Videos|31|2023-12-18|2023-10-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-05-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|4|1|2024-05-19|
 |2|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|63|0|2024-02-13|
 |3|[z505/SimpleIPC-lib](https://github.com/z505/SimpleIPC-lib)|Simple IPC (interprocess communication) for any program to communicate with another program in any language, with examples in GoLang and Freepascal|40|0|2024-02-19|
-|4|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|5|0|2024-05-12|
+|4|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|5|0|2024-05-23|
 |5|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|0|2024-05-09|
 |6|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|0|2024-01-06|
-|7|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |3|0|2024-05-04|
+|7|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |3|0|2024-05-22|
 |8|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|0|2024-04-15|
 |9|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|0|2024-01-02|
 |10|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|0|2024-01-14|
@@ -20,7 +20,7 @@
 |13|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|4|0|2024-03-18|
 |14|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|165|0|2024-05-11|
 |15|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|0|2024-04-12|
-|16|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|0|2023-11-21|
+|16|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|0|2024-05-22|
 |17|[michael-ring/pico-fpcexamples](https://github.com/michael-ring/pico-fpcexamples)|Examples for programming the raspberry pi pico with FreePascal|17|0|2024-05-12|
 |18|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|19|0|2024-05-16|
 |19|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|0|2024-01-24|
@@ -33,7 +33,7 @@
 |26|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-02-29|
 |27|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|12|0|2024-04-24|
 |28|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|16|0|2024-02-23|
-|29|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1752|0|2024-04-25|
+|29|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1753|0|2024-04-25|
 |30|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|42|0|2024-03-22|
 |31|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|19|0|2024-02-17|
 |32|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|0|2024-03-18|
