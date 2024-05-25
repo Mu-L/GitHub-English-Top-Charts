@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-05-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2285|3|2024-05-15|
-|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|295|3|2024-04-28|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2292|3|2024-05-15|
+|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|295|2|2024-04-28|
 |3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|211|1|2024-05-23|
 |4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1079|1|2024-05-20|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1291|1|2024-03-22|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1292|1|2024-03-22|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
-|7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|16|0|2024-03-04|
+|7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|16|0|2024-05-24|
 |8|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|8|0|2024-05-16|
 |9|[gaobb/DLDL](https://github.com/gaobb/DLDL)|[TIP] Deep Label Distribution Learning with Label Ambiguity|73|0|2024-04-16|
 |10|[AliiRezaei/AdaptiveControl](https://github.com/AliiRezaei/AdaptiveControl)|This repository contains assignments and codes of my Adaptive Systems Control course.|3|0|2024-05-10|
@@ -22,20 +22,20 @@
 |15|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|0|2024-01-13|
 |16|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|153|0|2024-01-24|
 |17|[open-source-modelling/insurance_matlab](https://github.com/open-source-modelling/insurance_matlab)|All Matlab algorithms published by Open Source Modelling in one place.|7|0|2024-04-01|
-|18|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|18|0|2024-04-18|
+|18|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|18|0|2024-05-24|
 |19|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|0|2024-04-24|
 |20|[shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd](https://github.com/shahab-ehsanfar/Channel-Estimation-UW-802-11p-11bd)|Source code examples for the IEEE WCNC 2022 paper titled "Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels"|3|0|2023-12-05|
 |21|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|12|0|2024-05-21|
 |22|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|0|2023-12-20|
 |23|[Aketirani/active-noise-cancellation](https://github.com/Aketirani/active-noise-cancellation)|Active Noise Cancellation Using Filtered Adaptive Algorithms|19|0|2024-03-16|
-|24|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|6|0|2023-12-13|
+|24|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|6|0|2024-05-24|
 |25|[DingdongD/CFAR_Lib](https://github.com/DingdongD/CFAR_Lib)|This repository is dedicated to the simulation research of constant false alarm rate (CFAR) detection algorithms for millimeter-wave radar. It encompasses various algorithms, including but not limited ...|6|0|2024-02-24|
 |26|[jlockhar/GLASS-AI](https://github.com/jlockhar/GLASS-AI)|Machine learning tool for analysis of lung adenocarcinoma tumors|4|0|2024-05-17|
 |27|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|0|2024-03-12|
 |28|[Thorlabs/Camera_Examples](https://github.com/Thorlabs/Camera_Examples)|Software examples for Thorlabs cameras (e.g. Zelux, Kiralux, Quantalux) and line sensors.|4|0|2024-04-02|
 |29|[kon9chun/SEMwithEL](https://github.com/kon9chun/SEMwithEL)|A Comparative Study of Reduced-order Methods for Solid Phase Lithium-ion Distribution Based on Single Particle Model|6|0|2024-01-13|
 |30|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|12|0|2024-05-16|
-|31|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |47|0|2024-05-20|
+|31|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |48|0|2024-05-20|
 |32|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-24|
 |33|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|0|2024-05-10|
 |34|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|28|0|2024-03-19|
@@ -90,7 +90,7 @@
 |83|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|9|0|2024-04-25|
 |84|[preethamam/Acceleration2VelocityandDisplacement](https://github.com/preethamam/Acceleration2VelocityandDisplacement)|Filters and converts the acceleration data to velocities and displacement using the signal processing algorithms.|9|0|2024-01-20|
 |85|[Steigner/1IN](https://github.com/Steigner/1IN)|Informatika / Computer Science Course - Winter Semester 2023|5|0|2023-11-28|
-|86|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|5|0|2024-05-23|
+|86|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|5|0|2024-05-24|
 |87|[LIUHAITAO-CH/Dive-into-Robotics](https://github.com/LIUHAITAO-CH/Dive-into-Robotics)|1, Online materials are mostly scripted, breaking the way of reading PPT type lectures  2, Pure writing board book teaching, intuitive, easy to understand  3. Exercises and homework for each class  4. ...|19|0|2023-12-17|
 |88|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|20|0|2024-03-26|
 |89|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|0|2024-03-06|
@@ -115,7 +115,7 @@
 |108|[MathWorks-Teaching-Resources/Fundamentals-of-Programming](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming)|An overview of programming concepts including arrays, strings, loops, and algorithms with a project.|17|0|2024-04-30|
 |109|[acuoci/ATP](https://github.com/acuoci/ATP)|Advanced Transport Phenomena course at Politecnico di Milano|15|0|2023-12-12|
 |110|[parkman-auex/vasplib](https://github.com/parkman-auex/vasplib)|a powerful script collection for data-analysis from vasp for topological matters|7|0|2024-03-28|
-|111|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|4|0|2024-05-23|
+|111|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|0|2024-05-23|
 |112|[UtkarshPathrabe/Machine-Learning-BITS-Pilani](https://github.com/UtkarshPathrabe/Machine-Learning-BITS-Pilani)|Contains Lab Sheets and their Solutions and the Assignment Files which were done during the Course|6|0|2024-01-03|
 |113|[ilog-ecnu/REMO](https://github.com/ilog-ecnu/REMO)|Expensive Multiobjective Optimization by Relation Learning and Prediction|7|0|2024-02-20|
 |114|[PrincetonUniversity/3D3A-MATLAB-Toolbox](https://github.com/PrincetonUniversity/3D3A-MATLAB-Toolbox)|Collection of various MATLAB functions for spatial audio processing released by the 3D3A Lab at Princeton University|14|0|2023-12-19|
@@ -154,7 +154,7 @@
 |147|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|4|0|2024-04-18|
 |148|[jjjllxx/Multiple-UAV-Motion-Control-System](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System)|Multiple UAV motion control system. Including multiple path planning algorithms. NUS master project.|13|0|2024-03-28|
 |149|[DeepDynaSim/Active-Vibration-Control-Complete-Guide](https://github.com/DeepDynaSim/Active-Vibration-Control-Complete-Guide)|A Comprehensive Guide to Active Control Methodology for Smart Beams|5|0|2023-12-30|
-|150|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|0|2024-04-07|
+|150|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|0|2024-05-24|
 |151|[alexpiti/MLSWG](https://github.com/alexpiti/MLSWG)|Mode solver for 1D waveguides composed of arbitrary number of slabs (layers). Vector solver: TE & TM polarizations. Supports complex-valued refractive index (plasmonic modes)|6|0|2024-05-10|
 |152|[DeepMIMO/DeepMIMO-examples](https://github.com/DeepMIMO/DeepMIMO-examples)|DeepMIMO dataset examples|21|0|2024-03-23|
 |153|[Tracesource/SCSL](https://github.com/Tracesource/SCSL)|[AAAI 2024] Code of "Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering"|8|0|2024-02-28|
@@ -186,11 +186,11 @@
 |179|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|0|2024-02-17|
 |180|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|0|2024-04-30|
 |181|[MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra)|Interactive courseware module that addresses fundamental matrix methods and linear systems taught in introductory linear algebra courses.|14|0|2024-04-30|
-|182|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|83|0|2024-03-07|
+|182|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|84|0|2024-03-07|
 |183|[patterd2/MATH4411_Adv_Math_Bio](https://github.com/patterd2/MATH4411_Adv_Math_Bio)|This repository is for code to run examples and generate the figures from the lectures notes from the module Advanced Mathematical Biology IV (MATH4411) at Durham University.|4|0|2023-12-08|
 |184|[cliansang/positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|The Matlab scripts for five positioning algorithms regarding UWB localization. The five algorithms are Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Taylor Series-based location estimat ...|68|0|2024-01-15|
 |185|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|0|2024-05-23|
-|186|[placebovitamin/MPC-Tutorial](https://github.com/placebovitamin/MPC-Tutorial)|This is the MATLAB code for a brief tutorial for Model Predictive Control (MPC) for a linear discrete-time system with constrained states and inputs. |16|0|2024-01-10|
+|186|[placebovitamin/MPC-Tutorial](https://github.com/placebovitamin/MPC-Tutorial)|This is the MATLAB code for a brief tutorial for Model Predictive Control (MPC) for a linear discrete-time system with constrained states and inputs. |18|0|2024-01-10|
 |187|[andryr/spade-declipping](https://github.com/andryr/spade-declipping)|Implementation of ASPADE and SSPADE declipping algorithms|6|0|2023-12-14|
 |188|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|0|2023-12-05|
 |189|[yangtseJin/Matlab-GUI-Projects](https://github.com/yangtseJin/Matlab-GUI-Projects)|This is a project of matlab of Simple neural network, Dark image enhancement, Deep learning transfer training, Handwritten numbers recognition|4|0|2024-03-18|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-05-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
 |11|[devopswithcloud/devops-repo](https://github.com/devopswithcloud/devops-repo)|-|6|2024-03-22|2023-06-11|
 |12|[jagedn/nf-plugin-template](https://github.com/jagedn/nf-plugin-template)|Unoficial template for Nextflow Plugins|5|2023-12-13|2023-10-26|
-|13|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-20|2024-04-26|
+|13|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
 |14|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-13|2024-01-13|
 |15|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
 |16|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|

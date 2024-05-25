@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-05-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -82,15 +82,16 @@
 |75|[ellynnhitran/Robust-Optimization-Electric-Vehicles](https://github.com/ellynnhitran/Robust-Optimization-Electric-Vehicles)|Experiment with real-world data to compare the results of different algorithms in optimizing electric vehicles's scheduling. |3|2024-01-19|2024-01-19|
 |76|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-03-12|2024-01-10|
 |77|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
-|78|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|2023-12-05|2023-11-24|
-|79|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
-|80|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
-|81|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
-|82|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
-|83|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
-|84|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
-|85|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
-|86|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
+|78|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|3|2024-05-04|2023-12-16|
+|79|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|2023-12-05|2023-11-24|
+|80|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
+|81|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
+|82|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
+|83|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
+|84|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
+|85|[DilrajS/Machine-Learning-by-Stanford-University](https://github.com/DilrajS/Machine-Learning-by-Stanford-University)|Welcome to my Stanford Machine Learning Course repository! This repository is a comprehensive collection of my work and achievements as I journey through Stanford University's online Machine Learning  ...|3|2023-12-01|2023-08-07|
+|86|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
+|87|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
