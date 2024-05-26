@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Updated: 2024-05-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7478|2024-05-21|2023-11-01|
+|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7484|2024-05-21|2023-11-01|
 |2|[vovannat/darknet-markets-links](https://github.com/vovannat/darknet-markets-links)|A verified list of darknet markets and services with links for educational reference.|1499|2024-02-28|2024-01-18|
 |3|[HemzehH/gitHubCourse](https://github.com/HemzehH/gitHubCourse)|gitHubCourse|861|2024-02-23|2024-01-29|
-|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |796|2023-12-21|2023-11-24|
-|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|660|2024-04-28|2024-03-05|
-|6|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|434|2024-05-24|2023-11-24|
+|4|[awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants)|A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. |797|2023-12-21|2023-11-24|
+|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|662|2024-04-28|2024-03-05|
+|6|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|446|2024-05-24|2023-11-24|
 |7|[shovoalways/CSS-Course](https://github.com/shovoalways/CSS-Course)|এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লিস্ট এ ডিটেইলে আপনাকে CSS3 শিখাব, ইনশাআল্লাহ্‌। তাই আপনি যদি আগ্রিহী হন দেখতে থাকু ...|392|2024-03-31|2023-07-18|
-|8|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|262|2024-05-05|2024-01-02|
+|8|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|264|2024-05-05|2024-01-02|
 |9|[VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D)|[ICML 2024] GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting|215|2024-05-16|2024-02-11|
-|10|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|207|2024-05-07|2023-10-17|
+|10|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|209|2024-05-07|2023-10-17|
 |11|[dupontgu/qr-file-share](https://github.com/dupontgu/qr-file-share)|Share small files from an offline source using only a QR code|190|2024-02-24|2024-02-15|
 |12|[pddon/pddon-win](https://github.com/pddon/pddon-win)|PDDON windows client, PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN,  ...|185|2024-01-17|2023-08-08|
-|13|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|178|2024-03-18|2024-03-14|
-|14|[anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)| This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create y ...|153|2024-05-24|2024-03-09|
+|13|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|179|2024-05-24|2024-03-14|
+|14|[anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)| This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create y ...|161|2024-05-25|2024-03-09|
 |15|[ashemery/malware-tools](https://github.com/ashemery/malware-tools)|A list of useful tools for Malware Analysis (will be updated regularly)|115|2024-04-02|2024-03-28|
 |16|[capjamesg/cv-book-svg](https://github.com/capjamesg/cv-book-svg)|Turn an image of a bookshelf into an interactive SVG.|111|2024-02-21|2024-02-12|
 |17|[r-follador/CubeTrek](https://github.com/r-follador/CubeTrek)|Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.|108|2024-05-17|2023-12-07|
-|18|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|103|2024-05-24|2023-12-17|
-|19|[khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)|Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the  ...|101|2024-05-24|2023-11-15|
+|18|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|107|2024-05-25|2023-12-17|
+|19|[khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)|Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the  ...|102|2024-05-25|2023-11-15|
 |20|[QuantML-Github/QuantML](https://github.com/QuantML-Github/QuantML)|量化机器学习/深度学习模型（Model Zoo）；Alpha 因子（Factor Zoo）； 量化资源以及相关论文代码|95|2024-05-21|2023-11-06|
-|21|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |94|2024-05-22|2024-01-13|
+|21|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |94|2024-05-24|2024-01-13|
 |22|[YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)|🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).|84|2024-05-09|2023-11-17|
 |23|[urania-dev/snapp](https://github.com/urania-dev/snapp)|Yet Another Url Shortner. A simple excercise to learn Svelte, Svelte5 Runes, and Tabler.|80|2024-01-09|2023-12-06|
 |24|[bradtraversy/bootstrap-5-websites](https://github.com/bradtraversy/bootstrap-5-websites)|Bootstrap 5 websites from my course|80|2024-02-15|2023-06-16|
@@ -33,11 +33,11 @@
 |26|[Normando1945/Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io)|Welcome to this specialized repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate str ...|71|2024-04-01|2023-08-22|
 |27|[mdmohsin212/recoveritcrack](https://github.com/mdmohsin212/recoveritcrack)|wondershare-recoverit-crack wondershare-recoverit-free wondershare-recoverit-cracked wondershare-recoverit-pro wondershare-recoverit-pro-crack recoverit-crack wondershare-recoverit-ultimate wondershar ...|67|2024-05-04|2023-11-26|
 |28|[arthurdev06/NewFifa24Crk-](https://github.com/arthurdev06/NewFifa24Crk-)|fc 24 hack,fc 24 cheat,fifa,fc 24 glitch,shorts,fc24,fc 24 hackear,efootball,tutorial,career mode,fifa 23,ea sports fc 24,fifa 24,fc 24 free hack,fc 24 free trainer,fc 24 cheats,fc 24 free cheat,fc 24 ...|66|2024-05-20|2023-11-15|
-|29|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2024-01-12|2023-12-20|
-|30|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |61|2024-05-01|2024-01-29|
-|31|[frontend-joe/es6-components](https://github.com/frontend-joe/es6-components)|Collection of components built with HTML, CSS and JavaScript (ES6)|60|2024-05-21|2024-03-15|
-|32|[MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection)|Simple 404 collection for use in personal and commercial projects|54|2023-12-26|2023-07-14|
-|33|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers|54|2024-05-17|2023-06-30|
+|29|[frontend-joe/es6-components](https://github.com/frontend-joe/es6-components)|Collection of components built with HTML, CSS and JavaScript (ES6)|64|2024-05-21|2024-03-15|
+|30|[EleutherAI/cookbook](https://github.com/EleutherAI/cookbook)|Deep learning for dummies. All the practical details and useful utilities that go into working with real models.|64|2024-01-12|2023-12-20|
+|31|[Christophe-pere/QML-Course](https://github.com/Christophe-pere/QML-Course)|I developped a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA). |61|2024-05-01|2024-01-29|
+|32|[AmirMahdyJebreily/iranian-phonenumber-validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation)|Regex collection for validating Iranian phone numbers + examples of writing in multiple languages ​​such as Python, C#, Rast, etc.|56|2024-05-17|2023-06-30|
+|33|[MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection)|Simple 404 collection for use in personal and commercial projects|54|2023-12-26|2023-07-14|
 |34|[JB-Statistical-Consulting/biostatistics](https://github.com/JB-Statistical-Consulting/biostatistics)|Biostatistics resources : reading list, RMarkdown notebooks, and more!|52|2024-05-03|2023-09-30|
 |35|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|51|2024-05-21|2023-10-03|
 |36|[hxuhack/course_compiler](https://github.com/hxuhack/course_compiler)|Course Webpage of SOFT130061 Compiler Principles and Techniques @ Fudan University|51|2024-05-13|2023-07-15|
@@ -52,9 +52,9 @@
 |45|[0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests)|Learn Rust with Test-Driven Development |37|2024-01-17|2024-01-07|
 |46|[livrasand/Reviw](https://github.com/livrasand/Reviw)|Create JWPUBs files easily and quickly for JW Library. Reviw is a Plugin for Sublime Text. And a powerful collection of HTML components, packed with features.|37|2024-05-24|2023-06-25|
 |47|[ortegaalfredo/neuroengine](https://github.com/ortegaalfredo/neuroengine)|Neuroengine is a service to share LLMs in the form of a webchat and API.|37|2024-02-25|2023-06-11|
-|48|[marcysutton/frontend-masters-web-accessibility-v3](https://github.com/marcysutton/frontend-masters-web-accessibility-v3)|A repo for the Web Accessibility v3 workshop for Frontend Masters|36|2024-02-17|2023-11-02|
-|49|[gevendra115/hack](https://github.com/gevendra115/hack)|how to hack free fire id, |36|2024-02-06|2023-06-06|
-|50|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|34|2024-05-24|2023-07-19|
+|48|[gevendra115/hack](https://github.com/gevendra115/hack)|how to hack free fire id, |36|2024-02-06|2023-06-06|
+|49|[marcysutton/frontend-masters-web-accessibility-v3](https://github.com/marcysutton/frontend-masters-web-accessibility-v3)|A repo for the Web Accessibility v3 workshop for Frontend Masters|35|2024-02-17|2023-11-02|
+|50|[cpfiffer/julia-deeplearning](https://github.com/cpfiffer/julia-deeplearning)|A course repository to follow along fast.ai using Julia!|34|2024-05-25|2023-07-19|
 |51|[MysteryPancake/Houdini-Fun](https://github.com/MysteryPancake/Houdini-Fun)|Various Houdini tips and tricks|34|2024-05-24|2023-07-02|
 |52|[boramorka/LLM-Book](https://github.com/boramorka/LLM-Book)|This book is a comprehensive manual designed to empower professionals to harness the potential of AI technologies responsibly and innovatively. The book addresses the technical, ethical, and practical ...|33|2024-03-15|2024-03-07|
 |53|[dawidolko/Github-Badges-Achievements](https://github.com/dawidolko/Github-Badges-Achievements)|A collection of all Achievements available on GitHub profile   Full list of GitHub profile badges and achievements  |33|2024-04-09|2023-07-21|
