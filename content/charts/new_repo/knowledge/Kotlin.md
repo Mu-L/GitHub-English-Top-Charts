@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-05-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
 |14|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|30|2024-02-28|2023-12-13|
 |15|[sagardhadke/LockQR](https://github.com/sagardhadke/LockQR)|LockQR: Effortless QR Code Generation, Free and Shareable|30|2024-03-15|2023-06-25|
-|16|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|26|2024-05-24|2023-10-24|
+|16|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|29|2024-05-24|2023-10-24|
 |17|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|23|2024-05-22|2023-08-11|
 |18|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
 |19|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|21|2024-04-13|2024-01-13|
@@ -36,11 +36,11 @@
 |29|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-26|2023-07-04|
 |30|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|14|2024-03-21|2023-06-15|
 |31|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |13|2024-02-27|2024-02-26|
-|32|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-05-23|2023-10-11|
-|33|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|13|2024-04-07|2023-05-31|
-|34|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|12|2024-05-19|2024-05-19|
-|35|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|12|2024-04-07|2024-04-07|
-|36|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|12|2023-12-25|2023-12-22|
+|32|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|13|2023-12-25|2023-12-22|
+|33|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-05-23|2023-10-11|
+|34|[hieuwu/product-sample-supabase-kt](https://github.com/hieuwu/product-sample-supabase-kt)|Android sample built with Jetpack Compose including best practices of how to use Supabase for storage, authentication, OAuth|13|2024-04-07|2023-05-31|
+|35|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|12|2024-05-19|2024-05-19|
+|36|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|12|2024-04-07|2024-04-07|
 |37|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
 |38|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 20 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-05-17|2023-12-29|
 |39|[FedCampus/FedKit](https://github.com/FedCampus/FedKit)|Mobile Federated Learning development kit for FedCampus|10|2024-02-03|2023-07-29|
