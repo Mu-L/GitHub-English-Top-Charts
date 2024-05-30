@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|2040|2024-05-16|2023-06-14|
-|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|437|2024-05-28|2024-02-22|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|2040|2024-05-29|2023-06-14|
+|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|434|2024-05-28|2024-02-22|
 |3|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|230|2024-01-18|2023-10-03|
-|4|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|209|2024-05-22|2023-12-01|
+|4|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|210|2024-05-22|2023-12-01|
 |5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|206|2024-05-27|2023-07-12|
 |6|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|198|2024-01-14|2023-07-28|
-|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|153|2024-05-26|2024-01-21|
-|8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|134|2024-05-26|2024-05-17|
-|9|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|122|2024-02-16|2023-06-05|
-|10|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|120|2024-05-15|2023-12-01|
+|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|157|2024-05-26|2024-01-21|
+|8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|138|2024-05-26|2024-05-17|
+|9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|122|2024-05-15|2023-12-01|
+|10|[castlewong/visionOS-Explorer](https://github.com/castlewong/visionOS-Explorer)|Explore visionOS: Collection of Code Samples, Tutorials and Valuable Resources|122|2024-02-16|2023-06-05|
 |11|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|91|2024-04-16|2023-12-16|
 |12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|70|2024-04-29|2023-09-28|
 |13|[twostraws/FaceFacts](https://github.com/twostraws/FaceFacts)|Source code for my SwiftUI + SwiftData tutorial.|58|2023-12-23|2023-12-23|
@@ -43,12 +43,12 @@
 |36|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|10|2024-04-29|2024-04-08|
 |37|[Volorf/VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes)|A collection of interactive prototypes for VisionOS made with SwiftUI.|10|2024-03-15|2024-01-05|
 |38|[yihui-hu/arena-swiftui](https://github.com/yihui-hu/arena-swiftui)|experiment(s) in learning Swift and SwiftUI|10|2024-02-11|2023-10-14|
-|39|[Visual-Studio-Coder/QR-Share-Pro](https://github.com/Visual-Studio-Coder/QR-Share-Pro)|The free, open-source, user-privacy focused way to scan, share, and make QR codes.|9|2024-05-23|2024-03-03|
-|40|[psharanda/NativeBook](https://github.com/psharanda/NativeBook)|A toolkit for Implementing, maintaining, documenting and evolving a shared set of UI components for iOS inspired by Storybook.js|9|2024-02-10|2023-12-03|
-|41|[marwaniaaj/AuthLoginSwiftUI](https://github.com/marwaniaaj/AuthLoginSwiftUI)|This project is demo on how to use Firebase Authentication in SwiftUI project|9|2024-03-11|2023-11-29|
-|42|[trinhngocthuyen/orcam](https://github.com/trinhngocthuyen/orcam)|A Collection of Swift Macros|9|2024-02-25|2023-11-06|
-|43|[JavierLaguna/VisionOSMusic](https://github.com/JavierLaguna/VisionOSMusic)|Project used for learn SwiftUI on xrOS and Reality Composer Pro|9|2024-05-21|2023-07-25|
-|44|[phhai1710/HPElectronicProgramGuide](https://github.com/phhai1710/HPElectronicProgramGuide)|A powerful EPG (Electronic Program Guide) UI library for iOS in Swift. Create stunning program guide interfaces with ease.|8|2024-05-05|2024-05-05|
+|39|[phhai1710/HPElectronicProgramGuide](https://github.com/phhai1710/HPElectronicProgramGuide)|A powerful EPG (Electronic Program Guide) UI library for iOS in Swift. Create stunning program guide interfaces with ease.|9|2024-05-05|2024-05-05|
+|40|[Visual-Studio-Coder/QR-Share-Pro](https://github.com/Visual-Studio-Coder/QR-Share-Pro)|The free, open-source, user-privacy focused way to scan, share, and make QR codes.|9|2024-05-23|2024-03-03|
+|41|[psharanda/NativeBook](https://github.com/psharanda/NativeBook)|A toolkit for Implementing, maintaining, documenting and evolving a shared set of UI components for iOS inspired by Storybook.js|9|2024-02-10|2023-12-03|
+|42|[marwaniaaj/AuthLoginSwiftUI](https://github.com/marwaniaaj/AuthLoginSwiftUI)|This project is demo on how to use Firebase Authentication in SwiftUI project|9|2024-03-11|2023-11-29|
+|43|[trinhngocthuyen/orcam](https://github.com/trinhngocthuyen/orcam)|A Collection of Swift Macros|9|2024-02-25|2023-11-06|
+|44|[JavierLaguna/VisionOSMusic](https://github.com/JavierLaguna/VisionOSMusic)|Project used for learn SwiftUI on xrOS and Reality Composer Pro|9|2024-05-21|2023-07-25|
 |45|[editorscut/ec014dataflow](https://github.com/editorscut/ec014dataflow)|Code repo for DataFlow book|8|2024-02-28|2024-01-03|
 |46|[VincentMeilinger/Nextcloud-Cookbook-iOS](https://github.com/VincentMeilinger/Nextcloud-Cookbook-iOS)|A Nextcloud Cookbook native iOS/iPadOS/MacOS client.|8|2024-05-05|2023-09-16|
 |47|[valentin-mille/RoadmapBackend](https://github.com/valentin-mille/RoadmapBackend)|Roadmap backend at your service|8|2024-02-16|2023-09-11|
@@ -65,7 +65,6 @@
 |58|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|
 |59|[tkey/tkey-examples](https://github.com/tkey/tkey-examples)|Contains the examples of various implementations of tKey MPC SDks|6|2024-05-16|2023-09-21|
 |60|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2024-04-17|2023-08-20|
-|61|[ausdrew/ShakeWellerer](https://github.com/ausdrew/ShakeWellerer)|🎲 Roll the dice with your snippets!|5|2023-11-28|2023-08-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

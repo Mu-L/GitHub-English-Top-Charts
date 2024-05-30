@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|224|2024-05-28|2024-01-19|
+|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|225|2024-05-28|2024-01-19|
 |2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|144|2024-05-05|2023-10-18|
 |3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|94|2024-05-25|2024-01-08|
 |4|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |86|2024-04-21|2024-01-24|
-|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|85|2024-05-03|2024-02-06|
+|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|84|2024-05-03|2024-02-06|
 |6|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|82|2024-05-28|2024-04-08|
 |7|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|69|2024-05-02|2023-11-24|
 |8|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|68|2024-05-21|2023-10-22|
@@ -20,8 +20,8 @@
 |13|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
 |14|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|30|2024-02-28|2023-12-13|
 |15|[sagardhadke/LockQR](https://github.com/sagardhadke/LockQR)|LockQR: Effortless QR Code Generation, Free and Shareable|30|2024-03-15|2023-06-25|
-|16|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|29|2024-05-24|2023-10-24|
-|17|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|23|2024-05-22|2023-08-11|
+|16|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|29|2024-05-29|2023-10-24|
+|17|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|23|2024-05-29|2023-08-11|
 |18|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
 |19|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|21|2024-04-13|2024-01-13|
 |20|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
@@ -30,7 +30,7 @@
 |23|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|
 |24|[DevHumbleChris/jetpack-compose-login-registration-samples](https://github.com/DevHumbleChris/jetpack-compose-login-registration-samples)|This repository contains a collection of Auth screens built using Jetpack Compose, a modern Android UI toolkit.|18|2024-01-12|2023-11-24|
 |25|[blueUserRed/forty-five](https://github.com/blueUserRed/forty-five)|.forty-five is a deckbuilding card game set in the wild west.  Collect and master powerful cards, battle different enemies and try not to end up six feet deep!|18|2024-05-27|2023-06-01|
-|26|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|16|2024-02-08|2024-02-08|
+|26|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|17|2024-02-08|2024-02-08|
 |27|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|15|2024-04-17|2024-04-01|
 |28|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|14|2024-04-01|2023-11-13|
 |29|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-26|2023-07-04|
@@ -48,6 +48,7 @@
 |41|[PraneethJain/pentagon-megathon](https://github.com/PraneethJain/pentagon-megathon)|Psyche-Screener is a tool that emulates an interview screening process|9|2024-02-25|2023-10-28|
 |42|[B1ays/ficbook-reader](https://github.com/B1ays/ficbook-reader)|Клиент для сайта ficbook.net|9|2024-04-30|2023-10-26|
 |43|[KillerDogeEmpire/Avocado-Extensions](https://github.com/KillerDogeEmpire/Avocado-Extensions)|The Only Repo For Cloudstream That Contains Audio Book|9|2024-02-18|2023-08-15|
+|44|[ml-opensource/android-mosaic](https://github.com/ml-opensource/android-mosaic)|Collection of UI Components for Android|8|2024-05-16|2024-02-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

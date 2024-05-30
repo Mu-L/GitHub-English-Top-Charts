@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-05-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1447|2024-04-02|2023-08-10|
 |2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|628|2024-05-19|2023-07-04|
-|3|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|203|2024-05-28|2023-09-06|
-|4|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|202|2024-05-27|2024-02-11|
-|5|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|145|2024-04-24|2023-08-30|
+|3|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|204|2024-05-27|2024-02-11|
+|4|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|203|2024-05-29|2023-09-06|
+|5|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|146|2024-04-24|2023-08-30|
 |6|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|120|2024-03-31|2024-01-02|
 |7|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|103|2024-05-27|2024-01-30|
 |8|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |95|2024-03-15|2023-09-06|
-|9|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|69|2024-05-28|2024-02-08|
+|9|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|70|2024-05-29|2024-02-08|
 |10|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |66|2024-05-24|2024-03-18|
 |11|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|52|2024-05-25|2023-06-07|
-|12|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|49|2024-05-18|2024-01-30|
+|12|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|50|2024-05-29|2024-01-30|
 |13|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|2023-09-15|
-|14|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Learn how to create a unique looking CV from scratch by combining bits and pieces from different templates. |43|2024-05-28|2023-10-26|
+|14|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Learn how to create a unique looking CV from scratch by combining bits and pieces from different templates. |45|2024-05-28|2023-10-26|
 |15|[rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)|Repository for Advanced Data Science Book|42|2024-04-22|2023-06-27|
 |16|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|东南大学Typst论文模板库|29|2024-05-23|2024-01-24|
 |17|[pbloem/pca-book](https://github.com/pbloem/pca-book)|Source files for a book on Principal component analysis|28|2024-01-13|2023-07-01|
@@ -45,19 +45,19 @@
 |38|[AmitXShukla/Mojo](https://github.com/AmitXShukla/Mojo)|The Mojo Programming Language book|11|2024-04-03|2023-10-16|
 |39|[ppolesiuk/type-systems-notes](https://github.com/ppolesiuk/type-systems-notes)|Lecture notes for the Type Systems course given in Autumn 2023|11|2024-03-26|2023-10-05|
 |40|[sattlerc/hott-reading-course](https://github.com/sattlerc/hott-reading-course)|Introduction to homotopy type theory (reading course), LP2 2023, offered via DAT235/DIT577: Research-oriented course in Computer Science and Engineering|11|2024-04-17|2023-09-28|
-|41|[PacktPublishing/LaTeX-Cookbook](https://github.com/PacktPublishing/LaTeX-Cookbook)|LaTeX Cookbook, published by Packt |10|2024-03-10|2024-02-19|
-|42|[rsnikhil/Book_BLang_RISCV](https://github.com/rsnikhil/Book_BLang_RISCV)|Book to (1) learn BLang (BSV) using a RISC-V example and (2) learn to design a pipelined RISC-V CPU using BSV for HDL coding|10|2024-05-28|2024-01-20|
-|43|[andreas-bauer/TikZ](https://github.com/andreas-bauer/TikZ)|Collection of my and others TikZ figures|10|2024-05-20|2023-08-25|
-|44|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|10|2024-02-22|2023-06-30|
-|45|[Alireza-Jahanbakhshi/Persian-LaTeX-Guide-and-Examples](https://github.com/Alireza-Jahanbakhshi/Persian-LaTeX-Guide-and-Examples)|A comprehensive guide and examples for using LaTeX with Persian font support. Learn how to start using LaTeX, create beautiful documents, and typeset Persian text effortlessly. Ideal for beginners and ...|10|2024-05-11|2023-05-30|
+|41|[hurak/orr](https://github.com/hurak/orr)|Optimal and Robust Control – lecture notes for a graduate course B(E)3M35ORR at CTU in Prague, Czechia|10|2024-05-10|2024-02-19|
+|42|[PacktPublishing/LaTeX-Cookbook](https://github.com/PacktPublishing/LaTeX-Cookbook)|LaTeX Cookbook, published by Packt |10|2024-03-10|2024-02-19|
+|43|[rsnikhil/Book_BLang_RISCV](https://github.com/rsnikhil/Book_BLang_RISCV)|Book to (1) learn BLang (BSV) using a RISC-V example and (2) learn to design a pipelined RISC-V CPU using BSV for HDL coding|10|2024-05-28|2024-01-20|
+|44|[andreas-bauer/TikZ](https://github.com/andreas-bauer/TikZ)|Collection of my and others TikZ figures|10|2024-05-20|2023-08-25|
+|45|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|10|2024-02-22|2023-06-30|
 |46|[sotopia-lab/awesome-social-agents](https://github.com/sotopia-lab/awesome-social-agents)|A collection of works that investigate social agents, simulations and their real-world impact in text, embodied, and robotics contexts.|9|2024-04-21|2024-04-04|
-|47|[hurak/orr](https://github.com/hurak/orr)|Optimal and Robust Control – lecture notes for a graduate course B(E)3M35ORR at CTU in Prague, Czechia|9|2024-05-10|2024-02-19|
-|48|[MPI-EVA-Archaeogenetics/comp_human_adna_book](https://github.com/MPI-EVA-Archaeogenetics/comp_human_adna_book)|This book summarises prepared mini-courses for various computational tools and methods in the field of human archaeogenetic data analysis, with a particular emphasis on population genetics.|9|2024-03-09|2023-09-21|
-|49|[ashwinprasadme/SecretReviewer](https://github.com/ashwinprasadme/SecretReviewer)|SecretReviewer is a strategic board game that simulates the academic peer review process, challenging players to navigate the complexities of publishing scientific papers while assuming hidden roles w ...|9|2024-03-14|2023-09-04|
-|50|[Lupasic/AGLA1_Inno_2023](https://github.com/Lupasic/AGLA1_Inno_2023)|The course of Analytical Geometry and Linear Algebra 1 for 1st year bachelor students in Innopolis University in 2023 year.|9|2023-12-05|2023-08-28|
-|51|[Omikhleia/awesome-sile-books](https://github.com/Omikhleia/awesome-sile-books)|Sources for test books ready-to-compile with SILE|9|2024-05-26|2023-08-19|
+|47|[MPI-EVA-Archaeogenetics/comp_human_adna_book](https://github.com/MPI-EVA-Archaeogenetics/comp_human_adna_book)|This book summarises prepared mini-courses for various computational tools and methods in the field of human archaeogenetic data analysis, with a particular emphasis on population genetics.|9|2024-03-09|2023-09-21|
+|48|[ashwinprasadme/SecretReviewer](https://github.com/ashwinprasadme/SecretReviewer)|SecretReviewer is a strategic board game that simulates the academic peer review process, challenging players to navigate the complexities of publishing scientific papers while assuming hidden roles w ...|9|2024-03-14|2023-09-04|
+|49|[Lupasic/AGLA1_Inno_2023](https://github.com/Lupasic/AGLA1_Inno_2023)|The course of Analytical Geometry and Linear Algebra 1 for 1st year bachelor students in Innopolis University in 2023 year.|9|2023-12-05|2023-08-28|
+|50|[Omikhleia/awesome-sile-books](https://github.com/Omikhleia/awesome-sile-books)|Sources for test books ready-to-compile with SILE|9|2024-05-26|2023-08-19|
+|51|[alexjungaalto/masterthesis](https://github.com/alexjungaalto/masterthesis)|Info package for students who are about to start working on their master thesis. |9|2024-05-29|2023-08-06|
 |52|[timebertt/masters-thesis-controller-sharding](https://github.com/timebertt/masters-thesis-controller-sharding)|Horizontally Scalable Kubernetes Controllers (Master's Thesis)|9|2024-02-14|2023-08-03|
-|53|[mxpanf/mirea-final-qualifying-work](https://github.com/mxpanf/mirea-final-qualifying-work)|📜 The MIREA course work on the topic of system for organization and issuance of verified digital diplomas on blockchain.|8|2024-05-26|2024-03-21|
+|53|[mxpanf/mirea-final-qualifying-work](https://github.com/mxpanf/mirea-final-qualifying-work)|📜 The MIREA course work on the topic of system for organization and issuance of verified digital diplomas on blockchain.|8|2024-05-28|2024-03-21|
 |54|[ryantibs/statlearn-s24](https://github.com/ryantibs/statlearn-s24)|Course materials for Advanced Topics in Statistical Learning, Spring 2024|8|2024-04-27|2024-01-12|
 |55|[motib/gentle-lean](https://github.com/motib/gentle-lean)|A gentle tutorial on Lean|8|2024-02-09|2023-12-30|
 |56|[James-Thorson/Spatio-temporal-models-for-ecologists](https://github.com/James-Thorson/Spatio-temporal-models-for-ecologists)|Code associated with textbook "Spatio-Temporal Models for Ecologists"|8|2024-05-22|2023-12-22|
@@ -87,7 +87,7 @@
 |80|[IBAMR/LearningIBAMR](https://github.com/IBAMR/LearningIBAMR)|These are notes from study sessions covering topics related to IBAMR (ex: coding concepts, IBAMR algorithms, general numerical PDEs).|5|2024-02-05|2024-02-05|
 |81|[niclejeune/Algorithms-and-Data-Structures-2024](https://github.com/niclejeune/Algorithms-and-Data-Structures-2024)|Algorithms and Data Structures - Spring 2024|5|2024-05-01|2024-01-30|
 |82|[hofmannedv/cheatsheets](https://github.com/hofmannedv/cheatsheets)|Cheatsheets for Linux users|5|2024-03-08|2023-07-16|
-|83|[vEnhance/evans-phd-notebook](https://github.com/vEnhance/evans-phd-notebook)|Virtual notebook that Evan uses for his PhD thesis.|5|2024-05-28|2023-06-01|
+|83|[vEnhance/evans-phd-notebook](https://github.com/vEnhance/evans-phd-notebook)|Virtual notebook that Evan uses for his PhD thesis.|5|2024-05-29|2023-06-01|
 |84|[gw-ospo/oss-licensing](https://github.com/gw-ospo/oss-licensing)|A short course on Open Source Software Licensing Essentials for Research and Education|4|2024-05-21|2024-04-27|
 |85|[Lswhiteh/unc-dissertation](https://github.com/Lswhiteh/unc-dissertation)|UNC Bioinformatics and Computational Biology Dissertation based on https://github.com/jayrobwilliams/UNC-Dissertation-Template/tree/master|4|2024-04-11|2024-03-19|
 |86|[xiamyphys/litebook](https://github.com/xiamyphys/litebook)|A fresh cover and chapter design for book.|4|2024-03-26|2024-03-09|
@@ -120,7 +120,7 @@
 |113|[synlp/T2V-Review](https://github.com/synlp/T2V-Review)|A collection of text-to-video generation studies.|3|2024-01-13|2024-01-12|
 |114|[sohamch08/Academic-Notes](https://github.com/sohamch08/Academic-Notes)|All lecture notes of the topics i learned though out my academic life are here|3|2024-05-14|2024-01-10|
 |115|[roualdes/MATH131](https://github.com/roualdes/MATH131)|Course materials for MATH 131 at Chico State - Introduction to Python|3|2024-02-14|2023-12-15|
-|116|[ARessegetesStery/Course-Notes](https://github.com/ARessegetesStery/Course-Notes)|Collective notes for courses I have taken|3|2024-05-27|2023-12-13|
+|116|[ARessegetesStery/Course-Notes](https://github.com/ARessegetesStery/Course-Notes)|Collective notes for courses I have taken|3|2024-05-29|2023-12-13|
 |117|[burakcaferler/Heuristic-Algorithms_GUI](https://github.com/burakcaferler/Heuristic-Algorithms_GUI)|Comparing Heuristic Algorithms with their plot in GUI using PyQT5|3|2024-01-06|2023-12-10|
 |118|[cpe-kmutt-student/latex-report-template](https://github.com/cpe-kmutt-student/latex-report-template)|Collection of various report templates for uses within CPE department|3|2023-12-16|2023-12-09|
 |119|[michielskobe/global-challenges](https://github.com/michielskobe/global-challenges)|This is a summary of the Massive Open Online Course (MOOC) 'KULeuvenX: Global Challenges for a Sustainable Society', based on the provided study guides part of the Engineering and Sustainability: Phil ...|3|2023-12-31|2023-12-03|
@@ -128,7 +128,7 @@
 |121|[Ovalelephant35/Disco-Graph-Optimization-Project](https://github.com/Ovalelephant35/Disco-Graph-Optimization-Project)|📽️ University Course Assignment Graph Optimization Problem Solved Using Bipartite and Python Libraries|3|2023-11-30|2023-11-28|
 |122|[ali-rajan/UTSC-Notes](https://github.com/ali-rajan/UTSC-Notes)|UTSC course notes in LaTeX|3|2024-02-07|2023-10-26|
 |123|[NBISweden/Training-Tech-shorts](https://github.com/NBISweden/Training-Tech-shorts)|Short lessons, training various technologies useful to our work.|3|2024-05-28|2023-10-09|
-|124|[YaelDillies/maths-notes](https://github.com/YaelDillies/maths-notes)|Lectures notes from the 2023-24 Cambridge Part III courses|3|2024-05-16|2023-10-05|
+|124|[YaelDillies/maths-notes](https://github.com/YaelDillies/maths-notes)|Lectures notes from the 2023-24 Cambridge Part III courses|3|2024-05-29|2023-10-05|
 |125|[sifferman/thesis](https://github.com/sifferman/thesis)|Ethan Sifferman Master's Thesis: "Advancing Synthesizable Verilog/SystemVerilog Education with Open-Source Tools and Autograders"|3|2024-01-09|2023-09-05|
 |126|[leoniewgnr/DataScienceCheatsheets](https://github.com/leoniewgnr/DataScienceCheatsheets)|Go-to resource for acing Data Science interviews! 🚀 Includes business case and coding cheat sheets in LaTeX. 📚💻📈|3|2024-01-28|2023-09-03|
 |127|[t1d333/TFL](https://github.com/t1d333/TFL)|Laboratory work for the course Theory of Formal Languages|3|2024-01-10|2023-09-02|
@@ -137,7 +137,6 @@
 |130|[GfellerLab/MetacellAnalysisTutorial](https://github.com/GfellerLab/MetacellAnalysisTutorial)|Tutorial on construction and analysis of metacells |3|2024-03-07|2023-07-12|
 |131|[JeremyDForsythe/icecream-tutorials](https://github.com/JeremyDForsythe/icecream-tutorials)|Tutorials for Earth from Above: Env 329  Using NASA Satellite Data (ECOSTRESS) for Real-Time Environmental Monitoring|3|2024-05-08|2023-06-26|
 |132|[shack/vim_cheat_mug](https://github.com/shack/vim_cheat_mug)|A Vim cheat sheet to put on a mug|3|2024-04-13|2023-06-05|
-|133|[CLIMAAX/crabook](https://github.com/CLIMAAX/crabook)|Repository for Climate Risk Assessment Book|3|2024-05-02|2023-05-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
