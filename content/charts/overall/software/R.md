@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > R
-<sub>Updated: 2024-05-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|6353|2024-05-30|
-|2|[cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)|Friends don't let friends make certain types of data visualization - What are they and why are they bad. |6097|2024-03-10|
-|3|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|5278|2024-05-30|
-|4|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4674|2024-05-29|
-|5|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|3504|2024-05-30|
-|6|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2820|2024-05-17|
-|7|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2503|2024-05-13|
+|1|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|6355|2024-05-31|
+|2|[cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)|Friends don't let friends make certain types of data visualization - What are they and why are they bad. |6098|2024-03-10|
+|3|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|5280|2024-05-31|
+|4|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4676|2024-05-29|
+|5|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|3505|2024-05-30|
+|6|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2821|2024-05-17|
+|7|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2502|2024-05-13|
 |8|[thomasp85/patchwork](https://github.com/thomasp85/patchwork)|The Composer of ggplots|2399|2024-03-25|
 |9|[r-lib/devtools](https://github.com/r-lib/devtools)|Tools to make an R developer's life easier|2361|2024-02-21|
-|10|[yihui/knitr](https://github.com/yihui/knitr)|A general-purpose tool for dynamic report generation in R|2352|2024-05-30|
-|11|[satijalab/seurat](https://github.com/satijalab/seurat)|R toolkit for single cell genomics|2149|2024-05-24|
+|10|[yihui/knitr](https://github.com/yihui/knitr)|A general-purpose tool for dynamic report generation in R|2353|2024-05-30|
+|11|[satijalab/seurat](https://github.com/satijalab/seurat)|R toolkit for single cell genomics|2150|2024-05-24|
 |12|[tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)|R Package for 2D and 3D mapping and data visualization|2013|2024-05-11|
 |13|[toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data)|Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database|1975|2024-04-01|
 |14|[genomicsclass/labs](https://github.com/genomicsclass/labs)|Rmd source files for the HarvardX series PH525x|1947|2024-02-12|
 |15|[IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot)|Enhancing {ggplot2} plots with statistical analysis 📊📣|1939|2024-05-26|
 |16|[thomasp85/gganimate](https://github.com/thomasp85/gganimate)|A Grammar of Animated Graphics|1927|2024-02-27|
-|17|[rstudio/gt](https://github.com/rstudio/gt)|Easily generate information-rich, publication-quality tables from R|1922|2024-05-30|
+|17|[rstudio/gt](https://github.com/rstudio/gt)|Easily generate information-rich, publication-quality tables from R|1923|2024-05-30|
 |18|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1754|2024-05-27|
 |19|[rstudio/blogdown](https://github.com/rstudio/blogdown)|Create Blogs and Websites with R Markdown|1710|2024-02-28|
 |20|[rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|1677|2024-03-14|
-|21|[rstudio/reticulate](https://github.com/rstudio/reticulate)|R Interface to Python|1638|2024-05-28|
-|22|[mlr-org/mlr](https://github.com/mlr-org/mlr)|Machine Learning in R |1634|2024-05-06|
+|21|[rstudio/reticulate](https://github.com/rstudio/reticulate)|R Interface to Python|1638|2024-05-31|
+|22|[mlr-org/mlr](https://github.com/mlr-org/mlr)|Machine Learning in R |1633|2024-05-06|
 |23|[tidyverse/tidyverse](https://github.com/tidyverse/tidyverse)|Easily install and load packages from the tidyverse|1610|2023-12-12|
-|24|[topepo/caret](https://github.com/topepo/caret)|caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models|1595|2024-05-10|
-|25|[tidyverse/rvest](https://github.com/tidyverse/rvest)|Simple web scraping for R|1481|2024-02-26|
+|24|[topepo/caret](https://github.com/topepo/caret)|caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models|1596|2024-05-10|
+|25|[tidyverse/rvest](https://github.com/tidyverse/rvest)|Simple web scraping for R|1482|2024-02-26|
 |26|[tidymodels/broom](https://github.com/tidymodels/broom)|Convert statistical analysis objects from R into tidy format|1420|2024-05-17|
 |27|[rstudio/plumber](https://github.com/rstudio/plumber)|Turn your R code into a web API.|1371|2024-05-01|
-|28|[sfirke/janitor](https://github.com/sfirke/janitor)|simple tools for data cleaning in R|1353|2024-05-23|
+|28|[sfirke/janitor](https://github.com/sfirke/janitor)|simple tools for data cleaning in R|1355|2024-05-23|
 |29|[tidyverse/tidyr](https://github.com/tidyverse/tidyr)|Tidy Messy Data|1347|2024-05-14|
 |30|[ropensci/drake](https://github.com/ropensci/drake)|An R-focused pipeline toolkit for reproducibility and high-performance computing|1330|2024-05-15|
 |31|[rstudio/tensorflow](https://github.com/rstudio/tensorflow)|TensorFlow for R|1322|2024-05-06|
@@ -47,20 +47,20 @@
 |40|[juliasilge/tidytext](https://github.com/juliasilge/tidytext)|Text mining using tidy tools :sparkles::page_facing_up::sparkles:|1160|2024-04-10|
 |41|[r-lib/lintr](https://github.com/r-lib/lintr)|Static Code Analysis for R|1156|2024-05-29|
 |42|[robjhyndman/forecast](https://github.com/robjhyndman/forecast)|Forecasting Functions for Time Series and Linear Models|1101|2024-04-17|
-|43|[wch/r-source](https://github.com/wch/r-source)|Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.|1093|2024-05-30|
+|43|[wch/r-source](https://github.com/wch/r-source)|Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.|1093|2024-05-31|
 |44|[thomasp85/ggraph](https://github.com/thomasp85/ggraph)|Grammar of Graph Graphics|1050|2024-03-07|
 |45|[easystats/easystats](https://github.com/easystats/easystats)|:milky_way: The R easystats-project|1041|2024-05-30|
 |46|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1015|2024-05-26|
-|47|[tidyverse/readr](https://github.com/tidyverse/readr)|Read flat files (csv, tsv, fwf) into R|998|2024-04-11|
-|48|[rstudio/renv](https://github.com/rstudio/renv)|renv: Project environments for R.|969|2024-05-29|
-|49|[ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary)|Presentation-Ready Data Summary and Analytic Result Tables|967|2024-05-29|
-|50|[YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler)|:bar_chart: A universal enrichment tool for interpreting omics data|953|2024-05-15|
-|51|[easystats/performance](https://github.com/easystats/performance)|:muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)|952|2024-05-23|
-|52|[rstudio/tinytex](https://github.com/rstudio/tinytex)|A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live|948|2024-05-15|
+|47|[tidyverse/readr](https://github.com/tidyverse/readr)|Read flat files (csv, tsv, fwf) into R|999|2024-04-11|
+|48|[rstudio/renv](https://github.com/rstudio/renv)|renv: Project environments for R.|970|2024-05-31|
+|49|[ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary)|Presentation-Ready Data Summary and Analytic Result Tables|968|2024-05-31|
+|50|[YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler)|:bar_chart: A universal enrichment tool for interpreting omics data|955|2024-05-15|
+|51|[easystats/performance](https://github.com/easystats/performance)|:muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)|953|2024-05-23|
+|52|[rstudio/tinytex](https://github.com/rstudio/tinytex)|A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live|949|2024-05-15|
 |53|[HenrikBengtsson/future](https://github.com/HenrikBengtsson/future)|:rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone|936|2024-05-30|
 |54|[sparklyr/sparklyr](https://github.com/sparklyr/sparklyr)|R interface for Apache Spark|929|2024-05-08|
 |55|[thomasp85/ggforce](https://github.com/thomasp85/ggforce)|Accelerating ggplot2|906|2024-02-19|
-|56|[mlr-org/mlr3](https://github.com/mlr-org/mlr3)|mlr3: Machine Learning in R - next generation|887|2024-05-30|
+|56|[mlr-org/mlr3](https://github.com/mlr-org/mlr3)|mlr3: Machine Learning in R - next generation|887|2024-05-31|
 |57|[ThinkR-open/golem](https://github.com/ThinkR-open/golem)|A Framework for Building Robust Shiny Apps |881|2024-04-10|
 |58|[ropensci/targets](https://github.com/ropensci/targets)|Function-oriented Make-like declarative workflows for R|878|2024-05-23|
 |59|[rstudio/pagedown](https://github.com/rstudio/pagedown)|Paginate the HTML Output of R Markdown with CSS for Print|873|2023-12-29|
@@ -68,19 +68,19 @@
 |61|[r-lib/testthat](https://github.com/r-lib/testthat)|An R 📦 to make testing 😀|866|2024-05-15|
 |62|[MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio)|GPT RStudio addins that enable GPT assisted coding, writing & analysis|861|2024-05-21|
 |63|[allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins)|A great intro dataset for data exploration & visualization (alternative to iris).|850|2024-02-19|
-|64|[r-tmap/tmap](https://github.com/r-tmap/tmap)|R package for thematic maps|839|2024-05-29|
-|65|[easystats/see](https://github.com/easystats/see)|:art: Visualisation toolbox for beautiful and publication-ready figures|838|2024-05-26|
+|64|[easystats/see](https://github.com/easystats/see)|:art: Visualisation toolbox for beautiful and publication-ready figures|839|2024-05-26|
+|65|[r-tmap/tmap](https://github.com/r-tmap/tmap)|R package for thematic maps|839|2024-05-29|
 |66|[rstudio/pointblank](https://github.com/rstudio/pointblank)|Data quality assessment and metadata reporting for data frames and database tables|835|2024-05-09|
 |67|[business-science/tidyquant](https://github.com/business-science/tidyquant)|Bringing financial analysis to the tidyverse|834|2024-05-01|
 |68|[daattali/addinslist](https://github.com/daattali/addinslist)|📜 Discover and install useful RStudio addins |833|2024-01-16|
-|69|[hadley/r-pkgs](https://github.com/hadley/r-pkgs)|Building R packages|831|2024-05-30|
+|69|[hadley/r-pkgs](https://github.com/hadley/r-pkgs)|Building R packages|831|2024-05-31|
 |70|[quanteda/quanteda](https://github.com/quanteda/quanteda)|An R package for the Quantitative Analysis of Textual Data|828|2024-05-07|
 |71|[rstudio/keras](https://github.com/rstudio/keras)|R Interface to Keras|826|2024-05-21|
 |72|[r-lib/usethis](https://github.com/r-lib/usethis)|Set up commonly used 📦 components|820|2024-05-23|
 |73|[klmr/box](https://github.com/klmr/box)|Write reusable, composable and modular R code|817|2024-05-09|
 |74|[workflowr/workflowr](https://github.com/workflowr/workflowr)|Organize your project into a research website|812|2024-02-23|
 |75|[dreamRs/shinyWidgets](https://github.com/dreamRs/shinyWidgets)|shinyWidgets : Extend widgets available in shiny|809|2024-05-23|
-|76|[YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree)|:christmas_tree:Visualization and annotation of phylogenetic trees|808|2024-05-28|
+|76|[YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree)|:christmas_tree:Visualization and annotation of phylogenetic trees|809|2024-05-28|
 |77|[mjskay/ggdist](https://github.com/mjskay/ggdist)|Visualizations of distributions and uncertainty|801|2024-05-16|
 |78|[joshuaulrich/quantmod](https://github.com/joshuaulrich/quantmod)|Quantitative Financial Modelling Framework|791|2024-03-04|
 |79|[ropensci/rtweet](https://github.com/ropensci/rtweet)|🐦 R client for interacting with Twitter's [stream and REST] APIs|785|2024-04-15|
@@ -88,34 +88,34 @@
 |81|[ipeaGIT/geobr](https://github.com/ipeaGIT/geobr)|Easy access to official spatial data sets of Brazil in R and Python|770|2024-05-21|
 |82|[hrbrmstr/waffle](https://github.com/hrbrmstr/waffle)|:maple_leaf: Make waffle (square pie) charts in R|765|2024-01-08|
 |83|[dkahle/ggmap](https://github.com/dkahle/ggmap)|A package for plotting maps in R with ggplot2|761|2024-02-29|
-|84|[rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)|-|758|2024-03-08|
+|84|[rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)|-|760|2024-03-08|
 |85|[davidgohel/ggiraph](https://github.com/davidgohel/ggiraph)|make 'ggplot' graphics interactive|755|2024-05-17|
 |86|[tidymodels/tidymodels](https://github.com/tidymodels/tidymodels)|Easily install and load the tidymodels packages|741|2024-03-26|
 |87|[hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR)|An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..  |738|2024-05-21|
 |88|[tidyverse/reprex](https://github.com/tidyverse/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|731|2024-01-12|
-|89|[GuangchuangYu/hexSticker](https://github.com/GuangchuangYu/hexSticker)|:sparkles: Hexagon sticker in R|727|2024-05-30|
+|89|[GuangchuangYu/hexSticker](https://github.com/GuangchuangYu/hexSticker)|:sparkles: Hexagon sticker in R|728|2024-05-30|
 |90|[tidyverse/lubridate](https://github.com/tidyverse/lubridate)|Make working with dates in R just that little bit easier|721|2024-02-12|
 |91|[jbkunst/highcharter](https://github.com/jbkunst/highcharter)|R wrapper for highcharts|716|2024-03-13|
 |92|[rstudio/ggvis](https://github.com/rstudio/ggvis)|Interactive grammar of graphics for R|714|2024-02-09|
 |93|[mjskay/tidybayes](https://github.com/mjskay/tidybayes)|Bayesian analysis + tidy data + geoms (R package)|708|2024-04-24|
-|94|[opencpu/opencpu](https://github.com/opencpu/opencpu)|OpenCPU system for embedded scientific computation and reproducible research|707|2024-05-24|
+|94|[opencpu/opencpu](https://github.com/opencpu/opencpu)|OpenCPU system for embedded scientific computation and reproducible research|708|2024-05-24|
 |95|[tidymodels/infer](https://github.com/tidymodels/infer)|An R package for tidyverse-friendly statistical inference|706|2024-03-27|
-|96|[r-lib/pkgdown](https://github.com/r-lib/pkgdown)|Generate static html documentation for an R package|703|2024-05-30|
+|96|[r-lib/pkgdown](https://github.com/r-lib/pkgdown)|Generate static html documentation for an R package|703|2024-05-31|
 |97|[erikaduan/r_tips](https://github.com/erikaduan/r_tips)|A repository of R usage tips for data cleaning, data mining, data visualisation, statistical inference and machine learning|697|2024-05-12|
 |98|[r-lib/styler](https://github.com/r-lib/styler)|Non-invasive pretty printing of R code|695|2024-05-24|
 |99|[wilkelab/cowplot](https://github.com/wilkelab/cowplot)|cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2|693|2024-03-13|
 |100|[tidyverse/glue](https://github.com/tidyverse/glue)|Glue strings to data in R. Small, fast, dependency free interpreted string literals.|689|2024-02-29|
 |101|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |676|2024-05-28|
-|102|[rweekly/rweekly.org](https://github.com/rweekly/rweekly.org)|R Weekly|674|2024-05-30|
-|103|[easystats/report](https://github.com/easystats/report)|:scroll: :tada: Automated reporting of objects in R|667|2024-05-30|
+|102|[rweekly/rweekly.org](https://github.com/rweekly/rweekly.org)|R Weekly|674|2024-05-31|
+|103|[easystats/report](https://github.com/easystats/report)|:scroll: :tada: Automated reporting of objects in R|667|2024-05-31|
 |104|[benmarwick/rrtools](https://github.com/benmarwick/rrtools)|rrtools: Tools for Writing Reproducible Research in R|665|2024-03-14|
 |105|[gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday)|Code and plots for submissions to the #tidytuesday challenge|659|2024-05-26|
 |106|[tidyverse/dtplyr](https://github.com/tidyverse/dtplyr)|Data table backend for dplyr|654|2024-02-21|
 |107|[hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt)|:earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2'|653|2024-04-03|
-|108|[tidyverse/tibble](https://github.com/tidyverse/tibble)|A modern re-imagining of the data frame|649|2024-05-27|
+|108|[tidyverse/tibble](https://github.com/tidyverse/tibble)|A modern re-imagining of the data frame|650|2024-05-31|
 |109|[wilkelab/ggtext](https://github.com/wilkelab/ggtext)|Improved text rendering support for ggplot2|648|2023-12-19|
 |110|[njtierney/naniar](https://github.com/njtierney/naniar)|Tidy data structures, summaries, and visualisations for missing data|643|2024-03-16|
-|111|[TheEconomist/covid-19-excess-deaths-tracker](https://github.com/TheEconomist/covid-19-excess-deaths-tracker)|Source code and data for The Economist's covid-19 excess deaths tracker|642|2024-05-30|
+|111|[TheEconomist/covid-19-excess-deaths-tracker](https://github.com/TheEconomist/covid-19-excess-deaths-tracker)|Source code and data for The Economist's covid-19 excess deaths tracker|642|2024-05-31|
 |112|[nanxstats/ggsci](https://github.com/nanxstats/ggsci)|🦄 Scientific journal and sci-fi themed color palettes for ggplot2|641|2024-05-23|
 |113|[r-spatial/rgee](https://github.com/r-spatial/rgee)|Google Earth Engine for R|637|2024-05-29|
 |114|[giocomai/ganttrify](https://github.com/giocomai/ganttrify)|Create beautiful Gantt charts with ggplot2|629|2024-03-10|
@@ -125,17 +125,17 @@
 |118|[AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath)|Create curved text paths in ggplot2|617|2024-05-28|
 |119|[fstpackage/fst](https://github.com/fstpackage/fst)|Lightning Fast Serialization of Data Frames for R|613|2024-02-08|
 |120|[datalorax/equatiomatic](https://github.com/datalorax/equatiomatic)|Convert models to LaTeX equations|610|2024-05-28|
-|121|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|606|2024-05-29|
-|122|[ajdamico/asdfree](https://github.com/ajdamico/asdfree)|analyze survey data for free|602|2024-05-30|
+|121|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|605|2024-05-30|
+|122|[ajdamico/asdfree](https://github.com/ajdamico/asdfree)|analyze survey data for free|602|2024-05-31|
 |123|[strengejacke/sjPlot](https://github.com/strengejacke/sjPlot)|sjPlot - Data Visualization for Statistics in Social Science|600|2024-05-13|
 |124|[business-science/timetk](https://github.com/business-science/timetk)|Time series analysis in the `tidyverse`|598|2024-02-23|
-|125|[sqjin/CellChat](https://github.com/sqjin/CellChat)|R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data|596|2024-01-06|
+|125|[sqjin/CellChat](https://github.com/sqjin/CellChat)|R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data|597|2024-01-06|
 |126|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|592|2024-02-05|
 |127|[gesistsa/rio](https://github.com/gesistsa/rio)|🐟 A Swiss-Army Knife for Data I/O|590|2024-05-27|
-|128|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|586|2024-05-22|
+|128|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|588|2024-05-22|
 |129|[tidymodels/corrr](https://github.com/tidymodels/corrr)|Explore correlations in R|586|2024-01-05|
 |130|[tidyverse/stringr](https://github.com/tidyverse/stringr)|A fresh approach to string manipulation in R|583|2024-04-29|
-|131|[davidgohel/officer](https://github.com/davidgohel/officer)|:cop: officer: office documents from R|581|2024-05-19|
+|131|[davidgohel/officer](https://github.com/davidgohel/officer)|:cop: officer: office documents from R|581|2024-05-31|
 |132|[ggobi/ggally](https://github.com/ggobi/ggally)|R package that extends ggplot2|581|2024-05-15|
 |133|[r-lib/roxygen2](https://github.com/r-lib/roxygen2)|Generate R package documentation from inline R comments|579|2024-05-24|
 |134|[elbersb/tidylog](https://github.com/elbersb/tidylog)|Tidylog provides feedback about dplyr and tidyr operations. It provides wrapper functions for the most common functions, such as filter, mutate, select, and group_by, and provides detailed output for  ...|577|2024-05-08|
@@ -143,20 +143,20 @@
 |136|[tidymodels/parsnip](https://github.com/tidymodels/parsnip)|A tidy unified interface to models|562|2024-05-23|
 |137|[r-lidar/lidR](https://github.com/r-lidar/lidR)|Airborne LiDAR data manipulation and visualisation for forestry application|562|2024-05-20|
 |138|[thackl/gggenomes](https://github.com/thackl/gggenomes)|A grammar of graphics for comparative genomics|561|2024-03-08|
-|139|[const-ae/ggsignif](https://github.com/const-ae/ggsignif)|Easily add significance brackets to your ggplots|561|2024-05-20|
-|140|[joey711/phyloseq](https://github.com/joey711/phyloseq)|phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See ...|560|2024-04-29|
+|139|[const-ae/ggsignif](https://github.com/const-ae/ggsignif)|Easily add significance brackets to your ggplots|561|2024-05-31|
+|140|[joey711/phyloseq](https://github.com/joey711/phyloseq)|phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See ...|561|2024-04-29|
 |141|[REditorSupport/languageserver](https://github.com/REditorSupport/languageserver)|An implementation of the Language Server Protocol for R|559|2024-04-29|
 |142|[tidyverts/fable](https://github.com/tidyverts/fable)|Tidy time series forecasting|552|2024-05-13|
 |143|[easystats/bayestestR](https://github.com/easystats/bayestestR)|:ghost: Utilities for analyzing Bayesian models and posterior distributions|548|2024-05-24|
-|144|[JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock)|Clock using time quotes from the literature, based on the work of Jaap Meijers|546|2024-02-24|
-|145|[tidymodels/recipes](https://github.com/tidymodels/recipes)|Pipeable steps for feature engineering and data preprocessing to prepare for modeling|546|2024-05-30|
+|144|[JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock)|Clock using time quotes from the literature, based on the work of Jaap Meijers|547|2024-02-24|
+|145|[tidymodels/recipes](https://github.com/tidymodels/recipes)|Pipeable steps for feature engineering and data preprocessing to prepare for modeling|546|2024-05-31|
 |146|[r-spatial/stars](https://github.com/r-spatial/stars)|Spatiotemporal Arrays, Raster and Vector Data Cubes|544|2024-05-17|
 |147|[thomasp85/tidygraph](https://github.com/thomasp85/tidygraph)|A tidy API for graph manipulation|541|2024-01-30|
 |148|[tidyverse/forcats](https://github.com/tidyverse/forcats)|🐈🐈🐈🐈: tools for working with categorical variables (factors)|538|2024-02-23|
 |149|[davidgohel/flextable](https://github.com/davidgohel/flextable)|table farming|536|2024-05-05|
 |150|[ropensci/tabulapdf](https://github.com/ropensci/tabulapdf)|Bindings for Tabula PDF Table Extractor Library|536|2024-05-20|
 |151|[rstudio/blastula](https://github.com/rstudio/blastula)|Easily send great-looking HTML email messages from R|532|2024-02-24|
-|152|[igraph/rigraph](https://github.com/igraph/rigraph)|igraph R package|528|2024-05-30|
+|152|[igraph/rigraph](https://github.com/igraph/rigraph)|igraph R package|528|2024-05-31|
 |153|[eclarke/ggbeeswarm](https://github.com/eclarke/ggbeeswarm)|Column scatter / beeswarm-style plots in ggplot2|527|2024-05-12|
 |154|[teunbrand/ggh4x](https://github.com/teunbrand/ggh4x)|ggplot extension: options for tailored facets, multiple colourscales and miscellaneous|526|2024-03-25|
 |155|[tidyverts/tsibble](https://github.com/tidyverts/tsibble)|Tidy Temporal Data Frames and Tools|524|2024-05-12|
@@ -176,15 +176,15 @@
 |169|[hadley/plyr](https://github.com/hadley/plyr)|A R package for splitting, applying and combining large problems into simpler problems|494|2024-05-28|
 |170|[cynkra/dm](https://github.com/cynkra/dm)|Working with relational data models in R|492|2024-05-29|
 |171|[YinLiLin/CMplot](https://github.com/YinLiLin/CMplot)|📊 Circular and Rectangular Manhattan Plot|492|2024-05-20|
-|172|[giuseppec/iml](https://github.com/giuseppec/iml)|iml: interpretable machine learning R package|487|2024-05-30|
+|172|[giuseppec/iml](https://github.com/giuseppec/iml)|iml: interpretable machine learning R package|487|2024-05-31|
 |173|[marcusvolz/strava](https://github.com/marcusvolz/strava)|Create artistic visualisations with your exercise data|484|2024-01-01|
-|174|[r-lib/rlang](https://github.com/r-lib/rlang)|Low-level API for programming with R|482|2024-05-15|
+|174|[r-lib/rlang](https://github.com/r-lib/rlang)|Low-level API for programming with R|483|2024-05-31|
 |175|[kassambara/survminer](https://github.com/kassambara/survminer)|Survival Analysis and Visualization|480|2024-04-08|
 |176|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|473|2024-05-28|
 |177|[wilkox/gggenes](https://github.com/wilkox/gggenes)|➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2|471|2024-02-24|
 |178|[tidyverse/dbplyr](https://github.com/tidyverse/dbplyr)|Database (DBI) backend for dplyr|464|2024-05-16|
 |179|[tonyfischetti/assertr](https://github.com/tonyfischetti/assertr)|Assertive programming for R analysis pipelines|463|2024-04-11|
-|180|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|460|2024-05-30|
+|180|[TheEconomist/covid-19-the-economist-global-excess-deaths-model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)|The Economist's model to estimate excess deaths to the covid-19 pandemic|460|2024-05-31|
 |181|[r-lib/progress](https://github.com/r-lib/progress)|Progress bar in your R terminal|457|2024-03-01|
 |182|[hbctraining/scRNA-seq_online](https://github.com/hbctraining/scRNA-seq_online)|-|455|2024-05-14|
 |183|[benjjneb/dada2](https://github.com/benjjneb/dada2)|Accurate sample inference from amplicon data with single nucleotide resolution|455|2024-05-27|
@@ -196,12 +196,12 @@
 |189|[rstudio/hex-stickers](https://github.com/rstudio/hex-stickers)|RStudio hex stickers|436|2024-05-30|
 |190|[e-sensing/sits](https://github.com/e-sensing/sits)|Satellite image time series in R|433|2024-05-29|
 |191|[vegandevs/vegan](https://github.com/vegandevs/vegan)|R package for community ecologists: popular ordination methods, ecological null models & diversity analysis|431|2024-05-28|
-|192|[nmaggiulli/of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data)|Repo for ofdollarsanddata.com blog|427|2024-05-30|
+|192|[nmaggiulli/of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data)|Repo for ofdollarsanddata.com blog|427|2024-05-31|
 |193|[RinteRface/bs4Dash](https://github.com/RinteRface/bs4Dash)|Bootstrap 4 shinydashboard using AdminLTE3|425|2024-02-05|
 |194|[r-causal/ggdag](https://github.com/r-causal/ggdag)|:arrow_lower_left: :arrow_lower_right: An R package for working with causal directed acyclic graphs (DAGs)|425|2024-03-20|
-|195|[PoisonAlien/maftools](https://github.com/PoisonAlien/maftools)|Summarize, Analyze and Visualize MAF files from TCGA or in-house studies.|423|2024-05-29|
-|196|[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)|A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat|422|2024-05-07|
-|197|[ropensci-review-tools/goodpractice](https://github.com/ropensci-review-tools/goodpractice)|Advice on R Package Building|422|2024-05-29|
+|195|[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)|A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat|424|2024-05-07|
+|196|[PoisonAlien/maftools](https://github.com/PoisonAlien/maftools)|Summarize, Analyze and Visualize MAF files from TCGA or in-house studies.|424|2024-05-29|
+|197|[ropensci-review-tools/goodpractice](https://github.com/ropensci-review-tools/goodpractice)|Advice on R Package Building|423|2024-05-29|
 |198|[RamiKrispin/TSstudio](https://github.com/RamiKrispin/TSstudio)|Tools for time series analysis and forecasting|418|2024-01-22|
 |199|[stan-dev/bayesplot](https://github.com/stan-dev/bayesplot)|bayesplot R package for plotting Bayesian models|418|2024-05-20|
 |200|[amices/mice](https://github.com/amices/mice)|Multivariate Imputation by Chained Equations|418|2024-05-29|
