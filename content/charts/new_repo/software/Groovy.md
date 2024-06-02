@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -42,7 +42,7 @@
 |35|[SAP-samples/easy-extension-samples](https://github.com/SAP-samples/easy-extension-samples)|Sample extensions for Easy Extension Framework.|3|2024-04-23|2023-06-13|
 |36|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
 |37|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|38|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|2|2024-05-29|2024-03-22|
+|38|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|2|2024-05-31|2024-03-22|
 |39|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
 |40|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|
 |41|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-05-09|2024-02-08|

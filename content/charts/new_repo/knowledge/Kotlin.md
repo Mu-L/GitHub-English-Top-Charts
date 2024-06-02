@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|226|2024-05-28|2024-01-19|
+|1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-01|2024-01-19|
 |2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|145|2024-05-05|2023-10-18|
-|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|95|2024-05-25|2024-01-08|
+|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|96|2024-05-25|2024-01-08|
 |4|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |86|2024-04-21|2024-01-24|
 |5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|85|2024-05-03|2024-02-06|
 |6|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|83|2024-05-31|2024-04-08|
@@ -18,27 +18,27 @@
 |11|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|51|2024-05-30|2024-02-14|
 |12|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2024-04-08|2023-09-12|
 |13|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
-|14|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|30|2024-02-28|2023-12-13|
-|15|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|30|2024-05-31|2023-10-24|
+|14|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|32|2024-05-31|2023-10-24|
+|15|[Askeri-Muhendis/GeminiAI](https://github.com/Askeri-Muhendis/GeminiAI)|This project provides basic examples to start using Gemini AI|30|2024-02-28|2023-12-13|
 |16|[sagardhadke/LockQR](https://github.com/sagardhadke/LockQR)|LockQR: Effortless QR Code Generation, Free and Shareable|30|2024-03-15|2023-06-25|
 |17|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|23|2024-04-13|2024-01-13|
 |18|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|23|2024-05-29|2023-08-11|
 |19|[Felix-Kariuki/FreeToGame](https://github.com/Felix-Kariuki/FreeToGame)|This is a KMP project for Android, IOS, Desktop and Wear Os with shared UI using Compose UI|22|2024-01-01|2023-11-26|
-|20|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
-|21|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-05-08|2024-02-29|
-|22|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
-|23|[DevHumbleChris/jetpack-compose-login-registration-samples](https://github.com/DevHumbleChris/jetpack-compose-login-registration-samples)|This repository contains a collection of Auth screens built using Jetpack Compose, a modern Android UI toolkit.|19|2024-01-12|2023-11-24|
-|24|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|
-|25|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|18|2024-05-31|2024-05-25|
-|26|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|17|2024-02-08|2024-02-08|
-|27|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|16|2024-04-17|2024-04-01|
-|28|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|14|2024-04-07|2024-04-07|
-|29|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|14|2024-04-01|2023-11-13|
-|30|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|14|2024-01-26|2023-07-04|
-|31|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|14|2024-03-21|2023-06-15|
-|32|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |13|2024-02-27|2024-02-26|
-|33|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|13|2023-12-25|2023-12-22|
-|34|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-05-30|2023-10-11|
+|20|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|21|2024-05-31|2024-05-25|
+|21|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
+|22|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-05-08|2024-02-29|
+|23|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
+|24|[DevHumbleChris/jetpack-compose-login-registration-samples](https://github.com/DevHumbleChris/jetpack-compose-login-registration-samples)|This repository contains a collection of Auth screens built using Jetpack Compose, a modern Android UI toolkit.|19|2024-01-12|2023-11-24|
+|25|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|
+|26|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|17|2024-04-17|2024-04-01|
+|27|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|17|2024-02-08|2024-02-08|
+|28|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|15|2024-01-26|2023-07-04|
+|29|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|14|2024-04-07|2024-04-07|
+|30|[chiragthummar/JetpackComposeMVIArchitecture](https://github.com/chiragthummar/JetpackComposeMVIArchitecture)|Dive into MVI Architecture using Retrofit2 and Dagger-Hilt in this Full Guide|14|2023-12-25|2023-12-22|
+|31|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|14|2024-04-01|2023-11-13|
+|32|[uberto/fotf](https://github.com/uberto/fotf)|Code of the book From Object To Functions|14|2024-03-21|2023-06-15|
+|33|[UxHarshit/ProCodeLC](https://github.com/UxHarshit/ProCodeLC)|Leetcode premium company question for free |13|2024-02-27|2024-02-26|
+|34|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-06-01|2023-10-11|
 |35|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|12|2024-05-28|2024-05-19|
 |36|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
 |37|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 20 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-05-31|2023-12-29|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,16 +11,16 @@
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|384|2024-04-12|2023-09-16|
 |5|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|355|2024-04-17|2023-10-25|
 |6|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|298|2024-04-02|2023-08-28|
-|7|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|276|2024-05-20|2023-07-21|
+|7|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|276|2024-05-31|2023-07-21|
 |8|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|244|2024-04-04|2024-01-14|
-|9|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|241|2024-05-28|2024-03-22|
-|10|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |221|2024-05-27|2023-08-16|
+|9|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|242|2024-05-28|2024-03-22|
+|10|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |222|2024-05-27|2023-08-16|
 |11|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|187|2024-03-08|2023-07-23|
 |12|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|159|2024-05-17|2023-07-29|
 |13|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|154|2024-05-31|2023-11-07|
 |14|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|152|2024-03-04|2023-07-18|
-|15|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|123|2024-05-31|2023-07-03|
-|16|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|117|2024-05-28|2024-01-06|
+|15|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|123|2024-06-01|2023-07-03|
+|16|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|119|2024-05-28|2024-01-06|
 |17|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|115|2024-04-05|2024-03-20|
 |18|[naksyn/Embedder](https://github.com/naksyn/Embedder)|Embedder is a collection of sources in different languages to embed Python interpreter with minimal dependencies|107|2024-05-29|2023-07-13|
 |19|[bisqwit/fft](https://github.com/bisqwit/fft)|A collection of Fast Fourier Transform algorithms implemented in C++20.|98|2023-12-08|2023-11-17|
