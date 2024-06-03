@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,22 +10,22 @@
 |3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|175|2024-04-13|2024-02-01|
 |4|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |118|2024-05-27|2023-11-03|
 |5|[SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide)|UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|114|2024-01-16|2023-06-12|
-|6|[piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|71|2024-06-01|2023-11-26|
-|7|[Viiiikedy/Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning)|✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨|65|2024-02-07|2023-09-11|
-|8|[apu52/METAVERSE](https://github.com/apu52/METAVERSE)|🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute  ...|65|2024-06-01|2023-07-11|
+|6|[piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|73|2024-06-02|2023-11-26|
+|7|[apu52/METAVERSE](https://github.com/apu52/METAVERSE)|🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute  ...|66|2024-06-02|2023-07-11|
+|8|[Viiiikedy/Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning)|✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨|65|2024-02-07|2023-09-11|
 |9|[roberto-butti/some-drops-of-php](https://github.com/roberto-butti/some-drops-of-php)|"Some drops of PHP", this book collects some useful, unknown, underrated PHP functions discovered and learned while using PHP daily.|64|2023-12-29|2023-10-01|
-|10|[CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)|This is a blog for the CSEdge which consists simple articles on different tech things how to do? and what to do?|62|2024-06-01|2024-05-01|
+|10|[CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)|This is a blog for the CSEdge which consists simple articles on different tech things how to do? and what to do?|62|2024-06-02|2024-05-01|
 |11|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|59|2024-05-30|2023-09-20|
-|12|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|54|2024-05-27|2023-11-24|
+|12|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|54|2024-06-02|2023-11-24|
 |13|[frontend-joe/css-components](https://github.com/frontend-joe/css-components)|Collection of components built with just HTML and CSS.|47|2024-05-27|2024-02-19|
 |14|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|42|2024-01-23|2023-10-27|
 |15|[bgplab/bgplab](https://github.com/bgplab/bgplab)|Master BGP configuration with this set of virtual labs|36|2024-02-04|2023-08-03|
 |16|[c1982/gokonf02172024](https://github.com/c1982/gokonf02172024)|gokonf 2024 Go Çalımları - Go Tips and Tricks|34|2024-02-26|2024-02-19|
 |17|[SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)|UniCollab is more than just a platform; it's a gateway to a world where students from different universities/colleges converge to collaborate, innovate, and elevate their projects. Imagine a space whe ...|30|2024-05-20|2023-09-19|
 |18|[SEELE1306/CSS-Snippets](https://github.com/SEELE1306/CSS-Snippets)|A compilation of CSS snippets for Vencord / Vesktop.|27|2024-04-25|2023-09-23|
-|19|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|27|2024-06-01|2023-09-03|
+|19|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|27|2024-06-02|2023-09-03|
 |20|[SixArm/startup-business-guide](https://github.com/SixArm/startup-business-guide)|Startup Business Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).|27|2024-01-16|2023-06-18|
-|21|[HashimThePassionate/ultimate-django-for-everyone](https://github.com/HashimThePassionate/ultimate-django-for-everyone)|Welcome to the ultimate Django repository! Whether you're a beginner or seasoned developer, here you'll find everything to master Django. Dive into tutorials, projects, and join a vibrant community to ...|25|2024-05-28|2024-01-23|
+|21|[HashimThePassionate/ultimate-django-for-everyone](https://github.com/HashimThePassionate/ultimate-django-for-everyone)|Welcome to the ultimate Django repository! Whether you're a beginner or seasoned developer, here you'll find everything to master Django. Dive into tutorials, projects, and join a vibrant community to ...|26|2024-05-28|2024-01-23|
 |22|[GrahamTheDevRel/a11y-monsters](https://github.com/GrahamTheDevRel/a11y-monsters)|Monorepo for all activities related to the a11y monsters, a cohort learning accessibility.|25|2023-12-20|2023-11-25|
 |23|[glaucia86/golang-studies](https://github.com/glaucia86/golang-studies)|A repository with intention to learn Golang|25|2023-12-27|2023-11-16|
 |24|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|25|2024-03-12|2023-11-11|
@@ -56,7 +56,7 @@
 |49|[framer/plugins](https://github.com/framer/plugins)|A collection of example Framer Plugins.|13|2024-05-10|2024-03-05|
 |50|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|13|2024-05-15|2024-03-01|
 |51|[extendr/user-guide](https://github.com/extendr/user-guide)|User guide for the extendr software suite: Examples, design patterns and workflows|13|2024-04-09|2024-02-24|
-|52|[SartHak-0-Sach/Bookmark-landing-page_frontend_project](https://github.com/SartHak-0-Sach/Bookmark-landing-page_frontend_project)|Welcome to Bookmark Landing Page, the gateway to an efficient bookmark manager. Seamlessly switch between devices while enjoying the optimal layout and interactive elements tailored to your screen siz ...|13|2024-05-16|2024-01-18|
+|52|[SartHak-0-Sach/Bookmark-landing-page_frontend_project](https://github.com/SartHak-0-Sach/Bookmark-landing-page_frontend_project)|Welcome to Bookmark Landing Page, the gateway to an efficient bookmark manager. Seamlessly switch between devices while enjoying the optimal layout and interactive elements tailored to your screen siz ...|13|2024-06-02|2024-01-18|
 |53|[SartHak-0-Sach/Article-preview-component_frontend_project](https://github.com/SartHak-0-Sach/Article-preview-component_frontend_project)|Welcome to the Article Preview Component, a sleek card-like component for displaying article previews with social media share functionality. Enjoy a responsive layout and seamless sharing options with ...|13|2024-05-27|2024-01-18|
 |54|[ChisomJude/Hands-on-Devops-Project](https://github.com/ChisomJude/Hands-on-Devops-Project)|This is a beginner friendly project Devops, Learn by doing |13|2024-05-19|2024-01-09|
 |55|[merill/refined-microsoft-learn](https://github.com/merill/refined-microsoft-learn)|Chrome extension to make Microsoft Learn better. Focus on the content without distractions.|13|2024-05-16|2023-12-22|
@@ -64,8 +64,8 @@
 |57|[csharpfritz/NewInNET8](https://github.com/csharpfritz/NewInNET8)|A collection of samples showing some of the new features in .NET 8|12|2023-12-13|2023-12-13|
 |58|[3bbaas/GPA-Calculator](https://github.com/3bbaas/GPA-Calculator)|GPA Calculator for 6 courses.|12|2024-02-03|2023-11-29|
 |59|[xamionex/steamskins](https://github.com/xamionex/steamskins)|A wiki on how to skin steam|12|2024-04-06|2023-06-15|
-|60|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|12|2024-04-24|2023-06-15|
-|61|[withaarzoo/100-Days-of-Code](https://github.com/withaarzoo/100-Days-of-Code)|Welcome to my 100 Days of Code GitHub repository! Here, you'll find all the projects and code snippets I've worked on during my 100-day coding journey.|11|2024-05-31|2024-04-08|
+|60|[LiamSwayne/Obsidian-CSS-Snippets](https://github.com/LiamSwayne/Obsidian-CSS-Snippets)|A library of CSS snippets that customize the look of obsidian.|12|2024-06-02|2023-06-15|
+|61|[withaarzoo/100-Days-of-Code](https://github.com/withaarzoo/100-Days-of-Code)|Welcome to my 100 Days of Code GitHub repository! Here, you'll find all the projects and code snippets I've worked on during my 100-day coding journey.|11|2024-06-02|2024-04-08|
 |62|[SartHak-0-Sach/Intro-component-signup-form_frontend_project](https://github.com/SartHak-0-Sach/Intro-component-signup-form_frontend_project)|Enroll in our coding course with ease using the Intro Component Signup Form! This signup component allows users to view the optimal layout for the site depending on their device's screen size, receive ...|11|2024-05-30|2024-01-25|
 |63|[CMU-17-214/s2024](https://github.com/CMU-17-214/s2024)|Public course website for Spring 2024 materials.|11|2024-04-25|2024-01-08|
 |64|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|11|2024-05-29|2023-10-16|
@@ -87,7 +87,7 @@
 |80|[mariegrace31/bookstore](https://github.com/mariegrace31/bookstore)|The Bookstore is a website that displays a list of books, adds a book and, removes a selected book.|9|2023-12-09|2023-07-27|
 |81|[AushevAhmad/awesome-css](https://github.com/AushevAhmad/awesome-css)|Collection of awesome CSS for Discord|8|2024-04-21|2024-03-31|
 |82|[Nahiyan0Alam/Google_Login_Clone](https://github.com/Nahiyan0Alam/Google_Login_Clone)|It's a Facebook Login Form created by me in 2019. It's will be not match with current Facebook Form. It's only for educational purpose.|8|2024-03-11|2024-03-11|
-|83|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|8|2024-05-31|2023-10-16|
+|83|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|8|2024-06-02|2023-10-16|
 |84|[uclahs/surface](https://github.com/uclahs/surface)|Storybook Drupal Theme|7|2024-05-30|2024-02-28|
 |85|[WebDesignMastery/MNTN_13-02-24](https://github.com/WebDesignMastery/MNTN_13-02-24)|Create stunning websites with ease! Learn step-by-step 'How To Make a Beautiful Website Using HTML, CSS, and JavaScript.|7|2024-02-04|2024-02-04|
 |86|[smarter777/Solana-TradingView](https://github.com/smarter777/Solana-TradingView)|Example UI And TradingView Integration for the Openbook DEX protocol on Solana|7|2024-01-04|2024-01-04|
