@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-06-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|220|3|2024-05-24|
 |2|[nasa/Generic-Urban-Air-Mobility-GUAM](https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM)|-|29|2|2024-05-24|
-|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6667|2|2024-06-01|
-|4|[Azurehappen/UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|Risk-Averse Optimization framework for RTK-GNSS/INS urban navigation.|19|1|2024-05-20|
-|5|[gisbi-kim/scancontext_tro](https://github.com/gisbi-kim/scancontext_tro)|scancontext++ (TRO 2022) codes |138|1|2023-12-04|
+|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6670|2|2024-06-01|
+|4|[complexphoton/SMTexperiment](https://github.com/complexphoton/SMTexperiment)|-|3|2|2024-06-03|
+|5|[Azurehappen/UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|Risk-Averse Optimization framework for RTK-GNSS/INS urban navigation.|19|1|2024-05-20|
 |6|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2398|1|2024-01-15|
 |7|[mpoluektov/kan-polar](https://github.com/mpoluektov/kan-polar)|Kolmogorov-Arnold Networks in MATLAB|24|1|2024-05-15|
 |8|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|609|1|2024-05-23|
@@ -69,13 +69,13 @@
 |62|[PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs](https://github.com/PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs)|Source Code for research: Light Field Depth Estimation Based on Stitched-EPIs|3|0|2024-01-18|
 |63|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-03|
 |64|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|28|0|2024-05-29|
-|65|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|43|0|2023-12-07|
+|65|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|44|0|2023-12-07|
 |66|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-05-14|
 |67|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|179|0|2024-05-02|
 |68|[WitsOCLab/StokesCamera](https://github.com/WitsOCLab/StokesCamera)|Real-time stokes polarimetry using a polarisation camera and MATLAB (for now...)|3|0|2023-12-13|
 |69|[SyedShehryarAli/EV-Speed-Control-](https://github.com/SyedShehryarAli/EV-Speed-Control-)|This repository contains the Electric Vehicle (EV) dataset and Matlab code for speed control and energy efficiency in EVs using Optimization Techniques|3|0|2024-03-04|
 |70|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|3|0|2024-05-14|
-|71|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|12|0|2024-01-28|
+|71|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|13|0|2024-01-28|
 |72|[ZehuaJia/Tube-based-MPC-for-nonlinear-systems](https://github.com/ZehuaJia/Tube-based-MPC-for-nonlinear-systems)|The reproduction of tube-based MPC for nonlinear systems|27|0|2024-05-15|
 |73|[genssi-developer/GenSSI](https://github.com/genssi-developer/GenSSI)|GenSSI 2.0 - Generating Series for testing Structural Identifiability|14|0|2024-04-06|
 |74|[Rchi666/EV_Truck_Model](https://github.com/Rchi666/EV_Truck_Model)|A battery-electric truck model based on MATLAB/Simulink environment|4|0|2023-12-09|
@@ -91,7 +91,7 @@
 |84|[meghbali/MultiScalePlasticity](https://github.com/meghbali/MultiScalePlasticity)|Homogenization (Upscaling) framework for an REV with elastoplastic constituents|4|0|2023-12-11|
 |85|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|6|0|2024-04-03|
 |86|[AthinaLange/CoastalLens](https://github.com/AthinaLange/CoastalLens)|Toolbox to rectify UAV video in coastal oceanography|3|0|2024-04-09|
-|87|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|325|0|2024-05-27|
+|87|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|326|0|2024-05-27|
 |88|[vistalab/PRFmodel](https://github.com/vistalab/PRFmodel)|-|10|0|2024-01-25|
 |89|[basp-group/BUQO](https://github.com/basp-group/BUQO)|BUQO: Bayesian Uncertainty Quantification by Optimisation|4|0|2024-02-04|
 |90|[ARDVARC/ARDVARC](https://github.com/ARDVARC/ARDVARC)|Team ARDVARC's github repository|5|0|2024-05-04|
@@ -118,7 +118,7 @@
 |111|[Canhui/Ant_Colony_Optimization](https://github.com/Canhui/Ant_Colony_Optimization)|ACO_for_TSP|4|0|2024-03-02|
 |112|[Jai-Tushar/Finite-Difference-Methods](https://github.com/Jai-Tushar/Finite-Difference-Methods)|This repository contains codes for solving partial differential equations using Finite Difference Methods in MATLAB.|4|0|2024-02-06|
 |113|[michaled/PH-CPF](https://github.com/michaled/PH-CPF)|MATLAB implementation of "PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields" by Kacper Pluta, Michal Edelstein, Amir Vaxman and Mirela Ben-Chen.|6|0|2024-04-12|
-|114|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|64|0|2024-04-17|
+|114|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|65|0|2024-04-17|
 |115|[juangburgos/FitSumExponentials](https://github.com/juangburgos/FitSumExponentials)|Repo to license code for fitting a sum of exponentials as described in https://math.stackexchange.com/questions/1428566/fit-sum-of-exponentials/3808325#3808325|8|0|2024-05-16|
 |116|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|15|0|2024-03-10|
 |117|[dnafinder/logistic5](https://github.com/dnafinder/logistic5)|Five parameters logistic regression|5|0|2024-02-16|
@@ -158,7 +158,7 @@
 |151|[Virgeo/Graph-based-subspsce-clustering](https://github.com/Virgeo/Graph-based-subspsce-clustering)|-|25|0|2024-01-26|
 |152|[niconeuman/octaveScripts](https://github.com/niconeuman/octaveScripts)|In this repository several Octave scripts will be available|6|0|2024-01-10|
 |153|[pliumath/dependencies](https://github.com/pliumath/dependencies)|-|4|0|2024-04-05|
-|154|[ISET/isetauto](https://github.com/ISET/isetauto)|Testing how networks perform when data are collected using different cameras|10|0|2024-05-29|
+|154|[ISET/isetauto](https://github.com/ISET/isetauto)|Testing how networks perform when data are collected using different cameras|10|0|2024-06-04|
 |155|[barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility](https://github.com/barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility)|-|6|0|2024-03-06|
 |156|[le-liang/ResourceAllocationDelayedCSI](https://github.com/le-liang/ResourceAllocationDelayedCSI)|Spectrum and power allocation for vehicular communications with delayed CSI feedback, IEEE Wireless Communications Letters|63|0|2024-01-03|
 |157|[rlrangel/FEMOOLab](https://github.com/rlrangel/FEMOOLab)|Finite Element Method Object-Oriented Laboratory (FEMOOLab) is a MATLAB program for performing FEM-based numerical simulations, implemented in a modular OOP framework to allow different types of model ...|5|0|2024-03-20|

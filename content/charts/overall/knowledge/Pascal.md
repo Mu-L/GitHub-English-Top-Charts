@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-06-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1760|2024-04-25|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1761|2024-04-25|
 |2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|240|2024-06-02|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|165|2024-05-11|
 |4|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|143|2024-04-20|
@@ -45,7 +45,7 @@
 |38|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|2024-05-31|
 |39|[fre-sch/starfield-toolbox](https://github.com/fre-sch/starfield-toolbox)|Various scripts for xedit and Blender, and documentation on how to mod specific things in Starfield|3|2023-12-22|
 |40|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|2024-06-01|
-|41|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-05-28|
+|41|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-06-04|
 |42|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |3|2024-05-22|
 |43|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
 |44|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|

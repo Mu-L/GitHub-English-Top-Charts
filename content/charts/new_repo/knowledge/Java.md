@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Java
-<sub>Updated: 2024-06-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Learn System Design concepts and prepare for interviews using free resources.|12654|2024-06-02|2023-10-25|
-|2|[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)|Learn Low Level Design (LLD) and prepare for interviews using free resources.|4623|2024-06-01|2023-11-17|
-|3|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2348|2024-04-17|2023-08-07|
-|4|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析JAR包搜索，方法调用关系搜索，字符串搜索，Spring组件分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，字节码指令级的动态调试分析，命令行分析，反编译JAR包一键导出，一键提取序列化数据恶意代码|632|2024-06-02|2023-10-07|
-|5|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|268|2024-05-29|2023-07-10|
-|6|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|165|2024-05-07|2023-11-27|
+|1|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Learn System Design concepts and prepare for interviews using free resources.|12711|2024-06-02|2023-10-25|
+|2|[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)|Learn Low Level Design (LLD) and prepare for interviews using free resources.|4644|2024-06-01|2023-11-17|
+|3|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2396|2024-04-17|2023-08-07|
+|4|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析JAR包搜索，方法调用关系搜索，字符串搜索，Spring组件分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，字节码指令级的动态调试分析，命令行分析，反编译JAR包一键导出，一键提取序列化数据恶意代码|635|2024-06-02|2023-10-07|
+|5|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|273|2024-05-29|2023-07-10|
+|6|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|166|2024-05-07|2023-11-27|
 |7|[oxylabs/stackshare-scraper](https://github.com/oxylabs/stackshare-scraper)|Stackshare Scraper API is a powerful tool designed to extract technology stack data from Stackshare.io. It simplifies data retrieval, aiding research and competitive analysis tasks.|114|2024-04-19|2023-12-18|
 |8|[tnhnOzturk/TikTok-tool-2024](https://github.com/tnhnOzturk/TikTok-tool-2024)|tiktok views bot 2024 /  tiktok view bot /  tiktok views / tiktok followers bot /  tiktok views bot / tiktok likes bot /  tiktok shares bot /  tiktok viewbot /  tiktok favorites bot / tiktok Comment b ...|85|2024-05-26|2024-01-21|
 |9|[TuGraph-family/TuGraph-AntGraphLearning](https://github.com/TuGraph-family/TuGraph-AntGraphLearning)|Ant Graph Learning (AGL) provides a comprehensive solution for graph learning tasks at an industrial scale.|69|2024-01-12|2023-08-21|
@@ -24,8 +24,7 @@
 |17|[mlkmhd/devops-diagrams](https://github.com/mlkmhd/devops-diagrams)|A collection of diagrams for devops tools|46|2024-03-02|2023-06-13|
 |18|[wLUOw/SUSTech_Math_Course_Materials](https://github.com/wLUOw/SUSTech_Math_Course_Materials)|Some Math course materials of SUSTech|43|2024-01-05|2023-09-09|
 |19|[redplanetlabs/rama-examples](https://github.com/redplanetlabs/rama-examples)|Examples from the Rama documentation|34|2023-12-26|2023-08-20|
-|20|[nzaeta/SecurityJWT](https://github.com/nzaeta/SecurityJWT)|Tutorial de Spring Security - JWT - Roles de usuario - CORS|33|2023-12-03|2023-11-26|
-|21|[CraftJarvis/GROOT](https://github.com/CraftJarvis/GROOT)|GROOT: Learning to Follow Instructions by Watching Gameplay Videos|31|2023-12-18|2023-10-11|
+|20|[CraftJarvis/GROOT](https://github.com/CraftJarvis/GROOT)|GROOT: Learning to Follow Instructions by Watching Gameplay Videos|31|2023-12-18|2023-10-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
