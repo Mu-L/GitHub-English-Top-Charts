@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
 |2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|145|2024-05-05|2023-10-18|
-|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|96|2024-05-25|2024-01-08|
+|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|97|2024-05-25|2024-01-08|
 |4|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |87|2024-04-21|2024-01-24|
 |5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|85|2024-06-04|2024-02-06|
 |6|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|83|2024-05-31|2024-04-08|
@@ -42,7 +42,7 @@
 |35|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|13|2024-06-02|2023-10-11|
 |36|[anandwana001/ComposeCatchflicks](https://github.com/anandwana001/ComposeCatchflicks)|🎬 Kitchen sink project for learning android concepts (Jetpack Compose, Paging, Navigation, Hilt, Coroutines, Gradle) 🎬|11|2024-01-28|2023-07-29|
 |37|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
-|38|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 24 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-06-04|2023-12-29|
+|38|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Over 24 000+ lines of code, 100% Jetpack Compose, 100% Kotlin. 3 supported file formats (.txt, .pdf, .epub) and 7+ unique themes(dynamic+). 2 supported languages ...|10|2024-06-05|2023-12-29|
 |39|[FedCampus/FedKit](https://github.com/FedCampus/FedKit)|Mobile Federated Learning development kit for FedCampus|10|2024-02-03|2023-07-29|
 |40|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |9|2024-05-22|2024-02-22|
 |41|[yasinhajilou/Compozist](https://github.com/yasinhajilou/Compozist)|Collection of tricky Compose lists |9|2023-12-17|2023-12-14|

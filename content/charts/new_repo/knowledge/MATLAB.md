@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|299|2024-04-28|2024-01-27|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|223|2024-05-28|2023-08-28|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|300|2024-04-28|2024-01-27|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|224|2024-05-28|2023-08-28|
 |3|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|140|2024-06-02|2023-07-28|
 |4|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|51|2024-05-17|2024-01-11|
 |5|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|16|2024-05-31|2023-10-13|
@@ -36,7 +36,7 @@
 |29|[aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)|The source codes of Parrot optimizer are also publicly available at https://aliasgharheidari.com/PO.html, This study presents the analysis and principle of an effective algorithm to optimize different ...|6|2024-05-11|2024-02-01|
 |30|[moha999DJ/Genetic-algorithms](https://github.com/moha999DJ/Genetic-algorithms)|Using Genetic algorithms method in Matlab |6|2024-02-08|2023-12-11|
 |31|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|2024-06-03|2023-12-08|
-|32|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-04|2023-11-18|
+|32|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-05|2023-11-18|
 |33|[heli-sudoo/Multiple-Shooting-DDP](https://github.com/heli-sudoo/Multiple-Shooting-DDP)|Algorithm for multiple-shooting differential dynamic programming (MS-DDP) implemented in MATLAB, with a few robotics examples.|6|2024-04-10|2023-10-11|
 |34|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
 |35|[BaoyiCui/MAS-Game](https://github.com/BaoyiCui/MAS-Game)|This code repository is intended for reproducing research papers related to game problems in multi-agent systems.|6|2024-04-25|2023-08-02|
@@ -85,14 +85,13 @@
 |78|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
 |79|[Govax99/Tube_MPC_Rendezvous](https://github.com/Govax99/Tube_MPC_Rendezvous)|Documents and code files of the thesis work for the Master's degree in Space Engineering at Politecnico di Milano|3|2023-12-22|2023-12-22|
 |80|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|3|2024-05-04|2023-12-16|
-|81|[jonkraft/DigitalBeamformingExamples](https://github.com/jonkraft/DigitalBeamformingExamples)|How to setup, program, and use the AD9081 with Matlab for adaptive digital beamforming|3|2023-12-05|2023-11-24|
-|82|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
-|83|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
-|84|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
-|85|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
-|86|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
-|87|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
-|88|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
+|81|[ShanechiLab/sPCF-EM](https://github.com/ShanechiLab/sPCF-EM)|Learning switching/stationary systems from Poisson observations using sPCF-EM|3|2023-12-20|2023-11-11|
+|82|[Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/Cen-Liu/MIMO-OFDM-Wireless-Communications-with-MATLAB)|Open-source code for book "MIMO-OFDM Wireless Communications with MATLAB"|3|2023-12-07|2023-09-12|
+|83|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
+|84|[rohaizharis/inversion_radar2022](https://github.com/rohaizharis/inversion_radar2022)|Code for study of how radar metrics can inform basal shear stress inversions|3|2023-12-20|2023-08-26|
+|85|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
+|86|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
+|87|[Xianjie-Guo/ADL](https://github.com/Xianjie-Guo/ADL)|Adaptive Skeleton Construction for Accurate DAG Learning|3|2024-01-08|2023-06-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
