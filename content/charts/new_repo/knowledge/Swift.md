@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|2046|2024-05-29|2023-06-14|
-|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|437|2024-05-28|2024-02-22|
-|3|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|232|2024-01-18|2023-10-03|
-|4|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|222|2024-05-29|2023-12-01|
-|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|209|2024-05-27|2023-07-12|
+|1|[krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros)|A curated list of awesome Swift Macros|2052|2024-05-29|2023-06-14|
+|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|440|2024-05-28|2024-02-22|
+|3|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|233|2024-01-18|2023-10-03|
+|4|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|224|2024-05-29|2023-12-01|
+|5|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|211|2024-06-06|2023-07-12|
 |6|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|199|2024-01-14|2023-07-28|
-|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|165|2024-06-02|2024-01-21|
-|8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|140|2024-05-26|2024-05-17|
-|9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|124|2024-05-15|2023-12-01|
+|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|167|2024-06-02|2024-01-21|
+|8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|141|2024-05-26|2024-05-17|
+|9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|125|2024-05-15|2023-12-01|
 |10|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|91|2024-04-16|2023-12-16|
 |11|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|71|2024-04-29|2023-09-28|
 |12|[twostraws/FaceFacts](https://github.com/twostraws/FaceFacts)|Source code for my SwiftUI + SwiftData tutorial.|58|2023-12-23|2023-12-23|
 |13|[ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)|A practical collection of Swift Macros that help code correctly and swiftly.|47|2023-12-21|2023-06-19|
-|14|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|38|2024-06-05|2024-05-29|
+|14|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|38|2024-06-06|2024-05-29|
 |15|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|31|2024-04-17|2023-08-01|
 |16|[TouSC/Video2LivePhoto](https://github.com/TouSC/Video2LivePhoto)|Support iOS17 & Wallpaper: a Tool with Example of how to convert a video into a LivePhoto|28|2024-04-23|2024-04-02|
 |17|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|23|2024-03-31|2023-11-22|
@@ -32,12 +32,12 @@
 |25|[daniloc/MyFirstECS](https://github.com/daniloc/MyFirstECS)|A crash course and example project on RealityKit's Entity Component System for visionOS|14|2024-04-03|2024-04-01|
 |26|[mzaks/mojo-hash](https://github.com/mzaks/mojo-hash)|A collection of hash functions implemented in Mojo|14|2023-12-23|2023-09-28|
 |27|[MatthewWaller/Terrain](https://github.com/MatthewWaller/Terrain)|Example of how to use RealityKit to procedurally generate terrain.|13|2024-05-21|2024-05-21|
-|28|[schwa/ShaderGraphParameterAnimationExample](https://github.com/schwa/ShaderGraphParameterAnimationExample)|How to animate custom shaders in RealityKit for visionOS|13|2024-03-19|2024-02-22|
-|29|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|13|2024-03-15|2024-01-07|
-|30|[NativeScript/visionos-hello-world](https://github.com/NativeScript/visionos-hello-world)|Vision Pro 🥽 Hello World tutorial with NativeScript using various flavors - Angular, React, Solid, Svelte, TypeScript and Vue.|13|2024-05-27|2023-07-06|
-|31|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|12|2024-06-03|2024-04-08|
-|32|[42Box/iOS](https://github.com/42Box/iOS)|The collection of all the sites you need for 42 Life.|12|2024-05-05|2023-12-21|
-|33|[bra1nDump/macos-share-screenshot](https://github.com/bra1nDump/macos-share-screenshot)|Screenshot alternative for MacOS's Shift+Cmd+4. 1 click to save to a common location / copy / icloud. 2 Clicks to share with someone|12|2024-05-25|2023-12-20|
+|28|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|13|2024-06-06|2024-04-08|
+|29|[schwa/ShaderGraphParameterAnimationExample](https://github.com/schwa/ShaderGraphParameterAnimationExample)|How to animate custom shaders in RealityKit for visionOS|13|2024-03-19|2024-02-22|
+|30|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|13|2024-03-15|2024-01-07|
+|31|[bra1nDump/macos-share-screenshot](https://github.com/bra1nDump/macos-share-screenshot)|Screenshot alternative for MacOS's Shift+Cmd+4. 1 click to save to a common location / copy / icloud. 2 Clicks to share with someone|13|2024-05-25|2023-12-20|
+|32|[NativeScript/visionos-hello-world](https://github.com/NativeScript/visionos-hello-world)|Vision Pro 🥽 Hello World tutorial with NativeScript using various flavors - Angular, React, Solid, Svelte, TypeScript and Vue.|13|2024-05-27|2023-07-06|
+|33|[42Box/iOS](https://github.com/42Box/iOS)|The collection of all the sites you need for 42 Life.|12|2024-05-05|2023-12-21|
 |34|[apple/example-package-figlet](https://github.com/apple/example-package-figlet)|Example package to be used as part of Swift's getting started guides|12|2024-04-18|2023-08-16|
 |35|[davbeck/swift-glob](https://github.com/davbeck/swift-glob)|A native Swift implementation of glob match patterns.|11|2024-04-20|2023-11-23|
 |36|[Volorf/VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes)|A collection of interactive prototypes for VisionOS made with SwiftUI.|10|2024-03-15|2024-01-05|
@@ -57,9 +57,9 @@
 |50|[sabapathyk7/SOLIDPrinciplesExample](https://github.com/sabapathyk7/SOLIDPrinciplesExample)|Demonstrating SOLID principles with Examples|7|2024-01-26|2024-01-14|
 |51|[ryanslikesocool/CheatSheetOverlay](https://github.com/ryanslikesocool/CheatSheetOverlay)|Customizable keyboard shortcut cheat sheet overlay for SwiftUI|7|2024-04-05|2023-12-19|
 |52|[andremporto/GetMapped](https://github.com/andremporto/GetMapped)|A helpful guide to find beautiful places|7|2024-03-15|2023-08-02|
-|53|[salihkertik/365-day-of-code-with-swift](https://github.com/salihkertik/365-day-of-code-with-swift)|It epitomizes my journey from the beginning to the end of my Swift learning story.|7|2023-12-06|2023-07-08|
-|54|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|7|2024-05-17|2023-06-30|
-|55|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S clients that consumes shared KMM code as Swift Package|7|2024-04-06|2023-06-16|
+|53|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|7|2024-05-17|2023-06-30|
+|54|[joreilly/ConfettiSwiftUISPM](https://github.com/joreilly/ConfettiSwiftUISPM)|Minimal version of Confetti i0S clients that consumes shared KMM code as Swift Package|7|2024-04-06|2023-06-16|
+|55|[NSAntoine/HideViewFromScreenCaptureDemo](https://github.com/NSAntoine/HideViewFromScreenCaptureDemo)|A demo showing how to hide UIViews from screenshots & screen-recordings while still showing the view on screen|6|2024-06-06|2024-06-06|
 |56|[asir2004/animate-](https://github.com/asir2004/animate-)|Swift Student Challenge 2024 winner project, which can help you learn animation basics.|6|2024-05-13|2024-02-27|
 |57|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
 |58|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|

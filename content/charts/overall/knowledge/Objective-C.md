@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-06-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|2024-05-28|
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|214|2024-02-05|
 |12|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|158|2024-06-06|
-|13|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|128|2024-06-05|
+|13|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|128|2024-06-06|
 |14|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|103|2024-05-16|
 |15|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|69|2024-04-08|
 |16|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|2024-04-17|
@@ -51,13 +51,12 @@
 |44|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|2024-02-06|
 |45|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2024-05-13|
 |46|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|2024-03-16|
-|47|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|2023-12-07|
-|48|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|3|2024-05-09|
-|49|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|Post.e is a fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for develo ...|3|2024-05-29|
-|50|[latenitefilms/ShareDestinationKit](https://github.com/latenitefilms/ShareDestinationKit)|Receiving Media and Data Through a Custom Share Destination in Swift|2|2024-01-13|
-|51|[Luki120/Marie](https://github.com/Luki120/Marie)|Put an image for the dialer, passcode, or share sheet background on the fly|2|2024-01-17|
-|52|[paulhimes/songbook](https://github.com/paulhimes/songbook)|A reader for .songbook files|2|2024-01-21|
-|53|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|2024-04-07|
+|47|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|3|2024-05-09|
+|48|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|Post.e is a fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for develo ...|3|2024-05-29|
+|49|[latenitefilms/ShareDestinationKit](https://github.com/latenitefilms/ShareDestinationKit)|Receiving Media and Data Through a Custom Share Destination in Swift|2|2024-01-13|
+|50|[Luki120/Marie](https://github.com/Luki120/Marie)|Put an image for the dialer, passcode, or share sheet background on the fly|2|2024-01-17|
+|51|[paulhimes/songbook](https://github.com/paulhimes/songbook)|A reader for .songbook files|2|2024-01-21|
+|52|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|2024-04-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
