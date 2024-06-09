@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-06-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1454|2024-04-02|2023-08-10|
+|1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1456|2024-04-02|2023-08-10|
 |2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|636|2024-06-01|2023-07-04|
-|3|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|214|2024-06-06|2024-02-11|
-|4|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|205|2024-06-06|2023-09-06|
+|3|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|217|2024-06-06|2024-02-11|
+|4|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|206|2024-06-08|2023-09-06|
 |5|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|146|2024-04-24|2023-08-30|
 |6|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|120|2024-03-31|2024-01-02|
 |7|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|111|2024-06-07|2024-01-30|
-|8|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |95|2024-03-15|2023-09-06|
-|9|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |78|2024-06-07|2024-03-18|
+|8|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |96|2024-03-15|2023-09-06|
+|9|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |79|2024-06-07|2024-03-18|
 |10|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|73|2024-06-07|2024-02-08|
-|11|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|65|2024-05-30|2024-03-10|
+|11|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|66|2024-06-07|2024-03-10|
 |12|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|51|2024-06-04|2024-01-30|
-|13|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Learn how to create a unique looking CV from scratch by combining bits and pieces from different templates. |48|2024-06-06|2023-10-26|
+|13|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Learn how to create a unique looking CV from scratch by combining bits and pieces from different templates. |48|2024-06-08|2023-10-26|
 |14|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|2023-09-15|
 |15|[rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)|Repository for Advanced Data Science Book|43|2024-04-22|2023-06-27|
 |16|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|东南大学Typst论文模板库|31|2024-05-23|2024-01-24|
@@ -38,13 +38,13 @@
 |31|[bibekanandadatta/JHU-Dissertation-Template](https://github.com/bibekanandadatta/JHU-Dissertation-Template)|An unofficial LaTeX template for masters thesis and PhD dissertation at Johns Hopkins University.|14|2024-05-02|2024-03-04|
 |32|[elRaulito/eUTxO-Fundamentals-Building-Cardano-Smart-Contracts](https://github.com/elRaulito/eUTxO-Fundamentals-Building-Cardano-Smart-Contracts)|The utxo guide to the Galaxy|12|2024-05-08|2024-04-27|
 |33|[luau-lang/research](https://github.com/luau-lang/research)|Research papers and publications for Luau|12|2024-01-19|2023-10-17|
-|34|[feifeiobama/Awesome-Text-to-Video-Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)|A curated list of Text-to-Video Generation papers and BibTeX entries|11|2024-02-21|2023-12-28|
-|35|[AmitXShukla/Mojo](https://github.com/AmitXShukla/Mojo)|The Mojo Programming Language book|11|2024-04-03|2023-10-16|
-|36|[ppolesiuk/type-systems-notes](https://github.com/ppolesiuk/type-systems-notes)|Lecture notes for the Type Systems course given in Autumn 2023|11|2024-03-26|2023-10-05|
-|37|[sattlerc/hott-reading-course](https://github.com/sattlerc/hott-reading-course)|Introduction to homotopy type theory (reading course), LP2 2023, offered via DAT235/DIT577: Research-oriented course in Computer Science and Engineering|11|2024-04-17|2023-09-28|
-|38|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|11|2024-02-22|2023-06-30|
-|39|[hurak/orr](https://github.com/hurak/orr)|Optimal and Robust Control – lecture notes for a graduate course B(E)3M35ORR at CTU in Prague, Czechia|10|2024-05-10|2024-02-19|
-|40|[PacktPublishing/LaTeX-Cookbook](https://github.com/PacktPublishing/LaTeX-Cookbook)|LaTeX Cookbook, published by Packt |10|2024-03-10|2024-02-19|
+|34|[PacktPublishing/LaTeX-Cookbook](https://github.com/PacktPublishing/LaTeX-Cookbook)|LaTeX Cookbook, published by Packt |11|2024-03-10|2024-02-19|
+|35|[feifeiobama/Awesome-Text-to-Video-Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)|A curated list of Text-to-Video Generation papers and BibTeX entries|11|2024-02-21|2023-12-28|
+|36|[AmitXShukla/Mojo](https://github.com/AmitXShukla/Mojo)|The Mojo Programming Language book|11|2024-04-03|2023-10-16|
+|37|[ppolesiuk/type-systems-notes](https://github.com/ppolesiuk/type-systems-notes)|Lecture notes for the Type Systems course given in Autumn 2023|11|2024-03-26|2023-10-05|
+|38|[sattlerc/hott-reading-course](https://github.com/sattlerc/hott-reading-course)|Introduction to homotopy type theory (reading course), LP2 2023, offered via DAT235/DIT577: Research-oriented course in Computer Science and Engineering|11|2024-04-17|2023-09-28|
+|39|[alexzhang13/world-models-papers](https://github.com/alexzhang13/world-models-papers)|Selected list of papers on World Models that I found interesting and/or useful.|11|2024-02-22|2023-06-30|
+|40|[hurak/orr](https://github.com/hurak/orr)|Optimal and Robust Control – lecture notes for a graduate course B(E)3M35ORR at CTU in Prague, Czechia|10|2024-05-10|2024-02-19|
 |41|[rsnikhil/Book_BLang_RISCV](https://github.com/rsnikhil/Book_BLang_RISCV)|Book to (1) learn BLang (BSV) using a RISC-V example and (2) learn to design a pipelined RISC-V CPU using BSV for HDL coding|10|2024-06-03|2024-01-20|
 |42|[andreas-bauer/TikZ](https://github.com/andreas-bauer/TikZ)|Collection of my and others TikZ figures|10|2024-05-20|2023-08-25|
 |43|[Omikhleia/awesome-sile-books](https://github.com/Omikhleia/awesome-sile-books)|Sources for test books ready-to-compile with SILE|10|2024-06-02|2023-08-19|
@@ -66,7 +66,7 @@
 |59|[natalies-teaching/Comp683_CompBio_2024](https://github.com/natalies-teaching/Comp683_CompBio_2024)|Course Page for Comp683, Spring 2024|7|2024-04-22|2023-12-18|
 |60|[xiamyphys/LiteTable](https://github.com/xiamyphys/LiteTable)|A LaTeX template provides a beautiful design of class schedule with colorful course blocks.|7|2024-03-02|2023-11-05|
 |61|[sigtyp/ST2024](https://github.com/sigtyp/ST2024)|SIGTYP 2024 Shared Task on Word Embedding Evaluation for Ancient and Historical Languages|7|2024-02-07|2023-10-30|
-|62|[alexsnow348/learning-notes](https://github.com/alexsnow348/learning-notes)|All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language |7|2024-05-08|2023-07-31|
+|62|[alexsnow348/learning-notes](https://github.com/alexsnow348/learning-notes)|All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language |7|2024-06-08|2023-07-31|
 |63|[danieleavitabile/numerical-analysis-mathematical-neuroscience](https://github.com/danieleavitabile/numerical-analysis-mathematical-neuroscience)|This is material written for the masterclass Numerical and Analytical Methods for Spatially-Extended Neurobiological Networks, held at the Centre for Complex Systems Studies, University of Utrecht in  ...|6|2024-05-23|2024-05-06|
 |64|[ysulyma/analytic-stacks](https://github.com/ysulyma/analytic-stacks)|Crowd-sourced notes for the Clausen-Scholze course on Analyic Stacks|6|2024-05-23|2024-04-27|
 |65|[ay-tony/MathFrameworks](https://github.com/ay-tony/MathFrameworks)|Handbooks for mathematics courses.|6|2024-06-01|2024-04-20|
