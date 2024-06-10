@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2375|4|2024-06-07|
-|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|300|2|2024-06-06|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2377|4|2024-06-09|
+|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|301|2|2024-06-06|
 |3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|226|1|2024-05-28|
 |4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1098|1|2024-06-03|
 |5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1315|1|2024-03-22|
@@ -19,9 +19,9 @@
 |12|[MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing)|Interactive courseware module that addresses common foundational-level concepts taught in signal processing courses.|9|0|2024-04-30|
 |13|[coinslab/ComputationalCognitiveModeling](https://github.com/coinslab/ComputationalCognitiveModeling)|This repository is a collection of (mostly) julia scripts used for teaching the Computational Cognitive Modeling course offered at the School of Behavioral and Brain Sciences, University of Texas at D ...|3|0|2024-04-03|
 |14|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|0|2024-01-13|
-|15|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|158|0|2024-01-24|
+|15|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|159|0|2024-01-24|
 |16|[open-source-modelling/insurance_matlab](https://github.com/open-source-modelling/insurance_matlab)|All Matlab algorithms published by Open Source Modelling in one place.|7|0|2024-04-01|
-|17|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|19|0|2024-05-24|
+|17|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|20|0|2024-05-24|
 |18|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|0|2024-04-24|
 |19|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|4|0|2024-05-06|
 |20|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|13|0|2024-05-21|
@@ -64,7 +64,7 @@
 |57|[DanuserLab/u-signal3D](https://github.com/DanuserLab/u-signal3D)|The computational platform u-signal3D defines a shape-invariant representation of the spatial scales of molecular organization at the cell surface, enabling comparison and machine-learning of signalin ...|6|0|2024-06-06|
 |58|[JackELee2018/grayscale-image-template-match](https://github.com/JackELee2018/grayscale-image-template-match)|A MATLAB algorithm for grayscale image template matching. I taught myself of machine vision at that time and get the image-pyramid idea from Stack Overflow. And this was put into my master peper that  ...|4|0|2024-03-13|
 |59|[MathWorks-Teaching-Resources/Vector-Arithmetic](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic)|Interactive courseware module that addresses the fundamentals of vectors taught in mathematics courses.|3|0|2024-04-30|
-|60|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|10|0|2024-01-14|
+|60|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|11|0|2024-01-14|
 |61|[kalaiKali/Bayesian_Learning](https://github.com/kalaiKali/Bayesian_Learning)|Spectrum Sensing using Sparse Bayesian Learning|5|0|2023-12-13|
 |62|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|0|2024-02-16|
 |63|[MathWorks-Teaching-Resources/Transfer-Function-Analysis-of-Dynamic-Systems](https://github.com/MathWorks-Teaching-Resources/Transfer-Function-Analysis-of-Dynamic-Systems)|Interactive courseware module that introduces transfer function analysis taught in system dynamics and controls courses.|16|0|2024-04-30|
@@ -101,7 +101,7 @@
 |94|[matlab-deep-learning/pretrained-yolo-v4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|Object detection and transfer learning using pretrained YOLO v4 models in MATLAB.|44|0|2024-02-01|
 |95|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|13|0|2024-04-30|
 |96|[SQY2021/Estimation_IEEE-TIE](https://github.com/SQY2021/Estimation_IEEE-TIE)|Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities (IEEE Transactions on Industrial Electronics (*IEEE TIE*))|4|0|2024-05-09|
-|97|[BaoyiCui/MAS-Game](https://github.com/BaoyiCui/MAS-Game)|This code repository is intended for reproducing research papers related to game problems in multi-agent systems.|6|0|2024-04-25|
+|97|[BaoyiCui/MAS-Game](https://github.com/BaoyiCui/MAS-Game)|This code repository is intended for reproducing research papers related to game problems in multi-agent systems.|7|0|2024-04-25|
 |98|[AlessandroLoVerde10/MATLAB-MonteCarloMethods-StochasticProcesses-OptionPricing](https://github.com/AlessandroLoVerde10/MATLAB-MonteCarloMethods-StochasticProcesses-OptionPricing)|Master's Thesis on Monte Carlo methods, pseudo-random number generation algorithms (LCG, Acceptance-Rejection and inverse method), Stochastic Processes Simulation(Euler Discretization Scheme), option  ...|4|0|2024-04-29|
 |99|[cesardsalvador/SpatialAcousticsLibraryMATLAB](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB)|A collection of MATLAB functions and scripts for spatial acoustic signal processing.|3|0|2024-05-02|
 |100|[IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids](https://github.com/IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids)|Master Thesis - Home Energy Management System optimizing prosumers' costs, supporting grid services, ensuring independent operation during grid disconnection, and employing optimization methods and fo ...|4|0|2024-05-03|
