@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-06-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|39|2024-03-29|
 |12|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|26|2024-04-11|
 |13|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|20|2024-02-17|
-|14|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|20|2024-05-27|
+|14|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|20|2024-06-11|
 |15|[michael-ring/pico-fpcexamples](https://github.com/michael-ring/pico-fpcexamples)|Examples for programming the raspberry pi pico with FreePascal|17|2024-06-09|
 |16|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|17|2024-02-23|
 |17|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|15|2024-01-30|
@@ -26,14 +26,14 @@
 |19|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|2024-01-06|
 |20|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|2024-03-18|
 |21|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|2024-05-22|
-|22|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|2024-06-02|
+|22|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|2024-06-11|
 |23|[z505/FileBasedList](https://github.com/z505/FileBasedList)|Fast file based StringList or IntegerList for large data lists especially if out of memory with a regular TStringList|9|2024-02-23|
 |24|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|9|2024-06-10|
 |25|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|7|2024-05-09|
-|26|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|2024-04-12|
-|27|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-06-05|
-|28|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|2024-01-24|
-|29|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|5|2024-06-04|
+|26|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|6|2024-06-04|
+|27|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|2024-04-12|
+|28|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-06-05|
+|29|[holgerflick/handson1](https://github.com/holgerflick/handson1)|Repository for source code of TMS Software Hands-On with Delphi, Book I|6|2024-01-24|
 |30|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|5|2024-06-03|
 |31|[gcarreno/re-usable-workflows](https://github.com/gcarreno/re-usable-workflows)|Collection of GitHub reusable workflows for a variety of languages|5|2024-01-14|
 |32|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|5|2024-05-30|
