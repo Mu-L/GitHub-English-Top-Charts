@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[xujingzhou/FunVideo](https://github.com/xujingzhou/FunVideo)|A series of embeddable theme into video, include animation and voice.|21|0|2024-05-03|
 |10|[Luki120/Amelija](https://github.com/Luki120/Amelija)|What if you could give your wallpapers, a little touch? On the fly, of course|10|0|2024-02-25|
 |11|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|🟨 🟧 🟥 A fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for developers ...|3|0|2024-06-08|
-|12|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|102|0|2024-06-12|
+|12|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|101|0|2024-06-12|
 |13|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|13|0|2024-06-06|
 |14|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|215|0|2024-02-05|
 |15|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|40|0|2024-04-03|
@@ -30,33 +30,32 @@
 |23|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|0|2024-03-16|
 |24|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-05-13|
 |25|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|25|0|2024-02-20|
-|26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1717|0|2024-06-12|
-|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|305|0|2024-02-20|
-|28|[ComPDFKit/compdfkit-pdf-sdk-ios-objective-c](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-objective-c)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS|13|0|2023-12-13|
-|29|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
-|30|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|18|0|2024-02-17|
-|31|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|
-|32|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|0|2024-02-06|
-|33|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|129|0|2024-06-06|
-|34|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|15|0|2024-06-05|
-|35|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
-|36|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|0|2024-06-04|
-|37|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|266|0|2024-03-17|
-|38|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|0|2024-04-07|
-|39|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|0|2024-04-27|
-|40|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|0|2024-06-10|
-|41|[StarryThrone/OpenGL-SBible-example-code](https://github.com/StarryThrone/OpenGL-SBible-example-code)|Learning practice demo for examples in OpenGL Super Bible 6th|13|0|2024-03-06|
-|42|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-05-28|
-|43|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-06-02|
-|44|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-05-28|
-|45|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|47|0|2024-03-31|
-|46|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2024-02-15|
-|47|[latenitefilms/ShareDestinationKit](https://github.com/latenitefilms/ShareDestinationKit)|Receiving Media and Data Through a Custom Share Destination in Swift|2|0|2024-01-13|
-|48|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
-|49|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|20|0|2024-01-01|
-|50|[gcappon/bwthw](https://github.com/gcappon/bwthw)|Material for the laboratory of the course of Biomedical Wearable Technology for Healthcare and Wellbeing, Master's degree in Bioengineering, Department of Information Engineering (DEI), University of  ...|7|0|2024-02-04|
-|51|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-03-14|
-|52|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-05-11|
+|26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1719|0|2024-06-12|
+|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|306|0|2024-02-20|
+|28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
+|29|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|18|0|2024-02-17|
+|30|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|
+|31|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|0|2024-02-06|
+|32|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|129|0|2024-06-06|
+|33|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|15|0|2024-06-05|
+|34|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
+|35|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|0|2024-06-04|
+|36|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|266|0|2024-03-17|
+|37|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|0|2024-04-07|
+|38|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|0|2024-04-27|
+|39|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|0|2024-06-10|
+|40|[StarryThrone/OpenGL-SBible-example-code](https://github.com/StarryThrone/OpenGL-SBible-example-code)|Learning practice demo for examples in OpenGL Super Bible 6th|13|0|2024-03-06|
+|41|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-05-28|
+|42|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-06-02|
+|43|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-05-28|
+|44|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|47|0|2024-03-31|
+|45|[Psiphon-Inc/psiphon-ios-client-common-library](https://github.com/Psiphon-Inc/psiphon-ios-client-common-library)|Psiphon iOS Shared Client Library|9|0|2024-02-15|
+|46|[latenitefilms/ShareDestinationKit](https://github.com/latenitefilms/ShareDestinationKit)|Receiving Media and Data Through a Custom Share Destination in Swift|2|0|2024-01-13|
+|47|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
+|48|[mhamilt/macos-ble-examples](https://github.com/mhamilt/macos-ble-examples)|Examples for Managing Client connections and creating a peripheral on macOS|20|0|2024-01-01|
+|49|[gcappon/bwthw](https://github.com/gcappon/bwthw)|Material for the laboratory of the course of Biomedical Wearable Technology for Healthcare and Wellbeing, Master's degree in Bioengineering, Department of Information Engineering (DEI), University of  ...|7|0|2024-02-04|
+|50|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-03-14|
+|51|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-05-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,15 +27,15 @@
 |20|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|2024-04-19|2024-01-26|
 |21|[theokwebb/my-writeups](https://github.com/theokwebb/my-writeups)|Collection of my writeups on CTFs, labs, etc.|5|2024-04-13|2023-12-28|
 |22|[markmoxon/elite-compendium](https://github.com/markmoxon/elite-compendium)|Source for the Elite Compendium, a collection of the best Acornsoft Elite hacks on one disc|5|2024-05-17|2023-12-24|
-|23|[CHUN983/nuk_assembly_project](https://github.com/CHUN983/nuk_assembly_project)|the assembly learning|4|2024-06-12|2024-05-08|
-|24|[TroyMitchell911/RISC-V-Assembly-Learning](https://github.com/TroyMitchell911/RISC-V-Assembly-Learning)|A step-by-step learning path for beginners in RSIC-V assembly|4|2024-04-06|2024-03-29|
-|25|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|2024-02-20|
-|26|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|2024-02-13|
-|27|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|2023-12-26|
-|28|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|2023-12-14|
-|29|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|4|2023-12-25|2023-09-21|
-|30|[Danijel-Korent/RISC-V-emulator](https://github.com/Danijel-Korent/RISC-V-emulator)|A small exercise to learn RISC-V ISA|4|2024-02-20|2023-07-01|
-|31|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|3|2024-04-30|2024-04-21|
+|23|[CHUN983/nuk_assembly_project](https://github.com/CHUN983/nuk_assembly_project)|the assembly learning|4|2024-06-13|2024-05-08|
+|24|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|2024-04-30|2024-04-21|
+|25|[TroyMitchell911/RISC-V-Assembly-Learning](https://github.com/TroyMitchell911/RISC-V-Assembly-Learning)|A step-by-step learning path for beginners in RSIC-V assembly|4|2024-04-06|2024-03-29|
+|26|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|2024-02-20|
+|27|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|2024-02-13|
+|28|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|2023-12-26|
+|29|[malintha-induwara/mastermind-game-assembly](https://github.com/malintha-induwara/mastermind-game-assembly)|Implement infamous Mastermind board game using Assembly Language for ARM Processors |4|2023-12-14|2023-12-14|
+|30|[lixingyi701/OS_2113601_2113958_2112213](https://github.com/lixingyi701/OS_2113601_2113958_2112213)|Nankai OS course|4|2023-12-25|2023-09-21|
+|31|[Danijel-Korent/RISC-V-emulator](https://github.com/Danijel-Korent/RISC-V-emulator)|A small exercise to learn RISC-V ISA|4|2024-02-20|2023-07-01|
 |32|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
 |33|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern variants of Lempel-Ziv style compression targeting the Super Famicom/Nintendo system.|3|2024-05-15|2024-03-30|
 |34|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-09|2024-03-30|

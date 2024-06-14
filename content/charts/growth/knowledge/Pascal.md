@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -30,19 +30,19 @@
 |23|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|26|0|2024-04-11|
 |24|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2024-06-01|
 |25|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|2|0|2024-02-20|
-|26|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-01-06|
+|26|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-06-13|
 |27|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|43|0|2024-04-08|
 |28|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-02-29|
 |29|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|12|0|2024-04-24|
 |30|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|17|0|2024-02-23|
-|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1762|0|2024-04-25|
+|31|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1763|0|2024-04-25|
 |32|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|42|0|2024-03-22|
 |33|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2024-05-31|
 |34|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|4|0|2024-05-19|
 |35|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|20|0|2024-02-17|
 |36|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|0|2024-03-18|
 |37|[z505/FileBasedList](https://github.com/z505/FileBasedList)|Fast file based StringList or IntegerList for large data lists especially if out of memory with a regular TStringList|9|0|2024-02-23|
-|38|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|106|0|2024-06-12|
+|38|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|107|0|2024-06-12|
 |39|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|0|2024-05-25|
 |40|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|143|0|2024-04-20|
 |41|[almeswe/univ-projs](https://github.com/almeswe/univ-projs)|All course projects & labs that i did during my education.|2|0|2023-12-15|

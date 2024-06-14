@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|84|2024-04-30|2023-10-28|
-|2|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🤖 (WIP) Package that automates cache management policies, using sqflite and shared preferences under the hood.|46|2024-06-12|2023-09-18|
+|2|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🤖 (WIP) Package that automates cache management policies, using shared preferences under the hood.|46|2024-06-12|2023-09-18|
 |3|[VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)|Collection of open-source templates created and maintained by Very Good Ventures.|44|2024-06-12|2023-12-14|
-|4|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|40|2024-05-27|2024-05-27|
-|5|[lxpio/omnigram](https://github.com/lxpio/omnigram)|Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper ...|37|2024-04-25|2023-07-26|
-|6|[foss42/awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)|A curated list of useful Generative AI APIs for developers|36|2024-06-12|2024-04-27|
+|4|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|42|2024-05-27|2024-05-27|
+|5|[foss42/awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)|A curated list of useful Generative AI APIs for developers|37|2024-06-13|2024-04-27|
+|6|[lxpio/omnigram](https://github.com/lxpio/omnigram)|Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper ...|37|2024-04-25|2023-07-26|
 |7|[HeyFlutter-Public/Flutter-Fitness-Dashboard-UI](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI)|This is a complete Fitness Dashboard UI built in flutter. This repository is for education purpose so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.|31|2024-03-02|2024-03-02|
 |8|[Adrianns/flutter_clean_architecture](https://github.com/Adrianns/flutter_clean_architecture)|Repository with examples and good practices|29|2024-05-27|2024-04-15|
-|9|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|24|2024-04-02|2023-10-09|
+|9|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|25|2024-04-02|2023-10-09|
 |10|[maxonflutter/Flutter-Tips-And-Examples](https://github.com/maxonflutter/Flutter-Tips-And-Examples)|A collection of Flutter tips and small projects|24|2024-01-31|2023-07-04|
 |11|[RasmusKoit/abs_wear](https://github.com/RasmusKoit/abs_wear)|3rd party Audiobookshelf client for Wear OS|23|2024-04-23|2024-02-11|
 |12|[yakupemeksiz/my_favorite_books](https://github.com/yakupemeksiz/my_favorite_books)|This project uses Google Books API to fetch books and display them in a list. You can search for books using the search bar and add books to your favorites list. Remove them from the list if you wish.|20|2024-05-10|2024-02-13|
@@ -31,7 +31,7 @@
 |24|[hydev777/wt-flutter-samples](https://github.com/hydev777/wt-flutter-samples)|Flutter examples|9|2024-06-12|2024-05-21|
 |25|[bernadinkele/flutter-ui-card-collections](https://github.com/bernadinkele/flutter-ui-card-collections)| A collection of Flutter UI Kits. Star⭐ the repository and follow me.|9|2023-12-23|2023-12-11|
 |26|[tuhinpal/cash_compass](https://github.com/tuhinpal/cash_compass)|Master Your Money: Effortless Tracking and Smarter Spending|9|2024-03-17|2023-07-30|
-|27|[COS301-SE-2024/GameOnConnect](https://github.com/COS301-SE-2024/GameOnConnect)|Up until now, gamers never really had a platform for themselves. GameOnConnect solves this problem! Gamers will now be able to connect with other gamers and will be able to share their gaming adventur ...|8|2024-06-12|2024-05-14|
+|27|[COS301-SE-2024/GameOnConnect](https://github.com/COS301-SE-2024/GameOnConnect)|Up until now, gamers never really had a platform for themselves. GameOnConnect solves this problem! Gamers will now be able to connect with other gamers and will be able to share their gaming adventur ...|8|2024-06-13|2024-05-14|
 |28|[anuragJoshi05/DishDash](https://github.com/anuragJoshi05/DishDash)| Discover and explore recipes effortlessly with Recipe Finder. Search by ingredients or dish names, browse curated recipes, and save favorites. Future updates will include a "Make Your Own Dish" featu ...|8|2024-05-29|2024-04-27|
 |29|[Akatsuki49/Readmore.ai](https://github.com/Akatsuki49/Readmore.ai)|📚✨ Immerse yourself in a world where words come alive! With Readmore.ai, reading becomes an interactive adventure. Dive into captivating books, tap on paragraphs, and watch as vibrant visuals and ench ...|8|2024-03-15|2024-03-15|
 |30|[TarekAlabd/Gaza-Sky-Flutter-Projects](https://github.com/TarekAlabd/Gaza-Sky-Flutter-Projects)|The projects I built with the students in the course of Sky Geeks with Knowledge Academy in Gaza|8|2024-03-24|2024-01-16|
