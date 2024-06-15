@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|304|2024-06-06|2024-01-27|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|228|2024-06-12|2023-08-28|
-|3|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|142|2024-06-02|2023-07-28|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|228|2024-06-13|2023-08-28|
+|3|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|141|2024-06-02|2023-07-28|
 |4|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|52|2024-05-17|2024-01-11|
 |5|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|16|2024-05-31|2023-10-13|
 |6|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|13|2024-06-10|2023-06-28|
@@ -37,7 +37,7 @@
 |30|[ssvart/Stacked-Broad-Learning-System](https://github.com/ssvart/Stacked-Broad-Learning-System)|The Code && Paper of Stacked Broad Learning System: From Incremental Flatted Structure to Deep Model |6|2024-01-25|2024-01-25|
 |31|[moha999DJ/Genetic-algorithms](https://github.com/moha999DJ/Genetic-algorithms)|Using Genetic algorithms method in Matlab |6|2024-02-08|2023-12-11|
 |32|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|2024-06-03|2023-12-08|
-|33|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-11|2023-11-18|
+|33|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-14|2023-11-18|
 |34|[heli-sudoo/Multiple-Shooting-DDP](https://github.com/heli-sudoo/Multiple-Shooting-DDP)|Algorithm for multiple-shooting differential dynamic programming (MS-DDP) implemented in MATLAB, with a few robotics examples.|6|2024-04-10|2023-10-11|
 |35|[SmallC1oud/SAR_imaging_implementations_CSA_RADARSAT-1](https://github.com/SmallC1oud/SAR_imaging_implementations_CSA_RADARSAT-1)|This project focuses on Synthetic Aperture Radar (SAR) imaging algorithms and implementations. In the first stage, we will realize four parts: point target simulation and matched filtering, CS imaging ...|6|2023-12-22|2023-10-04|
 |36|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
