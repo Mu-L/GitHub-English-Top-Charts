@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-06-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|4729|2024-06-04|2023-09-26|
-|2|[cuixueshe/earthworm](https://github.com/cuixueshe/earthworm)|Learning English through the method of constructing sentences with conjunctions|3441|2024-06-16|2024-01-11|
-|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3180|2024-02-06|2023-11-07|
-|4|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2256|2024-05-30|2023-07-18|
+|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|4746|2024-06-04|2023-09-26|
+|2|[cuixueshe/earthworm](https://github.com/cuixueshe/earthworm)|Learning English through the method of constructing sentences with conjunctions|3444|2024-06-17|2024-01-11|
+|3|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3185|2024-02-06|2023-11-07|
+|4|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2257|2024-05-30|2023-07-18|
 |5|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1617|2024-03-18|2023-08-10|
-|6|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1543|2024-05-22|2023-09-14|
-|7|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1477|2024-05-06|2023-12-31|
+|6|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1544|2024-05-22|2023-09-14|
+|7|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1479|2024-05-06|2023-12-31|
 |8|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1216|2024-02-22|2023-08-12|
-|9|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1209|2024-06-10|2023-12-22|
-|10|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1062|2024-06-15|2024-03-01|
-|11|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|880|2024-05-20|2023-10-05|
-|12|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|859|2024-05-26|2023-09-04|
-|13|[squaredtechnologies/thread](https://github.com/squaredtechnologies/thread)|An AI-powered Python notebook built in React — generate and edit code cells, automatically fix errors, and chat with your code|802|2024-06-16|2024-05-21|
-|14|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|474|2024-01-05|2024-01-05|
-|15|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|440|2024-06-12|2023-08-16|
+|9|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1210|2024-06-10|2023-12-22|
+|10|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1068|2024-06-15|2024-03-01|
+|11|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|881|2024-05-20|2023-10-05|
+|12|[squaredtechnologies/thread](https://github.com/squaredtechnologies/thread)|An AI-powered Python notebook built in React — generate and edit code cells, automatically fix errors, and chat with your code|871|2024-06-17|2024-05-21|
+|13|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|859|2024-05-26|2023-09-04|
+|14|[adrianhajdin/docker-course](https://github.com/adrianhajdin/docker-course)|Full Modern Docker Course|475|2024-01-05|2024-01-05|
+|15|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|441|2024-06-12|2023-08-16|
 |16|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|408|2024-06-14|2023-12-02|
-|17|[ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)|A list of AI agents and robots to block.|393|2024-06-15|2024-03-27|
+|17|[ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)|A list of AI agents and robots to block.|403|2024-06-15|2024-03-27|
 |18|[tw93/Maple](https://github.com/tw93/Maple)|🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。|294|2024-02-26|2023-07-26|
 |19|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|268|2024-04-20|2023-10-29|
 |20|[noamr/velvette](https://github.com/noamr/velvette)|Common patterns for CSS view-transitions|237|2024-01-05|2023-12-29|

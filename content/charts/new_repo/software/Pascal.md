@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2024-06-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,16 +12,16 @@
 |5|[ortegaalfredo/neurochat](https://github.com/ortegaalfredo/neurochat)|Native gui to serveral AI services plus llama.cpp local AIs.|88|2024-01-14|2023-12-06|
 |6|[NIKJOO/PEP](https://github.com/NIKJOO/PEP)|Private exe protector |63|2024-05-08|2024-05-08|
 |7|[Laurensvanrun/Delphi-Promises](https://github.com/Laurensvanrun/Delphi-Promises)|Delphi implementation of promises for asynchronous programming.|63|2024-04-18|2024-03-13|
-|8|[geby/synapse](https://github.com/geby/synapse)|Synapse TCP/IP library for Delphi and Freepascal|55|2024-05-31|2024-01-15|
+|8|[geby/synapse](https://github.com/geby/synapse)|Synapse TCP/IP library for Delphi and Freepascal|55|2024-06-17|2024-01-15|
 |9|[ObjectPascal-Community/1brc-ObjectPascal](https://github.com/ObjectPascal-Community/1brc-ObjectPascal)|1️⃣🐝🏎️ The 1 Billion Row Challenge in Object Pascal|51|2024-05-25|2024-02-28|
 |10|[Bunker-x/DTelegram](https://github.com/Bunker-x/DTelegram)|This is a Delphi Component for interacting with the Telegram Bot API. It provides a set of functions to perform various actions using the Telegram Bot platform.|47|2024-03-15|2023-11-18|
 |11|[hshatti/LightNet](https://github.com/hshatti/LightNet)|Implemented in pure pascal LightNet is an artificial intelligence neural network library Inspired by Darknet and yolo library which can run most of the darknet including YOLO models nativly and self d ...|41|2024-06-10|2024-05-04|
-|12|[AliDehbansiahkarbon/OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard)|-|32|2024-06-14|2024-06-10|
+|12|[AliDehbansiahkarbon/OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard)|OpenAPIClientWizard – the ultimate plugin for RAD Studio that revolutionizes the way Delphi developers implement REST API clients.|32|2024-06-14|2024-06-10|
 |13|[Unprotect-Project/FuncInEvasionTechniqueDemo](https://github.com/Unprotect-Project/FuncInEvasionTechniqueDemo)|-|30|2023-12-21|2023-12-13|
 |14|[GabrielTrigo/TSWebDriver4Delphi](https://github.com/GabrielTrigo/TSWebDriver4Delphi)|TSWebDriver4Delphi is a library for Web Testing and Automation|30|2024-02-05|2023-08-31|
-|15|[Codrax/mspaint-rewritten](https://github.com/Codrax/mspaint-rewritten)|The Windows 10 version Microsoft Paint rewritten in Delphi|29|2023-12-29|2023-12-29|
-|16|[havrlisan/zx-skiacomponents](https://github.com/havrlisan/zx-skiacomponents)|An open-source set of Delphi components for the FireMonkey framework that utilize the Skia4Delphi library.|28|2024-06-14|2024-03-22|
-|17|[csm101/EditInVsCodeDelphiPlugin](https://github.com/csm101/EditInVsCodeDelphiPlugin)|Adds a "Open in Visual Studio Code" item in the Delphi Tools menu (great if you have the Copilot extension for Visual Studio Code)|28|2024-06-14|2024-03-17|
+|15|[csm101/EditInVsCodeDelphiPlugin](https://github.com/csm101/EditInVsCodeDelphiPlugin)|Adds a "Open in Visual Studio Code" item in the Delphi Tools menu (great if you have the Copilot extension for Visual Studio Code)|29|2024-06-17|2024-03-17|
+|16|[Codrax/mspaint-rewritten](https://github.com/Codrax/mspaint-rewritten)|The Windows 10 version Microsoft Paint rewritten in Delphi|29|2023-12-29|2023-12-29|
+|17|[havrlisan/zx-skiacomponents](https://github.com/havrlisan/zx-skiacomponents)|An open-source set of Delphi components for the FireMonkey framework that utilize the Skia4Delphi library.|28|2024-06-17|2024-03-22|
 |18|[dalijap/nx-chronos](https://github.com/dalijap/nx-chronos)|NX Chronos - Chronometer for Delphi|27|2024-01-04|2023-10-13|
 |19|[sacfiscal/eanpictures](https://github.com/sacfiscal/eanpictures)|Backend Delphi Horse MySql para consultas de produtos por EAN/GTIN|25|2024-02-02|2023-08-10|
 |20|[daviladanielc/Delphi-WindowsServiceUtils](https://github.com/daviladanielc/Delphi-WindowsServiceUtils)|Create, delete, stop, start, and change configurations of Windows services.|22|2024-01-25|2024-01-24|
@@ -42,7 +42,7 @@
 |35|[HemulGM/SQLGenerator](https://github.com/HemulGM/SQLGenerator)|SQL generator for Delphi|17|2024-02-19|2024-02-19|
 |36|[chuacw/JSONRPC_Framework](https://github.com/chuacw/JSONRPC_Framework)|JSON RPC Framework on Delphi|17|2024-04-19|2023-09-12|
 |37|[DeveloppeurPascal/Socket-Messaging-Library](https://github.com/DeveloppeurPascal/Socket-Messaging-Library)|A client / server messaging library to use with TCP sockets in Delphi or C++Builder (one day in the future)|17|2024-06-04|2023-07-30|
-|38|[BazzaCuda/MinimalistMediaPlayerX](https://github.com/BazzaCuda/MinimalistMediaPlayerX)|An MPV-based minimal-interface media player for 64-bit Windows. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimension ...|17|2024-06-15|2023-07-08|
+|38|[BazzaCuda/MinimalistMediaPlayerX](https://github.com/BazzaCuda/MinimalistMediaPlayerX)|An MPV-based minimal-interface media player for 64-bit Windows. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimension ...|17|2024-06-17|2023-07-08|
 |39|[pyscripter/ChatLLM](https://github.com/pyscripter/ChatLLM)|Simple chat application for querying local and cloud LLM models.|16|2024-04-25|2024-04-22|
 |40|[redgate4/Themida](https://github.com/redgate4/Themida)|Themida is a powerful software protection system designed for software developers|15|2024-03-27|2024-03-22|
 |41|[abf-software/abfVCL](https://github.com/abf-software/abfVCL)|ABF Visual Components Library with source code under MIT License. |14|2024-05-09|2024-05-02|
@@ -82,7 +82,7 @@
 |75|[ObjectPascal-Community/LazarusCord](https://github.com/ObjectPascal-Community/LazarusCord)|Discord Rich Presence extension for Lazarus|9|2024-05-27|2024-05-27|
 |76|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|9|2024-06-14|2024-04-03|
 |77|[MatiasGuaymas/FOD](https://github.com/MatiasGuaymas/FOD)|Prácticas resueltas de Fundamentos de Organización de Datos.|9|2024-06-03|2024-03-19|
-|78|[szlbz/QFComponent](https://github.com/szlbz/QFComponent)|-|9|2024-06-14|2024-03-09|
+|78|[szlbz/QFComponent](https://github.com/szlbz/QFComponent)|-|9|2024-06-17|2024-03-09|
 |79|[a-dato/FMX-GRID](https://github.com/a-dato/FMX-GRID)|-|9|2024-06-14|2024-02-04|
 |80|[paweld/PasLibVlc](https://github.com/paweld/PasLibVlc)|PasLibVlc is interface to VideoLAN libvlc.dll and VCL player component for Delphi / FreePascal based on VideoLAN|9|2023-12-25|2023-12-25|
 |81|[juanccilleruelo/MVC_AR_EntityGenerator](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)|Datasets properties to generate MVCActiveRecord Descendants classes and more. |9|2023-12-22|2023-12-04|
@@ -91,13 +91,13 @@
 |84|[yastrebtsov/turbovision-delphi](https://github.com/yastrebtsov/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
 |85|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|High performant CUDA powered LLM inference library|8|2024-05-10|2024-05-08|
 |86|[yunkot/MicroPXL](https://github.com/yunkot/MicroPXL)|MicroPXL is a cross-platform framework for working with peripherals on desktop machines and SBCs|8|2024-06-13|2024-05-06|
-|87|[Djaoued2006/AUTO_COMPLETE_SYSTEM](https://github.com/Djaoued2006/AUTO_COMPLETE_SYSTEM)|generates all the possible words from a prefix given by the user!|8|2024-05-02|2024-05-01|
-|88|[adrianosantostreina/MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D)|Biblioteca para criação de logs de aplicativos Android|8|2024-04-24|2024-04-16|
-|89|[gcarreno/ObjectPascalParser](https://github.com/gcarreno/ObjectPascalParser)|An attempt at an Object Pascal Parser|8|2024-01-15|2024-01-13|
-|90|[vrwallace/IPAvailabilityScanner](https://github.com/vrwallace/IPAvailabilityScanner)|This utility efficiently scans IP addresses and gathers host names and MAC addresses. It offers the capability to export scan results and includes features for port scanning of selected hosts. Enhance ...|8|2024-05-01|2023-11-18|
-|91|[PascalCoinDev/AbstractMem](https://github.com/PascalCoinDev/AbstractMem)|A library for Delphi/FreePascal to use as an automated storage simple to use, both memory and file mangament|8|2024-01-15|2023-10-17|
-|92|[dxbit/dataexpress](https://github.com/dxbit/dataexpress)|Конструктор баз данных DataExpress|7|2024-06-09|2024-05-12|
-|93|[antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP)|BuscaCEP é uma biblioteca de consulta de endereço online, que permite consulta por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro).|7|2024-05-27|2024-05-01|
+|87|[antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP)|BuscaCEP é uma biblioteca de consulta de endereço online, que permite consulta por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro).|8|2024-05-27|2024-05-01|
+|88|[Djaoued2006/AUTO_COMPLETE_SYSTEM](https://github.com/Djaoued2006/AUTO_COMPLETE_SYSTEM)|generates all the possible words from a prefix given by the user!|8|2024-05-02|2024-05-01|
+|89|[adrianosantostreina/MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D)|Biblioteca para criação de logs de aplicativos Android|8|2024-04-24|2024-04-16|
+|90|[gcarreno/ObjectPascalParser](https://github.com/gcarreno/ObjectPascalParser)|An attempt at an Object Pascal Parser|8|2024-01-15|2024-01-13|
+|91|[vrwallace/IPAvailabilityScanner](https://github.com/vrwallace/IPAvailabilityScanner)|This utility efficiently scans IP addresses and gathers host names and MAC addresses. It offers the capability to export scan results and includes features for port scanning of selected hosts. Enhance ...|8|2024-05-01|2023-11-18|
+|92|[PascalCoinDev/AbstractMem](https://github.com/PascalCoinDev/AbstractMem)|A library for Delphi/FreePascal to use as an automated storage simple to use, both memory and file mangament|8|2024-01-15|2023-10-17|
+|93|[dxbit/dataexpress](https://github.com/dxbit/dataexpress)|Конструктор баз данных DataExpress|7|2024-06-09|2024-05-12|
 |94|[GDKsoftware/firedac-threaded](https://github.com/GDKsoftware/firedac-threaded)|Threaded connections for Firedac|7|2024-05-16|2024-04-19|
 |95|[maicodalri/HException](https://github.com/maicodalri/HException)|O exemplo a seguir tem como objetivo mostrar a utilização do mecanismo controlador de exceções do Delphi|7|2024-03-12|2024-03-12|
 |96|[modersohn/delphi-tree-sitter](https://github.com/modersohn/delphi-tree-sitter)|Delphi binding for the tree-sitter library|7|2024-03-24|2024-02-28|
@@ -179,7 +179,7 @@
 |172|[FernandoBanhos/pascal_brotli](https://github.com/FernandoBanhos/pascal_brotli)|A pascal library, to compress and decompress with Brotli|4|2024-04-25|2024-03-26|
 |173|[DelphiTeacher/ScriptGate_fix](https://github.com/DelphiTeacher/ScriptGate_fix)|ScriptGate fix for Delphi 11,12|4|2024-03-25|2024-03-25|
 |174|[gladir/BUBBLE-SHOOTER](https://github.com/gladir/BUBBLE-SHOOTER)|Jeu Bubble Shooter écrit en Pascal (Turbo Pascal ou Free Pascal). Un jeu où il faut viser des bulles de façon à avoir 3 bulles de la meme couleurs pour les faires disparaitre.|4|2024-03-24|2024-03-24|
-|175|[eder-dalpizzol/flappylazarus](https://github.com/eder-dalpizzol/flappylazarus)|-|4|2024-03-22|2024-03-20|
+|175|[eder-dalpizzol/flappylazarus](https://github.com/eder-dalpizzol/flappylazarus)|-|4|2024-06-17|2024-03-20|
 |176|[delphifanforum/DFFormater](https://github.com/delphifanforum/DFFormater)|This Delphi project provides a comprehensive library for formatting and minifying various types of code commonly used in software development. It includes functionalities for formatting and minifying  ...|4|2024-03-19|2024-03-19|
 |177|[fdmigrator-project/fdmigrator](https://github.com/fdmigrator-project/fdmigrator)|Database Migration Tool based on the powers of FireDac!|4|2024-06-16|2024-03-09|
 |178|[Codrax/Codrut-Animation-Lib](https://github.com/Codrax/Codrut-Animation-Lib)|Codruts Animation Library|4|2024-03-01|2024-03-01|

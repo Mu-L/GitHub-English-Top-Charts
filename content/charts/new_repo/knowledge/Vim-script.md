@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vim script
-<sub>Updated: 2024-06-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[habamax/vim-nod](https://github.com/habamax/vim-nod)|Collection of dark and light vim colorschemes.|10|2024-06-01|2024-05-29|
+|1|[habamax/vim-nod](https://github.com/habamax/vim-nod)|Collection of dark and light vim colorschemes.|10|2024-06-15|2024-05-29|
 |2|[mehrshad-kh/dotfiles](https://github.com/mehrshad-kh/dotfiles)|A collection of my dotfiles|3|2024-05-21|2023-09-12|
 
 <div align="center">
