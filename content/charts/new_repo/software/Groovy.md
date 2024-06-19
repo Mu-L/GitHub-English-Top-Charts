@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-06-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
 |3|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|24|2024-05-13|2024-02-21|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|19|2024-04-22|2024-03-23|
-|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-06-10|2023-08-30|
+|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-06-17|2023-08-30|
 |6|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |11|2024-04-15|2024-03-17|
 |7|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-29|2024-01-02|
 |8|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|8|2024-04-23|2023-08-30|
@@ -17,8 +17,8 @@
 |10|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
 |11|[maggergm/GroovyCSVExample](https://github.com/maggergm/GroovyCSVExample)|A useful Groovy script to read and analyze a CSV file|4|2024-06-04|2024-06-04|
 |12|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
-|13|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|4|2024-06-17|2024-04-26|
-|14|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|4|2024-06-16|2024-01-28|
+|13|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|4|2024-06-18|2024-04-26|
+|14|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|4|2024-06-18|2024-01-28|
 |15|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-05-29|2024-01-13|
 |16|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
 |17|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|
@@ -39,11 +39,11 @@
 |32|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-16|2023-08-08|
 |33|[zml2008/gitpatcher](https://github.com/zml2008/gitpatcher)|A gradle plugin to apply a patch tree to projects fetched from a git repository|3|2024-06-02|2023-07-16|
 |34|[ZOSOpenTools/gumport](https://github.com/ZOSOpenTools/gumport)|-|3|2024-05-26|2023-06-30|
-|35|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|3|2024-05-29|2023-06-20|
+|35|[ZOSOpenTools/c3270port](https://github.com/ZOSOpenTools/c3270port)|A 3270 emulator|3|2024-06-18|2023-06-20|
 |36|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
 |37|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
 |38|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|39|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|2|2024-06-17|2024-03-22|
+|39|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|2|2024-06-18|2024-03-22|
 |40|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
 |41|[AbstractClass/RedTeamInfra](https://github.com/AbstractClass/RedTeamInfra)|-|2|2024-02-28|2024-02-26|
 |42|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|2|2024-05-09|2024-02-08|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-06-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,16 +12,16 @@
 |5|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|364|2024-06-08|2023-10-25|
 |6|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|298|2024-04-02|2023-08-28|
 |7|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|279|2024-06-12|2023-07-21|
-|8|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|267|2024-06-16|2024-03-22|
+|8|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|268|2024-06-18|2024-03-22|
 |9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|253|2024-04-04|2024-01-14|
-|10|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |231|2024-05-27|2023-08-16|
+|10|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |233|2024-05-27|2023-08-16|
 |11|[xpn/RandomTSScripts](https://github.com/xpn/RandomTSScripts)|Collection of random RedTeam scripts.|188|2024-03-08|2023-07-23|
-|12|[wangwangba/Notcoin-crypto-bot](https://github.com/wangwangba/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|179|2024-06-17|2024-06-17|
-|13|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|163|2024-05-31|2023-11-07|
+|12|[wangwangba/Notcoin-crypto-bot](https://github.com/wangwangba/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|175|2024-06-17|2024-06-17|
+|13|[nuggslet/MGSM2Fix](https://github.com/nuggslet/MGSM2Fix)|A fix that adds custom resolutions, analog input, pixel perfect scaling and more to the original Metal Gear Solid within the Master Collection.|164|2024-05-31|2023-11-07|
 |14|[jadijadi/Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices)|A collection of programming exercises to help you practice your new language|158|2024-05-17|2023-07-29|
 |15|[pcb9382/StereoAlgorithms](https://github.com/pcb9382/StereoAlgorithms)|Stereo Algorithms (Include:CREStereo,RAFT-Stereo,Hitnet,FastACVNet_plus,Stereo Transformers,RealtimeStereo,DistDepth) with TensorRT,ORT,OpenVINO|158|2024-03-04|2023-07-18|
-|16|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|134|2024-06-17|2023-07-03|
-|17|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|132|2024-06-14|2024-01-06|
+|16|[rphlr/42-Subjects](https://github.com/rphlr/42-Subjects)|An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖 ...|137|2024-06-18|2023-07-03|
+|17|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|134|2024-06-14|2024-01-06|
 |18|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|116|2024-04-05|2024-03-20|
 |19|[naksyn/Embedder](https://github.com/naksyn/Embedder)|Embedder is a collection of sources in different languages to embed Python interpreter with minimal dependencies|107|2024-05-29|2023-07-13|
 |20|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|104|2024-01-01|2023-10-25|
