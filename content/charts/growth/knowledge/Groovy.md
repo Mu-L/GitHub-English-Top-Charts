@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-06-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -29,7 +29,7 @@
 |22|[lmagyar/homeassistant-addon-samba-interface](https://github.com/lmagyar/homeassistant-addon-samba-interface)|Restores interfaces configuration for the official Home Assistant Samba add-on https://github.com/home-assistant/addons/tree/master/samba|20|0|2024-06-07|
 |23|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|0|2024-06-10|
 |24|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare,  ...|54|0|2024-06-17|
-|25|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-06-20|
+|25|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-06-21|
 |26|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|69|0|2024-06-19|
 |27|[zlatozar/etudes](https://github.com/zlatozar/etudes)|Implement etudes from book "Etudes for Programmers" by Charles Wetherell|6|0|2024-02-04|
 |28|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|30|0|2024-03-25|
@@ -51,12 +51,12 @@
 |44|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|24|0|2024-05-07|
 |45|[networkupstools/jenkins-dynamatrix](https://github.com/networkupstools/jenkins-dynamatrix)|A shared library to do a sort of matrix build based on available swarm agent labels|2|0|2024-01-04|
 |46|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|592|0|2024-06-18|
-|47|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2024-03-11|
+|47|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2024-06-21|
 |48|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|31|0|2024-06-17|
 |49|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|126|0|2024-06-18|
 |50|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-04-23|
 |51|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|151|0|2024-05-17|
-|52|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |757|0|2024-05-31|
+|52|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |756|0|2024-05-31|
 |53|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|6|0|2024-03-13|
 |54|[qbicsoftware/offer-manager-2-portlet](https://github.com/qbicsoftware/offer-manager-2-portlet)|The offer manager assists in creating offers with version control and person master data handling.|2|0|2024-01-22|
 |55|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|0|2024-06-15|

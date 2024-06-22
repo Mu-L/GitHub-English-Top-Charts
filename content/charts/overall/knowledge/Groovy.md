@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-06-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |757|2024-05-31|
+|1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |756|2024-05-31|
 |2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|592|2024-06-18|
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|285|2024-06-17|
 |4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|151|2024-05-17|
@@ -19,7 +19,7 @@
 |12|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|36|2024-05-29|
 |13|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|31|2024-06-17|
 |14|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|30|2024-03-25|
-|15|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-06-20|
+|15|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-06-21|
 |16|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|24|2024-06-13|
 |17|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|24|2024-05-07|
 |18|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|22|2024-04-03|
@@ -30,7 +30,7 @@
 |23|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|13|2024-05-23|
 |24|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|2024-06-20|
 |25|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|2024-05-01|
-|26|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|2024-03-11|
+|26|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|2024-06-21|
 |27|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|2024-06-19|
 |28|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|9|2024-03-27|
 |29|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|9|2024-05-23|
