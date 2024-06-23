@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|471|2024-06-20|2023-12-01|
-|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|448|2024-06-16|2024-02-22|
-|3|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|234|2024-01-18|2023-10-03|
-|4|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|233|2024-06-14|2023-07-12|
+|1|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|476|2024-06-21|2023-12-01|
+|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|449|2024-06-16|2024-02-22|
+|3|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|235|2024-06-14|2023-07-12|
+|4|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|234|2024-01-18|2023-10-03|
 |5|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|202|2024-01-14|2023-07-28|
-|6|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|187|2024-06-17|2024-06-12|
+|6|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|193|2024-06-22|2024-06-12|
 |7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|174|2024-06-02|2024-01-21|
 |8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|149|2024-05-26|2024-05-17|
 |9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|129|2024-06-13|2023-12-01|
 |10|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|92|2024-04-16|2023-12-16|
-|11|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|86|2024-06-19|2024-06-13|
-|12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|74|2024-04-29|2023-09-28|
+|11|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|88|2024-06-19|2024-06-13|
+|12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|75|2024-04-29|2023-09-28|
 |13|[twostraws/FaceFacts](https://github.com/twostraws/FaceFacts)|Source code for my SwiftUI + SwiftData tutorial.|60|2023-12-23|2023-12-23|
 |14|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|39|2024-06-14|2024-05-29|
 |15|[TouSC/Video2LivePhoto](https://github.com/TouSC/Video2LivePhoto)|Support iOS17 & Wallpaper: a Tool with Example of how to convert a video into a LivePhoto|32|2024-06-20|2024-04-02|
@@ -60,11 +60,12 @@
 |53|[ryanslikesocool/CheatSheetOverlay](https://github.com/ryanslikesocool/CheatSheetOverlay)|Customizable keyboard shortcut cheat sheet overlay for SwiftUI|7|2024-04-05|2023-12-19|
 |54|[andremporto/GetMapped](https://github.com/andremporto/GetMapped)|A helpful guide to find beautiful places|7|2024-03-15|2023-08-02|
 |55|[shial4/SwiftUIComponents](https://github.com/shial4/SwiftUIComponents)|Collection of additional shapes, modifiers, and views for SwiftUI and compatible frameworks|7|2024-05-17|2023-06-30|
-|56|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
-|57|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|
-|58|[tkey/tkey-examples](https://github.com/tkey/tkey-examples)|Contains the examples of various implementations of tKey MPC SDks|6|2024-06-21|2023-09-21|
-|59|[pwsacademy/swiftwasm-examples](https://github.com/pwsacademy/swiftwasm-examples)|Examples of Swift for WebAssembly|5|2024-05-16|2024-05-02|
-|60|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2024-04-17|2023-08-20|
+|56|[VB10/swift_patterns](https://github.com/VB10/swift_patterns)|Design patterns example to swift language|6|2024-02-25|2024-02-11|
+|57|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
+|58|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|
+|59|[tkey/tkey-examples](https://github.com/tkey/tkey-examples)|Contains the examples of various implementations of tKey MPC SDks|6|2024-06-21|2023-09-21|
+|60|[pwsacademy/swiftwasm-examples](https://github.com/pwsacademy/swiftwasm-examples)|Examples of Swift for WebAssembly|5|2024-05-16|2024-05-02|
+|61|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2024-04-17|2023-08-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|81|2024-05-02|2023-11-24|
 |8|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|73|2024-05-21|2023-10-22|
 |9|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|60|2024-06-20|2024-02-19|
-|10|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|59|2024-06-20|2023-10-24|
+|10|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|60|2024-06-20|2023-10-24|
 |11|[omarzer0/AnimeAZ](https://github.com/omarzer0/AnimeAZ)|KMP project with SharedUI and Shared Logic|59|2024-01-06|2023-09-25|
 |12|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|51|2024-06-20|2024-05-29|
 |13|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|51|2024-06-06|2024-02-14|
@@ -32,7 +32,7 @@
 |25|[tmehta813/catdetails](https://github.com/tmehta813/catdetails)|Two screens are here, List of cat details screen and detail screen page. |19|2024-02-20|2024-02-20|
 |26|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|19|2024-02-08|2024-02-08|
 |27|[isel-leic-pdm/2324i](https://github.com/isel-leic-pdm/2324i)|Repository for Mobile Device Programming course, winter semester of 2023-2024|19|2023-12-27|2023-09-11|
-|28|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 4 supported file formats (.txt, .pdf, .epub, .fb2), 2 supported languages. Lots of customization.|18|2024-06-21|2023-12-29|
+|28|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 4 supported file formats (.txt, .pdf, .epub, .fb2), 2 supported languages. Lots of customization.|18|2024-06-22|2023-12-29|
 |29|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|17|2024-04-17|2024-04-01|
 |30|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|15|2024-06-07|2023-10-11|
 |31|[MadFlasheroo7/Madifiers](https://github.com/MadFlasheroo7/Madifiers)|Madifiers is an collection of modifiers, extension function, and composables for jetpack compose to make compose development easy and straight forward|15|2024-01-26|2023-07-04|
