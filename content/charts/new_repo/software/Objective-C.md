@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[roothide/Bootstrap](https://github.com/roothide/Bootstrap)|A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide|1088|2024-03-21|2023-12-21|
 |2|[khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)|Run iOS app without actually installing it!|606|2024-06-13|2023-07-14|
-|3|[roothide/Developer](https://github.com/roothide/Developer)|Developer|430|2024-06-17|2023-09-14|
+|3|[roothide/Developer](https://github.com/roothide/Developer)|Developer|431|2024-06-17|2023-09-14|
 |4|[BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram)|An awesome tweak for Instagram!|256|2024-03-31|2023-07-11|
-|5|[BandarHL/BHTikTok](https://github.com/BandarHL/BHTikTok)|An awesome tweak for TikTok!|237|2024-05-01|2023-07-11|
-|6|[dhinakg/aeota](https://github.com/dhinakg/aeota)|AEA OTA/IPSW decryption|187|2024-06-22|2024-06-11|
+|5|[BandarHL/BHTikTok](https://github.com/BandarHL/BHTikTok)|An awesome tweak for TikTok!|238|2024-05-01|2023-07-11|
+|6|[dhinakg/aeota](https://github.com/dhinakg/aeota)|AEA OTA/IPSW decryption|187|2024-06-23|2024-06-11|
 |7|[fmyyss/XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH)|-|130|2024-02-17|2024-02-02|
 |8|[R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)|POC for CVE-2024-27804|121|2024-05-14|2024-05-14|
 |9|[PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs)|A TrollStore application to control individual flashlight LEDs for iOS devices.|109|2024-03-30|2024-01-20|
@@ -31,7 +31,7 @@
 |24|[acquitelol/flora](https://github.com/acquitelol/flora)|A tweak to customize all of your iOS colors!|26|2024-03-17|2024-01-15|
 |25|[coolstar/ventana](https://github.com/coolstar/ventana)|Ventana OSS|23|2024-05-06|2024-05-06|
 |26|[aleixsr/HP-Pavilion-Aero-13-Hackintosh](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)|OpenCore EFI for HP Pavilion Aero 13 - be0006ns Laptop|23|2024-03-28|2023-09-15|
-|27|[duguyihou/react-native-turbo-image](https://github.com/duguyihou/react-native-turbo-image)|Performant React Native image component|22|2024-06-22|2023-07-22|
+|27|[duguyihou/react-native-turbo-image](https://github.com/duguyihou/react-native-turbo-image)|Performant React Native image component|22|2024-06-23|2023-07-22|
 |28|[tempelmann/SSDP-Browser](https://github.com/tempelmann/SSDP-Browser)|A SSDP (UPnP) Browser for macOS 10.11 and later|21|2024-04-22|2024-02-28|
 |29|[hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)|-|20|2024-02-05|2024-02-04|
 |30|[Lrdsnow/SwiftKFD](https://github.com/Lrdsnow/SwiftKFD)|Easy to use KFD!|18|2024-04-07|2024-01-23|
@@ -140,7 +140,7 @@
 |133|[vladov3000/typewriter](https://github.com/vladov3000/typewriter)|-|3|2024-06-04|2024-06-04|
 |134|[jzksnsjswkw/ForwardNotifier-rootless](https://github.com/jzksnsjswkw/ForwardNotifier-rootless)|Forward your notifications from your iOS device to your PC/iOS device!|3|2024-06-15|2024-05-14|
 |135|[Dilivva/GoogleExperimentalLibraries](https://github.com/Dilivva/GoogleExperimentalLibraries)|Some experimental Google libraries converted to Kotlin Multiplatform for Android and iOS for use in Compose multiplatform|3|2024-04-25|2024-04-19|
-|136|[bag-xml/Calcium](https://github.com/bag-xml/Calcium)|KoboldCPP AI client for Legacy iOS (6.0+)|3|2024-06-14|2024-04-05|
+|136|[bag-xml/Calcium](https://github.com/bag-xml/Calcium)|KoboldCPP AI client for Legacy iOS (6.0+)|3|2024-06-23|2024-04-05|
 |137|[tiktok/tiktok-business-ios-sdk](https://github.com/tiktok/tiktok-business-ios-sdk)|-|3|2024-05-14|2024-04-01|
 |138|[r58Playz/kdeconnect](https://github.com/r58Playz/kdeconnect)|KDE Connect implementation in Rust and application for jailbroken/TrollStore iOS|3|2024-06-13|2024-03-31|
 |139|[0xilis/PlayingAroundWithAppleArchive](https://github.com/0xilis/PlayingAroundWithAppleArchive)|Bad code I wrote for debugging some libAppleArchive functions|3|2024-03-18|2024-03-18|
@@ -171,40 +171,40 @@
 |164|[Korea-Minecraft-Forum/CocoaInput-lib](https://github.com/Korea-Minecraft-Forum/CocoaInput-lib)|CocoaInput Native Library (Windows, macOS, X11)|3|2024-02-06|2023-08-22|
 |165|[amwal-tech/amwal-ios-sdk](https://github.com/amwal-tech/amwal-ios-sdk)|Integrate Amwal’s prebuilt payment Sheet into the checkout of your iOS app with the PaymentSheet DSL friendly APIs.|3|2024-02-06|2023-07-16|
 |166|[trustdecision/mobrisk-ios-sample](https://github.com/trustdecision/mobrisk-ios-sample)|An example of the development and docking of mobrisk ios.|3|2024-04-22|2023-07-05|
-|167|[tunde-alao/airbnb-clone](https://github.com/tunde-alao/airbnb-clone)|-|2|2024-06-18|2024-06-18|
-|168|[sqmeeting/sqmeeting_ios](https://github.com/sqmeeting/sqmeeting_ios)|-|2|2024-06-15|2024-06-15|
-|169|[xsscx/xnuimagetools](https://github.com/xsscx/xnuimagetools)|XNU Image Tools is a multi-platform image processing toolkit for fuzzing UTI file formats.|2|2024-05-28|2024-05-26|
-|170|[emptybox/SocialShareEBM](https://github.com/emptybox/SocialShareEBM)|Titanium sharing module for appcelerator to natively share text and images to social media|2|2024-05-23|2024-05-22|
-|171|[jevinskie/IOSurface-sandbox](https://github.com/jevinskie/IOSurface-sandbox)|Sandbox for playing around with IOSurfaces, compositing, and private CoreGraphs/CoreAnimation/SkyLight APIs|2|2024-05-09|2024-05-08|
-|172|[jhorvitz124/com.jake.retrodial](https://github.com/jhorvitz124/com.jake.retrodial)|RetroDial brings a classic rotary dialer interface to your iPhone for making calls. With this tweak, you can replace the standard phone keypad with a retro rotary dialer, giving your iPhone a nostalgi ...|2|2024-05-15|2024-05-08|
-|173|[arctop/ios-sdk](https://github.com/arctop/ios-sdk)|Arctop's iOS SDK|2|2024-05-16|2024-04-29|
-|174|[arashmidos/embedded-sdk](https://github.com/arashmidos/embedded-sdk)|Embedded Outline SDK demo|2|2024-04-24|2024-04-22|
-|175|[eliot-akira/1991-www-next](https://github.com/eliot-akira/1991-www-next)|Source code of WorldWideWeb, the first web browser and HTML editor|2|2024-03-24|2024-03-24|
-|176|[Netskao/AwemeCore_class-dump](https://github.com/Netskao/AwemeCore_class-dump)|AwemeCore version 29.2.0 class-dump|2|2024-03-22|2024-03-22|
-|177|[WeansHHN/Lib-Mod-Skin](https://github.com/WeansHHN/Lib-Mod-Skin)|-|2|2024-03-15|2024-03-13|
-|178|[Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh](https://github.com/Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh)|-|2|2024-06-04|2024-03-10|
-|179|[tamilselvanarjun/2-06pm](https://github.com/tamilselvanarjun/2-06pm)|-|2|2024-03-04|2024-03-04|
-|180|[skgupta507/Animedex-IOS](https://github.com/skgupta507/Animedex-IOS)|Animedex IOS app source code|2|2024-03-03|2024-03-03|
-|181|[821385843/YYTextFix](https://github.com/821385843/YYTextFix)|-|2|2024-02-28|2024-02-26|
-|182|[selahattinedin/filmlerApp](https://github.com/selahattinedin/filmlerApp)|-|2|2024-02-25|2024-02-25|
-|183|[lxumeng/XMMagnifier](https://github.com/lxumeng/XMMagnifier)|In iOS apps, provide a magnifying glass to zoom in on the content on the interface.|2|2024-02-26|2024-02-21|
-|184|[Adnan46/NodeMediaClient-iOS-Pods](https://github.com/Adnan46/NodeMediaClient-iOS-Pods)|2.9.8 pods of NodeMediaClient which depends on 0.2.17 of react-native-nodemediaclient.|2|2024-02-20|2024-02-20|
-|185|[luciuskwok/The-Grix](https://github.com/luciuskwok/The-Grix)|The Grix by Felt Tip & eBoy|2|2024-02-17|2024-02-17|
-|186|[dayanch96/Dopamine-2-Not-](https://github.com/dayanch96/Dopamine-2-Not-)|-|2|2024-02-16|2024-02-16|
-|187|[DannyMang/payface](https://github.com/DannyMang/payface)|Spring' 24 ML Club project |2|2024-04-07|2024-02-10|
-|188|[jc-bao/ayaneo-2021-pro-ventura](https://github.com/jc-bao/ayaneo-2021-pro-ventura)|OpenCore EFI folder for Ayaneo 2021 Pro Console. |2|2024-02-10|2024-02-05|
-|189|[stanma9107/expo-tappay-direct](https://github.com/stanma9107/expo-tappay-direct)|Integrate Tappay Direct Pay to Expo|2|2024-03-01|2024-01-28|
-|190|[SuperChaoM/iOS-batteryTool](https://github.com/SuperChaoM/iOS-batteryTool)|-|2|2024-01-17|2024-01-17|
-|191|[edaaydin/Mobil_App3](https://github.com/edaaydin/Mobil_App3)|-|2|2024-02-01|2024-01-07|
-|192|[bigjermaine/MapAppObjectiveC](https://github.com/bigjermaine/MapAppObjectiveC)|-|2|2023-12-27|2023-12-27|
-|193|[Foxysome/Huawei-Matebook-D15-Hackintosh](https://github.com/Foxysome/Huawei-Matebook-D15-Hackintosh)|-|2|2024-02-14|2023-12-20|
-|194|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|2|2024-01-28|2023-11-20|
-|195|[pabl014/SM-ios-zad6](https://github.com/pabl014/SM-ios-zad6)|Programowe zasoby aplikacji. Zapewnienie umiędzynarodowienia aplikacji.|2|2024-02-14|2023-11-10|
-|196|[YanSakhnevich/EasyStackPackage](https://github.com/YanSakhnevich/EasyStackPackage)|-|2|2024-01-12|2023-11-08|
-|197|[microspaze/IJKPlayer.Binding](https://github.com/microspaze/IJKPlayer.Binding)|IJKPlayer's binding library projects for .NET Maui|2|2024-06-03|2023-09-21|
-|198|[bidapphub/bidapp-ads-ios](https://github.com/bidapphub/bidapp-ads-ios)|-|2|2024-01-10|2023-09-04|
-|199|[appmetrica/push-sdk-ios](https://github.com/appmetrica/push-sdk-ios)|AppMetrica Push SDK for iOS|2|2024-06-21|2023-08-23|
-|200|[Bytedesk/bytedesk-oc](https://github.com/Bytedesk/bytedesk-oc)|bytedesk chat objective-c sdk|2|2024-04-20|2023-08-18|
+|167|[pixelomer/Oneko-iOS](https://github.com/pixelomer/Oneko-iOS)|Port of Oneko for iOS|2|2024-06-22|2024-06-22|
+|168|[tunde-alao/airbnb-clone](https://github.com/tunde-alao/airbnb-clone)|-|2|2024-06-18|2024-06-18|
+|169|[sqmeeting/sqmeeting_ios](https://github.com/sqmeeting/sqmeeting_ios)|-|2|2024-06-15|2024-06-15|
+|170|[xsscx/xnuimagetools](https://github.com/xsscx/xnuimagetools)|XNU Image Tools is a multi-platform image processing toolkit for fuzzing UTI file formats.|2|2024-05-28|2024-05-26|
+|171|[emptybox/SocialShareEBM](https://github.com/emptybox/SocialShareEBM)|Titanium sharing module for appcelerator to natively share text and images to social media|2|2024-05-23|2024-05-22|
+|172|[jevinskie/IOSurface-sandbox](https://github.com/jevinskie/IOSurface-sandbox)|Sandbox for playing around with IOSurfaces, compositing, and private CoreGraphs/CoreAnimation/SkyLight APIs|2|2024-05-09|2024-05-08|
+|173|[jhorvitz124/com.jake.retrodial](https://github.com/jhorvitz124/com.jake.retrodial)|RetroDial brings a classic rotary dialer interface to your iPhone for making calls. With this tweak, you can replace the standard phone keypad with a retro rotary dialer, giving your iPhone a nostalgi ...|2|2024-05-15|2024-05-08|
+|174|[arctop/ios-sdk](https://github.com/arctop/ios-sdk)|Arctop's iOS SDK|2|2024-05-16|2024-04-29|
+|175|[arashmidos/embedded-sdk](https://github.com/arashmidos/embedded-sdk)|Embedded Outline SDK demo|2|2024-04-24|2024-04-22|
+|176|[eliot-akira/1991-www-next](https://github.com/eliot-akira/1991-www-next)|Source code of WorldWideWeb, the first web browser and HTML editor|2|2024-03-24|2024-03-24|
+|177|[Netskao/AwemeCore_class-dump](https://github.com/Netskao/AwemeCore_class-dump)|AwemeCore version 29.2.0 class-dump|2|2024-03-22|2024-03-22|
+|178|[WeansHHN/Lib-Mod-Skin](https://github.com/WeansHHN/Lib-Mod-Skin)|-|2|2024-03-15|2024-03-13|
+|179|[Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh](https://github.com/Pinghigh/Magicbook-Pro-2020-R7-4800H-Hackintosh)|-|2|2024-06-04|2024-03-10|
+|180|[tamilselvanarjun/2-06pm](https://github.com/tamilselvanarjun/2-06pm)|-|2|2024-03-04|2024-03-04|
+|181|[skgupta507/Animedex-IOS](https://github.com/skgupta507/Animedex-IOS)|Animedex IOS app source code|2|2024-03-03|2024-03-03|
+|182|[821385843/YYTextFix](https://github.com/821385843/YYTextFix)|-|2|2024-02-28|2024-02-26|
+|183|[selahattinedin/filmlerApp](https://github.com/selahattinedin/filmlerApp)|-|2|2024-02-25|2024-02-25|
+|184|[lxumeng/XMMagnifier](https://github.com/lxumeng/XMMagnifier)|In iOS apps, provide a magnifying glass to zoom in on the content on the interface.|2|2024-02-26|2024-02-21|
+|185|[Adnan46/NodeMediaClient-iOS-Pods](https://github.com/Adnan46/NodeMediaClient-iOS-Pods)|2.9.8 pods of NodeMediaClient which depends on 0.2.17 of react-native-nodemediaclient.|2|2024-02-20|2024-02-20|
+|186|[luciuskwok/The-Grix](https://github.com/luciuskwok/The-Grix)|The Grix by Felt Tip & eBoy|2|2024-02-17|2024-02-17|
+|187|[dayanch96/Dopamine-2-Not-](https://github.com/dayanch96/Dopamine-2-Not-)|-|2|2024-02-16|2024-02-16|
+|188|[DannyMang/payface](https://github.com/DannyMang/payface)|Spring' 24 ML Club project |2|2024-04-07|2024-02-10|
+|189|[jc-bao/ayaneo-2021-pro-ventura](https://github.com/jc-bao/ayaneo-2021-pro-ventura)|OpenCore EFI folder for Ayaneo 2021 Pro Console. |2|2024-02-10|2024-02-05|
+|190|[stanma9107/expo-tappay-direct](https://github.com/stanma9107/expo-tappay-direct)|Integrate Tappay Direct Pay to Expo|2|2024-03-01|2024-01-28|
+|191|[SuperChaoM/iOS-batteryTool](https://github.com/SuperChaoM/iOS-batteryTool)|-|2|2024-01-17|2024-01-17|
+|192|[edaaydin/Mobil_App3](https://github.com/edaaydin/Mobil_App3)|-|2|2024-02-01|2024-01-07|
+|193|[bigjermaine/MapAppObjectiveC](https://github.com/bigjermaine/MapAppObjectiveC)|-|2|2023-12-27|2023-12-27|
+|194|[Foxysome/Huawei-Matebook-D15-Hackintosh](https://github.com/Foxysome/Huawei-Matebook-D15-Hackintosh)|-|2|2024-02-14|2023-12-20|
+|195|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|2|2024-01-28|2023-11-20|
+|196|[pabl014/SM-ios-zad6](https://github.com/pabl014/SM-ios-zad6)|Programowe zasoby aplikacji. Zapewnienie umiędzynarodowienia aplikacji.|2|2024-02-14|2023-11-10|
+|197|[YanSakhnevich/EasyStackPackage](https://github.com/YanSakhnevich/EasyStackPackage)|-|2|2024-01-12|2023-11-08|
+|198|[microspaze/IJKPlayer.Binding](https://github.com/microspaze/IJKPlayer.Binding)|IJKPlayer's binding library projects for .NET Maui|2|2024-06-03|2023-09-21|
+|199|[bidapphub/bidapp-ads-ios](https://github.com/bidapphub/bidapp-ads-ios)|-|2|2024-01-10|2023-09-04|
+|200|[JunyuKuang/SleepNowHotKey](https://github.com/JunyuKuang/SleepNowHotKey)|Force the Mac to go sleep by pressing Option-Q, ignoring all apps with Preventing Sleep config.|2|2024-06-23|2023-08-26|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

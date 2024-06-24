@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2460|4|2024-06-22|
-|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|315|2|2024-06-06|
-|3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|237|1|2024-06-18|
-|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1116|1|2024-06-03|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2465|4|2024-06-22|
+|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|319|2|2024-06-06|
+|3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|239|1|2024-06-18|
+|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1118|1|2024-06-03|
 |5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1325|1|2024-03-22|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|17|0|2024-06-11|
@@ -70,7 +70,7 @@
 |63|[MathWorks-Teaching-Resources/Morphology-in-Image-Processing](https://github.com/MathWorks-Teaching-Resources/Morphology-in-Image-Processing)|Interactive courseware module that introduces the fundamental morphological operations used in image processing.|3|0|2024-04-30|
 |64|[jeheelab/TAFKAP](https://github.com/jeheelab/TAFKAP)|(Matlab) code for the probabilistic brain decoding algorithms "PRINCE" and "The Algorithm Formerly Known As Prince"|14|0|2024-03-27|
 |65|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|9|0|2024-03-09|
-|66|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|108|0|2024-06-21|
+|66|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|108|0|2024-06-23|
 |67|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|32|0|2024-05-21|
 |68|[tomjanus/milp-scheduling](https://github.com/tomjanus/milp-scheduling)|Feasibility study on using mixed-integer-linear programming for solving optimal pump scheduling problem in water distribution networks.|9|0|2024-06-04|
 |69|[dapperfu/Jenkins-Simulink-Model-Advisor](https://github.com/dapperfu/Jenkins-Simulink-Model-Advisor)|Example on how to use Simulink Model Advisor with Jenkins|4|0|2024-02-20|
@@ -107,7 +107,7 @@
 |100|[MathWorks-Teaching-Resources/Calculus-Integrals](https://github.com/MathWorks-Teaching-Resources/Calculus-Integrals)|Interactive examples using MATLAB to visualize and practice integral calculus including substitution, integration by parts, and the fundamental theorem of calculus|9|0|2024-06-21|
 |101|[ShiDongyuan/Meta](https://github.com/ShiDongyuan/Meta)|Fast Adaptive Active Noise Control based on Modified Model-Agnostic Meta-Learning Algorithm|9|0|2024-02-23|
 |102|[MathWorks-Teaching-Resources/Fundamentals-of-Programming](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming)|An overview of programming concepts including arrays, strings, loops, and algorithms with a project.|18|0|2024-05-29|
-|103|[parkman-auex/vasplib](https://github.com/parkman-auex/vasplib)|a powerful script collection for data-analysis from vasp for topological matters|7|0|2024-03-28|
+|103|[parkman-auex/vasplib](https://github.com/parkman-auex/vasplib)|a powerful script collection for data-analysis from vasp for topological matters|7|0|2024-06-23|
 |104|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|0|2024-05-23|
 |105|[UtkarshPathrabe/Machine-Learning-BITS-Pilani](https://github.com/UtkarshPathrabe/Machine-Learning-BITS-Pilani)|Contains Lab Sheets and their Solutions and the Assignment Files which were done during the Course|6|0|2024-01-03|
 |106|[ilog-ecnu/REMO](https://github.com/ilog-ecnu/REMO)|Expensive Multiobjective Optimization by Relation Learning and Prediction|7|0|2024-02-20|
@@ -133,7 +133,7 @@
 |126|[Dwl2021/Minimum-Snap](https://github.com/Dwl2021/Minimum-Snap)|Minimum-Snap Learning Code|4|0|2024-04-04|
 |127|[LstinWh/ABNMTF](https://github.com/LstinWh/ABNMTF)|Semi-Supervised Non-Negative Matrix Tri-Factorization With Adaptive Neighbors Block-Diagonal Learning|8|0|2024-05-07|
 |128|[EMDCYY/VMscatter](https://github.com/EMDCYY/VMscatter)| The MATLAB code for the VMscatter system presented at NSDI 2020, demonstrating three algorithms to decode space-time code-based MIMO backscatter in an 802.11 environment|3|0|2024-01-29|
-|129|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|45|0|2024-04-17|
+|129|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|46|0|2024-04-17|
 |130|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|14|0|2024-03-24|
 |131|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|308|0|2023-12-31|
 |132|[Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments](https://github.com/Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments)|This resiprocity contains my assignments on the graduate level course Semiconductor Optoelectronic Devices.|3|0|2024-06-02|
@@ -154,7 +154,7 @@
 |147|[sbiswas8/space-nav-track](https://github.com/sbiswas8/space-nav-track)|This the repository of the accompanying MATLAB codes for the Book Navigation and Tracking in Space: Analysis and Algorithms|7|0|2024-01-15|
 |148|[marinaredamekhael/Simple-TSP-using-PSO-enhancement-with-WSO](https://github.com/marinaredamekhael/Simple-TSP-using-PSO-enhancement-with-WSO)|Explore a novel TSP solver using the WSO algorithm, mimicking the strategic hunting patterns of white sharks for optimized route finding. This MATLAB-based project invites collaboration and research e ...|3|0|2024-01-25|
 |149|[lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign)|Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015|125|0|2024-05-27|
-|150|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|0|2024-06-22|
+|150|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|0|2024-06-23|
 |151|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|0|2024-06-20|
 |152|[ml-lab-sau/Low-rank-label-subspace-transformation-for-multi-label-learning-with-missing-labels](https://github.com/ml-lab-sau/Low-rank-label-subspace-transformation-for-multi-label-learning-with-missing-labels)|The proposed method captures local and global correlations using Low Rank label subspace transformation for Multi-label learning with Missing Labels (LRMML). The model considers an auxiliary label mat ...|4|0|2024-01-28|
 |153|[ellynnhitran/Robust-Optimization-Electric-Vehicles](https://github.com/ellynnhitran/Robust-Optimization-Electric-Vehicles)|Experiment with real-world data to compare the results of different algorithms in optimizing electric vehicles's scheduling. |3|0|2024-01-19|

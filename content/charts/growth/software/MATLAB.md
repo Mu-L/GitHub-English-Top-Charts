@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6699|2|2024-06-01|
-|2|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|243|2|2024-05-24|
+|2|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|244|2|2024-05-24|
 |3|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|9|2|2024-06-18|
 |4|[nasa/Generic-Urban-Air-Mobility-GUAM](https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM)|-|34|1|2024-05-24|
 |5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2402|1|2024-01-15|
 |6|[Yuyyyuuu/PostProccess-PDR](https://github.com/Yuyyyuuu/PostProccess-PDR)|-|7|1|2024-06-18|
 |7|[mpoluektov/kan-polar](https://github.com/mpoluektov/kan-polar)|Kolmogorov-Arnold Networks in MATLAB|25|1|2024-06-16|
 |8|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|620|1|2024-06-09|
-|9|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|682|1|2024-05-28|
-|10|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|8|1|2024-06-22|
+|9|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|685|1|2024-05-28|
+|10|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|9|1|2024-06-23|
 |11|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|30|1|2024-06-19|
 |12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1483|1|2024-06-20|
 |13|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|7|1|2024-06-16|
 |14|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
-|15|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|5|0|2024-05-29|
+|15|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|6|0|2024-05-29|
 |16|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|4|0|2024-03-02|
 |17|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|10|0|2024-06-07|
 |18|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|80|0|2024-06-18|
@@ -47,7 +47,7 @@
 |40|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|5|0|2024-01-04|
 |41|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|102|0|2024-06-14|
 |42|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|9|0|2024-03-26|
-|43|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |24|0|2024-05-07|
+|43|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |25|0|2024-05-07|
 |44|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
 |45|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|6|0|2024-04-01|
 |46|[ebenetce/SBTi_MATLAB](https://github.com/ebenetce/SBTi_MATLAB)|-|4|0|2024-06-12|
@@ -119,7 +119,7 @@
 |112|[Canhui/Ant_Colony_Optimization](https://github.com/Canhui/Ant_Colony_Optimization)|ACO_for_TSP|4|0|2024-03-02|
 |113|[Jai-Tushar/Finite-Difference-Methods](https://github.com/Jai-Tushar/Finite-Difference-Methods)|This repository contains codes for solving partial differential equations using Finite Difference Methods in MATLAB.|4|0|2024-02-06|
 |114|[michaled/PH-CPF](https://github.com/michaled/PH-CPF)|MATLAB implementation of "PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields" by Kacper Pluta, Michal Edelstein, Amir Vaxman and Mirela Ben-Chen.|6|0|2024-04-12|
-|115|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|67|0|2024-06-18|
+|115|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|68|0|2024-06-18|
 |116|[juangburgos/FitSumExponentials](https://github.com/juangburgos/FitSumExponentials)|Repo to license code for fitting a sum of exponentials as described in https://math.stackexchange.com/questions/1428566/fit-sum-of-exponentials/3808325#3808325|8|0|2024-05-16|
 |117|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|15|0|2024-03-10|
 |118|[dnafinder/logistic5](https://github.com/dnafinder/logistic5)|Five parameters logistic regression|5|0|2024-02-16|
@@ -128,7 +128,7 @@
 |121|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|15|0|2024-05-23|
 |122|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|8|0|2024-02-18|
 |123|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|43|0|2024-06-03|
-|124|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|14|0|2024-03-26|
+|124|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|15|0|2024-03-26|
 |125|[PerkLab/SlicerMatlabBridge](https://github.com/PerkLab/SlicerMatlabBridge)|MatlabBridge extension for 3D Slicer|17|0|2024-04-23|
 |126|[nganngan0212/GA_MRTA](https://github.com/nganngan0212/GA_MRTA)|Centralized Genetic Algorithm for Multi Robot Task Allocation|3|0|2024-01-23|
 |127|[Yemini-Lab/NeuroPAL_ID](https://github.com/Yemini-Lab/NeuroPAL_ID)|Research software for (semi-) automated detection and identification of neurons in images of NeuroPAL, extract ID’d neural activity traces from NeuroPAL;GCaMP animals, and upload these datasets to pub ...|3|0|2024-06-21|

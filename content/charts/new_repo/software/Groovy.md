@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|54|2024-03-21|2024-01-19|
+|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|55|2024-03-21|2024-01-19|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
 |3|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|24|2024-05-13|2024-02-21|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|19|2024-04-22|2024-03-23|
@@ -24,7 +24,7 @@
 |17|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|
 |18|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
 |19|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|4|2024-02-08|2023-09-24|
-|20|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|4|2024-05-01|2023-08-15|
+|20|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|4|2024-06-23|2023-08-15|
 |21|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|4|2024-06-20|2023-07-07|
 |22|[trouble25/GroovyFileOperations](https://github.com/trouble25/GroovyFileOperations)|A useful Groovy script to perform basic file operations|3|2024-06-04|2024-06-04|
 |23|[L-W-payments/asaas-payment](https://github.com/L-W-payments/asaas-payment)|-|3|2024-06-17|2024-05-09|
