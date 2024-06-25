@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|319|2024-06-06|2024-01-27|
-|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|239|2024-06-18|2023-08-28|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|323|2024-06-06|2024-01-27|
+|2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|239|2024-06-24|2023-08-28|
 |3|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|141|2024-06-02|2023-07-28|
 |4|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|51|2024-05-17|2024-01-11|
 |5|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|17|2024-06-22|2023-10-13|
@@ -38,7 +38,7 @@
 |31|[ssvart/Stacked-Broad-Learning-System](https://github.com/ssvart/Stacked-Broad-Learning-System)|The Code && Paper of Stacked Broad Learning System: From Incremental Flatted Structure to Deep Model |6|2024-01-25|2024-01-25|
 |32|[moha999DJ/Genetic-algorithms](https://github.com/moha999DJ/Genetic-algorithms)|Using Genetic algorithms method in Matlab |6|2024-02-08|2023-12-11|
 |33|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|2024-06-03|2023-12-08|
-|34|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-23|2023-11-18|
+|34|[imperial-qore/line-solver](https://github.com/imperial-qore/line-solver)|Queueing Theory Algorithms for Python, Java, and MATLAB|6|2024-06-24|2023-11-18|
 |35|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
 |36|[IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids](https://github.com/IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids)|Master Thesis - Home Energy Management System optimizing prosumers' costs, supporting grid services, ensuring independent operation during grid disconnection, and employing optimization methods and fo ...|5|2024-05-03|2024-05-03|
 |37|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|2024-02-09|
@@ -56,7 +56,7 @@
 |49|[hkharsh786/SINDYc-on-WIP](https://github.com/hkharsh786/SINDYc-on-WIP)|This work has been carrid out during my master thesis at TU Dortmund.|4|2024-02-19|2024-01-22|
 |50|[yangtseJin/Matlab-GUI-Projects](https://github.com/yangtseJin/Matlab-GUI-Projects)|This is a project of matlab of Simple neural network, Dark image enhancement, Deep learning transfer training, Handwritten numbers recognition|4|2024-03-18|2023-11-26|
 |51|[SQY2021/Estimation_IEEE-TIE](https://github.com/SQY2021/Estimation_IEEE-TIE)|Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities (IEEE Transactions on Industrial Electronics (*IEEE TIE*))|4|2024-05-09|2023-11-02|
-|52|[AaHaHaa/gas_UPPE](https://github.com/AaHaHaa/gas_UPPE)|This is the shared package to simulate pulse propagation in a hollow-core fiber with MM-UPPE|4|2024-06-10|2023-10-31|
+|52|[AaHaHaa/gas_UPPE](https://github.com/AaHaHaa/gas_UPPE)|This is the shared package to simulate pulse propagation in a hollow-core fiber with MM-UPPE|4|2024-06-24|2023-10-31|
 |53|[eshaghi-ms/Introduction-to-MATLAB](https://github.com/eshaghi-ms/Introduction-to-MATLAB)|This repository is designed for the course "Introduction to MATLAB", which is held by the Civil Engineering Scientific Association at K.N.Toosi University in the autumn of 2023. |4|2024-05-23|2023-09-28|
 |54|[AlessandroLoVerde10/MATLAB-MonteCarloMethods-StochasticProcesses-OptionPricing](https://github.com/AlessandroLoVerde10/MATLAB-MonteCarloMethods-StochasticProcesses-OptionPricing)|Master's Thesis on Monte Carlo methods, pseudo-random number generation algorithms (LCG, Acceptance-Rejection and inverse method), Stochastic Processes Simulation(Euler Discretization Scheme), option  ...|4|2024-04-29|2023-09-20|
 |55|[pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain](https://github.com/pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain)|Physical Downlink Shared Channel (PDSCH) in 5G New Radio.|4|2024-01-29|2023-07-16|
@@ -77,15 +77,16 @@
 |70|[PanchalM19/Motion-Planning-in-CSpace](https://github.com/PanchalM19/Motion-Planning-in-CSpace)|Developed and implemented motion planning algorithms in MATLAB for navigating robots in a 2-D workspace, emphasizing collision avoidance and trajectory optimization. Leveraged configuration space conc ...|3|2024-02-02|2024-02-01|
 |71|[marinaredamekhael/Simple-TSP-using-PSO-enhancement-with-WSO](https://github.com/marinaredamekhael/Simple-TSP-using-PSO-enhancement-with-WSO)|Explore a novel TSP solver using the WSO algorithm, mimicking the strategic hunting patterns of white sharks for optimized route finding. This MATLAB-based project invites collaboration and research e ...|3|2024-01-25|2024-01-25|
 |72|[Image-X-Institute/DiaphragmTracking](https://github.com/Image-X-Institute/DiaphragmTracking)|MATLAB code for real-time, direct diaphragm tracking during image-guided radiotherapy|3|2024-04-02|2024-01-21|
-|73|[ellynnhitran/Robust-Optimization-Electric-Vehicles](https://github.com/ellynnhitran/Robust-Optimization-Electric-Vehicles)|Experiment with real-world data to compare the results of different algorithms in optimizing electric vehicles's scheduling. |3|2024-01-19|2024-01-19|
-|74|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-03-12|2024-01-10|
-|75|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
-|76|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|3|2024-05-04|2023-12-16|
-|77|[YuFengshuo/gas_electric_early_warning](https://github.com/YuFengshuo/gas_electric_early_warning)|Case study of the gas-electric early warning system in Zhejiang Province|3|2024-04-24|2023-11-28|
-|78|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|2024-04-09|2023-10-31|
-|79|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
-|80|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
-|81|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
+|73|[jwangjie/Mixed-Traffic-GP-MPC](https://github.com/jwangjie/Mixed-Traffic-GP-MPC)|Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles|3|2024-04-13|2024-01-20|
+|74|[ellynnhitran/Robust-Optimization-Electric-Vehicles](https://github.com/ellynnhitran/Robust-Optimization-Electric-Vehicles)|Experiment with real-world data to compare the results of different algorithms in optimizing electric vehicles's scheduling. |3|2024-01-19|2024-01-19|
+|75|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|3|2024-03-12|2024-01-10|
+|76|[MohammedAbuibaid/AdaptiveBeamformingAlgorithms](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)|This project involves a MATLAB script designed for simulating different adaptive beamforming algorithms.|3|2023-12-31|2023-12-30|
+|77|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|3|2024-05-04|2023-12-16|
+|78|[YuFengshuo/gas_electric_early_warning](https://github.com/YuFengshuo/gas_electric_early_warning)|Case study of the gas-electric early warning system in Zhejiang Province|3|2024-04-24|2023-11-28|
+|79|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|2024-04-09|2023-10-31|
+|80|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
+|81|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
+|82|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
