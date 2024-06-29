@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Updated: 2024-06-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|514|2024-05-20|2023-07-25|
 |2|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|409|2024-03-15|2023-09-20|
 |3|[jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)|Original source code for Impulse Tracker, a music tracker for DOS|286|2024-06-17|2024-06-15|
-|4|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|243|2024-06-27|2024-02-07|
+|4|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|244|2024-06-28|2024-02-07|
 |5|[nanochess/RayTracer](https://github.com/nanochess/RayTracer)|Ray Tracer in 483 bytes (x86 boot sector)|232|2024-05-11|2024-04-12|
 |6|[decrazyo/lng-fds](https://github.com/decrazyo/lng-fds)|Famicom Disk System port of LUnix Next Generation|228|2024-02-20|2024-01-06|
-|7|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|195|2024-06-27|2024-01-20|
+|7|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|195|2024-06-28|2024-01-20|
 |8|[bick11undead/Hamster-kombat-farm-auto-bot](https://github.com/bick11undead/Hamster-kombat-farm-auto-bot)|Bot that mines coins in HamsterKombat  @hamster_kombat                hamster-kombat-bot-free hamster-kombat-bot-download hamster-kombat-bot-setup hamster-kombat-bot-installation hamster-kombat-tradin ...|178|2024-05-27|2024-05-27|
 |9|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|169|2024-04-12|2024-03-19|
 |10|[banmrgamefun40/Catizen-Auto-bot-autofarm](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm)|We will help you automate all processes in the catizen game @catizenbot  auto farm Catzien |168|2024-05-27|2024-05-27|
-|11|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|127|2024-05-23|2023-09-30|
-|12|[famidash/famidash](https://github.com/famidash/famidash)|Geometry Dash for the Nintendo Entertainment System|126|2024-06-27|2024-04-03|
+|11|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|128|2024-05-23|2023-09-30|
+|12|[famidash/famidash](https://github.com/famidash/famidash)|Geometry Dash for the Nintendo Entertainment System|126|2024-06-28|2024-04-03|
 |13|[grimdoomer/Halo-2-HD](https://github.com/grimdoomer/Halo-2-HD)|HD patch for Halo 2 on the original Xbox|113|2024-04-08|2024-03-14|
 |14|[bakekenytownsend8/Catizen-auto-bot](https://github.com/bakekenytownsend8/Catizen-auto-bot)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|109|2024-06-03|2024-06-03|
 |15|[azya52/BrickEmuPy](https://github.com/azya52/BrickEmuPy)|Brick Game (aka Tetris) emulator in Python with PyQt6|107|2024-06-20|2023-11-12|
@@ -31,17 +31,17 @@
 |24|[WKL-Sec/FuncAddressPro](https://github.com/WKL-Sec/FuncAddressPro)|A stealthy, assembly-based tool for secure function address resolution, offering a robust alternative to GetProcAddress.|66|2024-03-06|2024-03-06|
 |25|[Villadelfia/dmgtris](https://github.com/Villadelfia/dmgtris)|-|66|2024-03-19|2023-10-21|
 |26|[skypipeswitok793/Bull-Run-auto-farm-bot](https://github.com/skypipeswitok793/Bull-Run-auto-farm-bot)|Bot that mines coins in Bull Run - BullApp_bot|64|2024-05-18|2024-05-18|
-|27|[blondie7575/ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse)|A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin|60|2024-05-31|2024-05-13|
-|28|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|60|2024-06-10|2023-12-08|
-|29|[jmwilson/oshw-active-probe](https://github.com/jmwilson/oshw-active-probe)|2GHz single-ended active probe design|59|2024-06-19|2023-12-31|
+|27|[jmwilson/oshw-active-probe](https://github.com/jmwilson/oshw-active-probe)|2GHz single-ended active probe design|61|2024-06-19|2023-12-31|
+|28|[blondie7575/ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse)|A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin|60|2024-05-31|2024-05-13|
+|29|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|60|2024-06-10|2023-12-08|
 |30|[tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)|flat assembler 2|57|2024-06-08|2024-03-12|
-|31|[kil65frostball/axie-infinity-bot](https://github.com/kil65frostball/axie-infinity-bot)|axie-infinity axieinfinity axie-infinity-bot axie-infinity-farming-bot axieinfinity-auto-bot axie-infinity-script axie-infinity-bot-farm|56|2024-06-03|2024-06-03|
-|32|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|56|2024-05-14|2023-10-06|
+|31|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|57|2024-05-14|2023-10-06|
+|32|[kil65frostball/axie-infinity-bot](https://github.com/kil65frostball/axie-infinity-bot)|axie-infinity axieinfinity axie-infinity-bot axie-infinity-farming-bot axieinfinity-auto-bot axie-infinity-script axie-infinity-bot-farm|56|2024-06-03|2024-06-03|
 |33|[slu4coder/Minimal-64x4-Home-Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)|My DIY home computer with VGA and PS/2 and 4x(!) the processing power of a Commodore C64 or Apple II.|52|2024-05-17|2024-03-29|
 |34|[BHTY/EmuWoW](https://github.com/BHTY/EmuWoW)|RISC NT apps on x86 NT|50|2024-02-22|2023-11-13|
 |35|[neozeed/dos400](https://github.com/neozeed/dos400)|Microsoft DOS 4.00|49|2024-04-30|2024-04-26|
 |36|[ruke1ire/RTF](https://github.com/ruke1ire/RTF)|A State-Space Model with Rational Transfer Function Representation.|47|2024-05-17|2024-03-01|
-|37|[polybiusproxy/parappa2](https://github.com/polybiusproxy/parappa2)|PaRappa the Rapper 2 (2001, PS2) decompilation|46|2024-06-27|2023-11-14|
+|37|[polybiusproxy/parappa2](https://github.com/polybiusproxy/parappa2)|PaRappa the Rapper 2 (2001, PS2) decompilation|46|2024-06-28|2023-11-14|
 |38|[neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re)|Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS|44|2024-06-24|2024-06-21|
 |39|[plantabt/CmdSparker](https://github.com/plantabt/CmdSparker)|-|44|2024-01-20|2024-01-18|
 |40|[jart/blc](https://github.com/jart/blc)|Binary Lambda Calculus Virtual Machine|43|2024-01-24|2024-01-22|
@@ -51,69 +51,69 @@
 |44|[misterblack1/appleII_deadtest](https://github.com/misterblack1/appleII_deadtest)|ROM based March-U RAM test for the Apple II|36|2024-01-28|2023-08-27|
 |45|[clockworkpi/GameShell](https://github.com/clockworkpi/GameShell)|This code repository offers  latest os images,kernel patches, keypad source code, hardware schematics, assembly instructions, and essential technical documents.|35|2024-06-08|2023-08-18|
 |46|[pret/pmd-sky](https://github.com/pret/pmd-sky)|Decompilation of Pokémon Mystery Dungeon: Explorers of Sky|34|2024-06-23|2023-08-16|
-|47|[VetriTheRetri/ssb-decomp-re](https://github.com/VetriTheRetri/ssb-decomp-re)|A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64.|34|2024-06-25|2023-08-04|
+|47|[VetriTheRetri/ssb-decomp-re](https://github.com/VetriTheRetri/ssb-decomp-re)|A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64.|34|2024-06-28|2023-08-04|
 |48|[zephyrside/famidash](https://github.com/zephyrside/famidash)|GEOMETRY DASH. *music intensifies*|30|2024-03-27|2023-09-29|
 |49|[boot41worth/MemeFi-auto-bot](https://github.com/boot41worth/MemeFi-auto-bot)|MemeFi bot auto farm - @memefi_coin_bot, https://t.me/memeficlub memefi auto bot free download / We will help you automate all processes in the memefi game / memefi tool / memefi clicker / memefi mine ...|29|2024-06-06|2024-06-06|
-|50|[bxparks/rpn83p](https://github.com/bxparks/rpn83p)|RPN calculator app for TI-83 Plus and TI-84 Plus inspired by HP-42S|27|2024-06-25|2023-07-14|
-|51|[fermarsan/aixt](https://github.com/fermarsan/aixt)|Programming framework for microcontrollers based on a V-like language.|26|2024-03-20|2023-12-10|
-|52|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|25|2024-04-03|2024-03-23|
-|53|[ArTicZera/AcidOS](https://github.com/ArTicZera/AcidOS)|Small Real Mode OS made in Assembly|25|2024-04-25|2024-03-09|
-|54|[stewart-worrall/MTRX2700-2024](https://github.com/stewart-worrall/MTRX2700-2024)|-|25|2024-03-20|2024-01-07|
-|55|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|24|2024-06-27|2024-05-30|
+|50|[bxparks/rpn83p](https://github.com/bxparks/rpn83p)|RPN calculator app for TI-83 Plus and TI-84 Plus inspired by HP-42S|27|2024-06-28|2023-07-14|
+|51|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|26|2024-06-27|2024-05-30|
+|52|[fermarsan/aixt](https://github.com/fermarsan/aixt)|Programming framework for microcontrollers based on a V-like language.|26|2024-03-20|2023-12-10|
+|53|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|25|2024-04-03|2024-03-23|
+|54|[ArTicZera/AcidOS](https://github.com/ArTicZera/AcidOS)|Small Real Mode OS made in Assembly|25|2024-04-25|2024-03-09|
+|55|[stewart-worrall/MTRX2700-2024](https://github.com/stewart-worrall/MTRX2700-2024)|-|25|2024-03-20|2024-01-07|
 |56|[leandronsp/magali](https://github.com/leandronsp/magali)|A minimalist yet multi-threaded HTTP server coded in pure Assembly x86|24|2024-03-26|2024-03-26|
 |57|[fellowship-of-the-roms/CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine)|Enhanced engine for Pokemon Crystal romhacking|24|2024-06-13|2023-09-21|
-|58|[0xCyberGenji/maldev](https://github.com/0xCyberGenji/maldev)|⚠️ Malware Development training ⚠️|23|2024-06-10|2024-02-04|
-|59|[anael-seghezzi/SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting)|Raycasting on SEGA Megadrive/Genesis using SGDK|23|2024-02-22|2024-01-04|
-|60|[GiaHuyJQK1706/Computer_Architecture_Lab-MIPS](https://github.com/GiaHuyJQK1706/Computer_Architecture_Lab-MIPS)|-|23|2024-01-03|2023-12-12|
-|61|[wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock)|Apple 2 full screen clock driven by the pendulum of my wall clock|23|2024-01-28|2023-11-20|
-|62|[YohannDR/mf](https://github.com/YohannDR/mf)|Metroid Fusion Decompilation|23|2024-02-28|2023-08-09|
-|63|[bruddog/Tecmo_Super_Bowl_NES_Disassembly](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly)|A disassembly of the game Tecmo Super Bowl into rebuildable 6502 source code|22|2024-04-20|2024-04-19|
-|64|[rbmm/ARL](https://github.com/rbmm/ARL)|-|22|2024-06-11|2024-03-17|
-|65|[Symph0nia/Golconde](https://github.com/Symph0nia/Golconde)|汇编HTTP请求发送/Assembly Http Request|22|2024-03-13|2024-03-13|
-|66|[spipm/BraekerCTF_2024_public](https://github.com/spipm/BraekerCTF_2024_public)|BraekerCTF 2024 challenges and background |22|2024-04-27|2024-02-22|
-|67|[zeldaret/oot-gc](https://github.com/zeldaret/oot-gc)|Decompilation of the Gamecube Emulator for Ocarina of Time (JP-CE) |22|2024-06-19|2024-02-11|
-|68|[krakenlake/vmon](https://github.com/krakenlake/vmon)|RISC-V machine code monitor|21|2024-06-27|2023-12-14|
-|69|[boogdann/BleenCraft-Online](https://github.com/boogdann/BleenCraft-Online)|BleenCraft Online — мультиплеерная игра на ассемблере, где игроки взаимодействуют в блоковом мире, строят и исследуют вместе|21|2024-02-20|2023-07-01|
-|70|[santiontanon/westen-ex](https://github.com/santiontanon/westen-ex)|Westen House EX (MSX)|20|2024-04-20|2024-04-20|
-|71|[GBirkel/merryo_trolls](https://github.com/GBirkel/merryo_trolls)|Super Merryo Trolls, an Apple IIgs game abandoned in 1994, then recovered 30 years later with modern tools.|20|2024-05-06|2024-02-03|
-|72|[lightsoulbonkers84/Bull-Run-auto-bot](https://github.com/lightsoulbonkers84/Bull-Run-auto-bot)|Bull Run auto farm bot @BullApp_bot @HoldBull|19|2024-06-03|2024-06-03|
-|73|[crickleokarshiev312/FreeCrypto](https://github.com/crickleokarshiev312/FreeCrypto)|-|19|2024-04-24|2024-04-24|
-|74|[flbbb/locost-summarization](https://github.com/flbbb/locost-summarization)|-|19|2024-03-22|2024-01-29|
-|75|[jtriley-eth/reverse-subway](https://github.com/jtriley-eth/reverse-subway)|-|18|2024-06-18|2024-06-18|
-|76|[linkert66/Mineralz-Bot-mining-X1000](https://github.com/linkert66/Mineralz-Bot-mining-X1000)|Autobot Mineralz to create a multi-account X1000 for mining @mineralzbot @mineralzton @mineralzchat|18|2024-06-03|2024-06-03|
-|77|[elthinshordevivaphase/TapSwap-AutoClicker](https://github.com/elthinshordevivaphase/TapSwap-AutoClicker)|TapSwap Auto Clicker - Automate Your TapSwap Token Tap Accumulation on Telegram Bot! 🤖|18|2024-06-03|2024-06-03|
-|78|[nidud/asmc](https://github.com/nidud/asmc)|Masm compatible assembler|18|2024-06-27|2023-09-22|
-|79|[ClusterM/duplifds](https://github.com/ClusterM/duplifds)|Open source Famicom Disk System copier|18|2024-02-20|2023-09-21|
-|80|[MarkJelic/TEC-1G](https://github.com/MarkJelic/TEC-1G)|The new incarnation of the 40 year old Z80 trainer computer - Now with Fulisik LEDs!|17|2024-06-24|2023-08-18|
-|81|[dramforever/fiveth](https://github.com/dramforever/fiveth)|A stack-based language implemented in RISC-V assembly|17|2024-04-04|2023-08-12|
-|82|[fladdollar1992/NEAR-Wallet-mine-HOT-auto-farm-bot-clicker](https://github.com/fladdollar1992/NEAR-Wallet-mine-HOT-auto-farm-bot-clicker)|NEAR Wallet auto bot farming-Autoclicker @hotonnear @herewalletbot|16|2024-06-06|2024-06-06|
-|83|[P4r4d1se/dll_hijack](https://github.com/P4r4d1se/dll_hijack)|-|16|2024-05-10|2024-05-09|
-|84|[ajbowen249/mol](https://github.com/ajbowen249/mol)|A Baldur's Gate 3 Demake for Tandy TRS-80 Model 100|16|2024-06-27|2024-02-08|
-|85|[cphartman/super-awakening](https://github.com/cphartman/super-awakening)|-|16|2024-02-19|2023-11-13|
-|86|[algosup/2023-2024-project-2-x86-retrogaming-team-3](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-3)|A 16bit, x86 Pac-Man look-alike, made with ❤️ by Team 3 😎|16|2024-01-15|2023-10-31|
-|87|[misternebula/DELTARUNITY](https://github.com/misternebula/DELTARUNITY)|DELTARUNITY is an implementation of GameMaker script execution and graphical rendering inside Unity.|16|2024-05-21|2023-10-23|
-|88|[nanochess/240pTestSuite_colecovision](https://github.com/nanochess/240pTestSuite_colecovision)|240p Test Suite for Colecovision/MSX/SG1000|15|2024-04-26|2023-12-22|
-|89|[mejartermenator26/DOXCOIN-auto-bot](https://github.com/mejartermenator26/DOXCOIN-auto-bot)|doxcoin auto bot free download / doxcoin auto clicker Hi everyone today we present you our bot for crypto game doxcoin with which you can automate the whole process in the game which is possible doxco ...|14|2024-06-06|2024-06-06|
-|90|[leshiyneskwick9/WormfareAutoClicker-AutoBot](https://github.com/leshiyneskwick9/WormfareAutoClicker-AutoBot)|wormfare auto bot free download / wormfare auto clicker Hi everyone today we present you our bot for crypto game wormfare with which you can automate the whole process in the game which is possible wo ...|14|2024-06-06|2024-06-06|
-|91|[kamikadzebro4kamikadze/Chain-Game-auto-bot-Autoclicker](https://github.com/kamikadzebro4kamikadze/Chain-Game-auto-bot-Autoclicker)|chain game auto bot free download / chain game auto clicker Hi everyone today we present you our bot for crypto game chain game with which you can automate the whole process in the game which is possi ...|14|2024-06-06|2024-06-06|
-|92|[hunterzekeplays561/Snapster-AutoClicker-Bot](https://github.com/hunterzekeplays561/Snapster-AutoClicker-Bot)|Snapsterautobot Snapsterautobot crack Snapsterautobot cracked Snapsterautobot download Snapsterautobot free Snapsterautobot activation Snapsterautobot license key Snapsterautobot scripts Snapsterautob ...|14|2024-06-06|2024-06-06|
-|93|[gisterry1992/HarvestMoonBot-Auto-Bot-Autoclicker](https://github.com/gisterry1992/HarvestMoonBot-Auto-Bot-Autoclicker)|HarvestMoonBot Auto Bot + Autoclicker @nearharvestmoonbot @nearharvestmoon|14|2024-06-06|2024-06-06|
-|94|[foozoochunky4/Pixel-Wallet-AutoClicker-farming-bot](https://github.com/foozoochunky4/Pixel-Wallet-AutoClicker-farming-bot)|Pixel Wallet AutoClicker farming bot @pixel_wallet_bot @hellopixelverse pixel-wallet-bot-free pixel-wallet-bot-download pixel-wallet-bot-setup pixel-wallet-bot-installation pixel-wallet-trading-bot pi ...|14|2024-06-06|2024-06-06|
-|95|[drif10altend/PocketFi-auto-farm-bot-autoclicker-](https://github.com/drif10altend/PocketFi-auto-farm-bot-autoclicker-)|Hi everyone today we present you our bot for crypto game pocketfi with which you can automate the whole process in the game which is possible pocketfi scripts / pocketfi clicker / pocketfi tool / pock ...|14|2024-06-06|2024-06-06|
-|96|[deathless168/DropHunter-auto-bot-farming](https://github.com/deathless168/DropHunter-auto-bot-farming)|DropHunter auto farm bot - @drophuntergames_bot|14|2024-06-06|2024-06-06|
-|97|[ballistic137/Selana-auto-farm](https://github.com/ballistic137/Selana-auto-farm)|Sealana auto farm bot https://sealana.io/|14|2024-06-06|2024-06-06|
-|98|[achilles48/PlayDoge-AutoFarm-and-Bot-Setup](https://github.com/achilles48/PlayDoge-AutoFarm-and-Bot-Setup)|PlayDoge-Clicking PlayDoge-TokenCollection PlayDoge-EnergyManagement PlayDoge-MultitapAutomation PlayDoge-SpeedBooster PlayDoge-AutoClicker PlayDoge-EnergyRegen PlayDoge-CoinCollection PlayDoge-Clicke ...|14|2024-06-06|2024-06-06|
-|99|[NesHacker/NES-RNG](https://github.com/NesHacker/NES-RNG)|An NES RNG Utility Library written in 6502 assembly.|14|2024-05-10|2024-05-07|
-|100|[leonardoalt/powdr-brainfuck](https://github.com/leonardoalt/powdr-brainfuck)|ZK proofs for Brainfuck execution using powdr|14|2024-06-04|2024-04-15|
-|101|[LLONSIT/Wave-Race-64](https://github.com/LLONSIT/Wave-Race-64)|A work in progress decompilation of Wave Race 64|14|2024-04-17|2024-01-28|
-|102|[RealCataclyptic/Pokemon-TCG-Neo](https://github.com/RealCataclyptic/Pokemon-TCG-Neo)|Repo of the fangame 'Pokemon TCG Neo', a hack of the Pokemon Trading Card Gameboy game.|14|2024-03-08|2023-09-21|
-|103|[jinshin/Book8088](https://github.com/jinshin/Book8088)|Stuff for 8088/IBM XT|14|2024-02-27|2023-08-12|
-|104|[koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)|Wii Menu (4.3) Decompilation|13|2024-06-05|2024-04-15|
-|105|[SvarDOS/edrdos](https://github.com/SvarDOS/edrdos)|fork of the EDR-DOS kernel and command interpreter|13|2024-06-24|2023-11-27|
-|106|[djh0ffman/TinyTro](https://github.com/djh0ffman/TinyTro)|The Twitch Elite Tiny Cracktro|13|2024-05-23|2023-11-12|
-|107|[SAT-R/sa1](https://github.com/SAT-R/sa1)|WIP decompilation of Sonic Advance (Europe) - a GameBoy Advance game written in C|13|2024-06-25|2023-08-26|
-|108|[Daarkooo/checkers-game](https://github.com/Daarkooo/checkers-game)|made with assembly 8086|12|2024-06-08|2024-03-21|
-|109|[rumbleminze/super-super-dodgeball](https://github.com/rumbleminze/super-super-dodgeball)|SNES Port of the NES game Super Dodge Ball|12|2023-12-28|2023-12-25|
+|58|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|23|2024-06-28|2024-06-27|
+|59|[0xCyberGenji/maldev](https://github.com/0xCyberGenji/maldev)|⚠️ Malware Development training ⚠️|23|2024-06-10|2024-02-04|
+|60|[anael-seghezzi/SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting)|Raycasting on SEGA Megadrive/Genesis using SGDK|23|2024-02-22|2024-01-04|
+|61|[GiaHuyJQK1706/Computer_Architecture_Lab-MIPS](https://github.com/GiaHuyJQK1706/Computer_Architecture_Lab-MIPS)|-|23|2024-01-03|2023-12-12|
+|62|[wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock)|Apple 2 full screen clock driven by the pendulum of my wall clock|23|2024-01-28|2023-11-20|
+|63|[YohannDR/mf](https://github.com/YohannDR/mf)|Metroid Fusion Decompilation|23|2024-02-28|2023-08-09|
+|64|[bruddog/Tecmo_Super_Bowl_NES_Disassembly](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly)|A disassembly of the game Tecmo Super Bowl into rebuildable 6502 source code|22|2024-04-20|2024-04-19|
+|65|[rbmm/ARL](https://github.com/rbmm/ARL)|-|22|2024-06-11|2024-03-17|
+|66|[Symph0nia/Golconde](https://github.com/Symph0nia/Golconde)|汇编HTTP请求发送/Assembly Http Request|22|2024-03-13|2024-03-13|
+|67|[spipm/BraekerCTF_2024_public](https://github.com/spipm/BraekerCTF_2024_public)|BraekerCTF 2024 challenges and background |22|2024-04-27|2024-02-22|
+|68|[zeldaret/oot-gc](https://github.com/zeldaret/oot-gc)|Decompilation of the Gamecube Emulator for Ocarina of Time (JP-CE) |22|2024-06-19|2024-02-11|
+|69|[krakenlake/vmon](https://github.com/krakenlake/vmon)|RISC-V machine code monitor|21|2024-06-27|2023-12-14|
+|70|[boogdann/BleenCraft-Online](https://github.com/boogdann/BleenCraft-Online)|BleenCraft Online — мультиплеерная игра на ассемблере, где игроки взаимодействуют в блоковом мире, строят и исследуют вместе|21|2024-02-20|2023-07-01|
+|71|[santiontanon/westen-ex](https://github.com/santiontanon/westen-ex)|Westen House EX (MSX)|20|2024-04-20|2024-04-20|
+|72|[GBirkel/merryo_trolls](https://github.com/GBirkel/merryo_trolls)|Super Merryo Trolls, an Apple IIgs game abandoned in 1994, then recovered 30 years later with modern tools.|20|2024-05-06|2024-02-03|
+|73|[lightsoulbonkers84/Bull-Run-auto-bot](https://github.com/lightsoulbonkers84/Bull-Run-auto-bot)|Bull Run auto farm bot @BullApp_bot @HoldBull|19|2024-06-03|2024-06-03|
+|74|[crickleokarshiev312/FreeCrypto](https://github.com/crickleokarshiev312/FreeCrypto)|-|19|2024-04-24|2024-04-24|
+|75|[flbbb/locost-summarization](https://github.com/flbbb/locost-summarization)|-|19|2024-03-22|2024-01-29|
+|76|[jtriley-eth/reverse-subway](https://github.com/jtriley-eth/reverse-subway)|-|18|2024-06-18|2024-06-18|
+|77|[linkert66/Mineralz-Bot-mining-X1000](https://github.com/linkert66/Mineralz-Bot-mining-X1000)|Autobot Mineralz to create a multi-account X1000 for mining @mineralzbot @mineralzton @mineralzchat|18|2024-06-03|2024-06-03|
+|78|[elthinshordevivaphase/TapSwap-AutoClicker](https://github.com/elthinshordevivaphase/TapSwap-AutoClicker)|TapSwap Auto Clicker - Automate Your TapSwap Token Tap Accumulation on Telegram Bot! 🤖|18|2024-06-03|2024-06-03|
+|79|[nidud/asmc](https://github.com/nidud/asmc)|Masm compatible assembler|18|2024-06-28|2023-09-22|
+|80|[ClusterM/duplifds](https://github.com/ClusterM/duplifds)|Open source Famicom Disk System copier|18|2024-02-20|2023-09-21|
+|81|[MarkJelic/TEC-1G](https://github.com/MarkJelic/TEC-1G)|The new incarnation of the 40 year old Z80 trainer computer - Now with Fulisik LEDs!|17|2024-06-24|2023-08-18|
+|82|[dramforever/fiveth](https://github.com/dramforever/fiveth)|A stack-based language implemented in RISC-V assembly|17|2024-04-04|2023-08-12|
+|83|[fladdollar1992/NEAR-Wallet-mine-HOT-auto-farm-bot-clicker](https://github.com/fladdollar1992/NEAR-Wallet-mine-HOT-auto-farm-bot-clicker)|NEAR Wallet auto bot farming-Autoclicker @hotonnear @herewalletbot|16|2024-06-06|2024-06-06|
+|84|[P4r4d1se/dll_hijack](https://github.com/P4r4d1se/dll_hijack)|-|16|2024-05-10|2024-05-09|
+|85|[ajbowen249/mol](https://github.com/ajbowen249/mol)|A Baldur's Gate 3 Demake for Tandy TRS-80 Model 100 and ZX Spectrum|16|2024-06-28|2024-02-08|
+|86|[cphartman/super-awakening](https://github.com/cphartman/super-awakening)|-|16|2024-02-19|2023-11-13|
+|87|[algosup/2023-2024-project-2-x86-retrogaming-team-3](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-3)|A 16bit, x86 Pac-Man look-alike, made with ❤️ by Team 3 😎|16|2024-01-15|2023-10-31|
+|88|[misternebula/DELTARUNITY](https://github.com/misternebula/DELTARUNITY)|DELTARUNITY is an implementation of GameMaker script execution and graphical rendering inside Unity.|16|2024-05-21|2023-10-23|
+|89|[nanochess/240pTestSuite_colecovision](https://github.com/nanochess/240pTestSuite_colecovision)|240p Test Suite for Colecovision/MSX/SG1000|15|2024-04-26|2023-12-22|
+|90|[mejartermenator26/DOXCOIN-auto-bot](https://github.com/mejartermenator26/DOXCOIN-auto-bot)|doxcoin auto bot free download / doxcoin auto clicker Hi everyone today we present you our bot for crypto game doxcoin with which you can automate the whole process in the game which is possible doxco ...|14|2024-06-06|2024-06-06|
+|91|[leshiyneskwick9/WormfareAutoClicker-AutoBot](https://github.com/leshiyneskwick9/WormfareAutoClicker-AutoBot)|wormfare auto bot free download / wormfare auto clicker Hi everyone today we present you our bot for crypto game wormfare with which you can automate the whole process in the game which is possible wo ...|14|2024-06-06|2024-06-06|
+|92|[kamikadzebro4kamikadze/Chain-Game-auto-bot-Autoclicker](https://github.com/kamikadzebro4kamikadze/Chain-Game-auto-bot-Autoclicker)|chain game auto bot free download / chain game auto clicker Hi everyone today we present you our bot for crypto game chain game with which you can automate the whole process in the game which is possi ...|14|2024-06-06|2024-06-06|
+|93|[hunterzekeplays561/Snapster-AutoClicker-Bot](https://github.com/hunterzekeplays561/Snapster-AutoClicker-Bot)|Snapsterautobot Snapsterautobot crack Snapsterautobot cracked Snapsterautobot download Snapsterautobot free Snapsterautobot activation Snapsterautobot license key Snapsterautobot scripts Snapsterautob ...|14|2024-06-06|2024-06-06|
+|94|[gisterry1992/HarvestMoonBot-Auto-Bot-Autoclicker](https://github.com/gisterry1992/HarvestMoonBot-Auto-Bot-Autoclicker)|HarvestMoonBot Auto Bot + Autoclicker @nearharvestmoonbot @nearharvestmoon|14|2024-06-06|2024-06-06|
+|95|[foozoochunky4/Pixel-Wallet-AutoClicker-farming-bot](https://github.com/foozoochunky4/Pixel-Wallet-AutoClicker-farming-bot)|Pixel Wallet AutoClicker farming bot @pixel_wallet_bot @hellopixelverse pixel-wallet-bot-free pixel-wallet-bot-download pixel-wallet-bot-setup pixel-wallet-bot-installation pixel-wallet-trading-bot pi ...|14|2024-06-06|2024-06-06|
+|96|[drif10altend/PocketFi-auto-farm-bot-autoclicker-](https://github.com/drif10altend/PocketFi-auto-farm-bot-autoclicker-)|Hi everyone today we present you our bot for crypto game pocketfi with which you can automate the whole process in the game which is possible pocketfi scripts / pocketfi clicker / pocketfi tool / pock ...|14|2024-06-06|2024-06-06|
+|97|[deathless168/DropHunter-auto-bot-farming](https://github.com/deathless168/DropHunter-auto-bot-farming)|DropHunter auto farm bot - @drophuntergames_bot|14|2024-06-06|2024-06-06|
+|98|[ballistic137/Selana-auto-farm](https://github.com/ballistic137/Selana-auto-farm)|Sealana auto farm bot https://sealana.io/|14|2024-06-06|2024-06-06|
+|99|[achilles48/PlayDoge-AutoFarm-and-Bot-Setup](https://github.com/achilles48/PlayDoge-AutoFarm-and-Bot-Setup)|PlayDoge-Clicking PlayDoge-TokenCollection PlayDoge-EnergyManagement PlayDoge-MultitapAutomation PlayDoge-SpeedBooster PlayDoge-AutoClicker PlayDoge-EnergyRegen PlayDoge-CoinCollection PlayDoge-Clicke ...|14|2024-06-06|2024-06-06|
+|100|[NesHacker/NES-RNG](https://github.com/NesHacker/NES-RNG)|An NES RNG Utility Library written in 6502 assembly.|14|2024-05-10|2024-05-07|
+|101|[leonardoalt/powdr-brainfuck](https://github.com/leonardoalt/powdr-brainfuck)|ZK proofs for Brainfuck execution using powdr|14|2024-06-04|2024-04-15|
+|102|[LLONSIT/Wave-Race-64](https://github.com/LLONSIT/Wave-Race-64)|A work in progress decompilation of Wave Race 64|14|2024-04-17|2024-01-28|
+|103|[RealCataclyptic/Pokemon-TCG-Neo](https://github.com/RealCataclyptic/Pokemon-TCG-Neo)|Repo of the fangame 'Pokemon TCG Neo', a hack of the Pokemon Trading Card Gameboy game.|14|2024-03-08|2023-09-21|
+|104|[jinshin/Book8088](https://github.com/jinshin/Book8088)|Stuff for 8088/IBM XT|14|2024-02-27|2023-08-12|
+|105|[koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)|Wii Menu (4.3) Decompilation|13|2024-06-05|2024-04-15|
+|106|[SvarDOS/edrdos](https://github.com/SvarDOS/edrdos)|fork of the EDR-DOS kernel and command interpreter|13|2024-06-24|2023-11-27|
+|107|[djh0ffman/TinyTro](https://github.com/djh0ffman/TinyTro)|The Twitch Elite Tiny Cracktro|13|2024-05-23|2023-11-12|
+|108|[SAT-R/sa1](https://github.com/SAT-R/sa1)|WIP decompilation of Sonic Advance (Europe) - a GameBoy Advance game written in C|13|2024-06-25|2023-08-26|
+|109|[Daarkooo/checkers-game](https://github.com/Daarkooo/checkers-game)|made with assembly 8086|12|2024-06-08|2024-03-21|
 |110|[VegaASM/Waltress](https://github.com/VegaASM/Waltress)|100% Broadway compliant PowerPC Assembler completely handwritten in PowerPC|12|2024-03-25|2023-10-17|
 |111|[AetiasHax/ph](https://github.com/AetiasHax/ph)|Decompilation of The Legend of Zelda: Phantom Hourglass|12|2024-06-27|2023-09-09|
 |112|[StanHash/fe7_us](https://github.com/StanHash/fe7_us)|Disassembly/Partial decompilation of "Fire Emblem" (GBA)|12|2024-05-29|2023-07-30|
@@ -126,7 +126,7 @@
 |119|[and3rson/caveboard](https://github.com/and3rson/caveboard)|https://youtu.be/Klj2Q3trmW8|11|2024-01-31|2023-12-21|
 |120|[flydeoo/mya](https://github.com/flydeoo/mya)|a fun project to create OS from scratch|11|2024-02-21|2023-11-12|
 |121|[marobi/Pico_6502_v4_ehbasic](https://github.com/marobi/Pico_6502_v4_ehbasic)|neo6502 ehbasic emulator|11|2024-05-18|2023-08-04|
-|122|[andrew-johnson-4/lambda-mountain](https://github.com/andrew-johnson-4/lambda-mountain)|Compact Portable Assembler (5K SLOC)|11|2024-06-27|2023-07-02|
+|122|[andrew-johnson-4/lambda-mountain](https://github.com/andrew-johnson-4/lambda-mountain)|Compact Portable Assembler (5K SLOC)|11|2024-06-28|2023-07-02|
 |123|[dcrespo3d/CelesteNext](https://github.com/dcrespo3d/CelesteNext)|A port of Maddy Thorson and Noel Berry's Celeste Classic for Pico-8 Fantasy Console|10|2024-03-08|2024-03-07|
 |124|[phenpessoa/yt-asm](https://github.com/phenpessoa/yt-asm)|Simple x86 aseembly codes made on my youtube channel|10|2024-02-09|2024-02-09|
 |125|[GenesisFan64/NikonaSDK](https://github.com/GenesisFan64/NikonaSDK)|A SDK in pure assembly for the SEGA 16-bit console famly of systems: Genesis, Sega CD, Sega 32X, Sega CD32X and Sega Pico|10|2024-03-26|2024-02-07|
@@ -137,7 +137,7 @@
 |130|[scaspin/memory-safe-assembly](https://github.com/scaspin/memory-safe-assembly)|Bottom-up memory-safety for assembly language using symbolic execution|10|2024-06-20|2023-09-10|
 |131|[neozeed/dos211](https://github.com/neozeed/dos211)|just the MS-DOS 2.11 sources, I re-aranged stuff and made it (slightly) easier to rebuild on Windows.|10|2024-05-25|2023-08-06|
 |132|[skiselev/z80-tests](https://github.com/skiselev/z80-tests)|Z80 CPU Testing Software|9|2024-05-17|2024-05-01|
-|133|[city41/kof94te](https://github.com/city41/kof94te)|King of Fighters 94: Team Edit Edition|9|2024-06-25|2024-03-10|
+|133|[city41/kof94te](https://github.com/city41/kof94te)|King of Fighters 94: Team Edit Edition|9|2024-06-28|2024-03-10|
 |134|[Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern](https://github.com/Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern)|-|9|2024-04-02|2024-01-28|
 |135|[Dhebug/Encounter](https://github.com/Dhebug/Encounter)|An upgraded version of the 1983 Encounter game from Severn Software|9|2024-06-25|2024-01-02|
 |136|[breadboardinglabs/Breadboard8088PC](https://github.com/breadboardinglabs/Breadboard8088PC)|IBM PC-XT Hybrid PC built on Breadboards|9|2024-03-16|2023-12-05|
@@ -148,23 +148,23 @@
 |141|[newridho/Halo-Dunia23](https://github.com/newridho/Halo-Dunia23)|Hello World in multiple programming languages   Hacktoberfest repository|9|2024-04-04|2023-09-29|
 |142|[COMP122/comp122-f23](https://github.com/COMP122/comp122-f23)|The Fall '23 offering of COMP 122|9|2024-01-04|2023-08-17|
 |143|[dcrespo3d/BeanBrosRemake](https://github.com/dcrespo3d/BeanBrosRemake)|Bean Brothers remake (Spectrum platform game)|9|2024-02-04|2023-08-12|
-|144|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|8|2024-06-27|2024-06-27|
+|144|[Black-Hell-Team/TheBhTiNjector](https://github.com/Black-Hell-Team/TheBhTiNjector)|TheBhTiNjector is a filebinder that can concatenate two or more files of some extensions that preserves the integrity of the files and gives you the option of injecting shellcode into them.|8|2024-06-12|2024-05-30|
 |145|[zbauman3/WorkerMouse](https://github.com/zbauman3/WorkerMouse)|-|8|2024-06-02|2024-05-26|
 |146|[matthiaskramm/soul_on_fire](https://github.com/matthiaskramm/soul_on_fire)|Source code for "Soul on Fire", winning 4k entry at X2024.|8|2024-05-24|2024-05-24|
-|147|[nstarke/instrfuzz](https://github.com/nstarke/instrfuzz)|A CPU Instruction Fuzzer for QEMU x86|8|2024-04-08|2024-03-29|
-|148|[scash-project/cpuminer-scash](https://github.com/scash-project/cpuminer-scash)|RandomX CPU miner for Scash|8|2024-05-12|2024-02-17|
-|149|[unamfi/sistop-2024-2](https://github.com/unamfi/sistop-2024-2)|Repositorio para el trabajo de curso de la materia "Sistemas Operativos", Facultad de Ingeniería, UNAM; semestre 2024-2|8|2024-03-10|2024-01-28|
-|150|[starfrost013/modern-personality-windows](https://github.com/starfrost013/modern-personality-windows)|Windows 1.03 entirely reverse engineered.|8|2024-03-14|2024-01-28|
-|151|[cicada-lang/inet](https://github.com/cicada-lang/inet)|-|8|2024-01-14|2023-11-19|
-|152|[ElisaS-Codes/HM-Decomp](https://github.com/ElisaS-Codes/HM-Decomp)|Decompilation/Dissasemble of Harvest Moon for SNES|8|2024-06-10|2023-09-25|
-|153|[ZetaNull/jep-hack](https://github.com/ZetaNull/jep-hack)|Johto Expansion Pak (Experimental) |8|2024-03-26|2023-09-10|
-|154|[SAT-R/sa3](https://github.com/SAT-R/sa3)|A decompilation of Sonic Advance 3|8|2024-05-04|2023-08-27|
-|155|[Parallellines0451/GTAIV.EFLC.LogDepth](https://github.com/Parallellines0451/GTAIV.EFLC.LogDepth)|Logarithmic depth buffer implementation for GTA IV to fix z-fighting|8|2024-03-23|2023-08-11|
-|156|[achaval-tomas/ASM-Tetris](https://github.com/achaval-tomas/ASM-Tetris)|A Tetris replica written in Assembly, and emulated in a Raspberry Pi 3b with QEMU. This project was created with @tomimara52 and @tpeyronel.|8|2024-05-28|2023-08-02|
-|157|[bexxx/commodore64](https://github.com/bexxx/commodore64)|I start my journey into 6502 assembly on the Commodore 64. I welcome you as my copilot :)|8|2024-04-30|2023-07-25|
-|158|[JJMugenyi/AkiraOS](https://github.com/JJMugenyi/AkiraOS)|Official Repo for AkiraOS.|7|2024-06-16|2024-06-15|
-|159|[Black-Hell-Team/TheBhTiNjector](https://github.com/Black-Hell-Team/TheBhTiNjector)|TheBhTiNjector is a filebinder that can concatenate two or more files of some extensions that preserves the integrity of the files and gives you the option of injecting shellcode into them.|7|2024-06-12|2024-05-30|
-|160|[Halston-R-2003/PulsarOS](https://github.com/Halston-R-2003/PulsarOS)|The Pulsar Operating System|7|2024-06-27|2024-05-09|
+|147|[Halston-R-2003/PulsarOS](https://github.com/Halston-R-2003/PulsarOS)|The Pulsar Operating System|8|2024-06-27|2024-05-09|
+|148|[nstarke/instrfuzz](https://github.com/nstarke/instrfuzz)|A CPU Instruction Fuzzer for QEMU x86|8|2024-04-08|2024-03-29|
+|149|[scash-project/cpuminer-scash](https://github.com/scash-project/cpuminer-scash)|RandomX CPU miner for Scash|8|2024-05-12|2024-02-17|
+|150|[unamfi/sistop-2024-2](https://github.com/unamfi/sistop-2024-2)|Repositorio para el trabajo de curso de la materia "Sistemas Operativos", Facultad de Ingeniería, UNAM; semestre 2024-2|8|2024-03-10|2024-01-28|
+|151|[starfrost013/modern-personality-windows](https://github.com/starfrost013/modern-personality-windows)|Windows 1.03 entirely reverse engineered.|8|2024-03-14|2024-01-28|
+|152|[cicada-lang/inet](https://github.com/cicada-lang/inet)|-|8|2024-01-14|2023-11-19|
+|153|[ElisaS-Codes/HM-Decomp](https://github.com/ElisaS-Codes/HM-Decomp)|Decompilation/Dissasemble of Harvest Moon for SNES|8|2024-06-10|2023-09-25|
+|154|[ZetaNull/jep-hack](https://github.com/ZetaNull/jep-hack)|Johto Expansion Pak (Experimental) |8|2024-03-26|2023-09-10|
+|155|[SAT-R/sa3](https://github.com/SAT-R/sa3)|A decompilation of Sonic Advance 3|8|2024-06-28|2023-08-27|
+|156|[Parallellines0451/GTAIV.EFLC.LogDepth](https://github.com/Parallellines0451/GTAIV.EFLC.LogDepth)|Logarithmic depth buffer implementation for GTA IV to fix z-fighting|8|2024-03-23|2023-08-11|
+|157|[achaval-tomas/ASM-Tetris](https://github.com/achaval-tomas/ASM-Tetris)|A Tetris replica written in Assembly, and emulated in a Raspberry Pi 3b with QEMU. This project was created with @tomimara52 and @tpeyronel.|8|2024-05-28|2023-08-02|
+|158|[bexxx/commodore64](https://github.com/bexxx/commodore64)|I start my journey into 6502 assembly on the Commodore 64. I welcome you as my copilot :)|8|2024-04-30|2023-07-25|
+|159|[JJMugenyi/AkiraOS](https://github.com/JJMugenyi/AkiraOS)|Official Repo for AkiraOS.|7|2024-06-16|2024-06-15|
+|160|[lesbird/MSX8](https://github.com/lesbird/MSX8)|MSX8 CP/M PROGRAM TO LAUNCH MSX GAME ROMS|7|2024-06-28|2024-05-28|
 |161|[firedancer-io/token.sbpf](https://github.com/firedancer-io/token.sbpf)|sBPF assembly example|7|2024-05-07|2024-05-07|
 |162|[SMGCommunity/SMG2-Decomp](https://github.com/SMGCommunity/SMG2-Decomp)|A decompilation of Super Mario Galaxy 2.|7|2024-04-21|2024-04-15|
 |163|[vaguerant/vb-patches](https://github.com/vaguerant/vb-patches)|Various assembly patches for Virtual Boy games|7|2024-05-21|2024-04-15|
@@ -185,26 +185,26 @@
 |178|[dominikcedro/Microcontrollers_laboratories](https://github.com/dominikcedro/Microcontrollers_laboratories)|-|7|2024-02-21|2023-12-01|
 |179|[mokdevel/PenguinTower_c64](https://github.com/mokdevel/PenguinTower_c64)|Penguin Tower game for Commodore 64|7|2024-04-16|2023-10-31|
 |180|[hsouporto/HSO_UP_LECTURES](https://github.com/hsouporto/HSO_UP_LECTURES)|-|7|2024-03-13|2023-09-20|
-|181|[nitros9project/nitros9](https://github.com/nitros9project/nitros9)|NitrOS-9 Operating System|7|2024-06-27|2023-09-16|
+|181|[nitros9project/nitros9](https://github.com/nitros9project/nitros9)|NitrOS-9 Operating System|7|2024-06-28|2023-09-16|
 |182|[Kaisaan/DDS-Translation](https://github.com/Kaisaan/DDS-Translation)|Stuff for translating and further demystifying Digital Devil Story - Reincarnation of the Goddess by Telenet |7|2024-01-22|2023-08-14|
 |183|[akatsuki105/boktai2](https://github.com/akatsuki105/boktai2)|WIP: Disassembly of Boktai2(Japan, v1.1)|7|2024-04-14|2023-07-15|
-|184|[rohansingh4/ZK-Fabric-Validator](https://github.com/rohansingh4/ZK-Fabric-Validator)|Implementing end to end zero knowledge proof |6|2024-05-07|2024-05-01|
-|185|[Jumpdivstepsx/Jumping4Bernstein-YangInversion](https://github.com/Jumpdivstepsx/Jumping4Bernstein-YangInversion)|-|6|2024-04-26|2024-04-26|
-|186|[nmtun/computer_architecture_lab_Hust](https://github.com/nmtun/computer_architecture_lab_Hust)|-|6|2024-06-21|2024-04-21|
-|187|[rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes)|SNES port of the NES game Double Dragon|6|2024-06-21|2024-04-17|
-|188|[Sha0den/poketcg_v2](https://github.com/Sha0den/poketcg_v2)|Pokemon Trading Card Game for the Game Boy Color with many simple improvements. Look at CHANGELOG.md for an overview of the changes. |6|2024-06-26|2024-04-15|
-|189|[oerg866/TRW-BiosMods](https://github.com/oerg866/TRW-BiosMods)|Retro motherboard BIOS modifications released on TheRetroWeb|6|2024-05-10|2024-04-10|
-|190|[Skeleton590/dasm](https://github.com/Skeleton590/dasm)|-|6|2024-03-28|2024-03-27|
-|191|[nachogonzaliaunc/21-OrganizacionDelComputador](https://github.com/nachogonzaliaunc/21-OrganizacionDelComputador)|-|6|2024-06-12|2024-03-14|
-|192|[Tvenus/A_bunch_of_Rust_projects](https://github.com/Tvenus/A_bunch_of_Rust_projects)|-|6|2024-02-20|2024-02-20|
-|193|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|6|2024-06-27|2024-02-18|
-|194|[palazzol/CyberamicControlCenter](https://github.com/palazzol/CyberamicControlCenter)|Repo for docs and info about the Cyberamic Control Center|6|2024-06-15|2024-02-17|
-|195|[Marimari2342/Organizacion-de-Computadoras](https://github.com/Marimari2342/Organizacion-de-Computadoras)|Ejercicios de Organización de Computadoras y resumen del final.|6|2024-04-09|2024-02-17|
-|196|[0x1do/FlappyBird](https://github.com/0x1do/FlappyBird)|-|6|2024-04-17|2024-02-13|
-|197|[TobyLobster/Boulderdash](https://github.com/TobyLobster/Boulderdash)|Disassembly of the game Boulderdash on the BBC Micro|6|2024-03-04|2024-02-03|
-|198|[the-pink-hacker/ti-sans-undertale](https://github.com/the-pink-hacker/ti-sans-undertale)|A WIP recreation of the Sans boss fight from Undertale for the TI-84+CE.|6|2024-04-16|2024-01-30|
-|199|[marcrobledo/game-boy-batteryless-patcher](https://github.com/marcrobledo/game-boy-batteryless-patcher)|An RGBDS project that eases creation of battery-less patches for bootleg Game Boy cartridges.|6|2024-02-22|2024-01-21|
-|200|[grahambates/desire-fm](https://github.com/grahambates/desire-fm)|Desire FM - Amiga 40k intro|6|2024-01-24|2024-01-20|
+|184|[kspalaiologos/elfdude](https://github.com/kspalaiologos/elfdude)|a small & primitive elf32 packer.|6|2024-06-27|2024-06-23|
+|185|[rohansingh4/ZK-Fabric-Validator](https://github.com/rohansingh4/ZK-Fabric-Validator)|Implementing end to end zero knowledge proof |6|2024-05-07|2024-05-01|
+|186|[Jumpdivstepsx/Jumping4Bernstein-YangInversion](https://github.com/Jumpdivstepsx/Jumping4Bernstein-YangInversion)|-|6|2024-04-26|2024-04-26|
+|187|[nmtun/computer_architecture_lab_Hust](https://github.com/nmtun/computer_architecture_lab_Hust)|-|6|2024-06-21|2024-04-21|
+|188|[rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes)|SNES port of the NES game Double Dragon|6|2024-06-21|2024-04-17|
+|189|[Sha0den/poketcg_v2](https://github.com/Sha0den/poketcg_v2)|Pokemon Trading Card Game for the Game Boy Color with many simple improvements. Look at CHANGELOG.md for an overview of the changes. |6|2024-06-26|2024-04-15|
+|190|[oerg866/TRW-BiosMods](https://github.com/oerg866/TRW-BiosMods)|Retro motherboard BIOS modifications released on TheRetroWeb|6|2024-05-10|2024-04-10|
+|191|[Skeleton590/dasm](https://github.com/Skeleton590/dasm)|-|6|2024-03-28|2024-03-27|
+|192|[nachogonzaliaunc/21-OrganizacionDelComputador](https://github.com/nachogonzaliaunc/21-OrganizacionDelComputador)|-|6|2024-06-12|2024-03-14|
+|193|[StewBC/Time-Pilot](https://github.com/StewBC/Time-Pilot)|Remakes for modern and vintage computers|6|2024-06-20|2024-02-24|
+|194|[Tvenus/A_bunch_of_Rust_projects](https://github.com/Tvenus/A_bunch_of_Rust_projects)|-|6|2024-02-20|2024-02-20|
+|195|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|6|2024-06-28|2024-02-18|
+|196|[palazzol/CyberamicControlCenter](https://github.com/palazzol/CyberamicControlCenter)|Repo for docs and info about the Cyberamic Control Center|6|2024-06-15|2024-02-17|
+|197|[Marimari2342/Organizacion-de-Computadoras](https://github.com/Marimari2342/Organizacion-de-Computadoras)|Ejercicios de Organización de Computadoras y resumen del final.|6|2024-04-09|2024-02-17|
+|198|[0x1do/FlappyBird](https://github.com/0x1do/FlappyBird)|-|6|2024-04-17|2024-02-13|
+|199|[TobyLobster/Boulderdash](https://github.com/TobyLobster/Boulderdash)|Disassembly of the game Boulderdash on the BBC Micro|6|2024-03-04|2024-02-03|
+|200|[the-pink-hacker/ti-sans-undertale](https://github.com/the-pink-hacker/ti-sans-undertale)|A WIP recreation of the Sans boss fight from Undertale for the TI-84+CE.|6|2024-04-16|2024-01-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

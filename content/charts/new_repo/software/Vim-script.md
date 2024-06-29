@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-06-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim)|Autocompletion for Vim's command line.|55|2024-06-06|2023-07-11|
 |6|[nir9/welcome](https://github.com/nir9/welcome)|Useful information regarding my Youtube channel|41|2024-06-14|2023-12-18|
 |7|[TabbyML/vim-tabby](https://github.com/TabbyML/vim-tabby)|-|38|2024-03-01|2023-10-22|
-|8|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|38|2024-06-05|2023-09-21|
+|8|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|38|2024-06-28|2023-09-21|
 |9|[chtenb/helix.vim](https://github.com/chtenb/helix.vim)|Emulate Helix keybindings inside Vim emulators|35|2024-06-20|2023-10-03|
 |10|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|32|2024-05-09|2024-05-04|
 |11|[girishji/devdocs.vim](https://github.com/girishji/devdocs.vim)|Lookup  API documentation from devdocs.io without leaving Vim.|32|2024-06-06|2024-02-12|
@@ -36,7 +36,7 @@
 |29|[kawarimidoll/tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)|Tabun Ugoku SKK for vim|14|2024-05-15|2023-12-20|
 |30|[tact-lang/tact.vim](https://github.com/tact-lang/tact.vim)|⚡ All-in-one Vim 8+ plugin for Tact programming language|14|2024-06-21|2023-09-29|
 |31|[sainttttt/flesh-and-blood](https://github.com/sainttttt/flesh-and-blood)|low contrast vim/nvim colorscheme for bitmap/pixel fonts |12|2024-06-24|2023-11-09|
-|32|[errael/splice9](https://github.com/errael/splice9)|A Vim9.1 plugin for managing three-way merges; pure vim9script.|12|2024-06-26|2023-08-30|
+|32|[errael/splice9](https://github.com/errael/splice9)|A Vim9.1 plugin for managing three-way merges; pure vim9script.|12|2024-06-28|2023-08-30|
 |33|[girishji/fFtT.vim](https://github.com/girishji/fFtT.vim)|More accurate f, F, t, T navigation in Vim.|11|2024-06-06|2024-02-27|
 |34|[joseluisgomes/dotfiles](https://github.com/joseluisgomes/dotfiles)|My Xfce Linux dotfiles|11|2024-04-30|2024-02-16|
 |35|[chrisamaphone/lf-class](https://github.com/chrisamaphone/lf-class)|Logical Frameworks Class|11|2024-02-29|2024-01-27|
@@ -54,8 +54,8 @@
 |47|[wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji)|An easy emoji plugin for vim written in vim9script|9|2024-06-18|2023-09-27|
 |48|[thaiminhpv/fast.vim](https://github.com/thaiminhpv/fast.vim)|A cross-platform keybinding that x10 your coding speed|8|2024-06-24|2024-06-07|
 |49|[fresh2dev/zellij.vim](https://github.com/fresh2dev/zellij.vim)|Vim plugin for integration with Zellij.|8|2024-05-27|2024-05-25|
-|50|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-06-27|2024-04-05|
-|51|[yuriaugusto/dotfiles](https://github.com/yuriaugusto/dotfiles)|dotfiles repo|8|2024-06-27|2024-02-21|
+|50|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-06-28|2024-04-05|
+|51|[yuriaugusto/dotfiles](https://github.com/yuriaugusto/dotfiles)|dotfiles repo|8|2024-06-28|2024-02-21|
 |52|[TrudeEH/dotfiles](https://github.com/TrudeEH/dotfiles)|-|8|2024-05-31|2024-01-03|
 |53|[EmotionlessDev/FEFU](https://github.com/EmotionlessDev/FEFU)|FEFU notes (Math & computer science)|8|2023-12-31|2023-09-30|
 |54|[girishji/vimbits](https://github.com/girishji/vimbits)|Curated Suite of Lightweight Vim Plugins.|7|2024-06-20|2024-06-05|
@@ -73,7 +73,7 @@
 |66|[NI57721/skkeleton-state-popup](https://github.com/NI57721/skkeleton-state-popup)|Create a popup that shows the state of skkeleton|6|2024-01-26|2023-11-21|
 |67|[ericaviana12/senac-tat](https://github.com/ericaviana12/senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-06-25|2023-11-15|
 |68|[nvimdev/nightsky.vim](https://github.com/nvimdev/nightsky.vim)|a minimal vim/neovim colorscheme |6|2024-06-15|2023-07-20|
-|69|[rrgeorge/vim-blink](https://github.com/rrgeorge/vim-blink)|Vim plugin manager for blinkshell|5|2024-06-27|2024-04-02|
+|69|[rrgeorge/vim-blink](https://github.com/rrgeorge/vim-blink)|Vim plugin manager for blinkshell|5|2024-06-28|2024-04-02|
 |70|[mityu/vim-backpair](https://github.com/mityu/vim-backpair)|Dive into parenthesis you just inserted.|5|2024-06-21|2024-03-06|
 |71|[4513ECHO/lspoints-extension-copilot](https://github.com/4513ECHO/lspoints-extension-copilot)|[WIP] lspoints extension for GitHub Copilot|5|2024-03-01|2024-03-01|
 |72|[guptarohit/dotfiles](https://github.com/guptarohit/dotfiles)|📍~/. my dotfiles ⚙️ for macOS, iterm2, git, vim, zsh, stow |5|2024-04-07|2024-02-16|
@@ -104,7 +104,7 @@
 |97|[wolandark/vimdict](https://github.com/wolandark/vimdict)|A Simple Wrapper Over The Dict CLI Utility For Vim9|3|2024-06-23|2024-06-21|
 |98|[m6vrm/gruber.vim](https://github.com/m6vrm/gruber.vim)|Dark Vim colorscheme|3|2024-05-13|2024-04-29|
 |99|[box-master/dot-files](https://github.com/box-master/dot-files)|my dot files|3|2024-05-14|2024-04-17|
-|100|[Kaiser-Yang/dotfiles](https://github.com/Kaiser-Yang/dotfiles)|My own configue files for UNIX/Linux tools.|3|2024-06-27|2024-04-10|
+|100|[Kaiser-Yang/dotfiles](https://github.com/Kaiser-Yang/dotfiles)|My own configue files for UNIX/Linux tools.|3|2024-06-28|2024-04-10|
 |101|[ubaldot/vim-manim](https://github.com/ubaldot/vim-manim)|Render your manim-ations from Vim.|3|2024-04-12|2024-04-09|
 |102|[gusgonza42/my-utils-gusgonza](https://github.com/gusgonza42/my-utils-gusgonza)|My configuration on 42 and personal PC|3|2024-06-17|2024-03-13|
 |103|[AsieJayFondales/FeasTapp1](https://github.com/AsieJayFondales/FeasTapp1)|Object Detection using YOLOv8 and Mask-RCNN for Ingredient Recognition and Dish Recommendation via Generative AI API Integration|3|2024-05-26|2024-03-09|

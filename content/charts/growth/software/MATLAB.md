@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-06-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-06-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|10|1|2024-06-23|
 |12|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|9|1|2024-06-18|
 |13|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|31|1|2024-06-27|
-|14|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1486|1|2024-06-24|
+|14|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1488|1|2024-06-24|
 |15|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|7|1|2024-06-16|
 |16|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |17|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|7|0|2024-05-29|
@@ -39,7 +39,7 @@
 |32|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|58|0|2024-04-25|
 |33|[WPT-Lab124/Modified-Diode-Model](https://github.com/WPT-Lab124/Modified-Diode-Model)|The Modified Diode Model for Perovskite Photovoltaics|3|0|2024-04-12|
 |34|[mad-stat/CPSC-001](https://github.com/mad-stat/CPSC-001)|-|4|0|2024-05-27|
-|35|[mhamilt/CoupledFDPlateAndString](https://github.com/mhamilt/CoupledFDPlateAndString)|Finite difference modelling of Kirchhoff thin plate coupled with stiff string(s)|9|0|2024-05-20|
+|35|[mhamilt/CoupledFDPlateAndString](https://github.com/mhamilt/CoupledFDPlateAndString)|Finite difference modelling of Kirchhoff thin plate coupled with stiff string(s)|10|0|2024-05-20|
 |36|[paulpanwang/Underwater-Image-De-Scattering](https://github.com/paulpanwang/Underwater-Image-De-Scattering)|De-scattering and edge enhancing are critical procedures for underwater images which surfer from serious detail loss, color deviation and blurring. In this work, a novel method has been proposed to en ...|51|0|2024-06-03|
 |37|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|465|0|2024-02-23|
 |38|[ChenFengling/HiCpipe](https://github.com/ChenFengling/HiCpipe)|an efficient Hi-C data processing pipeline|15|0|2024-03-26|
@@ -70,14 +70,14 @@
 |63|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|5|0|2024-03-26|
 |64|[Sergio-Vicenzo/GPSL1-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-DPEmodule)|Open-source GNSS Direct Position Estimation Plug-in Module for MATLAB-based Two-step Positioning Software Defined Receivers|6|0|2024-06-12|
 |65|[PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs](https://github.com/PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs)|Source Code for research: Light Field Depth Estimation Based on Stitched-EPIs|3|0|2024-01-18|
-|66|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-27|
+|66|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-28|
 |67|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
 |68|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-06-25|
 |69|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|179|0|2024-05-02|
 |70|[SyedShehryarAli/EV-Speed-Control-](https://github.com/SyedShehryarAli/EV-Speed-Control-)|This repository contains the Electric Vehicle (EV) dataset and Matlab code for speed control and energy efficiency in EVs using Optimization Techniques|3|0|2024-03-04|
 |71|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|3|0|2024-05-14|
 |72|[tudouzhenbutian/CACC-platoon-control--sliding-mode-control](https://github.com/tudouzhenbutian/CACC-platoon-control--sliding-mode-control)|code for paper: [1] M. Hu, X. Wang, Y. Bian, D. Cao, and H. Wang, “Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,” IEEE Transactions on Intellige ...|13|0|2024-01-28|
-|73|[ZehuaJia/Tube-based-MPC-for-nonlinear-systems](https://github.com/ZehuaJia/Tube-based-MPC-for-nonlinear-systems)|The reproduction of tube-based MPC for nonlinear systems|30|0|2024-05-15|
+|73|[ZehuaJia/Tube-based-MPC-for-nonlinear-systems](https://github.com/ZehuaJia/Tube-based-MPC-for-nonlinear-systems)|The reproduction of tube-based MPC for nonlinear systems|31|0|2024-05-15|
 |74|[genssi-developer/GenSSI](https://github.com/genssi-developer/GenSSI)|GenSSI 2.0 - Generating Series for testing Structural Identifiability|14|0|2024-04-06|
 |75|[complexphoton/APF_inverse_design](https://github.com/complexphoton/APF_inverse_design)|-|9|0|2024-06-25|
 |76|[davidsmarx/Matlab](https://github.com/davidsmarx/Matlab)|my matlab toolboxes evolved over the years|5|0|2024-06-06|
@@ -91,7 +91,7 @@
 |84|[crvlh/Pressure-sensitive-platform-optical-fiber-sensors](https://github.com/crvlh/Pressure-sensitive-platform-optical-fiber-sensors)|-|3|0|2024-03-08|
 |85|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|6|0|2024-04-03|
 |86|[AthinaLange/CoastalLens](https://github.com/AthinaLange/CoastalLens)|Toolbox to rectify UAV video in coastal oceanography|3|0|2024-04-09|
-|87|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|334|0|2024-05-27|
+|87|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|336|0|2024-05-27|
 |88|[vistalab/PRFmodel](https://github.com/vistalab/PRFmodel)|-|11|0|2024-01-25|
 |89|[basp-group/BUQO](https://github.com/basp-group/BUQO)|BUQO: Bayesian Uncertainty Quantification by Optimisation|4|0|2024-02-04|
 |90|[ARDVARC/ARDVARC](https://github.com/ARDVARC/ARDVARC)|Team ARDVARC's github repository|5|0|2024-05-04|
@@ -108,7 +108,7 @@
 |101|[dingshansun/RL-based-PMPC](https://github.com/dingshansun/RL-based-PMPC)|Relevant codes of the paper ``Adaptive Parameterized Model Predictive Control Based on Reinforcement Learning: A Synthesis Framework"|5|0|2024-03-04|
 |102|[291ce4321ac/MIMT](https://github.com/291ce4321ac/MIMT)|MATLAB Image Manipulation Toolbox|5|0|2024-05-20|
 |103|[cultpenguin/sippi](https://github.com/cultpenguin/sippi)|A Matlab toolbox for sampling inverse problems with complex priors|20|0|2024-02-04|
-|104|[ABCD-STUDY/abcd_extract_eprime](https://github.com/ABCD-STUDY/abcd_extract_eprime)|scripts that extract task timing and behavioral metrics |5|0|2024-06-21|
+|104|[ABCD-STUDY/abcd_extract_eprime](https://github.com/ABCD-STUDY/abcd_extract_eprime)|scripts that extract task timing and behavioral metrics |5|0|2024-06-27|
 |105|[deepanshuIITM/RBDO](https://github.com/deepanshuIITM/RBDO)|Reliability-based Design Optimization|7|0|2024-04-09|
 |106|[DGermano8/JSFGermano2024](https://github.com/DGermano8/JSFGermano2024)|This is the code repo to accompany the original JSF paper|3|0|2024-05-13|
 |107|[HaHeho/baffled-arrays-to-binaural](https://github.com/HaHeho/baffled-arrays-to-binaural)|MATLAB code for the binaural rendering of baffled microphone arrays|5|0|2024-05-15|
@@ -129,7 +129,7 @@
 |122|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|15|0|2024-03-26|
 |123|[PerkLab/SlicerMatlabBridge](https://github.com/PerkLab/SlicerMatlabBridge)|MatlabBridge extension for 3D Slicer|17|0|2024-04-23|
 |124|[ngandng/GA_MRTA](https://github.com/ngandng/GA_MRTA)|Centralized Genetic Algorithm for Multi Robot Task Allocation|3|0|2024-01-23|
-|125|[Yemini-Lab/NeuroPAL_ID](https://github.com/Yemini-Lab/NeuroPAL_ID)|Research software for (semi-) automated detection and identification of neurons in images of NeuroPAL, extract ID’d neural activity traces from NeuroPAL;GCaMP animals, and upload these datasets to pub ...|4|0|2024-06-27|
+|125|[Yemini-Lab/NeuroPAL_ID](https://github.com/Yemini-Lab/NeuroPAL_ID)|Research software for (semi-) automated detection and identification of neurons in images of NeuroPAL, extract ID’d neural activity traces from NeuroPAL;GCaMP animals, and upload these datasets to pub ...|4|0|2024-06-28|
 |126|[yulisun/LPEM](https://github.com/yulisun/LPEM)|Locality Preservation for Unsupervised Multimodal Change Detection|6|0|2024-05-30|
 |127|[IntronRewrite/AGV-Scheduling](https://github.com/IntronRewrite/AGV-Scheduling)|Fully Loaded AGV Scheduling Considering Weight Limits and Time Constraints in Automatic Container Terminal|3|0|2024-06-20|
 |128|[macs-lab/macs-arb-adaptive-regulation-benchmark](https://github.com/macs-lab/macs-arb-adaptive-regulation-benchmark)|Fast adaptative regulation of time-varying disturbances demo.|6|0|2024-06-19|
@@ -146,7 +146,7 @@
 |139|[baddoo/piDMD](https://github.com/baddoo/piDMD)|MATLAB codes for physics-informed dynamic mode decomposition (piDMD)|116|0|2024-02-21|
 |140|[PacktPublishing/MATLAB-for-Machine-Learning-second-edition](https://github.com/PacktPublishing/MATLAB-for-Machine-Learning-second-edition)|MATLAB for Machine Learning - second edition, Published by Packt|6|0|2024-02-02|
 |141|[kjamartens/TARDIS-public](https://github.com/kjamartens/TARDIS-public)|Public releases of TARDIS|10|0|2024-02-02|
-|142|[WestlakeIntelligentRobotics/Bearing-angle](https://github.com/WestlakeIntelligentRobotics/Bearing-angle)|The source code for our paper "A bearing-angle approach for unknown target motion analysis based on visual measurements".  This file contains five numerical simulation experiments conresponding to Fig ...|3|0|2024-03-04|
+|142|[WestlakeIntelligentRobotics/Bearing-angle](https://github.com/WestlakeIntelligentRobotics/Bearing-angle)|The source code for our paper "A bearing-angle approach for unknown target motion analysis based on visual measurements".  This file contains five numerical simulation experiments conresponding to Fig ...|4|0|2024-03-04|
 |143|[adrianponce/Linear-Hopf-model](https://github.com/adrianponce/Linear-Hopf-model)|Estimation of network statistics of the Hopf whole-brain model using a linear noise approximation|3|0|2024-01-31|
 |144|[aalto-ics-kepaco/gradKCCA](https://github.com/aalto-ics-kepaco/gradKCCA)|Implementations of gradKCCA|15|0|2024-02-16|
 |145|[2btlFe/SutdaRecognition](https://github.com/2btlFe/SutdaRecognition)|The repository for Sutda Card Recogntion with Object Detection|3|0|2024-05-26|
@@ -170,8 +170,8 @@
 |163|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|14|0|2024-06-20|
 |164|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |165|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-05-25|
-|166|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|106|0|2024-06-27|
-|167|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|809|0|2024-05-05|
+|166|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|106|0|2024-06-28|
+|167|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|810|0|2024-05-05|
 |168|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|18|0|2024-04-01|
 |169|[lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension](https://github.com/lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension)|It can be used to quickly determine the linear separability of two sets in any dimension. A GPU is required.|4|0|2024-01-24|
 |170|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
@@ -184,7 +184,7 @@
 |177|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-06-12|
 |178|[MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector](https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector)|A new method for accurate detection of movement intention from single channel EEG for online BCI|3|0|2024-02-25|
 |179|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-05-08|
-|180|[tub-rip/SER_Lie_poses](https://github.com/tub-rip/SER_Lie_poses)|Some functions to work with Lie groups SO(3) and SE(3). State Estimation for Robotics|9|0|2024-02-09|
+|180|[tub-rip/SER_Lie_poses](https://github.com/tub-rip/SER_Lie_poses)|Some functions to work with Lie groups SO(3) and SE(3). State Estimation for Robotics|10|0|2024-02-09|
 |181|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
 |182|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
 |183|[jdanielhoyos/AirfoilOptimization](https://github.com/jdanielhoyos/AirfoilOptimization)|Airfoil Optimization by XFOIL Matlab|5|0|2024-03-29|
@@ -204,7 +204,7 @@
 |197|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-06-21|
 |198|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
 |199|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|3|0|2024-06-18|
-|200|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|34|0|2024-02-21|
+|200|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-02-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
