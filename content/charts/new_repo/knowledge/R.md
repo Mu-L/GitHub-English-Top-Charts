@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-06-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -41,8 +41,9 @@
 |34|[anthonyleezhang/lvr_empirics_101](https://github.com/anthonyleezhang/lvr_empirics_101)|Guide and example code for using Loss Versus Rebalancing to measure LP returns|6|2024-02-02|2024-02-02|
 |35|[jgill22/Bayesian.Social.Science.Statistics](https://github.com/jgill22/Bayesian.Social.Science.Statistics)|A repository with code and data for the Cambridge University Press Elements books by Bao and Gill|6|2024-01-12|2023-11-02|
 |36|[carpentries-incubator/fair-research-software](https://github.com/carpentries-incubator/fair-research-software)|A course on tools and practices for open, sustainable and FAIR (Findable, Accessible, Interoperable and Reusable) research software|6|2024-06-19|2023-10-03|
-|37|[milos-agathon/carbon-emissions-per-capita](https://github.com/milos-agathon/carbon-emissions-per-capita)|Do you want to learn how to measure the carbon footprint of different regions around the world using R? In this repo, I'll show you how to combine the gas emissions data from EDGAR version 8 and popul ...|5|2024-01-15|2023-12-30|
-|38|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
+|37|[samanthacsik/EDS-240-data-viz](https://github.com/samanthacsik/EDS-240-data-viz)|Course website for EDS 240 - Data Visualization & Communication (MEDS @ Bren UCSB)|6|2024-06-11|2023-07-14|
+|38|[milos-agathon/carbon-emissions-per-capita](https://github.com/milos-agathon/carbon-emissions-per-capita)|Do you want to learn how to measure the carbon footprint of different regions around the world using R? In this repo, I'll show you how to combine the gas emissions data from EDGAR version 8 and popul ...|5|2024-01-15|2023-12-30|
+|39|[ducciorocchini/physalia.rs.2023](https://github.com/ducciorocchini/physalia.rs.2023)|Physalia course on Ecological Remote Sensing|5|2024-03-21|2023-09-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
