@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|548|2024-06-29|2023-12-01|
-|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|454|2024-06-28|2024-02-22|
-|3|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|238|2024-06-28|2023-07-12|
-|4|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|234|2024-01-18|2023-10-03|
-|5|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|230|2024-06-29|2024-06-12|
+|1|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|551|2024-06-29|2023-12-01|
+|2|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|455|2024-06-29|2024-02-22|
+|3|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|248|2024-06-29|2024-06-12|
+|4|[niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)|Unlock the full brightness of the XDR display of your MacBook Pro|238|2024-06-28|2023-07-12|
+|5|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|235|2024-01-18|2023-10-03|
 |6|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|203|2024-01-14|2023-07-28|
-|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|176|2024-06-02|2024-01-21|
+|7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|177|2024-06-02|2024-01-21|
 |8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|151|2024-05-26|2024-05-17|
 |9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|130|2024-06-27|2023-12-01|
 |10|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|99|2024-06-24|2024-06-13|
 |11|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|92|2024-04-16|2023-12-16|
 |12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|77|2024-04-29|2023-09-28|
-|13|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|40|2024-06-14|2024-05-29|
+|13|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|41|2024-06-14|2024-05-29|
 |14|[TouSC/Video2LivePhoto](https://github.com/TouSC/Video2LivePhoto)|Support iOS17 & Wallpaper: a Tool with Example of how to convert a video into a LivePhoto|34|2024-06-20|2024-04-02|
 |15|[PassiveLogic/differentiable-swift-examples](https://github.com/PassiveLogic/differentiable-swift-examples)|Examples and documentation for the experimental differentiable Swift language feature|31|2024-04-17|2023-08-01|
 |16|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|23|2024-06-27|2024-04-08|

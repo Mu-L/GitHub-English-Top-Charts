@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,10 +9,10 @@
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|280|2024-06-05|2024-01-03|
 |3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|171|2024-06-25|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|160|2024-04-23|2024-01-10|
-|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|140|2024-06-28|2024-01-12|
-|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|124|2024-06-03|2024-05-29|
+|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|140|2024-06-30|2024-01-12|
+|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|123|2024-06-03|2024-05-29|
 |7|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|100|2024-05-27|2023-08-04|
-|8|[Atinux/instadraw](https://github.com/Atinux/instadraw)|Share your drawings with the world.|97|2024-06-28|2024-06-10|
+|8|[Atinux/instadraw](https://github.com/Atinux/instadraw)|Share your drawings with the world.|98|2024-06-28|2024-06-10|
 |9|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|39|2024-03-29|2024-01-14|
 |10|[daver987/nuxt-docu-search-ai](https://github.com/daver987/nuxt-docu-search-ai)|Revolutionizing the way you learn Nuxt 3, Nuxt 3 DocuSearch AI provides instant, context-aware answers to your queries using GPT-4. Streamline your coding journey with this innovative, AI-powered tool ...|30|2024-06-18|2023-07-05|
 |11|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|24|2024-06-25|2024-01-01|
@@ -25,7 +25,7 @@
 |18|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
 |19|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
 |20|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|12|2024-06-24|2023-12-12|
-|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-06-29|2023-11-10|
+|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-06-30|2023-11-10|
 |22|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
 |23|[egghunters/dxf-viewer-examples](https://github.com/egghunters/dxf-viewer-examples)|Examples for the x-viewer SDK, which is a WebGL-based BIM model viewer built on Three.js and Vue3. It is used to view DWG/DXF/PDF files.|11|2024-02-27|2024-01-01|
 |24|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-06-24|2023-12-11|
@@ -46,7 +46,7 @@
 |39|[hi-rustin/TiDB-101](https://github.com/hi-rustin/TiDB-101)|Learn the TiDB source code with a daily SQL statement: A journey of 30 SQLs.|7|2024-06-17|2023-11-06|
 |40|[FedotovN/vue-ui-kit](https://github.com/FedotovN/vue-ui-kit)|UI kit created with Vue, Typescript, Vitest and Storybook. Under development |7|2024-01-28|2023-09-16|
 |41|[2xAA/cookbook](https://github.com/2xAA/cookbook)|A cookbook repository for Cooklang files made with Nuxt 3, Vue 3 and Pinia.|6|2024-05-01|2024-04-07|
-|42|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|6|2024-06-29|2024-01-30|
+|42|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|6|2024-06-30|2024-01-30|
 |43|[weiquanju/workspace-autoimport](https://github.com/weiquanju/workspace-autoimport)|Best practices: Vue3 how to auto import components|6|2024-01-25|2024-01-23|
 |44|[hostspaceng/community-challenge](https://github.com/hostspaceng/community-challenge)|Repo with code snippets and instructions for HostSpace community challenge|6|2024-03-19|2023-10-11|
 |45|[kaiqiangzhao/linkbook](https://github.com/kaiqiangzhao/linkbook)|LinkBook|6|2024-05-05|2023-07-16|

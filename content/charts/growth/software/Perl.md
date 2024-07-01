@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Perl
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|17169|6|2024-06-24|
-|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|18866|6|2024-06-14|
-|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|16746|4|2024-04-16|
-|4|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|2900|3|2024-04-24|
-|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|8095|2|2024-06-27|
+|1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|17171|6|2024-06-24|
+|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|18874|6|2024-06-14|
+|3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|16749|4|2024-04-16|
+|4|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|2902|3|2024-04-24|
+|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|8097|2|2024-06-27|
 |6|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|180|2|2024-06-10|
-|7|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8347|2|2024-05-28|
+|7|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8348|2|2024-05-28|
 |8|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|8747|2|2024-04-24|
 |9|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|3429|1|2024-03-08|
-|10|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4628|1|2024-04-10|
-|11|[holzschu/a-shell](https://github.com/holzschu/a-shell)|A terminal for iOS, with multiple windows|2484|1|2024-06-04|
+|10|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4629|1|2024-04-10|
+|11|[holzschu/a-shell](https://github.com/holzschu/a-shell)|A terminal for iOS, with multiple windows|2486|1|2024-06-04|
 |12|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2732|1|2024-06-06|
 |13|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|191|1|2024-03-10|
-|14|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|3099|1|2024-03-25|
+|14|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|3100|1|2024-03-25|
 |15|[jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner)|Simple script to analyse your PostgreSQL database configuration, and give tuning advice|2567|1|2024-01-08|
-|16|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|2068|1|2024-06-28|
+|16|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|2069|1|2024-06-28|
 |17|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|2560|1|2024-06-24|
 |18|[bagder/emails](https://github.com/bagder/emails)|emails I received|216|1|2024-06-03|
-|19|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1453|1|2024-06-27|
-|20|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|3128|1|2024-05-29|
+|19|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1455|1|2024-06-27|
+|20|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|3130|1|2024-05-29|
 |21|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1857|1|2024-06-26|
-|22|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|2197|1|2024-06-29|
+|22|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|2198|1|2024-06-29|
 |23|[sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf)|SICP PDF with Texinfo and LaTeX source|4259|1|2024-06-27|
-|24|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3247|1|2024-06-19|
+|24|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3249|1|2024-06-19|
 |25|[sbwml/halflife-list](https://github.com/sbwml/halflife-list)|ABP/ublock 广告过滤规则（每周一早上9点更新）|648|1|2024-06-24|
-|26|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|2980|1|2024-06-13|
-|27|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|2984|1|2024-06-25|
+|26|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|2981|1|2024-06-13|
+|27|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|2986|1|2024-06-25|
 |28|[Kaligula0/Finance-Quote-module-Obligacje-Skarbowe](https://github.com/Kaligula0/Finance-Quote-module-Obligacje-Skarbowe)|Moduł do Finance::Quote (i GnuCash) obliczający wartość polskich obligacji skarbowych.|2|0|2024-05-31|
 |29|[zer0liu/bioutils](https://github.com/zer0liu/bioutils)|Routine utilities for seuqnece operation|5|0|2024-03-18|
 |30|[solgenomics/cassava](https://github.com/solgenomics/cassava)|Cassavabase - A website for Cassava research|2|0|2024-01-29|
@@ -47,7 +47,7 @@
 |40|[nylander/translate_fasta_headers](https://github.com/nylander/translate_fasta_headers)|Translate long fasta headers to short - and back!|4|0|2024-04-17|
 |41|[dse/xorg-monospace-fonts-ttf](https://github.com/dse/xorg-monospace-fonts-ttf)|All the FreeDesktop monospace fonts in .TTF form.|8|0|2024-05-27|
 |42|[mjanota/tellicoczdatasource](https://github.com/mjanota/tellicoczdatasource)|Czech Data Sources for Tellico|2|0|2024-06-04|
-|43|[Ensembl/ensembl-compara](https://github.com/Ensembl/ensembl-compara)|The Ensembl Compara Perl API and SQL schema|50|0|2024-06-27|
+|43|[Ensembl/ensembl-compara](https://github.com/Ensembl/ensembl-compara)|The Ensembl Compara Perl API and SQL schema|50|0|2024-06-30|
 |44|[danaj/Math-Prime-Util](https://github.com/danaj/Math-Prime-Util)|Perl (XS) module implementing prime number utilities, including sieves|43|0|2024-06-17|
 |45|[pmqs/Archive-Zip-SimpleZip](https://github.com/pmqs/Archive-Zip-SimpleZip)|Perl5 interface to read/write Zip files|4|0|2024-06-16|
 |46|[jmaslak/dotfiles](https://github.com/jmaslak/dotfiles)|Various dot files|5|0|2024-06-15|
@@ -116,7 +116,7 @@
 |109|[xunchen85/ERVcaller](https://github.com/xunchen85/ERVcaller)|ERVcaller is a tool designed to accurately detect and genotype non-reference unfixed endogenous retroviruses (ERVs) and other transposable elements (TEs) in the human genome using next-generation sequ ...|14|0|2024-01-10|
 |110|[LegalizeAdulthood/fotd](https://github.com/LegalizeAdulthood/fotd)|JIm Muth's Fractal of the Day parameter files and scripts|2|0|2024-04-25|
 |111|[znuny/Znuny4OTRS-MarkTicketSeenUnseen](https://github.com/znuny/Znuny4OTRS-MarkTicketSeenUnseen)|This package contains the functionality to mark whole tickets or single articles as unseen or seen again.|3|0|2024-02-12|
-|112|[sisyphus/math-mpfr](https://github.com/sisyphus/math-mpfr)|-|3|0|2024-06-29|
+|112|[sisyphus/math-mpfr](https://github.com/sisyphus/math-mpfr)|-|3|0|2024-06-30|
 |113|[w5xd/diysha](https://github.com/w5xd/diysha)|Do it yourself secure home automation|2|0|2024-06-08|
 |114|[yjx1217/Varathon](https://github.com/yjx1217/Varathon)|A scalable variant calling and benchmarking framework supporting both short and long reads.|11|0|2024-05-24|
 |115|[nekokak/p5-Teng](https://github.com/nekokak/p5-Teng)|simple DBI wrapper/ORMapper|86|0|2024-03-06|
@@ -184,7 +184,7 @@
 |177|[iamcal/perl-Flickr-API](https://github.com/iamcal/perl-Flickr-API)|Perl interface to the Flickr API|7|0|2024-02-26|
 |178|[Kelp-framework/Kelp](https://github.com/Kelp-framework/Kelp)|Main repository of the Kelp web framework|68|0|2024-06-29|
 |179|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|14|0|2024-06-12|
-|180|[genesis-community/genesis](https://github.com/genesis-community/genesis)|A BOSH Deployment Paradigm|54|0|2024-06-24|
+|180|[genesis-community/genesis](https://github.com/genesis-community/genesis)|A BOSH Deployment Paradigm|54|0|2024-06-30|
 |181|[rjbs/IPC-Run3](https://github.com/rjbs/IPC-Run3)|(Perl) run a subprocess with input/ouput redirection|13|0|2024-01-20|
 |182|[Derbeth/perlwiki](https://github.com/Derbeth/perlwiki)|Perl scripts for editing MediaWiki wikis|5|0|2024-05-19|
 |183|[theos/nic](https://github.com/theos/nic)|Generates Theos projects based on a template.|11|0|2024-06-08|
@@ -192,7 +192,7 @@
 |185|[ncbi/ribovore](https://github.com/ncbi/ribovore)|-|13|0|2024-01-31|
 |186|[zbw/sparql-queries](https://github.com/zbw/sparql-queries)|Example SPARQL queries, mostly for working with ZBW data sets|14|0|2024-06-18|
 |187|[live-clones/lintian](https://github.com/live-clones/lintian)|Live clone of https://anonscm.debian.org/git/lintian/lintian.git.|3|0|2024-06-29|
-|188|[hboetes/configs](https://github.com/hboetes/configs)|“Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.”|2|0|2024-02-19|
+|188|[hboetes/configs](https://github.com/hboetes/configs)|“Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.”|2|0|2024-06-30|
 |189|[polettix/dibs](https://github.com/polettix/dibs)|Docker Image Build System|8|0|2024-06-15|
 |190|[mojolicious/mojo-assetpack](https://github.com/mojolicious/mojo-assetpack)|:tractor: Compress and convert CSS, Less, Sass and JavaScript files|29|0|2024-06-20|
 |191|[tokuhirom/OrePAN2](https://github.com/tokuhirom/OrePAN2)|-|22|0|2024-04-29|

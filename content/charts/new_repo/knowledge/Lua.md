@@ -5,22 +5,22 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|649|2024-06-27|2023-09-16|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|651|2024-06-27|2023-09-16|
 |2|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|319|2024-05-28|2024-01-03|
 |3|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|305|2024-06-29|2023-12-29|
-|4|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|176|2024-06-28|2023-12-01|
+|4|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|179|2024-06-28|2023-12-01|
 |5|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|149|2024-06-26|2023-10-03|
 |6|[LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim)|Your new bookmarks option: simple yet powerful|93|2024-06-28|2024-02-02|
 |7|[GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)|Jupyter notebooks on neovim powered by Jupytext|63|2024-06-02|2023-11-22|
-|8|[NoOPeEKS/DataNvim](https://github.com/NoOPeEKS/DataNvim)|A fully-featured batteries-included Neovim distribution for the world of Data Science. Prepared to run code and interact with Jupyter Notebooks without ever leaving your terminal.|57|2024-06-28|2024-06-10|
+|8|[NoOPeEKS/DataNvim](https://github.com/NoOPeEKS/DataNvim)|A fully-featured batteries-included Neovim distribution for the world of Data Science. Prepared to run code and interact with Jupyter Notebooks without ever leaving your terminal.|58|2024-06-29|2024-06-10|
 |9|[mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets)|Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets|55|2024-04-06|2023-12-03|
-|10|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|46|2024-06-29|2023-12-10|
+|10|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|46|2024-06-30|2023-12-10|
 |11|[tristone13th/lspmark.nvim](https://github.com/tristone13th/lspmark.nvim)|A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.|39|2024-06-27|2024-06-09|
 |12|[it-scripts/it-drugs](https://github.com/it-scripts/it-drugs)|Become a master herbalist with this drug script! Ready for qb-core and esx!|36|2024-06-07|2024-04-05|
 |13|[Antonoko/pocket-reader](https://github.com/Antonoko/pocket-reader)|A ebook reader supports Chinese on Playdate console.|34|2024-05-29|2024-05-18|
-|14|[cdmill/neomodern.nvim](https://github.com/cdmill/neomodern.nvim)|A collection of modern themes for Neovim|28|2024-06-01|2024-01-19|
+|14|[cdmill/neomodern.nvim](https://github.com/cdmill/neomodern.nvim)|A collection of modern themes for Neovim|33|2024-06-01|2024-01-19|
 |15|[IdreesInc/PlayBook](https://github.com/IdreesInc/PlayBook)|A cranky ebook reader for the Playdate console|28|2024-05-19|2023-10-14|
-|16|[guilherme-puida/tesoura.nvim](https://github.com/guilherme-puida/tesoura.nvim)|A flexible snippet system using Neovim's new snippet api.|26|2024-06-04|2024-05-22|
+|16|[guilherme-puida/tesoura.nvim](https://github.com/guilherme-puida/tesoura.nvim)|A flexible snippet system using Neovim's new snippet api.|27|2024-06-04|2024-05-22|
 |17|[yazi-rs/plugins](https://github.com/yazi-rs/plugins)|Place code snippets from docs into this monorepo, so that users can update more easily via package manager.|26|2024-06-29|2024-05-14|
 |18|[adambennett/Balatro-DeckCreator](https://github.com/adambennett/Balatro-DeckCreator)|Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.|22|2024-04-20|2024-02-25|
 |19|[MCJack123/PrimeUI](https://github.com/MCJack123/PrimeUI)|A collection of UI component primitives for ComputerCraft.|21|2024-06-21|2023-07-24|
@@ -62,6 +62,7 @@
 |55|[Coockson/ipynb.nvim](https://github.com/Coockson/ipynb.nvim)|Neovim jupiter notebook support plugin|7|2024-02-18|2024-02-02|
 |56|[dslc-io/dslc-io](https://github.com/dslc-io/dslc-io)|The Data Science Learning Community|6|2024-06-24|2024-02-15|
 |57|[defold/sample-screen-to-world-coordinates](https://github.com/defold/sample-screen-to-world-coordinates)|This sample project shows how to convert from screen to world coordinates while using a camera component.|6|2024-06-17|2024-01-03|
+|58|[Srinath10X/Litevim](https://github.com/Srinath10X/Litevim)|Litevim 🚀: A lightweight, easily configurable Neovim setup for a swift and clean editing experience. Tailor your themes 🎨, master languages 🚀, all in a user-friendly, minimalistic package.|6|2024-06-27|2023-12-22|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

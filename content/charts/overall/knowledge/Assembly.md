@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15337|2024-05-09|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|10303|2024-06-28|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15353|2024-05-09|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|10307|2024-06-28|
 |3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2129|2024-06-22|
 |4|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|755|2024-05-03|
 |5|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|524|2024-03-20|
-|6|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|477|2024-01-04|
+|6|[mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide)|RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.|480|2024-01-04|
 |7|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|446|2024-05-19|
 |8|[niekiran/Embedded-C](https://github.com/niekiran/Embedded-C)|Repository for udemy Embedded-C course|445|2024-01-29|
 |9|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|327|2024-04-13|
-|10|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|227|2024-06-27|
-|11|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|138|2024-06-04|
+|10|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|233|2024-06-30|
+|11|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|140|2024-06-04|
 |12|[TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)|All Algorithms implemented in AArch64 Assembly|134|2024-01-27|
 |13|[mrfearless/libraries](https://github.com/mrfearless/libraries)|Collection of libraries for use with x86 / x64 assembler|102|2024-05-21|
-|14|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|99|2024-06-26|
+|14|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|99|2024-06-30|
 |15|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|70|2024-05-23|
 |16|[takenobu-hs/cpu-assembly-examples](https://github.com/takenobu-hs/cpu-assembly-examples)|CPU assembly examples|68|2024-05-19|
 |17|[LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms)|Repository of algorithms implemented in pure assembly|67|2024-01-21|
@@ -36,14 +36,14 @@
 |29|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|38|2024-05-15|
 |30|[cityxen/Commodore64_Programming](https://github.com/cityxen/Commodore64_Programming)|Commodore 64 Programming KickAssembler Library and Examples|34|2024-02-19|
 |31|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|33|2024-04-01|
-|32|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|29|2024-06-29|
+|32|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|30|2024-06-29|
 |33|[dsoze1138/MPLABX_pic-as_examples](https://github.com/dsoze1138/MPLABX_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|29|2024-05-21|
 |34|[IDouble/Simple-Disassembly-Notes](https://github.com/IDouble/Simple-Disassembly-Notes)|⚙️ Simple Step to Step Tutorials for Disassembling / Code Injection & getting Pointer Addresses 🔧|28|2024-02-29|
 |35|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|27|2024-05-25|
 |36|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|27|2024-06-20|
 |37|[nanochess/book-Atari](https://github.com/nanochess/book-Atari)|Examples from my book Programming Games for Atari 2600|25|2024-02-29|
 |38|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|25|2024-06-29|
-|39|[lajohnston/smslib](https://github.com/lajohnston/smslib)|Z80 libraries for the Sega Master System|21|2024-06-28|
+|39|[lajohnston/smslib](https://github.com/lajohnston/smslib)|Z80 libraries for the Sega Master System|21|2024-06-30|
 |40|[Nakazoto/Hellorld](https://github.com/Nakazoto/Hellorld)|A collection of the greatest programming on the planet!|19|2024-01-22|
 |41|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|19|2024-03-11|
 |42|[UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani](https://github.com/UtkarshPathrabe/Microprocessors-And-Interfacing-Lab-Solutions-BITS-Pilani)|Contains the Lab Sheets and their Solutions of the Microprocessors And Interfacing Course in BITS Pilani.|18|2024-01-06|
@@ -84,8 +84,8 @@
 |77|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|2024-04-19|
 |78|[theokwebb/my-writeups](https://github.com/theokwebb/my-writeups)|Collection of my writeups on CTFs, labs, etc.|5|2024-06-25|
 |79|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|5|2024-02-29|
-|80|[markmoxon/elite-compendium-bbc-master](https://github.com/markmoxon/elite-compendium-bbc-master)|Source for the Elite Compendium on the BBC Master, a collection of the best Acornsoft Elite hacks on one disc|5|2024-06-29|
-|81|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|2024-06-29|
+|80|[markmoxon/elite-compendium-bbc-master](https://github.com/markmoxon/elite-compendium-bbc-master)|Source for the Elite Compendium on the BBC Master, a collection of the best Acornsoft Elite hacks on one disc|5|2024-06-30|
+|81|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|2024-06-30|
 |82|[CHUN983/nuk_assembly_project](https://github.com/CHUN983/nuk_assembly_project)|the assembly learning|4|2024-06-13|
 |83|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|2024-04-30|
 |84|[TroyMitchell911/RISC-V-Assembly-Learning](https://github.com/TroyMitchell911/RISC-V-Assembly-Learning)|A step-by-step learning path for beginners in RSIC-V assembly|4|2024-04-06|
