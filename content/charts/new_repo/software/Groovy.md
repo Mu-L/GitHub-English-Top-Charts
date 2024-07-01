@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|8|2024-04-23|2023-08-30|
 |9|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2024-03-05|2023-11-09|
 |10|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
-|11|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|5|2024-06-18|2024-01-28|
+|11|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|5|2024-06-30|2024-01-28|
 |12|[maggergm/GroovyCSVExample](https://github.com/maggergm/GroovyCSVExample)|A useful Groovy script to read and analyze a CSV file|4|2024-06-04|2024-06-04|
 |13|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
 |14|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|4|2024-06-19|2024-04-26|
@@ -25,7 +25,7 @@
 |18|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
 |19|[TheDanHealy/hubitat-rental-automator](https://github.com/TheDanHealy/hubitat-rental-automator)|AirBNB Automator app for Hubitat|4|2024-02-08|2023-09-24|
 |20|[outoftheboxea/SAPCPI](https://github.com/outoftheboxea/SAPCPI)|SAP CPI Material|4|2024-06-23|2023-08-15|
-|21|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|4|2024-06-20|2023-07-07|
+|21|[bajibpathan/pt-musthave-series](https://github.com/bajibpathan/pt-musthave-series)|-|4|2024-06-29|2023-07-07|
 |22|[trouble25/GroovyFileOperations](https://github.com/trouble25/GroovyFileOperations)|A useful Groovy script to perform basic file operations|3|2024-06-04|2024-06-04|
 |23|[L-W-payments/asaas-payment](https://github.com/L-W-payments/asaas-payment)|-|3|2024-06-17|2024-05-09|
 |24|[PDCompBio/TrueTH](https://github.com/PDCompBio/TrueTH)|Fine-tuned TH soma identification pipeline.|3|2024-06-12|2024-04-16|

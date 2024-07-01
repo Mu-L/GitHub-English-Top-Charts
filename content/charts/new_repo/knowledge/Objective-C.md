@@ -8,7 +8,7 @@
 |1|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|42|2024-04-03|2024-01-31|
 |2|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|13|2024-06-06|2023-12-27|
 |3|[DerekSelander/gcd_internals](https://github.com/DerekSelander/gcd_internals)|Showcases libdispatch lesser known APIs with examples & structs|7|2024-05-15|2024-05-05|
-|4|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|3|2024-05-09|2024-04-30|
+|4|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|3|2024-06-30|2024-04-30|
 |5|[cl3m/MauiFlutterBinding](https://github.com/cl3m/MauiFlutterBinding)|An example of how to integrate flutter with .NET MAUI. |3|2024-03-17|2024-02-09|
 |6|[latenitefilms/ShareDestinationKit](https://github.com/latenitefilms/ShareDestinationKit)|Receiving Media and Data Through a Custom Share Destination in Swift|2|2024-01-13|2023-12-09|
 

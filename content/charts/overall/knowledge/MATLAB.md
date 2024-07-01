@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2489|2024-06-22|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1332|2024-03-22|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2494|2024-06-22|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1333|2024-03-22|
 |3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1120|2024-06-03|
 |4|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|360|2024-03-12|
-|5|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|329|2024-06-06|
+|5|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|331|2024-06-06|
 |6|[Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)|Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)|308|2023-12-31|
 |7|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|256|2024-06-27|
 |8|[dynamicslab/databook_matlab](https://github.com/dynamicslab/databook_matlab)|Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz http://w ...|246|2024-02-09|
@@ -32,7 +32,7 @@
 |25|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|75|2024-04-06|
 |26|[gaobb/DLDL](https://github.com/gaobb/DLDL)|[TIP] Deep Label Distribution Learning with Label Ambiguity|74|2024-04-16|
 |27|[cliansang/positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|The Matlab scripts for five positioning algorithms regarding UWB localization. The five algorithms are Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Taylor Series-based location estimat ...|72|2024-01-15|
-|28|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|65|2024-06-12|
+|28|[MathWorks-Teaching-Resources/Virtual-Controls-Laboratory](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)|Virtual labs and mechanisms for studying controls.|66|2024-06-12|
 |29|[mazhar-ansari-ardeh/BenchmarkFcns](https://github.com/mazhar-ansari-ardeh/BenchmarkFcns)|A Python and MATLAB implementation of mathematical test functions for benchmarking optimization algorithms.|63|2024-06-28|
 |30|[mathworks/HDL-Coder-Self-Guided-Tutorial](https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial)|Learn how to deploy an algorithm to an FPGA using MATLAB and Simulink.|58|2024-06-17|
 |31|[modenaxe/msk-STAPLE](https://github.com/modenaxe/msk-STAPLE)|STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented  ...|55|2024-02-08|
@@ -73,7 +73,7 @@
 |66|[SafeRoboticsLab/Dual_Control_HRI](https://github.com/SafeRoboticsLab/Dual_Control_HRI)|Implementation of implicit dual control-based active uncertainty learning for human-robot interaction - WAFR 2022 & IJRR 2023|21|2024-06-24|
 |67|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|21|2024-06-06|
 |68|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|21|2024-04-30|
-|69|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|2024-06-26|
+|69|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|2024-06-30|
 |70|[placebovitamin/MPC-Tutorial](https://github.com/placebovitamin/MPC-Tutorial)|This is the MATLAB code for a brief tutorial for Model Predictive Control (MPC) for a linear discrete-time system with constrained states and inputs. |20|2024-01-10|
 |71|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|20|2024-05-24|
 |72|[szuyul/MMF-simulation](https://github.com/szuyul/MMF-simulation)|Compute the vectorial model of guided modes in an optical multimode fiber (MMF) and simulate fiber transmission in different representations.|20|2024-02-13|
@@ -119,25 +119,25 @@
 |112|[mengchaoheng/aircraft-control-allocation](https://github.com/mengchaoheng/aircraft-control-allocation)|The simulation of the book "Aircraft Control Allocation". https://www.wiley.com/en-us/Aircraft+Control+Allocation-p-9781118827796|10|2024-04-08|
 |113|[legion-abhisar/Hybrid-GA-PSO-Path-planning](https://github.com/legion-abhisar/Hybrid-GA-PSO-Path-planning)|A hybrid path planning MATLAB program where two well known algorithms have been combined to perform an operation. The operation is to find the best path between two points.|10|2024-06-18|
 |114|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|10|2024-01-13|
-|115|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|2024-02-29|
-|116|[rares9301/mn_hw](https://github.com/rares9301/mn_hw)|simple but efficient kernel regression and anomaly detection algorithms |9|2024-05-04|
-|117|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|2024-06-13|
-|118|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|9|2024-05-01|
-|119|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |9|2024-03-19|
-|120|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|9|2024-06-03|
-|121|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|9|2024-03-09|
-|122|[gokhangoksu/MTM4502](https://github.com/gokhangoksu/MTM4502)|MTM4502 Optimization Techniques MATLAB Tutorial Repository|9|2024-04-25|
-|123|[mhuasong/Basics-of-Robotics-Theory-and-Technology](https://github.com/mhuasong/Basics-of-Robotics-Theory-and-Technology)|source code for the textbook written by Huasong Min: The Basics of Robotics Theory and Technology|9|2024-04-30|
-|124|[RezaSaadatyar/SSVEP-based-EEG-signal-processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|9|2024-04-04|
-|125|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|9|2024-06-14|
-|126|[MisterHW/Notes](https://github.com/MisterHW/Notes)|a personal lab notebook of sorts|9|2024-05-01|
-|127|[wwangwitsel/PLDA](https://github.com/wwangwitsel/PLDA)|[KDD'22] Partial Label Learning with Discrimination Augmentation|9|2024-05-21|
-|128|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|2024-05-24|
-|129|[MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing)|Interactive courseware module that addresses common foundational-level concepts taught in signal processing courses.|9|2024-04-30|
-|130|[preethamam/Acceleration2VelocityandDisplacement](https://github.com/preethamam/Acceleration2VelocityandDisplacement)|Filters and converts the acceleration data to velocities and displacement using the signal processing algorithms.|9|2024-01-20|
-|131|[ShiDongyuan/Meta](https://github.com/ShiDongyuan/Meta)|Fast Adaptive Active Noise Control based on Modified Model-Agnostic Meta-Learning Algorithm|9|2024-02-23|
-|132|[csea-lab/csea-lab](https://github.com/csea-lab/csea-lab)|A collection of the many scripts we use here at CSEA.|9|2024-06-20|
-|133|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|9|2024-04-25|
+|115|[rhk12/flagshyp](https://github.com/rhk12/flagshyp)|Custom implementation based on Bonet and Wood's Nonlinear FEM book http://www.flagshyp.com|10|2024-04-25|
+|116|[Donders-Institute/ni2-electrophys](https://github.com/Donders-Institute/ni2-electrophys)|Material for the source reconstruction part of the "Neuroimaging II - Electrophysiology" course in the masters program for Cognitive Neuroscience|10|2024-02-29|
+|117|[rares9301/mn_hw](https://github.com/rares9301/mn_hw)|simple but efficient kernel regression and anomaly detection algorithms |9|2024-05-04|
+|118|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|2024-06-13|
+|119|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|9|2024-05-01|
+|120|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |9|2024-03-19|
+|121|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|9|2024-06-03|
+|122|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|9|2024-03-09|
+|123|[gokhangoksu/MTM4502](https://github.com/gokhangoksu/MTM4502)|MTM4502 Optimization Techniques MATLAB Tutorial Repository|9|2024-04-25|
+|124|[mhuasong/Basics-of-Robotics-Theory-and-Technology](https://github.com/mhuasong/Basics-of-Robotics-Theory-and-Technology)|source code for the textbook written by Huasong Min: The Basics of Robotics Theory and Technology|9|2024-04-30|
+|125|[RezaSaadatyar/SSVEP-based-EEG-signal-processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|9|2024-04-04|
+|126|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|9|2024-06-14|
+|127|[MisterHW/Notes](https://github.com/MisterHW/Notes)|a personal lab notebook of sorts|9|2024-05-01|
+|128|[wwangwitsel/PLDA](https://github.com/wwangwitsel/PLDA)|[KDD'22] Partial Label Learning with Discrimination Augmentation|9|2024-05-21|
+|129|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|2024-05-24|
+|130|[MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing)|Interactive courseware module that addresses common foundational-level concepts taught in signal processing courses.|9|2024-04-30|
+|131|[preethamam/Acceleration2VelocityandDisplacement](https://github.com/preethamam/Acceleration2VelocityandDisplacement)|Filters and converts the acceleration data to velocities and displacement using the signal processing algorithms.|9|2024-01-20|
+|132|[ShiDongyuan/Meta](https://github.com/ShiDongyuan/Meta)|Fast Adaptive Active Noise Control based on Modified Model-Agnostic Meta-Learning Algorithm|9|2024-02-23|
+|133|[csea-lab/csea-lab](https://github.com/csea-lab/csea-lab)|A collection of the many scripts we use here at CSEA.|9|2024-06-20|
 |134|[plamentrayanov/BranchingProcessSimulator](https://github.com/plamentrayanov/BranchingProcessSimulator)|Matlab Simulator of Continuous-time Multi-type Branching Processes in Random Environment. (UPDATE: includes examples for modelling the coronavirus epidemics (COVID-19, SARS-CoV-2)))|9|2024-04-08|
 |135|[jacobkers/Loeff-Kerssemakers-et-al-AutoStepFinder](https://github.com/jacobkers/Loeff-Kerssemakers-et-al-AutoStepFinder)|Code associated with: AutoStepfinder: A fast and automated step detection method for single-molecule analysis Luuk Loeff, Jacob W J Kerssemakers et al, Patterns 2021 Apr 30;2(5):100256. doi: 10.1016/j ...|9|2024-06-12|
 |136|[Peakmit/Image-gradient-guided-wavefront-shaping](https://github.com/Peakmit/Image-gradient-guided-wavefront-shaping)|A numerical simulation code for image gradient guided wavefront shaping|8|2024-03-13|
@@ -188,23 +188,23 @@
 |181|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|
 |182|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|
 |183|[mahdi7700/ASMC](https://github.com/mahdi7700/ASMC)|This is a MATLAB Code related to the article "Adaptive Robust Control with Slipping Parameters Estimation Based on Intelligent Learning for Wheeled Mobile Robot". This code denotes ASMC method for the ...|5|2024-02-14|
-|184|[DeepDynaSim/Active-Vibration-Control-Complete-Guide](https://github.com/DeepDynaSim/Active-Vibration-Control-Complete-Guide)|A Comprehensive Guide to Active Control Methodology for Smart Beams|5|2023-12-30|
-|185|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|5|2024-06-28|
-|186|[MahfoudHerraz/IMU_sensor_fusion](https://github.com/MahfoudHerraz/IMU_sensor_fusion)|This repository contains different algorithms for attitude estimation (roll, pitch and yaw angles) from IMU sensors data: accelerometer, magnetometer and gyrometer measurements|5|2024-01-04|
-|187|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|
-|188|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |5|2024-06-29|
-|189|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|2024-05-23|
-|190|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|2024-06-20|
-|191|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|5|2024-03-27|
-|192|[weimin581/WSGGF](https://github.com/weimin581/WSGGF)|[PR'2024] ''Weighted side-window based gradient guided image filtering'', Weimin Yuan, Cai Meng, Xiangzhi Bai|5|2024-04-30|
-|193|[dakiefer/GEW_dispersion_script](https://github.com/dakiefer/GEW_dispersion_script)|Script to compute guided waves in plates.|5|2024-02-09|
-|194|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
-|195|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
-|196|[Thorlabs/Camera_Examples](https://github.com/Thorlabs/Camera_Examples)|Software examples for Thorlabs cameras (e.g. Zelux, Kiralux, Quantalux) and line sensors.|5|2024-04-02|
-|197|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|2024-01-29|
-|198|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
-|199|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
-|200|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
+|184|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|5|2024-06-28|
+|185|[MahfoudHerraz/IMU_sensor_fusion](https://github.com/MahfoudHerraz/IMU_sensor_fusion)|This repository contains different algorithms for attitude estimation (roll, pitch and yaw angles) from IMU sensors data: accelerometer, magnetometer and gyrometer measurements|5|2024-01-04|
+|186|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|
+|187|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |5|2024-06-29|
+|188|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|2024-05-23|
+|189|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|2024-06-20|
+|190|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|5|2024-03-27|
+|191|[weimin581/WSGGF](https://github.com/weimin581/WSGGF)|[PR'2024] ''Weighted side-window based gradient guided image filtering'', Weimin Yuan, Cai Meng, Xiangzhi Bai|5|2024-04-30|
+|192|[dakiefer/GEW_dispersion_script](https://github.com/dakiefer/GEW_dispersion_script)|Script to compute guided waves in plates.|5|2024-02-09|
+|193|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
+|194|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
+|195|[Thorlabs/Camera_Examples](https://github.com/Thorlabs/Camera_Examples)|Software examples for Thorlabs cameras (e.g. Zelux, Kiralux, Quantalux) and line sensors.|5|2024-04-02|
+|196|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|2024-01-29|
+|197|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
+|198|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
+|199|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
+|200|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|2024-04-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-06-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|20|2024-06-11|
 |15|[michael-ring/pico-fpcexamples](https://github.com/michael-ring/pico-fpcexamples)|Examples for programming the raspberry pi pico with FreePascal|17|2024-06-16|
 |16|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|17|2024-02-23|
-|17|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|15|2024-01-30|
+|17|[Code4Delphi/diretivas-de-compilacao-delphi](https://github.com/Code4Delphi/diretivas-de-compilacao-delphi)|Exemplos de uso de diretivas de compilação no Delphi / Examples of using compilation clauses in Delphi|16|2024-01-30|
 |18|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|13|2024-04-24|
 |19|[delphius/fpmailsend](https://github.com/delphius/fpmailsend)|Collection of working utilities and modules for sending a simple email message|11|2024-01-06|
 |20|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|2024-03-18|

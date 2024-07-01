@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|91|2024-05-27|2024-05-27|
+|1|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|93|2024-05-27|2024-05-27|
 |2|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|88|2024-04-30|2023-10-28|
 |3|[VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)|Collection of open-source templates created and maintained by Very Good Ventures.|49|2024-06-27|2023-12-14|
-|4|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🤖 (WIP) Package that automates cache management policies, using shared preferences under the hood.|46|2024-06-29|2023-09-18|
+|4|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🤖 Package that automates cache management policies, using shared preferences under the hood.|46|2024-06-30|2023-09-18|
 |5|[foss42/awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)|A curated list of useful Generative AI APIs for developers|41|2024-06-28|2024-04-27|
 |6|[lxpio/omnigram](https://github.com/lxpio/omnigram)|Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper ...|37|2024-04-25|2023-07-26|
 |7|[HeyFlutter-Public/Flutter-Fitness-Dashboard-UI](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI)|This is a complete Fitness Dashboard UI built in flutter. This repository is for education purpose so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.|33|2024-03-02|2024-03-02|
 |8|[Adrianns/flutter_clean_architecture](https://github.com/Adrianns/flutter_clean_architecture)|Repository with examples and good practices|29|2024-05-27|2024-04-15|
-|9|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|26|2024-06-25|2023-10-09|
+|9|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|26|2024-06-29|2023-10-09|
 |10|[maxonflutter/Flutter-Tips-And-Examples](https://github.com/maxonflutter/Flutter-Tips-And-Examples)|A collection of Flutter tips and small projects|25|2024-01-31|2023-07-04|
 |11|[RasmusKoit/abs_wear](https://github.com/RasmusKoit/abs_wear)|3rd party Audiobookshelf client for Wear OS|24|2024-04-23|2024-02-11|
 |12|[yakupemeksiz/my_favorite_books](https://github.com/yakupemeksiz/my_favorite_books)|This project uses Google Books API to fetch books and display them in a list. You can search for books using the search bar and add books to your favorites list. Remove them from the list if you wish.|20|2024-05-10|2024-02-13|
