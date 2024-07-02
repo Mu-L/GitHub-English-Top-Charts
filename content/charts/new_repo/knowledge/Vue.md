@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|512|2024-06-26|2023-11-21|
+|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|512|2024-07-01|2023-11-21|
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|280|2024-06-05|2024-01-03|
-|3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|171|2024-06-25|2024-02-11|
+|3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|173|2024-06-25|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|160|2024-04-23|2024-01-10|
 |5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|140|2024-06-30|2024-01-12|
-|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|123|2024-06-03|2024-05-29|
+|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|122|2024-06-03|2024-05-29|
 |7|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|100|2024-05-27|2023-08-04|
 |8|[Atinux/instadraw](https://github.com/Atinux/instadraw)|Share your drawings with the world.|98|2024-06-28|2024-06-10|
 |9|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|39|2024-03-29|2024-01-14|
 |10|[daver987/nuxt-docu-search-ai](https://github.com/daver987/nuxt-docu-search-ai)|Revolutionizing the way you learn Nuxt 3, Nuxt 3 DocuSearch AI provides instant, context-aware answers to your queries using GPT-4. Streamline your coding journey with this innovative, AI-powered tool ...|30|2024-06-18|2023-07-05|
-|11|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|24|2024-06-25|2024-01-01|
-|12|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|24|2024-01-27|2023-12-14|
+|11|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|25|2024-01-27|2023-12-14|
+|12|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|24|2024-07-01|2024-01-01|
 |13|[ikkkp/ocean](https://github.com/ikkkp/ocean)|Ocean是使用基于大语言模型文本知识向量抽取和Transformer构建的校园开源文库|19|2024-03-27|2023-11-11|
 |14|[yy4382/genshinvoice-import](https://github.com/yy4382/genshinvoice-import)|将 https://bv2.firefly.matce.cn 中的原神语音导入到小说软件中用于听书。目前完成了爱阅记的配置生成复制。|15|2024-05-15|2024-03-11|
 |15|[VemLavarALoucaGamers/vlalg-nimbus](https://github.com/VemLavarALoucaGamers/vlalg-nimbus)|This is an Open Source project by VLALG that aims to share JavaScript libs, VS Code extensions, Browser extensions and Vue.js 3 components|15|2024-04-25|2023-08-11|
@@ -25,13 +25,13 @@
 |18|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
 |19|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
 |20|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|12|2024-06-24|2023-12-12|
-|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-06-30|2023-11-10|
+|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-07-01|2023-11-10|
 |22|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
 |23|[egghunters/dxf-viewer-examples](https://github.com/egghunters/dxf-viewer-examples)|Examples for the x-viewer SDK, which is a WebGL-based BIM model viewer built on Three.js and Vue3. It is used to view DWG/DXF/PDF files.|11|2024-02-27|2024-01-01|
 |24|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-06-24|2023-12-11|
 |25|[Justin3go/weekly0](https://github.com/Justin3go/weekly0)|优质中文周刊导航网站--收刮中文互联网上的奇迹|10|2024-06-08|2024-06-06|
 |26|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-06-18|2023-12-01|
-|27|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|10|2024-06-28|2023-10-23|
+|27|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|10|2024-07-01|2023-10-23|
 |28|[gptscript-ai/story-book](https://github.com/gptscript-ai/story-book)|Generative story book powered by Nuxt and GPTScript|9|2024-04-25|2024-04-02|
 |29|[CharlieDigital/vue3-state-definemodel](https://github.com/CharlieDigital/vue3-state-definemodel)|A sample repository showing how to use defineModel in Vue 3.4 with composables to easily and cleanly manage state.|9|2024-01-22|2024-01-20|
 |30|[aufarijaal/online-book-store-frontend](https://github.com/aufarijaal/online-book-store-frontend)|Online Book Store frontend repo named Garadia 🍏|9|2024-06-18|2024-01-14|
@@ -39,18 +39,18 @@
 |32|[vueschool/vuejs-masterclass-2024-edition](https://github.com/vueschool/vuejs-masterclass-2024-edition)|Vue.js Master Class 2024 Edition|8|2024-05-29|2024-05-17|
 |33|[kirby-tools/kirby.tools](https://github.com/kirby-tools/kirby.tools)|🧰 A collection of Kirby plugins that empoweres editors and developers alike|8|2024-06-27|2024-03-21|
 |34|[omegarhovega/ARRRType](https://github.com/omegarhovega/ARRRType)|A typing game for pirates: Learning to type the awesome way.|8|2024-02-08|2024-01-10|
-|35|[scalar/sandbox](https://github.com/scalar/sandbox)|The easiest way to share OpenAPI files|8|2024-06-28|2024-01-09|
+|35|[scalar/sandbox](https://github.com/scalar/sandbox)|The easiest way to share OpenAPI files|8|2024-07-01|2024-01-09|
 |36|[archeryue/LearnWebInTen](https://github.com/archeryue/LearnWebInTen)|learn web development in 10 days|8|2024-06-23|2023-07-04|
 |37|[luckyhackersacademy/luckynotes](https://github.com/luckyhackersacademy/luckynotes)|The faster and simpler way to take notes and start learn&build in public|7|2024-05-02|2024-05-01|
 |38|[xiaozhangclassmater/miniVueBarrage-Vue3](https://github.com/xiaozhangclassmater/miniVueBarrage-Vue3)|Vue3 developed a bullet-screen component library, support a series of bullet-screen operations, delete pause and other rich features, and support transparency and so on, you can more easily operate it ...|7|2024-05-17|2024-01-06|
 |39|[hi-rustin/TiDB-101](https://github.com/hi-rustin/TiDB-101)|Learn the TiDB source code with a daily SQL statement: A journey of 30 SQLs.|7|2024-06-17|2023-11-06|
 |40|[FedotovN/vue-ui-kit](https://github.com/FedotovN/vue-ui-kit)|UI kit created with Vue, Typescript, Vitest and Storybook. Under development |7|2024-01-28|2023-09-16|
-|41|[2xAA/cookbook](https://github.com/2xAA/cookbook)|A cookbook repository for Cooklang files made with Nuxt 3, Vue 3 and Pinia.|6|2024-05-01|2024-04-07|
-|42|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|6|2024-06-30|2024-01-30|
-|43|[weiquanju/workspace-autoimport](https://github.com/weiquanju/workspace-autoimport)|Best practices: Vue3 how to auto import components|6|2024-01-25|2024-01-23|
-|44|[hostspaceng/community-challenge](https://github.com/hostspaceng/community-challenge)|Repo with code snippets and instructions for HostSpace community challenge|6|2024-03-19|2023-10-11|
-|45|[kaiqiangzhao/linkbook](https://github.com/kaiqiangzhao/linkbook)|LinkBook|6|2024-05-05|2023-07-16|
-|46|[RustLangES/rustmap](https://github.com/RustLangES/rustmap)|Nuestro Roadmap de Rust|5|2024-06-26|2024-05-03|
+|41|[RustLangES/rustmap](https://github.com/RustLangES/rustmap)|Nuestro Roadmap de Rust|6|2024-06-26|2024-05-03|
+|42|[2xAA/cookbook](https://github.com/2xAA/cookbook)|A cookbook repository for Cooklang files made with Nuxt 3, Vue 3 and Pinia.|6|2024-05-01|2024-04-07|
+|43|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|6|2024-07-01|2024-01-30|
+|44|[weiquanju/workspace-autoimport](https://github.com/weiquanju/workspace-autoimport)|Best practices: Vue3 how to auto import components|6|2024-01-25|2024-01-23|
+|45|[hostspaceng/community-challenge](https://github.com/hostspaceng/community-challenge)|Repo with code snippets and instructions for HostSpace community challenge|6|2024-03-19|2023-10-11|
+|46|[kaiqiangzhao/linkbook](https://github.com/kaiqiangzhao/linkbook)|LinkBook|6|2024-05-05|2023-07-16|
 |47|[zkSync-Community-Hub/community-code](https://github.com/zkSync-Community-Hub/community-code)|A collaborative repository featuring community-contributed guides for developing on zkSync Era.|5|2024-06-27|2024-04-24|
 |48|[rezansrv/G2-Intership](https://github.com/rezansrv/G2-Intership)|A site to display courses written with Nuxt2,Vue class based component,Typescript,Tailwindcss|5|2024-03-13|2023-12-06|
 |49|[healerlab/vue3-facebook-login](https://github.com/healerlab/vue3-facebook-login)|Facebook login component with Vue 3|5|2024-02-26|2023-09-04|

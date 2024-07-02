@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1466|2024-04-02|2023-08-10|
-|2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|649|2024-06-01|2023-07-04|
-|3|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|486|2024-06-29|2023-09-06|
-|4|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|236|2024-06-17|2024-02-11|
+|2|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|650|2024-06-01|2023-07-04|
+|3|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|496|2024-06-29|2023-09-06|
+|4|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|238|2024-06-17|2024-02-11|
 |5|[yun-long/Foundations-of-Robotics](https://github.com/yun-long/Foundations-of-Robotics)|Learn fundamental knowledge in robotics |161|2024-06-16|2024-05-13|
 |6|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|148|2024-04-24|2023-08-30|
-|7|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|137|2024-06-17|2024-01-30|
+|7|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|139|2024-06-17|2024-01-30|
 |8|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|119|2024-03-31|2024-01-02|
-|9|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |104|2024-06-18|2024-03-18|
+|9|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |106|2024-06-18|2024-03-18|
 |10|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |99|2024-03-15|2023-09-06|
-|11|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|80|2024-06-30|2024-02-08|
+|11|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|81|2024-07-01|2024-02-08|
 |12|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|69|2024-06-17|2024-01-30|
 |13|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|68|2024-06-28|2024-03-10|
 |14|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|2023-09-15|
@@ -105,14 +105,14 @@
 |98|[Fusyong/ConTeXt-templates-for-workbook-and-examination-paper](https://github.com/Fusyong/ConTeXt-templates-for-workbook-and-examination-paper)| a ConTeXt template for workbook and examination paper|4|2024-04-07|2023-08-12|
 |99|[wangheyu/DSA](https://github.com/wangheyu/DSA)|Data Structures and Algorithms|4|2024-01-17|2023-07-29|
 |100|[GfellerLab/MetacellAnalysisTutorial](https://github.com/GfellerLab/MetacellAnalysisTutorial)|Tutorial on construction and analysis of metacells |4|2024-03-07|2023-07-12|
-|101|[dachengx/cross_section](https://github.com/dachengx/cross_section)|A cross section calculation handbook for students|4|2024-06-17|2023-07-04|
+|101|[dachengx/cross_section](https://github.com/dachengx/cross_section)|A cross section calculation handbook for students|4|2024-07-01|2023-07-04|
 |102|[AC17dollars/thapathali-report-latex-template](https://github.com/AC17dollars/thapathali-report-latex-template)|This LaTeX template is crafted to assist students of Thapathali Campus, Institute of Engineering, Tribhuvan University (IOE TU) in preparing their project reports. It adheres as closely as possible to ...|3|2024-06-29|2024-06-22|
 |103|[michielskobe/complex-digital-design](https://github.com/michielskobe/complex-digital-design)|This is a summary of the Complex Digital Design course of the Bachelor of Engineering Technology at KU Leuven. |3|2024-06-06|2024-05-30|
 |104|[RagnarGrootKoerkamp/author-plot](https://github.com/RagnarGrootKoerkamp/author-plot)|Plot correlation between authors of papers|3|2024-05-26|2024-05-26|
 |105|[matloff/dsldBook](https://github.com/matloff/dsldBook)|A textbook on the use of quantitative methods related to discrimination in race, gender and so on.|3|2024-05-08|2024-04-19|
 |106|[gvwilson/mccole](https://github.com/gvwilson/mccole)|Lesson template using Ark|3|2024-04-28|2024-04-01|
 |107|[cybersecurity-polito/cryptography-exercises](https://github.com/cybersecurity-polito/cryptography-exercises)|Exercises from Politecnico di Torino's cryptography course. |3|2024-06-12|2024-03-13|
-|108|[OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks)|A collection of tricks to speed up transformer inference|3|2024-06-26|2024-03-11|
+|108|[OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks)|A collection of tricks to speed up transformer inference|3|2024-07-01|2024-03-11|
 |109|[Piraxe/HN-2023-Nevers](https://github.com/Piraxe/HN-2023-Nevers)|Repository for the 2024 git course in the Digital Humanities M1|3|2024-04-12|2024-03-10|
 |110|[anton-pershin/spbu-fundamentals-of-algorithms](https://github.com/anton-pershin/spbu-fundamentals-of-algorithms)|Materials for the practica for "Fundamentals of Algorithms" course at SpbU|3|2024-05-23|2024-03-09|
 |111|[kevchi9/uniud_db24](https://github.com/kevchi9/uniud_db24)|University project for db course 2023-2024|3|2024-03-21|2024-03-02|
@@ -128,17 +128,16 @@
 |121|[roualdes/MATH131](https://github.com/roualdes/MATH131)|Course materials for MATH 131 at Chico State - Introduction to Python|3|2024-02-14|2023-12-15|
 |122|[ARessegetesStery/Course-Notes](https://github.com/ARessegetesStery/Course-Notes)|Collective notes for courses I have taken|3|2024-06-04|2023-12-13|
 |123|[burakcaferler/Heuristic-Algorithms_GUI](https://github.com/burakcaferler/Heuristic-Algorithms_GUI)|Comparing Heuristic Algorithms with their plot in GUI using PyQT5|3|2024-01-06|2023-12-10|
-|124|[michielskobe/global-challenges](https://github.com/michielskobe/global-challenges)|This is a summary of the Massive Open Online Course (MOOC) 'KULeuvenX: Global Challenges for a Sustainable Society', based on the provided study guides part of the Engineering and Sustainability: Phil ...|3|2023-12-31|2023-12-03|
-|125|[ali-rajan/UTSC-Notes](https://github.com/ali-rajan/UTSC-Notes)|UTSC course notes in LaTeX|3|2024-02-07|2023-10-26|
-|126|[caporaso-lab/q2-books](https://github.com/caporaso-lab/q2-books)|A prototype collection of JupyterBooks documenting QIIME 2|3|2024-04-08|2023-10-23|
-|127|[frenzis01/UniPi-Notes](https://github.com/frenzis01/UniPi-Notes)|Personal notes from courses of the UniPi Master Degree in Computer Science|3|2024-06-28|2023-10-15|
-|128|[NBISweden/Training-Tech-shorts](https://github.com/NBISweden/Training-Tech-shorts)|Short lessons, training various technologies useful to our work.|3|2024-06-11|2023-10-09|
-|129|[YaelDillies/maths-notes](https://github.com/YaelDillies/maths-notes)|Lectures notes from the 2023-24 Cambridge Part III courses|3|2024-06-11|2023-10-05|
-|130|[sifferman/thesis](https://github.com/sifferman/thesis)|Ethan Sifferman Master's Thesis: "Advancing Synthesizable Verilog/SystemVerilog Education with Open-Source Tools and Autograders"|3|2024-01-09|2023-09-05|
-|131|[leoniewgnr/DataScienceCheatsheets](https://github.com/leoniewgnr/DataScienceCheatsheets)|Go-to resource for acing Data Science interviews! 🚀 Includes business case and coding cheat sheets in LaTeX. 📚💻📈|3|2024-01-28|2023-09-03|
-|132|[t1d333/TFL](https://github.com/t1d333/TFL)|Laboratory work for the course Theory of Formal Languages|3|2024-01-10|2023-09-02|
-|133|[IUDataStructuresCourse/course-web-page-fall-2023](https://github.com/IUDataStructuresCourse/course-web-page-fall-2023)|Web page for the Data Structures course, H343 Fall 2023|3|2024-01-08|2023-08-05|
-|134|[ViGeng/latex-template](https://github.com/ViGeng/latex-template)|Customed latex report template with useful snippets.|3|2024-02-20|2023-07-30|
+|124|[ali-rajan/UTSC-Notes](https://github.com/ali-rajan/UTSC-Notes)|UTSC course notes in LaTeX|3|2024-02-07|2023-10-26|
+|125|[caporaso-lab/q2-books](https://github.com/caporaso-lab/q2-books)|A prototype collection of JupyterBooks documenting QIIME 2|3|2024-04-08|2023-10-23|
+|126|[frenzis01/UniPi-Notes](https://github.com/frenzis01/UniPi-Notes)|Personal notes from courses of the UniPi Master Degree in Computer Science|3|2024-06-28|2023-10-15|
+|127|[NBISweden/Training-Tech-shorts](https://github.com/NBISweden/Training-Tech-shorts)|Short lessons, training various technologies useful to our work.|3|2024-06-11|2023-10-09|
+|128|[YaelDillies/maths-notes](https://github.com/YaelDillies/maths-notes)|Lectures notes from the 2023-24 Cambridge Part III courses|3|2024-06-11|2023-10-05|
+|129|[sifferman/thesis](https://github.com/sifferman/thesis)|Ethan Sifferman Master's Thesis: "Advancing Synthesizable Verilog/SystemVerilog Education with Open-Source Tools and Autograders"|3|2024-01-09|2023-09-05|
+|130|[leoniewgnr/DataScienceCheatsheets](https://github.com/leoniewgnr/DataScienceCheatsheets)|Go-to resource for acing Data Science interviews! 🚀 Includes business case and coding cheat sheets in LaTeX. 📚💻📈|3|2024-01-28|2023-09-03|
+|131|[t1d333/TFL](https://github.com/t1d333/TFL)|Laboratory work for the course Theory of Formal Languages|3|2024-01-10|2023-09-02|
+|132|[IUDataStructuresCourse/course-web-page-fall-2023](https://github.com/IUDataStructuresCourse/course-web-page-fall-2023)|Web page for the Data Structures course, H343 Fall 2023|3|2024-01-08|2023-08-05|
+|133|[ViGeng/latex-template](https://github.com/ViGeng/latex-template)|Customed latex report template with useful snippets.|3|2024-02-20|2023-07-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

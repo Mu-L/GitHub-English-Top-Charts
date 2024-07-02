@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > R
-<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|5867|2024-06-02|
-|2|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|4429|2024-06-17|
-|3|[swirldev/swirl_courses](https://github.com/swirldev/swirl_courses)|:mortar_board: A collection of interactive courses for the swirl R package.|4253|2024-01-10|
+|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|5868|2024-06-02|
+|2|[hadley/r4ds](https://github.com/hadley/r4ds)|R for data science: a book|4432|2024-06-17|
+|3|[swirldev/swirl_courses](https://github.com/swirldev/swirl_courses)|:mortar_board: A collection of interactive courses for the swirl R package.|4254|2024-01-10|
 |4|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|3436|2024-06-13|
-|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|2098|2024-06-26|
+|5|[rmcelreath/rethinking](https://github.com/rmcelreath/rethinking)|Statistical Rethinking course and book package|2099|2024-06-26|
 |6|[geocompx/geocompr](https://github.com/geocompx/geocompr)|Geocomputation with R: an open source book|1491|2024-06-26|
 |7|[EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)|Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜|1473|2024-01-27|
 |8|[hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)|Mastering Shiny: a book|1317|2024-06-20|
 |9|[EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer)|🎨🎨🎨 Collection of most color palettes in a single R package|874|2024-06-24|
-|10|[rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)|Repository for Programming Assignment 2 for R Programming on Coursera|819|2024-06-19|
+|10|[rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)|Repository for Programming Assignment 2 for R Programming on Coursera|819|2024-07-01|
 |11|[TheAlgorithms/R](https://github.com/TheAlgorithms/R)|Collection of various algorithms implemented in R.|805|2024-03-12|
 |12|[rstudio/learnr](https://github.com/rstudio/learnr)|Interactive Tutorials with R Markdown|704|2024-06-04|
 |13|[selva86/datasets](https://github.com/selva86/datasets)|A collection of datasets of ML problem solving|666|2024-05-19|
-|14|[mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)|A list of scRNA-seq analysis tools|571|2024-06-09|
-|15|[gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)|A list of awesome resources for Computational Social Science|481|2024-04-30|
+|14|[mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)|A list of scRNA-seq analysis tools|572|2024-06-09|
+|15|[gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)|A list of awesome resources for Computational Social Science|483|2024-04-30|
 |16|[mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR)|📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)|460|2024-04-15|
 |17|[Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data)|Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"|408|2024-03-08|
 |18|[MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R)|[Read-Only] All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"|326|2024-04-30|
@@ -29,35 +29,35 @@
 |22|[wch/rgcookbook](https://github.com/wch/rgcookbook)|R Graphics Cookbook |276|2024-02-04|
 |23|[schochastics/graphlayouts](https://github.com/schochastics/graphlayouts)|new layout algorithms for network visualizations in R|269|2024-03-11|
 |24|[ecpolley/SuperLearner](https://github.com/ecpolley/SuperLearner)|Current version of the SuperLearner R package|268|2024-02-19|
-|25|[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)|:postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study|253|2024-04-10|
-|26|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|232|2024-06-15|
+|25|[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)|:postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study|254|2024-04-10|
+|26|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|233|2024-06-15|
 |27|[r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics)|Landscape Metrics for Categorical Map Patterns 🗺️ in R|227|2024-06-26|
 |28|[max-alletsee/rstudio-themes](https://github.com/max-alletsee/rstudio-themes)|A collection of themes for RStudio|215|2024-04-22|
-|29|[mhahsler/recommenderlab](https://github.com/mhahsler/recommenderlab)|recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package|210|2024-03-18|
+|29|[mhahsler/recommenderlab](https://github.com/mhahsler/recommenderlab)|recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package|211|2024-03-18|
 |30|[r-spatial/qgisprocess](https://github.com/r-spatial/qgisprocess)|R package to use QGIS processing algorithms|196|2024-06-29|
 |31|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|183|2024-04-05|
 |32|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|181|2024-06-13|
 |33|[rstudio/vetiver-r](https://github.com/rstudio/vetiver-r)|Version, share, deploy, and monitor models|177|2024-03-18|
 |34|[saezlab/decoupleR](https://github.com/saezlab/decoupleR)|R package to infer biological activities from omics data using a collection of methods.|171|2024-04-11|
-|35|[GoekeLab/bambu](https://github.com/GoekeLab/bambu)|Reference-guided transcript discovery and quantification for long read RNA-Seq data |169|2024-05-03|
-|36|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|aRtsy is an R package that implements algorithms for making generative art in a straightforward and standardized manner using 'ggplot2'.|164|2024-06-30|
+|35|[GoekeLab/bambu](https://github.com/GoekeLab/bambu)|Reference-guided transcript discovery and quantification for long read RNA-Seq data |170|2024-05-03|
+|36|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|aRtsy is an R package that implements algorithms for making generative art in a straightforward and standardized manner using 'ggplot2'.|164|2024-07-01|
 |37|[asheshrambachan/HonestDiD](https://github.com/asheshrambachan/HonestDiD)|Robust inference in difference-in-differences and event study designs|161|2024-06-21|
-|38|[irinagain/Awesome-CGM](https://github.com/irinagain/Awesome-CGM)|List of CGM datasets|152|2024-06-07|
+|38|[irinagain/Awesome-CGM](https://github.com/irinagain/Awesome-CGM)|List of CGM datasets|153|2024-06-07|
 |39|[daroczig/fbRads](https://github.com/daroczig/fbRads)|Analyze and manage Facebook ads from R using this client library to access their Marketing APIs|150|2024-03-22|
 |40|[robjhyndman/fpp3package](https://github.com/robjhyndman/fpp3package)|All data sets required for the examples and exercises in the book "Forecasting: principles and practice" (3rd ed, 2020) by Rob J Hyndman and George Athanasopoulos <http://OTexts.org/fpp3/>.  All packa ...|130|2024-06-26|
 |41|[schochastics/edgebundle](https://github.com/schochastics/edgebundle)|R package implementing edge bundling algorithms|123|2024-02-28|
 |42|[dlab-berkeley/R-Deep-Learning](https://github.com/dlab-berkeley/R-Deep-Learning)|Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization|118|2024-04-09|
-|43|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Learning for mlr3|115|2024-06-28|
+|43|[mlr-org/mlr3proba](https://github.com/mlr-org/mlr3proba)|Probabilistic Learning for mlr3|116|2024-07-01|
 |44|[jumpingrivers/meetingsR](https://github.com/jumpingrivers/meetingsR)|A list of R conferences and user groups|101|2024-06-23|
 |45|[luca-scr/GA](https://github.com/luca-scr/GA)|An R package for optimization using genetic algorithms|90|2024-01-28|
 |46|[tidymodels/workflowsets](https://github.com/tidymodels/workflowsets)|Create a collection of modeling workflows|88|2024-03-21|
-|47|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|88|2024-06-30|
+|47|[mlr-org/mlr3learners](https://github.com/mlr-org/mlr3learners)|Recommended learners for mlr3|88|2024-07-01|
 |48|[akgold/do4ds](https://github.com/akgold/do4ds)|A book on DevOps for Data Scientists with CRC Press.|85|2024-03-29|
-|49|[Olink-Proteomics/OlinkRPackage](https://github.com/Olink-Proteomics/OlinkRPackage)|Olink R package: A collection of functions to facilitate analysis of proteomic data from Olink. The goal of this package is to help users extract  biological insights from proteomic data run on the Ol ...|83|2024-06-27|
+|49|[Olink-Proteomics/OlinkRPackage](https://github.com/Olink-Proteomics/OlinkRPackage)|Olink R package: A collection of functions to facilitate analysis of proteomic data from Olink. The goal of this package is to help users extract  biological insights from proteomic data run on the Ol ...|83|2024-07-01|
 |50|[zackbatist/open-archaeo](https://github.com/zackbatist/open-archaeo)|A list of open source archaeological software and resources|83|2024-02-06|
 |51|[teunbrand/gguidance](https://github.com/teunbrand/gguidance)|A 'ggplot2' extension that focusses on expanding the plotter's arsenal of guides, such as axes, legends and colour bars. It brings     various improvements to existing guides by re-implementation, as  ...|80|2024-06-02|
 |52|[ncborcherding/utility](https://github.com/ncborcherding/utility)|Collection of Tumor-Infiltrating Lymphocyte Single-Cell Experiments with TCR|80|2024-06-28|
-|53|[mlr-org/mlr3extralearners](https://github.com/mlr-org/mlr3extralearners)|Extra learners for use in mlr3.|80|2024-06-27|
+|53|[mlr-org/mlr3extralearners](https://github.com/mlr-org/mlr3extralearners)|Extra learners for use in mlr3.|80|2024-07-01|
 |54|[daniel1noble/metaDigitise](https://github.com/daniel1noble/metaDigitise)|Digitising functions in R for extracting data and summary statistics from figures in primary research papers|80|2024-06-15|
 |55|[rstudio/shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies)|Collection of bash scripts that install R package system dependencies|78|2024-05-22|
 |56|[kgoldfeld/simstudy](https://github.com/kgoldfeld/simstudy)|simstudy: Illuminating research methods through data generation|77|2024-06-29|
@@ -121,7 +121,7 @@
 |114|[sdellicour/seraphim](https://github.com/sdellicour/seraphim)|R package for studying environmental rasters and phylogenetic informed movements|27|2024-04-04|
 |115|[alexpkeil1/qgcomp](https://github.com/alexpkeil1/qgcomp)|QGcomp (quantile g-computation): estimating the effects of exposure mixtures. Works for continuous, binary, and right-censored survival outcomes. Flexible, unconstrained, fast and guided by modern cau ...|27|2024-06-29|
 |116|[PHBS/StoFin](https://github.com/PHBS/StoFin)|PHBS Stochastic Finance Course Website|27|2024-03-25|
-|117|[nhsengland/nhs-r-reporting](https://github.com/nhsengland/nhs-r-reporting)|A repository to share code, good practice, resources, and knowledge about using R across NHS England. |26|2024-06-27|
+|117|[nhsengland/nhs-r-reporting](https://github.com/nhsengland/nhs-r-reporting)|A repository to share code, good practice, resources, and knowledge about using R across NHS England. |26|2024-07-01|
 |118|[EvolEcolGroup/pastclim](https://github.com/EvolEcolGroup/pastclim)|An R package providing helper functions to interact with timeseries of worldwide climate reconstructions|26|2024-06-27|
 |119|[lgnbhl/polyglot](https://github.com/lgnbhl/polyglot)|🎓Use the R Console as an interactive learning environment|26|2024-05-27|
 |120|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|25|2024-02-07|
@@ -134,7 +134,7 @@
 |127|[bips-hb/pvm](https://github.com/bips-hb/pvm)|A collection of signal detection methods used in the field of pharmacovigilance |24|2024-02-05|
 |128|[hhhh5/ewastools](https://github.com/hhhh5/ewastools)|A collection of functions for working with DNA methylation microarrays (quality control, pre-processing, LC estimation, ...)|24|2024-01-28|
 |129|[nassernajibi/WGEN-v2.0](https://github.com/nassernajibi/WGEN-v2.0)|User Manual (Documentation Guide) for Stochastic Weather Generator v2.0|23|2024-03-17|
-|130|[mlr-org/mlr3torch](https://github.com/mlr-org/mlr3torch)|Deep learning framework for the mlr3 ecosystem based on torch|23|2024-06-29|
+|130|[mlr-org/mlr3torch](https://github.com/mlr-org/mlr3torch)|Deep learning framework for the mlr3 ecosystem based on torch|23|2024-07-01|
 |131|[CrumpLab/cognition](https://github.com/CrumpLab/cognition)|A free introductory course for cognitive psychology at the undergraduate level|23|2024-06-25|
 |132|[abodein/timeOmics](https://github.com/abodein/timeOmics)|Time-Course Multi-Omics data integration|23|2024-04-09|
 |133|[ajwills72/catlearn](https://github.com/ajwills72/catlearn)|Formal Psychological Models of Categorization and Learning|23|2024-02-02|
@@ -198,10 +198,10 @@
 |191|[mrc-ide/reactidd](https://github.com/mrc-ide/reactidd)|This repository supports epidemiological and disease-dynamic analyses of data from the REal Time Assessment of Community Transmission (REACT) study. It includes both code and data. For code-related en ...|15|2024-05-09|
 |192|[bnicenboim/bcogsci](https://github.com/bnicenboim/bcogsci)|Datasets and models included in the book "An Introduction to Bayesian Data Analysis for Cognitive Science".|15|2024-06-27|
 |193|[jbferet/prospect](https://github.com/jbferet/prospect)|R package for the simulation of leaf optical properties based on their biochemical and biophysical properties using the PROSPECT leaf model. A tutorial can be found on the gitlab website|15|2024-02-08|
-|194|[SimonDedman/gbm.auto](https://github.com/SimonDedman/gbm.auto)|Machine-learning Boosted Regression Tree software suite for species distribution modelling in R|15|2024-02-06|
-|195|[fabiolexcastro/tutorials_youtube](https://github.com/fabiolexcastro/tutorials_youtube)|Tutoriales de YouTube|14|2024-01-02|
-|196|[libjohn/workshop_webscraping](https://github.com/libjohn/workshop_webscraping)|Using rvest and the tidyverse to scrape web sites.  A case study.|14|2024-01-20|
-|197|[mdozmorov/Aging_clock](https://github.com/mdozmorov/Aging_clock)|Data and papers related to epigenetic clocks predicting age|14|2024-04-30|
+|194|[mdozmorov/Aging_clock](https://github.com/mdozmorov/Aging_clock)|Data and papers related to epigenetic clocks predicting age|15|2024-04-30|
+|195|[SimonDedman/gbm.auto](https://github.com/SimonDedman/gbm.auto)|Machine-learning Boosted Regression Tree software suite for species distribution modelling in R|15|2024-02-06|
+|196|[fabiolexcastro/tutorials_youtube](https://github.com/fabiolexcastro/tutorials_youtube)|Tutoriales de YouTube|14|2024-01-02|
+|197|[libjohn/workshop_webscraping](https://github.com/libjohn/workshop_webscraping)|Using rvest and the tidyverse to scrape web sites.  A case study.|14|2024-01-20|
 |198|[krcarriere/PSYCH](https://github.com/krcarriere/PSYCH)|PSYCH - Psychological Statistics You Can Handle (Swirl Course)|14|2024-06-25|
 |199|[ncchung/jackstraw](https://github.com/ncchung/jackstraw)|Statistical Inference for Unsupervised Learning|14|2024-02-16|
 |200|[ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e)|Course material for MF9130E|13|2024-04-24|

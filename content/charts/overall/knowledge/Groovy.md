@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |757|2024-05-31|
 |2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|593|2024-06-18|
-|3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|286|2024-06-24|
+|3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|286|2024-07-01|
 |4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|153|2024-05-17|
 |5|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|126|2024-06-27|
 |6|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|75|2024-04-02|
 |7|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|73|2024-05-16|
-|8|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|69|2024-06-26|
+|8|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|69|2024-07-01|
 |9|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare,  ...|54|2024-06-30|
 |10|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |39|2024-06-28|
-|11|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|36|2024-05-29|
+|11|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|36|2024-07-01|
 |12|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|31|2024-06-26|
 |13|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|30|2024-03-25|
-|14|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-06-28|
+|14|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-07-01|
 |15|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|25|2024-06-13|
 |16|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|24|2024-06-28|
 |17|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|22|2024-04-03|
@@ -30,7 +30,7 @@
 |23|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|2024-06-29|
 |24|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|2024-05-01|
 |25|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|2024-06-21|
-|26|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|2024-06-25|
+|26|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|2024-07-01|
 |27|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|9|2024-03-27|
 |28|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|9|2024-05-23|
 |29|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|8|2024-03-31|
@@ -50,7 +50,7 @@
 |43|[infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)|Useful scripting examples for ReportServer|4|2024-06-18|
 |44|[Hubbitus/groovy-test-examples](https://github.com/Hubbitus/groovy-test-examples)|Groovy findings, snippets, examples. Mostly for memorize and sharing.|4|2024-06-17|
 |45|[gabriel-rodrigues-f/btp-samples](https://github.com/gabriel-rodrigues-f/btp-samples)|Useful code snippets for use in SAP Cloud Integration integrations|3|2024-05-20|
-|46|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-06-30|
+|46|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-07-01|
 |47|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-04-14|
 |48|[erwa55/flex-news-nlp](https://github.com/erwa55/flex-news-nlp)|Here's a little project showing how to ingest data into Flex from an external source.  And how to categorize them dynamically while respecting our Flex data model using an NLP. |2|2024-01-02|
 |49|[vegaprotocol/jenkins-shared-library](https://github.com/vegaprotocol/jenkins-shared-library)|Jenkins shared library for Vega pipeline needs|2|2024-01-12|

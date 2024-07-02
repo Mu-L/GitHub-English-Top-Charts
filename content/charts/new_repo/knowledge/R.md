@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-07-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|232|2024-06-15|2023-09-03|
+|1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|233|2024-06-15|2023-09-03|
 |2|[milos-agathon/3d-land-cover-map](https://github.com/milos-agathon/3d-land-cover-map)| Learn how to harness the power of ESRI Living Atlas of the World Sentinel-2 Global Land Cover data at an incredible 10m resolution to create ultra-crisp 3D elevation and land cover maps using rayshad ...|25|2024-02-07|2023-12-09|
 |3|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|22|2024-06-19|2023-12-20|
 |4|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|22|2024-06-24|2023-09-22|
