@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6719|2|2024-06-01|
+|1|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6721|2|2024-06-01|
 |2|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|251|2|2024-05-24|
 |3|[E-vogel/Governor_Simulink](https://github.com/E-vogel/Governor_Simulink)|-|3|1|2024-06-28|
 |4|[nasa/Generic-Urban-Air-Mobility-GUAM](https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM)|-|34|1|2024-05-24|
-|5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2403|1|2024-01-15|
+|5|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2404|1|2024-01-15|
 |6|[Yuyyyuuu/PostProccess-PDR](https://github.com/Yuyyyuuu/PostProccess-PDR)|-|8|1|2024-06-18|
 |7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|627|1|2024-07-01|
 |8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|692|1|2024-05-28|
 |9|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|10|1|2024-06-23|
 |10|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|9|1|2024-06-18|
-|11|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|32|1|2024-07-01|
-|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1493|1|2024-06-24|
+|11|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|33|1|2024-07-02|
+|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1494|1|2024-06-24|
 |13|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |14|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|7|0|2024-05-29|
 |15|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|4|0|2024-03-02|
@@ -38,7 +38,7 @@
 |31|[WPT-Lab124/Modified-Diode-Model](https://github.com/WPT-Lab124/Modified-Diode-Model)|The Modified Diode Model for Perovskite Photovoltaics|3|0|2024-04-12|
 |32|[mad-stat/CPSC-001](https://github.com/mad-stat/CPSC-001)|-|4|0|2024-05-27|
 |33|[mhamilt/CoupledFDPlateAndString](https://github.com/mhamilt/CoupledFDPlateAndString)|Finite difference modelling of Kirchhoff thin plate coupled with stiff string(s)|10|0|2024-05-20|
-|34|[paulpanwang/Underwater-Image-De-Scattering](https://github.com/paulpanwang/Underwater-Image-De-Scattering)|De-scattering and edge enhancing are critical procedures for underwater images which surfer from serious detail loss, color deviation and blurring. In this work, a novel method has been proposed to en ...|51|0|2024-06-03|
+|34|[paulpanwang/Underwater-Image-De-Scattering](https://github.com/paulpanwang/Underwater-Image-De-Scattering)|De-scattering and edge enhancing are critical procedures for underwater images which surfer from serious detail loss, color deviation and blurring. In this work, a novel method has been proposed to en ...|52|0|2024-06-03|
 |35|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|465|0|2024-02-23|
 |36|[Bracktus/bits-n-bobs](https://github.com/Bracktus/bits-n-bobs)|Some university work and other stuff|4|0|2024-07-01|
 |37|[ChenFengling/HiCpipe](https://github.com/ChenFengling/HiCpipe)|an efficient Hi-C data processing pipeline|15|0|2024-03-26|
@@ -46,7 +46,7 @@
 |39|[SimonTao0831/Robot-arm-writes-word](https://github.com/SimonTao0831/Robot-arm-writes-word)|A UR5e robotic arm model was created in MATLAB and used to write the word "FLOW". A quintic spline interpolation method was implemented to generate the end-effect trajectories.|3|0|2024-01-05|
 |40|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2 and 3|24|0|2024-02-06|
 |41|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|5|0|2024-01-04|
-|42|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|103|0|2024-06-14|
+|42|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|104|0|2024-06-14|
 |43|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|9|0|2024-03-26|
 |44|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |25|0|2024-05-07|
 |45|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
@@ -55,7 +55,7 @@
 |48|[xsources/Matlab-simulation-of-Schramm-Loewner-Evolution](https://github.com/xsources/Matlab-simulation-of-Schramm-Loewner-Evolution)|Description and analysis of some mathematical/physics phenomena by using simulation|17|0|2024-04-21|
 |49|[Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control](https://github.com/Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control)|Implementation of "B. Nortmann and T. Mylvaganam, "Data-Driven Control of Linear Time-Varying Systems," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju, Korea (South), 2020, pp. 3939-394 ...|3|0|2024-05-23|
 |50|[jchelikowsky/Matlab_Real_Space](https://github.com/jchelikowsky/Matlab_Real_Space)|Electronic structure code for molecules and clusters|29|0|2024-04-19|
-|51|[TUW-VieVS/VLBI](https://github.com/TUW-VieVS/VLBI)|VLBI module of VieVS|20|0|2024-06-11|
+|51|[TUW-VieVS/VLBI](https://github.com/TUW-VieVS/VLBI)|VLBI module of VieVS|20|0|2024-07-02|
 |52|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|13|0|2024-06-20|
 |53|[ivsg-psu/PathPlanning_PathTools_PathClassLibrary](https://github.com/ivsg-psu/PathPlanning_PathTools_PathClassLibrary)|This is the Path class library for MATLAB and listing of all functions within this class.|5|0|2024-06-20|
 |54|[uamughal/V2X-System-Level-Simulator](https://github.com/uamughal/V2X-System-Level-Simulator)|This repository provides the System Level implementation of the V2X communication. It provides V2V sidelink communication using PC5 Interface as well as V2I Communication using Uu interface. |4|0|2024-01-28|
@@ -69,7 +69,7 @@
 |62|[PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs](https://github.com/PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs)|Source Code for research: Light Field Depth Estimation Based on Stitched-EPIs|3|0|2024-01-18|
 |63|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-30|
 |64|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
-|65|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-06-25|
+|65|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-07-02|
 |66|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|179|0|2024-05-02|
 |67|[SyedShehryarAli/EV-Speed-Control-](https://github.com/SyedShehryarAli/EV-Speed-Control-)|This repository contains the Electric Vehicle (EV) dataset and Matlab code for speed control and energy efficiency in EVs using Optimization Techniques|3|0|2024-03-04|
 |68|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|3|0|2024-05-14|
@@ -120,7 +120,7 @@
 |113|[dnafinder/logistic5](https://github.com/dnafinder/logistic5)|Five parameters logistic regression|5|0|2024-02-16|
 |114|[LaibinChang/Enhancement-Registration-Homogenization](https://github.com/LaibinChang/Enhancement-Registration-Homogenization)|-|3|0|2024-06-30|
 |115|[renweidian/GTNN](https://github.com/renweidian/GTNN)|-|4|0|2024-04-12|
-|116|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|15|0|2024-05-23|
+|116|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|16|0|2024-05-23|
 |117|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|8|0|2024-02-18|
 |118|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|43|0|2024-06-03|
 |119|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|15|0|2024-03-26|
@@ -140,7 +140,7 @@
 |133|[BrownSpaceEngineering/adcs](https://github.com/BrownSpaceEngineering/adcs)|Repository for BSE Attitude Determination and Control System|3|0|2024-04-19|
 |134|[preethamam/RGBDtoPointCloud](https://github.com/preethamam/RGBDtoPointCloud)|Creates point clouds from color and depth (RGB-D) images.|4|0|2024-03-29|
 |135|[asgaspar/OpenMOLLI-SMS](https://github.com/asgaspar/OpenMOLLI-SMS)|Simultaneous Multi-Slice Open-source Inversion recovery myocardial T1 mapping sequence for fast prototyping|3|0|2024-02-19|
-|136|[baddoo/piDMD](https://github.com/baddoo/piDMD)|MATLAB codes for physics-informed dynamic mode decomposition (piDMD)|116|0|2024-02-21|
+|136|[baddoo/piDMD](https://github.com/baddoo/piDMD)|MATLAB codes for physics-informed dynamic mode decomposition (piDMD)|117|0|2024-02-21|
 |137|[PacktPublishing/MATLAB-for-Machine-Learning-second-edition](https://github.com/PacktPublishing/MATLAB-for-Machine-Learning-second-edition)|MATLAB for Machine Learning - second edition, Published by Packt|6|0|2024-02-02|
 |138|[kjamartens/TARDIS-public](https://github.com/kjamartens/TARDIS-public)|Public releases of TARDIS|10|0|2024-02-02|
 |139|[JianpingWang-TUD/InterferenceMitigation_IM-SPARKLE](https://github.com/JianpingWang-TUD/InterferenceMitigation_IM-SPARKLE)|-|7|0|2024-06-30|
@@ -204,7 +204,7 @@
 |197|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|3|0|2024-07-01|
 |198|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-02-21|
 |199|[awohns/ldgm](https://github.com/awohns/ldgm)|Software for linkage disequilibrium graphical models|14|0|2024-03-04|
-|200|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|21|0|2024-03-28|
+|200|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|3|0|2024-07-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

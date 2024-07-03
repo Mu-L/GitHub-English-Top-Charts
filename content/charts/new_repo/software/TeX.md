@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|428|2024-06-30|2023-07-06|
-|2|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |271|2024-06-01|2023-12-17|
+|1|[yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)|A growing curation of Text-to-3D, Diffusion-to-3D works.|429|2024-06-30|2023-07-06|
+|2|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |272|2024-06-01|2023-12-17|
 |3|[kikzontop/SynapseX-free](https://github.com/kikzontop/SynapseX-free)|-|206|2024-04-12|2024-03-23|
 |4|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |180|2024-02-17|2024-02-17|
 |5|[scastiel/book-pr](https://github.com/scastiel/book-pr)|Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.|170|2024-01-20|2023-10-13|
@@ -14,7 +14,7 @@
 |7|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|129|2024-06-09|2023-11-19|
 |8|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|85|2024-06-19|2023-08-10|
 |9|[jamesfang8499/math6-1](https://github.com/jamesfang8499/math6-1)|-|81|2024-05-30|2024-05-28|
-|10|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|76|2024-07-01|2024-04-17|
+|10|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|76|2024-07-02|2024-04-17|
 |11|[tsoding/articles](https://github.com/tsoding/articles)|Here I keep some thoughts that I always wanted to write down somewhere, but never knew where.|74|2024-06-14|2024-06-12|
 |12|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|73|2024-04-23|2024-02-29|
 |13|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|69|2024-06-29|2023-11-20|
@@ -23,12 +23,12 @@
 |16|[sysprog21/concurrency-primer](https://github.com/sysprog21/concurrency-primer)|Concurrency Primer|63|2024-06-29|2024-04-01|
 |17|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Create a unique looking CV from scratch. |59|2024-06-27|2023-10-26|
 |18|[gaoxiang12/slam-in-ad-en](https://github.com/gaoxiang12/slam-in-ad-en)|English version of slam in autunomous driving|56|2024-04-07|2024-03-13|
-|19|[artela-network/aspect-whitepaper](https://github.com/artela-network/aspect-whitepaper)|-|55|2024-06-03|2023-07-14|
+|19|[artela-network/aspect-whitepaper](https://github.com/artela-network/aspect-whitepaper)|-|56|2024-06-03|2023-07-14|
 |20|[FrogGuaGuaGua/HighSchoolMathematics](https://github.com/FrogGuaGuaGua/HighSchoolMathematics)|High school mathematics.|54|2024-05-01|2024-03-29|
 |21|[synlp/RRG-Review](https://github.com/synlp/RRG-Review)|The official GitHub repository of the survey paper "A Systematic Review of Deep Learning-based Research on Radiology Report Generation".|52|2024-05-29|2023-11-23|
 |22|[leduyquang753/uet-graduation-latex](https://github.com/leduyquang753/uet-graduation-latex)|A document class for VNU-UET graduation documents using LaTeX.|47|2024-05-22|2024-05-17|
 |23|[eccv24/paper-template](https://github.com/eccv24/paper-template)|ECCV 2024 paper template|47|2024-02-11|2023-11-24|
-|24|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|47|2024-01-04|2023-10-03|
+|24|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|47|2024-07-02|2023-10-03|
 |25|[thorfdbg/rkrm-dos](https://github.com/thorfdbg/rkrm-dos)|An RKRM-style reference of AmigaDOS/dos.library|46|2024-06-28|2023-08-13|
 |26|[Erik-Cupsa/ResumeTemplate](https://github.com/Erik-Cupsa/ResumeTemplate)|Latex file for resume template|44|2024-01-02|2024-01-01|
 |27|[hyperlocal-manufacturing/towers](https://github.com/hyperlocal-manufacturing/towers)|Miniature, modular, indoor, hydroponic grow towers for home|43|2024-03-03|2023-11-25|
@@ -36,22 +36,22 @@
 |29|[matcom/dm](https://github.com/matcom/dm)|Notas de conferencias, ejercicios, y exámenes, de las asignaturas Matemática Discreta I y II|41|2024-04-30|2023-09-10|
 |30|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|38|2024-04-02|2024-04-01|
 |31|[stettberger/notebook](https://github.com/stettberger/notebook)|-|38|2024-04-26|2024-02-26|
-|32|[luckyfan-cs/Template-of-HKUST-GZ-Thesis](https://github.com/luckyfan-cs/Template-of-HKUST-GZ-Thesis)|-|36|2024-07-01|2023-12-19|
+|32|[luckyfan-cs/Template-of-HKUST-GZ-Thesis](https://github.com/luckyfan-cs/Template-of-HKUST-GZ-Thesis)|-|37|2024-07-01|2023-12-19|
 |33|[briland/LLM-security-and-privacy](https://github.com/briland/LLM-security-and-privacy)|LLM security and privacy|36|2024-04-15|2023-08-30|
 |34|[llms-heart-mir/tutorial](https://github.com/llms-heart-mir/tutorial)|-|34|2024-06-16|2024-04-27|
 |35|[ValeriiZhyla/cv](https://github.com/ValeriiZhyla/cv)|-|32|2024-02-25|2024-02-11|
-|36|[Thifigma/UBL-ciencia-da-computacao](https://github.com/Thifigma/UBL-ciencia-da-computacao)|Registro da minha trajetória na Universidade Brasileira Livre no curso de Ciência da Computação.|30|2024-06-15|2024-01-12|
+|36|[Thifigma/UBL-ciencia-da-computacao](https://github.com/Thifigma/UBL-ciencia-da-computacao)|Registro da minha trajetória na Universidade Brasileira Livre no curso de Ciência da Computação.|30|2024-07-02|2024-01-12|
 |37|[mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resume)|Jake's Resume alternative for students|30|2024-01-16|2023-08-16|
 |38|[catppuccin/latex](https://github.com/catppuccin/latex)|✨ Soothing pastel theme for LaTeX|29|2024-06-02|2024-02-14|
 |39|[OWASP/www-project-llm-verification-standard](https://github.com/OWASP/www-project-llm-verification-standard)|Project LLM Verification Standard|29|2024-04-10|2023-08-08|
 |40|[riskframe/ai-rmm](https://github.com/riskframe/ai-rmm)|AI Resilience Maturity Model|27|2024-05-13|2024-02-05|
 |41|[Mixtape-Sessions/Design-Based-Inference](https://github.com/Mixtape-Sessions/Design-Based-Inference)|Design-Based Inference Mixtape Session taught by Peter Hull|25|2024-04-27|2023-07-22|
-|42|[rstar24/lazy-file-job](https://github.com/rstar24/lazy-file-job)|Some Practise and fun|24|2024-05-05|2024-04-29|
-|43|[zhikh23/iu7-lectures](https://github.com/zhikh23/iu7-lectures)|Конспекты лекций 1-го курса 2023 года МГТУ им. Н.Э.Баумана ИУ7 "Программная инженерия"|24|2024-04-05|2023-10-01|
-|44|[gregorycoppola/bayes-star](https://github.com/gregorycoppola/bayes-star)|Implementation|23|2024-05-28|2023-12-12|
-|45|[Strik0r-QF/Politics](https://github.com/Strik0r-QF/Politics)|-|22|2024-06-30|2024-04-13|
-|46|[ro-smtz/ars_mathematica.io](https://github.com/ro-smtz/ars_mathematica.io)|This is the official repository of the Ars Mathematica Project|22|2024-05-30|2024-01-02|
-|47|[ivo3123/DifferentialEquations](https://github.com/ivo3123/DifferentialEquations)|-|21|2024-07-01|2024-06-06|
+|42|[ivo3123/DifferentialEquations](https://github.com/ivo3123/DifferentialEquations)|-|24|2024-07-02|2024-06-06|
+|43|[rstar24/lazy-file-job](https://github.com/rstar24/lazy-file-job)|Some Practise and fun|24|2024-05-05|2024-04-29|
+|44|[zhikh23/iu7-lectures](https://github.com/zhikh23/iu7-lectures)|Конспекты лекций 1-го курса 2023 года МГТУ им. Н.Э.Баумана ИУ7 "Программная инженерия"|24|2024-04-05|2023-10-01|
+|45|[gregorycoppola/bayes-star](https://github.com/gregorycoppola/bayes-star)|Implementation|23|2024-05-28|2023-12-12|
+|46|[Strik0r-QF/Politics](https://github.com/Strik0r-QF/Politics)|-|22|2024-06-30|2024-04-13|
+|47|[ro-smtz/ars_mathematica.io](https://github.com/ro-smtz/ars_mathematica.io)|This is the official repository of the Ars Mathematica Project|22|2024-05-30|2024-01-02|
 |48|[ionathanch/parapoly](https://github.com/ionathanch/parapoly)|A LaTeX-typeset reproduction of Reynolds' "Types, Abstraction and Parametric Polymorphism"|21|2024-05-09|2024-04-09|
 |49|[latex3/tagging-project](https://github.com/latex3/tagging-project)|Issues related to the tagging project|21|2024-07-01|2023-07-10|
 |50|[openlanguagedata/seed](https://github.com/openlanguagedata/seed)|Seed Machine Translation Data|20|2024-06-17|2023-10-12|
@@ -61,11 +61,11 @@
 |54|[shd/logic2023a](https://github.com/shd/logic2023a)|-|19|2024-03-14|2023-09-02|
 |55|[sondt1337/Distributed-Computing](https://github.com/sondt1337/Distributed-Computing)|Distributed Computing Interaction Framework: Optimizing the algorithm with the Server-Worker model|18|2024-03-12|2024-01-14|
 |56|[biomedia-mira/demystifying-diffusion](https://github.com/biomedia-mira/demystifying-diffusion)|-|18|2024-01-15|2024-01-11|
-|57|[GKxxQAQ/CS100-slides-spring2024](https://github.com/GKxxQAQ/CS100-slides-spring2024)|-|17|2024-06-12|2024-02-24|
-|58|[ChristofferDahlen/Pathfinder-Cheatsheet](https://github.com/ChristofferDahlen/Pathfinder-Cheatsheet)|-|17|2024-06-07|2024-02-22|
-|59|[HarrisonGrodin/ATPL24](https://github.com/HarrisonGrodin/ATPL24)|Notes for Advanced Topics in Foundations of Programming Languages (Spring 2024)|17|2024-05-10|2024-01-23|
-|60|[Mixtape-Sessions/Causal-Inference-3](https://github.com/Mixtape-Sessions/Causal-Inference-3)|Causal Inference 3 Mixtape Session taught by Scott Cunningham|17|2024-04-07|2023-07-26|
-|61|[sonnh-uit/HCMUIT_thesistemplate](https://github.com/sonnh-uit/HCMUIT_thesistemplate)|-|17|2024-07-01|2023-07-19|
+|57|[sonnh-uit/HCMUIT_thesistemplate](https://github.com/sonnh-uit/HCMUIT_thesistemplate)|-|18|2024-07-01|2023-07-19|
+|58|[GKxxQAQ/CS100-slides-spring2024](https://github.com/GKxxQAQ/CS100-slides-spring2024)|-|17|2024-06-12|2024-02-24|
+|59|[ChristofferDahlen/Pathfinder-Cheatsheet](https://github.com/ChristofferDahlen/Pathfinder-Cheatsheet)|-|17|2024-06-07|2024-02-22|
+|60|[HarrisonGrodin/ATPL24](https://github.com/HarrisonGrodin/ATPL24)|Notes for Advanced Topics in Foundations of Programming Languages (Spring 2024)|17|2024-05-10|2024-01-23|
+|61|[Mixtape-Sessions/Causal-Inference-3](https://github.com/Mixtape-Sessions/Causal-Inference-3)|Causal Inference 3 Mixtape Session taught by Scott Cunningham|17|2024-04-07|2023-07-26|
 |62|[jzarnett/mte241](https://github.com/jzarnett/mte241)|MTE 241: Introduction to Computer Structures & Real-Time Systems|16|2024-06-29|2024-03-02|
 |63|[TheEngineer98/LaTeX-Vorlage-Unbranded](https://github.com/TheEngineer98/LaTeX-Vorlage-Unbranded)|Dies ist eine ungebrandete Version meiner LaTeX-Vorlage, die meine Studenten für Projekt- und Abschlussarbeiten ausgehändigt bekommen. Verbesserungspotenzial besteht immer, weshalb dies auch WIP ist.  ...|16|2024-02-23|2024-02-22|
 |64|[xiamyphys/LaTeX-General-Relativity-R.Wald](https://github.com/xiamyphys/LaTeX-General-Relativity-R.Wald)|-|16|2024-02-09|2024-02-08|
@@ -88,13 +88,13 @@
 |81|[tongpf/PKU_beamer_lightweight_designed](https://github.com/tongpf/PKU_beamer_lightweight_designed)|Peking University (PKU) styled beamer template|12|2024-01-15|2024-01-15|
 |82|[AstariaXYZ/starport-whitepaper](https://github.com/AstariaXYZ/starport-whitepaper)|Whitepaper for the Starport Lending Kernel and Astaria v1|12|2024-06-04|2024-01-02|
 |83|[zongpingding/Calculus_On_Manifolds_Michael_Spivak](https://github.com/zongpingding/Calculus_On_Manifolds_Michael_Spivak)|-|12|2024-04-29|2023-12-05|
-|84|[exo7math/mathgame-exo7](https://github.com/exo7math/mathgame-exo7)|Mathématiques pour les jeux vidéo|12|2024-07-01|2023-08-28|
+|84|[exo7math/mathgame-exo7](https://github.com/exo7math/mathgame-exo7)|Mathématiques pour les jeux vidéo|12|2024-07-02|2023-08-28|
 |85|[ramiromagno/wiley-njd](https://github.com/ramiromagno/wiley-njd)|Wiley's New Journal Design (NJD) Latex Authoring Template|12|2024-02-21|2023-07-17|
 |86|[yijizhao/BJTU-Thesis-Latex](https://github.com/yijizhao/BJTU-Thesis-Latex)|-|11|2024-04-19|2024-03-24|
 |87|[rahul3613/ProofNet-lean4](https://github.com/rahul3613/ProofNet-lean4)|ProofNet dataset ported into Lean 4|11|2024-05-07|2024-03-04|
 |88|[ImperialCollegeLondon/imperial_latex_templates](https://github.com/ImperialCollegeLondon/imperial_latex_templates)|Official LaTeX templates employing the Imperial College London brand.|11|2024-05-31|2024-02-19|
 |89|[54dbd/Bibtex-to-GBT7714-2015](https://github.com/54dbd/Bibtex-to-GBT7714-2015)|[Bib2GB]Converting bibtex file to GB/T 7714-2015 format.Bib文件转国标7714|11|2024-05-30|2024-01-16|
-|90|[fpvandoorn/carleson](https://github.com/fpvandoorn/carleson)|A formalized proof of Carleson's theorem in Lean|11|2024-07-01|2023-10-20|
+|90|[fpvandoorn/carleson](https://github.com/fpvandoorn/carleson)|A formalized proof of Carleson's theorem in Lean|11|2024-07-02|2023-10-20|
 |91|[ImanRHT/QECO_IEEEJournal](https://github.com/ImanRHT/QECO_IEEEJournal)|QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing|11|2024-03-26|2023-09-27|
 |92|[Vladar4/retrotype](https://github.com/Vladar4/retrotype)|Retrotype aims to replicate the look of old typewriter-made documents while keeping as many benefits of LaTeX as possible.|10|2024-06-20|2024-06-14|
 |93|[pigworker/MS4P](https://github.com/pigworker/MS4P)|being some thoughts about introductory mathematics for computer science|10|2024-05-09|2024-05-08|
@@ -122,7 +122,7 @@
 |115|[ntut-xuan/NTUT-Thesis-Template](https://github.com/ntut-xuan/NTUT-Thesis-Template)|A XeLaTeX thesis template for National Taipei University of Technology.|8|2024-07-01|2024-04-28|
 |116|[chagaz/sdd_2024](https://github.com/chagaz/sdd_2024)|Cours de science des données en 1A à Mines Paris - PSL (2024)|8|2024-06-20|2024-04-26|
 |117|[liantze/beamerthemeMirage](https://github.com/liantze/beamerthemeMirage)|A beamer theme inspired by the "Mirage" song poster|8|2024-05-19|2024-04-14|
-|118|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|8|2024-07-01|2024-04-13|
+|118|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|8|2024-07-02|2024-04-13|
 |119|[AlmostGPH/SDU-Latex-Template-for-Document](https://github.com/AlmostGPH/SDU-Latex-Template-for-Document)|A Latex template for document|8|2024-04-24|2024-03-26|
 |120|[mxpanf/mirea-final-qualifying-work](https://github.com/mxpanf/mirea-final-qualifying-work)|📜 The MIREA final qualifying work on the topic of system for organization and issuance of verified digital diplomas on blockchain.|8|2024-06-23|2024-03-21|
 |121|[faicaiwawa/Response_Letter_Template](https://github.com/faicaiwawa/Response_Letter_Template)|-|8|2024-04-25|2024-03-05|
@@ -146,7 +146,7 @@
 |139|[mshsvnv/AlgorithmAnalysis](https://github.com/mshsvnv/AlgorithmAnalysis)|-|8|2024-02-05|2023-09-21|
 |140|[Yupei-Du/uunlp-group-meeting](https://github.com/Yupei-Du/uunlp-group-meeting)|Repository for hosting UU NLP group meeting materials|8|2024-06-26|2023-08-31|
 |141|[parvvaresh/CV-Alireza-Parvaresh](https://github.com/parvvaresh/CV-Alireza-Parvaresh)|This repository contains multiple versions of my CV|8|2024-05-19|2023-08-28|
-|142|[ezekielulrich/Notes](https://github.com/ezekielulrich/Notes)|Notes on several classes at Purdue|8|2024-07-01|2023-08-22|
+|142|[ezekielulrich/Notes](https://github.com/ezekielulrich/Notes)|Notes on several classes at Purdue|8|2024-07-02|2023-08-22|
 |143|[tomimara52/teoremas-final-discreta-2](https://github.com/tomimara52/teoremas-final-discreta-2)|-|7|2024-07-01|2024-06-19|
 |144|[Yuyyyuuu/Database-matched-Positioning](https://github.com/Yuyyyuuu/Database-matched-Positioning)|-|7|2024-06-18|2024-06-18|
 |145|[Yuyyyuuu/PDR-Inferior](https://github.com/Yuyyyuuu/PDR-Inferior)|-|7|2024-06-18|2024-06-18|
@@ -179,32 +179,32 @@
 |172|[fromtimeimportsleep/Notes](https://github.com/fromtimeimportsleep/Notes)|-|7|2024-04-04|2023-08-02|
 |173|[ThomasGesseyJones/FullyBayesianForecastsExample](https://github.com/ThomasGesseyJones/FullyBayesianForecastsExample)|Example of a fully Bayesian forecast using evidence networks applied to 21-cm cosmology|7|2024-07-01|2023-07-30|
 |174|[christopherkenny/nature](https://github.com/christopherkenny/nature)|Quarto Template for Springer Nature Submissions|7|2024-04-23|2023-07-17|
-|175|[AljoschaMeyer/reed](https://github.com/AljoschaMeyer/reed)|Specification for an efficient prefix authentication scheme.|6|2024-06-10|2024-06-10|
-|176|[jialefu/Minimalist-Slides](https://github.com/jialefu/Minimalist-Slides)|A minimalist beamer template.|6|2024-06-08|2024-06-08|
-|177|[michalelektryk/NoA-SSH](https://github.com/michalelektryk/NoA-SSH)|Noise of Antimatter - Subshaper|6|2024-05-23|2024-05-23|
-|178|[XTerris/iu6_materials](https://github.com/XTerris/iu6_materials)|-|6|2024-06-20|2024-05-18|
-|179|[jamesfang8499/algebra1](https://github.com/jamesfang8499/algebra1)|-|6|2024-05-03|2024-05-03|
-|180|[S-Mancl/small-crystals-kyber-man-in-the-middle](https://github.com/S-Mancl/small-crystals-kyber-man-in-the-middle)|An implementation of a reduced version of CRYSTALS-Kyber with a demonstration of a Man in the Middle attack|6|2024-05-09|2024-05-01|
-|181|[Lodour/wisc-thesis-template](https://github.com/Lodour/wisc-thesis-template)|A Minimum Working Example of the Dissertation Template for UW-Madison.|6|2024-05-04|2024-05-01|
-|182|[fastlib/INFOMQNM-Public](https://github.com/fastlib/INFOMQNM-Public)|All information about INFOMQNM's project in one repository.|6|2024-06-06|2024-04-22|
-|183|[yassineoubihi/CCS_Power_Parsing](https://github.com/yassineoubihi/CCS_Power_Parsing)|A python script to parse and analyze data and store it in a sql database|6|2024-05-18|2024-04-20|
-|184|[mankoff/sankey](https://github.com/mankoff/sankey)|Sankey diagram for ice sheet mass flow|6|2024-06-25|2024-04-10|
-|185|[cyanBD/CUG-Undergraduate-Thesis-English-Template](https://github.com/cyanBD/CUG-Undergraduate-Thesis-English-Template)|English Thesis template for sino-foreign cooperation project of CUG and iit|6|2024-06-08|2024-04-08|
-|186|[liamrevell/Revell.AncestralReconstruction](https://github.com/liamrevell/Revell.AncestralReconstruction)|-|6|2024-04-10|2024-04-07|
-|187|[jasperhabicht/jsonparse](https://github.com/jasperhabicht/jsonparse)|A handy way to parse, store and access JSON data from files or strings in LaTeX documents|6|2024-05-09|2024-04-05|
-|188|[cherise215/Journal-Response-Letter-Template](https://github.com/cherise215/Journal-Response-Letter-Template)|-|6|2024-04-02|2024-04-02|
-|189|[fredfeng/CS190-blockchain](https://github.com/fredfeng/CS190-blockchain)|-|6|2024-06-03|2024-04-01|
-|190|[ClConstantine/CCNU-Beamer-Theme](https://github.com/ClConstantine/CCNU-Beamer-Theme)|-|6|2024-03-18|2024-03-18|
-|191|[JothamWong/nus-cheatsheets](https://github.com/JothamWong/nus-cheatsheets)|-|6|2024-06-30|2024-03-03|
-|192|[hugodepaula/lab-desenv-aplic-distribuidas](https://github.com/hugodepaula/lab-desenv-aplic-distribuidas)|Material da disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas do curso de Engenharia de Software|6|2024-06-05|2024-02-28|
-|193|[google-deepmind/twoxtwogame](https://github.com/google-deepmind/twoxtwogame)|Latex package for visualizing 2x2 games|6|2024-03-06|2024-02-22|
-|194|[Ruzim/NSFDYS-application-template](https://github.com/Ruzim/NSFDYS-application-template)|A LaTeX template for writting application to National Science Fund for Distinguished Young Scholars|6|2024-02-01|2024-02-01|
-|195|[Nazzcjy/SZUThesisLatest](https://github.com/Nazzcjy/SZUThesisLatest)|-|6|2024-03-28|2024-01-29|
-|196|[b-cubed-eu/hackathon-projects-2024](https://github.com/b-cubed-eu/hackathon-projects-2024)|This space is dedicated to hosting and showcasing all the projects submitted for the B-Cubed Hackathon 2024 - Hacking Biodiversity Data Cubes for Policy|6|2024-04-04|2024-01-10|
-|197|[adamesalles/latex-beamer-emap](https://github.com/adamesalles/latex-beamer-emap)|A LaTeX Beamer Template specifically designed for use by students and faculty at FGV EMAp|6|2024-03-06|2023-12-17|
-|198|[rk-kit/Analysis-I-Hundertmark-KIT](https://github.com/rk-kit/Analysis-I-Hundertmark-KIT)|Skript für Analysis I WS 23/24 am KIT (Orientiert am Stil des LA-Skripts)|6|2024-04-20|2023-11-22|
-|199|[SiriusAhu/XJTLU-TC_Latex_Coursework_Template](https://github.com/SiriusAhu/XJTLU-TC_Latex_Coursework_Template)|-|6|2024-05-16|2023-11-12|
-|200|[xiamyphys/litesolution](https://github.com/xiamyphys/litesolution)|-|6|2024-06-20|2023-11-09|
+|175|[qwrtln/Homm3BG-mission-book](https://github.com/qwrtln/Homm3BG-mission-book)|Repository to gather the best community-made scenarios.|6|2024-07-02|2024-06-21|
+|176|[Nicocag29/PreparacionFinalDiscretaII](https://github.com/Nicocag29/PreparacionFinalDiscretaII)|Teoremas y preguntas que nos tomarán en el final de Matemática Discreta II, materia de 3er año de la Licenciatura en Ciencias de la Computación, FaMAF, UNC|6|2024-07-02|2024-06-19|
+|177|[AljoschaMeyer/reed](https://github.com/AljoschaMeyer/reed)|Specification for an efficient prefix authentication scheme.|6|2024-06-10|2024-06-10|
+|178|[jialefu/Minimalist-Slides](https://github.com/jialefu/Minimalist-Slides)|A minimalist beamer template.|6|2024-06-08|2024-06-08|
+|179|[michalelektryk/NoA-SSH](https://github.com/michalelektryk/NoA-SSH)|Noise of Antimatter - Subshaper|6|2024-05-23|2024-05-23|
+|180|[XTerris/iu6_materials](https://github.com/XTerris/iu6_materials)|-|6|2024-06-20|2024-05-18|
+|181|[GhostIrish/T_store_software](https://github.com/GhostIrish/T_store_software)|This project is make to show my knowledge about MySQL.|6|2024-06-28|2024-05-16|
+|182|[jamesfang8499/algebra1](https://github.com/jamesfang8499/algebra1)|-|6|2024-05-03|2024-05-03|
+|183|[S-Mancl/small-crystals-kyber-man-in-the-middle](https://github.com/S-Mancl/small-crystals-kyber-man-in-the-middle)|An implementation of a reduced version of CRYSTALS-Kyber with a demonstration of a Man in the Middle attack|6|2024-05-09|2024-05-01|
+|184|[Lodour/wisc-thesis-template](https://github.com/Lodour/wisc-thesis-template)|A Minimum Working Example of the Dissertation Template for UW-Madison.|6|2024-05-04|2024-05-01|
+|185|[fastlib/INFOMQNM-Public](https://github.com/fastlib/INFOMQNM-Public)|All information about INFOMQNM's project in one repository.|6|2024-06-06|2024-04-22|
+|186|[yassineoubihi/CCS_Power_Parsing](https://github.com/yassineoubihi/CCS_Power_Parsing)|A python script to parse and analyze data and store it in a sql database|6|2024-05-18|2024-04-20|
+|187|[mankoff/sankey](https://github.com/mankoff/sankey)|Sankey diagram for ice sheet mass flow|6|2024-06-25|2024-04-10|
+|188|[cyanBD/CUG-Undergraduate-Thesis-English-Template](https://github.com/cyanBD/CUG-Undergraduate-Thesis-English-Template)|English Thesis template for sino-foreign cooperation project of CUG and iit|6|2024-06-08|2024-04-08|
+|189|[liamrevell/Revell.AncestralReconstruction](https://github.com/liamrevell/Revell.AncestralReconstruction)|-|6|2024-04-10|2024-04-07|
+|190|[jasperhabicht/jsonparse](https://github.com/jasperhabicht/jsonparse)|A handy way to parse, store and access JSON data from files or strings in LaTeX documents|6|2024-05-09|2024-04-05|
+|191|[cherise215/Journal-Response-Letter-Template](https://github.com/cherise215/Journal-Response-Letter-Template)|-|6|2024-04-02|2024-04-02|
+|192|[fredfeng/CS190-blockchain](https://github.com/fredfeng/CS190-blockchain)|-|6|2024-06-03|2024-04-01|
+|193|[ClConstantine/CCNU-Beamer-Theme](https://github.com/ClConstantine/CCNU-Beamer-Theme)|-|6|2024-03-18|2024-03-18|
+|194|[JothamWong/nus-cheatsheets](https://github.com/JothamWong/nus-cheatsheets)|-|6|2024-06-30|2024-03-03|
+|195|[hugodepaula/lab-desenv-aplic-distribuidas](https://github.com/hugodepaula/lab-desenv-aplic-distribuidas)|Material da disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas do curso de Engenharia de Software|6|2024-06-05|2024-02-28|
+|196|[google-deepmind/twoxtwogame](https://github.com/google-deepmind/twoxtwogame)|Latex package for visualizing 2x2 games|6|2024-03-06|2024-02-22|
+|197|[Ruzim/NSFDYS-application-template](https://github.com/Ruzim/NSFDYS-application-template)|A LaTeX template for writting application to National Science Fund for Distinguished Young Scholars|6|2024-02-01|2024-02-01|
+|198|[Nazzcjy/SZUThesisLatest](https://github.com/Nazzcjy/SZUThesisLatest)|-|6|2024-03-28|2024-01-29|
+|199|[b-cubed-eu/hackathon-projects-2024](https://github.com/b-cubed-eu/hackathon-projects-2024)|This space is dedicated to hosting and showcasing all the projects submitted for the B-Cubed Hackathon 2024 - Hacking Biodiversity Data Cubes for Policy|6|2024-04-04|2024-01-10|
+|200|[adamesalles/latex-beamer-emap](https://github.com/adamesalles/latex-beamer-emap)|A LaTeX Beamer Template specifically designed for use by students and faculty at FGV EMAp|6|2024-03-06|2023-12-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
