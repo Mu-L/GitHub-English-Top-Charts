@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -52,8 +52,7 @@
 |45|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
 |46|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|
 |47|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|2|2024-02-20|
-|48|[Dew-Research/DewLabStudio-VCL-Samples](https://github.com/Dew-Research/DewLabStudio-VCL-Samples)|Sample programs showing how to use Dew Lab Studio VCL for (RAD Studio, Delphi and C++ Builder)|2|2024-01-02|
-|49|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2024-04-13|
+|48|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2024-04-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|216|2024-02-05|
 |12|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|2024-06-10|
 |13|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|128|2024-06-06|
-|14|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|101|2024-06-12|
+|14|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|101|2024-07-03|
 |15|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|69|2024-04-08|
 |16|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|2024-04-17|
 |17|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|60|2024-02-05|
@@ -46,7 +46,7 @@
 |39|[DerekSelander/gcd_internals](https://github.com/DerekSelander/gcd_internals)|Showcases libdispatch lesser known APIs with examples & structs|7|2024-05-15|
 |40|[gcappon/bwthw](https://github.com/gcappon/bwthw)|Material for the laboratory of the course of Biomedical Wearable Technology for Healthcare and Wellbeing, Master's degree in Bioengineering, Department of Information Engineering (DEI), University of  ...|7|2024-02-04|
 |41|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|2024-06-02|
-|42|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|2024-06-18|
+|42|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|2024-07-03|
 |43|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|2024-06-25|
 |44|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2024-05-13|
 |45|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|2024-03-16|

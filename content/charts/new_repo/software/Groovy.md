@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|55|2024-03-21|2024-01-19|
+|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|56|2024-03-21|2024-01-19|
 |2|[Ministry-of-CBT/Project-CBT](https://github.com/Ministry-of-CBT/Project-CBT)|Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture|32|2024-01-05|2023-07-27|
 |3|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|24|2024-07-02|2024-02-21|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|19|2024-04-22|2024-03-23|
-|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-07-01|2023-08-30|
-|6|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|11|2024-07-01|2024-05-28|
+|5|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|14|2024-07-03|2024-05-28|
+|6|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|12|2024-07-01|2023-08-30|
 |7|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |11|2024-04-15|2024-03-17|
 |8|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-29|2024-01-02|
 |9|[line/license-gradle-plugin-git](https://github.com/line/license-gradle-plugin-git)|This repository contains the license-gradle-plugin, enhanced with git-related functionality through the integration of license-maven-plugin-git|8|2024-04-23|2023-08-30|
@@ -20,7 +20,7 @@
 |13|[maggergm/GroovyCSVExample](https://github.com/maggergm/GroovyCSVExample)|A useful Groovy script to read and analyze a CSV file|4|2024-06-04|2024-06-04|
 |14|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
 |15|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|4|2024-06-19|2024-04-26|
-|16|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-06-28|2024-01-13|
+|16|[kivanval/gradle-avrohugger](https://github.com/kivanval/gradle-avrohugger)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding Scala files in your project using the Avrohugger. |4|2024-07-03|2024-01-13|
 |17|[eryajf/share-library](https://github.com/eryajf/share-library)|-|4|2024-01-08|2024-01-08|
 |18|[rabestro/pig-latin-rest](https://github.com/rabestro/pig-latin-rest)|A project for experimenting with OpenAPI specification and API testing.|4|2024-04-24|2023-12-25|
 |19|[zeyangli/devops-cicd-book](https://github.com/zeyangli/devops-cicd-book)|-|4|2024-03-05|2023-12-25|
