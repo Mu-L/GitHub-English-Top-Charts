@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Groovy
-<sub>Updated: 2024-07-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|8325|4|2024-06-24|
-|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|16362|3|2024-07-04|
+|1|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|8326|4|2024-06-24|
+|2|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|16364|3|2024-07-05|
 |3|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3079|2|2024-06-23|
 |4|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1729|1|2024-05-11|
-|5|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2611|1|2024-07-04|
-|6|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3614|1|2024-06-27|
+|5|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2611|1|2024-07-05|
+|6|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3616|1|2024-06-27|
 |7|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1529|1|2024-06-18|
-|8|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5411|1|2024-07-04|
+|8|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5411|1|2024-07-05|
 |9|[spidasoftware/schema](https://github.com/spidasoftware/schema)|Public API for SPIDA Products|10|0|2024-06-28|
 |10|[tfij/result](https://github.com/tfij/result)|Functional way to handle errors in java|3|0|2024-05-08|
 |11|[aim42/htmlSanityCheck](https://github.com/aim42/htmlSanityCheck)|Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like. |67|0|2024-06-23|
 |12|[repaint-io/maven-tiles](https://github.com/repaint-io/maven-tiles)|Injecting maven configurations by composition rather than inheritance|153|0|2024-04-07|
-|13|[growerp/growerp](https://github.com/growerp/growerp)|GrowERP Flutter ERP for Android, IOS and Web using Moqui.org, Apache OFBiz |47|0|2024-07-04|
+|13|[growerp/growerp](https://github.com/growerp/growerp)|GrowERP Flutter ERP for Android, IOS and Web using Moqui.org, Apache OFBiz |47|0|2024-07-05|
 |14|[BIOP/OMERO-scripts](https://github.com/BIOP/OMERO-scripts)|Series of script to make use of OMERO|2|0|2024-06-19|
 |15|[The1Studio/JenkinsScripts](https://github.com/The1Studio/JenkinsScripts)|-|3|0|2024-02-27|
 |16|[dan-danache/hubitat](https://github.com/dan-danache/hubitat)|Dan's Hubitat stuff|5|0|2024-07-03|
@@ -26,7 +26,7 @@
 |19|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|0|2024-03-27|
 |20|[GroovyMC/CommonGroovyLibrary](https://github.com/GroovyMC/CommonGroovyLibrary)|Common Groovy library for Minecraft development. |2|0|2024-06-21|
 |21|[epi2me-labs/wf-flu](https://github.com/epi2me-labs/wf-flu)|-|14|0|2024-02-07|
-|22|[jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin)|Gradle plugin that provides a task to generate a HTML license report of your project.|395|0|2024-06-21|
+|22|[jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin)|Gradle plugin that provides a task to generate a HTML license report of your project.|395|0|2024-07-05|
 |23|[micw/jenkins-k8s-pipeline](https://github.com/micw/jenkins-k8s-pipeline)|-|4|0|2024-02-21|
 |24|[gesellix/docker-client](https://github.com/gesellix/docker-client)|A Docker client for Java written in Kotlin and Groovy|107|0|2024-07-01|
 |25|[mr-anderson86/jenkins-shared-lib](https://github.com/mr-anderson86/jenkins-shared-lib)|-|2|0|2024-01-07|
@@ -43,7 +43,7 @@
 |36|[moqui/moqui-framework](https://github.com/moqui/moqui-framework)|Use Moqui Framework to build enterprise applications based on Java. It includes tools for databases (relational, graph, document), local and web services, web and other UI with screens and forms, secu ...|273|0|2024-06-14|
 |37|[zml2008/gitpatcher](https://github.com/zml2008/gitpatcher)|A gradle plugin to apply a patch tree to projects fetched from a git repository|3|0|2024-07-02|
 |38|[matrei/pingcrm-grails](https://github.com/matrei/pingcrm-grails)|Grails/Groovy version of the Inertia.js demo application Ping CRM|5|0|2024-07-03|
-|39|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|9|0|2024-07-04|
+|39|[CDCgov/trusted-intermediary](https://github.com/CDCgov/trusted-intermediary)|Bringing together healthcare providers by reducing the connection burden.|9|0|2024-07-05|
 |40|[wcm-io/io.wcm.maven.aem-cloud-dependencies](https://github.com/wcm-io/io.wcm.maven.aem-cloud-dependencies)|Maven dependencies for the AEM Cloud Service SDK|2|0|2024-01-25|
 |41|[devatherock/drone-yaml-validator](https://github.com/devatherock/drone-yaml-validator)|CI plugin to validate yaml files|6|0|2024-07-04|
 |42|[hmrc/jenkins-job-builders](https://github.com/hmrc/jenkins-job-builders)|Automated Jenkins job and view configuration, via the Jenkins Job DSL Plugin|33|0|2024-03-06|
@@ -58,7 +58,7 @@
 |51|[nf-core/phyloplace](https://github.com/nf-core/phyloplace)|nf-core/phyloplace is a bioinformatics best-practice analysis pipeline that performs phylogenetic placement with EPA-NG.|5|0|2024-05-09|
 |52|[tombensve/MarkdownDoc](https://github.com/tombensve/MarkdownDoc)|A Java tool/maven plugin/library to generate HMTL and PDF from markdown text intended for project documentation. Supports JSON based "stylesheet" for PDFs.|22|0|2024-01-10|
 |53|[grails/grails-angularjs-scaffolding](https://github.com/grails/grails-angularjs-scaffolding)|A plugin for generating client side assets based on domain classes|5|0|2024-06-17|
-|54|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|19|0|2024-07-03|
+|54|[thebearmay/hubitat](https://github.com/thebearmay/hubitat)|-|19|0|2024-07-05|
 |55|[fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library)|Fabric8 Pipeline for Jenkins|435|0|2024-04-09|
 |56|[spring-attic/gradle-plugins](https://github.com/spring-attic/gradle-plugins)|Gradle plugins for use in building and publishing open-source Spring projects, e.g. Spring Framework, Spring Integration|139|0|2024-01-15|
 |57|[Naveiras-Lab/MarrowQuant2.0](https://github.com/Naveiras-Lab/MarrowQuant2.0)|-|4|0|2024-04-17|
@@ -86,15 +86,15 @@
 |79|[luxteam/rpr_pipelines](https://github.com/luxteam/rpr_pipelines)|-|3|0|2024-02-07|
 |80|[zebrunner/pipeline-ce](https://github.com/zebrunner/pipeline-ce)|Zebrunner CE pipeline and jobdsl scripts|7|0|2024-04-15|
 |81|[dsvdsv/scala-android-plugin](https://github.com/dsvdsv/scala-android-plugin)|-|12|0|2024-02-04|
-|82|[Percona-Lab/jenkins-pipelines](https://github.com/Percona-Lab/jenkins-pipelines)|-|21|0|2024-07-04|
+|82|[Percona-Lab/jenkins-pipelines](https://github.com/Percona-Lab/jenkins-pipelines)|-|21|0|2024-07-05|
 |83|[saidsef/alpine-jenkins-dockerfile](https://github.com/saidsef/alpine-jenkins-dockerfile)|Jenkins Blue Ocean Containerised Docker|8|0|2024-07-01|
-|84|[grails-aws/grails-aws](https://github.com/grails-aws/grails-aws)|Grails plugin for Amazon Web Services|41|0|2024-06-24|
+|84|[grails-aws/grails-aws](https://github.com/grails-aws/grails-aws)|Grails plugin for Amazon Web Services|41|0|2024-07-05|
 |85|[ivarho/hubitatappndevice](https://github.com/ivarho/hubitatappndevice)|-|19|0|2024-05-27|
 |86|[srbarcus/yolink](https://github.com/srbarcus/yolink)|YoLink Device Support|3|0|2024-06-08|
 |87|[cbmarcum/skeletal](https://github.com/cbmarcum/skeletal)|A simple project creation tool that uses packaged templates|17|0|2024-04-12|
 |88|[dds82/shabbat](https://github.com/dds82/shabbat)|Virtual device to schedule shabbat/yom tov and change location mode automatically|3|0|2024-03-08|
 |89|[ximtech/altium-migrator](https://github.com/ximtech/altium-migrator)|Spring boot application for automated Altium component migrations|5|0|2024-02-01|
-|90|[palantir/gradle-git-version](https://github.com/palantir/gradle-git-version)|a Gradle plugin that uses `git describe` to produce a version string.|362|0|2024-07-04|
+|90|[palantir/gradle-git-version](https://github.com/palantir/gradle-git-version)|a Gradle plugin that uses `git describe` to produce a version string.|362|0|2024-07-05|
 |91|[boxheed/gradle-gitignore-plugin](https://github.com/boxheed/gradle-gitignore-plugin)|Gradle plugin to create gitignore files.|4|0|2024-06-17|
 |92|[soramitsu/gradle-sora-plugin](https://github.com/soramitsu/gradle-sora-plugin)|-|4|0|2024-06-21|
 |93|[aint/octopus-autoconfiguration](https://github.com/aint/octopus-autoconfiguration)|Spring Boot autoconfiguration for Octopus - microservice architecture visualization tool.|7|0|2024-06-27|
@@ -129,8 +129,8 @@
 |122|[egonw/cdkbook](https://github.com/egonw/cdkbook)|Groovy Cheminformatics with the Chemistry Development Kit|40|0|2024-06-15|
 |123|[exensio/geb-groovyshell](https://github.com/exensio/geb-groovyshell)|a groovy shell with geb support|3|0|2024-04-19|
 |124|[moaxcp/x11](https://github.com/moaxcp/x11)|An x11 protocol implementation and client for the jvm|10|0|2024-03-17|
-|125|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|54|0|2024-07-04|
-|126|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|6|0|2024-07-04|
+|125|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|54|0|2024-07-05|
+|126|[PennyDreadfulMTG/modo-bugs](https://github.com/PennyDreadfulMTG/modo-bugs)|Issue Tracker for Magic Online bugs|6|0|2024-07-05|
 |127|[grails/grails-doc](https://github.com/grails/grails-doc)|Documentation Project For The Grails Web Application Framework|200|0|2024-06-22|
 |128|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|546|0|2024-04-03|
 |129|[Anfue/JIRAGroovy](https://github.com/Anfue/JIRAGroovy)|Groovy para JIRA en cloud|2|0|2024-06-19|
@@ -138,10 +138,10 @@
 |131|[ableron/ableron-java](https://github.com/ableron/ableron-java)|Java Library for Ableron Server Side UI Composition|3|0|2024-07-03|
 |132|[nebula-plugins/gradle-netflixoss-project-plugin](https://github.com/nebula-plugins/gradle-netflixoss-project-plugin)|Gradle plugin to setup common needs for Netflix OSS projects|17|0|2024-05-31|
 |133|[PDCompBio/TrueTH](https://github.com/PDCompBio/TrueTH)|Fine-tuned TH soma identification pipeline.|3|0|2024-06-12|
-|134|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|24|0|2024-07-04|
+|134|[grails/grails-static-website](https://github.com/grails/grails-static-website)|Static version of the website|24|0|2024-07-05|
 |135|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|476|0|2024-07-01|
 |136|[macmarrum/freeplane-scripting](https://github.com/macmarrum/freeplane-scripting)|-|6|0|2024-06-30|
-|137|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2024-07-04|
+|137|[sogis/gretljobs](https://github.com/sogis/gretljobs)|Contains all job configuration files (*.gradle, *.sql, ...) of the jobs that are run by GRETL|2|0|2024-07-05|
 |138|[gomorpheus/morpheus-efficientip-plugin](https://github.com/gomorpheus/morpheus-efficientip-plugin)|A Morpheus Plugin to integration with EfficientIP SolidServer IPAM/DNS|2|0|2024-05-10|
 |139|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|0|2024-06-17|
 |140|[jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts)|Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins|897|0|2024-06-21|
@@ -153,12 +153,12 @@
 |146|[gesellix/couchdb-client](https://github.com/gesellix/couchdb-client)|A CouchDB client written in Groovy|2|0|2024-01-26|
 |147|[henninb/raspi-finance-endpoint](https://github.com/henninb/raspi-finance-endpoint)|endpoint for raspi-finance-endpoint|2|0|2024-04-18|
 |148|[stewartbryson/gradle-snowflake](https://github.com/stewartbryson/gradle-snowflake)|A Gradle plugin for publishing JVM-based applications to Snowflake.|11|0|2024-06-10|
-|149|[brown-uk/nlp_uk](https://github.com/brown-uk/nlp_uk)|This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.|69|0|2024-06-09|
-|150|[sourcemuse/GradleMongoPlugin](https://github.com/sourcemuse/GradleMongoPlugin)|Gradle plugin for running a managed instance of Mongo.|51|0|2024-06-07|
+|149|[brown-uk/nlp_uk](https://github.com/brown-uk/nlp_uk)|This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.|70|0|2024-06-09|
+|150|[sourcemuse/GradleMongoPlugin](https://github.com/sourcemuse/GradleMongoPlugin)|Gradle plugin for running a managed instance of Mongo.|51|0|2024-07-05|
 |151|[nebula-plugins/gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)|A plugin to allow people using dynamic dependency versions to lock them to specific versions.|291|0|2024-06-18|
 |152|[maggergm/GroovyCSVExample](https://github.com/maggergm/GroovyCSVExample)|A useful Groovy script to read and analyze a CSV file|4|0|2024-06-04|
 |153|[RMoRobert/Hubitat](https://github.com/RMoRobert/Hubitat)|Various custom apps and drivers for the Hubitat platform|32|0|2024-05-29|
-|154|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|25|0|2024-07-02|
+|154|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|25|0|2024-07-05|
 |155|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|0|2024-05-27|
 |156|[UrbanCode/Send-SMTP-Email-UCD](https://github.com/UrbanCode/Send-SMTP-Email-UCD)|This plugin provides a mechanism to send SMTP emails in your deployment process.|3|0|2024-07-02|
 |157|[bonitasoft/bonita-connector-archetype](https://github.com/bonitasoft/bonita-connector-archetype)|This project contains a maven archetype which help creating a new Bonita connector project.|6|0|2024-06-20|
@@ -182,7 +182,7 @@
 |175|[FirebirdSQL/jaybird-manual](https://github.com/FirebirdSQL/jaybird-manual)|Jaybird JDBC Driver Java Programmer's Manual|7|0|2024-06-23|
 |176|[yigitbasalma/netcore-jenkins-shared-library](https://github.com/yigitbasalma/netcore-jenkins-shared-library)|-|2|0|2024-05-22|
 |177|[katalon-studio-samples/ci-samples](https://github.com/katalon-studio-samples/ci-samples)|Sample configurations for various CI systems.|54|0|2024-03-22|
-|178|[openshift-eng/aos-cd-jobs](https://github.com/openshift-eng/aos-cd-jobs)|-|47|0|2024-07-04|
+|178|[openshift-eng/aos-cd-jobs](https://github.com/openshift-eng/aos-cd-jobs)|-|47|0|2024-07-05|
 |179|[BIOP/qupath-scripts](https://github.com/BIOP/qupath-scripts)|This repository contains Scripts we found useful when using QuPath|6|0|2024-04-18|
 |180|[Sage-Bionetworks-Workflows/nf-genie](https://github.com/Sage-Bionetworks-Workflows/nf-genie)|Nextflow workflow for main GENIE processing|3|0|2024-06-26|
 |181|[ZOSOpenTools/makeport](https://github.com/ZOSOpenTools/makeport)|-|7|0|2024-06-27|
@@ -196,15 +196,15 @@
 |189|[trouble25/GroovyFileOperations](https://github.com/trouble25/GroovyFileOperations)|A useful Groovy script to perform basic file operations|3|0|2024-06-04|
 |190|[gpc/jms](https://github.com/gpc/jms)|JMS integration for Grails.|16|0|2024-02-15|
 |191|[DEVOPS-WITH-WEB-DEV/jenkins-shared-library1](https://github.com/DEVOPS-WITH-WEB-DEV/jenkins-shared-library1)|-|12|0|2024-07-01|
-|192|[onap/cps](https://github.com/onap/cps)|Mirror of the cps repo|3|0|2024-07-04|
+|192|[onap/cps](https://github.com/onap/cps)|Mirror of the cps repo|3|0|2024-07-05|
 |193|[edx/jenkins-job-dsl](https://github.com/edx/jenkins-job-dsl)|DSL scripts for edx Jenkins instances|36|0|2024-06-26|
 |194|[ajoberstar/grgit](https://github.com/ajoberstar/grgit)|The Groovy way to use Git.|511|0|2024-05-08|
 |195|[devatherock/ldap-search-api](https://github.com/devatherock/ldap-search-api)|Simple REST API to query a LDAP server|10|0|2024-06-30|
 |196|[jlawyerorg/j-lawyer-forms](https://github.com/jlawyerorg/j-lawyer-forms)|Forms are Groovy plugins used to capture case-specific information|3|0|2024-05-08|
-|197|[kronosnet/ci-tools](https://github.com/kronosnet/ci-tools)|custom tools for ci.kronosnet.org|3|0|2024-07-03|
-|198|[szpak/gradle-pitest-plugin](https://github.com/szpak/gradle-pitest-plugin)|Gradle plugin for PIT Mutation Testing|211|0|2024-06-03|
-|199|[NationalSecurityAgency/skills-stress-test](https://github.com/NationalSecurityAgency/skills-stress-test)|SkillTree|19|0|2024-04-04|
-|200|[kkossev/Hubitat-Tuya-Wall-Thermostat](https://github.com/kkossev/Hubitat-Tuya-Wall-Thermostat)|Hubitat-Tuya Wall Thermostat|3|0|2024-02-28|
+|197|[nextflow-io/nf-nomad](https://github.com/nextflow-io/nf-nomad)|Hashicorp Nomad executor plugin for Nextflow|2|0|2024-07-04|
+|198|[kronosnet/ci-tools](https://github.com/kronosnet/ci-tools)|custom tools for ci.kronosnet.org|3|0|2024-07-03|
+|199|[szpak/gradle-pitest-plugin](https://github.com/szpak/gradle-pitest-plugin)|Gradle plugin for PIT Mutation Testing|211|0|2024-06-03|
+|200|[NationalSecurityAgency/skills-stress-test](https://github.com/NationalSecurityAgency/skills-stress-test)|SkillTree|19|0|2024-04-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

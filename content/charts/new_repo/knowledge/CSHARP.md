@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-07-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1403|2024-07-03|2023-08-30|
-|2|[microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)|RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.|1338|2024-07-03|2023-07-13|
-|3|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|664|2024-02-19|2024-02-12|
+|1|[evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a ...|1406|2024-07-03|2023-08-30|
+|2|[microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)|RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.|1340|2024-07-05|2023-07-13|
+|3|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|667|2024-02-19|2024-02-12|
 |4|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|511|2024-06-24|2024-01-05|
-|5|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|489|2024-04-30|2024-02-08|
-|6|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|305|2024-07-04|2024-01-29|
+|5|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|490|2024-04-30|2024-02-08|
+|6|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|305|2024-07-05|2024-01-29|
 |7|[data-goblin/powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox)|Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..|245|2024-03-14|2023-07-25|
-|8|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|216|2024-07-04|2024-01-17|
+|8|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|216|2024-07-05|2024-01-17|
 |9|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|197|2024-04-22|2023-09-21|
-|10|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|184|2024-06-19|2023-08-12|
+|10|[akinmustafa/awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)|A curated list of useful open-source Unity games.|186|2024-06-19|2023-08-12|
 |11|[MakesYT/NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia)|A collection of controls for node based editors designed for MVVM.|77|2024-06-01|2024-01-23|
 |12|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|60|2024-05-03|2024-01-12|
 |13|[thisisnabi/101-Patterns](https://github.com/thisisnabi/101-Patterns)|Design Patterns in Action|53|2024-06-18|2024-02-24|

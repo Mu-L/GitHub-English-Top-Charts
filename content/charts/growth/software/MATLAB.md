@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-07-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kwongfei/LRSVM](https://github.com/Kwongfei/LRSVM)|This is the code for LRSVM in paper "Support Vector Machine with Discriminative Low-Rank Embedding"|3|3|2024-07-04|
-|2|[zh267/offRL](https://github.com/zh267/offRL)|applying offRL to solve control problems by MATLAB|6|3|2024-07-03|
-|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6723|2|2024-06-01|
-|4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|254|2|2024-05-24|
+|1|[Kwongfei/LRSVM](https://github.com/Kwongfei/LRSVM)|This is the code for LRSVM in paper "Support Vector Machine with Discriminative Low-Rank Embedding"|3|2|2024-07-04|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6726|2|2024-06-01|
+|3|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|256|2|2024-05-24|
+|4|[zh267/offRL](https://github.com/zh267/offRL)|applying offRL to solve control problems by MATLAB|6|2|2024-07-03|
 |5|[nasa/Generic-Urban-Air-Mobility-GUAM](https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM)|-|34|1|2024-05-24|
-|6|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2405|1|2024-01-15|
-|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|629|1|2024-07-01|
-|8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|695|1|2024-05-28|
+|6|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2407|1|2024-01-15|
+|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|630|1|2024-07-01|
+|8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|697|1|2024-05-28|
 |9|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|10|1|2024-06-23|
 |10|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|9|1|2024-06-18|
 |11|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|33|1|2024-07-02|
-|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1496|1|2024-06-24|
+|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1495|1|2024-06-24|
 |13|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |14|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|7|0|2024-05-29|
 |15|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|4|0|2024-03-02|
 |16|[HanwenWang95/QSPIO-TNBC](https://github.com/HanwenWang95/QSPIO-TNBC)|This repository contains the latest QSP platform for TNBC/NSCLC developed by the Popel Systems Biology Laboratory |3|0|2024-04-30|
-|17|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|10|0|2024-07-03|
+|17|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|11|0|2024-07-03|
 |18|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|80|0|2024-06-18|
 |19|[biomicroscopy/DPR-Project](https://github.com/biomicroscopy/DPR-Project)|-|19|0|2024-06-10|
 |20|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|35|0|2024-03-08|
@@ -45,30 +45,30 @@
 |38|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2024-06-28|
 |39|[SimonTao0831/Robot-arm-writes-word](https://github.com/SimonTao0831/Robot-arm-writes-word)|A UR5e robotic arm model was created in MATLAB and used to write the word "FLOW". A quintic spline interpolation method was implemented to generate the end-effect trajectories.|3|0|2024-01-05|
 |40|[dcnieho/GlassesViewer](https://github.com/dcnieho/GlassesViewer)|Parser, viewer and coding GUI for data from Tobii Glasses 2 and 3|24|0|2024-02-06|
-|41|[hamedprog/rfb-nn-with-LPO-matlab](https://github.com/hamedprog/rfb-nn-with-LPO-matlab)|implementing a RBF neural network with lion pride and KNN clustering on the cancer dataset|5|0|2024-01-04|
-|42|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|104|0|2024-06-14|
-|43|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|9|0|2024-03-26|
-|44|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |26|0|2024-05-07|
-|45|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
-|46|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|6|0|2024-06-25|
-|47|[ebenetce/SBTi_MATLAB](https://github.com/ebenetce/SBTi_MATLAB)|-|4|0|2024-06-12|
-|48|[xsources/Matlab-simulation-of-Schramm-Loewner-Evolution](https://github.com/xsources/Matlab-simulation-of-Schramm-Loewner-Evolution)|Description and analysis of some mathematical/physics phenomena by using simulation|17|0|2024-04-21|
-|49|[Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control](https://github.com/Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control)|Implementation of "B. Nortmann and T. Mylvaganam, "Data-Driven Control of Linear Time-Varying Systems," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju, Korea (South), 2020, pp. 3939-394 ...|3|0|2024-05-23|
-|50|[jchelikowsky/Matlab_Real_Space](https://github.com/jchelikowsky/Matlab_Real_Space)|Electronic structure code for molecules and clusters|29|0|2024-04-19|
-|51|[TUW-VieVS/VLBI](https://github.com/TUW-VieVS/VLBI)|VLBI module of VieVS|20|0|2024-07-02|
-|52|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|13|0|2024-06-20|
-|53|[ivsg-psu/PathPlanning_PathTools_PathClassLibrary](https://github.com/ivsg-psu/PathPlanning_PathTools_PathClassLibrary)|This is the Path class library for MATLAB and listing of all functions within this class.|5|0|2024-06-20|
-|54|[uamughal/V2X-System-Level-Simulator](https://github.com/uamughal/V2X-System-Level-Simulator)|This repository provides the System Level implementation of the V2X communication. It provides V2V sidelink communication using PC5 Interface as well as V2I Communication using Uu interface. |4|0|2024-01-28|
-|55|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|27|0|2024-05-06|
-|56|[MartinKoch123/yaml](https://github.com/MartinKoch123/yaml)|MATLAB YAML parser and emitter based on SnakeYAML |21|0|2024-01-30|
-|57|[corwin365/MatlabFunctions](https://github.com/corwin365/MatlabFunctions)|My main Matlab function path|3|0|2024-04-28|
-|58|[CivML-PolyMtl/TAGI](https://github.com/CivML-PolyMtl/TAGI)|Tractable Approximate Gaussian Inference|5|0|2024-01-13|
-|59|[pjlapray/LMMSE-Demosaicing-for-Colour-Polarization-Filter-Array](https://github.com/pjlapray/LMMSE-Demosaicing-for-Colour-Polarization-Filter-Array)|-|4|0|2024-06-26|
-|60|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|5|0|2024-03-26|
-|61|[Sergio-Vicenzo/GPSL1-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-DPEmodule)|Open-source GNSS Direct Position Estimation Plug-in Module for MATLAB-based Two-step Positioning Software Defined Receivers|6|0|2024-06-12|
-|62|[PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs](https://github.com/PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs)|Source Code for research: Light Field Depth Estimation Based on Stitched-EPIs|3|0|2024-01-18|
-|63|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-30|
-|64|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
+|41|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|104|0|2024-06-14|
+|42|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|9|0|2024-03-26|
+|43|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |26|0|2024-05-07|
+|44|[mebbaid/tutorials](https://github.com/mebbaid/tutorials)|-|4|0|2024-01-23|
+|45|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|6|0|2024-06-25|
+|46|[ebenetce/SBTi_MATLAB](https://github.com/ebenetce/SBTi_MATLAB)|-|4|0|2024-06-12|
+|47|[xsources/Matlab-simulation-of-Schramm-Loewner-Evolution](https://github.com/xsources/Matlab-simulation-of-Schramm-Loewner-Evolution)|Description and analysis of some mathematical/physics phenomena by using simulation|17|0|2024-04-21|
+|48|[Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control](https://github.com/Rainlabuw/Data-Driven-Linear-Time-Variant-State-Feedback-Control)|Implementation of "B. Nortmann and T. Mylvaganam, "Data-Driven Control of Linear Time-Varying Systems," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju, Korea (South), 2020, pp. 3939-394 ...|3|0|2024-05-23|
+|49|[jchelikowsky/Matlab_Real_Space](https://github.com/jchelikowsky/Matlab_Real_Space)|Electronic structure code for molecules and clusters|29|0|2024-04-19|
+|50|[TUW-VieVS/VLBI](https://github.com/TUW-VieVS/VLBI)|VLBI module of VieVS|20|0|2024-07-02|
+|51|[zhaolin820/near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|The code for the paper "Near-Field Velocity Sensing and Predictive Beamforming".|14|0|2024-06-20|
+|52|[ivsg-psu/PathPlanning_PathTools_PathClassLibrary](https://github.com/ivsg-psu/PathPlanning_PathTools_PathClassLibrary)|This is the Path class library for MATLAB and listing of all functions within this class.|5|0|2024-06-20|
+|53|[uamughal/V2X-System-Level-Simulator](https://github.com/uamughal/V2X-System-Level-Simulator)|This repository provides the System Level implementation of the V2X communication. It provides V2V sidelink communication using PC5 Interface as well as V2I Communication using Uu interface. |4|0|2024-01-28|
+|54|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|27|0|2024-05-06|
+|55|[MartinKoch123/yaml](https://github.com/MartinKoch123/yaml)|MATLAB YAML parser and emitter based on SnakeYAML |21|0|2024-01-30|
+|56|[corwin365/MatlabFunctions](https://github.com/corwin365/MatlabFunctions)|My main Matlab function path|3|0|2024-04-28|
+|57|[CivML-PolyMtl/TAGI](https://github.com/CivML-PolyMtl/TAGI)|Tractable Approximate Gaussian Inference|5|0|2024-01-13|
+|58|[pjlapray/LMMSE-Demosaicing-for-Colour-Polarization-Filter-Array](https://github.com/pjlapray/LMMSE-Demosaicing-for-Colour-Polarization-Filter-Array)|-|4|0|2024-06-26|
+|59|[WeirongChen/DeepEdge](https://github.com/WeirongChen/DeepEdge)|AI tool for automatic contour tracing/tracking in ultrasound video|5|0|2024-03-26|
+|60|[Sergio-Vicenzo/GPSL1-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-DPEmodule)|Open-source GNSS Direct Position Estimation Plug-in Module for MATLAB-based Two-step Positioning Software Defined Receivers|6|0|2024-06-12|
+|61|[PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs](https://github.com/PingZhou-LF/Light-Field-Depth-Estimation-Based-on-Stitched-EPIs)|Source Code for research: Light Field Depth Estimation Based on Stitched-EPIs|3|0|2024-01-18|
+|62|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-06-30|
+|63|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
+|64|[lixixibj/DeepTVAR-data-code](https://github.com/lixixibj/DeepTVAR-data-code)|-|3|0|2024-06-13|
 |65|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|31|0|2024-07-02|
 |66|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|179|0|2024-05-02|
 |67|[SyedShehryarAli/EV-Speed-Control-](https://github.com/SyedShehryarAli/EV-Speed-Control-)|This repository contains the Electric Vehicle (EV) dataset and Matlab code for speed control and energy efficiency in EVs using Optimization Techniques|3|0|2024-03-04|
@@ -104,7 +104,7 @@
 |97|[aicjanelia/LLSM](https://github.com/aicjanelia/LLSM)|Lattice Light-Sheet Microscope Pipeline|8|0|2024-05-06|
 |98|[koo-ec/ECDF-based-Distance-Measure](https://github.com/koo-ec/ECDF-based-Distance-Measure)|A set of functions for well-known Cumulative Distribution Function (CDF)-based distance measure|11|0|2024-01-05|
 |99|[dingshansun/RL-based-PMPC](https://github.com/dingshansun/RL-based-PMPC)|Relevant codes of the paper ``Adaptive Parameterized Model Predictive Control Based on Reinforcement Learning: A Synthesis Framework"|6|0|2024-03-04|
-|100|[291ce4321ac/MIMT](https://github.com/291ce4321ac/MIMT)|MATLAB Image Manipulation Toolbox|5|0|2024-05-20|
+|100|[291ce4321ac/MIMT](https://github.com/291ce4321ac/MIMT)|MATLAB Image Manipulation Toolbox|5|0|2024-07-04|
 |101|[cultpenguin/sippi](https://github.com/cultpenguin/sippi)|A Matlab toolbox for sampling inverse problems with complex priors|20|0|2024-02-04|
 |102|[ABCD-STUDY/abcd_extract_eprime](https://github.com/ABCD-STUDY/abcd_extract_eprime)|scripts that extract task timing and behavioral metrics |5|0|2024-06-27|
 |103|[deepanshuIITM/RBDO](https://github.com/deepanshuIITM/RBDO)|Reliability-based Design Optimization|7|0|2024-04-09|
@@ -120,7 +120,7 @@
 |113|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|15|0|2024-03-10|
 |114|[dnafinder/logistic5](https://github.com/dnafinder/logistic5)|Five parameters logistic regression|5|0|2024-02-16|
 |115|[LaibinChang/Enhancement-Registration-Homogenization](https://github.com/LaibinChang/Enhancement-Registration-Homogenization)|-|3|0|2024-06-30|
-|116|[renweidian/GTNN](https://github.com/renweidian/GTNN)|-|4|0|2024-04-12|
+|116|[renweidian/GTNN](https://github.com/renweidian/GTNN)|-|5|0|2024-04-12|
 |117|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|16|0|2024-05-23|
 |118|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|8|0|2024-02-18|
 |119|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|43|0|2024-06-03|
@@ -169,10 +169,10 @@
 |162|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|14|0|2024-06-20|
 |163|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |164|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-05-25|
-|165|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|106|0|2024-07-04|
+|165|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|106|0|2024-07-05|
 |166|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|811|0|2024-05-05|
 |167|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|18|0|2024-04-01|
-|168|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|241|0|2024-07-04|
+|168|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|243|0|2024-07-04|
 |169|[lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension](https://github.com/lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension)|It can be used to quickly determine the linear separability of two sets in any dimension. A GPU is required.|4|0|2024-01-24|
 |170|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
 |171|[CunninghamLab/TMSAnalysisToolBox](https://github.com/CunninghamLab/TMSAnalysisToolBox)|Transcranial Magnetic Stimulation (TMS) Analysis Toolbox: A user friendly open source software for basic and advanced analysis of TMS related outcomes|17|0|2024-01-26|

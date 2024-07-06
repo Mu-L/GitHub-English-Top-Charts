@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-07-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[gbxyz/webidx](https://github.com/gbxyz/webidx)|webidx is a client-side search engine for static websites.|57|2024-01-24|2024-01-23|
 |5|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|40|2024-06-15|2024-02-08|
 |6|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|31|2024-06-29|2024-02-17|
-|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-07-04|2024-01-08|
+|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-07-05|2024-01-08|
 |8|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-05-21|2023-11-03|
 |9|[openSUSE/slowroll-tools](https://github.com/openSUSE/slowroll-tools)|Tools to support the upcoming openSUSE Slowroll distribution|21|2024-07-02|2023-07-11|
 |10|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|20|2024-06-03|2023-12-07|
@@ -25,23 +25,23 @@
 |18|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|14|2024-07-02|2023-11-06|
 |19|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|13|2024-05-28|2024-04-18|
 |20|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|13|2024-05-03|2024-02-10|
-|21|[kashifmunir92/SemiSRL](https://github.com/kashifmunir92/SemiSRL)|-|12|2024-01-17|2024-01-17|
-|22|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|12|2024-01-22|2024-01-02|
-|23|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|12|2024-06-09|2023-09-09|
-|24|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|12|2024-04-14|2023-07-21|
-|25|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|11|2024-04-22|2024-01-10|
-|26|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
-|27|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
-|28|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|10|2024-03-29|2024-02-22|
+|21|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|12|2024-03-29|2024-02-22|
+|22|[kashifmunir92/SemiSRL](https://github.com/kashifmunir92/SemiSRL)|-|12|2024-01-17|2024-01-17|
+|23|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|12|2024-01-22|2024-01-02|
+|24|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|12|2024-06-09|2023-09-09|
+|25|[anhsirk0/gacp](https://github.com/anhsirk0/gacp)|git add, commit and push in one go.|12|2024-04-14|2023-07-21|
+|26|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|11|2024-04-22|2024-01-10|
+|27|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
+|28|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
 |29|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|10|2024-02-09|2024-02-06|
 |30|[hackman/Fortress](https://github.com/hackman/Fortress)|Automatically detect network attacks and block the IPs|10|2024-01-18|2023-12-13|
 |31|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
-|32|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|9|2024-06-13|2023-10-24|
-|33|[onemoredata/bagger](https://github.com/onemoredata/bagger)|Massive log storage in PostgreSQL|9|2024-06-09|2023-09-08|
-|34|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
-|35|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
-|36|[mrstux/hybrid_fan_control](https://github.com/mrstux/hybrid_fan_control)|dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems|8|2024-05-15|2024-03-15|
-|37|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|8|2024-05-12|2024-02-24|
+|32|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
+|33|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|9|2024-06-13|2023-10-24|
+|34|[onemoredata/bagger](https://github.com/onemoredata/bagger)|Massive log storage in PostgreSQL|9|2024-06-09|2023-09-08|
+|35|[zhmylove/korgwm](https://github.com/zhmylove/korgwm)|Tiling WM written in Perl to meet all Zhmylev's needs|9|2024-02-02|2023-07-20|
+|36|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
+|37|[mrstux/hybrid_fan_control](https://github.com/mrstux/hybrid_fan_control)|dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems|8|2024-05-15|2024-03-15|
 |38|[csdvrx/hdisk](https://github.com/csdvrx/hdisk)|Programmatic hybrid partition editor and reader: hdisk makes GPT ♡ ❤ ♡ MBR|8|2024-01-20|2024-01-15|
 |39|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|8|2024-04-18|2023-11-28|
 |40|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-05-11|2023-10-13|
@@ -59,17 +59,17 @@
 |52|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|6|2024-06-18|2023-12-04|
 |53|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|6|2024-05-22|2023-09-30|
 |54|[rawleyfowler/Slick](https://github.com/rawleyfowler/Slick)|A Plack toolkit for web apis, web apps, and everything in-between.|6|2024-04-16|2023-07-28|
-|55|[qoliber/DevOps](https://github.com/qoliber/DevOps)|-|5|2024-06-02|2024-05-09|
-|56|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|5|2024-06-28|2024-04-22|
-|57|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|5|2024-06-07|2024-04-14|
-|58|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|5|2024-04-26|2024-04-08|
-|59|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
-|60|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|5|2024-04-01|2024-03-31|
-|61|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
-|62|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|5|2024-04-16|2023-08-15|
-|63|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
-|64|[blaisebits/CobaltStrikeTools](https://github.com/blaisebits/CobaltStrikeTools)|-|4|2024-07-01|2024-05-23|
-|65|[S3N4T0R-0X0/Primitive-Bear-APT](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT)|This is a simulation of attack by (Primitive Bear) APT group targeting the State Migration Service of Ukraine |4|2024-05-26|2024-05-23|
+|55|[S3N4T0R-0X0/Primitive-Bear-APT](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT)|This is a simulation of attack by (Primitive Bear) APT group targeting the State Migration Service of Ukraine |5|2024-05-26|2024-05-23|
+|56|[qoliber/DevOps](https://github.com/qoliber/DevOps)|-|5|2024-06-02|2024-05-09|
+|57|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|5|2024-06-28|2024-04-22|
+|58|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|5|2024-06-07|2024-04-14|
+|59|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|5|2024-04-26|2024-04-08|
+|60|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
+|61|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|5|2024-04-01|2024-03-31|
+|62|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
+|63|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|5|2024-04-16|2023-08-15|
+|64|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
+|65|[blaisebits/CobaltStrikeTools](https://github.com/blaisebits/CobaltStrikeTools)|-|4|2024-07-01|2024-05-23|
 |66|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
 |67|[nabertrand/lms-plugin-pandoradirect](https://github.com/nabertrand/lms-plugin-pandoradirect)|Pandora plugin for Logitech Media Server|4|2024-02-14|2024-02-03|
 |68|[drylikov/cloc-master](https://github.com/drylikov/cloc-master)|-|4|2024-01-20|2024-01-20|
@@ -113,7 +113,7 @@
 |106|[heroalone/Garfield](https://github.com/heroalone/Garfield)|Garfield: Genetic Association by Random Forest and InterpretivE Logic Decisions.|3|2024-06-25|2023-07-07|
 |107|[MartijnLievaart/penv](https://github.com/MartijnLievaart/penv)|Penv is to perl what venv is to python. Somewhat. :P|2|2024-06-18|2024-06-17|
 |108|[lskatz/cecaelia](https://github.com/lskatz/cecaelia)|Earmarking a tool that would read kraken raw output and detect chimera reads or contigs|2|2024-06-11|2024-06-07|
-|109|[LudmilaPetrovna/gta-city-generator](https://github.com/LudmilaPetrovna/gta-city-generator)|City Generation tools for GTA: San Andreas|2|2024-07-04|2024-06-04|
+|109|[LudmilaPetrovna/gta-city-generator](https://github.com/LudmilaPetrovna/gta-city-generator)|City Generation tools for GTA: San Andreas|2|2024-07-05|2024-06-04|
 |110|[MadCamel/acmeproxy.pl](https://github.com/MadCamel/acmeproxy.pl)|ACME DNS challenge proxy|2|2024-05-21|2024-05-21|
 |111|[Yousefali37/Prolog](https://github.com/Yousefali37/Prolog)|Prolog Puzzles|2|2024-05-23|2024-05-19|
 |112|[yefei521/Tetrahymena_Genome_annotation_V2024](https://github.com/yefei521/Tetrahymena_Genome_annotation_V2024)|The appendix file of paper --"Comprehensive genome annotation of the model ciliate Tetrahymena thermophila by in-depth epigenetic and transcriptomic profiling"."|2|2024-06-27|2024-05-14|
@@ -138,7 +138,7 @@
 |131|[nylander/reorient_fasta](https://github.com/nylander/reorient_fasta)|Reverse-complement DNA sequences as needed in relation to a reference. Based on blastn.|2|2024-01-17|2024-01-16|
 |132|[hierle/letterbox-sensor-v2](https://github.com/hierle/letterbox-sensor-v2)|LoRa / LoRaWan letterbox sensor v2|2|2024-01-07|2024-01-07|
 |133|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-06-10|2023-12-27|
-|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-07-04|2023-12-09|
+|134|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-07-05|2023-12-09|
 |135|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
 |136|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
 |137|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|
