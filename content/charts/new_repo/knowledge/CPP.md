@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|939|2024-05-02|2023-11-12|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|940|2024-05-02|2023-11-12|
 |2|[skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)|A Vector Database Tutorial (over CMU-DB's BusTub system)|590|2024-01-21|2024-01-10|
 |3|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|547|2024-06-12|2023-11-03|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|383|2024-06-23|2023-09-16|
@@ -16,7 +16,7 @@
 |9|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|300|2024-07-01|2024-03-22|
 |10|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|283|2024-06-26|2023-07-21|
 |11|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
-|12|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|265|2024-04-04|2024-01-14|
+|12|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|266|2024-04-04|2024-01-14|
 |13|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
 |14|[Villen13/TikTokMultiTool](https://github.com/Villen13/TikTokMultiTool)|tiktok views bot 2024 /  tiktok view bot /  tiktok views / tiktok followers bot /  tiktok views bot / tiktok likes bot /  tiktok shares bot /  tiktok viewbot /  tiktok favorites bot / tiktok Comment b ...|249|2024-06-27|2024-06-26|
 |15|[dan4o12/Immunet-Activation](https://github.com/dan4o12/Immunet-Activation)|immunet-activation-download, free-immunet-activation, immunet-activation-2024, get-immunet-activation, get-immunet-activation-free, how-to-download-immunet-activation, immunet-installer, immunet-activ ...|242|2024-06-28|2024-06-28|
@@ -53,8 +53,8 @@
 |46|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |47|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|147|2024-06-14|2024-01-06|
 |48|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
-|49|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
-|50|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|132|2024-07-04|2023-12-30|
+|49|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|138|2024-07-06|2023-12-30|
+|50|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
 |51|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
 |52|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|116|2024-04-05|2024-03-20|
 |53|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
