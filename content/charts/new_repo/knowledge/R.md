@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,15 +12,15 @@
 |5|[vituri/awesome-julia](https://github.com/vituri/awesome-julia)|A curated list of Julia packages, resources, books and so on|21|2024-04-18|2023-08-30|
 |6|[nicucalcea/Ra11y](https://github.com/nicucalcea/Ra11y)|Collection of accessibility functions for R|20|2024-01-09|2023-09-22|
 |7|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|19|2024-04-15|2023-12-28|
-|8|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|18|2024-07-04|2023-10-09|
+|8|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|19|2024-07-04|2023-10-09|
 |9|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|17|2024-05-03|2023-12-30|
 |10|[mauriciovancine/atlanticr](https://github.com/mauriciovancine/atlanticr)|Provides data from ATLANTIC, a series of Ecology articles on Atlantic Forest biodiversity data|17|2024-03-12|2023-09-02|
 |11|[ABohynDOE/HSDS](https://github.com/ABohynDOE/HSDS)|Data package for the data sets from the book "A Handbook of Small Data Sets" by David Hand (1994)|16|2024-06-28|2024-06-17|
 |12|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|16|2024-05-14|2023-12-23|
 |13|[mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg)|Quarto: The Definitive Guide|15|2024-01-29|2023-10-05|
-|14|[VictoriaKlyueva/Statistic-in-R](https://github.com/VictoriaKlyueva/Statistic-in-R)|Laboratory work of course "Mathematics for Computer Science 3"|12|2024-06-12|2024-05-31|
-|15|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|12|2024-06-19|2024-01-07|
-|16|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|12|2024-02-10|2023-12-13|
+|14|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|13|2024-02-10|2023-12-13|
+|15|[VictoriaKlyueva/Statistic-in-R](https://github.com/VictoriaKlyueva/Statistic-in-R)|Laboratory work of course "Mathematics for Computer Science 3"|12|2024-06-12|2024-05-31|
+|16|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|12|2024-06-19|2024-01-07|
 |17|[prusrafal/Click-Through-Rate-Prediction-Model](https://github.com/prusrafal/Click-Through-Rate-Prediction-Model)|This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through r ...|11|2024-03-10|2024-01-03|
 |18|[ropensci/quadkeyr](https://github.com/ropensci/quadkeyr)|An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  |11|2024-03-21|2023-12-04|
 |19|[xuyiqing/lalonde](https://github.com/xuyiqing/lalonde)|Replications data and code for "LaLonde (1986) after Nearly Four Decades: Lessons Learned" |10|2024-06-14|2024-05-30|

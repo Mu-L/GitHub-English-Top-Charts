@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -27,7 +27,7 @@
 |20|[mulle-objc/MulleObjC](https://github.com/mulle-objc/MulleObjC)|💎 A collection of Objective-C root classes for mulle-objc|51|2024-02-06|
 |21|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2024-05-17|
 |22|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|2024-03-31|
-|23|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|42|2024-07-02|
+|23|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|43|2024-07-02|
 |24|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|2024-06-04|
 |25|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|27|2024-02-20|
 |26|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|2024-03-27|

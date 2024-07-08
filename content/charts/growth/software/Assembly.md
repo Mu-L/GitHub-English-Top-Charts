@@ -1,56 +1,56 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Assembly
-<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57084|15|2024-04-25|
-|2|[microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)|The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes|30400|14|2024-04-25|
-|3|[jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)|Original source code for Impulse Tracker, a music tracker for DOS|289|13|2024-06-17|
-|4|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6526|6|2024-07-03|
-|5|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|45|5|2024-06-28|
-|6|[bick11undead/Hamster-kombat-farm-auto-bot](https://github.com/bick11undead/Hamster-kombat-farm-auto-bot)|Bot that mines coins in HamsterKombat  @hamster_kombat                hamster-kombat-bot-free hamster-kombat-bot-download hamster-kombat-bot-setup hamster-kombat-bot-installation hamster-kombat-tradin ...|178|4|2024-05-27|
-|7|[banmrgamefun40/Catizen-Auto-bot-autofarm](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm)|We will help you automate all processes in the catizen game @catizenbot  auto farm Catzien |168|4|2024-05-27|
-|8|[hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)|📖 An approachable introduction to Assembly.|3072|4|2024-06-17|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57089|15|2024-04-25|
+|2|[microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)|The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes|30404|14|2024-04-25|
+|3|[jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)|Original source code for Impulse Tracker, a music tracker for DOS|290|13|2024-06-17|
+|4|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6530|6|2024-07-07|
+|5|[bick11undead/Hamster-kombat-farm-auto-bot](https://github.com/bick11undead/Hamster-kombat-farm-auto-bot)|Bot that mines coins in HamsterKombat  @hamster_kombat                hamster-kombat-bot-free hamster-kombat-bot-download hamster-kombat-bot-setup hamster-kombat-bot-installation hamster-kombat-tradin ...|178|4|2024-05-27|
+|6|[banmrgamefun40/Catizen-Auto-bot-autofarm](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm)|We will help you automate all processes in the catizen game @catizenbot  auto farm Catzien |168|4|2024-05-27|
+|7|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|46|4|2024-06-28|
+|8|[hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)|📖 An approachable introduction to Assembly.|3073|4|2024-06-17|
 |9|[bakekenytownsend8/Catizen-auto-bot](https://github.com/bakekenytownsend8/Catizen-auto-bot)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|109|3|2024-06-03|
 |10|[pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)|A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu ...|2424|3|2024-07-04|
 |11|[neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re)|Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS|47|3|2024-07-03|
 |12|[nanochess/RayTracer](https://github.com/nanochess/RayTracer)|Ray Tracer in 483 bytes (x86 boot sector)|235|3|2024-05-11|
-|13|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|4923|3|2024-07-04|
-|14|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9911|3|2024-06-26|
-|15|[corkami/pics](https://github.com/corkami/pics)|File formats dissections and more...|10386|3|2024-02-18|
-|16|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|4156|3|2024-06-29|
+|13|[BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)|the official Rust and C implementations of the BLAKE3 cryptographic hash function|4929|3|2024-07-04|
+|14|[kanaka/mal](https://github.com/kanaka/mal)|mal - Make a Lisp|9907|3|2024-06-26|
+|15|[corkami/pics](https://github.com/corkami/pics)|File formats dissections and more...|10387|3|2024-02-18|
+|16|[below/HelloSilicon](https://github.com/below/HelloSilicon)|An introduction to ARM64 assembly on Apple Silicon Macs|4159|3|2024-06-29|
 |17|[mrcool-melrose/Hypercoin-auto-farm-and-Autoclicker](https://github.com/mrcool-melrose/Hypercoin-auto-farm-and-Autoclicker)|HYPER auto farm bot @Hypercoin_bot @hyper_coin @hyper_coin_chat HYPER: probably something|105|3|2024-06-06|
 |18|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|170|2|2024-04-12|
 |19|[fashbestplays98/Citizens_Conflict_free_token](https://github.com/fashbestplays98/Citizens_Conflict_free_token)|-|86|2|2024-05-17|
-|20|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10778|2|2024-07-06|
+|20|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10779|2|2024-07-06|
 |21|[HazyResearch/safari](https://github.com/HazyResearch/safari)|Convolutions for Sequence Modeling|848|2|2024-06-13|
 |22|[hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)|Materials for Windows Malware Analysis training (volume 1)|1894|2|2024-07-01|
 |23|[kil65frostball/axie-infinity-bot](https://github.com/kil65frostball/axie-infinity-bot)|axie-infinity axieinfinity axie-infinity-bot axie-infinity-farming-bot axieinfinity-auto-bot axie-infinity-script axie-infinity-bot-farm|56|2|2024-06-03|
 |24|[hightower969/Hamster-Kombat-auto-Farm-bot](https://github.com/hightower969/Hamster-Kombat-auto-Farm-bot)|Automatic bot that performs tasks and farms currency with the ability to create many threads for farming to @hamster_kombat_bot|92|2|2024-05-17|
 |25|[hightower969/Catizen-Auto-Farm-Bot](https://github.com/hightower969/Catizen-Auto-Farm-Bot)|Auto farm bot to @Catizen_Mntbot|90|2|2024-05-17|
-|26|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|250|2|2024-07-04|
-|27|[SheerSt/pokewilds](https://github.com/SheerSt/pokewilds)|PokeWilds - A Gen 2 Game/Engine using libGDX|2634|2|2024-01-17|
+|26|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|251|2|2024-07-07|
+|27|[SheerSt/pokewilds](https://github.com/SheerSt/pokewilds)|PokeWilds - A Gen 2 Game/Engine using libGDX|2635|2|2024-01-17|
 |28|[blondie7575/ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse)|A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin|60|1|2024-05-31|
 |29|[KD-lab-Open-Source/qdEngine](https://github.com/KD-lab-Open-Source/qdEngine)|-|92|1|2024-06-23|
-|30|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|516|1|2024-05-20|
+|30|[HazyResearch/m2](https://github.com/HazyResearch/m2)|Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"|517|1|2024-05-20|
 |31|[dotdot0/os_c](https://github.com/dotdot0/os_c)|Creating a 32 bit x86 hobby Operating System |4|1|2024-07-03|
-|32|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2513|1|2024-07-06|
+|32|[virtualagc/virtualagc](https://github.com/virtualagc/virtualagc)|Virtual Apollo Guidance Computer (AGC) software|2513|1|2024-07-07|
 |33|[winterknife/PINKPANTHER](https://github.com/winterknife/PINKPANTHER)|Windows x64 handcrafted token stealing kernel-mode shellcode|503|1|2024-04-17|
-|34|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3629|1|2024-07-04|
-|35|[vfranceline/TF_fundamentos](https://github.com/vfranceline/TF_fundamentos)|-|3|1|2024-07-06|
+|34|[xiph/rav1e](https://github.com/xiph/rav1e)|The fastest and safest AV1 encoder.|3629|1|2024-07-07|
+|35|[vfranceline/TF_fundamentos](https://github.com/vfranceline/TF_fundamentos)|-|3|1|2024-07-07|
 |36|[boot41worth/MemeFi-auto-bot](https://github.com/boot41worth/MemeFi-auto-bot)|MemeFi bot auto farm - @memefi_coin_bot, https://t.me/memeficlub memefi auto bot free download / We will help you automate all processes in the memefi game / memefi tool / memefi clicker / memefi mine ...|29|1|2024-06-06|
 |37|[elthinshordevivaphase/TapSwap-AutoClicker](https://github.com/elthinshordevivaphase/TapSwap-AutoClicker)|TapSwap Auto Clicker - Automate Your TapSwap Token Tap Accumulation on Telegram Bot! 🤖|18|1|2024-06-03|
 |38|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|199|1|2024-06-28|
-|39|[donno2048/snake](https://github.com/donno2048/snake)|A minimal snake in assembly |829|1|2024-06-29|
+|39|[donno2048/snake](https://github.com/donno2048/snake)|A minimal snake in assembly |830|1|2024-06-29|
 |40|[lightsoulbonkers84/Bull-Run-auto-bot](https://github.com/lightsoulbonkers84/Bull-Run-auto-bot)|Bull Run auto farm bot @BullApp_bot @HoldBull|19|1|2024-06-03|
 |41|[jtriley-eth/reverse-subway](https://github.com/jtriley-eth/reverse-subway)|-|18|1|2024-06-18|
 |42|[skypipeswitok793/Bull-Run-auto-farm-bot](https://github.com/skypipeswitok793/Bull-Run-auto-farm-bot)|Bot that mines coins in Bull Run - BullApp_bot|64|1|2024-05-18|
-|43|[famidash/famidash](https://github.com/famidash/famidash)|Geometry Dash for the Nintendo Entertainment System|127|1|2024-07-05|
+|43|[famidash/famidash](https://github.com/famidash/famidash)|Geometry Dash for the Nintendo Entertainment System|128|1|2024-07-07|
 |44|[WKL-Sec/FuncAddressPro](https://github.com/WKL-Sec/FuncAddressPro)|A stealthy, assembly-based tool for secure function address resolution, offering a robust alternative to GetProcAddress.|66|1|2024-03-06|
 |45|[ic3qu33n/OffensiveCon24-uefi-task-of-the-translator](https://github.com/ic3qu33n/OffensiveCon24-uefi-task-of-the-translator)|OffensiveCon 2024 Repo, contains PoCs and materials for talk "UEFI and the Task of the Translator"|42|1|2024-05-22|
-|46|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|3881|1|2024-06-28|
+|46|[pret/pokered](https://github.com/pret/pokered)|Disassembly of Pokémon Red/Blue|3883|1|2024-06-28|
 |47|[knockoutdicaprio2/Cube-auto-bot-farm](https://github.com/knockoutdicaprio2/Cube-auto-bot-farm)|Bot that mines coins in cubes coin , @cubesonthewater_bot|67|1|2024-05-18|
 |48|[slu4coder/Minimal-64x4-Home-Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)|My DIY home computer with VGA and PS/2 and 4x(!) the processing power of a Commodore C64 or Apple II.|53|1|2024-05-17|
 |49|[broom19hogcher/Airdrop_free](https://github.com/broom19hogcher/Airdrop_free)|-|86|1|2024-05-10|
@@ -59,20 +59,20 @@
 |52|[tsoding/todo.asm](https://github.com/tsoding/todo.asm)|Todo Web Application in flat assembler|409|1|2024-03-15|
 |53|[grimdoomer/Halo-2-HD](https://github.com/grimdoomer/Halo-2-HD)|HD patch for Halo 2 on the original Xbox|114|1|2024-04-08|
 |54|[klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)|Reed-Solomon Erasure Coding in Go|1817|1|2024-07-04|
-|55|[simplistic6502/smc_prac](https://github.com/simplistic6502/smc_prac)|Speedrun practice ROM hack for Super Mario Collection|2|1|2024-07-05|
+|55|[simplistic6502/smc_prac](https://github.com/simplistic6502/smc_prac)|Speedrun practice ROM hack for Super Mario Collection|2|1|2024-07-07|
 |56|[Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|An Operating System for Z80 computers, written in assembly|541|1|2024-07-06|
 |57|[decrazyo/lng-fds](https://github.com/decrazyo/lng-fds)|Famicom Disk System port of LUnix Next Generation|228|1|2024-02-20|
 |58|[netwide-assembler/nasm](https://github.com/netwide-assembler/nasm)|A cross-platform x86 assembler with an Intel-like syntax|2250|1|2024-06-11|
 |59|[MystoganSync/AutoFarmCatizen](https://github.com/MystoganSync/AutoFarmCatizen)|A useful tool for automation of some mandatory in-game actions @catizenbot,  @Catizen_Mntbot|76|1|2024-05-30|
-|60|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|3641|1|2024-07-02|
+|60|[briansmith/ring](https://github.com/briansmith/ring)|Safe, fast, small crypto using Rust|3642|1|2024-07-02|
 |61|[jumbo43eagle/HAMSTER_KOMBAT_AUTOBOT](https://github.com/jumbo43eagle/HAMSTER_KOMBAT_AUTOBOT)|Hamster kombat auto bot / hamster kombat auto clicker Hi everyone today we present you our bot for crypto game hamster kombat with which you can automate the whole process in the game which is possibl ...|37|1|2024-06-03|
 |62|[HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna)|Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena|532|1|2024-06-15|
 |63|[alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)|🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.|937|1|2024-01-12|
-|64|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2321|1|2024-07-04|
-|65|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|801|1|2024-02-04|
-|66|[openhwgroup/cva6](https://github.com/openhwgroup/cva6)|The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux|2141|1|2024-07-06|
-|67|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|31|1|2024-07-05|
-|68|[zeldaret/tp](https://github.com/zeldaret/tp)|Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)|791|1|2024-07-06|
+|64|[SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)|A FPGA friendly 32 bit RISC-V CPU implementation|2324|1|2024-07-04|
+|65|[davidcallanan/os-series](https://github.com/davidcallanan/os-series)|-|802|1|2024-02-04|
+|66|[openhwgroup/cva6](https://github.com/openhwgroup/cva6)|The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux|2143|1|2024-07-06|
+|67|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|32|1|2024-07-05|
+|68|[zeldaret/tp](https://github.com/zeldaret/tp)|Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)|793|1|2024-07-07|
 |69|[markmoxon/nes-elite-beebasm](https://github.com/markmoxon/nes-elite-beebasm)|Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)|369|1|2024-06-29|
 |70|[linkert66/Mineralz-Bot-mining-X1000](https://github.com/linkert66/Mineralz-Bot-mining-X1000)|Autobot Mineralz to create a multi-account X1000 for mining @mineralzbot @mineralzton @mineralzchat|18|1|2024-06-03|
 |71|[everything8215/ff5](https://github.com/everything8215/ff5)|Disassembly and ROM info for Final Fantasy V|3|0|2024-07-06|
@@ -82,7 +82,7 @@
 |75|[GREENSHELLRAGE/8086-breadboard-computer](https://github.com/GREENSHELLRAGE/8086-breadboard-computer)|Designing and building a 16-bit x86 computer from scratch|2|0|2024-02-16|
 |76|[yorncl/snake-bootloader](https://github.com/yorncl/snake-bootloader)|A bootable 16bit x86 snake game|3|0|2024-06-25|
 |77|[eduardocasino/append](https://github.com/eduardocasino/append)|FreeDOS APPEND command|3|0|2024-02-23|
-|78|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|61|0|2024-07-04|
+|78|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|62|0|2024-07-04|
 |79|[joyrex2001/dsk2rom](https://github.com/joyrex2001/dsk2rom)|This is an adjusted MSX diskrom that loads sectors from rom instead of a disk. It can be used to convert .dsk images to .rom images.|27|0|2024-02-23|
 |80|[YHCnb/PacMan](https://github.com/YHCnb/PacMan)|PacMan game build by asm|3|0|2024-01-18|
 |81|[FluBBaOfWard/ARMV30MZ](https://github.com/FluBBaOfWard/ARMV30MZ)|Nec V30MZ cpu emulator for ARM 32.|5|0|2024-05-15|
@@ -97,7 +97,7 @@
 |90|[YoungHaKim7/Rust_Tutorial_Full_course](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course)|My Youtube Channel - GlobalYoung https://www.youtube.com/@GlobalYoung7|9|0|2024-01-09|
 |91|[MECoast/MECoast](https://github.com/MECoast/MECoast)|Config files for my GitHub profile.|9|0|2024-06-09|
 |92|[haroohie-club/ChokuretsuTranslationBuild](https://github.com/haroohie-club/ChokuretsuTranslationBuild)|The build scripts and assembly for building the translation patches of Suzumiya Haruhi no Chokuretsu.|5|0|2024-03-03|
-|93|[jrs0ul/nes_survival](https://github.com/jrs0ul/nes_survival)|A survival game for the NES|15|0|2024-07-04|
+|93|[jrs0ul/nes_survival](https://github.com/jrs0ul/nes_survival)|A survival game for the NES|15|0|2024-07-07|
 |94|[9xbt/upOS](https://github.com/9xbt/upOS)|A simple kernel made in assembly.|4|0|2024-06-21|
 |95|[duff2013/ulptool](https://github.com/duff2013/ulptool)|Program the esp32 ULP coprocessor in Arduino|273|0|2024-03-11|
 |96|[maleuma/CAOS](https://github.com/maleuma/CAOS)|Betriebssystem für den KC85 von Mühlhausen|5|0|2024-06-16|
@@ -111,7 +111,7 @@
 |104|[mahamadulhasanshaikat/Assembly-Language](https://github.com/mahamadulhasanshaikat/Assembly-Language)|-|3|0|2024-06-04|
 |105|[hcs64/neon64v2](https://github.com/hcs64/neon64v2)|NES Emulation On the N64, 2.0 WIP|76|0|2024-06-22|
 |106|[pkmncoraldev/polishedcoral](https://github.com/pkmncoraldev/polishedcoral)|Pokemon Coral Version - Ported to PolishedCrystal|72|0|2024-07-06|
-|107|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Decompilation of Pokemon HeartGold/SoulSilver|281|0|2024-07-06|
+|107|[pret/pokeheartgold](https://github.com/pret/pokeheartgold)|Decompilation of Pokemon HeartGold/SoulSilver|283|0|2024-07-07|
 |108|[ETC-A/etca-asm](https://github.com/ETC-A/etca-asm)|-|5|0|2024-02-12|
 |109|[jellees/bkgr](https://github.com/jellees/bkgr)|A decompilation of Banjo Kazooie Grunty's Revenge for GBA|28|0|2024-01-13|
 |110|[flamewing/flamedriver](https://github.com/flamewing/flamedriver)|Upgraded S3&K sound driver|12|0|2024-06-15|
@@ -120,7 +120,7 @@
 |113|[Taiga74164/HeavenAscender2](https://github.com/Taiga74164/HeavenAscender2)|Cheat PoC using DLL Proxying for a game about killing bugs and robots|5|0|2024-03-14|
 |114|[soerface/7billionhumans](https://github.com/soerface/7billionhumans)|Solutions to the "7 Billion Humans" challenges|58|0|2024-06-28|
 |115|[k4yt3x/narcissus](https://github.com/k4yt3x/narcissus)|A simple reverse engineering challenge|3|0|2024-01-19|
-|116|[siraben/ti84-forth](https://github.com/siraben/ti84-forth)|A Forth implementation for the TI-84+ calculator.|84|0|2024-05-23|
+|116|[siraben/ti84-forth](https://github.com/siraben/ti84-forth)|A Forth implementation for the TI-84+ calculator.|85|0|2024-05-23|
 |117|[paolo2kk/8086-Assembly-PONG](https://github.com/paolo2kk/8086-Assembly-PONG)|-|3|0|2024-03-17|
 |118|[slu4coder/The-Minimal-64-Home-Computer](https://github.com/slu4coder/The-Minimal-64-Home-Computer)|Legacy: Full TTL-only home computer with VGA and PS/2 and twice the processing power of a Commodore 64|71|0|2024-03-31|
 |119|[jotd666/cd32load](https://github.com/jotd666/cd32load)|A program which is able to run whdload slaves on a CD32 from CD, without a harddisk, or on A600/A1200 IDE with low memory|8|0|2024-01-23|
@@ -129,7 +129,7 @@
 |122|[timtashpulatov/ok240](https://github.com/timtashpulatov/ok240)|-|4|0|2024-02-28|
 |123|[datajerk/gameserverclient](https://github.com/datajerk/gameserverclient)|http://asciiexpress.net/gameserver native client|2|0|2024-06-23|
 |124|[NesHacker/NES-RNG](https://github.com/NesHacker/NES-RNG)|An NES RNG Utility Library written in 6502 assembly.|16|0|2024-05-10|
-|125|[scawful/Oracle-of-Secrets](https://github.com/scawful/Oracle-of-Secrets)|Custom Code for the Legend of Zelda: Oracle of Secrets ROM hack|10|0|2024-07-06|
+|125|[scawful/Oracle-of-Secrets](https://github.com/scawful/Oracle-of-Secrets)|Custom Code for the Legend of Zelda: Oracle of Secrets ROM hack|10|0|2024-07-07|
 |126|[ponzu840w/miracos](https://github.com/ponzu840w/miracos)|CP/M like Card Operating System for 6502|2|0|2024-03-01|
 |127|[neozeed/himem.sys-2.06](https://github.com/neozeed/himem.sys-2.06)|Microsoft's published himem.sys version 2.06 from XMS20.ARC|5|0|2024-01-19|
 |128|[markmoxon/disc-elite-beebasm](https://github.com/markmoxon/disc-elite-beebasm)|Fully documented and annotated source code for the disc version of Elite on the BBC Micro|41|0|2024-07-04|
@@ -146,12 +146,12 @@
 |139|[fergusleen/m4ewenterm](https://github.com/fergusleen/m4ewenterm)|An ANSI Telnet client for the Amstrad CPC with M4 Board|9|0|2024-03-22|
 |140|[FluBBaOfWard/ARMZ80](https://github.com/FluBBaOfWard/ARMZ80)|Zilog Z80 cpu emulator for ARM32.|6|0|2024-05-15|
 |141|[Antonio-Luque/Hex](https://github.com/Antonio-Luque/Hex)|Hex game for ZX Spectrum|3|0|2024-02-24|
-|142|[biermanncarl/cx16-concerto](https://github.com/biermanncarl/cx16-concerto)|Concerto is a synth engine for the Commander X16.|5|0|2024-07-05|
+|142|[biermanncarl/cx16-concerto](https://github.com/biermanncarl/cx16-concerto)|Concerto is a synth engine for the Commander X16.|5|0|2024-07-07|
 |143|[LineageOS/android_bionic](https://github.com/LineageOS/android_bionic)|-|31|0|2024-06-22|
 |144|[patricksurry/p8fs](https://github.com/patricksurry/p8fs)|platform-independent kernel of the prodos8 filesystem MLI|2|0|2024-02-18|
 |145|[cppchriscpp/ld40](https://github.com/cppchriscpp/ld40)|Fluffy Space Escape|3|0|2024-01-26|
 |146|[WillStevens/basic1K](https://github.com/WillStevens/basic1K)|A 1K Tiny BASIC interpreter for the Intel 8080|5|0|2024-05-12|
-|147|[StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts)|Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base|5|0|2024-07-06|
+|147|[StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts)|Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base|5|0|2024-07-07|
 |148|[FoenixRetro/f256-superbasic](https://github.com/FoenixRetro/f256-superbasic)|SuperBASIC for the F256 computers|17|0|2024-03-17|
 |149|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|58|0|2024-05-14|
 |150|[Clownacy/Sonic-2-Aug-21st-Disassembly](https://github.com/Clownacy/Sonic-2-Aug-21st-Disassembly)|Disassembly of Sonic the Hedgehog 2's August 21st prototype.|6|0|2024-02-25|

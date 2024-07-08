@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Groovy
-<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|16362|2024-07-06|
-|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|8327|2024-06-24|
+|1|[gradle/gradle](https://github.com/gradle/gradle)|Adaptable, fast automation for all|16367|2024-07-07|
+|2|[bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources)|DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP|8328|2024-06-24|
 |3|[rundeck/rundeck](https://github.com/rundeck/rundeck)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5411|2024-07-05|
-|4|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3618|2024-06-27|
+|4|[johnrengelman/shadow](https://github.com/johnrengelman/shadow)|Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.|3619|2024-06-27|
 |5|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3079|2024-06-23|
-|6|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2613|2024-07-05|
+|6|[nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)|A DSL for data-driven computational pipelines|2614|2024-07-07|
 |7|[jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)|A Groovy DSL for Jenkins Jobs - Sweeeeet!|1889|2024-06-10|
 |8|[google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)|Protobuf Plugin for Gradle|1729|2024-05-11|
 |9|[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)|Framework for unit testing Jenkins pipelines |1529|2024-07-06|
@@ -30,7 +30,7 @@
 |23|[node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)|Gradle plugin for integrating NodeJS in your build. :rocket:|592|2024-05-04|
 |24|[jenkinsci/pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin)|-|561|2024-07-03|
 |25|[allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin)|Gradle release & version management plugin.|550|2024-07-05|
-|26|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|546|2024-04-03|
+|26|[brown-uk/dict_uk](https://github.com/brown-uk/dict_uk)|Project to generate POS tag dictionary for Ukrainian language|547|2024-04-03|
 |27|[ajoberstar/grgit](https://github.com/ajoberstar/grgit)|The Groovy way to use Git.|511|2024-05-08|
 |28|[etiennestuder/gradle-jooq-plugin](https://github.com/etiennestuder/gradle-jooq-plugin)|Gradle plugin that integrates jOOQ. |502|2024-06-09|
 |29|[gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)|Gradle plugin that fixes Android build caching problems.|476|2024-07-01|
@@ -45,16 +45,16 @@
 |38|[beryx/badass-jlink-plugin](https://github.com/beryx/badass-jlink-plugin)|Create a custom runtime image of your modular application|372|2024-03-25|
 |39|[nebula-plugins/gradle-ospackage-plugin](https://github.com/nebula-plugins/gradle-ospackage-plugin)|Gradle plugin for constructing linux packages, specifically RPM and DEBs.|366|2024-05-31|
 |40|[jfrog/artifactory-user-plugins](https://github.com/jfrog/artifactory-user-plugins)|Sample Artifactory User Plugins|364|2024-06-21|
-|41|[palantir/gradle-git-version](https://github.com/palantir/gradle-git-version)|a Gradle plugin that uses `git describe` to produce a version string.|362|2024-07-06|
+|41|[palantir/gradle-git-version](https://github.com/palantir/gradle-git-version)|a Gradle plugin that uses `git describe` to produce a version string.|362|2024-07-07|
 |42|[dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle)|The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.|355|2024-07-02|
 |43|[rackerlabs/repose](https://github.com/rackerlabs/repose)|The powerful, programmable, API Middleware Platform|337|2024-04-11|
 |44|[int128/gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|318|2024-06-17|
 |45|[n0mer/gradle-git-properties](https://github.com/n0mer/gradle-git-properties)|Gradle plugin for `git.properties` file generation|317|2024-05-31|
 |46|[jk1/Gradle-License-Report](https://github.com/jk1/Gradle-License-Report)|A plugin for generating reports about the licenses of third party software using Gradle|311|2024-06-04|
-|47|[CodeNarc/CodeNarc](https://github.com/CodeNarc/CodeNarc)|CodeNarc source|303|2024-07-06|
+|47|[CodeNarc/CodeNarc](https://github.com/CodeNarc/CodeNarc)|CodeNarc source|303|2024-07-07|
 |48|[int128/gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing|301|2024-07-02|
 |49|[gradle-dependency-analyze/gradle-dependency-analyze](https://github.com/gradle-dependency-analyze/gradle-dependency-analyze)|Dependency analysis plugin for gradle|300|2024-07-05|
-|50|[TheBoegl/gradle-launch4j](https://github.com/TheBoegl/gradle-launch4j)|A gradle-plugin to create windows executables with launch4j|298|2024-02-06|
+|50|[TheBoegl/gradle-launch4j](https://github.com/TheBoegl/gradle-launch4j)|A gradle-plugin to create windows executables with launch4j|298|2024-07-07|
 |51|[codersaur/SmartThings](https://github.com/codersaur/SmartThings)|Samsung SmartThings SmartApps and Device Handlers|297|2024-04-18|
 |52|[nebula-plugins/gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)|A plugin to allow people using dynamic dependency versions to lock them to specific versions.|291|2024-06-18|
 |53|[asciidoctor/asciidoctor-gradle-plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin)|A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.|283|2024-06-01|
@@ -77,7 +77,7 @@
 |70|[grails/grails-doc](https://github.com/grails/grails-doc)|Documentation Project For The Grails Web Application Framework|200|2024-06-22|
 |71|[allegro/tradukisto](https://github.com/allegro/tradukisto)|A Java i18n library created to convert numbers to their word representations.|197|2024-06-10|
 |72|[nemerosa/versioning](https://github.com/nemerosa/versioning)|Gradle plug-in to generate version information from the SCM branch (Git or Svn)|197|2024-03-10|
-|73|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|194|2024-07-06|
+|73|[SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry)|Repository for the Supersymmetry Minecraft Modpack|195|2024-07-07|
 |74|[sherter/google-java-format-gradle-plugin](https://github.com/sherter/google-java-format-gradle-plugin)|-|187|2024-07-03|
 |75|[ExpediaGroup/jenkins-spock](https://github.com/ExpediaGroup/jenkins-spock)|Unit-test Jenkins pipeline code with Spock|186|2024-06-28|
 |76|[cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground)|Creates a complete GitOps-based operational stack on your Kubernetes clusters|176|2024-07-03|
@@ -103,9 +103,9 @@
 |96|[katalon-studio/docker-images](https://github.com/katalon-studio/docker-images)|Docker images for Katalon Studio and other frameworks|118|2024-07-03|
 |97|[int128/groovy-ssh](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|115|2024-06-30|
 |98|[ballerina-platform/plugin-gradle](https://github.com/ballerina-platform/plugin-gradle)|Ballerina Gradle plugin|111|2024-07-02|
-|99|[tonesto7/echo-speaks](https://github.com/tonesto7/echo-speaks)|Integrate your Amazon Echo devices into your Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback includin ...|110|2024-03-07|
-|100|[brown-uk/corpus](https://github.com/brown-uk/corpus)|Браунський корпус української мови|110|2024-06-26|
-|101|[jcgay/maven-profiler](https://github.com/jcgay/maven-profiler)|Log Maven mojos execution time|110|2024-07-01|
+|99|[jcgay/maven-profiler](https://github.com/jcgay/maven-profiler)|Log Maven mojos execution time|111|2024-07-01|
+|100|[tonesto7/echo-speaks](https://github.com/tonesto7/echo-speaks)|Integrate your Amazon Echo devices into your Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback includin ...|110|2024-03-07|
+|101|[brown-uk/corpus](https://github.com/brown-uk/corpus)|Браунський корпус української мови|110|2024-06-26|
 |102|[SANdood/Ecobee-Suite](https://github.com/SANdood/Ecobee-Suite)|Ecobee Suite is for integrating Ecobee thermostats & sensors with the Hubitat home automation platform|109|2024-02-29|
 |103|[gesellix/docker-client](https://github.com/gesellix/docker-client)|A Docker client for Java written in Kotlin and Groovy|107|2024-07-01|
 |104|[BreadMoirai/github-release-gradle-plugin](https://github.com/BreadMoirai/github-release-gradle-plugin)|A Gradle Plugin to send Releases to Github|106|2024-01-31|
@@ -144,9 +144,9 @@
 |137|[nebula-plugins/nebula-dependency-recommender-plugin](https://github.com/nebula-plugins/nebula-dependency-recommender-plugin)|Leave off version numbers in your dependencies section and have versions recommended by several possible sources.|70|2024-05-31|
 |138|[graph-quilt/graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java)|GraphQL Orchestrator stitches the schemas from multiple micro-services and orchestrates the graphql queries to these services accurately at runtime|68|2024-02-27|
 |139|[nvuillam/vscode-groovy-lint](https://github.com/nvuillam/vscode-groovy-lint)|VSCode extension to lint , correct and format groovy and Jenkinsfile |68|2024-07-06|
-|140|[AdobeDocs/experience-manager-65.en](https://github.com/AdobeDocs/experience-manager-65.en)|This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.|68|2024-07-05|
-|141|[grails/gorm-mongodb](https://github.com/grails/gorm-mongodb)|GORM for MongoDB|68|2024-06-20|
-|142|[dkilgore90/google-sdm-api](https://github.com/dkilgore90/google-sdm-api)|-|67|2024-05-08|
+|140|[grails/gorm-mongodb](https://github.com/grails/gorm-mongodb)|GORM for MongoDB|68|2024-06-20|
+|141|[dkilgore90/google-sdm-api](https://github.com/dkilgore90/google-sdm-api)|-|67|2024-05-08|
+|142|[AdobeDocs/experience-manager-65.en](https://github.com/AdobeDocs/experience-manager-65.en)|This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.|67|2024-07-05|
 |143|[xvik/gradle-use-python-plugin](https://github.com/xvik/gradle-use-python-plugin)|Use python modules in gradle build|67|2024-05-30|
 |144|[aim42/htmlSanityCheck](https://github.com/aim42/htmlSanityCheck)|Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like. |67|2024-06-23|
 |145|[DaveGut/HubitatActive](https://github.com/DaveGut/HubitatActive)|Hubitat Environment Developments|64|2024-03-20|
@@ -154,8 +154,8 @@
 |147|[gravitee-io/issues](https://github.com/gravitee-io/issues)|Gravitee.io - API Platform - Issues|64|2024-03-05|
 |148|[cnumr/ecoCode](https://github.com/cnumr/ecoCode)|Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin|62|2024-01-17|
 |149|[marcingrzejszczak/jsonassert](https://github.com/marcingrzejszczak/jsonassert)|Simple library to provide fluent interface for JSON assertions|62|2024-07-01|
-|150|[orbisgis/geoclimate](https://github.com/orbisgis/geoclimate)|Geospatial processing toolbox for environmental and climate studies |59|2024-07-05|
-|151|[croz-ltd/klokwrk-project](https://github.com/croz-ltd/klokwrk-project)|Showcase and blueprint for implementing elaborated distributed systems on JVM. It should also serve as a playground for incubating reusable libraries useful on its own.|58|2024-06-09|
+|150|[croz-ltd/klokwrk-project](https://github.com/croz-ltd/klokwrk-project)|Showcase and blueprint for implementing elaborated distributed systems on JVM. It should also serve as a playground for incubating reusable libraries useful on its own.|59|2024-06-09|
+|151|[orbisgis/geoclimate](https://github.com/orbisgis/geoclimate)|Geospatial processing toolbox for environmental and climate studies |59|2024-07-05|
 |152|[Accenture/adop-cartridge-java](https://github.com/Accenture/adop-cartridge-java)|-|58|2024-02-29|
 |153|[mbudnek/google-home-hubitat-community](https://github.com/mbudnek/google-home-hubitat-community)|A community-maintained, full-featured, and highly configurable integration between Hubitat Elevation and Google Home.|57|2024-04-12|
 |154|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|56|2024-03-21|
@@ -163,13 +163,13 @@
 |156|[green-code-initiative/ecoCode-android](https://github.com/green-code-initiative/ecoCode-android)|Reduce the environmental footprint of your Java-based Android apps with SonarQube|54|2024-06-15|
 |157|[coreos/fedora-coreos-pipeline](https://github.com/coreos/fedora-coreos-pipeline)|Build pipeline for Fedora CoreOS|54|2024-07-05|
 |158|[katalon-studio-samples/ci-samples](https://github.com/katalon-studio-samples/ci-samples)|Sample configurations for various CI systems.|54|2024-03-22|
-|159|[ascrus/getl](https://github.com/ascrus/getl)|A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.|54|2024-01-08|
-|160|[JetBrains/gradle-python-envs](https://github.com/JetBrains/gradle-python-envs)|Gradle plugin that automates Python environments creation|53|2024-07-01|
+|159|[JetBrains/gradle-python-envs](https://github.com/JetBrains/gradle-python-envs)|Gradle plugin that automates Python environments creation|54|2024-07-01|
+|160|[ascrus/getl](https://github.com/ascrus/getl)|A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.|54|2024-01-08|
 |161|[streamr-dev/core-api](https://github.com/streamr-dev/core-api)|Old Corea-milestone centralized backend now obsolete as everything is decentralized.|53|2024-04-10|
 |162|[libris/librisxl](https://github.com/libris/librisxl)|Libris XL|53|2024-07-04|
 |163|[kousen/IntroGroovy](https://github.com/kousen/IntroGroovy)|Intro Groovy source, based on Appendix A of Making Java Groovy|52|2024-07-01|
 |164|[bluesoft/bee](https://github.com/bluesoft/bee)|database changes manager|52|2024-06-27|
-|165|[eclipse-openj9/openj9-docs](https://github.com/eclipse-openj9/openj9-docs)|Source repository for the Eclipse OpenJ9 user documentation, which should be viewed [online]https://www.eclipse.org/openj9/docs/|51|2024-07-06|
+|165|[eclipse-openj9/openj9-docs](https://github.com/eclipse-openj9/openj9-docs)|Source repository for the Eclipse OpenJ9 user documentation, which should be viewed [online]https://www.eclipse.org/openj9/docs/|51|2024-07-07|
 |166|[xvik/gradle-animalsniffer-plugin](https://github.com/xvik/gradle-animalsniffer-plugin)|Gradle AnimalSniffer plugin|51|2024-07-05|
 |167|[sourcemuse/GradleMongoPlugin](https://github.com/sourcemuse/GradleMongoPlugin)|Gradle plugin for running a managed instance of Mongo.|51|2024-07-05|
 |168|[moqui/HiveMind](https://github.com/moqui/HiveMind)|HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and  ...|51|2024-03-12|
@@ -196,7 +196,7 @@
 |189|[lessthanoptimal/gversion-plugin](https://github.com/lessthanoptimal/gversion-plugin)|Gradle plugin for autogenerating version info from gradle and git|43|2024-05-11|
 |190|[BuglyDevTeam/BuglyBetaUploader](https://github.com/BuglyDevTeam/BuglyBetaUploader)|A grade plugin to upload apk file to Beta.|43|2024-07-05|
 |191|[alan-morey/force-meta-backup](https://github.com/alan-morey/force-meta-backup)|A tool to help download Salesforce.com Metadata|42|2024-02-10|
-|192|[gonchik/cleanup-scripts](https://github.com/gonchik/cleanup-scripts)|Scripts for cleanup Atlassian Jira (Groovy, Python)|41|2024-07-06|
+|192|[gonchik/cleanup-scripts](https://github.com/gonchik/cleanup-scripts)|Scripts for cleanup Atlassian Jira (Groovy, Python)|41|2024-07-07|
 |193|[mikessh/migec](https://github.com/mikessh/migec)|A RepSeq processing swiss-knife|41|2024-03-29|
 |194|[grails-aws/grails-aws](https://github.com/grails-aws/grails-aws)|Grails plugin for Amazon Web Services|41|2024-07-05|
 |195|[HubitatCommunity/hubitatpackagemanager](https://github.com/HubitatCommunity/hubitatpackagemanager)|-|40|2024-04-14|
@@ -204,7 +204,7 @@
 |197|[egonw/cdkbook](https://github.com/egonw/cdkbook)|Groovy Cheminformatics with the Chemistry Development Kit|40|2024-06-15|
 |198|[KurtSanders/STAmbientWeather](https://github.com/KurtSanders/STAmbientWeather)|Hubitat Integration for Ambient Weather Station|40|2024-06-18|
 |199|[MichaelChirico/r-ci-samples](https://github.com/MichaelChirico/r-ci-samples)|Sample CI&metadata files from popular R package repos|39|2024-07-01|
-|200|[demonnic/muddler](https://github.com/demonnic/muddler)|A build tool for Mudlet package developers|38|2024-06-21|
+|200|[ChrLipp/notes-import](https://github.com/ChrLipp/notes-import)|Parses Apple notes SQLite databases|39|2024-03-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

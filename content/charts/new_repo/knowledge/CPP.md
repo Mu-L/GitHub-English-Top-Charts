@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
 |8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|303|2024-04-02|2023-08-28|
 |9|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|300|2024-07-01|2024-03-22|
-|10|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|283|2024-06-26|2023-07-21|
+|10|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|284|2024-06-26|2023-07-21|
 |11|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |12|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|266|2024-04-04|2024-01-14|
 |13|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
@@ -53,13 +53,13 @@
 |46|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |47|[Practice3DVision/SLMaster](https://github.com/Practice3DVision/SLMaster)|SLMaster is a relatively complete open-source Structured Light 3D camera software. You can use it to complete a series of operations including calibration, stripe encoding, 3D reconstruction, and poin ...|147|2024-06-14|2024-01-06|
 |48|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
-|49|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|138|2024-07-06|2023-12-30|
+|49|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|138|2024-07-07|2023-12-30|
 |50|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
 |51|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
 |52|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|116|2024-04-05|2024-03-20|
 |53|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
-|54|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
-|55|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|111|2024-06-22|2023-10-25|
+|54|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|113|2024-06-22|2023-10-25|
+|55|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
 |56|[naksyn/Embedder](https://github.com/naksyn/Embedder)|Embedder is a collection of sources in different languages to embed Python interpreter with minimal dependencies|108|2024-05-29|2023-07-13|
 |57|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-06|2023-10-01|
 |58|[cv-rmvl/rmvl](https://github.com/cv-rmvl/rmvl)|RoboMaster Vision Library|63|2024-01-26|2023-08-16|
