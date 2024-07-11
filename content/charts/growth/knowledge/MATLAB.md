@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-07-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2541|4|2024-07-08|
-|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|336|2|2024-06-06|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2546|4|2024-07-08|
+|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|337|2|2024-06-06|
 |3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|244|1|2024-06-28|
-|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1137|1|2024-06-03|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1346|1|2024-03-22|
+|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1140|1|2024-06-03|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1347|1|2024-03-22|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|17|0|2024-06-11|
 |8|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|9|0|2024-07-06|
@@ -27,7 +27,7 @@
 |20|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|13|0|2024-06-10|
 |21|[Aketirani/active-noise-cancellation](https://github.com/Aketirani/active-noise-cancellation)|Active Noise Cancellation Using Filtered Adaptive Algorithms|19|0|2024-03-16|
 |22|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|0|2024-04-09|
-|23|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|11|0|2024-07-09|
+|23|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|11|0|2024-07-10|
 |24|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|6|0|2024-05-27|
 |25|[DingdongD/CFAR_Lib](https://github.com/DingdongD/CFAR_Lib)|This repository is dedicated to the simulation research of constant false alarm rate (CFAR) detection algorithms for millimeter-wave radar. It encompasses various algorithms, including but not limited ...|8|0|2024-02-24|
 |26|[jlockhar/GLASS-AI](https://github.com/jlockhar/GLASS-AI)|Machine learning tool for analysis of lung adenocarcinoma tumors|4|0|2024-06-11|
@@ -91,7 +91,7 @@
 |84|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|0|2024-03-06|
 |85|[lorenzocalogero/LMPC_Quadrotors](https://github.com/lorenzocalogero/LMPC_Quadrotors)|Learning Model Predictive Control for Quadrotors Minimum-Time Flight in Autonomous Racing Scenarios|17|0|2024-01-16|
 |86|[csea-lab/csea-lab](https://github.com/csea-lab/csea-lab)|A collection of the many scripts we use here at CSEA.|9|0|2024-06-20|
-|87|[Visscher-Lab/FLAP](https://github.com/Visscher-Lab/FLAP)|Factors in Learning and Plasticity|3|0|2024-07-09|
+|87|[Visscher-Lab/FLAP](https://github.com/Visscher-Lab/FLAP)|Factors in Learning and Plasticity|3|0|2024-07-10|
 |88|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|9|0|2024-04-30|
 |89|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|0|2024-01-24|
 |90|[gokhangoksu/MTM4502](https://github.com/gokhangoksu/MTM4502)|MTM4502 Optimization Techniques MATLAB Tutorial Repository|9|0|2024-04-25|
@@ -136,7 +136,7 @@
 |129|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|14|0|2024-03-24|
 |130|[Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments](https://github.com/Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments)|This resiprocity contains my assignments on the graduate level course Semiconductor Optoelectronic Devices.|3|0|2024-06-02|
 |131|[THUHoloLab/pixel-super-resolution-phase-retrieval](https://github.com/THUHoloLab/pixel-super-resolution-phase-retrieval)|Algorithms for pixel super-resolution phase retrieval|26|0|2024-02-07|
-|132|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|0|2024-07-08|
+|132|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|0|2024-07-10|
 |133|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|0|2024-04-18|
 |134|[jjjllxx/Multiple-UAV-Motion-Control-System](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System)|Multiple UAV motion control system. Including multiple path planning algorithms. NUS master project.|14|0|2024-03-28|
 |135|[PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing](https://github.com/PolyuWirelessCommunicationLab/Data-Association-in-Network-Device-Free-Sensing)|The codes are for the papers under the topic of data association in networked sensing.|9|0|2024-05-24|
@@ -202,7 +202,7 @@
 |195|[richardandersson/EyeMovementDetectorEvaluation](https://github.com/richardandersson/EyeMovementDetectorEvaluation)|Code and data for evaluating eye movement detection algorithms. Material used in the paper: Andersson, R., Larsson, L., Holmqvist, K., Stridh, M. & Nyström, M. (2016). One algorithm to rule them all?  ...|29|0|2024-01-31|
 |196|[maegant/POLAR](https://github.com/maegant/POLAR)|Preference Optimization and Learning Algorithms for Robotics (POLAR) Toolbox|6|0|2024-06-17|
 |197|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|7|0|2024-05-31|
-|198|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|5|0|2024-06-28|
+|198|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|6|0|2024-06-28|
 |199|[lihanlian/trajectory-tracking-ilc](https://github.com/lihanlian/trajectory-tracking-ilc)|Use iterative learning control (ILC) for trajectory tracking task with the existence of model mismatch. MPC is also used for comparison.|7|0|2024-05-19|
 |200|[dynamicslab/databook_matlab](https://github.com/dynamicslab/databook_matlab)|Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz http://w ...|248|0|2024-02-09|
 

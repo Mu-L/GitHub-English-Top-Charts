@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-07-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|336|2024-06-06|2024-01-27|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|337|2024-06-06|2024-01-27|
 |2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|244|2024-06-28|2023-08-28|
 |3|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|141|2024-06-02|2023-07-28|
 |4|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|52|2024-05-17|2024-01-11|
-|5|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|19|2024-06-22|2023-10-13|
+|5|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|19|2024-07-10|2023-10-13|
 |6|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|13|2024-04-09|2024-02-09|
 |7|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|2024-01-29|
 |8|[joanmargalef/Matlab-Brush-Up-Course](https://github.com/joanmargalef/Matlab-Brush-Up-Course)|This is an introductionary course to Matlab made for Econ Grad Students|11|2024-01-14|2024-01-14|
@@ -18,7 +18,7 @@
 |11|[fllseu/book-modeling-and-stability-analysis-of-IBRs](https://github.com/fllseu/book-modeling-and-stability-analysis-of-IBRs)|codes and Simscape SPS models in the book|10|2024-01-24|2024-01-19|
 |12|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|10|2024-06-03|2023-08-28|
 |13|[rares9301/mn_hw](https://github.com/rares9301/mn_hw)|simple but efficient kernel regression and anomaly detection algorithms |9|2024-05-04|2024-04-17|
-|14|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|2024-07-08|2023-12-20|
+|14|[tinawunderlich/MultichannelGPR](https://github.com/tinawunderlich/MultichannelGPR)|A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data|9|2024-07-10|2023-12-20|
 |15|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|9|2024-05-01|2023-11-20|
 |16|[Unina-Docs/exercises](https://github.com/Unina-Docs/exercises)|[UNOFFICIAL] Freely available exercises & exams for Computer Science Course at F2 |9|2024-03-19|2023-10-09|
 |17|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|9|2024-03-09|2023-07-21|
@@ -38,12 +38,12 @@
 |31|[aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)|The source codes of Parrot optimizer are also publicly available at https://aliasgharheidari.com/PO.html, This study presents the analysis and principle of an effective algorithm to optimize different ...|6|2024-05-11|2024-02-01|
 |32|[ssvart/Stacked-Broad-Learning-System](https://github.com/ssvart/Stacked-Broad-Learning-System)|The Code && Paper of Stacked Broad Learning System: From Incremental Flatted Structure to Deep Model |6|2024-01-25|2024-01-25|
 |33|[moha999DJ/Genetic-algorithms](https://github.com/moha999DJ/Genetic-algorithms)|Using Genetic algorithms method in Matlab |6|2024-02-08|2023-12-11|
-|34|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
-|35|[IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids](https://github.com/IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids)|Master Thesis - Home Energy Management System optimizing prosumers' costs, supporting grid services, ensuring independent operation during grid disconnection, and employing optimization methods and fo ...|5|2024-05-03|2024-05-03|
-|36|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|2024-05-02|
-|37|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|2024-03-21|
-|38|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|2024-02-09|
-|39|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|5|2024-06-28|2023-12-10|
+|34|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|6|2024-06-28|2023-12-10|
+|35|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
+|36|[IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids](https://github.com/IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids)|Master Thesis - Home Energy Management System optimizing prosumers' costs, supporting grid services, ensuring independent operation during grid disconnection, and employing optimization methods and fo ...|5|2024-05-03|2024-05-03|
+|37|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|2024-05-02|
+|38|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|2024-03-21|
+|39|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|2024-02-09|
 |40|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|2023-10-26|
 |41|[pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain](https://github.com/pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain)|Physical Downlink Shared Channel (PDSCH) in 5G New Radio.|5|2024-01-29|2023-07-16|
 |42|[simorxb/H-Infinity-Position-Control-Matlab](https://github.com/simorxb/H-Infinity-Position-Control-Matlab)|Example of how to synthetize a position control algorithm using H infinity and mixed-sensitivity with Matlab and Simulink.|4|2024-05-03|2024-04-27|
@@ -82,10 +82,11 @@
 |75|[Jimbo-Jo/GROGSBL](https://github.com/Jimbo-Jo/GROGSBL)|A grid refinemnet and off-grid DOA estimation method based on Sparse Bayesian Learning|3|2024-07-03|2024-01-10|
 |76|[YuFengshuo/gas_electric_early_warning](https://github.com/YuFengshuo/gas_electric_early_warning)|Case study of the gas-electric early warning system in Zhejiang Province|3|2024-04-24|2023-11-28|
 |77|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|2024-04-09|2023-10-31|
-|78|[OSU-MR/motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|This Github repository contains the reconstruction algorithms for "Motion-robust free-running volumetric cardiovascular MRI" (Arshad et al., 2024). Datasets for in-vivo studies can be found at https:/ ...|3|2024-06-24|2023-09-05|
-|79|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
-|80|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
-|81|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
+|78|[giampy1969/simulink-device-drivers](https://github.com/giampy1969/simulink-device-drivers)|Developing Simulink Device Driver Blocks: Step-By-Step Guide and Examples|3|2024-02-13|2023-10-11|
+|79|[OSU-MR/motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|This Github repository contains the reconstruction algorithms for "Motion-robust free-running volumetric cardiovascular MRI" (Arshad et al., 2024). Datasets for in-vivo studies can be found at https:/ ...|3|2024-06-24|2023-09-05|
+|80|[WheelockLab/MachineLearning_NetworkLevelAnalysis](https://github.com/WheelockLab/MachineLearning_NetworkLevelAnalysis)|Machine learning pipelines with K-fold cross-validation library for FC data|3|2024-03-21|2023-08-29|
+|81|[Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox](https://github.com/Yousef-Sharafi/Brain-emotional-learning-algorithm-based-on-interval-knowledge-without-toolbox)|Brain Emotional Learning Algorithm Based on Interval Knowledge|3|2024-03-27|2023-08-18|
+|82|[NelsonOoi/vlsi-tutorial](https://github.com/NelsonOoi/vlsi-tutorial)|Tutorial on getting started with testing, VerilogA, and more for VLSI. Created for ECE 4740 at Cornell University.|3|2024-01-24|2023-08-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
