@@ -1,44 +1,44 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > C++
-<sub>Updated: 2024-07-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|16944|2024-07-06|2023-09-10|
-|2|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|15749|2024-07-10|2023-11-28|
-|3|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|Truly independent web browser|11840|2024-07-10|2024-05-30|
-|4|[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)|High-speed Large Language Model Serving on PCs with Consumer-grade GPUs|7647|2024-07-01|2023-12-15|
-|5|[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl ...|7433|2024-07-10|2023-08-16|
-|6|[google/gemma.cpp](https://github.com/google/gemma.cpp)|lightweight, standalone C++ inference engine for Google's Gemma models.|5772|2024-07-10|2024-02-13|
-|7|[chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)|Fix Play Integrity (and SafetyNet) verdicts.|3967|2024-07-08|2023-10-05|
-|8|[Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)|Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).|3858|2024-07-09|2023-12-15|
-|9|[PabloMK7/citra](https://github.com/PabloMK7/citra)|A Nintendo 3DS Emulator|2973|2024-07-09|2024-03-04|
-|10|[GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)|-|2963|2024-07-05|2024-05-16|
-|11|[leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)|Stable Diffusion in pure C/C++|2917|2024-07-07|2023-08-13|
-|12|[DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3)|Descent 3 by Outrage Entertainment|2736|2024-07-09|2024-04-16|
+|1|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|16976|2024-07-06|2023-09-10|
+|2|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|15757|2024-07-12|2023-11-28|
+|3|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|Truly independent web browser|12165|2024-07-12|2024-05-30|
+|4|[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)|High-speed Large Language Model Serving on PCs with Consumer-grade GPUs|7659|2024-07-01|2023-12-15|
+|5|[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl ...|7453|2024-07-12|2023-08-16|
+|6|[google/gemma.cpp](https://github.com/google/gemma.cpp)|lightweight, standalone C++ inference engine for Google's Gemma models.|5774|2024-07-12|2024-02-13|
+|7|[chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)|Fix Play Integrity (and SafetyNet) verdicts.|3979|2024-07-11|2023-10-05|
+|8|[Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)|Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).|3862|2024-07-09|2023-12-15|
+|9|[GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)|-|3092|2024-07-11|2024-05-16|
+|10|[PabloMK7/citra](https://github.com/PabloMK7/citra)|A Nintendo 3DS Emulator|2983|2024-07-12|2024-03-04|
+|11|[leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)|Stable Diffusion in pure C/C++|2918|2024-07-07|2023-08-13|
+|12|[DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3)|Descent 3 by Outrage Entertainment|2736|2024-07-12|2024-04-16|
 |13|[yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu)|Nintendo Switch emulator (unofficial mirror fork)|2667|2024-03-25|2024-03-04|
 |14|[suyu-emu/suyu](https://github.com/suyu-emu/suyu)|  suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu.  It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux  ...|2425|2024-03-21|2024-03-06|
 |15|[sudachi-emu/sudachi](https://github.com/sudachi-emu/sudachi)|Sudachi is a Nintendo Switch emulator for Android, Linux and Windows, written in C++|2223|2024-07-02|2024-03-06|
-|16|[GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)|Dagor Engine and Tools source code from Gaijin Games KFT|2136|2024-06-29|2023-09-16|
+|16|[GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)|Dagor Engine and Tools source code from Gaijin Games KFT|2135|2024-06-29|2023-09-16|
 |17|[suyu-emu/suyu](https://github.com/suyu-emu/suyu)|suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linu ...|2077|2024-07-09|2024-03-22|
-|18|[Anttwo/SuGaR](https://github.com/Anttwo/SuGaR)|[CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering|1913|2024-04-03|2023-11-27|
-|19|[vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)|Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.|1797|2024-06-19|2023-07-14|
-|20|[janhq/cortex](https://github.com/janhq/cortex)|Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan|1777|2024-07-10|2023-09-11|
-|21|[jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)|-|1770|2024-05-09|2023-12-07|
+|18|[Anttwo/SuGaR](https://github.com/Anttwo/SuGaR)|[CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering|1919|2024-04-03|2023-11-27|
+|19|[vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)|Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.|1798|2024-06-19|2023-07-14|
+|20|[janhq/cortex](https://github.com/janhq/cortex)|Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan|1778|2024-07-12|2023-09-11|
+|21|[jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)|-|1773|2024-05-09|2023-12-07|
 |22|[es3n1n/no-defender](https://github.com/es3n1n/no-defender)|A slightly more fun way to disable windows defender + firewall. (through the WSC api)|1721|2024-05-28|2024-05-23|
-|23|[ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32)|Spam Apple Proximity Messages via an ESP32|1658|2024-07-08|2023-09-12|
-|24|[Lime3DS/Lime3DS](https://github.com/Lime3DS/Lime3DS)|A Nintendo 3DS emulator based on Citra|1507|2024-07-10|2024-03-04|
-|25|[Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)|Add custom effect to global system title bar, support win10 and win11.|1484|2024-07-06|2024-01-14|
-|26|[timeplus-io/proton](https://github.com/timeplus-io/proton)|A streaming SQL engine, a fast and lightweight alternative to ksqlDB and Apache Flink, 🚀 powered by ClickHouse.|1375|2024-07-10|2023-08-14|
-|27|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|1121|2024-03-15|2023-09-17|
-|28|[fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app)|FxSound application and DSP source code|1072|2024-07-08|2023-11-14|
-|29|[Tencent/tgfx](https://github.com/Tencent/tgfx)|A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.|1040|2024-07-10|2023-10-19|
-|30|[b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama)|Tensor parallelism is all you need. Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.|1030|2024-06-29|2023-12-04|
-|31|[livinamuk/Hell2024](https://github.com/livinamuk/Hell2024)|-|1030|2024-07-10|2023-09-03|
-|32|[rt64/rt64](https://github.com/rt64/rt64)|RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.|984|2024-07-09|2024-01-20|
-|33|[buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor)|[CVPR 2024] GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting|983|2024-02-27|2023-11-26|
-|34|[willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube)|A cube that balances itself in a corner or edge using reaction wheels|970|2024-06-22|2024-02-10|
+|23|[ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32)|Spam Apple Proximity Messages via an ESP32|1660|2024-07-08|2023-09-12|
+|24|[Lime3DS/Lime3DS](https://github.com/Lime3DS/Lime3DS)|A Nintendo 3DS emulator based on Citra|1508|2024-07-11|2024-03-04|
+|25|[Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)|Add custom effect to global system title bar, support win10 and win11.|1491|2024-07-06|2024-01-14|
+|26|[timeplus-io/proton](https://github.com/timeplus-io/proton)|A streaming SQL engine, a fast and lightweight alternative to ksqlDB and Apache Flink, 🚀 powered by ClickHouse.|1374|2024-07-12|2023-08-14|
+|27|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|1125|2024-03-15|2023-09-17|
+|28|[fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app)|FxSound application and DSP source code|1079|2024-07-08|2023-11-14|
+|29|[livinamuk/Hell2024](https://github.com/livinamuk/Hell2024)|-|1043|2024-07-12|2023-09-03|
+|30|[Tencent/tgfx](https://github.com/Tencent/tgfx)|A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.|1041|2024-07-12|2023-10-19|
+|31|[b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama)|Tensor parallelism is all you need. Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.|1033|2024-06-29|2023-12-04|
+|32|[buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor)|[CVPR 2024] GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting|989|2024-02-27|2023-11-26|
+|33|[rt64/rt64](https://github.com/rt64/rt64)|RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.|985|2024-07-12|2024-01-20|
+|34|[willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube)|A cube that balances itself in a corner or edge using reaction wheels|972|2024-06-22|2024-02-10|
 |35|[hioby/1inchAB](https://github.com/hioby/1inchAB)|-|965|2024-06-12|2024-06-12|
 |36|[Esteban-Pizawa/click-arbuzAB](https://github.com/Esteban-Pizawa/click-arbuzAB)|-|964|2024-06-12|2024-06-12|
 |37|[Esteban-Pizawa/Chain-GameAB](https://github.com/Esteban-Pizawa/Chain-GameAB)|-|964|2024-06-12|2024-06-12|
@@ -91,7 +91,7 @@
 |84|[Skuld0722/bcoin2048-auto-bot](https://github.com/Skuld0722/bcoin2048-auto-bot)|bcoin2048 auto bot free download / bcoin2048 auto clicker Hi everyone today we present you our bot for crypto game bcoin2048 with which you can automate the whole process in the game which is possible ...|948|2024-06-11|2024-06-11|
 |85|[Skuld0722/1inch-AutoBot](https://github.com/Skuld0722/1inch-AutoBot)|1inch autobot free download / 1inch trading-bot / 1inch crypto-bot / 1inch automated-trading defi / 1inch crypto-trading / 1inch-bot / 1inch ethereum defi-trading liquidity-mining 1inch-api crypto-aut ...|948|2024-06-11|2024-06-11|
 |86|[zemond70/Tronix-AutoClicker](https://github.com/zemond70/Tronix-AutoClicker)|tronix auto bot / tronix auto clicker Hi everyone today we present you our bot for crypto game tronix with which you can automate the whole process in the game which is possible tronix scripts / troni ...|947|2024-06-11|2024-06-11|
-|87|[thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer)|GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards|932|2024-07-04|2023-12-07|
+|87|[thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer)|GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards|937|2024-07-04|2023-12-07|
 |88|[bun906/mineralzAB](https://github.com/bun906/mineralzAB)|-|905|2024-06-12|2024-06-12|
 |89|[Sobhanbagha/Preton-AutoClicker](https://github.com/Sobhanbagha/Preton-AutoClicker)|-|904|2024-06-12|2024-06-12|
 |90|[Sobhanbagha/PocketfiAB](https://github.com/Sobhanbagha/PocketfiAB)|-|904|2024-06-12|2024-06-12|
@@ -110,31 +110,31 @@
 |103|[cukur96xd/Crypto-Wallet-Recovery](https://github.com/cukur96xd/Crypto-Wallet-Recovery)|-|894|2024-06-12|2024-06-12|
 |104|[cukur96xd/WormfareAB](https://github.com/cukur96xd/WormfareAB)|-|894|2024-06-12|2024-06-12|
 |105|[cukur96xd/YescoinAB](https://github.com/cukur96xd/YescoinAB)|-|892|2024-06-12|2024-06-12|
-|106|[lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot)|LLMs as Copilots for Theorem Proving in Lean|853|2024-07-02|2023-09-09|
+|106|[lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot)|LLMs as Copilots for Theorem Proving in Lean|854|2024-07-12|2023-09-09|
 |107|[KanatnikovMax/znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix)|-|840|2024-04-29|2023-11-07|
-|108|[limbonaut/limboai](https://github.com/limbonaut/limboai)|LimboAI - Behavior Trees and State Machines for Godot 4|808|2024-07-10|2023-07-26|
-|109|[getml/reflect-cpp](https://github.com/getml/reflect-cpp)|A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]|797|2024-07-10|2023-09-27|
-|110|[zk-Call/zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp)|"Zero-Knowledge" Proof Implementation with HMAC Communication in C++|792|2024-04-22|2024-04-03|
-|111|[Vahera/godot-orchestrator](https://github.com/Vahera/godot-orchestrator)|Orchestrator - A Visual Scripting Godot Plugin|788|2024-07-10|2023-07-14|
-|112|[DiscordMessenger/dm](https://github.com/DiscordMessenger/dm)|Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.|771|2024-07-05|2024-04-21|
-|113|[myscale/MyScaleDB](https://github.com/myscale/MyScaleDB)|An open-source, high-performance SQL vector database built on ClickHouse.|766|2024-06-18|2024-03-14|
-|114|[worawit/blutter](https://github.com/worawit/blutter)|Flutter Mobile Application Reverse Engineering Tool|765|2024-07-09|2023-08-22|
-|115|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|741|2024-06-21|2023-10-28|
-|116|[BabitMF/bmf](https://github.com/BabitMF/bmf)|Cross-platform, customizable multimedia/video processing framework.  With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high perfor ...|734|2024-05-24|2023-07-15|
-|117|[intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity)|A set of AI-enabled effects, generators, and analyzers for Audacity®.|733|2024-06-20|2023-09-06|
-|118|[pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat)|Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀|727|2024-06-25|2024-01-23|
-|119|[eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime)|Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions with LLVM JIT|693|2024-06-25|2023-08-10|
-|120|[amwatson/CitraVR](https://github.com/amwatson/CitraVR)|Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.|681|2024-05-14|2024-01-16|
+|108|[limbonaut/limboai](https://github.com/limbonaut/limboai)|LimboAI - Behavior Trees and State Machines for Godot 4|812|2024-07-10|2023-07-26|
+|109|[getml/reflect-cpp](https://github.com/getml/reflect-cpp)|A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]|808|2024-07-11|2023-09-27|
+|110|[Vahera/godot-orchestrator](https://github.com/Vahera/godot-orchestrator)|Orchestrator - A Visual Scripting Godot Plugin|793|2024-07-12|2023-07-14|
+|111|[zk-Call/zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp)|"Zero-Knowledge" Proof Implementation with HMAC Communication in C++|779|2024-04-22|2024-04-03|
+|112|[DiscordMessenger/dm](https://github.com/DiscordMessenger/dm)|Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.|778|2024-07-11|2024-04-21|
+|113|[worawit/blutter](https://github.com/worawit/blutter)|Flutter Mobile Application Reverse Engineering Tool|769|2024-07-09|2023-08-22|
+|114|[myscale/MyScaleDB](https://github.com/myscale/MyScaleDB)|An open-source, high-performance SQL vector database built on ClickHouse.|766|2024-06-18|2024-03-14|
+|115|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|745|2024-06-21|2023-10-28|
+|116|[intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity)|A set of AI-enabled effects, generators, and analyzers for Audacity®.|741|2024-07-11|2023-09-06|
+|117|[BabitMF/bmf](https://github.com/BabitMF/bmf)|Cross-platform, customizable multimedia/video processing framework.  With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high perfor ...|737|2024-05-24|2023-07-15|
+|118|[pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat)|Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀|730|2024-06-25|2024-01-23|
+|119|[eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime)|Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions with LLVM JIT|692|2024-06-25|2023-08-10|
+|120|[amwatson/CitraVR](https://github.com/amwatson/CitraVR)|Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.|682|2024-05-14|2024-01-16|
 |121|[archercreat/titan](https://github.com/archercreat/titan)|Titan is a VMProtect devirtualizer|656|2024-03-06|2023-11-05|
-|122|[city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS)|[CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering|650|2024-07-10|2023-11-26|
+|122|[city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS)|[CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering|653|2024-07-10|2023-11-26|
 |123|[Crimson-Hawk/suyu](https://github.com/Crimson-Hawk/suyu)|-|648|2024-03-07|2024-03-04|
 |124|[cmu-db/15445-bootcamp](https://github.com/cmu-db/15445-bootcamp)|A basic introduction to coding in modern C++.|629|2024-02-15|2023-08-24|
 |125|[Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz)|Dump cookies directly from Chrome process memory|611|2024-06-03|2023-12-07|
 |126|[rezass1020/Seed-Phrase-Generator](https://github.com/rezass1020/Seed-Phrase-Generator)|-|610|2024-06-28|2024-06-28|
-|127|[hyprwm/hyprlock](https://github.com/hyprwm/hyprlock)|Hyprland's GPU-accelerated screen locking utility|603|2024-07-10|2024-02-18|
+|127|[hyprwm/hyprlock](https://github.com/hyprwm/hyprlock)|Hyprland's GPU-accelerated screen locking utility|608|2024-07-11|2024-02-18|
 |128|[bossiskar/seed-phrase-generator](https://github.com/bossiskar/seed-phrase-generator)|Seed phrase Generation and Checker. Crypto wallet seed phrase checker for BTC, ETH, LTC, DOGE. Mnemonic seed phrase wallet generator.|590|2024-07-01|2024-06-21|
 |129|[MetaWu2077/Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs)|esp32 based device, mainly used for voice chat with large language models|580|2024-03-24|2024-03-09|
-|130|[snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)|A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.|563|2024-06-15|2024-03-03|
+|130|[snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)|A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.|571|2024-06-15|2024-03-03|
 |131|[Bu15xexaxutogar/fuigc11](https://github.com/Bu15xexaxutogar/fuigc11)|-|561|2024-02-17|2024-02-17|
 |132|[C622EJutUGynIBaNATIP/va6bafneadqw](https://github.com/C622EJutUGynIBaNATIP/va6bafneadqw)|-|561|2024-02-17|2024-02-17|
 |133|[43234SUM/awmc6pgxg4z](https://github.com/43234SUM/awmc6pgxg4z)|-|561|2024-02-17|2024-02-17|
@@ -144,67 +144,67 @@
 |137|[BiTy244pEwYGijygazIP/03onornw3c7s](https://github.com/BiTy244pEwYGijygazIP/03onornw3c7s)|-|560|2024-02-17|2024-02-17|
 |138|[171FIfUCuRUtEBOTYhUN/iwdl8ncs](https://github.com/171FIfUCuRUtEBOTYhUN/iwdl8ncs)|-|560|2024-02-17|2024-02-17|
 |139|[9928Rekyzohih/tn4ii](https://github.com/9928Rekyzohih/tn4ii)|-|559|2024-02-17|2024-02-17|
-|140|[losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom)|全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware|536|2024-07-10|2023-11-30|
-|141|[nndeploy/nndeploy](https://github.com/nndeploy/nndeploy)|nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为基础，致力为用户提供跨平台、简单易用、高性能的模型部署体验。|534|2024-07-09|2023-08-08|
-|142|[TKazer/CS2_External](https://github.com/TKazer/CS2_External)|CS2 external cheat.|527|2024-06-25|2023-09-29|
-|143|[es3n1n/obfuscator](https://github.com/es3n1n/obfuscator)|PE bin2bin obfuscator|526|2024-07-06|2023-12-06|
+|140|[losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom)|全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware|541|2024-07-10|2023-11-30|
+|141|[nndeploy/nndeploy](https://github.com/nndeploy/nndeploy)|nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为基础，致力为用户提供跨平台、简单易用、高性能的模型部署体验。|535|2024-07-12|2023-08-08|
+|142|[es3n1n/obfuscator](https://github.com/es3n1n/obfuscator)|PE bin2bin obfuscator|530|2024-07-06|2023-12-06|
+|143|[TKazer/CS2_External](https://github.com/TKazer/CS2_External)|CS2 external cheat.|528|2024-06-25|2023-09-29|
 |144|[rcm2005/PSH-hk](https://github.com/rcm2005/PSH-hk)|Psh|526|2024-03-30|2023-11-23|
 |145|[49365BIDUNyTuDyh/03zkfefkv](https://github.com/49365BIDUNyTuDyh/03zkfefkv)|-|522|2024-02-17|2024-02-17|
-|146|[ChefKissInc/NootRX](https://github.com/ChefKissInc/NootRX)|The rDNA 2 dGPU support patch kext. No commercial use.|512|2024-06-15|2023-07-15|
+|146|[ChefKissInc/NootRX](https://github.com/ChefKissInc/NootRX)|The rDNA 2 dGPU support patch kext. No commercial use.|514|2024-06-15|2023-07-15|
 |147|[litucks/torzu](https://github.com/litucks/torzu)|Yet another Yuzu fork|509|2024-07-06|2024-04-05|
-|148|[lfranke/TRIPS](https://github.com/lfranke/TRIPS)|-|496|2024-06-14|2023-11-03|
-|149|[Pagghiu/SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries)|Sane C++ Libraries|485|2024-07-05|2023-12-21|
-|150|[asset-group/5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks)|-|484|2024-05-24|2023-12-04|
-|151|[fanxuebao88/BluumAB](https://github.com/fanxuebao88/BluumAB)|Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible|480|2024-06-17|2024-06-17|
-|152|[fanxuebao88/BitMEXAB](https://github.com/fanxuebao88/BitMEXAB)|bitmex trading bot free download / 2024 crypto bot margin-trading automated-trading crypto-trading bitmex-bot algorithmic-trading bitmex-api python-bot crypto-automation trading-strategy bitmex tradin ...|479|2024-06-17|2024-06-17|
-|153|[fanxuebao88/CatiAB](https://github.com/fanxuebao88/CatiAB)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|478|2024-06-17|2024-06-17|
-|154|[fanxuebao88/ByBitAB](https://github.com/fanxuebao88/ByBitAB)|bybit trading bot free download / 2024 crypto bot margin-trading automated-trading crypto-trading bybit-bot algorithmic-trading bybit-api python-bot crypto-automation trading-strategy bybit trading by ...|478|2024-06-17|2024-06-17|
-|155|[fanxuebao88/Bull-RunAB](https://github.com/fanxuebao88/Bull-RunAB)|bull run auto bot free download / bull run auto clicker Hi everyone today we present you our bot for crypto game bull run with which you can automate the whole process in the game which is possible bu ...|478|2024-06-17|2024-06-17|
-|156|[gbevin/ShowMIDI](https://github.com/gbevin/ShowMIDI)|Multi-platform GUI application to effortlessly visualize MIDI activity|476|2024-07-10|2023-11-05|
-|157|[AlexanderDzhoganov/ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures)|Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models |472|2024-02-01|2024-01-25|
-|158|[city-super/Octree-GS](https://github.com/city-super/Octree-GS)|Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians|470|2024-07-09|2024-03-26|
+|148|[gbevin/ShowMIDI](https://github.com/gbevin/ShowMIDI)|Multi-platform GUI application to effortlessly visualize MIDI activity|503|2024-07-10|2023-11-05|
+|149|[lfranke/TRIPS](https://github.com/lfranke/TRIPS)|-|496|2024-06-14|2023-11-03|
+|150|[Pagghiu/SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries)|Sane C++ Libraries|486|2024-07-05|2023-12-21|
+|151|[asset-group/5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks)|-|486|2024-05-24|2023-12-04|
+|152|[fanxuebao88/BluumAB](https://github.com/fanxuebao88/BluumAB)|Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible|480|2024-06-17|2024-06-17|
+|153|[fanxuebao88/BitMEXAB](https://github.com/fanxuebao88/BitMEXAB)|bitmex trading bot free download / 2024 crypto bot margin-trading automated-trading crypto-trading bitmex-bot algorithmic-trading bitmex-api python-bot crypto-automation trading-strategy bitmex tradin ...|479|2024-06-17|2024-06-17|
+|154|[fanxuebao88/CatiAB](https://github.com/fanxuebao88/CatiAB)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|478|2024-06-17|2024-06-17|
+|155|[fanxuebao88/ByBitAB](https://github.com/fanxuebao88/ByBitAB)|bybit trading bot free download / 2024 crypto bot margin-trading automated-trading crypto-trading bybit-bot algorithmic-trading bybit-api python-bot crypto-automation trading-strategy bybit trading by ...|478|2024-06-17|2024-06-17|
+|156|[fanxuebao88/Bull-RunAB](https://github.com/fanxuebao88/Bull-RunAB)|bull run auto bot free download / bull run auto clicker Hi everyone today we present you our bot for crypto game bull run with which you can automate the whole process in the game which is possible bu ...|478|2024-06-17|2024-06-17|
+|157|[city-super/Octree-GS](https://github.com/city-super/Octree-GS)|Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians|471|2024-07-09|2024-03-26|
+|158|[AlexanderDzhoganov/ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures)|Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models |471|2024-02-01|2024-01-25|
 |159|[yeetussyeet/Flash-USDT-Sender](https://github.com/yeetussyeet/Flash-USDT-Sender)|🔐Fake USDT Sender / Flash USDT - Efficient and user-friendly software for rapid Tether (USDT) transactions. This tool simplifies digital currency operations with its streamlined process and free activ ...|469|2024-06-17|2024-06-17|
-|160|[yeetussyeet/LimeCoinAB](https://github.com/yeetussyeet/LimeCoinAB)| lime coin auto clicker free download / lime coin auto bot / Hi everyone today we present you our bot for crypto game lime coin with which you can automate the whole process in the game which is possi ...|468|2024-06-17|2024-06-17|
-|161|[yeetussyeet/HexacoreAB](https://github.com/yeetussyeet/HexacoreAB)|hexacore auto bot free download / hexacore auto clicker Hi everyone today we present you our bot for crypto game hexacore with which you can automate the whole process in the game which is possible he ...|468|2024-06-17|2024-06-17|
-|162|[yeetussyeet/HamsterAB](https://github.com/yeetussyeet/HamsterAB)|Hamster kombat auto bot / hamster kombat auto clicker Hi everyone today we present you our bot for crypto game hamster kombat with which you can automate the whole process in the game which is possibl ...|468|2024-06-17|2024-06-17|
-|163|[TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC)|Model-predictive control for microcontrollers|466|2024-07-10|2023-08-02|
+|160|[TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC)|Model-predictive control for microcontrollers|469|2024-07-10|2023-08-02|
+|161|[yeetussyeet/LimeCoinAB](https://github.com/yeetussyeet/LimeCoinAB)| lime coin auto clicker free download / lime coin auto bot / Hi everyone today we present you our bot for crypto game lime coin with which you can automate the whole process in the game which is possi ...|468|2024-06-17|2024-06-17|
+|162|[yeetussyeet/HexacoreAB](https://github.com/yeetussyeet/HexacoreAB)|hexacore auto bot free download / hexacore auto clicker Hi everyone today we present you our bot for crypto game hexacore with which you can automate the whole process in the game which is possible he ...|468|2024-06-17|2024-06-17|
+|163|[yeetussyeet/HamsterAB](https://github.com/yeetussyeet/HamsterAB)|Hamster kombat auto bot / hamster kombat auto clicker Hi everyone today we present you our bot for crypto game hamster kombat with which you can automate the whole process in the game which is possibl ...|468|2024-06-17|2024-06-17|
 |164|[podimodi/Crypto-Wallet-Recovery](https://github.com/podimodi/Crypto-Wallet-Recovery)|Crypto wallet recovery software free download|447|2024-06-27|2024-06-27|
-|165|[linkdd/aitoolkit](https://github.com/linkdd/aitoolkit)|Give a brain to your game's NPCs|447|2024-05-08|2024-01-08|
-|166|[alibaba/rtp-llm](https://github.com/alibaba/rtp-llm)|RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.|444|2024-07-08|2023-12-27|
+|165|[alibaba/rtp-llm](https://github.com/alibaba/rtp-llm)|RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.|447|2024-07-11|2023-12-27|
+|166|[linkdd/aitoolkit](https://github.com/linkdd/aitoolkit)|Give a brain to your game's NPCs|446|2024-05-08|2024-01-08|
 |167|[m-schuetz/SimLOD](https://github.com/m-schuetz/SimLOD)|-|444|2024-04-29|2023-10-05|
-|168|[CowNowK/AimStar](https://github.com/CowNowK/AimStar)|Free and open-source external cheat for CS2, written in C++, working on Windows|442|2024-06-23|2023-11-28|
-|169|[luigifreda/plvs](https://github.com/luigifreda/plvs)|PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation. |441|2024-06-22|2023-09-19|
-|170|[cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)|Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector|437|2024-07-09|2023-10-01|
-|171|[MatthewKuKanich/CAN_Commander](https://github.com/MatthewKuKanich/CAN_Commander)|CAN Commander is a comprehensive tool designed for the reverse engineering of CAN (Controller Area Network) bus systems. This project aims to provide a robust platform for automotive enthusiasts, engi ...|430|2024-06-09|2023-09-21|
+|168|[luigifreda/plvs](https://github.com/luigifreda/plvs)|PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation. |441|2024-06-22|2023-09-19|
+|169|[CowNowK/AimStar](https://github.com/CowNowK/AimStar)|Free and open-source external cheat for CS2, written in C++, working on Windows|440|2024-07-11|2023-11-28|
+|170|[cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)|Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector|439|2024-07-09|2023-10-01|
+|171|[MatthewKuKanich/CAN_Commander](https://github.com/MatthewKuKanich/CAN_Commander)|CAN Commander is a comprehensive tool designed for the reverse engineering of CAN (Controller Area Network) bus systems. This project aims to provide a robust platform for automotive enthusiasts, engi ...|433|2024-06-09|2023-09-21|
 |172|[Kirankp25/Banana-autoclicker](https://github.com/Kirankp25/Banana-autoclicker)|Banana auto bot / Auto tuning / Auto clicker for many accounts / Multi-threading / Convenient menu / Free proxies|417|2024-06-17|2024-06-17|
-|173|[stdware/qwindowkit](https://github.com/stdware/qwindowkit)|Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.|413|2024-07-02|2023-11-29|
-|174|[dmcke5/NucDeck](https://github.com/dmcke5/NucDeck)|The Open Source DIY Handheld Gaming PC!|410|2024-04-13|2023-07-28|
+|173|[stdware/qwindowkit](https://github.com/stdware/qwindowkit)|Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.|416|2024-07-02|2023-11-29|
+|174|[dmcke5/NucDeck](https://github.com/dmcke5/NucDeck)|The Open Source DIY Handheld Gaming PC!|411|2024-04-13|2023-07-28|
 |175|[JBMedina19/Crypto-Wallet-Recovery](https://github.com/JBMedina19/Crypto-Wallet-Recovery)|-|408|2024-07-09|2024-07-08|
 |176|[WillOwOs-git/CryptoWa11etCrck](https://github.com/WillOwOs-git/CryptoWa11etCrck)|-|408|2024-07-09|2024-07-08|
 |177|[VASTDynamics/Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)|Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin|408|2024-04-29|2023-09-26|
-|178|[Rx1971/TwitchTool](https://github.com/Rx1971/TwitchTool)|-|407|2024-07-09|2024-07-08|
-|179|[Rx1971/TTtool](https://github.com/Rx1971/TTtool)|-|407|2024-07-09|2024-07-08|
-|180|[ByK1ttY/FBtool](https://github.com/ByK1ttY/FBtool)|-|407|2024-07-09|2024-07-08|
-|181|[eliornizr/ETH-HUNTER](https://github.com/eliornizr/ETH-HUNTER)|-|407|2024-07-09|2024-07-08|
-|182|[askavolcom/Spotify-premium-no-ads-pc](https://github.com/askavolcom/Spotify-premium-no-ads-pc)|-|406|2024-07-09|2024-07-08|
-|183|[askavolcom/SketchUp-Pro2024](https://github.com/askavolcom/SketchUp-Pro2024)|-|406|2024-07-09|2024-07-08|
-|184|[askavolcom/PremierePro2024](https://github.com/askavolcom/PremierePro2024)|-|406|2024-07-09|2024-07-08|
-|185|[askavolcom/cs2-hvh](https://github.com/askavolcom/cs2-hvh)|-|406|2024-07-09|2024-07-08|
-|186|[Rx1971/tg-spm](https://github.com/Rx1971/tg-spm)|-|406|2024-07-09|2024-07-08|
-|187|[Horhorist/Youtube-Auto-upload](https://github.com/Horhorist/Youtube-Auto-upload)|-|406|2024-07-09|2024-07-08|
-|188|[Horhorist/WalletStea1er](https://github.com/Horhorist/WalletStea1er)|-|406|2024-07-09|2024-07-08|
-|189|[Horhorist/YTtool](https://github.com/Horhorist/YTtool)|-|406|2024-07-09|2024-07-08|
-|190|[JBMedina19/WalletKeyTool](https://github.com/JBMedina19/WalletKeyTool)|-|406|2024-07-09|2024-07-08|
-|191|[JBMedina19/VO1CEMOD](https://github.com/JBMedina19/VO1CEMOD)|-|406|2024-07-09|2024-07-08|
-|192|[ByK1ttY/Exodus-Wallet-Recovery](https://github.com/ByK1ttY/Exodus-Wallet-Recovery)|-|406|2024-07-09|2024-07-08|
-|193|[VitorBonfim1/Prometheus-Tron-Brute-Force](https://github.com/VitorBonfim1/Prometheus-Tron-Brute-Force)|-|406|2024-07-09|2024-07-08|
-|194|[VitorBonfim1/Seed-Phrase-Generator](https://github.com/VitorBonfim1/Seed-Phrase-Generator)|-|406|2024-07-09|2024-07-08|
-|195|[VitorBonfim1/Microsoft-Office-2024-Cracked-Version](https://github.com/VitorBonfim1/Microsoft-Office-2024-Cracked-Version)|-|406|2024-07-09|2024-07-08|
-|196|[lxstkrieger/KMS-Auto-Windows-and-Office-Activator](https://github.com/lxstkrieger/KMS-Auto-Windows-and-Office-Activator)|-|406|2024-07-08|2024-07-08|
-|197|[VitorBonfim1/Notcoin-crypto-bot](https://github.com/VitorBonfim1/Notcoin-crypto-bot)|-|406|2024-07-09|2024-07-08|
-|198|[lxstkrieger/Mail-Ac-Gen](https://github.com/lxstkrieger/Mail-Ac-Gen)|-|406|2024-07-08|2024-07-08|
-|199|[lxstkrieger/InstTool](https://github.com/lxstkrieger/InstTool)|-|406|2024-07-08|2024-07-08|
-|200|[lxstkrieger/HWIDSP](https://github.com/lxstkrieger/HWIDSP)|-|406|2024-07-08|2024-07-08|
+|178|[lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida)|Injects frida gadget using zygisk to bypass anti-tamper checks.|408|2024-04-28|2023-07-15|
+|179|[Rx1971/TwitchTool](https://github.com/Rx1971/TwitchTool)|-|407|2024-07-09|2024-07-08|
+|180|[Rx1971/TTtool](https://github.com/Rx1971/TTtool)|-|407|2024-07-09|2024-07-08|
+|181|[ByK1ttY/FBtool](https://github.com/ByK1ttY/FBtool)|-|407|2024-07-09|2024-07-08|
+|182|[eliornizr/ETH-HUNTER](https://github.com/eliornizr/ETH-HUNTER)|-|407|2024-07-09|2024-07-08|
+|183|[askavolcom/Spotify-premium-no-ads-pc](https://github.com/askavolcom/Spotify-premium-no-ads-pc)|-|406|2024-07-09|2024-07-08|
+|184|[askavolcom/SketchUp-Pro2024](https://github.com/askavolcom/SketchUp-Pro2024)|-|406|2024-07-09|2024-07-08|
+|185|[askavolcom/PremierePro2024](https://github.com/askavolcom/PremierePro2024)|-|406|2024-07-09|2024-07-08|
+|186|[askavolcom/cs2-hvh](https://github.com/askavolcom/cs2-hvh)|-|406|2024-07-09|2024-07-08|
+|187|[Rx1971/tg-spm](https://github.com/Rx1971/tg-spm)|-|406|2024-07-09|2024-07-08|
+|188|[Horhorist/Youtube-Auto-upload](https://github.com/Horhorist/Youtube-Auto-upload)|-|406|2024-07-09|2024-07-08|
+|189|[Horhorist/WalletStea1er](https://github.com/Horhorist/WalletStea1er)|-|406|2024-07-09|2024-07-08|
+|190|[Horhorist/YTtool](https://github.com/Horhorist/YTtool)|-|406|2024-07-09|2024-07-08|
+|191|[JBMedina19/WalletKeyTool](https://github.com/JBMedina19/WalletKeyTool)|-|406|2024-07-09|2024-07-08|
+|192|[JBMedina19/VO1CEMOD](https://github.com/JBMedina19/VO1CEMOD)|-|406|2024-07-09|2024-07-08|
+|193|[ByK1ttY/Exodus-Wallet-Recovery](https://github.com/ByK1ttY/Exodus-Wallet-Recovery)|-|406|2024-07-09|2024-07-08|
+|194|[VitorBonfim1/Prometheus-Tron-Brute-Force](https://github.com/VitorBonfim1/Prometheus-Tron-Brute-Force)|-|406|2024-07-09|2024-07-08|
+|195|[VitorBonfim1/Seed-Phrase-Generator](https://github.com/VitorBonfim1/Seed-Phrase-Generator)|-|406|2024-07-09|2024-07-08|
+|196|[VitorBonfim1/Microsoft-Office-2024-Cracked-Version](https://github.com/VitorBonfim1/Microsoft-Office-2024-Cracked-Version)|-|406|2024-07-09|2024-07-08|
+|197|[lxstkrieger/KMS-Auto-Windows-and-Office-Activator](https://github.com/lxstkrieger/KMS-Auto-Windows-and-Office-Activator)|-|406|2024-07-08|2024-07-08|
+|198|[VitorBonfim1/Notcoin-crypto-bot](https://github.com/VitorBonfim1/Notcoin-crypto-bot)|-|406|2024-07-09|2024-07-08|
+|199|[lxstkrieger/Mail-Ac-Gen](https://github.com/lxstkrieger/Mail-Ac-Gen)|-|406|2024-07-08|2024-07-08|
+|200|[lxstkrieger/InstTool](https://github.com/lxstkrieger/InstTool)|-|406|2024-07-08|2024-07-08|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
