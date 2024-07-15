@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-07-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1270|2024-05-10|2023-12-11|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |308|2024-07-11|2024-06-16|
-|3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|219|2024-04-13|2024-02-01|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1269|2024-05-10|2023-12-11|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |312|2024-07-14|2024-06-16|
+|3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|220|2024-04-13|2024-02-01|
 |4|[Mohanad-Fawzy/TraidingView-Premium-Free](https://github.com/Mohanad-Fawzy/TraidingView-Premium-Free)|How to Get TradingView Premium for Free Forever   TRADINGVIEW PREMIUM FREE FOR LIFETIME|208|2024-02-22|2023-09-13|
-|5|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |135|2024-06-04|2023-11-03|
-|6|[genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io)|A roadmap for "generative AI" learning resources|124|2024-06-05|2024-05-21|
-|7|[piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|102|2024-07-13|2023-11-26|
+|5|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |136|2024-06-04|2023-11-03|
+|6|[genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io)|A roadmap for "generative AI" learning resources|125|2024-06-05|2024-05-21|
+|7|[piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|103|2024-07-13|2023-11-26|
 |8|[CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)|This is a blog for the CSEdge which consists simple articles on different tech things how to do? and what to do?|75|2024-07-12|2024-05-01|
 |9|[Evelyyyynnnn/Hexo-CS-Learning](https://github.com/Evelyyyynnnn/Hexo-CS-Learning)|✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨|65|2024-06-29|2023-09-11|
-|10|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|62|2024-05-30|2023-09-20|
-|11|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|61|2024-07-10|2023-11-24|
+|10|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|62|2024-07-10|2023-11-24|
+|11|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|62|2024-05-30|2023-09-20|
 |12|[frontend-joe/css-components](https://github.com/frontend-joe/css-components)|Collection of components built with just HTML and CSS.|56|2024-07-08|2024-02-19|
 |13|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|53|2024-06-25|2023-10-03|
-|14|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to social media|52|2024-06-07|2024-02-28|
-|15|[frontend-joe/css-reels](https://github.com/frontend-joe/css-reels)|Collection of CSS components built specifically for my Instagram page|50|2024-07-09|2024-06-14|
+|14|[frontend-joe/css-reels](https://github.com/frontend-joe/css-reels)|Collection of CSS components built specifically for my Instagram page|52|2024-07-09|2024-06-14|
+|15|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to social media|52|2024-06-07|2024-02-28|
 |16|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|46|2024-01-23|2023-10-27|
 |17|[mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)|Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡|41|2024-06-25|2024-03-22|
-|18|[distantmagic/llmops-handbook](https://github.com/distantmagic/llmops-handbook)|Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)|37|2024-07-06|2024-06-28|
+|18|[distantmagic/llmops-handbook](https://github.com/distantmagic/llmops-handbook)|Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)|38|2024-07-06|2024-06-28|
 |19|[bgplab/bgplab](https://github.com/bgplab/bgplab)|Master BGP configuration with this set of virtual labs|36|2024-02-04|2023-08-03|
 |20|[c1982/gokonf02172024](https://github.com/c1982/gokonf02172024)|gokonf 2024 Go Çalımları - Go Tips and Tricks|35|2024-02-26|2024-02-19|
 |21|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|35|2024-03-12|2023-11-11|
@@ -50,10 +50,10 @@
 |43|[tajulafreen/50Projects-HTML-CSS-JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)|This repo is collection of 50 exciting and diverse projects that showcase the power of HTML, CSS, and JavaScript in creating captivating animations and transitions. These projects are designed to demo ...|16|2024-07-12|2023-12-05|
 |44|[godot-rust/book](https://github.com/godot-rust/book)|Documentation and tutorials for gdext, the Rust bindings for Godot 4|16|2024-07-08|2023-10-09|
 |45|[sanchi-t/Learnify](https://github.com/sanchi-t/Learnify)|Learnify is a course recommendation platform that helps users achieve their learning goals. It is an Angular and Node.js-based website that uses an AI model or data science to recommend a master cours ...|16|2024-04-26|2023-08-26|
-|46|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|15|2024-06-23|2024-03-01|
-|47|[mehdiali-mk/JS-Learning](https://github.com/mehdiali-mk/JS-Learning)|This repository contain all the stuffs and programs that I use to learn JavaScript from begineers to advance level.|15|2024-05-07|2024-01-16|
-|48|[hai-zou/hexo-theme-sea](https://github.com/hai-zou/hexo-theme-sea)|🐳 Hexo Theme   博客主题|15|2024-07-10|2024-01-12|
-|49|[SweetMeh/Anki-Card-Templates](https://github.com/SweetMeh/Anki-Card-Templates)|A collection of my anki card templates, feel free to use it 😊|15|2024-06-04|2023-07-20|
+|46|[SweetMeh/Anki-Card-Templates](https://github.com/SweetMeh/Anki-Card-Templates)|A collection of my anki card templates, feel free to use it 😊|16|2024-06-04|2023-07-20|
+|47|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|15|2024-07-13|2024-03-01|
+|48|[mehdiali-mk/JS-Learning](https://github.com/mehdiali-mk/JS-Learning)|This repository contain all the stuffs and programs that I use to learn JavaScript from begineers to advance level.|15|2024-05-07|2024-01-16|
+|49|[hai-zou/hexo-theme-sea](https://github.com/hai-zou/hexo-theme-sea)|🐳 Hexo Theme   博客主题|15|2024-07-10|2024-01-12|
 |50|[TOETOE55/async-rt-book](https://github.com/TOETOE55/async-rt-book)|Rust simple async runtime constructions book.|14|2024-04-14|2024-04-12|
 |51|[SartHak-0-Sach/Three-column-preview-card_frontend](https://github.com/SartHak-0-Sach/Three-column-preview-card_frontend)|Explore the diverse options for cab booking with the Three Column Preview Card component. Choose between sedan, SUVs, or luxury vehicles and view their details in an interactive and responsive card la ...|14|2024-06-03|2024-01-11|
 |52|[SartHak-0-Sach/Space-tourism-website-frontend](https://github.com/SartHak-0-Sach/Space-tourism-website-frontend)|Embark on an exciting journey into the cosmos with the Space Tourism Website. Explore the wonders of space travel and book your next adventure among the stars.✨🚀|14|2024-06-03|2024-01-10|
@@ -91,7 +91,7 @@
 |84|[frontend-joe/reel-examples](https://github.com/frontend-joe/reel-examples)|Collection of web examples built for Instagram and TikTok|8|2024-05-28|2024-05-25|
 |85|[Nahiyan0Alam/Google_Login_Clone](https://github.com/Nahiyan0Alam/Google_Login_Clone)|It's a Facebook Login Form created by me in 2019. It's will be not match with current Facebook Form. It's only for educational purpose.|8|2024-03-11|2024-03-11|
 |86|[zahidrahimoon/JS-Mini-Projects](https://github.com/zahidrahimoon/JS-Mini-Projects)|Explore a collection of bite-sized JavaScript projects, each offering unique insights into various aspects of the language.|8|2024-03-15|2024-01-15|
-|87|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|8|2024-07-13|2023-10-16|
+|87|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|8|2024-07-14|2023-10-16|
 |88|[rcalixte/wayland-book](https://github.com/rcalixte/wayland-book)|PDF version of Drew DeVault's Wayland Book from https://wayland-book.com/|8|2024-02-12|2023-10-10|
 |89|[khanmhmdi/CS-SBU-Data-Science](https://github.com/khanmhmdi/CS-SBU-Data-Science)|Shahid Beheshti University Data Science Course Repository, CS Dept.|8|2024-01-17|2023-09-27|
 |90|[notsuju/Make-Windows-Incredible](https://github.com/notsuju/Make-Windows-Incredible)|Ultimate guide to making windows more private and make it look better with Catppuccin theme|7|2024-07-01|2024-06-19|

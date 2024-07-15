@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-07-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|654|2024-07-05|2024-06-12|
-|2|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|618|2024-07-12|2024-07-07|
-|3|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|582|2024-07-12|2023-12-01|
+|2|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|632|2024-07-12|2024-07-07|
+|3|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|586|2024-07-12|2023-12-01|
 |4|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|462|2024-07-03|2024-02-22|
-|5|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|236|2024-01-18|2023-10-03|
+|5|[notsobigcompany/BigUIPaging](https://github.com/notsobigcompany/BigUIPaging)|A collection of SwiftUI views for handling pages of content|237|2024-01-18|2023-10-03|
 |6|[jordibruin/visionOS-Examples](https://github.com/jordibruin/visionOS-Examples)|Examples of how to build things in VisionOS|207|2024-01-14|2023-07-28|
 |7|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|179|2024-06-02|2024-01-21|
 |8|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|159|2024-07-13|2024-05-17|
 |9|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|137|2024-07-10|2023-12-01|
-|10|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|110|2024-07-10|2024-06-13|
+|10|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|111|2024-07-10|2024-06-13|
 |11|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|93|2024-07-03|2023-12-16|
-|12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|78|2024-04-29|2023-09-28|
+|12|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|79|2024-04-29|2023-09-28|
 |13|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|45|2024-07-01|2024-05-29|
 |14|[davbeck/swift-glob](https://github.com/davbeck/swift-glob)|A native Swift implementation of glob match patterns.|44|2024-07-12|2023-11-23|
 |15|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|40|2024-07-08|2024-04-08|
@@ -33,13 +33,13 @@
 |26|[bra1nDump/macos-share-screenshot](https://github.com/bra1nDump/macos-share-screenshot)|Screenshot alternative for MacOS's Shift+Cmd+4. 1 click to save to a common location / copy / icloud. 2 Clicks to share with someone|16|2024-05-25|2023-12-20|
 |27|[NSAntoine/HideViewFromScreenCaptureDemo](https://github.com/NSAntoine/HideViewFromScreenCaptureDemo)|A demo showing how to hide UIViews from screenshots & screen-recordings while still showing the view on screen|15|2024-06-06|2024-06-06|
 |28|[daniloc/MyFirstECS](https://github.com/daniloc/MyFirstECS)|A crash course and example project on RealityKit's Entity Component System for visionOS|15|2024-04-03|2024-04-01|
-|29|[Pixeland-Tech/SharePlayMock](https://github.com/Pixeland-Tech/SharePlayMock)|An extension API of Swift GroupActivities API to make testing SharePlay features in visionOS easier.|14|2024-07-11|2024-07-04|
-|30|[MatthewWaller/Terrain](https://github.com/MatthewWaller/Terrain)|Example of how to use RealityKit to procedurally generate terrain.|14|2024-05-21|2024-05-21|
-|31|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|14|2024-03-15|2024-01-07|
+|29|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|15|2024-03-15|2024-01-07|
+|30|[Pixeland-Tech/SharePlayMock](https://github.com/Pixeland-Tech/SharePlayMock)|An extension API of Swift GroupActivities API to make testing SharePlay features in visionOS easier.|14|2024-07-11|2024-07-04|
+|31|[MatthewWaller/Terrain](https://github.com/MatthewWaller/Terrain)|Example of how to use RealityKit to procedurally generate terrain.|14|2024-05-21|2024-05-21|
 |32|[bernndr/swift-macros](https://github.com/bernndr/swift-macros)|Collection of useful macros|14|2024-07-09|2023-11-21|
 |33|[schwa/ShaderGraphParameterAnimationExample](https://github.com/schwa/ShaderGraphParameterAnimationExample)|How to animate custom shaders in RealityKit for visionOS|13|2024-03-19|2024-02-22|
 |34|[apple/example-package-figlet](https://github.com/apple/example-package-figlet)|Example package to be used as part of Swift's getting started guides|13|2024-04-18|2023-08-16|
-|35|[Volorf/VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes)|A collection of interactive prototypes for VisionOS made with SwiftUI.|12|2024-03-15|2024-01-05|
+|35|[Volorf/VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes)|A collection of interactive prototypes for VisionOS made with SwiftUI.|12|2024-07-14|2024-01-05|
 |36|[42Box/iOS](https://github.com/42Box/iOS)|The collection of all the sites you need for 42 Life.|12|2024-05-05|2023-12-21|
 |37|[psharanda/NativeBook](https://github.com/psharanda/NativeBook)|A toolkit for Implementing, maintaining, documenting and evolving a shared set of UI components for iOS inspired by Storybook.js|11|2024-02-10|2023-12-03|
 |38|[marwaniaaj/AuthLoginSwiftUI](https://github.com/marwaniaaj/AuthLoginSwiftUI)|This project is demo on how to use Firebase Authentication in SwiftUI project|10|2024-03-11|2023-11-29|
@@ -63,9 +63,9 @@
 |56|[VB10/swift_patterns](https://github.com/VB10/swift_patterns)|Design patterns example to swift language|6|2024-02-25|2024-02-11|
 |57|[Omid774/MoviesAPI-Practice](https://github.com/Omid774/MoviesAPI-Practice)|this is a practice for MoviesAPI for deep and better learning code and algorithm.|6|2024-02-09|2024-02-07|
 |58|[MunavarPM/FashionStore_SwiftUI](https://github.com/MunavarPM/FashionStore_SwiftUI)|We invite designers, animators, and anyone passionate about aesthetics to join us in redefining the future of fashion. Together, we'll create an aesthetic masterpiece.|6|2024-02-29|2023-10-06|
-|59|[pwsacademy/swiftwasm-examples](https://github.com/pwsacademy/swiftwasm-examples)|Examples of Swift for WebAssembly|5|2024-05-16|2024-05-02|
-|60|[mapluisch/GitHub-Stats-Widget-for-iOS](https://github.com/mapluisch/GitHub-Stats-Widget-for-iOS)|Customizable iOS widget collection for tracking GitHub statistics right from the home- and lock-screen.|5|2024-05-12|2024-02-13|
-|61|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|5|2024-04-17|2023-08-20|
+|59|[Dishant10/RememberClip](https://github.com/Dishant10/RememberClip)|A lightweight menu bar utility, crafted with Swift and SwiftUI, that optimizes copy/paste productivity. RememberClip empowers users to effortlessly access their clipboard history and swiftly retrieve  ...|6|2024-04-17|2023-08-20|
+|60|[pwsacademy/swiftwasm-examples](https://github.com/pwsacademy/swiftwasm-examples)|Examples of Swift for WebAssembly|5|2024-05-16|2024-05-02|
+|61|[mapluisch/GitHub-Stats-Widget-for-iOS](https://github.com/mapluisch/GitHub-Stats-Widget-for-iOS)|Customizable iOS widget collection for tracking GitHub statistics right from the home- and lock-screen.|5|2024-05-12|2024-02-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
