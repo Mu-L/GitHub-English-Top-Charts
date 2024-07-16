@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
 |2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|148|2024-05-05|2023-10-18|
-|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|109|2024-05-25|2024-01-08|
+|3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|110|2024-05-25|2024-01-08|
 |4|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|90|2024-07-10|2024-02-06|
 |5|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |89|2024-06-17|2024-01-24|
-|6|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|89|2024-05-02|2023-11-24|
-|7|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|85|2024-07-12|2024-04-08|
-|8|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|79|2024-07-05|2023-10-22|
+|6|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|88|2024-05-02|2023-11-24|
+|7|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|84|2024-07-12|2024-04-08|
+|8|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|80|2024-07-05|2023-10-22|
 |9|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|77|2024-07-12|2023-10-24|
-|10|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|75|2024-07-10|2024-05-29|
+|10|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|75|2024-07-15|2024-05-29|
 |11|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|65|2024-06-20|2024-02-19|
 |12|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|52|2024-06-30|2024-02-14|
 |13|[konigsoftware/konig-kontext](https://github.com/konigsoftware/konig-kontext)|A globally shared, request scoped, context for JVM based gRPC microservices|44|2024-04-08|2023-09-12|
@@ -26,7 +26,7 @@
 |19|[C10udburst/MessengerEx](https://github.com/C10udburst/MessengerEx)|An Xposed module that improves the Facebook Messenger experience.|23|2024-07-01|2023-10-28|
 |20|[anderssv/kotlin-htmx](https://github.com/anderssv/kotlin-htmx)|Example project for how to do HTMX with Kotlin and KTor|23|2024-07-02|2023-08-24|
 |21|[ManInMyVan/Minecraft-Anticheat-List](https://github.com/ManInMyVan/Minecraft-Anticheat-List)|A List of Minecraft Anticheats|22|2024-07-12|2023-08-11|
-|22|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 4 supported file formats (.txt, .pdf, .epub, .fb2), 2 supported languages. Lots of customization.|21|2024-07-13|2023-12-29|
+|22|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 4 supported file formats (.txt, .pdf, .epub, .fb2), 2 supported languages. Lots of customization.|21|2024-07-15|2023-12-29|
 |23|[Adnan9011/github-search](https://github.com/Adnan9011/github-search)|If you're interested in learning about KMP and CMP with Ktor, Koin, Clean architecture, and multi-module setups, this GitHub project provides minimal sample code to help you dive into these technologi ...|20|2024-03-04|2024-03-04|
 |24|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |20|2024-06-24|2024-02-29|
 |25|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|20|2024-07-12|2024-02-08|

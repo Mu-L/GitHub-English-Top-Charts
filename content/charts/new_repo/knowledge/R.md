@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -25,9 +25,9 @@
 |18|[xuyiqing/lalonde](https://github.com/xuyiqing/lalonde)|Replications data and code for "LaLonde (1986) after Nearly Four Decades: Lessons Learned" |10|2024-06-14|2024-05-30|
 |19|[milos-agathon/3d-river-maps](https://github.com/milos-agathon/3d-river-maps)|Explore the capabilities of the `rayshader` package in R with my new tutorial. I'll guide you through the process of creating detailed 3D elevation and river maps for any country. This step-by-step tu ...|10|2024-05-27|2024-05-27|
 |20|[milos-agathon/arcgis-in-r](https://github.com/milos-agathon/arcgis-in-r)|In this repo, we are going to explore the amazing power of the R-ArcGIS connection. You will discover how to use R to access the vast ArcGIS database and create stunning NDVI maps with the awesome ggp ...|10|2024-02-23|2024-02-18|
-|21|[flrsh-dev/flrsh-lessons](https://github.com/flrsh-dev/flrsh-lessons)|{flrsh} lessons|9|2024-05-26|2024-01-23|
-|22|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
-|23|[martinmodrak/modelling-in-stan-2024](https://github.com/martinmodrak/modelling-in-stan-2024)|Materials for the course on Bayesian model building run at Second Faculty of Medicine at Charles University in Prague|8|2024-05-06|2024-02-22|
+|21|[martinmodrak/modelling-in-stan-2024](https://github.com/martinmodrak/modelling-in-stan-2024)|Materials for the course on Bayesian model building run at Second Faculty of Medicine at Charles University in Prague|9|2024-05-06|2024-02-22|
+|22|[flrsh-dev/flrsh-lessons](https://github.com/flrsh-dev/flrsh-lessons)|{flrsh} lessons|9|2024-05-26|2024-01-23|
+|23|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
 |24|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|7|2024-05-13|2024-05-12|
 |25|[milos-agathon/esa-land-cover](https://github.com/milos-agathon/esa-land-cover)|Harnessing the power of ESA’s satellite data and Microsoft’s Planetary Computer STAC API, we’re crafting detailed maps of land cover using R. Whether you’re a nature enthusiast or a city lover, our tu ...|7|2024-05-30|2024-04-01|
 |26|[tsrobinson/oxss24](https://github.com/tsrobinson/oxss24)|Course materials for 2024 Oxford Spring School in Advanced Research Methods|7|2024-04-11|2024-04-01|

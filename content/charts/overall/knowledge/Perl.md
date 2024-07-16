@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[curl/everything-curl](https://github.com/curl/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|1988|2024-06-27|
 |2|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1947|2024-06-28|
-|3|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|1074|2024-07-14|
+|3|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|1076|2024-07-15|
 |4|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|665|2024-04-07|
-|5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|435|2024-07-12|
-|6|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |308|2024-07-12|
-|7|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|141|2024-07-10|
+|5|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|436|2024-07-12|
+|6|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |308|2024-07-15|
+|7|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|141|2024-07-14|
 |8|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|136|2024-03-25|
 |9|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|127|2024-07-11|
 |10|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|110|2024-03-25|
-|11|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-07-14|
+|11|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-07-15|
 |12|[CiscoCXSecurity/udp-proto-scanner](https://github.com/CiscoCXSecurity/udp-proto-scanner)|udp-proto-scanner is a Perl script which discovers UDP services by sending triggers to a list of hosts|93|2024-06-06|
 |13|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|75|2024-06-27|
 |14|[khorton/nas_fan_control](https://github.com/khorton/nas_fan_control)|collection of scripts to control fan speed on NAS boxes|72|2024-01-25|
@@ -33,13 +33,13 @@
 |26|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|31|2024-04-26|
 |27|[davidcarlisle/latexcgi](https://github.com/davidcarlisle/latexcgi)|LaTeX server via perl cgi script, developed for learnlatex.org|30|2024-03-05|
 |28|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|29|2024-07-12|
-|29|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|29|2024-06-02|
+|29|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|29|2024-07-15|
 |30|[aspiers/book-indices](https://github.com/aspiers/book-indices)|Indices for music books|28|2024-07-14|
 |31|[nselem/corason](https://github.com/nselem/corason)|Bioinformatic Tools for study Evolution of metabolic diversity|27|2024-02-27|
 |32|[rdiez/Tools](https://github.com/rdiez/Tools)|Assorted collection of shell scripts etc. to help with common IT tasks|27|2024-06-17|
 |33|[thibaultduponchelle/tryperl](https://github.com/thibaultduponchelle/tryperl)|:chocolate_bar: Try Perl: learn the basics of the Perl language in your browser|26|2024-02-17|
 |34|[richysix/Crispr](https://github.com/richysix/Crispr)|CRISPR/Cas9 guide RNA Design|23|2024-02-20|
-|35|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|22|2024-07-13|
+|35|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|22|2024-07-14|
 |36|[graphviz-perl/Graph](https://github.com/graphviz-perl/Graph)|Perl class for direct graph data structures and algorithms|21|2024-06-28|
 |37|[zonemaster/zonemaster-cli](https://github.com/zonemaster/zonemaster-cli)|The Zonemaster CLI - part of the Zonemaster project|20|2024-07-03|
 |38|[molgenis/cluster-utils](https://github.com/molgenis/cluster-utils)|Collection of utilities / helper scripts to make life easier on our HPC clusters.|19|2024-04-04|
@@ -66,7 +66,7 @@
 |59|[Ensembl/ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)|A collection of tools which Ensembl uses to work with Git|9|2024-03-04|
 |60|[dincarnato/SHAPEwarp](https://github.com/dincarnato/SHAPEwarp)|SHAPE-guided RNA structural homology search|8|2024-05-02|
 |61|[erickcastelli/HLA_genotyping](https://github.com/erickcastelli/HLA_genotyping)|Tutorial for genotyping, haplotyping, and allele calls for HLA genes|8|2024-07-12|
-|62|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|2024-07-14|
+|62|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|2024-07-15|
 |63|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-05-24|
 |64|[manwar/Dancer2-Cookbook](https://github.com/manwar/Dancer2-Cookbook)|Examples from the official Dancer2 Cookbook.|8|2024-04-20|
 |65|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|8|2024-07-03|
@@ -92,7 +92,7 @@
 |85|[tomasohara/shell-scripts](https://github.com/tomasohara/shell-scripts)|This is a collection of shell script mostly for Unix, written in Perl, Bash and C Shell.|4|2024-07-08|
 |86|[ckuelker/quick-guide-en-us](https://github.com/ckuelker/quick-guide-en-us)|IT Quick Guide|4|2024-07-14|
 |87|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|4|2024-04-09|
-|88|[AngelGryph/MadeInHeaven_EncountersAndQuests](https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests)|A collection of modifications for BG2, BGT and BG(2)EE that alter various encounters and quests, and even add some new ones.|4|2024-07-12|
+|88|[AngelGryph/MadeInHeaven_EncountersAndQuests](https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests)|A collection of modifications for BG2, BGT and BG(2)EE that alter various encounters and quests, and even add some new ones.|4|2024-07-15|
 |89|[shlomif/docmake](https://github.com/shlomif/docmake)|Docmake is an automated builder from DocBook/XML to its output formats (e.g XHTML5 or PDF). It aims to be a saner replacement for xmlto.|4|2024-07-08|
 |90|[afonsoguerra/SciPaper_to_eInk_reader](https://github.com/afonsoguerra/SciPaper_to_eInk_reader)|Custom options for using k2pdfopt to convert papers and pdf books to kindle compatible PDFs|4|2024-06-12|
 |91|[stevemussmann/file_converters](https://github.com/stevemussmann/file_converters)|A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.|4|2024-07-05|
@@ -108,7 +108,7 @@
 |101|[mnalis/StreetComplete-taginfo-categorize](https://github.com/mnalis/StreetComplete-taginfo-categorize)|update list of tags combined with shop=, craft= etc. to populate and categorise tags related to KEYS_THAT_SHOULD_BE_REMOVED_WHEN_PLACE_IS_REPLACED listing in StreetComplete|3|2024-02-26|
 |102|[sambacha/blockchain-time](https://github.com/sambacha/blockchain-time)|Papers and Resources for utilizing time on-chain and off-chain|3|2024-06-27|
 |103|[pughlab/pipeline-suite](https://github.com/pughlab/pipeline-suite)|Collection of pipelines for NGS analysis along with utilities|3|2024-06-13|
-|104|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2024-07-13|
+|104|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2024-07-15|
 |105|[jimyoshida/self-taught-devops](https://github.com/jimyoshida/self-taught-devops)|Technologies and concepts for advanced DevOps engineers to learn|3|2024-05-26|
 |106|[stevieb9/ipc-shareable](https://github.com/stevieb9/ipc-shareable)|Share Perl variables across processes and scripts|3|2024-02-07|
 |107|[jkeenan/devel-git-multibisect](https://github.com/jkeenan/devel-git-multibisect)|Gather and study test output over a range of git commits|3|2024-04-23|

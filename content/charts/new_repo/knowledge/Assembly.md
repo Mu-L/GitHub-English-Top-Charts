@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -32,16 +32,16 @@
 |25|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|2024-02-20|
 |26|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|2024-02-13|
 |27|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|2023-12-26|
-|28|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
-|29|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern variants of Lempel-Ziv style compression targeting the Super Famicom/Nintendo system.|3|2024-05-15|2024-03-30|
-|30|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
-|31|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
-|32|[BogdanKlimov11/Assembler_course](https://github.com/BogdanKlimov11/Assembler_course)|Assembly programming course. Syntax and features of the language. Basic algorithms and structures in this language. And also a lot of other interesting things.|3|2024-03-28|2024-03-03|
-|33|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-04-14|2024-02-10|
-|34|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
-|35|[Musxeto/ArcadeOS](https://github.com/Musxeto/ArcadeOS)|ArcadeOS is a bootable operating system developed in assembly language, created as a project for the 3rd Semester Assembly Language course. It offers a minimalist CLI and classic text-based arcade gam ...|3|2024-03-14|2024-01-20|
-|36|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|3|2024-01-31|2024-01-10|
-|37|[robotman2412/boa-risc-v](https://github.com/robotman2412/boa-risc-v)|My second attempt at a RISC-V CPU with learnings form my previous attempt.|3|2024-01-14|2023-11-05|
+|28|[efliks/megassembly](https://github.com/efliks/megassembly)|A collection of 3D graphical effects for MS-DOS|3|2024-05-27|2024-05-10|
+|29|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
+|30|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern variants of Lempel-Ziv style compression targeting the Super Famicom/Nintendo system.|3|2024-05-15|2024-03-30|
+|31|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
+|32|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
+|33|[BogdanKlimov11/Assembler_course](https://github.com/BogdanKlimov11/Assembler_course)|Assembly programming course. Syntax and features of the language. Basic algorithms and structures in this language. And also a lot of other interesting things.|3|2024-03-28|2024-03-03|
+|34|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-04-14|2024-02-10|
+|35|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
+|36|[Musxeto/ArcadeOS](https://github.com/Musxeto/ArcadeOS)|ArcadeOS is a bootable operating system developed in assembly language, created as a project for the 3rd Semester Assembly Language course. It offers a minimalist CLI and classic text-based arcade gam ...|3|2024-03-14|2024-01-20|
+|37|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|3|2024-01-31|2024-01-10|
 |38|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|2023-10-31|
 |39|[maxim-zhao/sms-vgm-player](https://github.com/maxim-zhao/sms-vgm-player)|VGM player for the Sega Master System|3|2024-03-26|2023-10-30|
 |40|[VladikNeVladik/hse-algorithms-seminars](https://github.com/VladikNeVladik/hse-algorithms-seminars)|Code snippets used in course "Algorithms and algorithmic languages" teached in HSE|3|2024-06-01|2023-09-06|

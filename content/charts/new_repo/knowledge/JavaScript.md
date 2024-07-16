@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5047|2024-06-18|2023-09-26|
-|2|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3253|2024-02-06|2023-11-07|
-|3|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2404|2024-05-30|2023-07-18|
-|4|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1688|2024-06-28|2023-09-14|
+|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5063|2024-06-18|2023-09-26|
+|2|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3254|2024-02-06|2023-11-07|
+|3|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2415|2024-05-30|2023-07-18|
+|4|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1694|2024-06-28|2023-09-14|
 |5|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1619|2024-03-18|2023-08-10|
-|6|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1573|2024-05-06|2023-12-31|
-|7|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1245|2024-06-10|2023-12-22|
-|8|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1235|2024-06-29|2023-08-12|
-|9|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1176|2024-07-14|2024-03-01|
-|10|[squaredtechnologies/thread](https://github.com/squaredtechnologies/thread)|AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data|1005|2024-07-11|2024-05-21|
-|11|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|936|2024-05-20|2023-10-05|
+|6|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1575|2024-05-06|2023-12-31|
+|7|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1248|2024-06-10|2023-12-22|
+|8|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1237|2024-06-29|2023-08-12|
+|9|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1185|2024-07-14|2024-03-01|
+|10|[squaredtechnologies/thread](https://github.com/squaredtechnologies/thread)|AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data|1006|2024-07-11|2024-05-21|
+|11|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|938|2024-05-20|2023-10-05|
 |12|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|876|2024-05-26|2023-09-04|
 |13|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|454|2024-06-28|2023-08-16|
 |14|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|419|2024-07-04|2023-12-02|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,9 +12,9 @@
 |5|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|383|2024-07-14|2023-09-16|
 |6|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |7|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
-|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|308|2024-04-02|2023-08-28|
+|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|309|2024-04-02|2023-08-28|
 |9|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|306|2024-07-01|2024-03-22|
-|10|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|285|2024-07-10|2023-07-21|
+|10|[adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins)|A collection of USD fileformat plugins|286|2024-07-10|2023-07-21|
 |11|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |12|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|268|2024-04-04|2024-01-14|
 |13|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
@@ -52,7 +52,7 @@
 |45|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |46|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
 |47|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
-|48|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|146|2024-07-14|2023-12-30|
+|48|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|147|2024-07-15|2023-12-30|
 |49|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
 |50|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
 |51|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
