@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-07-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|9788|979|2024-07-16|
-|2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|9|2|2024-07-13|
-|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6751|2|2024-06-01|
-|4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|259|2|2024-05-24|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|9900|900|2024-07-16|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6753|2|2024-06-01|
+|3|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|259|2|2024-05-24|
+|4|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|10|1|2024-07-13|
 |5|[nasa/Generic-Urban-Air-Mobility-GUAM](https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM)|-|37|1|2024-05-24|
 |6|[MatheusCavini/FEM-ModalAnalysis](https://github.com/MatheusCavini/FEM-ModalAnalysis)|MatLab code for running modal analysis of truss and beam structures.|4|1|2024-07-13|
-|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|637|1|2024-07-01|
+|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|639|1|2024-07-01|
 |8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|706|1|2024-05-28|
 |9|[Shida-Jiang/A-new-framework-for-nonlinear-Kalman-filters](https://github.com/Shida-Jiang/A-new-framework-for-nonlinear-Kalman-filters)|-|6|1|2024-07-09|
-|10|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1510|1|2024-07-10|
+|10|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1511|1|2024-07-10|
 |11|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |12|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|8|0|2024-05-29|
 |13|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|4|0|2024-03-02|
 |14|[HanwenWang95/QSPIO-TNBC](https://github.com/HanwenWang95/QSPIO-TNBC)|This repository contains the latest QSP platform for TNBC/NSCLC developed by the Popel Systems Biology Laboratory |3|0|2024-04-30|
-|15|[americocunhajr/ElectroM](https://github.com/americocunhajr/ElectroM)|ElectroM is a Matlab code to simulate the nonlinear dynamics of an electromechanical system.|8|0|2024-07-17|
+|15|[americocunhajr/ElectroM](https://github.com/americocunhajr/ElectroM)|ElectroM is a Matlab code to simulate the nonlinear dynamics of an electromechanical system.|8|0|2024-07-18|
 |16|[cnnp-lab/CorticalFoldingAnalysisTools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)|Scripts to extract features of cortical folding from MRI|11|0|2024-07-03|
 |17|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|80|0|2024-06-18|
 |18|[biomicroscopy/Image_Deblurring_By_Pixel_Reassignment](https://github.com/biomicroscopy/Image_Deblurring_By_Pixel_Reassignment)|-|19|0|2024-07-12|
@@ -167,9 +167,9 @@
 |160|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |161|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-05-25|
 |162|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|107|0|2024-07-05|
-|163|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|816|0|2024-05-05|
+|163|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|817|0|2024-05-05|
 |164|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|19|0|2024-04-01|
-|165|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|247|0|2024-07-04|
+|165|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|248|0|2024-07-04|
 |166|[anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2](https://github.com/anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2)|Performance evaluation of clustering protocols in ns2|3|0|2024-05-18|
 |167|[lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension](https://github.com/lhfbest/Testing-Linear-Separability-between-Two-Sets-in-any-dimension)|It can be used to quickly determine the linear separability of two sets in any dimension. A GPU is required.|4|0|2024-01-24|
 |168|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
@@ -193,7 +193,7 @@
 |186|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-06-18|
 |187|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
 |188|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|3|0|2024-04-10|
-|189|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|58|0|2024-06-12|
+|189|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-06-12|
 |190|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-06-21|
 |191|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
 |192|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|3|0|2024-06-18|
