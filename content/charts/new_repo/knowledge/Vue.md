@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|281|2024-06-05|2024-01-03|
 |3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|194|2024-07-06|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|160|2024-04-23|2024-01-10|
-|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|150|2024-07-18|2024-01-12|
+|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|152|2024-07-19|2024-01-12|
 |6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|127|2024-07-03|2024-05-29|
 |7|[Atinux/instadraw](https://github.com/Atinux/instadraw)|Share your drawings with the world.|103|2024-06-28|2024-06-10|
 |8|[CharlieDigital/coderev](https://github.com/CharlieDigital/coderev)|CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.|100|2024-05-27|2023-08-04|
@@ -25,13 +25,13 @@
 |18|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
 |19|[egghunters/dxf-viewer-examples](https://github.com/egghunters/dxf-viewer-examples)|Examples for the x-viewer SDK, which is a WebGL-based BIM model viewer built on Three.js and Vue3. It is used to view DWG/DXF/PDF files.|13|2024-02-27|2024-01-01|
 |20|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
-|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-07-16|2023-11-10|
+|21|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-07-19|2023-11-10|
 |22|[AbdullahBakir97/Vue-Store](https://github.com/AbdullahBakir97/Vue-Store)|Udemy Courses Filter Clone Using VueJs|11|2024-02-06|2024-02-02|
-|23|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-07-17|2023-12-11|
+|23|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-07-19|2023-12-11|
 |24|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|11|2024-07-18|2023-10-23|
 |25|[Justin3go/weekly0](https://github.com/Justin3go/weekly0)|优质中文周刊导航网站--收刮中文互联网上的奇迹|10|2024-07-17|2024-06-06|
 |26|[omegarhovega/ARRRType](https://github.com/omegarhovega/ARRRType)|A typing game for pirates: Learning to type the awesome way.|10|2024-02-08|2024-01-10|
-|27|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-07-18|2023-12-01|
+|27|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-07-19|2023-12-01|
 |28|[gptscript-ai/story-book](https://github.com/gptscript-ai/story-book)|Generative story book powered by Nuxt and GPTScript|9|2024-07-02|2024-04-02|
 |29|[CharlieDigital/vue3-state-definemodel](https://github.com/CharlieDigital/vue3-state-definemodel)|A sample repository showing how to use defineModel in Vue 3.4 with composables to easily and cleanly manage state.|9|2024-01-22|2024-01-20|
 |30|[aufarijaal/online-book-store-frontend](https://github.com/aufarijaal/online-book-store-frontend)|Online Book Store frontend repo named Garadia 🍏|9|2024-06-18|2024-01-14|

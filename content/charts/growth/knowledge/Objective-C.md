@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13989|3|2024-06-25|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13988|3|2024-06-25|
 |2|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2709|1|2024-04-11|
-|3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3336|1|2024-05-31|
+|3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3335|1|2024-05-31|
 |4|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|350|1|2024-03-01|
 |5|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|61|0|2024-02-05|
 |6|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |12|0|2024-06-11|
@@ -30,8 +30,8 @@
 |23|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|0|2024-03-16|
 |24|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-05-13|
 |25|[AlexGladkov/playzone-mobile](https://github.com/AlexGladkov/playzone-mobile)|Repository for KMM Tutorial video|27|0|2024-02-20|
-|26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1736|0|2024-07-11|
-|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|309|0|2024-02-20|
+|26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1736|0|2024-07-19|
+|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|308|0|2024-02-20|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
 |29|[Tricertops/Essentials](https://github.com/Tricertops/Essentials)|Collection of categories, functions, macros and classes that are essential part of my projects.|18|0|2024-02-17|
 |30|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|

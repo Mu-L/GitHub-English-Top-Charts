@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1475|2024-03-12|2023-12-27|
-|2|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|501|2024-03-03|2023-12-17|
-|3|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|349|2024-07-17|2024-01-02|
-|4|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|333|2024-06-17|2023-11-02|
+|2|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|502|2024-03-03|2023-12-17|
+|3|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|353|2024-07-17|2024-01-02|
+|4|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|336|2024-06-17|2023-11-02|
 |5|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|285|2024-07-16|2023-10-30|
 |6|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|280|2024-05-22|2023-09-03|
 |7|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|272|2024-07-16|2023-12-02|
 |8|[topological-modular-forms/Darwin-Typeface](https://github.com/topological-modular-forms/Darwin-Typeface)|This is the project repository for Darwin, a typeface for books and articles, with a focus on scientific writing.|204|2024-07-18|2024-02-12|
-|9|[kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS)|这是根据《基于Debian搭建HomeNAS》教程所写的半自动化配置脚本。|151|2024-07-18|2024-04-26|
+|9|[kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS)|这是根据《基于Debian搭建HomeNAS》教程所写的半自动化配置脚本。|153|2024-07-18|2024-04-26|
 |10|[amirhosseinchoghaei/Passwall](https://github.com/amirhosseinchoghaei/Passwall)|How to install Passwall in openwrt|126|2024-06-11|2023-08-04|
 |11|[Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix)|Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch|121|2024-06-23|2023-08-06|
 |12|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|95|2024-04-05|2024-01-12|
@@ -29,11 +29,11 @@
 |22|[aws-samples/aws-hpc-recipes](https://github.com/aws-samples/aws-hpc-recipes)|Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.|52|2024-07-08|2023-09-09|
 |23|[canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)|Learn open-source software documentation skills with Canonical|50|2024-07-10|2023-10-19|
 |24|[gitbito/AI-Automation](https://github.com/gitbito/AI-Automation)|Intelligent AI automation examples using Bito CLI and tools|42|2024-06-20|2023-08-08|
-|25|[infiniteremote/installer](https://github.com/infiniteremote/installer)|Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc|38|2024-06-20|2024-02-06|
-|26|[Master-PLC/FreDF](https://github.com/Master-PLC/FreDF)|Repository for "FreDF: Learning to Forecast in the Transformed Domain"|38|2024-07-03|2024-02-02|
-|27|[Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples)|The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform.|34|2024-07-18|2024-06-24|
-|28|[scotthowson/ROG-STRIX-Z790-A-GAMING-WIFI-Intel-i9-13900k-RX-6800-XT-OpenCore-1.0.1](https://github.com/scotthowson/ROG-STRIX-Z790-A-GAMING-WIFI-Intel-i9-13900k-RX-6800-XT-OpenCore-1.0.1)|Discover the power of macOS on Raptor Lake-based systems with our comprehensive Hackintosh EFI and OpenCore guide. Dive into the world of Hackintoshing and transform your hardware into a macOS powerho ...|34|2024-06-26|2023-09-06|
-|29|[nalgeon/tryxinyminutes](https://github.com/nalgeon/tryxinyminutes)|Live code tutorials in your browser|33|2024-05-12|2024-02-16|
+|25|[Master-PLC/FreDF](https://github.com/Master-PLC/FreDF)|Repository for "FreDF: Learning to Forecast in the Transformed Domain"|39|2024-07-03|2024-02-02|
+|26|[infiniteremote/installer](https://github.com/infiniteremote/installer)|Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc|38|2024-06-20|2024-02-06|
+|27|[Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples)|The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform.|34|2024-07-19|2024-06-24|
+|28|[nalgeon/tryxinyminutes](https://github.com/nalgeon/tryxinyminutes)|Live code tutorials in your browser|34|2024-05-12|2024-02-16|
+|29|[scotthowson/ROG-STRIX-Z790-A-GAMING-WIFI-Intel-i9-13900k-RX-6800-XT-OpenCore-1.0.1](https://github.com/scotthowson/ROG-STRIX-Z790-A-GAMING-WIFI-Intel-i9-13900k-RX-6800-XT-OpenCore-1.0.1)|Discover the power of macOS on Raptor Lake-based systems with our comprehensive Hackintosh EFI and OpenCore guide. Dive into the world of Hackintoshing and transform your hardware into a macOS powerho ...|34|2024-06-26|2023-09-06|
 |30|[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)|🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer |33|2024-07-01|2023-10-13|
 |31|[pralinkhaira/Insta-Cypher](https://github.com/pralinkhaira/Insta-Cypher)|The Instagram Password Cracker is a Bash script designed to perform brute-force attacks on Instagram accounts to recover forgotten or lost passwords. It utilizes a list of possible passwords and vario ...|32|2024-05-07|2023-08-25|
 

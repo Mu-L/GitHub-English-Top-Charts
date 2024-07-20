@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|56|2024-03-21|2024-01-19|
-|2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|27|2024-07-09|2024-02-21|
+|2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|28|2024-07-09|2024-02-21|
 |3|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|19|2024-07-18|2024-05-28|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|19|2024-07-17|2024-03-23|
 |5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|13|2024-07-15|2023-08-30|

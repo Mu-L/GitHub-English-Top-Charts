@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2605|4|2024-07-16|
-|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|346|2|2024-06-06|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2612|4|2024-07-16|
+|2|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|350|2|2024-06-06|
 |3|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|250|1|2024-07-11|
-|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1153|1|2024-06-03|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1353|1|2024-07-17|
+|4|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1155|1|2024-06-03|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1355|1|2024-07-17|
 |6|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |7|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|17|0|2024-06-11|
 |8|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|11|0|2024-07-12|
@@ -36,7 +36,7 @@
 |29|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |50|0|2024-05-20|
 |30|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|0|2024-04-24|
 |31|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|0|2024-05-10|
-|32|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|28|0|2024-03-19|
+|32|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|29|0|2024-03-19|
 |33|[wwangwitsel/PLDA](https://github.com/wwangwitsel/PLDA)|[KDD'22] Partial Label Learning with Discrimination Augmentation|9|0|2024-05-21|
 |34|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|Open-source TomoSAR package for PSDSInSAR and ComSAR algorithms|113|0|2024-04-09|
 |35|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|0|2024-03-25|
@@ -47,7 +47,7 @@
 |40|[emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book)|Book PDF and simulation code for the monograph "Foundations of User-Centric Cell-Free Massive MIMO" by Özlem Tugfe Demir, Emil Björnson and Luca Sanguinetti, published in Foundations and Trends in Sig ...|91|0|2024-02-02|
 |41|[SafeRoboticsLab/Dual_Control_HRI](https://github.com/SafeRoboticsLab/Dual_Control_HRI)|Implementation of implicit dual control-based active uncertainty learning for human-robot interaction - WAFR 2022 & IJRR 2023|21|0|2024-06-24|
 |42|[rares9301/mn_hw](https://github.com/rares9301/mn_hw)|simple but efficient kernel regression and anomaly detection algorithms |9|0|2024-05-04|
-|43|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|0|2024-07-17|
+|43|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|0|2024-07-18|
 |44|[DanuserLab/u-integrate](https://github.com/DanuserLab/u-integrate)|Pipeline for inference of Granger-causal relations in molecular systems to study actin regulation in lamellipodia|4|0|2024-06-06|
 |45|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|0|2024-01-29|
 |46|[gigacycle/Vehicle-Routing-Problem-Solver](https://github.com/gigacycle/Vehicle-Routing-Problem-Solver)|This MATLAB code (implemented in 2011) provides solutions to the VRP using various optimization algorithms including bee colony algorithm, simulated annealing algorithm, genetic algorithm, tabu search ...|4|0|2024-03-31|
@@ -60,7 +60,7 @@
 |53|[xiangxdai/Motion-estimation-and-compensation](https://github.com/xiangxdai/Motion-estimation-and-compensation)|This repository contains implementations of fundamental algorithms for motion estimation and compensation in video processing. |3|0|2024-07-17|
 |54|[TrymArve/QP](https://github.com/TrymArve/QP)|This repository contains simple scripts demonstrating how one can plot a Quadratic Program (with two decision variables) in MATLAB. It contains a script for plotting a simple QP, a class "QP" to simpl ...|3|0|2024-02-15|
 |55|[DanuserLab/u-signal3D](https://github.com/DanuserLab/u-signal3D)|The computational platform u-signal3D defines a shape-invariant representation of the spatial scales of molecular organization at the cell surface, enabling comparison and machine-learning of signalin ...|7|0|2024-06-06|
-|56|[mathworks/Robotic-Arm-Impedance-Control](https://github.com/mathworks/Robotic-Arm-Impedance-Control)|A tutorial on implementing an impedance control for a collaborative robot that can work together with humans.|4|0|2024-06-12|
+|56|[mathworks/Robotic-Arm-Impedance-Control](https://github.com/mathworks/Robotic-Arm-Impedance-Control)|A tutorial on implementing an impedance control for a collaborative robot that can work together with humans.|5|0|2024-06-12|
 |57|[JackELee2018/grayscale-image-template-match](https://github.com/JackELee2018/grayscale-image-template-match)|A MATLAB algorithm for grayscale image template matching. I taught myself of machine vision at that time and get the image-pyramid idea from Stack Overflow. And this was put into my master peper that  ...|4|0|2024-03-13|
 |58|[MathWorks-Teaching-Resources/Vector-Arithmetic](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic)|Interactive courseware module that addresses the fundamentals of vectors taught in mathematics courses.|3|0|2024-04-30|
 |59|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|0|2024-02-16|
@@ -165,7 +165,7 @@
 |158|[AlmaasLab/AutoKEGGRec](https://github.com/AlmaasLab/AutoKEGGRec)|AutoKEGGRec is an automated tool that creates first draft metabolic network reconstructions of single organisms, community reconstructions based on a list of organisms, and finally a consolidated reco ...|7|0|2024-03-21|
 |159|[Biomedical-Imaging-Group/GlobalBioIm](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)|A unifying Matlab framework for the development of reconstruction algorithms (solving inverse problems) in computational imaging |76|0|2024-07-17|
 |160|[vfitoolkit/VFItoolkit-matlab-examples](https://github.com/vfitoolkit/VFItoolkit-matlab-examples)|Some Examples using VFItoolkit-matlab|28|0|2024-01-29|
-|161|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|7|0|2024-06-03|
+|161|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|0|2024-06-03|
 |162|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|0|2024-04-30|
 |163|[MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra)|Interactive courseware module that addresses fundamental matrix methods and linear systems taught in introductory linear algebra courses.|14|0|2024-04-30|
 |164|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|91|0|2024-03-07|
