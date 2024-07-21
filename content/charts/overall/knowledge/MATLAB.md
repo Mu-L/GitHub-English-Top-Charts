@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2612|2024-07-16|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1355|2024-07-17|
-|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1155|2024-06-03|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2613|2024-07-16|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1354|2024-07-17|
+|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1157|2024-06-03|
 |4|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|362|2024-03-12|
 |5|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|350|2024-06-06|
 |6|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|257|2024-06-27|
@@ -15,7 +15,7 @@
 |8|[dynamicslab/databook_matlab](https://github.com/dynamicslab/databook_matlab)|Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz http://w ...|249|2024-02-09|
 |9|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|211|2024-02-06|
 |10|[mikexcohen/AnalyzingNeuralTimeSeries](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)|Code for ANTS book (Cohen, 2012, MIT Press)|170|2024-03-05|
-|11|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|161|2024-01-24|
+|11|[polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)|A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.|162|2024-01-24|
 |12|[matlab-deep-learning/reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)|MATLAB example on how to use Reinforcement Learning for developing a financial trading model|145|2024-03-07|
 |13|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|141|2024-06-02|
 |14|[lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign)|Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015|129|2024-05-27|
@@ -60,8 +60,8 @@
 |53|[jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)|Random code snippets|27|2024-02-05|
 |54|[THUHoloLab/pixel-super-resolution-phase-retrieval](https://github.com/THUHoloLab/pixel-super-resolution-phase-retrieval)|Algorithms for pixel super-resolution phase retrieval|26|2024-02-07|
 |55|[darcycordell/mtcode](https://github.com/darcycordell/mtcode)|Collection of MATLAB scripts for magnetotelluric data analysis, data editing, model building, and model editing. |26|2024-04-15|
-|56|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|24|2024-07-19|
-|57|[mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests](https://github.com/mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests)|Files demonstrating how to diff Simulink models and attach reports to pull requests|24|2024-01-31|
+|56|[mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests](https://github.com/mathworks/Simulink-Model-Comparison-for-GitHub-Pull-Requests)|Files demonstrating how to diff Simulink models and attach reports to pull requests|25|2024-01-31|
+|57|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|24|2024-07-19|
 |58|[iff-gsc/LADAC-Examples](https://github.com/iff-gsc/LADAC-Examples)|Examples for the Library for Aircraft Dynamics And Control|24|2024-06-27|
 |59|[wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness](https://github.com/wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness)|The released code of t-CTV algorithms, mainly proposed in the paper "Guaranteed Tensor Recovery Fused Low-rankness and  Smoothness"， published in TPAMI 2023|22|2024-07-06|
 |60|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|22|2024-07-14|
@@ -77,7 +77,7 @@
 |70|[MathWorks-Teaching-Resources/Fundamentals-of-Programming](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming)|An overview of programming concepts including arrays, strings, loops, and algorithms with a project.|20|2024-06-24|
 |71|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|20|2024-05-24|
 |72|[tbewley/RR](https://github.com/tbewley/RR)|the Renaissance Repository, a collection of pedagogical codes associated with the forthcoming texts Renaissance Robotics and Numerical Renaissance, by Thomas Bewley|20|2024-07-09|
-|73|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|19|2024-07-10|
+|73|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|19|2024-07-20|
 |74|[Jpickard1/Hypergraph-Analysis-Toolbox](https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox)|The Hypergraph Analysis Toolbox (HAT) contains a series of methods for investigating multi-way interactions and nucleus architecture.|19|2024-07-02|
 |75|[mathworks-robotics/templates-robocup-robot-manipulation-challenge](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)|This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to cont ...|19|2024-05-12|
 |76|[MathWorks-Teaching-Resources/Transfer-Function-Analysis-of-Dynamic-Systems](https://github.com/MathWorks-Teaching-Resources/Transfer-Function-Analysis-of-Dynamic-Systems)|Interactive courseware module that introduces transfer function analysis taught in system dynamics and controls courses.|18|2024-04-30|
@@ -87,7 +87,7 @@
 |80|[opencobra/COBRA.tutorials](https://github.com/opencobra/COBRA.tutorials)|Repository of tutorials for The COBRA Toolbox|18|2024-05-28|
 |81|[Yunhui-Gao/total-variation-denoising](https://github.com/Yunhui-Gao/total-variation-denoising)|Algorithms for total variation denoising|17|2024-03-21|
 |82|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|17|2024-06-11|
-|83|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|16|2024-07-18|
+|83|[mohanty-sd/DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE)|Codes for a data science course|16|2024-07-20|
 |84|[rejectedbanana/Sea-Bird-Toolbox](https://github.com/rejectedbanana/Sea-Bird-Toolbox)|A collection of tools to manipulate data from Sea-Bird instruments|16|2024-02-26|
 |85|[paulchen2713/NTHU-WCS_2021](https://github.com/paulchen2713/NTHU-WCS_2021)|COM 5170 Wireless Communication Systems 2021 Course Materials|14|2024-03-24|
 |86|[jjjllxx/Multiple-UAV-Motion-Control-System](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System)|Multiple UAV motion control system. Including multiple path planning algorithms. NUS master project.|14|2024-03-28|
@@ -177,34 +177,34 @@
 |170|[rbrobots/link_manipulator_neural_network](https://github.com/rbrobots/link_manipulator_neural_network)|In ‘A study of neural network based inverse kinematics solution for three-joint robot’ (Köker 2014), the authors propose using backpropagation to retrieve the inverse kinematics for a three-joint robo ...|6|2024-06-11|
 |171|[OctHe/O3](https://github.com/OctHe/O3)|Octave-version open source OFDM baseband simulation. The master branch relies on Octave, and the MATLAB version is in the MATLAB branch, which is not maintained.|6|2024-02-16|
 |172|[brainstorm-tools/bst-users](https://github.com/brainstorm-tools/bst-users)|Scripts and data shared by Brainstorm users|6|2024-05-27|
-|173|[mathworks/Robotic-Arm-Impedance-Control](https://github.com/mathworks/Robotic-Arm-Impedance-Control)|A tutorial on implementing an impedance control for a collaborative robot that can work together with humans.|5|2024-06-12|
-|174|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|
-|175|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|
-|176|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|
-|177|[Aalto-Electric-Drives/digital-control-power-conversion](https://github.com/Aalto-Electric-Drives/digital-control-power-conversion)|PhD Course: Advanced Control in Electrical Energy Conversion (Politecnico di Torino 2017)|5|2024-02-02|
-|178|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|5|2024-05-04|
-|179|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|
-|180|[pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain](https://github.com/pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain)|Physical Downlink Shared Channel (PDSCH) in 5G New Radio.|5|2024-01-29|
-|181|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |5|2024-07-01|
-|182|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|2024-05-23|
-|183|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|2024-06-20|
-|184|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|5|2024-03-27|
-|185|[weimin581/WSGGF](https://github.com/weimin581/WSGGF)|[PR'2024] ''Weighted side-window based gradient guided image filtering'', Weimin Yuan, Cai Meng, Xiangzhi Bai|5|2024-04-30|
-|186|[dakiefer/GEW_dispersion_script](https://github.com/dakiefer/GEW_dispersion_script)|Script to compute guided waves in plates.|5|2024-02-09|
-|187|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
-|188|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
-|189|[RaiBP/vlc_thesis](https://github.com/RaiBP/vlc_thesis)|Source code for the Diploma Thesis "Evaluation of Extreme Learning Machine as Channel Equalizer for Color-Shift Keying-Based Visible Light Communication Systems Employed in Underground Mining Scenario ...|5|2024-07-17|
-|190|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|2024-01-29|
-|191|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
-|192|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
-|193|[chengle-zhou/SaMKL_demo](https://github.com/chengle-zhou/SaMKL_demo)|Structure-Aware Multi-Kernel Learning for Hyperspectral Image Classification (IEEE J-STARS，2021)|5|2024-07-07|
-|194|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
-|195|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|2024-04-30|
-|196|[natmegsweden/NatMEG_Wiki](https://github.com/natmegsweden/NatMEG_Wiki)|NatMEG Wiki documentation, example scripts, and tutorials.|5|2024-02-23|
-|197|[SiamakGhodsi/SPMLD](https://github.com/SiamakGhodsi/SPMLD)|Self-Paced Multi-Label Learning with Diversity|5|2024-02-27|
-|198|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|2024-02-16|
-|199|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|2024-07-18|
-|200|[hdfeos/zoo](https://github.com/hdfeos/zoo)|HDF-EOS Comprehensive Examples|5|2024-07-18|
+|173|[sjgershm/LCM](https://github.com/sjgershm/LCM)|Latent cause model of associative learning|6|2024-07-20|
+|174|[mathworks/Robotic-Arm-Impedance-Control](https://github.com/mathworks/Robotic-Arm-Impedance-Control)|A tutorial on implementing an impedance control for a collaborative robot that can work together with humans.|5|2024-06-12|
+|175|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|
+|176|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|
+|177|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|
+|178|[Aalto-Electric-Drives/digital-control-power-conversion](https://github.com/Aalto-Electric-Drives/digital-control-power-conversion)|PhD Course: Advanced Control in Electrical Energy Conversion (Politecnico di Torino 2017)|5|2024-02-02|
+|179|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|5|2024-05-04|
+|180|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|
+|181|[pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain](https://github.com/pgurve22/5G-NR-New-Radio-PDSCH-Transceiver-Chain)|Physical Downlink Shared Channel (PDSCH) in 5G New Radio.|5|2024-01-29|
+|182|[manlupanshan/LPPFDAB](https://github.com/manlupanshan/LPPFDAB)|This repository contain two part：1.Code about how to use matlab connect the Zemax 2. Image reconstruction model bulid used the learnable physical priors and frequency domain attention |5|2024-07-01|
+|183|[FrankPat/Karthaus](https://github.com/FrankPat/Karthaus)|Karthaus course model codes|5|2024-05-23|
+|184|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|2024-06-20|
+|185|[wangxb96/MEL](https://github.com/wangxb96/MEL)|Code for “MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection“--[IEEE Transactions on Knowledge and Data Engineering (TKDE 24)]|5|2024-03-27|
+|186|[weimin581/WSGGF](https://github.com/weimin581/WSGGF)|[PR'2024] ''Weighted side-window based gradient guided image filtering'', Weimin Yuan, Cai Meng, Xiangzhi Bai|5|2024-04-30|
+|187|[dakiefer/GEW_dispersion_script](https://github.com/dakiefer/GEW_dispersion_script)|Script to compute guided waves in plates.|5|2024-02-09|
+|188|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
+|189|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
+|190|[RaiBP/vlc_thesis](https://github.com/RaiBP/vlc_thesis)|Source code for the Diploma Thesis "Evaluation of Extreme Learning Machine as Channel Equalizer for Color-Shift Keying-Based Visible Light Communication Systems Employed in Underground Mining Scenario ...|5|2024-07-17|
+|191|[SzymonMs/Matlab_Files](https://github.com/SzymonMs/Matlab_Files)|Projects created during my study of mathematical modeling, control theory, automation and robotics|5|2024-01-29|
+|192|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
+|193|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
+|194|[chengle-zhou/SaMKL_demo](https://github.com/chengle-zhou/SaMKL_demo)|Structure-Aware Multi-Kernel Learning for Hyperspectral Image Classification (IEEE J-STARS，2021)|5|2024-07-07|
+|195|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
+|196|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|2024-04-30|
+|197|[natmegsweden/NatMEG_Wiki](https://github.com/natmegsweden/NatMEG_Wiki)|NatMEG Wiki documentation, example scripts, and tutorials.|5|2024-02-23|
+|198|[SiamakGhodsi/SPMLD](https://github.com/SiamakGhodsi/SPMLD)|Self-Paced Multi-Label Learning with Diversity|5|2024-02-27|
+|199|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|2024-02-16|
+|200|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|2024-07-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|56|2024-03-21|2024-01-19|
+|1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|57|2024-03-21|2024-01-19|
 |2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|28|2024-07-09|2024-02-21|
 |3|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|19|2024-07-18|2024-05-28|
 |4|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|19|2024-07-17|2024-03-23|
@@ -46,12 +46,10 @@
 |39|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|2|2024-07-15|2024-03-22|
 |40|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
 |41|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
-|42|[vluz/OSS-Apr](https://github.com/vluz/OSS-Apr)|Apresentação de OSS para negócios|2|2024-01-19|2024-01-10|
-|43|[vluz/IA-Apr](https://github.com/vluz/IA-Apr)|Apresentação acerca de IA Moderna|2|2024-01-19|2024-01-09|
-|44|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
-|45|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
-|46|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
-|47|[artisantek/jenkins-sharedlibraries](https://github.com/artisantek/jenkins-sharedlibraries)|-|2|2024-07-14|2023-07-30|
+|42|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
+|43|[kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)|Mirror of https://github.com/apache/incubator-kie-kogito-pipelines|2|2024-01-29|2023-09-14|
+|44|[bonitasoft/bonita-project](https://github.com/bonitasoft/bonita-project)|Bonita project parent pom and assemblies definitions|2|2024-01-29|2023-08-22|
+|45|[artisantek/jenkins-sharedlibraries](https://github.com/artisantek/jenkins-sharedlibraries)|-|2|2024-07-14|2023-07-30|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
