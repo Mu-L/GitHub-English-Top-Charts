@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Rust
-<sub>Updated: 2024-07-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[evilsocket/cake](https://github.com/evilsocket/cake)|Distributed LLM inference for mobile, desktop and server.|1940|139|2024-07-18|
-|2|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|🔮 ChatGPT Desktop Application (Mac, Windows and Linux)|51756|87|2024-07-15|
-|3|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package installer and resolver, written in Rust.|15258|52|2024-07-20|
-|4|[bitwhip/bitwhip](https://github.com/bitwhip/bitwhip)|CLI Native WebRTC Agent in Rust|627|52|2024-07-11|
-|5|[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)|A massively parallel, high-level programming language|16844|52|2024-07-19|
-|6|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.|68685|49|2024-07-20|
-|7|[FuelLabs/sway](https://github.com/FuelLabs/sway)|🌴 Empowering everyone to build reliable and efficient smart contracts.|62919|49|2024-07-20|
-|8|[cloudflare/pingora](https://github.com/cloudflare/pingora)|A library for building fast, reliable and evolvable network services.|20487|46|2024-07-18|
-|9|[FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs)|Fuel Network Rust SDK|44353|45|2024-07-19|
-|10|[frectonz/sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]|1775|44|2024-07-15|
-|11|[tauri-apps/tauri](https://github.com/tauri-apps/tauri)|Build smaller, faster, and more secure desktop applications with a web frontend.|79993|44|2024-07-20|
-|12|[denoland/deno](https://github.com/denoland/deno)|A modern runtime for JavaScript and TypeScript.|93481|41|2024-07-20|
-|13|[postgresml/korvus](https://github.com/postgresml/korvus)|Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.|1107|41|2024-07-11|
-|14|[astral-sh/ruff](https://github.com/astral-sh/ruff)|An extremely fast Python linter and code formatter, written in Rust.|29186|41|2024-07-20|
-|15|[FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core)|Rust full node implementation of the Fuel v2 protocol.|58280|41|2024-07-19|
-|16|[TabbyML/tabby](https://github.com/TabbyML/tabby)|Self-hosted AI coding assistant|19803|40|2024-07-20|
-|17|[tw93/Pake](https://github.com/tw93/Pake)|🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用|24842|38|2024-07-18|
-|18|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4606|37|2024-06-19|
-|19|[huggingface/candle](https://github.com/huggingface/candle)|Minimalist ML framework for Rust|14617|37|2024-07-20|
-|20|[biomejs/biome](https://github.com/biomejs/biome)|A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.|12868|36|2024-07-20|
-|21|[zed-industries/zed](https://github.com/zed-industries/zed)|Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.|42055|34|2024-07-20|
-|22|[sxyazi/yazi](https://github.com/sxyazi/yazi)|💥 Blazing fast terminal file manager written in Rust, based on async I/O.|12569|33|2024-07-20|
-|23|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4832|28|2024-07-01|
-|24|[astral-sh/rye](https://github.com/astral-sh/rye)|a Hassle-Free Python Experience|12764|28|2024-07-20|
-|25|[LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|7002|28|2024-07-20|
-|26|[surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)|A scalable, distributed, collaborative, document-graph database, for the realtime web|26281|28|2024-07-20|
-|27|[aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent)|The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.|506|28|2024-07-19|
-|28|[fathyb/carbonyl](https://github.com/fathyb/carbonyl)|Chromium running inside your terminal|14281|26|2024-07-01|
-|29|[eza-community/eza](https://github.com/eza-community/eza)|A modern, maintained replacement for ls|9123|25|2024-07-20|
-|30|[vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks)| Wipe files and drives securely with random ASCII dicks |100|25|2024-07-19|
-|31|[vercel/turbo](https://github.com/vercel/turbo)|Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.|25647|25|2024-07-20|
-|32|[rolldown/rolldown](https://github.com/rolldown/rolldown)|Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.|7425|24|2024-07-20|
-|33|[Speykious/cve-rs](https://github.com/Speykious/cve-rs)|Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀|3748|24|2024-07-11|
-|34|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte|11731|22|2024-07-20|
-|35|[starship/starship](https://github.com/starship/starship)|☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!|43237|22|2024-07-20|
-|36|[helix-editor/helix](https://github.com/helix-editor/helix)|A post-modern modal text editor.|31726|21|2024-07-20|
-|37|[bevyengine/bevy](https://github.com/bevyengine/bevy)|A refreshingly simple data-driven game engine built in Rust|34224|21|2024-07-20|
-|38|[leptos-rs/leptos](https://github.com/leptos-rs/leptos)|Build fast web applications with Rust.|15412|21|2024-07-20|
-|39|[getgrit/gritql](https://github.com/getgrit/gritql)|GritQL is a query language for searching, linting, and modifying code.|2806|21|2024-07-20|
-|40|[chroma-core/chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|13706|21|2024-07-20|
-|41|[sharkdp/bat](https://github.com/sharkdp/bat)|A cat(1) clone with wings.|47884|21|2024-07-18|
-|42|[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)|Blazingly fast LLM inference.|3013|21|2024-07-20|
-|43|[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)|A lightning-fast search API that fits effortlessly into your apps, websites, and workflow|45423|20|2024-07-20|
-|44|[GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)|Comfortably monitor your Internet traffic 🕵️‍♂️|14622|20|2024-07-20|
-|45|[openobserve/openobserve](https://github.com/openobserve/openobserve)|🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).|10338|19|2024-07-20|
-|46|[louis030195/screen-pipe](https://github.com/louis030195/screen-pipe)|Library for devs to build AI apps on top of all your life data. Alternative to Rewind.ai. Record your screens & mics 24/7. You own your data. Rust.|591|18|2024-07-20|
-|47|[alacritty/alacritty](https://github.com/alacritty/alacritty)|A cross-platform, OpenGL terminal emulator.|54780|18|2024-07-19|
-|48|[rust-lang/rust](https://github.com/rust-lang/rust)|Empowering everyone to build reliable and efficient software.|95200|18|2024-07-20|
-|49|[pola-rs/polars](https://github.com/pola-rs/polars)|Dataframes powered by a multithreaded, vectorized query engine, written in Rust|28144|18|2024-07-20|
-|50|[guywaldman/magic-cli](https://github.com/guywaldman/magic-cli)|Command line utility to make you a magician in the terminal|473|18|2024-07-20|
-|51|[face-hh/webx](https://github.com/face-hh/webx)|An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.|1707|18|2024-06-29|
-|52|[ratatui-org/ratatui](https://github.com/ratatui-org/ratatui)|Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀|8995|17|2024-07-20|
-|53|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|An open source payments switch written in Rust to make payments fast, reliable and affordable|11129|17|2024-07-20|
-|54|[nushell/nushell](https://github.com/nushell/nushell)|A new type of shell|31047|16|2024-07-20|
-|55|[BloopAI/bloop](https://github.com/BloopAI/bloop)|bloop is a fast code search engine written in Rust.|9328|16|2024-06-12|
-|56|[rust-lang/rustlings](https://github.com/rust-lang/rustlings)|:crab: Small exercises to get you used to reading and writing Rust code!|51429|16|2024-07-17|
-|57|[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)|Fullstack GUI library for web, desktop, mobile, and more.|19487|15|2024-07-20|
-|58|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|14838|15|2024-07-18|
-|59|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|46492|15|2024-07-17|
-|60|[dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)|Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs|35076|15|2024-07-20|
-|61|[jdx/mise](https://github.com/jdx/mise)|dev tools, env vars, task runner|8363|15|2024-07-20|
-|62|[tokio-rs/axum](https://github.com/tokio-rs/axum)|Ergonomic and modular web framework built with Tokio, Tower, and Hyper|17489|15|2024-07-19|
-|63|[jsr-io/jsr](https://github.com/jsr-io/jsr)|The open-source package registry for modern JavaScript and TypeScript|2207|15|2024-07-19|
-|64|[lapce/lapce](https://github.com/lapce/lapce)|Lightning-fast and Powerful Code Editor written in Rust|33879|14|2024-07-20|
-|65|[loco-rs/loco](https://github.com/loco-rs/loco)|🚂 🦀 The one-person framework for Rust for side-projects and startups|3650|14|2024-07-20|
-|66|[pythops/impala](https://github.com/pythops/impala)|🛜 TUI for managing wifi on Linux.|582|14|2024-07-09|
-|67|[zellij-org/zellij](https://github.com/zellij-org/zellij)|A terminal workspace with batteries included|19716|14|2024-07-19|
-|68|[atuinsh/atuin](https://github.com/atuinsh/atuin)|✨ Magical shell history|19107|14|2024-07-20|
+|1|[evilsocket/cake](https://github.com/evilsocket/cake)|Distributed LLM inference for mobile, desktop and server.|1978|132|2024-07-18|
+|2|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|🔮 ChatGPT Desktop Application (Mac, Windows and Linux)|51760|87|2024-07-15|
+|3|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package installer and resolver, written in Rust.|15276|52|2024-07-21|
+|4|[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)|A massively parallel, high-level programming language|16856|51|2024-07-19|
+|5|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.|68728|49|2024-07-21|
+|6|[FuelLabs/sway](https://github.com/FuelLabs/sway)|🌴 Empowering everyone to build reliable and efficient smart contracts.|62914|49|2024-07-21|
+|7|[bitwhip/bitwhip](https://github.com/bitwhip/bitwhip)|CLI Native WebRTC Agent in Rust|628|48|2024-07-11|
+|8|[cloudflare/pingora](https://github.com/cloudflare/pingora)|A library for building fast, reliable and evolvable network services.|20496|46|2024-07-18|
+|9|[FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs)|Fuel Network Rust SDK|44351|45|2024-07-19|
+|10|[tauri-apps/tauri](https://github.com/tauri-apps/tauri)|Build smaller, faster, and more secure desktop applications with a web frontend.|80015|44|2024-07-21|
+|11|[frectonz/sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]|1779|43|2024-07-15|
+|12|[denoland/deno](https://github.com/denoland/deno)|A modern runtime for JavaScript and TypeScript.|93496|41|2024-07-21|
+|13|[astral-sh/ruff](https://github.com/astral-sh/ruff)|An extremely fast Python linter and code formatter, written in Rust.|29199|41|2024-07-21|
+|14|[FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core)|Rust full node implementation of the Fuel v2 protocol.|58275|41|2024-07-21|
+|15|[postgresml/korvus](https://github.com/postgresml/korvus)|Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.|1114|40|2024-07-11|
+|16|[TabbyML/tabby](https://github.com/TabbyML/tabby)|Self-hosted AI coding assistant|19848|40|2024-07-21|
+|17|[tw93/Pake](https://github.com/tw93/Pake)|🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用|24852|38|2024-07-18|
+|18|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4607|37|2024-06-19|
+|19|[huggingface/candle](https://github.com/huggingface/candle)|Minimalist ML framework for Rust|14630|37|2024-07-21|
+|20|[biomejs/biome](https://github.com/biomejs/biome)|A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.|12883|36|2024-07-21|
+|21|[zed-industries/zed](https://github.com/zed-industries/zed)|Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.|42125|34|2024-07-21|
+|22|[sxyazi/yazi](https://github.com/sxyazi/yazi)|💥 Blazing fast terminal file manager written in Rust, based on async I/O.|12608|33|2024-07-21|
+|23|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4833|28|2024-07-01|
+|24|[astral-sh/rye](https://github.com/astral-sh/rye)|a Hassle-Free Python Experience|12777|28|2024-07-21|
+|25|[LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|7014|28|2024-07-21|
+|26|[surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)|A scalable, distributed, collaborative, document-graph database, for the realtime web|26290|28|2024-07-21|
+|27|[aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent)|The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.|508|27|2024-07-19|
+|28|[fathyb/carbonyl](https://github.com/fathyb/carbonyl)|Chromium running inside your terminal|14284|26|2024-07-01|
+|29|[eza-community/eza](https://github.com/eza-community/eza)|A modern, maintained replacement for ls|9139|25|2024-07-20|
+|30|[vercel/turbo](https://github.com/vercel/turbo)|Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.|25657|25|2024-07-21|
+|31|[rolldown/rolldown](https://github.com/rolldown/rolldown)|Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.|7432|24|2024-07-21|
+|32|[Speykious/cve-rs](https://github.com/Speykious/cve-rs)|Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀|3749|24|2024-07-11|
+|33|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte|11741|22|2024-07-21|
+|34|[starship/starship](https://github.com/starship/starship)|☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!|43239|22|2024-07-20|
+|35|[helix-editor/helix](https://github.com/helix-editor/helix)|A post-modern modal text editor.|31751|21|2024-07-21|
+|36|[bevyengine/bevy](https://github.com/bevyengine/bevy)|A refreshingly simple data-driven game engine built in Rust|34232|21|2024-07-21|
+|37|[leptos-rs/leptos](https://github.com/leptos-rs/leptos)|Build fast web applications with Rust.|15419|21|2024-07-21|
+|38|[getgrit/gritql](https://github.com/getgrit/gritql)|GritQL is a query language for searching, linting, and modifying code.|2806|21|2024-07-21|
+|39|[chroma-core/chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|13719|21|2024-07-20|
+|40|[sharkdp/bat](https://github.com/sharkdp/bat)|A cat(1) clone with wings.|47896|21|2024-07-18|
+|41|[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)|Blazingly fast LLM inference.|3021|21|2024-07-21|
+|42|[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)|A lightning-fast search API that fits effortlessly into your apps, websites, and workflow|45434|20|2024-07-21|
+|43|[GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)|Comfortably monitor your Internet traffic 🕵️‍♂️|14641|20|2024-07-20|
+|44|[vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks)| Wipe files and drives securely with random ASCII dicks |100|20|2024-07-19|
+|45|[openobserve/openobserve](https://github.com/openobserve/openobserve)|🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).|10341|19|2024-07-21|
+|46|[louis030195/screen-pipe](https://github.com/louis030195/screen-pipe)|Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.|594|18|2024-07-21|
+|47|[alacritty/alacritty](https://github.com/alacritty/alacritty)|A cross-platform, OpenGL terminal emulator.|54800|18|2024-07-21|
+|48|[rust-lang/rust](https://github.com/rust-lang/rust)|Empowering everyone to build reliable and efficient software.|95232|18|2024-07-21|
+|49|[pola-rs/polars](https://github.com/pola-rs/polars)|Dataframes powered by a multithreaded, vectorized query engine, written in Rust|28158|18|2024-07-21|
+|50|[guywaldman/magic-cli](https://github.com/guywaldman/magic-cli)|Command line utility to make you a magician in the terminal|500|18|2024-07-21|
+|51|[face-hh/webx](https://github.com/face-hh/webx)|An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.|1709|18|2024-06-29|
+|52|[ratatui-org/ratatui](https://github.com/ratatui-org/ratatui)|Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀|9011|17|2024-07-20|
+|53|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|An open source payments switch written in Rust to make payments fast, reliable and affordable|11135|17|2024-07-21|
+|54|[nushell/nushell](https://github.com/nushell/nushell)|A new type of shell|31048|16|2024-07-21|
+|55|[BloopAI/bloop](https://github.com/BloopAI/bloop)|bloop is a fast code search engine written in Rust.|9326|16|2024-06-12|
+|56|[rust-lang/rustlings](https://github.com/rust-lang/rustlings)|:crab: Small exercises to get you used to reading and writing Rust code!|51452|16|2024-07-20|
+|57|[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)|Fullstack GUI library for web, desktop, mobile, and more.|19494|15|2024-07-21|
+|58|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|14850|15|2024-07-18|
+|59|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|46509|15|2024-07-17|
+|60|[dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)|Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs|35086|15|2024-07-20|
+|61|[jdx/mise](https://github.com/jdx/mise)|dev tools, env vars, task runner|8368|15|2024-07-21|
+|62|[tokio-rs/axum](https://github.com/tokio-rs/axum)|Ergonomic and modular web framework built with Tokio, Tower, and Hyper|17504|15|2024-07-21|
+|63|[jsr-io/jsr](https://github.com/jsr-io/jsr)|The open-source package registry for modern JavaScript and TypeScript|2209|15|2024-07-19|
+|64|[lapce/lapce](https://github.com/lapce/lapce)|Lightning-fast and Powerful Code Editor written in Rust|33880|14|2024-07-21|
+|65|[loco-rs/loco](https://github.com/loco-rs/loco)|🚂 🦀 The one-person framework for Rust for side-projects and startups|3651|14|2024-07-21|
+|66|[pythops/impala](https://github.com/pythops/impala)|🛜 TUI for managing wifi on Linux.|585|14|2024-07-09|
+|67|[zellij-org/zellij](https://github.com/zellij-org/zellij)|A terminal workspace with batteries included|19731|14|2024-07-19|
+|68|[atuinsh/atuin](https://github.com/atuinsh/atuin)|✨ Magical shell history|19130|14|2024-07-21|
 |69|[quarylabs/quary](https://github.com/quarylabs/quary)|Open-source BI for engineers|2097|14|2024-07-15|
-|70|[LaihoE/SIMD-itertools](https://github.com/LaihoE/SIMD-itertools)|Faster implementations of standard library operations like find, filter, position etc.|147|13|2024-07-19|
-|71|[qdrant/qdrant](https://github.com/qdrant/qdrant)|Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/|18928|13|2024-07-20|
-|72|[swc-project/swc](https://github.com/swc-project/swc)|Rust-based platform for the Web|30621|13|2024-07-20|
-|73|[qarmin/czkawka](https://github.com/qarmin/czkawka)|Multi functional app to find duplicates, empty folders, similar images etc.|18529|13|2024-07-15|
-|74|[paradedb/paradedb](https://github.com/paradedb/paradedb)|Postgres for Search and Analytics|4884|13|2024-07-20|
-|75|[yassinebridi/serpl](https://github.com/yassinebridi/serpl)|A simple terminal UI for search and replace, ala VS Code.|410|13|2024-07-19|
-|76|[junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)|shader-like effects library for ratatui applications|579|13|2024-07-14|
-|77|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for creating reliable and efficient web applications|30294|13|2024-07-20|
-|78|[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)|A smarter cd command. Supports all major shells.|20598|13|2024-07-20|
-|79|[iced-rs/iced](https://github.com/iced-rs/iced)|A cross-platform GUI library for Rust, inspired by Elm|23493|13|2024-07-20|
+|70|[LaihoE/SIMD-itertools](https://github.com/LaihoE/SIMD-itertools)|Faster implementations of standard library operations like find, filter, position etc.|158|13|2024-07-21|
+|71|[qdrant/qdrant](https://github.com/qdrant/qdrant)|Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/|18935|13|2024-07-21|
+|72|[swc-project/swc](https://github.com/swc-project/swc)|Rust-based platform for the Web|30630|13|2024-07-21|
+|73|[qarmin/czkawka](https://github.com/qarmin/czkawka)|Multi functional app to find duplicates, empty folders, similar images etc.|18542|13|2024-07-15|
+|74|[paradedb/paradedb](https://github.com/paradedb/paradedb)|Postgres for Search and Analytics|4887|13|2024-07-21|
+|75|[yassinebridi/serpl](https://github.com/yassinebridi/serpl)|A simple terminal UI for search and replace, ala VS Code.|411|13|2024-07-19|
+|76|[junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)|shader-like effects library for ratatui applications|579|13|2024-07-21|
+|77|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for creating reliable and efficient web applications|30300|13|2024-07-20|
+|78|[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)|A smarter cd command. Supports all major shells.|20612|13|2024-07-20|
+|79|[iced-rs/iced](https://github.com/iced-rs/iced)|A cross-platform GUI library for Rust, inspired by Elm|23507|13|2024-07-21|
 |80|[rustformers/llm](https://github.com/rustformers/llm)|[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models|6063|12|2024-06-24|
 |81|[lapce/lapdev](https://github.com/lapce/lapdev)|Self-Hosted Remote Dev Environment|1432|12|2024-06-06|
-|82|[spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)|Space and Time   Proof of SQL|1002|12|2024-07-19|
-|83|[dandavison/delta](https://github.com/dandavison/delta)|A syntax-highlighting pager for git, diff, grep, and blame output|21457|12|2024-07-18|
-|84|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|32744|12|2024-07-17|
-|85|[seddonm1/sqlite-bench](https://github.com/seddonm1/sqlite-bench)|Code to accompany blog post https://reorchestrate.com/posts/sqlite-transactions|59|12|2024-07-18|
-|86|[ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho)|Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast|537|11|2024-07-17|
-|87|[extrawurst/gitui](https://github.com/extrawurst/gitui)|Blazing 💥 fast terminal-ui for git written in rust 🦀|17912|11|2024-07-19|
-|88|[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)|Multiplayer at the speed of light|4221|11|2024-07-19|
-|89|[crablang/crab](https://github.com/crablang/crab)|A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! |5111|11|2024-06-17|
-|90|[neondatabase/neon](https://github.com/neondatabase/neon)|Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.|13606|11|2024-07-20|
-|91|[tracel-ai/burn](https://github.com/tracel-ai/burn)|Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.|7909|11|2024-07-20|
-|92|[slint-ui/slint](https://github.com/slint-ui/slint)|Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.|16242|11|2024-07-19|
-|93|[PRQL/prql](https://github.com/PRQL/prql)|PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement|9654|11|2024-07-19|
-|94|[Wilfred/difftastic](https://github.com/Wilfred/difftastic)|a structural diff that understands syntax 🟥🟩|20097|10|2024-07-20|
-|95|[web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)|The fast Rust-based web bundler with webpack-compatible API 🦀️|8300|10|2024-07-20|
-|96|[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)|🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.|19660|10|2024-06-16|
-|97|[ekzhang/bore](https://github.com/ekzhang/bore)|🕳 bore is a simple CLI tool for making tunnels to localhost|8270|10|2024-07-13|
-|98|[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)|Secure and fast microVMs for serverless computing.|24661|10|2024-07-20|
-|99|[emilk/egui](https://github.com/emilk/egui)|egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native|20901|10|2024-07-19|
-|100|[memorysafety/river](https://github.com/memorysafety/river)|This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.|1519|9|2024-07-17|
-|101|[ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)|⚡A CLI tool for code structural search, lint and rewriting. Written in Rust|6566|9|2024-07-20|
-|102|[wasmerio/wasmer](https://github.com/wasmerio/wasmer)|🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten|18254|9|2024-07-19|
-|103|[Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests with plain text.|12338|9|2024-07-20|
+|82|[spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)|Space and Time   Proof of SQL|1018|12|2024-07-19|
+|83|[dandavison/delta](https://github.com/dandavison/delta)|A syntax-highlighting pager for git, diff, grep, and blame output|21460|12|2024-07-21|
+|84|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|32754|12|2024-07-17|
+|85|[extrawurst/gitui](https://github.com/extrawurst/gitui)|Blazing 💥 fast terminal-ui for git written in rust 🦀|17915|11|2024-07-21|
+|86|[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)|Multiplayer at the speed of light|4225|11|2024-07-20|
+|87|[crablang/crab](https://github.com/crablang/crab)|A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! |5112|11|2024-06-17|
+|88|[neondatabase/neon](https://github.com/neondatabase/neon)|Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.|13615|11|2024-07-21|
+|89|[tracel-ai/burn](https://github.com/tracel-ai/burn)|Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.|7920|11|2024-07-21|
+|90|[slint-ui/slint](https://github.com/slint-ui/slint)|Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.|16260|11|2024-07-19|
+|91|[PRQL/prql](https://github.com/PRQL/prql)|PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement|9660|11|2024-07-21|
+|92|[ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho)|Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast|540|10|2024-07-17|
+|93|[Wilfred/difftastic](https://github.com/Wilfred/difftastic)|a structural diff that understands syntax 🟥🟩|20105|10|2024-07-21|
+|94|[web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)|The fast Rust-based web bundler with webpack-compatible API 🦀️|8306|10|2024-07-21|
+|95|[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)|🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.|19662|10|2024-06-16|
+|96|[ekzhang/bore](https://github.com/ekzhang/bore)|🕳 bore is a simple CLI tool for making tunnels to localhost|8275|10|2024-07-13|
+|97|[seddonm1/sqlite-bench](https://github.com/seddonm1/sqlite-bench)|Code to accompany blog post https://reorchestrate.com/posts/sqlite-transactions|61|10|2024-07-18|
+|98|[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)|Secure and fast microVMs for serverless computing.|24670|10|2024-07-21|
+|99|[emilk/egui](https://github.com/emilk/egui)|egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native|20907|10|2024-07-21|
+|100|[memorysafety/river](https://github.com/memorysafety/river)|This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.|1523|9|2024-07-17|
+|101|[ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)|⚡A CLI tool for code structural search, lint and rewriting. Written in Rust|6570|9|2024-07-21|
+|102|[wasmerio/wasmer](https://github.com/wasmerio/wasmer)|🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten|18254|9|2024-07-21|
+|103|[Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests with plain text.|12344|9|2024-07-21|
 |104|[Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)|Spotify for the terminal written in Rust 🚀|17057|9|2024-04-04|
-|105|[RustScan/RustScan](https://github.com/RustScan/RustScan)|🤖 The Modern Port Scanner 🤖|13397|9|2024-07-18|
-|106|[diem/diem](https://github.com/diem/diem)|Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.|16708|9|2024-07-16|
-|107|[tokio-rs/tokio](https://github.com/tokio-rs/tokio)|A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...|25886|9|2024-07-19|
-|108|[mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)|A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.|1140|9|2024-07-08|
-|109|[ynqa/sig](https://github.com/ynqa/sig)|Interactive grep (for streaming)|535|9|2024-06-14|
-|110|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|20871|9|2024-07-17|
-|111|[flashbots/rbuilder](https://github.com/flashbots/rbuilder)|rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust|186|9|2024-07-19|
-|112|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|9007|9|2024-07-06|
-|113|[huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)|A blazing fast inference solution for text embeddings models|2319|8|2024-07-18|
-|114|[letmutex/htmd](https://github.com/letmutex/htmd)|A turndown.js inspired HTML to Markdown converter for Rust|279|8|2024-07-12|
+|105|[RustScan/RustScan](https://github.com/RustScan/RustScan)|🤖 The Modern Port Scanner 🤖|13400|9|2024-07-21|
+|106|[diem/diem](https://github.com/diem/diem)|Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.|16707|9|2024-07-16|
+|107|[tokio-rs/tokio](https://github.com/tokio-rs/tokio)|A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...|25893|9|2024-07-21|
+|108|[mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)|A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.|1158|9|2024-07-08|
+|109|[ynqa/sig](https://github.com/ynqa/sig)|Interactive grep (for streaming)|537|9|2024-06-14|
+|110|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|20878|9|2024-07-17|
+|111|[flashbots/rbuilder](https://github.com/flashbots/rbuilder)|rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust|187|9|2024-07-19|
+|112|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|9016|9|2024-07-06|
+|113|[huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)|A blazing fast inference solution for text embeddings models|2327|8|2024-07-18|
+|114|[letmutex/htmd](https://github.com/letmutex/htmd)|A turndown.js inspired HTML to Markdown converter for Rust|280|8|2024-07-12|
 |115|[AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)| Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions|3141|8|2024-07-17|
-|116|[shell-pool/shpool](https://github.com/shell-pool/shpool)|Think tmux, then aim... lower|1105|8|2024-07-19|
-|117|[launchbadge/sqlx](https://github.com/launchbadge/sqlx)|🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.|12508|8|2024-07-20|
-|118|[altsem/gitu](https://github.com/altsem/gitu)|A TUI Git client inspired by Magit|1675|8|2024-07-20|
-|119|[foundry-rs/foundry](https://github.com/foundry-rs/foundry)|Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.|7913|8|2024-07-20|
-|120|[MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy)|Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.|1365|8|2024-07-16|
-|121|[ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)|A Flash Player emulator written in Rust|15165|8|2024-07-20|
+|116|[shell-pool/shpool](https://github.com/shell-pool/shpool)|Think tmux, then aim... lower|1107|8|2024-07-19|
+|117|[launchbadge/sqlx](https://github.com/launchbadge/sqlx)|🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.|12515|8|2024-07-21|
+|118|[altsem/gitu](https://github.com/altsem/gitu)|A TUI Git client inspired by Magit|1676|8|2024-07-20|
+|119|[foundry-rs/foundry](https://github.com/foundry-rs/foundry)|Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.|7917|8|2024-07-21|
+|120|[MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy)|Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.|1367|8|2024-07-16|
+|121|[ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)|A Flash Player emulator written in Rust|15169|8|2024-07-21|
 |122|[lencx/nofwl](https://github.com/lencx/nofwl)|NoFWL Desktop Application|4251|8|2024-01-23|
-|123|[EvilGenius-dot/RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem)|🔥minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy min ...|3966|8|2024-06-05|
-|124|[vectordotdev/vector](https://github.com/vectordotdev/vector)|A high-performance observability data pipeline.|17068|8|2024-07-20|
-|125|[YaLTeR/niri](https://github.com/YaLTeR/niri)|A scrollable-tiling Wayland compositor.|2905|8|2024-07-18|
-|126|[RustPython/RustPython](https://github.com/RustPython/RustPython)|A Python Interpreter written in Rust|18091|8|2024-07-18|
-|127|[Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)|A simple API client (postman like) in your terminal|1339|8|2024-07-10|
-|128|[fuglede/llama.ttf](https://github.com/fuglede/llama.ttf)|A font for writing tiny stories|228|8|2024-06-26|
-|129|[rwf2/Rocket](https://github.com/rwf2/Rocket)|A web framework for Rust.|23874|8|2024-07-13|
-|130|[SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)|LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.|1859|8|2024-07-11|
-|131|[stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server)|Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)|3801|8|2024-07-20|
-|132|[evilsocket/nerve](https://github.com/evilsocket/nerve)|Instrument any LLM to do actual stuff.|364|8|2024-07-13|
-|133|[bensadeh/tailspin](https://github.com/bensadeh/tailspin)|🌀 A log file highlighter|5619|8|2024-07-15|
-|134|[Schniz/fnm](https://github.com/Schniz/fnm)|🚀 Fast and simple Node.js version manager, built in Rust|16669|8|2024-07-19|
-|135|[actix/actix-web](https://github.com/actix/actix-web)|Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.|20819|8|2024-07-20|
-|136|[cube-js/cube](https://github.com/cube-js/cube)|📊  Cube — The Semantic Layer for Building Data Applications|17544|8|2024-07-19|
-|137|[neovide/neovide](https://github.com/neovide/neovide)|No Nonsense Neovim Client in Rust|12401|7|2024-07-20|
-|138|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows 🍉|7887|7|2024-07-18|
-|139|[ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo)|Distributed stream processing engine in Rust|3478|7|2024-07-18|
-|140|[risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave)|SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.|6623|7|2024-07-19|
-|141|[postgresml/postgresml](https://github.com/postgresml/postgresml)|The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.|5769|7|2024-07-19|
-|142|[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)|Build & ship backends without writing any infrastructure files.|5810|7|2024-07-19|
-|143|[cloudflare/foundations](https://github.com/cloudflare/foundations)|Cloudflare's Rust service foundations library.|1219|7|2024-07-19|
-|144|[sigoden/dufs](https://github.com/sigoden/dufs)|A file server that supports static serving, uploading, searching, accessing control, webdav...|5484|7|2024-07-16|
-|145|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |8388|7|2024-07-19|
-|146|[supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp)|A Language Server for Postgres|3183|7|2024-07-20|
-|147|[rerun-io/rerun](https://github.com/rerun-io/rerun)|Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.|5795|7|2024-07-20|
-|148|[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)|Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.|1817|7|2024-07-17|
-|149|[xi-editor/xi-editor](https://github.com/xi-editor/xi-editor)|A modern editor with a backend written in Rust.|19817|7|2024-03-19|
-|150|[gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)|Generate music based on natural language prompts using LLMs running locally|520|7|2024-06-14|
-|151|[aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)|Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.|5940|7|2024-07-20|
-|152|[sigoden/aichat](https://github.com/sigoden/aichat)|AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.|3413|7|2024-07-18|
-|153|[LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)|🐀 A link aggregator and forum for the fediverse|12983|7|2024-07-19|
-|154|[borgo-lang/borgo](https://github.com/borgo-lang/borgo)|Borgo is a statically typed language that compiles to Go.|3583|7|2024-07-03|
-|155|[influxdata/influxdb](https://github.com/influxdata/influxdb)|Scalable datastore for metrics, events, and real-time analytics|28281|7|2024-07-19|
-|156|[benfred/py-spy](https://github.com/benfred/py-spy)|Sampling profiler for Python programs|12215|6|2024-07-14|
-|157|[extism/extism](https://github.com/extism/extism)|The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.|4015|6|2024-07-19|
-|158|[robertpsoane/ducker](https://github.com/robertpsoane/ducker)|A slightly quackers Docker TUI based on k9s 🦆|205|6|2024-07-17|
-|159|[gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine)|A web browser in the making. More info at https://gosub.io|2083|6|2024-07-20|
-|160|[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)|Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.|7378|6|2024-07-19|
-|161|[servo/servo](https://github.com/servo/servo)|Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine|26892|6|2024-07-20|
-|162|[microsoft/aici](https://github.com/microsoft/aici)|AICI: Prompts as (Wasm) Programs|1865|6|2024-07-19|
-|163|[tembo-io/pgmq](https://github.com/tembo-io/pgmq)|A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.|2283|6|2024-07-19|
-|164|[misprit7/computerraria](https://github.com/misprit7/computerraria)|A fully compliant RISC-V computer made inside the game Terraria|3331|6|2024-07-19|
-|165|[wez/wezterm](https://github.com/wez/wezterm)|A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust|15064|6|2024-07-19|
-|166|[AmbientRun/Ambient](https://github.com/AmbientRun/Ambient)|The multiplayer game engine|3757|6|2024-06-12|
-|167|[casey/just](https://github.com/casey/just)|🤖 Just a command runner|18796|6|2024-07-20|
-|168|[bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)|A fast and secure runtime for WebAssembly|14878|6|2024-07-20|
-|169|[Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)|This repository contains my complete resources and coding practices for malware development using Rust 🦀. |957|6|2024-07-19|
-|170|[microsoft/windows-rs](https://github.com/microsoft/windows-rs)|Rust for Windows|10135|6|2024-07-18|
-|171|[gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)|Video stabilization using gyroscope data|6387|6|2024-07-20|
-|172|[matter-labs/zksync-era](https://github.com/matter-labs/zksync-era)|zkSync era|3077|6|2024-07-19|
-|173|[awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3)|A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.|4271|6|2024-07-18|
-|174|[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)|The user-friendly command line shell.|25186|6|2024-07-20|
-|175|[Bohr1005/xcrypto](https://github.com/Bohr1005/xcrypto)|quant,trading system,crypto,async|244|6|2024-07-01|
-|176|[flxzt/rnote](https://github.com/flxzt/rnote)|Sketch and take handwritten notes.|6504|6|2024-07-19|
-|177|[kitao/pyxel](https://github.com/kitao/pyxel)|A retro game engine for Python|14200|6|2024-07-17|
-|178|[parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)|An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.|6174|6|2024-07-16|
-|179|[gleam-lang/gleam](https://github.com/gleam-lang/gleam)|⭐️ A friendly language for building type-safe, scalable systems!|16727|6|2024-07-20|
-|180|[ogham/exa](https://github.com/ogham/exa)|A modern replacement for ‘ls’.|23435|6|2024-05-24|
-|181|[facebook/relay](https://github.com/facebook/relay)|Relay is a JavaScript framework for building data-driven React applications.|18289|6|2024-07-20|
-|182|[farm-fe/farm](https://github.com/farm-fe/farm)|Extremely fast Vite-compatible web build tool written in Rust|4559|6|2024-07-20|
-|183|[lsd-rs/lsd](https://github.com/lsd-rs/lsd)|The next gen ls command|12874|6|2024-07-17|
-|184|[MystenLabs/sui](https://github.com/MystenLabs/sui)| Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language|5911|6|2024-07-20|
-|185|[massalabs/massa](https://github.com/massalabs/massa)|The Decentralized and Scaled Blockchain|5577|6|2024-07-18|
-|186|[OwshenNetwork/owshen](https://github.com/OwshenNetwork/owshen)|The Deep Sea|2042|6|2024-06-22|
-|187|[rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)|A Rust compiler front-end for IDEs|13860|6|2024-07-20|
-|188|[martinvonz/jj](https://github.com/martinvonz/jj)|A Git-compatible VCS that is both simple and powerful|7544|6|2024-07-20|
-|189|[elkowar/eww](https://github.com/elkowar/eww)|ElKowars wacky widgets|8844|6|2024-07-17|
-|190|[ekzhang/sshx](https://github.com/ekzhang/sshx)|Fast, collaborative live terminal sharing over the web|5632|6|2024-05-05|
-|191|[get-convex/convex-backend](https://github.com/get-convex/convex-backend)|Open source single-machine version of the Convex backend|828|6|2024-07-19|
-|192|[tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner)|ORE Miner built on top of Jito bundle with both CPU and GPU support.|457|5|2024-04-16|
-|193|[paradigmxyz/artemis](https://github.com/paradigmxyz/artemis)|A simple, modular, and fast framework for writing MEV bots in Rust.|2183|5|2024-03-05|
-|194|[ClementTsang/bottom](https://github.com/ClementTsang/bottom)|Yet another cross-platform graphical process/system monitor.|9444|5|2024-07-20|
-|195|[jpochyla/psst](https://github.com/jpochyla/psst)|Fast and multi-platform Spotify client with native GUI|8299|5|2024-07-18|
-|196|[datafuselabs/databend](https://github.com/datafuselabs/databend)|𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com|7514|5|2024-07-20|
-|197|[stacks-network/sbtc-developer-release](https://github.com/stacks-network/sbtc-developer-release)|sBTC primitives, signer components, helper tools|1981|5|2024-02-14|
-|198|[linebender/xilem](https://github.com/linebender/xilem)|An experimental Rust native UI framework|3228|5|2024-07-20|
-|199|[tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)|Multi-platform high-performance compute language extension for Rust.|202|5|2024-07-19|
-|200|[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)|2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.|7415|5|2024-07-20|
+|123|[EvilGenius-dot/RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem)|🔥minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy min ...|3981|8|2024-06-05|
+|124|[vectordotdev/vector](https://github.com/vectordotdev/vector)|A high-performance observability data pipeline.|17072|8|2024-07-20|
+|125|[YaLTeR/niri](https://github.com/YaLTeR/niri)|A scrollable-tiling Wayland compositor.|2907|8|2024-07-18|
+|126|[RustPython/RustPython](https://github.com/RustPython/RustPython)|A Python Interpreter written in Rust|18096|8|2024-07-18|
+|127|[Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)|A simple API client (postman like) in your terminal|1341|8|2024-07-10|
+|128|[rwf2/Rocket](https://github.com/rwf2/Rocket)|A web framework for Rust.|23882|8|2024-07-13|
+|129|[SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)|LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.|1862|8|2024-07-11|
+|130|[stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server)|Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)|3808|8|2024-07-20|
+|131|[evilsocket/nerve](https://github.com/evilsocket/nerve)|Instrument any LLM to do actual stuff.|366|8|2024-07-13|
+|132|[Schniz/fnm](https://github.com/Schniz/fnm)|🚀 Fast and simple Node.js version manager, built in Rust|16685|8|2024-07-21|
+|133|[actix/actix-web](https://github.com/actix/actix-web)|Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.|20833|8|2024-07-21|
+|134|[cube-js/cube](https://github.com/cube-js/cube)|📊  Cube — The Semantic Layer for Building Data Applications|17546|8|2024-07-21|
+|135|[neovide/neovide](https://github.com/neovide/neovide)|No Nonsense Neovim Client in Rust|12400|7|2024-07-21|
+|136|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows 🍉|7897|7|2024-07-21|
+|137|[ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo)|Distributed stream processing engine in Rust|3477|7|2024-07-18|
+|138|[tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)|Multi-platform high-performance compute language extension for Rust.|247|7|2024-07-21|
+|139|[risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave)|SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.|6625|7|2024-07-21|
+|140|[postgresml/postgresml](https://github.com/postgresml/postgresml)|The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.|5770|7|2024-07-19|
+|141|[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)|Build & ship backends without writing any infrastructure files.|5811|7|2024-07-19|
+|142|[cloudflare/foundations](https://github.com/cloudflare/foundations)|Cloudflare's Rust service foundations library.|1219|7|2024-07-21|
+|143|[sigoden/dufs](https://github.com/sigoden/dufs)|A file server that supports static serving, uploading, searching, accessing control, webdav...|5490|7|2024-07-21|
+|144|[orhun/git-cliff](https://github.com/orhun/git-cliff)|A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |8390|7|2024-07-21|
+|145|[supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp)|A Language Server for Postgres|3182|7|2024-07-21|
+|146|[rerun-io/rerun](https://github.com/rerun-io/rerun)|Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.|5801|7|2024-07-21|
+|147|[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)|Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.|1822|7|2024-07-17|
+|148|[xi-editor/xi-editor](https://github.com/xi-editor/xi-editor)|A modern editor with a backend written in Rust.|19817|7|2024-03-19|
+|149|[gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)|Generate music based on natural language prompts using LLMs running locally|520|7|2024-06-14|
+|150|[aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)|Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.|5959|7|2024-07-21|
+|151|[sigoden/aichat](https://github.com/sigoden/aichat)|AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.|3419|7|2024-07-21|
+|152|[fuglede/llama.ttf](https://github.com/fuglede/llama.ttf)|A font for writing tiny stories|229|7|2024-06-26|
+|153|[LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)|🐀 A link aggregator and forum for the fediverse|12984|7|2024-07-21|
+|154|[borgo-lang/borgo](https://github.com/borgo-lang/borgo)|Borgo is a statically typed language that compiles to Go.|3584|7|2024-07-03|
+|155|[influxdata/influxdb](https://github.com/influxdata/influxdb)|Scalable datastore for metrics, events, and real-time analytics|28286|7|2024-07-19|
+|156|[bensadeh/tailspin](https://github.com/bensadeh/tailspin)|🌀 A log file highlighter|5624|7|2024-07-15|
+|157|[benfred/py-spy](https://github.com/benfred/py-spy)|Sampling profiler for Python programs|12217|6|2024-07-14|
+|158|[extism/extism](https://github.com/extism/extism)|The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.|4017|6|2024-07-21|
+|159|[robertpsoane/ducker](https://github.com/robertpsoane/ducker)|A slightly quackers Docker TUI based on k9s 🦆|206|6|2024-07-17|
+|160|[gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine)|A web browser in the making. More info at https://gosub.io|2083|6|2024-07-21|
+|161|[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)|Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.|7389|6|2024-07-19|
+|162|[servo/servo](https://github.com/servo/servo)|Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine|26903|6|2024-07-21|
+|163|[microsoft/aici](https://github.com/microsoft/aici)|AICI: Prompts as (Wasm) Programs|1865|6|2024-07-19|
+|164|[tembo-io/pgmq](https://github.com/tembo-io/pgmq)|A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.|2290|6|2024-07-21|
+|165|[misprit7/computerraria](https://github.com/misprit7/computerraria)|A fully compliant RISC-V computer made inside the game Terraria|3331|6|2024-07-19|
+|166|[wez/wezterm](https://github.com/wez/wezterm)|A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust|15072|6|2024-07-21|
+|167|[AmbientRun/Ambient](https://github.com/AmbientRun/Ambient)|The multiplayer game engine|3760|6|2024-06-12|
+|168|[casey/just](https://github.com/casey/just)|🤖 Just a command runner|18816|6|2024-07-20|
+|169|[bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)|A fast and secure runtime for WebAssembly|14883|6|2024-07-20|
+|170|[Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)|This repository contains my complete resources and coding practices for malware development using Rust 🦀. |957|6|2024-07-19|
+|171|[microsoft/windows-rs](https://github.com/microsoft/windows-rs)|Rust for Windows|10137|6|2024-07-18|
+|172|[gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)|Video stabilization using gyroscope data|6390|6|2024-07-20|
+|173|[matter-labs/zksync-era](https://github.com/matter-labs/zksync-era)|zkSync era|3073|6|2024-07-21|
+|174|[awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3)|A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.|4273|6|2024-07-21|
+|175|[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)|The user-friendly command line shell.|25192|6|2024-07-21|
+|176|[Bohr1005/xcrypto](https://github.com/Bohr1005/xcrypto)|quant,trading system,crypto,async|244|6|2024-07-21|
+|177|[flxzt/rnote](https://github.com/flxzt/rnote)|Sketch and take handwritten notes.|6508|6|2024-07-21|
+|178|[kitao/pyxel](https://github.com/kitao/pyxel)|A retro game engine for Python|14209|6|2024-07-17|
+|179|[parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)|An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.|6178|6|2024-07-16|
+|180|[gleam-lang/gleam](https://github.com/gleam-lang/gleam)|⭐️ A friendly language for building type-safe, scalable systems!|16738|6|2024-07-21|
+|181|[ogham/exa](https://github.com/ogham/exa)|A modern replacement for ‘ls’.|23439|6|2024-05-24|
+|182|[facebook/relay](https://github.com/facebook/relay)|Relay is a JavaScript framework for building data-driven React applications.|18289|6|2024-07-20|
+|183|[farm-fe/farm](https://github.com/farm-fe/farm)|Extremely fast Vite-compatible web build tool written in Rust|4565|6|2024-07-21|
+|184|[lsd-rs/lsd](https://github.com/lsd-rs/lsd)|The next gen ls command|12883|6|2024-07-17|
+|185|[MystenLabs/sui](https://github.com/MystenLabs/sui)| Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language|5911|6|2024-07-21|
+|186|[massalabs/massa](https://github.com/massalabs/massa)|The Decentralized and Scaled Blockchain|5577|6|2024-07-18|
+|187|[OwshenNetwork/owshen](https://github.com/OwshenNetwork/owshen)|The Deep Sea|2042|6|2024-06-22|
+|188|[rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)|A Rust compiler front-end for IDEs|13868|6|2024-07-21|
+|189|[martinvonz/jj](https://github.com/martinvonz/jj)|A Git-compatible VCS that is both simple and powerful|7551|6|2024-07-21|
+|190|[elkowar/eww](https://github.com/elkowar/eww)|ElKowars wacky widgets|8853|6|2024-07-17|
+|191|[ekzhang/sshx](https://github.com/ekzhang/sshx)|Fast, collaborative live terminal sharing over the web|5633|6|2024-05-05|
+|192|[get-convex/convex-backend](https://github.com/get-convex/convex-backend)|Open source single-machine version of the Convex backend|835|6|2024-07-19|
+|193|[tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner)|ORE Miner built on top of Jito bundle with both CPU and GPU support.|457|5|2024-04-16|
+|194|[paradigmxyz/artemis](https://github.com/paradigmxyz/artemis)|A simple, modular, and fast framework for writing MEV bots in Rust.|2185|5|2024-03-05|
+|195|[ClementTsang/bottom](https://github.com/ClementTsang/bottom)|Yet another cross-platform graphical process/system monitor.|9443|5|2024-07-21|
+|196|[jpochyla/psst](https://github.com/jpochyla/psst)|Fast and multi-platform Spotify client with native GUI|8299|5|2024-07-21|
+|197|[datafuselabs/databend](https://github.com/datafuselabs/databend)|𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com|7516|5|2024-07-21|
+|198|[stacks-network/sbtc-developer-release](https://github.com/stacks-network/sbtc-developer-release)|sBTC primitives, signer components, helper tools|1981|5|2024-02-14|
+|199|[linebender/xilem](https://github.com/linebender/xilem)|An experimental Rust native UI framework|3231|5|2024-07-21|
+|200|[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)|2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.|7419|5|2024-07-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
