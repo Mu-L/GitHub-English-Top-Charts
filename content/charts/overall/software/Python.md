@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Python
-<sub>Updated: 2024-07-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|164893|2024-07-21|
-|2|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|136384|2024-07-20|
-|3|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|130113|2024-07-21|
-|4|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|129578|2024-07-21|
-|5|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|🦜🔗 Build context-aware reasoning applications|89504|2024-07-21|
-|6|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|83816|2024-07-19|
-|7|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|78119|2024-07-21|
-|8|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A feature-rich command-line audio/video downloader|77354|2024-07-21|
-|9|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|73731|2024-07-21|
-|10|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|70027|2024-07-21|
-|11|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|67121|2024-07-19|
-|12|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|64891|2024-07-15|
-|13|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|62353|2024-07-21|
-|14|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|61873|2024-07-21|
-|15|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|61352|2024-07-21|
-|16|[python/cpython](https://github.com/python/cpython)|The Python programming language|61237|2024-07-21|
-|17|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|60849|2024-06-24|
-|18|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|58973|2024-07-21|
-|19|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|54962|2024-07-16|
-|20|[meta-llama/llama](https://github.com/meta-llama/llama)|Inference code for Llama models|54310|2024-07-19|
-|21|[localstack/localstack](https://github.com/localstack/localstack)|💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline|53098|2024-07-20|
-|22|[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)|Interact with your documents using the power of GPT, 100% privately, no data leaks|53049|2024-07-18|
-|23|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|Hunt down social media accounts by username across social networks|52849|2024-07-11|
-|24|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|52470|2024-06-18|
-|25|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|51795|2024-07-20|
-|26|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|51778|2024-07-21|
-|27|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|51633|2024-07-05|
-|28|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|51458|2024-07-20|
-|29|[OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)|A natural language interface for computers|50988|2024-07-19|
-|30|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|49936|2024-07-13|
-|31|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|49633|2024-07-14|
-|32|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|49187|2024-05-29|
-|33|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.|48755|2024-07-21|
-|34|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|48708|2024-07-18|
-|35|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|48313|2024-07-15|
-|36|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|43628|2024-06-25|
-|37|[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.|42791|2024-07-21|
-|38|[pandas-dev/pandas](https://github.com/pandas-dev/pandas)|Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more|42764|2024-07-21|
-|39|[geekan/MetaGPT](https://github.com/geekan/MetaGPT)|🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming|41787|2024-07-19|
-|40|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|41136|2024-07-20|
-|41|[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model   开源双语对话语言模型|40075|2024-06-27|
-|42|[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)|Focus on prompting and generating|38592|2024-07-21|
-|43|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)|A Gradio web UI for Large Language Models.|38543|2024-07-21|
-|44|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Making large AI models cheaper, faster and more accessible|38385|2024-07-21|
-|45|[psf/black](https://github.com/psf/black)|The uncompromising Python code formatter|37974|2024-07-15|
-|46|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|37718|2024-06-16|
-|47|[getsentry/sentry](https://github.com/getsentry/sentry)|Developer-first error tracking and performance monitoring|37650|2024-07-21|
-|48|[google-research/bert](https://github.com/google-research/bert)|TensorFlow code and pre-trained models for BERT|37525|2024-07-20|
-|49|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|36851|2024-05-07|
-|50|[odoo/odoo](https://github.com/odoo/odoo)|Odoo. Open Source Apps To Grow Your Business.|36392|2024-07-21|
-|51|[lm-sys/FastChat](https://github.com/lm-sys/FastChat)|An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.|35825|2024-07-18|
-|52|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|35708|2024-07-21|
-|53|[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)|Official Code for DragGAN (SIGGRAPH 2023)|35604|2024-05-18|
-|54|[apache/airflow](https://github.com/apache/airflow)|Apache Airflow - A platform to programmatically author, schedule, and monitor workflows|35569|2024-07-21|
-|55|[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.|35338|2024-07-18|
-|56|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)|The simplest, fastest repository for training/finetuning medium-sized GPTs.|34962|2024-07-19|
-|57|[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)|Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, ...|34273|2024-07-20|
-|58|[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)|DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.|33941|2024-07-21|
-|59|[run-llama/llama_index](https://github.com/run-llama/llama_index)|LlamaIndex is a data framework for your LLM applications|33793|2024-07-21|
-|60|[shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)|-|33536|2024-04-01|
-|61|[streamlit/streamlit](https://github.com/streamlit/streamlit)|Streamlit — A faster way to build and share data apps.|33477|2024-07-21|
-|62|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|33106|2024-07-13|
-|63|[httpie/cli](https://github.com/httpie/cli)|🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.|32895|2024-07-10|
-|64|[fxsjy/jieba](https://github.com/fxsjy/jieba)|结巴中文分词|32844|2024-03-18|
-|65|[ray-project/ray](https://github.com/ray-project/ray)|Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.|32171|2024-07-21|
-|66|[coqui-ai/TTS](https://github.com/coqui-ai/TTS)|🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production|32130|2024-07-08|
-|67|[ccxt/ccxt](https://github.com/ccxt/ccxt)|A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges|32065|2024-07-21|
-|68|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|31395|2024-07-18|
-|69|[certbot/certbot](https://github.com/certbot/certbot)|Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.|31160|2024-07-18|
-|70|[gradio-app/gradio](https://github.com/gradio-app/gradio)|Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!|31099|2024-07-21|
-|71|[python-poetry/poetry](https://github.com/python-poetry/poetry)|Python packaging and dependency management made easy|30525|2024-07-21|
-|72|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|29502|2024-07-21|
-|73|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.|29477|2024-07-20|
-|74|[explosion/spaCy](https://github.com/explosion/spaCy)|💫 Industrial-strength Natural Language Processing (NLP) in Python|29335|2024-07-12|
-|75|[google/jax](https://github.com/google/jax)|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|29238|2024-07-21|
-|76|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)|Code and documentation to train Stanford's Alpaca models, and generate the data.|29184|2024-07-17|
-|77|[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)|The first real AI developer|29167|2024-07-18|
-|78|[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)|Let us control diffusion models!|29142|2024-02-25|
-|79|[OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)|🐚 OpenDevin: Code Less, Make More|28798|2024-07-21|
-|80|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|28657|2024-07-12|
-|81|[2noise/ChatTTS](https://github.com/2noise/ChatTTS)|A generative speech model for daily dialogue.|28018|2024-07-21|
-|82|[tqdm/tqdm](https://github.com/tqdm/tqdm)|:zap: A Fast, Extensible Progress Bar for Python and CLI|28007|2024-07-14|
-|83|[encode/django-rest-framework](https://github.com/encode/django-rest-framework)|Web APIs for Django. 🎸|27907|2024-07-20|
-|84|[Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)|Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.|27561|2024-07-21|
-|85|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|27389|2024-07-06|
-|86|[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)|27290|2024-07-21|
-|87|[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)|The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.|27195|2024-07-21|
-|88|[numpy/numpy](https://github.com/numpy/numpy)|The fundamental package for scientific computing with Python.|27169|2024-07-21|
-|89|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|27105|2024-07-17|
-|90|[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|Investment Research for Everyone, Everywhere.|26760|2024-07-21|
-|91|[google/python-fire](https://github.com/google/python-fire)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|26628|2024-07-15|
-|92|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot|26608|2024-07-20|
-|93|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite|26415|2024-07-21|
-|94|[StevenBlack/hosts](https://github.com/StevenBlack/hosts)|🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.|26197|2024-07-21|
-|95|[nicolargo/glances](https://github.com/nicolargo/glances)|Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.|25838|2024-07-21|
-|96|[s0md3v/roop](https://github.com/s0md3v/roop)|one-click face swap|25767|2024-07-05|
-|97|[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)|The platform for building AI from enterprise data|25667|2024-07-19|
-|98|[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)|We have made you a wrapper you can't refuse|25448|2024-07-20|
-|99|[spipm/Depix](https://github.com/spipm/Depix)|Recovers passwords from pixelized screenshots|25431|2024-07-14|
-|100|[ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)|A code-completion engine for Vim|25377|2024-07-09|
-|101|[deezer/spleeter](https://github.com/deezer/spleeter)|Deezer source separation library including pretrained models.|25339|2024-06-21|
-|102|[tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)|You like pytorch? You like micrograd? You love tinygrad! ❤️ |25213|2024-07-21|
-|103|[microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)|This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.|25190|2024-07-06|
-|104|[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)|25173|2024-04-22|
-|105|[pypa/pipenv](https://github.com/pypa/pipenv)| Python Development Workflow for Humans.|24742|2024-07-20|
-|106|[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。|24692|2024-07-19|
-|107|[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)|Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...|24429|2024-05-15|
-|108|[matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)|Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow|24424|2024-06-07|
-|109|[Textualize/textual](https://github.com/Textualize/textual)|The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.|24332|2024-07-21|
-|110|[locustio/locust](https://github.com/locustio/locust)|Write scalable load tests in plain Python 🚗💨|24258|2024-07-21|
-|111|[huggingface/diffusers](https://github.com/huggingface/diffusers)|🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.|24190|2024-07-21|
-|112|[chubin/wttr.in](https://github.com/chubin/wttr.in)|:partly_sunny: The right way to check the weather|24124|2024-07-02|
-|113|[celery/celery](https://github.com/celery/celery)|Distributed Task Queue (development branch)|24117|2024-07-21|
-|114|[vnpy/vnpy](https://github.com/vnpy/vnpy)|基于Python的开源量化交易平台开发框架|24054|2024-07-18|
-|115|[hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。|23441|2024-07-19|
-|116|[meta-llama/llama3](https://github.com/meta-llama/llama3)|The official Meta Llama 3 GitHub site|23418|2024-07-17|
-|117|[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)|Generative Models by Stability AI|23395|2024-07-09|
-|118|[microsoft/JARVIS](https://github.com/microsoft/JARVIS)|JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf|23394|2024-04-24|
-|119|[vllm-project/vllm](https://github.com/vllm-project/vllm)|A high-throughput and memory-efficient inference and serving engine for LLMs|23282|2024-07-21|
-|120|[taosdata/TDengine](https://github.com/taosdata/TDengine)|TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.|23076|2024-07-21|
-|121|[JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)|Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|22956|2024-07-20|
-|122|[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)|Cross-platform, fast, feature-rich, GPU based terminal|22891|2024-07-21|
-|123|[junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|Image-to-Image Translation in PyTorch|22470|2024-05-14|
-|124|[HumanSignal/labelImg](https://github.com/HumanSignal/labelImg)|LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat ...|22238|2024-06-07|
-|125|[deepinsight/insightface](https://github.com/deepinsight/insightface)|State-of-the-art 2D and 3D Face Analysis Project|22087|2024-07-21|
-|126|[cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)|A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.|22035|2024-07-19|
-|127|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|21919|2024-07-21|
-|128|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|21847|2024-07-08|
-|129|[tornadoweb/tornado](https://github.com/tornadoweb/tornado)|Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.|21624|2024-07-15|
-|130|[openai/openai-python](https://github.com/openai/openai-python)|The official Python library for the OpenAI API|21273|2024-07-20|
-|131|[RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Easily train a good VC model with voice data <= 10 mins!|21243|2024-07-18|
-|132|[KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)|:cake: Desktop utility to download images/videos/music/text from various websites, and more.|21094|2024-04-05|
-|133|[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.|20980|2024-07-04|
-|134|[plotly/dash](https://github.com/plotly/dash)|Data Apps & Dashboards for Python. No JavaScript Required.|20926|2024-07-17|
-|135|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|Open-Sora: Democratizing Efficient Video Production for All|20803|2024-07-16|
-|136|[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)|Graph Neural Network Library for PyTorch|20650|2024-07-21|
-|137|[jina-ai/jina](https://github.com/jina-ai/jina)|☁️ Build multimodal AI applications with cloud-native stack|20626|2024-07-19|
-|138|[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)|Turn (almost) any Python command line program into a full GUI application with one line|20504|2024-02-21|
-|139|[zulip/zulip](https://github.com/zulip/zulip)|Zulip server and web application. Open-source team chat that helps teams stay productive and focused.|20408|2024-07-21|
-|140|[saleor/saleor](https://github.com/saleor/saleor)|Saleor Core: the high performance, composable, headless commerce API.|20378|2024-07-21|
-|141|[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)|Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu ...|20262|2024-07-18|
-|142|[ManimCommunity/manim](https://github.com/ManimCommunity/manim)|A community-maintained Python framework for creating mathematical animations. |20128|2024-07-21|
-|143|[ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)|Google Chromium, sans integration with Google|19818|2024-07-18|
-|144|[pydantic/pydantic](https://github.com/pydantic/pydantic)|Data validation using Python type hints|19790|2024-07-19|
-|145|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)|-|19730|2024-05-13|
-|146|[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)|matplotlib: plotting with Python|19711|2024-07-21|
-|147|[PostHog/posthog](https://github.com/PostHog/posthog)|🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.|19672|2024-07-20|
-|148|[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)|Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |19648|2024-06-28|
-|149|[kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)|Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.|19550|2024-07-14|
-|150|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.|19520|2024-07-21|
-|151|[karpathy/minGPT](https://github.com/karpathy/minGPT)|A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training|19493|2024-04-28|
-|152|[microsoft/unilm](https://github.com/microsoft/unilm)|Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities|19214|2024-07-15|
-|153|[bokeh/bokeh](https://github.com/bokeh/bokeh)|Interactive Data Visualization in the browser, from  Python|19073|2024-07-21|
-|154|[magenta/magenta](https://github.com/magenta/magenta)|Magenta: Music and Art Generation with Machine Intelligence|19029|2024-06-11|
-|155|[lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)|Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch|18947|2024-07-20|
-|156|[Delgan/loguru](https://github.com/Delgan/loguru)|Python logging made (stupidly) simple|18929|2024-07-20|
-|157|[huggingface/datasets](https://github.com/huggingface/datasets)|🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools|18781|2024-07-19|
-|158|[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)|Project documentation with Markdown.|18746|2024-07-21|
-|159|[recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)|Best Practices on Recommendation Systems|18491|2024-07-18|
-|160|[magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)|get things from one computer to another, safely|18464|2024-06-17|
-|161|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)|[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.|18274|2024-07-14|
-|162|[nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)|Automated nginx proxy for Docker containers using docker-gen|18260|2024-07-15|
-|163|[Sanster/IOPaint](https://github.com/Sanster/IOPaint)|Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.|18257|2024-06-27|
-|164|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A community-supported supercharged version of paperless: scan, index and archive all your physical documents|18229|2024-07-21|
-|165|[reflex-dev/reflex](https://github.com/reflex-dev/reflex)|🕸️ Web apps in pure Python 🐍|18102|2024-07-21|
-|166|[facebook/prophet](https://github.com/facebook/prophet)|Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.|18076|2024-07-13|
-|167|[roboflow/supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|18068|2024-07-20|
-|168|[mlflow/mlflow](https://github.com/mlflow/mlflow)|Open source platform for the machine learning lifecycle|17980|2024-07-21|
-|169|[stitionai/devika](https://github.com/stitionai/devika)|Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D ...|17969|2024-07-04|
-|170|[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)|17948|2024-04-30|
-|171|[python/mypy](https://github.com/python/mypy)|Optional static typing for Python|17935|2024-07-21|
-|172|[sanic-org/sanic](https://github.com/sanic-org/sanic)| Accelerate your web app development    Build fast. Run fast.|17906|2024-07-07|
-|173|[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)|Universal LLM Deployment Engine with ML Compilation|17857|2024-07-21|
-|174|[frappe/erpnext](https://github.com/frappe/erpnext)|Free and Open Source Enterprise Resource Planning (ERP)|17774|2024-07-21|
-|175|[wagtail/wagtail](https://github.com/wagtail/wagtail)|A Django content management system focused on flexibility and user experience|17646|2024-07-20|
-|176|[spotify/luigi](https://github.com/spotify/luigi)|Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. |17569|2024-07-21|
-|177|[Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)|⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡|17528|2024-03-26|
-|178|[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|17483|2024-07-21|
-|179|[joke2k/faker](https://github.com/joke2k/faker)|Faker is a Python package that generates fake data for you.|17388|2024-07-12|
-|180|[kivy/kivy](https://github.com/kivy/kivy)|Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS|17362|2024-07-21|
-|181|[rsms/inter](https://github.com/rsms/inter)|The Inter font family|17334|2024-07-03|
-|182|[onnx/onnx](https://github.com/onnx/onnx)|Open standard for machine learning interoperability|17322|2024-07-21|
-|183|[quantopian/zipline](https://github.com/quantopian/zipline)|Zipline, a Pythonic Algorithmic Trading Library|17316|2024-02-13|
-|184|[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)| GUI for a Vocal Remover that uses Deep Neural Networks.|16725|2024-05-23|
-|185|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|16712|2024-07-21|
-|186|[InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)|📷 Instagram Bot - Tool for automated Instagram interactions|16571|2024-05-11|
-|187|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|16537|2024-07-15|
-|188|[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)|Stable Diffusion with Core ML on Apple Silicon|16500|2024-07-19|
-|189|[binux/pyspider](https://github.com/binux/pyspider)|A Powerful Spider(Web Crawler) System in Python.|16417|2024-04-30|
-|190|[cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)|Never use print for debugging again|16304|2024-02-05|
-|191|[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)|NVR with realtime local object detection for IP cameras|16231|2024-07-21|
-|192|[ipython/ipython](https://github.com/ipython/ipython)|Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.|16202|2024-07-16|
-|193|[alievk/avatarify-python](https://github.com/alievk/avatarify-python)|Avatars for Zoom, Skype and other video-conferencing apps.|16185|2024-07-10|
-|194|[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito ...|16132|2024-07-21|
-|195|[eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)|PyTorch implementations of Generative Adversarial Networks.|16049|2024-06-18|
-|196|[pytorch/vision](https://github.com/pytorch/vision)|Datasets, Transforms and Models specific to Computer Vision|15780|2024-07-21|
-|197|[plotly/plotly.py](https://github.com/plotly/plotly.py)|The interactive graphing library for Python :sparkles: This project now includes Plotly Express!|15746|2024-07-19|
-|198|[spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)|Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).|15730|2024-07-21|
-|199|[THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|ChatGLM2-6B: An Open Bilingual Chat LLM   开源双语对话语言模型|15636|2024-06-27|
-|200|[danielgatis/rembg](https://github.com/danielgatis/rembg)|Rembg is a tool to remove images background|15576|2024-05-24|
+|1|[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.|164949|2024-07-22|
+|2|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Stable Diffusion web UI|136458|2024-07-22|
+|3|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|130132|2024-07-21|
+|4|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|129621|2024-07-22|
+|5|[nvbn/thefuck](https://github.com/nvbn/thefuck)|Magnificent app which corrects your previous console command.|83834|2024-07-19|
+|6|[django/django](https://github.com/django/django)|The Web framework for perfectionists with deadlines.|78141|2024-07-22|
+|7|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|A feature-rich command-line audio/video downloader|77433|2024-07-22|
+|8|[tiangolo/fastapi](https://github.com/tiangolo/fastapi)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|73773|2024-07-22|
+|9|[home-assistant/core](https://github.com/home-assistant/core)|:house_with_garden: Open source home automation that puts local control and privacy first.|70032|2024-07-22|
+|10|[pallets/flask](https://github.com/pallets/flask)|The Python micro framework for building web applications.|67132|2024-07-19|
+|11|[openai/whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|64931|2024-07-22|
+|12|[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)|为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss ...|62397|2024-07-22|
+|13|[ansible/ansible](https://github.com/ansible/ansible)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ...|61878|2024-07-22|
+|14|[keras-team/keras](https://github.com/keras-team/keras)|Deep Learning for humans|61364|2024-07-22|
+|15|[python/cpython](https://github.com/python/cpython)|The Python programming language|61250|2024-07-22|
+|16|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|60895|2024-06-24|
+|17|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|scikit-learn: machine learning in Python|58983|2024-07-22|
+|18|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|54990|2024-07-22|
+|19|[meta-llama/llama](https://github.com/meta-llama/llama)|Inference code for Llama models|54330|2024-07-19|
+|20|[localstack/localstack](https://github.com/localstack/localstack)|💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline|53116|2024-07-22|
+|21|[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)|Interact with your documents using the power of GPT, 100% privately, no data leaks|53059|2024-07-22|
+|22|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|Hunt down social media accounts by username across social networks|52873|2024-07-22|
+|23|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|52476|2024-06-18|
+|24|[psf/requests](https://github.com/psf/requests)|A simple, yet elegant, HTTP library.|51797|2024-07-20|
+|25|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy, a fast high-level web crawling & scraping framework for Python.|51795|2024-07-21|
+|26|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|51637|2024-07-05|
+|27|[gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|51463|2024-07-20|
+|28|[OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)|A natural language interface for computers|51016|2024-07-21|
+|29|[deepfakes/faceswap](https://github.com/deepfakes/faceswap)|Deepfakes Software For All|49944|2024-07-13|
+|30|[soimort/you-get](https://github.com/soimort/you-get)|:arrow_double_down: Dumb downloader that scrapes the web|49645|2024-07-14|
+|31|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|49189|2024-05-29|
+|32|[commaai/openpilot](https://github.com/commaai/openpilot)|openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.|48754|2024-07-22|
+|33|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite|48728|2024-07-22|
+|34|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|48324|2024-07-15|
+|35|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|43636|2024-06-25|
+|36|[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.|42920|2024-07-22|
+|37|[pandas-dev/pandas](https://github.com/pandas-dev/pandas)|Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more|42771|2024-07-21|
+|38|[geekan/MetaGPT](https://github.com/geekan/MetaGPT)|🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming|41814|2024-07-22|
+|39|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|41169|2024-07-22|
+|40|[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model   开源双语对话语言模型|40091|2024-06-27|
+|41|[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)|Focus on prompting and generating|38621|2024-07-21|
+|42|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)|A Gradio web UI for Large Language Models.|38564|2024-07-21|
+|43|[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)|Making large AI models cheaper, faster and more accessible|38385|2024-07-22|
+|44|[psf/black](https://github.com/psf/black)|The uncompromising Python code formatter|37981|2024-07-22|
+|45|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)|High-Resolution Image Synthesis with Latent Diffusion Models|37732|2024-06-16|
+|46|[getsentry/sentry](https://github.com/getsentry/sentry)|Developer-first error tracking and performance monitoring|37663|2024-07-22|
+|47|[google-research/bert](https://github.com/google-research/bert)|TensorFlow code and pre-trained models for BERT|37531|2024-07-20|
+|48|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|36855|2024-05-07|
+|49|[odoo/odoo](https://github.com/odoo/odoo)|Odoo. Open Source Apps To Grow Your Business.|36402|2024-07-22|
+|50|[lm-sys/FastChat](https://github.com/lm-sys/FastChat)|An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.|35851|2024-07-22|
+|51|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|:art: Diagram as Code for prototyping cloud system architectures|35713|2024-07-21|
+|52|[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)|Official Code for DragGAN (SIGGRAPH 2023)|35603|2024-05-18|
+|53|[apache/airflow](https://github.com/apache/airflow)|Apache Airflow - A platform to programmatically author, schedule, and monitor workflows|35580|2024-07-22|
+|54|[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.|35355|2024-07-21|
+|55|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)|The simplest, fastest repository for training/finetuning medium-sized GPTs.|34986|2024-07-19|
+|56|[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)|Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, ...|34283|2024-07-22|
+|57|[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)|DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.|33957|2024-07-22|
+|58|[run-llama/llama_index](https://github.com/run-llama/llama_index)|LlamaIndex is a data framework for your LLM applications|33823|2024-07-22|
+|59|[shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)|-|33539|2024-04-01|
+|60|[streamlit/streamlit](https://github.com/streamlit/streamlit)|Streamlit — A faster way to build and share data apps.|33502|2024-07-22|
+|61|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|33125|2024-07-13|
+|62|[httpie/cli](https://github.com/httpie/cli)|🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.|32907|2024-07-10|
+|63|[fxsjy/jieba](https://github.com/fxsjy/jieba)|结巴中文分词|32851|2024-03-18|
+|64|[ray-project/ray](https://github.com/ray-project/ray)|Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.|32189|2024-07-22|
+|65|[coqui-ai/TTS](https://github.com/coqui-ai/TTS)|🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production|32153|2024-07-08|
+|66|[ccxt/ccxt](https://github.com/ccxt/ccxt)|A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges|32073|2024-07-22|
+|67|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|31408|2024-07-18|
+|68|[certbot/certbot](https://github.com/certbot/certbot)|Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.|31161|2024-07-21|
+|69|[gradio-app/gradio](https://github.com/gradio-app/gradio)|Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!|31112|2024-07-22|
+|70|[python-poetry/poetry](https://github.com/python-poetry/poetry)|Python packaging and dependency management made easy|30536|2024-07-21|
+|71|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|29560|2024-07-22|
+|72|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.|29483|2024-07-20|
+|73|[explosion/spaCy](https://github.com/explosion/spaCy)|💫 Industrial-strength Natural Language Processing (NLP) in Python|29342|2024-07-12|
+|74|[google/jax](https://github.com/google/jax)|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|29248|2024-07-22|
+|75|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)|Code and documentation to train Stanford's Alpaca models, and generate the data.|29181|2024-07-17|
+|76|[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)|The first real AI developer|29168|2024-07-18|
+|77|[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)|Let us control diffusion models!|29162|2024-02-25|
+|78|[OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)|🐚 OpenDevin: Code Less, Make More|28810|2024-07-22|
+|79|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|28662|2024-07-22|
+|80|[2noise/ChatTTS](https://github.com/2noise/ChatTTS)|A generative speech model for daily dialogue.|28064|2024-07-21|
+|81|[tqdm/tqdm](https://github.com/tqdm/tqdm)|:zap: A Fast, Extensible Progress Bar for Python and CLI|28012|2024-07-14|
+|82|[encode/django-rest-framework](https://github.com/encode/django-rest-framework)|Web APIs for Django. 🎸|27910|2024-07-20|
+|83|[Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)|Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.|27569|2024-07-22|
+|84|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|27437|2024-07-06|
+|85|[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)|27386|2024-07-22|
+|86|[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)|The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.|27201|2024-07-21|
+|87|[numpy/numpy](https://github.com/numpy/numpy)|The fundamental package for scientific computing with Python.|27174|2024-07-22|
+|88|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|27112|2024-07-17|
+|89|[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|Investment Research for Everyone, Everywhere.|26779|2024-07-22|
+|90|[google/python-fire](https://github.com/google/python-fire)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|26634|2024-07-22|
+|91|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot|26615|2024-07-22|
+|92|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite|26473|2024-07-22|
+|93|[StevenBlack/hosts](https://github.com/StevenBlack/hosts)|🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.|26217|2024-07-21|
+|94|[nicolargo/glances](https://github.com/nicolargo/glances)|Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.|25848|2024-07-21|
+|95|[s0md3v/roop](https://github.com/s0md3v/roop)|one-click face swap|25771|2024-07-05|
+|96|[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)|The platform for building AI from enterprise data|25695|2024-07-22|
+|97|[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)|We have made you a wrapper you can't refuse|25457|2024-07-22|
+|98|[spipm/Depix](https://github.com/spipm/Depix)|Recovers passwords from pixelized screenshots|25441|2024-07-14|
+|99|[ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)|A code-completion engine for Vim|25377|2024-07-09|
+|100|[deezer/spleeter](https://github.com/deezer/spleeter)|Deezer source separation library including pretrained models.|25344|2024-06-21|
+|101|[tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)|You like pytorch? You like micrograd? You love tinygrad! ❤️ |25221|2024-07-22|
+|102|[microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)|This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.|25198|2024-07-06|
+|103|[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)|25176|2024-04-22|
+|104|[pypa/pipenv](https://github.com/pypa/pipenv)| Python Development Workflow for Humans.|24743|2024-07-20|
+|105|[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。|24701|2024-07-22|
+|106|[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)|Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...|24451|2024-05-15|
+|107|[matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)|Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow|24428|2024-06-07|
+|108|[Textualize/textual](https://github.com/Textualize/textual)|The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.|24346|2024-07-22|
+|109|[locustio/locust](https://github.com/locustio/locust)|Write scalable load tests in plain Python 🚗💨|24264|2024-07-22|
+|110|[huggingface/diffusers](https://github.com/huggingface/diffusers)|🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.|24205|2024-07-22|
+|111|[chubin/wttr.in](https://github.com/chubin/wttr.in)|:partly_sunny: The right way to check the weather|24134|2024-07-02|
+|112|[celery/celery](https://github.com/celery/celery)|Distributed Task Queue (development branch)|24124|2024-07-22|
+|113|[vnpy/vnpy](https://github.com/vnpy/vnpy)|基于Python的开源量化交易平台开发框架|24058|2024-07-18|
+|114|[hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。|23473|2024-07-21|
+|115|[meta-llama/llama3](https://github.com/meta-llama/llama3)|The official Meta Llama 3 GitHub site|23451|2024-07-17|
+|116|[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)|Generative Models by Stability AI|23411|2024-07-09|
+|117|[microsoft/JARVIS](https://github.com/microsoft/JARVIS)|JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf|23397|2024-04-24|
+|118|[vllm-project/vllm](https://github.com/vllm-project/vllm)|A high-throughput and memory-efficient inference and serving engine for LLMs|23354|2024-07-22|
+|119|[taosdata/TDengine](https://github.com/taosdata/TDengine)|TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.|23079|2024-07-22|
+|120|[JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)|Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|22966|2024-07-22|
+|121|[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)|Cross-platform, fast, feature-rich, GPU based terminal|22907|2024-07-22|
+|122|[junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|Image-to-Image Translation in PyTorch|22474|2024-05-14|
+|123|[HumanSignal/labelImg](https://github.com/HumanSignal/labelImg)|LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat ...|22246|2024-06-07|
+|124|[deepinsight/insightface](https://github.com/deepinsight/insightface)|State-of-the-art 2D and 3D Face Analysis Project|22104|2024-07-21|
+|125|[cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)|A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.|22038|2024-07-19|
+|126|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|21923|2024-07-22|
+|127|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|21862|2024-07-08|
+|128|[tornadoweb/tornado](https://github.com/tornadoweb/tornado)|Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.|21626|2024-07-15|
+|129|[openai/openai-python](https://github.com/openai/openai-python)|The official Python library for the OpenAI API|21289|2024-07-22|
+|130|[RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Easily train a good VC model with voice data <= 10 mins!|21270|2024-07-18|
+|131|[KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)|:cake: Desktop utility to download images/videos/music/text from various websites, and more.|21101|2024-04-05|
+|132|[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.|20977|2024-07-04|
+|133|[plotly/dash](https://github.com/plotly/dash)|Data Apps & Dashboards for Python. No JavaScript Required.|20931|2024-07-22|
+|134|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|Open-Sora: Democratizing Efficient Video Production for All|20827|2024-07-16|
+|135|[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)|Graph Neural Network Library for PyTorch|20654|2024-07-22|
+|136|[jina-ai/jina](https://github.com/jina-ai/jina)|☁️ Build multimodal AI applications with cloud-native stack|20634|2024-07-19|
+|137|[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)|Turn (almost) any Python command line program into a full GUI application with one line|20508|2024-02-21|
+|138|[zulip/zulip](https://github.com/zulip/zulip)|Zulip server and web application. Open-source team chat that helps teams stay productive and focused.|20417|2024-07-22|
+|139|[saleor/saleor](https://github.com/saleor/saleor)|Saleor Core: the high performance, composable, headless commerce API.|20379|2024-07-22|
+|140|[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)|Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu ...|20263|2024-07-18|
+|141|[ManimCommunity/manim](https://github.com/ManimCommunity/manim)|A community-maintained Python framework for creating mathematical animations. |20141|2024-07-22|
+|142|[ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)|Google Chromium, sans integration with Google|19826|2024-07-18|
+|143|[pydantic/pydantic](https://github.com/pydantic/pydantic)|Data validation using Python type hints|19795|2024-07-22|
+|144|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)|-|19732|2024-05-13|
+|145|[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)|matplotlib: plotting with Python|19717|2024-07-22|
+|146|[PostHog/posthog](https://github.com/PostHog/posthog)|🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.|19686|2024-07-22|
+|147|[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)|Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |19651|2024-06-28|
+|148|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.|19572|2024-07-21|
+|149|[kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)|Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.|19553|2024-07-14|
+|150|[karpathy/minGPT](https://github.com/karpathy/minGPT)|A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training|19499|2024-04-28|
+|151|[microsoft/unilm](https://github.com/microsoft/unilm)|Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities|19220|2024-07-15|
+|152|[bokeh/bokeh](https://github.com/bokeh/bokeh)|Interactive Data Visualization in the browser, from  Python|19084|2024-07-22|
+|153|[magenta/magenta](https://github.com/magenta/magenta)|Magenta: Music and Art Generation with Machine Intelligence|19028|2024-06-11|
+|154|[lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)|Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch|18969|2024-07-20|
+|155|[Delgan/loguru](https://github.com/Delgan/loguru)|Python logging made (stupidly) simple|18944|2024-07-20|
+|156|[huggingface/datasets](https://github.com/huggingface/datasets)|🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools|18785|2024-07-22|
+|157|[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)|Project documentation with Markdown.|18746|2024-07-21|
+|158|[recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)|Best Practices on Recommendation Systems|18495|2024-07-18|
+|159|[magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)|get things from one computer to another, safely|18466|2024-06-17|
+|160|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)|[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.|18290|2024-07-14|
+|161|[Sanster/IOPaint](https://github.com/Sanster/IOPaint)|Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.|18274|2024-06-27|
+|162|[nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)|Automated nginx proxy for Docker containers using docker-gen|18262|2024-07-22|
+|163|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A community-supported supercharged version of paperless: scan, index and archive all your physical documents|18243|2024-07-22|
+|164|[reflex-dev/reflex](https://github.com/reflex-dev/reflex)|🕸️ Web apps in pure Python 🐍|18111|2024-07-22|
+|165|[roboflow/supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|18083|2024-07-22|
+|166|[facebook/prophet](https://github.com/facebook/prophet)|Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.|18080|2024-07-13|
+|167|[mlflow/mlflow](https://github.com/mlflow/mlflow)|Open source platform for the machine learning lifecycle|17990|2024-07-22|
+|168|[stitionai/devika](https://github.com/stitionai/devika)|Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D ...|17972|2024-07-04|
+|169|[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)|17957|2024-04-30|
+|170|[python/mypy](https://github.com/python/mypy)|Optional static typing for Python|17940|2024-07-22|
+|171|[sanic-org/sanic](https://github.com/sanic-org/sanic)| Accelerate your web app development    Build fast. Run fast.|17910|2024-07-07|
+|172|[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)|Universal LLM Deployment Engine with ML Compilation|17865|2024-07-22|
+|173|[frappe/erpnext](https://github.com/frappe/erpnext)|Free and Open Source Enterprise Resource Planning (ERP)|17779|2024-07-22|
+|174|[wagtail/wagtail](https://github.com/wagtail/wagtail)|A Django content management system focused on flexibility and user experience|17644|2024-07-22|
+|175|[spotify/luigi](https://github.com/spotify/luigi)|Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. |17572|2024-07-21|
+|176|[Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)|⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡|17534|2024-03-26|
+|177|[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|17521|2024-07-22|
+|178|[joke2k/faker](https://github.com/joke2k/faker)|Faker is a Python package that generates fake data for you.|17391|2024-07-21|
+|179|[kivy/kivy](https://github.com/kivy/kivy)|Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS|17360|2024-07-21|
+|180|[rsms/inter](https://github.com/rsms/inter)|The Inter font family|17337|2024-07-03|
+|181|[onnx/onnx](https://github.com/onnx/onnx)|Open standard for machine learning interoperability|17331|2024-07-22|
+|182|[quantopian/zipline](https://github.com/quantopian/zipline)|Zipline, a Pythonic Algorithmic Trading Library|17320|2024-02-13|
+|183|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|16743|2024-07-22|
+|184|[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)| GUI for a Vocal Remover that uses Deep Neural Networks.|16741|2024-05-23|
+|185|[InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)|📷 Instagram Bot - Tool for automated Instagram interactions|16578|2024-05-11|
+|186|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|16539|2024-07-15|
+|187|[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)|Stable Diffusion with Core ML on Apple Silicon|16504|2024-07-22|
+|188|[binux/pyspider](https://github.com/binux/pyspider)|A Powerful Spider(Web Crawler) System in Python.|16418|2024-04-30|
+|189|[cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)|Never use print for debugging again|16305|2024-02-05|
+|190|[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)|NVR with realtime local object detection for IP cameras|16247|2024-07-22|
+|191|[ipython/ipython](https://github.com/ipython/ipython)|Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.|16207|2024-07-22|
+|192|[alievk/avatarify-python](https://github.com/alievk/avatarify-python)|Avatars for Zoom, Skype and other video-conferencing apps.|16184|2024-07-10|
+|193|[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito ...|16159|2024-07-21|
+|194|[eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)|PyTorch implementations of Generative Adversarial Networks.|16053|2024-06-18|
+|195|[pytorch/vision](https://github.com/pytorch/vision)|Datasets, Transforms and Models specific to Computer Vision|15786|2024-07-22|
+|196|[plotly/plotly.py](https://github.com/plotly/plotly.py)|The interactive graphing library for Python :sparkles: This project now includes Plotly Express!|15750|2024-07-19|
+|197|[spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)|Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).|15739|2024-07-21|
+|198|[THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|ChatGLM2-6B: An Open Bilingual Chat LLM   开源双语对话语言模型|15641|2024-06-27|
+|199|[danielgatis/rembg](https://github.com/danielgatis/rembg)|Rembg is a tool to remove images background|15584|2024-05-24|
+|200|[meta-llama/codellama](https://github.com/meta-llama/codellama)|Inference code for CodeLlama models|15486|2024-05-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
