@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2024-07-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[Laurensvanrun/Delphi-Promises](https://github.com/Laurensvanrun/Delphi-Promises)|Delphi implementation of promises for asynchronous programming.|69|2024-04-18|2024-03-13|
 |10|[nalgeon/uuidv7](https://github.com/nalgeon/uuidv7)|UUIDv7 in N languages|66|2024-07-09|2024-06-15|
 |11|[geby/synapse](https://github.com/geby/synapse)|Synapse TCP/IP library for Delphi and Freepascal|58|2024-06-17|2024-01-15|
-|12|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|53|2024-07-19|2024-06-07|
+|12|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|53|2024-07-23|2024-06-07|
 |13|[ObjectPascal-Community/1brc-ObjectPascal](https://github.com/ObjectPascal-Community/1brc-ObjectPascal)|1️⃣🐝🏎️ The 1 Billion Row Challenge in Object Pascal|53|2024-07-06|2024-02-28|
 |14|[Bunker-x/DTelegram](https://github.com/Bunker-x/DTelegram)|This is a Delphi Component for interacting with the Telegram Bot API. It provides a set of functions to perform various actions using the Telegram Bot platform.|48|2024-03-15|2023-11-18|
 |15|[hshatti/LightNet](https://github.com/hshatti/LightNet)|Implemented in pure pascal LightNet is an artificial intelligence neural network library Inspired by Darknet and yolo library which can run most of the darknet including YOLO models nativly and self d ...|43|2024-06-10|2024-05-04|
@@ -68,27 +68,27 @@
 |61|[RamonSouza96/FloatOverlay](https://github.com/RamonSouza96/FloatOverlay)|FloatOverlay - Library for Creating Floating UI Elements on Android with Delphi FireMonkey|11|2024-04-10|2024-03-31|
 |62|[MatiasGuaymas/FOD](https://github.com/MatiasGuaymas/FOD)|Prácticas resueltas y modelos de parciales de Fundamentos de Organización de Datos.|11|2024-07-15|2024-03-19|
 |63|[gmnevton/NitroPascal](https://github.com/gmnevton/NitroPascal)|NitroPascal is a concept of new OOP programming language based on Pascal / Delphi. Maybe in future there will be a compiler and debugger.|11|2024-04-07|2023-11-03|
-|64|[GuvaCode/RaySokoban](https://github.com/GuvaCode/RaySokoban)|-|10|2024-05-22|2024-05-21|
-|65|[rafalagoon/not_enough_nots](https://github.com/rafalagoon/not_enough_nots)|Just a very stupid experiment with logical operators|10|2024-05-09|2024-05-08|
-|66|[tinyBigGAMES/Delphi-Ollama](https://github.com/tinyBigGAMES/Delphi-Ollama)|A simple and easy to use library for interacting with the Ollama API in Delphi|10|2024-04-09|2024-04-08|
-|67|[GuvaCode/LazGLFW](https://github.com/GuvaCode/LazGLFW)|GLFW 3.4 Header for FreePascal|10|2024-03-11|2024-03-11|
-|68|[szlbz/QFComponent](https://github.com/szlbz/QFComponent)|-|10|2024-07-22|2024-03-09|
-|69|[a-dato/FMX-GRID](https://github.com/a-dato/FMX-GRID)|-|10|2024-07-21|2024-02-04|
-|70|[GuvaCode/TrueSpace](https://github.com/GuvaCode/TrueSpace)|Elite style games, write in free pascal|10|2024-05-21|2024-01-25|
-|71|[ryusatgat/trimuitool](https://github.com/ryusatgat/trimuitool)|TrimUI Tool - Scraper/Rename|9|2024-07-16|2024-06-29|
+|64|[ryusatgat/trimuitool](https://github.com/ryusatgat/trimuitool)|TrimUI Tool - Scraper/Rename|10|2024-07-16|2024-06-29|
+|65|[GuvaCode/RaySokoban](https://github.com/GuvaCode/RaySokoban)|-|10|2024-05-22|2024-05-21|
+|66|[rafalagoon/not_enough_nots](https://github.com/rafalagoon/not_enough_nots)|Just a very stupid experiment with logical operators|10|2024-05-09|2024-05-08|
+|67|[tinyBigGAMES/Delphi-Ollama](https://github.com/tinyBigGAMES/Delphi-Ollama)|A simple and easy to use library for interacting with the Ollama API in Delphi|10|2024-04-09|2024-04-08|
+|68|[GuvaCode/LazGLFW](https://github.com/GuvaCode/LazGLFW)|GLFW 3.4 Header for FreePascal|10|2024-03-11|2024-03-11|
+|69|[szlbz/QFComponent](https://github.com/szlbz/QFComponent)|-|10|2024-07-22|2024-03-09|
+|70|[a-dato/FMX-GRID](https://github.com/a-dato/FMX-GRID)|-|10|2024-07-23|2024-02-04|
+|71|[GuvaCode/TrueSpace](https://github.com/GuvaCode/TrueSpace)|Elite style games, write in free pascal|10|2024-05-21|2024-01-25|
 |72|[ObjectPascal-Community/LazarusCord](https://github.com/ObjectPascal-Community/LazarusCord)|Discord Rich Presence extension for Lazarus|9|2024-05-27|2024-05-27|
 |73|[viniciusfbb/delphi-benchmark](https://github.com/viniciusfbb/delphi-benchmark)|Lightweight benchmark for Delphi|9|2024-05-12|2024-05-12|
-|74|[nummacway/gb300tool](https://github.com/nummacway/gb300tool)|The all-in-one tool for the GB300 handheld game console|9|2024-07-13|2024-05-04|
-|75|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|9|2024-06-14|2024-04-03|
-|76|[baumwollschaf/RDGoogleAI](https://github.com/baumwollschaf/RDGoogleAI)|Google AI API Delphi Component. To be continued when API available in Germany|9|2024-03-15|2024-02-28|
-|77|[AndersondaCampo/Nest4D](https://github.com/AndersondaCampo/Nest4D)|Nest4D: Um framework inspirado no NestJS para Delphi com o poderoso Horse!|9|2024-06-28|2023-07-29|
-|78|[tothpaul/Delphi.RTTI](https://github.com/tothpaul/Delphi.RTTI)|My RTTI based units|8|2024-06-12|2024-06-12|
-|79|[yastrebtsov/turbovision-delphi](https://github.com/yastrebtsov/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
-|80|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|8|2024-05-27|2024-05-24|
-|81|[dxbit/dataexpress](https://github.com/dxbit/dataexpress)|Конструктор баз данных DataExpress|8|2024-07-08|2024-05-12|
-|82|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|High performant CUDA powered LLM inference library|8|2024-05-10|2024-05-08|
-|83|[yunkot/MicroPXL](https://github.com/yunkot/MicroPXL)|MicroPXL is a cross-platform framework for working with peripherals on desktop machines and SBCs|8|2024-06-13|2024-05-06|
-|84|[antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP)|⚡ BuscaCEP é uma biblioteca de consulta de endereço online, que permite consulta por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro).|8|2024-07-13|2024-05-01|
+|74|[dxbit/dataexpress](https://github.com/dxbit/dataexpress)|Конструктор баз данных DataExpress|9|2024-07-08|2024-05-12|
+|75|[nummacway/gb300tool](https://github.com/nummacway/gb300tool)|The all-in-one tool for the GB300 handheld game console|9|2024-07-13|2024-05-04|
+|76|[antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP)|⚡ BuscaCEP é uma biblioteca de consulta de endereço online, que permite consulta por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro).|9|2024-07-13|2024-05-01|
+|77|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|9|2024-06-14|2024-04-03|
+|78|[baumwollschaf/RDGoogleAI](https://github.com/baumwollschaf/RDGoogleAI)|Google AI API Delphi Component. To be continued when API available in Germany|9|2024-03-15|2024-02-28|
+|79|[AndersondaCampo/Nest4D](https://github.com/AndersondaCampo/Nest4D)|Nest4D: Um framework inspirado no NestJS para Delphi com o poderoso Horse!|9|2024-06-28|2023-07-29|
+|80|[tothpaul/Delphi.RTTI](https://github.com/tothpaul/Delphi.RTTI)|My RTTI based units|8|2024-06-12|2024-06-12|
+|81|[yastrebtsov/turbovision-delphi](https://github.com/yastrebtsov/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
+|82|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|8|2024-05-27|2024-05-24|
+|83|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|High performant CUDA powered LLM inference library|8|2024-05-10|2024-05-08|
+|84|[yunkot/MicroPXL](https://github.com/yunkot/MicroPXL)|MicroPXL is a cross-platform framework for working with peripherals on desktop machines and SBCs|8|2024-06-13|2024-05-06|
 |85|[Djaoued2006/auto-complete-system](https://github.com/Djaoued2006/auto-complete-system)|generates all the possible words from a prefix given by the user!|8|2024-05-02|2024-05-01|
 |86|[adrianosantostreina/MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D)|Biblioteca para criação de logs de aplicativos Android|8|2024-04-24|2024-04-16|
 |87|[geby/SqliteWrap](https://github.com/geby/SqliteWrap)|Simple SQlite wrapper for Pascal|8|2024-01-27|2024-01-26|
@@ -99,7 +99,7 @@
 |92|[DeveloppeurPascal/Video-Merger](https://github.com/DeveloppeurPascal/Video-Merger)|A simple tool to merge two or more videos with FFmpeg|7|2024-06-30|2024-06-05|
 |93|[GDKsoftware/firedac-threaded](https://github.com/GDKsoftware/firedac-threaded)|Threaded connections for Firedac|7|2024-05-16|2024-04-19|
 |94|[bBelkiss/UNLP-Informatica](https://github.com/bBelkiss/UNLP-Informatica)|📚 Recopilación de notas, prácticas, materiales de estudio y mas de la carrera.|7|2024-07-03|2024-04-08|
-|95|[Lulu04/Saynetes](https://github.com/Lulu04/Saynetes)|Sound and light control software|7|2024-07-18|2024-04-02|
+|95|[Lulu04/Saynetes](https://github.com/Lulu04/Saynetes)|Sound and light control software|7|2024-07-23|2024-04-02|
 |96|[maicodalri/HException](https://github.com/maicodalri/HException)|O exemplo a seguir tem como objetivo mostrar a utilização do mecanismo controlador de exceções do Delphi|7|2024-03-12|2024-03-12|
 |97|[modersohn/delphi-tree-sitter](https://github.com/modersohn/delphi-tree-sitter)|Delphi binding for the tree-sitter library|7|2024-03-24|2024-02-28|
 |98|[MaxLogic/maxCron](https://github.com/MaxLogic/maxCron)|maxCron: Flexible, lightweight CRON compliant scheduler written in Delphi. |7|2024-02-08|2024-02-06|
@@ -158,53 +158,53 @@
 |151|[companytec/companytec_kit_desenvolvimento](https://github.com/companytec/companytec_kit_desenvolvimento)|-|5|2024-04-03|2023-09-27|
 |152|[jsqw/SRL-vanilla](https://github.com/jsqw/SRL-vanilla)|Simba scripts for the vanilla OSRS client.|5|2024-05-09|2023-09-24|
 |153|[BadDogSkyrim/Modding-Tools](https://github.com/BadDogSkyrim/Modding-Tools)|xEdit scripts and such for better modding.|5|2024-05-27|2023-09-10|
-|154|[cpicanco/fpc-opengaze](https://github.com/cpicanco/fpc-opengaze)|Free Pascal client for Opengaze API and Gazepoint eye tracker|4|2024-07-22|2024-06-28|
-|155|[p-samuel/delphi-progress-bar](https://github.com/p-samuel/delphi-progress-bar)|Simplified implementation of stacked progress bars for a console application.|4|2024-06-25|2024-06-20|
-|156|[SimoesLeticia/Delphi-TestesUnitarios](https://github.com/SimoesLeticia/Delphi-TestesUnitarios)|Exemplo de testes unitários em Delphi utilizando DUnit.|4|2024-07-13|2024-06-16|
-|157|[Giancardonee/FOD](https://github.com/Giancardonee/FOD)|Fundamentos de Organizacion de Datos.  Informatica, UNLP |4|2024-07-22|2024-05-29|
-|158|[rgdawson/Rgd.Sqlite3](https://github.com/rgdawson/Rgd.Sqlite3)|Simple, effective Sqlite3 interface unit|4|2024-07-18|2024-05-02|
-|159|[Djaoued2006/expression-evaluater](https://github.com/Djaoued2006/expression-evaluater)|arithmetic expressions evaluator|4|2024-05-10|2024-04-28|
-|160|[gladir/NORTONCOMMANDER-0](https://github.com/gladir/NORTONCOMMANDER-0)|Clone du Norton Commander (de l'application DOS) écrit en Pascal (Turbo Pascal ou Free Pascal)|4|2024-04-28|2024-04-21|
-|161|[shaunroselt/TWebDevTools](https://github.com/shaunroselt/TWebDevTools)|Delphi TMS WEB Core Component to disable web developer tools from the F12 button, right-click and browser menu|4|2024-04-22|2024-04-20|
-|162|[mazluta/Play-with-Delphi-and-outlook](https://github.com/mazluta/Play-with-Delphi-and-outlook)|Delphi code for playing with outlook|4|2024-04-15|2024-04-12|
-|163|[zedalaye/Delphi-Countries](https://github.com/zedalaye/Delphi-Countries)|The Delphi port of the countries rubygem : All sorts of useful information about every country packaged as convenient little country objects.|4|2024-04-12|2024-04-12|
-|164|[gladir/color-computer-game-turbopascal](https://github.com/gladir/color-computer-game-turbopascal)|Suite de jeux écrit en Pascal étant des clones de jeux existant sur le CoCo (Color Computer) - CoCo 1, CoCo 2, CoCo 3|4|2024-04-07|2024-04-06|
-|165|[gladir/COLOR-SPACE-INVADERS-0](https://github.com/gladir/COLOR-SPACE-INVADERS-0)|Clone du jeu Color Space Invaders originaire du CoCo 3 (Color Computer 3) écrit en Pascal (Turbo Pascal ou Free Pascal).|4|2024-04-06|2024-04-06|
-|166|[jimmckeeth/Delphi-Shannon-Word-Pairs](https://github.com/jimmckeeth/Delphi-Shannon-Word-Pairs)|An implementation of Claude Shannon's Word Pairs written in Delphi with ChatGPT|4|2024-04-03|2024-04-03|
-|167|[djjd47130/HoardHelper](https://github.com/djjd47130/HoardHelper)|JD Hoard Helper - A set of tools for managing hoards of files|4|2024-05-05|2024-04-02|
-|168|[PassByYou888/ZSnappy](https://github.com/PassByYou888/ZSnappy)|google snappy for pascal|4|2024-04-03|2024-04-02|
-|169|[BoscoBecker/Gemini](https://github.com/BoscoBecker/Gemini)|Build chat Gemini|4|2024-04-12|2024-04-01|
-|170|[DevinAIDeveloper/DevinAI-Remote-Administration-Tool](https://github.com/DevinAIDeveloper/DevinAI-Remote-Administration-Tool)|DevinAI RAT|4|2024-03-31|2024-03-30|
-|171|[weslleycapelari/BBCode4D](https://github.com/weslleycapelari/BBCode4D)|Simple BBCode Interpreter for Delphi|4|2024-07-08|2024-03-27|
-|172|[FernandoBanhos/pascal_brotli](https://github.com/FernandoBanhos/pascal_brotli)|A pascal library, to compress and decompress with Brotli|4|2024-04-25|2024-03-26|
-|173|[DelphiTeacher/ScriptGate_fix](https://github.com/DelphiTeacher/ScriptGate_fix)|ScriptGate fix for Delphi 11,12|4|2024-03-25|2024-03-25|
-|174|[gladir/BUBBLE-SHOOTER](https://github.com/gladir/BUBBLE-SHOOTER)|Jeu Bubble Shooter écrit en Pascal (Turbo Pascal ou Free Pascal). Un jeu où il faut viser des bulles de façon à avoir 3 bulles de la meme couleurs pour les faires disparaitre.|4|2024-03-24|2024-03-24|
-|175|[Alexey-T/Boleeman_Curves](https://github.com/Alexey-T/Boleeman_Curves)|Lazarus programs which show some curves, written by forum user Boleeman|4|2024-06-08|2024-03-24|
-|176|[delphifanforum/DFFormater](https://github.com/delphifanforum/DFFormater)|This Delphi project provides a comprehensive library for formatting and minifying various types of code commonly used in software development. It includes functionalities for formatting and minifying  ...|4|2024-03-19|2024-03-19|
-|177|[Piggypink8/Fundamentos-de-Organizacion-de-Datos](https://github.com/Piggypink8/Fundamentos-de-Organizacion-de-Datos)|Objetivos: Aprender la estructura de datos archivos y los algoritmos que se utilizan para manipular sus datos. Comprender y analizar técnicas de organización de datos: Merge con N archivos (ord. y des ...|4|2024-07-18|2024-03-09|
-|178|[fdmigrator-project/fdmigrator](https://github.com/fdmigrator-project/fdmigrator)|Database Migration Tool based on the powers of FireDac!|4|2024-06-16|2024-03-09|
-|179|[Codrax/Codrut-Animation-Lib](https://github.com/Codrax/Codrut-Animation-Lib)|Codruts Animation Library|4|2024-07-22|2024-03-01|
-|180|[TonyStone31/softcube](https://github.com/TonyStone31/softcube)|RubiksCube Simulator originally written with Delphi and converted to a Lazarus and Free Pascal project.  Translated from French to English.  Original code was obtained from https://codes-sources.comme ...|4|2024-04-04|2024-02-28|
-|181|[popolony2k/hinotori](https://github.com/popolony2k/hinotori)|Hinotori Library is the rebrand of PopolonY2k Framework  now moved to GitHub and open to community collaboration|4|2024-07-14|2024-02-18|
-|182|[zbyti/pikoban](https://github.com/zbyti/pikoban)|µSoukoban for Neo6502 retrocomputer|4|2024-04-10|2024-02-18|
-|183|[bnzbnz/JsonX2](https://github.com/bnzbnz/JsonX2)|Json Extended framework V2 for Delphi (VCL/FMX)|4|2024-04-21|2024-02-15|
-|184|[MaxiDonkey/DelphiMistralAI](https://github.com/MaxiDonkey/DelphiMistralAI)|The MistralAI API wrapper for Delphi utilizes the various advanced models developed by Mistral to provide robust capabilities for chat interactions, string embeddings, and precise code generation with ...|4|2024-07-11|2024-02-08|
-|185|[HemulGM/GameBoyFMX](https://github.com/HemulGM/GameBoyFMX)|GameBoy emulator. Delph, FMX. Crossplatform|4|2024-02-07|2024-02-07|
-|186|[paweld/simple-logger](https://github.com/paweld/simple-logger)|-|4|2024-02-10|2024-02-04|
-|187|[gladir/FREEBSD-0](https://github.com/gladir/FREEBSD-0)|Clone de FreeBSD écrit en Pascal|4|2024-02-07|2024-02-03|
-|188|[gladir/XENIX-0](https://github.com/gladir/XENIX-0)|Clone XENIX écrit en Pascal|4|2024-02-07|2024-02-01|
-|189|[Old-Butt-Gold/Task-Manager-CppBuilder](https://github.com/Old-Butt-Gold/Task-Manager-CppBuilder)|-|4|2024-07-09|2024-01-20|
-|190|[ProgrammingHobby/Cife](https://github.com/ProgrammingHobby/Cife)|the new CP/M Image-File Explorer|4|2024-07-21|2024-01-18|
-|191|[MasonGroup/Neshta.A](https://github.com/MasonGroup/Neshta.A)|-|4|2024-01-26|2024-01-18|
-|192|[MGuffin/xTranslator](https://github.com/MGuffin/xTranslator)|Text & translation editor for Skyrim, Fallout4 and Starfield mods|4|2024-05-25|2024-01-16|
-|193|[psychotimmy/aoc2023-cpm](https://github.com/psychotimmy/aoc2023-cpm)|Advent of Code 2023 - Turbo Pascal 3.01A, FTL Modula-2 1.30 CBASIC80 2.0 and Aztec C 1.06D under CP/M 2.2.|4|2024-04-08|2024-01-12|
-|194|[joemilc/sampleweb](https://github.com/joemilc/sampleweb)|Gerador de código para exportar um form Delphi VCL para D2Bridge|4|2024-02-09|2024-01-11|
-|195|[DelphiCreative/DelphiParseServer](https://github.com/DelphiCreative/DelphiParseServer)|-|4|2024-05-18|2024-01-08|
-|196|[gladir/CSV-TOOLS](https://github.com/gladir/CSV-TOOLS)|Ensemble d'outils pour le format CSV écrit en Pascal. |4|2024-01-23|2024-01-07|
-|197|[TobyAdd/GDH-Installer](https://github.com/TobyAdd/GDH-Installer)|Project that allows you to easily install GDH|4|2024-07-14|2024-01-02|
-|198|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
-|199|[ad1mt/Multi-Word-Int](https://github.com/ad1mt/Multi-Word-Int)|Library to provide multi-word (large) integers for the Free Pascal compiler.|4|2024-05-19|2023-11-11|
-|200|[MilanoVGC/OTSRenderer](https://github.com/MilanoVGC/OTSRenderer)|-|4|2024-01-22|2023-10-18|
+|154|[IlianEvtimov/WindowsServiceWithSocketAndClient](https://github.com/IlianEvtimov/WindowsServiceWithSocketAndClient)|Windows service with socket communication for client-server applications using Delphi.|4|2024-07-22|2024-07-22|
+|155|[cpicanco/fpc-opengaze](https://github.com/cpicanco/fpc-opengaze)|Free Pascal client for Opengaze API and Gazepoint eye tracker|4|2024-07-22|2024-06-28|
+|156|[p-samuel/delphi-progress-bar](https://github.com/p-samuel/delphi-progress-bar)|Simplified implementation of stacked progress bars for a console application.|4|2024-06-25|2024-06-20|
+|157|[SimoesLeticia/Delphi-TestesUnitarios](https://github.com/SimoesLeticia/Delphi-TestesUnitarios)|Exemplo de testes unitários em Delphi utilizando DUnit.|4|2024-07-13|2024-06-16|
+|158|[Giancardonee/FOD](https://github.com/Giancardonee/FOD)|Fundamentos de Organizacion de Datos.  Informatica, UNLP |4|2024-07-23|2024-05-29|
+|159|[rgdawson/Rgd.Sqlite3](https://github.com/rgdawson/Rgd.Sqlite3)|Simple, effective Sqlite3 interface unit|4|2024-07-18|2024-05-02|
+|160|[Djaoued2006/expression-evaluater](https://github.com/Djaoued2006/expression-evaluater)|arithmetic expressions evaluator|4|2024-05-10|2024-04-28|
+|161|[gladir/NORTONCOMMANDER-0](https://github.com/gladir/NORTONCOMMANDER-0)|Clone du Norton Commander (de l'application DOS) écrit en Pascal (Turbo Pascal ou Free Pascal)|4|2024-04-28|2024-04-21|
+|162|[shaunroselt/TWebDevTools](https://github.com/shaunroselt/TWebDevTools)|Delphi TMS WEB Core Component to disable web developer tools from the F12 button, right-click and browser menu|4|2024-04-22|2024-04-20|
+|163|[mazluta/Play-with-Delphi-and-outlook](https://github.com/mazluta/Play-with-Delphi-and-outlook)|Delphi code for playing with outlook|4|2024-04-15|2024-04-12|
+|164|[zedalaye/Delphi-Countries](https://github.com/zedalaye/Delphi-Countries)|The Delphi port of the countries rubygem : All sorts of useful information about every country packaged as convenient little country objects.|4|2024-04-12|2024-04-12|
+|165|[gladir/color-computer-game-turbopascal](https://github.com/gladir/color-computer-game-turbopascal)|Suite de jeux écrit en Pascal étant des clones de jeux existant sur le CoCo (Color Computer) - CoCo 1, CoCo 2, CoCo 3|4|2024-04-07|2024-04-06|
+|166|[gladir/COLOR-SPACE-INVADERS-0](https://github.com/gladir/COLOR-SPACE-INVADERS-0)|Clone du jeu Color Space Invaders originaire du CoCo 3 (Color Computer 3) écrit en Pascal (Turbo Pascal ou Free Pascal).|4|2024-04-06|2024-04-06|
+|167|[jimmckeeth/Delphi-Shannon-Word-Pairs](https://github.com/jimmckeeth/Delphi-Shannon-Word-Pairs)|An implementation of Claude Shannon's Word Pairs written in Delphi with ChatGPT|4|2024-04-03|2024-04-03|
+|168|[djjd47130/HoardHelper](https://github.com/djjd47130/HoardHelper)|JD Hoard Helper - A set of tools for managing hoards of files|4|2024-05-05|2024-04-02|
+|169|[PassByYou888/ZSnappy](https://github.com/PassByYou888/ZSnappy)|google snappy for pascal|4|2024-04-03|2024-04-02|
+|170|[BoscoBecker/Gemini](https://github.com/BoscoBecker/Gemini)|Build chat Gemini|4|2024-04-12|2024-04-01|
+|171|[DevinAIDeveloper/DevinAI-Remote-Administration-Tool](https://github.com/DevinAIDeveloper/DevinAI-Remote-Administration-Tool)|DevinAI RAT|4|2024-03-31|2024-03-30|
+|172|[weslleycapelari/BBCode4D](https://github.com/weslleycapelari/BBCode4D)|Simple BBCode Interpreter for Delphi|4|2024-07-08|2024-03-27|
+|173|[FernandoBanhos/pascal_brotli](https://github.com/FernandoBanhos/pascal_brotli)|A pascal library, to compress and decompress with Brotli|4|2024-04-25|2024-03-26|
+|174|[DelphiTeacher/ScriptGate_fix](https://github.com/DelphiTeacher/ScriptGate_fix)|ScriptGate fix for Delphi 11,12|4|2024-03-25|2024-03-25|
+|175|[gladir/BUBBLE-SHOOTER](https://github.com/gladir/BUBBLE-SHOOTER)|Jeu Bubble Shooter écrit en Pascal (Turbo Pascal ou Free Pascal). Un jeu où il faut viser des bulles de façon à avoir 3 bulles de la meme couleurs pour les faires disparaitre.|4|2024-03-24|2024-03-24|
+|176|[Alexey-T/Boleeman_Curves](https://github.com/Alexey-T/Boleeman_Curves)|Lazarus programs which show some curves, written by forum user Boleeman|4|2024-06-08|2024-03-24|
+|177|[delphifanforum/DFFormater](https://github.com/delphifanforum/DFFormater)|This Delphi project provides a comprehensive library for formatting and minifying various types of code commonly used in software development. It includes functionalities for formatting and minifying  ...|4|2024-03-19|2024-03-19|
+|178|[Piggypink8/Fundamentos-de-Organizacion-de-Datos](https://github.com/Piggypink8/Fundamentos-de-Organizacion-de-Datos)|Objetivos: Aprender la estructura de datos archivos y los algoritmos que se utilizan para manipular sus datos. Comprender y analizar técnicas de organización de datos: Merge con N archivos (ord. y des ...|4|2024-07-18|2024-03-09|
+|179|[fdmigrator-project/fdmigrator](https://github.com/fdmigrator-project/fdmigrator)|Database Migration Tool based on the powers of FireDac!|4|2024-06-16|2024-03-09|
+|180|[Codrax/Codrut-Animation-Lib](https://github.com/Codrax/Codrut-Animation-Lib)|Codruts Animation Library|4|2024-07-22|2024-03-01|
+|181|[TonyStone31/softcube](https://github.com/TonyStone31/softcube)|RubiksCube Simulator originally written with Delphi and converted to a Lazarus and Free Pascal project.  Translated from French to English.  Original code was obtained from https://codes-sources.comme ...|4|2024-04-04|2024-02-28|
+|182|[popolony2k/hinotori](https://github.com/popolony2k/hinotori)|Hinotori Library is the rebrand of PopolonY2k Framework  now moved to GitHub and open to community collaboration|4|2024-07-14|2024-02-18|
+|183|[zbyti/pikoban](https://github.com/zbyti/pikoban)|µSoukoban for Neo6502 retrocomputer|4|2024-04-10|2024-02-18|
+|184|[bnzbnz/JsonX2](https://github.com/bnzbnz/JsonX2)|Json Extended framework V2 for Delphi (VCL/FMX)|4|2024-04-21|2024-02-15|
+|185|[MaxiDonkey/DelphiMistralAI](https://github.com/MaxiDonkey/DelphiMistralAI)|The MistralAI API wrapper for Delphi utilizes the various advanced models developed by Mistral to provide robust capabilities for chat interactions, string embeddings, and precise code generation with ...|4|2024-07-11|2024-02-08|
+|186|[HemulGM/GameBoyFMX](https://github.com/HemulGM/GameBoyFMX)|GameBoy emulator. Delph, FMX. Crossplatform|4|2024-02-07|2024-02-07|
+|187|[paweld/simple-logger](https://github.com/paweld/simple-logger)|-|4|2024-02-10|2024-02-04|
+|188|[gladir/FREEBSD-0](https://github.com/gladir/FREEBSD-0)|Clone de FreeBSD écrit en Pascal|4|2024-02-07|2024-02-03|
+|189|[gladir/XENIX-0](https://github.com/gladir/XENIX-0)|Clone XENIX écrit en Pascal|4|2024-02-07|2024-02-01|
+|190|[Old-Butt-Gold/Task-Manager-CppBuilder](https://github.com/Old-Butt-Gold/Task-Manager-CppBuilder)|-|4|2024-07-09|2024-01-20|
+|191|[ProgrammingHobby/Cife](https://github.com/ProgrammingHobby/Cife)|the new CP/M Image-File Explorer|4|2024-07-21|2024-01-18|
+|192|[MasonGroup/Neshta.A](https://github.com/MasonGroup/Neshta.A)|-|4|2024-01-26|2024-01-18|
+|193|[MGuffin/xTranslator](https://github.com/MGuffin/xTranslator)|Text & translation editor for Skyrim, Fallout4 and Starfield mods|4|2024-05-25|2024-01-16|
+|194|[psychotimmy/aoc2023-cpm](https://github.com/psychotimmy/aoc2023-cpm)|Advent of Code 2023 - Turbo Pascal 3.01A, FTL Modula-2 1.30 CBASIC80 2.0 and Aztec C 1.06D under CP/M 2.2.|4|2024-04-08|2024-01-12|
+|195|[joemilc/sampleweb](https://github.com/joemilc/sampleweb)|Gerador de código para exportar um form Delphi VCL para D2Bridge|4|2024-02-09|2024-01-11|
+|196|[DelphiCreative/DelphiParseServer](https://github.com/DelphiCreative/DelphiParseServer)|-|4|2024-05-18|2024-01-08|
+|197|[gladir/CSV-TOOLS](https://github.com/gladir/CSV-TOOLS)|Ensemble d'outils pour le format CSV écrit en Pascal. |4|2024-01-23|2024-01-07|
+|198|[TobyAdd/GDH-Installer](https://github.com/TobyAdd/GDH-Installer)|Project that allows you to easily install GDH|4|2024-07-14|2024-01-02|
+|199|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
+|200|[ad1mt/Multi-Word-Int](https://github.com/ad1mt/Multi-Word-Int)|Library to provide multi-word (large) integers for the Free Pascal compiler.|4|2024-05-19|2023-11-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
