@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-07-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|953|2024-05-02|2023-11-12|
-|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|552|2024-06-12|2023-11-03|
-|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|388|2024-06-08|2023-10-25|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|955|2024-05-02|2023-11-12|
+|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|553|2024-06-12|2023-11-03|
+|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|391|2024-06-08|2023-10-25|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|384|2024-07-14|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |6|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
-|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|317|2024-07-01|2024-03-22|
+|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|318|2024-07-01|2024-03-22|
 |8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|311|2024-04-02|2023-08-28|
 |9|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |10|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|273|2024-04-04|2024-01-14|
 |11|[vishalparmarr/Leetcode-Questions](https://github.com/vishalparmarr/Leetcode-Questions)|Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)|265|2024-07-18|2023-11-23|
 |12|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
-|13|[Villen13/TikTokMultiTool](https://github.com/Villen13/TikTokMultiTool)|tiktok views bot 2024 /  tiktok view bot /  tiktok views / tiktok followers bot /  tiktok views bot / tiktok likes bot /  tiktok shares bot /  tiktok viewbot /  tiktok favorites bot / tiktok Comment b ...|249|2024-06-27|2024-06-26|
-|14|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |249|2024-07-24|2023-08-16|
+|13|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |250|2024-07-24|2023-08-16|
+|14|[Villen13/TikTokMultiTool](https://github.com/Villen13/TikTokMultiTool)|tiktok views bot 2024 /  tiktok view bot /  tiktok views / tiktok followers bot /  tiktok views bot / tiktok likes bot /  tiktok shares bot /  tiktok viewbot /  tiktok favorites bot / tiktok Comment b ...|249|2024-06-27|2024-06-26|
 |15|[dan4o12/Immunet-Activation](https://github.com/dan4o12/Immunet-Activation)|immunet-activation-download, free-immunet-activation, immunet-activation-2024, get-immunet-activation, get-immunet-activation-free, how-to-download-immunet-activation, immunet-installer, immunet-activ ...|242|2024-06-28|2024-06-28|
 |16|[Mosiab/Phoenix-OS-Activation](https://github.com/Mosiab/Phoenix-OS-Activation)|phoenix-os-download, activation-installer, free-phoenix-os, how-to-activate-phoenix-os, phoenix-os-2024, get-phoenix-os-free, 2024-phoenix-activation, download-phoenix-os-installer, activate-phoenix-o ...|233|2024-06-28|2024-06-28|
 |17|[ponner500/AMIDuOS-Activation](https://github.com/ponner500/AMIDuOS-Activation)|amidous-activation, amidous-download-free, amidous-2024-installer, how-to-activate-amidous, free-amidous-activation, download-amidous-2024, how-to-download-amidous-2024, amidous-free-download, amidous ...|223|2024-06-28|2024-06-28|
@@ -48,7 +48,7 @@
 |41|[Ntcorpse/Cyberpunk-2077-undetect-hack](https://github.com/Ntcorpse/Cyberpunk-2077-undetect-hack)|cyberpunk-2077-undetect-hack-tool, cyberpunk-2077-undetect-cheat, cyberpunk-2077-undetect-tool, cyberpunk-2077-hack-undetect-download, cyberpunk-2077-undetect-hack-free, cyberpunk-2077-undetect-hacks- ...|153|2024-06-28|2024-06-28|
 |42|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |43|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
-|44|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|149|2024-07-23|2023-12-30|
+|44|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|150|2024-07-26|2023-12-30|
 |45|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |46|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
 |47|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
@@ -58,7 +58,6 @@
 |51|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
 |52|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
 |53|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-06|2023-10-01|
-|54|[cv-rmvl/rmvl](https://github.com/cv-rmvl/rmvl)|RoboMaster Vision Library|63|2024-01-26|2023-08-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
