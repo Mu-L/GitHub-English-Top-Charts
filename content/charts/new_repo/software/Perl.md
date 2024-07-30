@@ -1,59 +1,59 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|220|2024-06-03|2024-01-11|
-|2|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|198|2024-03-10|2023-07-30|
-|3|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|185|2024-06-10|2024-04-08|
-|4|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|42|2024-06-15|2024-02-08|
-|5|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|35|2024-07-27|2024-07-10|
-|6|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|33|2024-07-07|2024-02-17|
-|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-07-27|2024-01-08|
-|8|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|22|2024-06-30|2023-08-08|
-|9|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
-|10|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|20|2024-06-03|2023-12-07|
-|11|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-06-26|2023-12-20|
-|12|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|16|2024-04-22|2024-03-13|
-|13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-05-23|2024-02-12|
-|14|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|16|2024-07-15|2023-11-06|
-|15|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|15|2024-07-16|2024-07-15|
-|16|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|15|2024-03-29|2024-02-22|
-|17|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-06-17|2023-09-21|
-|18|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|14|2024-03-21|2024-03-21|
-|19|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|14|2024-03-11|2024-01-26|
-|20|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|14|2024-04-22|2024-01-10|
-|21|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|14|2024-07-13|2023-09-09|
-|22|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|13|2024-05-28|2024-04-18|
-|23|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|13|2024-05-03|2024-02-10|
-|24|[uav4geo/Thermal-Tools](https://github.com/uav4geo/Thermal-Tools)|Convert DJI thermal images (RJPEG) into temperature TIFFs for use with WebODM. 🌡|12|2024-07-22|2024-07-07|
-|25|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|12|2024-07-26|2023-10-24|
-|26|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
-|27|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|11|2024-07-18|2023-11-02|
-|28|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
-|29|[mrstux/hybrid_fan_control](https://github.com/mrstux/hybrid_fan_control)|dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems|10|2024-05-15|2024-03-15|
-|30|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
-|31|[onemoredata/bagger](https://github.com/onemoredata/bagger)|Massive log storage in PostgreSQL|10|2024-06-09|2023-09-08|
-|32|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
-|33|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|9|2024-02-09|2024-02-06|
+|2|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|185|2024-06-10|2024-04-08|
+|3|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-06-15|2024-02-08|
+|4|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|36|2024-07-27|2024-07-10|
+|5|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|33|2024-07-07|2024-02-17|
+|6|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-07-29|2024-01-08|
+|7|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|22|2024-06-30|2023-08-08|
+|8|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
+|9|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|20|2024-06-03|2023-12-07|
+|10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-06-26|2023-12-20|
+|11|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|16|2024-04-22|2024-03-13|
+|12|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-05-23|2024-02-12|
+|13|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|16|2024-07-15|2023-11-06|
+|14|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|15|2024-07-16|2024-07-15|
+|15|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|15|2024-03-29|2024-02-22|
+|16|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-06-17|2023-09-21|
+|17|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|14|2024-03-21|2024-03-21|
+|18|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|14|2024-03-11|2024-01-26|
+|19|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|14|2024-04-22|2024-01-10|
+|20|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|14|2024-07-13|2023-09-09|
+|21|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|13|2024-05-28|2024-04-18|
+|22|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|13|2024-05-03|2024-02-10|
+|23|[uav4geo/Thermal-Tools](https://github.com/uav4geo/Thermal-Tools)|Convert DJI thermal images (RJPEG) into temperature TIFFs for use with WebODM. 🌡|12|2024-07-22|2024-07-07|
+|24|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|12|2024-07-26|2023-10-24|
+|25|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
+|26|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|11|2024-07-18|2023-11-02|
+|27|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
+|28|[mrstux/hybrid_fan_control](https://github.com/mrstux/hybrid_fan_control)|dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems|10|2024-05-15|2024-03-15|
+|29|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
+|30|[onemoredata/bagger](https://github.com/onemoredata/bagger)|Massive log storage in PostgreSQL|10|2024-06-09|2023-09-08|
+|31|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
+|32|[Danieleg82/AzureS2SVPN-Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)|-|9|2024-02-09|2024-02-06|
+|33|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|9|2024-07-26|2023-10-24|
 |34|[smtiitm/Fastspeech2_MFA](https://github.com/smtiitm/Fastspeech2_MFA)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|9|2024-02-09|2023-08-11|
 |35|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
 |36|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|8|2024-04-22|2024-01-02|
 |37|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|8|2024-04-18|2023-11-28|
-|38|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|8|2024-07-26|2023-10-24|
-|39|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-05-11|2023-10-13|
-|40|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|8|2024-04-01|2023-08-07|
-|41|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|7|2024-04-30|2024-04-30|
-|42|[chpc-tech-eval/chpc24-scc-nmu](https://github.com/chpc-tech-eval/chpc24-scc-nmu)|Competition instructions for the Center for High Performance Computing (CHPC) 2024 Student Cluster Compettion (SCC). Which is hosted by the National Integrated Cyber Infrastructure Systems (NICIS), a  ...|7|2024-07-11|2024-03-20|
-|43|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|7|2024-02-15|2024-02-14|
-|44|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|7|2024-07-10|2024-02-07|
-|45|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|7|2024-06-18|2023-12-04|
-|46|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
-|47|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-03-03|2023-09-24|
-|48|[saiftynet/Calendar](https://github.com/saiftynet/Calendar)|-|6|2024-07-27|2024-05-09|
-|49|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|6|2024-03-12|2023-12-06|
+|38|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-05-11|2023-10-13|
+|39|[n3tuk/scripts-mikrotik](https://github.com/n3tuk/scripts-mikrotik)|A set of scripts and Taskfile to build and manage RouterOS configuration scripts for mulitple routers and switches, including support for configuration storage in Vault.|8|2024-04-01|2023-08-07|
+|40|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|7|2024-04-30|2024-04-30|
+|41|[chpc-tech-eval/chpc24-scc-nmu](https://github.com/chpc-tech-eval/chpc24-scc-nmu)|Competition instructions for the Center for High Performance Computing (CHPC) 2024 Student Cluster Compettion (SCC). Which is hosted by the National Integrated Cyber Infrastructure Systems (NICIS), a  ...|7|2024-07-11|2024-03-20|
+|42|[chloe0524/perl_initiation](https://github.com/chloe0524/perl_initiation)|-|7|2024-02-15|2024-02-14|
+|43|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|7|2024-07-10|2024-02-07|
+|44|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|7|2024-06-18|2023-12-04|
+|45|[MetOffice/SimSys_Scripts](https://github.com/MetOffice/SimSys_Scripts)|Location to store development support scripts for deployment across sites and situations|7|2024-02-15|2023-09-27|
+|46|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-03-03|2023-09-24|
+|47|[saiftynet/Calendar](https://github.com/saiftynet/Calendar)|-|6|2024-07-28|2024-05-09|
+|48|[Tail-R/white_lemonade](https://github.com/Tail-R/white_lemonade)|openbox + lemonbar dotfiles|6|2024-03-12|2023-12-06|
+|49|[Bio2Byte/simsapiper](https://github.com/Bio2Byte/simsapiper)|A Nextflow pipeline that creates reliable, structure-informed MSAs of thousands of protein sequences which can supplement structural information from online resources automatically |6|2024-06-20|2023-11-30|
 |50|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|6|2024-05-22|2023-09-30|
 |51|[blaisebits/CobaltStrikeTools](https://github.com/blaisebits/CobaltStrikeTools)|-|5|2024-07-01|2024-05-23|
 |52|[S3N4T0R-0X0/Primitive-Bear-APT](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT)|This is a simulation of attack by (Primitive Bear) APT group targeting the State Migration Service of Ukraine |5|2024-05-26|2024-05-23|
@@ -64,17 +64,17 @@
 |57|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
 |58|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|5|2024-04-01|2024-03-31|
 |59|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|5|2024-05-06|2024-03-19|
-|60|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
-|61|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|5|2024-04-16|2023-08-15|
-|62|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-07-08|2024-06-26|
-|63|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
-|64|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
-|65|[ImKKingshuk/USBoverSSH](https://github.com/ImKKingshuk/USBoverSSH)|USBoverSSH - Seamlessly Connect USB Devices Over SSH! 🚀✨ Leverage the power of USBoverSSH to establish secure connections between USB devices and remote hosts. Effortlessly bridge the gap between loca ...|4|2024-06-15|2024-02-04|
+|60|[ImKKingshuk/USBoverSSH](https://github.com/ImKKingshuk/USBoverSSH)|USBoverSSH - Seamlessly Connect USB Devices Over SSH! 🚀✨ Leverage the power of USBoverSSH to establish secure connections between USB devices and remote hosts. Effortlessly bridge the gap between loca ...|5|2024-06-15|2024-02-04|
+|61|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
+|62|[ivanmrsulja/keepass2john](https://github.com/ivanmrsulja/keepass2john)|Convert KeePass (KDBX) password databases to John the Ripper format. Supports KeePass 1.x and 2.x formats while preserving encryption integrity.|5|2024-04-16|2023-08-15|
+|63|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-07-08|2024-06-26|
+|64|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
+|65|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
 |66|[nabertrand/lms-plugin-pandoradirect](https://github.com/nabertrand/lms-plugin-pandoradirect)|Pandora plugin for Logitech Media Server|4|2024-02-14|2024-02-03|
 |67|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK|4|2024-07-02|2024-01-19|
-|68|[Bio2Byte/simsapiper](https://github.com/Bio2Byte/simsapiper)|A Nextflow pipeline that creates reliable, structure-informed MSAs of thousands of protein sequences which can supplement structural information from online resources automatically |4|2024-06-20|2023-11-30|
-|69|[kfly8/bench-perl-class-builder](https://github.com/kfly8/bench-perl-class-builder)|Benchmarked new perl class feature with many class builders|4|2024-07-09|2023-08-11|
-|70|[01life/ViromeFlowX](https://github.com/01life/ViromeFlowX)|-|4|2024-04-08|2023-08-07|
+|68|[kfly8/bench-perl-class-builder](https://github.com/kfly8/bench-perl-class-builder)|Benchmarked new perl class feature with many class builders|4|2024-07-09|2023-08-11|
+|69|[01life/ViromeFlowX](https://github.com/01life/ViromeFlowX)|-|4|2024-04-08|2023-08-07|
+|70|[classilla/catbox](https://github.com/classilla/catbox)|Hey, Canon, look what I did to your "work processor."|3|2024-07-14|2024-07-14|
 |71|[Desbeers/ChordProMac](https://github.com/Desbeers/ChordProMac)|A SwiftUI wrapper for the ChordPro program|3|2024-07-22|2024-05-26|
 |72|[ethandicks/cbmsymbols](https://github.com/ethandicks/cbmsymbols)| Lists of ROM entry points and zero page addresses for various CBM 8-bit machines (PET, VIC-20, C64) generated directly from assembler listing files|3|2024-07-08|2024-05-22|
 |73|[rainer042/geteltorito](https://github.com/rainer042/geteltorito)|An El Torito boot image extractor|3|2024-06-04|2024-05-21|
@@ -138,10 +138,10 @@
 |131|[OpenIPC/majestic-webui](https://github.com/OpenIPC/majestic-webui)|Web interface for OpenIPC firmware.|2|2024-06-06|2024-02-16|
 |132|[rfht/gen-dist-tuple](https://github.com/rfht/gen-dist-tuple)|tool to generate DIST_TUPLE submodules information for OpenBSD ports|2|2024-02-24|2024-02-15|
 |133|[classilla/crap-x](https://github.com/classilla/crap-x)|I like my contrived assemblers sucky, thank you.|2|2024-02-11|2024-02-11|
-|134|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|2024-07-21|2024-01-25|
+|134|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|2024-07-28|2024-01-25|
 |135|[ashkl/aui-api](https://github.com/ashkl/aui-api)|Custom API for KLWP AUI phone live wallpaper|2|2024-05-30|2024-01-18|
 |136|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-07-10|2023-12-27|
-|137|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-07-27|2023-12-09|
+|137|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-07-29|2023-12-09|
 |138|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
 |139|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
 |140|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|
