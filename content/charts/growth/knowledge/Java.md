@@ -1,97 +1,97 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Java
-<sub>Updated: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-07-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[krahets/hello-algo](https://github.com/krahets/hello-algo)|《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing|90242|142|2024-07-29|
-|2|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Learn System Design concepts and prepare for interviews using free resources.|14398|52|2024-07-24|
-|3|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|88628|24|2024-07-23|
-|4|[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)|Learn Low Level Design (LLD) and prepare for interviews using free resources.|5849|23|2024-07-28|
-|5|[kdn251/interviews](https://github.com/kdn251/interviews)|Everything you need to know to get the job.|62904|23|2024-05-13|
-|6|[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)|All Algorithms implemented in Java|57860|20|2024-07-26|
-|7|[kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)|This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.|16295|15|2024-07-28|
-|8|[doocs/leetcode](https://github.com/doocs/leetcode)|🔥LeetCode solutions in any programming language   多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解|30097|14|2024-07-29|
-|9|[eugenp/tutorials](https://github.com/eugenp/tutorials)|Just Announced - "Learn Spring Security OAuth": |36369|9|2024-07-29|
-|10|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2837|8|2024-07-28|
-|11|[williamfiset/Algorithms](https://github.com/williamfiset/Algorithms)|A collection of algorithms and data structures|16872|6|2024-07-23|
-|12|[amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions)|Your Cheat Sheet For Android Interview - Android Interview Questions and Answers|11119|4|2024-07-16|
+|1|[krahets/hello-algo](https://github.com/krahets/hello-algo)|《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing|90448|142|2024-07-30|
+|2|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Learn System Design concepts and prepare for interviews using free resources.|14423|52|2024-07-24|
+|3|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|88701|24|2024-07-29|
+|4|[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)|Learn Low Level Design (LLD) and prepare for interviews using free resources.|5869|23|2024-07-28|
+|5|[kdn251/interviews](https://github.com/kdn251/interviews)|Everything you need to know to get the job.|62920|23|2024-05-13|
+|6|[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)|All Algorithms implemented in Java|57880|20|2024-07-29|
+|7|[kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)|This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.|16311|15|2024-07-30|
+|8|[doocs/leetcode](https://github.com/doocs/leetcode)|🔥LeetCode solutions in any programming language   多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解|30107|14|2024-07-30|
+|9|[eugenp/tutorials](https://github.com/eugenp/tutorials)|Just Announced - "Learn Spring Security OAuth": |36369|9|2024-07-30|
+|10|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|2841|8|2024-07-28|
+|11|[williamfiset/Algorithms](https://github.com/williamfiset/Algorithms)|A collection of algorithms and data structures|16882|6|2024-07-23|
+|12|[amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions)|Your Cheat Sheet For Android Interview - Android Interview Questions and Answers|11122|4|2024-07-16|
 |13|[google/auto](https://github.com/google/auto)|A collection of source code generators for Java.|10403|3|2024-07-23|
-|14|[android/testing-samples](https://github.com/android/testing-samples)|A collection of samples demonstrating different frameworks and techniques for automated testing|9153|3|2024-07-25|
-|15|[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)|Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.|9226|3|2024-07-29|
-|16|[ali-bouali/spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security)|Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6|1769|3|2024-07-01|
-|17|[amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)|A library for debugging android databases and shared preferences - Make Debugging Great Again|8384|3|2024-07-07|
-|18|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码|799|3|2024-07-29|
-|19|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|914|2|2024-07-18|
-|20|[apache/zeppelin](https://github.com/apache/zeppelin)|Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.|6336|2|2024-07-29|
-|21|[gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions)|The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok|212|2|2024-07-29|
-|22|[shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor)|Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion ...|3688|2|2024-05-20|
-|23|[checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi ...|8253|2|2024-07-29|
+|14|[android/testing-samples](https://github.com/android/testing-samples)|A collection of samples demonstrating different frameworks and techniques for automated testing|9155|3|2024-07-25|
+|15|[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)|Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.|9230|3|2024-07-30|
+|16|[ali-bouali/spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security)|Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6|1772|3|2024-07-01|
+|17|[amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)|A library for debugging android databases and shared preferences - Make Debugging Great Again|8383|3|2024-07-07|
+|18|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码|807|3|2024-07-30|
+|19|[darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)|Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners|917|2|2024-07-18|
+|20|[apache/zeppelin](https://github.com/apache/zeppelin)|Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.|6337|2|2024-07-30|
+|21|[gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions)|The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok|215|2|2024-07-30|
+|22|[shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor)|Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion ...|3689|2|2024-05-20|
+|23|[checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi ...|8254|2|2024-07-30|
 |24|[kevin-wayne/algs4](https://github.com/kevin-wayne/algs4)|Algorithms, 4th edition textbook code and libraries|7399|2|2024-03-18|
-|25|[FPSMasterTeam/FPSMaster](https://github.com/FPSMasterTeam/FPSMaster)|FPSMaster Client Open Source|83|2|2024-07-15|
-|26|[Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec)|a rep for documenting my study, may be from 0 to 0.1|1770|2|2024-07-26|
-|27|[haifengl/smile](https://github.com/haifengl/smile)|Statistical Machine Intelligence & Learning Engine|5985|2|2024-07-16|
+|25|[FPSMasterTeam/FPSMaster](https://github.com/FPSMasterTeam/FPSMaster)|FPSMaster Client Open Source|85|2|2024-07-15|
+|26|[Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec)|a rep for documenting my study, may be from 0 to 0.1|1771|2|2024-07-26|
+|27|[haifengl/smile](https://github.com/haifengl/smile)|Statistical Machine Intelligence & Learning Engine|5986|2|2024-07-16|
 |28|[swagger-api/swagger-core](https://github.com/swagger-api/swagger-core)|Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API|7365|2|2024-07-29|
 |29|[KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)|An implementation of tap targets from the Material Design guidelines for feature discovery.|5364|2|2024-07-25|
 |30|[amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)|RxJava 2 Android Examples - How to use RxJava 2 in Android|4960|2|2024-07-07|
 |31|[pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e)|An easy-to-learn/use static analysis framework for Java|1322|2|2024-07-11|
-|32|[in28minutes/master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot)|Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud|1209|2|2024-06-29|
+|32|[in28minutes/master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot)|Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud|1215|2|2024-06-29|
 |33|[thombergs/code-examples](https://github.com/thombergs/code-examples)|A collection of code examples from blog posts etc.|2616|1|2024-07-16|
-|34|[openaudible/openaudible](https://github.com/openaudible/openaudible)|Audiobook Manager for Audible Users|1531|1|2024-06-26|
-|35|[stacksimplify/aws-eks-kubernetes-masterclass](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass)|AWS EKS Kubernetes - Masterclass   DevOps, Microservices|1322|1|2024-05-24|
-|36|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|350|1|2024-07-27|
+|34|[openaudible/openaudible](https://github.com/openaudible/openaudible)|Audiobook Manager for Audible Users|1533|1|2024-07-29|
+|35|[stacksimplify/aws-eks-kubernetes-masterclass](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass)|AWS EKS Kubernetes - Masterclass   DevOps, Microservices|1323|1|2024-05-24|
+|36|[eazybytes/microservices](https://github.com/eazybytes/microservices)|Microservices With Spring, Docker, Kubernetes - Code Examples|351|1|2024-07-27|
 |37|[failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe)|Fault tolerance and resilience patterns for the JVM|4149|1|2024-06-09|
 |38|[PortSwigger/bambdas](https://github.com/PortSwigger/bambdas)|Bambdas collection for Burp Suite Professional and Community.|175|1|2024-07-23|
 |39|[balsikandar/Android-Studio-Plugins](https://github.com/balsikandar/Android-Studio-Plugins)|This is a list of all awesome and useful android studio plugins.|2223|1|2024-05-28|
 |40|[mahyoussef/ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns)|Mastering classical design patterns with practical examples in the ultimate design patterns bundle.|85|1|2024-07-27|
-|41|[zinggAI/zingg](https://github.com/zinggAI/zingg)|Scalable identity resolution, entity resolution, data mastering and deduplication using ML|925|1|2024-07-23|
+|41|[zinggAI/zingg](https://github.com/zinggAI/zingg)|Scalable identity resolution, entity resolution, data mastering and deduplication using ML|925|1|2024-07-30|
 |42|[SaiUpadhyayula/spring-boot-microservices](https://github.com/SaiUpadhyayula/spring-boot-microservices)|This repository contains the latest source code of th spring-boot-microservices tutorial|865|1|2024-04-06|
 |43|[asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX)|Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)|1865|1|2024-07-24|
 |44|[reneargento/algorithms-sedgewick-wayne](https://github.com/reneargento/algorithms-sedgewick-wayne)|Solutions to all the exercises of the Algorithms book by Robert Sedgewick and Kevin Wayne |2216|1|2024-05-21|
-|45|[awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)|Supplementary resources for the AWS Lambda Developer Guide|2469|1|2024-07-18|
-|46|[googlemaps-samples/android-samples](https://github.com/googlemaps-samples/android-samples)|Samples demonstrating how to use Maps SDK for Android|2400|1|2024-07-29|
-|47|[shradha-khapra/ApnaCollege-Alpha](https://github.com/shradha-khapra/ApnaCollege-Alpha)|Alpha - Java Placement Course|372|1|2024-05-23|
-|48|[CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer)|Coverage-guided, in-process fuzzing for the JVM|987|1|2024-04-24|
+|45|[awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)|Supplementary resources for the AWS Lambda Developer Guide|2470|1|2024-07-18|
+|46|[googlemaps-samples/android-samples](https://github.com/googlemaps-samples/android-samples)|Samples demonstrating how to use Maps SDK for Android|2401|1|2024-07-29|
+|47|[shradha-khapra/ApnaCollege-Alpha](https://github.com/shradha-khapra/ApnaCollege-Alpha)|Alpha - Java Placement Course|371|1|2024-05-23|
+|48|[CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer)|Coverage-guided, in-process fuzzing for the JVM|988|1|2024-04-24|
 |49|[piomin/sample-spring-microservices-new](https://github.com/piomin/sample-spring-microservices-new)|Demo for Spring Boot 3(`master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gat ...|1148|1|2024-07-28|
-|50|[gothinkster/spring-boot-realworld-example-app](https://github.com/gothinkster/spring-boot-realworld-example-app)|Example Spring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld API spec.|1278|1|2024-07-13|
+|50|[gothinkster/spring-boot-realworld-example-app](https://github.com/gothinkster/spring-boot-realworld-example-app)|Example Spring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld API spec.|1279|1|2024-07-13|
 |51|[hiteshchoudhary/React-native-projects](https://github.com/hiteshchoudhary/React-native-projects)|Learn React native with this free series on youtube (powered by Hashnode)|511|1|2024-06-30|
-|52|[fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode)|Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.|3736|1|2024-07-29|
+|52|[fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode)|Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.|3736|1|2024-07-30|
 |53|[vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples)|Vert.x examples|3524|1|2024-07-26|
-|54|[864381832/xJavaFxTool](https://github.com/864381832/xJavaFxTool)|基于JavaFx搭建的实用小工具集合，方便开发过程中的代码编写与调试，想学习javaFx的同学可以参考参考。其中包括文件复制、Cron表达式生成器、编码转换、加密解密、Time转换、路径转换、二维码生成工具、身份证生成器、正则表达式生成工具、网址缩短、转义字符、字符串转换、Mq调试工具、Http调试工具、json格式化编辑工具、图标生成工具、Redis连接工具、网页源码下载工具、切换Hosts工具 ...|1968|1|2024-07-19|
-|55|[halirutan/IntelliJ-Key-Promoter-X](https://github.com/halirutan/IntelliJ-Key-Promoter-X)|Modern IntelliJ plugin to learn shortcuts for buttons|3045|1|2024-07-19|
-|56|[RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial)|100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc|1712|1|2024-05-03|
+|54|[864381832/xJavaFxTool](https://github.com/864381832/xJavaFxTool)|基于JavaFx搭建的实用小工具集合，方便开发过程中的代码编写与调试，想学习javaFx的同学可以参考参考。其中包括文件复制、Cron表达式生成器、编码转换、加密解密、Time转换、路径转换、二维码生成工具、身份证生成器、正则表达式生成工具、网址缩短、转义字符、字符串转换、Mq调试工具、Http调试工具、json格式化编辑工具、图标生成工具、Redis连接工具、网页源码下载工具、切换Hosts工具 ...|1969|1|2024-07-19|
+|55|[halirutan/IntelliJ-Key-Promoter-X](https://github.com/halirutan/IntelliJ-Key-Promoter-X)|Modern IntelliJ plugin to learn shortcuts for buttons|3046|1|2024-07-19|
+|56|[RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial)|100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc|1713|1|2024-05-03|
 |57|[googlesamples/google-services](https://github.com/googlesamples/google-services)|A collection of quickstart samples demonstrating the Google APIs for Android and iOS|3039|1|2024-04-30|
-|58|[react-native-picker/picker](https://github.com/react-native-picker/picker)|Picker is a cross-platform UI component for selecting an item from a list of options.|1457|1|2024-06-20|
-|59|[RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API)|The API and the developer guide for Shizuku and Sui.|906|1|2024-06-16|
+|58|[react-native-picker/picker](https://github.com/react-native-picker/picker)|Picker is a cross-platform UI component for selecting an item from a list of options.|1457|1|2024-07-29|
+|59|[RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API)|The API and the developer guide for Shizuku and Sui.|907|1|2024-06-16|
 |60|[sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point)|This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala|955|1|2024-07-03|
-|61|[dapr/quickstarts](https://github.com/dapr/quickstarts)|Dapr quickstart code samples and tutorials showcasing core Dapr capabilities|1019|1|2024-07-29|
-|62|[xiaou61/xiaou-easyproject-backend](https://github.com/xiaou61/xiaou-easyproject-backend)|后端通用接口代码片段汇总|560|1|2024-07-29|
+|61|[dapr/quickstarts](https://github.com/dapr/quickstarts)|Dapr quickstart code samples and tutorials showcasing core Dapr capabilities|1019|1|2024-07-30|
+|62|[xiaou61/xiaou-easyproject-backend](https://github.com/xiaou61/xiaou-easyproject-backend)|后端通用接口代码片段汇总|559|1|2024-07-30|
 |63|[Baeldung/spring-security-registration](https://github.com/Baeldung/spring-security-registration)|Go further into "Learn Spring Security": |1625|1|2024-07-05|
 |64|[in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class)|Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops|2196|1|2024-04-20|
 |65|[amitshekhariitbhu/AndroidTensorFlowMachineLearningExample](https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample)|Android TensorFlow MachineLearning Example (Building TensorFlow for Android)|1432|1|2024-07-20|
-|66|[rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)|Tutorials for using RabbitMQ in various ways|6594|1|2024-07-28|
+|66|[rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)|Tutorials for using RabbitMQ in various ways|6598|1|2024-07-30|
 |67|[Baeldung/spring-security-oauth](https://github.com/Baeldung/spring-security-oauth)|Just Announced - "Learn Spring Security OAuth": |1981|1|2024-07-22|
 |68|[orientechnologies/orientdb](https://github.com/orientechnologies/orientdb)|OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr ...|4720|1|2024-07-29|
 |69|[LeonardoZ/java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns)|Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.|1520|1|2024-05-15|
-|70|[thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)|A repository that contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is t ...|972|1|2024-06-20|
-|71|[preslavmihaylov/booknotes](https://github.com/preslavmihaylov/booknotes)|A collection of my book notes on various subjects, mainly computer science|1804|1|2024-04-14|
+|70|[thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)|A repository that contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is t ...|974|1|2024-06-20|
+|71|[preslavmihaylov/booknotes](https://github.com/preslavmihaylov/booknotes)|A collection of my book notes on various subjects, mainly computer science|1806|1|2024-04-14|
 |72|[cchesser/java-perf-workshop](https://github.com/cchesser/java-perf-workshop)|Guided walkthrough to understand the performance aspects of a Java web service|61|0|2024-02-29|
 |73|[WomenWhoCode/wwcsf-backend-study-group](https://github.com/WomenWhoCode/wwcsf-backend-study-group)|WWCode Backend Study Group|68|0|2024-03-08|
 |74|[yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter)|Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)|650|0|2024-06-21|
 |75|[gradle/develocity-build-config-samples](https://github.com/gradle/develocity-build-config-samples)|Code samples that demonstrate how to customize your Develocity build configuration using Gradle, Maven, Bazel or sbt|65|0|2024-04-04|
-|76|[shashirajraja/Train-Ticket-Reservation-System](https://github.com/shashirajraja/Train-Ticket-Reservation-System)|This is the website build for searching the Train Schedule , Seat Availability, Train Timings, Fare Enquiry, Trains Between Stations and Booking seats online.|192|0|2024-07-16|
+|76|[shashirajraja/Train-Ticket-Reservation-System](https://github.com/shashirajraja/Train-Ticket-Reservation-System)|This is the website build for searching the Train Schedule , Seat Availability, Train Timings, Fare Enquiry, Trains Between Stations and Booking seats online.|193|0|2024-07-16|
 |77|[ray-project/mobius](https://github.com/ray-project/mobius)|Mobius is an AI infrastructure platform for distributed online learning, including online sample processing, training and serving.|86|0|2024-06-21|
 |78|[oripa/oripa](https://github.com/oripa/oripa)|ORIPA is a drawing software dedicated to designing the crease patterns of origami. The unique feature of ORIPA is calculation of the folded shape from the pattern.|227|0|2024-07-06|
 |79|[gmazza/blog-samples](https://github.com/gmazza/blog-samples)|Source code for the tutorials on my blog.|83|0|2024-05-27|
-|80|[WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook)|Wild Me's first product, Wildbook supports researchers by allowing collaboration across the globe and automation of photo ID matching|101|0|2024-07-29|
+|80|[WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook)|Wild Me's first product, Wildbook supports researchers by allowing collaboration across the globe and automation of photo ID matching|101|0|2024-07-30|
 |81|[charles-wangkai/leetcode](https://github.com/charles-wangkai/leetcode)|My LeetCode solutions|47|0|2024-04-01|
 |82|[ChaosAwakens/ChaosAwakens](https://github.com/ChaosAwakens/ChaosAwakens)|ChaosAwakens is a remaster of both the mod OreSpawn and the Chaos Awakens mod pack, built from the ground up.|56|0|2024-03-28|
 |83|[googleapis/sdk-platform-java](https://github.com/googleapis/sdk-platform-java)|Tooling and shared libraries for Cloud SDK for Java|57|0|2024-04-04|
 |84|[J1aM1ng/SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)|SDU-CS Course Material Sharing|130|0|2024-06-20|
-|85|[apache/camel-examples](https://github.com/apache/camel-examples)|Apache Camel Examples|396|0|2024-06-27|
+|85|[apache/camel-examples](https://github.com/apache/camel-examples)|Apache Camel Examples|397|0|2024-06-27|
 |86|[khoahd7621/oracle-certified-professional-java-se-17-practice](https://github.com/khoahd7621/oracle-certified-professional-java-se-17-practice)|Convert all contents in OCP Java SE 17 Developer book to markdown|53|0|2024-01-30|
-|87|[chtrembl/azure-cloud](https://github.com/chtrembl/azure-cloud)|Here you will find various Azure Demos & Tutorials that I've put together for Azure Cloud using DevOps, Container Services and other PaaS offerings.|114|0|2024-07-19|
+|87|[chtrembl/azure-cloud](https://github.com/chtrembl/azure-cloud)|Here you will find various Azure Demos & Tutorials that I've put together for Azure Cloud using DevOps, Container Services and other PaaS offerings.|115|0|2024-07-19|
 |88|[cicirello/Chips-n-Salsa](https://github.com/cicirello/Chips-n-Salsa)|A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms|51|0|2024-04-03|
 |89|[4ndrelim/data-structures-and-algorithms](https://github.com/4ndrelim/data-structures-and-algorithms)|This repository contains design and implementation of fundamental data structures and algorithms.|48|0|2024-03-29|
 |90|[jetty-project/embedded-jetty-websocket-examples](https://github.com/jetty-project/embedded-jetty-websocket-examples)|Embedded Jetty WebSocket Examples|185|0|2024-02-20|
@@ -105,18 +105,18 @@
 |98|[centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook)|Provides examples and code snippets for the JGit Java Git implementation|1749|0|2024-06-16|
 |99|[fisenkodv/dictum](https://github.com/fisenkodv/dictum)|💡 API to get access to the collection of the most inspiring expressions of mankind|159|0|2024-07-25|
 |100|[lwjglgamedev/lwjglbook](https://github.com/lwjglgamedev/lwjglbook)|Source code of the chapters of the book 3D Game Development with LWJGL 3|119|0|2024-07-18|
-|101|[apache/rocketmq-clients](https://github.com/apache/rocketmq-clients)|RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ|285|0|2024-07-29|
+|101|[apache/rocketmq-clients](https://github.com/apache/rocketmq-clients)|RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ|285|0|2024-07-30|
 |102|[Netflix/photon](https://github.com/Netflix/photon)|Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013|234|0|2024-06-26|
 |103|[atilsamancioglu/A01-MyFirstApp](https://github.com/atilsamancioglu/A01-MyFirstApp)|Android Course|96|0|2024-05-20|
 |104|[FederatedAI/FATE-Serving](https://github.com/FederatedAI/FATE-Serving)|A scalable,  high-performance serving system for federated learning models|135|0|2024-07-16|
 |105|[SonarSource/sonar-custom-rules-examples](https://github.com/SonarSource/sonar-custom-rules-examples)|Shows how to bootstrap a project to write custom rules for PHP, Python, Cobol, RPG|230|0|2024-06-05|
 |106|[YadaGiriReddy/HYR-Tutorials](https://github.com/YadaGiriReddy/HYR-Tutorials)|This repository is used for uploading the programs used in youtube video tutorials.|99|0|2024-07-06|
-|107|[spring-boot-in-practice/repo](https://github.com/spring-boot-in-practice/repo)|Spring Boot In Practice Book|226|0|2024-05-28|
+|107|[spring-boot-in-practice/repo](https://github.com/spring-boot-in-practice/repo)|Spring Boot In Practice Book|228|0|2024-05-28|
 |108|[allenai/science-parse](https://github.com/allenai/science-parse)|Science Parse parses scientific papers (in PDF form) and returns them in structured form.|602|0|2024-05-26|
 |109|[zhangyu345293721/leetcode](https://github.com/zhangyu345293721/leetcode)|java/python for leetcode:  1)  array，2)  list，3) string，4) hashtable，5) math，6) tree|82|0|2024-04-03|
 |110|[micronaut-projects/micronaut-spring](https://github.com/micronaut-projects/micronaut-spring)|A collection of utilities for Spring users of Micronaut|161|0|2024-07-24|
 |111|[patzly/doodle-android](https://github.com/patzly/doodle-android)|Colorful live wallpapers with auto dark mode and power-efficient animations|624|0|2024-02-05|
-|112|[JeremyTsaii/leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api)|API to retrieve LeetCode profile statistics|292|0|2024-03-13|
+|112|[JeremyTsaii/leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api)|API to retrieve LeetCode profile statistics|293|0|2024-03-13|
 |113|[saucelabs-training/demo-java](https://github.com/saucelabs-training/demo-java)|A repository containing examples using Java with Sauce Labs|101|0|2024-07-29|
 |114|[jaamsim/jaamsim](https://github.com/jaamsim/jaamsim)|Master repository for Jaamsim source code|152|0|2024-07-29|
 |115|[auth0-samples/auth0-spring-security5-api-sample](https://github.com/auth0-samples/auth0-spring-security5-api-sample)|Sample demonstrating how to secure your API using Spring Boot 2 and Spring Security 5|90|0|2024-07-25|
@@ -124,13 +124,13 @@
 |117|[aws-samples/serverless-snippets](https://github.com/aws-samples/serverless-snippets)|Snippets of code used for Serverless Development. Code examples hosted on serverlessland.com/snippets|126|0|2024-07-26|
 |118|[oracle/json-in-db](https://github.com/oracle/json-in-db)|Oracle Database JSON Examples|88|0|2024-05-16|
 |119|[Beta8397/virtual_robot](https://github.com/Beta8397/virtual_robot)|A 2D robot simulator to help beginners learn Java programming for FTC Robotics|104|0|2024-07-23|
-|120|[MegaMek/mekhq](https://github.com/MegaMek/mekhq)|MekHQ is a java helper program for the MegaMek game that allows users to load a list of entities from an XML file, perform repairs and customizations, and then save the new entities to another XML fil ...|128|0|2024-07-29|
+|120|[MegaMek/mekhq](https://github.com/MegaMek/mekhq)|MekHQ is a java helper program for the MegaMek game that allows users to load a list of entities from an XML file, perform repairs and customizations, and then save the new entities to another XML fil ...|128|0|2024-07-30|
 |121|[ijpb/MorphoLibJ](https://github.com/ijpb/MorphoLibJ)|Collection of  mathematical morphology methods and plugins for ImageJ|99|0|2024-07-25|
 |122|[asbnotebook/spring-boot](https://github.com/asbnotebook/spring-boot)|List of example codes related to spring boot. More details are available at : https://asbnotebook.com|110|0|2024-06-16|
 |123|[WDAqua/Qanary](https://github.com/WDAqua/Qanary)|Qanary a methodology to construct and share resources to build QA systems|54|0|2024-04-03|
 |124|[darbyluv2code/spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)|Source code for the course: Spring Boot Unit Testing|82|0|2024-05-18|
-|125|[neo4j/graph-data-science](https://github.com/neo4j/graph-data-science)|Source code for the Neo4j Graph Data Science library of graph algorithms.|602|0|2024-07-29|
-|126|[ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap)|Roadmap for Data Engineering|178|0|2024-06-20|
+|125|[neo4j/graph-data-science](https://github.com/neo4j/graph-data-science)|Source code for the Neo4j Graph Data Science library of graph algorithms.|602|0|2024-07-30|
+|126|[ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap)|Roadmap for Data Engineering|179|0|2024-06-20|
 |127|[labsai/EDDI](https://github.com/labsai/EDDI)|Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-nat ...|252|0|2024-07-10|
 |128|[nostra13/Android-Simple-Social-Sharing](https://github.com/nostra13/Android-Simple-Social-Sharing)|Reusable instrument for simple sharing with popular social networks (Facebook, Twiiter).|247|0|2024-05-17|
 |129|[douglascraigschmidt/CS891](https://github.com/douglascraigschmidt/CS891)|Contains examples and assignments for my CS 891 course at Vanderbilt University, which can be accessed via http://www.dre.vanderbilt.edu/~schmidt/cs891s.|47|0|2024-04-03|
@@ -153,15 +153,15 @@
 |146|[leifeld/dna](https://github.com/leifeld/dna)|Discourse Network Analyzer (DNA)|124|0|2024-07-22|
 |147|[stefanbirkner/system-lambda](https://github.com/stefanbirkner/system-lambda)|System Lambda is a collection of functions for testing code that uses java.lang.System|208|0|2024-04-08|
 |148|[forax/loom-fiber](https://github.com/forax/loom-fiber)|Continuation & Fiber examples using the OpenJDK project Loom prototype|115|0|2024-05-17|
-|149|[CodelyTV/java-ddd-example](https://github.com/CodelyTV/java-ddd-example)|♨️ DDD in Java skeleton & examples. Course:|412|0|2024-02-19|
+|149|[CodelyTV/java-ddd-example](https://github.com/CodelyTV/java-ddd-example)|♨️ DDD in Java skeleton & examples. Course:|414|0|2024-02-19|
 |150|[jcabi/jcabi-aspects](https://github.com/jcabi/jcabi-aspects)|Collection of AspectJ Java Aspects to facilitate aspect-oriented programming patterns: logging, caching, validating, etc.|524|0|2024-07-20|
 |151|[nimrod46/Data-Structures-and-Algorithms](https://github.com/nimrod46/Data-Structures-and-Algorithms)|My code solution for Andrei Neagoie's online udemy course "Master the Coding Interview: Data Structures + Algorithms"|440|0|2024-03-27|
-|152|[Sunchit/Coding-Decoded](https://github.com/Sunchit/Coding-Decoded)|LeetCode solutions |388|0|2024-05-10|
+|152|[Sunchit/Coding-Decoded](https://github.com/Sunchit/Coding-Decoded)|LeetCode solutions |389|0|2024-05-10|
 |153|[squirrel-sql-client/squirrel-sql-code](https://github.com/squirrel-sql-client/squirrel-sql-code)|Share of the SQuirreL SQL source code originating from SourceForge, see https://squirrelsql.org|53|0|2024-03-18|
 |154|[pH-7/Simple-Java-Calculator](https://github.com/pH-7/Simple-Java-Calculator)|:1234: Simple calculator is written in Java with Eclipse. This calculator is simple with an easy code to help novices learn how to operate a calculator.|216|0|2024-02-22|
 |155|[stacksimplify/aws-fargate-ecs-masterclass](https://github.com/stacksimplify/aws-fargate-ecs-masterclass)|AWS Fargate & Elastic Container Service Masterclass - Course|228|0|2024-05-16|
 |156|[FalsehoodMC/Fabrication](https://github.com/FalsehoodMC/Fabrication)|A huge collection of vanilla tweaks and small features for both Fabric and Forge.|114|0|2024-05-25|
-|157|[javalite/javalite](https://github.com/javalite/javalite)|JavaLite is a cohesive collection of frameworks designed from ground up to add pleasure back to your daily life|853|0|2024-07-24|
+|157|[javalite/javalite](https://github.com/javalite/javalite)|JavaLite is a cohesive collection of frameworks designed from ground up to add pleasure back to your daily life|853|0|2024-07-30|
 |158|[jmaciasluque/hello-lucene](https://github.com/jmaciasluque/hello-lucene)|Mavenized version of Kelvin Tan's example (http://www.lucenetutorial.com/lucene-in-5-minutes.html)|69|0|2024-02-22|
 |159|[aNNiMON/Own-Programming-Language-Tutorial](https://github.com/aNNiMON/Own-Programming-Language-Tutorial)|Source code for course "How to create your own programming language"|120|0|2024-07-23|
 |160|[IanDarwin/javasrc](https://github.com/IanDarwin/javasrc)|Ian's Collected code examples from the O'Reilly Java Cookbook & elsewhere|240|0|2024-07-28|
@@ -169,12 +169,12 @@
 |162|[spring-guides/gs-accessing-data-mysql](https://github.com/spring-guides/gs-accessing-data-mysql)|Accessing data with MySQL :: Learn how to set up and manage user accounts on MySQL and how to configure Spring Boot to connect to it at runtime.|192|0|2024-06-20|
 |163|[oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM)|Examples and Tutorials of Event Sourcing in JVM languages|262|0|2024-06-21|
 |164|[dev-GPT-4o/ChatGPT-4-Omni-release](https://github.com/dev-GPT-4o/ChatGPT-4-Omni-release)|Chatgpt 4 omni release GPT 4o / chatgpt-4 desktop version chchatgpt 4 download / darkgpt / chatgpt-desktop / chatgpt4 latest updating / chatgpt free version / chatgpt4 telegram / new chatgpt omni / ho ...|200|0|2024-05-14|
-|165|[in28minutes/MockitoTutorialForBeginners](https://github.com/in28minutes/MockitoTutorialForBeginners)|Mockito Tutorial for Beginners|631|0|2024-03-28|
+|165|[in28minutes/MockitoTutorialForBeginners](https://github.com/in28minutes/MockitoTutorialForBeginners)|Mockito Tutorial for Beginners|632|0|2024-03-28|
 |166|[redhat-cop/businessautomation-cop](https://github.com/redhat-cop/businessautomation-cop)|All examples related to business automation processes such as jbpm, drools, dmn, optaplanner, cloud native kogito(quarkus), quickstart, pipelines, runtimes, etc.|59|0|2024-02-22|
 |167|[GustikS/NeuraLogic](https://github.com/GustikS/NeuraLogic)|Deep relational learning through differentiable logic programming.|96|0|2024-07-23|
 |168|[optimatika/ojAlgo](https://github.com/optimatika/ojAlgo)|oj! Algorithms|459|0|2024-07-29|
 |169|[spring-guides/gs-scheduling-tasks](https://github.com/spring-guides/gs-scheduling-tasks)|Scheduling Tasks :: Learn how to schedule tasks with Spring.|124|0|2024-06-28|
-|170|[OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT)|Learning Management System OpenOlat|307|0|2024-07-29|
+|170|[OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT)|Learning Management System OpenOlat|307|0|2024-07-30|
 |171|[ozlerhakan/poiji](https://github.com/ozlerhakan/poiji)|:candy: A library converting XLS and XLSX files to a list of Java objects based on Apache POI|461|0|2024-04-22|
 |172|[line/armeria-examples](https://github.com/line/armeria-examples)|Armeria examples|136|0|2024-06-12|
 |173|[wimdeblauwe/spring-boot-building-api-backend](https://github.com/wimdeblauwe/spring-boot-building-api-backend)|Code of the 'Practical Guide to Building an API Back End with Spring Boot' book|127|0|2024-04-02|
@@ -186,16 +186,16 @@
 |179|[kon3ktor/complete-java-course](https://github.com/kon3ktor/complete-java-course)|Zero to Hero - Master Java with practical examples|96|0|2024-06-03|
 |180|[iamaishwaryasoni/AES_password_manager](https://github.com/iamaishwaryasoni/AES_password_manager)|A password manager that uses AES encryption to securely store and retrieve passwords. The master password is used to derive encryption keys.|56|0|2024-02-27|
 |181|[Yanndroid/DualWallpaper](https://github.com/Yanndroid/DualWallpaper)|Customize your device even more by having two separate sets of wallpapers for light and dark mode.|99|0|2024-04-24|
-|182|[darbyluv2code/spring-and-hibernate-for-beginners](https://github.com/darbyluv2code/spring-and-hibernate-for-beginners)|Source code for the course: Spring and Hibernate for Beginners|807|0|2024-05-18|
+|182|[darbyluv2code/spring-and-hibernate-for-beginners](https://github.com/darbyluv2code/spring-and-hibernate-for-beginners)|Source code for the course: Spring and Hibernate for Beginners|806|0|2024-05-18|
 |183|[Wikidata/Wikidata-Toolkit-Examples](https://github.com/Wikidata/Wikidata-Toolkit-Examples)|Examples showing how to use Wikidata Toolkit as a Maven library in your project|48|0|2024-02-27|
 |184|[QuickBlox/quickblox-android-sdk](https://github.com/QuickBlox/quickblox-android-sdk)|QuickBlox Android SDK includes code snippets with main use cases and framework JAR library.|419|0|2024-06-26|
 |185|[vladmihalcea/high-performance-java-persistence](https://github.com/vladmihalcea/high-performance-java-persistence)|The High-Performance Java Persistence book and video course code examples|1273|0|2024-07-27|
 |186|[MyScript/interactive-ink-examples-android](https://github.com/MyScript/interactive-ink-examples-android)|:pencil2: MyScript Interactive Ink examples and user interface reference implementation for Android platform.|71|0|2024-04-04|
 |187|[michael-simons/goodreads](https://github.com/michael-simons/goodreads)|A collection of articles, books and quotes that may help to become a better developer|62|0|2024-03-31|
 |188|[lucko/helper](https://github.com/lucko/helper)|A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.|451|0|2024-06-21|
-|189|[adaa-polsl/RuleKit](https://github.com/adaa-polsl/RuleKit)|Comprehensive suite for rule-based learning |132|0|2024-07-29|
+|189|[adaa-polsl/RuleKit](https://github.com/adaa-polsl/RuleKit)|Comprehensive suite for rule-based learning |132|0|2024-07-30|
 |190|[amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things)|A curated list of awesome android things tutorials, libraries and much more at one place|961|0|2024-07-20|
-|191|[resteasy/resteasy-examples](https://github.com/resteasy/resteasy-examples)|RESTEasy examples|139|0|2024-07-29|
+|191|[resteasy/resteasy-examples](https://github.com/resteasy/resteasy-examples)|RESTEasy examples|139|0|2024-07-30|
 |192|[spring-guides/gs-messaging-jms](https://github.com/spring-guides/gs-messaging-jms)|Messaging with JMS :: Learn how to publish and subscribe to messages using a JMS broker.|90|0|2024-07-23|
 |193|[jlizier/jidt](https://github.com/jlizier/jidt)|JIDT: Java Information Dynamics Toolkit for studying information-theoretic measures of computation in complex systems|253|0|2024-07-29|
 |194|[vogellacompany/eclipse_rcp_example](https://github.com/vogellacompany/eclipse_rcp_example)|Eclipse 4 Book|83|0|2024-06-07|
