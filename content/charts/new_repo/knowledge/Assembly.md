@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,27 +27,28 @@
 |20|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|2024-02-22|2024-02-20|
 |21|[NhomNhom0/NadToTetrist](https://github.com/NhomNhom0/NadToTetrist)|A hands-on journey through computer science basics Course. Starting with logic gates, learners progress through modules covering digital logic, programming, and system design. Through practical projec ...|4|2024-02-14|2024-02-13|
 |22|[miruchigawa/my-learn-asm-arm64](https://github.com/miruchigawa/my-learn-asm-arm64)|This repository contains my learning outcomes in studying ARM 64 assembly. It may serve as a reference for all of you.|4|2024-02-29|2023-12-26|
-|23|[grubbyplaya/Pac-Man-Museum-CE](https://github.com/grubbyplaya/Pac-Man-Museum-CE)|Collection of Pac-Man ports for the TI-84+ CE|3|2024-07-12|2024-06-13|
-|24|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
-|25|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern variants of Lempel-Ziv style compression targeting the Super Famicom/Nintendo system.|3|2024-05-15|2024-03-30|
-|26|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
-|27|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
-|28|[BogdanKlimov11/Assembler_course](https://github.com/BogdanKlimov11/Assembler_course)|Assembly programming course. Syntax and features of the language. Basic algorithms and structures in this language. And also a lot of other interesting things.|3|2024-03-28|2024-03-03|
-|29|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-04-14|2024-02-10|
-|30|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
-|31|[Musxeto/ArcadeOS](https://github.com/Musxeto/ArcadeOS)|ArcadeOS is a bootable operating system developed in assembly language, created as a project for the 3rd Semester Assembly Language course. It offers a minimalist CLI and classic text-based arcade gam ...|3|2024-03-14|2024-01-20|
-|32|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|3|2024-01-31|2024-01-10|
-|33|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|2023-10-31|
-|34|[maxim-zhao/sms-vgm-player](https://github.com/maxim-zhao/sms-vgm-player)|VGM player for the Sega Master System|3|2024-03-26|2023-10-30|
-|35|[VladikNeVladik/hse-algorithms-seminars](https://github.com/VladikNeVladik/hse-algorithms-seminars)|Code snippets used in course "Algorithms and algorithmic languages" teached in HSE|3|2024-06-01|2023-09-06|
-|36|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|2024-05-13|
-|37|[Computermann8086/x86-Harddisk-MBR](https://github.com/Computermann8086/x86-Harddisk-MBR)|This is a 136 byte long MBR, Master Boot Record, for harddisks.|2|2024-04-04|2024-03-20|
-|38|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-21|2024-03-05|
-|39|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|2024-02-27|
-|40|[ismailbabacann/assembly-programming-emu8086](https://github.com/ismailbabacann/assembly-programming-emu8086)|Microcontroller Programming Course Exercises Akdeniz University CSE213 |2|2024-02-12|2024-01-29|
-|41|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|2024-01-14|
-|42|[Allard-Chris/SMS_Snake_Game](https://github.com/Allard-Chris/SMS_Snake_Game)|A Sega Master System Snake Game|2|2024-01-29|2023-12-20|
-|43|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|2024-04-05|2023-10-27|
+|23|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-29|2024-07-29|
+|24|[grubbyplaya/Pac-Man-Museum-CE](https://github.com/grubbyplaya/Pac-Man-Museum-CE)|Collection of Pac-Man ports for the TI-84+ CE|3|2024-07-12|2024-06-13|
+|25|[winterrdog/x86-bootloader](https://github.com/winterrdog/x86-bootloader)|A hobby project to learn how to make a bootloader. Written in C and x86 Assembly|3|2024-05-02|2024-04-27|
+|26|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
+|27|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern variants of Lempel-Ziv style compression targeting the Super Famicom/Nintendo system.|3|2024-05-15|2024-03-30|
+|28|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
+|29|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
+|30|[BogdanKlimov11/Assembler_course](https://github.com/BogdanKlimov11/Assembler_course)|Assembly programming course. Syntax and features of the language. Basic algorithms and structures in this language. And also a lot of other interesting things.|3|2024-03-28|2024-03-03|
+|31|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-04-14|2024-02-10|
+|32|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|2024-02-26|2024-02-05|
+|33|[Musxeto/ArcadeOS](https://github.com/Musxeto/ArcadeOS)|ArcadeOS is a bootable operating system developed in assembly language, created as a project for the 3rd Semester Assembly Language course. It offers a minimalist CLI and classic text-based arcade gam ...|3|2024-03-14|2024-01-20|
+|34|[neuropython/Assembler](https://github.com/neuropython/Assembler)|Repository where i am storing my microcontrollers course solution|3|2024-01-31|2024-01-10|
+|35|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|2023-10-31|
+|36|[maxim-zhao/sms-vgm-player](https://github.com/maxim-zhao/sms-vgm-player)|VGM player for the Sega Master System|3|2024-03-26|2023-10-30|
+|37|[VladikNeVladik/hse-algorithms-seminars](https://github.com/VladikNeVladik/hse-algorithms-seminars)|Code snippets used in course "Algorithms and algorithmic languages" teached in HSE|3|2024-06-01|2023-09-06|
+|38|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|2024-05-13|
+|39|[Computermann8086/x86-Harddisk-MBR](https://github.com/Computermann8086/x86-Harddisk-MBR)|This is a 136 byte long MBR, Master Boot Record, for harddisks.|2|2024-04-04|2024-03-20|
+|40|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-21|2024-03-05|
+|41|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|2024-02-27|
+|42|[ismailbabacann/assembly-programming-emu8086](https://github.com/ismailbabacann/assembly-programming-emu8086)|Microcontroller Programming Course Exercises Akdeniz University CSE213 |2|2024-02-12|2024-01-29|
+|43|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|2024-01-14|
+|44|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|2024-04-05|2023-10-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
