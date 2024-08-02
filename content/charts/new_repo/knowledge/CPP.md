@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -56,7 +56,7 @@
 |49|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|117|2024-04-05|2024-03-20|
 |50|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
 |51|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
-|52|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for range-based SLAM|111|2024-07-30|2024-06-24|
+|52|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for range-based SLAM|112|2024-07-30|2024-06-24|
 |53|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|109|2024-07-28|2024-03-06|
 |54|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-06|2023-10-01|
 

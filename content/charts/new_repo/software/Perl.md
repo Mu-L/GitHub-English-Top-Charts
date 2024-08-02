@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|220|2024-07-31|2024-01-11|
+|1|[bagder/emails](https://github.com/bagder/emails)|emails I received|221|2024-07-31|2024-01-11|
 |2|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|185|2024-06-10|2024-04-08|
 |3|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-06-15|2024-02-08|
 |4|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|36|2024-07-27|2024-07-10|
 |5|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|33|2024-07-07|2024-02-17|
-|6|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-07-31|2024-01-08|
+|6|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|25|2024-08-01|2024-01-08|
 |7|[kamichikoichi/jigmo](https://github.com/kamichikoichi/jigmo)|CJKV free fonts|22|2024-06-30|2023-08-08|
 |8|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
 |9|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|20|2024-06-03|2023-12-07|
-|10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-06-26|2023-12-20|
+|10|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
 |11|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|17|2024-07-15|2023-11-06|
 |12|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|16|2024-04-22|2024-03-13|
 |13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|16|2024-05-23|2024-02-12|
 |14|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|15|2024-07-16|2024-07-15|
-|15|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|15|2024-03-29|2024-02-22|
+|15|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|15|2024-08-01|2024-02-22|
 |16|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-06-17|2023-09-21|
 |17|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|14|2024-03-21|2024-03-21|
 |18|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|14|2024-03-11|2024-01-26|
@@ -68,7 +68,7 @@
 |61|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|5|2024-05-06|2024-03-19|
 |62|[ImKKingshuk/USBoverSSH](https://github.com/ImKKingshuk/USBoverSSH)|USBoverSSH - Seamlessly Connect USB Devices Over SSH! 🚀✨ Leverage the power of USBoverSSH to establish secure connections between USB devices and remote hosts. Effortlessly bridge the gap between loca ...|5|2024-06-15|2024-02-04|
 |63|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
-|64|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-07-08|2024-06-26|
+|64|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-08-01|2024-06-26|
 |65|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
 |66|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
 |67|[nabertrand/lms-plugin-pandoradirect](https://github.com/nabertrand/lms-plugin-pandoradirect)|Pandora plugin for Logitech Media Server|4|2024-02-14|2024-02-03|
@@ -112,7 +112,7 @@
 |105|[Ovid/cyclonedx-parser](https://github.com/Ovid/cyclonedx-parser)|A parser for version 1.5 of the CycloneDX SBOM spec|3|2024-04-19|2023-08-21|
 |106|[ariDevelops/File-Composer](https://github.com/ariDevelops/File-Composer)|A simple boilerplate engine|3|2024-05-28|2023-08-15|
 |107|[leo19941227/speech_metrics](https://github.com/leo19941227/speech_metrics)|Some common metrics used in speech|2|2024-07-23|2024-07-23|
-|108|[friguzzi/lp4kg](https://github.com/friguzzi/lp4kg)|Logic Programming for Knowledge Graphs|2|2024-07-31|2024-07-23|
+|108|[friguzzi/lp4kg](https://github.com/friguzzi/lp4kg)|Logic Programming for Knowledge Graphs|2|2024-08-01|2024-07-23|
 |109|[rgriebl/rssanalyze](https://github.com/rgriebl/rssanalyze)|A tool to break down and print information about the memory mappings in a Linux process.|2|2024-07-15|2024-07-09|
 |110|[wq-ls/Self-use-bioinformatics-scripts](https://github.com/wq-ls/Self-use-bioinformatics-scripts)|Daily usage script recording|2|2024-07-20|2024-07-05|
 |111|[GCorradoMMS/OpenMALBackup](https://github.com/GCorradoMMS/OpenMALBackup)|Backup script for your MyAnimeList account.|2|2024-06-24|2024-06-24|
@@ -143,22 +143,22 @@
 |136|[classilla/crap-x](https://github.com/classilla/crap-x)|I like my contrived assemblers sucky, thank you.|2|2024-02-11|2024-02-11|
 |137|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|2024-07-28|2024-01-25|
 |138|[ashkl/aui-api](https://github.com/ashkl/aui-api)|Custom API for KLWP AUI phone live wallpaper|2|2024-05-30|2024-01-18|
-|139|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-07-10|2023-12-27|
-|140|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-07-31|2023-12-09|
-|141|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
-|142|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
-|143|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|
-|144|[Pa3u3u/tea](https://github.com/Pa3u3u/tea)|A script that displays progress of a timer via notify-send, intended for tea brewing|2|2024-03-27|2023-11-12|
-|145|[YSHebron/scl-bioinfo](https://github.com/YSHebron/scl-bioinfo)|A bioinformatics project that aims to augment, extend, and integrate computational methods for predicting problematic Protein Complexes from noisy PPINs and improve their performance.|2|2024-07-03|2023-11-08|
-|146|[oyed/dotfiles](https://github.com/oyed/dotfiles)|arch btw|2|2024-06-03|2023-11-04|
-|147|[oushujun/Maize_TE_Protocol](https://github.com/oushujun/Maize_TE_Protocol)|A repository to host scripts created for maize TE annotation protocols|2|2024-06-18|2023-11-03|
-|148|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-06-22|2023-10-17|
-|149|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2024-05-03|2023-10-03|
-|150|[w1ldc4rd-w1z4rd/minimalist-magic](https://github.com/w1ldc4rd-w1z4rd/minimalist-magic)|Perl package, "mm", offering a suite of subroutines for streamlined command-line tasks, from colored printing to OpenAI API integration.|2|2024-03-18|2023-09-18|
-|151|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-05-14|2023-09-07|
-|152|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
-|153|[ilv/vx](https://github.com/ilv/vx)|vx experiments|2|2024-07-29|2023-08-10|
-|154|[jjatria/perl-opentelemetry-exporter-otlp](https://github.com/jjatria/perl-opentelemetry-exporter-otlp)|An OpenTelemetry Protocol span exporter|2|2024-07-18|2023-08-02|
+|139|[malleVF/Use-Case-Catalogue](https://github.com/malleVF/Use-Case-Catalogue)|MITRE ATT&CK, SIGMA and Atomic Red Testing|2|2024-07-31|2024-01-01|
+|140|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-07-10|2023-12-27|
+|141|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-08-01|2023-12-09|
+|142|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
+|143|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
+|144|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-02-19|2023-11-22|
+|145|[Pa3u3u/tea](https://github.com/Pa3u3u/tea)|A script that displays progress of a timer via notify-send, intended for tea brewing|2|2024-03-27|2023-11-12|
+|146|[YSHebron/scl-bioinfo](https://github.com/YSHebron/scl-bioinfo)|A bioinformatics project that aims to augment, extend, and integrate computational methods for predicting problematic Protein Complexes from noisy PPINs and improve their performance.|2|2024-07-03|2023-11-08|
+|147|[oyed/dotfiles](https://github.com/oyed/dotfiles)|arch btw|2|2024-06-03|2023-11-04|
+|148|[oushujun/Maize_TE_Protocol](https://github.com/oushujun/Maize_TE_Protocol)|A repository to host scripts created for maize TE annotation protocols|2|2024-06-18|2023-11-03|
+|149|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|2|2024-06-22|2023-10-17|
+|150|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2024-05-03|2023-10-03|
+|151|[w1ldc4rd-w1z4rd/minimalist-magic](https://github.com/w1ldc4rd-w1z4rd/minimalist-magic)|Perl package, "mm", offering a suite of subroutines for streamlined command-line tasks, from colored printing to OpenAI API integration.|2|2024-03-18|2023-09-18|
+|152|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-05-14|2023-09-07|
+|153|[xinnnluuu/sci_bioinformatics_script](https://github.com/xinnnluuu/sci_bioinformatics_script)|-|2|2024-02-06|2023-08-29|
+|154|[ilv/vx](https://github.com/ilv/vx)|vx experiments|2|2024-07-29|2023-08-10|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
