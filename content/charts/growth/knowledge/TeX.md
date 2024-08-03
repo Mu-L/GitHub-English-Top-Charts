@@ -1,45 +1,45 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > TeX
-<sub>Updated: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|7419|7|2024-07-21|
+|1|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|7425|7|2024-07-21|
 |2|[awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)|A curated list of awesome neural radiance fields papers|6374|5|2024-07-03|
 |3|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1480|4|2024-04-02|
-|4|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3876|4|2024-04-13|
-|5|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|11721|4|2024-03-26|
+|4|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3877|4|2024-04-13|
+|5|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|11724|4|2024-03-26|
 |6|[hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework)|Open source book dedicated to helping you to make the best possible sourdough bread at home.|2577|3|2024-07-31|
-|7|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|283|2|2024-07-12|
-|8|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|711|2|2024-07-31|
-|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.|5736|2|2024-07-15|
-|10|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|673|2|2024-07-14|
-|11|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|104|2|2024-07-23|
+|7|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|284|2|2024-07-12|
+|8|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|715|2|2024-07-31|
+|9|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.|5739|2|2024-07-15|
+|10|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|675|2|2024-07-14|
+|11|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|107|2|2024-07-23|
 |12|[yun-long/Foundations-of-Robotics](https://github.com/yun-long/Foundations-of-Robotics)|Learn fundamental knowledge in robotics |175|2|2024-06-16|
-|13|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|2034|2|2024-08-01|
+|13|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|2035|2|2024-08-01|
 |14|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|90|1|2024-08-01|
-|15|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|190|1|2024-07-12|
-|16|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|298|1|2024-07-29|
+|15|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|191|1|2024-07-12|
+|16|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|298|1|2024-08-02|
 |17|[avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto)|Bayesian Data Analysis course at Aalto|2137|1|2024-05-15|
-|18|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|99|1|2024-07-03|
-|19|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |155|1|2024-07-21|
+|18|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|101|1|2024-07-03|
+|19|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |156|1|2024-07-21|
 |20|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2333|1|2024-05-11|
 |21|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|118|1|2024-03-31|
 |22|[liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview)|A middle-to-high level open source algorithm book designed with coding interview at heart!|2086|1|2024-02-27|
-|23|[ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing)|A comprehensive list [SAMRS@NeurIPS'23, RVSA@TGRS'22, RSP@TGRS'22] of our research works related to remote sensing, including papers, codes, and citations. Note: The repo for [TGRS'22] "An Empirical S ...|444|1|2024-06-06|
-|24|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1613|1|2024-07-29|
-|25|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1297|1|2024-07-31|
-|26|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|852|1|2024-07-14|
+|23|[ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing)|A comprehensive list [SAMRS@NeurIPS'23, RVSA@TGRS'22, RSP@TGRS'22] of our research works related to remote sensing, including papers, codes, and citations. Note: The repo for [TGRS'22] "An Empirical S ...|445|1|2024-06-06|
+|24|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1614|1|2024-07-29|
+|25|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1299|1|2024-07-31|
+|26|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|856|1|2024-08-02|
 |27|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Functional Algorithms and Data structures|6029|1|2024-06-13|
-|28|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|640|1|2024-05-20|
-|29|[HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)|The Standard Algorithms in C++.|958|1|2024-02-16|
-|30|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1852|1|2024-08-01|
-|31|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|2856|1|2024-08-01|
+|28|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|641|1|2024-05-20|
+|29|[HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)|The Standard Algorithms in C++.|960|1|2024-02-16|
+|30|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1852|1|2024-08-02|
+|31|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|2857|1|2024-08-01|
 |32|[jorainer/SpectraTutorials](https://github.com/jorainer/SpectraTutorials)|These workshops and tutorials provide use cases and examples for mass spectrometry data handling and analysis using the Spectra Bioconductor package.|18|0|2024-05-17|
 |33|[ContextLab/CDL-bibliography](https://github.com/ContextLab/CDL-bibliography)|Bibtex file shared by the Contextual Dynamics Lab at Dartmouth College|7|0|2024-07-22|
 |34|[eurec4a/how_to_eurec4a](https://github.com/eurec4a/how_to_eurec4a)|Code examples to get you started with EUREC⁴A data.|6|0|2024-05-15|
-|35|[hughplay/Visual-Reasoning-Papers](https://github.com/hughplay/Visual-Reasoning-Papers)|📄 A curated list of visual reasoning papers.|19|0|2024-08-01|
+|35|[hughplay/Visual-Reasoning-Papers](https://github.com/hughplay/Visual-Reasoning-Papers)|📄 A curated list of visual reasoning papers.|20|0|2024-08-01|
 |36|[kuriwaki/cces_cumulative](https://github.com/kuriwaki/cces_cumulative)|Building a cumulative file (2006 - 2023) for the Cooperative Congressional Election Study|15|0|2024-06-17|
 |37|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|57|0|2024-06-05|
 |38|[MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit](https://github.com/MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit)|Dieses Projekt soll dazu dienen, eine Vorlage für Seminar-, Bachelor- oder Masterarbeiten, die an der Hochschule Bonn-Rhein-Sieg verfasst werden, gemeinschaftlich zu erarbeiten und zu verbessern.|11|0|2024-07-28|
@@ -48,7 +48,7 @@
 |41|[Mjrovai/XIAO_Big_Power_Small_Board-ebook](https://github.com/Mjrovai/XIAO_Big_Power_Small_Board-ebook)|Mastering Arduino and TinyML|5|0|2024-05-12|
 |42|[Omikhleia/awesome-sile-books](https://github.com/Omikhleia/awesome-sile-books)|Sources for test books ready-to-compile with SILE|11|0|2024-07-31|
 |43|[kdd-milets/kdd-milets.github.io](https://github.com/kdd-milets/kdd-milets.github.io)|KDD Workshop on Mining and Learning From Time Series (MileTS)|9|0|2024-07-28|
-|44|[domenicozambella/creche](https://github.com/domenicozambella/creche)|A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory|7|0|2024-08-01|
+|44|[domenicozambella/creche](https://github.com/domenicozambella/creche)|A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory|7|0|2024-08-02|
 |45|[CSSE6400/software-architecture](https://github.com/CSSE6400/software-architecture)|Software architecture course materials|20|0|2024-05-21|
 |46|[aflaag-notes/algorithms](https://github.com/aflaag-notes/algorithms)|My Algorithms II notes.|6|0|2024-02-09|
 |47|[orochi-network/orochi-network.github.io](https://github.com/orochi-network/orochi-network.github.io)|Zero-Knowledge Proof Cookbook|6|0|2024-07-23|
@@ -82,9 +82,9 @@
 |75|[tigran123/urantia-study-edition](https://github.com/tigran123/urantia-study-edition)|The British Study Edition of the Urantia Papers (aka "The Urantia Book")|3|0|2024-04-25|
 |76|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|34|0|2024-05-28|
 |77|[DARTH-git/cohort-modeling-tutorial-timedep](https://github.com/DARTH-git/cohort-modeling-tutorial-timedep)|A Tutorial on Time-Dependent Cohort State-Transition Models in R|6|0|2024-07-31|
-|78|[SoftVarE-Group/BibTags](https://github.com/SoftVarE-Group/BibTags)|A collection of cleaned BibTeX entries and tags to be used with MibTeX|6|0|2024-08-01|
+|78|[SoftVarE-Group/BibTags](https://github.com/SoftVarE-Group/BibTags)|A collection of cleaned BibTeX entries and tags to be used with MibTeX|6|0|2024-08-02|
 |79|[svmiller/stevetemplates](https://github.com/svmiller/stevetemplates)|My collection of R Markdown templates, as an R package.|126|0|2024-05-07|
-|80|[OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic)|An open-source, customizable intermediate logic textbook|1027|0|2024-07-26|
+|80|[OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic)|An open-source, customizable intermediate logic textbook|1028|0|2024-07-26|
 |81|[hyphenation/tex-hyphen](https://github.com/hyphenation/tex-hyphen)|Hyphenation patterns for TeX|53|0|2024-07-13|
 |82|[yufree/metaworkflow](https://github.com/yufree/metaworkflow)|Online workflow guidelines for metabolomics|23|0|2024-04-25|
 |83|[GfellerLab/MetacellAnalysisTutorial](https://github.com/GfellerLab/MetacellAnalysisTutorial)|Tutorial on construction and analysis of metacells |4|0|2024-03-07|
@@ -104,7 +104,7 @@
 |97|[OSCA-source/OSCA.intro](https://github.com/OSCA-source/OSCA.intro)|Introduction to the OSCA book.|3|0|2024-06-25|
 |98|[ladnir/aby3](https://github.com/ladnir/aby3)|A Three Party MPC framework for Machine learning and Databases|191|0|2024-02-03|
 |99|[vtex-soft/texsupport.IOS-Book-Article](https://github.com/vtex-soft/texsupport.IOS-Book-Article)|Author support service for IOS Press books. For more information please visit|7|0|2024-03-29|
-|100|[caslab-code/qc-hardware-cybersecurity-bibtex](https://github.com/caslab-code/qc-hardware-cybersecurity-bibtex)|List of references for quantum computer hardware cybersecurity papers.|4|0|2024-07-31|
+|100|[caslab-code/qc-hardware-cybersecurity-bibtex](https://github.com/caslab-code/qc-hardware-cybersecurity-bibtex)|List of references for quantum computer hardware cybersecurity papers.|4|0|2024-08-02|
 |101|[ProfDavisSmith/QuestionsWeHave](https://github.com/ProfDavisSmith/QuestionsWeHave)|This is an Intro to Philosophy OER Textbook.|4|0|2024-05-31|
 |102|[lhbikos/ReC_Psychometrics](https://github.com/lhbikos/ReC_Psychometrics)|An open education resource with lessons and lectures about psychometrics, using R.|7|0|2024-06-10|
 |103|[KastnerRG/pp4fpgas](https://github.com/KastnerRG/pp4fpgas)|Parallel Programming for FPGAs -- An open-source high-level synthesis book|771|0|2024-05-15|
@@ -115,7 +115,7 @@
 |108|[kapelner/QC_MATH_342W_Spring_2024](https://github.com/kapelner/QC_MATH_342W_Spring_2024)|Course Homepage for Math 342W / 642 / RM 742 Fundamentals of Data Science at Queens College|7|0|2024-05-20|
 |109|[datasciencecampus/coding-in-the-open](https://github.com/datasciencecampus/coding-in-the-open)|A compendium of open-source guidance which aims to share the benefits, risks and a summarised strategy for open-source coding.|8|0|2024-07-03|
 |110|[NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)|西北工业大学硕博学位论文模版   Yet Another Thesis Template for Northwestern Polytechnical University|348|0|2024-07-16|
-|111|[BITNP/BIThesis](https://github.com/BITNP/BIThesis)|📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）|677|0|2024-07-25|
+|111|[BITNP/BIThesis](https://github.com/BITNP/BIThesis)|📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）|678|0|2024-07-25|
 |112|[yegor256/latex-best-practices](https://github.com/yegor256/latex-best-practices)|A short collection of LaTeX academic writing best practices: it's my personal taste, read it skeptically|17|0|2024-07-05|
 |113|[smith36j/Flawed-Proof-Bank](https://github.com/smith36j/Flawed-Proof-Bank)|A Resource Bank for Writing Intensive Mathematics Courses|3|0|2024-04-25|
 |114|[YBRua/CourseNotes](https://github.com/YBRua/CourseNotes)|Notes for different courses in SJTU|25|0|2024-06-02|
@@ -145,8 +145,8 @@
 |138|[PietroPrandini/GuitarHub](https://github.com/PietroPrandini/GuitarHub)|A guitar chords and lyrics booklet.|4|0|2024-02-24|
 |139|[PhilGeek/bib](https://github.com/PhilGeek/bib)|BibTeX file of philosophy papers|15|0|2024-07-31|
 |140|[JeremyDForsythe/icecream-tutorials](https://github.com/JeremyDForsythe/icecream-tutorials)|Tutorials for Earth from Above: Env 329  Using NASA Satellite Data (ECOSTRESS) for Real-Time Environmental Monitoring|3|0|2024-07-19|
-|141|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|123|0|2024-07-12|
-|142|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1656|0|2024-07-14|
+|141|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|124|0|2024-07-12|
+|142|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1658|0|2024-07-14|
 |143|[burakbayramli/classnotes](https://github.com/burakbayramli/classnotes)|ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lecture notes, tutorials on Linear Algebra, Computational Science, Computer Science ...|73|0|2024-07-29|
 |144|[tomfaulkenberry/courses](https://github.com/tomfaulkenberry/courses)|Course materials (syllabi, lecture notes, etc.)|4|0|2024-06-17|
 |145|[jorainer/xcmsTutorials](https://github.com/jorainer/xcmsTutorials)|Tutorials and workshops describing LC-MS(/MS) data pre-processing and analysis using the xcms Bioconductor package|5|0|2024-06-07|
