@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples)|Examples for using Pkl within JVM applications|57|2024-07-25|2024-01-19|
 |2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|28|2024-07-09|2024-02-21|
 |3|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|21|2024-07-17|2024-03-23|
-|4|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|20|2024-08-01|2024-05-28|
-|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|13|2024-07-23|2023-08-30|
+|4|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|20|2024-08-03|2024-05-28|
+|5|[gradle/cucumber-companion](https://github.com/gradle/cucumber-companion)|Maven & Gradle plugins providing convenient support for running Cucumber test directly from Maven/Gradle|13|2024-08-02|2023-08-30|
 |6|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |12|2024-04-15|2024-03-17|
 |7|[kangoolutions/CPI-Grafana-Monitor](https://github.com/kangoolutions/CPI-Grafana-Monitor)|Connect your SAP Cloud Integration Instance with Grafana Stack for improved Monitoring and Alerting|8|2024-07-28|2024-02-26|
 |8|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-29|2024-01-02|
@@ -36,19 +36,18 @@
 |29|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|3|2024-07-31|2024-03-22|
 |30|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|3|2024-03-14|2024-02-15|
 |31|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-06-12|2024-01-17|
-|32|[Edu-DCP-Jan08/Training-Documents](https://github.com/Edu-DCP-Jan08/Training-Documents)|Training-Documents|3|2024-02-02|2024-01-08|
-|33|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
-|34|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-07-29|2023-11-03|
-|35|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
-|36|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-07-29|2023-08-08|
-|37|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-16|2023-08-08|
-|38|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
-|39|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
-|40|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
-|41|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|42|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
-|43|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
-|44|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
+|32|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
+|33|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-07-29|2023-11-03|
+|34|[rdnsx/Bedrock-Status](https://github.com/rdnsx/Bedrock-Status)|This project provides a Flask web application that displays information about a Minecraft Bedrock server. The application fetches server information using an external API and presents it in a user-fri ...|3|2024-03-27|2023-08-20|
+|35|[robocopklaus/hassio-addon-blocky](https://github.com/robocopklaus/hassio-addon-blocky)|Efficient DNS proxy and ad-blocker for Home Assistant, offering customizable filtering, advanced DNS settings, and modern protocol support for enhanced network security and performance.|3|2024-07-29|2023-08-08|
+|36|[paion-data/astraios](https://github.com/paion-data/astraios)|👑 JSON-API/GraphQL CRUD webservice template with Jersey framework|3|2024-05-16|2023-08-08|
+|37|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
+|38|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
+|39|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
+|40|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
+|41|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
+|42|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
+|43|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

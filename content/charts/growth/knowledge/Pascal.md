@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|20|0|2024-06-11|
 |15|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|155|0|2024-07-29|
 |16|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|9|0|2024-07-08|
-|17|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|246|0|2024-07-18|
+|17|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|247|0|2024-07-18|
 |18|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|27|0|2024-04-11|
 |19|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2024-06-01|
 |20|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|2|0|2024-02-20|

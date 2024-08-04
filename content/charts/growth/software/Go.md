@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Go
-<sub>Updated: 2024-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.|83087|206|2024-08-02|
-|2|[arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep)|grep for words with similar meaning to the query|948|119|2024-08-02|
-|3|[andreujuanc/actas-2024](https://github.com/andreujuanc/actas-2024)|-|424|106|2024-08-01|
-|4|[glanceapp/glance](https://github.com/glanceapp/glance)|A self-hosted dashboard that puts all your feeds in one place|6754|69|2024-08-01|
-|5|[opentofu/opentofu](https://github.com/opentofu/opentofu)|OpenTofu lets you declaratively manage your cloud infrastructure.|22039|62|2024-08-02|
-|6|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Open Source realtime backend in 1 file|37317|49|2024-07-31|
-|7|[nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)|LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o ...|5446|41|2024-06-03|
-|8|[daytonaio/daytona](https://github.com/daytonaio/daytona)|The Open Source Dev Environment Manager.|7099|40|2024-08-02|
-|9|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux|9324|40|2024-06-12|
-|10|[yorukot/superfile](https://github.com/yorukot/superfile)|Pretty fancy and modern terminal file manager|5157|38|2024-08-02|
-|11|[plandex-ai/plandex](https://github.com/plandex-ai/plandex)|AI driven development in your terminal. Designed for large, real-world tasks.|10121|36|2024-08-02|
+|1|[ollama/ollama](https://github.com/ollama/ollama)|Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.|83223|205|2024-08-03|
+|2|[arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep)|grep for words with similar meaning to the query|968|108|2024-08-03|
+|3|[andreujuanc/actas-2024](https://github.com/andreujuanc/actas-2024)|-|459|92|2024-08-01|
+|4|[glanceapp/glance](https://github.com/glanceapp/glance)|A self-hosted dashboard that puts all your feeds in one place|6771|68|2024-08-03|
+|5|[opentofu/opentofu](https://github.com/opentofu/opentofu)|OpenTofu lets you declaratively manage your cloud infrastructure.|22052|62|2024-08-03|
+|6|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Open Source realtime backend in 1 file|37463|49|2024-07-31|
+|7|[nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)|LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o ...|5445|41|2024-06-03|
+|8|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux|9325|40|2024-06-12|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|The Open Source Dev Environment Manager.|7105|39|2024-08-03|
+|10|[yorukot/superfile](https://github.com/yorukot/superfile)|Pretty fancy and modern terminal file manager|5159|37|2024-08-02|
+|11|[plandex-ai/plandex](https://github.com/plandex-ai/plandex)|AI driven development in your terminal. Designed for large, real-world tasks.|10136|36|2024-08-03|
 |12|[aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)|Convert Github Copilot to ChatGPT|9176|34|2024-03-18|
-|13|[golang/go](https://github.com/golang/go)|The Go programming language|121708|33|2024-08-02|
-|14|[alist-org/alist](https://github.com/alist-org/alist)|🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。|40633|31|2024-08-01|
-|15|[poundifdef/smoothmq](https://github.com/poundifdef/smoothmq)|An improved drop-in replacement for SQS|1964|30|2024-08-02|
-|16|[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|Production-Grade Container Scheduling and Management|108937|29|2024-08-02|
-|17|[1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。|20856|28|2024-08-02|
+|13|[golang/go](https://github.com/golang/go)|The Go programming language|121741|33|2024-08-03|
+|14|[alist-org/alist](https://github.com/alist-org/alist)|🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。|40655|31|2024-08-03|
+|15|[poundifdef/smoothmq](https://github.com/poundifdef/smoothmq)|An improved drop-in replacement for SQS|1972|30|2024-08-03|
+|16|[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|Production-Grade Container Scheduling and Management|108946|29|2024-08-03|
+|17|[1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。|20868|28|2024-08-02|
 |18|[amlweems/xzbot](https://github.com/amlweems/xzbot)|notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)|3480|28|2024-04-03|
-|19|[nalgeon/redka](https://github.com/nalgeon/redka)|Redis re-implemented with SQLite|3306|28|2024-07-22|
-|20|[nektos/act](https://github.com/nektos/act)|Run your GitHub Actions locally 🚀|52893|26|2024-08-01|
-|21|[fatedier/frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|82958|26|2024-08-02|
-|22|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|serve as a reverse proxy to protect your web services from attacks and exploits.|11337|24|2024-08-02|
-|23|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.|24073|23|2024-07-31|
-|24|[terrastruct/d2](https://github.com/terrastruct/d2)|D2 is a modern diagram scripting language that turns text to diagrams.|16277|23|2024-08-02|
-|25|[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)|simple terminal UI for git commands|49052|22|2024-08-02|
-|26|[facundoolano/ngtop](https://github.com/facundoolano/ngtop)|Request analytics from the nginx access logs|331|22|2024-08-01|
-|27|[charmbracelet/gum](https://github.com/charmbracelet/gum)|A tool for glamorous shell scripts 🎀|17508|22|2024-07-25|
-|28|[henrygd/beszel](https://github.com/henrygd/beszel)|A lightweight server monitoring hub with historical data, docker stats, and alerts.|594|22|2024-08-02|
-|29|[SagerNet/sing-box](https://github.com/SagerNet/sing-box)|The universal proxy platform|17045|22|2024-08-01|
-|30|[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|47672|21|2024-07-15|
-|31|[cli/cli](https://github.com/cli/cli)|GitHub’s official command line tool|36245|21|2024-08-02|
-|32|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|77241|21|2024-08-01|
-|33|[zeromicro/go-zero](https://github.com/zeromicro/go-zero)|A cloud-native Go microservices framework with cli tool for productivity.|28519|20|2024-08-02|
-|34|[wagoodman/dive](https://github.com/wagoodman/dive)|A tool for exploring each layer in a docker image|44859|20|2024-07-15|
-|35|[gofiber/fiber](https://github.com/gofiber/fiber)|⚡️ Express inspired web framework written in Go|32437|20|2024-07-29|
-|36|[samber/lo](https://github.com/samber/lo)|💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)|16601|19|2024-07-29|
-|37|[charmbracelet/vhs](https://github.com/charmbracelet/vhs)|Your CLI home video recorder 📼|14533|19|2024-07-31|
-|38|[deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)|代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。|3579|19|2024-07-29|
-|39|[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)|The lazier way to manage everything docker|35633|19|2024-07-31|
-|40|[apache/incubator-answer](https://github.com/apache/incubator-answer)|A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.|12280|18|2024-08-02|
-|41|[gohugoio/hugo](https://github.com/gohugoio/hugo)|The world’s fastest framework for building websites.|74029|18|2024-08-02|
-|42|[aurora-develop/aurora](https://github.com/aurora-develop/aurora)|free|2209|18|2024-06-27|
-|43|[XTLS/Xray-core](https://github.com/XTLS/Xray-core)|Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.|23332|17|2024-08-02|
-|44|[TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder)|Open Source Autonomous Software Development System|524|17|2024-08-02|
-|45|[eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb)|🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾|255|17|2024-08-02|
-|46|[binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)|Send push notifications to your phone or desktop using PUT/POST|17441|17|2024-07-27|
-|47|[zincsearch/zincsearch](https://github.com/zincsearch/zincsearch)|ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|16774|17|2024-06-21|
-|48|[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)|A distributed, fault-tolerant task queue|3883|17|2024-08-02|
-|49|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|18068|17|2024-08-02|
-|50|[syncthing/syncthing](https://github.com/syncthing/syncthing)|Open Source Continuous File Synchronization|62771|16|2024-08-01|
-|51|[caddyserver/caddy](https://github.com/caddyserver/caddy)|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS|56028|16|2024-08-02|
-|52|[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)|A powerful little TUI framework 🏗|25844|16|2024-07-25|
-|53|[moby/moby](https://github.com/moby/moby)|The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems|68287|16|2024-08-02|
-|54|[milvus-io/milvus](https://github.com/milvus-io/milvus)|A cloud-native vector database, storage for next generation AI applications|28667|16|2024-08-02|
-|55|[junegunn/fzf](https://github.com/junegunn/fzf)|:cherry_blossom: A command-line fuzzy finder|62759|16|2024-08-02|
-|56|[gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript)|Build AI assistants that interact with your systems|2840|15|2024-08-02|
-|57|[v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)|A platform for building proxies to bypass network restrictions.|28562|15|2024-08-01|
-|58|[charmbracelet/freeze](https://github.com/charmbracelet/freeze)|Generate images of code and terminal output 📸|2999|15|2024-07-02|
-|59|[cloudwego/goref](https://github.com/cloudwego/goref)|Go heap object reference analysis tool|356|15|2024-08-02|
-|60|[traefik/traefik](https://github.com/traefik/traefik)|The Cloud Native Application Proxy|49456|15|2024-08-02|
-|61|[loft-sh/devpod](https://github.com/loft-sh/devpod)|Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.|8525|15|2024-08-02|
-|62|[sourcegraph/conc](https://github.com/sourcegraph/conc)|Better structured concurrency for go|8789|15|2024-04-26|
-|63|[anthdm/superkit](https://github.com/anthdm/superkit)|-|893|15|2024-07-21|
-|64|[go-gitea/gitea](https://github.com/go-gitea/gitea)|Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD|43499|15|2024-08-02|
-|65|[ehang-io/nps](https://github.com/ehang-io/nps)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|29969|14|2024-05-30|
-|66|[fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api)|OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deploy ...|965|14|2024-08-02|
-|67|[v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)|A platform for building proxies to bypass network restrictions.|45099|14|2024-07-11|
-|68|[photoprism/photoprism](https://github.com/photoprism/photoprism)|AI-Powered Photos App for the Decentralized Web 🌈💎✨|33922|14|2024-08-02|
-|69|[juanfont/headscale](https://github.com/juanfont/headscale)|An open source, self-hosted implementation of the Tailscale control server|21352|14|2024-08-02|
-|70|[microsoft/retina](https://github.com/microsoft/retina)|eBPF distributed networking observability tool for Kubernetes|2579|13|2024-08-02|
-|71|[evanw/esbuild](https://github.com/evanw/esbuild)|An extremely fast bundler for the web|37763|13|2024-07-31|
-|72|[istio/istio](https://github.com/istio/istio)|Connect, secure, control, and observe services.|35488|13|2024-08-02|
-|73|[roblillack/spot](https://github.com/roblillack/spot)|React-like desktop GUI toolkit for Go|1047|13|2024-06-29|
+|19|[nalgeon/redka](https://github.com/nalgeon/redka)|Redis re-implemented with SQLite|3308|28|2024-07-22|
+|20|[nektos/act](https://github.com/nektos/act)|Run your GitHub Actions locally 🚀|52909|26|2024-08-01|
+|21|[fatedier/frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|82983|26|2024-08-02|
+|22|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|serve as a reverse proxy to protect your web services from attacks and exploits.|11344|24|2024-08-02|
+|23|[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.|24094|23|2024-07-31|
+|24|[terrastruct/d2](https://github.com/terrastruct/d2)|D2 is a modern diagram scripting language that turns text to diagrams.|16284|23|2024-08-03|
+|25|[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)|simple terminal UI for git commands|49073|22|2024-08-03|
+|26|[facundoolano/ngtop](https://github.com/facundoolano/ngtop)|Request analytics from the nginx access logs|349|22|2024-08-01|
+|27|[charmbracelet/gum](https://github.com/charmbracelet/gum)|A tool for glamorous shell scripts 🎀|17513|22|2024-07-25|
+|28|[henrygd/beszel](https://github.com/henrygd/beszel)|A lightweight server monitoring hub with historical data, docker stats, and alerts.|614|22|2024-08-02|
+|29|[SagerNet/sing-box](https://github.com/SagerNet/sing-box)|The universal proxy platform|17080|22|2024-08-03|
+|30|[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|47685|21|2024-07-15|
+|31|[cli/cli](https://github.com/cli/cli)|GitHub’s official command line tool|36245|21|2024-08-03|
+|32|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|77257|21|2024-08-01|
+|33|[zeromicro/go-zero](https://github.com/zeromicro/go-zero)|A cloud-native Go microservices framework with cli tool for productivity.|28530|20|2024-08-03|
+|34|[wagoodman/dive](https://github.com/wagoodman/dive)|A tool for exploring each layer in a docker image|44866|20|2024-07-15|
+|35|[gofiber/fiber](https://github.com/gofiber/fiber)|⚡️ Express inspired web framework written in Go|32452|20|2024-08-03|
+|36|[samber/lo](https://github.com/samber/lo)|💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)|16607|19|2024-07-29|
+|37|[charmbracelet/vhs](https://github.com/charmbracelet/vhs)|Your CLI home video recorder 📼|14534|19|2024-07-31|
+|38|[deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)|代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。|3580|19|2024-07-29|
+|39|[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)|The lazier way to manage everything docker|35645|19|2024-07-31|
+|40|[apache/incubator-answer](https://github.com/apache/incubator-answer)|A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.|12284|18|2024-08-02|
+|41|[eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb)|🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾|287|18|2024-08-03|
+|42|[gohugoio/hugo](https://github.com/gohugoio/hugo)|The world’s fastest framework for building websites.|74038|18|2024-08-02|
+|43|[aurora-develop/aurora](https://github.com/aurora-develop/aurora)|free|2211|18|2024-06-27|
+|44|[XTLS/Xray-core](https://github.com/XTLS/Xray-core)|Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.|23358|17|2024-08-03|
+|45|[TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder)|Open Source Autonomous Software Development System|532|17|2024-08-02|
+|46|[binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)|Send push notifications to your phone or desktop using PUT/POST|17447|17|2024-07-27|
+|47|[zincsearch/zincsearch](https://github.com/zincsearch/zincsearch)|ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|16784|17|2024-06-21|
+|48|[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)|A distributed, fault-tolerant task queue|3884|17|2024-08-02|
+|49|[abiosoft/colima](https://github.com/abiosoft/colima)|Container runtimes on macOS (and Linux) with minimal setup|18077|17|2024-08-02|
+|50|[syncthing/syncthing](https://github.com/syncthing/syncthing)|Open Source Continuous File Synchronization|62790|16|2024-08-01|
+|51|[caddyserver/caddy](https://github.com/caddyserver/caddy)|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS|56032|16|2024-08-03|
+|52|[moby/moby](https://github.com/moby/moby)|The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems|68293|16|2024-08-02|
+|53|[milvus-io/milvus](https://github.com/milvus-io/milvus)|A cloud-native vector database, storage for next generation AI applications|28676|16|2024-08-03|
+|54|[junegunn/fzf](https://github.com/junegunn/fzf)|:cherry_blossom: A command-line fuzzy finder|62789|16|2024-08-02|
+|55|[gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript)|Build AI assistants that interact with your systems|2840|15|2024-08-03|
+|56|[v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)|A platform for building proxies to bypass network restrictions.|28568|15|2024-08-03|
+|57|[traefik/traefik](https://github.com/traefik/traefik)|The Cloud Native Application Proxy|49465|15|2024-08-02|
+|58|[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)|A powerful little TUI framework 🏗|25852|15|2024-08-02|
+|59|[loft-sh/devpod](https://github.com/loft-sh/devpod)|Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.|8531|15|2024-08-02|
+|60|[sourcegraph/conc](https://github.com/sourcegraph/conc)|Better structured concurrency for go|8798|15|2024-04-26|
+|61|[anthdm/superkit](https://github.com/anthdm/superkit)|-|893|15|2024-07-21|
+|62|[go-gitea/gitea](https://github.com/go-gitea/gitea)|Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD|43508|15|2024-08-03|
+|63|[ehang-io/nps](https://github.com/ehang-io/nps)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|29972|14|2024-05-30|
+|64|[charmbracelet/freeze](https://github.com/charmbracelet/freeze)|Generate images of code and terminal output 📸|3001|14|2024-07-02|
+|65|[cloudwego/goref](https://github.com/cloudwego/goref)|Go heap object reference analysis tool|361|14|2024-08-02|
+|66|[fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api)|OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deploy ...|968|14|2024-08-03|
+|67|[v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)|A platform for building proxies to bypass network restrictions.|45103|14|2024-07-11|
+|68|[photoprism/photoprism](https://github.com/photoprism/photoprism)|AI-Powered Photos App for the Decentralized Web 🌈💎✨|33933|14|2024-08-03|
+|69|[juanfont/headscale](https://github.com/juanfont/headscale)|An open source, self-hosted implementation of the Tailscale control server|21365|14|2024-08-02|
+|70|[microsoft/retina](https://github.com/microsoft/retina)|eBPF distributed networking observability tool for Kubernetes|2580|13|2024-08-02|
+|71|[evanw/esbuild](https://github.com/evanw/esbuild)|An extremely fast bundler for the web|37770|13|2024-07-31|
+|72|[istio/istio](https://github.com/istio/istio)|Connect, secure, control, and observe services.|35493|13|2024-08-03|
+|73|[roblillack/spot](https://github.com/roblillack/spot)|React-like desktop GUI toolkit for Go|1048|13|2024-06-29|
 |74|[andydunstall/piko](https://github.com/andydunstall/piko)|An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)|1793|13|2024-07-27|
-|75|[derailed/k9s](https://github.com/derailed/k9s)|🐶 Kubernetes CLI To Manage Your Clusters In Style!|26002|13|2024-08-01|
-|76|[prometheus/prometheus](https://github.com/prometheus/prometheus)|The Prometheus monitoring system and time series database.|54120|13|2024-08-02|
-|77|[minio/minio](https://github.com/minio/minio)|The Object Store for AI Data Infrastructure|45853|13|2024-08-02|
-|78|[XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)|🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~|18480|13|2024-07-28|
-|79|[charmbracelet/huh](https://github.com/charmbracelet/huh)|Build terminal forms and prompts 🤷🏻‍♀️|3844|13|2024-08-01|
-|80|[dapr/dapr](https://github.com/dapr/dapr)|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.|23671|13|2024-08-02|
-|81|[warpstreamlabs/bento](https://github.com/warpstreamlabs/bento)|Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.|859|13|2024-08-01|
-|82|[lima-vm/lima](https://github.com/lima-vm/lima)|Linux virtual machines, with a focus on running containers|14755|13|2024-08-02|
-|83|[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)|A continuation of HomeBox the inventory and organization system built for the Home User|585|12|2024-08-02|
-|84|[JFryy/qq](https://github.com/JFryy/qq)|jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.|488|12|2024-07-31|
-|85|[aquasecurity/trivy](https://github.com/aquasecurity/trivy)|Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more|22407|12|2024-08-02|
-|86|[glasskube/glasskube](https://github.com/glasskube/glasskube)|🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos ...|2541|12|2024-08-02|
-|87|[k3s-io/k3s](https://github.com/k3s-io/k3s)|Lightweight Kubernetes|27201|12|2024-08-02|
-|88|[flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)|🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。|20867|12|2024-08-02|
-|89|[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)|IM Chat |13514|12|2024-08-02|
+|75|[derailed/k9s](https://github.com/derailed/k9s)|🐶 Kubernetes CLI To Manage Your Clusters In Style!|26010|13|2024-08-01|
+|76|[prometheus/prometheus](https://github.com/prometheus/prometheus)|The Prometheus monitoring system and time series database.|54134|13|2024-08-03|
+|77|[minio/minio](https://github.com/minio/minio)|The Object Store for AI Data Infrastructure|45872|13|2024-08-03|
+|78|[XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)|🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~|18500|13|2024-07-28|
+|79|[charmbracelet/huh](https://github.com/charmbracelet/huh)|Build terminal forms and prompts 🤷🏻‍♀️|3847|13|2024-08-03|
+|80|[dapr/dapr](https://github.com/dapr/dapr)|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.|23671|13|2024-08-03|
+|81|[warpstreamlabs/bento](https://github.com/warpstreamlabs/bento)|Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.|859|13|2024-08-03|
+|82|[lima-vm/lima](https://github.com/lima-vm/lima)|Linux virtual machines, with a focus on running containers|14761|13|2024-08-03|
+|83|[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)|A continuation of HomeBox the inventory and organization system built for the Home User|591|12|2024-08-02|
+|84|[JFryy/qq](https://github.com/JFryy/qq)|jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.|490|12|2024-07-31|
+|85|[aquasecurity/trivy](https://github.com/aquasecurity/trivy)|Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more|22414|12|2024-08-02|
+|86|[glasskube/glasskube](https://github.com/glasskube/glasskube)|🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos ...|2544|12|2024-08-03|
+|87|[k3s-io/k3s](https://github.com/k3s-io/k3s)|Lightweight Kubernetes|27208|12|2024-08-02|
+|88|[flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)|🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。|20870|12|2024-08-03|
+|89|[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)|IM Chat |13518|12|2024-08-02|
 |90|[francoismichel/ssh3](https://github.com/francoismichel/ssh3)|SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/|3207|12|2024-08-01|
-|91|[projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|18796|12|2024-08-01|
-|92|[etcd-io/etcd](https://github.com/etcd-io/etcd)|Distributed reliable key-value store for the most critical data of a distributed system|46996|12|2024-08-02|
-|93|[rclone/rclone](https://github.com/rclone/rclone)|"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files|45422|12|2024-08-02|
-|94|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|44645|12|2024-08-02|
-|95|[wailsapp/wails](https://github.com/wailsapp/wails)|Create beautiful applications using Go|23721|12|2024-07-31|
-|96|[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)|Go implementation of the Ethereum protocol|47111|12|2024-08-02|
-|97|[Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)|Go-blueprint allows users to spin up a quick Go project using a popular framework|3238|11|2024-08-01|
-|98|[pingcap/tidb](https://github.com/pingcap/tidb)|TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/|36669|11|2024-08-02|
-|99|[go-kratos/kratos](https://github.com/go-kratos/kratos)|Your ultimate Go microservices framework for the cloud-native era.|22953|11|2024-07-31|
-|100|[schollz/croc](https://github.com/schollz/croc)|Easily and securely send things from one computer to another :crocodile: :package:|27084|11|2024-07-30|
-|101|[EwenQuim/entropy](https://github.com/EwenQuim/entropy)|Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.|632|11|2024-07-04|
-|102|[jetify-com/devbox](https://github.com/jetify-com/devbox)|Instant, easy, and predictable development environments|8020|11|2024-08-02|
-|103|[hashicorp/terraform](https://github.com/hashicorp/terraform)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo ...|41847|11|2024-08-02|
-|104|[riverqueue/river](https://github.com/riverqueue/river)|Fast and reliable background jobs in Go|3013|11|2024-08-02|
-|105|[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)|Giving Kubernetes Superpowers to everyone|5266|11|2024-08-02|
-|106|[context-labs/mactop](https://github.com/context-labs/mactop)|mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.|1205|11|2024-08-02|
-|107|[iawia002/lux](https://github.com/iawia002/lux)|👾 Fast and simple video download library and CLI tool written in Go|26351|11|2024-08-01|
-|108|[tailscale/tailscale](https://github.com/tailscale/tailscale)|The easiest, most secure way to use WireGuard and 2FA.|17959|11|2024-08-02|
-|109|[zuoyebang/bitalostored](https://github.com/zuoyebang/bitalostored)|Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.|1673|11|2024-07-23|
-|110|[version-fox/vfox](https://github.com/version-fox/vfox)|A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more|2571|11|2024-07-26|
-|111|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|A node.js version management utility for Windows. Ironically written in Go.|36325|10|2024-08-02|
-|112|[fyne-io/fyne](https://github.com/fyne-io/fyne)|Cross platform GUI toolkit in Go inspired by Material Design|24192|10|2024-08-02|
-|113|[openbao/openbao](https://github.com/openbao/openbao)|OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.|2716|10|2024-08-02|
-|114|[dolthub/dolt](https://github.com/dolthub/dolt)|Dolt – Git for Data|17452|10|2024-08-02|
-|115|[google/osv-scanner](https://github.com/google/osv-scanner)|Vulnerability scanner written in Go which uses the data provided by https://osv.dev|6069|10|2024-08-02|
-|116|[kubernetes/minikube](https://github.com/kubernetes/minikube)|Run Kubernetes locally|28919|10|2024-08-02|
-|117|[grafana/loki](https://github.com/grafana/loki)|Like Prometheus, but for logs.|23005|10|2024-08-02|
-|118|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a powerful, lightning fast and censorship resistant proxy.|14115|9|2024-07-13|
-|119|[openfaas/faas](https://github.com/openfaas/faas)|OpenFaaS - Serverless Functions Made Simple|24833|9|2024-07-16|
-|120|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|8848|9|2024-08-02|
-|121|[HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)|The Havoc Framework.|6394|9|2024-07-31|
-|122|[gocolly/colly](https://github.com/gocolly/colly)|Elegant Scraper and Crawler Framework for Golang|22759|9|2024-07-30|
-|123|[kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)|The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste ...|10796|9|2024-08-02|
-|124|[OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)|Powerful Free DeepL API, No Token Required|5691|9|2024-07-09|
-|125|[charmbracelet/glow](https://github.com/charmbracelet/glow)|Render markdown on the CLI, with pizzazz! 💅🏻|15451|9|2024-07-25|
-|126|[docker/compose](https://github.com/docker/compose)|Define and run multi-container applications with Docker|33237|9|2024-08-02|
-|127|[hashicorp/vault](https://github.com/hashicorp/vault)|A tool for secrets management, encryption as a service, and privileged access management|30625|9|2024-08-02|
-|128|[spf13/cobra](https://github.com/spf13/cobra)|A Commander for modern Go CLI interactions|37081|9|2024-07-28|
-|129|[muesli/duf](https://github.com/muesli/duf)|Disk Usage/Free Utility - a better 'df' alternative|12547|9|2024-07-30|
-|130|[kubescape/kubescape](https://github.com/kubescape/kubescape)|Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes  ...|9998|9|2024-07-26|
-|131|[containers/podman](https://github.com/containers/podman)|Podman: A tool for managing OCI containers and pods.|22652|9|2024-08-02|
-|132|[go-gorm/gorm](https://github.com/go-gorm/gorm)|The fantastic ORM library for Golang, aims to be developer friendly|36239|9|2024-08-01|
-|133|[jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)|Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...|10791|8|2024-08-01|
-|134|[ent/ent](https://github.com/ent/ent)|An entity framework for Go|15265|8|2024-07-30|
-|135|[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|Network-wide ads & trackers blocking DNS server|23914|8|2024-08-02|
-|136|[getanteon/anteon](https://github.com/getanteon/anteon)|Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud|8285|8|2024-07-31|
-|137|[knadh/listmonk](https://github.com/knadh/listmonk)|High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.|14224|8|2024-08-02|
-|138|[antonmedv/fx](https://github.com/antonmedv/fx)|Terminal JSON viewer & processor|18832|8|2024-06-27|
-|139|[GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)|Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.|16445|8|2024-07-30|
-|140|[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)|The most customisable and low-latency cross platform/shell prompt renderer|16236|8|2024-08-01|
-|141|[labstack/echo](https://github.com/labstack/echo)|High performance, minimalist Go web framework|29157|8|2024-07-29|
-|142|[slackhq/nebula](https://github.com/slackhq/nebula)|A scalable overlay networking tool with a focus on performance, simplicity and security|14143|8|2024-08-02|
-|143|[bytebase/bytebase](https://github.com/bytebase/bytebase)|The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.|10711|8|2024-08-02|
-|144|[dhth/omm](https://github.com/dhth/omm)|"on-my-mind": A keyboard-driven task manager for the command line|206|8|2024-08-01|
-|145|[juicedata/juicefs](https://github.com/juicedata/juicefs)|JuiceFS is a distributed POSIX file system built on top of Redis and S3.|10327|8|2024-08-02|
-|146|[cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)|CockroachDB - the open source, cloud-native distributed SQL database.|29619|8|2024-08-02|
-|147|[nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)|Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. |2708|8|2024-08-02|
-|148|[zyedidia/micro](https://github.com/zyedidia/micro)|A modern and intuitive terminal-based text editor|24532|8|2024-08-02|
-|149|[ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver)|Programming framework for writing and deploying cloud applications.|4644|8|2024-08-01|
-|150|[helm/helm](https://github.com/helm/helm)|The Kubernetes Package Manager|26560|8|2024-08-02|
-|151|[harness/gitness](https://github.com/harness/gitness)|Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.|31984|8|2024-08-02|
-|152|[uber-go/nilaway](https://github.com/uber-go/nilaway)|Static analysis tool to detect potential nil panics in Go code|2964|8|2024-07-28|
-|153|[grafana/k6](https://github.com/grafana/k6)|A modern load testing tool, using Go and JavaScript - https://k6.io|24101|8|2024-08-01|
-|154|[FiloSottile/age](https://github.com/FiloSottile/age)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|15966|8|2024-07-30|
-|155|[projectdiscovery/katana](https://github.com/projectdiscovery/katana)|A next-generation crawling and spidering framework.|10592|8|2024-07-31|
-|156|[maaslalani/slides](https://github.com/maaslalani/slides)|Terminal based presentation tool|9474|8|2024-07-15|
-|157|[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)|📂 Web File Browser|25121|8|2024-07-31|
-|158|[piqoni/hn-text](https://github.com/piqoni/hn-text)|A text-first HN client. |502|8|2024-06-11|
-|159|[wader/fq](https://github.com/wader/fq)|jq for binary formats - tool, language and decoders for working with binary and text formats|9652|8|2024-08-02|
-|160|[go-kit/kit](https://github.com/go-kit/kit)|A standard library for microservices.|26382|8|2024-07-19|
-|161|[gravitl/netmaker](https://github.com/gravitl/netmaker)|Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.|9267|8|2024-08-02|
-|162|[coder/coder](https://github.com/coder/coder)|Provision remote development environments via Terraform|7563|8|2024-08-02|
-|163|[netbirdio/netbird](https://github.com/netbirdio/netbird)|Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.|10151|8|2024-08-02|
-|164|[wtfutil/wtf](https://github.com/wtfutil/wtf)|The personal information dashboard for your terminal|15651|7|2024-07-19|
-|165|[uber-go/zap](https://github.com/uber-go/zap)|Blazing fast, structured, leveled logging in Go.|21451|7|2024-07-30|
-|166|[restic/restic](https://github.com/restic/restic)|Fast, secure, efficient backup program|25273|7|2024-08-01|
-|167|[valyala/fasthttp](https://github.com/valyala/fasthttp)|Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http|21458|7|2024-07-31|
-|168|[bettercap/bettercap](https://github.com/bettercap/bettercap)|The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.|16052|7|2024-07-24|
-|169|[goksan/statusnook](https://github.com/goksan/statusnook)|Effortlessly deploy a status page and start monitoring endpoints in minutes |738|7|2024-07-10|
-|170|[authelia/authelia](https://github.com/authelia/authelia)|The Single Sign-On Multi-Factor portal for web apps|20701|7|2024-08-02|
-|171|[livekit/livekit](https://github.com/livekit/livekit)|End-to-end stack for WebRTC. SFU media server and SDKs.|9158|7|2024-08-02|
-|172|[cgzirim/seek-tune](https://github.com/cgzirim/seek-tune)|An implementation of Shazam's song matching algorithm.|1014|7|2024-08-02|
-|173|[golangci/golangci-lint](https://github.com/golangci/golangci-lint)|Fast linters runner for Go|15044|7|2024-08-02|
-|174|[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)|A beautiful CLI dashboard for GitHub 🚀 |6842|7|2024-07-19|
+|91|[projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|18866|12|2024-08-03|
+|92|[etcd-io/etcd](https://github.com/etcd-io/etcd)|Distributed reliable key-value store for the most critical data of a distributed system|47000|12|2024-08-03|
+|93|[rclone/rclone](https://github.com/rclone/rclone)|"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files|45433|12|2024-08-03|
+|94|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|44647|12|2024-08-02|
+|95|[wailsapp/wails](https://github.com/wailsapp/wails)|Create beautiful applications using Go|23737|12|2024-07-31|
+|96|[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)|Go implementation of the Ethereum protocol|47188|12|2024-08-03|
+|97|[Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)|Go-blueprint allows users to spin up a quick Go project using a popular framework|3245|11|2024-08-01|
+|98|[pingcap/tidb](https://github.com/pingcap/tidb)|TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/|36673|11|2024-08-03|
+|99|[go-kratos/kratos](https://github.com/go-kratos/kratos)|Your ultimate Go microservices framework for the cloud-native era.|22954|11|2024-07-31|
+|100|[schollz/croc](https://github.com/schollz/croc)|Easily and securely send things from one computer to another :crocodile: :package:|27093|11|2024-07-30|
+|101|[jetify-com/devbox](https://github.com/jetify-com/devbox)|Instant, easy, and predictable development environments|8025|11|2024-08-02|
+|102|[hashicorp/terraform](https://github.com/hashicorp/terraform)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo ...|41854|11|2024-08-02|
+|103|[riverqueue/river](https://github.com/riverqueue/river)|Fast and reliable background jobs in Go|3025|11|2024-08-03|
+|104|[context-labs/mactop](https://github.com/context-labs/mactop)|mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.|1207|11|2024-08-03|
+|105|[iawia002/lux](https://github.com/iawia002/lux)|👾 Fast and simple video download library and CLI tool written in Go|26385|11|2024-08-01|
+|106|[tailscale/tailscale](https://github.com/tailscale/tailscale)|The easiest, most secure way to use WireGuard and 2FA.|17972|11|2024-08-03|
+|107|[version-fox/vfox](https://github.com/version-fox/vfox)|A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more|2572|11|2024-07-26|
+|108|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|A node.js version management utility for Windows. Ironically written in Go.|36330|10|2024-08-02|
+|109|[EwenQuim/entropy](https://github.com/EwenQuim/entropy)|Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.|633|10|2024-07-04|
+|110|[fyne-io/fyne](https://github.com/fyne-io/fyne)|Cross platform GUI toolkit in Go inspired by Material Design|24193|10|2024-08-03|
+|111|[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)|Giving Kubernetes Superpowers to everyone|5267|10|2024-08-02|
+|112|[openbao/openbao](https://github.com/openbao/openbao)|OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.|2717|10|2024-08-03|
+|113|[google/osv-scanner](https://github.com/google/osv-scanner)|Vulnerability scanner written in Go which uses the data provided by https://osv.dev|6071|10|2024-08-02|
+|114|[kubernetes/minikube](https://github.com/kubernetes/minikube)|Run Kubernetes locally|28923|10|2024-08-03|
+|115|[grafana/loki](https://github.com/grafana/loki)|Like Prometheus, but for logs.|23012|10|2024-08-02|
+|116|[zuoyebang/bitalostored](https://github.com/zuoyebang/bitalostored)|Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.|1673|10|2024-07-23|
+|117|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a powerful, lightning fast and censorship resistant proxy.|14123|9|2024-07-13|
+|118|[openfaas/faas](https://github.com/openfaas/faas)|OpenFaaS - Serverless Functions Made Simple|24834|9|2024-07-16|
+|119|[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)|A truly Open Source MongoDB alternative|8853|9|2024-08-02|
+|120|[HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)|The Havoc Framework.|6394|9|2024-07-31|
+|121|[gocolly/colly](https://github.com/gocolly/colly)|Elegant Scraper and Crawler Framework for Golang|22765|9|2024-07-30|
+|122|[kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)|The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste ...|10800|9|2024-08-02|
+|123|[OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)|Powerful Free DeepL API, No Token Required|5695|9|2024-07-09|
+|124|[charmbracelet/glow](https://github.com/charmbracelet/glow)|Render markdown on the CLI, with pizzazz! 💅🏻|15458|9|2024-07-25|
+|125|[docker/compose](https://github.com/docker/compose)|Define and run multi-container applications with Docker|33243|9|2024-08-02|
+|126|[hashicorp/vault](https://github.com/hashicorp/vault)|A tool for secrets management, encryption as a service, and privileged access management|30632|9|2024-08-03|
+|127|[spf13/cobra](https://github.com/spf13/cobra)|A Commander for modern Go CLI interactions|37094|9|2024-07-28|
+|128|[muesli/duf](https://github.com/muesli/duf)|Disk Usage/Free Utility - a better 'df' alternative|12549|9|2024-07-30|
+|129|[dolthub/dolt](https://github.com/dolthub/dolt)|Dolt – Git for Data|17454|9|2024-08-03|
+|130|[kubescape/kubescape](https://github.com/kubescape/kubescape)|Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes  ...|9999|9|2024-07-26|
+|131|[containers/podman](https://github.com/containers/podman)|Podman: A tool for managing OCI containers and pods.|22656|9|2024-08-03|
+|132|[go-gorm/gorm](https://github.com/go-gorm/gorm)|The fantastic ORM library for Golang, aims to be developer friendly|36245|9|2024-08-01|
+|133|[jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)|Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...|10800|8|2024-08-01|
+|134|[ent/ent](https://github.com/ent/ent)|An entity framework for Go|15271|8|2024-07-30|
+|135|[cgzirim/seek-tune](https://github.com/cgzirim/seek-tune)|An implementation of Shazam's song matching algorithm.|1140|8|2024-08-03|
+|136|[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|Network-wide ads & trackers blocking DNS server|23919|8|2024-08-02|
+|137|[getanteon/anteon](https://github.com/getanteon/anteon)|Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud|8288|8|2024-07-31|
+|138|[knadh/listmonk](https://github.com/knadh/listmonk)|High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.|14228|8|2024-08-03|
+|139|[antonmedv/fx](https://github.com/antonmedv/fx)|Terminal JSON viewer & processor|18835|8|2024-06-27|
+|140|[GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)|Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.|16450|8|2024-07-30|
+|141|[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)|The most customisable and low-latency cross platform/shell prompt renderer|16255|8|2024-08-03|
+|142|[labstack/echo](https://github.com/labstack/echo)|High performance, minimalist Go web framework|29163|8|2024-07-29|
+|143|[slackhq/nebula](https://github.com/slackhq/nebula)|A scalable overlay networking tool with a focus on performance, simplicity and security|14144|8|2024-08-03|
+|144|[bytebase/bytebase](https://github.com/bytebase/bytebase)|The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.|10718|8|2024-08-03|
+|145|[dhth/omm](https://github.com/dhth/omm)|"on-my-mind": A keyboard-driven task manager for the command line|208|8|2024-08-03|
+|146|[juicedata/juicefs](https://github.com/juicedata/juicefs)|JuiceFS is a distributed POSIX file system built on top of Redis and S3.|10330|8|2024-08-02|
+|147|[cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)|CockroachDB - the open source, cloud-native distributed SQL database.|29625|8|2024-08-03|
+|148|[nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)|Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. |2709|8|2024-08-02|
+|149|[zyedidia/micro](https://github.com/zyedidia/micro)|A modern and intuitive terminal-based text editor|24536|8|2024-08-03|
+|150|[ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver)|Programming framework for writing and deploying cloud applications.|4644|8|2024-08-01|
+|151|[helm/helm](https://github.com/helm/helm)|The Kubernetes Package Manager|26565|8|2024-08-02|
+|152|[harness/gitness](https://github.com/harness/gitness)|Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.|31985|8|2024-08-03|
+|153|[uber-go/nilaway](https://github.com/uber-go/nilaway)|Static analysis tool to detect potential nil panics in Go code|2964|8|2024-07-28|
+|154|[grafana/k6](https://github.com/grafana/k6)|A modern load testing tool, using Go and JavaScript - https://k6.io|24103|8|2024-08-01|
+|155|[FiloSottile/age](https://github.com/FiloSottile/age)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|15970|8|2024-07-30|
+|156|[projectdiscovery/katana](https://github.com/projectdiscovery/katana)|A next-generation crawling and spidering framework.|10603|8|2024-07-31|
+|157|[maaslalani/slides](https://github.com/maaslalani/slides)|Terminal based presentation tool|9473|8|2024-08-03|
+|158|[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)|📂 Web File Browser|25133|8|2024-07-31|
+|159|[piqoni/hn-text](https://github.com/piqoni/hn-text)|A text-first HN client. |503|8|2024-06-11|
+|160|[wader/fq](https://github.com/wader/fq)|jq for binary formats - tool, language and decoders for working with binary and text formats|9653|8|2024-08-02|
+|161|[go-kit/kit](https://github.com/go-kit/kit)|A standard library for microservices.|26384|8|2024-07-19|
+|162|[gravitl/netmaker](https://github.com/gravitl/netmaker)|Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.|9272|8|2024-08-03|
+|163|[coder/coder](https://github.com/coder/coder)|Provision remote development environments via Terraform|7569|8|2024-08-03|
+|164|[netbirdio/netbird](https://github.com/netbirdio/netbird)|Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.|10154|8|2024-08-03|
+|165|[wtfutil/wtf](https://github.com/wtfutil/wtf)|The personal information dashboard for your terminal|15652|7|2024-07-19|
+|166|[uber-go/zap](https://github.com/uber-go/zap)|Blazing fast, structured, leveled logging in Go.|21454|7|2024-07-30|
+|167|[restic/restic](https://github.com/restic/restic)|Fast, secure, efficient backup program|25287|7|2024-08-03|
+|168|[valyala/fasthttp](https://github.com/valyala/fasthttp)|Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http|21462|7|2024-08-02|
+|169|[bettercap/bettercap](https://github.com/bettercap/bettercap)|The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.|16053|7|2024-07-24|
+|170|[goksan/statusnook](https://github.com/goksan/statusnook)|Effortlessly deploy a status page and start monitoring endpoints in minutes |739|7|2024-07-10|
+|171|[authelia/authelia](https://github.com/authelia/authelia)|The Single Sign-On Multi-Factor portal for web apps|20702|7|2024-08-03|
+|172|[livekit/livekit](https://github.com/livekit/livekit)|End-to-end stack for WebRTC. SFU media server and SDKs.|9163|7|2024-08-03|
+|173|[golangci/golangci-lint](https://github.com/golangci/golangci-lint)|Fast linters runner for Go|15048|7|2024-08-02|
+|174|[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)|A beautiful CLI dashboard for GitHub 🚀 |6842|7|2024-08-03|
 |175|[flipt-io/reverst](https://github.com/flipt-io/reverst)|Reverse Tunnels in Go over HTTP/3 and QUIC|904|7|2024-06-20|
-|176|[go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)|基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d ...|11175|7|2024-07-26|
-|177|[nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core)|NextTrace, an open source visual route tracking CLI tool|5367|7|2024-07-28|
-|178|[YaoApp/yao](https://github.com/YaoApp/yao)|:rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.|7074|7|2024-08-01|
-|179|[pulumi/pulumi](https://github.com/pulumi/pulumi)|Pulumi - Infrastructure as Code in any programming language 🚀|20648|7|2024-08-02|
-|180|[bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)|Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.|11038|7|2024-08-02|
-|181|[beego/beego](https://github.com/beego/beego)|beego is an open-source, high-performance web framework for the Go programming language.|31302|7|2024-08-02|
-|182|[coder/quartz](https://github.com/coder/quartz)|A Go time testing library for writing deterministic unit tests|221|7|2024-07-15|
-|183|[tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)|Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.|14825|7|2024-08-02|
+|176|[go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)|基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d ...|11179|7|2024-07-26|
+|177|[nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core)|NextTrace, an open source visual route tracking CLI tool|5373|7|2024-07-28|
+|178|[YaoApp/yao](https://github.com/YaoApp/yao)|:rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.|7074|7|2024-08-03|
+|179|[pulumi/pulumi](https://github.com/pulumi/pulumi)|Pulumi - Infrastructure as Code in any programming language 🚀|20660|7|2024-08-03|
+|180|[bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)|Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.|11040|7|2024-08-03|
+|181|[beego/beego](https://github.com/beego/beego)|beego is an open-source, high-performance web framework for the Go programming language.|31301|7|2024-08-03|
+|182|[coder/quartz](https://github.com/coder/quartz)|A Go time testing library for writing deterministic unit tests|223|7|2024-07-15|
+|183|[tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)|Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.|14829|7|2024-08-03|
 |184|[yusufcanb/tlm](https://github.com/yusufcanb/tlm)|Local CLI Copilot, powered by CodeLLaMa. 💻🦙|1155|7|2024-07-13|
-|185|[infracost/infracost](https://github.com/infracost/infracost)|Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!|10734|7|2024-08-01|
-|186|[coroot/coroot](https://github.com/coroot/coroot)|Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr ...|4878|7|2024-08-01|
-|187|[spf13/viper](https://github.com/spf13/viper)|Go configuration with fangs|26515|7|2024-07-30|
-|188|[google/gvisor](https://github.com/google/gvisor)|Application Kernel for Containers|15411|7|2024-08-02|
-|189|[tmc/langchaingo](https://github.com/tmc/langchaingo)|LangChain for Go, the easiest way to write LLM-based programs in Go|3938|7|2024-08-01|
-|190|[shadow1ng/fscan](https://github.com/shadow1ng/fscan)|一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。|9418|7|2024-07-17|
-|191|[nexxeln/mini-git](https://github.com/nexxeln/mini-git)|simplified version of git from scratch|152|7|2024-07-16|
-|192|[GhostTroops/scan4all](https://github.com/GhostTroops/scan4all)|Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...|5378|7|2024-07-12|
-|193|[dunglas/frankenphp](https://github.com/dunglas/frankenphp)|🧟 The modern PHP app server|6463|7|2024-08-02|
-|194|[xataio/pgroll](https://github.com/xataio/pgroll)|PostgreSQL zero-downtime migrations made easy|2878|7|2024-08-01|
-|195|[axllent/mailpit](https://github.com/axllent/mailpit)|An email and SMTP testing tool with API for developers|5120|7|2024-08-01|
-|196|[taubyte/tau](https://github.com/taubyte/tau)|Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.|2736|7|2024-08-01|
-|197|[air-verse/air](https://github.com/air-verse/air)|☁️ Live reload for Go apps|16747|7|2024-07-24|
-|198|[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)|Protect and discover secrets using Gitleaks 🔑|16989|7|2024-08-01|
-|199|[grafana/alloy](https://github.com/grafana/alloy)|OpenTelemetry Collector distribution with programmable pipelines|1091|7|2024-08-02|
-|200|[jetify-com/typeid](https://github.com/jetify-com/typeid)|Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs|2872|7|2024-08-01|
+|185|[infracost/infracost](https://github.com/infracost/infracost)|Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!|10736|7|2024-08-01|
+|186|[coroot/coroot](https://github.com/coroot/coroot)|Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr ...|4883|7|2024-08-01|
+|187|[spf13/viper](https://github.com/spf13/viper)|Go configuration with fangs|26518|7|2024-07-30|
+|188|[google/gvisor](https://github.com/google/gvisor)|Application Kernel for Containers|15412|7|2024-08-03|
+|189|[tmc/langchaingo](https://github.com/tmc/langchaingo)|LangChain for Go, the easiest way to write LLM-based programs in Go|3941|7|2024-08-03|
+|190|[shadow1ng/fscan](https://github.com/shadow1ng/fscan)|一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。|9435|7|2024-07-17|
+|191|[GhostTroops/scan4all](https://github.com/GhostTroops/scan4all)|Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...|5382|7|2024-07-12|
+|192|[dunglas/frankenphp](https://github.com/dunglas/frankenphp)|🧟 The modern PHP app server|6468|7|2024-08-03|
+|193|[xataio/pgroll](https://github.com/xataio/pgroll)|PostgreSQL zero-downtime migrations made easy|2879|7|2024-08-01|
+|194|[axllent/mailpit](https://github.com/axllent/mailpit)|An email and SMTP testing tool with API for developers|5121|7|2024-08-01|
+|195|[taubyte/tau](https://github.com/taubyte/tau)|Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.|2750|7|2024-08-01|
+|196|[air-verse/air](https://github.com/air-verse/air)|☁️ Live reload for Go apps|16758|7|2024-07-24|
+|197|[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)|Protect and discover secrets using Gitleaks 🔑|16998|7|2024-08-01|
+|198|[grafana/alloy](https://github.com/grafana/alloy)|OpenTelemetry Collector distribution with programmable pipelines|1095|7|2024-08-02|
+|199|[jetify-com/typeid](https://github.com/jetify-com/typeid)|Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs|2875|7|2024-08-01|
+|200|[casdoor/casdoor](https://github.com/casdoor/casdoor)|An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google ...|9464|7|2024-08-02|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
