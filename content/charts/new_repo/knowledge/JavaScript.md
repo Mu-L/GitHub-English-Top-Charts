@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5282|2024-07-30|2023-09-26|
-|2|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3292|2024-02-06|2023-11-07|
-|3|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1785|2024-06-28|2023-09-14|
-|4|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1627|2024-05-06|2023-12-31|
+|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5291|2024-07-30|2023-09-26|
+|2|[31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass)|Leetcode Premium Unlocker 2024|3294|2024-02-06|2023-11-07|
+|3|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1789|2024-06-28|2023-09-14|
+|4|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1628|2024-05-06|2023-12-31|
 |5|[EmNudge/watlings](https://github.com/EmNudge/watlings)|Learn WebAssembly by writing small programs!|1622|2024-03-18|2023-08-10|
-|6|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1283|2024-06-10|2023-12-22|
-|7|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1260|2024-07-14|2024-03-01|
+|6|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1285|2024-06-10|2023-12-22|
+|7|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1261|2024-07-14|2024-03-01|
 |8|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn and master NodeJS and backend development by creating a backend framework with 0 dependencies.|1253|2024-06-29|2023-08-12|
 |9|[squaredtechnologies/thread](https://github.com/squaredtechnologies/thread)|AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data|1031|2024-07-26|2024-05-21|
-|10|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|972|2024-05-20|2023-10-05|
-|11|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|884|2024-05-26|2023-09-04|
+|10|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|974|2024-05-20|2023-10-05|
+|11|[bradtraversy/traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges)|Challenges & docs from JS Algorithms & Data Structures course|886|2024-05-26|2023-09-04|
 |12|[nalgeon/codapi-js](https://github.com/nalgeon/codapi-js)|Interactive code examples for documentation, education and fun.|469|2024-06-28|2023-08-16|
 |13|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|430|2024-07-04|2023-12-02|
 |14|[Sblakum-SudocodeSolution/backend_app3](https://github.com/Sblakum-SudocodeSolution/backend_app3)|Learning Backend Development|389|2024-03-14|2024-03-14|
 |15|[eimg/rsd25](https://github.com/eimg/rsd25)|Rockstar Developer 2025 - Book and Source Code|352|2024-07-20|2024-07-16|
 |16|[TamimEhsan/interview-questions-bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh)|A crowd sourced collection of interview questions asked in Bangladeshi Tech companies|295|2024-08-03|2024-03-13|
 |17|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|272|2024-04-20|2023-10-29|
-|18|[mschwarzmueller/nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources)|Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)|267|2024-07-16|2023-12-05|
+|18|[mschwarzmueller/nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources)|Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)|268|2024-07-16|2023-12-05|
 |19|[amalshehu/langchain-js-realworld](https://github.com/amalshehu/langchain-js-realworld)|Langchain realworld examples in JS|175|2024-04-05|2023-08-10|
 |20|[yantra-core/Sutra.js](https://github.com/yantra-core/Sutra.js)|A JavaScript behavior tree library for easily creating and managing complex behavior patterns|170|2024-03-05|2023-11-27|
 |21|[TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)|A list of funds who continue to support Israel's actions long after the genocide of Gaza began|165|2024-02-12|2023-12-29|
