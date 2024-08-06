@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1777|2024-04-25|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1778|2024-04-25|
 |2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|247|2024-07-18|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|167|2024-06-12|
 |4|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|156|2024-07-29|
 |5|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|144|2024-07-24|
-|6|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|109|2024-07-28|
+|6|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|110|2024-07-28|
 |7|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|86|2024-07-06|
-|8|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|65|2024-02-13|
+|8|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|67|2024-08-04|
 |9|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|58|2024-03-17|
 |10|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|43|2024-04-08|
 |11|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|42|2024-03-22|
@@ -47,11 +47,11 @@
 |40|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |4|2024-05-22|
 |41|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-06-13|
 |42|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|2024-06-24|
-|43|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|2024-06-01|
-|44|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-06-04|
-|45|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
-|46|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|
-|47|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|2|2024-02-20|
+|43|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|3|2024-02-20|
+|44|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|2024-06-01|
+|45|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-06-04|
+|46|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
+|47|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|
 |48|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2024-04-13|
 
 <div align="center">

@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
-|2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|155|2024-07-30|2023-10-18|
+|2|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|156|2024-08-05|2023-10-18|
 |3|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|115|2024-05-25|2024-01-08|
-|4|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|97|2024-05-02|2023-11-24|
-|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|91|2024-07-10|2024-02-06|
+|4|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|98|2024-05-02|2023-11-24|
+|5|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|92|2024-07-10|2024-02-06|
 |6|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |89|2024-06-17|2024-01-24|
-|7|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|86|2024-08-04|2023-10-24|
+|7|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|87|2024-08-05|2023-10-24|
 |8|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|85|2024-07-25|2024-05-29|
-|9|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|84|2024-07-30|2024-04-08|
+|9|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|85|2024-07-30|2024-04-08|
 |10|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|83|2024-07-05|2023-10-22|
 |11|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|66|2024-06-20|2024-02-19|
 |12|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|52|2024-07-28|2024-02-14|
@@ -45,8 +45,8 @@
 |38|[rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture)|Event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java  technologies.|11|2024-07-01|2024-07-01|
 |39|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |11|2024-06-21|2024-02-22|
 |40|[GeekLord04/Basics-of-Kotlin](https://github.com/GeekLord04/Basics-of-Kotlin)|This repository serves as a beginner-friendly guide to Kotlin programming. |10|2024-03-06|2024-01-26|
-|41|[isfaaghyth/gemini-ai-kmp](https://github.com/isfaaghyth/gemini-ai-kmp)|Gemini AI with Book Summarization Use Case using KMP|9|2024-05-05|2024-05-03|
-|42|[marwaniaaj/AuthLoginJetpackCompose](https://github.com/marwaniaaj/AuthLoginJetpackCompose)|This project is demo on how to use Firebase Authentication in Jetpack Compose project|9|2024-04-04|2023-12-04|
+|41|[marwaniaaj/AuthLoginJetpackCompose](https://github.com/marwaniaaj/AuthLoginJetpackCompose)|This project is demo on how to use Firebase Authentication in Jetpack Compose project|10|2024-04-04|2023-12-04|
+|42|[isfaaghyth/gemini-ai-kmp](https://github.com/isfaaghyth/gemini-ai-kmp)|Gemini AI with Book Summarization Use Case using KMP|9|2024-05-05|2024-05-03|
 |43|[PraneethJain/pentagon-megathon](https://github.com/PraneethJain/pentagon-megathon)|Psyche-Screener is a tool that emulates an interview screening process|9|2024-02-25|2023-10-28|
 |44|[KillerDogeEmpire/Avocado-Extensions](https://github.com/KillerDogeEmpire/Avocado-Extensions)|The Only Repo For Cloudstream That Contains Audio Book|9|2024-02-18|2023-08-15|
 |45|[devtiro/course-kotlin-spring-boot](https://github.com/devtiro/course-kotlin-spring-boot)|Source code for Devtiro's Kotlin & Spring Boot course|8|2024-07-17|2024-07-17|

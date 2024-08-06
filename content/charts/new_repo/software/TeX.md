@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |312|2024-07-26|2023-12-17|
+|1|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |313|2024-07-26|2023-12-17|
 |2|[kikzontop/SynapseX-free](https://github.com/kikzontop/SynapseX-free)|-|206|2024-04-12|2024-03-23|
 |3|[dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)|latex code from my first year of engineering. |199|2024-02-17|2024-02-17|
-|4|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|157|2024-04-08|2023-08-23|
+|4|[CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities](https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities)|This repo is provided by the Computer Science and Engineering Association (CSEA) at AUC to help students in their internships and job hunt. Good Hunting!|156|2024-04-08|2023-08-23|
 |5|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|129|2024-06-09|2023-11-19|
-|6|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|121|2024-07-23|2023-11-20|
+|6|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|121|2024-08-04|2023-11-20|
 |7|[jamesfang8499/math6-1](https://github.com/jamesfang8499/math6-1)|-|87|2024-05-30|2024-05-28|
-|8|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|87|2024-08-04|2024-04-17|
+|8|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|87|2024-08-05|2024-04-17|
 |9|[JuliaEarth/geospatial-data-science-with-julia](https://github.com/JuliaEarth/geospatial-data-science-with-julia)|Geospatial Data Science with Julia|86|2024-06-19|2023-08-10|
 |10|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Create a unique looking CV from scratch. |85|2024-07-30|2023-10-26|
 |11|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|78|2024-05-13|2023-10-12|
@@ -67,9 +67,9 @@
 |60|[luatexja/luatexja](https://github.com/luatexja/luatexja)|The LuaTeX-ja package|16|2024-08-03|2023-12-27|
 |61|[zhikh23/iu7-qa](https://github.com/zhikh23/iu7-qa)|Подготовка к РК и экзаменам МГТУ им. Баумана ИУ7 "Программная инженерия"|16|2024-04-05|2023-10-09|
 |62|[pigworker/MS4P](https://github.com/pigworker/MS4P)|being some thoughts about introductory mathematics for computer science|15|2024-07-22|2024-05-08|
-|63|[jzarnett/mte241](https://github.com/jzarnett/mte241)|MTE 241: Introduction to Computer Structures & Real-Time Systems|15|2024-08-01|2024-03-02|
-|64|[blackapple113/H-BRS-Thesisvorlage](https://github.com/blackapple113/H-BRS-Thesisvorlage)|-|15|2024-03-27|2023-08-25|
-|65|[faicaiwawa/Response_Letter_Template](https://github.com/faicaiwawa/Response_Letter_Template)|-|14|2024-04-25|2024-03-05|
+|63|[faicaiwawa/Response_Letter_Template](https://github.com/faicaiwawa/Response_Letter_Template)|-|15|2024-04-25|2024-03-05|
+|64|[jzarnett/mte241](https://github.com/jzarnett/mte241)|MTE 241: Introduction to Computer Structures & Real-Time Systems|15|2024-08-01|2024-03-02|
+|65|[blackapple113/H-BRS-Thesisvorlage](https://github.com/blackapple113/H-BRS-Thesisvorlage)|-|15|2024-03-27|2023-08-25|
 |66|[rahul3613/ProofNet-lean4](https://github.com/rahul3613/ProofNet-lean4)|ProofNet dataset ported into Lean 4|14|2024-05-07|2024-03-04|
 |67|[Eryc123Y/Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science)|A math resource for CS student|14|2024-07-07|2024-01-05|
 |68|[fromtimeimportsleep/Sem4](https://github.com/fromtimeimportsleep/Sem4)|Fill this form if you want to be added as a collaborator: https://forms.gle/izyH27vehCq7jom48|14|2024-04-28|2023-12-20|
@@ -84,23 +84,23 @@
 |77|[Mixtape-Sessions/Madrid-2024](https://github.com/Mixtape-Sessions/Madrid-2024)|Codechella Madrid 2024|12|2024-05-30|2024-05-20|
 |78|[AstariaXYZ/starport-whitepaper](https://github.com/AstariaXYZ/starport-whitepaper)|Whitepaper for the Starport Lending Kernel and Astaria v1|12|2024-06-04|2024-01-02|
 |79|[fpvandoorn/carleson](https://github.com/fpvandoorn/carleson)|A formalized proof of Carleson's theorem in Lean|12|2024-07-17|2023-10-20|
-|80|[Vladar4/retrotype](https://github.com/Vladar4/retrotype)|Retrotype aims to replicate the look of old typewriter-made documents while keeping as many benefits of LaTeX as possible.|11|2024-06-20|2024-06-14|
-|81|[yijizhao/BJTU-Thesis-Latex](https://github.com/yijizhao/BJTU-Thesis-Latex)|-|11|2024-04-19|2024-03-24|
-|82|[MBerkayHamurcu/VSCTeX](https://github.com/MBerkayHamurcu/VSCTeX)|An easy-to-use, feature-rich Visual Studio Code Dev Container with a ready-to-use thesis style template for typesetting in LaTeX.|11|2024-07-23|2024-02-04|
-|83|[54dbd/Bibtex-to-GBT7714-2015](https://github.com/54dbd/Bibtex-to-GBT7714-2015)|[Bib2GB]Converting bibtex file to GB/T 7714-2015 format.Bib文件转国标7714|11|2024-05-30|2024-01-16|
-|84|[FlorianAdler/inftyCats](https://github.com/FlorianAdler/inftyCats)|-|11|2024-06-01|2024-01-03|
-|85|[Splines/vscode-latex-wsl-setup](https://github.com/Splines/vscode-latex-wsl-setup)|My setup for writing LaTeX documents on Windows using WSL, VSCode & TeXLive|11|2024-04-11|2023-10-28|
-|86|[ImanRHT/QECO_IEEEJournal](https://github.com/ImanRHT/QECO_IEEEJournal)|QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing|11|2024-03-26|2023-09-27|
-|87|[tomimara52/teoremas-final-discreta-2](https://github.com/tomimara52/teoremas-final-discreta-2)|-|10|2024-07-11|2024-06-19|
-|88|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|10|2024-08-03|2024-04-13|
-|89|[CBolibaugh/Collaborative-reproducible-demo](https://github.com/CBolibaugh/Collaborative-reproducible-demo)|Using Git(hub), RMarkdown and Google Docs (via the Trackdown package) for a reproducible, collaborative workflow.|10|2024-04-08|2024-04-08|
-|90|[toduko/design-and-analysis-of-algorithms](https://github.com/toduko/design-and-analysis-of-algorithms)|Записките ми за упражнения по "Дизайн и анализ на алгоритми"|10|2024-08-01|2024-01-20|
-|91|[GiacoCorsiglia/cu-boulder-thesis-template](https://github.com/GiacoCorsiglia/cu-boulder-thesis-template)|A LaTeX template for writing a thesis at CU Boulder|10|2024-04-02|2023-12-24|
-|92|[LocalCharts/forest](https://github.com/LocalCharts/forest)|-|10|2024-06-25|2023-12-09|
-|93|[alan-turing-institute/gnn-reading-group](https://github.com/alan-turing-institute/gnn-reading-group)|Public-facing repo for organising activities+ archiving material relating to the Graph Neural Network reading group.|10|2024-07-29|2023-10-24|
-|94|[xiamyphys/notebeamer](https://github.com/xiamyphys/notebeamer)|A note template imitated from Goodnotes APP (made by LaTeX).|10|2024-05-06|2023-10-22|
-|95|[quarto-ext/manuscript-template-vscode](https://github.com/quarto-ext/manuscript-template-vscode)|-|10|2024-02-23|2023-09-26|
-|96|[emilyriehl/infinity-cosmos](https://github.com/emilyriehl/infinity-cosmos)|A blueprint for a formalization of infinity-cosmos theory in Lean.|9|2024-08-02|2024-08-01|
+|80|[tomimara52/teoremas-final-discreta-2](https://github.com/tomimara52/teoremas-final-discreta-2)|-|11|2024-07-11|2024-06-19|
+|81|[Vladar4/retrotype](https://github.com/Vladar4/retrotype)|Retrotype aims to replicate the look of old typewriter-made documents while keeping as many benefits of LaTeX as possible.|11|2024-06-20|2024-06-14|
+|82|[yijizhao/BJTU-Thesis-Latex](https://github.com/yijizhao/BJTU-Thesis-Latex)|-|11|2024-04-19|2024-03-24|
+|83|[MBerkayHamurcu/VSCTeX](https://github.com/MBerkayHamurcu/VSCTeX)|An easy-to-use, feature-rich Visual Studio Code Dev Container with a ready-to-use thesis style template for typesetting in LaTeX.|11|2024-07-23|2024-02-04|
+|84|[54dbd/Bibtex-to-GBT7714-2015](https://github.com/54dbd/Bibtex-to-GBT7714-2015)|[Bib2GB]Converting bibtex file to GB/T 7714-2015 format.Bib文件转国标7714|11|2024-05-30|2024-01-16|
+|85|[FlorianAdler/inftyCats](https://github.com/FlorianAdler/inftyCats)|-|11|2024-06-01|2024-01-03|
+|86|[Splines/vscode-latex-wsl-setup](https://github.com/Splines/vscode-latex-wsl-setup)|My setup for writing LaTeX documents on Windows using WSL, VSCode & TeXLive|11|2024-04-11|2023-10-28|
+|87|[ImanRHT/QECO_IEEEJournal](https://github.com/ImanRHT/QECO_IEEEJournal)|QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing|11|2024-03-26|2023-09-27|
+|88|[emilyriehl/infinity-cosmos](https://github.com/emilyriehl/infinity-cosmos)|A blueprint for a formalization of infinity-cosmos theory in Lean.|10|2024-08-05|2024-08-01|
+|89|[rk-kit/Analysis-II-Hundertmark-KIT](https://github.com/rk-kit/Analysis-II-Hundertmark-KIT)| Skript für Analysis II SS 24 am KIT|10|2024-08-05|2024-04-13|
+|90|[CBolibaugh/Collaborative-reproducible-demo](https://github.com/CBolibaugh/Collaborative-reproducible-demo)|Using Git(hub), RMarkdown and Google Docs (via the Trackdown package) for a reproducible, collaborative workflow.|10|2024-04-08|2024-04-08|
+|91|[toduko/design-and-analysis-of-algorithms](https://github.com/toduko/design-and-analysis-of-algorithms)|Записките ми за упражнения по "Дизайн и анализ на алгоритми"|10|2024-08-01|2024-01-20|
+|92|[GiacoCorsiglia/cu-boulder-thesis-template](https://github.com/GiacoCorsiglia/cu-boulder-thesis-template)|A LaTeX template for writing a thesis at CU Boulder|10|2024-04-02|2023-12-24|
+|93|[LocalCharts/forest](https://github.com/LocalCharts/forest)|-|10|2024-06-25|2023-12-09|
+|94|[alan-turing-institute/gnn-reading-group](https://github.com/alan-turing-institute/gnn-reading-group)|Public-facing repo for organising activities+ archiving material relating to the Graph Neural Network reading group.|10|2024-07-29|2023-10-24|
+|95|[xiamyphys/notebeamer](https://github.com/xiamyphys/notebeamer)|A note template imitated from Goodnotes APP (made by LaTeX).|10|2024-05-06|2023-10-22|
+|96|[quarto-ext/manuscript-template-vscode](https://github.com/quarto-ext/manuscript-template-vscode)|-|10|2024-02-23|2023-09-26|
 |97|[MatthewWuu/XMUM-FYP-Template](https://github.com/MatthewWuu/XMUM-FYP-Template)|beta version|9|2024-06-24|2024-06-14|
 |98|[YuxueYang1204/Literature_Reading_Report_Template](https://github.com/YuxueYang1204/Literature_Reading_Report_Template)|-|9|2024-06-20|2024-06-08|
 |99|[jamesfang8499/algebra1](https://github.com/jamesfang8499/algebra1)|-|9|2024-05-03|2024-05-03|
@@ -145,7 +145,7 @@
 |138|[Yupei-Du/uunlp-group-meeting](https://github.com/Yupei-Du/uunlp-group-meeting)|Repository for hosting UU NLP group meeting materials|8|2024-07-21|2023-08-31|
 |139|[parvvaresh/CV-Alireza-Parvaresh](https://github.com/parvvaresh/CV-Alireza-Parvaresh)|This repository contains multiple versions of my CV|8|2024-05-19|2023-08-28|
 |140|[Consensys/linea-specification](https://github.com/Consensys/linea-specification)|Specification of the constraint system underlying Linea's zk-EVM.|7|2024-07-31|2024-07-31|
-|141|[Lissy93/cv](https://github.com/Lissy93/cv)|🧑‍💼 Source code for my CV|7|2024-08-02|2024-07-28|
+|141|[Lissy93/cv](https://github.com/Lissy93/cv)|🧑‍💼 Source code for my CV|7|2024-08-04|2024-07-28|
 |142|[michiganrobotics/ROB-501-Mathematics-for-Robotics-Textbook-linked-to-GitHub-](https://github.com/michiganrobotics/ROB-501-Mathematics-for-Robotics-Textbook-linked-to-GitHub-)|-|7|2024-07-11|2024-07-11|
 |143|[m1ffyz/random](https://github.com/m1ffyz/random)|-|7|2024-07-26|2024-07-09|
 |144|[Yuyyyuuu/Database-matched-Positioning](https://github.com/Yuyyyuuu/Database-matched-Positioning)|-|7|2024-06-18|2024-06-18|

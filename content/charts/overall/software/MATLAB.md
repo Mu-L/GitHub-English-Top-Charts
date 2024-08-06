@@ -1,35 +1,35 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > MATLAB
-<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10311|2024-07-16|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6779|2024-06-01|
-|3|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1525|2024-07-10|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10315|2024-08-05|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6783|2024-06-01|
+|3|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1527|2024-07-10|
 |4|[altmany/export_fig](https://github.com/altmany/export_fig)|A MATLAB toolbox for exporting publication quality figures|1257|2024-05-09|
 |5|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|831|2024-05-05|
-|6|[fieldtrip/fieldtrip](https://github.com/fieldtrip/fieldtrip)|The MATLAB toolbox for MEG, EEG and iEEG analysis|828|2024-07-31|
+|6|[fieldtrip/fieldtrip](https://github.com/fieldtrip/fieldtrip)|The MATLAB toolbox for MEG, EEG and iEEG analysis|829|2024-07-31|
 |7|[bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)|[CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image h ...|749|2024-06-06|
-|8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|720|2024-05-28|
-|9|[benfulcher/hctsa](https://github.com/benfulcher/hctsa)|Highly comparative time-series analysis|719|2024-08-03|
+|8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|721|2024-05-28|
+|9|[benfulcher/hctsa](https://github.com/benfulcher/hctsa)|Highly comparative time-series analysis|719|2024-08-04|
 |10|[shenshikexmu/IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture)|calibration for Imu and show gesture|702|2024-05-09|
 |11|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|651|2024-07-30|
 |12|[alecjacobson/gptoolbox](https://github.com/alecjacobson/gptoolbox)|Matlab toolbox for Geometry Processing.|620|2024-07-22|
 |13|[chebfun/chebfun](https://github.com/chebfun/chebfun)|Chebfun:  numerical computing with functions.|591|2024-08-01|
-|14|[ThomasYeoLab/CBIG](https://github.com/ThomasYeoLab/CBIG)|-|573|2024-07-14|
+|14|[ThomasYeoLab/CBIG](https://github.com/ThomasYeoLab/CBIG)|-|573|2024-08-05|
 |15|[sccn/eeglab](https://github.com/sccn/eeglab)|EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD|571|2024-07-27|
 |16|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|570|2024-02-24|
 |17|[CERN/TIGRE](https://github.com/CERN/TIGRE)|TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox|545|2024-08-02|
 |18|[bw1129/PIDtoolbox](https://github.com/bw1129/PIDtoolbox)|PIDtoolbox is a set of graphical tools for analyzing blackbox log data|537|2024-07-03|
-|19|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|470|2024-02-23|
+|19|[davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier)|MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.|471|2024-02-23|
 |20|[yalmip/YALMIP](https://github.com/yalmip/YALMIP)|MATLAB toolbox for optimization modeling|469|2024-06-28|
 |21|[matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)|Discover pretrained models for deep learning in MATLAB|429|2024-05-22|
 |22|[MATPOWER/matpower](https://github.com/MATPOWER/matpower)|MATPOWER – steady state power flow simulation and optimization for MATLAB and Octave|408|2024-06-14|
-|23|[SanPen/GridCal](https://github.com/SanPen/GridCal)|GridCal, a cross-platform power systems software written in Python with user interface, used in academia and industry.|401|2024-08-02|
+|23|[SanPen/GridCal](https://github.com/SanPen/GridCal)|GridCal, a cross-platform power systems software written in Python with user interface, used in academia and industry.|401|2024-08-05|
 |24|[mks0601/V2V-PoseNet_RELEASE](https://github.com/mks0601/V2V-PoseNet_RELEASE)|Official Torch7 implementation of "V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map", CVPR 2018|377|2024-07-10|
-|25|[plotly/plotly_matlab](https://github.com/plotly/plotly_matlab)|Plotly Graphing Library for MATLAB®|373|2024-08-04|
+|25|[plotly/plotly_matlab](https://github.com/plotly/plotly_matlab)|Plotly Graphing Library for MATLAB®|373|2024-08-05|
 |26|[brainstorm-tools/brainstorm3](https://github.com/brainstorm-tools/brainstorm3)|Brainstorm software: MEG, EEG, fNIRS, ECoG, sEEG and electrophysiology|369|2024-08-04|
 |27|[DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak)|DeepSqueak v3: Using Machine Vision to Accelerate Bioacoustics Research|368|2024-05-07|
 |28|[banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)|HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave|367|2024-07-31|
@@ -44,14 +44,14 @@
 |37|[mtex-toolbox/mtex](https://github.com/mtex-toolbox/mtex)|MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:|276|2024-08-02|
 |38|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|264|2024-05-24|
 |39|[ucdavis/erplab](https://github.com/ucdavis/erplab)|ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools ...|264|2024-07-30|
-|40|[ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning)|Motion planning and Navigation of AGV/AMR：matlab implementation of Dijkstra, A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, RPP, DWA, DDPG ...|257|2024-02-08|
+|40|[ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning)|Motion planning and Navigation of AGV/AMR：matlab implementation of Dijkstra, A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, RPP, DWA, DDPG ...|258|2024-02-08|
 |41|[mattools/matGeom](https://github.com/mattools/matGeom)|Matlab geometry toolbox for 2D/3D geometric computing|256|2024-07-23|
-|42|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|253|2024-07-04|
+|42|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|254|2024-07-04|
 |43|[bastibe/Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab)|Violin Plots for Matlab|248|2024-07-15|
 |44|[opencobra/cobratoolbox](https://github.com/opencobra/cobratoolbox)|The COnstraint-Based Reconstruction and Analysis Toolbox.              Documentation: |242|2024-08-03|
 |45|[HybridRobotics/CBF-CLF-Helper](https://github.com/HybridRobotics/CBF-CLF-Helper)|Matlab Interface for Control Barrier Function (CBF) and Control Lyapunov Function (CLF) based control methods.|237|2024-06-30|
 |46|[ImperialCollegeLondon/sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)|Speech Processing Toolbox for MATLAB|233|2024-07-25|
-|47|[e0404/matRad](https://github.com/e0404/matRad)|An open source multi-modality radiation treatment planning sytem|215|2024-08-02|
+|47|[e0404/matRad](https://github.com/e0404/matRad)|An open source multi-modality radiation treatment planning sytem|215|2024-08-05|
 |48|[cvxr/CVX](https://github.com/cvxr/CVX)|A MATLAB system for disciplined convex programming|214|2024-04-23|
 |49|[ngageoint/MATLAB_SAR](https://github.com/ngageoint/MATLAB_SAR)|A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.|203|2024-06-13|
 |50|[petercorke/spatialmath-matlab](https://github.com/petercorke/spatialmath-matlab)|Create,  manipulate and convert representations of position and orientation in 2D or 3D using Python|197|2024-02-27|
@@ -85,13 +85,13 @@
 |78|[gnu-octave/symbolic](https://github.com/gnu-octave/symbolic)|A Symbolic Package for Octave using SymPy|150|2024-07-04|
 |79|[canlab/CanlabCore](https://github.com/canlab/CanlabCore)|Core tools required for running Canlab Matlab toolboxes. The heart of this toolbox is object-oriented tools that enable interactive analysis of neuroimaging data and simple scripts using high-level co ...|146|2024-08-01|
 |80|[jramshur/HRVAS](https://github.com/jramshur/HRVAS)|Heart Rate Variability Analysis Software|145|2024-05-28|
-|81|[DeepMIMO/DeepMIMO-matlab](https://github.com/DeepMIMO/DeepMIMO-matlab)|DeepMIMO dataset and codes for mmWave and massive MIMO applications|142|2024-07-28|
+|81|[DeepMIMO/DeepMIMO-matlab](https://github.com/DeepMIMO/DeepMIMO-matlab)|DeepMIMO dataset and codes for mmWave and massive MIMO applications|143|2024-07-28|
 |82|[WEC-Sim/WEC-Sim](https://github.com/WEC-Sim/WEC-Sim)|Wave Energy Converter Simulator (WEC-Sim), an open-source code for simulating wave energy converters. |141|2024-07-31|
 |83|[xw-hu/DSC](https://github.com/xw-hu/DSC)|CVPR 2018 (Oral) & TPAMI 2019|140|2024-05-09|
 |84|[zhoupc/CNMF_E](https://github.com/zhoupc/CNMF_E)|Constrained Nonnegative Matrix Factorization for microEndoscopic data |138|2024-08-02|
 |85|[Ro3code/aircraft_3d_animation](https://github.com/Ro3code/aircraft_3d_animation)|A Matlab tool to visualize recorded or simulated flight data|131|2024-05-29|
 |86|[spm/spm12](https://github.com/spm/spm12)|Public Releases of SPM12 - see https://github.com/spm/spm for the Development Version|131|2024-02-05|
-|87|[SwanLab/Swan](https://github.com/SwanLab/Swan)|Topology Optimization Laboratory|130|2024-07-31|
+|87|[SwanLab/Swan](https://github.com/SwanLab/Swan)|Topology Optimization Laboratory|130|2024-08-05|
 |88|[douthwja01/OpenMAS](https://github.com/douthwja01/OpenMAS)|OpenMAS is an open source multi-agent simulator based in Matlab for the simulation of decentralized intelligent systems defined by arbitrary behaviours and dynamics.|128|2024-04-15|
 |89|[naffe15/BVAR_](https://github.com/naffe15/BVAR_)|Empirical macro toolbox|127|2024-05-10|
 |90|[Shrediquette/PIVlab](https://github.com/Shrediquette/PIVlab)|Particle Image Velocimetry for Matlab, official repository|126|2024-07-18|
@@ -104,7 +104,7 @@
 |97|[sofacoustics/SOFAtoolbox](https://github.com/sofacoustics/SOFAtoolbox)|SOFA Toolbox (API for Matlab, Octave)|114|2024-05-31|
 |98|[alexisInSAR/EZ-InSAR](https://github.com/alexisInSAR/EZ-InSAR)|Matlab Interface for Easy InSAR|113|2024-08-03|
 |99|[robotology/whole-body-controllers](https://github.com/robotology/whole-body-controllers)|Simulink-based whole body controllers for humanoid robots. |111|2024-03-01|
-|100|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|107|2024-07-25|
+|100|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|107|2024-08-05|
 |101|[BatzoglouLabSU/SIMLR](https://github.com/BatzoglouLabSU/SIMLR)|Implementations in both Matlab and R of the SIMLR method. The manuscript of the method is available at: https://www.nature.com/articles/nmeth.4207|107|2024-07-22|
 |102|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|107|2024-08-04|
 |103|[jonathanlilly/jLab](https://github.com/jonathanlilly/jLab)|A Matlab toolbox for big data analysis, signal processing, mapping, and oceanographic applications.|107|2024-07-17|
@@ -120,27 +120,27 @@
 |113|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|98|2024-07-26|
 |114|[rafavzqz/geopdes](https://github.com/rafavzqz/geopdes)|GeoPDEs: Isogeometric Analysis in Octave and Matlab, for research and teaching purposes.|98|2024-07-29|
 |115|[TomWebster98/Race-Strategy-Analysis](https://github.com/TomWebster98/Race-Strategy-Analysis)|My personal project for F1 race strategy analysis and visualisations, including "What made the difference?" reports/blogs.|95|2024-05-31|
-|116|[Julie-Fabre/bombcell](https://github.com/Julie-Fabre/bombcell)|Automated quality control, curation and neuron classification of spike-sorted electrophysiology data|94|2024-08-04|
+|116|[Julie-Fabre/bombcell](https://github.com/Julie-Fabre/bombcell)|Automated quality control, curation and neuron classification of spike-sorted electrophysiology data|95|2024-08-04|
 |117|[mathworks/2D-Lid-Driven-Cavity-Flow-Incompressible-Navier-Stokes-Solver](https://github.com/mathworks/2D-Lid-Driven-Cavity-Flow-Incompressible-Navier-Stokes-Solver)|This repository provides MATLAB code for the lid-driven cavity flow where incompressible Navier Stokes equation is numerically solved using a simple 2nd order finite difference scheme on a staggered g ...|94|2024-03-08|
 |118|[ethanhe42/3D-reconstruction](https://github.com/ethanhe42/3D-reconstruction)|two view structure from motion|94|2024-05-02|
 |119|[yp-mit/spectre](https://github.com/yp-mit/spectre)|SPECTRE: Short packet communication toolbox|94|2024-05-29|
 |120|[cvnlab/GLMsingle](https://github.com/cvnlab/GLMsingle)|A toolbox for accurate single-trial estimates in fMRI time-series data|93|2024-07-03|
 |121|[mathworks/Simscape-Battery-Electric-Vehicle-Model](https://github.com/mathworks/Simscape-Battery-Electric-Vehicle-Model)|A Battery Electric Vehicle (BEV) model in Simscape for longitudinal powertrain analysis|93|2024-08-01|
-|122|[petersenpeter/CellExplorer](https://github.com/petersenpeter/CellExplorer)|CellExplorer is a graphical user interface, a standardized processing module and data structure for exploring and classifying single cells acquired using extracellular electrodes.|93|2024-07-18|
-|123|[nlsfi/FGI-GSRx](https://github.com/nlsfi/FGI-GSRx)|FGI-GSRx Open Source multi-GNSS software receiver|92|2024-04-29|
-|124|[zhouwt612/Wireless-Communication-Paper-Code-Reproduce](https://github.com/zhouwt612/Wireless-Communication-Paper-Code-Reproduce)|-|92|2024-04-08|
-|125|[Saeid-jhn/Digital-Image-Watermarking](https://github.com/Saeid-jhn/Digital-Image-Watermarking)|Digital Image Watermarking Method  Based on Hybrid DWT-HD-SVD Technique: Attacks, PSNR, SSIM, NC|92|2024-03-11|
+|122|[Saeid-jhn/Digital-Image-Watermarking](https://github.com/Saeid-jhn/Digital-Image-Watermarking)|Digital Image Watermarking Method  Based on Hybrid DWT-HD-SVD Technique: Attacks, PSNR, SSIM, NC|93|2024-03-11|
+|123|[petersenpeter/CellExplorer](https://github.com/petersenpeter/CellExplorer)|CellExplorer is a graphical user interface, a standardized processing module and data structure for exploring and classifying single cells acquired using extracellular electrodes.|93|2024-07-18|
+|124|[nlsfi/FGI-GSRx](https://github.com/nlsfi/FGI-GSRx)|FGI-GSRx Open Source multi-GNSS software receiver|92|2024-04-29|
+|125|[zhouwt612/Wireless-Communication-Paper-Code-Reproduce](https://github.com/zhouwt612/Wireless-Communication-Paper-Code-Reproduce)|-|92|2024-04-08|
 |126|[SysBioChalmers/yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM)|The consensus GEM for Saccharomyces cerevisiae|92|2024-05-23|
 |127|[european-central-bank/BEAR-toolbox](https://github.com/european-central-bank/BEAR-toolbox)|The Bayesian Estimation, Analysis and Regression toolbox (BEAR) is a comprehensive (Bayesian Panel) VAR toolbox for forecasting and policy analysis.|91|2024-05-15|
 |128|[chuanstudyup/AUV-Path-Following-Simulation](https://github.com/chuanstudyup/AUV-Path-Following-Simulation)|A 3D path following simulation for autonomous underwater vehicle on Matlab/Simulink|90|2024-04-26|
 |129|[BUNPC/Homer3](https://github.com/BUNPC/Homer3)|MATLAB application for fNIRS data processing and visualization|90|2024-06-28|
 |130|[SysBioChalmers/Human-GEM](https://github.com/SysBioChalmers/Human-GEM)|The generic genome-scale metabolic model of Homo sapiens|90|2024-06-24|
-|131|[netstim/leaddbs](https://github.com/netstim/leaddbs)|Lead-DBS is a MATLAB toolbox facilitating deep brain stimulation electrode localization and connectomic neuroimaging.|90|2024-08-01|
+|131|[netstim/leaddbs](https://github.com/netstim/leaddbs)|Lead-DBS is a MATLAB toolbox facilitating deep brain stimulation electrode localization and connectomic neuroimaging.|90|2024-08-05|
 |132|[MathWorks-Teaching-Resources/Fourier-Analysis](https://github.com/MathWorks-Teaching-Resources/Fourier-Analysis)|Learn Fourier analysis using live scripts and apps.|89|2024-04-30|
 |133|[kmansouri/OPERA](https://github.com/kmansouri/OPERA)|Free and open-source application (command line and GUI) providing QSAR models predictions as well as applicability domain and accuracy assessment for physicochemical properties, environmental fate and ...|89|2024-05-14|
 |134|[methlabUZH/automagic](https://github.com/methlabUZH/automagic)|Automagic|88|2024-05-24|
 |135|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|87|2024-06-10|
-|136|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™|86|2024-08-02|
+|136|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™|86|2024-08-05|
 |137|[xiangruili/dicm2nii](https://github.com/xiangruili/dicm2nii)|DICOM to NIfTI conversion, NIfTI tools|86|2024-06-06|
 |138|[4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE)|ARTE (A Robotics Toolbox for Education)|86|2024-02-15|
 |139|[probe-rs/rusty-probe](https://github.com/probe-rs/rusty-probe)|-|85|2024-05-01|
@@ -158,22 +158,22 @@
 |151|[bahanonu/ciatah](https://github.com/bahanonu/ciatah)|CIAtah (pronounced cheetah): a software package for calcium imaging analysis of one- and two-photon imaging datasets. Documentation: https://git.io/ciatah_docs. Formerly known as calciumImagingAnalysi ...|80|2024-07-23|
 |152|[DanielMartensson/MataveID](https://github.com/DanielMartensson/MataveID)|System identification toolbox for GNU Octave and MATLAB|80|2024-05-27|
 |153|[CIC-methods/FID-A](https://github.com/CIC-methods/FID-A)|Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data|80|2024-06-18|
-|154|[darwinlau/CASPR](https://github.com/darwinlau/CASPR)|Cable-robot Analysis and Simulation Platform for Research Open-Source Software|79|2024-03-09|
-|155|[CoSMoMVPA/CoSMoMVPA](https://github.com/CoSMoMVPA/CoSMoMVPA)|A lightweight multivariate pattern analysis (MVPA) toolbox in Matlab / Octave|79|2024-04-26|
-|156|[NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes)|Code supporting 'Geometric constraints on human brain function'|78|2024-02-16|
+|154|[NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes)|Code supporting 'Geometric constraints on human brain function'|79|2024-02-16|
+|155|[darwinlau/CASPR](https://github.com/darwinlau/CASPR)|Cable-robot Analysis and Simulation Platform for Research Open-Source Software|79|2024-03-09|
+|156|[CoSMoMVPA/CoSMoMVPA](https://github.com/CoSMoMVPA/CoSMoMVPA)|A lightweight multivariate pattern analysis (MVPA) toolbox in Matlab / Octave|79|2024-04-26|
 |157|[precise-simulation/cfdtool](https://github.com/precise-simulation/cfdtool)|CFDTool - An easy to use OpenFOAM / SU2 / CFD simulation toolbox|78|2024-06-25|
 |158|[le-liang/HybridPrecodingMassiveMIMO](https://github.com/le-liang/HybridPrecodingMassiveMIMO)|Low-complexity hybrid precoding in massive mulituser MIMO systems, IEEE Wireless Communications Letters|78|2024-03-04|
 |159|[chenpengseu/PassiveDOA-ISAC-RIS](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS)|The passive sensing method for the ISAC system with RIS|76|2024-03-16|
-|160|[iff-gsc/LADAC](https://github.com/iff-gsc/LADAC)|Library for Aircraft Dynamics And Control|76|2024-07-31|
+|160|[iff-gsc/LADAC](https://github.com/iff-gsc/LADAC)|Library for Aircraft Dynamics And Control|76|2024-08-05|
 |161|[duongpm/SPSO](https://github.com/duongpm/SPSO)|Spherical Vector-based Particle Swarm Optimization|76|2024-03-30|
 |162|[AffectAnalysisGroup/AFARtoolbox](https://github.com/AffectAnalysisGroup/AFARtoolbox)|AFAR: A Deep Learning Based Toolbox for Automated Facial Affect Recognition|76|2024-04-01|
-|163|[vfitoolkit/VFIToolkit-matlab](https://github.com/vfitoolkit/VFIToolkit-matlab)|A Matlab Toolkit for Macroeconomic Models using Value Function Iteration|76|2024-08-03|
+|163|[vfitoolkit/VFIToolkit-matlab](https://github.com/vfitoolkit/VFIToolkit-matlab)|A Matlab Toolkit for Macroeconomic Models using Value Function Iteration|76|2024-08-05|
 |164|[kristinbranson/JAABA](https://github.com/kristinbranson/JAABA)|Janelia Animal Behavior Detector|76|2024-07-17|
 |165|[Tracesource/EOMSC-CA](https://github.com/Tracesource/EOMSC-CA)|[AAAI 2022] Code of "Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors"|75|2024-02-28|
 |166|[conorhennessy/SLAM-Course-Solutions](https://github.com/conorhennessy/SLAM-Course-Solutions)|Solutions to assignments for Robot Mapping / SLAM Course WS 2013/14, Uni of Freiburg.   Please see to linked website and README for YouTube videos & further resources.|75|2024-03-29|
-|167|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|75|2024-03-20|
-|168|[AudioCommons/timbral_models](https://github.com/AudioCommons/timbral_models)|Python scripts for modelling timbral attributes|75|2024-06-17|
-|169|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|74|2024-02-08|
+|167|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|75|2024-02-08|
+|168|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|75|2024-03-20|
+|169|[AudioCommons/timbral_models](https://github.com/AudioCommons/timbral_models)|Python scripts for modelling timbral attributes|75|2024-06-17|
 |170|[yeatmanlab/AFQ](https://github.com/yeatmanlab/AFQ)|Automated Fiber Quantification|74|2024-03-06|
 |171|[mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples)|This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.|73|2024-05-08|
 |172|[yijiang1/fold_slice](https://github.com/yijiang1/fold_slice)|Electron/X-ray ptychography and tomography/laminography|73|2024-07-28|

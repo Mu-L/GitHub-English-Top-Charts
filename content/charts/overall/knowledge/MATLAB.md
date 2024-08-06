@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2680|2024-07-16|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2686|2024-07-16|
 |2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1366|2024-07-27|
-|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1172|2024-06-03|
-|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|365|2024-06-06|
+|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1174|2024-06-03|
+|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|366|2024-06-06|
 |5|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|364|2024-03-12|
-|6|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|258|2024-07-31|
-|7|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|257|2024-07-11|
+|6|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|258|2024-07-11|
+|7|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|258|2024-07-31|
 |8|[dynamicslab/databook_matlab](https://github.com/dynamicslab/databook_matlab)|Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz http://w ...|250|2024-02-09|
 |9|[translationalneuromodeling/tapas](https://github.com/translationalneuromodeling/tapas)|TAPAS - Translational Algorithms for Psychiatry-Advancing Science|213|2024-08-02|
 |10|[mikexcohen/AnalyzingNeuralTimeSeries](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)|Code for ANTS book (Cohen, 2012, MIT Press)|171|2024-03-05|
@@ -63,7 +63,7 @@
 |56|[SafeRoboticsLab/Dual_Control_HRI](https://github.com/SafeRoboticsLab/Dual_Control_HRI)|Implementation of implicit dual control-based active uncertainty learning for human-robot interaction - WAFR 2022 & IJRR 2023|22|2024-06-24|
 |57|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|22|2024-07-14|
 |58|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|22|2024-08-01|
-|59|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|21|2024-08-03|
+|59|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|21|2024-08-05|
 |60|[DeepMIMO/DeepMIMO-examples](https://github.com/DeepMIMO/DeepMIMO-examples)|DeepMIMO dataset examples|21|2024-03-23|
 |61|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|21|2024-04-30|
 |62|[szuyul/MMF-simulation](https://github.com/szuyul/MMF-simulation)|Compute the vectorial model of guided modes in an optical multimode fiber (MMF) and simulate fiber transmission in different representations.|21|2024-02-13|
@@ -94,13 +94,13 @@
 |87|[LarsonLab/Radial-Field-of-Views](https://github.com/LarsonLab/Radial-Field-of-Views)|Radial sampling patterns in frequency space to support anisotropic field of views (FOVs) in the dual domain|14|2024-02-28|
 |88|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|13|2024-08-01|
 |89|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|13|2024-04-09|
-|90|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|13|2024-04-30|
-|91|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|13|2024-05-16|
-|92|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
-|93|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
-|94|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|12|2024-08-02|
-|95|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|12|2024-04-13|
-|96|[THUHoloLab/Optimization_algorithms_for_CGH](https://github.com/THUHoloLab/Optimization_algorithms_for_CGH)|Collection of hologram optmization algorithms, inclusing alternating projection, quasi-Newton method, stochastic gradient descent|12|2024-07-09|
+|90|[THUHoloLab/Optimization_algorithms_for_CGH](https://github.com/THUHoloLab/Optimization_algorithms_for_CGH)|Collection of hologram optmization algorithms, inclusing alternating projection, quasi-Newton method, stochastic gradient descent|13|2024-07-09|
+|91|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|13|2024-04-30|
+|92|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|13|2024-05-16|
+|93|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
+|94|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
+|95|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|12|2024-08-02|
+|96|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|12|2024-04-13|
 |97|[MathWorks-Teaching-Resources/Calculus-Derivatives](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives)|Interactive module that introduces fundamentals of derivatives including the product and chain rule as presented in Calculus I courses|12|2024-07-30|
 |98|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|
 |99|[zsunberg/Aircraft-Dynamics-Materials](https://github.com/zsunberg/Aircraft-Dynamics-Materials)|Course materials for Aircraft Dynamics (ASEN 3728) at CU Boulder|11|2024-06-14|
@@ -190,18 +190,18 @@
 |183|[mobo-d/DirHV-EGO](https://github.com/mobo-d/DirHV-EGO)|Open-source implementation of TEVC'2024 paper "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"|5|2024-06-20|
 |184|[weimin581/WSGGF](https://github.com/weimin581/WSGGF)|[PR'2024] ''Weighted side-window based gradient guided image filtering'', Weimin Yuan, Cai Meng, Xiangzhi Bai|5|2024-04-30|
 |185|[dakiefer/GEW_dispersion_script](https://github.com/dakiefer/GEW_dispersion_script)|Script to compute guided waves in plates.|5|2024-02-09|
-|186|[ahnafshahrear/Digital-Signal-Processing-Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)|Academic Lab Course of the 27th batch of Computer Science & Engineering   University of Rajshahi - 🇧🇩|5|2024-02-04|
-|187|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
-|188|[RaiBP/vlc_thesis](https://github.com/RaiBP/vlc_thesis)|Source code for the Diploma Thesis "Evaluation of Extreme Learning Machine as Channel Equalizer for Color-Shift Keying-Based Visible Light Communication Systems Employed in Underground Mining Scenario ...|5|2024-07-17|
-|189|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
-|190|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
-|191|[chengle-zhou/SaMKL_demo](https://github.com/chengle-zhou/SaMKL_demo)|Structure-Aware Multi-Kernel Learning for Hyperspectral Image Classification (IEEE J-STARS，2021)|5|2024-07-07|
-|192|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
-|193|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|2024-04-30|
-|194|[natmegsweden/NatMEG_Wiki](https://github.com/natmegsweden/NatMEG_Wiki)|NatMEG Wiki documentation, example scripts, and tutorials.|5|2024-02-23|
-|195|[SiamakGhodsi/SPMLD](https://github.com/SiamakGhodsi/SPMLD)|Self-Paced Multi-Label Learning with Diversity|5|2024-02-27|
-|196|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|2024-02-16|
-|197|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|2024-07-18|
+|186|[IqbalAlamJmi/Project-Brain-Tumor-Classification](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification)|This work describes the detection of brain tumor using Machine Learning algorithms and Image processing Technique. The accuracy of the model is 91.33%.|5|2024-03-25|
+|187|[RaiBP/vlc_thesis](https://github.com/RaiBP/vlc_thesis)|Source code for the Diploma Thesis "Evaluation of Extreme Learning Machine as Channel Equalizer for Color-Shift Keying-Based Visible Light Communication Systems Employed in Underground Mining Scenario ...|5|2024-07-17|
+|188|[quanser/Mathworks_QLabs](https://github.com/quanser/Mathworks_QLabs)|Quanser Interactive Labs is a platform that allows users to interface with digital twins of physical lab experiments used for Controls and Robotics courses at thousands of universities around the worl ...|5|2024-04-18|
+|189|[MathWorks-Teaching-Resources/Probability-Theory](https://github.com/MathWorks-Teaching-Resources/Probability-Theory)|A courseware module that covers the fundamental concepts in probability theory and their implications in data science. Topics include probability, random variables, and Bayes' Theorem. |5|2024-04-30|
+|190|[chengle-zhou/SaMKL_demo](https://github.com/chengle-zhou/SaMKL_demo)|Structure-Aware Multi-Kernel Learning for Hyperspectral Image Classification (IEEE J-STARS，2021)|5|2024-07-07|
+|191|[FIL-OPMEG/tutorials_interference](https://github.com/FIL-OPMEG/tutorials_interference)|Tutorial scripts for the paper: 'Interference suppression techniques for OPM-based MEG:  Opportunities and challenges'|5|2024-04-10|
+|192|[MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability)|Interactive courseware module that addresses common foundational-level concepts taught in statistics courses.|5|2024-04-30|
+|193|[natmegsweden/NatMEG_Wiki](https://github.com/natmegsweden/NatMEG_Wiki)|NatMEG Wiki documentation, example scripts, and tutorials.|5|2024-02-23|
+|194|[SiamakGhodsi/SPMLD](https://github.com/SiamakGhodsi/SPMLD)|Self-Paced Multi-Label Learning with Diversity|5|2024-02-27|
+|195|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|2024-02-16|
+|196|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|2024-07-18|
+|197|[mattools/matlab-templates](https://github.com/mattools/matlab-templates)|A collection of functions for quickly generating pre-edited matlab files for specific use cases|5|2024-07-19|
 |198|[hdfeos/zoo](https://github.com/hdfeos/zoo)|HDF-EOS Comprehensive Examples|5|2024-08-02|
 |199|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|5|2024-07-30|
 |200|[BioMEMS/AnalyzeIMS](https://github.com/BioMEMS/AnalyzeIMS)|AnalyzeIMS (AIMS) software developed in Prof. Cristina Davis' BioInstrumentation and BioMEMS Laboratory.  Publications (i.e. articles, book chapters, etc.) that use this software are required to cite  ...|5|2024-07-11|
