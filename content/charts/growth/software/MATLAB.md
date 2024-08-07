@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10315|356|2024-08-05|
-|2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|82|3|2024-07-13|
-|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6783|2|2024-06-01|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10325|344|2024-08-05|
+|2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|84|3|2024-07-13|
+|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6785|2|2024-06-01|
 |4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|264|2|2024-05-24|
-|5|[mahdieslaminet/Capritios_Filter_Design](https://github.com/mahdieslaminet/Capritios_Filter_Design)|-|6|2|2024-08-02|
-|6|[mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM](https://github.com/mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM)|Advanced-Techniques-for-LFM-and-NLFM|12|2|2024-08-02|
-|7|[mahdieslaminet/EC-GWO](https://github.com/mahdieslaminet/EC-GWO)|EC-GWO: A Hybrid Clustering and Routing Protocol for IoV Leveraging Edge Computing and Bio-inspired Gray Wolf Optimization|19|2|2024-08-01|
-|8|[mahdieslaminet/adaptive_image_restoration](https://github.com/mahdieslaminet/adaptive_image_restoration)|An adaptive image restoration based on high order total variation and inverse gradient|19|2|2024-08-01|
-|9|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|1|2024-07-29|
-|10|[Hoseindadras/EEG-Electroencephalogram](https://github.com/Hoseindadras/EEG-Electroencephalogram)|-|5|1|2024-07-28|
-|11|[tasteofbbq/ICA4ATWS](https://github.com/tasteofbbq/ICA4ATWS)|-|8|1|2024-07-30|
-|12|[mahdieslaminet/genetic_algorithm_for_intrusion_detection](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection)|Selection of dynamic features based on genetic algorithm of non-dominant sorting and combination with Fuzzy clustering for intrusion detection system|11|1|2024-07-31|
-|13|[mahdieslaminet/Image_Edge_Detection](https://github.com/mahdieslaminet/Image_Edge_Detection)|تشخيص لبه هاي تصوير و از بين بردن نويز|14|1|2024-08-03|
-|14|[Hoseindadras/Behavioral-Tasks-Designing](https://github.com/Hoseindadras/Behavioral-Tasks-Designing)|-|5|1|2024-07-28|
-|15|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|651|1|2024-07-30|
-|16|[aaronlikens/ASB2024](https://github.com/aaronlikens/ASB2024)|This repo contains materials for use in our RQA workshop for the 2024 American Society of Biomechanics Conference|3|1|2024-08-05|
-|17|[Hoseindadras/The-Hodgkin-Hoxley-Model](https://github.com/Hoseindadras/The-Hodgkin-Hoxley-Model)|-|5|1|2024-07-28|
-|18|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|721|1|2024-05-28|
-|19|[sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method](https://github.com/sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method)|Aeronautical Communication Traffic Simulation Based on Kernel Density Estimation Method|6|1|2024-07-29|
-|20|[mahdieslaminet/ECG_signal_noise_removal](https://github.com/mahdieslaminet/ECG_signal_noise_removal)|ECG signal noise removal|15|1|2024-08-02|
-|21|[ramcdona/bat-perf](https://github.com/ramcdona/bat-perf)|A simple battery performance model appropriate for conceptual design and performance analysis of electric aircraft.|5|1|2024-07-28|
-|22|[mahdieslaminet/Empirical_Wavelet_Transform_Of_ECG_Signal](https://github.com/mahdieslaminet/Empirical_Wavelet_Transform_Of_ECG_Signal)|Empirical Wavelet Transform Of ECG Signal Example|6|1|2024-08-03|
-|23|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1527|1|2024-07-10|
+|5|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|1|2024-07-29|
+|6|[Hoseindadras/EEG-Electroencephalogram](https://github.com/Hoseindadras/EEG-Electroencephalogram)|-|6|1|2024-07-28|
+|7|[tasteofbbq/ICA4ATWS](https://github.com/tasteofbbq/ICA4ATWS)|-|9|1|2024-07-30|
+|8|[mahdieslaminet/genetic_algorithm_for_intrusion_detection](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection)|Selection of dynamic features based on genetic algorithm of non-dominant sorting and combination with Fuzzy clustering for intrusion detection system|11|1|2024-07-31|
+|9|[mahdieslaminet/Image_Edge_Detection](https://github.com/mahdieslaminet/Image_Edge_Detection)|تشخيص لبه هاي تصوير و از بين بردن نويز|14|1|2024-08-03|
+|10|[mahdieslaminet/Capritios_Filter_Design](https://github.com/mahdieslaminet/Capritios_Filter_Design)|-|6|1|2024-08-02|
+|11|[mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM](https://github.com/mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM)|Advanced-Techniques-for-LFM-and-NLFM|12|1|2024-08-02|
+|12|[Hoseindadras/Behavioral-Tasks-Designing](https://github.com/Hoseindadras/Behavioral-Tasks-Designing)|-|5|1|2024-07-28|
+|13|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|652|1|2024-07-30|
+|14|[aaronlikens/ASB2024](https://github.com/aaronlikens/ASB2024)|This repo contains materials for use in our RQA workshop for the 2024 American Society of Biomechanics Conference|3|1|2024-08-05|
+|15|[mahdieslaminet/EC-GWO](https://github.com/mahdieslaminet/EC-GWO)|EC-GWO: A Hybrid Clustering and Routing Protocol for IoV Leveraging Edge Computing and Bio-inspired Gray Wolf Optimization|19|1|2024-08-01|
+|16|[Hoseindadras/The-Hodgkin-Hoxley-Model](https://github.com/Hoseindadras/The-Hodgkin-Hoxley-Model)|-|5|1|2024-07-28|
+|17|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|722|1|2024-05-28|
+|18|[sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method](https://github.com/sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method)|Aeronautical Communication Traffic Simulation Based on Kernel Density Estimation Method|6|1|2024-07-29|
+|19|[mahdieslaminet/ECG_signal_noise_removal](https://github.com/mahdieslaminet/ECG_signal_noise_removal)|ECG signal noise removal|15|1|2024-08-02|
+|20|[ramcdona/bat-perf](https://github.com/ramcdona/bat-perf)|A simple battery performance model appropriate for conceptual design and performance analysis of electric aircraft.|5|1|2024-07-28|
+|21|[mahdieslaminet/Empirical_Wavelet_Transform_Of_ECG_Signal](https://github.com/mahdieslaminet/Empirical_Wavelet_Transform_Of_ECG_Signal)|Empirical Wavelet Transform Of ECG Signal Example|6|1|2024-08-03|
+|22|[mahdieslaminet/adaptive_image_restoration](https://github.com/mahdieslaminet/adaptive_image_restoration)|An adaptive image restoration based on high order total variation and inverse gradient|19|1|2024-08-01|
+|23|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1528|1|2024-07-10|
 |24|[MusabMasalmah/Communication-Course-Project](https://github.com/MusabMasalmah/Communication-Course-Project)|-|3|0|2024-03-06|
 |25|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|8|0|2024-05-29|
 |26|[nadimgh/lego-brick](https://github.com/nadimgh/lego-brick)|-|4|0|2024-03-02|
@@ -41,7 +41,7 @@
 |34|[Lcrypto/trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)| Importance Sampling and Linear Programming based Enumerating and Weighing of Trapping sets in LDPC codes, ISING models and related DNN Arch( Transformer, RBM, BM, SPN und etc), |20|0|2024-03-14|
 |35|[somayehabdi216/Genetic-Algorithm](https://github.com/somayehabdi216/Genetic-Algorithm)|This repository contains a GA algorithm for task scheduling in edge-cloud computing.|3|0|2024-02-08|
 |36|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|5|0|2024-06-05|
-|37|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|6|0|2024-08-01|
+|37|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|0|2024-08-01|
 |38|[LabForComputationalVision/matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools)|MatLab tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids|175|0|2024-02-26|
 |39|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |53|0|2024-05-09|
 |40|[bootstrap666/joBFAEC](https://github.com/bootstrap666/joBFAEC)|Statistical model of a jointly optimized beamformer-assisted acoustic echo canceler (AEC)|3|0|2024-04-05|
@@ -79,7 +79,7 @@
 |72|[Liuchao-JIN/Liuchao-JIN.github.io](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io)|-|3|0|2024-07-31|
 |73|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
 |74|[lixixibj/DeepTVAR-data-code](https://github.com/lixixibj/DeepTVAR-data-code)|-|4|0|2024-06-13|
-|75|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|32|0|2024-07-30|
+|75|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|32|0|2024-08-06|
 |76|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|180|0|2024-05-02|
 |77|[SyedShehryarAli/EV-Speed-Control-](https://github.com/SyedShehryarAli/EV-Speed-Control-)|This repository contains the Electric Vehicle (EV) dataset and Matlab code for speed control and energy efficiency in EVs using Optimization Techniques|3|0|2024-03-04|
 |78|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|4|0|2024-05-14|
@@ -98,8 +98,8 @@
 |91|[szu2020222001/SZU-Graduation_Project](https://github.com/szu2020222001/SZU-Graduation_Project)|This repository contains some related codes for data processing and model building.|3|0|2024-05-06|
 |92|[crvlh/Pressure-sensitive-platform-optical-fiber-sensors](https://github.com/crvlh/Pressure-sensitive-platform-optical-fiber-sensors)|-|3|0|2024-03-08|
 |93|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|6|0|2024-04-03|
-|94|[AthinaLange/CoastalLens](https://github.com/AthinaLange/CoastalLens)|Toolbox to rectify UAV video in coastal oceanography|4|0|2024-07-30|
-|95|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|349|0|2024-05-27|
+|94|[AthinaLange/CoastalLens](https://github.com/AthinaLange/CoastalLens)|Toolbox to rectify UAV video in coastal oceanography|4|0|2024-08-06|
+|95|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|350|0|2024-05-27|
 |96|[ARDVARC/ARDVARC](https://github.com/ARDVARC/ARDVARC)|Team ARDVARC's github repository|5|0|2024-05-04|
 |97|[stefanSchinkel/bvaloader](https://github.com/stefanSchinkel/bvaloader)| load and epoch Brain Vision data with Matlab - but without EEGlab|6|0|2024-05-24|
 |98|[bhqasx/1D-Shallow_exact](https://github.com/bhqasx/1D-Shallow_exact)|exact Riemann solver for 1D shallow water equations|4|0|2024-05-29|
@@ -132,9 +132,9 @@
 |125|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|16|0|2024-08-04|
 |126|[OpenHUTB/matlab](https://github.com/OpenHUTB/matlab)|-|8|0|2024-02-18|
 |127|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|43|0|2024-06-03|
-|128|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|15|0|2024-03-26|
+|128|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|16|0|2024-03-26|
 |129|[PerkLab/SlicerMatlabBridge](https://github.com/PerkLab/SlicerMatlabBridge)|MatlabBridge extension for 3D Slicer|17|0|2024-04-23|
-|130|[Yemini-Lab/NeuroPAL_ID](https://github.com/Yemini-Lab/NeuroPAL_ID)|Research software for (semi-) automated detection and identification of neurons in images of NeuroPAL, extract ID’d neural activity traces from NeuroPAL;GCaMP animals, and upload these datasets to pub ...|5|0|2024-08-02|
+|130|[Yemini-Lab/NeuroPAL_ID](https://github.com/Yemini-Lab/NeuroPAL_ID)|Research software for (semi-) automated detection and identification of neurons in images of NeuroPAL, extract ID’d neural activity traces from NeuroPAL;GCaMP animals, and upload these datasets to pub ...|5|0|2024-08-06|
 |131|[yulisun/LPEM](https://github.com/yulisun/LPEM)|Locality Preservation for Unsupervised Multimodal Change Detection|6|0|2024-07-24|
 |132|[IntronRewrite/AGV-Scheduling](https://github.com/IntronRewrite/AGV-Scheduling)|Fully Loaded AGV Scheduling Considering Weight Limits and Time Constraints in Automatic Container Terminal|3|0|2024-07-04|
 |133|[macs-lab/macs-arb-adaptive-regulation-benchmark](https://github.com/macs-lab/macs-arb-adaptive-regulation-benchmark)|Fast adaptative regulation of time-varying disturbances demo.|7|0|2024-06-19|
@@ -172,7 +172,7 @@
 |165|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|107|0|2024-08-04|
 |166|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|831|0|2024-05-05|
 |167|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|19|0|2024-04-01|
-|168|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|254|0|2024-07-04|
+|168|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|255|0|2024-07-04|
 |169|[anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2](https://github.com/anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2)|Performance evaluation of clustering protocols in ns2|3|0|2024-05-18|
 |170|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
 |171|[matteonerini/bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization|4|0|2024-03-01|
@@ -189,22 +189,22 @@
 |182|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
 |183|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
 |184|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-05|
-|185|[sxt1996/CTTD](https://github.com/sxt1996/CTTD)|Information Retrieval With Chessboard-Shaped Topology for Hyperspectral Target Detection, TGRS. (MATLAB)|5|0|2024-02-05|
-|186|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-06-18|
-|187|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
-|188|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|3|0|2024-04-10|
-|189|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
-|190|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-06-21|
-|191|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
-|192|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|3|0|2024-06-18|
-|193|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|6|0|2024-07-30|
-|194|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
-|195|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-07-17|
-|196|[awohns/ldgm](https://github.com/awohns/ldgm)|Software for linkage disequilibrium graphical models|14|0|2024-03-04|
-|197|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
-|198|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|22|0|2024-07-07|
-|199|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
-|200|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|7|0|2024-07-30|
+|185|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-06-18|
+|186|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
+|187|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|3|0|2024-04-10|
+|188|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
+|189|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-08-06|
+|190|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
+|191|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|3|0|2024-06-18|
+|192|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|6|0|2024-07-30|
+|193|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
+|194|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-07-17|
+|195|[awohns/ldgm](https://github.com/awohns/ldgm)|Software for linkage disequilibrium graphical models|14|0|2024-03-04|
+|196|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
+|197|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|22|0|2024-07-07|
+|198|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
+|199|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|7|0|2024-07-30|
+|200|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|10|0|2024-05-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
