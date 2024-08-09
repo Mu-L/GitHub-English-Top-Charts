@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-08-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|93|2024-07-27|2024-06-27|
+|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|95|2024-07-27|2024-06-27|
 |2|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|66|2024-07-01|2024-01-30|
 |3|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|57|2024-08-06|2024-03-01|
 |4|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|42|2024-06-29|2023-09-21|
@@ -47,18 +47,18 @@
 |40|[wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji)|An easy emoji plugin for vim written in vim9script|9|2024-06-18|2023-09-27|
 |41|[girishji/vimbits](https://github.com/girishji/vimbits)|Curated Suite of Lightweight Vim Plugins.|8|2024-06-20|2024-06-05|
 |42|[shawilly/ponokai](https://github.com/shawilly/ponokai)|A pastelly Monokaiesque colorscheme for vim and neovim.|8|2024-06-11|2024-05-09|
-|43|[Balthael/KaliEntorno](https://github.com/Balthael/KaliEntorno)|Personalizacion de BSPWN en Kali|8|2024-04-25|2024-04-14|
-|44|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-07-09|2024-04-05|
-|45|[avm99963/vim-jjdescription](https://github.com/avm99963/vim-jjdescription)|Plugin which adds syntax highlighting to .jjdescription files in Vim -- (mirror of the original repo at Gerrit: https://gerrit.avm99963.com/plugins/gitiles/vim/jjdescription/)|8|2024-05-28|2024-01-30|
-|46|[Debajyati/perfect-vimrc](https://github.com/Debajyati/perfect-vimrc)|A highly customized vim/neovim configuration in vimscript|8|2024-07-31|2023-10-03|
-|47|[Balthael/ParrotEntorno](https://github.com/Balthael/ParrotEntorno)|-|7|2024-04-25|2024-04-24|
+|43|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-07-09|2024-04-05|
+|44|[avm99963/vim-jjdescription](https://github.com/avm99963/vim-jjdescription)|Plugin which adds syntax highlighting to .jjdescription files in Vim -- (mirror of the original repo at Gerrit: https://gerrit.avm99963.com/plugins/gitiles/vim/jjdescription/)|8|2024-05-28|2024-01-30|
+|45|[Debajyati/perfect-vimrc](https://github.com/Debajyati/perfect-vimrc)|A highly customized vim/neovim configuration in vimscript|8|2024-07-31|2023-10-03|
+|46|[Balthael/ParrotEntorno](https://github.com/Balthael/ParrotEntorno)|-|7|2024-04-25|2024-04-24|
+|47|[Balthael/KaliEntorno](https://github.com/Balthael/KaliEntorno)|Personalizacion de BSPWN en Kali|7|2024-04-25|2024-04-14|
 |48|[magal1337/dataform.nvim](https://github.com/magal1337/dataform.nvim)|Dataform Core Plugin for Neovim|7|2024-06-19|2024-03-12|
 |49|[greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama)|Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama|7|2024-04-11|2024-03-02|
 |50|[usrbinkat/pulumi-kubernetes](https://github.com/usrbinkat/pulumi-kubernetes)|surprise|7|2024-04-10|2024-01-12|
 |51|[habamax/vim-ii](https://github.com/habamax/vim-ii)|IRC with suckless Irc it (ii) and vim|7|2024-07-08|2023-12-09|
-|52|[girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim)|Python API documentation for Vim and Neovim|7|2024-06-04|2023-09-08|
+|52|[girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim)|Python API documentation for Vim and Neovim|7|2024-08-08|2023-09-08|
 |53|[Togohogo1/dotfiles](https://github.com/Togohogo1/dotfiles)|Linux configuration files. “Just some alien fruit salad to keep you in the zone”!|6|2024-05-05|2024-01-04|
-|54|[ericaviana12/senac-tat](https://github.com/ericaviana12/senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-08-05|2023-11-15|
+|54|[ericaviana12/senac-tat](https://github.com/ericaviana12/senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-08-07|2023-11-15|
 |55|[lifepillar/vim-keysound](https://github.com/lifepillar/vim-keysound)|Turn Vim into a typewriter!|6|2024-05-05|2023-10-14|
 |56|[cwshugg/fops.vim](https://github.com/cwshugg/fops.vim)|A Vim plugin that provides useful commands for file operations.|5|2024-08-06|2024-07-24|
 |57|[cwshugg/argonaut.vim](https://github.com/cwshugg/argonaut.vim)|Supercharge your Vim commands with powerful, customizable argument parsing!|5|2024-08-02|2024-07-19|
@@ -128,7 +128,7 @@
 |121|[Treeniks/isabelle-syn.nvim](https://github.com/Treeniks/isabelle-syn.nvim)|-|2|2024-05-15|2023-11-10|
 |122|[pylover/env](https://github.com/pylover/env)|My Ubuntu personalized terminal environment|2|2024-06-16|2023-10-30|
 |123|[sogaiu/janet-neovim-trial-kit](https://github.com/sogaiu/janet-neovim-trial-kit)|Try Janet Support in Neovim with Relatively Minimal Fuss|2|2024-07-08|2023-10-10|
-|124|[leoshimo/dots](https://github.com/leoshimo/dots)|Dotfiles for leoshimo|2|2024-08-02|2023-08-20|
+|124|[leoshimo/dots](https://github.com/leoshimo/dots)|Dotfiles for leoshimo|2|2024-08-08|2023-08-20|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
