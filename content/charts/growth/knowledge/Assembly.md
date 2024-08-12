@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15482|11|2024-07-10|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|10829|7|2024-08-05|
-|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2173|1|2024-07-17|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15487|11|2024-07-10|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.|10833|7|2024-08-05|
+|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2174|1|2024-07-17|
 |4|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|338|1|2024-04-13|
-|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|763|1|2024-05-03|
+|5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|764|1|2024-05-03|
 |6|[rgplantz/itco_ARM](https://github.com/rgplantz/itco_ARM)|For RPi book|3|0|2024-08-09|
 |7|[ReferTV/Assembly-Calculator](https://github.com/ReferTV/Assembly-Calculator)|The Simple Calculator project is a demonstration of basic arithmetic operations implemented in x86_64 assembly language. This project serves as an educational resource for those interested in learning ...|2|0|2024-04-10|
 |8|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|44|0|2024-04-04|
@@ -28,10 +28,10 @@
 |21|[mrfearless/libraries](https://github.com/mrfearless/libraries)|Collection of libraries for use with x86 / x64 assembler|102|0|2024-07-11|
 |22|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|28|0|2024-06-20|
 |23|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|0|2024-04-30|
-|24|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|500|0|2024-07-27|
+|24|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|502|0|2024-07-27|
 |25|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|21|0|2024-06-14|
 |26|[electrondefuser/disARM](https://github.com/electrondefuser/disARM)|Collection of ARMv7 and ARMv8 assembly for learning the ARM instruction set|3|0|2024-02-26|
-|27|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-08-09|
+|27|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|0|2024-08-11|
 |28|[nerdprojects/epson-hx20-software](https://github.com/nerdprojects/epson-hx20-software)|Collection of small programs I wrote for the HX-20|4|0|2024-04-22|
 |29|[langel/vic20-songs](https://github.com/langel/vic20-songs)|collection of audio programs for commodore vic20|3|0|2024-07-30|
 |30|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|10|0|2024-07-14|
@@ -54,7 +54,7 @@
 |47|[haiwei-li/study](https://github.com/haiwei-li/study)|Study blog. Much more about KVM/Kernel/Virtualization.|65|0|2024-08-09|
 |48|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|38|0|2024-05-15|
 |49|[maxim-zhao/zexall-sms](https://github.com/maxim-zhao/zexall-sms)|Sega Master System port of ZEXALL Z80 instruction set exerciser|15|0|2024-07-15|
-|50|[theokwebb/my-writeups](https://github.com/theokwebb/my-writeups)|Collection of my writeups on CTFs, labs, etc.|5|0|2024-06-25|
+|50|[theokwebb/my-writeups](https://github.com/theokwebb/my-writeups)|Collection of my writeups on CTFs, labs, etc.|6|0|2024-06-25|
 |51|[Oric-Software-Development-Kit/Arkos-Music-Player](https://github.com/Oric-Software-Development-Kit/Arkos-Music-Player)|Small music disk to demonstrate how to use the Arkos player with the OSDK|4|0|2024-02-22|
 |52|[winterrdog/x86-bootloader](https://github.com/winterrdog/x86-bootloader)|A hobby project to learn how to make a bootloader. Written in C and x86 Assembly|3|0|2024-05-02|
 |53|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|0|2024-07-15|
@@ -69,7 +69,7 @@
 |62|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|0|2024-04-19|
 |63|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|0|2024-02-28|
 |64|[beyrakIn/x86-Assembly](https://github.com/beyrakIn/x86-Assembly)|x86 Assembly learning path|8|0|2024-03-03|
-|65|[zisisvakras/mips-tool-pack](https://github.com/zisisvakras/mips-tool-pack)|A collection of useful mips templates|38|0|2024-06-20|
+|65|[zisisvakras/mips-tool-pack](https://github.com/zisisvakras/mips-tool-pack)|A collection of useful mips templates|39|0|2024-06-20|
 |66|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|33|0|2024-07-22|
 |67|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|0|2024-05-19|
 |68|[abmfy/cod23-grp04](https://github.com/abmfy/cod23-grp04)|A 32-bit 5-stage RISC-V pipeline processor core with traps, S privilege mode, virtual memory, cache, branch prediction and TLB. Powered by SpinalHDL and Verilator. Supports running simple OS like uCor ...|9|0|2024-02-14|
@@ -82,7 +82,7 @@
 |75|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|0|2024-07-11|
 |76|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|8|0|2024-05-18|
 |77|[skx/cpm-dist](https://github.com/skx/cpm-dist)|A curated collection of CP/M software|8|0|2024-06-24|
-|78|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|104|0|2024-08-07|
+|78|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|105|0|2024-08-11|
 |79|[markmoxon/elite-compendium-bbc-master](https://github.com/markmoxon/elite-compendium-bbc-master)|Source for the Elite Compendium on the BBC Master, a collection of the best Acornsoft Elite hacks on one disc|5|0|2024-07-12|
 |80|[whatrocks/solutions](https://github.com/whatrocks/solutions)|my solutions to programming exercises from books and other places|4|0|2024-02-26|
 |81|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|0|2024-07-13|

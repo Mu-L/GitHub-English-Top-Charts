@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > R
-<sub>Updated: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -18,11 +18,11 @@
 |11|[rstudio/learnr](https://github.com/rstudio/learnr)|Interactive Tutorials with R Markdown|706|2024-06-04|
 |12|[selva86/datasets](https://github.com/selva86/datasets)|A collection of datasets of ML problem solving|677|2024-05-19|
 |13|[mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)|A list of scRNA-seq analysis tools|596|2024-06-09|
-|14|[gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)|A list of awesome resources for Computational Social Science|499|2024-04-30|
+|14|[gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)|A list of awesome resources for Computational Social Science|500|2024-08-11|
 |15|[mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR)|📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)|465|2024-04-15|
-|16|[rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot)|"What They Forgot to Teach You About R" website / eBook|418|2024-08-08|
+|16|[rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot)|"What They Forgot to Teach You About R" website / eBook|418|2024-08-11|
 |17|[Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data)|Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"|409|2024-03-08|
-|18|[MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R)|[Read-Only] All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"|335|2024-08-09|
+|18|[MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R)|[Read-Only] All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"|336|2024-08-09|
 |19|[rstudio/pins-r](https://github.com/rstudio/pins-r)|Pin, Discover and Share Resources|302|2024-08-05|
 |20|[Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)|Set of solutions for the Advanced R programming book|289|2024-03-06|
 |21|[wch/rgcookbook](https://github.com/wch/rgcookbook)|R Graphics Cookbook |280|2024-07-09|
@@ -36,11 +36,11 @@
 |29|[r-spatial/qgisprocess](https://github.com/r-spatial/qgisprocess)|R package to use QGIS processing algorithms|198|2024-07-14|
 |30|[samuel-marsh/scCustomize](https://github.com/samuel-marsh/scCustomize)|R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R.|194|2024-08-06|
 |31|[jthomasmock/gtExtras](https://github.com/jthomasmock/gtExtras)|A Collection of Helper Functions for the gt Package.|190|2024-07-09|
-|32|[saezlab/decoupleR](https://github.com/saezlab/decoupleR)|R package to infer biological activities from omics data using a collection of methods.|178|2024-07-21|
+|32|[saezlab/decoupleR](https://github.com/saezlab/decoupleR)|R package to infer biological activities from omics data using a collection of methods.|179|2024-07-21|
 |33|[rstudio/vetiver-r](https://github.com/rstudio/vetiver-r)|Version, share, deploy, and monitor models|177|2024-07-19|
 |34|[GoekeLab/bambu](https://github.com/GoekeLab/bambu)|Reference-guided transcript discovery and quantification for long read RNA-Seq data |177|2024-05-03|
 |35|[asheshrambachan/HonestDiD](https://github.com/asheshrambachan/HonestDiD)|Robust inference in difference-in-differences and event study designs|169|2024-07-11|
-|36|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|aRtsy is an R package that implements algorithms for making generative art in a straightforward and standardized manner using 'ggplot2'.|165|2024-08-10|
+|36|[koenderks/aRtsy](https://github.com/koenderks/aRtsy)|aRtsy is an R package that implements algorithms for making generative art in a straightforward and standardized manner using 'ggplot2'.|165|2024-08-11|
 |37|[irinagain/Awesome-CGM](https://github.com/irinagain/Awesome-CGM)|List of CGM datasets|158|2024-06-07|
 |38|[daroczig/fbRads](https://github.com/daroczig/fbRads)|Analyze and manage Facebook ads from R using this client library to access their Marketing APIs|151|2024-03-22|
 |39|[robjhyndman/fpp3package](https://github.com/robjhyndman/fpp3package)|All data sets required for the examples and exercises in the book "Forecasting: principles and practice" (3rd ed, 2020) by Rob J Hyndman and George Athanasopoulos <http://OTexts.org/fpp3/>.  All packa ...|131|2024-06-26|
@@ -66,7 +66,7 @@
 |59|[stephenslab/fastTopics](https://github.com/stephenslab/fastTopics)|Fast algorithms for fitting topic models and non-negative matrix factorizations to count data.|74|2024-07-09|
 |60|[FunGeST/Palimpsest](https://github.com/FunGeST/Palimpsest)|An R package for studying mutational signatures and structural variant signatures along clonal evolution in cancer. |68|2024-05-23|
 |61|[dxsbiocc/learn](https://github.com/dxsbiocc/learn)|my learning journey|66|2024-05-23|
-|62|[friendly/matlib](https://github.com/friendly/matlib)|Matrix Functions for Teaching and Learning Linear Algebra and Multivariate Statistics|65|2024-08-10|
+|62|[friendly/matlib](https://github.com/friendly/matlib)|Matrix Functions for Teaching and Learning Linear Algebra and Multivariate Statistics|65|2024-08-11|
 |63|[NickCH-K/Econometrics](https://github.com/NickCH-K/Econometrics)|A Swirl course for introductory econometrics|64|2024-03-25|
 |64|[ggobi/tourr](https://github.com/ggobi/tourr)|A implementation of tour algorithms in R|64|2024-07-05|
 |65|[hypebright/async_shiny](https://github.com/hypebright/async_shiny)|Examples to implement asynchronous programming in Shiny ✨ |61|2024-05-21|
@@ -83,29 +83,29 @@
 |76|[mar-wir/StanDDM](https://github.com/mar-wir/StanDDM)|A collection of different Drift Diffusion Models implemented in the probabilistic programming language Stan.|46|2024-07-10|
 |77|[ropensci/bowerbird](https://github.com/ropensci/bowerbird)|Keep a collection of sparkly data resources|46|2024-08-05|
 |78|[pbs-assess/csasdown](https://github.com/pbs-assess/csasdown)|:book: An R package for creating CSAS reports in PDF or Word format with R Markdown and bookdown|45|2024-08-07|
-|79|[dkesada/dbnR](https://github.com/dkesada/dbnR)|Gaussian dynamic Bayesian networks structure learning and inference based on the bnlearn package|44|2024-06-20|
-|80|[microsoft/r-server-fraud-detection](https://github.com/microsoft/r-server-fraud-detection)|This solution template demonstrates how to build and deploy a retail online fraud detection solution. |44|2024-03-09|
+|79|[microsoft/r-server-fraud-detection](https://github.com/microsoft/r-server-fraud-detection)|This solution template demonstrates how to build and deploy a retail online fraud detection solution. |45|2024-03-09|
+|80|[dkesada/dbnR](https://github.com/dkesada/dbnR)|Gaussian dynamic Bayesian networks structure learning and inference based on the bnlearn package|44|2024-06-20|
 |81|[ncsuSEAL/Bayesian_LSP](https://github.com/ncsuSEAL/Bayesian_LSP)|A Bayesian hierarchical model that quantifies long-term annual land surface phenology from sparse time series of vegetation indices.|43|2024-04-16|
-|82|[crsh/rmdfiltr](https://github.com/crsh/rmdfiltr)|R package that provides a collection of Lua filters that extend the functionality   of R Markdown templates.|42|2024-02-18|
-|83|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|41|2024-07-26|
+|82|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|42|2024-07-26|
+|83|[crsh/rmdfiltr](https://github.com/crsh/rmdfiltr)|R package that provides a collection of Lua filters that extend the functionality   of R Markdown templates.|42|2024-02-18|
 |84|[sib-swiss/first-steps-with-R-training](https://github.com/sib-swiss/first-steps-with-R-training)|repository of the 2-day course "First steps with R in Life Sciences" from SIB-training|41|2024-02-13|
 |85|[mrtkp9993/Statistical-Modeling-Examples](https://github.com/mrtkp9993/Statistical-Modeling-Examples)|Basic statistical modelling examples.|41|2024-06-17|
 |86|[mdsr-book/mdsr](https://github.com/mdsr-book/mdsr)|Complement to CRC Press book *Modern Data Science with R*|39|2024-04-26|
 |87|[JBGruber/paperboy](https://github.com/JBGruber/paperboy)|A comprehensive (eventually) collection of webscraping scripts for news media sites |38|2024-07-17|
 |88|[kiat/R-Examples](https://github.com/kiat/R-Examples)|R Code Examples for Data Analytics|38|2024-07-25|
 |89|[CDCgov/Rnssp](https://github.com/CDCgov/Rnssp)|A Signature R package for the National Syndromic Surveillance Program (NSSP) at the Centers for Disease Control and Prevention (CDC). A collection of tools, classes and functions that supports the Com ...|37|2024-06-27|
-|90|[ModelOriented/kernelshap](https://github.com/ModelOriented/kernelshap)|Different SHAP algorithms|36|2024-08-09|
-|91|[gingfacekillah/Financial-Modelling-in-R](https://github.com/gingfacekillah/Financial-Modelling-in-R)|A collection of scripts for modelling financial markets & options in R.|36|2024-08-04|
-|92|[SingleR-inc/celldex](https://github.com/SingleR-inc/celldex)|Collection of cell type reference datasets.|36|2024-05-31|
+|90|[SingleR-inc/celldex](https://github.com/SingleR-inc/celldex)|Collection of cell type reference datasets.|37|2024-05-31|
+|91|[ModelOriented/kernelshap](https://github.com/ModelOriented/kernelshap)|Different SHAP algorithms|36|2024-08-09|
+|92|[gingfacekillah/Financial-Modelling-in-R](https://github.com/gingfacekillah/Financial-Modelling-in-R)|A collection of scripts for modelling financial markets & options in R.|36|2024-08-04|
 |93|[enricoschumann/NMOF](https://github.com/enricoschumann/NMOF)|Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann   (2019, ISBN:978-0128150658). This repos ...|35|2024-07-26|
 |94|[ThinkR-open/gitdown](https://github.com/ThinkR-open/gitdown)|Document each modification of your software by turning your git commits into a gitbook|34|2024-08-07|
 |95|[davidski/collector](https://github.com/davidski/collector)|⚖Open Source Toolkit for Conducting Quantitative Risk Assessment Interviews|34|2024-03-10|
 |96|[ListenLab/Praat](https://github.com/ListenLab/Praat)|A collection of Praat scripts and Praat-R tools|33|2024-05-10|
 |97|[MSKCC-Epi-Bio/bstfun](https://github.com/MSKCC-Epi-Bio/bstfun)|Miscellaneous collection of functions|33|2024-05-23|
 |98|[tlverse/tmle3](https://github.com/tlverse/tmle3)|🎯🎓 Generalized Targeted Learning Framework|33|2024-03-09|
-|99|[MicheleTobias/Workshop-Cartography-Journal-Figures](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures)|A workshop on cartography for map figures in academic journals and books|32|2024-05-16|
-|100|[nickbearman/intro-r-spatial-analysis](https://github.com/nickbearman/intro-r-spatial-analysis)|Material for 1 day Introductory Course on Using R (& RStudio) for Spatial Analysis|32|2024-06-25|
-|101|[rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)|biodiversity genomics course by Nicol Rueda, Karin Näsvall and Joana Meier from the Wellcome Sanger Institute|31|2024-08-02|
+|99|[rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)|biodiversity genomics course by Nicol Rueda, Karin Näsvall and Joana Meier from the Wellcome Sanger Institute|32|2024-08-02|
+|100|[MicheleTobias/Workshop-Cartography-Journal-Figures](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures)|A workshop on cartography for map figures in academic journals and books|32|2024-05-16|
+|101|[nickbearman/intro-r-spatial-analysis](https://github.com/nickbearman/intro-r-spatial-analysis)|Material for 1 day Introductory Course on Using R (& RStudio) for Spatial Analysis|32|2024-06-25|
 |102|[ropensci-review-tools/babelquarto](https://github.com/ropensci-review-tools/babelquarto)|Renders a Multilingual Quarto Project (Book or Website)|31|2024-07-23|
 |103|[mlr-org/mlr3torch](https://github.com/mlr-org/mlr3torch)|Deep learning framework for the mlr3 ecosystem based on torch|31|2024-07-22|
 |104|[selesnow/rfacebookstat](https://github.com/selesnow/rfacebookstat)|Загрузка статистики по рекламных кампаниям из Facebook в R.|31|2024-03-27|
@@ -130,7 +130,7 @@
 |123|[mpeeples2008/ArchNetSci](https://github.com/mpeeples2008/ArchNetSci)|Code repository and Bookdown project for Online Companion to Network Science in Archaeology by Tom Brughmans and Matthew A. Peeples (Cambridge Manuals in Archaeology)|25|2024-03-08|
 |124|[brad-cannell/codebookr](https://github.com/brad-cannell/codebookr)|Create Codebooks From Data Frames|25|2024-06-28|
 |125|[StatisticsNZ/open-data-api](https://github.com/StatisticsNZ/open-data-api)|A guide to accessing the Stats NZ Open Data API|25|2024-05-18|
-|126|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|24|2024-08-10|
+|126|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|24|2024-08-11|
 |127|[nassernajibi/WGEN-v2.0](https://github.com/nassernajibi/WGEN-v2.0)|User Manual (Documentation Guide) for Stochastic Weather Generator v2.0|24|2024-07-18|
 |128|[CrumpLab/cognition](https://github.com/CrumpLab/cognition)|A free introductory course for cognitive psychology at the undergraduate level|24|2024-06-25|
 |129|[wincowgerDEV/OpenSpecy-package](https://github.com/wincowgerDEV/OpenSpecy-package)|Analyze, Process, Identify, and Share, Raman and (FT)IR Spectra|23|2024-08-07|
@@ -151,16 +151,16 @@
 |144|[hneth/ds4psy](https://github.com/hneth/ds4psy)|Data science for psychologists (ds4psy): R package supporting book and course |21|2024-05-05|
 |145|[eitsupi/querying-with-prql](https://github.com/eitsupi/querying-with-prql)|A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.|20|2024-06-22|
 |146|[FelixAnalytix/YouTube](https://github.com/FelixAnalytix/YouTube)|All code of FelixAnalytix's tutorials|20|2024-08-10|
-|147|[elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook)|Train-the-trainer handbook for making training materials FAIR|20|2024-08-04|
+|147|[elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook)|Train-the-trainer handbook for making training materials FAIR|20|2024-08-11|
 |148|[OnofriAndreaPG/aomisc](https://github.com/OnofriAndreaPG/aomisc)|Utilities for stat courses|20|2024-02-23|
 |149|[yanshuotan/st5209-2024](https://github.com/yanshuotan/st5209-2024)|Course repo for NUS ST5209/X in Semester II 2023/2024|19|2024-04-15|
-|150|[pgomba/MDPI_explorer](https://github.com/pgomba/MDPI_explorer)|A simple package to explore MDPI´s articles by journal. A series of functions help to obtain lists of papers, obtain data from them (turnaround times, special issues and articles types) and create sum ...|19|2024-07-25|
-|151|[matildabrown/rWCVP](https://github.com/matildabrown/rWCVP)|Generating Summaries, Reports and Plots from the World Checklist of Vascular Plants|19|2024-02-27|
-|152|[kstreet13/scry](https://github.com/kstreet13/scry)|Collection of analysis methods for small count data generated by rafalab members (the methods, not the data).|19|2024-07-10|
-|153|[brry/course](https://github.com/brry/course)|R programming courses material|19|2024-04-16|
-|154|[stanstrup/commonMZ](https://github.com/stanstrup/commonMZ)|A collection of common mz values found in mass spectrometry.|19|2024-06-13|
-|155|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|18|2024-08-02|
-|156|[Novartis/Causal-inference-in-RCTs](https://github.com/Novartis/Causal-inference-in-RCTs)|This repository contains code examples for several methods in a Causal Inference in RCTs short course. |18|2024-06-07|
+|150|[Novartis/Causal-inference-in-RCTs](https://github.com/Novartis/Causal-inference-in-RCTs)|This repository contains code examples for several methods in a Causal Inference in RCTs short course. |19|2024-06-07|
+|151|[pgomba/MDPI_explorer](https://github.com/pgomba/MDPI_explorer)|A simple package to explore MDPI´s articles by journal. A series of functions help to obtain lists of papers, obtain data from them (turnaround times, special issues and articles types) and create sum ...|19|2024-07-25|
+|152|[matildabrown/rWCVP](https://github.com/matildabrown/rWCVP)|Generating Summaries, Reports and Plots from the World Checklist of Vascular Plants|19|2024-02-27|
+|153|[kstreet13/scry](https://github.com/kstreet13/scry)|Collection of analysis methods for small count data generated by rafalab members (the methods, not the data).|19|2024-07-10|
+|154|[brry/course](https://github.com/brry/course)|R programming courses material|19|2024-04-16|
+|155|[stanstrup/commonMZ](https://github.com/stanstrup/commonMZ)|A collection of common mz values found in mass spectrometry.|19|2024-06-13|
+|156|[celphin/RepeatOBserverV1](https://github.com/celphin/RepeatOBserverV1)|An R package to visualize chromosome scale repeat patterns and predict centromere locations.|18|2024-08-11|
 |157|[now-i-know-my-abcd/docs](https://github.com/now-i-know-my-abcd/docs)|Static site to host Now I Know My ABCD data use and code tutorials. Community contributions welcome!|18|2024-06-03|
 |158|[MarsicoFL/mispitools](https://github.com/MarsicoFL/mispitools)|'mispitools' is an open-source package written in the R statistical language. It consists of a collection of decision-making tools designed for conducting missing person searches. |18|2024-08-02|
 |159|[tobiasrausch/vc](https://github.com/tobiasrausch/vc)|A tutorial on structural variant calling for short read sequencing data|18|2024-07-15|
@@ -180,31 +180,31 @@
 |173|[sol-eng/singularity-rstudio](https://github.com/sol-eng/singularity-rstudio)|Information on how to set up RStudio Workbench with SLURM Launcher and Singularity|16|2024-07-16|
 |174|[msalibian/RobStatTM](https://github.com/msalibian/RobStatTM)|Companion package to the 2nd edition of the book "Robust Statistics: Theory and Methods"|16|2024-05-08|
 |175|[milos-agathon/3d-river-maps](https://github.com/milos-agathon/3d-river-maps)|Explore the capabilities of the `rayshader` package in R with my new tutorial. I'll guide you through the process of creating detailed 3D elevation and river maps for any country. This step-by-step tu ...|15|2024-05-27|
-|176|[niloy-biswas/Population-Density-Map](https://github.com/niloy-biswas/Population-Density-Map)|Explore population density patterns in this repository featuring a captivating map generated with the Rayshader package in R.|15|2024-02-10|
-|177|[tesselle/kairos](https://github.com/tesselle/kairos)|:hourglass: Analysis of Chronological Patterns from Archaeological Count Data|15|2024-07-26|
-|178|[mrc-ide/reactidd](https://github.com/mrc-ide/reactidd)|This repository supports epidemiological and disease-dynamic analyses of data from the REal Time Assessment of Community Transmission (REACT) study. It includes both code and data. For code-related en ...|15|2024-05-09|
-|179|[bnicenboim/bcogsci](https://github.com/bnicenboim/bcogsci)|Datasets and models included in the book "An Introduction to Bayesian Data Analysis for Cognitive Science".|15|2024-08-05|
-|180|[mdozmorov/Aging_clock](https://github.com/mdozmorov/Aging_clock)|Data and papers related to epigenetic clocks predicting age|15|2024-04-30|
-|181|[SimonDedman/gbm.auto](https://github.com/SimonDedman/gbm.auto)|Machine-learning Boosted Regression Tree software suite for species distribution modelling in R|15|2024-07-05|
-|182|[bryanparthum/environmental_economics](https://github.com/bryanparthum/environmental_economics)|An undergraduate course in environmental economics|14|2024-04-29|
-|183|[krcarriere/PSYCH](https://github.com/krcarriere/PSYCH)|PSYCH - Psychological Statistics You Can Handle (Swirl Course)|14|2024-06-25|
-|184|[jcoliver/biodiversity-sdm-lesson](https://github.com/jcoliver/biodiversity-sdm-lesson)|Introductory lesson to generate range maps for butterfly-host plant interactions and predict distributional shifts using publicly available biodiversity data and data science tools|14|2024-08-08|
-|185|[ncchung/jackstraw](https://github.com/ncchung/jackstraw)|Statistical Inference for Unsupervised Learning|14|2024-08-02|
-|186|[mlfit/mlfit](https://github.com/mlfit/mlfit)|Implementation of algorithms that extend IPF to nested structures|14|2024-08-09|
-|187|[ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e)|Course material for MF9130E|13|2024-04-24|
-|188|[doehm/alone](https://github.com/doehm/alone)|Collection of datasets from the Alone survival TV series|13|2024-06-15|
-|189|[quarto-dev/quarto-examples](https://github.com/quarto-dev/quarto-examples)|A repository of self-contained quarto examples|13|2024-07-16|
-|190|[JimDuggan/explore_or](https://github.com/JimDuggan/explore_or)|Supporting Repository for text book Exploring Operations Research with R|13|2024-04-20|
-|191|[jpfitzinger/tidyfit](https://github.com/jpfitzinger/tidyfit)|An extension to the R tidyverse for automated ML. The package allows fitting and cross validation of linear regression and classification algorithms on grouped data.|13|2024-06-07|
-|192|[christopherkenny/geomander](https://github.com/christopherkenny/geomander)|Geographic Tools for Studying Gerrymandering|13|2024-06-30|
-|193|[YuanchenZhu2020/R-Packages-zh](https://github.com/YuanchenZhu2020/R-Packages-zh)|Try to translate the book R Packages into Simplified Chinese.|13|2024-02-15|
-|194|[miraisolutions/techguides](https://github.com/miraisolutions/techguides)|Technical guidelines around R programming|13|2024-07-30|
-|195|[DOSull/Spatial-Analysis-and-Modelling](https://github.com/DOSull/Spatial-Analysis-and-Modelling)|Course materials for GISC 422 Spatial Analysis and Modelling|13|2024-04-02|
-|196|[NCEAS/nceas-training](https://github.com/NCEAS/nceas-training)|Training materials and modules from R-based data science short courses at NCEAS|13|2024-08-09|
-|197|[kauralasoo/MTAT.03.239_Bioinformatics](https://github.com/kauralasoo/MTAT.03.239_Bioinformatics)|Teaching materials and tutorials for the bioinformatics course thought at the University of Tartu|13|2024-04-24|
-|198|[ICI3D/RTutorials](https://github.com/ICI3D/RTutorials)|ICI3D R tutorials|13|2024-06-27|
-|199|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-07-28|
-|200|[sabifo4/Tutorial_MCMCtree](https://github.com/sabifo4/Tutorial_MCMCtree)|MCMCtree tutorials|12|2024-05-27|
+|176|[tesselle/kairos](https://github.com/tesselle/kairos)|:hourglass: Analysis of Chronological Patterns from Archaeological Count Data|15|2024-07-26|
+|177|[mrc-ide/reactidd](https://github.com/mrc-ide/reactidd)|This repository supports epidemiological and disease-dynamic analyses of data from the REal Time Assessment of Community Transmission (REACT) study. It includes both code and data. For code-related en ...|15|2024-05-09|
+|178|[bnicenboim/bcogsci](https://github.com/bnicenboim/bcogsci)|Datasets and models included in the book "An Introduction to Bayesian Data Analysis for Cognitive Science".|15|2024-08-05|
+|179|[mdozmorov/Aging_clock](https://github.com/mdozmorov/Aging_clock)|Data and papers related to epigenetic clocks predicting age|15|2024-04-30|
+|180|[SimonDedman/gbm.auto](https://github.com/SimonDedman/gbm.auto)|Machine-learning Boosted Regression Tree software suite for species distribution modelling in R|15|2024-07-05|
+|181|[bryanparthum/environmental_economics](https://github.com/bryanparthum/environmental_economics)|An undergraduate course in environmental economics|14|2024-04-29|
+|182|[krcarriere/PSYCH](https://github.com/krcarriere/PSYCH)|PSYCH - Psychological Statistics You Can Handle (Swirl Course)|14|2024-06-25|
+|183|[jcoliver/biodiversity-sdm-lesson](https://github.com/jcoliver/biodiversity-sdm-lesson)|Introductory lesson to generate range maps for butterfly-host plant interactions and predict distributional shifts using publicly available biodiversity data and data science tools|14|2024-08-08|
+|184|[ncchung/jackstraw](https://github.com/ncchung/jackstraw)|Statistical Inference for Unsupervised Learning|14|2024-08-02|
+|185|[mlfit/mlfit](https://github.com/mlfit/mlfit)|Implementation of algorithms that extend IPF to nested structures|14|2024-08-09|
+|186|[ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e)|Course material for MF9130E|13|2024-04-24|
+|187|[doehm/alone](https://github.com/doehm/alone)|Collection of datasets from the Alone survival TV series|13|2024-06-15|
+|188|[quarto-dev/quarto-examples](https://github.com/quarto-dev/quarto-examples)|A repository of self-contained quarto examples|13|2024-07-16|
+|189|[JimDuggan/explore_or](https://github.com/JimDuggan/explore_or)|Supporting Repository for text book Exploring Operations Research with R|13|2024-04-20|
+|190|[jpfitzinger/tidyfit](https://github.com/jpfitzinger/tidyfit)|An extension to the R tidyverse for automated ML. The package allows fitting and cross validation of linear regression and classification algorithms on grouped data.|13|2024-06-07|
+|191|[christopherkenny/geomander](https://github.com/christopherkenny/geomander)|Geographic Tools for Studying Gerrymandering|13|2024-06-30|
+|192|[YuanchenZhu2020/R-Packages-zh](https://github.com/YuanchenZhu2020/R-Packages-zh)|Try to translate the book R Packages into Simplified Chinese.|13|2024-02-15|
+|193|[miraisolutions/techguides](https://github.com/miraisolutions/techguides)|Technical guidelines around R programming|13|2024-07-30|
+|194|[DOSull/Spatial-Analysis-and-Modelling](https://github.com/DOSull/Spatial-Analysis-and-Modelling)|Course materials for GISC 422 Spatial Analysis and Modelling|13|2024-04-02|
+|195|[NCEAS/nceas-training](https://github.com/NCEAS/nceas-training)|Training materials and modules from R-based data science short courses at NCEAS|13|2024-08-09|
+|196|[kauralasoo/MTAT.03.239_Bioinformatics](https://github.com/kauralasoo/MTAT.03.239_Bioinformatics)|Teaching materials and tutorials for the bioinformatics course thought at the University of Tartu|13|2024-04-24|
+|197|[ICI3D/RTutorials](https://github.com/ICI3D/RTutorials)|ICI3D R tutorials|13|2024-06-27|
+|198|[elkronos/public_examples](https://github.com/elkronos/public_examples)|Publicly shared code|12|2024-07-28|
+|199|[sabifo4/Tutorial_MCMCtree](https://github.com/sabifo4/Tutorial_MCMCtree)|MCMCtree tutorials|12|2024-05-27|
+|200|[nimble-dev/nimbleHMC](https://github.com/nimble-dev/nimbleHMC)|HMC and other derivative-based MCMC sampling algorithms for the nimble package|12|2024-07-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

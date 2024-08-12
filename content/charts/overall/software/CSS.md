@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > CSS
-<sub>Updated: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|80358|2024-07-29|
-|2|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|53208|2024-07-17|
-|3|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|52212|2024-06-12|
-|4|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|49036|2024-08-06|
-|5|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|36110|2024-07-10|
+|1|[animate-css/animate.css](https://github.com/animate-css/animate.css)|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|80363|2024-07-29|
+|2|[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|53231|2024-07-17|
+|3|[necolas/normalize.css](https://github.com/necolas/normalize.css)|A modern alternative to CSS resets|52215|2024-06-12|
+|4|[jgthms/bulma](https://github.com/jgthms/bulma)|Modern CSS framework based on Flexbox|49038|2024-08-06|
+|5|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|36113|2024-07-10|
 |6|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|18969|2024-03-16|
 |7|[CodeByZach/pace](https://github.com/CodeByZach/pace)|Automatically add a progress bar to your site.|15662|2024-02-26|
 |8|[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)|The simplest way to run LLaMA on your local machine|13101|2024-06-18|
-|9|[picocss/pico](https://github.com/picocss/pico)|Minimal CSS Framework for semantic HTML|12987|2024-08-06|
-|10|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)|12093|2024-07-16|
-|11|[tachyons-css/tachyons](https://github.com/tachyons-css/tachyons)|Functional css for humans|11619|2024-02-12|
+|9|[picocss/pico](https://github.com/picocss/pico)|Minimal CSS Framework for semantic HTML|12998|2024-08-06|
+|10|[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)|A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)|12092|2024-07-16|
+|11|[tachyons-css/tachyons](https://github.com/tachyons-css/tachyons)|Functional css for humans|11618|2024-02-12|
 |12|[picturepan2/spectre](https://github.com/picturepan2/spectre)|Spectre.css - A Lightweight, Responsive and Modern CSS Framework|11314|2024-04-11|
-|13|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|9959|2024-08-10|
-|14|[StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)|:octocat: Dark GitHub style|9648|2024-08-10|
-|15|[devicons/devicon](https://github.com/devicons/devicon)|Set of icons representing programming languages, designing & development tools|9510|2024-08-05|
-|16|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|9509|2024-07-12|
-|17|[fgnass/spin.js](https://github.com/fgnass/spin.js)|A spinning activity indicator|9297|2024-07-19|
-|18|[scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|🏗 forkable Ethereum dev stack focused on fast product iterations |9048|2024-06-04|
+|13|[primefaces/primeng](https://github.com/primefaces/primeng)|The Most Complete Angular UI Component Library|9961|2024-08-11|
+|14|[StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)|:octocat: Dark GitHub style|9649|2024-08-11|
+|15|[devicons/devicon](https://github.com/devicons/devicon)|Set of icons representing programming languages, designing & development tools|9515|2024-08-05|
+|16|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|9510|2024-07-12|
+|17|[fgnass/spin.js](https://github.com/fgnass/spin.js)|A spinning activity indicator|9298|2024-07-19|
+|18|[scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|🏗 forkable Ethereum dev stack focused on fast product iterations |9047|2024-06-04|
 |19|[jdan/98.css](https://github.com/jdan/98.css)|A design system for building faithful recreations of old UIs|8931|2024-08-07|
-|20|[barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)|Build a Jekyll blog in minutes, without touching the command line.|8219|2024-08-07|
-|21|[ai/easings.net](https://github.com/ai/easings.net)|Easing Functions Cheat Sheet|7869|2024-07-29|
+|20|[barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)|Build a Jekyll blog in minutes, without touching the command line.|8220|2024-08-07|
+|21|[ai/easings.net](https://github.com/ai/easings.net)|Easing Functions Cheat Sheet|7872|2024-08-10|
 |22|[sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)|The minimal amount of CSS to replicate the GitHub Markdown style|7850|2024-06-17|
-|23|[spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)|A sample Spring-based application|7468|2024-08-08|
-|24|[json-api/json-api](https://github.com/json-api/json-api)|A specification for building JSON APIs|7402|2024-07-20|
-|25|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |6775|2024-04-14|
-|26|[tabulapdf/tabula](https://github.com/tabulapdf/tabula)|Tabula is a tool for liberating data tables trapped inside PDF files|6642|2024-07-24|
-|27|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|6533|2024-04-06|
-|28|[primefaces/primereact](https://github.com/primefaces/primereact)|The Most Complete React UI Component Library|6385|2024-08-10|
+|23|[spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)|A sample Spring-based application|7471|2024-08-08|
+|24|[json-api/json-api](https://github.com/json-api/json-api)|A specification for building JSON APIs|7404|2024-07-20|
+|25|[thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)|Accurately Locate Smartphones using Social Engineering |6778|2024-04-14|
+|26|[tabulapdf/tabula](https://github.com/tabulapdf/tabula)|Tabula is a tool for liberating data tables trapped inside PDF files|6643|2024-07-24|
+|27|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|6535|2024-04-06|
+|28|[primefaces/primereact](https://github.com/primefaces/primereact)|The Most Complete React UI Component Library|6391|2024-08-11|
 |29|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|6094|2024-08-01|
-|30|[progit/progit2](https://github.com/progit/progit2)|Pro Git 2nd Edition|5739|2024-08-09|
+|30|[progit/progit2](https://github.com/progit/progit2)|Pro Git 2nd Edition|5739|2024-08-11|
 |31|[creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit)|Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source|5714|2024-03-24|
-|32|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|5495|2024-05-27|
+|32|[rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)|An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.|5496|2024-05-27|
 |33|[Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)|High-quality PNGs for logos I made for fun |5448|2024-06-03|
 |34|[connorferster/handcalcs](https://github.com/connorferster/handcalcs)|Python library for converting Python calculations into rendered latex.|5383|2024-06-27|
 |35|[froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor)|The next generation Javascript WYSIWYG HTML Editor.|5258|2024-08-04|
-|36|[robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)|Synthwave inspired colour theme for VS Code 🌅🕶 |5153|2024-07-18|
-|37|[safak/youtube](https://github.com/safak/youtube)|-|4980|2024-05-30|
-|38|[missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)|The Missing Semester of Your CS Education 📚|4829|2024-08-08|
-|39|[john-smilga/react-projects](https://github.com/john-smilga/react-projects)|-|4793|2024-07-24|
-|40|[matt8707/hass-config](https://github.com/matt8707/hass-config)|✨ A different take on designing a Lovelace UI (Dashboard)|4788|2024-05-03|
-|41|[cssnano/cssnano](https://github.com/cssnano/cssnano)|A modular minifier, built on top of the PostCSS ecosystem.|4682|2024-08-10|
-|42|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|4574|2024-04-09|
-|43|[vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki)|Repository which contains links and resources on different topics of Computer Science.|4206|2024-06-19|
-|44|[rime/home](https://github.com/rime/home)|Rime::Home is home to Rime users and developers|4204|2024-07-27|
-|45|[UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish)|Phishing Tool & Information Collector |3982|2024-04-09|
-|46|[john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects)|-|3666|2024-04-20|
-|47|[poole/hyde](https://github.com/poole/hyde)|A brazen two-column theme for Jekyll.|3643|2024-07-03|
-|48|[BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)|🍭　Cnblogs theme _ Basic theme :  SimpleMemory|3608|2024-07-04|
-|49|[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)|A distraction-free and highly customizable theme for Obsidian.|3549|2024-08-09|
-|50|[adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans)|Sans serif font family for user interface environments|3440|2024-06-12|
-|51|[nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)|Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu ...|3378|2024-06-07|
-|52|[rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)|A GNOME👣 theme for Firefox🔥|3373|2024-08-10|
-|53|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|3309|2024-07-09|
-|54|[poole/lanyon](https://github.com/poole/lanyon)|A content-first, sliding sidebar theme for Jekyll.|3234|2024-07-23|
-|55|[google/google-api-javascript-client](https://github.com/google/google-api-javascript-client)|Google APIs Client Library for browser JavaScript, aka gapi.|3153|2024-07-18|
-|56|[guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report)|简单描述工作内容，帮你生成完整周报|3146|2024-05-27|
-|57|[Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system)|Your web application for managing personal data. |3121|2024-08-03|
-|58|[sharu725/online-cv](https://github.com/sharu725/online-cv)|A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.|3094|2024-07-16|
-|59|[understrap/understrap](https://github.com/understrap/understrap)|Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.|3039|2024-07-11|
-|60|[halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)|Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.|3006|2024-04-29|
-|61|[atisawd/boxicons](https://github.com/atisawd/boxicons)|High Quality web friendly icons|2864|2024-04-26|
-|62|[poole/poole](https://github.com/poole/poole)|The Jekyll Butler. A no frills responsive Jekyll blog theme.|2823|2024-05-23|
-|63|[cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)|Cloudflare’s documentation|2754|2024-08-10|
-|64|[vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)|Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.|2690|2024-05-06|
-|65|[vorillaz/devicons](https://github.com/vorillaz/devicons)|Devicons - An iconic font made for developers|2653|2024-06-24|
-|66|[TryGhost/Casper](https://github.com/TryGhost/Casper)|The default theme for Ghost|2525|2024-08-09|
-|67|[creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system)|Argon - Design System for Bootstrap 4 by Creative Tim|2472|2024-06-26|
-|68|[HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)|Free, no-nonsense, super fast blogging.|2454|2024-08-06|
-|69|[TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo)|Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.|2398|2024-04-24|
-|70|[0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)|Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.|2382|2024-08-09|
-|71|[Screenly/Anthias](https://github.com/Screenly/Anthias)|The world's most popular open source digital signage project.|2378|2024-08-08|
-|72|[ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan)|nodejsscan is a static security code scanner for Node.js applications.|2367|2024-05-06|
-|73|[GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension)|A Chrome extension to measure essential metrics for a healthy site|2339|2024-06-07|
-|74|[themepark-dev/theme.park](https://github.com/themepark-dev/theme.park)|A collection of themes/skins for 50 selfhosted apps!|2295|2024-06-24|
-|75|[straight-tamago/misaka](https://github.com/straight-tamago/misaka)| iOS & tvOS customisation tool for KFD & MDC|2286|2024-08-08|
-|76|[EliverLara/Nordic](https://github.com/EliverLara/Nordic)|:snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.|2271|2024-08-04|
-|77|[bagder/http2-explained](https://github.com/bagder/http2-explained)|A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol|2266|2024-04-13|
-|78|[remy/mit-license](https://github.com/remy/mit-license)|Hosted MIT License with details controlled through this repo|2257|2024-07-22|
-|79|[Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward)|Server dashboard|2250|2024-08-03|
-|80|[mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes)|A directory of the best-looking themes for Jekyll blogs|2247|2024-07-10|
-|81|[elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset)|The New Simple and Lighter CSS Reset|2232|2024-07-19|
-|82|[bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa)|Responsive Portfolio Website Using HTML, CSS & JavaScript|2220|2024-07-26|
-|83|[msys2/msys2.github.io](https://github.com/msys2/msys2.github.io)|The MSYS2 homepage|2218|2024-08-09|
-|84|[LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)|A simple culinary website.|2190|2024-08-09|
-|85|[fniessen/org-html-themes](https://github.com/fniessen/org-html-themes)|Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design|2184|2024-05-19|
-|86|[marcelodolza/iziModal](https://github.com/marcelodolza/iziModal)|Elegant, responsive, flexible and lightweight modal plugin with jQuery.|2161|2024-08-07|
-|87|[adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif)|Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. |2157|2024-07-05|
-|88|[thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar)|A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.|2133|2024-06-25|
-|89|[5t3ph/stylestage](https://github.com/5t3ph/stylestage)|A modern CSS showcase styled by community contributions. Add your stylesheet!|2127|2024-05-08|
-|90|[getpelican/pelican-themes](https://github.com/getpelican/pelican-themes)|Themes for Pelican|2120|2024-07-30|
-|91|[emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks)|Happy Hacking Emacs & Spacemacs (Simplified Chinese)|2111|2024-03-04|
-|92|[yanhaijing/zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)|Focusing on the fullPage.js for mobile terminals.|2103|2024-02-26|
-|93|[nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper)|🪺 A simple, clean, customizable Hugo theme|2073|2024-08-10|
-|94|[PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber)|Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).|2059|2024-07-07|
-|95|[AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)|Personal theme for Obsidian|2019|2024-08-03|
-|96|[ajusa/lit](https://github.com/ajusa/lit)|World's smallest responsive 🔥 css framework (395 bytes) |1991|2024-06-15|
-|97|[NsCDE/NsCDE](https://github.com/NsCDE/NsCDE)|Modern and functional CDE desktop based on FVWM|1892|2024-06-19|
-|98|[asc-lab/dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc)|Very simplified insurance sales system made in a microservices architecture using .NET Core|1879|2024-06-19|
-|99|[ageitgey/amplify](https://github.com/ageitgey/amplify)|A Jekyll html theme in the vague style of Medium.com built using Google AMP|1871|2024-03-18|
-|100|[mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com)|The source of csszengarden.com|1864|2024-07-14|
-|101|[EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)|Pledge your respect and appreciation for contributors of all kinds to your open source project.|1854|2024-07-11|
-|102|[Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx)|Custom CSS tweaks for Firefox|1822|2024-06-23|
-|103|[shen-yu/hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer)|一个干净优雅的hexo主题 A clean and elegant theme for Hexo.  🐋|1801|2024-08-02|
-|104|[rust-lang/nomicon](https://github.com/rust-lang/nomicon)|The Dark Arts of Advanced and Unsafe Rust Programming|1760|2024-08-10|
-|105|[creativetimofficial/now-ui-kit](https://github.com/creativetimofficial/now-ui-kit)|Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim|1695|2024-06-26|
-|106|[mblode/marx](https://github.com/mblode/marx)|The classless CSS reset (perfect for Communists).|1686|2024-08-04|
-|107|[sethcottle/littlelink](https://github.com/sethcottle/littlelink)|A lightweight DIY alternative to services like Linktree.|1668|2024-07-23|
-|108|[dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)|Drop-in switcher for previewing minimal CSS frameworks|1646|2024-07-25|
-|109|[codrops/SidebarTransitions](https://github.com/codrops/SidebarTransitions)|Some inspiration for transition effects for off-canvas navigations.|1634|2024-08-05|
-|110|[vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes)|Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.|1616|2024-07-31|
-|111|[JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat)|-|1601|2024-05-30|
-|112|[kepano/flexoki](https://github.com/kepano/flexoki)|An inky color scheme for prose and code.|1582|2024-07-16|
-|113|[reworkcss/css](https://github.com/reworkcss/css)|CSS parser / stringifier for Node.js|1572|2024-04-12|
-|114|[daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome)|Flat Remix is a GNOME Shell theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.|1569|2024-07-21|
-|115|[phalapi/phalapi](https://github.com/phalapi/phalapi)|PhalApi开源接口框架，简称π框架，一个轻量级PHP开源接口框架，专注于接口服务开发。接口，从简单开始！|1565|2024-03-16|
-|116|[lowlighter/matcha](https://github.com/lowlighter/matcha)|🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!|1559|2024-07-15|
-|117|[vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme)|Qogir is a flat Design theme for GTK|1540|2024-08-06|
-|118|[yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions)|Вопросы для подготовки к интервью на позицию Python Developer|1530|2024-02-21|
-|119|[Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage)|A dashboard for your obsidian vault.|1451|2024-03-28|
-|120|[progit/progit2-zh](https://github.com/progit/progit2-zh)|-|1427|2024-08-10|
-|121|[EliverLara/Sweet](https://github.com/EliverLara/Sweet)|Light and dark colorful Gtk3.20+ theme|1420|2024-08-05|
-|122|[adobe/adobe.github.com](https://github.com/adobe/adobe.github.com)|Adobe central hub for open source|1414|2024-06-02|
-|123|[cascadefox/cascade](https://github.com/cascadefox/cascade)|A responsive One-Line CSS Theme for Firefox.|1400|2024-02-12|
-|124|[justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me)|A directory of direct links to delete your account from web services.|1386|2024-06-28|
-|125|[leoFitz1024/wallhaven](https://github.com/leoFitz1024/wallhaven)|基于wallhaven.cc的一款壁纸管理工具|1384|2024-06-14|
-|126|[purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)|Fluent for Steam. A simple skin for steam to make it look like windows 11.|1382|2024-06-06|
-|127|[cormullion/juliamono](https://github.com/cormullion/juliamono)|repository for JuliaMono, a monospaced font with reasonable Unicode support.|1377|2024-06-27|
-|128|[OpnTec/opentechsummit.de](https://github.com/OpnTec/opentechsummit.de)|OpenTechSummit Germany https://opentechsummit.de|1377|2024-05-20|
-|129|[creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard)|Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. |1353|2024-08-05|
-|130|[elipapa/markdown-cv](https://github.com/elipapa/markdown-cv)|a simple template to write your CV in a readable markdown file and use CSS to publish/print it.|1313|2024-06-27|
-|131|[Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)|A theme for obsidian.md|1254|2024-07-20|
-|132|[assetnote/wordlists](https://github.com/assetnote/wordlists)|Automated & Manual Wordlists provided by Assetnote|1249|2024-07-31|
-|133|[propjockey/augmented-ui](https://github.com/propjockey/augmented-ui)|Cyberpunk-inspired web UI made easy. Get augmented.|1247|2024-05-28|
-|134|[1amSimp1e/dots](https://github.com/1amSimp1e/dots)|Nothing here but Dotfiles & Customization 💫|1242|2024-07-18|
-|135|[nielsenramon/chalk](https://github.com/nielsenramon/chalk)|Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.|1226|2024-04-09|
-|136|[cheeaun/hackerweb](https://github.com/cheeaun/hackerweb)|A simply readable Hacker News web app|1225|2024-04-22|
-|137|[jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)|Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️|1205|2024-08-10|
-|138|[BuckyMaler/global](https://github.com/BuckyMaler/global)|HTML5 website template|1191|2024-02-14|
-|139|[datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)|Firefox Theme - For dark theme lovers / More compact / Modular / Blur|1190|2024-07-25|
-|140|[udacity/course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans)|-|1180|2024-08-07|
-|141|[adobe/spectrum-css](https://github.com/adobe/spectrum-css)|The standard CSS implementation of the Spectrum design language.|1178|2024-08-09|
-|142|[PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)|A blue theme for Obsidian. |1124|2024-07-15|
-|143|[ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs)|This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs|1106|2024-02-29|
-|144|[1Marc/modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs)|TodoMVC with Modern (ES6+), Vanilla JavaScript|1093|2024-03-12|
-|145|[Naezr/ShyFox](https://github.com/Naezr/ShyFox)|A very shy little theme that hides the entire browser interface in the window border|1092|2024-08-10|
-|146|[tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)|A skin to make Steam look more like a native GNOME app|1075|2024-07-31|
-|147|[obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help)|Help documentation for Obsidian.|1062|2024-08-08|
-|148|[gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)|The source for https://gohugo.io/|1039|2024-08-08|
-|149|[susiai/susi_chat](https://github.com/susiai/susi_chat)|-|1019|2024-08-05|
-|150|[QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)|Firefox CSS Theme/Style for manual customization|1012|2024-08-09|
-|151|[vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)|Fluent design gtk theme for linux desktops|1005|2024-08-05|
-|152|[femmebot/google-type](https://github.com/femmebot/google-type)|Collaborative typography project using select passages from Aesop's Fables set to Google Fonts|1005|2024-07-27|
-|153|[breatheco-de/breatheco-de](https://github.com/breatheco-de/breatheco-de)|-|1001|2024-07-30|
-|154|[secure-77/Perlite](https://github.com/secure-77/Perlite)|A web-based markdown viewer optimized for Obsidian|997|2024-08-06|
-|155|[orbit-love/orbit-model](https://github.com/orbit-love/orbit-model)|A framework for building high gravity communities 🪐|980|2024-07-16|
-|156|[jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)|Custom CSS theme for doxygen html-documentation with lots of customization parameters.|974|2024-08-07|
-|157|[developedbyed/glass-website](https://github.com/developedbyed/glass-website)|-|937|2024-05-12|
-|158|[manton/JSONFeed](https://github.com/manton/JSONFeed)|The JSONFeed.org website|936|2024-06-15|
-|159|[primary-theme/obsidian](https://github.com/primary-theme/obsidian)|Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"|920|2024-08-09|
-|160|[dracula/gtk](https://github.com/dracula/gtk)|🧛🏻‍♂️ Dark theme for GTK|918|2024-08-06|
-|161|[kleo/evilportals](https://github.com/kleo/evilportals)|A collection of captive portals for phishing using a WiFi Pineapple |913|2024-05-27|
-|162|[ayusharma/birthday](https://github.com/ayusharma/birthday)|A Happy Birthday animation design in CSS3, HTML5 |902|2024-07-22|
-|163|[swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)|Projects made during the 30 days of the JavaScript challenge|893|2024-07-14|
-|164|[efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout)|CSS Layout hack for Obsidian.md|889|2024-06-26|
-|165|[siduck/dotfiles](https://github.com/siduck/dotfiles)|dotfiles for my beautiful rices!|886|2024-06-25|
-|166|[csstools/postcss-plugins](https://github.com/csstools/postcss-plugins)|PostCSS Tools and Plugins|877|2024-08-10|
-|167|[LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui)|The official web app for lemmy.|869|2024-08-09|
-|168|[KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)|A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨|867|2024-08-08|
-|169|[t413/SinglePaged](https://github.com/t413/SinglePaged)|SinglePaged - Simple Jekyll template|866|2024-05-13|
-|170|[Automattic/themes](https://github.com/Automattic/themes)|Free WordPress themes made by Automattic for WordPress.org and WordPress.com.|861|2024-08-09|
-|171|[privateersclub/wiki](https://github.com/privateersclub/wiki)|🌊 The most comprehensive game piracy wiki on the internet.|858|2024-08-10|
-|172|[derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table)|:arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table|853|2024-03-08|
-|173|[Mobirise/Mobirise](https://github.com/Mobirise/Mobirise)|AI Website Builder, Open Source, Bootstrap 5|849|2024-03-11|
-|174|[sheraz756/moduels](https://github.com/sheraz756/moduels)|https://sheraz756.github.io/moduels/|847|2024-03-13|
-|175|[daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)|Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.|842|2024-07-30|
-|176|[hraban/tomono](https://github.com/hraban/tomono)|Multi- To Mono-repository merge|837|2024-07-26|
-|177|[primefaces/sakai-react](https://github.com/primefaces/sakai-react)|Free React Admin Template |830|2024-03-07|
-|178|[livereload/livereload-js](https://github.com/livereload/livereload-js)|LiveReload JavaScript code that communicates with the server and implements reloading|828|2024-06-18|
-|179|[stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments)|Use Checkout to quickly collect one-time payments.|826|2024-08-01|
-|180|[EliverLara/Ant](https://github.com/EliverLara/Ant)|:ant:  A flat and light theme with a modern look|818|2024-08-10|
-|181|[Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)|A library for loading spinner for Angular 4 - 17.|817|2024-06-17|
-|182|[csstools/postcss-normalize](https://github.com/csstools/postcss-normalize)|Use the parts of normalize.css (or sanitize.css) you need from your browserslist|816|2024-05-06|
-|183|[ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|Turn your Telegram Channel into a MicroBlog.|815|2024-08-10|
+|36|[csstools/sanitize.css](https://github.com/csstools/sanitize.css)|A best-practices CSS foundation|5194|2024-08-10|
+|37|[robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)|Synthwave inspired colour theme for VS Code 🌅🕶 |5154|2024-07-18|
+|38|[safak/youtube](https://github.com/safak/youtube)|-|4982|2024-05-30|
+|39|[missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)|The Missing Semester of Your CS Education 📚|4830|2024-08-11|
+|40|[john-smilga/react-projects](https://github.com/john-smilga/react-projects)|-|4794|2024-07-24|
+|41|[matt8707/hass-config](https://github.com/matt8707/hass-config)|✨ A different take on designing a Lovelace UI (Dashboard)|4788|2024-05-03|
+|42|[cssnano/cssnano](https://github.com/cssnano/cssnano)|A modular minifier, built on top of the PostCSS ecosystem.|4683|2024-08-10|
+|43|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|4576|2024-04-09|
+|44|[vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki)|Repository which contains links and resources on different topics of Computer Science.|4206|2024-06-19|
+|45|[rime/home](https://github.com/rime/home)|Rime::Home is home to Rime users and developers|4205|2024-07-27|
+|46|[UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish)|Phishing Tool & Information Collector |3983|2024-04-09|
+|47|[john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects)|-|3668|2024-08-11|
+|48|[poole/hyde](https://github.com/poole/hyde)|A brazen two-column theme for Jekyll.|3643|2024-07-03|
+|49|[BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)|🍭　Cnblogs theme _ Basic theme :  SimpleMemory|3609|2024-07-04|
+|50|[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)|A distraction-free and highly customizable theme for Obsidian.|3551|2024-08-09|
+|51|[adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans)|Sans serif font family for user interface environments|3441|2024-06-12|
+|52|[nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)|Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu ...|3379|2024-06-07|
+|53|[rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)|A GNOME👣 theme for Firefox🔥|3372|2024-08-10|
+|54|[twbs/rfs](https://github.com/twbs/rfs)|✩ Automates responsive resizing ✩|3309|2024-07-09|
+|55|[poole/lanyon](https://github.com/poole/lanyon)|A content-first, sliding sidebar theme for Jekyll.|3234|2024-07-23|
+|56|[google/google-api-javascript-client](https://github.com/google/google-api-javascript-client)|Google APIs Client Library for browser JavaScript, aka gapi.|3153|2024-07-18|
+|57|[guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report)|简单描述工作内容，帮你生成完整周报|3146|2024-05-27|
+|58|[Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system)|Your web application for managing personal data. |3121|2024-08-03|
+|59|[sharu725/online-cv](https://github.com/sharu725/online-cv)|A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.|3094|2024-07-16|
+|60|[understrap/understrap](https://github.com/understrap/understrap)|Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.|3040|2024-07-11|
+|61|[halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)|Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.|3006|2024-04-29|
+|62|[atisawd/boxicons](https://github.com/atisawd/boxicons)|High Quality web friendly icons|2865|2024-04-26|
+|63|[poole/poole](https://github.com/poole/poole)|The Jekyll Butler. A no frills responsive Jekyll blog theme.|2823|2024-05-23|
+|64|[cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)|Cloudflare’s documentation|2759|2024-08-11|
+|65|[vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)|Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.|2690|2024-05-06|
+|66|[vorillaz/devicons](https://github.com/vorillaz/devicons)|Devicons - An iconic font made for developers|2653|2024-06-24|
+|67|[TryGhost/Casper](https://github.com/TryGhost/Casper)|The default theme for Ghost|2525|2024-08-09|
+|68|[creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system)|Argon - Design System for Bootstrap 4 by Creative Tim|2472|2024-06-26|
+|69|[HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)|Free, no-nonsense, super fast blogging.|2456|2024-08-06|
+|70|[TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo)|Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.|2398|2024-04-24|
+|71|[0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)|Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.|2382|2024-08-09|
+|72|[Screenly/Anthias](https://github.com/Screenly/Anthias)|The world's most popular open source digital signage project.|2380|2024-08-08|
+|73|[ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan)|nodejsscan is a static security code scanner for Node.js applications.|2367|2024-08-10|
+|74|[GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension)|A Chrome extension to measure essential metrics for a healthy site|2340|2024-06-07|
+|75|[themepark-dev/theme.park](https://github.com/themepark-dev/theme.park)|A collection of themes/skins for 50 selfhosted apps!|2295|2024-06-24|
+|76|[straight-tamago/misaka](https://github.com/straight-tamago/misaka)| iOS & tvOS customisation tool for KFD & MDC|2286|2024-08-08|
+|77|[EliverLara/Nordic](https://github.com/EliverLara/Nordic)|:snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.|2272|2024-08-04|
+|78|[bagder/http2-explained](https://github.com/bagder/http2-explained)|A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol|2266|2024-04-13|
+|79|[remy/mit-license](https://github.com/remy/mit-license)|Hosted MIT License with details controlled through this repo|2257|2024-07-22|
+|80|[Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward)|Server dashboard|2250|2024-08-03|
+|81|[mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes)|A directory of the best-looking themes for Jekyll blogs|2247|2024-07-10|
+|82|[elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset)|The New Simple and Lighter CSS Reset|2232|2024-07-19|
+|83|[bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa)|Responsive Portfolio Website Using HTML, CSS & JavaScript|2220|2024-07-26|
+|84|[msys2/msys2.github.io](https://github.com/msys2/msys2.github.io)|The MSYS2 homepage|2218|2024-08-09|
+|85|[LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)|A simple culinary website.|2190|2024-08-09|
+|86|[fniessen/org-html-themes](https://github.com/fniessen/org-html-themes)|Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design|2184|2024-05-19|
+|87|[marcelodolza/iziModal](https://github.com/marcelodolza/iziModal)|Elegant, responsive, flexible and lightweight modal plugin with jQuery.|2161|2024-08-07|
+|88|[adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif)|Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. |2157|2024-07-05|
+|89|[thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar)|A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.|2134|2024-06-25|
+|90|[5t3ph/stylestage](https://github.com/5t3ph/stylestage)|A modern CSS showcase styled by community contributions. Add your stylesheet!|2128|2024-05-08|
+|91|[getpelican/pelican-themes](https://github.com/getpelican/pelican-themes)|Themes for Pelican|2120|2024-07-30|
+|92|[emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks)|Happy Hacking Emacs & Spacemacs (Simplified Chinese)|2111|2024-03-04|
+|93|[yanhaijing/zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)|Focusing on the fullPage.js for mobile terminals.|2103|2024-02-26|
+|94|[nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper)|🪺 A simple, clean, customizable Hugo theme|2073|2024-08-10|
+|95|[PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber)|Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).|2059|2024-08-11|
+|96|[AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)|Personal theme for Obsidian|2022|2024-08-03|
+|97|[ajusa/lit](https://github.com/ajusa/lit)|World's smallest responsive 🔥 css framework (395 bytes) |1991|2024-06-15|
+|98|[NsCDE/NsCDE](https://github.com/NsCDE/NsCDE)|Modern and functional CDE desktop based on FVWM|1893|2024-06-19|
+|99|[asc-lab/dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc)|Very simplified insurance sales system made in a microservices architecture using .NET Core|1879|2024-06-19|
+|100|[ageitgey/amplify](https://github.com/ageitgey/amplify)|A Jekyll html theme in the vague style of Medium.com built using Google AMP|1871|2024-03-18|
+|101|[mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com)|The source of csszengarden.com|1864|2024-07-14|
+|102|[EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)|Pledge your respect and appreciation for contributors of all kinds to your open source project.|1854|2024-07-11|
+|103|[Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx)|Custom CSS tweaks for Firefox|1823|2024-06-23|
+|104|[shen-yu/hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer)|一个干净优雅的hexo主题 A clean and elegant theme for Hexo.  🐋|1801|2024-08-02|
+|105|[rust-lang/nomicon](https://github.com/rust-lang/nomicon)|The Dark Arts of Advanced and Unsafe Rust Programming|1760|2024-08-11|
+|106|[creativetimofficial/now-ui-kit](https://github.com/creativetimofficial/now-ui-kit)|Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim|1695|2024-06-26|
+|107|[mblode/marx](https://github.com/mblode/marx)|The classless CSS reset (perfect for Communists).|1686|2024-08-04|
+|108|[sethcottle/littlelink](https://github.com/sethcottle/littlelink)|A lightweight DIY alternative to services like Linktree.|1671|2024-07-23|
+|109|[dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)|Drop-in switcher for previewing minimal CSS frameworks|1647|2024-07-25|
+|110|[codrops/SidebarTransitions](https://github.com/codrops/SidebarTransitions)|Some inspiration for transition effects for off-canvas navigations.|1634|2024-08-05|
+|111|[vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes)|Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.|1616|2024-07-31|
+|112|[JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat)|-|1603|2024-05-30|
+|113|[kepano/flexoki](https://github.com/kepano/flexoki)|An inky color scheme for prose and code.|1582|2024-07-16|
+|114|[reworkcss/css](https://github.com/reworkcss/css)|CSS parser / stringifier for Node.js|1573|2024-04-12|
+|115|[daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome)|Flat Remix is a GNOME Shell theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.|1569|2024-07-21|
+|116|[phalapi/phalapi](https://github.com/phalapi/phalapi)|PhalApi开源接口框架，简称π框架，一个轻量级PHP开源接口框架，专注于接口服务开发。接口，从简单开始！|1565|2024-03-16|
+|117|[lowlighter/matcha](https://github.com/lowlighter/matcha)|🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!|1564|2024-07-15|
+|118|[vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme)|Qogir is a flat Design theme for GTK|1542|2024-08-06|
+|119|[yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions)|Вопросы для подготовки к интервью на позицию Python Developer|1539|2024-02-21|
+|120|[Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage)|A dashboard for your obsidian vault.|1451|2024-03-28|
+|121|[progit/progit2-zh](https://github.com/progit/progit2-zh)|-|1427|2024-08-10|
+|122|[EliverLara/Sweet](https://github.com/EliverLara/Sweet)|Light and dark colorful Gtk3.20+ theme|1420|2024-08-05|
+|123|[adobe/adobe.github.com](https://github.com/adobe/adobe.github.com)|Adobe central hub for open source|1416|2024-06-02|
+|124|[cascadefox/cascade](https://github.com/cascadefox/cascade)|A responsive One-Line CSS Theme for Firefox.|1399|2024-02-12|
+|125|[justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me)|A directory of direct links to delete your account from web services.|1386|2024-06-28|
+|126|[leoFitz1024/wallhaven](https://github.com/leoFitz1024/wallhaven)|基于wallhaven.cc的一款壁纸管理工具|1384|2024-06-14|
+|127|[purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)|Fluent for Steam. A simple skin for steam to make it look like windows 11.|1382|2024-06-06|
+|128|[cormullion/juliamono](https://github.com/cormullion/juliamono)|repository for JuliaMono, a monospaced font with reasonable Unicode support.|1377|2024-06-27|
+|129|[OpnTec/opentechsummit.de](https://github.com/OpnTec/opentechsummit.de)|OpenTechSummit Germany https://opentechsummit.de|1377|2024-05-20|
+|130|[creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard)|Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. |1353|2024-08-05|
+|131|[elipapa/markdown-cv](https://github.com/elipapa/markdown-cv)|a simple template to write your CV in a readable markdown file and use CSS to publish/print it.|1313|2024-06-27|
+|132|[Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)|A theme for obsidian.md|1254|2024-07-20|
+|133|[assetnote/wordlists](https://github.com/assetnote/wordlists)|Automated & Manual Wordlists provided by Assetnote|1252|2024-07-31|
+|134|[propjockey/augmented-ui](https://github.com/propjockey/augmented-ui)|Cyberpunk-inspired web UI made easy. Get augmented.|1247|2024-05-28|
+|135|[1amSimp1e/dots](https://github.com/1amSimp1e/dots)|Nothing here but Dotfiles & Customization 💫|1242|2024-07-18|
+|136|[nielsenramon/chalk](https://github.com/nielsenramon/chalk)|Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.|1226|2024-04-09|
+|137|[cheeaun/hackerweb](https://github.com/cheeaun/hackerweb)|A simply readable Hacker News web app|1225|2024-04-22|
+|138|[jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)|Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️|1205|2024-08-10|
+|139|[datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)|Firefox Theme - For dark theme lovers / More compact / Modular / Blur|1191|2024-07-25|
+|140|[BuckyMaler/global](https://github.com/BuckyMaler/global)|HTML5 website template|1191|2024-02-14|
+|141|[udacity/course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans)|-|1181|2024-08-07|
+|142|[adobe/spectrum-css](https://github.com/adobe/spectrum-css)|The standard CSS implementation of the Spectrum design language.|1178|2024-08-09|
+|143|[PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)|A blue theme for Obsidian. |1124|2024-07-15|
+|144|[ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs)|This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs|1106|2024-02-29|
+|145|[Naezr/ShyFox](https://github.com/Naezr/ShyFox)|A very shy little theme that hides the entire browser interface in the window border|1096|2024-08-10|
+|146|[1Marc/modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs)|TodoMVC with Modern (ES6+), Vanilla JavaScript|1093|2024-03-12|
+|147|[tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)|A skin to make Steam look more like a native GNOME app|1075|2024-07-31|
+|148|[obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help)|Help documentation for Obsidian.|1062|2024-08-08|
+|149|[gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)|The source for https://gohugo.io/|1039|2024-08-11|
+|150|[susiai/susi_chat](https://github.com/susiai/susi_chat)|-|1019|2024-08-05|
+|151|[QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)|Firefox CSS Theme/Style for manual customization|1014|2024-08-11|
+|152|[vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)|Fluent design gtk theme for linux desktops|1007|2024-08-05|
+|153|[femmebot/google-type](https://github.com/femmebot/google-type)|Collaborative typography project using select passages from Aesop's Fables set to Google Fonts|1005|2024-07-27|
+|154|[breatheco-de/breatheco-de](https://github.com/breatheco-de/breatheco-de)|-|1001|2024-07-30|
+|155|[secure-77/Perlite](https://github.com/secure-77/Perlite)|A web-based markdown viewer optimized for Obsidian|1000|2024-08-06|
+|156|[orbit-love/orbit-model](https://github.com/orbit-love/orbit-model)|A framework for building high gravity communities 🪐|980|2024-07-16|
+|157|[jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)|Custom CSS theme for doxygen html-documentation with lots of customization parameters.|974|2024-08-07|
+|158|[developedbyed/glass-website](https://github.com/developedbyed/glass-website)|-|937|2024-05-12|
+|159|[manton/JSONFeed](https://github.com/manton/JSONFeed)|The JSONFeed.org website|936|2024-06-15|
+|160|[primary-theme/obsidian](https://github.com/primary-theme/obsidian)|Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"|920|2024-08-09|
+|161|[dracula/gtk](https://github.com/dracula/gtk)|🧛🏻‍♂️ Dark theme for GTK|920|2024-08-06|
+|162|[kleo/evilportals](https://github.com/kleo/evilportals)|A collection of captive portals for phishing using a WiFi Pineapple |913|2024-05-27|
+|163|[ayusharma/birthday](https://github.com/ayusharma/birthday)|A Happy Birthday animation design in CSS3, HTML5 |903|2024-07-22|
+|164|[swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)|Projects made during the 30 days of the JavaScript challenge|895|2024-07-14|
+|165|[efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout)|CSS Layout hack for Obsidian.md|889|2024-06-26|
+|166|[siduck/dotfiles](https://github.com/siduck/dotfiles)|dotfiles for my beautiful rices!|886|2024-06-25|
+|167|[csstools/postcss-plugins](https://github.com/csstools/postcss-plugins)|PostCSS Tools and Plugins|877|2024-08-10|
+|168|[KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)|A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨|872|2024-08-08|
+|169|[LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui)|The official web app for lemmy.|870|2024-08-09|
+|170|[t413/SinglePaged](https://github.com/t413/SinglePaged)|SinglePaged - Simple Jekyll template|866|2024-05-13|
+|171|[Automattic/themes](https://github.com/Automattic/themes)|Free WordPress themes made by Automattic for WordPress.org and WordPress.com.|861|2024-08-09|
+|172|[privateersclub/wiki](https://github.com/privateersclub/wiki)|🌊 The most comprehensive game piracy wiki on the internet.|858|2024-08-10|
+|173|[derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table)|:arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table|853|2024-03-08|
+|174|[Mobirise/Mobirise](https://github.com/Mobirise/Mobirise)|AI Website Builder, Open Source, Bootstrap 5|850|2024-03-11|
+|175|[sheraz756/moduels](https://github.com/sheraz756/moduels)|https://sheraz756.github.io/moduels/|847|2024-03-13|
+|176|[daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)|Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.|843|2024-07-30|
+|177|[hraban/tomono](https://github.com/hraban/tomono)|Multi- To Mono-repository merge|837|2024-07-26|
+|178|[primefaces/sakai-react](https://github.com/primefaces/sakai-react)|Free React Admin Template |830|2024-03-07|
+|179|[livereload/livereload-js](https://github.com/livereload/livereload-js)|LiveReload JavaScript code that communicates with the server and implements reloading|828|2024-06-18|
+|180|[stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments)|Use Checkout to quickly collect one-time payments.|826|2024-08-01|
+|181|[EliverLara/Ant](https://github.com/EliverLara/Ant)|:ant:  A flat and light theme with a modern look|818|2024-08-10|
+|182|[Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)|A library for loading spinner for Angular 4 - 17.|817|2024-06-17|
+|183|[csstools/postcss-normalize](https://github.com/csstools/postcss-normalize)|Use the parts of normalize.css (or sanitize.css) you need from your browserslist|816|2024-05-06|
 |184|[typora/theme.typora.io](https://github.com/typora/theme.typora.io)|Website for Typora themes|808|2024-08-09|
-|185|[romeojeremiah/javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners)|Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.|801|2024-07-17|
-|186|[nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell)|Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors|798|2024-08-06|
+|185|[romeojeremiah/javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners)|Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.|802|2024-07-17|
+|186|[nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell)|Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors|799|2024-08-06|
 |187|[iamstevendao/vue-tel-input](https://github.com/iamstevendao/vue-tel-input)|International Telephone Input with Vue|790|2024-07-29|
-|188|[jpswalsh/academicons](https://github.com/jpswalsh/academicons)|An icon font for academics|783|2024-03-19|
+|188|[jpswalsh/academicons](https://github.com/jpswalsh/academicons)|An icon font for academics|784|2024-03-19|
 |189|[urre/wordpress-nginx-docker-compose](https://github.com/urre/wordpress-nginx-docker-compose)|Run WordPress with nginx using Docker Compose. |782|2024-05-28|
-|190|[Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)|Opera GX Skin for Firefox|779|2024-08-10|
+|190|[Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)|Opera GX Skin for Firefox|780|2024-08-10|
 |191|[designmodo/html-website-templates](https://github.com/designmodo/html-website-templates)|Free static HTML website templates created using the Slides - https://designmodo.com/slides/|777|2024-04-25|
 |192|[devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme)|Universal theme for Hugo, it stands out with its clean design and elegant typography.|773|2024-06-20|
 |193|[WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io)|Repo for Firebog hosting|770|2024-05-09|
-|194|[saucelabs/the-internet](https://github.com/saucelabs/the-internet)|An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.|767|2024-06-13|
+|194|[saucelabs/the-internet](https://github.com/saucelabs/the-internet)|An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.|768|2024-06-13|
 |195|[andyk/ht](https://github.com/andyk/ht)|headless terminal - wrap any binary with a terminal interface for easy programmatic access.|764|2024-07-06|
-|196|[opera-gaming/gxmods](https://github.com/opera-gaming/gxmods)|Documentation for GX mods|763|2024-07-18|
+|196|[opera-gaming/gxmods](https://github.com/opera-gaming/gxmods)|Documentation for GX mods|764|2024-07-18|
 |197|[deathau/obsidian-snippets](https://github.com/deathau/obsidian-snippets)|-|762|2024-02-12|
 |198|[learningequality/kolibri](https://github.com/learningequality/kolibri)|Kolibri Learning Platform: the offline app for universal education|762|2024-08-09|
 |199|[flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)|Automatically monitor the evolving performance of Flask/Python web services.|756|2024-06-16|
-|200|[vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme)|Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell|749|2024-05-01|
+|200|[vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme)|Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell|750|2024-05-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2708|2024-07-16|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2715|2024-07-16|
 |2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1371|2024-07-27|
-|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1175|2024-08-09|
-|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|375|2024-06-06|
+|3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1176|2024-08-09|
+|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|376|2024-06-06|
 |5|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|364|2024-03-12|
 |6|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|261|2024-07-11|
 |7|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|258|2024-08-09|
@@ -31,10 +31,10 @@
 |24|[MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020](https://github.com/MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020)|Probabilistic Load Forecasting Based on Adaptive Online Learning (APLF)|56|2024-03-11|
 |25|[fxgiraldo/Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)|This directory contains the Lecture files and Project codes in both Julia and Matlab for a course based on the Springer textbook "An Introduction to Element-based Galerkin Methods on Tensor-Product Ba ...|55|2024-06-23|
 |26|[peterhcharlton/ppg-beats](https://github.com/peterhcharlton/ppg-beats)|PPG-beats is a Matlab library of algorithms to detect heartbeats in photoplethysmogram (PPG) signals.|53|2024-07-29|
-|27|[antonio-m/FDIVP](https://github.com/antonio-m/FDIVP)|Personal repository for the homeworks of course "Fundamentals of Digital Image and Video Processing" from Coursera|51|2024-05-31|
+|27|[antonio-m/FDIVP](https://github.com/antonio-m/FDIVP)|Personal repository for the homeworks of course "Fundamentals of Digital Image and Video Processing" from Coursera|52|2024-05-31|
 |28|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |50|2024-05-20|
 |29|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|46|2024-04-17|
-|30|[EMFMed/MERIT](https://github.com/EMFMed/MERIT)|Microwave Radar-based Imaging Toolbox (MERIT) is free and open-source software for microwave radar-basaed imaging. Including getting started guides and example data, MERIT is a flexible and extensible ...|46|2024-08-09|
+|30|[EMFMed/MERIT](https://github.com/EMFMed/MERIT)|Microwave Radar-based Imaging Toolbox (MERIT) is free and open-source software for microwave radar-basaed imaging. Including getting started guides and example data, MERIT is a flexible and extensible ...|46|2024-08-11|
 |31|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|Notebooks and documents to build Computational Mechanics course|45|2024-05-28|
 |32|[odedstein/gp-matlab-tutorial](https://github.com/odedstein/gp-matlab-tutorial)|A basic tutorial for geometry processing in MATLAB using gptoolbox|43|2024-02-12|
 |33|[lanl-ansi/tutorial-grid-science](https://github.com/lanl-ansi/tutorial-grid-science)|Julia Tutorial Materials for the Grid Science Tools|42|2024-05-25|
@@ -55,7 +55,7 @@
 |48|[darcycordell/mtcode](https://github.com/darcycordell/mtcode)|Collection of MATLAB scripts for magnetotelluric data analysis, data editing, model building, and model editing. |26|2024-04-15|
 |49|[simscape/Electric-Vehicle-Simscape](https://github.com/simscape/Electric-Vehicle-Simscape)|This repository show you how to model an automotive battery electric vehicle (BEV) for range estimation and battery sizing.|25|2024-07-19|
 |50|[wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness](https://github.com/wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness)|The released code of t-CTV algorithms, mainly proposed in the paper "Guaranteed Tensor Recovery Fused Low-rankness and  Smoothness"， published in TPAMI 2023|23|2024-07-06|
-|51|[iff-gsc/LADAC-Examples](https://github.com/iff-gsc/LADAC-Examples)|Examples for the Library for Aircraft Dynamics And Control|23|2024-07-25|
+|51|[iff-gsc/LADAC-Examples](https://github.com/iff-gsc/LADAC-Examples)|Examples for the Library for Aircraft Dynamics And Control|23|2024-08-11|
 |52|[SafeRoboticsLab/Dual_Control_HRI](https://github.com/SafeRoboticsLab/Dual_Control_HRI)|Implementation of implicit dual control-based active uncertainty learning for human-robot interaction - WAFR 2022 & IJRR 2023|22|2024-06-24|
 |53|[JulioSoteloParraguez/4D-Flow-Matlab-Toolbox](https://github.com/JulioSoteloParraguez/4D-Flow-Matlab-Toolbox)|This repository contains a protected MATLAB toolbox that allows the quantification of a series of hemodynamic parameters, from 4D flow data obtained by cardiovascular magnetic resonance.|22|2024-07-14|
 |54|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|22|2024-08-01|
@@ -91,14 +91,14 @@
 |84|[RuslanAgishev/quadrotor_simulator](https://github.com/RuslanAgishev/quadrotor_simulator)|Quadrotor simulator based on Coursera Aerial Robotics course from University of Pennsylvania|14|2024-02-24|
 |85|[LarsonLab/Radial-Field-of-Views](https://github.com/LarsonLab/Radial-Field-of-Views)|Radial sampling patterns in frequency space to support anisotropic field of views (FOVs) in the dual domain|14|2024-02-28|
 |86|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|13|2024-04-09|
-|87|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|13|2024-08-09|
+|87|[AaHaHaa/MMTools](https://github.com/AaHaHaa/MMTools)|This is the shared package to simulate pulse propagation in a fiber with GMMNLSE/MM-UPPE|13|2024-08-10|
 |88|[MathWorks-Teaching-Resources/Fluid-Mechanics](https://github.com/MathWorks-Teaching-Resources/Fluid-Mechanics)|Interactive courseware that introduces foundational-level concepts as taught in introductory courses in fluid mechanics.|13|2024-04-30|
-|89|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|13|2024-05-16|
-|90|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
-|91|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
-|92|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-01|
-|93|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|12|2024-04-13|
-|94|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|12|2024-07-24|
+|89|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|13|2024-07-24|
+|90|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|13|2024-05-16|
+|91|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
+|92|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
+|93|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-01|
+|94|[mx0922/tutorials_trajOptim_MPC](https://github.com/mx0922/tutorials_trajOptim_MPC)|Some tutorials of trajectory optimization (TO) and model predictive control (MPC) for legged robots.|12|2024-04-13|
 |95|[MathWorks-Teaching-Resources/Calculus-Derivatives](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives)|Interactive module that introduces fundamentals of derivatives including the product and chain rule as presented in Calculus I courses|12|2024-07-30|
 |96|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|
 |97|[zsunberg/Aircraft-Dynamics-Materials](https://github.com/zsunberg/Aircraft-Dynamics-Materials)|Course materials for Aircraft Dynamics (ASEN 3728) at CU Boulder|11|2024-06-14|
@@ -197,7 +197,7 @@
 |190|[zafarrafii/uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab)|Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. |5|2024-02-16|
 |191|[gemini3d/gemini-examples](https://github.com/gemini3d/gemini-examples)|Set of scripts containing different examples for how to initialize and run GEMINI|5|2024-08-09|
 |192|[mattools/matlab-templates](https://github.com/mattools/matlab-templates)|A collection of functions for quickly generating pre-edited matlab files for specific use cases|5|2024-07-19|
-|193|[hdfeos/zoo](https://github.com/hdfeos/zoo)|HDF-EOS Comprehensive Examples|5|2024-08-09|
+|193|[hdfeos/zoo](https://github.com/hdfeos/zoo)|HDF-EOS Comprehensive Examples|5|2024-08-11|
 |194|[LidkeLab/matlab-instrument-control](https://github.com/LidkeLab/matlab-instrument-control)|A collection of MATLAB classes to control various equipment used in fluorescence microscopy|5|2024-07-30|
 |195|[BioMEMS/AnalyzeIMS](https://github.com/BioMEMS/AnalyzeIMS)|AnalyzeIMS (AIMS) software developed in Prof. Cristina Davis' BioInstrumentation and BioMEMS Laboratory.  Publications (i.e. articles, book chapters, etc.) that use this software are required to cite  ...|5|2024-07-11|
 |196|[alanjern/preferencelearning](https://github.com/alanjern/preferencelearning)|Code, data, and materials for "People learn other people's preferences through inverse decision-making"|5|2024-05-08|
