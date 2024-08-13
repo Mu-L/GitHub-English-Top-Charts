@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|376|2024-06-06|2024-01-27|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|378|2024-06-06|2024-01-27|
 |2|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|261|2024-07-11|2023-08-28|
 |3|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|56|2024-05-17|2024-01-11|
-|4|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|21|2024-08-10|2023-10-13|
+|4|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|22|2024-08-12|2023-10-13|
 |5|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|13|2024-04-09|2024-02-09|
 |6|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-01|2024-07-26|
 |7|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|2024-01-29|
@@ -36,17 +36,17 @@
 |29|[Tracesource/RCAGL](https://github.com/Tracesource/RCAGL)|[IEEE TKDE 2024] Code of "Robust and Consistent Anchor Graph Learning for Multi-view Clustering"|6|2024-02-28|2024-02-08|
 |30|[aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)|The source codes of Parrot optimizer are also publicly available at https://aliasgharheidari.com/PO.html, This study presents the analysis and principle of an effective algorithm to optimize different ...|6|2024-08-09|2024-02-01|
 |31|[jwangjie/Mixed-Traffic-GP-MPC](https://github.com/jwangjie/Mixed-Traffic-GP-MPC)|Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles|6|2024-04-13|2024-01-20|
-|32|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|6|2024-06-28|2023-12-10|
-|33|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|2024-06-03|2023-12-08|
-|34|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
-|35|[mahdieslaminet/-Real_Time_Power_Quality_Event_Monitoring](https://github.com/mahdieslaminet/-Real_Time_Power_Quality_Event_Monitoring)|Comprehensive Study on Real‑Time Power Quality Event Monitoring System Using Digital Signal|5|2024-08-02|2024-08-01|
-|36|[EmadYaY/Finite-Element-Method](https://github.com/EmadYaY/Finite-Element-Method)|Projects For The Finite Element Method Lesson And The Exercise Answers.|5|2024-07-31|2024-07-31|
-|37|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|2024-05-02|
-|38|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|2024-03-21|
-|39|[chiahao3/uncorrected_ptycho](https://github.com/chiahao3/uncorrected_ptycho)|This repo presents my personal collection of code and data used for the paper "Achieving sub-0.5-angstrom–resolution ptychography in an uncorrected electron microscope"|5|2024-03-08|2024-03-08|
-|40|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|2024-02-09|
-|41|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|5|2024-03-12|2024-01-10|
-|42|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|5|2024-05-04|2023-12-16|
+|32|[mihirm21/mth_iitk](https://github.com/mihirm21/mth_iitk)|IIT Kanpur - MTH course resources|6|2024-05-04|2023-12-16|
+|33|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|6|2024-06-28|2023-12-10|
+|34|[X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms](https://github.com/X-H-Yang/Comprehensive-comparison-Rayleigh-wave-inversion-algorithms)|A comprehensive comparison of Rayleigh wave inversion performance is conducted among two bionic algorithms, two probabilistic algorithms, a gradient-based algorithm, and two neural network algorithms|6|2024-06-03|2023-12-08|
+|35|[BelloMak/TAU_Labs_2023](https://github.com/BelloMak/TAU_Labs_2023)|Files for control engineering practical lessons|6|2024-05-22|2023-09-12|
+|36|[mahdieslaminet/-Real_Time_Power_Quality_Event_Monitoring](https://github.com/mahdieslaminet/-Real_Time_Power_Quality_Event_Monitoring)|Comprehensive Study on Real‑Time Power Quality Event Monitoring System Using Digital Signal|5|2024-08-02|2024-08-01|
+|37|[EmadYaY/Finite-Element-Method](https://github.com/EmadYaY/Finite-Element-Method)|Projects For The Finite Element Method Lesson And The Exercise Answers.|5|2024-07-31|2024-07-31|
+|38|[zxbylll/JLARA](https://github.com/zxbylll/JLARA)|Optimizing the Cost for Federated Learning in Vehicular Edge Computing: Local Accuracy Selection and Resource Allocation|5|2024-05-02|2024-05-02|
+|39|[roshanphilip/UAL-codes](https://github.com/roshanphilip/UAL-codes)|The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"|5|2024-05-06|2024-03-21|
+|40|[chiahao3/uncorrected_ptycho](https://github.com/chiahao3/uncorrected_ptycho)|This repo presents my personal collection of code and data used for the paper "Achieving sub-0.5-angstrom–resolution ptychography in an uncorrected electron microscope"|5|2024-03-08|2024-03-08|
+|41|[AmiraliShahriary/Signals-And-Systems-Projects](https://github.com/AmiraliShahriary/Signals-And-Systems-Projects)|Signal and Systems course Matlab project.|5|2024-03-01|2024-02-09|
+|42|[qsking8/Mathematical-Modeling](https://github.com/qsking8/Mathematical-Modeling)|数学建模笔记管理仓库，本科生数模|5|2024-03-12|2024-01-10|
 |43|[SciYu/Spectral-Clustering-on-Incomplete-Data](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)|The source code for the NeurIPS'2023 paper titled "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning".|5|2024-03-06|2023-10-26|
 |44|[quantum-inspired-lidar/PnP_NLOS](https://github.com/quantum-inspired-lidar/PnP_NLOS)|Code for the paper "Plug-and-Play Algorithms for Dynamic Non-line-of-sight Imaging"|4|2024-06-09|2024-05-29|
 |45|[simorxb/H-Infinity-Position-Control-Matlab](https://github.com/simorxb/H-Infinity-Position-Control-Matlab)|Example of how to synthetize a position control algorithm using H infinity and mixed-sensitivity with Matlab and Simulink.|4|2024-05-03|2024-04-27|
