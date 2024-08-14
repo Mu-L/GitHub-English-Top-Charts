@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Lua
-<sub>Updated: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)|Lightweight yet powerful formatter plugin for Neovim|2762|2024-08-11|2023-08-25|
-|2|[nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)|null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|2344|2024-08-11|2023-08-30|
-|3|[face-hh/griddycode](https://github.com/face-hh/griddycode)|A code editor made with Godot. Code has never been more lit!|1672|2024-08-12|2024-02-24|
+|1|[stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)|Lightweight yet powerful formatter plugin for Neovim|2766|2024-08-11|2023-08-25|
+|2|[nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)|null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|2346|2024-08-11|2023-08-30|
+|3|[face-hh/griddycode](https://github.com/face-hh/griddycode)|A code editor made with Godot. Code has never been more lit!|1673|2024-08-12|2024-02-24|
 |4|[CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim)|Chat with GitHub Copilot in Neovim|1380|2024-08-11|2023-12-12|
 |5|[tbhrbxx/robloxscripts](https://github.com/tbhrbxx/robloxscripts)|-|1071|2024-05-20|2024-05-20|
-|6|[David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim)|Neovim plugin to generate text using LLMs with customizable prompts|1049|2024-08-10|2023-09-30|
-|7|[MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)|Plugin to improve viewing Markdown files in Neovim|1024|2024-08-12|2024-03-18|
-|8|[OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)|An experimental markdown previewer for Neovim|1013|2024-08-12|2024-06-25|
-|9|[nvim-java/nvim-java](https://github.com/nvim-java/nvim-java)|Painless Java in Neovim|737|2024-08-02|2023-11-10|
-|10|[tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)|💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.|675|2024-08-08|2023-12-26|
+|6|[David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim)|Neovim plugin to generate text using LLMs with customizable prompts|1050|2024-08-10|2023-09-30|
+|7|[MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)|Plugin to improve viewing Markdown files in Neovim|1029|2024-08-12|2024-03-18|
+|8|[OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)|An experimental markdown previewer for Neovim|1027|2024-08-13|2024-06-25|
+|9|[nvim-java/nvim-java](https://github.com/nvim-java/nvim-java)|Painless Java in Neovim|741|2024-08-02|2023-11-10|
+|10|[tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)|💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.|677|2024-08-13|2023-12-26|
 |11|[craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)|🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.|614|2024-07-21|2023-09-15|
-|12|[wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)|Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)|576|2024-08-09|2023-11-01|
+|12|[wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)|Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)|578|2024-08-09|2023-11-01|
 |13|[folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)|Faster LuaLS setup for Neovim|574|2024-07-25|2024-06-01|
-|14|[scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)|🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim|569|2024-08-12|2023-12-21|
+|14|[scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)|🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim|571|2024-08-13|2023-12-21|
 |15|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|560|2024-07-22|2024-02-06|
-|16|[MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim)|Find And Replace plugin for neovim|554|2024-08-11|2024-04-28|
-|17|[hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim)|Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim. |526|2024-08-12|2023-10-31|
+|16|[MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim)|Find And Replace plugin for neovim|556|2024-08-11|2024-04-28|
+|17|[hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim)|Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim. |528|2024-08-13|2023-10-31|
 |18|[cpow/neovim-for-newbs](https://github.com/cpow/neovim-for-newbs)|a simple lua neovim configuration for newbs|483|2024-04-16|2023-12-09|
-|19|[HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim)|Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst|418|2024-06-06|2023-12-04|
-|20|[supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)|The official Neovim plugin for Supermaven|412|2024-07-17|2024-05-08|
-|21|[mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim)|A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.|390|2024-08-12|2024-06-24|
+|19|[mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim)|A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.|449|2024-08-13|2024-06-24|
+|20|[HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim)|Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst|419|2024-06-06|2023-12-04|
+|21|[supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)|The official Neovim plugin for Supermaven|414|2024-07-17|2024-05-08|
 |22|[TheCherno/ProjectTemplate](https://github.com/TheCherno/ProjectTemplate)|A little quick-start project template for C++ projects which utilise a Core/App project architecture|382|2024-05-31|2023-11-13|
 |23|[SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim)|Neovim git GUI powered by libgit2|355|2024-08-03|2023-10-13|
-|24|[piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim)|Delicious diagnostic debugging in Neovim 🤤|354|2024-07-10|2023-08-14|
-|25|[ThePrimeagen/neovimrc](https://github.com/ThePrimeagen/neovimrc)|-|341|2024-02-27|2024-01-31|
-|26|[nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim)|A plugin for managing and integrating your ollama workflows in neovim.|334|2024-08-10|2023-11-07|
-|27|[breaddev-here/bread-ray](https://github.com/breaddev-here/bread-ray)|it's not fast|333|2024-03-13|2024-02-29|
-|28|[mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim)|A Neovim Plugin for the yazi terminal file manager|323|2024-08-12|2024-02-25|
-|29|[altermo/nwm](https://github.com/altermo/nwm)|A graphical display window manager in neovim|312|2024-06-19|2023-12-15|
-|30|[tjdevries/config.nvim](https://github.com/tjdevries/config.nvim)|my nvim config|305|2024-08-03|2024-05-08|
+|24|[ThePrimeagen/neovimrc](https://github.com/ThePrimeagen/neovimrc)|-|341|2024-02-27|2024-01-31|
+|25|[nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim)|A plugin for managing and integrating your ollama workflows in neovim.|334|2024-08-10|2023-11-07|
+|26|[breaddev-here/bread-ray](https://github.com/breaddev-here/bread-ray)|it's not fast|333|2024-03-13|2024-02-29|
+|27|[mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim)|A Neovim Plugin for the yazi terminal file manager|326|2024-08-13|2024-02-25|
+|28|[altermo/nwm](https://github.com/altermo/nwm)|A graphical display window manager in neovim|312|2024-06-19|2023-12-15|
+|29|[tjdevries/config.nvim](https://github.com/tjdevries/config.nvim)|my nvim config|305|2024-08-03|2024-05-08|
+|30|[luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim)|An unofficial Tailwind CSS integration and tooling for Neovim|294|2024-08-13|2024-03-17|
 |31|[folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim)|Tiny plugin to enhance Neovim's native comments|286|2024-08-07|2024-05-20|
-|32|[FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim)|Neovim fugitive style git blame plugin|286|2024-08-07|2023-08-14|
-|33|[luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim)|An unofficial Tailwind CSS integration and tooling for Neovim|284|2024-08-12|2024-03-17|
-|34|[grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)|A feature-rich and highly customizable library for creating user interfaces in Neovim.|283|2024-05-11|2024-03-12|
-|35|[yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim)|Yacine's LLM nvim scripts|276|2024-08-06|2024-06-29|
-|36|[Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim)|Garbage collector that stops inactive LSP clients to free RAM|276|2024-06-12|2023-11-05|
-|37|[nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio)|A library for asynchronous IO in Neovim|269|2024-07-11|2023-12-20|
-|38|[Roblox/react-lua](https://github.com/Roblox/react-lua)|A comprehensive translation of upstream React 17.x into Luau. This is a read-only mirror.|268|2024-08-08|2023-12-06|
-|39|[NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim)|Screencast your keys in Neovim|263|2024-08-12|2024-04-14|
-|40|[Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim)|Display references, definitions and implementations of document symbols|248|2024-06-16|2023-09-17|
-|41|[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)|✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs|241|2024-08-12|2023-12-27|
-|42|[jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama)|🦙 Ollama interfaces for Neovim|237|2024-04-06|2023-08-26|
-|43|[chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim)|Low latency typst preview for Neovim|229|2024-07-18|2023-11-01|
-|44|[isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim)|Git Graph plugin for neovim|222|2024-08-12|2024-07-24|
-|45|[typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles)|-|218|2024-07-18|2024-02-02|
-|46|[dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim)|-|216|2024-04-05|2023-10-09|
-|47|[tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim)|⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations|213|2024-05-15|2023-11-29|
-|48|[soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)|Show diagnostics and lsp info inside a custom window, following the mouse position|212|2024-07-27|2023-10-24|
-|49|[bcampolo/nvim-starter-kit](https://github.com/bcampolo/nvim-starter-kit)|Neovim Starter Kit|211|2024-07-05|2023-12-01|
-|50|[BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse)|An OBS lua script to zoom a display-capture source to focus on the mouse|208|2024-06-07|2023-11-04|
-|51|[vm-001/lua-radix-router](https://github.com/vm-001/lua-radix-router)|A lightweight high-performance and radix tree based router for Lua/LuaJIT/OpenResty https://github.com/vm-001/gateways-routing-benchmark|207|2024-07-16|2023-12-11|
-|52|[melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim)|No frills LLM-assisted programming|203|2024-07-24|2024-05-13|
-|53|[hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim)|Start/stop LSP servers upon demand; keeps RAM usage low|200|2024-05-25|2023-09-22|
-|54|[rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)|A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.|198|2024-08-12|2024-06-29|
-|55|[jmederosalvarado/roslyn.nvim](https://github.com/jmederosalvarado/roslyn.nvim)|Roslyn LSP plugin for neovim|198|2024-08-03|2023-10-17|
-|56|[Steamopollys/Steamodded](https://github.com/Steamopollys/Steamodded)|A Balatro ModLoader|186|2024-08-12|2023-12-05|
-|57|[stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim)|Improved UI and workflow for the Neovim quickfix|185|2024-08-12|2024-07-26|
-|58|[brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim)|A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command|175|2024-06-18|2023-11-09|
-|59|[coffebar/neovim-project](https://github.com/coffebar/neovim-project)|Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. |175|2024-07-08|2023-09-17|
-|60|[nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim)|❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]|174|2024-08-04|2023-10-05|
-|61|[FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim)|nvim plugin that adds tabs for telescope search|172|2024-05-21|2023-12-07|
-|62|[boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim)|Neovim config WITHOUT plugins|170|2024-07-28|2024-07-09|
-|63|[piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim)|Import modules with ease|168|2024-03-09|2023-09-03|
-|64|[miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim)|Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for G ...|166|2024-07-09|2023-10-22|
-|65|[frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)|parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.|160|2024-08-11|2023-08-15|
-|66|[huynle/ogpt.nvim](https://github.com/huynle/ogpt.nvim)|Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API |158|2024-06-03|2023-11-21|
-|67|[epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim)|:new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify, lualine, and telescope integrations|157|2024-07-30|2023-11-29|
-|68|[IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds)|An experimental true coop multiplayer mod for Noita.|154|2024-08-12|2024-05-14|
-|69|[diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim)|nvim theme blending lava red and ice blue for a vibrant coding experience ✨|152|2024-07-27|2024-05-20|
-|70|[Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim)|-|151|2024-08-12|2024-05-10|
-|71|[carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)|Use popup windows to navigate files/buffer and to contain shells/TUIs|145|2024-05-28|2023-09-27|
-|72|[sownteedev/TeVim](https://github.com/sownteedev/TeVim)|Neovim configuration for Developer. Minimal UI, optimize timestartup.|145|2024-08-10|2023-09-05|
-|73|[vague2k/huez.nvim](https://github.com/vague2k/huez.nvim)|Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend|143|2024-07-13|2024-01-24|
-|74|[chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit)|A lightweight bundle of commands focussed on swift and streamlined git operations.|143|2024-08-09|2023-09-20|
-|75|[georgemos9434-q091/PegasusAC](https://github.com/georgemos9434-q091/PegasusAC)|PegasusAC is the best anti-cheat solution on the market. It adheres to all CFx rules and provides you with clean files, rather than implementing cumbersome loading code into your system. Plus we are g ...|142|2024-04-04|2024-04-04|
-|76|[slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)|a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.|139|2024-08-09|2024-05-20|
-|77|[R-nvim/R.nvim](https://github.com/R-nvim/R.nvim)|Neovim plugin to edit R files|139|2024-08-12|2024-01-22|
-|78|[jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim)|Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.|139|2024-08-03|2023-10-21|
-|79|[2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim)|Find Nerd Glyphs Easily 🤓🔭|138|2024-05-31|2023-09-23|
-|80|[eldritch-theme/eldritch.nvim](https://github.com/eldritch-theme/eldritch.nvim)|A theme for the Ancient Ones! (NVIM)|134|2024-08-07|2024-03-20|
-|81|[chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute)|Perform search and replace operations in the current buffer using a modern user interface and contemporary regex syntax. |133|2024-08-12|2024-06-04|
-|82|[leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)|Efficient targetted menu built for fast buffer navigation|132|2024-08-04|2024-07-27|
-|83|[nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim)|A blazing fast and minimal neovim autocompletion|130|2024-07-10|2023-10-17|
-|84|[enqity/Release](https://github.com/enqity/Release)|-|129|2024-03-16|2023-10-07|
-|85|[0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)|-|128|2024-07-23|2024-06-25|
-|86|[Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim)|❴🦋❵ Fly through your JSON / XML / YAML files with ease. Search ✨ blazingly fast ✨ for keys via Telescope.|127|2024-07-11|2024-04-10|
-|87|[luccahuguet/zellij](https://github.com/luccahuguet/zellij)|Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij|127|2024-07-31|2024-01-20|
-|88|[letieu/btw.nvim](https://github.com/letieu/btw.nvim)|I use Neovim (BTW)|126|2024-04-10|2024-04-09|
-|89|[artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim)|Populate diagnostics for _all_ projects files, not just opened ones.|123|2024-08-10|2024-02-07|
-|90|[letieu/harpoon-lualine](https://github.com/letieu/harpoon-lualine)|harpoon2 for lualine|121|2024-04-13|2024-03-15|
-|91|[bloznelis/before.nvim](https://github.com/bloznelis/before.nvim)|Jump to the last edit in Neovim|114|2024-03-19|2024-03-02|
-|92|[nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim)|Create custom submodes and menus|114|2024-04-27|2023-12-23|
-|93|[chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python)|A launch point for your nvim configuration for Python|113|2024-07-21|2023-09-18|
-|94|[dmmulroy/kickstart.nix](https://github.com/dmmulroy/kickstart.nix)|-|112|2024-08-12|2024-01-08|
-|95|[backdround/global-note.nvim](https://github.com/backdround/global-note.nvim)|Opens global note in a float window|111|2024-02-14|2024-02-11|
-|96|[luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim)|Predictable LSP code actions|109|2024-08-02|2023-09-29|
-|97|[miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim)|Put on your shades so you only see what you care about|108|2024-07-06|2023-10-14|
-|98|[sontungexpt/sttusline](https://github.com/sontungexpt/sttusline)|A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.|108|2024-06-07|2023-10-13|
-|99|[roobert/activate.nvim](https://github.com/roobert/activate.nvim)|🚀 Activate is a plugin installation system for Neovim|106|2024-08-12|2023-09-06|
-|100|[RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim)|LSP diagnostics at your corner|106|2024-07-04|2023-09-03|
-|101|[boatbomber/GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI)|Glassmorphic UI in Roblox|103|2024-04-12|2024-03-03|
-|102|[gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim)|A Neovim plugin for changing keyword case.|103|2024-08-02|2024-01-02|
-|103|[FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim)|Timetravel for neovim|103|2024-06-22|2023-10-24|
-|104|[oflisback/obsidian-bridge.nvim](https://github.com/oflisback/obsidian-bridge.nvim)|A neovim plugin used to synchronize active note and scroll position between neovim and obsidian|103|2024-06-13|2023-09-17|
-|105|[comfysage/evergarden](https://github.com/comfysage/evergarden)|:rose: a comfy neovim colorscheme for cozy morning coding.|103|2024-07-15|2023-09-13|
-|106|[OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim)|-|101|2024-06-17|2023-12-02|
-|107|[MappleGaming208/Aurora-X](https://github.com/MappleGaming208/Aurora-X)|The Scripts I Have For Roblox|100|2024-06-14|2024-06-12|
-|108|[Antonoko/playdate-chinese-IME](https://github.com/Antonoko/playdate-chinese-IME)|a high efficiency Chinese/English input method on playdate|99|2024-05-29|2024-04-09|
-|109|[CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim)|Write your plugin ui in html|96|2024-08-09|2024-02-03|
+|32|[yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim)|Yacine's LLM nvim scripts|285|2024-08-06|2024-06-29|
+|33|[grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)|A feature-rich and highly customizable library for creating user interfaces in Neovim.|284|2024-05-11|2024-03-12|
+|34|[Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim)|Garbage collector that stops inactive LSP clients to free RAM|275|2024-06-12|2023-11-05|
+|35|[nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio)|A library for asynchronous IO in Neovim|269|2024-07-11|2023-12-20|
+|36|[Roblox/react-lua](https://github.com/Roblox/react-lua)|A comprehensive translation of upstream React 17.x into Luau. This is a read-only mirror.|269|2024-08-08|2023-12-06|
+|37|[NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim)|Screencast your keys in Neovim|264|2024-08-12|2024-04-14|
+|38|[Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim)|Display references, definitions and implementations of document symbols|248|2024-06-16|2023-09-17|
+|39|[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)|✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs|242|2024-08-13|2023-12-27|
+|40|[jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama)|🦙 Ollama interfaces for Neovim|238|2024-04-06|2023-08-26|
+|41|[isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim)|Git Graph plugin for neovim|232|2024-08-13|2024-07-24|
+|42|[chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim)|Low latency typst preview for Neovim|229|2024-07-18|2023-11-01|
+|43|[typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles)|-|221|2024-07-18|2024-02-02|
+|44|[dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim)|-|217|2024-04-05|2023-10-09|
+|45|[tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim)|⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations|213|2024-05-15|2023-11-29|
+|46|[bcampolo/nvim-starter-kit](https://github.com/bcampolo/nvim-starter-kit)|Neovim Starter Kit|212|2024-07-05|2023-12-01|
+|47|[soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)|Show diagnostics and lsp info inside a custom window, following the mouse position|212|2024-07-27|2023-10-24|
+|48|[BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse)|An OBS lua script to zoom a display-capture source to focus on the mouse|209|2024-06-07|2023-11-04|
+|49|[vm-001/lua-radix-router](https://github.com/vm-001/lua-radix-router)|A lightweight high-performance and radix tree based router for Lua/LuaJIT/OpenResty https://github.com/vm-001/gateways-routing-benchmark|207|2024-07-16|2023-12-11|
+|50|[melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim)|No frills LLM-assisted programming|204|2024-07-24|2024-05-13|
+|51|[hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim)|Start/stop LSP servers upon demand; keeps RAM usage low|201|2024-05-25|2023-09-22|
+|52|[rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)|A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.|199|2024-08-13|2024-06-29|
+|53|[jmederosalvarado/roslyn.nvim](https://github.com/jmederosalvarado/roslyn.nvim)|Roslyn LSP plugin for neovim|199|2024-08-03|2023-10-17|
+|54|[stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim)|Improved UI and workflow for the Neovim quickfix|188|2024-08-13|2024-07-26|
+|55|[Steamopollys/Steamodded](https://github.com/Steamopollys/Steamodded)|A Balatro ModLoader|186|2024-08-13|2023-12-05|
+|56|[brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim)|A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command|176|2024-06-18|2023-11-09|
+|57|[coffebar/neovim-project](https://github.com/coffebar/neovim-project)|Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. |175|2024-07-08|2023-09-17|
+|58|[nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim)|❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]|174|2024-08-04|2023-10-05|
+|59|[boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim)|Neovim config WITHOUT plugins|173|2024-07-28|2024-07-09|
+|60|[FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim)|nvim plugin that adds tabs for telescope search|172|2024-05-21|2023-12-07|
+|61|[piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim)|Import modules with ease|168|2024-03-09|2023-09-03|
+|62|[miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim)|Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for G ...|167|2024-07-09|2023-10-22|
+|63|[frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)|parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.|162|2024-08-13|2023-08-15|
+|64|[epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim)|:new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify, lualine, and telescope integrations|158|2024-07-30|2023-11-29|
+|65|[huynle/ogpt.nvim](https://github.com/huynle/ogpt.nvim)|Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API |158|2024-06-03|2023-11-21|
+|66|[IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds)|An experimental true coop multiplayer mod for Noita.|154|2024-08-13|2024-05-14|
+|67|[diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim)|nvim theme blending lava red and ice blue for a vibrant coding experience ✨|152|2024-07-27|2024-05-20|
+|68|[Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim)|-|152|2024-08-13|2024-05-10|
+|69|[carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)|Use popup windows to navigate files/buffer and to contain shells/TUIs|146|2024-05-28|2023-09-27|
+|70|[sownteedev/TeVim](https://github.com/sownteedev/TeVim)|Neovim configuration for Developer. Minimal UI, optimize timestartup.|145|2024-08-10|2023-09-05|
+|71|[vague2k/huez.nvim](https://github.com/vague2k/huez.nvim)|Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend|143|2024-07-13|2024-01-24|
+|72|[chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit)|A lightweight bundle of commands focussed on swift and streamlined git operations.|143|2024-08-09|2023-09-20|
+|73|[georgemos9434-q091/PegasusAC](https://github.com/georgemos9434-q091/PegasusAC)|PegasusAC is the best anti-cheat solution on the market. It adheres to all CFx rules and provides you with clean files, rather than implementing cumbersome loading code into your system. Plus we are g ...|142|2024-04-04|2024-04-04|
+|74|[R-nvim/R.nvim](https://github.com/R-nvim/R.nvim)|Neovim plugin to edit R files|139|2024-08-13|2024-01-22|
+|75|[jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim)|Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.|139|2024-08-03|2023-10-21|
+|76|[slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)|a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.|138|2024-08-09|2024-05-20|
+|77|[2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim)|Find Nerd Glyphs Easily 🤓🔭|138|2024-05-31|2023-09-23|
+|78|[eldritch-theme/eldritch.nvim](https://github.com/eldritch-theme/eldritch.nvim)|A theme for the Ancient Ones! (NVIM)|135|2024-08-07|2024-03-20|
+|79|[chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute)|Perform search and replace operations in the current buffer using a modern user interface and contemporary regex syntax. |134|2024-08-12|2024-06-04|
+|80|[leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)|Efficient targetted menu built for fast buffer navigation|132|2024-08-04|2024-07-27|
+|81|[0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)|-|130|2024-07-23|2024-06-25|
+|82|[nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim)|A blazing fast and minimal neovim autocompletion|130|2024-07-10|2023-10-17|
+|83|[enqity/Release](https://github.com/enqity/Release)|-|129|2024-03-16|2023-10-07|
+|84|[Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim)|❴🦋❵ Fly through your JSON / XML / YAML files with ease. Search ✨ blazingly fast ✨ for keys via Telescope.|128|2024-07-11|2024-04-10|
+|85|[luccahuguet/zellij](https://github.com/luccahuguet/zellij)|Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij|127|2024-07-31|2024-01-20|
+|86|[letieu/btw.nvim](https://github.com/letieu/btw.nvim)|I use Neovim (BTW)|126|2024-04-10|2024-04-09|
+|87|[artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim)|Populate diagnostics for _all_ projects files, not just opened ones.|124|2024-08-10|2024-02-07|
+|88|[letieu/harpoon-lualine](https://github.com/letieu/harpoon-lualine)|harpoon2 for lualine|121|2024-04-13|2024-03-15|
+|89|[bloznelis/before.nvim](https://github.com/bloznelis/before.nvim)|Jump to the last edit in Neovim|114|2024-03-19|2024-03-02|
+|90|[nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim)|Create custom submodes and menus|114|2024-04-27|2023-12-23|
+|91|[chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python)|A launch point for your nvim configuration for Python|113|2024-07-21|2023-09-18|
+|92|[dmmulroy/kickstart.nix](https://github.com/dmmulroy/kickstart.nix)|-|112|2024-08-12|2024-01-08|
+|93|[backdround/global-note.nvim](https://github.com/backdround/global-note.nvim)|Opens global note in a float window|111|2024-02-14|2024-02-11|
+|94|[luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim)|Predictable LSP code actions|110|2024-08-02|2023-09-29|
+|95|[miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim)|Put on your shades so you only see what you care about|108|2024-08-13|2023-10-14|
+|96|[sontungexpt/sttusline](https://github.com/sontungexpt/sttusline)|A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.|108|2024-06-07|2023-10-13|
+|97|[RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim)|LSP diagnostics at your corner|107|2024-07-04|2023-09-03|
+|98|[roobert/activate.nvim](https://github.com/roobert/activate.nvim)|🚀 Activate is a plugin installation system for Neovim|106|2024-08-13|2023-09-06|
+|99|[boatbomber/GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI)|Glassmorphic UI in Roblox|103|2024-04-12|2024-03-03|
+|100|[gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim)|A Neovim plugin for changing keyword case.|103|2024-08-13|2024-01-02|
+|101|[FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim)|Timetravel for neovim|103|2024-06-22|2023-10-24|
+|102|[oflisback/obsidian-bridge.nvim](https://github.com/oflisback/obsidian-bridge.nvim)|A neovim plugin used to synchronize active note and scroll position between neovim and obsidian|103|2024-06-13|2023-09-17|
+|103|[comfysage/evergarden](https://github.com/comfysage/evergarden)|:rose: a comfy neovim colorscheme for cozy morning coding.|103|2024-07-15|2023-09-13|
+|104|[OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim)|-|101|2024-06-17|2023-12-02|
+|105|[MappleGaming208/Aurora-X](https://github.com/MappleGaming208/Aurora-X)|The Scripts I Have For Roblox|100|2024-06-14|2024-06-12|
+|106|[Antonoko/playdate-chinese-IME](https://github.com/Antonoko/playdate-chinese-IME)|a high efficiency Chinese/English input method on playdate|99|2024-05-29|2024-04-09|
+|107|[jsongerber/thanks.nvim](https://github.com/jsongerber/thanks.nvim)|Automatically star all the Neovim plugins you use.|96|2024-07-18|2024-03-25|
+|108|[CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim)|Write your plugin ui in html|96|2024-08-13|2024-02-03|
+|109|[OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim)|Decorations for vimdoc/help files in Neovim|95|2024-08-13|2024-07-28|
 |110|[rachartier/tiny-devicons-auto-colors.nvim](https://github.com/rachartier/tiny-devicons-auto-colors.nvim)|A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.|95|2024-06-16|2024-05-18|
-|111|[jsongerber/thanks.nvim](https://github.com/jsongerber/thanks.nvim)|Automatically star all the Neovim plugins you use.|95|2024-07-18|2024-03-25|
-|112|[LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim)|I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.|95|2024-07-23|2024-01-21|
-|113|[xAranaktu/FC-24-Live-Editor](https://github.com/xAranaktu/FC-24-Live-Editor)|Live Editor for FC 24|94|2024-08-01|2023-09-26|
-|114|[chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim)|Port of org-roam to neovim using orgmode|93|2024-08-12|2024-01-09|
-|115|[chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw)|Speed up log creation. Create various kinds of language-specific log statements, such as logs of variables, assertions, or time-measuring.|92|2024-08-11|2023-12-30|
-|116|[Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim)|Easily insert and edit markdown tables using Neovim with a live preview and useful helpers|89|2024-07-25|2023-10-04|
-|117|[QianSong1/wezterm-config](https://github.com/QianSong1/wezterm-config)|wezterm-config files|89|2024-06-14|2023-09-03|
-|118|[rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)|A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.|88|2024-08-02|2024-07-22|
-|119|[fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang)|Reliable Neotest adapter for running Go tests in Neovim.|86|2024-08-10|2024-04-15|
-|120|[HoNamDuong/hybrid.nvim](https://github.com/HoNamDuong/hybrid.nvim)|A dark Neovim theme written in Lua|86|2024-07-16|2023-12-31|
-|121|[bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)|Wayfire is a 3D Wayland compositor|86|2024-07-31|2023-10-17|
-|122|[vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim)|Neovim plugin for interacting with Rust-Analyzer's LSP extensions|86|2024-07-15|2023-10-09|
-|123|[fynnfluegge/monet.nvim](https://github.com/fynnfluegge/monet.nvim)|Neovim theme inspired by Claude Monet's iconic water lilies|85|2024-07-06|2023-11-25|
-|124|[VidocqH/data-viewer.nvim](https://github.com/VidocqH/data-viewer.nvim)|Table view for data files, csv, tsv|85|2024-07-29|2023-09-29|
+|111|[LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim)|I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.|95|2024-07-23|2024-01-21|
+|112|[xAranaktu/FC-24-Live-Editor](https://github.com/xAranaktu/FC-24-Live-Editor)|Live Editor for FC 24|94|2024-08-01|2023-09-26|
+|113|[chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim)|Port of org-roam to neovim using orgmode|93|2024-08-12|2024-01-09|
+|114|[chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw)|Speed up log creation. Create various kinds of language-specific log statements, such as logs of variables, assertions, or time-measuring.|92|2024-08-11|2023-12-30|
+|115|[Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim)|Easily insert and edit markdown tables using Neovim with a live preview and useful helpers|89|2024-07-25|2023-10-04|
+|116|[QianSong1/wezterm-config](https://github.com/QianSong1/wezterm-config)|wezterm-config files|89|2024-06-14|2023-09-03|
+|117|[chris-montero/terra](https://github.com/chris-montero/terra)|A sane application development framework for the desktop.|88|2024-08-13|2024-08-08|
+|118|[rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)|A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.|88|2024-08-13|2024-07-22|
+|119|[vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim)|Neovim plugin for interacting with Rust-Analyzer's LSP extensions|87|2024-07-15|2023-10-09|
+|120|[fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang)|Reliable Neotest adapter for running Go tests in Neovim.|86|2024-08-10|2024-04-15|
+|121|[HoNamDuong/hybrid.nvim](https://github.com/HoNamDuong/hybrid.nvim)|A dark Neovim theme written in Lua|86|2024-07-16|2023-12-31|
+|122|[bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)|Wayfire is a 3D Wayland compositor|86|2024-07-31|2023-10-17|
+|123|[dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim)|-|85|2024-08-11|2024-05-03|
+|124|[fynnfluegge/monet.nvim](https://github.com/fynnfluegge/monet.nvim)|Neovim theme inspired by Claude Monet's iconic water lilies|85|2024-07-06|2023-11-25|
 |125|[oysandvik94/curl.nvim](https://github.com/oysandvik94/curl.nvim)|Run requests with curl, formatted with jq, and persisted commands according to your own workflow|84|2024-07-28|2024-06-28|
-|126|[dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim)|-|84|2024-08-11|2024-05-03|
+|126|[VidocqH/data-viewer.nvim](https://github.com/VidocqH/data-viewer.nvim)|Table view for data files, csv, tsv|84|2024-07-29|2023-09-29|
 |127|[echasnovski/mini.icons](https://github.com/echasnovski/mini.icons)|Icon provider. Part of 'mini.nvim' library. |83|2024-07-30|2024-07-02|
-|128|[SOH69/mm_radio](https://github.com/SOH69/mm_radio)|A Radio Script for Fivem Server|83|2024-04-09|2023-10-07|
-|129|[kawre/neotab.nvim](https://github.com/kawre/neotab.nvim)|Tabout plugin for Neovim|83|2024-04-23|2023-08-25|
-|130|[chris-montero/terra](https://github.com/chris-montero/terra)|A sane application development framework for the desktop.|82|2024-08-12|2024-08-08|
-|131|[mobily/.nvim](https://github.com/mobily/.nvim)|-|82|2024-03-19|2024-02-19|
-|132|[moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim)|Open remote git repositories in the comfort of Neovim.|81|2024-06-24|2024-04-14|
-|133|[NvChad/starter](https://github.com/NvChad/starter)|Starter config for NvChad|81|2024-08-11|2024-03-09|
-|134|[Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim)|Distro agnostic components for your Neovim heirline config|81|2024-08-03|2024-02-04|
-|135|[NvChad/nvcommunity](https://github.com/NvChad/nvcommunity)|NvChad community repo for sharing plugin configurations |79|2024-06-02|2023-09-01|
-|136|[dustinblackman/oatmeal.nvim](https://github.com/dustinblackman/oatmeal.nvim)|Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!|78|2024-03-30|2023-11-06|
-|137|[micangl/cmp-vimtex](https://github.com/micangl/cmp-vimtex)|Vimtex source for nvim-cmp.|77|2024-08-06|2023-09-24|
-|138|[CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim)|The blazingly fastest way to get to your projects|77|2024-07-23|2023-09-14|
-|139|[vague2k/vague.nvim](https://github.com/vague2k/vague.nvim)|A dark, low contrast, theme inspired by ThePrimeagen's Tokyonight+Tmux theme|76|2024-07-25|2024-07-12|
-|140|[naklecha/factorio-automation](https://github.com/naklecha/factorio-automation)|i will automate factorio|75|2024-07-31|2024-07-23|
-|141|[Zproger/GenesisNvim](https://github.com/Zproger/GenesisNvim)|A minimalistic nvim config aimed at Python developers. It is a lightweight replacement for PyCharm and VsCode, eliminating all unnecessary featuresd to be easily portable for running on servers and fo ...|75|2024-06-12|2024-05-13|
-|142|[yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs)|NeoVim plugin for jumping to the other end of the current Tree-sitter node|75|2024-05-07|2024-04-18|
-|143|[monkoose/neocodeium](https://github.com/monkoose/neocodeium)|free AI completion plugin for neovim|75|2024-08-08|2024-04-01|
+|128|[mobily/.nvim](https://github.com/mobily/.nvim)|-|83|2024-03-19|2024-02-19|
+|129|[SOH69/mm_radio](https://github.com/SOH69/mm_radio)|A Radio Script for Fivem Server|83|2024-04-09|2023-10-07|
+|130|[kawre/neotab.nvim](https://github.com/kawre/neotab.nvim)|Tabout plugin for Neovim|83|2024-04-23|2023-08-25|
+|131|[moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim)|Open remote git repositories in the comfort of Neovim.|81|2024-06-24|2024-04-14|
+|132|[NvChad/starter](https://github.com/NvChad/starter)|Starter config for NvChad|81|2024-08-11|2024-03-09|
+|133|[Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim)|Distro agnostic components for your Neovim heirline config|81|2024-08-13|2024-02-04|
+|134|[NvChad/nvcommunity](https://github.com/NvChad/nvcommunity)|NvChad community repo for sharing plugin configurations |79|2024-06-02|2023-09-01|
+|135|[dustinblackman/oatmeal.nvim](https://github.com/dustinblackman/oatmeal.nvim)|Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!|78|2024-03-30|2023-11-06|
+|136|[naklecha/factorio-automation](https://github.com/naklecha/factorio-automation)|i will automate factorio|77|2024-07-31|2024-07-23|
+|137|[vague2k/vague.nvim](https://github.com/vague2k/vague.nvim)|A dark, low contrast, theme inspired by ThePrimeagen's Tokyonight+Tmux theme|77|2024-07-25|2024-07-12|
+|138|[micangl/cmp-vimtex](https://github.com/micangl/cmp-vimtex)|Vimtex source for nvim-cmp.|77|2024-08-06|2023-09-24|
+|139|[CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim)|The blazingly fastest way to get to your projects|77|2024-07-23|2023-09-14|
+|140|[monkoose/neocodeium](https://github.com/monkoose/neocodeium)|free AI completion plugin for neovim|76|2024-08-08|2024-04-01|
+|141|[Cidan/BetterBags](https://github.com/Cidan/BetterBags)|A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.|76|2024-08-13|2023-11-09|
+|142|[Zproger/GenesisNvim](https://github.com/Zproger/GenesisNvim)|A minimalistic nvim config aimed at Python developers. It is a lightweight replacement for PyCharm and VsCode, eliminating all unnecessary featuresd to be easily portable for running on servers and fo ...|75|2024-06-12|2024-05-13|
+|143|[yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs)|NeoVim plugin for jumping to the other end of the current Tree-sitter node|75|2024-05-07|2024-04-18|
 |144|[nexxeln/dots](https://github.com/nexxeln/dots)|My dotfiles for MacOS|75|2024-03-07|2023-10-25|
-|145|[sontungexpt/url-open](https://github.com/sontungexpt/url-open)|Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url|75|2024-02-14|2023-08-19|
-|146|[nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim)|Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.|74|2024-07-15|2024-02-25|
-|147|[wojciech-kulik/ios-dev-starter-nvim](https://github.com/wojciech-kulik/ios-dev-starter-nvim)|Bootstrap for iOS development in Neovim + LazyVim|74|2024-07-20|2023-11-12|
-|148|[Kengxxiao/ArknightsGameData_YoStar](https://github.com/Kengxxiao/ArknightsGameData_YoStar)|-|74|2024-08-07|2023-10-24|
-|149|[OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim)|Decorations for vimdoc/help files in Neovim|73|2024-08-12|2024-07-28|
-|150|[Cidan/BetterBags](https://github.com/Cidan/BetterBags)|A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.|73|2024-08-12|2023-11-09|
-|151|[sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword)|A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.|73|2024-07-28|2023-09-24|
-|152|[quivings/Solara](https://github.com/quivings/Solara)|Storage|72|2024-07-24|2024-03-29|
-|153|[Arius-Scripts/ars_ambulancejob](https://github.com/Arius-Scripts/ars_ambulancejob)|Advanced ambulancejob system for fivem|72|2024-07-23|2023-10-21|
-|154|[icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim)|LSP textDocument/documentLink support for neovim|70|2024-06-08|2024-02-20|
-|155|[CiastekbatakPro/Skript.gg-Anti-Fold](https://github.com/CiastekbatakPro/Skript.gg-Anti-Fold)|fiveguard.net is best paid FiveM Anticheat providing unique features such as Anti Aimbot, Objects-AI detection, Cheats-AI detection, Safe-Events and many more. This product is developed in fivem to el ...|70|2024-03-29|2023-12-27|
-|156|[zadirion/Unreal.nvim](https://github.com/zadirion/Unreal.nvim)|Unreal Engine support for Neovim|70|2024-07-07|2023-10-15|
-|157|[xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim)|Chezmoi plugin for neovim|69|2024-07-27|2023-12-14|
+|145|[Kengxxiao/ArknightsGameData_YoStar](https://github.com/Kengxxiao/ArknightsGameData_YoStar)|-|75|2024-08-07|2023-10-24|
+|146|[sontungexpt/url-open](https://github.com/sontungexpt/url-open)|Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url|75|2024-02-14|2023-08-19|
+|147|[nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim)|Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.|74|2024-07-15|2024-02-25|
+|148|[wojciech-kulik/ios-dev-starter-nvim](https://github.com/wojciech-kulik/ios-dev-starter-nvim)|Bootstrap for iOS development in Neovim + LazyVim|74|2024-07-20|2023-11-12|
+|149|[sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword)|A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.|73|2024-07-28|2023-09-24|
+|150|[tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim)|KEKW|72|2024-08-13|2024-08-06|
+|151|[quivings/Solara](https://github.com/quivings/Solara)|Storage|72|2024-07-24|2024-03-29|
+|152|[Arius-Scripts/ars_ambulancejob](https://github.com/Arius-Scripts/ars_ambulancejob)|Advanced ambulancejob system for fivem|72|2024-07-23|2023-10-21|
+|153|[icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim)|LSP textDocument/documentLink support for neovim|70|2024-06-08|2024-02-20|
+|154|[CiastekbatakPro/Skript.gg-Anti-Fold](https://github.com/CiastekbatakPro/Skript.gg-Anti-Fold)|fiveguard.net is best paid FiveM Anticheat providing unique features such as Anti Aimbot, Objects-AI detection, Cheats-AI detection, Safe-Events and many more. This product is developed in fivem to el ...|70|2024-03-29|2023-12-27|
+|155|[darktrovx/interact](https://github.com/darktrovx/interact)|-|69|2024-05-01|2024-02-10|
+|156|[xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim)|Chezmoi plugin for neovim|69|2024-07-27|2023-12-14|
+|157|[zadirion/Unreal.nvim](https://github.com/zadirion/Unreal.nvim)|Unreal Engine support for Neovim|69|2024-07-07|2023-10-15|
 |158|[chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook)|Add inline-comments to ignore rules, or lookup rule documentation online.|69|2024-07-09|2023-09-21|
-|159|[tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim)|KEKW|68|2024-08-12|2024-08-06|
-|160|[darktrovx/interact](https://github.com/darktrovx/interact)|-|68|2024-05-01|2024-02-10|
-|161|[IogaMaster/neocord](https://github.com/IogaMaster/neocord)|Discord Rich Presence for Neovim (Fork of presence.nvim)|68|2024-08-07|2023-09-29|
-|162|[tani/dmacro.vim](https://github.com/tani/dmacro.vim)|Vim/ Neovim version of dmacro.el, which makes a key macro on-the-fly.|67|2024-08-09|2024-03-29|
-|163|[mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)|A Neovim plugin to reveal whitespace characters in visual mode, like VSCode|67|2024-04-17|2024-03-09|
-|164|[2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim)|Neovim Terminal, Improved 🦾💻|67|2024-07-10|2024-02-18|
-|165|[emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim)|Neovim plugin to assist work with CSV files|66|2024-07-07|2024-05-23|
-|166|[nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n)|🦥 A dead simple lazy-loading Lua library for Neovim plugins.|66|2024-08-11|2024-01-05|
-|167|[chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints)|Display LSP inlay hints at the end of the line, rather than within the line.|65|2024-07-30|2024-06-30|
+|159|[IogaMaster/neocord](https://github.com/IogaMaster/neocord)|Discord Rich Presence for Neovim (Fork of presence.nvim)|68|2024-08-07|2023-09-29|
+|160|[tani/dmacro.vim](https://github.com/tani/dmacro.vim)|Vim/ Neovim version of dmacro.el, which makes a key macro on-the-fly.|67|2024-08-09|2024-03-29|
+|161|[mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)|A Neovim plugin to reveal whitespace characters in visual mode, like VSCode|67|2024-04-17|2024-03-09|
+|162|[2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim)|Neovim Terminal, Improved 🦾💻|67|2024-07-10|2024-02-18|
+|163|[nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n)|🦥 A dead simple lazy-loading Lua library for Neovim plugins.|67|2024-08-11|2024-01-05|
+|164|[chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints)|Display LSP inlay hints at the end of the line, rather than within the line.|66|2024-07-30|2024-06-30|
+|165|[emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim)|Neovim plugin to assist work with CSV files|66|2024-08-13|2024-05-23|
+|166|[luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)|Fitten Code AI Programming Assistant for Neovim|66|2024-07-28|2024-02-01|
+|167|[sho-87/kanagawa-paper.nvim](https://github.com/sho-87/kanagawa-paper.nvim)|Remixed Kanagawa colourscheme with muted colors. For Neovim.|65|2024-08-07|2024-06-02|
 |168|[echasnovski/mini.diff](https://github.com/echasnovski/mini.diff)|Work with diff hunks. Part of 'mini.nvim' library. |65|2024-07-11|2024-03-28|
 |169|[isak102/telescope-git-file-history.nvim](https://github.com/isak102/telescope-git-file-history.nvim)|Open/preview contents of the current file at a specific commit, without using git checkout|65|2024-03-20|2024-03-16|
 |170|[jialuechen/statsmaker](https://github.com/jialuechen/statsmaker)|Probabilistic Programming Language for Market Microstructure Modeling|65|2024-07-14|2024-03-04|
-|171|[luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)|Fitten Code AI Programming Assistant for Neovim|65|2024-07-28|2024-02-01|
-|172|[coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim)|Syncing files with remote server using rsync and OpenSSH|65|2024-07-17|2023-10-24|
-|173|[askfiy/SimpleNvim](https://github.com/askfiy/SimpleNvim)|SimpleNvim: Unleash the Power of Neovim with Effortless Elegance and Boundless Customization ..|65|2024-08-01|2023-08-22|
-|174|[guivings/Solara](https://github.com/guivings/Solara)|Storage|64|2024-07-20|2024-07-19|
-|175|[sho-87/kanagawa-paper.nvim](https://github.com/sho-87/kanagawa-paper.nvim)|Remixed Kanagawa colourscheme with muted colors. For Neovim.|64|2024-08-07|2024-06-02|
-|176|[tmwtvtwitch/Notcoin-Farm-B0t](https://github.com/tmwtvtwitch/Notcoin-Farm-B0t)|notcoin  notcoinbot  notcoin-clicker  notcoins  free-notcoin-bot  notcoin-bot  notcoin-bot-2024  notcoin-bot-free  free-notcoin-bot-2024  bot-notcoin  bot-notcoin-2024  bot-notcoin-free  bot-notcoin-f ...|64|2024-04-28|2024-02-25|
-|177|[SUSTech-data/neopyter](https://github.com/SUSTech-data/neopyter)|The  bridge between Neovim and Jupyterlab|64|2024-08-07|2024-01-02|
-|178|[myagko/dotfiles](https://github.com/myagko/dotfiles)|My personal dotfiles|64|2024-08-10|2023-11-29|
-|179|[whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim)|reverb.nvim is a Neovim plugin designed to elevate your coding environment with immersive sound effects. |64|2024-07-05|2023-08-16|
-|180|[swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim)|Seamless navigation between Neovim windows and Zellij panes.|63|2024-07-13|2024-01-29|
-|181|[vm-001/gateways-routing-benchmark](https://github.com/vm-001/gateways-routing-benchmark)|API Gateways routing performance benchmark|63|2024-04-06|2023-12-31|
-|182|[EC2854/Hyprland-Dots](https://github.com/EC2854/Hyprland-Dots)|Hyprland Dotfiles|63|2024-08-11|2023-11-12|
-|183|[permaweb/aos](https://github.com/permaweb/aos)|Welcome to the "ao" Permaweb Computer Grid - 🐰 🕳️ 👈 |63|2024-08-12|2023-10-02|
-|184|[chrisgrieser/.config](https://github.com/chrisgrieser/.config)|My personal dotfiles|63|2024-06-27|2023-09-21|
-|185|[JuanBaut/nvim](https://github.com/JuanBaut/nvim)|im fast|62|2024-08-05|2024-04-21|
+|171|[coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim)|Syncing files with remote server using rsync and OpenSSH|65|2024-07-17|2023-10-24|
+|172|[askfiy/SimpleNvim](https://github.com/askfiy/SimpleNvim)|SimpleNvim: Unleash the Power of Neovim with Effortless Elegance and Boundless Customization ..|65|2024-08-01|2023-08-22|
+|173|[guivings/Solara](https://github.com/guivings/Solara)|Storage|64|2024-07-20|2024-07-19|
+|174|[tmwtvtwitch/Notcoin-Farm-B0t](https://github.com/tmwtvtwitch/Notcoin-Farm-B0t)|notcoin  notcoinbot  notcoin-clicker  notcoins  free-notcoin-bot  notcoin-bot  notcoin-bot-2024  notcoin-bot-free  free-notcoin-bot-2024  bot-notcoin  bot-notcoin-2024  bot-notcoin-free  bot-notcoin-f ...|64|2024-04-28|2024-02-25|
+|175|[SUSTech-data/neopyter](https://github.com/SUSTech-data/neopyter)|The  bridge between Neovim and Jupyterlab|64|2024-08-07|2024-01-02|
+|176|[myagko/dotfiles](https://github.com/myagko/dotfiles)|My personal dotfiles|64|2024-08-13|2023-11-29|
+|177|[whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim)|reverb.nvim is a Neovim plugin designed to elevate your coding environment with immersive sound effects. |64|2024-07-05|2023-08-16|
+|178|[swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim)|Seamless navigation between Neovim windows and Zellij panes.|63|2024-07-13|2024-01-29|
+|179|[vm-001/gateways-routing-benchmark](https://github.com/vm-001/gateways-routing-benchmark)|API Gateways routing performance benchmark|63|2024-04-06|2023-12-31|
+|180|[EC2854/Hyprland-Dots](https://github.com/EC2854/Hyprland-Dots)|Hyprland Dotfiles|63|2024-08-11|2023-11-12|
+|181|[permaweb/aos](https://github.com/permaweb/aos)|Welcome to the "ao" Permaweb Computer Grid - 🐰 🕳️ 👈 |63|2024-08-13|2023-10-02|
+|182|[chrisgrieser/.config](https://github.com/chrisgrieser/.config)|My personal dotfiles|63|2024-06-27|2023-09-21|
+|183|[JuanBaut/nvim](https://github.com/JuanBaut/nvim)|im fast|62|2024-08-13|2024-04-21|
+|184|[imahdiy/qb-target-nopixel4.0](https://github.com/imahdiy/qb-target-nopixel4.0)|Qbcore Target System [Nopixel4.0]|62|2024-05-03|2023-12-14|
+|185|[pelican-eggs/games-steamcmd](https://github.com/pelican-eggs/games-steamcmd)|Eggs for game servers that use SteamCMD to install.|61|2024-08-11|2024-04-12|
 |186|[rohKane/Kane-qb-hud-Nopixel-4.0-inspired](https://github.com/rohKane/Kane-qb-hud-Nopixel-4.0-inspired)|This is a Heavily edited of QBCore Hud by kane into Nopixel 4.0 inspired design with manual transmission.|61|2024-06-07|2024-01-04|
-|187|[imahdiy/qb-target-nopixel4.0](https://github.com/imahdiy/qb-target-nopixel4.0)|Qbcore Target System [Nopixel4.0]|61|2024-05-03|2023-12-14|
-|188|[sameer1612/.dotfiles](https://github.com/sameer1612/.dotfiles)|Ninja mac dotfiles|61|2024-08-12|2023-09-18|
-|189|[Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)|Yet another minimap plugin for Neovim|60|2024-08-11|2024-06-24|
+|187|[sameer1612/.dotfiles](https://github.com/sameer1612/.dotfiles)|Ninja mac dotfiles|61|2024-08-13|2023-09-18|
+|188|[julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)|A tool for splitting diffs in Neovim|60|2024-08-13|2024-07-19|
+|189|[Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)|Yet another minimap plugin for Neovim|60|2024-08-13|2024-06-24|
 |190|[ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim)|Display spelling errors as diagnostics|60|2024-07-10|2024-06-03|
-|191|[pelican-eggs/games-steamcmd](https://github.com/pelican-eggs/games-steamcmd)|Eggs for game servers that use SteamCMD to install.|60|2024-08-11|2024-04-12|
+|191|[danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)|-|60|2024-07-23|2023-11-25|
 |192|[stefanlogue/hydrate.nvim](https://github.com/stefanlogue/hydrate.nvim)|Reminders to keep hydrated while you code|60|2024-07-12|2023-08-30|
 |193|[niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim)|Neovim plugin to shot code|60|2024-05-11|2023-08-18|
-|194|[julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)|A tool for splitting diffs in Neovim|59|2024-08-01|2024-07-19|
-|195|[b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua)|🍃 Floating preview windows for nvim-tree|59|2024-07-13|2024-04-28|
-|196|[charm-community/freeze.nvim](https://github.com/charm-community/freeze.nvim)|A wrapper for charm's freeze cli tool for usage in neovim|59|2024-07-04|2024-03-27|
-|197|[NStefan002/2048.nvim](https://github.com/NStefan002/2048.nvim)|Play 2048 inside your favourite editor|59|2024-03-18|2024-02-07|
-|198|[ffrostfall/ByteNet](https://github.com/ffrostfall/ByteNet)|An advanced, modern networking library for Luau/Roblox|59|2024-08-07|2023-12-06|
-|199|[danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)|-|59|2024-07-23|2023-11-25|
-|200|[iONDegen/ps-inventory](https://github.com/iONDegen/ps-inventory)|Project-Sloth's FiveM Inventory System Redesigned to Look Like NoPixel 4.0|58|2024-03-20|2024-01-19|
+|194|[b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua)|🍃 Floating preview windows for nvim-tree|59|2024-07-13|2024-04-28|
+|195|[charm-community/freeze.nvim](https://github.com/charm-community/freeze.nvim)|A wrapper for charm's freeze cli tool for usage in neovim|59|2024-07-04|2024-03-27|
+|196|[NStefan002/2048.nvim](https://github.com/NStefan002/2048.nvim)|Play 2048 inside your favourite editor|59|2024-03-18|2024-02-07|
+|197|[ffrostfall/ByteNet](https://github.com/ffrostfall/ByteNet)|An advanced, modern networking library for Luau/Roblox|59|2024-08-07|2023-12-06|
+|198|[iONDegen/ps-inventory](https://github.com/iONDegen/ps-inventory)|Project-Sloth's FiveM Inventory System Redesigned to Look Like NoPixel 4.0|58|2024-03-20|2024-01-19|
+|199|[Deadlineem/Extras-Addon-for-YimMenu](https://github.com/Deadlineem/Extras-Addon-for-YimMenu)|This addon features extra tools for YimMenu that aren't already a part of the stand alone base version.|58|2024-08-13|2024-01-19|
+|200|[SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv)|cmp import and use all environment variables from .env.* and system|57|2024-06-05|2023-12-25|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
