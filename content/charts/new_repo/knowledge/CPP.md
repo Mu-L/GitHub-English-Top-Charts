@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|962|2024-05-02|2023-11-12|
-|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|559|2024-06-12|2023-11-03|
+|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|560|2024-06-12|2023-11-03|
 |3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|396|2024-06-08|2023-10-25|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|384|2024-08-12|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |6|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
-|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|338|2024-08-12|2024-03-22|
-|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|312|2024-04-02|2023-08-28|
-|9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|283|2024-04-04|2024-01-14|
+|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|340|2024-08-12|2024-03-22|
+|8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|313|2024-04-02|2023-08-28|
+|9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|284|2024-04-04|2024-01-14|
 |10|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |11|[kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)|Java Bindings for llama.cpp - A Port of Facebook's LLaMA model in C/C++ |269|2024-08-07|2023-08-16|
 |12|[vishalparmarr/Leetcode-Questions](https://github.com/vishalparmarr/Leetcode-Questions)|Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)|265|2024-07-18|2023-11-23|
@@ -55,9 +55,9 @@
 |48|[uhhhhgmoddude/Facebook-tool](https://github.com/uhhhhgmoddude/Facebook-tool)|Facebook Tool is a comprehensive solution designed to enhance Facebook interactions and streamline account management. With its suite of features, it offers a variety of tools for creating and managin ...|128|2024-08-11|2024-08-11|
 |49|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|121|2024-06-22|2023-10-25|
 |50|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
-|51|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|120|2024-07-30|2024-06-24|
-|52|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|117|2024-04-05|2024-03-20|
-|53|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|116|2024-08-09|2024-03-06|
+|51|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|120|2024-08-14|2024-06-24|
+|52|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|119|2024-08-09|2024-03-06|
+|53|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|117|2024-04-05|2024-03-20|
 |54|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
 |55|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
 |56|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-06|2023-10-01|

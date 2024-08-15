@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|522|2024-08-12|2023-11-21|
+|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|523|2024-08-14|2023-11-21|
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|283|2024-06-05|2024-01-03|
 |3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|198|2024-07-06|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|164|2024-04-23|2024-01-10|
-|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|160|2024-08-12|2024-01-12|
-|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|137|2024-07-03|2024-05-29|
-|7|[atinux/atidraw](https://github.com/atinux/atidraw)|Share your drawings with the world.|117|2024-08-13|2024-06-10|
-|8|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|39|2024-03-29|2024-01-14|
-|9|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|37|2024-07-02|2023-12-14|
+|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|160|2024-08-14|2024-01-12|
+|6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|138|2024-07-03|2024-05-29|
+|7|[atinux/atidraw](https://github.com/atinux/atidraw)|Share your drawings with the world.|119|2024-08-13|2024-06-10|
+|8|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|38|2024-03-29|2024-01-14|
+|9|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|38|2024-07-02|2023-12-14|
 |10|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|32|2024-08-13|2024-01-01|
 |11|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|19|2024-08-03|2024-01-30|
 |12|[ikkkp/ocean](https://github.com/ikkkp/ocean)|Ocean是使用基于大语言模型文本知识向量抽取和Transformer构建的校园开源文库|19|2024-03-27|2023-11-11|
@@ -24,10 +24,10 @@
 |17|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
 |18|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
 |19|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-08-12|2023-11-10|
-|20|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|12|2024-08-12|2023-10-23|
-|21|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-08-07|2023-12-11|
+|20|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|12|2024-08-14|2023-10-23|
+|21|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|11|2024-08-14|2023-12-11|
 |22|[Justin3go/weekly0](https://github.com/Justin3go/weekly0)|优质中文周刊导航网站--收刮中文互联网上的奇迹|10|2024-07-17|2024-06-06|
-|23|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-08-13|2023-12-01|
+|23|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-08-14|2023-12-01|
 |24|[gptscript-ai/story-book](https://github.com/gptscript-ai/story-book)|Generative story book powered by Nuxt and GPTScript|9|2024-07-02|2024-04-02|
 |25|[aufarijaal/online-book-store-frontend](https://github.com/aufarijaal/online-book-store-frontend)|Online Book Store frontend repo named Garadia 🍏|9|2024-06-18|2024-01-14|
 |26|[wi1sonh/cloudmall](https://github.com/wi1sonh/cloudmall)|🏪CloudMall: A toy project for SYSU software engineering course|8|2024-06-25|2024-06-18|

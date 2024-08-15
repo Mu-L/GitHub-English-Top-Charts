@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -43,8 +43,8 @@
 |36|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|110|0|2024-08-07|
 |37|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|0|2024-05-25|
 |38|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|0|2024-08-10|
-|39|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|145|0|2024-07-24|
-|40|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|6|0|2024-08-13|
+|39|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|146|0|2024-07-24|
+|40|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|0|2024-08-14|
 |41|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-08-13|
 |42|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|9|0|2024-06-10|
 |43|[Djaoued2006/Djo-Lang](https://github.com/Djaoued2006/Djo-Lang)|a small programming language built for learning purposes|3|0|2024-04-26|

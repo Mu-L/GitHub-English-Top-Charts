@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,31 +14,31 @@
 |7|[Laurensvanrun/Delphi-Promises](https://github.com/Laurensvanrun/Delphi-Promises)|Delphi implementation of promises for asynchronous programming.|71|2024-08-09|2024-03-13|
 |8|[NIKJOO/PEP](https://github.com/NIKJOO/PEP)|Private exe protector |70|2024-05-08|2024-05-08|
 |9|[nalgeon/uuidv7](https://github.com/nalgeon/uuidv7)|UUIDv7 in N languages|66|2024-07-09|2024-06-15|
-|10|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|65|2024-08-13|2024-06-07|
+|10|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|65|2024-08-14|2024-06-07|
 |11|[geby/synapse](https://github.com/geby/synapse)|Synapse TCP/IP library for Delphi and Freepascal|64|2024-06-17|2024-01-15|
 |12|[ObjectPascal-Community/1brc-ObjectPascal](https://github.com/ObjectPascal-Community/1brc-ObjectPascal)|1️⃣🐝🏎️ The 1 Billion Row Challenge in Object Pascal|53|2024-07-06|2024-02-28|
 |13|[Coldzer0/ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal)|ImGui Binding for FreePascal / Delphi with the latest version & docking|53|2024-07-29|2023-11-12|
 |14|[hshatti/LightNet](https://github.com/hshatti/LightNet)|Implemented in pure pascal LightNet is an artificial intelligence neural network library Inspired by Darknet and yolo library which can run most of the darknet including YOLO models nativly and self d ...|50|2024-08-03|2024-05-04|
 |15|[Bunker-x/DTelegram](https://github.com/Bunker-x/DTelegram)|This is a Delphi Component for interacting with the Telegram Bot API. It provides a set of functions to perform various actions using the Telegram Bot platform.|49|2024-03-15|2023-11-18|
 |16|[csm101/EditInVsCodeDelphiPlugin](https://github.com/csm101/EditInVsCodeDelphiPlugin)|Adds a "Open in Visual Studio Code" item in the Delphi Tools menu (great if you have the Copilot extension for Visual Studio Code)|39|2024-06-28|2024-03-17|
-|17|[AliDehbansiahkarbon/OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard)|OpenAPIClientWizard – the ultimate plugin for RAD Studio that revolutionizes the way Delphi developers implement REST API clients.|36|2024-08-01|2024-06-10|
-|18|[redgate4/Themida](https://github.com/redgate4/Themida)|Themida is a powerful software protection system designed for software developers|36|2024-03-27|2024-03-22|
+|17|[redgate4/Themida](https://github.com/redgate4/Themida)|Themida is a powerful software protection system designed for software developers|37|2024-03-27|2024-03-22|
+|18|[AliDehbansiahkarbon/OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard)|OpenAPIClientWizard – the ultimate plugin for RAD Studio that revolutionizes the way Delphi developers implement REST API clients.|36|2024-08-01|2024-06-10|
 |19|[havrlisan/zx-skiacomponents](https://github.com/havrlisan/zx-skiacomponents)|An open-source set of Delphi components for the FireMonkey framework that utilize the Skia4Delphi library.|28|2024-07-29|2024-03-22|
 |20|[alireza787b/px4xplane](https://github.com/alireza787b/px4xplane)|Integrating advanced flight simulation with PX4 SITL, this plugin adds support for hybrid VTOLs, fixed-wing, and multirotor aircraft in X-Plane. Perfect for researchers and hobbyists interested in dro ...|26|2024-04-01|2023-09-28|
 |21|[aso14/X4Delphi](https://github.com/aso14/X4Delphi)|Delphi Component for Twitter API interaction! Empowering developers with a range of functions for seamless action execution on the Twitter platform.|24|2024-05-06|2024-04-04|
 |22|[Codrax/Cod-Notification-Manager](https://github.com/Codrax/Cod-Notification-Manager)|Notification Manager for advanced notifications in Windows 10/11|23|2024-07-09|2023-11-18|
 |23|[delphilite/CapstoneDelphi](https://github.com/delphilite/CapstoneDelphi)|Capstone Disassembler Library Binding for Delphi |22|2024-08-01|2024-05-09|
 |24|[daviladanielc/Delphi-WindowsServiceUtils](https://github.com/daviladanielc/Delphi-WindowsServiceUtils)|Create, delete, stop, start, and change configurations of Windows services.|22|2024-07-26|2024-01-24|
-|25|[Kagamma/tparted](https://github.com/Kagamma/tparted)|Text-based user interface (TUI) frontend for parted: A simple, user-friendly utility for creating, reorganizing, and deleting GPT disk partitions, based on Free Vision application framework.|21|2024-08-04|2024-02-05|
-|26|[DelphiWorlds/JID](https://github.com/DelphiWorlds/JID)|Jar Import for Delphi|21|2024-07-02|2024-01-21|
-|27|[IndySockets/IndyTLS-OpenSSL](https://github.com/IndySockets/IndyTLS-OpenSSL)|Indy TLS package using OpenSSL|20|2024-08-13|2024-08-04|
+|25|[IndySockets/IndyTLS-OpenSSL](https://github.com/IndySockets/IndyTLS-OpenSSL)|Indy TLS package using OpenSSL|21|2024-08-14|2024-08-04|
+|26|[Kagamma/tparted](https://github.com/Kagamma/tparted)|Text-based user interface (TUI) frontend for parted: A simple, user-friendly utility for creating, reorganizing, and deleting GPT disk partitions, based on Free Vision application framework.|21|2024-08-04|2024-02-05|
+|27|[DelphiWorlds/JID](https://github.com/DelphiWorlds/JID)|Jar Import for Delphi|21|2024-07-02|2024-01-21|
 |28|[HemulGM/System.Defer](https://github.com/HemulGM/System.Defer)|Defer for Delphi|20|2024-06-02|2023-08-24|
 |29|[tinyBigGAMES/Dllama](https://github.com/tinyBigGAMES/Dllama)|LLM inference in Delphi|19|2024-04-18|2024-04-09|
 |30|[GalaxyShad/Pascal-Sonic](https://github.com/GalaxyShad/Pascal-Sonic)|Sonic game made using Object Pascal programming language|19|2024-02-21|2023-12-06|
 |31|[HemulGM/SQLGenerator](https://github.com/HemulGM/SQLGenerator)|SQL generator for Delphi|18|2024-02-19|2024-02-19|
 |32|[djswirl/MultiCOM](https://github.com/djswirl/MultiCOM)|Windows application to monitor up to six serial ports at once|18|2024-03-24|2024-01-21|
-|33|[tinyBigGAMES/LMEngine](https://github.com/tinyBigGAMES/LMEngine)|Local LLM Inference|17|2024-06-09|2024-05-14|
-|34|[Libaud/DuckDB_OPCL](https://github.com/Libaud/DuckDB_OPCL)|DuckDB Object Pascal Client Library|17|2024-07-01|2023-09-16|
+|33|[Libaud/DuckDB_OPCL](https://github.com/Libaud/DuckDB_OPCL)|DuckDB Object Pascal Client Library|18|2024-07-01|2023-09-16|
+|34|[tinyBigGAMES/LMEngine](https://github.com/tinyBigGAMES/LMEngine)|Local LLM Inference|17|2024-06-09|2024-05-14|
 |35|[chuacw/JSONRPC_Framework](https://github.com/chuacw/JSONRPC_Framework)|JSON RPC Framework on Delphi|17|2024-04-19|2023-09-12|
 |36|[HemulGM/DelphiWindowStyle](https://github.com/HemulGM/DelphiWindowStyle)|Window stylization for FMX and VCL|16|2024-07-08|2024-06-08|
 |37|[pyscripter/ChatLLM](https://github.com/pyscripter/ChatLLM)|Simple chat application for querying local and cloud LLM models.|16|2024-04-25|2024-04-22|
@@ -82,34 +82,34 @@
 |75|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|9|2024-06-14|2024-04-03|
 |76|[baumwollschaf/RDGoogleAI](https://github.com/baumwollschaf/RDGoogleAI)|Google AI API Delphi Component. To be continued when API available in Germany|9|2024-03-15|2024-02-28|
 |77|[daviladanielc/DelphiCacheControl](https://github.com/daviladanielc/DelphiCacheControl)|Delphi Cache Control is a cool feature that helps you save time in your applications.|9|2024-07-26|2023-10-25|
-|78|[Codrax/Delphi-Extended-Images-Format](https://github.com/Codrax/Delphi-Extended-Images-Format)|Support in Delphi for WebP and Heif image codecs with a wrapper for the DLLs.|8|2024-06-18|2024-06-18|
-|79|[tothpaul/Delphi.RTTI](https://github.com/tothpaul/Delphi.RTTI)|My RTTI based units|8|2024-06-12|2024-06-12|
-|80|[MikeYast/turbovision-delphi](https://github.com/MikeYast/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
-|81|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|8|2024-05-27|2024-05-24|
-|82|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|High performant CUDA powered LLM inference library|8|2024-05-10|2024-05-08|
-|83|[yunkot/MicroPXL](https://github.com/yunkot/MicroPXL)|MicroPXL is a cross-platform framework for working with peripherals on desktop machines and SBCs|8|2024-06-13|2024-05-06|
-|84|[adrianosantostreina/MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D)|Biblioteca para criação de logs de aplicativos Android|8|2024-08-02|2024-04-16|
-|85|[vrwallace/IPAvailabilityScanner](https://github.com/vrwallace/IPAvailabilityScanner)|This utility efficiently scans IP addresses and gathers host names and MAC addresses. It offers the capability to export scan results and includes features for port scanning of selected hosts. Enhance ...|8|2024-05-01|2023-11-18|
-|86|[IlianEvtimov/WindowsServiceWithSocketAndClient](https://github.com/IlianEvtimov/WindowsServiceWithSocketAndClient)|Windows service with socket communication for client-server applications using Delphi.|7|2024-07-22|2024-07-22|
-|87|[mben-dz/TAppSettings](https://github.com/mben-dz/TAppSettings)|TAppSettings Project Tool (developer helper tool)|7|2024-06-29|2024-06-29|
-|88|[Alligator-1/callstack_memprofiler](https://github.com/Alligator-1/callstack_memprofiler)|Memory profiler for FPC and Lazarus|7|2024-08-11|2024-06-24|
-|89|[stunndard/golangwin7patch](https://github.com/stunndard/golangwin7patch)|Binary patcher for Go programs on Windows 7 / Server 2008|7|2024-06-20|2024-06-20|
-|90|[paulojuniorbls/euAtendoWhatsDelphi](https://github.com/paulojuniorbls/euAtendoWhatsDelphi)|Componente Delphi para comunicar com a Evolution API|7|2024-08-09|2024-06-06|
-|91|[DeveloppeurPascal/Video-Merger](https://github.com/DeveloppeurPascal/Video-Merger)|A simple tool to merge two or more videos with FFmpeg|7|2024-06-30|2024-06-05|
-|92|[GDKsoftware/firedac-threaded](https://github.com/GDKsoftware/firedac-threaded)|Threaded connections for Firedac|7|2024-05-16|2024-04-19|
-|93|[bBelkiss/UNLP-Informatica](https://github.com/bBelkiss/UNLP-Informatica)|📚 Recopilación de notas, prácticas, materiales de estudio y mas de la carrera.|7|2024-08-04|2024-04-08|
-|94|[maicodalri/HException](https://github.com/maicodalri/HException)|O exemplo a seguir tem como objetivo mostrar a utilização do mecanismo controlador de exceções do Delphi|7|2024-03-12|2024-03-12|
-|95|[modersohn/delphi-tree-sitter](https://github.com/modersohn/delphi-tree-sitter)|Delphi binding for the tree-sitter library|7|2024-03-24|2024-02-28|
-|96|[Codrax/iBroadcast-For-Linux](https://github.com/Codrax/iBroadcast-For-Linux)|An unofficial iBroadcast client for Debian Linux developed in Lazarus Delphi|7|2024-05-18|2023-12-14|
-|97|[SchneiderInfosystems/WinRTCrypto](https://github.com/SchneiderInfosystems/WinRTCrypto)|-|7|2024-04-16|2023-09-22|
-|98|[VSoftTechnologies/VSoft.Ulid](https://github.com/VSoftTechnologies/VSoft.Ulid)|Universally Unique Lexicographically Sortable Identifier|6|2024-08-09|2024-08-05|
-|99|[delphilite/EverythingSDK](https://github.com/delphilite/EverythingSDK)|Everything Search Engine SDK for Delphi|6|2024-08-05|2024-08-05|
-|100|[Hint-ru/hAuthD](https://github.com/Hint-ru/hAuthD)|Authentication server|6|2024-07-08|2024-07-06|
-|101|[turborium/PocketGalaxy](https://github.com/turborium/PocketGalaxy)|PocketGalaxy effect|6|2024-06-22|2024-06-22|
-|102|[p-samuel/delphi-progress-bar](https://github.com/p-samuel/delphi-progress-bar)|Simplified implementation of stacked progress bars for a console application.|6|2024-06-25|2024-06-20|
-|103|[PascalVault/Lazzy_Image_Viewer](https://github.com/PascalVault/Lazzy_Image_Viewer)|Image viewer in Pascal. Supports 100+ image formats|6|2024-07-19|2024-06-17|
-|104|[tothpaul/PolytopiaMapGenerator](https://github.com/tothpaul/PolytopiaMapGenerator)|Delphi port of Javascript Code to generate a Polytopia Map :)|6|2024-05-27|2024-05-27|
-|105|[germanestevez/PreviewHandler](https://github.com/germanestevez/PreviewHandler)|Código asociado a la entrada del blog sobre creación de "Previews Handlers" para Windows|6|2024-06-03|2024-05-27|
+|78|[delphilite/EverythingSDK](https://github.com/delphilite/EverythingSDK)|Everything Search Engine SDK for Delphi|8|2024-08-05|2024-08-05|
+|79|[Codrax/Delphi-Extended-Images-Format](https://github.com/Codrax/Delphi-Extended-Images-Format)|Support in Delphi for WebP and Heif image codecs with a wrapper for the DLLs.|8|2024-06-18|2024-06-18|
+|80|[tothpaul/Delphi.RTTI](https://github.com/tothpaul/Delphi.RTTI)|My RTTI based units|8|2024-06-12|2024-06-12|
+|81|[MikeYast/turbovision-delphi](https://github.com/MikeYast/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
+|82|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|8|2024-05-27|2024-05-24|
+|83|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|High performant CUDA powered LLM inference library|8|2024-05-10|2024-05-08|
+|84|[yunkot/MicroPXL](https://github.com/yunkot/MicroPXL)|MicroPXL is a cross-platform framework for working with peripherals on desktop machines and SBCs|8|2024-06-13|2024-05-06|
+|85|[adrianosantostreina/MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D)|Biblioteca para criação de logs de aplicativos Android|8|2024-08-02|2024-04-16|
+|86|[vrwallace/IPAvailabilityScanner](https://github.com/vrwallace/IPAvailabilityScanner)|This utility efficiently scans IP addresses and gathers host names and MAC addresses. It offers the capability to export scan results and includes features for port scanning of selected hosts. Enhance ...|8|2024-05-01|2023-11-18|
+|87|[IlianEvtimov/WindowsServiceWithSocketAndClient](https://github.com/IlianEvtimov/WindowsServiceWithSocketAndClient)|Windows service with socket communication for client-server applications using Delphi.|7|2024-07-22|2024-07-22|
+|88|[mben-dz/TAppSettings](https://github.com/mben-dz/TAppSettings)|TAppSettings Project Tool (developer helper tool)|7|2024-06-29|2024-06-29|
+|89|[Alligator-1/callstack_memprofiler](https://github.com/Alligator-1/callstack_memprofiler)|Memory profiler for FPC and Lazarus|7|2024-08-14|2024-06-24|
+|90|[stunndard/golangwin7patch](https://github.com/stunndard/golangwin7patch)|Binary patcher for Go programs on Windows 7 / Server 2008|7|2024-06-20|2024-06-20|
+|91|[paulojuniorbls/euAtendoWhatsDelphi](https://github.com/paulojuniorbls/euAtendoWhatsDelphi)|Componente Delphi para comunicar com a Evolution API|7|2024-08-09|2024-06-06|
+|92|[DeveloppeurPascal/Video-Merger](https://github.com/DeveloppeurPascal/Video-Merger)|A simple tool to merge two or more videos with FFmpeg|7|2024-06-30|2024-06-05|
+|93|[germanestevez/PreviewHandler](https://github.com/germanestevez/PreviewHandler)|Código asociado a la entrada del blog sobre creación de "Previews Handlers" para Windows|7|2024-06-03|2024-05-27|
+|94|[GDKsoftware/firedac-threaded](https://github.com/GDKsoftware/firedac-threaded)|Threaded connections for Firedac|7|2024-05-16|2024-04-19|
+|95|[bBelkiss/UNLP-Informatica](https://github.com/bBelkiss/UNLP-Informatica)|📚 Recopilación de notas, prácticas, materiales de estudio y mas de la carrera.|7|2024-08-04|2024-04-08|
+|96|[maicodalri/HException](https://github.com/maicodalri/HException)|O exemplo a seguir tem como objetivo mostrar a utilização do mecanismo controlador de exceções do Delphi|7|2024-03-12|2024-03-12|
+|97|[modersohn/delphi-tree-sitter](https://github.com/modersohn/delphi-tree-sitter)|Delphi binding for the tree-sitter library|7|2024-03-24|2024-02-28|
+|98|[Codrax/iBroadcast-For-Linux](https://github.com/Codrax/iBroadcast-For-Linux)|An unofficial iBroadcast client for Debian Linux developed in Lazarus Delphi|7|2024-05-18|2023-12-14|
+|99|[SchneiderInfosystems/WinRTCrypto](https://github.com/SchneiderInfosystems/WinRTCrypto)|-|7|2024-04-16|2023-09-22|
+|100|[VSoftTechnologies/VSoft.Ulid](https://github.com/VSoftTechnologies/VSoft.Ulid)|Universally Unique Lexicographically Sortable Identifier|6|2024-08-09|2024-08-05|
+|101|[Hint-ru/hAuthD](https://github.com/Hint-ru/hAuthD)|Authentication server|6|2024-07-08|2024-07-06|
+|102|[turborium/PocketGalaxy](https://github.com/turborium/PocketGalaxy)|PocketGalaxy effect|6|2024-06-22|2024-06-22|
+|103|[p-samuel/delphi-progress-bar](https://github.com/p-samuel/delphi-progress-bar)|Simplified implementation of stacked progress bars for a console application.|6|2024-06-25|2024-06-20|
+|104|[PascalVault/Lazzy_Image_Viewer](https://github.com/PascalVault/Lazzy_Image_Viewer)|Image viewer in Pascal. Supports 100+ image formats|6|2024-07-19|2024-06-17|
+|105|[tothpaul/PolytopiaMapGenerator](https://github.com/tothpaul/PolytopiaMapGenerator)|Delphi port of Javascript Code to generate a Polytopia Map :)|6|2024-05-27|2024-05-27|
 |106|[pedroaaraujo/swagger4laz](https://github.com/pedroaaraujo/swagger4laz)|-|6|2024-08-11|2024-05-26|
 |107|[furious-programming/SparseList](https://github.com/furious-programming/SparseList)|A sparse doubly-linked list with nodes divided into segments to improve data locality and greatly reduce the necessary memory allocations and deallocations.|6|2024-05-31|2024-05-10|
 |108|[DeveloppeurPascal/DProj2WinSetup](https://github.com/DeveloppeurPascal/DProj2WinSetup)|Windows setup program generator from a Delphi project options file.|6|2024-08-05|2024-05-07|
@@ -145,12 +145,12 @@
 |138|[jimmckeeth/Delphi-Shannon-Word-Pairs](https://github.com/jimmckeeth/Delphi-Shannon-Word-Pairs)|An implementation of Claude Shannon's Word Pairs written in Delphi with ChatGPT|5|2024-07-28|2024-04-03|
 |139|[fdmigrator-project/fdmigrator](https://github.com/fdmigrator-project/fdmigrator)|Database Migration Tool based on the powers of FireDac!|5|2024-06-16|2024-03-09|
 |140|[avelsys/MenuCarrosel](https://github.com/avelsys/MenuCarrosel)|Modelo de Menu Carrosel com esferas para Firemonkey|5|2024-02-16|2024-02-16|
-|141|[Choaib-ELMADI/pcb-projects](https://github.com/Choaib-ELMADI/pcb-projects)|The pcb-projects repository features various electronic PCB designs for enthusiasts. Explore for diverse projects and detailed documentation.|5|2024-06-08|2024-02-05|
-|142|[MGuffin/xTranslator](https://github.com/MGuffin/xTranslator)|Text & translation editor for Skyrim, Fallout4 and Starfield mods|5|2024-08-01|2024-01-16|
-|143|[Bill-Stewart/PrivMan](https://github.com/Bill-Stewart/PrivMan)|-|5|2024-04-04|2024-01-15|
-|144|[JanAukToy/JAudioLib](https://github.com/JanAukToy/JAudioLib)|Delphi Audio Library by WASAPI.|5|2024-07-19|2024-01-15|
-|145|[tiagopassarelladt/DTMercadoPagoTEF](https://github.com/tiagopassarelladt/DTMercadoPagoTEF)|componente de integração com a API do TEF do Mercado Pago|5|2024-02-26|2023-12-28|
-|146|[pozsarzs/modshell](https://github.com/pozsarzs/modshell)|Command-driven scriptable Modbus utility|5|2024-02-13|2023-12-14|
+|141|[MaxiDonkey/DelphiMistralAI](https://github.com/MaxiDonkey/DelphiMistralAI)|The MistralAI API wrapper for Delphi utilizes the various advanced models developed by Mistral to provide robust capabilities for chat interactions, string embeddings, and precise code generation with ...|5|2024-08-14|2024-02-08|
+|142|[Choaib-ELMADI/pcb-projects](https://github.com/Choaib-ELMADI/pcb-projects)|The pcb-projects repository features various electronic PCB designs for enthusiasts. Explore for diverse projects and detailed documentation.|5|2024-06-08|2024-02-05|
+|143|[MGuffin/xTranslator](https://github.com/MGuffin/xTranslator)|Text & translation editor for Skyrim, Fallout4 and Starfield mods|5|2024-08-01|2024-01-16|
+|144|[Bill-Stewart/PrivMan](https://github.com/Bill-Stewart/PrivMan)|-|5|2024-04-04|2024-01-15|
+|145|[JanAukToy/JAudioLib](https://github.com/JanAukToy/JAudioLib)|Delphi Audio Library by WASAPI.|5|2024-07-19|2024-01-15|
+|146|[tiagopassarelladt/DTMercadoPagoTEF](https://github.com/tiagopassarelladt/DTMercadoPagoTEF)|componente de integração com a API do TEF do Mercado Pago|5|2024-02-26|2023-12-28|
 |147|[jonyrh/OXR_Switcher](https://github.com/jonyrh/OXR_Switcher)|OpenXR Runtime Switcher - GUI util for switch active Runtime, displayed in a list everything that is installed on the system. Supported icons: Oculus, Meta, SteamVR, VirtualDesktop, WMR, Vive, Varjo.|5|2024-06-22|2023-12-09|
 |148|[antoniojmsjr/Horse-XMLDoc](https://github.com/antoniojmsjr/Horse-XMLDoc)|⚡ Horse-XMLDoc é um middleware para tratamento de XML em APIs desenvolvidas com o framework Horse.|5|2024-07-18|2023-12-03|
 |149|[jsqw/SRL-neon](https://github.com/jsqw/SRL-neon)|Simba scripts utilizing various RuneLite plugins.|5|2024-05-05|2023-09-30|
@@ -187,24 +187,24 @@
 |180|[popolony2k/hinotori](https://github.com/popolony2k/hinotori)|Hinotori Library is the rebrand of PopolonY2k Framework  now moved to GitHub and open to community collaboration|4|2024-08-07|2024-02-18|
 |181|[zbyti/pikoban](https://github.com/zbyti/pikoban)|µSoukoban for Neo6502 retrocomputer|4|2024-04-10|2024-02-18|
 |182|[bnzbnz/JsonX2](https://github.com/bnzbnz/JsonX2)|Json Extended framework V2 for Delphi (VCL/FMX)|4|2024-08-05|2024-02-15|
-|183|[MaxiDonkey/DelphiMistralAI](https://github.com/MaxiDonkey/DelphiMistralAI)|The MistralAI API wrapper for Delphi utilizes the various advanced models developed by Mistral to provide robust capabilities for chat interactions, string embeddings, and precise code generation with ...|4|2024-08-13|2024-02-08|
-|184|[Old-Butt-Gold/Task-Manager-CppBuilder](https://github.com/Old-Butt-Gold/Task-Manager-CppBuilder)|-|4|2024-07-09|2024-01-20|
-|185|[ProgrammingHobby/Cife](https://github.com/ProgrammingHobby/Cife)|the new CP/M Image-File Explorer|4|2024-07-21|2024-01-18|
-|186|[psychotimmy/aoc2023-cpm](https://github.com/psychotimmy/aoc2023-cpm)|Advent of Code 2023 - Turbo Pascal 3.01A, FTL Modula-2 1.30 CBASIC80 2.0 and Aztec C 1.06D under CP/M 2.2.|4|2024-04-08|2024-01-12|
-|187|[OwlHatSoftware/rqliteclient4delphi](https://github.com/OwlHatSoftware/rqliteclient4delphi)|Delphi Client library for accessing the rqlite cluster db|4|2024-07-18|2024-01-11|
-|188|[DelphiCreative/DelphiParseServer](https://github.com/DelphiCreative/DelphiParseServer)|-|4|2024-05-18|2024-01-08|
-|189|[TobyAdd/GDH-Installer](https://github.com/TobyAdd/GDH-Installer)|Project that allows you to easily install GDH|4|2024-07-14|2024-01-02|
-|190|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
-|191|[ad1mt/Multi-Word-Int](https://github.com/ad1mt/Multi-Word-Int)|Library to provide multi-word (large) integers for the Free Pascal compiler.|4|2024-05-19|2023-11-11|
-|192|[GabrielOnDelphi/BioInf](https://github.com/GabrielOnDelphi/BioInf)|Library for reading microbiology DNA files (ABI, SCF, FASTA, etc)|4|2024-03-26|2023-10-10|
-|193|[fibodevy/zflate](https://github.com/fibodevy/zflate)|Small compression unit that handles pure deflate, ZLIB and GZIP written in Free Pascal|4|2024-02-15|2023-09-28|
-|194|[VE2ZAZ/Rotator-Control-Software](https://github.com/VE2ZAZ/Rotator-Control-Software)|A simple, efficient way to remote-control Antenna rotator control boxes.|4|2024-08-01|2023-08-26|
-|195|[OpenSourceCommunityBrasil/RscApiCora-Demos](https://github.com/OpenSourceCommunityBrasil/RscApiCora-Demos)|-|4|2024-06-28|2023-08-16|
-|196|[cru1z1n/TextureMaterialFinder](https://github.com/cru1z1n/TextureMaterialFinder)|searches pdrive for for vanilla textures/materials displays image preview and any linked textures/materials|3|2024-08-03|2024-07-31|
-|197|[diversenok/NtUtilsLibrary-Examples](https://github.com/diversenok/NtUtilsLibrary-Examples)|Code of samples for NtUtilsLibrary|3|2024-07-20|2024-07-16|
-|198|[mben-dz/PropertyType](https://github.com/mben-dz/PropertyType)|Helper Class to Get Property Type (useful in OOP to parse datatype correctly)|3|2024-07-09|2024-07-09|
-|199|[tereshenkovav/PascalGameEngine](https://github.com/tereshenkovav/PascalGameEngine)|SFML-based game engine for Delphi and FreePascalCompiler|3|2024-07-20|2024-07-01|
-|200|[jimmckeeth/QueryFieldAccessors](https://github.com/jimmckeeth/QueryFieldAccessors)|Benchmark on performance of different Qurry Field Accessors in Delphi|3|2024-06-25|2024-06-24|
+|183|[Old-Butt-Gold/Task-Manager-CppBuilder](https://github.com/Old-Butt-Gold/Task-Manager-CppBuilder)|-|4|2024-07-09|2024-01-20|
+|184|[ProgrammingHobby/Cife](https://github.com/ProgrammingHobby/Cife)|the new CP/M Image-File Explorer|4|2024-07-21|2024-01-18|
+|185|[psychotimmy/aoc2023-cpm](https://github.com/psychotimmy/aoc2023-cpm)|Advent of Code 2023 - Turbo Pascal 3.01A, FTL Modula-2 1.30 CBASIC80 2.0 and Aztec C 1.06D under CP/M 2.2.|4|2024-04-08|2024-01-12|
+|186|[OwlHatSoftware/rqliteclient4delphi](https://github.com/OwlHatSoftware/rqliteclient4delphi)|Delphi Client library for accessing the rqlite cluster db|4|2024-07-18|2024-01-11|
+|187|[DelphiCreative/DelphiParseServer](https://github.com/DelphiCreative/DelphiParseServer)|-|4|2024-05-18|2024-01-08|
+|188|[TobyAdd/GDH-Installer](https://github.com/TobyAdd/GDH-Installer)|Project that allows you to easily install GDH|4|2024-07-14|2024-01-02|
+|189|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
+|190|[ad1mt/Multi-Word-Int](https://github.com/ad1mt/Multi-Word-Int)|Library to provide multi-word (large) integers for the Free Pascal compiler.|4|2024-05-19|2023-11-11|
+|191|[GabrielOnDelphi/BioInf](https://github.com/GabrielOnDelphi/BioInf)|Library for reading microbiology DNA files (ABI, SCF, FASTA, etc)|4|2024-03-26|2023-10-10|
+|192|[fibodevy/zflate](https://github.com/fibodevy/zflate)|Small compression unit that handles pure deflate, ZLIB and GZIP written in Free Pascal|4|2024-02-15|2023-09-28|
+|193|[VE2ZAZ/Rotator-Control-Software](https://github.com/VE2ZAZ/Rotator-Control-Software)|A simple, efficient way to remote-control Antenna rotator control boxes.|4|2024-08-01|2023-08-26|
+|194|[OpenSourceCommunityBrasil/RscApiCora-Demos](https://github.com/OpenSourceCommunityBrasil/RscApiCora-Demos)|-|4|2024-06-28|2023-08-16|
+|195|[cru1z1n/TextureMaterialFinder](https://github.com/cru1z1n/TextureMaterialFinder)|searches pdrive for for vanilla textures/materials displays image preview and any linked textures/materials|3|2024-08-03|2024-07-31|
+|196|[diversenok/NtUtilsLibrary-Examples](https://github.com/diversenok/NtUtilsLibrary-Examples)|Code of samples for NtUtilsLibrary|3|2024-07-20|2024-07-16|
+|197|[mben-dz/PropertyType](https://github.com/mben-dz/PropertyType)|Helper Class to Get Property Type (useful in OOP to parse datatype correctly)|3|2024-07-09|2024-07-09|
+|198|[tereshenkovav/PascalGameEngine](https://github.com/tereshenkovav/PascalGameEngine)|SFML-based game engine for Delphi and FreePascalCompiler|3|2024-07-20|2024-07-01|
+|199|[jimmckeeth/QueryFieldAccessors](https://github.com/jimmckeeth/QueryFieldAccessors)|Benchmark on performance of different Qurry Field Accessors in Delphi|3|2024-06-25|2024-06-24|
+|200|[gmnevton/XSLParser](https://github.com/gmnevton/XSLParser)|Simple XSL parser - outputing XML/HTML defining transform for rendering or mapping purposes.|3|2024-06-24|2024-06-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

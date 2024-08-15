@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1301|2024-05-10|2023-12-11|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |860|2024-08-13|2024-06-16|
-|3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|245|2024-04-13|2024-02-01|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |870|2024-08-14|2024-06-16|
+|3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|247|2024-04-13|2024-02-01|
 |4|[Mohanad-Fawzy/TraidingView-Premium-Free](https://github.com/Mohanad-Fawzy/TraidingView-Premium-Free)|How to Get TradingView Premium for Free Forever   TRADINGVIEW PREMIUM FREE FOR LIFETIME|208|2024-02-22|2023-09-13|
 |5|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |150|2024-08-03|2023-11-03|
 |6|[genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io)|A roadmap for "generative AI" learning resources|135|2024-06-05|2024-05-21|
@@ -18,34 +18,34 @@
 |11|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|68|2024-07-31|2023-11-24|
 |12|[Evelyyyynnnn/Hexo-CS-Learning](https://github.com/Evelyyyynnnn/Hexo-CS-Learning)|✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨|65|2024-06-29|2023-09-11|
 |13|[github/actions-learning-pathway](https://github.com/github/actions-learning-pathway)|Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.|64|2024-05-30|2023-09-20|
-|14|[frontend-joe/css-components](https://github.com/frontend-joe/css-components)|Collection of components built with just HTML and CSS.|63|2024-08-09|2024-02-19|
+|14|[frontend-joe/css-components](https://github.com/frontend-joe/css-components)|Collection of components built with just HTML and CSS.|63|2024-08-14|2024-02-19|
 |15|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to social media|59|2024-06-07|2024-02-28|
 |16|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|53|2024-06-25|2023-10-03|
 |17|[geek-cookbook/premix](https://github.com/geek-cookbook/premix)|The "premix" for Funky Penguin's Geek Cookbook|42|2024-08-07|2024-08-07|
-|18|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|42|2024-03-12|2023-11-11|
-|19|[distantmagic/llmops-handbook](https://github.com/distantmagic/llmops-handbook)|Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)|41|2024-08-07|2024-06-28|
+|18|[distantmagic/llmops-handbook](https://github.com/distantmagic/llmops-handbook)|Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)|42|2024-08-07|2024-06-28|
+|19|[ibrahim-khalil-shakil/elearning](https://github.com/ibrahim-khalil-shakil/elearning)|Online Learning Management System   eLearning Platform : Laravel|42|2024-03-12|2023-11-11|
 |20|[mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)|Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡|41|2024-06-25|2024-03-22|
 |21|[frontend-joe/css-loader-reels](https://github.com/frontend-joe/css-loader-reels)|Collection of CSS loaders|38|2024-06-09|2024-06-04|
 |22|[MediaSavvy/MediaSavvy_Wiki](https://github.com/MediaSavvy/MediaSavvy_Wiki)|Welcome to my website, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, sa ...|36|2024-08-08|2023-08-19|
 |23|[c1982/gokonf02172024](https://github.com/c1982/gokonf02172024)|gokonf 2024 Go Çalımları - Go Tips and Tricks|35|2024-02-26|2024-02-19|
-|24|[neuromaancer/everforest_collection](https://github.com/neuromaancer/everforest_collection)|My everforest theme collection for various tools|32|2024-07-24|2024-02-03|
-|25|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|31|2024-08-09|2023-09-03|
+|24|[neuromaancer/everforest_collection](https://github.com/neuromaancer/everforest_collection)|My everforest theme collection for various tools|32|2024-08-14|2024-02-03|
+|25|[League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima)|Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.|31|2024-08-14|2023-09-03|
 |26|[SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)|UniCollab is more than just a platform; it's a gateway to a world where students from different universities/colleges converge to collaborate, innovate, and elevate their projects. Imagine a space whe ...|30|2024-05-20|2023-09-19|
 |27|[HashimThePassionate/ultimate-django-for-everyone](https://github.com/HashimThePassionate/ultimate-django-for-everyone)|Welcome to the ultimate Django repository! Whether you're a beginner or seasoned developer, here you'll find everything to master Django. Dive into tutorials, projects, and join a vibrant community to ...|29|2024-06-25|2024-01-23|
-|28|[SEELE1306/CSS-Snippets](https://github.com/SEELE1306/CSS-Snippets)|A compilation of CSS snippets for Vencord / Vesktop.|29|2024-07-26|2023-09-23|
+|28|[SEELE1306/CSS-Snippets](https://github.com/SEELE1306/CSS-Snippets)|A compilation of CSS snippets for Vencord / Vesktop.|29|2024-08-13|2023-09-23|
 |29|[thiagodejesus/rust-wasm](https://github.com/thiagodejesus/rust-wasm)|A quick guide on how to use rust wasm on typescript on Node or Vanilla JS. |26|2024-06-18|2024-06-18|
 |30|[hmxmilohax/rb3-pc](https://github.com/hmxmilohax/rb3-pc)|How to set up Rock Band 3 to run on a computer with RPCS3|26|2024-08-05|2023-08-22|
 |31|[hai-zou/hexo-theme-sea](https://github.com/hai-zou/hexo-theme-sea)|🐳 Hexo Theme   博客主题|25|2024-07-15|2024-01-12|
 |32|[5e/streamdeck-hwinfo-plugin](https://github.com/5e/streamdeck-hwinfo-plugin)|HWiNFO Reader - A Stream Deck plugin to show HWiNFO sensors without using the time limited 'Shared Memory Support' feature. Only 91KB 🌟|23|2024-07-06|2024-01-20|
-|33|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|21|2024-07-28|2024-04-22|
-|34|[lambdalisue/rs-mdbook-alerts](https://github.com/lambdalisue/rs-mdbook-alerts)|mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book|21|2024-08-12|2024-01-14|
+|33|[lambdalisue/rs-mdbook-alerts](https://github.com/lambdalisue/rs-mdbook-alerts)|mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book|22|2024-08-14|2024-01-14|
+|34|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|21|2024-07-28|2024-04-22|
 |35|[diws1/xfce-rice](https://github.com/diws1/xfce-rice)|Xfce Customization Guide (in process)|21|2024-07-12|2023-09-30|
 |36|[timothywarner/copilotaio](https://github.com/timothywarner/copilotaio)|Tim Warner's GitHub Copilot All-in-One (AIO) Live Training Course|20|2024-08-08|2024-05-19|
 |37|[AI-Atlas/AI-Atlas](https://github.com/AI-Atlas/AI-Atlas)|A list of useful AI tools from across the web|20|2024-07-09|2024-01-01|
 |38|[zengyh1900/handy_voting](https://github.com/zengyh1900/handy_voting)|handy tools for user study|19|2024-05-21|2024-05-17|
 |39|[Karthikg1908/Hospital-Management-System](https://github.com/Karthikg1908/Hospital-Management-System)|The purpose of the project entitled as “HOSPITAL MANAGEMENT SYSTEM” is to computerize the Front Office Management of Hospital to develop software which is user friendly simple, fast, and cost – effect ...|19|2024-03-03|2024-01-26|
 |40|[zksecurity/stark-book](https://github.com/zksecurity/stark-book)|STARK book|19|2024-06-11|2023-11-21|
-|41|[AsvnDG/W11-Desktop-Mod](https://github.com/AsvnDG/W11-Desktop-Mod)|Just collection of my edited style|18|2024-08-10|2024-07-11|
+|41|[AsvnDG/W11-Desktop-Mod](https://github.com/AsvnDG/W11-Desktop-Mod)|Just collection of my edited style|17|2024-08-10|2024-07-11|
 |42|[two-torial/two-torial](https://github.com/two-torial/two-torial)|TWO-TORIAL, a compendium of information and guides written to ease headaches for general use.|17|2024-07-11|2023-08-30|
 |43|[tajulafreen/50Projects-HTML-CSS-JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)|This repo is collection of 50 exciting and diverse projects that showcase the power of HTML, CSS, and JavaScript in creating captivating animations and transitions. These projects are designed to demo ...|16|2024-07-12|2023-12-05|
 |44|[godot-rust/book](https://github.com/godot-rust/book)|Documentation and tutorials for gdext, the Rust bindings for Godot 4|16|2024-08-07|2023-10-09|
@@ -72,40 +72,40 @@
 |65|[CMU-17-214/s2024](https://github.com/CMU-17-214/s2024)|Public course website for Spring 2024 materials.|11|2024-08-06|2024-01-08|
 |66|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|11|2024-07-10|2023-10-16|
 |67|[frontend-joe/reel-examples](https://github.com/frontend-joe/reel-examples)|Collection of web examples built for Instagram and TikTok|10|2024-05-28|2024-05-25|
-|68|[Uzurch1k/project-Pronto11](https://github.com/Uzurch1k/project-Pronto11)|https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?node-id=0-1&t=ymen1Pvvf0nSfxYC-0|10|2024-03-13|2024-02-27|
-|69|[IgnaceMaes/qunit-theme-ember](https://github.com/IgnaceMaes/qunit-theme-ember)|A theme for the QUnit web UI test runner based on the Ember styleguide.|10|2024-05-09|2023-12-04|
-|70|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|10|2024-08-13|2023-10-16|
-|71|[NVIDIA/grace-cpu-benchmarking-guide](https://github.com/NVIDIA/grace-cpu-benchmarking-guide)|Guides and examples to help achieve optimal performance on a NVIDIA Grace CPU|10|2024-08-09|2023-09-12|
-|72|[V0r-T3x/Fancygotchi_themes](https://github.com/V0r-T3x/Fancygotchi_themes)|This repo is to share the community themes for fancygotchi|10|2024-04-28|2023-08-30|
-|73|[notsuju/Make-Windows-Incredible](https://github.com/notsuju/Make-Windows-Incredible)|Ultimate guide to making windows more private and make it look better with Catppuccin theme|9|2024-07-01|2024-06-19|
-|74|[d3cline/airanch](https://github.com/d3cline/airanch)|Make AI work like crypto mining, or maybe shared hosting|9|2024-03-05|2024-02-13|
-|75|[captn3m0/tld-squatting](https://github.com/captn3m0/tld-squatting)|List of corporations squatting on entire TLDs.|9|2024-08-05|2024-01-30|
-|76|[SartHak-0-Sach/Static-job-listings_frontend_project](https://github.com/SartHak-0-Sach/Static-job-listings_frontend_project)|Discover your next career move with the Static Job Listings website. Browse through a curated list of job opportunities and find the perfect fit for your skills and aspirations.|9|2024-06-03|2024-01-29|
-|77|[SartHak-0-Sach/Newsletter-sign-up-page_frontend_project](https://github.com/SartHak-0-Sach/Newsletter-sign-up-page_frontend_project)|Stay updated with the latest tips and insights on product management by signing up for our newsletter! The Newsletter Signup Form Component is a footer section component of a website where users who w ...|9|2024-06-03|2024-01-25|
-|78|[AkashKobal/web-development](https://github.com/AkashKobal/web-development)|This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners t ...|9|2024-03-10|2024-01-22|
-|79|[zahidrahimoon/JS-Mini-Projects](https://github.com/zahidrahimoon/JS-Mini-Projects)|Explore a collection of bite-sized JavaScript projects, each offering unique insights into various aspects of the language.|9|2024-03-15|2024-01-15|
-|80|[ListonFermi/LFKart-ecommerce-project](https://github.com/ListonFermi/LFKart-ecommerce-project)|2024Jan,Feb: Made an e-commerce website using node js, mongodb, hbs and hosted in AWS for learning.|9|2024-02-25|2023-12-15|
-|81|[intel/AccessibilityPlaybook](https://github.com/intel/AccessibilityPlaybook)|The open source accessibility playbook is a resource for repo maintainers and contributors, consumers and end users of open source projects.  Let’s create a future where all open source projects are i ...|9|2024-07-31|2023-08-15|
+|68|[WebDesignMastery/Burger_House_06-03-24](https://github.com/WebDesignMastery/Burger_House_06-03-24)|Learn how to create a stunning restaurant website from scratch using HTML, CSS, and JavaScript!|10|2024-03-03|2024-03-03|
+|69|[Uzurch1k/project-Pronto11](https://github.com/Uzurch1k/project-Pronto11)|https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?node-id=0-1&t=ymen1Pvvf0nSfxYC-0|10|2024-03-13|2024-02-27|
+|70|[IgnaceMaes/qunit-theme-ember](https://github.com/IgnaceMaes/qunit-theme-ember)|A theme for the QUnit web UI test runner based on the Ember styleguide.|10|2024-05-09|2023-12-04|
+|71|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|10|2024-08-14|2023-10-16|
+|72|[NVIDIA/grace-cpu-benchmarking-guide](https://github.com/NVIDIA/grace-cpu-benchmarking-guide)|Guides and examples to help achieve optimal performance on a NVIDIA Grace CPU|10|2024-08-09|2023-09-12|
+|73|[V0r-T3x/Fancygotchi_themes](https://github.com/V0r-T3x/Fancygotchi_themes)|This repo is to share the community themes for fancygotchi|10|2024-04-28|2023-08-30|
+|74|[notsuju/Make-Windows-Incredible](https://github.com/notsuju/Make-Windows-Incredible)|Ultimate guide to making windows more private and make it look better with Catppuccin theme|9|2024-07-01|2024-06-19|
+|75|[d3cline/airanch](https://github.com/d3cline/airanch)|Make AI work like crypto mining, or maybe shared hosting|9|2024-03-05|2024-02-13|
+|76|[captn3m0/tld-squatting](https://github.com/captn3m0/tld-squatting)|List of corporations squatting on entire TLDs.|9|2024-08-05|2024-01-30|
+|77|[SartHak-0-Sach/Static-job-listings_frontend_project](https://github.com/SartHak-0-Sach/Static-job-listings_frontend_project)|Discover your next career move with the Static Job Listings website. Browse through a curated list of job opportunities and find the perfect fit for your skills and aspirations.|9|2024-06-03|2024-01-29|
+|78|[SartHak-0-Sach/Newsletter-sign-up-page_frontend_project](https://github.com/SartHak-0-Sach/Newsletter-sign-up-page_frontend_project)|Stay updated with the latest tips and insights on product management by signing up for our newsletter! The Newsletter Signup Form Component is a footer section component of a website where users who w ...|9|2024-06-03|2024-01-25|
+|79|[AkashKobal/web-development](https://github.com/AkashKobal/web-development)|This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners t ...|9|2024-03-10|2024-01-22|
+|80|[zahidrahimoon/JS-Mini-Projects](https://github.com/zahidrahimoon/JS-Mini-Projects)|Explore a collection of bite-sized JavaScript projects, each offering unique insights into various aspects of the language.|9|2024-03-15|2024-01-15|
+|81|[ListonFermi/LFKart-ecommerce-project](https://github.com/ListonFermi/LFKart-ecommerce-project)|2024Jan,Feb: Made an e-commerce website using node js, mongodb, hbs and hosted in AWS for learning.|9|2024-02-25|2023-12-15|
 |82|[love1ace/pepe-world](https://github.com/love1ace/pepe-world)|🐸 A collection of projects using Pepe memes 🐸|8|2024-06-30|2024-06-17|
-|83|[WebDesignMastery/Porsche_30-05-24](https://github.com/WebDesignMastery/Porsche_30-05-24)|Unlock the secrets to building stunning, responsive landing pages with our step-by-step tutorial!|8|2024-05-29|2024-05-29|
-|84|[Nahiyan0Alam/Google_Login_Clone](https://github.com/Nahiyan0Alam/Google_Login_Clone)|It's a Facebook Login Form created by me in 2019. It's will be not match with current Facebook Form. It's only for educational purpose.|8|2024-03-11|2024-03-11|
-|85|[WebDesignMastery/Burger_House_06-03-24](https://github.com/WebDesignMastery/Burger_House_06-03-24)|Learn how to create a stunning restaurant website from scratch using HTML, CSS, and JavaScript!|8|2024-03-03|2024-03-03|
+|83|[juanchiparra/obsidian-syntax-highlighting](https://github.com/juanchiparra/obsidian-syntax-highlighting)|A collection of syntax highlighting snippets for Obsidian|8|2024-07-22|2024-06-15|
+|84|[WebDesignMastery/Porsche_30-05-24](https://github.com/WebDesignMastery/Porsche_30-05-24)|Unlock the secrets to building stunning, responsive landing pages with our step-by-step tutorial!|8|2024-05-29|2024-05-29|
+|85|[Nahiyan0Alam/Google_Login_Clone](https://github.com/Nahiyan0Alam/Google_Login_Clone)|It's a Facebook Login Form created by me in 2019. It's will be not match with current Facebook Form. It's only for educational purpose.|8|2024-03-11|2024-03-11|
 |86|[Hyperxq/Project-Builder-schematics-docs](https://github.com/Hyperxq/Project-Builder-schematics-docs)|Schematics Docs has all the information of how to use schematics in javascript|8|2024-06-21|2024-02-27|
 |87|[LadyKerr/GitGoing](https://github.com/LadyKerr/GitGoing)|Beginner-friendly project focused on tracking progress and learning Git.|8|2024-07-23|2024-02-20|
 |88|[pizzapanther/async-django-book-code](https://github.com/pizzapanther/async-django-book-code)|Full code examples for the book "Async Patterns in Django"|8|2024-05-24|2023-10-28|
 |89|[AvayaExperiencePlatform/welcome-to-avaya-experience-platform](https://github.com/AvayaExperiencePlatform/welcome-to-avaya-experience-platform)|This repository serves as a guide for getting started with building and customizing on Avaya Experience Platform™.|8|2024-05-20|2023-09-05|
 |90|[Iqbolshoh/javascript-text-encryption](https://github.com/Iqbolshoh/javascript-text-encryption)|A JavaScript library designed for secure text encryption and decryption. It provides robust algorithms and utilities to ensure sensitive data is protected during transmission and storage|7|2024-08-10|2024-08-08|
-|91|[samarjit-sahoo/My-Site](https://github.com/samarjit-sahoo/My-Site)|Welcome to my Personal Portfolio GitHub repository! Here, you'll find a curated collection of my journey, projects, and skills in web development and design. From responsive websites to creative desig ...|7|2024-07-27|2024-05-19|
-|92|[WebDesignMastery/Hut_16-05-24](https://github.com/WebDesignMastery/Hut_16-05-24)|Learn how to create a stunning responsive landing page from scratch using HTML, CSS, and JavaScript!|7|2024-05-16|2024-05-16|
-|93|[WebDesignMastery/E-Learning_11-05-24](https://github.com/WebDesignMastery/E-Learning_11-05-24)|Learn how to create a stunning and user-friendly e-learning landing page from scratch using HTML, CSS, and JavaScript!|7|2024-05-10|2024-05-10|
-|94|[tapascript/js-projects](https://github.com/tapascript/js-projects)|A collection of JavaScript projects|7|2024-06-22|2024-04-15|
-|95|[buraxta/instagram-projects](https://github.com/buraxta/instagram-projects)|The purpose of this repository is to serve as a learning resource and guide for understanding HTML, CSS and JAVASCRIPT concepts through videos on my instagram account (@buraxta_)|7|2024-07-07|2024-03-06|
-|96|[uclahs/surface](https://github.com/uclahs/surface)|Storybook Drupal Theme|7|2024-07-19|2024-02-28|
-|97|[bethanyhgardner/lingthusiasm-vowel-plots](https://github.com/bethanyhgardner/lingthusiasm-vowel-plots)|Vowel plot tutorial for Lingthusiasm bonus episode.|7|2024-03-23|2023-12-13|
-|98|[Sadia-Shahzadi/Home-Decor-Website](https://github.com/Sadia-Shahzadi/Home-Decor-Website)|I make Home Decor Website Design. It will be completely responsive for any devices like phone, tablet etc. This website developed by using Html and CSS. In this website we will learn flexbox, responsi ...|7|2024-03-02|2023-09-27|
-|99|[ChandruMuthuswamy/Food-pre-booking-project](https://github.com/ChandruMuthuswamy/Food-pre-booking-project)|This project is all about reducing waiting time in the restaurants by pre-booking food through our website and save our time as much as possible.|6|2024-07-14|2024-07-09|
-|100|[Faiqa-batool/Tailwind-CSS-Tutorial](https://github.com/Faiqa-batool/Tailwind-CSS-Tutorial)|A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project|6|2024-06-30|2024-06-30|
-|101|[juanchiparra/obsidian-syntax-highlighting](https://github.com/juanchiparra/obsidian-syntax-highlighting)|A collection of syntax highlighting snippets for Obsidian|6|2024-07-22|2024-06-15|
+|91|[Elevict/Elevict-Snippets](https://github.com/Elevict/Elevict-Snippets)|A series of useful obsidian CSS snippets.|7|2024-08-14|2024-08-03|
+|92|[samarjit-sahoo/My-Site](https://github.com/samarjit-sahoo/My-Site)|Welcome to my Personal Portfolio GitHub repository! Here, you'll find a curated collection of my journey, projects, and skills in web development and design. From responsive websites to creative desig ...|7|2024-07-27|2024-05-19|
+|93|[WebDesignMastery/Hut_16-05-24](https://github.com/WebDesignMastery/Hut_16-05-24)|Learn how to create a stunning responsive landing page from scratch using HTML, CSS, and JavaScript!|7|2024-05-16|2024-05-16|
+|94|[WebDesignMastery/E-Learning_11-05-24](https://github.com/WebDesignMastery/E-Learning_11-05-24)|Learn how to create a stunning and user-friendly e-learning landing page from scratch using HTML, CSS, and JavaScript!|7|2024-05-10|2024-05-10|
+|95|[tapascript/js-projects](https://github.com/tapascript/js-projects)|A collection of JavaScript projects|7|2024-06-22|2024-04-15|
+|96|[buraxta/instagram-projects](https://github.com/buraxta/instagram-projects)|The purpose of this repository is to serve as a learning resource and guide for understanding HTML, CSS and JAVASCRIPT concepts through videos on my instagram account (@buraxta_)|7|2024-07-07|2024-03-06|
+|97|[uclahs/surface](https://github.com/uclahs/surface)|Storybook Drupal Theme|7|2024-07-19|2024-02-28|
+|98|[bethanyhgardner/lingthusiasm-vowel-plots](https://github.com/bethanyhgardner/lingthusiasm-vowel-plots)|Vowel plot tutorial for Lingthusiasm bonus episode.|7|2024-03-23|2023-12-13|
+|99|[Sadia-Shahzadi/Home-Decor-Website](https://github.com/Sadia-Shahzadi/Home-Decor-Website)|I make Home Decor Website Design. It will be completely responsive for any devices like phone, tablet etc. This website developed by using Html and CSS. In this website we will learn flexbox, responsi ...|7|2024-03-02|2023-09-27|
+|100|[ChandruMuthuswamy/Food-pre-booking-project](https://github.com/ChandruMuthuswamy/Food-pre-booking-project)|This project is all about reducing waiting time in the restaurants by pre-booking food through our website and save our time as much as possible.|6|2024-07-14|2024-07-09|
+|101|[Faiqa-batool/Tailwind-CSS-Tutorial](https://github.com/Faiqa-batool/Tailwind-CSS-Tutorial)|A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project|6|2024-06-30|2024-06-30|
 |102|[imharshag/AWS-EC2-Web](https://github.com/imharshag/AWS-EC2-Web)|This guide provides a comprehensive step-by-step process for launching a server and hosting a website using Apache HTTP Server on an Amazon EC2 instance. We will use MobaXterm for remote server access ...|6|2024-05-19|2024-05-15|
 |103|[WebDesignMastery/Camp_06-04-24](https://github.com/WebDesignMastery/Camp_06-04-24)|Unlock the power of web development with our comprehensive tutorial on creating a dynamic landing page using HTML, CSS, and JavaScript!|6|2024-03-16|2024-02-24|
 |104|[jzohrab/lute-manual](https://github.com/jzohrab/lute-manual)|Manual for lute-v3 repo, using mdbook.|6|2024-03-15|2023-11-10|
