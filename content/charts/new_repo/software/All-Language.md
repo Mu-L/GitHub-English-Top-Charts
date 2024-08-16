@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > All Language
-<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Language|Updated|Created|
 |:-|:-|:-|:-|:-|:-|:-|
-|1|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|55550|Python|2024-08-05|2023-11-14|
-|2|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|49274|Python|2024-08-07|2024-03-17|
-|3|[open-webui/open-webui](https://github.com/open-webui/open-webui)|User-friendly WebUI for LLMs (Formerly Ollama WebUI)|35558|Svelte|2024-08-14|2023-10-06|
-|4|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|30927|Python|2024-08-14|2024-01-14|
-|5|[OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)|🐚 OpenDevin: Code Less, Make More|29942|Python|2024-08-14|2024-03-13|
-|6|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)|29592|TypeScript|2024-08-07|2023-11-21|
-|7|[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)|The first real AI developer|29297|Python|2024-08-14|2023-08-16|
-|8|[2noise/ChatTTS](https://github.com/2noise/ChatTTS)|A generative speech model for daily dialogue.|29219|Python|2024-08-14|2024-05-27|
-|9|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|29113|Ruby|2024-08-14|2024-01-01|
-|10|[linexjlin/GPTs](https://github.com/linexjlin/GPTs)|leaked prompts of GPTs|28041|-|2024-07-09|2023-11-11|
-|11|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|27928|Python|2024-07-23|2023-11-29|
-|12|[karpathy/LLM101n](https://github.com/karpathy/LLM101n)|LLM101n: Let's build a Storyteller|26936|-|2024-08-01|2024-05-27|
-|13|[meta-llama/llama3](https://github.com/meta-llama/llama3)|The official Meta Llama 3 GitHub site|25482|Python|2024-08-12|2024-03-15|
-|14|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|24806|Shell|2024-08-14|2023-08-28|
-|15|[HeyPuter/puter](https://github.com/HeyPuter/puter)|🌐 The Internet OS! Free, Open-Source, and Self-Hostable.|23124|JavaScript|2024-08-14|2024-03-03|
-|16|[karpathy/llm.c](https://github.com/karpathy/llm.c)|LLM training in simple, raw C/CUDA|22633|Cuda|2024-08-14|2024-04-08|
-|17|[opentofu/opentofu](https://github.com/opentofu/opentofu)|OpenTofu lets you declaratively manage your cloud infrastructure.|22164|Go|2024-08-14|2023-08-16|
-|18|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|real time face swap and one-click video deepfake with only a single image|21527|Python|2024-08-14|2023-09-24|
-|19|[janhq/jan](https://github.com/janhq/jan)|Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)|21464|TypeScript|2024-08-14|2023-08-17|
-|20|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|Open-Sora: Democratizing Efficient Video Production for All|21218|Python|2024-08-09|2024-02-20|
-|21|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.|20324|Python|2024-08-14|2024-01-03|
-|22|[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)|Crawl a site to generate knowledge files to create your own custom GPT from a URL|18353|TypeScript|2024-08-09|2023-11-14|
-|23|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|18344|C++|2024-08-13|2023-09-10|
-|24|[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|18239|Python|2024-08-14|2023-10-27|
-|25|[stitionai/devika](https://github.com/stitionai/devika)|Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D ...|18119|Python|2024-08-08|2024-03-21|
-|26|[wandb/openui](https://github.com/wandb/openui)|OpenUI let's you describe UI using your imagination, then see it rendered live.|18071|TypeScript|2024-07-21|2024-03-17|
-|27|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|17223|Python|2024-08-14|2023-08-17|
-|28|[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)|A massively parallel, high-level programming language|17030|Rust|2024-08-14|2023-08-29|
-|29|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|Truly independent web browser|16634|C++|2024-08-14|2024-05-30|
-|30|[dockur/windows](https://github.com/dockur/windows)|Windows inside a Docker container.|16313|Shell|2024-08-13|2024-01-14|
-|31|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|16152|C++|2024-08-14|2023-11-28|
-|32|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package installer and resolver, written in Rust.|15916|Rust|2024-08-14|2023-10-02|
-|33|[meta-llama/codellama](https://github.com/meta-llama/codellama)|Inference code for CodeLlama models|15767|Python|2024-08-12|2023-08-24|
-|34|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.|15613|Python|2024-07-26|2024-03-11|
-|35|[VikParuchuri/marker](https://github.com/VikParuchuri/marker)|Convert PDF to markdown quickly with high accuracy|15484|Python|2024-07-22|2023-10-30|
-|36|[valkey-io/valkey](https://github.com/valkey-io/valkey)|A flexible distributed key-value datastore that supports both caching and beyond caching workloads.|15084|C|2024-08-14|2024-03-22|
-|37|[microsoft/graphrag](https://github.com/microsoft/graphrag)|A modular graph-based Retrieval-Augmented Generation (RAG) system|14726|Python|2024-08-14|2024-03-27|
-|38|[unslothai/unsloth](https://github.com/unslothai/unsloth)|Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory|14239|Python|2024-08-14|2023-11-29|
-|39|[conductor-oss/conductor](https://github.com/conductor-oss/conductor)|Conductor is an event driven orchestration platform|14225|Java|2024-08-12|2023-12-08|
-|40|[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)|Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation|14209|-|2024-07-26|2023-11-28|
-|41|[KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)|Kolmogorov Arnold Networks|14092|Jupyter Notebook|2024-08-11|2024-04-27|
-|42|[infiniflow/ragflow](https://github.com/infiniflow/ragflow)|RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.|14067|Python|2024-08-14|2023-12-12|
-|43|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)|Python scraper based on AI|13832|Python|2024-08-14|2024-01-27|
-|44|[githubnext/monaspace](https://github.com/githubnext/monaspace)|An innovative superfamily of fonts for code|13467|TypeScript|2024-07-15|2023-09-25|
-|45|[THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)|ChatGLM3 series: Open Bilingual Chat LLMs   开源双语对话语言模型|13250|Python|2024-07-10|2023-10-26|
-|46|[SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)|Draw a mockup and generate html for it|13131|TypeScript|2024-07-18|2023-11-07|
-|47|[jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)|All the resources you need to get to Senior Engineer and beyond|12518|-|2024-08-12|2023-11-24|
-|48|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI|12299|TypeScript|2024-08-14|2024-04-09|
-|49|[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)|SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.|12278|Python|2024-08-13|2024-04-02|
-|50|[state-spaces/mamba](https://github.com/state-spaces/mamba)|Mamba SSM architecture|12123|Python|2024-08-12|2023-12-01|
-|51|[naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)|llama3 implementation one matrix multiplication at a time|11800|Jupyter Notebook|2024-05-23|2024-05-19|
-|52|[louislam/dockge](https://github.com/louislam/dockge)|A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager|11368|TypeScript|2024-08-11|2023-10-23|
-|53|[cpacker/MemGPT](https://github.com/cpacker/MemGPT)|Create LLM agents with long-term memory and custom tools 📚🦙|11120|Python|2024-08-14|2023-10-11|
-|54|[PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.|11118|Python|2024-08-14|2024-02-20|
-|55|[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)|Question and Answer based on Anything.|11048|Python|2024-08-14|2024-01-03|
-|56|[InstantID/InstantID](https://github.com/InstantID/InstantID)|InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥|10704|Python|2024-07-18|2023-12-11|
-|57|[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)|MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone|10361|Python|2024-08-14|2024-01-29|
-|58|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10343|MATLAB|2024-08-05|2024-07-08|
-|59|[magic-research/magic-animate](https://github.com/magic-research/magic-animate)|[CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|10295|Python|2024-06-21|2023-11-21|
-|60|[plandex-ai/plandex](https://github.com/plandex-ai/plandex)|AI driven development in your terminal. Designed for large, real-world tasks.|10231|Go|2024-08-14|2023-10-24|
-|61|[apple/pkl](https://github.com/apple/pkl)|A configuration as code language with rich validation and tooling.|10027|Java|2024-08-14|2024-01-19|
-|62|[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)|Bring portraits to life!|9989|Python|2024-08-13|2024-07-03|
-|63|[microsoft/garnet](https://github.com/microsoft/garnet)|Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature ...|9945|C#|2024-08-14|2023-08-21|
-|64|[FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)|Automate Creation of YouTube Shorts using MoviePy.|9939|Python|2024-07-13|2024-01-31|
-|65|[stanford-oval/storm](https://github.com/stanford-oval/storm)|An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.|9635|Python|2024-08-13|2024-03-24|
-|66|[VikParuchuri/surya](https://github.com/VikParuchuri/surya)|OCR, layout analysis, reading order, line detection in 90+ languages|9480|Python|2024-08-14|2024-01-10|
-|67|[shardeum/shardeum](https://github.com/shardeum/shardeum)|Shardeum is an EVM based autoscaling blockchain|9473|TypeScript|2024-08-14|2024-04-16|
-|68|[mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)|Official inference library for Mistral models|9414|Jupyter Notebook|2024-08-13|2023-09-27|
-|69|[cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)|StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation|9388|Python|2024-07-25|2023-11-28|
-|70|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux|9386|Go|2024-06-12|2023-12-13|
-|71|[aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)|Convert Github Copilot to ChatGPT|9176|Go|2024-03-18|2023-11-08|
-|72|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker [CVPR 2024]|9140|Jupyter Notebook|2024-08-14|2023-12-06|
-|73|[mendableai/firecrawl](https://github.com/mendableai/firecrawl)|🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.|8964|TypeScript|2024-08-14|2024-04-15|
-|74|[karpathy/minbpe](https://github.com/karpathy/minbpe)|Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.|8872|Python|2024-07-01|2024-02-16|
-|75|[THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)|YOLOv10: Real-Time End-to-End Object Detection|8832|Python|2024-08-08|2024-05-23|
-|76|[atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop)|Fast drag and drop for any experience on any tech stack|8813|TypeScript|2024-08-14|2024-02-04|
-|77|[BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)|Print-friendly, minimalist CV page|8778|TypeScript|2024-07-11|2023-12-23|
-|78|[mihonapp/mihon](https://github.com/mihonapp/mihon)|Free and open source manga reader for Android|8703|Kotlin|2024-08-14|2024-01-15|
-|79|[OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable multimodal models to operate a computer.|8465|Python|2024-08-02|2023-11-04|
-|80|[dataelement/bisheng](https://github.com/dataelement/bisheng)|Bisheng is an open LLM devops platform for next generation AI applications.|8461|Python|2024-08-14|2023-08-28|
-|81|[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)|FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult ...|8382|Python|2024-04-18|2024-04-05|
-|82|[vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)|该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.|8333|Python|2024-06-25|2023-08-23|
-|83|[microsoft/inshellisense](https://github.com/microsoft/inshellisense)|IDE style command line auto complete|8281|TypeScript|2024-06-21|2023-10-08|
-|84|[fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo)|Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation|8060|Python|2024-07-04|2024-06-12|
-|85|[pydantic/FastUI](https://github.com/pydantic/FastUI)|Build better UIs faster.|7975|Python|2024-08-14|2023-09-18|
-|86|[OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)|An Autonomous LLM Agent for Complex Task Solving|7953|Python|2024-08-12|2023-10-16|
-|87|[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl ...|7911|C++|2024-08-14|2023-08-16|
-|88|[awslabs/llrt](https://github.com/awslabs/llrt)|LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.|7894|JavaScript|2024-08-14|2023-09-20|
-|89|[LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|7876|Rust|2024-08-14|2023-11-10|
-|90|[keiyoushi/extensions](https://github.com/keiyoushi/extensions)|Source extensions for the Mihon/Tachiyomi app.|7805|HTML|2024-08-14|2024-01-08|
-|91|[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)|High-speed Large Language Model Serving on PCs with Consumer-grade GPUs|7771|C++|2024-07-15|2023-12-15|
-|92|[rolldown/rolldown](https://github.com/rolldown/rolldown)|Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.|7682|Rust|2024-08-14|2023-09-18|
-|93|[google/magika](https://github.com/google/magika)|Detect file content types with deep learning|7649|Rust|2024-08-12|2023-08-22|
-|94|[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)|Building a quick conversation-based search demo with Lepton AI.|7639|TypeScript|2024-07-10|2024-01-23|
-|95|[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)|The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.|7494|Python|2024-05-03|2023-09-02|
-|96|[microsoft/UFO](https://github.com/microsoft/UFO)|A UI-Focused Agent for Windows OS Interaction.|7453|Python|2024-08-14|2024-01-08|
-|97|[black-forest-labs/flux](https://github.com/black-forest-labs/flux)|Official inference repo for FLUX.1 models|7370|Python|2024-08-14|2024-08-01|
-|98|[jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)|Zero-Shot Speech Editing and Text-to-Speech in the Wild|7333|Jupyter Notebook|2024-06-24|2024-03-12|
-|99|[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|7317|-|2024-08-06|2024-02-27|
-|100|[Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer)|Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil ...|7195|Python|2024-08-14|2024-06-24|
-|101|[daytonaio/daytona](https://github.com/daytonaio/daytona)|The Open Source Dev Environment Manager.|7155|Go|2024-08-14|2024-02-06|
-|102|[Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)|-|7123|Jupyter Notebook|2024-06-16|2023-10-10|
-|103|[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)|Brand new TTS solution|7099|Python|2024-08-13|2023-10-10|
-|104|[lllyasviel/Omost](https://github.com/lllyasviel/Omost)|Your image is almost there!|7086|Python|2024-07-26|2024-05-29|
-|105|[glanceapp/glance](https://github.com/glanceapp/glance)|A self-hosted dashboard that puts all your feeds in one place|7078|Go|2024-08-12|2024-04-27|
-|106|[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)|EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine|7056|Python|2024-08-13|2023-11-08|
-|107|[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)|-|7044|Python|2024-08-12|2024-02-08|
-|108|[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频|6906|Python|2024-08-02|2023-11-19|
-|109|[hiteshchoudhary/chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react)|chai aur react series on youtube|6897|JavaScript|2024-08-12|2023-08-17|
-|110|[apple/corenet](https://github.com/apple/corenet)|CoreNet: A library for training deep neural networks|6877|Python|2024-05-28|2024-04-18|
-|111|[QwenLM/Qwen2](https://github.com/QwenLM/Qwen2)|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|6868|Shell|2024-08-10|2024-02-05|
-|112|[goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)|Script to get your site indexed on Google in less than 48 hours|6820|TypeScript|2024-07-08|2024-01-21|
-|113|[wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)|A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.|6810|TypeScript|2024-08-14|2023-12-01|
-|114|[reorproject/reor](https://github.com/reorproject/reor)|Private & local AI personal knowledge management app.|6705|TypeScript|2024-08-14|2023-11-27|
-|115|[LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation|6633|Python|2024-07-17|2024-01-22|
-|116|[Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)|Official Code for Stable Cascade|6492|Jupyter Notebook|2024-07-25|2024-01-25|
-|117|[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)|Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.|6482|TypeScript|2024-08-08|2023-09-13|
-|118|[xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)|GUI Tool To Removes Ads From Various Places Around Windows 11|6473|C#|2024-05-24|2024-04-30|
-|119|[krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)|-|6432|Python|2024-08-04|2023-09-19|
-|120|[mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)|[ICLR 2024] Efficient Streaming Language Models with Attention Sinks|6422|Python|2024-07-11|2023-09-29|
-|121|[langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)|-|6381|Rich Text Format|2024-07-31|2023-11-04|
-|122|[deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|DeepSeek Coder: Let the Code Write Itself|6321|Python|2024-05-21|2023-10-20|
-|123|[electric-sql/pglite](https://github.com/electric-sql/pglite)|Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com|6278|PLpgSQL|2024-08-14|2024-02-19|
-|124|[heyform/heyform](https://github.com/heyform/heyform)|HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.|6241|TypeScript|2024-08-09|2024-03-20|
-|125|[run-llama/rags](https://github.com/run-llama/rags)|Build ChatGPT over your data, all with natural language|6146|Python|2024-04-05|2023-11-16|
-|126|[modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)|Enjoy the magic of Diffusion models!|6129|Python|2024-08-14|2023-12-07|
-|127|[lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)|-|6074|Python|2024-08-14|2024-01-14|
-|128|[Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)|Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.|6055|Python|2024-08-10|2023-09-01|
-|129|[jina-ai/reader](https://github.com/jina-ai/reader)|Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/|6037|TypeScript|2024-08-09|2024-04-10|
-|130|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|6029|C|2024-08-13|2023-12-24|
-|131|[TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)| The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection|5992|JavaScript|2024-08-02|2023-10-08|
-|132|[TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)|The open source platform for AI-native application development.|5967|Python|2024-08-14|2024-01-08|
-|133|[nuejs/nue](https://github.com/nuejs/nue)|A web framework for UX developers|5945|JavaScript|2024-08-14|2023-09-13|
-|134|[gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)|1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java|5929|Java|2024-04-23|2023-12-28|
-|135|[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|Autoupdate iptv sources|5874|TypeScript|2024-08-14|2023-11-25|
-|136|[google/gemma.cpp](https://github.com/google/gemma.cpp)|lightweight, standalone C++ inference engine for Google's Gemma models.|5868|C++|2024-08-13|2024-02-13|
-|137|[lencx/Noi](https://github.com/lencx/Noi)|🚀 Power Your World with AI - Explore, Extend, Empower.|5811|JavaScript|2024-05-28|2023-10-16|
-|138|[THUDM/CogVLM](https://github.com/THUDM/CogVLM)|a state-of-the-art-level open visual language model   多模态预训练模型|5764|Python|2024-05-29|2023-09-18|
-|139|[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)|Create Magic Story!|5656|Jupyter Notebook|2024-07-24|2024-04-21|
-|140|[jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! ...|5651|Vue|2024-08-14|2023-11-22|
-|141|[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)|A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.|5632|TypeScript|2024-08-14|2023-08-23|
-|142|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|Automate browser-based workflows with LLMs and Computer Vision|5620|Python|2024-08-14|2024-02-28|
-|143|[jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)|一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.|5588|Python|2024-08-09|2024-05-30|
-|144|[exo-explore/exo](https://github.com/exo-explore/exo)|Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚|5572|Python|2024-08-14|2024-06-24|
-|145|[miurla/morphic](https://github.com/miurla/morphic)|An AI-powered search engine with a generative UI|5494|TypeScript|2024-08-13|2024-04-05|
-|146|[nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)|LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o ...|5468|Go|2024-06-03|2024-03-23|
-|147|[HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone)|Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person|5454|-|2024-07-26|2023-12-12|
-|148|[Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)|High-quality PNGs for logos I made for fun |5452|CSS|2024-06-03|2024-04-18|
-|149|[pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)|Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.|5449|Python|2024-08-01|2023-10-17|
-|150|[scalar/scalar](https://github.com/scalar/scalar)|Beautiful API references from OpenAPI/Swagger files ✨|5402|TypeScript|2024-08-14|2023-08-16|
-|151|[sczhou/ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|5326|Python|2024-04-17|2023-09-01|
-|152|[microsoft/promptbase](https://github.com/microsoft/promptbase)|All things prompt engineering|5304|Python|2024-06-04|2023-12-12|
-|153|[levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)|Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on|5285|Python|2024-05-13|2024-01-24|
-|154|[yorukot/superfile](https://github.com/yorukot/superfile)|Pretty fancy and modern terminal file manager|5263|Go|2024-08-14|2024-03-19|
-|155|[Dokploy/dokploy](https://github.com/Dokploy/dokploy)|Open Source Alternative to Vercel, Netlify and Heroku.|5237|TypeScript|2024-08-14|2024-04-19|
-|156|[google/gemma_pytorch](https://github.com/google/gemma_pytorch)|The official PyTorch implementation of Google's Gemma models|5221|Python|2024-07-31|2024-02-20|
-|157|[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)|Large Action Model framework to develop AI Web Agents|5200|Python|2024-08-14|2024-02-26|
-|158|[Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)|Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)|5179|C|2024-08-14|2023-10-23|
-|159|[dotnet/eShop](https://github.com/dotnet/eShop)|A reference .NET application implementing an eCommerce site|5124|C#|2024-08-12|2023-10-18|
-|160|[microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)|A code-first agent framework for seamlessly planning and executing data analytics tasks. |5101|Python|2024-07-26|2023-09-11|
-|161|[Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)|Intelligence development framework in python for your product like Apple Intelligence|5031|Python|2024-08-14|2024-05-26|
-|162|[google/mesop](https://github.com/google/mesop)|Rapidly build AI apps in Python|5027|Python|2024-08-14|2023-10-13|
-|163|[ComposioHQ/composio](https://github.com/ComposioHQ/composio)|Composio equips agents with well-crafted tools empowering them to tackle complex tasks|5006|Python|2024-08-14|2024-02-23|
-|164|[OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL)|[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的可商用开源多模态对话模型|5006|Python|2024-08-14|2023-11-22|
-|165|[ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)|a research paper for generative cartoon interpolation|5000|Python|2024-06-01|2024-05-28|
-|166|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4925|Rust|2024-08-13|2024-02-01|
-|167|[naver/dust3r](https://github.com/naver/dust3r)|DUSt3R: Geometric 3D Vision Made Easy|4857|Python|2024-08-10|2024-02-21|
-|168|[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)|📷 EasyPhoto   Your Smart AI Photo Generator.|4857|Python|2024-07-10|2023-08-28|
-|169|[OpenInterpreter/01](https://github.com/OpenInterpreter/01)|The open-source language model computer|4809|Python|2024-08-08|2024-01-11|
-|170|[tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)|The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. |4800|Jupyter Notebook|2024-06-28|2023-08-16|
-|171|[lxfater/inpaint-web](https://github.com/lxfater/inpaint-web)|A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。    基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。|4799|TypeScript|2024-07-16|2023-11-18|
-|172|[mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)|AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|4780|Python|2024-08-08|2023-12-20|
-|173|[vikhyat/moondream](https://github.com/vikhyat/moondream)|tiny vision language model|4744|Jupyter Notebook|2024-08-14|2023-12-29|
-|174|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4723|Rust|2024-08-13|2024-03-18|
-|175|[iyaja/llama-fs](https://github.com/iyaja/llama-fs)|A self-organizing file system with llama 3|4711|Jupyter Notebook|2024-08-09|2024-05-11|
-|176|[adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse)|Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks|4683|Python|2024-08-03|2024-06-04|
-|177|[GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)|Install and run your own AI agent service|4677|Shell|2024-08-14|2024-03-06|
-|178|[bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)|Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux|4654|TypeScript|2024-08-13|2024-04-11|
-|179|[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)|More relighting!|4627|Python|2024-06-27|2024-05-07|
-|180|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforming Llama2-13B.|4608|Python|2024-07-31|2024-01-29|
-|181|[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)|Single Image to 3D using Cross-Domain Diffusion for 3D Generation|4603|Python|2024-06-01|2023-10-14|
-|182|[QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL)|The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.|4548|Python|2024-08-07|2023-08-21|
-|183|[Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)|One UI is all done with chatgpt web, midjourney, gpts,suno-v3,luma,runway; Simultaneous support  Web / PWA / Linux / Win / MacOS platform|4535|JavaScript|2024-08-14|2023-11-19|
-|184|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)|Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper|4441|TypeScript|2024-08-10|2024-03-07|
-|185|[modelscope/agentscope](https://github.com/modelscope/agentscope)|Start building LLM-empowered multi-agent applications in an easier way.|4441|Python|2024-08-14|2024-01-12|
-|186|[Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait)|AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation|4408|Python|2024-07-02|2024-03-22|
-|187|[hiteshchoudhary/chai-backend](https://github.com/hiteshchoudhary/chai-backend)|A video series on chai aur code youtube channel|4398|JavaScript|2024-08-09|2023-11-01|
-|188|[InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)|16-bit CPU for Excel, and related files|4396|Python|2024-05-20|2024-01-27|
-|189|[open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio,  ...|4375|Python|2024-08-04|2023-11-15|
-|190|[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)|-|4371|Python|2024-08-04|2024-05-13|
-|191|[llmware-ai/llmware](https://github.com/llmware-ai/llmware)|Unified framework for building enterprise RAG pipelines with small, specialized models|4353|Python|2024-08-13|2023-09-29|
-|192|[moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant)|崩坏：星穹铁道全自动 三月七小助手|4349|Python|2024-08-14|2023-08-18|
-|193|[huggingface/alignment-handbook](https://github.com/huggingface/alignment-handbook)|Robust recipes to align language models with human and AI preferences|4342|Python|2024-08-08|2023-08-25|
-|194|[cbh123/narrator](https://github.com/cbh123/narrator)|David Attenborough narrates your life|4334|Python|2024-07-22|2023-11-14|
-|195|[arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)|Tools for merging pretrained large language models.|4321|Python|2024-08-11|2023-08-21|
-|196|[Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)|-|4302|JavaScript|2024-07-14|2024-01-22|
-|197|[chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)|Fix Play Integrity (and SafetyNet) verdicts.|4278|C++|2024-08-13|2023-10-05|
-|198|[toss/es-toolkit](https://github.com/toss/es-toolkit)|A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.|4246|TypeScript|2024-08-12|2024-04-25|
-|199|[luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)|Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference|4244|Python|2024-06-14|2023-10-06|
-|200|[babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat)|Minimal web UI for GeminiPro.|4228|TypeScript|2024-06-23|2023-12-14|
+|1|[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|55565|Python|2024-08-05|2023-11-14|
+|2|[xai-org/grok-1](https://github.com/xai-org/grok-1)|Grok open release|49294|Python|2024-08-07|2024-03-17|
+|3|[open-webui/open-webui](https://github.com/open-webui/open-webui)|User-friendly WebUI for LLMs (Formerly Ollama WebUI)|35679|Svelte|2024-08-15|2023-10-06|
+|4|[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1 min voice data can also be used to train a good TTS model! (few shot voice cloning)|30998|Python|2024-08-15|2024-01-14|
+|5|[OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)|🐚 OpenDevin: Code Less, Make More|30018|Python|2024-08-15|2024-03-13|
+|6|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)|29693|TypeScript|2024-08-07|2023-11-21|
+|7|[2noise/ChatTTS](https://github.com/2noise/ChatTTS)|A generative speech model for daily dialogue.|29267|Python|2024-08-14|2024-05-27|
+|8|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|29123|Ruby|2024-08-15|2024-01-01|
+|9|[linexjlin/GPTs](https://github.com/linexjlin/GPTs)|leaked prompts of GPTs|28047|-|2024-07-09|2023-11-11|
+|10|[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MyShell.|27941|Python|2024-07-23|2023-11-29|
+|11|[karpathy/LLM101n](https://github.com/karpathy/LLM101n)|LLM101n: Let's build a Storyteller|26968|-|2024-08-01|2024-05-27|
+|12|[meta-llama/llama3](https://github.com/meta-llama/llama3)|The official Meta Llama 3 GitHub site|25512|Python|2024-08-12|2024-03-15|
+|13|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|24818|Shell|2024-08-15|2023-08-28|
+|14|[HeyPuter/puter](https://github.com/HeyPuter/puter)|🌐 The Internet OS! Free, Open-Source, and Self-Hostable.|23357|JavaScript|2024-08-15|2024-03-03|
+|15|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|real time face swap and one-click video deepfake with only a single image|23052|Python|2024-08-15|2023-09-24|
+|16|[karpathy/llm.c](https://github.com/karpathy/llm.c)|LLM training in simple, raw C/CUDA|22649|Cuda|2024-08-14|2024-04-08|
+|17|[janhq/jan](https://github.com/janhq/jan)|Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)|21472|TypeScript|2024-08-15|2023-08-17|
+|18|[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)|Open-Sora: Democratizing Efficient Video Production for All|21227|Python|2024-08-09|2024-02-20|
+|19|[danielmiessler/fabric](https://github.com/danielmiessler/fabric)|fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.|20346|Python|2024-08-14|2024-01-03|
+|20|[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)|Crawl a site to generate knowledge files to create your own custom GPT from a URL|18357|TypeScript|2024-08-09|2023-11-14|
+|21|[Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)|Distribute and run LLMs with a single file.|18357|C++|2024-08-13|2023-09-10|
+|22|[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|18281|Python|2024-08-15|2023-10-27|
+|23|[stitionai/devika](https://github.com/stitionai/devika)|Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D ...|18122|Python|2024-08-08|2024-03-21|
+|24|[wandb/openui](https://github.com/wandb/openui)|OpenUI let's you describe UI using your imagination, then see it rendered live.|18107|TypeScript|2024-07-21|2024-03-17|
+|25|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|Truly independent web browser|17750|C++|2024-08-15|2024-05-30|
+|26|[facefusion/facefusion](https://github.com/facefusion/facefusion)|Next generation face swapper and enhancer|17248|Python|2024-08-15|2023-08-17|
+|27|[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)|A massively parallel, high-level programming language|17039|Rust|2024-08-15|2023-08-29|
+|28|[dockur/windows](https://github.com/dockur/windows)|Windows inside a Docker container.|16342|Shell|2024-08-13|2024-01-14|
+|29|[ml-explore/mlx](https://github.com/ml-explore/mlx)|MLX: An array framework for Apple silicon|16165|C++|2024-08-15|2023-11-28|
+|30|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package installer and resolver, written in Rust.|15940|Rust|2024-08-15|2023-10-02|
+|31|[meta-llama/codellama](https://github.com/meta-llama/codellama)|Inference code for CodeLlama models|15771|Python|2024-08-12|2023-08-24|
+|32|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.|15625|Python|2024-07-26|2024-03-11|
+|33|[VikParuchuri/marker](https://github.com/VikParuchuri/marker)|Convert PDF to markdown quickly with high accuracy|15517|Python|2024-08-14|2023-10-30|
+|34|[valkey-io/valkey](https://github.com/valkey-io/valkey)|A flexible distributed key-value datastore that supports both caching and beyond caching workloads.|15100|C|2024-08-15|2024-03-22|
+|35|[microsoft/graphrag](https://github.com/microsoft/graphrag)|A modular graph-based Retrieval-Augmented Generation (RAG) system|14781|Python|2024-08-15|2024-03-27|
+|36|[unslothai/unsloth](https://github.com/unslothai/unsloth)|Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory|14282|Python|2024-08-15|2023-11-29|
+|37|[conductor-oss/conductor](https://github.com/conductor-oss/conductor)|Conductor is an event driven orchestration platform|14243|Java|2024-08-12|2023-12-08|
+|38|[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)|Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation|14213|-|2024-07-26|2023-11-28|
+|39|[infiniflow/ragflow](https://github.com/infiniflow/ragflow)|RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.|14118|Python|2024-08-15|2023-12-12|
+|40|[KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)|Kolmogorov Arnold Networks|14094|Jupyter Notebook|2024-08-11|2024-04-27|
+|41|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)|Python scraper based on AI|13845|Python|2024-08-15|2024-01-27|
+|42|[githubnext/monaspace](https://github.com/githubnext/monaspace)|An innovative superfamily of fonts for code|13478|TypeScript|2024-07-15|2023-09-25|
+|43|[THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)|ChatGLM3 series: Open Bilingual Chat LLMs   开源双语对话语言模型|13253|Python|2024-07-10|2023-10-26|
+|44|[SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)|Draw a mockup and generate html for it|13129|TypeScript|2024-07-18|2023-11-07|
+|45|[jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)|All the resources you need to get to Senior Engineer and beyond|12524|-|2024-08-12|2023-11-24|
+|46|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI|12322|TypeScript|2024-08-14|2024-04-09|
+|47|[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)|SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.|12292|Python|2024-08-15|2024-04-02|
+|48|[state-spaces/mamba](https://github.com/state-spaces/mamba)|Mamba SSM architecture|12140|Python|2024-08-15|2023-12-01|
+|49|[naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)|llama3 implementation one matrix multiplication at a time|11806|Jupyter Notebook|2024-05-23|2024-05-19|
+|50|[louislam/dockge](https://github.com/louislam/dockge)|A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager|11383|TypeScript|2024-08-11|2023-10-23|
+|51|[cpacker/MemGPT](https://github.com/cpacker/MemGPT)|Create LLM agents with long-term memory and custom tools 📚🦙|11133|Python|2024-08-15|2023-10-11|
+|52|[PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.|11123|Python|2024-08-14|2024-02-20|
+|53|[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)|Question and Answer based on Anything.|11059|Python|2024-08-15|2024-01-03|
+|54|[InstantID/InstantID](https://github.com/InstantID/InstantID)|InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥|10712|Python|2024-07-18|2023-12-11|
+|55|[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)|MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone|10477|Python|2024-08-15|2024-01-29|
+|56|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10345|MATLAB|2024-08-05|2024-07-08|
+|57|[magic-research/magic-animate](https://github.com/magic-research/magic-animate)|[CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|10297|Python|2024-06-21|2023-11-21|
+|58|[plandex-ai/plandex](https://github.com/plandex-ai/plandex)|AI driven development in your terminal. Designed for large, real-world tasks.|10238|Go|2024-08-15|2023-10-24|
+|59|[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)|Bring portraits to life!|10033|Python|2024-08-14|2024-07-03|
+|60|[apple/pkl](https://github.com/apple/pkl)|A configuration as code language with rich validation and tooling.|10030|Java|2024-08-14|2024-01-19|
+|61|[shardeum/shardeum](https://github.com/shardeum/shardeum)|Shardeum is an EVM based autoscaling blockchain|9972|TypeScript|2024-08-15|2024-04-16|
+|62|[microsoft/garnet](https://github.com/microsoft/garnet)|Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature ...|9952|C#|2024-08-15|2023-08-21|
+|63|[FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)|Automate Creation of YouTube Shorts using MoviePy.|9943|Python|2024-07-13|2024-01-31|
+|64|[stanford-oval/storm](https://github.com/stanford-oval/storm)|An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.|9696|Python|2024-08-15|2024-03-24|
+|65|[VikParuchuri/surya](https://github.com/VikParuchuri/surya)|OCR, layout analysis, reading order, line detection in 90+ languages|9490|Python|2024-08-14|2024-01-10|
+|66|[mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)|Official inference library for Mistral models|9419|Jupyter Notebook|2024-08-13|2023-09-27|
+|67|[cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)|StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation|9390|Python|2024-07-25|2023-11-28|
+|68|[apernet/OpenGFW](https://github.com/apernet/OpenGFW)|OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux|9387|Go|2024-06-12|2023-12-13|
+|69|[aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)|Convert Github Copilot to ChatGPT|9176|Go|2024-03-18|2023-11-08|
+|70|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker [CVPR 2024]|9152|Jupyter Notebook|2024-08-15|2023-12-06|
+|71|[mendableai/firecrawl](https://github.com/mendableai/firecrawl)|🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.|8983|TypeScript|2024-08-15|2024-04-15|
+|72|[karpathy/minbpe](https://github.com/karpathy/minbpe)|Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.|8874|Python|2024-07-01|2024-02-16|
+|73|[THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)|YOLOv10: Real-Time End-to-End Object Detection|8849|Python|2024-08-08|2024-05-23|
+|74|[atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop)|Fast drag and drop for any experience on any tech stack|8830|TypeScript|2024-08-15|2024-02-04|
+|75|[BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)|Print-friendly, minimalist CV page|8783|TypeScript|2024-07-11|2023-12-23|
+|76|[mihonapp/mihon](https://github.com/mihonapp/mihon)|Free and open source manga reader for Android|8718|Kotlin|2024-08-14|2024-01-15|
+|77|[OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable multimodal models to operate a computer.|8470|Python|2024-08-02|2023-11-04|
+|78|[dataelement/bisheng](https://github.com/dataelement/bisheng)|Bisheng is an open LLM devops platform for next generation AI applications.|8463|Python|2024-08-15|2023-08-28|
+|79|[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)|FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult ...|8387|Python|2024-04-18|2024-04-05|
+|80|[vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)|该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.|8331|Python|2024-06-25|2023-08-23|
+|81|[microsoft/inshellisense](https://github.com/microsoft/inshellisense)|IDE style command line auto complete|8284|TypeScript|2024-06-21|2023-10-08|
+|82|[fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo)|Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation|8107|Python|2024-07-04|2024-06-12|
+|83|[pydantic/FastUI](https://github.com/pydantic/FastUI)|Build better UIs faster.|7981|Python|2024-08-14|2023-09-18|
+|84|[OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)|An Autonomous LLM Agent for Complex Task Solving|7959|Python|2024-08-12|2023-10-16|
+|85|[LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|7916|Rust|2024-08-15|2023-11-10|
+|86|[awslabs/llrt](https://github.com/awslabs/llrt)|LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.|7894|JavaScript|2024-08-15|2023-09-20|
+|87|[keiyoushi/extensions](https://github.com/keiyoushi/extensions)|Source extensions for the Mihon/Tachiyomi app.|7820|HTML|2024-08-15|2024-01-08|
+|88|[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)|High-speed Large Language Model Serving on PCs with Consumer-grade GPUs|7774|C++|2024-07-15|2023-12-15|
+|89|[rolldown/rolldown](https://github.com/rolldown/rolldown)|Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.|7695|Rust|2024-08-15|2023-09-18|
+|90|[google/magika](https://github.com/google/magika)|Detect file content types with deep learning|7650|Rust|2024-08-12|2023-08-22|
+|91|[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)|Building a quick conversation-based search demo with Lepton AI.|7646|TypeScript|2024-07-10|2024-01-23|
+|92|[black-forest-labs/flux](https://github.com/black-forest-labs/flux)|Official inference repo for FLUX.1 models|7631|Python|2024-08-14|2024-08-01|
+|93|[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)|The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.|7496|Python|2024-05-03|2023-09-02|
+|94|[microsoft/UFO](https://github.com/microsoft/UFO)|A UI-Focused Agent for Windows OS Interaction.|7460|Python|2024-08-14|2024-01-08|
+|95|[jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)|Zero-Shot Speech Editing and Text-to-Speech in the Wild|7340|Jupyter Notebook|2024-06-24|2024-03-12|
+|96|[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|7323|-|2024-08-06|2024-02-27|
+|97|[Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer)|Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil ...|7215|Python|2024-08-14|2024-06-24|
+|98|[daytonaio/daytona](https://github.com/daytonaio/daytona)|The Open Source Dev Environment Manager.|7155|Go|2024-08-15|2024-02-06|
+|99|[Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)|-|7127|Jupyter Notebook|2024-06-16|2023-10-10|
+|100|[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)|Brand new TTS solution|7114|Python|2024-08-15|2023-10-10|
+|101|[lllyasviel/Omost](https://github.com/lllyasviel/Omost)|Your image is almost there!|7086|Python|2024-07-26|2024-05-29|
+|102|[glanceapp/glance](https://github.com/glanceapp/glance)|A self-hosted dashboard that puts all your feeds in one place|7084|Go|2024-08-15|2024-04-27|
+|103|[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)|EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine|7064|Python|2024-08-13|2023-11-08|
+|104|[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)|-|7044|Python|2024-08-12|2024-02-08|
+|105|[hiteshchoudhary/chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react)|chai aur react series on youtube|6921|JavaScript|2024-08-12|2023-08-17|
+|106|[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频|6913|Python|2024-08-02|2023-11-19|
+|107|[QwenLM/Qwen2](https://github.com/QwenLM/Qwen2)|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|6889|Shell|2024-08-15|2024-02-05|
+|108|[apple/corenet](https://github.com/apple/corenet)|CoreNet: A library for training deep neural networks|6878|Python|2024-05-28|2024-04-18|
+|109|[goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)|Script to get your site indexed on Google in less than 48 hours|6822|TypeScript|2024-07-08|2024-01-21|
+|110|[wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)|A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.|6817|TypeScript|2024-08-15|2023-12-01|
+|111|[reorproject/reor](https://github.com/reorproject/reor)|Private & local AI personal knowledge management app.|6708|TypeScript|2024-08-14|2023-11-27|
+|112|[LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation|6636|Python|2024-07-17|2024-01-22|
+|113|[electric-sql/pglite](https://github.com/electric-sql/pglite)|Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com|6623|PLpgSQL|2024-08-15|2024-02-19|
+|114|[Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)|Official Code for Stable Cascade|6493|Jupyter Notebook|2024-07-25|2024-01-25|
+|115|[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)|Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.|6485|TypeScript|2024-08-08|2023-09-13|
+|116|[xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)|GUI Tool To Removes Ads From Various Places Around Windows 11|6476|C#|2024-05-24|2024-04-30|
+|117|[krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)|-|6439|Python|2024-08-04|2023-09-19|
+|118|[mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)|[ICLR 2024] Efficient Streaming Language Models with Attention Sinks|6424|Python|2024-07-11|2023-09-29|
+|119|[langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)|-|6383|Rich Text Format|2024-07-31|2023-11-04|
+|120|[deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|DeepSeek Coder: Let the Code Write Itself|6331|Python|2024-05-21|2023-10-20|
+|121|[heyform/heyform](https://github.com/heyform/heyform)|HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.|6247|TypeScript|2024-08-09|2024-03-20|
+|122|[lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)|-|6150|Python|2024-08-15|2024-01-14|
+|123|[run-llama/rags](https://github.com/run-llama/rags)|Build ChatGPT over your data, all with natural language|6150|Python|2024-04-05|2023-11-16|
+|124|[modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)|Enjoy the magic of Diffusion models!|6133|Python|2024-08-14|2023-12-07|
+|125|[Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)|Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.|6065|Python|2024-08-14|2023-09-01|
+|126|[jina-ai/reader](https://github.com/jina-ai/reader)|Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/|6046|TypeScript|2024-08-09|2024-04-10|
+|127|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|6028|C|2024-08-13|2023-12-24|
+|128|[TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)| The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection|5996|JavaScript|2024-08-02|2023-10-08|
+|129|[TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)|The open source platform for AI-native application development.|5968|Python|2024-08-15|2024-01-08|
+|130|[nuejs/nue](https://github.com/nuejs/nue)|A web framework for UX developers|5957|JavaScript|2024-08-15|2023-09-13|
+|131|[gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)|1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java|5942|Java|2024-04-23|2023-12-28|
+|132|[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|Autoupdate iptv sources|5880|TypeScript|2024-08-15|2023-11-25|
+|133|[google/gemma.cpp](https://github.com/google/gemma.cpp)|lightweight, standalone C++ inference engine for Google's Gemma models.|5871|C++|2024-08-15|2024-02-13|
+|134|[lencx/Noi](https://github.com/lencx/Noi)|🚀 Power Your World with AI - Explore, Extend, Empower.|5817|JavaScript|2024-05-28|2023-10-16|
+|135|[THUDM/CogVLM](https://github.com/THUDM/CogVLM)|a state-of-the-art-level open visual language model   多模态预训练模型|5765|Python|2024-05-29|2023-09-18|
+|136|[jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! ...|5663|Vue|2024-08-14|2023-11-22|
+|137|[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)|Create Magic Story!|5660|Jupyter Notebook|2024-07-24|2024-04-21|
+|138|[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)|A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.|5656|TypeScript|2024-08-15|2023-08-23|
+|139|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|Automate browser-based workflows with LLMs and Computer Vision|5624|Python|2024-08-15|2024-02-28|
+|140|[jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)|一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.|5600|Python|2024-08-09|2024-05-30|
+|141|[exo-explore/exo](https://github.com/exo-explore/exo)|Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚|5583|Python|2024-08-14|2024-06-24|
+|142|[miurla/morphic](https://github.com/miurla/morphic)|An AI-powered search engine with a generative UI|5509|TypeScript|2024-08-15|2024-04-05|
+|143|[nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)|LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o ...|5469|Go|2024-06-03|2024-03-23|
+|144|[HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone)|Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person|5455|-|2024-07-26|2023-12-12|
+|145|[Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)|High-quality PNGs for logos I made for fun |5454|CSS|2024-06-03|2024-04-18|
+|146|[pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)|Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.|5452|Python|2024-08-14|2023-10-17|
+|147|[sczhou/ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|5332|Python|2024-04-17|2023-09-01|
+|148|[microsoft/promptbase](https://github.com/microsoft/promptbase)|All things prompt engineering|5305|Python|2024-06-04|2023-12-12|
+|149|[levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)|Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on|5288|Python|2024-05-13|2024-01-24|
+|150|[yorukot/superfile](https://github.com/yorukot/superfile)|Pretty fancy and modern terminal file manager|5268|Go|2024-08-15|2024-03-19|
+|151|[Dokploy/dokploy](https://github.com/Dokploy/dokploy)|Open Source Alternative to Vercel, Netlify and Heroku.|5267|TypeScript|2024-08-15|2024-04-19|
+|152|[google/gemma_pytorch](https://github.com/google/gemma_pytorch)|The official PyTorch implementation of Google's Gemma models|5222|Python|2024-07-31|2024-02-20|
+|153|[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)|Large Action Model framework to develop AI Web Agents|5205|Python|2024-08-15|2024-02-26|
+|154|[Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)|Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)|5183|C|2024-08-14|2023-10-23|
+|155|[dotnet/eShop](https://github.com/dotnet/eShop)|A reference .NET application implementing an eCommerce site|5142|C#|2024-08-15|2023-10-18|
+|156|[microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)|A code-first agent framework for seamlessly planning and executing data analytics tasks. |5109|Python|2024-08-15|2023-09-11|
+|157|[ComposioHQ/composio](https://github.com/ComposioHQ/composio)|Composio equips agents with well-crafted tools empowering them to tackle complex tasks|5078|Python|2024-08-15|2024-02-23|
+|158|[Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)|Intelligence development framework in python for your product like Apple Intelligence|5044|Python|2024-08-15|2024-05-26|
+|159|[google/mesop](https://github.com/google/mesop)|Rapidly build AI apps in Python|5040|Python|2024-08-15|2023-10-13|
+|160|[OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL)|[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型|5026|Python|2024-08-14|2023-11-22|
+|161|[ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)|a research paper for generative cartoon interpolation|5001|Python|2024-06-01|2024-05-28|
+|162|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4926|Rust|2024-08-13|2024-02-01|
+|163|[naver/dust3r](https://github.com/naver/dust3r)|DUSt3R: Geometric 3D Vision Made Easy|4860|Python|2024-08-10|2024-02-21|
+|164|[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)|📷 EasyPhoto   Your Smart AI Photo Generator.|4857|Python|2024-07-10|2023-08-28|
+|165|[OpenInterpreter/01](https://github.com/OpenInterpreter/01)|The open-source language model computer|4809|Python|2024-08-15|2024-01-11|
+|166|[lxfater/inpaint-web](https://github.com/lxfater/inpaint-web)|A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。    基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。|4800|TypeScript|2024-07-16|2023-11-18|
+|167|[mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)|AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|4783|Python|2024-08-08|2023-12-20|
+|168|[vikhyat/moondream](https://github.com/vikhyat/moondream)|tiny vision language model|4746|Jupyter Notebook|2024-08-15|2023-12-29|
+|169|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4727|Rust|2024-08-15|2024-03-18|
+|170|[iyaja/llama-fs](https://github.com/iyaja/llama-fs)|A self-organizing file system with llama 3|4713|Jupyter Notebook|2024-08-09|2024-05-11|
+|171|[adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse)|Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks|4695|Python|2024-08-03|2024-06-04|
+|172|[GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)|Install and run your own AI agent service|4689|Shell|2024-08-15|2024-03-06|
+|173|[bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)|Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux|4659|TypeScript|2024-08-13|2024-04-11|
+|174|[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)|More relighting!|4640|Python|2024-06-27|2024-05-07|
+|175|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforming Llama2-13B.|4616|Python|2024-07-31|2024-01-29|
+|176|[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)|Single Image to 3D using Cross-Domain Diffusion for 3D Generation|4603|Python|2024-06-01|2023-10-14|
+|177|[QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL)|The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.|4554|Python|2024-08-07|2023-08-21|
+|178|[Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)|One UI is all done with chatgpt web, midjourney, gpts,suno-v3,luma,runway; Simultaneous support  Web / PWA / Linux / Win / MacOS platform|4542|JavaScript|2024-08-15|2023-11-19|
+|179|[modelscope/agentscope](https://github.com/modelscope/agentscope)|Start building LLM-empowered multi-agent applications in an easier way.|4465|Python|2024-08-15|2024-01-12|
+|180|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)|Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper|4445|TypeScript|2024-08-10|2024-03-07|
+|181|[Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait)|AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation|4413|Python|2024-07-02|2024-03-22|
+|182|[hiteshchoudhary/chai-backend](https://github.com/hiteshchoudhary/chai-backend)|A video series on chai aur code youtube channel|4409|JavaScript|2024-08-09|2023-11-01|
+|183|[InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)|16-bit CPU for Excel, and related files|4397|Python|2024-05-20|2024-01-27|
+|184|[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)|-|4383|Python|2024-08-04|2024-05-13|
+|185|[open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio,  ...|4377|Python|2024-08-04|2023-11-15|
+|186|[llmware-ai/llmware](https://github.com/llmware-ai/llmware)|Unified framework for building enterprise RAG pipelines with small, specialized models|4358|Python|2024-08-14|2023-09-29|
+|187|[moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant)|崩坏：星穹铁道全自动 三月七小助手|4357|Python|2024-08-14|2023-08-18|
+|188|[huggingface/alignment-handbook](https://github.com/huggingface/alignment-handbook)|Robust recipes to align language models with human and AI preferences|4351|Python|2024-08-15|2023-08-25|
+|189|[cbh123/narrator](https://github.com/cbh123/narrator)|David Attenborough narrates your life|4334|Python|2024-07-22|2023-11-14|
+|190|[arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)|Tools for merging pretrained large language models.|4330|Python|2024-08-11|2023-08-21|
+|191|[Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)|-|4301|JavaScript|2024-07-14|2024-01-22|
+|192|[chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)|Fix Play Integrity (and SafetyNet) verdicts.|4292|C++|2024-08-13|2023-10-05|
+|193|[toss/es-toolkit](https://github.com/toss/es-toolkit)|A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.|4254|TypeScript|2024-08-15|2024-04-25|
+|194|[luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)|Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference|4244|Python|2024-06-14|2023-10-06|
+|195|[babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat)|Minimal web UI for GeminiPro.|4229|TypeScript|2024-06-23|2023-12-14|
+|196|[myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)|High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.|4226|Python|2024-08-09|2024-02-19|
+|197|[THUDM/GLM-4](https://github.com/THUDM/GLM-4)|GLM-4 series: Open Multilingual Multimodal Chat LMs   开源多语言多模态对话模型|4191|Python|2024-08-15|2024-05-15|
+|198|[VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)|-|4166|Python|2024-05-29|2024-02-07|
+|199|[bagisto/opensource-ecommerce-mobile-app](https://github.com/bagisto/opensource-ecommerce-mobile-app)|This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. |4165|Dart|2024-05-09|2023-10-25|
+|200|[GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)|-|4163|C++|2024-08-02|2024-05-16|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

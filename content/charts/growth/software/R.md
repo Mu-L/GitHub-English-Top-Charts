@@ -1,59 +1,59 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > R
-<sub>Updated: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)|Friends don't let friends make certain types of data visualization - What are they and why are they bad. |6242|8|2024-07-11|
-|2|[kennedymwavu/rmon](https://github.com/kennedymwavu/rmon)|R's equivalent of nodemon|19|4|2024-08-10|
-|3|[kiegan/wait-thats-shiny](https://github.com/kiegan/wait-thats-shiny)|Sample Shiny application code from "Wait, that's Shiny?", a presentation at posit::conf(2024). |9|3|2024-08-13|
+|1|[cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)|Friends don't let friends make certain types of data visualization - What are they and why are they bad. |6243|8|2024-07-11|
+|2|[kennedymwavu/rmon](https://github.com/kennedymwavu/rmon)|R's equivalent of nodemon|20|3|2024-08-10|
+|3|[kiegan/wait-thats-shiny](https://github.com/kiegan/wait-thats-shiny)|Sample Shiny application code from "Wait, that's Shiny?", a presentation at posit::conf(2024). |11|3|2024-08-13|
 |4|[rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)|-|844|3|2024-03-08|
 |5|[GuoBioinfoLab/TCellSI](https://github.com/GuoBioinfoLab/TCellSI)|The First Innovative Tool to Comprehensively Assess T Cell States|106|2|2024-08-01|
 |6|[CelVoxes/ceLLama](https://github.com/CelVoxes/ceLLama)|Cell type annotation with local Large Language Models (LLMs) - Ensuring privacy and speed with extensive customized reports|132|2|2024-07-29|
 |7|[Rdatatable/data.table](https://github.com/Rdatatable/data.table)|R's data.table package extends data.frame:|3530|1|2024-08-14|
 |8|[allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins)|A great intro dataset for data exploration & visualization (alternative to iris).|867|1|2024-02-19|
-|9|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2845|1|2024-08-09|
+|9|[rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)|Dynamic Documents for R|2846|1|2024-08-09|
 |10|[thomasp85/patchwork](https://github.com/thomasp85/patchwork)|The Composer of ggplots|2431|1|2024-08-05|
-|11|[rstudio/gt](https://github.com/rstudio/gt)|Easily generate information-rich, publication-quality tables from R|1969|1|2024-08-14|
+|11|[rstudio/gt](https://github.com/rstudio/gt)|Easily generate information-rich, publication-quality tables from R|1969|1|2024-08-15|
 |12|[toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data)|Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database|1985|1|2024-04-01|
 |13|[rstudio/reticulate](https://github.com/rstudio/reticulate)|R Interface to Python|1660|1|2024-08-13|
-|14|[jcrodriguez1989/chatgpt](https://github.com/jcrodriguez1989/chatgpt)|Interface to ChatGPT from R|311|1|2024-08-08|
+|14|[jcrodriguez1989/chatgpt](https://github.com/jcrodriguez1989/chatgpt)|Interface to ChatGPT from R|310|1|2024-08-08|
 |15|[fsc-data-science/trending-topics](https://github.com/fsc-data-science/trending-topics)|Pipelines & NLP for identification of trending topics in crypto, by ecosystem, over the last 24-48 hours.|10|1|2024-08-10|
 |16|[austinw8/MiddleEarth](https://github.com/austinw8/MiddleEarth)|Geospatial data for matting Middle Earth|13|1|2024-08-07|
 |17|[karthik/wesanderson](https://github.com/karthik/wesanderson)|A Wes Anderson color palette for R|1906|1|2024-06-13|
 |18|[rstudio/blogdown](https://github.com/rstudio/blogdown)|Create Blogs and Websites with R Markdown|1724|1|2024-02-28|
 |19|[yeager20001118/MAST90138_tutorial_2024_sem2](https://github.com/yeager20001118/MAST90138_tutorial_2024_sem2)|-|10|1|2024-08-13|
-|20|[ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary)|Presentation-Ready Data Summary and Analytic Result Tables|1019|1|2024-08-14|
+|20|[ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary)|Presentation-Ready Data Summary and Analytic Result Tables|1019|1|2024-08-15|
 |21|[MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio)|GPT RStudio addins that enable GPT assisted coding, writing & analysis|884|1|2024-07-22|
 |22|[stephenturner/biorecap](https://github.com/stephenturner/biorecap)|Retrieve and summarize bioRxiv preprints with a local LLM using ollama|5|1|2024-08-07|
 |23|[mjskay/ggdist](https://github.com/mjskay/ggdist)|Visualizations of distributions and uncertainty|825|1|2024-07-27|
 |24|[AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath)|Create curved text paths in ggplot2|623|1|2024-06-14|
 |25|[jrosell/ambhtmx](https://github.com/jrosell/ambhtmx)|Build a Full-stack R App with ambiorix and htmx.|20|1|2024-08-08|
-|26|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|5335|1|2024-08-01|
+|26|[rstudio/shiny](https://github.com/rstudio/shiny)|Easy interactive web applications with R|5334|1|2024-08-01|
 |27|[yihui/litedown](https://github.com/yihui/litedown)|A lightweight version of R Markdown|134|1|2024-08-06|
 |28|[satijalab/seurat](https://github.com/satijalab/seurat)|R toolkit for single cell genomics|2220|1|2024-08-02|
 |29|[CDCgov/cfa-epinow2-pipeline](https://github.com/CDCgov/cfa-epinow2-pipeline)|-|9|1|2024-08-13|
 |30|[Pecners/rayshader_portraits](https://github.com/Pecners/rayshader_portraits)|-|515|1|2024-06-05|
-|31|[easystats/easystats](https://github.com/easystats/easystats)|:milky_way: The R easystats-project|1076|1|2024-07-23|
+|31|[easystats/easystats](https://github.com/easystats/easystats)|:milky_way: The R easystats-project|1077|1|2024-07-23|
 |32|[AlbertRapp/tidychatmodels](https://github.com/AlbertRapp/tidychatmodels)|Chat With All Kinds of AI Models Through a Common Interface|105|1|2024-04-24|
-|33|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4720|1|2024-08-05|
+|33|[tidyverse/dplyr](https://github.com/tidyverse/dplyr)|dplyr: A grammar of data manipulation|4721|1|2024-08-15|
 |34|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1766|1|2024-07-22|
 |35|[IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot)|Enhancing {ggplot2} plots with statistical analysis 📊📣|1969|1|2024-07-30|
 |36|[moodymudskipper/ask](https://github.com/moodymudskipper/ask)|ask R anything|9|1|2024-08-14|
-|37|[tidyverse/tidyverse](https://github.com/tidyverse/tidyverse)|Easily install and load packages from the tidyverse|1628|1|2024-06-21|
+|37|[tidyverse/tidyverse](https://github.com/tidyverse/tidyverse)|Easily install and load packages from the tidyverse|1630|1|2024-06-21|
 |38|[jonocarroll/charcuterie](https://github.com/jonocarroll/charcuterie)|Handle Strings as Vectors of Characters|16|1|2024-08-07|
 |39|[hughjonesd/ggmagnify](https://github.com/hughjonesd/ggmagnify)|Create a magnified inset of part of a ggplot object|270|1|2024-06-24|
-|40|[yihui/knitr](https://github.com/yihui/knitr)|A general-purpose tool for dynamic report generation in R|2371|1|2024-07-31|
-|41|[thomasp85/gganimate](https://github.com/thomasp85/gganimate)|A Grammar of Animated Graphics|1936|1|2024-02-27|
-|42|[pola-rs/r-polars](https://github.com/pola-rs/r-polars)|Polars R binding|445|1|2024-08-14|
-|43|[vincentarelbundock/tinytable](https://github.com/vincentarelbundock/tinytable)|Simple and Customizable Tables in `R`|173|1|2024-08-12|
-|44|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2531|1|2024-08-05|
-|45|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|6426|1|2024-08-07|
-|46|[jinworks/CellChat](https://github.com/jinworks/CellChat)|R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics|229|1|2024-07-25|
-|47|[kjhealy/data_wrangling_notes](https://github.com/kjhealy/data_wrangling_notes)|-|8|1|2024-08-01|
-|48|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|622|1|2024-08-13|
-|49|[mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)|R Markdown Résumés and CVs|1208|1|2024-07-10|
+|40|[yihui/knitr](https://github.com/yihui/knitr)|A general-purpose tool for dynamic report generation in R|2372|1|2024-07-31|
+|41|[YuLab-SMU/sc2p](https://github.com/YuLab-SMU/sc2p)|single cell to pathway|6|1|2024-08-10|
+|42|[thomasp85/gganimate](https://github.com/thomasp85/gganimate)|A Grammar of Animated Graphics|1936|1|2024-02-27|
+|43|[pola-rs/r-polars](https://github.com/pola-rs/r-polars)|Polars R binding|445|1|2024-08-15|
+|44|[vincentarelbundock/tinytable](https://github.com/vincentarelbundock/tinytable)|Simple and Customizable Tables in `R`|174|1|2024-08-12|
+|45|[plotly/plotly.R](https://github.com/plotly/plotly.R)|An interactive graphing library for R|2530|1|2024-08-05|
+|46|[tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)|An implementation of the Grammar of Graphics in R|6426|1|2024-08-15|
+|47|[jinworks/CellChat](https://github.com/jinworks/CellChat)|R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics|230|1|2024-07-25|
+|48|[leedrake5/Russia-Ukraine](https://github.com/leedrake5/Russia-Ukraine)|Equipment Loss Tracking|622|1|2024-08-15|
+|49|[mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)|R Markdown Résumés and CVs|1209|1|2024-07-10|
 |50|[tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)|R Package for 2D and 3D mapping and data visualization|2041|1|2024-07-27|
 |51|[matt-dray/pixeltrix](https://github.com/matt-dray/pixeltrix)|:space_invader::computer_mouse: R package: make pixel art interactively in a plot window, get a matrix, make a gif|21|0|2024-06-04|
 |52|[thohan88/covid19-nor-data](https://github.com/thohan88/covid19-nor-data)|Cleaned public data about Covid-19 in Norway|16|0|2024-02-29|
@@ -71,15 +71,15 @@
 |64|[JaseZiv/bettRtab](https://github.com/JaseZiv/bettRtab)|An R client to interact with the API of Australian betting company TAB|7|0|2024-07-31|
 |65|[ttscience/unbiased](https://github.com/ttscience/unbiased)|API for clinical trial randomization|8|0|2024-03-27|
 |66|[russellpierce/naptime](https://github.com/russellpierce/naptime)|Robust flexible Sys.sleep replacement|9|0|2024-08-06|
-|67|[ashokkrish/spatialEpisim](https://github.com/ashokkrish/spatialEpisim)|spatialEpisim: Spatial Tracking of Infectious Disease Epidemics using Mathematical Models|8|0|2024-08-13|
+|67|[ashokkrish/spatialEpisim](https://github.com/ashokkrish/spatialEpisim)|spatialEpisim: Spatial Tracking of Infectious Disease Epidemics using Mathematical Models|8|0|2024-08-15|
 |68|[valentinitnelav/plotbiomes](https://github.com/valentinitnelav/plotbiomes)|R package for plotting Whittaker biomes with ggplot2|33|0|2024-07-25|
-|69|[ms609/Ternary](https://github.com/ms609/Ternary)|Create ternary plots in R|31|0|2024-08-05|
+|69|[ms609/Ternary](https://github.com/ms609/Ternary)|Create ternary plots in R|31|0|2024-08-15|
 |70|[globalgov/messydates](https://github.com/globalgov/messydates)|R package for Extended Date/Time Format (EDTF)|15|0|2024-04-19|
 |71|[mlr-org/bbotk](https://github.com/mlr-org/bbotk)|Black-box optimization framework for R.|20|0|2024-08-13|
 |72|[quantixed/TrackMateR](https://github.com/quantixed/TrackMateR)|Analysis of TrackMate XML outputs in R|11|0|2024-06-07|
 |73|[max-alletsee/pricesensitivitymeter](https://github.com/max-alletsee/pricesensitivitymeter)|van Westendorp Price Sensitivity Meter (PSM) implementation in R|13|0|2024-02-25|
 |74|[nyiuab/BhGLM](https://github.com/nyiuab/BhGLM)|BhGLM (Bayesian hierarchical GLMs and survival models)|19|0|2024-06-11|
-|75|[r-hub/cranatgh](https://github.com/r-hub/cranatgh)|Mirror CRAN @ GitHub|7|0|2024-08-14|
+|75|[r-hub/cranatgh](https://github.com/r-hub/cranatgh)|Mirror CRAN @ GitHub|7|0|2024-08-15|
 |76|[tidyverse/reprex](https://github.com/tidyverse/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|735|0|2024-08-05|
 |77|[jnweiger/ruida-laser](https://github.com/jnweiger/ruida-laser)|About the protocol between RDWorks, usb-stick, ethernet, and laser.|50|0|2024-08-09|
 |78|[csoneson/treeclimbR](https://github.com/csoneson/treeclimbR)|-|19|0|2024-08-04|
@@ -94,12 +94,12 @@
 |87|[drizopoulos/GLMMadaptive](https://github.com/drizopoulos/GLMMadaptive)|GLMMs with adaptive Gaussian quadrature|58|0|2024-06-17|
 |88|[sjevelazco/flexsdm](https://github.com/sjevelazco/flexsdm)|Useful tools for constructing species distribution models|50|0|2024-05-13|
 |89|[emmanuelparadis/pegas](https://github.com/emmanuelparadis/pegas)|Population and Evolutionary Genetics Analysis System|26|0|2024-06-24|
-|90|[scRNA-tools/scRNA-tools](https://github.com/scRNA-tools/scRNA-tools)|Table of software for the analysis of single-cell RNA-seq data.|301|0|2024-08-14|
+|90|[scRNA-tools/scRNA-tools](https://github.com/scRNA-tools/scRNA-tools)|Table of software for the analysis of single-cell RNA-seq data.|301|0|2024-08-15|
 |91|[NEFSC/READ-PSB-LWT-narwss_rwsas_apps](https://github.com/NEFSC/READ-PSB-LWT-narwss_rwsas_apps)|-|11|0|2024-05-14|
 |92|[DistanceDevelopment/Distance](https://github.com/DistanceDevelopment/Distance)|Simple distance sampling analysis|9|0|2024-05-24|
 |93|[koralgooll/MulEA](https://github.com/koralgooll/MulEA)|MulEA - A Tool for Multi Enrichment Analysis|7|0|2024-02-27|
 |94|[ketchbrookanalytics/migrate](https://github.com/ketchbrookanalytics/migrate)|An R package for building state transition matrices|6|0|2024-07-10|
-|95|[enblacar/SCpubr](https://github.com/enblacar/SCpubr)|Generate high quality, publication ready visualizations for single cell transcriptomics data.|146|0|2024-07-24|
+|95|[enblacar/SCpubr](https://github.com/enblacar/SCpubr)|Generate high quality, publication ready visualizations for single cell transcriptomics data.|146|0|2024-08-15|
 |96|[trinker/textshape](https://github.com/trinker/textshape)|Tools for reshaping text data|48|0|2024-04-01|
 |97|[TimoDimi/replication_CoQR](https://github.com/TimoDimi/replication_CoQR)|Replication Material for the Paper 'Dynamic Co-Quantile Regression'|7|0|2024-02-23|
 |98|[ISNMethodsMeeting/Presentations](https://github.com/ISNMethodsMeeting/Presentations)|Methods Meetings Presentation Slides|6|0|2024-04-26|
@@ -131,9 +131,9 @@
 |124|[bsvars/bsvars](https://github.com/bsvars/bsvars)|Bayesian Estimation of Structural Vector Autoregressive Models|38|0|2024-08-08|
 |125|[markmfredrickson/RItools](https://github.com/markmfredrickson/RItools)|Randomization inference tools for R|16|0|2024-06-28|
 |126|[gesistsa/rio](https://github.com/gesistsa/rio)|🐟 A Swiss-Army Knife for Data I/O|597|0|2024-08-02|
-|127|[MD-Anderson-Bioinformatics/NGCHM-R](https://github.com/MD-Anderson-Bioinformatics/NGCHM-R)|An R library for creating Next-Generation Clustered Heat Maps (NG-CHM)|7|0|2024-08-13|
+|127|[MD-Anderson-Bioinformatics/NGCHM-R](https://github.com/MD-Anderson-Bioinformatics/NGCHM-R)|An R library for creating Next-Generation Clustered Heat Maps (NG-CHM)|7|0|2024-08-15|
 |128|[hllauca/GR2MSemiDistr](https://github.com/hllauca/GR2MSemiDistr)|A package for hydrological modelling with GR2M at large-scale|12|0|2024-02-26|
-|129|[duckdb/duckdb-r](https://github.com/duckdb/duckdb-r)|The duckdb R package|110|0|2024-08-14|
+|129|[duckdb/duckdb-r](https://github.com/duckdb/duckdb-r)|The duckdb R package|110|0|2024-08-15|
 |130|[markhogue/RadData](https://github.com/markhogue/RadData)|Nuclear Decay Data for Dosimetric Calculations from ICRP 107|6|0|2024-04-17|
 |131|[ropensci/MODIStsp](https://github.com/ropensci/MODIStsp)|An "R" package for automatic download and preprocessing of MODIS Land Products Time Series|155|0|2024-07-28|
 |132|[MSE-NCCOS-NOAA/NCRMP_benthics](https://github.com/MSE-NCCOS-NOAA/NCRMP_benthics)|The ncrmp.benthic.analysis package is designed to use benthic coral reef data collected from the Atlantic regions of NOAA's National Coral Reef Monitoring Program (NCRMP) to compute summary statistics ...|8|0|2024-03-05|
@@ -151,7 +151,7 @@
 |144|[biometry/bipartite](https://github.com/biometry/bipartite)|repository for the bipartite R-package for network analysis|35|0|2024-07-15|
 |145|[belasi01/Cops](https://github.com/belasi01/Cops)|R package first developed by Bernard Gentili at LOV. Several people have contributed to its maintenance, including Guislain Bécu and many students of Aquatel  |7|0|2024-02-21|
 |146|[ModelOriented/randomForestExplainer](https://github.com/ModelOriented/randomForestExplainer)|A set of tools to understand what is happening inside a Random Forest|230|0|2024-03-25|
-|147|[pharmaverse/pharmaversesdtm](https://github.com/pharmaverse/pharmaversesdtm)|Test SDTM data for use within the pharmaverse family of packages|12|0|2024-08-13|
+|147|[pharmaverse/pharmaversesdtm](https://github.com/pharmaverse/pharmaversesdtm)|Test SDTM data for use within the pharmaverse family of packages|12|0|2024-08-15|
 |148|[sabifo4/BayesianInference_practicals](https://github.com/sabifo4/BayesianInference_practicals)|-|6|0|2024-03-15|
 |149|[davidycliao/flaiR](https://github.com/davidycliao/flaiR)|flairR: Bring Amazing Flair NLP to R|25|0|2024-08-12|
 |150|[nathansam/gameR](https://github.com/nathansam/gameR)|R colour palettes inspired by video games|6|0|2024-08-12|
@@ -184,8 +184,8 @@
 |177|[Bioconductor/genefilter](https://github.com/Bioconductor/genefilter)|genefilter: methods for filtering genes from high-throughput experiments|5|0|2024-05-01|
 |178|[wilkelab/cowplot](https://github.com/wilkelab/cowplot)|cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2|701|0|2024-06-28|
 |179|[BS1125/CMAverse](https://github.com/BS1125/CMAverse)|A suite of functions for reproducible causal mediation analyses|47|0|2024-08-12|
-|180|[shaelebrown/TDApplied](https://github.com/shaelebrown/TDApplied)|An R package for statistics and machine learning with persistence diagrams|15|0|2024-07-12|
-|181|[mlr-org/paradox](https://github.com/mlr-org/paradox)|ParamHelpers Next Generation|27|0|2024-08-12|
+|180|[shaelebrown/TDApplied](https://github.com/shaelebrown/TDApplied)|An R package for statistics and machine learning with persistence diagrams|16|0|2024-07-12|
+|181|[mlr-org/paradox](https://github.com/mlr-org/paradox)|ParamHelpers Next Generation|27|0|2024-08-15|
 |182|[rmendels/rerddapXtracto](https://github.com/rmendels/rerddapXtracto)|xtractomactic using rerddap|14|0|2024-07-19|
 |183|[mlr-org/mlr3batchmark](https://github.com/mlr-org/mlr3batchmark)|Connector between mlr3 and batchtools|6|0|2024-02-26|
 |184|[hfgolino/EGAnet](https://github.com/hfgolino/EGAnet)|-|41|0|2024-08-13|
@@ -196,7 +196,7 @@
 |189|[NEON-biodiversity/Ostats](https://github.com/NEON-biodiversity/Ostats)|O-statistics (community pairwise niche overlap statistics)|7|0|2024-07-22|
 |190|[fmmattioni/whippr](https://github.com/fmmattioni/whippr)|Tools for Manipulating Gas Exchange Data 📈|11|0|2024-07-24|
 |191|[NCEAS/scicomptools](https://github.com/NCEAS/scicomptools)|Tools Developed by NCEAS Scientific Computing Support Team|10|0|2024-07-11|
-|192|[melff/RKernel](https://github.com/melff/RKernel)|Yet another R kernel for Jupyter|32|0|2024-08-14|
+|192|[melff/RKernel](https://github.com/melff/RKernel)|Yet another R kernel for Jupyter|32|0|2024-08-15|
 |193|[cran/TraMineR](https://github.com/cran/TraMineR)|:exclamation: This is a read-only mirror of the CRAN R package repository.  TraMineR — Trajectory Miner: a Sequence Analysis Toolkit. Homepage: http://traminer.unige.ch  |10|0|2024-05-22|
 |194|[noaa-afsc/nfs-berpac](https://github.com/noaa-afsc/nfs-berpac)|Telemetry data and analysis from bio-logger deployments on northern fur seals in the Bering and Pacific. Maintained by Josh London (@jmlondon / josh.london@noaa.gov)|7|0|2024-02-21|
 |195|[lemuscanovas/synoptReg](https://github.com/lemuscanovas/synoptReg)|An R package to compute a synoptic climate classification and spatial regionalization of environmental data|8|0|2024-04-29|
