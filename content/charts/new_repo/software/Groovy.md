@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-08-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[fulcrumgenomics/nf-dotenv](https://github.com/fulcrumgenomics/nf-dotenv)|Automatically source dotenv files into your Nextflow scope|7|2024-03-05|2023-11-09|
 |11|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|6|2024-07-31|2024-01-28|
 |12|[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)|Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898|6|2024-02-20|2024-01-23|
-|13|[plesk/engineering-efficiency-assets](https://github.com/plesk/engineering-efficiency-assets)|The set of the assets to build Grafana dashboards with the metrics to analyse the effectiveness of your engineering practices|5|2024-08-05|2024-01-08|
+|13|[plesk/engineering-efficiency-assets](https://github.com/plesk/engineering-efficiency-assets)|The set of the assets to build Grafana dashboards with the metrics to analyse the effectiveness of your engineering practices|5|2024-08-17|2024-01-08|
 |14|[proALPHA/gradle-s3-plugin](https://github.com/proALPHA/gradle-s3-plugin)|A gradle plugin to download/upload files/folders from/to s3.|4|2024-08-09|2024-08-08|
 |15|[maggergm/GroovyCSVExample](https://github.com/maggergm/GroovyCSVExample)|A useful Groovy script to read and analyze a CSV file|4|2024-06-04|2024-06-04|
 |16|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
@@ -33,7 +33,7 @@
 |26|[trouble25/GroovyFileOperations](https://github.com/trouble25/GroovyFileOperations)|A useful Groovy script to perform basic file operations|3|2024-06-04|2024-06-04|
 |27|[L-W-payments/asaas-payment](https://github.com/L-W-payments/asaas-payment)|-|3|2024-06-17|2024-05-09|
 |28|[PDCompBio/TrueTH](https://github.com/PDCompBio/TrueTH)|Fine-tuned TH soma identification pipeline.|3|2024-06-12|2024-04-16|
-|29|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|3|2024-08-14|2024-03-22|
+|29|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|3|2024-08-17|2024-03-22|
 |30|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-06-12|2024-01-17|
 |31|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
 |32|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-08-12|2023-11-03|
