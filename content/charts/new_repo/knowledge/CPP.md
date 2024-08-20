@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|384|2024-08-17|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |6|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
-|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|344|2024-08-12|2024-03-22|
+|7|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|347|2024-08-12|2024-03-22|
 |8|[changh95/fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes)|Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series|314|2024-04-02|2023-08-28|
 |9|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|284|2024-04-04|2024-01-14|
 |10|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
@@ -46,14 +46,14 @@
 |39|[Ntcorpse/Cyberpunk-2077-undetect-hack](https://github.com/Ntcorpse/Cyberpunk-2077-undetect-hack)|cyberpunk-2077-undetect-hack-tool, cyberpunk-2077-undetect-cheat, cyberpunk-2077-undetect-tool, cyberpunk-2077-hack-undetect-download, cyberpunk-2077-undetect-hack-free, cyberpunk-2077-undetect-hacks- ...|153|2024-06-28|2024-06-28|
 |40|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |41|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
-|42|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|149|2024-08-17|2023-12-30|
+|42|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|149|2024-08-18|2023-12-30|
 |43|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |44|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
 |45|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
 |46|[leaguilar099/Wondershare-Filmora-Activation-Tool](https://github.com/leaguilar099/Wondershare-Filmora-Activation-Tool)|Wondershare Filmora Activation Tool provides a streamlined solution for activating Wondershare Filmora software. It simplifies the activation process, supports key generation, and enables license mana ...|128|2024-08-11|2024-08-11|
 |47|[uhhhhgmoddude/Facebook-tool](https://github.com/uhhhhgmoddude/Facebook-tool)|Facebook Tool is a comprehensive solution designed to enhance Facebook interactions and streamline account management. With its suite of features, it offers a variety of tools for creating and managin ...|128|2024-08-11|2024-08-11|
-|48|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|125|2024-08-16|2024-03-06|
-|49|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|123|2024-08-16|2024-06-24|
+|48|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|126|2024-08-18|2024-03-06|
+|49|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|124|2024-08-16|2024-06-24|
 |50|[TheAudioProgrammer/synth-plugin-book](https://github.com/TheAudioProgrammer/synth-plugin-book)|Source code for the book "Creating Synthesizer Plug-Ins With C++ and JUCE"|121|2024-06-22|2023-10-25|
 |51|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
 |52|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|117|2024-04-05|2024-03-20|
