@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |764|2024-08-15|
-|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|601|2024-08-20|
+|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|602|2024-08-21|
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|288|2024-08-19|
 |4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|156|2024-08-06|
 |5|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|128|2024-08-02|
@@ -35,17 +35,17 @@
 |28|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|2024-05-01|
 |29|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|2024-06-21|
 |30|[puzzle/jenkins-pipeline-shared-libraries](https://github.com/puzzle/jenkins-pipeline-shared-libraries)|Shared functionality for Jenkins Pipeline Groovy scripts.|10|2024-07-31|
-|31|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|2024-08-20|
+|31|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|2024-08-21|
 |32|[apwide/apwide-jenkins-shared-lib](https://github.com/apwide/apwide-jenkins-shared-lib)|Jenkins shared library to interact with Jira from pipeline|9|2024-03-27|
 |33|[stainlessai/jenkins-semci](https://github.com/stainlessai/jenkins-semci)|A semantic versioning shared library for Jenkins pipelines|8|2024-03-31|
 |34|[tracetronic/jenkins-library](https://github.com/tracetronic/jenkins-library)|Jenkins shared library for your CX automation workflows.|7|2024-08-06|
 |35|[pentaho/pentaho-jenkins-shared-library](https://github.com/pentaho/pentaho-jenkins-shared-library)|Jenkins shared library for the Pentaho stack builds|7|2024-08-13|
 |36|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|7|2024-03-13|
 |37|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|7|2024-08-14|
-|38|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|6|2024-08-15|
+|38|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|6|2024-08-21|
 |39|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|6|2024-05-28|
 |40|[lucas-sancere/QuPath_Codes](https://github.com/lucas-sancere/QuPath_Codes)|Collection of some groovy scripts for QuPath. Public repo but made mostly for personal use. |5|2024-07-10|
-|41|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2024-08-15|
+|41|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2024-08-21|
 |42|[Naveiras-Lab/MarrowQuant](https://github.com/Naveiras-Lab/MarrowQuant)|MarrowQuant is a user-friendly algorithm for the quantification of H&E bone marrow tissue biopsies in whole slide images, implemented as a series of QuPath Scripts. Keywords: Digital Pathology, Whole  ...|5|2024-04-19|
 |43|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|5|2024-08-07|
 |44|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2024-08-03|

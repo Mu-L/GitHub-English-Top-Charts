@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|167|2024-06-12|
 |4|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|158|2024-07-29|
 |5|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|147|2024-07-24|
-|6|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|133|2024-08-07|
+|6|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|134|2024-08-07|
 |7|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|110|2024-08-07|
 |8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|86|2024-07-06|
 |9|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|67|2024-08-04|
@@ -23,15 +23,15 @@
 |16|[michael-ring/pico-fpcexamples](https://github.com/michael-ring/pico-fpcexamples)|Examples for programming the raspberry pi pico with FreePascal|18|2024-06-16|
 |17|[r3code/lazarus-exception-logger](https://github.com/r3code/lazarus-exception-logger)|FreePascal Exception Logger aka madExcept or EurekaLog, extended version of https://github.com/beNative/lazarus/tree/master/components/ExceptionLogger|17|2024-02-23|
 |18|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|13|2024-04-24|
-|19|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|10|2024-08-13|
+|19|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|11|2024-08-13|
 |20|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|2024-03-18|
 |21|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|10|2024-05-22|
-|22|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|10|2024-06-28|
-|23|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|9|2024-07-08|
-|24|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|9|2024-05-09|
-|25|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|2024-07-10|
-|26|[z505/FileBasedList](https://github.com/z505/FileBasedList)|Fast file based StringList or IntegerList for large data lists especially if out of memory with a regular TStringList|9|2024-02-23|
-|27|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|9|2024-06-10|
+|22|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|10|2024-06-10|
+|23|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|10|2024-06-28|
+|24|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|9|2024-07-08|
+|25|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|9|2024-05-09|
+|26|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|2024-07-10|
+|27|[z505/FileBasedList](https://github.com/z505/FileBasedList)|Fast file based StringList or IntegerList for large data lists especially if out of memory with a regular TStringList|9|2024-02-23|
 |28|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|2024-08-19|
 |29|[bero/InterFaceWithGUI](https://github.com/bero/InterFaceWithGUI)|Small demo shoing how to use interfaces with modal dialog|6|2024-07-28|
 |30|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|2024-07-31|
@@ -46,13 +46,12 @@
 |39|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-06-13|
 |40|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|2024-06-24|
 |41|[Djaoued2006/Djo-Lang](https://github.com/Djaoued2006/Djo-Lang)|a small programming language built for learning purposes|3|2024-04-26|
-|42|[xdiLLx/BibliotecaGD--FMX](https://github.com/xdiLLx/BibliotecaGD--FMX)|A versatile collection of Delphi custom components for enhancing UI development and facilitating VCL to FMX migration, featuring advanced styling and database connectivity.|3|2024-02-20|
-|43|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|2024-08-10|
-|44|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|2024-06-01|
-|45|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-06-04|
-|46|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
-|47|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|
-|48|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2024-04-13|
+|42|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|2024-08-10|
+|43|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|2024-06-01|
+|44|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|2024-06-04|
+|45|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|2024-04-15|
+|46|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|2024-05-25|
+|47|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|2024-04-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
