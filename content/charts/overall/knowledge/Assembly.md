@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-08-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15525|2024-07-10|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|10864|2024-08-18|
-|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2179|2024-08-20|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15530|2024-07-10|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|10870|2024-08-18|
+|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2181|2024-08-20|
 |4|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|769|2024-05-03|
-|5|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|523|2024-03-20|
-|6|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|522|2024-07-27|
+|5|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|523|2024-07-27|
+|6|[pablojimenezmateo/curriculum-bootloader](https://github.com/pablojimenezmateo/curriculum-bootloader)|Here I share the code of my CV, which is also a bootable bootloader :)|523|2024-03-20|
 |7|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|339|2024-04-13|
 |8|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|244|2024-06-30|
 |9|[Xyl2k/Xylitol-MASM32-snippets](https://github.com/Xyl2k/Xylitol-MASM32-snippets)|MASM32 Code collection for reverse engineers|152|2024-08-17|
 |10|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|148|2024-08-13|
-|11|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|106|2024-08-17|
+|11|[gbdev/gb-asm-tutorial](https://github.com/gbdev/gb-asm-tutorial)|Learn to create games for the Game Boy using Assembly|107|2024-08-17|
 |12|[mrfearless/libraries](https://github.com/mrfearless/libraries)|Collection of libraries for use with x86 / x64 assembler|102|2024-07-11|
-|13|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|73|2024-08-19|
+|13|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|74|2024-08-19|
 |14|[simoesusp/Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)|Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language|72|2024-05-23|
 |15|[takenobu-hs/cpu-assembly-examples](https://github.com/takenobu-hs/cpu-assembly-examples)|CPU assembly examples|71|2024-05-19|
 |16|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|67|2024-08-21|
@@ -31,7 +31,7 @@
 |24|[emutyworks/Learning-GB-Programming](https://github.com/emutyworks/Learning-GB-Programming)|Learning Game Boy programming step by step. Let's start game programming with Assembly language.|38|2024-05-15|
 |25|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|35|2024-07-22|
 |26|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|35|2024-04-01|
-|27|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|33|2024-08-20|
+|27|[yeokm1/retro-configs](https://github.com/yeokm1/retro-configs)|Collection of my DOS configurations and drivers of my retro machines|33|2024-08-22|
 |28|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|30|2024-07-05|
 |29|[dsoze1138/MPLABX_pic-as_examples](https://github.com/dsoze1138/MPLABX_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|29|2024-08-09|
 |30|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|29|2024-08-18|
@@ -48,7 +48,7 @@
 |41|[aappleby/gbmicrotest](https://github.com/aappleby/gbmicrotest)|A large collection of as-small-as-possible tests for your Game Boy emulator|15|2024-04-26|
 |42|[maxim-zhao/zexall-sms](https://github.com/maxim-zhao/zexall-sms)|Sega Master System port of ZEXALL Z80 instruction set exerciser|15|2024-07-15|
 |43|[hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)|🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware de ...|14|2024-06-21|
-|44|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-08-21|
+|44|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|14|2024-08-22|
 |45|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|13|2024-04-28|
 |46|[hubbsvtgc/LearnRISC-V](https://github.com/hubbsvtgc/LearnRISC-V)|Learn RISC-V|13|2024-05-30|
 |47|[fghsgh/MEEP](https://github.com/fghsgh/MEEP)|Multi-channel EEP Engine Program: advanced 1-bit sound engine for 83+/84+ series of calculators (except regular 83+)|12|2024-03-31|
@@ -101,25 +101,24 @@
 |94|[Musxeto/ArcadeOS](https://github.com/Musxeto/ArcadeOS)|ArcadeOS is a bootable operating system developed in assembly language, created as a project for the 3rd Semester Assembly Language course. It offers a minimalist CLI and classic text-based arcade gam ...|3|2024-03-14|
 |95|[F4LCn/falcon-os](https://github.com/F4LCn/falcon-os)|toy operating system kernel written from scratch as a learning tool|3|2024-02-28|
 |96|[VladikNeVladik/hse-algorithms-seminars](https://github.com/VladikNeVladik/hse-algorithms-seminars)|Code snippets used in course "Algorithms and algorithmic languages" teached in HSE|3|2024-06-01|
-|97|[tipo159/rust-instruction-dispatch](https://github.com/tipo159/rust-instruction-dispatch)|This is a project to learn how to implement instruction dispatch in Rust.|3|2024-02-21|
-|98|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2024-05-31|
-|99|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2024-03-24|
-|100|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-05-31|
-|101|[langel/vic20-songs](https://github.com/langel/vic20-songs)|collection of audio programs for commodore vic20|3|2024-07-30|
-|102|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2024-07-13|
-|103|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|
-|104|[Computermann8086/x86-Harddisk-MBR](https://github.com/Computermann8086/x86-Harddisk-MBR)|This is a 136 byte long MBR, Master Boot Record, for harddisks.|2|2024-04-04|
-|105|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-21|
-|106|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|
-|107|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|
-|108|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|2024-04-05|
-|109|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|
-|110|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-23|
-|111|[renecura/nes-tutorial](https://github.com/renecura/nes-tutorial)|Códigos correspondientes al tutorial paso a paso para hacer juegos de Famicom/NES|2|2024-06-03|
-|112|[ReferTV/Assembly-Calculator](https://github.com/ReferTV/Assembly-Calculator)|The Simple Calculator project is a demonstration of basic arithmetic operations implemented in x86_64 assembly language. This project serves as an educational resource for those interested in learning ...|2|2024-04-10|
-|113|[LubosKuzma/ITSC204](https://github.com/LubosKuzma/ITSC204)|ITSC204 course|2|2024-04-08|
-|114|[macsnoeren/cybersecurity](https://github.com/macsnoeren/cybersecurity)|As lecturer of cyber security fundamentals, I will use this repository to gather examples and lectures for my students.|2|2024-05-21|
-|115|[htonl/los](https://github.com/htonl/los)|OS hacking for fun and learning|2|2024-03-14|
+|97|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2024-05-31|
+|98|[Martin-H1/6502](https://github.com/Martin-H1/6502)|A collection of 6502 projects in a monorepo|3|2024-03-24|
+|99|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-05-31|
+|100|[langel/vic20-songs](https://github.com/langel/vic20-songs)|collection of audio programs for commodore vic20|3|2024-07-30|
+|101|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2024-07-13|
+|102|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|
+|103|[Computermann8086/x86-Harddisk-MBR](https://github.com/Computermann8086/x86-Harddisk-MBR)|This is a 136 byte long MBR, Master Boot Record, for harddisks.|2|2024-04-04|
+|104|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|2024-03-21|
+|105|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|
+|106|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|
+|107|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|2024-04-05|
+|108|[zuccha/smw-code](https://github.com/zuccha/smw-code)|Collection of patches, UberASM, and other stuff SMW-related.|2|2024-03-04|
+|109|[angry-goose-initiative/rvsw](https://github.com/angry-goose-initiative/rvsw)|Hardware-Agnostic Collection of RISC-V Programs, Testfiles, And More|2|2024-03-23|
+|110|[renecura/nes-tutorial](https://github.com/renecura/nes-tutorial)|Códigos correspondientes al tutorial paso a paso para hacer juegos de Famicom/NES|2|2024-06-03|
+|111|[ReferTV/Assembly-Calculator](https://github.com/ReferTV/Assembly-Calculator)|The Simple Calculator project is a demonstration of basic arithmetic operations implemented in x86_64 assembly language. This project serves as an educational resource for those interested in learning ...|2|2024-04-10|
+|112|[LubosKuzma/ITSC204](https://github.com/LubosKuzma/ITSC204)|ITSC204 course|2|2024-04-08|
+|113|[macsnoeren/cybersecurity](https://github.com/macsnoeren/cybersecurity)|As lecturer of cyber security fundamentals, I will use this repository to gather examples and lectures for my students.|2|2024-05-21|
+|114|[htonl/los](https://github.com/htonl/los)|OS hacking for fun and learning|2|2024-03-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

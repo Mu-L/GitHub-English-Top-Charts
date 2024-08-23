@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-08-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -39,7 +39,7 @@
 |32|[tuya/tuya-home-ios-sdk-sample-objc](https://github.com/tuya/tuya-home-ios-sdk-sample-objc)|This sample demonstrates how to use Tuya Smart Home iOS SDK features in Objective-C.|15|0|2024-07-10|
 |33|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
 |34|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|0|2024-08-12|
-|35|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|268|0|2024-03-17|
+|35|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|269|0|2024-03-17|
 |36|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|0|2024-06-18|
 |37|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|0|2024-04-07|
 |38|[urbanairship/ios-samples](https://github.com/urbanairship/ios-samples)|A collection of samples using the Urban Airship ios-library|25|0|2024-04-30|

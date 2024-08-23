@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,15 +27,15 @@
 |20|[flrsh-dev/flrsh-lessons](https://github.com/flrsh-dev/flrsh-lessons)|{flrsh} lessons|9|2024-05-26|2024-01-23|
 |21|[andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto|9|2024-07-30|2024-01-02|
 |22|[SiyuanHuang1/ST_Analysis_Handbook](https://github.com/SiyuanHuang1/ST_Analysis_Handbook)|A Guide to the Analysis of Spatial Transcriptomics|9|2024-07-29|2023-12-31|
-|23|[comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases](https://github.com/comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases)|This repository contains code associated with the study "Proteomic signatures improve risk predictions for common and rare diseases" (DOI pending)  The provided scripts are not designed to work out of ...|8|2024-07-03|2024-06-06|
-|24|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
-|25|[milos-agathon/3d-railway-maps](https://github.com/milos-agathon/3d-railway-maps)|This repository is a practical guide to using the rayshader library in R for creating 3D maps of railways and terrain from OpenStreetMap data. It's aimed at those interested in visualizing geographic  ...|8|2024-04-08|2024-04-08|
-|26|[Robinlovelace/spanishoddata](https://github.com/Robinlovelace/spanishoddata)|Access national high-quality and open-access datasets on movement patterns derived from mobile telephone datasets|7|2024-08-20|2024-06-11|
-|27|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|7|2024-05-13|2024-05-12|
+|23|[Robinlovelace/spanishoddata](https://github.com/Robinlovelace/spanishoddata)|Access national high-quality and open-access datasets on movement patterns derived from mobile telephone datasets|8|2024-08-22|2024-06-11|
+|24|[comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases](https://github.com/comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases)|This repository contains code associated with the study "Proteomic signatures improve risk predictions for common and rare diseases" (DOI pending)  The provided scripts are not designed to work out of ...|8|2024-07-03|2024-06-06|
+|25|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|8|2024-05-13|2024-05-12|
+|26|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
+|27|[milos-agathon/3d-railway-maps](https://github.com/milos-agathon/3d-railway-maps)|This repository is a practical guide to using the rayshader library in R for creating 3D maps of railways and terrain from OpenStreetMap data. It's aimed at those interested in visualizing geographic  ...|8|2024-04-08|2024-04-08|
 |28|[milos-agathon/esa-land-cover](https://github.com/milos-agathon/esa-land-cover)|Harnessing the power of ESA’s satellite data and Microsoft’s Planetary Computer STAC API, we’re crafting detailed maps of land cover using R. Whether you’re a nature enthusiast or a city lover, our tu ...|7|2024-05-30|2024-04-01|
 |29|[tsrobinson/oxss24](https://github.com/tsrobinson/oxss24)|Course materials for 2024 Oxford Spring School in Advanced Research Methods|7|2024-04-11|2024-04-01|
 |30|[milos-agathon/precipitation-maps](https://github.com/milos-agathon/precipitation-maps)|In this tutorial, I'll show you how to use the pRecipe to download the MSWEP data, compute the average precipitation for any location and time period of your interest and use ggplot2 and rayshader to  ...|7|2024-03-11|2024-03-11|
-|31|[naoki-egami/dsl](https://github.com/naoki-egami/dsl)|R package: Design-based Supervised Learning|7|2024-05-31|2024-02-29|
+|31|[naoki-egami/dsl](https://github.com/naoki-egami/dsl)|R package: Design-based Supervised Learning|7|2024-08-21|2024-02-29|
 |32|[milos-agathon/eurostat-maps-2024](https://github.com/milos-agathon/eurostat-maps-2024)|Do you want to learn how to make beautiful choropleth maps of Europe? You are in for a treat! This repo shows you how to load Eurostat data into R using the new API and make a stunning map of Median a ...|7|2024-03-02|2024-02-11|
 |33|[mblstamps/stamps2024](https://github.com/mblstamps/stamps2024)|Materials for the STAMPS 2024 course at the MBL in Woods Hole, MA, USA|6|2024-07-19|2024-03-15|
 |34|[LucasKook/comets](https://github.com/LucasKook/comets)|Algorithm-agnostic significance testing in supervised learning with multimodal data|6|2024-08-09|2024-01-29|

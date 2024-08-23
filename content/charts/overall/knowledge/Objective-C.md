@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-08-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、 ...|559|2024-08-07|
 |6|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|351|2024-03-01|
 |7|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|2024-04-18|
-|8|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|268|2024-03-17|
+|8|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|269|2024-03-17|
 |9|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|2024-04-09|
 |10|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|2024-08-16|
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|221|2024-08-16|
