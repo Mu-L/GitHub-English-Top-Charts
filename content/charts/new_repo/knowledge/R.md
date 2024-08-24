@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)|A Tutorial for Setting R Development Environment with VScode, Dev Containers, and Docker|239|2024-07-28|2023-09-03|
-|2|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|47|2024-07-26|2023-10-09|
-|3|[rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)|biodiversity genomics course by Nicol Rueda, Karin Näsvall and Joana Meier from the Wellcome Sanger Institute|35|2024-08-12|2024-07-15|
+|2|[l-magnificence/Mime](https://github.com/l-magnificence/Mime)|Machine learning-based integration model with elegant performance|51|2024-07-26|2023-10-09|
+|3|[rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)|biodiversity genomics course by Nicol Rueda, Karin Näsvall and Joana Meier from the Wellcome Sanger Institute|36|2024-08-12|2024-07-15|
 |4|[kennedymwavu/ambiorix-examples](https://github.com/kennedymwavu/ambiorix-examples)|Ambiorix examples|29|2024-08-08|2024-01-07|
 |5|[elipousson/sharepointr](https://github.com/elipousson/sharepointr)|👉 A R package to work with SharePoint files using {Microsoft365R} methods|24|2024-08-11|2023-09-22|
 |6|[chaisemartinPackages/did_multiplegt_dyn](https://github.com/chaisemartinPackages/did_multiplegt_dyn)|   Stata   R    Estimation of event-study Difference-in-Difference (DID) estimators in designs with multiple groups and periods, and with a potentially non-binary treatment that may increase or decrea ...|22|2024-06-19|2023-12-20|
@@ -27,7 +27,7 @@
 |20|[flrsh-dev/flrsh-lessons](https://github.com/flrsh-dev/flrsh-lessons)|{flrsh} lessons|9|2024-05-26|2024-01-23|
 |21|[andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto|9|2024-07-30|2024-01-02|
 |22|[SiyuanHuang1/ST_Analysis_Handbook](https://github.com/SiyuanHuang1/ST_Analysis_Handbook)|A Guide to the Analysis of Spatial Transcriptomics|9|2024-07-29|2023-12-31|
-|23|[Robinlovelace/spanishoddata](https://github.com/Robinlovelace/spanishoddata)|Access national high-quality and open-access datasets on movement patterns derived from mobile telephone datasets|8|2024-08-22|2024-06-11|
+|23|[Robinlovelace/spanishoddata](https://github.com/Robinlovelace/spanishoddata)|Access national high-quality and open-access datasets on movement patterns derived from mobile telephone datasets|8|2024-08-23|2024-06-11|
 |24|[comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases](https://github.com/comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases)|This repository contains code associated with the study "Proteomic signatures improve risk predictions for common and rare diseases" (DOI pending)  The provided scripts are not designed to work out of ...|8|2024-07-03|2024-06-06|
 |25|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|8|2024-05-13|2024-05-12|
 |26|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
