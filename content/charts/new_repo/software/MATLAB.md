@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10355|2024-08-05|2024-07-08|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10359|2024-08-05|2024-07-08|
 |2|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|268|2024-05-24|2024-03-15|
 |3|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|94|2024-07-13|2024-07-12|
 |4|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™|91|2024-08-23|2023-10-09|
@@ -42,12 +42,12 @@
 |35|[cschenxiang/NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain)|Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining (CVPR 2024)|16|2024-03-18|2024-03-15|
 |36|[themanoftalent/SignalsSystems-One2Three-](https://github.com/themanoftalent/SignalsSystems-One2Three-)|COM3 Signals And Systems |16|2024-04-20|2024-02-27|
 |37|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|16|2024-03-26|2024-02-15|
-|38|[FenghaoZhu/WMMSE](https://github.com/FenghaoZhu/WMMSE)|This is the code implementation for the WMMSE algorithm.|16|2024-03-10|2024-01-04|
-|39|[anafreis/OTFS_CE](https://github.com/anafreis/OTFS_CE)|This repository presents the codes for reproducing the paper "LSTM-Based Time-Frequency Domain Channel Estimation for OTFS Modulation".|15|2024-06-13|2024-04-25|
-|40|[Ryan-yzy/Active-RIS-ISAC](https://github.com/Ryan-yzy/Active-RIS-ISAC)|Simulation codes for my paper in TCOM: Active RIS-Aided ISAC Systems: Beamforming Design and Performance Analysis|15|2024-04-21|2024-04-21|
-|41|[Yasar234/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/Yasar234/Echo-Cancellation-Using-LMS-Algorithm)|We developed to mitigate  unwanted echoes in a communication system.Echo cancellation is crucial in scenarios where echoes occur, such as in telecommunication systems, VoIP (Voice over Internet Protoc ...|15|2024-03-11|2024-03-05|
-|42|[Shida-Jiang/EKF_UKF_SOCSOH_estimation](https://github.com/Shida-Jiang/EKF_UKF_SOCSOH_estimation)|Battery State-of-Charge and State-of-Health Co-estimation Using EKF and UKF|15|2024-07-10|2024-02-05|
-|43|[YyangSJ/Flexible_Precoding_Movable_Antennas](https://github.com/YyangSJ/Flexible_Precoding_Movable_Antennas)|-|15|2024-04-11|2024-02-05|
+|38|[YyangSJ/Flexible_Precoding_Movable_Antennas](https://github.com/YyangSJ/Flexible_Precoding_Movable_Antennas)|-|16|2024-04-11|2024-02-05|
+|39|[FenghaoZhu/WMMSE](https://github.com/FenghaoZhu/WMMSE)|This is the code implementation for the WMMSE algorithm.|16|2024-03-10|2024-01-04|
+|40|[anafreis/OTFS_CE](https://github.com/anafreis/OTFS_CE)|This repository presents the codes for reproducing the paper "LSTM-Based Time-Frequency Domain Channel Estimation for OTFS Modulation".|15|2024-06-13|2024-04-25|
+|41|[Ryan-yzy/Active-RIS-ISAC](https://github.com/Ryan-yzy/Active-RIS-ISAC)|Simulation codes for my paper in TCOM: Active RIS-Aided ISAC Systems: Beamforming Design and Performance Analysis|15|2024-04-21|2024-04-21|
+|42|[Yasar234/Echo-Cancellation-Using-LMS-Algorithm](https://github.com/Yasar234/Echo-Cancellation-Using-LMS-Algorithm)|We developed to mitigate  unwanted echoes in a communication system.Echo cancellation is crucial in scenarios where echoes occur, such as in telecommunication systems, VoIP (Voice over Internet Protoc ...|15|2024-03-11|2024-03-05|
+|43|[Shida-Jiang/EKF_UKF_SOCSOH_estimation](https://github.com/Shida-Jiang/EKF_UKF_SOCSOH_estimation)|Battery State-of-Charge and State-of-Health Co-estimation Using EKF and UKF|15|2024-07-10|2024-02-05|
 |44|[FenghaoZhu/E-WMMSE](https://github.com/FenghaoZhu/E-WMMSE)|This is the code implementation for the E-WMMSE algorithm.|15|2024-03-10|2024-01-04|
 |45|[thinwalled/cufsm-git](https://github.com/thinwalled/cufsm-git)|Github repo for CUFSM - cross-section elastic buckling analysis tool using the finite strip method.|15|2024-08-04|2023-12-29|
 |46|[whatshow/Phy_Mod_OTFS](https://github.com/whatshow/Phy_Mod_OTFS)|This repository is a fundamental toolbox of OTFS modulation crossing multiple platforms.|15|2024-07-25|2023-11-29|
@@ -64,7 +64,7 @@
 |57|[ThecoderPinar/Earthquake_Prediction_Analysis_Project](https://github.com/ThecoderPinar/Earthquake_Prediction_Analysis_Project)|🌍 Welcome to the Earthquake Prediction Analysis Project! 🚀 This project aims to predict earthquake magnitudes using LSTM neural networks and analyze seismic data. Explore, analyze, and forecast earthq ...|13|2024-03-28|2024-03-27|
 |58|[YijieLinaMao/BD-RIS-low-complexity](https://github.com/YijieLinaMao/BD-RIS-low-complexity)|Simulation code for the paper: T. Fang and Y. Mao, "A Low-Complexity Beamforming Design for Beyond-Diagonal RIS Aided Multi-User Networks," in IEEE Communications Letters, vol. 28, no. 1, pp. 203-207, ...|13|2024-03-16|2024-03-16|
 |59|[rlrangel/DEMLab](https://github.com/rlrangel/DEMLab)|Discrete Element Method Laboratory|13|2024-08-11|2024-02-20|
-|60|[MathWorks-Teaching-Resources/Applied-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)|A collection of teaching scripts showing applications of linear algebra to chemistry, computer science, mechanical engineering, and more.|13|2024-04-30|2023-10-09|
+|60|[MathWorks-Teaching-Resources/Applied-Linear-Algebra](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)|A collection of teaching scripts showing applications of linear algebra to chemistry, computer science, mechanical engineering, and more.|13|2024-08-23|2023-10-09|
 |61|[duynamrcv/reconfigurable_vshape](https://github.com/duynamrcv/reconfigurable_vshape)|Self-reconfiguration strategy for UAVs Formation|13|2024-05-12|2023-10-06|
 |62|[Ahlfeldt/MRRH2018-toolkit](https://github.com/Ahlfeldt/MRRH2018-toolkit)|Toolkit for quantitative spatial models à la Monte, Redding, Rossi-Hansberg (2018)|12|2024-07-16|2024-05-11|
 |63|[peterdorffler/deHomTop808](https://github.com/peterdorffler/deHomTop808)|An 808-line Matlab educational code for combined multi-scale topology optimisation and phasor-based dehomogenisation|12|2024-05-22|2024-04-21|
@@ -112,38 +112,38 @@
 |105|[liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication](https://github.com/liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication)|The code about published ISAC paper|9|2024-04-03|2024-04-03|
 |106|[ayapandada/DeAEP](https://github.com/ayapandada/DeAEP)|Approximated Expectation Propagation assisted Decentralized Signal Detection for Uplink Massive MIMO-OTFS Systems|9|2024-04-17|2024-04-02|
 |107|[Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization](https://github.com/Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization)|Reservoir computing for short-and long-term prediction of chaotic systems, with tasks Lorenz and Mackey-Glass systems. Bayesian optimization (hyperparameter optimization algorithm) is used to tune the ...|9|2024-04-17|2024-04-01|
-|108|[f-brinkmann/AKtools](https://github.com/f-brinkmann/AKtools)|-|9|2024-08-22|2024-02-26|
-|109|[zxcn/MSSLSJointCalibration](https://github.com/zxcn/MSSLSJointCalibration)|This project provides Matlab code and verification data for paper entitled "A joint calibration method for monocular speckle structured light system".|9|2024-03-29|2024-02-18|
-|110|[COBRAPROsimulator/COBRAPRO](https://github.com/COBRAPROsimulator/COBRAPRO)|-|9|2024-04-15|2024-02-10|
-|111|[zhouwt612/MIMO-LF-robust-precoding](https://github.com/zhouwt612/MIMO-LF-robust-precoding)|Simulation code for "Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback" by Wentao Zhou, Di Zhang, Mérouane Debbah, Inkyu Lee.|9|2024-04-08|2023-12-29|
-|112|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|9|2024-04-13|2023-12-22|
-|113|[purnanandelango/ct-scvx](https://github.com/purnanandelango/ct-scvx)|Successive Convexification with Continuous-Time Constraint Satisfaction|9|2024-05-29|2023-10-14|
-|114|[simscape/EV-Thermal-Management-Simscape-ELIV-2023](https://github.com/simscape/EV-Thermal-Management-Simscape-ELIV-2023)|Model for ELIV Conference 2023|9|2024-05-02|2023-10-13|
-|115|[roahmlab/armour](https://github.com/roahmlab/armour)|Autonomous Robust Manipulation via Optimization with Uncertainty-aware Reachability|9|2024-08-21|2023-10-12|
-|116|[emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis](https://github.com/emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis)|In this repository you will find  the reprodution of results the paper "Rate-Splitting Unifying SDMA, OMA, NOMA and Multicasting in MISO Broadcast Channel: A Simple Two-User Rate Analysis".|9|2024-03-17|2023-10-11|
-|117|[ROCASSO/MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|Author: Yizhou Peng, Songjie Yang, Wanting Lyu, et,al.|9|2024-05-23|2023-10-11|
-|118|[jarikorhonen/hriq](https://github.com/jarikorhonen/hriq)|High Resolution Image Quality (HRIQ) database and model|9|2024-05-22|2023-08-28|
-|119|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|2024-07-29|2024-07-29|
-|120|[Lii-Yan/IoT-AP-Localization-WiFi-CSI](https://github.com/Lii-Yan/IoT-AP-Localization-WiFi-CSI)|Efficient IoT Devices/AP Localization Through Wi-Fi CSI Feature Fusion and Anomaly Detection|8|2024-07-10|2024-06-28|
-|121|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|8|2024-06-16|2024-06-16|
-|122|[elifbeyzatok00/Optimization-Of-The-BWO-Algorithm](https://github.com/elifbeyzatok00/Optimization-Of-The-BWO-Algorithm)|Optimization Of The Beluga Whale Optimization (BWO) Algorithm - Beluga Balinası Optimizasyonu (BWO) Algoritmasının Optimizasyonu|8|2024-07-08|2024-05-30|
-|123|[JianchengAn/SIM-1-MIMO](https://github.com/JianchengAn/SIM-1-MIMO)|This is the code for utilizing Stacked Intelligent Metasurfaces (SIM) to implement MIMO precoding and combining|8|2024-05-22|2024-05-22|
-|124|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
-|125|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |8|2024-06-19|2024-04-26|
-|126|[Armanx200/Regular-Polygon-Spiral](https://github.com/Armanx200/Regular-Polygon-Spiral)|This MATLAB script generates Regular Polygon Spiral drawings with customizable parameters such as the number of sides, figure center, radius, iteration count, angle distribution, color, and direction. ...|8|2024-05-03|2024-04-24|
-|127|[getOcr/WiLab-plus](https://github.com/getOcr/WiLab-plus)|An improved system and link level simulator for ISAC and 5G NR Sidelink positioning|8|2024-07-14|2024-04-24|
-|128|[whuinsar/IPGS](https://github.com/whuinsar/IPGS)|-|8|2024-05-31|2024-04-22|
-|129|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
-|130|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
-|131|[Sha-Group/OAM-Propagation](https://github.com/Sha-Group/OAM-Propagation)|Topological Charge and Fourier Optics Calculation of Vortex Beams Carrying Orbital Angular Momentum|8|2024-03-20|2024-03-20|
-|132|[RealJackYeh/AC_Motor_Control_Loop_Design](https://github.com/RealJackYeh/AC_Motor_Control_Loop_Design)|-|8|2024-06-13|2024-03-19|
+|108|[RealJackYeh/AC_Motor_Control_Loop_Design](https://github.com/RealJackYeh/AC_Motor_Control_Loop_Design)|-|9|2024-06-13|2024-03-19|
+|109|[f-brinkmann/AKtools](https://github.com/f-brinkmann/AKtools)|-|9|2024-08-22|2024-02-26|
+|110|[zxcn/MSSLSJointCalibration](https://github.com/zxcn/MSSLSJointCalibration)|This project provides Matlab code and verification data for paper entitled "A joint calibration method for monocular speckle structured light system".|9|2024-03-29|2024-02-18|
+|111|[COBRAPROsimulator/COBRAPRO](https://github.com/COBRAPROsimulator/COBRAPRO)|-|9|2024-04-15|2024-02-10|
+|112|[zhouwt612/MIMO-LF-robust-precoding](https://github.com/zhouwt612/MIMO-LF-robust-precoding)|Simulation code for "Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback" by Wentao Zhou, Di Zhang, Mérouane Debbah, Inkyu Lee.|9|2024-04-08|2023-12-29|
+|113|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|9|2024-04-13|2023-12-22|
+|114|[purnanandelango/ct-scvx](https://github.com/purnanandelango/ct-scvx)|Successive Convexification with Continuous-Time Constraint Satisfaction|9|2024-05-29|2023-10-14|
+|115|[simscape/EV-Thermal-Management-Simscape-ELIV-2023](https://github.com/simscape/EV-Thermal-Management-Simscape-ELIV-2023)|Model for ELIV Conference 2023|9|2024-05-02|2023-10-13|
+|116|[roahmlab/armour](https://github.com/roahmlab/armour)|Autonomous Robust Manipulation via Optimization with Uncertainty-aware Reachability|9|2024-08-21|2023-10-12|
+|117|[emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis](https://github.com/emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis)|In this repository you will find  the reprodution of results the paper "Rate-Splitting Unifying SDMA, OMA, NOMA and Multicasting in MISO Broadcast Channel: A Simple Two-User Rate Analysis".|9|2024-03-17|2023-10-11|
+|118|[ROCASSO/MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|Author: Yizhou Peng, Songjie Yang, Wanting Lyu, et,al.|9|2024-05-23|2023-10-11|
+|119|[jarikorhonen/hriq](https://github.com/jarikorhonen/hriq)|High Resolution Image Quality (HRIQ) database and model|9|2024-05-22|2023-08-28|
+|120|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|2024-07-29|2024-07-29|
+|121|[Lii-Yan/IoT-AP-Localization-WiFi-CSI](https://github.com/Lii-Yan/IoT-AP-Localization-WiFi-CSI)|Efficient IoT Devices/AP Localization Through Wi-Fi CSI Feature Fusion and Anomaly Detection|8|2024-07-10|2024-06-28|
+|122|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|8|2024-06-16|2024-06-16|
+|123|[elifbeyzatok00/Optimization-Of-The-BWO-Algorithm](https://github.com/elifbeyzatok00/Optimization-Of-The-BWO-Algorithm)|Optimization Of The Beluga Whale Optimization (BWO) Algorithm - Beluga Balinası Optimizasyonu (BWO) Algoritmasının Optimizasyonu|8|2024-07-08|2024-05-30|
+|124|[JianchengAn/SIM-1-MIMO](https://github.com/JianchengAn/SIM-1-MIMO)|This is the code for utilizing Stacked Intelligent Metasurfaces (SIM) to implement MIMO precoding and combining|8|2024-05-22|2024-05-22|
+|125|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
+|126|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |8|2024-06-19|2024-04-26|
+|127|[Armanx200/Regular-Polygon-Spiral](https://github.com/Armanx200/Regular-Polygon-Spiral)|This MATLAB script generates Regular Polygon Spiral drawings with customizable parameters such as the number of sides, figure center, radius, iteration count, angle distribution, color, and direction. ...|8|2024-05-03|2024-04-24|
+|128|[getOcr/WiLab-plus](https://github.com/getOcr/WiLab-plus)|An improved system and link level simulator for ISAC and 5G NR Sidelink positioning|8|2024-07-14|2024-04-24|
+|129|[whuinsar/IPGS](https://github.com/whuinsar/IPGS)|-|8|2024-05-31|2024-04-22|
+|130|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
+|131|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
+|132|[Sha-Group/OAM-Propagation](https://github.com/Sha-Group/OAM-Propagation)|Topological Charge and Fourier Optics Calculation of Vortex Beams Carrying Orbital Angular Momentum|8|2024-03-20|2024-03-20|
 |133|[Tejnithish/FPGA-using-LMS-Algorithm](https://github.com/Tejnithish/FPGA-using-LMS-Algorithm)|-|8|2024-03-11|2024-03-11|
 |134|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|MIT Orbital Capacity Assessment Toolbox MC for the LEO environment|8|2024-08-21|2023-12-14|
 |135|[liqiao19/ISAC](https://github.com/liqiao19/ISAC)|Code for IEEE Tcom paper: Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO|8|2024-05-26|2023-11-29|
 |136|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A MATLAB toolbox designed for the SCHISM ocean model|8|2024-05-07|2023-11-26|
 |137|[caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels](https://github.com/caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels)|-|8|2024-05-14|2023-10-24|
 |138|[nla-group/classix-matlab](https://github.com/nla-group/classix-matlab)|Fast and explainable clustering in MATLAB|8|2024-08-07|2023-10-23|
-|139|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|8|2024-08-22|2023-09-04|
+|139|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|8|2024-08-24|2023-09-04|
 |140|[rshante0426/AOSG](https://github.com/rshante0426/AOSG)|Unsupervised multimodal change detection based on adaptive optimization of structured graph|7|2024-07-21|2024-07-18|
 |141|[MoritzGrundei/tour-into-the-picture](https://github.com/MoritzGrundei/tour-into-the-picture)|This repository contains our group solution for the 2024 challenge in the computer vision class|7|2024-07-09|2024-06-17|
 |142|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|2024-08-01|2024-05-23|
@@ -160,18 +160,18 @@
 |153|[ZQuang2202/Reinforcement-learning-based-control-for-BTs](https://github.com/ZQuang2202/Reinforcement-learning-based-control-for-BTs)|This is a demo code. The complete code will be updated soon!|7|2024-08-14|2024-03-02|
 |154|[WindyLab/Bearing-angle](https://github.com/WindyLab/Bearing-angle)|The source code for our paper "A bearing-angle approach for unknown target motion analysis based on visual measurements".  This file contains five numerical simulation experiments conresponding to Fig ...|7|2024-03-04|2024-03-01|
 |155|[dingshansun/RL-based-PMPC](https://github.com/dingshansun/RL-based-PMPC)|Relevant codes of the paper ``Adaptive Parameterized Model Predictive Control Based on Reinforcement Learning: A Synthesis Framework"|7|2024-03-04|2024-02-26|
-|156|[IgnacioSantamaria/Code_SPLetters2023](https://github.com/IgnacioSantamaria/Code_SPLetters2023)|Matlab code for paper "SNR Maximization in Beyond Diagonal RIS-assisted Single and Multiple Antenna Links" by Ignacio Santamaria, Mohammad Soleymani, Eduard Jorswieck, and Jesus Gutierrez|7|2024-02-23|2024-02-23|
-|157|[hanbaeklee/ComputationLab](https://github.com/hanbaeklee/ComputationLab)|-|7|2024-03-25|2024-01-24|
-|158|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|2024-08-16|2023-12-19|
-|159|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|7|2024-07-19|2023-12-09|
-|160|[tomgarth/ISC_Earthquake_Toolbox](https://github.com/tomgarth/ISC_Earthquake_Toolbox)|A set of MATLAB functions for downloading and handling earthquake data from the International Seismological Centre (ISC)|7|2024-08-07|2023-11-30|
-|161|[MIT-SPARK/certifiable_tracking](https://github.com/MIT-SPARK/certifiable_tracking)|-|7|2024-06-27|2023-11-16|
-|162|[junbolian/HEOA](https://github.com/junbolian/HEOA)|The source code of human evolutionary optimization algorithm (HEOA)|7|2024-05-15|2023-11-15|
-|163|[AILocAR/androidGnss](https://github.com/AILocAR/androidGnss)|MATLAB Codes for Pseudorange Positioning with Android Raw GNSS Measurements|7|2024-05-26|2023-11-14|
-|164|[JinshuaiBai/RPIM_NNS](https://github.com/JinshuaiBai/RPIM_NNS)|MATLAB codes for the RPIM-NNS|7|2024-06-26|2023-11-09|
-|165|[TinyMPC/tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab)|MATLAB interactive interface for TinyMPC|7|2024-06-04|2023-11-08|
-|166|[arvin1367/3-D-Deformation-Inversion](https://github.com/arvin1367/3-D-Deformation-Inversion)|A MATLAB toolbox for automatically calculating SAR-derived 3-D deformation maps of glacier, landslide, and land subsidence|7|2024-08-08|2023-11-01|
-|167|[mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-](https://github.com/mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-)|-|7|2024-05-06|2023-10-28|
+|156|[hanbaeklee/ComputationLab](https://github.com/hanbaeklee/ComputationLab)|-|7|2024-03-25|2024-01-24|
+|157|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|2024-08-16|2023-12-19|
+|158|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|7|2024-07-19|2023-12-09|
+|159|[tomgarth/ISC_Earthquake_Toolbox](https://github.com/tomgarth/ISC_Earthquake_Toolbox)|A set of MATLAB functions for downloading and handling earthquake data from the International Seismological Centre (ISC)|7|2024-08-07|2023-11-30|
+|160|[MIT-SPARK/certifiable_tracking](https://github.com/MIT-SPARK/certifiable_tracking)|-|7|2024-06-27|2023-11-16|
+|161|[junbolian/HEOA](https://github.com/junbolian/HEOA)|The source code of human evolutionary optimization algorithm (HEOA)|7|2024-05-15|2023-11-15|
+|162|[AILocAR/androidGnss](https://github.com/AILocAR/androidGnss)|MATLAB Codes for Pseudorange Positioning with Android Raw GNSS Measurements|7|2024-05-26|2023-11-14|
+|163|[JinshuaiBai/RPIM_NNS](https://github.com/JinshuaiBai/RPIM_NNS)|MATLAB codes for the RPIM-NNS|7|2024-06-26|2023-11-09|
+|164|[TinyMPC/tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab)|MATLAB interactive interface for TinyMPC|7|2024-06-04|2023-11-08|
+|165|[arvin1367/3-D-Deformation-Inversion](https://github.com/arvin1367/3-D-Deformation-Inversion)|A MATLAB toolbox for automatically calculating SAR-derived 3-D deformation maps of glacier, landslide, and land subsidence|7|2024-08-08|2023-11-01|
+|166|[mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-](https://github.com/mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-)|-|7|2024-05-06|2023-10-28|
+|167|[RealJackYeh/ep168_smo](https://github.com/RealJackYeh/ep168_smo)|-|7|2024-06-03|2023-10-07|
 |168|[khachoang1412/AoI_slottedALOHA_energyHarvesting](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)|Matlab codes for the paper [1] K.-H. Ngo, G. Durisi, A. Munari, and F. Lazaro, and A. Graell i Amat, "Timely status updates in slotted ALOHA networks with energy harvesting," submitted to IEEE Transac ...|7|2024-06-04|2023-09-23|
 |169|[DecodEPFL/HomotheticMPCmultistep](https://github.com/DecodEPFL/HomotheticMPCmultistep)|Accompanying code for the paper "Homothetic tube model predictive control with multi-step predictors".|7|2024-03-22|2023-09-05|
 |170|[sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method](https://github.com/sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method)|Aeronautical Communication Traffic Simulation Based on Kernel Density Estimation Method|6|2024-07-29|2024-07-29|

@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Perl
-<sub>Updated: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)|Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:|17240|6|2024-08-20|
-|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|19171|6|2024-08-02|
+|2|[AlDanial/cloc](https://github.com/AlDanial/cloc)|cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.|19178|6|2024-08-02|
 |3|[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)|Stack trace visualizer|16986|4|2024-07-14|
-|4|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|2990|3|2024-04-24|
-|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|8267|2|2024-08-16|
+|4|[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)|-|2991|3|2024-04-24|
+|5|[sullo/nikto](https://github.com/sullo/nikto)|Nikto web server scanner|8266|2|2024-08-16|
 |6|[sitaramc/gitolite](https://github.com/sitaramc/gitolite)|Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.|8364|2|2024-05-28|
-|7|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|8815|2|2024-08-06|
+|7|[major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)|MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.|8817|2|2024-08-06|
 |8|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|42|1|2024-07-27|
 |9|[darold/pgbadger](https://github.com/darold/pgbadger)|A fast PostgreSQL Log Analyzer|3483|1|2024-07-07|
-|10|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4644|1|2024-04-10|
-|11|[holzschu/a-shell](https://github.com/holzschu/a-shell)|A terminal for iOS, with multiple windows|2573|1|2024-07-29|
+|10|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4645|1|2024-04-10|
+|11|[holzschu/a-shell](https://github.com/holzschu/a-shell)|A terminal for iOS, with multiple windows|2574|1|2024-07-29|
 |12|[sqitchers/sqitch](https://github.com/sqitchers/sqitch)|Sensible database change management|2747|1|2024-06-06|
-|13|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|4|1|2024-08-20|
-|14|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|195|1|2024-06-10|
+|13|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|4|1|2024-08-24|
+|14|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|198|1|2024-06-10|
 |15|[theophile/SuperSlicer_to_Orca_scripts](https://github.com/theophile/SuperSlicer_to_Orca_scripts)|Script(s) to convert SuperSlicer data for use in Orca Slicer|202|1|2024-03-10|
 |16|[thoughtbot/rcm](https://github.com/thoughtbot/rcm)|rc file (dotfile) management|3115|1|2024-08-16|
-|17|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|2140|1|2024-08-19|
-|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|2596|1|2024-07-21|
+|17|[Difegue/LANraragi](https://github.com/Difegue/LANraragi)|Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.|2141|1|2024-08-19|
+|18|[GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)|An open-source digital image forensic toolset|2597|1|2024-07-21|
 |19|[bagder/emails](https://github.com/bagder/emails)|emails I received|223|1|2024-08-22|
 |20|[ovh/the-bastion](https://github.com/ovh/the-bastion)|Authentication, authorization, traceability and auditability for SSH accesses.|1481|1|2024-08-12|
 |21|[rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)|a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)|3181|1|2024-08-17|
-|22|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1886|1|2024-07-18|
-|23|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|2291|1|2024-08-22|
-|24|[sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf)|SICP PDF with Texinfo and LaTeX source|4268|1|2024-06-27|
-|25|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3297|1|2024-06-19|
-|26|[sbwml/halflife-list](https://github.com/sbwml/halflife-list)|ABP/ublock 广告过滤规则（每周一早上9点更新）|683|1|2024-08-19|
-|27|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|3092|1|2024-08-20|
-|28|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|3041|1|2024-08-09|
+|22|[htrgouvea/nipe](https://github.com/htrgouvea/nipe)|An engine to make Tor network your default gateway|1899|1|2024-07-18|
+|23|[ddclient/ddclient](https://github.com/ddclient/ddclient)|Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.|2292|1|2024-08-22|
+|24|[sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf)|SICP PDF with Texinfo and LaTeX source|4269|1|2024-06-27|
+|25|[imapsync/imapsync](https://github.com/imapsync/imapsync)|Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth ...|3299|1|2024-06-19|
+|26|[sbwml/halflife-list](https://github.com/sbwml/halflife-list)|ABP/ublock 广告过滤规则（每周一早上9点更新）|682|1|2024-08-19|
+|27|[exiftool/exiftool](https://github.com/exiftool/exiftool)|ExifTool meta information reader/writer|3093|1|2024-08-20|
+|28|[jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid)|These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)|3042|1|2024-08-09|
 |29|[Kaligula0/Finance-Quote-module-Obligacje-Skarbowe](https://github.com/Kaligula0/Finance-Quote-module-Obligacje-Skarbowe)|Moduł do Finance::Quote (i GnuCash) obliczający wartość polskich obligacji skarbowych.|2|0|2024-05-31|
 |30|[zer0liu/bioutils](https://github.com/zer0liu/bioutils)|Routine utilities for seuqnece operation|5|0|2024-03-18|
 |31|[JCVenterInstitute/PanACEA](https://github.com/JCVenterInstitute/PanACEA)|PanACEA is a suite of PERL scripts that allows for visualization of prokaryotic pan-chromosomes, including core and variable regions.|7|0|2024-03-20|
@@ -85,7 +85,7 @@
 |78|[zentyal/zentyal](https://github.com/zentyal/zentyal)|Linux Small Business Server|530|0|2024-08-23|
 |79|[proxmox/pve-access-control](https://github.com/proxmox/pve-access-control)|Access control framework|22|0|2024-07-22|
 |80|[unixdotfiles/bin](https://github.com/unixdotfiles/bin)|~/bin|2|0|2024-07-07|
-|81|[rocky-linux/os-autoinst-distri-rocky](https://github.com/rocky-linux/os-autoinst-distri-rocky)|Tests and images for testing Rocky with openQA|6|0|2024-08-21|
+|81|[rocky-linux/os-autoinst-distri-rocky](https://github.com/rocky-linux/os-autoinst-distri-rocky)|Tests and images for testing Rocky with openQA|5|0|2024-08-21|
 |82|[karenetheridge/Mojolicious-Plugin-OpenAPI-Modern](https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern)|Mojolicious plugin providing access to an OpenAPI document and parser|3|0|2024-08-19|
 |83|[JJ/IV](https://github.com/JJ/IV)|Asignatura de infraestructuras virtuales para el Grado de Informática|70|0|2024-08-06|
 |84|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|0|2024-07-28|
@@ -107,7 +107,7 @@
 |100|[w5xd/diysha](https://github.com/w5xd/diysha)|Do it yourself secure home automation|2|0|2024-06-08|
 |101|[yjx1217/Varathon](https://github.com/yjx1217/Varathon)|A scalable variant calling and benchmarking framework supporting both short and long reads.|11|0|2024-05-24|
 |102|[nekokak/p5-Teng](https://github.com/nekokak/p5-Teng)|simple DBI wrapper/ORMapper|86|0|2024-03-06|
-|103|[anhsirk0/create-ts-app](https://github.com/anhsirk0/create-ts-app)|Simple script to setup empty ts projects.|3|0|2024-08-11|
+|103|[anhsirk0/create-ts-app](https://github.com/anhsirk0/create-ts-app)|Simple script to setup empty ts projects.|3|0|2024-08-24|
 |104|[jdamas13/assembly_comparison](https://github.com/jdamas13/assembly_comparison)|Code for identifying differences between assemblies|2|0|2024-05-13|
 |105|[jiwoongbio/Annomen](https://github.com/jiwoongbio/Annomen)|Annotate variant nomenclature|3|0|2024-08-12|
 |106|[jwilk/mbank-cli](https://github.com/jwilk/mbank-cli)|command line interface to mBank online banking system|39|0|2024-06-12|
@@ -117,7 +117,7 @@
 |110|[shiraz-shah/VFCs](https://github.com/shiraz-shah/VFCs)|Code for de novo discovery of viral families in virome data|13|0|2024-06-20|
 |111|[siracusa/rose](https://github.com/siracusa/rose)|Automatically exported from code.google.com/p/rose|10|0|2024-08-20|
 |112|[trwyant/perl-Mac-Pasteboard](https://github.com/trwyant/perl-Mac-Pasteboard)|Manipulate Mac OS X pasteboards (a.k.a. clipboards)|3|0|2024-06-05|
-|113|[danuk/shm](https://github.com/danuk/shm)|Universal Billing with external actions|46|0|2024-08-19|
+|113|[danuk/shm](https://github.com/danuk/shm)|Universal Billing with external actions|47|0|2024-08-19|
 |114|[briandfoy/test-data](https://github.com/briandfoy/test-data)|The Test::Data Perl module|3|0|2024-03-09|
 |115|[mueschel/OsmDestinationSigns](https://github.com/mueschel/OsmDestinationSigns)|Display of OSM destination signs|9|0|2024-03-28|
 |116|[lskatz/cecaelia](https://github.com/lskatz/cecaelia)|Earmarking a tool that would read kraken raw output and detect chimera reads or contigs|2|0|2024-06-11|
@@ -140,12 +140,12 @@
 |133|[scoopex/hostctl](https://github.com/scoopex/hostctl)|hostctl - convenient management and execution of comand on groups of hosts|6|0|2024-07-20|
 |134|[toadchild/inf-dice](https://github.com/toadchild/inf-dice)|Dice probability tool for the miniatures game Infinity|3|0|2024-05-27|
 |135|[YunoHost-Apps/lufi_ynh](https://github.com/YunoHost-Apps/lufi_ynh)|Lufi package for YunoHost|15|0|2024-06-23|
-|136|[RexOps/Rex](https://github.com/RexOps/Rex)|Rex, the friendly automation framework|712|0|2024-08-23|
+|136|[RexOps/Rex](https://github.com/RexOps/Rex)|Rex, the friendly automation framework|712|0|2024-08-24|
 |137|[gharris999/SrvrPowerCtrl](https://github.com/gharris999/SrvrPowerCtrl)|Server Power Control Plugin for Logitech Media Server|8|0|2024-05-01|
 |138|[rshingleton/Mojo-Darkpan](https://github.com/rshingleton/Mojo-Darkpan)|-|3|0|2024-07-26|
 |139|[gabrieldeal/yellowleaf-trips](https://github.com/gabrieldeal/yellowleaf-trips)|A primitive CMS for an outdoor blog ⛰ 🌄 ⛰|2|0|2024-04-21|
 |140|[sitaramc/gitolite-doc](https://github.com/sitaramc/gitolite-doc)|detailed documentation for gitolite, split out from the main gitolite repo.  CC-BY-NC-SA (mostly)|17|0|2024-05-28|
-|141|[haglobah/Mastering-42](https://github.com/haglobah/Mastering-42)|less pain, more gain.|11|0|2024-04-15|
+|141|[haglobah/Mastering-42](https://github.com/haglobah/Mastering-42)|less pain, more gain.|11|0|2024-08-24|
 |142|[derf/Travel-Status-DE-DeutscheBahn](https://github.com/derf/Travel-Status-DE-DeutscheBahn)|Commandline Public Transit Departure Monitor|15|0|2024-08-19|
 |143|[mahlonsmith/shelldap](https://github.com/mahlonsmith/shelldap)|A handy shell-like interface for browsing LDAP servers and editing their content. It keeps command history, has sane autocompletes, credential caching, site-wide and individual configs, and it's fun t ...|38|0|2024-04-30|
 |144|[znuny/OTRSCloneDB](https://github.com/znuny/OTRSCloneDB)|Helper script to migrate a Znuny database into a different RDBMS.|2|0|2024-08-08|
@@ -158,7 +158,7 @@
 |151|[rjbs/Getopt-Long-Descriptive](https://github.com/rjbs/Getopt-Long-Descriptive)|Getopt::Long, but simpler and more powerful|20|0|2024-08-09|
 |152|[pkolano/ballast](https://github.com/pkolano/ballast)|Lightweight SSH load balancer supporting user-specific selection policies|93|0|2024-05-11|
 |153|[rurban/cannes-ratings](https://github.com/rurban/cannes-ratings)|Dancer app for collected film festival reviews and ratings|5|0|2024-06-16|
-|154|[mpyne-navy/navadmin-scanner](https://github.com/mpyne-navy/navadmin-scanner)|Scans for new NAVADMIN messages from source Navy website|5|0|2024-08-22|
+|154|[mpyne-navy/navadmin-scanner](https://github.com/mpyne-navy/navadmin-scanner)|Scans for new NAVADMIN messages from source Navy website|5|0|2024-08-24|
 |155|[rnakato/script_rnakato](https://github.com/rnakato/script_rnakato)|-|2|0|2024-03-21|
 |156|[cpan-testers/cpantesters-web](https://github.com/cpan-testers/cpantesters-web)|A new CPAN Testers web application. The primary interface for CPAN Testers data|7|0|2024-04-26|
 |157|[Dual-Life/experimental](https://github.com/Dual-Life/experimental)|Experimental features made easy|6|0|2024-04-25|
@@ -171,26 +171,26 @@
 |164|[Pinous-Heberg/proxmox-win-cloudinit](https://github.com/Pinous-Heberg/proxmox-win-cloudinit)|This is an implementation of Cloudbase-Init to Windows virtual machines running in a Proxmox Node in order to use cloud-init with those vms.|5|0|2024-08-16|
 |165|[Kelp-framework/Kelp](https://github.com/Kelp-framework/Kelp)|Main repository of the Kelp web framework|69|0|2024-07-08|
 |166|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|17|0|2024-07-15|
-|167|[genesis-community/genesis](https://github.com/genesis-community/genesis)|A BOSH Deployment Paradigm|54|0|2024-08-09|
+|167|[genesis-community/genesis](https://github.com/genesis-community/genesis)|A BOSH Deployment Paradigm|54|0|2024-08-24|
 |168|[Derbeth/perlwiki](https://github.com/Derbeth/perlwiki)|Perl scripts for editing MediaWiki wikis|5|0|2024-05-19|
 |169|[theos/nic](https://github.com/theos/nic)|Generates Theos projects based on a template.|11|0|2024-06-08|
 |170|[Kanazawanaoaki/paper-utils](https://github.com/Kanazawanaoaki/paper-utils)|-|5|0|2024-04-07|
 |171|[zbw/sparql-queries](https://github.com/zbw/sparql-queries)|Example SPARQL queries, mostly for working with ZBW data sets|14|0|2024-06-18|
-|172|[live-clones/lintian](https://github.com/live-clones/lintian)|Live clone of https://anonscm.debian.org/git/lintian/lintian.git.|3|0|2024-08-23|
+|172|[live-clones/lintian](https://github.com/live-clones/lintian)|Live clone of https://anonscm.debian.org/git/lintian/lintian.git.|3|0|2024-08-24|
 |173|[hboetes/configs](https://github.com/hboetes/configs)|“Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.”|2|0|2024-06-30|
 |174|[polettix/dibs](https://github.com/polettix/dibs)|Docker Image Build System|9|0|2024-06-15|
 |175|[mojolicious/mojo-assetpack](https://github.com/mojolicious/mojo-assetpack)|:tractor: Compress and convert CSS, Less, Sass and JavaScript files|29|0|2024-08-09|
 |176|[tokuhirom/OrePAN2](https://github.com/tokuhirom/OrePAN2)|-|22|0|2024-04-29|
 |177|[DrHyde/perl-modules-Net-Random](https://github.com/DrHyde/perl-modules-Net-Random)|Net::Random|7|0|2024-08-02|
 |178|[adunstan/DumpToc](https://github.com/adunstan/DumpToc)|Dump the Table of Contents of a PostgreSQL Custom Format Dump|6|0|2024-06-08|
-|179|[yaml/yaml-test-suite](https://github.com/yaml/yaml-test-suite)|Comprehensive, language independent Test Suite for YAML|179|0|2024-07-04|
+|179|[yaml/yaml-test-suite](https://github.com/yaml/yaml-test-suite)|Comprehensive, language independent Test Suite for YAML|180|0|2024-07-04|
 |180|[neicnordic/endit](https://github.com/neicnordic/endit)|Efficient Northern dCache Interface to TSM|6|0|2024-03-19|
 |181|[Dual-Life/autodie](https://github.com/Dual-Life/autodie)|Make functions succeed or die in Perl, with lexical scope.|33|0|2024-08-20|
 |182|[RagnarokOS/distrib](https://github.com/RagnarokOS/distrib)|Release building infrastructure|2|0|2024-06-17|
 |183|[jvc56/MineGCG](https://github.com/jvc56/MineGCG)|-|3|0|2024-08-21|
 |184|[Ovid/cyclonedx-parser](https://github.com/Ovid/cyclonedx-parser)|A parser for version 1.5 of the CycloneDX SBOM spec|3|0|2024-04-19|
 |185|[Superslub/AGI_Reverse_Lookup_DACH](https://github.com/Superslub/AGI_Reverse_Lookup_DACH)|Asterisk ReverseLookup (Rückwärtssuche) for Telefone Numbers DACH|11|0|2024-06-21|
-|186|[backuppc/backuppc](https://github.com/backuppc/backuppc)|BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.|1343|0|2024-07-26|
+|186|[backuppc/backuppc](https://github.com/backuppc/backuppc)|BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.|1344|0|2024-07-26|
 |187|[cade-vs/vfu-dist](https://github.com/cade-vs/vfu-dist)|VFU File Manager distribution setup, for VFU sources, see VFU repository here|2|0|2024-03-10|
 |188|[netdisco/snmp-info](https://github.com/netdisco/snmp-info)|-|36|0|2024-07-22|
 |189|[rafmod/MIME-Mini](https://github.com/rafmod/MIME-Mini)|Minimal code to parse/create mbox files and mail messages|2|0|2024-04-24|
@@ -202,7 +202,7 @@
 |195|[foswiki/distro](https://github.com/foswiki/distro)|START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.|108|0|2024-05-21|
 |196|[vampirechicken/WWW-AdventCalendar-Magrathea](https://github.com/vampirechicken/WWW-AdventCalendar-Magrathea)|Advent Calendar Planet Builder|5|0|2024-03-04|
 |197|[ufal/treex](https://github.com/ufal/treex)|Treex NLP framework|33|0|2024-05-05|
-|198|[Perl/perl5](https://github.com/Perl/perl5)|🐪 The Perl programming language|1895|0|2024-08-23|
+|198|[Perl/perl5](https://github.com/Perl/perl5)|🐪 The Perl programming language|1895|0|2024-08-24|
 |199|[proxmox/pve-common](https://github.com/proxmox/pve-common)|Proxmox Project's Common Perl Code|62|0|2024-07-31|
 |200|[rjuju/postgres-manage](https://github.com/rjuju/postgres-manage)|-|4|0|2024-06-05|
 
