@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10359|2024-08-05|2024-07-08|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10360|2024-08-05|2024-07-08|
 |2|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|268|2024-05-24|2024-03-15|
 |3|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|94|2024-07-13|2024-07-12|
-|4|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™|91|2024-08-23|2023-10-09|
+|4|[matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)|Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™|92|2024-08-23|2023-10-09|
 |5|[zhongshun/MCTS_for_Behavior_Planning](https://github.com/zhongshun/MCTS_for_Behavior_Planning)|-|55|2024-03-24|2023-09-11|
 |6|[malin84/transportation_networks_of_china](https://github.com/malin84/transportation_networks_of_china)|Datasets that cover the road and rail transportation networks in China|53|2024-07-30|2024-01-23|
 |7|[ideas-um/FAST](https://github.com/ideas-um/FAST)|Future Aircraft Sizing Tool|38|2024-08-23|2024-05-02|
@@ -98,7 +98,7 @@
 |91|[Shahak-Kuba/Melt-ElectroCoder-Application](https://github.com/Shahak-Kuba/Melt-ElectroCoder-Application)|-|10|2024-07-19|2024-02-07|
 |92|[Spinkoo/Matlab2TorchRL](https://github.com/Spinkoo/Matlab2TorchRL)|This project is a pipeline that connects a Matlab simulation (Simulink) to an OpenAI Gym wrapper for PyTorch Reinforcement Learning using the DQN algorithm.|10|2024-06-12|2024-01-10|
 |93|[jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM](https://github.com/jrcramos/Hybrid-modeling-of-bioreactor-with-LSTM)|Deep hybrid modeling of bioreactor cell culture data using Long Short-Term Memory (LSTM) networks combined with first principles equations|10|2024-03-21|2023-12-22|
-|94|[yu-lab-vt/AQuA2](https://github.com/yu-lab-vt/AQuA2)|Activity Quantification and Analysis for molecular spatiotemporal signals|10|2024-08-16|2023-12-20|
+|94|[yu-lab-vt/AQuA2](https://github.com/yu-lab-vt/AQuA2)|Activity Quantification and Analysis for molecular spatiotemporal signals|10|2024-08-25|2023-12-20|
 |95|[Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance](https://github.com/Winnie-Qi/Multi-Agents-Motion-Planning-and-Collision-Avoidance)|Dijkstra+minimum jerk+ORCA(RVO2)|10|2024-03-01|2023-12-08|
 |96|[OpenwaterHealth/opw_neuromod_sw](https://github.com/OpenwaterHealth/opw_neuromod_sw)|Openwater's Open-Source Neuromodulation Software|10|2024-07-11|2023-12-07|
 |97|[MathWorks-Teaching-Resources/Density-Functional-Theory](https://github.com/MathWorks-Teaching-Resources/Density-Functional-Theory)|Fundamentals and Applications of Density Functional Theory with Interactive Live Scripts and Intuitive Codes|10|2024-08-22|2023-11-13|
@@ -129,25 +129,25 @@
 |122|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|8|2024-06-16|2024-06-16|
 |123|[elifbeyzatok00/Optimization-Of-The-BWO-Algorithm](https://github.com/elifbeyzatok00/Optimization-Of-The-BWO-Algorithm)|Optimization Of The Beluga Whale Optimization (BWO) Algorithm - Beluga Balinası Optimizasyonu (BWO) Algoritmasının Optimizasyonu|8|2024-07-08|2024-05-30|
 |124|[JianchengAn/SIM-1-MIMO](https://github.com/JianchengAn/SIM-1-MIMO)|This is the code for utilizing Stacked Intelligent Metasurfaces (SIM) to implement MIMO precoding and combining|8|2024-05-22|2024-05-22|
-|125|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
-|126|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |8|2024-06-19|2024-04-26|
-|127|[Armanx200/Regular-Polygon-Spiral](https://github.com/Armanx200/Regular-Polygon-Spiral)|This MATLAB script generates Regular Polygon Spiral drawings with customizable parameters such as the number of sides, figure center, radius, iteration count, angle distribution, color, and direction. ...|8|2024-05-03|2024-04-24|
-|128|[getOcr/WiLab-plus](https://github.com/getOcr/WiLab-plus)|An improved system and link level simulator for ISAC and 5G NR Sidelink positioning|8|2024-07-14|2024-04-24|
-|129|[whuinsar/IPGS](https://github.com/whuinsar/IPGS)|-|8|2024-05-31|2024-04-22|
-|130|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
-|131|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
-|132|[Sha-Group/OAM-Propagation](https://github.com/Sha-Group/OAM-Propagation)|Topological Charge and Fourier Optics Calculation of Vortex Beams Carrying Orbital Angular Momentum|8|2024-03-20|2024-03-20|
-|133|[Tejnithish/FPGA-using-LMS-Algorithm](https://github.com/Tejnithish/FPGA-using-LMS-Algorithm)|-|8|2024-03-11|2024-03-11|
-|134|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|MIT Orbital Capacity Assessment Toolbox MC for the LEO environment|8|2024-08-21|2023-12-14|
-|135|[liqiao19/ISAC](https://github.com/liqiao19/ISAC)|Code for IEEE Tcom paper: Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO|8|2024-05-26|2023-11-29|
-|136|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A MATLAB toolbox designed for the SCHISM ocean model|8|2024-05-07|2023-11-26|
-|137|[caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels](https://github.com/caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels)|-|8|2024-05-14|2023-10-24|
-|138|[nla-group/classix-matlab](https://github.com/nla-group/classix-matlab)|Fast and explainable clustering in MATLAB|8|2024-08-07|2023-10-23|
-|139|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|8|2024-08-24|2023-09-04|
-|140|[rshante0426/AOSG](https://github.com/rshante0426/AOSG)|Unsupervised multimodal change detection based on adaptive optimization of structured graph|7|2024-07-21|2024-07-18|
-|141|[MoritzGrundei/tour-into-the-picture](https://github.com/MoritzGrundei/tour-into-the-picture)|This repository contains our group solution for the 2024 challenge in the computer vision class|7|2024-07-09|2024-06-17|
-|142|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|2024-08-01|2024-05-23|
-|143|[PM-Hu/MatPFF](https://github.com/PM-Hu/MatPFF)|MatPFF: Matlab FEM program for phase-field fracture (AT1/2, PFCZM) simulation|7|2024-06-01|2024-05-16|
+|125|[PM-Hu/MatPFF](https://github.com/PM-Hu/MatPFF)|MatPFF: Matlab FEM program for phase-field fracture (AT1/2, PFCZM) simulation|8|2024-06-01|2024-05-16|
+|126|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
+|127|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |8|2024-06-19|2024-04-26|
+|128|[Armanx200/Regular-Polygon-Spiral](https://github.com/Armanx200/Regular-Polygon-Spiral)|This MATLAB script generates Regular Polygon Spiral drawings with customizable parameters such as the number of sides, figure center, radius, iteration count, angle distribution, color, and direction. ...|8|2024-05-03|2024-04-24|
+|129|[getOcr/WiLab-plus](https://github.com/getOcr/WiLab-plus)|An improved system and link level simulator for ISAC and 5G NR Sidelink positioning|8|2024-07-14|2024-04-24|
+|130|[whuinsar/IPGS](https://github.com/whuinsar/IPGS)|-|8|2024-05-31|2024-04-22|
+|131|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
+|132|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
+|133|[Sha-Group/OAM-Propagation](https://github.com/Sha-Group/OAM-Propagation)|Topological Charge and Fourier Optics Calculation of Vortex Beams Carrying Orbital Angular Momentum|8|2024-03-20|2024-03-20|
+|134|[Tejnithish/FPGA-using-LMS-Algorithm](https://github.com/Tejnithish/FPGA-using-LMS-Algorithm)|-|8|2024-03-11|2024-03-11|
+|135|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|MIT Orbital Capacity Assessment Toolbox MC for the LEO environment|8|2024-08-21|2023-12-14|
+|136|[liqiao19/ISAC](https://github.com/liqiao19/ISAC)|Code for IEEE Tcom paper: Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO|8|2024-05-26|2023-11-29|
+|137|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A MATLAB toolbox designed for the SCHISM ocean model|8|2024-05-07|2023-11-26|
+|138|[caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels](https://github.com/caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels)|-|8|2024-05-14|2023-10-24|
+|139|[nla-group/classix-matlab](https://github.com/nla-group/classix-matlab)|Fast and explainable clustering in MATLAB|8|2024-08-07|2023-10-23|
+|140|[Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR](https://github.com/Raphael-Boichot/Knowledge-repo-about-the-Kong-Feng-GB-BOY-COLOUR)|All that I found by tearing down the Kong Feng GB BOY COLOUR|8|2024-08-24|2023-09-04|
+|141|[rshante0426/AOSG](https://github.com/rshante0426/AOSG)|Unsupervised multimodal change detection based on adaptive optimization of structured graph|7|2024-07-21|2024-07-18|
+|142|[MoritzGrundei/tour-into-the-picture](https://github.com/MoritzGrundei/tour-into-the-picture)|This repository contains our group solution for the 2024 challenge in the computer vision class|7|2024-07-09|2024-06-17|
+|143|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|2024-08-01|2024-05-23|
 |144|[RakeshK-Dev/Doppler-Shift-in-5G-NTN](https://github.com/RakeshK-Dev/Doppler-Shift-in-5G-NTN)|MATLAB Simulation to observe the variations in Doppler shift and the Channel Impulse Response due to mobility, sample rate in Freq Selective Fading TDL and Narrowband Flat Fading Channel models.|7|2024-05-13|2024-05-13|
 |145|[MorePanda123/TubeRRT](https://github.com/MorePanda123/TubeRRT)|This is the code for the homotopic path planning algorithm, named Tube-RRT*.|7|2024-04-25|2024-04-25|
 |146|[IlyaKuprov/Spinach](https://github.com/IlyaKuprov/Spinach)|A spin dynamics simulation package that covers the whole of magnetic resonance spectroscopy and imaging.|7|2024-08-19|2024-04-13|
@@ -204,7 +204,7 @@
 |197|[vikiehm/gc-ppsm](https://github.com/vikiehm/gc-ppsm)|-|6|2024-07-02|2024-03-26|
 |198|[Sha-Group/Topological-Invariant-Optics](https://github.com/Sha-Group/Topological-Invariant-Optics)|Topological Invariant Calculation for Photonic Crystals Including Chern Number and Wilson Loop|6|2024-03-20|2024-03-20|
 |199|[wcipAUTH/Automatic-Modulation-Classification-under-Phase-Imperfections](https://github.com/wcipAUTH/Automatic-Modulation-Classification-under-Phase-Imperfections)|We implement CNN-based Automatic Modulation Classification (AMC) by applying a polar transformation to the received symbols along with a modification to the kernel dimensions of the CNN in order to im ...|6|2024-03-15|2024-03-15|
-|200|[rlrangel/FEMOOLab](https://github.com/rlrangel/FEMOOLab)|Finite Element Method Object-Oriented Laboratory (FEMOOLab) is a MATLAB program for performing FEM-based numerical simulations, implemented in a modular OOP framework to allow different types of model ...|6|2024-03-20|2024-03-13|
+|200|[decargroup/gnc-adapt](https://github.com/decargroup/gnc-adapt)|Graduated Nonconvexity and Adaptive Robust loss algorithm|6|2024-03-14|2024-03-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

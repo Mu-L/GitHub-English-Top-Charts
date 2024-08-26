@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)|Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.|1475|2024-03-12|2023-12-27|
-|2|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|506|2024-03-03|2023-12-17|
-|3|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|455|2024-07-23|2024-01-02|
+|2|[TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS)|A collection of build properties for the PIF module|505|2024-03-03|2023-12-17|
+|3|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|456|2024-07-23|2024-01-02|
 |4|[micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel)|Vimtutor Sequel - Advanced Vim Tutor Lessons|438|2024-08-15|2024-08-02|
-|5|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|395|2024-06-17|2023-11-02|
-|6|[abdoufermat5/unix-and-linux-sysadmin-notes](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)|Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin|325|2024-08-23|2024-02-27|
-|7|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|307|2024-08-24|2023-10-30|
+|5|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|397|2024-06-17|2023-11-02|
+|6|[abdoufermat5/unix-and-linux-sysadmin-notes](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)|Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin|327|2024-08-23|2024-02-27|
+|7|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|308|2024-08-24|2023-10-30|
 |8|[TheyCallMeSecond/config-examples](https://github.com/TheyCallMeSecond/config-examples)|Hysteria2, TUIC, Reality, ShadowTLS, WebSocket, gRPC, Naive and Warp installer script + client side config examples|291|2024-08-18|2023-09-03|
 |9|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|287|2024-07-26|2023-12-02|
 |10|[XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection)|A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.|231|2024-07-21|2024-01-29|
@@ -20,11 +20,11 @@
 |13|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|95|2024-08-07|2024-01-12|
 |14|[Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom)|A type 1 & 2 hypervisor setup guide for evading detection from Proctors and Anti-Cheats.|88|2024-08-09|2023-09-19|
 |15|[Layr-Labs/eigenda-operator-setup](https://github.com/Layr-Labs/eigenda-operator-setup)|Quick start setup guide for EigenDA|79|2024-08-19|2023-11-08|
-|16|[gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland)|A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, ...|77|2024-08-08|2024-05-26|
-|17|[dd010101/vyos-jenkins](https://github.com/dd010101/vyos-jenkins)|Instructions on how to build your own vyos package mirror for stable branches (1.3 equuleus/1.4 sagitta) with Jenkins (for ISO build)|74|2024-08-09|2024-05-16|
+|16|[gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland)|A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, ...|78|2024-08-08|2024-05-26|
+|17|[dd010101/vyos-jenkins](https://github.com/dd010101/vyos-jenkins)|Instructions on how to build your own vyos package mirror for stable branches (1.3 equuleus/1.4 sagitta) with Jenkins (for ISO build)|74|2024-08-25|2024-05-16|
 |18|[alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community)|A collection of tools, prompts, snippets and agents for developers that use AI, daily.|74|2024-08-02|2023-11-19|
 |19|[tigerbeetle/tigerlings](https://github.com/tigerbeetle/tigerlings)|Learn TigerBeetle by fixing tiny broken scripts!|66|2024-07-08|2024-06-18|
-|20|[DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub)|This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore ...|62|2024-08-21|2024-08-14|
+|20|[DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub)|This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore ...|63|2024-08-25|2024-08-14|
 |21|[TermuxDev/termux-dev](https://github.com/TermuxDev/termux-dev)|Termux-Dev, learning to program on Android.|62|2024-08-07|2023-12-06|
 |22|[oflg/Tidme](https://github.com/oflg/Tidme)|Tidme uses advanced Incremental Learning concepts to make it your powerful second brain for acquiring lifelong knowledge.|61|2024-03-04|2023-09-21|
 |23|[0mhz-net/0mhz-collection](https://github.com/0mhz-net/0mhz-collection)|A curated collection of configurations for individually bootable DOS games for the ao486 core on MiSTer|58|2024-06-20|2024-03-07|

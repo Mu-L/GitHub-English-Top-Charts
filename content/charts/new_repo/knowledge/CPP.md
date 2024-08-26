@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -44,9 +44,9 @@
 |37|[NewNoxs/Wolfram-Mathematica-Activation](https://github.com/NewNoxs/Wolfram-Mathematica-Activation)|wolfram-mathematica-activation-free-download, wolfram-mathematica-activation-activation, wolfram-mathematica-activation-keygen, wolfram-mathematica-activation-software, wolfram-mathematica-activation- ...|158|2024-06-28|2024-06-28|
 |38|[veangeance/Roblox-undetect-hack](https://github.com/veangeance/Roblox-undetect-hack)|roblox-undetect-hack-tool, roblox-undetect-hack-advantage, roblox-undetect-hack-benefits, roblox-undetect-hack-guide, roblox-undetect-hack-features, roblox-undetect-hack-gameplay, roblox-undetect-hack ...|155|2024-06-28|2024-06-28|
 |39|[Ntcorpse/Cyberpunk-2077-undetect-hack](https://github.com/Ntcorpse/Cyberpunk-2077-undetect-hack)|cyberpunk-2077-undetect-hack-tool, cyberpunk-2077-undetect-cheat, cyberpunk-2077-undetect-tool, cyberpunk-2077-hack-undetect-download, cyberpunk-2077-undetect-hack-free, cyberpunk-2077-undetect-hacks- ...|153|2024-06-28|2024-06-28|
-|40|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
-|41|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
-|42|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|150|2024-08-21|2023-12-30|
+|40|[CSRT-NTUA/AlgoPlus](https://github.com/CSRT-NTUA/AlgoPlus)|AlgoPlus is a C++17 library for complex data structures and algorithms|151|2024-08-21|2023-12-30|
+|41|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
+|42|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
 |43|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |44|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
 |45|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|

@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10359|216|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10360|211|2024-08-05|
 |2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|94|2|2024-07-13|
 |3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6810|2|2024-06-01|
 |4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|268|2|2024-05-24|
-|5|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|671|1|2024-08-23|
+|5|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|672|1|2024-08-23|
 |6|[mahdieslaminet/EC-GWO](https://github.com/mahdieslaminet/EC-GWO)|EC-GWO: A Hybrid Clustering and Routing Protocol for IoV Leveraging Edge Computing and Bio-inspired Gray Wolf Optimization|18|1|2024-08-01|
 |7|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|731|1|2024-08-16|
 |8|[mahdieslaminet/adaptive_image_restoration](https://github.com/mahdieslaminet/adaptive_image_restoration)|An adaptive image restoration based on high order total variation and inverse gradient|19|1|2024-08-01|
@@ -90,7 +90,7 @@
 |83|[crvlh/Pressure-sensitive-platform-optical-fiber-sensors](https://github.com/crvlh/Pressure-sensitive-platform-optical-fiber-sensors)|-|3|0|2024-03-08|
 |84|[bensmiller/detection-limit-fitting](https://github.com/bensmiller/detection-limit-fitting)|Software for fitting robust detection limits to serial dilution data|6|0|2024-08-08|
 |85|[AthinaLange/CoastalLens](https://github.com/AthinaLange/CoastalLens)|Toolbox to rectify UAV video in coastal oceanography|4|0|2024-08-07|
-|86|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|351|0|2024-05-27|
+|86|[proto17/dji_droneid](https://github.com/proto17/dji_droneid)|-|352|0|2024-05-27|
 |87|[vistalab/PRFmodel](https://github.com/vistalab/PRFmodel)|-|11|0|2024-08-09|
 |88|[ARDVARC/ARDVARC](https://github.com/ARDVARC/ARDVARC)|Team ARDVARC's github repository|5|0|2024-05-04|
 |89|[stefanSchinkel/bvaloader](https://github.com/stefanSchinkel/bvaloader)| load and epoch Brain Vision data with Matlab - but without EEGlab|6|0|2024-05-24|
@@ -182,7 +182,7 @@
 |175|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
 |176|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
 |177|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-24|
-|178|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-06-18|
+|178|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
 |179|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
 |180|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|4|0|2024-04-10|
 |181|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|

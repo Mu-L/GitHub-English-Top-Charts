@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|759|2024-08-23|2023-09-06|
+|1|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|761|2024-08-25|2023-09-06|
 |2|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|307|2024-08-24|2024-02-11|
 |3|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|221|2024-08-24|2024-01-30|
 |4|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |178|2024-08-09|2024-03-18|
 |5|[yun-long/Foundations-of-Robotics](https://github.com/yun-long/Foundations-of-Robotics)|Learn fundamental knowledge in robotics |177|2024-06-16|2024-05-13|
 |6|[nrokh/ScientificFigures](https://github.com/nrokh/ScientificFigures)|A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters|152|2024-04-24|2023-08-30|
-|7|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|122|2024-08-16|2024-06-13|
+|7|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|123|2024-08-16|2024-06-13|
 |8|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|116|2024-03-31|2024-01-02|
-|9|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|112|2024-08-24|2024-01-30|
+|9|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|113|2024-08-24|2024-01-30|
 |10|[zafstojano/ml-interview-questions-and-answers](https://github.com/zafstojano/ml-interview-questions-and-answers)|This repo contains my solutions to “Introduction to Machine Learning Interviews” by Chip Huyen. |109|2024-07-13|2023-09-06|
 |11|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|103|2024-08-24|2024-02-08|
 |12|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|87|2024-08-12|2024-03-10|
 |13|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|2023-09-15|
 |14|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|东南大学Typst论文模板库|32|2024-05-23|2024-01-24|
-|15|[sueszli/tu-wien-data-science-summaries](https://github.com/sueszli/tu-wien-data-science-summaries)|notes from my master's|24|2024-07-28|2024-02-19|
+|15|[sueszli/tu-wien-data-science-summaries](https://github.com/sueszli/tu-wien-data-science-summaries)|notes from my master's|26|2024-07-28|2024-02-19|
 |16|[IAS-Uni-Siegen/EMD_course](https://github.com/IAS-Uni-Siegen/EMD_course)|Fundamentals of electrical machines and drives course material|23|2024-08-13|2024-03-24|
 |17|[HelloYJohn/xv6-riscv-book-zh-cn](https://github.com/HelloYJohn/xv6-riscv-book-zh-cn)|translation of xv6-riscv-book|22|2024-02-27|2024-02-22|
 |18|[elRaulito/eUTxO-Fundamentals-Building-Cardano-Smart-Contracts](https://github.com/elRaulito/eUTxO-Fundamentals-Building-Cardano-Smart-Contracts)|The utxo guide to the Galaxy|21|2024-07-25|2024-04-27|
@@ -64,21 +64,21 @@
 |57|[AIandGlobalDevelopmentLab/eo-poverty-review](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)|This repository contains a literature directory of papers on Earth Observation (EO), Machine Learning (ML), Causal Inference (CI), and Poverty Research.|6|2024-08-17|2024-05-05|
 |58|[ay-tony/MathFrameworks](https://github.com/ay-tony/MathFrameworks)|Handbooks for mathematics courses.|6|2024-06-01|2024-04-20|
 |59|[computron/scientific-paper-flow](https://github.com/computron/scientific-paper-flow)|A repository containing a checklist for scientific paper writing.|6|2024-04-18|2024-04-12|
-|60|[ebruneton/toypc](https://github.com/ebruneton/toypc)|This repository contains the source code of the book "Programming a toy computer from scratch"|5|2024-08-19|2024-08-19|
-|61|[lammpstutorials/lammpstutorials-article](https://github.com/lammpstutorials/lammpstutorials-article)| LAMMPS tutorials for both beginners and advanced users: the article |5|2024-08-23|2024-06-13|
-|62|[abogatskiy/Geometry-Autistic-Intro](https://github.com/abogatskiy/Geometry-Autistic-Intro)|Comprehensive open source book on basic topology, smooth manifolds, differential geometry, Lie theory, homological algebra, and index theory.|5|2024-08-23|2024-04-19|
-|63|[miikapaal/su-econ-dissertation-template](https://github.com/miikapaal/su-econ-dissertation-template)|A LaTeX template for a doctoral dissertation in Economics that follows Stockholm University style guidelines.|5|2024-04-19|2024-04-10|
-|64|[fcskit/obsidian-eln](https://github.com/fcskit/obsidian-eln)|Electronic Lab Notebook based on the Obsidian markdown editor.|5|2024-08-07|2024-03-18|
-|65|[nniikon/MIPT-notes](https://github.com/nniikon/MIPT-notes)|Sharing my Xournal++ and handwritten notes for different MIPT courses.  |5|2024-05-05|2024-03-16|
-|66|[RadiantIQ/RadiantIQ](https://github.com/RadiantIQ/RadiantIQ)|Engaging Learning Platform with Godot Based Minigames|5|2024-06-26|2024-03-13|
-|67|[cpierquet/pynotebook](https://github.com/cpierquet/pynotebook)|A small LaTeX package to insert jupyter notebook bocks|5|2024-03-30|2024-02-16|
-|68|[IbraTech04/CSC148-FSG-Slides-2024](https://github.com/IbraTech04/CSC148-FSG-Slides-2024)|CSC148 Facilitated Study Group Slides - Winter 2024|5|2024-08-04|2024-02-14|
-|69|[robert-haas/awesome-biomedical-knowledge-graphs](https://github.com/robert-haas/awesome-biomedical-knowledge-graphs)|A curated list of biomedical knowledge graphs and of resources for their construction.|5|2024-08-18|2024-02-06|
+|60|[robert-haas/awesome-biomedical-knowledge-graphs](https://github.com/robert-haas/awesome-biomedical-knowledge-graphs)|A curated list of biomedical knowledge graphs and of resources for their construction.|6|2024-08-18|2024-02-06|
+|61|[ebruneton/toypc](https://github.com/ebruneton/toypc)|This repository contains the source code of the book "Programming a toy computer from scratch"|5|2024-08-19|2024-08-19|
+|62|[lammpstutorials/lammpstutorials-article](https://github.com/lammpstutorials/lammpstutorials-article)| LAMMPS tutorials for both beginners and advanced users: the article |5|2024-08-25|2024-06-13|
+|63|[abogatskiy/Geometry-Autistic-Intro](https://github.com/abogatskiy/Geometry-Autistic-Intro)|Comprehensive open source book on basic topology, smooth manifolds, differential geometry, Lie theory, homological algebra, and index theory.|5|2024-08-23|2024-04-19|
+|64|[miikapaal/su-econ-dissertation-template](https://github.com/miikapaal/su-econ-dissertation-template)|A LaTeX template for a doctoral dissertation in Economics that follows Stockholm University style guidelines.|5|2024-04-19|2024-04-10|
+|65|[fcskit/obsidian-eln](https://github.com/fcskit/obsidian-eln)|Electronic Lab Notebook based on the Obsidian markdown editor.|5|2024-08-07|2024-03-18|
+|66|[nniikon/MIPT-notes](https://github.com/nniikon/MIPT-notes)|Sharing my Xournal++ and handwritten notes for different MIPT courses.  |5|2024-05-05|2024-03-16|
+|67|[RadiantIQ/RadiantIQ](https://github.com/RadiantIQ/RadiantIQ)|Engaging Learning Platform with Godot Based Minigames|5|2024-06-26|2024-03-13|
+|68|[cpierquet/pynotebook](https://github.com/cpierquet/pynotebook)|A small LaTeX package to insert jupyter notebook bocks|5|2024-03-30|2024-02-16|
+|69|[IbraTech04/CSC148-FSG-Slides-2024](https://github.com/IbraTech04/CSC148-FSG-Slides-2024)|CSC148 Facilitated Study Group Slides - Winter 2024|5|2024-08-04|2024-02-14|
 |70|[niclejeune/Algorithms-and-Data-Structures-2024](https://github.com/niclejeune/Algorithms-and-Data-Structures-2024)|Algorithms and Data Structures - Spring 2024|5|2024-05-01|2024-01-30|
 |71|[zongpingding/LaTeX-A_Document_Preparation_System](https://github.com/zongpingding/LaTeX-A_Document_Preparation_System)|re-typeset of this book|4|2024-08-10|2024-08-10|
 |72|[ryantmoore/causal-summer-waseda](https://github.com/ryantmoore/causal-summer-waseda)|Course materials for the Causal Inference Summer Intensive Seminar @ Waseda Graduate School of Political Science|4|2024-08-23|2024-08-05|
 |73|[lzher/security-paper-db](https://github.com/lzher/security-paper-db)|Just visit https://lzher.github.io/security-paper-db/ to search security papers.|4|2024-08-16|2024-08-05|
-|74|[llm-authorship/survey](https://github.com/llm-authorship/survey)|Paper list for the paper "Authorship Attribution in the Era of Large Language Models: Problems, Methodologies, and Challenges" https://arxiv.org/abs/2408.08946|4|2024-08-24|2024-07-22|
+|74|[llm-authorship/survey](https://github.com/llm-authorship/survey)|Paper list for the paper "Authorship Attribution in the Era of Large Language Models: Problems, Methodologies, and Challenges"|4|2024-08-24|2024-07-22|
 |75|[Antoine-dSG/frieze_patterns](https://github.com/Antoine-dSG/frieze_patterns)|A project to formalise Coxeter's frieze patterns|4|2024-08-19|2024-07-15|
 |76|[Splines/lean-continuous](https://github.com/Splines/lean-continuous)|Continuous functions formalized in Lean4. A students project in the course of a seminar.|4|2024-07-30|2024-07-01|
 |77|[AC17dollars/thapathali-report-latex-template](https://github.com/AC17dollars/thapathali-report-latex-template)|This LaTeX template is crafted to assist students of Thapathali Campus, Institute of Engineering, Tribhuvan University (IOE TU) in preparing their project reports. It adheres as closely as possible to ...|4|2024-08-08|2024-06-22|
@@ -129,6 +129,7 @@
 |122|[Nightsky770/doyleforbinders](https://github.com/Nightsky770/doyleforbinders)|Free typeset of Arthur Conan Doyle's Sherlock Holmes novels, for the DIY bookbinder|3|2024-08-16|2023-11-10|
 |123|[caporaso-lab/q2-books](https://github.com/caporaso-lab/q2-books)|A prototype collection of JupyterBooks documenting QIIME 2|3|2024-04-08|2023-10-23|
 |124|[NBISweden/Training-Tech-shorts](https://github.com/NBISweden/Training-Tech-shorts)|Short lessons, training various technologies useful to our work.|3|2024-06-11|2023-10-09|
+|125|[bualpha/Resources](https://github.com/bualpha/Resources)|(PLEASE HELP CONTRIBUTE) A list of resources with general materials, interview prep, and education for quant|3|2024-08-25|2023-09-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
