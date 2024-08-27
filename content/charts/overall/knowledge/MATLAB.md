@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3054|2024-08-22|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1386|2024-07-27|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3082|2024-08-22|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1387|2024-07-27|
 |3|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1186|2024-08-13|
-|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|395|2024-06-06|
+|4|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|397|2024-06-06|
 |5|[USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)|This is a collection of Matlab functions that are useful in the development of target tracking algorithms.|366|2024-03-12|
 |6|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|263|2024-07-11|
 |7|[bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)|Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets|259|2024-08-09|
@@ -18,7 +18,7 @@
 |11|[jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze)|[ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738|141|2024-07-29|
 |12|[lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign)|Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015|131|2024-05-27|
 |13|[DinhHoTongMinh/TomoSAR](https://github.com/DinhHoTongMinh/TomoSAR)|Open-source TomoSAR package for PSDSInSAR and ComSAR algorithms|115|2024-04-09|
-|14|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|110|2024-06-06|
+|14|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|111|2024-06-06|
 |15|[odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course)|A course for getting started with geometry processing using MATLAB and gptoolbox|109|2024-07-06|
 |16|[bmurmann/Book-on-gm-ID-design](https://github.com/bmurmann/Book-on-gm-ID-design)|Ancillary Material for the book "Systematic Design of Analog CMOS Circuits"|94|2024-03-07|
 |17|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|77|2024-04-06|
@@ -29,13 +29,13 @@
 |22|[mathworks/HDL-Coder-Self-Guided-Tutorial](https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial)|Learn how to deploy an algorithm to an FPGA using MATLAB and Simulink.|59|2024-06-17|
 |23|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|58|2024-05-17|
 |24|[MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020](https://github.com/MachineLearningBCAM/Load-forecasting-IEEE-TPWRS-2020)|Probabilistic Load Forecasting Based on Adaptive Online Learning (APLF)|56|2024-03-11|
-|25|[fxgiraldo/Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)|This directory contains the Lecture files and Project codes in both Julia and Matlab for a course based on the Springer textbook "An Introduction to Element-based Galerkin Methods on Tensor-Product Ba ...|55|2024-08-24|
+|25|[fxgiraldo/Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)|This directory contains the Lecture files and Project codes in both Julia and Matlab for a course based on the Springer textbook "An Introduction to Element-based Galerkin Methods on Tensor-Product Ba ...|55|2024-08-26|
 |26|[modenaxe/msk-STAPLE](https://github.com/modenaxe/msk-STAPLE)|STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented  ...|54|2024-08-19|
-|27|[peterhcharlton/ppg-beats](https://github.com/peterhcharlton/ppg-beats)|PPG-beats is a Matlab library of algorithms to detect heartbeats in photoplethysmogram (PPG) signals.|53|2024-08-24|
+|27|[peterhcharlton/ppg-beats](https://github.com/peterhcharlton/ppg-beats)|PPG-beats is a Matlab library of algorithms to detect heartbeats in photoplethysmogram (PPG) signals.|52|2024-08-24|
 |28|[antonio-m/FDIVP](https://github.com/antonio-m/FDIVP)|Personal repository for the homeworks of course "Fundamentals of Digital Image and Video Processing" from Coursera|52|2024-05-31|
 |29|[OpenFAST/matlab-toolbox](https://github.com/OpenFAST/matlab-toolbox)|Collection of Matlab tools developed for use with OpenFAST |50|2024-05-20|
 |30|[EMFMed/MERIT](https://github.com/EMFMed/MERIT)|Microwave Radar-based Imaging Toolbox (MERIT) is free and open-source software for microwave radar-basaed imaging. Including getting started guides and example data, MERIT is a flexible and extensible ...|48|2024-08-19|
-|31|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|Notebooks and documents to build Computational Mechanics course|46|2024-05-28|
+|31|[cooperrc/computational-mechanics](https://github.com/cooperrc/computational-mechanics)|Notebooks and documents to build Computational Mechanics course|46|2024-08-26|
 |32|[linfengYang/A-novel-DRO-model-for-self-scheduling-problem](https://github.com/linfengYang/A-novel-DRO-model-for-self-scheduling-problem)|This study is using distributionally robust optimization (DRO) algorithm with conditional value-at-risk (CVaR) to solve self-scheduling problem to obtain a suitable and adjustable self-scheduling stra ...|46|2024-04-17|
 |33|[lanl-ansi/tutorial-grid-science](https://github.com/lanl-ansi/tutorial-grid-science)|Julia Tutorial Materials for the Grid Science Tools|42|2024-05-25|
 |34|[vfitoolkit/vfitoolkit-matlab-replication](https://github.com/vfitoolkit/vfitoolkit-matlab-replication)|Codes that use the VFI Toolkit to replicate existing papers|42|2024-04-02|
@@ -46,7 +46,7 @@
 |39|[djoshea/matlab-utils](https://github.com/djoshea/matlab-utils)|Collection of miscellaneous shared utils for Matlab|32|2024-08-05|
 |40|[nackjaylor/formatting_tips-tricks](https://github.com/nackjaylor/formatting_tips-tricks)|Repo constructed by tutors @ ACFR with tips and tricks for formatting of formal engineering reports and assignments. |30|2024-04-02|
 |41|[minoue-xx/Oversampling-Imbalanced-Data](https://github.com/minoue-xx/Oversampling-Imbalanced-Data)|MATLAB Implementation of SMOTE related algorithms|30|2024-07-03|
-|42|[lab-midas/ismrm-moco-workshop](https://github.com/lab-midas/ismrm-moco-workshop)|Hands-on examples for motion estimation and correction in MRI|29|2024-08-23|
+|42|[lab-midas/ismrm-moco-workshop](https://github.com/lab-midas/ismrm-moco-workshop)|Hands-on examples for motion estimation and correction in MRI|29|2024-08-26|
 |43|[dake-li/lp_var_simul](https://github.com/dake-li/lp_var_simul)|Simulation study of Local Projections, VARs, and related estimators|29|2024-07-31|
 |44|[zhandawei/Efficient_Global_Optimization_Algorithms](https://github.com/zhandawei/Efficient_Global_Optimization_Algorithms)|standard, parallel, constrained, and multiobjective EGO algorithms|28|2024-02-29|
 |45|[jjzgeeks/FedAECS](https://github.com/jjzgeeks/FedAECS)|Federated Learning for Energy-balanced Client Selection in Mobile Edge Computing|28|2024-04-22|
@@ -65,7 +65,7 @@
 |58|[FGP310592/PMSMControlDemo](https://github.com/FGP310592/PMSMControlDemo)|Great repository to learn PMSM control and modelling. It provides the basic tools to generate control calibrations based on the motor parameters, to tune the PID controllers within the controller, and ...|21|2024-06-20|
 |59|[MathWorks-Teaching-Resources/Fundamentals-of-Programming](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming)|An overview of programming concepts including arrays, strings, loops, and algorithms with a project.|21|2024-08-22|
 |60|[MathWorks-Teaching-Resources/Machine-Learning-for-Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)|Interactive courseware module that introduces typical workflow, setup, and considerations involved in solving regression problems with machine learning.|21|2024-04-30|
-|61|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|21|2024-08-23|
+|61|[HebiRobotics/hebi-matlab-examples](https://github.com/HebiRobotics/hebi-matlab-examples)|Examples for the HEBI Robotics API for MATLAB|21|2024-08-26|
 |62|[aldebaro/dsp-telecom-book-code](https://github.com/aldebaro/dsp-telecom-book-code)|Source code for Aldebaro's book on DSP and digital communications|21|2024-06-30|
 |63|[Yunhui-Gao/ISTA](https://github.com/Yunhui-Gao/ISTA)|Iterative shrinkage / thresholding algorithms (ISTAs) for linear inverse problems|20|2024-05-24|
 |64|[tbewley/RR](https://github.com/tbewley/RR)|the Renaissance Repository, a collection of pedagogical codes associated with the forthcoming texts Renaissance Robotics and Numerical Renaissance, by Thomas Bewley|20|2024-08-17|
@@ -95,19 +95,19 @@
 |88|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|13|2024-08-14|
 |89|[MathWorks-Teaching-Resources/Calculus-Derivatives](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives)|Interactive module that introduces fundamentals of derivatives including the product and chain rule as presented in Calculus I courses|13|2024-08-21|
 |90|[EverFAITH/NAIM3L](https://github.com/EverFAITH/NAIM3L)|Codes of A Concise yet Effective model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning|13|2024-05-16|
-|91|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
-|92|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
-|93|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-18|
-|94|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|12|2024-08-07|
-|95|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|
-|96|[zsunberg/Aircraft-Dynamics-Materials](https://github.com/zsunberg/Aircraft-Dynamics-Materials)|Course materials for Aircraft Dynamics (ASEN 3728) at CU Boulder|11|2024-06-14|
-|97|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|11|2024-05-01|
-|98|[heli-sudoo/Multiple-Shooting-DDP](https://github.com/heli-sudoo/Multiple-Shooting-DDP)|Algorithm for multiple-shooting differential dynamic programming (MS-DDP) implemented in MATLAB, with a few robotics examples.|11|2024-04-10|
-|99|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|11|2024-03-09|
-|100|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|11|2024-04-30|
-|101|[tomjanus/milp-scheduling](https://github.com/tomjanus/milp-scheduling)|Feasibility study on using mixed-integer-linear programming for solving optimal pump scheduling problem in water distribution networks.|11|2024-08-01|
-|102|[MathWorks-Teaching-Resources/Calculus-Integrals](https://github.com/MathWorks-Teaching-Resources/Calculus-Integrals)|Interactive examples using MATLAB to visualize and practice integral calculus including substitution, integration by parts, and the fundamental theorem of calculus|11|2024-08-23|
-|103|[mathworks-robotics/ai-robotics-workshop](https://github.com/mathworks-robotics/ai-robotics-workshop)|Hands-on workshop on learning how to develop AI-based autonomous mobile robot|11|2024-06-06|
+|91|[mathworks-robotics/ai-robotics-workshop](https://github.com/mathworks-robotics/ai-robotics-workshop)|Hands-on workshop on learning how to develop AI-based autonomous mobile robot|13|2024-06-06|
+|92|[kisungyou/papers](https://github.com/kisungyou/papers)|resources related to papers|13|2024-07-03|
+|93|[PrincetonUniversity/aspire](https://github.com/PrincetonUniversity/aspire)|Algorithms for Single Particle Reconstruction |13|2024-04-15|
+|94|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-18|
+|95|[radarmimo/Download-Center](https://github.com/radarmimo/Download-Center)|A centralized hub for accessing and downloading code samples, scripts, and resources from radarmimo.com. Explore open-source code snippets covering radar signal processing, MIMO systems, and more. Sim ...|12|2024-08-07|
+|96|[MikkoDT/ECE_425_MEXE_and_ME](https://github.com/MikkoDT/ECE_425_MEXE_and_ME)|This is where my lessons and projects are documented for the course Control Systems Engineering.|11|2024-05-10|
+|97|[zsunberg/Aircraft-Dynamics-Materials](https://github.com/zsunberg/Aircraft-Dynamics-Materials)|Course materials for Aircraft Dynamics (ASEN 3728) at CU Boulder|11|2024-06-14|
+|98|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|11|2024-05-01|
+|99|[heli-sudoo/Multiple-Shooting-DDP](https://github.com/heli-sudoo/Multiple-Shooting-DDP)|Algorithm for multiple-shooting differential dynamic programming (MS-DDP) implemented in MATLAB, with a few robotics examples.|11|2024-04-10|
+|100|[aras-labs/Robotics](https://github.com/aras-labs/Robotics)|Robotics Book - Parallel Robots: Mechanics and Control Book|11|2024-03-09|
+|101|[MathWorks-Teaching-Resources/Robotic-Manipulators](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators)|This curriculum module contains interactive examples that teach fundamental concepts of robotic manipulators.|11|2024-04-30|
+|102|[tomjanus/milp-scheduling](https://github.com/tomjanus/milp-scheduling)|Feasibility study on using mixed-integer-linear programming for solving optimal pump scheduling problem in water distribution networks.|11|2024-08-01|
+|103|[MathWorks-Teaching-Resources/Calculus-Integrals](https://github.com/MathWorks-Teaching-Resources/Calculus-Integrals)|Interactive examples using MATLAB to visualize and practice integral calculus including substitution, integration by parts, and the fundamental theorem of calculus|11|2024-08-23|
 |104|[huaihuaiweng/FPCA](https://github.com/huaihuaiweng/FPCA)|Federated principal component analysis (FPCA) is my master thesis, which aims to adapt PCA in a federated learning setting. The technique is realized with the assistance of an optimization algorithm A ...|11|2024-04-05|
 |105|[legion-abhisar/Hybrid-GA-PSO-Path-planning](https://github.com/legion-abhisar/Hybrid-GA-PSO-Path-planning)|A hybrid path planning MATLAB program where two well known algorithms have been combined to perform an operation. The operation is to find the best path between two points.|11|2024-06-18|
 |106|[themanoftalent/SignalsSystemsWeek](https://github.com/themanoftalent/SignalsSystemsWeek)| Repository for signals and systems course materials|10|2024-04-24|
@@ -198,13 +198,13 @@
 |191|[BioMEMS/AnalyzeIMS](https://github.com/BioMEMS/AnalyzeIMS)|AnalyzeIMS (AIMS) software developed in Prof. Cristina Davis' BioInstrumentation and BioMEMS Laboratory.  Publications (i.e. articles, book chapters, etc.) that use this software are required to cite  ...|5|2024-07-11|
 |192|[alanjern/preferencelearning](https://github.com/alanjern/preferencelearning)|Code, data, and materials for "People learn other people's preferences through inverse decision-making"|5|2024-05-08|
 |193|[sg-s/srinivas.gs_mtools](https://github.com/sg-s/srinivas.gs_mtools)|A collection of small functions and MATLAB tools, some that I have written.|5|2024-06-27|
-|194|[quantum-inspired-lidar/PnP_NLOS](https://github.com/quantum-inspired-lidar/PnP_NLOS)|Code for the paper "Plug-and-Play Algorithms for Dynamic Non-line-of-sight Imaging"|4|2024-06-09|
-|195|[wanxinhang/Awesome-Continual-Multi-view-clustering](https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering)|Awesome Continual Multi-view Clustering is a collection of SOTA, novel continual multi-view clustering methods (papers, codes).|4|2024-05-13|
-|196|[simorxb/H-Infinity-Position-Control-Matlab](https://github.com/simorxb/H-Infinity-Position-Control-Matlab)|Example of how to synthetize a position control algorithm using H infinity and mixed-sensitivity with Matlab and Simulink.|4|2024-05-03|
-|197|[AliiRezaei/AdaptiveControl](https://github.com/AliiRezaei/AdaptiveControl)|This repository contains assignments and codes of my Adaptive Systems Control course.|4|2024-08-09|
-|198|[gigacycle/Vehicle-Routing-Problem-Solver](https://github.com/gigacycle/Vehicle-Routing-Problem-Solver)|This MATLAB code (implemented in 2011) provides solutions to the VRP using various optimization algorithms including bee colony algorithm, simulated annealing algorithm, genetic algorithm, tabu search ...|4|2024-03-31|
-|199|[Andro-svg/CTSTC](https://github.com/Andro-svg/CTSTC)|Code for Clustering and Tracking-Guided Infrared Spatial-Temporal Small Target Detection|4|2024-03-06|
-|200|[Dwl2021/Minimum-Snap](https://github.com/Dwl2021/Minimum-Snap)|Minimum-Snap Learning Code|4|2024-04-04|
+|194|[MathWorks-Teaching-Resources/examples-in-heat-transfer](https://github.com/MathWorks-Teaching-Resources/examples-in-heat-transfer)|Examples of using MATLAB, Symbolic Math Toolbox, Partial Differential Equation Toolbox, and Simscape Fluids for solving canonical problems in Heat Transfer|4|2024-08-19|
+|195|[quantum-inspired-lidar/PnP_NLOS](https://github.com/quantum-inspired-lidar/PnP_NLOS)|Code for the paper "Plug-and-Play Algorithms for Dynamic Non-line-of-sight Imaging"|4|2024-06-09|
+|196|[wanxinhang/Awesome-Continual-Multi-view-clustering](https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering)|Awesome Continual Multi-view Clustering is a collection of SOTA, novel continual multi-view clustering methods (papers, codes).|4|2024-05-13|
+|197|[simorxb/H-Infinity-Position-Control-Matlab](https://github.com/simorxb/H-Infinity-Position-Control-Matlab)|Example of how to synthetize a position control algorithm using H infinity and mixed-sensitivity with Matlab and Simulink.|4|2024-05-03|
+|198|[AliiRezaei/AdaptiveControl](https://github.com/AliiRezaei/AdaptiveControl)|This repository contains assignments and codes of my Adaptive Systems Control course.|4|2024-08-09|
+|199|[gigacycle/Vehicle-Routing-Problem-Solver](https://github.com/gigacycle/Vehicle-Routing-Problem-Solver)|This MATLAB code (implemented in 2011) provides solutions to the VRP using various optimization algorithms including bee colony algorithm, simulated annealing algorithm, genetic algorithm, tabu search ...|4|2024-03-31|
+|200|[Andro-svg/CTSTC](https://github.com/Andro-svg/CTSTC)|Code for Clustering and Tracking-Guided Infrared Spatial-Temporal Small Target Detection|4|2024-03-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

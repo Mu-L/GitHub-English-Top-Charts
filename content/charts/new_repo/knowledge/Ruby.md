@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mawise/bookshelf](https://github.com/mawise/bookshelf)|3D animated bookshelf for ebooks|339|2024-08-16|2024-08-12|
+|1|[mawise/bookshelf](https://github.com/mawise/bookshelf)|3D animated bookshelf for ebooks|343|2024-08-16|2024-08-12|
 |2|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|103|2024-03-24|2023-11-25|
-|3|[skryukov/inertia_rails-contrib](https://github.com/skryukov/inertia_rails-contrib)|A collection of extensions, developer tools, and the community documentation for Inertia's Rails adapter.|79|2024-08-22|2024-06-04|
+|3|[skryukov/inertia_rails-contrib](https://github.com/skryukov/inertia_rails-contrib)|A collection of extensions, developer tools, and the community documentation for Inertia's Rails adapter.|80|2024-08-22|2024-06-04|
 |4|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|74|2024-08-23|2024-01-19|
 |5|[ExamProCo/AWS-Examples](https://github.com/ExamProCo/AWS-Examples)|A codebase of all the AWS examples used through AWS Certification Study Courses.|52|2024-07-25|2023-11-22|
 |6|[sublayerapp/blueprints](https://github.com/sublayerapp/blueprints)|Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you already have in your codebase. Download one of our official editor p ...|47|2024-05-22|2024-01-29|

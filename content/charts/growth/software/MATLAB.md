@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10360|211|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10361|207|2024-08-05|
 |2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|94|2|2024-07-13|
 |3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6810|2|2024-06-01|
 |4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|268|2|2024-05-24|
@@ -158,14 +158,14 @@
 |151|[rlrangel/FEMOOLab](https://github.com/rlrangel/FEMOOLab)|Finite Element Method Object-Oriented Laboratory (FEMOOLab) is a MATLAB program for performing FEM-based numerical simulations, implemented in a modular OOP framework to allow different types of model ...|6|0|2024-03-20|
 |152|[XiaodongMa-MRI/Denoising](https://github.com/XiaodongMa-MRI/Denoising)|A Matlab toolbox for denoising magnitude dMRI|5|0|2024-08-15|
 |153|[mathworks/Mars-Rover-Terrain-Simscape](https://github.com/mathworks/Mars-Rover-Terrain-Simscape)|Six-wheeled electrically-driven rover that navigates uneven terrain to retrieve a sample.|29|0|2024-08-18|
-|154|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|15|0|2024-07-29|
+|154|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|15|0|2024-08-26|
 |155|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |156|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-08-01|
 |157|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|108|0|2024-08-04|
 |158|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|0|2024-07-29|
 |159|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|835|0|2024-05-05|
 |160|[infotheorychalmers/URLLC_Massive_MIMO](https://github.com/infotheorychalmers/URLLC_Massive_MIMO)|Simulation routines for "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength", Johan Östman, Alejandro Lancho, Giuseppe Durisi and Luca Sanguinetti, IEEE Transactions on Wireless Commun ...|19|0|2024-04-01|
-|161|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|259|0|2024-08-16|
+|161|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|260|0|2024-08-16|
 |162|[anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2](https://github.com/anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2)|Performance evaluation of clustering protocols in ns2|3|0|2024-05-18|
 |163|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
 |164|[matteonerini/bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization|4|0|2024-03-01|
@@ -174,37 +174,37 @@
 |167|[I-STAR/MTFTools](https://github.com/I-STAR/MTFTools)|Tools for 2D and 3D MTF measurement.|10|0|2024-03-16|
 |168|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|100|0|2024-08-12|
 |169|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-06-12|
-|170|[MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector](https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector)|A new method for accurate detection of movement intention from single channel EEG for online BCI|3|0|2024-02-25|
-|171|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-05-08|
-|172|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
-|173|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
-|174|[jdanielhoyos/AirfoilOptimization](https://github.com/jdanielhoyos/AirfoilOptimization)|Airfoil Optimization by XFOIL Matlab|5|0|2024-03-29|
-|175|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
-|176|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
-|177|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-24|
-|178|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
-|179|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
-|180|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|4|0|2024-04-10|
-|181|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
-|182|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-08-19|
-|183|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
-|184|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|4|0|2024-06-18|
-|185|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|21|0|2024-08-11|
-|186|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
-|187|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-08-09|
-|188|[awohns/ldgm](https://github.com/awohns/ldgm)|Software for linkage disequilibrium graphical models|14|0|2024-03-04|
-|189|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
-|190|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|24|0|2024-08-14|
-|191|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
-|192|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|7|0|2024-07-30|
-|193|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|10|0|2024-05-19|
-|194|[dqrobotics/matlab](https://github.com/dqrobotics/matlab)|The DQ Robotics library in MATLAB|25|0|2024-08-16|
-|195|[Hjorthmedh/SynD](https://github.com/Hjorthmedh/SynD)|SynD - Synapse Detector|3|0|2024-03-04|
-|196|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|6|0|2024-05-06|
-|197|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2024-07-08|
-|198|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |21|0|2024-08-14|
-|199|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|12|0|2024-05-24|
-|200|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|13|0|2024-08-16|
+|170|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-05-08|
+|171|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
+|172|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
+|173|[jdanielhoyos/AirfoilOptimization](https://github.com/jdanielhoyos/AirfoilOptimization)|Airfoil Optimization by XFOIL Matlab|5|0|2024-03-29|
+|174|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
+|175|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
+|176|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-24|
+|177|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
+|178|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
+|179|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|4|0|2024-04-10|
+|180|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
+|181|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-08-19|
+|182|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
+|183|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|4|0|2024-06-18|
+|184|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|21|0|2024-08-11|
+|185|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
+|186|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-08-09|
+|187|[awohns/ldgm](https://github.com/awohns/ldgm)|Software for linkage disequilibrium graphical models|14|0|2024-03-04|
+|188|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
+|189|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|24|0|2024-08-14|
+|190|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
+|191|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|7|0|2024-07-30|
+|192|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|10|0|2024-05-19|
+|193|[dqrobotics/matlab](https://github.com/dqrobotics/matlab)|The DQ Robotics library in MATLAB|25|0|2024-08-16|
+|194|[Hjorthmedh/SynD](https://github.com/Hjorthmedh/SynD)|SynD - Synapse Detector|3|0|2024-03-04|
+|195|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|6|0|2024-05-06|
+|196|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2024-07-08|
+|197|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |21|0|2024-08-14|
+|198|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|12|0|2024-05-24|
+|199|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|13|0|2024-08-16|
+|200|[acuoci/OpenSMOKEpp_SurrogateOptimizer](https://github.com/acuoci/OpenSMOKEpp_SurrogateOptimizer)|Optimizer for fuel surrogates|3|0|2024-06-28|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

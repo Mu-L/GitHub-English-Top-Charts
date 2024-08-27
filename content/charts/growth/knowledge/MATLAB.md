@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3054|4|2024-08-22|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3082|4|2024-08-22|
 |2|[schnitzer-lab/ActSort-public](https://github.com/schnitzer-lab/ActSort-public)|ActSort is an active learning accelerated cell sorter tool for calcium imaging.|14|2|2024-08-22|
-|3|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|395|2|2024-06-06|
+|3|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|397|2|2024-06-06|
 |4|[mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students)|An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.|263|1|2024-07-11|
 |5|[mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)|This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and indus ...|1186|1|2024-08-13|
-|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1386|1|2024-07-27|
+|6|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1387|1|2024-07-27|
 |7|[Mao158/LIMIC](https://github.com/Mao158/LIMIC)|[IJCAI'23] Label-Specific Multi-Semantics Metric Learning for Multi-Label Classification: Global Consideration Helps|4|0|2024-03-27|
 |8|[marcsous/parallel](https://github.com/marcsous/parallel)|A few parallel MRI reconstruction algorithms in MATLAB.|17|0|2024-06-11|
 |9|[dakiefer/GEWtool](https://github.com/dakiefer/GEWtool)|Guided elastodynamic wave dispersion in anisotropic layered plates and cylinders.|13|0|2024-08-14|
@@ -187,7 +187,7 @@
 |180|[jsmarron/ObjectOrientedDataAnalysis](https://github.com/jsmarron/ObjectOrientedDataAnalysis)|Companion website for Oblect Oriented Data Analysis book by Marron & Dryden|7|0|2024-08-05|
 |181|[martindoff/Radial-basis-TMPC](https://github.com/martindoff/Radial-basis-TMPC)|Learning-based robust tube based MPC of nonlinear systems via difference of convex radial basis functions|6|0|2024-06-28|
 |182|[lihanlian/trajectory-tracking-ilc](https://github.com/lihanlian/trajectory-tracking-ilc)|Use iterative learning control (ILC) for trajectory tracking task with the existence of model mismatch. MPC is also used for comparison.|8|0|2024-05-19|
-|183|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|110|0|2024-06-06|
+|183|[Agarciafernandez/MTT](https://github.com/Agarciafernandez/MTT)|Implementation of several Bayesian multi-target tracking algorithms, including Poisson multi-Bernoulli mixture filters for sets of targets and sets of trajectories. The repository also includes the GO ...|111|0|2024-06-06|
 |184|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|11|0|2024-05-01|
 |185|[Yellowbooker/MVF_Version2](https://github.com/Yellowbooker/MVF_Version2)|MVF (model based vector fitting) is an analytical method for coupling matrix extraction of microwave filters. (Now, MVF is included in https://github.com/Yellowbooker/Coupling-Matrix-Extraction-Method ...|3|0|2024-04-18|
 |186|[lanl-ansi/tutorial-grid-science](https://github.com/lanl-ansi/tutorial-grid-science)|Julia Tutorial Materials for the Grid Science Tools|42|0|2024-05-25|
@@ -197,7 +197,7 @@
 |190|[Andro-svg/CTSTC](https://github.com/Andro-svg/CTSTC)|Code for Clustering and Tracking-Guided Infrared Spatial-Temporal Small Target Detection|4|0|2024-03-06|
 |191|[Image-X-Institute/DiaphragmTracking](https://github.com/Image-X-Institute/DiaphragmTracking)|MATLAB code for real-time, direct diaphragm tracking during image-guided radiotherapy|3|0|2024-04-02|
 |192|[MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems](https://github.com/MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems)|Interactive courseware module that addresses the fundamentals of mass-spring-damper systems taught in mechanical engineering courses.|19|0|2024-05-01|
-|193|[lab-midas/ismrm-moco-workshop](https://github.com/lab-midas/ismrm-moco-workshop)|Hands-on examples for motion estimation and correction in MRI|29|0|2024-08-23|
+|193|[lab-midas/ismrm-moco-workshop](https://github.com/lab-midas/ismrm-moco-workshop)|Hands-on examples for motion estimation and correction in MRI|29|0|2024-08-26|
 |194|[SiamakGhodsi/SPMLD](https://github.com/SiamakGhodsi/SPMLD)|Self-Paced Multi-Label Learning with Diversity|5|0|2024-02-27|
 |195|[Jpickard1/Hypergraph-Analysis-Toolbox](https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox)|The Hypergraph Analysis Toolbox (HAT) contains a series of methods for investigating multi-way interactions and nucleus architecture.|19|0|2024-07-02|
 |196|[cpjobling/eg-150-textbook](https://github.com/cpjobling/eg-150-textbook)|Course notes for the course EG-150 Signals and Systems|3|0|2024-05-26|

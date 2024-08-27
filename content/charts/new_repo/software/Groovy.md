@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -37,14 +37,15 @@
 |30|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-06-12|2024-01-17|
 |31|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
 |32|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-08-23|2023-11-03|
-|33|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
-|34|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-08-02|2024-06-18|
-|35|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
-|36|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
-|37|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|38|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
-|39|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
-|40|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
+|33|[Saqib-DevSecOps/jenkins-shared-library](https://github.com/Saqib-DevSecOps/jenkins-shared-library)|-|2|2024-08-23|2024-08-23|
+|34|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
+|35|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-08-02|2024-06-18|
+|36|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
+|37|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
+|38|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
+|39|[abdulrahemfaqih/rumah-sakit-grails](https://github.com/abdulrahemfaqih/rumah-sakit-grails)|Sistem rekammedis menggunakan framework grails|2|2024-03-18|2024-03-17|
+|40|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
+|41|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
