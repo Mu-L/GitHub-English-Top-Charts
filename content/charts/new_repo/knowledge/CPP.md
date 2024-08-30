@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-08-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|967|2024-05-02|2023-11-12|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|966|2024-05-02|2023-11-12|
 |2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|560|2024-06-12|2023-11-03|
-|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|404|2024-06-08|2023-10-25|
+|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|405|2024-06-08|2023-10-25|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|383|2024-08-27|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
-|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|350|2024-08-12|2024-03-22|
+|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|354|2024-08-12|2024-03-22|
 |7|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
-|8|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|290|2024-04-04|2024-01-14|
+|8|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|291|2024-04-04|2024-01-14|
 |9|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |10|[vishalparmarr/Leetcode-Questions](https://github.com/vishalparmarr/Leetcode-Questions)|Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)|265|2024-07-18|2023-11-23|
 |11|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
@@ -48,8 +48,8 @@
 |41|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
 |42|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
 |43|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
-|44|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|136|2024-08-28|2024-06-24|
-|45|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|136|2024-08-26|2024-03-06|
+|44|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|139|2024-08-29|2024-06-24|
+|45|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|137|2024-08-26|2024-03-06|
 |46|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
 |47|[leaguilar099/Wondershare-Filmora-Activation-Tool](https://github.com/leaguilar099/Wondershare-Filmora-Activation-Tool)|Wondershare Filmora Activation Tool provides a streamlined solution for activating Wondershare Filmora software. It simplifies the activation process, supports key generation, and enables license mana ...|128|2024-08-11|2024-08-11|
 |48|[uhhhhgmoddude/Facebook-tool](https://github.com/uhhhhgmoddude/Facebook-tool)|Facebook Tool is a comprehensive solution designed to enhance Facebook interactions and streamline account management. With its suite of features, it offers a variety of tools for creating and managin ...|128|2024-08-11|2024-08-11|
@@ -58,7 +58,7 @@
 |51|[araujo88/important-algorithms](https://github.com/araujo88/important-algorithms)|A list of important algorithms to study|118|2024-04-05|2024-03-20|
 |52|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
 |53|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
-|54|[Bogdanctx/Radar-Contact](https://github.com/Bogdanctx/Radar-Contact)|Radar Contact is a 2D Air Traffic Controller game where you have to control an airspace and guide airplanes and helicopters to arrive safely to their destination avoiding storms and collisions.|108|2024-08-27|2024-04-08|
+|54|[Bogdanctx/Radar-Contact](https://github.com/Bogdanctx/Radar-Contact)|Radar Contact is a 2D Air Traffic Controller game where you have to control an airspace and guide airplanes and helicopters to arrive safely to their destination avoiding storms and collisions.|112|2024-08-27|2024-04-08|
 |55|[dawsonjon/101Things](https://github.com/dawsonjon/101Things)|A collection of cool projects to make!|89|2024-04-06|2023-10-01|
 
 <div align="center">

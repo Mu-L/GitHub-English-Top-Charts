@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-08-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13990|2024-06-25|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13989|2024-06-25|
 |2|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3337|2024-05-31|
 |3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2711|2024-04-11|
 |4|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1774|2024-08-28|
@@ -19,7 +19,7 @@
 |12|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|2024-08-16|
 |13|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|159|2024-06-10|
 |14|[firebase/snippets-ios](https://github.com/firebase/snippets-ios)|iOS snippets used in firebase.google.com|128|2024-06-06|
-|15|[MicrosoftDocs/powerquery-docs](https://github.com/MicrosoftDocs/powerquery-docs)|Public repository for Microsoft Power Query documentation. All content in this repository is published to learn.microsoft.com.|116|2024-08-28|
+|15|[MicrosoftDocs/powerquery-docs](https://github.com/MicrosoftDocs/powerquery-docs)|Public repository for Microsoft Power Query documentation. All content in this repository is published to learn.microsoft.com.|116|2024-08-29|
 |16|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|2024-08-04|
 |17|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|101|2024-08-20|
 |18|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|2024-08-24|
@@ -39,10 +39,10 @@
 |32|[lechium/lsdtrip](https://github.com/lechium/lsdtrip)|slightly modified version of jonathan levins lsdtrip bin available at http://newosxbook.com/tools/lsdtrip.html|14|2024-03-24|
 |33|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|13|2024-08-19|
 |34|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|2024-08-15|
-|35|[electricbolt/bindkit](https://github.com/electricbolt/bindkit)|Two-way data binding framework for iOS. Only one API to learn.|13|2024-08-11|
-|36|[StarryThrone/OpenGL-SBible-example-code](https://github.com/StarryThrone/OpenGL-SBible-example-code)|Learning practice demo for examples in OpenGL Super Bible 6th|13|2024-03-06|
-|37|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|12|2024-08-14|
-|38|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |12|2024-08-13|
+|35|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |13|2024-08-13|
+|36|[electricbolt/bindkit](https://github.com/electricbolt/bindkit)|Two-way data binding framework for iOS. Only one API to learn.|13|2024-08-11|
+|37|[StarryThrone/OpenGL-SBible-example-code](https://github.com/StarryThrone/OpenGL-SBible-example-code)|Learning practice demo for examples in OpenGL Super Bible 6th|13|2024-03-06|
+|38|[avatorl/M](https://github.com/avatorl/M)|M language functions and code snippets for PowerQuery|12|2024-08-14|
 |39|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|2024-04-09|
 |40|[DerekSelander/gcd_internals](https://github.com/DerekSelander/gcd_internals)|Showcases libdispatch lesser known APIs with examples & structs|7|2024-05-15|
 |41|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|2024-06-02|

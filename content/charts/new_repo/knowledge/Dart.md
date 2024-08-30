@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Dart
-<sub>Updated: 2024-08-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1454|2024-08-18|2024-03-28|
-|2|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|133|2024-08-13|2024-05-27|
+|1|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1464|2024-08-18|2024-03-28|
+|2|[pierremrtn/flutter_challenges](https://github.com/pierremrtn/flutter_challenges)|Collection of flutter challenges|136|2024-08-13|2024-05-27|
 |3|[mcmah309/rust_core](https://github.com/mcmah309/rust_core)|A pure Dart implementation of patterns found in Rust's core library. Types include Result, Option, Cell, Slice, Array, Iterator, etc. Facilitates functional programming and error handling.|106|2024-08-06|2023-11-30|
 |4|[Deatsilence/flutter-design-patterns](https://github.com/Deatsilence/flutter-design-patterns)|This repository created so that understand design patterns using flutter|88|2024-04-30|2023-10-28|
-|5|[bizz84/ftcon24eu_talks](https://github.com/bizz84/ftcon24eu_talks)|List of talks from FlutterCon 24 Europe |73|2024-08-14|2024-07-09|
-|6|[foss42/awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)|A curated list of useful Generative AI APIs for developers|71|2024-08-24|2024-04-27|
-|7|[VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)|Collection of open-source templates created and maintained by Very Good Ventures.|57|2024-08-23|2023-12-14|
+|5|[foss42/awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)|A curated list of useful Generative AI APIs for developers|76|2024-08-24|2024-04-27|
+|6|[bizz84/ftcon24eu_talks](https://github.com/bizz84/ftcon24eu_talks)|List of talks from FlutterCon 24 Europe |75|2024-08-14|2024-07-09|
+|7|[VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)|Collection of open-source templates created and maintained by Very Good Ventures.|57|2024-08-29|2023-12-14|
 |8|[HeyFlutter-Public/Flutter-Fitness-Dashboard-UI](https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI)|This is a complete Fitness Dashboard UI built in flutter. This repository is for education purpose so that you can learn the concepts of how you can create Responsive Dashboards in Flutter.|48|2024-03-02|2024-03-02|
-|9|[LinXunFeng/flutter_chat_packages](https://github.com/LinXunFeng/flutter_chat_packages)|A collection of useful packages about chat.|41|2024-08-05|2024-06-06|
+|9|[LinXunFeng/flutter_chat_packages](https://github.com/LinXunFeng/flutter_chat_packages)|A collection of useful packages about chat.|43|2024-08-05|2024-06-06|
 |10|[HGSChandeepa/Dart-for-Beginners-DP-Education](https://github.com/HGSChandeepa/Dart-for-Beginners-DP-Education)|Welcome to the Dart for Beginners repository! 🚀 In this repository, you'll find code examples and lessons to help beginners learn Dart programming language.|32|2024-08-22|2023-11-18|
 |11|[Adrianns/flutter_clean_architecture](https://github.com/Adrianns/flutter_clean_architecture)|Repository with examples and good practices|30|2024-05-27|2024-04-15|
 |12|[mo7amedaliEbaid/dart-flutter-interview-questions-preparation](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation)|Some questions i have been asked in my previous interviews .|29|2024-08-05|2023-10-09|
 |13|[RasmusKoit/abs_wear](https://github.com/RasmusKoit/abs_wear)|3rd party Audiobookshelf client for Wear OS|27|2024-04-23|2024-02-11|
 |14|[yakupemeksiz/my_favorite_books](https://github.com/yakupemeksiz/my_favorite_books)|This project uses Google Books API to fetch books and display them in a list. You can search for books using the search bar and add books to your favorites list. Remove them from the list if you wish.|21|2024-05-10|2024-02-13|
-|15|[AmirBayat0/Flutter-caching-data-Bloc-And-Hive](https://github.com/AmirBayat0/Flutter-caching-data-Bloc-And-Hive)|Efficient Data Caching with BLOC & HIVE in FLUTTER: Explore BLOC pattern integration with HIVE database for streamlined data caching in Flutter. This repo guides on storing API data locally, ensuring  ...|19|2024-04-23|2024-04-19|
+|15|[AmirBayat0/Flutter-caching-data-Bloc-And-Hive](https://github.com/AmirBayat0/Flutter-caching-data-Bloc-And-Hive)|Efficient Data Caching with BLOC & HIVE in FLUTTER: Explore BLOC pattern integration with HIVE database for streamlined data caching in Flutter. This repo guides on storing API data locally, ensuring  ...|20|2024-04-23|2024-04-19|
 |16|[Khrysna/landify_design_flutter](https://github.com/Khrysna/landify_design_flutter)|A Flutter web example project implementing the Landify Landing Page UI Kit to explore and learn Flutter web development.|15|2024-08-15|2024-08-09|
-|17|[IsinBlockchainTeam/flutter_isin_ui_kit](https://github.com/IsinBlockchainTeam/flutter_isin_ui_kit)|Streamline interface development with a versatile collection of customizable, easy-to-use Flutter UI components that enhance functionality and aesthetics.|14|2024-07-03|2024-04-12|
-|18|[Nabinji/Flutter_example_Youtube](https://github.com/Nabinji/Flutter_example_Youtube)|Source Code of Flutter Tutorial|12|2024-08-25|2024-06-21|
-|19|[peaashmeter/schizodem](https://github.com/peaashmeter/schizodem)|A hypothesis on how to generate better results with LLM.|11|2024-03-31|2024-03-29|
-|20|[leanflutter/storybook_dart](https://github.com/leanflutter/storybook_dart)|Storybook for Flutter, build your Flutter widgets storybook using storybookjs.|11|2024-08-10|2023-12-07|
-|21|[SofieTorch/epub_decoder](https://github.com/SofieTorch/epub_decoder)|Flutter package to parse EPUB files (ebooks!), with support for Media Overlays! 🔉📑|10|2024-08-24|2024-07-13|
-|22|[jmax518/cloudmate-classroom-flutter](https://github.com/jmax518/cloudmate-classroom-flutter)|Cloudmate is an open-source online learning platform developed with Flutter to help teachers and students connect and interact with each other through a variety of features. |10|2024-05-25|2024-05-25|
-|23|[hydev777/wt-flutter-samples](https://github.com/hydev777/wt-flutter-samples)|Flutter examples|10|2024-06-12|2024-05-21|
-|24|[Dr-Blank/Vaani](https://github.com/Dr-Blank/Vaani)|Client for Audiobookshelf server made with Flutter.|10|2024-08-23|2024-05-08|
+|17|[Nabinji/Flutter_example_Youtube](https://github.com/Nabinji/Flutter_example_Youtube)|Source Code of Flutter Tutorial|14|2024-08-27|2024-06-21|
+|18|[IsinBlockchainTeam/flutter_isin_ui_kit](https://github.com/IsinBlockchainTeam/flutter_isin_ui_kit)|Streamline interface development with a versatile collection of customizable, easy-to-use Flutter UI components that enhance functionality and aesthetics.|14|2024-08-28|2024-04-12|
+|19|[SofieTorch/epub_decoder](https://github.com/SofieTorch/epub_decoder)|Flutter package to parse EPUB files (ebooks!), with support for Media Overlays! 🔉📑|11|2024-08-24|2024-07-13|
+|20|[Dr-Blank/Vaani](https://github.com/Dr-Blank/Vaani)|Client for Audiobookshelf server made with Flutter.|11|2024-08-28|2024-05-08|
+|21|[peaashmeter/schizodem](https://github.com/peaashmeter/schizodem)|A hypothesis on how to generate better results with LLM.|11|2024-03-31|2024-03-29|
+|22|[leanflutter/storybook_dart](https://github.com/leanflutter/storybook_dart)|Storybook for Flutter, build your Flutter widgets storybook using storybookjs.|11|2024-08-10|2023-12-07|
+|23|[jmax518/cloudmate-classroom-flutter](https://github.com/jmax518/cloudmate-classroom-flutter)|Cloudmate is an open-source online learning platform developed with Flutter to help teachers and students connect and interact with each other through a variety of features. |10|2024-05-25|2024-05-25|
+|24|[hydev777/wt-flutter-samples](https://github.com/hydev777/wt-flutter-samples)|Flutter examples|10|2024-06-12|2024-05-21|
 |25|[Zfinix/nigerian_banks_signal](https://github.com/Zfinix/nigerian_banks_signal)|This project shows how to use Signals Dart and Dio to build a simple MVVM Architecture|10|2024-03-04|2024-01-01|
 |26|[NextFlutter/NextFlutterIcons](https://github.com/NextFlutter/NextFlutterIcons)|pretty icons to go with NextFlutter design guidelines|9|2024-06-25|2024-06-04|
 |27|[Pomis/flutter_native_ui_examples](https://github.com/Pomis/flutter_native_ui_examples)|Code examples for Medium article series|9|2024-06-19|2024-04-30|
-|28|[judemont/QuizFlow](https://github.com/judemont/QuizFlow)|Create, and study word lists with interactive flashcards and modes 📚🧠✨ - Free & open source Quizlet alternative|8|2024-08-25|2024-07-09|
-|29|[Akshya107/flutter_basic_widget_ak](https://github.com/Akshya107/flutter_basic_widget_ak)|This repository serves as a comprehensive guide to various basic widgets available in Flutter. Each widget is explained with examples and use cases to help you grasp their functionality and usage.|8|2024-06-11|2024-06-05|
-|30|[COS301-SE-2024/GameOnConnect](https://github.com/COS301-SE-2024/GameOnConnect)|Up until now, gamers never really had a platform for themselves. GameOnConnect solves this problem! Gamers will now be able to connect with other gamers and will be able to share their gaming adventur ...|8|2024-08-26|2024-05-14|
-|31|[anuragJoshi05/DishDash](https://github.com/anuragJoshi05/DishDash)| Discover and explore recipes effortlessly with Recipe Finder. Search by ingredients or dish names, browse curated recipes, and save favorites. Future updates will include a "Make Your Own Dish" featu ...|8|2024-05-29|2024-04-27|
-|32|[wuxialearn/wuxialearn](https://github.com/wuxialearn/wuxialearn)|Wuxia Learn - Learn Chinese|8|2024-07-03|2024-03-25|
-|33|[TarekAlabd/Gaza-Sky-Flutter-Projects](https://github.com/TarekAlabd/Gaza-Sky-Flutter-Projects)|The projects I built with the students in the course of Sky Geeks with Knowledge Academy in Gaza|8|2024-03-24|2024-01-16|
-|34|[ivansaul/cheat-sheets](https://github.com/ivansaul/cheat-sheets)|Cheat-Sheets: Your go-to quick reference developer guide for learning Python, Rust, Swift, JavaScript, Kotlin, Go, Git, and more!|8|2024-03-24|2023-12-21|
+|28|[ivansaul/cheat-sheets](https://github.com/ivansaul/cheat-sheets)|Cheat-Sheets: Your go-to quick reference developer guide for learning Python, Rust, Swift, JavaScript, Kotlin, Go, Git, and more!|9|2024-03-24|2023-12-21|
+|29|[judemont/QuizFlow](https://github.com/judemont/QuizFlow)|Create, and study word lists with interactive flashcards and modes 📚🧠✨ - Free & open source Quizlet alternative|8|2024-08-25|2024-07-09|
+|30|[Akshya107/flutter_basic_widget_ak](https://github.com/Akshya107/flutter_basic_widget_ak)|This repository serves as a comprehensive guide to various basic widgets available in Flutter. Each widget is explained with examples and use cases to help you grasp their functionality and usage.|8|2024-06-11|2024-06-05|
+|31|[COS301-SE-2024/GameOnConnect](https://github.com/COS301-SE-2024/GameOnConnect)|Up until now, gamers never really had a platform for themselves. GameOnConnect solves this problem! Gamers will now be able to connect with other gamers and will be able to share their gaming adventur ...|8|2024-08-29|2024-05-14|
+|32|[anuragJoshi05/DishDash](https://github.com/anuragJoshi05/DishDash)| Discover and explore recipes effortlessly with Recipe Finder. Search by ingredients or dish names, browse curated recipes, and save favorites. Future updates will include a "Make Your Own Dish" featu ...|8|2024-05-29|2024-04-27|
+|33|[wuxialearn/wuxialearn](https://github.com/wuxialearn/wuxialearn)|Wuxia Learn - Learn Chinese|8|2024-07-03|2024-03-25|
+|34|[TarekAlabd/Gaza-Sky-Flutter-Projects](https://github.com/TarekAlabd/Gaza-Sky-Flutter-Projects)|The projects I built with the students in the course of Sky Geeks with Knowledge Academy in Gaza|8|2024-03-24|2024-01-16|
 |35|[Yihun-Alemayehu/gdsc_study_session_g7](https://github.com/Yihun-Alemayehu/gdsc_study_session_g7)|GDSC flutter study session tasks repo|8|2024-02-29|2023-11-17|
 |36|[inehalbabu/flutter-tips-and-tricks](https://github.com/inehalbabu/flutter-tips-and-tricks)|This repository is a curated collection of useful tips and tricks for the Dart programming language and Flutter framework. Aimed at both beginners and experienced developers.|8|2024-08-26|2023-11-04|
 |37|[matanlurey/mirage.dart](https://github.com/matanlurey/mirage.dart)|Generates noise and patterns algorithmically for use in software, textures, and graphics.|7|2024-08-04|2024-08-04|
-|38|[prosmaw/flutter_custom_widgets](https://github.com/prosmaw/flutter_custom_widgets)|A list of widgets I find on X made with other frameworks that I decided to reproduce with Flutter|7|2024-08-26|2024-07-19|
+|38|[prosmaw/flutter_custom_widgets](https://github.com/prosmaw/flutter_custom_widgets)|A list of widgets I find on X made with other frameworks that I decided to reproduce with Flutter|7|2024-08-28|2024-07-19|
 |39|[Akatsuki49/Readmore.ai](https://github.com/Akatsuki49/Readmore.ai)|📚✨ Immerse yourself in a world where words come alive! With Readmore.ai, reading becomes an interactive adventure. Dive into captivating books, tap on paragraphs, and watch as vibrant visuals and ench ...|7|2024-08-22|2024-03-15|
 |40|[adsonpleal/shared_preferences_tools](https://github.com/adsonpleal/shared_preferences_tools)|Shared preferences devtools extension for Flutter|7|2024-08-17|2024-02-13|
 |41|[TarekAlabd/Flutter-Projects-Gaza-Round1](https://github.com/TarekAlabd/Flutter-Projects-Gaza-Round1)|The projects I built with the students in the course of round 1 with Knowledge Academy in Gaza|7|2024-03-25|2024-01-16|
