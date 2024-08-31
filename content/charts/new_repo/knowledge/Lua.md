@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Lua
-<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|968|2024-08-10|2023-09-16|
-|2|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|452|2024-08-27|2024-01-03|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|969|2024-08-10|2023-09-16|
+|2|[otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)|Bookmark your files, separated by project, and quickly navigate through them.|453|2024-08-27|2024-01-03|
 |3|[chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)|Automagical editing and creation of snippets.|338|2024-08-17|2023-12-29|
-|4|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|210|2024-07-17|2023-12-01|
-|5|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|180|2024-06-26|2023-10-03|
-|6|[LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim)|Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)|157|2024-08-22|2024-02-02|
+|4|[garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets)|Snippet support using native neovim snippets|211|2024-07-17|2023-12-01|
+|5|[3rfaan/arch-everforest](https://github.com/3rfaan/arch-everforest)|Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs ...|182|2024-06-26|2023-10-03|
+|6|[LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim)|Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)|158|2024-08-22|2024-02-02|
 |7|[NoOPeEKS/DataNvim](https://github.com/NoOPeEKS/DataNvim)|A fully-featured batteries-included Neovim distribution for the world of Data Science. Prepared to run code and interact with Jupyter Notebooks without ever leaving your terminal.|70|2024-06-29|2024-06-10|
 |8|[GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)|Jupyter notebooks on neovim powered by Jupytext|70|2024-07-07|2023-11-22|
-|9|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|60|2024-08-25|2023-12-10|
+|9|[PortsMaster/PortMaster-New](https://github.com/PortsMaster/PortMaster-New)|New PortMaster repo|60|2024-08-30|2023-12-10|
 |10|[yazi-rs/plugins](https://github.com/yazi-rs/plugins)|Place code snippets from docs into this monorepo, so that users can update more easily via package manager.|59|2024-08-21|2024-05-14|
 |11|[mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets)|Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets|58|2024-08-07|2023-12-03|
 |12|[it-scripts/it-drugs](https://github.com/it-scripts/it-drugs)|Become a master herbalist with this drug script! Ready for qb-core and esx!|55|2024-08-19|2024-04-05|
-|13|[tristone13th/lspmark.nvim](https://github.com/tristone13th/lspmark.nvim)|A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.|52|2024-07-25|2024-06-09|
+|13|[tristone13th/lspmark.nvim](https://github.com/tristone13th/lspmark.nvim)|A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.|52|2024-08-30|2024-06-09|
 |14|[cdmill/neomodern.nvim](https://github.com/cdmill/neomodern.nvim)|A collection of modern themes for Neovim|51|2024-08-03|2024-01-19|
 |15|[IdreesInc/PlayBook](https://github.com/IdreesInc/PlayBook)|A cranky ebook reader for the Playdate console|43|2024-05-19|2023-10-14|
 |16|[Antonoko/pocket-reader](https://github.com/Antonoko/pocket-reader)|A ebook reader supports Chinese on Playdate console.|34|2024-05-29|2024-05-18|
@@ -26,15 +26,15 @@
 |19|[Rayquaza01/picotron-utilities](https://github.com/Rayquaza01/picotron-utilities)|A collection of basic command line utilities for Picotron|25|2024-08-21|2024-03-15|
 |20|[smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim)|NvChad cheatsheet as a standalone neovim plugin|23|2024-03-12|2024-03-10|
 |21|[adambennett/Balatro-DeckCreator](https://github.com/adambennett/Balatro-DeckCreator)|Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.|22|2024-04-20|2024-02-25|
-|22|[jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim)|A collection of nifty neovim code actions|19|2024-06-27|2024-01-18|
-|23|[alberttheprince/popcornrp-pets](https://github.com/alberttheprince/popcornrp-pets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|19|2024-08-28|2023-11-22|
+|22|[alberttheprince/popcornrp-pets](https://github.com/alberttheprince/popcornrp-pets)|A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!|22|2024-08-28|2023-11-22|
+|23|[jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim)|A collection of nifty neovim code actions|19|2024-06-27|2024-01-18|
 |24|[biozz/whop.nvim](https://github.com/biozz/whop.nvim)|Whop your snippets with custom commands|18|2024-08-13|2023-10-21|
 |25|[DreamMaoMao/bookmarks-persistence.yazi](https://github.com/DreamMaoMao/bookmarks-persistence.yazi)|A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.|17|2024-06-24|2024-04-18|
 |26|[dokusaido/Doku_Offroad](https://github.com/dokusaido/Doku_Offroad)|A collection of Lore Friendly Cars|17|2024-03-21|2024-03-16|
 |27|[constly/ant_demo](https://github.com/constly/ant_demo)|Ant Game Engine Study|17|2024-07-31|2024-01-22|
 |28|[m0tral/MiWatchLuaWatchfaces](https://github.com/m0tral/MiWatchLuaWatchfaces)|Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models|17|2024-04-26|2023-10-31|
 |29|[Roblox/dash](https://github.com/Roblox/dash)|A collection of core utilities expanding the capabilities of Luau. This is a read-only mirror.|17|2024-08-13|2023-10-23|
-|30|[altermo/small.nvim](https://github.com/altermo/small.nvim)|A collection of "small" plugins|17|2024-08-29|2023-09-15|
+|30|[altermo/small.nvim](https://github.com/altermo/small.nvim)|A collection of "small" plugins|17|2024-08-30|2023-09-15|
 |31|[Kokanacoin/coin-nvim](https://github.com/Kokanacoin/coin-nvim)|This is a Chinese tutorial on using lazy.nvim, including installation, configuration, troubleshooting records, and Chinese shortcut key documentation.|16|2024-05-20|2024-05-08|
 |32|[MikaSchoenmakers/MikasBalatro](https://github.com/MikaSchoenmakers/MikasBalatro)|Collection of Mikas Balatro mods|16|2024-05-21|2024-03-07|
 |33|[TwIStOy/luasnip-snippets](https://github.com/TwIStOy/luasnip-snippets)|Native LuaSnip snippets. Inspired by Jetbrain's IDEs.|16|2024-07-31|2024-01-02|
@@ -51,13 +51,13 @@
 |44|[Neura-Studios/flash-list-lua](https://github.com/Neura-Studios/flash-list-lua)|A better list for React Lua|9|2024-06-08|2024-04-12|
 |45|[nicholassam6425/balatro-mods](https://github.com/nicholassam6425/balatro-mods)|collection of balatro mods|9|2024-04-30|2024-03-01|
 |46|[Srinath10X/Litevim](https://github.com/Srinath10X/Litevim)|Litevim 🚀: A lightweight, easily configurable Neovim setup for a swift and clean editing experience. Tailor your themes 🎨, master languages 🚀, all in a user-friendly, minimalistic package.|9|2024-08-27|2023-12-22|
-|47|[waizui/luacg](https://github.com/waizui/luacg)|luacg is a project implements computer grahics algorithms in pure lua.|8|2024-08-29|2024-06-06|
+|47|[waizui/luacg](https://github.com/waizui/luacg)|luacg is a project implements computer grahics algorithms in pure lua.|8|2024-08-30|2024-06-06|
 |48|[Ausgefuchster/quickselect.nvim](https://github.com/Ausgefuchster/quickselect.nvim)|quickly jump, select or yank patterns in neovim|8|2024-06-19|2024-06-01|
-|49|[nvim-neorocks/busted-interop-examples](https://github.com/nvim-neorocks/busted-interop-examples)|🌖🧪 Examples for combining Neovim/Lua test frameworks with busted|7|2024-08-02|2024-07-30|
-|50|[AnirudhG07/nbpreview.yazi](https://github.com/AnirudhG07/nbpreview.yazi)|View your Jupyter notebooks beautifully in the preview|7|2024-08-26|2024-07-07|
-|51|[Mi1cK/Milcks-QOL](https://github.com/Mi1cK/Milcks-QOL)|Small collection of mods to add quality of life improvements|7|2024-04-03|2024-02-29|
-|52|[whiteboxdev/tutorial-defold](https://github.com/whiteboxdev/tutorial-defold)|Tutorials of game design concepts and feature implementations in Defold game engine projects.|7|2024-05-24|2024-02-19|
-|53|[LeontopodiumNivale14/SND-Scripts](https://github.com/LeontopodiumNivale14/SND-Scripts)|A collection of scripts that either I'm actively working on, or have completed and shared with the community.|7|2024-07-21|2024-01-27|
+|49|[LeontopodiumNivale14/SND-Scripts](https://github.com/LeontopodiumNivale14/SND-Scripts)|A collection of scripts that either I'm actively working on, or have completed and shared with the community.|8|2024-07-21|2024-01-27|
+|50|[nvim-neorocks/busted-interop-examples](https://github.com/nvim-neorocks/busted-interop-examples)|🌖🧪 Examples for combining Neovim/Lua test frameworks with busted|7|2024-08-02|2024-07-30|
+|51|[AnirudhG07/nbpreview.yazi](https://github.com/AnirudhG07/nbpreview.yazi)|View your Jupyter notebooks beautifully in the preview|7|2024-08-26|2024-07-07|
+|52|[Mi1cK/Milcks-QOL](https://github.com/Mi1cK/Milcks-QOL)|Small collection of mods to add quality of life improvements|7|2024-04-03|2024-02-29|
+|53|[whiteboxdev/tutorial-defold](https://github.com/whiteboxdev/tutorial-defold)|Tutorials of game design concepts and feature implementations in Defold game engine projects.|7|2024-05-24|2024-02-19|
 |54|[drmabuse19/RedM_VORP_server](https://github.com/drmabuse19/RedM_VORP_server)|List of scripts for RedM|6|2024-05-02|2024-03-29|
 |55|[yuriescl/minimal-bookmarks.nvim](https://github.com/yuriescl/minimal-bookmarks.nvim)|A minimal bookmarks plugin for Neovim.|6|2024-03-26|2024-03-08|
 |56|[dslc-io/dslc-io](https://github.com/dslc-io/dslc-io)|The Data Science Learning Community|6|2024-08-26|2024-02-15|

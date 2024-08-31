@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|523|2024-08-26|2023-11-21|
+|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|525|2024-08-26|2023-11-21|
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|285|2024-06-05|2024-01-03|
 |3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|201|2024-07-06|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|165|2024-04-23|2024-01-10|
 |5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|161|2024-08-29|2024-01-12|
 |6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|143|2024-07-03|2024-05-29|
-|7|[atinux/atidraw](https://github.com/atinux/atidraw)|Share your drawings with the world. Powered by Cloudflare R2 & AI.|137|2024-08-24|2024-06-10|
-|8|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|46|2024-07-02|2023-12-14|
+|7|[atinux/atidraw](https://github.com/atinux/atidraw)|Share your drawings with the world. Powered by Cloudflare R2 & AI.|138|2024-08-24|2024-06-10|
+|8|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|47|2024-07-02|2023-12-14|
 |9|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|38|2024-03-29|2024-01-14|
 |10|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|35|2024-08-26|2024-01-01|
 |11|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|20|2024-08-03|2024-01-30|
@@ -22,7 +22,7 @@
 |15|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|18|2024-06-24|2023-12-12|
 |16|[cheekey0x/nuxt-3-video-game-search](https://github.com/cheekey0x/nuxt-3-video-game-search)|Custom redesign with additional features based on a tutorial on YouTube.|16|2024-05-19|2024-05-19|
 |17|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
-|18|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|13|2024-08-29|2023-10-23|
+|18|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|13|2024-08-30|2023-10-23|
 |19|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
 |20|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-08-23|2023-11-10|
 |21|[Justin3go/weekly0](https://github.com/Justin3go/weekly0)|优质中文周刊导航网站--收刮中文互联网上的奇迹|11|2024-07-17|2024-06-06|
@@ -44,9 +44,10 @@
 |37|[mycurelabs/easy-daisy](https://github.com/mycurelabs/easy-daisy)|Vue.js 3 Component Collection for DaisyUI|5|2024-05-22|2024-05-22|
 |38|[rezansrv/G2-Intership](https://github.com/rezansrv/G2-Intership)|A site to display courses written with Nuxt2,Vue class based component,Typescript,Tailwindcss|5|2024-03-13|2023-12-06|
 |39|[jankohlbach/real-world-shader](https://github.com/jankohlbach/real-world-shader)|a collection of shader effects that are actually useful in real world client projects|5|2024-07-29|2023-11-19|
-|40|[IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project)|This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3|4|2024-07-03|2024-07-03|
-|41|[aland404/workshop-bruno](https://github.com/aland404/workshop-bruno)|This is a workshop to learn the basics of Bruno 🐶|4|2024-06-26|2024-05-22|
-|42|[lt5227/example_code](https://github.com/lt5227/example_code)|example code for some framework study, just for reference|4|2024-06-14|2024-04-24|
+|40|[gabrieladia1979/Vue.js-Profesional-Course-50Hours](https://github.com/gabrieladia1979/Vue.js-Profesional-Course-50Hours)|Vue.js Profesional Course +50 Hours|4|2024-08-30|2024-07-04|
+|41|[IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project)|This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3|4|2024-07-03|2024-07-03|
+|42|[aland404/workshop-bruno](https://github.com/aland404/workshop-bruno)|This is a workshop to learn the basics of Bruno 🐶|4|2024-06-26|2024-05-22|
+|43|[lt5227/example_code](https://github.com/lt5227/example_code)|example code for some framework study, just for reference|4|2024-06-14|2024-04-24|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

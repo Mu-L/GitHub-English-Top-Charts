@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -27,29 +27,28 @@
 |20|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-06-13|
 |21|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|44|0|2024-08-27|
 |22|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|10|0|2024-06-28|
-|23|[shaunroselt/Roselt-Network-Tools](https://github.com/shaunroselt/Roselt-Network-Tools)|Collection of network utilities|4|0|2024-02-29|
-|24|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|13|0|2024-04-24|
-|25|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1788|0|2024-04-25|
-|26|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|42|0|2024-03-22|
-|27|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2024-08-05|
-|28|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2024-06-24|
-|29|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|5|0|2024-05-19|
-|30|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|0|2024-03-18|
-|31|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|110|0|2024-08-28|
-|32|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|0|2024-05-25|
-|33|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|0|2024-08-10|
-|34|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|150|0|2024-07-24|
-|35|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|0|2024-08-19|
-|36|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-08-23|
-|37|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|10|0|2024-06-10|
-|38|[DjoCoding/Djo-Lang](https://github.com/DjoCoding/Djo-Lang)|a small programming language built for learning purposes|5|0|2024-04-26|
-|39|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|5|0|2024-04-10|
-|40|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|86|0|2024-07-06|
-|41|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|0|2024-07-10|
-|42|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|41|0|2024-03-29|
-|43|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|58|0|2024-03-17|
-|44|[bero/InterFaceWithGUI](https://github.com/bero/InterFaceWithGUI)|Small demo shoing how to use interfaces with modal dialog|6|0|2024-07-28|
-|45|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|0|2024-04-13|
+|23|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|13|0|2024-04-24|
+|24|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1789|0|2024-04-25|
+|25|[Embarcadero/RADStudio-DemoKit](https://github.com/Embarcadero/RADStudio-DemoKit)|A collection of demos around 10.4 Sydney updated for 10.4.2.|42|0|2024-03-22|
+|26|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|0|2024-08-05|
+|27|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|0|2024-06-24|
+|28|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|5|0|2024-05-19|
+|29|[Lulu04/Give-Your-Voice](https://github.com/Lulu04/Give-Your-Voice)|A free voice recording software to ease the production of audio books|10|0|2024-03-18|
+|30|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|110|0|2024-08-28|
+|31|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|0|2024-05-25|
+|32|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|0|2024-08-10|
+|33|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|150|0|2024-07-24|
+|34|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|0|2024-08-19|
+|35|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-08-23|
+|36|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|10|0|2024-06-10|
+|37|[DjoCoding/Djo-Lang](https://github.com/DjoCoding/Djo-Lang)|a small programming language built for learning purposes|5|0|2024-04-26|
+|38|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|5|0|2024-04-10|
+|39|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|86|0|2024-07-06|
+|40|[PascalCorpsman/Examples](https://github.com/PascalCorpsman/Examples)|Collection of useful and mostly non trivial examples that can be used to start own projects|9|0|2024-07-10|
+|41|[flynnsbit/DOS_Shareware_MyMenu](https://github.com/flynnsbit/DOS_Shareware_MyMenu)|DOS Shareware Pack|41|0|2024-03-29|
+|42|[shaunroselt/Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|Collection of utilities for developers.|58|0|2024-03-17|
+|43|[bero/InterFaceWithGUI](https://github.com/bero/InterFaceWithGUI)|Small demo shoing how to use interfaces with modal dialog|6|0|2024-07-28|
+|44|[kmzbrnoI/uLI-daemon](https://github.com/kmzbrnoI/uLI-daemon)|SW propojující uLI-master a hJOPserver.|2|0|2024-04-13|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
