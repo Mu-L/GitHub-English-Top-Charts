@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,8 +9,8 @@
 |2|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3337|2024-05-31|
 |3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2711|2024-04-11|
 |4|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1774|2024-08-28|
-|5|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、 ...|562|2024-08-07|
-|6|[jhftss/POC](https://github.com/jhftss/POC)|A public collection of POCs & Exploits for the vulnerabilities I discovered|351|2024-03-01|
+|5|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、 ...|563|2024-08-07|
+|6|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|320|2024-08-31|
 |7|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|2024-04-18|
 |8|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|269|2024-03-17|
 |9|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|2024-04-09|
@@ -51,7 +51,7 @@
 |44|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|2024-06-25|
 |45|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|4|2024-06-30|
 |46|[cl3m/MauiFlutterBinding](https://github.com/cl3m/MauiFlutterBinding)|An example of how to integrate flutter with .NET MAUI. |4|2024-03-17|
-|47|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2024-05-13|
+|47|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|2024-08-30|
 |48|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|2024-03-16|
 |49|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|2024-07-14|
 |50|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|🟨 🟧 🟥 A fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for developers ...|3|2024-08-14|

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13354|2024-08-23|
+|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13356|2024-08-23|
 |2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10369|2024-07-06|
 |3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2708|2024-05-28|
 |4|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1370|2024-08-23|
@@ -18,7 +18,7 @@
 |11|[Asheq/close-buffers.vim](https://github.com/Asheq/close-buffers.vim)| :book: Quickly close (bdelete) several buffers at once 📕|151|2024-06-29|
 |12|[yorickpeterse/vim-paper](https://github.com/yorickpeterse/vim-paper)|A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.|122|2024-05-19|
 |13|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|96|2024-07-18|
-|14|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|2024-08-30|
+|14|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|2024-08-31|
 |15|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|86|2024-06-06|
 |16|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|83|2024-08-18|
 |17|[addy-dclxvi/debian-bspwm-dotfiles](https://github.com/addy-dclxvi/debian-bspwm-dotfiles)|My personal backup of my Debian 11 (Bullseye) Bspwm configurations including the documentation about how to recreate my setup|81|2024-08-24|
@@ -27,7 +27,7 @@
 |20|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|34|2024-07-26|
 |21|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|29|2024-08-28|
 |22|[tchapi/ansible-playbooks](https://github.com/tchapi/ansible-playbooks)|Roles and playbooks for Ansible|28|2024-03-04|
-|23|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|2024-08-27|
+|23|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|2024-08-31|
 |24|[vim-denops/denops-shared-server.vim](https://github.com/vim-denops/denops-shared-server.vim)|🎃 Vim plugin to help install/uninstall denops-shared-server|25|2024-08-18|
 |25|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|23|2024-08-21|
 |26|[phantomdiorama/writingvim](https://github.com/phantomdiorama/writingvim)|:memo: An awesome-ish list of vim for writers|20|2024-05-18|
@@ -63,7 +63,7 @@
 |56|[bmeurer/dotfiles](https://github.com/bmeurer/dotfiles)|Collection of various dotfiles|5|2024-07-12|
 |57|[casualjim/dot-files](https://github.com/casualjim/dot-files)|A collection of configuration scripts for emacs and vim|5|2024-07-05|
 |58|[MarkBorcherding/dotfiles](https://github.com/MarkBorcherding/dotfiles)|A collection of settings and scripts to keep my machines look and feel in sync.|5|2024-05-30|
-|59|[sophiabrandt/TIL](https://github.com/sophiabrandt/TIL)|📝 Today I learned|4|2024-07-26|
+|59|[sophiabrandt/TIL](https://github.com/sophiabrandt/TIL)|📝 Today I learned|4|2024-08-31|
 |60|[HaiboTu/ubuntuUserguide](https://github.com/HaiboTu/ubuntuUserguide)|Simple user guide on ubuntu.|4|2024-04-28|
 |61|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|2024-08-13|
 |62|[dan-t/vim-cpp-include](https://github.com/dan-t/vim-cpp-include)|Extend the include list of a C/C++ source file|4|2024-04-04|
@@ -75,7 +75,7 @@
 |68|[caesar0301/cool-dotfiles](https://github.com/caesar0301/cool-dotfiles)|Personal collection of dotfiles|3|2024-03-11|
 |69|[alessiotucci/my-vim-config](https://github.com/alessiotucci/my-vim-config)| Learning Vim can be very beneficial for programmers, writers, and anyone who spends a lot of time working on a computer|3|2024-05-16|
 |70|[feniljain/dotfiles](https://github.com/feniljain/dotfiles)| A collection of all my config dotfiles |3|2024-03-20|
-|71|[MahbubAlam231/vim-for-latex](https://github.com/MahbubAlam231/vim-for-latex)|My personalization of vim for mainly LaTeX; containing vimrc, templates, snippets, folding method and abbreviations|3|2024-05-11|
+|71|[MahbubAlam231/vim-for-latex](https://github.com/MahbubAlam231/vim-for-latex)|My personalization of vim for mainly LaTeX; containing vimrc, templates, snippets, folding method and abbreviations|3|2024-08-30|
 |72|[cdmatters/dotfiles](https://github.com/cdmatters/dotfiles)|collection of configs|3|2024-08-06|
 |73|[koallen/dotfiles](https://github.com/koallen/dotfiles)|My collection of dotfiles|3|2024-05-29|
 |74|[Wojonatior/dotfiles](https://github.com/Wojonatior/dotfiles)|Collection of all of my dotfiles|3|2024-08-21|

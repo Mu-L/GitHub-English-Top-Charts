@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |764|2024-08-22|
-|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|604|2024-08-24|
+|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|603|2024-08-24|
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|288|2024-08-30|
 |4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|158|2024-08-30|
 |5|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|128|2024-08-02|
@@ -54,9 +54,9 @@
 |47|[Hubbitus/groovy-test-examples](https://github.com/Hubbitus/groovy-test-examples)|Groovy findings, snippets, examples. Mostly for memorize and sharing.|4|2024-07-06|
 |48|[DevMadhup/Jenkins_SharedLib](https://github.com/DevMadhup/Jenkins_SharedLib)|This repository has Jenkins Shared Library |3|2024-08-26|
 |49|[gabriel-rodrigues-f/btp-samples](https://github.com/gabriel-rodrigues-f/btp-samples)|Useful code snippets for use in SAP Cloud Integration integrations|3|2024-08-29|
-|50|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-08-28|
+|50|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-08-31|
 |51|[networkupstools/jenkins-dynamatrix](https://github.com/networkupstools/jenkins-dynamatrix)|A shared library to do a sort of matrix build based on available swarm agent labels|3|2024-08-02|
-|52|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-04-14|
+|52|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-08-31|
 |53|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|2024-05-30|
 |54|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|2024-03-13|
 |55|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|2024-08-29|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-08-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,20 +13,20 @@
 |6|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-08-29|2024-02-08|
 |7|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|34|2024-07-07|2024-02-17|
 |8|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|28|2024-06-03|2023-12-07|
-|9|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-08-30|2024-01-08|
+|9|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-08-31|2024-01-08|
 |10|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
 |11|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|20|2024-08-30|2024-02-22|
-|12|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
-|13|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|19|2024-07-15|2023-11-06|
+|12|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|20|2024-07-15|2023-11-06|
+|13|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
 |14|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|18|2024-08-09|2024-02-12|
-|15|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|17|2024-04-22|2024-03-13|
-|16|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|17|2024-08-20|2023-09-30|
+|15|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|18|2024-08-20|2023-09-30|
+|16|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|17|2024-04-22|2024-03-13|
 |17|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|16|2024-07-16|2024-07-15|
 |18|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|16|2024-08-30|2024-01-02|
-|19|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-08-29|2023-09-21|
-|20|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|14|2024-05-28|2024-04-18|
-|21|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|14|2024-03-11|2024-01-26|
-|22|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|14|2024-08-27|2024-01-10|
+|19|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|15|2024-08-27|2024-01-10|
+|20|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-08-29|2023-09-21|
+|21|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|14|2024-05-28|2024-04-18|
+|22|[riffy/paldmin](https://github.com/riffy/paldmin)|Palword Webmin Module for Linux Server as admin interface|14|2024-03-11|2024-01-26|
 |23|[kg4zow/rm2-scripts](https://github.com/kg4zow/rm2-scripts)|Scripts that I've written for working with reMarkable tablets.|14|2024-07-13|2023-09-09|
 |24|[uav4geo/Thermal-Tools](https://github.com/uav4geo/Thermal-Tools)|Convert DJI thermal images (RJPEG) into temperature TIFFs for use with WebODM. 🌡|13|2024-07-22|2024-07-07|
 |25|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|13|2024-03-21|2024-03-21|
@@ -40,18 +40,18 @@
 |33|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|10|2024-08-18|2023-11-28|
 |34|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
 |35|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|10|2024-07-26|2023-10-24|
-|36|[mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird)|Slapbird 🐦: An APM (Application Performance Monitor) for Perl 5 web-applications|9|2024-08-30|2024-04-02|
+|36|[mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird)|SlapbirdAPM 🐦: An APM (Application Performance Monitor) for Perl 5 web-applications|9|2024-08-31|2024-04-02|
 |37|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
 |38|[shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module](https://github.com/shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module)|This project helps to monitor the temperature and transmit the data over a long distance, up to 1 kilometer, using two ATmega32 AVR microcontrollers.|8|2024-07-29|2024-07-29|
 |39|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
 |40|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|8|2024-04-22|2024-01-02|
 |41|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|8|2024-07-31|2023-12-04|
 |42|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-05-11|2023-10-13|
-|43|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|7|2024-04-30|2024-04-30|
-|44|[chpc-tech-eval/chpc24-scc-nmu](https://github.com/chpc-tech-eval/chpc24-scc-nmu)|Competition instructions for the Center for High Performance Computing (CHPC) 2024 Student Cluster Compettion (SCC). Which is hosted by the National Integrated Cyber Infrastructure Systems (NICIS), a  ...|7|2024-07-11|2024-03-20|
-|45|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|7|2024-08-28|2024-02-07|
-|46|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-08-10|2023-09-24|
-|47|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|6|2024-08-30|2024-08-02|
+|43|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|7|2024-08-31|2024-08-02|
+|44|[smousavi05/sample-data-for-denoising](https://github.com/smousavi05/sample-data-for-denoising)|This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your ...|7|2024-04-30|2024-04-30|
+|45|[chpc-tech-eval/chpc24-scc-nmu](https://github.com/chpc-tech-eval/chpc24-scc-nmu)|Competition instructions for the Center for High Performance Computing (CHPC) 2024 Student Cluster Compettion (SCC). Which is hosted by the National Integrated Cyber Infrastructure Systems (NICIS), a  ...|7|2024-07-11|2024-03-20|
+|46|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|7|2024-08-28|2024-02-07|
+|47|[DerekPascarella/Temptation-EnglishPatchFMTowns](https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns)|English translation patch for the FM Towns/FM Towns Marty game "Temptation".|7|2024-08-10|2023-09-24|
 |48|[saiftynet/Calendar](https://github.com/saiftynet/Calendar)|-|6|2024-07-28|2024-05-09|
 |49|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|6|2024-08-15|2024-04-08|
 |50|[ImKKingshuk/USBoverSSH](https://github.com/ImKKingshuk/USBoverSSH)|USBoverSSH - Seamlessly Connect USB Devices Over SSH! 🚀✨ Leverage the power of USBoverSSH to establish secure connections between USB devices and remote hosts. Effortlessly bridge the gap between loca ...|6|2024-06-15|2024-02-04|
@@ -67,7 +67,7 @@
 |60|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK|5|2024-08-09|2024-01-19|
 |61|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
 |62|[drylikov/Network_plugins](https://github.com/drylikov/Network_plugins)|Check plugins for Networking devices to be used in Nagios or Shinken.|4|2024-08-28|2024-08-28|
-|63|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|4|2024-08-30|2024-08-19|
+|63|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|4|2024-08-31|2024-08-19|
 |64|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-08-01|2024-06-26|
 |65|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
 |66|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|4|2024-08-30|2024-04-22|
@@ -153,7 +153,6 @@
 |146|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2024-05-03|2023-10-03|
 |147|[w1ldc4rd-w1z4rd/minimalist-magic](https://github.com/w1ldc4rd-w1z4rd/minimalist-magic)|Perl package, "mm", offering a suite of subroutines for streamlined command-line tasks, from colored printing to OpenAI API integration.|2|2024-03-18|2023-09-18|
 |148|[icann/rst-api-spec](https://github.com/icann/rst-api-spec)|OpenAPI 3.1 specification for the Registry System Testing (RST) API|2|2024-05-14|2023-09-07|
-|149|[perl-openssl/perl-Crypt-OpenSSL-AES](https://github.com/perl-openssl/perl-Crypt-OpenSSL-AES)|-|2|2024-06-10|2023-09-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
