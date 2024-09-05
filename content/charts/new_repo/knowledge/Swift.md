@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-09-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1340|2024-08-23|2024-07-07|
-|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|849|2024-08-27|2024-06-12|
-|3|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|656|2024-08-28|2023-12-01|
-|4|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|617|2024-08-30|2024-02-22|
+|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1345|2024-08-23|2024-07-07|
+|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|850|2024-08-27|2024-06-12|
+|3|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|662|2024-08-28|2023-12-01|
+|4|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|619|2024-09-04|2024-02-22|
 |5|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|185|2024-08-18|2024-01-21|
-|6|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|174|2024-07-13|2024-05-17|
-|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|149|2024-08-23|2023-12-01|
-|8|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|136|2024-07-24|2024-06-13|
+|6|[ynagatomo/SGMExamples](https://github.com/ynagatomo/SGMExamples)|A collection of Shader Graph Materials for visionOS.|175|2024-07-13|2024-05-17|
+|7|[cvs-health/ios-swiftui-accessibility-techniques](https://github.com/cvs-health/ios-swiftui-accessibility-techniques)|Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to c ...|150|2024-08-23|2023-12-01|
+|8|[huggingface/coreml-examples](https://github.com/huggingface/coreml-examples)|Swift Core ML Examples|137|2024-07-24|2024-06-13|
 |9|[alienator88/Viz](https://github.com/alienator88/Viz)|Capture text/QR Codes/Barcodes from screen snippets|111|2024-07-08|2024-04-08|
 |10|[shu223/visionOS-Sampler](https://github.com/shu223/visionOS-Sampler)|ARKit in visionOS Examples|104|2024-07-03|2023-12-16|
 |11|[candlefinance/haptics](https://github.com/candlefinance/haptics)|Haptics for React Native with support for custom patterns and ahap files.|83|2024-04-29|2023-09-28|
@@ -21,17 +21,17 @@
 |14|[davbeck/swift-glob](https://github.com/davbeck/swift-glob)|A native Swift implementation of glob match patterns.|45|2024-07-15|2023-11-23|
 |15|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|27|2024-08-08|2023-10-19|
 |16|[kaviappletec/MyTool](https://github.com/kaviappletec/MyTool)|This is a tool that you can learn about A12+ iCloud Bypass |26|2024-07-05|2024-07-05|
-|17|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|24|2024-03-31|2023-11-22|
-|18|[ynagatomo/HLS360VideoMaterial](https://github.com/ynagatomo/HLS360VideoMaterial)|A sample project that shows how to use a video material with a HTTP Live Streaming (HLS) 360 video in visionOS.|23|2024-08-26|2024-08-25|
-|19|[DandyLyons/NativeRegexExamples](https://github.com/DandyLyons/NativeRegexExamples)|A crowd sourced repository for examples of Swift's native Regex type.|20|2024-09-02|2024-08-31|
+|17|[ynagatomo/HLS360VideoMaterial](https://github.com/ynagatomo/HLS360VideoMaterial)|A sample project that shows how to use a video material with a HTTP Live Streaming (HLS) 360 video in visionOS.|24|2024-08-26|2024-08-25|
+|18|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|24|2024-03-31|2023-11-22|
+|19|[DandyLyons/NativeRegexExamples](https://github.com/DandyLyons/NativeRegexExamples)|A crowd sourced repository for examples of Swift's native Regex type.|23|2024-09-02|2024-08-31|
 |20|[Pixeland-Tech/SharePlayMock](https://github.com/Pixeland-Tech/SharePlayMock)|An extension API of Swift GroupActivities API to make testing SharePlay features in visionOS easier.|19|2024-09-01|2024-07-04|
-|21|[Kolos65/InstagramTransition](https://github.com/Kolos65/InstagramTransition)|Replicating Instagram's gesture-driven shared-element transition using UIKit.|19|2024-04-26|2023-11-09|
-|22|[bra1nDump/macos-share-screenshot](https://github.com/bra1nDump/macos-share-screenshot)|Screenshot alternative for MacOS's Shift+Cmd+4. 1 click to save to a common location / copy / icloud. 2 Clicks to share with someone|18|2024-05-25|2023-12-20|
-|23|[bernndr/swift-macros](https://github.com/bernndr/swift-macros)|Collection of useful macros|18|2024-07-09|2023-11-21|
+|21|[bernndr/swift-macros](https://github.com/bernndr/swift-macros)|Collection of useful macros|19|2024-07-09|2023-11-21|
+|22|[Kolos65/InstagramTransition](https://github.com/Kolos65/InstagramTransition)|Replicating Instagram's gesture-driven shared-element transition using UIKit.|19|2024-04-26|2023-11-09|
+|23|[bra1nDump/macos-share-screenshot](https://github.com/bra1nDump/macos-share-screenshot)|Screenshot alternative for MacOS's Shift+Cmd+4. 1 click to save to a common location / copy / icloud. 2 Clicks to share with someone|18|2024-05-25|2023-12-20|
 |24|[daniloc/MyFirstECS](https://github.com/daniloc/MyFirstECS)|A crash course and example project on RealityKit's Entity Component System for visionOS|17|2024-04-03|2024-04-01|
-|25|[NSAntoine/HideViewFromScreenCaptureDemo](https://github.com/NSAntoine/HideViewFromScreenCaptureDemo)|A demo showing how to hide UIViews from screenshots & screen-recordings while still showing the view on screen|16|2024-06-06|2024-06-06|
+|25|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|17|2024-03-15|2024-01-07|
 |26|[drewolbrich/VolumeWindowZoom](https://github.com/drewolbrich/VolumeWindowZoom)|A visionOS project that demonstrates how to scale a volume to account for Window Zoom changes|16|2024-04-03|2024-01-28|
-|27|[omarthamri/FacebookClone](https://github.com/omarthamri/FacebookClone)|A facebook clone implemented using swiftui and firebase.|16|2024-03-15|2024-01-07|
+|27|[NSAntoine/HideViewFromScreenCaptureDemo](https://github.com/NSAntoine/HideViewFromScreenCaptureDemo)|A demo showing how to hide UIViews from screenshots & screen-recordings while still showing the view on screen|15|2024-06-06|2024-06-06|
 |28|[MatthewWaller/Terrain](https://github.com/MatthewWaller/Terrain)|Example of how to use RealityKit to procedurally generate terrain.|15|2024-05-21|2024-05-21|
 |29|[schwa/ShaderGraphParameterAnimationExample](https://github.com/schwa/ShaderGraphParameterAnimationExample)|How to animate custom shaders in RealityKit for visionOS|13|2024-03-19|2024-02-22|
 |30|[ismaelcompsci/Swift-Reader](https://github.com/ismaelcompsci/Swift-Reader)|A book reader built with swiftui|13|2024-06-23|2024-02-10|
@@ -50,14 +50,15 @@
 |43|[ryanslikesocool/CheatSheetOverlay](https://github.com/ryanslikesocool/CheatSheetOverlay)|Customizable keyboard shortcut cheat sheet overlay for SwiftUI|7|2024-04-05|2023-12-19|
 |44|[grdsdev/product-sample-supabase-swift](https://github.com/grdsdev/product-sample-supabase-swift)|iOS sample built with SwiftUI including best practices of how to use Supabase.|7|2024-07-03|2023-10-31|
 |45|[LeoNatan/LNSwiftUIUtils](https://github.com/LeoNatan/LNSwiftUIUtils)|An assorted collection of SwiftUI utilities.|7|2024-08-07|2023-10-21|
-|46|[tkey/tkey-examples](https://github.com/tkey/tkey-examples)|Contains the examples of various implementations of tKey MPC SDks|7|2024-09-01|2023-09-21|
+|46|[tkey/tkey-examples](https://github.com/tkey/tkey-examples)|Contains the examples of various implementations of tKey MPC SDks|7|2024-09-04|2023-09-21|
 |47|[unixpickle/learn-swift](https://github.com/unixpickle/learn-swift)|Learning modern Swift without a Mac or iPhone|6|2024-08-30|2024-07-21|
 |48|[pwsacademy/swiftwasm-examples](https://github.com/pwsacademy/swiftwasm-examples)|Examples of Swift for WebAssembly|6|2024-05-16|2024-05-02|
-|49|[PreternaturalAI/Cookbook](https://github.com/PreternaturalAI/Cookbook)|Examples and guides for using the Preternatural SDK.|6|2024-07-02|2023-09-14|
-|50|[herlandro/UIKitPrime](https://github.com/herlandro/UIKitPrime)|UIKitPrime is a collection of native Swift enumerations, extensions and helpers to boost your productivity|5|2024-08-20|2024-08-17|
-|51|[igor11191708/sharelink-for-swiftui-example](https://github.com/igor11191708/sharelink-for-swiftui-example)|example demonstrates how to use ShareLink button for SwiftUI to share various types of data such as strings, URLs, images, data, attributed strings, and location ios14|5|2024-08-19|2024-07-03|
-|52|[Iomegan/Screenshot-Path-2](https://github.com/Iomegan/Screenshot-Path-2)|By default macOS saves screenshots to the user’s desktop. This is handy for the occasional screenshot but those looking to take dozens or hundreds of screenshots will want to use Screenshot Path to se ...|5|2024-08-26|2024-03-05|
-|53|[mapluisch/GitHub-Stats-Widget-for-iOS](https://github.com/mapluisch/GitHub-Stats-Widget-for-iOS)|Customizable iOS widget collection for tracking GitHub statistics right from the home- and lock-screen.|5|2024-05-12|2024-02-13|
+|49|[mapluisch/GitHub-Stats-Widget-for-iOS](https://github.com/mapluisch/GitHub-Stats-Widget-for-iOS)|Customizable iOS widget collection for tracking GitHub statistics right from the home- and lock-screen.|6|2024-05-12|2024-02-13|
+|50|[PreternaturalAI/Cookbook](https://github.com/PreternaturalAI/Cookbook)|Examples and guides for using the Preternatural SDK.|6|2024-07-02|2023-09-14|
+|51|[herlandro/UIKitPrime](https://github.com/herlandro/UIKitPrime)|UIKitPrime is a collection of native Swift enumerations, extensions and helpers to boost your productivity|5|2024-08-20|2024-08-17|
+|52|[igor11191708/sharelink-for-swiftui-example](https://github.com/igor11191708/sharelink-for-swiftui-example)|example demonstrates how to use ShareLink button for SwiftUI to share various types of data such as strings, URLs, images, data, attributed strings, and location ios14|5|2024-08-19|2024-07-03|
+|53|[Orange-OpenSource/ouds-ios](https://github.com/Orange-OpenSource/ouds-ios)|A SwiftUI components library with code examples for Orange Unified Design System |5|2024-08-22|2024-06-20|
+|54|[Iomegan/Screenshot-Path-2](https://github.com/Iomegan/Screenshot-Path-2)|By default macOS saves screenshots to the user’s desktop. This is handy for the occasional screenshot but those looking to take dozens or hundreds of screenshots will want to use Screenshot Path to se ...|5|2024-08-26|2024-03-05|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
