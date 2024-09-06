@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -28,10 +28,10 @@
 |21|[oemurlu/Swift-Learn-2022](https://github.com/oemurlu/Swift-Learn-2022)|These are my works about learning Swift and iOS development|4|0|2024-03-16|
 |22|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-09-04|
 |23|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|564|0|2024-08-07|
-|24|[MicrosoftDocs/powerquery-docs](https://github.com/MicrosoftDocs/powerquery-docs)|Public repository for Microsoft Power Query documentation. All content in this repository is published to learn.microsoft.com.|117|0|2024-09-02|
-|25|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|2|0|2024-06-28|
-|26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1777|0|2024-09-04|
-|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|320|0|2024-08-31|
+|24|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|2|0|2024-06-28|
+|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1779|0|2024-09-05|
+|26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|320|0|2024-08-31|
+|27|[First-Iraqi-Bank/fib-ios-sdk](https://github.com/First-Iraqi-Bank/fib-ios-sdk)|This is the FIB Payment IOS SDK repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the FIB SDK.|5|0|2024-09-05|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
 |29|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|
 |30|[masdeseiscaracteres/ugarit](https://github.com/masdeseiscaracteres/ugarit)|A collection of primitive private (now made public) archives|6|0|2024-06-25|
@@ -49,18 +49,17 @@
 |42|[cl3m/MauiFlutterBinding](https://github.com/cl3m/MauiFlutterBinding)|An example of how to integrate flutter with .NET MAUI. |4|0|2024-03-17|
 |43|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|25|0|2024-04-27|
 |44|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|160|0|2024-06-10|
-|45|[StarryThrone/OpenGL-SBible-example-code](https://github.com/StarryThrone/OpenGL-SBible-example-code)|Learning practice demo for examples in OpenGL Super Bible 6th|13|0|2024-03-06|
-|46|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
-|47|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|3|0|2024-09-04|
-|48|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-08-22|
-|49|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
-|50|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-06-02|
-|51|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-08-16|
-|52|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|0|2024-03-31|
-|53|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
-|54|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|0|2024-07-14|
-|55|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-09-01|
-|56|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-08-21|
+|45|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
+|46|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|3|0|2024-09-04|
+|47|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-08-22|
+|48|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
+|49|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-06-02|
+|50|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-08-16|
+|51|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|0|2024-03-31|
+|52|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
+|53|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|0|2024-07-14|
+|54|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-09-05|
+|55|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-08-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
