@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Shell
-<sub>Updated: 2024-09-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, ...|172227|2024-09-05|
-|2|[gothinkster/realworld](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|80220|2024-09-03|
-|3|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|78646|2024-09-05|
-|4|[base-org/node](https://github.com/base-org/node)|Everything required to run your own Base node|68121|2024-08-30|
-|5|[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)|A black hole for Internet advertisements|48378|2024-09-05|
-|6|[romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)|A Zsh theme|45396|2024-09-05|
-|7|[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)|Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.|44894|2024-09-03|
-|8|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|38394|2024-08-21|
-|9|[zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)|Fish-like autosuggestions for zsh|30869|2024-07-14|
-|10|[mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)|:wrench: .files, including ~/.macos — sensible hacker defaults for macOS|30118|2024-08-05|
-|11|[dokku/dokku](https://github.com/dokku/dokku)|A docker-powered PaaS that helps you build and manage the lifecycle of applications|28343|2024-09-05|
-|12|[powerline/fonts](https://github.com/powerline/fonts)|Patched fonts for Powerline users.|25624|2024-03-22|
-|13|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|24990|2024-09-04|
-|14|[VSCodium/vscodium](https://github.com/VSCodium/vscodium)|binary releases of VS Code without MS branding/telemetry/licensing|24772|2024-09-03|
-|15|[mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)|Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin ...|24600|2024-08-07|
-|16|[dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)|🖼️  A command-line system information tool written in bash 3.2+|21892|2024-07-19|
-|17|[gpakosz/.tmux](https://github.com/gpakosz/.tmux)|🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️|21763|2024-08-18|
-|18|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more|21539|2024-08-19|
-|19|[nikitavoloboev/config](https://github.com/nikitavoloboev/config)|Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..|20483|2024-09-04|
-|20|[lewagon/dotfiles](https://github.com/lewagon/dotfiles)|Default configuration for Le Wagon's students|20359|2024-08-29|
-|21|[zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)|Fish shell like syntax highlighting for Zsh.|19852|2024-05-10|
-|22|[spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)|:rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt|19406|2024-09-03|
-|23|[tj/n](https://github.com/tj/n)|Node version management|18748|2024-08-30|
-|24|[tj/git-extras](https://github.com/tj/git-extras)|GIT utilities -- repo summary, repl, changelog population, author commit percentages and more|17269|2024-09-04|
-|25|[deviantony/docker-elk](https://github.com/deviantony/docker-elk)|The Elastic stack (ELK) powered by Docker and Compose.|17050|2024-08-21|
-|26|[dockur/windows](https://github.com/dockur/windows)|Windows inside a Docker container.|16826|2024-09-05|
-|27|[rupa/z](https://github.com/rupa/z)|z - jump around|16283|2024-06-19|
-|28|[rbenv/rbenv](https://github.com/rbenv/rbenv)|Manage your app's Ruby environment|16024|2024-08-27|
-|29|[redox-os/redox](https://github.com/redox-os/redox)|Mirror of https://gitlab.redox-os.org/redox-os/redox|15021|2024-08-08|
-|30|[agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)|🖥 📊 🕹 🛠 A curated list of command line apps|14838|2024-08-15|
+|1|[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, ...|172252|2024-09-05|
+|2|[gothinkster/realworld](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|80223|2024-09-03|
+|3|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|78676|2024-09-06|
+|4|[base-org/node](https://github.com/base-org/node)|Everything required to run your own Base node|68123|2024-08-30|
+|5|[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)|A black hole for Internet advertisements|48394|2024-09-05|
+|6|[romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)|A Zsh theme|45406|2024-09-05|
+|7|[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)|Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.|44994|2024-09-03|
+|8|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|38401|2024-08-21|
+|9|[zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)|Fish-like autosuggestions for zsh|30878|2024-07-14|
+|10|[mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)|:wrench: .files, including ~/.macos — sensible hacker defaults for macOS|30119|2024-08-05|
+|11|[dokku/dokku](https://github.com/dokku/dokku)|A docker-powered PaaS that helps you build and manage the lifecycle of applications|28402|2024-09-06|
+|12|[powerline/fonts](https://github.com/powerline/fonts)|Patched fonts for Powerline users.|25626|2024-03-22|
+|13|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|24999|2024-09-06|
+|14|[VSCodium/vscodium](https://github.com/VSCodium/vscodium)|binary releases of VS Code without MS branding/telemetry/licensing|24781|2024-09-03|
+|15|[mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)|Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin ...|24602|2024-08-07|
+|16|[dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)|🖼️  A command-line system information tool written in bash 3.2+|21900|2024-07-19|
+|17|[gpakosz/.tmux](https://github.com/gpakosz/.tmux)|🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️|21768|2024-08-18|
+|18|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more|21544|2024-08-19|
+|19|[nikitavoloboev/config](https://github.com/nikitavoloboev/config)|Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..|20484|2024-09-06|
+|20|[lewagon/dotfiles](https://github.com/lewagon/dotfiles)|Default configuration for Le Wagon's students|20360|2024-08-29|
+|21|[zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)|Fish shell like syntax highlighting for Zsh.|19853|2024-05-10|
+|22|[spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)|:rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt|19411|2024-09-03|
+|23|[tj/n](https://github.com/tj/n)|Node version management|18752|2024-09-06|
+|24|[tj/git-extras](https://github.com/tj/git-extras)|GIT utilities -- repo summary, repl, changelog population, author commit percentages and more|17271|2024-09-04|
+|25|[deviantony/docker-elk](https://github.com/deviantony/docker-elk)|The Elastic stack (ELK) powered by Docker and Compose.|17054|2024-08-21|
+|26|[dockur/windows](https://github.com/dockur/windows)|Windows inside a Docker container.|16852|2024-09-05|
+|27|[rupa/z](https://github.com/rupa/z)|z - jump around|16284|2024-06-19|
+|28|[rbenv/rbenv](https://github.com/rbenv/rbenv)|Manage your app's Ruby environment|16025|2024-08-27|
+|29|[redox-os/redox](https://github.com/redox-os/redox)|Mirror of https://gitlab.redox-os.org/redox-os/redox|15026|2024-08-08|
+|30|[agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)|🖥 📊 🕹 🛠 A curated list of command line apps|14859|2024-08-15|
 |31|[graphql/graphql-spec](https://github.com/graphql/graphql-spec)|GraphQL is a query language and execution engine tied to any backend service.|14273|2024-08-13|
-|32|[Bash-it/bash-it](https://github.com/Bash-it/bash-it)|A community Bash framework.|14209|2024-07-04|
-|33|[docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)|Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.|14205|2024-08-26|
-|34|[kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)|kaldi-asr/kaldi is the official location of the Kaldi project.|14082|2024-08-02|
-|35|[sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)|The configuration framework for Zsh|13942|2024-06-21|
-|36|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|Xray、Tuic、hysteria2、sing-box 八合一一键脚本|13703|2024-09-03|
-|37|[foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)|Tools to set up a quick macOS VM in QEMU, accelerated by KVM.|13591|2024-04-04|
-|38|[nodesource/distributions](https://github.com/nodesource/distributions)|NodeSource Node.js Binary Distributions|13410|2024-08-15|
-|39|[sindresorhus/pure](https://github.com/sindresorhus/pure)|Pretty, minimal and fast ZSH prompt|13069|2024-08-08|
-|40|[CISOfy/lynis](https://github.com/CISOfy/lynis)|Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.|12998|2024-09-03|
-|41|[termux/termux-packages](https://github.com/termux/termux-packages)|A package build system for Termux.|12932|2024-09-05|
-|42|[tteck/Proxmox](https://github.com/tteck/Proxmox)|Proxmox VE Helper-Scripts|12785|2024-09-05|
-|43|[awslabs/git-secrets](https://github.com/awslabs/git-secrets)|Prevents you from committing secrets and credentials into git repositories|12291|2024-04-15|
-|44|[hq450/fancyss](https://github.com/hq450/fancyss)|fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.|12226|2024-09-03|
-|45|[tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)|Tmux Plugin Manager|11914|2024-08-05|
-|46|[ansible/ansible-examples](https://github.com/ansible/ansible-examples)|A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica ...|11601|2024-05-16|
-|47|[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)|Persists tmux environment across system restarts.|11120|2024-08-13|
-|48|[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)|JetBrains Mono – the free and open-source typeface for developers|10773|2024-08-19|
-|49|[codota/TabNine](https://github.com/codota/TabNine)|AI Code Completions|10542|2024-07-03|
-|50|[oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)|The Fish Shell Framework|10365|2024-03-28|
-|51|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux virtual machines|10338|2024-08-28|
-|52|[google/oss-fuzz](https://github.com/google/oss-fuzz)|OSS-Fuzz - continuous fuzzing for open source software.|10301|2024-09-05|
+|32|[docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)|Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.|14213|2024-08-26|
+|33|[Bash-it/bash-it](https://github.com/Bash-it/bash-it)|A community Bash framework.|14212|2024-07-04|
+|34|[kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)|kaldi-asr/kaldi is the official location of the Kaldi project.|14086|2024-08-02|
+|35|[sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)|The configuration framework for Zsh|13945|2024-06-21|
+|36|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|Xray、Tuic、hysteria2、sing-box 八合一一键脚本|13709|2024-09-06|
+|37|[foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)|Tools to set up a quick macOS VM in QEMU, accelerated by KVM.|13590|2024-04-04|
+|38|[nodesource/distributions](https://github.com/nodesource/distributions)|NodeSource Node.js Binary Distributions|13411|2024-08-15|
+|39|[sindresorhus/pure](https://github.com/sindresorhus/pure)|Pretty, minimal and fast ZSH prompt|13073|2024-08-08|
+|40|[CISOfy/lynis](https://github.com/CISOfy/lynis)|Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.|13005|2024-09-03|
+|41|[termux/termux-packages](https://github.com/termux/termux-packages)|A package build system for Termux.|12937|2024-09-06|
+|42|[tteck/Proxmox](https://github.com/tteck/Proxmox)|Proxmox VE Helper-Scripts|12802|2024-09-06|
+|43|[awslabs/git-secrets](https://github.com/awslabs/git-secrets)|Prevents you from committing secrets and credentials into git repositories|12294|2024-04-15|
+|44|[hq450/fancyss](https://github.com/hq450/fancyss)|fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.|12228|2024-09-03|
+|45|[tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)|Tmux Plugin Manager|11921|2024-08-05|
+|46|[ansible/ansible-examples](https://github.com/ansible/ansible-examples)|A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica ...|11602|2024-05-16|
+|47|[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)|Persists tmux environment across system restarts.|11121|2024-08-13|
+|48|[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)|JetBrains Mono – the free and open-source typeface for developers|10778|2024-08-19|
+|49|[codota/TabNine](https://github.com/codota/TabNine)|AI Code Completions|10543|2024-07-03|
+|50|[oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)|The Fish Shell Framework|10369|2024-03-28|
+|51|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux virtual machines|10345|2024-08-28|
+|52|[google/oss-fuzz](https://github.com/google/oss-fuzz)|OSS-Fuzz - continuous fuzzing for open source software.|10303|2024-09-06|
 |53|[learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)|:zap: From finding text to search and replace, from sorting to beautifying text and more :art:|10173|2024-06-05|
-|54|[moovweb/gvm](https://github.com/moovweb/gvm)|Go Version Manager|10081|2024-08-08|
+|54|[moovweb/gvm](https://github.com/moovweb/gvm)|Go Version Manager|10086|2024-08-08|
 |55|[RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup)|Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores|10020|2024-09-03|
-|56|[89luca89/distrobox](https://github.com/89luca89/distrobox)|Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at ...|9743|2024-08-20|
-|57|[rgcr/m-cli](https://github.com/rgcr/m-cli)| Swiss Army Knife for macOS |9657|2024-09-03|
-|58|[LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)|Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)|9430|2024-08-10|
-|59|[super-linter/super-linter](https://github.com/super-linter/super-linter)|Combination of multiple linters to run as a GitHub Action or standalone|9372|2024-09-05|
+|56|[89luca89/distrobox](https://github.com/89luca89/distrobox)|Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at ...|9750|2024-08-20|
+|57|[rgcr/m-cli](https://github.com/rgcr/m-cli)| Swiss Army Knife for macOS |9660|2024-09-03|
+|58|[LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)|Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)|9432|2024-08-10|
+|59|[super-linter/super-linter](https://github.com/super-linter/super-linter)|Combination of multiple linters to run as a GitHub Action or standalone|9373|2024-09-05|
 |60|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|9317|2024-03-31|
-|61|[itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)|Docker image that provides a Minecraft Server that will automatically download selected version at startup|9125|2024-09-02|
-|62|[docker/docker-bench-security](https://github.com/docker/docker-bench-security)|The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.|9045|2024-05-16|
-|63|[phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)|A minimal Ubuntu base image modified for Docker-friendliness|8915|2024-04-26|
-|64|[autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)|Autoware - the world's leading open-source software project for autonomous driving|8776|2024-09-05|
-|65|[xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)|Enable macOS HiDPI and have a native setting.|8601|2024-07-03|
-|66|[dnschneid/crouton](https://github.com/dnschneid/crouton)|Chromium OS Universal Chroot Environment|8539|2024-07-23|
-|67|[thoughtbot/laptop](https://github.com/thoughtbot/laptop)|A shell script to set up a macOS laptop for web and mobile development.|8494|2024-07-29|
-|68|[Fmstrat/winapps](https://github.com/Fmstrat/winapps)|Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.|8475|2024-08-18|
-|69|[juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)|Run sing-box/mihomo as client in shell|8390|2024-09-03|
-|70|[nicolaka/netshoot](https://github.com/nicolaka/netshoot)|a Docker + Kubernetes network trouble-shooting swiss-army container|8356|2024-07-31|
-|71|[pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)|Pi-hole in a docker container|8303|2024-09-05|
-|72|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|8040|2024-05-13|
-|73|[thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)|A set of vim, zsh, git, and tmux configuration files.|7949|2024-08-19|
-|74|[1N3/Sn1per](https://github.com/1N3/Sn1per)|Attack Surface Management Platform|7920|2024-08-04|
-|75|[SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)|Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation|7864|2024-09-05|
-|76|[drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)|Testing TLS/SSL encryption anywhere on any port |7859|2024-09-05|
-|77|[sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)|Dockerized GitLab|7859|2024-08-25|
-|78|[getsentry/self-hosted](https://github.com/getsentry/self-hosted)|Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept|7694|2024-09-03|
-|79|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|7678|2024-09-05|
-|80|[jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)|A plugin manager for Fish|7629|2024-04-07|
-|81|[kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup)|Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)|7589|2024-07-01|
-|82|[kiddin9/Kwrt](https://github.com/kiddin9/Kwrt)|一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由|7412|2024-09-05|
-|83|[nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion)|Automated ACME SSL certificate generation for nginx-proxy|7369|2024-08-27|
-|84|[BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)|-|7289|2024-09-05|
-|85|[holman/dotfiles](https://github.com/holman/dotfiles)|@holman does dotfiles|7273|2024-09-05|
+|61|[itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)|Docker image that provides a Minecraft Server that will automatically download selected version at startup|9128|2024-09-05|
+|62|[docker/docker-bench-security](https://github.com/docker/docker-bench-security)|The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.|9048|2024-05-16|
+|63|[phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)|A minimal Ubuntu base image modified for Docker-friendliness|8916|2024-04-26|
+|64|[xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)|Enable macOS HiDPI and have a native setting.|8603|2024-07-03|
+|65|[dnschneid/crouton](https://github.com/dnschneid/crouton)|Chromium OS Universal Chroot Environment|8539|2024-07-23|
+|66|[thoughtbot/laptop](https://github.com/thoughtbot/laptop)|A shell script to set up a macOS laptop for web and mobile development.|8494|2024-07-29|
+|67|[Fmstrat/winapps](https://github.com/Fmstrat/winapps)|Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.|8479|2024-08-18|
+|68|[juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)|Run sing-box/mihomo as client in shell|8403|2024-09-06|
+|69|[nicolaka/netshoot](https://github.com/nicolaka/netshoot)|a Docker + Kubernetes network trouble-shooting swiss-army container|8358|2024-07-31|
+|70|[pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)|Pi-hole in a docker container|8306|2024-09-06|
+|71|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|8041|2024-05-13|
+|72|[thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)|A set of vim, zsh, git, and tmux configuration files.|7949|2024-08-19|
+|73|[1N3/Sn1per](https://github.com/1N3/Sn1per)|Attack Surface Management Platform|7920|2024-08-04|
+|74|[SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)|Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation|7865|2024-09-06|
+|75|[drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)|Testing TLS/SSL encryption anywhere on any port |7864|2024-09-06|
+|76|[sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)|Dockerized GitLab|7860|2024-08-25|
+|77|[getsentry/self-hosted](https://github.com/getsentry/self-hosted)|Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept|7698|2024-09-03|
+|78|[pystardust/ani-cli](https://github.com/pystardust/ani-cli)|A cli tool to browse and play anime|7679|2024-09-05|
+|79|[jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)|A plugin manager for Fish|7629|2024-04-07|
+|80|[kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup)|Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)|7590|2024-07-01|
+|81|[kiddin9/Kwrt](https://github.com/kiddin9/Kwrt)|一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由|7419|2024-09-05|
+|82|[nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion)|Automated ACME SSL certificate generation for nginx-proxy|7368|2024-08-27|
+|83|[BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)|-|7294|2024-09-06|
+|84|[QwenLM/Qwen2](https://github.com/QwenLM/Qwen2)|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|7279|2024-09-04|
+|85|[holman/dotfiles](https://github.com/holman/dotfiles)|@holman does dotfiles|7272|2024-09-05|
 |86|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|7255|2024-09-03|
-|87|[QwenLM/Qwen2](https://github.com/QwenLM/Qwen2)|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|7230|2024-09-04|
-|88|[sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)|Installing Development environment on macOS|7175|2024-04-22|
-|89|[fbelavenuto/arpl](https://github.com/fbelavenuto/arpl)|Automated Redpill Loader|7151|2024-05-08|
-|90|[wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)|Dockerfile for Apache Kafka|6915|2024-05-08|
-|91|[zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions)|Additional completion definitions for Zsh.|6881|2024-09-05|
-|92|[Gazler/githug](https://github.com/Gazler/githug)|Git your game on!|6836|2024-08-11|
-|93|[getlago/lago](https://github.com/getlago/lago)|Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics|6804|2024-09-05|
-|94|[magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)|An informative and fancy bash prompt for Git users|6695|2024-07-21|
-|95|[PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)|Pixel perfect icon theme for Linux|6581|2024-08-19|
-|96|[AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)|Easy Docker setup for Stable Diffusion with user-friendly UI|6563|2024-08-18|
-|97|[andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader)|Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.|6560|2024-06-04|
-|98|[adi1090x/rofi](https://github.com/adi1090x/rofi)|A huge collection of Rofi based custom Applets, Launchers & Powermenus.|6537|2024-09-01|
-|99|[prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)|// Aesthetic, dynamic and minimal dots for Arch hyprland|6444|2024-09-05|
-|100|[docker-library/official-images](https://github.com/docker-library/official-images)|Primary source of truth for the Docker "Official Images" program|6409|2024-09-04|
-|101|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|6381|2024-09-05|
-|102|[v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)|This is a multi-use bash script for Linux systems to audit wireless networks.|6338|2024-09-05|
-|103|[arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats)|▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.|6260|2024-06-26|
-|104|[pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)|a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)|6257|2024-07-21|
-|105|[kubernetes/examples](https://github.com/kubernetes/examples)|Kubernetes application example tutorials|6154|2024-08-07|
-|106|[conda-forge/miniforge](https://github.com/conda-forge/miniforge)|A conda-forge distribution.|6102|2024-09-03|
-|107|[hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)|Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. |6027|2024-08-19|
-|108|[RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)|A standard style for README files|6020|2024-05-09|
+|87|[sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)|Installing Development environment on macOS|7175|2024-04-22|
+|88|[fbelavenuto/arpl](https://github.com/fbelavenuto/arpl)|Automated Redpill Loader|7153|2024-05-08|
+|89|[wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)|Dockerfile for Apache Kafka|6916|2024-05-08|
+|90|[zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions)|Additional completion definitions for Zsh.|6883|2024-09-05|
+|91|[Gazler/githug](https://github.com/Gazler/githug)|Git your game on!|6837|2024-08-11|
+|92|[getlago/lago](https://github.com/getlago/lago)|Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics|6811|2024-09-06|
+|93|[magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)|An informative and fancy bash prompt for Git users|6695|2024-07-21|
+|94|[PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)|Pixel perfect icon theme for Linux|6580|2024-08-19|
+|95|[AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)|Easy Docker setup for Stable Diffusion with user-friendly UI|6565|2024-08-18|
+|96|[andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader)|Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.|6560|2024-06-04|
+|97|[adi1090x/rofi](https://github.com/adi1090x/rofi)|A huge collection of Rofi based custom Applets, Launchers & Powermenus.|6541|2024-09-01|
+|98|[prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)|// Aesthetic, dynamic and minimal dots for Arch hyprland|6463|2024-09-06|
+|99|[docker-library/official-images](https://github.com/docker-library/official-images)|Primary source of truth for the Docker "Official Images" program|6412|2024-09-06|
+|100|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|6386|2024-09-06|
+|101|[v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)|This is a multi-use bash script for Linux systems to audit wireless networks.|6342|2024-09-05|
+|102|[arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats)|▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.|6260|2024-06-26|
+|103|[pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)|a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)|6258|2024-07-21|
+|104|[kubernetes/examples](https://github.com/kubernetes/examples)|Kubernetes application example tutorials|6154|2024-08-07|
+|105|[conda-forge/miniforge](https://github.com/conda-forge/miniforge)|A conda-forge distribution.|6110|2024-09-03|
+|106|[hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)|Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. |6032|2024-08-19|
+|107|[RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)|A standard style for README files|6021|2024-05-09|
+|108|[longhorn/longhorn](https://github.com/longhorn/longhorn)|Cloud-Native distributed storage built on and for Kubernetes|5958|2024-09-06|
 |109|[dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated)|letsencrypt/acme client implemented as a shell-script – just add water|5957|2024-08-12|
-|110|[longhorn/longhorn](https://github.com/longhorn/longhorn)|Cloud-Native distributed storage built on and for Kubernetes|5955|2024-09-05|
-|111|[raycast/script-commands](https://github.com/raycast/script-commands)|Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.|5939|2024-09-03|
-|112|[nextcloud/docker](https://github.com/nextcloud/docker)|⛴ Docker image of Nextcloud|5913|2024-09-04|
-|113|[geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)|Mac setup and configuration via Ansible.|5911|2024-07-17|
-|114|[zplug/zplug](https://github.com/zplug/zplug)|:hibiscus: A next-generation plugin manager for zsh|5778|2024-06-12|
-|115|[ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)|A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|5766|2024-09-03|
-|116|[jenv/jenv](https://github.com/jenv/jenv)|Manage your Java environment |5725|2024-06-11|
-|117|[hyperupcall/autoenv](https://github.com/hyperupcall/autoenv)|Directory-based environments.|5662|2024-06-30|
-|118|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|5584|2024-04-04|
-|119|[six2dez/reconftw](https://github.com/six2dez/reconftw)|reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities|5566|2024-09-05|
-|120|[todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli)|☑️ A simple and extensible shell script for managing your todo.txt file.|5546|2024-06-03|
-|121|[iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits)|Padrões de commits|5330|2024-09-05|
-|122|[marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)|🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.|5186|2024-09-04|
-|123|[binpash/try](https://github.com/binpash/try)|Inspect a command's effects before modifying your live system|5180|2024-09-04|
-|124|[rvm/rvm](https://github.com/rvm/rvm)|Ruby enVironment Manager (RVM)|5100|2024-09-03|
-|125|[docker-library/docs](https://github.com/docker-library/docs)|Documentation for Docker Official Images in docker-library|5050|2024-09-04|
-|126|[teddysun/across](https://github.com/teddysun/across)|Across the Great Wall we can reach every corner in the world|4966|2024-07-07|
-|127|[linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)|Linux Kernel for Surface Devices|4939|2024-08-17|
-|128|[bats-core/bats-core](https://github.com/bats-core/bats-core)|Bash Automated Testing System|4855|2024-09-04|
-|129|[GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)|Install and run your own AI agent service|4833|2024-09-02|
-|130|[MichaIng/DietPi](https://github.com/MichaIng/DietPi)|Lightweight justice for your single-board computer!|4777|2024-09-04|
-|131|[ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)|ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc ...|4718|2024-09-04|
-|132|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|install latest or LTS linux kernel and enable BBR or BBR plus|4702|2024-08-15|
-|133|[tianon/gosu](https://github.com/tianon/gosu)|Simple Go-based setuid+setgid+setgroups+exec|4677|2024-07-20|
-|134|[appleboy/ssh-action](https://github.com/appleboy/ssh-action)|GitHub Actions for executing remote ssh commands.|4611|2024-07-26|
-|135|[npryce/adr-tools](https://github.com/npryce/adr-tools)|Command-line tools for working with Architecture Decision Records|4549|2024-04-25|
-|136|[Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV)|An open source Vagrant configuration for developing with WordPress|4537|2024-08-28|
-|137|[tfutils/tfenv](https://github.com/tfutils/tfenv)|Terraform version manager|4482|2024-07-11|
-|138|[liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt)|A full-featured & carefully designed adaptive prompt for Bash & Zsh|4478|2024-08-03|
-|139|[ROCm/ROCm](https://github.com/ROCm/ROCm)|AMD ROCm™ Software - GitHub Home|4466|2024-09-05|
-|140|[rauchg/wifi-password](https://github.com/rauchg/wifi-password)|Get the password of the wifi you're on (bash)|4423|2024-06-13|
-|141|[wfxr/forgit](https://github.com/wfxr/forgit)|:zzz: A utility tool powered by fzf for using git interactively.|4381|2024-09-04|
-|142|[basecamp/omakub](https://github.com/basecamp/omakub)|Opinionated Ubuntu Setup|4260|2024-09-05|
-|143|[LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)|My dotfiles (deployed by LARBS)|4259|2024-08-10|
-|144|[walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)|Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - pl ...|4255|2024-06-05|
-|145|[GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM)|The command-line tool for quick, simple deployment and management of Linux dedicated game servers.|4227|2024-09-01|
-|146|[ivanhao/pvetools](https://github.com/ivanhao/pvetools)|proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.|4212|2024-07-31|
-|147|[jpetazzo/pipework](https://github.com/jpetazzo/pipework)|Software-Defined Networking tools for LXC (LinuX Containers)|4212|2024-04-05|
-|148|[paulirish/dotfiles](https://github.com/paulirish/dotfiles)|paul's fish, bash, git, etc config files. good stuff. |4181|2024-08-05|
-|149|[mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer)|Easily install PHP extensions in Docker containers|4173|2024-09-03|
-|150|[Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux)|Photoshop CC v19  installer for Gnu/Linux|4170|2024-07-08|
-|151|[masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)|YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench|4134|2024-07-27|
-|152|[remote-android/redroid-doc](https://github.com/remote-android/redroid-doc)|redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here|4076|2024-09-05|
-|153|[datacharmer/test_db](https://github.com/datacharmer/test_db)|A sample MySQL database with an integrated test suite, used to test your applications and database servers|4016|2024-08-06|
-|154|[hackerb9/lsix](https://github.com/hackerb9/lsix)|Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.|4007|2024-06-20|
+|110|[raycast/script-commands](https://github.com/raycast/script-commands)|Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.|5942|2024-09-03|
+|111|[nextcloud/docker](https://github.com/nextcloud/docker)|⛴ Docker image of Nextcloud|5914|2024-09-04|
+|112|[geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)|Mac setup and configuration via Ansible.|5911|2024-07-17|
+|113|[zplug/zplug](https://github.com/zplug/zplug)|:hibiscus: A next-generation plugin manager for zsh|5778|2024-06-12|
+|114|[ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)|A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|5768|2024-09-03|
+|115|[jenv/jenv](https://github.com/jenv/jenv)|Manage your Java environment |5726|2024-06-11|
+|116|[hyperupcall/autoenv](https://github.com/hyperupcall/autoenv)|Directory-based environments.|5662|2024-06-30|
+|117|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|5586|2024-04-04|
+|118|[six2dez/reconftw](https://github.com/six2dez/reconftw)|reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities|5569|2024-09-06|
+|119|[todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli)|☑️ A simple and extensible shell script for managing your todo.txt file.|5547|2024-06-03|
+|120|[iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits)|Padrões de commits|5334|2024-09-05|
+|121|[marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)|🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.|5190|2024-09-04|
+|122|[binpash/try](https://github.com/binpash/try)|Inspect a command's effects before modifying your live system|5180|2024-09-06|
+|123|[rvm/rvm](https://github.com/rvm/rvm)|Ruby enVironment Manager (RVM)|5100|2024-09-06|
+|124|[docker-library/docs](https://github.com/docker-library/docs)|Documentation for Docker Official Images in docker-library|5053|2024-09-06|
+|125|[teddysun/across](https://github.com/teddysun/across)|Across the Great Wall we can reach every corner in the world|4968|2024-07-07|
+|126|[linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)|Linux Kernel for Surface Devices|4942|2024-08-17|
+|127|[bats-core/bats-core](https://github.com/bats-core/bats-core)|Bash Automated Testing System|4854|2024-09-04|
+|128|[GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)|Install and run your own AI agent service|4833|2024-09-02|
+|129|[MichaIng/DietPi](https://github.com/MichaIng/DietPi)|Lightweight justice for your single-board computer!|4779|2024-09-05|
+|130|[ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)|ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc ...|4721|2024-09-04|
+|131|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|install latest or LTS linux kernel and enable BBR or BBR plus|4704|2024-08-15|
+|132|[tianon/gosu](https://github.com/tianon/gosu)|Simple Go-based setuid+setgid+setgroups+exec|4679|2024-07-20|
+|133|[appleboy/ssh-action](https://github.com/appleboy/ssh-action)|GitHub Actions for executing remote ssh commands.|4619|2024-07-26|
+|134|[npryce/adr-tools](https://github.com/npryce/adr-tools)|Command-line tools for working with Architecture Decision Records|4551|2024-04-25|
+|135|[Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV)|An open source Vagrant configuration for developing with WordPress|4537|2024-08-28|
+|136|[tfutils/tfenv](https://github.com/tfutils/tfenv)|Terraform version manager|4484|2024-07-11|
+|137|[liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt)|A full-featured & carefully designed adaptive prompt for Bash & Zsh|4478|2024-08-03|
+|138|[ROCm/ROCm](https://github.com/ROCm/ROCm)|AMD ROCm™ Software - GitHub Home|4467|2024-09-06|
+|139|[rauchg/wifi-password](https://github.com/rauchg/wifi-password)|Get the password of the wifi you're on (bash)|4424|2024-06-13|
+|140|[wfxr/forgit](https://github.com/wfxr/forgit)|:zzz: A utility tool powered by fzf for using git interactively.|4383|2024-09-04|
+|141|[basecamp/omakub](https://github.com/basecamp/omakub)|Opinionated Ubuntu Setup|4274|2024-09-06|
+|142|[LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)|My dotfiles (deployed by LARBS)|4260|2024-08-10|
+|143|[walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)|Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - pl ...|4257|2024-06-05|
+|144|[GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM)|The command-line tool for quick, simple deployment and management of Linux dedicated game servers.|4228|2024-09-01|
+|145|[ivanhao/pvetools](https://github.com/ivanhao/pvetools)|proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.|4217|2024-07-31|
+|146|[jpetazzo/pipework](https://github.com/jpetazzo/pipework)|Software-Defined Networking tools for LXC (LinuX Containers)|4212|2024-04-05|
+|147|[paulirish/dotfiles](https://github.com/paulirish/dotfiles)|paul's fish, bash, git, etc config files. good stuff. |4181|2024-08-05|
+|148|[mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer)|Easily install PHP extensions in Docker containers|4176|2024-09-06|
+|149|[Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux)|Photoshop CC v19  installer for Gnu/Linux|4171|2024-07-08|
+|150|[masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)|YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench|4138|2024-07-27|
+|151|[remote-android/redroid-doc](https://github.com/remote-android/redroid-doc)|redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here|4080|2024-09-05|
+|152|[datacharmer/test_db](https://github.com/datacharmer/test_db)|A sample MySQL database with an integrated test suite, used to test your applications and database servers|4018|2024-08-06|
+|153|[hackerb9/lsix](https://github.com/hackerb9/lsix)|Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.|4008|2024-06-20|
+|154|[OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa)|easy-rsa - Simple shell based CA utility|3998|2024-09-05|
 |155|[lambci/lambci](https://github.com/lambci/lambci)|A continuous integration system built on AWS Lambda|3997|2024-04-23|
-|156|[OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa)|easy-rsa - Simple shell based CA utility|3997|2024-09-05|
-|157|[pry0cc/axiom](https://github.com/pry0cc/axiom)|The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!|3975|2024-08-06|
-|158|[armbian/build](https://github.com/armbian/build)|Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf|3973|2024-09-04|
-|159|[pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)|This tool is used to install `pyenv` and friends.|3956|2024-04-21|
-|160|[kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)|Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby|3953|2024-08-27|
-|161|[lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)|A bash script to check the status of your IP on various geo-restricted services. |3951|2024-08-11|
-|162|[basho/riak](https://github.com/basho/riak)|Riak is a decentralized datastore from Basho Technologies.|3935|2024-05-01|
-|163|[j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)|Extensive ReVanced builder. Builds both modules and APKs. Updated daily.|3924|2024-09-01|
-|164|[Nyr/wireguard-install](https://github.com/Nyr/wireguard-install)|WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora|3920|2024-06-16|
-|165|[mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)|Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for  ...|3919|2024-09-05|
-|166|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|3915|2024-08-27|
-|167|[rbenv/ruby-build](https://github.com/rbenv/ruby-build)|A tool to download, compile, and install Ruby on Unix-like systems.|3886|2024-09-04|
-|168|[laravel/homestead](https://github.com/laravel/homestead)|-|3854|2024-08-16|
-|169|[guysoft/FullPageOS](https://github.com/guysoft/FullPageOS)|A raspberrypi distro to display a full page browser on boot|3850|2024-05-27|
-|170|[sdushantha/tmpmail](https://github.com/sdushantha/tmpmail)|A temporary email right from your terminal written in POSIX sh|3847|2024-08-17|
-|171|[speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)|Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD|3842|2024-08-04|
-|172|[KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)|Fetches system/theme information in terminal for Linux desktop screenshots.|3836|2024-07-21|
-|173|[badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)|-|3805|2024-06-30|
-|174|[docker-library/php](https://github.com/docker-library/php)|Docker Official Image packaging for PHP|3803|2024-08-30|
+|156|[pry0cc/axiom](https://github.com/pry0cc/axiom)|The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!|3978|2024-08-06|
+|157|[armbian/build](https://github.com/armbian/build)|Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf|3974|2024-09-06|
+|158|[pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)|This tool is used to install `pyenv` and friends.|3958|2024-04-21|
+|159|[kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)|Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby|3954|2024-08-27|
+|160|[lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)|A bash script to check the status of your IP on various geo-restricted services. |3953|2024-08-11|
+|161|[basho/riak](https://github.com/basho/riak)|Riak is a decentralized datastore from Basho Technologies.|3936|2024-05-01|
+|162|[j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)|Extensive ReVanced builder. Builds both modules and APKs. Updated daily.|3930|2024-09-01|
+|163|[Nyr/wireguard-install](https://github.com/Nyr/wireguard-install)|WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora|3924|2024-06-16|
+|164|[mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)|Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for  ...|3921|2024-09-06|
+|165|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|3916|2024-08-27|
+|166|[rbenv/ruby-build](https://github.com/rbenv/ruby-build)|A tool to download, compile, and install Ruby on Unix-like systems.|3887|2024-09-04|
+|167|[laravel/homestead](https://github.com/laravel/homestead)|-|3854|2024-08-16|
+|168|[guysoft/FullPageOS](https://github.com/guysoft/FullPageOS)|A raspberrypi distro to display a full page browser on boot|3851|2024-05-27|
+|169|[sdushantha/tmpmail](https://github.com/sdushantha/tmpmail)|A temporary email right from your terminal written in POSIX sh|3848|2024-08-17|
+|170|[speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)|Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD|3845|2024-08-04|
+|171|[KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)|Fetches system/theme information in terminal for Linux desktop screenshots.|3838|2024-07-21|
+|172|[badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)|-|3806|2024-06-30|
+|173|[docker-library/php](https://github.com/docker-library/php)|Docker Official Image packaging for PHP|3803|2024-08-30|
+|174|[RROrg/rr](https://github.com/RROrg/rr)|Redpill Recovery (arpl-i18n)|3766|2024-09-06|
 |175|[trimstray/htrace.sh](https://github.com/trimstray/htrace.sh)|My simple Swiss Army knife for http/https troubleshooting and profiling.|3747|2024-06-27|
-|176|[RROrg/rr](https://github.com/RROrg/rr)|Redpill Recovery (arpl-i18n)|3746|2024-08-29|
-|177|[pystardust/ytfzf](https://github.com/pystardust/ytfzf)|A posix script to find and watch youtube videos from the terminal. (Without API)|3723|2024-03-14|
-|178|[sobolevn/git-secret](https://github.com/sobolevn/git-secret)|:busts_in_silhouette: A bash-tool to store your private data inside a git repository.|3706|2024-09-03|
-|179|[just-containers/s6-overlay](https://github.com/just-containers/s6-overlay)|s6 overlay for containers (includes execline, s6-linux-utils & a custom init)|3686|2024-06-07|
-|180|[ublue-os/bazzite](https://github.com/ublue-os/bazzite)|Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.|3588|2024-09-05|
-|181|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|3572|2024-05-13|
-|182|[github/mona-sans](https://github.com/github/mona-sans)|Mona Sans, a variable font from GitHub|3543|2024-06-19|
-|183|[jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1)|Kubernetes prompt info for bash and zsh|3499|2024-08-13|
-|184|[Drewsif/PiShrink](https://github.com/Drewsif/PiShrink)|Make your pi images smaller!|3428|2024-05-27|
-|185|[vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes)|Modern Design theme for Grub2|3412|2024-08-19|
-|186|[erikw/tmux-powerline](https://github.com/erikw/tmux-powerline)|⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.|3381|2024-07-18|
-|187|[ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases)|Programmatically generated handy kubectl aliases.|3350|2024-06-18|
-|188|[ax/apk.sh](https://github.com/ax/apk.sh)|apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.|3299|2024-07-30|
-|189|[paulirish/git-open](https://github.com/paulirish/git-open)|Type `git open` to open the GitHub page or website for a repository in your browser.|3299|2024-08-06|
-|190|[8483/notes](https://github.com/8483/notes)|Full-stack web development notes|3283|2024-08-28|
-|191|[hestiacp/hestiacp](https://github.com/hestiacp/hestiacp)|Hestia Control Panel   A lightweight and powerful control panel for the modern web.|3280|2024-09-05|
-|192|[jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized)|Solarized Colorscheme for IntelliJ IDEA|3256|2024-05-21|
-|193|[jessfraz/dotfiles](https://github.com/jessfraz/dotfiles)|My dotfiles. Buyer beware ;)|3229|2024-07-23|
-|194|[bitnami/containers](https://github.com/bitnami/containers)|Bitnami container images|3228|2024-09-05|
-|195|[spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)|VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)|3224|2024-08-29|
-|196|[conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)|docker compose files to create a fully working kafka stack|3220|2024-08-19|
-|197|[ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)|Easy TOC creation for GitHub README.md|3216|2024-08-04|
-|198|[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)|Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.|3213|2024-08-02|
-|199|[ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo)|-|3212|2024-08-18|
-|200|[Vonng/pigsty](https://github.com/Vonng/pigsty)|Battery-Included PostgreSQL Distro as a Free RDS Alternative|3211|2024-08-21|
+|176|[pystardust/ytfzf](https://github.com/pystardust/ytfzf)|A posix script to find and watch youtube videos from the terminal. (Without API)|3726|2024-03-14|
+|177|[sobolevn/git-secret](https://github.com/sobolevn/git-secret)|:busts_in_silhouette: A bash-tool to store your private data inside a git repository.|3706|2024-09-03|
+|178|[just-containers/s6-overlay](https://github.com/just-containers/s6-overlay)|s6 overlay for containers (includes execline, s6-linux-utils & a custom init)|3689|2024-06-07|
+|179|[ublue-os/bazzite](https://github.com/ublue-os/bazzite)|Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.|3594|2024-09-06|
+|180|[WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript)|Scripts to install Google Apps into a WSA image. Plus optional root|3572|2024-05-13|
+|181|[github/mona-sans](https://github.com/github/mona-sans)|Mona Sans, a variable font from GitHub|3543|2024-06-19|
+|182|[jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1)|Kubernetes prompt info for bash and zsh|3498|2024-08-13|
+|183|[Drewsif/PiShrink](https://github.com/Drewsif/PiShrink)|Make your pi images smaller!|3428|2024-05-27|
+|184|[vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes)|Modern Design theme for Grub2|3411|2024-08-19|
+|185|[erikw/tmux-powerline](https://github.com/erikw/tmux-powerline)|⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.|3382|2024-07-18|
+|186|[ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases)|Programmatically generated handy kubectl aliases.|3352|2024-06-18|
+|187|[ax/apk.sh](https://github.com/ax/apk.sh)|apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.|3300|2024-07-30|
+|188|[paulirish/git-open](https://github.com/paulirish/git-open)|Type `git open` to open the GitHub page or website for a repository in your browser.|3300|2024-08-06|
+|189|[8483/notes](https://github.com/8483/notes)|Full-stack web development notes|3283|2024-08-28|
+|190|[hestiacp/hestiacp](https://github.com/hestiacp/hestiacp)|Hestia Control Panel   A lightweight and powerful control panel for the modern web.|3282|2024-09-05|
+|191|[jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized)|Solarized Colorscheme for IntelliJ IDEA|3256|2024-05-21|
+|192|[bitnami/containers](https://github.com/bitnami/containers)|Bitnami container images|3235|2024-09-06|
+|193|[spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)|VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)|3231|2024-08-29|
+|194|[jessfraz/dotfiles](https://github.com/jessfraz/dotfiles)|My dotfiles. Buyer beware ;)|3229|2024-07-23|
+|195|[conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)|docker compose files to create a fully working kafka stack|3220|2024-08-19|
+|196|[ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)|Easy TOC creation for GitHub README.md|3216|2024-08-04|
+|197|[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)|Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.|3214|2024-08-02|
+|198|[ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo)|-|3214|2024-08-18|
+|199|[Vonng/pigsty](https://github.com/Vonng/pigsty)|Battery-Included PostgreSQL Distro as a Free RDS Alternative|3211|2024-08-21|
+|200|[nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)|Official NGINX Dockerfiles|3206|2024-09-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
