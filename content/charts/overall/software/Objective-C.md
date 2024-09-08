@@ -1,73 +1,73 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Objective-C
-<sub>Updated: 2024-09-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)|Asynchronous image downloader with cache support as a UIImageView category|25027|2024-08-23|
-|2|[opa334/TrollStore](https://github.com/opa334/TrollStore)|Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple|17718|2024-09-02|
-|3|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|16245|2024-09-06|
-|4|[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)|MBProgressHUD + Customizations|15999|2024-08-14|
-|5|[gnachman/iTerm2](https://github.com/gnachman/iTerm2)|iTerm2 is a terminal emulator for Mac OS X that does amazing things.|15098|2024-09-06|
-|6|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|15028|2024-08-31|
-|7|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|14282|2024-08-01|
-|8|[TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)|微信小助手|14056|2024-06-09|
-|9|[FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)|An in-app debugging and exploration tool for iOS|14007|2024-08-25|
+|1|[SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)|Asynchronous image downloader with cache support as a UIImageView category|25029|2024-08-23|
+|2|[opa334/TrollStore](https://github.com/opa334/TrollStore)|Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple|17728|2024-09-02|
+|3|[realm/realm-swift](https://github.com/realm/realm-swift)|Realm is a mobile database: a replacement for Core Data & SQLite|16247|2024-09-06|
+|4|[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)|MBProgressHUD + Customizations|16000|2024-08-14|
+|5|[gnachman/iTerm2](https://github.com/gnachman/iTerm2)|iTerm2 is a terminal emulator for Mac OS X that does amazing things.|15102|2024-09-07|
+|6|[react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)|React Native Mapview component for iOS + Android|15029|2024-08-31|
+|7|[marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews|14283|2024-08-01|
+|8|[TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)|微信小助手|14055|2024-06-09|
+|9|[FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)|An in-app debugging and exploration tool for iOS|14012|2024-08-25|
 |10|[ccgus/fmdb](https://github.com/ccgus/fmdb)|A Cocoa / Objective-C wrapper around SQLite|13840|2024-07-02|
 |11|[CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)|An easy way to use pull-to-refresh.|13793|2024-03-26|
 |12|[CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS|13174|2024-08-12|
-|13|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12843|2024-08-27|
-|14|[keycastr/keycastr](https://github.com/keycastr/keycastr)|KeyCastr, an open-source keystroke visualizer|12445|2024-08-29|
-|15|[SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|A clean and lightweight progress HUD for your iOS and tvOS app.|12429|2024-08-08|
+|13|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12844|2024-08-27|
+|14|[keycastr/keycastr](https://github.com/keycastr/keycastr)|KeyCastr, an open-source keystroke visualizer|12448|2024-08-29|
+|15|[SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|A clean and lightweight progress HUD for your iOS and tvOS app.|12430|2024-08-08|
 |16|[nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)|A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS|11999|2024-06-27|
-|17|[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)|Staggeringly powerful macOS desktop automation with Lua|11858|2024-08-18|
-|18|[git-up/GitUp](https://github.com/git-up/GitUp)|The Git interface you've been missing all your life has finally arrived.|11478|2024-08-07|
-|19|[darlinghq/darling](https://github.com/darlinghq/darling)|Darwin/macOS emulation layer for Linux|11343|2024-09-01|
-|20|[WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)|A fully customizable iOS calendar library, compatible with Objective-C and Swift|10592|2024-08-10|
+|17|[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)|Staggeringly powerful macOS desktop automation with Lua|11859|2024-08-18|
+|18|[git-up/GitUp](https://github.com/git-up/GitUp)|The Git interface you've been missing all your life has finally arrived.|11479|2024-08-07|
+|19|[darlinghq/darling](https://github.com/darlinghq/darling)|Darwin/macOS emulation layer for Linux|11344|2024-09-01|
+|20|[WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)|A fully customizable iOS calendar library, compatible with Objective-C and Swift|10593|2024-08-10|
 |21|[objective-see/LuLu](https://github.com/objective-see/LuLu)|LuLu is the free macOS firewall|9656|2024-08-31|
 |22|[facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)|A conforming Objective-C WebSocket client library.|9533|2024-08-31|
 |23|[ibireme/YYText](https://github.com/ibireme/YYText)|Powerful text framework for iOS to display and edit rich text.|8844|2024-07-16|
 |24|[mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|A simple iOS photo and video browser with grid view, captions and selections.|8751|2024-06-27|
-|25|[TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)|A drop-in replacement for UILabel that supports attributes, data detectors, links, and more|8749|2024-06-24|
+|25|[TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)|A drop-in replacement for UILabel that supports attributes, data detectors, links, and more|8750|2024-06-24|
 |26|[CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension)|A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.|8513|2024-03-13|
-|27|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|8235|2024-04-26|
+|27|[sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)|Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.|8236|2024-04-26|
 |28|[Flipboard/FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)|Performant animated GIF engine for iOS|7923|2024-03-21|
-|29|[sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle)|A software update framework for macOS|7357|2024-09-03|
+|29|[sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle)|A software update framework for macOS|7358|2024-09-03|
 |30|[MatthewYork/DateTools](https://github.com/MatthewYork/DateTools)|Dates and times made easy in iOS|7223|2024-08-21|
 |31|[tonymillion/Reachability](https://github.com/tonymillion/Reachability)|ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability|6976|2024-04-12|
-|32|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t ...|6843|2024-09-05|
+|32|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t ...|6849|2024-09-07|
 |33|[samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur)|NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.|6827|2024-08-30|
-|34|[MacPass/MacPass](https://github.com/MacPass/MacPass)|A native macOS KeePass client |6739|2024-06-28|
+|34|[MacPass/MacPass](https://github.com/MacPass/MacPass)|A native macOS KeePass client |6740|2024-06-28|
 |35|[Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)|MySQL/MariaDB database management for macOS|6622|2024-09-03|
 |36|[jverkoey/nimbus](https://github.com/jverkoey/nimbus)|The iOS framework that grows only as fast as its documentation|6450|2024-04-25|
 |37|[IFTTT/JazzHands](https://github.com/IFTTT/JazzHands)|A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.|6401|2024-07-30|
-|38|[Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText)|Methods to allow using HTML code with CoreText|6343|2024-08-16|
+|38|[Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText)|Methods to allow using HTML code with CoreText|6344|2024-08-16|
 |39|[kif-framework/KIF](https://github.com/kif-framework/KIF)|Keep It Functional - An iOS Functional Testing Framework|6206|2024-08-20|
-|40|[ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping|6081|2024-08-17|
-|41|[robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)|An XMPP Framework in Objective-C for Mac and iOS|5910|2024-04-22|
-|42|[tonsky/AnyBar](https://github.com/tonsky/AnyBar)|OS X menubar status indicator|5908|2024-03-19|
+|40|[ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping|6082|2024-08-17|
+|41|[robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)|An XMPP Framework in Objective-C for Mac and iOS|5912|2024-04-22|
+|42|[tonsky/AnyBar](https://github.com/tonsky/AnyBar)|OS X menubar status indicator|5909|2024-03-19|
 |43|[xmartlabs/XLForm](https://github.com/xmartlabs/XLForm)|XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. |5773|2024-06-03|
 |44|[google/EarlGrey](https://github.com/google/EarlGrey)|:tea: iOS UI Automation Test Framework|5610|2024-09-03|
 |45|[ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit)|ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.|5599|2024-08-08|
-|46|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|Prevents your Mac from going to sleep.|5575|2024-08-09|
+|46|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|Prevents your Mac from going to sleep.|5576|2024-08-09|
 |47|[NJHu/iOSProject](https://github.com/NJHu/iOSProject)|iOS project comprising a collection of demos for iOS Apps, developed in Objective-C;iOSProject iOSdemo iOSdemos ocdemo ocdemos|5436|2024-09-05|
-|48|[HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)|A fast and clever hex editor for macOS|5301|2024-07-19|
-|49|[noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)|Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!|5286|2024-09-06|
+|48|[HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)|A fast and clever hex editor for macOS|5302|2024-07-19|
+|49|[noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)|Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!|5292|2024-09-07|
 |50|[AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)|Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!|5033|2024-05-09|
 |51|[material-components/material-components-ios](https://github.com/material-components/material-components-ios)|[In maintenance mode] Modular and customizable Material Design UI components for iOS|4724|2024-08-15|
 |52|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4712|2024-08-28|
 |53|[TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController)|A view controller for iOS that allows users to crop portions of UIImage objects|4691|2024-07-23|
-|54|[Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|4689|2024-08-16|
+|54|[Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|4690|2024-08-16|
 |55|[felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)|ˈyːbɐˌzɪçt|4543|2024-04-10|
-|56|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|4492|2024-08-27|
+|56|[facebook/idb](https://github.com/facebook/idb)|idb is a flexible command line interface for automating iOS simulators and devices|4495|2024-08-27|
 |57|[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)|Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)|4449|2024-08-12|
 |58|[youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4400|2024-04-16|
-|59|[kasper/phoenix](https://github.com/kasper/phoenix)|A lightweight macOS window and app manager scriptable with JavaScript|4358|2024-06-12|
-|60|[kstenerud/KSCrash](https://github.com/kstenerud/KSCrash)|The Ultimate iOS Crash Reporter|4226|2024-09-06|
+|59|[kasper/phoenix](https://github.com/kasper/phoenix)|A lightweight macOS window and app manager scriptable with JavaScript|4360|2024-06-12|
+|60|[kstenerud/KSCrash](https://github.com/kstenerud/KSCrash)|The Ultimate iOS Crash Reporter|4226|2024-09-07|
 |61|[cruffenach/CRToast](https://github.com/cruffenach/CRToast)|A modern iOS toast view that can fit your notification needs|4165|2024-05-02|
 |62|[alibaba/coobjc](https://github.com/alibaba/coobjc)|coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun ...|4021|2024-06-19|
-|63|[pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage)|A thread safe, performant, feature rich image fetcher|4007|2024-08-30|
+|63|[pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage)|A thread safe, performant, feature rich image fetcher|4007|2024-09-06|
 |64|[HeshamMegid/HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)|A highly customizable drop-in replacement for UISegmentedControl.|4006|2024-03-26|
 |65|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|3996|2024-08-23|
 |66|[casatwy/CTMediator](https://github.com/casatwy/CTMediator)|The mediator with no regist process to split your iOS Project into multiple project.|3987|2024-04-18|
@@ -79,30 +79,30 @@
 |72|[dogo/SCLAlertView](https://github.com/dogo/SCLAlertView)|Beautiful animated Alert View. Written in Objective-C|3503|2024-08-22|
 |73|[button/DeepLinkKit](https://github.com/button/DeepLinkKit)|A splendid route-matching, block-based way to handle your deep links.|3445|2024-05-30|
 |74|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen loading framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|3373|2024-03-21|
-|75|[sfsam/Itsycal](https://github.com/sfsam/Itsycal)|Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal|3300|2024-07-03|
+|75|[sfsam/Itsycal](https://github.com/sfsam/Itsycal)|Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal|3301|2024-07-03|
 |76|[MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill)|Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine|3190|2024-08-12|
 |77|[futuretap/InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit)|This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.|3182|2024-07-01|
 |78|[ChatSecure/ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)|ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.|3130|2024-08-01|
 |79|[victorBaro/VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton)|Flat button with 9 different states using POP|3088|2024-07-15|
 |80|[zxingify/zxingify-objc](https://github.com/zxingify/zxingify-objc)|An Objective-C Port of ZXing|3064|2024-07-13|
 |81|[LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)|A framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.|3030|2024-09-03|
-|82|[yujitach/MenuMeters](https://github.com/yujitach/MenuMeters)|my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/|3013|2024-05-20|
+|82|[yujitach/MenuMeters](https://github.com/yujitach/MenuMeters)|my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/|3014|2024-05-20|
 |83|[0xced/XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit)|YouTube video player for iOS, tvOS and macOS|2923|2024-04-08|
 |84|[Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)|The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick|2907|2024-09-04|
 |85|[microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter)|Reliable, open-source crash reporting for iOS, macOS and tvOS|2866|2024-09-03|
 |86|[kolyvan/kxmovie](https://github.com/kolyvan/kxmovie)|movie player for iOS using ffmpeg|2842|2024-07-11|
 |87|[parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX)|The Apple SDK for Parse Platform (iOS, macOS, watchOS, tvOS)|2809|2024-08-24|
 |88|[sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus)|Create native Mac applications from command line scripts.|2792|2024-04-27|
-|89|[core-plot/core-plot](https://github.com/core-plot/core-plot)|Core Plot source code and example applications|2774|2024-05-17|
+|89|[core-plot/core-plot](https://github.com/core-plot/core-plot)|Core Plot source code and example applications|2775|2024-05-17|
 |90|[tidev/titanium-sdk](https://github.com/tidev/titanium-sdk)|🚀 Native iOS and Android Apps with JavaScript|2747|2024-09-05|
-|91|[quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver)|Quicksilver Project Source|2724|2024-06-07|
-|92|[syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)|Official frugal and native macOS Syncthing application bundle|2665|2024-09-03|
-|93|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2660|2024-08-30|
+|91|[quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver)|Quicksilver Project Source|2726|2024-06-07|
+|92|[syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)|Official frugal and native macOS Syncthing application bundle|2667|2024-09-03|
+|93|[pinterest/PINCache](https://github.com/pinterest/PINCache)|Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X|2660|2024-09-06|
 |94|[QMUI/LookinServer](https://github.com/QMUI/LookinServer)|Free macOS app for iOS view debugging.|2645|2024-07-17|
 |95|[transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)|Sophisticated, battery-conscious background-geolocation with motion-detection|2617|2024-09-05|
-|96|[prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli)|Control Google Chrome from the command line|2605|2024-06-24|
+|96|[prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli)|Control Google Chrome from the command line|2607|2024-06-24|
 |97|[ReactiveCocoa/ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC)|The 2.x ReactiveCocoa Objective-C API: Streams of values over time|2596|2024-06-10|
-|98|[pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)|Per-device scrolling prefs on macOS.|2547|2024-06-21|
+|98|[pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)|Per-device scrolling prefs on macOS.|2554|2024-06-21|
 |99|[shu223/AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)|A gallery app of custom animated transitions for iOS.|2534|2024-04-30|
 |100|[ruslanskorb/RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)|An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.|2442|2024-08-22|
 |101|[omnigroup/OmniGroup](https://github.com/omnigroup/OmniGroup)|Source for many of The Omni Group's frameworks|2403|2024-03-20|
@@ -126,14 +126,14 @@
 |119|[ibireme/YYImage](https://github.com/ibireme/YYImage)|Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.|1762|2024-06-27|
 |120|[gskbyte/GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView)|A generic stretchy header for UITableView and UICollectionView|1750|2024-08-06|
 |121|[openid/AppAuth-iOS](https://github.com/openid/AppAuth-iOS)|iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.|1737|2024-08-19|
-|122|[focus-editor/focus](https://github.com/focus-editor/focus)|A simple and fast text editor|1722|2024-09-06|
+|122|[focus-editor/focus](https://github.com/focus-editor/focus)|A simple and fast text editor|1721|2024-09-06|
 |123|[yamill/react-native-orientation](https://github.com/yamill/react-native-orientation)|Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.|1721|2024-07-11|
-|124|[nakst/gf](https://github.com/nakst/gf)|A GDB frontend for Linux.|1714|2024-08-21|
-|125|[aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios)|AWS SDK for iOS. For more information, see our web site:|1675|2024-09-05|
+|124|[nakst/gf](https://github.com/nakst/gf)|A GDB frontend for Linux.|1715|2024-08-21|
+|125|[aws-amplify/aws-sdk-ios](https://github.com/aws-amplify/aws-sdk-ios)|AWS SDK for iOS. For more information, see our web site:|1675|2024-09-06|
 |126|[niw/HapticKey](https://github.com/niw/HapticKey)|A simple utility application to trigger haptic feedback when tapping Touch Bar.|1649|2024-05-16|
 |127|[drewmccormack/ensembles](https://github.com/drewmccormack/ensembles)|A synchronization framework for Core Data.|1631|2024-07-24|
 |128|[couchbase/couchbase-lite-ios](https://github.com/couchbase/couchbase-lite-ios)|Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.|1617|2024-09-06|
-|129|[fabiocaccamo/FCUUID](https://github.com/fabiocaccamo/FCUUID)|:iphone: :id: iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.|1605|2024-06-14|
+|129|[fabiocaccamo/FCUUID](https://github.com/fabiocaccamo/FCUUID)|:iphone: :id: iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.|1606|2024-06-14|
 |130|[specta/expecta](https://github.com/specta/expecta)|A Matcher Framework for Objective-C/Cocoa|1592|2024-04-17|
 |131|[a7ul/react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler)|A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.|1578|2024-07-15|
 |132|[wuba/WBBlades](https://github.com/wuba/WBBlades)|Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。|1535|2024-08-05|
@@ -162,7 +162,7 @@
 |155|[lmirosevic/GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo)|Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.|1138|2024-07-16|
 |156|[LiteAVSDK/Player_iOS](https://github.com/LiteAVSDK/Player_iOS)|Super player for iOS...|1112|2024-08-06|
 |157|[apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker)|Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)|1108|2024-06-11|
-|158|[libpd/libpd](https://github.com/libpd/libpd)|Pure Data embeddable audio synthesis library|1097|2024-07-06|
+|158|[libpd/libpd](https://github.com/libpd/libpd)|Pure Data embeddable audio synthesis library|1098|2024-07-06|
 |159|[don/BluetoothSerial](https://github.com/don/BluetoothSerial)|Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth|1071|2024-04-18|
 |160|[Friend-LGA/LGAlertView](https://github.com/Friend-LGA/LGAlertView)|Customizable implementation of UIAlertViewController, UIAlertView and UIActionSheet. All in one. You can customize every detail. Make AlertView of your dream! :)|1068|2024-09-06|
 |161|[matghazaryan/SOMotionDetector](https://github.com/matghazaryan/SOMotionDetector)|Simple library to detect motion type (walking, running, automotive) and count users steps. This library will make motion detection much more easily.|1059|2024-08-31|
@@ -183,10 +183,10 @@
 |176|[apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera)|Apache Cordova Plugin camera|964|2024-08-13|
 |177|[RepairShopr/react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture)|A simple modular component for react native (iOS) to capture a signature as an image|961|2024-07-17|
 |178|[matmartinez/MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard)|A simple keyboard to use with numbers and, optionally, a decimal point.|957|2024-08-26|
-|179|[googleads/googleads-mobile-ios-examples](https://github.com/googleads/googleads-mobile-ios-examples)|googleads-mobile-ios|953|2024-09-04|
-|180|[douglasjunior/react-native-keyboard-manager](https://github.com/douglasjunior/react-native-keyboard-manager)|⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.|948|2024-09-02|
+|179|[googleads/googleads-mobile-ios-examples](https://github.com/googleads/googleads-mobile-ios-examples)|googleads-mobile-ios|953|2024-09-06|
+|180|[douglasjunior/react-native-keyboard-manager](https://github.com/douglasjunior/react-native-keyboard-manager)|⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.|948|2024-09-07|
 |181|[DavydLiu/DLRadioButton](https://github.com/DavydLiu/DLRadioButton)|Radio Button for iOS|944|2024-03-25|
-|182|[gnustep/libs-base](https://github.com/gnustep/libs-base)|The GNUstep Base Library is a library of general-purpose, non-graphical Objective C objects.|931|2024-09-04|
+|182|[gnustep/libs-base](https://github.com/gnustep/libs-base)|The GNUstep Base Library is a library of general-purpose, non-graphical Objective C objects.|931|2024-09-07|
 |183|[Rogue24/JPImageresizerView](https://github.com/Rogue24/JPImageresizerView)|一个专门裁剪图片、GIF、视频的轮子😋 简单易用、功能丰富☕️（高自由度的参数设定、支持旋转和镜像翻转、蒙版、压缩等），能满足绝大部分裁剪的需求。|922|2024-08-24|
 |184|[kokoabim/iOSOpenDev](https://github.com/kokoabim/iOSOpenDev)|iOSOpenDev|901|2024-04-15|
 |185|[react-native-sensors/react-native-sensors](https://github.com/react-native-sensors/react-native-sensors)|A developer friendly approach for sensors in React Native|900|2024-08-07|
@@ -194,17 +194,17 @@
 |187|[zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer)|Universal game trainer for macOS|885|2024-08-22|
 |188|[integralpro/nosleep](https://github.com/integralpro/nosleep)|The MacOS X kernel extension, preventing sleep when you close the lid.|873|2024-06-25|
 |189|[matghazaryan/SOMessaging](https://github.com/matghazaryan/SOMessaging)|Messaging library for iOS 7.x|844|2024-08-28|
-|190|[agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)|A React Native package to interact with Apple HealthKit|841|2024-08-19|
-|191|[khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)|Run iOS app without actually installing it!|828|2024-09-02|
+|190|[agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)|A React Native package to interact with Apple HealthKit|842|2024-08-19|
+|191|[khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)|Run iOS app without actually installing it!|829|2024-09-02|
 |192|[cooperka/react-native-snackbar](https://github.com/cooperka/react-native-snackbar)|:candy: Material Design "Snackbar" component for Android and iOS.|823|2024-05-15|
 |193|[randdusing/cordova-plugin-bluetoothle](https://github.com/randdusing/cordova-plugin-bluetoothle)|Bluetooth Low Energy Phonegap Plugin|804|2024-03-27|
-|194|[getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)|The official Sentry SDK for iOS, tvOS, macOS, watchOS.|798|2024-09-06|
+|194|[getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)|The official Sentry SDK for iOS, tvOS, macOS, watchOS.|798|2024-09-07|
 |195|[johndbritton/teleport](https://github.com/johndbritton/teleport)|Virtual KVM for macOS|791|2024-08-01|
 |196|[gitx/gitx](https://github.com/gitx/gitx)|The best fork of the best lightweight, visual git client for macOS.|788|2024-09-02|
-|197|[SailyTeam/Saily](https://github.com/SailyTeam/Saily)|Modern. Fast. Beautiful.|772|2024-09-04|
+|197|[SailyTeam/Saily](https://github.com/SailyTeam/Saily)|Modern. Fast. Beautiful.|773|2024-09-07|
 |198|[EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials)|Tweak to use your own reddit API credentials in Apollo|769|2024-07-26|
-|199|[google/google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest)|Google APIs Client Library for Objective-C for REST|766|2024-09-04|
-|200|[acidanthera/MaciASL](https://github.com/acidanthera/MaciASL)|ACPI editing IDE for macOS|759|2024-08-19|
+|199|[google/google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest)|Google APIs Client Library for Objective-C for REST|767|2024-09-04|
+|200|[acidanthera/MaciASL](https://github.com/acidanthera/MaciASL)|ACPI editing IDE for macOS|759|2024-09-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
