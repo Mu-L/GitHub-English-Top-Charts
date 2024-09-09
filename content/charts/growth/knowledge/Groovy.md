@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-09-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|6|0|2024-05-28|
 |14|[infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)|Useful scripting examples for ReportServer|4|0|2024-08-22|
 |15|[keptn-sandbox/keptn-jenkins-library](https://github.com/keptn-sandbox/keptn-jenkins-library)|Jenkins shared library for integrating Keptn Use Cases with your Jenkins Pipelines|9|0|2024-09-03|
-|16|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|13|0|2024-08-17|
+|16|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|13|0|2024-09-08|
 |17|[gabriel-rodrigues-f/btp-samples](https://github.com/gabriel-rodrigues-f/btp-samples)|Useful code snippets for use in SAP Cloud Integration integrations|3|0|2024-08-29|
 |18|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|0|2024-05-01|
 |19|[lucas-sancere/QuPath_Codes](https://github.com/lucas-sancere/QuPath_Codes)|Collection of some groovy scripts for QuPath. Public repo but made mostly for personal use. |5|0|2024-07-10|
@@ -54,7 +54,7 @@
 |47|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|31|0|2024-08-29|
 |48|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|129|0|2024-08-02|
 |49|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-08-20|
-|50|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|158|0|2024-08-30|
+|50|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|158|0|2024-09-08|
 |51|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |764|0|2024-08-22|
 |52|[paulk-asert/groovy-constraint-programming](https://github.com/paulk-asert/groovy-constraint-programming)|Three common programming paradigms or styles are the imperative (OO & procedural), functional, and logic (or constraint) styles. This repo shows examples of the latter using the Apache Groovy programm ...|7|0|2024-03-13|
 |53|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|0|2024-08-29|

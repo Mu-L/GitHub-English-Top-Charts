@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-09-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5638|2024-08-16|2023-09-26|
-|2|[poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)|Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization|2455|2024-09-05|2024-05-16|
-|3|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1964|2024-06-28|2023-09-14|
-|4|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1728|2024-08-18|2023-12-31|
-|5|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1378|2024-08-08|2024-03-01|
-|6|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1305|2024-06-10|2023-12-22|
-|7|[squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook)|AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data|1051|2024-08-20|2024-05-21|
-|8|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|1015|2024-05-20|2023-10-05|
-|9|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|439|2024-07-04|2023-12-02|
+|1|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5665|2024-08-16|2023-09-26|
+|2|[poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)|Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization|2481|2024-09-05|2024-05-16|
+|3|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|1970|2024-06-28|2023-09-14|
+|4|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1731|2024-08-18|2023-12-31|
+|5|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1383|2024-08-08|2024-03-01|
+|6|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1306|2024-06-10|2023-12-22|
+|7|[squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook)|AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data|1049|2024-08-20|2024-05-21|
+|8|[adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio)|Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski ...|1018|2024-05-20|2023-10-05|
+|9|[Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse)|A self-hosted SPA to simplify course creation and management|440|2024-07-04|2023-12-02|
 |10|[Sblakum-SudocodeSolution/backend_app3](https://github.com/Sblakum-SudocodeSolution/backend_app3)|Learning Backend Development|389|2024-03-14|2024-03-14|
 |11|[eimg/rsd25](https://github.com/eimg/rsd25)|Rockstar Developer 2025 - Book and Source Code|371|2024-07-20|2024-07-16|
 |12|[RihanulHassan/Guitar-Pro-Free](https://github.com/RihanulHassan/Guitar-Pro-Free)|guitar guitar-pro guitar-pro-7 guitar-lesson guitar-pro-8 guitar-tabs guitar-pro-7.5 guitar-pro-tabs how-to-record-guitar guitar-tab guitar-pro-free recording-guitar guitar-sheet-music how-to-use-guit ...|329|2024-08-21|2024-07-07|
-|13|[mschwarzmueller/nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources)|Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)|301|2024-07-16|2023-12-05|
+|13|[mschwarzmueller/nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources)|Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)|303|2024-07-16|2023-12-05|
 |14|[TamimEhsan/interview-questions-bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh)|A crowd sourced collection of interview questions asked in Bangladeshi Tech companies|299|2024-08-14|2024-03-13|
 |15|[khushhalTravelxp/pioneer-dj](https://github.com/khushhalTravelxp/pioneer-dj)|rekordbox 6,rekordbox,rekordbox full crack,tutorial rekordbox full crack,instalar rekordbox full crack,rekordbox full crack 2021 - completo,rekordbox 6 download crack,tutorial rekordbox español full,d ...|290|2024-08-26|2024-01-29|
-|16|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|275|2024-08-13|2023-10-29|
-|17|[shovoalways/JavaScript-Course](https://github.com/shovoalways/JavaScript-Course)|Learn JavaScript for the first time or brush up your JavaScript skills and dive in even deeper. EVERY web developer has to know JavaScript.|264|2024-08-24|2023-11-27|
-|18|[14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo)|Auto-scrubbing of  articles and auto-likes in discourse|258|2024-09-05|2024-03-10|
+|16|[aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)|A curated list of Palestine and Palestinian-Israeli conflict resources.|276|2024-08-13|2023-10-29|
+|17|[shovoalways/JavaScript-Course](https://github.com/shovoalways/JavaScript-Course)|Learn JavaScript for the first time or brush up your JavaScript skills and dive in even deeper. EVERY web developer has to know JavaScript.|265|2024-08-24|2023-11-27|
+|18|[14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo)|Auto-scrubbing of  articles and auto-likes in discourse|263|2024-09-08|2024-03-10|
 |19|[jamezmca/learn-to-code](https://github.com/jamezmca/learn-to-code)|The ultimate guide to learning to code & full stack development that will land you a job in no time!|156|2024-03-27|2023-12-09|
 
 <div align="center">

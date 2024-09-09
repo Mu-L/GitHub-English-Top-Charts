@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-09-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |764|2024-08-22|
 |2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|604|2024-09-01|
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|289|2024-09-03|
-|4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|158|2024-08-30|
+|4|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|158|2024-09-08|
 |5|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|129|2024-08-02|
 |6|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|77|2024-04-02|
 |7|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|74|2024-05-16|
@@ -30,7 +30,7 @@
 |23|[dexman545/GitCraft](https://github.com/dexman545/GitCraft)|Generatre a repo of decompiled MC. Do not share the generated repo.|16|2024-06-22|
 |24|[colinbut/jenkins-pipelines](https://github.com/colinbut/jenkins-pipelines)|A collection of different types of Jenkinsfile (Pipeline as Code)|15|2024-08-26|
 |25|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|2024-08-20|
-|26|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|13|2024-08-17|
+|26|[DEFRA/ffc-jenkins-pipeline-library](https://github.com/DEFRA/ffc-jenkins-pipeline-library)|FFC Jenkins shared library|13|2024-09-08|
 |27|[ssadedin/groovy-ngs-utils](https://github.com/ssadedin/groovy-ngs-utils)|A collection of utilities for working with next generation (MPS) sequencing data in Groovy|12|2024-08-27|
 |28|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|2024-05-01|
 |29|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|2024-06-21|
