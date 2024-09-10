@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|36|2024-07-22|2024-04-17|
+|1|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|37|2024-07-22|2024-04-17|
 |2|[toruzz/WebsiteHowtoCode](https://github.com/toruzz/WebsiteHowtoCode)|How to colorize Game Boy games - Example code|20|2024-03-11|2023-10-01|
 |3|[EvilBytecode/Go-Assembly](https://github.com/EvilBytecode/Go-Assembly)|Examples how to use a Assm (Assembly) in a go.|15|2024-07-01|2024-06-30|
 |4|[hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)|🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware de ...|14|2024-06-21|2024-03-12|
@@ -14,7 +14,7 @@
 |7|[skx/cpm-dist](https://github.com/skx/cpm-dist)|A curated collection of CP/M software|8|2024-06-24|2024-04-22|
 |8|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|7|2024-05-01|2024-02-03|
 |9|[theokwebb/my-writeups](https://github.com/theokwebb/my-writeups)|Collection of my writeups on CTFs, labs, etc.|7|2024-06-25|2023-12-28|
-|10|[Turboxray/PCE_translucent_demo_examples](https://github.com/Turboxray/PCE_translucent_demo_examples)|A series of builds showing how to perform translucency effects on the PCE.|5|2024-08-25|2024-08-13|
+|10|[Turboxray/PCE_translucent_demo_examples](https://github.com/Turboxray/PCE_translucent_demo_examples)|A series of builds showing how to perform translucency effects on the PCE.|6|2024-08-25|2024-08-13|
 |11|[HugoPhi/IEEE754_RISCV_ASM](https://github.com/HugoPhi/IEEE754_RISCV_ASM)|Final project for course "Computer Organization" of CQU|5|2024-06-22|2024-06-16|
 |12|[grubbyplaya/Pac-Man-Museum-CE](https://github.com/grubbyplaya/Pac-Man-Museum-CE)|Collection of Pac-Man ports for the TI-84+ CE|5|2024-07-12|2024-06-13|
 |13|[aakashrana007/microprocessor-lab-programs](https://github.com/aakashrana007/microprocessor-lab-programs)|Collection of all Intel 8085 and 8086 programs from lab|5|2024-07-09|2024-05-22|

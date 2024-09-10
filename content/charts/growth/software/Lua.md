@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > Lua
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[yetone/avante.nvim](https://github.com/yetone/avante.nvim)|Use your Neovim like using Cursor AI IDE!|4649|179|2024-09-08|
-|2|[LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)|Neovim config for the lazy|16429|27|2024-08-31|
-|3|[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)|A launch point for your personal nvim configuration|18249|23|2024-08-26|
-|4|[folke/lazy.nvim](https://github.com/folke/lazy.nvim)|💤 A modern plugin manager for Neovim|13952|21|2024-08-31|
-|5|[nokta-x/Solara-Executor](https://github.com/nokta-x/Solara-Executor)|New Roblox Executor|196|20|2024-09-02|
-|6|[NvChad/NvChad](https://github.com/NvChad/NvChad)|Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.|24247|19|2024-09-06|
-|7|[OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)|An experimental markdown previewer for Neovim|1169|15|2024-09-08|
-|8|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |12489|13|2024-09-07|
-|9|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway and AI Gateway.|38788|11|2024-09-06|
-|10|[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)|Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.|7565|10|2024-07-20|
-|11|[tbhrbxx/robloxscripts](https://github.com/tbhrbxx/robloxscripts)|-|1071|10|2024-05-20|
-|12|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|15356|10|2024-09-07|
-|13|[face-hh/griddycode](https://github.com/face-hh/griddycode)|A code editor made with Godot. Code has never been more lit!|1706|9|2024-08-12|
-|14|[rain12gamer/PixelGun](https://github.com/rain12gamer/PixelGun)|A free and open-source utility modification for PixelGun3D featuring AimBot, ESP, Infinite Ammo, Rapid Fire, and more. Created for educational and security research purposes, this software includes va ...|17|9|2024-09-07|
-|15|[azpower90/Lunar-Executor](https://github.com/azpower90/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|35|9|2024-09-05|
-|16|[stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)|Lightweight yet powerful formatter plugin for Neovim|2884|8|2024-08-30|
-|17|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.|18030|8|2024-07-13|
-|18|[yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim)|Yacine's LLM nvim scripts|566|8|2024-08-19|
-|19|[jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim)|multiple cursors in neovim|101|7|2024-09-08|
-|20|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|7759|7|2024-08-21|
-|21|[MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)|Plugin to improve viewing Markdown files in Neovim|1249|7|2024-09-01|
-|22|[mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim)|A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.|565|7|2024-09-08|
-|23|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|14277|7|2024-09-06|
-|24|[Yuliena/Evon-Executor](https://github.com/Yuliena/Evon-Executor)|Evon Executor is a versatile tool for executing Roblox scripts with a 99% success rate. Despite occasional false positives due to DLL usage, it's entirely safe. Revenue from FileDM and Pop-Ups support ...|19|6|2024-09-06|
-|25|[givenam/Codex-Roblox](https://github.com/givenam/Codex-Roblox)|Roblox Codex Executor supports low-end PCs and let you enjoy the stable and smooth. Codex stands out as the premier Roblox script executor, providing unparalleled functionality to effortlessly run scr ...|19|6|2024-09-06|
-|26|[stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)|Neovim file explorer: edit your filesystem like a buffer|3679|6|2024-08-31|
-|27|[nosferatuweb/Nezur-Executor](https://github.com/nosferatuweb/Nezur-Executor)|Roblox Nezur Executor - elevate your experience today. Improve your aim with our superior product. Advanced features, unbeatable AI, standout aimbot and triggerbot!|19|6|2024-09-06|
-|28|[asdfaafafaf/FPS-Boost](https://github.com/asdfaafafaf/FPS-Boost)|FPS Boost is a batch tweaking script that optimizes your system to provide the best gaming experience possible. It is free and open-source, and works on Windows 10 & 11!|18|6|2024-09-07|
-|29|[Arggus/Solara-Executor](https://github.com/Arggus/Solara-Executor)|New Roblox Executor|19|6|2024-09-06|
-|30|[folke/noice.nvim](https://github.com/folke/noice.nvim)|💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.|4188|6|2024-08-18|
-|31|[isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim)|Git Graph plugin for neovim|261|6|2024-08-19|
-|32|[jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API|3660|6|2024-08-26|
-|33|[folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)|Faster LuaLS setup for Neovim|620|6|2024-07-25|
-|34|[nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)|null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|2424|6|2024-09-01|
-|35|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configs for Nvim LSP|10294|6|2024-09-05|
-|36|[magicalne/nvim.ai](https://github.com/magicalne/nvim.ai)|Inspired by Zed AI, it allows you to chat with your buffers, insert code with an inline assistant, and leverage various LLM providers for context-aware AI assistance.|98|5|2024-09-07|
-|37|[MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim)|Find And Replace plugin for neovim|650|5|2024-09-06|
-|38|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|6296|5|2024-09-08|
-|39|[CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim)|Chat with GitHub Copilot in Neovim|1481|5|2024-09-06|
-|40|[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)|-|6674|5|2024-08-29|
+|1|[yetone/avante.nvim](https://github.com/yetone/avante.nvim)|Use your Neovim like using Cursor AI IDE!|4709|174|2024-09-08|
+|2|[LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)|Neovim config for the lazy|16443|27|2024-08-31|
+|3|[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)|A launch point for your personal nvim configuration|18284|23|2024-08-26|
+|4|[folke/lazy.nvim](https://github.com/folke/lazy.nvim)|💤 A modern plugin manager for Neovim|13966|21|2024-08-31|
+|5|[NvChad/NvChad](https://github.com/NvChad/NvChad)|Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.|24267|19|2024-09-06|
+|6|[nokta-x/Solara-Executor](https://github.com/nokta-x/Solara-Executor)|New Roblox Executor|196|18|2024-09-02|
+|7|[OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)|An experimental markdown previewer for Neovim|1168|15|2024-09-09|
+|8|[AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)|AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |12507|13|2024-09-09|
+|9|[Kong/kong](https://github.com/Kong/kong)|🦍 The Cloud-Native API Gateway and AI Gateway.|38797|11|2024-09-09|
+|10|[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)|Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.|7575|10|2024-07-20|
+|11|[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|Find, Filter, Preview, Pick. All lua, all the time.|15366|10|2024-09-07|
+|12|[face-hh/griddycode](https://github.com/face-hh/griddycode)|A code editor made with Godot. Code has never been more lit!|1708|9|2024-08-12|
+|13|[tbhrbxx/robloxscripts](https://github.com/tbhrbxx/robloxscripts)|-|1071|9|2024-05-20|
+|14|[stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)|Lightweight yet powerful formatter plugin for Neovim|2887|8|2024-08-30|
+|15|[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)|🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.|18033|8|2024-07-13|
+|16|[yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim)|Yacine's LLM nvim scripts|566|8|2024-08-19|
+|17|[azpower90/Lunar-Executor](https://github.com/azpower90/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|35|7|2024-09-05|
+|18|[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)|A completion plugin for neovim coded in Lua.|7761|7|2024-08-21|
+|19|[MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)|Plugin to improve viewing Markdown files in Neovim|1271|7|2024-09-09|
+|20|[mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim)|A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.|564|7|2024-09-09|
+|21|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|14278|7|2024-09-06|
+|22|[stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)|Neovim file explorer: edit your filesystem like a buffer|3682|6|2024-08-31|
+|23|[rain12gamer/PixelGun](https://github.com/rain12gamer/PixelGun)|A free and open-source utility modification for PixelGun3D featuring AimBot, ESP, Infinite Ammo, Rapid Fire, and more. Created for educational and security research purposes, this software includes va ...|17|6|2024-09-07|
+|24|[folke/noice.nvim](https://github.com/folke/noice.nvim)|💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.|4193|6|2024-08-18|
+|25|[jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim)|multiple cursors in neovim|101|6|2024-09-09|
+|26|[jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API|3663|6|2024-08-26|
+|27|[folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)|Faster LuaLS setup for Neovim|621|6|2024-07-25|
+|28|[nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)|null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.|2428|6|2024-09-01|
+|29|[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)|Quickstart configs for Nvim LSP|10306|6|2024-09-09|
+|30|[magicalne/nvim.ai](https://github.com/magicalne/nvim.ai)|Inspired by Zed AI, it allows you to chat with your buffers, insert code with an inline assistant, and leverage various LLM providers for context-aware AI assistance.|99|5|2024-09-09|
+|31|[Yuliena/Evon-Executor](https://github.com/Yuliena/Evon-Executor)|Evon Executor is a versatile tool for executing Roblox scripts with a 99% success rate. Despite occasional false positives due to DLL usage, it's entirely safe. Revenue from FileDM and Pop-Ups support ...|19|5|2024-09-06|
+|32|[givenam/Codex-Roblox](https://github.com/givenam/Codex-Roblox)|Roblox Codex Executor supports low-end PCs and let you enjoy the stable and smooth. Codex stands out as the premier Roblox script executor, providing unparalleled functionality to effortlessly run scr ...|19|5|2024-09-06|
+|33|[MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim)|Find And Replace plugin for neovim|658|5|2024-09-09|
+|34|[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)|Modernity meets insane extensibility. The future of organizing your life in Neovim.|6297|5|2024-09-08|
+|35|[nosferatuweb/Nezur-Executor](https://github.com/nosferatuweb/Nezur-Executor)|Roblox Nezur Executor - elevate your experience today. Improve your aim with our superior product. Advanced features, unbeatable AI, standout aimbot and triggerbot!|19|5|2024-09-06|
+|36|[asdfaafafaf/FPS-Boost](https://github.com/asdfaafafaf/FPS-Boost)|FPS Boost is a batch tweaking script that optimizes your system to provide the best gaming experience possible. It is free and open-source, and works on Windows 10 & 11!|18|5|2024-09-07|
+|37|[Arggus/Solara-Executor](https://github.com/Arggus/Solara-Executor)|New Roblox Executor|19|5|2024-09-06|
+|38|[isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim)|Git Graph plugin for neovim|262|5|2024-08-19|
+|39|[CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim)|Chat with GitHub Copilot in Neovim|1488|5|2024-09-06|
+|40|[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)|-|6680|5|2024-08-29|
 |41|[stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim)|Improved UI and workflow for the Neovim quickfix|238|5|2024-08-21|
-|42|[catppuccin/nvim](https://github.com/catppuccin/nvim)|🍨 Soothing pastel theme for (Neo)vim|5342|5|2024-09-03|
-|43|[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)|📚 A Neovim config designed from scratch to be understandable|5371|5|2024-07-22|
-|44|[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)|🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.|6147|5|2024-08-31|
-|45|[folke/flash.nvim](https://github.com/folke/flash.nvim)|Navigate your code with search labels, enhanced character motions and Treesitter integration|2400|5|2024-07-22|
-|46|[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)|-|3225|5|2024-07-03|
+|42|[catppuccin/nvim](https://github.com/catppuccin/nvim)|🍨 Soothing pastel theme for (Neo)vim|5354|5|2024-09-03|
+|43|[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)|📚 A Neovim config designed from scratch to be understandable|5372|5|2024-07-22|
+|44|[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)|🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.|6149|5|2024-08-31|
+|45|[folke/flash.nvim](https://github.com/folke/flash.nvim)|Navigate your code with search labels, enhanced character motions and Treesitter integration|2406|5|2024-07-22|
+|46|[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)|-|3226|5|2024-07-03|
 |47|[cmusatyalab/openface](https://github.com/cmusatyalab/openface)|Face recognition with deep neural networks.|15090|5|2024-07-29|
-|48|[epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|Obsidian 🤝 Neovim|3788|5|2024-08-16|
-|49|[rxyhn/yoru](https://github.com/rxyhn/yoru)|夜 - Yoru   Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:|3461|4|2024-08-02|
-|50|[VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)|A starting point to setup some lsp related features in neovim.|3755|4|2024-09-05|
-|51|[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)|A file explorer tree for neovim written in lua|6987|4|2024-09-08|
+|48|[epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|Obsidian 🤝 Neovim|3797|5|2024-08-16|
+|49|[rxyhn/yoru](https://github.com/rxyhn/yoru)|夜 - Yoru   Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:|3462|4|2024-08-02|
+|50|[VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)|A starting point to setup some lsp related features in neovim.|3757|4|2024-09-05|
+|51|[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)|A file explorer tree for neovim written in lua|6986|4|2024-09-09|
 |52|[Conceitedz/Lunar-Executor](https://github.com/Conceitedz/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|29|4|2024-09-02|
-|53|[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)|Neovim plugin to manage the file system and other tree like structures.|3608|4|2024-09-06|
-|54|[leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)|Efficient targetted menu built for fast buffer navigation|154|4|2024-08-23|
-|55|[chris-montero/terra](https://github.com/chris-montero/terra)|A sane application development framework for the desktop.|114|4|2024-09-05|
-|56|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort|4825|4|2024-09-07|
-|57|[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)|My personal dotfiles|6257|4|2024-07-30|
-|58|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|16284|4|2024-09-08|
-|59|[Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)|The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572|2377|4|2024-09-05|
-|60|[josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)|-|2910|4|2024-08-21|
-|61|[supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)|The official Neovim plugin for Supermaven|495|4|2024-09-03|
-|62|[folke/trouble.nvim](https://github.com/folke/trouble.nvim)|🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.|5358|4|2024-07-22|
-|63|[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)|A blazing fast and easy to configure neovim statusline plugin written in pure lua.|5923|4|2024-08-12|
-|64|[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)|Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.|3089|4|2024-06-24|
-|65|[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)|NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.|4097|4|2024-08-27|
-|66|[folke/which-key.nvim](https://github.com/folke/which-key.nvim)|💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.|5115|4|2024-08-31|
-|67|[numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)|:brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more|3834|4|2024-08-19|
-|68|[3rd/diagram.nvim](https://github.com/3rd/diagram.nvim)|Diagrams as code in Neovim.|103|4|2024-08-30|
-|69|[boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim)|Neovim config WITHOUT plugins|189|3|2024-07-28|
-|70|[lovereyna003/Roblox-Moon](https://github.com/lovereyna003/Roblox-Moon)|Roblox Moon Executor stands out as a cutting-edge tool tailored for Roblox enthusiasts, offering a seamless experience in executing custom scripts. With its intuitive interface and powerful capabiliti ...|19|3|2024-09-02|
-|71|[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)|Snippet Engine for Neovim written in Lua.|3315|3|2024-08-28|
-|72|[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)|A fancy, configurable, notification manager for NeoVim|2988|3|2024-08-11|
-|73|[rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)|A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.|249|3|2024-09-05|
-|74|[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)|Not UFO in the sky, but an ultra fold in Neovim.|2258|3|2024-09-08|
-|75|[tjdevries/config.nvim](https://github.com/tjdevries/config.nvim)|my nvim config|321|3|2024-08-25|
-|76|[folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim)|Tiny plugin to enhance Neovim's native comments|307|3|2024-08-20|
-|77|[Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim)|A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content  ...|1834|3|2024-08-21|
+|53|[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)|Neovim plugin to manage the file system and other tree like structures.|3613|4|2024-09-06|
+|54|[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)|Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort|4830|4|2024-09-09|
+|55|[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)|My personal dotfiles|6257|4|2024-07-30|
+|56|[koreader/koreader](https://github.com/koreader/koreader)|An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices|16292|4|2024-09-09|
+|57|[Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)|The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572|2383|4|2024-09-05|
+|58|[josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)|-|2915|4|2024-08-21|
+|59|[supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)|The official Neovim plugin for Supermaven|498|4|2024-09-03|
+|60|[folke/trouble.nvim](https://github.com/folke/trouble.nvim)|🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.|5361|4|2024-07-22|
+|61|[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)|A blazing fast and easy to configure neovim statusline plugin written in pure lua.|5928|4|2024-08-12|
+|62|[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)|Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.|3092|4|2024-06-24|
+|63|[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)|NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.|4104|4|2024-08-27|
+|64|[folke/which-key.nvim](https://github.com/folke/which-key.nvim)|💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.|5119|4|2024-08-31|
+|65|[numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)|:brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more|3834|4|2024-08-19|
+|66|[iguanacucumber/highlight-actions.nvim](https://github.com/iguanacucumber/highlight-actions.nvim)|Highlight changed text after an operation. Purely lua / Nvim API implementation, no external dependencies needed.|8|4|2024-09-08|
+|67|[3rd/diagram.nvim](https://github.com/3rd/diagram.nvim)|Diagrams as code in Neovim.|103|4|2024-08-30|
+|68|[boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim)|Neovim config WITHOUT plugins|189|3|2024-07-28|
+|69|[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)|Snippet Engine for Neovim written in Lua.|3321|3|2024-08-28|
+|70|[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)|A fancy, configurable, notification manager for NeoVim|2990|3|2024-08-11|
+|71|[rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)|A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.|250|3|2024-09-05|
+|72|[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)|Not UFO in the sky, but an ultra fold in Neovim.|2260|3|2024-09-08|
+|73|[tjdevries/config.nvim](https://github.com/tjdevries/config.nvim)|my nvim config|322|3|2024-08-25|
+|74|[folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim)|Tiny plugin to enhance Neovim's native comments|309|3|2024-08-20|
+|75|[leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)|Efficient targetted menu built for fast buffer navigation|155|3|2024-08-23|
+|76|[chris-montero/terra](https://github.com/chris-montero/terra)|A sane application development framework for the desktop.|114|3|2024-09-05|
+|77|[Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim)|A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content  ...|1835|3|2024-08-21|
 |78|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|563|3|2024-07-22|
-|79|[xmake-io/xmake](https://github.com/xmake-io/xmake)|🔥 A cross-platform build utility based on Lua|9804|3|2024-09-08|
-|80|[akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)|A neovim lua plugin to help easily manage multiple terminal windows|4201|3|2024-08-08|
-|81|[zakture2/Celex-Executor](https://github.com/zakture2/Celex-Executor)|Celex Executor is an external Windows-based script execution tool for Roblox, allowing users to run custom scripts and modify game mechanics for enhanced gameplay and exploits.|18|3|2024-09-02|
-|82|[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)|Debug Adapter Protocol client implementation for Neovim|5347|3|2024-09-05|
-|83|[nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)|improve neovim lsp experience|3422|3|2024-08-16|
-|84|[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)|Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.|2671|3|2024-09-08|
-|85|[folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)|✅  Highlight, list and search todo comments in your projects|3086|3|2024-08-31|
-|86|[David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim)|Neovim plugin to generate text using LLMs with customizable prompts|1104|3|2024-08-17|
-|87|[OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim)|Decorations for vimdoc/help files in Neovim|145|3|2024-08-26|
-|88|[xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)|-|6962|3|2024-09-08|
-|89|[lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)|Git integration for buffers|4911|3|2024-09-04|
-|90|[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)|🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.|3029|3|2024-07-26|
-|91|[m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)|Establish good command workflow and quit bad habit|1364|3|2024-08-20|
-|92|[plefwgrtgrw/Roblox-Celery](https://github.com/plefwgrtgrw/Roblox-Celery)|Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creati ...|19|3|2024-09-02|
-|93|[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)|Single tabpage interface for easily cycling through diffs for all modified files for any git rev.|3825|3|2024-08-02|
-|94|[nvim-java/nvim-java](https://github.com/nvim-java/nvim-java)|Painless Java in Neovim|778|3|2024-08-02|
-|95|[lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)|A lightweight text editor written in Lua|4664|3|2024-09-06|
-|96|[zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)|Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot|2567|3|2024-08-30|
-|97|[tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)|💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.|699|3|2024-08-13|
-|98|[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)|✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs|523|2|2024-09-08|
-|99|[ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)|vim-be-good is a nvim plugin designed to make you better at Vim Movements. |3094|2|2024-05-08|
-|100|[j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)|💫  Extensible UI for Neovim notifications and LSP progress messages.|1931|2|2024-07-13|
-|101|[slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)|a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.|169|2|2024-09-07|
-|102|[jdhao/nvim-config](https://github.com/jdhao/nvim-config)|A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...|3428|2|2024-09-02|
-|103|[VurB/Roblox-Frostware](https://github.com/VurB/Roblox-Frostware)|FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for  ...|19|2|2024-09-02|
-|104|[NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim)|Screencast your keys in Neovim|287|2|2024-09-06|
-|105|[0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)|-|159|2|2024-09-06|
-|106|[useranewrff/roblox](https://github.com/useranewrff/roblox)|-|660|2|2024-07-19|
-|107|[skydive1221/Wave-Executor](https://github.com/skydive1221/Wave-Executor)|Wave Executor: A robust Windows-based script executor tailored for Roblox enthusiasts, Wave Executor boasts AI integration for seamless script development, ad-free premium features, and 24/7 support,  ...|20|2|2024-09-02|
-|108|[folke/neodev.nvim](https://github.com/folke/neodev.nvim)|💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.|2012|2|2024-07-06|
-|109|[xxjollysway/Roblox-Celery](https://github.com/xxjollysway/Roblox-Celery)|Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creati ...|18|2|2024-09-02|
-|110|[nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)|🌒 Neovim plugin management inspired by Cargo, powered by luarocks|653|2|2024-09-08|
-|111|[nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)|An extensible framework for interacting with tests within NeoVim.|2246|2|2024-08-26|
-|112|[ejoy/ant](https://github.com/ejoy/ant)|Ant game engine|3780|2|2024-09-06|
-|113|[Samuels-Development/sd-parceltheft](https://github.com/Samuels-Development/sd-parceltheft)|-|9|2|2024-09-05|
-|114|[naklecha/factorio-automation](https://github.com/naklecha/factorio-automation)|i will automate factorio|81|2|2024-07-31|
-|115|[Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim)|IDE-like breadcrumbs, out of the box|963|2|2024-08-23|
-|116|[luanrenek/Lunar-Executor](https://github.com/luanrenek/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|28|2|2024-08-28|
-|117|[pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim)|⚡ TypeScript integration NeoVim deserves ⚡|1383|2|2024-08-19|
-|118|[Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim)|Plugin that allows you to perform web searches directly from within neovim!|17|2|2024-09-06|
-|119|[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)|Show code context|2294|2|2024-07-03|
-|120|[luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim)|An unofficial Tailwind CSS integration and tooling for Neovim|324|2|2024-09-03|
-|121|[o0fl/Hydrogen-Executor](https://github.com/o0fl/Hydrogen-Executor)|Roblox Hydrogen Executor is by far the best roblox script executor which can be used to run and execute the scripts for all your favorite roblox games. |25|2|2024-08-29|
-|122|[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)|LSP signature hint as you type|2017|2|2024-07-28|
-|123|[yusufcan8282/Arceus-Executor](https://github.com/yusufcan8282/Arceus-Executor)|Arceus X Executor is a powerful script execution tool for Roblox on Windows, renowned for its ability to run custom scripts, unlock advanced game features, and deliver unparalleled game modifications, ...|21|2|2024-08-29|
-|124|[projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)|GitHub's Neovim themes |2076|2|2024-08-14|
-|125|[wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)|Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)|611|2|2024-08-18|
-|126|[ray-x/go.nvim](https://github.com/ray-x/go.nvim)|G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim|2013|2|2024-08-28|
-|127|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|2900|2|2024-09-08|
-|128|[cpow/neovim-for-newbs](https://github.com/cpow/neovim-for-newbs)|a simple lua neovim configuration for newbs|501|2|2024-04-16|
-|129|[rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)|A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.|103|2|2024-09-07|
-|130|[ArlisMaricle/Lunar-Executor](https://github.com/ArlisMaricle/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|17|2|2024-09-02|
-|131|[NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)|An interactive and powerful Git interface for Neovim, inspired by Magit|3823|2|2024-09-03|
-|132|[nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)|Find the enemy and replace them with dark power.|2014|2|2024-07-30|
-|133|[goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)|a lua powered greeter like vim-startify / dashboard-nvim|1823|2|2024-08-19|
-|134|[windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)|autopairs for neovim written in lua|3136|2|2024-09-02|
-|135|[craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)|🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.|649|2|2024-07-21|
-|136|[sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim)|-|31|2|2024-09-02|
-|137|[breaddev-here/bread-ray](https://github.com/breaddev-here/bread-ray)|it's not fast|333|2|2024-03-13|
-|138|[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)|Neovim plugin to improve the default vim.ui interfaces|1786|2|2024-08-16|
-|139|[pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)|Edit and review GitHub issues and pull requests from the comfort of your favorite editor|2326|2|2024-09-06|
-|140|[asbdasfa/Lunar-Executor](https://github.com/asbdasfa/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|25|2|2024-08-29|
-|141|[rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)|A UI for nvim-dap|2550|2|2024-08-26|
-|142|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|6152|2|2024-09-06|
-|143|[ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)|Improved fzf.vim written in lua|2139|2|2024-09-04|
-|144|[FLAME4229/Roblox-Horizon](https://github.com/FLAME4229/Roblox-Horizon)|Roblox Horizon Executor is a third-party script execution tool designed for the Roblox platform, allowing users to run custom scripts and exploit game mechanics.|18|2|2024-09-02|
-|145|[Robitx/gp.nvim](https://github.com/Robitx/gp.nvim)|Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]|733|2|2024-09-08|
-|146|[DDAM09-9/Domain-Executor](https://github.com/DDAM09-9/Domain-Executor)|Domain Executor is basically an engine for Roblox games scripts. This heavy-duty tool makes the challenging process of executing Roblox scripts faster and more accurate.|18|2|2024-08-30|
-|147|[xT-Development/xt-porchpirate](https://github.com/xT-Development/xt-porchpirate)|Porch Pirating for FiveM|9|2|2024-09-08|
-|148|[AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)|A community repository of common plugin specifications|1129|2|2024-09-08|
-|149|[folke/edgy.nvim](https://github.com/folke/edgy.nvim)|Easily create and manage predefined window layouts, bringing a new edge to your workflow|818|2|2024-08-31|
-|150|[bimo15c/Roblox-Horizon](https://github.com/bimo15c/Roblox-Horizon)|Roblox Horizon Executor is a third-party script execution tool designed for the Roblox platform, allowing users to run custom scripts and exploit game mechanics.|17|2|2024-09-02|
-|151|[duped12/Roblox-Frostware](https://github.com/duped12/Roblox-Frostware)|FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for  ...|15|2|2024-09-02|
-|152|[tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim)|KEKW|77|2|2024-08-29|
-|153|[romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim)|The neovim tabline plugin.|2230|2|2024-09-08|
-|154|[3rd/image.nvim](https://github.com/3rd/image.nvim)|🖼️ Bringing images to Neovim.|958|2|2024-08-15|
-|155|[rose-pine/neovim](https://github.com/rose-pine/neovim)|Soho vibes for Neovim|2199|2|2024-08-25|
-|156|[banana-glitch/Cryptic-Executor](https://github.com/banana-glitch/Cryptic-Executor)|Cryptic is a top-tier exploit with a 98% UNC and Level 7 power, making it perfect for unlocking new possibilities in Roblox. Even though itâ€™s new, it's already becoming popular for its smooth perfor ...|19|2|2024-09-02|
-|157|[vague2k/vague.nvim](https://github.com/vague2k/vague.nvim)|A dark, low contrast, theme inspired by ThePrimeagen's Tokyonight+Tmux theme|93|2|2024-09-06|
-|158|[grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)|A feature-rich and highly customizable library for creating user interfaces in Neovim.|302|2|2024-05-11|
-|159|[mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim)|A Neovim Plugin for the yazi terminal file manager|400|2|2024-09-08|
-|160|[Mateo2416/Roblox-Scriptify](https://github.com/Mateo2416/Roblox-Scriptify)|The Roblox Scriptify Executor is a robust tool designed for seamless script execution in Roblox. It features an efficient injector and DLL mapping for smooth integration, along with a whitelisting sys ...|7|2|2024-09-06|
-|161|[dzirtusss/vifari](https://github.com/dzirtusss/vifari)|Vimium/Vimari for Safari without browser extension in pure Lua|8|2|2024-09-07|
-|162|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|6316|2|2024-09-07|
-|163|[scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)|🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim|615|2|2024-08-29|
-|164|[hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim)|Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim. |570|2|2024-09-08|
-|165|[akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)|A snazzy bufferline for Neovim|3405|2|2024-08-19|
-|166|[ssnhd/rime](https://github.com/ssnhd/rime)|Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）|3105|2|2024-06-03|
-|167|[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)|plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.|2646|2|2024-08-19|
-|168|[nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)|Orgmode clone written in Lua for Neovim 0.9+.|2967|2|2024-09-02|
-|169|[melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim)|No frills LLM-assisted programming|234|2|2024-07-24|
-|170|[nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)|File Browser extension for telescope.nvim|1656|2|2024-09-05|
-|171|[LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim)|🚀 Launch.nvim is modular starter for Neovim.|1993|2|2024-08-08|
-|172|[PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)|Offline build planner for Path of Exile.|3948|2|2024-09-06|
-|173|[Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)|Yet another minimap plugin for Neovim|153|2|2024-09-03|
-|174|[stax76/mpv-hero](https://github.com/stax76/mpv-hero)|mpv media player from zero to hero. Get quickly and easily started with the popular mpv media player.|22|2|2024-09-04|
-|175|[HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim)|Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst|447|2|2024-08-26|
-|176|[rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)|Create Neovim themes with real-time feedback, export anywhere.|1451|1|2024-08-16|
-|177|[nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim)|Live grep with args|685|1|2024-07-28|
-|178|[ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim)|A warm neovim colorscheme|32|1|2024-07-23|
-|179|[Aqua-Nautilus/TrailShark](https://github.com/Aqua-Nautilus/TrailShark)|-|37|1|2024-08-26|
-|180|[stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)|A task runner and job management plugin for Neovim|1097|1|2024-08-19|
-|181|[kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf)|Better quickfix window in Neovim, polish old quickfix window.|1671|1|2024-06-04|
-|182|[tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim)|Highlight changed text after Undo / Redo operations|270|1|2024-05-06|
-|183|[LazyVim/starter](https://github.com/LazyVim/starter)|Starter template for LazyVim|880|1|2024-08-05|
-|184|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|1252|1|2024-03-11|
-|185|[nathom/filetype.nvim](https://github.com/nathom/filetype.nvim)|A faster version of filetype.vim|564|1|2024-05-06|
-|186|[kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb)|VSCode 💡 for neovim's built-in LSP.|778|1|2024-08-16|
-|187|[cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim)|Neovim plugin for tagging important files|525|1|2024-07-14|
-|188|[LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server)|A language server that offers Lua language support - programmed in Lua|3240|1|2024-09-06|
-|189|[nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim)|A plugin for managing and integrating your ollama workflows in neovim.|361|1|2024-08-10|
-|190|[mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim)|Jump to next/previous LSP reference for item under cursor with ]r/[r|25|1|2024-09-06|
-|191|[danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim)|Neovim plugin for fast file-finding|470|1|2024-07-07|
-|192|[nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim)|Make your nvim window separators colorful|407|1|2024-08-26|
-|193|[letieu/btw.nvim](https://github.com/letieu/btw.nvim)|I use Neovim (BTW)|127|1|2024-04-10|
-|194|[b0o/incline.nvim](https://github.com/b0o/incline.nvim)|🎈 Floating statuslines for Neovim, winbar alternative|761|1|2024-05-17|
-|195|[soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)|Show diagnostics and lsp info inside a custom window, following the mouse position|218|1|2024-07-27|
-|196|[TGIANN/tgiann-voice-effect](https://github.com/TGIANN/tgiann-voice-effect)|for fivem makes sounds more realistic when underwater and changes the voices of the players|20|1|2024-08-09|
-|197|[Jaffies/paint](https://github.com/Jaffies/paint)|Paint library for gmod|37|1|2024-09-07|
-|198|[RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)|illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.|2158|1|2024-08-02|
-|199|[jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)|Just ask an otter! 🦦|476|1|2024-08-25|
-|200|[WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles)|Dotfiles for awesome people using the awesomewm linux environment|1166|1|2024-08-09|
+|79|[xmake-io/xmake](https://github.com/xmake-io/xmake)|🔥 A cross-platform build utility based on Lua|9808|3|2024-09-09|
+|80|[akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)|A neovim lua plugin to help easily manage multiple terminal windows|4207|3|2024-08-08|
+|81|[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)|Debug Adapter Protocol client implementation for Neovim|5352|3|2024-09-05|
+|82|[nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)|improve neovim lsp experience|3421|3|2024-08-16|
+|83|[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)|Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.|2674|3|2024-09-08|
+|84|[folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)|✅  Highlight, list and search todo comments in your projects|3089|3|2024-08-31|
+|85|[David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim)|Neovim plugin to generate text using LLMs with customizable prompts|1105|3|2024-08-17|
+|86|[OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim)|Decorations for vimdoc/help files in Neovim|146|3|2024-08-26|
+|87|[xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)|-|6962|3|2024-09-08|
+|88|[lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)|Git integration for buffers|4913|3|2024-09-04|
+|89|[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)|🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.|3031|3|2024-09-08|
+|90|[m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)|Establish good command workflow and quit bad habit|1367|3|2024-08-20|
+|91|[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)|Single tabpage interface for easily cycling through diffs for all modified files for any git rev.|3831|3|2024-08-02|
+|92|[nvim-java/nvim-java](https://github.com/nvim-java/nvim-java)|Painless Java in Neovim|777|3|2024-08-02|
+|93|[lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)|A lightweight text editor written in Lua|4665|3|2024-09-06|
+|94|[zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)|Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot|2568|3|2024-08-30|
+|95|[tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)|💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.|699|3|2024-08-13|
+|96|[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)|✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs|533|2|2024-09-09|
+|97|[ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)|vim-be-good is a nvim plugin designed to make you better at Vim Movements. |3094|2|2024-05-08|
+|98|[lovereyna003/Roblox-Moon](https://github.com/lovereyna003/Roblox-Moon)|Roblox Moon Executor stands out as a cutting-edge tool tailored for Roblox enthusiasts, offering a seamless experience in executing custom scripts. With its intuitive interface and powerful capabiliti ...|19|2|2024-09-02|
+|99|[j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)|💫  Extensible UI for Neovim notifications and LSP progress messages.|1931|2|2024-07-13|
+|100|[slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)|a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.|170|2|2024-09-07|
+|101|[jdhao/nvim-config](https://github.com/jdhao/nvim-config)|A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...|3431|2|2024-09-02|
+|102|[VurB/Roblox-Frostware](https://github.com/VurB/Roblox-Frostware)|FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for  ...|19|2|2024-09-02|
+|103|[NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim)|Screencast your keys in Neovim|288|2|2024-09-06|
+|104|[0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)|-|159|2|2024-09-06|
+|105|[useranewrff/roblox](https://github.com/useranewrff/roblox)|-|660|2|2024-07-19|
+|106|[skydive1221/Wave-Executor](https://github.com/skydive1221/Wave-Executor)|Wave Executor: A robust Windows-based script executor tailored for Roblox enthusiasts, Wave Executor boasts AI integration for seamless script development, ad-free premium features, and 24/7 support,  ...|20|2|2024-09-02|
+|107|[folke/neodev.nvim](https://github.com/folke/neodev.nvim)|💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.|2013|2|2024-07-06|
+|108|[xxjollysway/Roblox-Celery](https://github.com/xxjollysway/Roblox-Celery)|Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creati ...|18|2|2024-09-02|
+|109|[nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)|🌒 Neovim plugin management inspired by Cargo, powered by luarocks|655|2|2024-09-08|
+|110|[nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)|An extensible framework for interacting with tests within NeoVim.|2246|2|2024-08-26|
+|111|[ejoy/ant](https://github.com/ejoy/ant)|Ant game engine|3782|2|2024-09-09|
+|112|[Samuels-Development/sd-parceltheft](https://github.com/Samuels-Development/sd-parceltheft)|-|9|2|2024-09-09|
+|113|[naklecha/factorio-automation](https://github.com/naklecha/factorio-automation)|i will automate factorio|81|2|2024-07-31|
+|114|[Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim)|IDE-like breadcrumbs, out of the box|964|2|2024-08-23|
+|115|[pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim)|⚡ TypeScript integration NeoVim deserves ⚡|1388|2|2024-08-19|
+|116|[Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim)|Plugin that allows you to perform web searches directly from within neovim!|19|2|2024-09-06|
+|117|[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)|Show code context|2294|2|2024-07-03|
+|118|[luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim)|An unofficial Tailwind CSS integration and tooling for Neovim|326|2|2024-09-03|
+|119|[o0fl/Hydrogen-Executor](https://github.com/o0fl/Hydrogen-Executor)|Roblox Hydrogen Executor is by far the best roblox script executor which can be used to run and execute the scripts for all your favorite roblox games. |25|2|2024-08-29|
+|120|[zakture2/Celex-Executor](https://github.com/zakture2/Celex-Executor)|Celex Executor is an external Windows-based script execution tool for Roblox, allowing users to run custom scripts and modify game mechanics for enhanced gameplay and exploits.|18|2|2024-09-02|
+|121|[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)|LSP signature hint as you type|2018|2|2024-07-28|
+|122|[yusufcan8282/Arceus-Executor](https://github.com/yusufcan8282/Arceus-Executor)|Arceus X Executor is a powerful script execution tool for Roblox on Windows, renowned for its ability to run custom scripts, unlock advanced game features, and deliver unparalleled game modifications, ...|21|2|2024-08-29|
+|123|[projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)|GitHub's Neovim themes |2076|2|2024-08-14|
+|124|[wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)|Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)|614|2|2024-08-18|
+|125|[ray-x/go.nvim](https://github.com/ray-x/go.nvim)|G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim|2015|2|2024-09-09|
+|126|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|2899|2|2024-09-08|
+|127|[cpow/neovim-for-newbs](https://github.com/cpow/neovim-for-newbs)|a simple lua neovim configuration for newbs|502|2|2024-04-16|
+|128|[rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)|A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.|104|2|2024-09-09|
+|129|[ArlisMaricle/Lunar-Executor](https://github.com/ArlisMaricle/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|17|2|2024-09-02|
+|130|[NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)|An interactive and powerful Git interface for Neovim, inspired by Magit|3828|2|2024-09-03|
+|131|[nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)|Find the enemy and replace them with dark power.|2014|2|2024-07-30|
+|132|[goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)|a lua powered greeter like vim-startify / dashboard-nvim|1824|2|2024-08-19|
+|133|[windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)|autopairs for neovim written in lua|3137|2|2024-09-02|
+|134|[craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)|🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.|650|2|2024-07-21|
+|135|[sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim)|-|31|2|2024-09-09|
+|136|[breaddev-here/bread-ray](https://github.com/breaddev-here/bread-ray)|it's not fast|333|2|2024-03-13|
+|137|[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)|Neovim plugin to improve the default vim.ui interfaces|1786|2|2024-08-16|
+|138|[pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)|Edit and review GitHub issues and pull requests from the comfort of your favorite editor|2329|2|2024-09-06|
+|139|[asbdasfa/Lunar-Executor](https://github.com/asbdasfa/Lunar-Executor)|Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.|25|2|2024-08-29|
+|140|[rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)|A UI for nvim-dap|2551|2|2024-08-26|
+|141|[ntop/ntopng](https://github.com/ntop/ntopng)|Web-based Traffic and Security Network Traffic Monitoring|6156|2|2024-09-09|
+|142|[ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)|Improved fzf.vim written in lua|2141|2|2024-09-09|
+|143|[FLAME4229/Roblox-Horizon](https://github.com/FLAME4229/Roblox-Horizon)|Roblox Horizon Executor is a third-party script execution tool designed for the Roblox platform, allowing users to run custom scripts and exploit game mechanics.|18|2|2024-09-02|
+|144|[Robitx/gp.nvim](https://github.com/Robitx/gp.nvim)|Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]|734|2|2024-09-08|
+|145|[DDAM09-9/Domain-Executor](https://github.com/DDAM09-9/Domain-Executor)|Domain Executor is basically an engine for Roblox games scripts. This heavy-duty tool makes the challenging process of executing Roblox scripts faster and more accurate.|18|2|2024-08-30|
+|146|[AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)|A community repository of common plugin specifications|1131|2|2024-09-09|
+|147|[folke/edgy.nvim](https://github.com/folke/edgy.nvim)|Easily create and manage predefined window layouts, bringing a new edge to your workflow|819|2|2024-08-31|
+|148|[bimo15c/Roblox-Horizon](https://github.com/bimo15c/Roblox-Horizon)|Roblox Horizon Executor is a third-party script execution tool designed for the Roblox platform, allowing users to run custom scripts and exploit game mechanics.|17|2|2024-09-02|
+|149|[duped12/Roblox-Frostware](https://github.com/duped12/Roblox-Frostware)|FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for  ...|15|2|2024-09-02|
+|150|[tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim)|KEKW|79|2|2024-08-29|
+|151|[romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim)|The neovim tabline plugin.|2229|2|2024-09-08|
+|152|[plefwgrtgrw/Roblox-Celery](https://github.com/plefwgrtgrw/Roblox-Celery)|Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creati ...|19|2|2024-09-02|
+|153|[3rd/image.nvim](https://github.com/3rd/image.nvim)|🖼️ Bringing images to Neovim.|959|2|2024-08-15|
+|154|[rose-pine/neovim](https://github.com/rose-pine/neovim)|Soho vibes for Neovim|2203|2|2024-08-25|
+|155|[banana-glitch/Cryptic-Executor](https://github.com/banana-glitch/Cryptic-Executor)|Cryptic is a top-tier exploit with a 98% UNC and Level 7 power, making it perfect for unlocking new possibilities in Roblox. Even though itâ€™s new, it's already becoming popular for its smooth perfor ...|19|2|2024-09-02|
+|156|[vague2k/vague.nvim](https://github.com/vague2k/vague.nvim)|A dark, low contrast, theme inspired by ThePrimeagen's Tokyonight+Tmux theme|93|2|2024-09-06|
+|157|[grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)|A feature-rich and highly customizable library for creating user interfaces in Neovim.|302|2|2024-05-11|
+|158|[mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim)|A Neovim Plugin for the yazi terminal file manager|403|2|2024-09-09|
+|159|[Mateo2416/Roblox-Scriptify](https://github.com/Mateo2416/Roblox-Scriptify)|The Roblox Scriptify Executor is a robust tool designed for seamless script execution in Roblox. It features an efficient injector and DLL mapping for smooth integration, along with a whitelisting sys ...|7|2|2024-09-06|
+|160|[dzirtusss/vifari](https://github.com/dzirtusss/vifari)|Vimium/Vimari for Safari without browser extension in pure Lua|10|2|2024-09-07|
+|161|[awesomeWM/awesome](https://github.com/awesomeWM/awesome)|awesome window manager|6319|2|2024-09-07|
+|162|[scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)|🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim|615|2|2024-08-29|
+|163|[hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim)|Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim. |572|2|2024-09-09|
+|164|[akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)|A snazzy bufferline for Neovim|3407|2|2024-08-19|
+|165|[ssnhd/rime](https://github.com/ssnhd/rime)|Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）|3110|2|2024-06-03|
+|166|[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)|plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.|2648|2|2024-08-19|
+|167|[nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)|Orgmode clone written in Lua for Neovim 0.9+.|2969|2|2024-09-02|
+|168|[melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim)|No frills LLM-assisted programming|234|2|2024-07-24|
+|169|[nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)|File Browser extension for telescope.nvim|1656|2|2024-09-05|
+|170|[LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim)|🚀 Launch.nvim is modular starter for Neovim.|1994|2|2024-08-08|
+|171|[PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)|Offline build planner for Path of Exile.|3951|2|2024-09-09|
+|172|[Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)|Yet another minimap plugin for Neovim|153|2|2024-09-03|
+|173|[stax76/mpv-hero](https://github.com/stax76/mpv-hero)|mpv media player from zero to hero. Get quickly and easily started with the popular mpv media player.|22|2|2024-09-04|
+|174|[HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim)|Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst|449|2|2024-08-26|
+|175|[rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)|Create Neovim themes with real-time feedback, export anywhere.|1452|1|2024-08-16|
+|176|[nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim)|Live grep with args|687|1|2024-07-28|
+|177|[ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim)|A warm neovim colorscheme|32|1|2024-07-23|
+|178|[Aqua-Nautilus/TrailShark](https://github.com/Aqua-Nautilus/TrailShark)|-|37|1|2024-08-26|
+|179|[stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)|A task runner and job management plugin for Neovim|1100|1|2024-08-19|
+|180|[kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf)|Better quickfix window in Neovim, polish old quickfix window.|1671|1|2024-06-04|
+|181|[tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim)|Highlight changed text after Undo / Redo operations|271|1|2024-05-06|
+|182|[LazyVim/starter](https://github.com/LazyVim/starter)|Starter template for LazyVim|883|1|2024-08-05|
+|183|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|1252|1|2024-03-11|
+|184|[nathom/filetype.nvim](https://github.com/nathom/filetype.nvim)|A faster version of filetype.vim|564|1|2024-05-06|
+|185|[kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb)|VSCode 💡 for neovim's built-in LSP.|778|1|2024-08-16|
+|186|[cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim)|Neovim plugin for tagging important files|526|1|2024-07-14|
+|187|[LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server)|A language server that offers Lua language support - programmed in Lua|3243|1|2024-09-09|
+|188|[nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim)|A plugin for managing and integrating your ollama workflows in neovim.|361|1|2024-08-10|
+|189|[mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim)|Jump to next/previous LSP reference for item under cursor with ]r/[r|25|1|2024-09-06|
+|190|[danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim)|Neovim plugin for fast file-finding|470|1|2024-07-07|
+|191|[nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim)|Make your nvim window separators colorful|409|1|2024-08-26|
+|192|[letieu/btw.nvim](https://github.com/letieu/btw.nvim)|I use Neovim (BTW)|127|1|2024-04-10|
+|193|[b0o/incline.nvim](https://github.com/b0o/incline.nvim)|🎈 Floating statuslines for Neovim, winbar alternative|762|1|2024-05-17|
+|194|[soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)|Show diagnostics and lsp info inside a custom window, following the mouse position|218|1|2024-07-27|
+|195|[TGIANN/tgiann-voice-effect](https://github.com/TGIANN/tgiann-voice-effect)|for fivem makes sounds more realistic when underwater and changes the voices of the players|20|1|2024-08-09|
+|196|[Jaffies/paint](https://github.com/Jaffies/paint)|Paint library for gmod|37|1|2024-09-07|
+|197|[RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)|illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.|2157|1|2024-08-02|
+|198|[jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)|Just ask an otter! 🦦|476|1|2024-08-25|
+|199|[WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles)|Dotfiles for awesome people using the awesomewm linux environment|1167|1|2024-08-09|
+|200|[georgemos9434-q091/PegasusAC](https://github.com/georgemos9434-q091/PegasusAC)|PegasusAC is the best anti-cheat solution on the market. It adheres to all CFx rules and provides you with clean files, rather than implementing cumbersome loading code into your system. Plus we are g ...|142|1|2024-04-04|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

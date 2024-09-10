@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13992|3|2024-06-25|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13993|3|2024-06-25|
 |2|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2711|1|2024-04-11|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3338|1|2024-05-31|
 |4|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |13|0|2024-08-13|
 |5|[DerekSelander/gcd_internals](https://github.com/DerekSelander/gcd_internals)|Showcases libdispatch lesser known APIs with examples & structs|7|0|2024-05-15|
 |6|[jimstudt/timelapse](https://github.com/jimstudt/timelapse)|Mac OS X command line utility to turn a series of images into a video.|54|0|2024-06-19|
 |7|[xujingzhou/FunVideo](https://github.com/xujingzhou/FunVideo)|A series of embeddable theme into video, include animation and voice.|22|0|2024-05-03|
-|8|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|🟨 🟧 🟥 A fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for developers ...|3|0|2024-08-14|
-|9|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|0|2024-09-06|
+|8|[scottgriv/Post.e](https://github.com/scottgriv/Post.e)|🟨 🟧 🟥 A fully functional, multi-programming language, "how-to-build" social media platform example. Share photos, videos, and text, follow others, and enjoy a dynamic newsfeed. Designed for developers ...|3|0|2024-09-08|
+|9|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|0|2024-09-09|
 |10|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|14|0|2024-08-19|
 |11|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|226|0|2024-08-16|
-|12|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|52|0|2024-08-16|
+|12|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|53|0|2024-08-16|
 |13|[Aynnor/YogaKitDemo](https://github.com/Aynnor/YogaKitDemo)|This is FaceBook layout Framework YogaKit test demo.|3|0|2024-08-26|
 |14|[electricbolt/bindkit](https://github.com/electricbolt/bindkit)|Two-way data binding framework for iOS. Only one API to learn.|13|0|2024-08-11|
 |15|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|0|2024-04-18|
@@ -29,8 +29,8 @@
 |22|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|565|0|2024-08-07|
 |23|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|2|0|2024-06-28|
 |24|[aprosvetova/actuator](https://github.com/aprosvetova/actuator)|Golang library that allows you to actuate your MacBook Force Touch trackpad|15|0|2024-09-07|
-|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1781|0|2024-09-06|
-|26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|320|0|2024-08-31|
+|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1781|0|2024-09-09|
+|26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for Objective-C binaries analysis.|321|0|2024-08-31|
 |27|[First-Iraqi-Bank/fib-ios-sdk](https://github.com/First-Iraqi-Bank/fib-ios-sdk)|This is the FIB Payment IOS SDK repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the FIB SDK.|5|0|2024-09-05|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
 |29|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|

@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|974|2024-05-02|2023-11-12|
-|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|563|2024-06-12|2023-11-03|
+|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|564|2024-06-12|2023-11-03|
 |3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|408|2024-06-08|2023-10-25|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|385|2024-08-27|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
-|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|364|2024-08-12|2024-03-22|
+|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|365|2024-08-12|2024-03-22|
 |7|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
 |8|[dzslinks/Crypto-Wallet-Recovery](https://github.com/dzslinks/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-02|2024-09-02|
 |9|[AryaGo2016/Crypto-Wallet-Recovery](https://github.com/AryaGo2016/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-01|2024-09-01|

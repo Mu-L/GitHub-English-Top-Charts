@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[theokwebb/C-from-Scratch](https://github.com/theokwebb/C-from-Scratch)|A roadmap to learn C from Scratch|401|2024-07-14|2024-05-11|
-|2|[radkesvat/WaterWall](https://github.com/radkesvat/WaterWall)|WaterWall is an unidentifiable mechanism for bypassing GFW. This  includes the new trojan protocol, explains its underlying ideas, and provides a guide to it.|377|2024-08-19|2024-02-12|
+|1|[theokwebb/C-from-Scratch](https://github.com/theokwebb/C-from-Scratch)|A roadmap to learn C from Scratch|402|2024-07-14|2024-05-11|
+|2|[radkesvat/WaterWall](https://github.com/radkesvat/WaterWall)|WaterWall is an unidentifiable mechanism for bypassing GFW. This  includes the new trojan protocol, explains its underlying ideas, and provides a guide to it.|381|2024-08-19|2024-02-12|
 |3|[kparc/ksimple](https://github.com/kparc/ksimple)|k/simple is a bare minimum k interpreter for learning purposes by arthur whitney|316|2024-05-07|2024-01-14|
 |4|[ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL)|Large Language Model guided Protocol Fuzzing (NDSS'24)|244|2024-09-08|2023-09-26|
 |5|[rtecCyberSec/Packer_Development](https://github.com/rtecCyberSec/Packer_Development)|Slides & Code snippets for a workshop held @ x33fcon 2024|228|2024-06-15|2024-06-14|
-|6|[CodeWithHarry/The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course)|This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry |222|2024-07-24|2024-07-09|
+|6|[CodeWithHarry/The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course)|This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry |226|2024-07-24|2024-07-09|
 |7|[erincatto/solver2d](https://github.com/erincatto/solver2d)|A project for testing rigid body solver algorithms|138|2024-09-01|2024-01-07|
 |8|[mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking)|A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.|124|2024-08-16|2023-10-06|
 |9|[FiniteSingularity/obs-retro-effects](https://github.com/FiniteSingularity/obs-retro-effects)|A collection of OBS filters to give your stream that retro feel.|92|2024-07-03|2024-01-29|

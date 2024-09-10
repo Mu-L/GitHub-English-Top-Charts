@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mawise/bookshelf](https://github.com/mawise/bookshelf)|3D animated bookshelf for ebooks|366|2024-08-16|2024-08-12|
+|1|[mawise/bookshelf](https://github.com/mawise/bookshelf)|3D animated bookshelf for ebooks|367|2024-08-16|2024-08-12|
 |2|[mattmajestic/free-tier-dev](https://github.com/mattmajestic/free-tier-dev)|A List of Developer tools in a Free Tier|104|2024-03-24|2023-11-25|
 |3|[skryukov/inertia_rails-contrib](https://github.com/skryukov/inertia_rails-contrib)|A collection of extensions, developer tools, and the community documentation for Inertia's Rails adapter.|86|2024-08-22|2024-06-04|
 |4|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|75|2024-08-23|2024-01-19|

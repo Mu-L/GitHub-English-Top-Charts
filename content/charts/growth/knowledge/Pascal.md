@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[DeveloppeurPascal/DelphiBooks4Delphi](https://github.com/DeveloppeurPascal/DelphiBooks4Delphi)|Client library and samples programs showing how to use Delphi-Books.com open data API in Delphi and Pascal languages.|3|0|2024-06-04|
 |6|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|136|0|2024-08-07|
 |7|[hsauro/Python4Delphi_NumpyExample](https://github.com/hsauro/Python4Delphi_NumpyExample)|Sample code showing how to use numpy, both receiving and returning numpy arrays|2|0|2024-04-15|
-|8|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|4|0|2024-03-18|
+|8|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|5|0|2024-03-18|
 |9|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|168|0|2024-06-12|
 |10|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|0|2024-07-31|
 |11|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|11|0|2024-05-22|

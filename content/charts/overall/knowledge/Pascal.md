@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-09-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -36,9 +36,9 @@
 |29|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-08-23|
 |30|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|5|2024-05-19|
 |31|[DjoCoding/Djo-Lang](https://github.com/DjoCoding/Djo-Lang)|a small programming language built for learning purposes|5|2024-04-26|
-|32|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|5|2024-04-10|
-|33|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|2024-08-05|
-|34|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|4|2024-03-18|
+|32|[Code4Delphi/help-insight-delphi](https://github.com/Code4Delphi/help-insight-delphi)|Exemplos de uso e customização de Help Insight / Examples of using and customizing Help Insight|5|2024-03-18|
+|33|[h0lmes/tdock](https://github.com/h0lmes/tdock)|Desktop dock panel. Has an abundance of native WinAPI usage examples. Recreated from old repo `terry`|5|2024-04-10|
+|34|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|2024-08-05|
 |35|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |4|2024-05-22|
 |36|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-06-13|
 |37|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|2024-06-24|
